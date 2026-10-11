@@ -144,6 +144,50 @@ _bump_spec.loader.exec_module(bump_source_sha)
 NOOP_CHECKER = REPO / "scripts" / "tools" / "lang-sync" / "semantic-noop-check.py"
 
 
+# ────────────────────────── 程式碼新鮮度 ──────────────────────────
+# 2026-10-11 夜班：launchd 23:26 重生的 dispatcher 載入的是 23:05 之前的程式碼，origin
+# 上剛 ship 的「不覆蓋投稿者譯文」保護（`411da2c35`）對這個進程不存在，跑了一個多小時
+# 沒有任何東西會叫（LESSONS `long-running-process-runs-the-code-it-started-with`）。
+# 推上 main 跟「正在跑的進程用的是新程式碼」中間隔著一次重啟。translate.py 這些是每篇
+# 重新 spawn 的子程序，自然讀新版；只有載進本進程記憶體的模組會舊，所以只量那些。
+# 只比啟動時就在的檔案：之後才 import 的模組不在快照裡，不能當成「變了」。
+_LANG_SYNC_DIR = Path(__file__).resolve().parent
+
+
+def loaded_code_signature() -> dict:
+    import hashlib
+    sig = {}
+    for mod in list(sys.modules.values()):
+        f = getattr(mod, "__file__", None)
+        if not f or not f.endswith(".py"):
+            continue
+        p = Path(f).resolve()
+        if p.parent != _LANG_SYNC_DIR:
+            continue
+        try:
+            sig[p.name] = hashlib.sha1(p.read_bytes()).hexdigest()
+        except OSError:
+            continue
+    try:
+        me = Path(__file__).resolve()
+        sig[me.name] = hashlib.sha1(me.read_bytes()).hexdigest()
+    except OSError:
+        pass
+    return sig
+
+
+def stale_loaded_code(sig: dict) -> list:
+    import hashlib
+    changed = []
+    for name, h in sig.items():
+        try:
+            if hashlib.sha1((_LANG_SYNC_DIR / name).read_bytes()).hexdigest() != h:
+                changed.append(name)
+        except OSError:
+            continue   # 檔案暫時不在（合併中途）不算變了，下一輪再比
+    return changed
+
+
 # ────────────────────────── logging ──────────────────────────
 
 class Logger:
@@ -2272,7 +2316,14 @@ def main() -> None:
         log("  ⚠️ BABEL_CONTRIBUTOR_GUARD=0：open-PR 過濾與人翻譯文保護都關閉（#67）")
 
     barren_rounds = 0            # 連續零產出輪數（空轉偵測，見下方 break）
+    loaded_code = loaded_code_signature()
     for round_num in range(1, args.rounds + 1):
+        if round_num > 1:
+            changed = stale_loaded_code(loaded_code)
+            if changed:
+                log(f"🔄 本進程載入的程式碼已經比磁碟上的舊（{', '.join(changed)}），"
+                    f"在輪與輪之間收工，交給 keepalive 用新程式碼重生")
+                break
         log(f"\n===== ROUND {round_num} {datetime.now().astimezone().isoformat(timespec='seconds')} =====")
         ok_before_round = state.total_ok
         status_data = refresh_status(log)
