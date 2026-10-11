@@ -45,6 +45,11 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
    ＋ `git status -sb` 確認在 main 分支
 2. **生產**：各 worker 近 45 分實際 report.jsonl 記錄數——零記錄的 worker 去 curl 它的 endpoint（慢 worker 如 laguna 300s+/篇屬正常，先查再判）
 3. **第二訊號源**：fleet registry 的機器狀態交叉比對（讀壞先重讀一次；自癒層在 fleetlib）
+4. **誰讓它活著**（v1.98，REFLEXES #38 (f) supervisor 面）：產線 PID 是 launchd keepalive 拉起的，
+   不是自己活著。三件事要對得起來——supervisor 讀的 wrapper 指令行（換旗標要改 wrapper 再
+   `launchctl kickstart -k`，只 kill 會用舊指令行重生）、supervisor 的環境（launchd 沒有 shell
+   profile，直譯器路徑寫死在 wrapper 裡）、進程載入的程式碼是不是磁碟上的新版（dispatcher 每輪
+   開頭自比，變了會印 `🔄 本進程載入的程式碼已經比磁碟上的舊` 然後在輪間收工重生）
 
 **落地**（v1.65）：gap 是工作樹口徑——status.py 讀工作樹，沒 commit 的譯文照算 fresh。
 `babel-pulse` 的 `孤兒=N` 列出工作樹有、HEAD 沒有、也不在活產線批次裡的譯文；**孤兒 > 0 時
@@ -326,6 +331,9 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
   `verify_one`**：存量與要不要接閘門都進 OBSERVER-QUEUE #101，#56「存量隨重譯清」在 stale=0 時不會發生。
   同班另修算力自檢：`check_cloud_pool` 讀兩日實績窗，laguna 退役後還會亮兩天紅燈，改成對活著的
   dispatcher 指令行（`2dfcb31d1`）。首版拿「指令行提到檔名」當判準，被查詢它的 shell 自己騙過一次。
+  另收兩件指名給本席位的交接：dispatcher 每輪開頭比對自己載入的模組雜湊，磁碟換新就在輪間收工交給
+  keepalive 重生（`d9caef9bb`，10-11 夜班 LESSONS `long-running-process-runs-the-code-it-started-with`）；
+  §三重巡檢補第 4 問「誰讓它活著」（distill 10-11 defer 給本班，REFLEXES #38 (f) supervisor 面）。
 
 - v1.97（2026-10-10 babel 夜班）：**兩個量級閘門都看不見的拆段數字，和一個把銅牌當越南盾的幣別閘門**。
   (a) 中文「121 萬 4,668 人」被譯成「1.21 million 4,668 people」：萬前面那段換算對了，零頭原樣接在量級詞後面。
