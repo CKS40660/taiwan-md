@@ -338,6 +338,12 @@ export function formatIntakeHealth(h) {
     L.push(
       `  ⚠️ 判讀：${broken.length} 層確認壞了 —— 讀者此刻送不進來,安靜不是安靜`,
     );
+  else if (unknown.length && !h.layers.some((l) => l.state === 'ok'))
+    // 一層都沒驗到時,「查得到的都活著」在空集合上恆真,讀起來卻跟健康的那天一樣。
+    // 空集合不准借用「沒事」的那個長相（REFLEXES #85 / #38）。2026-10-12 正控制現形。
+    L.push(
+      `  ❔ 判讀：今天一層都沒驗到（不等於沒事）—— 沒有讀數可引用,別當綠燈讀`,
+    );
   else if (unknown.length)
     L.push(
       `  ❔ 判讀：查得到的都活著,但有 ${unknown.length} 層今天沒驗到（不等於沒事）`,
@@ -360,7 +366,11 @@ export function formatIntakeHealth(h) {
  */
 async function probeIntakeHealth() {
   const layers = [];
-  const SITE = 'https://taiwan.md/';
+  // 正控制用的出口（REFLEXES #99 尺先驗再用）：`broken` / `unknown` 兩態平常不會出現在
+  // 線上，所以這支尺的告警分支從誕生起沒有人看過它真的叫。env 覆寫讓同一份**出貨的程式碼**
+  // 可以被指向一個刻意壞掉的目標驗一次，而不是另外手寫一份邏輯來驗（那是在驗替身，#100）。
+  // 不設這個 env 時行為一字不變。
+  const SITE = process.env.FEEDBACK_HEALTH_SITE || 'https://taiwan.md/';
   let js = '';
   let cfg = { parsed: false };
   try {

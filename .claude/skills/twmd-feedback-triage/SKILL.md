@@ -107,6 +107,10 @@ node scripts/feedback/triage.mjs --intake-health
 **`⚠️` 出現就是破口，當輪要查**，不要當成噪音往下傳。
 報表每次自己講它涵蓋不到 `INSERT` 與 OAuth：未知是被縮小，不是被消掉。
 
+這支尺的告警分支 2026-10-12 過了正控制（四條全部確認會叫），讀數可引用。要再驗一次：
+`FEEDBACK_HEALTH_SITE="http://127.0.0.1:9/" node scripts/feedback/triage.mjs --intake-health`
+——指向刻意壞掉的目標，驗的是出貨的那份程式碼，不另外手寫邏輯（驗替身等於沒驗）。
+
 ## 收官
 
 `/twmd-finale` → memory 必含 BECOME ACK、file/reject/skip count、開的 issue #N、archive 檔數、

@@ -820,3 +820,20 @@ test('parseArgs: --intake-health 是唯讀旗標,不會順手打開 commit', () 
   assert.equal(a.intakeHealth, true);
   assert.equal(a.commit, false);
 });
+
+test('formatIntakeHealth: 一層都沒驗到時不准借用「沒事」的長相', () => {
+  // 空集合上「查得到的都活著」恆真,讀起來卻跟健康的那天一樣。
+  // 2026-10-12 正控制（把出貨的程式碼指向連不上的目標）現形。
+  const out = formatIntakeHealth({
+    layers: [
+      {
+        name: '站上 bundle',
+        state: 'unknown',
+        detail: '抓不到（fetch failed）',
+      },
+    ],
+  });
+  assert.match(out, /一層都沒驗到/);
+  assert.match(out, /別當綠燈讀/);
+  assert.ok(!/查得到的都活著/.test(out));
+});
