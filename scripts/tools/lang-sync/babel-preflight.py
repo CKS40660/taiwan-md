@@ -196,8 +196,10 @@ def check_cloud_pool(days: int = 2) -> dict:
     import glob
     from collections import defaultdict
     from datetime import datetime, timedelta
-    cut = (datetime.now().astimezone() - timedelta(days=days)).isoformat()
+    now = datetime.now().astimezone()
+    cut = (now - timedelta(days=days)).isoformat()
     kept = defaultdict(lambda: [0, 0])   # model -> [kept, attempts]
+    last = {}                            # model -> 最後一筆 ts
     for rp in glob.glob("/tmp/babel-unified-2*/report.jsonl"):
         try:
             for line in open(rp, encoding="utf-8"):
@@ -216,10 +218,27 @@ def check_cloud_pool(days: int = 2) -> dict:
                 kept[model][1] += 1
                 if r.get("ok"):
                     kept[model][0] += 1
+                last[model] = max(last.get(model, ""), r.get("ts", ""))
         except Exception:
             continue
-    off = [{"model": m, "kept": k, "attempts": n} for m, (k, n) in sorted(kept.items())
-           if not m.startswith(_CLOUD_POOL_OK)]
+    # 兩日實績窗會在模型退出產線後繼續亮紅燈兩天：2026-10-12 夜班看到 laguna
+    # 「不在白名單」，而它 10-10 22:40 就從 worker 清單拿掉了，活著的 dispatcher
+    # 指令行裡沒有它。「近兩日產出過」跟「現在還在派工」是兩件事（REFLEXES #38），
+    # 所以再對一次活著的 dispatcher 指令行，加最後一筆的時間，分開印。
+    live_args = ""
+    try:
+        # 只認「python 正在執行 babel-dispatch.py」的那一行；任何指令行只要提到這個
+        # 檔名就算進來的話，連查詢它的 shell 都會被當成產線（首版自己就這樣誤判）
+        live_args = "\n".join(l for l in subprocess.run(
+            ["ps", "-eo", "command"], capture_output=True, text=True, timeout=10
+        ).stdout.splitlines()
+            if re.match(r"\S*python[\d.]*\s+\S*babel-dispatch\.py\b", l))
+    except Exception:
+        pass
+    recent = (now - timedelta(hours=2)).isoformat()
+    off = [{"model": m, "kept": k, "attempts": n, "last": last.get(m, ""),
+            "live": (f"openrouter:{m}" in live_args) or last.get(m, "") >= recent}
+           for m, (k, n) in sorted(kept.items()) if not m.startswith(_CLOUD_POOL_OK)]
     return {"off_whitelist": off, "whitelist": ", ".join(_CLOUD_POOL_OK)}
 
 
@@ -383,11 +402,18 @@ def main():
         if not ol.get("available"):
             print(f"   ❌ 本機 ollama {ol.get('hint') or ol.get('error')}")
         cp = report["cloud_pool"]
-        if cp.get("off_whitelist"):
+        live_off = [c for c in cp.get("off_whitelist", []) if c.get("live", True)]
+        gone_off = [c for c in cp.get("off_whitelist", []) if not c.get("live", True)]
+        if live_off:
             names = "、".join(f"{c['model']}（近兩日落地 {c['kept']}／嘗試 {c['attempts']}）"
-                              for c in cp["off_whitelist"])
+                              for c in live_off)
             print(f"   🔴 入池門檻  雲端 worker 不在白名單：{names}")
             print(f"      雲端白名單：{cp['whitelist']}（付費 Tier 6 另計）")
+        if gone_off:
+            names = "、".join(f"{c['model']}（近兩日落地 {c['kept']}，最後一筆 {c['last'][:16]}）"
+                              for c in gone_off)
+            print(f"   ℹ️ 入池門檻  名單外雲端模型已不在現役 dispatcher：{names}")
+            print(f"      這兩日落地的譯文仍是存量，處置見 OBSERVER-QUEUE #91")
         if fl.get("available"):
             print(f"   ✅ fleet 節點  {len(fl['reachable'])} 台可達："
                   f"{', '.join(fl['reachable'])}")
