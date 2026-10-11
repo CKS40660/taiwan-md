@@ -30,3 +30,5 @@
 {"at": "2026-10-10T20:57:37+08:00", "session": "2026-10-10-203548-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 82.0, "resets_at": "2026-10-14T12:00:00.027Z", "verdict": "lean"}
 {"at": "2026-10-11T02:07:02+08:00", "session": "2026-10-11-020419-twmd-weekly-report-sun", "phase": "start", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 92.0, "resets_at": "2026-10-14T11:59:59Z", "verdict": "reserve"}
 {"at": "2026-10-11T02:24:38+08:00", "session": "2026-10-11-020419-twmd-weekly-report-sun", "phase": "end", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 92.0, "resets_at": "2026-10-14T11:59:59Z", "verdict": "reserve"}
+{"at": "2026-10-11T21:07:52+08:00", "session": "2026-10-11-210646-twmd-routine-audit-weekly", "phase": "start", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 94.0, "resets_at": "2026-10-14T11:59:59Z", "verdict": "reserve"}
+{"at": "2026-10-11T21:15:53+08:00", "session": "2026-10-11-210646-twmd-routine-audit-weekly", "phase": "end", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 94.0, "resets_at": "2026-10-14T12:00:00Z", "verdict": "reserve"}

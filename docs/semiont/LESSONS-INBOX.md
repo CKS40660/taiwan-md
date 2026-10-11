@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-11 twmd-routine-audit-weekly — patrol-returns-pile-up-behind-a-paused-rewriter：巡邏把「退回重寫」登記進佇列，而重寫的席位停著，找到的錯比修好的多
+
+- **pattern**: patrol-returns-pile-up-behind-a-paused-rewriter
+- **原則**：一個處置有登記、沒有執行者，登記本身會被讀成進度。巡邏每拍都把查出的錯當班止血，這一半是完整的；過門檻的文章再「登記進寫作佇列退回重寫」，這一半只有寫入端。寫入端便宜、每天四次，執行端貴、停著，佇列只會單向長。
+- **觸發**：2026-10-11 routine-audit 對賬：ARTICLE-INBOX 由 semiont-heartbeat 登記的條目 41 條，其中十月 34 條；ARTICLE-DONE-LOG 提到 semiont-heartbeat 3 處。`twmd-rewrite-daily` 自 2026-07-25 兩台皆停（ROUTINE.md 註 ²¹，哲宇為控制算力手動接管），W41 週報新文章 0 篇。心臟現行公式吃「有修改」，巡邏修補讓它停在 90（佇列 #99）。
+- **instances**：
+  - 2026-10-11 twmd-routine-audit-weekly 一個月 34 篇退回、重寫席位停兩個半月 → reports/routine-audit-2026-10-11.md §3D
+- **可能層級**：通用反射候選（偵測與修復的產能要對賬，不只是路徑要存在）
+- **相關**：REFLEXES #58「儀器化 detection ≠ remediation」最近，差異在 #58 管的是修復路徑沒寫清楚，本條的路徑寫清楚了（REWRITE-PIPELINE），缺的是執行產能；09-27 routine-audit「決定沒有執行者」同形狀；DIARY「里程碑≠兌現」；佇列 #99 心臟公式
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-10-11 twmd-maintainer-daily — correctly-scoping-a-ruler-out-becomes-never-looking：「這把尺不該判它」被實作成「沒有人看它」，而前者是對的，所以沒有人回頭檢查後者
 
 - **pattern**: correctly-scoping-a-ruler-out-becomes-never-looking
@@ -342,12 +354,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-10-11 twmd-maintainer-daily `ci-main-health.sh` OFF-BRANCH：tag 觸發 workflow 最後一次執行的結論從沒被印過，cli-v0.8.1 發佈失敗十小時無聲 → memory/2026-10-11-084500-twmd-maintainer-daily.md
   - 2026-10-11 twmd-maintainer-daily `routine-stall-check.py`：live-state 鍵缺席 == `True`，未註冊的 routine 的 WARN 不會歸零，釘開告警單 → 同上
+  - 2026-10-11 twmd-self-evolve-weekly `routine-sync.py`：live 鏡像鍵名是 `cronExpression`、工具讀 `cron`，比較在讀不到值時靜默變空，第 67〜69 輪每天報「零漂移」，cron 從工具誕生起沒比過（`ff57f8815` 已修） → memory/2026-10-11-040914-twmd-self-evolve-weekly.md
+  - 2026-10-11 twmd-routine-audit-weekly `routine-sync-check.py`：ROUTINE.md 的 model 欄有解析進 `meta["model"]`，但沒有任何一行拿它去比；live 鏡像 18 條都沒有 model 欄。10-10 queue-triage 手動盤出 15 條排程沒寫 model 全跑預設 Opus，三層對賬同期全綠，到今天仍看不見這一維 → reports/routine-audit-2026-10-11.md §3B
 - **本班已 ship 的修法（兩個都只改觀察，不動判定）**：(a) OFF-BRANCH 改成仍不拿 main 的尺判它（**不計入 RED、不影響 `--strict`**，假陽性不回來），但印出它最後一次執行的結論與年齡，失敗時加 🔴 與一行說明＋總結列計數；(b) live-state 缺席得到自己的狀態 `unregistered` 與自己的符號 🆕，輸出明寫「處置不是查機器，是去 app 裡把排程建起來；在那之前它不會自己歸零」，**severity 與 exit code 都不變**（3 個 pytest）。
 - **還沒決定的那一半**：這兩個訊號該不該升級成會讓既有閘門轉紅（`--strict` 回 1 / 繼續釘開告警單），是閾值決定 → **OBSERVER-QUEUE #100**，附 (a)(b) 各三選項與成本，推薦兩者皆 C。
 - **候選機械化**：任何以 `continue`／`skip`／「不適用」排除某類對象的分支，加一條自審——「我排除的是**判定**還是**觀察**？」。可查的形狀：排除分支裡沒有任何 print／不寫進輸出結構，就是把觀察一起關掉了。`ci-main-health.sh` 與 `routine-stall-check.py` 兩處的舊程式碼都剛好是這個形狀（`continue` 前只印一行狀態、不帶讀數）。
 - **可能層級**：通用反射（#85 的新維度：不是輸出端的符號混淆，是**判定範圍的收斂把觀察一起收掉**）
 - **相關**：#85「不知道需要自己的符號」最近——差異在 #85 的檢查**跑了**只是輸出的符號分不出安全與不知道，本條的檢查**從頭沒跑**，而輸出長得像這一格本來就空；#82 proxy signal（鄰近但反向：#82 是量了替身，本條是連替身都沒量）；#38 混維度（instance 2 的 `None`／`True` 共用一條路是它在輸入端的形狀）；#52「immune 沒 fail loud 比缺 immune 更危險」（本條更隱蔽：不是壞了不叫，是那個方向上從來沒有東西在看）；#99「尺先驗再用」（兩個 instance 都是在修完假陽性之後沒有重新抽驗排除分支自己的行為）
-- **verification_count**: 2
+- **verification_count**: 4（2026-10-11 routine-audit-weekly +2：同一週三支工具、三個班次獨立撞到）
+- **distill_ready**: true
 
 ### 2026-10-11 twmd-feedback-triage — sibling-routine-commit-swallows-whatever-is-staged：產線的提交步驟把當下 index 裡的東西一起帶走，於是另一條 routine 的工作被記成它的批次
 

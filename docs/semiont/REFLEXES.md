@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 102 條 #N 反射（last #102
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.42'
+current_version: 'v5.43'
 last_updated: 2026-10-11
-last_session: '2026-10-11-040914-twmd-self-evolve-weekly：#15 第 16 次驗證'
+last_session: '2026-10-11-210646-twmd-routine-audit-weekly：共享額度池上位規則補驗證（重置後第 4 天 94%）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -672,6 +672,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **Boundary**：(a) paid endpoint 不適用（per-minute throttle 而非 budget）(b) 同 provider 多 model 共享 budget（owl + hy3 + gemma 都吃同個 cap）(c) 跨 provider（OpenAI vs OpenRouter vs Anthropic）獨立配額
 - **觸發**：2026-05-02 sleepy-colden 平行 5 lang × 2 worker = 10 worker burst dispatch，全部 worker 卡 attempt 3。Per #39 escalate Sonnet sub-agent，5 agent × 3 articles 一輪到位 15 翻譯
 - **上位規則：任何共享額度池都要有節律讀數與優先序（2026-10-11 twmd-distill-weekly fold，源 LESSONS `shared-tool-quota-pool-in-fanout`，vc=3 structural）**：本條原本只管 OpenRouter，三個載體把範圍一路撐大。08-04 支語研究 30 隻子代共用 WebSearch 的 200 次，後段 3 隻全失敗，自己改 WebFetch 直搜並誠實回報 0 次；08-18 八隻子代共用出口 IP，撞 Wikimedia 全站 429，縮圖路徑不受同一限流；10-07 兩台機器共用一個 Claude 帳號的週額度，重置後 3.2 天用完，87 小時 main 零 commit，週末反思鏈六條整批落空。第三例的代價從「後段幾隻子代失敗」變成**優先序倒置**：可選的重活排在週初先吃，必要的週末鏈排在後面餓死。規則：(a) fan-out 的派工契約寫明額度是共享池、耗盡時的退路、回報要誠實；(b) 生命體層級的池要有讀數與節律（已落地 `scripts/tools/budget-pace.py`＋HEARTBEAT §額度節律，擴到其他班次登記 OBSERVER-QUEUE #93）；(c) 必要的鏈先保留額度，可選的重活吃剩下的。候選：`image-ingest.mjs` 收到 429 自動退回 1280px 縮圖路徑。
+  - **驗證（2026-10-11 twmd-routine-audit-weekly）**：重置後第 4 天又到 94%（帳本 10-09 20:57 52% → 10-10 20:57 82% → 10-11 02:07 92%，最大單筆是哲宇在場清佇列那晚約 10%；10-11 十條例行 routine 合計只走 2%）。規則 (c) 仍無儀器：只有心跳與週報讀 `budget-pace.py`，營運機的入口班與週日鏈都不讀，再黑一次停下來的順序跟 10-04 一樣，週末鏈先餓死。→ [reports/routine-audit-2026-10-11.md §3A](../../reports/routine-audit-2026-10-11.md)
 - **操作**：→ [SQUEEZE-MODELS-MAX-PIPELINE Z2.1 + Z2.2](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
 
 **#46 Sub-agent multi-task worktree commit 前必先確認 working tree 乾淨** — 多個 sub-agent 在同 worktree 平行跑時，agent A 的 commit attempt 失敗後 lint-staged backup 會把 working tree 全部 stash（含 agent B/C 已 stage 但未 commit 的檔案），下次 retry 時 stash drop 導致 data loss。

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-10-11
-last_session: '2026-10-11-031439-twmd-distill-weekly（神經迴路補心臟量修改、補丁資格量章節兩條）'
+last_session: '2026-10-11-210646-twmd-routine-audit-weekly（第 20 次飛輪自審索引列）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -325,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-11 | 072037-twmd-feedback-triage | 零回報第十六輪，兩道對賬 88/88 與 87/88 全綠、收到 #1786 結案留言；「寫入端本行看不到」印了十六輪，今天用 GET 驗完三層並落成 `--intake-health`，未知縮到只剩 INSERT 與 OAuth | 把唯一驗法框成會留假回報的那一種，就沒人去看它了 | [→](memory/2026-10-11-072037-twmd-feedback-triage.md) |
 | 2026-10-11 | 064629-twmd-spore-harvest-am | 窗口無孢子：#29 聚合到 1.6 萬照條件重抓，九天只多 10 分享；《海上的島》串文下讀者點名合作並要「建議文章／修改建議」欄，站上掛件早有，草稿送哲宇 | 讀者向外要的入口其實在，只是沒被看見 | [→](memory/2026-10-11-064629-twmd-spore-harvest-am.md) |
 | 2026-10-11 | 085937-twmd-maintainer-daily | 投稿佇列空、CI 全綠，而兩支尺把「這把尺不該判它」做成「沒人看它」：npm 發佈失敗躺十小時、沒註冊的 routine 釘開告警單；404 重複語言前綴收成家族發 50 條 301 | 排除判定的那行順手把觀察也關掉，而它當初是對的 | [→](memory/2026-10-11-085937-twmd-maintainer-daily.md) |
+| 2026-10-11 | 210646-twmd-routine-audit-weekly | 第 20 次自審：週額度第四天 94% 全黑形狀重演；碰撞偵測器只認英文四週讀 0，本班補中文與 merge 訊號；巡邏一月退回 34 篇、重寫席位停著 | 會發現額度用完的審計排在最先餓死的位置 | [→](memory/2026-10-11-210646-twmd-routine-audit-weekly.md) |

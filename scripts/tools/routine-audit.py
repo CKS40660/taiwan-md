@@ -183,9 +183,53 @@ def collect_commits(since: str, until: str) -> list[dict]:
     return commits
 
 
+# 2026-10-11 routine-audit：commit 訊息 06-28 起改寫中文人話，只認英文 "rescue" 的偵測器
+# 從 09-13 起連四週讀 0（審計 P2→P1 自己帶了三週）。補中文救援字樣，並加 merge-cluster：
+# 同一小時兩筆以上非 PR 的 merge（"Merge remote-tracking branch" / "Merge branch"）＝
+# 平行 actor 在搶同一條 main。佇列撞號那一型已由 observer-queue-lint 在 pre-commit 擋（4cb858107）。
+RESCUE_MARKERS = ("rescue", "打撈", "救回", "孤兒", "接手", "撈回")
+NON_PR_MERGE = re.compile(r"^Merge (remote-tracking branch|branch) ")
+
+
+def _ts(c: dict) -> datetime:
+    return datetime.fromisoformat(c["date"].replace(" ", "T"))
+
+
+def _is_rescue(subject: str) -> bool:
+    s = subject.lower()
+    return any(m in s for m in RESCUE_MARKERS)
+
+
+def detect_merge_clusters(commits: list[dict], window_min: int = 60) -> list[dict]:
+    merges = [c for c in commits if NON_PR_MERGE.match(c["subject"])]
+    clusters, cur = [], []
+    for m in merges:
+        if cur and (_ts(m) - _ts(cur[0])).total_seconds() / 60 > window_min:
+            if len(cur) >= 2:
+                clusters.append(cur)
+            cur = []
+        cur.append(m)
+    if len(cur) >= 2:
+        clusters.append(cur)
+    return [
+        {
+            "type": "merge-cluster",
+            "first": cl[0]["hash"],
+            "second": cl[-1]["hash"],
+            "first_routine": cl[0]["routine"],
+            "second_routine": cl[-1]["routine"],
+            "gap_min": round((_ts(cl[-1]) - _ts(cl[0])).total_seconds() / 60, 1),
+            "count": len(cl),
+            "subjects": [c["subject"] for c in cl],
+        }
+        for cl in clusters
+    ]
+
+
 def detect_collisions(commits: list[dict]) -> list[dict]:
     """Surface adjacent commits where routine spans overlap (signal of collision)."""
-    collisions = []
+    collisions = detect_merge_clusters(commits)
+    seen_rescue: set[str] = set()
     for i, c in enumerate(commits):
         if c["category"] != "routine":
             continue
@@ -200,7 +244,9 @@ def detect_collisions(commits: list[dict]) -> list[dict]:
             if gap_min > 60:
                 break
             # Same-window collision
-            if "rescue" in n["subject"].lower() or "rescue" in c["subject"].lower():
+            rescuer = n if _is_rescue(n["subject"]) else c if _is_rescue(c["subject"]) else None
+            if rescuer and rescuer["hash"] not in seen_rescue:
+                seen_rescue.add(rescuer["hash"])
                 collisions.append(
                     {
                         "type": "rescue-pattern",
