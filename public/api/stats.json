@@ -1,40 +1,44 @@
 {
-  "totalArticles": 14626,
+  "totalArticles": 14638,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8951,
+  "totalTags": 8959,
   "categories": [
     {
       "name": "vi",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "es",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "ko",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "hi",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "fr",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "en",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "ja",
-      "count": 1125
+      "count": 1126
+    },
+    {
+      "name": "de",
+      "count": 1126
     },
     {
       "name": "ru",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "Technology",
@@ -46,15 +50,15 @@
     },
     {
       "name": "id",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "ar",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "pt",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "Politics",
@@ -67,10 +71,6 @@
     {
       "name": "Food",
       "count": 89
-    },
-    {
-      "name": "de",
-      "count": 1125
     },
     {
       "name": "Lifestyle",
@@ -148,7 +148,7 @@
     },
     {
       "name": "政治",
-      "count": 27
+      "count": 28
     },
     {
       "name": "台南",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14626,
+    "zh-TW": 14638,
     "en": 0
   },
-  "lastUpdated": "2026-10-10T22:05:59.912Z",
-  "stars": 1201,
+  "lastUpdated": "2026-10-11T22:05:46.015Z",
+  "stars": 1202,
   "forks": 187,
   "zhPages": 1124,
   "languagePages": {
     "zh-TW": 1124,
-    "en": 1125,
-    "ja": 1125,
-    "ko": 1125,
-    "es": 1125,
-    "fr": 1125,
-    "vi": 1125,
-    "id": 1125,
-    "pt": 1125,
-    "hi": 1125,
-    "ar": 1125,
-    "ru": 1125,
-    "de": 1125
+    "en": 1126,
+    "ja": 1126,
+    "ko": 1126,
+    "es": 1126,
+    "fr": 1126,
+    "vi": 1126,
+    "id": 1126,
+    "pt": 1126,
+    "hi": 1126,
+    "ar": 1126,
+    "ru": 1126,
+    "de": 1126
   },
-  "enPages": 1125,
+  "enPages": 1126,
   "totalPages": 1124
 }

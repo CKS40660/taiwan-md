@@ -15,11 +15,19 @@ MCP scheduled-tasks 的 live 狀態存在 server 內部 store（mirror 目錄只
 隱私鐵律：**只保留 taskId 以 twmd- / taiwanmd- 開頭的任務**。scheduler 裡有
 觀察者私人 routine（muse-* / fin-*），它們的存在與描述不屬於公開 repo。
 
-下游消費者：routine-sync-check.py v3 第三層比對（SSOT ↔ mirror ↔ live）。
+下游消費者：routine-sync-check.py v3 第三層比對（SSOT ↔ mirror ↔ live）；
+routine-liveness-check.py（沉默死亡對賬）→ generate-dashboard-alerts.mjs。
+
+落檔後順手重生 dashboard-alerts.json（--no-alerts 可關）：refresh-data.sh 的 prebuild
+在本工具之前跑，算沉默死亡時讀的是前一天的 dump，前一天傍晚之後才跑的 routine
+（routine-audit 週日 21:00、supporters 週一 01:00）會被印成「fire 後零痕跡」，
+這份告警再跟著 refresh commit 進 git，整天出現在每一班的 groundtruth。
+2026-10-12 twmd-data-refresh-am 量到：重生前 4 條黃燈，重生後 2 條。
 """
 
 import json
 import re
+import subprocess
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -45,8 +53,13 @@ def main():
         i = args.index("--session")
         session = args[i + 1]
         del args[i : i + 2]
+    regen_alerts = "--no-alerts" not in args
+    args = [a for a in args if a != "--no-alerts"]
     if not args:
-        print("usage: routine-live-normalize.py <raw-mcp-list.json> [--session <id>]")
+        print(
+            "usage: routine-live-normalize.py <raw-mcp-list.json> "
+            "[--session <id>] [--no-alerts]"
+        )
         return 1
 
     raw = json.loads(Path(args[0]).read_text(encoding="utf-8"))
@@ -81,6 +94,16 @@ def main():
         f"✅ {OUT_PATH.relative_to(REPO_ROOT)}: {out['enabled_count']} enabled "
         f"+ {out['disabled_count']} disabled（過濾 {dropped} 條私人 routine）"
     )
+    if regen_alerts:
+        r = subprocess.run(
+            ["node", "scripts/core/generate-dashboard-alerts.mjs"],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+        )
+        tail = (r.stdout or r.stderr).strip().splitlines()[-1:] or ["(no output)"]
+        mark = "✅" if r.returncode == 0 else "⚠️"
+        print(f"{mark} dashboard-alerts 依新 dump 重生：{tail[0]}")
     return 0
 
 

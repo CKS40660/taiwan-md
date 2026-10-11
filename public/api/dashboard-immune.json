@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T06:06:14.676205",
+  "lastUpdated": "2026-10-12T06:06:01.536899",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 59,
@@ -124,8 +124,8 @@
     "files_with_grade": 1124
   },
   "freshnessDetail": {
-    "editorial_days_old": 1,
-    "avg_plugin_days_old": 63.9,
+    "editorial_days_old": 2,
+    "avg_plugin_days_old": 64.9,
     "plugin_count": 34,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
@@ -139,210 +139,210 @@
     "plugin_count": 34,
     "healthy_count": 34,
     "unhealthy_count": 0,
-    "editorial_age_days": 1,
+    "editorial_age_days": 2,
     "age_watch_days": 30,
     "plugins": [
       {
         "plugin": "ai_residue",
-        "plugin_age_days": 73,
+        "plugin_age_days": 74,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "attribution_vague",
-        "plugin_age_days": 87,
+        "plugin_age_days": 88,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "body_internal_links",
-        "plugin_age_days": 36,
+        "plugin_age_days": 37,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "chronicle_lead",
-        "plugin_age_days": 58,
+        "plugin_age_days": 59,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "cjk_punct",
-        "plugin_age_days": 160,
+        "plugin_age_days": 161,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "correction_meta",
-        "plugin_age_days": 79,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "cross_reference",
-        "plugin_age_days": 79,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "curation_consistency",
-        "plugin_age_days": 1,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "fence_prose",
-        "plugin_age_days": 58,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "footnote_density",
-        "plugin_age_days": 21,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "footnote_format",
-        "plugin_age_days": 15,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "footnote_url",
-        "plugin_age_days": 2,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "format_structure",
-        "plugin_age_days": 160,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "frontmatter_format",
         "plugin_age_days": 80,
         "healthy": true,
         "age_watch": true
       },
       {
-        "plugin": "frontmatter_title",
+        "plugin": "cross_reference",
+        "plugin_age_days": 80,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "curation_consistency",
         "plugin_age_days": 2,
         "healthy": true,
         "age_watch": false
       },
       {
+        "plugin": "fence_prose",
+        "plugin_age_days": 59,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "footnote_density",
+        "plugin_age_days": 22,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "footnote_format",
+        "plugin_age_days": 16,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "footnote_url",
+        "plugin_age_days": 3,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "format_structure",
+        "plugin_age_days": 161,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "frontmatter_format",
+        "plugin_age_days": 81,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "frontmatter_title",
+        "plugin_age_days": 3,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
         "plugin": "gh_footnote_leak",
-        "plugin_age_days": 58,
+        "plugin_age_days": 59,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "image_alt",
-        "plugin_age_days": 148,
+        "plugin_age_days": 149,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "image_health",
-        "plugin_age_days": 32,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "link_target",
-        "plugin_age_days": 1,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "link_url_mangle",
-        "plugin_age_days": 57,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "media_richness",
-        "plugin_age_days": 79,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "paragraph_rhythm",
-        "plugin_age_days": 58,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "prettier_url_stability",
-        "plugin_age_days": 14,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "prose_health",
-        "plugin_age_days": 36,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "quote_fidelity",
-        "plugin_age_days": 79,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "rationale_presence",
-        "plugin_age_days": 141,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "seo_meta",
-        "plugin_age_days": 31,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "spore_writing",
-        "plugin_age_days": 68,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "subcategory_translation_parity",
         "plugin_age_days": 33,
         "healthy": true,
         "age_watch": true
       },
       {
+        "plugin": "link_target",
+        "plugin_age_days": 2,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "link_url_mangle",
+        "plugin_age_days": 58,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "media_richness",
+        "plugin_age_days": 80,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "paragraph_rhythm",
+        "plugin_age_days": 59,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "prettier_url_stability",
+        "plugin_age_days": 15,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "prose_health",
+        "plugin_age_days": 37,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "quote_fidelity",
+        "plugin_age_days": 80,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "rationale_presence",
+        "plugin_age_days": 142,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "seo_meta",
+        "plugin_age_days": 32,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "spore_writing",
+        "plugin_age_days": 69,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "subcategory_translation_parity",
+        "plugin_age_days": 34,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
         "plugin": "subcategory_valid",
-        "plugin_age_days": 55,
+        "plugin_age_days": 56,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "terminology",
-        "plugin_age_days": 160,
+        "plugin_age_days": 161,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "viz_health",
-        "plugin_age_days": 53,
+        "plugin_age_days": 54,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "wikilink_target",
-        "plugin_age_days": 79,
+        "plugin_age_days": 80,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "word_count",
-        "plugin_age_days": 79,
+        "plugin_age_days": 80,
         "healthy": true,
         "age_watch": true
       }

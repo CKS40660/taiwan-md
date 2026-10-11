@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T22:06:14.851Z",
+  "lastUpdated": "2026-10-11T22:06:01.699Z",
   "organs": [
     {
       "id": "heart",
@@ -10,16 +10,16 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 39,
+        "articlesLast7Days": 22,
         "articlesLast30Days": 113,
         "totalArticles": 1124,
         "selfProducedLast7Days": 0,
         "selfProducedLast30Days": 5,
-        "contributedLast7Days": 39,
+        "contributedLast7Days": 22,
         "newArticlesLast7Days": 1,
         "newArticlesLast30Days": 5,
         "contributedNewLast7Days": 1,
-        "updatedNotNewLast7Days": 38,
+        "updatedNotNewLast7Days": 21,
         "shadowScoreNewOnly": 30
       }
     },
@@ -128,18 +128,18 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1124,
-          "en": 1123,
-          "ja": 1123,
-          "ko": 1123,
-          "es": 1123,
-          "fr": 1123,
-          "vi": 1123,
-          "id": 1123,
-          "pt": 1123,
-          "hi": 1123,
-          "ar": 1123,
-          "ru": 1123,
-          "de": 1123
+          "en": 1124,
+          "ja": 1124,
+          "ko": 1124,
+          "es": 1124,
+          "fr": 1124,
+          "vi": 1124,
+          "id": 1124,
+          "pt": 1124,
+          "hi": 1124,
+          "ar": 1124,
+          "ru": 1124,
+          "de": 1124
         },
         "translationPct": 92,
         "langHealthDetails": {
@@ -230,7 +230,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 97
@@ -322,7 +322,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 78
@@ -414,7 +414,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 96
@@ -506,7 +506,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 96
@@ -598,7 +598,7 @@
               "pct": 23
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 83
@@ -690,7 +690,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 98
@@ -782,7 +782,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 98
@@ -874,7 +874,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 98
@@ -966,7 +966,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 98
@@ -1058,7 +1058,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 78
@@ -1150,7 +1150,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 78
@@ -1242,7 +1242,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1123,
+              "count": 1124,
               "pct": 100
             },
             "score": 100
