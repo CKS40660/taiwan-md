@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T22:08:15.741Z",
+  "lastUpdated": "2026-10-12T22:07:28.463Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 2,
@@ -15,7 +15,7 @@
     {
       "id": "routine-silent-twmd-terminology-trends-monthly",
       "severity": "yellow",
-      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 163.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 24.2 天",
+      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 187.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 23.2 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-terminology-trends-monthly",
       "firstSeen": "2026-10-07"

@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-10-11T22:05:45.338Z",
+  "generatedAt": "2026-10-12T22:05:47.846Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "aedd81dd4ef8dc2d7c29b4d5d2228aaafa96119b",
+      "date": "2026-10-13T05:58:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: 語意索引例行重建，十三語驗證通過，內容沒有改動所以索引一字不差，不另提交",
+      "articles": []
+    },
+    {
+      "hash": "4d438c68d8ccf2b91b34657dcdfdde8a48151841",
+      "date": "2026-10-13T05:39:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: routine-sync 第 72 輪，十九份 prompt 全一致，審庫存排程照前班決定不重試，等哲宇週三前註冊",
+      "articles": []
+    },
+    {
+      "hash": "5ff2c4aa272f34d1e725adc2400be3944ce4e2eb",
+      "date": "2026-10-13T00:46:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: babel 夜班續命，十二語缺口連第二夜為零，傳了兩班的 run 目錄清理當班上線清掉 360 個",
+      "articles": []
+    },
+    {
+      "hash": "0eca417fc347f5aa0e07ec557d628b79905de569",
+      "date": "2026-10-13T00:45:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] heal: 產線閒置時每十分鐘留下一個空的 run 目錄，/tmp 堆到 939 個，起跑時順手清掉零紀錄的舊目錄",
+      "articles": []
+    },
+    {
+      "hash": "d5471854c156c83e78c0b40096c6271d9fa7af19",
+      "date": "2026-10-12T10:44:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "📡 reports: 新增 X 提及週報 x-mentions/（回填 2026-09 與 10/05–10/12）",
+      "articles": []
+    },
+    {
+      "hash": "e7e27121c5b2a3c925c86456d25cf6e7d51477c6",
+      "date": "2026-10-12T09:07:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-maintainer-daily: 昨天加的那個狀態只進了明細行，沒進結論那一句",
+      "articles": []
+    },
+    {
+      "hash": "2efb63edf98636df25b9a7eec88454d63c928663",
+      "date": "2026-10-12T09:01:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] heal: 404 頁認得「中文網址被當 Latin-1 編兩次」的形狀，把讀者送回真頁面",
+      "articles": []
+    },
+    {
+      "hash": "eca09f92e833f5e5247c34ed72a498fbc9eb6022",
+      "date": "2026-10-12T08:39:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 停轉告警的判讀句把「沒人建這條排程」讀成「分岔要合併」，處置正好相反",
+      "articles": []
+    },
+    {
+      "hash": "7e2ee092e981613f231e1a4e48fdf9ca74109b31",
+      "date": "2026-10-12T07:24:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: pipeline 引用的那句判讀行跟出貨的字串對不上，改回實際印出來的那句",
+      "articles": []
+    },
+    {
+      "hash": "8b0c6dffd220218ecab82eff30e2d9224977b27f",
+      "date": "2026-10-12T07:20:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-feedback-triage: 零回報第十七輪，沉默剩 0.3 天就破紀錄；昨天那支新尺今天自己過了正控制",
+      "articles": []
+    },
+    {
+      "hash": "1a43e7d95dfdd3f680ffdd2c4a5ed7745b9879be",
+      "date": "2026-10-12T06:42:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-spore-harvest: 窗口連兩天沒有孢子，兩個動態頁沒有新留言，照規則只記不抓 — 2026-10-12",
+      "articles": []
+    },
+    {
+      "hash": "577131983f36dd447508f39e2ccdf1a77601f11a",
+      "date": "2026-10-12T06:09:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] refresh: 每日資料刷新全過，告警改在排程器狀態落檔後重算，兩條昨晚已收官的週班不再被報成沉默死亡",
+      "articles": []
+    },
     {
       "hash": "aaeb0c78b91b30530d4df53e086012d2495bc485",
       "date": "2026-10-12T05:58:19+08:00",
@@ -77009,90 +77093,6 @@
       "date": "2026-06-07T04:21:49+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] self-evolve-weekly: REFLEXES #31 v2 expansion + #66 Gate dogfood calibration + 3 LESSONS distill",
-      "articles": []
-    },
-    {
-      "hash": "9749a76efbaf2715562d7e0192651a6422cf2d6e",
-      "date": "2026-06-07T03:14:49+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] distill-weekly: 第 10 次 distill — REFLEXES #65 加 cross-SSOT specialization vc=8 + L666 housekeeping + SPORE-INBOX 31 警示",
-      "articles": []
-    },
-    {
-      "hash": "a47250a0859009a9602856df3c525226b1ea57a7",
-      "date": "2026-06-07T02:15:23+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] report: weekly 2026-06-07 — Resend id 4f97d84a-ea7c-4214-880a-d700319855cc",
-      "articles": []
-    },
-    {
-      "hash": "9ab2af6be932e328cf36f41ceb83a582e40ea72e",
-      "date": "2026-06-07T01:14:33+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] news-lens-weekly: 6 P1 candidates appended SPORE-INBOX (week 2026-W23)",
-      "articles": []
-    },
-    {
-      "hash": "8fa68b03a0cbdcc544ac350505cd545f452c9b03",
-      "date": "2026-06-06T23:12:57+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] memory: 2026-06-06-231032-twmd-data-refresh-pm — 14/14 PASS + Step 11 全綠 + snapshot.sh stale gap 連續 2 cycle 確認",
-      "articles": []
-    },
-    {
-      "hash": "77f6dfe72fa63de49c4bc0978a55a052e9c7b98d",
-      "date": "2026-06-06T23:12:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] data-refresh-pm: 14-step ALL PASS + Step 11 全綠 + immune AM 61 → PM 58 — 2026-06-06 23:00",
-      "articles": []
-    },
-    {
-      "hash": "da41c86c8ce23b10b134bd587c50dc640127254d",
-      "date": "2026-06-06T22:06:06+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] memory: 2026-06-06-220229-twmd-maintainer-pm — vc=2 真實空場 / cron stall 自癒 / manual 已清完可動",
-      "articles": []
-    },
-    {
-      "hash": "22facbd9fe01f20a1a17c99f7daa38ad90498ffd",
-      "date": "2026-06-06T18:56:07+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary: 我的繁殖器官在母語以外的每個語言，悄悄把我跟內容農場的分界線刪掉了",
-      "articles": []
-    },
-    {
-      "hash": "1ccfce681e5c27dbf6b3f0e8a2270093e475b18b",
-      "date": "2026-06-06T18:51:18+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 補記 babel 截斷 bug 全修續章 + 修正 LESSONS（inline 修非 spawn）",
-      "articles": []
-    },
-    {
-      "hash": "657fd02d4a9c13dc8d68447a6ed8239304a6759d",
-      "date": "2026-06-06T18:49:53+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: footnote-loss 自動偵測 + 263 篇排程重翻 — status.py 閘門 + cascade gate + 修死 model",
-      "articles": []
-    },
-    {
-      "hash": "f5d4a5cb11072734bf41ae2247ff0af5c0390afd",
-      "date": "2026-06-06T18:42:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: babel 腳註截斷 bug 修復 — truncation guard + 腳註完整 hard gate",
-      "articles": []
-    },
-    {
-      "hash": "84f3b5afc50a00451539161f185d535c952fa3bf",
-      "date": "2026-06-06T18:14:04+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: #1138 commonwealth-magazine provenance + subcategory passthrough",
-      "articles": []
-    },
-    {
-      "hash": "422bce14b17dec0cccfabc5f7389a5585db3e9a7",
-      "date": "2026-06-06T18:13:07+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 2026-06-06-181016-manual — PR #1138 CommonWealth 翻譯小丑魚採用 + 揪出 babel 腳註靜默掉光 bug",
       "articles": []
     }
   ]
