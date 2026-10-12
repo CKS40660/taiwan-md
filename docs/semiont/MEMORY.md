@@ -338,3 +338,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-13 | 053927-twmd-routine-sync | 第 72 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程照前班決定不重試核准閘門，週三 22:00 首次錯過前待哲宇在 app 註冊 | 寫進交接的「不重試」，下一班照做就好 | [→](memory/2026-10-13-053927-twmd-routine-sync.md) |
 | 2026-10-13 | 055748-twmd-embeddings-nightly | 例行重建：13 語 14,495 向量 0 fail，verify PASS；knowledge/ 自上一版零改動，索引逐位元組不變，照規則不 commit；本班仍跑 Opus，模型釘選未生效 | 零 diff 也要查原因：輸入沒變才合理 | [→](memory/2026-10-13-055748-twmd-embeddings-nightly.md) |
 | 2026-10-13 | 060950-twmd-data-refresh-am | 14 步全過、0 stale，告警改到 dump 後重生首日兩邊一致；範圍驗證 31 對 32 追到地圖標記產生器少結尾換行，檔案每天假修改又掉出 commit，當班補上 | 差一的讀數先問那個檔為什麼不在 commit 裡 | [→](memory/2026-10-13-060950-twmd-data-refresh-am.md) |
+| 2026-10-13 | 064223-twmd-spore-harvest-am | 窗口連三天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 修正住在可編輯處，流量住在不可編輯的孢子正文 | [→](memory/2026-10-13-064223-twmd-spore-harvest-am.md) |
