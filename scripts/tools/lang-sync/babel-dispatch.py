@@ -246,6 +246,64 @@ def create_run_dir(
             suffix += 1
 
 
+_RUN_DIR_PID = re.compile(r"^babel-unified-\d{8}-\d{6}-(\d+)(?:-\d+)?$")
+_RUN_DIR_RECORD_FILES = ("report.jsonl", "freezes.jsonl")
+
+
+def _pid_alive(pid: int) -> bool:
+    try:
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True
+    return True
+
+
+def prune_idle_run_dirs(
+    base: Path = Path("/tmp"),
+    *,
+    keep: Optional[Path] = None,
+    min_age_hours: float = 48.0,
+    now: Optional[float] = None,
+) -> list[Path]:
+    """Remove run dirs that never recorded anything (2026-10-13 babel-nightly).
+
+    keepalive 閒置輪詢每十分鐘開一個 run dir，佇列空時一天約 72 個，裡面只有
+    master.log 跟空的 report／freezes，十月中累積到 939 個。這裡只收「什麼都沒
+    記到」的那種：report.jsonl 與 freezes.jsonl 都是空的（或不存在）、沒有任何
+    子目錄（tasks/ 是有派工的痕跡）、名字裡的 PID 已經不在、且超過
+    min_age_hours。有任何一筆紀錄的 run 一律不動——preflight／weak-lanes／
+    progress-snapshot 讀的實績都住在那裡。
+    """
+    cutoff = (time.time() if now is None else now) - min_age_hours * 3600
+    removed: list[Path] = []
+    for d in base.glob("babel-unified-2*"):
+        m = _RUN_DIR_PID.match(d.name)
+        if not m or not d.is_dir() or d.is_symlink():
+            continue
+        if keep is not None and d.resolve() == keep.resolve():
+            continue
+        try:
+            if d.stat().st_mtime > cutoff:
+                continue
+            entries = list(d.iterdir())
+            if any(e.is_dir() for e in entries):
+                continue
+            if any((d / f).exists() and (d / f).stat().st_size > 0
+                   for f in _RUN_DIR_RECORD_FILES):
+                continue
+            if _pid_alive(int(m.group(1))):
+                continue
+            for e in entries:
+                e.unlink()
+            d.rmdir()
+            removed.append(d)
+        except OSError:
+            continue  # 別的進程正在動它，下一輪再說
+    return removed
+
+
 # ────────────────────────── workers ──────────────────────────
 
 @dataclass
@@ -2284,6 +2342,9 @@ def main() -> None:
 
     log(f"START babel-dispatch.py {datetime.now().astimezone().isoformat(timespec='seconds')}")
     log(f"  run_dir={run_dir}")
+    pruned = prune_idle_run_dirs(run_dir.parent, keep=run_dir)
+    if pruned:
+        log(f"  清掉 {len(pruned)} 個超過 48 小時、零紀錄的閒置 run dir")
     log(f"  workers={[(w.label, w.cascade_spec, w.host, w.tier) for w in workers]}")
     log(f"  order={args.order} rounds={args.rounds} commit_every={args.commit_every} "
         f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
