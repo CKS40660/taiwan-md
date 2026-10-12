@@ -11,7 +11,7 @@
 | `research/YYYY-MM/`                                                            | REWRITE Stage 1 研究 SSOT（每篇文章一份）          | 永久（文章的證據鏈）；**音檔不入 git**（.gitignore 2026-06-10 起） |
 | `factcheck/YYYY-MM/`                                                           | FACTCHECK Full mode 報告                           | 永久（immune v3 external_rulers 的資料源）                         |
 | `weekly/`                                                                      | 週報                                               | 永久                                                               |
-| `audit/`、`ab-tests/`、`probe/`、`translation-research/`、`music-media-audit/` | 各類專項掃描                                       | 永久                                                               |
+| `audit/`、`ab-tests/`、`probe/`、`translation-research/`、`music-media-audit/`、`x-mentions/` | 各類專項掃描                                       | 永久                                                               |
 | `visual/`                                                                      | 截圖 / 視覺驗證 artifacts（多為 untracked 本機檔） | **TTL 90 天**：超過 90 天的本機截圖可清（git-tracked 的保留）      |
 | `scratch/`                                                                     | 暫存草稿                                           | TTL 30 天，隨手清                                                  |
 | `archive/`                                                                     | 季度歸檔（2026-05-27 archival audit 建立）         | 永久                                                               |
