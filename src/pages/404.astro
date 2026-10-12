@@ -467,7 +467,78 @@ const categories = [
     // NOTE: this is a define:vars script — never write backticks anywhere in
     // it (comments included); Astro's injection wrapper breaks on them.
     let page404Fired = false;
-    if (/\.md$/.test(pathname)) {
+
+    // ─── mojibake rescue (2026-10-12) ──────────────────────
+    // 外部 client 把我們的中文網址當 Latin-1 讀再編一次 UTF-8，於是
+    // /nature/台灣黑熊 變成 /nature/%C3%A5%C2%8F%C2%B0... 這種形狀。
+    // 2026-10-10 單日 1,409 筆（前一日 180），而站上任何一層都沒有吐出
+    // 這種連結（src / public / config / dist 全庫零命中），解碼後的目標
+    // 又全是活著的頁面——所以壞的不是我們的連結，是別人的編碼，而讀者
+    // 落在我們的死路上。真瀏覽器 UA 的命中數（192）比那隻裸 UA（164）
+    // 還多，所以這不是單一爬蟲洗量，救得回來的是真的人。
+    //
+    // 判準三道，缺一就不導：解碼後每個字元都 < 256（Latin-1 值域內）、
+    // 這串位元組是嚴格合法的 UTF-8、修好的結果跟原本不同。純 ASCII 路徑
+    // 修完等於原值所以不會動，而 Latin-1 重音字（jose 的 e 帶尖音）不是
+    // 合法 UTF-8 起始位元組，fatal 解碼會丟出來。導過去之後路徑已經乾淨，
+    // 這一支不會再命中，所以不會打轉。
+    let mojibakeTarget = null;
+    try {
+      const decodedPath = decodeURIComponent(pathname);
+      const bytes = new Uint8Array(decodedPath.length);
+      let allLatin1 = true;
+      for (let i = 0; i < decodedPath.length; i++) {
+        const code = decodedPath.charCodeAt(i);
+        if (code > 255) {
+          allLatin1 = false;
+          break;
+        }
+        bytes[i] = code;
+      }
+      if (allLatin1) {
+        const repaired = new TextDecoder('utf-8', { fatal: true }).decode(
+          bytes,
+        );
+        // 只收站內絕對路徑：開頭單一斜線。'//host' 是 protocol-relative，
+        // 會把讀者送去別人的站上，所以擋掉。
+        if (
+          repaired !== decodedPath &&
+          repaired.charAt(0) === '/' &&
+          repaired.charAt(1) !== '/'
+        ) {
+          mojibakeTarget = repaired;
+        }
+      }
+    } catch (e) {
+      // 不是合法 UTF-8 → 不是這個病，交給後面的分支
+      mojibakeTarget = null;
+    }
+
+    if (mojibakeTarget) {
+      try {
+        if (
+          typeof window !== 'undefined' &&
+          typeof window.gtag === 'function'
+        ) {
+          window.gtag('event', 'page_404', {
+            failed_path: window.location.pathname,
+            failed_url: window.location.href,
+            referrer: document.referrer || '(direct)',
+            page_lang: document.documentElement.lang || 'unknown',
+            had_suggestion: true,
+          });
+        }
+      } catch (e) {
+        console.error('[404] page_404 tracking failed:', e);
+      }
+      page404Fired = true;
+
+      setTimeout(() => {
+        window.location.replace(mojibakeTarget);
+      }, 150);
+    }
+
+    if (!mojibakeTarget && /\.md$/.test(pathname)) {
       const mdPath = pathWithoutLang.replace(/\.md$/, '');
       const mdSegments = mdPath
         .replace(/^\//, '')

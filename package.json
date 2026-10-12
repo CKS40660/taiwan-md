@@ -58,6 +58,7 @@
     "feedback:triage": "node scripts/feedback/triage.mjs",
     "feedback:test": "node --test scripts/feedback/*.test.mjs",
     "feedback:uxtest": "node tests/feedback/widget.uxtest.mjs",
+    "test:404-mojibake": "node tests/404-mojibake.uxtest.mjs",
     "feedback:devtest": "PUBLIC_FEEDBACK_MODE=mock astro dev --port 4330",
     "visual:baseline": "node scripts/visual/capture-baseline.mjs --baseline",
     "visual:capture": "node scripts/visual/capture-baseline.mjs",
