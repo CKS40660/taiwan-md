@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-13 | 055748-twmd-embeddings-nightly | 例行重建：13 語 14,495 向量 0 fail，verify PASS；knowledge/ 自上一版零改動，索引逐位元組不變，照規則不 commit；本班仍跑 Opus，模型釘選未生效 | 零 diff 也要查原因：輸入沒變才合理 | [→](memory/2026-10-13-055748-twmd-embeddings-nightly.md) |
 | 2026-10-13 | 060950-twmd-data-refresh-am | 14 步全過、0 stale，告警改到 dump 後重生首日兩邊一致；範圍驗證 31 對 32 追到地圖標記產生器少結尾換行，檔案每天假修改又掉出 commit，當班補上 | 差一的讀數先問那個檔為什麼不在 commit 裡 | [→](memory/2026-10-13-060950-twmd-data-refresh-am.md) |
 | 2026-10-13 | 064223-twmd-spore-harvest-am | 窗口連三天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 修正住在可編輯處，流量住在不可編輯的孢子正文 | [→](memory/2026-10-13-064223-twmd-spore-harvest-am.md) |
+| 2026-10-13 | 071548-twmd-feedback-triage | 零回報第十八輪，沉默 13.3 天首次超過史上最長 12.6 天；兩道對賬 88/88 與 87/88 全綠、寫入端驗得到的兩層全綠；OAuth 那半用唯讀 GET 問掉，閾值送佇列 #103 | 十八輪都在手動扮演一個沒人設過的閾值 | [→](memory/2026-10-13-071548-twmd-feedback-triage.md) |

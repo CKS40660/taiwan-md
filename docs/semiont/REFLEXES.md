@@ -5,8 +5,8 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.43'
-last_updated: 2026-10-11
-last_session: '2026-10-11-210646-twmd-routine-audit-weekly：共享額度池上位規則補驗證（重置後第 4 天 94%）'
+last_updated: 2026-10-13
+last_session: '2026-10-13-twmd-feedback-triage：#85 補驗證（寫入端健檢的判讀行修補落地隔天真的叫了一次）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -1121,6 +1121,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **驗證（2026-10-01 semiont-heartbeat 20:37 班，變體 2 存活五個月的版本）**：`refresh-llms-txt.py` 從 `dashboard-i18n.json` 讀翻譯新鮮度，那份檔案是介面字串覆蓋率，從來沒有它要找的欄位，讀回空 dict；工具的規則是「讀不到就不改那一行」，也不出聲。於是 `public/llms.txt` 寫給 AI 爬蟲的新鮮度從 05-04 工具誕生起一直停在五月那組數字，每天資料刷新都印「✓ llms.txt 已是最新」。讀錯檔、讀到空、沿用舊值三件事疊在一起，輸出長得跟「量過且沒變」一模一樣。改讀 `dashboard-translations.json`，讀不到時在 stderr 明講這行過期（`9b58a94f6`）。
 - **驗證（2026-10-02 semiont-heartbeat 20:37 班，判定詞彙層：查核子代的 ✅）**：前一班反芻問「✅ 那一邊沒人重驗」，本班抽驗同晚三份巡邏查核檔。44 個 ✅ 裡有 5 個的理由是「評價性，未見反證」「修辭，未見反證」「僅見搜尋摘要，未開頁」；隨機抽 9 個 ✅ 用 curl 重驗，8 個硬事實全部成立，唯一站不住的「貢茶精品定位」在它引用的維基頁 grep「精品」0 筆。FACTCHECK 的判定矩陣原本只有通過、需修、錯、死鏈四格，沒有「查過但沒有東西可以支持或反駁」那一格，於是不知道只能借用 ✅。補 💬 OPINION 一格並寫明 ✅ 的門檻（FACTCHECK v2.8）。跟本條三個原始變體同形，載體從程式輸出換成 LLM 判斷的詞彙表：符號表裡少一格，判斷者就只能挑最接近的那一格。→ memory/2026-10-02-203728-semiont-heartbeat
 - **驗證（2026-10-03 semiont-heartbeat 14:37 班，判定詞彙層第二例：查無此人借用了沒開到頁）**：〈台灣新住民美食融合〉巡邏 79 個原子只有 2 個 ❌（2.5%），遠低於退回重寫的 10% 門檻；但卷首引語人「阮氏雲」、台北車站店主「阿嘉」、「越河 Pho」「椰饗德」兩個品牌、兩則二代創業故事、兩份書目，全網與站內都查無，子代只能判 🔴，跟「沒開到頁」共用一格。🔴 不進門檻分子，於是一篇零腳註、具名對象一半是編的初稿，在數字上看起來比錯了 9 個年份的〈蔡明亮〉還乾淨。補 👻 FABRICATED 一格並計入分子（FACTCHECK v2.11）。跟 10-02 的 💬 是同一張符號表上的兩個洞：💬 讓「不知道」不必借用 ✅，👻 讓「查無此人」不必借用「沒查到」。→ memory/2026-10-03-143721-semiont-heartbeat
+- **驗證（2026-10-13 twmd-feedback-triage，修補落地隔天就真的叫了一次）**：`--intake-health` 的判讀行 10-12 才從「查得到的都活著」改成「今天一層都沒驗到（不等於沒事）—— 沒有讀數可引用，別當綠燈讀」（那次是正控制揪出來的，空集合上恆真的那句話讀起來跟健康的那天逐字相同）。隔一天本班跑 `--commit` 時，抓站上 bundle 的那個 GET 遇到一次 `fetch failed`，三層全部沒驗到，新版判讀行原樣印出來。同輪前後四次重跑全綠，所以那次是暫時性的網路抖動；但舊版在這一刻會印「查得到的都活著」，而當班正在判斷一件事：讀者沉默 13.3 天、史上最久，寫入端到底通不通。**修補的價值不在它防住了什麼大破口，在它把「今天沒驗到」還給了「今天沒驗到」**，而那一天剛好是最需要分清這兩件事的一天。同輪另把未涵蓋的那半縮小一塊：唯讀 GET `/auth/v1/settings` 問到 auth 服務 HTTP 200、`google`／`github`／`email` 三個 provider server 端確實開著、`disable_signup=false`，跟出貨 bundle 宣告的一致，於是未知從「INSERT ＋ OAuth」縮到「只剩登入讀者的 INSERT」（第二次手寫就落地成 flag，照這條線 `--show`／intake-age／intake-stats 的慣例；今天是第一次）→ `docs/semiont/OBSERVER-QUEUE.md` #103
 - **相關**：#82（proxy signal — 本條的差異是「訊號選對了但根本沒量」，不是「量了替身」）/ #38（混維度 — 本條是它在檢查器輸出端與取數輸入端的具體形狀）/ #52（immune system 沒在 fail loud 比缺 immune system 更危險——本條的閘門更隱蔽：不是壞掉時不叫，是**從來沒活過所以沒有東西可以叫**）/ #59（製造數字的人最易被數字騙——檢查器騙過的第一個人是拿它來檢查的人）/ #69（每層自評都需要外部尺——三個變體分別由 PR triage、routine 例行、貢獻者 issue 三個獨立方向撞見，互為外部尺）/ #83（checker 兩把尺 divergence——鄰近但軸不同：那條講兩把尺不同調，本條講**第二把尺根本沒被拿起來過**）/ #91（建造與登記不同步——detector fallback 誤判死亡的根因常是新對象誕生時沒同 commit 補登記表）
 - **操作**：→ `article-health.py` 候選加「未執行」第三態符號（成本低，會一次照亮站上所有「註冊了但沒在跑」的檢查）/ `.husky/pre-commit` slug 閘門接線修復（3 行，但需先處理 12 筆既有漂移，命中 §自主權邊界，留 OBSERVER-QUEUE）/ `triage.mjs` `fetchIssueComments()` 已修（null vs [] 分流 + `comment-reconcile=N/M` 三分報告，per FEEDBACK-TRIAGE-PIPELINE §HG12c）
 
