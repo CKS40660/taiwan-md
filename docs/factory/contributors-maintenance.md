@@ -1,3 +1,13 @@
+---
+title: 'contributors-maintenance'
+description: 'Contributor display layer 維護紀律 — .mailmap 與 .all-contributorsrc 兩層對齊、resolveContributor() 合成、新 contributor onboarding 與 verify script warning 處理'
+type: 'factory-canonical'
+status: 'canonical'
+current_version: 'v1.0'
+last_updated: 2026-10-12
+last_session: 'external-tboydar-2026-10-12'
+---
+
 # Contributors Maintenance
 
 > Contributor display layer 的維護紀律。對齊 #1047 / PR #1052 + Patch D verify script。
@@ -6,12 +16,13 @@
 
 Contributor display 由**兩個 standard layer** 合作：
 
-| 檔案 | Layer | 職責 |
-|------|-------|------|
-| `.mailmap` | Git tooling | 把同人多 commit identity 變體（譬如 `Wu Che Yu` / `Che-Yu Wu` / `frank890417`）統一到 canonical name |
-| `.all-contributorsrc` | all-contributors standard | Canonical name → `login` + display + contributions metadata lookup |
+| 檔案                  | Layer                     | 職責                                                                                                 |
+| --------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------- |
+| `.mailmap`            | Git tooling               | 把同人多 commit identity 變體（譬如 `Wu Che Yu` / `Che-Yu Wu` / `frank890417`）統一到 canonical name |
+| `.all-contributorsrc` | all-contributors standard | Canonical name → `login` + display + contributions metadata lookup                                   |
 
 `src/utils/contributors.ts` 的 `resolveContributor()` 把兩個 layer 組合：
+
 1. 用 `%aN/%aE` (mailmap-aware) 讀 author identity
 2. 用 `contributorKey()` normalize 後在 `.all-contributorsrc` 查 profile
 3. 拿 `profile.login` 當 URL slug、`profile.name` 或 mailmap canonical 當 display
@@ -26,7 +37,7 @@ Contributor display 由**兩個 standard layer** 合作：
 某人開 PR → merge → 用 all-contributors bot 補 entry：
   @all-contributors please add @<github-login> for <contribution-type>
 
-  contribution-type: code / content / doc / translation / bug / review / 
+  contribution-type: code / content / doc / translation / bug / review /
                      design / ideas / projectManagement / infra / security / tool
 ```
 
@@ -73,10 +84,10 @@ Che-Yu Wu <cheyu.wu@monoame.com> Wu Che Yu <frank890417@gmail.com>
 
 `contributors.ts` 邏輯支援 **display ≠ login**：
 
-| 想要 | 怎麼做 |
-|------|--------|
-| Display = login（譬如 `Zaious` / `Zaious`）| `.all-contributorsrc` `name: "Zaious"` |
-| Display ≠ login（譬如 `Zaious (@ChronicleCore)` / `Zaious`）| `.all-contributorsrc` `name: "Zaious (@ChronicleCore)"`，`login: "Zaious"` |
+| 想要                                                         | 怎麼做                                                                     |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Display = login（譬如 `Zaious` / `Zaious`）                  | `.all-contributorsrc` `name: "Zaious"`                                     |
+| Display ≠ login（譬如 `Zaious (@ChronicleCore)` / `Zaious`） | `.all-contributorsrc` `name: "Zaious (@ChronicleCore)"`，`login: "Zaious"` |
 
 哲宇 Che-Yu Wu / login frank890417 就是後者範例。
 
