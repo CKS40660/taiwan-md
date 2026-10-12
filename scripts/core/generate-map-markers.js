@@ -501,9 +501,10 @@ function generateMarkers() {
     console.log(`  ${category}: ${count} markers`);
   });
 
-  // 保存到檔案
+  // 保存到檔案（結尾補換行，跟 prettier 一致；少了它檔案每天都被標成已修改，
+  // 進 commit 時 prettier 補回換行後又跟 HEAD 相同而掉出 commit，索引留下殘影）
   const outputPath = path.join(__dirname, '../../src/data/map-markers.json');
-  fs.writeFileSync(outputPath, JSON.stringify(markers, null, 2));
+  fs.writeFileSync(outputPath, JSON.stringify(markers, null, 2) + '\n');
 
   console.log(`\n💾 已保存到: ${outputPath}`);
   console.log(`🎯 總計: ${markers.length} markers (目標: 150+)`);
