@@ -336,23 +336,23 @@ knowledge/ja/Food/bubble-tea.md      ← 日文
 git clone https://github.com/YOUR_USERNAME/taiwan-md.git
 cd taiwan-md
 
-# 3. 安裝依賴（postinstall hook 會自動跑 sync.sh 產生 src/content/）
+# 3. 設定上游倉庫
+git remote add upstream https://github.com/frank890417/taiwan-md.git
+
+# 4. 安裝依賴（postinstall hook 會自動跑 sync.sh 產生 src/content/）
 bun install  # 或 npm install
 
-# 4. 啟動本地 dev server
+# 5. 啟動本地 dev server（持續執行，停止時按 Ctrl+C）
 bun dev  # 或 npm run dev → http://localhost:4321
-
-# 5. 設定上游倉庫
-git remote add upstream https://github.com/original/taiwan-md.git
 ```
 
-> **`src/content/{lang}/` 是 gitignored derived state**（2026-05-12 起）— 由 `scripts/core/sync.sh` 自動從 `knowledge/` SSOT 投影產生。雙重自動觸發：
+> **`src/content/{lang}/` 是 gitignored derived state**（2026-05-12 起）— 由 `scripts/core/sync.sh` 從 `knowledge/` SSOT 投影產生。以下指令會自動同步：
 >
-> - **`npm install`** 完成後 `postinstall` hook 自動跑 sync（首次 ~20s）
-> - **`npm run dev`** 啟動前自動跑 sync（每次 ~16s，保證 knowledge/ 改動立即反映）
-> - **`npm run build`** 也含 sync（prebuild 第一步）— CF Pages CI 自動 cover
+> - **`npm install`** 完成後由 `postinstall` hook 跑 sync
+> - **`npm run dev`** 啟動前跑一次 sync
+> - **`npm run build`** 在 prebuild 階段跑 sync，CF Pages CI 也會執行
 >
-> 平常開發 `npm run dev` 開著 + Astro HMR 自動 reload，不需要手動 sync。只在切 branch 或 `git pull` 後重啟 dev 才會看到 sync 跑一次。手動觸發：`npm run sync`。
+> **開發伺服器不會持續同步 `knowledge/`。** 修改文章後，請在另一個終端機的專案根目錄執行 `npm run sync`，把變更複製到 `src/content/{lang}/`；也可以停止後重新執行 `npm run dev`。切換分支或 `git pull` 後同樣需要同步。不要直接修改產生出的文章檔案，下次同步會覆蓋它們。
 
 #### 建立分支
 
@@ -399,7 +399,7 @@ src/content/config.ts ← Astro content collection schema (這個檔留在 git)
 ```bash
 # 完整流程
 echo "寫好文章後..."
-bash scripts/sync.sh          # knowledge/ → src/content/
+npm run sync                   # knowledge/ → src/content/（只更新預覽時可單獨執行）
 npm run build                  # 驗證 build
 # 品質檢測——用 --profile=ci-deploy，跟 CI 同一把尺；--fix 可自動修多數格式問題
 python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy
@@ -513,16 +513,16 @@ git push origin feature/add-taiwanese-opera-article
 
 ## 📁 檔案變更
 
-- [ ] 新增文章：`src/content/zh-TW/art/taiwanese-opera.md`
-- [ ] 對應英文版：`src/content/en/art/taiwanese-opera.md`
-- [ ] 相關圖片：`public/images/art/opera-performance.jpg`
+- [ ] 新增文章：`knowledge/Art/台灣歌仔戲.md`
+- [ ] 對應英文版（如有）：`knowledge/en/Art/taiwanese-opera.md`
+- [ ] 相關圖片（如有）：`public/article-images/opera-performance.jpg`
 
 ## ✅ 檢查清單
 
 - [ ] 符合三層閱讀深度設計
 - [ ] 內容原創且正確
 - [ ] Markdown 格式正確
-- [ ] 中英文版本完整
+- [ ] 翻譯（如有）包含 `translatedFrom`，並指向存在的中文原文
 - [ ] 通過本地測試
 
 ## 🔗 相關 Issue

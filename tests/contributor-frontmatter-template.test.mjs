@@ -1,6 +1,13 @@
 import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
-import { mkdtemp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
+import {
+  copyFile,
+  mkdtemp,
+  mkdir,
+  readFile,
+  rm,
+  writeFile,
+} from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { dirname, join, resolve } from 'node:path';
 import test from 'node:test';
@@ -44,6 +51,108 @@ test('CONTRIBUTING article template passes the strict frontmatter validator', as
   );
 
   assert.equal(result.status, 0, `${result.stdout}${result.stderr}`);
+});
+
+test('CONTRIBUTING sync command projects new and edited source articles', async (t) => {
+  const sandbox = await mkdtemp(join(tmpdir(), 'twmd-contributor-sync-'));
+  t.after(() => rm(sandbox, { recursive: true, force: true }));
+
+  const contributing = await readFile(
+    join(REPO_ROOT, 'CONTRIBUTING.md'),
+    'utf8',
+  );
+  const workflow = contributing.match(
+    /```bash\n# 完整流程\n([\s\S]*?)\n```/u,
+  )?.[1];
+  assert.ok(
+    workflow,
+    'CONTRIBUTING.md must contain the complete article workflow',
+  );
+  const syncLine = workflow
+    .split('\n')
+    .find((line) => /^(?:bash|npm) .*\bsync\b/u.test(line));
+  assert.ok(syncLine, 'the workflow must include a runnable sync command');
+  const [command, ...args] = syncLine.split('#', 1)[0].trim().split(/\s+/u);
+
+  // Use the real entrypoints with a small corpus, not the contributor's checkout.
+  for (const file of [
+    'package.json',
+    'scripts/core/sync.sh',
+    'src/config/languages.mjs',
+  ]) {
+    await mkdir(dirname(join(sandbox, file)), { recursive: true });
+    await copyFile(join(REPO_ROOT, file), join(sandbox, file));
+  }
+  const init = spawnSync('git', ['init', '--quiet'], {
+    cwd: sandbox,
+    encoding: 'utf8',
+  });
+  assert.equal(init.status, 0, init.stderr);
+
+  const articles = [
+    [
+      'knowledge/Art/測試文章.md',
+      'src/content/zh-TW/art/測試文章.md',
+      '# 中文原文\n',
+    ],
+    [
+      'knowledge/en/Art/example.md',
+      'src/content/en/art/example.md',
+      '# English translation\n',
+    ],
+  ];
+  for (const [source, , body] of articles) {
+    await mkdir(dirname(join(sandbox, source)), { recursive: true });
+    await writeFile(join(sandbox, source), body, 'utf8');
+  }
+
+  // A second sync must copy subsequent edits, not just the initial article.
+  for (const suffix of ['', '\nUpdated after starting the preview.\n']) {
+    for (const [source, , body] of articles) {
+      await writeFile(join(sandbox, source), body + suffix, 'utf8');
+    }
+    const result = spawnSync(command, args, { cwd: sandbox, encoding: 'utf8' });
+    assert.equal(result.status, 0, `${result.stdout}${result.stderr}`);
+    for (const [source, projection, body] of articles) {
+      assert.equal(
+        await readFile(join(sandbox, projection), 'utf8'),
+        body + suffix,
+      );
+      assert.equal(
+        await readFile(join(sandbox, source), 'utf8'),
+        body + suffix,
+      );
+    }
+  }
+});
+
+test('CONTRIBUTING PR examples are not ignored generated files', async () => {
+  const contributing = await readFile(
+    join(REPO_ROOT, 'CONTRIBUTING.md'),
+    'utf8',
+  );
+  const template = contributing
+    .split('#### PR 模板', 2)[1]
+    ?.split('## ✅ 檢查清單', 1)[0];
+  assert.ok(template, 'CONTRIBUTING.md must contain the PR file examples');
+  const paths = [...template.matchAll(/^- \[ \] .+?`([^`]+)`/gmu)].map(
+    (match) => match[1],
+  );
+  assert.ok(
+    paths.length >= 2,
+    'the PR template must list article source examples',
+  );
+
+  const result = spawnSync('git', ['check-ignore', '--no-index', '--stdin'], {
+    cwd: REPO_ROOT,
+    input: `${paths.join('\n')}\n`,
+    encoding: 'utf8',
+  });
+  assert.equal(
+    result.status,
+    1,
+    `PR examples must be committable:\n${result.stdout}${result.stderr}`,
+  );
 });
 
 // ─────────────────────────────────────────────────────────────────────────────
