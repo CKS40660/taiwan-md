@@ -628,17 +628,37 @@ def human_report(result: dict) -> str:
     elif probe == "unavailable":
         lines.append("  救援分支探測：ls-remote 失敗（離線或無權限），(a)/(b) 未分開")
 
+    # 判讀句照「哪幾種根因還在場」分流。`warn` 要查那台機器、`warn-on-rescue-branch`
+    # 要合併、`unregistered` 要去建排程——三種處置互斥，所以這裡不能只問「還有沒有
+    # warn」。2026-10-12 maintainer 修：`unregistered` 2026-10-11 誕生時只進了 severity
+    # 與明細行，這段判讀句的條件寫的是 `all(status != "warn")`，於是唯一的 WARN 是
+    # 一條沒註冊的排程時，它落進救援分支那一格，印出「要解的是合併，不是排程器」——
+    # 跟兩行前自己印的處置相反，而救援分支探測根本沒跑過（probe 只收 `warn`）。
+    warn_states = {
+        c["status"]
+        for c in r2["checked"]
+        if c["status"] in ("warn", "warn-on-rescue-branch", "unregistered")
+    }
+
     lines.append("")
     if result["severity"] == "ok":
         lines.append("✅ 綠燈")
-    elif result["severity"] == "warn" and all(
-        c["status"] != "warn" for c in r2["checked"]
-    ):
+    elif result["severity"] == "warn" and warn_states == {"unregistered"}:
         lines.append(
-            "⚠️  有 WARN，但每一條都在救援分支上找到了那趟的 memory 檔：routine 在跑，"
-            "是那台機器的 main 跟 origin 分岔了、push 進不去。部署讀 origin/main，"
-            "所以這些產出讀者看不到——要解的是合併，不是排程器。"
+            "⚠️  有 WARN，而且每一條都是「排程器根本沒有這條」：它不是該跑而沒跑，"
+            "是從來沒有人把它建起來。處置不是查那台機器、也不是合併分岔，"
+            "是去 app 裡把排程註冊好；在那之前它不會自己歸零。"
         )
+    elif result["severity"] == "warn" and "warn" not in warn_states:
+        lines.append(
+            "⚠️  有 WARN，但每一條有 fire 紀錄的都在救援分支上找到了那趟的 memory 檔："
+            "routine 在跑，是那台機器的 main 跟 origin 分岔了、push 進不去。"
+            "部署讀 origin/main，所以這些產出讀者看不到——要解的是合併，不是排程器。"
+        )
+        if any(c["status"] == "unregistered" for c in r2["checked"]):
+            lines.append(
+                "   （標 🆕 的那幾條不在這個解釋裡：排程器根本沒有它們，要人去建排程）"
+            )
     elif result["severity"] == "warn":
         lines.append(
             "⚠️  有 WARN。這支尺讀的是 main 上有沒有那趟的 memory 檔，"

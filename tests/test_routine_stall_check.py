@@ -709,6 +709,82 @@ def test_rule2_unregistered_still_counts_as_warn(repo):
     report = MODULE.human_report(result)
     assert "排程器從沒聽過這條" in report
     assert "去 app 裡把排程建起來" in report
+    # 2026-10-12 maintainer 補的負面斷言：上面兩條只問「這兩句在不在」，而出錯的那次
+    # 它們**都在**——判讀句同時印了相反的處置，兩句並存，沒有任何斷言反對。
+    # 一個人讀完會以為要去合併分岔（而本機根本沒有分岔）。
+    assert "要解的是合併" not in report
+    assert "救援分支上找到了" not in report
+
+
+def test_rule2_unregistered_only_verdict_prescribes_registering_not_merging(repo):
+    """唯一的 WARN 是沒註冊的排程時，判讀句要叫人去建排程，不是去合併分岔。
+
+    誕生 2026-10-12 twmd-maintainer-daily：`unregistered` 2026-10-11 誕生時只進了
+    severity 與明細行，判讀句的條件仍寫 `all(status != "warn")`——而 `unregistered`
+    也滿足它，於是唯一的 WARN 是一條沒註冊的排程時，整段落進救援分支那一格，印出
+    「要解的是合併，不是排程器」，跟兩行前自己印的處置相反。更直接的證據是救援分支
+    探測**根本沒跑過**（`probe_rescue_branches` 只收 `warn`），所以那句話宣稱的
+    「每一條都在救援分支上找到了 memory 檔」沒有任何一次量測支撐它。
+    當天 18:18 的 live alert 已經印出這句，只差 20 小時去重窗沒到而沒貼進 #1788。
+    三個桶互斥（查機器／合併／建排程），所以判讀句不能只問「還有沒有 warn」。
+    """
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+
+    write_routine_md(repo, [routine_row("twmd-review-stock", "0 22 * * 3")])
+    write_memory_files(repo, [])
+    write_live_state(repo, {})
+
+    result = MODULE.build_result(now, since_days=30)
+    r2 = result["rule2_weekly_schedule_miss"]
+    report = MODULE.human_report(result)
+
+    # 探測沒跑過，所以任何「在救援分支上找到」的說法都無據
+    assert r2["rescue_probe"] == "not-needed"
+    assert "從來沒有人把它建起來" in report
+    assert "去 app 裡把排程註冊好" in report
+    assert "要解的是合併" not in report
+    # 也不該退回「兩種根因」那段——那段講的是查機器 vs 合併，兩者都不是這裡的處置
+    assert "兩種根因" not in report
+    assert result["severity"] == "warn"
+
+
+def test_rule2_rescue_branch_plus_unregistered_keeps_both_prescriptions(repo, monkeypatch):
+    """混在一起時，救援分支那句要留，而 🆕 那幾條要被明確排除在該解釋之外。
+
+    救援分支的解釋（要合併）對有 fire 紀錄的那幾條成立，對沒註冊的那條不成立。
+    兩種處置同時在場時，判讀句不能讓讀者把 🆕 那條也讀成「合併就會好」。
+    """
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+    write_routine_md(
+        repo,
+        [
+            routine_row("twmd-routine-audit-weekly", "0 21 * * 0"),
+            routine_row("twmd-review-stock", "0 22 * * 3"),
+        ],
+    )
+    write_memory_files(repo, [])
+    write_live_state(repo, {"twmd-routine-audit-weekly": True})
+    monkeypatch.setattr(MODULE, "list_rescue_branches", lambda: ["20260912-unpushed-routine-queue"])
+    monkeypatch.setattr(
+        MODULE,
+        "rescue_branch_memory_files",
+        lambda b: ["2026-08-23-211909-twmd-routine-audit-weekly.md"],
+    )
+
+    result = MODULE.build_result(now, since_days=30)
+    statuses = {
+        c["task_id"]: c["status"] for c in result["rule2_weekly_schedule_miss"]["checked"]
+    }
+    report = MODULE.human_report(result)
+
+    assert statuses["twmd-routine-audit-weekly"] == "warn-on-rescue-branch"
+    assert statuses["twmd-review-stock"] == "unregistered"
+    assert "要解的是合併" in report
+    # 🆕 那條必須被講明不在這個解釋裡，否則讀者會對它做錯的處置
+    assert "不在這個解釋裡" in report
+    assert result["severity"] == "warn"
 
 
 def test_rule2_unregistered_not_claimed_when_live_state_unreadable(repo):
