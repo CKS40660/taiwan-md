@@ -27,10 +27,10 @@ imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d645338641d89664'
-sourceBodyHash: 'sha256:5dcfd938f21ea513'
-translatedAt: '2026-07-28T19:24:16+08:00'
+sourceCommitSha: 'a8f7c4e08'
+sourceContentHash: 'sha256:e26a95dae7cf552e'
+sourceBodyHash: 'sha256:b680f8b344c7bf2d'
+translatedAt: '2026-10-13T01:38:31.253598+00:00'
 ---
 
 > **Resumo em 30 segundos:** Taiwan tem uma árvore com 84,1 metros de altura, o equivalente a cerca de 28 andares, que é a árvore mais alta conhecida do Leste Asiático[^1]. Chama-se "Espada Celestial do Rio Daan" (大安溪倚天劍), é um Taiwan cedar (_Taiwania cryptomerioides_), cresce na nascente do Rio Daan a cerca de 1.650 metros de altitude num vale profundo, e estima-se que tenha vivido setecentos a oitocentos anos[^2]. No Ano Novo Lunar de 2023, a equipa dos "Procuradores de Árvores" fez uma expedição de sete dias, com temperaturas noturnas a descer a -2 °C, até conseguirem subir à copa e baixar a fita métrica para obter este número[^3]. O mais contraintuitivo é: numa ilha varrida anualmente por tufões, com geologia frágil, propensa a deslizamentos e inundações, esta altura não deveria existir. Ela pôde crescer até 84 metros e viver setecentos anos precisamente porque se esconde num vale onde os humanos quase não chegam. Essa mesma "inacessibilidade" tanto a fez escapar ao grande desbaste da era japonesa e do pós-guerra, como nos obrigou a gastar quase dez anos a varrer a ilha inteira com laser para a vermos pela primeira vez este ano[^4].
@@ -75,31 +75,32 @@ _Ramos e forma recta do Taiwan cedar: tronco direito, cerne não oco, madeira de
 
 Então por que o Taiwan cedar mais alto sobreviveu? A resposta não está na árvore, mas no lugar onde está.
 
-## O escondimento como sobrevivência
+## Ocultação é sobrevivência
 
-A Espada Celestial cresce na nascente do Rio Daan, a cerca de 1.650 metros de altitude num vale profundo[^13]. Para lá chegar, é preciso seguir o Rio Daan a montante por cerca de 20 km, atravessar a corrente impetuosa, escalar falésias perigosas propensas a quedas de pedra e deslizamentos, subir quase mil metros e depois descer mais de mil — um percurso que nem montanhistas experientes conseguem necessariamente fazer[^14]. A investigadora Hsu Chia-chun descreve o local onde estes gigantes se encontram: "Estes locais onde estão os gigantes são ambientes onde até montanhistas experientes têm muita dificuldade em chegar."[^15]
+A Espada Celestial cresce nas nascentes do rio Da'an, em um vale profundo a cerca de 1.650 metros de altitude[^13]. Para chegar lá, é preciso subir o rio Da'an por cerca de 20 quilômetros, cruzar correntes poderosas, escalar penhascos íngremes propensos a quedas de rochas e desmoronamentos, primeiro subindo quase mil metros e depois descendo mais de mil metros — um percurso que até montanhistas experientes podem não conseguir completar[^14]. O pesquisador Hsu Chia-chun descreve o habitat desses gigantes: "O local onde estas árvores gigantes se encontram é um ambiente ao qual até mesmo montanhistas experientes têm dificuldade em aceder."[^15]
 
-É precisamente esta "inacessibilidade" que se tornou o seu talismã.
+É precisamente essa "inacessibilidade" que se tornou seu talismã de proteção.
 
-Da era japonesa ao pós-guerra, Taiwan passou por onda atrás de onda de desbaste em grande escala; os ciprestes e Taiwan cedars de Alishan, Taipingshan, Basianshan foram cortados em blocos e transportados montanha abaixo. Mas as máquinas de desbaste têm o seu limite de alcance — cortam onde a estrada chega, onde a madeira sai. Na nascente do Rio Daan, naquele vale de falésias absolutas, os teleféricos e camiões de transporte nunca chegariam, e por isso este gigante de 84 metros foi deixado para trás. Escondeu-se o suficiente, por isso viveu.
+Do período colonial japonês ao pós-guerra, Taiwan passou por uma onda após outra de desmatamento em grande escala; os ciprestes e cedros de Taiwan de Alishan, Taipingshan e Basianshan foram transportados montanha abaixo em vastas áreas. Mas as máquinas de exploração madeireira têm seus limites — elas cortam onde as estradas podem ser construídas e a madeira pode ser transportada para fora. No vale profundo de penhascos nas nascentes do rio Da'an, os teleféricos e caminhões de transporte de madeira simplesmente não conseguiam chegar, então este gigante de 84 metros foi deixado para trás. Estava escondido o bastante no fundo, por isso sobreviveu.
 
-Hsu Chia-chun expõe esta lógica com precisão: "O local onde está a Espada Celestial tem características semelhantes às dos gigantes descobertos historicamente: existe em floresta primária nunca cortada, e num vale que abriga dos tufões."[^16] Esta frase explica de uma vez a altura e a longevidade. A topografia do vale protege-a do impacto frontal dos tufões, para que não seja partida como as grandes árvores das cristas; a floresta primária nunca cortada deu-lhe a oportunidade de acumular tempo em altura.
+Hsu Chia-chun expõe essa lógica com precisão: "A localização da Espada Celestial compartilha características semelhantes às de gigantes descobertos anteriormente: existe em floresta primária nunca explorada e situa-se em um vale que oferece abrigo contra tufões."[^16] Essa frase explica simultaneamente duas questões: altura e longevidade. O terreno do vale bloqueia o impacto frontal dos tufões, impedindo que seja quebrado pelo vento como as grandes árvores nas cristas; a floresta primária inexplorada deu-lhe a oportunidade de acumular tempo em altura.
 
-![Floresta de nevoeiro no Parque Nacional Shei-Pa](/article-images/nature/shei-pa-cloud-forest.webp)
-_Floresta de nevoeiro no Parque Nacional Shei-Pa: nevoeiro à tarde, pluviosidade anual cerca de 3.000 mm, ambiente de alta humidade, é a chave para o Taiwan cedar conseguir enviar água até ao topo a 80 metros. Foto: Wikimedia Commons, CC BY-SA 4.0_
+![雪霸國家公園的霧林帶森林](/article-images/nature/shei-pa-cloud-forest.webp)
+_A floresta de neblina do Parque Nacional Shei-Pa: o ambiente de alta umidade com neblina vespertina e precipitação anual de cerca de 3.000 mm é a chave para o cedro de Taiwan conseguir transportar água até o topo a 80 metros. Foto: Wikimedia Commons, CC BY-SA 4.0_
 
-Cientificamente, o Taiwan cedar consegue crescer tão alto graças a três factores combinados. Primeiro, a alta humidade da floresta de nevoeiro: o Taiwan cedar distribui-se naturalmente entre 1.500 e 2.400 metros, com pluviosidade anual cerca de 3.000 mm na faixa de nevoeiro[^17], nevoeiro à tarde, a água do nevoeiro pode ser absorvida directamente pelas folhas, resolvendo o enorme problema da pressão da coluna de água desde a raiz até ao topo a 80 metros. Segundo, a topografia do vale abriga dos tufões mais a vantagem pioneira em terrenos de deslizamento: as sementes de Taiwan cedar são minúsculas, dispersam-se longe pelo vento, as plântulas caem frequentemente em terrenos de deslizamento e troncos caídos nos vales, é uma espécie pioneira heliófila; uma vez que o deslizamento abre uma clareira e a luz entra, ela dispara para cima[^18]. Terceiro, o escondimento como sobrevivência: terreno inacessível, fez com que escapasse às serras humanas.
+Cientificamente, o cedro de Taiwan consegue atingir tal altura graças a três fatores combinados. O primeiro é a alta umidade da floresta de neblina: o cedro de Taiwan distribui-se naturalmente entre 1.500 e 2.400 metros de altitude, na faixa de neblina com precipitação anual de cerca de 3.000 mm[^17]; a neblina forma-se à tarde e a água da neblina pode ser absorvida diretamente pelas folhas, o que resolve o desafio de transportar água das raízes até o topo a 80 metros, a enorme pressão da coluna d'água. O segundo é a vantagem pioneira do terreno de vale que abriga de tufões somada a áreas de desmoronamento: as sementes do cedro de Taiwan são minúsculas e podem dispersar-se a longas distâncias pelo vento; as mudas frequentemente caem em áreas de desmoronamento e troncos caídos nos vales; é uma espécie pioneira heliófila; uma vez que um desmoronamento abre uma clareira na copa e a luz solar entra, ele dispara para cima[^18]. O terceiro é a ocultação como sobrevivência: o terreno inacessível permitiu que escapasse das serras humanas.
 
-O cipreste vermelho escapou ao corte graças ao cerne oco; o Taiwan cedar escapou graças às falésias intransponíveis — as duas árvores gigantes mais antigas desta ilha usaram duas formas completamente diferentes para escapar à mesma era do desbaste.
+O cipreste vermelho escapou do corte graças ao seu cerne oco; o cedro de Taiwan escapou graças aos penhascos inacessíveis do terreno — as duas espécies de gigantes mais antigas desta ilha usaram duas maneiras completamente diferentes para sobreviver à mesma era de exploração madeireira.
 
 ```tw-stat
-84,1 metros | Altura da Espada Celestial | Cerca de 28 andares, árvore mais alta do Leste Asiático
-Cerca de 8,5 metros | Perímetro do tronco | Várias pessoas de braços dados para o abraçar
-Estimados 700–800 anos | Idade | Estimado a partir do perímetro, sem datação por anéis
-941 árvores | Gigantes com >65 m já localizados em toda a Taiwan | Até final de 2022
+84,1 metros | Altura da Espada Celestial | Cerca de 28 andares, a árvore mais alta do Leste Asiático
+Cerca de 8,5 metros | Circunferência do tronco | Várias pessoas de braços dados para abraçá-la
+Estimados 700–800 anos | Idade | Estimada pela circunferência, sem datação por amostragem de anéis
+941 árvores | Gigantes >65 m localizados em toda Taiwan | Até o final de 2022
+Fonte: medições de campo da equipe dos Procuradores de Árvores (altura 84,1 m, circunferência ~8,5 m) e estimativas de idade citadas neste artigo, dados de localização de gigantes em toda Taiwan[^1][^6][^19][^20]
 ```
 
-Sobre esses setecentos anos, há um número que deve ser explicado. A Espada Celestial "estima-se ter cerca de 700 a 800 anos" — este número vem do perímetro de cerca de 8,5 metros mais a taxa de crescimento do Taiwan cedar, não houve perfuração para contar anéis[^19]. Algumas notícias internacionais de 2026 dizem mesmo "quase mil anos"[^20], este número mais velho pode vir de outro método de estimativa. A estimativa de idade pelo perímetro tem a sua incerteza: a Árvore Sagrada de Shuishan em Alishan foi estimada em 2.700 anos, mas após perfuração pelo Serviço Florestal corrigiu-se para 1.081 anos, erro de mais de mil e seiscentos anos[^21]. Por isso, para a Espada Celestial, a afirmação mais responsável é: estima-se setecentos a oitocentos anos, possivelmente mais velha, mas antes de alguém realmente perfurar e contar os anéis, é um número com um ponto de interrogação.
+Sobre esses setecentos anos, é preciso abrir os números. A Espada Celestial tem "idade estimada em cerca de 700 a 800 anos" — este número foi calculado a partir da circunferência de cerca de 8,5 metros mais a taxa de crescimento do cedro de Taiwan, e não houve perfuração real de anéis para datação[^19]. Alguns relatórios internacionais de 2026 chegam a dizer que tem "quase mil anos"[^20]; esse número mais antigo pode vir de outro método de estimativa. A estimativa de idade pela circunferência tem sua incerteza: a Árvore Sagrada de Shuishan (Shuishan Shenmu) em Alishan já foi estimada em 2.700 anos; após perfuração pelo Bureau Florestal, foi corrigida para 1.081 anos, um erro de mais de mil e seiscentos anos[^21]. Portanto, para a Espada Celestial, a afirmação mais responsável é: estimados setecentos a oitocentos anos, possivelmente mais velha, mas antes que alguém realmente perfure seus anéis, este é um número com um ponto de interrogação.
 
 ## Os Procuradores de Árvores, e aqueles olhos que passaram uma vida a procurar árvores
 

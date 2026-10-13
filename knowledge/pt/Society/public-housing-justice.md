@@ -23,41 +23,62 @@ imageCredit: 'Heeheemalu'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 datasets:
-  [
-    "{'id': 'lvr-trades', 'name': '不動產買賣 全國實價登錄', 'url': 'https://lvr.land.moi.gov.tw/', 'agency': '內政部地政司', 'update_freq': '每3月', 'why': '文章用成功國宅一個門牌講四十年，這裡可查任何國宅社區的當代成交價，驗證資產扶梯斜率', 'verified': datetime.date(2026, 6, 10)}",
-    "{'id': '121267', 'name': '臺北市國民住宅配售(租)情形', 'url': 'https://data.gov.tw/dataset/121267', 'agency': '臺北市政府都市發展局', 'update_freq': '不定期更新', 'why': '文中三大國宅那批「政府賣出去的便宜房」的配售與出租官方紀錄', 'verified': datetime.date(2026, 6, 10)}",
-    "{'id': '155779', 'name': '臺北市政府社會住宅包租代管媒合統計資料', 'url': 'https://data.gov.tw/dataset/155779', 'agency': '臺北市政府都市發展局', 'update_freq': '每1年', 'why': '「2016 政府不賣了改用租的」那條新路線的執行端數字', 'verified': datetime.date(2026, 6, 10)}",
-  ]
+  - id: 'lvr-trades'
+    name: '不動產買賣 全國實價登錄'
+    url: 'https://lvr.land.moi.gov.tw/'
+    agency: '內政部地政司'
+    update_freq: '每3月'
+    why: '文章用成功國宅一個門牌講四十年，這裡可查任何國宅社區的當代成交價，驗證資產扶梯斜率'
+    verified: 2026-06-10
+  - id: '121267'
+    name: '臺北市國民住宅配售(租)情形'
+    url: 'https://data.gov.tw/dataset/121267'
+    agency: '臺北市政府都市發展局'
+    update_freq: '不定期更新'
+    why: '文中三大國宅那批「政府賣出去的便宜房」的配售與出租官方紀錄'
+    verified: 2026-06-10
+  - id: '155779'
+    name: '臺北市政府社會住宅包租代管媒合統計資料'
+    url: 'https://data.gov.tw/dataset/155779'
+    agency: '臺北市政府都市發展局'
+    update_freq: '每1年'
+    why: '「2016 政府不賣了改用租的」那條新路線的執行端數字'
+    verified: 2026-06-10
 sporeLinks:
-  [
-    "{'id': 126, 'platform': 'threads', 'date': '2026-06-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DZPIcLHEzpk'}",
-    "{'id': 127, 'platform': 'x', 'date': '2026-06-06', 'url': 'https://x.com/taiwandotmd/status/2063165712261390793'}",
-  ]
+  - id: 126
+    platform: 'threads'
+    date: '2026-06-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZPIcLHEzpk'
+  - id: 127
+    platform: 'x'
+    date: '2026-06-06'
+    url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:8ca8b403c13ab428'
-sourceBodyHash: 'sha256:547ee1d3b342a025'
-translatedAt: '2026-07-31T09:04:21+08:00'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:058a2707437b6293'
+sourceBodyHash: 'sha256:8b7dd2352a89e936'
+translatedAt: '2026-10-13T02:22:12.323379+00:00'
 ---
 
-# Habitação nacional e justiça habitacional: as casas baratas do governo acabaram por alimentar a escada rolante de ativos de quem?
+# Habitação Nacional e justiça habitacional: as casas baratas que o governo construiu, no fim, alimentaram a escada de ativos de quem?
 
-Na Secção 2 da Rua Fuxing Sul, no distrito de Daan, em Taipé, existe um conjunto chamado "Chenggong Habitação Nacional". Em 1985, quando ficou pronto, ninguém queria. [^1]
+Na Seção 2 da Rua Fuxing Sul, no distrito de Daan, em Taipé, há um conjunto chamado "Chenggong Habitação Nacional". Em 1985, quando acabou de ser construído, ninguém o queria.[^1]
 
-O preço do governo era de 67 a 71 mil por ping, não era barato para a época; como encalhou, acabou baixado para 67 mil por ping, com empréstimo sem juros por quatro anos, para conseguir vender tudo. O velho chefe de bairro Shih Chung-sheng recordou depois que ele e a mulher varreram as economias de uma vida, juntaram 400 mil de entrada, para comprar uma das unidades. [^1]
+O preço do governo era de NT$67.000 a NT$71.000 por ping, o que na época não era barato; somado ao encalhe, acabou por ser reduzido para NT$67.000 por ping, com um empréstimo sem juros de quatro anos, para finalmente vender as unidades. O antigo chefe de bairro Shi Zhongsheng lembrou depois que ele e a esposa esvaziaram as economias de uma vida inteira para juntar NT$400.000 de entrada e assim comprar uma das unidades.[^1]
 
-Quarenta anos depois, o mesmo endereço: nas plataformas de imobiliárias, o preço médio de transação do último ano é de cerca de 870 mil por ping, a unidade mais cara se aproxima de 980 mil. [^2] De 67 mil para 870 mil, aproximadamente doze a quatorze vezes. Aquela entrada que na época esvaziou as poupanças, hoje nem um ping compra.
+Quarenta anos depois, no mesmo endereço, o preço médio de transação no último ano nas plataformas imobiliárias é de cerca de NT$870.000 por ping, com a unidade mais cara se aproximando de NT$980.000.[^2] De NT$67.000 para NT$870.000, cerca de doze a catorze vezes. Aquela entrada que esvaziou as economias de uma vida, hoje nem um ping consegue comprar.
 
-> **Resumo em 30 segundos:** A habitação nacional (國民住宅) foi legislada em 1975 em Taiwan; o governo "construía para vender" casas baratas ao povo, com o intuito de ajudar quem não tinha condições a subir no primeiro degrau. O problema é que, do começo ao fim, nunca instalou uma "comporta de recuperação da valorização"; em 2002, até o único mecanismo anti-especulação foi desmontado, permitindo que a habitação nacional fosse vendida a qualquer um. Assim, as casas construídas com subsídio público acabaram virando ativos privados dos compradores iniciais; hoje, várias habitações nacionais em áreas nobres de Taipé se aproximam ou ultrapassam um milhão por ping. Em 2015, o governo revogou a Lei da Habitação Nacional, mudando para o modelo "só aluga, não vende" da habitação social (社會住宅); em maio de 2026, Taoyuan aprovou em terceira leitura a "habitação acessível" (可負擔住宅), resgatando o caminho "governo constrói para vender", e deliberadamente recolocou a comporta que faltava na época: na revenda, não se pode ultrapassar o preço original de aquisição. O Ministério do Interior discorda, defendendo o retorno ao "só aluga, não vende". "Ajudar você a comprar" ou "ajudar você a alugar" — essas duas rotas de justiça habitacional, Taiwan discute há cinquenta anos sem fechar a questão.
+> **Resumo em 30 segundos:** A Habitação Nacional foi legislada em Taiwan em 1975, com o governo a "construir para vender" casas baratas ao povo, com o intuito de ajudar quem não conseguia comprar a subir no primeiro degrau. O problema é que, do início ao fim, não instalou nenhuma "porta de recaptura de valorização"; em 2002, chegou a desmantelar o único mecanismo anti-especulação, permitindo que a Habitação Nacional fosse vendida a qualquer pessoa. Assim, as casas construídas com subsídio público acabaram por se tornar ativos privados dos compradores iniciais, e a Habitação Nacional em vários bairros nobres de Taipé hoje se aproxima ou ultrapassa NT$1 milhão por ping. Em 2015, o governo revogou a Lei da Habitação Nacional, passando para a "apenas alugar, não vender" da habitação social; em maio de 2026, Taoyuan aprovou em terceira leitura a "habitação acessível", resgatando o caminho do "governo constrói para vender", e deliberadamente recolocando a porta que faltava: a revenda não pode exceder o preço original de aquisição. O Ministério do Interior discorda, defendendo o retorno ao "apenas alugar, não vender". "Ajudar você a comprar" ou "ajudar você a alugar", estas duas linhas de justiça habitacional, Taiwan discute há cinquenta anos sem desfecho.
 
 ```tw-timeline
-1975 | Lei da Habitação Nacional entra em vigor | Governo constrói para vende, cria "circuito fechado de qualificação de compradores" — subsídio só circula entre quem precisa
-2002 | Aquela parede foi derrubada | Emenda revoga limitação de qualificação do comprador; habitação nacional morada 1 ano pode ser vendida a qualquer um, entra oficialmente no mercado livre
-2015 | Lei da Habitação Nacional revogada | Motivo oficial: taxa de propriedade própria já em 85%; governo central passa ao modelo "só aluga, não vende" de habitação social
-2026 | Taoyuan recoloca a comporta | Habitação acessível: revenda não pode exceder preço original de aquisição — cinquenta anos depois, remenda aquela parede para a habitação nacional
+1975 | Lei da Habitação Nacional entra em vigor | Governo constrói para vender, cria "circuito fechado de qualificação de compradores" — subsídio só circula entre quem precisa
+2002 | Aquela parede é derrubada | Emenda revoga restrição de qualificação de compradores, Habitação Nacional após um ano de residência pode ser vendida a qualquer pessoa, entra formalmente no mercado livre
+2015 | Lei da Habitação Nacional revogada | Razão oficial: taxa de propriedade própria já em 85%, governo central passa para "apenas alugar, não vender" da habitação social
+2026 | Taoyuan recoloca a porta | Habitação acessível: revenda não pode exceder preço original de aquisição — cinquenta anos depois, completa aquela parede para a Habitação Nacional
+Fontes: Yuan Executivo (explicação da revogação da Lei da Habitação Nacional) + Banco de Dados Nacional de Leis (histórico da emenda de 2002) + Liberty Times (revogação de 2015) + United Daily News (terceira leitura de Taoyuan em 2026)[^3][^7][^15][^23]
 ```
 
-O que esta artigo vai contar, são os cinquenta anos espremidos entre esses dois preços de porta. Uma boa intenção do governo de gastar dinheiro construindo casas baratas para ajudar o povo a subir no primeiro degrau, como foi parar hoje, virando uma escada onde a geração seguinte, parada no topo, nem compra nem aluga com segurança?
+Este artigo vai falar justamente desses cinquenta anos entre esses dois preços de porta. Como uma boa intenção do governo de gastar dinheiro a construir casas baratas para ajudar as pessoas a subir no primeiro degrau, acabou por chegar hoje a uma geração que está no topo da escada, mas que não consegue comprar, nem alugar com segurança?
 
 ## A geração de casas que o governo construía para vender
 
@@ -142,43 +163,44 @@ Esses números postos na mesa, a frase do advogado Lin Chih-chun em 2025 critica
 
 É a fatura que aquela comporta não instalada, cinquenta anos depois, entrega. A casa barata do governo, não virou uma escada rolante que vai pegando o próximo que não consegue comprar; virou um elevador que só pegou o lote que subiu primeiro; eles subiram, e puxaram a escada atrás.
 
-## Aquela comporta, Hong Kong chama de "reembolso de prêmio de terreno", Reino Unido chama de lição
+## Aquela portaria, Hong Kong chama de "taxa de terreno", Reino Unido chama de lição
 
-Chegando aqui, surge uma reflexão natural: governo constrói casa barata para vender ao povo, mas não deixa o povo vender e lucrar — isso dá para fazer?
+A questão chega a este ponto e surge uma contrapergunta muito natural: dá para o governo construir casas baratas e vender para o povo, sem deixar o povo revender e lucrar?
 
-Dá. O vizinho Hong Kong, instalou essa comporta que Taiwan nunca botou.
+Dá. A vizinha Hong Kong instalou justamente essa portaria que Taiwan nunca instalou.
 
-O governo de Hong Kong empurra o "Home Ownership Scheme" (居屋), lógica parecida com habitação nacional: vende a 60–70% do preço de mercado para famílias de renda média-baixa. Mas tem um mecanismo a mais, chamado "reembolso de prêmio de terreno" (補地價). Se o proprietário no futuro quiser vender no mercado aberto, tem de primeiro, segundo a proporção de desconto original, pagar ao governo um prêmio de terreno; equivale a devolver ao erário a fatia que o governo abriu mão na época, mais uma parte da valorização. [^12] A valorização não vai toda para o indivíduo; um pedaço tem de voltar ao público. A habitação nacional de Taiwan, nunca teve essa barreira de reembolso. Você compra barato, cumpre o prazo, vende a preço de mercado cheio; a diferença do meio e a valorização, limpinhas, entram no seu bolso.
+O governo de Hong Kong lançou o "Home Ownership Scheme" (居屋), com lógica muito parecida com a da habitação nacional: vender imóveis a 60–70% do valor de mercado para famílias de baixa e média renda. Mas adicionou um mecanismo chamado "taxa de terreno" (補地價). Se o proprietário quiser vender o imóvel do "Home Ownership Scheme" no mercado aberto no futuro, deve primeiro pagar ao governo, na proporção do desconto original, uma taxa de terreno — o que equivale a devolver ao erário público a fatia de benefício que o governo abriu mão na época, junto com parte da valorização.[^12] A valorização não vai toda para o bolso do indivíduo; uma parte tem de voltar para o público. A habitação nacional de Taiwan nunca teve essa barreira de "taxa de terreno". Você compra barato, cumpre o prazo de residência e pode vender pelo valor total de mercado; a diferença de preço e a valorização do meio do caminho entram limpinhas no seu próprio bolso.
 
 ```tw-versus
-Habitação nacional Taiwan | Habitação Home Ownership Hong Kong
-Governo subsidia, vende barato ao morador | Governo subsidia, vende barato ao morador
-Morou 1 ano já pode vender a preço de mercado | Venda no mercado aberto exige antes "reembolso de prêmio de terreno"
-Valorização quase toda fica no indivíduo | Valorização recuperada ao erário pela proporção do desconto original
-Estoque público perdido de uma vez | Concessão pública recuperável
+Habitação nacional de Taiwan | "Home Ownership Scheme" de Hong Kong
+Governo subsidia, vende barato para moradores | Governo subsidia, vende barato para moradores
+Após 1 ano de residência pode revender a preço cheio de mercado | Revenda no mercado aberto exige primeiro "pagar taxa de terreno"
+Valorização vai quase toda para o indivíduo | Valorização recuperada para o erário na proporção do desconto original
+Estoque público perdido de uma vez | Benefício público concedido pode ser recuperado
+Fonte: Explicação oficial do "Arranjo de taxa de terreno" da Hong Kong Housing Authority + Banco de Dados Nacional de Leis (histórico de restrições de revenda da habitação nacional de Taiwan)[^7][^12]
 ```
 
-![Hong Kong To Kwa Wan Hoi Fu Court, conjunto de habitação assistida "Home Ownership", vários prédios altos lado a lado](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
-_O "Home Ownership" Hoi Fu Court de Hong Kong. O governo usa 60–70% do preço de mercado para vender a famílias de renda média-baixa, mas instalou a comporta que a habitação nacional de Taiwan não tem: reembolso de prêmio de terreno. Foto: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
+![Hong Kong To Kwa Wan Hoi Fu Court, pertencente ao programa de habitação subsidiada "Home Ownership Scheme", vários edifícios residenciais de grande altura lado a lado](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
+_O "Home Ownership Scheme" Hoi Fu Court de Hong Kong. O governo de Hong Kong vende o "Home Ownership Scheme" a 60–70% do valor de mercado para famílias de baixa e média renda, mas instalou uma portaria que a habitação nacional de Taiwan não tem: a taxa de terreno. Foto: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
 
-Se Hong Kong é o dever de casa que Taiwan devia copiar e não copiou, o Reino Unido é um espelho mais cruel.
+Se Hong Kong é o dever de casa que Taiwan devia ter copiado e não copiou, o Reino Unido é um espelho ainda mais cruel.
 
-1980, o governo Thatcher lança o "Right to Buy" (Direito de Comprar), deixando inquilinos de habitação pública (council housing) comprarem a própria casa com desconto altíssimo. Política popular, no total vendeu cerca de 1,9 milhão de unidades. Qual o custo? A participação da habitação social no Reino Unido, de 31% em 1980, caiu pela metade para 16% em 2023. [^13] Estoque público uma vez vendido, não volta mais. O think tank Common Wealth fez a conta: só o valor dos "descontos" concedidos na época, chega a 194 bilhões de libras, uns 8 trilhões de novos dólares taiwaneses. Palavras deles:
+Em 1980, o governo Thatcher lançou o "Right to Buy" (Direito de Comprar), permitindo que inquilinos de habitação pública comprassem seus próprios imóveis com descontos muito altos. A política foi muito popular; no total, cerca de 1,9 milhão de unidades de habitação pública foram vendidas. Qual foi o preço? A participação da habitação social no Reino Unido caiu de 31% em 1980 para 16% em 2023.[^13] Uma vez que o estoque público é vendido para particulares, não volta mais. O think tank Common Wealth fez as contas: só o valor dos direitos cedidos através daqueles "descontos" chega a 194 bilhões de libras, o equivalente a cerca de NT$ 8 trilhões. Nas palavras deles:
 
-> ✦ "The equity given away through the discount is worth £194 billion…" (Só o valor dos direitos cedidos via desconto chega a 194 bilhões de libras.) — Think tank Common Wealth
+> ✦ "The equity given away through the discount is worth £194 billion…" (Só o valor dos direitos cedidos através do desconto chega a 194 bilhões de libras.) — think tank Common Wealth
 
-![Londres, distrito de St Pancras, conjunto habitacional municipal Brookfield Estate, prédios de tijolo vermelho dos anos 1920 alinhados](/article-images/society/london-brookfield-council-estate.webp)
-_Habitação municipal (council housing) de Londres. Em 1980, o "Direito de Comprar" de Thatcher vendeu esse tipo de casa com desconto aos inquilinos; quarenta anos depois, a participação da habitação social caiu pela metade, para 16%. Foto: Reading Tom, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg).\_
+![Londres, distrito de St Pancras, Brookfield Estate, habitação pública municipal, conjunto residencial de tijolo vermelho dos anos 1920, vários edifícios de tijolo de vários andares alinhados](/article-images/society/london-brookfield-council-estate.webp)
+_Habitação pública municipal (council housing) de Londres. Em 1980, o "Direito de Comprar" de Thatcher vendeu esse tipo de habitação pública com desconto para inquilinos; quarenta anos depois, a participação da habitação social no Reino Unido foi cortada pela metade, restando 16%. Foto: Reading Tom, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>).\_
 
-O pós mais irônico: das casas públicas vendidas na época, 41% hoje viraram aluguel privado com aluguel mais alto. [^13] Governo vende com desconto para o inquilino; o inquilino (ou o próximo) aluga de volta para outro com aluguel mais alto; o subsídio público dá uma volta, no final empurra o preço do mercado de aluguel para cima. Aquele "elevador que puxou a escada" da habitação nacional de Taiwan, no Reino Unido é a versão ampliada um milhão de vezes.
+O desdobramento mais irônico é que, entre aquelas habitações públicas vendidas na época, 41% hoje viraram imóveis de aluguel privado com aluguéis mais altos.[^13] O governo vendeu a casa com desconto para o inquilino, o inquilino (ou o dono seguinte) aluga de volta para outra pessoa por um aluguel mais alto; o subsídio público deu uma volta e acabou inflando o preço do mercado de aluguel. Aquele "elevador que puxou a escada" da habitação nacional de Taiwan, no Reino Unido é a versão ampliada um milhão de vezes.
 
-![Singapura, distrito de Raffles, apartamentos HDB, típicos arranha-céus públicos de cores vivas](/article-images/society/singapore-hdb-lavender-2014.webp)
-_Os apartamentos HDB de Singapura, cerca de 80% da população mora neles. Governo constrói "para vender", dá concessão de 99 anos; mesmo com prazo mínimo de moradia e taxa de revenda, não segurou a privatização da valorização. Foto: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
+![Singapura, distrito de Raffles Place, HDB flats, típicos edifícios públicos residenciais de torre alta, fachadas coloridas](/article-images/society/singapore-hdb-lavender-2014.webp)
+_Os flats HDB de Singapura, onde cerca de 80% da população mora. O governo construiu para "vender", concedendo arrendamento de 99 anos; mesmo com prazo mínimo de ocupação, não conseguiu conter a valorização e privatização dos flats. Foto: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
 
-Até Singapura, o aluno modelo mais citado, não segurou. O governo de Singapura constrói "para vender" os apartamentos HDB, concessão de 99 anos, ~80% da população mora neles, parece o modelo de "casa própria para todos". Mas mesmo com prazo mínimo de moradia e taxa extra de revenda, não conteve a privatização da valorização dos HDB. O acadêmico Chua Beng Huat aponta direto: esse conjunto de subsídios públicos que nasceu para igualar, na prática aprofundou a disparidade de riqueza entre gerações: quem comprou cedo acumulou ativos via valorização dos HDB; a geração que chega tarde tem de pagar mais caro para comprar. O ciclo de compra-e-venda dos HDB, lá tem um dito muito expressivo: "morder duas mordidas na cereja" (two bites of the cherry). [^14]
+Até Singapura, frequentemente citada como exemplo positivo, não escapou dessa dinâmica. O governo de Singapura construiu para "vender" os flats HDB ao povo, com arrendamento de 99 anos; cerca de 80% dos cidadãos moram em flats HDB, parecendo o aluno modelo da "casa própria". Mas, mesmo impondo prazo mínimo de ocupação e taxa de revenda, não conseguiu frear a valorização e privatização dos flats. O acadêmico Chua Beng Huat aponta diretamente que esse conjunto de subsídios públicos desenhado para reduzir a desigualdade, na prática acabou aprofundando a disparidade de riqueza entre gerações: quem comprou cedo acumulou ativos graças à valorização dos flats; as gerações que chegaram depois precisam pagar preços mais altos para comprar. O ciclo de comprar e vender flats gerou um dito local muito expressivo: "dar duas mordidas na cereja" (two bites of the cherry).[^14]
 
 > 📝 **Nota do curador**
-> Ponha Hong Kong, Reino Unido, Singapura lado a lado, e vê uma coisa: basta o governo escolher "construir para vender", a privatização da valorização é uma sombra quase impossível de sacudir. A diferença é só se você botou comporta, e se a comporta é apertada. Hong Kong botou reembolso de prêmio de terreno, segurou pelo menos uma parte; Singapura botou barreiras, mas ainda vaza; Reino Unido fez distribuição geral, estoque público inteiro levado. A habitação nacional de Taiwan, é a ponta mais desprotegida desse espectro, nem a comporta de reembolso de Hong Kong tem. Por isso, cinquenta anos depois, Taiwan chega a um cruzamento: ou copia Hong Kong e recoloca a comporta, ou assume de vez o outro caminho: simplesmente não vende.
+> Olhando Hong Kong, Reino Unido e Singapura juntos, descobre-se uma coisa: basta o governo escolher "construir para vender" que a privatização da valorização vira uma sombra quase impossível de sacudir. A diferença está só em saber se você instalou a portaria e se a portaria é suficientemente apertada. Hong Kong instalou a taxa de terreno, pelo menos segurou uma parte; Singapura pôs barreiras, mas ainda vaza; o Reino Unido fez distribuição em larga escala, e o estoque público foi levado de bandeja. A habitação nacional de Taiwan está na ponta mais desprotegida desse espectro: nem a taxa de terreno de Hong Kong tem. Por isso, cinquenta anos depois, Taiwan chega a um cruzamento: ou aprende com Hong Kong e instala a portaria, ou assume de vez o outro caminho — simplesmente não vender.
 
 ## Um 85% bonito no papel, e a geração seguinte que não compra
 
@@ -252,26 +274,26 @@ Na lei da habitação acessível, está escrito clarinho três travas anti-espec
 
 Só que, essa estrada mal nasceu, já bateu de frente com o centro.
 
-## Comprar ou alugar: a briga à distância entre centro e local
+## Conseguir comprar, ou conseguir alugar: a briga à distância entre o centro e o local
 
-A atitude do Ministério do Interior é clara: vender, em si, tem problema. O vice-ministro Tung Chien-hung questionou direto essa direção; ele disse: "Quando a habitação acessível é do tipo venda, relativamente falando, as pessoas que consegue atender são menos"; e "no processo de livre revenda, vão surgir algumas disputas de direitos reais e problemas de gestão administrativa subsequentes". [^24] Ele defende voltar ao espírito da _Lei de Habitação_ de habitação social "só aluga, não vende". Em português claro: casa uma vez vendida é perda única de estoque público; em vez de gastar energia para gerir "depois de vender como faz", melhor não vender desde o começo, ficar na mão do governo alugando para sempre.
+A atitude do Ministério do Interior é clara: vender, por si só, já é um problema. O vice-ministro Tung Chien-hung questionou diretamente essa direção, dizendo: «Quando a habitação acessível é do tipo venda, relativamente falando, as pessoas que se pode atender são menos», e «no processo de revenda livre surgirão algumas disputas de direitos reais e problemas de gestão administrativa subsequentes». [^24] Ele defende o retorno ao espírito de «só alugar, não vender» das habitações sociais da «Lei de Habitação». Em linguagem simples, o significado do Ministério do Interior é: uma vez vendida, a casa torna-se uma perda única do estoque público; em vez de tentar gerir «o que fazer depois de vender», melhor não vender desde o início, mantendo-a para sempre nas mãos do governo e alugando-a continuamente.
 
-Os dois lados falam, na verdade, de duas justiças habitacionais diferentes.
+O que os dois lados dizem, na verdade, são dois tipos diferentes de justiça habitacional.
 
-A resposta de Taoyuan, é querer quebrar esse quadro de "escolha um dos dois". O diretor do Departamento de Desenvolvimento Urbano de Taoyuan, Chiang Nan-chih, disse: "A promoção da justiça habitacional não deve cair na lógica única de 'escolha 1 de 2'." [^25] O prefeito Chang San-cheng, em 4 de junho de 2026, foi pessoalmente ao Yuan Executivo, lutar para incluir a habitação acessível de Taoyuan na política central. Segundo a imprensa, ele descreveu habitação acessível e habitação social como as "duas asas" da política habitacional, complementares, não concorrentes: tem gente que quer comprar, tem gente que só pode alugar, as duas demandas cada uma pega a sua, não deve forçar a escolher um. [^26]
+A resposta de Taoyuan visa desmontar essa moldura de «escolha entre dois». O diretor do Departamento de Desenvolvimento Urbano de Taoyuan, Chiang Nan-chih, disse: «A promoção da justiça habitacional não deve cair na lógica única de 'escolha 1 de 2'.» [^25] O prefeito Chang San-cheng, por sua vez, foi pessoalmente ao Yuan Executivo em 4 de junho de 2026, lutar para que a habitação acessível de Taoyuan fosse incorporada à política central. Segundo a imprensa, ele descreveu a habitação acessível e a habitação social como as «duas asas» da política habitacional, complementares e não competitivas: alguns querem comprar, outros só podem alugar, as duas necessidades devem ser atendidas cada qual à sua maneira, não se deve forçar uma escolha entre duas. [^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="Promessa de 130 mil unidades encolhe! Por que política de habitação social virou de lado | Commonwealth Magazine 8 min para entender Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Programa oficial da Commonwealth Magazine: por que as 130 mil unidades de construção direta prometidas pelo governo Lai encolheram tanto; um ângulo lateral para ver a realidade acidentada da justiça habitacional de Taiwan._
+_Programa oficial da Revista CommonWealth: por que as 130 mil unidades de habitação social de construção direta prometidas pelo governo Lai encolheram drasticamente, olhando a situação acidentada da justiça habitacional em Taiwan a partir de um ângulo._
 
-O Yuan Executivo dessa vez não disse não direto. O premiê Cho Jung-tai teve atitude visivelmente amolecida, não vetou a prática de Taoyuan, só espera "que as políticas do centro e do local possam se alinhar". [^27] Uma rota de política revogada há onze anos, com motivo oficial escrito "taxa de propriedade 85% missão cumprida", de repente, da mão de um governo local, reabriu a porta do centro.
+Desta vez, o Yuan Executivo não recusou de imediato. A atitude do presidente do Yuan Executivo, Cho Jung-tai, suavizou visivelmente; ele não vetou a abordagem de Taoyuan, apenas espera que «as políticas do centro e do local possam se alinhar». [^27] Uma linha de política que foi abolida há onze anos, com a justificativa oficial de «taxa de habitação própria de 85%, missão cumprida» já redigida, acabou por reabrir a porta do centro vinda de um governo local.
 
-![Viena, distrito 19, trecho central do conjunto habitacional social Karl-Marx-Hof, fileira inteira de fachada memorial amarela e vermelha, habitação municipal de um quilômetro](/article-images/society/vienna-karl-marx-hof.webp)
-_O Karl-Marx-Hof de Viena, concluído em 1933 até hoje detido pela prefeitura, só aluga não vende. Cem anos sem vender, o estoque fica sempre na mão do público. Foto: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG).\_
+![Trecho central da habitação social Karl-Marx-Hof no 19º distrito de Viena, uma fileira inteira de fachadas vermelho-amarelas em estilo torre memorial, habitação municipal com um quilômetro de extensão](/article-images/society/vienna-karl-marx-hof.webp)
+_O Karl-Marx-Hof de Viena, concluído em 1933, permanece até hoje sob posse da prefeitura, só aluga, não vende. Cem anos sem vender, o estoque permanece sempre em mãos públicas. Foto: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Essa colisão centro-local, o que briga no fundo é uma pergunta que cinquenta anos atrás já devia ter respondido, mas sempre foi contornada: o governo afinal deve ajudar o povo a "comprar", ou ajudar o povo a "alugar"?
+Essa colisão entre centro e local discute fundamentalmente uma questão que devia ter sido respondida há cinquenta anos, mas que sempre foi contornada: afinal, o governo deve ajudar as pessoas a «conseguir comprar» ou a «conseguir alugar»?
 
 ## Cinquenta anos depois, Taiwan aprende a instalar a comporta
 

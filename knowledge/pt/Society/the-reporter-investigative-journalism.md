@@ -29,15 +29,19 @@ rationale:
   where_it_hedges: '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。'
   whos_pushing_back: 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'
 sporeLinks:
-  [
-    "{'id': 144, 'platform': 'threads', 'date': '2026-06-16', 'url': 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'}",
-    "{'id': 145, 'platform': 'x', 'date': '2026-06-16', 'url': 'https://x.com/taiwandotmd/status/2066822763638341918'}",
-  ]
+  - id: 144
+    platform: 'threads'
+    date: '2026-06-16'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'
+  - id: 145
+    platform: 'x'
+    date: '2026-06-16'
+    url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:46044d1881e9332e'
-sourceBodyHash: 'sha256:ca526dda99de158c'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:00bd13342bc6cb3c'
+sourceBodyHash: 'sha256:d77e750f6664a705'
+translatedAt: '2026-10-13T02:48:19.081764+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O _The Reporter_ é o primeiro meio de investigação online sem fins lucrativos de Taiwan sustentado por doações cidadãs. Quando entrou no ar em dezembro de 2015, tinha apenas 4 doadores recorrentes mensais, e o fundador Ho Jung-hsing não teve coragem de contar esse número aos colegas[^1]. Dez anos depois, em outubro de 2025, esse número cresceu para cerca de 8.000, com a próxima meta fixada em 10.000[^2]. Produziu a trilogia "Lágrimas e Sangue nos Mares Distantes" perseguindo a história por três países[^3], expôs o esquema de trabalhadores estrangeiros endividados que levou a uma condenação de 5 anos e 6 meses para um dirigente da Universidade Chung Chou[^4], e após a série "Fenômeno Chokubi" o Ministério da Saúde e Bem-Estar criou nova regra exigindo PGY para atuar em medicina estética[^5]. Suas únicas regras declaradas perante o público são três frases: "Não possui, não interfere, não recupera"[^6]. O custo que o _The Reporter_ menos pode cortar é exatamente o que ninguém quer pagar na era dos algoritmos; esta ilha usou o débito mensal de 200, 300 dólares de estranhos para transformar o jornalismo de investigação de um negócio deficitário na renovação contínua de um bem público que se alimenta sempre, mas queima cada vez mais depressa.
@@ -64,26 +68,27 @@ Doadores recorrentes mensais, do primeiro mês online em 2015 ao décimo anivers
 Podcast de décimo aniversário do The Reporter, 2025-10
 ```
 
-## Não possui, não interfere, não recupera
+## Sem posse, sem interferência, sem devolução
 
-A página ["Sobre nós" do site oficial](https://www.twreporter.org/about-us) do _The Reporter_ condensa a promessa aos doadores em três verbos: não possui, não interfere, não recupera[^18].
+A [página "Sobre Nós" do site oficial do _The Reporter_](https://www.twreporter.org/about-us) resume o seu compromisso com os doadores em três verbos: sem posse, sem interferência, sem devolução[^18].
 
-"Não possui" significa que o doador não ganha ações nem poder de decisão sobre a linha editorial por doar mais ou menos. "Não interfere" significa que o doador não pode dar ordens sobre o conteúdo, o momento ou a direção de reportagens individuais. "Não recupera" significa que, uma vez doado, o dinheiro passa a custear o trabalho jornalístico do _The Reporter_, não será devolvido sob pretexto nenhum nem usado como moeda de troca que se pode retirar a qualquer momento.
+"Sem posse" significa que os doadores não terão direito a ações ou poder de decisão sobre a linha editorial com base no montante doado. "Sem interferência" significa que os doadores não podem dar instruções sobre o conteúdo, o momento ou a direção de reportagens individuais. "Sem devolução" significa que, uma vez feito o depósito, esse dinheiro passa a ser um custo para o trabalho jornalístico do _The Reporter_, não sendo devolvido por qualquer motivo, nem servindo como moeda de troca que possa ser retirada a qualquer momento.
 
-Estas três frases leem-se como comunicação de RSE empresarial, mas o que realmente resolvem é o problema estrutural que atormenta a mídia de Taiwan há trinta anos: o dono interfere, o anunciante retira patrocínio, o governo vaza informações. Quase nenhum meio comercial de Taiwan consegue livrar-se completamente de pelo menos uma dessas três linhas. A solução do _The Reporter_ é cortar as três na raiz através do desenho organizacional: sem acionistas, sem publicidade, sem contratos governamentais. A apelo moral não salva estruturas; o desenho organizacional é que aguenta.
+Essas três frases podem parecer material de divulgação de Responsabilidade Social Corporativa (CSR), mas o que elas realmente visam resolver é um problema estrutural que assola a indústria de mídia em Taiwan há trinta anos: patrões que interferem, anunciantes que retiram contratos e governos que vazam informações. Quase nenhuma mídia comercial em Taiwan consegue se livrar completamente de pelo menos uma dessas três linhas. A solução do _The Reporter_ é usar sua estrutura organizacional para cortar essas três linhas na raiz: sem acionistas, sem publicidade e sem licitações governamentais. Apelos morais não salvam estruturas; apenas o design organizacional pode sustentá-las.
 
 ```tw-versus
-Mídia comercial de Taiwan | The Reporter
-Dono é empresa cotada, partido ou família | Dono são 8.000 estranhos que doam todo mês
-Anunciante pode retirar e pressionar | Não aceita nenhuma publicidade comercial
-Taxa de cliques decide o que se escreve a seguir | Na redação não há ecrã de taxa de cliques
+Mídia comercial de Taiwan | _The Reporter_
+O dono é uma empresa de capital aberto, um partido político ou uma família | O dono são 8.000 estranhos que doam mensalmente
+Anunciantes podem retirar contratos para exercer pressão | Não aceita qualquer publicidade comercial
+A taxa de cliques determina o próximo tema | Não há telas de contagem de cliques na redação
+Fonte: Página "Sobre Nós" do site oficial do _The Reporter_ (Sem posse, sem interferência, sem devolução) e dados sobre a estrutura da mídia em Taiwan citados neste artigo[^18]
 ```
 
-O detalhe da doação pessoal de 5 milhões de Thomas Wu para criar a fundação é informação de primeira mão tornada pública oficialmente[^19]. Correu depois nos meios a versão de "Thomas Wu doou inicialmente 20 milhões", mas esse número nunca foi confirmado oficialmente, assemelha-se mais a rumor de mercado; o facto duro confirmado é apenas os 5 milhões[^20]. O importante é o desenho em três tempos "doação pessoal + fundação detentora + não aceita publicidade"; o montante em si é secundário. Mesmo que Thomas Wu tenha depois assumido como vice-presidente do think tank do DPP, nos estatutos da fundação não pode dar ordens sobre reportagens individuais.
+Os detalhes sobre a doação pessoal de NT$5 milhões feita por Tung Tzu-hsien para estabelecer a fundação são informações oficiais divulgadas[^19]. Posteriormente, circulou uma versão de que "Tung Tzu-hsien doou inicialmente NT$20 milhões", mas esse número não foi confirmado oficialmente e aproxima-se mais de rumores de mercado; o único fato concreto confirmado é de NT$5 milhões[^20]. O importante é este design em três etapas: "doação pessoal + detenção pela fundação + não aceitação de publicidade"; o valor em si é secundário. Mesmo que Tung Tzu-hsien tenha assumido posteriormente o cargo de vice-presidente do think tank do Democratic Progressive Party (DPP), ele não pode dar instruções sobre reportagens individuais conforme os estatutos da fundação.
 
-O FAQ oficial tem outro trecho que explica por que este meio não mostra taxas de cliques: "Queremos escapar ao mito da taxa de cliques, porque tráfego não equivale totalmente a valor jornalístico, nem a confiança e influência"[^21]. Em 2026 isso já é disciplina raríssima no meio online: a maioria dos sites de notícias mostra contadores de leitores em tempo real, partilhas nas redes, comentários, e as redações decidem o próximo tema com base nesses números. A redação do _The Reporter_ não tem esse ecrã.
+Há outro trecho no FAQ oficial que explica por que este veículo de mídia não exibe o número de visualizações: "Desejamos escapar do mito das visualizações, pois o tráfego não é totalmente igual ao valor da reportagem, nem equivale a confiança e influência"[^21]. Em 2026, isso já é uma disciplina rara no mundo da mídia digital; a maioria dos sites de notícias exibe em tempo real, abaixo de cada artigo, o número de leitores, compartilhamentos em redes sociais e comentários, e a redação decide o próximo tema com base nesses números. Na redação do _The Reporter_, não existe essa tela.
 
-No final de agosto de 2018, o ex-ministro da Educação Huang Jung-tsun (黃榮村) assumiu como segundo presidente do conselho[^22]. Mudanças no conselho, passagem de bastão na chefia de redação, rotação do diretor-executivo, nesta organização são rotina, mas as "três não-regras" nunca foram alteradas. Viraram uma regra de casa gravada no batente da porta: quem entra a trabalhar aqui sabe que há três coisas que não se tocam.
+No final de agosto de 2018, o ex-ministro da Educação Huang Rong-tsun assumiu como o segundo presidente do conselho de administração[^22]. Mudanças no conselho, passagens de bastão do editor-chefe e transições de cargos de CEO são normais nesta organização, mas as três frases do "Princípio dos Três Nãos" nunca foram alteradas. Elas tornaram-se uma regra de casa gravada no batente da porta: quem entra nesta organização para trabalhar sabe que há três coisas que não se pode tocar.
 
 ## Os olhos dos pescadores: mais de uma centena de entrevistados, um sétimo no estrangeiro
 
