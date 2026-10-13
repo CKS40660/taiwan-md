@@ -16,11 +16,6 @@ tags:
     'tình trạng thiếu tài xế',
   ]
 subcategory: '交通與移動'
-translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: '036f4f3f2'
-sourceContentHash: 'sha256:6350fb8cfb489452'
-sourceBodyHash: 'sha256:03dd96b03caf8931'
-translatedAt: '2026-08-09T09:26:48+08:00'
 author: 'Taiwan.md Contributors'
 readingTime: 24
 featured: false
@@ -32,12 +27,16 @@ imageCredit: 'Holly Cheng'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_street_scene.jpg'
 datasets:
-  - name: 'Số lượt khách của các tuyến Đài Loan tốt đi'
+  - name: '台灣好行各路線搭乘人次'
     url: 'https://data.gov.tw/dataset/140008'
-  - name: 'Số lượng đăng ký phương tiện cơ giới'
+  - name: '機動車輛登記數'
     url: 'https://data.gov.tw/dataset/14208'
-relatedDiary:
-  - 2026-06-25-204254-hệ-thống-xe-buýt
+relatedDiary: ['2026-06-25-204254-公車系統']
+translatedFrom: 'Lifestyle/台灣的公車系統.md'
+sourceCommitSha: 'fc49bdeef'
+sourceContentHash: 'sha256:7d3802fe03c60e03'
+sourceBodyHash: 'sha256:24a950fc8509e96a'
+translatedAt: '2026-10-13T05:56:44.807070+00:00'
 ---
 
 Sáng ngày 15 tháng 9 năm 2024, trước ga Đồng La, Miêu Lật. Hơn 30 người xếp hàng ở dưới cái cột chỉ dẫn, em nhỏ nhất vừa học mẫu giáo, người lớn tuổi nhất 90 tuổi. Họ không chờ xe đi làm, cũng không chờ xe đi học. Họ đang chờ chuyến xe cuối cùng 5658 của Khách vận Tân Trúc.
@@ -69,20 +68,20 @@ Nhóm người này có một điểm chung: họ không có vô lăng trong tay
 
 Tạm thời làm rõ một hiểu lầm thường gặp: nhiều người cho rằng lao động di cư là chủ yếu của xe buýt. Nhưng thực ra không phải vậy. Lao động di cư Đài Loan vì chính sách lâu năm hạn chế mua xe, việc đi lại hằng ngày hầu hết đi xe máy, chỉ có những ngày lễ đi đường dài mới chạy khách vận[^5]. Liên tưởng lao động di cư thành những khách chính của xe buýt là coi «yếu đuối» bằng «đi xe buýt» một cách hiển nhiên.
 
-## Một đoạn vé, hai đoạn vé, và khi xuống xe còn phải chạm lần nữa
+## Vé một chặng, vé hai chặng, và tiếng "bíp" khi xuống xe
 
-![Xe buýt sàn thấp của Khách vận Hưng Nam thành phố Đài Nam chạy trên tuyến đỏ, có biểu tượng không chướng ngại vật ở cửa xe](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
-_Xe buýt sàn thấp của Khách vận Hưng Nam thành phố Đài Nam, năm 2016. Sàn thấp giúp xe đẩy em bé và xe lăn có thể lên được, là thước đo cứng của việc «không chướng ngại vật» của xe buýt thành phố. Ảnh: Nutnse0008, CC BY-SA 4.0 (xem nguồn cuối bài)._
+![Xe buýt sàn thấp của hãng Hưng Nam Khách vận (Xingnan Bus) tại thành phố Đài Nam đang chạy tuyến huyết mạch màu đỏ, cạnh cửa xe có biểu tượng không rào cản và thiết kế sàn thấp](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
+_Xe buýt sàn thấp của hãng Hưng Nam Khách vận tại thành phố Đài Nam, năm 2016. Thiết kế sàn thấp giúp xe đẩy và xe lăn dễ dàng lên xuống, là tiêu chuẩn cứng về tính "không rào cản" của xe buýt nội đô. Photo: Nutnse0008, CC BY-SA 4.0 (nguồn xem tại phần chú thích ảnh cuối bài)._
 
-Một bộ động tác mà người Đài Loan học từ nhỏ, những người nước ngoài đến thường rối loạn: ở dưới cái cột chỉ dẫn phải giơ tay, nếu không giơ tay tài xế không dừng. Lên xe thì kêu «líp» một tiếng, đôi khi xuống xe còn phải kêu «líp» lần nữa. Phía sau bộ động tác này là một hệ thống thu vé tinh vi hơn mình tưởng tượng.
+Có một chuỗi thao tác mà người Đài Loan đã quen thuộc từ nhỏ, nhưng người nước ngoài khi mới đến thường cảm thấy vô cùng bối rối: phải giơ tay khi đứng ở trạm dừng, nếu không giơ tay tài xế sẽ đi qua luôn mà không dừng lại. Lên xe "bíp" một tiếng, và đôi khi xuống xe còn phải "bíp" thêm lần nữa. Đằng sau chuỗi thao tác này là một hệ thống thu phí tinh vi hơn nhiều so với tưởng tượng.
 
-Câu chuyện phải kể từ năm 1977. Trước đó, xe buýt ở Đài Bắc từng công ty chạy từng kiểu, số hiệu tuyến, giá vé, vé đi không thống nhất. Năm 1976, thành phố Đài Bắc lập «Ủy ban chuẩn bị liên vận công-dân xe buýt» để thống nhất những thứ này lại. Ngày 1 tháng 1 năm 1977, những tuyến liên vận đầu tiên 201, 202 bắt đầu chạy. Ngày 30 tháng 4 cùng năm, 33 tuyến liên vận giai đoạn đầu bắt đầu hoạt động chính thức[^6]. Cái ý của «liên vận» này là: dù công ty nào vận hành chiếc xe, hành khách đều dùng cùng một bộ số hiệu tuyến, cùng một bộ giá vé, cùng một tấm vé, đây là điểm khởi đầu của hệ thống xe buýt thành phố ở Đài Loan.
+Điểm khởi đầu của quy trình này phải kể từ năm 1977. Trước thời điểm đó, các đơn vị vận hành xe buýt tại Đài Bắc hoạt động riêng lẻ, không thống nhất về số hiệu tuyến, giá vé hay loại thẻ vé. Năm 1976, thành phố Đài Bắc đã thành lập "Ủy ban chuẩn bị liên doanh xe buýt công - tư" để thống nhất các yếu tố này. Vào ngày 1 tháng 1 năm 1977, các tuyến liên doanh 202 và 202 đã tiên phong đi vào hoạt động. Đến ngày 30 tháng 4 cùng năm, giai đoạn đầu với 33 tuyến xe buýt liên doanh chính thức vận hành[^6]. Khái niệm "liên doanh" ở đây có nghĩa là: bất kể xe do đơn vị nào vận hành, hành khách đều sử dụng chung một hệ thống số hiệu tuyến, một mức giá vé và một loại thẻ vé duy nhất. Đây chính là điểm khởi đầu cho chế độ xe buýt nội đô tại Đài Loan.
 
-Thu vé theo đoạn cũng phát sinh từ đây. Sau khi thành phố mở rộng sang Tân Bắc, một chuyến xe có thể vượt qua một vài vùng thu tiền: vùng thành phố cũ tính một đoạn vé, mở rộng ra ngoài tính hai đoạn, ba đoạn. Điểm chia thường được đặt ở Đài Bắc cầu, Sơn Lâm — những trung tâm giao thông hoặc gần biên giới thành phố-tỉnh, hai ga trước sau trong vùng đệm vẫn chỉ tính một đoạn vé (gọi là «vùng đệm»). Đó là lý do tại sao ngồi trên những tuyến vượt đoạn, lên xe phải chạm, xuống xe cũng phải chạm: hệ thống cần biết bạn ngồi mấy đoạn, nên khấu bao nhiêu tiền. Bạn bè nước ngoài lúng túng nhất với câu «tại sao lúc trước cửa lên, lúc cửa sau lên» thì đáp án cũng nằm ở đây: lên xuống xe ở đâu, chạm một hay hai lần, tất cả tùy theo tuyến đó chia đoạn thế nào.
+Hình thức thu phí theo chặng cũng bắt nguồn từ đây. Khi khu vực đô thị mở rộng sang Tân Bắc, một chuyến xe có thể đi qua nhiều khu vực thu phí khác nhau: khu vực trung tâm cũ tính là vé một chặng, kéo dài ra vùng ngoại vi sẽ tính là hai chặng hoặc ba chặng. Các điểm phân chia chặng thường được đặt tại các đầu mối giao thông như cầu Đài Bắc, Thất Lâm hoặc gần ranh giới giữa các thành phố/huyện. Nếu lên và xuống xe trong vòng hai trạm trước và sau điểm phân chia, hành khách sẽ chỉ bị tính một chặng (gọi là "vùng đệm"). Đó là lý do tại sao khi đi các tuyến liên chặng, bạn phải quẹt thẻ khi lên và cũng phải quẹt khi xuống: hệ thống cần biết bạn đã đi bao nhiêu chặng để trừ tiền tương ứng. Câu hỏi khiến bạn bè quốc tế bối rối nhất là "tại sao có lúc lên cửa trước, có lúc lại lên cửa sau", câu trả lời cũng nằm ở đây: việc lên xuống xe ở đâu, quẹt một lần hay hai lần, tất cả đều phụ thuộc vào cách phân chia chặng của tuyến đường đó.
 
-Chính tấm vé cũng có một giai đoạn tiến hóa. Thẻ Du Lịch 2002 tháng 9 cuối cùng chính thức lên tuyến trên xe buýt[^7], của Cao Hùng là thẻ Một 2014 khởi động cùng tàu điện ngầm Cao Hùng[^7]. Chạm hai chiều (lên xe chạm, xuống xe cũng chạm) thì là ngày 1 tháng 7 năm 2019 giai đoạn thứ nhất khởi động, tháng 2 năm 2020 giai đoạn thứ hai toàn bộ triển khai, mục đích là tính chính xác phí theo đoạn, cho phép chuyển tiếp, đồng thời thu thập dữ liệu lên xuống xe của hành khách[^8]. Ở đây cần chắn lại một lỗi thường gặp: chạm hai chiều là chuyện năm 2019, không phải 2012. Thẻ Một là 2014, cũng không phải 2012.
+Bản thân các loại thẻ vé cũng trải qua một quá trình tiến hóa. Thẻ EasyCard được triển khai toàn diện trên xe buýt vào cuối tháng 9 năm 2002[^7], trong khi thẻ iPASS tại Cao Hùng được ra mắt cùng với hệ thống tàu điện ngầm Cao Hùng vào năm 2014[^7]. Việc quẹt thẻ hai chiều (lên quẹt, xuống cũng quẹt) bắt đầu triển khai giai đoạn một vào ngày 1 tháng 7 năm 2019 và thực hiện toàn diện ở giai đoạn hai vào tháng 2 năm 2020, nhằm mục đích tính toán chính xác phí phân chặng, cung cấp ưu đãi chuyển tuyến, đồng thời thu thập dữ liệu lên xuống xe của hành khách[^8]. Cần đính chính một nhầm lẫn phổ biến ở đây: việc quẹt thẻ hai chiều là chuyện của năm 2019 chứ không phải năm 2012. Thẻ iPASS ra đời vào năm 2014, cũng không phải năm 2012.
 
-Nhưng hệ thống này cũng có trần của nó. Xe buýt thành phố Đài Loan có lưu lượng cực kỳ tập trung ở khu vực Đài Bắc-Tân Bắc: năm 2020, Đài Bắc-Tân Bắc chỉ chiếm 73,7% tổng lưu lượng xe buýt thành phố Đài Loan[^9]. Một tuyến chính xe buýt Đài Bắc giờ cao điểm 4 đến 6 phút một chuyến, người Đài Bắc chán chờ 5 phút quá lâu. Cùng lúc đó, ở các vùng giữa-nam-đông, một cái cột chỉ dẫn nào đó có thể chỉ một chuyến mỗi giờ, xe cuối cùng năm sáu giờ chiều thì close. Hệ thống giống nhau, rơi xuống những nơi khác, là hai đời người khác nhau.
+Tuy nhiên, hệ thống này cũng có những giới hạn nhất định. Lượng hành khách xe buýt nội đô tại Đài Loan tập trung cực kỳ cao ở khu vực Song Bắc (Đài Bắc và Tân Bắc): năm 2020, khu vực này chiếm tới 73,7% tổng lượng hành khách xe buýt nội đô toàn Đài Loan[^9]. Một tuyến xe buýt huyết mạch tại Đài Bắc vào giờ cao điểm cứ 4 đến 6 phút lại có một chuyến, nhưng người dân Đài Bắc vẫn phàn nàn rằng chờ đợi 5 phút là quá lâu. Trong khi đó, cùng thời điểm ấy, tại một trạm dừng nào đó ở miền Trung, miền Nam hoặc miền Đông, có thể cả tiếng đồng hồ mới có một chuyến, và chuyến cuối cùng đã kết thúc từ lúc 5-6 giờ chiều. Cùng một hệ thống quy định, nhưng áp dụng ở những nơi khác nhau lại mang đến hai trải nghiệm cuộc sống hoàn toàn khác biệt.
 
 ## Google biết xe buýt bạn còn mấy phút, vì Đài Loan đã lộ dữ liệu
 
@@ -109,27 +108,28 @@ Hiện tượng này gọi là «bunching» (chuyến dính đuôi), nó là tí
 
 Đối với người Đài Bắc, chuyến dính đuôi là phiền. Đối với vùng quê, chuyến dính đuôi hoàn toàn là nhân tài — họ còn gặp không được «hai chuyến cùng tới» vì một ngày chỉ mấy chuyến thôi. Cái này về lại đó cái vết nứt thành-nông không nhìn thấy: người Đài Bắc chán chờ 5 phút vì họ có được chán. Người Chương Hóa quê một ngày chờ 40 phút, thậm chí ngày chỉ còn hai chuyến, không được chán. Cùng một từ, đo lường hai hoàn cảnh hoàn toàn khác nhau. Người càng không có cách chọn, càng chờ không tới xe — cái câu này sẽ quay lại lặp đi lặp lại trong bài này.
 
-## Xe chui thành Thống Liên như thế nào
+## Từ xe dù trở thành Thống Liên
 
-![Xe khách đường quốc lộ Quốc Quang Khách vận, hiệu xe KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
-_Xe khách đường quốc lộ của Quốc Quang Khách vận, năm 2026. Tiền thân của nó là Đài Khí Khách vận thời bộ đường bộ độc tôn, năm 2001 được trên một ngàn nhân viên góp tiền nắm lấy. Ảnh: Wei Ting Hsu, CC BY-SA 4.0 (xem nguồn cuối bài)._
+![Xe khách đường dài quốc lộ của Quốc Quang Khách vận, biển số KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
+_Xe khách đường dài quốc lộ của Quốc Quang Khách (Kuo-kuang Motor), năm 2026. Tiền thân của hãng là Đài Kỳ Khách vận (Taiwan Motor Transport) trong thời kỳ độc quyền của Cục Đường bộ, được hơn một nghìn nhân viên góp vốn tiếp quản vào năm 2001. Photo: Wei Ting Hsu, CC BY-SA 4.0 (Nguồn ảnh xem ở cuối bài)._
 
-Muốn hiểu hôm nay hệ thống xe buýt sao lại có dáng này, cần quay lại xem nó từ khi một nhà độc tôn phát triển thế nào.
+Để hiểu tại sao xe buýt ngày nay lại có diện mạo như thế này, cần phải quay ngược thời gian để xem cách nó phát triển từ một đơn vị độc quyền thành các hãng xe chạy đầy đường.
 
-Khởi điểm của khách vận đường bộ Đài Loan là Bộ đường bộ Đài Loan thành lập năm 1946. Năm 1977, công nghiệp khách vận của Bộ đường bộ tách ra, thành lập Công ty xe tô Đài Loan (viết tắt Đài khí), thời kỳ đỉnh cao có hơn 500 tuyến, 3.600 chiếc xe, hơn một vạn nhân viên[^15]. Đó là thời đại Bộ đường bộ độc tôn khách vận đường dài, những người lớn tuổi còn nhớ.
+Điểm khởi đầu của vận tải khách đường bộ tại Đài Loan là Cục Đường bộ tỉnh Đài Loan được thành lập vào năm 1946. Năm 1977, mảng kinh doanh vận tải hành khách của Cục Đường bộ được tách ra độc lập để thành lập Công ty Khách vận Ô tô Đài Loan (viết tắt là Đài Kỳ), ở thời kỳ hưng thịnh nhất đã có hơn 500 tuyến đường, 3.600 xe và hàng vạn nhân viên[^15]. Đó là thời đại mà Cục Đường bộ độc quyền vận tải khách đường dài, thế hệ đi trước đều còn ghi nhớ.
 
-Bước ngoặt xảy ra quanh thời bãi bỏ thiết quân luật. Cuối năm 1980, con đường bắt đầu xuất hiện rất nhiều xe không có bằng cấp, tải khách riêng tư gọi là «xe chui». Thay vì tiếp tục quản lý, Bộ Giao thông vận tải chọn phương hướng hướng dẫn nó hợp pháp. Ngày 6 tháng 9 năm 1989, do Trần Gia Tríất — lúc đó là giám đốc Viện nghiên cứu vận tải của Bộ — lấy ý « thống suất bốn phương, liên hợp kinh doanh » đặt tên Công ty khách vận Thống Liên chính thức thành lập, trở thành công ty khách vận đường quốc lộ dân doanh hợp pháp đầu tiên của Đài Loan[^16]. Khi thị trường mở ra, Hòa Tâm, Gô Ma Lâm, A Lạc Hạ, Thủ Đô Khách vận lần lượt gia nhập, khách vận đường dài từ một nhà độc tôn biến thành bách gia tranh nổi.
+Bước ngoặt xảy ra vào khoảng thời gian trước và sau khi bãi bỏ thiết quân luật. Vào cuối những năm 1980, trên đường bắt đầu xuất hiện lượng lớn "xe dù" (野雞車) không biển số, tự ý chở khách trái phép. Thay vì tìm cách dẹp bỏ vô tận, Bộ Giao thông vận tải đã chọn phương án hướng dẫn chúng trở nên hợp pháp hóa. Ngày 6 tháng 9 năm 1989, Công ty Khách vận Thống Liên (United Bus) chính thức được thành lập với cái tên mang ý nghĩa "thống lĩnh bốn phương, liên kết kinh doanh" do Viện Nghiên cứu Vận tải thuộc Bộ Giao thông vận tải đương thời là Trương Gia Chúc (Chang Chia-chu) đặt cho, trở thành công ty vận tải khách đường dài tư nhân hợp pháp đầu tiên của Đài Loan[^16]. Một khi thị trường được mở ra, các hãng như Hòa Hân (Hsin-yin), Cách Mã Lan (Karmalu), A La Ha (Aloha) và Thủ Đô (Capital Bus) lần lượt gia nhập, khiến vận tải đường dài chuyển từ thế độc quyền sang cảnh trăm hoa đua nở.
 
 ```tw-timeline
-1946 | Bộ đường bộ Đài Loan thành lập | Chính phủ trực tiếp, độc tôn khách vận đường bộ Đài Loan
-1977 | Công ty xe tô Đài Loan độc lập | Tách công nghiệp khách vận của Bộ, thời kỳ đỉnh cao hơn một vạn nhân viên
-1989 | Công ty khách vận Thống Liên thành lập | Xe chui hợp pháp, công ty khách vận đường quốc lộ dân doanh đầu tiên
-2001 | Quốc Quang Khách vận nắm lấy | Đài khí năm lỗ 50 tỉ, một ngàn nhân viên góp tiền thành lập Quốc Quang
+1946 | Thành lập Cục Đường bộ tỉnh Đài Loan | Do chính phủ trực tiếp điều hành, độc quyền vận tải khách đường bộ tại Đài Loan
+1977 | Thành lập độc lập Đài Kỳ Khách vận | Tách mảng kinh doanh vận tải từ Cục Đường bộ, thời kỳ đỉnh cao có hàng vạn nhân viên
+1989 | Thành lập Khách vận Thống Liên | Hợp pháp hóa xe dù, công ty vận tải đường dài tư nhân đầu tiên
+2001 | Quốc Quang Khách vận tiếp quản | Đài Kỳ thua lỗ 5 tỷ NT$, một nghìn nhân viên góp vốn thành lập Quốc Quang
+Nguồn: Tư liệu lịch sử về Cục Đường bộ, Đài Kỳ và Quốc Quang Khách vận (Đài Kỳ có hơn 500 tuyến, 3.600 xe, năm 2001 có 1.090 nhân viên góp vốn) và báo cáo thành lập Khách vận Thống Liên năm 1989[^15][^16]
 ```
 
-Phía công cộng không rực rỡ như vậy. Đài khí lâu năm lỗ, mỗi năm lỗ khoảng 50 tỉ do ngân sách nhà nước bù, mở thị trường sau tuyến đường và nhân lực sụt giảm mạnh[^15]. Năm 2001 tháng 6, 1.090 nhân viên Đài khí mỗi người góp 300.000 đều thành lập Quốc Quang Khách vận, tháng 7 nắm lấy 96 tuyến cũ của Đài khí[^15]. Rất nhiều nhân viên trung niên bốn năm năm chục tuổi không đủ điều kiện về hưu vì thế gây xung đột. Tên gọi «Quốc Quang số» thực tế đến từ mẫu xe vàng Đài khí năm 1967, một triều đại khép lại, để lại tên hiệu của mình cho người nắm lấy.
+Phía khối công lập thì không được vẻ vang như vậy. Đài Kỳ thua lỗ kéo dài, mỗi năm mất khoảng 5 tỷ NT$ phải dùng ngân sách nhà nước bù đắp; sau khi mở cửa cạnh tranh, số lượng tuyến đường và nhân lực đã bị thu hẹp đáng kể[^15]. Tháng 6 năm 2001, 1.090 nhân viên của Đài Kỳ mỗi người góp 300.000 NT$ để thành lập Quốc Quang Khách vận, đến tháng 7 đã tiếp quản 96 tuyến đường vốn thuộc về Đài Kỳ[^15]. Nhiều nhân viên trung niên ở độ tuổi bốn mươi, năm mươi chưa đủ điều kiện nghỉ hưu đã đứng lên đấu tranh vì việc này. Cái tên "Quốc Quang Hào" (Kuo-kuang) thực chất bắt nguồn từ dòng xe đạt giải vàng của Đài Kỳ vào năm 1967; một vương triều khép lại, để lại thương hiệu của mình cho những người tiếp quản.
 
-(Đoạn lịch sử chế độ này chỉ là nền tảng. Tấm séc vàng thành Quốc Quang số tuyến đó, tầm lưỡi xe chui ngày xưa tợn hoạch chi tiết, thuộc về bài viết khác nói về xe khách du lịch, ở đây chỉ làm dấu tọa độ nhẹ.)
+(Phần lịch sử thể chế này chỉ đóng vai trò bối cảnh. Những hoài niệm về du lịch từ dòng xe Kim Mã đến Quốc Quang, hay chi tiết về sự lộng hành của xe dù năm xưa, sẽ thuộc về một bài viết khác nói về xe du lịch, ở đây chỉ coi như một điểm mốc tham chiếu.)
 
 ## 5 giờ 30 khởi hành, tối 8 giờ thu xe, nghỉ 4 ngày một tháng
 
@@ -189,31 +189,31 @@ Sau khi tàu cao tốc thông xe năm 2007, khách đi đường dài khu vực 
 
 Hậu quả trực quan nhất, là bến chuyển thành thành phố ma. Tầng hai Bến chuyển Đài Bắc những chủ hàng hủy thuê, cả tầng thành không gian trống chờ thuê[^28]; Đài Trung xây một vài trung tâm chuyển, lo ngại lâm vào tình trạng nhà không người sử dụng. Đối mặt với tuyết lở này, Bộ Đường bộ năm 2025 khởi động cái gọi là «30 năm qua lớn nhất» kế hoạch điều chỉnh mạng lưới đường bộ[^20], cái này vừa là thừa nhận mạng lưới cũ không chịu nổi, cũng vừa là một lần xáo trộn lại.
 
-## Sự tiến bộ thành phố, và giới hạn của nó
+## Sự tiến bộ của đô thị và những giới hạn
 
-Lấy ống kính quay lại thành phố, sẽ thấy một mặt hoàn toàn khác. Cùng một hệ thống, phía thành phố đang bước tiến mạnh mẽ, chỉ là mỗi một bước đều đạp lên giới hạn của chính nó.
+Khi đưa ống kính trở lại các đô thị, chúng ta sẽ thấy một diện mạo hoàn toàn khác. Cùng một hệ thống đó, nhưng ở phía đô thị, mọi thứ đang tiến lên những bước dài, chỉ có điều mỗi bước đi đều đang chạm tới giới hạn của chính nó.
 
-Tiến bộ thứ nhất là xe buýt tuyến chính. Đài Bắc năm 2017 tới 2018 phân cấp lại mạng lưới xe buýt, tuyến chính giờ cao điểm dày 4 tới 6 phút một chuyến, giống như tàu điện ngầm vậy dễ hiểu, dễ chờ[^29]. Thứ hai là vé tháng chạy bộ TPASS. Nó bắt nguồn từ lập trường chính sách năm 2022, tháng 7 năm 2023 hoạt động, ba năm trước cấp biểu ngân sách đặc biệt 200 tỉ: từ Cơ bắc-Bắc-Bắc-Đào Viên 1.200 đều một tháng, Miêu-Trung-Chương-Đầu 699 hoặc 999 đều, Nam-Cao-Bình 999 đều, ăn hết lộn xe buýt cộng tàu điện ngầm[^30].
+Bước tiến thứ nhất là xe buýt trục chính (trunk lines). Trong giai đoạn 2017–2018, thành phố Đài Bắc đã tái phân cấp mạng lưới xe buýt; vào giờ cao điểm, các tuyến trục chính có mật độ dày đặc từ 4 đến 6 phút một chuyến, giúp việc sử dụng trở nên dễ hiểu và dễ chờ đợi như tàu điện ngầm (MRT)[^29]. Bước tiến thứ hai là thẻ tháng đi làm TPASS. Xuất phát từ các cam kết tranh cử năm 2022, TPASS chính thức được triển khai vào tháng 7 năm 2023. Trong 3 năm đầu tiên, một khoản ngân sách đặc biệt trị giá NT$20 tỷ đã được lập ra: thẻ tháng NT$1.200 cho khu vực Cơ-Bắc-Bắc-Đào (Keelung-Taipei-New Taipei-Taoyuan), NT$699 hoặc NT$999 cho khu vực Miêu-Trung-Chương-Đầu (Miaoli-Taichung-Changhua-Touku), và NT$999 cho khu vực Nam-Cao-Bình (Tainan-Kaohsiung-Pingtung), cho phép hành khách đi xe buýt và tàu điện ngầm không giới hạn[^30].
 
-Bảng điểm của TPASS, cần đọc đúng và sai. Tích cực là nó thực sự đã kéo mọi người lên xe: lưu lượng xe buýt tăng 19,6%, tàu điện ngầm tăng 36,9%[^31]. Nhưng muốn nói nó biến những người lái xe máy của tư nhân thành người chạy taxi, hiệu quả rất hạn chế: phỏng vấn mặt tại Đài Bắc, tỷ lệ phương tiện tư nhân thực tự chuyển sang vận tải công cộng chỉ có 7,33%[^32]. Nói cách khác, khách thêm vào, hầu hết là «trước đó đã chạy, bây giờ chạy nhiều hơn», chứ không phải «trước đó lái xe, bây giờ đổi chạy».
+Kết quả của TPASS cần được nhìn nhận từ cả hai phía. Về mặt tích cực, nó thực sự đã thu hút thêm người lên xe: lượng hành khách xe buýt tăng 19,6%, lượng hành khách tàu điện ngầm tăng 36,9%[^31]. Tuy nhiên, nếu nói về hiệu quả trong việc chuyển đổi những người đang lái xe hoặc đi xe máy sang phương tiện công cộng thì kết quả còn rất hạn chế: một cuộc khảo sát thực địa tại thành phố Đài Bắc cho thấy tỷ lệ phương tiện cá nhân thực sự chuyển sang vận tải công cộng chỉ là 7,33%[^32]. Nói cách khác, phần lớn lượng hành khách tăng thêm là những người "vốn đã đi phương tiện công cộng và nay đi nhiều hơn", chứ không phải là "vốn đang lái xe và nay chuyển sang đi phương tiện công cộng".
 
-Thực tế hơn là tiền. Ngân sách đặc biệt 200 tỉ của TPASS năm 2025 kết thúc, kế hoạch tiếp nối quy mô 363,8 tỉ, tuy nhiên vì tổng ngân sách kẹt ở viện lập pháp mà phải đối mặt với nguy cơ cắt điện, toàn quốc 20 tỉnh thành bị ảnh hưởng, rất nhiều nơi dựa vào chủ hàng trước khoản tiền nó chịu[^32][^33]. Một cái chính sách tốt kéo mọi người lên xe, đang kẹt trong bế tắc chính trị.
+Vấn đề thực tế hơn nằm ở tài chính: khoản ngân sách đặc biệt NT$20 tỷ của TPASS sẽ hết hạn vào cuối năm 2025. Kế hoạch tiếp nối có quy mô lên tới NT$36,38 tỷ, nhưng hiện đang đối mặt với nguy cơ bị gián đoạn do tổng ngân sách bị kẹt tại Lập pháp viện. Điều này ảnh hưởng đến 20 huyện và thành phố trên toàn Đài Loan, nhiều địa phương đang phải dựa vào việc các doanh nghiệp tự ứng vốn trước để cầm cự[^32][^33]. Một chính sách tốt giúp thu hút người dân lên xe đang bị mắc kẹt trong bế tắc chính trị.
 
-![Xe buýt điện BYD K9 của Khách vận Đài Bắc chạy trước sân vườn Thú Bách Đài Bắc](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
-_Xe buýt điện BYD K9 của Khách vận Đài Bắc chạy qua trước Thú Bách Đài Bắc năm 2026. Năm 2030 xe buýt thành phố phải toàn bộ điện hoá, phải thay thế gần một vạn xe buýt chạy xăng (khoảng 9.400 chiếc có sẵn), mục tiêu trợ cấp 11.700 chiếc, nhưng năm 2024 chỉ có khoảng 18% lên được. Ảnh: 厦门金龙永远的神, CC BY 4.0 (xem nguồn cuối bài)._
+![Xe buýt điện BYD K9 của Taipei Bus chạy trước Sở thú Thành phố Đài Bắc](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
+_Xe buýt điện BYD K9 của Taipei Bus chạy qua trước Sở thú Thành phố Đài Bắc, năm 2026. Đến năm 2030, xe buýt nội đô phải được điện hóa toàn bộ, nhưng tính đến năm 2024 mới chỉ có khoảng 18% được đưa vào hoạt động. Photo: 厦门金龙永远的神, CC BY 4.0 (Nguồn ảnh xem ở cuối bài)._
 
-Điện hoá là tiến bộ thứ ba của thành phố, cũng là chỗ mà sự chênh lệch chọc nhất mắt. Chính phủ cam kết năm 2030 xe buýt thành phố toàn bộ điện hoá, phải thay thế gần một vạn xe buýt chạy xăng (khoảng 9.400 chiếc có sẵn), mục tiêu trợ cấp 11.700 chiếc, toàn bộ kế hoạch tháng 6 năm 2023 thông duyệt, cấp bổ sung 643 tỉ[^34]. Lý tưởng cao, thực tế chậm: cho tới năm 2024, xe buýt điện thực tế lên được chỉ có khoảng 1.926 chiếc, chiếm tỷ lệ 18%, mà lại có 7 tỉnh thành ổng cả[^35].
+Điện hóa là bước tiến thứ ba của đô thị, và cũng là nơi cho thấy sự chênh lệch rõ rệt nhất. Chính phủ tuyên bố sẽ điện hóa toàn bộ xe buýt nội đô vào năm 2030, nhằm thay thế gần 10.000 chiếc xe chạy nhiên liệu (tồn kho khoảng 9.400 chiếc), với mục tiêu trợ giá mua mới là 11.700 chiếc. Toàn bộ kế hoạch đã được phê duyệt vào tháng 6 năm 2023 với ngân sách 64,3 tỷ Đài tệ[^34]. Lý tưởng thì rất cao nhưng thực tế lại rất chậm: tính đến năm 2024, số xe buýt điện thực tế đang hoạt động chỉ khoảng 1.926 chiếc, chiếm tỷ lệ 18%, và có 7 huyện/thành phố vẫn chưa có chiếc nào[^35].
 
 ```tw-bars
-Khoảng cách tới 2030 toàn bộ điện hoá (tiến độ điện hoá xe buýt thành phố)
-2024 xe buýt điện đã lên | 1926 | chiếm tỷ lệ 18%
-2030 mục tiêu trợ cấp | 11700 | bảy tỉnh thành hiện ổng cả
-Nguồn: Viện Hành pháp, Bộ Giao thông vận tải, 2024 cuối
+Khoảng cách đến mục tiêu điện hóa toàn bộ năm 2030 (Tiến độ điện hóa xe buýt nội đô)
+Xe buýt điện đã vận hành năm 2024 | 1926 | Chiếm 18%
+Mục tiêu mua mới trợ giá năm 2030 | 11700 | 7 huyện/thành phố hiện tại bằng 0
+Nguồn: Viện Hành pháp, Bộ Giao thông vận tải, cuối năm 2024
 ```
 
-Kẹt ở đâu? Phê duyệt trợ cấp tới địa phương cấp quyết định, rồi tới ký hợp đồng thực tế, từng tầng rò (số tiền từ 2.080 rò xuống 1.404, rồi rò xuống 744); thiết bị sạc lại mắc tiền, một trạm sạc phải 6.000 vạn lên trên[^35]. Công bố một chiếc xe phải 1.100 vạn, trợ cấp 680 vạn, chủ hàng còn phải tự túc 420 vạn, đối với một ngành vốn dựa vào trợ cấp mà chịu, còn không có tài xế để gọi, đây là một quyết tâm khó chịu.
+Nguyên nhân nằm ở đâu? Từ khâu phê duyệt trợ cấp xuống địa phương, rồi đến ký kết hợp đồng thực tế, các tầng nấc bị thất thoát (hạn mức giảm từ 20,8 tỷ xuống 14,04 tỷ, rồi tiếp tục giảm xuống còn 744 tỷ)[^35]. Bên cạnh đó, thiết bị sạc cũng rất đắt đỏ, một trạm sạc có chi phí trên NT$60 triệu[^35]. Với một chiếc xe được công bố giá NT$11 triệu, trợ cấp NT$6,8 triệu, doanh nghiệp vẫn phải tự huy động thêm NT$4,2 triệu. Đối với một ngành vốn đã phải cầm cự nhờ trợ cấp và đang thiếu hụt cả tài xế, đây là một quyết định cực kỳ khó khăn.
 
-> 📝 **Ghi chú của biên tập viên**: Ba chuyện thành phố này (xe buýt tuyến chính, vé tháng, điện hoá) lộ ra trông như một danh sách tiến bộ. Nhưng chúng có một tiền đề vô hình chung: phải có người chở xe chạy ra. Khi tuổi tài xế trung bình leo tới 51 tuổi, thiếu hụt quá 5.000 người, dù vé tháng thông minh thế nào, dù xe buýt điện bảo vệ môi trường thế nào, cũng chỉ là ngồi tại bến xe mà là cái vỏ sắt. Tiến bộ phía thành phố là thực, nhưng nó đang ngồi trên một nền tảng lao động nhanh chóng lão hóa mà vươn tới phía trước.
+> 📝 **Ghi chú của biên tập viên**: Ba vấn đề này của đô thị (xe buýt trục chính, thẻ tháng, điện hóa) khi nhìn rộng ra giống như một danh sách các bước tiến bộ. Tuy nhiên, chúng có chung một tiền đề ẩn giấu: phải có người lái xe. Khi độ tuổi trung bình của tài xế lên tới 51 và sự thiếu hụt vượt quá 5.000 người, thì dù thẻ tháng có thông minh đến đâu hay xe buýt điện có thân thiện với môi trường thế nào, chúng cũng chỉ là những vỏ sắt nằm im tại bến bãi. Sự tiến bộ của đô thị là có thật, nhưng nó đang lao về phía trước trên một nền tảng lao động đang già hóa nhanh chóng.
 
 ## Đài Loan không phải trường hợp riêng lẻ
 

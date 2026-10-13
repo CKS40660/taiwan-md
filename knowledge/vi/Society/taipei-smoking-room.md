@@ -15,11 +15,6 @@ tags:
     'thuốc lá điện tử',
   ]
 subcategory: 'Society'
-translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495a'
-sourceContentHash: 'sha256:38028701b07f0fef'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-08-09T09:26:48+08:00'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
@@ -39,8 +34,12 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-14'
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
-relatedDiary:
-  - 2026-07-14-193334-manual
+relatedDiary: ['2026-07-14-193334-manual']
+translatedFrom: 'Society/台北吸菸室.md'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:f6e388583def59a6'
+sourceBodyHash: 'sha256:0879f11101fa0c2c'
+translatedAt: '2026-10-13T07:15:27.413751+00:00'
 ---
 
 _Bên ngoài lối ra số 6 ga tàu điện ngầm Tây Môn, phòng hút thuốc áp suất âm ngoài trời đầu tiên của toàn Đài Loan: một chiếc hộp kính trong suốt có khung đen, đặt trên vỉa hè. Photo: Hoa Hoa Nhật Báo / Phóng viên Chương Tương Vân (fair use editorial commentary)._
@@ -115,27 +114,28 @@ Thiết kế này trở thành "áp suất âm" chứ không phải kiểu phòn
 
 Còn về bao nhiêu tiền, chính quyền không công khai quyết toán từng cái. Trong cuộc trả lời hỏi tại hội đồng, chính quyền lấy khoảng 1,5 triệu đô la cho một cái làm cơ sở ước tính quy hoạch, ước tính tổng chi phí cho đến cuối tháng 6 khoảng 100 triệu đô la[^20]. Mặt khác, chủ tịch Liên Đoàn Hội Phụ Huynh Toàn Quốc Đào Liên Sinh lại chất vấn từ góc độ hiệu quả chi phí: phòng hút thuốc ngoài trời theo luật phải có ngăn riêng, điều hòa riêng, thiết kế áp suất âm và cửa tự động, "khi không thể đạt được hiệu ứng 'ngửi không thấy mùi thuốc', vẫn phải chi tiêu hàng chục vạn đến triệu đô la xây dựng, rõ ràng không phù hợp hiệu quả chi phí"[^21]. Một bộ là cơ sở ước tính quy hoạch của chính quyền, một bộ là phê bình ước tính của nhóm phụ huynh, hai bộ số liệu bản chất khác, nhưng cùng chỉ đến cùng một câu hỏi: chiếc hộp này, có đáng giá không.
 
-## Thậm chí cả những người chống thuốc lá cũng cãi lộn lên
+## Ngay cả phe chống thuốc lá cũng tranh cãi nảy lửa
 
-Nếu chỉ có phụ huynh hay giá cả phản đối, thì còn đơn giản hơn. Điều thực sự làm cho vấn đề trở nên phức tạp, là thậm chí chính các nhóm chống thuốc lá cũng cãi nhau, và cái họ tranh luận không phải có nên chống thuốc lá, mà phải chống như thế nào.
+Nếu những người phản đối chỉ là các phụ huynh vì ngại chi phí đắt đỏ, thì mọi chuyện vẫn còn đơn giản. Điều thực sự khiến vấn đề trở nên phức tạp là ngay cả trong phe chống thuốc lá cũng xảy ra tranh cãi, và điều họ tranh luận không phải là có nên chống thuốc lá hay không, mà là nên chống như thế nào.
 
-Liên Minh Từ Chối Thuốc Lá Đài Loan và Quỹ Tôn Chi Anh có lập trường rõ ràng: phản đối xây dựng các phòng hút thuốc kín áp suất âm ở ngoài. Chủ nhiệm Trung Tâm Kiểm Soát Tác Hại Thuốc Lá của Quỹ Tôn Chi Anh Lâm Thanh Lệ chủ trương "từ bên trong ra ngoài, trước tiên thực hiện cấm hoàn toàn bên trong một trăm phần trăm, sau đó mở ra khu hút thuốc được chỉ định bên ngoài", và nói thẳng "thành phố không khí sạch nên khiến người hút thuốc bất tiện, không nên xây dựng rộng rãi các quán hút thuốc"[^22]. Trong logic của họ, phòng hút thuốc xây dựng càng thoải mái, càng đi xa khỏi mục tiêu ban đầu "khiến mọi người bỏ hút". Đây cũng không phải là vị trí mới, sớm vào năm 2011, Quỹ Tôn Chi Anh đã chỉ trích kế hoạch muốn phục hồi phòng hút thuốc bên trong của sân bay Đào Viên.
+Lập trường của Liên minh Từ chối Thuốc lá Đài Loan (Taiwan Tobacco Refusal Alliance) và Quỹ Dong Shih rất rõ ràng: phản đối việc xây dựng các phòng hút thuốc áp suất âm kín ngoài trời. Bà Lâm Thanh Lệ (Lin Ching-li), Giám đốc Trung tâm Phòng chống Tác hại Thuốc lá thuộc Quỹ Dong Shih, chủ trương "đi từ trong ra ngoài, trước tiên phải thực hiện cấm hút thuốc 100% trong nhà, sau đó mới cho phép hút thuốc tại các điểm cố định ngoài trời", đồng thời thẳng thắn cho rằng "một thành phố không khói thuốc nên khiến việc hút thuốc trở nên bất tiện, chứ không nên thiết lập phổ biến các trạm hút thuốc"[^22]. Theo logic của họ, phòng hút thuốc càng được xây dựng thoải mái bao nhiêu, thì càng đang dọn đường cho hành vi hút thuốc bấy nhiêu, và càng đi xa khỏi mục tiêu ban đầu là "khiến mọi người cai thuốc". Đây không phải là lập trường mới; ngay từ năm 2011, Quỹ Dong Shih đã từng chỉ trích kế hoạch khôi phục các phòng hút thuốc trong nhà tại Sân bay Đào Viên.
 
 ```tw-versus
-Giảm tác hại: đưa các điếu thuốc vào trong một chiếc hộp | Giảm lượng: khiến hút thuốc ngày càng khó khăn
-Thừa nhận vẫn còn người hút, cho họ một góc không làm phiền người khác | Mục tiêu là tỷ lệ hút thuốc tiếp tục giảm
-Mùi thuốc và đầu lọc tập trung quản lý, cảnh quan thành phố sạch | Càng bất tiện, càng có khả năng khiến mọi người giảm hoặc từ bỏ hút
-Suy nghĩ phân luồng của chính quyền hiện tại | Chủ trương của các nhóm từ chối và một phần giới y tế
+Giảm thiểu tác hại: Đưa khói thuốc vào một chiếc hộp | Giảm lượng tiêu thụ: Khiến việc hút thuốc ngày càng khó khăn hơn
+Thừa nhận vẫn có người đang hút, cho họ một góc không làm phiền người khác | Mục tiêu là khiến tỷ lệ hút thuốc tiếp tục giảm xuống
+Quản lý tập trung mùi thuốc và đầu lọc, giúp cảnh quan thành phố sạch sẽ hơn | Càng bất tiện, càng có khả năng khiến mọi người hút ít đi hoặc cai hẳn
+Tư duy phân luồng của chính quyền thành phố hiện tại | Quan điểm của các nhóm từ chối thuốc lá và một bộ phận giới y khoa
+Nguồn: Trả lời chất vấn tại Hội đồng Thành phố Đài Bắc và ước tính chi phí - lợi ích của các nhóm phụ huynh (theo báo cáo của Trung ương Xã, v.v.) + Lập trường của Quỹ Dong Shih và Liên minh Từ chối Thuốc lá Đài Loan[^20][^21][^22]
 ```
 
-Bác sĩ Quách Phế Nhiên, chuyên khoa Y Tế Gia Đình Bệnh Viện Đại Học Đài Bắc, tổng thư ký Liên Minh Kiểm Soát Tác Hại Thuốc Lá của Giới Y Tế Đài Loan nói thêm sâu hơn. Trong bài viết gửi báo của ông, ông trích dẫn Khuôn khổ Công ước Kiểm soát Sản phẩm Thuốc lá của Tổ Chức Y Tế Thế Giới, chỉ ra rằng bất kỳ thông gió, thiết bị lọc không khí hoặc phòng hút thuốc được chỉ định đều không thể ngăn chặn tiếp xúc với khí thải thứ hai từ thuốc lá, "không có mức tiếp xúc an toàn nào với khí thải thứ hai từ thuốc lá"[^23]. Và một câu sắc nét nhất của ông, chỉ tới tác dụng phụ của bản thân sự tồn tại của chiếc hộp này.
+Bác sĩ chuyên khoa Khoa Y học Gia đình tại Bệnh viện Đại học Quốc gia Đài Loan (NTUH), đồng thời là Tổng thư ký Liên minh Phòng chống Tác hại Thuốc lá của Giới Y khoa Đài Loan, ông Quách Phỉ Nhiên (Guo Fei-ran), đã đưa ra một nhận định sâu sắc hơn. Trong bài viết của mình, ông dẫn chứng Công ước Khung về Kiểm soát Thuốc lá của Tổ chức Y tế Thế giới (WHO) để chỉ ra rằng bất kỳ thiết bị thông gió, lọc không khí hay phòng hút thuốc chuyên dụng nào cũng không thể ngăn chặn việc tiếp xúc với khói thuốc thụ động, bởi "không có mức độ tiếp xúc an toàn nào với khói thuốc thụ động"[^23]. Và câu nói sắc bén nhất của ông nhắm thẳng vào tác dụng phụ từ chính sự tồn tại của "chiếc hộp" này.
 
 ```tw-quote
-Rất ủng hộ thành phố không khí sạch, nhưng không nên thiết lập phòng hút thuốc kín bên ngoài; đừng quảng cáo phòng hút thuốc có áp suất âm, có thiết bị lọc, thì không có khí thải thứ hai từ thuốc lá; đừng vì một mục đích tốt lành, quảng cáo những quan niệm sai lầm.
-Quách Phế Nhiên | Bác sĩ Khoa Y Tế Gia Đình Bệnh Viện Đại Học Đài Bắc, Tổng Thư Ký Liên Minh Kiểm Soát Tác Hại Thuốc Lá của Giới Y Tế Đài Loan, 2026
+Tôi rất ủng hộ một thành phố không khói thuốc, nhưng đừng thiết lập các phòng hút thuốc kín ngoài trời; đừng quảng bá rằng phòng hút thuốc có áp suất âm hay có thiết bị lọc thì sẽ không còn khói thuốc thụ động; đừng vì một mục đích tốt đẹp mà quảng bá những quan niệm sai lầm.
+Quách Phỉ Nhiên | Bác sĩ Khoa Y học Gia đình, Bệnh viện Đại học Quốc gia Đài Loan, Tổng thư ký Liên minh Phòng chống Tác hại Thuốc lá của Giới Y khoa Đài Loan, 2026
 ```
 
-> 📝 **Ghi chú của nhà cấu trúc:** Câu nói này của Quách Phế Nhiên chứa đựng một cơ chế dễ bị bỏ qua. Một chiếc hộp kính sáng tương lai, chuẩn bị dự bị "bốn lớp lọc", sẽ cho con người một gợi ý rằng "có thiết bị thì tương đương an toàn": khi bạn nhìn thấy khí thải bị hút vào một chiếc hộp công nghệ cao, bạn sẽ vô thức cảm thấy vấn đề khí thải thứ hai từ thuốc lá đã được xử lý. Nhưng trên khoa học, an tâm này không đứng vững. Báo cáo của Cục Trưởng Y Tế Công Cộng Hoa Kỳ năm 2006 đã kết luận: ngay cả phòng hút thuốc áp suất âm kín riêng, thông gió riêng, cũng không thể chặn khí thải thứ hai từ thuốc lá thấm vào khu vực bên cạnh[^24]. Tổ Chức Y Tế Thế Giới và Học Viện Kỹ Sư Lạnh và Điều Hòa Không Khí Hoa Kỳ có cùng lập trường. Nhà kính vừa là một sự thỏa hiệp tươi tỉnh, vừa có thể là một rào cản làm mọi người bỏ lại cảnh giác—hai điều này, có thể đồng thời là sự thật.
+> 📝 **Ghi chú của người biên tập**: Trong câu nói này của Quách Phỉ Nhiên ẩn chứa một cơ chế dễ bị bỏ qua. Một chiếc hộp kính mang cảm giác tương lai, được quảng bá là có "bốn lớp màng lọc", sẽ tạo ra một ám thị rằng "có thiết bị đồng nghĩa với an toàn": khi bạn nhìn thấy khói thuốc được hút vào một chiếc hộp công nghệ cao, bạn sẽ vô thức cảm thấy vấn đề khói thuốc thụ động đã được giải quyết. Tuy nhiên, về mặt khoa học, cảm giác an tâm này không có cơ sở. Một báo cáo năm 2006 của Cơ quan Y tế Công cộng Hoa Kỳ đã kết luận rằng: ngay cả các phòng hút thuốc áp suất âm kín biệt lập và có hệ thống thông gió riêng biệt cũng không thể ngăn khói thuốc thụ động thẩm thấu sang các khu vực lân cận[^24]. Lập trường của Tổ chức Y tế Thế giới và Hiệp hội Kỹ sư Nhiệt lạnh Hoa Kỳ (ASHRAE) là thống nhất. Một ngôi nhà kính vừa là một sự thỏa hiệp đầy tinh tế, nhưng cũng có thể là một rào chắn khiến người ta mất cảnh giác — cả hai điều này đều có thể cùng tồn tại một lúc.
 
 ## Nghiên cứu Kyoto đó, thực ra đo cái khác
 
