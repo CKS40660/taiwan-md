@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T22:05:48.540Z",
+  "lastUpdated": "2026-10-13T22:06:11.929Z",
   "totals": {
     "contributors": 78,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10099,
+      "commits": 10113,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -49,15 +49,15 @@
     },
     {
       "login": "tboydar",
-      "commits": 90,
+      "commits": 104,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-29 10:43:05 +0800",
+      "lastCommitAt": "2026-10-12 19:35:20 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 10,
-        "system": 6,
+        "content": 22,
+        "system": 8,
         "translation": 88
       }
     },
@@ -909,7 +909,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10099,
+      "commits": 10113,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -981,15 +981,15 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 90,
+      "commits": 104,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-29 10:43:05 +0800",
+      "lastCommitAt": "2026-10-12 19:35:20 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 10,
-        "system": 6,
+        "content": 22,
+        "system": 8,
         "translation": 88
       }
     },
@@ -1050,7 +1050,7 @@
       }
     }
   ],
-  "weeklyActive": 2,
+  "weeklyActive": 3,
   "monthlyActive": 4,
   "recentlyJoined": []
 }

@@ -5116,14 +5116,14 @@
   },
   {
     "title": "大安溪倚天劍：東亞最高的樹，藏在我們到不了的地方七百年",
-    "lat": 23.511353,
-    "lng": 120.701431,
+    "lat": 22.998521,
+    "lng": 120.217843,
     "category": "nature",
     "region": "south",
     "link": "/nature/%E5%A4%A7%E5%AE%89%E6%BA%AA%E5%80%9A%E5%A4%A9%E5%8A%8D",
     "lang": "zh-TW",
     "desc": "2023 年農曆春節，找樹的人團隊溯溪七天，在大安溪源頭一處幾乎沒人到得了的深谷裡，把皮尺從一棵台灣杉的樹冠垂下來——84.1 公尺，東亞第一高樹。它比雷射光達的預測還高了 4.6 公尺。一座年年颱風、會崩會淹的島，照理不該保有這種高度的生命；但它正因為長在人類到不了的溪谷，才躲過大伐木、撐過七百年。同一份「到不了」既讓它活下來，也讓我們用雷射掃過整座島，才在這一年第一次看見它。",
-    "city": "嘉義"
+    "city": "台南"
   },
   {
     "title": "帝雉：千元鈔背面的王者，愈容易遇見愈要退一步",
@@ -5366,6 +5366,17 @@
     "lang": "zh-TW",
     "desc": "拒絕特寫鏡頭卻征服世界的電影詩人——一個反電影語法的影像革命者",
     "city": "台北"
+  },
+  {
+    "title": "傅兆玄：台灣男子田徑等了 60 年的那一跳",
+    "lat": 25.001186,
+    "lng": 121.296771,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E5%82%85%E5%85%86%E7%8E%84",
+    "lang": "zh-TW",
+    "desc": "2026 年名古屋亞運男子跳高決賽，傅兆玄在雨中第一次試跳就過 2 公尺 25，擊敗第二次才過同一高度的印度選手拿下金牌。這是台灣在本屆亞運的第 3 面金牌，也是男子田徑自 1966 年曼谷亞運吳阿民的十項全能之後，相隔 60 年再有人站上亞運的最高一階。他 16 歲就拿過全國運動會金牌，之後卻長年在受傷與恢復之間徘徊。",
+    "city": "桃園"
   },
   {
     "title": "傅崐萁：從後山「花蓮王」到國會「總召」的權力螺旋",
@@ -9108,14 +9119,14 @@
     "city": "台北"
   },
   {
-    "title": "الإسكان الوطني والعدالة السكنية: المصعد الرأسمالي الذي أنشأته الحكومة، لمن يخدم في النهاية؟",
+    "title": "الإسكان الحكومي والعدالة السكنية: من الذي يستفيد في النهاية من سلم الثروة الناتج عن المنازل الرخيصة التي تبنيها الحكومة؟",
     "lat": 25.025204,
     "lng": 121.568022,
     "category": "society",
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "في عام 1985، لم يرغب أحد في شراء الوحدات السكنية الوطنية \"تشنغغاو\" (成功國宅) بسعر 67 ألف دولار تايواني للمتر المربع؛ فقام رئيس البلدة المحلي بتمويلها. بعد أربعة عقود، يقترب سعر الوحدة نفسها من مليون دولار تايواني للمتر المربع. كان الهدف الأصلي هو \"مساعدة الناس على الشراء\"، لكنه لم يقم بتثبيت بوابة استعادة القيمة المضافة، وتحولت الدعم العام إلى ملكية خاصة لأول المشترين. في عام 2026، أعادت تاو يان تركيب تلك البوابة، مما يعني اعترافًا بخطأ الإسكان الوطني.",
+    "desc": "في عام 1985، لم يرغب أحد في شراء وحدة سكنية في مشروع 'تشنغ غونغ' بسعر 67 ألف دولار تايواني للبيوان الواحد، فقام رئيس حي مسن بجمع 400 ألف دولار تايواني كدفعة أولى لشرائها؛ وبعد أربعين عاماً، اقترب سعر نفس العنوان من مليون دولار تايواني للبيوان الواحد. كان الهدف الأصلي للإسكان الحكومي هو 'مساعدة الشعب على امتلاك مسكن'، لكنه لم يضع أبداً بوابات لمنع زيادة القيمة واسترداد الأرباح، مما حول الدعم العام في النهاية إلى أصول خاصة للمشترين الأوائل. وبقيام مدينة تاويوان في عام 2026 بإعادة وضع تلك البوابة، فإنها تعترف بالخطأ الذي ارتكب في سياسة الإسكان الحكومي.",
     "city": "台北"
   },
   {
@@ -9416,14 +9427,14 @@
     "city": "新竹"
   },
   {
-    "title": "Staatliche Wohnungen und Wohnungsgerechtigkeit: Wer profitiert von der Vermögensleiter, die der Staat mit billigen Häusern gebaut hat",
+    "title": "Nationaler Wohnbau und Wohnungsgerechtigkeit: Wem dienen die günstigen Regierungswohnungen am Ende als Vermögensaufzug?",
     "lat": 25.028189,
     "lng": 121.570366,
     "category": "society",
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "1985 kostete eine Wohnung in der Chenggong-Staatssiedlung 67.000 Yuan pro Ping, doch niemand wollte sie kaufen. Ein alter Nachbarschaftsleiter sparte sein ganzes Leben, um 400.000 Yuan Anzahlung aufzubringen. Vierzig Jahre später kostet dieselbe Adresse fast eine Million Yuan pro Ping. Staatliche Wohnungen sollten Menschen helfen, sich Häuser leisten zu können – doch es fehlte immer ein Ventil zur Wertsteigerungsrückgewinnung. Die öffentliche Subvention wurde zur privaten Vermögensleiter der frühen Käufer. 2026 installierte Taoyuan dieses Ventil nachträglich und erkannte damit den Fehler der Staatswohnungen an.",
+    "desc": "1985 kostete ein Ping im Chenggong-Nationalwohnbau NT$67.000 und fand trotzdem keine Käufer; ein alter Dorfvorsteher legte NT$400.000 als Anzahlung zusammen und kaufte. Vierzig Jahre später nähert sich dieselbe Adresse NT$1 Million pro Ping. Der Nationalwohnbau war ursprünglich ein Instrument, um „den Menschen den Kauf einer Wohnung zu ermöglichen“, doch es wurde nie eine Klausel zur Rückführung der Wertsteigerung eingebaut, sodass öffentliche Subventionen letztlich zu privatem Vermögen der Frühkäufer wurden. 2026 setzt Taoyuan diese Klausel nun wieder ein – was einem Eingeständnis des Fehlers beim Nationalwohnbau gleichkommt.",
     "city": "台北"
   },
   {
@@ -9732,6 +9743,17 @@
     "link": "/en/society/chinese-taipei",
     "lang": "en",
     "desc": "At the 1960 Rome Olympics, Taiwan marched in under an “UNDER PROTEST” banner, Olympic history’s only opening-ceremony protest. From Chiang Ching-kuo rejecting the IOC’s offer of “Taiwan,” to a court win over the IOC, to the Lausanne Agreement’s flag and anthem, to a 2018 referendum athletes voted down themselves — forty years on, it’s the athletes, not the politicians, who bear the dilemma.",
+    "city": "台北"
+  },
+  {
+    "title": "National Housing and Housing Justice: The Cheap Homes Built by the Government, and Whose Asset Escalator They Ultimately Created",
+    "lat": 25.028929,
+    "lng": 121.562251,
+    "category": "society",
+    "region": "north",
+    "link": "/en/society/public-housing-justice",
+    "lang": "en",
+    "desc": "In 1985, Chenggong National Housing cost NT$67,000 per ping and still had no buyers; an old borough chief scraped together a NT$400,000 down payment and bought a unit. Forty years later, the same address is nearing NT$1 million per ping. National Housing was supposed to be a tool to help people afford homes, but it was never fitted with a gate to recapture appreciation. Public subsidy ultimately became private assets for early buyers. In 2026, Taoyuan put that gate back in, effectively admitting National Housing’s mistake.",
     "city": "台北"
   },
   {
@@ -10142,6 +10164,17 @@
     "city": "台北"
   },
   {
+    "title": "Vivienda pública nacional y justicia habitacional: las viviendas baratas construidas por el gobierno, y la escalera de activos que terminaron creando",
+    "lat": 25.025204,
+    "lng": 121.561638,
+    "category": "society",
+    "region": "north",
+    "link": "/society/public-housing-justice",
+    "lang": "zh-TW",
+    "desc": "En 1985, las viviendas públicas nacionales Chenggong costaban 67.000 dólares taiwaneses por ping y aun así nadie las quería; un antiguo jefe de barrio reunió 400.000 dólares taiwaneses para el pago inicial y compró una unidad. Cuarenta años después, la misma dirección se acerca al millón por ping. La vivienda pública nacional debía ser una herramienta para «ayudar a la gente a comprar una casa», pero nunca incorporó una compuerta para recuperar la plusvalía: el subsidio público terminó convertido en patrimonio privado de quienes compraron primero. En 2026, Taoyuan volvió a instalar esa compuerta, lo que equivale a admitir el error de la política de vivienda pública nacional.",
+    "city": "台北"
+  },
+  {
     "title": "La pandemia de COVID-19 y las vacunas en Taiwán: los dieciocho meses que se compraron y la dosis que no llegó a tiempo",
     "lat": 24.559461,
     "lng": 120.81335,
@@ -10547,6 +10580,17 @@
     "lang": "zh-TW",
     "desc": "Du grand opérateur boursier des années 1990 surnommé « Xiao Fu de Kaiju » à son entrée au Parlement en 2001, puis à sa prise de contrôle de Hualien en 2009, Fu Kun-chi a bâti dans le Houshan une « dynastie Fu » longue de vingt ans, difficile à ébranler même pour le pouvoir central. De son incarcération tout en conservant son mandat dans une affaire de manipulation boursière, à son faux divorce pour nommer son épouse vice-magistrate, jusqu’à son retour au Yuan législatif en 2024 comme chef du groupe parlementaire du Kuomintang et sa conduite d’une délégation en Chine, il incarne l’une des formes les plus extrêmes de résilience du pouvoir et de controverse dans la vie politique taïwanaise.",
     "city": "花蓮"
+  },
+  {
+    "title": "Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé",
+    "lat": 25.034975,
+    "lng": 121.566646,
+    "category": "society",
+    "region": "north",
+    "link": "/society/public-housing-justice",
+    "lang": "zh-TW",
+    "desc": "En 1985, les logements de Chenggong, à 67 000 dollars taïwanais le ping, ne trouvaient pas preneur ; un ancien chef de quartier réunit 400 000 dollars taïwanais d'apport initial pour en acheter un. Quarante ans plus tard, à la même adresse, le prix approche le million par ping. Le logement national devait être un outil pour « aider la population à pouvoir acheter un logement », mais il n'a jamais été doté d'un sas de récupération de la plus-value : la subvention publique est finalement devenue le patrimoine privé de ceux qui avaient acheté tôt. En 2026, Taoyuan remet ce sas en place, ce qui revient à reconnaître l'erreur du logement national.",
+    "city": "台北"
   },
   {
     "title": "Taïwan, le COVID-19 et les vaccins : dix-huit mois achetés, et la dose arrivée trop tard",
@@ -11165,6 +11209,17 @@
     "city": "台北"
   },
   {
+    "title": "ताइपे स्मोकिंग रूम: धूम्रपान मुक्त शहर में, सांस लेने वाला वह कांच का डिब्बा",
+    "lat": 25.033625,
+    "lng": 121.561615,
+    "category": "society",
+    "region": "north",
+    "link": "/society/taipei-smoking-room",
+    "lang": "zh-TW",
+    "desc": "7 मई, 2026 को, सिमेन मेट्रो स्टेशन के एग्जिट 6 के पास एक पारदर्शी डिब्बा खड़ा किया गया, जो ताइवान का पहला आउटडोर नेगेटिव प्रेशर स्मोकिंग रूम है। दरवाजा खुलते ही हवा अंदर की ओर आती है, बाहर नहीं भागती। ताइपे एक धूम्रपान मुक्त शहर बनना चाहता है, लेकिन उसने पहले सड़कों पर लोगों के धूम्रपान के लिए कांच के घर बना दिए हैं। 1984 की उस सख्त नीति से लेकर जिसने फेफड़ों का एक हिस्सा काट दिया था, से लेकर इनडोर सेकंड-हैंड स्मोक के 3.2% तक पहुँचने और दरवाजे के बाहर लगभग आधे होने तक, यह डिब्बा एक वैध सिगरेट और एक शहर के साथ अभी तक पूरे न हुए सार्वजनिक स्थान के अनुबंध को समेटे हुए है।",
+    "city": "台北"
+  },
+  {
     "title": "Pulau Seni Internasional Mazu: Galeri Tanpa Gedung yang Meminjam Seluruh Pulau sebagai Pameran",
     "lat": 26.152934,
     "lng": 119.947927,
@@ -11572,17 +11627,6 @@
     "city": "宜蘭"
   },
   {
-    "title": "Lo Ta-yu: Menyanyikan Sepenuhnya Orang-orang Taiwan yang Kehilangan Akar, Sendiri Pindah Rumah Sembilan Belas Kali Masih Mencari Jalan",
-    "lat": 24.056105,
-    "lng": 120.441696,
-    "category": "people",
-    "region": "central",
-    "link": "/people/luo-dayou",
-    "lang": "zh-TW",
-    "desc": "Pada tahun 1970-an, di ruang anatomi mayat sebuah fakultas kedokteran di Taichung, seorang mahasiswa kedokteran radiologi bersembunyi berlatih menyanyi, karena \"di sana gemaannya bagus, tidak ada yang akan tahu aku sedang menyanyi\". Kemudian dia menulis \"Lukang, The Little Town\", \"Orphan of Asia\", \"Pearl of the Orient\", menanyakan bagi seluruh generasi \"siapa aku\". Tetapi orang ini yang menyanyikan tentang kehilangan akar, sendiri pindah dari Taipei ke New York, Hong Kong, Beijing, dalam dua puluh sembilan tahun pindah rumah sembilan belas kali. Pada usia tujuh puluh tahun, dia berkata dirinya hanyalah \"survivor yang luar biasa\".",
-    "city": "彰化"
-  },
-  {
     "title": "Shen Bo-yang: Dia Meneliti Perang Kognitif Tiongkok, Kemudian Tiongkok Memplotnya di Peta Satelit",
     "lat": 25.031635,
     "lng": 121.564589,
@@ -11759,14 +11803,14 @@
     "city": "台北"
   },
   {
-    "title": "見えない国：ある米国人監督が七年間シャッターを押し、世界が見ないと決めた島を撮った",
+    "title": "見えない国家：あるアメリカ人監督が7年間シャッターを切り続けた、世界が見ようとしない島",
     "lat": 25.029231,
     "lng": 121.558182,
     "category": "art",
     "region": "north",
     "link": "/ja/art/invisible-nation",
     "lang": "ja",
-    "desc": "2025 年 6 月の台湾の映画館で、米国人が撮った一本のドキュメンタリーが興行収入 3,700 万台湾ドルを突破し、台湾ドキュメンタリー映画史上第 3 位に入りました。ヴァネッサ・ホープは七年をかけ、蔡英文に五回密着インタビューを行い、国連から排除され、外交関係を持つ国が 22 から 12 に減り、五輪では「チャイニーズ・タイペイ」としか呼ばれない島をカメラの前に押し出しました。しかし最も問われたのは、台湾を「見える」ようにするはずのこの作品が、誰をフレームの外に残したのかという点でした。見ることは、いつも地位ではなく行為なのです。",
+    "desc": "2025年6月、台湾の映画館にて。アメリカ人が撮影したあるドキュメンタリーがNT$3,700万を超える興行収入を記録し、ドキュメンタリー史上第3位に登り詰めた。葛静文（Cassandra Kwok）は7年の歳月をかけ、5回にわたる密着インタビューを通じて蔡英文氏に迫り、国連から除名され、外交関係国が22から12へと減少し、オリンピックでは「チャイニーズ・タイペイ」と呼ばざるを得ないこの島をカメラの前に押し出した。しかし、最も疑問視されているのは、台湾を「見える存在」にするためのこの作品が、自ら誰をフレームの外に残してしまったのかということだ。「見る」ということは常に一つのアクションであり、地位ではないのだ。",
     "city": "台北"
   },
   {
@@ -16423,14 +16467,14 @@
     "city": "花蓮"
   },
   {
-    "title": "大安渓の倚天剣：東アジアで最も高い木は、私たちの届かない場所に七百年隠れていました",
+    "title": "大安渓の倚天剣：東アジア最高峰の樹、人が辿り着けない場所に700年間隠れ続けてきた",
     "lat": 23.509075,
     "lng": 120.699813,
     "category": "nature",
     "region": "south",
     "link": "/ja/nature/daan-river-yitian-sword",
     "lang": "ja",
-    "desc": "2023 年の旧正月、「找樹的人」チームは大安渓を 7 日間遡行し、源流部のほとんど誰も到達できない深い谷で、一本の台湾杉の樹冠から巻き尺を垂らしました。84.1 メートル、東アジアで最も高い木です。これは航空機搭載 LiDAR の予測より 4.6 メートルも高い数値でした。毎年台風に襲われ、崩れ、浸水する島に、本来ならこれほど高い生命が残っているはずはありません。しかしそれは、人間が到達できない渓谷に生えていたからこそ、大規模伐採を逃れ、七百年を生き延びました。同じ「到達できなさ」がそれを生かし、また私たちがレーザーで島全体を走査して初めて、この年にその存在を見せたのです。",
+    "desc": "2023年の旧正月、樹木を探すチームが7日間にわたる遡上調査を行い、大安渓の源流にある、ほとんど人が立ち入ることのできない深い谷で、台湾杉の樹冠からメジャーを垂らしました。その長さは84.1メートル、東アジアで最も高い樹でした。これはレーザーLiDARによる予測よりも4.6メートルも高い数値です。毎年台風に見舞われ、崩落や浸水の危険がある島において、本来このような高さの生命が存続することは考えにくいことです。しかし、人が辿り着けない渓谷に生えていたからこそ、大規模な伐採を逃れ、700年もの間生き抜いてきました。その「辿り着けなさ」が、この樹を生き残らせると同時に、私たちが島全体をレーザーでスキャンしたことで、今年初めてその姿を捉えることを可能にしたのです。",
     "city": "嘉義"
   },
   {
@@ -17479,6 +17523,17 @@
     "city": "台北"
   },
   {
+    "title": "傅兆玄（ふ・しょうげん）：台湾男子陸上競技が60年待ち続けた、あの跳躍",
+    "lat": 24.999828,
+    "lng": 121.301819,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/fu-chao-hsuan",
+    "lang": "ja",
+    "desc": "2026年名古屋アジア競技大会の男子走り高跳決勝にて、傅兆玄氏は雨の中、第1試技で2m25をクリア。インド選手を破り金メダルを獲得しました。これは台湾にとって今大会3個目の金メダルであり、1966年のバンコク大会以来、60年ぶりに台湾男子陸上競技がアジアの頂点に立った瞬間でした。",
+    "city": "桃園"
+  },
+  {
     "title": "傅崐萁：後山の「花蓮王」から国会「総召」へ至る権力の螺旋",
     "lat": 23.986702,
     "lng": 121.598189,
@@ -17721,14 +17776,14 @@
     "city": "新北"
   },
   {
-    "title": "幾米：「癒やし系」として語られるその絵は、血液がん生存者がガラスの水槽から持ち帰ったものだった",
+    "title": "幾米：癒やし系として受け止められてきたあの絵たちは、一人の血液がんサバイバーがガラス張りの無菌室から持ち帰ったものだ",
     "lat": 24.755269,
     "lng": 121.752323,
     "category": "people",
     "region": "north",
     "link": "/ja/people/jimmy-liao",
     "lang": "ja",
-    "desc": "1995年、37歳の広告美術ディレクター廖福彬（幾米）は急性骨髄性白血病と宣告され、無菌室の中でガラス越しに友人に手を振った。退院後、彼が金儲けのために描いていた「小人」たちが生き始め、『微笑する魚』『月を忘れた』『左へ右へ』『地下鉄』を描き始めた。台湾人が記憶する癒やし、文芸、宜蘭羅東の幾米広場の裏側には、地獄を訪れた人物が、死と孤独を読み解ける形へと翻訳し、後に映画、ミュージカル、サーカス、パブリックアートへと跨る版図を成長させた。2026年には香港で25周年特別展が開催されている。",
+    "desc": "1995年、37歳の広告美術監督だった廖福彬は急性骨髄性白血病と診断され、無菌室でガラス越しに友人たちに手を振った。退院後、彼がかつて仕事で描いていた「小さな人々」が命を宿し、『微笑みの魚』『月が忘れたこと』『左へ行く、右へ行く』『地下鉄』を描き始めた。台湾人が覚える「癒やし」「文学青年」「宜蘭羅東幾米広場」の裏側には、地獄を経験した一人の男がおり、死と孤独を読み取れる形に翻訳し、後に映画、ミュージカル、サーカス、公共芸術へと広がる版図を築き、2026年には香港で25周年記念展を開催し続けている。",
     "city": "宜蘭"
   },
   {
@@ -18117,14 +18172,14 @@
     "city": "高雄"
   },
   {
-    "title": "羅大佑：台湾の根なし草を歌い尽くした人、自身は十九回引っ越してなお道を探しています",
+    "title": "羅大佑：台湾のアイデンティティを失った人々を歌い、自身も19回の引越しを経てなお道を模索し続ける",
     "lat": 24.051532,
     "lng": 120.439389,
     "category": "people",
     "region": "central",
     "link": "/ja/people/luo-dayou",
     "lang": "ja",
-    "desc": "1970年代、台中のある医学大学の解剖実習室で、放射線科の医学生が人目を避けて歌の練習をしていました。「あそこは反響がよく、誰にも歌っていることがわからない」からです。のちに彼は〈鹿港小鎮〉〈亞細亞的孤兒〉〈東方之珠〉を書き、世代全体に代わって「私は誰なのか」と問いかけました。けれども、根を失った人々を歌い尽くしたこの人自身も、台北からニューヨーク、香港、北京へと移り住み、二十九年で十九回も家を替えました。七十歳になった年、彼は自分のことをただの「たいした生存者」だと語りました。",
+    "desc": "1970年代、台中の医科大学の解剖室。ある放射線科の医学生が、こっそりと歌の練習をしていました。「あそこは響きが良くて、歌っているのが誰にもバレないから」です。後に彼は『鹿港小鎮』、『亜細亜の孤児』、『東方の真珠』などを書き上げ、世代全体に代わって「自分は何者なのか」という問いを投げかけました。しかし、アイデンティティを失った人々を歌い続けてきた彼自身も、台北からニューヨーク、香港、北京へと移り住み、29年間で19回もの引越しを経験してきました。70歳になった彼は、自身のことをただの「素晴らしい生存者」であると語ります。",
     "city": "彰化"
   },
   {
@@ -19294,14 +19349,14 @@
     "city": "屏東"
   },
   {
-    "title": "国民住宅と居住正義：政府が建てた安い住宅は、最後に誰の資産エスカレーターを育てたのか",
+    "title": "国民住宅と居住正義：政府が建てた安価な住宅、最終的に誰の資産エスカレーターを育てたのか",
     "lat": 25.0346,
     "lng": 121.562153,
     "category": "society",
     "region": "north",
     "link": "/ja/society/public-housing-justice",
     "lang": "ja",
-    "desc": "1985 年、成功国民住宅は 1 坪 6.7 万台湾ドルでも買い手がつかず、老里長が 40 万台湾ドルの頭金をかき集めて購入しました。40 年後、同じ住所は 1 坪 100 万台湾ドルに迫っています。国民住宅は本来「人びとが住宅を買えるようにする」ための道具でしたが、値上がり益を回収するゲートは一度も設けられず、公共補助は最後に早く買った人の私的資産となりました。2026 年、桃園がそのゲートを取り戻したことは、国民住宅の誤りを認めることに等しいです。",
+    "desc": "1985年、成功国宅は一坪 NT$67,000 でも買い手がつかず、老里長が頭金 NT$400,000 をかき集めて購入した。40年後、同じ住所が一坪 NT$1,000,000 に迫っている。国宅は本来「国民が家を買えるようにする」ためのツールだったが、値上がり益を回収する仕組みを一度も設けず、公的補助金が結局は早期購入者の私的資産になってしまった。2026年、桃園がその仕組みを導入することは、国宅の間違いを認めることに等しい。",
     "city": "台北"
   },
   {
@@ -19481,14 +19536,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の五〜九級生：30年かけて3世代を罵り続けた「草莓族」、斜めになったのは足元のエスカレーター",
+    "title": "台湾の5年生から9年生：30年使い古された「ストロベリー族」というレッテルと、傾斜し続けるエスカレーター",
     "lat": 25.039609,
     "lng": 121.566729,
     "category": "society",
     "region": "north",
     "link": "/ja/society/taiwan-generations",
     "lang": "ja",
-    "desc": "1993年に「草莓族（ストロベリー・ジェネレーション）」という呼称が初めて使われた時、その標的は現在懐古レトロなヤクルトを愛する五級生だった。30年の間に罵られた世代は入れ替わったが、ラベルは一字も変わっていない。五〜九級生の間で実際に移動しているのは、「努力すれば報われる」というエスカレーターそのものである：それは2002年頃に速度を落とし、入口は家賃上昇によって引き上げられ、やがて二つに分岐した。給与だけで生活する者のエスカレーターはほぼ停止し、親の資本に頼る者のエスカレーターは現在も稼働している。",
+    "desc": "1993年に「ストロベリー族」という言葉が初めて登場した際、批判されていたのは今や懐かしのヤクルトを愛する5年生たちだった。30年間、批判の対象は世代交代してもレッテルは変わらない。本当に動いているのは「努力すれば報われる」というエスカレーターだ。2002年頃からその速度は落ち、入り口は住宅価格によって高くなり、やがて二手に分かれた。給料だけで進む道はほぼ止まり、親の資本に頼る道だけが動き続けている。",
     "city": "台北"
   },
   {
@@ -20977,6 +21032,17 @@
     "city": "台北"
   },
   {
+    "title": "국민주택과 주거 정의: 정부가 지은 저렴한 주택은 결국 누구의 자산 사다리를 키웠나",
+    "lat": 25.03989,
+    "lng": 121.56943,
+    "category": "society",
+    "region": "north",
+    "link": "/ko/society/public-housing-justice",
+    "lang": "ko",
+    "desc": "1985년 성공 국민주택은 한 평 6.7만 위안이어도 원하는 사람이 없었고, 노년의 이장은 40만 위안의 계약금을 마련해 한 채를 샀다. 40년 뒤 같은 주소는 한 평 100만 위안에 가까워졌다. 국민주택은 본래 “사람들이 집을 살 수 있게 돕는” 도구였지만, 시세차익을 회수하는 문은 한 번도 달리지 않았다. 공공 보조금은 결국 먼저 산 사람의 사적 자산이 되었다. 2026년 타오위안은 그 문을 다시 달았고, 이는 국민주택을 대신해 잘못을 인정한 셈이다.",
+    "city": "台北"
+  },
+  {
     "title": "타이베이 쥐 문제: 1896년 통독부의 페스트 명령에서 2026년 다안구의한타바이러스까지",
     "lat": 25.025172,
     "lng": 121.560115,
@@ -21360,6 +21426,17 @@
     "lang": "zh-TW",
     "desc": "Ele conquistou o Império do Japão com a sua pintura a óleo, mas foi fuzilado diante da estação de Chiayi — e o que o tornou conhecido costuma ser a morte, não as telas.",
     "city": "新北"
+  },
+  {
+    "title": "Lo Ta-yu: cantou todos os desarraigados de Taiwan, ele próprio mudou-se 19 vezes e ainda procura o caminho",
+    "lat": 24.055721,
+    "lng": 120.433231,
+    "category": "people",
+    "region": "central",
+    "link": "/people/luo-dayou",
+    "lang": "zh-TW",
+    "desc": "Na década de 1970, na sala de dissecação de uma faculdade de medicina em Taichung, um estudante de radiologia escondia-se para praticar canto, porque \"lá a acústica é boa, ninguém saberia que estou cantando\". Mais tarde, ele escreveu \"Lukang, a Pequena Cidade\", \"Órfão da Ásia\", \"Pérola do Oriente\", perguntando por toda uma geração \"quem sou eu\". Mas este que cantou todos os desarraigados, ele próprio mudou-se de Taipei para Nova York, Hong Kong e Pequim, mudando-se 19 vezes em 29 anos. Aos 70 anos, disse que era apenas um \"sobrevivente notável\".",
+    "city": "彰化"
   },
   {
     "title": "Habitação nacional e justiça habitacional: as casas baratas do governo acabaram por alimentar a escada rolante de ativos de quem?",
@@ -22132,14 +22209,14 @@
     "city": "台北"
   },
   {
-    "title": "Nhà ở công cộng và công lý cư trú: Những căn nhà rẻ do chính phủ xây dựng, cuối cùng đã xây dựng thang máy tài sản của ai",
+    "title": "Nhà ở quốc gia và công lý cư trú: Những căn nhà giá rẻ do chính phủ xây dựng, cuối cùng trở thành thang máy tài sản cho ai?",
     "lat": 25.029647,
     "lng": 121.557821,
     "category": "society",
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "Năm 1985, Thành công Quốc dân nhà ở một tấc chỉ 6,7 vạn, không có ai muốn; Bốn mươi năm sau, cùng một địa chỉ tiến gần một vạn một tấc. Nhà ở quốc dân ban đầu là công cụ để \"giúp người dân mua được nhà\", nhưng nó không bao giờ được trang bị cơ cấu thu hồi giá trị tăng thêm, và trợ cấp công cộng cuối cùng đã trở thành tài sản riêng của những người mua sớm. Năm 2026, Đào Viên lắp đặt cơ cấu đó, tức là thừa nhận lỗi lầm của nhà ở quốc dân.",
+    "desc": "Năm 1985, nhà ở quốc gia Thành Công (Sheng-chong) có giá 67.000 Đài tệ/ping không ai mua, một trưởng thôn đã gom góp 400.000 Đài tệ tiền đặt cọc để mua; bốn mươi năm sau, cùng một địa chỉ đó giá đã tiệm cận 1 triệu Đài tệ/ping. Nhà ở quốc gia vốn là công cụ \"giúp người dân mua được nhà\", nhưng chưa từng lắp đặt cơ chế thu hồi giá trị gia tăng, khiến trợ cấp công cộng cuối cùng biến thành tài sản cá nhân của những người mua sớm. Năm 2026, Đào Viên đã lắp lại cơ chế đó, coi như một sự thừa nhận sai lầm cho chính sách nhà ở quốc gia.",
     "city": "台北"
   },
   {

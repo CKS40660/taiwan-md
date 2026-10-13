@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14638,
+  "totalArticles": 14701,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8959,
+  "totalTags": 8977,
   "categories": [
     {
       "name": "vi",
-      "count": 1126
+      "count": 1130
     },
     {
       "name": "es",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "ko",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "hi",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "fr",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "en",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "ja",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "de",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "ru",
-      "count": 1126
+      "count": 1130
     },
     {
       "name": "Technology",
@@ -50,15 +50,15 @@
     },
     {
       "name": "id",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "ar",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "pt",
-      "count": 1126
+      "count": 1131
     },
     {
       "name": "Politics",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Society",
-      "count": 117
+      "count": 118
     },
     {
       "name": "Food",
@@ -82,7 +82,7 @@
     },
     {
       "name": "People",
-      "count": 290
+      "count": 293
     },
     {
       "name": "Culture",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Economy",
-      "count": 78
+      "count": 79
     },
     {
       "name": "Nature",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 57
+      "count": 60
     },
     {
       "name": "企業",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14638,
+    "zh-TW": 14701,
     "en": 0
   },
-  "lastUpdated": "2026-10-12T22:05:48.461Z",
-  "stars": 1207,
+  "lastUpdated": "2026-10-13T22:06:14.919Z",
+  "stars": 1210,
   "forks": 187,
-  "zhPages": 1124,
+  "zhPages": 1129,
   "languagePages": {
-    "zh-TW": 1124,
-    "en": 1126,
-    "ja": 1126,
-    "ko": 1126,
-    "es": 1126,
-    "fr": 1126,
-    "vi": 1126,
-    "id": 1126,
-    "pt": 1126,
-    "hi": 1126,
-    "ar": 1126,
-    "ru": 1126,
-    "de": 1126
+    "zh-TW": 1129,
+    "en": 1131,
+    "ja": 1131,
+    "ko": 1131,
+    "es": 1131,
+    "fr": 1131,
+    "vi": 1130,
+    "id": 1131,
+    "pt": 1131,
+    "hi": 1131,
+    "ar": 1131,
+    "ru": 1130,
+    "de": 1131
   },
-  "enPages": 1126,
-  "totalPages": 1124
+  "enPages": 1131,
+  "totalPages": 1129
 }

@@ -1,21 +1,29 @@
 {
-  "lastUpdated": "2026-10-12T22:07:28.463Z",
+  "lastUpdated": "2026-10-13T22:07:35.493Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 2,
+  "count": 3,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=19（少 20.25 分）",
+      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=18.8（少 20.3 分）",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
     },
     {
+      "id": "routine-silent-twmd-babel-nightly",
+      "severity": "yellow",
+      "message": "routine twmd-babel-nightly 沉默死亡：2026-10-13T16:42 fire 後 5.4h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-15 00:41（台北），還有 19 小時",
+      "source": "routine-live-state.json × git log",
+      "owner": "twmd-babel-nightly",
+      "firstSeen": "2026-10-13"
+    },
+    {
       "id": "routine-silent-twmd-terminology-trends-monthly",
       "severity": "yellow",
-      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 187.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 23.2 天",
+      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 211.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 22.2 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-terminology-trends-monthly",
       "firstSeen": "2026-10-07"
