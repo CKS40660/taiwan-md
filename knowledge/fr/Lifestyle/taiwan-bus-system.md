@@ -2,9 +2,7 @@
 title: 'Le système de bus de Taïwan : quand Hsinchu Bus s’en va, qui vient chercher celles et ceux qui n’ont pas de volant'
 description: 'Le matin du 15 septembre 2024, devant la gare ferroviaire de Tongluo, plus de 30 personnes, des enfants de maternelle à des aînés de 90 ans, sont montées dans le dernier bus 5658 de Hsinchu Bus. De la première ligne exploitée en réseau à Taipei en 1977 aux zones rurales qui ne gardent plus que deux services par jour, de l’âge moyen des conducteurs, 51 ans, au pass mensuel TPASS qui a fait bondir la fréquentation à Hualien de près de 70 %, les bus ont toujours transporté celles et ceux qui n’ont pas le choix : les adolescents qui vont à l’école, les personnes âgées qui ne conduisent pas, les familles sans voiture. Et c’est précisément sous leurs pieds que ces lignes sont en train d’être retirées, une par une.'
 date: 2026-06-25
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '交通與移動'
 tags:
   [
     'bus',
@@ -17,19 +15,28 @@ tags:
     'données ouvertes',
     'pénurie de conducteurs',
   ]
+subcategory: '交通與移動'
+author: 'Taiwan.md Contributors'
 readingTime: 24
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
-featured: false
-translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: '036f4f3f'
-sourceContentHash: 'sha256:6350fb8cfb489452'
-sourceBodyHash: 'sha256:03dd96b03caf8931'
-translatedAt: '2026-06-26T00:38:47+08:00'
+researchReport: 'reports/research/2026-06/台灣的公車系統.md'
 image: '/article-images/lifestyle/scooters-and-bus-taipei-1996.webp'
 imageCredit: 'Holly Cheng'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_street_scene.jpg'
+datasets:
+  - name: '台灣好行各路線搭乘人次'
+    url: 'https://data.gov.tw/dataset/140008'
+  - name: '機動車輛登記數'
+    url: 'https://data.gov.tw/dataset/14208'
+relatedDiary: ['2026-06-25-204254-公車系統']
+translatedFrom: 'Lifestyle/台灣的公車系統.md'
+sourceCommitSha: 'fc49bdeef'
+sourceContentHash: 'sha256:7d3802fe03c60e03'
+sourceBodyHash: 'sha256:24a950fc8509e96a'
+translatedAt: '2026-10-13T05:54:09.916621+00:00'
 ---
 
 Le matin du 15 septembre 2024, devant la gare ferroviaire de Tongluo, dans le comté de Miaoli. Plus de 30 personnes se tenaient sous l’arrêt, des enfants encore à l’école maternelle jusqu’à une personne de 90 ans. Elles n’attendaient ni le bus du travail ni celui de l’école. Elles attendaient le dernier service du 5658 de Hsinchu Bus.
@@ -61,20 +68,20 @@ Il faut ici écarter un argument opposé devenu courant. Régulièrement, certai
 
 Clarifions aussi une idée reçue : beaucoup pensent que les travailleurs migrants forment le gros des usagers du bus. Ce n’est pas le cas. À Taïwan, parce que les politiques publiques ont longtemps limité leur accès à l’achat de véhicules, les travailleurs migrants utilisent le plus souvent le scooter pour leurs trajets quotidiens ; ils ne prennent les autocars que pour de longs déplacements le week-end[^5]. Imaginer les travailleurs migrants comme les principaux passagers des bus revient à assimiler mécaniquement « vulnérabilité » et « usage du bus ».
 
-## Un segment, deux segments, et ce bip supplémentaire à la descente
+## Un trajet, deux trajets, et ce « bip » à valider en descendant
 
-![Bus à plancher bas de Shing Nan Bus, à Tainan, circulant sur la ligne rouge principale ; près de la porte figurent le symbole d’accessibilité et le dispositif à plancher bas](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
-_Bus à plancher bas de Shing Nan Bus, à Tainan, 2016. Le plancher bas permet aux poussettes et aux fauteuils roulants de monter : c’est un indicateur concret de l’« accessibilité » des bus urbains. Photo : Nutnse0008, CC BY-SA 4.0 (source indiquée à la fin de l’article)._
+![Bus à plancher bas de la compagnie Xingnan Motor Transport circulant sur une ligne principale rouge à Tainan ; des symboles d'accessibilité sont visibles près des portes et le châssis est bas](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
+_Un bus à plancher bas de la compagnie Xingnan Motor Transport à Tainan, en 2016. Le châssis bas permet l'accès aux poussettes et aux fauteuils roulants, constituant un indicateur clé de l'« accessibilité » des bus urbains. Photo : Nutnse0008, CC BY-SA 4.0 (voir les sources d'images à la fin de l'article)._
 
-Les Taïwanais apprennent très tôt une série de gestes qui déconcerte souvent les étrangers : sous l’arrêt, il faut lever la main ; sinon, le conducteur ne s’arrête pas. À la montée, on entend un « bip » ; parfois, il faut refaire « bip » à la descente. Derrière ces gestes se trouve un système tarifaire plus précis qu’il n’y paraît.
+Il existe une série de gestes que les Taïwanais maîtrisent depuis l'enfance, mais qui laissent souvent les étrangers perplexes : il faut lever la main à l'arrêt de bus, sinon le chauffeur ne s'arrête pas. On valide son titre de transport avec un « bip » en montant, et parfois, il faut valider une seconde fois en descendant. Derrière ces gestes se cache un système de tarification bien plus complexe qu'il n'y paraît.
 
-L’histoire commence en 1977. Avant cela, à Taipei, chaque compagnie de bus exploitait ses lignes séparément : numéros de ligne, tarifs et titres de transport n’étaient pas unifiés. En 1976, la municipalité de Taipei a créé un « comité préparatoire d’exploitation conjointe des bus publics et privés » pour unifier ces éléments. Le 1er janvier 1977, les lignes 201 et 202 exploitées en réseau ont été les premières à entrer en service ; le 30 avril de la même année, 33 lignes de bus exploitées conjointement ont officiellement commencé à fonctionner dans une première phase[^6]. Cette « exploitation conjointe » signifie que, quel que soit l’opérateur, les passagers utilisent le même système de numérotation des lignes, les mêmes tarifs et le même titre de transport. C’est le point de départ du système de bus urbains à Taïwan.
+L'origine de ce système remonte à 1977. Avant cela, les différents opérateurs de bus à Taipei fonctionnaient de manière indépendante : les numéros de lignes, les tarifs et les titres de transport n'étaient pas uniformisés. En 1976, la ville de Taipei a créé un « Comité préparatoire pour l'exploitation conjointe des bus publics et privés » afin d'unifier tout cela. Le 1er janvier 1977, les lignes conjointes 202 et 202 ont été les premières à circuler. Le 30 avril de la même année, la première phase de 33 lignes de bus conjointes est officiellement entrée en service[^6]. Ce concept de « gestion conjointe » signifie que, quel que soit l'opérateur du véhicule, les passagers utilisent le même numéro de ligne, le même tarif et le même titre de transport. C'est ainsi qu'est né le système actuel des bus urbains à Taïwan.
 
-La tarification par sections est née dans ce cadre. Après l’expansion urbaine vers Nouveau Taipei, un trajet pouvait traverser plusieurs zones tarifaires : l’ancien centre-ville comptait pour un segment ; les prolongements vers la périphérie pour deux ou trois segments. Les points de section étaient souvent placés près de pôles de transport comme le pont de Taipei ou Shilin, ou à proximité des limites administratives ; monter ou descendre dans les deux arrêts qui les encadrent ne compte encore que pour un seul segment, ce qu’on appelle une « zone tampon ». Voilà pourquoi, sur les lignes qui franchissent des sections tarifaires, il faut valider à la montée et à la descente : le système doit savoir combien de sections vous avez parcourues et combien il doit débiter. La question qui déroute le plus les amis étrangers, « pourquoi monte-t-on parfois par l’avant, parfois par l’arrière ? », trouve aussi sa réponse ici : l’endroit où l’on monte et descend, et le fait de valider une ou deux fois, dépendent entièrement du découpage tarifaire de la ligne.
+C'est également de ce système qu'est née la tarification par segments. Avec l'expansion urbaine vers New Taipei, un trajet peut traverser plusieurs zones tarifaires : l'ancien centre-ville compte pour un segment, tandis que l'extension vers la périphérie peut compter pour deux ou trois segments. Les points de segmentation sont généralement situés près des nœuds de transport comme le pont de Taipei ou Shilin, ou à proximité des limites municipales. Si vous montez et descendez dans l'intervalle de deux arrêts autour de ces points, cela ne compte que pour un seul segment (ce qu'on appelle une « zone tampon »). C'est la raison pour laquelle, sur les lignes traversant plusieurs segments, il faut valider en montant ET en descendant : le système doit savoir combien de segments vous avez parcourus pour prélever le montant exact. La confusion fréquente des étrangers concernant le fait de monter parfois par l'avant et parfois par l'arrière trouve aussi sa réponse ici : l'endroit où l'on monte ou descend, et si l'on valide une ou deux fois, dépend entièrement de la segmentation de la ligne concernée.
 
-Le titre de transport lui-même a aussi évolué. L’EasyCard a été généralisée aux bus fin septembre 2002[^7], tandis que l’iPass de Kaohsiung a été lancée en 2014 avec le métro de Kaohsiung[^7]. La validation à double sens, à la montée et à la descente, a été introduite en première phase le 1er juillet 2019, puis généralisée en février 2020 ; son objectif était de calculer précisément les tarifs par sections, d’accorder les réductions de correspondance et de collecter en même temps les données de montée et de descente des passagers[^8]. Il faut ici corriger une erreur fréquente : la validation à double sens date de 2019, non de 2012 ; l’iPass date de 2014, non de 2012.
+Les titres de transport ont également évolué. L'EasyCard a été généralisée dans les bus fin septembre 2002[^7], tandis que l'iPASS de Kaohsiung a été lancée en 2014 avec le métro de Kaohsiung[^7]. La validation bidirectionnelle (valider en montant et en descendant) a été introduite par étapes : une première phase le 1er juillet 2019, suivie d'une mise en œuvre complète en février 2020. L'objectif était de calculer précisément les frais par segment, d'offrir des réductions pour les correspondances et de collecter des données sur les flux de passagers[^8]. Notez une erreur courante à rectifier : la validation bidirectionnelle date de 2019, pas de 2012. L'iPASS date de 2014, et non de 2012 non plus.
 
-Mais ce système a aussi son plafond. La fréquentation des bus urbains à Taïwan est extrêmement concentrée dans le Grand Taipei : en 2020, Taipei et Nouveau Taipei représentaient à elles seules 73,7 % de la fréquentation nationale des bus urbains[^9]. Sur une grande ligne de Taipei, un bus passe toutes les 4 à 6 minutes en heure de pointe, et les habitants de Taipei trouvent qu’attendre 5 minutes est déjà trop long ; au même moment, à un arrêt du centre-sud ou de l’est du pays, il peut n’y avoir qu’un bus par heure, et le dernier service peut s’arrêter à 17 ou 18 heures. Le système est le même ; selon l’endroit où il s’applique, il produit deux vies différentes.
+Cependant, ce système rencontre ses limites. Le volume de passagers des bus urbains à Taïwan est extrêmement concentré dans la région de Taipei et New Taipei : en 2020, ces deux zones représentaient 73,7 % du volume total des bus urbains de Taïwan[^9]. Sur une ligne principale de Taipei, un bus passe toutes les 4 à 6 minutes en période de pointe, ce que les Taipei-ci jugent parfois trop long. Au même moment, à un arrêt quelconque dans le centre, le sud ou l'est du pays, il se peut qu'un seul bus passe par heure, et que le dernier service s'arrête dès 17h ou 18h. Le système est le même, mais selon l'endroit où l'on se trouve, les réalités de vie sont radicalement différentes.
 
 ## Google sait dans combien de minutes arrive votre bus parce que Taïwan a ouvert ses données
 
@@ -101,27 +108,28 @@ Ce phénomène s’appelle le « bunching », ou formation de convois. C’est u
 
 Pour les habitants de Taipei, le bunching est agaçant ; pour les habitants des zones rurales isolées, c’est même un luxe : ils ne rencontrent même pas « deux bus qui arrivent ensemble », puisqu’il n’y a que quelques services par jour. On retrouve ici cette fracture invisible entre ville et campagne : les Taipeïens trouvent que 5 minutes, c’est trop long, parce qu’ils peuvent se permettre de s’en plaindre ; dans la campagne de Changhua, celles et ceux qui attendent 40 minutes, ou qui n’ont plus que deux bus par jour, n’ont pas ce choix. Un même mot mesure deux situations totalement différentes. Plus les gens n’ont pas d’option, moins le bus arrive : cette phrase reviendra sans cesse dans cet article.
 
-## Comment les cars clandestins sont devenus UBus
+## Comment les « bus sauvages » sont devenus United Bus
 
-![Autocar longue distance de Kuo-Kuang Motor Transport sur autoroute, numéro KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
-_Autocar longue distance de Kuo-Kuang Motor Transport, 2026. Son prédécesseur était Taiwan Motor Transport, l’opérateur public de l’époque où le Bureau des routes détenait le monopole ; en 2001, plus d’un millier d’employés ont investi pour en reprendre l’activité. Photo : Wei Ting Hsu, CC BY-SA 4.0 (source indiquée à la fin de l’article)._
+![Autocar de longue distance sur autoroute de Kuo-Kuang Motor Transport, immatriculation KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
+_Autocar de longue distance de Kuo-Kuang Motor Transport, 2026. Son prédécesseur est Taiwan Motor Transport, qui détenait le monopole à l'époque de la direction des routes ; en 2001, plus de mille employés ont fait une collecte de fonds pour reprendre l'entreprise. Photo : Wei Ting Hsu, CC BY-SA 4.0 (voir les sources des images à la fin de l'article)._
 
-Pour comprendre pourquoi les bus d’aujourd’hui ont cette forme, il faut revenir à la manière dont ils sont passés d’un acteur dominant à des compagnies présentes partout dans les rues.
+Pour comprendre pourquoi le réseau de bus ressemble à cela aujourd'hui, il faut revenir sur la manière dont il est passé d'un monopole étatique à une multitude d'opérateurs circulant dans toutes les rues.
 
-Le point de départ des autocars routiers taïwanais est le Bureau des routes de la province de Taïwan, fondé en 1946. En 1977, son activité d’autocar a été séparée pour créer Taiwan Motor Transport Company, souvent appelée Taiqi ; à son apogée, elle comptait plus de 500 lignes, 3 600 véhicules et plus de 10 000 employés[^15]. C’était l’époque où le Bureau des routes monopolisait le transport longue distance, dont les générations plus âgées se souviennent bien.
+L'origine du transport routier à Taïwan remonte à la création de la Direction des routes de la province de Taïwan en 1946. En 1977, l'activité de transport de passagers de la Direction des routes a été séparée pour créer la Taiwan Motor Transport Company (communément appelée _Taiqi_). À son apogée, elle exploitait plus de 500 lignes avec 3 600 véhicules et des dizaines de milliers d'employés[^15]. C'était l'époque où la Direction des routes détenait le monopole du transport longue distance, un souvenir encore vif chez les anciennes générations.
 
-Le tournant survient autour de la levée de la loi martiale. À la fin des années 1980, de nombreux « cars clandestins », sans licence et transportant des passagers officieusement, apparaissent sur les routes. Plutôt que de les réprimer sans fin, le ministère des Transports choisit d’accompagner leur légalisation. Le 6 septembre 1989, UBus est officiellement fondée ; son nom chinois, Tonglian, est choisi par Chang Chia-juch, alors directeur de l’Institut des transports du ministère, dans le sens de « diriger dans toutes les directions et exploiter conjointement »[^16]. Elle devient la première compagnie privée légale d’autocars sur autoroute à Taïwan. Une fois le marché ouvert, Ho-Hsin, Kamalan, Aloha et Capital Bus entrent successivement en scène ; le transport longue distance passe d’un acteur dominant à une concurrence foisonnante.
+Le tournant s'est produit autour de la levée de la loi martiale. À la fin des années 1980, de nombreux « bus sauvages » (_yejiche_), dépourvus de licence et effectuant des trajets privés, ont commencé à envahir les routes. Plutôt que de tenter une répression sans fin, le ministère des Transports a choisi de les accompagner vers la légalisation. Le 6 septembre 1989, United Bus (統聯客運, _Tonglian Ke-yun_) a été officiellement fondé par Zhang Jia-zhu, alors directeur de l'Institut de recherche sur les transports du ministère des Transports. Son nom a été choisi pour signifier « diriger les quatre directions et exploiter conjointement ». Elle est ainsi devenue la première société privée de transport d'autocars sur autoroute légale à Taïwan[^16]. Une fois le marché ouvert, des compagnies comme Hesin, Kavalan, Aloha et Capital Bus ont rejoint le secteur, transformant le monopole en une scène où de nombreux acteurs se disputent désormais le marché.
 
 ```tw-timeline
-1946 | Création du Bureau des routes de la province de Taïwan | Exploitation directe par l’État, monopole des autocars routiers à Taïwan
-1977 | Création indépendante de Taiwan Motor Transport | L’activité d’autocar est séparée du Bureau des routes ; plus de 10 000 employés à l’apogée
-1989 | Création d’UBus | Légalisation sur place des cars clandestins, première compagnie privée d’autocars sur autoroute
-2001 | Reprise par Kuo-Kuang Motor Transport | Taiqi perd 5 milliards de NT$ par an ; un millier d’employés investissent pour créer Kuo-Kuang
+1946 | Création de la Direction des routes de la province de Taïwan | Exploitation directe par l'État, monopole du transport routier à Taïwan
+1977 | Création indépendante de Taiwan Motor Transport | Séparation de l'activité de transport de la Direction des routes, plus de 10 000 employés au sommet
+1989 | Fondation d'United Bus | Légalisation des « bus sauvages », première société privée de transport sur autoroute
+2001 | Reprise par Kuo-Kuang Motor Transport | Taiwan Motor Transport perd 5 milliards NT$ par an ; mille employés collectent des fonds pour créer Kuo-Kuang
+Source : Archives historiques de la Direction des routes, de Taiwan Motor Transport et de Kuo-Kuang Motor Transport (Taiwan Motor Transport : plus de 500 lignes, 3 600 véhicules, 1 090 employés ayant cotisé en 2001) et rapports sur la création d'United Bus en 1989[^15][^16]
 ```
 
-Le versant public, lui, est moins glorieux. Taiqi accumule les pertes pendant des années, environ 5 milliards de NT$ par an subventionnés par le Trésor public ; après l’ouverture à la concurrence, ses lignes et ses effectifs se contractent fortement[^15]. En juin 2001, 1 090 employés de Taiqi investissent chacun 300 000 NT$ pour fonder Kuo-Kuang Motor Transport, qui reprend en juillet 96 lignes de l’ancienne Taiqi[^15]. Beaucoup d’employés de 40 ou 50 ans, trop jeunes pour remplir les conditions de départ à la retraite, se sont mobilisés contre cette transition. Le nom « Kuo-Kuang » vient en réalité d’un modèle prestigieux de Taiqi lancé en 1967 : un royaume disparaissait en laissant son enseigne à ceux qui le reprenaient.
+Le secteur public, quant à lui, n'a pas connu une telle réussite. Taiwan Motor Transport a accumulé des pertes chroniques, perdant environ 5 milliards NT$ par an qui étaient compensés par le Trésor public ; après l'ouverture à la concurrence, ses lignes et ses effectifs ont considérablement diminué[^15]. En juin 2001, 1 090 employés de Taiwan Motor Transport ont chacun investi 300 000 NT$ pour fonder Kuo-Kuang Motor Transport. En juillet, cette nouvelle entité a repris les 96 lignes initialement exploitées par Taiwan Motor Transport[^15]. De nombreux employés d'âge mûr (entre 40 et 50 ans) n'ayant pas encore l'âge de la retraite ont manifesté pour protester contre ce changement. Le nom « Kuo-Kuang » (國光, signifiant _lumière nationale_) provient en réalité du modèle de bus prestigieux de Taiwan Motor Transport de 1967 ; c'est l'histoire d'un empire qui tire sa révérence en laissant son enseigne à ceux qui reprennent le flambeau.
 
-(Cette histoire institutionnelle n’est ici qu’un arrière-plan. La nostalgie touristique de la lignée allant des Jinhma aux Kuo-Kuang, ainsi que les détails de la prolifération des cars clandestins, relèvent d’un autre article consacré aux autocars de tourisme ; nous n’en faisons ici qu’un repère.)
+(Cette partie sur l'histoire institutionnelle n'est qu'un contexte. La nostalgie liée aux modèles _Jinma_ ou _Guoguang_, ainsi que les détails sur la prolifération des « bus sauvages » de l'époque, font l'objet d'un autre article consacré aux autocars de tourisme ; ce passage ne sert ici que de point de repère.)
 
 ## Départ à 5 h 30, fin de service à 20 h, quatre jours de repos par mois
 
@@ -181,31 +189,31 @@ Après l’ouverture du THSR en 2007, une grande partie des voyageurs longue dis
 
 La conséquence la plus visible est la transformation des gares routières en villes vides. Les opérateurs ont quitté le deuxième étage de la gare routière de Taipei, laissant tout l’étage en attente de nouveaux locataires[^28] ; plusieurs centres de correspondance construits à Taichung suscitent la crainte de devenir des « bâtiments à moustiques », infrastructures vides ou sous-utilisées. Face à cet effondrement, le Bureau des routes a lancé en 2025 ce qu’il présente comme le plus grand plan d’ajustement du réseau depuis 30 ans[^20]. C’est à la fois la reconnaissance que l’ancien réseau ne tient plus et une tentative de redistribution des cartes.
 
-## Les progrès de la ville, et leurs limites
+## Le progrès urbain et ses limites
 
-Si l’on ramène l’objectif vers les villes, on voit un visage tout à fait différent. Le même système avance rapidement côté urbain, mais chaque pas se heurte à ses propres limites.
+Si l'on ramène l'objectif vers les métropoles, on découvre un visage totalement différent. Pour un même système, le volet urbain fait de grands pas en avant, mais chaque étape se heurte à ses propres limites.
 
-Le premier progrès est celui des lignes principales. En 2017 et 2018, Taipei a restructuré son réseau de bus en plusieurs niveaux ; aux heures de pointe, les lignes principales passent toutes les 4 à 6 minutes, dans un système facile à comprendre et à attendre, comme le métro[^29]. Le deuxième est le pass mensuel TPASS pour les navetteurs. Il vient d’une promesse électorale de 2022 et a été lancé en juillet 2023, avec un budget spécial de 20 milliards de NT$ sur trois ans : 1 200 NT$ par mois pour Keelung-Taipei-Nouveau Taipei-Taoyuan, 699 ou 999 NT$ pour Miaoli-Taichung-Changhua-Nantou, 999 NT$ pour Tainan-Kaohsiung-Pingtung, avec bus et métro en illimité[^30].
+Le premier progrès concerne les bus de ligne (_gànxiàn gōngchē_). Entre 2017 et 2018, la ville de Taipei a reclassifié son réseau de bus ; aux heures de pointe, la fréquence des lignes principales atteint une cadence de 4 à 6 minutes, les rendant aussi simples et prévisibles que le métro[^29]. Le deuxième progrès est le pass mensuel TPASS. Issu d'une promesse électorale de 2022, il a été lancé en juillet 2023 avec un budget spécial de 20 milliards de NT$ pour les trois premières années : des abonnements de 1 200 NT$ pour la zone Keelung-Taipei-New Taipei-Taoyuan, et de 699 ou 999 NT$ pour les zones Miaoli-Taichung-Changhua-Toufen, permettant un usage illimité des bus et du métro[^30].
 
-Le bilan du TPASS doit être lu dans ses deux faces. Côté positif, il a effectivement fait monter des gens à bord : la fréquentation des bus a augmenté de 19,6 %, celle du métro de 36,9 %[^31]. Mais dire qu’il a transformé des automobilistes ou scootéristes en usagers des transports publics est beaucoup moins évident : les enquêtes en face-à-face à Taipei montrent que la proportion de transferts réels des véhicules privés vers les transports publics n’est que de 7,33 %[^32]. Autrement dit, les passagers supplémentaires sont surtout des personnes qui prenaient déjà les transports et les prennent davantage, non des personnes qui conduisaient auparavant et se sont mises à les utiliser.
+Le bilan du TPASS doit être lu avec nuance. Du côté positif, il a effectivement incité les gens à utiliser les transports : le volume de passagers dans les bus a augmenté de 19,6 % et celui du métro de 36,9 %[^31]. Cependant, en ce qui concerne la conversion des automobilistes et des conducteurs de deux-roues en usagers des transports en commun, l'effet reste limité : des enquêtes de terrain à Taipei montrent que la proportion réelle de transfert des véhicules privés vers les transports publics n'est que de 7,33 %[^32]. En d'autres termes, la majorité des nouveaux passagers sont des personnes qui « utilisaient déjà les transports et en utilisent désormais davantage », plutôt que des conducteurs ayant « abandonné leur voiture pour le transport en commun ».
 
-La question plus concrète est celle de l’argent. Le budget spécial de 20 milliards de NT$ du TPASS arrive à échéance fin 2025 ; le nouveau plan de relais, d’un montant de 36,38 milliards de NT$, est menacé de rupture de financement parce que le budget général est bloqué au Yuan législatif. Vingt villes et comtés sont touchés, et beaucoup d’administrations locales survivent en demandant aux opérateurs d’avancer les fonds[^32][^33]. Une bonne politique qui fait monter les gens dans les transports se retrouve prise dans une impasse politique.
+Plus concrètement, la question financière se pose : le budget spécial de 20 milliards de NT$ du TPASS expirera fin 2025. Le nouveau plan prévu s'élève à 36,38 milliards de NT$, mais il fait face à une rupture de financement car le budget global est bloqué au Yuan législatif. Vingt comtés et municipalités de Taïwan sont touchés, et de nombreux opérateurs locaux tentent de tenir bon en avançant les fonds eux-mêmes[^32][^33]. Une politique efficace pour attirer les usagers se retrouve ainsi coincée dans une impasse politique.
 
-![Bus électrique BYD K9 de Taipei Bus circulant devant le zoo municipal de Taipei](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
-_Bus électrique BYD K9 de Taipei Bus passant devant le zoo municipal de Taipei, 2026. Les bus urbains doivent être entièrement électrifiés d’ici 2030, mais en 2024 seuls environ 18 % étaient en service. Photo : 厦门金龙永远的神, CC BY 4.0 (source indiquée à la fin de l’article)._
+![Bus électrique BYD K9 de Taipei City Bus devant le zoo de Taipei](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
+_Un bus électrique BYD K9 de Taipei City Bus circulant devant le zoo de Taipei, en 2026. L'objectif est l'électrification complète des bus urbains d'ici 2030, mais en 2024, seuls environ 18 % sont déjà en service. Photo : 厦门金龙永远的神, CC BY 4.0 (voir les sources des images à la fin de l'article)._
 
-L’électrification est le troisième progrès urbain, et celui qui révèle l’écart le plus frappant. Le gouvernement a annoncé l’électrification complète des bus urbains d’ici 2030. Il faut remplacer près de 10 000 bus diesel, environ 9 400 véhicules en stock, avec un objectif de subvention à l’achat de 11 700 véhicules ; le plan a été approuvé en juin 2023 et doté de 64,3 milliards de NT$[^34]. L’ambition est élevée, la réalité lente : en 2024, seuls environ 1 926 bus électriques étaient effectivement en circulation, soit 18 %, et 7 villes ou comtés étaient encore à zéro[^35].
+L'électrification constitue le troisième progrès urbain, mais aussi celui où l'écart est le plus frappant. Le gouvernement a annoncé l'électrification complète des bus urbains d'ici 2030, visant à remplacer près de 10 000 bus thermiques (un parc existant d'environ 9 400 véhicules) avec un objectif d'achat subventionné de 11 700 unités. Ce projet, approuvé en juin 2023, dispose d'un budget de 64,3 milliards de NT$[^34]. L'idéal est élevé, mais la réalité est lente : en 2024, seuls environ 1 926 bus électriques sont réellement en service, soit 18 % de l'objectif, et sept comtés affichent un score nul[^35].
 
 ```tw-bars
-La distance à parcourir vers l’électrification complète en 2030 (progrès des bus urbains électriques)
-Bus électriques en service en 2024 | 1926 | Part de 18 %
-Objectif d’achats subventionnés 2030 | 11700 | Sept villes et comtés encore à zéro
-Source : Yuan exécutif, ministère des Transports, fin 2024
+Distance vers l'électrification complète en 2030 (progression de l'électrification des bus urbains)
+Bus électriques en service en 2024 | 1926 | Part : 18%
+Objectif d'achat subventionné pour 2030 | 11700 | Sept comtés sont actuellement à zéro
+Source : Yuan exécutif, Ministère des Transports, fin 2024
 ```
 
-Où cela bloque-t-il ? Entre l’octroi des subventions, l’approbation par les collectivités locales puis les contrats effectifs, les volumes fuient à chaque étape : les quotas passent de 2 080 à 1 404, puis à 744. Les infrastructures de recharge coûtent cher : une station de recharge dépasse 60 millions de NT$[^35]. Un bus est annoncé à 11 millions de NT$, dont 6,8 millions subventionnés ; l’opérateur doit encore financer lui-même 4,2 millions. Pour un secteur qui survit déjà grâce aux subventions et peine même à recruter des conducteurs, c’est une décision difficile à prendre.
+Où se situe le blocage ? Entre l'octroi des subventions, l'approbation locale et la signature effective des contrats, les montants s'évaporent par étapes (les crédits chutant de 20,8 milliards à 14,04 milliards, puis à 7,44 milliards) ; de plus, les équipements de recharge sont coûteux, une station de recharge coûtant plus de 60 millions de NT$[^35]. Pour un véhicule affiché à 11 millions de NT$ avec une subvention de 6,8 millions, l'opérateur doit encore mobiliser 4,2 millions de NT$. Pour un secteur qui survit déjà grâce aux subventions et peine à recruter des chauffeurs, c'est un investissement difficile à assumer.
 
-> 📝 **Note de curation** : prises ensemble, ces trois transformations urbaines, lignes principales, pass mensuel, électrification, ressemblent à une liste de progrès. Mais elles partagent une condition invisible : il faut quelqu’un pour faire sortir le bus du dépôt. Quand l’âge moyen des conducteurs atteint 51 ans et que le déficit dépasse 5 000 personnes, le pass le plus intelligent et le bus électrique le plus écologique ne sont que des coques métalliques stationnées. Le progrès urbain est réel, mais il avance sur une base de travail qui vieillit vite.
+> 📝 **Note du commissaire** : Ces trois avancées urbaines (lignes principales, pass mensuel, électrification) ressemblent, de prime abord, à une liste de progrès. Mais elles partagent toutes un postulat invisible : il faut quelqu'un pour conduire ces véhicules. Lorsque l'âge moyen des conducteurs atteint 51 ans et que la pénurie dépasse les 5 000 personnes, le pass mensuel le plus intelligent ou le bus électrique le plus écologique ne resteront que des carcasses de métal immobilisées dans les dépôts. Le progrès urbain est réel, mais il fonce vers l'avant en s'appuyant sur une base de travailleurs qui vieillit rapidement.
 
 ## Taïwan n’est pas un cas isolé
 

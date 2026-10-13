@@ -2,9 +2,7 @@
 title: 'Le pays invisible : une réalisatrice américaine a déclenché pendant sept ans pour filmer une île que le monde a décidé de ne pas voir'
 description: "En juin 2025, dans les cinémas de Taïwan, un documentaire tourné par une Américaine a dépassé 37 millions de dollars taïwanais de recettes et s'est hissé au troisième rang de l'histoire du documentaire dans l'île. Vanessa Hope a consacré sept ans au film, avec cinq entretiens au plus près de Tsai Ing-wen, pour placer devant la caméra une île exclue de l'ONU, passée de 22 à 12 alliés diplomatiques, et contrainte de concourir aux Jeux olympiques sous le nom de « Taipei chinois ». Mais ce qui a été le plus contesté, dans ce film censé rendre Taïwan « visible », c'est aussi la question de savoir qui il laisse lui-même hors champ : voir n'a jamais été un statut, c'est toujours un geste."
 date: 2026-06-13
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '紀錄片'
 tags:
   [
     'documentaire',
@@ -15,18 +13,26 @@ tags:
     'souveraineté',
     'Invisible Nation',
   ]
+subcategory: '紀錄片'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-13
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:3ae429b55b3339f0'
-sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
-translatedAt: '2026-06-14T00:37:05+08:00'
+researchReport: 'reports/research/2026-06/看不見的國家.md'
 image: '/article-images/art/invisible-nation-tsai-walks.webp'
 imageCredit: '《看不見的國家》（Invisible Nation, dir. Vanessa Hope）官方劇照'
 imageLicense: 'Fair use editorial commentary on Invisible Nation (2023)'
 imageSource: 'https://www.invisiblenation.net/'
+rationale:
+  why_this_hook: '2025-06-11 台灣媒體首映前地震、葛靜文對台灣說「你們不孤單」。具體有日期、人、動作，且把片名「看不見/孤單」的主題在第一個畫面就翻轉，跟結尾「民防課程」與 anchor「看見是一個動作」首尾呼應。'
+  whats_excluded: '影評光譜兩端與政治攻防：(1) 純影評攻擊（Jay Liu「淪為執政黨宣傳」、Guardian「all over the shop」、Screen Daily 配樂過度煽情、NYC Movie Guru「歌功頌德」）已編入 §「自己掏錢看自己」與 §「框外那個沒有名字的男人」；(2) 親 PRC 倡議（George Koo「台灣不是國家」）僅取其「陳水扁省略」這個跨陣營共識的事實觀察，政治結論不採（research §5）；(3) 匿名藍營社群「稅金拍片」假指控已被製片馮賢賢闢謠，prose 收於 §「自己掏錢看自己」；(4) 綠營內「斷代」批評（周玉蔻）編入 §「框外那個沒有名字的男人」。未深入：呂秀蓮受訪（單源 Taipei Times）、PBS extended cut 片長（未確認）、LSE 抗議放映（無可追溯，rumour）。'
+  whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
+  which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
+translatedFrom: 'Art/看不見的國家.md'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:d85b6c99ab72b318'
+sourceBodyHash: 'sha256:f6ae8560d7e03438'
+translatedAt: '2026-10-13T04:29:52.055272+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :** 《看不見的國家》（Invisible Nation） est un documentaire que la réalisatrice américaine Vanessa Hope a mis sept ans à tourner. À travers cinq entretiens au plus près de la présidente de l’époque, Tsai Ing-wen, il place devant la caméra mondiale une île exclue de l’ONU, contrainte de participer aux Jeux olympiques sous le nom de « Taipei chinois », et dont les alliés diplomatiques sont passés de 22 à 12. Présenté en première mondiale au Woodstock Film Festival en 2023[^1], il est sorti en salles à Taïwan en juin 2025 ; ses recettes ont dépassé 37,71 millions de dollars taïwanais, ce qui l’a porté au troisième rang de l’histoire du documentaire taïwanais[^2]. Mais ce film censé rendre Taïwan « visible » possède lui aussi ses angles morts : les critiques ont surtout visé la proximité obtenue en sept ans grâce à la coopération du bureau de Tsai, ainsi que ce nom qui n’est jamais prononcé du début à la fin : Chen Shui-bian.
@@ -103,28 +109,29 @@ Le dernier coup a été particulièrement visible : le 15 janvier 2024, deux jou
 > **📝 Note de curation**
 > Le véritable argument du film se cache dans cette courbe, et il contredit l’intuition la plus commune. L’imaginaire dominant voudrait que « plus Taïwan est fort, plus il a d’amis » ; ce que Vanessa Hope filme va dans l’autre sens. Pendant ces huit années, Taïwan a adopté la première loi asiatique sur le mariage pour tous, traversé la pandémie, organisé une élection propre après l’autre, et pourtant le nombre de ses alliés diplomatiques a été divisé par deux. Plus sa démocratie devient convaincante, moins il compte d’États qui le reconnaissent officiellement. Entre voir et être vu, il n’existe pas de causalité simple.
 
-## Le jour où la foule criait « Nous sommes Taïwanais »
+## Le jour où la foule a crié « Nous sommes Taïwanais »
 
-Si l’on déploie la chronologie de la démocratisation de Taïwan, on voit comment cette île s’est, étape après étape, extraite du silence pour entrer dans le champ.
+En déployant la chronologie de la démocratisation de Taïwan, on peut observer comment cette île s'est, étape par étape, extraite de son silence.
 
-La caméra de Vanessa Hope vise l’ensemble de l’arc démocratique de l’île, bien au-delà des huit années de Tsai Ing-wen. Après le repli du gouvernement nationaliste à Taïwan en 1949, l’île a connu 38 ans de loi martiale, entrée en vigueur le 20 mai 1949 et levée par Chiang Ching-kuo le 15 juillet 1987 : l’une des plus longues périodes de loi martiale au monde à l’époque[^21]. Sous cette chape se trouvent les plaies de l’incident du 28 février 1947 et de la Terreur blanche : le rapport officiel du Yuan exécutif estime le nombre de morts du 28 février entre 18 000 et 28 000 personnes, tandis qu’environ 140 000 personnes auraient été emprisonnées pendant la Terreur blanche[^22].
+L'objectif de Ge Jingwen (葛靜文) embrasse toute l'arc de la démocratie de cette île, bien au-delà des huit années de Tsai Ing-wen. Après le transfert du gouvernement nationaliste à Taïwan en 1949, l'île a connu une période de loi martiale de 38 ans, effective du 20 mai 1949 jusqu'à sa levée par Chiang Ching-kuo le 15 juillet 1987, ce qui constituait l'une des périodes de loi martiale les plus longues au monde à l'époque[^21]. Sous la surface subsistent les plaies du 28 février et de la Terreur blanche : selon les rapports officiels de l'Exécutif (Yuan), le nombre de victimes de l'incident du 28 février est estimé entre 18 000 et 28 000 personnes, et environ 140 000 personnes ont été emprisonnées durant la période de la Terreur blanche[^22].
 
 ```tw-timeline
-1987 | Levée de la loi martiale | Chiang Ching-kuo met fin à 38 ans de loi martiale, l’une des plus longues au monde
-1996 | Première élection présidentielle directe | Lee Teng-hui est élu sous les tirs de missiles de la rive d’en face ; les Taïwanais élisent directement leur président pour la première fois
-2000 | Première alternance politique | Chen Shui-bian, du DPP, est élu ; première transition pacifique du pouvoir après l’autoritarisme
-2014 | Mouvement des Tournesols | Des étudiants occupent le Yuan législatif pendant 24 jours contre l’accord sur le commerce des services avec la Chine
-2019 | Légalisation du mariage pour tous | Le 17 mai, le Yuan législatif adopte la loi spéciale ; Taïwan devient le premier territoire d’Asie à le faire
+1987 | Levée de la loi martiale | Chiang Ching-kuo lève la loi martiale de 38 ans, l'une des plus longues au monde
+1996 | Première élection présidentielle directe | Lee Teng-hui est élu sous les tirs de missiles de la Chine continentale ; les Taïwanais élisent leur président directement pour la première fois
+2000 | Premier transfert de pouvoir entre partis | Chen Shui-bian du DPP est élu, marquant le premier transfert pacifique de pouvoir après l'ère autoritaire
+2014 | Mouvement des fleurs de soleil | Des étudiants occupent le Yuan législatif pendant 24 jours pour s'opposer à l'accord de commerce de services avec la Chine continentale
+2019 | Légalisation du mariage homosexuel | Le 17 mai, le Yuan législatif adopte une loi spéciale ; Taïwan devient le premier en Asie
+Source : Chronologie de la démocratisation citée dans cet article (Levée de la loi martiale 1987, élection directe 1996, Fleurs de soleil 2014, mariage homosexuel 2019) et rapports primaires associés[^21][^23][^24][^25]
 ```
 
-Chaque point de cette ligne est un geste qui transforme l’invisible en visible. Le 23 mars 1996, Lee Teng-hui a été élu avec 54 % des voix alors que la rive d’en face procédait à des tirs de missiles ; c’était la première fois que les Taïwanais élisaient eux-mêmes leur président[^23]. En mars 2014, des étudiants ont occupé le Yuan législatif pendant 24 jours pour s’opposer à l’accord sur le commerce des services avec la Chine continentale ; ce mouvement des Tournesols a ensuite remodelé la conscience politique de toute une génération[^24]. Le 17 mai 2019, le Yuan législatif a adopté la loi spéciale sur le mariage pour tous, un épisode raconté dans le film par Hsiao Bi-khim ; Taïwan est devenu le premier lieu d’Asie à légaliser le mariage entre personnes de même sexe[^25].
+Chaque nœud de cette ligne représente un acte consistant à « rendre visible ce qui était invisible ». Le 23 mars 1996, Lee Teng-hui a été élu avec 54 % des voix en pleine crise de tirs de missiles de la part de la Chine continentale ; c'était la première fois que les Taïwanais choisissaient eux-mêmes leur président[^23]. En mars 2014, des étudiants ont occupé le Yuan législatif pendant vingt-quatre jours pour s'opposer à l'accord de commerce de services avec la Chine continentale ; ce mouvement des fleurs de soleil (_sunflower movement_) a par la suite remodelé la conscience politique de toute une génération[^24]. Le 17 mai 2019, le Yuan législatif a adopté une loi spéciale sur le mariage homosexuel, un sujet abordé dans le film par Hsiao Bi-khim ; Taïwan est ainsi devenu le premier endroit en Asie à légaliser le mariage entre personnes de même sexe[^25].
 
-![Meeting de campagne de Tsai Ing-wen à Taipei en octobre 2015 ; des sympathisants agitent des drapeaux sous des lumières ponctuelles, dans une ambiance proche de la scène du film où la foule crie « Nous sommes Taïwanais »](/article-images/people/tsai-2016-campaign.webp)
-_En octobre 2015, des sympathisants lors d’un meeting de campagne de Tsai Ing-wen. Vanessa Hope explique que c’est le moment où, lors de la campagne de 2016, la foule a crié vers Tsai Ing-wen « Nous sommes Taïwanais » qui l’a décidée à tourner ce film. Photo: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
+![Un rassemblement électoral de Tsai Ing-wen à Taipei en octobre 2015, où les partisans agitent des drapeaux sous des jeux de lumières, évoquant l'atmosphère des scènes du film de Ge Jingwen où « la foule crie que nous sommes Taïwanais »](/article-images/people/tsai-2016-campaign.webp)
+_Supporters lors d'un rassemblement électoral pour Tsai Ing-wen en octobre 2015. Ge Jingwen explique que c'est l'instant, lors des élections de 2016, où la foule a crié « Nous sommes Taïwanais » à l'adresse de Tsai Ing-wen, qui l'a poussée à réaliser ce film. Photo : MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
 
-Mais le moment qui a véritablement déclenché le projet de Vanessa Hope se situe lors de la campagne de 2016, quand la foule a crié vers Tsai Ing-wen : « Nous sommes Taïwanais »[^5]. Ce moment est le geste d’une île entière qui, devant les caméras, prononce son propre nom. Il pèse davantage qu’une note chronologique sur une alternance politique.
+Le véritable déclic pour Ge Jingwen fut ce moment lors des élections de 2016, quand la foule a crié « Nous sommes Taïwanais » à l'adresse de Tsai Ing-wen[^5]. Ce fut l'instant où toute une île, face à la caméra, s'est approprié son propre nom ; un acte bien plus puissant qu'une simple note chronologique sur un transfert de pouvoir.
 
-Le film inclut aussi une séquence qui a ému de nombreux Taïwanais aux larmes : à la veille de l’élection de 2016, la chanteuse taïwanaise Chou Tzu-yu, âgée de seize ans, a été contrainte de lire des excuses face caméra parce qu’elle avait agité le drapeau de la République de Chine dans une émission de variétés sud-coréenne[^26]. Une adolescente de seize ans forcée de s’excuser pour son propre drapeau ; le lendemain, les Taïwanais ont répondu dans les urnes. Dans le film, ces images sont devenues l’un des points émotionnels les plus lourds.
+Le film inclut également une séquence qui a ému de nombreux Taïwanais : à la veille des élections de 2016, la chanteuse taïwanaise de seize ans Chou Tzu-yu (Tzuyu), après avoir agité le drapeau de la République de Chine lors d'une émission de variétés en Corée, a été contrainte de présenter des excuses lues devant la caméra[^26]. Une adolescente de seize ans forcée de s'excuser pour son propre drapeau ; le lendemain, les Taïwanais ont répondu par les urnes. Ces images sont devenues l'un des moments les plus poignants et les plus chargés d'émotion du film.
 
 ## Payer soi-même pour se voir soi-même
 

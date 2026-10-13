@@ -1,45 +1,47 @@
 ---
-title: "Musique populaire taïwanaise : l'île qui a travaillé pour le monde entier, et à qui il reste finalement de pouvoir chanter ce que les autres ne peuvent pas"
-description: 'En 1997, Taïwan était le deuxième marché du disque en Asie, et 80 % des chansons de toute la scène musicale sinophone y étaient produites. En 2005, sa valeur de production n’était plus qu’un quart de ce qu’elle avait été, le marché avait été dépassé par la Chine, et même Jay Chou à son apogée ne vendait plus que 300 000 exemplaires d’un album. Quand ailleurs une chanson peut être réduite au silence pour une parole, un drapeau ou un tabou, cette île qui a perdu la bataille de l’échelle a fait de la question même de « ce qui peut être chanté » son dernier levier, et le plus solide.'
+title: 'La musique pop taïwanaise : une île qui habille le monde entier, ne gardant finalement que ce que les autres ne peuvent pas chanter'
+description: "En 1997, Taïwan était le deuxième plus grand marché du disque en Asie, produisant 80 % des chansons de la scène Mandopop. En 2005, sa valeur n'était plus que d'un quart, dépassant par la Chine, et même l'album au sommet de Jay Chou ne s'est vendu qu'à 300 000 exemplaires. Alors que les chansons d'ailleurs sont censurées pour une parole, un drapeau ou un tabou, cette île qui a perdu en échelle fait du « pouvoir ou non chanter » son ultime et plus solide atout."
 date: 2026-06-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'musique populaire taïwanaise',
-    'musique populaire sinophone',
+    'musique pop taïwanaise',
+    'Mandopop',
     'Mandopop',
     'industrie du disque',
     'censure musicale',
     'chansons interdites',
-    'Descendants of the Dragon',
-    'Hou Te-chien',
+    'Descendants du Dragon',
+    'Hou Dejian',
     'Teresa Teng',
-    'A-Mei',
+    'A-mei',
     'Jay Chou',
-    'Lim Giong',
-    'Siri Lee',
+    'Lin Chiang',
+    'Li Zhuxin',
     'Panai',
     'Golden Melody Awards',
     'chansons en taïwanais',
     'mouvement de la chanson folk',
-    'cap vers l’Ouest',
-    'liberté d’expression',
+    'expansion vers la Chine',
+    "liberté d'expression",
     'souveraineté culturelle',
   ]
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: '1e104092'
-sourceContentHash: 'sha256:8399301b29b6b0dc'
-sourceBodyHash: 'sha256:eb706bc3431ec070'
-translatedAt: '2026-06-20T01:01:36+08:00'
+researchReport: 'reports/research/2026-06/台灣流行音樂.md'
 image: '/article-images/music/sunflower-movement-crowd-2014.webp'
+imageAlt: "Lors du mouvement des tournesols en 2014, les rues de Taipei étaient bondées de manifestants, et c'est dans ce contexte que l'extincteur intitulé « Island Sky » a été chanté par un demi-million de personnes, devenant un souvenir national"
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+translatedFrom: 'Music/台灣流行音樂.md'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:9dd098f7a5a51bd9'
+sourceBodyHash: 'sha256:7e4e331322aaf847'
+translatedAt: '2026-10-13T04:57:34.186988+00:00'
 ---
 
 # Musique populaire taïwanaise : l'île qui a travaillé pour le monde entier, et à qui il reste finalement de pouvoir chanter ce que les autres ne peuvent pas
@@ -101,77 +103,80 @@ Sources : articles Wikipédia des albums concernés ; Taiwan Panorama
 >
 > La véritable structure est celle-ci : Taïwan s’est trop longtemps attaché à sa position de « chef de file de la scène musicale sinophone », a tout misé sur le marché chinois en croissance, et a manqué le train qui transformait la musique en exportation culturelle mondiale. Entre 1998 et 2001, la Corée a fait passer son budget culturel de 14 millions à 84 millions de dollars, soit un quintuplement[^14] ; en 2018, la musique populaire coréenne se classait septième au monde, tandis que Taïwan n’entrait même pas dans le top 10[^15]. Deux petits marchés : la Corée est partie conquérir le monde, Taïwan a attendu la Chine. Cette différence d’orientation a déterminé les vingt années suivantes.
 
-## L’inversion des rôles : comment le centre s’est déplacé
+## Inversion des rôles : comment le centre s'est déplacé
 
-Un centre de production ne disparaît pas de lui-même : il est attiré par un champ gravitationnel plus vaste.
+Un centre de production ne disparaît pas de lui-même ; il est aspiré par un champ gravitationnel plus vaste.
 
-En 2018, le marché chinois du disque était déjà le septième au monde et le deuxième d’Asie selon l’IFPI[^16]. Plus important encore que le rang : le déplacement du pouvoir discursif. Le vétéran de l’industrie musicale Shao Yide décrit la situation actuelle comme s’il existait « deux scènes musicales sinophones. L’une au-dessus des rivières et des lacs… des “tubes viraux” produits en série et distribués par algorithme ; l’autre dans les palais… une musique de qualité raffinée par l’industrialisation »[^17]. Les plateformes chinoises, avec leurs flux massifs et leur capital, ont aspiré le centre de gravité de toute l’industrie. Taïwan est passé du centre où « tout le monde venait enregistrer » au statut de fournisseur qui doit aller jouer sur le terrain des autres pour gagner de l’argent.
+En 2018, le marché du disque en Chine était déjà le septième mondial et le deuxième en Asie selon la certification IFPI[^16]. Plus crucial que le classement est le transfert du pouvoir de parole. Le musicien chevronné Shao Yide décrit la situation actuelle ainsi : « Il semble exister deux scènes musicales sinophones. L'une au-dessus du monde... composée de "tubes" de réseau produits en masse et distribués par algorithmes, et l'autre dans un temple... où la musique de haute qualité est affinée par l'industrialisation. »[^17] Les plateformes chinoises, grâce à un trafic et des capitaux massifs, ont aspiré le centre de gravité de toute l'industrie vers elles. Taïwan, autrefois ce centre où « tout le monde venait enregistrer », est devenu un fournisseur qui doit se rendre sur le terrain des autres pour générer des revenus.
 
-Il faut ici se méfier d’un piège statistique. La Taiwan Creative Content Agency (TAICCA) a annoncé que la valeur totale de production de la musique populaire taïwanaise s’élevait à 28,8 milliards de dollars taïwanais en 2023, soit davantage que les 12,3 milliards de 1997[^18]. À première vue, cela ressemble à une « reprise du marché, supérieure au pic historique », mais ces deux chiffres ne sont pas comparables. Les 12,3 milliards de 1997 correspondaient aux **seuls disques physiques** ; les 28,8 milliards de 2023 relèvent d’une **industrie au sens large**, intégrant les concerts, les droits et le streaming numérique, les seules recettes de billetterie atteignant 6,7 milliards[^19].
+Il faut ici être très prudent avec un piège statistique. La Taiwan Creative Content Agency (TAICCA) a annoncé que la valeur de production totale de la musique populaire taïwanaise en 2023 s'élevait à NT$28,8 milliards, soit plus que les NT$12,3 milliards de 1997[^18]. À première vue, cela ressemble à une « reprise du marché dépassant ses sommets », mais ces deux chiffres ne sont absolument pas comparables. Les NT$12,3 milliards de 1997 concernaient uniquement les **disques physiques**. Les NT$28,8 milliards de 2023 représentent l'**industrie au sens large**, incluant les concerts en direct (dont les recettes de billetterie s'élèvent à NT$6,7 milliards), les droits d'auteur et le streaming numérique[^19].
 
 ```tw-versus
 1997 : 12,3 milliards | 2023 : 28,8 milliards
-Ventes de disques physiques uniquement | Industrie au sens large, incluant concerts, droits et streaming
-Argent dépensé en CD chez les disquaires | La billetterie des concerts représente à elle seule 6,7 milliards
-C’est la « taille » du marché | C’est la multiplication des « dimensions » de l’industrie
+Ventes de disques physiques uniquement | Industrie au sens large (concerts, droits, streaming)
+Argent dépensé en CD dans les magasins | La billetterie des concerts représente à elle seule 6,7 milliards
+Il s'agit de la "taille" du marché | Il s'agit d'une diversification des "facettes" de l'industrie
+Source : Magazine Guanghua (12,3 mds en 1997, 3,15 mds en 2005) + Enquête industrielle de la TAICCA (28,836 mds en 2023, 6,717 mds pour les concerts) [^11][^18][^19]
 ```
 
-Autrement dit, l’industrie musicale taïwanaise a bien repris un peu de souffle à l’ère du streaming grâce aux concerts et aux droits, mais le disque physique, qui fut son artère vitale, n’est pas revenu. Présenter les 28,8 milliards comme la preuve que « le marché est plus grand qu’en 1997 », c’est comparer des pommes et des oranges. La version honnête est celle-ci : Taïwan a perdu le marché sur lequel il avait autrefois devancé toute l’Asie, et ce retournement n’a pas eu lieu.
+En d'autres termes, l'industrie musicale taïwanaise a effectivement réussi à se maintenir grâce aux concerts et aux droits d'auteur à l'ère du streaming, mais le disque physique, qui fut autrefois son nerf de la guerre, n'est pas revenu. Dire que les NT$28,8 milliards signifient que « le marché est plus grand qu'en 1997 » revient à comparer des pommes et des oranges. La version honnête est celle-ci : Taïwan a perdu ce marché où elle dominait autrefois toute l'Asie, et la situation n'a pas été renversée.
 
-Puisque l’échelle ne reviendra pas, sur quoi Taïwan peut-il encore compter pour conserver une place dans la musique sinophone ? La réponse se cache dans ces chansons que d’autres lieux n’osent pas, ou ne peuvent pas, chanter.
+Puisque l'échelle ne revient pas, sur quoi Taïwan s'appuie-t-elle pour conserver une place dans la musique sinophone ? La réponse se cache dans ces chansons que les autres n'osent pas ou ne peuvent pas chanter ailleurs.
 
-## Taïwan aussi fut du côté de l’interdiction
+## Nous avons nous aussi été de ceux qui censuraient
 
-Pour parler de la « liberté » taïwanaise, il faut d’abord reconnaître un fait peu glorieux : Taïwan lui-même a autrefois été celui qui tenait le crayon rouge et supprimait des chansons.
+Pour parler de la « liberté » à Taïwan, il faut d'abord admettre un fait peu glorieux : Taïwan a elle-même été, par le passé, celle qui tenait le stylo rouge pour rayer des chansons.
 
-Sous la loi martiale, le Commandement de garnison de Taïwan examinait les chansons avec le ministère de l’Intérieur, le ministère de l’Éducation, le ministère de la Défense et d’autres organismes ; au total, 898 chansons furent interdites[^20]. Le plus touché fut Wen Hsia, roi de la chanson en taïwanais, dont 99 titres figurèrent sur la liste noire[^21]. Les motifs d’interdiction paraissent aujourd’hui presque absurdes : « When Will You Return? » fut soupçonnée d’allusion au militarisme japonais parce que l’expression « ri jun » pouvait évoquer le Japon ; « L’Olivier » fut interdite huit ans parce qu’elle chantait l’errance et la nostalgie du pays natal ; « I Won’t Go Home Today » fut interprétée comme une allusion au continent à cause du caractère « maison », en contradiction avec la politique de reconquête du continent[^22]. « Maman, moi aussi je suis vraiment robuste », composée par Teng Yu-hsien, fut interdite pendant 33 ans[^23].
+Pendant la période de la loi martiale, le Commandement de la sécurité de Taïwan, en collaboration avec le ministère de l'Intérieur, le ministère de l'Éducation et le ministère de la Défense, procédait à l'examen des chansons. Au total, 898 titres ont été interdits[^20]. Le roi de la chanson taïwanaise, Wen Hsia, fut le plus durement touché, avec 99 de ses morceaux inscrits sur la liste noire[^21]. Les motifs d'interdiction semblent aujourd'hui presque absurdes : 〈He ri jun zai lai〉 (_Quand reviendras-tu ?_) fut interdite car le terme « Jun » était soupçonné de faire allusion au militarisme japonais. 〈Gan lan shu〉 (_L'olivier_) fut bannie pendant huit ans parce qu'elle chantait la « dérive » et la nostalgie du pays. 〈Jin tian bu hui jia〉 (_Je ne rentre pas à la maison aujourd'hui_) fut interdite car le mot « maison » était interprété comme une allusion à la Chine continentale, en violation de la politique de reconquête[^22]. La chanson 〈Ma ma wo ye zhen yong jian〉, composée par Deng Yuxian, a été interdite pendant 33 ans[^23].
 
 ```tw-stat
-898 chansons | Nombre total de chansons interdites sous la loi martiale | Examen conjoint par le Commandement de garnison et d’autres organismes
-99 chansons | Nombre de chansons de Wen Hsia interdites | Le plus grand nombre pour un chanteur à Taïwan
-33 ans | Durée d’interdiction de « Maman, moi aussi je suis vraiment robuste » | Composée par Teng Yu-hsien
+898 titres | Total des chansons interdites sous la loi martiale | Examen conjoint par le Commandement de la sécurité et autres ministères
+99 titres | Nombre de chansons interdites pour Wen Hsia seul | Le record à Taïwan
+33 ans | Durée d'interdiction de 〈Ma ma wo ye zhen yong jian〉 | Composée par Deng Yuxian
+Source : CNA, « Les années silencieuses de la loi martiale » (898 titres, 99 pour Wen Hsia) et rapports sur la chronologie des chansons interdites (33 ans pour 〈Ma ma wo ye zhen yong jian〉) [^20][^23]
 ```
 
-Ce dispositif de censure avait une base juridique claire, ainsi qu’un moment de sortie clairement identifiable. La loi sur les publications de 1973 et la loi sur la radio-télévision de 1976 lui servaient de fondement ; les chansons devaient être soumises à examen avant publication. Ce n’est qu’en 1990 que la censure des chansons prit fin dans les faits, avant une annonce officielle en 1991[^24] ; les dispositions de la loi sur la radio-télévision restreignant les programmes en langues dites « dialectales » ne furent supprimées par le Yuan législatif que le 14 juillet 1993[^25] ; quant à la levée de la loi martiale elle-même, elle date du 15 juillet 1987[^26].
+Ce système de censure reposait sur des bases juridiques précises et a connu une fin tout aussi définie. La loi sur l'édition de 1973 et la loi sur la radio et la télévision de 1976 en étaient les fondements. Les chansons devaient être soumises à examen avant leur diffusion. Ce n'est qu'en 1990 que l'examen des chansons a cessé de manière effective, avec une annonce officielle en 1991[^24]. Les dispositions de la loi sur la radio et la télévision limitant les programmes en dialectes n'ont été supprimées par le Yuan législatif que le 14 juillet 1993[^25]. Quant à la levée de la loi martiale elle-même, elle a eu lieu le 15 juillet 1987[^26].
 
-> ⚠️ **C’est le préalable le plus important pour comprendre la liberté taïwanaise**
-> La liberté d’expression à Taïwan a été conquise pas à pas. De la levée de la loi martiale à la fin de la censure, puis à la suppression des restrictions sur les langues locales, il a fallu près de quarante ans ; entre-temps, des personnes ont vu une chanson interdite, ont été mises à l’écart ou contraintes à l’exil.
+> ⚠️ **Ce point est le préalable indispensable pour comprendre la liberté à Taïwan**
+> La liberté d'expression à Taïwan s'est conquise pas à pas. De la levée de la loi martiale à l'arrêt de la censure, jusqu'à la suppression des restrictions sur les dialectes, il a fallu près de quarante ans ; entre-temps, des individus ont été interdits, censurés ou contraints à l'exil pour une simple chanson.
 >
-> C’est précisément parce que Taïwan a payé ce prix qu’il sait aujourd’hui très clairement ce que signifie « ne pas pouvoir chanter » : il s’est autrefois tenu du côté de ceux qui tiennent le crayon rouge. Il ne s’agit pas de nier la liberté actuelle, bien au contraire : savoir comment la liberté a été obtenue permet de comprendre son poids, et d’éviter de la prendre pour acquise.
+> C'est précisément parce que Taïwan en a payé le prix qu'elle sait aujourd'hui très bien ce que signifie « ne pas pouvoir chanter » — car elle s'est un jour trouvée du côté de ceux qui tenaient le stylo rouge. Il ne s'agit pas de nier la liberté d'aujourd'hui, bien au contraire : c'est en sachant comment la liberté a été acquise que l'on comprend son poids, et que l'on évite de la considérer comme un acquis naturel.
 
-## Pouvoir chanter ce que les autres ne peuvent pas chanter
+## Chanter ce que les autres ne peuvent pas chanter
 
-Si l’on met côte à côte le passé de Taïwan, qui fut lui aussi un censeur, et sa situation actuelle, le contraste apparaît.
+En mettant en parallèle le passé de Taïwan (qui fut autrefois un censeur) et son présent, le contraste devient frappant.
 
-Aujourd’hui, l’autre rive du détroit utilise un autre dispositif, plus dense, de censure préalable. L’Administration nationale chinoise de la radio et de la télévision (NRTA) soumet paroles, albums et concerts à un examen préalable ; en 2021, elle a instauré une liste noire pour les KTV, imposant le retrait de chansons contenant notamment des éléments « portant atteinte à l’unité nationale »[^27]. Le musicien indépendant Li Zhi, en raison de « The Square », une chanson consacrée au 4 juin, a vu ses œuvres retirées de toutes les plateformes en 2019[^28]. « Womxnly » de Jolin Tsai, qui défend l’égalité de genre, a été interdite en Chine ; même Mayday s’est déjà vu demander de remplacer dans ses paroles « Tibet » par l’homophone « cœur » afin d’obtenir l’approbation réglementaire[^29].
+Aujourd'hui, de l'autre côté du détroit, on utilise un autre système de censure préalable, bien plus serré. L'Administration nationale de la radio et de la télévision (NRTA) de Chine exerce une censure en amont sur les paroles, les albums et les performances ; en 2021, elle a instauré une liste noire pour les KTV, retirant des plateformes les chansons contenant des contenus jugés comme « nuisibles à l'unité nationale »[^27]. L'artiste indépendant Li Zhi a vu ses œuvres de 2019 retirées de toutes les plateformes en raison d'une chanson sur les événements de la place Tian'anmen, 〈Guǎngchǎng〉 (La Place)^[^28] ; la chanson 〈Méiguī Shàonán〉 (_Womxnly_) de Jolin Tsai, qui plaide pour l'égalité des sexes, est interdite en Chine ; même le groupe Mayday a dû modifier le mot « Tibet » par un homophone, « cœur », dans ses paroles pour obtenir l'approbation des autorités[^29].
 
-Voilà pourquoi la « liberté » devient le dernier levier de Taïwan, et le plus solide : certaines chansons ne peuvent tout simplement être chantées qu’à Taïwan.
+C'est pourquoi la « liberté » est devenue l'atout final et le plus solide de Taïwan : certaines chansons ne peuvent être chantées qu'à Taïwan.
 
 ```tw-timeline
-1978 | Écrite après la rupture diplomatique | Hou Te-chien compose « Descendants of the Dragon », accusant le destin tragique des Chinois manipulés par les grandes puissances
-1983 | Interdite à Taïwan | Hou Te-chien part en Chine continentale ; la chanson est interdite à Taïwan, puis réautorisée après la levée de la loi martiale en 1987
-Aujourd’hui | Réappropriée par la Chine | Les « yeux noirs, cheveux noirs, peau jaune » deviennent un symbole de nationalisme ethnique fondé sur le sang
+1978 | Écrit pour une rupture diplomatique | Hou Dejian écrit 〈Lóng de chuánrén〉 (Descendants du Dragon), dénonçant la tragédie d'un peuple chinois manipulé par les puissances étrangères.
+1983 | Interdit à Taïwan | Hou Dejian se rend en Chine continentale ; le morceau est alors interdit à Taïwan, avant d'être autorisé après la levée de la loi martiale en 1987.
+Aujourd'hui | Détourné par la Chine | « Yeux noirs, cheveux noirs, peau jaune » est utilisé comme un symbole de nationalisme ethnique fondé sur le sang.
+Source : Wikipédia (Descendants of the Dragon, Hou Dejian) + Kknews (analyse de Chen Fang-yu) [^1][^4][^5]
 ```
 
-Et la liberté a un poids, qui vient de celles et ceux qui choisissent de chanter, puis en paient le prix.
+Et la liberté a un poids, un poids qui provient de ceux qui choisissent de chanter et qui en paient le prix.
 
-A-Mei a chanté l’hymne national lors de la cérémonie d’investiture présidentielle en 2000 ; elle fut ensuite mise à l’index par la Chine pendant près de quatre ans, concerts, publicités et contrats étant tous suspendus, jusqu’à sa réhabilitation en 2004[^30]. En 2013, lors d’un concert à Manchester, Deserts Chang, ou Anpu, reçut d’un spectateur un drapeau de la République de Chine et déclara : « C’est le drapeau de mon pays natal » ; les trois concerts prévus à Pékin furent aussitôt annulés[^31]. Crowd Lu et Chou Tzu-yu ont eux aussi été pris dans des controverses après des dénonciations. Quant à Teresa Teng, cette diva dont les chansons circulaient même en Chine continentale, où l’on disait « le jour, on écoute le vieux Deng ; le soir, la petite Deng », elle chanta en 1989 à Hong Kong lors du concert « Songs for Democracy Dedicated to China » avec une pancarte « Contre la loi martiale » ; jusqu’à sa mort, elle ne donna jamais un seul concert en Chine continentale[^32].
+A-Mei a chanté l'hymne national lors de l'investiture présidentielle en 2000, ce qui lui a valu d'être boycottée par la Chine pendant près de quatre ans : ses concerts, ses publicités et ses contrats d'égérie ont tous été suspendus jusqu'en 2004[^30]. En 2013, lors d'un concert à Manchester, au Royaume-Uni, Anpu (Chang Hsuan) a pris un drapeau de la République de Chine tendu par un fan et a déclaré : « C'est le drapeau de mon pays », ce qui a entraîné l'annulation de ses trois concerts prévus à Pékin[^31]. Lu Guangzhong et Tzuyu Chou ont également traversé des tempêtes suite à des dénonciations. Quant à Teresa Teng, cette diva dont la voix résonne même en Chine continentale (« on écoute le vieux Deng le jour, et la petite Deng le soir »), elle a chanté sur la scène de « Songs for Democracy Dedicated to China » à Hong Kong en 1989, brandissant une pancarte « Contre la loi martiale » ; elle n'a jamais donné de concert en Chine continentale jusqu'à sa mort[^32].
 
-![Caméras de retransmission télévisée à l’extérieur de la 32e cérémonie des Golden Melody Awards, prix les plus emblématiques de la musique sinophone](/article-images/music/golden-melody-awards-2021.webp)
+![Caméra de télévision devant le site des Golden Melody Awards, les Golden Melody Awards étant la récompense la plus emblématique de la musique sinophone](/article-images/music/golden-melody-awards-2021.webp)
 
-_Les Golden Melody Awards sont la scène la plus emblématique de la musique sinophone ; c’est là que Panai a évoqué Tiananmen. Photo : Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
+_Les Golden Melody Awards sont la scène la plus emblématique de la musique sinophone ; c'est ici que Panai a évoqué Tian'anmen. Photo : Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
 
-> 💡 **Le meilleur exemple tient peut-être à une soirée des Golden Melody Awards en 2024.** Sur la scène de la 35e cérémonie, la chanteuse autochtone Panai rappela que cette année marquait aussi le 35e anniversaire de Tiananmen, et qu’il ne fallait pas oublier (« let's not forget »)[^33]. La Chine supprima aussitôt ses œuvres de ses plateformes. La réponse de Panai après coup dit tout le sens de l’épisode : elle affirma que le geste de Pékin soulignait au contraire combien cette liberté taïwanaise était précieuse[^34]. La mise à l’index devenait ainsi la meilleure preuve que « l’on peut chanter ici ».
+> 💡 **Saviez-vous que... l'exemple le plus frappant de cela s'est produit lors d'une soirée aux Golden Melody Awards en 2024 ?** L'artiste autochtone Panai, sur la scène des 35e Golden Melody Awards, a rappelé à tous que cela faisait précisément 35 ans que l'incident de Tian'anmen s'était produit, exhortant à « ne pas oublier »[^33]. La Chine a immédiatement supprimé ses œuvres de ses plateformes. La réponse ultérieure de Panai a parfaitement résumé la portée de l'événement : elle a déclaré que les actions de Pékin ne faisaient que souligner à quel point cette liberté taïwanaise est précieuse[^34]. Le boycott est ainsi devenu la meilleure preuve qu'ici, « on peut chanter ».
 
-Dans son discours à cette cérémonie des Golden Melody Awards, Lai Ching-te déclara que la musique est la vie, et qu’elle est aussi une liberté sans entraves (« Music is life, and music is also unfettered freedom »)[^35]. La phrase peut sonner comme une formule de circonstance ; mais replacée dans le contexte de Panai effacée, d’A-Mei bannie et de Deserts Chang annulée, elle constitue l’inventaire, par une île qui a perdu son marché, de ce qui lui reste.
+Lors de son discours aux Golden Melody Awards de cette édition, Lai Ching-te a déclaré que la musique est la vie, et que la musique est aussi une liberté sans entraves (_Music is life, and music is also unfettered freedom_)[^35]. Ces mots peuvent ressembler à un discours protocolaire, mais placés dans le contexte de la suppression des œuvres de Panai, du boycott d'A-Mei ou de l'annulation des concerts d'Anpu, ils sonnent comme l'inventaire des biens restants d'une île qui a perdu ses marchés.
 
-L’autre face de la liberté, c’est le courage de prendre la parole. Pendant le Mouvement des tournesols de 2014, Fire EX. et des étudiants de l’Université nationale des arts de Taipei écrivirent « Island’s Sunrise » pour les manifestants qui occupaient le Yuan législatif ; à la fin mars, 500 000 personnes la chantèrent ensemble sur Ketagalan Boulevard[^58]. Le groupe libéra gratuitement les droits de la chanson pour les usages non commerciaux ; l’année suivante, elle remporta le prix de la chanson de l’année à la 26e cérémonie des Golden Melody Awards. Qu’une chanson remplie de revendications politiques, née pour une mobilisation de rue, puisse être couronnée dans le plus haut temple musical de Taïwan est inimaginable de l’autre côté du détroit.
+L'autre visage de la liberté est celui de l'audace de s'exprimer. Pendant le mouvement des Tournesols en 2014, les étudiants du groupe Fire EX. et de l'Université des Arts de Taipei ont écrit 〈Dǎoyǔ tiānguāng〉 (_Island's Sunrise_) pour la foule occupant le Yuan législatif ; fin mars, 500 000 personnes chantaient ensemble sur l'avenue Ketagalan[^58]. Le groupe a mis les droits d'auteur de cette chanson à disposition gratuitement pour un usage non commercial, et l'année suivante, elle a remporté le prix de la meilleure chanson de l'année aux 26e Golden Melody Awards. Qu'une chanson chargée de revendications politiques, née de la lutte de rue, puisse être couronnée dans le temple musical suprême de Taïwan est une chose inimaginable de l'autre côté du détroit.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="滅火器 Fire EX. - 12 島嶼天光 Island's Sunrise" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_« Island’s Sunrise » de Fire EX., version officielle. Chaîne officielle de Fire EX. Écrite pour le Mouvement des tournesols, chantée par 500 000 personnes sur Ketagalan Boulevard, la chanson a remporté le prix de la chanson de l’année à la 26e cérémonie des Golden Melody Awards._
+_Clip officiel de 〈Island's Sunrise〉 par Fire EX. Chaîne officielle de Fire EX. Écrite pour le mouvement des Tournesols, chantée par 500 000 personnes sur Ketagalan, et sacrée chanson de l'année aux 26e Golden Melody Awards._
 
 ## Il faut aller en Chine pour gagner de l’argent
 
