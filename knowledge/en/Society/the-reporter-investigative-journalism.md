@@ -2,9 +2,7 @@
 title: 'The Reporter: Ten Years of Turning Investigative Journalism from a Line of Business into a Public Good'
 description: "From 4 recurring donors to 8,000 each month, from the Blood-Stained Fishing Grounds trilogy to the 2026 united-front special report, the costs The Reporter has burned through over a decade--eight months undercover, reporting across three countries, comparing years of violation records--are exactly the things people least want to pay to read in the algorithmic age. Taiwan's civil society, through monthly deductions from strangers' accounts, has rescued investigative journalism from a line of business in commercial media and turned it into a public good that is constantly being sustained, even as it burns through resources ever faster."
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '媒體與新聞'
 tags:
   [
     'media',
@@ -14,9 +12,22 @@ tags:
     'civil society',
     'Ho Jung-hsing',
   ]
+subcategory: '媒體與新聞'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/報導者-evolve-20260614.md'
+viewpoint_formed: true
+image: '/article-images/society/the-reporter-brand-logo.webp'
+imageCredit: '報導者 The Reporter'
+imageLicense: 'Fair use（editorial commentary）'
+imageSource: 'https://www.twreporter.org'
+rationale:
+  why_this_hook: '「燒錢的速度永遠跑在募款前面」抓住非營利調查報導的核心張力：成本結構與收入結構的賽跑，比「公民媒體很偉大」誠實也更有戲。'
+  whats_excluded: '不評報導者的政治立場；童子賢民進黨智庫副董的政治傾向質疑無事實佐證，不寫；2000 萬初始捐助為市場傳言，只採官方確認的 500 萬；坊間「年收逾 9000 萬」與官方募款收入口徑不同，不混用。'
+  where_it_hedges: '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。'
+  whos_pushing_back: 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'
 sporeLinks:
   - id: 144
     platform: 'threads'
@@ -27,14 +38,10 @@ sporeLinks:
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:46044d1881e9332e'
-sourceBodyHash: 'sha256:ca526dda99de158c'
-translatedAt: '2026-06-17T01:18:25+08:00'
-image: '/article-images/society/the-reporter-brand-logo.webp'
-imageCredit: '報導者 The Reporter'
-imageLicense: 'Fair use（editorial commentary）'
-imageSource: 'https://www.twreporter.org'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:00bd13342bc6cb3c'
+sourceBodyHash: 'sha256:d77e750f6664a705'
+translatedAt: '2026-10-13T02:37:49.144606+00:00'
 ---
 
 > **30-second overview:** The Reporter is Taiwan's first nonprofit online investigative newsroom sustained by citizen donations. When it went online in December 2015, it had only 4 recurring monthly donors, a number founder Ho Jung-hsing did not dare let his colleagues know[^1]. Ten years later, in October 2025, that number had grown to about 8,000, with 10,000 as the next goal[^2]. It produced the Blood-Stained Fishing Grounds trilogy, which pursued reporting across three countries[^3]; covered the debt-bonded migrant-student labor case that led to a five-year, six-month sentence for a Chung Chou University of Science and Technology executive[^4]; and published the Chokubi Phenomenon series, after which the Ministry of Health and Welfare revised the rules so that only doctors who had completed PGY training could practice aesthetic medicine[^5]. Its publicly stated discipline has only three lines: "no ownership, no intervention, no clawback"[^6]. The costs The Reporter cannot cut are exactly the things people least want to pay to read in the algorithmic age. Taiwan has used monthly deductions of NT$200 or NT$300 from strangers' accounts to renew investigative journalism from a money-losing business into a public good that is constantly being sustained, even as it burns through resources ever faster.
@@ -61,26 +68,27 @@ Recurring monthly donors, from the first month online in 2015 to the tenth anniv
 The Reporter tenth-anniversary Podcast, 2025-10
 ```
 
-## No Ownership, No Intervention, No Clawback
+## No Ownership, No Interference, No Recoupment
 
-The Reporter's [official "About Us" page](https://www.twreporter.org/about-us) condenses its promise to donors into three verbs: no ownership, no intervention, no clawback[^18].
+The [official "About Us" page](https://www.twreporter.org/about-us) of _The Reporter_ condenses its commitment to donors into three verbs: no ownership, no interference, and no recoupment[^18].
 
-"No ownership" means donors do not receive shares or decision-making power over editorial direction because of how much they donate. "No intervention" means donors cannot issue instructions about the content, timing, or direction of individual reports. "No clawback" means that after a donation comes in, the money belongs to the cost of The Reporter's journalism; it will not be returned for any reason and will not be treated as leverage that can be withdrawn at any time.
+"No ownership" means that donors do not gain shares or decision-making power over editorial direction based on the amount they donate. "No interference" means that donors cannot issue instructions regarding the content, timing, or direction of individual reports. "No recoupment" means that once donations are received, the money becomes part of _The Reporter_'s newsroom operating costs; it will not be returned for any reason, nor will it be treated as leverage that can be withdrawn at any time.
 
-These three lines read like corporate CSR copy, but the real problem they aim to solve is the structural problem that has entangled Taiwan's media industry for 30 years: owners intervene, advertisers pull ads, and governments leak information strategically. Almost no commercial media outlet in Taiwan can completely escape at least one of these three lines. The Reporter's solution is to sever all three from the source through organizational structure: no shareholders, no advertising, no government procurement projects. Moral appeals cannot save a structure; organizational design is what can hold it.
+While these three sentences may read like corporate CSR propaganda, they are intended to solve a structural problem that has plagued Taiwan's media industry for thirty years: owners interfere, advertisers withdraw orders, and governments leak information. Almost no commercial media outlet in Taiwan can completely escape at least one of these three lines. _The Reporter_'s solution is to sever these three lines at the source through its organizational structure: no shareholders, no advertising, and no government tenders. Moral appeals cannot save a broken structure; only organizational design can sustain it.
 
 ```tw-versus
-Taiwanese commercial media | The Reporter
-Owners are listed companies, political parties, or families | The owners are 8,000 strangers who donate every month
-Advertisers can pull ads to apply pressure | Accepts no commercial advertising
-Pageviews decide what gets written next | There is no pageview screen in the newsroom
+Taiwan Commercial Media | *The Reporter*
+Owners are listed companies, political parties, or families | Owners are 8,000 strangers who donate monthly
+Advertisers can withdraw orders to exert pressure | Does not accept any commercial advertising
+Click rates determine the next story | There are no click-rate monitors in the newsroom
+Source: *The Reporter* official website "About Us" (No ownership, no interference, no recoupment) and Taiwan media structural data cited in this article[^18]
 ```
 
-The detail that Tung Tzu-hsien personally donated NT$5 million to establish the foundation is official, first-hand public information[^19]. A later market version claimed that Lam's initial donation was NT$20 million, but that number has never been officially confirmed and is closer to market rumor; the hard fact that can be confirmed is NT$5 million[^20]. What matters is the three-part design of "personal donation + foundation holding structure + no advertising"; the size of the number itself is secondary. Even after Lam later became vice chair of a Democratic Progressive Party think tank, the foundation's bylaws did not allow him to issue instructions on a single report.
+The details regarding Tung Tzu-hsien's personal donation of NT$5 million to establish the foundation are first-hand information that has been officially disclosed[^19]. A version later circulated in rumors claiming "Tung Tzu-hsien initially donated NT$20 million," but this figure has not been officially confirmed and is closer to market speculation; the only verifiable hard fact is NT$5 million[^20]. The important part is the three-stage design of "personal donation + foundation ownership + no advertising"; the actual size of the number is secondary. Even after Tung later served as the deputy chairman of a Democratic Progressive Party (DPP) think tank, he could not issue instructions regarding individual reports under the foundation's articles of incorporation.
 
-The official FAQ contains another passage explaining why the outlet does not display pageviews: "We hope to move beyond the myth of pageviews, because traffic is not entirely equal to reporting value, nor is it equal to trust and impact"[^21]. In the world of online media in 2026, this has become an extremely rare discipline. Most news sites show real-time reader counts, social-share counts, and comment counts under each article, and newsrooms use those numbers to decide what to write next. The Reporter's newsroom does not have that screen.
+There is another passage in the official FAQ explaining why this media outlet does not display click rates: "We hope to break away from the myth of click rates, because traffic does not fully equal reporting value, nor does it equal trust and influence"[^21]. By 2026, this has become a rare discipline in the online media world; most news websites display real-time reader counts, social media shares, and comment counts under every article, with newsrooms deciding what to write next based on these numbers. There is no such screen in _The Reporter_'s newsroom.
 
-At the end of August 2018, former education minister Huang Jong-tsun took over as the second board chair[^22]. Board transitions, editor-in-chief handovers, and executive-director role changes are normal in this organization, but the three lines of the "three noes" principle have never changed. They have become a house rule carved into the doorframe: everyone who enters this organization to work knows there are three things they cannot touch.
+In late August 2018, former Minister of Education Huang Rong-tsun took over as the second chairman[^22]. Changes in the board of directors, handovers of the editor-in-chief, and transitions of the CEO are normal within this organization, but the "Three No's" principle has never been altered. It has become a house rule carved into the doorframe: anyone joining this organization knows there are three things they must not touch.
 
 ## The Fishers' Eyes: More Than 100 Interviewees, One-Seventh Overseas
 
