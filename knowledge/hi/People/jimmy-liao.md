@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:676de125f3707dd4'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-09-19T20:19:34.846274+00:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T08:29:20.912161+00:00'
 ---
 
 # जीमी: वे चित्र जिन्हें उपचार-उन्मुख माना जाता है, एक रक्त कैंसर उत्तरजीवी द्वारा कांच के टैंक से वापस लाए गए हैं
