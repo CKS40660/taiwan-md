@@ -2,9 +2,7 @@
 title: 'Vivienda pública nacional y justicia habitacional: las viviendas baratas construidas por el gobierno, y la escalera de activos que terminaron creando'
 description: 'En 1985, las viviendas públicas nacionales Chenggong costaban 67.000 dólares taiwaneses por ping y aun así nadie las quería; un antiguo jefe de barrio reunió 400.000 dólares taiwaneses para el pago inicial y compró una unidad. Cuarenta años después, la misma dirección se acerca al millón por ping. La vivienda pública nacional debía ser una herramienta para «ayudar a la gente a comprar una casa», pero nunca incorporó una compuerta para recuperar la plusvalía: el subsidio público terminó convertido en patrimonio privado de quienes compraron primero. En 2026, Taoyuan volvió a instalar esa compuerta, lo que equivale a admitir el error de la política de vivienda pública nacional.'
 date: 2026-06-06
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'vivienda pública nacional',
@@ -13,10 +11,39 @@ tags:
     'justicia intergeneracional',
     'vivienda asequible',
   ]
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 readingTime: 16
+featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
-featured: false
+viewpoint_formed: true
+image: '/article-images/society/taipei-skyline-housing-2026.webp'
+imageCredit: 'Heeheemalu'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+datasets:
+  - id: 'lvr-trades'
+    name: '不動產買賣 全國實價登錄'
+    url: 'https://lvr.land.moi.gov.tw/'
+    agency: '內政部地政司'
+    update_freq: '每3月'
+    why: '文章用成功國宅一個門牌講四十年，這裡可查任何國宅社區的當代成交價，驗證資產扶梯斜率'
+    verified: 2026-06-10
+  - id: '121267'
+    name: '臺北市國民住宅配售(租)情形'
+    url: 'https://data.gov.tw/dataset/121267'
+    agency: '臺北市政府都市發展局'
+    update_freq: '不定期更新'
+    why: '文中三大國宅那批「政府賣出去的便宜房」的配售與出租官方紀錄'
+    verified: 2026-06-10
+  - id: '155779'
+    name: '臺北市政府社會住宅包租代管媒合統計資料'
+    url: 'https://data.gov.tw/dataset/155779'
+    agency: '臺北市政府都市發展局'
+    update_freq: '每1年'
+    why: '「2016 政府不賣了改用租的」那條新路線的執行端數字'
+    verified: 2026-06-10
 sporeLinks:
   - id: 126
     platform: 'threads'
@@ -27,34 +54,31 @@ sporeLinks:
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:8ca8b403c13ab428'
-sourceBodyHash: 'sha256:547ee1d3b342a025'
-translatedAt: '2026-06-16T00:44:26+08:00'
-image: '/article-images/society/taipei-skyline-housing-2026.webp'
-imageCredit: 'Heeheemalu'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:058a2707437b6293'
+sourceBodyHash: 'sha256:8b7dd2352a89e936'
+translatedAt: '2026-10-13T01:54:08.755763+00:00'
 ---
 
-# Vivienda pública nacional y justicia habitacional: las viviendas baratas construidas por el gobierno, y la escalera de activos que terminaron creando
+# Vivienda nacional y justicia habitacional: ¿Para quién construyó el gobierno estas viviendas asequibles su escalera de riqueza?
 
-En el tramo 2 de Fuxing South Road, en el distrito de Da’an de Taipéi, hay un conjunto de viviendas llamado “viviendas públicas nacionales Chenggong”. Cuando acababan de construirse, en 1985, nadie las quería.[^1]
+En la segunda sección de la calle Fuxing South Road, en el distrito de Da'an, Taipéi, se encuentra un complejo llamado «Cheng-shung Kuo-chai» (Vivienda Nacional Cheng-shung). Cuando se terminó de construir en 1985, nadie quería vivir allí. [^1]
 
-El precio fijado por el gobierno era de 67.000 a 71.000 dólares taiwaneses por ping (坪, unidad local de superficie, unos 3,3 m²), una cifra que entonces no era barata. Sumado al estancamiento de las ventas, al final hubo que rebajar el precio a 67.000 dólares taiwaneses por ping y añadir préstamos sin intereses a cuatro años para terminar de vender las unidades. El antiguo jefe de barrio Shih Chung-sheng recordó más tarde que él y su esposa agotaron los ahorros de toda una vida para reunir un pago inicial de 400.000 dólares taiwaneses y comprar una de esas viviendas.[^1]
+El precio fijado por el gobierno era de entre NT$67,000 y NT$71,000 por _ping_, lo cual no era barato para la época; sumado a que las ventas se estancaron, finalmente tuvieron que bajar el precio a NT$67,000 por _ping_ y ofrecer un préstamo sin intereses a cuatro años para poder vender todas las unidades. El antiguo jefe de la vecindad, Shih Chung-sheng, recordó más tarde que él y su esposa tuvieron que agotar todos los ahorros de su vida para reunir un pago inicial de NT$400,000 y así poder comprar una de las viviendas. [^1]
 
-Cuarenta años después, la misma dirección registra en plataformas inmobiliarias un precio promedio de compraventa cercano a 870.000 dólares taiwaneses por ping durante el último año, y la unidad más cara se aproxima a los 980.000.[^2] De 67.000 a 870.000: unas doce a catorce veces más. Aquel pago inicial que en su momento exigió vaciar los ahorros hoy no alcanzaría ni para comprar un ping.
+Cuarenta años después, en la misma dirección, el precio medio de transacción registrado en las plataformas inmobiliarias durante el último año es de aproximadamente NT$870,000 por _ping_, y la unidad más cara se acerca a los NT$980,000. [^2] De NT$67,000 a NT$870,000 hay un incremento de unas doce a catorce veces. Aquel pago inicial que requirió todos sus ahorros hoy no alcanzaría ni para comprar un solo _ping_.
 
-> **Resumen en 30 segundos:** La vivienda pública nacional fue una política aprobada por ley en Taiwán en 1975: el gobierno “construía para vender” viviendas baratas a la población, con la intención de ayudar a quienes no podían comprar a subir al tren de la propiedad. El problema es que nunca incorporó una compuerta de “recuperación de plusvalía”; en 2002 incluso desmontó el único mecanismo contra la especulación, permitiendo que esas viviendas se vendieran a cualquiera. Así, las casas construidas con subsidio público terminaron convertidas en activos privados de los primeros compradores, y varias viviendas públicas nacionales en zonas prime de Taipéi hoy se acercan o incluso superan el millón por ping. En 2015 el gobierno derogó la Ley de Vivienda Pública Nacional y pasó a la vivienda social “solo en arriendo, no en venta”; pero en mayo de 2026 Taoyuan aprobó en tercera lectura su “vivienda asequible”, recuperando la vía de “construir para vender” y, deliberadamente, reinstalando la compuerta que entonces faltó: la reventa no puede superar el precio original de compra. El Ministerio del Interior no está de acuerdo y sostiene que hay que volver al modelo “solo en arriendo”. Entre “ayudarte a comprar” y “ayudarte a arrendar”, Taiwán lleva cincuenta años discutiendo la ruta de la justicia habitacional sin cerrar el debate.
+> **Resumen en 30 segundos:** La Vivienda Nacional es el tipo de vivienda económica que el gobierno de Taiwán construyó para vender tras su legislación en 1975, con la intención original de ayudar a quienes no podían permitirse una casa a entrar en el mercado inmobiliario. El problema es que nunca se instaló un mecanismo de «recuperación de la plusvalía»; incluso en 2002, se eliminaron los pocos mecanismos existentes para evitar la especulación, permitiendo que las viviendas nacionales pudieran venderse a cualquier persona. Así, las casas construidas con subsidios públicos terminaron convirtiéndose en el patrimonio privado de quienes compraron temprano; hoy, las viviendas nacionales en varias zonas exclusivas de Taipéi rozan o incluso superan el millón de NT$ por _ping_. En 2015, el gobierno derogó la Ley de Vivienda Nacional para pasar al modelo de vivienda social de «solo alquiler, no venta»; sin embargo, en mayo de 2026, Taoyuan aprobó en tercera lectura la ley de «viviendas asequibles», retomando el camino de «construir para vender» pero con un cambio deliberado: se reinstala el mecanismo que faltaba —la reventa no puede superar el precio original de compra—. El Ministerio del Interior no está de acuerdo y defiende volver al modelo de «solo alquiler, no venta». ¿«Ayudarte a comprar» o «ayudarte a alquilar»? Estas dos rutas hacia la justicia habitacional son un debate que Taiwán lleva cincuenta años sin resolver.
 
 ```tw-timeline
-1975 | Entra en vigor la Ley de Vivienda Pública Nacional | El gobierno construye y vende, y establece un circuito cerrado de “requisitos para compradores”: el subsidio solo circula entre quienes lo necesitan
-2002 | Se derriba ese muro | Una reforma elimina los requisitos para compradores; tras vivir un año en la vivienda pública nacional, se la puede vender a cualquiera, entrando formalmente al mercado libre
-2015 | Se deroga la Ley de Vivienda Pública Nacional | Motivo oficial: la tasa de vivienda propia ya es del 85%; el gobierno central cambia a la vivienda social “solo en arriendo, no en venta”
-2026 | Taoyuan reinstala la compuerta | Vivienda asequible: la reventa no puede superar el precio original de compra; cincuenta años después, se repone el muro que faltaba
+1975 | Se implementa la Ley de Vivienda Nacional | El gobierno construye para vender y establece un sistema cerrado de «requisitos del comprador»: los subsidios solo circulan entre quienes realmente los necesitan.
+2002 | Se derriba ese muro | La reforma legal elimina las restricciones de elegibilidad; tras un año de residencia, la vivienda nacional puede venderse a cualquier persona, entrando oficialmente en el libre mercado.
+2015 | Derogación de la Ley de Vivienda Nacional | Razón oficial: la tasa de propiedad de vivienda ya es del 85%; el gobierno central cambia hacia el modelo de vivienda social de «solo alquiler, no venta».
+2026 | Taoyuan reinstala el mecanismo | Viviendas asequibles: la reventa no puede superar el precio original de compra. Cincuenta años después, se vuelve a construir ese muro para la Vivienda Nacional.
+Fuente: Ejecutivo (Explicación sobre la derogación de la Ley de Vivienda Nacional) + Base de Datos de Normativas Nacionales (Evolución de la reforma de 2002) + Liberty Times (Derogación en 2015) + United Daily News (Tercera lectura en Taoyuan en 2026) [^3][^7][^15][^23]
 ```
 
-Este artículo trata de los cincuenta años atrapados entre esos dos precios de una misma dirección. ¿Cómo una buena intención —que el gobierno gastara dinero para construir viviendas baratas y ayudar a la gente a subir al tren de la propiedad— terminó convirtiéndose en esto: una generación siguiente situada al pie de la escalera, incapaz de comprar y sin estabilidad para arrendar?
+Lo que este artículo pretende explicar son esos cincuenta años atrapados entre esos dos precios. ¿Cómo es posible que la buena intención de un gobierno de gastar dinero construyendo viviendas baratas para ayudar a la gente, haya derivado en la situación actual, donde la siguiente generación se encuentra en la cima de la escalera pero no puede ni comprar ni alquilar con estabilidad?
 
 ## La generación de viviendas que el gobierno construyó para vender
 
@@ -137,43 +161,44 @@ Con estas cifras sobre la mesa, la frase del abogado Lin Chih-chun al criticar e
 
 Esa es la factura que la compuerta ausente presentó cincuenta años después. Las viviendas baratas construidas por el gobierno no se convirtieron en una escalera capaz de recibir una y otra vez a la siguiente persona que no podía comprar, sino en un ascensor que solo sostuvo a quienes subieron primero; una vez arriba, retiraron la escalera.
 
-## Esa compuerta se llama prima de terreno en Hong Kong y lección en Reino Unido
+## Esa barrera: en Hong Kong se llama "pago de la diferencia de suelo", en el Reino Unido es una lección
 
-Llegados aquí, surge una pregunta natural: ¿es posible que el gobierno construya viviendas baratas y se las venda a la gente, pero no permita que luego las vendan con ganancia?
+Al llegar a este punto, surge una pregunta muy natural: si el gobierno construye viviendas baratas para la gente, pero no les permite venderlas para obtener beneficios, ¿es eso posible?
 
-Sí. Hong Kong, al lado, instaló esa compuerta que Taiwán nunca instaló.
+Es posible. En el vecino Hong Kong, instalaron esa barrera que Taiwán nunca puso.
 
-El gobierno de Hong Kong impulsa el Home Ownership Scheme, con una lógica muy parecida a la vivienda pública nacional: vender viviendas a hogares de ingresos bajos y medios con un descuento de 30% a 40% respecto del mercado. Pero añade un mecanismo llamado “pago de prima de terreno”. Si en el futuro el propietario quiere vender esa vivienda en el mercado abierto, primero debe pagar al gobierno una prima calculada según la proporción del descuento original, lo que equivale a devolver al erario la parte de concesión pública de entonces junto con parte de la plusvalía.[^12] La apreciación no queda enteramente en manos privadas: una porción vuelve a lo público. La vivienda pública nacional de Taiwán nunca tuvo esa barrera de pago de prima. Comprabas barato, vivías el plazo mínimo y podías vender al precio pleno de mercado; toda la diferencia y toda la plusvalía entraban limpiamente en tu bolsillo.
+El gobierno de Hong Kong promueve las 「居屋」 (viviendas subsidiadas), cuya lógica es muy similar a la de la vivienda pública nacional: venden casas a hogares de ingresos medios y bajos con un descuento del 30 % al 40 % sobre el precio de mercado. Sin embargo, cuentan con un mecanismo adicional llamado 「補地價」 (pago de la diferencia de suelo). Si un propietario desea vender su vivienda subsidiada en el mercado abierto en el futuro, primero debe pagar al gobierno una suma correspondiente al descuento que recibió al comprarla; es decir, devuelve al tesoro público la parte del beneficio que el gobierno le cedió originalmente, junto con una parte de la plusvalía. [^12] La plusvalía no pertenece totalmente al individuo; una parte debe devolverse a lo público. En las viviendas públicas nacionales de Taiwán, nunca ha existido este control del pago de la diferencia de suelo. Compras barato y, tras cumplir el periodo de residencia obligatorio, puedes venderla al precio de mercado de toda la ciudad; la diferencia de precio y la plusvalía acumulada en ese intervalo van directamente a tu bolsillo.
 
 ```tw-versus
-Vivienda pública nacional de Taiwán | Home Ownership Scheme de Hong Kong
-El gobierno subsidia y vende barato a residentes | El gobierno subsidia y vende barato a residentes
-Tras vivir un año, se puede revender a precio pleno de mercado | Para revender en el mercado abierto primero debe pagarse la “prima de terreno”
-La plusvalía queda casi toda en manos privadas | La plusvalía se recupera para el erario según la proporción del descuento original
-El stock público se pierde de una sola vez | La concesión pública puede recuperarse
+Vivienda pública nacional (Taiwán) | Vivienda subsidiada (Hong Kong)
+Subvencionada por el gobierno, venta barata | Subvencionada por el gobierno, venta barata
+Reventa al precio de mercado tras un año | Reventa en mercado abierto requiere "pago de diferencia de suelo"
+La plusvalía es casi totalmente individual | La plusvalía se recupera para el tesoro público según el descuento original
+Pérdida total del stock público | Recuperación de los beneficios cedidos por lo público
+Fuente: Explicación oficial del esquema de 「補地價」 del Consejo de Vivienda de Hong Kong + Base de datos de normativas nacionales (Evolución de las restricciones de reventa de la vivienda pública en Taiwán) [^7][^12]
 ```
 
-![Hoi Fu Court, en To Kwa Wan, Hong Kong, conjunto perteneciente al Home Ownership Scheme de vivienda subsidiada en venta, con varios edificios residenciales altos en paralelo](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
-_Hoi Fu Court, vivienda del Home Ownership Scheme de Hong Kong. El gobierno hongkonés vende estas viviendas a hogares de ingresos bajos y medios con 30% a 40% de descuento respecto del mercado, pero estableció una compuerta que la vivienda pública nacional taiwanesa no tenía: el pago de prima de terreno. Photo: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
+![Hoi Fu Court en To Kwa Wan, Hong Kong; un conjunto de viviendas que pertenece a las 「居屋」 (viviendas subsidiadas para la venta), con varios edificios residenciales de gran altura alineados](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
+_Hoi Fu Court, una 「居屋」 en Hong Kong. El gobierno de Hong Kong vende estas viviendas a hogares de ingresos medios y bajos con un descuento del 30-40 % sobre el precio de mercado, pero estableció una barrera que la vivienda pública de Taiwán no tiene: el pago de la diferencia de suelo. Photo: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
 
-Si Hong Kong es la tarea que Taiwán debió copiar y no copió, Reino Unido es un espejo más brutal.
+Si Hong Kong es la tarea que Taiwán debería haber copiado pero no hizo, el Reino Unido es un espejo aún más cruel.
 
-En 1980, el gobierno de Margaret Thatcher lanzó el “Right to Buy”, que permitía a los inquilinos de vivienda pública comprar con grandes descuentos la vivienda en la que vivían. La política fue muy popular y vendió alrededor de 1,9 millones de viviendas públicas. ¿Cuál fue el costo? La proporción de vivienda social en Reino Unido cayó de 31% en 1980 a 16% en 2023, prácticamente a la mitad.[^13] Una vez que el stock público se vende a particulares, no vuelve. El think tank Common Wealth calculó que solo el valor patrimonial transferido mediante aquellos “descuentos” alcanzó 194.000 millones de libras esterlinas, unos 8 billones de dólares taiwaneses. En sus propias palabras:
+En 1980, el gobierno de Thatcher lanzó el 「Right to Buy」 (Derecho a comprar), permitiendo que los inquilinos de viviendas sociales pudieran comprar las casas donde vivían con grandes descuentos. La política fue sumamente popular y se vendieron aproximadamente 1,9 millones de unidades de vivienda social. ¿Cuál fue el coste? La proporción de vivienda social en el Reino Unido cayó drásticamente, pasando del 31 % en 1980 a solo un 16 % en 2023. [^13] Una vez que el stock público se vende a individuos, no se puede recuperar. El laboratorio de ideas _Common Wealth_ hizo cálculos: solo el valor de los derechos cedidos mediante esos «descuentos» ascendió a 194.000 millones de libras esterlinas, lo que equivale aproximadamente a NT$8 billones. Sus palabras exactas fueron:
 
-> ✦ "The equity given away through the discount is worth £194 billion…" (Solo el patrimonio transferido mediante el descuento vale 194.000 millones de libras esterlinas). — think tank Common Wealth
+> ✦ "The equity given away through the discount is worth £194 billion…" (Solo el valor de los derechos cedidos mediante el descuento asciende a 194.000 millones de libras esterlinas). — El laboratorio de ideas _Common Wealth_
 
-![Vivienda municipal Brookfield Estate, en St Pancras, Londres, conjunto de ladrillo rojo construido en la década de 1920, con edificios de varios pisos ordenados en hilera](/article-images/society/london-brookfield-council-estate.webp)
-_Vivienda municipal (council housing) en Londres. El “Right to Buy” de Thatcher en 1980 vendió este tipo de vivienda pública a los inquilinos con descuento; cuarenta años después, la proporción de vivienda social británica se había reducido a la mitad, hasta apenas 16%. Photo: Reading Tom, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg).\_
+![Brookfield Estate en el distrito de St Pancras, Londres; un conjunto de viviendas de ladrillo rojo construidas en la década de 1920, con edificios de ladrillo de varios pisos alineados ordenadamente](/article-images/society/london-brookfield-council-estate.webp)
+_Viviendas municipales (council housing) en Londres. El 「Right to Buy」 de Thatcher en 1980 permitió vender este tipo de viviendas sociales con descuento a los inquilinos; cuarenta años después, la proporción de vivienda social en el Reino Unido se ha reducido a un 16 %. Photo: Reading Tom, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>).\_
 
-El desenlace más irónico es que el 41% de las viviendas públicas vendidas entonces se han convertido hoy en arriendos privados más caros.[^13] El gobierno vendió viviendas con descuento a los inquilinos, y esos inquilinos —o compradores posteriores— volvieron a arrendarlas a otros a precios más altos. El subsidio público dio una vuelta y terminó elevando los precios del mercado de arriendo. Ese “ascensor que retiró la escalera” de la vivienda pública nacional taiwanesa tuvo en Reino Unido una versión ampliada por un millón.
+Lo más irónico es que, de las viviendas sociales vendidas en aquel entonces, el 41 % se han convertido hoy en viviendas de alquiler privado con rentas mucho más altas. [^13] El gobierno vende la casa con descuento al inquilino, y este (o un tercero) vuelve a alquilarla a otros por un precio superior; la subvención pública da una vuelta completa para terminar encareciendo el mercado del alquiler. Ese «ascensor que retira la escalera» de la vivienda pública taiwanesa es, en el Reino Unido, una versión amplificada un millón de veces.
 
-![Viviendas HDB en el distrito Lavender de Singapur, típica vivienda pública en torres altas, con fachadas de colores brillantes](/article-images/society/singapore-hdb-lavender-2014.webp)
-_Viviendas HDB de Singapur, donde vive cerca del 80% de la población. El gobierno construye para “vender” con contratos de 99 años; incluso con un período mínimo de ocupación, no ha logrado contener la privatización de la plusvalía de las viviendas HDB. Photo: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
+![HDB flats en Lavender, Singapur; típicas viviendas públicas de gran altura con fachadas de colores brillantes](/article-images/society/singapore-hdb-lavender-2014.webp)
+_Las viviendas HDB de Singapur, donde vive aproximadamente el 80 % de la población. El gobierno las construye para «vender» y otorga contratos de arrendamiento de 99 años; incluso con periodos mínimos de residencia, no se puede frenar la privatización de la plusvalía de estas viviendas. Photo: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
 
-Ni siquiera Singapur, tan citado como ejemplo positivo, logra frenar esto. El gobierno singapurense construye y “vende” viviendas HDB a la población con contratos de 99 años, y cerca del 80% de la ciudadanía vive en ellas: a primera vista, un modelo de “vivienda para quien la habita”. Pero aun con período mínimo de ocupación y recargos de reventa, no ha podido contener la privatización de la plusvalía de las HDB. El académico Chua Beng Huat ha señalado directamente que ese subsidio público, pensado para reducir la desigualdad, en la práctica profundizó la brecha de riqueza entre generaciones: quienes compraron temprano acumularon activos con la apreciación de las HDB; las generaciones tardías tuvieron que pagar precios más altos para poder comprar. En Singapur hay una expresión muy gráfica para ese ciclo de comprar y vender vivienda HDB: “dos mordidas a la cereza” (two bites of the cherry).[^14]
+Incluso Singapur, que suele ser el modelo a seguir, no pudo evitar esto. El gobierno de Singapur construye viviendas HDB para venderlas al pueblo, otorgando contratos de arrendamiento de 99 años; cerca del 80 % de los ciudadanos viven en ellas, pareciendo un modelo de éxito donde «cada habitante tiene su hogar». Sin embargo, aunque establecieron periodos mínimos de residencia y tasas adicionales por reventa, no han podido frenar la privatización de la plusvalía. El académico Chua Beng Huat señaló directamente que este sistema de subvención pública, cuya intención original era reducir la desigualdad, en realidad ha profundizado la brecha de riqueza entre generaciones: quienes compraron pronto acumularon activos gracias a la plusvalía de las HDB, mientras que las generaciones posteriores deben pagar precios mucho más altos para poder acceder a ellas. Para este ciclo de compra y venta de viviendas, los locales tienen una expresión muy gráfica: 「咬兩口櫻桃」 (dos mordiscos de cereza o _two bites of the cherry_). [^14]
 
-> 📝 **Nota curatorial**
-> Al mirar juntos Hong Kong, Reino Unido y Singapur, se ve una cosa: siempre que el gobierno opta por “construir para vender”, la privatización de la plusvalía es una sombra casi imposible de desprender. La diferencia está en si instalas o no una compuerta, y en cuán firme es. Hong Kong instaló la prima de terreno y al menos retiene una parte; Singapur puso umbrales, pero sigue filtrando; Reino Unido prácticamente regaló el stock, y el patrimonio público se fue con todo. La vivienda pública nacional de Taiwán está en el extremo menos protegido de ese espectro: ni siquiera tenía la compuerta de prima de terreno de Hong Kong. Por eso, cincuenta años después, Taiwán llegó a una encrucijada: o aprende de Hong Kong y repone la compuerta, o adopta otra ruta y simplemente deja de vender.
+> 📝 **Nota del editor**
+> Al observar juntos a Hong Kong, el Reino Unido y Singapur, se descubre algo: siempre que un gobierno elige «construir para vender», la privatización de la plusvalía es una sombra casi imposible de evitar. La diferencia radica únicamente en si instalas una barrera y si esta es lo suficientemente estricta. Hong Kong instaló el pago de la diferencia de suelo y retuvo al menos una parte; Singapur puso umbrales, pero aún hay fugas; el Reino Unido simplemente regaló todo, y así se perdió todo el stock público. La vivienda pública nacional de Taiwán es el extremo más desprotegido de este espectro, careciendo incluso del mecanismo de Hong Kong. Por eso, cincuenta años después, Taiwán se encuentra en una encrucijada: o aprende de Hong Kong y refuerza las barreras, o sigue el otro camino y deja de vender por completo.
 
 ## Una cifra bonita del 85% y la siguiente generación que no puede comprar
 
@@ -247,26 +272,26 @@ El reglamento de vivienda asequible establece con claridad tres candados contra 
 
 Sin embargo, apenas apareció esta ruta, chocó con el gobierno central.
 
-## Comprar o arrendar: la disputa a distancia entre centro y gobierno local
+## ¿Comprar o alquilar?: La disputa entre el gobierno central y local
 
-La posición del Ministerio del Interior es clara: vender es, en sí mismo, problemático. El viceministro Tung Chien-hung cuestionó directamente esa dirección. Dijo: “Cuando la vivienda asequible es vivienda en venta, relativamente hablando puede atender a menos personas”, y además “el proceso de libre reventa puede generar disputas sobre derechos reales y problemas posteriores de gestión administrativa”.[^24] Sostuvo que había que volver al espíritu de la Ley de Vivienda: vivienda social “solo en arriendo, no en venta”. En términos simples, el Ministerio del Interior quiere decir esto: una vez que la vivienda se vende, el stock público se pierde de una sola vez; en lugar de esforzarse por administrar “qué ocurre después de vender”, mejor no vender desde el principio y mantenerla siempre en manos del gobierno para arrendarla continuamente.
+La postura del Ministerio del Interior es clara: la venta de estas viviendas es, en sí misma, problemática. El viceministro Tung Chien-hung cuestionó directamente este enfoque, afirmando que «cuando la vivienda asequible es de tipo venta, el número de ciudadanos que se pueden atender es relativamente menor» y que «el proceso de reventa libre puede generar disputas sobre los derechos de propiedad y problemas de gestión administrativa posteriores».[^24] Él aboga por retomar el espíritu de «solo alquiler, no venta» de la vivienda social establecido en la 《Ley de Vivienda》. En términos sencillos, lo que quiere decir el Ministerio del Interior es que una vez que una vivienda se vende, se pierde para siempre de la reserva pública; en lugar de buscar formas de gestionar «qué pasa después de la venta», sería mejor no vender desde el principio y mantenerlas permanentemente en manos del gobierno para alquilarlas indefinidamente.
 
-En realidad, ambos lados hablan de dos versiones distintas de justicia habitacional.
+Lo que ambas partes defienden son, en realidad, dos conceptos distintos de justicia habitacional.
 
-La respuesta de Taoyuan intenta desmontar ese marco binario. Chiang Nan-chih, director de Desarrollo Urbano de Taoyuan, dijo: “La promoción de la justicia habitacional no debería caer en una lógica única de ‘elegir entre dos’”.[^25] El alcalde Chang San-cheng acudió personalmente al Yuan Ejecutivo el 4 de junio de 2026 para buscar que la vivienda asequible de Taoyuan fuera incorporada a la política central. Según la prensa, describió la vivienda asequible y la vivienda social como las “dos alas” de la política habitacional: complementarias, no rivales. Hay personas que quieren comprar y personas que solo pueden arrendar; ambas demandas deben ser atendidas, sin obligarlas a una alternativa excluyente.[^26]
+La respuesta de Taoyuan ha sido intentar romper ese marco de elección forzada. El director de la Oficina de Desarrollo Urbano de la ciudad de Taoyuan, Chiang Nan-chih, señaló: «El impulso de la justicia habitacional no debería caer en la lógica única de elegir entre una opción u otra».[^25] Por su parte, el alcalde Chang Shan-cheng se desplazó personalmente al Ejecutivo el 4 de junio de 2026 para solicitar que las viviendas asequibles de Taoyuan se incluyeran en las políticas centrales. Según informaron los medios, describió la vivienda asequible y la vivienda social como «las dos alas» de la política de vivienda: complementarias en lugar de competitivas. Algunos querrán comprar y otros solo podrán alquilar; ambas necesidades deben ser atendidas por separado sin obligar a nadie a elegir una sola vía.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Programa oficial de CommonWealth Magazine: por qué se redujo drásticamente la promesa gubernamental de 130.000 viviendas sociales de construcción directa, una mirada lateral al difícil estado actual de la justicia habitacional en Taiwán._
+_Programa oficial de 《天下雜誌》: Por qué la promesa del gobierno de Lai de construir 130.000 unidades de vivienda social se ha reducido drásticamente, analizando desde un ángulo la accidentada situación de la justicia habitacional en Taiwán._
 
-Esta vez el Yuan Ejecutivo no rechazó la propuesta de plano. La posición del primer ministro Cho Jung-tai se suavizó visiblemente: no vetó el enfoque de Taoyuan y solo expresó su esperanza de que “las políticas del centro y los gobiernos locales puedan alinearse”.[^27] Una ruta política derogada once años antes, con una justificación oficial ya escrita —“85% de vivienda propia, misión cumplida”—, volvió a tocar la puerta del gobierno central desde un gobierno local.
+En esta ocasión, el Consejo de Ejecución no dio una negativa rotunda. La actitud del presidente del Consejo, Cho Jung-tai, se suavizó notablemente; no rechazó el enfoque de Taoyuan, sino que simplemente expresó su deseo de que «las políticas central y local puedan alinearse».[^27] Una línea política que había sido abandonada durante once años —con la justificación oficial de que «la misión de alcanzar un 85 % de tasa de propiedad de vivienda se ha cumplido»— ha logrado, gracias a un gobierno local, abrir de nuevo las puertas del gobierno central.
 
-![Tramo central de Karl-Marx-Hof, vivienda social del distrito 19 de Viena, con una larga fachada monumental roja y amarilla de torres conmemorativas, un conjunto municipal de un kilómetro](/article-images/society/vienna-karl-marx-hof.webp)
-_Karl-Marx-Hof, en Viena, terminado en 1933 y aún propiedad del gobierno municipal, solo en arriendo y no en venta. Si no se vende durante cien años, el stock sigue siempre en manos públicas. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG).\_
+![Sección central de la vivienda social Karl-Marx-Hof en el distrito 19 de Viena, una fila de fachadas rojas y amarillas con estilo de torre conmemorativa, un complejo de viviendas municipales de un kilómetro de largo](/article-images/society/vienna-karl-marx-hof.webp)
+_El complejo Karl-Marx-Hof en Viena; terminado en 1933, sigue siendo propiedad del ayuntamiento y se alquila sin opción a venta. Al no venderse en cien años, el inventario permanece en manos públicas. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Esta confrontación entre centro y gobierno local discute, en el fondo, una pregunta que debió responderse hace cincuenta años y que siempre se esquivó: ¿debe el gobierno ayudar a la gente a “comprar”, o a “arrendar”?
+Este choque entre el gobierno central y el local trata sobre una pregunta que debería haberse respondido hace cincuenta años, pero de la que siempre se ha evitado hablar: ¿debe el gobierno ayudar a la gente para que pueda «comprar» o ayudarla para que pueda «alquilar»?
 
 ## Cincuenta años después, Taiwán aprende a instalar la compuerta
 

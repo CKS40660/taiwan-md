@@ -2,9 +2,7 @@
 title: "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'"
 description: "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año."
 date: 2026-06-24
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '植物'
 tags:
   [
     'taiwania',
@@ -18,17 +16,21 @@ tags:
     'LiDAR',
     'cordillera Hsuehshan',
   ]
-readingTime: 15
+subcategory: '植物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-24
 lastHumanReview: false
-featured: false
-translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d645338641d89664'
-sourceBodyHash: 'sha256:5dcfd938f21ea513'
-translatedAt: '2026-06-25T00:43:06+08:00'
+researchReport: 'reports/research/2026-06/大安溪倚天劍.md'
 image: '/article-images/nature/taiwania-nantou-shihchuan.webp'
 imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
+readingTime: 15
+relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
+translatedFrom: 'Nature/大安溪倚天劍.md'
+sourceCommitSha: 'a8f7c4e08'
+sourceContentHash: 'sha256:e26a95dae7cf552e'
+sourceBodyHash: 'sha256:b680f8b344c7bf2d'
+translatedAt: '2026-10-13T01:11:54.633037+00:00'
 ---
 
 > **Resumen en 30 segundos:** En Taiwán hay un árbol de 84,1 metros de altura, aproximadamente como un edificio de 28 pisos, y es el árbol más alto conocido actualmente en Asia Oriental[^1]. Se llama «Espada Yitian del río Da'an» y es un taiwania (_Taiwania cryptomerioides_). Crece en una quebrada profunda de la cabecera del río Da'an, a unos 1.650 metros de altitud, y se estima que ha vivido setecientos u ochocientos años[^2]. Durante el Año Nuevo Lunar de 2023, el equipo de «Buscadores de Árboles» remontó el río durante siete días, con temperaturas nocturnas que bajaron a -2 °C, hasta trepar a su copa y dejar caer una cinta métrica para obtener esa cifra[^3]. Lo más contraintuitivo es esto: en una isla barrida cada año por tifones, de geología frágil, propensa a derrumbes e inundaciones, una altura así en teoría no debería existir. Pudo alcanzar los 84 metros y sobrevivir más de setecientos años precisamente porque se escondía en un valle fluvial casi inaccesible para los humanos. Esa misma condición de «inaccesible» le permitió escapar de la gran tala durante el período japonés y la posguerra, y también hizo que tardáramos casi diez años, escaneando toda la isla con láser, en verlo por primera vez ese año[^4].
@@ -73,61 +75,63 @@ _Ramas, hojas y porte recto del taiwania: el tronco es recto y el corazón no es
 
 Entonces, ¿por qué sobrevivió el taiwania más alto? La respuesta no está en el árbol mismo, sino en el lugar donde está de pie.
 
-## Ocultarse es sobrevivir
+## El refugio como supervivencia
 
-La Espada Yitian crece en la cabecera del río Da'an, en una quebrada profunda a unos 1.650 metros de altitud[^13]. Para llegar allí hay que remontar el río Da'an unos 20 kilómetros, cruzar corrientes de gran caudal, trepar acantilados abruptos propensos a desprendimientos de rocas, subir primero casi mil metros y luego descender más de mil: una ruta que incluso montañistas experimentados podrían no lograr completar[^14]. La investigadora Hsu Chia-chun describe así los lugares donde se encuentran estos árboles gigantes: «Los sitios donde están estos árboles gigantes son ambientes a los que incluso montañistas experimentados tienen grandes dificultades para llegar»[^15].
+La Espada Yitian crece en un profundo valle en la cabecera del río Da'an, a unos 1.650 metros de altitud[^13]. Para llegar allí, es necesario remontar el río Da'an durante unos 20 kilómetros, cruzar corrientes de agua caudalosas y escalar acantilados escarpados propensos a desprendimientos de rocas; primero hay que subir casi mil metros y luego descender otros mil metros. Es una ruta que incluso los montañistas experimentados podrían no ser capaces de recorrer[^14]. La investigadora Hsu Chia-chun describe el hábitat de estos árboles gigantes: «El lugar donde se encuentran estos árboles gigantes es un entorno al que incluso los montañistas experimentados tienen grandes dificultades para llegar».[^15]
 
-Precisamente esa condición de «inaccesible» se convirtió en su talismán de supervivencia.
+Precisamente ese hecho de ser «inalcanzable» se convirtió en su amuleto de supervivencia.
 
-Desde el período japonés hasta la posguerra, Taiwán atravesó una ronda tras otra de tala masiva; los cipreses y taiwanias de Alishan, Taipingshan y Pahsien Mountain fueron bajados de la montaña por sectores enteros. Pero la maquinaria de tala tenía límites físicos: talaba donde se podían abrir caminos y sacar la madera. Al despeñadero y la quebrada profunda de la cabecera del río Da'an no llegaban ni los cables de transporte ni los camiones, y por eso este árbol gigante de 84 metros quedó en pie. Se escondió lo bastante profundo, y por eso sobrevivió.
+Desde la época del dominio japonés hasta la posguerra, Taiwán experimentó oleadas tras oleadas de tala a gran escala; los cipreses de Alishan, Taipingshan y el monte Hsien (Baxianshan) fueron transportados montaña abajo en grandes extensiones. Sin embargo, la maquinaria forestal tiene un límite de alcance: solo tala donde hay caminos para entrar y medios para sacar la madera. En el profundo valle de acantilados de la cabecera del río Da'an, ni los teleféricos de carga ni los camiones podían llegar; por ello, este gigante de 84 metros fue dejado atrás. Se escondió lo suficientemente profundo como para sobrevivir.
 
-Hsu Chia-chun resume esta lógica con precisión: «El lugar donde está la Espada Yitian comparte rasgos con otros árboles gigantes descubiertos: se encuentra en bosque primario no talado y en un valle fluvial que puede resguardarse de los tifones»[^16]. Esa frase explica al mismo tiempo su altura y su longevidad. La topografía del valle lo protegió del impacto frontal de los tifones, impidiendo que se quebrara por el viento como los grandes árboles de las crestas; el bosque primario no talado le dio la oportunidad de convertir el tiempo en altura.
+Hsu Chia-chun explica esta lógica con precisión: «La ubicación de la Espada Yitian presenta características similares a las de otros árboles gigantes descubiertos anteriormente: se encuentra en un bosque primario no talado y en un valle que permite resguardarse de los tifones».[^16] Esta frase resuelve dos cuestiones a la vez: la altura y la longevidad. La topografía del valle lo protegió del impacto directo de los tifones, evitando que el viento lo quebrara como ocurre con los árboles situados en las crestas; mientras que el bosque primario no talado le dio la oportunidad de acumular tiempo para ganar altura.
 
 ![Bosque de niebla en el Parque Nacional Shei-Pa](/article-images/nature/shei-pa-cloud-forest.webp)
-_Cinturón de bosque de niebla en el Parque Nacional Shei-Pa: un ambiente de alta humedad, con niebla por la tarde y unos 3.000 milímetros de lluvia anual, clave para que el taiwania pueda llevar agua hasta una copa a 80 metros. Foto: Wikimedia Commons, CC BY-SA 4.0_
+_El bosque de niebla del Parque Nacional Shei-Pa: un entorno de alta humedad con niebla por las tardes y una precipitación anual de unos 3.000 mm es clave para que el taiwania pueda transportar agua hasta la copa de 80 metros. Photo: Wikimedia Commons, CC BY-SA 4.0_
 
-Desde el punto de vista científico, que el taiwania pueda crecer tanto depende de la superposición de tres factores. El primero es la alta humedad del bosque de niebla: el taiwania se distribuye naturalmente entre 1.500 y 2.400 metros de altitud, en una franja nubosa con unos 3.000 milímetros de lluvia anual[^17]. La niebla se forma por la tarde y el agua de niebla puede ser absorbida directamente por las hojas, lo que ayuda a resolver el enorme desafío de presión de la columna de agua necesaria para llevar agua desde las raíces hasta una copa a 80 metros. El segundo factor es la combinación entre valles protegidos de tifones y ventaja pionera en zonas de derrumbe: las semillas del taiwania son pequeñas y pueden dispersarse lejos con el viento; sus plántulas aparecen a menudo en derrumbes y troncos caídos de los valles. Es una especie pionera amante de la luz, y cuando un derrumbe abre un claro y entra el sol, se lanza primero hacia arriba[^18]. El tercero es que ocultarse es sobrevivir: la inaccesibilidad del terreno le permitió escapar de las sierras humanas.
+Científicamente, que el taiwania pueda alcanzar tal altura se debe a la combinación de tres factores. Primero, la alta humedad del bosque de niebla: el taiwania se distribuye naturalmente en una franja de nubes entre los 1.500 y 2.400 metros de altitud, con una precipitación anual de unos 3.000 mm[^17]. La formación de niebla por las tardes permite que la superficie de las hojas absorba el agua directamente, lo que resuelve el problema de la enorme presión de la columna de agua necesaria para llevarla desde las raíces hasta la copa de 80 metros. Segundo, la topografía del valle que protege de los tifones sumada a su ventaja como especie pionera en zonas de desprendimiento: las semillas del taiwania son diminutas y pueden dispersarse a largas distancias con el viento; las plántulas suelen caer en terrenos de desprendimientos o sobre madera caída en los valles, donde actúan como una especie pionera amante de la luz. Una vez que un desprendimiento abre un claro en el bosque y la luz solar penetra, la planta crece rápidamente[^18]. Tercero, el refugio como supervivencia: su inaccesibilidad geográfica permitió que escapara de las sierras humanas.
 
-El _Chamaecyparis formosensis_ evitó la tala gracias a su corazón hueco; el taiwania la evitó gracias a despeñaderos inaccesibles. Las dos clases de árboles gigantes más antiguos de esta isla escaparon de la misma era de tala por medios completamente distintos.
+Mientras que el ciprés rojo (_Chamaecyparis obtusa_) evitó la tala gracias a sus troncos huecos, el taiwania lo hizo gracias a los acantilados del terreno; las dos especies de árboles gigantes más antiguos de esta isla evitaron la misma era de deforestación mediante dos métodos completamente distintos.
 
 ```tw-stat
-84,1 metros | Altura de la Espada Yitian | Unas 28 plantas, el árbol más alto de Asia Oriental
-Unos 8,5 metros | Circunferencia del tronco | Hacen falta varias personas para rodearlo
-Estimados 700-800 años | Edad | Estimada a partir de la circunferencia; sin datación por núcleo
-941 árboles | Árboles gigantes de más de 65 metros localizados en Taiwán | Hasta fines de 2022
+84,1 metros | Altura de la Espada Yitian | Equivale a unos 28 pisos; el árbol más alto de Asia Oriental
+Aprox. 8,5 metros | Circunferencia | Se requiere de varias personas para rodearlo
+Est. 700–800 años | Edad estimada | Estimación basada en la circunferencia, sin datación por extracción de núcleos
+941 árboles | Gigantes de >65 m localizados en Taiwán | Hasta finales de 2022
+Fuente: Mediciones del equipo Buscadores de Árboles (altura 84,1 m, circunferencia aprox. 8,5 m) y estimaciones de edad citadas en este artículo, junto con datos de localización de árboles gigantes en Taiwán[^1][^6][^19][^20]
 ```
 
-Sobre esos setecientos años hay que poner una cifra sobre la mesa. Se estima que la Espada Yitian tiene «unos 700 a 800 años»: esa cifra se calculó a partir de su circunferencia, de unos 8,5 metros, y de la tasa de crecimiento del taiwania; no se extrajeron realmente anillos de crecimiento para fecharlo[^19]. Algunos reportes internacionales de 2026 incluso dijeron que tenía «casi mil años»[^20], una cifra más antigua que quizá provenga de otro método de estimación. La estimación por circunferencia tiene incertidumbre: el árbol sagrado Shuishan de Alishan fue estimado alguna vez en 2.700 años, pero después de que la Oficina Forestal extrajo un núcleo, la edad fue corregida a 1.081 años, con un error de más de mil seiscientos años[^21]. Por eso, en el caso de la Espada Yitian, la formulación más responsable es esta: se estima en setecientos u ochocientos años y quizá sea más viejo, pero hasta que alguien estudie realmente sus anillos, sigue siendo una cifra con signo de interrogación.
+Sobre esos setecientos años, hay una cifra que debe aclararse. Se estima que la Espada Yitian tiene «entre 700 y 800 años»; este número se calculó a partir de su circunferencia de unos 8,5 metros sumada a la tasa de crecimiento del taiwania, pero no se realizó una datación real mediante la extracción de anillos de crecimiento[^19]. Algunos informes internacionales de 2026 incluso mencionan que tiene «casi mil años»[^20], una cifra aún mayor que podría provenir de otro método de estimación. La estimación por circunferencia tiene su incertidumbre: el árbol sagrado de Wushanshan en Alishan fue estimado alguna vez en 2.700 años, pero tras la extracción de un núcleo por parte de la Oficina Forestal, se corrigió a 1.081 años, con un error de más de 1.600 años[^21]. Por tanto, respecto a la Espada Yitian, la afirmación más responsable es: se estima que tiene entre setecientos y ochocientos años, aunque podría ser más viejo; pero hasta que alguien extraiga realmente sus anillos, esta cifra seguirá siendo un interrogante.
 
-## Los buscadores de árboles y unos ojos que pasaron la vida buscándolos
+## Los buscadores de árboles y los ojos que pasaron una vida buscándolos
 
-La Espada Yitian fue «encontrada». Y la historia de cómo se la encontró comienza una tarde en que se rompieron unos zapatos.
+La «Espada Yitian» fue «encontrada». Y la historia de su hallazgo comienza una tarde en la que se le rompió el calzado.
 
-En 1994, Hsu Chia-chun recorrió por primera vez la ruta Nenggao. El cuarto día, con los zapatos ya estropeados, se apoyó exhausta junto a la presa Chilai para descansar, pero su mirada quedó atrapada por un árbol gigante en el valle de enfrente: era un taiwania. Al ver su silueta imponente, contó que, además de asombro, de pronto sintió fuerzas para seguir caminando[^22]. En ese momento no sabía aún que esa imagen la acompañaría por el resto de su vida.
+En 1994, Hsu Chia-chun recorrió por primera vez la ruta Nenggao-Yue嶺. Al cuarto día, con las botas ya destrozadas, descansaba agotada junto a la presa Chilai, cuando su mirada fue capturada por un gigante en el valle frente a ella: era un taiwania. Al contemplar la imponente silueta de aquel árbol, sintió que, más allá de la conmoción, recuperaba repentinamente las fuerzas para seguir adelante[^22]. En aquel momento, no sabía que esa imagen guiaría el resto de su vida.
 
-Aquel árbol era en realidad otro árbol. La Espada Yitian está en la cabecera del río Da'an, otro lugar y otro taiwania. Pero aquel taiwania frente a la presa Chilai en 1994 fue el punto de partida de ese acto de «ver». Hsu estudió después botánica en la Universidad Nacional de Taiwán, obtuvo un doctorado en Ámsterdam y entró al Instituto de Investigación Forestal para estudiar epífitas del dosel, convirtiéndose en una de esas personas que pasan la vida tratando con árboles en las alturas[^23].
+En realidad, ese árbol era otro. La Espada Yitian se encuentra en la cabecera del río Da'an, pero es un ejemplar distinto a aquel que vio en 1994. Sin embargo, aquel taiwania frente a la presa Chilai fue el punto de partida de todo este proceso de «ver». Más tarde, Hsu Chia-chun estudió Botánica en la Universidad Nacional de Taiwán, obtuvo un doctorado en Ámsterdam y se incorporó al Instituto de Investigaciones Forestales para estudiar las plantas epífitas del dosel forestal, convirtiéndose en una persona que dedicaría su vida a interactuar con las copas de los árboles[^23].
 
-La búsqueda sistemática del «árbol más alto de Taiwán» comenzó realmente en 2014. Ese año, el equipo de Hsu visitó las «tres hermanas» taiwania del Área de Conservación de Chilan e inició formalmente el camino de la búsqueda de árboles gigantes[^24]. Desde 2014, localizaron, treparon y midieron con cinta 22 árboles gigantes de más de 40 metros[^8]. Pero buscar árbol por árbol a pie era demasiado lento. Esta isla es demasiado grande y sus quebradas demasiado numerosas. Hsu Chia-chun lo dijo así: «Muchos árboles están en lugares deshabitados; solo abrir camino cortando maleza por cuenta propia toma más de diez días»[^25].
+La búsqueda sistemática del «árbol más alto de Taiwán» comenzó en 2014. Ese año, el equipo de Hsu Chia-chun visitó a las «Tres Hermanas», un grupo de taiwanias en la zona de conservación de Qilan, marcando el inicio oficial de su camino hacia los gigantes forestales[^24]. Desde 2014, han localizado, escalado y medido con cinta métrica un total de 22 árboles que superan los 40 metros de altura[^8]. Pero buscar uno a uno a pie era demasiado lento. La isla es demasiado grande y hay demasiados valles profundos; como dice la propia Hsu Chia-chun: «Muchos árboles están en lugares deshabitados; solo abrir camino cortando maleza por cuenta propia toma más de diez días»[^25].
 
-El punto de inflexión llegó con una serie de datos láser. En la década de 2010, el Ministerio del Interior obtuvo gradualmente escaneos LiDAR aerotransportados de todo Taiwán después del tifón Morakot; desde 2016, el equipo de Wang Chi-kuei, del Departamento de Geomática de la Universidad Nacional Cheng Kung, inició además una segunda campaña de escaneo a gran escala[^26]. En 2019, Hsu Chia-chun y Wang Chi-kuei formaron oficialmente el «Proyecto Mapa de Árboles Gigantes - Buscadores de Árboles», transformando las nubes de puntos láser en mapas de zonas calientes de árboles gigantes que podían analizarse sistemáticamente[^27].
+El punto de inflexión llegó con los datos láser. En la década de 2010, tras el tifón Morakot, el Ministerio del Interior obtuvo progresivamente escaneos LiDAR aéreos de todo Taiwán; a partir de 2016, el equipo de Wang Chi-kuei, del Departamento de Topografía e Información Espacial de la Universidad Nacional de Éxito, inició un segundo escaneo a gran escala[^26]. En 2019, Hsu Chia-chun y Wang Chi-kuei formaron oficialmente el proyecto «Buscadores de Árboles: Mapa de Árboles Gigantes», transformando las nubes de puntos láser en mapas de zonas calientes que permiten identificar sistemáticamente los árboles gigantes[^27].
 
 ```tw-timeline
-1994 | La tarde de los zapatos rotos | Hsu Chia-chun recorre Nenggao; un taiwania en el valle frente a la presa Chilai se convierte en el punto de partida de «ver»
-2014 | Comienza la búsqueda del árbol más alto | Visita a las tres hermanas de Chilan; desde entonces trepan y miden 22 árboles gigantes de más de 40 metros
-2016 | Arranca el segundo escaneo | El equipo de Wang Chi-kuei, de Cheng Kung, vuelve a escanear los bosques de Taiwán con LiDAR aerotransportado
-2019 | Se forma Buscadores de Árboles | Hsu Chia-chun x Wang Chi-kuei constituyen formalmente el proyecto de mapa de árboles gigantes, con doble vía de láser y ciencia ciudadana
-2020 | El público interpreta los datos | Cientos de ciudadanos analizan en línea más de 50.000 perfiles LiDAR y descartan decenas de miles de falsos positivos del algoritmo
-2022 | Un mapa insular de árboles gigantes | Se localizan 941 árboles gigantes de más de 65 metros en Taiwán
-2023 | La Espada Yitian sale de la vaina | Siete días de remontar ríos durante el Año Nuevo confirman que 55214 mide 84,1 metros, el árbol más alto de Asia Oriental
-2026 | Entra en una revista internacional | El proceso de medición aparece en Frontiers, con cobertura simultánea de CNN y Mongabay
+1994 | Una tarde con las botas rotas | Hsu Chia-chun recorre Nenggao-Yue嶺; un taiwania en el valle frente a la presa Chilai es el inicio de todo.
+2014 | Comienza la búsqueda del más alto | Visita a las «Tres Hermanas» de Qilan; desde entonces se han medido 22 gigantes de >40 m.
+2016 | Segundo escaneo | El equipo de Wang Chi-kuei (NCESU) vuelve a escanear los bosques de Taiwán con LiDAR aéreo.
+2019 | Creación de Buscadores de Árboles | Hsu Chia-chun × Wang Chi-kuei forman el proyecto del mapa de gigantes, combinando láser y ciencia ciudadana.
+2020 | Interpretación colectiva | Cientos de ciudadanos interpretan online más de 50.000 perfiles LiDAR, filtrando miles de errores algorítmicos.
+2022 | Un mapa de gigantes de la isla | Localización de 941 árboles en todo Taiwán que superan los 65 metros.
+2023 | La Espada Yitian sale de la vaina | Tras 7 días remontando el río en el Año Nuevo Lunar, se confirma el n.º 55214 = 84,1 m, el árbol más alto de Asia Oriental.
+2026 | Publicación internacional | El proceso de medición aparece en Frontiers; reportado simultáneamente por CNN y Mongabay.
+Fuente: Proyecto Mapa de Árboles Gigantes de Buscadores de Árboles y entrevistas a Hsu Chia-chun, así como registros de escaneo LiDAR del Ministerio del Interior y el equipo de Wang Chi-kuei (NCESU)[^8][^22][^24][^25][^26][^27]
 ```
 
-El láser por sí solo no bastaba. Entre los puntos candidatos filtrados inicialmente por el algoritmo, la tasa de error era absurdamente alta: más del 90% de los «árboles altos» marcados por la máquina eran en realidad errores de cálculo[^28]. Así que en 2020 el proyecto hizo algo muy taiwanés: subió más de 50.000 perfiles LiDAR a una plataforma de ciencia ciudadana para que cientos de personas los analizaran en línea, usando los ojos de la multitud para eliminar, imagen por imagen, decenas de miles de falsos positivos del algoritmo[^28]. Para incentivar la participación, la plataforma incluso diseñó insignias de avance; quien encontrara el árbol más alto podía obtener el derecho a nombrar ese árbol gigante[^29].
+El láser por sí solo no era suficiente. Entre los candidatos seleccionados por los algoritmos, la tasa de error era absurdamente alta: más del 90 % de los «árboles altos» marcados por las máquinas eran en realidad errores de cálculo[^28]. Así que, en 2020, el proyecto hizo algo muy propio de Taiwán: subió más de 50.000 perfiles LiDAR a una plataforma de ciencia ciudadana para que cientos de personas pudieran interpretarlos online, confiando en los ojos de la multitud para descartar, perfil por perfil, las decenas de miles de errores del algoritmo[^28]. Para incentivar la participación, la plataforma incluyó insignias de progreso; incluso quienes encontraran el árbol más alto podían obtener el derecho de nombrarlo[^29].
 
-El láser recorrió toda la isla, los ojos ciudadanos filtraron una imagen tras otra y luego una persona trepó a la copa para cerrar el caso con una cinta métrica. La Espada Yitian fue la cifra final que salió de toda esa cadena técnica. Para fines de 2022, el _Mapa de Árboles Gigantes de Taiwán_ ya había marcado 941 árboles de más de 65 metros en toda la isla[^30]. El número 55214 era una de esas coordenadas.
+El láser recorre toda la isla, los ojos de los ciudadanos filtran cada perfil y, finalmente, una persona escala hasta la copa para confirmarlo con una cinta métrica. La Espada Yitian es el número resultante de toda esa cadena tecnológica. Para finales de 2022, el «Mapa de Árboles Gigantes de Taiwán» ya había señalado 941 ejemplares de más de 65 metros[^30]. El número 55214 es una de esas coordenadas.
 
-> **📝 Nota curatorial**
-> «Encontrar el árbol más alto de la isla» requiere mucho más que un árbol extraordinario. Requiere un avión que escanee toda la isla, un algoritmo láser, cientos de desconocidos interpretando perfiles frente a una computadora, varios integrantes indígenas guiando la ruta, un grupo de científicos dispuestos a remontar ríos durante siete días para trepar un árbol y, al final, una cinta métrica. La Espada Yitian fue «vista» recién en 2023, pero ese «ver» fue el proceso por el cual una isla entera, durante diez años, volvió a reconocerse a sí misma.
+> **📝 Nota del curador**
+> «Encontrar el árbol más alto de la isla» no requiere solo de un árbol extraordinario. Requiere de un avión que recorra toda la isla, un conjunto de algoritmos láser, cientos de desconocidos frente a sus ordenadores interpretando perfiles, varios miembros de comunidades indígenas guiando el camino, un grupo de científicos dispuestos a remontar ríos durante siete días para escalar y, finalmente, un rollo de cinta métrica. La Espada Yitian fue «vista» apenas en 2023, pero ese acto de «ver» es el proceso de una isla que, tras diez años, se ha vuelto a conocer colectivamente.
 
 ## Los siete días en que salió de la vaina
 
