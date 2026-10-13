@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
-last_updated: 2026-10-11
-last_session: '2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-10-13
+last_session: '2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -177,57 +177,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### 傅兆玄 NEW — 台灣男子田徑隔 60 年的亞運金牌
-
-- **Type**: `NEW`
-- **Category**: People
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-10-11 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-10-11.md T1-A）
-- **Angle-expires**: 2026-10-25（亞運 10-04 閉幕後三週，賽後報導與搜尋退場；人物條目本身常青，過期後改從生涯的受傷循環開場，不再用奪金當天的鉤子）
-- **Notes**:
-  - 名古屋亞運男子跳高決賽，雨天濕滑場地 2 公尺 25 一跳就過、2.28 三次失敗，靠首跳成功擊退印度選手奪金；報導稱這是台灣男子田徑自 1966 年曼谷亞運吳阿民十項全能之後的第一面亞運金牌，也是台灣亞運男子跳高首金；賽前目標是銅牌。2002-12-14 出生、身高 195 公分，成年後長年在受傷、恢復、比賽之間循環
-  - **缺口確認**：`find knowledge -maxdepth 2 -name "*.md" -path "knowledge/[A-Z]*" | grep 傅兆玄` = 0；`grep -rl 傅兆玄 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 吳阿民` = 0；ARTICLE-INBOX / DONE-LOG `grep 傅兆玄` = 0
-  - **人在哪**：傅兆玄本人（「最強定心丸」那段賽後感謝）、場邊的教練團、1966 年的吳阿民（上一個拿亞運金牌的台灣男子田徑選手，60 年前的十項全能）、同場的印度銀牌選手、國訓中心田徑隊
-  - 切角：從雨裡 2.25 那一跳開場；往回走受傷循環與賽前只求銅牌；主脊放「60 年前那面金牌是十項全能，這一面是單項跳高」，把台灣田徑在亞洲的位置當背景；收在洛杉磯奧運的資格標準。可跟上方〈王冠閎〉同一班寫成一組（同一屆、同一種「站上沒有名字」）
-  - **必驗**：2.25 與名次回世界田聯（World Athletics）或大會官方成績；「60 年」的起點（吳阿民 1966 十項全能金牌屆別、項目）與「男子田徑」範圍（是否含接力、競走）；出生日與身高；印度選手姓名與成績；國光獎金數字
-  - 敏感度低：立體群像，不寫「台灣之光」腔；中國與印度選手寫成同場對手
-- **Reference**: [NOWnews](https://www.nownews.com/news/6878616) / [公視](https://news.pts.org.tw/article/828902) / [民報](https://www.peoplenews.tw/?p=57977) / [鏡週刊轉三立](https://www.mirrormedia.mg/external/setn_1913907)
-
-### 王冠閎 NEW — 台灣男子游泳在亞運的第一面金牌
-
-- **Type**: `NEW`
-- **Category**: People
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-A）
-- **Angle-expires**: evergreen（2026-10-08 心跳改：賽後兩週窗口 10-09 到期前沒有寫作班接得到，twmd-rewrite-daily 停用中；主脊「教練是上一個站上去的人」本來就不靠時效，寫的時候照原切角從觸牆開場、收在洛杉磯奧運資格線）
-- **Notes**:
-  - 9/25 名古屋亞運男子 200 公尺蝶式決賽 1 分 55 秒 05 奪金（預賽到決賽快 4 秒 35；中國徐放 1:55.65 銀、韓國金敏燮 1:55.94 銅），台灣男子游泳亞運首金；上屆杭州同項銀牌，是繼現任教練黃智勇之後相隔 25 年的男泳亞運獎牌
-  - **缺口確認**：`find knowledge … | grep 王冠閎` = 0；`grep -rl 王冠閎 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 游泳` 15 篇全是順帶一提，沒有一篇寫台灣競技游泳；INBOX / DONE-LOG = 0
-  - **人在哪**：王冠閎本人（賽後「人生最美好的比賽」）、教練黃智勇（上一個站上亞運頒獎台的台灣男泳，25 年後位置對調）、同池對手徐放與金敏燮、學生時期泳隊、游泳協會（選訓與移訓經費）
-  - 切角：從觸牆那 0.60 秒開場；往回走黃智勇那一代、杭州那面銀、這三年改了什麼；主脊放「教練是上一個站上去的人」，訓練環境當背景不當勵志素材；收在洛杉磯奧運資格線。立體群像，不寫「台灣之光」腔
-  - **必驗**：三個成績回世界泳聯官方成績；「男子首金」的精確範圍（女子是否有過亞運游泳金牌）；黃智勇獎牌屆別項目年份；杭州銀牌成績；出生年與學歷
-  - 時效：賽後兩週（10 月上旬前）
-- **Reference**: [中央社](https://www.cna.com.tw/news/aspt/202609250183.aspx) / [聯合](https://udn.com/news/story/124981/9777777) / [自由體育](https://sports.ltn.com.tw/news/breakingnews/5586208) / [華視](https://news.cts.com.tw/cts/sports/202609/202609263083123.html)
-
-### 勇鷹高教機 NEW — 66 架交完，國機國造的第二次
-
-- **Type**: `NEW`
-- **Category**: Technology
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-B）
-- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：交機新聞的窗口已過，主脊「隔三十年第二次自己造飛機」不靠時效；年底國防預算審查若出現國造戰機接續案新聞，再拿來當開場）
-- **Notes**:
-  - 9/24 最後兩架（1165、1166）從台中出廠，漢翔董事長曹進平親自飛交岡山空軍官校，66 架全數交付、提前達成；首架原型機 2019-09-24 出廠，收尾正好同一天；報導稱 80% 以上從 IDF 經國號重新設計、國產化率逾 55%；量產結束後漢翔轉做全壽期後勤
-  - **缺口確認**：`find knowledge … | grep 勇鷹` = 0；`grep -rl 勇鷹 knowledge/[A-Z]*/*.md` = 0；`grep -rl "經國號\|IDF\|漢翔"` 5 篇（看不見的國家／高速公路／莫那·魯道／台灣無人機產業／國家太空中心）都只是順帶；INBOX / DONE-LOG = 0
-  - **人在哪**：曹進平（自己飛最後一架的人）、首批用勇鷹受訓的官校學員與教官、IDF 與勇鷹兩個計畫都參與過的中科院／漢翔工程師、台中與岡山的供應鏈廠商、AT-3 退役前最後一批飛它的人
-  - 切角：從曹進平降落岡山那一刻開場；往回走 AT-3 老化、2017 年定案國造、從 IDF 重新設計、55% 國產化的意思（哪 45% 還靠進口）、2019 年同一天首架出廠；主脊放「一個國家第二次自己造飛機，中間隔了三十年」；收在國造戰機接續案討論，不預測結果
-  - **必驗**：66 架、編號、2019-09-24 回漢翔與國防部原始新聞稿；80% / 55% 的口徑與出處；計畫總預算；AT-3 服役與退役時程；IDF 量產年份與架數；「提前」提前多久
-  - 敏感度低到中：寫產業與人，不寫戰力比較或兩岸對峙腔；「國機國造」當政策專有名詞引用
-- **Reference**: [中央社](https://www.cna.com.tw/news/aipl/202609240096.aspx) / [經濟日報](https://money.udn.com/money/story/5612/9775084) / [聯合](https://udn.com/news/story/10930/9775195) / [壹蘋](https://news.nextapple.com/finance/20260924/5208D31070B73CDD25E0D0323722F531)
-
 ### 台灣電價機制與台電 NEW — 電價凍漲的帳單：台電、電價審議會與 711 億撥補
 
 - **Type**: `NEW`
@@ -244,40 +193,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **必驗**：12.83% / 4.2675 元回經濟部新聞稿；711 億計算基準與追加預算案文；210 億 / 4,000 億回台電財報；3.7823 元的口徑；2015 年公式化的正式名稱
   - 敏感度低，但選舉年攻防點：寫機制不寫立場，兩黨主張並排
 - **Reference**: [公視](https://news.pts.org.tw/article/827713) / [今周刊](https://www.businesstoday.com.tw/article/category/183027/post/202609180046/) / [自由財經](https://ec.ltn.com.tw/article/breakingnews/5578680) / [經濟日報](https://money.udn.com/money/story/7307/9763388)
-
-### 台灣拔河 NEW — 拔河王國：女子 500 公斤怎麼連霸五次
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-B）
-- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：世錦賽賽後兩週的搜尋窗口在無人派工下已關；「拔河王國」主脊常青，開場改用最近一屆世錦賽畫面）
-- **Notes**:
-  - 9/18 世界室外拔河錦標賽（南非莫賽爾灣）女子 500 公斤五連霸（決賽對德國第一局僵持四分鐘、只差 50 公分時德國第三次犯規）、青少女 480 公斤四連霸、男子 600 公斤首面室外世錦賽獎牌；今年室內世錦賽台灣 9 金、男子 640 公斤級賽史首冠
-  - **缺口確認**：`find knowledge … | grep 拔河` = 0；`grep -rl 拔河` 4 篇命中全是比喻用法；〈台灣體育發展與奧運〉不提拔河；INBOX / DONE-LOG = 0
-  - **人在哪**：決賽場上八位選手（拔河協會賽後名單）、教練團、景美女中拔河隊創隊教練郭昇、《志氣》（2013）導演張柏瑞、國訓中心「非奧運項目」選手、青少女隊還在念書的高中生
-  - 切角：從決賽那四分鐘開場；往回走 2004 年景美女中成軍、2010 年世界盃、2013 年電影、女子 500 公斤級五連霸怎麼接棒；主脊放「一個不在奧運裡的世界冠軍怎麼養出來」，把訓練文化（腰繩、重心、八個人一起倒下）當可視物件；收在青少女隊
-  - **必驗**：五連霸橫跨哪五屆（室外世錦賽兩年一屆）；室內 9 金的屆別年份；景美女中成軍年與首冠年；郭昇職稱現況；《志氣》上映年；拔河 1900〜1920 曾是奧運項目
-  - 敏感度低；EDITORIAL 不把選手當勵志素材，寫技術與制度
-- **Reference**: [中央社](https://www.cna.com.tw/news/aspt/202609190015.aspx) / [自由體育](https://sports.ltn.com.tw/news/breakingnews/5579133) / [TSNA](https://tsna.com/article/202972) / [商周 室內 9 金](https://www.businessweekly.com.tw/focus/blog/3020903)
-
-### 李灝宇 NEW — 第一個在大聯盟單季 10 轟的台灣球員
-
-- **Type**: `NEW`
-- **Category**: People
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-C）
-- **Angle-expires**: evergreen（2026-10-08 心跳改：例行賽 10-04 已結束，「季末衝刺」切角失效，改寫整季總結；下面 Notes 的 10 轟、28 長打、78 安是 9/18 的中途數字，寫前先回 Baseball Reference 查最終數據與老虎有沒有進季後賽）
-- **Notes**:
-  - 9/18（美國時間）老虎 11-8 勝，李灝宇本季第 10 轟、單場 4 安，同時改寫台灣球員大聯盟單季全壘打（張育成 2021 年 9 轟）、單季長打（28，張育成 26）、單場安打（4）三項紀錄；單季 78 安為大聯盟 23 歲以下亞洲球員史上第二（次於大谷翔平 2018 年 93 安）。例行賽剩兩週、老虎在季後賽邊緣
-  - **缺口確認**：`find knowledge … | grep 李灝宇` = 0；`grep -rl 李灝宇 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；INBOX / DONE-LOG = 0
-  - **人在哪**：本人賽後原話、老虎總教練 A.J. Hinch、張育成（被超越的紀錄保持人、同世代）、穀保家商時期教練、2019 年簽約的老虎球探、台灣轉播球評
-  - 切角：從那顆追平兩分砲開場（打到第二層看台）；穀保家商 → 2019 U-18 → 簽約老虎 → 小聯盟六年 → 2025 升大聯盟 → 今年板凳打到先發；主脊放「台灣野手在大聯盟的天花板是誰畫的」，張育成當對照組；結尾留在季後賽名單未公布。立體群像（MANIFESTO §13），不寫「台灣之光」腔
-  - **必驗**：10 轟 / 28 長打 / 78 安 / 4 安回 Baseball Reference 或 MLB.com box score；張育成 2021 年 9 轟 26 長打；裴智桓 2023 年 77 安；簽約年份與簽約金；出生年與母校
-  - 時效：例行賽 10/4 前後結束，兩週窗口；若晉級季後賽再補一節
-- **Reference**: [聯合](https://udn.com/news/story/6999/9764405) / [中時](https://www.chinatimes.com/realtimenews/20260919002107-260403) / [運動視界](https://www.sportsv.net/articles/128602)
 
 ### 台灣農業現代化發展＋台灣農業與農村再生＋農業科技與精緻農業 EVOLVE — 三篇農業初稿巡邏止血後仍是列點通論，主題重疊該併成一篇立體的農業轉型文
 

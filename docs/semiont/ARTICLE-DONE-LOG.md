@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-09-18
-last_session: '2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-10-13
+last_session: '2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,51 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 傅兆玄 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1807 交稿，非走產線）
+
+- **Article**: [knowledge/People/傅兆玄.md](../../knowledge/People/傅兆玄.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1807 merge），INBOX 條目（2026-10-11 news-lens-weekly（探測器 W41，T1-A））由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：雨中第一次試跳就過 2 公尺 25，印度選手第二次才過、韓國選手兩次都失敗
+- **品質**：1795 CJK ／ 4 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（本班補），仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **腳註抽驗**：本班逐篇 WebFetch 比對原文，見下方附註
+- **本班處置**：本班 heal：`description` 與 `rationale.where_it_hedges` 原本把「跳過同高度」同時綁在印度與韓國選手身上，而公視原文寫「南韓選手兩次試跳都失敗」。正文（30 秒概覽與 §雨裡的第一次試跳）寫法正確，錯只在門面那一行
+
+### 王冠閎 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1806 交稿，非走產線）
+
+- **Article**: [knowledge/People/王冠閎.md](../../knowledge/People/王冠閎.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1806 merge），INBOX 條目（2026-09-27 news-lens-weekly（探測器 W39））由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：1 分 55 秒 05 的台灣亞運男子游泳首金，池邊的教練是 1998 年上一個站上亞運頒獎台的台灣男泳
+- **品質**：2024 CJK ／ 7 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（本班補），仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **腳註抽驗**：本班逐篇 WebFetch 比對原文，見下方附註
+- **本班處置**：本班 heal：H2「醫療團隊搭新幹線趕到名古屋」把方向寫反了（華視原文與本文正文都寫隊醫「從名古屋搭新幹線前來」），改為〈隊醫搭新幹線趕來評估〉
+
+### 勇鷹高教機 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1809 交稿，非走產線）
+
+- **Article**: [knowledge/Economy/勇鷹高教機.md](../../knowledge/Economy/勇鷹高教機.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1809 merge），INBOX 條目（2026-09-27 news-lens-weekly（探測器 W39））由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：66 架交完，國機國造隔了三十年的第二次
+- **品質**：1861 CJK ／ 3 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（本班補），仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **腳註抽驗**：本班逐篇 WebFetch 比對原文，見下方附註
+- **本班處置**：無需 heal；審計部發動機報告與漢翔回應並列、不下判定的寫法與 entry 的敏感度要求一致
+
+### 台灣拔河 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1808 交稿，非走產線）
+
+- **Article**: [knowledge/Society/台灣拔河.md](../../knowledge/Society/台灣拔河.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1808 merge），INBOX 條目（2026-09-20 news-lens-weekly（探測器 routine 首跑））由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：女子 500 公斤級五連霸，一個 1920 年之後就離開奧運的項目
+- **品質**：1946 CJK ／ 3 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（本班補），仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **腳註抽驗**：本班逐篇 WebFetch 比對原文，見下方附註
+- **本班處置**：無需 heal；[^2]（商周轉載中央社）本班的 WebFetch 連不上（連線被拒），室內世錦賽 9 金那一組 claim 未驗到，非判定來源有問題
+
+### 李灝宇 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1810 交稿，非走產線）
+
+- **Article**: [knowledge/People/李灝宇.md](../../knowledge/People/李灝宇.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1810 merge），INBOX 條目（2026-09-20 news-lens-weekly（探測器 routine 首跑））由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：台灣第 19 位大聯盟球員，新人球季 114 場 10 轟改寫五項台灣球員紀錄
+- **品質**：1876 CJK ／ 4 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（本班補），仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **腳註抽驗**：本班逐篇 WebFetch 比對原文，見下方附註
+- **本班處置**：無需 heal；「我的目標從來不是成為最好的台灣選手」是中央社轉底特律新聞報的逐字引語，已對過原文
 
 ### 台灣 BIM 與營建科技 英文版 metadata SEO — 2026-09-20 完成（補登，2026-09-27 twmd-news-lens-weekly 發現 INBOX entry 未收）
 
