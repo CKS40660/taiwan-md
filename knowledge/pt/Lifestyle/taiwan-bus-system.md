@@ -27,16 +27,16 @@ imageCredit: 'Holly Cheng'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_street_scene.jpg'
 datasets:
-  [
-    "{'name': '台灣好行各路線搭乘人次', 'url': 'https://data.gov.tw/dataset/140008'}",
-    "{'name': '機動車輛登記數', 'url': 'https://data.gov.tw/dataset/14208'}",
-  ]
+  - name: '台灣好行各路線搭乘人次'
+    url: 'https://data.gov.tw/dataset/140008'
+  - name: '機動車輛登記數'
+    url: 'https://data.gov.tw/dataset/14208'
 relatedDiary: ['2026-06-25-204254-公車系統']
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: '036f4f3f2'
-sourceContentHash: 'sha256:6350fb8cfb489452'
-sourceBodyHash: 'sha256:03dd96b03caf8931'
-translatedAt: '2026-07-30T22:54:33+08:00'
+sourceCommitSha: 'fc49bdeef'
+sourceContentHash: 'sha256:7d3802fe03c60e03'
+sourceBodyHash: 'sha256:24a950fc8509e96a'
+translatedAt: '2026-10-13T05:59:13.200296+00:00'
 ---
 
 Na manhã de 15 de setembro de 2024, em frente à estação ferroviária de Tunglo, em Miaoli. Mais de 30 pessoas estavam debaixo do sinal de paragem, a mais nova ainda no jardim de infância, a mais velha com 90 anos. Não esperavam o autocarro para ir trabalhar, nem para ir à escola. Esperavam o último autocarro da linha 5658 da Hsinchu Bus.
@@ -68,20 +68,20 @@ Aqui convém bloquear já um contra-argumento na moda. De vez em quando alguém 
 
 Aproveito para clarificar um equívoco comum: muita gente acha que os trabalhadores migrantes são a clientela principal dos autocarros. Não são. Em Taiwan, os trabalhadores migrantes, por política de longa data que restringe a compra de veículos, deslocam-se sobretudo de mota no dia a dia; só em viagens longas de fim de semana é que apanham autocarros rodoviários[^5]. Igualar «vulnerável» a «anda de autocarro» é um preconceito preguiçoso.
 
-## Um bilhete, dois bilhetes, e aquele «bip» outra vez ao sair
+## Bilhetes de um segmento, dois segmentos e o "bipe" ao descer
 
-![Autocarro de piso baixo da Hsingnan Bus de Tainan a circular na Linha Vermelha, com símbolo de acessibilidade e design de chassis baixo na porta](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
-_Autocarro de piso baixo da Hsingnan Bus de Tainan, 2016. O chassis baixo permite a entrada de carrinhos de bebé e cadeiras de rodas, é o indicador duro de «acessibilidade» dos autocarros urbanos. Foto: Nutnse0008, CC BY-SA 4.0 (ver fontes das imagens no final)._
+![Autocarro de piso baixo da Xingnan Bus, em Tainan, circulando na linha principal vermelha; há símbolos de acessibilidade junto à porta e design de piso baixo](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
+_Autocarro de piso baixo da Xingnan Bus, em Tainan, 2016. O piso baixo permite o acesso de carrinhos de bebé e cadeiras de rodas, sendo um indicador essencial de "acessibilidade" nos autocarros urbanos. Photo: Nutnse0008, CC BY-SA 4.0 (ver fontes das imagens no final do artigo)._
 
-Há uma coreografia que os taiwaneses sabem desde pequenos e que deixa os estrangeiros perdidos: na paragem tem de se levantar a mão, senão o motorista passa direto. Ao entrar «bip» uma vez, às vezes ao sair tem de se «bip» outra vez. Por trás desta coreografia está um sistema de tarifa mais preciso do que parece.
+Há uma série de movimentos que os taiwaneses fazem desde pequenos, mas que costumam deixar os estrangeiros confusos: é preciso levantar a mão ao chegar à paragem, caso contrário o motorista passa direto sem parar. Ao subir, ouve-se um "bipe"; por vezes, ao descer, é necessário fazer "bipe" novamente. Por trás destes gestos, existe um sistema de tarifação muito mais sofisticado do que se imagina.
 
-A história começa em 1977. Antes disso, os autocarros de Taipé eram cada empresa por si, números de linha, tarifas, bilhetes, tudo diferente. Em 1976, a cidade de Taipé criou o «Comité Preparatório de Operação Conjunta de Autocarros Cívicos» para unificar tudo. A 1 de janeiro de 1977, as linhas 201 e 202 de operação conjunta arrancaram. A 30 de abril do mesmo ano, a primeira fase de 33 linhas entrou em serviço[^6]. Esta «operação conjunta» significava: independentemente da empresa que operasse, os passageiros usavam a mesma numeração de linhas, a mesma tabela de tarifas, o mesmo título de transporte — foi o ponto de partida do sistema de autocarros urbanos de Taiwan.
+A origem deste sistema remonta a 1977. Antes disso, as várias empresas de autocarros em Taipé operavam de forma independente, com números de linha, tarifas e bilhetes totalmente desuniformizados. Em 1976, a cidade de Taipé estabeleceu o "Comité Preparatório para a Cooperação entre Autocarros Públicos e Privados" para unificar estes elementos. Em 1 de janeiro de 1977, as linhas 202 e 202, operadas em regime de cooperação, foram as primeiras a entrar em serviço. Em 30 de abril do mesmo ano, a primeira fase de 33 linhas de autocarros cooperativos começou a operar oficialmente[^6]. O conceito de "cooperação" (聯營) significa que, independentemente da empresa que opere o veículo, os passageiros utilizam o mesmo sistema de numeração de linhas, as mesmas tarifas e o mesmo tipo de bilhete; este foi o ponto de partida do sistema de autocarros urbanos em Taiwan.
 
-A tarifa por secções nasceu daqui. Com a expansão da cidade para Novo Taipé, uma viagem podia atravessar várias zonas tarifárias: o centro antigo conta uma secção, a extensão para a periferia conta duas, três. Os pontos de mudança de secção ficam geralmente em nós de tráfego como a Ponte de Taipé, Shilin, ou perto dos limites entre cidade e condado; as duas paragens antes e depois do ponto ainda contam como uma só secção (chama-se «zona tampão»). Por isso, nas linhas que atravessam secções, entra-se com «bip» e sai-se também com «bip»: o sistema tem de saber quantas secções fez, para cobrar as certas. A dúvida clássica dos amigos estrangeiros — «por que às vezes entra-se pela porta da frente, às vezes pela de trás?» — a resposta também está aqui: onde se entra e sai, se se «bipa» uma ou duas vezes, depende de como aquela linha divide as secções.
+A tarifação por segmentos também nasceu daqui. Com a expansão urbana para Nova Taipé, uma única viagem pode atravessar várias zonas tarifárias: a zona antiga conta como um segmento, enquanto a extensão para a periferia pode contar como dois ou três segmentos. Os pontos de transição são geralmente estabelecidos perto de nós de transporte ou fronteiras municipais, como na Ponte de Taipé ou em Shilin; subir ou descer dentro de duas paragens antes ou depois desses pontos ainda conta apenas como um segmento (o que é chamado de "zona de amortecimento"). É por isso que, ao apanhar uma linha que atravessa diferentes segmentos, é necessário validar o cartão ao entrar e também ao sair: o sistema precisa de saber quantos segmentos percorreu para cobrar o valor correto. A dúvida mais comum dos estrangeiros — «porque é que às vezes se entra pela porta da frente e outras vezes pela porta de trás?» — também tem a sua resposta aqui: onde se entra ou sai, e se valida uma ou duas vezes, depende inteiramente de como aquela linha específica está dividida em segmentos.
 
-O próprio título de transporte também teve a sua evolução. O EasyCard entrou em toda a rede de autocarros a 30 de setembro de 2002[^7], o iPass de Kaohsiung saiu em 2014 com o metro de Kaohsiung[^7]. A validação bidirecional (entrar com «bip», sair também com «bip») entrou na primeira fase a 1 de julho de 2019, na segunda fase a fevereiro de 2020 em toda a rede, com o objetivo de calcular com precisão a tarifa por secções, dar descontos de transbordo e recolher dados de entrada e saída dos passageiros[^8]. Aqui convém bloquear um erro comum: a validação bidirecional é de 2019, não de 2012. O iPass é de 2014, também não de 2012.
+O próprio sistema de bilhética também evoluiu. O EasyCard foi implementado integralmente nos autocarros no final de setembro de 2002[^7], enquanto o iPASS de Kaohsiung foi lançado em 2014, juntamente com o Metro de Kaohsiung[^7]. A validação bidirecional (validar ao entrar e ao sair) foi introduzida em fases: a primeira fase começou a 1 de julho de 2019 e a segunda fase foi implementada totalmente em fevereiro de 2020, com o objetivo de calcular com precisão as tarifas por segmento, oferecer descontos para transferências e recolher dados sobre o fluxo de passageiros[^8]. Aqui, é importante corrigir um erro comum: a validação bidirecional é algo de 2019, não de 2012. O iPASS é de 2014, também não de 2012.
 
-Mas este sistema tem o seu teto. A procura de autocarros urbanos em Taiwan está extremamente concentrada em Taipé e Novo Taipé: em 2020, as duas cidades representavam 73,7% de toda a procura de autocarros urbanos da ilha[^9]. Uma linha tronco de Taipé em hora de ponta passa a cada 4 a 6 minutos, os taipenses queixam-se que esperar 5 minutos é demais. Ao mesmo tempo, nalguma paragem do centro, sul ou leste, pode passar um autocarro por hora, o último às 17h ou 18h. O sistema é o mesmo, mas cai em dois mundos diferentes.
+No entanto, este sistema tem os seus limites. O volume de passageiros dos autocarros urbanos em Taiwan está extremamente concentrado na região de Taipei e Nova Taipé: em 2020, estas duas cidades representaram 73,7% do volume total de passageiros de autocarros urbanos em todo o país[^9]. Numa linha principal de Taipé, durante as horas de ponta, passa um autocarro a cada 4 ou 6 minutos, e os habitantes de Taipé queixam-se se tiverem de esperar 5 minutos. No mesmo instante, numa paragem em zonas do centro, sul ou leste do país, pode passar apenas um autocarro por hora, e o último serviço termina logo às cinco ou seis da tarde. O sistema é o mesmo, mas aplicados a locais diferentes, resultam em duas realidades de vida distintas.
 
 ## O Google sabe quantos minutos faltam para o seu autocarro, porque Taiwan abriu os dados
 
@@ -108,27 +108,28 @@ Este fenómeno chama-se «agrupamento» (bunching), é uma propriedade física d
 
 Para os taipenses, o agrupamento é chatice. Para os do campo, é luxo — nem «dois juntos» chegam a ver, porque o dia todo são só aqueles poucos. Volta-se à fratura invisível cidade-campo: o taipense queixa-se que 5 minutos é demais, porque tem de que se queixar. Quem no campo de Changhua espera 40 minutos, ou tem só dois autocarros no dia, não tem de que se queixar. A mesma palavra mede duas condições radicalmente diferentes. Quem menos escolha tem, menos autocarro apanha — esta frase vai voltar várias vezes neste artigo.
 
-## Como as carrinhas pirata viraram UBus
+## Como os "autocarros clandestinos" se tornaram a United Bus
 
-![Autocarro rodoviário de longa distância da Kuo-Kuang Bus, matrícula KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
-_Autocarro rodoviário de longa distância da Kuo-Kuang Bus, 2026. O seu antecessor foi a Taiwan Bus da Direção de Estradas na era do monopólio, em 2001 mais de mil funcionários reuniram capital para a criar. Foto: Wei Ting Hsu, CC BY-SA 4.0 (ver fontes das imagens no final)._
+![Autocarro de longa distância na autoestrada da Kuo-Kuang Bus, matrícula KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
+_Autocarro de longa distância da Kuo-Kuang Bus, 2026. O seu antecessor foi a Taiwan Bus, durante a era do monopólio da Direção de Estradas; em 2001, foi assumida através de um esforço de capitalização de milhares de funcionários. Photo: Wei Ting Hsu, CC BY-SA 4.0 (ver fontes das imagens no fim do artigo)._
 
-Para perceber por que os autocarros de hoje são assim, há que recuar e ver como passaram de um monopólio para encher as ruas.
+Para entender por que os autocarros são como são hoje, é preciso recuar e ver como o setor passou de um monopólio estatal para uma rede espalhada por todas as ruas.
 
-O transporte rodoviário de Taiwan nasceu em 1946 com a Direção de Estradas da Província de Taiwan. Em 1977, o ramo de passageiros da Direção separou-se e criou a Taiwan Motor Transport (conhecida como Taiwan Bus), no auge tinha mais de 500 linhas, 3.600 viaturas, dezenas de milhares de funcionários[^15]. Era a era do monopólio da Direção de Estradas no transporte rodoviário de longa distância, a geração mais velha lembra-se bem.
+O ponto de partida do transporte rodoviário em Taiwan foi a Direção de Estradas da Província de Taiwan, fundada em 1946. Em 1977, os serviços de autocarro da Direção de Estradas tornaram-se independentes, resultando na criação da Taiwan Bus Company (abreviada como Taiwan Bus). No seu auge, a empresa contava com mais de 500 rotas, 3.600 veículos e dezenas de milhares de funcionários[^15]. Essa foi a era em que a Direção de Estradas detinha o monopólio do transporte rodoviário de longa distância, algo que as gerações mais velhas ainda se lembram.
 
-A viragem deu-se antes e depois do fim da lei marcial. No final dos anos 80, começaram a aparecer nas estradas muitas carrinhas sem licença, «carrinhas pirata», a levar passageiros às escondidas. Em vez de reprimir sem fim, o Ministério dos Transportes optou por orientá-las para a legalidade. A 6 de setembro de 1989, com o nome «UBus» — «comandar os quatro cantos, operação conjunta» — dado pelo então diretor do Instituto de Investigação de Transportes do Ministério, Chang Chia-chu, nasceu a UBus, a primeira empresa legal de autocarros de autoestrada de capital privado[^16]. Uma vez aberto o mercado, a Aloha, a Kamalan, a Capital Bus e outras entraram sucessivamente, o transporte rodoviário de longa distância passou de um monopólio para cem flores.
+A reviravolta ocorreu por volta do período do levantamento da lei marcial. No final da década de 1980, começaram a surgir nas estradas os chamados "autocarros clandestinos" (野雞車), veículos sem licença que faziam transporte privado de passageiros. Em vez de tentar uma repressão impossível de conter, o Ministério dos Transportes optou por orientá-los para a legalização. Em 6 de setembro de 1989, foi fundada a United Bus (統聯客運), nomeada pelo então diretor do Instituto de Investigação de Transportes do Ministério dos Transportes, Chang Chia-chu, com o significado de "liderar todas as direções e operar em conjunto". Esta tornou-se a primeira empresa privada de autocarros de longa distância em autoestradas legalizada em Taiwan[^16]. Assim que o mercado foi aberto, empresas como Hsin Yi, Kavalan, Aloha e Capital Bus juntaram-se sucessivamente à concorrência, transformando o transporte de longa distância de um monopólio estatal num mercado vibrante com dezenas de operadores.
 
 ```tw-timeline
-1946 | Criação da Direção de Estradas da Província de Taiwan | Gestão estatal, monopólio do transporte rodoviário de Taiwan
-1977 | Criação da Taiwan Bus | Ramo de passageiros da Direção separado, auge com dezenas de milhares de funcionários
-1989 | Criação da UBus | Carrinhas pirata legalizadas, primeira empresa privada de autocarros de autoestrada
-2001 | Kuo-Kuang Bus assume | Taiwan Bus com prejuízo anual de 5 mil milhões, mil funcionários reúnem capital e criam a Kuo-Kuang
+1946 | Fundação da Direção de Estradas da Província de Taiwan | Gestão direta do governo, monopólio do transporte rodoviário em Taiwan
+1977 | Criação independente da Taiwan Bus | Separação dos serviços de autocarro da Direção de Estradas; auge com dezenas de milhares de funcionários
+1989 | Fundação da United Bus | Legalização dos autocarros clandestinos; primeira empresa privada de autocarros em autoestradas
+2001 | Assunção da Kuo-Kuang Bus | Taiwan Bus com prejuízo anual de NT$5 mil milhões; mil funcionários capitalizam para fundar a Kuo-Kuang
+Fonte: Registos históricos da Direção de Estradas, da Taiwan Bus e da Kuo-Kuang Bus (Taiwan Bus: mais de 500 rotas, 3.600 veículos, 1.090 funcionários em 2001) e reportagens sobre a fundação da United Bus em 1989[^15][^16]
 ```
 
-O lado público não teve tanta sorte. A Taiwan Bus tinha prejuízos crónicos, cerca de 5 mil milhões por ano cobertos pelo tesouro, com a abertura à concorrência linhas e efetivos encolheram drasticamente[^15]. Em junho de 2001, 1.090 funcionários da Taiwan Bus puseram cada um 300 mil e criaram a Kuo-Kuang Bus, em julho assumiram as 96 linhas originais da Taiwan Bus[^15]. Muitos quadragenários e quinquagenários, sem idade para se reformar, protestaram por isso. O nome «Kuo-Kuang» vem na verdade do modelo estrela da Taiwan Bus de 1967, uma dinastia despede-se deixando a sua insígnia a quem a apanha.
+O lado estatal, no entanto, não teve o mesmo sucesso. A Taiwan Bus registava prejuízos constantes, com perdas anuais de cerca de NT$5 mil milhões cobertas pelo tesouro nacional; após a abertura à concorrência, as rotas e o pessoal diminuíram drasticamente[^15]. Em junho de 2001, 1.090 funcionários da Taiwan Bus contribuíram individualmente com NT$300.000 cada para fundar a Kuo-Kuang Bus que, em julho, assumiu as 96 rotas anteriormente pertencentes à Taiwan Bus[^15]. Muitos funcionários de meia-idade, entre os 40 e 50 anos, que ainda não tinham reunido as condições para a reforma, protestaram contra esta medida. O nome "Kuo-Kuang" (國光), na verdade, provém do modelo de autocarro de prestígio da Taiwan Bus de 1967; foi o fim de uma era, onde um império deixou a sua marca para quem assumiu o seu lugar.
 
-(Esta história institucional é só pano de fundo. A nostalgia turística da Kuo-Kuang até à Kuo-Kuang, os detalhes da anarquia das carrinhas pirata, pertencem a outro artigo sobre autocarros de turismo, aqui servem só de coordenadas leves.)
+(Esta parte sobre a história institucional serve apenas como contexto. A nostalgia turística que vai desde o modelo Chinma até ao Kuo-Kuang, bem como os detalhes da época em que os autocarros clandestinos eram desenfreados, pertencem a outro artigo sobre autocarros de turismo; aqui, serve apenas como ponto de referência.)
 
 ## Sai às 5h30, recolhe às 20h, folga quatro dias por mês
 
@@ -188,31 +189,31 @@ Depois da abertura do HSR em 2007, os passageiros de longa distância do corredo
 
 A consequência mais visível: terminais viraram cidades-fantasma. O segundo andar do Terminal de Taipé viu empresas rescindir, o andar inteiro ficou vazio à espera de arrendatário[^28]; os vários centros de transbordo que Taichung construiu, receia-se que virem elefantes brancos. Perante esta avalanche, a Direção de Estradas arrancou em 2025 o «maior ajuste de rede em 30 anos»[^20], que é ao mesmo tempo reconhecer que a velha rede não aguenta e uma tentativa de baralhar de novo.
 
-## O progresso da cidade, e os seus limites
+## O progresso das cidades e os seus limites
 
-Puxamos a câmara de volta para a cidade, vemos uma cara completamente diferente. O mesmo sistema, na ponta urbana está a dar passos largos, só que cada passo pisa o seu próprio limite.
+Ao voltarmos o olhar para as áreas urbanas, vemos uma face completamente diferente. Com o mesmo sistema, o lado urbano está a dar grandes passos em frente, mas cada passo é dado no limite da sua capacidade.
 
-O primeiro progresso são as linhas tronco. Taipé em 2017-2018 reclassificou a rede em quatro níveis, as linhas tronco em hora de ponta passam a cada 4 a 6 minutos, fáceis de entender, fáceis de esperar, como o metro[^29]. O segundo é o passe mensal TPASS. Nasceu de uma promessa eleitoral de 2022, entrou em vigor em julho de 2023, nos primeiros 3 anos orçamentou 200 mil milhões de orçamento especial: Taipé-Novo Taipé-Keelung-Taoyuan 1.200 NT$/mês, Miaoli-Taichung-Changhua-Nantou 699 ou 999 NT$, Kaohsiung-Pingtung 999 NT$, andar à vontade em autocarros e metro[^30].
+O primeiro avanço são os autocarros de linha tronco (_trunk lines_). Entre 2017 e 2018, a cidade de Taipé reclassificou a sua rede de autocarros; nos horários de ponta, as rotas de linha tronco têm uma frequência tão alta, entre 4 a 6 minutos, que se tornaram tão fáceis de entender e esperar como o metro[^29]. O segundo é o passe mensal de transporte TPASS. Originado de promessas eleitorais de 2022, foi implementado em julho de 2023, com um orçamento especial de NT$20 mil milhões para os primeiros três anos: passes mensais de NT$1.200 para a região de Keelung-Taipé-New Taipei-Taoyuan; NT$699 ou NT$999 para Miaoli-Taichung-Changhua-Touku; e NT$999 para o sul (Kaohsiung-Pingtung), permitindo viagens ilimitadas em autocarros e metro[^30].
 
-O boletim do TPASS há que ler dos dois lados. O lado bom: efetivamente pôs gente no autocarro: procura de autocarro subiu 19,6%, metro 36,9%[^31]. Mas dizer que tirou gente do carro e da mota para o transporte público, efeito limitado: inquérito presencial de Taipé mostra que a transferência real de veículo privado para público foi só 7,33%[^32]. Ou seja, os passageiros a mais são maioritariamente «já andava, agora anda mais», não «ia de carro, agora vai de autocarro».
+O relatório de desempenho do TPASS deve ser lido com nuances. O lado positivo é que ele realmente atraiu pessoas para o transporte público: o volume de passageiros em autocarros aumentou 19,6% e no metro aumentou 36,9%[^31]. No entanto, quanto à capacidade de converter condutores de carros e motociclos em utilizadores de transporte público, o efeito foi limitado: entrevistas presenciais em Taipé mostram que a proporção real de transferência de veículos privados para o transporte público foi de apenas 7,33%[^32]. Em outras palavras, a maioria dos novos passageiros são pessoas que "já usavam o transporte e agora usam mais", e não pessoas que "antes conduziam e agora mudaram para o transporte público".
 
-Mais realista é o dinheiro. Os 200 mil milhões de orçamento especial do TPASS acabam no fim de 2025, o novo plano de continuação tem 363,8 mil milhões, mas como o orçamento geral está travado no Yuan Legislativo, enfrenta rutura, 20 condados e cidades afetados, muitos sítios a aguentar com empresas a adiantar dinheiro[^32][^33]. Uma boa política que pôs gente no autocarro, travada num impasse político.
+Mais realista ainda é a questão financeira: o orçamento especial de NT$20 mil milhões do TPASS expira no final de 2025. O novo plano de continuidade tem uma escala de NT$36,38 mil milhões, mas enfrenta o risco de interrupção porque o orçamento total está bloqueado no Legislativo. Isso afeta 20 condados e cidades em todo o país, com muitos locais dependendo do adiantamento de fundos pelas próprias empresas para sobreviver[^32][^33]. Uma boa política que trouxe pessoas para o transporte público está agora presa num impasse político.
 
-![Autocarro elétrico BYD K9 da Taipé Bus a passar em frente ao Zoo de Taipé](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
-_Autocarro elétrico BYD K9 da Taipé Bus a passar em frente ao Zoo de Taipé, 2026. Meta de 2030: autocarros urbanos 100% elétricos, mas em 2024 só cerca de 18% na rua. Foto: 厦门金龙永远的神, CC BY 4.0 (ver fontes das imagens no final)._
+![Autocarro elétrico BYD K9 da Taipei Bus a circular em frente ao Taipei Municipal Zoo](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
+_O autocarro elétrico BYD K9 da Taipei Bus passa em frente ao Taipei Municipal Zoo, em 2026. O objetivo é que os autocarros urbanos sejam totalmente eletrificados até 2030, mas em 2024 apenas cerca de 18% estão em circulação. Photo: 厦门金龙永远的神, CC BY 4.0 (ver fontes de imagem no final do artigo)._
 
-A eletrificação é o terceiro progresso urbano, e o mais gritante no fosso. O governo declarou 2030 autocarros urbanos 100% elétricos, a substituir perto de 10 mil a diesel (cerca de 9.400 em frota), meta de subsídio de compra 11.700 unidades, plano todo aprovado em junho de 2023 com 64,3 mil milhões[^34]. Ideal alto, realidade lenta: até 2024, autocarros elétricos efetivamente na rua só cerca de 1.926, 18%, e 7 condados e cidades com zero[^35].
+A eletrificação é o terceiro avanço das cidades e também onde a disparidade é mais gritante. O governo declarou que os autocarros urbanos serão totalmente elétricos até 2030, visando substituir quase dez mil autocarros a combustão (um inventário de cerca de 9.400 veículos) com uma meta de subsídio para aquisição de 11.700 unidades; o plano completo foi aprovado em junho de 2023, com um orçamento de NT$64,3 mil milhões[^34]. O ideal é elevado, mas a realidade é lenta: até 2024, apenas cerca de 1.926 autocarros elétricos estão efetivamente em circulação (18%), e sete condados ainda têm zero unidades[^35].
 
 ```tw-bars
-Distância para 100% elétrico em 2030 (progresso de eletrificação de autocarros urbanos)
-2024 elétricos na rua | 1926 | 18%
-2030 meta de subsídio de compra | 11700 | 7 condados/cidades ainda a zero
-Fonte: Yuan Executivo, Ministério dos Transportes, fim de 2024
+A distância para a eletrificação total em 2030 (progresso da eletrificação dos autocarros urbanos)
+Autocarros elétricos em circulação em 2024 | 1926 | Proporção de 18%
+Meta de aquisição subsidiada para 2030 | 11700 | Sete condados ainda com zero unidades
+Fonte: Yuan Executivo, Ministério dos Transportes, final de 2024
 ```
 
-Onde trava? Subsídio a descer camada a camada da aprovação central à assinatura do contrato (dotação de 2.080 a vazar para 1.404, a vazar para 744); postos de carregamento caros, um posto custa mais de 60 milhões[^35]. Anuncia-se uma viatura a 11 milhões, subsídio 6,8 milhões, a empresa ainda tem de pôr 4,2 milhões, para um setor que já vive de subsídios e nem motoristas consegue contratar, é uma decisão difícil de tomar.
+Onde está o bloqueio? Há perdas em cada etapa, desde a aprovação do subsídio ao nível local até à assinatura efetiva dos contratos (o montante caiu de 2.080 para 1.404 e depois para 744); além disso, as infraestruturas de carregamento são caras, com uma estação de carregamento custando mais de NT$60 milhões[^35]. Com um veículo a custar NT$11 milhões e um subsídio de NT$6,8 milhões, as empresas ainda precisam de levantar NT$4,2 milhões por conta própria. Para um setor que já sobrevive com dificuldade graças aos subsídios e que nem sequer consegue contratar motoristas, esta é uma decisão difícil de tomar.
 
-> 📝 **Nota do curador**: Estas três coisas da cidade (linhas tronco, passe mensal, eletrificação) espalhadas parecem uma lista de progressos. Mas têm um pressuposto invisível comum: é preciso haver quem conduza o autocarro para fora. Com idade média de motoristas a subir para 51 anos, falta de mais de 5.000 pessoas, por mais inteligente que seja o passe, por mais ecológico que seja o autocarro elétrico, são só cascas de ferro paradas no terminal. O progresso urbano é real, mas está sentado em cima de uma base laboral a envelhecer a toda a velocidade.
+> 📝 **Nota do Curador**: Estes três temas urbanos (linhas tronco, passe mensal e eletrificação) parecem uma lista de progresso quando analisados isoladamente. No entanto, eles partilham um pressuposto invisível comum: é preciso haver alguém para conduzir os veículos. Quando a idade média dos condutores sobe para 51 anos e o défice ultrapassa as 5.000 pessoas, por mais inteligente que seja o passe mensal ou tão ecológicos que sejam os autocarros elétricos, eles serão apenas carcaças de metal paradas nos terminais. O progresso urbano é real, mas ele está a avançar sentado sobre uma base laboral que envelhece rapidamente.
 
 ## Taiwan não é caso único
 

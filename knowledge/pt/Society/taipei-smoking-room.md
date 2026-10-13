@@ -26,16 +26,20 @@ imageCredit: '花花日報 / 記者章湘瑩'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://n.yam.com/Article/20260518246667'
 sporeLinks:
-  [
-    "{'id': 155, 'platform': 'threads', 'date': '2026-07-14', 'url': 'https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q'}",
-    "{'id': 156, 'platform': 'x', 'date': '2026-07-14', 'url': 'https://x.com/taiwandotmd/status/2076992601543327976'}",
-  ]
+  - id: 155
+    platform: 'threads'
+    date: '2026-07-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q'
+  - id: 156
+    platform: 'x'
+    date: '2026-07-14'
+    url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495a'
-sourceContentHash: 'sha256:38028701b07f0fef'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-07-27T22:12:15+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:f6e388583def59a6'
+sourceBodyHash: 'sha256:0879f11101fa0c2c'
+translatedAt: '2026-10-13T07:17:06.081941+00:00'
 ---
 
 _Fora da saída 6 do metro de Ximending, a primeira cabine de fumadores de pressão negativa ao ar livre de Taiwan: uma caixa de vidro transparente com moldura preta, plantada no passeio. Foto: Huahua Daily / Repórter Chang Hsiang-ying (fair use editorial commentary)._
@@ -112,27 +116,28 @@ Que este desenho tenha nascido «de pressão negativa» e não como as cabines t
 
 Quanto ao custo, a prefeitura não divulgou o orçamento final por unidade. Em sessão do conselho, usou 1,5 milhões por cabine como base de planeamento, estimando o total até fim de junho em cerca de 100 milhões[^20]. Do outro lado, o presidente da Federação Nacional de Associações de Pais, Tao Lien-sheng (陶蓮生), questiona pela ótica custo-benefício: cabines ao ar livre, por lei, precisam de compartimento independente, ar condicionado independente, desenho de pressão negativa e porta automática; «quando não se atinge o efeito de "não cheirar a tabaco", mas gasta-se dezenas de milhares a milhões de novos dólares taiwaneses para instalar, claramente não cumpre custo-benefício»[^21]. Um número é base de planeamento da prefeitura, outro é estimativa crítica de uma associação de pais; naturezas diferentes, mas ambos apontam para a mesma pergunta: esta caixa vale a pena?
 
-## Até os anti-tabaco se puseram a discutir
+## Até quem é contra o tabaco começou a discutir
 
-Se só os pais achassem caro, era simples. O que torna isto complexo é que o próprio campo anti-tabaco se dividiu — e não discutem _se_ devem combater o tabaco, mas _como_.
+Se apenas os pais que acham o custo elevado fossem os opositores, a questão seria simples. O que torna este assunto verdadeiramente complexo é que até o próprio campo antitabaco começou a discutir — e não discutem se devem ou não ser contra o tabaco, mas sim _como_ devem ser contra.
 
-A Aliança Recusa ao Tabaco de Taiwan e a Fundação Tung são claras: opõem-se a cabines fechadas de pressão negativa ao ar livre. A diretora do Centro de Prevenção dos Danos do Tabaco da Fundação Tung, Lin Ching-li (林清麗), defende «de dentro para fora: primeiro cumprir à risca a proibição total em interiores, só depois abrir pontos designados ao ar livre», e diz direto: «Uma cidade livre de fumo deve tornar a vida difícil ao fumador, não deve espalhar cabines de fumadores por todo o lado»[^22]. Na lógica deles, quanto mais confortável a cabine, mais se pavimenta o caminho para fumar, mais longe do objetivo original de fazer largar o vício. Não é posição nova: já em 2011 a Fundação Tung criticou o plano do Aeroporto de Taoyuan de reabrir salas de fumadores interiores.
+A posição da Taiwan No Smoking Alliance e da Fundação Dongshi é clara: opõem-se à construção de salas de fumadores de pressão negativa fechadas ao ar livre. Lin Ching-li, diretora do Centro de Prevenção de Danos do Tabaco da Fundação Dongshi, defende que se deve «implementar primeiro a proibição total do tabaco em espaços interiores e só depois permitir fumar em locais específicos ao ar livre», afirmando diretamente que «uma cidade sem fumo deve tornar o ato de fumar inconveniente, não devendo instalar quiosques de fumadores por todo o lado»[^22]. Na lógica deles, quanto mais confortável for a sala de fumadores, mais se estará a preparar o caminho para o hábito de fumar, afastando-se do objetivo inicial de «fazer as pessoas pararem de fumar». Esta não é uma posição nova; já em 2011, a Fundação Dongshi criticou os planos do Aeroporto de Taoyuan para restaurar salas de fumadores em espaços interiores.
 
 ```tw-versus
-Redução de danos: meter o fumo numa caixa | Redução de consumo: tornar fumar cada vez mais difícil
-Reconhece que ainda há quem fume, dá-lhes um canto que não incomoda | Meta: taxa de fumadores continue a cair
-Cheiro e beatas concentrados, cidade mais limpa | Quanto mais inconveniente, mais gente fuma menos ou deixa de vez
-Lógica de desvio da prefeitura atual | Posição de grupos anti-tabaco e parte da classe médica
+Redução de danos: colocar o fumo dentro de uma caixa | Redução do consumo: tornar o ato de fumar cada vez mais difícil
+Reconhecer que ainda há quem fume, dando-lhes um canto que não incomode | O objetivo é fazer com que a taxa de fumadores continue a descer
+Gestão centralizada do cheiro e das beatas, cidade mais limpa | Quanto mais inconveniente, maior a probabilidade de as pessoas fumarem menos ou pararem de vez
+A estratégia de segregação da atual prefeitura | A posição de grupos antitabaco e de parte do setor médico
+Fonte: Respostas do Conselho Municipal de Taipei e estimativas de custo-benefício de grupos de pais (relatórios da CNA, entre outros) + posições da Fundação Dongshi e da Taiwan No Smoking Alliance[^20][^21][^22]
 ```
 
-O médico de família do Hospital da Universidade Nacional de Taiwan, secretário-geral da Aliança Médica de Taiwan para Prevenção dos Danos do Tabaco, Kuo Fei-jan (郭斐然), vai mais fundo. Num artigo de opinião, invoca a Convenção-Quadro da OMS para o Controle do Tabaco: qualquer ventilação, filtração de ar ou sala de fumadores designada _não impede_ a exposição ao fumo passivo; «não existe nível seguro de exposição ao fumo passivo»[^23]. E a sua frase mais afiada aponta para o efeito colateral da existência mesma desta caixa.
+Kuo Fei-jan, médico do Departamento de Medicina Familiar do Hospital Universitário de Taiwan e secretário-geral da Aliança de Prevenção de Danos do Tabaco do Setor Médico de Taiwan, vai um passo mais além. Numa carta de opinião, ele cita a Convenção-Quadro da Organização Mundial da Saúde para o Controlo do Tabaco, apontando que qualquer equipamento de ventilação, filtragem de ar ou sala de fumadores designada não consegue impedir a exposição ao fumo passivo: «não existe um nível seguro de exposição ao fumo passivo»[^23]. E a sua frase mais incisiva aponta para o efeito secundário da própria existência desta "caixa".
 
 ```tw-quote
-Apoio totalmente a cidade livre de fumo, mas não se devem instalar cabines de fumadores fechadas ao ar livre; não se deve propagandear que, por ter pressão negativa e filtração, já não há fumo passivo; não se deve, por um bom propósito, propagandear conceitos errados.
-Kuo Fei-jan | Médico de família do Hospital da Universidade Nacional de Taiwan, secretário-geral da Aliança Médica de Taiwan para Prevenção dos Danos do Tabaco, 2026
+Apoio muito o conceito de cidade sem fumo, mas não instalem salas de fumadores fechadas ao ar livre; não promovam a ideia de que, porque a sala tem pressão negativa e equipamentos de filtragem, não haverá fumo passivo; não promovam conceitos errados por causa de um propósito nobre.
+Kuo Fei-jan | Médico do Depto. de Medicina Familiar do Hospital Universitário de Taiwan e secretário-geral da Aliança de Prevenção de Danos do Tabaco do Setor Médico de Taiwan, 2026
 ```
 
-> 📝 **Nota do curador**: Nesta frase de Kuo Fei-jan esconde-se um mecanismo fácil de ignorar. Uma caixa piscando futurismo, ostentando «quatro filtros», sugere às pessoas que «há equipamento = segurança»: quando vês a névoa ser sugada para uma caixa de alta tecnologia, assumes subconscientemente que o problema do fumo passivo já foi resolvido. Mas cientificamente essa sensação de segurança não se sustenta. O Cirurgião-Geral dos EUA concluiu em 2006: mesmo salas de fumadores independentes, cada uma com exaustão própria e pressão negativa, não impedem o fumo passivo de se infiltrar na zona ao lado[^24]. OMS e ASHRAE (Sociedade Americana de Engenheiros de Aquecimento, Refrigeração e Ar Condicionado) concordam. A casa de vidro é simultaneamente um compromisso atencioso e uma cerca que faz baixar a guarda — ambas as coisas podem ser verdade ao mesmo tempo.
+> 📝 **Nota do Curador**: Nas palavras de Kuo Fei-jan esconde-se um mecanismo que é facilmente ignorado. Uma caixa de vidro com aspeto futurista, que ostenta "quatro camadas de filtragem", transmite a sugestão implícita de que «ter equipamento é sinónimo de segurança»: quando vê o fumo a ser aspirado para uma caixa de alta tecnologia, subconscientemente sente que o problema do fumo passivo foi resolvido. No entanto, cientificamente, essa sensação de segurança não se sustenta. Um relatório de 2006 do Surgeon General dos EUA concluiu que mesmo salas de fumadores de pressão negativa, que sejam independentes e com exaustão própria, não conseguem impedir que o fumo passivo se infiltre nas áreas adjacentes[^24]. A posição da Organização Mundial da Saúde e da American Society of Heating, Refrigerating and Air-Conditioning Engineers é consensual. Uma estrutura de vidro pode ser tanto uma concessão atenciosa como uma barreira que faz as pessoas baixarem a guarda — estas duas coisas podem ser verdadeiras ao mesmo tempo.
 
 ## O estudo de Quioto, que afinal media outra coisa
 
