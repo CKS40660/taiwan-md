@@ -1,10 +1,13 @@
 ---
 title: 'Jimmy Liao: esas imágenes tomadas por terapéuticas las trajo de una pecera un sobreviviente de leucemia'
 description: 'En 1995, el director de arte publicitario Liao Fu-pin, de 37 años, recibió un diagnóstico de leucemia mieloide aguda y saludaba a sus amigos a través del vidrio de una sala estéril. Tras recibir el alta, esos pequeños personajes que antes dibujaba para ganarse la vida cobraron vida: empezó a crear A Fish with a Smile, The Moon Forgets, Turn Left, Turn Right y The Sound of Colors. Detrás de lo que los taiwaneses recuerdan como sanador, hipster literario o la Plaza Jimmy en Luodong, Yilan, está alguien que había pasado por el infierno y tradujo la muerte y la soledad a una forma que pudiera leerse; después, ese mundo creció hasta abarcar cine, musicales, circo y arte público, y en 2026 todavía celebra en Hong Kong una exposición especial por su 25.º aniversario.'
+rationale:
+  why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
+  whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
+  where_it_hedges: '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。'
+  whos_pushing_back: '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'arte y diseño',
@@ -15,17 +18,19 @@ tags:
     'Yilan',
     'adaptaciones cinematográficas',
   ]
-readingTime: 12
+subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
-translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:8843f64848a3d381'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: /article-images/people/jimmy-liao-square-yilan-2016.webp
+readingTime: 12
+image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
+translatedFrom: 'People/幾米.md'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T07:13:14.487981+00:00'
 ---
 
 # Jimmy Liao: esas imágenes tomadas por terapéuticas las trajo de una pecera un sobreviviente de leucemia
@@ -80,40 +85,41 @@ Las imágenes de Jimmy Liao pudieron pasar de la curación de una sola persona a
 
 ## Cada libro es una inmersión
 
-Al desplegar las obras representativas de Jimmy Liao, se advierte algo fácil de pasar por alto: esas imágenes tomadas por terapéuticas casi siempre parten de un lugar muy oscuro.
+Al observar las obras más representativas de Jimmy Liao, se descubre un detalle que fácilmente puede pasarse por alto: casi todos esos dibujos considerados "sanadores" parten de un lugar muy oscuro.
 
 ```tw-timeline
-1958 | Nace en Luodong, Yilan | Nombre real: Liao Fu-pin
-1995 | Diagnóstico de leucemia (LMA) | 37 años, cinco meses de quimioterapia, verdadero punto de partida creativo
-1998 | Sus dos primeros álbumes ilustrados ganan ese mismo año premios infantiles de tres grandes reseñas | Secrets in the Woods y A Fish with a Smile
-1999 | Turn Left, Turn Right y The Moon Forgets | Dos ejes: oportunidades perdidas y muerte
-2001 | The Sound of Colors | La chica ciega dibujada el año en que sobrevivió al quinto año
-2003 | Estreno de cuatro películas | Incluida The Floating Landscape, en competencia en Venecia
-2009 | Starry Starry Night | Adaptada al cine en 2011, con canción principal de Mayday
-2013 | Apertura de la Plaza Jimmy en Yilan | La primera de Taiwán
-2019 | Exposición individual en el Museo ABC de Madrid | Primera en Europa, 174 originales
-2026 | Exposición especial de 25.º aniversario en Hong Kong, Serendipitous Glimmers | Harbour City Art Gallery
+1958 | Nacido en Luodong, Yilan | Nombre real: Liao Fu-pin
+1995 | Diagnóstico de leucemia mieloide aguda (AML) | 37 años; tras cinco meses de quimioterapia, el verdadero punto de partida de su creación
+1998 | Sus dos primeros libros ilustrados ganan tres premios importantes el mismo año | 《森林裡的祕密》, 《微笑的魚》
+1999 | 《向左走·向右走》, 《月亮忘記了》 | Ejes temáticos: la pérdida y la muerte
+2001 | 《地下鐵》 | Retrata a una niña ciega; dibujado durante su quinto año de supervivencia
+2003 | Estreno de cuatro películas | Incluyendo 《戀之風景》, competidora en el Festival de Venecia
+2009 | 《星空》 | Adaptación cinematográfica en 2011; la banda de Mayday interpreta el tema principal
+2013 | Inauguración de la Plaza Jimmy Liao en Yilan | La primera en Taiwán
+2019 | Exposición individual en el Museo ABC, Madrid | Primera vez en Europa, con 174 obras originales
+2026 | Exposición especial del 25.º aniversario en Hong Kong: 《偶然相遇的微光》 | Galería de Harbour City
+Fuente: Sitio oficial de Jimmy Liao (jimmyspa.com), Dàkuài Wénhuà, Wikipedia y datos oficiales de diversos festivales; la edad del diagnóstico y el periodo de quimioterapia se basan en los relatos de Jimmy Liao en entrevistas. [^9][^10]
 ```
 
-> **Fuente**: sitio oficial de Jimmy Liao (jimmyspa.com), Locus Publishing, Wikipedia y datos oficiales de festivales; la edad al diagnóstico y la duración de la quimioterapia proceden de entrevistas al propio Jimmy Liao.
+> **Fuentes**: Sitio oficial de Jimmy Liao (jimmyspa.com), Dàkuài Wénhuà, Wikipedia, datos oficiales de diversos festivales; la edad del diagnóstico y el periodo de quimioterapia se basan en los relatos de Jimmy Liao en entrevistas.
 
-A Fish with a Smile es precisamente aquel pez de la pecera. Un hombre ve en un acuario un pez que le sonríe, lo compra, lo lleva a casa y una noche lo devuelve al mar. La persona aislada, el deseo encerrado, el acto final de soltar: cuando se publicó este libro, Jimmy Liao acababa de salir de aquella habitación transparente. La frase "la enfermedad es mi pecera" aparece en A Fish with a Smile.[^15]
+《微笑的魚》es ese pez en la pecera de cristal. Un hombre ve un pez que le sonríe en un acuario, se lo lleva a casa y, una noche, lo devuelve al mar. El aislamiento, el deseo contenido, el acto final de dejar ir... Cuando este libro se publicó, Jimmy Liao acababa de salir de aquella habitación transparente. La frase «la enfermedad es mi pecera de cristal» está escrita en 《微笑的魚》. [^15]
 
-The Moon Forgets se publicó en octubre de 1999 y fue creado en vísperas del terremoto del 21 de septiembre. Su origen está en tres hechos reales: una excompañera de la agencia de publicidad de Jimmy Liao se lanzó desde la azotea durante la pausa del mediodía y dejó a su esposa y a su hija; el esposo de una amiga fue a Pekín a una reunión y murió de una hemorragia cerebral; y en Taipéi hubo un gran apagón.[^16] Bajo un álbum ilustrado que parece suave y habla de la luna hay dos vidas perdidas y una ciudad súbitamente sumida en la oscuridad. Jimmy Liao dijo que "le debía una historia a la luna".[^48] La descripción oficial del libro dice: "Carros y carros de lunas sonrientes son enviados a cada ciudad oscura y triste".[^17] Él convirtió la muerte en lunas luminosas, capaces de ser enviadas para consolar.
+《月亮忘記了》se publicó en octubre de 1999, creado en vísperas del gran terremoto de 921. Su origen reside en tres hechos reales: un antiguo colega de la agencia de publicidad de Jimmy saltó desde una azotea durante su hora de almuerzo, dejando atrás a su esposa y a su hija; el marido de una buena amiga falleció por una hemorragia cerebral mientras estaba en Pekín para una conferencia; y un gran apagón en Taipéi. [^16] Un libro ilustrado que parece tierno y habla de la luna, pero que carga bajo su superficie con dos vidas humanas y una ciudad sumida repentinamente en la oscuridad. Jimmy Liao dijo que le «debía una historia a la luna». [^48] Una descripción oficial del libro dice: «Carros llenos de lunas sonrientes, transportadas hacia cada ciudad oscura y triste». [^17] La muerte la dibujó como lunas radiantes que se envían para consolar a la gente.
 
-The Sound of Colors se publicó en 2001, el quinto año desde que Jimmy Liao enfermó. Un médico le había dicho: "Si sobrevives al quinto año, la tasa de supervivencia probablemente puede aumentar muchísimo".[^18] Para un paciente con leucemia, el quinto año es un umbral entre la vida y la muerte. Ese año dibujó a una chica ciega que tantea su camino por el metro. El libro empieza así: "El año en que el ángel me dijo adiós en la entrada del metro, empecé a dejar de ver".[^19]
+《地下鐵》se publicó en 2001, durante el quinto año de su enfermedad. Un médico le dijo una vez: «Si logras superar el quinto año, tu tasa de supervivencia aumentará considerablemente». [^18] Para un paciente con leucemia, el quinto año es un umbral entre la vida y la muerte. Ese año dibujó a una niña ciega que busca su camino en el metro; el libro comienza así: «El año en que el ángel se despidió de mí en la entrada del metro, empecé a perder la vista». [^19]
 
-Esa chica ciega es su alter ego, y todo el libro fue dibujado bajo la sombra de la muerte. Mientras lo hacía tenía miedo: temía no poder terminarlo antes de tener que despedirse. Por eso más tarde dijo que en ese libro "todas las palabras escribían una forma de aliento para mí mismo".[^20] Alguien que temía no vivir hasta ver publicado su libro dibujó a una chica que no podía ver, pero no dejaba de avanzar. En realidad, era la voz con la que se animaba a sí mismo al borde del precipicio; solo que la dibujó con tanta ternura que los lectores creyeron que era un cuento para dormir.
+Esa niña ciega es su propio alter ego; todo el libro fue dibujado bajo la sombra de la muerte. Mientras dibujaba, sentía mucho miedo, temía que antes de terminar el libro, él mismo tuviera que despedirse. Por eso, más tarde dijo que «todas las palabras de este libro son una forma de animarme a mí mismo». [^20] Alguien que temía no vivir para ver publicado su libro, dibujó a una niña que no podía ver, pero que no detenía sus pasos. En realidad, era su propia voz dándose ánimos al borde del abismo, solo que la dibujó con tanta ternura que los lectores piensan que es un cuento para dormir.
 
-![Escultura de La chica que gira a la izquierda después del anochecer. Turn Left, Turn Right cuenta la historia de dos personas que viven una al lado de la otra, pero se pierden una y otra vez.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
+![Escultura de 〈向左走的女孩〉 tras el anochecer. 《向左走·向右走》 trata sobre dos personas que viven en apartamentos contiguos pero se pierden una y otra vez.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
 
-En comparación, Turn Left, Turn Right, de 1999, es el libro más recordado por el gran público, pero también el más cruel. Una chica acostumbrada a caminar hacia la izquierda y un chico acostumbrado a caminar hacia la derecha viven a ambos lados de la pared de un mismo edificio; están tan cerca y, sin embargo, se pierden una y otra vez. La inspiración vino de "Amor a primera vista", de la poeta polaca Wisława Szymborska, premio Nobel de Literatura en 1996, un poema que habla precisamente de dos desconocidos que se cruzan sin saber que ya estaban ligados.[^54] Perderse no es un accidente: perderse es la estructura de lo cotidiano. Crees que encontrarse es el milagro, cuando en realidad cruzarse sin verse es la norma.
+En contraste, 《向左走·向右走》 (1999) es el libro más recordado por el público, pero también el más cruel. Una chica acostumbrada a caminar hacia la izquierda y un chico acostumbrado a caminar hacia la derecha viven en lados opuestos de la misma pared de un edificio; estando tan cerca, se pierden una y otra vez. La inspiración para este libro provino del poema 〈Amor a primera vista〉 de la poeta polaca Wisława Szymborska (Premio Nobel de Literatura 1996), que trata precisamente sobre dos extraños que se cruzan pero que ya están conectados entre sí. [^54] Perderse no es un accidente, es la estructura de lo cotidiano: crees que encontrarse es un milagro, cuando en realidad cruzarse sin verse es la norma.
 
-La sombra de la enfermedad se extendió durante mucho tiempo. Incluso en A Garden in My Heart, de 2000, escribió: "Mientras dibujaba este libro, la sombra de la enfermedad seguía rondando mi corazón".[^39] Algunas críticas consideran que The Blue Stone, de 2006, es su libro más triste: narra la historia de una piedra azul que es partida, se fragmenta una y otra vez y emprende un viaje "espléndido y a la vez marcado por el paso del tiempo"; pero la nota del propio Jimmy Liao no se queda en la tristeza: "Incluso un rayo mínimo de esperanza puede iluminar la oscuridad de todo el universo".[^53] En el reverso de lo oscuro, él siempre dejaba algo de luz. Hide in the Corner of the World, de 2008, suena como un susurro dirigido a todos los que ya no pueden sostenerse: "Shhh: escóndete en un rincón del mundo, guarda silencio, olvida el tiempo, vuelve a ser tú".[^40] Starry Starry Night, de 2009, cuenta la fuga de dos adolescentes solitarios, y su frase "donde hay sombra, debe haber luz" casi podría servir como nota al pie de toda la obra de Jimmy Liao.[^41]
+La sombra de la enfermedad es alargada. Incluso en 《我的心中每天開出一朵花》 (2000), escribió: «Al dibujar este libro, la sombra de la enfermedad seguía siendo ineludible en mi corazón». [^39] Algunos críticos consideran que 《藍石頭》 (2006) es su libro más triste; narra la historia de una piedra azul que es partida y se fragmenta continuamente en un viaje «espléndido pero melancólico»; sin embargo, la propia anotación de Jimmy Liao no se detuvo en la tristeza: «Incluso un pequeño rayo de esperanza puede iluminar la oscuridad de todo el universo». [^53] En el otro lado de la oscuridad, siempre deja un poco de luz. 《躲進世界的角落》 (2008) es como un susurro para todos aquellos que no pueden más: «Shhh... escóndete en un rincón del mundo, mantén el silencio, olvida el tiempo y vuelve a ser tú mismo». [^40] En 《星空》 (2009), que trata sobre dos adolescentes solitarios que huyen de casa, la frase «donde hay sombras, debe haber luz» puede servir casi como un epígrafe para toda su obra. [^41]
 
-Aquel pez sonriente también nadó hacia la pantalla. En 2006, A Fish with a Smile fue adaptado como cortometraje animado de diez minutos, sin diálogos, codirigido por Lin Po-liang, Tuan Yi-lun y Shih Chang-chieh, con música de Chen Chien-chi.[^42] Fue seleccionado para la sección infantil Generation de la 56.ª Berlinale y obtuvo el premio especial al mejor cortometraje de la organización alemana de ayuda a la infancia.[^43] La soledad que un taiwanés había dibujado en una habitación de hospital se tradujo en una imagen sin una sola línea de diálogo, comprensible en todo el mundo.
+Ese pez sonriente también llegó a la pantalla. En 2006, 《微笑的魚》 fue adaptado como un cortometraje de animación de diez minutos sin diálogos, dirigido conjuntamente por Lin Po-liang, Duan Yi-lun y Shih Chang-chieh, con música de Chen Chien-chi. [^42] Fue seleccionado para la sección Generation del 56.º Festival de Berlín y recibió el premio especial al mejor cortometraje de la Asociación Alemana de Ayuda a la Infancia. [^43] La soledad que un taiwanés dibujó en una habitación de hospital se convirtió en imágenes sin una sola palabra que todo el mundo puede entender.
 
-> **Nota de curaduría**: Al poner estos cuatro libros lado a lado, se descubre que la etiqueta "terapéutico" invierte en realidad la causalidad. La lectura habitual es que "las imágenes de Jimmy Liao son tiernas, por eso relajan". Pero el orden es exactamente el contrario: los lectores se sienten sanados porque él primero entró honestamente en los lugares más oscuros —aislamiento, muerte, oportunidades perdidas— y salió de allí con un poco de luz. El consuelo funciona precisamente porque lo ofrece alguien que de verdad estuvo dentro de la pecera. Lu Jung-chih dijo que su obra "nunca es realista; siempre tiene algo de ensueño, un tono surrealista". Esa capa onírica es una técnica de traducción: convierte una realidad insoportable en una forma que una persona puede llegar a leer.
+> 🎙️ **Nota del curador**: Al poner estos cuatro libros juntos, se nota que la etiqueta de «estilo sanador» (healing) en realidad invierte la causalidad. La comprensión general es: «Los dibujos de Jimmy Liao son lindos, por eso relajan». Pero el orden es exactamente el opuesto: los lectores se sienten sanados porque él primero entró honestamente en los lugares más oscuros —el aislamiento, la muerte, la pérdida— para luego salir con un poco de luz. El consuelo es efectivo precisamente porque proviene de alguien que realmente ha estado dentro de la pecera de cristal. Lu Rong-chi dice que su obra «nunca ha sido realista, siempre tiene un tono algo onírico y surrealista». Esa capa de ensueño es una técnica de traducción: convertir una realidad insoportable en una forma que el ser humano pueda seguir leyendo.
 
 ## Jimmy Liao fuera de la página
 

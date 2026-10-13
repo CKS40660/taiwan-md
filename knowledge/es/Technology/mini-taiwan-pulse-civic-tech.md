@@ -28,15 +28,19 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
-  [
-    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
-    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
-  ]
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-08T06:28:09.299407+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T08:37:08.659794+00:00'
 ---
 
 # Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira
@@ -53,38 +57,39 @@ Esta frase no parece gran cosa. Más tarde se convertiría en la semilla de todo
 
 Esta artículo cuenta cómo una persona pasó de la ingenuidad de arrastrar un CSV a soltar el control para que el sistema crezca por sí mismo.
 
-## Cómo el GitHub de una persona se convierte en una galaxia
+## Cómo el GitHub de una sola persona se convirtió en una galaxia
 
-Si solo miramos el proyecto _mini-taiwan-pulse_, es fácil pensar en Migu como un ingeniero amateur que juega en sus ratos libres: un fin de semana le dio por hacer un demo y, de repente, se hizo viral.
+Si solo observamos el proyecto _mini-taiwan-pulse_, es fácil imaginar a Migu como un ingeniero aficionado: alguien que, por puro entusiasmo un fin de semana, hizo una demo que casualmente se volvió viral.
 
-Esta imagen tiene dos fallos.
+Esa suposición es errónea por dos razones.
 
-Primero, hizo mucho más que un solo proyecto. Si abres su GitHub, desde diciembre de 2025 hay una densa maraña de visualizaciones de datos abiertos de Taiwán: primero hubo un PoC (Prueba de Concepto) de alcance de autobuses para probar el terreno; a finales de diciembre, un proyecto de aprendizaje llamado `mini-taiwan-learning-project` se hizo popular primero, alcanzando hoy 189 estrellas. En febrero hizo puntos en tiempo real de buques AIS y el `flight-arc-graph` (56 estrellas), que dibuja las trayectorias de despegue y aterrizaje de cada vuelo. A finales de febrero llegó _mini-taiwan-pulse_, luego el atlas del tren de alta velocidad (Taichung Railway), órbitas de satélites, imágenes en tiempo real CCTV, y un panel de control de situación que consolida todos los datos, `mini-taiwan-info`... hasta junio[^2]. Una decena de repositorios conectados entre sí, a los que él mismo dio el nombre de galaxia «Mini Taiwán».
+Primero, lo que ha hecho va mucho más allá de un solo proyecto. Si entras en su GitHub, verás que desde diciembre de 2025 hay una densa lista de visualizaciones de datos abiertos de Taiwán: empezó con una prueba de concepto (PoC) sobre el alcance de los autobuses para tantear el terreno; después, a finales de diciembre, un proyecto de aprendizaje llamado `mini-taiwan-learning-project` se volvió popular primero, alcanzando hoy las 189 estrellas. En febrero creó puntos de ubicación en tiempo real del AIS de buques y desarrolló `flight-arc-graph` (56 estrellas), que dibuja arcos para cada despegue y aterrizaje de un vuelo. No fue hasta finales de febrero cuando llegó el turno de _mini-taiwan-pulse_, seguido por el atlas de la TRA (Ferrocarriles de Taiwán), órbitas satelitales, imágenes de CCTV en tiempo real y `mini-taiwan-info`, un panel de control que converge todos los datos... trabajando sin pausa hasta junio[^2]. Más de una decena de repositorios se han conectado para formar lo que él mismo llama la galaxia «Mini Taiwan».
 
-![Panel de control de situación Mini Taiwan Info, que consolida datos abiertos de múltiples temas como población, transporte ferroviario, navegación, recursos hídricos, bomberos y salud en paneles de monitoreo de una página por tema](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![El panel de control Mini Taiwan Info, que converge diversos temas de datos abiertos —población, transporte ferroviario, navegación, recursos hídricos, bomberos, medicina, etc.— en un panel de monitoreo de una página por tema](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Otro miembro de la galaxia, Mini Taiwan Info: consolida los datos abiertos dispersos en un panel de monitoreo de situación. Población, transporte ferroviario, navegación, recursos hídricos, bomberos, salud, una página por tema. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
+_Otro miembro de la galaxia, Mini Taiwan Info: ha convergido los datos abiertos dispersos en un panel de control de monitoreo situacional; población, transporte ferroviario, navegación, recursos hídricos, bomberos y medicina, con una página dedicada a cada tema. Foto: Migu / sciwork 2026 (uso legítimo para fines de edición y crítica)._
 
-Si ordenamos las estrellas de estos proyectos, resulta que no solo uno es popular.
+Si ordenamos las estrellas de estos proyectos, es evidente que no solo hay uno destacado.
 
 ```tw-bars
-GitHub de Migu: no solo un repo es popular (estrellas de GitHub)
+GitHub de Migu: más de un repo destaca (estrellas en GitHub)
 *mini-taiwan-pulse | 375 | Buque insignia
-mini-taiwan-learning-project | 189 | Más popular que pulse
-flight-arc-graph | 56 | Trayectorias
+mini-taiwan-learning-project | 189 | Se hizo viral antes que pulse
+flight-arc-graph | 56 | Trayectorias de vuelo
 tw-ship-viz | 11 | Buques
 mini-tw-cctv | 6 | Imágenes en tiempo real
 satellite-arc | 6 | Satélites
-Fuente: API de GitHub, 2026-06-25
+Fuente: GitHub API, 2026-06-25
 ```
 
-El segundo error está escondido en la palabra «una persona». Volveremos a ello más adelante. Primero veamos cómo creció la galaxia.
+El segundo error reside en las palabras «una sola persona», algo que analizaremos más adelante. Primero, veamos cómo fue creciendo la galaxia.
 
 ```tw-timeline
-2025-12 | Primera prueba | Alcance de autobuses PoC, el primer intento de datos abiertos de Taiwán
-2025-12 | learning-project popular primero | Visualización del transporte ferroviario de Taipéi, más popular que el buque insignia (189★)
-2026-02 | Nacimiento del buque insignia | mini-taiwan-pulse abre, evoluciona de JSON estático a base de datos espacial y temporal
-2026-06 | Sistema completo desplegado | Charla en sciwork 2026: entregar datos abiertos a un sistema cultivado por Agentes
+2025-12 | Primera prueba | PoC de autobuses, el primer intento con datos abiertos de Taiwán
+2025-12 | Éxito de learning-project | Visualización ferroviaria en Taipéi, más viral que el buque insignia (189★)
+2026-02 | Nace el buque insignia | Lanzamiento de mini-taiwan-pulse, evoluciona de JSON estático a base de datos espacio-temporal
+2026-06 | Despliegue del sistema completo | Conferencia sciwork 2026: un sistema que entrega los datos abiertos a agentes para su desarrollo
+Fuente: Registro de proyectos de GitHub de Migu (cronología y estrellas) y contenido de la conferencia sciwork 2026[^2][^3]
 ```
 
 ## La misma metodología, del metro al sistema solar
