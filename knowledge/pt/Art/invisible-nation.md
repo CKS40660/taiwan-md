@@ -29,10 +29,10 @@ rationale:
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:3ae429b55b3339f0'
-sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:d85b6c99ab72b318'
+sourceBodyHash: 'sha256:f6ae8560d7e03438'
+translatedAt: '2026-10-13T04:31:26.642741+00:00'
 ---
 
 > **Resumo de 30 segundos:** _A Nação Invisível_ (Invisible Nation) é o documentário que a diretora americana Vanessa Hope levou sete anos para filmar, com cinco entrevistas exclusivas à então presidente Tsai Ing-wen, colocando diante das câmeras mundiais uma ilha expulsa da ONU, que nos Jogos Olímpicos só pode competir como "Taipé Chinesa" e cujos aliados diplomáticos caíram de 22 para 12. Estreia mundial no Festival de Woodstock em 2023[^1], lançamento nos cinemas de Taiwan em junho de 2025, bilheteria de 37,71 milhões de novos dólares taiwaneses, terceiro lugar na história do documentário em Taiwan[^2]. Mas esta película que quer fazer Taiwan "ser vista" também tem seus ângulos mortos — o que mais lhe cobram é os sete anos de dependência da colaboração do gabinete de Tsai para conseguir essa proximidade, e aquele nome que nunca é mencionado do início ao fim: Chen Shui-bian.
@@ -109,28 +109,29 @@ O último golpe veio de forma especialmente cruel: em 15 de janeiro de 2024, doi
 > **📝 Nota do Curador**
 > O verdadeiro argumento do filme está escondido nessa curva, e ele vai contra a intuição comum. A ideia corrente é "Taiwan mais forte, mais amigos"; mas o que Vanessa Hope filmou é a direção oposta — nesses oito anos Taiwan aprovou a primeira lei de casamento igualitário da Ásia, superou a pandemia, realizou uma eleição limpa atrás da outra, mas seus aliados diplomáticos caíram pela metade. Quanto mais a democracia funciona, menos países a reconhecem internacionalmente. Entre ver e ser visto, não há causalidade linear.
 
-## O dia em que a multidão gritou "Nós somos taiwaneses"
+## O dia em que as multidões gritaram "Nós somos taiwaneses"
 
-Estendendo a linha do tempo da democratização de Taiwan, vê-se como a ilha, passo a passo, se projetou para fora do silêncio.
+Ao analisar a linha do tempo da democratização de Taiwan, é possível observar como esta ilha, passo a passo, conseguiu se libertar do silêncio.
 
-A lente de Vanessa Hope mira o arco democrático inteiro da ilha, não só os oito anos de Tsai Ing-wen. Após a retirada do Governo Nacionalista para Taiwan em 1949, a ilha viveu 38 anos de lei marcial, vigente de 20 de maio de 1949 a 15 de julho de 1987, quando Chiang Ching-kuo a suspendeu — uma das leis marciais mais longas do mundo na época[^21]. Por baixo, as feridas do 28 de Fevereiro e do Terror Branco: relatório oficial do Yuan Executivo estima as mortes do 28 de Fevereiro entre 18 mil e 28 mil; no período do Terror Branco, cerca de 140 mil pessoas foram presas[^22].
+A lente de Ge Jing-wen foca no arco democrático completo desta ilha, que vai muito além dos oito anos de Tsai Ing-wen. Após a transferência do governo nacionalista para Taiwan em 1949, o território passou por 38 anos de lei marcial — em vigor desde 20 de maio de 1949 até ser levantada por Chiang Ching-kuo em 15 de julho de 1987 —, sendo um dos períodos de lei marcial mais longos do mundo na época[^21]. Sob a superfície, jazem as feridas do Incidente 28 de Fevereiro e do Terror Branco: relatórios oficiais do Executivo estimam que o número de mortos no Incidente 28 de Fevereiro variou entre 18.000 e 28.000 pessoas, e cerca de 140.000 foram encarceradas durante o período do Terror Branco[^22].
 
 ```tw-timeline
-1987 | Fim da lei marcial | Chiang Ching-kuo suspende lei marcial de 38 anos, uma das mais longas do mundo
-1996 | Primeira eleição presidencial direta | Lee Teng-hui eleito sob disparo de mísseis do outro lado, taiwaneses votam diretamente no presidente pela primeira vez
-2000 | Primeira alternância partidária | Chen Shui-bian do DPP eleito, primeira transferência pacífica de poder após era autoritária
-2014 | Movimento Girassol | Estudantes ocupam o Legislativo por 24 dias, contra Acordo de Serviços Cross-Strait
-2019 | Casamento igualitário legalizado | 17 de maio Legislativo aprova lei especial, Taiwan torna-se o primeiro da Ásia
+1987 | Fim da Lei Marcial | Chiang Ching-kuo levanta a lei marcial de 38 anos, um dos períodos mais longos do mundo
+1996 | Primeira Eleição Presidencial Direta | Lee Teng-hui é eleito sob os testes de mísseis do outro lado do estreito; taiwaneses elegem o presidente diretamente pela primeira vez
+2000 | Primeira Alternância de Poder | Chen Shui-bian, do DPP, é eleito, marcando a primeira transferência pacífica de poder após o autoritarismo
+2014 | Movimento Girassol | Estudantes ocupam o Legislativo por 24 dias em protesto contra o acordo de comércio de serviços com o outro lado do estreito
+2019 | Legalização do Casamento entre Pessoas do Mesmo Sexo | O Legislativo aprova a lei especial em 17 de maio, tornando Taiwan o primeiro lugar da Ásia
+Fonte: Cronologia da democratização citada neste artigo (Fim da Lei Marcial 1987, Eleição Direta 1996, Movimento Girassol 2014, Casamento Homoafetivo 2019) e reportagens primárias relacionadas[^21][^23][^24][^25]
 ```
 
-Cada nó dessa linha é uma ação de "tornar visível o invisível". Em 23 de março de 1996, Lee Teng-hui eleito com 54% sob disparo de mísseis do outro lado — foi a primeira vez que taiwaneses elegeram seu presidente com as próprias mãos[^23]. Em março de 2014, estudantes ocuparam o Legislativo por 24 dias contra o Acordo de Serviços Cross-Strait; o Movimento Girassol depois redefiniu a consciência política de toda uma geração[^24]. Em 17 de maio de 2019, o Legislativo aprovou a lei do casamento igualitário; Hsiao Bi-khim narra esse trecho no filme; Taiwan tornou-se o primeiro lugar da Ásia a legalizar o casamento entre pessoas do mesmo sexo[^25].
+Cada ponto nesta linha representa um ato de "tornar visível o que era invisível". Em 23 de março de 1996, Lee Teng-hui foi eleito com 54% dos votos em meio aos testes de mísseis realizados pelo outro lado do estreito; foi a primeira vez que os taiwaneses escolheram seu próprio presidente com as próprias mãos[^23]. Em março de 2014, estudantes ocuparam o Legislativo por 24 dias para se opor ao acordo de comércio de serviços com o outro lado do estreito; o Movimento Girassol acabou moldando a consciência política de toda uma geração[^24]. Em 17 de maio de 2019, o Legislativo aprovou a lei especial para o casamento entre pessoas do mesmo sexo, um momento relatado por Hsiao Bi-khim no documentário; Taiwan tornou-se o primeiro lugar na Ásia a legalizar o casamento homoafetivo[^25].
 
-![Outubro de 2015, comício de campanha de Tsai Ing-wen em Taipé, apoiadores agitam bandeiras, luzes piscam, a atmosfera da cena "multidão grita nós somos taiwaneses" do filme](/article-images/people/tsai-2016-campaign.webp)
-_Outubro de 2015, apoiadores em comício de Tsai Ing-wen. Vanessa Hope diz que foi exatamente o momento em 2016 em que a multidão gritou "Nós somos taiwaneses" para Tsai que a fez decidir filmar. Foto: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
+![Em outubro de 2015, durante um comício de campanha de Tsai Ing-wen em Taipé, apoiadores abaixo da plataforma agitam bandeiras sob luzes brilhantes, evocando a atmosfera das cenas no filme de Ge Jing-wen onde "as multidões gritam que somos taiwaneses"](/article-images/people/tsai-2016-campaign.webp)
+_Apoiadores em um comício de campanha de Tsai Ing-wen, outubro de 2015. Ge Jing-wen afirma que foi o momento em que as multidões gritaram para Tsai Ing-wen "Nós somos taiwaneses" durante a eleição de 2016 que a levou a decidir filmar este documentário. Photo: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
 
-E o momento que realmente acendeu Vanessa Hope foi o comício de 2016, a multidão gritando para Tsai Ing-wen "Nós somos taiwaneses"[^5]. Aquilo foi uma ilha inteira, diante das câmeras, gritando seu próprio nome — pesa mais do que qualquer nota de rodapé sobre alternância partidária.
+O momento que realmente inspirou Ge Jing-wen foi, durante as eleições de 2016, quando as multidões gritaram para Tsai Ing-wen: "Nós somos taiwaneses"[^5]. Aquele instante representou uma ilha inteira pronunciando seu próprio nome diante das câmeras, algo muito mais profundo do que um simples registro cronológico de alternância de poder.
 
-O filme também guarda uma imagem que faz muitos taiwaneses chorar: na véspera da eleição de 2016, a cantora taiwanesa de 16 anos Tzuyu (Chou Tzu-yu), por ter agitado a bandeira da República da China num programa de variedades coreano, foi forçada a ler um pedido de desculpas diante da câmera[^26]. Uma garota de 16 anos obrigada a pedir desculpas pela própria bandeira; no dia seguinte, os taiwaneses responderam com o voto. Essa imagem virou um dos pontos mais emocionantes do filme.
+O filme também inclui uma imagem que emociona muitos taiwaneses: às vésperas da eleição de 2016, a cantora taiwanesa de 16 anos Chou Tzu-yu foi forçada a ler um pedido de desculpas diante das câmeras após agitar a bandeira da República da China em um programa de variedades sul-coreano[^26]. Uma jovem de 16 anos sendo compelida a pedir desculpas por sua própria bandeira; no dia seguinte, os taiwaneses responderam a isso com seus votos. Esse registro de evento tornou-se um dos pontos mais emocionantes e pesados do documentário.
 
 ## Pagando do próprio bolso para se ver
 

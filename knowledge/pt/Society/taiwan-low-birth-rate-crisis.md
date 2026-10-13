@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'd96dbc4bb'
-sourceContentHash: 'sha256:22f624258f9ada15'
-sourceBodyHash: 'sha256:be7b46d45d345648'
-translatedAt: '2026-07-27T20:19:55+08:00'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:a14a0e12438e6a6a'
+sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
+translatedAt: '2026-10-13T03:42:19.086934+00:00'
 ---
 
 # O Último Canto da Ilha: Nem o Ano do Dragão Salvou o 0,695
@@ -73,27 +73,28 @@ Os números assustam, mas o que merece parar para pensar é aquele −715 de 202
 
 ---
 
-## Não É Não Ter Filhos, É Não Casar
+## Não é que não queiram ter filhos, é que não se casam
 
-Esta é a parte mais contra-intuitiva, e a que mais se erra.
+Esta é a parte mais contraintuitiva de todo este assunto e também a que é mais frequentemente mal interpretada.
 
-Fala-se em baixa natalidade e a cabeça corre para "os jovens não aguentam criar filhos", "casas caras, não ousam ter filhos". Parece óbvio. Mas Zheng Yan-xin, do Instituto de Sociologia da Academia Sinica, estudou décadas de dados de fertilidade de Taiwan e conclui: "A chave da baixa fertilidade não é não ter filhos, é mais provavelmente: **ainda não ter casado**."[^19]
+Quando se fala em baixa natalidade, o pensamento automático de todos é: "os jovens não conseguem sustentar os filhos" ou "os preços das casas são demasiado altos para ousar ter filhos". Parece algo óbvio. No entanto, Zheng Yan-xin, do Instituto de Sociologia da Academia Sinica, estudou dados de fertilidade em Taiwan durante décadas, e a sua conclusão é: "O código-chave da baixa taxa de fertilidade não é o facto de não terem filhos, mas sim, muito provavelmente: **ainda não se casaram**."[^19]
 
-A evidência é dura. Em Taiwan, a maioria dos casais tem filhos, "até mais de 70% têm dois ou mais"[^20]. Ou seja, desde que casem, a vontade de ter filhos dos taiwaneses nem é tão baixa. O que colapsou é o denominador: quem casa diminuiu. 2024: 123.061 casamentos; 2025: caiu para 104.376, mínimo histórico[^21]. A taxa de solteirice definitiva aos 45–49 anos já roça os 20%, projeta-se que em 2050 os homens passem de 30% e as mulheres de 25% sem nunca casar[^22].
+As suas evidências são sólidas. Em Taiwan, a maioria dos casais tem filhos após o casamento, "chegando até mais de 70% a ter dois ou mais filhos"[^20]. Por outras palavras, desde que se casem, a vontade de procriar dos taiwaneses não é, na verdade, tão baixa. O que realmente colapsou foi o denominador: o número de pessoas que se casam diminuiu. Em 2024, houve 123.061 casamentos; em 2025, esse número caiu para 104.376, atingindo um mínimo histórico[^21]. A taxa de solteirismo vitalício entre os 45 e os 49 anos já se aproxima dos 20%; estima-se que, até 2050, mais de 30% dos homens e mais de um quarto das mulheres não se casem[^22].
 
-E "não casar mas ter filhos"? Em muitos países europeus, a natalidade fora do casamento sustenta grande parte dos nascimentos. Taiwan não. Os números de Zheng: "Em Taiwan, a natalidade fora do casamento é apenas 2–4%, imóvel há décadas."[^23]
+E quanto ao cenário de "ter filhos sem estar casado"? Em muitos países europeus, a fertilidade fora do casamento sustenta a maior parte dos nascimentos. Mas em Taiwan não é assim. Os números de Zheng Yan-xin mostram: "No caso de Taiwan, a fertilidade fora do casamento representa apenas 2% a 4%, permanecendo imóvel há décadas."[^23]
 
 ```tw-stat
-> 70% | Casais casados têm dois ou mais filhos | Zheng Yan-xin
-2–4% | Nascimentos fora do casamento, imóvel há décadas | Zheng Yan-xin
-104.376 casais | Casamentos em 2025, mínimo histórico | Departamento de Administração Civil do Ministério do Interior
+Mais de 70% | Casais casados que têm dois ou mais filhos | Zheng Yan-xin
+2–4% | Percentagem de fertilidade fora do casamento, imóvel há décadas | Zheng Yan-xin
+104.376 casais | Número de casamentos em 2025, mínimo histórico | Departamento de Assuntos de Registo Civil do Ministério do Interior
+Fonte: Zheng Yan-xin da Academia Sinica (entrevista para Investigação com Substância) + Estatísticas de casamentos do Departamento de Assuntos de Registo Civil do Ministério do Interior (reportagem da CNA) [^20][^21][^23]
 ```
 
-Empilhando estes três números, surge uma imagem causal completamente diferente: a fertilidade de Taiwan está quase toda amarrada ao casamento (fora do casamento só 2–4%), e quem casa está a colapsar. Por isso a queda desde o nível de substituição 2,1 até abaixo de 1,1 **foi quase toda impulsionada pela queda da taxa de casamento**[^24]. Em vez de dizer que a taxa de fertilidade foi esmagada por "não aguentar o custo", é mais exato dizer que foi drenada pelo "não casar".
+Ao sobrepor estes três números, surge um mapa de causalidade completamente diferente: a fertilidade em Taiwan está quase totalmente ligada ao casamento (a fertilidade fora do casamento é de apenas 2-4%), enquanto o número de pessoas que se casam está em colapso. Assim, a queda da taxa de substituição, que passou de 2,1 para menos de 1,1, foi **impulsionada quase inteiramente pela descida da taxa de casamentos**[^24]. Em vez de dizer que a taxa de fertilidade foi esmagada pelo "custo de vida", é mais preciso dizer que ela está a ser drenada pela "falta de casamentos".
 
-> 📝 **Nota do curador:** A narrativa corrente inverte a causalidade. A história dominante é "pressão económica → não ousam ter filhos → baixa natalidade", logo a lógica política torna-se "dar dinheiro alivia pressão → todos ousam ter filhos". Mas se o verdadeiro ponto de rutura é "não casar", esta cadeia causal está errada desde o primeiro elo. Zheng Yan-xin diz friamente: se o problema é "não aguentar o peso", subsídios talvez ajudem; mas se a maioria é não casar, "política económica não resolve". O Instituto de Investigação Económica de Chung-Hua aponta para o mesmo: preços de casa e salários baixos não são a causa principal do não casamento, o crucial é que "a maioria dos solteiros tem vontade de casar, mas ao entrar no mercado de trabalho dificilmente conhece parceiros adequados"[^25]. Ou seja, este problema, dinheiro não resolve. O dinheiro foi posto no elo errado.
+> 📝 **Nota do Curador:** A explicação comum inverte a causalidade. A narrativa dominante é "pressão económica → medo de ter filhos → baixa natalidade", o que faz com que a lógica política se torne, logicamente, "dar dinheiro para aliviar a pressão → as pessoas sentem-se seguras para ter filhos". Mas se o verdadeiro ponto de rutura for a "falta de casamentos", esta cadeia causal está errada desde o primeiro passo. Zheng Yan-xin aborda o tema com calma: se o problema fosse "não conseguir pagar", os subsídios poderiam ser eficazes; mas se a maioria não se casa, as "políticas económicas são inúteis". Uma investigação do Instituto de Investigação Económica Chung-Hua aponta para o mesmo lugar: os preços das casas e os baixos salários não são a causa principal da falta de casamentos; o fator crucial é que "a maioria dos solteiros tem vontade de se casar, mas após entrarem no mercado de trabalho, têm dificuldade em conhecer parceiros adequados para o casamento"[^25]. Em suma, este problema não se resolve com dinheiro. O dinheiro está a ser aplicado na etapa errada.
 
-E há uma armadilha mais funda: pintar o não ter filhos como "egoísmo dos jovens". Quando as mulheres ganham pela primeira vez a capacidade de dizer não à "expectativa de ter filhos", colar-lhe a etiqueta de egoísmo é injusto e erra o alvo. Afinal, a causa principal nunca esteve nos casados a ter poucos filhos, mas em quem nem entrou no casamento. Voltamos a isto mais à frente.
+Além disso, é preciso ter cuidado com uma armadilha ainda mais profunda: rotular a decisão de não ter filhos como "egoísmo dos jovens". Quando as mulheres têm, pela primeira vez, a capacidade de dizer "não" à expectativa social de procriação, rotular essa escolha como egoísta é injusto e foca o problema no alvo errado. Afinal, a causa principal nunca foi o facto de os casados terem menos filhos, mas sim o facto de as pessoas nem sequer entrarem no casamento. Sobre este ponto, falaremos mais adiante.
 
 ---
 
@@ -164,31 +165,30 @@ Aproveito para limpar um erro citado muitas vezes: muitas notícias dizem que a 
 
 ---
 
-## O Interior Já Fez Todo o Percurso
+## O Campo Já Passou por Isso
 
-Voltemos à Xinwei, pátio sem alunos do 1.º ano.
+Voltando ao pátio da Escola Xinwei, onde não há novos alunos do primeiro ano.
 
-O urbano ouve "baixa natalidade" e acha abstrato, o metro ainda vai cheio, creches ainda têm fila. Mas o interior taiwanês recebeu esta carta há quarenta anos, agora é a vez da cidade abri-la. Puxemos a câmara para toda a ilha: escolas primárias com menos de 50 alunos, 512 em todo o território; menos de 100, 1.025, 38,4% de todas as primárias[^50]. Total de alunos do 1.º ciclo: 1,20 milhões no ano letivo 113, projeta-se 689 mil no 129, quinze anos a evaporar mais de metade[^51].
+Para quem vive na cidade, o termo "baixa natalidade" costuma parecer abstreto; o metrô continua lotado e ainda há filas para entrar no jardim de infância. Mas as zonas rurais de Taiwan já receberam essa notícia há quarenta anos; agora é a vez das cidades abrirem a carta. Olhando para todo o país: existem 512 escolas primárias com menos de 50 alunos; e 1.025 escolas com menos de 100 alunos, o que representa 38,4% de todas as escolas primárias do país[^50]. O número total de alunos do ensino primário, que era de 1,2 milhão no ano letivo de 2024, deve cair para apenas 689 mil no ano letivo de 2040 — mais da metade terá evaporado em quinze anos[^51].
 
-2026: em Kaohsiung, as primárias Xingtian, Xiaolin em Jiaxian, Jianshan em Taoyuan, cada uma com **um** aluno no 1.º ano[^52]; nas 79 escolas da cidade, 1.º ano só abre uma turma. Em Tainan, filiais Daitou em Danei, Liuxi em Hedong, 1.º ano também um cada[^53]. Escolas onde o 1.º ano só dá para uma turma: já 110 em toda a ilha.
+Em 2026, escolas como Xingtian, Jiaxian Xiaolin e Jianshan, em Kaohsiung, e Taoyuan, terão apenas um novo aluno no primeiro ano cada uma[^52]; em toda a cidade de Kaohsiung, apenas 79 escolas conseguirão formar uma única turma de primeiro ano. Em filiais como Danaitou She e Hedong Liuxi, em Tainan, também haverá apenas um aluno por primeiro ano[^53]. O número de escolas em Taiwan que têm tão poucos novos alunos que só conseguem abrir uma turma já chegou a 110.
 
 ```tw-stat
-512 escolas | Primárias com < 50 alunos no total | 2025
-1.025 escolas | < 100 alunos no total, 38,4% do país | 2025
-689 mil | Total de alunos do 1.º ciclo projetado (ano 129) | Contra 1,20 milhões no ano 113
+512 escolas | Escolas primárias com menos de 50 alunos no total | 2025
+1.025 escolas | Menos de 100 alunos no total (38,4% do país) | 2025
+689 mil | Estimativa do número total de alunos do ensino primário (ano letivo de 2040) | Comparado a 1,2 milhão em 2024
+Fonte: Estatísticas do Ministério da Educação (via CNA) [^50][^51]
 ```
 
-Esta máquina do tempo não para na primária. A baixa natalidade é uma onda que sobe pela idade: primeiro esvazia salas de parto, depois primárias, a seguir universidades, quartéis, locais de trabalho, cuidados longos, pensões, uma estação a chegar a horas.
+Essa máquina do tempo não para no ensino primário. A baixa natalidade é uma onda que sobe conforme a idade avança: primeiro esvazia as maternidades, depois as escolas primárias, em seguida as universidades, os quartéis militares, o mercado de trabalho, os cuidados de longa duração e, por fim, as pensões — chegando a cada parada no tempo previsto.
 
-**Universidades** na linha da frente. Caloiros caíram abaixo de 200 mil no ano 114, projeta-se 146 mil no 129[^54]. Sindicato das privadas estima: quando caloiros forem só 50–60 mil, só dá para manter umas 50 privadas, umas **40 escolas enfrentam fecho**[^55]. (Honestidade: 2025 a falta de vagas nas universidades bateu mínimo de 5 anos, só 18 escolas com 1.220 vagas por preencher[^56]. O "abismo de matrículas" a longo prazo é real, mas o número a curto prazo sobe e desce por fechos e redução de vagas, não é tão linear.)
+As **universidades** são as primeiras a sofrer o impacto. O número de calouros do primeiro ano cairá abaixo de 200 mil no ano letivo de 2025, com uma estimativa de que restem apenas 146 mil no ano letivo de 2040[^54]. O sindicato das instituições privadas estima que, quando o número de calouros cair para cerca de 50 ou 60 mil, haverá alunos suficientes para sustentar apenas cerca de 50 universidades privadas, o que significa que aproximadamente 40 instituições enfrentarão o encerramento das atividades[^55]. (Para ser honesto: em 2025, a falta de vagas nas universidades atingiu o nível mais baixo em quase cinco anos, com apenas 18 instituições apresentando um déficit de 1.220 alunos[^56]. O "abismo de novos alunos" a longo prazo é real, mas os números de curto prazo flutuam devido ao fechamento de escolas e à redução de vagas, não sendo uma linha tão reta.)
 
-**Quartéis** também receberam a carta. Rapazes em idade de recruta caíram abaixo de 100 mil pela primeira vez em 2023 (97.828), projeta-se 74 mil em 2031[^57]. **Seguro de Trabalho** ano de falência, adiado de 2028 para 2031, aguentado por injeção sem precedentes de 3.870 mil milhões[^58]. **Mercado de trabalho** buraco de talento, Conselho de Desenvolvimento Nacional estima passar de 400 mil para 480 mil em 2030[^59]. E 2025: Taiwan entra oficialmente em "sociedade superenvelhecida", >65 anos 20,06%, 4,67 milhões[^60].
+Os **quartéis militares** também receberam o aviso. O número de homens aptos para o serviço militar caiu pela primeira vez abaixo de 100 mil em 2023 (97.828 pessoas), com uma estimativa de que restem apenas 74 mil em 2031[^57]. O ano de falência do **seguro social** foi adiado de 2028 para 2031, sustentado por um aporte sem precedentes de NT$387 bilhões[^58]. O déficit de talentos no **mercado de trabalho**, segundo o Conselho de Planejamento e Desenvolvimento, deve expandir de 400 mil para 480 mil até 2030[^59]. E em 2025, Taiwan entrará oficialmente em uma "sociedade superenvelhecida", com a população acima de 65 anos ultrapassando 20,06%, totalizando 4,67 milhões de pessoas[^60].
 
-> 💡 **Sabia que:** Houve um cruzamento silencioso em 2020: cães e gatos em Taiwan ultrapassaram pela primeira vez as crianças 0–14 anos. Nos últimos anos, cães/gatos ~2,79 milhões, ainda mais que crianças 0–14 ~2,68 milhões[^61]. Mais animais que crianças — soa a suspiro, mas é a régua concreta de uma sociedade a transferir o objeto de afeto, companhia, cuidado, da geração seguinte para fora dela.
+> 💡 **Você sabia?** Houve um ponto de intersecção que ocorreu silenciosamente em 2020: naquele ano, o número de cães e gatos em todo o país superou pela primeira vez o número de crianças de 0 a 14 anos. Recentemente, há cerca de 2,79 milhões de animais de estimação, ainda mais do que a população de crianças de 0 a 14 anos (cerca de 2,68 milhões)[^61]. Dizer que há mais pets do que crianças pode soar como um lamento, mas é uma métrica concreta de como uma sociedade está transferindo gradualmente seus objetos de afeto, companhia e cuidado da próxima geração para outros.
 
-De onde vêm os que faltam? Uma parte já foi tapada silenciosamente. Abril de 2025: trabalhadores migrantes em Taiwan **830 mil**, máximo histórico, dos quais só cuidadores estrangeiros de idosos 215 mil[^62]. Mais uns 600 mil novos residentes, a tornar-se o quinto maior grupo étnico de Taiwan[^63]. Ou seja, enquanto Taiwan tem menos filhos, é a força de trabalho de outros países que sustenta em silêncio as fábricas e as camas de cuidados desta ilha. É uma válvula de escape invisível, e um problema ético que ainda não encaramos seriamente: dependemos da sua juventude, mas raramente discutimos a sério a sua condição e futuro.
-
----
+De onde virão as pessoas que faltam? Uma parte já veio silenciosamente. Em abril de 2025, o número de trabalhadores migrantes em Taiwan atingiu **830 mil**, o nível mais alto da história; destes, apenas os cuidadores estrangeiros que assistem aos idosos taiwaneses somam 215 mil pessoas[^62]. Além disso, há cerca de 600 mil novos residentes, que estão prestes a se tornar o quinto maior grupo étnico de Taiwan[^63]. Em outras palavras, enquanto Taiwan nasce cada vez menos, é a força de trabalho de outros países que sustenta silenciosamente as fábricas e os leitos de cuidados de longa duração da ilha. Este é um mecanismo de solução invisível, mas também um problema ético que ainda não enfrentamos adequadamente: dependemos da juventude deles, mas raramente discutimos seriamente a situação e o futuro deles.
 
 ## De Quem É a Crise?
 
