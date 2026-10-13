@@ -438,9 +438,18 @@ def replace_provenance(fm_block: str, zh_path: str, zh_content: str) -> str:
     return "\n".join(kept + provenance_lines(zh_path, zh_content))
 
 
-def frontmatter_debt(zh_fm: dict, tr_fm: dict) -> list[str]:
+def frontmatter_debt(zh_fm: dict, tr_fm: dict, lang: str | None = None) -> list[str]:
     """既有譯文 frontmatter 自帶的債：有就改走 LLM 重翻 frontmatter，不沿用舊值（見 main 註解）。"""
     debt = []
+    # 2026-10-14 babel-nightly：〈幾米〉pt／ar 的 patch 兩種模型各被擋兩次，理由都是
+    # 「description contains CJK」——舊譯文的 description 帶著「(廖福彬)」這類漢字
+    # 夾註，沿用舊值組回去，validate_frontmatter_block() 必然擋下，每次都記成模型
+    # 失敗。存量量到十語共 459 篇 title／description 含漢字。這裡用的是同一把尺
+    # （非 ja/ko 才查），驗證會擋的東西在派 LLM 之前就判成債。
+    if lang and lang not in ("ja", "ko"):
+        for field in ("title", "description"):
+            if _verify.has_cjk(str(tr_fm.get(field) or "")):
+                debt.append(f"{field} 含漢字（validate_frontmatter_block 會擋）")
     zh_alt = zh_fm.get("imageAlt")
     if zh_alt and tr_fm.get("imageAlt") in (None, "", zh_alt):
         debt.append("imageAlt 譯文缺欄或未翻")
@@ -752,7 +761,7 @@ def main() -> int:
     # 五次拒收後才升級整篇重翻——每次拒收都燒掉一次完整 patch。撞到 patch 範圍的
     # pre-existing 問題一律順手接住（REFLEXES #42 v4），這裡多燒一次 frontmatter
     # 呼叫換整篇過閘。
-    fm_debt = frontmatter_debt(zh_fm, tr_fm)
+    fm_debt = frontmatter_debt(zh_fm, tr_fm, args.lang)
     if fm_debt and not fm_fields_changed:
         fm_fields_changed = True
         print(f"   frontmatter 既有債 → 改走 LLM 重翻 frontmatter：{'; '.join(fm_debt)}")

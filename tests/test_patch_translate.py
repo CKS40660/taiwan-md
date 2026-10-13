@@ -53,6 +53,19 @@ def test_frontmatter_debt_flags_tags_collapsed_into_one_string():
     assert MODULE.frontmatter_debt({"tags": ["泰雅族"]}, {"tags": ["タイヤル族"]}) == []
 
 
+def test_frontmatter_debt_flags_cjk_in_title_or_description_outside_ja_ko():
+    # 2026-10-14：〈幾米〉pt 的舊 description 帶「(廖福彬)」，沿用舊值必被
+    # validate_frontmatter_block 擋下；patch 要先判成債改走 LLM 重翻 frontmatter
+    glossed = {"title": "Jimmy Liao", "description": "Liao Fu-pin (廖福彬) desenhava."}
+    assert MODULE.frontmatter_debt({}, glossed, "pt") == ["description 含漢字（validate_frontmatter_block 會擋）"]
+    assert MODULE.frontmatter_debt({}, {"title": "幾米", "description": "x"}, "ar") == ["title 含漢字（validate_frontmatter_block 會擋）"]
+    # ja／ko 的標題本來就可能有漢字，驗證不查，這裡也不判
+    assert MODULE.frontmatter_debt({}, {"title": "幾米", "description": "廖福彬"}, "ja") == []
+    # 乾淨的譯文、以及沒給語言的舊呼叫方式，都不產生債
+    assert MODULE.frontmatter_debt({}, {"title": "Jimmy Liao", "description": "clean"}, "pt") == []
+    assert MODULE.frontmatter_debt({}, glossed) == []
+
+
 def test_chapter_prompt_carries_bare_yuan_money_rule(tmp_path):
     """2026-10-03：「裸的元＝新台幣」只寫進整篇引擎，patch 章節提示沒有；hi〈台灣
     石虎保育〉走 patch，兩個互不相干的模型都把「兩萬元」寫成 युआन。規則住在
