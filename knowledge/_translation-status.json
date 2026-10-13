@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-13T21:52:42+08:00",
-    "zhCommitHead": "da75081fd",
+    "lastUpdated": "2026-10-14T00:16:26+08:00",
+    "zhCommitHead": "f3aa4d1fe",
     "totalZh": 1131,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1131,
-        "fresh": 1125,
-        "stale": 1,
+        "fresh": 1126,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1131,
-        "fresh": 1119,
-        "stale": 7,
+        "fresh": 1120,
+        "stale": 6,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -1656,11 +1656,11 @@
           "sourceContentHash": "sha256:9dd098f7a5a51bd9",
           "sourceBodyHash": "sha256:7e4e331322aaf847",
           "translatedAt": "2026-10-13T11:46:56.181806+00:00",
-          "translationLastCommit": "d4b1ceab",
-          "translationLastModified": "2026-10-10T22:59:12+08:00",
+          "translationLastCommit": "f3aa4d1f",
+          "translationLastModified": "2026-10-13T21:52:42+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "bytes": 59843,
+          "bytes": 59853,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74962,20 +74962,18 @@
         "ar": {
           "path": "ar/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:7ebf5415595c2d0c",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-09-23T22:43:52.579180+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T15:43:34.721165+00:00",
           "translationLastCommit": "1924cd82",
           "translationLastModified": "2026-10-10T22:55:55+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 99941,
+          "bytes": 101024,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/complex-life-festival.md",
@@ -210914,20 +210912,18 @@
         "en": {
           "path": "en/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:bb3880571afae296",
-          "sourceBodyHash": "sha256:4a9169e2b0024dea",
-          "translatedAt": "2026-09-25T17:08:06.024030+00:00",
+          "sourceCommitSha": "13aae9d5a",
+          "sourceContentHash": "sha256:6e5737281981f34c",
+          "sourceBodyHash": "sha256:4526b5691fd4cea3",
+          "translatedAt": "2026-10-13T14:20:32.939985+00:00",
           "translationLastCommit": "a5f8c5d0",
           "translationLastModified": "2026-10-10T22:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 42443,
+          "bytes": 41634,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/wretch.md",
