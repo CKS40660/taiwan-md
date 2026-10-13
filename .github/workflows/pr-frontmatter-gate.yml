@@ -39,7 +39,9 @@ on:
     branches: [main]
     paths:
       - 'CONTRIBUTING.md'
+      - '.gitignore'
       - 'knowledge/**'
+      - 'scripts/core/sync.sh'
       - 'scripts/core/test-frontmatter.mjs'
       - 'scripts/tools/pr-changed-files.mjs'
       - 'src/config/languages.mjs'
