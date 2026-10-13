@@ -26,8 +26,7 @@ image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
-relatedDiary:
-  - 2026-06-25-203919-manual-mirror
+relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
   - id: 150
     platform: 'threads'
@@ -38,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-09T14:15:07+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T09:12:02.500227+00:00'
 ---
 
 # Mini Taiwan Pulse: Mit kuratorischer Sicht das atmende Taiwan-Kartenwerk
@@ -58,38 +57,39 @@ Das klingt nach nichts. Später wurde es der Same für ein ganzes System.
 
 Diese Geschichte handelt davon, wie eine Person von der Naivität, eine CSV zu ziehen, zum Vertrauen in ein selbst wachsendes System kommt.
 
-## Ein GitHub eines Menschen wird zu einem Sternensystem
+## Ein einzelnes GitHub-Profil, das zu einem ganzen Galaxie-System heranwächst
 
-Wenn man nur das Projekt mini-taiwan-pulse betrachtet, ist es leicht, Migu sich als ehrgeizigen Hobby-Ingenieur vorzustellen: Wochenends Inspiration, eine Demo gemacht, zufällig viral gegangen.
+Betrachtet man nur das Projekt mini-taiwan-pulse, könnte man Migu leicht für einen Hobby-Entwickler halten: Jemand, der am Wochenende aus einer Laune heraus ein Demo erstellt hat, das zufällig viral ging.
 
 Diese Vorstellung ist in zwei Punkten falsch.
 
-Erstens: Es ist weit mehr als eines. Öffnet man sein GitHub, nach Dezember 2025 dicht an dicht lauter Visualisierungen von taiwanischen Offendaten: Zuerst ein Proof-of-Concept zum Bus-Service, dann Dezember Ende ein Projekt namens `mini-taiwan-learning-project`, das schneller viral ging – 189 Sterne heute. Februar machte er Echtzeit-AIS-Punkte für Schiffe, zeichnete Flugrouten als Bögen mit `flight-arc-graph` (56 Sterne). Februar-Ende kam erst mini-taiwan-pulse, dann Taiwan Rail Atlas, Satellitenumlaufbahnen, CCTV Echtzeit-Bilder, ein Kontrollpult `mini-taiwan-info` das alle Daten zusammenfasst… bis Juni[^2]. Dutzende Repos verbunden zu einem „Mini Taiwan"-Sternensystem, wie er es nennt.
+Erstens hat er weit mehr als nur ein Projekt erstellt. Öffnet man sein GitHub-Profil, sieht man ab Dezember 2025 eine dichte Abfolge von Visualisierungen taiwanesischer Open Data: Es begann mit einem PoC für Buslinien als ersten Testlauf. Ende Dezember folgte das Lernprojekt `mini-taiwan-learning-project`, das bereits populär wurde und heute 189 Sterne aufweist. Im Februar erstellte er Echtzeit-Positionen für Schiffs-AIS und das Projekt `flight-arc-graph` (56 Sterne), welches jeden Flugstart und jede Landung als Bogen darstellt. Erst Ende Februar kam mini-taiwan-pulse an die Reihe, gefolgt von einem Taiwan Railways Atlas, Satellitenbahnen, Echtzeit-CCTV-Bildern und schließlich dem Dashboard `mini-taiwan-info`, das alle Daten zusammenführt ... Dies setzte sich bis Juni fort[^2]. Über ein Dutzend Repositories bilden ein zusammenhängendes Ganzes, das er selbst „Mini Taiwan“-Galaxie getauft hat.
 
-![Mini Taiwan Info Kontrollpult – verstreute Offendaten verdichtet zu Seite-pro-Thema-Monitoren für Bevölkerung, Schienenverkehr, Schifffahrt, Wasserressourcen, Feuerwehr, Gesundheitswesen etc.](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![Mini Taiwan Info Lagebericht: Er fasst verschiedene Open-Data-Themen wie Bevölkerung, Schienenverkehr, Schifffahrt, Wasserressourcen, Feuerwehr und Medizin in einem einseitigen Monitoring-Panel zusammen.](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Ein anderes Mitglied des Sternensystems, Mini Taiwan Info: Er verdichtet verstreute Offendaten zu einem Situationsmonitor – Bevölkerung, Schienenverkehr, Schifffahrt, Wasserressourcen, Feuerwehr, Gesundheitswesen, je ein Thema pro Seite. Bild: Migu / sciwork 2026 (fair use für Editorialkommentar)._
+_Ein weiteres Mitglied der Galaxie, Mini Taiwan Info: Er bündelt verstreute Open Data zu einem Lagebericht-Dashboard mit jeweils einer Seite pro Thema (Bevölkerung, Schienenverkehr, Schifffahrt, Wasserressourcen, Feuerwehr, Medizin). Bild: Migu / sciwork 2026 (Fair Use für redaktionelle Zwecke)._
 
-Ordnet man die Star-Zahlen dieser Projekte, ist nicht nur eines erfolgreich.
+Sortiert man die Sterne dieser Projekte nach Beliebtheit, fällt auf, dass es deutlich mehr als nur einen „Hit“ gibt.
 
 ```tw-bars
-Migus GitHub: Mehr als ein virendes Repo (GitHub-Sterne)
+Migus GitHub: Mehr als ein erfolgreiches Repo (GitHub Stars)
 *mini-taiwan-pulse | 375 | Flaggschiff
-mini-taiwan-learning-project | 189 | viral vor pulse
-flight-arc-graph | 56 | Flugrouten
-tw-ship-viz | 11 | Schiffe
+mini-taiwan-learning-project | 189 | Wurde vor pulse populär
+flight-arc-graph | 56 | Flugbahnen
+tw-ship-viz | 11 | Schifffahrt
 mini-tw-cctv | 6 | Echtzeitbilder
 satellite-arc | 6 | Satelliten
 Quelle: GitHub API, 2026-06-25
 ```
 
-Der zweite falsche Punkt verbirgt sich hinter „ein Mensch" – das klären wir später. Erst schauen wir, wie das Sternensystem wuchs.
+Der zweite Fehler in der Annahme verbirgt sich hinter dem Begriff „eine Person“ – darauf werden wir gleich noch zurückkommen. Schauen wir uns zunächst an, wie die Galaxie gewachsen ist.
 
 ```tw-timeline
-2025-12 | Erstes Testlauf | Bus-Servicebereich PoC, früheste Taiwan-Offendaten-Versuche
-2025-12 | learning-project viral | Taipeh-Schienenvisualisierung, viral vor dem Flaggschiff (189★)
-2026-02 | Flaggschiff geboren | mini-taiwan-pulse startet, von statischem JSON zu Echtzeit-räumliche Datenbank
-2026-06 | Ganzes System offen gelegt | sciwork 2026 Rede: Offendaten an von Agenten gezogenes selbst-wachsendes System geben
+2025-12 | Erster Testlauf | Buslinien-PoC, erster Versuch mit Open Data aus Taiwan
+2025-12 | learning-project wird populär | Visualisierung des Schienenverkehrs in Taipeh, wurde vor dem Flaggschiff bekannt (189★)
+2026-02 | Geburt des Flaggschiffs | mini-taiwan-pulse startet, entwickelt sich von statischen JSON zu einer Zeit-Raum-Datenbank
+2026-06 | Das Gesamtsystem wird präsentiert | sciwork 2026 Vortrag: Ein System, das Open Data Agenten zur Verfügung stellt
+Quelle: Migus GitHub-Projektverlauf (Zeitstrahl und Sterne) sowie Inhalte des sciwork 2026 Vortrags[^2][^3]
 ```
 
 ## Dasselbe Verfahren: von der Eisenbahn bis zum Sonnensystem

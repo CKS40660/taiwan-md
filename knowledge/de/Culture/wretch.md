@@ -17,17 +17,17 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
-researchReport: reports/research/2026-06/無名小站.md
+researchReport: 'reports/research/2026-06/無名小站.md'
 image: '/article-images/culture/wretch-downtime-notice-2005.webp'
 imageAlt: 'Screenshot einer Wechsel-Wartungsmitteilung des Wretch-Portals von 2005, aufgenommen mit Internet Explorer'
 imageCredit: 'Alan Sung'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Wretch_notice_(24364911).jpg'
 rationale:
-  why_this_hook: 'Schrott-Computer × »Stromschalter«-Motiv: Von dem Stromschalter, den man jederzeit umlegen kann, bis zu dem Moment, an dem Yahoo für Chien Chih-yu den Schalter umlegte (2013/12/26), zieht sich ein roter Faden durch den gesamten Text und führt zurück zu heute (dein Instagram, dein Facebook stecken ebenfalls in einer fremden Steckdose).'
-  whats_excluded: 'Die Frauenbilder und Objektifizierung der Wretch-Fotogalerien werden nur angedeutet (um sie nicht zu reproduzieren; der Ausdruck »Schande« würde Geschlechtsgewalt verharmlosen); das pandachinesische Sprachgebiet (Hongkong/Malaysia) hatte keine stichhaltige Einzelquellenverifikation und war seit 2007 von der Great Firewall blockiert, daher nicht im Rahmen »gemeinsamer Erinnerung der chinesischsprachigen Welt« enthalten; die persönliche Zukunft der fünf Mitgründer außer Chien wurde nicht tiefergehend behandelt (Platzgründe).'
-  where_it_hedges: 'Die 700-Millionen-Zahl wurde offiziell nie veröffentlicht (Medienberechnungen: USD 22 Millionen); Chia Wen-chung 49 % Anteile / 300 Millionen Netto-Einnahmen nur aus einer Quelle (Gvm.com.tw); »Wenn man nicht gewinnen kann, kauft man einfach« ist gekennzeichnet als Kommentar, nicht als offizielle Yahoo-Begründung; 2025 wretch_1999 gekennzeichnet als vermutlich Fan-gemacht; die Archivlinks zu Passwort-Fotogalerien-Vollöffnung 2007/4/14 und PTT-Diskussionen sind verloren.'
-  whos_pushing_back: 'Chu Hsueh-heng (2006 »Do No Evil Anti-Beispiel«), Legislator Tang Huo-sheng (2007 Anfrage zur privatwirtschaftlichen Nutzung des akademischen TANet), Digital-Rights-Perspektive (Dateneigentum und fehlender Bestand auf Staatsebene), Kritik an der Nostalgie-Linse, die sexuelle Objektifizierung auf der Plattform verharmloste.'
+  why_this_hook: '撿來的報廢電腦 ×「電源」母題：從可隨手關的電源，到 Yahoo 替簡志宇按下開關（2013/12/26），貫穿全文並收回當代（你的 IG／FB 也插在別人的電源上）。'
+  whats_excluded: '無名相簿正妹文化的物化批評只點到為止（避免重現物化、「黑歷史」一詞會輕巧化性別暴力）；泛華語圈（香港／馬來西亞）使用未獲一手佐證且 2007 年起遭 GFW 封鎖，故不納入「華語圈共同記憶」框架；簡志宇以外五位創辦人後續人生未深寫（篇幅 scope）。'
+  where_it_hedges: '七億金額官方從未公開（媒體推算 US$2200 萬）；賈文中 49%／進帳 3 億僅遠見單一來源；「打不過就買」明標為評論而非 Yahoo 官方理由；2025 wretch_1999 標為疑似粉絲自製；2007/4/14 密碼相簿全開一手新聞存檔已佚、經維基百科轉引 PTT 討論。'
+  whos_pushing_back: '朱學恆（2006「Do No Evil 反面教材」）、立委唐火生（2007 質詢公器私用 TANet 學術網路）、數位人權視角（個資歸屬與零國家級保存）、對「青春記憶」懷舊濾鏡掩蓋密碼相簿全開與女性物化的批評。'
 sporeLinks:
   - id: 138
     platform: 'threads'
@@ -37,13 +37,12 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-14'
     url: 'https://x.com/taiwandotmd/status/2066024659238465719'
-relatedDiary:
-  - 2026-06-14-154636-無名小卒勘誤
-translatedFrom: Culture/無名小站.md
-sourceCommitSha: b67b190fb
-sourceContentHash: sha256:0a95932daf2783da
-sourceBodyHash: sha256:4a9169e2b0024dea
-translatedAt: 2026-09-09T14:15:07+08:00
+relatedDiary: ['2026-06-14-154636-無名小卒勘誤']
+translatedFrom: 'Culture/無名小站.md'
+sourceCommitSha: '13aae9d5a'
+sourceContentHash: 'sha256:6e5737281981f34c'
+sourceBodyHash: 'sha256:4526b5691fd4cea3'
+translatedAt: '2026-10-13T08:26:32.425516+00:00'
 ---
 
 # Wretch: Der Schrott-Computer, die verkaufte Jugend und ein Abschied ohne Trauergottesdienst
@@ -70,25 +69,26 @@ Zum Namen: Sie gaben ihm selbstironisch den Namen »Wretch« (無名 / »Niemand
 
 ![Die Südtoreinfahrt des Kuangfu-Campus der National Chiao Tung University. Wretch wurde 1999 in einem Studentenwohnheim in Hsinchu gegründet, sechs Informatik-Studierende bauten es aus Altgeräten ihrer Universität zusammen](/article-images/culture/nctu-kuangfu-campus-south-gate.webp)
 
-## »Wer war bei mir zu Besuch«: Wie Taiwan »Gesehen werden« zu einer Form der Nähe machte
+## Wer besucht mein Zuhause: Wie die Taiwaner das „Gesehenwerden“ zu einer Form von Intimität machten
 
-Wretch begann wirklich zu wachsen, als es die Blog-Funktion hinzufügte. Am 28. Oktober 2003 wurde die Blog-Funktion offiziell freigeschaltet[^6]. Es nähte die drei trendigsten Dinge dieser Zeit in ein und dasselbe Konto: einen persönlichen Blog zum Verfassen längerer Texte (nicht die PChome-Variante »Persönliche Nachrichtenseite«), ein passwortgeschütztes Online-Fotoalbum und einen Kommentarbereich, in dem jeder die Ecke als seinen eigenen persönlichen Raum gestalten konnte.
+Wumeng (無名小站) begann erst so richtig zu expandieren, als es aus einem BBS-System heraus Blog-Funktionen entwickelte. Am 28. Oktober 2003 wurde die Blog-Funktion offiziell freigeschaltet[^6]. Damit wurden die drei damals angesagtesten Features in einem einzigen Account vereint: ein persönliches Weblog für längere Texte (kein „persönlicher Nachrichtensender“, das war der Markenname von PChome), passwortgeschützte Online-Fotoalben und eine Kommentarfunktion, auf der Besucher Nachrichten hinterlassen konnten – jeder konnte seine eigene kleine Ecke so gestalten, wie er es wollte.
 
-![Der Login-Bildschirm einer taiwanischen Campus-BBS (hier PTT, ebenfalls Produkt der BBS-Ära Ende 1990er). Wretch startete ursprünglich als BBS-Station auf dem akademischen Netzwerk, bevor es eine Foto- und Blog-Funktion hinzufügte](/article-images/culture/bbs-login-screen-ptt.webp)
+![Screenshot eines Logins bei einem taiwanischen Campus-BBS (das Bild zeigt PTT, das wie Wumeng zur BBS-Generation der späten 1990er Jahre gehört). Wumeng war ursprünglich ein auf dem akademischen Netzwerk basierendes BBS, aus dem später Fotoalben und Blogs hervorgingen](/article-images/culture/bbs-login-screen-ptt.webp)
 
-Das Besondere, das die taiwanische Identität zeigt, ist die Funktion »Wer war bei mir zu Besuch«. Sie notierten sich jeden, der deine Seite besucht hatte, und blieben als digitale Besuchsspur übrig. Im Westen hätte die bloße Zur-Schau-Stellung von »Wer hat mich angesehen«, achtzig Prozent der Nutzer, die sich um Privatsphäre sorgten, wahrscheinlich abgeschreckt. Dies ist ein Gefühl von Überwacht-werden — später trauten sich Facebook und Instagram nie, eine Funktion »Wer hat deine Seite gesehen« anzubieten, aus Angst genau vor diesem Unbehagen. Aber in Taiwan wurde es zu einer Form von digitaler Nähe: Du weißt, dass die Person, die du heimlich liebst, gestern Nacht um elf Uhr dein Album besucht hat; du weißt, dass ein alter Freund dich heimlich besucht hat. Gesehen werden wurde hier zum Beweis, dass man umsorgt wird.
+Am besten den „Taiwan-Vibe“ vermittelte die Funktion „Wer besucht mein Zuhause“ (誰來我家). Sie registrierte jeden, der deine Seite besucht hatte, und hinterließ eine Spur von Besucherprotokollen. Im Westen würde die Tatsache, „wer mich angesehen hat“, offen zu legen, vermutlich eine ganze Gruppe von datenschutzbewussten Nutzern abschrecken; es erzeugt ein Gefühl der Überwachung. Selbst Facebook und Instagram haben sich bis heute nicht getraut, eine Funktion wie „Wer hat dein Profil besucht“ einzuführen – aus Angst vor genau diesem Unbehagen. In Taiwan jedoch wurde dies zu einer Form digitaler Intimität: Man wusste, dass die Person, in die man heimlich verliebt war, gestern Abend um elf Uhr das Fotoalbum besucht hatte, oder man sah, welcher alte Freund stillschweigend vorbeigeschaut hatte. Das „Gesehenwerden“ wurde hier zu einem Beweis dafür, dass man jemandem wichtig war.
 
-Dieselbe Designlogik dehnte sich auf Albumpasswörter aus. Fotos abzusperren und das Passwort nur an bestimmte Personen zu geben war selbst bereits eine kleine Vertrauenszeremonie: Wem du das Passwort gabst, bedeutete, dass du die Person in deinen inneren Kreis aufnahmst. Für diese Generation von Taiwan war »gesehen werden«, eine Sache mit ursprünglichem Risiko, in eine Geste der Wärme übersetzt. Dies ist der verlockendste und zugleich am leichtesten von einer Nostalgie-Brille aufgeblasene Teil von Wretch. Aber genau diese unbewachte Nähe macht das, was wir als nächstes erzählen werden, besonders grausam: Je mehr du abgibst, desto mehr verlierst du am Ende.
+Die gleiche Logik erstreckte sich auf die Passwortschutz-Funktion der Alben. Fotos wegzuschließen und das Passwort nur bestimmten Personen privat mitzuteilen, war an sich ein kleines Vertrauensritual: Wem man das Passwort gab, bedeutete, dass man diese Person in seinen inneren Kreis aufnahm. Für jene Generation von Taiwanern wurde das „Gesehenwerden“ – eine Sache, die ursprünglich mit Risiken verbunden war – durch Wumeng in etwas Warmherziges übersetzt. Dies ist der faszinierendste Teil von Wumeng, der durch den Nostalgie-Filter oft noch verstärkt wird. Doch genau diese schutzlose Intimität macht das Folgende besonders grausam: Je mehr man preisgibt, desto mehr verliert man am Ende.
 
-> 💡 **Wusstest du das?**
-> »Album-Passwörter« waren in dieser Zeit die absolute Standardwährung der taiwanischen Internet-Sozialisierung. Wem du das Passwort gabst und wem nicht, bestimmte die konzentrischen Kreise deiner Beziehungen. Aber dies enthielt eine Prämisse, über die damals niemand nachgedacht hatte: Das Schloss hast du nie selbst in Verwahrt. Es lag auf dem Server, und die endgültige Kontrolle über den Schlüssel lag beim Plattformbetreiber. Am 14. April 2007 wurden die verschlossenen Fotoalben von Wretch einmal »vollständig geöffnet«, und alle persönlichen Fotos wurden vorübergehend öffentlich gemacht, weil das System fehlerhaft funktionierte; der offizielle Account sagte, es sei »ein Fehler während Wartungsarbeiten«[^7]. So »privat«, wie die »Fotoalben« auch sein sollten, wurden sie nie wirklich.
+> 💡 **Wussten Sie schon?**
+> „Album-Passwörter“ waren damals die harte Währung des sozialen Netzwerks in Taiwan. Wem man ein Passwort gab und wem nicht, glich dem Zeichnen von konzentrischen Kreisen der eigenen Beziehungen. Doch dabei verbarg sich eine Voraussetzung, über die damals niemand genauer nachdachte: Das Schloss wurde nie von einem selbst verwaltet. Es lag auf dem Server, und die endgültige Kontrolle über den Schlüssel lag bei der Plattform. Am 14. April 2007 waren die passwortgeschützten Alben von Wumeng einmalig „vollständig offen“: Aufgrund eines Systemfehlers wurden alle verschlossenen privaten Fotos kurzzeitig öffentlich zugänglich, was offiziell als „Folge von Systemwartungsarbeiten“ bezeichnet wurde[^7]. Das sogenannte „private Album“ war also nie wirklich privat.
 
-Bis 2006 war Wretch bereits die zweitgrößte Website Taiwans, hinter nur Yahoo Taiwan. Nach der Berechnung der unabhängigen Nutzer (Unique Visitor) durch InsightXplorer ARO erreichte die Reichweite 63,81 %, mit über 6,5 Millionen unabhängigen Besuchern pro Monat[^8]. Mehr als 2,5 Millionen registrierte Nutzer, 500 Millionen Fotos, über 5.000 Blogs, jeden Tag 1,2 Millionen Besuche[^3]. Etwas, das aus einer Campus-BBS in einem Studentenwohnheim herauswuchs, war in sieben Jahren zu der Standardhomepage für eine ganze Generation geworden, wenn sie ins Internet ging. Der Anstieg der Nutzerzahl zeichnete beinahe eine Zeitrafferzeigelung davon nach, wie die ganze Generation Taiwans ins Internet umzog.
+Im Jahr 2006 war Wumeng bereits die zweitgrößte Website Taiwans, direkt nach Yahoo! Kimo. Basierend auf der Unique Reach (einzigartige Reichweite) laut dem ARO-Bericht von Chuangshiji stieg die Reichweite auf 63,81 %, mit monatlich über 6,5 Millionen Unique Visitors[^8]. Mit über 2,5 Millionen registrierten Mitgliedern, 500 Millionen Fotos und mehr als 5.000 Blogs gab es täglich 1,2 Millionen Seitenaufrufe[^3]. Etwas, das aus einem Studentenwohnheim-BBS gewachsen war, wurde innerhalb von sieben Jahren zur Standard-Startseite für eine ganze Generation beim Surfen im Internet. Die Kurve des Mitgliederwachstums gleicht fast einer Zeitrafferaufnahme des kollektiven Umzugs einer ganzen Generation ins Internet.
 
 ```tw-stat
-200.000 | Registrierte Nutzer | November 2004
-2,8 Millionen | Registrierte Nutzer | Oktober 2006
-3 Millionen | Registrierte Nutzer | Juli 2007
+200.000 | Registrierte Mitglieder | November 2004
+2,8 Mio. | Registrierte Mitglieder | Oktober 2006
+3,0 Mio. | Registrierte Mitglieder | Juli 2007
+Quelle: Wikipedia (200.000 im Nov. 2004, 3,0 Mio. im Juli 2007) + Chuangshiji ARO Traffic Report (2,8 Mio. im Okt. 2006)[^8]
 ```
 
 ## Jia Wen-chung's zehn Millionen und die siebenhundert Millionen, die niemand öffentlich machte
@@ -120,31 +120,33 @@ Es gibt eine wichtige Klarstellung. Die damals oft mit »Wretch brütete Online-
 
 Das war Wretch' höchster Moment. Über Yahoo hinaus, eine ganze Generation von Künstlern aufgezogen, 500 Millionen Fotos im Server gestapelt. Niemand hätte sich in diesem Höhepunkt vorgestellt, dass acht Jahre später all das an einem Abend auf null gehen würde.
 
-## Wenn man nicht mehr spielen will, dreht man einfach den Stromschalter ab
+## Wenn man nicht mehr spielen will, schaltet man einfach den Strom aus
 
-Wretch' Niedergang hatte keinen plötzlichen Todesstoß. Es wurde von mehreren Kräften gleichzeitig gezogen und langsam ausgeblutet.
+Der Niedergang von Wretch geschah nicht durch einen plötzlichen Schlag. Er wurde von mehreren Kräften gleichzeitig in die Länge gezogen und langsam ausgehöhlt.
 
-Die erste Kraft war »Verweilzeit-Effekt«. Im September 2009 übertraf Facebook Wretch nach InsightXplorer ARO und belegte den zweiten Platz unter taiwanischen Websites[^20]. Das Interessante ist: Facebook gewann nicht bei der Reichweite — »wie viele Menschen kamen« — war Wretch noch führend; aber Facebook gewann bei »wie lange bleiben die Menschen, nachdem sie kommen«. Die Umfrage dieses Monats zeigte: Facebook-Nutzer verweilten durchschnittlich 6,3 Minuten pro Tag, Wretch nur 3,9 Minuten[^20]. Die Ability des Algorithmus, Menschen zu binden, war etwas, das Fotoalben und Blogs nicht geben konnten.
+Die erste Kraft war die Bindungskraft. Im September 2009 überholte Facebook Wretch in einer Umfrage von Chuangshiji ARO und sicherte sich den zweiten Platz der größten Websites Taiwans[^20]. Bemerkenswert ist dabei, dass Facebook nicht durch die Reichweite gewann: Was die Frage „Wie viele Menschen waren schon hier?“ betrifft, lag Wretch tatsächlich noch vorne; Facebook gewann jedoch bei der Frage „Wie lange bleiben die Leute, wenn sie erst einmal da sind“. Die Umfrage jenes Monats zeigte, dass Facebook-Nutzer durchschnittlich 6,3 Minuten pro Tag auf der Plattform verbrachten, während es bei Wretch nur 3,9 Minuten waren[^20]. Die Fähigkeit der Newsfeed-Wand, Menschen zu binden, konnten Fotoalben und Blogs nicht bieten.
 
 ```tw-versus
 Wretch | Facebook
-3,9 Minuten tägliche Verweilzeit | 6,3 Minuten tägliche Verweilzeit
-Du dekorierst eine Seite, schaust sie an und gehst | Der Algorithmus füttert dich ständig mit neuem Inhalt und hält dich fest
-Gewinnt durch »wie viele Menschen kamen« | Gewinnt durch »wie lange die Menschen bleiben«
+3,9 Min. Verweildauer täglich | 6,3 Min. Verweildauer täglich
+Man gestaltet eine Seite und geht nach dem Lesen wieder | Die Newsfeed-Wand füttert ständig neue Inhalte und bindet einen
+Gewinnt bei „Wie viele Menschen waren schon hier“ | Gewinnt bei „Wie lange bleiben die Leute, wenn sie erst einmal da sind“
+Quelle: Chuangshiji ARO Umfrage, September 2009 (Bericht der E-commerce Times) [^20]
 ```
 
-Die zweite Kraft war das Smartphone. Ab 2010 verbreiteten sich Smartphones, und der Internet-Zugangspunkt zog vom Computerbildschirm in die Hosentasche, während Wretch' Benutzeroberfläche für Desktops gebaut war. Die dritte Kraft kam von dem neuen Besitzer. Nach Yahoos Übernahme entstanden verschiedene Reibereien bei der Kontointegration, und das Produkt selbst blieb beinahe stecken. Ein 2013 Business Weekly Blog-Post beschrieb es scharf aber genau als »eine Website mit ständig sinkendem Datenverkehr, deren Oberflächengestaltung fast gar keinen Fortschritt zeigt und immer noch in einer 2006er-Denkweise steckt, ein veralteter Star«[^21].
+Die zweite Kraft war das Smartphone. Mit der Verbreitung von Smartphones ab dem Jahr 2010 verlagerte sich der Zugang zum Internet vom Computerbildschirm in die Handfläche, während das Layout von Wretch für Desktop-PCs konzipiert war. Die dritte Kraft kam von seinem neuen Eigentümer. Nach der Übernahme durch Yahoo führte die Integration der Konten zu verschiedenen Reibungspunkten, und die Produktentwicklung selbst blieb nahezu auf der Stelle stehen. Der Blog des Wirtschaftsmagazins Business Weekly nutzte 2013 eine scharfe, aber präzise Beschreibung: Wretch sei ein „ausgelaufener Star mit ständig sinkenden Zugriffszahlen und einem Interface-Design, das kaum Fortschritte gemacht hat und immer noch in der Denkweise von 2006 verharrt“[^21].
 
-Wretch, zerwühlt von drei Kräften gleichzeitig, wartete schließlich auf Yahoos »schwierige Entscheidung«. Am 30. August 2013 kündigte Yahoo an, Wretch zu schließen, mit der Begründung, den Fokus auf »Mobile First« zu legen und Ressourcen auf Kernprodukte zu konzentrieren. Die offizielle Mitteilung war sehr offiziell: »Um unsere Aufmerksamkeit wieder auf die Optimierung von Kernprodukten und die Beschleunigung der Entwicklung innovativer Dienste zu konzentrieren, müssen wir manchmal schwierige Entscheidungen treffen.«[^22] Dann folgte ein vier Monate langes Rückwärtzählen, von der Ankündigung bis zum Löschen, jeder Schritt schloss die Tür mehr[^23].
+Wretch, das gleichzeitig von diesen drei Kräften hin- und hergerissen wurde, musste schließlich die „schwierige Entscheidung“ von Yahoo abwarten. Am 30. August 2013 gab Yahoo die Schließung von Wretch bekannt, mit der Begründung, man wolle sich auf „Mobile First“ konzentrieren und Ressourcen in Kernprodukte investieren. Die offizielle Erklärung war sehr förmlich: „Um uns wieder auf die Optimierung unserer Kernprodukte und die Beschleunigung der Entwicklung innovativer Dienste zu konzentrieren, müssen manchmal schwierige Entscheidungen getroffen werden.“[^22] Es folgte ein viermonatiger Countdown; von der Ankündigung bis zur Löschung wurde mit jedem Schritt die Tür ein Stück weiter zugeschlagen[^23].
 
 ```tw-timeline
-8/30 | Schließung angekündigt | Yahoo schloss Wretch und Yahoo Blogs gleichzeitig unter dem Vorwand »Mobile First«
-9/2 | Registrierung gestoppt, Backup eröffnet | »Einfacher Umzug« Tool bot an, zu Xuite, Pixnet, Tumblr zu wechseln
-10/30 | Nur noch Lesezugriff | Du kannst noch sehen, aber kannst nichts mehr ändern oder hinzufügen
-12/26 | Vollständige Löschung | Zwei Millionen Menschen's Blogs und Fotoalben existieren ab diesem Tag nicht mehr
+30.08. | Schließung angekündigt | Yahoo schließt Wretch und Yahoo Blog unter dem Vorwand „Mobile First“
+02.09. | Registrierung gestoppt, Backup möglich | Bereitstellung von „Easy Move“-Tools zum Umzug nach Xuite, Pixnet oder Tumblr
+30.10. | Read-Only-Modus | Inhalte sind noch sichtbar, aber man kann nichts mehr ändern oder hinzufügen
+26.12. | Vollständige Löschung | Die Blogs und Fotoalben von über zwei Millionen Menschen existierten ab diesem Tag nicht mehr
+Quelle: Offizielle Schließungsmitteilung von Yahoo + ETtoday Bericht über die drei Phasen, August–Dezember 2013[^22][^23]
 ```
 
-Chien Chih-yu's ursprüngliche Worte »wenn wir nicht mehr spielen wollen, drehen wir einfach den Stromschalter ab« bedeuteten ursprünglich Verantwortung — er wollte für diese Plattform bis zum Ende verantwortlich sein. Aber diese Worte trugen eine verborgene Prämisse, die er damals nicht sagte oder vielleicht nicht realisierte: **Der Stromschalter, von dem er sprach, war schon lange nicht mehr in seinen Händen.** In dem Moment der Unterzeichnung 2007 war die Kontrolle über den Schalter auf Yahoo übergegangen. Am Abend des 26. Dezember 2013 wurde der Stromschalter von Wretch wirklich umgelegt — aber nicht von den damaligen Studenten, die einfach den Stecker ziehen wollten, sondern von dem Unternehmen, das es gekauft hatte.
+Chien Chih-yus damaliger Satz „Wenn man nicht mehr spielen will, schaltet man einfach den Strom am Host aus“, war ursprünglich als Bekenntnis zur Verantwortung gedacht – er wollte für diese Plattform bis zum Ende gerade stehen. Doch in diesem Satz verbarg sich eine Voraussetzung, die er nicht aussprach und die er damals vielleicht noch gar nicht begriff: **Der Strom, von dem er sprach und den man nicht abschalten konnte, lag längst nicht mehr in seiner Hand.** In dem Moment, als er 2007 den Vertrag unterzeichnete, ging die Verfügungsgewalt über den Schalter auf Yahoo über. In der Nacht des 26. Dezember 2013 wurde der Strom für Wretch tatsächlich abgeschaltet – doch wer den Schalter drückte, waren nicht die Studenten von damals, die bei Lust und Laune einfach den Stecker ziehen wollten, sondern das Unternehmen, das die Plattform gekauft hatte.
 
 ## Ein Abschied ohne Trauergottesdienst
 
