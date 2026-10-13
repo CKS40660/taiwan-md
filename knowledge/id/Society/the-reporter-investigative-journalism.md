@@ -29,15 +29,19 @@ rationale:
   where_it_hedges: '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。'
   whos_pushing_back: 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'
 sporeLinks:
-  [
-    "{'id': 144, 'platform': 'threads', 'date': '2026-06-16', 'url': 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'}",
-    "{'id': 145, 'platform': 'x', 'date': '2026-06-16', 'url': 'https://x.com/taiwandotmd/status/2066822763638341918'}",
-  ]
+  - id: 144
+    platform: 'threads'
+    date: '2026-06-16'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'
+  - id: 145
+    platform: 'x'
+    date: '2026-06-16'
+    url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:46044d1881e9332e'
-sourceBodyHash: 'sha256:ca526dda99de158c'
-translatedAt: '2026-08-03T03:16:07+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:00bd13342bc6cb3c'
+sourceBodyHash: 'sha256:d77e750f6664a705'
+translatedAt: '2026-10-13T02:47:34.761425+00:00'
 ---
 
 > **Ringkasan 30 Detik:** _The Reporter_ adalah media investigasi daring nirlaba pertama di Taiwan yang didanai donasi warga, pada Desember 2015 saat diluncurkan, donatur rutin bulanan hanya 4 orang, pendiri Ho Jung-hsing tidak berani memberitahu rekan kerja angka ini[^1]. Sepuluh tahun kemudian pada Oktober 2025, angka ini tumbuh menjadi sekitar 8.000 orang, target berikutnya 10.000[^2]. Ia pernah menulis "Blood and Tears Fishery" mengejar ke tiga negara[^3], menulis kasus pekerja hitam terikat utang hingga manajemen Chung Chou University of Science and Technology dihukum 5 tahun 6 bulan[^4], menulis "Fenomena Chokubi" kemudian Kementerian Kesehatan dan Kesejahteraan (Kemenkes) memperbaiki aturan baru PGY untuk praktik kecantikan medis[^5]. Disiplinarnya yang diumumkan ke publik hanya tiga kalimat: "Tidak memiliki, tidak campur tangan, tidak menarik kembali"[^6]. Biaya yang paling tidak bisa dihemat _The Reporter_, persis hal yang paling tidak ingin dibayar orang di era algoritma, pulau ini menggunakan cara potongan 200, 300 elemen per bulan dari orang asing, melanjutkan langganan jurnalisme investigasi dari bisnis rugi, menjadi barang publik yang terus dipelihara namun terbakar semakin cepat.
@@ -64,26 +68,27 @@ Donatur rutin bulanan, dari bulan pertama online 2015 hingga ulang tahun ke-10 2
 Podcast ulang tahun ke-10 The Reporter, 2025-10
 ```
 
-## Tidak Memiliki, Tidak Campur Tangan, Tidak Menarik Kembali
+## Tanpa Kepemilikan, Tanpa Intervensi, Tanpa Pengembalian
 
-Halaman ["Tentang Kami" website _The Reporter_](https://www.twreporter.org/about-us), meringkas janji ke donatur jadi tiga kata kerja: tidak memiliki, tidak campur tangan, tidak menarik kembali[^18].
+Halaman [「Tentang Kami」 di situs resmi](https://www.twreporter.org/about-us) _The Reporter_ meringkas komitmen mereka kepada para donatur ke dalam tiga kata kerja: tanpa kepemilikan, tanpa intervensi, dan tanpa pengembalian[^18].
 
-"Tidak memiliki" artinya donatur tidak akan karena donasi berapa pun punya saham atau hak keputusan arah editorial. "Tidak campur tangan" artinya donatur tidak bisa perintah isi, timing, arah liputan individual. "Tidak menarik kembali" artinya uang donasi masuk, uang itu jadi biaya kerja jurnalistik _The Reporter_, tidak akan dikembalikan alasan apapun, juga tidak jadi chip yang bisa ditarik kapan saja.
+"Tanpa kepemilikan" berarti donatur tidak akan memiliki saham atau hak pengambilan keputusan atas arah editorial berdasarkan seberapa banyak uang yang mereka sumbangkan. "Tanpa intervensi" berarti donatur tidak dapat memberikan instruksi mengenai konten, waktu publikasi, maupun arah dari laporan berita tertentu. "Tanpa pengembalian" berarti setelah donasi masuk, dana tersebut menjadi biaya operasional kerja jurnalistik _The Reporter_, tidak akan dikembalikan dengan alasan apa pun, dan tidak akan dianggap sebagai modal yang dapat ditarik kapan saja.
 
-Tiga kalimat ini baca seperti propaganda CSR perusahaan, tapi yang benar-benar ingin diselesaikan adalah masalah struktural industri media Taiwan terbelit tiga puluh tahun: bos campur tangan, pengiklan tarik iklan, pemerintah bocorkan berita. Media komersial Taiwan hampir tidak ada yang bisa lepas total dari minimal salah satu dari tiga garis ini. Solusi _The Reporter_ pakai desain organisasi dari akar memutus tiga garis: tidak ada pemegang saham, tidak ada iklan, tidak ada proyek pemerintah. Apel moral nggak selamatkan struktur, desain organisasi yang nampung.
+Ketiga kalimat ini terdengar seperti materi promosi CSR perusahaan, namun sebenarnya hal ini bertujuan untuk memecahkan masalah struktural yang telah menjerat industri media di Taiwan selama tiga puluh tahun: pemilik media melakukan intervensi, pengiklan menarik pesanan secara sepihak, dan pemerintah menyebarkan informasi (lewat jalur tidak resmi). Hampir tidak ada satu pun media komersial di Taiwan yang dapat sepenuhnya lepas dari setidaknya salah satu dari ketiga garis ini. Solusi _The Reporter_ adalah memutus ketiga garis tersebut dari akarnya melalui struktur organisasi: tanpa pemegang saham, tanpa iklan, dan tanpa tender pemerintah. Seruan moral saja tidak bisa menyelamatkan struktur; hanya desain organisasi yang mampu menopangnya.
 
 ```tw-versus
-Media Komersial Taiwan | The Reporter
-Bos adalah perusahaan terbuka, partai, atau keluarga | Bos adalah 8.000 orang asing donasi bulanan
-Pengiklan bisa tarik iklan tekan | Tidak terima iklan komersial apa pun
-Click rate tentukan tulisan berikutnya | Di ruang redaksi tidak ada layar click rate
+Media Komersial Taiwan | 《報導者》
+Pemilik adalah perusahaan publik, partai politik, atau keluarga | Pemilik adalah 8.000 orang asing yang berdonasi setiap bulan
+Pengiklan dapat menarik pesanan untuk memberi tekanan | Tidak menerima iklan komersial apa pun
+Jumlah klik menentukan artikel berikutnya | Tidak ada layar jumlah klik di ruang redaksi
+Sumber: Halaman 「Tentang Kami」 situs resmi 《報導者》 (Tanpa kepemilikan, tanpa intervensi, tanpa pengembalian) dan data struktur media Taiwan yang dikutip dalam artikel ini[^18]
 ```
 
-Detail Tung Tzu-hsien donasi pribadi 5 juta mendirikan yayasan, adalah informasi tangan pertama yang dipublikasikan resmi[^19]. Di masyarakat kemudian beredar versi "Tung Tzu-hsien awal donasi 20 juta", tapi angka ini tidak dikonfirmasi resmi, lebih dekat rumor pasar; fakta keras yang pasti hanya 5 juta[^20]. Yang penting desain tiga tahap "donasi pribadi + yayasan pegang + tidak terima iklan", besar kecil angka justru kedua. Tung Tzu-hsien meski kemudian jadi Wakil Ketua Yayasan Pemikir DPP, di anggaran yayasan ia juga tidak bisa perintah lipunan individual.
+Detail mengenai donasi pribadi Tung Tzu-hsien sebesar NT$5 juta untuk mendirikan yayasan adalah informasi tangan pertama yang telah dipublikasikan secara resmi[^19]. Versi yang beredar di masyarakat kemudian menyebutkan bahwa "Tung Tzu-hsien awalnya menyumbang NT$20 juta", namun angka ini tidak dikonfirmasi secara resmi dan lebih mendekati rumor pasar; satu-satunya fakta keras yang dapat dipastikan hanyalah NT$5 juta[^20]. Yang terpenting adalah desain tiga tahap: "donasi pribadi + kepemilikan yayasan + tidak menerima iklan"; besarnya angka itu sendiri menjadi urusan sekunder. Meskipun di kemudian hari Tung Tzu-hsien menjabat sebagai wakil ketua dewan direksi lembaga pemikir (think tank) DPP, ia tetap tidak dapat memberikan instruksi atas laporan berita tunggal berdasarkan anggaran dasar yayasannya.
 
-FAQ resmi ada paragraf lain, soal kenapa media ini tidak tampilkan click rate: "Kami ingin lolos mitos click rate, karena trafik tidak sepenuhnya sama nilai liputan, juga tidak sama kepercayaan dan pengaruh"[^21]. Ini di 2026 dunia media daring sudah disiplin langka, mayoritas situs berita tiap artikel bawah lari real-time pembaca, share media sosial, jumlah komentar, ruang redaksi berdasarkan angka ini tentukan tulisan berikutnya. Ruang redaksi _The Reporter_ tidak ada layar ini.
+Dalam FAQ resmi, terdapat bagian lain yang menjelaskan mengapa media ini tidak menampilkan jumlah klik: "Kami ingin keluar dari mitos jumlah klik, karena trafik tidak sepenuhnya sama dengan nilai pemberitaan, dan juga tidak sama dengan kepercayaan serta pengaruh"[^21]. Pada tahun 2026, hal ini telah menjadi disiplin yang sangat langka di dunia media daring; sebagian besar situs berita menampilkan jumlah pembaca waktu nyata (real-time), jumlah berbagi di media sosial, dan jumlah komentar di bawah setiap artikel, di mana ruang redaksi akan memutuskan apa yang harus ditulis selanjutnya berdasarkan angka-angka tersebut. Di ruang redaksi _The Reporter_, layar seperti itu tidak ada.
 
-Agustus 2018 akhir, mantan Menteri Pendidikan Huang Jung-tsun menjabat Ketua Yayasan ke-2[^22]. Pergantian dewan pengawas, pergantian Editor-in-Chief, perpindahan Eksekutif Direktur, di organisasi ini semua rutinitas, tapi "tiga prinsip tidak" tiga kalimat ini tidak pernah diubah. Ia jadi aturan rumah terukir stip: orang masuk organisasi ini kerja, tahu tiga hal tidak boleh sentuh.
+Pada akhir Agustus 2018, mantan Menteri Pendidikan Huang Rong-tsun menjabat sebagai ketua dewan direksi periode kedua[^22]. Pergantian dewan direksi, serah terima editor kepala, dan perpindahan jabatan CEO adalah hal yang lumrah dalam organisasi ini, namun tiga kalimat "Prinsip Tiga Tanpa" tersebut tidak pernah diubah. Hal itu telah menjadi aturan keluarga yang terukir di ambang pintu: siapa pun yang bergabung untuk bekerja di organisasi ini tahu bahwa ada tiga hal yang tidak boleh disentuh.
 
 ## Mata Pekerja Nelayan: Ratusan Narasumber, Sepertujuh di Luar Negeri
 
