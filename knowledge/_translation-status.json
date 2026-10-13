@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T09:15:59+08:00",
-    "zhCommitHead": "8489317e2",
-    "totalZh": 1126,
+    "lastUpdated": "2026-10-13T10:28:38+08:00",
+    "zhCommitHead": "e09d51212",
+    "totalZh": 1131,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1113,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1113,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1114,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1126,
-        "fresh": 1125,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1112,
+        "stale": 13,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1112,
+        "stale": 14,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1113,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1126,
-        "fresh": 1126,
-        "stale": 0,
+        "total_zh": 1131,
+        "fresh": 1113,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       }
     },
@@ -1547,10 +1547,10 @@
     },
     "Music/台灣流行音樂.md": {
       "zh": {
-        "lastCommit": "1e104092",
-        "lastModified": "2026-07-19T09:51:21+08:00",
-        "contentHash": "sha256:8399301b29b6b0dc",
-        "bodyHash": "sha256:eb706bc3431ec070"
+        "lastCommit": "a266eaa9",
+        "lastModified": "2026-10-12T19:18:12+08:00",
+        "contentHash": "sha256:9dd098f7a5a51bd9",
+        "bodyHash": "sha256:7e4e331322aaf847"
       },
       "translations": {
         "en": {
@@ -1566,8 +1566,10 @@
           "footnoteDefs": 58,
           "bytes": 52412,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ja": {
           "path": "ja/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1582,8 +1584,10 @@
           "footnoteDefs": 58,
           "bytes": 58921,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ko": {
           "path": "ko/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1598,8 +1602,10 @@
           "footnoteDefs": 58,
           "bytes": 55700,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "es": {
           "path": "es/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1614,8 +1620,10 @@
           "footnoteDefs": 58,
           "bytes": 56953,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "fr": {
           "path": "fr/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1630,8 +1638,10 @@
           "footnoteDefs": 58,
           "bytes": 61655,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "vi": {
           "path": "vi/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1646,8 +1656,10 @@
           "footnoteDefs": 58,
           "bytes": 63799,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "id": {
           "path": "id/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1662,8 +1674,10 @@
           "footnoteDefs": 58,
           "bytes": 55777,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "pt": {
           "path": "pt/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1678,8 +1692,10 @@
           "footnoteDefs": 58,
           "bytes": 54869,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "hi": {
           "path": "hi/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1694,8 +1710,10 @@
           "footnoteDefs": 58,
           "bytes": 114862,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ar": {
           "path": "ar/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1710,8 +1728,10 @@
           "footnoteDefs": 58,
           "bytes": 76162,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ru": {
           "path": "ru/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1726,8 +1746,10 @@
           "footnoteDefs": 58,
           "bytes": 82487,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "de": {
           "path": "de/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1742,8 +1764,10 @@
           "footnoteDefs": 58,
           "bytes": 56768,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         }
       }
     },
@@ -12046,6 +12070,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/勇鷹高教機.md": {
+      "zh": {
+        "lastCommit": "6f925b92",
+        "lastModified": "2026-10-13T08:53:08+08:00",
+        "contentHash": "sha256:da0193521ae54491",
+        "bodyHash": "sha256:64638fe4508ed47f"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -30186,8 +30256,8 @@
           "sourceContentHash": "sha256:dd896b223778a319",
           "sourceBodyHash": "sha256:1cfc73d3ec3aabb4",
           "translatedAt": "2026-10-11T00:50:42.374784+00:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "38534b69",
+          "translationLastModified": "2026-10-11T09:15:59+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "bytes": 101850,
@@ -33665,10 +33735,10 @@
     },
     "Technology/台灣顯示器產業.md": {
       "zh": {
-        "lastCommit": "8544f5ff",
-        "lastModified": "2026-08-18T18:41:12+08:00",
-        "contentHash": "sha256:6f543fc8322b4070",
-        "bodyHash": "sha256:487e3d2f13378d12"
+        "lastCommit": "fc49bdee",
+        "lastModified": "2026-10-12T19:25:05+08:00",
+        "contentHash": "sha256:55fb6b319600e482",
+        "bodyHash": "sha256:f51b3f32440df15e"
       },
       "translations": {
         "en": {
@@ -33684,8 +33754,10 @@
           "footnoteDefs": 9,
           "bytes": 22552,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "ja": {
           "path": "ja/Technology/taiwan-display-industry.md",
@@ -33700,8 +33772,10 @@
           "footnoteDefs": 9,
           "bytes": 24611,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "ko": {
           "path": "ko/Technology/taiwan-display-industry.md",
@@ -33716,8 +33790,10 @@
           "footnoteDefs": 9,
           "bytes": 23070,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "es": {
           "path": "es/Technology/taiwan-display-industry.md",
@@ -33732,8 +33808,10 @@
           "footnoteDefs": 9,
           "bytes": 26347,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "fr": {
           "path": "fr/Technology/taiwan-display-industry.md",
@@ -33748,8 +33826,10 @@
           "footnoteDefs": 9,
           "bytes": 27091,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "vi": {
           "path": "vi/Technology/taiwan-display-industry.md",
@@ -33764,8 +33844,10 @@
           "footnoteDefs": 9,
           "bytes": 27657,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "id": {
           "path": "id/Technology/taiwan-display-industry.md",
@@ -33780,8 +33862,10 @@
           "footnoteDefs": 9,
           "bytes": 21811,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "pt": {
           "path": "pt/Technology/taiwan-display-industry.md",
@@ -33796,8 +33880,10 @@
           "footnoteDefs": 9,
           "bytes": 23850,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "hi": {
           "path": "hi/Technology/taiwan-display-industry.md",
@@ -33812,8 +33898,10 @@
           "footnoteDefs": 9,
           "bytes": 49896,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "ar": {
           "path": "ar/Technology/taiwan-display-industry.md",
@@ -33828,8 +33916,10 @@
           "footnoteDefs": 9,
           "bytes": 31717,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "ru": {
           "path": "ru/Technology/taiwan-display-industry.md",
@@ -33844,8 +33934,10 @@
           "footnoteDefs": 9,
           "bytes": 37891,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         },
         "de": {
           "path": "de/Technology/taiwan-display-industry.md",
@@ -33860,8 +33952,10 @@
           "footnoteDefs": 9,
           "bytes": 24379,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -5"
         }
       }
     },
@@ -35483,10 +35577,10 @@
     },
     "Technology/mini-taiwan-pulse.md": {
       "zh": {
-        "lastCommit": "b67b190f",
-        "lastModified": "2026-09-07T17:52:24+08:00",
-        "contentHash": "sha256:7704f0ba39f9bad2",
-        "bodyHash": "sha256:953746868edc36a0"
+        "lastCommit": "52052dda",
+        "lastModified": "2026-10-12T19:28:55+08:00",
+        "contentHash": "sha256:0128d89b548611d1",
+        "bodyHash": "sha256:ce5c6e11aac7eea6"
       },
       "translations": {
         "en": {
@@ -35502,8 +35596,10 @@
           "footnoteDefs": 6,
           "bytes": 40582,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35518,8 +35614,10 @@
           "footnoteDefs": 6,
           "bytes": 48693,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35534,8 +35632,10 @@
           "footnoteDefs": 6,
           "bytes": 46594,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35550,8 +35650,10 @@
           "footnoteDefs": 6,
           "bytes": 45731,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35566,8 +35668,10 @@
           "footnoteDefs": 6,
           "bytes": 48263,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35582,8 +35686,10 @@
           "footnoteDefs": 6,
           "bytes": 53981,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35598,8 +35704,10 @@
           "footnoteDefs": 6,
           "bytes": 46062,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35614,8 +35722,10 @@
           "footnoteDefs": 6,
           "bytes": 47178,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35630,8 +35740,10 @@
           "footnoteDefs": 6,
           "bytes": 90710,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35646,8 +35758,10 @@
           "footnoteDefs": 6,
           "bytes": 52045,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35662,8 +35776,10 @@
           "footnoteDefs": 6,
           "bytes": 58904,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -35678,8 +35794,10 @@
           "footnoteDefs": 6,
           "bytes": 37616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -46593,10 +46711,10 @@
     },
     "Art/看不見的國家.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:3ae429b55b3339f0",
-        "bodyHash": "sha256:00c160f3d2bfc5b4"
+        "lastCommit": "52052dda",
+        "lastModified": "2026-10-12T19:28:55+08:00",
+        "contentHash": "sha256:d85b6c99ab72b318",
+        "bodyHash": "sha256:f6ae8560d7e03438"
       },
       "translations": {
         "en": {
@@ -46612,8 +46730,10 @@
           "footnoteDefs": 48,
           "bytes": 49476,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Art/invisible-nation.md",
@@ -46628,8 +46748,10 @@
           "footnoteDefs": 48,
           "bytes": 55413,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Art/invisible-nation.md",
@@ -46644,8 +46766,10 @@
           "footnoteDefs": 48,
           "bytes": 53538,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Art/invisible-nation.md",
@@ -46660,8 +46784,10 @@
           "footnoteDefs": 48,
           "bytes": 53608,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Art/invisible-nation.md",
@@ -46676,8 +46802,10 @@
           "footnoteDefs": 48,
           "bytes": 56071,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Art/invisible-nation.md",
@@ -46692,8 +46820,10 @@
           "footnoteDefs": 48,
           "bytes": 65619,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Art/invisible-nation.md",
@@ -46708,8 +46838,10 @@
           "footnoteDefs": 48,
           "bytes": 45578,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Art/invisible-nation.md",
@@ -46724,8 +46856,10 @@
           "footnoteDefs": 48,
           "bytes": 48527,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Art/invisible-nation.md",
@@ -46740,8 +46874,10 @@
           "footnoteDefs": 48,
           "bytes": 112989,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Art/invisible-nation.md",
@@ -46756,8 +46892,10 @@
           "footnoteDefs": 48,
           "bytes": 67840,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Art/invisible-nation.md",
@@ -46772,8 +46910,10 @@
           "footnoteDefs": 48,
           "bytes": 71839,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Art/invisible-nation.md",
@@ -46788,8 +46928,10 @@
           "footnoteDefs": 48,
           "bytes": 57261,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -52047,10 +52189,10 @@
     },
     "Lifestyle/台灣的公車系統.md": {
       "zh": {
-        "lastCommit": "036f4f3f",
-        "lastModified": "2026-07-19T09:55:04+08:00",
-        "contentHash": "sha256:6350fb8cfb489452",
-        "bodyHash": "sha256:03dd96b03caf8931"
+        "lastCommit": "fc49bdee",
+        "lastModified": "2026-10-12T19:25:05+08:00",
+        "contentHash": "sha256:7d3802fe03c60e03",
+        "bodyHash": "sha256:24a950fc8509e96a"
       },
       "translations": {
         "en": {
@@ -52066,8 +52208,10 @@
           "footnoteDefs": 39,
           "bytes": 54453,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-bus-system.md",
@@ -52082,8 +52226,10 @@
           "footnoteDefs": 39,
           "bytes": 61360,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-bus-system.md",
@@ -52098,8 +52244,10 @@
           "footnoteDefs": 39,
           "bytes": 57610,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-bus-system.md",
@@ -52114,8 +52262,10 @@
           "footnoteDefs": 39,
           "bytes": 58803,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-bus-system.md",
@@ -52130,8 +52280,10 @@
           "footnoteDefs": 39,
           "bytes": 62200,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-bus-system.md",
@@ -52146,8 +52298,10 @@
           "footnoteDefs": 39,
           "bytes": 63229,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-bus-system.md",
@@ -52162,8 +52316,10 @@
           "footnoteDefs": 39,
           "bytes": 55756,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-bus-system.md",
@@ -52178,8 +52334,10 @@
           "footnoteDefs": 39,
           "bytes": 52429,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-bus-system.md",
@@ -52194,8 +52352,10 @@
           "footnoteDefs": 39,
           "bytes": 120142,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-bus-system.md",
@@ -52210,8 +52370,10 @@
           "footnoteDefs": 39,
           "bytes": 78563,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-bus-system.md",
@@ -52226,8 +52388,10 @@
           "footnoteDefs": 39,
           "bytes": 80155,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "de": {
           "path": "de/Lifestyle/taiwan-bus-system.md",
@@ -52242,8 +52406,10 @@
           "footnoteDefs": 39,
           "bytes": 57121,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         }
       }
     },
@@ -57501,10 +57667,10 @@
     },
     "Society/台北吸菸室.md": {
       "zh": {
-        "lastCommit": "1929e495",
-        "lastModified": "2026-07-19T09:48:28+08:00",
-        "contentHash": "sha256:38028701b07f0fef",
-        "bodyHash": "sha256:9688d39de8d42815"
+        "lastCommit": "52052dda",
+        "lastModified": "2026-10-12T19:28:55+08:00",
+        "contentHash": "sha256:f6e388583def59a6",
+        "bodyHash": "sha256:0879f11101fa0c2c"
       },
       "translations": {
         "en": {
@@ -57520,8 +57686,10 @@
           "footnoteDefs": 43,
           "bytes": 51344,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/taipei-smoking-room.md",
@@ -57536,8 +57704,10 @@
           "footnoteDefs": 43,
           "bytes": 58238,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/taipei-smoking-room.md",
@@ -57552,8 +57722,10 @@
           "footnoteDefs": 43,
           "bytes": 57660,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/taipei-smoking-room.md",
@@ -57568,8 +57740,10 @@
           "footnoteDefs": 43,
           "bytes": 58390,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/taipei-smoking-room.md",
@@ -57584,8 +57758,10 @@
           "footnoteDefs": 43,
           "bytes": 60205,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Society/taipei-smoking-room.md",
@@ -57600,8 +57776,10 @@
           "footnoteDefs": 43,
           "bytes": 67519,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Society/taipei-smoking-room.md",
@@ -57616,8 +57794,10 @@
           "footnoteDefs": 43,
           "bytes": 56722,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Society/taipei-smoking-room.md",
@@ -57632,8 +57812,10 @@
           "footnoteDefs": 43,
           "bytes": 51959,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Society/taipei-smoking-room.md",
@@ -57648,8 +57830,10 @@
           "footnoteDefs": 43,
           "bytes": 123629,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Society/taipei-smoking-room.md",
@@ -57664,8 +57848,10 @@
           "footnoteDefs": 43,
           "bytes": 80173,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/taipei-smoking-room.md",
@@ -57680,8 +57866,10 @@
           "footnoteDefs": 43,
           "bytes": 97134,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Society/taipei-smoking-room.md",
@@ -57696,8 +57884,56 @@
           "footnoteDefs": 43,
           "bytes": 58109,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
+        }
+      }
+    },
+    "Society/台灣拔河.md": {
+      "zh": {
+        "lastCommit": "6f925b92",
+        "lastModified": "2026-10-13T08:53:08+08:00",
+        "contentHash": "sha256:1ab6455f879e170d",
+        "bodyHash": "sha256:3b14b775e28905d0"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -58309,10 +58545,10 @@
     },
     "Society/台灣少子化危機.md": {
       "zh": {
-        "lastCommit": "d96dbc4b",
-        "lastModified": "2026-07-19T09:48:55+08:00",
-        "contentHash": "sha256:22f624258f9ada15",
-        "bodyHash": "sha256:be7b46d45d345648"
+        "lastCommit": "a266eaa9",
+        "lastModified": "2026-10-12T19:18:12+08:00",
+        "contentHash": "sha256:a14a0e12438e6a6a",
+        "bodyHash": "sha256:de756e6e0a8c4c3b"
       },
       "translations": {
         "en": {
@@ -58328,8 +58564,10 @@
           "footnoteDefs": 73,
           "bytes": 53911,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-low-birth-rate-crisis.md",
@@ -58344,8 +58582,10 @@
           "footnoteDefs": 73,
           "bytes": 62853,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-low-birth-rate-crisis.md",
@@ -58360,8 +58600,10 @@
           "footnoteDefs": 73,
           "bytes": 59319,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/Society/taiwan-low-birth-rate-crisis.md",
@@ -58376,8 +58618,10 @@
           "footnoteDefs": 73,
           "bytes": 64156,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/Society/taiwan-low-birth-rate-crisis.md",
@@ -58392,8 +58636,10 @@
           "footnoteDefs": 73,
           "bytes": 67787,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "vi": {
           "path": "vi/Society/taiwan-low-birth-rate-crisis.md",
@@ -58408,8 +58654,10 @@
           "footnoteDefs": 73,
           "bytes": 62927,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "id": {
           "path": "id/Society/taiwan-low-birth-rate-crisis.md",
@@ -58424,8 +58672,10 @@
           "footnoteDefs": 73,
           "bytes": 55664,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "pt": {
           "path": "pt/Society/taiwan-low-birth-rate-crisis.md",
@@ -58440,8 +58690,10 @@
           "footnoteDefs": 73,
           "bytes": 48871,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "hi": {
           "path": "hi/Society/taiwan-low-birth-rate-crisis.md",
@@ -58456,8 +58708,10 @@
           "footnoteDefs": 73,
           "bytes": 106225,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ar": {
           "path": "ar/Society/taiwan-low-birth-rate-crisis.md",
@@ -58472,8 +58726,10 @@
           "footnoteDefs": 73,
           "bytes": 68990,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ru": {
           "path": "ru/Society/taiwan-low-birth-rate-crisis.md",
@@ -58488,8 +58744,10 @@
           "footnoteDefs": 73,
           "bytes": 83850,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "de": {
           "path": "de/Society/taiwan-low-birth-rate-crisis.md",
@@ -58504,8 +58762,10 @@
           "footnoteDefs": 73,
           "bytes": 64629,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },
@@ -63763,10 +64023,10 @@
     },
     "Society/報導者.md": {
       "zh": {
-        "lastCommit": "21298a7a",
-        "lastModified": "2026-07-29T13:39:11+09:00",
-        "contentHash": "sha256:46044d1881e9332e",
-        "bodyHash": "sha256:ca526dda99de158c"
+        "lastCommit": "52052dda",
+        "lastModified": "2026-10-12T19:28:55+08:00",
+        "contentHash": "sha256:00bd13342bc6cb3c",
+        "bodyHash": "sha256:d77e750f6664a705"
       },
       "translations": {
         "en": {
@@ -63782,8 +64042,10 @@
           "footnoteDefs": 60,
           "bytes": 57317,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/the-reporter-investigative-journalism.md",
@@ -63798,8 +64060,10 @@
           "footnoteDefs": 60,
           "bytes": 61744,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/the-reporter-investigative-journalism.md",
@@ -63814,8 +64078,10 @@
           "footnoteDefs": 60,
           "bytes": 58875,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/the-reporter-investigative-journalism.md",
@@ -63830,8 +64096,10 @@
           "footnoteDefs": 60,
           "bytes": 63085,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/the-reporter-investigative-journalism.md",
@@ -63846,8 +64114,10 @@
           "footnoteDefs": 60,
           "bytes": 66476,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Society/the-reporter-investigative-journalism.md",
@@ -63862,8 +64132,10 @@
           "footnoteDefs": 60,
           "bytes": 73687,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Society/the-reporter-investigative-journalism.md",
@@ -63878,8 +64150,10 @@
           "footnoteDefs": 60,
           "bytes": 52741,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Society/the-reporter-investigative-journalism.md",
@@ -63894,8 +64168,10 @@
           "footnoteDefs": 60,
           "bytes": 58388,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Society/the-reporter-investigative-journalism.md",
@@ -63910,8 +64186,10 @@
           "footnoteDefs": 60,
           "bytes": 127103,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Society/the-reporter-investigative-journalism.md",
@@ -63926,8 +64204,10 @@
           "footnoteDefs": 60,
           "bytes": 76723,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/the-reporter-investigative-journalism.md",
@@ -63942,8 +64222,10 @@
           "footnoteDefs": 60,
           "bytes": 92489,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Society/the-reporter-investigative-journalism.md",
@@ -63958,8 +64240,10 @@
           "footnoteDefs": 60,
           "bytes": 66007,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -64975,10 +65259,10 @@
     },
     "Society/台灣的年級生世代.md": {
       "zh": {
-        "lastCommit": "80520085",
-        "lastModified": "2026-07-19T10:05:46+08:00",
-        "contentHash": "sha256:1b3e5e3f22f40ead",
-        "bodyHash": "sha256:d9ed6a1d6c159cbf"
+        "lastCommit": "4ee896bc",
+        "lastModified": "2026-10-12T19:20:49+08:00",
+        "contentHash": "sha256:925c0f0fa8d0ba22",
+        "bodyHash": "sha256:e06cb9dbec5bce60"
       },
       "translations": {
         "en": {
@@ -64994,8 +65278,10 @@
           "footnoteDefs": 25,
           "bytes": 37483,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-generations.md",
@@ -65010,8 +65296,10 @@
           "footnoteDefs": 25,
           "bytes": 42626,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-generations.md",
@@ -65026,8 +65314,10 @@
           "footnoteDefs": 25,
           "bytes": 41221,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "es": {
           "path": "es/Society/taiwan-generations.md",
@@ -65042,8 +65332,10 @@
           "footnoteDefs": 25,
           "bytes": 43945,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "fr": {
           "path": "fr/Society/taiwan-generations.md",
@@ -65058,8 +65350,10 @@
           "footnoteDefs": 25,
           "bytes": 44177,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "vi": {
           "path": "vi/Society/taiwan-generations.md",
@@ -65074,8 +65368,10 @@
           "footnoteDefs": 25,
           "bytes": 48475,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "id": {
           "path": "id/Society/taiwan-generations.md",
@@ -65090,8 +65386,10 @@
           "footnoteDefs": 25,
           "bytes": 33068,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "pt": {
           "path": "pt/Society/taiwan-generations.md",
@@ -65106,8 +65404,10 @@
           "footnoteDefs": 25,
           "bytes": 41547,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "hi": {
           "path": "hi/Society/taiwan-generations.md",
@@ -65122,8 +65422,10 @@
           "footnoteDefs": 25,
           "bytes": 83337,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ar": {
           "path": "ar/Society/taiwan-generations.md",
@@ -65138,8 +65440,10 @@
           "footnoteDefs": 25,
           "bytes": 51137,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ru": {
           "path": "ru/Society/taiwan-generations.md",
@@ -65154,8 +65458,10 @@
           "footnoteDefs": 25,
           "bytes": 68066,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "de": {
           "path": "de/Society/taiwan-generations.md",
@@ -65170,8 +65476,10 @@
           "footnoteDefs": 25,
           "bytes": 39581,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         }
       }
     },
@@ -66793,24 +67101,24 @@
     },
     "Society/國宅與居住正義.md": {
       "zh": {
-        "lastCommit": "21298a7a",
-        "lastModified": "2026-07-29T13:39:11+09:00",
-        "contentHash": "sha256:8ca8b403c13ab428",
-        "bodyHash": "sha256:547ee1d3b342a025"
+        "lastCommit": "4ee896bc",
+        "lastModified": "2026-10-12T19:20:49+08:00",
+        "contentHash": "sha256:058a2707437b6293",
+        "bodyHash": "sha256:8b7dd2352a89e936"
       },
       "translations": {
         "en": {
           "path": "en/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-06-14T16:37:40Z",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T01:48:38.697327+00:00",
           "translationLastCommit": "0ca64d66",
           "translationLastModified": "2026-10-10T23:05:49+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 61859,
+          "bytes": 63557,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66818,15 +67126,15 @@
         "ja": {
           "path": "ja/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T01:56:55.506699+00:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 66333,
+          "bytes": 66234,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66834,15 +67142,15 @@
         "ko": {
           "path": "ko/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-06-16T00:44:26+08:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T01:51:32.446188+00:00",
           "translationLastCommit": "0e0f672c",
           "translationLastModified": "2026-10-10T23:06:11+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 62529,
+          "bytes": 64577,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66850,15 +67158,15 @@
         "es": {
           "path": "es/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-06-16T00:44:26+08:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T01:54:08.755763+00:00",
           "translationLastCommit": "1a8ec475",
           "translationLastModified": "2026-10-10T23:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 66712,
+          "bytes": 69181,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66866,15 +67174,15 @@
         "fr": {
           "path": "fr/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-06-16T00:44:26+08:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T01:59:02.272722+00:00",
           "translationLastCommit": "15a71af5",
           "translationLastModified": "2026-10-10T23:26:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 72462,
+          "bytes": 73985,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66892,8 +67200,10 @@
           "footnoteDefs": 27,
           "bytes": 73960,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         },
         "id": {
           "path": "id/Society/public-housing-justice.md",
@@ -66908,21 +67218,23 @@
           "footnoteDefs": 27,
           "bytes": 60616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         },
         "pt": {
           "path": "pt/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:8ca8b403c13ab428",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-13T02:22:12.323379+00:00",
           "translationLastCommit": "4a2deca4",
           "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 60003,
+          "bytes": 61553,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -66940,8 +67252,10 @@
           "footnoteDefs": 27,
           "bytes": 125493,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         },
         "ar": {
           "path": "ar/Society/public-housing-justice.md",
@@ -66956,8 +67270,10 @@
           "footnoteDefs": 27,
           "bytes": 82122,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         },
         "ru": {
           "path": "ru/Society/public-housing-justice.md",
@@ -66972,8 +67288,10 @@
           "footnoteDefs": 27,
           "bytes": 92553,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         },
         "de": {
           "path": "de/Society/public-housing-justice.md",
@@ -66988,8 +67306,10 @@
           "footnoteDefs": 27,
           "bytes": 62573,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -2"
         }
       }
     },
@@ -74671,24 +74991,24 @@
     },
     "Society/複雜生活節.md": {
       "zh": {
-        "lastCommit": "dd82dc4a",
-        "lastModified": "2026-07-19T09:54:23+08:00",
-        "contentHash": "sha256:288b132714804aff",
-        "bodyHash": "sha256:f51e2d5a46bf8d87"
+        "lastCommit": "a3a2c2ab",
+        "lastModified": "2026-10-12T19:35:20+08:00",
+        "contentHash": "sha256:a80f1c8939a4c258",
+        "bodyHash": "sha256:94ee6147a8f08b1e"
       },
       "translations": {
         "en": {
           "path": "en/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:54:07.440709+00:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 67862,
+          "bytes": 70178,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74696,10 +75016,10 @@
         "ja": {
           "path": "ja/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-10-10T17:08:08.802015+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:58:48.216427+00:00",
           "translationLastCommit": "4e871720",
           "translationLastModified": "2026-10-11T02:52:54+08:00",
           "inferred": false,
@@ -74712,15 +75032,15 @@
         "ko": {
           "path": "ko/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-10-10T17:11:18.235161+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:55:15.878857+00:00",
           "translationLastCommit": "91ee6d3c",
           "translationLastModified": "2026-10-11T03:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 73666,
+          "bytes": 74106,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74728,15 +75048,15 @@
         "es": {
           "path": "es/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-10-10T17:22:11.467805+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:56:18.839828+00:00",
           "translationLastCommit": "6ebf59fa",
           "translationLastModified": "2026-10-11T02:35:59+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 81987,
+          "bytes": 82233,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74744,15 +75064,15 @@
         "fr": {
           "path": "fr/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-07-27T05:46:59+08:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:57:21.760039+00:00",
           "translationLastCommit": "27cd14fc",
           "translationLastModified": "2026-09-22T00:50:19+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 81809,
+          "bytes": 82570,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74760,15 +75080,15 @@
         "vi": {
           "path": "vi/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:58:38.180947+00:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 89090,
+          "bytes": 89206,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74776,15 +75096,15 @@
         "id": {
           "path": "id/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:7ebf5415595c2d0c",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-09-26T05:57:26.880875+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:59:38.521112+00:00",
           "translationLastCommit": "d4b1ceab",
           "translationLastModified": "2026-10-10T22:59:12+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 75464,
+          "bytes": 76143,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74792,15 +75112,15 @@
         "pt": {
           "path": "pt/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-07-28T05:31:31+08:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T00:59:36.071853+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 75846,
+          "bytes": 74586,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74808,15 +75128,15 @@
         "hi": {
           "path": "hi/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:7ebf5415595c2d0c",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-09-24T10:25:34.471325+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T01:00:45.423470+00:00",
           "translationLastCommit": "d29ad571",
           "translationLastModified": "2026-10-10T22:58:21+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 154048,
+          "bytes": 155210,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74834,21 +75154,23 @@
           "footnoteDefs": 36,
           "bytes": 99941,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T01:02:27.528148+00:00",
           "translationLastCommit": "ae837171",
           "translationLastModified": "2026-09-22T01:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 108364,
+          "bytes": 109836,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74856,15 +75178,15 @@
         "de": {
           "path": "de/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:7ebf5415595c2d0c",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-09-12T01:15:21.005741+00:00",
+          "sourceCommitSha": "a3a2c2ab6",
+          "sourceContentHash": "sha256:a80f1c8939a4c258",
+          "sourceBodyHash": "sha256:94ee6147a8f08b1e",
+          "translatedAt": "2026-10-13T01:03:34.588299+00:00",
           "translationLastCommit": "09e2394e",
           "translationLastModified": "2026-10-10T23:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 77061,
+          "bytes": 77705,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -76226,11 +76548,11 @@
           "sourceContentHash": "sha256:1533ad6bc4336b4a",
           "sourceBodyHash": "sha256:40600aa18fa8f8d1",
           "translatedAt": "2026-09-26T11:20:08.784427+00:00",
-          "translationLastCommit": "0e249950",
-          "translationLastModified": "2026-10-10T23:16:36+08:00",
+          "translationLastCommit": "49ac16df",
+          "translationLastModified": "2026-10-12T00:54:11+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 295976,
+          "bytes": 296311,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -84975,24 +85297,24 @@
     },
     "Nature/大安溪倚天劍.md": {
       "zh": {
-        "lastCommit": "21298a7a",
-        "lastModified": "2026-07-29T13:39:11+09:00",
-        "contentHash": "sha256:d645338641d89664",
-        "bodyHash": "sha256:5dcfd938f21ea513"
+        "lastCommit": "a8f7c4e0",
+        "lastModified": "2026-10-12T19:32:00+08:00",
+        "contentHash": "sha256:e26a95dae7cf552e",
+        "bodyHash": "sha256:b680f8b344c7bf2d"
       },
       "translations": {
         "en": {
           "path": "en/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-06-25T00:43:06+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:05:17.847861+00:00",
           "translationLastCommit": "15073a21",
           "translationLastModified": "2026-07-30T23:35:43+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 59900,
+          "bytes": 60688,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85000,15 +85322,15 @@
         "ja": {
           "path": "ja/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-06-25T00:43:06+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:07:35.489385+00:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 65113,
+          "bytes": 67066,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85016,15 +85338,15 @@
         "ko": {
           "path": "ko/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-06-25T00:43:06+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:09:44.325009+00:00",
           "translationLastCommit": "15073a21",
           "translationLastModified": "2026-07-30T23:35:43+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 63674,
+          "bytes": 64218,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85032,15 +85354,15 @@
         "es": {
           "path": "es/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-06-25T00:43:06+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:11:54.633037+00:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 66969,
+          "bytes": 67908,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85048,15 +85370,15 @@
         "fr": {
           "path": "fr/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-06-25T00:43:06+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:13:53.505866+00:00",
           "translationLastCommit": "15073a21",
           "translationLastModified": "2026-07-30T23:35:43+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 69157,
+          "bytes": 69915,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85064,15 +85386,15 @@
         "vi": {
           "path": "vi/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:c15c81ec44174b35",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-09-24T02:23:19.020156+00:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:14:20.763185+00:00",
           "translationLastCommit": "55c40c0d",
           "translationLastModified": "2026-10-10T23:00:53+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 74802,
+          "bytes": 82308,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85080,15 +85402,15 @@
         "id": {
           "path": "id/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:c15c81ec44174b35",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-31T17:25:34.234245+00:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:26:00.429693+00:00",
           "translationLastCommit": "7ac92ae0",
           "translationLastModified": "2026-08-01T05:07:30+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 61643,
+          "bytes": 69087,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85096,15 +85418,15 @@
         "pt": {
           "path": "pt/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-07-28T19:24:16+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:38:31.253598+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 59086,
+          "bytes": 59737,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85112,15 +85434,15 @@
         "hi": {
           "path": "hi/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-10-02T06:06:41.623005+00:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:47:15.021533+00:00",
           "translationLastCommit": "7a4980ec",
           "translationLastModified": "2026-10-02T15:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 133995,
+          "bytes": 135269,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85128,15 +85450,15 @@
         "ar": {
           "path": "ar/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-07-29T07:32:36+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:41:57.892343+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 69899,
+          "bytes": 74633,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85144,15 +85466,15 @@
         "ru": {
           "path": "ru/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-07-29T07:32:37+08:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:44:07.561520+00:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 87278,
+          "bytes": 90960,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85160,15 +85482,15 @@
         "de": {
           "path": "de/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:c15c81ec44174b35",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-09-20T03:03:56.464037+00:00",
+          "sourceCommitSha": "a8f7c4e08",
+          "sourceContentHash": "sha256:e26a95dae7cf552e",
+          "sourceBodyHash": "sha256:b680f8b344c7bf2d",
+          "translatedAt": "2026-10-13T01:46:30.669860+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 66219,
+          "bytes": 67078,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -102951,6 +103273,52 @@
         }
       }
     },
+    "People/傅兆玄.md": {
+      "zh": {
+        "lastCommit": "6f925b92",
+        "lastModified": "2026-10-13T08:53:08+08:00",
+        "contentHash": "sha256:425a7252fee6e092",
+        "bodyHash": "sha256:8b1a89162347e6a1"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "People/賴清德.md": {
       "zh": {
         "lastCommit": "43e9e1c7",
@@ -103357,10 +103725,10 @@
     },
     "People/羅大佑.md": {
       "zh": {
-        "lastCommit": "ac1d187a",
-        "lastModified": "2026-06-28T09:52:29+08:00",
-        "contentHash": "sha256:a360c7a135e403dc",
-        "bodyHash": "sha256:fe7b545ee2048324"
+        "lastCommit": "a8f7c4e0",
+        "lastModified": "2026-10-12T19:32:00+08:00",
+        "contentHash": "sha256:144c002ad03fa8d4",
+        "bodyHash": "sha256:04e767238ef4084f"
       },
       "translations": {
         "en": {
@@ -103376,8 +103744,10 @@
           "footnoteDefs": 30,
           "bytes": 36557,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/People/luo-dayou.md",
@@ -103392,8 +103762,10 @@
           "footnoteDefs": 30,
           "bytes": 43385,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/People/luo-dayou.md",
@@ -103408,8 +103780,10 @@
           "footnoteDefs": 30,
           "bytes": 40816,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/People/luo-dayou.md",
@@ -103424,8 +103798,10 @@
           "footnoteDefs": 30,
           "bytes": 39574,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/People/luo-dayou.md",
@@ -103440,8 +103816,10 @@
           "footnoteDefs": 30,
           "bytes": 41471,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/People/luo-dayou.md",
@@ -103456,8 +103834,10 @@
           "footnoteDefs": 30,
           "bytes": 44697,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/People/luo-dayou.md",
@@ -103472,8 +103852,10 @@
           "footnoteDefs": 30,
           "bytes": 37407,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/People/luo-dayou.md",
@@ -103488,8 +103870,10 @@
           "footnoteDefs": 30,
           "bytes": 37718,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/People/luo-dayou.md",
@@ -103504,8 +103888,10 @@
           "footnoteDefs": 30,
           "bytes": 80852,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/People/luo-dayou.md",
@@ -103520,8 +103906,10 @@
           "footnoteDefs": 30,
           "bytes": 49034,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/People/luo-dayou.md",
@@ -103536,8 +103924,10 @@
           "footnoteDefs": 30,
           "bytes": 59714,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/People/luo-dayou.md",
@@ -103552,8 +103942,56 @@
           "footnoteDefs": 30,
           "bytes": 38346,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
+        }
+      }
+    },
+    "People/李灝宇.md": {
+      "zh": {
+        "lastCommit": "6f925b92",
+        "lastModified": "2026-10-13T08:53:08+08:00",
+        "contentHash": "sha256:03839c77a0f04faa",
+        "bodyHash": "sha256:bc4dd1817b145605"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -107397,10 +107835,10 @@
     },
     "People/幾米.md": {
       "zh": {
-        "lastCommit": "10fe99c5",
-        "lastModified": "2026-06-21T16:58:58+08:00",
-        "contentHash": "sha256:8843f64848a3d381",
-        "bodyHash": "sha256:722551eb5f4a1b6b"
+        "lastCommit": "a3a2c2ab",
+        "lastModified": "2026-10-12T19:35:20+08:00",
+        "contentHash": "sha256:3a77d655efe88c48",
+        "bodyHash": "sha256:18242d925dc68ac7"
       },
       "translations": {
         "en": {
@@ -107416,8 +107854,10 @@
           "footnoteDefs": 54,
           "bytes": 44232,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/People/jimmy-liao.md",
@@ -107432,8 +107872,10 @@
           "footnoteDefs": 54,
           "bytes": 45462,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/People/jimmy-liao.md",
@@ -107448,8 +107890,10 @@
           "footnoteDefs": 54,
           "bytes": 45221,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/People/jimmy-liao.md",
@@ -107464,8 +107908,10 @@
           "footnoteDefs": 54,
           "bytes": 46308,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/People/jimmy-liao.md",
@@ -107480,8 +107926,10 @@
           "footnoteDefs": 54,
           "bytes": 48355,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/People/jimmy-liao.md",
@@ -107496,8 +107944,10 @@
           "footnoteDefs": 54,
           "bytes": 54457,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/People/jimmy-liao.md",
@@ -107512,8 +107962,10 @@
           "footnoteDefs": 54,
           "bytes": 45851,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/People/jimmy-liao.md",
@@ -107528,8 +107980,10 @@
           "footnoteDefs": 54,
           "bytes": 42170,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/People/jimmy-liao.md",
@@ -107544,8 +107998,10 @@
           "footnoteDefs": 54,
           "bytes": 95032,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/People/jimmy-liao.md",
@@ -107560,8 +108016,10 @@
           "footnoteDefs": 54,
           "bytes": 53513,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/People/jimmy-liao.md",
@@ -107576,8 +108034,10 @@
           "footnoteDefs": 54,
           "bytes": 65838,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/People/jimmy-liao.md",
@@ -107592,8 +108052,10 @@
           "footnoteDefs": 54,
           "bytes": 46344,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -128602,6 +129064,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/王冠閎.md": {
+      "zh": {
+        "lastCommit": "6f925b92",
+        "lastModified": "2026-10-13T08:53:08+08:00",
+        "contentHash": "sha256:cb82e7bd7932045a",
+        "bodyHash": "sha256:4135aa79157a28a5"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -165326,8 +165834,8 @@
           "sourceContentHash": "sha256:da156bdcc66f3839",
           "sourceBodyHash": "sha256:0ccf3caa8312faf1",
           "translatedAt": "2026-10-11T07:50:13+08:00",
-          "translationLastCommit": "89dff79c",
-          "translationLastModified": "2026-10-10T20:55:36+08:00",
+          "translationLastCommit": "38534b69",
+          "translationLastModified": "2026-10-11T09:15:59+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 41828,
@@ -210619,10 +211127,10 @@
     },
     "Culture/無名小站.md": {
       "zh": {
-        "lastCommit": "b67b190f",
-        "lastModified": "2026-09-07T17:52:24+08:00",
-        "contentHash": "sha256:0a95932daf2783da",
-        "bodyHash": "sha256:4a9169e2b0024dea"
+        "lastCommit": "13aae9d5",
+        "lastModified": "2026-10-12T19:12:05+08:00",
+        "contentHash": "sha256:6e5737281981f34c",
+        "bodyHash": "sha256:4526b5691fd4cea3"
       },
       "translations": {
         "en": {
@@ -210638,8 +211146,10 @@
           "footnoteDefs": 33,
           "bytes": 42443,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ja": {
           "path": "ja/Culture/wretch.md",
@@ -210654,8 +211164,10 @@
           "footnoteDefs": 33,
           "bytes": 51836,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ko": {
           "path": "ko/Culture/wretch.md",
@@ -210670,8 +211182,10 @@
           "footnoteDefs": 33,
           "bytes": 45939,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "es": {
           "path": "es/Culture/wretch.md",
@@ -210686,8 +211200,10 @@
           "footnoteDefs": 33,
           "bytes": 45428,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "fr": {
           "path": "fr/Culture/wretch.md",
@@ -210702,8 +211218,10 @@
           "footnoteDefs": 33,
           "bytes": 47783,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "vi": {
           "path": "vi/Culture/wretch.md",
@@ -210718,8 +211236,10 @@
           "footnoteDefs": 33,
           "bytes": 54257,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "id": {
           "path": "id/Culture/wretch.md",
@@ -210734,8 +211254,10 @@
           "footnoteDefs": 33,
           "bytes": 45709,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "pt": {
           "path": "pt/Culture/wretch.md",
@@ -210750,8 +211272,10 @@
           "footnoteDefs": 33,
           "bytes": 45342,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "hi": {
           "path": "hi/Culture/wretch.md",
@@ -210766,8 +211290,10 @@
           "footnoteDefs": 33,
           "bytes": 93529,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ar": {
           "path": "ar/Culture/wretch.md",
@@ -210782,8 +211308,10 @@
           "footnoteDefs": 33,
           "bytes": 59934,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "ru": {
           "path": "ru/Culture/wretch.md",
@@ -210798,8 +211326,10 @@
           "footnoteDefs": 33,
           "bytes": 69583,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         },
         "de": {
           "path": "de/Culture/wretch.md",
@@ -210814,8 +211344,10 @@
           "footnoteDefs": 33,
           "bytes": 44407,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -0"
         }
       }
     },

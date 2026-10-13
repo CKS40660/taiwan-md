@@ -2,9 +2,7 @@
 title: 'National Housing and Housing Justice: The Cheap Homes Built by the Government, and Whose Asset Escalator They Ultimately Created'
 description: 'In 1985, Chenggong National Housing cost NT$67,000 per ping and still had no buyers; an old borough chief scraped together a NT$400,000 down payment and bought a unit. Forty years later, the same address is nearing NT$1 million per ping. National Housing was supposed to be a tool to help people afford homes, but it was never fitted with a gate to recapture appreciation. Public subsidy ultimately became private assets for early buyers. In 2026, Taoyuan put that gate back in, effectively admitting National Housing’s mistake.'
 date: 2026-06-06
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'National Housing',
@@ -13,10 +11,39 @@ tags:
     'generational justice',
     'affordable housing',
   ]
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 readingTime: 16
+featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
-featured: false
+viewpoint_formed: true
+image: '/article-images/society/taipei-skyline-housing-2026.webp'
+imageCredit: 'Heeheemalu'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+datasets:
+  - id: 'lvr-trades'
+    name: '不動產買賣 全國實價登錄'
+    url: 'https://lvr.land.moi.gov.tw/'
+    agency: '內政部地政司'
+    update_freq: '每3月'
+    why: '文章用成功國宅一個門牌講四十年，這裡可查任何國宅社區的當代成交價，驗證資產扶梯斜率'
+    verified: 2026-06-10
+  - id: '121267'
+    name: '臺北市國民住宅配售(租)情形'
+    url: 'https://data.gov.tw/dataset/121267'
+    agency: '臺北市政府都市發展局'
+    update_freq: '不定期更新'
+    why: '文中三大國宅那批「政府賣出去的便宜房」的配售與出租官方紀錄'
+    verified: 2026-06-10
+  - id: '155779'
+    name: '臺北市政府社會住宅包租代管媒合統計資料'
+    url: 'https://data.gov.tw/dataset/155779'
+    agency: '臺北市政府都市發展局'
+    update_freq: '每1年'
+    why: '「2016 政府不賣了改用租的」那條新路線的執行端數字'
+    verified: 2026-06-10
 sporeLinks:
   - id: 126
     platform: 'threads'
@@ -27,34 +54,31 @@ sporeLinks:
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:8ca8b403c13ab428'
-sourceBodyHash: 'sha256:547ee1d3b342a025'
-translatedAt: '2026-06-14T16:37:40Z'
-image: '/article-images/society/taipei-skyline-housing-2026.webp'
-imageCredit: 'Heeheemalu'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:058a2707437b6293'
+sourceBodyHash: 'sha256:8b7dd2352a89e936'
+translatedAt: '2026-10-13T01:48:38.697327+00:00'
 ---
 
-# National Housing and Housing Justice: The Cheap Homes Built by the Government, and Whose Asset Escalator They Ultimately Created
+# National Housing and Housing Justice: Whose Asset Ladder Did the Government's Affordable Housing Build?
 
-On Section 2 of Fuxing South Road in Taipei’s Da’an District, there is a housing complex called “Chenggong National Housing.” When it was newly completed in 1985, nobody wanted it.[^1]
+On Section 2 of Fuxing South Road in Taipei's Da'an District, there is a housing complex called "Chenggong National Housing." When it was first completed in 1985, no one wanted to buy it. [^1]
 
-The government’s asking price was NT$67,000 to NT$71,000 per ping, a Taiwan unit of floor area equal to about 3.3 square meters. That was not cheap at the time. Because sales were sluggish, the price was eventually lowered to NT$67,000 per ping, paired with a four-year interest-free loan, before all the units were sold. The longtime borough chief Shih Chung-sheng later recalled that he and his wife emptied their lifetime savings and scraped together a NT$400,000 down payment to buy one of the units.[^1]
+The government's asking price was between NT$67,000 and NT$71,000 per _ping_, which was not considered cheap at the time. Due to slow sales, the price eventually dropped to NT$67,000 per _ping_, combined with a four-year interest-free loan arrangement before the units were finally sold out. Shi Chung-sheng, a former local neighborhood chief, later recalled that he and his wife had to scrape together their entire life savings to reach an NT$400,000 down payment just to purchase one of the units. [^1]
 
-Forty years later, the same address has had an average transaction price of about NT$870,000 per ping over the past year on real-estate brokerage platforms, with the highest unit approaching NT$980,000.[^2] From NT$67,000 to NT$870,000, that is roughly twelve to fourteen times higher. The down payment that once took a lifetime of savings to assemble would not buy even one ping today.
+Forty years later, at the same address, the average transaction price on real estate platforms over the past year is approximately NT$870,000 per _ping_, with the highest-priced unit approaching NT$980,000. [^2] From 67,000 to 870,000 represents an increase of roughly twelve to fourteen times. The down payment that once required emptying one's life savings can now not even purchase a single _ping_.
 
-> **30-second overview:** National Housing was Taiwan’s government-built, “built to sell” affordable housing program, legislated in 1975 and intended to help people who could not afford homes get onto the property ladder. The problem was that it was never fitted with a gate to recapture appreciation. In 2002, even the only anti-speculation mechanism was dismantled, allowing National Housing units to be sold to anyone. Housing built with public subsidy thus ultimately became private assets for early buyers. In prime districts of Taipei, several National Housing complexes now approach or even exceed NT$1 million per ping. In 2015, the government abolished the National Housing Act and shifted to social housing that is “for rent only, not for sale.” Yet in May 2026, Taoyuan passed an “affordable housing” ordinance on third reading, reviving the route of government-built housing for sale, while deliberately installing the gate that had been missing: resale may not exceed the original purchase price. The Ministry of the Interior disagrees and advocates returning to “for rent only, not for sale.” Taiwan has argued for fifty years over these two paths of housing justice, “helping you afford to buy” versus “helping you afford to rent,” and the argument still has not ended.
+> **30-Second Overview:** National Housing refers to the affordable housing built by the government to sell to the people under legislation passed in 1975; its original intent was to help those who could not afford homes enter the property market. The problem is that it never installed a "value-appreciation recovery" gate from beginning to end. In 2002, the government even dismantled the only existing anti-speculation mechanism, allowing national housing to be sold to anyone. Consequently, houses built with public subsidies eventually became the private assets of early buyers; today, national housing in several prime Taipei districts approaches or even exceeds NT$1 million per _ping_. In 2015, the government abolished the National Housing Act and shifted toward "social housing" based on a "rent-only, no-sale" model. However, in May 2026, Taoyuan passed the "Affordable Housing" bill through its third reading, reviving the "built by the government to sell" path while deliberately reinstalling the gate that was missing decades ago: resale prices cannot exceed the original purchase price. The Ministry of the Interior disagrees, advocating a return to "rent-only, no-sale." Whether it is "helping you afford to buy" or "helping you afford to rent," Taiwan has been debating these two paths to housing justice for fifty years without reaching a conclusion.
 
 ```tw-timeline
-1975 | National Housing Act takes effect | The government builds and sells homes, creating a closed loop of “buyer eligibility” so subsidies circulate only among those who need them
-2002 | That wall is dismantled | Amendments remove buyer eligibility limits; after one year of occupancy, National Housing units can be sold to anyone, formally entering the free market
-2015 | National Housing Act abolished | Official rationale: the homeownership rate has reached 85%, and the central government shifts to “for rent only, not for sale” social housing
-2026 | Taoyuan puts the gate back | Affordable housing: resale may not exceed the original purchase price, filling in the missing wall of National Housing fifty years later
+1975 | National Housing Act enacted | Government builds to sell, establishing a closed loop of "buyer eligibility"—subsidies flow only among those in need.
+2002 | The wall is dismantled | Amendments remove buyer eligibility restrictions; after living in national housing for one year, it can be sold to anyone, officially entering the free market.
+2015 | National Housing Act abolished | Official reason: Homeownership rates have reached 85%; the central government shifts toward "rent-only, no-sale" social housing.
+2026 | Taoyuan reinstalls the gate | Affordable Housing: Resale price cannot exceed original purchase price—reinstalling that missing wall fifty years later.
+Sources: Executive Yuan (Explanation on the abolition of the National Housing Act) + Laws & Regulations Database of the Republic of China (Evolution of 2002 amendments) + Liberty Times (2015 abolition) + United Daily News (2026 Taoyuan third reading) [^3][^7][^15][^23]
 ```
 
-This article is about the fifty years between those two address prices. How did a well-intentioned policy, in which the government spent money building cheap homes to help people get onto the property ladder, end up leaving the next generation at the top of the staircase unable to buy and unable to rent stably?
+This article discusses the fifty years sandwiched between these two price points. How did a government's good intention—spending money to build affordable housing to help people get on the property ladder—evolve into today's reality, where the next generation stands at the top of the ladder, unable to afford to buy and unable to rent stably?
 
 ## The Generation of Homes the Government Built to Sell
 
@@ -137,43 +161,44 @@ Once these numbers are laid out, the remark made by lawyer Lin Chih-chun in 2025
 
 This is the bill presented fifty years later by the gate that was never installed. The cheap homes built by the government did not become an escalator that kept catching the next person who could not afford a home. They became an elevator that caught only the earliest group to board; once they went up, they pulled the ladder away behind them.
 
-## That Gate Is Called a Premium Payment in Hong Kong, and a Lesson in Britain
+## That Gate: In Hong Kong, It's Called "Premium Payment"; In the UK, It's a Lesson
 
-At this point, a natural objection arises: can the government build cheap homes and sell them to people, while also preventing people from profiting when they sell?
+A natural question arises here: Is it actually possible for a government to build affordable housing for its people without allowing them to sell it for profit?
 
-Yes. Neighboring Hong Kong installed precisely the gate Taiwan never did.
+It is. Our neighbor, Hong Kong, installed exactly this gate—one that Taiwan has never implemented.
 
-Hong Kong’s Home Ownership Scheme, or HOS, works on a logic similar to National Housing: homes are sold to low- and middle-income households at about 60 to 70 percent of market price. But it adds a mechanism called a “premium payment.” If an owner later wants to sell an HOS flat on the open market, they must first pay the government a land premium calculated according to the original discount ratio. In effect, the portion the government gave away through the discount, together with part of the appreciation, is paid back into the public treasury.[^12] Appreciation does not all go to the individual; part of it must be returned to the public. Taiwan’s National Housing never had this premium-payment checkpoint. If you bought cheaply, you could sell at full market price after the required occupancy period. The price spread and appreciation in between went cleanly into your own pocket.
+The Hong Kong government promotes "Home Ownership Scheme" (HOS) flats with a logic very similar to National Housing: selling homes to low-to-middle-income households at 60% to 70% of market value. However, it includes an additional mechanism called "premium payment." If a homeowner later wishes to sell their HOS flat on the open market, they must first pay a land premium to the government based on the original discount ratio. This effectively returns the portion of profit the government conceded years ago, along with a portion of the capital appreciation, back to the public coffers. [^12] Capital appreciation does not belong entirely to the individual; a part must be returned to the public. Taiwan's National Housing has never had this "premium payment" hurdle. Once you buy it cheaply, you can sell it at full market price after meeting the minimum residency requirement, and the resulting price gap and appreciation go straight into your own pocket.
 
 ```tw-versus
 Taiwan National Housing | Hong Kong HOS
-Government subsidy, sold cheaply to residents | Government subsidy, sold cheaply to residents
-After one year of occupancy, resale at full market price allowed | Open-market resale requires a “premium payment” first
-Appreciation goes almost entirely to individuals | Appreciation is recaptured by the treasury according to the original discount ratio
-Public stock is lost in one transaction | Public concession can be recovered
+Government subsidies; sold cheaply to residents | Government subsidies; sold cheaply to residents
+Resale at market price allowed after one year | Resale on open market requires "premium payment"
+Capital appreciation belongs almost entirely to the individual | Capital appreciation is recovered by public coffers based on original discount ratio
+One-time loss of public stock | Public concessions are recoverable
+Source: Hong Kong Housing Authority official explanation on "Premium Payment Arrangement" + Laws & Regulations Database of the Republic of China (Evolution of resale restrictions for Taiwan National Housing) [^7][^12]
 ```
 
-![Hoi Fu Court in To Kwa Wan, Hong Kong, a Home Ownership Scheme estate of subsidized sale flats, with several high-rise residential blocks standing side by side](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
-_Hong Kong’s HOS estate Hoi Fu Court. The Hong Kong government sells HOS flats to low- and middle-income households at about 60 to 70 percent of market price, but it installed a gate Taiwan’s National Housing lacked: the premium payment. Photo: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
+![Hoi Fu Court in To Kwa Wan, Hong Kong, an estate consisting of HOS subsidized sale flats, with multiple high-rise residential buildings standing side by side](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
+_Hoi Fu Court, a Hong Kong "HOS" (Home Ownership Scheme) estate. The Hong Kong government sells HOS flats to low-to-middle-income households at 60–70% of market value, but has installed a gate that Taiwan's National Housing lacks: premium payment. Photo: Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
 
-If Hong Kong is the homework Taiwan should have copied but did not, Britain is a more brutal mirror.
+If Hong Kong is the homework Taiwan should have copied but didn't, then the UK is an even more brutal mirror.
 
-In 1980, Margaret Thatcher’s government launched “Right to Buy,” allowing tenants of council housing to buy the public homes they lived in at steep discounts. The policy was extremely popular, and roughly 1.9 million council homes were sold. What was the cost? The share of social housing in Britain fell from 31 percent in 1980 to 16 percent in 2023, essentially halving.[^13] Once public housing stock is sold to individuals, it does not come back. The think tank Common Wealth calculated that the equity value transferred away through those discounts alone reached £194 billion, or roughly NT$8 trillion. Its wording was:
+In 1980, the Thatcher government introduced the "Right to Buy," allowing public housing tenants to purchase their homes at significant discounts. The policy was immensely popular, resulting in the sale of approximately 1.9 million public housing units. But what was the cost? The proportion of social housing in the UK plummeted from 31% in 1980 to just 16% in 2023. [^13] Once public stock is sold to individuals, it does not come back. The think tank _Common Wealth_ calculated that the value of the equity surrendered through those "discounts" alone amounted to £194 billion—roughly NT$7.8 trillion. They stated:
 
-> ✦ "The equity given away through the discount is worth £194 billion…" — Common Wealth
+> ✦ "The equity given away through the discount is worth £194 billion…" — Think tank _Common Wealth_
 
-![Brookfield Estate council housing in St Pancras, London, a 1920s red-brick housing estate with orderly rows of multi-story brick buildings](/article-images/society/london-brookfield-council-estate.webp)
-_London council housing. Thatcher’s 1980 “Right to Buy” sold this kind of public housing to tenants at a discount. Forty years later, Britain’s social-housing share had halved to 16 percent. Photo: Reading Tom, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg).\_
+![Brookfield Estate, a municipal housing estate in London's St Pancras area, a group of red-brick residential buildings built in the 1920s, neatly arranged multi-story brick buildings](/article-images/society/london-brookfield-council-estate.webp)
+_Council housing in London. In 1980, Thatcher's "Right to Buy" allowed tenants to purchase these types of public homes at a discount; forty years later, the proportion of social housing in the UK has been halved to 16%. Photo: Reading Tom, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>).\_
 
-The more ironic sequel is that 41 percent of the council homes sold back then have now become higher-rent private rental housing.[^13] The government sold homes to tenants at a discount; tenants, or later owners, then rented them back out to others at higher rents. Public subsidy made a full circuit and ultimately pushed up prices in the rental market. Taiwan’s National Housing “elevator that pulled away the ladder” was reproduced in Britain at a scale enlarged by a million homes.
+Even more ironic is the aftermath: of the public housing units sold back then, 41% have now become higher-rent private rentals. [^13] The government sells houses to tenants at a discount, and those tenants (or the next owners) rent them back to others at even higher rents. The public subsidy goes in a full circle, ultimately driving up prices in the rental market. Taiwan's National Housing "elevator that pulls up the ladder" is a version magnified a million times over in the UK.
 
-![HDB flats in Singapore’s Lavender district, a typical high-rise tower form of public housing with brightly colored facades](/article-images/society/singapore-hdb-lavender-2014.webp)
-_Singapore’s HDB flats, home to about 80 percent of the population. The government built them to “sell,” with 99-year leases. Even with minimum occupation periods, HDB appreciation still became privatized. Photo: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
+![HDB flats in the Lavender area of Singapore, typical high-rise tower public housing with bright exterior colors](/article-images/society/singapore-hdb-lavender-2014.webp)
+_Singapore's HDB flats, where approximately 80% of citizens reside. The government builds them to "sell" with 99-year leases; even with minimum residency requirements, they cannot stop the privatization of HDB appreciation. Photo: Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
 
-Even Singapore, so often treated as the positive example, could not prevent this. Singapore’s government-built HDB flats are “sold” to citizens on 99-year leases, and about 80 percent of the population lives in them. It looks like a model of “homeownership for residents.” But even with minimum occupation periods and resale levies, it has not been able to suppress the privatization of HDB appreciation. Scholar Chua Beng Huat has stated directly that this system of public subsidy, originally intended to flatten inequality, has in practice deepened wealth gaps between generations: early buyers accumulated assets through HDB appreciation, while later generations had to pay higher prices to enter. Locals have a vivid phrase for the buy-and-sell cycle of HDB flats: “two bites of the cherry.”[^14]
+Even Singapore, often used as a model of success, cannot stop this phenomenon. The Singapore government builds HDB (Housing & Development Board) flats to "sell" to the people with 99-year leases; with about 80% of citizens living in them, it looks like a model for "home ownership for all." Yet, even with minimum residency requirements and resale surcharges, it cannot suppress the privatization of HDB appreciation. Scholar Chua Beng Huat has pointed out that this system of public subsidies, originally intended to level inequalities, actually deepens the wealth gap between generations: those who bought early accumulate assets through HDB appreciation, while later generations must pay much higher prices to afford them. Locals have a vivid way of describing this cycle of buying and selling HDB flats: "two bites of the cherry." [^14]
 
-> 📝 **Curator’s Note**
-> Looking at Hong Kong, Britain, and Singapore together reveals one thing: once the government chooses to “build to sell,” privatized appreciation becomes a shadow that is almost impossible to shake off. The only difference is whether a gate is installed, and how tight it is. Hong Kong installed the premium payment and at least retained part of the value; Singapore installed thresholds, but value still leaked; Britain essentially gave it away, and public stock was taken off the table wholesale. Taiwan’s National Housing sits at the least defended end of this spectrum, without even Hong Kong’s premium-payment gate. That is why, fifty years later, Taiwan has reached a crossroads: either learn from Hong Kong and add the gate, or learn from another path and do not sell at all.
+> 📝 **Curator's Note**
+> Looking at Hong Kong, the UK, and Singapore together reveals one thing: as long as a government chooses to "build to sell," the privatization of appreciation is an almost inescapable shadow. The only difference lies in whether you have installed a gate, and how tight that gate is. Hong Kong installed premium payments and retained at least a portion; Singapore set thresholds but still has leaks; the UK simply gave it all away, resulting in the total loss of public stock. Taiwan's National Housing is at the most undefended end of this spectrum, lacking even Hong Kong's premium payment system. This is why, fifty years later, Taiwan finds itself at a crossroads: either learn from Hong Kong and install the gate, or follow the other path entirely—don't sell at all.
 
 ## A Pretty 85 Percent Figure, and the Next Generation That Cannot Afford to Buy
 
@@ -247,26 +272,26 @@ The affordable housing ordinance clearly sets out three anti-speculation locks: 
 
 Yet as soon as this path emerged, it collided with the central government.
 
-## Afford to Buy, or Afford to Rent: The Central-Local Argument From Afar
+## Affordable to Buy or Affordable to Rent: The Remote Clash Between Central and Local Governments
 
-The Ministry of the Interior’s position is clear: sale itself is the problem. Deputy Minister Tung Chien-hung directly questioned the direction, saying that “when affordable housing is sale-type housing, relatively speaking it will be able to care for fewer people,” and that “the process of free resale will create disputes over property rights and subsequent administrative-management problems.”[^24] He advocated returning to the spirit of the Housing Act’s social housing: for rent only, not for sale. Put plainly, the ministry’s view is this: once homes are sold, public stock is lost in one transaction. Rather than trying every possible way to manage “what happens after sale,” it is better not to sell in the first place and to keep the homes permanently in government hands for ongoing rental.
+The Ministry of the Interior's stance was clear: selling is inherently problematic. Deputy Minister Tung Chien-hung directly questioned this direction, stating, "When affordable housing is provided as saleable housing, relatively fewer people can be accommodated," and that "the process of free resale will cause disputes over property rights and subsequent administrative management issues."[^24] He advocated for returning to the spirit of the _Housing Act_, which dictates that social housing should be "rent-only, not for sale." In plain terms, the Ministry of the Interior's position is that once a house is sold, it represents a one-time loss of public stock; rather than trying to figure out "what to do after it is sold," it is better not to sell it at all, keeping it in government hands to be rented indefinitely.
 
-The two sides are really describing two different kinds of housing justice.
+The two sides are, in fact, discussing two different versions of housing justice.
 
-Taoyuan’s response was to reject the binary frame. Chiang Nan-chih, director of Taoyuan’s Department of Urban Development, said: “The promotion of housing justice should not fall into a single ‘choose one of two’ logic.”[^25] Mayor Chang San-cheng personally visited the Executive Yuan on June 4, 2026 to seek the inclusion of Taoyuan’s affordable housing in central policy. According to media reports, he described affordable housing and social housing as the “two wings” of housing policy, complementary rather than competitive: some people want to buy, some can only rent, and the two kinds of need should each be caught, rather than being forced into a binary choice.[^26]
+Taoyuan's response was an attempt to break this "either-or" binary. Jiang Nan-chih, Director of the Taoyuan City Urban Development Bureau, said: "The promotion of housing justice should not fall into a single 'one or the other' logic."[^25] Mayor Chang San-cheng personally visited the Executive Yuan on June 4, 2026, to lobby for including Taoyuan's affordable housing within central government policy. According to media reports, he described affordable housing and social housing as the "two wings" of housing policy—complementary rather than competitive: some people want to buy, while others can only rent; both needs should be met separately without forcing a choice between the two.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="Promise of 130,000 units sharply shrinks: why social housing policy turned｜CommonWealth Magazine, Understand CommonWealth in 8 Minutes Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_CommonWealth Magazine’s official program: why the Lai government’s promised 130,000 directly built social housing units shrank sharply, seen from one angle on Taiwan’s difficult present of housing justice._
+_Official program from \_Commonwealth Magazine_: Why the Lai administration's promise of 130,000 social housing units has shrunk significantly, looking at one side of the precarious state of housing justice in Taiwan.\_
 
-This time, the Executive Yuan did not reject the proposal outright. Premier Cho Jung-tai’s stance clearly softened. He did not veto Taoyuan’s approach, saying only that he hoped “central and local policies can align.”[^27] A policy route abolished eleven years earlier, with an official rationale already written as “homeownership rate 85 percent, mission complete,” thus reopened the central government’s door through a local government.
+The Executive Yuan did not issue an outright rejection this time. Premier Cho Jung-tai's attitude showed visible softening; he did not negate Taoyuan's approach, but merely hoped that "central and local policies can be aligned."[^27] A policy direction that had been abolished for eleven years—with the official reason already written as "the 85% homeownership rate task has been completed"—has actually managed to knock on the central government's door again, thanks to a local government.
 
-![The central section of Karl-Marx-Hof social housing in Vienna’s 19th district, a row of monumental red-and-yellow facades stretching for one kilometer](/article-images/society/vienna-karl-marx-hof.webp)
-_Vienna’s Karl-Marx-Hof, completed in 1933 and still owned by the city government, for rent only and not for sale. If you do not sell for a hundred years, the stock remains in public hands. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG).\_
+![Karl-Marx-Hof social housing, central section, 19th District of Vienna, a kilometer-long row of municipal housing with red and yellow monument-style facades](/article-images/society/vienna-karl-marx-hof.webp)
+_Vienna's Karl-Marx-Hof, completed in 1933 and still held by the city government for rent-only use. By not selling for a hundred years, the stock remains in public hands. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-This central-local collision is really an argument over a question that should have been answered fifty years ago, but has always been sidestepped: should the government help people “afford to buy,” or help people “afford to rent”?
+This collision between central and local governments is essentially arguing over a question that should have been answered fifty years ago but has been constantly bypassed: Should the government help people "afford to buy," or help them "afford to rent"?
 
 ## Fifty Years Later, Taiwan Finally Learned to Install That Gate
 

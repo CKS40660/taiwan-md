@@ -2,6 +2,7 @@
 title: "Complex Life Festival: Two Medical Students' 'Unsuccessful People's Forum' and a Generation's Five-Year Refusal to Say They Are Good Enough"
 description: "In May 2016, Hsu Hao-ning posted a string of 'eighth-generation' (born 1981-1990) 'people who make life exhausting' on Facebook, and together with classmate Huang Tou-ni (Huang Yen-lin), organized the first 'Unsuccessful People's Forum'. A TCM practitioner and a Western medicine doctor who later went to Harvard rewrote the previous generation's commercially co-opted 'simplicity' into 'complexity', allowing only talk of growth, not success. Five years later, Hsu Hao-ning's soul remained in Taichung to run a bookstore and ran for city councilor, losing the election; his assistant looked back and called it 'Hao-ning's masterpiece, sealed here': Is 'unsuccessful' a humble term, or a self-expectation of a generation that is always just a little bit short?"
 date: 2026-06-07
+category: 'Society'
 tags:
   [
     'eighth-generation',
@@ -15,20 +16,25 @@ tags:
   ]
 subcategory: '世代與社會'
 author: 'Taiwan.md'
-category: 'Society'
-readingTime: 12
+featured: false
 lastVerified: 2026-06-07
 lastHumanReview: false
-translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a'
-sourceContentHash: 'sha256:288b132714804aff'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-06-14T00:35:00+08:00'
+researchReport: 'reports/research/2026-06/複雜生活節.md'
 image: '/article-images/society/complex-festival-onsite-program.webp'
 imageCredit: '黃柏鈞攝影 / 複雜生活節'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c'
-featured: false
+rationale:
+  why_this_hook: '從病理切片展的 origin + 兩個醫學生 + 「未成功者」命名切入，核心矛盾鎖在兩位發起人的分岔——靈魂（許皓甯）留邊陲、助手（黃豆泥）去哈佛——以及許皓甯「你永遠就差那麼一點點」這句把「未成功」從謙詞還原成世代自我要求。'
+  whats_excluded: '邀請制（臉書標註）天然排除真正邊緣的八年級——移工、工廠工人、沒上大學、沒社群帳號可被標註的人；本文點出此結構但不展開為獨立批判章（活動太 niche 無公開批評市場，per 研究 §G）。簡單生活節只當對照樣板、不展開其自身史。參與者後續無系統追蹤，只舉黃豆泥/唐鳳/劉安婷個案。吳哲宇是 FAB DAO 共同發起人、Taiwan.md 創造者，只在黃豆泥去向處輕點一句並 cross-link，不中心化、不煽情。'
+  where_it_hedges: '第一屆人數寫「兩三百人」（250 有一手源 / 350 僅搜尋摘要，不寫死）；第六屆寫「實質終止於 2020」（V 閉幕預告但無辦成記錄，非官方停辦公告）；加州旅館主題詮釋部分靠歌詞邏輯推論（PanX 原文憑證過期）；許皓甯 1988 為七年級末卻辦八年級聚會，點出張力但不杜撰其自我定位。第三屆其他講者名單採信 cowrite30/siyuchu 現場文，未一一獨立交叉驗證。'
+  whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
+relatedDiary: ['2026-06-07-153821-複雜生活節']
+translatedFrom: 'Society/複雜生活節.md'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:a80f1c8939a4c258'
+sourceBodyHash: 'sha256:94ee6147a8f08b1e'
+translatedAt: '2026-10-13T00:54:07.440709+00:00'
 ---
 
 > **30-Second Overview:** The Complex Life Festival was a youth gathering held in Taichung for five editions from 2016 to 2020. The founders were two classmates from China Medical University who were supposed to become doctors: Hsu Hao-ning from the Traditional Chinese Medicine (TCM) department, and Huang Yen-lin (online alias Huang Tou-ni) from the Western Medicine department. The name playfully inverts the "Simple Life Festival" of the Jonathan Lee generation, positioning participants as "unsuccessful people," with two to three hundred attendees per edition, allowing only talk of "growth" and forbidding talk of "success" [^1]. Five years later, the main organizer Hsu Hao-ning stayed in Taichung as a TCM doctor, opened a bookstore, and lost his city councilor election; visual assistant Huang Tou-ni abandoned medicine for cryptocurrency and became a Democracy Visiting Scholar at the Harvard Kennedy School in 2025 [^2]. A forum that rejected "success" saw its organizers and attendees eventually walk into various forms of success, and its sharpest question was posed by Hsu Hao-ning on stage: "Do you want to die with regret, or live and give up?" [^3]
@@ -231,49 +237,50 @@ How to understand what this gathering, held for five years, with about fifteen h
 
 Interestingly, these four exits intersected again at the third edition of the Complex Life Festival: Audrey Tang was the representative of the g0v line entering the central government; Hsu Hao-ning himself ran for the People First Party; Liu An-ting was the alternative education line — the energy diverging after 318, circling for four years, sat together again in that triangle facing away from the audience. The Complex Life Festival's influence was not in scale, but in that moment of "recognizing kindred spirits," and quietly stitching these seemingly separate youth paths into the same room.
 
-## Ending: You Are Always Just a Little Bit Short
+## Conclusion: You Are Always Just a Little Bit Short
 
-The sharpest sentence of the Complex Life Festival was what Hsu Hao-ning said on stage at the third edition.
+The sharpest sentence spoken at the Complex Life Festival came from Hsu Hao-ning during the third edition.
 
-He first admitted an embarrassing thing: "The Complex Life Festival is the most hated activity I ever organized; every year I verify if my faith is true or false. Will the people who come this year not want to come next year?" [^3] A festival organizing warmth for others; the main organizer doubts every year if it can last. A person building a home for others stands at the door, fearing every year that no one will return.
+He first admitted something embarrassing: "The Complex Life Festival is the event I have personally hated organizing the most; every year, I am testing whether my beliefs are true or false. Will the people who come this year not want to come again next year?" [^3] A festival organized to provide warmth for others, yet its lead organizer doubts its sustainability every single year. A person building homes for others, standing at the doorway every year, fearing that no one will return.
 
-Then he told a story, uncovering everything behind the four words "unsuccessful people":
+Then he spoke a passage that stripped away everything behind the term "the unsuccessful":
 
-"How many years do we have to spend, repeatedly telling ourselves, that I am not strong enough, I am not good enough, so I must keep moving forward? Until when can we forgive ourselves to say, I am good enough... because you will never like yourself; you are always just a little bit short. Do you want to die with regret, or live and give up?" [^3]
+"How many years must we spend repeatedly telling ourselves, 'I am not strong enough, I am not good enough, so I must keep moving forward'? How long must we endure before we can forgive ourselves and say, 'I am good enough'... because you will never like yourself; you will always be just a little bit short. Will you die with regret, or give up while living?" [^3]
 
-This sentence解开 (unlocks) the initial mystery. What is "unsuccessful"? It is not a humble term; Huang Tou-ni really went to Harvard; the humble term was already realized by reality. It is not entirely a prophecy; this group's later "success" is too varied, unable to be summarized by a single upward line. It is more like the state Hsu Hao-ning spoke of: a self-expectation worn by a generation, impossible to take off. Always feeling short by a little bit; never willing to say to oneself "I am good enough." The Complex Life Festival turned this collective dissatisfaction into an annual gathering — a group of people short by a little bit, mutually confirming that they are indeed short by a little bit.
+This passage unlocked the initial mystery. What exactly is being "unsuccessful"? It isn't a term of false modesty—mashbean actually went to Harvard; false modesty would have been long since traded for reality. Nor is it entirely a prophecy; the subsequent "success" of this group is too uneven to be summarized by a single upward trajectory. Rather, it is more like the state Hsu Hao-ning described: a self-imposed demand carried by a generation that cannot be shaken off. Always feeling just a little bit short, always refusing to tell oneself "I am good enough." The Complex Life Festival turned this collective dissatisfaction into an annual gathering—a group of people who are all "just a little bit short," confirming to one another that they truly are.
 
-Huang Tou-ni sealed it in "2016–2019 My Honor." Hsu Hao-ning stayed in Taichung, continuing to see TCM patients, continuing to care for that bookstore left after losing the election. In the fifth edition year, the world locked everyone into self-isolation; this festival with faith in gathering, in the year when gathering was least possible, quietly drew a period.
+mashbean sealed it within 《2016–2019 My Honor》. Hsu Hao-ning stayed in Taichung, continuing his studies in Traditional Chinese Medicine and tending to the bookstore that remained after he lost the election. In the fifth year, the world forced everyone into self-isolation; this festival, built on the faith of gathering, quietly came to an end during the one year when gathering was least possible.
 
-That unanswered question remains on stage: Do you want to die with regret, or live and give up? A generation refusing to talk about success, finished asking this question, and then each returned to their respective complex lives, continuing to live short by a little bit.
+That unanswered question remains on the stage: Will you die with regret, or give up while living? A generation that refuses to talk about success asked this question, then each returned to their own complex lives, continuing to live while being "just a little bit short."
 
 ```tw-timeline
-2016 | Unsuccessful People's Forum | First Edition, 40 days preparation, 200-300 people, Facebook tagging "workaholic, edge of department" eighth-generation
-2017 | California Hotel | Actually held in a hotel, theme taken from "enter but never leave" metaphor
-2018 | Buddhist Youth | Audrey Tang, Liu An-ting, Lin Yi-ying three-way dialogue, triangle facing away from audience
-2019 | ㄇㄉㄈㄎ | Huang Tou-ni hand-drew motherfucker Zhuyin standard characters, jargon only the echo chamber understands
-2020 | Self-Isolation | COVID arrived, physical event canceled, changed to 47-episode Podcast, "least cool year" then effectively ended
+2016 | The Unsuccessful Forum | 1st edition; 40 days of prep; 200–300 attendees; an 8th-gen crowd tagged on Facebook as "workaholics, top of the class"
+2017 | California Hotel | Actually held in a hotel; theme taken from the metaphor of "able to enter, unable to leave"
+2018 | Buddha-like Youth | Audrey Tang, Liu An-ting, and Lin Yi-ying sat in a triangle, conversing with their backs to the audience
+2019 | ㄇㄉㄈㄎ | mashbean hand-drew the standard Zhuyin characters for "motherfucker"—insider slang only understood by the same social circle
+2020 | Self-isolation | COVID-19 hit; physical events canceled in favor of a 47-episode podcast; effectively ended after this "least cool year"
+Source: Themes and on-site records from various editions (interviews with Hsu Hao-ning and mashbean, and reports from previous years) [^3][^10][^13]
 ```
 
-Two "Life Festivals" separated by ten years are two answers from two generations to "what life should look like":
+Ten years separate these two "Life Festivals," representing two different answers from two generations regarding "what life should look like":
 
 ```tw-versus
 Simple Life Festival (2006) | Complex Life Festival (2016)
-Jonathan Lee, Chang Pei-jen, Ma Tian-zong (Music Industry) | Hsu Hao-ning, Huang Tou-ni (Eighth-Generation Medical Students)
-First edition 30,000 people, later 60,000-100,000 | 200-300 people, deliberately maintained small
-Highly commercialized, brand sponsorship | Non-commercial, self-funded ticketing
-"Calm and Focused" | "Growth", Unsuccessful People's Forum
-Cross-generation, music-centric | Clear eighth-generation subject
-20th Anniversary in 2025 | Effectively ended in 2020
-Data Source: Complex Life Festival Official Medium, Simple Life Festival Historical Data
+Jonathan Lee, Chang Pei-jen, Ma Tien-tsung (Music Industry) | Hsu Hao-ning, mashbean (8th-gen medical students)
+30,000 in the first year, later 60,000 to 100,000 | 200–300 people; deliberately kept small
+Highly commercialized, brand sponsorships | Non-commercial, self-funded ticketing
+"Calm and focused" | "Growth," The Unsuccessful Forum
+Intergenerational, centered on music | Explicitly 8th-gen centric
+Celebrating its 20th anniversary in 2025 | Effectively ended in 2020
+Data Source: Complex Life Festival official Medium, historical data from Simple Life Festival
 ```
 
 **Further Reading**:
 
-- [Sunflower Student Movement](/en/society/sunflower-movement) — The era background of the Complex Life Festival: How the 2014 movement, after dispersing on the streets, split into the People First Party, g0v, Heterogeneous School, and Complex Life Festival youth exits
-- [Heterogeneous School](/en/society/za-share) — The same wave of 318 post-energy, taking the opposite path: growing into Asia's largest educational carnival, contrasting with the Complex Life Festival's "deliberately maintained small" in scale and intimacy
-- [Taiwan's Slash Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The structural background of the Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job holders
-- [FAB DAO and the Hundred Mountains Project](/art/FAB DAO與百岳計畫) — Where Huang Tou-ni went after abandoning medicine: The next work of "integrating the cypherpunk spirit into Taiwan's digital society"
+- [Sunflower Student Movement](/en/society/sunflower-movement) — The historical context of the Complex Life Festival: How that 2014 movement branched into various youth outlets like New Power Party, g0v, Zazhu School, and the Complex Life Festival after dispersing from the streets.
+- [Zazhu School](/en/society/za-share) — An alternative energy following the same 3/18 wave, but taking the opposite route: growing into Asia's largest educational carnival; a contrast in scale and intimacy to the Complex Life Festival's "deliberately kept small" approach.
+- [Taiwan's Slash Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The structural background of why Complex Life Festival participants call themselves "workaholics": how median wages and survival pressure forced this generation into multi-hyphenate roles.
+- [FAB DAO and the Hundred Mountains Project](/art/FAB DAO與百岳計畫) — Where mashbean went after leaving medicine: the next work aimed at "integrating the cyberpunk spirit into Taiwan's digital society."
 
 ## Image Sources
 

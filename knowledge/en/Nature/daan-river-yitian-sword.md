@@ -2,9 +2,7 @@
 title: "The Daan River Heaven Sword: East Asia's Tallest Tree Hid for Seven Hundred Years in a Place We Could Not Reach"
 description: 'During the 2023 Lunar New Year, the Tree Finder team spent seven days tracing the Daan River upstream. In a deep valley near its headwaters, a place almost no one can reach, they lowered a tape measure from the crown of a Taiwania tree: 84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR had predicted. On a country swept by typhoons every year, where slopes collapse and floods surge, life of this height should not, in theory, still exist. Yet precisely because it grew in a valley humans could not reach, it escaped the era of large-scale logging and survived for seven hundred years. The same inaccessibility that kept it alive also meant that only after scanning all of Taiwan with lasers did we see it for the first time that year.'
 date: 2026-06-24
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '植物'
 tags:
   [
     'Taiwania',
@@ -18,17 +16,21 @@ tags:
     'LiDAR',
     'Xueshan Range',
   ]
-readingTime: 15
+subcategory: '植物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-24
 lastHumanReview: false
-featured: false
-translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d645338641d89664'
-sourceBodyHash: 'sha256:5dcfd938f21ea513'
-translatedAt: '2026-06-25T00:43:06+08:00'
+researchReport: 'reports/research/2026-06/大安溪倚天劍.md'
 image: '/article-images/nature/taiwania-nantou-shihchuan.webp'
 imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
+readingTime: 15
+relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
+translatedFrom: 'Nature/大安溪倚天劍.md'
+sourceCommitSha: 'a8f7c4e08'
+sourceContentHash: 'sha256:e26a95dae7cf552e'
+sourceBodyHash: 'sha256:b680f8b344c7bf2d'
+translatedAt: '2026-10-13T01:05:17.847861+00:00'
 ---
 
 > **30-Second Overview:** Taiwan has a tree 84.1 meters tall, roughly the height of a 28-story building, and it is currently the tallest known tree in East Asia[^1]. It is called the "Daan River Heaven Sword," a Taiwania (_Taiwania cryptomerioides_) growing in a deep valley near the headwaters of the Daan River at about 1,650 meters above sea level. It is estimated to have lived for seven or eight hundred years[^2]. During the 2023 Lunar New Year, the "Tree Finder" team spent seven days tracing the river upstream, with nighttime temperatures falling to minus 2 degrees Celsius, before climbing into its crown and lowering a tape measure to obtain that number[^3]. The most counterintuitive fact is this: on a country swept by typhoons every year, with fragile geology prone to landslides and floods, height like this should not, in theory, exist. It could grow to 84 meters and live for seven hundred years precisely because it was hidden in a valley humans could barely reach. The same "inaccessibility" that let it escape large-scale logging during the Japanese colonial period and after the war also meant that only after nearly a decade of work and a laser scan of the entire country did we see it for the first time that year[^4].
@@ -73,61 +75,63 @@ _Taiwania foliage and its straight tree form: with a straight trunk and non-holl
 
 So why did the tallest Taiwania survive? The answer lies not in the tree itself, but in where it stands.
 
-## Hidden Means Surviving
+## Concealment is Survival
 
-The Heaven Sword grows near the headwaters of the Daan River, in a deep valley at about 1,650 meters above sea level[^13]. To get there, one must trace the Daan River upstream for about 20 kilometers, cross powerful currents, climb over dangerous cliffs prone to rockfall and landslides, first ascend nearly a thousand meters, then descend more than another thousand. This is a route that even experienced mountaineers may not be able to complete[^14]. Researcher Rebecca Chia-Chun Hsu described the settings where such giant trees grow: "The places where these giant trees are located are environments that even experienced mountaineers find very difficult to reach."[^15]
+The Heaven Sword grows in a deep valley at the source of the Da'an River, at an altitude of approximately 1,650 meters[^13]. To reach it, one must trek upstream along the Da'an River for about 20 kilometers, crossing powerful currents and scaling steep cliffs prone to rockfalls and landslides—climbing up nearly a thousand meters before descending over a thousand meters. This is a route that even seasoned mountaineers might struggle to navigate[^14]. Researcher Hsu Chia-chun describes the habitat of such giant trees: "These giant trees are located in environments that are difficult even for experienced mountaineers to reach."[^15]
 
-Precisely this "inaccessibility" became its life-saving charm.
+It was precisely this "unreachability" that became its life insurance.
 
-From the Japanese colonial period through the postwar era, Taiwan underwent wave after wave of large-scale logging. The cypresses and Taiwania of Alishan, Taipingshan, and Basianshan were hauled down the mountains in vast quantities. But logging equipment has limits to where it can go. It cuts where roads can be built and where timber can be transported out. The sheer-walled valley near the Daan River's headwaters was beyond the reach of timber cableways and trucks, so this 84-meter giant was left behind. It hid deeply enough to survive.
+From the Japanese colonial period through the post-war era, Taiwan underwent successive waves of large-scale logging; cypress and _Taiwania_ (Taiwan cedar) from Alishan, Taipingshan, and Bashanshan were transported down mountains in massive quantities. However, logging machinery has its limits—it only cuts where roads can be built and timber can be hauled out. The sheer cliffs and deep valleys at the source of the Da'an River were inaccessible to cableways and trucks, so this 84-meter giant was left behind. It hid deeply enough that it survived.
 
-Hsu captured the logic precisely: "The place where the Heaven Sword stands shares traits with previously discovered giant trees: it exists in unlogged primary forest and is located in a valley that can shelter it from typhoons."[^16] That sentence explains both its height and its lifespan. The valley terrain shields it from direct typhoon winds, so it is not snapped like large trees on ridgelines. The unlogged primary forest gives it the chance to accumulate time into height.
+Hsu Chia-chun explains this logic precisely: "The location of the Heaven Sword shares similar characteristics with other discovered giant trees: it exists within an unlogged primary forest and is situated in a valley that provides protection from typhoons."[^16] This observation solves two mysteries at once: height and lifespan. The valley topography shields the tree from the direct impact of typhoons, preventing it from being snapped by the wind like trees on a ridge; meanwhile, the unlogged primary forest gave it the opportunity to accumulate time into height.
 
 ![Cloud forest in Shei-Pa National Park](/article-images/nature/shei-pa-cloud-forest.webp)
-_Cloud forest in Shei-Pa National Park: afternoon fog and a highly humid environment with annual rainfall of about 3,000 millimeters are crucial to Taiwania's ability to move water up to an 80-meter crown. Photo: Wikimedia Commons, CC BY-SA 4.0_
+_The cloud forest of Shei-Pa National Park: A high-humidity environment with afternoon fog and an annual rainfall of approximately 3,000 mm is key to allowing \_Taiwania_ to transport water to its 80-meter canopy. Photo: Wikimedia Commons, CC BY-SA 4.0\_
 
-Scientifically, Taiwania can grow this tall because three conditions stack together. First is the high humidity of the cloud forest zone: Taiwania is naturally distributed at elevations of 1,500 to 2,400 meters, in cloud belts with annual rainfall of about 3,000 millimeters[^17]. Afternoon fog forms there, and fog water can be absorbed directly through leaf surfaces, helping solve the enormous pressure problem of moving water from roots to a treetop 80 meters high. Second is the combination of valley terrain that shelters it from typhoons and pioneer advantages on landslide sites: Taiwania seeds are small and can drift long distances on the wind. Seedlings often land on valley landslides and fallen logs. As a light-loving pioneer species, once a landslide opens a canopy gap and sunlight enters, it races upward[^18]. Third is that hidden means surviving: inaccessible terrain let it escape the human saw.
+Scientifically, for a _Taiwania_ to grow this tall, three factors must overlap. First is the high humidity of the cloud forest: _Taiwania_ is naturally distributed in cloud belts at altitudes of 1,500 to 2,400 meters with an annual rainfall of about 3,000 mm[^17]. The afternoon fog allows moisture to be absorbed directly through the leaf surfaces, solving the problem of the massive hydraulic pressure required to pump water from the roots to an 80-meter canopy. Second is the combination of valley topography for typhoon protection and the advantage of being a pioneer species on landslide sites: _Taiwania_ seeds are tiny and can disperse long distances via wind; seedlings often land on landslide areas or fallen logs in valleys. As a light-loving pioneer species, once a landslide opens a forest gap and sunlight pours in, it quickly surges upward[^18]. Third is concealment as survival: the inaccessible terrain allowed it to escape human saws.
 
-Red cypress avoided felling through hollow heartwood; Taiwania avoided felling through sheer terrain. Taiwan's two oldest kinds of giant trees escaped the same logging era in two completely different ways.
+Red cypress (_Suuga mortalis_) avoided being logged because of hollow trunks; _Taiwania_ avoided logging because of its cliffside terrain—the two oldest types of giant trees on this island used two completely different methods to survive the same era of logging.
 
 ```tw-stat
-84.1 meters | Height of the Heaven Sword | About 28 stories, the tallest tree in East Asia
-About 8.5 meters | Trunk girth | Several people are needed to encircle it
-Estimated 700-800 years | Tree age | Estimated from girth, not dated by core sampling
-941 trees | Giant trees over 65 meters located across Taiwan | As of the end of 2022
+84.1 m | Height of Heaven Sword | Approx. 28 stories, the tallest in East Asia
+Approx. 8.5 m | Girth | Requires several people holding hands to encircle
+Est. 700–800 years | Age | Estimated from girth; not dated via core sampling
+941 trees | Giant trees >65 m located in Taiwan | As of the end of 2022
+Source: Field measurements by The Tree Finders team (height 84.1 m, girth approx. 8.5 m) and age estimates/giant tree location data cited in this article[^1][^6][^19][^20]
 ```
 
-That seven-hundred-year figure needs to be laid out carefully. The Heaven Sword is "estimated to be about 700 to 800 years old." This figure was calculated from its roughly 8.5-meter girth and the growth rate of Taiwania. It has not actually been dated through core sampling of its annual rings[^19]. Some international reports in 2026 even described it as "nearly a thousand years old"[^20]. This older figure may come from another estimation method. Girth-based age estimates are uncertain: the Shuishan Sacred Tree in Alishan was once estimated at 2,700 years old, but after the Forestry Bureau took an increment core, the figure was revised to 1,081 years, a difference of more than 1,600 years[^21]. So for the Heaven Sword, the more responsible formulation is this: it is estimated at seven or eight hundred years old and may be older, but until someone actually cores its rings, the number carries a question mark.
+Regarding those seven hundred years, one figure must be addressed transparently. The Heaven Sword is "estimated to be about 700 to 800 years old"—this number was calculated from the approximately 8.5-meter girth combined with the known growth rate of _Taiwania_, rather than through actual tree-ring dating via core sampling[^19]. Some international reports in 2026 even claim it is "nearly a millennium old"[^20], a more ancient figure that may stem from a different estimation method. Estimating age by girth carries uncertainty: the Shuishan Sacred Tree in Alishan was once estimated to be 2,700 years old, but after the Forestry Bureau performed core sampling, it was corrected to 1,081 years—an error of over 1,600 years[^21]. Therefore, regarding the Heaven Sword, a more responsible statement is: it is estimated to be seven or eight hundred years old, and potentially even older, but until someone actually drills into its rings, this remains a number accompanied by a question mark.
 
-## The Tree Finders, and Eyes That Spent a Lifetime Looking for Trees
+## The Tree Finders, and the Eyes That Spent a Lifetime Searching
 
-The Heaven Sword was "found." And the story of finding it begins on an afternoon when a pair of shoes broke.
+_Yitianjian_ (Heaven-Slaying Sword) was "found." And the story of finding it begins on an afternoon when a pair of shoes broke.
 
-In 1994, Hsu made her first Nenggao Historic Trail traverse. On the fourth day, her shoes had already fallen apart. Exhausted, she leaned beside the Qilai Dam to rest, but her gaze was caught by a giant tree across the valley: a Taiwania. Looking at that towering figure, she said that after feeling awed, she suddenly found the strength to keep walking[^22]. She did not yet know that this image would pull her through the rest of her life.
+In 1994, Hsu Chia-chun walked the Nenggao Ridge for the first time. By the fourth day, her shoes were ruined. Exhausted, she leaned against the side of the Qilai Dam to rest, but her gaze was suddenly captured by a giant tree in the valley across from her—a _Taiwania cryptomerioides_ (Taiwan cypress). Looking up at its towering silhouette, she said that amidst her sense of awe, she felt a sudden surge of strength to keep going[^22]. At that moment, she had no idea that this single image would guide the rest of her life.
 
-That tree was, in fact, another tree. The Heaven Sword stands at the headwaters of the Daan River: another place, another Taiwania. But the tree across from Qilai Dam in 1994 was the starting point of "seeing." Hsu later studied botany at National Taiwan University, earned a doctorate in Amsterdam, joined the Taiwan Forestry Research Institute to study canopy epiphytes, and became the kind of person whose life is spent dealing with trees high above the ground[^23].
+That tree was actually someone else entirely. _Yitianjian_ is located at the headwaters of the Da'an River; it is a different place and a different Taiwan cypress. But the one across from Qilai Dam in 1994 was the starting point for the act of "seeing." Hsu later studied botany at National Taiwan University, earned her PhD in Amsterdam, and joined the Taiwan Forestry Research Institute to study epiphytes in the forest canopy, becoming the kind of person who spends a lifetime interacting with the heights of trees[^23].
 
-The systematic search for "Taiwan's tallest tree" truly began in 2014. That year, Hsu's team visited the "Three Sisters" Taiwania in the Qilan Conservation Area, formally setting out on the path of searching for giant trees[^24]. From 2014 onward, they successively located, climbed, and tape-measured 22 giant trees over 40 meters tall[^8]. But finding trees one by one on foot was too slow. Taiwan is too large, and its deep valleys too numerous. Hsu herself said: "Many trees are in uninhabited places. Just cutting through grass and opening a route takes more than ten days."[^25]
+The truly systematic search for "Taiwan's tallest tree" began in 2014. That year, Hsu’s team visited the "Three Sisters," a group of Taiwan cypresses in the Qilan Conservation Area, officially embarking on the quest for giant trees[^24]. Since 2014, they have successively located, climbed, and measured 22 giant trees exceeding 40 meters in height using tape measures[^8]. But searching one by one on foot was too slow. The island is too large and the valleys too deep; as Hsu puts it: "Many trees are in places where there is no human presence; just clearing the grass to make a path can take over ten days."[^25]
 
-The turning point came from a batch of laser data. In the 2010s, Taiwan's Ministry of the Interior successively obtained nationwide airborne LiDAR scans after Typhoon Morakot. From 2016 onward, the team led by Chi-Kuei Wang at National Cheng Kung University's Department of Geomatics also launched a second large-scale scan[^26]. In 2019, Hsu and Wang formally formed the "Tree Finder: Giant Tree Mapping Project," turning laser point clouds into maps of giant-tree hotspots that could be systematically interpreted[^27].
+The turning point came from a batch of laser data. In the 2010s, following Typhoon Morakot, the Ministry of the Interior gradually acquired airborne LiDAR scans of all of Taiwan; starting in 2016, a team led by Wang Chi-kuei from the Department of Surveying and Geo-informatics at National Cheng Kung University launched a second large-scale scan[^26]. In 2019, Hsu and Wang officially formed the "Tree Finder—Giant Tree Map Project," turning laser point clouds into a systematic map of giant tree hotspots[^27].
 
 ```tw-timeline
-1994 | The afternoon when the shoes broke | Hsu traverses the Nenggao Historic Trail; a Taiwania across the valley from Qilai Dam becomes the starting point of "seeing"
-2014 | The search for the tallest tree begins | The team visits Qilan's Three Sisters and thereafter climbs and tape-measures 22 giant trees over 40 meters
-2016 | The second scan begins | Wang Chi-Kuei's team at NCKU rescans Taiwan's forests using airborne LiDAR
-2019 | Tree Finder is formed | Hsu x Wang formally establish the Giant Tree Mapping Project, combining lasers and citizen science
-2020 | The public joins the interpretation | Hundreds of citizens interpret more than 50,000 LiDAR profile images online, filtering out tens of thousands of algorithmic false positives
-2022 | A giant-tree map of Taiwan | 941 giant trees over 65 meters are located across Taiwan
-2023 | The Heaven Sword is unsheathed | A seven-day Lunar New Year upstream expedition confirms 55214 = 84.1 meters, the tallest tree in East Asia
-2026 | Published in an international journal | The measurement process appears in Frontiers, with simultaneous coverage by CNN and Mongabay
+1994 | The afternoon shoes broke | Hsu Chia-chun at Nenggao Ridge; a Taiwan cypress in the valley across Qilai Dam becomes the starting point for "seeing"
+2014 | Searching for the tallest | Visiting the Qilan Three Sisters; since then, 22 giant trees >40m have been climbed and measured
+2016 | Second scan launched | Wang Chi-kuei's NCKU team re-scans Taiwan's forests using airborne LiDAR
+2019 | Tree Finders formed | Hsu × Wang officially form the Giant Tree Map Project, combining laser data + citizen science
+2020 | Collective interpretation | Hundreds of citizens interpret 50,000+ LiDAR profiles online, filtering out tens of thousands of algorithmic errors
+2022 | An island-wide giant tree map | Locating 941 giant trees exceeding 65 meters across Taiwan
+2023 | Yitianjian unsheathed | A 7-day stream trek during Lunar New Year confirms 55214 = 84.1m, the tallest tree in East Asia
+2026 | Published in international journals | The measurement process featured in Frontiers; reported by CNN and Mongabay
+Source: Interviews with the Tree Finder Giant Tree Map Project and Hsu Chia-chun, as well as Ministry of Interior airborne LiDAR and NCKU Wang Chi-kuei team scan records[^8][^22][^24][^25][^26][^27]
 ```
 
-Lasers alone were not enough. Among the candidate points initially screened by the algorithm, the false-positive rate was absurdly high: more than 90 percent of the "tall trees" flagged by the machine were actually calculation errors[^28]. So in 2020, the project did something very Taiwanese: it uploaded more than 50,000 LiDAR profile images to a citizen science platform and invited hundreds of people to interpret them online, using many human eyes to remove tens of thousands of algorithmic false positives one image at a time[^28]. To encourage participation, the platform also designed achievement badges, and whoever found the tallest tree could even earn the right to name the giant tree[^29].
+Laser data alone was not enough. Among the candidate points pre-screened by algorithms, the error rate was absurdly high; over 90% of the "tall trees" flagged by machines were actually miscalculations[^28]. Thus, in 2020, the project did something very Taiwanese: they uploaded over 50,000 LiDAR profiles to a citizen science platform, allowing hundreds of members of the public to interpret them online. They relied on the eyes of the crowd to brush away tens of thousands of algorithmic errors, one image at a time[^28]. To encourage participation, the platform even designed progression badges; those who found the tallest tree could even be granted the right to name it[^29].
 
-Lasers scanned the whole country, citizens' eyes filtered the profiles one by one, and then people climbed to the treetop and settled the matter with a tape measure. The Heaven Sword is the final number produced by this entire technical chain. By the end of 2022, the _Taiwan Giant Tree Map_ had already marked 941 giant trees over 65 meters tall across Taiwan[^30]. Number 55214 was one of those coordinates.
+The lasers scanned the entire island, the citizens' eyes filtered through the images one by one, and finally, humans climbed to the treetops to finalize the measurements with tape measures. _Yitianjian_ is the final number produced by this entire technical chain. By the end of 2022, this "Taiwan Giant Tree Map" had already marked 941 giant trees exceeding 65 meters[^30]. Number 55214 is one of those coordinates.
 
-> **Curator's Note**
-> "Finding the tallest tree in Taiwan" required more than one extraordinary tree. It required an aircraft scanning the whole country, a laser algorithm, hundreds of strangers reading profile images in front of computers, several Indigenous team members who could guide the route, a group of scientists willing to spend seven days tracing a river upstream and climbing a tree, and finally a roll of measuring tape. The Heaven Sword was not "seen" until 2023, but this act of seeing was a collective process in which Taiwan spent a decade learning itself anew.
+> **📝 Curator's Note**
+> "Finding the tallest tree on the island" requires more than just a remarkable tree. It requires an aircraft to scan the whole island, a set of laser algorithms, hundreds of strangers sitting before computers interpreting profiles, several Indigenous team members to lead the way, a group of scientists willing to trek through streams for seven days to climb a tree, and finally, a single roll of tape measure. _Yitianjian_ was only "seen" in 2023—but this "seeing" is the process of an entire island collectively rediscovering itself over the course of ten years.
 
 ## The Seven Days of Unsheathing
 
