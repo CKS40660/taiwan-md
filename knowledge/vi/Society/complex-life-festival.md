@@ -19,23 +19,22 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-07
 lastHumanReview: false
-researchReport: reports/research/2026-06/複雜生活節.md
+researchReport: 'reports/research/2026-06/複雜生活節.md'
 image: '/article-images/society/complex-festival-onsite-program.webp'
 imageCredit: '黃柏鈞攝影 / 複雜生活節'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c'
 rationale:
-  why_this_hook: 'từ gốc khai mạc triển lãm bệnh lý + hai sinh viên y tế + tên gọi "những người chưa thành công", sự mâu thuẫn cốt lõi bị khóa trong hai người sáng lập khác nhau — linh hồn (Hứa Hào Ninh) ở lại biên cương, trợ lý (Hoàng Đậu Bùn) đi Harvard — và Hứa Hào Ninh "bạn mãi mãi chỉ thiếu một chút" đưa "chưa thành công" trở về từ lời khiêm tốn thành yêu cầu bản thân của thế hệ.'
-  whats_excluded: 'tính chất mời bè bạn (đánh dấu Facebook) tự nhiên loại trừ những người lớp 8 thực sự biên duyên — lao động di cư, công nhân nhà máy, không học đại học, không có tài khoản mạng xã hội để được đánh dấu; bài này chỉ ra cấu trúc này nhưng không mở rộng thành một chương phê phán độc lập (hoạt động quá bé để không có thị trường chỉ trích công khai, theo nghiên cứu §G). Lễ hội Cuộc sống Đơn giản chỉ là mẫu so sánh, không mở rộng lịch sử của nó. Không theo dõi có hệ thống những người tham gia sau, chỉ trích dẫn các trường hợp Hoàng Đậu Bùn / Đường Phượng / Lưu An Anh. Vũ Triết Vũ là người sáng lập chung của FAB DAO, người sáng tạo Taiwan.md, chỉ khi nói tới nơi cậu đi Harvard mới nhắc nhẹ một câu và cross-link, không phân cấp hoá, không kích động cảm xúc.'
-  where_it_hedges: 'lần đầu số lượng được viết "hai ba trăm người" (có 250 nguồn tay / chỉ 350 tóm tắt tìm kiếm, không viết chết); lần thứ sáu viết "thực tế kết thúc vào năm 2020" (V thông báo đóng cửa nhưng không có bản ghi tổ chức, không phải công bố dừng chính thức); phần diễn giải chủ đề khách sạn California dựa vào logic lời bài hát (bằng chứng PanX hết hạn); Hứa Hào Ninh 1988 là cuối lớp 7 nhưng tổ chức cuộc tụ tập lớp 8, chỉ ra căng thẳng nhưng không tạo dựng định vị bản thân của ông. Danh sách những người nói chuyện khác ở lần thứ ba sử dụng văn bản hiện trường của cowrite30 / siyuchu, chưa đối chiếu độc lập từng người.'
-  whos_pushing_back: 'Phê phán tinh hoa — "những người chưa thành công" thực chất là những người có vốn văn hoá, sau này vào vị trí tinh hoa "những người sẽ thành công trong tương lai" (người quan sát hiện trường Chu Tư Du tự hỏi "tại sao tôi phải giả vờ là một người thành công ở đây?"); cái bế tắc / vòng tròn giữa Đài Trung loại trừ theo địa lý phía nam và phía đông; quy mô bé 5 năm khoảng 1500 người, ảnh hưởng tương đối hạn chế so với trường Tạp học 200.000 lần truy cập (nhưng là thiết kế có chủ ý).'
-relatedDiary:
-  - 2026-06-07-153821-複雜生活節
+  why_this_hook: '從病理切片展的 origin + 兩個醫學生 + 「未成功者」命名切入，核心矛盾鎖在兩位發起人的分岔——靈魂（許皓甯）留邊陲、助手（黃豆泥）去哈佛——以及許皓甯「你永遠就差那麼一點點」這句把「未成功」從謙詞還原成世代自我要求。'
+  whats_excluded: '邀請制（臉書標註）天然排除真正邊緣的八年級——移工、工廠工人、沒上大學、沒社群帳號可被標註的人；本文點出此結構但不展開為獨立批判章（活動太 niche 無公開批評市場，per 研究 §G）。簡單生活節只當對照樣板、不展開其自身史。參與者後續無系統追蹤，只舉黃豆泥/唐鳳/劉安婷個案。吳哲宇是 FAB DAO 共同發起人、Taiwan.md 創造者，只在黃豆泥去向處輕點一句並 cross-link，不中心化、不煽情。'
+  where_it_hedges: '第一屆人數寫「兩三百人」（250 有一手源 / 350 僅搜尋摘要，不寫死）；第六屆寫「實質終止於 2020」（V 閉幕預告但無辦成記錄，非官方停辦公告）；加州旅館主題詮釋部分靠歌詞邏輯推論（PanX 原文憑證過期）；許皓甯 1988 為七年級末卻辦八年級聚會，點出張力但不杜撰其自我定位。第三屆其他講者名單採信 cowrite30/siyuchu 現場文，未一一獨立交叉驗證。'
+  whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
+relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a6'
-sourceContentHash: 'sha256:288b132714804aff'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:a80f1c8939a4c258'
+sourceBodyHash: 'sha256:94ee6147a8f08b1e'
+translatedAt: '2026-10-13T00:58:38.180947+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Lễ hội Cuộc sống Phức tạp là buổi tụ tập thanh niên tổ chức từ năm 2016 đến 2020 ở Đài Trung trong năm lần, người sáng lập là hai đồng học của Trường Đại học Y dược Trung Quốc Đài Loan, hai người này lẽ ra phải trở thành bác sĩ: Hứa Hào Ninh từ khoa Y Đông, Hoàng Văn Lâm (tên mạng Hoàng Đậu Bùn) từ khoa Y Tây. Cái tên rất tinh nghịch đảo ngược "Lễ hội Cuộc sống Đơn giản" của thế hệ Lý Tông Tháng, đặt vị trí những người tham gia là những "người chưa thành công", mỗi lần hai ba trăm người, chỉ cho phép nói về "sự tăng trưởng" chứ không cho phép nói về "thành công"[^1]. Năm năm sau, người sáng lập Hứa Hào Ninh ở lại Đài Trung làm bác sĩ Y Đông, mở một cửa hàng sách, ứng cử thành viên hội đồng - và thua cuộc; trợ lý trực quan Hoàng Đậu Bùn bỏ ngành y để tham gia tiền mã hóa, năm 2025 trở thành học giả thăm viếng dân chủ tại Viện Kennedy của Harvard[^2]. Một diễn đàn từ chối "thành công", những người tổ chức nó và những người đến dự sau này mỗi người đã bước vào một loại thành công, và câu hỏi nhọn nhất của nó, được Hứa Hào Ninh hỏi trên sân khấu: "Bạn muốn chết với sự hối tiếc, hay sống và từ bỏ?"[^3]
@@ -237,49 +236,50 @@ Lần thứ năm dự báo lần thứ sáu, nói sẽ rút một phòng phòng 
 
 Điều có ý là, bốn cửa hàng cửa hàng sau đó lại gặp lại một lần ở lần thứ ba phức tạp cuộc sống: Đường Phượng là đại diện của sàn g0v đi vào trung ương chính phủ, Hứa Hào Ninh tự mình đại diện Đảng thời đại lực lượng từng ứng cử, Lưu An Anh là sàn giáo dục khác — năng lượng phân chia rẽ sau 318 năm, đi bốn năm, lại ngồi vào cùng một tam giác quay lưng. Ảnh hưởng của Lễ hội Cuộc sống Phức tạp không ở quy mô, ở kiểu "nhận biết người cùng loại" khoảnh khắc, cũng như nó đem mấy chuỗi thanh niên con đường như là đi các đi riêng, ẵm ở cùng một phòng ngả.
 
-## Kết thúc: Bạn mãi mãi chỉ thiếu một chút
+## Kết thúc: Bạn sẽ luôn thiếu một chút gì đó
 
-Cái câu nhọn nhất của Lễ hội Cuộc sống Phức tạp, là Hứa Hào Ninh nói ở lần thứ ba sân khấu.
+Câu nói sắc sảo nhất của Lễ hội Cuộc sống Phức tạp là lời của Hứa Hào Ninh (Hsu Hao-ning) phát biểu tại kỳ lễ hội thứ ba.
 
-Anh ấy trước tiên thừa nhận cái gì nan giải: "Lễ hội Cuộc sống Phức tạp, là hoạt động tôi tổ chức từng ghét nhất, mỗi năm tôi trong xác nhận tín tưởng của tôi có phải thật không. Năm nay tới của người, năm sau có muốn tới không nhỉ?"[^3]Lễ hội để người khác ấm áp, chủ tọa bản thân mỗi năm trong nghi ngờ nó không chịu được xương sống. Một người để người khác tạo gia đình, bản thân đứng ở cửa, mỗi năm đều sợ không ai quay lại.
+Anh ấy đã thừa nhận một sự thật đầy khó xử: "Lễ hội Cuộc sống Phức tạp là sự kiện mà chính tôi cảm thấy ghét nhất từng tổ chức; mỗi năm tôi đều phải kiểm chứng xem đức tin của mình là thật hay giả. Liệu những người đến năm nay, có muốn quay lại vào năm sau nữa không?"[^3] Một lễ hội được tổ chức để sưởi ấm cho người khác, nhưng chính người điều phối chính lại luôn nghi ngờ liệu nó có thể duy trì được hay không. Một người xây dựng mái nhà cho kẻ khác, nhưng bản thân khi đứng trước cửa, mỗi năm đều sợ rằng sẽ chẳng có ai trở về.
 
-Rồi anh nói một đoạn, đem "chưa thành công" bốn chữ sau lưng toàn bộ mở ra:
+Sau đó, anh ấy đã nói một đoạn, lột trần toàn bộ ý nghĩa đằng sau bốn chữ "người chưa thành công":
 
-"Chúng ta phải tốn bao nhiêu năm thời gian, lặp đi lặp lại nói với bản thân, là tôi không đủ mạnh, là tôi không đủ tốt, vì vậy tôi phải đi tiếp? Chúng ta phải chịu tới khi nào, mới có thể tha thứ cho bản thân nói, tôi đủ tốt rồi……vì bạn mãi mãi sẽ không yêu bản thân, bạn mãi mãi chỉ thiếu một chút. Bạn muốn chết với hối tiếc, hay sống và từ bỏ?"[^3]
+"Chúng ta phải mất bao nhiêu năm để lặp đi lặp lại với bản thân rằng: do mình chưa đủ mạnh, do mình chưa đủ tốt, nên mình phải tiếp tục tiến về phía trước? Chúng ta phải gắng gượng đến bao giờ mới có thể tự tha thứ cho chính mình và nói rằng: tôi đã làm đủ tốt rồi... Bởi vì bạn sẽ không bao giờ thấy hài lòng với bản thân, bạn sẽ luôn cảm thấy mình thiếu một chút gì đó. Bạn muốn chết đi trong nuối tiếc, hay từ bỏ ngay khi đang sống?"[^3]
 
-Đoạn lời này mở cái mê làm nên trong đầu lúc đầu. "Chưa thành công" sau hết là cái gì? Nó không phải lời khiêm tốn, Hoàng Đậu Bùn thực sự đi Harvard, lời khiêm tốn sớm bị hiện thực hoàn hiện rồi. Nó cũng không toàn bộ dự báo, nhóm người này "thành công" sau này quá khác nhau, không có thể sử dụng một dòng đi lên để tóm tắt. Nó hơn giống cái tình huống Hứa Hào Ninh nói: một thế hệ quặt trong thân, tháo không ra của tự yêu cầu. Mãi mãi thấy bản thân thiếu một chút, mãi mãi không dám nói "tôi đủ tốt rồi". Lễ hội Cuộc sống Phức tạp đem cái không thỏa mãn tập thể này, tổ chức thành một lễ hội năm một lần — một nhóm thiếu một chút thanh niên, xác nhân lẫn nhau thực sự thiếu một chút.
+Đoạn văn này đã giải mã ẩn số ban đầu. "Chưa thành công" rốt cuộc là gì? Đó không phải là một lời nói khiêm tốn; mashbean (Hoàng Đậu Bùn) thực sự đã đến Harvard, những lời khiêm tốn vốn đã sớm bị hiện thực hóa rồi. Nó cũng không hoàn toàn là một lời tiên tri, bởi vì sự "thành công" sau này của nhóm người này quá đỗi khác biệt, không thể dùng một đường thẳng đi lên để khái quát hóa. Nó giống như trạng thái mà Hứa Hào Ninh đã nói: một yêu cầu khắt khe về bản thân mà cả một thế hệ đang mang trên mình, không cách nào trút bỏ được. Luôn cảm thấy mình thiếu một chút gì đó, luôn không chịu nói với chính mình rằng "tôi đã làm đủ tốt rồi". Lễ hội Cuộc sống Phức tạp đã biến sự bất mãn tập thể này thành một cuộc tụ họp thường niên — một nhóm những người luôn cảm thấy mình thiếu một chút gì đó, cùng nhau xác nhận rằng đối phương thực sự cũng đang thiếu một chút như vậy.
 
-Hoàng Đậu Bùn đem nó lưu trữ ở "2016–2019 vinh dự của tôi". Hứa Hào Ninh ở lại Đài Trung, tiếp tục xem Y Đông, tiếp tục coi cái cửa hàng sách ở lại sau khi ứng cử thất bại. Lần thứ năm năm đó, thế giới đem mọi người kỹ tự chia cách ly, cái lễ hội có tin tưởng ngồi gặp này, ở lại năm tự chia cách ly không có thể gặp nhất này, yên tĩnh vẽ một dấu chấm.
+mashbean đã đóng gói nó lại trong "2016–2019 Vinh dự của tôi". Hứa Hào Ninh ở lại Đài Trung, tiếp tục học Đông y và chăm sóc hiệu sách còn sót lại sau khi không được chọn. Vào năm thứ năm, thế giới nhốt tất cả mọi người vào sự tự cách ly; lễ hội vốn lấy sự tụ họp làm đức tin này đã lặng lẽ khép lại vào chính cái năm mà con người ta không thể tụ họp nhất.
 
-Cái câu chưa có ai trả lời còn ở trên sân khấu: Bạn muốn chết với hối tiếc, hay sống và từ bỏ? Một thế hệ khước từ nói chuyện thành công, nói hết cái câu hỏi này, rồi mỗi người quay trở lại cuộc sống phức tạp của riêng mình, tiếp tục thiếu một chút mà sống.
+Câu hỏi không lời đáp vẫn còn đọng lại trên sân khấu: Bạn muốn chết đi trong nuối tiếc, hay từ bỏ ngay khi đang sống? Một thế hệ từ chối bàn về sự thành công, sau khi đặt ra câu hỏi này, đã ai nấy trở về với cuộc đời phức tạp của riêng mình, tiếp tục sống một cuộc đời luôn cảm thấy thiếu một chút gì đó.
 
 ```tw-timeline
-2016 | Diễn đàn Những Người Chưa Thành Công | Lần đầu, bốn mươi ngày chuẩn bị, hai ba trăm người, Facebook tag "người tham công, cạnh khoa" lớp 8
-2017 | Khách sạn California | Thực sự tổ chức vào khách sạn, chủ đề lấy từ ẩn dụ "vào được, ra không được"
-2018 | Thanh niên Phật giáo | Ba người Đường Phượng, Lưu An Anh, Lâm Y Anh xếp thành tam giác, quay lưng đối thoại
-2019 | ㄇㄉㄈㄎ | Hoàng Đậu Bùn vẽ tay motherfucker kí hiệu chữ cái chuẩn, chỉ lớp vỏ ngoài nghe được lời lẩn thẩn
-2020 | Tự chia cách ly | COVID tới, huỷ tụ tập thực thể làm 47 tập Podcast, "năm không cool nhất" sau thực chất chấm dứt
+2016 | Diễn đàn Người chưa thành công | Kỳ đầu tiên, chuẩn bị trong 40 ngày, khoảng hai đến ba trăm người, là thế hệ Gen Z (8th grade) được gắn thẻ trên Facebook là "kẻ cuồng công việc, học sinh ưu tú"
+2017 | Khách sạn California | Thực sự tổ chức tại khách sạn, chủ đề lấy cảm hứng từ ẩn dụ "vào được nhưng không ra được"
+2018 | Thanh niên Phật hệ | Tam giác giữa Đường Phụng (Tang Feng), Lưu An Đình (Liu An-ting) và Lâm Y Oánh (Lin Yi-ying) đối thoại quay lưng về phía khán giả
+2019 | ㄇㄉㄈㄎ | mashbean vẽ tay chữ "motherfucker" theo chuẩn chú âm, một loại tiếng lóng chỉ những người trong cùng cộng đồng mới hiểu
+2020 | Tự cách ly | COVID-19 ập đến, các sự kiện trực tiếp bị hủy và chuyển sang làm 47 tập Podcast, thực chất kết thúc sau "năm không ngầu nhất"
+Nguồn: Chủ đề và ghi chép hiện trường của các kỳ được trích dẫn trong bài viết (phỏng vấn Hứa Hào Ninh, mashbean và báo cáo các năm) [^3][^10][^13]
 ```
 
-Hai lễ hội "cuộc sống" cách mười năm, là hai thế hệ nói chuyện với "cuộc sống nên trông như thế nào" hai loại trả lời:
+Hai "Lễ hội Cuộc sống" cách nhau mười năm, là hai câu trả lời của hai thế hệ về việc "cuộc sống nên trông như thế nào":
 
 ```tw-versus
 Lễ hội Cuộc sống Đơn giản (2006) | Lễ hội Cuộc sống Phức tạp (2016)
-Lý Tông Tháng, Trương Phối Nhân, Mã Thiên Tông (âm nhạc) | Hứa Hào Ninh, Hoàng Đậu Bùn (sinh viên y tế lớp 8)
-Lần đầu ba mươi vạn người, sau sáu tới mười vạn | Hai ba trăm người, cố ý giữ nhỏ
-Cao độ kinh doanh, tài trợ thương hiệu | Không kinh doanh, tự kinh tế bội số
-"Yên tĩnh và tập trung" | "Sự tăng trưởng", diễn đàn chưa thành công
-Xuyên thế hệ, lấy âm nhạc làm lõi | Cơ thể lớp 8 rõ ràng
-Năm 2025 tổ chức tới hai mươi năm kỷ niệm | Thực chất kết thúc năm 2020
-Nước nguồn: dữ liệu chính thức Lễ hội Cuộc sống Phức tạp Medium, dữ liệu năm năm Lễ hội Cuộc sống Đơn giản
+Lý Tông Thịnh (Lee宗盛), Trương Bồi Nhân (Chang Pei-jen), Mã Thiên Tông (Ma Tien-tsung) (Ngành âm nhạc) | Hứa Hào Ninh, mashbean (Sinh viên y khoa thế hệ Gen Z)
+Kỳ đầu 30.000 người, sau đó từ 60.000 đến 100.000 | Hai đến ba trăm người, cố ý duy trì quy mô nhỏ
+Tính thương mại hóa cao, có tài trợ thương hiệu | Phi thương mại, tự huy động vé
+"Bình lặng và tập trung" | "Trưởng thành", Diễn đàn Người chưa thành công
+Xuyên thế hệ, lấy âm nhạc làm cốt lõi | Chủ thể rõ rệt là thế hệ Gen Z
+Đến năm 2025 sẽ kỷ niệm 20 năm | Thực chất kết thúc vào năm 2020
+Nguồn dữ liệu: Medium chính thức của Lễ hội Cuộc sống Phức tạp, dữ liệu các năm của Lễ hội Cuộc sống Đơn giản
 ```
 
-**Đọc mở rộng**:
+**Đọc thêm**:
 
-- [Trào lưu Hướng Dương](/vi/society/sunflower-movement) — Bối cảnh thời đại của Lễ hội Cuộc sống Phức tạp: năm 2014 trào lưu đó khi nào tán trường, phân chia thành Đảng thời đại lực lượng, g0v, Trường Tạp học và mấy cửa hàng cửa hàng thanh niên Lễ hội Cuộc sống Phức tạp
-- [Trường Tạp học](/vi/society/za-share) — Năng lượng khác 318 sau cái, đi con đường ngược lại: tăng thành lễ hội giáo dục lớn nhất toàn châu Á, và Lễ hội Cuộc sống Phức tạp "cố ý giữ nhỏ" là phép đối chiếu của quy mô với lớp
-- [Thế hệ Xiêu luyên của Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Nền tảng cấu trúc của những người tham gia tự gọi "người tham công": mức lương trung vị và áp lực sống, làm cách nào buộc thế hệ này thành một người nhiều việc
-- FAB DAO và Kế hoạch Trăm Nước (FAB DAO與百岳計畫) — Hoàng Đậu Bùn bỏ y sau đi đâu: dự án tác phẩm tiếp theo của "tích hợp tinh thần mật mã hacker vào xã hội số Đài Loan"
+- [Phong trào Hoa Hướng Dương](/vi/society/sunflower-movement) — Bối cảnh thời đại của Lễ hội Cuộc sống Phức tạp: Sau khi cuộc vận động năm 2014 tan rã trên đường phố, nó đã phân tách thành các lối thoát thanh niên như Sức mạnh Thời đại (New Power Party), g0v, Trường học Tạp kỹ và Lễ hội Cuộc sống Phức tạp.
+- [Trường học Tạp kỹ](/vi/society/za-share) — Một nguồn năng lượng khác biệt sau làn sóng 318, nhưng đi theo con đường ngược lại: Phát triển thành lễ hội giáo dục lớn nhất châu Á, tạo nên sự đối lập về quy mô (scale) và sự thân mật (intimacy) với việc "cố ý duy trì quy mô nhỏ" của Lễ hội Cuộc sống Phức tạp.
+- [Thế hệ Slash tại Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Bối cảnh cấu trúc khiến những người tham gia Lễ hội Cuộc sống Phức tạp tự nhận là "kẻ cuồng công việc": Mức lương trung vị và áp lực sinh tồn đã ép thế hệ này phải đảm đương nhiều vai trò cùng lúc.
+- [FAB DAO và Dự án Bách Nhạc](/art/FAB DAO與百岳計畫) — mashbean đã đi đâu sau khi từ bỏ ngành y: Tác phẩm tiếp theo mang tinh thần "Cryptopunk hòa quyện vào xã hội số Đài Loan".
 
 ## Hình ảnh
 
