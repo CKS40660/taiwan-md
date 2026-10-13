@@ -2,9 +2,7 @@
 title: 'L’épée Yitian du fleuve Daan : l’arbre le plus haut d’Asie de l’Est, caché depuis sept cents ans dans un lieu que nous ne pouvions atteindre'
 description: 'Au Nouvel An lunaire 2023, l’équipe des « chercheurs d’arbres » a remonté des torrents pendant sept jours jusqu’à une gorge profonde, presque inaccessible, près de la source du fleuve Daan. Là, elle a fait descendre un ruban à mesurer depuis la cime d’un Taïwania : 84,1 mètres, l’arbre le plus haut d’Asie de l’Est. Il dépassait de 4,6 mètres la prédiction du LiDAR laser. Une île frappée chaque année par les typhons, sujette aux glissements de terrain et aux crues, ne devrait en principe pas conserver une forme de vie d’une telle hauteur ; pourtant, c’est précisément parce qu’il poussait dans une vallée inaccessible aux humains qu’il a échappé aux grandes coupes et tenu sept siècles. Ce même « impossible à atteindre » lui a permis de survivre, et nous a contraints à balayer toute l’île au laser pour l’apercevoir pour la première fois cette année-là.'
 date: 2026-06-24
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '植物'
 tags:
   [
     'Taïwania',
@@ -18,17 +16,21 @@ tags:
     'LiDAR',
     'chaîne de Hsuehshan',
   ]
-readingTime: 15
+subcategory: '植物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-24
 lastHumanReview: false
-featured: false
-translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d645338641d89664'
-sourceBodyHash: 'sha256:5dcfd938f21ea513'
-translatedAt: '2026-06-25T00:43:06+08:00'
+researchReport: 'reports/research/2026-06/大安溪倚天劍.md'
 image: '/article-images/nature/taiwania-nantou-shihchuan.webp'
 imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
+readingTime: 15
+relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
+translatedFrom: 'Nature/大安溪倚天劍.md'
+sourceCommitSha: 'a8f7c4e08'
+sourceContentHash: 'sha256:e26a95dae7cf552e'
+sourceBodyHash: 'sha256:b680f8b344c7bf2d'
+translatedAt: '2026-10-13T01:13:53.505866+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :** Taïwan possède un arbre de 84,1 mètres de haut, soit environ 28 étages : c’est l’arbre le plus haut actuellement connu en Asie de l’Est[^1]. On l’appelle « l’épée Yitian du fleuve Daan » ; c’est un Taïwania (_Taiwania cryptomerioides_), qui pousse dans une gorge profonde près de la source du fleuve Daan, à environ 1 650 mètres d’altitude, et dont l’âge est estimé à sept ou huit cents ans[^2]. Au Nouvel An lunaire 2023, l’équipe des « chercheurs d’arbres » a remonté les cours d’eau pendant sept jours, par des nuits tombant à -2 °C, avant de grimper jusqu’à sa cime et d’en faire descendre un ruban à mesurer pour obtenir ce chiffre[^3]. Le plus contre-intuitif est ceci : sur une île balayée chaque année par les typhons, à la géologie fragile, où les versants s’effondrent et les crues montent, une telle hauteur ne devrait en principe pas exister. S’il a pu atteindre 84 mètres et vivre plus de sept siècles, c’est précisément parce qu’il se cachait dans une vallée presque inaccessible aux humains. Ce même « impossible à atteindre » lui a permis d’échapper aux grandes coupes de l’époque japonaise et de l’après-guerre, et nous a obligés à passer près de dix ans à balayer l’île entière au laser avant de le voir pour la première fois cette année-là[^4].
@@ -73,61 +75,63 @@ _Rameaux et port droit du Taïwania : un tronc rectiligne, un cœur non creux, u
 
 Alors pourquoi le plus haut des Taïwanias a-t-il survécu ? La réponse ne se trouve pas dans l’arbre lui-même, mais dans l’endroit où il se tient.
 
-## Se cacher, c’est survivre
+## L'isolement comme moyen de survie
 
-L’épée Yitian pousse près de la source du fleuve Daan, dans une gorge profonde située à environ 1 650 mètres d’altitude[^13]. Pour y parvenir, il faut remonter le fleuve Daan sur près de 20 kilomètres, traverser des eaux puissantes, franchir des falaises abruptes où les chutes de pierres et les effondrements sont fréquents, monter près de mille mètres puis redescendre plus de mille mètres : un itinéraire que même des montagnards expérimentés ne sont pas sûrs de pouvoir accomplir[^14]. La chercheuse Hsu Chia-chun décrit ainsi les lieux où se trouvent ces arbres géants : « Ces arbres géants se trouvent dans des environnements que même des montagnards chevronnés ont beaucoup de mal à atteindre. »[^15]
+L'épée Yitian pousse dans une gorge profonde à la source de la rivière Da'an, à environ 1 650 mètres d'altitude[^13]. Pour s'y rendre, il faut remonter la rivière Da'an sur environ 20 kilomètres, traverser des courants impétueux et escalader des falaises escarpées sujettes aux chutes de pierres, en grimpant près de mille mètres avant de redescendre de plus de mille mètres — un parcours que même les alpinistes chevronnés ne pourraient pas forcément accomplir[^14]. La chercheuse Hsu Chia-chun décrit l'habitat de ces arbres géants : « Ces arbres géants se trouvent dans des environnements difficiles d'accès, même pour les alpinistes expérimentés. »[^15]
 
-C’est précisément cet « impossible à atteindre » qui est devenu son talisman de survie.
+C'est précisément cet aspect « inaccessible » qui est devenu son talisman de survie.
 
-De la période japonaise à l’après-guerre, Taïwan a connu vague après vague de coupes massives ; les cyprès et Taïwanias d’Alishan, de Taipingshan et de Pahsien-shan étaient descendus par pans entiers de montagne. Mais les machines forestières ont leurs limites : elles coupent là où les routes peuvent être ouvertes et où le bois peut être transporté. La gorge aux parois abruptes près de la source du fleuve Daan était totalement hors de portée des câbles de débardage et des camions ; cet arbre géant de 84 mètres est donc resté là. Il s’est caché assez profondément pour survivre.
+De l'époque coloniale japonaise à l'après-guerre, Taïwan a traversé des cycles successifs de déforestation massive ; les cyprès et les _Taiwania cryptomerioides_ (Taiwanias) d'Alishan, de Taipingshan et de Baxianshan ont été descendus des montagnes par pans entiers. Cependant, les machines forestières ont leurs limites : elles ne coupent que là où les routes permettent l'accès et le transport du bois. Dans la gorge abrupte à la source de la rivière Da'an, ni les câbles de transport ni les camions ne pouvaient parvenir ; ainsi, ce géant de 84 mètres a été épargné. Il s'est caché assez profondément pour survivre.
 
-Hsu Chia-chun formule cette logique avec précision : « L’emplacement de l’épée Yitian présente des caractéristiques semblables à celles des arbres géants découverts jusqu’ici : il se situe dans une forêt primaire non exploitée et dans une vallée qui peut éviter les typhons. »[^16] Cette phrase explique à la fois la hauteur et la longévité. La topographie de la vallée l’a protégé de l’assaut frontal des typhons, de sorte qu’il n’a pas été brisé par le vent comme les grands arbres des crêtes ; la forêt primaire jamais exploitée lui a donné la possibilité d’accumuler le temps sous forme de hauteur.
+Hsu Chia-chun explique cette logique avec précision : « L'emplacement de l'épée Yitian présente des caractéristiques similaires à celles des arbres géants découverts par le passé : il se situe au sein d'une forêt primaire non exploitée et dans une vallée capable de protéger des typhons. »[^16] Cette phrase résout simultanément deux questions : la hauteur et la longévité. La topographie de la vallée lui a permis d'échapper aux assauts directs des typhons, évitant qu'il ne soit brisé par le vent comme le seraient les arbres situés sur les crêtes ; quant à la forêt primaire intacte, elle lui a donné la chance de transformer le temps en hauteur.
 
-![Forêt de nuages du parc national de Shei-Pa](/article-images/nature/shei-pa-cloud-forest.webp)
-_La zone de forêt de nuages du parc national de Shei-Pa : des brouillards d’après-midi et un environnement très humide, avec environ 3 000 millimètres de pluie par an, sont essentiels pour permettre au Taïwania d’acheminer l’eau jusqu’à une cime située à 80 mètres. Photo : Wikimedia Commons, CC BY-SA 4.0_
+![Forêt de la zone de brouillard du parc national Yushan](/article-images/nature/shei-pa-cloud-forest.webp)
+_La zone de brouillard du parc national Yushan : un environnement très humide avec des brouillards l'après-midi et une pluviométrie annuelle d'environ 3 000 mm, ce qui est crucial pour permettre au Taiwania de transporter l'eau jusqu'à son sommet à 80 mètres. Photo : Wikimedia Commons, CC BY-SA 4.0_
 
-Scientifiquement, la hauteur exceptionnelle du Taïwania repose sur la superposition de trois facteurs. Le premier est la forte humidité de la forêt de nuages : le Taïwania pousse naturellement entre 1 500 et 2 400 mètres d’altitude, dans une zone nuageuse recevant environ 3 000 millimètres de pluie par an[^17] ; les brouillards d’après-midi et l’absorption directe de l’eau de brume par les feuilles aident à résoudre le problème de pression posé par l’acheminement d’une colonne d’eau depuis les racines jusqu’à une cime de 80 mètres. Le deuxième est l’avantage pionnier offert par les vallées protégées des typhons et les zones d’éboulement : les graines du Taïwania sont fines et peuvent être dispersées loin par le vent ; ses plantules s’installent souvent sur les glissements de terrain et les troncs renversés des vallées. Espèce pionnière héliophile, elle s’élance rapidement dès qu’un éboulement ouvre une trouée et laisse entrer la lumière[^18]. Le troisième facteur, c’est que se cacher, c’est survivre : l’inaccessibilité du relief lui a permis d’échapper aux scies humaines.
+Scientifiquement, si le Taiwania peut atteindre une telle hauteur, c'est grâce à la convergence de trois facteurs. Le premier est l'humidité élevée de la zone de brouillard : les Taiwanias se répartissent naturellement dans une bande nuageuse située entre 1 500 et 2 400 mètres d'altitude avec une pluviométrie annuelle d'environ 3 000 mm[^17]. Les brouillards de l'après-midi permettent aux feuilles d'absorber directement l'eau, résolvant ainsi le problème de la pression colossale nécessaire pour acheminer l'eau des racines jusqu'au sommet de l'arbre à 80 mètres. Le deuxième facteur est la protection contre les typhons offerte par la topographie de la vallée, combinée à l'avantage pionnier sur les terrains instables : les graines de Taiwania sont fines et peuvent être dispersées par le vent sur de longues distances ; les jeunes pousses s'installent souvent sur les zones d'éboulement ou les arbres morts dans les vallées. Étant une espèce pionnière héliophile (aimant la lumière), dès qu'un éboulement ouvre une trouée dans la canopée et que la lumière pénètre, elle s'élance rapidement vers le haut[^18]. Le troisième facteur est l'isolement comme moyen de survie : l'inaccessibilité du terrain lui a permis d'échapper aux scies des hommes.
 
-Le cyprès rouge a échappé aux coupes grâce à son cœur creux ; le Taïwania y a échappé grâce aux falaises. Les deux types d’arbres géants les plus anciens de cette île ont traversé la même époque forestière en se dissimulant de deux manières entièrement différentes.
+Si le cyprès rouge (_Chamaecyparis formosensis_) a échappé à la coupe grâce à son tronc creux, le Taiwania a échappé à la coupe grâce aux parois rocheuses — les deux plus anciens types de géants de cette île ont survécu à la même ère de déforestation par deux méthodes totalement différentes.
 
 ```tw-stat
-84,1 mètres | Hauteur de l’épée Yitian | Environ 28 étages, l’arbre le plus haut d’Asie de l’Est
-Environ 8,5 mètres | Circonférence | Il faut plusieurs personnes pour l’entourer
-Âge estimé : 700–800 ans | Âge de l’arbre | Estimé à partir de la circonférence, sans datation par carottage
-941 arbres | Arbres géants de plus de 65 mètres localisés à Taïwan | Fin 2022
+84,1 m | Hauteur de l'épée Yitian | Environ 28 étages, le plus haut arbre d'Asie de l'Est
+Environ 8,5 m | Circonférence | Nécessite plusieurs personnes pour en faire le tour
+Est. 700–800 ans | Âge estimé | Estimé par la circonférence, sans datation par carottage
+941 arbres | Géants de >65 m localisés à Taïwan | Jusqu'à fin 2022
+Source : Mesures de l'équipe « Les chercheurs d'arbres » (hauteur 84,1 m, circonférence env. 8,5 m) et estimations d'âge citées dans cet article, données de localisation des géants à Taïwan[^1][^6][^19][^20]
 ```
 
-À propos de ces sept cents ans, un chiffre doit être explicité. L’épée Yitian est « estimée à environ 700 à 800 ans » : ce chiffre est déduit d’une circonférence d’environ 8,5 mètres et du rythme de croissance du Taïwania, sans qu’un carottage des cernes ait réellement été effectué[^19]. Certains reportages internationaux de 2026 l’ont même présenté comme « presque millénaire »[^20] ; ce chiffre plus élevé pourrait venir d’une autre méthode d’estimation. L’estimation par circonférence comporte des incertitudes : l’arbre sacré Shuishan d’Alishan avait été estimé à 2 700 ans, avant que le Service forestier ne révise son âge à 1 081 ans après carottage, soit une erreur de plus de 1 600 ans[^21]. Pour l’épée Yitian, la formulation la plus responsable est donc la suivante : son âge est estimé à sept ou huit cents ans, et il pourrait être plus ancien, mais tant que personne n’aura véritablement daté ses cernes, ce chiffre demeure accompagné d’un point d’interrogation.
+Concernant ces sept cents ans, un chiffre doit être nuancé. L'épée Yitian est « estimée entre 700 et 800 ans » — ce chiffre est calculé à partir d'une circonférence d'environ 8,5 mètres combinée au taux de croissance du Taiwania, sans avoir réellement pratiqué de datation par carottage des cernes[^19]. Certains rapports internationaux de 2026 affirment même qu'il a « près de mille ans »[^20], un chiffre plus ancien qui pourrait provenir d'une autre méthode d'estimation. L'estimation de l'âge par la circonférence comporte une part d'incertitude : le géant Shuishan à Alishan avait été estimé à 2 700 ans avant que le Bureau des forêts ne corrige son âge à 1 081 ans après un carottage, soit une erreur de plus de 1 600 ans[^21]. Par conséquent, pour l'épée Yitian, l'approche la plus responsable est la suivante : on estime son âge entre sept et huit cents ans, mais il pourrait être plus vieux encore ; tant qu'on n'aura pas réellement carotté ses cernes, ce chiffre restera assorti d'un point d'interrogation.
 
-## Les chercheurs d’arbres, et ces yeux qui ont cherché toute une vie
+## Les chercheurs d'arbres et ce regard qui a passé une vie à chercher
 
-L’épée Yitian a été « trouvée ». Et l’histoire de cette recherche commence par un après-midi de chaussures abîmées.
+L'Épée d'Yitian (倚天劍, _Yitianjian_) a été « trouvée ». Et l'histoire de sa découverte commence par un après-midi où une chaussure s'est cassée.
 
-En 1994, Hsu Chia-chun entreprend pour la première fois la traversée de Nenggao. Le quatrième jour, ses chaussures sont déjà endommagées ; épuisée, elle s’appuie près du barrage de Chilai pour se reposer, quand son regard est attiré par un arbre géant dans la vallée d’en face : un Taïwania. En contemplant sa grande silhouette, elle dira avoir été saisie d’admiration et avoir soudain retrouvé la force de continuer[^22]. Elle ne savait pas encore que cette image allait la tirer en avant pour le reste de sa vie.
+En 1994, Hsu Chia-chun a parcouru pour la première fois la crête de Nenggao. Le quatrième jour, ses chaussures étaient hors d'usage ; épuisée, elle se reposait au bord du barrage de Qilai quand son regard fut captivé par un géant dans la vallée d'en face — un _Taiwania cryptomerioides_ (cèdre de Taïwan). En contemplant la silhouette imposante de cet arbre, elle raconte qu'au-delà de l'émotion, elle a soudainement retrouvé la force de continuer sa route[^22]. À ce moment-là, elle ignorait encore que cette image allait guider le reste de sa vie.
 
-Cet arbre était en réalité un autre arbre. L’épée Yitian se trouve près de la source du fleuve Daan, ailleurs, et c’est un autre Taïwania. Mais celui aperçu en 1994, face au barrage de Chilai, fut le point de départ de l’acte de « voir ». Hsu Chia-chun a ensuite étudié la botanique à l’Université nationale de Taïwan, obtenu un doctorat à Amsterdam, puis rejoint l’Institut de recherche forestière pour étudier les plantes épiphytes de la canopée ; elle est devenue de ces personnes qui passent leur vie à travailler avec les arbres des hauteurs[^23].
+Cet arbre n'était pourtant pas celui qu'elle croyait. L'Épée d'Yitian se trouve à la source de la rivière Da'an, et il s'agit d'un autre lieu, d'un autre cèdre de Taïwan. Mais l'arbre face au barrage de Qilai en 1994 fut le point de départ de cette capacité à « voir ». Hsu Chia-chun a ensuite étudié la botanique à l'Université nationale de Taïwan, a obtenu un doctorat à Amsterdam et a rejoint l'Institut de recherche forestière pour étudier les plantes épiphytes de la canopée, devenant ainsi une personne dont la vie entière consiste à interagir avec les hauteurs des arbres[^23].
 
-La recherche systématique du « plus haut arbre de Taïwan » commence vraiment en 2014. Cette année-là, l’équipe de Hsu Chia-chun visite les « trois sœurs » Taïwanias de la réserve de Chilan et s’engage officiellement dans la quête des arbres géants[^24]. À partir de 2014, elle localise, escalade et mesure au ruban 22 arbres géants de plus de 40 mètres[^8]. Mais chercher arbre par arbre, à pied, était trop lent. L’île est trop vaste, les gorges trop nombreuses. Hsu Chia-chun l’a dit elle-même : « Beaucoup d’arbres se trouvent dans des lieux inhabités ; rien que pour débroussailler et ouvrir le chemin soi-même, il faut plus de dix jours. »[^25]
+La véritable quête systématique du « plus haut arbre de Taïwan » a débuté en 2014. Cette année-là, l'équipe de Hsu Chia-chun a visité les « Trois Sœurs », trois cèdres de Taïwan dans la zone de conservation de Qilan, marquant le début officiel de leur périple à la recherche des géants[^24]. Depuis 2014, ils ont localisé, escaladé et mesuré au ruban métrique 22 arbres dépassant les 40 mètres[^8]. Mais chercher un par un à pied était trop lent. L'île est trop vaste et les vallées trop profondes ; comme le dit elle-même : « Beaucoup d'arbres se trouvent dans des endroits inhabités, et il faut parfois plus de dix jours rien que pour couper l'herbe et ouvrir un chemin. »[^25]
 
-Le tournant est venu d’un ensemble de données laser. Dans les années 2010, après le typhon Morakot, le ministère de l’Intérieur a progressivement acquis des balayages LiDAR aéroportés couvrant Taïwan ; à partir de 2016, l’équipe de Wang Chi-kuei, au département de géomatique de l’Université nationale Cheng Kung, a lancé une deuxième grande campagne de balayage[^26]. En 2019, Hsu Chia-chun et Wang Chi-kuei ont officiellement constitué le « projet de cartographie des arbres géants des chercheurs d’arbres », transformant les nuages de points laser en cartes de zones chaudes d’arbres géants pouvant être interprétées systématiquement[^27].
+Le tournant est venu de données laser. Dans les années 2010, suite au typhon Morakot, le ministère de l'Intérieur a progressivement obtenu des scans LiDAR (détection par laser) de l'ensemble de Taïwan ; à partir de 2016, l'équipe de Wang Chi-kuei, du département de topographie et d'information spatiale de l'Université nationale de succès, a lancé une seconde campagne de balayage à grande échelle[^26]. En 2019, Hsu Chia-chun et Wang Chi-kuei ont officiellement formé le « Projet de cartographie des arbres géants — Les chercheurs d'arbres », transformant les nuages de points laser en cartes de zones d'intérêt pour les arbres géants exploitables par analyse systématique[^27].
 
 ```tw-timeline
-1994 | L’après-midi des chaussures abîmées | Hsu Chia-chun traverse Nenggao ; un Taïwania dans la vallée face au barrage de Chilai devient le point de départ du « voir »
-2014 | Début de la quête du plus haut arbre | Visite des trois sœurs de Chilan ; depuis, 22 arbres géants de plus de 40 mètres sont escaladés et mesurés
-2016 | Lancement du second balayage | L’équipe de Wang Chi-kuei à Cheng Kung rebalaie les forêts taïwanaises par LiDAR aéroporté
-2019 | Formation des chercheurs d’arbres | Hsu Chia-chun × Wang Chi-kuei fondent officiellement le projet de cartographie des arbres géants, sur deux axes : laser et science participative
-2020 | Interprétation collective | Des centaines de citoyens interprètent en ligne plus de 50 000 profils LiDAR et éliminent des dizaines de milliers de faux positifs de l’algorithme
-2022 | Une carte insulaire des arbres géants | 941 arbres de plus de 65 mètres sont localisés à Taïwan
-2023 | L’épée Yitian sort du fourreau | Sept jours de remontée de torrents au Nouvel An confirment que 55214 mesure 84,1 mètres : l’arbre le plus haut d’Asie de l’Est
-2026 | Publication internationale | Le processus de mesure paraît dans Frontiers ; CNN et Mongabay en rendent compte simultanément
+1994 | L'après-midi de la chaussure cassée | Hsu Chia-chun sur la crête de Nenggao ; un cèdre de Taïwan dans la vallée face au barrage de Qilai devient le point de départ du « voir ».
+2014 | Début de la quête des plus hauts arbres | Visite des « Trois Sœurs » à Qilan ; depuis, 22 géants de >40 m ont été escaladés et mesurés.
+2016 | Lancement du second balayage | L'équipe de Wang Chi-kuei (NCKU) scanne à nouveau les forêts de Taïwan par LiDAR aéroporté.
+2019 | Formation des chercheurs d'arbres | Hsu Chia-chun × Wang Chi-kuei créent le projet de cartographie : combo laser + science citoyenne.
+2020 | Analyse participative | Des centaines de citoyens analysent en ligne plus de 50 000 profils LiDAR, éliminant des dizaines de milliers d'erreurs algorithmiques.
+2022 | Une carte des géants de l'île | Localisation de 941 arbres dépassant les 65 mètres sur tout le territoire.
+2023 | L'Épée d'Yitian sort du fourreau | Après 7 jours de remontée de rivière pendant le Nouvel An lunaire, confirmation du n° 55214 = 84,1 m, le plus haut d'Asie de l'Est.
+2026 | Publication internationale | Le processus de mesure est publié dans Frontiers ; reportages simultanés de CNN et Mongabay.
+Source : Projet de cartographie des arbres géants et entretiens avec Hsu Chia-chun, ainsi que les registres LiDAR du ministère de l'Intérieur et les scans de l'équipe de Wang Chi-kuei (NCKU)[^8][^22][^24][^25][^26][^27]
 ```
 
-Le laser seul ne suffisait pas. Parmi les points candidats présélectionnés par l’algorithme, le taux d’erreur était absurdement élevé : plus de 90 % des « grands arbres » signalés par la machine étaient en réalité des erreurs de calcul[^28]. En 2020, le projet a donc fait quelque chose de très taïwanais : il a placé plus de 50 000 profils LiDAR sur une plateforme de science participative, afin que des centaines de personnes puissent les examiner en ligne et que les yeux de la foule éliminent, un par un, les dizaines de milliers de faux positifs produits par l’algorithme[^28]. Pour encourager la participation, la plateforme avait même conçu des badges de progression ; la personne découvrant le plus haut arbre pouvait obtenir le droit de le nommer[^29].
+Le laser seul ne suffisait pas. Parmi les candidats présélectionnés par l'algorithme, le taux d'erreur était aberrant : plus de 90 % des « arbres hauts » marqués par la machine étaient en réalité des erreurs de calcul[^28]. Alors, en 2020, le projet a entrepris une initiative très taïwanaise : mettre plus de 50 000 profils LiDAR sur une plateforme de science citoyenne, permettant à des centaines de particuliers de les analyser en ligne, utilisant l'œil de la foule pour écarter, image par image, les dizaines de milliers d'erreurs de l'algorithme[^28]. Pour encourager la participation, la plateforme a conçu un système de badges de progression ; celui qui trouverait l'arbre le plus haut pourrait même obtenir le droit de le nommer[^29].
 
-Le laser a balayé l’île entière, les yeux des citoyens ont filtré les images une à une, puis des humains sont montés dans les arbres pour confirmer au ruban. L’épée Yitian est le chiffre final recraché par toute cette chaîne technique. À la fin 2022, la « carte des arbres géants de Taïwan » indiquait déjà 941 arbres dépassant 65 mètres[^30]. Le numéro 55214 était l’une de ces coordonnées.
+Le laser balaie l'île entière, les yeux des citoyens filtrent chaque image, puis l'humain escalade la cime pour confirmer la mesure au ruban métrique. L'Épée d'Yitian est le chiffre final issu de toute cette chaîne technologique. Fin 2022, la « Carte des arbres géants de Taïwan » répertoriait déjà 941 spécimens dépassant les 65 mètres[^30]. Le numéro 55214 est l'un de ces points de coordonnées.
 
-> **📝 Note de curation**
-> « Trouver l’arbre le plus haut de l’île » ne demande pas seulement un arbre exceptionnel. Il faut un avion qui balaie toute l’île, un algorithme laser, plusieurs centaines d’inconnus qui interprètent des profils devant leur ordinateur, quelques membres autochtones capables d’ouvrir la route, un groupe de scientifiques prêts à remonter des torrents pendant sept jours pour grimper à un arbre, et enfin un ruban à mesurer. L’épée Yitian n’a été « vue » qu’en 2023 ; mais ce « voir » est le processus par lequel une île, en dix ans, a réappris collectivement à se connaître.
+> **📝 Note du commissaire**
+> « Trouver l'arbre le plus haut de l'île » ne nécessite pas seulement un arbre extraordinaire. Cela demande un avion ayant survolé toute l'île, un algorithme laser, des centaines d'inconnus devant leurs écrans pour analyser des profils, quelques membres de communautés autochtones pour guider les équipes, un groupe de scientifiques prêts à remonter des rivières pendant sept jours pour grimper aux arbres, et enfin, un simple ruban métrique. L'Épée d'Yitian n'a été « vue » qu'en 2023 — mais ce « voir » est le processus par lequel une île a passé dix ans à se redécouvrir collectivement.
 
 ## Les sept jours de la sortie du fourreau
 

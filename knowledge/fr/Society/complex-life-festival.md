@@ -31,10 +31,10 @@ rationale:
   whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
 relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a6'
-sourceContentHash: 'sha256:288b132714804aff'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-07-27T05:46:59+08:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:a80f1c8939a4c258'
+sourceBodyHash: 'sha256:94ee6147a8f08b1e'
+translatedAt: '2026-10-13T00:57:21.760039+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le Festival de la vie complexe (Complex Life Festival) a organisé cinq éditions à Taichung entre 2016 et 2020. Ses initiateurs sont deux camarades de l'Université de médecine et de pharmacie de Chine, destinés à devenir médecins : Hsiao Hao-ning (médecine traditionnelle chinoise) et Huang Yen-lin (alias Huang Dou-ni, médecine occidentale). Le nom joue subtilement à l'envers de celui du « Festival de la vie simple » porté par la génération de Li Zong-sheng, positionnant les participants comme des « non-réussis », réunissant deux à trois cents personnes par édition, avec pour seul thème autorisé la « croissance » et l'interdiction de parler de « réussite »[^1]. Cinq ans plus tard, l'organisateur principal Hsiao Hao-ning reste à Taichung comme médecin en MTC, ouvre une librairie et perd une élection municipale ; son assistant visuel Huang Dou-ni quitte la médecine pour la cryptomonnaie et devient en 2025 chercheur invité à l'Harvard Kennedy School[^2]. Une organisation qui refusait la « réussite » a vu ses organisateurs et ses participants sombrer chacun dans une forme de réussite, tandis que sa question la plus acérée reste celle que Hsiao Hao-ning posait sur scène : « Voulez-vous mourir avec des regrets ou renoncer en vivant ? »[^3]
@@ -237,49 +237,50 @@ Comment comprendre ce qu'a laissé ce rassemblement de cinq ans, fréquenté par
 
 Il est intéressant de noter que ces quatre sorties se sont croisées à nouveau lors de la troisième édition du Festival de la vie complexe : Audrey Tang était la représentante de la ligne g0v entrant dans le gouvernement central, Hsiao Hao-ning s'était présenté au nom de la Force Times, Liu An-ting était la ligne de l'éducation alternative — l'énergie dispersée après le 318 s'est retrouvée, après quatre ans de détour, assise ensemble dans ce triangle dos à l'audience. L'influence du Festival de la vie complexe ne résidait pas dans l'échelle, mais dans l'instant de « reconnaissance des similaires » et dans le fait qu'il avait cousu silencieusement ces lignes de jeunesse apparemment distinctes dans la même pièce.
 
-## Fin : vous n'êtes jamais qu'à un cheveu du but
+## Conclusion : Il vous manquera toujours ce petit quelque chose
 
-La phrase la plus tranchante du Festival de la vie complexe est celle que Hsiao Hao-ning a dite sur scène lors de la troisième édition.
+La phrase la plus percutante du Festival de la vie complexe a été prononcée par Hsiao Hao-ning sur scène lors de la troisième édition.
 
-Il a d'abord admis un fait humiliant : « Le Festival de la vie complexe est l'événement le plus détesté que j'ai organisé ; chaque année, je vérifie si ma foi est vraie ou fausse. Cette année, les personnes venues ne voudront-elles pas venir l'année prochaine ? »[^3] Un rituel organisé pour réchauffer les autres, l'organisateur se demande chaque année s'il tiendra debout. Une personne créant un foyer pour les autres se tient à la porte, craignant chaque année que personne ne revienne.
+Il a d'abord admis une vérité embarrassante : « Le Festival de la vie complexe est l'événement que j'ai le plus détesté organiser ; chaque année, je vérifie si mes convictions sont réelles ou non. Est-ce que les gens qui viennent cette année ne voudront plus revenir l'année prochaine ? » [^3] Un festival organisé pour offrir un refuge aux autres, dont l'organisateur principal doute chaque année de la pérennité de l'existence même. Quelqu'un qui construit des foyers pour autrui, mais qui se tient à la porte, craignant chaque année que personne ne rentre.
 
-Puis il a raconté un passage, dévoilant tout ce qui se cache derrière les quatre mots « non-réussi » :
+Puis, il a tenu un discours qui a mis à nu tout ce qui se cache derrière les quatre mots « ceux qui n'ont pas réussi » :
 
-« Combien de temps devons-nous passer à nous répéter à nous-mêmes que nous ne sommes pas assez forts, que nous ne sommes pas assez bien, donc nous devons continuer à avancer ? Jusqu'à quand devrons-nous tenir pour nous pardonner en disant que nous sommes assez bien... parce que vous ne vous aimerez jamais, vous n'êtes jamais qu'à un cheveu du but. Voulez-vous mourir avec des regrets ou renoncer en vivant ? »[^3]
+« Combien d'années devrons-nous passer à nous répéter que nous ne sommes pas assez forts, que nous ne sommes pas assez bons, pour continuer à avancer ? Jusqu'à quand devrons-nous tenir avant de pouvoir se pardonner et se dire : "Je suis assez bien"... Car vous ne vous aimerez jamais vraiment, il vous manquera toujours ce petit quelque chose. Mourrez-vous de regrets, ou abandonnerez-vous en étant vivant ? » [^3]
 
-Ce passage résout le mystère initial. Qu'est-ce que le « non-réussi » ? Ce n'est pas un mot d'humilité, Huang Dou-ni est allé à Harvard, le mot d'humilité a été réalisé par la réalité. Ce n'est pas non plus entièrement une prophétie, la « réussite » de ce groupe par la suite est trop disparate pour être résumée par une ligne ascendante. C'est plus l'état décrit par Hsiao Hao-ning : une exigence de soi portée par une génération, impossible à retirer. Toujours penser être à un cheveu du but, toujours refuser de se dire à soi-même « je suis assez bien ». Le Festival de la vie complexe a transformé cette insatisfaction collective en un rassemblement annuel — un groupe d'individus à un cheveu du but se confirmant mutuellement qu'ils sont bien tous à un cheveu du but.
+Ces paroles ont résolu l'énigme initiale. Que signifie réellement « ne pas avoir réussi » ? Ce n'est pas une formule d'humilité ; Huang Dou-ni est bel et bien allée à Harvard, la modestie feinte ayant été depuis longtemps balayée par la réalité. Ce n'est pas non plus une prophétie, car le « succès » ultérieur de ce groupe est trop disparate pour être résumé par une courbe ascendante. C'est plutôt l'état décrit par Hsiao Hao-ning : une exigence envers soi-même que toute une génération porte sur ses épaules et dont elle ne peut se défaire. Ce sentiment permanent d'être « juste un peu en dessous », ce refus de se dire « je suis assez bien ». Le Festival de la vie complexe a transformé cette insatisfaction collective en un rendez-vous annuel — un rassemblement de personnes qui manquent toujours de ce petit quelque chose, venant confirmer mutuellement qu'elles sont effectivement un peu en retrait.
 
-Huang Dou-ni l'a scellé dans « 2016–2019, mon honneur ». Hsiao Hao-ning est resté à Taichung, continuant à pratiquer la MTC, continuant à s'occuper de la librairie laissée après la défaite électorale. Cette année-là de la cinquième édition, le monde a enfermé tout le monde dans l'isolement autonome ; ce rituel ayant pour foi le rassemblement a posé silencieusement un point final dans l'année où le rassemblement était le plus impossible.
+Huang Dou-ni a scellé cela dans « 2016–2019 Mon honneur ». Hsiao Hao-ning est resté à Taichung, continuant sa pratique de la médecine traditionnelle chinoise et gérant la librairie qui lui était restée après son échec. L'année de la cinquième édition, le monde a enfermé tout le monde en isolement sanitaire ; ce festival dont la foi reposait sur le rassemblement s'est ainsi conclu silencieusement lors de l'année où se rassembler était le plus impossible.
 
-La question sans réponse reste sur scène : voulez-vous mourir avec des regrets ou renoncer en vivant ? Une génération refusant de parler de réussite a posé cette question, puis est retournée chacun dans sa vie complexe, continuant à vivre à un cheveu du but.
+La question restée sans réponse demeure sur scène : mourrez-vous de regrets, ou abandonnerez-vous en étant vivant ? Une génération qui refuse de parler de succès a posé cette question, puis est retournée chacune dans sa vie complexe, continuant à vivre avec ce sentiment qu'il leur manque toujours un petit quelque chose.
 
 ```tw-timeline
-2016 | Forum des non-réussis | Première édition, 40 jours de préparation, 200-300 personnes, tag Facebook « maniaque du travail, en bordure de département » des millennials
-2017 | Hôtel California | Véritablement organisé dans un hôtel, thème tiré de la métaphore « entrer, mais ne pas sortir »
-2018 | Jeunes bouddhistes | Audrey Tang, Liu An-ting, Lin Yi-ying formant un triangle, dialogue dos à l'audience
-2019 | ㄇㄉㄈㄎ | Huang Dou-ni dessinant à la main les symboles phonétiques standards de motherfucker, jargon compréhensible uniquement par la chambre d'écho
-2020 | Isolement autonome | Arrivé du COVID, physique annulé au profit d'un Podcast de 47 épisodes, « année la moins cool » suivie d'une fin effective
+2016 | Forum des non-réussis | 1ère édition, 40 jours de préparation, deux à trois cents personnes, une génération de la « génération 8 » marquée sur Facebook comme « workaholics » ou « étudiants de tête de classe »
+2017 | California Hotel | Organisé dans un véritable hôtel, le thème tiré de la métaphore « entrer mais ne pas pouvoir sortir »
+2018 | Jeunesse bouddhiste | Tang Feng, Liu An-ting et Lin Yi-ying formant un triangle, discutant dos au public
+2019 | ㄇㄉㄈㄎ | Huang Dou-ni a dessiné à la main les caractères bopomofo de "motherfucker", un jargon que seule la communauté pouvait comprendre
+2020 | Isolement sanitaire | Arrivée de la COVID, l'événement physique est annulé au profit de 47 épisodes de podcast ; le festival prend fin de fait après cette « année la moins cool »
+Source : Thèmes et récits de terrain des différentes éditions cités dans cet article (entretiens avec Hsiao Hao-ning et Huang Dou-ni, et rapports des éditions précédentes) [^3][^10][^13]
 ```
 
-Deux « Festivals de la vie » séparés par dix ans, deux réponses de deux générations à « à quoi la vie devrait ressembler » :
+Dix ans séparent les deux « festivals de la vie », représentant deux réponses de deux générations différentes sur ce à quoi « la vie devrait ressembler » :
 
 ```tw-versus
-Festival de la vie simple (2006) | Festival de la vie complexe (2016)
-Li Zong-sheng, Chang Pei-jen, Ma Tien-tsung (industrie musicale) | Hsiao Hao-ning, Huang Dou-ni (millennials étudiants en médecine)
-30 000 à la première édition, 60 000 à 100 000 par la suite | 200-300 personnes, petit maintenu délibérément
-Fortement commercialisé, parrainage de marques | Non commercial, billetterie autofinancée
-« Calme et concentré » | « Croissance », forum des non-réussis
-Inter-générationnel, centré sur la musique | Subjectivité millennial explicite
-20e anniversaire en 2025 | Fin effective en 2020
-Source : Medium officiel du Festival de la vie complexe, données annuelles du Festival de la vie simple
+Simple Life Festival (2006) | Festival de la vie complexe (2016)
+Jonathan Lee, Chang Pei-jen, Ma Tien-tsung (industrie musicale) | Hsiao Hao-ning, Huang Dou-ni (étudiants en médecine de la génération 8)
+30 000 personnes la première année, puis 60 000 à 100 000 | Deux à trois cents personnes, taille volontairement réduite
+Hautement commercialisé, parrainages de marques | Non commercial, billetterie autogérée
+« Calme et concentré » | « Croissance », Forum des non-réussis
+Transgénérationnel, centré sur la musique | Clairement ancré dans la génération 8
+Célébrera son 20e anniversaire en 2025 | Fin de fait en 2020
+Source : Medium officiel du Festival de la vie complexe, archives du Simple Life Festival
 ```
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Mouvement des fleurs de l'osmanthe](/fr/society/sunflower-movement) — Contexte historique du Festival de la vie complexe : comment ce mouvement de 2014, après sa dispersion dans la rue, s'est divisé en la Force Times, g0v, Za Xue Xiao et le Festival de la vie complexe comme sorties de jeunesse
-- [Za Xue Xiao](/fr/society/za-share) — L'énergie alternative post-318 suivant une ligne opposée : grandissant jusqu'à devenir le plus grand carnaval éducatif d'Asie, opposant l'échelle et l'intimité au « petit maintenu délibérément » du Festival de la vie complexe
-- [La génération polyvalente de Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — Contexte structurel pour l'autodésignation de « maniaque du travail » des participants du Festival de la vie complexe : comment le salaire médian et la pression de survie ont poussé cette génération à porter plusieurs casquettes
-- [FAB DAO et le Projet des Cent Montagnes](/art/FAB_DAO_Yu_Bai_Yue_Ji_Hua) — Où Huang Dou-ni est allé après avoir quitté la médecine : la prochaine œuvre intégrant « l'esprit cypherpunk dans la société numérique taïwanaise »
+- [Mouvement des tournesols](/fr/society/sunflower-movement) — Le contexte historique du Festival de la vie complexe : comment ce mouvement de 2014 s'est fragmenté après les manifestations de rue en plusieurs voies pour la jeunesse, telles que New Power Party, g0v, les écoles alternatives et le Festival de la vie complexe.
+- [Écoles alternatives (Zá xué xiào)](/fr/society/za-share) — Une énergie alternative issue de la même vague du 318, mais suivant une trajectoire opposée : devenant le plus grand carnaval éducatif d'Asie, offrant un contraste entre l'échelle (_scale_) et l'intimité par rapport à la « petite taille volontaire » du Festival de la vie complexe.
+- [La génération "slash" de Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — Le contexte structurel expliquant pourquoi les participants du Festival de la vie complexe se qualifient de « workaholics » : comment le salaire médian et la pression de survie ont poussé cette génération à cumuler plusieurs fonctions.
+- [FAB DAO et le Projet des Cent Montagnes](/art/FAB DAO與百岳計畫) — Où est allée Huang Dou-ni après avoir abandonné la médecine : sa prochaine œuvre, intégrant « l'esprit cyberpunk dans la société numérique taïwanaise ».
 
 ## Sources des images
 

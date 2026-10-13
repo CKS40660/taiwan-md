@@ -2,9 +2,7 @@
 title: "Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé"
 description: "En 1985, les logements de Chenggong, à 67 000 dollars taïwanais le ping, ne trouvaient pas preneur ; un ancien chef de quartier réunit 400 000 dollars taïwanais d'apport initial pour en acheter un. Quarante ans plus tard, à la même adresse, le prix approche le million par ping. Le logement national devait être un outil pour « aider la population à pouvoir acheter un logement », mais il n'a jamais été doté d'un sas de récupération de la plus-value : la subvention publique est finalement devenue le patrimoine privé de ceux qui avaient acheté tôt. En 2026, Taoyuan remet ce sas en place, ce qui revient à reconnaître l'erreur du logement national."
 date: 2026-06-06
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'logement national',
@@ -13,10 +11,39 @@ tags:
     'justice intergénérationnelle',
     'logement abordable',
   ]
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 readingTime: 16
+featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
-featured: false
+viewpoint_formed: true
+image: '/article-images/society/taipei-skyline-housing-2026.webp'
+imageCredit: 'Heeheemalu'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+datasets:
+  - id: 'lvr-trades'
+    name: '不動產買賣 全國實價登錄'
+    url: 'https://lvr.land.moi.gov.tw/'
+    agency: '內政部地政司'
+    update_freq: '每3月'
+    why: '文章用成功國宅一個門牌講四十年，這裡可查任何國宅社區的當代成交價，驗證資產扶梯斜率'
+    verified: 2026-06-10
+  - id: '121267'
+    name: '臺北市國民住宅配售(租)情形'
+    url: 'https://data.gov.tw/dataset/121267'
+    agency: '臺北市政府都市發展局'
+    update_freq: '不定期更新'
+    why: '文中三大國宅那批「政府賣出去的便宜房」的配售與出租官方紀錄'
+    verified: 2026-06-10
+  - id: '155779'
+    name: '臺北市政府社會住宅包租代管媒合統計資料'
+    url: 'https://data.gov.tw/dataset/155779'
+    agency: '臺北市政府都市發展局'
+    update_freq: '每1年'
+    why: '「2016 政府不賣了改用租的」那條新路線的執行端數字'
+    verified: 2026-06-10
 sporeLinks:
   - id: 126
     platform: 'threads'
@@ -27,34 +54,31 @@ sporeLinks:
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:8ca8b403c13ab428'
-sourceBodyHash: 'sha256:547ee1d3b342a025'
-translatedAt: '2026-06-16T00:44:26+08:00'
-image: '/article-images/society/taipei-skyline-housing-2026.webp'
-imageCredit: 'Heeheemalu'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:058a2707437b6293'
+sourceBodyHash: 'sha256:8b7dd2352a89e936'
+translatedAt: '2026-10-13T01:59:02.272722+00:00'
 ---
 
-# Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé
+# Logements nationaux et justice résidentielle : les logements bon marché construits par l'État ont-ils fini par servir d'ascenseur patrimonial à qui ?
 
-Sur la section 2 de Fuxing South Road, dans l'arrondissement de Da'an à Taipei, se trouve un ensemble d'habitations appelé « logements nationaux de Chenggong ». Lorsqu'il venait d'être achevé, en 1985, personne n'en voulait.[^1]
+Sur la section 2 de la route Fuxing Sud, dans le district de Da'an à Taipei, se trouve un ensemble immobilier appelé « Chenggong Guozhai » (logements nationaux de Chenggong). Lorsqu'il a été achevé en 1985, personne n'en voulait. [^1]
 
-Le prix fixé par le gouvernement était de 67 000 à 71 000 dollars taïwanais le _ping_ (unité de surface d'environ 3,3 m²), ce qui n'était pas bon marché à l'époque. Comme les ventes stagnaient, il fallut finalement abaisser le prix à 67 000 dollars taïwanais le _ping_ et y ajouter un prêt sans intérêts sur quatre ans pour écouler tous les logements. L'ancien chef de quartier Shih Chung-sheng raconta plus tard que lui et son épouse avaient vidé toutes leurs économies et réuni 400 000 dollars taïwanais d'apport initial pour acheter l'un de ces appartements.[^1]
+Le prix proposé par le gouvernement était compris entre NT$ 67 000 et NT$ 71 000 par _ping_, ce qui n'était pas considéré comme bon marché à l'époque. En raison de l'invendu, les prix ont finalement chuté à NT$ 67 000 le _ping_, avec des prêts sans intérêt sur quatre ans pour réussir à tout vendre. Le chef de quartier de l'époque, Shih Chung-sheng, s'est souvenu plus tard que lui et son épouse avaient dû épuiser toutes leurs économies pour réunir un apport de NT$ 400 000 afin d'acquérir l'un des logements. [^1]
 
-Quarante ans plus tard, à la même adresse, le prix moyen des transactions sur les plateformes d'agences immobilières, sur l'année écoulée, atteint environ 870 000 dollars taïwanais le _ping_, et le logement le plus cher approche 980 000 dollars.[^2] De 67 000 à 870 000 dollars, cela représente environ douze à quatorze fois plus. L'apport initial qu'il fallut autrefois réunir en vidant toutes ses économies ne permettrait même plus aujourd'hui d'acheter un seul _ping_.
+Quarante ans plus tard, pour cette même adresse, le prix de transaction moyen sur les plateformes immobilières au cours de l'année écoulée est d'environ NT$ 870 000 par _ping_, le logement le plus cher approchant les NT$ 980 000. [^2] Passer de 67 000 à 870 000 représente une multiplication par douze ou quatorze environ. L'apport qui avait nécessité l'épuisement total des économies à l'époque ne permettrait même pas d'acheter un seul _ping_ aujourd'hui.
 
-> **Aperçu en 30 secondes :** Le logement national est un dispositif instauré par la loi à Taïwan en 1975 : le gouvernement « construisait puis vendait » des logements bon marché à la population, avec l'intention d'aider ceux qui n'avaient pas les moyens d'acheter à monter dans le train de la propriété. Le problème est qu'il n'a jamais été équipé d'un sas de « récupération de la plus-value » ; en 2002, le seul mécanisme anti-spéculation existant a même été démonté, permettant aux logements nationaux d'être revendus à n'importe qui. Ainsi, les logements construits grâce à des subventions publiques sont finalement devenus le patrimoine privé des premiers acheteurs ; dans plusieurs quartiers prisés de Taipei, certains logements nationaux approchent désormais, voire dépassent, le million de dollars taïwanais par _ping_. En 2015, le gouvernement a abrogé la Loi sur le logement national et s'est tourné vers le logement social « à la location seulement ». Mais en mai 2026, Taoyuan a adopté en troisième lecture un dispositif de « logements abordables » qui remet sur la table la voie du « gouvernement qui construit pour vendre », tout en réinstallant délibérément le sas qui avait manqué autrefois : le prix de revente ne peut pas dépasser le prix d'achat initial. Le ministère de l'Intérieur s'y oppose et défend un retour au principe « louer seulement, ne pas vendre ». Entre « vous aider à acheter » et « vous aider à louer », ces deux voies de la justice résidentielle font débat à Taïwan depuis cinquante ans, sans que l'histoire soit terminée.
+> **Résumé en 30 secondes :** Les logements nationaux (_guozhai_) sont des logements bon marché, légiférés par Taïwan en 1975, que le gouvernement « construisait pour les vendre » au peuple, avec l'intention initiale d'aider ceux qui n'avaient pas les moyens d'accéder à la propriété. Le problème est qu'aucun mécanisme de « récupération de la plus-value » n'a été installé dès le départ ; en 2002, le gouvernement a même supprimé l'unique dispositif anti-spéculation existant, permettant ainsi de vendre ces logements à n'importe qui. Par conséquent, des logements construits grâce aux subventions publiques sont devenus les actifs privés de ceux qui ont acheté tôt ; dans certains quartiers prisés de Taipei, le prix par _ping_ approche ou dépasse désormais le million de dollars taïwanais. En 2015, le gouvernement a abrogé la Loi sur le logement national pour s'orienter vers les logements sociaux basés sur le principe du « louer uniquement, ne pas vendre ». Cependant, en mai 2026, Taoyuan a fait adopter en troisième lecture la loi sur les « logements abordables », réintroduisant ainsi la voie de la « construction pour la vente » tout en installant délibérément le mécanisme qui manquait autrefois : l'interdiction de revendre à un prix supérieur au prix d'achat initial. Le ministère de l'Intérieur s'y oppose, préconisant un retour au modèle du « louer uniquement, ne pas vendre ». Entre « vous aider à acheter » et « vous aider à louer », ces deux voies de la justice résidentielle font débat à Taïwan depuis cinquante ans sans que le chapitre ne soit clos.
 
 ```tw-timeline
-1975 | Entrée en vigueur de la Loi sur le logement national | Le gouvernement construit puis vend, avec une boucle fermée de « critères d'acheteurs » : la subvention ne circule qu'entre ceux qui en ont besoin
-2002 | Le mur est démoli | Une réforme supprime les critères applicables aux acheteurs ; après un an d'occupation, un logement national peut être vendu à n'importe qui et entre officiellement sur le marché libre
-2015 | Abrogation de la Loi sur le logement national | Motif officiel : le taux de propriétaires occupants atteint déjà 85 %, et l'État central passe au logement social « à la location seulement »
-2026 | Taoyuan remet le sas en place | Logement abordable : le prix de revente ne peut pas dépasser le prix d'achat initial, ce qui ajoute, cinquante ans plus tard, le mur qui manquait au logement national
+1975 | Entrée en vigueur de la Loi sur le logement national | Le gouvernement construit pour vendre, avec un système fermé de « qualification d'acheteur » — les subventions circulent uniquement entre ceux qui en ont besoin.
+2002 | La barrière est supprimée | Une modification législative lève les restrictions sur la qualification des acheteurs ; après un an d'occupation, le logement peut être vendu à n'importe qui, entrant officiellement sur le marché libre.
+2015 | Abrogation de la Loi sur le logement national | Raison officielle : le taux de propriété résidentielle ayant atteint 85 %, l'État central s'oriente vers les logements sociaux basés sur le « louer uniquement, ne pas vendre ».
+2026 | Taoyuan réinstalle la barrière | Logements abordables : la revente ne peut excéder le prix d'achat initial — cinquante ans plus tard, on comble enfin la lacune de la loi sur les logements nationaux.
+Source : Yuan exécutif (Explications sur l'abrogation de la Loi sur le logement national) + Base nationale des lois et règlements (Historique de la modification de 2002) + Liberty Times (Abrogation en 2015) + United Daily News (Adoption en troisième lecture à Taoyuan en 2026) [^3][^7][^15][^23]
 ```
 
-Ce que raconte cet article, ce sont les cinquante années prises entre ces deux prix à la même adresse. Comment une bonne intention, celle d'un gouvernement qui dépense de l'argent pour construire des logements bon marché et aider des personnes à devenir propriétaires, a-t-elle pu conduire à la situation actuelle : une génération suivante, debout en haut des marches, incapable d'acheter et sans stabilité locative ?
+Ce que cet article cherche à démontrer, ce sont ces cinquante années coincées entre ces deux prix immobiliers. Comment l'intention bienveillante d'un gouvernement qui dépensait de l'argent pour construire des logements abordables afin d'aider les gens à accéder à la propriété a-t-elle pu aboutir à la situation actuelle, où la génération suivante se retrouve incapable d'acheter et dans l'insécurité locative ?
 
 ## La génération des logements construits pour être vendus par l'État
 
@@ -137,43 +161,44 @@ Mis à plat, ces chiffres rendent particulièrement cinglante la phrase prononc�
 
 Voilà la facture présentée cinquante ans plus tard par ce sas jamais installé. Les logements bon marché construits par le gouvernement ne sont pas devenus un escalator capable d'accueillir sans cesse la prochaine personne incapable d'acheter ; ils sont devenus un ascenseur qui n'a pris en charge que les premiers passagers. Une fois montés, ceux-ci ont retiré l'échelle.
 
-## À Hong Kong, ce sas s'appelle prime foncière ; au Royaume-Uni, il s'appelle leçon
+## Cette barrière : à Hong Kong, on l'appelle la « compensation foncière », au Royaume-Uni, une leçon
 
-Arrivé à ce point, une objection naturelle surgit : est-il vraiment possible que le gouvernement construise des logements bon marché pour les vendre à la population, tout en interdisant aux propriétaires de les revendre avec profit ?
+À ce stade, une question naturelle surgit : le gouvernement peut-il construire des logements abordables pour les vendre aux citoyens, tout en leur interdisant de les revendre pour réaliser un profit ?
 
-Oui. Hong Kong, juste à côté, a installé ce sas que Taïwan n'a jamais installé.
+C'est possible. À Hong Kong, juste à côté, ils ont installé cette barrière que Taïwan n'a jamais mise en place.
 
-Le gouvernement de Hong Kong a lancé le programme HOS, ou « Home Ownership Scheme », dont la logique ressemble beaucoup à celle du logement national : vendre des logements à des ménages à revenus faibles ou moyens avec une décote de 30 à 40 % par rapport au marché. Mais il y a ajouté un mécanisme appelé « paiement de la prime foncière ». Si le propriétaire veut plus tard revendre son logement HOS sur le marché ouvert, il doit d'abord verser au gouvernement une prime foncière calculée selon le taux de décote accordé à l'achat, ce qui revient à restituer au Trésor public la part de concession consentie autrefois par l'État, ainsi qu'une partie de la plus-value.[^12] La plus-value ne revient pas entièrement à l'individu : une partie retourne au public. Les logements nationaux de Taïwan n'ont jamais eu cette barrière de prime foncière. Vous achetiez à bas prix, puis, une fois la durée minimale d'occupation écoulée, vous pouviez revendre au plein prix du marché ; l'écart de prix et la plus-value entraient intégralement dans votre poche.
+Le gouvernement de Hong Kong a lancé le programme « Home Ownership Scheme » (HOS), dont la logique est très proche des logements nationaux (_guózhái_) : vendre des logements à des ménages à revenus faibles ou moyens avec une décote de 30 à 40 % par rapport au prix du marché. Cependant, il y ajoute un mécanisme appelé « compensation foncière » (_bǔ dìjià_). Si un propriétaire souhaite revendre son logement HOS sur le marché libre, il doit d'abord rembourser au gouvernement une partie de la valeur foncière, proportionnelle à la remise initiale dont il avait bénéficié. Cela revient à restituer au Trésor public la part de profit que le gouvernement avait initialement concédée, ainsi qu'une partie de la plus-value. [^12] La plus-value n'appartient pas entièrement à l'individu ; une partie doit être rendue à la collectivité. Pour les logements nationaux de Taïwan, il n'y a jamais eu ce verrou de la compensation foncière. Vous achetez à bas prix, vous habitez pendant la durée requise, puis vous pouvez revendre au prix du marché, et toute la différence de prix ainsi que la plus-value finissent directement dans votre poche.
 
 ```tw-versus
-Logements nationaux de Taïwan | HOS de Hong Kong
-Le gouvernement subventionne et vend à bas prix aux occupants | Le gouvernement subventionne et vend à bas prix aux occupants
-Après un an d'occupation, revente possible au plein prix du marché | Avant toute revente sur le marché ouvert, il faut d'abord payer la « prime foncière »
-La plus-value revient presque entièrement à l'individu | La plus-value est récupérée par le Trésor selon le taux de décote initial
-Le stock public est perdu en une fois | La concession publique peut être récupérée
+Logements nationaux (Taïwan) | HOS (Hong Kong)
+Subventionnés, vendus à bas prix | Subventionnés, vendus à bas prix
+Revente au prix du marché après une période d'occupation | Revente sur le marché libre soumise à la « compensation foncière »
+La plus-value revient presque entièrement à l'individu | La plus-value est récupérée par le Trésor selon la remise initiale
+Perte définitive du stock public | Récupération des avantages accordés par l'État
+Source : Explications officielles de la Hong Kong Housing Authority sur la « compensation foncière » + Base nationale des lois et règlements (Évolution des restrictions de revente des logements nationaux de Taïwan) [^7][^12]
 ```
 
-![Hoi Fu Court, à To Kwa Wan, Hong Kong, ensemble HOS de logements subventionnés à la vente, avec plusieurs tours résidentielles alignées](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
-_Le HOS Hoi Fu Court à Hong Kong. Le gouvernement de Hong Kong vend ces logements à des ménages à revenus faibles ou moyens avec une décote de 30 à 40 % sur le marché, mais il a instauré un sas absent des logements nationaux taïwanais : le paiement de la prime foncière. Photo : Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
+![Hoi Fai Court à To Kwa Wan, Hong Kong, un ensemble de logements faisant partie du programme HOS (logements subventionnés), avec plusieurs immeubles résidentiels de grande hauteur alignés](/article-images/society/hongkong-hoifu-court-hos-2008.webp)
+_Le complexe HOS « Hoi Fai Court » à Hong Kong. Le gouvernement de Hong Kong vend ces logements aux ménages à revenus faibles ou moyens avec une décote de 30 à 40 %, mais a installé une barrière que les logements nationaux de Taïwan n'ont pas : la compensation foncière. Photo : Thomasman, CC BY-SA 3.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG)._
 
-Si Hong Kong représente le devoir que Taïwan aurait dû copier sans le faire, le Royaume-Uni constitue un miroir encore plus brutal.
+Si Hong Kong est un modèle que Taïwan aurait dû copier sans le faire, le Royaume-Uni est un miroir encore plus cruel.
 
-En 1980, le gouvernement Thatcher lança le « Right to Buy », qui permettait aux locataires de logements sociaux municipaux d'acheter leur logement avec de fortes remises. La politique fut extrêmement populaire et aboutit à la vente d'environ 1,9 million de logements sociaux. Quel en fut le prix ? La part du logement social au Royaume-Uni passa de 31 % en 1980 à 16 % en 2023, soit une division par deux.[^13] Une fois le stock public vendu à des individus, il ne revient pas. Le think tank Common Wealth a fait le calcul : la valeur des droits cédés uniquement par ces « remises » atteint 194 milliards de livres sterling, soit environ 8 000 milliards de dollars taïwanais. Sa formulation originale est la suivante :
+En 1980, le gouvernement Thatcher a lancé le « Right to Buy » (droit à l'achat), permettant aux locataires de logements sociaux d'acheter leur logement avec une remise très importante. La politique fut un immense succès, environ 1,9 million de logements sociaux ayant été vendus. Quel en a été le prix ? La part du logement social au Royaume-Uni est passée de 31 % en 1980 à seulement 16 % en 2023. [^13] Une fois que le stock public est vendu à des particuliers, il ne revient jamais. Le think tank _Common Wealth_ a fait le calcul : la seule valeur des droits cédés via ces « remises » s'élève à 194 milliards de livres sterling, soit environ NT$ 8 billions. Leur citation exacte est la suivante :
 
-> ✦ "The equity given away through the discount is worth £194 billion…"（La seule valeur des droits cédés par les remises atteint 194 milliards de livres sterling.）——Think tank Common Wealth
+> ✦ "The equity given away through the discount is worth £194 billion…" (« La seule valeur des droits cédés via ces remises s'élève à 194 milliards de livres sterling... ») — Think tank _Common Wealth_
 
-![Brookfield Estate, logement municipal dans le quartier de St Pancras à Londres, ensemble de bâtiments en brique rouge construits dans les années 1920, alignés en immeubles de plusieurs étages](/article-images/society/london-brookfield-council-estate.webp)
-_Logement municipal londonien (\_council housing_). En 1980, le « Right to Buy » de Thatcher a vendu ce type de logements sociaux à prix réduit aux locataires ; quarante ans plus tard, la part du logement social au Royaume-Uni avait été divisée par deux pour tomber à 16 %. Photo : Reading Tom, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).\_
+![Brookfield Estate, un ensemble de logements municipaux dans le quartier de St Pancras à Londres, composé de bâtiments en briques rouges construits dans les années 1920](/article-images/society/london-brookfield-council-estate.webp)
+_Les logements municipaux (*council housing*) à Londres. En 1980, le « Right to Buy » de Thatcher a permis aux locataires d'acheter ces logements avec une remise ; quarante ans plus tard, la part du logement social au Royaume-Uni a été divisée par deux pour n'atteindre que 16 %. Photo : Reading Tom, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>).\_
 
-La suite est encore plus ironique : parmi les logements sociaux vendus à l'époque, 41 % sont aujourd'hui devenus des logements locatifs privés aux loyers plus élevés.[^13] Le gouvernement a vendu des logements à prix réduit aux locataires ; ces locataires, ou des propriétaires ultérieurs, les relouent ensuite à d'autres à des loyers plus élevés. La subvention publique a fait un tour complet pour finalement tirer vers le haut les prix du marché locatif. L'« ascenseur qui retire l'échelle » des logements nationaux taïwanais existe au Royaume-Uni dans une version multipliée par un million.
+Plus ironique encore : parmi les logements sociaux vendus à l'époque, 41 % sont devenus aujourd'hui des locations privées avec des loyers plus élevés. [^13] Le gouvernement vend les logements avec une remise aux locataires, qui (ou le repreneur suivant) les relouent ensuite à d'autres à un prix supérieur ; la subvention publique fait ainsi un détour pour finalement gonfler les prix du marché locatif. L'« ascenseur qui retire l'échelle » des logements nationaux de Taïwan est une version amplifiée un million de fois au Royaume-Uni.
 
-![Immeubles HDB dans le quartier de Lavender à Singapour, typiques logements publics de grande hauteur aux façades colorées](/article-images/society/singapore-hdb-lavender-2014.webp)
-_Immeubles HDB de Singapour, où vivent environ huit habitants sur dix. Le gouvernement a construit pour « vendre » avec des baux de 99 ans ; même avec une durée minimale d'occupation, il n'a pas empêché la privatisation de la plus-value des logements HDB. Photo : Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
+![HDB à Lavender, Singapour, typique logement public en tour de grande hauteur avec des façades colorées](/article-images/society/singapore-hdb-lavender-2014.webp)
+_Les logements HDB à Singapour, où résident environ 80 % des citoyens. Le gouvernement construit pour « vendre » avec un bail de 99 ans ; même avec une durée minimale d'occupation, la privatisation de la plus-value des logements est inévitable. Photo : Martinpasquier, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG)._
 
-Même Singapour, souvent cité en exemple positif, n'a pas réussi à empêcher ce phénomène. Le gouvernement singapourien construit des logements HDB qu'il « vend » à la population sous forme de baux de 99 ans ; environ huit habitants sur dix vivent dans ces logements, qui semblent incarner le modèle du « logement pour chaque occupant ». Mais même avec une durée minimale d'occupation et des prélèvements à la revente, le dispositif n'a pas pu contenir la privatisation de la plus-value des HDB. Le chercheur Chua Beng Huat l'a dit directement : cette subvention publique, pensée pour réduire les inégalités, a en pratique approfondi les écarts de richesse entre générations. Ceux qui ont acheté tôt ont accumulé du patrimoine grâce à la hausse des HDB ; les générations arrivées plus tard doivent payer beaucoup plus cher pour acheter. Les habitants ont une expression très parlante pour désigner ce cycle d'achat et de revente des HDB : « deux bouchées de la cerise » (_two bites of the cherry_).[^14]
+Même Singapour, souvent citée comme le modèle exemplaire, ne peut y échapper. Le gouvernement singapourien construit des logements HDB (_Housing and Development Board_) pour les vendre au peuple, avec un bail de 99 ans. Environ 80 % des citoyens y vivent, ce qui semble être le modèle parfait du « chacun possède sa maison ». Pourtant, malgré l'imposition d'une durée minimale d'occupation et de frais de revente, il ne parvient pas à freiner la privatisation de la plus-value. Le chercheur Chua Beng Huat souligne que ce système de subvention publique, qui visait initialement à réduire les inégalités, finit par creuser l'écart de richesse entre les générations : ceux qui ont acheté tôt accumulent du patrimoine grâce à la prise de valeur des HDB, tandis que les nouvelles générations doivent payer des prix bien plus élevés pour accéder à la propriété. Pour décrire ce cycle d'achat et de revente des logements, les locaux utilisent une expression imagée : « deux bouchées de cerise » (_two bites of the cherry_). [^14]
 
-> 📝 **Note du curateur**
-> Mis côte à côte, Hong Kong, le Royaume-Uni et Singapour révèlent une chose : dès que le gouvernement choisit de « construire pour vendre », la privatisation de la plus-value devient une ombre presque impossible à détacher du dispositif. La différence tient seulement à l'existence d'un sas, et à sa solidité. Hong Kong a installé la prime foncière et conserve au moins une partie de la valeur ; Singapour a fixé des seuils, mais il y a toujours des fuites ; le Royaume-Uni a procédé à une grande distribution, et le stock public a été emporté en bloc. Les logements nationaux de Taïwan se trouvent à l'extrémité la moins protégée de ce spectre, sans même le sas de prime foncière de Hong Kong. C'est pourquoi, cinquante ans plus tard, Taïwan se retrouve à un carrefour : soit apprendre de Hong Kong et ajouter le sas, soit emprunter une autre voie et ne tout simplement plus vendre.
+> 📝 **Note du commissaire**
+> En observant Hong Kong, le Royaume-Uni et Singapour, on constate un fait : dès que le gouvernement choisit de « construire pour vendre », la privatisation de la plus-value devient une ombre inévitable. La seule différence réside dans la présence ou non d'une barrière, et dans sa fermeté. Hong Kong a instauré la compensation foncière, ce qui permet de conserver au moins une partie du stock ; Singapour a mis des seuils, mais cela fuit encore ; le Royaume-Uni a tout distribué, et le stock public s'est volatilisé. Les logements nationaux de Taïwan se situent à l'extrémité la plus vulnérable de ce spectre, sans même disposer de la compensation foncière de Hong Kong. C'est pourquoi, cinquante ans plus tard, Taïwan se retrouve à la croisée des chemins : soit apprendre de Hong Kong en installant des barrières, soit suivre une autre voie et ne tout simplement plus vendre.
 
 ## Un beau chiffre de 85 %, et la génération suivante qui ne peut pas acheter
 
