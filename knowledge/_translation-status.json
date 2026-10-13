@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-13T19:31:02+08:00",
-    "zhCommitHead": "f914b0755",
+    "lastUpdated": "2026-10-13T19:57:00+08:00",
+    "zhCommitHead": "f49e1d5d3",
     "totalZh": 1131,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1131,
-        "fresh": 1121,
-        "stale": 5,
+        "fresh": 1122,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1131,
-        "fresh": 1121,
-        "stale": 5,
+        "fresh": 1122,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -1652,20 +1652,18 @@
         "id": {
           "path": "id/Music/golden-melodies-legacy-taiwan-pop-music.md",
           "translatedFrom": "Music/台灣流行音樂.md",
-          "sourceCommitSha": "1e1040928",
-          "sourceContentHash": "sha256:4517347444f75a1c",
-          "sourceBodyHash": "sha256:eb706bc3431ec070",
-          "translatedAt": "2026-09-24T19:38:46.974110+00:00",
+          "sourceCommitSha": "a266eaa96",
+          "sourceContentHash": "sha256:9dd098f7a5a51bd9",
+          "sourceBodyHash": "sha256:7e4e331322aaf847",
+          "translatedAt": "2026-10-13T11:46:56.181806+00:00",
           "translationLastCommit": "d4b1ceab",
           "translationLastModified": "2026-10-10T22:59:12+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "bytes": 55777,
+          "bytes": 59843,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -33906,8 +33904,8 @@
           "sourceContentHash": "sha256:55fb6b319600e482",
           "sourceBodyHash": "sha256:f51b3f32440df15e",
           "translatedAt": "2026-10-13T08:53:09+08:00",
-          "translationLastCommit": "c549b26c",
-          "translationLastModified": "2026-09-23T15:53:54+08:00",
+          "translationLastCommit": "f49e1d5d",
+          "translationLastModified": "2026-10-13T19:31:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 23781,
@@ -58602,20 +58600,18 @@
         "ru": {
           "path": "ru/Society/taiwan-low-birth-rate-crisis.md",
           "translatedFrom": "Society/台灣少子化危機.md",
-          "sourceCommitSha": "d96dbc4bb",
-          "sourceContentHash": "sha256:22f624258f9ada15",
-          "sourceBodyHash": "sha256:be7b46d45d345648",
-          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "sourceCommitSha": "a266eaa96",
+          "sourceContentHash": "sha256:a14a0e12438e6a6a",
+          "sourceBodyHash": "sha256:de756e6e0a8c4c3b",
+          "translatedAt": "2026-10-13T11:35:41.728298+00:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "bytes": 83850,
+          "bytes": 108333,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-low-birth-rate-crisis.md",
@@ -65302,8 +65298,8 @@
           "sourceContentHash": "sha256:925c0f0fa8d0ba22",
           "sourceBodyHash": "sha256:e06cb9dbec5bce60",
           "translatedAt": "2026-10-13T09:50:04.935957+00:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "f49e1d5d",
+          "translationLastModified": "2026-10-13T19:31:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "bytes": 41062,
