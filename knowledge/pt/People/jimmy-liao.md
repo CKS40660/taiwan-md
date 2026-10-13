@@ -1,6 +1,6 @@
 ---
-title: 'Jimmy Liao: As imagens vistas como "curativas" foram trazidas por um sobrevivente de leucemia de dentro de um aquário de vidro'
-description: 'Em 1995, o diretor de arte publicitário Liao Fu-pin (廖福彬), aos 37 anos, foi diagnosticado com leucemia mieloide aguda, acenando para amigos através do vidro de um quarto estéril. Após a alta, os "pequeninos" que ele desenhava para ganhar a vida ganharam vida, e ele começou a criar "O Peixe que Sorri", "A Lua Esqueceu", "Virar à Esquerda, Virar à Direita" e "O Metrô". Por trás do "curativo", "cult" e da Praça Jimmy Liao em I-lan Lo-tung (宜蘭羅東) que os taiwaneses lembram, está alguém que esteve no inferno, traduzindo morte e solidão em forma legível, depois expandindo para um império que abrange cinema, musicais, circo e arte pública, com uma exposição de 25 anos ainda em Hong Kong em 2026.'
+title: 'Jimmy Liao: As ilustrações consideradas curativas foram trazidas de volta por um sobrevivente de leucemia'
+description: 'Em 1995, Liao Fu-bin, um diretor de arte publicitária de 37 anos, foi diagnosticado com leucemia mieloide aguda e acenava para os amigos através do vidro de uma sala estéril. Após receber alta, as pequenas figuras que ele antes usava apenas para ganhar dinheiro ganharam vida, e ele começou a desenhar "Peixes Sorridentes", "A Lua Esqueceu", "Para a Esquerda, Para a Direita" e "Metrô". Por trás do estilo curativo, artístico e da Praça Jimmy Liao em Luodong, Yilan, que os taiwaneses tanto amam, está alguém que passou pelo inferno e traduziu a morte e a solidão em uma forma de leitura, expandindo-se posteriormente para um império que abrange cinema, musicais, circo e arte pública; em 2026, ele ainda realizará uma exposição especial de 25 anos em Hong Kong.'
 rationale:
   why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
   whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
@@ -11,11 +11,11 @@ category: 'People'
 tags:
   [
     'Arte e Design',
-    'Autor de Picture Books',
+    'Autor de Livros Ilustrados',
     'Ilustração',
     'Literatura',
     'Leucemia',
-    'I-lan',
+    'Yilan',
     'Adaptação Cinematográfica',
   ]
 subcategory: '藝術與設計'
@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:8843f64848a3d381'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-08-02T13:22:33+08:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T21:36:41.254063+00:00'
 ---
 
 # Jimmy Liao: As imagens vistas como "curativas" foram trazidas por um sobrevivente de leucemia de dentro de um aquário de vidro
@@ -85,40 +85,41 @@ As imagens de Jimmy Liao puderam sair da autocura de um homem para virar present
 
 ## Cada livro é um mergulho
 
-Espalhe os livros representativos de Jimmy Liao e descobrirá algo fácil de ignorar: aquelas imagens tratadas como curativas, quase todas partem de um lugar bem escuro.
+Ao analisar as obras mais representativas de Jimmy Liao, percebe-se algo facilmente negligenciado: quase todos os desenhos considerados "terapêuticos" partem de um lugar muito sombrio.
 
 ```tw-timeline
-1958 | Nasce em I-lan Lo-tung | Nome verdadeiro Liao Fu-pin
-1995 | Diagnosticado com câncer no sangue (AML) | 37 anos, quimioterapia cinco meses, verdadeiro ponto de partida da criação
-1998 | Primeiros dois picture books no mesmo ano levam três grandes prêmios | *O Segredo da Floresta*, *O Peixe que Sorri*
-1999 | *Virar à Esquerda, Virar à Direita*, *A Lua Esqueceu* | Desencontro e morte, dois eixos centrais
-2001 | *O Metrô* | No quinto ano de sobrevivência, desenha a cega
-2003 | Quatro filmes estreiam | Inclui *A Paisagem do Amor* em competição em Veneza
-2009 | *Céu Estrelado* | 2011 vira filme, Mayday canta tema
-2013 | Inauguração Praça Jimmy Liao em I-lan | Primeira da ilha
-2019 | Individual no Museo ABC em Madrid | Primeira na Europa, 174 originais
-2026 | Exposição de 25 anos em Hong Kong *Luzes Fortuitas de Encontros Casuais* | Museu do Porto de Hong Kong
+1958 | Nasceu em Luodong, Yilan | Nome real: Liao Fu-pin
+1995 | Diagnóstico de leucemia (AML) | Aos 37 anos; após cinco meses de quimioterapia, o verdadeiro ponto de partida da sua criação
+1998 | Primeiros dois livros de ilustrados vencem três grandes prêmios de literatura infantil no mesmo ano | 《森林裡的祕密》, 《微笑的魚》
+1999 | 《向左走·向右走》, 《月亮忘記了》 | Temas centrais: o desencontro e a morte
+2001 | 《地下鐵》 | Desenhou a menina cega no ano em que sobreviveu ao quinto ano de doença
+2003 | Lançamento de quatro filmes | Inclui 《戀之風景》, selecionado para a competição do Festival de Veneza
+2009 | 《星空》 | Adaptado para filme em 2011; tema de abertura pela banda Mayday
+2013 | Inauguração da Praça Jimmy Liao em Yilan | A primeira de Taiwan
+2019 | Exposição individual no Museo ABC, Madri | Primeira na Europa, com 174 obras originais
+2026 | Exposição de 25 anos em Hong Kong: 《偶然相遇的微光》 | Ocean Terminal Icon, Harbour City
+Fonte: Site oficial de Jimmy Liao (jimmyspa.com), Daku Culture, Wikipédia e dados oficiais de festivais; idade do diagnóstico e período de quimioterapia baseados nos relatos do próprio Jimmy Liao em entrevistas (ver fontes ao final) [^9][^10]
 ```
 
-> **Fonte de dados**: Site oficial de Jimmy Liao (jimmyspa.com), Dakuai Culture, Wikipédia, materiais oficiais de festivais; idade do diagnóstico e período de quimioterapia segundo relato do próprio Jimmy Liao em entrevistas.
+> **Fontes**: Site oficial de Jimmy Liao (jimmysla.com), Daku Culture, Wikipédia, dados oficiais de festivais; idade do diagnóstico e período de quimioterapia baseados nos relatos do próprio Jimmy Liao em entrevistas.
 
-_O Peixe que Sorri_ é exatamente aquele peixe do aquário. Um homem no aquário público se encanta por um peixe que sorri para ele, leva para casa, numa certa noite o devolve ao mar. O isolado, o desejo aprisionado, o soltar final — o livro saiu quando Jimmy Liao mal tinha saído daquela sala transparente. "A doença é o meu aquário de vidro", essa frase está escrita em _O Peixe que Sorri_. [^15]
+《微笑的魚》 é aquele peixe no aquário de vidro. Um homem se apaixona por um peixe que sorri para ele em um aquário, leva-o para casa e, certa noite, o devolve ao mar. O isolamento, o desejo contido, a entrega final — quando este livro foi publicado, Jimmy Liao havia acabado de sair daquele quarto transparente. A frase "A doença é o meu aquário de vidro" foi escrita dentro de 《微笑的魚》. [^15]
 
-_A Lua Esqueceu_ saiu em outubro de 1999, criada às vésperas do grande terremoto de 21 de setembro. Sua origem são três fatos reais: uma ex-colega da agência de publicidade, na hora do almoço, saltou do terraço, deixando esposa e filha; o marido de uma grande amiga foi a Pequim a uma reunião, teve hemorragia cerebral e morreu; e um grande apagão em Taipé. [^16] Um picture book que parece gentil, falando de lua, tem por baixo duas vidas e uma cidade mergulhada na escuridão de repente. Jimmy Liao diz que "devia uma história à lua". [^48] E a descrição oficial do livro: "Caminhões de luas sorridentes, transportados para cada cidade escura e triste." [^17] A morte foi desenhada por ele como luas que brilham, que são enviadas para consolar.
+《月亮忘記了》 foi publicado em outubro de 1999, criado às vésperas do grande terremoto de 921. Sua origem reside em três fatos reais: um ex-colega da agência de publicidade de Jimmy Liao que saltou do último andar durante o intervalo do almoço, deixando esposa e filha; o marido de uma amiga próxima que faleceu de hemorragia cerebral durante uma conferência em Pequim; e um grande apagão em Taipé. [^16] Um livro de ilustrados aparentemente gentil sobre a lua, carregando sob sua superfície duas vidas perdidas e uma cidade subitamente mergulhada na escuridão. Jimmy Liao disse que "deve uma história à lua". [^48] Uma das descrições oficiais do livro é: "Carros cheios de luas sorridentes, sendo transportados para cada cidade sombria e triste." [^17] Ele desenhou a morte como ciclos de luas brilhantes enviadas para consolar as pessoas.
 
-_O Metrô_ saiu em 2001, o quinto ano da doença de Jimmy Liao. Médico lhe disse: "Se você passar do quinto ano, a taxa de sobrevivência sobe muito." [^18] Para um paciente de leucemia, o quinto ano é um limiar de vida ou morte. Naquele ano, ele desenha uma menina cega tateando o caminho no metrô, a abertura do livro: "No ano em que o anjo me disse adeus na entrada do metrô, eu fui deixando de enxergar." [^19]
+《地下鐵》 foi publicado em 2001, no quinto ano de sua doença. O médico lhe disse uma vez: "Se você sobreviver ao quinto ano, sua taxa de sobrevivência aumentará consideravelmente." [^18] Para um paciente com leucemia, o quinto ano é um limiar entre a vida e a morte. Naquele ano, ele desenhou uma menina cega tateando seu caminho no metrô; o livro começa com: "No ano em que o anjo se despediu de mim na entrada do metrô, eu gradualmente deixei de enxergar." [^19]
 
-A cega é seu alter ego, o livro inteiro desenhado sob a sombra da morte. Desenhava com medo, medo de que o livro não ficasse pronto e ele tivesse de se despedir primeiro. Por isso depois disse que este livro "todos os textos estão escrevendo um tipo de encorajamento para mim mesmo". [^20] Alguém com medo de não viver até a publicação, desenha uma menina que não vê, mas não para de caminhar. Na verdade, é a voz dele se animando na beira do abismo, só que a desenhou tão gentil, tão gentil que leitores acham que é história para ninar.
+Aquela menina cega era sua própria encarnação; o livro inteiro foi desenhado sob a sombra da morte. Ele sentia medo enquanto desenhava, temendo que o livro não fosse concluído antes que ele mesmo tivesse que se despedir. Por isso, ele disse mais tarde que "todas as palavras deste livro são uma forma de encorajamento para mim mesmo". [^20] Alguém que temia não viver até a publicação do livro desenhou uma menina que não podia ver, mas que não parava de caminhar. Na verdade, era o som de sua própria voz se encorajando à beira do abismo, apenas ele desenhou esse som com tanta doçura que os leitores pensam tratar-se de um conto de ninar para adormecer.
 
-![Escultura *A Menina que Vira à Esquerda* à noite. *Virar à Esquerda, Virar à Direita* fala de dois moradores de paredes vizinhas que se desencontram repetidamente.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
+![Escultura "A menina que caminha para a esquerda" após o anoitecer. 《向左走·向右走》 narra a história de duas pessoas que moram em apartamentos vizinhos, mas se desencontram repetidamente.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
 
-Em comparação, _Virar à Esquerda, Virar à Direita_ de 1999 é o mais lembrado pelo grande público, mas também o mais cruel. Uma menina acostumada a virar à esquerda, um menino acostumado a virar à direita, moram no mesmo prédio, parede com parede, tão perto, mas se desencontram vez após vez. A inspiração vem da poeta polonesa Szymborska (Nobel 1996) _Amor à Primeira Vista_, que escreve justamente dois desconhecidos que se roçam, mas já estão ligados. [^54] O desencontro não é acidente, é estrutura do cotidiano: você acha que o encontro é milagre, na verdade roçar-se é a constante.
+Em contraste, 《向左走·向右走》 (1999) é o livro mais lembrado pelo público, mas também o mais cruel. Uma menina acostumada a caminhar para a esquerda e um rapaz acostumado a caminhar para a direita vivem em lados opostos da mesma parede de um prédio; tão próximos, mas desencontram-se vez após vez. A inspiração para este livro veio do poema 〈Amor à Primeira Vista〉 da poetisa polonesa Wisława Szymborska (vencedora do Nobel de Literatura em 1996), que descreve dois estranhos que se cruzam, mas que já estão conectados. [^54] O desencontro não é um acidente; o desencontro é a estrutura do cotidiano: você pensa que o encontro é um milagre, quando, na verdade, cruzar-se sem se ver é o normal.
 
-A sombra da doença se estende longe. Mesmo em 2000, _No Meu Coração Nasce uma Flor a Cada Dia_, ele ainda escreve: "Ao desenhar este livro, a sombra da doença ainda não se dissipava do meu coração." [^39] _A Pedra Azul_ de 2006 é considerada por alguns a mais triste, fala de uma pedra azul rachada, se fragmentando, empreendendo uma jornada "esplêndida e vicissitudinária"; a nota do próprio Jimmy Liao não para na tristeza: "Mesmo um fio de luz de esperança pode iluminar a escuridão de todo o universo." [^53] O avesso do escuro, ele sempre deixa um brilho. _Esconder-se num Canto do Mundo_ de 2008 parece um sussurro para quem não aguenta mais: "Shh — esconda-se num canto do mundo, por favor mantenha o silêncio, esqueça o tempo, volte a ser você mesmo." [^40] _Céu Estrelado_ de 2009 fala de dois adolescentes solitários fugindo de casa, a frase "onde há sombra, com certeza há luz" quase serve de nota de rodapé para toda a obra de Jimmy Liao. [^41]
+A sombra da doença se estende por muito tempo. Mesmo em 《我的心中每天開出一朵花》 (2000), ele escreveu: "Ao desenhar este livro, a sombra da doença ainda era persistente em meu coração". [^39] Alguns críticos consideram 《藍石頭》 (2006) seu livro mais triste, narrando uma pedra azul que é fendida, fragmentada e embarca em uma jornada "esplêndida e melancólica"; porém, a própria nota de Jimmy Liao não parou na tristeza: "Mesmo um pequeno raio de esperança pode iluminar a escuridão de todo o universo." [^53] Do outro lado da escuridão, ele sempre deixa um pouco de luz. 《躲進世界的角落》 (2008) soa como um sussurro para todos aqueles que não conseguem mais aguentar: "Shhh — esconda-se num canto do mundo, por favor, mantenha o silêncio, esqueça o tempo e volte a ser você mesmo." [^40] Em 《星空》 (2009), dois jovens solitários fogem de casa; a frase no livro "Onde há sombra, certamente haverá luz" pode quase servir como um epígrafe para toda a obra de Jimmy Liao. [^41]
 
-Aquele peixe sorridente também nadou para as telas. 2006, _O Peixe que Sorri_ virou curta de animação de dez minutos, sem falas, dirigido por Lin Po-liang, Tuan Yi-lun, Shih Chang-chieh, trilha de Chen Chien-chi. [^42] Entrou na mostra Generation do 56º Festival de Berlim, levou prêmio especial de melhor curta da Kinderhilfe alemã. [^43] A solidão que um taiwanês desenhou no quarto de hospital, virou imagem sem uma palavra, compreensível no mundo todo.
+Aquele peixe sorridente também chegou às telas. Em 2006, 《微笑的魚》 foi adaptado para um curta-metragem de animação de dez minutos, sem diálogos, dirigido conjuntamente por Lin Po-liang, Duan Yi-lun e Shih Chang-chieh, com trilha sonora de Chen Chien-chi. [^42] O filme foi selecionado para a seção Generation do 56º Festival de Berlim e recebeu o prêmio especial de melhor curta-metragem da Associação Alemã de Ajuda à Criança. [^43] A solidão desenhada por um taiwanês em um quarto de hospital foi traduzida em imagens sem uma única linha de diálogo que o mundo inteiro pudesse entender.
 
-> 🎙️ **Nota da curadoria**: Ponha esses quatro livros lado a lado e verá que o rótulo "curativo" inverte a causalidade. A leitura comum é "os desenhos do Jimmy Liao são fofos, por isso relaxam". Mas a ordem é inversa: o leitor se sente curado porque ele primeiro entrou honestamente no isolamento, na morte, no desencontro — os lugares mais escuros — e saiu trazendo um pouco de luz. O consolo funciona justamente porque vem de alguém que realmente esteve no aquário. Lu Jung-chih diz que sua obra "nunca é realista, sempre traz um tom onírico, surreal". Essa camada onírica é uma técnica de tradução: transformar a realidade insuportável numa forma que se consegue ler.
+> 🎙️ **Nota do Curador**: Ao colocar esses quatro livros lado a lado, percebe-se que o rótulo "terapêutico" na verdade inverte a causalidade. O entendimento comum é: "Os desenhos de Jimmy Liao são fofos, por isso relaxam as pessoas". Mas a ordem é exatamente o oposto: os leitores sentem-se curados porque ele primeiro caminha honestamente pelos lugares mais sombrios — o isolamento, a morte, o desencontro — para só então sair carregando um pouco de luz. O conforto é eficaz justamente por ser entregue por alguém que realmente esteve dentro do aquário de vidro. Lu Rong-chi disse que suas obras "nunca são realistas; possuem sempre um tom onírico e surrealista". Essa camada de sonho é uma técnica de tradução: transformar a realidade insuportável em uma forma que o ser humano consiga ler e processar.
 
 ## O Jimmy Liao que sai das páginas
 
