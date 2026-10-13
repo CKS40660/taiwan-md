@@ -85,6 +85,7 @@ satellite-arc | 6 | 衛星
 2025-12 | learning-project 先紅 | 台北軌道視覺化，比旗艦更早爆紅（189★）
 2026-02 | 旗艦誕生 | mini-taiwan-pulse 開張，從靜態 JSON 進化成時空資料庫
 2026-06 | 攤開整套系統 | sciwork 2026 演講：把開放資料交給 Agent 養成的系統
+來源：Migu 的 GitHub 專案紀錄（專案時序與星數）與 sciwork 2026 演講內容[^2][^3]
 ```
 
 ## 同一套做法，從捷運畫到太陽系
