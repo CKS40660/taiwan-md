@@ -29,10 +29,10 @@ rationale:
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:3ae429b55b3339f0'
-sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
-translatedAt: '2026-07-30T03:55:55+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:d85b6c99ab72b318'
+sourceBodyHash: 'sha256:f6ae8560d7e03438'
+translatedAt: '2026-10-13T04:32:15.133024+00:00'
 ---
 
 > **Ringkasan 30 Detik:** _Negara yang Tak Terlihat_ (Invisible Nation) adalah dokumenter karya sutradara AS Vanessa Hope yang disutradarai selama tujuh tahun, mewawancarai Presiden Tsai Ing-wen lima kali secara eksklusif, mendorong sebuah pulau yang dicoret dari PBB, di Olimpiade hanya bisa disebut "Taipei Tionghoa", dan negara sahabatnya turun dari 22 menjadi 12 ke depan lensa dunia. Hadir perdana di Festival Film Woodstock 2023[^1], tayang di bioskop Taiwan Juni 2025, meraup 37,71 juta TWD baru, menduduki peringkat ketiga sejarah dokumenter Taiwan[^2]. Namun film yang ingin membuat Taiwan "terlihat" ini punya sudut buta—yang paling dikritik adalah ketergantungan tujuh tahun pada kerjasama kantor Tsai, serta nama yang tak sekali pun tersebut dari awal hingga akhir: Chen Shui-bian.
@@ -109,28 +109,29 @@ Terbang terakhir datang sangat menusuk: 15 Januari 2024, dua hari pasca pemilu p
 > **📝 Catatan Kurator**
 > Argumen tersembunyi film ada di kurva ini, dan berlawanan dengan intuisi umum. Bayangan lazim: "Taiwan makin kuat, teman makin banyak"; tapi Vanessa Hope menangkap arah lain—Taiwan delapan tahun ini luluskan UU perkawinan sejenis pertama Asia, tahan pandemi, gelar pemilu bersih berulang, tapi negara sahabat justru turun separuh. Makin rapi demokrasinya, makin sedikit negara yang mengakuinya di internasional. Antara melihat dan dilihat, tak ada kausalitas yang logis.
 
-## Hari Massa Berteriak "Kami Orang Taiwan"
+## Hari Itu Massa Berteriak "Kita Orang Taiwan"
 
-Buka garis waktu demokratisasi Taiwan, kau lihat pulau ini langkah demi langkah, mengeluarkan dirinya dari kebisingan.
+Bila garis waktu demokratisasi Taiwan dibentang, terlihat bagaimana pulau ini langkah demi langkah mengeluarkan dirinya dari keheningan.
 
-Lensa Vanessa Hope menargetkan busur demokrasi utuh pulau ini, jauh melampaui delapan tahun Tsai. 1949 Pemerintah Nasionalis pindah ke Taiwan, Taiwan menjalani hukum darurat 38 tahun, efektif 20 Mei 1949, dibuka 15 Juli 1987 oleh Chiang Ching-kuo, salah satu terlama dunia[^21]. Di bawahnya luka 228 dan Teror Putih: laporan resmi Eksekutif memperkirakan korban jiwa 228 antara 18.000–28.000 jiwa, era Teror Putih sekitar 140.000 orang dipenjara[^22].
+Lensa Vanessa Hope mengarah ke seluruh busur demokrasi pulau ini, jauh melampaui delapan tahun Tsai Ing-wen. Setelah Pemerintah Nasionalis pindah ke Taiwan pada 1949, Taiwan mengalami hukum darurat selama 38 tahun, efektif sejak 20 Mei 1949 hingga dicabut oleh Chiang Ching-kuo pada 15 Juli 1987, salah satu hukum darurat terlama di dunia saat itu[^21]. Di baliknya tersimpan luka Peristiwa 28 Februari dan Terra Putih: laporan resmi Eksekutif Yuan memperkirakan korban jiwa Peristiwa 28 Februari antara 18.000 hingga 28.000 orang, dan sekitar 140.000 orang dipenjara selama era Terra Putih[^22].
 
 ```tw-timeline
-1987 | Hukum darurat dicabut | Chiang Ching-kuo cabut hukum darurat 38 tahun, salah satu terlama dunia
-1996 | Pemilihan presiden langsung pertama | Lee Teng-hui terpilih di tengah rudal lawan, pertama rakyat Taiwan pilih presiden langsung
-2000 | Pergantian kekuasaan partai pertama | Chen Shui-bian DPP terpilih, pertama pergantian kekuasaan damai pasca otoriter
-2014 | Gerakan Bunga Matahari | Mahasiswa menduduki Legislatif 24 hari, menolak Perjanjian Perdagangan Jasa Lintas Selat
-2019 | Perkawinan sejenis sah | 17 Mei DPR lulus UU khusus, Taiwan jadi pertama Asia
+1987 | Hukum Darurat Dicabut | Chiang Ching-kuo mencabut hukum darurat 38 tahun, salah satu terlama di dunia
+1996 | Pemilihan Presiden Langsung Pertama | Lee Teng-hui terpilih di tengah uji coba rudal lawan, pertama kali orang Taiwan langsung memilih presiden
+2000 | Pergantian Kekuasaan Partai Pertama | Chen Shui-bian dari DPP terpilih, pertama kali transisi kekuasaan damai setelah era otoriter
+2014 | Gerakan Bunga Matahari | Mahasiswa menduduki Yuan Legislatif 24 hari, menentang Perjanjian Perdagangan Jasa Lintas Selat
+2019 | Legalisasi Perkawinan Sejenis | 17 Mei Yuan Legislatif mengesahkan undang-undang khusus, Taiwan menjadi yang pertama di Asia
+Sumber: Kronologi demokratisasi yang dikutip artikel ini (pencabutan hukum darurat 1987, pemilihan presiden langsung 1996, Bunga Matahari 2014, perkawinan sejenis 2019) serta liputan primer terkait[^21][^23][^24][^25]
 ```
 
-Tiap node garis ini, adalah aksi "mengubah tak terlihat jadi terlihat". 23 Maret 1996, Lee Teng-hui di tengah rudal lawan terpilih 54%, pertama rakyat Taiwan memilih presiden sendiri[^23]. Maret 2014, mahasiswa menduduki Legislatif 24 hari, menolak perjanjian perdagangan jasa lawan, Gerakan Bunga Matahari kemudian membentuk ulang kesadaran politik seluruh generasi[^24]. 17 Mei 2019, DPR lulus UU perkawinan sejenis, Hsiao Bi-khim di film bercerita soal ini; Taiwan jadi pertama Asia legalisasi perkawinan sejenis[^25].
+Setiap node pada garis ini adalah aksi "mengubah yang tak terlihat jadi terlihat". Pada 23 Maret 1996, Lee Teng-hui terpilih dengan 54% suara di tengah uji coba rudal lawan, pertama kali orang Taiwan memilih presiden mereka sendiri[^23]. Maret 2014, mahasiswa menduduki Yuan Legislatif 24 hari, menentang Perjanjian Perdagangan Jasa dengan lawan, Gerakan Bunga Matahari ini kemudian membentuk ulang kesadaran politik seluruh generasi[^24]. 17 Mei 2019, Yuan Legislatif mengesahkan undang-undang perkawinan sejenis; Hsiao Bi-khim menceritakan ini dalam film; Taiwan menjadi tempat pertama di Asia yang legalisasi perkawinan sejenis[^25].
 
-![Oktober 2015 Taipei satu acara kampanye Tsai Ing-wen, penonton melambaikan bendera, lampu berkelip, suasana persis adegan film "massa berteriak kita orang Taiwan"](/article-images/people/tsai-2016-campaign.webp)
-_Oktober 2015, penonton kampanye Tsai Ing-wen. Vanessa Hope bilang, tepat 2016 di lapangan pemilu massa berteriak ke Tsai "Kami orang Taiwan" itulah yang memutuskan dia sutradarai film ini. Foto: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
+![Acara kampanye Tsai Ing-wen di Taipei Oktober 2015, pendukung di bawah panggung melambaikan bendera, cahaya berkelip, tepat suasana adegan "massa berteriak Kita Orang Taiwan" dalam film Vanessa Hope](/article-images/people/tsai-2016-campaign.webp)
+_Oktober 2015, pendukung di panggung kampanye Tsai Ing-wen. Vanessa Hope bilang, justru momen 2016 massa berteriak "Kita Orang Taiwan" ke arah Tsai Ing-wen yang memutuskan dia bikin film ini. Foto: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
 
-Dan momen yang benar-benar menyalakan Vanessa Hope, adalah lapangan pemilu 2016, massa berteriak ke Tsai Ing-wen "Kami orang Taiwan"[^5]. Saat itu seluruh pulau ini di hadapan kamera, menamakan dirinya sendiri, lebih berat dari catatan kaki pergantian kekuasaan partai.
+Dan momen yang benar-benar memantik Vanessa Hope adalah di panggung pemilu 2016, massa berteriak ke arah Tsai Ing-wen "Kita Orang Taiwan"[^5]. Saat itu seluruh pulau di hadapan kamera menyebut namanya sendiri, aksi yang lebih berat dari sekadar catatan kaki kronologis pergantian kekuasaan partai.
 
-Film juga menyimpan potongan bikin banyak warga Taiwan berkaca-kaca: menjelang pemilu 2016, penyanyi Taiwan 16 tahun Chou Tzuyu, karena melambaikan bendera Republik Tiongkok di variety show Korea, dipaksa membaca naskah minta maaf ke kamera[^26]. Seorang gadis 16 tahun dipaksa meminta maaf atas bendera sendiri, keesokan harinya warga Taiwan menjawab dengan suara suara. Potongan ini jadi salah satu titik air mata paling berat film.
+Film ini juga memasukkan klip yang membuat banyak orang Taiwan berkaca-kaca: menjelang pemilu 2016, penyanyi wanita Taiwan berusia 16 tahun Chou Tzuyu, karena melambaikan bendera Republik Tiongkok di acara variety Korea, dipaksa membaca naskah permintaan maaf di hadapan kamera[^26]. Seorang gadis 16 tahun dipaksa meminta maaf atas bendera miliknya sendiri, keesokan harinya orang Taiwan menjawab dengan suara mereka. Klip peristiwa ini jadi salah satu puncak air mata paling berat dalam film.
 
 ## Bayar Sendiri Nonton Diri Sendiri
 
