@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-13T19:57:00+08:00",
-    "zhCommitHead": "f49e1d5d3",
+    "lastUpdated": "2026-10-13T19:59:47+08:00",
+    "zhCommitHead": "b68565c21",
     "totalZh": 1131,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1131,
-        "fresh": 1122,
-        "stale": 4,
+        "fresh": 1123,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -1716,20 +1716,18 @@
         "ru": {
           "path": "ru/Music/golden-melodies-legacy-taiwan-pop-music.md",
           "translatedFrom": "Music/台灣流行音樂.md",
-          "sourceCommitSha": "1e1040928",
-          "sourceContentHash": "sha256:4517347444f75a1c",
-          "sourceBodyHash": "sha256:eb706bc3431ec070",
-          "translatedAt": "2026-09-24T05:35:14.656141+00:00",
+          "sourceCommitSha": "a266eaa96",
+          "sourceContentHash": "sha256:9dd098f7a5a51bd9",
+          "sourceBodyHash": "sha256:7e4e331322aaf847",
+          "translatedAt": "2026-10-13T11:59:24.128367+00:00",
           "translationLastCommit": "07c8467d",
           "translationLastModified": "2026-10-10T23:00:26+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "bytes": 82487,
+          "bytes": 84721,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -33808,8 +33806,8 @@
           "sourceContentHash": "sha256:55fb6b319600e482",
           "sourceBodyHash": "sha256:f51b3f32440df15e",
           "translatedAt": "2026-10-13T08:52:57+08:00",
-          "translationLastCommit": "69b8c669",
-          "translationLastModified": "2026-09-14T17:20:37+08:00",
+          "translationLastCommit": "b68565c2",
+          "translationLastModified": "2026-10-13T19:57:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 29424,
@@ -103640,11 +103638,11 @@
           "sourceContentHash": "sha256:144c002ad03fa8d4",
           "sourceBodyHash": "sha256:04e767238ef4084f",
           "translatedAt": "2026-10-13T10:21:16.973969+00:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "b68565c2",
+          "translationLastModified": "2026-10-13T19:57:00+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 45069,
+          "bytes": 45073,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
