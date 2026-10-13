@@ -2,9 +2,7 @@
 title: "The Reporter : dix ans pour faire du journalisme d'enquête, d'une activité commerciale, un bien public"
 description: "De 4 donateurs mensuels réguliers à 8 000 par mois, de la trilogie « Les pêcheries de sang et de larmes » au dossier 2026 sur le front uni, les coûts que The Reporter a brûlés en dix ans - huit mois d'infiltration, des reportages dans trois pays, la comparaison de dossiers d'infractions sur plusieurs années - correspondent précisément à ce que l'ère algorithmique donne le moins envie de payer pour lire. La société civile de cette île, par des prélèvements mensuels effectués par des inconnus, a sauvé le journalisme d'enquête d'une ligne d'activité des médias commerciaux pour en faire un bien public sans cesse entretenu, mais dont le coût brûle toujours plus vite."
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '媒體與新聞'
 tags:
   [
     'médias',
@@ -14,9 +12,22 @@ tags:
     'société civile',
     'Ho Jung-hsing',
   ]
+subcategory: '媒體與新聞'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/報導者-evolve-20260614.md'
+viewpoint_formed: true
+image: '/article-images/society/the-reporter-brand-logo.webp'
+imageCredit: '報導者 The Reporter'
+imageLicense: 'Fair use（editorial commentary）'
+imageSource: 'https://www.twreporter.org'
+rationale:
+  why_this_hook: '「燒錢的速度永遠跑在募款前面」抓住非營利調查報導的核心張力：成本結構與收入結構的賽跑，比「公民媒體很偉大」誠實也更有戲。'
+  whats_excluded: '不評報導者的政治立場；童子賢民進黨智庫副董的政治傾向質疑無事實佐證，不寫；2000 萬初始捐助為市場傳言，只採官方確認的 500 萬；坊間「年收逾 9000 萬」與官方募款收入口徑不同，不混用。'
+  where_it_hedges: '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。'
+  whos_pushing_back: 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'
 sporeLinks:
   - id: 144
     platform: 'threads'
@@ -27,14 +38,10 @@ sporeLinks:
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:46044d1881e9332e'
-sourceBodyHash: 'sha256:ca526dda99de158c'
-translatedAt: '2026-06-17T01:18:26+08:00'
-image: '/article-images/society/the-reporter-brand-logo.webp'
-imageCredit: '報導者 The Reporter'
-imageLicense: 'Fair use（editorial commentary）'
-imageSource: 'https://www.twreporter.org'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:00bd13342bc6cb3c'
+sourceBodyHash: 'sha256:d77e750f6664a705'
+translatedAt: '2026-10-13T02:40:43.092526+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :** The Reporter est le premier média numérique d'enquête non lucratif de Taïwan financé par les dons citoyens. Lors de sa mise en ligne en décembre 2015, il ne comptait que 4 donateurs mensuels réguliers, un chiffre que son fondateur Ho Jung-hsing n'osait pas révéler à ses collègues[^1]. Dix ans plus tard, en octobre 2025, ce nombre était passé à environ 8 000, avec un prochain objectif fixé à 10 000[^2]. Le média a produit « Les pêcheries de sang et de larmes », une enquête menée jusque dans trois pays[^3], a révélé l'affaire des travailleurs noirs piégés par l'endettement qui a valu à un responsable de l'Université Chung Chou une peine de 5 ans et 6 mois[^4], et a publié « La vague Chokubi », après quoi le ministère de la Santé et du Bien-être a réformé les règles imposant la formation PGY avant la pratique de la médecine esthétique[^5]. Sa discipline publiquement proclamée tient en trois formules : « ne pas posséder, ne pas intervenir, ne pas récupérer »[^6]. Les coûts que The Reporter ne peut pas réduire sont précisément ce que l'ère algorithmique donne le moins envie de payer pour lire ; cette île, par des prélèvements mensuels de 200 ou 300 dollars taïwanais effectués auprès d'inconnus, a transformé le journalisme d'enquête d'une activité déficitaire en un bien public sans cesse reconduit, entretenu en permanence, mais dont le coût brûle toujours plus vite.
@@ -61,26 +68,27 @@ Donateurs mensuels réguliers, du premier mois de mise en ligne en 2015 au dixi�
 Podcast du dixième anniversaire de The Reporter, 2025-10
 ```
 
-## Ne pas posséder, ne pas intervenir, ne pas récupérer
+## Pas de propriété, pas d'ingérence, pas de retrait
 
-La [page officielle « À propos de nous »](https://www.twreporter.org/about-us) de The Reporter condense l'engagement pris envers les donateurs en trois verbes : ne pas posséder, ne pas intervenir, ne pas récupérer[^18].
+Sur la [page « À propos » du site officiel de The Reporter](https://www.twreporter.org/about-us), l'engagement envers les donateurs est résumé en trois verbes : ne pas posséder, ne pas interférer, ne pas retirer[^18].
 
-« Ne pas posséder » signifie que les donateurs, quel que soit le montant donné, n'obtiennent ni parts ni pouvoir de décision sur la ligne éditoriale. « Ne pas intervenir » signifie que les donateurs ne peuvent donner d'instructions sur le contenu, le moment ou l'orientation d'un reportage précis. « Ne pas récupérer » signifie qu'une fois entré, le don devient un coût du travail journalistique de The Reporter ; il ne sera pas restitué pour quelque raison que ce soit et ne sera pas traité comme un levier pouvant être retiré à tout moment.
+« Ne pas posséder » signifie que les donateurs n'acquièrent aucun droit de propriété ou pouvoir décisionnel sur la ligne éditoriale en fonction du montant de leur contribution. « Ne pas interférer » signifie que les donateurs ne peuvent donner d'instructions sur le contenu, le moment de publication ou l'orientation d'un reportage spécifique. « Ne pas retirer » signifie qu'une fois les fonds versés, cet argent devient un coût opérationnel pour le travail journalistique de _The Reporter_ ; il ne sera remboursé sous aucun prétexte et ne pourra être utilisé comme une monnaie d'échange que l'on pourrait retirer à tout moment.
 
-Ces trois phrases ressemblent à un texte de communication RSE d'entreprise, mais le problème qu'elles cherchent réellement à résoudre est structurel et hante les médias taïwanais depuis trente ans : les patrons interviennent, les annonceurs retirent leurs campagnes, les gouvernements distillent des informations. Presque aucun média commercial taïwanais ne peut se défaire complètement d'au moins l'une de ces trois lignes. La solution de The Reporter consiste à les couper à la source par la structure organisationnelle : pas d'actionnaires, pas de publicité, pas de marchés publics. L'appel moral ne sauve pas une structure ; seule la conception institutionnelle peut l'encaisser.
+Ces trois phrases ressemblent à du matériel promotionnel sur la RSE (Responsabilité Sociétale des Entreprises), mais elles visent en réalité à résoudre un problème structurel qui emprisonne le secteur des médias à Taïwan depuis trente ans : l'ingérence des propriétaires, la pression des annonceurs et les fuites d'informations gouvernementales. Presque aucun média commercial taïwanais n'a pu s'affranchir totalement d'au moins une de ces trois contraintes. La solution de _The Reporter_ consiste à couper ces liens dès la source grâce à sa structure organisationnelle : pas d'actionnaires, pas de publicité, pas de marchés publics gouvernementaux. Les appels à l'éthique ne peuvent sauver une structure ; seule la conception organisationnelle peut la soutenir.
 
 ```tw-versus
 Médias commerciaux taïwanais | The Reporter
-Le patron est une société cotée, un parti politique ou une famille | Le patron est formé par 8 000 inconnus qui donnent chaque mois
-Les annonceurs peuvent retirer leurs campagnes pour faire pression | Aucune publicité commerciale acceptée
-Le taux de clics décide du prochain article | Aucun écran de taux de clics dans la rédaction
+Le propriétaire est une société cotée, un parti politique ou une famille | Le propriétaire est constitué de 8 000 donateurs mensuels anonymes
+Les annonceurs peuvent retirer leurs contrats pour faire pression | N'accepte aucune publicité commerciale
+Le taux de clics détermine le prochain sujet | Il n'y a pas d'écran affichant les clics dans la rédaction
+Source : Page « À propos » du site officiel de The Reporter (ne pas posséder, ne pas interférer, ne pas retirer) et données sur la structure des médias taïwanais citées dans cet article[^18]
 ```
 
-Le détail du don personnel de 5 millions de dollars taïwanais effectué par Tung Tzu-hsien pour créer la fondation est une information de première main rendue publique officiellement[^19]. Une version selon laquelle Tung Tzu-hsien aurait donné 20 millions au départ a ensuite circulé, mais ce chiffre n'a pas été confirmé officiellement et relève davantage de la rumeur de marché ; le seul fait solide que l'on puisse établir est le montant de 5 millions[^20]. L'essentiel réside dans ce dispositif en trois temps : don personnel, détention par une fondation, refus de la publicité. L'ampleur exacte du chiffre importe moins. Même si Tung Tzu-hsien est ensuite devenu vice-président d'un groupe de réflexion du Parti démocrate progressiste, les statuts de la fondation ne lui permettent pas de donner des instructions sur un article précis.
+Le détail concernant le don personnel de 5 millions de NT$ par Tung Tzu-hsien pour fonder la fondation est une information officielle ayant été rendue publique[^19]. Une version circulant dans le milieu suggérait que « Tung Tzu-hsien avait initialement donné 20 millions », mais ce chiffre n'a pas été confirmé officiellement et se rapproche davantage d'une rumeur de marché ; la seule donnée factuelle certaine est de 5 millions de NT$[^20]. L'important réside dans cette conception tripartite — « don personnel + détention par la fondation + refus de la publicité » — le montant lui-même étant secondaire. Même si Tung Tzu-hsien a ultérieurement occupé le poste de vice-président d'un think tank du DPP, les statuts de la fondation l'empêchent de donner des instructions sur un reportage individuel.
 
-La FAQ officielle comporte un autre passage expliquant pourquoi ce média n'affiche pas les taux de clics : « Nous souhaitons sortir du mythe du taux de clics, car le trafic n'équivaut pas entièrement à la valeur d'un reportage, ni à la confiance et à l'influence »[^21]. Dans l'univers des médias en ligne en 2026, cette discipline est devenue extrêmement rare. Sur la plupart des sites d'information, chaque article affiche en temps réel le nombre de lecteurs, de partages sociaux et de commentaires ; les rédactions décident du prochain sujet à partir de ces chiffres. Dans la rédaction de The Reporter, cet écran n'existe pas.
+Une autre section de la FAQ officielle explique pourquoi ce média n'affiche pas le nombre de vues : « Nous souhaitons nous détacher du mythe du taux de clics, car le trafic n'est pas totalement synonyme de valeur journalistique, ni de confiance ou d'influence »[^21]. En 2026, cela constitue une discipline devenue rare dans le monde des médias numériques, où la plupart des sites d'information affichent en temps réel sous chaque article le nombre de lecteurs, de partages sur les réseaux sociaux et de commentaires, la rédaction décidant du prochain sujet en fonction de ces chiffres. Dans la rédaction de _The Reporter_, cet écran n'existe pas.
 
-Fin août 2018, l'ancien ministre de l'Éducation Huang Jong-tsun a pris la présidence du second conseil d'administration[^22]. Les renouvellements du conseil, les passages de relais au poste de rédacteur en chef et les changements de fonction du directeur général sont devenus des faits ordinaires dans cette organisation, mais les trois phrases du « principe des trois non » n'ont jamais été modifiées. Elles sont devenues une règle domestique gravée dans l'encadrement de la porte : toute personne qui entre travailler dans cette organisation sait qu'il y a trois choses auxquelles on ne touche pas.
+Fin août 2018, l'ancien ministre de l'Éducation Huang Rong-tsun a succédé au président du conseil d'administration pour un second mandat[^22]. Le renouvellement du conseil d'administration, le passage de relais à l'éditeur en chef ou la reconversion du directeur général sont des événements normaux au sein de cette organisation, mais les trois principes de la « règle des trois non » n'ont jamais été modifiés. Ils sont devenus une sorte de règle familiale gravée sur le cadre de la porte : tous ceux qui rejoignent cette organisation savent qu'il y a trois choses qu'ils ne doivent pas toucher.
 
 ## Les yeux des pêcheurs : plus de cent personnes interrogées, un septième à l'étranger
 
