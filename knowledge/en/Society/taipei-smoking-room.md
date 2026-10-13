@@ -2,9 +2,7 @@
 title: 'Taipei Smoking Room: The Glass Box That Breathes in a Smoke-Free City'
 description: "2026 May 7, a transparent box was erected next to Exit 6 of Ximen MRT Station, Taiwan's first outdoor negative-pressure smoking booth; when the door opens, wind blows in but does not escape. Taipei aims to be a smoke-free city, yet it first built a glass house for smoking on the street. From the 1984 case where a strict path removed a lung lobe, to indoor secondhand smoke dropping to 3.2% while nearly half remains outdoors, this box holds a legal cigarette and a city's unfinished public-space contract."
 date: 2026-07-13
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Society'
 tags:
   [
     'smoking room',
@@ -16,10 +14,17 @@ tags:
     'Ximending',
     'e-cigarette',
   ]
-readingTime: 17
+subcategory: 'Society'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-07-13
 lastHumanReview: false
-featured: false
+readingTime: 17
+researchReport: 'reports/research/2026-07/台北吸菸室.md'
+image: '/article-images/society/taipei-ximending-smoking-booth-2026.webp'
+imageCredit: '花花日報 / 記者章湘瑩'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://n.yam.com/Article/20260518246667'
 sporeLinks:
   - id: 155
     platform: 'threads'
@@ -29,15 +34,12 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-14'
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
+relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495'
-sourceContentHash: 'sha256:38028701b07f0fef'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-07-15T00:51:51+08:00'
-image: '/article-images/society/taipei-ximending-smoking-booth-2026.webp'
-imageCredit: '花花日報 / 記者章湘瑩'
-imageLicense: 'Fair use editorial commentary'
-imageSource: 'https://n.yam.com/Article/20260518246667'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:f6e388583def59a6'
+sourceBodyHash: 'sha256:0879f11101fa0c2c'
+translatedAt: '2026-10-13T07:04:02.882576+00:00'
 ---
 
 _Ximen MRT Exit 6, Taiwan’s first outdoor negative‑pressure smoking room: a black‑framed transparent glass box standing on the sidewalk. Photo: Hua Hua Daily / Reporter Chang Hsiang‑ying (fair use editorial commentary)._
@@ -112,27 +114,28 @@ Why does this design become “negative pressure” rather than Osaka’s fully 
 
 As for cost, the city has not released a itemized budget. In legislative questioning it cited a planning estimate of roughly NT$1.5 million per unit, projecting total expenses of about NT$100 million by end‑June[^20]. On the other side, the National Congress of Parent‑Teacher Associations chairman Tao Lian‑sheng questioned the cost‑effectiveness from a cost‑benefit angle: outdoor smoking rooms require independent compartments, independent air‑conditioning, negative‑pressure design, and automatic doors; “if the ‘cannot smell smoke’ effect isn’t achieved, yet tens of thousands to hundreds of thousands of NT dollars are still spent, the cost‑benefit is clearly poor.”[^21] One set is the city’s planning baseline; the other is a parent‑group’s critical estimate. Though the numbers differ in nature, both point to the same question: Is this box worth it?
 
-## Even Anti‑Tobacco Advocates Are Up in Arms
+## Even the Anti‑Smoking Camp Is Fighting
 
-If opposition came only from cost‑concerned parents, the issue would be simple. What truly complicates it is that even the anti‑tobacco camp is split—not on whether to oppose tobacco, but on how to oppose it.
+If the only opposition came from parents complaining about the cost, the picture would be simple. What makes this complicated is that the anti‑smoking camp itself has broken into open argument — not over _whether_ to fight tobacco, but _how_.
 
-The Taiwan Anti‑Smoking Alliance and the Dong Foundation are clear‑cut: they oppose building enclosed negative‑pressure smoking rooms outdoors. Dong Foundation Tobacco‑Harm Prevention Center director Lin Ching‑li argues “implement indoor total smoking ban first from the inside out, then open designated outdoor smoking spots,” and bluntly states “a smoke‑free city should make smoking inconvenient, not install smoking pavilions everywhere.”[^22] In their logic, the more comfortable the smoking room, the more it paves the way for smoking, moving further from the original goal of getting people to quit. This stance isn’t new; as early as 2011 the Dong Foundation criticized Taoyuan Airport’s plan to restore indoor smoking rooms.
+The Taiwan Anti‑Smoking Alliance and the Dong Foundation hold a clear line: they oppose building enclosed, negative‑pressure smoking rooms outdoors. Lin Ching‑li, director of the Dong Foundation’s Tobacco Control Center, argues for an “inside‑out” approach: “First achieve one‑hundred‑percent indoor smoke‑free, then designate outdoor smoking points.” She states bluntly: “A smoke‑free city should make things inconvenient for smokers, not blanket the city with smoking kiosks.”[^22] In their logic, the more comfortable the smoking room, the more it paves the way for smoking — drifting further from the original goal of helping people quit. This isn’t a new position; as early as 2011 the Dong Foundation criticized Taoyuan Airport’s plan to bring back indoor smoking rooms.
 
 ```tw-versus
-Harm reduction: put the smoker in a box | Harm reduction: make smoking harder
-Acknowledge that people still smoke, give them a non‑bothersome corner | Goal: keep smoking rates falling
-Concentrate smoke and butts, keep the streets clean | The less convenient, the more likely people smoke less or quit
-Current administration’s diversion approach | Anti‑tobacco groups and part of the medical community’s claim
+Harm reduction: corral the smoke into a box | Reduction: make smoking harder and harder
+Acknowledge some people still smoke, give them a corner that doesn’t bother others | Goal: keep driving the smoking rate down
+Centralized management of smell and butts, cleaner streetscape | The less convenient, the more likely people smoke less or quit outright
+Current city government’s diversion logic | Anti‑smoking groups’ and part of the medical community’s stance
+Source: Taipei City Council interpellation and parent‑group cost‑benefit estimates (CNA etc.) + Taiwan Anti‑Smoking Alliance and Dong Foundation positions[^20][^21][^22]
 ```
 
-Taipei National University Hospital family‑medicine physician and secretary‑general of the Taiwan Medical Alliance for Tobacco Harm Prevention, Kuo Fei‑ran, puts it even deeper. In his op‑ed he cites the WHO Framework Convention on Tobacco Control, noting that any ventilation, air‑filtration equipment, or designated smoking room cannot prevent secondhand‑smoke exposure—“there is no safe level of secondhand‑smoke exposure.”[^23] His sharpest sentence targets the very existence of this box.
+NTU Hospital Family Medicine attending physician and Taiwan Medical Alliance for Tobacco Control Secretary‑General Kuo Fei‑ran goes a layer deeper. In a contributed article he cites the WHO Framework Convention on Tobacco Control, noting that no ventilation, air‑filtration equipment, or designated smoking room can prevent secondhand‑smoke exposure: “There is no safe level of exposure to secondhand smoke.”[^23] His sharpest line targets the side‑effect of the box’s very existence.
 
 ```tw-quote
-I strongly support a smoke‑free city, but please do not set up outdoor enclosed smoking rooms; do not promote that smoking rooms have negative pressure or filtration and therefore have no secondhand smoke; do not, for a good purpose, spread mistaken ideas.
-Kuo Fei‑ran | Taipei National University Hospital Family‑Medicine Physician, Secretary‑General of Taiwan Medical Alliance for Tobacco Harm Prevention, 2026
+Strongly support a smoke‑free city, but don’t set up outdoor enclosed smoking rooms; don’t claim that because a smoking room has negative pressure and filtration there’s no secondhand smoke; don’t promote a wrong concept for a good‑hearted purpose.
+Kuo Fei‑ran | NTU Hospital Family Medicine physician, Secretary‑General of Taiwan Medical Alliance for Tobacco Control, 2026
 ```
 
-> 📝 **Curator’s note:** Kuo Fei‑ran’s comment hides an easily overlooked mechanism. A glass box flashing futuristic vibes and boasting “four filter layers” suggests “having equipment equals safety”: when you see smoke sucked into a high‑tech box, you instinctively think the secondhand‑smoke problem has been solved. Yet scientifically, that sense of security doesn’t hold. The 2006 U.S. Surgeon General’s report concluded that even independently sealed, independently vented negative‑pressure smoking rooms cannot stop secondhand smoke from seeping into neighboring areas[^24]. WHO and the American Society of Heating, Refrigerating and Air‑Conditioning Engineers agree. The glass house is both a thoughtful compromise and possibly a safety net that lets people lower their guard—these two things can be true at once.
+> 📝 **Curator’s Note**: Kuo’s remark hides a mechanism that is easy to miss. A futuristic‑looking glass box touting “four‑stage filtration” implies “equipment equals safety”: when you see the smoke sucked into a high‑tech box, you instinctively feel the secondhand‑smoke problem has been handled. Scientifically, that reassurance doesn’t hold. The 2006 U.S. Surgeon General’s Report concluded that even separately enclosed, separately exhausted negative‑pressure smoking rooms cannot stop secondhand smoke from seeping into adjacent areas.[^24] The WHO and ASHRAE take the same position. The glass house is both a considerate compromise and a potential guardrail that lets people lower their guard — both things can be true at the same time.
 
 ## The Kyoto Study That Was Actually Measuring Something Else
 

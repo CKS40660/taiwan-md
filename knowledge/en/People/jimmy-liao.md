@@ -1,10 +1,13 @@
 ---
 title: 'Jimmy Liao: The Images Treated as Healing Were Brought Back from a Glass Tank by a Leukemia Survivor'
 description: 'In 1995, 37-year-old advertising art director Liao Fu-bin was diagnosed with acute myeloid leukemia and waved to friends through glass from a sterile room. After he was discharged, the “little people” he had once used to earn a living came alive, and he began drawing A Fish with a Smile, The Moon Forgets, Turn Left, Turn Right, and Sound of Colors. Behind what Taiwanese people remember as healing, youth-culture, and Jimmy Square in Luodong, Yilan, was a man who had gone through hell, translating death and loneliness into forms that could be read. Those works later grew into a domain spanning film, musicals, circus, and public art, with a 25th-anniversary special exhibition still being held in Hong Kong in 2026.'
+rationale:
+  why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
+  whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
+  where_it_hedges: '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。'
+  whos_pushing_back: '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Art and Design',
@@ -15,17 +18,19 @@ tags:
     'Yilan',
     'Film Adaptation',
   ]
-readingTime: 12
+subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
-translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:8843f64848a3d381'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: /article-images/people/jimmy-liao-square-yilan-2016.webp
+readingTime: 12
+image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
+translatedFrom: 'People/幾米.md'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T07:44:38.596191+00:00'
 ---
 
 # Jimmy Liao: The Images Treated as Healing Were Brought Back from a Glass Tank by a Leukemia Survivor
@@ -78,42 +83,43 @@ In Taiwan in the late 1990s, martial law had only been lifted a few years earlie
 
 The reason Jimmy Liao’s images could move from one person’s self-healing into gifts exchanged by an entire generation was that what he drew happened to be what many people could not say aloud. At that time, his images were everywhere: in cafés, on dormitory walls, in metro stations. When couples broke up, friends were frustrated, or someone was leaving for military service, a Jimmy Liao book was never the wrong gift. The drawings he made for himself in a hospital room unexpectedly became the common language of an entire generation, an unspoken code everyone understood.
 
-## Each Book Was a Descent
+## Every Book is a Deep Dive
 
-When Jimmy Liao’s representative works are spread out, one easily overlooked fact becomes clear: almost every one of those images treated as healing begins in a very dark place.
+If you lay out Jimmy Liao's representative works, you will discover something easily overlooked: almost every one of those "healing" illustrations begins from a very dark place.
 
 ```tw-timeline
-1958 | Born in Luodong, Yilan | Birth name Liao Fu-bin
-1995 | Diagnosed with leukemia (AML) | Age 37; five months of chemotherapy; the true starting point of his creation
-1998 | First two picture books both win three major newspaper children’s-book awards in the same year | Secrets in the Woods and A Fish with a Smile
-1999 | Turn Left, Turn Right and The Moon Forgets | Missed encounters and death as two main axes
-2001 | Sound of Colors | The blind girl he drew in the year he survived past the fifth year
-2003 | Four films released | Including the Venice Film Festival competition title The Floating Landscape
-2009 | Starry Starry Night | Adapted into a 2011 film, with Mayday singing the theme song
-2013 | Jimmy Square opens in Yilan | The first of its kind in Taiwan
-2019 | Solo exhibition at Museo ABC in Madrid | First in Europe, with 174 original works
-2026 | Hong Kong 25th-anniversary special exhibition Serendipitous Glimmers | Harbour City Gallery
+1958 | Born in Luodong, Yilan | Real name: Liao Fu-bin
+1995 | Diagnosed with Acute Myeloid Leukemia (AML) | Age 37; five months of chemotherapy; the true starting point of his creation
+1998 | First two picture books win three major newspaper children's book awards in the same year | 《森林裡的祕密》 (Secret in the Forest), 《微笑的魚》 (Fish with a Smile)
+1999 | 《向左走·向右走》 (Turn Left, Turn Right), 《月亮忘記了》 (The Moon Forgets) | Themes of missed connections and death
+2001 | 《地下鐵》 (Metro) | Depicts a blind girl, drawn during his fifth year of survival
+2003 | Four films released | Includes the Venice Film Festival competition entry 《戀之風景》 (Landscape of Love)
+2009 | 《星空》 (Starry Starry Night) | Adapted into a film in 2011; theme song by Mayday
+2013 | Yilan Jimmy Liao Square opens | The first of its kind in Taiwan
+2019 | Solo exhibition at Museo ABC, Madrid | First in Europe, featuring 174 original works
+2026 | Hong Kong 25th Anniversary Special Exhibition 《偶然相遇的微光》 (Glimmer of Chance Encounters) | Harbour City Art Museum
+Source: Jimmy Liao official website (jimmyspa.com), Da Kuai Culture, Wikipedia, and various film festival official data; age of diagnosis and chemotherapy duration based on Jimmy Liao's own interviews (see sources at the end of text) [^9][^10]
 ```
 
-> **Sources:** Jimmy Liao’s official website (jimmyspa.com), Locus Publishing, Wikipedia, and official materials from film festivals; age at diagnosis and chemotherapy duration are based on Jimmy Liao’s own interview accounts.
+> **Sources**: Jimmy Liao official website (jimmyspa.com), Da Kuai Culture, Wikipedia, various film festival official data; age of diagnosis and chemotherapy duration based on Jimmy Liao's own interviews.
 
-A Fish with a Smile is that fish in the glass tank. A man sees a fish in an aquarium that smiles at him, buys it and brings it home, then releases it back into the sea one night. The isolated person, the desire to be confined, and the final act of letting go: when this book was published, Jimmy Liao had only recently walked out of that transparent room. The sentence “Illness was my glass tank” appears in A Fish with a Smile.[^15]
+_Fish with a Smile_ is that fish in the glass tank. A man falls in love with a fish that smiles at him in an aquarium, brings it home, and then releases it back into the sea one night. Isolation, suppressed longing, and final letting go—when this book was published, Jimmy Liao had only recently emerged from that transparent room. The sentence "Illness is my glass tank" was written within _Fish with a Smile_. [^15]
 
-The Moon Forgets was published in October 1999 and created on the eve of the 921 earthquake. Its origins were three real events: a former colleague at Jimmy Liao’s advertising company jumped from the roof during lunch break, leaving behind a wife and daughter; the husband of a close friend died of a cerebral hemorrhage while attending a meeting in Beijing; and there was a major blackout in Taipei.[^16] Beneath a picture book that looks gentle and speaks of the moon lie two deaths and a city suddenly plunged into darkness. Jimmy Liao said he “owed the moon a story.”[^48] The official description of the book says: “Carloads of smiling moons are transported to every sorrowful dark city.”[^17] Death, in his hands, became round after round of moons that could shine and be sent out to comfort people.
+_The Moon Forgets_ was published in October 1999, created on the eve of the 921 Earthquake. Its origins lie in three real events: a former colleague at Jimmy Liao's advertising agency jumped from a rooftop during lunch break, leaving behind a wife and daughter; a close friend's husband passed away from a cerebral hemorrhage while attending a conference in Beijing; and a major blackout in Taipei. [^16] A picture book that looks gentle and tells of the moon actually carries the weight of two lives and a city suddenly plunged into darkness. Jimmy Liao said he "owed the moon a story." [^48] An official description of the book is: "Carloads of smiling moons, delivered to every sorrowful, dark city." [^17] He painted death as rounds of glowing moons sent out to comfort people.
 
-Sound of Colors was published in 2001, the fifth year after Jimmy Liao became ill. A doctor had once told him: “If you survive past the fifth year, your survival rate can probably increase a great deal.”[^18] For a leukemia patient, the fifth year is a threshold between life and death. That year he drew a blind girl feeling her way through the metro, and the book opens: “The year the angel said goodbye to me at the entrance to the metro, I gradually lost my sight.”[^19]
+_Metro_ was published in 2001, during Jimmy Liao's fifth year of battling illness. A doctor once told him: "If you live past the fifth year, your survival rate will increase significantly." [^18] For an AML patient, the fifth year is a threshold between life and death. That year, he drew a blind girl groping her way through the metro; the book opens with: "The year the angel said goodbye to me at the entrance of the metro, I gradually began to lose my sight." [^19]
 
-That blind girl was his own stand-in, and the entire book was drawn under the shadow of death. He was afraid as he drew it, afraid that before the book was finished, he would have to wave goodbye first. So he later said that “all the words” in this book “were written as a form of encouragement to myself.”[^20] Someone afraid he might not live to see the book published drew a girl who could not see, yet did not stop walking. In truth, that was his own voice cheering himself on at the edge of a cliff; he simply drew that voice so gently that readers mistook it for a bedtime story meant to soothe someone to sleep.
+That blind girl was an avatar of himself; the entire book was drawn under the shadow of death. He was terrified while drawing, fearing that he would have to wave goodbye before the book was even finished. Consequently, he later said that "all the words in this book are a form of encouragement to myself." [^20] A man who feared he wouldn't live to see his book published drew a girl who could not see, yet never stopped walking. That was actually the sound of him cheering himself up on the edge of a cliff, though he drew that voice so gently that readers mistook it for a bedtime story meant to lull one to sleep.
 
-![The Girl Who Turns Left sculpture after nightfall. Turn Left, Turn Right tells of two people who live next door to each other yet miss each other again and again.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
+![The sculpture 〈向左走的女孩〉 (The Girl Walking Left) after nightfall. 《向左走·向右走》 tells the story of two people living next door who repeatedly miss each other.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
 
-By comparison, Turn Left, Turn Right, published in 1999, is the book most remembered by the public, but it is also the cruelest. A girl used to turning left and a boy used to turning right live on opposite sides of the same apartment wall. They are clearly so close, yet they miss each other again and again. The book was inspired by “Love at First Sight,” a poem by Polish poet Wisława Szymborska, the 1996 Nobel laureate in literature, about two strangers who brush past one another though they are already connected.[^54] Missing each other is not an accident; it is the structure of daily life. You think meeting is the miracle, but in fact passing each other by is the norm.
+In contrast, the 1999 _Turn Left, Turn Right_ is the one most remembered by the public, yet it is also the most cruel. A girl accustomed to walking left and a boy accustomed to walking right live on opposite sides of the same apartment wall; though they are so close, they miss each other time and time again. The inspiration for this book came from Polish poet Wisława Szymborska's (1996 Nobel Prize in Literature winner) poem "Love at First Sight," which describes two strangers who brush past each other but are already inextricably linked. [^54] Missing one another is not an accident; missing one another is the structure of daily life: you think a meeting is a miracle, but in reality, brushing past each other is the norm.
 
-The shadow of illness stretched long. Even in A Garden in My Heart, published in 2000, he still wrote: “When I drew this book, the shadow of illness still lingered in my heart.”[^39] The Blue Stone, published in 2006, has been described by some critics as his saddest book. It tells of a blue stone that is split apart, repeatedly fractured, and sent on a journey “gorgeous and full of vicissitudes”; yet Jimmy Liao’s own note did not stop at sadness: “Even a single ray of hope can illuminate the darkness of the entire universe.”[^53] He always left a little light on the other side of darkness. The 2008 book Hide in the Corner of the World reads like a whispered sentence for everyone who can no longer hold on: “Shh — hide in the corner of the world. Please keep quiet, forget time, and return to yourself.”[^40] Starry Starry Night, published in 2009, tells of two lonely adolescents who run away from home. The sentence “Where there is shadow, there must be light” can almost serve as a footnote to all of Jimmy Liao’s work.[^41]
+The shadow of illness stretches long. Even with the 2000 publication of _A Flower Blooms in My Heart Every Day_, he wrote, "While drawing this book, the shadow of illness still lingered in my heart." [^39] Some critics consider the 2006 _Blue Stone_ to be his saddest book, telling of a blue stone that is split open, continuously fragmented, and embarks on a "magnificent yet weathered" journey; however, Jimmy Liao's own annotation does not stop at sadness: "Even a tiny glimmer of hope can illuminate the darkness of the entire universe." [^53] On the other side of the dark, he always leaves a little light. The 2008 _Hide in the Corner of the World_ is like a whisper to everyone who can no longer hold on: "Shh—hide in the corner of the world, please stay quiet, forget about time, and just be yourself." [^40] The 2009 _Starry Starry Night_ tells of two lonely youths running away from home; the line in the book, "Where there is shadow, there must be light," can almost serve as a footnote for Jimmy Liao's entire body of work. [^41]
 
-That smiling fish also swam onto the screen. In 2006, A Fish with a Smile was adapted into a 10-minute animated short without dialogue, co-directed by Lin Po-liang, Alan Tuan, and Shih Chang-chieh, with music by Chen Chien-chi.[^42] It was selected for the Generation section of the 56th Berlin International Film Festival and won a special prize for best short film from the German Children’s Fund.[^43] The loneliness that a Taiwanese person drew in a hospital room was translated into images without a single line of dialogue, understandable around the world.
+That smiling fish also swam onto the screen. In 2006, _Fish with a Smile_ was adapted into a ten-minute animated short film without dialogue, co-directed by Lin Po-liang, Duan Yi-lun, and Shih Chang-chieh, with music by Chen Chien-chi. [^42] It was selected for the Generation section of the 56th Berlin International Film Festival and won the Special Award for Best Short Film from the German Children's Aid organization. [^43] The loneliness drawn by a Taiwanese man in a hospital ward was translated into imagery without a single line of dialogue that the whole world could understand.
 
-> 🎙️ **Curator’s note:** Put these four books side by side, and the label “healing” turns out to have reversed cause and effect. The usual understanding is: Jimmy Liao’s images are cute, so they help people relax. But the sequence is precisely the opposite: readers feel healed because he first honestly entered isolation, death, missed encounters, and other darkest places, then came back out carrying a little light. The consolation works because it is being handed over by someone who truly spent time in the glass tank. Lu Jung-chih said his work “has never been realist; it always carries a somewhat dreamlike, surreal tone.” That layer of dream is a technique of translation: converting unbearable reality into a form a person can bear to read.
+> 🎙️ **Curator's Note**: If you place these four books side-by-side, you will find that the label "healing style" actually reverses cause and effect. The general understanding is "Jimmy Liao's drawings are cute, so they make people relax." But the order is exactly the opposite: readers feel healed because he first honestly walked into the darkest places—isolation, death, missed connections—and then walked out carrying a bit of light. Comfort is effective precisely because it is handed over by someone who has actually stayed in the glass tank. Lu Rong-chi said his works "have never been realism; they always carry a certain dreamy, surreal tone." That layer of dreaminess is a method of translation: turning an unbearable reality into a form that a person can continue to read.
 
 ## Jimmy Liao Beyond the Page
 
