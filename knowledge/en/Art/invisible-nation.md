@@ -2,9 +2,7 @@
 title: 'Invisible Nation: An American Director Spent Seven Years Pressing the Shutter, Filming a Taiwan the World Decided Not to See'
 description: 'In Taiwan theaters in June 2025, a documentary made by an American grossed more than NT$37 million and became the third-highest-grossing documentary in Taiwan''s film history. Vanessa Hope spent seven years and conducted five close-range interviews with Tsai Ing-wen, pushing before the camera a Taiwan removed from the United Nations, whose diplomatic allies fell from 22 to 12, and which can compete in the Olympics only as "Chinese Taipei." But the sharpest question about this film, made to let Taiwan "be seen," is whom it itself leaves outside the frame: seeing has never been a status, but an act.'
 date: 2026-06-13
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '紀錄片'
 tags:
   [
     'Documentary',
@@ -15,18 +13,26 @@ tags:
     'Sovereignty',
     'Invisible Nation',
   ]
+subcategory: '紀錄片'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-13
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:3ae429b55b3339f0'
-sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
-translatedAt: '2026-06-14T00:37:04+08:00'
+researchReport: 'reports/research/2026-06/看不見的國家.md'
 image: '/article-images/art/invisible-nation-tsai-walks.webp'
 imageCredit: '《看不見的國家》（Invisible Nation, dir. Vanessa Hope）官方劇照'
 imageLicense: 'Fair use editorial commentary on Invisible Nation (2023)'
 imageSource: 'https://www.invisiblenation.net/'
+rationale:
+  why_this_hook: '2025-06-11 台灣媒體首映前地震、葛靜文對台灣說「你們不孤單」。具體有日期、人、動作，且把片名「看不見/孤單」的主題在第一個畫面就翻轉，跟結尾「民防課程」與 anchor「看見是一個動作」首尾呼應。'
+  whats_excluded: '影評光譜兩端與政治攻防：(1) 純影評攻擊（Jay Liu「淪為執政黨宣傳」、Guardian「all over the shop」、Screen Daily 配樂過度煽情、NYC Movie Guru「歌功頌德」）已編入 §「自己掏錢看自己」與 §「框外那個沒有名字的男人」；(2) 親 PRC 倡議（George Koo「台灣不是國家」）僅取其「陳水扁省略」這個跨陣營共識的事實觀察，政治結論不採（research §5）；(3) 匿名藍營社群「稅金拍片」假指控已被製片馮賢賢闢謠，prose 收於 §「自己掏錢看自己」；(4) 綠營內「斷代」批評（周玉蔻）編入 §「框外那個沒有名字的男人」。未深入：呂秀蓮受訪（單源 Taipei Times）、PBS extended cut 片長（未確認）、LSE 抗議放映（無可追溯，rumour）。'
+  whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
+  which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
+translatedFrom: 'Art/看不見的國家.md'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:d85b6c99ab72b318'
+sourceBodyHash: 'sha256:f6ae8560d7e03438'
+translatedAt: '2026-10-13T04:18:04.573554+00:00'
 ---
 
 > **30-second overview:** _Invisible Nation_ is a documentary by American director Vanessa Hope, filmed over seven years, with five close-range interviews with then-President Tsai Ing-wen. It pushes before the world's cameras a Taiwan removed from the United Nations, allowed to compete in the Olympics only as "Chinese Taipei," and whose diplomatic allies fell from 22 to 12. The film had its world premiere at the Woodstock Film Festival in 2023[^1], opened in Taiwan theaters in June 2025, grossed more than NT$37.71 million, and became the third-highest-grossing documentary in Taiwan's film history[^2]. But this film, made to let Taiwan "be seen," also has corners its light does not reach. The sharpest questions concern the access it gained through seven years of cooperation with Tsai's office, and the name never mentioned from beginning to end: Chen Shui-bian.
@@ -103,28 +109,29 @@ The final blow was especially glaring: on January 15, 2024, two days after Taiwa
 > **📝 Curator's Note**
 > The film's real argument is hidden in this curve, and it runs opposite to common intuition. The usual assumption is that "the stronger Taiwan becomes, the more friends it will have." What Hope captured points in the other direction: over these eight years, Taiwan passed Asia's first same-sex marriage law, endured the pandemic, and held one clean election after another, yet its diplomatic allies fell by half. The more convincingly Taiwan practiced democracy, the fewer countries recognized it internationally. Between seeing and being seen, there is no straightforward chain of cause and effect.
 
-## The Day the Crowd Shouted "We Are Taiwanese"
+## The Day the Crowds Shouted "We Are Taiwanese"
 
-Spread out the timeline of Taiwan's democratization and you can see how this country, step by step, filmed itself out of silence.
+Unfolding the timeline of Taiwan's democratization reveals how this island has, step by step, captured itself out of silence.
 
-Hope's camera is trained on the whole democratic arc of Taiwan, not merely Tsai Ing-wen's eight years. After the ROC government relocated to Taiwan in 1949, Taiwan endured 38 years of martial law, from May 20, 1949 until Chiang Ching-kuo lifted it on July 15, 1987. It was one of the longest martial-law orders in the world at the time[^21]. Beneath it lay the wounds of the February 28 Incident and the White Terror: an official Executive Yuan report estimated the death toll of the February 28 Incident at between 18,000 and 28,000, while around 140,000 people were imprisoned during the White Terror period[^22].
+Ge Jingwen’s lens focuses on the entire arc of democracy on this island, extending far beyond Tsai Ing-wen’s eight years. After the Kuomintang government moved to Taiwan in 1949, the island underwent 38 years of martial law—effective from May 20, 1949, until it was lifted by Chiang Ching-kuo on July 15, 1987—making it one of the longest periods of martial law in the world at the time[^21]. Beneath this lie the wounds of the February 28 incident and the White Terror: official reports from the Executive Yuan estimate that the death toll of the February 28 incident was between 18,000 and 28,000, while approximately 140,000 people were imprisoned during the White Terror period[^22].
 
 ```tw-timeline
-1987 | Martial law lifted | Chiang Ching-kuo ends 38 years of martial law, one of the world's longest martial-law orders
-1996 | First direct presidential election | Lee Teng-hui is elected amid Chinese missile tests; Taiwanese people directly elect their president for the first time
-2000 | First transfer of power between parties | DPP candidate Chen Shui-bian is elected, the first peaceful transfer of power after authoritarian rule
-2014 | Sunflower Movement | Students occupy the Legislative Yuan for 24 days to oppose the Cross-Strait Service Trade Agreement
-2019 | Same-sex marriage legalized | On May 17, the legislature passes a special law, making Taiwan the first in Asia
+1987 | Martial Law Lifted | Chiang Ching-kuo lifted 38 years of martial law, one of the world's longest[^21]
+1996 | First Direct Presidential Election | Lee Teng-hui was elected amidst missile tests from across the strait; the first time Taiwanese people directly elected their president[^23]
+2000 | First Change of Party Power | Chen Shui-bian of the Democratic Progressive Party was elected, marking the first peaceful transfer of power after authoritarian rule[^24]
+2014 | Sunflower Student Movement | Students occupied the Legislative Yuan for 24 days to oppose a cross-strait service trade agreement[^25]
+2019 | Same-Sex Marriage Legalized | The Legislative Yuan passed a special law on May 17, making Taiwan the first in Asia[^26]
+Source: Democratization timeline cited in this article (Martial Law 1987, Direct Election 1996, Sunflower Movement 2014, Same-Sex Marriage 2019) and related primary reports[^21][^23][^24][^25]
 ```
 
-Every node on this line is an act of turning the invisible into the visible. On March 23, 1996, Lee Teng-hui was elected with 54 percent of the vote amid China's missile tests; it was the first time Taiwanese people chose their own president directly[^23]. In March 2014, students occupied the Legislative Yuan for 24 days to oppose the service trade agreement with China; the Sunflower Movement later reshaped the political consciousness of an entire generation[^24]. On May 17, 2019, the Legislative Yuan passed the special law on same-sex marriage, an episode Hsiao Bi-khim recounts in the film; Taiwan became the first place in Asia to legalize same-sex marriage[^25].
+Every node on this timeline represents an act of "making the invisible visible." On March 23, 1996, Lee Teng-hui was elected with 54% of the vote amidst missile tests from across the strait; that was the first time Taiwanese people personally chose their own president[^23]. In March 2014, students occupied the Legislative Yuan for 24 days to oppose a service trade agreement with the mainland; this Sunflower Student Movement later reshaped the political consciousness of an entire generation[^24]. On May 17, 2019, the Legislative Yuan passed a special law on same-sex marriage—a segment discussed by Hsiao Bi-khim in the film—making Taiwan the first place in Asia to legalize same-sex marriage[^25].
 
-![Supporters wave flags amid dotted lights at an October 2015 Tsai Ing-wen campaign rally in Taipei, evoking the atmosphere of the scene in Hope's film when crowds shouted "We are Taiwanese"](/article-images/people/tsai-2016-campaign.webp)
-_October 2015, supporters at a Tsai Ing-wen campaign rally. Hope says it was the moment during the 2016 election when crowds shouted "We are Taiwanese" toward Tsai that led her to decide to make this film. Photo: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
+![A campaign rally for Tsai Ing-wen in Taipei, October 2015, with supporters waving flags and lights twinkling below, capturing the atmosphere of the "crowds shouting 'we are Taiwanese'" scene in Ge Jingwen's film](/article-images/people/tsai-2016-campaign.webp)
+_Supporters at a campaign rally for Tsai Ing-wen, October 2015. Ge Jingwen says it was the moment during the 2016 election when the crowds shouted "We are Taiwanese" to Tsai Ing-wen that made her decide to film this movie. Photo: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
 
-The moment that truly ignited Hope was the 2016 campaign rally where the crowd shouted "We are Taiwanese" toward Tsai Ing-wen[^5]. That moment was the act of an entire country naming itself in front of a camera, carrying far more weight than a chronological footnote about one transfer of power.
+The specific moment that truly ignited Ge Jingwen's passion was during the 2016 election, when the crowds shouted "We are Taiwanese" toward Tsai Ing-wen[^5]. That moment—an entire island calling out its own name in front of a camera—carries far more weight than a mere chronological footnote of a change in party power.
 
-The film also includes footage that brought tears to many Taiwanese viewers: on the eve of the 2016 election, 16-year-old Taiwanese singer Tzuyu was forced to read an apology on camera after waving the Republic of China flag on a South Korean variety show[^26]. A 16-year-old girl was forced to apologize for her own flag; the next day, Taiwanese voters answered with their ballots. That episode became one of the film's heaviest emotional blows.
+The film also includes footage that brought tears to many Taiwanese eyes: on the eve of the 2016 general election, sixteen-year-old Taiwanese singer Tzuyu was forced to read a scripted apology to a camera because she had waved the flag of the Republic of China on a South Korean variety show[^26]. After a sixteen-year-old girl was forced to apologize for her own flag, the Taiwanese people responded with their votes the very next day. This footage has become one of the most heavy and emotional moments in the film.
 
 ## Paying to Watch Ourselves
 

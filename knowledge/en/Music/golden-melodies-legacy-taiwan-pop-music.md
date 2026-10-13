@@ -1,45 +1,47 @@
 ---
-title: 'Taiwanese Pop Music: The Island That Made Wedding Clothes for the World, Left in the End with Songs Others Cannot Sing'
-description: 'In 1997, Taiwan was Asia''s second-largest record market, and 80 percent of all Mandopop songs were produced here. By 2005, output value had fallen to one-quarter of its former size, the market had been overtaken by China, and even Jay Chou at his peak sold only 300,000 copies per album. When songs elsewhere can be silenced over one lyric, one flag, or one taboo, this island that lost the battle of scale turned the very question of "whether something can be sung" into its last and hardest bargaining chip.'
+title: 'Taiwanese Pop Music: An Island Making Clothes for the Whole World, Leaving Only What Others Cannot Sing'
+description: 'In 1997, Taiwan was Asia''s second-largest record market, producing 80% of all Mandopop songs. By 2005, its output value dropped to a quarter, and it was surpassed by the Chinese market; even Jay Chou''s peak album sold only 300,000 copies. While songs elsewhere are silenced due to a single lyric, a flag, or a taboo, this island that lost its scale has turned "what can be sung" into its final and most resilient bargaining chip.'
 date: 2026-06-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'Taiwanese pop music',
+    'Taiwanese Pop Music',
     'Mandopop',
-    'Mandopop',
-    'record industry',
-    'music censorship',
-    'banned songs',
+    'Mandarin Pop Music',
+    'Record Industry',
+    'Music Censorship',
+    'Banned Songs',
     'Descendants of the Dragon',
     'Hou Dejian',
     'Teresa Teng',
     'A-mei',
     'Jay Chou',
-    'Lim Giong',
-    'Siri Lee',
-    'Panai',
+    'Lin Chiang',
+    'Li Zhuxin',
+    'Bnaz',
     'Golden Melody Awards',
-    'Taiwanese-language songs',
-    'campus folk movement',
-    'westward expansion to China',
-    'freedom of speech',
-    'cultural sovereignty',
+    'Taiwanese Hokkien Songs',
+    'Folk Song Movement',
+    'Westward Expansion',
+    'Freedom of Speech',
+    'Cultural Sovereignty',
   ]
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: '1e104092'
-sourceContentHash: 'sha256:8399301b29b6b0dc'
-sourceBodyHash: 'sha256:eb706bc3431ec070'
-translatedAt: '2026-06-20T01:01:36+08:00'
+researchReport: 'reports/research/2026-06/台灣流行音樂.md'
 image: '/article-images/music/sunflower-movement-crowd-2014.webp'
+imageAlt: "During the 2014 Sunflower Student Movement, Taipei streets were crowded with protesters, and the song Island's Scenery was sung by half a million people in such a setting, becoming part of the national memory"
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
+translatedFrom: 'Music/台灣流行音樂.md'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:9dd098f7a5a51bd9'
+sourceBodyHash: 'sha256:7e4e331322aaf847'
+translatedAt: '2026-10-13T04:46:16.882712+00:00'
 ---
 
 # Taiwanese Pop Music: The Island That Made Wedding Clothes for the World, Left in the End with Songs Others Cannot Sing
@@ -101,77 +103,80 @@ Sources: Wikipedia album entries, Taiwan Panorama
 >
 > The real structure was this: Taiwan clung for too long to its position as the "leader of the Mandopop world," put all its chips on the growing Chinese market, and missed the train that turned music into global cultural export. South Korea increased its culture budget from US$14 million to US$84 million between 1998 and 2001, a full fivefold increase[^14]. In 2018, Korean pop music ranked seventh globally, while Taiwan did not even make the top ten[^15]. Both were small markets. South Korea went outward to fight for the world; Taiwan looked inward and waited for China. That difference in thought decided the next twenty years.
 
-## Host and Guest Reversed: How the Center Moved Away
+## Role Reversal: How the Center Moved Away
 
-A production center does not disappear on its own. It is pulled away by another, larger field of gravity.
+A center does not simply vanish; it is pulled away by another, larger gravitational field.
 
-By 2018, China's record market had become the world's seventh-largest and Asia's second-largest according to IFPI certification[^16]. More important than the ranking was the transfer of discursive power. Veteran music figure Shao Yide described the present as if "there seem to be two Mandopop worlds. One is above the rivers and lakes... internet 'divine songs' produced in batches and distributed by algorithms; the other is in the hall... high-quality music refined through industrialization"[^17]. Chinese platforms used immense traffic and capital to pull the center of the whole industry over. Taiwan went from being the center "everyone flew to for recording" to being a supplier that had to go to someone else's home field to make money.
+By 2018, China's record market had already become the seventh largest in the world and the second largest in Asia according to IFPI certification[^16]. More critical than its ranking, however, was the shift in discourse power. Veteran musician Shao Yide described it as if "two Mandopop worlds now exist: one above the fray... consisting of mass-produced, algorithmically distributed internet 'viral hits'; and one within the temple... where high-quality music is industrially refined."[^17] Using massive traffic and capital, Chinese platforms sucked the entire industry's center of gravity toward them. Taiwan transitioned from being the hub where "everyone flew in to record" into a supplier that can only make money by going to someone else's home court.
 
-Here one must be very careful about a statistical trap. The Taiwan Creative Content Agency (TAICCA) announced that Taiwan's total pop music output value in 2023 was NT$28.8 billion, higher than the NT$12.3 billion in 1997[^18]. At first glance this looks like "market recovery, surpassing the peak," but the two figures cannot be compared at all. The NT$12.3 billion in 1997 was **pure physical record sales**. The NT$28.8 billion in 2023 was the **broad industry**, including live performances (ticket sales alone were NT$6.7 billion), copyright, and digital streaming[^19].
+One must be very careful with a certain numerical trap here. The Taiwan Creative Content Agency (TAICCA) announced that the total output value of Taiwan's pop music in 2023 was NT$28.8 billion, higher than the NT$12.3 billion recorded in 1997[^18]. At first glance, this looks like a "market recovery surpassing its peak," but these two figures cannot be compared at all. The NT$12.3 billion in 1997 represented **pure physical record sales**. The NT$28.8 billion in 2023 represents the **broad industry**, which includes live performances (with box office alone accounting for NT$6.7 billion), copyrights, and digital streaming[^19].
 
 ```tw-versus
-1997 NT$12.3 billion | 2023 NT$28.8 billion
-Pure physical record sales | Broad industry including live performance, copyright, streaming
-Money spent buying CDs in record stores | Concert box office alone accounted for NT$6.7 billion
-This is market "scale" | This is a multiplication of industry "dimensions"
+1997: NT$12.3 billion | 2023: NT$28.8 billion
+Pure physical record sales | Broad industry including live shows, copyrights, and streaming
+Money spent on CDs at record stores | Concert box office alone accounts for NT$6.7 billion
+This is market "scale" | This is an expansion of industry "dimensions"
+Source: Guang Hua Magazine (NT$12.3 billion in 1997, NT$3.15 billion in 2005) + TAICCA Industry Survey (NT$28.836 billion in 2023, NT$6.717 billion in live performance box office) [^11][^18][^19]
 ```
 
-In other words, Taiwan's music industry did regain some blood in the streaming era through concerts and copyright, but physical records, once its lifeline, did not come back. To describe NT$28.8 billion as "a market larger than 1997" is to compare apples and oranges. The honest version is: Taiwan lost the market in which it had once led all of Asia, and that fact has not been reversed.
+In other words, while Taiwan's music industry has indeed managed to sustain itself through concerts and copyrights in the streaming era, the former lifeblood—physical records—has not returned. To claim that NT$28.8 billion means "the market is larger than in 1997" is comparing apples to oranges. The honest version is this: Taiwan lost the market it once led across all of Asia, and that is a situation that has not been reversed.
 
-Since scale cannot return, what gives Taiwan a place in Mandopop? The answer is hidden in the songs that other places do not dare sing, cannot sing.
+Since the scale hasn't returned, how does Taiwan still hold a place in Mandopop? The answer lies hidden within the songs that people elsewhere dare not sing, or are not allowed to sing.
 
-## We, Too, Were Once the Side Doing the Banning
+## We, Too, Were Once the Ones Doing the Censoring
 
-To talk about Taiwan's "freedom," one first has to acknowledge an unflattering fact: Taiwan itself was once the one holding the red pen and deleting songs.
+To discuss Taiwan's "freedom," one must first acknowledge an unglamorous truth: Taiwan itself was once the party holding the red pen to strike out songs.
 
-During the martial-law period, Taiwan Garrison Command reviewed songs together with the Ministry of the Interior, Ministry of Education, Ministry of National Defense, and other agencies. A cumulative total of 898 songs were banned[^20]. The most banned singer was Taiwanese-language king Wen Hsia, who had 99 songs on the blacklist[^21]. The reasons for bans sound almost absurd today: "When Will You Return?" was suspected of alluding to Japanese militarism because of the characters _ri jun_; "Olive Tree" was banned for eight years because it sang of "wandering" and homesickness; "Not Coming Home Today" was read as alluding to China through the word "home," violating the policy of counterattack[^22]. "Mother, I Am Brave and Strong Too," composed by Teng Yu-hsien, was banned for 33 years[^23].
+During the martial law era, the Taiwan Garrison Command, in coordination with the Ministry of the Interior, the Ministry of Education, the Ministry of National Defense, and other agencies, reviewed songs; a total of 898 songs were banned[^20]. The artist most frequently banned was the Taiwanese-language pop king Wen-hsia, who had 99 songs blacklisted alone[^21]. The reasons for these bans sound almost absurd today: 〈He Ri Jun Zai Lai〉 (_When Will My Lord Come Again_) was banned because "Jun" (Lord) was suspected of alluding to Japanese militarism. 〈Gan Lan Shu〉 (_The Olive Tree_) was banned for eight years because it sang of "wandering" and nostalgia. 〈Jin Tian Bu Hui Jia〉 (_Not Going Home Today_) was banned because the word "home" was interpreted as an allusion to mainland China, violating counterattack policies[^22]. Deng Yu-hsien's composition 〈Ma Ma Wo Ye Zhen Yong Jian〉 (_Mother, I Am Also Very Brave_) was banned for 33 years[^23].
 
 ```tw-stat
-898 songs | Cumulative number of songs banned during martial law | Joint review by Taiwan Garrison Command and other agencies
-99 songs | Number of Wen Hsia's songs banned | The highest total in Taiwan
-33 years | Length of the ban on "Mother, I Am Brave and Strong Too" | Composed by Teng Yu-hsien
+898 songs | Total songs banned during martial law | Joint review by Garrison Command, etc.
+99 songs | Songs banned for Wen-hsia alone | Most in Taiwan
+33 years | Duration 〈Ma Ma Wo Ye Zhen Yong Jian〉 was banned | Composed by Deng Yu-hsien
+Source: CNA "The Silenced Martial-Law Years" (898 songs, Wen-hsia 99 songs) and reports on the chronology of banned songs (〈Ma Ma Wo Ye Zhen Yong Jian〉 33 years) [^20][^23]
 ```
 
-This censorship system had a clear legal basis and a clear exit timeline. The 1973 Publication Act and the 1976 Radio and Television Act were its basis; songs had to be submitted for review before release. Song censorship did not effectively end until 1990, with formal announcement in 1991[^24]. The clause in the Radio and Television Act limiting programming in so-called dialects was not deleted by the Legislative Yuan until July 14, 1993[^25]. The lifting of martial law itself took place on July 15, 1987[^26].
+This censorship system had clear legal sources as well as a clear exit timeline. The Publication Act of 1973 and the Radio and Television Act of 1976 served as its basis. Songs had to be submitted for review before release. It was not until 1990 that song censorship effectively ended, with an official announcement made in 1991[^24]. The provisions in the Radio and Television Act that restricted dialect programs were not removed by the Legislative Yuan until July 14, 1993[^25]. The lifting of martial law itself occurred on July 15, 1987[^26].
 
-> ⚠️ **This is the most important premise for understanding Taiwan's freedom**
-> Taiwan's freedom of speech was won step by step. From the lifting of martial law to the end of censorship to the deletion of language restrictions, the process took nearly forty years. In between, people were banned, blacklisted, and forced into exile over a song.
+> ⚠️ **This point is the most important prerequisite for understanding Taiwan's freedom**
+> Taiwan's freedom of speech was earned step by step. From the lifting of martial law to the end of censorship and the removal of dialect restrictions, it took nearly forty years; in the interim, people were banned, blacklisted, or forced into exile because of a single song.
 >
-> Precisely because Taiwan paid this price, it is especially clear today about what "cannot sing" feels like. It once stood on the side holding the red pen. This is not to negate today's freedom; quite the opposite. Only by knowing how freedom was obtained can one know how heavy it is, and avoid treating it as a given.
+> Precisely because Taiwan has paid this price, it understands today exactly what "not being allowed to sing" feels like—because it once stood on the side holding the red pen. This is not meant to negate today's freedom; quite the opposite: only by knowing how freedom was obtained can one realize its weight and avoid taking it for granted.
 
-## Able to Sing What Others Cannot
+## Singing What Others Cannot
 
-Put Taiwan's past, when it was once the censor, beside its present, and the contrast appears.
+When you place Taiwan's past (as a former censor) alongside its present, a stark contrast emerges.
 
-Today, across the Strait, a different and denser system of prior review is in use. China's National Radio and Television Administration (NRTA) conducts prior review of lyrics, albums, and performances. In 2021 it introduced a KTV blacklist, removing songs with content such as "endangering national unity"[^27]. Independent musician Li Zhi had his works removed from all platforms in 2019 because of "The Square," a song about June Fourth[^28]. Jolin Tsai's "Womxnly," which speaks for gender equality, was banned in China. Even Mayday was once required to change the lyric "Tibet" to the homophonous "heart" in order to pass review and filing procedures[^29].
+Today, the other side of the Strait employs a different, even more pervasive system of prior censorship. The National Radio and Television Administration (NRTA) of China conducts pre-approvals of lyrics, albums, and performances; in 2021, it introduced a KTV blacklist to remove songs containing content deemed to "endanger national unity" [^27]. Because of the song 〈Guangchang〉 (Square), which addresses the June Fourth incident, independent musician Li Zhi saw his works removed from all platforms in 2019 [^28]. Jolin Tsai's 〈Rose Boy〉 (Womxnly), a song advocating for gender equality, was banned in China; even Mayday was once required to change the word "Tibet" in their lyrics to a homophone just to pass the censorship and approval process [^29].
 
-This is why "freedom" has become Taiwan's last and hardest bargaining chip: some songs really can only be sung in Taiwan.
+This is why "freedom" has become Taiwan's final and most unyielding bargaining chip: some songs can only be sung in Taiwan.
 
 ```tw-timeline
-1978 | Written for a diplomatic break | Hou Dejian composes "Descendants of the Dragon," lamenting Chinese people manipulated by foreign powers
-1983 | Banned in Taiwan | Hou Dejian goes to China; the song is banned in Taiwan, then unbanned after martial law is lifted in 1987
-Today | Appropriated by China | "Black eyes, black hair, yellow skin" becomes a symbol of blood-based nationalism
+1978 | Written for broken ties | Hou Dejian wrote 〈Descendants of the Dragon〉, lamenting the plight of Chinese people being manipulated by foreign powers.
+1983 | Banned in Taiwan | After Hou Dejian visited mainland China, this song was banned in Taiwan; it was lifted after the 1987 lifting of martial law.
+Today | Appropriated by China | "Black eyes, black hair, yellow skin" is used as a symbol of blood-based nationalism.
+Source: Wikipedia (Descendants of the Dragon, Hou Dejian) + The News Lens (Analysis by Chen Fang-yu) [^1][^4][^5]
 ```
 
-And freedom has weight. Its weight comes from those who chose to sing, then paid the price.
+And freedom has weight—a weight derived from those who choose to sing and subsequently pay the price.
 
-A-mei sang the national anthem at the presidential inauguration in 2000 and was subsequently blacklisted by China for nearly four years; concerts, advertisements, and endorsements were all halted until the ban was lifted in 2004[^30]. Deserts Chang, also known as Anpu, accepted a Republic of China flag handed to her by a fan at a 2013 concert in Manchester, England, and said, "This is the flag of my hometown." As a result, three scheduled Beijing performances were all canceled[^31]. Crowd Lu and Chou Tzu-yu have also both been drawn into storms after being reported. And Teresa Teng, the diva whose songs were sung even in China in the saying "listen to old Deng by day, little Deng by night," sang on the stage of Hong Kong's 1989 "Democratic Songs for China" concert under a sign opposing military rule, and never held a concert in China before her death[^32].
+A-mei sang the national anthem at the 2000 presidential inauguration and was subsequently blacklisted in China for nearly four years; her concerts, commercials, and endorsements were all halted until the ban was lifted in 2004 [^30]. During a 2013 concert in Manchester, UK, Anpu (Chang Hsuan) took a Republic of China flag handed to her by a fan and said, "This is my home's flag," resulting in the cancellation of her three scheduled performances in Beijing [^31]. Lu Guangzhong and Tzuyu Chou have also faced controversies due to being reported. And then there is Teresa Teng—a diva so beloved that even in mainland China people sang "Listen to Old Deng by day, listen to Little Deng by night"—who, during the 1989 "Sing for Democracy" stage in Hong Kong, sang loudly while holding a sign that read "Against Martial Law." She never performed a single concert in mainland China before her death [^32].
 
-![Television broadcast cameras outside the 32nd Golden Melody Awards; the Golden Melody Awards are the most iconic awards in Mandopop](/article-images/music/golden-melody-awards-2021.webp)
+![Television broadcast cameras outside the venue of the 32nd Golden Melody Awards; the Golden Melody Awards is the most influential award in Mandopop](/article-images/music/golden-melody-awards-2021.webp)
 
-_The Golden Melody Awards are the most iconic stage in Mandopop, and it was here that Panai mentioned Tiananmen. Photo: Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
+_The Golden Melody Awards is the most influential stage for Mandopop; it was here that Panai brought up Tiananmen. Photo: Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
 
-> 💡 **Did you know? What best illustrates this is one night at the 2024 Golden Melody Awards.** Indigenous singer Panai, on the stage of the 35th Golden Melody Awards, reminded everyone that the Tiananmen incident had also just reached its 35th anniversary, and said let's not forget[^33]. China immediately deleted her works from its platforms. Panai's response afterward pierced through the meaning of the entire event: she said Beijing's actions instead highlighted how precious Taiwan's freedom is[^34]. Being blacklisted instead became the best proof that "here, one can sing."
+> 💡 **Did you know? The best illustration of this occurred on one night during the 2024 Golden Melody Awards.** Indigenous singer Panai reminded the audience at the 35th Golden Melody Awards that it has been exactly 35 years since the Tiananmen Square incident, saying, "let's not forget" [^33]. China immediately removed her works from its platforms. Panai's subsequent response captured the essence of the matter: she said that Beijing's actions only highlighted how precious this freedom in Taiwan truly is [^34]. The blacklist, instead, became the best proof that "it can be sung here."
 
-At that Golden Melody Awards, Lai Ching-te said in his remarks that music is life, and music is also unfettered freedom[^35]. The line sounds ceremonial, but placed in the context of Panai being deleted, A-mei being blacklisted, and Deserts Chang being canceled, it is an island that lost the market taking inventory of the only household property it still has left.
+When Lai Ching-te delivered his speech at that year's Golden Melody Awards, he said, "Music is life, and music is also unfettered freedom" [^35]. While this might sound like mere platitude, in the context of Panai being deleted, A-mei being blacklisted, and Anpu being canceled, it serves as an inventory of what remains for an island that has lost its market.
 
-The other side of freedom is daring to speak. During the 2014 Sunflower Movement, Fire EX. and students from Taipei National University of the Arts wrote "Island's Sunrise" for the crowds occupying the Legislative Yuan. At the end of March, 500,000 people sang it together on Ketagalan Boulevard[^58]. The band released the song's rights free of charge for noncommercial use, and the following year it won Song of the Year at the 26th Golden Melody Awards. That a song filled with political demands, born from street protest, could take the crown at Taiwan's highest music hall is unimaginable across the Strait.
+The other side of freedom is the courage to speak out. During the 2014 Sunflower Student Movement, members of the band Fire EX. and students from Taipei National University of the Arts wrote 〈Island's Sunrise〉 (Dao Yu Tian Guang) for the crowds occupying the Legislative Yuan; in late March, 500,000 people sang it together on Ketagalan Boulevard [^58]. The band released the copyright of the song for non-commercial use, and the following year, it won Song of the Year at the 26th Golden Melody Awards. That a song filled with political demands and born from street protests could be crowned in Taiwan's highest musical temple is something unimaginable on the other side of the Strait.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="滅火器 Fire EX. - 12 島嶼天光 Island's Sunrise" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Fire EX.'s official "Island's Sunrise." Official Fire EX. channel. Written for the Sunflower Movement, sung by 500,000 people on Ketagalan Boulevard, and winner of Song of the Year at the 26th Golden Melody Awards._
+_Fire EX. 〈Island's Sunrise〉 official. Fire EX. official channel. Written for the Sunflower Movement, sung by 500,000 people on Ketagalan Boulevard, winner of Song of the Year at the 26th Golden Melody Awards._
 
 ## To Make Money, You Have to Go to China
 

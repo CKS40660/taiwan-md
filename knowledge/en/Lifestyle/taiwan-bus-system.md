@@ -2,9 +2,7 @@
 title: "Taiwan's Bus System: After Hsinchu Bus Drives Away, Who Will Pick Up the People Without Steering Wheels?"
 description: "On the morning of September 15, 2024, at Tongluo Railway Station, more than 30 people, from kindergarten children to a 90-year-old elder, boarded the last Hsinchu Bus 5658 service. From Taipei's first joint-operation route in 1977, to rural areas left with only two services a day, drivers averaging 51 years old, and TPASS monthly passes driving Hualien ridership up by nearly 70 percent, buses have always carried people with no other choice: students commuting to school, older adults who do not drive, families without cars. And this system is being pulled out from under them, route by route."
 date: 2026-06-25
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '交通與移動'
 tags:
   [
     'Bus',
@@ -17,19 +15,28 @@ tags:
     'Open Data',
     'Driver Shortage',
   ]
+subcategory: '交通與移動'
+author: 'Taiwan.md Contributors'
 readingTime: 24
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
-featured: false
-translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: '036f4f3f'
-sourceContentHash: 'sha256:6350fb8cfb489452'
-sourceBodyHash: 'sha256:03dd96b03caf8931'
-translatedAt: '2026-06-26T00:38:47+08:00'
+researchReport: 'reports/research/2026-06/台灣的公車系統.md'
 image: '/article-images/lifestyle/scooters-and-bus-taipei-1996.webp'
 imageCredit: 'Holly Cheng'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_street_scene.jpg'
+datasets:
+  - name: '台灣好行各路線搭乘人次'
+    url: 'https://data.gov.tw/dataset/140008'
+  - name: '機動車輛登記數'
+    url: 'https://data.gov.tw/dataset/14208'
+relatedDiary: ['2026-06-25-204254-公車系統']
+translatedFrom: 'Lifestyle/台灣的公車系統.md'
+sourceCommitSha: 'fc49bdeef'
+sourceContentHash: 'sha256:7d3802fe03c60e03'
+sourceBodyHash: 'sha256:24a950fc8509e96a'
+translatedAt: '2026-10-13T05:46:15.399498+00:00'
 ---
 
 On the morning of September 15, 2024, in front of Tongluo Railway Station in Miaoli. More than 30 people stood beneath the bus stop sign; the youngest were still in kindergarten, the oldest was 90. They were not waiting for a bus to work, nor for a bus to school. They were waiting for the last Hsinchu Bus 5658 service.
@@ -61,20 +68,20 @@ A popular counterargument should be blocked here. Every so often, someone says T
 
 A common misconception should also be cleared up in passing: many people think migrant workers are the main bus riders. They are not. Because Taiwan’s policies have long restricted migrant workers from purchasing vehicles, their daily commutes are mostly by scooter; they usually take intercity buses only for long-distance weekend trips[^5]. Imagining migrant workers as the main bus passengers is an assumption that directly equates “disadvantaged” with “bus rider.”
 
-## One-Section Fares, Two-Section Fares, and the Beep When You Tap Again on Exit
+## Single-stage, Two-stage, and the "Beep" Required When Getting Off
 
-![A low-floor Hsing Nan Bus in Tainan running the Red Trunk Line, with accessibility signage and low-floor design beside the door](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
-_A low-floor Hsing Nan Bus in Tainan, 2016. Low floors let strollers and wheelchairs board; they are a hard indicator of “accessibility” for urban buses. Photo: Nutnse0008, CC BY-SA 4.0 (see image sources at the end)._
+![A low-floor Xingnan Bus in Tainan City driving on a main red line; accessibility symbols and low-floor design are visible near the door.](/article-images/lifestyle/low-floor-bus-tainan-2016.webp)
+_A low-floor bus from Tainan City's Xingnan Bus, 2016. Low floors allow strollers and wheelchairs to board easily, serving as a key indicator of "accessibility" for urban buses. Photo: Nutnse0008, CC BY-SA 4.0 (see image credits at the end of article)._
 
-Taiwanese people learn a set of motions from childhood that often leaves foreign visitors baffled: raise your hand at the bus stop, or the driver will pass without stopping; tap your card with a beep when you board, and sometimes tap again when you get off. Behind these motions is a fare system more precise than it appears.
+There is a set of movements that Taiwanese people learn from childhood, which often leaves foreigners completely bewildered: you must raise your hand at the bus stop, or the driver will pass without stopping. You "beep" when boarding, and sometimes you have to "beep" again when getting off. Behind these actions lies a fare system far more sophisticated than one might imagine.
 
-The story begins in 1977. Before then, Taipei’s bus operators each ran their own routes, and route numbers, fares, and tickets were not unified. In 1976, Taipei City established the Joint Public-Private Bus Operation Preparatory Committee to unify them. On January 1, 1977, jointly operated routes 201 and 202 began service first; on April 30 of the same year, the first phase of 33 jointly operated bus routes formally began operations[^6]. “Joint operation” meant that regardless of which company operated the bus, passengers used the same route-numbering system, the same fares, and the same ticketing system. This was the starting point of Taiwan’s urban bus system.
+This system traces its origins back to 1977. Before then, different bus operators in Taipei operated independently, with no standardization in route numbers, fares, or ticketing. In 1976, the Taipei City Government established the "Preparatory Committee for Public-Private Bus Joint Venture" to unify these elements. On January 1, 1977, the joint venture routes 202 and 202 were the first to begin service. On April 30 of the same year, the first phase consisting of 33 joint venture bus routes officially commenced operations[^6]. The concept of "joint venture" (聯營, _liányíng_) meant that regardless of which operator was driving the bus, passengers used the same route numbers, the same fare structure, and the same ticketing system. This was the starting point for Taiwan's urban bus system.
 
-Section-based fares grew out of this system. After the urban area expanded into New Taipei, a single trip could cross several fare zones: the old city counted as one section, while extensions into the outskirts counted as two or three sections. Section points were usually set near transport hubs or city-county boundaries such as Taipei Bridge and Shilin, and boarding or alighting within the two stops before or after a section point still counted as one section; this was called a “buffer zone.” This is why, on cross-section routes, you have to tap when boarding and tap again when alighting: the system needs to know how many sections you traveled and how many sections to charge. The answer to foreign friends’ most confusing question, “Why do you sometimes board from the front door and sometimes from the rear door?” is also hidden here: where you board and alight, and whether you tap once or twice, all depend on how that route is divided into sections.
+Segmented fare collection grew out of this foundation. As urban areas expanded into New Taipei City, a single trip might cross several fare zones: the old city center counts as one stage, while extending to the outskirts counts as two or three stages. Segment boundaries are typically set near transportation hubs like Taipei Bridge and Shilin, or near municipal borders. Boarding and exiting within two stops of these boundaries is still counted as a single stage (known as a "buffer zone"). This is why, when taking a multi-stage route, you must tap when boarding and tap again when getting off: the system needs to know how many stages you traveled to charge the correct amount. The answer to what confuses foreign friends most—"Why do I sometimes board through the front door and sometimes through the back?"—is also hidden here: where you board/exit and whether you tap once or twice depends entirely on how that specific route is segmented.
 
-The ticketing system itself also evolved. EasyCard was fully introduced on buses at the end of September 2002[^7], and Kaohsiung’s iPASS was launched with the Kaohsiung MRT in 2014[^7]. Two-way card tapping, tapping on boarding and again on alighting, began its first phase on July 1, 2019, and was fully implemented in a second phase in February 2020. Its purpose was to calculate section fares precisely, provide transfer discounts, and collect passenger boarding and alighting data[^8]. A common erroneous date needs to be blocked here: two-way tapping was a 2019 development, not 2012; iPASS was launched in 2014, not 2012.
+The ticketing media itself has also evolved. _EasyCard_ (悠遊卡) was rolled out across all buses in late September 2002[^7], while Kaohsiung's _iPASS_ (一卡通) was launched alongside the Kaohsiung MRT in 2014[^7]. Two-way tapping (tapping when boarding and tapping when exiting) was introduced in two phases: the first phase began on July 1, 2019, and the second phase was fully implemented in February 2020. The goal was to precisely calculate segmented fares, provide transfer discounts, and collect passenger boarding and alighting data[^8]. It is worth correcting a common misconception here: two-way tapping started in 2019, not 2012. Similarly, _iPASS_ arrived in 2014, not 2012.
 
-But this system has a ceiling. Ridership on Taiwan’s urban buses is extremely concentrated in Taipei and New Taipei: in 2020, the two cities accounted for 73.7% of all urban bus ridership in Taiwan[^9]. A Taipei trunk bus may come every four to six minutes during rush hour, and Taipei residents complain that waiting five minutes is too long. At the same time, at some stop in central, southern, or eastern Taiwan, there may be only one bus an hour, and the last bus may end at five or six in the evening. The system is the same, but in different places it lands as two different lives.
+However, this system has its limits. The ridership of Taiwan's urban buses is extremely concentrated in the Taipei-New Taipei area: in 2020, the Taipei-New Taipei region accounted for 73.7% of the total urban bus ridership in Taiwan[^9]. A trunk bus route in Taipei might run every 4 to 6 minutes during peak hours, and Taipei residents complain if they have to wait 5 minutes. At that same moment, a bus stop in central or southern Taiwan, or in the east, might only see one bus per hour, with the last bus running as early as 5:00 or 6:00 PM. The system is the same, but depending on where you are, it represents two very different lives.
 
 ## Google Knows How Many Minutes Until Your Bus Arrives Because Taiwan Opened the Data
 
@@ -101,27 +108,28 @@ This phenomenon is called bunching. It is a physical property of bus systems and
 
 For people in Taipei, bunching is an annoyance. For people in rural areas, bunching is a luxury: they do not even encounter “two buses arriving together,” because there are only a few buses a day. This returns us to the invisible urban-rural fracture: Taipei residents complain that waiting five minutes is too long because they have room to complain; people in rural Changhua who wait 40 minutes, or even have only two buses a day, do not. The same phrase measures two completely different situations. The fewer choices people have, the less likely the bus is to arrive. That sentence will return again and again in this article.
 
-## How Illegal Coaches Became UBus
+## How "Wild Chicken" Buses Became United Bus
 
-![A Kuo-Kuang Motor Transport long-distance highway coach, vehicle number KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
-_A Kuo-Kuang Motor Transport long-distance highway coach, 2026. Its predecessor was Taiwan Motor Transport, the bus company of the Directorate General of Highways’ monopoly era; in 2001, more than a thousand employees pooled funds to take it over. Photo: Wei Ting Hsu, CC BY-SA 4.0 (see image sources at the end)._
+![Kuo-Kuang Motor Transport long-distance highway bus, license plate KKA-1897](/article-images/lifestyle/kuokuang-intercity-coach-2026.webp)
+_Kuo-Kuang Motor Transport's long-distance highway bus, 2026. Its predecessor was Taiwan Motor Transport Company during the era of the Highway Bureau's monopoly; in 2001, it was taken over by thousands of employees through collective fundraising. Photo: Wei Ting Hsu, CC BY-SA 4.0 (see image credits at end of article)._
 
-To understand why today’s buses look the way they do, one has to look back at how the system grew from a single dominant operator into buses running everywhere.
+To understand why bus services look the way they do today, one must look back at how the industry evolved from a single monopoly into the crowded streets we see now.
 
-Taiwan’s highway bus system began with the Taiwan Provincial Highway Bureau, established in 1946. In 1977, the Highway Bureau’s bus operations were spun off to establish Taiwan Motor Transport Company, commonly known as Taiqi. At its peak, it had more than 500 routes, 3,600 vehicles, and over 10,000 employees[^15]. That was the era when the Highway Bureau monopolized long-distance coach transport, and older generations still remember it.
+The starting point for Taiwan's highway passenger transport was the Taiwan Provincial Highway Bureau, established in 1946. In 1977, the bureau's passenger transport business was spun off to form the Taiwan Motor Transport Company (commonly known as _Taiqi_). At its peak, it operated over 500 routes with 3,600 vehicles and tens of thousands of employees[^15]. The older generation still remembers that era when the Highway Bureau held a monopoly on long-distance transport.
 
-The turning point came around the lifting of martial law. In the late 1980s, large numbers of unlicensed, privately run coaches began appearing on the roads. Rather than try endlessly to crack down on them, the Ministry of Transportation and Communications chose to guide them toward legalization. On September 6, 1989, UBus was formally established. Its Chinese name was given by then-Institute of Transportation director Chang Chia-juch, meaning “commanding the four directions, operating jointly.” It became Taiwan’s first legal privately operated national highway bus company[^16]. Once the market opened, Ho-Hsin, Kamalan, Aloha, and Capital Bus joined one after another. Long-distance coaches went from one dominant firm to many competing operators.
+The turning point occurred around the time of martial law lifting. In the late 1980s, large numbers of "wild chicken" buses (_yeji che_)—unlicensed vehicles picking up passengers privately—began appearing on the roads. Rather than attempting an endless crackdown, the Ministry of Transportation and Communications chose to guide them toward legalization. On September 6, 1989, United Bus (Tonglian), named by then-Director of the Transport Research Institute Chang Chia-chu to mean "leading in all directions through joint operations," was officially established. It became Taiwan's first legal private long-distance highway bus company[^16]. Once the market opened, companies like Hezheng, Kavalan, Aloha, and Capital Bus joined in succession, transforming long-distance transport from a single monopoly into a competitive landscape of many players.
 
 ```tw-timeline
-1946 | Taiwan Provincial Highway Bureau established | Direct government operation, monopolizing Taiwan's highway buses
-1977 | Taiwan Motor Transport established independently | Highway Bureau bus operations spun off; at its peak, over 10,000 employees
-1989 | UBus established | Illegal coaches legalized in place; Taiwan's first private national highway bus company
-2001 | Kuo-Kuang Motor Transport takes over | Taiqi was losing NT$5 billion a year; a thousand employees pooled funds to establish Kuo-Kuang
+1946 | Taiwan Provincial Highway Bureau established | Government-run; monopoly on Taiwan's highway passenger transport
+1977 | Taiwan Motor Transport Company (Taiqi) spun off | Passenger business split from the Highway Bureau; reached peak with tens of thousands of employees
+1989 | United Bus (Tonglian) established | "Wild chicken" buses legalized; first private long-distance highway bus company
+2001 | Kuo-Kuang Motor Transport takes over | Taiqi losing NT$5 billion annually; 1,090 employees fund the creation of Kuo-Kuang
+Sources: Historical records of the Highway Bureau, Taiqi, and Kuo-Kuang (Taiqi's 500+ routes, 3,600 vehicles, and 1,090 employees fundraising in 2001) and reports on United Bus's establishment in 1989[^15][^16]
 ```
 
-The public-sector side was less glorious. Taiqi ran losses for years, losing about NT$5 billion annually with subsidies from the national treasury; after competition was opened, its routes and workforce shrank sharply[^15]. In June 2001, 1,090 Taiqi employees each contributed NT$300,000 to establish Kuo-Kuang Motor Transport, which took over 96 former Taiqi routes in July[^15]. Many middle-aged employees in their forties and fifties who did not meet retirement requirements protested. The name “Kuo-Kuang” actually came from Taiqi’s gold-medal coach model introduced in 1967. A dynasty exited the stage, leaving its signboard to those who took over.
+The state-owned side of the business did not fare as well. Taiqi suffered long-term losses, losing approximately NT$5 billion annually which required subsidies from the national treasury; following the opening of competition, its routes and workforce shrank significantly[^15]. In June 2001, 1,090 Taiqi employees each contributed NT$300,000 to establish Kuo-Kuang Motor Transport, which in July took over Taiqi's original 96 routes[^15]. Many middle-aged employees in their 40s and 50s who did not yet meet retirement criteria protested the move. The name "Kuo-Kuang" actually comes from Taiqi's gold-medal bus model from 1967; it was the curtain call of one dynasty, leaving its brand name to those who took over.
 
-(This institutional history is only background. The tourist nostalgia running from the Golden Horse coaches to the Kuo-Kuang coaches, and the details of how rampant illegal coaches once were, belong in another article about tour buses. Here they are only touched as coordinates.)
+(This institutional history is merely background. The nostalgic tourism aspect of the lineage from _Jinma_ to _Kuo-Kuang_, and the specific details regarding the rampant "wild chicken" buses of that era, belong to another article about tour buses; this serves only as a brief reference point.)
 
 ## Pulling Out at 5:30 A.M., Ending Service at 8 P.M., Four Days Off a Month
 
@@ -181,31 +189,31 @@ After Taiwan High Speed Rail opened in 2007, large numbers of long-distance pass
 
 The most direct result is that transfer stations become empty shells. Operators moved out of the second floor of Taipei Bus Station, turning the entire floor into vacant space for lease[^28]. Several transfer centers built in Taichung are feared to become underused “mosquito halls.” Facing this avalanche, the Directorate General of Highways launched in 2025 what it called the largest route-network adjustment plan in 30 years[^20]. This was both an acknowledgment that the old network could no longer hold, and an attempt to reshuffle the system.
 
-## Urban Progress, and Its Limits
+## Urban Progress and Its Limits
 
-Pull the camera back to the city and a completely different face appears. The same system is advancing rapidly at the urban end, but each step lands on its own limits.
+Shifting the lens back to the cities reveals a completely different face. Within the same system, the urban side is making great strides forward, but every step is pushing against its own limits.
 
-The first improvement is trunk buses. From 2017 to 2018, Taipei City reclassified its bus network, with trunk routes running as frequently as every four to six minutes during peak hours, making them as easy to understand and wait for as the MRT[^29]. The second is the TPASS commuter monthly pass. It originated from 2022 election pledges and was launched in July 2023, with a special budget of NT$20 billion for the first three years: NT$1,200 monthly passes for Keelung-Taipei-New Taipei-Taoyuan, NT$699 or NT$999 for Miaoli-Taichung-Changhua-Nantou, and NT$999 for Tainan-Kaohsiung-Pingtung, all allowing unlimited rides on buses and MRT systems[^30].
+The first sign of progress is trunk bus services. Between 2017 and 2018, Taipei City reclassified its bus network; during peak hours, trunk routes are now so frequent that buses arrive every 4 to 6 minutes, making them as easy to understand and wait for as the MRT[^29]. The second is the TPASS commuter monthly pass. Originating from 2022 election pledges, it launched in July 2023 with a special budget of NT$20 billion allocated for its first three years: an NT$1,200 monthly pass for the Keelung-Taipei-New Taipei-Taoyuan area, NT$699 or NT$999 for Miaoli-Taichung-Changhua-Changhua-Yilan, and NT$999 for the Tainan-Kaohsiung-Pingtung area, allowing unlimited travel on buses and the MRT[^30].
 
-The TPASS report card must be read in both positive and negative terms. On the positive side, it has indeed brought people onto public transport: bus ridership increased 19.6%, and MRT ridership increased 36.9%[^31]. But its effect in turning drivers and scooter riders into public-transportation riders is limited: Taipei City’s face-to-face interviews showed that only 7.33% of private-vehicle users truly shifted to public transportation[^32]. In other words, most of the additional passengers were people who already rode public transport and now rode more, not people who used to drive and now switched.
+TPASS's report card must be read with both its successes and failures in mind. On the positive side, it has indeed brought more people onto public transit: bus ridership increased by 19.6%, and MRT ridership rose by 36.9%[^31]. However, its effectiveness in converting drivers and scooter riders into transit users is limited: face-to-face interviews in Taipei show that the actual proportion of private vehicle users shifting to public transportation is only 7.33%[^32]. In other words, most of the additional passengers are those who "already used transit and are now using it more," rather than those who "used to drive but have now switched to transit."
 
-The more realistic issue is money. TPASS’s NT$20 billion special budget expires at the end of 2025. The follow-up plan, with a scale of NT$36.38 billion, faces a funding break because the overall budget is stuck in the Legislative Yuan. Twenty cities and counties across Taiwan are affected, and many localities are relying on operators to advance the money and struggle on[^32][^33]. A good policy that has brought people onto public transport is now caught in political deadlock.
+More pressing is the issue of money: the NT$20 billion special budget for TPASS expires at the end of 2025. A follow-up plan scaled to NT$36.38 billion faces a funding crisis because the total budget is stuck in the Legislative Yuan, affecting 20 counties and cities across Taiwan; many local operators are struggling by using their own funds to cover costs in advance[^32][^33]. A policy that successfully brings people onto buses is currently stalled in a political deadlock.
 
-![A Taipei Bus BYD K9 electric bus passing in front of Taipei Zoo](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
-_A Taipei Bus BYD K9 electric bus passing in front of Taipei Zoo, 2026. Urban buses are supposed to be fully electrified by 2030, but only about 18% were on the road in 2024. Photo: 厦门金龙永远的神, CC BY 4.0 (see image sources at the end)._
+![Taipei Bus BYD K9 electric bus driving in front of Taipei Zoo](/article-images/lifestyle/electric-bus-byd-taipei-2026.webp)
+_A Taipei Bus BYD K9 electric bus drives past the Taipei Municipal Zoo, 2026. While the city aims for full electrification of urban buses by 2030, only about 18% were on the road in 2024. Photo: 厦门金龙永远的神, CC BY 4.0 (see image credits at the end of the article)._
 
-Electrification is the city’s third improvement, and also the one with the sharpest gap. The government has declared that all urban buses will be electrified by 2030. Nearly 10,000 diesel buses, about 9,400 existing vehicles, are to be replaced; the subsidized procurement target is 11,700 vehicles. The entire plan was approved in June 2023 with a budget of NT$64.3 billion[^34]. The ideal is high, but reality is slow: by 2024, only about 1,926 electric buses were actually on the road, accounting for 18%, and seven cities and counties had none at all[^35].
+Electrification is the third sign of urban progress, and also where the gap is most glaring. The government has declared a goal of full electrification for urban buses by 2030, aiming to replace nearly 10,000 fuel-powered buses (an existing stock of approximately 9,400 vehicles) with a subsidized procurement target of 11,700 vehicles. The entire plan was approved in June 2023 with an allocated budget of NT$64.3 billion[^34]. The ideal is high, but the reality is slow: by 2024, only about 1,926 electric buses—roughly 18%—were actually in service, and seven counties and cities had zero[^35].
 
 ```tw-bars
-Distance to full electrification by 2030 (urban bus electrification progress)
+Distance to Full Electrification by 2030 (Urban Bus Electrification Progress)
 Electric buses on the road in 2024 | 1926 | 18% share
-2030 subsidized procurement target | 11700 | seven cities and counties currently at zero
+2030 subsidized procurement target | 11700 | Seven counties/cities currently at zero
 Source: Executive Yuan, Ministry of Transportation and Communications, end of 2024
 ```
 
-Where is it stuck? Subsidies leak layer by layer from central allocation to local approval and then to actual contracts: quotas fall from 2,080 to 1,404, then to 744. Charging equipment is also expensive; one charging station costs more than NT$60 million[^35]. The declared cost of one bus is NT$11 million, with NT$6.8 million subsidized and operators needing to raise NT$4.2 million themselves. For an industry already struggling on subsidies and unable even to hire enough drivers, this is a hard decision to make.
+Where is the bottleneck? There are leaks at every level, from subsidy issuance to local approval and finally to actual contract signing (the allocated amount dropped from 2,080 to 1,404, then down to 744); furthermore, charging equipment is expensive, with a single charging station costing over NT$60 million[^35]. While a bus is declared to cost NT$11 million with a subsidy of NT$6.8 million, operators must still raise the remaining NT$4.2 million themselves. For an industry that already survives on subsidies and struggles even to hire drivers, this is a difficult commitment to make.
 
-> 📝 **Curator’s Note:** The city’s three developments, trunk buses, monthly passes, and electrification, look on paper like a list of progress. But they share an invisible premise: someone has to drive the bus out. When drivers’ average age climbs to 51 and the shortage exceeds 5,000, even the smartest monthly pass and the most environmentally friendly electric bus are just metal shells sitting in depots. Urban progress is real, but it is rushing forward on a labor foundation that is rapidly aging.
+> 📝 **Curator's Note**: When laid out, these three urban developments (trunk buses, monthly passes, and electrification) look like a list of progress. However, they share a common invisible prerequisite: someone has to drive the vehicles. When the average age of drivers climbs to 51 and the labor shortage exceeds 5,000 people, even the smartest monthly pass or the most eco-friendly electric bus is just an empty metal shell sitting in a depot. Urban progress is real, but it is charging forward while sitting on a rapidly aging labor foundation.
 
 ## Taiwan Is Not an Isolated Case
 
