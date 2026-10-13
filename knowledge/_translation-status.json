@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-13T10:35:06+08:00",
-    "zhCommitHead": "1fc5dc13f",
+    "lastUpdated": "2026-10-13T10:35:23+08:00",
+    "zhCommitHead": "30121e5de",
     "totalZh": 1131,
     "activeLanguages": [
       "en",
@@ -75130,8 +75130,8 @@
           "sourceContentHash": "sha256:a80f1c8939a4c258",
           "sourceBodyHash": "sha256:94ee6147a8f08b1e",
           "translatedAt": "2026-10-13T01:00:45.423470+00:00",
-          "translationLastCommit": "d29ad571",
-          "translationLastModified": "2026-10-10T22:58:21+08:00",
+          "translationLastCommit": "30121e5d",
+          "translationLastModified": "2026-10-13T10:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 155210,
@@ -85436,8 +85436,8 @@
           "sourceContentHash": "sha256:e26a95dae7cf552e",
           "sourceBodyHash": "sha256:b680f8b344c7bf2d",
           "translatedAt": "2026-10-13T01:47:15.021533+00:00",
-          "translationLastCommit": "7a4980ec",
-          "translationLastModified": "2026-10-02T15:17:53+08:00",
+          "translationLastCommit": "30121e5d",
+          "translationLastModified": "2026-10-13T10:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 63,
           "bytes": 135269,

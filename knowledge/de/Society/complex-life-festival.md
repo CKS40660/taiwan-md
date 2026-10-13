@@ -31,10 +31,10 @@ rationale:
   whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
 relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a6'
-sourceContentHash: 'sha256:7ebf5415595c2d0c'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-09-12T01:15:21.005741+00:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:a80f1c8939a4c258'
+sourceBodyHash: 'sha256:94ee6147a8f08b1e'
+translatedAt: '2026-10-13T01:03:34.588299+00:00'
 ---
 
 **30-Sekunden-Übersicht:** Das Complex Life Festival (2016–2020, Taichung, fünf Ausgaben) wurde von zwei China-Medical-University-Kommilitonen gegründet, die eigentlich Ärzte werden sollten: TCM-Student Hsu Hao-ning und Medizinstudent Huang Yen-lin (Netzname: Huang Dou-ni). Der Name spielt ironisch auf Li Zongshengs „Simple Life Festival“ an, adressiert „Nicht-Erfolgreiche“ (je 200–300 Teilnehmende) und verbietet „Erfolg“ als Thema – nur „Wachstum“ zählt[^1]. Fünf Jahre später: Hsu Hao-ning blieb in Taichung als TCM-Arzt, eröffnete einen Buchladen, scheiterte bei der Stadtratswahl; Huang Dou-ni verließ die Medizin für Krypto und wurde 2025 Visiting Fellow am Allen Lab for Democracy Renovation der Harvard Kennedy School[^2]. Ein Anti-Erfolgs-Forum, dessen Macher und Gäste doch jeweils in Erfolg mündeten – seine schärfste Frage stellte Hsu Hao-ning auf der Bühne: „Wollt ihr mit Reue sterben oder lebendig aufgeben?“[^3]
@@ -237,49 +237,50 @@ Wie lässt sich begreifen, was diese fünf Jahre lang veranstaltete Zusammenkunf
 
 Interessant ist, dass sich diese vier Ausgänge später in der dritten Ausgabe des Complex Life Festival wieder trafen: Audrey Tang war die Repräsentantin der g0v-Linie, die in die Zentralregierung einging; Hsu Hao-ning kandidierte selbst für die New Power Party; Liu An-ting vertrat die Linie der alternativen Bildung – die Energie, die sich nach dem 318 aufgeteilt hatte, umkreiste vier Jahre und saß dann wieder zusammen in jenem dem Publikum abgewandten Dreieck. Die Wirkung des Complex Life Festival liegt nicht in der Größe, sondern in jenem Moment des „Erkennens Gleichgesinnter“, und darin, dass es diese scheinbar jeweils für sich verlaufenden Jugendpfade stillschweigend in ein und demselben Raum zusammennähte.
 
-## Schluss: Du fehlst immer nur dieses eine bisschen
+## Fazit: Du wirst immer nur ein kleines bisschen fehlen
 
-Der schärfste Satz des Complex Life Festival fiel Hsu Hao-ning bei der dritten Ausgabe.
+Der schärfste Satz des Complex Life Festival wurde von Hsu Hao-ning während der dritten Ausgabe auf der Bühne ausgesprochen.
 
-Zuerst gestand er etwas Peinliches ein: „Das Complex Life Festival ist die Veranstaltung, die ich am meisten hasse, die ich je organisiert habe. Jedes Jahr prüfe ich, ob mein Glaube echt ist oder nicht. Werden die Leute, die dieses Jahr kommen, nächstes Jahr nicht mehr kommen wollen?“[^3] Ein Fest, das anderen Wärme schenken soll – und der Hauptveranstalter zweifelt jedes Jahr daran, ob es sich noch einmal tragen lässt. Jemand, der für andere ein Zuhause baut, steht selbst an der Tür und fürchtet jedes Jahr, dass niemand zurückkehrt.
+Zuerst gestand er etwas Unangenehmes: „Das Complex Life Festival ist die Veranstaltung, die ich selbst am meisten hasse; jedes Jahr überprüfe ich, ob mein Glaube wahr oder falsch ist. Werden die Leute, die dieses Jahr kommen, nächstes Jahr vielleicht nicht mehr wollen kommen?“ [^3] Ein Fest, das man für andere veranstaltet, um ihnen Wärme zu spenden, während der Hauptorganisator jedes Jahr daran zweifelt, ob es überhaupt Bestand haben kann. Jemand, der ein Zuhause für andere baut, steht selbst an der Tür und hat jedes Jahr Angst, dass niemand zurückkehrt.
 
-Dann sprach er einen Abschnitt, der das, was hinter den vier Zeichen „Unsuccessful“ (未成功者) steckt, vollständig aufdeckte:
+Dann sprach er über etwas, das die gesamte Bedeutung hinter den vier Worten „die Unerfolgreichen“ (未成功者) offenlegte:
 
-„Wie viele Jahre müssen wir verbringen, um uns immer wieder zu sagen: Ich bin nicht stark genug, ich bin nicht gut genug, also muss ich weitergehen? Wie lange müssen wir durchhalten, bis wir uns selbst vergeben können zu sagen: Ich bin gut genug … Weil du dich nie mögen wirst, du fehlst immer nur dieses eine bisschen. Willst du bereuend sterben oder lebend aufgeben?“[^3]
+„Wie viele Jahre müssen wir uns immer wieder selbst sagen: Ich bin nicht stark genug, ich bin nicht gut genug, also muss ich weiter vorangehen? Wie lange müssen wir durchhalten, um uns selbst verzeihen zu können zu sagen: Ich bin gut genug ... denn man wird sich selbst nie lieben, man wird immer nur ein kleines bisschen fehlen. Willst du voller Reue sterben oder im Leben aufgeben?“ [^3]
 
-Diese Passage löst das Rätsel vom Anfang. Was ist „Unsuccessful“? Es ist keine Bescheidenheitsfloskel – Huang Dou-ni ging wirklich nach Harvard, Bescheidenheitsfloskeln wurden von der Realität längst eingelöst. Es ist auch nicht ganz Prophezeiung – der spätere „Erfolg“ dieser Menschen ist zu unterschiedlich, um ihn mit einer einzigen aufsteigenden Linie zusammenzufassen. Es ähnelt eher dem Zustand, den Hsu Hao-ning beschreibt: eine kollektive Selbstforderung, die eine Generation am Leib trägt und nicht abstreifen kann. Immer das Gefühl, man fehle nur dieses eine bisschen, nie bereit, sich selbst zu sagen: „Ich bin gut genug.“ Das Complex Life Festival hat diese kollektive Unzufriedenheit in ein jährliches Treffen verwandelt – eine Gruppe von Menschen, die immer nur dieses eine bisschen fehlen, die sich gegenseitig bestätigen, dass sie wirklich immer nur dieses eine bisschen fehlen.
+Dieser Satz löste das Rätsel vom Anfang auf. Was bedeutet „unerfolgreich“ eigentlich? Es ist keine bescheidene Floskel; Huang Dou Ni ist tatsächlich nach Harvard gegangen – Bescheidenheit wurde längst durch die Realität ersetzt. Es ist auch keine reine Prophezeiung; der spätere „Erfolg“ dieser Gruppe war zu unterschiedlich, um ihn mit einer einzigen aufsteigenden Linie zusammenzufassen. Es gleicht eher dem Zustand, den Hsu Hao-ning beschrieb: ein Anspruch an sich selbst, der eine ganze Generation wie eine Last trägt, die man nicht ablegen kann. Das Gefühl, immer nur ein kleines bisschen zu fehlen, und die Unfähigkeit, sich selbst zu sagen: „Ich bin gut genug“. Das Complex Life Festival machte diese kollektive Unzufriedenheit zu einem jährlichen Treffen – eine Gruppe von Menschen, denen es immer nur ein kleines bisschen fehlt, die sich gegenseitig bestätigen, dass sie wirklich alle nur ein kleines bisschen fehlen.
 
-Huang Dou-ni versiegelte es in „2016–2019 meine Ehre“. Hsu Hao-ning blieb in Taichung, geht weiter zur TCM-Behandlung, führt weiter jenen Buchladen, der nach der Wahlniederlage übrig blieb. Im Jahr der fünften Ausgabe sperrte die Welt alle in häusliche Isolation; dieses Fest, dessen Glaube das Versammeln war, setzte in dem Jahr, in dem man sich am wenigsten versammeln konnte, still einen Schlusspunkt.
+Huang Dou Ni bewahrte dies unter dem Titel „2016–2019 Meine Ehre“ auf. Hsu Hao-ning blieb in Taichung, studierte weiter traditionelle chinesische Medizin und führte die Buchhandlung weiter, die nach der Auswahl nicht mehr existierte. In dem Jahr, als die fünfte Ausgabe anstand, sperrte die Welt alle Menschen in die Selbstisolation. Dieses Fest, dessen Glaube das Zusammenkommen war, fand in dem Jahr, in dem Zusammenkommen am unmöglichsten war, ein stilles Ende.
 
-Die unbeantwortete Frage hängt noch immer auf der Bühne: Willst du bereuend sterben oder lebend aufgeben? Eine Generation, die sich weigerte, über Erfolg zu sprechen, stellte diese Frage, und dann kehrte jeder in sein eigenes komplexes Leben zurück, um weiter immer nur dieses eine bisschen fehlend zu leben.
+Die unbeantwortete Frage blieb auf der Bühne zurück: Willst du voller Reue sterben oder im Leben aufgeben? Eine Generation, die sich weigert, über Erfolg zu sprechen, stellte diese Frage, kehrte dann in ihr jeweils komplexes Leben zurück und lebte weiter mit dem Gefühl, dass es immer nur ein kleines bisschen fehlt.
 
 ```tw-timeline
-2016 | Forum der Unsuccessful | Erste Ausgabe, vierzig Tage Vorbereitung, zwei- bis dreihundert Personen, Facebook-Markierung „Workaholics, Randgruppen“ der Achtklässler
-2017 | Hotel California | Wirklich in ein Hotel verlegt, Thema entlehnt der Metapher „Man kommt rein, aber nicht mehr raus“
-2018 | Buddhist Youth | Audrey Tang, Liu An-ting, Lin Yi-ying zu dritt im Dreieck, dem Publikum den Rücken zugewandt im Gespräch
-2019 | ㄇㄉㄈㄎ | Huang Dou-ni handzeichnet motherfucker in Bopomofo-Standardzeichen, ein Jargon, den nur die Gleichgesinnten verstehen
-2020 | Häusliche Isolation | COVID bricht aus, physische Veranstaltung abgesagt, stattdessen 47 Podcast-Folgen, „das uncoolste Jahr“ danach faktisch beendet
+2016 | Forum der Unerfolgreichen | Die erste Ausgabe; 40 Tage Vorbereitung, zwei bis dreihundert Teilnehmer; achtzigste Generation (Gen Z), die auf Facebook als „Workaholics“ oder „Top-Studenten“ markiert war.
+2017 | California Hotel | Findet tatsächlich in einem Hotel statt; das Thema leitet sich von der Metapher „reinkommen, aber nicht mehr rauskommen“ ab.
+2018 | Buddha-orientierte Jugend | Tang Feng, Liu An-ting und Lin Yi-ying bilden ein Dreieck und führen Gespräche mit dem Rücken zum Publikum.
+2019 | MDFK | Huang Dou Ni zeichnet die „motherfucker“-Phonetik (Zhuyin) handgemalt – ein Insider-Slang, den nur die eigene Community versteht.
+2020 | Selbstisolation | COVID-19 trifft ein; die physische Veranstaltung wird durch 47 Podcast-Folgen ersetzt; nach dem „un-coolsten Jahr“ endet das Projekt faktisch.
+Quelle: Themen und Vor-Ort-Aufzeichnungen der jeweiligen Ausgaben (Interviews mit Hsu Hao-ning, Huang Dou Ni und Berichte vergangener Jahre) [^3][^10][^13]
 ```
 
-Zwei „Lebensfeste“ mit zehn Jahren Abstand – zwei Antworten zweier Generationen darauf, wie das Leben aussehen soll:
+Zehn Jahre trennen die beiden „Life Festivals“; sie sind zwei Antworten zweier Generationen darauf, wie das Leben aussehen sollte:
 
 ```tw-versus
-Einfaches Lebensfest (2006) | Complex Life Festival (2016)
-Jonathan Lee, Chang Pei-jen, Ma Tien-tsung (Musikbranche) | Hsu Hao-ning, Huang Dou-ni (Achtklässler Medizinstudenten)
-Erste Ausgabe 30.000, später 60.000–100.000 | Zwei- bis dreihundert, bewusst klein gehalten
-Hochkommerzialisiert, Markensponsoring | Nicht-kommerziell, selbstfinanziert über Ticketverkauf
-„Ruhig und fokussiert“ | „Wachstum“, Forum der Unsuccessful
-Generationübergreifend, Musik als Kern | Explizite Achtklässler-Zielgruppe
-2025 zwanzigstes Jubiläum | Faktisch beendet 2020
-Quelle: Complex Life Festival offizielles Medium, historisches Material des Einfachen Lebensfests
+Simple Life Festival (2006) | Complex Life Festival (2016)
+Jonathan Lee, Chang Pei-jen, Ma Tien-tsung (Musikindustrie) | Hsu Hao-ning, Huang Dou Ni (Medizinstudenten der Gen Z)
+Erste Ausgabe 30.000 Menschen, später 60.000 bis 100.000 | Zwei bis dreihundert Menschen; bewusst klein gehalten
+Hochgradig kommerzialisiert, Sponsoring durch Marken | Nicht-kommerziell, Ticketverkauf in Eigenregie
+„Ruhig und fokussiert“ | „Wachstum“, Forum der Unerfolgreichen
+Intergenerationell, mit Musik im Zentrum | Klarer Fokus auf die Gen Z
+2025 feiert es sein 20. Jubiläum | Endet faktisch im Jahr 2020
+Datenquelle: Offizielles Medium des Complex Life Festival, historische Daten des Simple Life Festival
 ```
 
-**Weiterführende Links**:
+**Weiterführende Literatur**:
 
-- [Sunflower Movement](/de/society/sunflower-movement) — Zeitlicher Kontext des Complex Life Festival: Wie die Bewegung von 2014 nach dem Ende auf der Straße in die New Power Party, g0v, Za Share und das Complex Life Festival als mehrere jugendliche Ausgänge aufsplitterte
-- [Za Share](/de/society/za-share) — Eine weitere Energie aus derselben 318-Welle, doch gegensätzlicher Weg: wuchs zum größten Bildungsfestival Asiens heran, im Kontrast zum Complex Life Festival mit dessen „bewusst klein bleiben“ als Gegenüber von Scale und Intimität
-- [Taiwans Slash-Generation](/de/society/taiwan-slash-generation-multi-job-economy) — Struktureller Hintergrund, warum sich Teilnehmer des Complex Life Festival als „Workaholics“ bezeichnen: Medianlohn und Existenzdruck, wie sie diese Generation zu Mehrfachjobs zwingen
-- [FAB DAO und das Hundred Peaks Project](/art/FAB DAO與百岳計畫) — Wohin Huang Dou-ni nach dem Medizinstudium ging: das nächste Werk, das „Cypherpunk-Geist in Taiwans digitale Gesellschaft einbringt“
+- [Sunflower Student Movement](/de/society/sunflower-movement) — Der zeitliche Hintergrund des Complex Life Festival: Wie sich die Bewegung von 2014 nach dem Ende der Straßenproteste in verschiedene Auswege für die Jugend aufteilte, wie New Power Party, g0v, Miscellaneous School und das Complex Life Festival.
+- [Miscellaneous School](/de/society/za-share) — Eine alternative Energie nach der 3/18-Bewegung, die jedoch einen entgegengesetzten Weg einschlug: Sie entwickelte sich zum größten Bildungskarnaval Asiens, was einen Kontrast in Skalierung und Intimität zum „bewusst klein gehaltenen“ Complex Life Festival darstellt.
+- [Taiwans Generation der Slashers](/de/society/taiwan-slash-generation-multi-job-economy) — Der strukturelle Hintergrund, warum Teilnehmer des Complex Life Festival sich selbst als „Workaholics“ bezeichnen: Wie das Medianeinkommen und der Überlebensdruck diese Generation dazu zwangen, mehrere Rollen gleichzeitig einzunehmen.
+- [FAB DAO und das Hundred Peaks Project](/art/FAB DAO與百岳計畫) — Wohin Huang Dou Ni nach dem Verlassen der Medizin ging: Ihr nächstes Werk, das den „Cyberpunk-Geist in die digitale Gesellschaft Taiwans integriert“.
 
 ## Bildquellen
 
