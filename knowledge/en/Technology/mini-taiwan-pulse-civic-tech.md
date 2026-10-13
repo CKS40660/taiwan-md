@@ -28,15 +28,19 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
-  [
-    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
-    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
-  ]
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-08T05:45:36.941228+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T09:12:36.939834+00:00'
 ---
 
 # Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye
@@ -53,38 +57,39 @@ The sentence does not sound like much. It later became the seed of an entire sys
 
 This article is about how one person moved from the innocence of dragging in a CSV to letting a system grow on his behalf.
 
-## How One Person's GitHub Became a Galaxy
+## How One Person's GitHub Grew into a Galaxy
 
-If you look only at the mini-taiwan-pulse project, it is easy to imagine Migu as a hobbyist engineer: inspired over a weekend, he built a demo that happened to go viral.
+If you only look at the `mini-taiwan-pulse` project, it is easy to mistake Migu for an amateur hobbyist engineer: someone who got inspired over a weekend, made a demo, and happened to go viral.
 
-That picture is wrong in two ways.
+This assumption is incorrect in two ways.
 
-First, he has built far more than one thing. Open his GitHub, and after December 2025 it is densely packed with visualizations of Taiwan open data. The earliest was a bus-range PoC testing the waters. Then, in late December, a learning project called `mini-taiwan-learning-project` went viral first and now has 189 stars. In February he built real-time vessel AIS points and `flight-arc-graph`, which draws every flight takeoff and landing segment as an arc (56 stars). Only at the end of February did mini-taiwan-pulse arrive, followed by a Taiwan Railways atlas, satellite orbits, real-time CCTV feeds, an integrated situational dashboard called `mini-taiwan-info`, and more, continuing into June[^2]. More than a dozen repos connect into one constellation; he gave it the name "Mini Taiwan" galaxy.
+First, he has done far more than just one project. Open his GitHub, and after December 2025, it is densely packed with visualizations of Taiwan's open data: it started with a bus-range PoC to test the waters; then, at the end of December, a learning project called `mini-taiwan-learning-project` went viral first, reaching 189 stars today. In February, he created real-time AIS ship positions and `flight-arc-graph`, which draws arcs for every flight takeoff and landing (56 stars). It wasn't until the end of February that `mini-taiwan-pulse` arrived, followed by a TRA atlas, satellite orbits, real-time CCTV feeds, and `mini-taiwan-info`, a situational dashboard that consolidates all the data... continuing all the way through June[^2]. Dozens of repos have connected into a single entity, which he has named the "Mini Taiwan" galaxy.
 
-![Mini Taiwan Info situational dashboard, consolidating multi-topic open data on population, rail transit, shipping, water resources, firefighting, health care, and more into one monitoring panel per theme](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![Mini Taiwan Info situational dashboard, consolidating multi-themed open data—including population, rail transport, shipping, water resources, fire services, and medical care—into one-page, single-topic monitoring panels](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Another member of the galaxy, Mini Taiwan Info: he consolidated scattered open data into a situational monitoring dashboard, with one page per theme for population, rail transit, shipping, water resources, firefighting, and health care. Image: Migu / sciwork 2026 (fair use editorial commentary)._
+_Another member of the galaxy, Mini Taiwan Info: He consolidated scattered open data into a situational monitoring dashboard, with population, rail transport, shipping, water resources, fire services, and medical care each on its own themed page. Photo: Migu / sciwork 2026 (fair use for editorial commentary)._
 
-Arrange these projects by stars, and it is clear that more than one became popular.
+If you rank these projects by stars, clearly more than one is "red" (trending).
 
 ```tw-bars
-Migu's GitHub: More Than One Popular Repo (GitHub Stars)
+Migu's GitHub: More than one repo is trending (GitHub Stars)
 *mini-taiwan-pulse | 375 | Flagship
 mini-taiwan-learning-project | 189 | Went viral before pulse
-flight-arc-graph | 56 | Flight tracks
-tw-ship-viz | 11 | Vessels
+flight-arc-graph | 56 | Flight paths
+tw-ship-viz | 11 | Shipping
 mini-tw-cctv | 6 | Real-time video
 satellite-arc | 6 | Satellites
 Source: GitHub API, 2026-06-25
 ```
 
-The second mistake is hidden in the phrase "one person." We will return to unpack it shortly. First, look at how the galaxy grew.
+The second inaccuracy lies hidden within the phrase "one person," which we will unpack later. For now, let's look at how the galaxy grew.
 
 ```tw-timeline
-2025-12 | First test | Bus-range PoC, the earliest Taiwan open-data experiment
-2025-12 | learning-project goes viral first | Taipei rail visualization, viral before the flagship (189★)
-2026-02 | Flagship born | mini-taiwan-pulse launches, evolving from static JSON into a spatiotemporal database
-2026-06 | The whole system revealed | sciwork 2026 talk: handing open data to an Agent-grown system
+2025-12 | First test | Bus-range PoC, earliest attempt with Taiwan open data
+2025-12 | learning-project goes viral first | Taipei rail visualization, went viral before the flagship (189★)
+2026-02 | Flagship is born | mini-taiwan-pulse launches, evolving from static JSON to a spatio-temporal database
+2026-06 | Unveiling the full system | sciwork 2026 talk: A system that hands open data over to Agents for cultivation
+Source: Migu's GitHub project records (project timeline and stars) and sciwork 2026 talk content[^2][^3]
 ```
 
 ## The Same Method, from Metro Lines to the Solar System
