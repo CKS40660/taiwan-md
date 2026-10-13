@@ -36,10 +36,10 @@ sporeLinks:
     url: 'https://x.com/taiwandotmd/status/2076992601543327976'
 relatedDiary: ['2026-07-14-193334-manual']
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '1929e495a'
-sourceContentHash: 'sha256:da418b1ee825bfe1'
-sourceBodyHash: 'sha256:9688d39de8d42815'
-translatedAt: '2026-09-26T02:44:48.800708+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:f6e388583def59a6'
+sourceBodyHash: 'sha256:0879f11101fa0c2c'
+translatedAt: '2026-10-13T07:16:18.260719+00:00'
 ---
 
 Di luar Pintu Keluar Jalur MRT Ximen 6, ruang merokok bertekanan negatif pertama di seluruh Taiwan: sebuah kotak kaca transparan dengan bingkai hitam yang berdiri di trotoar. Foto: _Huahua Daily_ / Reporter Chang Xiangying (komentar editorial penggunaan wajar).
@@ -114,27 +114,28 @@ Desain ini menjadi "tekanan negatif" alih-alih ruang merokok tertutup sepenuhnya
 
 Mengenai berapa banyak biaya yang dikeluarkan, pemerintah kota tidak mengumumkan laporan keuangan untuk setiap lokasi. Dalam sesi tanya jawab dewan, pemerintah kota menggunakan sekitar 1,5 juta dolar Taiwan sebagai standar perencanaan dan memperkirakan total anggaran hingga akhir Juni sekitar seratus juta dolar[^20]. Di sisi lain, Tao Lian-sheng, ketua direktur Liga Ketua Orang Tua Nasional, mempertanyakan dari sudut pandang efektivitas biaya: "Jika ruang merokok di luar ruangan harus memiliki partisi independen, AC independen, desain tekanan negatif, dan pintu otomatis sesuai hukum, tetapi masih memerlukan pengeluaran puluhan hingga ratusan ribu dolar Taiwan untuk mencapai efek 'tidak tercium bau rokok', itu jelas tidak sebanding dengan efektivitas biayanya"[^21]. Satu set adalah standar perencanaan pemerintah kota, sementara yang lain adalah perkiraan kritis dari kelompok orang tua; kedua angka tersebut memiliki sifat yang berbeda tetapi mengarah pada satu pertanyaan: apakah kotak ini layak?
 
-## Para Anti-Merokok Mulai Berdebat
+## Bahkan Kelompok Anti-Rokok Pun Saling Bertengkar
 
-Jika yang menentang hanyalah orang tua yang menganggapnya mahal, maka itu masih sederhana. Yang membuat masalah ini menjadi rumit adalah ketika kubu anti-merokok sendiri mulai berdebat, dan perdebatan mereka bukanlah tentang apakah harus anti-merokok atau tidak, melainkan bagaimana cara melawannya.
+Jika yang menentang hanyalah orang tua yang merasa biayanya terlalu mahal, maka masalah ini masih tergolong sederhana. Hal yang benar-benar membuat masalah ini menjadi rumit adalah fakta bahwa kelompok anti-rokok itu sendiri mulai bertengkar; dan yang mereka pertengkarkan bukanlah apakah harus anti-rokok atau tidak, melainkan bagaimana cara melakukan gerakan anti-rokok tersebut.
 
-Aliansi Anti-Merokok Taiwan dan Yayasan Dong memiliki sikap yang sangat jelas: menentang pembangunan ruang merokok tertutup dengan tekanan negatif di luar ruangan. Lin Ching-li, direktur Pusat Pencegahan Bahaya Tembakau Yayasan Dong, berpendapat "dari dalam ke luar, pertama terapkan larangan merokok 100% di dalam ruangan, baru buka area merokok di titik tertentu," dan secara tegas menyatakan bahwa "kota bebas asap rokok seharusnya membuat perokok tidak nyaman, bukan menyediakan tempat merokok secara umum" [^22]. Dalam logika mereka, semakin nyaman ruang merokok dibangun, semakin itu membuka jalan bagi kebiasaan merokok, dan semakin jauh dari niat awal untuk "membuat orang berhenti merokok." Ini bukanlah posisi baru; Yayasan Dong telah mengkritik rencana Bandara Taoyuan yang ingin memulihkan ruang merokok di dalam ruangan sejak tahun 2011.
+Posisi Aliansi Anti-Rokok Taiwan dan Yayasan Dong sangat jelas: menentang pembangunan ruang merokok bertekanan negatif yang tertutup di luar ruangan. Lin Ching-li, Direktur Pusat Pencegahan Bahaya Tembakau Yayasan Dong, menegaskan "dari dalam ke luar, terapkan larangan merokok 100% di dalam ruangan terlebih dahulu, baru kemudian membuka area merokok di titik tertentu di luar ruangan," dan menyatakan secara langsung bahwa "kota bebas asap rokok seharusnya membuat perokok merasa tidak nyaman, bukan malah menyediakan paviliun merokok di mana-mana"[^22]. Dalam logika mereka, semakin nyaman ruang merokok dibangun, semakin besar pula upaya untuk memfasilitasi kebiasaan merokok, yang justru menjauh dari tujuan awal untuk "membuat orang berhenti merokok". Ini bukanlah posisi baru; sejak tahun 2011, Yayasan Dong telah mengkritik rencana Bandara Taoyuan yang ingin memulihkan ruang merokok di dalam ruangan.
 
 ```tw-versus
-Pengurangan Dampak: Memasukkan rokok ke dalam kotak | Pengurangan Jumlah: Membuat merokok semakin sulit
-Mengakui masih ada perokok, berikan mereka sudut yang tidak mengganggu | Tujuannya adalah agar tingkat merokok terus menurun
-Manajemen bau dan puntung rokok secara terpusat, lingkungan kota menjadi lebih bersih | Semakin tidak nyaman, semakin mungkin membuat orang mengurangi atau berhenti sama sekali
-Pemikiran pemisahan dari pemerintah kota saat ini | Klaim kelompok anti-merokok dan sebagian kalangan medis
+Pengurangan Bahaya: Memasukkan asap rokok ke dalam kotak | Pengurangan Konsumsi: Membuat merokok menjadi semakin sulit
+Mengakui bahwa masih ada orang yang merokok, beri mereka sudut yang tidak mengganggu orang lain | Tujuannya adalah agar tingkat merokok terus menurun
+Bau rokok dan puntung rokok dikelola secara terpusat, tampilan kota menjadi lebih bersih | Semakin tidak nyaman, semakin besar kemungkinan orang mengurangi atau berhenti merokok sama sekali
+Logika pemisahan arus dari pemerintah kota saat ini | Pendapat kelompok anti-rokok dan sebagian kalangan medis
+Sumber: Jawaban Dewan Kota Taipei dan estimasi biaya-manfaat dari kelompok orang tua (laporan CNA, dll.) + Posisi Yayasan Dong dan Aliansi Anti-Rokok Taiwan[^20][^21][^22]
 ```
 
-Guo Fei-Ran, dokter residen di Departemen Kedokteran Keluarga Universitas Nasional Taiwan dan sekretaris Aliansi Pencegahan Bahaya Tembakau Medis Taiwan, menjelaskan lebih dalam. Dalam esainya, ia mengutip Konvensi Kerangka Kerja Pengendalian Tembakau Organisasi Kesehatan Dunia (WHO), yang menyatakan bahwa tidak ada sistem ventilasi, peralatan filtrasi udara, atau ruang merokok khusus yang dapat mencegah paparan asap rokok bekas; "tidak ada tingkat paparan asap rokok bekas yang aman" [^23]. Poinnya yang paling tajam menunjuk pada efek samping dari keberadaan kotak ini sendiri.
+Guo Fei-ran, dokter spesialis di Departemen Kedokteran Keluarga Rumah Sakit Nasional Taiwan (NTUH) sekaligus Sekretaris Jenderal Aliansi Pencegahan Bahaya Tembakau Komunitas Medis Taiwan, memberikan pandangan yang lebih mendalam. Dalam suratnya, ia mengutip Konvensi Kerangka Kerja Organisasi Kesehatan Dunia (WHO) tentang Pengendalian Tembakau, dan menunjukkan bahwa ventilasi, peralatan penyaringan udara, atau ruang merokok khusus mana pun tidak dapat mencegah paparan asap rokok sekunder, karena "tidak ada tingkat paparan asap rokok sekunder yang aman"[^23]. Dan pernyataan paling tajam darinya mengarah pada efek samping dari keberadaan kotak tersebut itu sendiri.
 
 ```tw-quote
-Sangat mendukung kota bebas asap rokok, tetapi jangan mendirikan ruang merokok tertutup di luar ruangan; jangan mengiklankan bahwa ruang merokok memiliki tekanan negatif dan peralatan filtrasi sehingga tidak ada asap rokok bekas; jangan menyebarkan konsep yang salah demi tujuan yang baik.
-Guo Fei-Ran | Dokter Departemen Kedokteran Keluarga Universitas Nasional Taiwan, Sekretaris Aliansi Pencegahan Bahaya Tembakau Medis Taiwan, 2026
+Saya sangat mendukung kota bebas asap rokok, tetapi jangan membangun ruang merokok tertutup di luar ruangan; jangan mempromosikan bahwa ruang merokok dengan tekanan negatif dan peralatan penyaringan berarti tidak ada asap rokok sekunder; jangan menyebarkan konsep yang salah demi tujuan yang baik.
+Guo Fei-ran | Dokter Departemen Kedokteran Keluarga NTUH, Sekretaris Jenderal Aliansi Pencegahan Bahaya Tembakau Komunitas Medis Taiwan, 2026
 ```
 
-> 📝 **Catatan Kurator**: Kutipan Guo Fei-Ran menyembunyikan mekanisme yang mudah diabaikan. Sebuah kotak kaca yang tampak futuristik dan mengklaim "empat lapisan filter" memberikan kesan bahwa "memiliki peralatan sama dengan aman": ketika Anda melihat asap ditarik ke dalam kotak berteknologi tinggi, Anda secara naluriah merasa masalah asap rokok bekas telah ditangani. Namun, secara ilmiah, rasa aman ini tidak bertahan lama. Laporan dari Kepala Badan Kesehatan Amerika Serikat pada tahun 2006 menyimpulkan: bahkan ruang merokok dengan tekanan negatif yang tertutup dan berventilasi sendiri pun tidak dapat mencegah kebocoran asap rokok bekas ke area sebelah [^24]. WHO dan American Institute of Refrigeration memiliki pandangan yang sama. Ruang kaca ini adalah kompromi yang penuh perhatian, tetapi juga bisa menjadi garis pertahanan yang membuat orang lengah—kedua hal ini bisa benar pada saat bersamaan.
+> 📝 **Catatan Kurator**: Dalam perkataan Guo Fei-ran ini, terdapat sebuah mekanisme yang mudah terabaikan. Sebuah kotak kaca yang tampak futuristik dan mengklaim memiliki "empat lapis filter" akan memberikan kesan implisit bahwa "adanya peralatan berarti aman": saat Anda melihat asap rokok tersedot ke dalam kotak berteknologi tinggi, secara tidak sadar Anda akan merasa masalah asap rokok sekunder telah teratasi. Namun secara ilmiah, rasa aman ini tidak memiliki dasar yang kuat. Laporan dari Administrator Kesehatan Masyarakat Amerika Serikat pada tahun 2006 menyimpulkan bahwa meskipun ruang merokok bertekanan negatif bersifat tertutup dan memiliki sistem pembuangan udara yang independen, hal itu tetap tidak dapat mencegah asap rokok sekunder merembes ke area di sebelahnya[^24]. Posisi WHO dan American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) adalah sama. Rumah kaca tersebut bisa menjadi bentuk kompromi yang penuh perhatian, namun sekaligus bisa menjadi garis pertahanan yang membuat orang menurunkan kewaspadaan—kedua hal ini bisa saja terjadi secara bersamaan.
 
 ## Penelitian di Kyoto, Sebenarnya Mengukur Hal Lain
 

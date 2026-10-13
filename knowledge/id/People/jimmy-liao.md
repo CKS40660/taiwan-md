@@ -2,10 +2,10 @@
 title: 'Jimmy Liao: Ilustrasi Penyembuhan dari Gelas Akuarium — Kisah Penyintas Leukemia Seorang Seniman'
 description: 'Pada 1995, desainer iklan berusia 37 tahun Liao Fu-pin didiagnosis leukemia mieloik akut dan melambai melalui kaca dari ruang steril. Setelah keluar rumah sakit, "tokoh-tokoh kecil" yang dulu adalah alat bisnisnya menjadi hidup; dia melukis Smiling Fish, Moon Forgot, Turning Left Turning Right, dan Subway. Di balik label "penyembuhan" dan persona Yilan yang diingat Taiwan, ada seorang yang pernah mengunjungi neraka — menerjemahkan kematian dan kesepian menjadi bentuk yang dapat dibaca — dan kemudian berkembang menjadi kerajaan visual melintasi film, teater musikal, sirkus, dan seni publik, masih menyelenggarakan pameran peringatan 25 tahun di Hong Kong pada 2026.'
 rationale:
-  why_this_hook: 'Ikan di akuarium kaca adalah metafora Jimmy Liao sendiri (melambai melalui jendela saat dirawat), sekaligus kunci pembalikan label "penyembuhan" — pembukaan dan penutup saling berhubungan, mendukung seluruh rangkaian penceritaan.'
-  whats_excluded: 'Kritik komersial (IP meluap melampaui karya) ditunjuk pada skala kekaisaran, tidak diperluas — bukan fokus artikel ini; koneksi tak terverifikasi antara instruktur Sturds Terkel, artikel New York Times, Chen Chi-chen menulis lagu semuanya dihilangkan.'
-  where_it_hedges: 'Ogilvy Advertising (Jimmy Liao sendiri tidak menunjuk langsung, ditandai "menurut laporan"); Jimmy Liao Plaza "akhir Juni 2013" ditulis tanpa tanggal presisi; koneksi keras Tien Chung-yuan ditulis sebagai hutan Diu Diu Dang, bukan co-creation plaza.'
-  whos_pushing_back: 'Kemungkinan kelompok yang membantah adalah pengkritik "komersialisme berlebihan Jimmy Liao, pencairan lintas media karya"; artikel merespons dengan sudut pandang "penyakit pribadi menjadi bahasa publik" alih-alih menolak.'
+  why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
+  whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
+  where_it_hedges: '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。'
+  whos_pushing_back: '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -24,13 +24,13 @@ featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
 readingTime: 12
-image: /article-images/people/jimmy-liao-square-yilan-2016.webp
+image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:8843f64848a3d381'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T08:20:41.148654+00:00'
 ---
 
 # Jimmy Liao: Ilustrasi Penyembuhan dari Gelas Akuarium — Kisah Penyintas Leukemia Seorang Seniman
@@ -83,42 +83,43 @@ Akhir 1990-an Taiwan, hanya beberapa tahun setelah reformasi, urbanisasi dan ind
 
 Alasan mengapa gambar-gambar Jimmy Liao dapat berubah dari penyembuhan diri satu orang menjadi hadiah yang saling diberikan dari seluruh generasi, adalah karena apa yang dia lukis, tepat itu adalah hal yang banyak orang tidak bisa mengatakan. Pada waktu itu, di kedai kopi, di ruang asrama, di stasiun metro, di mana-mana ada gambaran darinya; ketika pasangan putus, ketika teman kecewa, ketika siapa saja akan pergi ke militer, memberikan buku gambar Jimmy Liao tidak akan salah. Gambar yang dia buat untuk dirinya sendiri di ruang rawat inap, secara tidak terduga menjadi bahasa bersama seluruh generasi, semacam kode rahasia yang tidak perlu dijelaskan, semua orang mengerti.
 
-## Setiap Buku adalah Satu Penyelaman Dalam
+## Setiap Buku Adalah Sebuah Penyelaman
 
-Jika Anda membuka karya-karya perwakilan Jimmy Liao berdampingan, Anda akan menemukan sesuatu yang mudah diabaikan: ilustrasi yang dianggap sebagai penyembuhan hampir setiap satu dimulai dari tempat yang sangat gelap.
+Jika kita melihat karya-karya representatif Jimmy Liao, akan ditemukan satu hal yang mudah terabaikan: gambar-gambar yang dianggap sebagai penyembuh (healing) tersebut hampir semuanya bermula dari tempat yang sangat gelap.
 
 ```tw-timeline
-1958 | Lahir di Luodong, Yilan | Nama asli Liao Fu-pin
-1995 | Didiagnosis kanker darah (AML) | Berusia 37 tahun, kemoterapi lima bulan, titik awal penciptaan sesungguhnya
-1998 | Dua buku pertama dalam satu tahun memenangkan tiga penghargaan buku anak | Rahasia di Hutan, Smiling Fish
-1999 | Turning Left Turning Right, Moon Forgot | Dua poros utama terlewat dan kematian
-2001 | Subway | Gadis buta yang dilukis di tahun kelima penyintas
-2003 | Empat film dirilis | Termasuk film kompetisi Venice Film Festival "Floating Landscape"
-2009 | Starry Sky | Tahun 2011 adaptasi film, Five Month bernyanyi lagu tema
-2013 | Jimmy Liao Plaza Yilan dibuka | Plaza tematik Jimmy Liao pertama di Taiwan
-2019 | Pameran pribadi Museo ABC Madrid | Pertama kali di Eropa, 174 karya asli
-2026 | Hong Kong 25 Tahun Pameran Ulang Tahun "Serendipitous Glimmers" | Museo Harbour City Art
+1958 | Lahir di Luodong, Yilan | Nama asli: Liao Fu-pin
+1995 | Terdiagnosis leukemia (AML) | Usia 37 tahun, menjalani kemoterapi selama lima bulan, titik awal sejati dari kreativitasnya
+1998 | Dua buku cerita bergambar pertamanya memenangkan tiga penghargaan buku anak ternama di tahun yang sama | 《森林裡的祕密》 (Rahasia di Dalam Hutan), 《微笑的魚》 (Ikan yang Tersenyum)
+1999 | 《向左走·向右走》 (Melangkah ke Kiri, Melangkah ke Kanan), 《月亮忘記了》 (Bulan Telah Lupa) | Mengangkat tema tentang kehilangan dan kematian sebagai poros utama
+2001 | 《地下鐵》 (Subway) | Menggambarkan gadis buta yang dilukis pada tahun kelima ia bertahan hidup
+2003 | Empat film dirilis | Termasuk film kompetisi di Festival Film Venesia, 《戀之風景》 (Landscape of Love)
+2009 | 《星空》 (Starry Sky) | Diadaptasi menjadi film pada 2011, lagu temanya dinyanyikan oleh Mayday
+2013 | Pembukaan Lapangan Jimmy Liao di Yilan | Yang pertama di Taiwan
+2019 | Pameran tunggal di Museo ABC, Madrid | Pertama kali di Eropa, menampilkan 174 karya asli
+2026 | Pameran ulang tahun ke-25 di Hong Kong, 《偶然相遇的微光》 (Cahaya Temu yang Tak Terduga) | Galeri Seni Harbour City
+Sumber: Situs resmi Jimmy Liao (jimmyspa.com), Dakuai Culture, Wikipedia, dan data resmi berbagai festival film; usia diagnosis dan durasi kemoterapi berdasarkan pernyataan Jimmy Liao dalam wawancara (lihat daftar sumber di akhir teks) [^9][^10]
 ```
 
-> **Sumber Data**: Situs web resmi Jimmy Liao (jimmyspa.com), Locus Publishing, Wikipedia, data resmi berbagai festival film; usia diagnosis dan durasi kemoterapi berdasarkan wawancara diri Jimmy Liao.
+> **Sumber Data**: Situs resmi Jimmy Liao (jimmyspa.com), Dakui Culture, Wikipedia, data resmi berbagai festival film; usia diagnosis dan durasi kemoterapi berdasarkan pernyataan pribadi Jimmy Liao dalam wawancara.
 
-Smiling Fish adalah ikan di akuarium kaca itu. Seorang pria melihat seekor ikan di akuarium yang akan tersenyum kepadanya, membawanya pulang, dan pada suatu malam melepasnya kembali ke laut. Orang yang terisolasi, keinginan yang terperangkap, pelepasan terakhir — buku ini diterbitkan tidak lama setelah Jimmy Liao keluar dari ruangan transparan itu. "Penyakit adalah akuarium kaca saya," kalimat itu ditulis di Smiling Fish. [^15]
+《微笑的魚》 (Ikan yang Tersenyum) adalah tentang ikan di dalam akuarium kaca tersebut. Seorang pria jatuh cinta pada seekor ikan yang tersenyum padanya di akuarium, membawanya pulang, lalu melepaskannya kembali ke laut pada suatu malam. Isolasi, hasrat yang terkurung, dan akhirnya melepaskan—saat buku ini diterbitkan, Jimmy Liao baru saja keluar dari "ruang transparan" tersebut. Kalimat "Penyakit adalah akuarium kacaku" tertulis di dalam 《微笑的魚》. [^15]
 
-Moon Forgot diterbitkan pada Oktober 1999, diciptakan pada malam sebelum gempa bumi 921. Asalnya adalah tiga peristiwa nyata: seorang mantan rekan kerja di agensi periklanan Jimmy Liao, saat istirahat siang hari, melompat dari atap lantai paling atas, meninggalkan istri dan putri; seorang teman baik suami pergi ke Beijing untuk perjalanan bisnis, perdarahan otak meninggal; dan pemadaman listrik besar-besaran di Taipei. [^16] Sebuah buku gambar yang terlihat lembut, yang berbicara tentang bulan, di bawahnya ada dua nyawa dan sebuah kota yang tiba-tiba jatuh dalam kegelapan. Jimmy Liao berkata, dia "berhutang bulan sebuah cerita." [^48] Dan deskripsi resmi untuk buku ini adalah: "Mobil bulan tersenyum, diangkut ke setiap kota gelap yang berduka." [^17] Kematian dilukis olehnya menjadi bulan demi bulan yang bercahaya, akan dikirim untuk menghibur orang.
+《月亮忘記了》 (Bulan Telah Lupa) diterbitkan pada Oktober 1999, diciptakan menjelang gempa bumi besar 921. Sumber inspirasinya berasal dari tiga kejadian nyata: seorang mantan rekan kerja di perusahaan periklanan Jimmy Liao melompat dari atap gedung saat istirahat siang, meninggalkan istri dan putrinya; suami seorang teman baik meninggal dunia akibat pendarahan otak saat menghadiri rapat di Beijing; dan sebuah pemadaman listrik besar di Taipei. [^16] Sebuah buku cerita bergambar tentang bulan yang tampak lembut, namun di bawahnya tertekan oleh dua nyawa manusia dan sebuah kota yang tiba-tiba jatuh ke dalam kegelapan. Jimmy Liao mengatakan bahwa ia "berutang sebuah cerita kepada bulan". [^48] Dan deskripsi resmi untuk buku ini adalah: "Kereta-kereta berisi bulan yang tersenyum, dikirim ke setiap kota gelap yang penuh kesedihan." [^17] Kematian digambarkannya sebagai rangkaian bulan yang bercahaya, yang dikirimkan untuk menghibur manusia.
 
-Subway diterbitkan pada tahun 2001, itu adalah tahun kelima sejak Jimmy Liao terkena penyakit. Dokter pernah mengatakan kepadanya: "Jika Anda hidup melewati tahun kelima, tingkat kelangsungan hidup mungkin dapat meningkat secara signifikan." [^18] Bagi pasien kanker darah, tahun kelima adalah ambang kehidupan dan kematian. Tahun itu dia melukis gadis buta di metro mencari arah, pembukaan buku adalah: "Malaikat berpisah denganku di pintu masuk metro, tahun itu saya perlahan-lahan tidak bisa melihat." [^19]
+《地下鐵》 (Subway) diterbitkan pada tahun 2001, yaitu tahun kelima Jimmy Liao menderita penyakitnya. Dokter pernah berkata kepadanya: "Jika Anda bisa melewati tahun kelima, tingkat kelangsungan hidup Anda akan meningkat sangat banyak." [^18] Bagi seorang pasien leukemia, tahun kelima adalah ambang batas antara hidup dan mati. Pada tahun itu, ia melukis seorang gadis buta yang meraba jalan di dalam kereta bawah tanah; pembukaan bukunya berbunyi: "Tahun ketika malaikat mengucapkan selamat tinggal padaku di pintu masuk subway, aku perlahan-lahan mulai kehilangan penglihatan." [^19]
 
-Gadis buta itu adalah manifestasi dirinya sendiri, seluruh buku dilukis dalam bayangan kematian. Dia sangat takut ketika melukis, takut bahwa buku belum selesai, dia harus melambai lebih dulu. Jadi dia kemudian berkata, buku ini adalah "semua teks, semuanya menulis semacam dorongan pada diri saya sendiri." [^20] Seseorang yang takut dia tidak akan hidup untuk melihat buku diterbitkan, melukis gadis yang tidak bisa melihat, tetapi tidak pernah berhenti berjalan. Sebenarnya itu adalah suara dia memberi semangat pada diri sendiri di tepi jurang, hanya dia melukis suara itu sangat lembut, begitu lembut sehingga pembaca berpikir itu adalah cerita tidur yang menenangkan.
+Gadis buta itu adalah personifikasi dari dirinya sendiri, dan seluruh buku ini dilukis di bawah bayang-bayang kematian. Saat melukis, ia merasa sangat takut, takut bahwa sebelum buku ini selesai, ia sudah harus melambaikan tangan untuk berpamitan. Oleh karena itu, ia kemudian mengatakan bahwa "semua teks dalam buku ini adalah bentuk penyemangat bagi diriku sendiri". [^20] Seseorang yang takut tidak akan hidup sampai bukunya terbit, melukis seorang gadis yang tidak bisa melihat namun tidak pernah menghentikan langkahnya. Itu sebenarnya adalah suara dirinya yang sedang menyemangati diri di tepi jurang, hanya saja ia melukis suara itu dengan begitu lembut, hingga pembaca mengira itu adalah cerita pengantar tidur untuk menidurkan seseorang.
 
-![Patung malam (Gadis yang Berjalan ke Kiri). Turning Left Turning Right berbicara tentang dua orang yang tinggal di samping tetapi terus melewatkan satu sama lain.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
+![Patung 〈向左走的女孩〉 (Gadis yang Melangkah ke Kiri) setelah malam tiba. 《向左走·向右走》 menceritakan tentang dua orang yang tinggal bersebelahan namun terus-menerus melewatkan satu sama lain.](/article-images/people/jimmy-liao-girl-turns-left-2013.webp)
 
-Dibandingkan, Turning Left Turning Right tahun 1999 adalah yang paling diingat publik, tetapi juga yang paling kejam. Gadis yang terbiasa berjalan ke kiri, dan anak laki-laki yang terbiasa berjalan ke kanan, tinggal di sisi berlawanan dinding apartemen yang sama, seolah-olah itu sangat dekat, tetapi terus kali terlewatkan. Inspirasi buku ini berasal dari penyair Polandia Szymborska (pemenang Hadiah Nobel Sastra 1996) "Love at First Sight," puisi itu tentang dua orang yang melewati satu sama lain tetapi telah saling terikat sejak awal. [^54] Terlewat bukan kecelakaan, terlewat adalah struktur kehidupan sehari-hari: Anda pikir bertemu adalah keajaiban, sebenarnya melewati adalah norma.
+Sebagai perbandingan, 《向左走·向右走》 (Melangkah ke Kiri, Melangkah ke Kanan) dari tahun 1999 adalah buku yang paling diingat oleh publik, namun juga yang paling kejam. Seorang gadis yang terbiasa melangkah ke kiri, dan seorang pemuda yang terbiasa melangkah ke kanan, tinggal di sisi dinding apartemen yang sama; meski begitu dekat, mereka terus-menerus melewatkan satu sama lain. Inspirasi buku ini berasal dari puisi 〈Love at First Sight〉 karya penyair Polandia, Wisława Szymborska (pemenang Nobel Sastra 1996), sebuah puisi yang menulis tentang dua orang asing yang berpapasan namun sudah terhubung satu sama lain. [^54] Melewatkan sesuatu bukanlah sebuah kecelakaan, melainkan struktur dari keseharian: Anda mengira pertemuan adalah keajaiban, padahal berpapasan tanpa bertemu adalah hal yang normal.
 
-Bayangan penyakit menyeret dengan sangat panjang. Bahkan pada My Heart Blooms a Flower Every Day tahun 2000, dia masih menulis "ketika melukis buku ini, bayangan penyakit masih menggantung di hati saya." [^39] Blue Stone tahun 2006 oleh beberapa kritikus dianggap sebagai buku paling sedih yang dia buat, tentang batu biru yang dibelah, terus retak, memulai perjalanan "mewah dan penuh kehancuran"; catatan Jimmy Liao sendiri tidak berhenti pada kesedihan: "Bahkan percikan cahaya harapan dapat menerangi seluruh kegelapan alam semesta." [^53] Di sisi lain kegelapan, dia selalu meninggalkan sedikit cahaya. Hide in the Corner of the World tahun 2008 seperti berbisik lembut kepada semua orang yang tidak bisa bertahan: "Psst — bersembunyi di sudut dunia, mohon tetap senyap, lupakan waktu, jadilah diri Anda sendiri." [^40] Starry Sky tahun 2009 berbicara tentang dua pemuda dan pemudi yang sedih meninggalkan rumah, frase di buku itu "di mana ada bayangan, pasti ada cahaya," hampir bisa menjadi catatan kaki dari seluruh karya Jimmy Liao. [^41]
+Bayang-bayang penyakit itu menyeret sangat panjang. Bahkan pada buku 《我的心中每天開出一朵花》 (Setiap Hari Setangkai Bunga Mekar di Hatiku) tahun 2000, ia masih menuliskan "saat melukis buku ini, bayang-bayang penyakit masih tak kunjung hilang dari hatiku". [^39] Buku 《藍石頭》 (Batu Biru) tahun 2006 dianggap oleh beberapa kritikus sebagai bukunya yang paling sedih, menceritakan tentang sebuah batu biru yang dibelah, terus terurai, dan memulai perjalanan yang "megah sekaligus penuh penderitaan"; namun catatan Jimmy sendiri tidak berhenti pada kesedihan: "Bahkan secercah cahaya harapan pun dapat menerangi kegelapan seluruh alam semesta." [^53] Di sisi lain dari kegelapan, ia selalu menyisakan sedikit cahaya. 《躲進世界的角落》 (Bersembunyi di Sudut Dunia) tahun 2008 terasa seperti bisikan bagi semua orang yang tidak sanggup bertahan: "Sst—bersembunyilah di sudut dunia, harap tetap tenang, lupakan waktu, dan jadilah dirimu sendiri." [^40] 《星空》 (Starry Sky) tahun 2009 menceritakan tentang dua remaja yang melarikan diri dari rumah; kalimat dalam buku tersebut, "di mana ada bayangan, di situ pasti ada cahaya," hampir dapat dianggap sebagai catatan kaki bagi seluruh karya Jimmy Liao. [^41]
 
-Ikan tersenyum itu juga berenang ke layar perak. Pada tahun 2006, Smiling Fish diadaptasi menjadi film pendek sepuluh menit tanpa dialog, disutradarai bersama oleh Lin Bo-liang, Duan Yi-lun, dan Shi Chang-jie, dengan musik oleh Chen Jian-qi. [^42] Itu dipilih untuk sesi anak-anak Pameran Film Berlin ke-56 (Generasi), memenangkan penghargaan khusus film terbaik dari Organisasi Penyelamatan Anak-anak Jerman. [^43] Kesendirian yang dilukis seseorang Taiwan di ruang rawat inap, diterjemahkan menjadi gambar sepuluh menit tanpa suara, seluruh dunia bisa mengerti.
+Ikan yang tersenyum itu juga berenang ke layar lebar. Pada tahun 2006, 《微笑的魚》 diadaptasi menjadi film animasi pendek berdurasi sepuluh menit tanpa dialog, disutradarai bersama oleh Lin Po-liang, Duan Yi-lun, dan Shih Chang-chieh, dengan musik oleh Chen Chien-chi. [^42] Film ini terpilih dalam bagian Generation di Festival Film Berlin ke-56, dan memenangkan Penghargaan Khusus Film Pendek Terbaik dari organisasi bantuan anak Jerman. [^43] Kesendirian yang dilukis oleh seorang warga Taiwan di ruang rawat inap, telah diterjemahkan menjadi citra visual tanpa satu pun dialog yang dapat dimengerti oleh seluruh dunia.
 
-> 🎙️ **Catatan Kurasi**: Menempatkan empat buku ini berdampingan, Anda akan menemukan bahwa label "penyembuhan" sebenarnya membalikan sebab-akibat. Pemahaman umum adalah "gambar-gambar Jimmy Liao sangat imut, jadi membuat orang santai." Tetapi urutan itu tepat terbalik: pembaca merasa disembuhkan, karena dia pertama kali jujur berjalan ke isolasi, kematian, terlewatkan, tempat-tempat paling gelap ini, kemudian membawa sedikit cahaya keluar. Kenyamanan bekerja karena itu adalah seseorang yang benar-benar tinggal di akuarium kaca yang meneruskannya. Lu Rong-zhi berkata karya-karyanya "tidak pernah realisme, selalu membawa beberapa rasa mimpi, supertransendensi nada." Lapisan mimpi itu adalah seni penerjemahan: mengubah kenyataan yang tidak bisa ditahan, menjadi bentuk yang bisa dibaca seseorang.
+> 🎙️ **Catatan Kurator**: Jika keempat buku ini disejajarkan, akan ditemukan bahwa label "healing" sebenarnya membalikkan hubungan sebab-akibat. Pemahaman umum adalah "gambar Jimmy sangat lucu, sehingga membuat orang rileks". Namun urutannya justru sebaliknya: pembaca merasa terobati karena ia terlebih dahulu berjalan dengan jujur memasuki tempat-tempat paling gelap seperti isolasi, kematian, dan kehilangan, barulah kemudian keluar dengan membawa sedikit cahaya. Penghiburan menjadi efektif justru karena itu diberikan oleh seseorang yang benar-benar pernah berada di dalam akuarium kaca tersebut. Lu Rong-chih mengatakan bahwa karya-karyanya "tidak pernah bersifat realisme, melainkan selalu membawa nada mimpi dan surealisme". Lapisan mimpi tersebut adalah sebuah teknik penerjemahan: mengubah kenyataan yang tak tertahankan menjadi bentuk yang dapat terus dibaca oleh seseorang.
 
 ## Jimmy Liao Keluar dari Halaman
 
