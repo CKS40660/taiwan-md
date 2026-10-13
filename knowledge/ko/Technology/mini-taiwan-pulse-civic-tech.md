@@ -28,15 +28,19 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
-  [
-    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
-    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
-  ]
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-08T00:42:47+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T08:36:25.085833+00:00'
 ---
 
 # 미니 타이완 맥박: 큐레이팅의 시선으로, 숨 쉬는 지도를 그리다
@@ -53,38 +57,39 @@ translatedAt: '2026-09-08T00:42:47+08:00'
 
 이 글이 말하고자 하는 것은 한 개인이 CSV 파일을 끌어다 놓는 순진함에서 시작하여, 시스템에게 모든 것을 맡기는 과정으로 나아가는 이야기이다.
 
-## 한 사람의 GitHub가 어떻게 은하계처럼 커졌나
+## 한 개인의 GitHub이 어떻게 하나의 은하계로 성장했나
 
-mini-taiwan-pulse라는 프로젝트만 보면 Migu를 주말에 취미로 만든 아마추어 엔지니어로 생각하기 쉽다. 즉흥적으로 데모를 만들고 우연히 인기를 얻은 것처럼 말이다.
+mini-taiwan-pulse 프로젝트 하나만 본다면, Migu를 주말에 흥미가 생겨 데모를 만들었다가 우연히 인기를 얻은 아마추어 엔지니어로 오해하기 쉽다.
 
-이러한 생각에는 두 가지 오류가 있다.
+하지만 이러한 상상에는 두 가지 잘못된 점이 있다.
 
-첫째, 그가 한 일은 그것 하나에 국한되지 않는다. 그의 GitHub을 열어보면 2025년 12월 이후 타이완 개방형 데이터의 시각화 작업들이 빼곡히 채워져 있다. 가장 초기에 버스 범위 PoC(개념 증명)로 물맛을 보았고, 이어서 12월 말에는 `mini-taiwan-learning-project`라는 학습 프로젝트가 먼저 인기를 끌어 189개의 스타를 모았다. 2월에는 선박 AIS의 실시간 위치 데이터를 만들었고, 모든 항공편의 이착륙 경로를 호선(arc)으로 그린 `flight-arc-graph`(56개 스타)도 제작했다. 2월 말에야 mini-taiwan-pulse 차례가 되었고, 이후 타이완 철도 아틀라스, 위성 궤도, 실시간 CCTV 영상, 그리고 모든 데이터를 통합한 상황판인 `mini-taiwan-info`⋯⋯까지 진행하며 6월까지 이어졌다[^2]. 십여 개의 리포지토리가 하나의 유기체처럼 연결되었고, 그는 스스로 이것을 "미니 타이완" 은하계라고 명명했다.
+첫째, 그가 만든 것은 이 프로젝트뿐만이 아니다. 그의 GitHub을 열어보면 2025년 12월 이후 타이완의 공공 데이터를 시각화한 프로젝트들이 빼곡히 들어차 있다. 가장 초기에는 시장 반응을 살피기 위한 버스 범위 PoC였으며, 이어 12월 말에 `mini-taiwan-learning-project`라는 학습 프로젝트가 먼저 인기를 끌어 현재 별(Star) 개수 189개를 기록하고 있다. 2월에는 선박 AIS 실시간 위치 데이터를 만들었고, 모든 항공편의 이착륙을 호로 그려내는 `flight-arc-graph`(별 56개)를 제작했다. 2월 말에 이르러서야 mini-taiwan-pulse가 등장했으며, 이후 타이완 철도(TRA) atlas, 위성 궤도, 실시간 CCTV 영상, 그리고 모든 데이터를 하나로 수렴한 상황 모니터링 대시보드 `mini-taiwan-info` 등으로 이어져 6월까지 달려왔다[^2]. 수십 개의 레포지토리(repo)가 하나의 집합을 이루자, 그는 스스로 이를 「Mini Taiwan」 은하계라고 이름 붙였다.
 
-![Mini Taiwan Info 상황판: 인구, 궤도 운송, 해운, 수자원, 소방, 의료 등 다중 주제의 개방형 데이터를 한 페이지에 통합한 모니터링 패널](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![인구, 철도 운송, 해운, 수자원, 소방, 의료 등 다양한 주제의 공공 데이터를 한 페이지에 한 주제씩 모니터링할 수 있도록 수렴한 Mini Taiwan Info 상황 대시보드](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_은하계의 또 다른 구성원 Mini Taiwan Info: 그는 파편화된 개방형 데이터를 상황 모니터링 대시보드로 통합했다. 인구, 궤도 운송, 해운, 수자원, 소방, 의료를 주제별로 한 페이지에 담았다. 사진 출처: Migu / sciwork 2026 (공정 사용 편집 논평용)._
+_은하계의 또 다른 구성원 Mini Taiwan Info: 흩어져 있는 공공 데이터를 하나의 상황 모니터링 대시보드로 수렴하였으며, 인구, 철도 운송, 해운, 수자원, 소방, 의료 등 페이지마다 하나의 주제를 담고 있다. 사진: Migu / sciwork 2026 (fair use 편집 및 비평 용도)._
 
-이 프로젝트들의 스타 수를 나열해 보면, 인기 있는 것이 단 하나가 아님을 알 수 있다.
+이 프로젝트들의 별 개수를 나열해 보면, 인기 있는 프로젝트는 결코 하나가 아니다.
 
 ```tw-bars
-Migu의 GitHub: 인기 있는 리포지토리는 단 하나가 아니다 (GitHub 스타 수)
-*mini-taiwan-pulse | 375 | 주력작
-mini-taiwan-learning-project | 189 | 주력작보다 먼저 인기를 얻음
-flight-arc-graph | 56 | 비행 경로
+Migu의 GitHub: 인기 있는 레포지토리는 하나가 아니다 (GitHub Star 수)
+*mini-taiwan-pulse | 375 | 플래그십
+mini-taiwan-learning-project | 189 | pulse보다 먼저 인기를 얻음
+flight-arc-graph | 56 | 항적
 tw-ship-viz | 11 | 선박
 mini-tw-cctv | 6 | 실시간 영상
 satellite-arc | 6 | 위성
 출처: GitHub API, 2026-06-25
 ```
 
-두 번째 오류는 '한 사람'이라는 세 글자에 숨겨져 있으며, 우리는 나중에 이 부분을 파헤칠 것이다. 먼저 은하계가 어떻게 형성되었는지 살펴보자.
+두 번째 잘못된 점은 '한 개인'이라는 세 글자 속에 숨어 있으며, 이는 잠시 후에 다시 다루기로 한다. 우선 은하계가 어떻게 성장했는지 살펴보자.
 
 ```tw-timeline
-2025-12 | 첫 시도 | 버스 범위 PoC, 최초의 타이완 개방형 데이터 실험
-2025-12 | learning-project 선풍상화 | 타이베이 궤도 시각화, 주력작보다 먼저 인기 상승 (189★)
-2026-02 | 주력작 탄생 | mini-taiwan-pulse 개막, 정적 JSON에서 시공간 데이터베이스로 진화
-2026-06 | 전체 시스템 공개 | sciwork 2026 강연: 개방형 데이터를 에이전트가 키운 시스템에 맡기다
+2025-12 | 첫 시도 | 버스 범위 PoC, 초기 타이완 공공 데이터 시도
+2025-12 | learning-project 선행 인기 | 타이베이 철도 시각화, 플래그십보다 먼저 인기를 얻음 (189★)
+2026-02 | 플래그십 탄생 | mini-taiwan-pulse 시작, 정적 JSON에서 시공간 데이터베이스로 진화
+2026-06 | 전체 시스템 공개 | sciwork 2026 강연: 공공 데이터를 Agent에게 맡겨 육성하는 시스템
+출처: Migu의 GitHub 프로젝트 기록(프로젝트 시계열 및 별 개수)과 sciwork 2026 강연 내용[^2][^3]
 ```
 
 ## 동일한 방식으로 지하철부터 태양계까지 그리다
