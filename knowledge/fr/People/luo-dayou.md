@@ -1,33 +1,35 @@
 ---
-title: 'Lo Ta-yu : il a chanté les déracinés de Taïwan, mais a lui-même déménagé dix-neuf fois et cherche encore sa route'
-description: "Dans les années 1970, dans la salle de dissection anatomique d'une faculté de médecine à Taichung, un étudiant en radiologie se cachait pour chanter, parce que « l'écho y était très bon, et personne ne saurait que je chantais ». Plus tard, il écrivit « La petite ville de Lukang », « L'Orphelin d'Asie » et « Perle de l'Orient », posant pour toute une génération la question : « Qui suis-je ? » Mais cet homme qui a chanté toutes les formes du déracinement a lui-même quitté Taipei pour New York, Hong Kong puis Pékin, déménageant dix-neuf fois en vingt-neuf ans. À soixante-dix ans, il disait n'être qu'un « survivant remarquable »."
+title: "Lo Ta-yu : Chantant la perte d'identité des Taïwanais, il a déménagé dix-neuf fois tout en cherchant encore son chemin"
+description: "Dans les années 1970, dans la salle d'anatomie d'une faculté de médecine à Taichung, un étudiant en radiologie s'exerçait à chanter en cachette car « l'écho y était excellent et personne ne saurait que je chantais ». Plus tard, il a écrit des titres comme « La petite ville de Lukang », « L'orphelin de l'Asie » ou « La Perle de l'Orient », posant la question « Qui suis-je ? » pour toute une génération. Pourtant, cet artiste qui a chanté la perte d'identité est lui-même passé de Taipei à New York, Hong Kong et Pékin, déménageant dix-neuf fois en vingt-neuf ans. À soixante-dix ans, il se décrit simplement comme un « survivant remarquable »."
 date: 2026-06-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags:
   [
-    'musique',
-    'auteur-compositeur-interprète',
-    'critique sociale',
-    'musique populaire',
-    'Zhihuzheye',
-    "L'Orphelin d'Asie",
+    'Musique',
+    'Auteur-compositeur-interprète',
+    'Critique sociale',
+    'Pop',
+    'Littérature classique',
+    "L'orphelin de l'Asie",
     "Queen's Road East",
-    'errance',
+    'Errance',
   ]
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/羅大佑.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:a360c7a135e403dc'
-sourceBodyHash: 'sha256:fe7b545ee2048324'
-translatedAt: '2026-06-20T01:01:36+08:00'
+researchReport: 'reports/research/2026-06/羅大佑.md'
 image: '/article-images/people/lo-ta-yu-2011.webp'
+imageAlt: "Lo Ta-yu lors d'une performance en 2011, arborant son image emblématique de « Lo Ta-yu noir » avec ses lunettes de soleil caractéristiques"
 imageCredit: 'Daniel M Shih'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Lo_Ta-yu_羅大佑_2011.jpg'
+translatedFrom: 'People/羅大佑.md'
+sourceCommitSha: 'a8f7c4e08'
+sourceContentHash: 'sha256:144c002ad03fa8d4'
+sourceBodyHash: 'sha256:04e767238ef4084f'
+translatedAt: '2026-10-13T09:50:01.208777+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :** Lo Ta-yu (né en 1954) est un auteur-compositeur-interprète issu de la radiologie médicale. En 1982, _Zhihuzheye_ transforma les paroles de chansons populaires : d'ornements affectifs, elles devinrent des supports d'idées. La critique musicale taïwanaise classa plus tard cet album au premier rang des cent albums classiques. Il écrivit le déracinement de « La petite ville de Lukang », l'isolement de « L'Orphelin d'Asie », l'éloignement de « Perle de l'Orient », posant sans cesse la question : « Qui suis-je ? » Le paradoxe est que cet homme qui a chanté toute l'errance taïwanaise a lui-même vagabondé de Taipei à New York, Hong Kong et Pékin ; des chercheurs ont calculé qu'il avait déménagé dix-neuf fois en vingt-neuf ans. À soixante-dix ans, revenu à Taïwan, il monta sur scène et déclara que, dans sa génération de musiciens, « au moins 70 % ont été éliminés » ; ceux qui restent sont tous des survivants remarquables.
@@ -94,32 +96,33 @@ Ce qui le blessa davantage encore fut le destin ultérieur de cette chanson. Les
 
 Si « L'Orphelin d'Asie » montre un créateur triomphant du système par l'intelligence, « Demain sera meilleur » montre le même créateur recevant une leçon brutale de ce système. On peut cacher une vérité dans un faux sous-titre, mais on ne peut empêcher autrui de déplacer sa chanson pour lui faire dire ce qu'il veut dire. Cet épisode, ajouté à toutes les contraintes que le Taïwan de la loi martiale imposait à la création, devint l'un des bruits de fond de son départ ultérieur.
 
-## De Taipei à Pékin, chanter la quête des racines
+## Une quête de racines, de Taipei à Pékin
 
-Le 9 mars 1985, Lo Ta-yu quitta Taïwan pour New York[^11]. Ce fut le point de départ de plus de vingt années d'errance.
+Le 9 mars 1985, Lo Ta-yu quitte Taïwan pour New York[^11]. C'est le point de départ d'une errance qui durera plus de vingt ans.
 
-Le chiffre cité par Wikipédia en anglais est frappant : au cours de la suite de sa vie, il déménagea dix-neuf fois en vingt-neuf ans, de New York à Hong Kong puis à Pékin[^12]. Il n'allait pas simplement en tournée ou chercher du prestige ; il vivait réellement dans chaque ville, puis repartait. Le plus paradoxal est que les chansons qu'il écrivit à chacune de ces étapes parlent presque toutes du « pays natal », de la manière dont un étranger regarde le lieu qui l'abrite provisoirement.
+Les chiffres cités par l'anglais Wikipédia sont stupéfiants : au cours des vingt-neuf années suivantes, il a déménagé dix-neuf fois, de New York à Hong Kong, jusqu'à Pékin[^12]. Il ne s'agissait pas de tournées ou de simples séjours pour parfaire son expérience ; il s'installait réellement dans chaque ville avant de repartir. Le plus paradoxal est que les chansons qu'il écrivait à chaque étape traitaient presque systématiquement du « pays natal », ou de la manière dont un étranger perçoit le lieu où il réside temporairement.
 
 ```tw-timeline
-1985 | Quitte Taïwan pour New York | Départ pour les États-Unis le 9 mars, point de départ de plus de vingt ans d'errance
-1987 | S'installe à Hong Kong | Les sources chinoises indiquent 1987 (Wikipédia anglais donne 1986, soit un an d'écart)
-1990 | Fonde Music Factory à Hong Kong | Coentreprise avec Rock Records, écrit Hong Kong en visant 1997, fermeture en 1999
-2000 | Levée de l'interdiction en Chine continentale, tournée du siècle | Concerts à Shanghai, Hangzhou, Nanchang, Kunming
-2002 | Music Factory déménage à Pékin | Conférence de presse au temple de Confucius : « Je sens la terre trembler sous mes pieds »
+1985 | Départ de Taïwan pour New York | Départ pour les États-Unis le 9 mars, début de vingt ans d'errance
+1987 | Installation à Hong Kong | Les sources en chinois indiquent 1987 (Wikipédia anglais indique 1986, soit un an d'écart)
+1990 | Création de Music Factory Hong Kong | Coentreprise avec Rock Records, axée sur Hong Kong à l'approche de 1997 ; se termine en 1999
+2000 | Levée de l'interdiction en Chine continentale, tournée du siècle | Concerts à Shanghai, Hangzhou, Nanchang et Kunming
+2002 | Music Factory déménage à Pékin | Conférence de presse au temple de Confucius : « Je sens le sol trembler sous mes pieds »
+Source : Données de l'article (entrée Wikipédia anglais Lo Ta-yu, entrée Baidu Baike Music Factory, reportages Sina sur Pékin en 2002) et entretiens de la série Voyageur[^11][^13][^17]
 ```
 
-> **Sources** : entrée Wikipédia anglais « Lo Ta-yu », entrée Baidu Baike « Music Factory », reportage de Sina en 2002 depuis Pékin.
+> **Sources** : Entrée Wikipédia anglais Lo Ta-yu, entrée Baidu Baike Music Factory, reportages Sina sur Pékin en 2002.
 
-La deuxième étape fut Hong Kong. En 1987, il s'y installa (les sources chinoises indiquent 1987, Wikipédia anglais écrit 1986, avec un an d'écart)[^13]. En 1990, il fonda avec Rock Records la « Hong Kong Music Factory »[^14], et orienta son objectif créatif vers un Hong Kong en compte à rebours avant la rétrocession. L'œuvre représentative est « Queen's Road East », publiée en janvier 1991 : la musique est de Lo Ta-yu, les paroles de Lin Xi, et la chanson est interprétée en duo par Lo Ta-yu et Ram Chiang[^15]. Lo Ta-yu expliqua plus tard le double sens du titre : « une grande avenue, c'est la route que l'on doit suivre dans la vie... arrivée en Orient, elle devient Queen's Road East, c'est-à-dire Hong Kong »[^15]. C'est un Taïwanais qui, depuis une subtile position d'étranger, écrivit l'angoisse collective de Hong Kong à la veille de la rétrocession.
+La deuxième étape fut Hong Kong. Il s'y installe en 1987 (les sources en chinois indiquent 1987, tandis que Wikipédia anglais mentionne 1986, soit un an de différence)[^13]. En 1990, il fonde « Music Factory Hong Kong » en coentreprise avec Rock Records[^14], tournant son regard créatif vers une Hong Kong en plein compte à rebours avant sa rétrocession. Son œuvre emblématique est 〈Queen's Road East〉 (皇后大道東), sortie en janvier 1991 ; la musique est signée Lo Ta-yu, les paroles sont de Lin Xi, et le titre est interprété par Lo Ta-yu et Chiang Chih-kuang[^15]. Lo Ta-yu a plus tard expliqué le jeu de mots du titre : « La "grande avenue" (大道) représente le chemin que l'on doit suivre dans la vie... en arrivant à l'Orient, elle devient Queen's Road East, c'est-à-dire Hong Kong. »[^15] C'est un Taïwanais qui, avec le regard subtil d'un étranger, a écrit pour Hong Kong l'expression de l'anxiété collective à la veille de la rétrocession.
 
-Le regard de l'étranger apparaît plus clairement encore dans « Perle de l'Orient ». La première version de cette chanson fut la version cantonaise de 1986, composée par Lo Ta-yu, écrite par Cheng Kwok-kong et interprétée par Michael Kwan ; ce n'est qu'en 1991 que Lo Ta-yu réécrivit lui-même les paroles de la version en mandarin[^16]. Des critiques musicaux ont comparé les deux versions, disant que « les paroles de Cheng sont simples et concrètes, celles de Lo flottantes et abstraites »[^16] : entre l'ancrage d'un parolier local hongkongais et la distance lettrée d'un créateur taïwanais écrivant Hong Kong, l'écart se voit là. Quelle que soit la profondeur de son affection, elle reste celle d'un homme venu d'ailleurs.
+Ce regard d'étranger est encore plus manifeste dans la chanson 〈Perle de l'Orient〉 (東方之珠). À l'origine, il s'agissait d'une version cantonaise sortie en 1986, composée par Lo Ta-yu avec des paroles de Cheng Kwok-kong et interprétée par Kwan Ching-kit ; ce n'est qu'en 1991 que Lo Ta-yu a réécrit lui-même les paroles pour la version en mandarin[^16]. Certains critiques musicaux ont comparé ces deux versions, affirmant que « les paroles de Cheng sont terre-à-terre tandis que celles de Lo sont éthérées »[^16] : c'est là que réside la différence entre l'ancrage d'un parolier local hongkongois et la distance un peu lyrique d'un créateur taïwanais écrivant sur Hong Kong. Peu importe la profondeur de son émotion, elle restait celle d'un étranger.
 
-La troisième étape fut Pékin. En 2000, ses chansons furent de nouveau autorisées en Chine continentale, et il lança une tournée du siècle qui passa par Shanghai, Hangzhou, Nanchang et Kunming[^17]. En 2002, Hong Kong Music Factory déménagea à Pékin[^17] ; la même année, lors d'une conférence de presse au temple de Confucius à Pékin, il prononça une phrase qui saisit avec une grande justesse cette époque de transformations : « C'est une grande ville... je sens la terre trembler sous mes pieds, parce que tout est en train de changer ! »[^17]
+La troisième étape fut Pékin. En 2000, ses chansons sont autorisées en Chine continentale, et il entame une tournée du siècle, se produisant à Shanghai, Hangzhou, Nanchang et Kunming[^17]. En 2002, Music Factory déménage à Pékin[^17]. La même année, lors d'une conférence de presse au temple de Confucius à Pékin, il prononça une phrase qui illustrait parfaitement cette époque de bouleversements : « C'est une ville magnifique... je sens le sol trembler sous mes pieds, car tout est en train de changer ! »[^17]
 
-Même la terre sous ses pieds tremblait : c'est presque l'aveu le plus honnête d'une demi-vie d'errance chez Lo Ta-yu. Un homme parti de Taipei, ayant déménagé dix-neuf fois entre New York, Hong Kong et Pékin, sentait partout que le sol pouvait bouger. En 2004, lors d'un entretien, il formula cela plus clairement encore : il disait aller et venir entre la Chine continentale, Hong Kong et Taïwan ; cela ressemblait à une dérive permanente, mais, en réalité, il cherchait ses propres racines (en anglais : « in fact, I'm seeking my roots »)[^18].
+« Sentir le sol trembler sous ses pieds » : c'est sans doute l'aveu le plus sincère de la vie errante de Lo Ta-yu. Pour un homme parti de Taipei qui a déménagé dix-neuf fois entre New York, Hong Kong et Pékin, peu importe où il se trouve, le sol semble toujours en mouvement. Lors d'un entretien en 2004, il a approfondi cette idée : il expliquait que ses allers-retours entre la Chine continentale, Hong Kong et Taïwan pouvaient ressembler à une errance sans but, mais qu'en réalité, il cherchait ses racines (_in fact, I'm seeking my roots_)[^18].
 
-> 📝 **Note de curation**
-> Il y a ici un fait facile à négliger. Un article académique de 1993 publié par _The China Quarterly_, à l'université de Cambridge, écrivait que Lo Ta-yu, « bien qu'il n'ait jamais joué en Chine continentale, y restait très populaire » (« despite never performing on the mainland, his work remained widely popular »)[^19]. Autrement dit, bien des années avant qu'il pose réellement le pied sur le sol chinois, ses chansons y étaient déjà arrivées. Les chansons d'une personne peuvent atteindre un lieu avant son corps, y être accueillies avant elle : c'est peut-être une forme de compensation propre à l'errant. Le corps reste toujours en chemin, mais les chansons s'installent pour lui avant son arrivée.
+> 📝 **Note du commissaire**
+> Il y a ici un fait facile à ignorer. Un article académique de 1993 paru dans la revue _The China Quarterly_ de l'Université de Cambridge notait que Lo Ta-yu « bien qu'il n'ait jamais joué sur le continent, ses œuvres sont restées largement populaires » (_despite never performing on the mainland, his work remained widely popular_)[^19]. Autrement dit, bien des années avant de fouler réellement le sol chinois, sa musique y était déjà arrivée. La musique d'un homme peut atteindre un lieu et être adoptée par ses habitants avant même que l'homme lui-même n'y arrive — c'est peut-être là une forme de compensation pour celui qui erre : son corps est toujours en chemin, mais sa musique, elle, s'est déjà installée sur place.
 
 ## Les chansons qu'il a écrites, et celles qu'il a écrites pour les autres
 

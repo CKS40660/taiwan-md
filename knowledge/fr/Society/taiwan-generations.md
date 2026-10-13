@@ -2,9 +2,7 @@
 title: "Taïwan : les générations de la cinquième à la neuvième année de la République de Chine : pendant trente ans, l'insulte de « fraise » a visé trois cohortes ; ce qui a basculé, c'est l'escalator sous leurs pieds"
 description: "Lorsque le terme de « génération fraise » a été imprimé pour la première fois en 1993, il visait les membres de la cinquième génération, aujourd'hui quinquagénaires et nostalgiques de Yakult. En trente ans, les cibles de cette insulte ont changé, mais l'étiquette est restée inchangée. Ce qui a véritablement bougé entre ces cinq cohortes, c'est l'escalator de la méritocratie : il a ralenti vers 2002, son entrée a été surélevée par les prix immobiliers, puis il s'est scindé en deux : celui qui ne dépend que des salaires est pratiquement à l'arrêt, tandis que celui soutenu par le capital familial continue de fonctionner."
 date: 2026-06-08
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '世代與社會變遷'
 tags:
   [
     'génération',
@@ -16,19 +14,31 @@ tags:
     'indépendance naturelle',
     'justice intergénérationnelle',
   ]
-readingTime: 18
+subcategory: '世代與社會變遷'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-08
 lastHumanReview: false
-featured: false
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
-translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '805200859'
-sourceContentHash: 'sha256:1b3e5e3f22f40ead'
-sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
-translatedAt: '2026-07-25T04:46:08+08:00'
+readingTime: 18
+researchReport: 'reports/research/2026-06/台灣的年級生世代.md'
 image: '/article-images/society/budaixi-puppets-2023.webp'
 imageCredit: 'Wang Yu Ching / Office of the President'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
+viewpoint_formed: true
+core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
+rationale:
+  whats_excluded: |-
+    - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
+    - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
+    - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
+    - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
+    - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+translatedFrom: 'Society/台灣的年級生世代.md'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:925c0f0fa8d0ba22'
+sourceBodyHash: 'sha256:e06cb9dbec5bce60'
+translatedAt: '2026-10-13T09:33:59.697193+00:00'
 ---
 
 > **En 30 secondes :** Les Taïwanais se désignent par « génération de la [numéro] année » (年級生), en prenant le chiffre des dizaines de l'année de naissance selon le calendrier de la République de Chine (ROC). La cinquième génération (五年級) regroupe les nés de 1961 à 1970 (ROC 50-59), jusqu'à la neuvième génération (2001-2010). Le terme « génération fraise » (草莓族), utilisé comme une insulte depuis trente ans, visait à sa première apparition imprimée en 1993 les jeunes de vingt ans, aujourd'hui quinquagénaires[^1] ; il s'est ensuite transmis aux septième, huitième et neuvième générations. Les cibles ont changé, l'étiquette non. Ce qui a véritablement bougé entre ces cinq cohortes, c'est l'escalator de la méritocratie (« l'effort porte ses fruits ») : il a ralenti vers 2002, le lien entre salaires réels et productivité s'est rompu[^2] ; l'entrée a été surélevée par les prix immobiliers, le ratio prix des logements/revenus à Taipei passant de 6,4 fois en 2004 à 15,41 en 2025[^3] ; puis il s'est scindé en deux : celui qui ne dépend que des salaires est pratiquement à l'arrêt, tandis que celui soutenu par l'apport parental des familles continue de fonctionner. Cet article vise à décortiquer cette étiquette.
@@ -39,69 +49,72 @@ C'était toute une génération qui aimait un espace auquel seuls eux pouvaient 
 
 Le paradoxe est que le terme qui a le plus divisé ces cinq générations a vu sa cible changer plusieurs fois en trente ans, sans que le mot ne soit jamais modifié.
 
-## Un mot, une insulte pendant trente ans, trois cohortes visées
+## Un mot, trente ans d'injures, trois générations visées
 
-Au début des années 1990, la consultante en milieu de travail Weng Jing-yu (翁靜玉) a publié _Office Stories_ (《辦公室物語》), où le terme « génération fraise » (草莓族) a été imprimé pour la première fois. Elle ne visait pas les jeunes d'aujourd'hui, mais ceux qui venaient d'entrer dans les bureaux, ces jeunes de vingt ans nés dans les années 1960, aujourd'hui quinquagénaires, qui aiment se remémorer dans les groupes Facebook les poupées Tatung et le Yakult[^1].
+Au début des années 1990, la consultante en entreprise Weng Ching-yü publie 《辦公室物語》 : c'est la première apparition en caractères du terme « 草莓族 » (litt. « tribu fraise », d'où « Génération fraise »). Ce n'étaient pas les jeunes d'aujourd'hui qu'elle visait, mais la cohorte qui entrait alors sur le marché du travail, la vingtaine, soit les natifs des années 1960 — aujourd'hui quinquagénaires, ceux que l'on appelle la « cinquième année », férus de nostalgie pour le bébé Tatung et les bouteilles de Yakult dans les groupes Facebook[^1].
 
-L'article de Wikipédia trace clairement cette ligne de migration : la « génération fraise » désignait à l'origine les Taïwanais nés dans les années 1960,俗称 la cinquième génération. Par la suite, la perception dominante s'est déplacée vers les jeunes de la septième génération et au-delà[^1]. Un terme initialement conçu pour insulter une cohorte de jeunes de vingt ans est devenu, trente ans plus tard, le terme générique pour désigner « ceux qui sont plus jeunes que moi et que je n'aime pas ». L'étiquette ne décrit pas une génération spécifique, elle décrit le fait d'être « jeune », qui est une cible mobile.
+L'article de Wikipédia trace nettement cette dérive : à l'origine, « Génération fraise » désignait les Taïwanais nés dans les années 1960, les fameux « cinquièmes années ». Le consensus a ensuite glissé vers le bas pour englober les « septièmes années » et au-delà[^1]. Un vocable forgé pour brocarder un groupe précis de vingtenaires est devenu, trente ans plus tard, l'étiquette passe-partout pour « tous ceux qui sont plus jeunes que moi et m'agacent ». L'étiquette ne décrit pas une génération, elle décrit la « jeunesse » comme catégorie, or la jeunesse est une cible mobile.
 
-La trajectoire de cette cible peut presque être lue comme une histoire condensée des générations à Taïwan. En 1993, on insultait la cinquième génération. Dans les années 2000, l'étiquette s'est collée à la septième génération. En 2008, lors du « Mouvement des fraises sauvages » (野草莓運動), les étudiants de la septième génération, insultés, ont repris le terme à leur compte pour en faire le nom du mouvement[^5]. En 2012, le magazine _Vision_ (遠見雜誌), en collaboration avec Yahoo et MySpace, a mené une enquête sur la « Nouvelle Neuf-Clans des Jeunes » (青年新九族). Parmi 1 129 jeunes de 20 à 35 ans, la « génération fraise » a été élue premier label à vouloir voir réhabilité, avec 16,5 %, suivie par la « génération accro aux parents » (啃老族) et la « génération低头 » (低頭族, accros au smartphone)[^6]. Dans les années 2020, ce chapeau a été reposé sur la génération Z, la neuvième génération.
+Cette cible mobile dessine à elle seule une histoire abrégée des générations taïwanaises. 1993 : on vise la « cinquième année ». Années 2000 : l'étiquette colle à la « septième année ». 2008, « Mouvement Wild Strawberry » (野草莓運動) : les étudiants de « septième année » visés retournent l'injure et en font le nom de leur mouvement[^5]. 2012, Global Views Monthly, Yahoo et Wretch lancent l'enquête « Nouvelle Neuf-Clans » (青年新九族) auprès de 1 129 jeunes de 20 à 35 ans : l'étiquette qu'ils réclament de voir réhabilitée en priorité est « Génération fraise » (16,5 %), devant « tribu parasite » (啃老族) et « tribu tête baissée » (低頭族)[^6]. Dans les années 2020, le bonnet retombe sur la génération Z, la « neuvième année ».
 
 ```tw-timeline
-1993 | Première impression du terme « Génération fraise » | Weng Jing-yu, *Office Stories*, visait initialement la cinquième génération de vingt ans
-2008 | La cible se réapproprie l'insulte | Les étudiants de la septième génération du « Mouvement des fraises sauvages » font de ce terme péjoratif le nom du mouvement
-2012 | Premier label à vouloir voir réhabilité | Enquête Vision x Yahoo x MySpace, 1 129 votes, la « génération fraise » arrive en tête avec 16,5 %
-2020s | Le chapeau descend vers la Génération Z | Le même terme est appliqué à la neuvième génération, le contenu n'a pas changé
+1993 | Première apparition de « Génération fraise » | Weng Ching-yü, 《辦公室物語》, désignait à l'origine les vingt-something d'alors, aujourd'hui quinquagénaires de la « cinquième année »
+2008 | Les visés reprennent le terme | Les étudiants de « septième année » du « Mouvement Wild Strawberry » s'approprient l'injure comme nom de mouvement
+2012 | Étiquette n°1 à réhabiliter | Enquête Global Views × Yahoo × Wretch, 1 129 votes, « Génération fraise » 16,5 % en tête
+2020s | Le bonnet glisse vers la génération Z | Le même mot coiffe la « neuvième année », le fond n'a pas changé
+Source : Wikipédia « Génération fraise » + archives Mouvement Wild Strawberry + enquête Global Views / Yahoo / Wretch « Nouvelle Neuf-Clans » (reportage ETtoday)[^1][^5][^6]
 ```
 
-Et ce terme a une assise juridique. La Cour d'appel de Taïwan a estimé, dans une affaire judiciaire, que la « génération fraise » désigne les « jeunes sans expérience et incapables de supporter les revers », constituant un vocabulaire péjoratif[^1]. Autrement dit, c'est un mot reconnu par la justice comme dégradant, qui a pourtant servi, pendant trente ans, d'outil de prédilection pour la génération aînée afin de commenter la suivante, se transmettant de génération en génération.
+Qui plus est, ce terme tient aussi juridiquement. La Haute Cour de Taïwan a statué dans un procès que « Génération fraise » désigne « des jeunes sans expérience qui ne supportent pas l'échec », ce qui en fait un terme péjoratif[^1]. Autrement dit, c'est un mot reconnu par la justice comme rabaissant, qui a pourtant servi pendant trente ans d'outil tout trouvé pour que la génération d'en haut commente celle d'en bas, se transmettant de relais en relais.
 
-Pour renvoyer la balle : toute personne souhaitant dire aujourd'hui « les jeunes d'aujourd'hui sont des fraises » devrait se rappeler que ce terme visait à l'origine, très probablement, elle-même.
+Renversons la perspective : quiconque veut dire aujourd'hui « les jeunes d'aujourd'hui, c'est la Génération fraise » devrait se souvenir que les premières visées de ce mot étaient, très probablement, eux-mêmes.
 
-## Pas d'enfance commune : des épiceries de quartier à Douyin
+## Pas d'enfance commune : des épiceries de quartier à TikTok
 
-Si une véritable barrière existe entre les générations, elle est construite avec les briques de l'enfance. En écartant les souvenirs d'enfance de ces cinq générations, on observe une chose silencieuse : ils n'ont presque rien en commun.
+Si une muraille sépare vraiment les générations, c'est avec des enfances qu'elle a été bâtie. En déployant l'enfance de cinq générations, on découvre une chose silencieuse : ils n'ont presque rien en commun qui soit partagé dans la mémoire.
 
-L'enfance des cinquième et sixième générations se déroulait dans les épiceries de quartier (柑仔店). La poupée Tatung (大同寶寶), lancée en 1969, était offerte en cadeau pour tout achat d'appareils électriques de 10 000 dollars. Cette petite poupée rouge posée dans le salon était la preuve d'identité d'une famille passant de la classe ouvrière à la classe moyenne[^7]. Yakult a ouvert une usine à Taïwan en 1964, une bouteille pour deux dollars, livrée porte à porte par les « mamans Yakult » (養樂多媽媽) avec leurs caisses isothermes[^8]. Sur le chemin de l'école, on trouvait des nouilles Wangzi, des nouilles scientifiques, des étiquettes de marionnettes (尪仔標), des billes. La télévision allumée, les marionnettes de Huang Jun-xiong (黃俊雄) _Le Grand Confucius de Yunzhou_ (《雲州大儒俠》) ont été diffusées sur TTV en 1970. Shi Yanwen a combattu pendant 583 épisodes, atteignant une audience de 97 %, au point d'être interdit en 1974 pour « perturbation du repos des agriculteurs »[^9].
+L'enfance de la génération « 5e-6e année » se déroulait dans les épiceries de quartier (kàn-á-tiàm). La poupée Tatung Baby, mise sur le marché en 1969, n'était offerte qu'à l'achat de NT$10 000 d'électroménagers ; ce petit bonhomme vêtu de rouge trônant dans le salon était la preuve qu'une famille était passée du statut d'ouvriers à celui de classe moyenne[^7]. Yakult s'implante à Taïwan en 1964, une bouteille à NT$2, livrée porte à porte par les « mamans Yakult » portant leur glacière[^8]. Sur le chemin du retour de l'école : nouilles Prince, nouilles Science, jeu des pogs (ang-á-piau), billes. Allumée, la télévision diffusait le spectacle de marionnettes à gaine de Huang Chun-hsiung, _Le Grand Confucius de Yunzhou_, diffusé sur TTV en 1970 ; Shih Yen-wen y combattit pendant 583 épisodes, atteignant 97 % de part d'audience, si populaire qu'il fut interdit en 1974 sous prétexte qu'il « nuisait au travail agricole et au repos »[^9].
 
-![Cinq bouteilles en plastique de Yakult alignées, l'emballage rouge et blanc du Yakult est une boisson probiotique courante dans les réfrigérateurs des familles taïwanaises](/article-images/society/yakult-bottles.webp)
-_Yakult en pack de 5 bouteilles, boisson emblématique des épiceries de quartier et des supérettes des cinquième et sixième générations. Photo : kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![五瓶塑膠小瓶裝養樂多並排，紅白包裝的養樂多是台灣家庭冰箱常見的乳酸菌飲料](/article-images/society/yakult-bottles.webp)
+_Cinq bouteilles de Yakult, boisson lactée emblématique des épiceries de quartier et des supérettes de la génération « 5e-6e année ». Photo : kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-Enfance des 5e et 6e générations | Enfance de la 9e génération
-Étiquettes de marionnettes et billes des épiceries | Dcard et Xiaohongshu dans les téléphones
-Poupées Tatung et mamans Yakult | Stories Instagram et courtes vidéos TikTok
-Marionnettes de Huang Jun-xiong, 97% d'audience | Défilement infini nourri par l'algorithme
-Une rue regardant la même pièce | Une personne regardant une vidéo qui ne lui est destinée que par l'algorithme
+Enfance de la génération « 5e-6e année » | Enfance de la génération « 3e année »
+Pogs et billes de l'épicerie de quartier | Dcard, Xiaohongshu dans le téléphone
+Tatung Baby, mamans Yakult | Stories Instagram, vidéos courtes TikTok
+Le Grand Confucius de Yunzhou, 97 % d'audience | Défilement infini nourri par l'algorithme
+Une rue entière regarde le même spectacle | Une personne regarde une vidéo que l'algorithme ne lui destine qu'à elle
+Sources : documents et reportages sur Tatung Baby, Yakult et *Le Grand Confucius de Yunzhou* (diffusion TTV 1970, 97 % d'audience, interdiction)[^7][^8][^9]
 ```
 
-La jeunesse de la septième génération a changé d'interface. Le pager (BB Call) a atteint son apogée en 1999, avec plus de 4 millions de foyers[^10]. Les couples utilisaient des chiffres pour transmettre des sentiments : 520, 1314 clignotaient sur de petits écrans. Avec l'arrivée d'Internet, le son « ding-dong » de Yahoo Instant Messenger, le « ding-ding-ding » de connexion sur MSN, les blogs et les albums de MySpace ont constitué un ensemble de codes secrets que seuls eux maîtrisaient[^4]. En 1997, le poulet électronique (電子雞) est apparu à Taïwan, se faisant arracher dans les grands magasins de Kaohsiung jusqu'à être revendu 1 500 dollars la pièce. Les élèves passaient leur temps en classe à nourrir leurs animaux virtuels, au point que le ministre de l'Éducation de l'époque a plaisanté en suggérant de créer des « poulaillers » à l'école pour tous les élever ensemble[^11].
+La jeunesse de la génération « 7e année » a changé d'interface. Le bipper (BB Call) atteint son pic en 1999 avec plus de quatre millions de foyers équipés à Taïwan[^10] ; les couples s'échangeaient des mots d'amour en chiffres — 520, 1314 — clignotant sur le minuscule écran. Une fois en ligne, le « ding-dong » de Yahoo! Messenger, le « tudu-du » de connexion MSN, les blogs et albums de Wretch.cc composaient tout un langage codé qui n'appartenait qu'à eux[^4]. En 1997, le Tamagotchi (surnommé « poulet électronique ») débarque, au point d'être revendu jusqu'à NT$1 500 dans les grands magasins de Kaohsiung ; les élèves s'occupaient de leur animal virtuel en classe, au point que le ministre de l'Éducation de l'époque plaisantait à demi-mot sur la création d'un « poulailler » à l'école pour les élever ensemble[^11].
 
-![Un pager numérique bleu des années 1990, petit écran métallique affichant des chiffres, dispositif de communication portable de l'ère BB Call](/article-images/society/bb-call-pager.webp)
-_Pager numérique des années 1990 (BB Call), outil de communication de la septième génération pour transmettre « 520 » et « 1314 ». Photo : Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![一台 1990 年代藍色數字傳呼機，金屬外殼小螢幕顯示數字，是 BB Call 時代的隨身聯絡裝置](/article-images/society/bb-call-pager.webp)
+_Bipper numérique (BB Call) des années 1990, outil de communication de la génération « 7e année » pour envoyer « 520 » « 1314 ». Photo : Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-Pour la huitième génération, la scène était PTT et Facebook. En 2009, _Happy Farm_ (開心農場) : tout le Taïwan se demandait « As-tu volé des légumes aujourd'hui ? ». La neuvième génération est entièrement plongée dans les algorithmes : Instagram, TikTok, Xiaohongshu, Dcard. Ce ne sont pas seulement les plateformes qui changent, mais la manière même de regarder : pour la cinquième génération, toute une rue regardait la même pièce _Le Grand Confucius de Yunzhou_ le soir. Pour la neuvième génération, une personne fait défiler une vidéo que l'algorithme ne lui destine qu'à elle seule.
+Pour la génération « 8e année », la scène se déplace sur PTT et Facebook. En 2009, _Happy Farm_ fait fureur : tout Taïwan demande « As-tu volé des légumes aujourd'hui ? ». La génération « 3e année », elle, baigne entièrement dans l'algorithme : Instagram, TikTok, Xiaohongshu, Dcard. Ce qui change, ce n'est pas seulement la plateforme, c'est la manière même de regarder : pour la génération « 5e année », une rue entière regardait le même _Grand Confucius de Yunzhou_ le soir. Pour la génération « 3e année », chacun fait défiler seul une vidéo que l'algorithme ne nourrit que pour lui.
 
-> 📝 **Note du curateur**
-> Nous avons l'habitude d'expliquer le fossé générationnel par des « différences de valeurs » : la génération aînée aime l'effort, la suivante aime se détendre. Mais la vérité est peut-être plus physique : ils n'ont jamais regardé le même écran ensemble. La mémoire collective nécessite le préalable d'un « collectif », et au cours de ces quarante ans, passés des épiceries de quartier aux algorithmes de niche, les médias à Taïwan se sont fragmentés de « tout le village autour d'une télévision » à « un téléphone par personne qui ne regarde que lui-même ». En fin de compte, ils n'ont pas grandi dans la même pièce. La nostalgie est donc également individualisée : le serveur sur lequel vous mettez un « j'aime », les autres ne peuvent pas y accéder.
+> 📝 **Note de la curation**
+> Nous avons l'habitude d'expliquer le fossé générationnel par des « différences de valeurs » : la génération d'avant aime se battre, celle d'après aime s'allonger. Mais ce qui est plus proche de la vérité, c'est peut-être quelque chose de plus physique : ils n'ont jamais regardé le même écran ensemble. La mémoire collective a besoin du « collectif » comme prémisse, et en quarante ans, des épiceries de quartier aux algorithmes de niche, les médias taïwanais se sont fragmentés, passant de « tout le village autour d'un seul téléviseur » à « chaque personne avec son propre téléphone qui ne lui montre que ce qu'il veut voir ». Au fond, ils n'ont tout simplement pas grandi dans la même pièce. La nostalgie est donc elle aussi fragmentée : le serveur que vous likez, personne d'autre ne peut y accéder.
 
-C'est pourquoi la nostalgie a tant de succès à Taïwan, tout en étant si fragmentée. Une enquête sur les snacks nostalgiques de 2018 a recueilli 1 523 questionnaires, avec la plus forte participation de la septième génération (38,2 %). Les premiers résultats, bonbons aux fruits en boîte, bonbons au lait Morinaga, nouilles Wangzi, nouilles scientifiques, lait en poudre Qiqi, correspondent chacun précisément au chemin de l'école d'une génération[^12].
+C'est aussi pour cela que la nostalgie a tant de marché à Taïwan, tout en étant si fragmentée. Une enquête sur les snacks nostalgiques en 2018 a recueilli 1 523 questionnaires ; ce sont les membres de la génération « 7e année » qui y ont le plus participé, à 38,2 % ; les premiers choisis — bonbons en boîte métallique, caramels Morinaga, nouilles Prince, nouilles Science, 77 Milk — correspondent chacun avec précision au chemin du retour de l'école d'une génération précise[^12].
 
 ## Chaque génération est le cobaye des autres
 
-Si les enfances sont séparées, une chose échappe aux cinq générations : chacune a été considérée comme la première cohorte témoin d'une réforme du système.
+Si l'enfance se vit chacun de son côté, il y a une chose que les cinq générations ne peuvent éviter : chaque génération a servi de cobaye de première cohorte pour quelque réforme institutionnelle.
 
-Le système scolaire change presque tous les dix ans. Les cinquième et sixième générations ont passé l'examen unifié (聯考), les examens unifiés pour le lycée de 1958 à 2000, l'examen unifié universitaire jusqu'en 2001, où un seul examen déterminait le destin. La septième génération a subi le triple choc des réformes éducatives : à partir de 1996, l'école primaire a introduit les « mathématiques constructivistes » (建構式數學), demandant aux enfants d'apprendre l'arithmétique par la compréhension. Les chercheurs ont ensuite statistiquement établi que cette expérience a fait de près de 1,8 million d'élèves primaires des cobayes[^13] ; en 2001, le programme-cadre à neuf ans (九年一貫課綱) est entré en vigueur, les examens unifiés pour le collège ont remplacé l'examen unifié, les manuels sont passés d'un manuel unique à plusieurs manuels pour un même programme. La huitième génération a fait face à l'éducation obligatoire de douze ans et aux examens unifiés de 2014, la neuvième génération au programme-cadre 108 entré en vigueur en 2019. Aucune génération n'a utilisé les mêmes règles que la précédente.
+Le système d'admission change presque tous les dix ans. Les cinquième et sixième générations ont passé l'examen unifié ; l'admission conjointe au lycée a duré de 1958 à 2000, l'examen d'entrée unifié à l'université jusqu'en 2001 — un seul examen décidait de l'avenir. La septième génération a subi la triple vague de la réforme pédagogique : dès 1996, les écoles primaires ont imposé les « mathématiques constructivistes », obligeant les enfants à réapprendre l'arithmétique par la compréhension ; des chercheurs ont ensuite calculé que cette expérience a fait de près de 1,8 million d'écoliers des cobayes[^13]. En 2001, le programme d'études intégré de neuf ans entre en vigueur, le test de base du collège remplace l'examen unifié, les manuels passent de « un programme, un manuel » à « un programme, plusieurs manuels ». La huitième génération rencontre en 2014 les douze ans d'éducation nationale et l'examen d'évaluation ; la neuvième, le programme 108 lancé en 2019. Aucune génération n'a connu les mêmes règles que la précédente.
 
-Le service militaire est également une ligne mobile, et sa direction est contre-intuitive. Au début, les hommes faisaient deux ou trois ans de service, puis la durée a diminué jusqu'à fin 2013, où les hommes nés après 1994 (ROC 83) ne devaient accomplir que quatre mois d'entraînement militaire[^14]. On aurait cru une pente descendante, mais elle s'est inversée. Le Ministère de l'Intérieur a规定é que les hommes nés après le 1er janvier 2005 (ROC 94) devaient à nouveau accomplir un an de service régulier[^14]. Autrement dit, la cohorte de la neuvième génération née après 2005 a fait huit mois de service de plus que les aînés de la huitième génération qui ne faisaient que quatre mois d'entraînement. C'est la première extension du service militaire obligatoire en soixante-dix ans.
+Le service militaire suit aussi une ligne mobile, et dans une direction contre-intuitive. Au début, les conscrits servaient deux ou trois ans ; la durée n'a cessé de raccourcir, jusqu'à ce qu'à fin 2013, les hommes nés après 1994 (année 83 de la République) ne fassent plus que quatre mois d'entraînement militaire[^14]. On croyait la pente descendante, mais elle a remonté. Le ministère de l'Intérieur a décrété que les conscrits nés à partir du 1er janvier 2005 (année 94 de la République) retrouveraient un service actif d'un an[^14]. En d'autres termes, ceux de la neuvième génération nés après 2005 servent huit mois de plus que leurs aînés de la huitième génération qui n'avaient fait que quatre mois d'entraînement — c'est la première fois en soixante-dix ans que le service obligatoire s'allonge.
 
 ```tw-stat
-427 212 personnes | Pic de naissances de la 5e génération (1963) | Sommet du baby-boom
-166 886 personnes | Creux de naissances de la 9e génération (2010) | Moins de 40% du pic de la 5e génération
-4 mois → 1 an | Le service obligatoire remonte du creux | Les nés de 1994-2004 (ROC 83-93) font 4 mois, ceux nés en 2005 (ROC 94) retrouvent 1 an
+427 212 personnes | Naissances au pic de la 5e génération (1963) | Pic du baby-boom
+166 886 personnes | Naissances au creux de la 9e génération (2010) | Moins de 40 % du pic de la 5e génération
+4 mois → 1 an | Service obligatoire remontant du creux | Cohortes années 83–93 (nés 1994–2004) : 4 mois ; cohorte année 94 (nés 2005) : retour à 1 an
+Source : Statistiques annuelles des naissances du Département des affaires civiles du ministère de l'Intérieur (427 212 en 1963, 166 886 en 2010) + Explications sur la durée de service du ministère de l'Intérieur[^14][^24]
 ```
 
-En superposant ces lignes de système, une question plus aiguë émerge : chaque réforme est théoriquement conçue pour mieux éduquer la génération suivante et renforcer la défense nationale. Mais du point de vue de ceux qui subissent la réforme, cela ressemble davantage à : les expériences conçues par la génération aînée sont portées par la génération suivante. Et les concepteurs de ces expériences n'ont souvent pas à être eux-mêmes les cobayes.
+En superposant ces lignes institutionnelles, une question plus aiguë émerge : chaque réforme vise théoriquement à mieux éduquer la génération suivante, à mieux assurer la défense. Mais du point de vue de ceux qui subissent la réforme, l'impression est tout autre : l'expérience conçue par la génération précédente est payée par la suivante. Et ceux qui la conçoivent n'ont presque jamais à en être les cobayes eux-mêmes.
 
 ## L'escalator qui ralentit
 
