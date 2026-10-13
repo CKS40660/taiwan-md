@@ -35,10 +35,10 @@ rationale:
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '805200859'
-sourceContentHash: 'sha256:1b3e5e3f22f40ead'
-sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
-translatedAt: '2026-09-12T12:53:10+08:00'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:925c0f0fa8d0ba22'
+sourceBodyHash: 'sha256:e06cb9dbec5bce60'
+translatedAt: '2026-10-13T09:50:04.935957+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwaner bezeichnen sich selbst als «X-Klässler», wobei die Zehnerstelle des Geburtsjahres im Minguo-Kalender genommen wird: Fünftklässler sind Jahrgänge Minguo 50–59 (1961–1970), fortlaufend bis zu den Neuntklässlern (2001–2010). Der seit dreissig Jahren verwendete Schimpfbegriff «Erdbeer-Generation» erschien 1993 erstmals in Print und zielte auf die damals Zwanzigjährigen – also die heutigen Fünfzigjährigen, die Fünftklässler[^1]; anschliessend wanderte er weiter zu den Siebt-, Acht- und Neuntklässlern. Die Gescholtenen wechselten mehrmals, das Etikett blieb buchstabengetreu gleich. Was sich tatsächlich zwischen den fünf Generationen bewegte, ist die Rolltreppe unter ihren Füssen, auf der «Anstrengung wird belohnt» stand: Sie verlangsamte sich um 2002 herum, als Reallöhne und Produktivität auseinanderklafften[^2]; gleichzeitig wurde der Einstieg durch Immobilienpreise verteuert – das Preis-Einkommens-Verhältnis in Taipeh stieg von 6,4-fach (2004) auf 15,41-fach (2025)[^3]; schliesslich spaltete sie sich in zwei Stränge: der reine Lohn-Strang kam nahezu zum Stillstand, der mit Elternkapital (Anzahlung) finanzierte läuft noch.
@@ -49,69 +49,74 @@ Da drückte eine ganze Generation «Gefällt mir» für einen Ort, den nur sie b
 
 Das Paradoxe: Das Wort, um das sich die fünf Generationen am heftigsten streiten, hat in dreissig Jahren mehrmals den Adressaten gewechselt, selbst aber kein einziges Zeichen geändert.
 
-## Ein Wort, dreissig Jahre gescholten, drei Mal andere Leute
+## Ein Wort, drei Jahrzehnte gescholten, drei Generationen betroffen
 
-Anfang der 1990er Jahre veröffentlichte die Berufsberaterin Weng Ching-yu (翁靜玉) das Buch «Bürogschichten» (《辦公室物語»); darin fiel zum ersten Mal der Begriff «Erdbeer-Generation» (草莓族). Damals gemeint waren nicht die heutigen Jugendlichen, sondern jene, die gerade ins Büro eingetreten waren – die in den 1960ern Geborenen, heute Fünfzigjährige, die am liebsten in Facebook-Gruppen die Tatung-Baby-Puppe (大同寶寶) und Yakult nostalgisch feiern: die Fünftklässler[^1].
+Anfang der 1990er Jahre veröffentlichte die Arbeitsplatzberaterin Weng Ching-yu «Bürogschichten» – das erste Mal, dass die drei Zeichen «Erdbeer-Generation» gedruckt erschienen. Damals galt der Vorwurf nicht den heutigen Jugendlichen, sondern jenen, die frisch ins Büro gekommen waren, Ende zwanzig, also der in den 1960ern geborenen Kohorte, heute Fünfzigjährige, die in Facebook-Gruppen am liebsten den Tatung-Baby und Yakult nostalgisch feiern: die Fünftklässler[^1].
 
-Der Wikipedia-Eintrag dokumentiert diese Wanderung präzise: «Erdbeer-Generation» bezog sich ursprünglich auf die in den 1960ern Geborenen, also die Fünftklässler. Später rutschte die gängige Wahrnehmung kontinuierlich nach unten und meinte fortan Jugendliche ab den Siebtklässlern[^1]. Ein Begriff, der einst eine bestimmte Gruppe Zwanzigjähriger beschimpfte, wurde dreissig Jahre später zur Sammelbezeichnung für «alle, die jünger sind als ich und mir nicht passen». Das Etikett beschreibt keine Generation, es beschreibt «Jugend» selbst – und Jugend ist ein wandelndes Ziel.
+Der Wikipedia-Eintrag zeichnet diese Verschiebungslinie klar nach: «Erdbeer-Generation» bezeichnete ursprünglich die in den 1960ern in Taiwan Geborenen, umgangssprachlich die Fünftklässler. Danach wanderte die Mainstream-Wahrnehmung stetig abwärts und weitete sich auf die nach den Siebentklässlern Geborenen aus[^1]. Ein Wort, das einst eine bestimmte Gruppe Zwanzigjähriger beschimpfte, wurde dreissig Jahre später zum Sammelbegriff für «jeden, der jünger ist als ich und mir nicht passt». Das Etikett beschreibt keine Generation, es beschreibt das «Jungsein» selbst – und jung ist ein sich bewegendes Ziel.
 
-Die Bahn dieses Ziels liest sich wie eine Kurzgeschichte der taiwanischen Generationsgeschichte. 1993 traf es die Fünftklässler. In den 2000ern klebte es mainstream auf den Siebtklässlern. 2008, bei der «Wild Strawberry Movement» (野草莓運動), eigneten sich die gescholtenen Siebtklässler-Studierenden den Begriff einfach an und machten ihn zum Bewegungsnamen[^5]. 2012 führte das Magazin _Vision_ (遠見雜誌) zusammen mit Yahoo und Wretch.cc die Umfrage «Neue neun Jugend-Stämme» durch: 1129 Befragte zwischen 20 und 35 wählten das «am meisten rehabilitationsbedürftige Etikett» – «Erdbeer-Generation» lag mit 16,5 % auf Platz eins, gefolgt von «Parasite Singles» (啃老族) und «Smartphone-Zombies» (低頭族)[^6]. In den 2020ern wanderte der Hut weiter hinab auf die Z-Generation, die Neuntklässler.
+Die Bahn dieses Ziels liest sich fast wie eine Kurzgeschichte der taiwanesischen Generationsgeschichte. 1993 schalt man die Fünftklässler. In den 2000ern klebte das Etikett Mainstream den Siebentklässlern an. 2008, bei der «Wild Strawberries Movement», eigneten sich die beschimpften Siebtklässler-Schüler das Wort einfach an und machten es zum Bewegungsnamen[^5]. 2012 veranstalteten Global Views Monthly, Yahoo und Wretch.cc die Umfrage «Neue neun Stämme der Jugend»; 1.129 Jugendliche von 20 bis 35 wählten das «am meisten rehabilitationsbedürftige Etikett» – die Erdbeer-Generation führte mit 16,5 %, gefolgt von der «Elternfresser-Generation» und der «Kopf-senk-Generation»[^6]. In den 2020ern wanderte der Hut weiter hinab zur Generation Z, den Neuntklässlern.
 
 ```tw-timeline
-1993 | «Erdbeer-Generation» erstmals in Print | Weng Ching-yu «Bürogschichten», zielte auf damals Zwanzigjährige, heute Fünfzigjährige (Fünftklässler)
-2008 | Gescholtene eignen sich Begriff an | «Wild Strawberry Movement»: Siebtklässler-Studierenden machen Schimpfwort zum Bewegungsnamen
-2012 | Platz 1 der rehabilitationsbedürftigen Etiketten | Vision×Yahoo×Wretch.cc Umfrage, 1129 Stimmen, «Erdbeer-Generation» 16,5 % an der Spitze
-2020er | Hut rutscht zur Z-Generation | Dasselbe Wort, nun auf Neuntklässler, Inhalt unverändert
+1993 | «Erdbeer-Generation» erstmals gedruckt | Weng Ching-yu «Bürogschichten», ursprünglich die damals Zwanzigjährigen, heute Fünfzigjährigen, die Fünftklässler
+2008 | die Gescholtenen eignen sich das Wort an | «Wild Strawberries Movement»: Siebtklässler-Schüler machen das Schimpfwort zum Bewegungsnamen
+2012 | am meisten rehabilitationsbedürftiges Etikett Platz 1 | Global Views Monthly × Yahoo × Wretch.cc Umfrage 1.129 Stimmen, Erdbeer-Generation 16,5 % an der Spitze
+2020er | Hut rutscht zur Generation Z | dasselbe Wort auf Neuntklässler gesetzt, Inhalt unverändert
+Quelle: Wikipedia «Erdbeer-Generation» + Wild Strawberries Movement Aufzeichnungen + Global Views Monthly / Yahoo / Wretch.cc «Neue neun Stämme der Jugend» Umfrage (ETtoday Bericht)[^1][^5][^6]
 ```
 
-Sogar juristisch hält das Wort stand. Das Taiwaner Hochgericht urteilte in einem Prozess, «Erdbeer-Generation» bezeichne «junge, unerfahrene, nicht frustrierungsresistente Menschen» und sei ein «herabsetzender Begriff»[^1]. Ein also von Gericht als abwertend anerkannter Begriff diente dreissig Jahre lang der jeweils älteren Generation als handlichstes Werkzeug, die jüngere zu kommentieren – weitergereicht von Generation zu Generation.
+Auch rechtlich hält das Wort stand. Das Taiwaner Oberste Gericht erkannte in einem Prozess an, «Erdbeer-Generation» bezeichne «junge, unerfahrene, nicht frustrierungsresistente Menschen», handle sich um ein abwertendes Wort[^1]. Heisst: ein von Gericht als herabwürdigend anerkanntes Wort, das drei Jahrzehnte lang von der Elterngeneration als handlichstes Werkzeug zur Bewertung der Nachfolgegeneration weitergereicht wurde.
 
-Den Ball zurückspielen: Jeder, der heute «die Jugend von heute ist eben Erdbeer-Generation» sagen will, sollte sich erinnern: Die ersten, die damit gemeint waren, könnten er selbst sein.
+Den Ball zurückspielen: Jeder, der jetzt «die Jugend von heute ist eben die Erdbeer-Generation» sagen will, soll sich erinnern – die ersten, die damit gescholten wurden, sind womöglich er selbst.
 
-## Keine gemeinsame Kindheit: Vom Laden zum TikTok
+## Keine gemeinsame Kindheit: Vom Gemischtwarenladen zu TikTok
 
-Wenn es eine Mauer zwischen den Generationen gibt, dann ist sie aus Kindheitserinnerungen gemauert. Breitet man die Kindheiten der fünf Generationen aus, stellt man eine stille Tatsache fest: Sie haben kaum etwas gemeinsam, woran sie sich gemeinsam erinnern.
+Wenn es zwischen den Generationen wirklich eine Mauer gibt, dann ist sie aus Kindheit gebaut. Breitet man die Kindheiten der fünf Generationen aus, entdeckt man eine stille Tatsache: Sie erinnern sich an fast nichts Gemeinsames.
 
-Die Kindheit der Fünft- und Sechstklässler spielte sich im Laden (柑仔店) ab. Die 1969 auf den Markt gekommene Tatung-Baby-Puppe (大同寶寶) gab es nur als Gratiszugabe beim Kauf von Elektrogeräten im Wert von 10 000 NT-Dollar; das rot gekleidete Püppchen im Wohnzimmer war der Identitätsnachweis einer Familie, die vom Arbeiter- in den Mittelstand aufgestiegen war[^7]. Yakult (養樂多) produzierte ab 1964 in Taiwan, eine Flasche kostete zwei Dollar, zugestellt von «Yakult-Müttern» mit Kühlboxen, Haus für Haus[^8]. Nach der Schule: Prince Noodles (王子麵), Science Noodles (科學麵), Wángzǐbiāo (尪仔標), Murmeln. Schaltete man den Fernseher ein, lief Huang Junxiongs (黃俊雄) Handpuppenspiel «Der grosse Gelehrte von Yunzhou» (《雲州大儒俠》) ab 1970 auf TTV, 583 Folgen, 97 % Einschaltquote – 1974 verboten mit der Begründung «Behinderung der landwirtschaftlichen Arbeit und Erholung»[^9].
+Die Kindheit der fünften und sechsten Generation spielte sich im Gemischtwarenladen ab. Das 1969 auf den Markt gekommene Tatung-Baby – damals gab es die rot gekleidete Puppe nur als Gratiszugabe beim Kauf von Elektrogeräten im Wert von NT$10.000 – stand im Wohnzimmer als Identitätsnachweis dafür, dass eine Familie es vom Arbeiter- in den Mittelstand geschafft hatte[^7]. Yakult errichtete 1964 ein Werk in Taiwan, eine Flasche kostete NT$2, zugestellt von Tür zu Tür von den „Yakult-Müttern“ mit ihren Kühlboxen auf dem Rücken[^8]. Nach der Schule gab es Prince-Nudeln (王子麵), Science-Nudeln (科學麵), Kreisel (尪仔標) und Murmeln. Schaltete man den Fernseher ein, lief Huang Junxiongs Handpuppenspiel 《雲州大儒俠》 – 1970 auf TTV ausgestrahlt, kämpfte Shi Yanwen 583 Folgen lang, erreichte 97 % Einschaltquote und wurde 1974 mit der Begründung „Behinderung der landwirtschaftlichen Arbeit und Erholung“ verboten[^9].
 
-![Fünf kleine Plastikfläschchen Yakult nebeneinander, rot-weisse Verpackung, das Standardgetränk in taiwanischen Haushaltskühlschränken](/article-images/society/yakult-bottles.webp)
-_Fünf-Flaschen-Pack Yakult, das ikonische Getränk in den Läden und Tante-Emma-Läden der Fünft- und Sechstklässler. Foto: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![五瓶塑膠小瓶裝養樂多並排，紅白包裝的養樂多是台灣家庭冰箱常見的乳酸菌飲料](/article-images/society/yakult-bottles.webp)
+_Fünf-Flaschen-Yakult, das ikonische Getränk der Gemischtwarenläden und Tante-Emma-Läden der fünften und sechsten Generation. Foto: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-Kindheit der Fünft-/Sechstklässler | Kindheit der Neuntklässler
-Wángzǐbiāo, Murmeln im Laden | Dcard, Xiaohongshu im Handy
-Tatung-Baby, Yakult-Mütter | Instagram Stories, TikTok Shorts
-Handpuppenspiel 97 % Quote | Algorithmisch gefüttertes endloses Scrollen
-Eine Strasse schaut dieselbe Sendung | Jeder wischt ein Video, das nur ihm gezeigt wird
+Kindheit der 5. & 6. Generation | Kindheit der 9. Generation
+Kreisel und Murmeln im Gemischtwarenladen | Dcard und Xiaohongshu im Handy
+Tatung-Baby, Yakult-Mütter | IG Stories, TikTok-Kurzvideos
+Huang Junxiongs Puppenspiel 97 % Einschaltquote | Algorithmisches endloses Scrollen
+Eine ganze Straße schaut dieselbe Show | Eine Person wischt ein Video, das nur für sie gemacht ist
+Quelle: Historische Unterlagen und Berichte zu Tatung-Baby, Yakult und 《雲州大儒俠》 (einschließlich 1970 TTV-Ausstrahlung, 97 % Einschaltquote und Verbot)[^7][^8][^9]
 ```
 
-Die Jugend der Siebtklässler bekam ein neues Interface. Pager (BB Call) erreichten 1999 ihren Höhepunkt mit über vier Millionen Anschlüssen in ganz Taiwan[^10]; Verliebte übermittelten Gefühle per Zifferncode – 520, 1314 blinkten auf winzigen Displays. Nach dem Internetanschluss bildeten der «Ding-dong»-Ton von Yahoo! Messenger, das «Log-log-log» von MSN, die Blogs und Fotoalben auf Wretch.cc ein ganzes Zeichensystem, das nur sie verstanden[^4]. 1997 kam das Tamagotchi (電子雞) nach Taiwan, in den Kaohsiung-Warenhäusern wurde es so gejagt, dass der Preis auf 1500 NT-Dollar hochgetrieben wurde; Schüler fütterten im Unterricht ihre digitalen Haustiere, der damalige Bildungsminister Wu Ching (吳京) scherzte halb, man könne in der Schule einen «Hühnerhof» einrichten, um sie gemeinsam zu hüten[^11].
+Die Jugend der siebten Generation wechselte die Benutzeroberfläche. Pager (BB Call) erreichten 1999 ihren Höhepunkt mit über vier Millionen Haushalten in ganz Taiwan[^10], Liebespaare übermittelten Gefühle per Zifferncode – 520, 1314 blinkten auf den winzigen Bildschirmen. Mit dem Internetzugang kamen die „Ding-dong“-Geräusche von Yahoo! Kimo Instant Messenger, das „Tudelü“ beim MSN-Login, die Blogs und Fotoalben von Wretch.cc – sie bildeten ein ganzes Zeichensystem, das nur sie verstanden[^4]. 1997 kam das Tamagotchi auf den Markt, in Kaohsiung wurden die Geräte in Kaufhäusern so stark nachgefragt, dass der Schwarzmarktpreis auf NT$1.500 pro Stück stieg; Schüler fütterten ihre digitalen Haustiere im Unterricht, sodass sogar der damalige Bildungsminister halb im Scherz vorschlug, die Schule möge doch einen „Hühnerhof“ einrichten, um sie gemeinsam zu betreuen[^11].
 
-![Ein blaues 1990er-Jahre-Ziffern-Pager, Metallgehäuse, kleines Display zeigt Zahlen – das mobile Kommunikationsgerät der BB-Call-Ära](/article-images/society/bb-call-pager.webp)
-_Ziffern-Pager (BB Call) der 1990er, mit dem Siebtklässler «520», «1314» übermittelten. Foto: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![一台 1990 年代藍色數字傳呼機，金屬外殼小螢幕顯示數字，是 BB Call 時代的隨身聯絡裝置](/article-images/society/bb-call-pager.webp)
+_Digitales Pager der 1990er (BB Call), das Kommunikationsmittel der 7. Generation für „520“, „1314“. Foto: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-Bei den Achtklässlern war die Bühne PTT und Facebook. 2009 spielte ganz Taiwan «Happy Farm» (開心農場) – «Hast du heute schon Gemüse geklaut?» Die Neuntklässler wachsen ganz im Algorithmus auf: Instagram, TikTok, Xiaohongshu, Dcard. Ausgetauscht wurde nicht nur die Plattform, sondern die Art des Sehens selbst: Die Fünftklässler-Generation – eine ganze Strasse sah abends dieselbe Folge «Yunzhou». Die Neuntklässler-Generation – jeder wischt allein an einem Video, das der Algorithmus nur für ihn bereithält.
+Bei der achten Generation war die Bühne PTT und Facebook. 2009 spielte ganz Taiwan „Happy Farm“ – überall hieß es: „Hast du heute schon Gemüse gestohlen?“. Die neunte Generation taucht komplett im Algorithmus ab: Instagram, TikTok, Xiaohongshu, Dcard. Ausgetauscht wurde nicht nur die Plattform, sondern die Art des Sehens selbst: Die fünfte Generation versammelte sich abends als ganze Straße vor derselben Folge 《雲州大儒俠》. Die neunte Generation wischt allein durch Kurzvideos, die der Algorithmus exklusiv für sie zusammenstellt.
 
-> 📝 **Kuratorennotiz**
-> Wir gewöhnten uns an, «Wertunterschiede» für den Generationengraben verantwortlich zu machen: Die einen lieben «kämpfen», die anderen «liegenbleiben». Näher an der Wahrheit ist vielleicht etwas Physischeres: Sie haben nie denselben Bildschirm gemeinsam angeschaut. Kollektives Gedächtnis braucht das «Kollektiv» als Voraussetzung, und in diesen vierzig Jahren vom Laden zum algorithmischen Narrowcasting zerbrach Taiwans Medienlandschaft vom «ganzes Dorf um einen Fernseher» zu «jeder ein Handy, das nur ihm zeigt». Am Ende sind sie gar nicht im selben Raum aufgewachsen. Nostalgie ist daher auch getrennte Nostalgie: Der Server, den du likest, lässt sich von anderen nicht betreten.
+> 📝 **Kuratorinnen-Notiz**
+> Wir gewöhnen uns daran, „Werteunterschiede“ zur Erklärung des Generationengrabens heranzuziehen: Die ältere Generation liebt den Kampf, die jüngere liebt das Liegenbleiben. Doch näher an der Wahrheit ist vielleicht etwas Physischeres: Sie haben nie gemeinsam denselben Bildschirm angesehen. Kollektives Gedächtnis braucht das „Kollektiv“ als Voraussetzung, und in diesen vierzig Jahren vom Gemischtwarenladen zum fragmentierten Algorithmus sind Taiwans Medien von „das ganze Dorf versammelt sich um einen Fernseher“ zu „jeder hat ein Handy, das nur ihm Videos zeigt“ zersplittert. Am Ende sind sie gar nicht im selben Zimmer aufgewachsen. Nostalgie ist daher auch je eigene: Der Server, den du likst, lässt sich von anderen nicht betreten.
 
-Deshalb ist Nostalgie in Taiwan so marktstark – und doch so fragmentiert. Eine 2018er Nostalgie-Snack-Umfrage sammelte 1523 Fragebögen; die aktivste Gruppe waren die Siebtklässler mit 38,2 %; die gewählten Top-Plätze – Blechdosen-Fruchtbonbons, Morinaga-Milchbonbons, Prince Noodles, Science Noodles, 77-Milchgetränk – treffen jeweils präzise den Nachschulweg einer bestimmten Generation[^12].
+Das ist auch der Grund, warum Nostalgie in Taiwan so großen Markt hat – und doch so fragmentiert ist. Eine 2018 durchgeführte Umfrage zu nostalgischen Snacks sammelte 1.523 Fragebögen; die größte Beteiligung kam von der siebten Generation mit 38,2 %. Die gewählten Spitzenplätze – Fruchtbonbons in Blechdosen, Morinaga-Milchbonbons, Prince-Nudeln, Science-Nudeln, 77 Yujia – entsprechen jeweils präzise dem Nachschulweg einer bestimmten Generation[^12].
 
-## Jede Generation ist der weisse Maus einer anderen Reform
+## Jede Generation ist die weiße Maus eines anderen
 
-Wenn die Kindheit je eigene war, so gibt es doch etwas, dem alle fünf Generationen nicht entkamen: Jede war die erste Versuchsmaus irgendeiner Systemreform.
+Wenn man sagt, dass jede Generation ihre eigene Kindheit erlebt, so gibt es doch eine Sache, der alle fünf Generationen nicht entkommen können: Jede Generation wird als erste Versuchsreihe irgendeiner Systemreform herangezogen.
 
-Das Bildungssystem wechselte fast alle zehn Jahre. Fünft- und Sechstklässler durchliefen die Joint College Entrance Examination (聯考): High-School-Zuteilung 1958–2000, Joint College Entrance Exam bis 2001 – ein Examen entscheidet über das Leben. Die Siebtklässler bekamen die «Bildungsreform-Dreifachschlag»: Ab 1996 «Konstruktivistische Mathematik» (建構式數學) in der Grundschule – Kinder sollten Rechnen neu «verstehend» lernen; Forscher rechneten später aus, dass fast 1,8 Millionen Grundschüler zu Versuchskaninchen dieses Experiments wurden[^13]; 2001 trat der Neunjahre-Lehrplan (九年一貫) in Kraft, die Basic Competence Test (基測) ersetzte die Joint Exam, Lehrwerke wechselten von «ein Lehrplan, ein Buch» zu «ein Lehrplan, viele Bücher». Die Achtklässler trafen 2014 auf die Zwölfjahres-Grundbildung (十二年國教) und die Comprehensive Assessment Program (會考). Die Neuntklässler erleben seit 2019 den 108-Lehrplan (108課綱). Keine Generation nutzte dieselben Regeln wie die vorherige.
+Das Hochschulzulassungssystem ändert sich fast alle zehn Jahre. Die fünfte und sechste Generation durchlief die Joint Entrance Examination (聯考); die High-School-Zuteilungsprüfung (高中聯招) wurde von 1958 bis 2000 abgehalten, die Universitäts-Zulassungsprüfung (大學聯考) bis 2001 – eine einzige Prüfung entschied über das Schicksal.
 
-Der Wehrdienst ist eine weitere wandernde Linie – und die Wanderrichtung ist konträr. Früher leisteten Wehrpflichtige zwei bis drei Jahre; dann wurde stetig verkürzt, bis Ende 2013: Jahrgänge ab Minguo 83 (1994) absolvierten nur noch vier Monate Militärtraining[^14]. Sah aus wie ein kontinuierlicher Abwärtstrend – dann bog die Kurve wieder nach oben. Das Innenministerium verfügte: Für Jahrgänge ab 1. Januar Minguo 94 (2005) wird die Pflichtwehrpflicht von einem Jahr wieder eingeführt[^14]. Mit anderen Worten: Die Neuntklässler ab Jahrgang 2005 leisten acht Monate mehr als ihre Achtklässler-Vorgänger, die nur vier Monate Training absolvierten – die erste Verlängerung der Wehrpflicht in siebzig Jahren.
+Die siebte Generation erlebte die drei Schläge der Bildungsreform (教改三連擊): Ab 1996 führten Grundschulen die „konstruktive Mathematik“ (建構式數學) ein, die Kinder zwang, Arithmetik auf verständnisbasierte Weise neu zu lernen; Wissenschaftler stellten später fest, dass dieses Experiment fast 1,8 Millionen Grundschüler zu Versuchskaninchen machte[^13]. 2001 trat der neunjährige einheitliche Lehrplan (九年一貫課綱) in Kraft, der Grundlagen-Test (基測) für Mittelschulen ersetzte die Joint Entrance Examination, und Lehrmaterialien wechselten von „ein Lehrplan, ein Buch“ (一綱一本) zu „ein Lehrplan, mehrere Bücher“ (一綱多本). Die achte Generation traf 2014 auf die 12-jährige Grundbildung (十二年國教) und die Aufnahmeprüfung (會考), die neunte Generation 2019 auf den 108-Lehrplan (108 課綱). Keine Generation nutzte dieselben Regeln wie die vorherige.
+
+Der Wehrdienst ist ebenfalls eine sich verschiebende Linie, und die Verschiebungsrichtung ist ungewöhnlich. Früher leisteten Wehrpflichtige zwei bis drei Jahre Dienst, danach verkürzte sich die Dauer kontinuierlich, bis Ende 2013 Wehrpflichtige, die nach dem 83. Jahr der Republik (1994) geboren wurden, nur noch vier Monate Militärtraining absolvieren mussten[^14]. Es sah wie ein kontinuierlicher Abwärtstrend aus, doch dann drehte sich die Entwicklung wieder nach oben. Das Innenministerium verfügte, dass Wehrpflichtige, die nach dem 1. Januar des 94. Jahres der Republik (2005) geboren wurden, wieder ein Jahr aktiven Wehrdienst (常備兵役) leisten müssen[^14]. Mit anderen Worten: Diejenigen der neunten Generation, die nach 2005 geboren wurden, müssen acht Monate länger dienen als ihre älteren Kommilitonen der achten Generation, die nur vier Monate Militärtraining absolvierten – dies ist die erste „Verlängerung“ des Pflichtwehrdienstes seit siebzig Jahren.
 
 ```tw-stat
-427 212 Personen | Höchstgeburtenzahl der Fünftklässler (1963) | Babyboom-Gipfel
-166 886 Personen | Tiefstgeburtenzahl der Neuntklässler (2010) | Nicht einmal 40 % des Fünftklässler-Gipfels
-4 Monate → 1 Jahr | Wehrpflicht vom Talboden wieder hinauf | Jahrgänge Minguo 83–93 (1994–2004) 4 Monate, ab Minguo 94 (2005) wieder 1 Jahr
+427.212 Personen | Höchstgeburtenzahl der 5. Generation (1963) | Höhepunkt des Babybooms
+166.886 Personen | Tiefstgeburtenzahl der 9. Generation (2010) | Weniger als 40 % des Höchststands der 5. Generation
+4 Monate → 1 Jahr | Pflichtwehrdienst steigt vom Tiefpunkt an | Republikjahr 83–93 (geb. 1994–2004) 4 Monate, ab Republikjahr 94 (geb. 2005) wieder 1 Jahr
+Quelle: Statistiken des Haushaltsamts des Innenministeriums zu Geburtenzahlen über die Jahre (1963: 427.212, 2010: 166.886) + Dienstdauer-Erläuterungen des Innenministeriums[^14][^24]
 ```
 
-Legt man diese Systemlinien übereinander, tritt eine schärfere Frage zutage: Jede Reform zielte theoretisch darauf ab, die nächste Generation besser zu bilden, die Landesverteidigung stabiler zu machen. Aus der Perspektive der Reformierten fühlt es sich eher so an: Das Experiment der Vorgängergeneration wird von der nächsten ausgehalten. Und die Experimentatoren müssen selbst selten Maus sein.
+Wenn man diese Systemlinien übereinanderlegt, taucht eine schärfere Frage auf: Jede Reform zielt theoretisch darauf ab, die nächste Generation besser zu unterrichten und die Landesverteidigung stabiler zu gestalten. Doch aus der Perspektive der Reformierten fühlt es sich eher so an: Die Experimente, die die vorherige Generation entworfen hat, werden von der nächsten Generation ausgehalten. Und diejenigen, die die Experimente entwerfen, müssen meist nicht selbst als weiße Maus dienen.
 
 ## Jene Rolltreppe, die langsamer wurde
 
