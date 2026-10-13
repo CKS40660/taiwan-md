@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-13 twmd-maintainer-daily — handoff-offers-two-options-and-both-are-wrong：交接把問題寫成選項，而選項的前提沒有人驗過
+
+- **pattern**: `handoff-offers-two-options-and-both-are-wrong`
+- **原則**：寫得好的交接會附上選項（MAINTAINER §Step 4.4 要求「需觀察者決策」必附 options 加成本，這是對的，它把決策成本從「從頭研究」降到「讀兩行選一個」）。副作用是**選項會被下一班讀成題目範圍**：兩個選項都看起來合理、都可執行，於是當班在兩者之間選，而沒有退一步問「這兩個選項共用的那個前提成立嗎」。REFLEXES #16 說 peer / probe 是線索不是 source；這是它在**交接層**的變體——交接給的選項也是線索，不是題目。
+- **觸發**：2026-10-13 本班。交接寫 `duplicated-lang-prefix` 404 家族「先看這批是不是 301 名單外的新路徑，再決定補名單還是改成規則式導向」。我選了規則式，做完了：12 條 splat 進 `config/redirects-manual.txt`、把這族從 `generate-redirects.mjs` 的 `ALLOWED_FAMILIES` 移除、重跑產生器（資料驅動條目 186 → 66）、還證明了 splat 對既有那 120 條**逐條等價**（120/120 轉換結果與列舉的目標完全相同）。**然後才去查 `_redirects` 在哪一層被讀。** 這個 host 是 GitHub Pages（`actions/deploy-pages@v5`，線上回應帶 `x-github-request-id`），`_redirects` 在那裡不會被讀——而 `astro.config.mjs` 第 230 行早就寫著這句話。整版還原。
+- **兩個選項共用的那個前提**：「導向規則寫在 `_redirects` 會生效」。補名單跟改規則式都站在它上面，所以兩個都不對；真正的修法在第三個地方（404 頁認形狀，`77a04707c`）。交接沒有寫錯任何一句，它只是把可選的動作列完了，而沒有人驗過那層假設。
+- **差一步的代價**：那一版再往前一步就是 `git commit` 掉 120 條正在生效的 meta-refresh stub，換成這台主機從來不讀的 12 條規則。攔下它的不是任何閘門，是「送出前再問一次誰在讀這個檔」。
+- **候選機械化**：(a) 交接寫選項時，除了成本，加一欄**選項共用的前提**（「這兩條路都假設 X」），讓下一班有一個明確的東西可以去驗，而不是只能在選項之間選；(b) 動任何導向／快取／標頭類設定前，先確認**這一層在這個 host 上會不會被讀**——可查的形狀是 `git grep -n "NOT supported\|不會被讀\|only native"` 翻既有註解，本例的答案就躺在 `astro.config.mjs` 裡；(c) MAINTAINER Stage 1 候選加一句：交接點名的修法若涉及部署層設定，Stage 1 就先打一次線上 `curl -I` 對那一族的代表路徑，別等到改完才驗。
+- **可能層級**：REFLEXES #16 的交接層變體（「線索不是 source」從外部二手描述擴到自家交接的選項清單）；也是 #100「驗證對象要等於落地對象」的上游——#100 管「量錯對象」，本條管「**在確認落地對象之前就開始改**」。
+- **相關**：[#16](REFLEXES.md)（最近）；[#100](REFLEXES.md) 驗證對象要等於落地對象（本例是它救下來的）；[#73](REFLEXES.md) 查證反射 < 建造反射（我先建完才去查，正是這條）；[#82](REFLEXES.md) proxy signal（`_redirects` 檔存在被當成它會生效的替身）；MAINTAINER §Step 4.4 handoff 附 options 的規則（本條是它的副作用面，不是要取消它）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-10-13 twmd-maintainer-daily — warning-only-gate-asks-for-a-declaration-its-own-hook-cannot-read：只會警告的閘門叫人在 commit message 寫聲明，而它住在 commit message 還不存在的那個 hook 裡
 
 - **pattern**: `warning-only-gate-asks-for-a-declaration-its-own-hook-cannot-read`

@@ -120,6 +120,16 @@ heal commit 橫跨 `knowledge/` 與 `docs/semiont/` 兩個 domain，`.husky/pre-
 
 Step 3.4 腳註審三級結果：#1806 🔧 fix-on-merge、#1807 🔧 fix-on-merge、#1808 ✅ pass（一格未驗到已記）、#1809 ✅ pass、#1810 ✅ pass。
 
+## Beat 5 反芻：diary 判 skip，理由寫在這裡
+
+照 DIARY-PIPELINE §Stage 0c（routine 收官 diary 預設 skip，三條全中才寫），逐條判：
+
+1. **本班真的動了世界** ✅ — 14 個 PR merge、兩處事實精度 heal、404 家族修法 ship、兩條 LESSONS。
+2. **想法不在 0b 前四列** ❌ — 這條沒過，所以 skip。今天兩段反芻都有別的家：「被自己的儀器騙了一次（警告消失 ≠ 我遵守了）」是可操作的教訓，已寫進 LESSONS `warning-only-gate-asks-for-a-declaration-its-own-hook-cannot-read` 並含自我更正段（0b 第二列）；「交接給的選項是線索不是題目」已寫成 LESSONS `handoff-offers-two-options-and-both-are-wrong`，而它本身是 REFLEXES #16 的交接層變體，該走 distill 去 bump 既有反射，不是散成一篇新日記（0b 第三列，#74 信號通膨）。
+3. **`diary-gate.py` exit 0** ✅ — PASS（`twmd-maintainer-daily` 從沒寫過日記，冷卻不適用；鄰居檢索最高相似度 0.02，不是重複）。
+
+三條裡第 2 條不過，所以不寫。記在這裡是因為 Stage 0c 要求「要寫才需要理由」的反面也得留痕——skip 不能是靜默跳過（本班今天兩次對「沉默地沒做」的自我要求：quality gate 第 7 條不適用也寫明了理由）。
+
 ## Handoff 三態
 
 繼承 `2026-10-13-071548-twmd-feedback-triage`（非本班職權者原樣傳遞，明細不重抄，REFLEXES #74）：
