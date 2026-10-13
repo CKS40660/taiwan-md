@@ -28,15 +28,19 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
-  [
-    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
-    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
-  ]
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-08T05:39:09.223608+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T09:30:56.432006+00:00'
 ---
 
 # Mini Taiwan Pulse: Dùng con mắt giám tuyển để vẽ Đài Loan thành một tấm bản đồ biết thở
@@ -53,38 +57,39 @@ Câu nói nghe qua không có gì đặc biệt. Về sau, nó trở thành hạ
 
 Bài viết này kể về hành trình một người đi từ sự ngây thơ khi kéo một tệp CSV đến chỗ buông tay để hệ thống tự trưởng thành thay mình.
 
-## GitHub của một người đã phát triển thành cả thiên hà như thế nào
+## Một tài khoản GitHub cá nhân, làm sao lớn mạnh thành một hệ thiên hà
 
-Nếu chỉ nhìn vào mini-taiwan-pulse, người ta rất dễ hình dung Migu là một kỹ sư nghiệp dư làm dự án cho vui: cuối tuần nổi hứng dựng một bản demo, rồi tình cờ trở nên nổi tiếng.
+Nếu chỉ nhìn vào duy nhất dự án mini-taiwan-pulse, người ta rất dễ lầm tưởng Migu là một kỹ sư nghiệp dư làm việc theo hứng thú: cuối tuần nổi hứng rồi làm một bản demo, và tình cờ trở nên nổi tiếng.
 
-Có hai điểm không đúng trong hình dung ấy.
+Nhưng giả định này có hai điểm chưa chính xác.
 
-Thứ nhất, anh làm nhiều hơn một dự án rất nhiều. Mở trang GitHub của anh, từ tháng 12/2025 trở đi là hàng loạt dự án trực quan hóa dữ liệu mở Đài Loan: đầu tiên là một bản chứng minh ý tưởng về phạm vi xe buýt; cuối tháng 12, dự án học tập `mini-taiwan-learning-project` nổi tiếng trước và đến nay đạt 189 sao; tháng 2 có bản đồ vị trí thời gian thực của tàu thủy qua AIS và `flight-arc-graph`, dự án vẽ từng chặng cất, hạ cánh thành đường cung, đạt 56 sao; cuối tháng 2 mới đến mini-taiwan-pulse, rồi atlas đường sắt Đài Loan, quỹ đạo vệ tinh, hình ảnh CCTV thời gian thực và bảng thông tin tình hình `mini-taiwan-info` tập hợp toàn bộ dữ liệu… Chuỗi dự án kéo dài tới tháng 6[^2]. Hơn mười kho mã nối lại thành một vùng rộng lớn mà anh tự đặt tên là thiên hà “Mini Taiwan”.
+Thứ nhất, những gì anh làm không chỉ dừng lại ở một dự án. Nếu mở GitHub của anh ra, từ sau tháng 12 năm 2025, bạn sẽ thấy dày đặc các sản phẩm trực quan hóa dữ liệu mở của Đài Loan: khởi đầu là một bản PoC (Proof of Concept) về phạm vi xe buýt để thăm dò thị trường; tiếp đó vào cuối tháng 12, một dự án học tập có tên `mini-taiwan-learning-project` đã nổi lên trước, đến nay đạt 189 sao. Tháng 2, anh làm vị trí thời gian thực của tàu biển AIS, rồi làm `flight-arc-graph` (56 sao) vẽ mỗi chặng cất hạ cánh của chuyến bay thành một đường cung. Phải đến cuối tháng 2, dự án mini-taiwan-pulse mới ra đời, và sau đó là atlas đường sắt Đài Loan, quỹ đạo vệ tinh, hình ảnh CCTV thời gian thực, rồi bảng điều khiển tình hình `mini-taiwan-info` hội tụ toàn bộ dữ liệu... tất cả được thực hiện liên tục cho đến tháng 6[^2]. Hàng chục kho lưu trữ (repo) kết nối lại với nhau thành một dải, và anh tự đặt tên cho nó là hệ thiên hà "Mini Taiwan".
 
-![Bảng thông tin tình hình Mini Taiwan Info tập hợp dữ liệu mở về nhiều chủ đề như dân số, vận tải đường sắt, hàng hải, tài nguyên nước, cứu hỏa và y tế thành các bảng giám sát, mỗi trang một chủ đề](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![Bảng điều khiển tình hình Mini Taiwan Info, hội tụ các chủ đề dữ liệu mở đa dạng như dân số, vận tải đường sắt, hàng hải, tài nguyên nước, phòng cháy chữa cháy, y tế... thành một bảng giám sát mỗi trang một chủ đề](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Một thành viên khác trong thiên hà, Mini Taiwan Info: dữ liệu mở phân tán được tập hợp thành bảng giám sát tình hình, với mỗi trang dành cho một chủ đề—dân số, vận tải đường sắt, hàng hải, tài nguyên nước, cứu hỏa và y tế. Ảnh: Migu / sciwork 2026 (sử dụng hợp lý cho mục đích bình luận biên tập)._
+_Một thành viên khác trong hệ thiên hà, Mini Taiwan Info: Anh đã hội tụ các dữ liệu mở rời rạc thành một bảng điều khiển giám sát tình hình, với dân số, vận tải đường sắt, hàng hải, tài nguyên nước, phòng cháy chữa cháy, y tế, mỗi trang một chủ đề. Ảnh: Migu / sciwork 2026 (sử dụng hợp lý cho mục đích bình luận biên tập)._
 
-Xếp các dự án theo số sao cho thấy không chỉ một dự án trở nên nổi tiếng.
+Nếu xếp hạng số sao của các dự án này, rõ ràng không chỉ có duy nhất một cái "nổi".
 
 ```tw-bars
-GitHub của Migu: không chỉ một repo nổi tiếng (số sao GitHub)
-*mini-taiwan-pulse | 375 | Dự án chủ lực
-mini-taiwan-learning-project | 189 | Nổi tiếng trước pulse
+GitHub của Migu: Không chỉ có một repo nổi bật (Số sao GitHub)
+*mini-taiwan-pulse | 375 | Flagship
+mini-taiwan-learning-project | 189 | Nổi tiếng trước cả pulse
 flight-arc-graph | 56 | Đường bay
-tw-ship-viz | 11 | Tàu thủy
+tw-ship-viz | 11 | Tàu biển
 mini-tw-cctv | 6 | Hình ảnh thời gian thực
 satellite-arc | 6 | Vệ tinh
 Nguồn: GitHub API, 2026-06-25
 ```
 
-Điểm không đúng thứ hai ẩn trong ba chữ “một người”; phần sau sẽ trở lại phân tích điều này. Trước hết, hãy xem thiên hà ấy hình thành ra sao.
+Điểm chưa chính xác thứ hai nằm ở ba chữ "một người", chúng ta sẽ quay lại phân tích điều này sau. Trước hết, hãy xem hệ thiên hà này đã lớn mạnh như thế nào.
 
 ```tw-timeline
-2025-12 | Thử nghiệm đầu tiên | Bản PoC phạm vi xe buýt, thử nghiệm sớm nhất với dữ liệu mở Đài Loan
-2025-12 | learning-project nổi tiếng trước | Trực quan hóa đường sắt Đài Bắc, nổi tiếng trước dự án chủ lực (189★)
-2026-02 | Dự án chủ lực ra đời | mini-taiwan-pulse khai trương, tiến hóa từ JSON tĩnh thành cơ sở dữ liệu không-thời gian
-2026-06 | Công bố toàn bộ hệ thống | Diễn thuyết sciwork 2026: giao dữ liệu mở cho một hệ thống được Agent nuôi dưỡng
+2025-12 | Thăm dò đầu tiên | PoC phạm vi xe buýt, nỗ lực đầu tiên với dữ liệu mở Đài Loan
+2025-12 | learning-project nổi trước | Trực quan hóa đường sắt Đài Bắc, nổi tiếng trước cả flagship (189★)
+2026-02 | Flagship ra đời | mini-taiwan-pulse khai trương, tiến hóa từ JSON tĩnh thành cơ sở dữ liệu không gian - thời gian
+2026-06 | Triển khai toàn bộ hệ thống | Bài diễn thuyết tại sciwork 2026: Hệ thống giao dữ liệu mở cho Agent tự nuôi dưỡng
+Nguồn: Nhật ký dự án GitHub của Migu (trình tự dự án và số sao) và nội dung bài diễn thuyết tại sciwork 2026[^2][^3]
 ```
 
 ## Cùng một phương pháp, từ tàu điện ngầm đến Hệ Mặt Trời

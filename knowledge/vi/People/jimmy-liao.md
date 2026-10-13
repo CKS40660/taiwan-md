@@ -2,10 +2,10 @@
 title: 'Jimmy Liao (Liêu Phúc Bân): Những hình vẽ bị cho là "bình yên" — là những gì một người sống sót sau ung thư máu mang trở lại từ chiếc bể cá'
 description: 'Năm 1995, Liêu Phúc Bân, 37 tuổi, một giám đốc sáng tạo quảng cáo, được chẩn đoán bệnh bạch cầu cấp tính, nằm trong phòng vô trùng, ra hiệu với bạn bè qua lớp kính. Sau khi xuất viện, những "nhân vật nhỏ" mà ông vốn dùng để kiếm tiền đã sống động, ông bắt đầu vẽ các tác phẩm như "Con Cá Nụ Cười", "Mặt Trăng Quên Mất", "Bước Qua Bên Trái - Quay Phải", "Tàu Điện Ngầm". Phía sau những hình vẽ "bình yên" và "ưa thích tinh tế" mà người Đài Loan nhớ tới, cùng với Quảng trường Jimmy Liao ở Nghi Lan và Luó Đông, là một người đã trải qua địa ngục — biến chết chóc và cô đơn thành một hình thức có thể đọc được, rồi phát triển thành một đế chế trải rộng qua điện ảnh, nhạc kịch, xiếc và nghệ thuật công cộng; năm 2026 vẫn đang tổ chức triển lãm kỷ niệm 25 năm ở Hồng Kông.'
 rationale:
-  why_this_hook: '= như nguyên bản'
-  whats_excluded: '= như nguyên bản'
-  where_it_hedges: '= như nguyên bản'
-  whos_pushing_back: '= như nguyên bản'
+  why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
+  whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
+  where_it_hedges: '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。'
+  whos_pushing_back: '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -24,13 +24,13 @@ featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
 readingTime: 12
-image: /article-images/people/jimmy-liao-square-yilan-2016.webp
+image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: '10fe99c59'
-sourceContentHash: 'sha256:8843f64848a3d381'
-sourceBodyHash: 'sha256:722551eb5f4a1b6b'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:3a77d655efe88c48'
+sourceBodyHash: 'sha256:18242d925dc68ac7'
+translatedAt: '2026-10-13T08:21:20.122275+00:00'
 ---
 
 # Jimmy Liao (Liêu Phúc Bân): Những hình vẽ bị cho là "bình yên" — là những gì một người sống sót sau ung thư máu mang trở lại từ chiếc bể cá

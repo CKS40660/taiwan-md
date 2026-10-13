@@ -26,19 +26,19 @@ imageCredit: 'Wang Yu Ching / Office of the President'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
 viewpoint_formed: true
-core_contradiction: 'Mỗi thế hệ bị gọi là dâu tây bởi thế hệ trước, nhưng thứ thay đổi không phải khả năng chịu áp lực, mà là chiếc thang máy dưới chân bị lệch hơn và bị nứt thành hai nhánh'
+core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
 rationale:
-  whats_excluded: |
-    - Khung xác định thế hệ (theo Pew 2023 + Collins + Ông Tích An): bài viết dùng thế hệ làm điểm khởi đầu, nhưng kết luận quay về giai cấp và tác động của thời kỳ
-    - Số tham khảo quyết định của tòa án cao về thế hệ dâu tây: Wikipedia không đính kèm số, tìm kiếm không kết quả, viết "công nhân pháp lý công nhân công nhân"
-    - Lời bài hát cụ thể từng chữ (Phạm Tiểu Tuyền "Tình yêu số" / Dương Tịnh Linh "Mơ hồ" / Bài hát ICQ): không dẫn toàn bộ, dùng bối cảnh thời đại để trần thuật lại
-    - Tỷ lệ cụ thể của thế hệ Douyin "gần gũi văn hóa với Trung Quốc, từ chối chính trị Trung Quốc": mô tả chất lượng, không có cuộc điều tra ngẫu nhiên với mẫu lớn
-    - Nhận xét của bạn tám năm về mua nhà đối chiếu trích dẫn: liên kết gốc chưa xác minh, bài viết không sử dụng trích dẫn trực tiếp, sử dụng tóm tắt thống kê thay thế
-translatedFrom: Society/台灣的年級生世代.md
-sourceCommitSha: 805200859
-sourceContentHash: sha256:1b3e5e3f22f40ead
-sourceBodyHash: sha256:d9ed6a1d6c159cbf
-translatedAt: 2026-08-09T08:07:25+08:00
+  whats_excluded: |-
+    - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
+    - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
+    - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
+    - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
+    - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+translatedFrom: 'Society/台灣的年級生世代.md'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:925c0f0fa8d0ba22'
+sourceBodyHash: 'sha256:e06cb9dbec5bce60'
+translatedAt: '2026-10-13T09:52:34.870702+00:00'
 ---
 
 > **Tổng quan 30 giây:** Người Đài Loan dùng "lớp" (年級) để gọi chính mình, lấy chữ số hàng chục của năm sinh Dân quốc: lớp năm là Dân quốc 50 đến 59 (1961–1970), tiếp tục đến lớp chín (2001–2010). Từ "thế hệ dâu tây" đã bị chỉ trích ba mươi năm, khi lần đầu được in năm 1993, nó chỉ những bạn lúc đó hai mươi tuổi, ngày nay đã năm mươi tuổi, những bạn lớp năm[^1]; sau đó tiếp tục lan xuống lớp bảy, tám, chín. Những người bị chỉ trích thay đổi rất nhiều lần, nhưng nhãn dán không thay đổi một chữ. Thứ thực sự di chuyển giữa năm thế hệ là chiếc thang máy "nỗ lực sẽ được đền đáp" dưới chân: nó trở nên chậm chạp vào khoảng năm 2002, khi thực tế lương bị tách khỏi năng suất[^2]; đồng thời cánh cửa vào bị giá nhà kéo cao, tỷ lệ giá nhà so với thu nhập Đài Bắc từ 6,4 lần năm 2004 tăng lên 15,41 lần năm 2025[^3]; rồi nó bị nứt thành hai nhánh, nhánh chỉ dựa vào lương gần như dừng lại, nhánh dựa vào tiền trang bị từ cha mẹ vẫn còn hoạt động. Bài viết này muốn làm điều đó, là tách nhãn dán này ra để xem xét.
@@ -49,69 +49,72 @@ Tháng 3 năm 2025, một tài khoản xuất hiện trên Threads, đã đăng 
 
 Điều kỳ lạ là, từ mà năm thế hệ cãi cọ kịch liệt nhất trong ba mươi năm, chỉ tượng trưng của nó đã thay đổi rất nhiều lần, nhưng bản thân nó chưa thay đổi một chữ.
 
-## Một từ, bị chỉ trích ba mươi năm, thay đổi ba lần người bị chỉ trích
+## Một từ mắng suốt ba mươi năm, thay đổi qua ba thế hệ
 
-Đầu những năm 1990, cố vấn công sở Ông Tĩnh Ngọc viết một cuốn sách "Câu chuyện phòng làm việc", từ "thế hệ dâu tây" được in lần đầu tiên. Lúc đó bà không chỉ trích những thanh niên ngày nay, mà là những người vừa vào phòng làm việc lúc đó, hai mươi tuổi, cũng chính là những người sinh năm 1960, ngày nay năm mươi tuổi, những người thích hoài niệm về búp bê Đại Đồng và Yakult trên nhóm Facebook[^1].
+Vào đầu những năm 1990, chuyên gia tư vấn nhân sự翁靜玉 (Weng Ching-yu) đã viết cuốn 《辦公室物語》 (Chuyện văn phòng), và ba chữ 「草莓族」 (Thế hệ dâu tây) lần đầu tiên được in ra. Đối tượng bị bà chỉ trích khi đó không phải là giới trẻ ngày nay, mà là nhóm người vừa mới bước chân vào văn phòng ở độ tuổi đôi mươi thời điểm ấy — tức là thế hệ "Ngũ niên sinh" (Generation V) sinh vào thập niên 1960, hiện nay đã ngoài năm mươi tuổi và là những người hay hoài niệm về búp bê Đại Đồng hay Yakult trong các hội nhóm trên Facebook[^1].
 
-Bài viết Wikipedia ghi nhớ rõ ràng dòng chuyển động này: "thế hệ dâu tây" ban đầu chỉ những người sinh năm 1960 ở Đài Loan, tức là những người được gọi thông thường là lớp năm. Sau đó, nhận thức chính thống tiếp tục di chuyển xuống, chỉ chung cho những thanh niên từ lớp bảy trở đi[^1]. Một từ nguyên thủy dùng để chỉ trích một nhóm những thanh niên hai mươi tuổi, ba mươi năm sau trở thành "bất cứ ai trẻ hơn tôi, những người tôi không thích" của những cách gọi chung. Nhãn dán không phải mô tả một thế hệ, nhãn dán mô tả chính "sự trẻ tuổi" này, và tuổi trẻ là một mục tiêu di chuyển.
+Mục từ trên Wikipedia ghi chép rất rõ ràng về sự dịch chuyển này: "Thế hệ dâu tây" ban đầu dùng để chỉ những người Đài Loan sinh vào thập niên 1960, tức là thế hệ Ngũ niên sinh thường gọi. Sau đó, nhận thức chủ lưu đã dịch chuyển dần xuống dưới, dùng để chỉ rộng rãi cho giới trẻ từ thế hệ Thất niên sinh trở đi[^1]. Một thuật ngữ vốn được dùng để mắng một nhóm thanh niên đôi mươi cụ thể, sau ba mươi năm lại trở thành danh xưng chung cho "bất cứ ai trẻ hơn tôi và khiến tôi không vừa mắt". Nhãn dán này không còn mô tả một thế hệ nhất định, mà đang mô tả chính bản chất của sự "trẻ trung" — vốn là một mục tiêu luôn di động.
 
-Quỹ đạo chuyển động của mục tiêu này, gần như có thể được đọc như một lịch sử thế hệ Đài Loan viết tắt. Năm 1993 chỉ trích lớp năm. Những năm 2000 dòng chính lực vào lớp bảy. Năm 2008, khi "Phong trào cỏ dâu tây", học sinh lớp bảy bị chỉ trích trực tiếp ngược lại công nhân từ ngữ này khi tên phong trào[^5]. Năm 2012, tạp chí Viễn Kiến và Yahoo, Vô Danh tổ chức điều tra "Chín bộ lạc thanh niên mới", 1.129 người trẻ từ 20 đến 35 tuổi bán kết "nhãn dán muốn bác bỏ lớn nhất", thế hệ dâu tây với 16,5% xếp thứ nhất, tên thứ hai là thế hệ ăn nhờ, tên thứ ba là thế hệ giếu điện thoại[^6]. Đến thập niên 2020, chiếc mũ này lại đội xuống đầu thế hệ Z, lớp chín.
+Quỹ đạo di chuyển của mục tiêu này gần như có thể đọc như một bản tóm tắt lịch sử các thế hệ tại Đài Loan. Năm 1993 mắng thế hệ Ngũ niên sinh. Những năm 2000, thuật ngữ này chủ yếu gắn lên đầu thế hệ Thất niên sinh. Đến năm 2008, trong "Phong trào Dâu tây hoang dã" (Wild Strawberry Movement), những học sinh thuộc thế hệ Thất niên sinh bị chỉ trích đã thẳng thừng nhận lấy thuật ngữ này để đặt làm tên cho phong trào của mình[^5]. Năm 2012, tạp chí 《遠見》 (Vision) phối hợp cùng Yahoo và Wretch tổ chức cuộc khảo sát "Chín bộ lạc mới của thanh niên", trong số 1.129 người trẻ từ 20 đến 35 tuổi tham gia bình chọn "nhãn dán muốn được minh oan nhất", "Thế hệ dâu tây" đứng đầu với 16,5%, theo sau là thế hệ "ăn bám" (啃老族) và thế hệ "cúi đầu" (低頭族 - nghiện điện thoại)[^6]. Đến những năm 2020, chiếc mũ này lại tiếp tục đội lên đầu Thế hệ Z và thế hệ Cửu niên sinh.
 
 ```tw-timeline
-1993 | "Thế hệ dâu tây" được in lần đầu | Ông Tĩnh Ngọc "Câu chuyện phòng làm việc", ban đầu chỉ những người hai mươi tuổi lúc đó, ngày nay năm mươi tuổi, lớp năm
-2008 | Những người bị chỉ trích ngược lại công nhân từ này | Học sinh lớp bảy của "Phong trào cỏ dâu tây" lấy từ này để làm tên phong trào
-2012 | Nhãn dán muốn bác bỏ lớn nhất xếp hạng đầu | Điều tra Viễn Kiến × Yahoo × Vô Danh 1.129 phiếu, thế hệ dâu tây 16,5% xếp hàng đầu
-2020s | Chiếc mũ chuyển xuống thế hệ Z | Cùng một từ được đội lên đầu lớp chín, nội dung chưa thay đổi
+1993 | Lần đầu tiên thuật ngữ 「草莓族」 xuất hiện | Trong cuốn 《辦公室物語》 của翁靜玉, ban đầu chỉ thế hệ Ngũ niên sinh đang ở tuổi đôi mươi (hiện nay đã ngoài 50)
+2008 | Người bị mắng quay lại nhận lấy thuật ngữ | Các học sinh thế hệ Thất niên sinh trong 「Phong trào Dâu tây hoang dã」 dùng từ miệt thị này làm tên phong trào
+2012 | Đứng đầu danh sách nhãn dán muốn được minh oan nhất | Khảo sát của 遠見×Yahoo×Wretch với 1.129 phiếu bầu, 「Thế hệ dâu tây」 chiếm 16,5% dẫn đầu
+2020s | Chiếc mũ dịch chuyển xuống Thế hệ Z | Cùng một thuật ngữ nhưng được đội lên đầu thế hệ Cửu niên sinh, nội dung không đổi
+Nguồn: Mục từ Wikipedia 「草莓族」 + Hồ sơ Phong trào Dâu tây hoang dã + Khảo sát 「Chín bộ lạc mới của thanh niên」 của 遠見／Yahoo／Wretch (theo báo cáo của ETtoday) [^1][^5][^6]
 ```
 
-Và từ này cũng có thể đứng vững về mặt pháp lý. Tòa án cao Đài Loan, trong một vụ kiện, đã xác định rằng "thế hệ dâu tây" có nghĩa là "người trẻ không có kinh nghiệm không thể chịu được thất bại", thuộc danh mục từ ngữ khiếm nhã[^1]. Điều đó có nghĩa là, đây là một từ được tòa án công nhân là từ ngữ khiếm nhã, nhưng trong ba mươi năm, nó bị thế hệ trên dùng làm công cụ bình luận liên tục nhất về thế hệ dưới, truyền đi một lần lần khác.
+Hơn nữa, thuật ngữ này còn có cơ sở pháp lý. Trong một vụ kiện, Tòa án Cao đẳng Đài Loan đã xác định rằng "Thế hệ dâu tây" dùng để chỉ "những người trẻ tuổi, thiếu kinh nghiệm và không chịu nổi thất bại", thuộc nhóm từ ngữ mang tính miệt thị[^1]. Nói cách khác, đây là một cụm từ đã được tòa án công nhận là nhằm hạ thấp người khác, nhưng trong suốt ba mươi năm qua, nó lại bị thế hệ đi trước dùng như một công cụ thuận tay nhất để phê phán thế hệ sau, cứ thế truyền từ đời này sang đời khác.
 
-Trả bóng lại: mỗi người hiện tại muốn nói "người trẻ ngày nay chính là dâu tây", đều nên nhớ lại từ này, từ đầu, rất có thể chính là bản thân mình.
+Hãy nhìn lại chính mình: Bất kỳ ai hiện đang muốn thốt lên rằng "giới trẻ ngày nay đúng là thế hệ dâu tây", đều nên nhớ rằng đối tượng bị mắng đầu tiên bởi thuật ngữ này, rất có thể chính là bản thân họ.
 
 ## Không có tuổi thơ chung: Từ tiệm tạp hóa đến TikTok
 
-Nếu thực sự có một bức tường giữa các thế hệ, thì bức tường đó được xây dựng từ tuổi thơ. Nếu bạn trải ra tuổi thơ của năm thế hệ, bạn sẽ khám phá ra một điều rất yên tĩnh: họ gần như không có bất cứ điều gì chung mà cả năm thế hệ đều nhớ.
+Nếu giữa các thế hệ thực sự tồn tại một bức tường, thì bức tường đó được xây nên từ chính những ký ức tuổi thơ. Khi trải rộng tuổi thơ của cả năm thế hệ ra để xem xét, bạn sẽ nhận thấy một sự thật lặng lẽ: họ hầu như không có bất kỳ điều gì cùng nhớ về nhau.
 
-Tuổi thơ của lớp năm, sáu là ở tiệm tạp hóa. Búp bê Đại Đồng phát hành năm 1969, lúc đó chỉ mua đầy đủ mười ngàn yên điện tử mới được tặng một cái, cái búp bê áo đỏ nhỏ bé đặt trong phòng khách là chứng chỉ danh tính gia đình từ công nhân lên tầng lớp trung lưu[^7]. Yakult bắt đầu thiết lập nhà máy ở Đài Loan năm 1964, một chai hai tệ, do "Mẹ Yakult" đeo hộp giữ lạnh một nhà, một nhà gửi[^8]. Đường về nhà sau giờ học là Hoàng tử mì, Khoa học mì, tờ giấy quân hình, viên bi. Mở TV, kịch rối bóng Huỳnh Tuấn Hùng "Đại Nho Sĩ Vân Châu" phát sóng năm 1970 trên Đài Hóa Thị, Sử Diễm Văn đánh 583 tập, tạo kỷ lục 97% tỷ lệ xem, nổi tiếng đến mức năm 1974 bị cấm phát sóng vì "làm ảnh hưởng đến công việc nông nông"[^9].
+Tuổi thơ của thế hệ lớp 5, lớp 6 gắn liền với các tiệm tạp hóa (柑仔店). Năm 1969, khi búp bê Tatung (大同寶寶) ra mắt, người ta phải mua đồ điện gia dụng trị giá NT$10.000 mới được tặng một con; hình ảnh em bé mặc áo đỏ ấy đặt trong phòng khách chính là minh chứng cho sự chuyển mình của một gia đình từ tầng lớp lao động lên trung lưu[^7]. Yakult bắt đầu đặt nhà máy tại Đài Loan vào năm 1964, mỗi chai có giá 2 Đài tệ, được những "mẹ Yakult" đeo thùng giữ lạnh đi giao đến từng hộ gia đình[^8]. Trên đường đi học về là mì Wang Zi (王子麵), mì Khoa Học (科學麵), bánh kẹo Wāng-á-biāo (尪仔標) và bắn bi. Khi bật tivi lên, vở tuồng rối tay 《Vân Châu Đại Nho Hiệp》 (雲州大儒俠) của nghệ nhân Hoàng Tuấn Hùng (Huang Chun-hsiung) được phát sóng trên Đài phận (TTV) vào năm 1970; bộ phim do Sử Diễm Văn (Shi Yan-wen) thủ vai chính đã kéo dài tới 583 tập, đạt tỷ lệ người xem kỷ lục 97%, và nổi tiếng đến mức bị cấm chiếu vào năm 1974 với lý do "gây ảnh hưởng đến việc canh tác nông nghiệp"[^9].
 
-![Năm chai Yakult bằng nhựa xếp hàng ngang, Yakult đỏ trắng là thức uống bằng axit lactic phổ biến trong tủ lạnh gia đình Đài Loan](/article-images/society/yakult-bottles.webp)
-_Năm chai Yakult đóng gói, biểu tượng của tiệm tạp hóa lớp năm, sáu. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![Năm chai Yakult nhựa xếp hàng ngang, bao bì đỏ trắng của Yakult là loại đồ uống lợi khuẩn thường thấy trong tủ lạnh các gia đình Đài Loan](/article-images/society/yakult-bottles.webp)
+_Năm chai Yakult, thức uống biểu tượng tại các tiệm tạp hóa và cửa hàng bách hóa thời lớp 5, lớp 6. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-Tuổi thơ lớp năm, sáu | Tuổi thơ lớp chín
-Tờ giấy quân hình, viên bi ở tiệm tạp hóa | Dcard, Little Red Book trên điện thoại
-Búp bê Đại Đồng, Mẹ Yakult | IG Story, TikTok ngắn
-Tỷ lệ xem 97% của kịch rối Huỳnh Tuấn Hùng | Trượt vô hạn được thuật toán cung cấp
-Một con phố, mọi người xem cùng một kịch | Một người trượt một video chỉ dành cho người đó
+Tuổi thơ lớp 5, lớp 6 | Tuổi thơ lớp 9
+Bánh kẹo Wāng-á-biāo, bắn bi tại tiệm tạp hóa | Dcard, Xiaohongshu trên điện thoại
+Búp bê Tatung, mẹ Yakult | Instagram Story, video ngắn TikTok
+Tỷ lệ xem 97% của tuồng rối Hoàng Tuấn Hùng | Cuộn vô tận do thuật toán cung cấp
+Cả con phố cùng xem một vở diễn | Mỗi người lướt một video chỉ dành riêng cho mình
+Nguồn: Các tư liệu lịch sử và báo cáo liên quan đến búp bê Tatung, Yakult và 《Vân Châu Đại Nho Hiệp》 (bao gồm việc phát sóng trên TTV năm 1970, tỷ lệ xem 97% và lệnh cấm chiếu) [^7][^8][^9]
 ```
 
-Thanh xuân lớp bảy chuyển sang giao diện khác. Máy nhắn tin số (Gọi Đó) đạt đỉnh vào năm 1999, toàn Đài Loan bốn triệu lăm trăm ngàn hộ[^10], các cặp vợ chồng truyền tình yêu bằng con số, 520, 1314 nhấp nháy trên màn hình nhỏ. Sau khi truy cập Internet, tiếng "ding" của Yahoo Messenger, tiếng "đăng đăng đăng" khi MSN trực tuyến, blog và album của Vô Danh, tạo thành một bộ bí mật chỉ họ quen thuộc[^4]. Năm 1997, tamagotchi đến Đài Loan, được ăn cắp ở các cửa hàng bách hóa Cao Hùng lên tới một chi phí một ngàn năm trăm yên, học sinh chỉ chú ý nuôi tamagotchi trong lớp, thậm chí bộ trưởng giáo dục lúc đó còn nửa đùa nói, có thể là ở trường lập một "trang trại nuôi gà" chung[^11].
+Thanh xuân của thế hệ lớp 7 đã thay đổi giao diện. Máy nhắn tin (BB Call) đạt đỉnh cao vào năm 1999 với hơn bốn triệu thuê bao trên toàn Đài Loan[^10]; các cặp đôi dùng những con số để truyền tải tình cảm, như "520" hay "1314" nhấp nháy trên màn hình nhỏ bé. Sau khi Internet xuất hiện, tiếng "ting tong" của Yahoo! Messenger, âm thanh "đing đeng đeng" khi đăng nhập MSN, cùng các blog và album ảnh trên Wretch (無名小站) đã tạo nên một hệ thống mật mã mà chỉ thế hệ này mới hiểu[^4]. Năm 1997, thú ảo điện tử (Tamagotchi) du nhập vào Đài Loan; tại các trung tâm thương mại ở Cao Hùng, chúng được săn đón đến mức bị đẩy giá lên thêm NT$1.500; học sinh trong giờ học mải mê cho thú cưng ăn đến nỗi Bộ trưởng Bộ Giáo dục thời bấy giờ còn nói đùa rằng có lẽ nên lập luôn "trang trại nuôi gà" ngay trong trường để cùng chăm sóc[^11].
 
-![Một máy nhắn tin số xanh lam từ những năm 1990, vỏ kim loại, màn hình hiển thị số, là thiết bị liên lạc di động của thời đại BB Call](/article-images/society/bb-call-pager.webp)
-_Máy nhắn tin số thập niên 1990 (Gọi Đó), công cụ liên lạc mà lớp bảy dùng để truyền "520" "1314". Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![Một chiếc máy nhắn tin kỹ thuật số màu xanh từ thập niên 1990, vỏ kim loại với màn hình nhỏ hiển thị con số, là thiết bị liên lạc di động của thời đại BB Call](/article-images/society/bb-call-pager.webp)
+_Máy nhắn tinh kỹ thuật số (BB Call) thập niên 1990, công cụ liên lạc để thế hệ lớp 7 gửi những thông điệp như "520" hay "1314". Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-Đến lớp tám, sân khấu là PTT và Facebook. Năm 2009, Nông trại vui vẻ, toàn Đài Loan đều hỏi "Bạn đã ăn cắp rau nay chưa". Lớp chín thì chìm hẳn vào thuật toán: Instagram, TikTok, Little Red Book, Dcard. Thay đổi không chỉ là nền tảng, mà cả cách quan sát chính nó cũng thay đổi: lớp năm, một con phố, mọi người tối về xem cùng một kịch "Đại Nho Sĩ Vân Châu". Lớp chín, một người trượt một video mà thuật toán chỉ cung cấp cho chính người đó.
+Đến thế hệ lớp 8, sân chơi là PTT và Facebook. Năm 2009 là thời của FarmVille, cả Đài Loan đều hỏi nhau "hôm nay bạn đã đi trộm rau chưa". Còn thế hệ lớp 9 thì hoàn toàn chìm đắm trong thuật toán: Instagram, TikTok, Xiaohongshu, Dcard. Thứ thay đổi không chỉ là nền tảng, mà ngay cả cách thức tiếp nhận thông tin cũng biến chuyển: Thế hệ lớp 5, cả con phố cùng xem một vở 《Vân Châu Đại Nho Hiệp》 vào buổi tối. Thế hệ lớp 9, mỗi người lướt một video ngắn được thuật toán "nuôi" riêng cho duy nhất mình họ.
 
-> 📝 **Ghi chú của người quản lý**
-> Chúng ta quen dùng "sự khác biệt về quan điểm giá trị" để giải thích khoảng cách thế hệ: thế hệ trước thích cố gắng, thế hệ sau thích nằm dài. Nhưng gần với sự thật hơn, có lẽ là một cái gì đó vật lý hơn: họ không bao giờ cùng nhìn vào cùng một bức tranh. Ký ức tập thể cần "tập thể" làm điều kiện tiên quyết, và trong bốn mươi năm từ tiệm tạp hóa đến thuật toán phân chia, các phương tiện truyền thông Đài Loan liên tục từ "toàn thôn quây quanh một TV" vỡ vụn thành "mỗi người một điện thoại chỉ xem riêng mình". Nói chung, họ không lớn lên trong cùng một căn phòng. Hoài niệm vì vậy cũng đa dạng: bạn nhấn like vào máy chủ đó, những người khác không thể ấn vào được.
+> 📝 **Ghi chú của biên tập viên**
+> Chúng ta thường dùng "sự khác biệt về giá trị quan" để giải thích khoảng cách thế hệ: thế hệ trước thích phấn đấu, thế hệ sau thích nằm yên (躺平). Nhưng sự thật có lẽ gần gũi hơn với một yếu tố vật lý: họ chưa bao giờ cùng xem chung một khung hình. Ký ức tập thể cần tiền đề là tính "tập thể", nhưng trong suốt bốn thập kỷ từ thời tiệm tạp hóa đến kỷ nguyên thuật toán phân mảnh, phương tiện truyền thông tại Đài Loan đã đi từ cảnh "cả làng quây quần quanh một chiếc tivi" thành "mỗi người một chiếc điện thoại chỉ để xem những gì mình muốn". Suy cho cùng, họ vốn dĩ không lớn lên trong cùng một căn phòng. Vì vậy, sự hoài niệm cũng mang tính cá nhân hóa cao: máy chủ mà bạn nhấn "like" có thể là nơi mà người khác không bao giờ truy cập được.
 
-Đây cũng là lý do tại sao hoài niệm ở Đài Loan có thị trường lớn, nhưng lại rất đa dạng. Năm 2018, một cuộc điều tra đồ ăn vặt hoài niệm nhận được 1.523 câu trả lời, những người đầu tư nhiều nhất chính là lớp bảy, chiếm 38,2%; những tên hàng đầu được bán kết, kẹo trái cây lon sắt, kẹo sữa Morinaga, mì Hoàng tử, mì Khoa học, yến mạch bảy lần bảy, mỗi cái đều chính xác tương ứng với con đường về nhà sau giờ học của một thế hệ[^12].
+Đó cũng là lý do tại sao sự hoài niệm lại có thị trường lớn nhưng lại cực kỳ phân mảnh tại Đài Loan. Một cuộc khảo sát về đồ ăn vặt hoài niệm năm 2018 với 1.523 phiếu trả lời cho thấy, nhóm đóng góp nhiều nhất chính là thế hệ lớp 7, chiếm 38,2%. Những cái tên đứng đầu danh sách bình chọn như: kẹo trái cây lon thiếc, kẹo sữa Morinaga, mì Wang Zi, mì Khoa Học, kẹo Chichi (七七乳加)... mỗi thứ đều tương ứng chính xác với con đường đi học của một thế hệ nhất định[^12].
 
-## Mỗi thế hệ đều là chuột trắng thí nghiệm của người khác
+## Mỗi thế hệ đều là chuột bạch của người khác
 
-Nếu nói tuổi thơ là mỗi người qua của mình, thì có một điều mà năm thế hệ không thể thoát: mỗi thế hệ đều bị coi là thế hệ đầu tiên của một cải cách chế độ nào đó.
+Nếu nói tuổi thơ là trải nghiệm riêng biệt của mỗi người, thì có một sự thật mà cả năm thế hệ đều không thể tránh khỏi: mỗi thế hệ đều bị biến thành "lứa chuột bạch" đầu tiên cho một cuộc cải cách chế độ nào đó.
 
-Hệ thống nâng học liên tục thay đổi hơn mười năm. Lớp năm, sáu sử dụng kỳ thi liên kết, lớp trung học liên kết từ 1958 đến 2000, kỳ thi đại học đến 2001, một lần thi định đời. Lớp bảy tiếp nhận ba cuộc cải cách giáo dục liên tiếp: từ 1996 trở đi, các tiểu học đẩy "toán học xây dựng", yêu cầu con cái tìm hiểu cách để học lại số học, các học giả sau đó thống kê, thí nghiệm này làm cho gần như một triệu tám mươi ngàn học sinh tiểu học trở thành chuột trắng[^13]; năm 2001, chương trình giáo dục chín năm bắt đầu, kỳ thi cơ sở quốc gia thay thế kỳ thi liên kết, vật liệu giáo dục từ "một chuẩn, một cuốn sách" thành "một chuẩn, nhiều cuốn sách". Lớp tám gặp phải năm 2014 giáo dục mười hai năm và thi tuyển, lớp chín là chương trình 108 khởi động năm 2019. Không thế hệ nào sử dụng cùng một bộ quy tắc với thế hệ trước.
+Chế độ thi cử gần như thay đổi mười năm một lần. Học sinh lớp 5 và lớp 6 trải qua kỳ thi liên thông; kỳ tuyển sinh trung học phổ thông theo hình thức liên kết kéo dài từ năm 1958 đến năm 2000, và kỳ thi đại học liên thông kéo dài đến tận năm 2001, nơi một kỳ thi có thể quyết định cả số phận. Học sinh lớp 7 tiếp nhận "ba cú đấm" của cải cách giáo dục: từ năm 1996, bậc tiểu học triển khai "Toán học kiến tạo", yêu cầu trẻ em học lại các phép tính theo phương pháp hiểu bản chất; các học giả sau đó thống kê rằng cuộc thử nghiệm này đã biến gần 1,8 triệu học sinh tiểu học thành chuột bạch[^13]; năm 2001, chương trình giáo dục chín năm nhất quán được áp dụng, kỳ thi đánh giá năng lực trung học cơ sở thay thế cho kỳ thi liên thông, và giáo trình chuyển từ "một chương trình một bộ sách" sang "một chương trình nhiều bộ sách". Học sinh lớp 8 gặp phải cuộc cải cách giáo dục 12 năm và kỳ thi đánh giá năng lực (Hui-kao) vào năm 2014, còn học sinh lớp 9 là chương trình 108 được áp dụng từ năm 2019. Không có thế hệ nào được sử dụng cùng một bộ quy tắc như thế hệ trước đó.
 
-Bộ đội cũng là một dòng di chuyển, và hướng di chuyển rất bất thường. Những người lính sớm khoác quân phục, ba năm tiếp tục, đến cuối năm 2013, những người lính sinh năm Dân quốc 83 (1994) trở đi chỉ cần phục vụ bốn tháng huấn luyện quân sự[^14]. Ban đầu nó có vẻ là một con dốc xuống một đường liên tục rút ngắn, không ngờ nó lại quay ngược lên. Bộ Nội vụ qui định, những người lính sinh từ năm Dân quốc 94 (2005) ngày 1 tháng 1 trở đi, khôi phục phục vụ quân đội dự bị một năm[^14]. Nói cách khác, những người lớp chín sinh từ 2005 trở đi, quân phục dài hơn những người lớp tám chỉ phục vụ bốn tháng huấn luyện quân sự chính xác tám tháng, đây là lần đầu tiên trong bảy mươi năm "kéo dài" quân vụ bắt buộc.
+Nghĩa vụ quân sự cũng là một đường kẻ luôn di chuyển, và hướng di chuyển lại rất bất thường. Trước đây, nam giới nhập ngũ phải đi hai đến ba năm, sau đó thời gian cứ thế rút ngắn dần; cho đến cuối năm 2013, những nam giới sinh sau năm Dân quốc thứ 83 (năm 1994) chỉ cần hoàn thành 4 tháng huấn luyện quân sự[^14]. Cứ ngỡ đây là một con dốc đi xuống với thời gian ngày càng ngắn lại, không ngờ nó lại đảo chiều đi lên. Bộ Nội vụ quy định rằng những nam giới sinh sau ngày 1 tháng 1 năm Dân quốc thứ 94 (năm 2005) sẽ phải khôi phục nghĩa vụ quân sự thường trực trong một năm[^14]. Nói cách khác, nhóm học sinh lớp 9 sinh sau năm 2005 sẽ phải đi lính nhiều hơn hẳn 8 tháng so với các đàn anh lớp 8 vốn chỉ phải huấn luyện quân sự 4 tháng; đây là lần đầu tiên nghĩa vụ quân sự được "kéo dài" trong suốt 70 năm qua.
 
 ```tw-stat
-427.212 người | Số sinh lớp năm đạt cực đại (năm 1963) | Đỉnh cao cao tiếng kêu trẻ
-166.886 người | Số sinh lớp chín đạt cực tiểu (năm 2010) | Không đến bốn mươi phần trăm cực đại lớp năm
-4 tháng → 1 năm | Quân vụ bắt buộc từ cực tiểu đảo ngược | Năm dân quốc 83–93 (1994–2004 sinh) phục vụ 4 tháng, năm dân quốc 94 (2005 sinh) khôi phục 1 năm
+427,212 người | Số lượng sinh ra đạt đỉnh ở lớp 5 (năm 1963) | Đỉnh điểm của bùng nổ trẻ sơ sinh
+166,886 người | Số lượng sinh ra chạm đáy ở lớp 9 (năm 2010) | Chưa bằng 40% mức đỉnh của lớp 5
+4 tháng → 1 năm | Nghĩa vụ quân sự đảo chiều từ đáy đi lên | Sinh năm Dân quốc 83–93 (1994–2004) đi 4 tháng, từ sinh năm Dân quốc 94 (2005) khôi phục lên 1 năm
+Nguồn: Thống kê số lượng sinh ra hàng năm của Cục Hộ tịch thuộc Bộ Nội vụ (năm 1963 là 427,212; năm 2010 là 166,886) + Giải thích về thời hạn nghĩa vụ quân sự của Bộ Nội vụ[^14][^24]
 ```
 
-Nếu xếp chồng các dòng chế độ này lên nhau xem, sẽ nổi lên một vấn đề sắc nét hơn: mỗi lần cải cách, lý thuyết đều là để dạy thế hệ dưới tốt hơn, để giữ vững quốc phòng. Nhưng đứng ở vị trí của những người bị cải cách, cảm giác đó giống như: thí nghiệm do thế hệ trước thiết kế, do thế hệ dưới chịu hậu quả. Và những người thiết kế thí nghiệm, phần lớn không phải chính mình làm chuột trắng.
+Khi chồng các đường kẻ chế độ này lên nhau, một vấn đề nhức nhối hơn sẽ hiện ra: Về lý thuyết, mỗi cuộc cải cách đều nhằm mục đích dạy dỗ thế hệ sau tốt hơn và đảm bảo quốc phòng vững chắc hơn. Nhưng đứng ở vị trí của những người bị cải cách, cảm giác giống như là: Thế hệ trước thiết kế thí nghiệm, còn thế hệ sau phải gánh chịu kết quả. Trong khi đó, những người thiết kế thí nghiệm đa phần không cần phải đích thân làm chuột bạch.
 
 ## Chiếc thang máy đó đã chậm lại
 
