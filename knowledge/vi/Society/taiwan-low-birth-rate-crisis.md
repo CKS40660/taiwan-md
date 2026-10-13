@@ -1,15 +1,15 @@
 ---
-title: 'Bài hát cuối cùng của đảo quốc: Năm Rồng cũng không cứu được 0.695'
-description: '2024 là Năm Rồng, người Đài Loan lẽ ra phải vội sinh con để cầu may mắn, nhưng năm đó lại ít hơn năm trước 715 em bé, lần đầu tiên trong 48 năm phép thuật năm Rồng bị phá vỡ. Năm sau tỷ lệ sinh sụt xuống 0.695. Nhưng chìa khoá thật chẳng bao giờ là người Đài Loan không muốn sinh (hơn 70% đã kết hôn sinh từ 2 con trở lên), mà là không kết hôn; chính phủ lại đã phát tiền 10 năm cho "không dám sinh", toàn thế giới cũng chẳng có nước nào mua lại tỷ lệ sinh suất qua.'
+title: 'Tiếng hát cuối cùng của hòn đảo: Con số 0,695 mà ngay cả năm Giáp Thìn cũng không thể cứu vãn'
+description: 'Năm 2024 là năm Giáp Thìn, lẽ ra người Đài Loan nên tranh thủ sinh con để cầu may mắn, nhưng năm nay số lượng trẻ sơ sinh lại giảm thêm 715 bé so với năm trước, đánh dấu lần đầu tiên sau 48 năm phép màu của năm Thìn mất hiệu lực. Sang năm tiếp theo, tỷ lệ sinh đã sụt giảm xuống còn 0,695. Tuy nhiên, mật mã thực sự chưa bao giờ nằm ở việc người Đài Loan không muốn sinh con (hơn 70% cặp đôi sau khi kết hôn sinh từ hai con trở lên), mà là do xu hướng không kết hôn; trong khi đó, chính phủ đã chi tiền suốt mười năm qua cho vấn đề "không dám sinh", nhưng trên thế giới chưa có quốc gia nào dùng tiền để mua lại được tỷ lệ sinh.'
 date: 2026-03-24
 category: 'Society'
 tags:
   [
-    'sinh con ít',
+    'ít con',
     'dân số',
     'tỷ lệ sinh',
     'không kết hôn',
-    'lão hóa',
+    'già hóa',
     'chính sách dân số',
     'thế hệ',
   ]
@@ -18,367 +18,360 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-17
 lastHumanReview: false
-researchReport: reports/research/2026-06/台灣少子化危機.md
+researchReport: 'reports/research/2026-06/台灣少子化危機.md'
 rationale:
-  why_this_hook: 'Phép thuật Năm Rồng năm 2024 bị phá vỡ + tỷ lệ sinh 2025 sụt xuống 0.695 là dữ liệu mới nhất và phản trực giác nhất; mâu thuẫn cốt lõi "không phải không sinh mà là không kết hôn" lật đổ tường thuật phổ thông "nuôi không nổi".'
-  whats_excluded: 'Người gốc Đài Loan ở nước ngoài trở về (ngoài phạm vi bài này); áp lực địa chính trị kìm hãm sinh con (chỉ là giả thuyết từ bình luận viên, không có bằng chứng, không viết thành sự kiện).'
-  where_it_hedges: 'TFR ghi chú là tỷ lệ sinh kỳ này (period TFR, bị ảnh hưởng bởi tempo, không phải "suốt đời chỉ sinh 0,7"); "toàn cầu thấp nhất" chỉ dành cho các nước có chủ quyền (Macao, Hong Kong v.v. là những đặc khu có tỷ lệ thấp hơn); vực thế sinh viên đầu cơ dài kỳ là sự thật nhưng con số thiếu hụt ngắn hạn có biến động; cơ sở của TFR 2025 là 0.695 chờ báo cáo năm tổng chính thức xác nhận.'
-  whos_pushing_back: 'Những ý kiến phản đối đã được đưa vào §Ai là người gặp khủng hoảng: Giang Dân Khâm (tín hiệu giá), Lệ Hương/Liên tuyến phụ nữ Đài Loan (tự chủ phụ nữ, phản đối quốc phòng hóa buộc sinh), Tạp chí Kinweekly (di cư là giải pháp), vocus (góc độ GDP bình quân).'
-wikilink_targets: {}
+  why_this_hook: '2024 龍年生肖魔法失靈 + 2025 崩到 0.695 是最新且最反直覺的切角；核心矛盾「不是不生是不婚」推翻通行的「養不起」敘事。'
+  whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
+  where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
+  whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'd96dbc4bb'
-sourceContentHash: 'sha256:22f624258f9ada15'
-sourceBodyHash: 'sha256:be7b46d45d345648'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:a14a0e12438e6a6a'
+sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
+translatedAt: '2026-10-13T03:29:53.142876+00:00'
 ---
 
-# Bài hát cuối cùng của đảo quốc: Năm Rồng cũng không cứu được 0.695
+# Tiếng hát cuối cùng của đảo quốc: Con số 0,695 mà ngay cả năm Thìn cũng không thể cứu vãn
 
-> **Tóm tắt 30 giây:** 2024 là Năm Rồng, người Đài Loan lẽ ra phải vội sinh con để cầu may mắn, kết quả năm đó lại ít hơn năm trước 715 em bé[^1], lần đầu tiên trong 48 năm, phép thuật năm Rồng bị phá vỡ rồi. Năm sau tỷ lệ sinh sụt xuống **0.695**, thấp nhất trong các nước có chủ quyền[^2]. Chính phủ 10 năm qua đã trích gần 5 nghìn tỷ để thúc đẩy sinh con[^3], nhưng luôn sai lầm ở một điều: người Đài Loan không phải không sinh, hơn 70% người đã kết hôn sinh từ 2 con trở lên[^4]; cái thực sự sụt xuống là **không kết hôn**. Tiền được phát cho các gia đình đã kết hôn, nhưng lỗ hổng lại nằm ở những người chưa kết hôn. Và nhìn khắp thế giới (Hàn Quốc, Hungary, Singapore), không có nước nào mua lại tỷ lệ sinh suất[^5]. Vì vậy câu hỏi thực sự đã thay đổi từ "làm thế nào để mọi người sinh nhiều hơn" thành "làm thế nào để sống có phẩm giá trên một đảo quốc chắc chắn sẽ lao cạn dân số".
+> **Tóm tắt trong 30 giây:** Năm 2024 là năm Thìn, lẽ ra người Đài Loan phải tranh thủ sinh con để cầu may mắn, nhưng kết quả là số trẻ sơ sinh trong năm này còn ít hơn năm trước 715 trẻ[^1]. Lần đầu tiên sau 48 năm, "phép màu" của năm Thìn đã mất hiệu lực. Sang năm tiếp theo, tỷ lệ sinh sụt giảm thê thảm xuống mức **0,695**, thấp nhất trong số các quốc gia có chủ quyền[^2]. Chính phủ đã chi gần 500 tỷ Đài đô la trong mười năm qua để thúc đẩy sinh sản[^3], nhưng lại luôn nhầm lẫn một điều: Người Đài Loan không phải là không muốn sinh con, bởi hơn 70% những người sau khi kết hôn đã sinh từ hai con trở lên[^4]; thứ thực sự đang sụp đổ chính là **tình trạng không kết hôn**. Tiền trợ cấp được phát cho các gia đình đã kết hôn, nhưng lỗ hổng lại nằm ở những người chưa lập gia đình. Và nhìn ra toàn thế giới (Hàn Quốc, Hungary, Singapore), không có quốc gia nào có thể dùng tiền để mua lại tỷ lệ sinh[^5]. Vì vậy, câu hỏi thực sự cần đặt ra đã chuyển từ "làm sao để mọi người sinh nhiều hơn" thành "làm sao để sống một cách có tôn nghiêm trên một hòn đảo định sẵn là sẽ ngày càng ít người đi".
 
-Tháng 9 năm 2024, Lục Quỹ, Cao Hùng, ngày khai giảng đầu tiên của trường Tiểu học Tân Uy.
+Tháng 9 năm 2024, tại Lục Quy, Cao Hùng, ngày khai giảng đầu tiên của Trường Tiểu học Tân Uy.
 
-Trường này được thành lập năm 1921, lịch sử 104 năm, là trường tiểu học duy nhất có sinh hoạt tiếng Khách Gia ở Lục Quỹ[^6]. Hôm đó lễ chào cờ, sân trường có 5 lớp học toàn bộ, 29 học sinh. Trong đó học sinh lớp 1 mới: không có[^7]. Một cháu cũng không có. Lần đầu tiên kể từ khi trường thành lập.
+Ngôi trường này được thành lập vào năm 1921, với lịch sử 104 năm, là trường học duy nhất tại Lục Quy chú trọng đời sống ngôn ngữ Hakka[^6]. Trong buổi lễ chào cờ ngày hôm đó, trên sân trường chỉ có 29 học sinh thuộc 5 lớp của toàn trường. Trong số đó, số học sinh mới vào lớp một là: không[^7]. Không có một ai. Đây là lần đầu tiên kể từ khi thành lập trường.
 
-Tháng 8 năm sau, Tiểu học Tân Uy được sáp nhập vào Tiểu học Quảng Hưng Mỹ Nông[^8]. Hiệu phó đại lý Trần Ỷ Thính nói trong học kỳ cuối cùng rằng trong tương lai muốn tập trung vào dạy tiếng Khách Gia đặc sắc, "hy vọng thu hút học sinh địa phương, để văn hóa Khách Gia tiếp tục được truyền dạy"[^9]. Thành viên HĐND Lâm Phú Bảo nói rõ hơn: "một lớp một đứa bé cũng không phải chuyện tốt" "nên sáp nhập thì cứ sáp nhập"[^10].
+Tháng 8 năm sau, Trường Tiểu học Tân Uy được sáp nhập vào Trường Tiểu học Quảng Hưng tại Mỹ Nao[^8]. Quyền Hiệu trưởng Trần Di Đình (Chen Yi-ting) chia sẻ trong học kỳ cuối cùng rằng, trong tương lai bà muốn tập trung vào giảng dạy đặc sắc văn hóa Hakka, "hy vọng sẽ thu hút học sinh địa phương đến theo học, để văn hóa Hakka được tiếp tục kế thừa"[^9]. Nghị sĩ Hội đồng Thành phố Lâm Phú Bảo (Lin Fu-pao) còn nói thẳng thắn hơn: "Một lớp chỉ có một đứa trẻ cũng không phải là chuyện tốt" và "nên sáp nhập trường thì hãy sáp nhập"[^10].
 
-Tiểu học Tân Uy không phải trường hợp lẻ loi, nó là một bức thư. Một bức thư mà nông thôn Đài Loan gửi đi 40 năm trước, các thành phố bây giờ mới nhận được.
+Trường Tiểu học Tân Uy không phải là một trường hợp cá biệt, nó là một bức thư. Một bức thư mà các vùng nông thôn Đài Loan đã gửi đi từ bốn mươi năm trước, nhưng đến tận bây giờ các đô thị mới bắt đầu nhận được.
 
----
+## Ngay cả năm Thìn cũng không còn linh ứng nữa
 
-## Cả năm Rồng cũng không linh
+Người Đài Loan luôn có ký ức về các con giáp. Năm Thìn người ta tranh nhau sinh con để cầu may mắn, năm Dần (năm Cô Loan) thì tìm cách tránh né vì lo sợ điều không hay; hệ thống lịch pháp dân gian này đã để lại "dấu vân tay" trên số lượng trẻ sơ sinh suốt gần 50 năm qua. Vào năm Thìn 1976, toàn Đài Loan có 425.125 trẻ sơ sinh ra đời, tăng vọt 55.776 trẻ so với năm trước đó[^11]. Năm Thìn 1988 tăng thêm 28.007; năm Thìn 2000 tăng thêm 21.651; và năm Thìn 2012 tăng thêm 32.854[^12]. Bốn lần năm Thìn, bốn lần số lượng đều nhảy vọt, không có ngoại lệ.
 
-Người Đài Loan có ký ức về can chi. Năm Rồng vội sinh con để cầu may mắn, năm Cáp vứt đi, những lịch âm dân gian này để lại dấu tích trên con số sinh con gần năm mươi năm. 1976 Năm Rồng, toàn Đài Loan sinh được 425.125 em bé, tăng 55.776 em so với năm trước[^11]. 1988 Năm Rồng +28.007, 2000 Năm Rồng +21.651, 2012 Năm Rồng +32.854[^12]. Bốn Năm Rồng, bốn lần con số tăng lên, không có ngoại lệ.
+Và rồi đến năm 2024.
 
-Sau đó là 2024.
-
-Năm này là Năm Rồng, lẽ ra phải là một đỉnh sinh nhỏ hiếm thấy gần đây. Kết quả số sinh **chỉ có 134.856 người, ít hơn năm 2023 có 135.571 người 715 em**[^13]. Bốn mươi tám năm là lần đầu tiên, năm Rồng không kéo con số lên, mà kéo xuống. Phép thuật của can chi, chính thức bị phá vỡ năm này.
+Năm nay là năm Thìn, theo lý mà nói, đáng lẽ phải là một đỉnh cao sinh sản hiếm hoi trong những năm gần đây. Kết quả là số trẻ sinh ra chỉ đạt 134.856 người, **ít hơn 715 người** so với con số 135.571 của năm 2023[^13]. Lần đầu tiên sau 48 năm, năm Thìn không còn kéo con số đi lên mà ngược lại còn sụt giảm. Phép màu của con giáp đã chính thức mất hiệu lực trong năm này.
 
 ```tw-figure
-+55,776 → −715
-Những năm Rồng quá khứ đều làm số sinh tăng vọt, nhưng năm Rồng 2024 lại ít hơn năm trước 715 em bé
-Bộ Nội vụ, Cục Hộ tịch, thống kê sinh số từ RIS
++55.776 → −715
+Các năm Thìn trước đây đều khiến số trẻ sinh ra tăng vọt, nhưng năm Thìn 2024 lại ít hơn năm trước 715 trẻ sơ sinh
+Thống kê số trẻ sinh ra từ Cục Hộ tịch, Bộ Nội vụ và RIS
 ```
 
-Nếu chỉ mất hiệu lực năm Rồng là dấu báo, 2025 là một trận động đất. Năm Tỳ, con số sinh sụt xuống **107.812 người**, ít hơn Năm Rồng lại gần hai mươi bảy nghìn, một năm mất gần 20%[^14]. Tỷ lệ sinh toàn thời kỳ (TFR) từ 2024 là 0,89 thẳng rơi xuống **0,695**[^15], Đài Loan vượt Hàn Quốc, trở thành nơi có tỷ lệ sinh thấp nhất trong các nước có chủ quyền[^16]. Cùng năm đó, số chết 20 vạn, cái khoảng cách sinh không bằng chết −92.456, là lần sụt giảm tự nhiên lớn nhất trong lịch sử Đài Loan[^17].
+Nếu việc năm Thìn mất linh chỉ là một tín hiệu cảnh báo, thì năm 2025 chính là một trận động đất. Vào năm Tỵ, số trẻ sinh ra sụt giảm thê thảm xuống còn **107.812 người**, ít hơn năm Thìn thêm 27.000 trẻ nữa, tức là giảm gần 20% chỉ trong một năm[^14]. Tổng tỷ lệ sinh (TFR) từ mức 0,89 của năm 2024 đã rơi thẳng xuống **0,695**[^15], khiến Đài Loan vượt qua Hàn Quốc để trở thành nơi có tỷ lệ sinh thấp nhất trong số các quốc gia có chủ quyền[^16]. Cùng năm đó, số người chết là 200.000, thâm hụt giữa sinh và tử là −92.456, mức giảm tự nhiên lớn nhất trong lịch sử Đài Loan[^17].
 
 ```tw-figure
-425,125 → 107,812
-Số sinh hàng năm của Đài Loan, từ đỉnh Năm Rồng 1976 đến Năm Tỳ 2025, nửa thế kỷ rơi xuống còn một phần tư
-Bộ Nội vụ, Cục Hộ tịch, thống kê sinh số từ RIS
+425.125 → 107.812
+Số trẻ sinh ra hàng năm tại Đài Loan, từ đỉnh cao năm Thìn 1976 đến năm Tỵ 2025, đã giảm xuống còn một phần tư sau nửa thế kỷ
+Thống kê số trẻ sinh ra từ Cục Hộ tịch, Bộ Nội vụ và RIS
 ```
 
-> 💡 **Có biết không:** "0.695" đọc như thế này. Nó gọi là "tỷ lệ sinh kỳ toàn thời kỳ", nghĩa là "nếu một phụ nữ sinh con suốt đời theo tỷ lệ sinh từng nhóm tuổi của năm 2025, cô ấy sẽ sinh 0.695 em bé". Nó **không bằng** "nữ giới hiện nay suốt đời chỉ sinh trung bình 0,7 em". Vì người Đài Loan sinh con ngày càng muộn, kéo dài những ca sinh lẽ ra phải tập trung trong vài năm ra nhiều năm, chỉ số "kỳ này" sẽ bị ước lệch thấp, bị ép xuống. Nghiên cứu viên Viện Trung Ương Trịnh Diễn Hân đã tính toán: chỉ nhìn tỷ lệ sinh kỳ này, Đài Loan 1985 đã rơi dưới 2 rồi; nhưng thực sự theo tính "thế hệ", phải đến thế hệ nữ giới sinh năm 1965 mới có độc lập sinh toàn thời kỳ dưới 2, giữa hai cách này chênh nhau cả hai mươi năm[^18]. Vì vậy 0.695 rất tồi tệ, nhưng cách nó tồi tệ phức tạp hơn bề ngoài.
+> 💡 **Bạn có biết:** Cách đọc của con số "0,695" như sau. Nó được gọi là "Tổng tỷ lệ sinh theo thời kỳ" (Period Total Fertility Rate), nghĩa là "Nếu một phụ nữ sinh con suốt đời dựa trên tỷ lệ sinh của từng nhóm tuổi trong năm 2025, cô ấy sẽ sinh được 0,695 đứa trẻ". Nó **không đồng nghĩa** với việc "phụ nữ hiện nay trung bình cả đời chỉ sinh 0,7 con". Bởi vì người Đài Loan đang có xu hướng sinh con ngày càng muộn, đẩy việc sinh nở vốn dĩ nên rải rác trong nhiều năm về phía sau, khiến chỉ số "thời kỳ" này bị đánh giá thấp và bị nén lại. Trịnh Nhạn Hinh (Zheng Yanxin) từ Viện Nghiên cứu Trung ương đã tính toán rằng: Nếu chỉ nhìn vào tỷ lệ sinh theo thời kỳ, Đài Loan đã chạm mức dưới 2 từ năm 1985; nhưng nếu tính theo "thế hệ" thực sự, phải đến thế hệ phụ nữ sinh ra vào năm 1965 thì tỷ lệ sinh trọn đời mới thấp hơn 2, khoảng cách giữa hai con số là tận 20 năm[^18]. Vì vậy, 0,695 là một con số rất thảm khốc, nhưng sự thảm khốc của nó phức tạp hơn nhiều so với vẻ bề ngoài.
 
-Con số sẽ làm kinh hãi, nhưng đáng dừng lại suy nghĩ hơn là những −715 năm 2024. Nó chứng minh một điều: ngay cả "cầu một lần may mắn, sinh một em nữa" cái yêu cầu tối thiểu này, người Đài Loan cũng không sẵn lòng nữa. Vấn đề thậm chí chưa tới việc sinh được em thứ hai, là em thứ nhất cũng sinh không ra. Và em thứ nhất sinh không ra, lùi một bước, vấn đề chẳng nằm ở lò sản, mà nằm ở đám cưới.
+Những con số có thể gây kinh hãi, nhưng điều đáng để dừng lại suy ngẫm hơn cả chính là con số −715 của năm 2024. Nó chứng minh một điều: Ngay cả động lực ở mức tối thiểu như "cầu may mắn, sinh thêm một đứa" mà người Đài Loan cũng không còn mặn mà nữa. Vấn đề thậm chí còn chưa dừng lại ở việc liệu có đủ khả năng sinh con thứ hai hay không, mà là ngay cả con đầu lòng họ cũng không sinh nổi. Và nếu truy ngược lại nguyên nhân của việc không thể sinh con đầu lòng, vấn đề vốn dĩ không nằm ở phòng sinh, mà nằm ở lễ cưới.
 
 ---
 
 ## Không phải không sinh, mà là không kết hôn
 
-Đây là phần phản trực giác nhất, cũng hay bị nói sai nhất.
+Đây là khía cạnh phản trực giác nhất và cũng là điều thường bị hiểu sai nhất trong toàn bộ vấn đề này.
 
-Một nói tới sinh con ít, đầu óc mọi người tự động chạy tới "thanh niên nuôi không nổi con" "giá nhà quá cao không dám sinh". Nghe vào chuẩn mực. Nhưng Trịnh Diễn Hân của Viện Xã hội Trung Ương học dữ liệu sinh con Đài Loan suốt chục năm, kết luận của cô ấy là: "Chìa khoá của tỷ lệ sinh thấp chẳng phải không sinh con, có khả năng còn hơn: **chưa kết hôn**."[^19]
+Mỗi khi nhắc đến tình trạng tỷ lệ sinh thấp, tâm trí mọi người thường tự động nảy ra suy nghĩ: "Người trẻ không nuôi nổi con" hay "Giá nhà quá cao nên không dám sinh". Nghe có vẻ rất hợp lẽ thường. Tuy nhiên, Trịnh Nhạn Hinh (Cheng Yen-hsin) từ Viện Nghiên cứu Xã hội thuộc Viện Nghiên cứu Trung ương (Academia Sinica), người đã nghiên cứu dữ liệu sinh sản của Đài Loan trong nhiều thập kỷ, đã đưa ra kết luận: "Mật mã then chốt của tỷ lệ sinh thấp không phải là việc không sinh con, mà khả năng cao hơn là: **vẫn chưa kết hôn**."[^19]
 
-Bằng chứng của cô rất cứng. Ở Đài Loan, hầu hết cặp vợ chồng kết hôn đều sẽ sinh, "thậm chí hơn 70% sinh tới hai con trở lên"[^20]. Nói khác đi, chỉ cần kết hôn rồi, ý định sinh con của người Đài Loan thực ra chẳng thấp thế. Cái thực sự sụt xuống là mẫu số: những người kết hôn ít hơn. 2024 kết hôn 123.061 cặp, 2025 rơi tới 104.376 cặp, tạo lập kỷ lục mới[^21]. Tỷ lệ độc thân toàn thời kỳ tuổi 45 tới 49 đã gần tới hai mươi phần trăm, dự báo tới 2050, nam giới sẽ vượt quá ba mươi phần trăm, nữ giới vượt quá một phần tư không kết hôn[^22].
+Bằng chứng của bà rất thuyết phục. Tại Đài Loan, đa số các cặp vợ chồng sau khi kết hôn đều sẽ sinh con, "thậm chí có hơn 70% sinh từ hai con trở lên"[^20]. Nói cách khác, chỉ cần kết hôn, ý muốn sinh con của người Đài Loan thực tế không hề thấp đến thế. Thứ thực sự sụp đổ chính là mẫu số: số người kết hôn đang ít dần đi. Năm 2024 có 123.061 cặp kết hôn, nhưng đến năm 2025 con số này giảm xuống còn 104.376 cặp, xác lập mức thấp kỷ lục trong lịch sử[^21]. Tỷ lệ độc thân suốt đời ở độ tuổi từ 45 đến 49 đã tiến gần mức 20%. Dự báo đến năm 2050, tỷ lệ nam giới không kết hôn sẽ vượt quá 30% và nữ giới vượt quá 1/4[^22].
 
-Rồi "không kết hôn nhưng sinh con" sao? Ở nhiều nước Âu Châu, sinh con ngoài hôn nhân đỡ lưng khoảng nửa con số sinh. Nhưng Đài Loan không. Con số của Trịnh Diễn Hân: "ở Đài Loan, sinh con ngoài hôn nhân chỉ 2~4%, cả chục năm không thay đổi."[^23]
+Vậy còn trường hợp "không kết hôn nhưng vẫn sinh con" thì sao? Tại nhiều quốc gia châu Âu, việc sinh con ngoài giá thú đã nâng đỡ phần lớn số ca sinh. Nhưng Đài Loan thì không. Con số từ Trịnh Nhạn Hinh cho thấy: "Đối với Đài Loan, tỷ lệ sinh ngoài giá thú chỉ chiếm 2–4%, không hề thay đổi trong suốt nhiều thập kỷ qua."[^23]
 
 ```tw-stat
-Hơn 70% | Cặp vợ chồng đã kết hôn sinh tới hai con trở lên | Trịnh Diễn Hân
-2–4% | Tỷ lệ sinh ngoài hôn nhân, hàng chục năm không đổi | Trịnh Diễn Hân
-104,376 cặp | Số kết hôn 2025, tạo lập kỷ lục mới | Bộ Nội vụ, Cục Hộ tịch
+Trên 70% | Các cặp vợ chồng đã kết hôn sinh từ hai con trở lên | Trịnh Nhạn Hinh
+2–4%     | Tỷ lệ sinh ngoài giá thú, không đổi trong nhiều thập kỷ | Trịnh Nhạn Hinh
+104.376 cặp | Số cặp kết hôn năm 2025, mức thấp kỷ lục lịch sử | Cục Hộ tịch, Bộ Nội vụ
+Nguồn: Phỏng vấn Trịnh Nhạn Hinh thuộc Viện Nghiên cứu Trung ương (Yánzhīyǒuwù) + Thống kê số cặp kết hôn của Cục Hộ tịch, Bộ Nội vụ (CNA báo cáo) [^20][^21][^23]
 ```
 
-Xếp ba con số này chồng lên nhau, một bức tranh nguyên nhân hoàn toàn khác biệt nổi lên: sinh con của Đài Loan gần như hoàn toàn buộc vào hôn nhân (sinh con ngoài hôn nhân chỉ 2-4%), mà những người kết hôn đang sụp đổ. Vì vậy từ mức thay thế 2,1 một đường rơi xuống không tới 1,1, đoạn rơi này **gần như toàn bộ bị tỷ lệ kết hôn giảm lái**[^24]. Thay vì nói tỷ lệ sinh bị "nuôi không nổi" áp đặt, chính xác hơn là nó bị "không kết hôn" xát khô.
+Khi chồng chéo ba con số này lên nhau, một biểu đồ nhân quả hoàn toàn khác sẽ hiện ra: Việc sinh sản tại Đài Loan gần như gắn liền hoàn toàn với hôn nhân (sinh ngoài giá thú chỉ chiếm 2-4%), trong khi số người kết hôn đang trên đà sụp đổ. Do đó, việc tỷ lệ sinh giảm từ mức thay thế là 2,1 xuống còn chưa đầy 1,1, **gần như toàn bộ sự sụt giảm này được thúc đẩy bởi sự giảm sút của tỷ lệ kết hôn**[^24]. Thay vì nói tỷ lệ sinh bị đè bẹp bởi áp lực "không nuôi nổi", thì chính xác hơn phải nói rằng nó đang bị rút cạn bởi tình trạng "không kết hôn".
 
-> 📝 **Ghi chú từ người sắp xếp:** Cách nói phổ thông đưa nguyên nhân lệch hướng. Tường thuật chủ lưu là "áp lực kinh tế → không dám sinh → sinh con ít", vì vậy logic chính sách có vẻ tự nhiên thành "phát tiền giảm áp lực → mọi người sẽ dám sinh". Nhưng nếu điểm gãy thật sự là "không kết hôn", chuỗi nguyên nhân này từ bước đầu đã nối sai rồi. Trịnh Diễn Hân nói rất bình tĩnh: nếu vấn đề là "nuôi không nổi", trợ cấp có thể có hiệu quả; nhưng nếu phần lớn là không kết hôn, "chính sách kinh tế bất lực"[^25]. Nghiên cứu từ Viện Kinh tế Hoa Trung cũng chỉ vào cùng một điểm: giá nhà thấp lương chẳng phải nguyên nhân chính không kết hôn, điều quan trọng hơn là "hầu hết những người độc thân có ý định kết hôn, nhưng vào vị trí công việc khó gặp được người phù hợp kết hôn"[^25]. Nói cách khác, câu hỏi này, phát tiền không bung được. Tiền, phát sai chỗ rồi.
+> 📝 **Ghi chú của biên tập viên:** Cách giải thích phổ biến hiện nay đang đảo ngược quan hệ nhân quả. Luồng tư duy chủ đạo là "Áp lực kinh tế → Không dám sinh → Tỷ lệ sinh thấp", dẫn đến logic chính sách trở thành "Phát tiền để giảm áp lực → Mọi người sẽ dám sinh". Nhưng nếu điểm đứt gãy thực sự nằm ở việc "không kết hôn", thì chuỗi nhân quả này đã sai ngay từ bước đầu tiên. Trịnh Nhạn Hinh nhận định rất bình tĩnh: Nếu vấn đề là "không đủ khả năng chi trả", các khoản trợ cấp có thể có hiệu quả; nhưng nếu đa số là không kết hôn, thì "các chính sách kinh tế sẽ vô tác dụng". Nghiên cứu của Viện Nghiên cứu Kinh tế Trung Hoa cũng chỉ ra cùng một điểm: Giá nhà cao và lương thấp không phải nguyên nhân chính dẫn đến việc không kết hôn, điều quan trọng hơn là "đa số những người chưa kết hôn đều có ý muốn kết hôn, nhưng sau khi gia nhập thị trường lao động, họ rất khó gặp được đối tượng phù hợp để tiến tới hôn nhân"[^25]. Nói cách khác, bài toán này không thể giải bằng tiền. Tiền đang được phát sai khâu.
 
-Và cẩn thận một cái bẫy sâu hơn: đưa không sinh thành "thanh niên ích kỷ". Khi phụ nữ lần đầu có năng lực nói không với "được trông chờ sinh con" việc này, gắn cái tag ích kỷ lên lựa chọn, vừa không công bằng, vừa chỉ sai đối tượng. Sau cùng nguyên nhân từ đầu tới cuối chẳng nằm ở những người kết hôn sinh ít, mà nằm ở gốc chẳng bước vào hôn nhân. Điều này, chúng ta để lại tới sau để bàn.
+Và cần phải cẩn trọng với một cái bẫy sâu xa hơn: Việc coi việc không sinh con là do "người trẻ ích kỷ". Khi phụ nữ lần đầu tiên có khả năng nói "không" trước kỳ vọng phải sinh con, việc dán nhãn "ích kỷ" lên lựa chọn này vừa không công bằng, vừa nhắm sai đối tượng. Suy cho cùng, nguyên nhân chính từ đầu đến cuối không nằm ở việc người đã kết hôn sinh ít đi, mà nằm ở việc họ thậm chí còn chưa bước chân vào cuộc sống hôn nhân. Điểm này, chúng ta sẽ thảo luận kỹ hơn ở phần sau.
 
 ---
 
-## Phát tiền cho người sai
+## Phát tiền cho sai đối tượng
 
-Vậy mười năm này, chính phủ làm gì?
+Vậy trong mười năm qua, chính phủ đã làm được gì?
 
-Câu trả lời là: phát rất nhiều tiền. Kế hoạch đối sách sinh con ít, 2007 tới 2024 tổng chi phí khoảng 4.851 tỷ[^26]. Đầu tư liên quan từ 0 tới 6 tuổi, từ năm 2016 150 tỷ, một đường tăng tới 2026 1.400 tỷ, một năm đơn lẻ vượt 1.200 tỷ[^27]. Trợ cấp nuôi con bây giờ con đầu tiên mỗi tháng 5.000, con thứ hai 6.000, con thứ ba trở lên 7.000, thậm chí hủy khoả mức hạn[^28]. Tháng 5 năm 2026, Lại Thanh Đức lại tăng thêm "Chiến lược đối sách dân số Đài Loan mới" mười tám mục, kêu 0 tới 18 tuổi mỗi tháng trợ cấp tăng 5.000 tiền, cấp trung ương thống nhất tặng sinh 10 vạn[^29].
+Câu trả lời là: Đã phát rất nhiều tiền. Tổng kinh phí cho các kế hoạch đối phó tình trạng ít con từ năm 2007 đến năm 2024 là khoảng 485,1 tỷ NT$[^26]. Các khoản đầu tư liên quan đến trẻ em từ 0 đến 6 tuổi đã tăng mạnh từ mức 15 tỷ NT$ vào năm 2016 lên tới 140 tỷ NT$ vào năm 2026, với riêng một năm vượt quá 120 tỷ NT$[^27]. Trợ cấp nuôi con hiện nay là 5.000 NT$ mỗi tháng cho con thứ nhất, 6.000 NT$ cho con thứ hai và 7.000 NT$ trở lên cho con thứ ba; ngay cả chế độ ưu tiên theo thứ tự cũng đã bị bãi bỏ[^28]. Vào tháng 5 năm 2026, Lại Thanh Đức (Lai Ching-te) tiếp tục bổ sung thêm 18 hạng mục trong "Chiến lược mới về đối sách dân số Đài Loan", đưa ra mức trợ cấp tăng trưởng hàng tháng 5.000 NT$ cho trẻ từ 0 đến 18 tuổi và khoản hỗ trợ sinh sản thống nhất từ trung ương là 100.000 NT$[^29].
 
-Tiền là thật được phát xuống. Vấn đề là, **nó gần như toàn bộ phát cho những gia đình đã kết hôn, đã có con**. Với cái đang sụp đổ (những người chưa kết hôn), những trợ cấp này không tương tác gì. Đó là ý nghĩa của "phát tiền cho người sai": vấn đề không bao giờ là tiền quít, mà từ đầu người được chọn sai.
+Tiền thực sự đã được chi ra. Vấn đề là, **nó hầu như chỉ phát cho những gia đình đã kết hôn và đã có con**. Đối với mảng đang trên đà sụp đổ (những người chưa kết hôn), các khoản trợ cấp này hoàn toàn không chạm tới được. Đây chính là ý nghĩa của việc "phát tiền cho sai đối tượng": Vấn đề chưa bao giờ nằm ở chỗ tiền quá ít, mà là ngay từ đầu đã chọn sai đối tượng.
 
-Còn có điều ngượng hơn, thậm chí phát cho "đã kết hôn nhưng còn lưỡng lự sinh thêm một em" gia đình, hiệu quả cũng yếu ớt quá. Dương Tử Anh từ Viện Kinh tế Trung Ương làm một nghiên cứu rất thông minh, anh ấy lấy người trúng xổ số Đài Loan làm "tự nhiên thử nghiệm": những gia đình bất thần trúng giải trên một trăm vạn, bằng ngoài trời rơi xuống một bộ "trợ cấp sinh con", họ sẽ sinh thêm không?
+Điều đáng ngại hơn là, ngay cả khi phát cho những gia đình "đã kết hôn nhưng còn do dự về việc có nên sinh thêm con hay không", hiệu quả cũng cực kỳ thấp. Dương Tử Đình (Yang Tzu-ting) từ Viện Nghiên cứu Kinh tế thuộc Viện Nghiên cứu Trung ương đã thực hiện một nghiên cứu rất thông minh, ông lấy việc trúng xổ số tại Đài Loan làm một "thí nghiệm tự nhiên": Những gia đình đột ngột trúng giải lớn trên một triệu NT$ tương đương với việc nhận được một khoản "trợ cấp sinh sản" từ trên trời rơi xuống, liệu họ có sinh thêm con không?
 
-Sẽ. Nhưng chỉ sinh thêm **0,07 em**.
+Có. Nhưng chỉ tăng thêm **0,07 đứa trẻ**.
 
 ```tw-figure
-Trúng một trăm vạn → sinh thêm 0,07 em
-Dương Tử Anh dùng trúng xổ số làm "trợ cấp sinh con rơi trời" tự nhiên thử nghiệm: cứ mỗi 100 gia đình trúng giải lớn, 6 năm bên trong chỉ sinh thêm khoảng 7 em bé
-Viện Kinh tế Trung Ương
+Trúng hàng triệu NT$ → Sinh thêm 0,07 đứa trẻ
+Dương Tử Đình dùng việc trúng xổ số làm "thí nghiệm tự nhiên về trợ cấp sinh sản từ trên trời rơi xuống": Cứ 100 gia đình trúng giải lớn thì trong vòng 6 năm chỉ sinh thêm khoảng 7 đứa trẻ.
+Viện Nghiên cứu Kinh tế, Viện Nghiên cứu Trung ương
 ```
 
-Tính lại, cứ mỗi 100 gia đình trúng giải lớn, 6 năm bên trong vì bất ngờ vào túi này mà sinh thêm em bé, chỉ khoảng 7 em[^30]. Suy diễn của Dương Tử Anh rất trực tiếp: quy mô trợ cấp trừ phi to tới gần bằng toàn bộ chi phí nuôi lớn một em bé, không thì không lay động được quyết định sinh con[^31]. Tại sao tiền vô dụng vậy? Vì anh ấy phát hiện, cái thực sự sợ người thường không phải tiền, mà là thời gian: "nuôi con chẳng chỉ tăng chi tiêu, quan trọng hơn là ảnh hưởng tới cách sắp xếp thời gian cá nhân."[^32]Ở Đài Loan nuôi con tới 18 tuổi khoảng một ngàn vạn, nhưng hơn một ngàn vạn còn làm người nản hơn, là mười tám năm đó, bố mẹ phải trao lại nhân sinh của mình.
+Quy đổi ra, cứ mỗi 100 gia đình trúng giải lớn, số trẻ em được sinh thêm nhờ khoản tiền bất ngờ này trong vòng sáu năm chỉ vào khoảng bảy đứa[^30]. Suy luận của Dương Tử Đình rất trực diện: Trừ khi quy mô trợ cấp lớn đến mức gần bằng toàn bộ chi phí để nuôi dưỡng một đứa trẻ, nếu không nó sẽ không thể lay chuyển được quyết định sinh con[^31]. Tại sao tiền lại vô dụng như vậy? Bởi vì ông nhận thấy, thứ thực sự ngăn cản mọi người thường là thời gian chứ không phải tiền bạc: "Nuôi dạy một đứa trẻ không chỉ đơn thuần là tăng thêm chi phí, mà quan trọng hơn là tác động đến việc sắp xếp thời gian cá nhân."[^32] Để nuôi một đứa trẻ ở Đài Loan đến năm 18 tuổi cần khoảng 10 triệu NT$, nhưng điều khiến người ta chùn bước hơn cả con số 10 triệu đó chính là cuộc đời mà cha mẹ phải đánh đổi trong suốt 18 năm ấy.
 
-Ôn Tại Hùng từ Trung tâm Dân số và Giới của Đại học Đài Loan nói còn cay khôi hơn. Anh ấy dài dòng nhìn vấn đề dân số, đối với logic "cho tiền thúc sinh" đã phán quyết một cái:
+Ôn Tại Hoằng (Wen Tsai-hung) từ Trung tâm Nghiên cứu Dân số và Giới thuộc Đại học Quốc gia Đài Loan còn nói thẳng thừng hơn. Ông là người theo dõi lâu dài các vấn đề dân số và đã đưa ra một phán quyết cho logic "dùng tiền để thúc đẩy sinh sản":
 
-> "Cho tiền thúc sinh logic không làm việc được, theo đuổi một môi trường sống bình đẳng, tươi tắn hơn mới là cách giải quyết gốc."[^33]
+> 「Logic dùng tiền để bảo người ta sinh con là không khả thi, việc theo đuổi một môi trường sống bình đẳng và nhân văn hơn mới là giải pháp căn cơ.」[^33]
 
 ```tw-quote
-Cho tiền thúc sinh logic không làm việc được, theo đuổi một môi trường sống bình đẳng, tươi tắn hơn mới là cách giải quyết gốc
-Ôn Tại Hùng | Trung tâm Dân số và Giới, Đại học Đài Loan, 2024
+Logic dùng tiền để bảo người ta sinh con là không khả thi, việc theo đuổi một môi trường sống bình đẳng và nhân văn hơn mới là giải pháp căn cơ
+Ôn Tại Hoằng | Trung tâm Nghiên cứu Dân số và Giới, Đại học Quốc gia Đài Loan, 2024
 ```
 
-Anh ấy còn nói thêm, giải thích tại sao việc này khó được coi là việc: "Vấn đề dân số luôn là nước sôi từ từ, bạn sẽ không bao giờ cảm thấy nó rất nguy hiểm."[^34]Động đất đến bạn vài giây trong là phản ứng, nhưng khủng hoảng dân số rõ ràng có 10 20 năm báo trước, nhưng vì nó chậm, nên luôn bị đẩy tới ngày mai. Ôn Tại Hùng thực sự quan tâm, là chiết lập tầng dưới của xã hội Đài Loan. Anh ấy nói, "giả sử chúng ta vẫn cứ nhấn mạnh tranh đua cá nhân việc này, tình huống tài nguyên phân phối không bình đều, tập trung cực độ này sẽ không thể thay đổi."[^35]Trong xã hội mà nén toàn bộ áp lực cho cá nhân chịu, sinh con trở thành cái cược cá nhân mạo hiểm. Phát bao nhiêu tiền, cũng sửa không được cấu trúc của cái cược đó.
+Ông còn bổ sung thêm một câu để giải thích tại sao vấn đề này lại khó được coi trọng: "Vấn đề dân số luôn giống như kiểu luộc ếch trong nước ấm, bạn sẽ không bao giờ cảm thấy nó thực sự nghiêm trọng."[^34] Khi động đất đến, bạn sẽ phản ứng ngay lập tức trong vài giây, nhưng cuộc khủng hoảng dân số rõ ràng có thời gian cảnh báo lên đến một hai mươi năm, song vì nó diễn ra chậm chạp nên luôn bị đẩy lùi sang ngày mai. Điều Ôn Tại Hoằng thực sự quan tâm là thiết lập nền tảng của xã hội Đài Loan. Ông nói: "Giả sử chúng ta cứ liên tục nhấn mạnh vào việc cạnh tranh cá nhân, thì tình trạng phân bổ nguồn lực không đồng đều và tập trung cực độ này sẽ không bao giờ thay đổi được."[^35] Trong một xã hội mà mọi áp lực đều đổ lên vai cá nhân, việc sinh con trở thành một canh bạc rủi ro cao của mỗi người. Có phát thêm bao nhiêu tiền đi chăng nữa cũng không thể thay đổi được cấu trúc của ván bài đó.
 
-> ⚠️ **Quan điểm tranh cãi:** Giang Dân Khâm từ Đại học Tân Thế Giới bắn từ một góc khác, anh nói Đài Loan "xã hội tư nhân hóa rủi ro nuôi con, công cộng hóa cổ tức dân số": con sinh ra phải nộp thuế, phải nhập ngũ, phải sống lây toàn xã hội, lợi ích là của mọi người; nhưng rủi ro sinh nuôi, chi phí, hy sinh, toàn phải bố mẹ tự nuốt. Vì vậy anh ấy cho: "tỷ lệ sinh thấp không phải thiếu đạo đức, mà là tín hiệu giá."[^36]Thanh niên không sinh, chẳng phải họ hỏng rồi, có thể là họ bảng khoản này tính sáng suốt rồi. Trong khung này, trợ cấp "như thuốc giảm đau chứ không phải phẫu thuật"[^37], ép được cái đau lúc này, chữa không được bệnh gốc.
+> ⚠️ **Quan điểm gây tranh cãi:** Giang Mân Khâm (Chiang Min-chin) từ Đại học Thế Tân đã bồi thêm một góc nhìn khác, ông cho rằng Đài Loan đang "tư nhân hóa rủi ro nuôi dạy trẻ em nhưng lại công cộng hóa lợi tức dân số": Khi đứa trẻ lớn lên, chúng sẽ đóng thuế, đi nghĩa vụ quân sự và nuôi sống toàn xã hội — đó là lợi ích chung của mọi người; nhưng rủi ro, chi phí và sự hy sinh trong việc sinh nở và nuôi dạy thì hoàn toàn do cha mẹ tự gánh vác. Do đó, ông cho rằng: "Tỷ lệ sinh thấp không phải là một khiếm khuyết về đạo đức, mà là một tín hiệu về giá cả."[^36] Người trẻ không sinh con không có nghĩa là họ có vấn đề, mà khả năng cao là họ đã tính toán rất kỹ khoản nợ này. Trong khuôn khổ này, việc trợ cấp "giống như thuốc giảm đau chứ không phải phẫu thuật ngoại khoa"[^37], chỉ có thể kìm hãm cơn đau nhất thời chứ không thể chữa khỏi tận gốc căn bệnh.
 
----
+## Không có quốc gia nào mua lại được điều đó
 
-## Chẳng có nước nào mua được nó lại
+Đến đây, một câu hỏi phản biện tự nhiên sẽ nảy sinh: Vậy còn các quốc gia khác thì sao? Chắc hẳn phải có ai đó đã thành công chứ? Đài Loan có nên học tập kinh nghiệm của họ không?
 
-Nói tới đây sẽ bật ra một câu hỏi rất tự nhiên: vậy nước khác sao? Tất tần tật có ai thành công được chứ? Đài Loan có nên chép bài?
+Đây là câu nói quan trọng nhất cần phải ghi nhớ trong toàn bộ bài viết này: **Cho đến thời điểm hiện tại, chưa có bất kỳ quốc gia phát triển nào có thể dùng chính sách để mua lại tỷ lệ sinh về mức thay thế 2,1.** Không một quốc gia nào cả.
 
-Đây chính là câu nên được nhớ nhất của bài viết này: **Tới hiện nay, không có nước phát triển nào, dùng chính sách mua tỷ lệ sinh quay lại mức thay thế 2,1. Một nước cũng không.**
+Câu nói này nghe có vẻ bi quan, nhưng đó là kết luận đã được các tổ chức quốc tế kiểm chứng lặp đi lặp lại. Nghiên cứu từ IZA World of Labor cho biết, các chính sách khuyến khích sinh con thực sự có thể khiến tỷ lệ sinh tăng nhẹ, nhưng "khó có khả năng đẩy nó trở lại mức thay thế" [^38]. Nhà kinh tế học Gietel-Basten đã đưa ra một chú thích bình dân hơn về tỷ lệ sinh thấp ở châu Á: "Đổ tiền không giải quyết được vấn đề này." [^39] Hãy nhìn vào các bằng chứng thực tế:
 
-Câu này nghe bi quan, nhưng là kết luận tổ chức quốc tế lặp lại được xác nhận. Nghiên cứu của IZA World of Labor nói, chính sách thúc sinh thực sự có thể làm tỷ lệ sinh tăng một chút, nhưng "không có khả năng đẩy quay lại mức thay thế"[^38]. Nhà kinh tế Gietel-Basten ghi chú cho tỷ lệ sinh thấp Á châu một cái còn sơ thẳng: "phát tiền giải quyết không được vấn đề này."[^39]Bằng chứng xếp mở xem:
+- **Hungary** vốn được coi là hình mẫu của phe bảo thủ trong việc khuyến khích sinh sản, với chi tiêu cho gia đình của chính phủ Orban chiếm khoảng 5% GDP trong nhiều năm qua, thuộc nhóm dẫn đầu châu Âu, nhưng tỷ lệ sinh năm 2024 vẫn chỉ ở mức 1,39. AEI thậm chí ước tính rằng, nếu thế giới muốn dùng chính sách để nâng tỷ lệ sinh lên thêm 0,2, thì mỗi năm sẽ phải chi thêm khoảng 250 tỷ USD [^40].
+- **Hàn Quốc** đã đổ ra hơn 270 tỷ USD, nhưng tỷ lệ sinh vẫn nằm trong số thấp nhất thế giới [^41].
+- Ngay cả những hình mẫu "thân thiện với gia đình" như Pháp hay các nước Bắc Âu cũng không giữ vững được: Tỷ lệ sinh của Pháp năm 2025 là 1,56, mức thấp nhất kể từ sau một cuộc đại chiến; Phần Lan là 1,25, mức thấp kỷ lục [^42]. Các quốc gia hình mẫu đều đang trên đà sụt giảm.
 
-- **Hungary** bị coi là mẫu mực thúc sinh của bảo thủ, chính phủ Orbán chi trả cho gia đình lâu năm chiếm 5% GDP quanh đó, xếp hàng trước châu Âu, nhưng 2024 tỷ lệ sinh chỉ 1,39. AEI thậm chí ước tính, toàn cầu muốn dùng chính sách kéo tỷ lệ sinh cao lên khoảng 0,2, phải chi thêm hàng năm khoảng 2.500 tỷ đô la độ[^40].
-- **Hàn Quốc** phát hơn 2.700 tỷ đô la, cũng chẳng khác, vẫn là một trong những nơi thấp nhất thế giới[^41].
-- Thậm chí Pháp, Bắc Âu những mẫu mực "thân thiện gia đình" cũng giữ không được: Pháp 2025 tỷ lệ sinh 1,56, thấp nhất kể từ Chiến tranh Thế giới lần nhất; Phần Lan 1,25, phá kỷ lục mới[^42]. Nước mẫu mực toàn bộ đều rơi.
-
-Câu chuyện Hàn Quốc đáng để tháo lắp riêng, vì nó dễ bị hiểu lầm thành "chính sách thấy kết quả" trường hợp. Tỷ lệ sinh Hàn Quốc thực sự tăng hai năm liên tiếp: 2023 năm 0,72, 2024 năm 0,75, 2025 quay về **0,80**[^43]. Nghe ra như có cứu. Nhưng Cục Thống kê Hàn Quốc tự nó nói, làn sóng tăng này "rất có thể là số kết hôn tăng từ tháng 8 năm 2022 tới nay dẫn động"[^44]: đây là làn sóng kết hôn muộn sau dịch tập trung bù lại, cộng thêm số nữ giới tuổi 30 mấy thích hợp kết hôn tăng lên của cấu trúc dân số, **chứ không phải công lao của chính sách thúc sinh nào**.
+Câu chuyện của Hàn Quốc đặc biệt đáng để phân tích kỹ, vì nó dễ bị hiểu lầm là một trường hợp "chính sách có hiệu quả". Tỷ lệ sinh của Hàn Quốc thực sự đã tăng trong hai năm liên tiếp: năm 2023 là 0,72, năm 2024 là 0,75, và năm 2025 đã quay trở lại mức **0,80** [^43]. Nghe có vẻ như đã có hy vọng. Tuy nhiên, chính Cục Thống kê Hàn Quốc cho biết đợt tăng này "rất có thể được thúc đẩy bởi sự gia tăng số lượng kết hôn kể từ tháng 8 năm 2022" [^44]: Đó là làn sóng tổ chức đám cưới bù sau đại dịch, cộng với lợi thế về cấu trúc dân số khi số lượng phụ nữ trong độ tuổi kết hôn ở độ tuổi ngoài 30 tăng lên, **chứ không phải công lao của bất kỳ chính sách khuyến khích sinh sản nào**.
 
 ```tw-slope
-Tỷ lệ sinh Đài Loan với Hàn Quốc giao nhau: ai tăng, ai sụp
+Sự giao thoa tỷ lệ sinh giữa Đài Loan và Hàn Quốc: Ai đang tăng, ai đang giảm
 2023 | 2025
-Hàn Quốc | 0.72 | 0.80
-*Đài Loan | 0.865 | 0.695
-Nguồn: Thống kê Hàn Quốc, Bộ Nội vụ Cục Hộ tịch, 2025
+Hàn Quốc | 0,72 | 0,80
+*Đài Loan | 0,865 | 0,695
+Nguồn: Statistics Korea, Cục Hộ tịch Bộ Nội vụ, 2025
 ```
 
-(Ghi chú: tỷ lệ sinh toàn thời kỳ Đài Loan ở đây (period TFR); dưới khung mô hình World Bank/UN tỷ lệ sinh Đài Loan khoảng 1,1, là hệ thống khác, hai cái không thể trộn[^45].)
+(Chú thích: Ở đây Đài Loan sử dụng tỷ lệ sinh tổng quát theo giai đoạn (period TFR); dưới mô hình của World Bank/UN, tỷ lệ của Đài Loan vào khoảng 1,1, đây là hai hệ thống khác nhau và không thể dùng lẫn lộn [^45].)
 
-Và đây còn chứa một sự thật còn tàn nhẫn hơn. Tỷ lệ sinh Hàn Quốc tăng hai năm, dân số lại **vẫn đang co lại**[^46]. Tại sao? Vì "quán tính dân số". Cấu trúc dân số của xã hội giống như một chiếc khổng lồ khổng lồ, dù hôm nay tỷ lệ sinh kỳ này kỳ diệu quay về 2,1, số nữ giới sinh đủ tuổi đã ít đi một mạnh, dân số toàn bộ vẫn sẽ tiếp tục rơi tốt chục năm[^47]. Dân số toàn bộ Đài Loan ở cuối 2019 đạt đỉnh 23.603.121 người[^48], sau đó một đường rơi xuống. Cái đoạn dốc này, không có chính sách nào có thể quay đầu nó được.
+Hơn nữa, ở đây còn ẩn chứa một sự thật tàn khốc hơn. Tỷ lệ sinh của Hàn Quốc tăng trong hai năm, nhưng dân số vẫn **đang thu hẹp** [^46]. Tại sao? Bởi vì "quán tính dân số". Cấu trúc dân số của một xã hội giống như một con tàu khổng lồ, ngay cả khi tỷ lệ sinh hôm nay đột ngột quay trở lại mức 2,1 một cách thần kỳ, thì số lượng phụ nữ trong độ tuổi sinh đẻ đã giảm đi đáng kể, tổng dân số vẫn sẽ tiếp tục giảm trong nhiều thập kỷ tới [^47]. Tổng dân số của Đài Loan đã đạt đỉnh 23.603.121 người vào cuối năm 2019 [^48], và sau đó là một chuỗi sụt giảm liên tục. Trên con dốc đi xuống này, không còn bất kỳ chính sách nào có thể khiến nó quay đầu lại được nữa.
 
-> 📝 **Ghi chú từ người sắp xếp:** Đây là tại sao "thúc sinh có thể lật ngược sinh con ít" câu hỏi này khung nó là sai rồi. Lật ngược, có nghĩa là kéo dân số toàn bộ quay lại, mà quán tính dân số chứng minh cái này về mặt vật lý đã không thể rồi. Chính sách có thể làm được nhiều nhất là "giảm tốc độ rơi", làm không được "quay đầu lên trên". Hàn Quốc chính là bằng chứng sống của câu này: tỷ lệ sinh tăng lên và dân số tiếp tục giảm xuống, hai chuyện xảy ra cùng lúc, chẳng mâu thuẫn gì cả. Đặt mục tiêu thành "cứu lại dân số", chắc chắn là một trận đánh thua định sẵn; đặt mục tiêu thành "khi đang rơi xuống dừa lại được ít thôi, sống tốt hơn", mới là lựa chọn còn nắm tay mình.
+> 📝 **Ghi chú của biên tập viên:** Đây chính là lý do tại sao khung câu hỏi "liệu khuyến khích sinh sản có thể đảo ngược tình trạng ít con hay không" vốn dĩ đã sai lầm. "Đảo ngược" đồng nghĩa với việc kéo tổng dân số trở lại, trong khi quán tính dân số cho thấy điều này về mặt vật lý là không thể. Những gì chính sách có thể làm cùng lắm chỉ là "làm chậm tốc độ sụt giảm", chứ không thể "quay đầu đi lên". Hàn Quốc chính là minh chứng sống cho câu nói này: tỷ lệ sinh tăng và dân số tiếp tục giảm, hai việc này xảy ra đồng thời và không hề mâu thuẫn. Nếu đặt mục tiêu là "cứu vãn dân số", đó chắc chắn sẽ là một trận chiến cầm chắc phần thua; nếu đổi mục tiêu thành "trong quá trình sụt giảm, hãy ngã ít hơn một chút và sống tốt hơn một chút", thì đó mới là lựa chọn khả thi còn nằm trong tầm tay.
 
-Tạp nước, làm rõ lại một cái lâu được dẫn mẫu lỗi: rất nhiều báo nói Hàn Quốc lập rồi "bộ phận kế hoạch chiến lược dân số" chuyên trách, chính sách vì vậy thấy kết quả. Sự thật là Tấn Tích Tuệ tháng 5 năm 2024 thực sự công bố muốn lập bộ phận này, còn công bố vào trạng thái khủng hoảng dân số, nhưng pháp lệnh có liên quan vẫn kẹt trong Quốc hội, cuối cùng theo Tấn Tích Tuệ bị bãi miễn mà tuyệt tích thai.[^49] **Bộ phận này từ chẳng thực sự lập được**. Lấy một bộ phận không tồn tại làm trường hợp thành công, là hiểu sai rồi.
+Tiện đây xin đính chính một phiên bản cũ thường bị trích dẫn: Nhiều báo cáo nói rằng Hàn Quốc đã thành lập một "Bộ Chiến lược Dân số" chuyên trách và nhờ đó chính sách đã có hiệu quả. Thực tế là vào tháng 5 năm 2024, Tổng thống Yoon Suk-yeol thực sự đã tuyên bố sẽ thành lập bộ này, đồng thời tuyên bố quốc gia bước vào tình trạng khẩn cấp về dân số, nhưng dự luật liên quan đã luôn bị kẹt lại tại Quốc hội và cuối cùng đã "chết yểu" cùng với việc ông Yoon Suk-yeol bị luận tội. **Bộ này chưa bao giờ thực sự được thành lập** [^49]. Lấy một bộ máy không tồn tại làm ví dụ cho sự thành công là một sai lầm.
 
 ---
 
-## Nông thôn sớm đi qua một vòng
+## Nông thôn đã đi qua giai đoạn này từ lâu
 
-Quay lại trường Tiểu học Tân Uy ở đầu, sân trường không em học sinh lớp một mới.
+Quay trở lại sân trường của Trường Tiểu học Tân Uy (Xinwei), nơi không còn một học sinh lớp một mới nào.
 
-Người thành phố nghe "sinh con ít" thường thấy trừu tượng, tàu điện ngầm vẫn chật, trường mầm non vẫn phải xếp hàng. Nhưng nông thôn Đài Loan sớm 40 năm rồi bắt đầu nhận bức thư này, bây giờ mới tới lượt thành phố mở ra. Kéo máy quay cả Đài Loan: học sinh ít hơn 50 em tiểu học, toàn đảo có 512 trường; ít hơn 100 em, 1.025 trường, chiếm 38,4% toàn quốc tiểu học[^50]. Số sinh viên tiểu học từ học năm 113 120 vạn, dự báo tới học năm 129 chỉ còn 68,9 vạn, mười lăm năm bốc hơi khoảng nửa[^51].
+Người dân thành thị khi nghe đến cụm từ "tình trạng ít con" thường cảm thấy nó khá trừu tượng, vì tàu điện ngầm vẫn đông đúc, và các trường mầm non vẫn phải xếp hàng chờ đợi. Thế nhưng, vùng nông thôn Đài Loan đã bắt đầu nhận được "bức thư" này từ bốn mươi năm trước, và giờ đây chỉ đến lượt các đô thị phải mở ra xem. Nhìn vào bức tranh toàn cảnh Đài Loan: có 512 trường tiểu học có số lượng học sinh dưới 50 em; 1.025 trường có dưới 100 em, chiếm 38,4% tổng số trường tiểu học cả nước[^50]. Tổng số học sinh tiểu học từ mức 1,2 triệu em vào năm học 113 (2024), dự kiến sẽ chỉ còn lại 689.000 em vào năm học 129 (2040), nghĩa là hơn một nửa đã "bốc hơi" trong vòng 15 năm[^51].
 
-2026, Cao Hùng Hưng Điền, Giáp Tiên Tiểu Lâm, Đào Nguyên Kiến Sơn những tiểu học này, lớp một mới mỗi trường chỉ 1 em[^52]; toàn Cao Hùng 79 trường, lớp một chỉ mở thành một đội. Đài Nam Đại Nội Đầu Xã, Hà Đông Lục Khê những chi nhánh này, lớp một cũng là mỗi nơi 1 em[^53]. Lớp một ít tới chỉ mở thành một đội trường tiểu học, toàn Đài Loan đã có 110 trường.
+Vào năm 2026, tại các trường tiểu học như Hưng Điền (Xingtian), Giáp Tiên Tiểu Lâm (Jiaxian Xiaolin) và Kiến Sơn ở Đào Nguyên (Taoyuan), mỗi trường chỉ có duy nhất một học sinh lớp một[^52]; trong tổng số 79 trường tại thành phố Cao Hùng, chỉ có một trường có thể mở được một lớp học dành cho học sinh lớp một. Tại các phân hiệu như Đại Nội Đầu Xã (Danaitou She) hay Hà Đông Lục Khê (Hedong Liuxi) ở Đài Nam, mỗi nơi cũng chỉ có một học sinh lớp một[^53]. Toàn Đài Loan hiện đã có 110 trường tiểu học mà số lượng tân sinh quá ít đến mức chỉ có thể mở được duy nhất một lớp.
 
 ```tw-stat
-512 trường | Tiểu học toàn bộ học sinh không đủ 50 em | 2025
-1,025 trường | Toàn bộ không đủ 100 em, chiếm 38,4% quốc gia | 2025
-68,9 vạn | Dự báo học sinh tiểu học (học năm 129) | so với học năm 113 120 vạn
+512 trường | Trường tiểu học có tổng số học sinh dưới 50 em | 2025
+1,025 trường | Tổng số học sinh dưới 100 em, chiếm 38,4% cả nước | 2025
+689.000 | Giá trị dự báo tổng số học sinh tiểu học (năm học 129) | So với 1,2 triệu em năm học 113
+Nguồn: Thống kê từ Bộ Giáo dục (theo báo cáo của CNA) [^50][^51]
 ```
 
-Cái máy thời gian này sẽ không dừng ở tiểu học. Sinh con ít là một làn sóng trèo theo tuổi lên: trước hết xát khô lò sản, rồi xát khô tiểu học, tiếp đó là đại học, nhà ngu, nơi làm, chăm sóc lâu dài, lương hưu, một ga một ga chính xác đặng tới.
+Cỗ máy thời gian này sẽ không dừng lại ở bậc tiểu học. Tình trạng ít con là một làn sóng lan dần theo độ tuổi: đầu tiên là làm rỗng các phòng sinh, tiếp đến là làm trống các trường tiểu học, rồi đến đại học, doanh trại quân đội, thị trường lao động, chăm sóc dài hạn và cuối cùng là lương hưu; từng trạm một sẽ cập bến đúng thời hạn.
 
-**Đại học** đứng hàng đầu bị ảnh hưởng. Số sinh viên năm nhất năm học 114 rơi dưới 20 vạn, dự báo tới năm học 129 chỉ còn 14,6 vạn[^54]. Công đoàn trường tư nhân ước, khi sinh viên mới chỉ còn năm sáu vạn, chỉ đủ nuôi sống khoảng 50 trường đại học tư, có nghĩa là khoảng 40 trường sẽ đối diện thoát[^55]. (Phải thành thật cộng một câu: năm 2025 thiếu sót đại học lại tạo kỷ lục mới gần năm năm, chỉ 18 trường thiếu 1.220 người[^56]. "Vực thế sinh viên" dài hạn là thật, nhưng con số ngắn hạn sẽ vì thoát, giảm tuyển mà lên xuống, không line tính như vậy.)
+**Đại học** là nơi chịu ảnh hưởng đầu tiên. Số lượng tân sinh viên năm nhất dự kiến sẽ rơi xuống dưới mức 200.000 vào năm học 114, và chỉ còn lại 146.000 em vào năm học 129[^54]. Công đoàn các trường tư thục ước tính rằng, khi số lượng tân sinh viên chỉ còn khoảng 50.000 đến 60.000, con số này chỉ đủ để duy trì khoảng 50 trường đại học tư thục, đồng nghĩa với việc khoảng 40 trường sẽ phải đối mặt với nguy cơ đóng cửa[^55]. (Cần bổ sung một thực tế khách quan: vào năm 2025, số lượng thiếu hụt sinh viên đại học trái lại đã chạm mức thấp nhất trong gần 5 năm qua, chỉ có 18 trường thiếu 1.220 người[^56]. "Vực thẳm nguồn cung sinh" là có thật về lâu dài, nhưng các con số ngắn hạn sẽ biến động lên xuống do việc đóng cửa trường hoặc giảm chỉ tiêu tuyển sinh, chứ không hoàn toàn theo một đường thẳng tuyến tính.)
 
-**Nhà ngu** cũng nhận bức thư. Số thanh niên nhập ngũ 2023 năm đầu tiên rơi dưới 10 vạn (97.828 người), dự báo tới 2031 chỉ còn 7,4 vạn[^57]. **Bảo hiểm lao động** năm phá sản, từ từ ước 2028 năm hoãn lại 2031 năm, dựa là ưu tiên không tiền lệ lộn 3.870 tỷ cứng cỏi[^58]. **Nơi làm** thiếu hụt nhân tài, Viện Quốc gia Phát triển ước tính từ 40 vạn chiều rộng tới năm 2030 48 vạn[^59]. Còn 2025, Đài Loan chính thức bước vào "xã hội tuổi cao siêu", dân số 65 tuổi trở lên tỷ lệ phá qua 20,06%, 467 vạn người[^60].
+**Doanh trại quân đội** cũng đã nhận được thông điệp này. Số lượng nam giới trong độ tuổi nghĩa vụ quân sự lần đầu tiên rơi xuống dưới mức 100.000 người vào năm 2023 (97.828 người), và dự kiến sẽ chỉ còn lại 74.000 người vào năm 2031[^57]. **Bảo hiểm lao động** vốn được dự báo sẽ phá sản vào năm 2028, nay đã bị lùi lại đến năm 2031 nhờ vào khoản bù đắp chưa từng có lên tới NT$387 tỷ để cầm cự[^58]. Về **thị trường lao động**, Hội đồng Kế hoạch Phát triển (NDC) ước tính khoảng trống nhân lực sẽ mở rộng từ 400.000 người lên 480.000 người vào năm 2030[^59]. Và vào năm 2025, Đài Loan chính thức bước vào "xã hội siêu già", với tỷ lệ dân số trên 65 tuổi vượt ngưỡng 20,06%, tương đương 4,67 triệu người[^60].
 
-> 💡 **Có biết không:** Có một giao điểm, lặng lẽ xảy ra 2020: năm đó, số chó mèo toàn Đài Loan lần đầu tiên vượt quá 0 tới 14 tuổi trẻ em. Tới gần đây, chó mèo khoảng 279 vạn, vẫn còn nhiều hơn 0 tới 14 tuổi trẻ em dân số (khoảng 268 vạn)[^61]. Thú cưng hơn trẻ em, câu này nghe ra như kỷ niệm, thực ra là một xã hội cho tình cảm, đồng cảm, chăm sóc đối tượng, từ thế hệ tiếp theo từ từ chuyển hướng ra bước cạnh cụ thể của một cụt tỷ lệ.
+> 💡 **Bạn có biết:** Có một điểm giao thoa đã lặng lẽ xảy ra vào năm 2020: đó là năm mà số lượng chó mèo trên toàn Đài Loan lần đầu tiên vượt qua số trẻ em từ 0 đến 14 tuổi. Tính đến những năm gần đây, số lượng chó mèo đạt khoảng 2,79 triệu con, vẫn nhiều hơn dân số trẻ em từ 0 đến 14 tuổi (khoảng 2,68 triệu người)[^61]. Việc thú cưng nhiều hơn trẻ em nghe có vẻ như một lời cảm thán, nhưng thực chất đó là một thước đo cụ thể cho thấy xã hội đang dần chuyển dịch đối tượng của tình cảm, sự đồng hành và chăm sóc từ thế hệ mai sau sang một đối tượng khác.
 
-Những người thiếu từ đâu? Một phần, đã lặng lẽ bổ sung rồi. Tháng 4 năm 2025, số lao động nước ngoài Đài Loan đạt **83 vạn**, kỷ lục sử, trong đó riêng chăm sóc bố mẹ Đài Loan nước ngoài có 21,5 vạn người[^62]. Còn khoảng 60 vạn cư dân mới, sắp thành dân tộc thứ năm Đài Loan[^63]. Nói cách khác, lúc Đài Loan tự nó ít sinh, là lao động của nước khác trong sự im lặng đỡ lưng xư đảo này khoảng nhà máy và giường chăm sóc lâu dài. Đây là một van giảm áp ẩn, cũng là một vấn đề đạo đức chúng ta vẫn chưa chuẩn bị đối diện tốt: chúng ta phụ thuộc thanh niên của họ, nhưng rất ít khi thảo luận nghiêm túc tình thế và tương lai của họ.
+Vậy nguồn nhân lực thiếu hụt đó đến từ đâu? Một phần đã âm thầm được bù đắp. Vào tháng 4 năm 2025, số lượng lao động di cư tại Đài Loan đạt mức kỷ lục **830.000 người**, trong đó riêng số hộ lý nước ngoài chăm sóc người cao tuổi Đài Loan đã là 215.000 người[^62]. Ngoài ra còn có khoảng 600.000 người mới định cư, những người sắp trở thành nhóm dân tộc lớn thứ năm tại Đài Loan[^63]. Nói cách khác, trong khi Đài Loan tự mình sinh ít đi, thì chính sức lao động từ các quốc gia khác đang âm thầm chống đỡ cho các nhà máy và các giường bệnh chăm sóc dài hạn trên hòn đảo này. Đây vừa là một giải pháp ẩn mình, vừa là một vấn đề đạo đức mà chúng ta vẫn chưa thực sự đối mặt thỏa đáng: chúng ta dựa vào sức trẻ của họ, nhưng lại rất ít khi thảo luận nghiêm túc về hoàn cảnh và tương lai của chính họ.
 
----
+## Khủng hoảng của ai?
 
-## Của ai là khủng hoảng?
+Đến đây, cần phải quay lại đặt một câu hỏi sắc bén hơn: Tình trạng ít con rốt cuộc là khủng hoảng của ai?
 
-Tới đây, nên quay lại hỏi một câu còn cay khôi hơn: sinh con ít, cuối cùng là khủng hoảng của ai?
+Trong hơn mười năm qua, vấn đề ít con hầu như luôn được đặt trong khuôn khổ "khủng hoảng an ninh quốc gia": thiếu hụt nguồn binh sĩ, thiếu hụt lực lượng lao động, suy thoái kinh tế và lỗ hổng lương hưu. Nghe có vẻ rất cấp bách. Nhưng ngày càng có nhiều người bắt đầu đặt câu hỏi ngược lại rằng: Liệu khuôn khổ này có đang biến cơ thể của phụ nữ thành công cụ của quốc gia hay không?
 
-Mười mấy năm qua, sinh con ít gần như luôn bị nhét vào khung "khủng hoảng quốc phòng": nguồn quân sự không đủ, nhân công thiếu hụt, kinh tế suy thoái, lỗ hổng lương hưu. Nghe ra rất gấp gáp. Nhưng ngày càng nhiều người bắt đầu hỏi lại, khung này, là không lại biến thân phụ nữ thành công cụ của quốc gia?
+Bà Lý Mạnh Dĩnh (Li Meng-ying) từ Quỹ Lệ Hinh (Lixin Foundation) đã nói rất thẳng thắn: Trong diễn ngôn an ninh quốc gia nhằm thúc đẩy sinh sản, "phụ nữ sẽ bị quốc gia xem như nguồn lực hoặc công cụ để tái sản xuất dân số" [^64]. Bà Lâm Lục Hồng (Lin Lu-hung) từ Đài Loan Nữ Quyền Liên Kết (Taiwan Women's Link) cũng chỉ ra một sự thật thường bị bỏ qua: "Phụ nữ Đài Loan không phải là không muốn sinh con, mà là họ không muốn bị trói buộc bởi văn hóa hôn nhân, các mối quan hệ mẹ chồng nàng dâu và thông gia" [^65]. Nhiều phụ nữ muốn có con, nhưng lại không muốn bị ràng buộc vào toàn bộ cấu trúc gia đình hôn nhân mà họ không thể chấp nhận được.
 
-Quỹ Lệ Hương của Li Mạnh Anh nói rất trực tiếp: trong tường thuật thúc sinh quốc phòng, "phụ nữ sẽ bị quốc gia nhìn như tài nguyên/công cụ tái sinh dân số"[^64]. Liên tuyến Phụ nữ Đài Loan của Lâm Lục Hồng lại chỉ ra một sự thật hay bị bỏ qua: "Phụ nữ Đài Loan chẳng phải không sẵn lòng sinh con, mà là không muốn bị hôn nhân văn hóa, quan hệ dâu cháu dây buộc"[^65]. Rất nhiều phụ nữ muốn có con, nhưng không muốn bị buộc vào phía sau con cái một toàn bộ bộ máy hôn nhân họ không chịu được.
+Điều này kết nối trực tiếp với mạch vấn đề "không kết hôn" đã nêu trước đó. BBC tiếng Trung từng phỏng vấn một số người Đài Loan lựa chọn không đi theo con đường truyền thống. Cô Quách Bội Dư (Guo Pei-yu), 35 tuổi, biên tập viên của một nhà xuất bản độc lập, nói một cách không kiêng dè: "Hôn nhân chẳng mang lại lợi ích gì cho phụ nữ cả. Mẹ tôi đã kết hôn và sinh con theo đúng kịch bản mà xã hội đưa ra, bà ấy đã sống rất đau khổ trong khuôn khổ đó." [^66] Trong khi đó, anh Trần, 33 tuổi, đang làm việc tại một đơn vị hành chính địa phương, cho biết: "Sống một mình cũng rất tốt." [^67] Vào năm 2023, tỷ lệ chưa kết hôn của độ tuổi từ 35 đến 39 tại Đài Loan đã chạm mức 47,6%[^68], tức là gần một nửa. Khi việc "không kết hôn, không sinh con" chuyển từ một lựa chọn bên lề thành trạng thái bình thường của gần một nửa dân số, thì việc tiếp tục định nghĩa nó là "khủng hoảng", "ích kỷ" hay "ngoài tầm kiểm soát" bản thân nó đã đáng bị nghi ngờ.
 
-Điều này chính xác nối lại cái "không kết hôn" dây bên trước. BBC tiếng Trung phỏng vấn mấy người Đài Loan chọn không đi đường truyền thống. 35 tuổi biên tập viên xuất bản độc lập Quách Thị Nữ nói không giữ gìn: "hôn nhân không có lợi gì cho phụ nữ, mẹ tôi theo sách kịch bản xã hội cho kết hôn sinh con, trong khung cảnh đau khổ ngập ngừa."[^66]33 tuổi, bố mẹ công chức địa phương anh Trần Tiên Sinh nói, "sống một mình cũng tốt lắm."[^67]2023 năm, độc thân Đài Loan 35 tới 39 tuổi tỷ lệ đã tới 47,6%[^68], gần nửa. Khi "không kết hôn không sinh" từ lựa chọn biên mở thành gần nửa dân số cuộc sống bình thường, tiếp tục gọi nó "khủng hoảng" "ích kỷ" "chẩn đoán sai", bản thân nó đã xứng đáng bị nghi ngờ.
+> ⚠️ **Quan điểm gây tranh cãi:** Giải pháp mà Trịnh Nhạn Hinh (Zheng Yanxin) đưa ra đã nhắm thẳng vào định kiến của toàn xã hội về việc "ai nên là người chịu trách nhiệm nuôi dạy trẻ nhỏ": "Việc nuôi dạy con cái cần phải trở thành việc của cả một ngôi làng, của xã hội và của quốc gia, chứ không phải là thiên chức hiển nhiên của phụ nữ." [^73] Câu nói này đã đảo ngược ẩn ý của toàn bộ các chính sách thúc đẩy sinh sản. Chừng nào việc nuôi dạy con cái vẫn được mặc định là thiên chức của phụ nữ, thì các khoản trợ cấp, phụ cấp hay khẩu hiệu cũng chỉ là đang đổ thêm tiền vào một sự phân công lao động bất bình đẳng, chứ không hề chạm đến bản chất của sự phân công đó.
 
-> ⚠️ **Quan điểm tranh cãi:** Trịnh Diễn Hân cho ra cách giải, ngón tay chỉ tới toàn bộ xã hội đối với "ai phải chịu trách nhiệm nuôi con" tính định sẵn: "nuôi con phải trở thành việc làm của cả một làng, xã hội, quốc gia, chứ chẳng phải thiên chức tự nhiên của phụ nữ."[^73]Câu này lật đổ toàn bộ chính sách thúc sinh tiềm đề. Chừng nào nuôi con vẫn bị mặc định là thiên chức phụ nữ, thì trợ cấp, tiền mặn, lời kêu gọi, toàn là đặt tiền vào một phân công không công bằng, chứ chẳng động tới phân công bản thân.
+Thậm chí ngay cả giả định cơ bản nhất là "tổng dân số giảm = suy thoái kinh tế" cũng đang bị thách thức. Có những nhà bình luận chỉ ra rằng cần phải phân biệt giữa "tổng GDP" và "GDP bình quân đầu người": Dân số ít đi, nhưng nếu giá trị mà mỗi cá nhân tạo ra cao hơn, thì thu nhập bình quân đầu người thậm chí có thể tăng lên. Ước tính tỷ lệ sinh thấp có thể khiến thu nhập bình quân đầu người tăng khoảng 10% trước năm 2055[^69]. Nhìn từ một góc độ khác, những đối tượng thực sự phải gánh chịu khủng hoảng có lẽ là các cấu trúc đặc thù như cơ sở thuế, quân đội, hệ thống lương hưu và các ngành công nghiệp nội địa cần lượng lớn nhân lực, chứ không phải là từng cá nhân người Đài Loan cụ thể. Đối với mỗi cá nhân, dân số ít đi chưa hẳn đã là ngày tận thế.
 
-Thậm chí cái "dân số toàn giảm = kinh tế suy" cái giả định tầng dưới nhất, cũng có người thách đó. Có bình luận viên chỉ ra, cần phân biệt "GDP toàn" và "GDP bình quân" hai chuyện: người giảm rồi nhưng nếu mỗi người tạo ra giá trị lớn hơn, thu nhập bình quân lại có thể tăng, dự báo tỷ lệ sinh thấp hơn năm 2055 trước thậm chí có thể làm thu nhập bình quân tăng khoảng 10%[^69]. Đổi góc, khủng hoảng thực sự chịu cũng là cơ sở thuế, quân đội, hệ thống lương hưu, ngành cần số lượng lớn đầu người trong nước tiêu dùng những cấu trúc cụ thể, chứ không phải từng con người Đài Loan cụ thể. Với cá nhân, người ít chưa chắc là ngày tận thế.
+Vậy nếu việc thúc đẩy sinh sản chắc chắn vô hiệu, trong khi tình trạng thiếu lao động là thực tế, liệu Đài Loan còn con đường nào khác không? Tạp chí _今周刊_ (Jin Zhoukan) đã đưa ra một câu trả lời thẳng thừng đến mức chói tai: "Nhập cư là con đường duy nhất để giải cứu khủng hoảng dân số." [^70] Nhưng trên con đường này, Đài Loan gần như đang dậm chân tại chỗ: Số người nước ngoài có quyền thường trú chỉ khoảng 40.000 người, chiếm chưa đầy 0,2% tổng dân số; trong khi đó, Canada mỗi năm thu hút khoảng 500.000 người nhập cư, và Nhật Bản đã tiếp nhận 300.000 người thông qua thị thực kỹ năng đặc định trong sáu năm[^71]. Đài Loan một mặt kêu gọi thiếu người, mặt khác lại đóng cửa rất chặt. Dù là thúc đẩy sinh sản hay nhập cư, đối với bài toán này, Đài Loan thực chất vẫn chưa thực sự bắt đầu đưa ra lời giải.
 
-Vậy nếu thúc sinh chắc vô hiệu, thiếu cộng sự là hiện thực, Đài Loan còn con đường nào? Tạp chí Kinweekly cho một câu trả lời thẳng tới đau: "di cư, là lối thoát duy nhất của khủng hoảng dân số."[^70]Nhưng Đài Loan trong con đường này gần như là cúi cẩn không tiến: được phép cư trú vĩnh viễn người nước ngoài chỉ khoảng 4 vạn, chiếm dân số không tới 0,2%; so với, Canada một năm nhập khoảng 50 vạn di cư, Nhật Bản cấp visa kỹ năng đặc thù sáu năm thu 30 vạn[^71]. Đài Loan một bên kêu thiếu người, một bên đóng cửa chặt. Thúc sinh hoặc di cư, câu hỏi này, Đài Loan thực ra chưa bắt đầu trả lời thực tế.
+> 📝 **Ghi chú của biên tập viên:** Có một lựa chọn không được nói ra, luôn nằm ngay cạnh lựa chọn "thúc đẩy sinh sản", đó chính là sự thích nghi. Bản thân Hội đồng Kế hoạch Phát triển (NDC) cũng đã nới lỏng quan điểm khi cho rằng AI và tự động hóa "có thể trở thành giải pháp" [^72]. Đây đã là ngôn ngữ của việc "tổ chức lại sản xuất trong một cộng đồng dân số ít đi", chứ không còn là ngôn ngữ của việc "đảo ngược xu hướng dân số". Ẩn ý của toàn bộ vấn đề đang âm thầm chuyển hướng: Từ "tìm cách để người Đài Loan sinh nhiều hơn" sang "chấp nhận rằng Đài Loan sẽ ít người đi, rồi tìm cách để sống tốt". Vế trước là một trận chiến không thể thắng, còn vế sau mới chỉ vừa bắt đầu.
 
-> 📝 **Ghi chú từ người sắp xếp:** Có một lựa chọn không được nói ra miệng, lâu nay đứng cạnh "thúc sinh", đó là thích ứng. Viện Quốc gia Phát triển tự nó cũng buông lỏng, nói AI và tự động hoá "có hy vọng trở thành giải pháp"[^72]. Đây là "tái tổ chức sản xuất trong dân số ít đi" của ngôn ngữ, chứ không còn "lật đổ dân số" ngôn ngữ. Tiềm đề của toàn bộ chuyện đang lặng lẽ chuyển đường: từ "cố gắng để người Đài Loan sinh thêm", chuyển sang "chấp nhận Đài Loan sẽ ít đi, rồi cố gắng để sống tốt". Cách trước là trận đánh thua chắc chắn, cách sau mới đang bắt đầu thực sự.
+## Sống tốt trên một hòn đảo định sẵn sẽ ít người đi
 
----
+Điều tàn khốc nhất, cũng là trung thực nhất trong nhân khẩu học chính là: nó hầu như không có phép màu.
 
-## Sống tốt trên đảo quốc chắc chắn sẽ ít đi
+Thúc đẩy sinh sản suốt mười năm qua, chi ra gần NT$500 tỷ, nhưng ngay cả năm Giáp Thìn cũng không thể mua lại được tỷ lệ sinh. Thành phần khiến tỷ lệ sinh bị đè bẹp do không nuôi nổi con, còn thua xa so với việc bị rút cạn bởi tình trạng không kết hôn; trong khi suốt mười năm qua, chính phủ luôn chỉ lo phát tiền cho những người "không dám sinh", phát cho những người đã kết hôn, nhưng lại không thể kết nối được vào mắt xích thực sự đang sụp đổ. Ngay cả khi đưa tiền một cách chính xác vào tay mỗi gia đình đang do dự, thí nghiệm xổ số của Dương Tử Đình (Yang Zi-ting) cũng đã chỉ ra rằng, điều đó chỉ đáng giá 0,07 đứa trẻ. Nhìn ra toàn thế giới, từ Hungary, Hàn Quốc, Pháp cho đến các nước Bắc Âu, không có quốc gia nào mua lại được tỷ lệ sinh về mức thay thế. Sau khi đạt đỉnh vào năm 2019, tổng dân số của Đài Loan đã bước vào con đường xuống dốc mà không một chính sách nào có thể khiến nó quay đầu.
 
-Người dân số học cái tàn nhẫn nhất, cũng cái thành thật nhất là: nó gần như chẳng có kỳ tích.
+Vì vậy, điều mà bài viết này muốn để lại cho bạn, thay vì là một câu nói suông "Đài Loan cần một xã hội tốt đẹp hơn", thì giống như một sự điều chỉnh về góc nhìn: Có lẽ chúng ta đang luôn đặt sai câu hỏi. Câu hỏi "Làm thế nào để người Đài Loan sinh nhiều hơn" đã có câu trả lời sau mười năm là 0,695, là sân chơi trống trải của Trường Tiểu học Tân Uy. Điều thực sự cần phải hỏi là hai việc khác: Làm thế nào để những người thực sự muốn kết hôn, muốn sinh con không bị trói buộc bởi một hệ thống cấu trúc mà họ không thể chấp nhận; và làm thế nào để trên một hòn đảo định sẵn sẽ ít người đi và già hóa, chúng ta có thể sống một cuộc đời đầy tôn nghiêm, ấm áp và có những người sẵn sàng nâng đỡ lẫn nhau.
 
-Thúc sinh mười năm, phát gần năm ngàn tỷ, thậm chí năm Rồng cũng mua không lại. Sinh con bị "nuôi không nổi" áp đặt phần nào, còn không bằng bị "không kết hôn" xát khô phần đông; mà chính phủ mười năm liền lại phát tiền cho "không dám sinh", phát cho người đã kết hôn, nhưng mà không tương tác được phần thực sự sụp đổ. Thậm chí kho tiền chích chính xác vào mỗi gia đình lưỡng lự, tự nhiên thử nghiệm của Dương Tử Anh cũng nói, đó chỉ đáng 0,07 em bé. Nhìn khắp thế giới, Hungary, Hàn Quốc, Pháp, Bắc Âu, không nước nào mua lại tỷ lệ sinh được mức thay thế. Dân số toàn bộ Đài Loan 2019 đặng đỉnh sau, cái dốc xuống này đã không có chính sách nào quay đầu được.
+Vào ngày của năm Giáp Thìn 2024, trên sân trường Tiểu học Tân Uy, không có một học sinh lớp một nào mặc đồng phục mới hay đeo chiếc cặp sách quá khổ.
 
-Vì vậy bài viết muốn để lại cho bạn, thay vì lại một câu "Đài Loan cần xã hội tốt hơn" lời suông, giống là một điều chỉnh quan điểm: có thể chúng ta luôn hỏi sai câu hỏi. "Làm thế nào để người Đài Loan sinh thêm" câu hỏi này, mười năm đáp số là 0,695, là sân trường Tân Uy không sinh viên lớp một. Câu hỏi thực sự phải là hai chuyện khác: làm thế nào cho những người thực ra muốn kết hôn, muốn sinh con, không bị cả toàn bộ cấu trúc kết hôn mà họ không chịu được buộc chặt; còn, làm thế nào sống có phẩm giá, ấm áp, có người chịu lấy nhau trên một đảo quốc chắc chắn sẽ ít đi, sẽ lão hóa.
+Đó là một khung cảnh rất tĩnh lặng. Tĩnh lặng đến mức bạn không kìm được mà tự hỏi: Hòn đảo này còn phải mất bao lâu nữa mới chịu ngừng việc kêu gọi hướng về phía phòng sinh, để quay người lại và nhìn thật kỹ những người vốn đã ở đây trên sân trường này?
 
-2024 năm Rồng hôm đó, sân trường Tiểu học Tân Uy, không một cháu mặc bộ quần áo mới, không ai vác cặp sách quá to để lên lớp một.
-
-Đây là một bức tranh rất im lặng. Im lặng tới nỗi bạn không cự nên sẽ nghĩ: xứ đảo này, còn phải mất bao lâu, mới chịu dừng kêu với lò sản, quay mặt lại, chăm chú nhìn những người đã ở đây trên sân trường?
-
-Bài hát sẽ nhỏ đi, nhưng chừng nào còn người đang hát, thì chưa tới bài cuối cùng.
+Tiếng hát có thể nhỏ dần, nhưng chỉ cần vẫn còn người đang hát, thì vẫn chưa đến bài hát cuối cùng.
 
 ---
 
 **Đọc thêm**:
 
-- [Giáo dục vùng xa xôi Đài Loan](/vi/society/taiwan-rural-education) — Khi nông thôn sớm bốn mươi năm bước vào sinh con ít, trường tiểu học vùng xa là nơi bức thư này tới trước tiên.
-- [Hệ thống giáo dục và văn hóa thi cử](/vi/society/education-system-and-admissions-culture) — Thoát khỏi đại học, vực thế sinh viên, liên kết với cách toàn xã hội nhìn "thi cử" việc này.
-- [Phát triển hệ thống chăm sóc lâu dài Đài Loan](/vi/society/long-term-care-system-development) — Khi 65 tuổi trở lên vượt 20%, chăm sóc nước ngoài 21,5 vạn giường, chăm sóc lâu dài là đầu kia của sinh con ít.
-- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Nếu người ít là định, tự động hoá sẽ là "tái tổ chức sản xuất trong dân số ít đi" câu trả lời chìa khoá một.
-- [Bức tường cao đẳng của Đài Loan thoát và thoát](/vi/society/taiwan-higher-education-expansion-and-decline) — Sinh con ít đụng bức tường đại học: từ 58 trở thành 148 sau đó, trường đóng cửa ra sao, chi phí ai chịu.
+- [Giáo dục vùng sâu vùng xa tại Đài Loan](/vi/society/taiwan-rural-education) — Khi nông thôn bước vào kỷ nguyên ít con sớm hơn thành thị bốn mươi năm, các trường tiểu học ở vùng xa là nơi đầu tiên nhận được bức thư này.
+- [Hệ thống giáo dục và văn hóa thi cử](/vi/society/education-system-and-admissions-culture) — Việc các trường đại học rút lui khỏi thị trường và sự sụt giảm nguồn sinh viên có liên quan mật thiết đến cách toàn xã hội nhìn nhận về việc "thi lên cấp".
+- [Sự phát triển của hệ thống chăm sóc dài hạn tại Đài Loan](/vi/society/long-term-care-system-development) — Khi tỷ lệ người trên 65 tuổi vượt quá 20% và 215.000 giường bệnh được chống đỡ bởi hộ lý nước ngoài, chăm sóc dài hạn chính là mặt đối lập của tình trạng ít con.
+- [Ngành công nghiệp robot tại Đài Loan](/vi/technology/taiwan-robotics-industry) — Nếu việc giảm dân số là định mệnh, thì tự động hóa sẽ là một trong những câu trả lời then chốt để "tái tổ chức sản xuất trong một lực lượng lao động đang thu hẹp".
+- [Sự mở rộng và rút lui của giáo dục đại học Đài Loan](/vi/society/taiwan-higher-education-expansion-and-decline) — Khi bức tường ít con va chạm với các trường đại học: Sau khi số trường nâng cấp tăng từ 58 lên 148, việc đóng cửa trường học sẽ diễn ra thế nào và ai sẽ là người gánh chịu cái giá đó.
 
 ## Tài liệu tham khảo
 
-[^1]: [Tạp chí Viễn Kiến: 2024 Năm Rồng sinh viên không tăng mà giảm, 48 năm lần đầu tiên](https://www.gvm.com.tw/article/118939) — Báo cáo 2024 Năm Rồng sinh được 134.856 em, ít hơn năm 2023 715 em, phá vỡ quy tắc năm Rồng sinh tăng, dẫn số liệu Bộ Nội vụ.
+[^1]: [Tạp chí Vision: Năm Giáp Thìn 2024 số trẻ sơ sinh không tăng mà giảm, lần đầu tiên sau 48 năm](https://www.gvm.com.tw/article/118939) — Báo cáo về việc số trẻ sinh ra trong năm Giáp Thìn 2024 là 134.856 người, ít hơn 715 người so với năm 2023, phá vỡ tiền lệ tăng trưởng số trẻ sinh ra vào các năm Thìn trước đây, trích dẫn thống kê từ Bộ Nội vụ.
 
-[^2]: [Tự do Tài chính: 2025 sinh viên sụt xuống vực, tỷ lệ sinh kỳ 0.695](https://ec.ltn.com.tw/article/breakingnews/5393039) — Báo cáo 2025 sinh viên toàn năm 107.812 em, năm giảm khoảng 20%, tỷ lệ sinh kỳ 0,695 mới, lập kỷ lục mới thấp nhất, dẫn dữ liệu Bộ Nội vụ.
+[^2]: [Liberty Finance: Số trẻ sơ sinh năm 2025 sụt giảm mạnh, tổng tỷ lệ sinh chạm mức 0,695](https://ec.ltn.com.tw/article/breakingnews/5393039) — Báo cáo về việc số trẻ sinh ra trong cả năm 2025 là 107.812 người, giảm khoảng 20% so với cùng kỳ, tổng tỷ lệ sinh giảm xuống còn 0,695, mức thấp kỷ lục trong lịch sử, trích dẫn dữ liệu từ Bộ Nội vụ.
 
-[^3]: [Viện Hành pháp: Kế hoạch đối sách sinh con ít](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Kế hoạch đối sách sinh con ít tổng chi phí 2007-2024 năm khoảng 4.851 tỷ, chi đầu tư 0-6 tuổi tăng từng năm, năm đơn vượt 1.200 tỷ.
+[^3]: [Hành chính viện: Kế hoạch đối phó tình trạng ít con](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Tổng kinh phí cho kế hoạch đối phó tình trạng ít con giai đoạn 2007-2024 là khoảng 485,1 tỷ Đài tệ, các khoản đầu tư liên quan đến trẻ từ 0-6 tuổi được tăng dần hàng năm, vượt mức 120 tỷ Đài tệ trong một năm đơn lẻ.
 
-[^4]: [Nghiên cứu có vật (Viện Trung Ương): Trịnh Diễn Hân bàn chìa khoá sinh con ít](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Phó nghiên cứu viên Viện Xã hội Trung Ương Trịnh Diễn Hân chỉ ra hầu hết cặp kết hôn Đài Loan sau kết hôn hơn 70% sinh từ 2 con trở lên, chìa khoá sinh con ít không phải không sinh mà là không kết hôn.
+[^4]: [Yan Zhi You Wu (Viện Nghiên cứu Trung ương): Trịnh Nhạn Hinh bàn về mật mã then chốt của tình trạng ít con](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Phó nghiên cứu viên Trịnh Nhạn Hinh thuộc Viện Xã hội học thuộc Viện Nghiên cứu Trung ương chỉ ra rằng hơn 70% các cặp vợ chồng tại Đài Loan sinh từ hai con trở lên sau khi kết hôn, chìa khóa của vấn đề ít con không phải là không sinh mà là không kết hôn.
 
-[^5]: [Tạp chí Công May (phiên bản Á): Tỷ lệ sinh thấp nhất Á, tiền thưởng sinh con cứu không lại](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Nhà dân số học Gietel-Basten chỉ ra "phát tiền giải quyết không được", tổng hợp chính sách trợ cấp Singapore, Hàn Quốc, Hong Kong, Nhật Bản hiệu quả hạn chế.
+[^5]: [Fortune (Phiên bản Châu Á): Tỷ lệ sinh thấp nhất Châu Á, tiền thưởng sinh sản không thể cứu vãn](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Nhà nhân khẩu học Gietel-Basten chỉ ra rằng vấn đề tỷ lệ sinh 'không thể giải quyết bằng cách đổ tiền', tổng kết về hiệu quả hạn chế của các chính sách trợ cấp tại Singapore, Hàn Quốc, Hồng Kông và Nhật Bản.
 
-[^6]: [Khách Tin Tức: Tiểu học Tân Uy trăm năm lần đầu sinh lớp một treo không](https://hakkanews.tw/2024/08/29/new-wei-wei-elementary-school-for-the-first-time/) — Báo cáo tiểu học Tân Uy Lục Quỹ cao Hùng 1921 thành lập, 104 năm lịch sử, trường tiểu học Khách Gia duy nhất Lục Quỹ, 2024 năm học toàn bộ 29 sinh, 5 lớp, lớp một sinh viên lần đầu treo.
+[^6]: [客新聞 (Khách Tân Văn): Lịch sử trăm năm của Trường Tiểu học Tân Uy lần đầu tiên không có học sinh mới](https://hakkanews.tw/2024/08/29/new-wei-wei-elementary-school-for-the-first-time/) — Báo cáo về Trường Tiểu học Tân Uy tại Lục Quy, Cao Hùng, được thành lập năm 1921 và là trường học duy nhất sử dụng ngôn ngữ Hakka tại Lục Quy; trong năm học 2024, toàn trường có 29 học sinh chia làm 5 lớp, số học sinh mới lớp 1 lần đầu tiên bằng không.
 
-[^7]: [Tương tự: Khách Tin Tức Tiểu học Tân Uy sinh lớp một treo báo cáo](https://hakkanews.tw/2024/08/29/new-wei-wei-elementary-school-for-the-first-time/) — Chi tiết Tiểu học Tân Uy 2024 tháng 9 khai giảng toàn bộ năm lớp hai mươi chín sinh viên, sinh lớp một không, là báo cáo một nguồn nhất trí.
+[^7]: [Như trên: Khách Tân Văn báo cáo về việc học sinh mới của Trường Tiểu học Tân Uy bằng không](https://hakkanews.tw/2024/08/29/new-wei-wei-elementary-school-for-the-first-time/) — Chi tiết các con số cụ thể về việc trường có 5 lớp với 29 học sinh và không có học sinh lớp 1 khi khai giảng tháng 9 năm 2024, là một trong bốn nguồn tin đồng nhất.
 
-[^8]: [Liên Hợp Báo: Tiểu học Tân Uy sáp nhập Quảng Hưng, thành viên HĐND bàn sáp](https://udn.com/news/story/6898/8706441) — Báo cáo tiểu học Tân Uy tháng 8 năm 2025 sáp nhập Tiểu học Quảng Hưng Mỹ Nông, sáp nhập sau năm thứ nhất sinh lớp một quay lại 4 người, ghi chép lập trường thành viên HĐND và cục giáo dục.
+[^8]: [United Daily News: Trường Tiểu học Tân Uy sáp nhập vào Trường Tiểu học Quảng Hưng, nghị sĩ thảo luận về việc sáp nhập trường](https://udn.com/news/story/6898/8706441) — Báo cáo về việc Trường Tiểu học Tân Uy sẽ sáp nhập vào Trường Tiểu học Quảng Hưng tại Mỹ Nông vào tháng 8 năm 2025, số học sinh mới tăng trở lại lên 4 em vào năm sau khi sáp nhập, ghi nhận lập trường của nghị sĩ thành phố và Cục Giáo dục.
 
-[^9]: [Tương tự: Liên Hợp Báo Tiểu học Tân Uy sáp nhập báo cáo](https://udn.com/news/story/6898/8706441) — Lục chọn hiệu phó đại lý Trần Ỷ Thính về tập trung dạy tiếng Khách Gia đặc sắc, hy vọng thu hút sinh viên địa phương, truyền dạy văn hóa Khách Gia từng lời phát biểu chính xác.
+[^9]: [Như trên: United Daily News báo cáo về việc sáp nhập Trường Tiểu học Tân Uy](https://udn.com/news/story/6898/8706441) — Ghi lại nguyên văn phát biểu của Quyền Hiệu trưởng Trần Di Đình về việc chú trọng giảng dạy đặc sắc Hakka, hy vọng thu hút học sinh địa phương theo học và kế thừa văn hóa Hakka.
 
-[^10]: [Tương tự: Liên Hợp Báo Tiểu học Tân Uy sáp nhập báo cáo](https://udn.com/news/story/6898/8706441) — Lục chọn thành viên HĐND Lâm Phú Bảo "một lớp một đứa bé cũng không phải tốt" "nên sáp nhập sáp nhập" từng lời phát biểu chính xác.
+[^10]: [Như trên: United Daily News báo cáo về việc sáp nhập Trường Tiểu học Tân Uy](https://udn.com/news/story/6898/8706441) — Ghi lại nguyên văn phát biểu của Nghị sĩ thành phố Lâm Phú Bảo: "Một lớp chỉ có một đứa trẻ cũng không phải là chuyện tốt" và "Nên sáp nhập trường thì hãy sáp nhập".
 
-[^11]: [Tạp chí Viễn Kiến: So sánh sinh năm Rồng trong quá khứ](https://www.gvm.com.tw/article/118939) — Tổng hợp 1976, 1988, 2000, 2012 năm Rồng sinh viên và mức tăng so năm trước, 1976 Năm Rồng 425.125 em, tăng 55.776 em.
+[^11]: [Tạp chí Vision: So sánh số trẻ sinh ra vào các năm Thìn qua các thời kỳ](https://www.gvm.com.tw/article/118939) — Tổng hợp số trẻ sinh ra vào các năm Thìn 1976, 1988, 2000, 2012 và mức tăng tương ứng so với năm trước đó; năm Giáp Thìn 1976 có 425.125 trẻ, tăng 55.776 người.
 
-[^12]: [Bộ Nội vụ, Cục Hộ tịch: Dữ liệu thống kê dân số (sinh viên)](https://www.ris.gov.tw/app/portal/346) — Cục Hộ tịch toàn quốc thống kê dân số thông báo và chuỗi thời gian sinh, bao gồm năm Rồng 1988 (+28.007), 2000 (+21.651), 2012 (+32.854) v.v. dữ liệu cơ sở đăng ký.
+[^12]: [Cục Hộ tịch, Bộ Nội vụ: Dữ liệu thống kê dân số (Số trẻ sinh ra)](https://www.ris.gov.tw/app/portal/346) — Thông báo thống kê dân số toàn quốc và chuỗi thời gian số trẻ sinh ra của Cục Hộ tịch, bao gồm các dữ liệu đăng ký chuẩn cho các năm Thìn như 1988 (+28.007), 2000 (+21.651), 2012 (+32.854), v.v.
 
-[^13]: [Hãng Tin Trung Ương: 2024 sinh viên 134.856, sự sụt giảm tự nhiên tiếp tục](https://www.cna.com.tw/news/aipl/202501100114.aspx) — Bộ Nội vụ công bố 2024 toàn năm sinh 134.856 em, chết hơn 20 vạn, tổng số tăng tự nhiên năm liên tiếp âm.
+[^13]: [CNA: Số trẻ sinh ra năm 2024 là 134.856, mức giảm tự nhiên không chỉ dừng lại ở đó](https://www.cna.com.tw/news/aipl/202501100114.aspx) — Bộ Nội vụ công bố số trẻ sinh ra trong cả năm 2024 là 134.856 người, trong khi số người chết vượt quá 200.000 người, khiến mức tăng trưởng tự nhiên liên tục ở giá trị âm.
 
-[^14]: [Tự do Tài chính: 2025 sinh 107.812, năm giảm khoảng hai mươi phần trăm](https://ec.ltn.com.tw/article/breakingnews/5393039) — Báo cáo 2025 sinh so năm 2024 134.856 em giảm thêm khoảng hai mươi bảy ngàn, mức giảm gần 20%, tỷ lệ sinh 0.695.
+[^14]: [Liberty Finance: Số trẻ sinh ra năm 2025 là 107.812, giảm khoảng 20% so với cùng kỳ](https://ec.ltn.com.tw/article/breakingnews/5393039) — Báo cáo số trẻ sinh ra năm 2025 giảm thêm khoảng 27.000 người so với con số 134.856 của năm 2024, mức giảm gần 20%, tổng tỷ lệ sinh là 0,695.
 
-[^15]: [Tạp chí Viễn Kiến: 2025 sinh 107.812, 0-14 tuổi 11.51%, 65 tuổi trở lên 20.06%](https://www.gvm.com.tw/article/127667) — Tổng hợp 2025 sinh viên, cấu trúc tuổi tính và tỷ lệ sinh kỳ 0.695, so sánh năm 2024 TFR khoảng 0,89.
+[^15]: [Tạp chí Vision: Năm 2025 có 107.812 trẻ sinh ra, nhóm 0-14 tuổi chiếm 11,51%, trên 65 tuổi chiếm 20,06%](https://www.gvm.com.tw/article/127667) — Tổng hợp số trẻ sinh ra năm 2025, cấu trúc độ tuổi và tổng tỷ lệ sinh là 0,695, đồng thời đối chiếu với mức TFR khoảng 0,89 của năm 2024.
 
-[^16]: [Taipei Lần: Đài Loan 2025 tỷ lệ sinh vượt Hàn Quốc](https://www.taipeitimes.com/News/front/archives/2026/01/10/2003850357) — Báo cáo Đài Loan tỷ lệ sinh 2025 thấp hơn Hàn Quốc, thành khu vực Đông Á thấp nhất; tính quốc gia chủ quyền là toàn cầu thấp nhất, Macao (khoảng 0,5-0,7), Hong Kong (khoảng 0,7) vân vân đặc khu có tỷ lệ thấp hơn (thêm tham khảo UN World Fertility Report 2024).
+[^16]: [Taipei Times: Tỷ lệ sinh của Đài Loan năm 2025 vượt qua Hàn Quốc](https://www.taipeitimes.com/News/front/archives/2026/01/10/2003850357) — Báo cáo cho thấy tỷ lệ sinh của Đài Loan năm 2025 thấp hơn Hàn Quốc, trở thành mức thấp nhất Đông Á; nếu tính theo quốc gia có chủ quyền thì là thấp nhất thế giới, trong khi các đặc khu như Macau (khoảng 0,5-0,7) và Hồng Kông (khoảng 0,7) có tỷ lệ sinh còn thấp hơn (tham khảo thêm UN World Fertility Report 2024).
 
-[^17]: [Tạp chí Viễn Kiến: 2025 sự sụt giảm tự nhiên 9 vạn dôi](https://www.gvm.com.tw/article/127667) — Ghi chép 2025 năm chết khoảng 20 vạn, sinh 10,8 vạn, sự sụt giảm tự nhiên −92.456, là sự sụt giảm tự nhiên lớn nhất lịch sử Đài Loan.
+[^17]: [Tạp chí Viễn Kiến: Năm 2025 giảm tự nhiên hơn 90.000 người](https://www.gvm.com.tw/article/127667) — Ghi nhận năm 2025 có khoảng 200.000 ca tử vong và 108.000 ca sinh, mức giảm tự nhiên là -92.456, mức giảm tự nhiên lớn nhất trong lịch sử Đài Loan.
 
-[^18]: [Nghiên cứu có vật (Viện Trung Ương): Trịnh Diễn Hân bàn tỷ lệ sinh kỳ với sinh thế hệ](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Lục chọn Trịnh Diễn Hân "tỷ lệ sinh kỳ chỉ nhìn, Đài Loan 1985 năm đã rơi dưới 2; nhưng sinh thế hệ tính chính xác, chỉ tới 1965 năm sinh thế hệ mới thấp hơn 2 người" từng lời tuyên bố, giải thích PTFR bị sinh muộn ảnh hưởng bị ước lệch.
+[^18]: [Yánzhīyǒuwù (Học viện Trung ương): Trịnh Nhạn Hinh thảo luận về tỷ lệ sinh theo thời kỳ và tỷ lệ sinh thế hệ](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Ghi lại phát biểu nguyên văn của Trịnh Nhạn Hinh: "Nếu chỉ nhìn vào tỷ lệ sinh theo thời kỳ, Đài Loan đã giảm xuống dưới 2 từ năm 1985; nhưng tỷ lệ sinh thế hệ mãi đến năm 1965 mới xuống dưới mức 2 con", giải thích rằng PTFR bị đánh giá thấp do ảnh hưởng của việc kết hôn và sinh con muộn.
 
-[^19]: [Nghiên cứu có vật: Trịnh Diễn Hân "chìa khoá không sinh con, có khả năng là chưa kết hôn"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Viện Trung Ương phỏng vấn, Trịnh Diễn Hân chỉ ra chìa khoá sinh con ít Đài Loan là không kết hôn chứ không phải không sinh, cung cấp dữ liệu sinh sau hôn nhân bằng chứng.
+[^19]: [Yánzhīyǒuwù: Trịnh Nhạn Hinh cho biết "Mật mã then chốt không phải là không sinh con, mà có khả năng cao hơn là chưa kết hôn"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Phỏng vấn của Học viện Trung ương, Trịnh Nhạn Hinh chỉ ra rằng cốt lõi của tỷ lệ sinh thấp tại Đài Loan là do không kết hôn chứ không phải không sinh con, đồng thời cung cấp dữ liệu về tỷ lệ sinh sau khi kết hôn để làm minh chứng.
 
-[^20]: [Bán Khoa Học: Trịnh Diễn Hân bàn Đài Loan không kết hôn sinh con ít](https://pansci.asia/archives/344495) — Chuyển lại nghiên cứu Viện Trung Ương, Trịnh Diễn Hân chỉ ra hầu hết sinh con kết hôn, hơn 70% sinh tới hai con trở lên, sinh ngoài hôn nhân chỉ 2-4%.
+[^20]: [PanScience: Trịnh Nhạn Hinh thảo luận về tình trạng không kết hôn và ít con tại Đài Loan](https://pansci.asia/archives/344495) — Trích dẫn nghiên cứu của Học viện Trung ương, Trịnh Nhạn Hinh chỉ ra rằng đa số các cặp vợ chồng đều sinh con sau khi kết hôn, với hơn 70% sinh từ hai con trở lên, trong khi sinh con ngoài giá thú chỉ chiếm 2-4%.
 
-[^21]: [Hãng Tin Trung Ương: 2025 kết hôn 104.376 cặp tạo kỷ lục mới](https://www.cna.com.tw/news/aipl/202501100114.aspx) — Bộ Nội vụ thống kê 2024 kết hôn 123.061 cặp, 2025 rơi 104.376 cặp, tạo kỷ lục mới, phản ánh tỷ lệ kết hôn hàng năm rơi.
+[^21]: [CNA: Số cặp đôi kết hôn năm 2025 đạt mức thấp kỷ lục 104.376 cặp](https://www.cna.com.tw/news/aipl/202501100114.aspx) — Thống kê của Bộ Nội vụ cho thấy số cặp đôi kết hôn năm 2024 là 123.061 cặp, giảm xuống còn 104.376 cặp vào năm 2025, lập kỷ lục thấp nhất trong lịch sử, phản ánh tỷ lệ kết hôn đang giảm dần qua từng năm.
 
-[^22]: [Bán Khoa Học: Dự báo tỷ lệ độc thân toàn thời kỳ](https://pansci.asia/archives/344495) — Dẫn nghiên cứu Trịnh Diễn Hân, 45-49 tuổi tỷ lệ độc thân toàn thời kỳ gần hai mươi phần trăm, dự báo 2050 nam giới vượt 30%, nữ giới vượt 25% không kết hôn.
+[^22]: [PanScience: Ước tính tỷ lệ độc thân suốt đời](https://pansci.asia/archives/344495) — Dẫn lời nghiên cứu của Trịnh Nhạn Hinh, tỷ lệ độc thân suốt đời ở độ tuổi 45-49 là gần 20%, ước tính đến năm 2050, nam giới sẽ vượt quá 30% và nữ giới vượt quá 25% sống độc thân suốt đời.
 
-[^23]: [Nghiên cứu có vật: Trịnh Diễn Hân "sinh ngoài hôn nhân chỉ 2~4%, cả chục năm không đổi"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Lục chọn Trịnh Diễn Hân tỷ lệ sinh ngoài hôn nhân Đài Loan dài hạn duy trì 2-4% từng lời tuyên bố, nêu bật sinh con gần như toàn bộ buộc hôn nhân.
+[^23]: [Yánzhīyǒuwù: Trịnh Nhạn Hinh cho biết "Sinh con ngoài giá thú chỉ chiếm 2-4%, không thay đổi trong nhiều thập kỷ"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Ghi lại phát biểu nguyên văn của Trịnh Nhạn Hinh về việc tỷ lệ sinh con ngoài giá thú tại Đài Loan duy trì ở mức 2-4% trong thời gian dài, nhấn mạnh rằng việc sinh con hầu như hoàn toàn gắn liền với hôn nhân.
 
-[^24]: [Ngõ Hẻm Miệng Xã Hội Học: Tỷ lệ kết hôn giảm lái sinh con ít sụp](https://twstreetcorner.org/2019/03/31/chengyenhsinhsuchenhao/) — Phân tích tỷ lệ sinh toàn bộ Đài Loan từ mức thay thế 2,1 rơi không tới 1,1 gần như toàn bộ bị tỷ lệ kết hôn giảm lái, chứ không phải ý định sinh của người kết hôn giảm.
+[^24]: [Xìngzǎikǒu Xã hội học: Tỷ lệ kết hôn giảm là động lực khiến tỷ lệ sinh sụt giảm](https://twstreetcorner.org/2019/03/31/chengyenhsinhsuchenhao/) — Phân tích cho thấy sự sụt giảm tổng tỷ lệ sinh của Đài Loan từ mức thay thế 2,1 xuống dưới 1,1 hầu như hoàn toàn do tỷ lệ kết hôn giảm, chứ không phải do ý muốn sinh con của những người đã kết hôn giảm xuống.
 
-[^25]: [Viện Kinh tế Hoa Trung: Sinh con ít với kết hôn nghiên cứu](https://www.cier.edu.tw/) — Nghiên cứu Viện Kinh tế Hoa Trung chỉ ra giá nhà thấp lương không phải nguyên nhân chính không kết hôn, hầu hết độc thân có ý định kết hôn, nhưng vào vị trí công việc khó gặp đối tượng phù hợp kết hôn.
+[^25]: [Viện Nghiên cứu Kinh tế Trung Hoa: Nghiên cứu về tình trạng ít con và hôn nhân sinh sản](https://www.cier.edu.tw/) — Nghiên cứu của Viện Kinh tế Trung Hoa chỉ ra rằng giá nhà cao và lương thấp không phải là nguyên nhân chính dẫn đến việc không kết hôn, đa số những người chưa kết hôn đều có ý muốn kết hôn, nhưng sau khi đi làm họ khó gặp được đối tượng phù hợp để tiến tới hôn nhân.
 
-[^26]: [Viện Hành pháp: Tổng chi phí kế hoạch đối sách sinh con ít](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Viện Hành pháp kế hoạch đối sách sinh con ít 2007-2024 (năm học 107-113 khung đơn phương kéo dài) tổng chi phí khoảng 4.851 tỷ.
+[^26]: [Hành chính Viện: Tổng kinh phí cho kế hoạch đối phó tình trạng ít con](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E) — Tổng kinh phí cho kế hoạch đối phó tình trạng ít con của Hành chính Viện giai đoạn 2007-2024 (mở rộng từ khung ngân sách năm 107-113) là khoảng 485,1 tỷ Đài tệ.
 
-[^27]: [Viện Lập pháp: Đầu tư lứa 0-6 tuổi thẩm duyệt chi phí](https://www.ly.gov.tw/) — Dữ liệu thẩm duyệt ngân sách Viện Lập pháp cho thấy đầu tư 0-6 tuổi từ năm 2016 150 tỷ tăng tới 2026 khoảng 1.400 tỷ, năm đơn vượt 1.200 tỷ.
+[^27]: [Lập pháp Viện: Thẩm định kinh phí đầu tư cho trẻ em từ 0-6 tuổi](https://www.ly.gov.tw/) — Dữ liệu thẩm định ngân sách của Lập pháp Viện cho thấy khoản đầu tư liên quan đến trẻ từ 0-6 tuổi đã tăng từ 15 tỷ Đài tệ năm 2016 lên khoảng 140 tỷ Đài tệ vào năm 2026, với mức chi trong một năm đơn lẻ vượt quá 120 tỷ Đài tệ.
 
-[^28]: [Bộ Phúc lợi và Gia đình: Trợ cấp nuôi con](https://www.sfaa.gov.tw/SFAA/Pages/Detail.aspx?nodeid=1163&pid=58003) — Hiện trợ cấp nuôi con con đầu tiên mỗi tháng 5.000, con thứ hai 6.000, con thứ ba trở lên 7.000, đã hủy khoả mức hạn.
+[^28]: [Cục Xã hội và Gia đình thuộc Bộ Y tế và Phúc lợi: Trợ cấp nuôi con](https://www.sfaa.gov.tw/SFAA/Pages/Detail.aspx?nodeid=1163&pid=58003) — Trợ cấp nuôi con hiện hành là 5.000 Đài tệ/tháng cho con thứ nhất, 6.000 Đài tệ cho con thứ hai, và 7.000 Đài tệ trở lên cho con thứ ba; quy định về phân loại thu nhập đã được bãi bỏ.
 
-[^29]: [Phủ Tổng thống: Lại Thanh Đức "Chiến lược đối sách dân số Đài Loan mới"](https://www.president.gov.tw/News/40077) — Bản tin Phủ Tổng thống tháng 5 năm 27 năm 2026, công bố 18 mục đối sách dân số, hàm 0-18 tuổi mỗi tháng trợ cấp tăng 5.000, năm 2026 trở lên cấp trung ương thống nhất tặng sinh 10 vạn.
+[^29]: [Phủ Tổng thống: Lại Thanh Đức công bố "Chiến lược mới về đối sách dân số Đài Loan"](https://www.president.gov.tw/News/40077) — Thông cáo báo chí của Phủ Tổng thống ngày 27 tháng 5 năm 2026, công bố 18 biện pháp đối phó dân số, bao gồm trợ cấp tăng trưởng hàng tháng 5.000 Đài tệ cho trẻ từ 0-18 tuổi, và từ năm 2026 sẽ áp dụng khoản trợ cấp sinh con thống nhất toàn quốc là 100.000 Đài tệ.
 
-[^30]: [Nghiên cứu có vật: Dương Tử Anh xổ số trúng với sinh con tự nhiên thử nghiệm](https://research.sinica.edu.tw/fertility/) — Viện Kinh tế Trung Ương Dương Tử Anh dùng xổ số trúng làm tự nhiên thử nghiệm, phát hiện gia đình trúng giải trên một trăm vạn 6 năm chỉ sinh thêm khoảng 0,07 em.
+[^30]: [Yánzhīyǒuwù: Thí nghiệm tự nhiên về việc trúng xổ số của Dương Tử Đình và việc sinh con](https://research.sinica.edu.tw/fertility/) — Dương Tử Đình từ Viện Kinh tế thuộc Học viện Trung ương đã sử dụng việc trúng vé số làm một thí nghiệm tự nhiên, phát hiện ra rằng các gia đình trúng giải lớn trên hàng triệu Đài tệ chỉ sinh thêm trung bình khoảng 0,07 trẻ trong vòng 6 năm.
 
-[^31]: [Tương tự: Dương Tử Anh sinh trợ cấp ngưỡng suy diễn](https://research.sinica.edu.tw/fertility/) — Nghiên cứu Dương Tử Anh chỉ ra hiệu quả trợ cấp sinh tập trung ở gia đình trúng giải trên một vạn; quy mô trợ cấp trừ phi gần bằng toàn bộ chi phí nuôi con, nếu không ảnh hưởng hạn chế tới quyết định sinh.
+[^31]: [Như trên: Suy luận về ngưỡng trợ cấp sinh con của Dương Tử Đình](https://research.sinica.edu.tw/fertility/) — Nghiên cứu của Dương Tử Đình chỉ ra rằng hiệu quả của trợ cấp sinh con tập trung vào các hộ gia đình có tài sản trên hàng chục triệu; nếu quy mô trợ cấp không tiệm cận với toàn bộ chi phí nuôi dưỡng một đứa trẻ, nó sẽ có tác động hạn chế đến quyết định sinh con.
 
-[^32]: [Tương tự: Dương Tử Anh "nuôi con… ảnh hưởng sắp xếp thời gian cá nhân"](https://research.sinica.edu.tw/fertility/) — Lục chọn Dương Tử Anh tuyên bố, thực chi phí nuôi con ngoài chi tiêu, nhiều hơn là ảnh hưởng sắp xếp thời gian cá nhân tháo lợi, nuôi tới 18 tuổi khoảng 1.000 vạn.
+[^32]: [Như trên: Dương Tử Đình về "Tác động của việc nuôi dạy con cái... đối với việc sắp xếp thời gian cá nhân"](https://research.sinica.edu.tw/fertility/) — Ghi lại phát biểu nguyên văn của Dương Tử Đình, chỉ ra rằng tác động thực sự của việc nuôi con ngoài chi phí còn nằm ở sự tước đoạt thời gian cá nhân; chi phí nuôi một đứa trẻ đến năm 18 tuổi là khoảng 10 triệu Đài tệ.
 
-[^33]: [Công khai Đài Loan Độc lập: Ôn Tại Hùng bàn cho tiền thúc sinh](https://news.pts.org.tw/article/695934) — Báo cáo tháng 5 năm 2024, lục chọn Trung tâm Dân số Giới Đại học Đài Loan Ôn Tại Hùng "cho tiền thúc sinh logic không làm việc" từng lời tuyên bố chính xác.
+[^33]: [PTS Độc lập Đặc phái viên: Ôn Tại Hoằng bàn về việc dùng tiền thúc đẩy sinh sản](https://news.pts.org.tw/article/695934) — Báo cáo tháng 5 năm 2024, ghi lại phát biểu nguyên văn của Ôn Tại Hoằng từ Trung tâm Nghiên cứu Dân số và Giới tính Đại học Quốc gia Đài Loan rằng "logic đưa tiền để bảo người ta sinh con là không khả thi".
 
-[^34]: [Tương tự: Ôn Tại Hùng "vấn đề dân số luôn nước sôi từ từ"](https://news.pts.org.tw/article/695934) — Lục chọn Ôn Tại Hùng về vấn đề dân số tiến triển chậm lâu dòng được coi thường vì so sánh từng nước tờ.
+[^34]: [Như trên: Ôn Tại Hoằng về "Vấn đề dân số luôn là kiểu luộc ếch trong nước ấm"](https://news.pts.org.tw/article/695934) — Ghi lại phép ẩn dụ nguyên văn của Ôn Tại Hoằng về việc vấn đề dân số do tiến triển chậm chạp nên lâu nay không được coi trọng.
 
-[^35]: [Tương tự: Ôn Tại Hùng bàn tranh đua cá nhân tài nguyên tập trung](https://news.pts.org.tw/article/695934) — Lục chọn Ôn Tại Hùng nếu xã hội vẫn cứ nhấn tranh đua cá nhân, tài nguyên phân phối không bình đều tập trung cực độ cấu trúc sẽ không sửa từng lời tuyên bố chính xác.
+[^35]: [Như trên: Ôn Tại Hoằng bàn về cạnh tranh cá nhân và tập trung nguồn lực](https://news.pts.org.tw/article/695934) — Ghi lại phát biểu nguyên văn của Ôn Tại Hoằng rằng nếu xã hội không chỉ nhấn mạnh vào cạnh tranh cá nhân, thì cấu trúc phân bổ nguồn lực cực kỳ mất cân bằng sẽ không thể thay đổi.
 
-[^36]: [ETtoday Đám Mây Luận: Giang Dân Khâm bàn rủi ro nuôi con tư nhân hóa](https://forum.ettoday.net/news/3098138) — Tháng 1 năm 26 ký danh nhân vật bình luận, Giang Dân Khâm chỉ xã hội tư nhân hóa rủi ro nuôi con, công cộng hóa cổ tức dân số, chủ trương tỷ lệ sinh thấp là tín hiệu giá không phải thiếu đạo đức.
+[^36]: [ETtoday Vân Luận: Giang Mân Khâm bàn về việc tư nhân hóa rủi ro nuôi dạy con cái](https://forum.ettoday.net/news/3098138) — Bài bình luận ký tên tháng 1 năm 2026, Giang Mân Khâm chỉ ra rằng xã hội đang tư nhân hóa rủi ro nuôi dạy con cái và công cộng hóa lợi tức dân số, khẳng định tỷ lệ sinh thấp là một tín hiệu về giá cả chứ không phải khiếm khuyết về đạo đức.
 
-[^37]: [Tương tự: Giang Dân Khâm "trợ cấp như giảm đau không phải phẫu thuật"](https://forum.ettoday.net/news/3098138) — Lục chọn Giang Dân Khâm dùng giảm đau so sánh trợ cấp sinh điều trị triệu chứng không vấn đề gốc luận điểm.
+[^37]: [Như trên: Giang Mân Khâm "Trợ cấp giống như thuốc giảm đau chứ không phải phẫu thuật ngoại khoa"](https://forum.ettoday.net/news/3098138) — Ghi lại lập luận của Giang Mân Khâm sử dụng hình ảnh thuốc giảm đau để ví von việc trợ cấp sinh con chỉ là trị ngọn chứ không trị gốc.
 
-[^38]: [IZA Thế Giới Lao động: Chính sách có thể đảo ngược sinh con giảm](https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility/long) — Tổng hợp học thuật chỉ ra chính sách thúc sinh có thể tăng tỷ lệ sinh chút, nhưng không có khả năng đẩy quay mức thay thế.
+[^38]: [IZA World of Labor: Liệu chính sách có thể đảo ngược sự sụt giảm tỷ lệ sinh](https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility/long) — Tổng quan học thuật chỉ ra rằng các chính sách thúc đẩy sinh sản có thể giúp tỷ lệ sinh tăng nhẹ, nhưng khó có khả năng đưa về mức thay thế.
 
-[^39]: [Tạp chí Công May: Gietel-Basten "phát tiền giải quyết không được"](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Nhà dân số học Gietel-Basten thẳng thúc tiền sinh không lật sinh con siêu thấp Á, tổng hợp nhiều nước chính sách hiệu quả.
+[^39]: [Fortune: Gietel-Basten "Đổ tiền không giải quyết được vấn đề"](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Nhà nhân khẩu học Gietel-Basten thẳng thắn cho rằng tiền thưởng sinh con khó có thể xoay chuyển tỷ lệ sinh siêu thấp tại châu Á, đồng thời tổng hợp hiệu quả chính sách của nhiều quốc gia.
 
-[^40]: [AEI: Hạn chế chính sách thúc sinh Hungary](https://www.aei.org/op-eds/hungarys-fertility-outcomes-highlight-pro-natal-policy-limitations/) — Phân tích Hungary chi trả gia đình chiếm GDP khoảng 5%, xếp hàng trước châu Âu, 2024 tỷ lệ sinh chỉ 1,39; ước toàn cầu muốn chính sách kéo tỷ lệ sinh tăng khoảng 0,2, cần thêm hàng năm khoảng 2.500 tỷ đô la độ, nêu bật chi phí chính sách thúc sinh cao, hiệu quả hạn.
+[^40]: [AEI: Những hạn chế trong chính sách thúc đẩy sinh sản của Hungary](https://www.aei.org/op-eds/hungarys-fertility-outcomes-highlight-pro-natal-policy-limitations/) — Phân tích cho thấy chi tiêu gia đình của Hungary chiếm khoảng 5% GDP, thuộc nhóm dẫn đầu châu Âu, nhưng tỷ lệ sinh năm 2024 vẫn chỉ ở mức 1,39; đồng thời ước tính nếu thế giới muốn dựa vào chính sách để nâng tỷ lệ sinh thêm khoảng 0,2 thì cần chi thêm khoảng 250 tỷ USD mỗi năm, làm nổi bật chi phí cao và hiệu quả hạn chế của các chính sách thúc đẩy sinh sản.
 
-[^41]: [Tạp chí Công May: Hàn Quốc chi thêm vẫn toàn cầu thấp nhất](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Báo cáo Hàn Quốc chi vượt 2.700 tỷ thúc sinh dù vậy lâu dòng duy trì toàn cầu số một số hai thấp nhất tỷ lệ sinh.
+[^41]: [Fortune: Hàn Quốc đầu tư khổng lồ nhưng vẫn thấp nhất thế giới](https://fortune.com/asia/2024/03/12/asia-worlds-lowest-birth-rates-baby-bonus-not-working-singapore-south-korea-hong-kong-japan/) — Báo cáo về việc Hàn Quốc đã đầu tư hơn 270 tỷ USD để thúc đẩy sinh sản nhưng tỷ lệ sinh vẫn duy trì ở mức thấp hàng đầu thế giới trong thời gian dài.
 
-[^42]: [Thống kê Bắc Âu: Thấp nhất tỷ lệ sinh Bắc Âu](https://www.nordicstatistics.org/news/record-low-fertility-in-the-nordics/) — Cục Thống kê Bắc Âu báo cáo 2024 năm Phần Lan tỷ lệ sinh 1,25, Thụy Điển 1,43 tạo kỷ lục mới, nêu bật tiêu chuẩn giới tính bình đẳng cũng nhìn sinh sụp.
+[^42]: [Nordic Statistics: Tỷ lệ sinh tại Bắc Âu chạm mức thấp kỷ lục](https://www.nordicstatistics.org/news/record-low-fertility-in-the-nordics/) — Cục Thống kê Bắc Âu báo cáo năm 2024, tỷ lệ sinh của Phần Lan là 1,25 và Thụy Điển là 1,43, xác lập mức thấp kỷ lục trong lịch sử, cho thấy ngay cả các quốc gia hình mẫu về bình đẳng giới cũng đang đối mặt với sự sụt giảm tỷ lệ sinh.
 
-[^43]: [Cuộc Hội Thoại: Hàn Quốc tỷ lệ sinh tăng nhưng dân số vẫn co lại](https://theconversation.com/south-koreas-birth-rate-is-rising-but-the-population-is-still-shrinking-276924) — Phân tích học thuật Hàn Quốc tỷ lệ sinh 2023-2025 năm tăng liên tiếp (0,72→0,75→0,80), nhưng dân số toàn bộ năm theo năm giảm.
+[^43]: [The Conversation: Tỷ lệ sinh Hàn Quốc hồi phục nhưng dân số vẫn thu hẹp](https://theconversation.com/south-koreas-birth-rate-is-rising-but-the-population-is-still-shrinking-276924) — Phân tích học thuật cho thấy tỷ lệ sinh của Hàn Quốc đã tăng trong hai năm liên tiếp từ 2023-2025 (từ 0,72 → 0,75 → 0,80), nhưng tổng dân số vẫn giảm dần qua từng năm.
 
-[^44]: [Korea.net (Cục Thống kê Hàn Quốc): 2024 tỷ lệ sinh tăng nguyên nhân](https://www.korea.net/NewsFocus/Society/view?articleId=267262) — Cục Thống kê Hàn Quốc chỉ 2024 tỷ lệ sinh tăng "rất có khả năng xuất phát 2022 tháng 8 tới nay kết hôn tăng", cộng thêm 30 mấy tuổi nữ giới phù hợp kết hôn tăng lên, dịch sau bù lại kết hôn muộn, chứ không phải thấy kết quả chính sách thúc sinh nào.
+[^44]: [Korea.net (Cục Thống kê Hàn Quốc): Nguyên nhân sự hồi phục tỷ lệ sinh năm 2024](https://www.korea.net/NewsFocus/Society/view?articleId=267262) — Cục Thống kê Hàn Quốc chỉ ra rằng sự hồi phục tỷ lệ sinh năm 2024 "rất có thể bắt nguồn từ việc số lượng kết hôn tăng lên kể từ tháng 8 năm 2022", cùng với sự gia tăng phụ nữ trong độ tuổi kết hôn đầu 30 và các đám cưới được tổ chức bù sau đại dịch, thay vì do hiệu quả của chính sách thúc đẩy sinh sản.
 
-[^45]: [Tạp chí Viễn Kiến: World Bank khung tỷ lệ sinh Đài Loan](https://www.gvm.com.tw/article/127379) — Giải thích Bộ Nội vụ tỷ lệ sinh kỳ này (2024 khoảng 0,87/2025 khoảng 0,70) và World Bank/UN khung mô hình giá trị (Đài Loan khoảng 1,1) hai bộ hệ thống không tương xứng, không thể trộn.
+[^45]: [Tạp chí Viễn Kiến: Tỷ lệ sinh Đài Loan dưới lăng kính mô hình World Bank](https://www.gvm.com.tw/article/127379) — Giải thích rằng tổng tỷ lệ sinh thời kỳ Bộ Nội vụ (năm 2024 khoảng 0,87 / năm 2025 khoảng 0,70) và giá trị mô hình của World Bank/UN (Đài Loan khoảng 1,1) là hai hệ thống không tương thích, không được sử dụng lẫn lộn.
 
-[^46]: [Cuộc Hội Thoại: Tỷ lệ sinh tăng dân số vẫn giảm xuống](https://theconversation.com/south-koreas-birth-rate-is-rising-but-the-population-is-still-shrinking-276924) — Dùng Hàn Quốc chỉ ví dụ quán tính dân số: thậm chí tỷ lệ sinh quay lại, vì dân số sinh đủ tuổi đã co, dân số toàn bộ vẫn một đường rơi.
+[^46]: [The Conversation: Tỷ lệ sinh tăng nhưng dân số vẫn giảm](https://theconversation.com/south-koreas-birth-rate-is-rising-but-the-population-is-still-shrinking-276924) — Lấy Hàn Quốc làm ví dụ để giải thích về quán tính dân số: ngay cả khi tỷ lệ sinh phục hồi, tổng dân số vẫn tiếp tục giảm do quy mô dân số trong độ tuổi sinh đẻ đã bị thu hẹp.
 
-[^47]: [Wikipedia: Quán tính dân số (Population momentum)](https://en.wikipedia.org/wiki/Population_momentum) — Giải thích khái niệm quán tính dân số: thậm chí tỷ lệ sinh lập tức quay mức thay thế, vì cấu trúc tuổi quán tính dân số toàn bộ vẫn sẽ gõi cả chục năm.
+[^47]: [Wikipedia: Quán tính dân số (Population momentum)](https://en.wikipedia.org/wiki/Population_momentum) — Giải thích khái niệm quán tính dân số: ngay cả khi tỷ lệ sinh lập tức tăng trở lại mức thay thế, tổng dân số vẫn sẽ biến động trong nhiều thập kỷ do quán tính của cấu trúc tuổi.
 
-[^48]: [Hãng Tin Trung Ương: Viện Quốc gia Phát triển dự báo dân số, dân số toàn 2019 cuối đạt đỉnh](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Viện Quốc gia Phát triển báo cáo dự báo dân số 2024 năm, dân số Đài Loan 2019 cuối đạt 23.603.121 người đỉnh sau chuyển sụt giảm âm, 2070 năm ước còn 1.497 vạn.
+[^48]: [CNA: Hội đồng Phát triển Quốc gia dự báo tổng dân số đạt đỉnh vào cuối năm 2019](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Báo cáo dự báo dân số năm 2024 của Hội đồng Phát triển Quốc gia cho thấy tổng dân số Đài Loan sau khi đạt đỉnh 23.603.121 người vào cuối năm 2019 đã chuyển sang tăng trưởng âm, và ước tính chỉ còn 14,97 triệu người vào năm 2070.
 
-[^49]: [Korea Herald: Bộ phận kế hoạch dân số ngư quốc hội tuyệt tích thai](https://www.koreaherald.com/article/10022873) — Báo cáo Tấn Tích Tuệ tháng 5 năm 2024 đề xuất lập bộ phận kế hoạch chiến lược dân số, pháp lệ quốc hội kẹt, theo Tấn Tích Tuệ bãi miễn tuyệt tích, chẳng bao giờ lập được.
+[^49]: [Korea Herald: Kế hoạch thành lập Bộ Chiến lược Dân số bị đình trệ sau vụ luận tội](https://www.koreaherald.com/article/10022873) — Đưa tin về đề xuất của Yoon Suk-yeol vào tháng 5 năm 2024 về việc thành lập Bộ Chiến lược Dân số, nhưng dự luật liên quan đã bị kẹt tại Quốc hội và bị gác lại theo vụ luận tội ông Yoon Suk-yeol, chưa bao giờ được thành lập.
 
-[^50]: [Hãng Tin Trung Ương: Toàn Đài 512 trường tiểu học ít 50 em](https://www.cna.com.tw/news/ahel/202508160072.aspx) — Bộ Giáo dục thống kê toàn Đài tiểu học ít 50 em 512 trường, ít 100 em 1.025 trường (chiếm 38,4%).
+[^50]: [CNA: Toàn Đài Loan có 512 trường học có dưới 50 học sinh](https://www.cna.com.tw/news/ahel/202508160072.aspx) — Thống kê từ Bộ Giáo dục cho thấy trên toàn Đài Loan có 512 trường tiểu học có số lượng học sinh dưới 50 em và 1.025 trường có dưới 100 em (chiếm 38,4%).
 
-[^51]: [Tương tự: Số tiểu học dự báo](https://www.cna.com.tw/news/ahel/202508160072.aspx) — Ghi chép số tiểu học từ học năm 113 khoảng 120 vạn dự báo học năm 129 rơi 68,9 vạn, năm giảm khoảng 3,2 vạn.
+[^51]: [Như trên: Dự báo tổng số học sinh tiểu học](https://www.cna.com.tw/news/ahel/202508160072.aspx) — Ghi nhận dự báo tổng số học sinh tiểu học giảm từ khoảng 1,2 triệu người vào năm học 113 xuống còn 689.000 người vào năm học 129, giảm trung bình khoảng 32.000 người mỗi năm.
 
-[^52]: [Liên Hợp Báo: 2026 các địa tiểu học sinh lớp một vị số](https://udn.com/news/story/6898/9450267) — Báo cáo năm 2026 Cao Hùng Hưng Điền, Giáp Tiên Tiểu Lâm, Đào Nguyên Kiến Sơn tiểu học sinh lớp một mỗi trường 1 em, toàn Cao Hùng 79 trường sinh lớp một chỉ mở một đội.
+[^52]: [United Daily News: Số lượng tân sinh viên tiểu học tại các địa phương năm 2026 chỉ ở mức đơn vị](https://udn.com/news/story/6898/9450267) — Báo cáo năm 2026 cho biết các trường tiểu học Hsingtien, Jiaxian Xiaolin và Taoyuan Jianshan tại Cao Hùng mỗi trường chỉ có 1 học sinh lớp một; trên toàn thành phố có 79 trường tiểu học mà lớp một chỉ mở duy nhất một lớp.
 
-[^53]: [Tương tự: Đài Nam chi nhánh lớp một mỗi 1 em](https://udn.com/news/story/6898/9450267) — Ghi chép Đài Nam Đại Nội Đầu Xã, Hà Đông Lục Khê chi nhánh lớp một mỗi 1 em, toàn Đài lớp một chỉ mở một đội trường 110 trường.
+[^53]: [Như trên: Các phân hiệu tại Đài Nam cũng chỉ có 1 học sinh lớp một](https://udn.com/news/story/6898/9450267) — Ghi nhận các phân hiệu Daneitou và Hedong Liuxi tại Đài Nam mỗi nơi chỉ có 1 học sinh lớp một; toàn Đài Loan có tới 110 trường học mà tân sinh viên chỉ đủ mở duy nhất một lớp.
 
-[^54]: [Kinweekly: Sinh viên năm nhất rơi dưới 20 vạn, đại học thoát](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Báo cáo sinh viên năm nhất năm học 114 rơi dưới 20 vạn, dự báo 129 học năm rơi 14,6 vạn, áp lực đại học tư thoát tăng.
+[^54]: [Next Magazine: Tân sinh viên đại học giảm xuống dưới 200.000, các trường đại học đứng trước nguy cơ đóng cửa](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Đưa tin về việc số lượng tân sinh viên năm học 114 giảm xuống dưới 200.000 người, dự báo sẽ giảm xuống còn 146.000 người vào năm học 129, gây áp lực lớn buộc các trường tư thục phải rút lui khỏi thị trường.
 
-[^55]: [Tương tự: Công đoàn tư ước khoảng 40 trường thoát](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Dẫn công đoàn tư ước, sinh viên mới chỉ còn năm sáu vạn chỉ đủ nuôi khoảng 50 đại học tư, khoảng 40 trường thoát.
+[^55]: [Như trên: Công đoàn trường tư ước tính khoảng 40 trường đối mặt với việc đóng cửa](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Trích dẫn ước tính từ công đoàn trường tư rằng khi số lượng tân sinh viên chỉ còn khoảng 50.000 đến 60.000 người, chỉ đủ để duy trì khoảng 50 trường đại học tư thục, đồng nghĩa với việc khoảng 40 trường sẽ phải đối mặt với việc đóng cửa.
 
-[^56]: [Kinweekly: 2025 đại học thiếu sót tạo kỷ lục mới gần năm năm](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Ghi chép 2025 năm phát triển thiếu sót gản ngược tạo gần năm năm kỷ lục mới (18 trường thiếu 1.220 em), nói rõ "vực thế sinh viên" dài hạn thật nhưng con số ngắn hạn vì thoát, giảm tuyển lên xuống phức tạp.
+[^56]: [Next Magazine: Chỉ tiêu thiếu hụt của các trường đại học năm 2025 chạm mức thấp nhất trong 5 năm](https://www.businesstoday.com.tw/article/category/183035/post/202508170004/) — Ghi nhận số lượng chỉ tiêu còn trống trong kỳ xét tuyển đại học năm 2025 đã giảm xuống mức thấp kỷ lục trong gần 5 năm qua (18 trường thiếu 1.220 người), cho thấy sự sụt giảm dài hạn là có thật nhưng các con số biến động ngắn hạn rất phức tạp.
 
-[^57]: [Hãng Tin Trung Ương: Thanh niên nhập ngũ 2023 rơi dưới 10 vạn, 2031 còn 7,4 vạn](https://www.cna.com.tw/news/aipl/202405260218.aspx) — Dữ liệu Bộ Quốc phòng, số thanh niên nhập ngũ 2023 năm đầu tiên rơi dưới 10 vạn (97.828 em), dự báo 2031 năm rơi 7,4 vạn.
+[^57]: [CNA: Số lượng nam giới trong độ tuổi nghĩa vụ quân sự giảm xuống dưới 100.000 vào năm 2023 và còn 74.000 vào năm 2031](https://www.cna.com.tw/news/aipl/202405260218.aspx) — Dữ liệu từ Bộ Quốc phòng cho thấy số lượng nam giới trong độ tuổi nghĩa vụ lần đầu tiên giảm xuống dưới 100.000 người vào năm 2023 (97.828 người), và dự báo sẽ giảm xuống còn 74.000 người vào năm 2031.
 
-[^58]: [Liên Hợp Báo: Bảo hiểm lao động phá sản hoãn 2031, ưu tiên 3.870 tỷ](https://udn.com/news/story/7238/8319742) — Báo cáo quỹ bảo hiểm lao động phá sản từ ước 2028 hoãn 2031, dựa ưu tiên không tiền lệ 3.870 tỷ đỡ, bảo hiểm 1.048 vạn, nhận lương hưu 368 vạn.
+[^58]: [United Daily News: Việc phá sản của bảo hiểm lao động được lùi đến năm 2031, bù đắp 387 tỷ Đài tệ](https://udn.com/news/story/7238/8319742) — Đưa tin về việc năm dự kiến phá sản của quỹ bảo hiểm lao động được lùi từ năm 2028 sang năm 2031 nhờ khoản bù đắp 387 tỷ Đài tệ; hiện có 10,48 triệu người tham gia và 3,68 triệu người đang thụ hưởng lương hưu.
 
-[^59]: [Hãng Tin Trung Ương: Viện Quốc gia Phát triển thiếu hụt nhân tài ước 2030 48 vạn](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Viện Quốc gia Phát triển dự báo thiếu hụt nhân tài từ 40 vạn kéo rộng tới 2030 năm 48 vạn, đưa ra AI với tự động hoá hướng ứng phó.
+[^59]: [CNA: Hội đồng Phát triển Quốc gia ước tính khoảng trống nhân tài sẽ đạt 480.000 vào năm 2030](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Hội đồng Phát triển Quốc gia dự báo khoảng trống nhân tài sẽ mở rộng từ 400.000 lên 480.000 người vào năm 2030, đồng thời đề xuất AI và tự động hóa là các hướng ứng phó.
 
-[^60]: [Hãng Tin Trung Ương: 2025 chính thức xã hội tuổi cao siêu](https://www.cna.com.tw/news/ahel/202601090098.aspx) — Báo cáo 2025 năm Đài Loan 65 tuổi trở lên dân số tỷ lệ đạt 20,06%, 467 vạn em, chính thức trở thành xã hội tuổi cao siêu.
+[^60]: [CNA: Chính thức bước vào xã hội siêu già vào năm 2025](https://www.cna.com.tw/news/ahel/202601090098.aspx) — Đưa tin vào năm 2025, tỷ lệ dân số từ 65 tuổi trở lên tại Đài Loan đạt 20,06%, tương đương 4,67 triệu người, chính thức trở thành một xã hội siêu già.
 
-[^61]: [Tự do Tài chính: Thú cưng với trẻ em lúc lạc vàng](https://ec.ltn.com.tw/article/breakingnews/3763668) — Toàn Đài chó mèo 2020 năm đầu tiên vượt 0-14 tuổi trẻ em dân số (lúc lạc vàng); gần đây chó mèo khoảng 279 vạn, vẫn còn hơn 0-14 tuổi trẻ em khoảng 268 vạn.
+[^61]: [Liberty Business: Điểm giao thoa vàng giữa thú cưng và trẻ em](https://ec.ltn.com.tw/article/breakingnews/3763668) — Số lượng chó mèo trên toàn Đài Loan lần đầu tiên vượt qua dân số trẻ em từ 0-14 tuổi vào năm 2020 (điểm giao thoa vàng); những năm gần đây số lượng chó mèo khoảng 2,79 triệu con, vẫn cao hơn mức xấp xỉ 2,68 triệu trẻ em từ 0-14 tuổi.
 
-[^62]: [Bộ Lao động Thống kê lao động: Số lao động ngoài 2025 tháng 4 đạt 83 vạn](https://www.mol.gov.tw/) — Bộ Lao động thống kê, lao động ngoài trong Đài Loan 2025 tháng 4 đạt 83 vạn em tạo kỷ lục, trong đó chăm sóc bố mẹ Đài Loan ngoài khoảng 21,5 vạn em.
+[^62]: [Thống kê lao động Bộ Lao động: Số lượng lao động di cư đạt 830.000 người vào tháng 4 năm 2025](https://www.mol.gov.tw/) — Theo thống kê của Bộ Lao động, số lượng lao động di cư tại Đài Loan đạt mức cao kỷ lục 830.000 người vào tháng 4 năm 2025, trong đó hộ lý ngoại quốc khoảng 215.000 người.
 
-[^63]: [Bộ Di trú Nội vụ: Dân số cư dân mới](https://www.immigration.gov.tw/) — Cục Di trú thống kê cư dân mới khoảng 60 vạn em, sắp thành dân tộc thứ năm Đài Loan.
+[^63]: [Cục Di trú Bộ Nội vụ: Dân số cư dân mới](https://www.immigration.gov.tw/) — Cục Di trú thống kê có khoảng 600.000 cư dân mới, sắp trở thành nhóm sắc tộc lớn thứ năm của Đài Loan.
 
-[^64]: [Quỹ Lệ Hương: Giới tính chính trị dưới sinh ít](https://www.goh.org.tw/perspectives/declining-birthrate/) — Quỹ Lệ Hương Li Mạnh Anh bình luận, tường thuật thúc sinh phụ nữ hoảng bị quốc gia nhìn như tài nguyên/công cụ tái sinh dân số.
+[^64]: [Quỹ Lệ Hinh (Lixin Foundation): Chính trị giới dưới bối cảnh tỷ lệ sinh thấp](https://www.goh.org.tw/perspectives/declining-birthrate/) — Lý Mạnh Dĩnh từ Quỹ Lệ Hinh bình luận rằng, dưới những diễn ngôn thúc đẩy sinh sản, phụ nữ có nguy cơ bị quốc gia xem như nguồn lực hoặc công cụ tái sản xuất dân số.
 
-[^65]: [Liên Hợp Báo: Lâm Lục Hồng bàn nữ giới kết hôn sinh tách](https://udn.com/news/story/7272/9356201) — Liên tuyến Phụ nữ Đài Loan Lâm Lục Hồng chỉ phụ nữ Đài Loan chẳng phải không sẵn lòng sinh con, mà là không muốn hôn nhân văn hóa, quan hệ dâu cháu dây buộc.
+[^65]: [United Daily News: Lâm Lục Hồng bàn về việc tách rời hôn nhân và sinh con ở phụ nữ](https://udn.com/news/story/7272/9356201) — Lâm Lục Hồng từ Liên minh Phụ nữ Đài Loan chỉ ra rằng phụ nữ Đài Loan không phải không muốn sinh con, mà là không muốn bị ràng buộc bởi văn hóa hôn nhân cũng như các mối quan hệ mẹ chồng nàng dâu và thông gia.
 
-[^66]: [Thiên Hạ Tạp chí (chuyển lại BBC Trung Quốc): Quách Thị Nữ bàn hôn nhân](https://www.cw.com.tw/article/5134367) — Phỏng vấn 35 tuổi biên tập viên xuất bản độc lập Quách Thị Nữ, lục chọn "hôn nhân không lợi gì phụ nữ" từng lời tuyên bố chính xác.
+[^66]: [Commonwealth Magazine (trích dẫn BBC Trung văn): Quách Bội Dư bàn về hôn nhân](https://www.cw.com.tw/article/5134367) — Phỏng vấn chuyên sâu Quách Bội Dư, biên tập viên 35 tuổi của một nhà xuất bản độc lập, ghi lại nguyên văn tuyên bố "hôn nhân không mang lại chút lợi ích nào cho phụ nữ" của cô.
 
-[^67]: [Tương tự: Trần Tiên Sinh "sống một mình cũng tốt lắm"](https://www.cw.com.tw/article/5134367) — Phỏng vấn 33 tuổi địa phương công chức Trần Tiên Sinh, lục chọn quan điểm sống độc thân của anh.
+[^67]: [Như trên: Anh Trần "Sống một mình cũng rất tốt"](https://www.cw.com.tw/article/5134367) — Phỏng vấn chuyên sâu anh Trần, 33 tuổi, làm việc tại một đơn vị công quyền địa phương, ghi lại nguyên văn quan điểm của anh về cuộc sống độc thân.
 
-[^68]: [Tương tự: 2023 năm 35-39 tuổi độc thân tỷ lệ 47,6%](https://www.cw.com.tw/article/5134367) — Dẫn 2023 năm Đài Loan 35-39 tuổi độc thân tỷ lệ đạt 47,6% số liệu, tiền chứng không kết hôn không sinh thành gần nửa dân số cuộc sống bình thường.
+[^68]: [Như trên: Tỷ lệ chưa kết hôn ở độ tuổi 35-39 năm 2023 là 47,6%](https://www.cw.com.tw/article/5134367) — Trích dẫn dữ liệu cho thấy tỷ lệ chưa kết hôn ở độ tuổi 35-39 tại Đài Loan đạt 47,6% vào năm 2023, minh chứng cho việc không kết hôn đang trở thành trạng thái bình thường của gần một nửa dân số.
 
-[^73]: [Nghiên cứu có vật: Trịnh Diễn Hân "nuôi con phải trở thành cả làng, xã hội, quốc gia sự"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Lục chọn Trịnh Diễn Hân chủ trương nuôi con nên bởi toàn xã hội chịu trách nhiệm chung, chứ không phải thiên chức phụ nữ từng lời tuyên bố chính xác.
+[^73]: [Yan Zhi You Wu: Trịnh Nhạn Hinh "Nuôi dạy con cái cần là việc của cả làng xóm, xã hội và quốc gia"](https://research.sinica.edu.tw/low-fertility-rate-raise-children/) — Ghi lại nguyên văn quan điểm của Trịnh Nhạn Hinh cho rằng nuôi dạy trẻ em nên được toàn xã hội cùng gánh vác, thay vì là thiên chức của riêng phụ nữ.
 
-[^69]: [Phương Cách Tử (vocus): Dân số toàn giảm không bằng kinh tế suy](https://vocus.cc/article/68eb14c0fd897800016eb73e) — Bài bình luận, chủ trương phân biệt GDP toàn và GDP bình quân, dự báo tỷ lệ sinh thấp hơn năm 2055 trước có thể làm thu nhập bình quân tăng khoảng 10%.
+[^69]: [Vocus: Tổng dân số giảm không đồng nghĩa với suy thoái kinh tế](https://vocus.cc/article/68eb14c0fd897800016eb73e) — Bài viết bình luận đề xuất cần phân biệt giữa GDP tổng thể và GDP bình quân đầu người, ước tính tỷ lệ sinh thấp hơn có thể giúp thu nhập bình quân đầu người tăng khoảng 10% trước năm 2055.
 
-[^70]: [Kinweekly: Di cư là cách giải duy nhất khủng hoảng dân số](https://www.businesstoday.com.tw/article/category/183025/post/202601060043/) — Chuyên đề báo cáo chủ trương di cư là chìa khoá giải khủng hoảng dân số Đài Loan, so sánh dân số cư trú vĩnh viễn Đài Loan thấp tình huống.
+[^70]: [Next Magazine: Di cư là con đường duy nhất để giải cứu cuộc khủng hoảng dân số](https://www.businesstoday.com.tw/article/category/183025/post/202601060043/) — Báo cáo chuyên đề khẳng định di cư là lộ trình then chốt để giải quyết cuộc khủng hoảng dân số tại Đài Loan, đồng thời đối chiếu với thực trạng số lượng người có quyền cư trú vĩnh viễn tại Đài Loan đang ở mức thấp.
 
-[^71]: [Tương tự: Đài Loan cư trú vĩnh viễn chỉ khoảng 4 vạn](https://www.businesstoday.com.tw/article/category/183025/post/202601060043/) — Ghi chép Đài Loan cư trú vĩnh viễn người nước ngoài chỉ khoảng 4 vạn, chiếm dân số không tới 0,2%, so sánh Canada năm nhập khoảng 50 vạn, Nhật Bản visa đặc thù 6 năm 30 vạn.
+[^71]: [Như trên: Số người cư trú vĩnh viễn tại Đài Loan chỉ khoảng 40.000](https://www.businesstoday.com.tw/article/category/183025/post/202601060043/) — Ghi nhận số người nước ngoài có quyền cư trú vĩnh viễn tại Đài Loan chỉ khoảng 40.000, chiếm chưa đến 0,2% tổng dân số, đối chiếu với việc Canada thu hút khoảng 500.000 người mỗi năm và Nhật Bản thu hút 300.000 người qua chương trình kỹ năng đặc định trong 6 năm.
 
-[^72]: [Hãng Tin Trung Ương: Viện Quốc gia Phát triển chỉ AI tự động hoá có hy vọng thành giải pháp](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Viện Quốc gia Phát triển dự báo dân số giải thích bên trong, AI với tự động hoá có hy vọng trở thành giải pháp ứng phó thiếu hụt nhân lực, thể hiện chính sách ngôn ngữ chuyển hướng thích ứng.
+[^72]: [CNA: Hội đồng Phát triển Kinh tế chỉ ra tự động hóa AI có thể là giải pháp](https://www.cna.com.tw/news/ahel/202410170246.aspx) — Trong báo cáo dự báo dân số, Hội đồng Phát triển Kinh tế chỉ ra rằng AI và tự động hóa có triển vọng trở thành giải pháp ứng phó với tình trạng thiếu hụt lao động, cho thấy sự chuyển dịch trong ngôn ngữ chính sách.
