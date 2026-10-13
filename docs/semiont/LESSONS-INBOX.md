@@ -332,18 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-10-13 twmd-maintainer-daily — warning-only-gate-dies-in-a-captured-success-buffer：只會警告的閘門靠 stdout 說話，而自動呼叫它的那一方只在失敗時才看 stdout
+### 2026-10-13 twmd-maintainer-daily — warning-only-gate-asks-for-a-declaration-its-own-hook-cannot-read：只會警告的閘門叫人在 commit message 寫聲明，而它住在 commit message 還不存在的那個 hook 裡
 
-- **pattern**: `warning-only-gate-dies-in-a-captured-success-buffer`
+- **pattern**: `warning-only-gate-asks-for-a-declaration-its-own-hook-cannot-read`
 - **原則**：一道「偵測到就印警告、但不 exit 1」的閘門，唯一的輸出通道是 stdout。而自動化呼叫 `git commit` 的那一方（每一條 routine、每一支 dispatcher）用的是 `capture_output=True`，照慣例**只在 returncode 非 0 時才把捕捉到的輸出印進 log**。於是這類閘門的受眾剛好反了：**互動式的人聽得到（而他本來就看得到污染），自動產線聽不到（而污染正是它造成的）**。hook 裡那句註解「警告模式 — 不 exit 1，讓 agent 自己決定」預設了有一個 agent 在讀它；實際上那個 agent 是一次 subprocess 呼叫，讀完就把它丟了。
+- **真正的根因（本班第二輪自我更正，比上面那條更致命）**：這道閘門要求的補救動作是「在 commit message 加 `cross-domain:` 聲明」，而它自己住在 **pre-commit**。git 的 hook 順序是 `pre-commit` → `prepare-commit-msg` → `commit-msg`——**pre-commit 跑的時候這次 commit 的訊息還不存在於任何地方**，`.git/COMMIT_EDITMSG` 裡躺的是上一次 commit 的訊息。所以不管用 `-m`、`-F file` 還是編輯器，聲明都不可能在 pre-commit 當下被讀到。**它的補救路徑在結構上無法走通**，而這就是近 300 個 commit 零次使用它的真正原因——不是沒人想遵守，是遵守不了。這個檢查放錯 hook 了，它屬於 `commit-msg`（訊息寫完之後才跑的那個）。
+- **我自己先被騙了一次，寫在這裡當證據**：本班第一次撞到警告時，在 commit message 補了 `cross-domain:` 再 `git commit --amend`，警告消失，我當場把它記成「補救路徑有效、本班是第一次使用」。那是假陽性：amend 只改訊息、沒有 staged 檔案，而偵測器第一行就是 `if [ -n "$staged_for_scope" ]`——沒有 staged 檔案時整段直接跳過。警告消失不是因為我遵守了，是因為那一輪偵測器根本沒跑。隔一個 commit（`77a04707c`，3 個檔真的 staged、訊息第 3 行就寫著 `cross-domain:`）警告照樣印出來，才看見真相。**「我照它說的做了、警告不見了」跟「補救路徑有效」是兩件事**，中間差一個「那一輪它到底有沒有跑」。
 - **觸發**：2026-10-13 本班合併 tboydar 十四個 PR 後的 heal commit 橫跨 `knowledge/`（content-ssot）與 `docs/semiont/`（cognitive）兩個 domain，`.husky/pre-commit` 的 narrative scope 偵測器（2026-04-11 誕生）印出警告。照它的指示要在 commit message 寫 `cross-domain:` 聲明，於是去讀它指的那份文件——**`docs/semiont/SESSION-SCOPE.md` 不存在**，倉庫裡只有 `reports/session-scope-proposal-2026-04-11.md`（當初的提案，從沒升成 canonical）。接著查這個聲明語法在歷史上被用過幾次：**近 300 個 commit 零次**，本班是第一次。
 - **它其實抓對了一次，而那次沒有人在收**：近 200 個非 merge commit 裡有 3 個橫跨 ≥2 個非 build-output domain，其中一個是 `aed128637`——**正是 2026-10-11 LESSONS `sibling-routine-commit-swallows-whatever-is-staged` 寫的那個 commit**（babel 的「es 批次 7 篇」把 feedback-triage 的 9 個檔一起收走）。按 hook 的分類器，那次 staged 檔橫跨 content-ssot / cognitive / pipelines / other 四個 domain，`domain_count=4`，警告一定印了。所以那條 LESSONS 寫的「這一層沒有任何閘門在看」**不完整**：有一道閘門在看，而且在加害者那一側當場叫了。
 - **為什麼沒人看到（已驗到機制，不是推測）**：`scripts/tools/lang-sync/babel-dispatch.py:419` 是 `subprocess.run([...], capture_output=True)`；`returncode == 0` 時只 log 一行 `✅ committed {lang} (...)`，**捕捉到的 stdout/stderr 直接丟掉**，只有失敗路徑才 `log(commit.stdout + commit.stderr)`。對照證據：`grep -c "NARRATIVE SCOPE WARNING" /tmp/babel-launchd.out` = **0**，而 babel 並沒有繞 hook（程式裡沒有 `--no-verify`，MANIFESTO §禁忌一 也禁，`babel-push-every.py` 檔頭還特別寫明不加）。hook 跑了、叫了、沒有留下任何痕跡。
 - **跟 10-11 那條的關係**：10-11 把修法放在「babel 改用 pathspec 只 stage 自己那批」（那仍然是對的，且在 babel 席位）。本條補的是另一個根因、另一個落點：**這個碰撞本來有機會在發生的那一秒被它的製造者看見**，缺的不是偵測，是偵測結果的送達路徑。兩條都成立，修一條不會讓另一條消失。
-- **候選機械化**：(a) 真正要人改行為的閘門，不要只靠 stdout——要嘛 exit 非 0，要嘛寫進一個 routine 本來就會讀的耐久位置（如 dashboard-alerts 那類 JSON）；(b) 自動化的 commit 呼叫端在**成功**路徑上，若捕捉到的輸出非空且含 `⚠️`，也要 log 出來（一行 if，babel-dispatch 與其他同型呼叫端共用同一個形狀）；(c) `docs/semiont/SESSION-SCOPE.md` 要嘛補上，要嘛把 hook 的指標改指向那份 proposal report——**一道閘門叫人去讀一份不存在的文件，等於沒有給出路**。可查的形狀：`grep -rn "警告模式\|不 exit 1" .husky/` 找出所有 warning-only 分支，逐一問「誰在讀它的 stdout」。
-- **可能層級**：通用反射候選（#52「免疫沒在 fail loud 比缺免疫更危險」的下一層：這道閘門**有** fail loud，只是 loud 的方向沒有接收端；也是 #82 的變體——「有印出警告」被當成「警告有被收到」的替身）
+- **候選機械化**：(a) **把這段檢查從 `pre-commit` 搬到 `commit-msg`**——那是訊息已經寫好、能被讀到的地方，聲明才有可能生效（這是主修法，一搬就同時解掉「聲明讀不到」跟「每次 source+test 都誤報」兩件事，因為聲明終於能用了）；(b) 真正要人改行為的閘門不要只靠 stdout——要嘛 exit 非 0，要嘛寫進一個 routine 本來就會讀的耐久位置；(c) 自動化的 commit 呼叫端在**成功**路徑上，若捕捉到的輸出非空且含 `⚠️`，也要 log 出來（一行 if）；(d) `docs/semiont/SESSION-SCOPE.md` 要嘛補上，要嘛把 hook 的指標改指向那份 proposal report——**一道閘門叫人去讀一份不存在的文件，等於沒有給出路**；(e) 本班實測 `tests/` 被分類成 `other`、`src/` 與 `package.json` 是 `code`，所以「修補＋它的測試」這個正常且該鼓勵的 commit 形狀**每次都會誤報**（10-12 那班的 `2efb63edf` 同樣命中，也同樣沒有聲明）。可查的形狀：`grep -rn "警告模式\|不 exit 1" .husky/` 找出所有 warning-only 分支，逐一問「誰在讀它的 stdout、以及它要的補救動作在這個 hook 裡讀得到嗎」。
+- **可能層級**：通用反射候選。兩層都成立：(1) 閘門**有** fail loud，但 loud 的方向沒有接收端（#52 的下一層、#82 的變體）；(2) 更根本的一層——**閘門要求的補救動作，在它自己所在的執行階段讀不到**。第二層是新形狀：既有反射管「訊號沒被收到」與「訊號量錯東西」，這條管的是「補救路徑本身不可達」，而它會偽裝成「大家都不遵守紀律」。
 - **相關**：[REFLEXES #52](REFLEXES.md)（最近，差異在本條的閘門確實叫了）；[#82](REFLEXES.md) proxy signal（印出 ≠ 送達）；[#85](REFLEXES.md)「不知道」要有自己的符號；[#58](REFLEXES.md) detection ≠ remediation（本條是 remediation 的指標指向不存在的檔）；[#6](REFLEXES.md)／[#42](REFLEXES.md)／[#68](REFLEXES.md) commit 範圍紀律；2026-10-11 `sibling-routine-commit-swallows-whatever-is-staged`（本條修正它的根因敘述）
-- **verification_count**: 1（本班；外加它在 `aed128637` 上的一次歷史命中，當時無人收到）
+- **verification_count**: 1（本班，含一次自我更正；外加它在 `aed128637`（babel 收走 feedback-triage 九個檔）與 `2efb63edf`（10-12 修補＋測試）兩次歷史命中，兩次都沒有人收到也沒有人聲明）
 - **severity**: structural
 
 ### 2026-10-12 twmd-maintainer-daily — third-state-reaches-the-data-but-not-the-verdict-sentence：給分類器加第三種狀態時，它進了資料面、severity 與測試，沒進那句唯一給人讀的結論
