@@ -1,4 +1,5 @@
 import importlib.util
+import collections
 import re
 from pathlib import Path
 
@@ -718,5 +719,26 @@ def test_body_prompt_carries_bare_yuan_money_rule():
 
     zh_chunk = "## 補助\n\n每公頃最高兩萬元的補助，拍到石虎再加一萬元，長度要夠過比值下限。" * 3
     MODULE.translate_body_chunks([zh_chunk], "hi", Backend(), {}, {})
+
+    assert systems and "New Taiwan dollars" in systems[0]
+
+
+def test_footnote_prompt_carries_bare_yuan_money_rule():
+    """Phase N 腳註提示也要帶「裸的元＝新台幣」（2026-10-14：〈台灣少子化危機〉id
+    13 處裸 yuan 全落在腳註，正文零處——規則進了 Phase F／B，腳註這條路漏了）。"""
+    systems = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, system, user, **_kwargs):
+            systems.append(system)
+            return user  # 原樣回傳 JSON；只看提示有沒有帶到
+
+    defs = [{"n": "1", "title": "立法院：0-6 歲預算審查", "desc": "預算從 150 億元增至 1,400 億元", "url": "https://example.org"}]
+    try:
+        MODULE.translate_footnotes(defs, "id", Backend(), collections.defaultdict(int))
+    except Exception:  # 回傳內容不重要，驗的是送出去的提示
+        pass
 
     assert systems and "New Taiwan dollars" in systems[0]

@@ -84,3 +84,23 @@ def test_chapter_prompt_carries_bare_yuan_money_rule(tmp_path):
 
     assert systems and "New Taiwan dollars" in systems[0]
     assert "युआन" in systems[0]
+
+
+def test_footnote_chapter_prompt_carries_bare_yuan_money_rule(tmp_path):
+    """patch 的腳註章（參考資料區）提示也要帶 money_rule（2026-10-14）。"""
+    systems = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, system, user, **_kwargs):
+            systems.append(system)
+            return user
+
+    zh_chapter = "## 參考資料\n\n[^1]: [立法院：預算審查](https://example.org) — 預算從 150 億元增至 1,400 億元\n"
+    try:
+        MODULE.translate_footnote_chapter(zh_chapter, "id", Backend(), {}, tmp_path)
+    except Exception:
+        pass
+
+    assert systems and "New Taiwan dollars" in systems[0]

@@ -974,7 +974,11 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             "- 'desc': a short one-line description of what the source documents.\n"
             "- If 'title' is an empty string, the entry is a prose footnote: 'desc' IS "
             "the whole footnote — translate it in full, sentence by sentence (do not "
-            "summarize, do not drop anything), and return 'title' as an empty string."
+            "summarize, do not drop anything), and return 'title' as an empty string.\n"
+            # 2026-10-14 babel-nightly：〈台灣少子化危機〉id／ar／de／hi／ru 被幣別閘門
+            # 擋下，id 那份 13 處裸 yuan 全落在腳註行、正文零處——money_rule 進了
+            # Phase F 與 Phase B，腳註這條路漏了，73 條腳註的預算數字每次都重犯。
+            f"- {money_rule(lang_name)}"
         )
         user = json.dumps(payload, ensure_ascii=False)
         try:

@@ -349,6 +349,9 @@ def translate_footnote_chapter(zh_chapter_text: str, lang: str, backend, metrics
         "'desc' translated. Any token shaped like @@LINKn@@ inside 'desc' is a "
         "protected URL placeholder — keep it byte-for-byte unchanged, do not translate "
         "or remove it.\n"
+        # 2026-10-14：腳註章是預算數字最密的地方（〈台灣少子化危機〉id 13 處裸 yuan
+        # 全在腳註），一般章節提示有 money_rule，這條路之前沒有
+        f"{st.money_rule(lang_name)}\n"
         "No commentary, no markdown code fence — JSON only, nothing else."
     )
     user = json.dumps(payload, ensure_ascii=False)
