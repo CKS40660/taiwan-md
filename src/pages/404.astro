@@ -468,6 +468,59 @@ const categories = [
     // it (comments included); Astro's injection wrapper breaks on them.
     let page404Fired = false;
 
+    // ─── doubled language prefix rescue (2026-10-13) ───────
+    // 語言碼貼了兩次、中間沒有斜線：/en/people/x 變成 /enen/people/x。
+    // 10-11 單日 1,222 筆（前一日 389），其中 1,191 筆的 UA 是瀏覽器不是
+    // 爬蟲，所以落在死路上的是真的讀者。站上任何一層都沒有吐出這種連結
+    // （src / public / config 全庫零命中），壞的不是我們的連結。
+    //
+    // 為什麼不是用 301 名單解：這個 host 是 GitHub Pages（deploy-pages@v5，
+    // 回應帶 x-github-request-id），_redirects 在那裡不會被讀，meta-refresh
+    // stub 是唯一的原生導向路徑——而 stub 必須逐條預先產生。這一族的形狀是
+    // /{lang}{lang}/{任何文章路徑}，1,124 篇 × 12 語約 1.3 萬個可能網址，
+    // 逐條列舉等於每個新網址都要先讓一位讀者吃一次 404、再等監測器兩天後
+    // 看到它。同一支規則放在這裡，整族一次蓋完，包含還沒有人踩過的。
+    //
+    // 判準：第一段必須正好是某個註冊語言碼貼兩次（清單來自
+    // nonDefaultLangCodes，LANGUAGES_REGISTRY derive，所以新語言出生當天
+    // 就被蓋到，不是 hardcoded 清單），且後面還有路徑。修好的結果開頭是
+    // 單一語言碼，不會再命中這一支，所以不會打轉。
+    let dupLangTarget = null;
+    for (const code of nonDefaultLangCodes) {
+      const doubled = `/${code}${code}`;
+      if (pathname === doubled || pathname.startsWith(`${doubled}/`)) {
+        dupLangTarget =
+          `/${code}${pathname.slice(doubled.length)}` || `/${code}`;
+        break;
+      }
+    }
+
+    if (dupLangTarget) {
+      try {
+        if (
+          typeof window !== 'undefined' &&
+          typeof window.gtag === 'function'
+        ) {
+          window.gtag('event', 'page_404', {
+            failed_path: window.location.pathname,
+            failed_url: window.location.href,
+            referrer: document.referrer || '(direct)',
+            page_lang: document.documentElement.lang || 'unknown',
+            had_suggestion: true,
+          });
+        }
+      } catch (e) {
+        console.error('[404] page_404 tracking failed:', e);
+      }
+      page404Fired = true;
+
+      setTimeout(() => {
+        window.location.replace(
+          dupLangTarget + window.location.search + window.location.hash,
+        );
+      }, 150);
+    }
+
     // ─── mojibake rescue (2026-10-12) ──────────────────────
     // 外部 client 把我們的中文網址當 Latin-1 讀再編一次 UTF-8，於是
     // /nature/台灣黑熊 變成 /nature/%C3%A5%C2%8F%C2%B0... 這種形狀。
@@ -514,7 +567,10 @@ const categories = [
       mojibakeTarget = null;
     }
 
-    if (mojibakeTarget) {
+    // dupLang 已經排了導向就不再排第二個（兩種形狀實務上互斥：貼兩次的
+    // 路徑是純 ASCII，解碼後跟原值相同，走不到 mojibakeTarget；這道防線
+    // 是為了萬一哪天有人造出同時命中兩者的路徑）。
+    if (mojibakeTarget && !dupLangTarget) {
       try {
         if (
           typeof window !== 'undefined' &&
@@ -538,7 +594,7 @@ const categories = [
       }, 150);
     }
 
-    if (!mojibakeTarget && /\.md$/.test(pathname)) {
+    if (!dupLangTarget && !mojibakeTarget && /\.md$/.test(pathname)) {
       const mdPath = pathWithoutLang.replace(/\.md$/, '');
       const mdSegments = mdPath
         .replace(/^\//, '')
