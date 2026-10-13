@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
   whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: 'd96dbc4bb'
-sourceContentHash: 'sha256:22f624258f9ada15'
-sourceBodyHash: 'sha256:be7b46d45d345648'
-translatedAt: '2026-07-28T10:18:35.449788+00:00'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:a14a0e12438e6a6a'
+sourceBodyHash: 'sha256:de756e6e0a8c4c3b'
+translatedAt: '2026-10-13T03:30:05.591240+00:00'
 ---
 
 # El último canto de la isla: el 0.695 que ni el Año del Dragón pudo rescatar
@@ -73,29 +73,28 @@ Las cifras asustan, pero lo que más merece una pausa es ese −715 de 2024. Dem
 
 ---
 
-## No es no tener hijos: es no casarse
+## No es que no nazcan, es que no se casan
 
-Esta es la parte más contraintuitiva y, también, la que más suele explicarse mal.
+Esta es la parte más contraintuitiva y también la que más a menudo se explica mal de todo el asunto.
 
-Cuando se habla de baja natalidad, la cabeza de todo el mundo salta automáticamente a «los jóvenes no pueden mantener hijos» o «la vivienda es demasiado cara y no se atreven a tenerlos». Suena obvio. Pero Cheng Yen-hsin, del Instituto de Sociología de Academia Sinica, lleva décadas estudiando datos de fecundidad en Taiwán y su conclusión es esta: «La clave de la baja fecundidad no es necesariamente no tener hijos; más probablemente es que **aún no se han casado**»[^19].
+En cuanto se menciona la baja natalidad, a todos se les vienen a la cabeza «los jóvenes no pueden permitirse criar hijos» «la vivienda está tan cara que no se atreven a tener hijos». Suena de lo más lógico. Pero Cheng Yen-hsin, del Instituto de Sociología de la Academia Sinica, que lleva décadas estudiando los datos de fecundidad de Taiwán, concluye: «La clave de la baja tasa de fecundidad no es que no nazcan hijos, sino más bien que: aún no se han casado.»[^19]
 
-Su evidencia es sólida. En Taiwán, la mayoría de las parejas tiene hijos después de casarse; «incluso más de siete de cada diez llegan a dos o más hijos»[^20]. En otras palabras, una vez casada, la población taiwanesa no muestra una disposición tan baja a tener hijos. Lo que se hundió realmente es el denominador: hay menos personas que se casan. En 2024 hubo 123.061 matrimonios; en 2025 la cifra cayó a 104.376, un mínimo histórico[^21]. La tasa de soltería permanente entre los 45 y 49 años ya se acerca al 20%; se estima que hacia 2050 más del 30% de los hombres y más de una cuarta parte de las mujeres no se habrán casado nunca[^22].
+Sus pruebas son sólidas. En Taiwán, la mayoría de las parejas casadas terminan teniendo hijos, «incluso más del 70 % llega a tener dos o más»[^20]. En otras palabras, una vez casados, la disposición a tener hijos de los taiwaneses no es tan baja. Lo que realmente se desploma es el denominador: hay cada vez menos gente que se casa. En 2024 se registraron 123 061 matrimonios, y en 2025 cayeron a 104 376, un mínimo histórico[^21]. La tasa de soltería permanente en el grupo de 45 a 49 años ya roza el 20 %, y se estima que para 2050 superará el 30 % en hombres y el 25 % en mujeres[^22].
 
-¿Y qué pasa con «tener hijos sin casarse»? En muchos países europeos, los nacimientos fuera del matrimonio sostienen gran parte de la natalidad. Taiwán no es así. Las cifras de Cheng son tajantes: «En Taiwán, los nacimientos extramatrimoniales son solo 2-4%, y se han mantenido inamovibles durante décadas»[^23].
+¿Y lo de «tener hijos sin casarse»? En muchos países europeos, los nacimientos extramatrimoniales sostienen la mayor parte de los nacimientos. Pero Taiwán no es así. Las cifras de Cheng Yen-hsin: «En el caso de Taiwán, los nacimientos extramatrimoniales son apenas del 2-4 %, inamovibles desde hace décadas.»[^23]
 
 ```tw-stat
-Más de 70% | Parejas casadas que llegan a dos o más hijos | Cheng Yen-hsin
-2-4% | Proporción de nacimientos extramatrimoniales, estable durante décadas | Cheng Yen-hsin
-104.376 parejas | Matrimonios en 2025, mínimo histórico | Departamento de Registro de Hogares del Ministerio del Interior
+Más del 70 % | Parejas casadas que tienen dos o más hijos | Cheng Yen-hsin
+2-4 % | Proporción de nacimientos extramatrimoniales, inamovible desde hace décadas | Cheng Yen-hsin
+104 376 parejas | Matrimonios en 2025, mínimo histórico | Departamento de Registro de Hogares del Ministerio del Interior
+Fuente: Cheng Yen-hsin de la Academia Sinica (entrevista Research for You) + Estadísticas de matrimonios del Departamento de Registro de Hogares del Ministerio del Interior (reportado por Agencia Central de Noticias)[^20][^21][^23]
 ```
 
-Al superponer estos tres datos, emerge un mapa causal completamente distinto: la fecundidad taiwanesa está casi totalmente atada al matrimonio —los nacimientos extramatrimoniales son apenas 2-4%—, y el número de matrimonios se está derrumbando. Por eso la caída desde el nivel de reemplazo de 2.1 hasta menos de 1.1 fue impulsada **casi por completo por el descenso de la tasa de matrimonios**[^24]. Más que decir que la fecundidad fue aplastada por «no poder costear hijos», es más preciso decir que fue vaciada por «no casarse».
+Al poner estos tres números juntos, emerge un diagrama causal completamente distinto: la fecundidad en Taiwán está casi totalmente atada al matrimonio (los nacimientos extramatrimoniales son solo del 2-4 %), mientras que el número de personas que se casan se está desplomando. Así que, desde el nivel de reemplazo de 2,1 hasta caer por debajo de 1,1, este descenso **casi todo está impulsado por la caída de la nupcialidad**[^24]. Más que decir que la tasa de fecundidad fue aplastada por el «no poder permitírselo», es más exacto decir que fue drenada por el «no casarse».
 
-> 📝 **Nota curatorial:** La explicación habitual invierte la causalidad. El relato dominante es «presión económica → no atreverse a tener hijos → baja natalidad»; entonces la lógica de política pública se vuelve naturalmente «dar dinero para aliviar la presión → la gente se atreverá a tener hijos». Pero si el punto de quiebre real está en «no casarse», esa cadena causal está mal conectada desde el primer paso. Cheng Yen-hsin lo plantea con sobriedad: si el problema fuera «no poder asumir el costo», los subsidios quizá servirían; pero si la mayoría no se casa, «las políticas económicas no ayudan». Investigaciones del Chung-Hua Institution for Economic Research apuntan al mismo lugar: los altos precios de la vivienda y los bajos salarios no son la causa principal del no matrimonio; lo más decisivo es que «la mayoría de las personas solteras sí quiere casarse, pero tras ingresar al mercado laboral le resulta difícil conocer parejas aptas para el matrimonio»[^25]. En otras palabras, este problema no se resuelve repartiendo dinero. El dinero fue al eslabón equivocado.
+> 📝 **Nota del curador:** La explicación corriente invierte la causalidad. La narrativa dominante es «presión económica → no se atreven a tener hijos → baja natalidad», así que la lógica política se convierte naturalmente en «repartir dinero para aliviar la presión → todos se atreverán a tener hijos». Pero si el verdadero punto de quiebre es «no casarse», esta cadena causal está mal conectada desde el primer eslabón. Cheng Yen-hsin lo dice con frialdad: si el problema es «no poder costearlo», los subsidios quizá ayuden; pero si la mayoría es soltería, «la política económica no sirve de nada». La investigación del Instituto Chung-Hua de Investigación Económica apunta al mismo lugar: los precios altos de la vivienda y los salarios bajos no son la causa principal de la no nupcialidad, lo más clave es que «la mayoría de los solteros tienen intención de casarse, pero tras entrar al mercado laboral les cuesta conocer pareja adecuada»[^25]. En otras palabras, este problema no se resuelve repartiendo dinero. El dinero se está entregando en el eslabón equivocado.
 
-Y hay que tener cuidado con una trampa aún más profunda: convertir el no tener hijos en «egoísmo juvenil». Cuando las mujeres por primera vez tienen la capacidad de decir no a la expectativa de tener hijos, etiquetar esa decisión como egoísta no solo es injusto, sino que equivoca el blanco. Después de todo, la causa principal nunca fue que las personas casadas tuvieran menos hijos, sino que muchas ni siquiera entraron al matrimonio. Volveremos a esto más adelante.
-
----
+Además, hay que tener cuidado con una trampa más profunda: presentar la no natalidad como «los jóvenes son egoístas». Cuando las mujeres tienen por primera vez la capacidad de decir no a la «expectativa de que den a luz», etiquetar esa elección como egoísta no solo es injusto, sino que apunta al blanco equivocado. Al fin y al cabo, la causa principal desde el principio no está en que los casados tengan pocos hijos, sino en que ni siquiera entran en el matrimonio. Dejaremos este punto para más adelante.
 
 ## Repartir dinero a las personas equivocadas
 
@@ -164,31 +163,30 @@ Asimismo, conviene aclarar una versión antigua que se cita con frecuencia: much
 
 ---
 
-## El campo ya recorrió todo el camino
+## El campo ya recorrió este camino
 
-Volvamos a la Primaria Xinwei, aquella escuela con un patio sin alumnos nuevos de primer grado.
+Volvamos a esa escuela primaria Xinwei, cuyo patio no tenía alumnos de primer grado al inicio.
 
-Para quienes viven en la ciudad, «baja natalidad» suele sonar abstracto: el metro sigue lleno, las guarderías siguen teniendo listas de espera. Pero el campo taiwanés empezó a recibir esta carta hace cuarenta años; ahora apenas le toca a la ciudad abrirla. Si ampliamos la cámara a todo Taiwán: hay 512 escuelas primarias con menos de 50 estudiantes; 1.025 tienen menos de 100, el 38.4% de todas las primarias del país[^50]. El alumnado total de primaria, que era de 1,2 millones en el año escolar 113, se proyecta en apenas 689.000 para el año escolar 129: más de la mitad desaparecerá en quince años[^51].
+Para los urbanitas, la «baja natalidad» suele sonar abstracta: el metro sigue abarrotado, las guarderías siguen con listas de espera. Pero los pueblos de Taiwán llevan recibiendo esa carta desde hace cuarenta años; ahora solo le toca a la ciudad abrirla. Ampliemos el foco a toda la isla: hay 512 escuelas primarias con menos de 50 alumnos; 1,025 con menos de 100, lo que representa el 38,4 % de todas las primarias del país[^50]. El total de alumnos de primaria pasó de 1,2 millones en el año académico 113 a un estimado de 689 000 en el año 129: en quince años se evaporó más de la mitad[^51].
 
-En 2026, las primarias Xingtian, Xiaolin de Jiaxian y Jianshan de Taoyuan, todas en Kaohsiung, tuvieron apenas un estudiante nuevo de primer grado cada una[^52]; en toda la ciudad de Kaohsiung, 79 escuelas solo pudieron abrir una clase de primer grado. En Tainan, las sedes Toushe de Danei y Liuxi de Hedong también tuvieron un alumno nuevo cada una[^53]. En todo Taiwán ya hay 110 escuelas donde el número de estudiantes nuevos apenas alcanza para abrir una sola clase.
+En 2026, las primarias Xingtian, Xiaolin (en Jiaxian) y Jianshan (en Taoyuan) en Kaohsiung tuvieron cada una un solo alumno de primer grado[^52]; en las 79 escuelas de la ciudad, cada una solo pudo abrir una clase de primer grado. En Tainan, las sucursales de Danei Toushe y Liudong (en Hedong) también tuvieron un solo alumno de primer grado cada una[^53]. En toda la isla ya hay 110 escuelas donde los nuevos alumnos son tan pocos que solo se puede formar una clase.
 
 ```tw-stat
-512 escuelas | Primarias con menos de 50 estudiantes en toda la escuela | 2025
-1.025 escuelas | Primarias con menos de 100 estudiantes, 38.4% del total nacional | 2025
-689.000 | Proyección de alumnado total de primaria para el año escolar 129 | Frente a 1,2 millones en el año escolar 113
+512 escuelas | Primarias con menos de 50 alumnos en total | 2025
+1,025 escuelas | Menos de 100 alumnos en total, 38,4 % del país | 2025
+689 000 | Total estimado de alumnos de primaria (año 129) | Frente a 1,2 millones en el año 113
+Fuente: Estadísticas del Ministerio de Educación (informe de CNA)[^50][^51]
 ```
 
-Esta máquina del tiempo no se detendrá en la primaria. La baja natalidad es una ola que avanza hacia arriba por edades: primero vacía las salas de parto, luego las primarias, después las universidades, los cuarteles, los lugares de trabajo, los cuidados de larga duración y las pensiones, llegando puntualmente a cada estación.
+Esta máquina del tiempo no se detiene en la primaria. La baja natalidad es una ola que trepa por las edades: primero vacía las salas de parto, luego las primarias, después las universidades, los cuarteles, los lugares de trabajo, la atención a largo plazo, las pensiones; llega a cada estación puntualmente.
 
-Las **universidades** son las primeras golpeadas. El número de estudiantes de primer año cayó por debajo de 200.000 en el año escolar 114, y se proyecta que en el año escolar 129 quede en 146.000[^54]. El sindicato de universidades privadas estima que, cuando los nuevos estudiantes queden en apenas cincuenta o sesenta mil, bastarán para sostener unas 50 universidades privadas, lo que implica que alrededor de 40 instituciones enfrentarán procesos de cierre[^55]. (Hay que añadir honestamente que en 2025 el déficit de plazas universitarias fue, por el contrario, el más bajo de los últimos cinco años: solo 1.220 vacantes en 18 instituciones[^56]. El «abismo de estudiantes» de largo plazo es real, pero las cifras de corto plazo fluctúan por cierres y reducciones de cupos; no son tan lineales.)
+Las **universidades** son las primeras en recibir el golpe. Los estudiantes de primer año cayeron por debajo de 200 000 en el año académico 114, y se estima que para el año 129 solo quedarán 146 000[^54]. El sindicato de universidades privadas calcula que, cuando los nuevos alumnos sean solo 50 000 o 60 000, solo bastarán para sostener unas 50 universidades privadas, lo que significa que unas 40 tendrán que cerrar[^55]. (Hay que ser honrados: en 2025 el déficit de plazas en universidades marcó un mínimo de cinco años, con solo 18 centros faltando 1 220 estudiantes[^56]. El «acantilado de la natalidad» a largo plazo es real, pero las cifras a corto plazo fluctúan por cierres y recortes de plazas, no son tan lineales.)
 
-Los **cuarteles** también recibieron la carta. El número de varones en edad de servicio militar cayó por primera vez por debajo de 100.000 en 2023 —97.828—, y se proyecta en apenas 74.000 para 2031[^57]. La fecha de quiebra del **seguro laboral** se aplazó de 2028 a 2031 gracias a una inyección sin precedentes de 387.000 millones de dólares taiwaneses[^58]. La brecha de talento en el **mercado laboral**, según el Consejo Nacional de Desarrollo, pasará de 400.000 a 480.000 en 2030[^59]. Y en 2025 Taiwán ingresó oficialmente en una «sociedad superenvejecida»: la población de 65 años o más superó el 20.06%, con 4,67 millones de personas[^60].
+Los **cuarteles** también recibieron la carta. Los reclutas cayeron por primera vez por debajo de 100 000 en 2023 (97 828), y se estima que para 2031 solo quedarán 74 000[^57]. El año de quiebra del **seguro laboral** ya se retrasó de 2028 a 2031, gracias a una inyección sin precedentes de NT$387 000 millones para mantenerlo a flote[^58]. El déficit de talento en el **mercado laboral**, según el Consejo Nacional de Desarrollo, pasará de 400 000 a 480 000 para 2030[^59]. Y en 2025, Taiwán entró oficialmente en una «sociedad superenvejecida», con el 20,06 % de la población con 65 años o más, unos 4,67 millones de personas[^60].
 
-> 💡 **¿Sabías que…?** Hubo un punto de cruce silencioso en 2020: ese año, por primera vez, el número de perros y gatos en Taiwán superó al de niñas y niños de 0 a 14 años. En años recientes, perros y gatos suman unos 2,79 millones, todavía más que la población infantil de 0 a 14 años, alrededor de 2,68 millones[^61]. Que haya más mascotas que niños suena a comentario melancólico; en realidad, es una medida concreta de cómo una sociedad desplaza lentamente sus objetos de afecto, compañía y cuidado lejos de la siguiente generación.
+> 💡 **¿Sabías que:** hubo un punto de inflexión silencioso en 2020: ese año, la cantidad de perros y gatos en toda la isla superó por primera vez a la de niños de 0 a 14 años. En años recientes, hay unos 2,79 millones de mascotas, aún más que los 2,68 millones de niños de 0 a 14 años[^61]. «Hay más mascotas que niños» suena a lamento, pero es en realidad la medida concreta de una sociedad que traslada poco a poco sus afectos, compañía y cuidados de la siguiente generación a los animales.
 
-¿De dónde viene entonces la gente que falta? Una parte ya llegó de forma silenciosa. En abril de 2025, la población de trabajadoras y trabajadores migrantes en Taiwán alcanzó **830.000 personas**, un máximo histórico; solo las cuidadoras extranjeras que atienden a personas mayores taiwanesas suman 215.000[^62]. Además, hay unas 600.000 nuevas y nuevos residentes, que pronto serán el quinto grupo poblacional más grande de Taiwán[^63]. En otras palabras, mientras Taiwán tiene menos hijos, la fuerza laboral de otros países sostiene discretamente las fábricas y las camas de cuidados de larga duración de la isla. Es una válvula de alivio invisible, pero también una cuestión ética que aún no hemos enfrentado seriamente: dependemos de su juventud y su trabajo, pero rara vez discutimos con seriedad sus condiciones y su futuro.
-
----
+¿De dónde salen las personas que faltan? Una parte ya se ha colado silenciosamente. En abril de 2025, los trabajadores migrantes en Taiwán alcanzaron **830 000**, un récord histórico, de los cuales 215 000 son cuidadores extranjeros que atienden a los mayores taiwaneses[^62]. Además, hay unos 600 000 nuevos residentes, que pronto se convertirán en el quinto grupo étnico más grande de Taiwán[^63]. En otras palabras, mientras Taiwán tiene menos hijos, es la fuerza laboral de otros países la que sostiene en silencio las fábricas y las camas de cuidados de larga estancia de la isla. Es una válvula de escape invisible, y también un problema ético que aún no hemos afrontado en serio: dependemos de su juventud y fuerza, pero rara vez discutimos de verdad su situación y su futuro.
 
 ## ¿La crisis de quién?
 
