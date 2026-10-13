@@ -1213,14 +1213,16 @@ def chunk_body(body: str, max_chars: int = 6000) -> list[str]:
     return merged
 
 
-def _cjk_leak_hits(text: str, lang: str, tmp_dir: Path) -> list[str]:
+def _cjk_leak_hits(text: str, lang: str, tmp_dir: Path,
+                   source_text: Optional[str] = None) -> list[str]:
     """Reuse cjk-leak-check.py 的 scan_file（不重寫偵測邏輯）。寫到一個固定暫存檔
     （每次覆寫），path 含 knowledge/<lang>/ 讓它自己的 detect_lang 也答對，但這裡
     直接傳 lang= 顯式覆寫，不依賴路徑猜測。"""
     tmp_file = tmp_dir / "knowledge" / lang / "_chunk" / "chunk.md"
     tmp_file.parent.mkdir(parents=True, exist_ok=True)
     tmp_file.write_text(text, encoding="utf-8")
-    return cjkleak.scan_file(tmp_file, lang=lang)
+    # source_text：暫存檔沒有 frontmatter，書目區「照抄原稿」的豁免要靠呼叫端把 zh 原文帶進來
+    return cjkleak.scan_file(tmp_file, lang=lang, source_text=source_text)
 
 
 def _validate_chunk(zh_chunk: str, out: str, zh_refs: set, lang: str, tmp_dir: Path) -> list[str]:
@@ -1241,7 +1243,7 @@ def _validate_chunk(zh_chunk: str, out: str, zh_refs: set, lang: str, tmp_dir: P
     lo, hi = chunk_ratio_band(lang)
     if not (lo <= ratio <= hi):
         issues.append(f"ratio out of band [{lo},{hi}]: {ratio:.2f}")
-    hits = _cjk_leak_hits(out, lang, tmp_dir)
+    hits = _cjk_leak_hits(out, lang, tmp_dir, source_text=zh_chunk)
     if hits:
         issues.append(f"cjk leak: {hits[0]}")
     # 2026-07-25 production 首小時發現（張雨生 → hi 等 4 例 verify=1）：模型會

@@ -472,20 +472,31 @@ def detect_lang(path: Path) -> str:
 _SOURCE_RUN_RE = re.compile(r"[一-鿿　-〿＀-￯]{2,}")
 
 
-def _drop_source_verbatim(bib_raw: str, translation_text: str) -> str:
-    """把跟 zh 原稿逐字相同的漢字串從書目區拿掉（原稿本來就這樣寫的出處標題）。"""
-    m = re.search(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", translation_text, re.M)
-    if not m:
-        return bib_raw
-    src = REPO / "knowledge" / m.group(1).strip()
-    try:
-        zh_text = src.read_text(encoding="utf-8")
-    except OSError:
-        return bib_raw
+def _drop_source_verbatim(bib_raw: str, translation_text: str,
+                          source_text: Optional[str] = None) -> str:
+    """把跟 zh 原稿逐字相同的漢字串從書目區拿掉（原稿本來就這樣寫的出處標題）。
+
+    source_text：呼叫端手上已經有 zh 原文時直接給。2026-10-14 babel-nightly：
+    分段引擎 Phase B 逐塊驗證時寫的暫存檔沒有 frontmatter，查不到 translatedFrom，
+    這道豁免整個失效——〈台灣的公車系統〉圖片來源裡 Wikimedia 上傳者的帳號
+    「厦门金龙永远的神」原稿就是簡體，兩種模型照抄都被判書目區簡體殘留，hi 每次必敗，
+    而同一支檢查器對組好的整篇檔案會放行（REFLEXES #83 兩把尺）。"""
+    if source_text is not None:
+        zh_text = source_text
+    else:
+        m = re.search(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", translation_text, re.M)
+        if not m:
+            return bib_raw
+        src = REPO / "knowledge" / m.group(1).strip()
+        try:
+            zh_text = src.read_text(encoding="utf-8")
+        except OSError:
+            return bib_raw
     return _SOURCE_RUN_RE.sub(lambda r: "" if r.group(0) in zh_text else r.group(0), bib_raw)
 
 
-def scan_file(path: Path, lang: str = None, verbose: bool = False):
+def scan_file(path: Path, lang: str = None, verbose: bool = False,
+              source_text: Optional[str] = None):
     try:
         text = path.read_text(encoding="utf-8")
     except Exception as e:
@@ -539,7 +550,7 @@ def scan_file(path: Path, lang: str = None, verbose: bool = False):
     # 2026-09-26：原稿自己引的就是簡體來源時（〈許倬雲〉的「史学大师许倬云：身体残疾…
     # - 网易」），照抄是對的，改成正體反而是竄改出處標題。所以跟 zh 原稿逐字相同的
     # 漢字串先剝掉再檢查；原稿沒有、譯文才冒出來的簡體照擋。
-    bib_raw = _drop_source_verbatim(bib_raw, text)
+    bib_raw = _drop_source_verbatim(bib_raw, text, source_text)
     simplified = detect_simplified_residue(bib_raw, lang)
     if simplified:
         hits.append(f"書目區簡體殘留: {simplified}")

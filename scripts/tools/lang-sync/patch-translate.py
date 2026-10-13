@@ -390,7 +390,7 @@ def translate_footnote_chapter(zh_chapter_text: str, lang: str, backend, metrics
         assembled = "\n\n".join(parts)
 
         if assembled.strip():
-            hits = st._cjk_leak_hits(assembled, lang, tmp_dir)
+            hits = st._cjk_leak_hits(assembled, lang, tmp_dir, source_text=zh_chapter_text)
             if hits:
                 issues.append(f"cjk leak: {hits[0]}")
         zh_urls = Counter(MD_LINK_URL_RE.findall(zh_chapter_text))

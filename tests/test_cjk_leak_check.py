@@ -481,3 +481,24 @@ def test_simplified_source_title_quoted_verbatim_from_zh_is_allowed(tmp_path):
 def test_simplified_text_not_in_zh_source_is_still_caught(tmp_path):
     path = _bib_translation(tmp_path, "这是模型写出来的简体残留")
     assert [h for h in MODULE.scan_file(path, lang="ru") if "簡體" in h]
+
+
+def test_chunk_scan_honours_source_verbatim_when_source_text_given(tmp_path):
+    """2026-10-14：分段引擎逐塊驗證的暫存檔沒有 frontmatter，查不到 translatedFrom，
+    「照抄原稿的書目區漢字放行」整個失效。〈台灣的公車系統〉圖片來源的上傳者帳號
+    「厦门金龙永远的神」原稿就是簡體，照抄的 hi 塊每次都被判簡體殘留。"""
+    zh = ("## 圖片來源\n\n- [厦门金龙永远的神](https://commons.wikimedia.org/wiki/File:Taipei_bus_BYD_K9.jpg)"
+          " — 台北客運 BYD K9 電動公車，2026，CC BY 4.0\n")
+    hi = ("## चित्र स्रोत\n\n- [厦门金龙永远的神](https://commons.wikimedia.org/wiki/File:Taipei_bus_BYD_K9.jpg)"
+          " — ताइपे बस BYD K9 इलेक्ट्रिक बस, 2026, CC BY 4.0\n")
+    chunk = tmp_path / "knowledge" / "hi" / "_chunk" / "chunk.md"
+    chunk.parent.mkdir(parents=True)
+
+    chunk.write_text(hi, encoding="utf-8")
+    # 正控制：不給原文就是舊行為，尺量得到這個字
+    assert any("書目區簡體殘留" in h for h in MODULE.scan_file(chunk, lang="hi"))
+    # 給了原文：跟原稿逐字相同的帳號放行
+    assert MODULE.scan_file(chunk, lang="hi", source_text=zh) == []
+    # 原稿沒有、譯文才冒出來的簡體照擋
+    chunk.write_text(hi.replace("ताइपे बस", "台北巴士公司 这里"), encoding="utf-8")
+    assert any("'这'" in h for h in MODULE.scan_file(chunk, lang="hi", source_text=zh))
