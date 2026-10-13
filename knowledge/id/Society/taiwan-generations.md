@@ -35,10 +35,10 @@ rationale:
     - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
     - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '805200859'
-sourceContentHash: 'sha256:1b3e5e3f22f40ead'
-sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
-translatedAt: '2026-07-27T07:12:40+08:00'
+sourceCommitSha: '4ee896bcb'
+sourceContentHash: 'sha256:925c0f0fa8d0ba22'
+sourceBodyHash: 'sha256:e06cb9dbec5bce60'
+translatedAt: '2026-10-13T10:04:38.662579+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Orang Taiwan menggunakan label "generasi ke-N" berdasarkan puluhan tahun Minguo kelahiran: generasi kelima adalah Minguo 50–59 (1961–1970), berurutan hingga generasi kesembilan (2001–2010). "Generasi Stroberi" yang dikata selama tiga puluh tahun, saat pertama kali tercetak pada 1993, menargetkan generasi yang saat itu berusia dua puluhan, kini sudah lima puluhan, yaitu generasi kelima[^1]; kemudian label itu turun ke generasi ketujuh, kedelapan, kesembilan. Orang yang dikata berganti beberapa gelombang, labelnya tidak berubah satu hurupun. Yang benar-benar bergerak di antara kelima generasi adalah tangga berjalan "usaha pasti berbaloi" di bawah kaki: ia melambat sekitar 2002, gaji real dan produktivitas terputus kaitannya[^2]; pintu masuknya dinaikkan oleh harga rumah, rasio harga rumah terhadap pendapatan Taipei dari 6,4 kali (2004) naik jadi 15,41 kali (2025)[^3]; lalu belah jadi dua, jalur murni gaji hampir berhenti, jalur modal orang tua masih bergerak. Tulisan ini ingin membongkar label itu.
@@ -49,69 +49,72 @@ Itu seluruh generasi meng-like sebidang masa muda yang hanya mereka bisa masuk, 
 
 Ironisnya, kata yang paling gaduh diperdebatkan kelima generasi, tiga puluh tahun menunjuk objek yang berganti beberapa gelombang, tapi sendiri tidak berubah satu hurupun.
 
-## Satu Kata, Dikata Tiga Puluh Tahun, Ganti Tiga Gelombang Orang
+## Satu Istilah, Dimaki Tiga Puluh Tahun, Berganti Tiga Gelombang Orang
 
-Awal 1990-an, konsultan tempat kerja Weng Ching-yu (翁靜玉) menulis _Kisah Kantor_, tiga kata "Generasi Stroberi" pertama kali tercetak. Dia saat itu tidak mengata orang muda hari ini, melainkan batch yang baru masuk kantor, berusia dua puluhan, yaitu lahir 1960-an, kini lima puluhan, paling suka nostalgia di grup Facebook tentang Tatung Baby dan Yakult, yaitu generasi kelima[^1].
+Awal 1990-an, konsultan karir Weng Ching-yu menulis sebuah buku "Cerita di Kantor", tiga kata "Generasi Stroberi" pertama kali tercetak. Yang dia maki saat itu bukan orang muda hari ini, melainkan batch yang baru masuk kantor saat itu, berusia dua puluhan, yaitu generasi kelahiran 1960-an, hari ini berusia 50-an, yang paling suka merindukan Tatung Baby dan Yakult di grup-grup Facebook[^1].
 
-Entri Wikipedia mencatat garis migrasi ini dengan jelas: "Generasi Stroberi" paling awal merujuk orang Taiwan lahir 1960-an, yaitu generasi kelima. Kemudian pemahaman utama turun ke generasi ketujuh ke atas[^1]. Satu kata yang awalnya untuk mengata satu batch orang muda dua puluhan, tiga puluh tahun jadi istilah umum "siapa pun lebih muda dariku, yang aku tidak suka". Label tidak mendeskripsi suatu generasi, label mendeskripsi "muda" hal itu sendiri, dan muda adalah sasaran yang bergerak.
+Entri Wikipedia mencatat garis migrasi ini dengan jelas: "Generasi Stroberi" paling awal merujuk pada orang Taiwan kelahiran 1960-an, yang biasa disebut kelas lima (generasi 1950-an). Kemudian pemahaman utama terus bergeser ke bawah, merujuk luas pada orang muda kelas tujuh (generasi 1970-an) dan seterusnya[^1]. Sebuah istilah yang semula dipakai untuk maki batch tertentu orang muda berusia dua puluhan, tiga puluh tahun kemudian jadi nama umum untuk "siapa pun yang lebih muda dariku, yang tidak kusukai". Label itu tidak mendeskripsikan suatu generasi, label itu mendeskripsikan "muda" itu sendiri, dan muda adalah sasaran yang bergerak.
 
-Jejak pergerakan sasaran ini, hampir bisa dibaca sebagai sejarah generasi Taiwan singkat. 1993 mengata generasi kelima. 2000-an menempel ke generasi ketujuh. 2008 "Gerakan Stroberi Liar", mahasiswa generasi ketujuh yang dikata justru mengklaim balik kata itu jadi nama gerakan[^5]. 2012, _Global Views Monthly_ dengan Yahoo, Wretch menggelar survei "Muda Baru Sembilan Suku", 1.129 orang muda 20–35 tahun voting "Label paling ingin dibersihkan nama baiknya", Generasi Stroberi 16,5% juara, kedua "Generasi Ngontrak Orang Tua", ketiga "Generasi Menunduk"[^6]. 2020-an, topi itu turun lagi ke Gen Z, generasi kesembilan.
+Jejak pergerakan sasaran ini, hampir bisa dibaca sebagai ringkasan sejarah generasi Taiwan. 1993 maki kelas lima. 2000-an label utama menempel di kepala kelas tujuh. 2008 saat "Gerakan Stroberi Liar", mahasiswa kelas tujuh yang dimaki justru membalikkan situasi dengan mengakui istilah ini kembali sebagai nama gerakan[^5]. 2012, Majalah Global Views bersama Yahoo dan Wretch menggelar survei "Sembilan Suku Baru", 1.129 orang muda berusia 20–35 tahun memilih "label paling ingin dibersihkan nama baiknya", Generasi Stroberi menduduki peringkat pertama dengan 16,5%, peringkat kedua kelompok menumpang orang tua, peringkat ketiga kelompok menunduk[^6]. Hingga 2020-an, topi ini lagi turun ke kepala Generasi Z, kelas sembilan (generasi 1990-an).
 
 ```tw-timeline
-1993 | "Generasi Stroberi" pertama kali tercetak | Weng Ching-yu *Kisah Kantor*, merujuk saat itu dua puluhan, kini lima puluhan generasi kelima
-2008 | Orang yang dikata balik mengklaim | Mahasiswa generasi ketujuh "Gerakan Stroberi Liar" jadikan kata hina jadi nama gerakan
-2012 | Label paling ingin dibersihkan juara | *Global Views*×Yahoo×Wretch survei 1.129 suara, Generasi Stroberi 16,5% juara
-2020s | Topi turun ke Gen Z | Sama kata itu ditumpulkan ke generasi kesembilan, isi tidak berubah
+1993 | "Generasi Stroberi" pertama kali tercetak | Weng Ching-yu "Cerita di Kantor", merujuk batch saat itu berusia 20-an, hari ini 50-an kelas lima
+2008 | Orang yang dimaki justru mengakui | Mahasiswa kelas tujuh "Gerakan Stroberi Liar" jadikan kata hina ini nama gerakan
+2012 | Label paling ingin dibersihkan nama baiknya peringkat pertama | Survei Global Views×Yahoo×Wretch 1.129 suara, Generasi Stroberi 16,5% juara
+2020an | Topi turun ke Generasi Z | Sama kata itu diletakkan di kepala kelas sembilan, isi tak berubah
+Sumber: Entri Wikipedia "Generasi Stroberi" + catatan Gerakan Stroberi Liar + survei "Sembilan Suku Baru" Global Views/Yahoo/Wretch (liputan ETtoday)[^1][^5][^6]
 ```
 
-Lagi pula kata ini di hukum juga berdiri. Pengadilan Tinggi Taiwan dalam satu gugatan menilai, "Generasi Stroberi" merujuk "orang muda tidak punya pengalaman tidak tahan pukulan", termasuk kata penghinaan[^1]. Artinya, ini kata yang pengadilan tetapkan sebagai merendahkan, tapi tiga puluh tahun dipakai generasi atas sebagai alat paling enak menilai generasi bawah, diturunkan terus.
+Lebih dari itu, istilah ini di sisi hukum juga bertahan. Pengadilan Tinggi Taiwan dalam sebuah gugatan menilai, "Generasi Stroberi" merujuk pada "orang muda tidak berpengalaman tidak tahan menghadapi kegagalan", termasuk kata penghina[^1]. Artinya, ini adalah kata yang ditetapkan pengadilan sebagai merendahkan martabat, namun selama tiga puluh tahun, digunakan generasi atas sebagai alat paling enak untuk menilai generasi bawah, diteruskan berulang kali.
 
-Lempar bola balik: Setiap orang yang sekarang ingin bilang "Orang muda sekarang kan Generasi Stroberi", harus ingat kata ini paling awal mengata, kemungkinan besar diriku sendiri.
+Kembalikan bolanya: setiap orang yang sekarang ingin berkata "orang muda sekarang memang Generasi Stroberi", seharusnya ingat, yang pertama dimaki oleh kata ini, kemungkinan besar adalah dirinya sendiri.
 
-## Tidak Ada Masa Kecil Bersama: Dari Toko Kelontong ke TikTok
+## Tidak Ada Kenangan Masa Kecil yang Sama: Dari Toko Kelontong ke TikTok
 
-Antar generasi kalau benar ada dinding, dinding itu dibangun dari masa kecil. Buka masa kecil kelima generasi, kamu temukan satu hal sunyi: mereka hampir tidak punya satu pun yang diingat bersama.
+Jika benar-benar ada dinding di antara generasi, dinding itu dibangun dari kenangan masa kecil. Jika masa kecil kelima generasi dibuka dan dibandingkan, Anda akan menemukan satu hal yang diam-diam: mereka hampir tidak memiliki satu pun kenangan bersama.
 
-Masa kecil generasi kelima, keenam di toko kelontong. Tatung Baby 1969 rilis, beli full sepuluh ribu peralatan listrik baru dapat satu, boneka merah kecil itu di ruang tamu, adalah bukti satu keluarga dari buruh naik kelas menengah[^7]. Yakult 1964 di Taiwan pabrik, satu botol dua dolar, diantar rumah-rumah oleh "Ibu Yakult" bawa kotak pendingin[^8]. Pulang sekolah ada Prince Noodle, Science Noodle, kelereng, kancing. Buka TV, _Cloud Scholar Hero_ (雲州大儒俠) Huang Chun-hsiung (黃俊雄) 1970 di TTV tayang, Shi Yan-wen (史豔文) satu lawan 583 episode, rekor rating 97%, merah sampai 1974 dilarang alasan "mengganggu istirahat petani"[^9].
+Masa kecil generasi kelima dan keenam berada di toko kelontong. Tatung Baby yang diluncurkan pada 1969, saat itu dibutuhkan pembelian alat elektronik senilai NT$10.000 untuk mendapatkannya, boneka kecil berkaos merah itu diletakkan di ruang tamu, menjadi bukti identitas sebuah keluarga yang naik dari buruh ke kelas menengah[^7]. Yakult mendirikan pabrik di Taiwan pada 1964, satu botol NT$2, dikirim ke setiap rumah oleh "Ibu Yakult" yang menggendong kotak pendingin[^8]. Di jalan pulang sekolah ada Prince Noodles, Science Noodles, wangzi biao, dan kelereng. Menyalakan TV, drama wayang potehi Huang Junxiong "Yunzhou Dayuxia" tayang di TTV pada 1970, Shi Yanwen bertarung selama 583 episode, mencatat rating 97%, begitu populer hingga 1974 dilarang tayang dengan alasan "mengganggu istirahat kerja pertanian"[^9].
 
-![Lima botol plastik kecil Yakult berderet, kemasan merah putih Yakult minuman asam laktat khas kulkas keluarga Taiwan](/article-images/society/yakult-bottles.webp)
-_Botol Yakult isi lima, minuman ikonik toko kelontong generasi kelima, keenam. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![Lima botol Yakult kemasan plastik kecil berjajar, Yakult kemasan merah putih adalah minuman lactobacillus yang biasa ditemukan di kulkas keluarga Taiwan](/article-images/society/yakult-bottles.webp)
+_Yakult kemasan 5 botol, minuman ikonik toko kelontong dan warung generasi kelima dan keenam. Foto: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-Masa kecil generasi kelima, keenam | Masa kecil generasi kesembilan
-Kelereng, kancing toko kelontong | Dcard, Xiaohongshu di HP
-Tatung Baby, Ibu Yakult | IG Story, TikTok pendek
-*Cloud Scholar Hero* rating 97% | Scroll tak terbatas yang diumpankan algoritma
-Satu jalan nonton satu drama | Satu orang slide satu video yang hanya dikasih dia
+Masa kecil generasi kelima & keenam | Masa kecil generasi kesembilan
+wangzi biao & kelereng di toko kelontong | Dcard & Xiaohongshu di HP
+Tatung Baby, Ibu Yakult | IG Stories, video pendek TikTok
+Wayang potehi Huang Junxiong rating 97% | Gulir tak terbatas yang disuapi algoritma
+Seluruh jalan menonton drama yang sama | Satu orang menonton video yang hanya disajikan untuk dirinya
+Sumber: Sejarah & liputan Tatung Baby, Yakult, dan "Yunzhou Dayuxia" (termasuk tayang TTV 1970, rating 97%, & dilarang)[^7][^8][^9]
 ```
 
-Masa muda generasi ketujuh ganti antarmuka. Pager (BB Call) 1999 puncak, seluruh Taiwan empat juta lebih rumah[^10], pacaran pakai angka kirim perasaan, 520, 1314 di layar kecil berkedip. Setelah online, suara "ding-dong" Yahoo Messenger, "login-login-login" MSN, blog dan album Wretch, bikin satu set kode rahasia hanya mereka paham[^4]. 1997 Tamagotchi masuk Taiwan, di toko besar Kaohsiung dirampok sampai satu dibanderol seribu lima ratus, siswa kelas urus makan hewan elektronik, sampai menteri pendidikan saat itu setengah bercanda bilang, mungkin sekolah bikin "kandang ayam" bareng[^11].
+Masa muda generasi ketujuh berganti antarmuka. Pager (BB Call) puncak penggunaannya pada 1999, lebih dari 4 juta rumah tangga di seluruh Taiwan[^10], pasangan mengirimkan perasaan lewat angka, 520, 1314 berkedip di layar kecil. Setelah online, suara "ding dong" Yahoo! Messenger, "tut tut tut" MSN online, blog dan album Wretch, membentuk satu set kode rahasia yang hanya mereka pahami[^4]. Tamagotchi hadir di Taiwan pada 1997, di toko departemen Kaohsiung diserbu hingga satu unit dijual kembali sampai NT$1.500, siswa di kelas sibuk merawat hewan peliharaan elektronik, bahkan Menteri Pendidikan saat itu setengah bercanda berkata, mungkin sekolah bisa menyediakan "kandang ayam" untuk merawatnya bersama[^11].
 
-![Satu pager 1990-an biru angka, bodi logam layar kecil tampil angka, alat kontak era BB Call](/article-images/society/bb-call-pager.webp)
-_Pager angka 1990-an (BB Call), alat generasi ketujuh kirim "520" "1314". Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![Pager digital biru era 1990-an, bodi logam layar kecil menampilkan angka, alat komunikasi pribadi era BB Call](/article-images/society/bb-call-pager.webp)
+_Pager digital era 1990-an (BB Call), alat komunikasi generasi ketujuh untuk kirim "520" "1314". Foto: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-Generasi kedelapan, panggungnya PTT dan Facebook. 2009 _Happy Farm_, seluruh Taiwan tanya "Hari ini kamu curang panen tidak". Generasi kesembilan tenggelam di algoritma: IG, TikTok, Xiaohongshu, Dcard. Yang berganti bukan cuma platform, cara nonton sendiri berubah: generasi kelima, satu jalan malam nonton _Cloud Scholar Hero_ bersama. Generasi kesembilan, satu orang slide video yang algoritma hanya kasih dia seorang.
+Sampai generasi kedelapan, panggungnya adalah PTT dan Facebook. Happy Farm 2009, seluruh Taiwan bertanya "Hari ini kamu curi sayur belum?". Generasi kesembilan seluruhnya tenggelam di algoritma: IG, TikTok, Xiaohongshu, Dcard. Yang berubah tidak hanya platform, cara menonton itu sendiri pun berubah: generasi kelima, orang-orang di satu jalan menonton "Yunzhou Dayuxia" yang sama di malam hari. Generasi kesembilan ini, sendirian menggeser layar menonton video pendek yang hanya disajikan algoritma untuk dirinya sendiri.
 
 > 📝 **Catatan Kurator**
-> Kita bias pakai "perbedaan nilai" jelasin kesenjangan generasi: atas suka berjuang, bawah suka nge-dud. Tapi yang lebih dekat kenyataan, mungkin hal lebih fisik: mereka tidak pernah nonton layar yang sama. Memori kolektif butuh premis "kolektif", dan dari toko kelontong ke algoritma terpecah empat puluh tahun, media Taiwan dari "sepedesaan nempel satu TV" pecah jadi "tiap orang satu HP yang hanya kasih dia sendiri". Ujung-ujungnya, mereka tidak dibesarkan di ruang yang sama. Nostalgia jadi tiap orang nostalgia sendiri: kamu like server itu, orang lain tidak bisa masuk.
+> Kita terbiasa menggunakan "perbedaan nilai" untuk menjelaskan kesenjangan generasi: generasi atas suka berjuang, generasi bawah suka "lying flat". Tapi yang lebih dekat dengan kebenaran, mungkin adalah sesuatu yang lebih fisik: mereka tidak pernah menonton layar yang sama bersama-sama. Kenangan kolektif memerlukan prasyarat "kolektif", dan dalam empat puluh tahun dari toko kelontong ke algoritma terfragmentasi, media Taiwan telah pecah dari "seluruh desa mengelilingi satu TV" menjadi "setiap orang punya HP yang hanya menampilkan konten untuk dirinya sendiri". Pada akhirnya, mereka tumbuh dewasa di ruangan yang sama sekali berbeda. Nostalgia pun jadi masing-masing: server yang kamu like, orang lain tidak bisa akses.
 
-Ini juga kenapa nostalgia di Taiwan begitu laris, tapi begitu terpecah. 2018 survei camilan nostalgia kumpul 1.523 kuesioner, partisipasi paling banyak generasi ketujuh, 38,2%; terpilih atas, permen kaleng, Morinaga Milk Candy, Prince Noodle, Science Noodle, Seven Seven Milk, tiap item presisi cocok jalan pulang sekolah suatu generasi[^12].
+Inilah mengapa nostalgia di Taiwan begitu memiliki pasar, namun begitu terfragmentasi. Survei camilan nostalgia 2018 mengumpulkan 1.523 kuesioner, partisipan terbanyak justru dari generasi ketujuh, mencapai 38,2%; yang terpilih di peringkat atas, permen buah kaleng, permen susu Morinaga, Prince Noodles, Science Noodles, QQ Niujia, masing-masing tepat sasaran mengingat jalan pulang sekolah suatu generasi[^12].
 
-## Tiap Generasi Adalah Tikus Putih Orang Lain
+## Setiap Generasi Adalah Tikus Percobaan Orang Lain
 
-Kalau masa kecil tiap orang sendiri, ada satu hal kelima generasi tidak lari: tiap generasi jadi tikus putih pertama suatu reformasi sistem.
+Jika masa kanak-kanak dialami masing-masing, maka ada satu hal yang tidak terhindarkan oleh kelima generasi: setiap generasi dijadikan tikus percobaan pertama bagi suatu reformasi sistem.
 
-Sistem naik kelas hampir sepuluh tahun sekali ganti. Generasi kelima, keenam jalan Ujian Gabungan (聯考), SMA gabungan 1958–2000, Ujian Masuk Universitas gabungan sampai 2001, satu ujian tentukan hidup mati. Generasi ketujuh dapat tiga reformasi pendidikan: 1996 SD mulai "Matematika Konstruktif", suruh anak paham cara baru belajar hitung, peneliti nanti statistik, eksperimen ini bikin hampir 1,8 juta siswa SD jadi tikus putih[^13]; 2001 Kurikulum Sembilan Tahun jalan, Ujian Nasional SMP ganti gabungan, buku dari "Satu Kurikulum Satu Buku" jadi "Satu Kurikulum Banyak Buku". Generasi kedelapan dapat 2014 Dua Belas Tahun Pendidikan Wajib dan Ujian Akademik, generasi kesembilan dapat 2019 Kurikulum 108 jalan. Tidak ada generasi pakai aturan sama generasi sebelumnya.
+Sistem pendidikan hampir berubah setiap sepuluh tahun. Generasi Kelima dan Keenam melewati Ujian Masuk Bersama (聯考); penerimaan SMA bersama berlangsung dari 1958 hingga 2000, ujian masuk perguruan tinggi bersama hingga 2001 — satu ujian menentukan nasib. Generasi Ketujuh menghadapi tiga reformasi pendidikan berturut-turut: sejak 1996 SD menerapkan "Matematika Konstruktif", mewajibkan anak-anak belajar aritmatika ulang dengan cara pemahaman; para sarjana kemudian menghitung, eksperimen ini membuat hampir 1,8 juta siswa SD menjadi tikus percobaan[^13]; 2001 Kurikulum 9 Tahun Terpadu diluncurkan, Ujian Dasar SMP menggantikan Ujian Masuk Bersama, buku pelajaran berubah dari "Satu Kurikulum Satu Buku" menjadi "Satu Kurikulum Banyak Buku". Generasi Kedelapan menghadapi Pendidikan Wajib 12 Tahun dan Ujian Masuk 2014, Generasi Kesembilan则是 Kurikulum 108 yang berlaku 2019. Tidak ada satu generasi pun yang menggunakan aturan yang sama dengan generasi sebelumnya.
 
-Wajib militer juga garis bergerak, dan arah gerakannya aneh. Awalnya prajurit dua, tiga tahun, lalu terus pendek, sampai akhir 2013, Minguo 83 (1994) kelahiran prajurit cuma 4 bulan latihan militer[^14]. Nampak garis turun, tiba-tiba naik lagi. Dalam Negeri atur, Minguo 94 (2005) 1 Januari kelahiran prajurit, kembali wajib militer satu tahun[^14]. Artinya, generasi kesembilan 2005 kelahiran, militer lebih lama delapan bulan dari senior generasi kedelapan cuma 4 bulan latihan, ini pertama kali tujuh puluh tahun wajib militer "diperpanjang".
+Wajib militer juga adalah garis yang bergerak, dan arah pergerakannya sangat tidak biasa. Awalnya pria wajib militer melayani dua hingga tiga tahun, kemudian terus diperpendek, hingga akhir 2013, pria wajib militer lahir tahun 1994 (Minguo 83) dan setelahnya hanya perlu menjalani 4 bulan latihan militer[^14]. Awalnya terlihat seperti lereng menurun yang terus memendek, tidak sangka malah naik lagi. Kementerian Dalam Negeri menetapkan, pria wajib militer lahir 1 Januari 2005 (Minguo 94) dan setelahnya, kembali wajib menjalani pramiliter satu tahun[^14]. Dengan kata lain, Generasi Kesembilan yang lahir setelah 2005, menjalani wajib militer delapan bulan lebih lama dibandingkan senior Generasi Kedelapan yang hanya menjalani empat bulan latihan militer — ini adalah pertama kalinya dalam 70 tahun wajib militer "diperpanjang".
 
 ```tw-stat
-427.212 orang | Puncak kelahiran generasi kelima (1963) | Puncak baby boom
-166.886 orang | Lembah kelahiran generasi kesembilan (2010) | Kurang empat puluh persen puncak generasi kelima
-4 bulan → 1 tahun | Wajib militer dari lembah naik | Minguo 83–93 (1994–2004 lahir) 4 bulan, Minguo 94 (2005 lahir) mulai kembali 1 tahun
+427.212 orang | Angka kelahiran puncak Generasi Kelima (1963) | Puncak Baby Boom
+166.886 orang | Angka kelahiran lembah Generasi Kesembilan (2010) | Kurang dari empat puluh persen puncak Generasi Kelima
+4 bulan → 1 tahun | Wajib militer naik dari lembah | Angkatan 1994–2004 (Minguo 83–93) menjalani 4 bulan, angkatan 2005 (Minguo 94) mulai kembali 1 tahun
+Sumber: Statistik Kelahiran Tahunan Direktorat Kependudukan Kementerian Dalam Negeri (1963: 427.212, 2010: 166.886) + Penjelasan Masa Wajib Militer Kementerian Dalam Negeri[^14][^24]
 ```
 
-Tumpang beberapa garis sistem ini, keluar pertanyaan lebih tajam: Tiap reformasi, teori buat generasi berikut lebih pintar, pertahanan lebih kuat. Tapi dari posisi yang direformasi, rasanya lebih kayak: Eksperimen yang desain generasi atas, ditanggung generasi bawah. Dan yang desain, kebanyakan tidak perlu jadi tikus putih sendiri.
+Melihat beberapa garis sistem ini tumpang tindih, muncul pertanyaan yang lebih tajam: setiap reformasi, secara teori adalah untuk mendidik generasi mendatang lebih baik, menjaga pertahanan lebih stabil. Namun dari posisi yang direformasi, perasaannya lebih seperti: eksperimen yang dirancang generasi atas, ditanggung konsekuensinya oleh generasi bawah. Sementara perancang eksperimen, kebanyakan tidak perlu menjadi tikus percobaan sendiri.
 
 ## Tangga Berjalan Yang Melambat
 

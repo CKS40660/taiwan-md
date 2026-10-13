@@ -28,15 +28,19 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary: ['2026-06-25-203919-manual-mirror']
 sporeLinks:
-  [
-    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
-    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
-  ]
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:7704f0ba39f9bad2'
-sourceBodyHash: 'sha256:953746868edc36a0'
-translatedAt: '2026-09-08T03:50:08.638096+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:0128d89b548611d1'
+sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
+translatedAt: '2026-10-13T09:31:38.668967+00:00'
 ---
 
 # Mini Taiwan Pulse: Menggambar Taiwan sebagai Peta yang Bernapas dengan Mata Seorang Kurator
@@ -53,38 +57,39 @@ Kalimat itu mungkin terdengar biasa saja. Namun, kelak ia menjadi benih bagi seb
 
 Artikel ini mengisahkan bagaimana seseorang beranjak dari kepolosan menyeret sebuah CSV menuju kesediaan membiarkan sistem tumbuh untuknya.
 
-## Bagaimana GitHub milik satu orang tumbuh menjadi sebuah galaksi
+## Satu Akun GitHub, Bagaimana Bisa Tumbuh Menjadi Sebuah Galaksi
 
-Jika hanya melihat mini-taiwan-pulse, mudah untuk membayangkan Migu sebagai insinyur amatir yang sekadar mencoba-coba: pada akhir pekan ia mendapat inspirasi, membuat sebuah demo, lalu kebetulan menjadi populer.
+Jika hanya melihat proyek `mini-taiwan-pulse` ini saja, orang akan mudah menganggap Migu sebagai insinyur amatir yang sekadar iseng: tiba-tiba bersemangat di akhir pekan, membuat sebuah demo, dan kebetulan menjadi viral.
 
-Ada dua kekeliruan dalam bayangan tersebut.
+Asumsi ini salah dalam dua hal.
 
-Pertama, yang ia buat jauh lebih banyak daripada satu proyek. Buka GitHub miliknya dan Anda akan menemukan deretan padat visualisasi data terbuka Taiwan sejak Desember 2025: mula-mula sebuah PoC jangkauan bus untuk menguji gagasan; kemudian, pada akhir Desember, proyek pembelajaran bernama `mini-taiwan-learning-project` lebih dahulu populer dan kini mengumpulkan 189 bintang. Pada Februari, ia membuat titik waktu nyata AIS kapal dan `flight-arc-graph` (56 bintang), yang menggambar setiap proses lepas landas dan pendaratan sebagai garis lengkung. Mini-taiwan-pulse baru menyusul pada akhir Februari, kemudian atlas Taiwan Railways, orbit satelit, rekaman langsung CCTV, serta dasbor situasi `mini-taiwan-info` yang menghimpun seluruh data—dan pengembangan terus berlanjut hingga Juni[^2]. Lebih dari sepuluh repositori saling terhubung menjadi satu gugus yang ia namai galaksi “Mini Taiwan”.
+Pertama, apa yang dia buat jauh lebih banyak dari satu proyek. Jika Anda membuka GitHub miliknya, setelah Desember 2025, repositorinya dipenuhi dengan visualisasi data terbuka Taiwan: awalnya adalah PoC cakupan bus untuk uji coba, kemudian pada akhir Desember sebuah proyek pembelajaran bernama `mini-taiwan-learning-project` menjadi viral lebih dulu, dan kini telah mencapai 189 bintang. Pada bulan Februari, dia membuat titik lokasi real-time AIS kapal, serta `flight-arc-graph` (56 bintang) yang menggambar setiap segmen lepas landas dan pendaratan penerbangan sebagai busur. Baru pada akhir Februari proyek `mini-taiwan-pulse` muncul, diikuti oleh atlas TRA (Taiwan Railways Administration), orbit satelit, CCTV gambar real-time, hingga dasbor situasi `mini-taiwan-info` yang merangkum seluruh data⋯⋯ terus berlanjut hingga bulan Juni[^2]. Belasan repositori saling terhubung membentuk satu kesatuan, yang dia beri nama galaksi "Mini Taiwan".
 
-![Dasbor situasi Mini Taiwan Info menghimpun data terbuka bertema populasi, transportasi rel, pelayaran, sumber daya air, pemadam kebakaran, layanan kesehatan, dan lainnya menjadi panel pemantauan dengan satu tema per halaman](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![Dasbor situasi Mini Taiwan Info, yang merangkum berbagai tema data terbuka seperti populasi, transportasi rel, pelayaran, sumber daya air, pemadam kebakaran, medis, dan lainnya menjadi panel pemantauan satu halaman per tema](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Anggota lain dalam galaksi tersebut, Mini Taiwan Info: data terbuka yang tersebar dihimpun menjadi dasbor pemantauan situasi dengan satu tema per halaman—populasi, transportasi rel, pelayaran, sumber daya air, pemadam kebakaran, dan layanan kesehatan. Gambar: Migu / sciwork 2026 (penggunaan wajar untuk komentar editorial)._
+_Anggota lain dalam galaksi ini, Mini Taiwan Info: Dia merangkum data terbuka yang tersebar menjadi sebuah dasbor pemantauan situasi; populasi, transportasi rel, pelayaran, sumber daya air, pemadam kebakaran, medis, satu halaman untuk satu tema. Foto: Migu / sciwork 2026 (penggunaan wajar untuk tujuan editorial dan ulasan)._
 
-Jika jumlah bintang proyek-proyek itu disusun, jelas bahwa bukan hanya satu yang populer.
+Jika kita mengurutkan jumlah bintang dari proyek-proyek ini, jelas bahwa yang populer bukan hanya satu.
 
 ```tw-bars
-GitHub Migu: bukan hanya satu repo yang populer (jumlah bintang GitHub)
-*mini-taiwan-pulse | 375 | Proyek unggulan
-mini-taiwan-learning-project | 189 | Populer sebelum pulse
+GitHub Migu: Lebih dari satu repo yang populer (Bintang GitHub)
+*mini-taiwan-pulse | 375 | Flagship
+mini-taiwan-learning-project | 189 | Viral lebih awal dari pulse
 flight-arc-graph | 56 | Jejak penerbangan
-tw-ship-viz | 11 | Kapal
-mini-tw-cctv | 6 | Rekaman langsung
+tw-ship-viz | 11 | Kapal laut
+mini-tw-cctv | 6 | Gambar real-time
 satellite-arc | 6 | Satelit
 Sumber: GitHub API, 2026-06-25
 ```
 
-Kekeliruan kedua tersembunyi dalam frasa “satu orang”; kita akan membedahnya nanti. Untuk sekarang, mari kita lihat bagaimana galaksi ini tumbuh.
+Hal kedua yang salah tersembunyi di dalam kata "satu orang", yang akan kita bedah nanti. Mari kita lihat terlebih dahulu bagaimana galaksi ini tumbuh.
 
 ```tw-timeline
-2025-12 | Eksperimen pertama | PoC jangkauan bus, percobaan data terbuka Taiwan paling awal
-2025-12 | learning-project lebih dahulu populer | Visualisasi transportasi rel Taipei, populer sebelum proyek unggulan (189★)
-2026-02 | Proyek unggulan lahir | mini-taiwan-pulse dimulai dan berevolusi dari JSON statis menjadi basis data ruang-waktu
-2026-06 | Seluruh sistem dipaparkan | Ceramah sciwork 2026: menyerahkan data terbuka kepada sistem yang dibesarkan oleh Agent
+2025-12 | Uji coba pertama | PoC cakupan bus, upaya awal visualisasi data terbuka Taiwan
+2025-12 | learning-project viral lebih dulu | Visualisasi transportasi rel Taipei, viral lebih awal dari flagship (189★)
+2026-02 | Kelahiran flagship | mini-taiwan-pulse diluncurkan, berevolusi dari JSON statis menjadi basis data ruang-waktu
+2026-06 | Memaparkan seluruh sistem | Ceramah sciwork 2026: Sistem yang menyerahkan data terbuka kepada Agent untuk dikembangkan
+Sumber: Catatan proyek GitHub Migu (kronologi proyek dan jumlah bintang) serta konten ceramah sciwork 2026[^2][^3]
 ```
 
 ## Metode yang sama, dari MRT hingga Tata Surya
