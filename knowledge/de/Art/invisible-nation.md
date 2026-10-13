@@ -29,10 +29,10 @@ rationale:
   whos_pushing_back: '主要反對聲音 — 純影評派（Jay Liu / Guardian / Screen Daily，prose 直接 acknowledge 並 hold narrative）/ 綠營內 skeptic（周玉蔻「斷代」，編入陳水扁段）/ 親 PRC 倡議（George Koo，僅採其事實觀察）/ 匿名藍營社群（稅金假指控，已闢謠）/ PRC（無官媒回應，de facto 封鎖，prose 點到）。'
   which_framing: 'Taiwan.md 自選敘事裝置：「看見是一個動作不是一種地位」核心 anchor（access-capture 的綜合解）/「框外那個沒有名字的男人」隱形對比揭露（陳水扁省略）/「擋在蔣介石前面的那顆頭」構圖即政治。非引述既有學界框架；access-capture 張力誠實編織，不下「片是宣傳」或「片是聖徒傳」的政治結論。'
 translatedFrom: 'Art/看不見的國家.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fd6fc02e66010c96'
-sourceBodyHash: 'sha256:00c160f3d2bfc5b4'
-translatedAt: '2026-09-22T22:04:51.143435+00:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:d85b6c99ab72b318'
+sourceBodyHash: 'sha256:f6ae8560d7e03438'
+translatedAt: '2026-10-13T04:43:58.994257+00:00'
 ---
 
 > **30-Sekunden-Überblick:** »Unsichtbare Nation« (《看不見的國家》) ist ein Dokumentarfilm, an dem die US-amerikanische Regisseurin Vanessa Hope sieben Jahre lang arbeitete. Fünfmal führte sie ausführliche Interviews mit der damaligen Präsidentin Tsai Ing-wen und rückte eine Insel ins weltweite Rampenlicht, die aus den Vereinten Nationen ausgeschlossen wurde, bei den Olympischen Spielen nur als »Chinesisch Taipeh« antreten darf und deren Zahl diplomatischer Verbündeter von 22 auf 12 gesunken war. 2023 feierte der Film seine Weltpremiere beim Woodstock Film Festival[^1], im Juni 2025 kam er in taiwanesische Kinos, spielte über 37,71 Millionen Neue Taiwan-Dollar ein und wurde zum dritterfolgreichsten Dokumentarfilm der taiwanesischen Filmgeschichte[^2]. Doch dieser Film, der Taiwan »sichtbar machen« sollte, hat auch seine blinden Flecken – am stärksten kritisiert wird, dass die siebenjährige intime Zugangsmöglichkeit von der Kooperation mit dem Büro von Tsai abhing, und dass ein Name von Anfang bis Ende nicht erwähnt wird: Chen Shui-bian.
@@ -107,28 +107,29 @@ Der letzte Schlag kam besonders schmerzhaft: Am 15. Januar 2024, nur zwei Tage n
 > **📝 Kuratorische Anmerkung**
 > Der eigentliche Argumentationskern des Films verbirgt sich in dieser Kurve, und er läuft dem allgemeinen Bauchgefühl zuwider. Die gängige Vorstellung lautet: „Je stärker Taiwan, desto mehr Freunde“; doch was Ke Chin-yuan einfängt, zeigt die entgegengesetzte Richtung – Taiwan hat in diesen acht Jahren Asiens erstes Gesetz zur Ehegleichheit verabschiedet, die Pandemie gemeistert und eine saubere Wahl nach der anderen abgehalten, doch seine diplomatischen Verbündeten sind um die Hälfte geschrumpft. Je vorbildlicher die Demokratie gelebt wird, desto weniger Staaten erkennen sie international an. Zwischen Sehen und Gesehenwerden gibt es keine selbstverständliche Kausalität.
 
-## Der Tag, an dem die Menge „Wir sind Taiwaner“ rief
+## Der Tag, an dem die Massen riefen: „Wir sind Taiwaner“
 
-Breitet man den Zeitstrahl der Demokratisierung Taiwans aus, so sieht man, wie diese Insel sich Schritt für Schritt aus dem Schweigen herausgearbeitet hat.
+Betrachtet man den Zeitstrahl der Demokratisierung Taiwans, erkennt man, wie diese Insel Schritt für Schritt aus ihrem Schweigen hervorgetreten ist.
 
-Ching-fen Ko richtet ihre Kamera auf den gesamten demokratischen Bogen dieser Insel, der weit über die acht Jahre von Tsai Ing-wen hinausgeht. Nach der Verlegung der Nationalregierung nach Taiwan 1949 erlebte Taiwan 38 Jahre lang Kriegsrecht, das am 20. Mai 1949 in Kraft trat und erst am 15. Juli 1987 von Chiang Ching-kuo aufgehoben wurde – eines der längsten Kriegsrechtsregime der Welt damals[^21]. Darunter liegen die Wunden des 28. Februar-Zwischenfalls und des Weißen Terrors: Ein offizieller Bericht des Exekutivyuans schätzt die Todesopfer des 28. Februar auf 18.000 bis 28.000, während in der Zeit des Weißen Terrors etwa 140.000 Menschen inhaftiert wurden[^22].
+Ge Jingwens Kamera fängt den gesamten Bogen der Demokratisierung dieser Insel ein, der weit über die acht Jahre von Tsai Ing-wen hinausreicht. Nach der Verlegung der Nationalregierung nach Taiwan im Jahr 1949 erlebte das Land eine 38-jährige Phase des Kriegsrechts. Es trat am 20. Mai 1949 in Kraft und wurde erst am 15. Juli 1987 durch Chiang Ching-kuo aufgehoben – es war eines der am längsten andauernden Kriegsrechte der Welt zu jener Zeit[^21]. Darunter liegen die Wunden des 228-Zwischenfalls und der Weißen Terrorzeit: Offizielle Berichte der Exekutivbehörde (Yuan) schätzen die Zahl der Todesopfer des 228-Zwischenfalls auf 18.000 bis 28.000 Menschen, während während der Ära des Weißen Terrors etwa 140.000 Menschen inhaftiert wurden[^22].
 
 ```tw-timeline
-1987 | Aufhebung des Kriegsrechts | Chiang Ching-kuo hebt das 38 Jahre währende Kriegsrecht auf, eines der längsten der Welt
-1996 | Erste Direktwahl des Präsidenten | Lee Teng-hui wird unter Raketentests der anderen Seite gewählt, Taiwaner wählen erstmals direkt ihren Präsidenten
-2000 | Erster Parteienwechsel | Chen Shui-bian der DPP wird gewählt, erster friedlicher Machtwechsel nach der Autoritätsherrschaft
-2014 | Sonnenblumen-Bewegung | Studenten besetzen den Legislativ-Yuan 24 Tage lang, protestieren gegen Dienstleistungsabkommen mit der anderen Seite
-2019 | Legalisierung der gleichgeschlechtlichen Ehe | Am 17. Mai verabschiedet das Parlament das Sondergesetz, Taiwan wird zum ersten Land in Asien
+1987 | Ende des Kriegsrechts | Chiang Ching-kuo hebt das 38 Jahre andauernde Kriegsrecht auf, eines der längsten weltweit
+1996 | Erste Direktwahl des Präsidenten | Lee Teng-hui wird inmitten von Raketentests auf der gegenüberliegenden Seite gewählt; Taiwaner wählen erstmals ihren Präsidenten direkt
+2000 | Erster Regierungswechsel | Chen Shui-bian von der DPP wird gewählt, die erste friedliche Machtübergabe nach der autoritären Ära
+2014 | Sonnenblumen-Bewegung | Studenten besetzen 24 Tage lang das Legislative Yuan als Protest gegen das Dienstleistungsabkommen mit dem chinesischen Festland
+2019 | Legalisierung der gleichgeschlechtlichen Ehe | Das Legislative Yuan verabschiedet am 17. Mai ein Sondergesetz; Taiwan wird das erste Land in Asien
+Quelle: Demokratisierungsterminologie aus diesem Artikel (Kriegsrechtsende 1987, Direktwahl 1996, Sonnenblumen 2014, gleichgeschlechtliche Ehe 2019) und entsprechende Primärberichte[^21][^23][^24][^25]
 ```
 
-Jeder Knoten auf dieser Linie ist ein Akt des „Unsichtbaren sichtbar zu machen“. Am 23. März 1996 wurde Lee Teng-hui unter den Raketentests der anderen Seite mit 54 % der Stimmen gewählt – das erste Mal, dass Taiwaner ihren Präsidenten direkt wählten[^23]. Im März 2014 besetzten Studenten 24 Tage lang den Legislativ-Yuan, um gegen das Dienstleistungsabkommen mit der anderen Seite zu protestieren; diese Sonnenblumen-Bewegung formte später das politische Bewusstsein einer ganzen Generation neu[^24]. Am 17. Mai 2019 verabschiedete der Legislativ-Yuan das Sondergesetz zur gleichgeschlechtlichen Ehe; Hsiao Bi-khim schildert diesen Abschnitt im Film – Taiwan wurde zum ersten Ort in Asien, der die gleichgeschlechtliche Ehe legalisierte[^25].
+Jeder Knotenpunkt auf dieser Linie ist ein Akt des „Sichtbarmachens des Unsichtbaren“. Am 23. März 1996 wurde Lee Teng-hui mit einer Stimmenquote von 54 % gewählt, während auf der gegenüberliegenden Seite Raketentests stattfanden – es war das erste Mal, dass die Menschen in Taiwan ihren Präsidenten eigenhändig wählten[^23]. Im März 2014 besetzten Studenten für 24 Tage das Legislative Yuan, um gegen ein Dienstleistungsabkommen mit dem chinesischen Festland zu protestieren; diese Sonnenblumen-Bewegung prägte später das politische Bewusstsein einer ganzen Generation[^24]. Am 17. Mai 2019 verabschiedete das Legislative Yuan das Sondergesetz zur gleichgeschlechtlichen Ehe, worüber Hsiao Bi-khim im Film berichtet; Taiwan wurde damit zum ersten Ort in Asien, der die gleichgeschlechtliche Ehe legalisierte[^25].
 
-![Oktober 2015, eine Wahlkampfveranstaltung von Tsai Ing-wen in Taipeh: Unterstützer schwenken Fahnen, Lichter funkeln – genau die Atmosphäre jener Szene in Ching-fen Kos Film, in der die Menge „Wir sind Taiwaner“ ruft](/article-images/people/tsai-2016-campaign.webp)
-_Oktober 2015, Unterstützer bei einer Wahlkampfveranstaltung von Tsai Ing-wen. Ching-fen Ko sagt, es sei der Moment gewesen, als die Menge 2016 bei einer Wahlveranstaltung Tsai Ing-wen „Wir sind Taiwaner“ zurief, der sie beschloss, diesen Film zu drehen. Foto: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
+![Eine Wahlkampfveranstaltung für Tsai Ing-wen im Oktober 2015 in Taipeh. Unterstützer schwenken Flaggen unter dem Glitzern der Lichter – genau die Atmosphäre, die Ge Jingwens Film einfängt, wenn „die Massen rufen: Wir sind Taiwaner“](/article-images/people/tsai-2016-campaign.webp)
+_Unterstützer bei einer Wahlkampfveranstaltung für Tsai Ing-wen im Oktober 2015. Ge Jingwen sagt, dass der Moment während des Wahlkampfs 2016, als die Menge Tsai Ing-wen „Wir sind Taiwaner“ zurief, sie dazu bewog, diesen Film zu drehen. Photo: MiNe (sfmine79). [CC BY 2.0 via Flickr](https://www.flickr.com/photos/sfmine79/)._
 
-Der Moment, der Ching-fen Ko wirklich entzündete, war der Wahlkampf 2016, als die Menge Tsai Ing-wen „Wir sind Taiwaner“ zurief[^5]. In diesem Moment sprach eine ganze Insel vor der Kamera ihren eigenen Namen aus – eine Geste, die schwerer wiegt als die chronologische Fußnote eines einzigen Machtwechsels.
+Der Moment, der Ge Jingwen jedoch wirklich entflammte, war während des Wahlkampfs im Jahr 2016, als die Menge Tsai Ing-wen „Wir sind Taiwaner“ zurief[^5]. In diesem Augenblick vollzog die gesamte Insel vor der Kamera den Akt, ihren eigenen Namen auszusprechen – dies wiegt weitaus schwerer als eine bloße chronologische Notiz über einen Regierungswechsel.
 
-Der Film enthält auch eine Sequenz, die vielen Taiwanern die Tränen in die Augen trieb: Kurz vor der Wahl 2016 wurde die sechzehnjährige taiwanesische Sängerin Chou Tzu-yu gezwungen, vor der Kamera ein vorbereitetes Entschuldigungsschreiben zu verlesen, weil sie in einer koreanischen Varieté-Show die Flagge der Republik China geschwenkt hatte[^26]. Ein sechzehnjähriges Mädchen wurde gezwungen, sich für ihre eigene Flagge zu entschuldigen – am nächsten Tag antworteten die Taiwaner mit ihren Stimmzetteln. Diese Bilder wurden zu einer der ergreifendsten Stellen des Films.
+Der Film enthält zudem eine Sequenz, die vielen Taiwanern Tränen in die Augen treibt: Kurz vor der Wahl 2016 musste die 16-jährige taiwanesische Sängerin Chou Tzu-yu sich vor der Kamera entschuldigen, weil sie in einer koreanischen Fernsehshow die Flagge der Republik China geschwenkt hatte[^26]. Ein 16-jähriges Mädchen wurde gezwungen, sich für ihre Flagge zu entschuldigen; am nächsten Tag antworteten die Taiwaner darauf mit ihrer Stimme bei der Wahl. Dieses Bild dieses Vorfalls wurde zu einem der schwersten emotionalen Höhepunkte des Films.
 
 ## Aus eigener Tasche zahlen, um sich selbst zu sehen
 

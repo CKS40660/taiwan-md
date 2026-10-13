@@ -17,7 +17,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-14
 lastHumanReview: false
-researchReport: reports/research/2026-06/報導者-evolve-20260614.md
+researchReport: 'reports/research/2026-06/報導者-evolve-20260614.md'
 viewpoint_formed: true
 image: '/article-images/society/the-reporter-brand-logo.webp'
 imageCredit: '報導者 The Reporter'
@@ -38,10 +38,10 @@ sporeLinks:
     date: '2026-06-16'
     url: 'https://x.com/taiwandotmd/status/2066822763638341918'
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:46044d1881e9332e'
-sourceBodyHash: 'sha256:ca526dda99de158c'
-translatedAt: '2026-09-26T23:27:07+08:00'
+sourceCommitSha: '52052ddaa'
+sourceContentHash: 'sha256:00bd13342bc6cb3c'
+sourceBodyHash: 'sha256:d77e750f6664a705'
+translatedAt: '2026-10-13T03:16:57.957815+00:00'
 ---
 
 > **30-Sekunden-Überblick:** The Reporter ist Taiwans erstes von Bürgerspenden getragenes, gemeinnütziges Online-Investigativmedium. Als die Website im Dezember 2015 online ging, gab es monatlich nur 4 Dauerspender – eine Zahl, die Gründer Ho Jung-hsing (何榮幸) seinen Kollegen nicht zu nennen wagte[^1]. Zehn Jahre später, im Oktober 2025, war diese Zahl auf rund 8.000 gewachsen, das nächste Ziel lautet 10.000[^2]. The Reporter schrieb die Trilogie „Fischgründe aus Blut und Tränen", die bis in drei Länder führte[^3]; deckte den Schuldknechtschaft-Fall auf, der zu einer Haftstrafe von 5 Jahren und 6 Monaten für eine Führungskraft der Chung Chou University of Science and Technology führte[^4]; und veröffentlichte das „Chokubi-Phänomen", nach dem das Gesundheitsministerium die Regeln so änderte, dass nur noch Ärzte mit abgeschlossener PGY-Ausbildung ästhetische Medizin praktizieren dürfen[^5]. Nach außen verkündet es nur drei Grundsätze: „keine Eigentümerschaft, keine Einmischung, keine Rückholung"[^6]. Ausgerechnet die Kosten, an denen The Reporter am wenigsten sparen kann, sind genau das, wofür im Zeitalter der Algorithmen niemand mehr zahlen will. Diese Insel hat es geschafft, mit monatlichen Abbuchungen von NT$200 oder NT$300 von wildfremden Menschen investigativen Journalismus von einem Verlustgeschäft in ein öffentliches Gut zu verwandeln, das ständig weiter genährt werden muss – und dabei immer schneller verbrennt.
@@ -68,26 +68,27 @@ Dauerspender, vom ersten Monat online 2015 bis zum zehnjährigen Jubiläum 2025;
 The Reporter Zehnjahres-Podcast, 2025-10
 ```
 
-## Nicht besitzen, nicht einmischen, nicht zurückholen
+## Kein Besitz, keine Einmischung, keine Rückerstattung
 
-Auf der [offiziellen „Über uns"-Seite](https://www.twreporter.org/about-us) von The Reporter wird das Versprechen an die Spender auf drei Verben verdichtet: nicht besitzen, nicht einmischen, nicht zurückholen[^18].
+Auf der [„Über uns“-Seite](https://www.twreporter.org/about-us) der offiziellen Website von _The Reporter_ werden die Versprechen gegenüber den Spendern in drei Verben zusammengefasst: kein Besitz, keine Einmischung, keine Rückerstattung[^18].
 
-„Nicht besitzen" heißt: Egal wie viel jemand spendet, er erwirbt dadurch keine Anteile und kein Mitspracherecht über die redaktionelle Ausrichtung. „Nicht einmischen" heißt: Spender können bei einzelnen Berichten weder über Inhalt noch Zeitpunkt noch Richtung Anweisungen geben. „Nicht zurückholen" heißt: Sobald eine Spende eingegangen ist, gehört das Geld zu den Kosten der journalistischen Arbeit von The Reporter – es wird unter keinem Vorwand zurückerstattet und dient auch nicht als jederzeit abziehbares Druckmittel.
+„Kein Besitz“ bedeutet, dass Spender nicht aufgrund ihrer Beitragshöhe Anteile oder Entscheidungsrechte über die redaktionelle Ausrichtung erwerben. „Keine Einmischung“ bedeutet, dass Spender keine Anweisungen zum Inhalt, zum Zeitpunkt oder zur Richtung einzelner Berichte geben können. „Keine Rückerstattung“ bedeutet, dass das Geld nach Eingang als Kostenfaktor für die journalistische Arbeit von _The Reporter_ gilt; es wird aus keinem Grund zurückgegeben und dient nicht als Druckmittel, das jederzeit wieder entzogen werden kann.
 
-Diese drei Sätze lesen sich wie ein Corporate-Social-Responsibility-Werbetext, doch tatsächlich lösen sie ein strukturelles Problem, das Taiwans Medienbranche seit dreißig Jahren umtreibt: Eigentümer mischen sich ein, Werbekunden ziehen Anzeigen ab, Regierungen lancieren Informationen. Fast kein einziges kommerzielles Medienhaus in Taiwan kann sich von mindestens einer dieser drei Fesseln vollständig befreien. Die Lösung von The Reporter besteht darin, diese drei Verbindungslinien durch die Organisationsstruktur an der Wurzel zu kappen: keine Aktionäre, keine Werbung, keine staatlichen Ausschreibungsaufträge. Moralische Appelle retten keine Struktur – erst das Organisationsdesign trägt sie.
+Diese drei Sätze klingen wie CSR-Werbung (Corporate Social Responsibility) eines Unternehmens, doch sie zielen darauf ab, ein strukturelles Problem zu lösen, das die taiwanische Medienbranche seit dreißig Jahren umtreibt: Eigentümer mischen sich ein, Werbekunden ziehen Aufträge zurück und Regierungen streuen gezielt Informationen. Fast kein kommerzielles Medium in Taiwan kann sich vollständig von mindestens einer dieser drei Linien befreien. Die Lösung von _The Reporter_ besteht darin, diese drei Linien durch die Organisationsstruktur an der Wurzel zu kappen: keine Aktionäre, keine Werbung, keine staatlichen Ausschreibungen. Moralische Appelle allein können strukturelle Probleme nicht lösen; nur das Organisationsdesign kann sie bewältigen.
 
 ```tw-versus
-Taiwans kommerzielle Medien | The Reporter
-Eigentümer sind börsennotierte Unternehmen, Parteien oder Familien | Eigentümer sind 8.000 monatlich spendende Fremde
-Werbekunden können mit dem Anzeigenabzug Druck ausüben | Nimmt keine kommerzielle Werbung an
-Klickzahlen entscheiden, was als Nächstes geschrieben wird | Im Newsroom gibt es keinen Klickzahlen-Bildschirm
+Taiwanische kommerzielle Medien | The Reporter
+Eigentümer sind börsennotierte Unternehmen, Parteien oder Familien | Eigentümer sind 8.000 fremde Menschen, die monatlich spenden
+Werbekunden können durch Auftragsstornierungen Druck ausüben | Akzeptiert keinerlei kommerzielle Werbung
+Klickzahlen entscheiden über den nächsten Artikel | Es gibt keine Bildschirme mit Klickzahlen im Redaktionsbüro
+Quelle: Offizielle Website von The Reporter „Über uns“ (Kein Besitz, keine Einmischung, keine Rückerstattung) und in diesem Artikel zitierte Daten zur Struktur der taiwanischen Medien[^18]
 ```
 
-Dass Tung Tzu-hsien (童子賢) persönlich NT$5 Millionen spendete, um die Stiftung zu gründen, ist eine Information aus erster Hand, die offiziell veröffentlicht wurde[^19]. Später kursierte die Version, Tung habe anfänglich NT$20 Millionen gespendet, doch diese Zahl wurde offiziell nie bestätigt und ist eher als Marktgerücht einzuordnen; als harte, gesicherte Tatsache gelten nur NT$5 Millionen[^20]. Entscheidend ist das dreiteilige Design „persönliche Spende + Trägerschaft durch die Stiftung + keine Werbung annehmen" – wie groß die Zahl selbst ist, ist zweitrangig. Selbst nachdem Tung später stellvertretender Vorsitzender eines Thinktanks der Demokratischen Fortschrittspartei (DPP) wurde, kann er laut Stiftungssatzung keinem einzelnen Bericht Anweisungen erteilen.
+Die Details darüber, dass Tung Tzu-hsien persönlich NT$5 Millionen spendete, um die Stiftung zu gründen, sind eine offiziell veröffentlichte Primärinformation[^19]. In der Öffentlichkeit kursierte später die Version, „Tung Tzu-hsien habe ursprünglich 20 Millionen gespendet“, doch diese Zahl wurde nicht offiziell bestätigt und entspricht eher Marktgerüchten; die einzige gesicherte Tatsache ist die Summe von 5 Millionen NT$[^20]. Entscheidend ist das dreistufige Design aus „persönlicher Spende + Besitz durch die Stiftung + Verzicht auf Werbung“; die Höhe der Zahl selbst ist zweitrangig. Selbst als Tung Tzu-hsien später stellvertretender Vorstandsvorsitzender eines Think Tanks der DPP wurde, durfte er gemäß der Satzung der Stiftung keine Anweisungen zu einzelnen Berichten geben.
 
-In der offiziellen FAQ findet sich noch eine weitere Passage darüber, warum dieses Medienhaus keine Klickzahlen anzeigt: „Wir wollen uns vom Klickzahlen-Mythos lösen, denn Reichweite ist nicht gleichbedeutend mit journalistischem Wert und auch nicht mit Vertrauen und Wirkung"[^21]. Das ist in der Online-Medienwelt des Jahres 2026 bereits eine seltene Disziplin: Die meisten Nachrichtenseiten zeigen unter jedem Artikel laufend Leserzahlen, Social-Media-Shares und Kommentarzahlen an, und die Redaktionen entscheiden anhand dieser Zahlen, was als Nächstes geschrieben wird. Im Newsroom von The Reporter gibt es diesen Bildschirm nicht.
+In den offiziellen FAQs findet sich ein weiterer Abschnitt darüber, warum dieses Medium keine Klickzahlen anzeigt: „Wir möchten uns von der Klickzahl-Mythen lösen, da Traffic nicht vollständig dem journalistischen Wert entspricht und auch nicht gleichbedeutend mit Vertrauen und Einfluss ist“[^21]. Im Jahr 2026 ist dies in der Welt der Online-Medien bereits eine Seltenheit; die meisten Nachrichten-Websites zeigen unter jedem Artikel Echtzeitdaten zu Leserzahlen, Social-Media-Shares und Kommentaren an, woraufhin das Redaktionsbüro entscheidet, was als Nächstes geschrieben wird. In der Redaktion von _The Reporter_ gibt es keinen solchen Bildschirm.
 
-Ende August 2018 übernahm der frühere Bildungsminister Huang Jung-tsun (黃榮村) als zweiter Vorsitzender des Stiftungsrats[^22]. Wechsel im Stiftungsrat, die Übergabe der Chefredaktion, der Wechsel in der Geschäftsführung – all das ist in dieser Organisation Routine, doch die drei Sätze des „Drei-Nicht-Prinzips" wurden nie verändert. Sie wurden zu einer Hausregel, die gleichsam in den Türrahmen eingraviert ist: Wer in dieser Organisation arbeitet, weiß, dass es drei Dinge gibt, die man nicht anfasst.
+Ende August 2018 übernahm der ehemalige Bildungsminister Huang Rong-tsun das Amt des zweiten Vorstandsvorsitzenden[^22]. Der Wechsel im Vorstand, die Übergabe des Chefredakteurs oder die Versetzung des Geschäftsführers sind in dieser Organisation Normalität, doch diese drei Sätze der „Drei-Nicht-Prinzipien“ wurden nie geändert. Sie sind zu einer Hausregel geworden, die wie in einen Türrahmen eingraviert ist: Jeder, der in dieser Organisation arbeitet, weiß, dass es drei Dinge gibt, die man nicht anrühren darf.
 
 ## Die Augen der Fischer: über hundert Interviewte, ein Siebtel davon im Ausland
 
