@@ -36,6 +36,7 @@ import {
   formatIntakeIntervals,
   parseDeployedFeedbackConfig,
   formatIntakeHealth,
+  parseAuthSettings,
 } from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -836,4 +837,67 @@ test('formatIntakeHealth: 一層都沒驗到時不准借用「沒事」的長相
   assert.match(out, /一層都沒驗到/);
   assert.match(out, /別當綠燈讀/);
   assert.ok(!/查得到的都活著/.test(out));
+});
+
+test('parseAuthSettings: 三個 provider 都開著、還收新帳號 = 登入這條路活著', () => {
+  const r = parseAuthSettings(
+    {
+      external: { google: true, github: true, email: true, apple: false },
+      disable_signup: false,
+    },
+    'google,github,email',
+  );
+  assert.equal(r.state, 'ok');
+  assert.match(r.detail, /disable_signup=false/);
+});
+
+test('parseAuthSettings: 站上宣告的 provider 在 server 端沒開 = 讀者點了登不進來', () => {
+  // 出貨 bundle 說有 google,server 端卻關著 —— 讀者看得到按鈕,按下去進不來。
+  const r = parseAuthSettings(
+    { external: { github: true, google: false }, disable_signup: false },
+    'google,github',
+  );
+  assert.equal(r.state, 'broken');
+  assert.match(r.detail, /google/);
+});
+
+test('parseAuthSettings: 一個 provider 都沒開 = 壞了,不是沒結論', () => {
+  const r = parseAuthSettings(
+    { external: { google: false }, disable_signup: false },
+    'google',
+  );
+  assert.equal(r.state, 'broken');
+});
+
+test('parseAuthSettings: disable_signup=true 擋掉的是新讀者（舊帳號照常）', () => {
+  const r = parseAuthSettings(
+    { external: { google: true }, disable_signup: true },
+    'google',
+  );
+  assert.equal(r.state, 'broken');
+  assert.match(r.detail, /新讀者/);
+});
+
+test('parseAuthSettings: 看不懂的回應回 unknown,不借用「沒事」的長相', () => {
+  assert.equal(parseAuthSettings(null, 'google').state, 'unknown');
+  assert.equal(parseAuthSettings('nope', 'google').state, 'unknown');
+});
+
+test('formatIntakeHealth: 登入這條路量到了,未涵蓋就只剩 INSERT', () => {
+  const out = formatIntakeHealth({
+    layers: [
+      { name: '金鑰與資料表', state: 'ok', detail: 'HTTP 200' },
+      { name: '登入這條路', state: 'ok', detail: 'HTTP 200' },
+    ],
+  });
+  assert.match(out, /未涵蓋：登入讀者的 INSERT/);
+  assert.ok(!/OAuth/.test(out));
+});
+
+test('formatIntakeHealth: 登入這條路沒量到時,OAuth 不准從未涵蓋清單消失', () => {
+  // ❔ 是「今天沒驗到」,不是「驗過沒事」—— 同 HG12b unavailable 紀律。
+  const out = formatIntakeHealth({
+    layers: [{ name: '登入這條路', state: 'unknown', detail: '戳不到' }],
+  });
+  assert.match(out, /OAuth/);
 });

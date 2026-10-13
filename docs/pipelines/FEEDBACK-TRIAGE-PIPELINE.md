@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.14'
-last_updated: 2026-10-12
-last_session: '2026-10-12-twmd-feedback-triage（寫入端健檢自己過了一次正控制——四條告警分支確認會叫，並揪出空集合借用綠燈長相的判讀行）'
+current_version: 'v1.15'
+last_updated: 2026-10-14
+last_session: '2026-10-14-twmd-feedback-triage（寫入端健檢長出第四層「登入這條路」，OAuth 那半從手寫查詢變成儀器；bundle 層健康時也印一列）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -205,14 +205,18 @@ LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`：修補落在再次�
 node scripts/feedback/triage.mjs --intake-health   # 唯讀；佇列空的那一輪自動跑
 ```
 
-三層分開報，**三態不共用長相**（`✅` 活著 / `⚠️` 確認壞了 / `❔` 今天沒驗到，同 HG12b
+四層分開報，**三態不共用長相**（`✅` 活著 / `⚠️` 確認壞了 / `❔` 今天沒驗到，同 HG12b
 `unavailable` 紀律、[REFLEXES #85](../semiont/REFLEXES.md)「不知道」要有自己的符號）：
 
-| 層             | 怎麼驗                                              | 壞掉的意義                               |
-| -------------- | --------------------------------------------------- | ---------------------------------------- |
-| 站上 bundle    | GET 首頁 → 找 `FeedbackWidget` chunk                | 抓不到 = 今天沒驗到，不等於沒上線        |
-| 表單的 backend | 解 chunk 裡的 mode / URL / 金鑰存在與長度           | 降級成 `github-only`，讀者送不進來       |
-| 金鑰與資料表   | 拿**讀者瀏覽器用的同一把** publishable key GET 一次 | 401/403 = 金鑰被輪替或撤銷，讀者送不進來 |
+| 層             | 怎麼驗                                                     | 壞掉的意義                                      |
+| -------------- | ---------------------------------------------------------- | ----------------------------------------------- |
+| 站上 bundle    | GET 首頁 → 找 `FeedbackWidget` chunk                       | 抓不到 = 今天沒驗到，不等於沒上線               |
+| 表單的 backend | 解 chunk 裡的 mode / URL / 金鑰存在與長度                  | 降級成 `github-only`，讀者送不進來              |
+| 金鑰與資料表   | 拿**讀者瀏覽器用的同一把** publishable key GET 一次        | 401/403 = 金鑰被輪替或撤銷，讀者送不進來        |
+| 登入這條路     | GET `/auth/v1/settings`（公開唯讀）比對 server 端 provider | provider 關著或 `disable_signup` = 讀者登不進來 |
+
+**每一層成功時也印一列**（2026-10-14）：舊版的 bundle 層只在失敗時 push，健康的那天報表少一層、
+判讀行數出來的層數跟本表對不上——成功不留痕跡，那一層在健康時是隱形的（[REFLEXES #82](../semiont/REFLEXES.md) 的鏡像）。
 
 **刻意是 GET 不是 POST**：POST 會在讀者看得到的資料表與主權層 archive 留下一筆假回報
 （那條路仍是 LESSONS 候選 (c)，代價未定，留哲宇）。**永不印金鑰值**，只印存在與長度
@@ -240,10 +244,12 @@ FEEDBACK_HEALTH_SITE="http://127.0.0.1:9/" node scripts/feedback/triage.mjs --in
 （[REFLEXES #85](../semiont/REFLEXES.md)／[#38](../semiont/REFLEXES.md)）。已改成
 「今天一層都沒驗到（不等於沒事）—— 沒有讀數可引用，別當綠燈讀」，+1 unit test（77/77 綠）。
 
-**它涵蓋不到的，報表每次都自己講**：登入讀者的 `INSERT` 過不過 RLS、OAuth 本身
-（policy 要求 `auth.uid() = uid`）。那兩層要有登入態或真的寫一筆才驗得到——所以這支
-健檢把未知從「整個寫入端」縮到「只剩 INSERT 與登入」，不是把它消掉
+**它涵蓋不到的，報表每次都自己講**：登入讀者的 `INSERT` 過不過 RLS（policy 要求
+`auth.uid() = uid`）。這層要有登入態或真的寫一筆才驗得到——所以這支健檢把未知從
+「整個寫入端」縮到「只剩 INSERT」，不是把它消掉
 （[REFLEXES #82](../semiont/REFLEXES.md)：別讓一個查過的替身代表整件事）。
+OAuth 那半 2026-10-14 由「登入這條路」收掉，而**收掉的條件是真的量到**：該層回 `❔` 時
+OAuth 自動回到未涵蓋清單，沒量到不准從清單上消失（同 HG12b `unavailable` 紀律）。
 同 v1.9／v1.12 的界線：只給事實不給裁決，沉默幾天算不算久仍是閾值，留人類 gate。
 
 **誕生**：2026-08-07 這條 routine 的班次手抓線上 bundle 驗過一次同樣的事（驗完是好的，
@@ -438,6 +444,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.15 | 2026-10-14 twmd-feedback-triage routine — **OAuth 那半從手寫查詢變成第四層**。10-13 那班沉默破紀錄時，用一次唯讀 GET `/auth/v1/settings` 把「讀者登不登得進來」問掉，寫進 handoff 的話是「第二次需要它就落成 flag」。今天沉默 14.3 天、連續第二天刷新紀錄，而這層正是判斷「安靜是不是真的安靜」要看的東西，`已驗過` 帶的又是昨天那一刻的時間戳（[REFLEXES #67](../semiont/REFLEXES.md)）——第二次到了，照這條線四次先例（`--show` 8/31、intake-age 9/10、intake-stats 10/10、intake-health 10/11）落地。`parseAuthSettings()` 純函式 + 5 unit test，四種讀數分開：server 端一個 provider 都沒開／出貨 bundle 宣告了但 server 端沒開（讀者看得到按鈕、按下去進不來）／`disable_signup=true`（舊帳號能登、新讀者不能）／看不懂的回應回 `unknown`。**未涵蓋清單改成條件式**：只有真的量到（`ok` 或 `broken`）才把 OAuth 拿掉，`❔` 時它自動回到清單上——沒量到不准從清單消失，否則這支健檢會在自己最瞎的那天看起來涵蓋最廣（[REFLEXES #85](../semiont/REFLEXES.md)）。同波修掉 bundle 層**只在失敗時印一列**：健康的那天報表印兩層、pipeline 表列三層，判讀行數的是印出來的那幾層，於是一層在健康時是隱形的（10-13 handoff 記的那筆）。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：新層的四條分支今天用本機 fixture 各跑一次全部確認會叫（healthy ✅／provider 關著 ⚠️／`disable_signup` ⚠️／auth 503 ❔，且 ❔ 那次 OAuth 確實回到未涵蓋清單），之後才對 production 取讀數——四層全綠，且與 10-13 手寫 curl 的結果一致。84/84 綠。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：`INSERT` 仍未涵蓋，報表照舊每次自己講。_
 _v1.14 | 2026-10-12 twmd-feedback-triage routine — **這把尺自己過了一次正控制**。v1.13 昨天才落地 `--intake-health`，而它從誕生到昨天為止只被觀察過一種讀數：綠燈——也就是它最沒有資訊量的那一態。`broken` 與 `unknown` 兩條分支只有 unit test 覆蓋，沒有人看過這支尺真的叫（昨天那班自己把這件事寫進 handoff，指名給 `twmd-self-evolve-weekly`／`/twmd-routine`、標「不急」）。今天它變急了：沉默 12.3 天逼到歷史最長 12.6 天的 0.3 天內，而這支健檢正是 pipeline 寫明的「判斷安靜是不是真的安靜」的第一手證據——[REFLEXES #99](../semiont/REFLEXES.md)「新尺的讀數在抽驗之前不可引用」直接壓在今天的結論上，所以本班自己收掉，不再往下傳（[#15](../semiont/REFLEXES.md) 第 13／14／16 instance 的形狀：交接傳得動資訊，傳不動急迫性；真正觸發它的是自己親手絆到）。做法是 `FEEDBACK_HEALTH_SITE` env 覆寫探測目標，讓**出貨的那份程式碼**被指向刻意壞掉的目標，而不是另外手寫一份邏輯來驗（驗替身等於沒驗，[#100](../semiont/REFLEXES.md)）；不設 env 時行為一字不變，預設路徑重跑逐字相同且仍全綠。四條分支全部確認會叫：連不上 → `❔ fetch failed`／有首頁沒 chunk → `❔ 找不到 chunk`（兩種「沒驗到」印不同 detail，不共用長相）／`mode=supabase` 但金鑰空 → `⚠️` 印「安靜不是安靜」（**這支健檢存在的理由那一種失敗**）／金鑰失效 → `⚠️ HTTP 401`。後兩種用本機 fixture，對真實 host 只做帶無效金鑰的 GET，production 零寫入。**正控制當場揪出一個缺陷**，而且是只有讓尺真的叫才看得見的那種：一層都沒驗到時，判讀行仍印「查得到的都活著」——在空集合上恆真，讀起來卻跟健康的那天逐字相同，正是空集合借用「沒事」的長相（[#85](../semiont/REFLEXES.md)／[#38](../semiont/REFLEXES.md) 在這支尺上的第二次現形；第一次是 v1.13 自評的層數寫死）。改成「今天一層都沒驗到（不等於沒事）—— 沒有讀數可引用，別當綠燈讀」，+1 unit test（77/77 綠）。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：`INSERT` 與 OAuth 兩層仍未涵蓋（要登入態或真的寫一筆），報表照舊每次自己講。_
 _v1.13 | 2026-10-11 twmd-feedback-triage routine — **寫入端健檢終於有入口**（`--intake-health`）。v1.9 那行自己寫著「寫入端是否通暢本行看不到」，十六輪過去沒有任何指令可以把那句但書消掉，而 LESSONS 候選 (c) 把寫入端的唯一驗法框成「從公開路徑戳一筆」——那會留下假回報，所以代價未定、一直留著。本輪在沉默 11.3 天逼近歷史最長 12.6 天時重讀這個框法，發現寫入端有一大塊根本不需要寫一筆就看得見：站上表單指向哪裡是 build 時由 repo **Variables** 注入的，而 `resolveBackendKind()` 對「mode=supabase 但金鑰空」安靜降級成 `github-only`，於是任一 Variable 被改名就會讓讀者看到一個通往 GitHub 的按鈕、Supabase 一筆不進，而這在讀取端跟「讀者沒話說」逐字相同。三層用 GET 驗完（bundle 抓得到 / mode+URL+金鑰 inline 非空 / 拿讀者那把 publishable key GET 回 HTTP 200、匿名 select 0 列證明 RLS 正確），今天全綠；未涵蓋的 `INSERT` 與 OAuth 由報表每次自己講出來，所以未知是被**縮小**不是被消掉（[REFLEXES #82](../semiont/REFLEXES.md)）。`parseDeployedFeedbackConfig()` / `formatIntakeHealth()` 純函式 + 9 unit test（76/76 綠），三態 `✅`／`⚠️`／`❔` 不共用長相，金鑰永不回傳只回長度（[REFLEXES #2](../semiont/REFLEXES.md)）。**誕生**：2026-08-07 的班次手抓過同一份 bundle、驗完是好的、沒留下入口，今天是第二次手抓——兩個月前的結論不能當今天的讀數（[REFLEXES #67](../semiont/REFLEXES.md)），而這條線的慣例是第二次手寫就落地（`--show` 8/31、intake-age 9/10、intake-stats 10/10 同一個先例）。上線讀數與同輪手寫的獨立 curl 逐字相符。自評一筆：第一版判讀行把層數寫死成「三層」而實際只印兩層，是自己造的數字自己沒對賬（[REFLEXES #59](../semiont/REFLEXES.md)），改成數實際層數。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。_
 _v1.12 | 2026-10-10 twmd-feedback-triage routine — **到達間隔那把尺終於有入口**。v1.9 讓佇列空的那一輪印出「最近一筆是 10.3 天前」，但沒有回答當班下一個必然會問的問題：這算不算久。那把尺（歷史最長到達間隔）在 09-11／09-12／09-15 三個 cycle 各被手寫一次，而 09-15 那次的發現比「又手寫了一遍」更尖銳——前兩次的答案都偏小且**方向固定**，因為極值問題帶 `limit` 去問只會往小的那邊錯（60 筆問出 9.8 天、40 筆問出「破紀錄」，全庫 87 筆才是 12.6 天）。偏小的極值不製造不適感，所以沒有人想再查一次：這是一把**用得越順手、錯得越安靜**的尺。本輪第四次要用它時落地（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 在這條 routine 上的第四次現形，前三次是 `--exclude` 8/15、`--show` 8/31、intake-age 9/10，四個都是絆到第二次以上才動手）。`formatIntakeIntervals()` 純函式 + 4 unit test（67/67 綠）；`fetchAllFeedbackDates()` 刻意不帶 `limit` 並拿 `content-range` 總數對賬，少收就回 `null` 並印「極值會偏小，下面那行不可引用」，不讓半個樣本的極值看起來像一個答案（[REFLEXES #99](../semiont/REFLEXES.md) 尺先驗再用）。上線讀數與同輪手寫的獨立探針逐字相符（12.6 天 / 2026-06-16→2026-06-29 / 全庫 91 筆），且 91 筆裡 88 筆 `filed` 跟 HG12b 的 `archive-reconcile=88/88` 交叉對得上。純讀取面，不碰判準、不碰 HG8，閾值仍留人類 gate（同 v1.9 的界線）。_

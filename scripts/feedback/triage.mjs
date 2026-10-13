@@ -309,6 +309,57 @@ export function parseDeployedFeedbackConfig(js) {
 }
 
 /**
+ * `/auth/v1/settings` 的回應 → 一層讀數（純函式，可被 unit test import）。
+ *
+ * 讀者要先登入才送得出回報（RLS policy 要求 `auth.uid() = uid`），所以「登入這條路通不通」
+ * 是寫入端的一段，而且不需要真的寫一筆就看得到：Supabase 的 `/auth/v1/settings` 是公開
+ * 唯讀端點，直接講 server 端哪些 provider 開著、還收不收新帳號。
+ *
+ * **它不等於 INSERT**：登得進來不保證那筆 insert 過得了 RLS。所以這層只收掉 OAuth 那半，
+ * 剩下的 INSERT 仍然由報表每次自己講出來（REFLEXES #82：別讓查過的替身代表整件事）。
+ *
+ * @param settings  `/auth/v1/settings` 解出來的物件（非物件 = 沒結論）
+ * @param declared  出貨 bundle 宣告的 provider 名單（字串，逗號分隔；可為空）
+ */
+export function parseAuthSettings(settings, declared) {
+  if (!settings || typeof settings !== 'object')
+    return {
+      state: 'unknown',
+      detail: '回應不是看得懂的設定 —— 查不到,不等於沒事',
+    };
+  const external = settings.external || {};
+  const on = Object.keys(external).filter((k) => external[k] === true);
+  const want = String(declared || '')
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+  // bundle 宣告 email 時，對應的是 external.email；沒宣告就只看「有沒有任何一條路開著」。
+  const missing = want.filter((p) => external[p] !== true);
+  const noSignup = settings.disable_signup === true;
+  if (on.length === 0)
+    return {
+      state: 'broken',
+      detail: 'server 端一個 provider 都沒開 —— 讀者登不進來,也就送不出回報',
+    };
+  if (missing.length)
+    return {
+      state: 'broken',
+      detail:
+        `站上宣告 ${want.join('／')},但 server 端 ${missing.join('／')} 沒開 ——` +
+        ' 讀者點那顆按鈕會登不進來',
+    };
+  if (noSignup)
+    return {
+      state: 'broken',
+      detail: `disable_signup=true —— 開著的 provider（${on.join('／')}）只剩舊帳號能登,新讀者送不進來`,
+    };
+  return {
+    state: 'ok',
+    detail: `HTTP 200 · server 端開著 ${on.join('／')} · disable_signup=false（新讀者登得進來）`,
+  };
+}
+
+/**
  * 線上設定 + API 可達性的讀數 → 報表。
  *
  * 三態分開，不共用長相（同 HG12b `unavailable` / HG12c `null` 的紀律，REFLEXES #85
@@ -328,9 +379,18 @@ export function formatIntakeHealth(h) {
   for (const layer of h.layers) {
     L.push(`  ${sym[layer.state] || '❔'} ${layer.name}：${layer.detail}`);
   }
+  // OAuth 那半只有在「登入這條路」真的被量到（ok 或 broken）時才算收掉；
+  // ❔ 不算——沒量到不准從未涵蓋清單裡消失（REFLEXES #85 / HG12b unavailable 紀律）。
+  const authMeasured = h.layers.some(
+    (l) =>
+      l.name === '登入這條路' && (l.state === 'ok' || l.state === 'broken'),
+  );
   L.push(
-    '  ❔ 未涵蓋：登入讀者的 INSERT 過不過 RLS、OAuth 本身（policy 要求 auth.uid() = uid）——' +
-      '這兩層要有登入態或真的寫一筆才驗得到，後者會在讀者看得到的表與主權層留一筆假回報',
+    authMeasured
+      ? '  ❔ 未涵蓋：登入讀者的 INSERT 過不過 RLS（policy 要求 auth.uid() = uid）——' +
+          '這層要有登入態或真的寫一筆才驗得到，後者會在讀者看得到的表與主權層留一筆假回報'
+      : '  ❔ 未涵蓋：登入讀者的 INSERT 過不過 RLS、OAuth 本身（policy 要求 auth.uid() = uid）——' +
+          '這兩層要有登入態或真的寫一筆才驗得到，後者會在讀者看得到的表與主權層留一筆假回報',
   );
   const broken = h.layers.filter((l) => l.state === 'broken');
   const unknown = h.layers.filter((l) => l.state === 'unknown');
@@ -391,6 +451,16 @@ async function probeIntakeHealth() {
       });
       js = res.ok ? await res.text() : '';
       cfg = parseDeployedFeedbackConfig(js);
+      // 成功時也印一列：舊版只在失敗時 push，健康的那天報表少一層，
+      // 判讀行數的層數就跟 pipeline §讀者送不送得進來 的表對不上
+      // （成功不留痕跡＝那一層在健康時是隱形的，#82 的鏡像）。
+      layers.push({
+        name: '站上 bundle',
+        state: res.ok ? 'ok' : 'unknown',
+        detail: res.ok
+          ? `首頁指得到 FeedbackWidget chunk,抓得下來（${js.length} bytes）`
+          : `chunk HTTP ${res.status} —— 查不到,不等於沒事`,
+      });
     }
   } catch (e) {
     layers.push({
@@ -445,6 +515,36 @@ async function probeIntakeHealth() {
     } catch (e) {
       layers.push({
         name: '金鑰與資料表',
+        state: 'unknown',
+        detail: `戳不到（${e.message}）—— 查不到,不等於沒事`,
+      });
+    }
+
+    // 登入這條路（OAuth）：唯讀公開端點,不送任何東西。2026-10-13 的班次手寫過一次同樣的
+    // 查詢把 OAuth 那半削掉,今天第二次需要它 —— 照這條線的慣例在第二次手寫時落地成儀器
+    // （`--show` 8/31、intake-age 9/10、intake-stats 10/10、intake-health 10/11 同一個先例；
+    // LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`）。
+    const m2 = js.match(/PUBLIC_SUPABASE_ANON_KEY\s*:\s*[`"']([^`"']*)[`"']/);
+    const key2 = m2 ? m2[1] : '';
+    try {
+      const res = await fetch(`${cfg.url}/auth/v1/settings`, {
+        headers: { apikey: key2, Authorization: `Bearer ${key2}` },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (!res.ok) {
+        layers.push({
+          name: '登入這條路',
+          state: 'unknown',
+          detail: `HTTP ${res.status} —— 問不到 auth 設定,查不到不等於沒事`,
+        });
+      } else {
+        const body = await res.json().catch(() => null);
+        const r = parseAuthSettings(body, cfg.providers);
+        layers.push({ name: '登入這條路', ...r });
+      }
+    } catch (e) {
+      layers.push({
+        name: '登入這條路',
         state: 'unknown',
         detail: `戳不到（${e.message}）—— 查不到,不等於沒事`,
       });
