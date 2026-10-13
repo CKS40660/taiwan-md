@@ -31,10 +31,10 @@ rationale:
   whos_pushing_back: '精英化批評——「未成功者」其實是有文化資本、後來進精英位置的「未來成功者」（在場觀察者朱思瑜自問「為什麼我要在這裡假裝成功人士？」）；同溫層 / 台中中部圈地緣排除南東部；niche 規模五年約一千五百人，影響力相對雜學校 20 萬人次有限（但屬刻意設計）。'
 relatedDiary: ['2026-06-07-153821-複雜生活節']
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: 'dd82dc4a6'
-sourceContentHash: 'sha256:7ebf5415595c2d0c'
-sourceBodyHash: 'sha256:f51e2d5a46bf8d87'
-translatedAt: '2026-09-26T05:57:26.880875+00:00'
+sourceCommitSha: 'a3a2c2ab6'
+sourceContentHash: 'sha256:a80f1c8939a4c258'
+sourceBodyHash: 'sha256:94ee6147a8f08b1e'
+translatedAt: '2026-10-13T00:59:38.521112+00:00'
 ---
 
 > **Ikhtisar 30 Detik:** Festival Kehidupan Kompleks adalah pertemuan pemuda yang diadakan lima kali di Taichung dari tahun 2016 hingga 2020, diprakarsai oleh dua mahasiswa Universitas Kedokteran Tiongkok (Zhongguo Medical University) yang seharusnya menjadi dokter: Hsu Hao-ning dari departemen pengobatan tradisional Tiongkok dan Huang Yanlin (nama samaran Huang Doudi) dari departemen kedokteran Barat[^1]. Nama tersebut secara nakal membalikkan "Festival Kehidupan Sederhana" milik generasi Li Zongsheng, menempatkan para peserta sebagai "mereka yang belum berhasil," dengan sekitar dua hingga tiga ratus orang per acara, dan hanya diizinkan membicarakan "pertumbuhan" tetapi tidak boleh membicarakan "kesuksesan"[^1]. Lima tahun kemudian, penyelenggara utama Hsu Hao-ning tetap tinggal di Taichung sebagai dokter Tiongkok dan pemilik toko buku, dan gagal dalam pemilihan anggota dewan; asisten visual Huang Doudi meninggalkan kedokteran untuk menjadi kripto, dan pada tahun 2025 menjadi peneliti tamu di Harvard Kennedy School[^2]. Forum yang menolak "kesuksesan" ini justru membuat penyelenggara dan para peserta akhirnya mencapai semacam kesuksesan masing-masing, dan pertanyaan paling tajamnya adalah: "Apakah Anda ingin mati dengan penyesalan, atau hidup dengan menyerah?" yang diajukan Hsu Hao-ning di atas panggung[^3].
@@ -237,49 +237,50 @@ Bagaimana kita memahami apa yang ditinggalkan oleh pertemuan yang berlangsung li
 
 Yang menarik adalah bahwa keempat jalur ini bertemu lagi pada edisi ketiga Festival Kehidupan Kompleks: Tang Feng adalah perwakilan dari jalur _g0v_ yang masuk ke pemerintah pusat; Xu Haoning sendiri pernah mencalonkan diri mewakili _Shih Ti Da Lieng_; dan Liu Anting adalah jalur pendidikan alternatif—energi yang menyebar setelah 318, berputar selama empat tahun, dan akhirnya duduk bersama di dalam segitiga yang membelakangi penonton. Pengaruh Festival Kehidupan Kompleks bukanlah pada skala, melainkan pada momen "mengenali sesama," dan kemampuannya untuk secara diam-diam menjahit beberapa jalur pemuda yang tampaknya terpisah ke dalam satu ruangan.
 
-## Penutup: Anda Selalu Kurang Sedikit
+## Penutup: Kamu Akan Selalu Merasa Kurang Sedikit Lagi
 
-Pernyataan paling tajam dari Festival Kehidupan Kompleks di acara ketiga disampaikan oleh Hsu Hao-ning.
+Kalimat paling tajam dari _Complex Life Festival_ adalah apa yang diucapkan Hsu Hao-ning di atas panggung pada edisi ketiga.
 
-Ia terlebih dahulu mengakui sesuatu yang memalukan: "Festival Kehidupan Kompleks adalah kegiatan yang paling saya benci untuk diselenggarakan sendiri; setiap tahun saya menguji apakah keyakinan saya itu benar atau tidak. Apakah orang-orang yang datang tahun ini akan enggan datang tahun depan?"[^3] Sebuah festival yang diadakan untuk menghangatkan orang lain, penyelenggaranya sendiri setiap tahun meragukan apakah acara itu masih bisa bertahan. Seseorang yang menciptakan rumah bagi orang lain, berdiri di ambang pintu, dan setiap tahun takut tidak ada yang kembali.
+Ia terlebih dahulu mengakui sebuah kenyataan yang memalukan: "Complex Life Festival adalah acara yang paling saya benci yang pernah saya selenggarakan sendiri; setiap tahun saya menguji apakah keyakinan saya ini nyata atau palsu. Apakah orang-orang yang datang tahun ini, tidak akan ingin datang lagi tahun depan?" [^3] Sebuah festival yang diadakan untuk menghangatkan hati orang lain, namun penyelenggara utamanya sendiri selalu meragukan apakah festival ini bisa bertahan setiap tahunnya. Seseorang yang membangun "rumah" bagi orang lain, namun ia sendiri berdiri di ambang pintu, dan setiap tahun merasa takut tidak ada orang yang akan pulang.
 
-Kemudian ia menyampaikan sesuatu yang membuka semua hal di balik empat kata "yang belum berhasil":
+Kemudian ia menyampaikan sebuah bagian yang membongkar seluruh makna di balik empat kata "mereka yang tidak sukses":
 
-"Berapa lama kita harus berulang kali mengatakan pada diri sendiri bahwa saya tidak cukup kuat, saya tidak cukup baik, sehingga saya harus terus maju? Sampai kapan kita bisa memaafkan diri sendiri dan berkata, 'Saya sudah cukup baik'... karena Anda tidak akan pernah menyukai diri sendiri, Anda selalu kurang sedikit. Apakah Anda ingin mati dengan penyesalan, atau hidup dengan menyerah?"[^3]
+"Berapa tahun waktu yang harus kita habiskan untuk terus-menerus mengatakan pada diri sendiri, 'saya kurang kuat', 'saya kurang baik', jadi saya harus terus melangkah maju? Sampai kapan kita harus bertahan sebelum akhirnya bisa memaafkan diri sendiri dan berkata, 'saya sudah cukup baik'... Karena kamu tidak akan pernah menyukai dirimu sendiri, kamu akan selalu merasa kurang sedikit lagi. Apakah kamu akan mati dalam penyesalan, atau menyerah saat masih hidup?" [^3]
 
-Kutipan ini menjelaskan misteri di awal. Apa sebenarnya "yang belum berhasil"? Itu bukan kata rendah hati; Huang Douni benar-benar pergi ke Harvard, dan kerendahan hati telah ditukar oleh kenyataan. Itu juga bukan sepenuhnya ramalan; "keberhasilan" kelompok ini belakangan sangat bervariasi sehingga tidak bisa diringkas dengan satu garis naik. Lebih seperti keadaan yang dibicarakan Hsu Hao-ning: tuntutan diri yang melekat pada suatu generasi dan tidak bisa dicabut. Selalu merasa kurang sedikit, selalu menolak mengatakan pada diri sendiri "Saya sudah cukup baik." Festival Kehidupan Kompleks mengubah ketidakpuasan kolektif ini menjadi pertemuan tahunan—sekelompok orang yang kurang sedikit, saling mengonfirmasi bahwa mereka memang benar-benar kurang sedikit.
+Bagian ini menjawab teka-teki di awal. Apa sebenarnya yang dimaksud dengan "tidak sukses"? Itu bukanlah sebuah ungkapan rendah hati; Huang Dou Ni benar-benar pergi ke Harvard, ungkapan rendah hati sudah lama luntur oleh realitas. Itu juga bukan sepenuhnya sebuah ramalan; "kesuksesan" kelompok ini di kemudian hari sangatlah beragam, tidak bisa dirangkum dalam satu garis tren yang naik. Hal itu lebih menyerupai kondisi yang dijelaskan oleh Hsu Hao-ning: sebuah tuntutan diri yang melekat pada satu generasi dan tidak bisa dilepaskan. Selalu merasa kurang sedikit lagi, selalu enggan berkata pada diri sendiri "saya sudah cukup baik". _Complex Life Festival_ mengubah ketidakpuasan kolektif ini menjadi sebuah pertemuan tahunan—sekelompok orang yang merasa "kurang sedikit lagi", saling mengonfirmasi bahwa mereka memang benar-benar kurang sedikit lagi.
 
-Huang Douni mengabadikannya dalam "2016–2019 Kehormatan Saya". Hsu Hao-ning tetap di Taichung, terus mempelajari pengobatan tradisional Tiongkok dan melanjutkan toko buku yang tersisa setelah gagal terpilih. Pada tahun kelima, dunia mengunci semua orang dalam karantina mandiri, dan festival yang berlandaskan pertemuan ini secara diam-diam menutup babnya pada tahun yang paling tidak bisa berkumpul.
+Huang Dou Ni menyimpannya dalam "2016–2019 Kehormatan Saya". Hsu Hao-ning tetap tinggal di Taichung, melanjutkan praktik pengobatan Tiongkok, dan terus menjaga toko buku yang tersisa setelah tidak terpilih tersebut. Pada tahun kelima, dunia mengurung semua orang dalam isolasi mandiri; festival yang berlandaskan keyakinan pada berkumpul ini, di tahun di mana orang paling tidak bisa berkumpul, akhirnya berakhir dengan tenang.
 
-Pertanyaan yang tidak terjawab itu masih tertinggal di atas panggung: Apakah Anda ingin mati dengan penyesalan, atau hidup dengan menyerah? Sebuah generasi yang menolak berbicara tentang kesuksesan mengajukan pertanyaan ini, lalu masing-masing kembali ke kehidupan kompleks mereka, terus hidup dalam kekurangan sedikit.
+Pertanyaan yang tidak terjawab itu masih tertinggal di atas panggung: Apakah kamu akan mati dalam penyesalan, atau menyerah saat masih hidup? Sebuah generasi yang menolak membicarakan kesuksesan telah selesai mengajukan pertanyaan ini, lalu masing-masing kembali ke kehidupan mereka yang kompleks, dan terus menjalani hidup dengan perasaan "kurang sedikit lagi".
 
 ```tw-timeline
-2016 | Forum Yang Belum Berhasil | Edisi pertama, persiapan empat puluh hari, dua hingga tiga ratus orang, delapan kelas yang menandai di Facebook "pecandu kerja, dari fakultas"
-2017 | Hotel California | Benar-benar diselenggarakan di hotel, tema diambil dari metafora "masuk tapi tidak bisa keluar"
-2018 | Kaum Muda Zen | Tang Feng, Liu Anting, dan Lin Yiying membentuk segitiga, berbicara berhadapan dengan penonton
-2019 | Mdfk | Huang Douni membuat karakter standar Hanzi untuk motherfucker secara manual, bahasa gaul yang hanya dipahami oleh kelompok sehangat mereka
-2020 | Karantina Mandiri | COVID menyerang, acara fisik dibatalkan dan diubah menjadi Podcast 47 episode, berakhir secara substansial setelah "tahun yang paling tidak keren"
+2016 | Forum Mereka yang Tidak Sukses | Edisi pertama, persiapan 40 hari, dua hingga tiga ratus orang, angkatan Generasi 8 (Gen 8) yang menandai Facebook sebagai "workaholic, top of class"
+2017 | California Hotel | Benar-benar diadakan di hotel, tema diambil dari metafora "bisa masuk, tapi tidak bisa keluar"
+2018 | Pemuda Buddha | Tang Feng, Liu Anting, dan Lin Yi-ying membentuk segitiga dan berdialog membelakangi penonton
+2019 | ㄇㄉㄈㄎ | Huang Dou Ni menggambar karakter Zhuyin untuk "motherfucker", bahasa slang yang hanya dimengerti oleh lingkaran mereka sendiri
+2020 | Isolasi Mandiri | Kedatangan COVID, acara fisik dibatalkan dan diganti menjadi 47 episode Podcast, secara substansial berakhir setelah "tahun yang paling tidak keren"
+Sumber: Tema setiap edisi dan catatan lokasi yang dikutip dalam artikel ini (Wawancara Hsu Hao-ning, Huang Dou Ni, dan laporan tahunan) [^3][^10][^13]
 ```
 
-Sepuluh tahun setelah dua "festival kehidupan," terdapat dua jawaban tentang "bagaimana seharusnya hidup dijalani":
+Dua buah "Festival Kehidupan" dipisahkan oleh sepuluh tahun, mewakili dua jawaban dari dua generasi tentang "seperti apa seharusnya kehidupan itu":
 
 ```tw-versus
-Festival Kehidupan Sederhana (2006) | Festival Kehidupan Kompleks (2016)
-Li Zongsheng, Chang Peiren, Ma Tianzong (industri musik) | Hsu Hao-ning, Huang Douni (mahasiswa kedokteran delapan kelas)
-Tiga puluh ribu orang di edisi pertama, kemudian enam hingga seratus ribu | Dua ratus hingga tiga ratus orang, sengaja dijaga kecil
-Sangat komersial, sponsor merek | Non-komersial, tiket mandiri
-"Tenang dan fokus" | "Pertumbuhan", forum yang belum berhasil
-Lintas generasi, dengan musik sebagai inti | Subjek delapan kelas yang jelas
-Dirayakan pada ulang tahun ke-20 di tahun 2025 | Berakhir secara substansial pada tahun 2020
-Sumber data: Medium resmi Festival Kehidupan Kompleks, arsip Festival Kehidupan Sederhana
+Simple Life Festival (2006) | Complex Life Festival (2016)
+Jonathan Lee, Chang Pei-jen, Ma Tien-tsung (Industri Musik) | Hsu Hao-ning, Huang Dou Ni (Mahasiswa Kedokteran Gen 8)
+Edisi pertama 30.000 orang, kemudian 60 hingga 100 ribu | Dua hingga tiga ratus orang, sengaja dijaga dalam skala kecil
+Sangat komersial, sponsor merek | Non-komersial, pengelolaan tiket mandiri
+"Tenang dan fokus" | "Pertumbuhan", Forum Mereka yang Tidak Sukses
+Lintas generasi, berpusat pada musik | Subjek utama yang jelas dari Generasi 8
+Merayakan ulang tahun ke-20 pada tahun 2025 | Berakhir secara substansial pada tahun 2020
+Sumber data: Medium resmi Complex Life Festival, data tahunan Simple Life Festival
 ```
 
 **Bacaan Lanjutan**:
 
-- [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Latar belakang era Festival Kehidupan Kompleks: Bagaimana gerakan tahun 2014 terpecah menjadi kekuatan zaman, g0v, sekolah aneh, dan jalur pemuda Festival Kehidupan Kompleks setelah bubar di jalanan
-- [Sekolah Aneh](/id/society/za-share) — Energi alternatif yang mengikuti jalur berlawanan dari gelombang 318: Menjadi karnaval pendidikan terbesar di Asia, kontras dengan "sengaja dijaga kecil" oleh Festival Kehidupan Kompleks dalam hal skala dan keintiman
-- [Generasi Multitasking Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Latar belakang struktural bagi peserta Festival Kehidupan Kompleks yang menyebut diri mereka "pecandu kerja": Rata-rata upah dan tekanan hidup, bagaimana generasi ini dipaksa menjadi multi-pekerja
-- [FAB DAO dan Proyek Baiyue](/art/FAB DAO與百岳計畫) — Ke mana Huang Douni pergi setelah meninggalkan kedokteran: Karya berikutnya yang "mengintegrasikan semangat punk kripto ke dalam masyarakat digital Taiwan"
+- [Gerakan Bunga Matahari](/id/society/sunflower-movement) — Latar belakang era _Complex Life Festival_: Bagaimana gerakan tahun 2014 tersebut, setelah bubar di jalanan, terpecah menjadi beberapa saluran bagi pemuda seperti New Power Party, g0v, sekolah alternatif (Zazhu School), dan _Complex Life Festival_.
+- [Zazhu School](/id/society/za-share) — Energi alternatif dari gelombang 318 yang sama, namun mengambil jalur yang berlawanan: tumbuh menjadi karnaval pendidikan terbesar di Asia, yang menjadi kontras antara _scale_ (skala) dan _intimacy_ (keintiman) terhadap kebijakan "sengaja menjaga skala kecil" milik _Complex Life Festival_.
+- [Generasi Slash di Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Latar belakang struktural mengapa peserta _Complex Life Festival_ menyebut diri mereka sebagai "workaholic": bagaimana median gaji dan tekanan bertahan hidup memaksa generasi ini menjadi pekerja dengan banyak profesi.
+- [FAB DAO dan Proyek Baiyue](/art/FAB DAO與百岳計畫) — Ke mana Huang Dou Ni pergi setelah meninggalkan kedokteran: karya berikutnya yang "mengintegrasikan semangat cyberpunk ke dalam masyarakat digital Taiwan".
 
 ## Sumber Gambar
 
