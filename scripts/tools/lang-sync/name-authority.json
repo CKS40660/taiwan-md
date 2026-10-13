@@ -8,5 +8,18 @@
     "蕭青陽": "盤點多數形 Xiao Qing-yang（de/es/fr），pt 用 Hsiao Ching-yang。葛萊美入圍者，國際場合用哪個要查。",
     "曹興誠": "en 標題目前是 `Morris Chang vs. Chang Hsin-cheng`——Morris Chang 是張忠謀，這筆是硬錯，但正確形是 Robert Tsao（規則 1）還是 Tsao Hsing-cheng（規則 3）要定。"
   },
-  "authority": {}
+  "authority": {
+    "王冠閎": {
+      "form": "Wang Kuan-hung",
+      "why": "規則(1) 本人通用英文名：Focus Taiwan 2026-09-25 亞運報導、Olympics.com 選手頁 WANG Kuan-Hung（2026-10-14 babel-nightly 查證；Haiku 首譯寫成 Kuan-hong）"
+    },
+    "傅兆玄": {
+      "form": "Fu Chao-hsuan",
+      "why": "規則(1)：Focus Taiwan 2026-09-27 亞運跳高金牌報導、英文維基同名（2026-10-14 babel-nightly 查證）"
+    },
+    "李灝宇": {
+      "form": "Hao-Yu Lee",
+      "why": "規則(1)：大聯盟登錄名 Hao-Yu Lee（底特律老虎；Taipei Times 2026-07-26、Rotowire）；slug 照站上姓前慣例 lee-hao-yu（2026-10-14 babel-nightly 查證）"
+    }
+  }
 }
