@@ -353,3 +353,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-15 | 061009-twmd-embeddings-nightly | 例行重建：13 語 14,584 向量 0 fail，verify PASS，`e8bea7f69`；〈看不見的台灣〉〈台灣與亞運〉進 zh 索引；push 被拒是 data-refresh 已代推本班 commit | 拒絕訊息裡的 hash 是自己的，fetch 對一次再判 | [→](memory/2026-10-15-061009-twmd-embeddings-nightly.md) |
 | 2026-10-15 | 061016-twmd-data-refresh-am | 14 步全過、0 stale；翻譯夜班假死告警如昨日預測自己消失；發現儀表板「平均互動秒數」填的是 GA4 工作階段長度，交接改名 | 欄位名稱說錯它量什麼，每天讀的人都跟著錯 | [→](memory/2026-10-15-061016-twmd-data-refresh-am.md) |
 | 2026-10-15 | 064150-twmd-spore-harvest-am | 窗口連五天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 舊孢子還有人按讚，空場是發布端停擺不是讀者走了 | [→](memory/2026-10-15-064150-twmd-spore-harvest-am.md) |
+| 2026-10-15 | 070955-twmd-feedback-triage | 十九輪沉默在第 14.7 天結束：一筆組織名勘誤開成 issue #1851（bot 身份、零 email、verbatim），兩道對賬 89/89 與 88/89 全綠 | 寫入端最後那一格的讀數只可能來自讀者自己 | [→](memory/2026-10-15-070955-twmd-feedback-triage.md) |
