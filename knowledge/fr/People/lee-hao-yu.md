@@ -1,12 +1,12 @@
 ---
-title: "Li Hao-yu : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais"
-description: "En 2026, à 23 ans, Li Hao-yu devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américaine. Lors de sa première saison, il dispute 114 matchs, frappe 10 coups de circuit et établit cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis."
+title: "Hao-Yu Lee : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais"
+description: "En 2026, à 23 ans, Hao-Yu Lee devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américaine. Lors de sa première saison, il dispute 114 matchs, frappe 10 coups de circuit et établit cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis."
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'Personnalité',
-    'Li Hao-yu',
+    'Hao-Yu Lee',
     'baseball professionnel américain',
     'Ligue majeure',
     'Tigres de Détroit',
@@ -31,23 +31,23 @@ sourceBodyHash: 'sha256:bc4dd1817b145605'
 translatedAt: '2026-10-14T04:51:40+08:00'
 ---
 
-# Li Hao-yu : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais
+# Hao-Yu Lee : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais
 
-> **Résumé en 30 secondes :** En 2026, à 23 ans, Li Hao-yu devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américain. Lors de sa première saison, il dispute 114 matchs, accumule 330 passages au bâton pour 87 coups sûrs et 10 coups de circuit, établissant cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis. Cette année-là, il affronte également pour la première fois le lanceur taïwanais Teng Kai-wei à la batte, ce qui constitue le premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure.
+> **Résumé en 30 secondes :** En 2026, à 23 ans, Hao-Yu Lee devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américain. Lors de sa première saison, il dispute 114 matchs, accumule 330 passages au bâton pour 87 coups sûrs et 10 coups de circuit, établissant cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis. Cette année-là, il affronte également pour la première fois le lanceur taïwanais Teng Kai-wei à la batte, ce qui constitue le premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure.
 
-**Mots-clés** : Li Hao-yu, Tigres de Détroit, Ligue majeure, Teng Kai-wei, baseball taïwanais
+**Mots-clés** : Hao-Yu Lee, Tigres de Détroit, Ligue majeure, Teng Kai-wei, baseball taïwanais
 
 ---
 
 ## Le moment où il a conduit jusqu'à la frontière canadienne
 
-Lorsqu'il a été appelé à la Ligue majeure, les bagages de Li Hao-yu étaient encore restés en Ligue mineure. Il a dû les récupérer lui-même en voiture. Sur le chemin du retour à Détroit, il s'est trompé de direction et a roulé jusqu'au Canada, ne s'en apercevant que lorsqu'il a vu le drapeau canadien. Son téléphone n'avait pas de signal et il ne pouvait appeler à l'aide.[^1]
+Lorsqu'il a été appelé à la Ligue majeure, les bagages de Hao-Yu Lee étaient encore restés en Ligue mineure. Il a dû les récupérer lui-même en voiture. Sur le chemin du retour à Détroit, il s'est trompé de direction et a roulé jusqu'au Canada, ne s'en apercevant que lorsqu'il a vu le drapeau canadien. Son téléphone n'avait pas de signal et il ne pouvait appeler à l'aide.[^1]
 
 Il a expliqué aux douaniers en anglais approximatif qu'il était joueur de baseball professionnel. L'agent des douanes lui a répondu : « Pas de problème, tu n'es pas le premier à te tromper de route », puis l'a conduit dans une petite pièce. L'agent a cherché son nom sur Google, a confirmé qu'il était bien joueur, et a dit : « C'est cool ! Tu as 2 coups de circuit. » Il a corrigé : « Non, c'est 3 coups de circuit ! » Il raconte en riant que l'agent des douanes canadiens était très musclé, qu'il n'aurait probablement pas pu le battre, donc en répondant il n'avait pas d'agressivité, il a juste ri.[^1]
 
 ## Une première saison de 114 matchs, 10 coups de circuit et cinq records établis
 
-Lors de la saison 2026, Li Hao-yu a accédé à la Ligue majeure pour la première fois, devenant le 19e joueur taïwanais de l'histoire et le 7e joueur de champ. Au total, il a disputé 114 matchs, accumulé 330 passages au bâton pour 87 coups sûrs, dont 10 coups de circuit, avec 46 points produits, 3 vols de base et une moyenne au bâton de ,264. Les matchs joués, les passages au bâton, les coups sûrs, les coups de circuit et les points produits — cinq statistiques — établissent tous des records de joueurs taïwanais en une seule saison.[^1]
+Lors de la saison 2026, Hao-Yu Lee a accédé à la Ligue majeure pour la première fois, devenant le 19e joueur taïwanais de l'histoire et le 7e joueur de champ. Au total, il a disputé 114 matchs, accumulé 330 passages au bâton pour 87 coups sûrs, dont 10 coups de circuit, avec 46 points produits, 3 vols de base et une moyenne au bâton de ,264. Les matchs joués, les passages au bâton, les coups sûrs, les coups de circuit et les points produits — cinq statistiques — établissent tous des records de joueurs taïwanais en une seule saison.[^1]
 
 Les 10 coups de circuit en une saison sont le chiffre le plus souvent mentionné cette année-là. Dans l'ensemble de la ligue, ce n'est pas la performance la plus remarquable, mais dans les coordonnées historiques des joueurs taïwanais, c'est une nouvelle ligne tracée.[^1]
 
@@ -73,7 +73,7 @@ Dans cette auto-description, aucune année n'est linéaire. Son propre commentai
 
 ## Le premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure
 
-Le 16 juin (heure de Taïwan), lors d'un match entre les Tigres et les Astros, Li Hao-yu affronte à la batte le lanceur taïwanais Teng Kai-wei, ce qui constitue le premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure.[^4]
+Le 16 juin (heure de Taïwan), lors d'un match entre les Tigres et les Astros, Hao-Yu Lee affronte à la batte le lanceur taïwanais Teng Kai-wei, ce qui constitue le premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure.[^4]
 
 À son premier passage au bâton, il laisse passer deux lancers, puis se fait retirer sur trois prises. Teng Kai-wei lui sourit, et il dit en riant « c'était un peu frustrant ». À son deuxième passage, il affronte à nouveau Teng Kai-wei et frappe un coup sûr. Ce match-là, il enregistre deux coups sûrs et réalise son premier vol de base en carrière en Ligue majeure. Le même jour, Teng Kai-wei lance 3,1 manches, encaisse 3 coups de circuit, enregistre 9 retraits sur trois prises, atteint son 100e retrait sur trois prises en carrière et subit la défaite.[^4]
 
@@ -81,7 +81,7 @@ Il dit que c'était probablement la première fois de sa carrière en Amérique 
 
 ## Les records sont là pour que les autres les poursuivent
 
-Lors de la conférence de presse à son retour à Taïwan, Li Hao-yu a mentionné que son objectif futur est de figurer sur la liste d'ouverture de saison.[^1] Compte tenu des résultats de sa première saison complète, ce qu'il a fait en 2026 est d'inscrire son nom dans le tableau des joueurs taïwanais de la Ligue majeure, et de dire lui-même ce qu'il poursuit réellement : être un bon joueur qui peut rester aux États-Unis.[^1][^2]
+Lors de la conférence de presse à son retour à Taïwan, Hao-Yu Lee a mentionné que son objectif futur est de figurer sur la liste d'ouverture de saison.[^1] Compte tenu des résultats de sa première saison complète, ce qu'il a fait en 2026 est d'inscrire son nom dans le tableau des joueurs taïwanais de la Ligue majeure, et de dire lui-même ce qu'il poursuit réellement : être un bon joueur qui peut rester aux États-Unis.[^1][^2]
 
 **Lectures complémentaires** :
 
@@ -89,10 +89,10 @@ Lors de la conférence de presse à son retour à Taïwan, Li Hao-yu a mentionn�
 
 ## Références
 
-[^1]: [Li Hao-yu raconte les anecdotes de son accession à la Ligue majeure lors de son retour à Taïwan, y compris son entrée accidentelle à la frontière canadienne](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant les statistiques complètes de la première saison (114 matchs, 330 passages au bâton, 87 coups sûrs, 10 coups de circuit, 46 points produits, 3 vols de base, moyenne de ,264), le statut de 19e joueur taïwanais et 7e joueur de champ, les détails de l'entrée accidentelle à la frontière canadienne, et l'objectif de figurer sur la liste d'ouverture de saison mentionné lors de la conférence de presse au retour à Taïwan.
+[^1]: [Hao-Yu Lee raconte les anecdotes de son accession à la Ligue majeure lors de son retour à Taïwan, y compris son entrée accidentelle à la frontière canadienne](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant les statistiques complètes de la première saison (114 matchs, 330 passages au bâton, 87 coups sûrs, 10 coups de circuit, 46 points produits, 3 vols de base, moyenne de ,264), le statut de 19e joueur taïwanais et 7e joueur de champ, les détails de l'entrée accidentelle à la frontière canadienne, et l'objectif de figurer sur la liste d'ouverture de saison mentionné lors de la conférence de presse au retour à Taïwan.
 
-[^2]: [Li Hao-yu établit des records pour les joueurs taïwanais en Ligue majeure et exprime ses sentiments : « Ce n'est pas mon objectif de devenir le meilleur joueur taïwanais »](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Agence centrale de presse 2026-08-19 rapport de Taipei, enregistrant le nouveau record de joueur taïwanais du 18 août avec 3 coups sûrs et cinq fois atteindre le marbre en un seul match, et le dépassement des 54 coups sûrs en une saison de Chang Yu-cheng en 2021, incluant également ses déclarations lors de l'interview avec le Detroit News.
+[^2]: [Hao-Yu Lee établit des records pour les joueurs taïwanais en Ligue majeure et exprime ses sentiments : « Ce n'est pas mon objectif de devenir le meilleur joueur taïwanais »](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Agence centrale de presse 2026-08-19 rapport de Taipei, enregistrant le nouveau record de joueur taïwanais du 18 août avec 3 coups sûrs et cinq fois atteindre le marbre en un seul match, et le dépassement des 54 coups sûrs en une saison de Chang Yu-cheng en 2021, incluant également ses déclarations lors de l'interview avec le Detroit News.
 
-[^3]: [Li Hao-yu admet un certain déséquilibre après avoir été mis sur le banc en août, mais change de perspective et saisit les occasions limitées](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant le changement de mentalité après avoir été mis sur le banc suite à 12 matchs consécutifs avec un coup sûr, la méthode de préparation contre les lanceurs gauchers, et ses descriptions personnelles de chaque phase de 2022 à 2026.
+[^3]: [Hao-Yu Lee admet un certain déséquilibre après avoir été mis sur le banc en août, mais change de perspective et saisit les occasions limitées](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant le changement de mentalité après avoir été mis sur le banc suite à 12 matchs consécutifs avec un coup sûr, la méthode de préparation contre les lanceurs gauchers, et ses descriptions personnelles de chaque phase de 2022 à 2026.
 
-[^4]: [Rétrospective du premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure : le sourire de Teng Kai-wei a stimulé l'esprit de compétition de Li Hao-yu](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant les deux passages au bâton du premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure le 16 juin, le contenu du lancer de Teng Kai-wei ce jour-là et son 100e retrait sur trois prises en carrière, ainsi que leur relation amicale en privé.
+[^4]: [Rétrospective du premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure : le sourire de Teng Kai-wei a stimulé l'esprit de compétition de Hao-Yu Lee](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Agence centrale de presse 2026-10-12 rapport de Taipei, enregistrant les deux passages au bâton du premier duel lanceur-frappeur taïwanais de l'histoire de la Ligue majeure le 16 juin, le contenu du lancer de Teng Kai-wei ce jour-là et son 100e retrait sur trois prises en carrière, ainsi que leur relation amicale en privé.

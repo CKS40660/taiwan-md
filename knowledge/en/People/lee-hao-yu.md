@@ -1,12 +1,12 @@
 ---
-title: "Lee Hao-yu: His Goal in America Is Not to Be Taiwan's Best Player"
-description: "In 2026, 23-year-old Lee Hao-yu became Taiwan's 19th player to reach Major League Baseball, playing 114 games in his first season with 10 home runs, rewriting five single-season records for Taiwanese players. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America."
+title: "Hao-Yu Lee: His Goal in America Is Not to Be Taiwan's Best Player"
+description: "In 2026, 23-year-old Hao-Yu Lee became Taiwan's 19th player to reach Major League Baseball, playing 114 games in his first season with 10 home runs, rewriting five single-season records for Taiwanese players. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America."
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'People',
-    'Lee Hao-yu',
+    'Hao-Yu Lee',
     'American baseball',
     'Major League Baseball',
     'Detroit Tigers',
@@ -31,11 +31,11 @@ sourceBodyHash: 'sha256:bc4dd1817b145605'
 translatedAt: '2026-10-14T04:51:36+08:00'
 ---
 
-# Lee Hao-yu: His Goal in America Is Not to Be Taiwan's Best Player
+# Hao-Yu Lee: His Goal in America Is Not to Be Taiwan's Best Player
 
-> **30-second overview:** In 2026, 23-year-old Lee Hao-yu became Taiwan's 19th player to reach Major League Baseball. In his first season, he played 114 games with 330 at-bats, recording 87 hits and 10 home runs, rewriting five single-season records for Taiwanese players: games played, at-bats, hits, home runs, and RBIs. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America. That year he also faced Taiwanese pitcher Deng Kai-wei (鄧愷威) at the plate for the first time, marking the first Taiwan-on-Taiwan pitcher-batter matchup in MLB history.
+> **30-second overview:** In 2026, 23-year-old Hao-Yu Lee became Taiwan's 19th player to reach Major League Baseball. In his first season, he played 114 games with 330 at-bats, recording 87 hits and 10 home runs, rewriting five single-season records for Taiwanese players: games played, at-bats, hits, home runs, and RBIs. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America. That year he also faced Taiwanese pitcher Deng Kai-wei (鄧愷威) at the plate for the first time, marking the first Taiwan-on-Taiwan pitcher-batter matchup in MLB history.
 
-**Keywords**: Lee Hao-yu, Detroit Tigers, Major League Baseball, Deng Kai-wei, Taiwan baseball
+**Keywords**: Hao-Yu Lee, Detroit Tigers, Major League Baseball, Deng Kai-wei, Taiwan baseball
 
 ---
 
@@ -73,7 +73,7 @@ There's no straight line in this self-assessment. His own note on it: "Each stag
 
 ## MLB's First Taiwan-on-Taiwan Pitcher-Batter Matchup
 
-On June 16 Taiwan time, the Tigers faced the Astros, and Lee Hao-yu stepped into the batter's box against fellow Taiwanese pitcher Deng Kai-wei—the first Taiwan-on-Taiwan pitcher-batter matchup in MLB history.[^4]
+On June 16 Taiwan time, the Tigers faced the Astros, and Hao-Yu Lee stepped into the batter's box against fellow Taiwanese pitcher Deng Kai-wei—the first Taiwan-on-Taiwan pitcher-batter matchup in MLB history.[^4]
 
 In his first at-bat, he let two pitches go by before striking out. Deng smiled at him, and Lee laughed, saying he was "a bit annoyed." In the second at-bat against him, he got a hit off Deng. That game he recorded two hits and his first career stolen base in the majors. That same day, Deng pitched 3.1 innings, gave up 3 home runs, struck out 9, reached his 100th career strikeout, and took the loss.[^4]
 
@@ -89,10 +89,10 @@ At the press conference back in Taiwan, Lee mentioned his future goal is to make
 
 ## References
 
-[^1]: [Lee Hao-yu Returns to Taiwan, Shares Amusing Stories of His MLB Call-up; Discusses Accidental Drive to Canadian Border](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Central News Agency, October 12, 2026, Taipei. Records complete first-season statistics (114 games, 330 at-bats, 87 hits, 10 home runs, 46 RBIs, 3 steals, .264 average), his status as Taiwan's 19th player and 7th position player, the Canadian border incident, and his goal of making the opening day roster mentioned at the Taiwan press conference.
+[^1]: [Hao-Yu Lee Returns to Taiwan, Shares Amusing Stories of His MLB Call-up; Discusses Accidental Drive to Canadian Border](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Central News Agency, October 12, 2026, Taipei. Records complete first-season statistics (114 games, 330 at-bats, 87 hits, 10 home runs, 46 RBIs, 3 steals, .264 average), his status as Taiwan's 19th player and 7th position player, the Canadian border incident, and his goal of making the opening day roster mentioned at the Taiwan press conference.
 
-[^2]: [Lee Hao-yu Sets MLB Taiwan Player Records, Speaks His Mind: "Being the Best Taiwanese Player Was Never the Goal"](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Central News Agency, August 19, 2026, Taipei. Records the August 18 single-game record of 3 hits and 5 times on base for a Taiwanese player, surpassing Chang Yu-cheng's 54 hits from 2021, and includes his remarks from an interview with the Detroit news.
+[^2]: [Hao-Yu Lee Sets MLB Taiwan Player Records, Speaks His Mind: "Being the Best Taiwanese Player Was Never the Goal"](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Central News Agency, August 19, 2026, Taipei. Records the August 18 single-game record of 3 hits and 5 times on base for a Taiwanese player, surpassing Chang Yu-cheng's 54 hits from 2021, and includes his remarks from an interview with the Detroit news.
 
-[^3]: [Lee Hao-yu Benched in August, Admits Frustration but Shifts Mindset to Seize Limited Opportunities](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Central News Agency, October 12, 2026, Taipei. Records his mental adjustment after being benched following 12 consecutive games with hits, his preparation strategy against left-handed pitchers, and his self-assessment of each phase from 2022 to 2026.
+[^3]: [Hao-Yu Lee Benched in August, Admits Frustration but Shifts Mindset to Seize Limited Opportunities](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Central News Agency, October 12, 2026, Taipei. Records his mental adjustment after being benched following 12 consecutive games with hits, his preparation strategy against left-handed pitchers, and his self-assessment of each phase from 2022 to 2026.
 
-[^4]: [Reflecting on MLB's First Taiwan-on-Taiwan Pitcher-Batter Matchup: Deng Kai-wei's Smile Sparked Lee Hao-yu's Competitive Fire](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Central News Agency, October 12, 2026, Taipei. Records the two at-bats from the June 16 historic Taiwan-on-Taiwan matchup, Deng's pitching performance that day and his 100th career strikeout, and the friendship between the two players off the field.
+[^4]: [Reflecting on MLB's First Taiwan-on-Taiwan Pitcher-Batter Matchup: Deng Kai-wei's Smile Sparked Hao-Yu Lee's Competitive Fire](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Central News Agency, October 12, 2026, Taipei. Records the two at-bats from the June 16 historic Taiwan-on-Taiwan matchup, Deng's pitching performance that day and his 100th career strikeout, and the friendship between the two players off the field.

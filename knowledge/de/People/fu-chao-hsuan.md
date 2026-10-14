@@ -1,12 +1,12 @@
 ---
-title: 'Fu Zhao-xuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete'
-description: 'Bei der Männer-Hochsprung-Endrunde der Nagoya-Asienspielen 2026 sprang Fu Zhao-xuan im Regen beim ersten Versuch über 2,25 Meter und besiegte den indischen Konkurrenten, der die gleiche Höhe erst beim zweiten Versuch schaffte, um Gold zu gewinnen. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium. Mit 16 Jahren gewann er bereits eine Goldmedaille bei den Nationalen Spielen, danach kämpfte er lange Jahre mit Verletzungen und Genesung.'
+title: 'Fu Chao-hsuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete'
+description: 'Bei der Männer-Hochsprung-Endrunde der Nagoya-Asienspielen 2026 sprang Fu Chao-hsuan im Regen beim ersten Versuch über 2,25 Meter und besiegte den indischen Konkurrenten, der die gleiche Höhe erst beim zweiten Versuch schaffte, um Gold zu gewinnen. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium. Mit 16 Jahren gewann er bereits eine Goldmedaille bei den Nationalen Spielen, danach kämpfte er lange Jahre mit Verletzungen und Genesung.'
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'Person',
-    'Fu Zhao-xuan',
+    'Fu Chao-hsuan',
     'Hochsprung',
     'Asienspielen',
     'Nagoya-Asienspielen',
@@ -32,11 +32,11 @@ sourceBodyHash: 'sha256:8b1a89162347e6a1'
 translatedAt: '2026-10-14T04:51:50+08:00'
 ---
 
-# Fu Zhao-xuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete
+# Fu Chao-hsuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete
 
-> **30-Sekunden-Überblick:** Am Abend des 27. September 2026 fand die Männer-Hochsprung-Endrunde der Nagoya-Asienspielen im Regen statt. Fu Zhao-xuan sprang beim ersten Versuch über 2,25 Meter, während der indische Konkurrent die gleiche Höhe erst beim zweiten Versuch schaffte und der südkoreanische Athlet zweimal scheiterte – die Goldmedaille ging an Fu. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium.
+> **30-Sekunden-Überblick:** Am Abend des 27. September 2026 fand die Männer-Hochsprung-Endrunde der Nagoya-Asienspielen im Regen statt. Fu Chao-hsuan sprang beim ersten Versuch über 2,25 Meter, während der indische Konkurrent die gleiche Höhe erst beim zweiten Versuch schaffte und der südkoreanische Athlet zweimal scheiterte – die Goldmedaille ging an Fu. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium.
 
-**Schlüsselbegriffe**: Fu Zhao-xuan, Hochsprung, Nagoya-Asienspielen, Wu A-min, taiwanesische Leichtathletik
+**Schlüsselbegriffe**: Fu Chao-hsuan, Hochsprung, Nagoya-Asienspielen, Wu A-min, taiwanesische Leichtathletik
 
 ---
 
@@ -44,7 +44,7 @@ translatedAt: '2026-10-14T04:51:50+08:00'
 
 Am Abend des 27. September 2026 fand die Männer-Hochsprung-Endrunde der Nagoya-Asienspielen statt. Der Regen fiel ununterbrochen, der Boden war sehr rutschig.[^1]
 
-Fu Zhao-xuan betrat die Anlaufbahn, sein Rhythmus beim Anlauf und Absprung wurde durch das Wetter nicht gestört, und beim ersten Versuch sprang er über 2,25 Meter hinweg. Nach der Landung jubelte er mit erhobenen Armen.[^1] Der indische Konkurrent, der die gleiche Höhe versuchte, schaffte es erst beim zweiten Versuch, der südkoreanische Athlet scheiterte zweimal – die Goldmedaille ging daher an denjenigen, der beim ersten Versuch erfolgreich war.[^1]
+Fu Chao-hsuan betrat die Anlaufbahn, sein Rhythmus beim Anlauf und Absprung wurde durch das Wetter nicht gestört, und beim ersten Versuch sprang er über 2,25 Meter hinweg. Nach der Landung jubelte er mit erhobenen Armen.[^1] Der indische Konkurrent, der die gleiche Höhe versuchte, schaffte es erst beim zweiten Versuch, der südkoreanische Athlet scheiterte zweimal – die Goldmedaille ging daher an denjenigen, der beim ersten Versuch erfolgreich war.[^1]
 
 Nach dem Wettkampf schrieb er den Erfolg nicht allein diesem Sprung zu, sondern überprüfte vielmehr seine eigene Energieverteilung: „Ich denke, die Strategie könnte noch angepasst werden, denn in diesem Wettkampf war ich gegen Ende wirklich etwas erschöpft, vielleicht sollte ich mit dem Trainerteam besprechen, wie ich effizienter vorgehen kann und wie ich meine Leistung bei den folgenden Sprüngen verbessern kann."[^1]
 
@@ -54,23 +54,23 @@ Bei der Siegerehrung trug er die Flagge des Chinesischen Olympischen Komitees Ta
 
 Diese Goldmedaille ist die dritte Goldmedaille der taiwanischen Delegation bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit 60 Jahren.[^1][^2]
 
-Der letzte taiwanische Athlet, der eine Goldmedaille in der Männer-Leichtathletik bei den Asienspielen gewann, war Wu A-min bei den Bangkok-Asienspielen 1966, der den Männer-Zehnkampf gewann. Was den Männer-Hochsprung betrifft, reicht Taiwans letzte Asienspielen-Medaille auf die Bronzemedaille von Liao Xue-song 1990 zurück.[^2] Mit anderen Worten: Diese Medaille 60 Jahre später kommt aus einer anderen Disziplin – Wu A-min gewann damals den Zehnkampf, Fu Zhao-xuan gewann den Einzelsprung Hochsprung.[^2]
+Der letzte taiwanische Athlet, der eine Goldmedaille in der Männer-Leichtathletik bei den Asienspielen gewann, war Wu A-min bei den Bangkok-Asienspielen 1966, der den Männer-Zehnkampf gewann. Was den Männer-Hochsprung betrifft, reicht Taiwans letzte Asienspielen-Medaille auf die Bronzemedaille von Liao Xue-song 1990 zurück.[^2] Mit anderen Worten: Diese Medaille 60 Jahre später kommt aus einer anderen Disziplin – Wu A-min gewann damals den Zehnkampf, Fu Chao-hsuan gewann den Einzelsprung Hochsprung.[^2]
 
 ## Der Trainer nannte ihn ein Allround-Talent, doch er steckte Jahre lang in Verletzung und Genesung fest
 
-Fu Zhao-xuan ist derzeit 23 Jahre alt und 196 Zentimeter groß. Seine Mutter war Volleyballspielerin, sein Vater behauptet, Hochspringer gewesen zu sein, und unter den drei Brüdern ist er der zweite und der Größte.[^3]
+Fu Chao-hsuan ist derzeit 23 Jahre alt und 196 Zentimeter groß. Seine Mutter war Volleyballspielerin, sein Vater behauptet, Hochspringer gewesen zu sein, und unter den drei Brüdern ist er der zweite und der Größte.[^3]
 
 Er begann in der Grundschule mit Leichtathletik-Mehrkampf, überschritt in der neunten Klasse bereits die 180-Zentimeter-Marke und konzentrierte sich erst in der Oberschule auf Hochsprung. Er erklärt selbst, warum er diesen Sport liebt: „Bei diesem Sport kann man in der Luft fliegen, und die ganze Zuschauermenge konzentriert sich nur auf mich als Einzelnen."[^3]
 
 In der Oberschule trainierte er in der Taoyuan High School unter dem Trainer Chen Hong-jie, der selbst aus einer Familie von taiwanischen Hochsprung-Legenden stammte. Fus Leistung verbesserte sich von über 1,90 Metern in der zehnten Klasse auf 2,19 Meter beim Training in der elften Klasse, und mit 16 Jahren gewann er die Goldmedaille im Männer-Hochsprung bei den Nationalen Spielen für die Stadt Taoyuan.[^3]
 
-Chen Hong-jies Bewertung war direkt: „Zhao-xuan hat starke Explosivkraft und trainiert gewissenhaft – schon in der Oberschule konnte man sehen, dass er ein Allround-Talent ist." Der Trainer sagte auch, dass Fu beim ersten Mal Stabhochsprung trainierte, direkt über 3,80 Meter sprang, und wenn er damals Zehnkampf trainiert hätte, hätte er heute auch gute Chancen auf eine Goldmedaille.[^3]
+Chen Hong-jies Bewertung war direkt: „Chao-hsuan hat starke Explosivkraft und trainiert gewissenhaft – schon in der Oberschule konnte man sehen, dass er ein Allround-Talent ist." Der Trainer sagte auch, dass Fu beim ersten Mal Stabhochsprung trainierte, direkt über 3,80 Meter sprang, und wenn er damals Zehnkampf trainiert hätte, hätte er heute auch gute Chancen auf eine Goldmedaille.[^3]
 
 Nachdem Fu mit dem Ruf eines „begabten Oberschülers" in den Erwachsenensport eintrat, kämpfte er lange Jahre in einem Kreislauf aus Verletzung, Genesung und Wettkampf, und er beschreibt diese Jahre selbst so:
 
 „Meine Leistung stagnierte lange Zeit, ich war ständig in der Genesung nach Verletzungen, und diese Tiefphase war auch sehr schwer zu ertragen. Zum Glück begleiteten mich Teamkollegen und Trainer, bis ich endlich einen großen Schritt nach vorne machen konnte."[^3]
 
-Bei den Nationalen Hochschul- und Universitätsspielen 2024 brach Ye Bo-ting von der Yunlin University of Science and Technology mit 2,30 Metern den seit 9 Jahren bestehenden nationalen Rekord. Dies war ein weiterer schwerer Schlag für Fu Zhao-xuan: „Damals brach Bo-ting zuerst den nationalen Rekord, und das war wirklich ein großer Schlag für mich. Es dauerte lange, bis ich mich davon erholt hatte. Ich fragte mich, warum ich nicht noch besser werden konnte – ich fühlte mich, als würde ich weit hinterherhinken."[^3]
+Bei den Nationalen Hochschul- und Universitätsspielen 2024 brach Ye Bo-ting von der Yunlin University of Science and Technology mit 2,30 Metern den seit 9 Jahren bestehenden nationalen Rekord. Dies war ein weiterer schwerer Schlag für Fu Chao-hsuan: „Damals brach Bo-ting zuerst den nationalen Rekord, und das war wirklich ein großer Schlag für mich. Es dauerte lange, bis ich mich davon erholt hatte. Ich fragte mich, warum ich nicht noch besser werden konnte – ich fühlte mich, als würde ich weit hinterherhinken."[^3]
 
 ## 2,25 Meter entspricht seiner Saisonbestleistung, aber er sagt, das reicht nicht
 
@@ -92,10 +92,10 @@ Von Wu A-mins Zehnkampf 1966 bis zu Fus Hochsprung 2026 – die Linie der taiwan
 
 ## Quellenangaben
 
-[^1]: [Nagoya-Asienspielen: Taiwan gewinnt dritte Goldmedaille, Fu Zhao-xuan siegt im Hochsprung mit 2,25 Metern](https://news.pts.org.tw/article/828902) — PTS News Network 28. September 2026, Gesamtbericht mit Aufzeichnungen des Regens während des Finales, des ersten Versuchs über 2,25 Meter, der Versuche der indischen und südkoreanischen Athleten sowie des Interviews nach dem Wettkampf.
+[^1]: [Nagoya-Asienspielen: Taiwan gewinnt dritte Goldmedaille, Fu Chao-hsuan siegt im Hochsprung mit 2,25 Metern](https://news.pts.org.tw/article/828902) — PTS News Network 28. September 2026, Gesamtbericht mit Aufzeichnungen des Regens während des Finales, des ersten Versuchs über 2,25 Meter, der Versuche der indischen und südkoreanischen Athleten sowie des Interviews nach dem Wettkampf.
 
-[^2]: [Fu Zhao-xuan gewinnt Hochsprung-Gold bei Asienspielen – erste taiwanische Männer-Leichtathletik-Goldmedaille seit 60 Jahren](https://www.cna.com.tw/news/aspt/202609270189.aspx) — Central News Agency, 27. September 2026, Nagoya-Spezialdepesche mit Aufzeichnungen der dritten Goldmedaille dieser Spiele, Wu A-mins Zehnkampf 1966 und Liao Xue-songs Bronzemedaille 1990.
+[^2]: [Fu Chao-hsuan gewinnt Hochsprung-Gold bei Asienspielen – erste taiwanische Männer-Leichtathletik-Goldmedaille seit 60 Jahren](https://www.cna.com.tw/news/aspt/202609270189.aspx) — Central News Agency, 27. September 2026, Nagoya-Spezialdepesche mit Aufzeichnungen der dritten Goldmedaille dieser Spiele, Wu A-mins Zehnkampf 1966 und Liao Xue-songs Bronzemedaille 1990.
 
-[^3]: [Fu Zhao-xuan gewinnt Hochsprung-Gold bei Asienspielen – Trainer rühmt ihn als Allround-Talent seit der Oberschule](https://www.cna.com.tw/news/aspt/202609270202.aspx) — Central News Agency, 27. September 2026, Nagoya-Spezialdepesche mit Familiengeschichte, 196 Zentimeter Körpergröße, Taoyuan High School und Trainer Chen Hong-jie, Stabhochsprung 3,80 Meter, Schock durch Rekordbruch bei den Nationalen Hochschulspielen 2024.
+[^3]: [Fu Chao-hsuan gewinnt Hochsprung-Gold bei Asienspielen – Trainer rühmt ihn als Allround-Talent seit der Oberschule](https://www.cna.com.tw/news/aspt/202609270202.aspx) — Central News Agency, 27. September 2026, Nagoya-Spezialdepesche mit Familiengeschichte, 196 Zentimeter Körpergröße, Taoyuan High School und Trainer Chen Hong-jie, Stabhochsprung 3,80 Meter, Schock durch Rekordbruch bei den Nationalen Hochschulspielen 2024.
 
-[^4]: [Fu Zhao-xuan gewinnt Hochsprung-Gold bei Asienspielen – nach Rückkehr Ernährungskontrolle gelockert, erst mal Bubble Tea gekauft](https://www.cna.com.tw/news/aspt/202610060229.aspx) — Central News Agency, 6. Oktober 2026, Taipeh-Bericht mit Unterschied zwischen Saisonbestleistung 2,25 Meter und persönlichem Rekord 2,27 Meter, Interview beim Empfang für Heimkehrer und Planung für Universiadenspielen, Asienmeisterschaften und Weltmeisterschaften nächstes Jahr.
+[^4]: [Fu Chao-hsuan gewinnt Hochsprung-Gold bei Asienspielen – nach Rückkehr Ernährungskontrolle gelockert, erst mal Bubble Tea gekauft](https://www.cna.com.tw/news/aspt/202610060229.aspx) — Central News Agency, 6. Oktober 2026, Taipeh-Bericht mit Unterschied zwischen Saisonbestleistung 2,25 Meter und persönlichem Rekord 2,27 Meter, Interview beim Empfang für Heimkehrer und Planung für Universiadenspielen, Asienmeisterschaften und Weltmeisterschaften nächstes Jahr.

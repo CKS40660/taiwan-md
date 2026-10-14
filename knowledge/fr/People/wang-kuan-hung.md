@@ -1,12 +1,12 @@
 ---
-title: "Wang Kuan-hong : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques"
-description: "Aux Jeux asiatiques de Nagoya 2026, Wang Kuan-hong remporte la première médaille d'or masculine en natation pour Taïwan en 1 min 55 sec 05 au 200 m papillon. Son entraîneur, Huang Chih-yung (黃智勇), est le dernier nageur taïwanais à avoir remporté une médaille aux Jeux asiatiques (bronze en 1998 à Bangkok). C'est la deuxième médaille d'or en natation pour Taïwan aux Jeux asiatiques en 28 ans."
+title: "Wang Kuan-hung : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques"
+description: "Aux Jeux asiatiques de Nagoya 2026, Wang Kuan-hung remporte la première médaille d'or masculine en natation pour Taïwan en 1 min 55 sec 05 au 200 m papillon. Son entraîneur, Huang Chih-yung (黃智勇), est le dernier nageur taïwanais à avoir remporté une médaille aux Jeux asiatiques (bronze en 1998 à Bangkok). C'est la deuxième médaille d'or en natation pour Taïwan aux Jeux asiatiques en 28 ans."
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'Personnalité',
-    'Wang Kuan-hong',
+    'Wang Kuan-hung',
     'natation',
     'Jeux asiatiques',
     'Jeux asiatiques de Nagoya',
@@ -32,17 +32,17 @@ sourceBodyHash: 'sha256:4135aa79157a28a5'
 translatedAt: '2026-10-14T04:51:40+08:00'
 ---
 
-# Wang Kuan-hong : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques
+# Wang Kuan-hung : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques
 
-> **Aperçu en 30 secondes :** Le 25 septembre 2026, finale du 200 m papillon masculin aux Jeux asiatiques de Nagoya, Wang Kuan-hong conserve l'avance dès son départ et termine en 1 min 55 sec 05. Il s'agit de la première médaille d'or masculine en natation pour Taïwan aux Jeux asiatiques, et de la deuxième médaille d'or en natation pour un nageur taïwanais en 28 ans — la précédente remonte à 1998 à Bangkok, avec le 200 m nage libre féminin de Tsai Shu-min. Au bord du bassin se tient l'entraîneur Huang Chih-yung, qui lui aussi a monté sur le podium des Jeux asiatiques en 1998 ; après 25 ans d'attente, la natation masculine taïwanaise a enfin pu renouer le fil grâce à son propre élève.
+> **Aperçu en 30 secondes :** Le 25 septembre 2026, finale du 200 m papillon masculin aux Jeux asiatiques de Nagoya, Wang Kuan-hung conserve l'avance dès son départ et termine en 1 min 55 sec 05. Il s'agit de la première médaille d'or masculine en natation pour Taïwan aux Jeux asiatiques, et de la deuxième médaille d'or en natation pour un nageur taïwanais en 28 ans — la précédente remonte à 1998 à Bangkok, avec le 200 m nage libre féminin de Tsai Shu-min. Au bord du bassin se tient l'entraîneur Huang Chih-yung, qui lui aussi a monté sur le podium des Jeux asiatiques en 1998 ; après 25 ans d'attente, la natation masculine taïwanaise a enfin pu renouer le fil grâce à son propre élève.
 
-**Mots-clés** : Wang Kuan-hong, 200 m papillon, Jeux asiatiques de Nagoya, Huang Chih-yung, natation taïwanaise
+**Mots-clés** : Wang Kuan-hung, 200 m papillon, Jeux asiatiques de Nagoya, Huang Chih-yung, natation taïwanaise
 
 ---
 
 ## Couloir 5 : il mène de l'entrée à l'arrivée
 
-Le soir du 25 septembre 2026, finale du 200 m papillon masculin en natation aux Jeux asiatiques de Nagoya. Wang Kuan-hong est placé au couloir 5 ; après son départ, il prend l'avance et la conserve jusqu'à la dernière longueur, touchant le mur en 1 min 55 sec 05.[^1][^2]
+Le soir du 25 septembre 2026, finale du 200 m papillon masculin en natation aux Jeux asiatiques de Nagoya. Wang Kuan-hung est placé au couloir 5 ; après son départ, il prend l'avance et la conserve jusqu'à la dernière longueur, touchant le mur en 1 min 55 sec 05.[^1][^2]
 
 Le matin même, en séries, il nage en 1 min 59 sec 40, premier de sa série et deuxième au classement général, ce qui lui permet d'accéder à la finale. Le soir, sur la même épreuve, il améliore son temps de 4 sec 35.[^2] Quelques jours plus tôt, il avait nagé le 100 m papillon en 52 sec 33, terminant 8e.[^2] Le 200 m papillon est vraiment sa distance.
 
@@ -52,9 +52,9 @@ Après la course, il décrit cette dernière longueur : « Je n'ai pas trop réf
 
 La natation masculine taïwanaise avait connu un quart de siècle sans médaille aux Jeux asiatiques. En 1998 à Bangkok, Huang Chih-yung a remporté le bronze au 100 m nage libre masculin. Après lui, les nageurs taïwanais n'ont obtenu une médaille aux Jeux asiatiques qu'en 2023.[^7][^2]
 
-Huang Chih-yung, né en 1978, s'est spécialisé dans les épreuves courtes de nage libre et a représenté Taïwan aux Jeux olympiques d'Atlanta en 1996 et de Sydney en 2000. Aux Jeux asiatiques de Bangkok en 1998, il a nagé le 100 m nage libre en 52 sec 21, remportant le bronze.[^7] Sa carrière de nageur s'est terminée avant même la naissance de Wang Kuan-hong, et pourtant leurs noms se sont retrouvés dans la même phrase en 2023.
+Huang Chih-yung, né en 1978, s'est spécialisé dans les épreuves courtes de nage libre et a représenté Taïwan aux Jeux olympiques d'Atlanta en 1996 et de Sydney en 2000. Aux Jeux asiatiques de Bangkok en 1998, il a nagé le 100 m nage libre en 52 sec 21, remportant le bronze.[^7] Sa carrière de nageur s'est terminée avant même la naissance de Wang Kuan-hung, et pourtant leurs noms se sont retrouvés dans la même phrase en 2023.
 
-À la finale du 200 m papillon masculin des Jeux asiatiques de Hangzhou en 2023, Wang Kuan-hong a remporté l'argent en 1 min 54 sec 53, mettant fin à cette attente de 25 ans.[^4] L'entraîneur qui se tenait derrière lui était Huang Chih-yung.[^2][^4]
+À la finale du 200 m papillon masculin des Jeux asiatiques de Hangzhou en 2023, Wang Kuan-hung a remporté l'argent en 1 min 54 sec 53, mettant fin à cette attente de 25 ans.[^4] L'entraîneur qui se tenait derrière lui était Huang Chih-yung.[^2][^4]
 
 Cette médaille d'argent, il l'a décrite par la suite comme la plus significative de sa carrière de nageur, et elle lui a donné l'élan pour les Jeux olympiques de Paris l'année suivante. Dans le même bulletin d'information de l'université, il évoque la pression avant Hangzhou : « Tous les malaises sont revenus, et je me suis dit : comment puis-je être aussi malchanceux. »[^4]
 
@@ -62,11 +62,11 @@ Vingt-cinq ans plus tard, les rôles se sont inversés. Celui qui se tenait autr
 
 ## Avant la finale, son dos était presque inutilisable ; le médecin de l'équipe a pris le Shinkansen pour l'évaluer
 
-Avant la finale, cette médaille d'or aurait pu ne pas figurer au programme. Wang Kuan-hong souffrait déjà du dos la veille des épreuves de relais, et le lendemain matin, son dos était presque inutilisable.[^3]
+Avant la finale, cette médaille d'or aurait pu ne pas figurer au programme. Wang Kuan-hung souffrait déjà du dos la veille des épreuves de relais, et le lendemain matin, son dos était presque inutilisable.[^3]
 
 Après en avoir été informée, la délégation a immédiatement demandé au Dr Lin Ying-zhou de prendre le Shinkansen depuis Nagoya pour l'évaluer. Le diagnostic était une inflammation aiguë des tendons.[^3] Il s'est dit : « Ne pas trop réfléchir, on va laisser faire la nature. »[^3]
 
-Après la finale, Huang Chih-yung a déclaré au bord du bassin : « Il y a peut-être eu des moments difficiles, et ces dernières années il a persévéré, et aujourd'hui avec cette médaille d'or, je suis vraiment heureux pour lui. Je lui ai dit que face aux difficultés, on les résout et on s'améliore chaque jour, en se dépassant soi-même. »[^3] Wang Kuan-hong a dédié cette médaille d'or à son entraîneur.[^3]
+Après la finale, Huang Chih-yung a déclaré au bord du bassin : « Il y a peut-être eu des moments difficiles, et ces dernières années il a persévéré, et aujourd'hui avec cette médaille d'or, je suis vraiment heureux pour lui. Je lui ai dit que face aux difficultés, on les résout et on s'améliore chaque jour, en se dépassant soi-même. »[^3] Wang Kuan-hung a dédié cette médaille d'or à son entraîneur.[^3]
 
 ## Taïwan a attendu 28 ans avant d'avoir une autre médaille d'or en natation aux Jeux asiatiques
 
@@ -76,7 +76,7 @@ Cette médaille d'or est également la 2e médaille d'or de la délégation de l
 
 ## De Jakarta à Nagoya, il a amélioré son 200 m papillon de 1 min 58 sec à 1 min 55 sec
 
-Wang Kuan-hong, né le 23 janvier 2002, est actuellement étudiant au département d'éducation physique de l'Université normale de Taïwan et détient les records nationaux taïwanais dans les trois épreuves de papillon.[^4][^2]
+Wang Kuan-hung, né le 23 janvier 2002, est actuellement étudiant au département d'éducation physique de l'Université normale de Taïwan et détient les records nationaux taïwanais dans les trois épreuves de papillon.[^4][^2]
 
 En 2018, à 16 ans, il a terminé 7e à la finale du 200 m papillon masculin des Jeux asiatiques de Jakarta en 1 min 58 sec 44, et a obtenu la 4e place aux Jeux olympiques de la jeunesse la même année.[^6] Aux Championnats du monde de natation des jeunes en 2019, il a nagé le 200 m papillon en 1 min 56 sec 48, établissant un record national et atteignant le standard olympique A, devenant le deuxième nageur taïwanais après Wang Hsing-hao à atteindre cette norme.[^6]
 
@@ -101,9 +101,9 @@ En alignant ces chronologies, la place de cette médaille d'or de Nagoya devient
 
 [^3]: [台灣男子游泳亞運首金！王冠閎200蝶摘金](https://news.cts.com.tw/cts/sports/202609/202609263083123.html) — Nouvelles CTS 26-09-2026 reportage synthétisé, incluant la blessure au dos et le processus d'évaluation du médecin prenant le Shinkansen, les interviews d'après-course et la réponse de l'entraîneur Huang Chih-yung.
 
-[^4]: [杭州亞運》睽違25年 王冠閎收亞運銀牌](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — Bulletin d'information de l'Université normale de Taïwan 04-10-2023, enregistrant que Wang Kuan-hong de la Faculté d'éducation physique a remporté l'argent en 1 min 54 sec 53, mettant fin à 25 ans sans médaille.
+[^4]: [杭州亞運》睽違25年 王冠閎收亞運銀牌](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — Bulletin d'information de l'Université normale de Taïwan 04-10-2023, enregistrant que Wang Kuan-hung de la Faculté d'éducation physique a remporté l'argent en 1 min 54 sec 53, mettant fin à 25 ans sans médaille.
 
-[^5]: [名古屋亞運今日看點！棒球「台日大戰」徐翔聖先發、林郁婷也登場](https://sports.ettoday.net/news/3244193) — ETtoday Sports Cloud 26-09-2026, enregistrant que l'équipe de Taïwan a remporté 1 or, 2 argent et 5 bronze dans la journée, pour un total cumulé de 2 or, 5 argent et 16 bronze, et que la médaille d'or de Wang Kuan-hong est la 2e de cette édition.
+[^5]: [名古屋亞運今日看點！棒球「台日大戰」徐翔聖先發、林郁婷也登場](https://sports.ettoday.net/news/3244193) — ETtoday Sports Cloud 26-09-2026, enregistrant que l'équipe de Taïwan a remporté 1 or, 2 argent et 5 bronze dans la journée, pour un total cumulé de 2 or, 5 argent et 16 bronze, et que la médaille d'or de Wang Kuan-hung est la 2e de cette édition.
 
 [^6]: [王冠閎](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%A0%E9%96%8E) — Article Wikipédia, chronologie de carrière : 7e aux Jeux asiatiques de Jakarta 2018, 1 min 56 sec 48 aux Championnats du monde des jeunes 2019 battant le record national et atteignant le standard olympique A, record mondial des jeunes en petit bassin 1 min 49 sec 89 en 2020 par la Fédération internationale de natation, résultats en demi-finale des Jeux olympiques de Tokyo et Paris, résultats des Jeux mondiaux universitaires et Championnats d'Asie 2025.
 

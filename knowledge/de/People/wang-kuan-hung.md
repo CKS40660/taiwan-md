@@ -1,12 +1,12 @@
 ---
-title: 'Wang Guan-hong: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand'
-description: 'Bei den Asienspiele 2026 in Nagoya gewann Wang Guan-hong das Finale über 200 m Schmetterling mit 1:55,05 und sicherte sich damit Taiwans erste Goldmedaille im Männerschwimmen bei Asienspielen – die zweite Goldmedaille im Schwimmen für Taiwan seit 28 Jahren. Sein Trainer am Beckenrand, Huang Chih-yung, war 1998 bei den Asienspielen in Bangkok Bronzemedaillengewinner und der letzte taiwanesische männliche Schwimmer auf dem Podest; Meister und Schüler verbinden damit eine unterbrochene Linie.'
+title: 'Wang Kuan-hung: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand'
+description: 'Bei den Asienspiele 2026 in Nagoya gewann Wang Kuan-hung das Finale über 200 m Schmetterling mit 1:55,05 und sicherte sich damit Taiwans erste Goldmedaille im Männerschwimmen bei Asienspielen – die zweite Goldmedaille im Schwimmen für Taiwan seit 28 Jahren. Sein Trainer am Beckenrand, Huang Chih-yung, war 1998 bei den Asienspielen in Bangkok Bronzemedaillengewinner und der letzte taiwanesische männliche Schwimmer auf dem Podest; Meister und Schüler verbinden damit eine unterbrochene Linie.'
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'Porträt',
-    'Wang Guan-hong',
+    'Wang Kuan-hung',
     'Schwimmen',
     'Asienspiele',
     'Nagoya-Asienspiele',
@@ -32,17 +32,17 @@ sourceBodyHash: 'sha256:4135aa79157a28a5'
 translatedAt: '2026-10-14T04:51:50+08:00'
 ---
 
-# Wang Guan-hong: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand
+# Wang Kuan-hung: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand
 
-> **30-Sekunden-Überblick:** Am 25. September 2026 im Finale über 200 m Schmetterling der Männer bei den Nagoya-Asienspielen führte Wang Guan-hong vom Start an und berührte die Wand mit einer Zeit von 1:55,05. Dies ist Taiwans erste Goldmedaille im Männerschwimmen in der Geschichte der Asienspiele und Taiwans zweite Goldmedaille im Schwimmen bei Asienspielen nach 28 Jahren – die vorherige war 1998 in Bangkok von Tsai Shu-min über 200 m Freistil der Frauen. Am Beckenrand stand sein Trainer Huang Chih-yung, der 1998 ebenfalls auf dem Asienspiele-Podest stand; nach 25 Jahren Wartezeit für Taiwans Männerschwimmen brachte sein eigener Schüler diese Linie zurück.
+> **30-Sekunden-Überblick:** Am 25. September 2026 im Finale über 200 m Schmetterling der Männer bei den Nagoya-Asienspielen führte Wang Kuan-hung vom Start an und berührte die Wand mit einer Zeit von 1:55,05. Dies ist Taiwans erste Goldmedaille im Männerschwimmen in der Geschichte der Asienspiele und Taiwans zweite Goldmedaille im Schwimmen bei Asienspielen nach 28 Jahren – die vorherige war 1998 in Bangkok von Tsai Shu-min über 200 m Freistil der Frauen. Am Beckenrand stand sein Trainer Huang Chih-yung, der 1998 ebenfalls auf dem Asienspiele-Podest stand; nach 25 Jahren Wartezeit für Taiwans Männerschwimmen brachte sein eigener Schüler diese Linie zurück.
 
-**Schlüsselbegriffe**: Wang Guan-hong, 200 m Schmetterling, Nagoya-Asienspiele, Huang Chih-yung, taiwanesisches Schwimmen
+**Schlüsselbegriffe**: Wang Kuan-hung, 200 m Schmetterling, Nagoya-Asienspiele, Huang Chih-yung, taiwanesisches Schwimmen
 
 ---
 
 ## Bahn 5: Von Anfang bis Zielberührung in Führung
 
-Am Abend des 25. September 2026 fand das Finale über 200 m Schmetterling der Männer bei den Nagoya-Asienspielen statt. Wang Guan-hong schwamm in Bahn 5, übernahm nach dem Start die Führung und behielt seinen Vorsprung bis zur letzten Bahn. Seine Zielzeit: 1:55,05.[^1][^2]
+Am Abend des 25. September 2026 fand das Finale über 200 m Schmetterling der Männer bei den Nagoya-Asienspielen statt. Wang Kuan-hung schwamm in Bahn 5, übernahm nach dem Start die Führung und behielt seinen Vorsprung bis zur letzten Bahn. Seine Zielzeit: 1:55,05.[^1][^2]
 
 Im Vorlauf desselben Morgens schwamm er 1:59,40, gewann seine Serie und qualifizierte sich mit dem zweiten Platz in der Gesamtwertung für das Finale. Am Abend verbesserte er sich in derselben Disziplin um 4,35 Sekunden.[^2] Einige Tage zuvor hatte er über 100 m Schmetterling 52,33 Sekunden geschwommen und beendete das Rennen auf Platz 8.[^2] Die 200 m Schmetterling sind seine eigentliche Strecke.
 
@@ -52,9 +52,9 @@ Nach dem Rennen beschrieb er die Erfahrung so: „Ich habe nicht zu viel nachged
 
 Taiwans Männerschwimmen war bei den Asienspielen ein Vierteljahrhundert lang ohne Medaillen. 1998 bei den Asienspielen in Bangkok gewann Huang Chih-yung Bronze über 100 m Freistil. Nach ihm musste Taiwans Männerschwimmen bis 2023 warten, um wieder eine Medaille bei den Asienspielen zu gewinnen.[^7][^2]
 
-Huang Chih-yung wurde 1978 geboren und spezialisierte sich auf Kurzstrecken-Freistil. Er war Olympiateilnehmer bei den Spielen 1996 in Atlanta und 2000 in Sydney. Bei den Asienspielen 1998 in Bangkok schwamm er über 100 m Freistil 52,21 Sekunden und gewann Bronze.[^7] Seine Karriere als Schwimmer endete, bevor Wang Guan-hong geboren wurde, doch 2023 standen ihre Namen zum ersten Mal im gleichen Satz.
+Huang Chih-yung wurde 1978 geboren und spezialisierte sich auf Kurzstrecken-Freistil. Er war Olympiateilnehmer bei den Spielen 1996 in Atlanta und 2000 in Sydney. Bei den Asienspielen 1998 in Bangkok schwamm er über 100 m Freistil 52,21 Sekunden und gewann Bronze.[^7] Seine Karriere als Schwimmer endete, bevor Wang Kuan-hung geboren wurde, doch 2023 standen ihre Namen zum ersten Mal im gleichen Satz.
 
-Im Finale über 200 m Schmetterling der Männer bei den Hangzhou-Asienspielen 2023 gewann Wang Guan-hong mit 1:54,53 Silber und beendete damit die 25-jährige Wartezeit.[^4] Der Trainer hinter ihm war Huang Chih-yung.[^2][^4]
+Im Finale über 200 m Schmetterling der Männer bei den Hangzhou-Asienspielen 2023 gewann Wang Kuan-hung mit 1:54,53 Silber und beendete damit die 25-jährige Wartezeit.[^4] Der Trainer hinter ihm war Huang Chih-yung.[^2][^4]
 
 Diese Silbermedaille beschrieb er später als die bedeutungsvollste seiner Karriere und als Motivationsschub für die Olympischen Spiele in Paris im folgenden Jahr. In demselben Schulbrief sprach er über den Druck vor Hangzhou: „Alle Beschwerden kamen zurück, und ich dachte, wie konnte ich nur so viel Pech haben."[^4]
 
@@ -62,11 +62,11 @@ Diese Silbermedaille beschrieb er später als die bedeutungsvollste seiner Karri
 
 ## Vor dem Finale konnte er seinen Rücken kaum bewegen – der Mannschaftsarzt nahm den Shinkansen
 
-Vor dem Finale hätte diese Goldmedaille fast nicht stattgefunden. Wang Guan-hong hatte bereits einen Tag vor dem Staffelrennen Rückenschmerzen, und am nächsten Morgen konnte er seinen Rücken kaum noch bewegen.[^3]
+Vor dem Finale hätte diese Goldmedaille fast nicht stattgefunden. Wang Kuan-hung hatte bereits einen Tag vor dem Staffelrennen Rückenschmerzen, und am nächsten Morgen konnte er seinen Rücken kaum noch bewegen.[^3]
 
 Nachdem die Delegationsleitung davon erfuhr, forderte sie sofort Dr. Lin Ying-zhou auf, mit dem Shinkansen von Nagoya anzureisen und ihn zu untersuchen. Die Diagnose lautete auf akute Sehnenentzündung.[^3] Er sagte sich selbst: „Denk nicht zu viel nach, lass uns einfach die Dinge nehmen, wie sie kommen."[^3]
 
-Nach dem Finale sagte Huang Chih-yung am Beckenrand: „Es gab vielleicht einige schwierige Zeiten, und er hat sich in diesen Jahren durchgesetzt, und heute hat er diese Goldmedaille, ich bin wirklich glücklich für ihn. Ich habe ihm gesagt, wenn wir auf Schwierigkeiten treffen, lösen wir sie einfach und werden jeden Tag besser, dann durchbrechen wir uns selbst."[^3] Wang Guan-hong widmete diese Goldmedaille seinem Trainer.[^3]
+Nach dem Finale sagte Huang Chih-yung am Beckenrand: „Es gab vielleicht einige schwierige Zeiten, und er hat sich in diesen Jahren durchgesetzt, und heute hat er diese Goldmedaille, ich bin wirklich glücklich für ihn. Ich habe ihm gesagt, wenn wir auf Schwierigkeiten treffen, lösen wir sie einfach und werden jeden Tag besser, dann durchbrechen wir uns selbst."[^3] Wang Kuan-hung widmete diese Goldmedaille seinem Trainer.[^3]
 
 ## Taiwan wartete 28 Jahre auf die nächste Goldmedaille im Schwimmen bei den Asienspielen
 
@@ -76,7 +76,7 @@ Diese Goldmedaille war auch die 2. Goldmedaille der Delegation der Republik Chin
 
 ## Von Jakarta bis Nagoya: Er verbesserte die 200 m Schmetterling von 1:58 auf 1:55
 
-Wang Guan-hong wurde am 23. Januar 2002 geboren und ist derzeit Student der Sportwissenschaften an der Nationalen Taiwan Normal University. Er hält die nationalen Rekorde in allen drei Schmetterling-Disziplinen.[^4][^2]
+Wang Kuan-hung wurde am 23. Januar 2002 geboren und ist derzeit Student der Sportwissenschaften an der Nationalen Taiwan Normal University. Er hält die nationalen Rekorde in allen drei Schmetterling-Disziplinen.[^4][^2]
 
 2018 schwamm der 16-Jährige bei den Asienspielen in Jakarta im Finale über 200 m Schmetterling der Männer 1:58,44 und belegte Platz 7; im selben Jahr erreichte er bei den Jugendspielen in derselben Disziplin Platz 4.[^6] Bei den Weltmeisterschaften der Jugendschwimmer 2019 schwamm er über 200 m Schmetterling 1:56,48, brach den nationalen Rekord und erfüllte den olympischen A-Standard – er war nach Wang Hsing-hao der zweite taiwanesische Schwimmer, der diesen Standard erreichte.[^6]
 
@@ -101,9 +101,9 @@ Wenn man diese Chronologie zusammenstellt, wird die Position dieser Goldmedaille
 
 [^3]: [台灣男子游泳亞運首金！王冠閎200蝶摘金](https://news.cts.com.tw/cts/sports/202609/202609263083123.html) — CTS News, 26. September 2026, Gesamtbericht, enthält Rückenverletzung und die Anreise des Arztes mit dem Shinkansen zur Untersuchung, Interviews nach dem Rennen und Huang Chih-yungs Reaktion.
 
-[^4]: [杭州亞運》睽違25年 王冠閎收亞運銀牌](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — Schulbrief der Nationalen Taiwan Normal University, 4. Oktober 2023, dokumentiert Wang Guan-hongs 1:54,53 Silbermedaille und das Ende der 25-jährigen Medaillenpause.
+[^4]: [杭州亞運》睽違25年 王冠閎收亞運銀牌](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — Schulbrief der Nationalen Taiwan Normal University, 4. Oktober 2023, dokumentiert Wang Kuan-hungs 1:54,53 Silbermedaille und das Ende der 25-jährigen Medaillenpause.
 
-[^5]: [名古屋亞運今日看點！棒球「台日大戰」徐翔聖先發、林郁婷也登場](https://sports.ettoday.net/news/3244193) — ETtoday Sports Cloud, 26. September 2026, dokumentiert Chinas Tagesausbeute von 1 Gold, 2 Silber, 5 Bronze, Gesamtmedaillenbilanz 2 Gold, 5 Silber, 16 Bronze, und dass Wang Guan-hongs Goldmedaille die 2. Gold dieser Spiele ist.
+[^5]: [名古屋亞運今日看點！棒球「台日大戰」徐翔聖先發、林郁婷也登場](https://sports.ettoday.net/news/3244193) — ETtoday Sports Cloud, 26. September 2026, dokumentiert Chinas Tagesausbeute von 1 Gold, 2 Silber, 5 Bronze, Gesamtmedaillenbilanz 2 Gold, 5 Silber, 16 Bronze, und dass Wang Kuan-hungs Goldmedaille die 2. Gold dieser Spiele ist.
 
 [^6]: [王冠閎](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%A0%E9%96%8E) — Wikipedia-Eintrag, Karriere-Chronologie: 2018 Jakarta Asienspiele Platz 7, 2019 Jugendschwimm-Weltmeisterschaften 1:56,48 Nationalrekord und olympischer A-Standard, 2020 Internationales Schwimmverband 1:49,89 Weltjugendenrekord Kurzstrecke, Tokio und Paris Olympische Spiele Halbfinal-Ergebnisse, 2025 Universiadenspielen und Asienmeisterschaften-Ergebnisse.
 

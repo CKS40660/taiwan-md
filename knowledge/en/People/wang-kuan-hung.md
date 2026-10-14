@@ -1,12 +1,12 @@
 ---
-title: 'Wang Kan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium'
-description: "In the 2026 Nagoya Asian Games men's 200m butterfly final, Wang Kan-hung touched the wall in 1:55.05, winning Taiwan's first-ever men's swimming gold at the Asian Games and the nation's second swimming gold in 28 years. His coach by the poolside, Huang Chih-yung, was the last Taiwanese male swimmer to stand on an Asian Games podium back in 1998, connecting their legacies through a single thread."
+title: 'Wang Kuan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium'
+description: "In the 2026 Nagoya Asian Games men's 200m butterfly final, Wang Kuan-hung touched the wall in 1:55.05, winning Taiwan's first-ever men's swimming gold at the Asian Games and the nation's second swimming gold in 28 years. His coach by the poolside, Huang Chih-yung, was the last Taiwanese male swimmer to stand on an Asian Games podium back in 1998, connecting their legacies through a single thread."
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'People',
-    'Wang Kan-hung',
+    'Wang Kuan-hung',
     'Swimming',
     'Asian Games',
     'Nagoya Asian Games',
@@ -32,17 +32,17 @@ sourceBodyHash: 'sha256:4135aa79157a28a5'
 translatedAt: '2026-10-14T04:51:36+08:00'
 ---
 
-# Wang Kan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium
+# Wang Kuan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium
 
-> **30-Second Overview:** On September 25, 2026, in the men's 200m butterfly final at the Nagoya Asian Games, Wang Kan-hung maintained his lead from the moment he entered the water, touching the wall in 1:55.05. This marks Taiwan's first men's swimming gold in Asian Games history and the nation's second swimming gold in 28 years—the previous one being Tsai Shu-min's women's 200m freestyle at the 1998 Bangkok Asian Games. Watching him from the poolside was his coach, Huang Chih-yung, who also stood on an Asian Games podium in 1998; after that, Taiwanese men's swimming waited 25 years for a student to reconnect this legacy.
+> **30-Second Overview:** On September 25, 2026, in the men's 200m butterfly final at the Nagoya Asian Games, Wang Kuan-hung maintained his lead from the moment he entered the water, touching the wall in 1:55.05. This marks Taiwan's first men's swimming gold in Asian Games history and the nation's second swimming gold in 28 years—the previous one being Tsai Shu-min's women's 200m freestyle at the 1998 Bangkok Asian Games. Watching him from the poolside was his coach, Huang Chih-yung, who also stood on an Asian Games podium in 1998; after that, Taiwanese men's swimming waited 25 years for a student to reconnect this legacy.
 
-**Keywords**: Wang Kan-hung, 200m butterfly, Nagoya Asian Games, Huang Chih-yung, Taiwan swimming
+**Keywords**: Wang Kuan-hung, 200m butterfly, Nagoya Asian Games, Huang Chih-yung, Taiwan swimming
 
 ---
 
 ## Lane Five: Leading from Entry to Touch
 
-On the evening of September 25, 2026, during the men's 200m butterfly final at the Nagoya Asian Games, Wang Kan-hung was assigned to lane five. He took the lead immediately after the start and maintained his advantage through the final lap, touching the wall in 1:55.05. [^1][^2]
+On the evening of September 25, 2026, during the men's 200m butterfly final at the Nagoya Asian Games, Wang Kuan-hung was assigned to lane five. He took the lead immediately after the start and maintained his advantage through the final lap, touching the wall in 1:55.05. [^1][^2]
 
 In the morning heats of the same day, he clocked 1:59.40, finishing first in his heat and second overall to advance to the finals. By evening, his performance in the same event had improved by 4.35 seconds. [^2] A few days earlier, he finished 8th in the men's 100m butterfly final with a time of 52.33. [^2] However, the 200m butterfly is his true domain.
 
@@ -52,9 +52,9 @@ Reflecting on the race, he said: "I didn't think too much; I was almost swimming
 
 The medal tally for Taiwanese men's swimming at the Asian Games was empty for a quarter of a century. At the 1998 Bangkok Asian Games, Huang Chih-yung won bronze in the men's 100m freestyle. Since then, no Taiwanese male swimmer had reached the podium at the Asian Games until 2023. [^7][^2]
 
-Born in 1978, Huang Chih-yung specialized in sprint freestyle and was a national athlete for two Olympic Games: Atlanta 1996 and Sydney 2000. At the 1998 Bangkok Asian Games, he clocked 52.21 in the men's 100m freestyle to claim bronze. [^7] His competitive career ended even before Wang Kan-hung was born, yet by 2023, their names were being spoken in the same sentence.
+Born in 1978, Huang Chih-yung specialized in sprint freestyle and was a national athlete for two Olympic Games: Atlanta 1996 and Sydney 2000. At the 1998 Bangkok Asian Games, he clocked 52.21 in the men's 100m freestyle to claim bronze. [^7] His competitive career ended even before Wang Kuan-hung was born, yet by 2023, their names were being spoken in the same sentence.
 
-In the men's 200m butterfly final at the 2023 Hangzhou Asian Games, Wang Kan-hung won silver with a time of 1:54.53, ending the 25-year wait. [^4] The coach standing behind him was none other than Huang Chih-yung. [^2][^4]
+In the men's 200m butterfly final at the 2023 Hangzhou Asian Games, Wang Kuan-hung won silver with a time of 1:54.53, ending the 25-year wait. [^4] The coach standing behind him was none other than Huang Chih-yung. [^2][^4]
 
 He later described that silver medal as the most meaningful of his career and a catalyst for the following year's Paris Olympics. In a university newsletter, he discussed the pressure before Hangzhou: "Every discomfort came at once; I just thought, 'How can I be so unlucky?'" [^4]
 
@@ -62,11 +62,11 @@ Twenty-five years later, the roles have reversed. The man who once stood on the 
 
 ## A Near Miss: Waist Injury and a Doctor Arriving via Shinkansen
 
-Before the final, this gold medal almost wasn't part of the plan. The day before the relay events, Wang Kan-hung experienced waist discomfort; when he woke up the next morning, he could barely exert any strength in his lower back. [^3]
+Before the final, this gold medal almost wasn't part of the plan. The day before the relay events, Wang Kuan-hung experienced waist discomfort; when he woke up the next morning, he could barely exert any strength in his lower back. [^3]
 
 Upon learning this, the delegation headquarters immediately requested Dr. Lin Ying-chou to travel from Nagoya via Shinkansen to evaluate him. The diagnosis was acute tendon inflammation. [^3] Wang told himself, "Don't overthink it; let's just go with the flow." [^3]
 
-After the final, Huang Chih-yung said by the poolside: "There may have been some low points, but he has persevered through these years. I am truly happy for him to have this gold today. I told him that since difficulties arise, we just solve them and get better day by day, breaking through our own limits." [^3] Wang Kan-hung dedicated the gold medal to his coach. [^3]
+After the final, Huang Chih-yung said by the poolside: "There may have been some low points, but he has persevered through these years. I am truly happy for him to have this gold today. I told him that since difficulties arise, we just solve them and get better day by day, breaking through our own limits." [^3] Wang Kuan-hung dedicated the gold medal to his coach. [^3]
 
 ## Taiwan Waited 28 Years for Another Asian Games Swimming Gold
 
@@ -76,7 +76,7 @@ This gold medal is also the second gold for the Chinese Taipei delegation at the
 
 ## From Jakarta to Nagoya: Pushing the 200m Butterfly from 1:58 to 1:55
 
-Wang Kan-hung was born on January 23, 2002. He is currently a student in the Department of Physical Education at National Taiwan Normal University and holds the national records for three butterfly events in Taiwan. [^4][^2]
+Wang Kuan-hung was born on January 23, 2002. He is currently a student in the Department of Physical Education at National Taiwan Normal University and holds the national records for three butterfly events in Taiwan. [^4][^2]
 
 In 2018, at age 16, he finished 7th in the men's 200m butterfly final at the Jakarta Asian Games with a time of 1:58.44, and placed 4th in the same event at the Youth Olympic Games that year. [^6] At the 2019 World Aquatics Junior Championships, he swam 1:56.48 in the 200m butterfly, breaking the national record and achieving the Olympic "A" standard, becoming the second Taiwanese swimmer to do so after Wang Hsing-hao. [^6]
 
@@ -95,16 +95,16 @@ When these milestones are laid out together, the significance of this Nagoya gol
 
 ## References
 
-[^1]: [Wang Kan-hung wins 200m butterfly gold at Asian Games; "Taiwan Butterfly King" medals in two consecutive games](https://www.cna.com.tw/news/aspt/202609250183.aspx) — CNA, Nagoya special report, September 25, 2026. Records the 1:55.05 time, his lead throughout the final, and his presence on the podium for two consecutive Asian Games.
+[^1]: [Wang Kuan-hung wins 200m butterfly gold at Asian Games; "Taiwan Butterfly King" medals in two consecutive games](https://www.cna.com.tw/news/aspt/202609250183.aspx) — CNA, Nagoya special report, September 25, 2026. Records the 1:55.05 time, his lead throughout the final, and his presence on the podium for two consecutive Asian Games.
 
-[^2]: [Asian Games Frontline: Incredible! Wang Kan-hung wins 200m butterfly gold; first gold in Taiwan men's swimming history](https://sports.ltn.com.tw/news/breakingnews/5586208) — Liberty Times, Nagoya special report, September 25, 2026. Includes morning heat time of 1:59.40, 8th place in 100m butterfly, identifies his coach Huang Chih-yung as the previous Taiwanese male medalist, and notes Tsai Shu-min's 1998 gold.
+[^2]: [Asian Games Frontline: Incredible! Wang Kuan-hung wins 200m butterfly gold; first gold in Taiwan men's swimming history](https://sports.ltn.com.tw/news/breakingnews/5586208) — Liberty Times, Nagoya special report, September 25, 2026. Includes morning heat time of 1:59.40, 8th place in 100m butterfly, identifies his coach Huang Chih-yung as the previous Taiwanese male medalist, and notes Tsai Shu-min's 1998 gold.
 
-[^3]: [First gold for Taiwan men's swimming at Asian Games! Wang Kan-hung wins 200m butterfly](https://news.cts.com.tw/cts/sports/202609/202609263083123.html) — CTS News, comprehensive report, September 26, 2026. Includes details on his waist injury and the doctor arriving via Shinkansen, post-race interviews, and response from coach Huang Chih-yung.
+[^3]: [First gold for Taiwan men's swimming at Asian Games! Wang Kuan-hung wins 200m butterfly](https://news.cts.com.tw/cts/sports/202609/202609263083123.html) — CTS News, comprehensive report, September 26, 2026. Includes details on his waist injury and the doctor arriving via Shinkansen, post-race interviews, and response from coach Huang Chih-yung.
 
-[^4]: [Hangzhou Asian Games: After a 25-year wait, Wang Kan-hung takes silver](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — National Taiwan Normal University newsletter, October 4, 2023. Records Physical Education student Wang Kan-hung winning silver in 1:54.53, ending the 25-year medal drought.
+[^4]: [Hangzhou Asian Games: After a 25-year wait, Wang Kuan-hung takes silver](https://pr.ntnu.edu.tw/ntnunews/index.php?id=21928&mode=data) — National Taiwan Normal University newsletter, October 4, 2023. Records Physical Education student Wang Kuan-hung winning silver in 1:54.53, ending the 25-year medal drought.
 
-[^5]: [Nagoya Asian Games Highlights! Baseball "Taiwan vs. Japan" showdown features Hsu Hsiang-sheng starting; Lin Yu-ting also appears](https://sports.ettoday.net/news/3244193) — ETtoday Sports, September 26, 2026. Records the team's daily tally of 1 gold, 2 silver, and 5 bronze (totaling 2G, 5S, 16B), and notes Wang Kan-hung's gold as the second of the games.
+[^5]: [Nagoya Asian Games Highlights! Baseball "Taiwan vs. Japan" showdown features Hsu Hsiang-sheng starting; Lin Yu-ting also appears](https://sports.ettoday.net/news/3244193) — ETtoday Sports, September 26, 2026. Records the team's daily tally of 1 gold, 2 silver, and 5 bronze (totaling 2G, 5S, 16B), and notes Wang Kuan-hung's gold as the second of the games.
 
-[^6]: [Wang Kan-hung](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%A0%E9%96%8E) — Wikipedia entry. Career timeline: 7th at 2018 Jakarta Asian Games; 1:56.48 at 2019 World Junior Championships (national record and Olympic A standard); 1:49.89 world junior short course record in 2020; semifinal results from Tokyo and Paris Olympics; 2025 World University Games and Asian Championship results.
+[^6]: [Wang Kuan-hung](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%A0%E9%96%8E) — Wikipedia entry. Career timeline: 7th at 2018 Jakarta Asian Games; 1:56.48 at 2019 World Junior Championships (national record and Olympic A standard); 1:49.89 world junior short course record in 2020; semifinal results from Tokyo and Paris Olympics; 2025 World University Games and Asian Championship results.
 
 [^7]: [Huang Chih-yung](https://en.wikipedia.org/wiki/Huang_Chih-yung) — English Wikipedia entry. Records Huang Chih-yung's 1998 Bangkok Asian Games men's 100m freestyle bronze and his participation in the 1996 and 2000 Olympic Games.

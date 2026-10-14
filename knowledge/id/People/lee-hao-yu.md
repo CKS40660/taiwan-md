@@ -1,12 +1,12 @@
 ---
-title: 'Li Hao-yu: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik'
-description: 'Pada 2026, Li Hao-yu berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika.'
+title: 'Hao-Yu Lee: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik'
+description: 'Pada 2026, Hao-Yu Lee berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika.'
 date: 2026-10-12
 category: 'People'
 tags:
   [
     'Tokoh',
-    'Li Hao-yu',
+    'Hao-Yu Lee',
     'Baseball Amerika',
     'Major League Baseball',
     'Detroit Tigers',
@@ -31,23 +31,23 @@ sourceBodyHash: 'sha256:bc4dd1817b145605'
 translatedAt: '2026-10-14T04:51:42+08:00'
 ---
 
-# Li Hao-yu: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik
+# Hao-Yu Lee: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik
 
-> **Ringkasan 30 detik:** Pada 2026, Li Hao-yu berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 330 kali memukul menghasilkan 87 pukulan dan 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan untuk pertandingan, kali memukul, pukulan, home run, dan RBI dalam satu musim. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika. Tahun itu juga dia pertama kali menghadapi pemain pitcher Taiwan Deng Kai-wei di kotak pemukul, yang merupakan pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball.
+> **Ringkasan 30 detik:** Pada 2026, Hao-Yu Lee berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 330 kali memukul menghasilkan 87 pukulan dan 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan untuk pertandingan, kali memukul, pukulan, home run, dan RBI dalam satu musim. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika. Tahun itu juga dia pertama kali menghadapi pemain pitcher Taiwan Deng Kai-wei di kotak pemukul, yang merupakan pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball.
 
-**Kata kunci**: Li Hao-yu, Detroit Tigers, Major League Baseball, Deng Kai-wei, Baseball Taiwan
+**Kata kunci**: Hao-Yu Lee, Detroit Tigers, Major League Baseball, Deng Kai-wei, Baseball Taiwan
 
 ---
 
 ## Saat berkendara hingga ke perbatasan Kanada
 
-Ketika baru naik ke Major League, perlengkapan Li Hao-yu masih tertinggal di minor league, jadi dia harus berkendara kembali untuk mengambilnya. Dalam perjalanan kembali ke Detroit, dia salah arah dan terus berkendara hingga ke Kanada, sampai melihat bendera Kanada baru dia menyadarinya, ponselnya juga tidak mendapat sinyal, tidak bisa minta bantuan. [^1]
+Ketika baru naik ke Major League, perlengkapan Hao-Yu Lee masih tertinggal di minor league, jadi dia harus berkendara kembali untuk mengambilnya. Dalam perjalanan kembali ke Detroit, dia salah arah dan terus berkendara hingga ke Kanada, sampai melihat bendera Kanada baru dia menyadarinya, ponselnya juga tidak mendapat sinyal, tidak bisa minta bantuan. [^1]
 
 Dia menggunakan bahasa Inggris yang tidak terlalu lancar untuk menjelaskan kepada petugas bea cukai bahwa dia adalah pemain baseball, petugas menjawab "tidak apa-apa, kamu bukan orang pertama yang salah jalan", kemudian membawanya ke ruangan kecil. Petugas bea cukai di sana mencari namanya di Google, setelah memastikan dia benar-benar pemain, berkata: "Bagus! Kamu punya 2 home run." Dia membetulkan: "Salah, 3 home run!" Dia tertawa mengatakan, petugas bea cukai Kanada bertubuh sangat besar, dia pasti tidak akan menang berkelahi, jadi saat membalas tidak ada nada agresif, hanya tertawa. [^1]
 
 ## Musim pertama dengan 114 pertandingan, 10 home run, memecahkan lima rekor
 
-Musim 2026, Li Hao-yu pertama kali naik ke Major League, menjadi pemain Taiwan ke-19 dan pemain outfield ke-7. Sepanjang musim 114 pertandingan, 330 kali memukul menghasilkan 87 pukulan, termasuk 10 home run, berkontribusi 46 RBI, 3 stolen base, batting average .264. Pertandingan, kali memukul, pukulan, home run, dan RBI, lima kategori semuanya memecahkan rekor musim tunggal pemain Taiwan. [^1]
+Musim 2026, Hao-Yu Lee pertama kali naik ke Major League, menjadi pemain Taiwan ke-19 dan pemain outfield ke-7. Sepanjang musim 114 pertandingan, 330 kali memukul menghasilkan 87 pukulan, termasuk 10 home run, berkontribusi 46 RBI, 3 stolen base, batting average .264. Pertandingan, kali memukul, pukulan, home run, dan RBI, lima kategori semuanya memecahkan rekor musim tunggal pemain Taiwan. [^1]
 
 10 home run dalam satu musim adalah angka yang paling sering disebut tahun itu. Dalam seluruh liga, ini bukan prestasi teratas, tetapi dalam koordinat historis pemain Taiwan, ini adalah garis baru. [^1]
 
@@ -73,7 +73,7 @@ Dalam narasi diri ini tidak ada satu tahun pun yang lurus. Catatan yang dia buat
 
 ## Pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball
 
-Pada 16 Juni waktu Taiwan, Tigers melawan Astros, Li Hao-yu menghadapi pitcher yang juga berasal dari Taiwan, Deng Kai-wei, di kotak pemukul, ini adalah pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball. [^4]
+Pada 16 Juni waktu Taiwan, Tigers melawan Astros, Hao-Yu Lee menghadapi pitcher yang juga berasal dari Taiwan, Deng Kai-wei, di kotak pemukul, ini adalah pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball. [^4]
 
 Di kesempatan pertama dia membiarkan dua bola, akhirnya strikeout, Deng Kai-wei tersenyum padanya, dia tertawa mengatakan "agak kesal". Di kesempatan kedua menghadapi lagi, dia memukul pukulan dari Deng Kai-wei. Dalam pertandingan itu dia dua pukulan, dan mencuri base untuk pertama kalinya dalam karir Major League. Hari yang sama, Deng Kai-wei melempar 3.1 inning, dikena 3 home run, melempar 9 strikeout, mencapai strikeout ke-100 karir, menerima kekalahan. [^4]
 
@@ -81,7 +81,7 @@ Dia mengatakan karir bermain di Amerika ini mungkin pertama kali menghadapi pitc
 
 ## Rekor adalah untuk pemain di belakang untuk dikejar
 
-Dalam konferensi pers saat kembali ke Taiwan, Li Hao-yu menyebutkan tujuan masa depan adalah masuk daftar pembukaan musim. [^1] Berdasarkan performa musim pertama yang lengkap, apa yang dia lakukan pada 2026 adalah menulis namanya ke dalam tabel pemain Taiwan di Major League Baseball, dan dengan suara sendiri mengatakan apa yang sebenarnya dia kejar: menjadi pemain yang baik yang bisa bertahan di Amerika. [^1][^2]
+Dalam konferensi pers saat kembali ke Taiwan, Hao-Yu Lee menyebutkan tujuan masa depan adalah masuk daftar pembukaan musim. [^1] Berdasarkan performa musim pertama yang lengkap, apa yang dia lakukan pada 2026 adalah menulis namanya ke dalam tabel pemain Taiwan di Major League Baseball, dan dengan suara sendiri mengatakan apa yang sebenarnya dia kejar: menjadi pemain yang baik yang bisa bertahan di Amerika. [^1][^2]
 
 **Bacaan Lanjutan**:
 
@@ -89,10 +89,10 @@ Dalam konferensi pers saat kembali ke Taiwan, Li Hao-yu menyebutkan tujuan masa 
 
 ## Referensi
 
-[^1]: [Li Hao-yu kembali ke Taiwan berbagi cerita lucu naik ke Major League, berkendara masuk perbatasan bea cukai Kanada](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat data musim pertama lengkap (114 pertandingan, 330 kali memukul, 87 pukulan, 10 home run, 46 RBI, 3 stolen base, .264), identitas pemain Taiwan ke-19 dan outfield ke-7, perjalanan masuk perbatasan bea cukai Kanada, dan tujuan menargetkan daftar pembukaan musim dalam konferensi pers saat kembali.
+[^1]: [Hao-Yu Lee kembali ke Taiwan berbagi cerita lucu naik ke Major League, berkendara masuk perbatasan bea cukai Kanada](https://www.cna.com.tw/news/aspt/202610120148.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat data musim pertama lengkap (114 pertandingan, 330 kali memukul, 87 pukulan, 10 home run, 46 RBI, 3 stolen base, .264), identitas pemain Taiwan ke-19 dan outfield ke-7, perjalanan masuk perbatasan bea cukai Kanada, dan tujuan menargetkan daftar pembukaan musim dalam konferensi pers saat kembali.
 
-[^2]: [Li Hao-yu menciptakan rekor pemain Taiwan MLB mengungkapkan hati nurani, bermain di Amerika "bukan ingin menjadi yang terbaik Taiwan"](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Central News Agency 2026-08-19 laporan Taipei, mencatat rekor pemain Taiwan baru pada 18 Agustus dengan 3 pukulan, lima kali naik base dalam satu pertandingan dan melampaui 54 pukulan musim tunggal Zhang Yu-cheng pada 2021, serta mengutip narasi dirinya dalam wawancara dengan Detroit News.
+[^2]: [Hao-Yu Lee menciptakan rekor pemain Taiwan MLB mengungkapkan hati nurani, bermain di Amerika "bukan ingin menjadi yang terbaik Taiwan"](https://www.cna.com.tw/news/aspt/202608190077.aspx) — Central News Agency 2026-08-19 laporan Taipei, mencatat rekor pemain Taiwan baru pada 18 Agustus dengan 3 pukulan, lima kali naik base dalam satu pertandingan dan melampaui 54 pukulan musim tunggal Zhang Yu-cheng pada 2021, serta mengutip narasi dirinya dalam wawancara dengan Detroit News.
 
-[^3]: [Li Hao-yu duduk di bangku cadangan Agustus mengakui sulit tidak seimbang, mengubah mentalitas manfaatkan kesempatan terbatas](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat transformasi mentalitas setelah 12 pertandingan berturut-turut dengan pukulan ditempatkan di bangku cadangan, cara persiapan menghadapi pitcher kidal, dan narasi diri dari 2022 hingga 2026 di setiap tahap.
+[^3]: [Hao-Yu Lee duduk di bangku cadangan Agustus mengakui sulit tidak seimbang, mengubah mentalitas manfaatkan kesempatan terbatas](https://www.cna.com.tw/news/aspt/202610120172.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat transformasi mentalitas setelah 12 pertandingan berturut-turut dengan pukulan ditempatkan di bangku cadangan, cara persiapan menghadapi pitcher kidal, dan narasi diri dari 2022 hingga 2026 di setiap tahap.
 
-[^4]: [Mengingat kembali pertandingan pitcher-batter Taiwan pertama di MLB, senyuman Deng Kai-wei membangkitkan semangat kompetisi Li Hao-yu](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat dua kesempatan memukul dalam pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball pada 16 Juni, konten lemparan Deng Kai-wei hari itu dan strikeout ke-100 karir, serta hubungan pribadi dua orang.
+[^4]: [Mengingat kembali pertandingan pitcher-batter Taiwan pertama di MLB, senyuman Deng Kai-wei membangkitkan semangat kompetisi Hao-Yu Lee](https://www.cna.com.tw/news/aspt/202610120164.aspx) — Central News Agency 2026-10-12 laporan Taipei, mencatat dua kesempatan memukul dalam pertandingan pitcher-batter Taiwan pertama dalam sejarah Major League Baseball pada 16 Juni, konten lemparan Deng Kai-wei hari itu dan strikeout ke-100 karir, serta hubungan pribadi dua orang.
