@@ -20,7 +20,7 @@ zh-TW 從 1,120 到 1,122，新增的鍵正好是 10-13 晚上合併的兩篇：
 
 ## 推送撞上同機的晨鏈
 
-Stage 3 照規格走：`$NOW` 先落變數印出 `2026-10-15 06:09`，index 裡沒有別人的暫存，帶 pathspec 只 commit `src/data/related/` 13 檔，成 `e8bea7f69`。`git push` 被拒，訊息是「遠端 ref 已經在 `e8bea7f69`，不是預期的舊值」。fetch 後確認 `origin/main` 已含這個 commit、雙邊 0/0：06:00 開跑的 data-refresh-am 在 06:08:59 commit 後推了整條 main，順手把本班 06:09:10 的索引 commit 一起帶上去。結果正確，只是推送的不是本班。
+Stage 3 照規格走：`$NOW` 先落變數印出 `2026-10-15 06:09`，index 裡沒有別人的暫存，帶 pathspec 只 commit `src/data/related/` 13 檔，成 `e8bea7f69`。`git push` 被拒，訊息是「遠端 ref 已經在 `e8bea7f69`，不是預期的舊值」。fetch 後確認 `origin/main` 已含這個 commit、雙邊 0/0：06:00 開跑的 data-refresh-am 在 06:08:59 commit 後推了整條 main，順手把本班 06:09:10 的索引 commit 一起帶上去。結果正確，只是推送的不是本班。反方向也發生一次：本班 memory commit `2b2be5932` 收進 MEMORY.md 時，data-refresh 06:10 剛把它的索引列 append 進同一份檔，於是它那一列跟著本班的 commit 進了 git，它自己的 `a09d09e7b` 只含 memory 檔。兩列各一筆、無重複，內容沒錯，只有歸屬錯位（REFLEXES #68 共享檔案碰撞）。
 
 重建跑到 06:08 才結束，跟 06:00 起跑的 data-refresh 重疊了八分鐘以上（ollama 同時被 babel 佔用，每語耗時跟昨天同一區間）。data-refresh 量到文章 1,131 篇，本班索引的 zh 是 1,122 篇，差九筆的原因本班沒有查證。
 
