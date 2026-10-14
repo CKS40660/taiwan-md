@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-14T15:48:24+08:00",
-    "zhCommitHead": "5eb8a8a2a",
+    "lastUpdated": "2026-10-14T20:46:08+08:00",
+    "zhCommitHead": "58cb56232",
     "totalZh": 1133,
     "activeLanguages": [
       "en",
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1133,
-        "fresh": 1114,
+        "fresh": 1115,
         "stale": 15,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 2,
         "orphan": 0
       },
       "es": {
         "total_zh": 1133,
-        "fresh": 1113,
-        "stale": 16,
+        "fresh": 1114,
+        "stale": 15,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
@@ -37542,20 +37542,18 @@
         "es": {
           "path": "es/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "cc6f9d9b3",
-          "sourceContentHash": "sha256:b60bd097d9577c55",
-          "sourceBodyHash": "sha256:9c00635e5ed9da36",
-          "translatedAt": "2026-07-24T10:40:42+08:00",
+          "sourceCommitSha": "b07b48849",
+          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceBodyHash": "sha256:d018fcf42d34d25c",
+          "translatedAt": "2026-10-14T10:48:42.373016+00:00",
           "translationLastCommit": "0222fce3",
           "translationLastModified": "2026-10-10T23:26:12+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 70621,
+          "bytes": 72475,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/taiwanese-cinema.md",
@@ -37598,11 +37596,11 @@
           "sourceContentHash": "sha256:7bb096d095b41cf1",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-10-14T05:10:24.117132+00:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "58cb5623",
+          "translationLastModified": "2026-10-14T15:48:25+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 66821,
+          "bytes": 66827,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -85558,20 +85556,18 @@
         "ko": {
           "path": "ko/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "a8f7c4e08",
+          "sourceCommitSha": "de4dde0c9",
           "sourceContentHash": "sha256:e26a95dae7cf552e",
           "sourceBodyHash": "sha256:b680f8b344c7bf2d",
-          "translatedAt": "2026-10-13T01:09:44.325009+00:00",
+          "translatedAt": "2026-10-14T10:08:56.819778+00:00",
           "translationLastCommit": "90730f84",
           "translationLastModified": "2026-10-13T10:28:58+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 64218,
+          "bytes": 64203,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/daan-river-yitian-sword.md",
