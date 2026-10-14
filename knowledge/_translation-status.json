@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T05:18:29+08:00",
-    "zhCommitHead": "5ac676b24",
+    "lastUpdated": "2026-10-15T05:27:23+08:00",
+    "zhCommitHead": "574ea5a35",
     "totalZh": 1133,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1133,
-        "fresh": 1118,
-        "stale": 13,
+        "fresh": 1119,
+        "stale": 12,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -37504,20 +37504,18 @@
         "ja": {
           "path": "ja/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "cc6f9d9b3",
-          "sourceContentHash": "sha256:4eec1818bd85149d",
-          "sourceBodyHash": "sha256:9c00635e5ed9da36",
-          "translatedAt": "2026-08-01T16:24:27.172825+00:00",
+          "sourceCommitSha": "b07b48849",
+          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceBodyHash": "sha256:d018fcf42d34d25c",
+          "translatedAt": "2026-10-14T20:44:08.993153+00:00",
           "translationLastCommit": "25ec53e7",
           "translationLastModified": "2026-10-10T23:45:03+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 76733,
+          "bytes": 77085,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwanese-cinema.md",
@@ -37526,11 +37524,11 @@
           "sourceContentHash": "sha256:7bb096d095b41cf1",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-10-14T18:53:49.665462+00:00",
-          "translationLastCommit": "3e8c2988",
-          "translationLastModified": "2026-10-10T23:27:23+08:00",
+          "translationLastCommit": "574ea5a3",
+          "translationLastModified": "2026-10-15T05:18:29+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 69584,
+          "bytes": 69590,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -167438,8 +167436,8 @@
           "sourceContentHash": "sha256:050249e143e4dbb3",
           "sourceBodyHash": "sha256:22ecadf2b6d21f0e",
           "translatedAt": "2026-10-14T20:59:50.222400+00:00",
-          "translationLastCommit": "d180e727",
-          "translationLastModified": "2026-10-11T06:45:18+08:00",
+          "translationLastCommit": "574ea5a3",
+          "translationLastModified": "2026-10-15T05:18:29+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 57149,
