@@ -204,9 +204,32 @@ function matchLocations(title, content) {
   const titleLower = title.toLowerCase();
   const contentLower = content.toLowerCase();
 
+  // 機構型地標（大學 / 科學園區 / 醫院…）代表的是隸屬關係，不是文章主題的位置。
+  // 一篇寫深山巨木的文章提到五次「成功大學」（研究團隊的學校），不表示那棵樹在台南。
+  // 所以機構名只有在「出現在標題」或「它所屬的縣市本身也被文章點名」時才算位置證據。
+  // 誕生：2026-10-14 maintainer — 〈大安溪倚天劍〉被釘到台南，全庫同型共 3 筆。
+  const INSTITUTION_LANDMARK = /(大學|學院|醫院|研究院|科學園區|公司|中研院)/;
+  function institutionIsLocationEvidence(
+    landmarkName,
+    landmarkData,
+    title,
+    content,
+  ) {
+    if (title.includes(landmarkName)) return true;
+    const city = landmarkData.city;
+    return Boolean(city && content.includes(city));
+  }
+
   // 優先匹配地標（精確位置）
   for (const [landmarkName, landmarkData] of Object.entries(landmarks)) {
     let score = 0;
+
+    if (
+      INSTITUTION_LANDMARK.test(landmarkName) &&
+      !institutionIsLocationEvidence(landmarkName, landmarkData, title, content)
+    ) {
+      continue;
+    }
 
     // 標題匹配 (最高分) — 標題含地標名幾乎確定相關
     if (title.includes(landmarkName)) score += 100;
