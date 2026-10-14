@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T04:39:08+08:00",
-    "zhCommitHead": "02b450c18",
+    "lastUpdated": "2026-10-15T04:43:45+08:00",
+    "zhCommitHead": "344a25796",
     "totalZh": 1133,
     "activeLanguages": [
       "en",
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1133,
-        "fresh": 1116,
-        "stale": 15,
+        "fresh": 1117,
+        "stale": 14,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -37678,20 +37678,18 @@
         "de": {
           "path": "de/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "cc6f9d9b3",
-          "sourceContentHash": "sha256:4eec1818bd85149d",
-          "sourceBodyHash": "sha256:9c00635e5ed9da36",
-          "translatedAt": "2026-09-24T09:46:57.965456+00:00",
+          "sourceCommitSha": "b07b48849",
+          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceBodyHash": "sha256:d018fcf42d34d25c",
+          "translatedAt": "2026-10-14T20:41:23.694580+00:00",
           "translationLastCommit": "6b664c81",
           "translationLastModified": "2026-10-10T23:34:07+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 72254,
+          "bytes": 72964,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -175936,8 +175934,8 @@
           "sourceContentHash": "sha256:c1f6e832dde8509d",
           "sourceBodyHash": "sha256:c712e33567a48da4",
           "translatedAt": "2026-10-14T18:48:18.429316+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "344a2579",
+          "translationLastModified": "2026-10-15T04:39:09+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "bytes": 87821,
