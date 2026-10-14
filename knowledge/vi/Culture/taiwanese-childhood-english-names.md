@@ -1,11 +1,6 @@
 ---
 title: 'Những cái tên Anh văn trong tuổi thơ người Đài Loan: Mary, Kevin và quyền lực đặt tên của cô giáo'
 description: 'Từ trang giáo trình cho tới mã Romanization hộ chiếu, rồi đến cốc cà phê Starbucks, cái tên đó từ chưa bao giờ là bạn chọn. Một lộ trình từ năm 1983 (Karen Hess), 1987 (Sesame English "NO CHINESE, ENGLISH PLEASE") cho tới 2024 (Viện Lập pháp Đài Loan cho phép chỉ ghi tên tộc), về một lịch sử đặt tên chính thức trong 30 giây giây im lặng đó.'
-translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'cfce444ae'
-sourceContentHash: 'sha256:5ec68902a1c50e0d'
-sourceBodyHash: 'sha256:efeadcec0add04bc'
-translatedAt: '2026-08-09T10:41:15+08:00'
 date: 2026-06-17
 category: 'Culture'
 tags:
@@ -26,38 +21,51 @@ readingTime: 18
 featured: true
 lastVerified: 2026-06-17
 lastHumanReview: false
-researchReport: 'reports/research/2026-06/taiwanese-childhood-english-names.md'
+researchReport: 'reports/research/2026-06/台灣人小時候的英文名字.md'
 viewpoint_formed: true
 verification:
   high_confidence:
-    - 'Karen Hess 1983 / Kidcastle 1986 / Giraffe 1986 / Sesame 1987'
-    - '"NO CHINESE, ENGLISH PLEASE" là khẩu hiệu của Sesame English năm 1987 (tạp chí Thiên Hạ)'
-    - 'Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000'
-    - 'Luật Hộ chiếu điều 14 "các âm tiết được dịch theo Ngôn ngữ Quốc gia" + điều năm "giới hạn một lần"'
-    - '2019/8/9 Ngoại giao lệnh 1086603416: Quốc Âm → Ngôn ngữ Quốc gia'
-    - 'Chữ thông dụng 2002/8/22 được Hội đồng Hành chính xác nhận; Hán Pinyin 2009/1/1 có hiệu lực'
-    - 'Hồng Kông 64.1% có tên Anh văn được ghi tên (Bacon-Shone, Bolton, Luke 2015 Đại học Hồng Kông)'
-    - 'Tạo tên sắc lệnh 2.06% (126,000 người) / Triều Tiên 80% (Yoshiyoshi Kita Sản Kinh Tân Văn)'
-    - '1946/5/21 Sửa đổi Quy định về khôi phục tên gốc cho người dân Đài Loan + giới hạn 3 tháng + tự phân bổ từ điển'
-    - 'Kolas Yotaka 2024 theo luật mới trở thành người đầu tiên hoàn toàn không có chữ Hán trên giấy tờ tùy thân'
-    - 'Cuồng nạn Cá hồi thay đổi tên 3 lần tối đa + sau 4 năm 80% đã thay lại'
-    - 'Starbucks thống nhất 1998/3/28 cửa hàng đầu tiên đường Thiên Mẫu'
+    [
+      '何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987',
+      'NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）',
+      'Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000',
+      '護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」',
+      '2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言',
+      '通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效',
+      '香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）',
+      '創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）',
+      '1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配',
+      'Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者',
+      '鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回',
+      '統一星巴克 1998/3/28 天母西路首店',
+    ]
   single_source:
-    - "Kidcastle 1986 thành lập + 1988 tự phát triển Chevady's World (babyeduhub secondhand)"
-    - 'aithley.com hướng dẫn mã Romanization hộ chiếu (trích dẫn "So your name is Chia-hao, not Kevin?")'
-    - 'PTT StupidClown 2019 kriss 30 giây tạm dừng Romeo case'
-    - 'Anne Chang Medium tiểu luận cá nhân (ngồi thẳng)'
+    [
+      "吉的堡 1986 創立 + 1988 自研 Chevady's World 教材（babyeduhub 二手）",
+      'aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）',
+      'PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案',
+      'Anne Chang Medium 個人散文（端正坐姿）',
+    ]
   unverified:
-    - '1988《Toàn bộ tên Anh văn》có tên ISBN — đã thay 1992《Bảo Kiếm Tên Anh Văn》hoặc "những cuốn sách tên Anh văn thập niên chín mươi"'
-    - 'Kevin → Chia-Hao thay đổi tên xu hướng — đã viết lại "các chuyên gia thực tế đề nghị thêm bí danh hộ chiếu"'
-    - 'bốn thành viên gia đình bốn cách viết cụ thể — sử dụng "khả năng kết cấu" để diễn đạt (luật pháp công nhận)'
+    [
+      '1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」',
+      'Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」',
+      '一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）',
+    ]
 rationale:
   whats_excluded:
-    - 'Hàn Quốc hagwon hệ thống ghi tên Anh (không bằng chứng, tài xế Hàn Quốc là tên rửa tội + toàn cầu hóa)'
-    - 'Starbucks tên Anh văn "cuộc sống hàng ngày toàn dân" (chỉ giới trẻ đô thị)'
-    - 'Mary / Kevin thống kê cho thấy X% (không N=1200 số liệu Đài Loan)'
-    - 'Sesame Workshop 1987 tự thiết kế tài liệu (Sesame English ESL dòng 1999 mới ra)'
-    - 'Tên Anh văn = tiếp tục tạo tên sắc lệnh (liên kết kết cấu có thể viết, bằng nhau bị cấm)'
+    [
+      '韓國 hagwon 系統性指派英文名（無證據，韓國 driver 是洗禮名 + 全球化）',
+      '星巴克英文名點餐「全民日常」（限都市年輕族群）',
+      'Mary / Kevin 統計顯示 X%（無 N=1200 級台灣資料）',
+      'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
+      '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
+    ]
+translatedFrom: 'Culture/台灣人小時候的英文名字.md'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceBodyHash: 'sha256:9aed0f1a904887ba'
+translatedAt: '2026-10-14T12:58:38.591527+00:00'
 ---
 
 # Những cái tên Anh văn trong tuổi thơ người Đài Loan: Mary, Kevin và quyền lực đặt tên của cô giáo
@@ -81,32 +89,34 @@ Diễn đàn PTT StupidClown có một bài nhớ lại từ năm 2019, tác gi�
 
 Bài báo học thuật nghiên cứu thực hành đặt tên Anh văn của thanh niên Đài Loan, hiện tại đầy đủ nhất là bài của hai nhà khoa học Barešová và Pikhart năm 2020 được đăng trên 《MDPI Social Sciences》 có tiêu đề 〈Going by an English Name〉, mẫu là 76 thanh niên Đài Loan từ 18 đến 41 tuổi (nữ 61, nam 15)[^5]. Bài báo viết rất trực tiếp: "**the majority received their first English name from their first teacher of English at an educational institution**", phần lớn người được phỏng vấn có tên Anh văn đầu tiên đến từ cô giáo Anh văn đầu tiên[^5]. Bài báo cũng ghi lại chi tiết về một nhóm tuổi: những người được phỏng vấn dưới 30 tuổi hầu hết nhận tên từ 8 đến 11 tuổi; những người trên 31 tuổi hầu hết nhận được từ 12 đến 13 tuổi. Trung tâm tiếng Anh cho trẻ đã đẩy ngưỡng "nhận được tên Anh văn" này tiến lên thế hệ này.
 
-## NO CHINESE, ENGLISH PLEASE: Bốn trung tâm tiếng Anh liên tục được thành lập trong ba năm
+## NO CHINESE, ENGLISH PLEASE: Bốn chuỗi trung tâm tiếng Anh trẻ em bùng nổ trong ba năm
 
-Cảnh tượng cô giáo nhìn danh sách, phía sau có bốn trung tâm bồi dưỡng tiếng Anh hỗ trợ.
+Cái cảnh giáo viên tra danh sách, sau lưng là phần cứng đỡ đầu bởi bốn trung tâm gia sư.
 
 ```tw-timeline
-1983 | Karen Hess khai trương | Vợ chồng Karen Hess và Joseph Chu thành lập ở Đài Bắc, quảng cáo môi trường Anh Mỹ hoàn toàn
-1986 | Kidcastle + Giraffe cùng năm ra đời | Kidcastle ở Đài Bắc, Giraffe ở Trung Lạc, mỗi bên khai trương chi nhánh đầu tiên
-1987 | Sesame English tham gia | Được uỷ quyền từ thương hiệu Mỹ, hô hào "NO CHINESE, ENGLISH PLEASE"
-1999 | Tiếng Anh tiểu học là bắt buộc | Bộ Giáo dục triển khai chương trình đào tạo chín năm, tên Anh văn từ lễ nghi trung tâm tiếng Anh nâng lên thành hồ sơ trường học
+1983 | Khởi nghiệp Karen Hess | Karen Hess và vợ chồng Chu Gia Tông (Joseph Chu) thành lập tại Đài Bắc, chủ打 môi trường toàn tiếng Anh
+1986 | Chevady và Giraffe ra đời cùng năm | Chevady tại Đài Bắc, Giraffe tại Trung Lịch, lần lượt khai trương chi nhánh đầu tiên
+1987 | Sesame English gia nhập | Nhập khẩu thương hiệu cấp phép từ Mỹ, tung ra khẩu hiệu 「NO CHINESE, ENGLISH PLEASE」
+1999 | Tiếng Anh bắt buộc tiểu học | Bộ Giáo dục thực hiện chín năm liên tục, tên tiếng Anh từ nghi thức trung tâm gia sư thăng cấp thành hồ sơ trường học
+Nguồn: Sơ yếu bốn thương hiệu tiếng Anh trẻ em trích dẫn trong bài (Karen Hess, Chevady, Giraffe, Sesame English) và tư liệu chính sách tiếng Anh bắt buộc tiểu học năm 1999[^6][^7][^8][^9]
 ```
 
-Karen Hess thành lập năm 1983, người sáng lập là Karen Hess (Karen Hess chính người) và Joseph Chu (Joseph Chu) vợ chồng[^6]. Năm 1987, tập đoàn mở rộng thành đội nghiên cứu giáo viên nước ngoài, năm 1990 khai trương cửa hàng sách Karen Hess đầu tiên. Kidcastle thành lập năm 1986, năm 1988 phát hành tài liệu giảng dạy thế hệ đầu tiên của riêng mình 《Chevady's World》[^7]. Giraffe English cũng khởi sự từ năm 1986, năm 1987 khai trương "trung tâm giảng dạy tiếng Anh cho trẻ và trẻ nhỏ" đầu tiên, năm 1989 chương trình tiếng Anh được phát sóng trên CTV và Hoa Kỳ TV[^8]. Sesame English thành lập tổng hành dinh Đài Loan năm 1987, là thương hiệu được uỷ quyền, tạp chí Thiên Hạ năm 2025 ghi lại khẩu hiệu nó hô hào lúc bấy giờ: "**NO CHINESE, ENGLISH PLEASE**", cho tới năm 2025 tích luỹ 103 chi nhánh, 500,000 học sinh[^9].
+Karen Hess thành lập năm 1983, người sáng lập là chính Karen Hess (Karen Hess) và Chu Gia Tông (Joseph Chu) vợ chồng[^6]. Năm 1987 tập đoàn mở rộng đội ngũ R&D giáo viên Việt - ngoại, 1990 khai trương nhà sách Karen Hess đầu tiên. Chevady thành lập 1986, 1988 tung ra bộ giáo trình tự chủng thế hệ đầu 《Chevady's World》[^7]. Giraffe tiếng Anh cũng khởi nghiệp 1986, 1987 khai trương đầu tiên 「Trung tâm dạy tiếng Anh cho trẻ mầm non và tiểu học」, 1989 chương trình tiếng Anh lên Đài truyền hình Đài Bắc (TTV) và Hoa thị (CTS)[^8]. Sesame English thành lập trụ sở Đài Loan năm 1987, là thương hiệu nhập khẩu cấp phép, phỏng vấn chuyên đề Thiên Hạ tạp chí 2025 ghi lại khẩu hiệu năm xưa: 「**NO CHINESE, ENGLISH PLEASE**」，đến 2025 tích lũy 103 chi nhánh, 500 nghìn học viên[^9].
 
-Thêm một thời điểm hay bị ghi nhầm: Sesame English năm 1987 hạ cánh ở Đài Loan, không bằng Sesame Workshop tự thiết kế tài liệu. Dòng giáo trình Sesame English ESL toàn cầu của Sesame Workshop năm 1999 mới phát hành, Đài Loan từ năm 1987 đến 1999 chạy dưới cơ chế thương hiệu được uỷ quyền cộng với đội ngũ bản địa tự soạn tài liệu[^10]. "Thời thơ ấu Big Bird dạy tôi tiếng Anh" ký ức này là thực, "Tổng hành dinh Mỹ năm 1987 đã tự thiết kế tài liệu cho bạn" ký ức này là được tạo lập sau.
+Thêm một mốc thời gian thường bị nhầm: Sesame English 1987 đặt chân Đài Loan, không đồng nghĩa Sesame Workshop tự thiết kế giáo trình. Dòng giáo trình ESL Sesame English toàn cầu của Sesame Workshop 1999 mới ra mắt, giai đoạn 1987–1999 tại Đài Loan chạy cơ chế thương hiệu cấp phép cộng đội ngũ bản địa tự biên soạn[^10]. Ký ức 「Big Bird dạy tôi tiếng Anh từ nhỏ」 là thật, ký ức 「Bộ máy Mỹ 1987 đã giúp bạn thiết kế giáo trình」 là bịa đặt sau.
 
-> ⚠️ **Được ghi nhầm thường xuyên**
-> "Lúc tôi nhỏ được dạy bằng tài liệu thiết kế của Sesame Workshop Tổng hành dinh Mỹ" câu nói này chín mươi phần trăm không thành lập. Từ năm 1987 đến 1999, Sesame English ở Đài Loan chạy dưới cơ chế lai giữa thương hiệu được uỷ quyền + bản địa soạn tài liệu. Dòng Sesame English ESL toàn cầu của Sesame Workshop năm 1999 mới phát hành lô giáo trình ESL đầu tiên, con chim vàng Big Bird của lúc bấy giờ là thật, nhưng nội dung tài liệu là không thật.
+> ⚠️ **Thường bị nhầm**
+> Câu 「Tôi nhỏ học giáo trình do Sesame Workshop Mỹ thiết kế」 chín phần mười không đúng. Giai đoạn 1987–1999, Sesame English Đài Loan chạy cơ chế lai: thương hiệu cấp phép + tự biên bản địa. Dòng ESL Sesame English toàn cầu của Sesame Workshop 1999 mới tung ra lô giáo trình ESL đầu tiên, poster Big Bird năm xưa là thật, mà nội dung giáo trình thì không.
 
 ```tw-versus
-Bốn trung tâm tiếng Anh liên tục 1983-1987 | Lịch sử đặt tên quốc gia cùng kỳ
-Karen Hess 1983 / Kidcastle 1986 / Giraffe 1986 / Sesame 1987 | Dỡ bỏ thiết quân luật 1987 / Mở cửa thăm nom CHND 1987 / Hộ chiếu phổ biến hóa
-Bốn trung tâm thành lập liên tiếp trong ba năm | Quốc gia vừa mở cánh cửa xuất ngoại
-Hiện trường giảng dạy hô hào "ENGLISH PLEASE" | Cơ quan công cộng hộ chiếu vẫn đang cãi cự phải viết gì
+Bốn chuỗi tiếng Anh trẻ em 1983-1987 | Sử đặt tên quốc gia cùng kỳ
+Karen Hess 1983 / Chevady 1986 / Giraffe 1986 / Sesame 1987 | Bãi엄 1987 / Mở cửa thăm thân 1987 / Phổ cập hộ chiếu
+Bốn nhà trong ba năm tập trung thành lập | Nhà nước vừa mở cửa ra nước ngoài
+Trường dạy hô 「ENGLISH PLEASE」 | Bộ môn hộ chiếu viết tên La-tinh thế nào còn đang cãi
+Nguồn: Sơ yếu thành lập thương hiệu tiếng Anh trẻ em trích dẫn trong bài, và tư liệu sử bãi엄, mở cửa thăm thân, lịch sử chế độ phiên âm hộ chiếu[^6][^9][^21]
 ```
 
-Bốn trung tâm tiếng Anh liên tục thành lập trong ba năm, cùng với năm 1987 dỡ bỏ thiết quân luật, mở cửa thăm nom ở bên kia eo biển, phổ biến hộ chiếu là cùng một thời kỳ. Quốc gia vừa mở cánh cửa xuất ngoại, dân gian sớm hơn bắt đầu chuẩn bị một cái tên "để sử dụng khi bước ra ngoài" cho con mình. Hành động dân gian này diễn ra nhanh hơn cơ quan công cộng; lúc đó tiêu chuẩn chính thức của cơ quan công cộng về "tên gọi Trung Quốc trên hộ chiếu được chuyển thành chữ La-tinh như thế nào", vẫn còn phải cãi cử thêm 15 năm nữa mới công bố.
+Bốn chuỗi tiếng Anh trẻ em bùng nổ trong ba năm, trùng thời điểm với bãi엄 1987, mở cửa thăm thân đại lục, phổ cập hộ chiếu. Nhà nước vừa mở cửa ra nước ngoài, dân gian đã先替 con cái chuẩn bị một cái tên 「dùng để bước ra ngoài」. Hành động dân gian này nhanh hơn bộ máy công; khi đó tiêu chuẩn chính thức 「tên tiếng Hán đổi thành chữ La-tinh như thế nào」 trên cột hộ chiếu, còn phải cãi thêm 15 năm mới định luận.
 
 ## Danh sách nhân vật giáo trình làm SSOT: Peter và Mary trong sách Longman
 
@@ -180,25 +190,26 @@ Tầng nơi làm việc cũng đã thể chế hóa rồi. Diễn đàn Dcard te
 > 📝 **Ghi chú của nhà sáng tác**
 > Tên Anh văn trong tuổi thơ bị ghi tên, tên Romanization khi trưởng thành bị pháp luật khóa lại. Giữa là một giai đoạn mà bạn tưởng là có quyền lực đặt tên của riêng mình: bạn tưởng bạn đã tự chọn Kevin, bạn cũng tưởng bạn đã chọn tài khoản LinkedIn gọi là Kevin, nhưng thực tế hộ chiếu dòng đó từ năm bạn sinh ra đó đã quyết định sẽ được hải quan hỏi gì khi trưởng thành. Hành động đặt tên từ chưa bao giờ thực sự quay trở lại tay bạn, nó chỉ đổi người hỏi.
 
-## Thêm bí danh hộ chiếu, rẻ hơn đổi tên NT$1,300
+## Thêm biệt danh hộ chiếu, rẻ hơn đổi tên NT$1,300
 
-Khi Kevin với Chia-hao không đối sánh được trên hộ chiếu, phần lớn người nghĩ đến giải pháp đầu tiên là "sửa hộ chiếu". Thực tế giải pháp này không thông được, nhưng có một con đường phía sau rẻ hơn.
+Khi Kevin và Chia-hao trên hộ chiếu không khớp nhau, giải pháp đầu tiên đa số người nghĩ đến là «đổi hộ chiếu». Thực tế con đường này không đi được, nhưng còn một lối thoát rẻ hơn.
 
-Điều 14 khoản năm mục một của Luật Hộ chiếu viết rất chắc chắn: "Nếu Romanization tên ngoài không nhất trí với tên Trung Quốc Ngôn ngữ Quốc gia đọc. **Những người thay đổi theo cách này, bị giới hạn một lần**"[^27]. Nói cách khác, bạn trong đời có thể thay đổi tên ngoài hộ chiếu một lần dựa vào lý do "Romanization không đúng" này, thay xong là không có cơ hội lần thứ hai.
+Chi tiết thực thi Điều lệ hộ chiếu Điều 14 khoản 5 mục 1 viết rất cứng: «Tên ngoại văn phiên âm không khớp với phát âm ngôn ngữ quốc gia của tên tiếng Trung. **Việc thay đổi theo lý do này, chỉ được một lần**»[^27]. Nghĩa là, cả đời bạn chỉ được đổi tên ngoại văn hộ chiếu theo lý do «phiên âm sai» một lần, đổi xong thì không còn cơ hội thứ hai.
 
-Nhưng cùng một quy định thi hành của Luật Hộ chiếu, điều 14-1, mở ra một cửa sổ khác: bí danh ngoài (Foreign Alias). Quy tắc viết "Sau khi thay đổi, tên ngoài ban đầu sẽ được liệt kê là bí danh, nhưng lần tái cấp hộ chiếu tiếp theo có thể không cần phải liệt kê" "Nếu đã có bí danh ngoài lần thứ hai, lần tái cấp hộ chiếu tiếp theo chọn một, **không được thêm bí danh ngoài lần thứ hai**"[^28]. Thực tế vận hành, bạn có thể giữ tên ngoài hộ chiếu chính thức LIN, CHIA-HAO, cùng lúc thêm "Kevin Lin" như một bí danh ngoài, cả hai được in trên cùng một trang. Phí xin cấp NT$1,300, thường 10 ngày làm việc, tăng tốc 3 ngày[^28].
+Nhưng cùng bộ thực thi細則 Điều 14-1 lại mở một cửa khác: biệt danh ngoại văn (Foreign Alias). Quy định ghi: «Sau khi thay đổi, tên ngoại văn gốc phải được liệt kê làm biệt danh, nhưng lần đổi cấp hộ chiếu sau có thể miễn liệt kê» «Nếu đã có biệt danh ngoại văn thứ hai, lần đổi cấp sau chọn một để đăng tải, **không được thêm ký biệt danh ngoại văn thứ hai nữa**»[^28]. Thực tế, bạn có thể giữ tên chính thức trên hộ chiếu là LIN, CHIA-HAO, đồng thời thêm ký «Kevin Lin» làm biệt danh ngoại văn, hai cái in chung một trang. Phí xin cấp NT$1,300, thường 10 ngày làm việc, cấp tốc 3 ngày[^28].
 
-aithley.com viết một đoạn đánh giá chi phí thẳng tâm cho con đường này: "**Trừ khi vấn đề Romanization hộ chiếu thực sự gây ra khó khăn nghề nghiệp hoặc pháp lý, ngoài ra chi phí thay đổi 10 năm thương hiệu thường cao hơn lợi tức**" "giữ tên Anh văn hiện tại, cùng lúc xin nó như **bí danh ngoài hộ chiếu**, để cả hai cùng tồn tại"[^22]. Nói cách khác, thay vì đổi Kevin đã dùng 10 năm, không bằng thêm nó vào hộ chiếu, để hải quan nhìn thấy "LIN, CHIA-HAO (aka Kevin Lin)", ba giây secon xong danh tính đối sánh.
+aithley.com viết một đoạn đánh giá chi phí thẳng thắn cho con đường này: «**Trừ khi vấn đề chính tả hộ chiếu thực sự gây ra khó khăn thực tế về nghề nghiệp hoặc pháp lý, chi phí thay đổi thương hiệu 10 năm thường cao hơn lợi ích**» «Giữ tên tiếng Anh hiện tại, đồng thời xin cấp nó làm **biệt danh tiếng Anh hộ chiếu**, để cả hai cùng tồn tại»[^22]. Nói cách khác, với其改 một cái Kevin dùng 10 năm, không như thêm ký nó vào hộ chiếu, để hải quan thấy «LIN, CHIA-HAO (aka Kevin Lin)», ba giây xác thực danh tính.
 
 ```tw-stat
-NT$1,300 | Thêm bí danh ngoài | Một lần nộp đơn, có thể đăng tên hai cái
-NT$0 bổ sung | Một lần thay đổi tên suốt đời | Giới hạn một lần, dùng xong bị khóa
-3 ngày làm việc | Tăng tốc lấy | Thường 10 ngày làm việc
+NT$1,300 | Thêm ký biệt danh ngoại văn | Một lần xin, có thể đăng tải hai tên
+NT$0 thêm | Hạn mức đổi tên cả đời | Chỉ một lần, dùng hết là khóa
+3 ngày làm việc | Lấy cấp tốc | Thường 10 ngày làm việc
+Nguồn: Chi tiết thực thi Điều lệ hộ chiếu Điều 14-1 (biệt danh ngoại văn) và đánh giá chi phí thực tế[^22][^28]
 ```
 
-Thay đổi tên ở xã hội Đài Loan, năm 2021 đã thể hiện một lần. Năm đó cửa hàng sushi quảng cáo cho người đổi tên thành "Cá hồi" ăn cá hồi miễn phí, 331 người đi cơ quan đăng ký hộ tịch đổi tên, còn được gọi là "Cuồng nạn Cá hồi"[^29]. Câu trả lời của Trưởng phòng Nội vụ Hộ tịch Trương Uyển Tự sau đó trở thành một câu nói kinh điển: "**Một khi dùng hết hạn mức đổi tên, sẽ thực sự tên thực chứ không phải cá hồi 'nhân tính'**"[^30]. Theo Điều 9 của Luật Tên, mỗi người trong đời có thể đổi tên 3 lần. Bốn năm sau theo dõi, trong 331 con cá hồi kia có **80% đã đổi lại tên gốc, 20% vẫn đang mang tên cá hồi**, những bản ghi tên đã thay đổi sẽ luôn được bảo lưu trong tệp hộ tịch[^29].
+Việc đổi tên, xã hội Đài Loan đã minh họa một lần năm 2021. Khi đó cửa hàng sushi khuyến mãi cho người đổi tên «Cá hồi» ăn miễn phí cá hồi, 331 người đến văn phòng hộ tịch đổi tên, sử gọi là «Loạn cá hồi»[^29]. Trưởng cục Hộ tịch Bộ Nội vụ Trương Hoàn Nghi phản hồi sau đó thành câu nói kinh điển: «**Một khi dùng hết hạn mức đổi tên, thì thực sự 'xứng danh cá hồi' rồi**»[^30]. Theo 《Điều lệ tên》 Điều 9, mỗi người cả đời có thể đổi tên 3 lần. Theo dõi sau 4 năm, trong 331 «cá hồi» có **80% đã đổi về tên gốc, 20% vẫn mang tên cá hồi sống ngày ngày**, hồ sơ tên đã đổi được lưu vĩnh viễn trong lưu trữ hộ tịch[^29].
 
-Tên ngoài hộ chiếu và tên gốc trên giấy tờ tùy thân là hai đường riêng biệt, cái trước "bị giới hạn một lần", cái sau "bị giới hạn ba lần". Nhưng cả hai đường đều dạy một điều: ở Đài Loan, sau khi viết tên lên tài liệu chính thức, nó có trọng lực, quay lại sửa phải trả giá. Vì vậy con đường rẻ hơn đó, thêm bí danh NT$1,300, thực tế là một sự thỏa hiệp thể chế. Nó nói "Kevin mà thời thơ ấu bị ghi tên của bạn không cần phải đổi tên, chúng tôi để nó cùng tồn tại với tên Romanization trên cùng một trang".
+Tên ngoại văn hộ chiếu và tên tiếng Trung chứng minh nhân dân là hai đường line độc lập, trước «chỉ một lần», sau «chỉ ba lần». Nhưng hai đường line dạy điều giống nhau: ở Đài Loan, tên viết lên văn kiện chính thức thì có trọng lượng, quay đầu đổi phải trả giá. Vậy con đường rẻ hơn đó, thêm ký biệt danh NT$1,300, thực ra là một sự thỏa hiệp thể chế. Nó nói: «Kevin được phân công thời thơ ấu không cần đổi tên, chúng tôi để nó cùng tồn tại với tên phiên âm trên cùng một trang».
 
 ## Tên Nhật của cha Kolas: Người bản địa bị đặt tên ba lần
 

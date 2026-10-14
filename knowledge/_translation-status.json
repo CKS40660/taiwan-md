@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-14T21:47:16+08:00",
-    "zhCommitHead": "72d32ea78",
+    "lastUpdated": "2026-10-14T22:32:39+08:00",
+    "zhCommitHead": "b3501e0be",
     "totalZh": 1133,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1133,
-        "fresh": 1111,
-        "stale": 17,
+        "fresh": 1112,
+        "stale": 16,
         "metadata_stale": 3,
         "missing": 2,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1133,
-        "fresh": 1112,
-        "stale": 16,
+        "fresh": 1113,
+        "stale": 15,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -37546,11 +37546,11 @@
           "sourceContentHash": "sha256:7bb096d095b41cf1",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-10-14T10:48:42.373016+00:00",
-          "translationLastCommit": "0222fce3",
-          "translationLastModified": "2026-10-10T23:26:12+08:00",
+          "translationLastCommit": "b3501e0b",
+          "translationLastModified": "2026-10-14T21:47:16+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 72475,
+          "bytes": 72481,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -148224,20 +148224,18 @@
         "hi": {
           "path": "hi/People/chi-huai-hsin.md",
           "translatedFrom": "People/紀懷新.md",
-          "sourceCommitSha": "95f42de83",
-          "sourceContentHash": "sha256:53560e337a2fa524",
-          "sourceBodyHash": "sha256:826517ecee263b74",
-          "translatedAt": "2026-07-27T04:27:40+08:00",
+          "sourceCommitSha": "7e660a586",
+          "sourceContentHash": "sha256:11f4b1d06ffc2776",
+          "sourceBodyHash": "sha256:a42a37a855f0ab8b",
+          "translatedAt": "2026-10-14T13:52:57.866926+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 74363,
+          "bytes": 75517,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chi-huai-hsin.md",
@@ -222332,20 +222330,18 @@
         "ru": {
           "path": "ru/Culture/taiwanese-childhood-english-names.md",
           "translatedFrom": "Culture/台灣人小時候的英文名字.md",
-          "sourceCommitSha": "cfce444ae",
-          "sourceContentHash": "sha256:5ec68902a1c50e0d",
-          "sourceBodyHash": "sha256:efeadcec0add04bc",
-          "translatedAt": "2026-07-30T03:56:00+08:00",
+          "sourceCommitSha": "d525e99ee",
+          "sourceContentHash": "sha256:679c9b463da5abd3",
+          "sourceBodyHash": "sha256:9aed0f1a904887ba",
+          "translatedAt": "2026-10-14T14:09:27.228245+00:00",
           "translationLastCommit": "ae837171",
           "translationLastModified": "2026-09-22T01:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 78890,
+          "bytes": 82060,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwanese-childhood-english-names.md",
