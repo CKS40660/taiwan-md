@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14701,
+  "totalArticles": 14727,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8977,
+  "totalTags": 8971,
   "categories": [
     {
       "name": "vi",
-      "count": 1130
+      "count": 1132
     },
     {
       "name": "es",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "ko",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "hi",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "fr",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "en",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "ja",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "de",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "ru",
-      "count": 1130
+      "count": 1132
     },
     {
       "name": "Technology",
@@ -50,15 +50,15 @@
     },
     {
       "name": "id",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "ar",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "pt",
-      "count": 1131
+      "count": 1133
     },
     {
       "name": "Politics",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Society",
-      "count": 118
+      "count": 119
     },
     {
       "name": "Food",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Art",
-      "count": 48
+      "count": 49
     },
     {
       "name": "resources",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14701,
+    "zh-TW": 14727,
     "en": 0
   },
-  "lastUpdated": "2026-10-13T22:06:14.919Z",
-  "stars": 1210,
+  "lastUpdated": "2026-10-14T22:06:40.558Z",
+  "stars": 1215,
   "forks": 187,
-  "zhPages": 1129,
+  "zhPages": 1131,
   "languagePages": {
-    "zh-TW": 1129,
-    "en": 1131,
-    "ja": 1131,
-    "ko": 1131,
-    "es": 1131,
-    "fr": 1131,
-    "vi": 1130,
-    "id": 1131,
-    "pt": 1131,
-    "hi": 1131,
-    "ar": 1131,
-    "ru": 1130,
-    "de": 1131
+    "zh-TW": 1131,
+    "en": 1133,
+    "ja": 1133,
+    "ko": 1133,
+    "es": 1133,
+    "fr": 1133,
+    "vi": 1132,
+    "id": 1133,
+    "pt": 1133,
+    "hi": 1133,
+    "ar": 1133,
+    "ru": 1132,
+    "de": 1133
   },
-  "enPages": 1131,
-  "totalPages": 1129
+  "enPages": 1133,
+  "totalPages": 1131
 }

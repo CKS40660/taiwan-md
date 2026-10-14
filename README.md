@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1129 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,677 article-versions
+- 📖 **1131 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,703 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,28 +95,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1129  |
-| 🇹🇼 Chinese (zh-TW)             | 1129  |
-| 🇺🇸 English (en)                | 1131  |
-| 🇯🇵 日本語 (ja)                 | 1131  |
-| 🇰🇷 한국어 (ko)                 | 1131  |
-| 🇪🇸 Español (es)                | 1131  |
-| 🇫🇷 Français (fr)               | 1131  |
-| 🇻🇳 Tiếng Việt (vi)             | 1130  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1131  |
-| 🇵🇹 Português (pt)              | 1131  |
-| 🇮🇳 हिन्दी (hi)                 | 1131  |
-| 🇸🇦 العربية (ar)                | 1131  |
-| 🇷🇺 Русский (ru)                | 1130  |
-| 🌐 Deutsch (de)                | 1131  |
+| 📄 Total articles (zh-TW SSOT) | 1131  |
+| 🇹🇼 Chinese (zh-TW)             | 1131  |
+| 🇺🇸 English (en)                | 1133  |
+| 🇯🇵 日本語 (ja)                 | 1133  |
+| 🇰🇷 한국어 (ko)                 | 1133  |
+| 🇪🇸 Español (es)                | 1133  |
+| 🇫🇷 Français (fr)               | 1133  |
+| 🇻🇳 Tiếng Việt (vi)             | 1132  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1133  |
+| 🇵🇹 Português (pt)              | 1133  |
+| 🇮🇳 हिन्दी (hi)                 | 1133  |
+| 🇸🇦 العربية (ar)                | 1133  |
+| 🇷🇺 Русский (ru)                | 1132  |
+| 🌐 Deutsch (de)                | 1133  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 78    |
-| ⭐ GitHub Stars                | 1210  |
+| ⭐ GitHub Stars                | 1215  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 42    |
-| 📅 Articles last 30 days       | 133   |
+| 📅 Articles last 7 days        | 59    |
+| 📅 Articles last 30 days       | 148   |
 
 <!-- STATS:END -->
 
@@ -580,8 +580,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   <tr>
     <td align="center"><a href="https://github.com/frank890417"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="100px;" alt=""/><br /><sub><b>Che-Yu Wu</b></sub></a><br />💻 🖋️ 🎨 🤔 🌍 📖 📆</td>
     <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />💻 🖋️</td>
-    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
+    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>

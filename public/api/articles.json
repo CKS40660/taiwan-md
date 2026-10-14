@@ -125,17 +125,6 @@
     "path": "es/Society/commonwealth-magazine.md"
   },
   {
-    "title": "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'",
-    "description": "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/nature/daan-river-yitian-sword",
-    "readingTime": 227,
-    "featured": false,
-    "date": "2026-06-24",
-    "path": "es/Nature/daan-river-yitian-sword.md"
-  },
-  {
     "title": "'Formose' : comment les Occidentaux ont « découvert » une île déjà habitée",
     "description": "En 1704, un Français qui n'était jamais allé en Asie se présenta devant la Royal Society de Londres et, avec une écriture et une religion qu'il avait lui-même inventées, convainquit l'assemblée de savants qu'il était « Formosan ». Cette supercherie dura dix ans. Mais la question la plus vaste est celle-ci : lorsque les Européens disent avoir « découvert Formose », les peuples austronésiens de l'île y vivaient déjà depuis six mille ans. De qui la « découverte » est-elle le récit ?",
     "category": "fr",
@@ -245,24 +234,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/People/jeremy-lin.md"
-  },
-  {
-    "title": "'범람과 범록 너머의 네 자: 한 조각 논에서 한 장의 건강보험카드까지, 자신의 정치를 넘어 살아남은 타이완의 정책들'",
-    "description": "한 독자가 범람과 범록이 식탁에서 서로 욕하는 장면에 지쳐, 타이완에 진정으로 좋았던 일을 기억하고 싶어 했다. 그래서 우리는 지난 70년의 열한 가지 정책을 골랐다. 권위주의가 농지를 강제 징수한 토지개혁, 계엄 해제, 전민건강보험부터 여전히 논쟁 중인 동성혼과 전향적 인프라까지, 일부러 범람과 범록의 자로 재지 않고 민생, 민주, 민권, 주권이라는 네 자로 재보았다. 결론은 조금 직관에 어긋난다. 자신의 당파적 출신을 넘어 살아남은 정책은, 태어난 날 대개 가장 격렬하게 다투어진 바로 그 정책이었다.",
-    "category": "ko",
-    "tags": [
-      "타이완 역사",
-      "정책",
-      "민주화",
-      "초당파",
-      "전환기 정의",
-      "정책과 제도"
-    ],
-    "url": "https://taiwan.md/ko/history/bipartisan-good-policy",
-    "readingTime": 114,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "ko/History/bipartisan-good-policy.md"
   },
   {
     "title": "'보이지 않는 국가: 한 미국 감독이 7년 동안 셔터를 눌러, 세계가 보지 않기로 한 섬을 찍었다'",
@@ -4604,15 +4575,7 @@
     "title": "王大閎：把包浩斯精神帶進台灣，用現代建築凝視東方靈魂的建築詩人",
     "description": "1965 年國父紀念館競圖脫穎而出，師從包浩斯大師葛羅培斯的王大閎，用一生在台灣試圖解答傳統與現代的張力：他的建築極簡自律，卻在屋檐起翹與黑牆白瓦中，為戰後台灣刻下最優雅的現代主義詩篇。",
     "category": "People",
-    "tags": [
-      "王大閎",
-      "台灣建築",
-      "現代主義",
-      "國父紀念館",
-      "建築詩人",
-      "包浩斯",
-      "建國南路自宅"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/people/%E7%8E%8B%E5%A4%A7%E9%96%8E",
     "readingTime": 14,
     "featured": false,
@@ -5539,12 +5502,12 @@
     "path": "ja/Technology/taiwan-ai-labs.md"
   },
   {
-    "title": "台湾人が子どもの頃にもらった英語名：Mary、Kevin と補習班教師の命名権",
-    "description": "補習班でページをめくる時間から、パスポートのローマ字表記、スターバックスのカウンターまで、その名前は一度も自分で選んだものではありませんでした。1983 年の何嘉仁、1987 年の芝麻街美語による「NO CHINESE, ENGLISH PLEASE」から、2024 年に立法院が法改正し族名の単独記載を認めるまでの命名史をたどり、問題をあの 30 秒の沈黙へと戻します。",
+    "title": "台湾人の子供時代の英語名：メアリー、ケビンと塾の先生の命名権",
+    "description": "塾でページをめくるところからパスポートのローマ字表記、スターバックスのカウンターまで、その名前は決してあなたが選んだものではありません。1983年の何嘉仁、1987年のセサミストリート英語の「NO CHINESE, ENGLISH PLEASE」から2024年の立法院法改正で単独民族名の記載が認められるまでの命名の歴史が、あの30秒の沈黙に問題を還元します。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/culture/taiwanese-childhood-english-names",
-    "readingTime": 79,
+    "readingTime": 73,
     "featured": true,
     "date": "2026-06-17",
     "path": "ja/Culture/taiwanese-childhood-english-names.md"
@@ -6185,12 +6148,12 @@
     "path": "ja/Geography/national-scenic-area-system.md"
   },
   {
-    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた蘇った映画史",
-    "description": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を当てた。90年後、『海角七号』が5つの言語を一緒に銀幕へ呼び戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが、息の根を止められた。新映画がヴェネツィアで金獅賞を獲ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではない。何度も死を宣告され、そのたびに蘇ってきた歴史だ。",
+    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた生き返った映画史",
+    "description": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を付けた。90年後、『海角七号』が5つの言語を一緒に銀幕に戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが扼殺され、新映画がヴェネツィアで金獅賞を取ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではなく、繰り返し死を宣告されながら蘇ってきた歴史だ。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/art/taiwanese-cinema",
-    "readingTime": 107,
+    "readingTime": 108,
     "featured": true,
     "date": "2026-03-23",
     "path": "ja/Art/taiwanese-cinema.md"
@@ -7267,6 +7230,17 @@
     "featured": false,
     "date": "2026-06-07",
     "path": "ja/Society/taiwan-nuclear-debate.md"
+  },
+  {
+    "title": "台湾とアジア大会：名古屋で誕生した名前、47年後に再び名古屋へ",
+    "description": "2026年10月4日の名古屋アジア大会閉幕式で、中華隊は金5、銀17、銅33を獲得し、メダル獲得数で15位となりました。開幕式では中華オリンピック委員会の旗を掲げ、表彰式では国旗歌のメロディーが流れました。この取り決めは1979年10月に国際オリンピック委員会が名古屋で決議したものです。台湾は1954年マニラアジア大会に初参加し2つの金メダルを獲得しましたが、1973年に会籍を38対13で除外され、20年間の欠席を経て1990年北京アジア大会でこの名前で復帰しました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/taiwan-asian-games",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ja/Society/taiwan-asian-games.md"
   },
   {
     "title": "台湾とエスワティニ：アフリカ最後の外交的生命線は、一人の人物にかかっています",
@@ -13805,6 +13779,24 @@
     "path": "Society/台灣與立陶宛.md"
   },
   {
+    "title": "台灣與亞運：一個在名古屋誕生的名字，四十七年後又回到名古屋",
+    "description": "2026 年 10 月 4 日名古屋亞運閉幕，中華隊帶回 5 金 17 銀 33 銅、獎牌榜第 15 名，開幕時舉的是中華奧會會旗、唱的是國旗歌。這套安排來自 1979 年 10 月國際奧會在名古屋做成的決議。台灣第一次打亞運是 1954 年馬尼拉，拿了兩面金牌，其中一面是楊傳廣的十項全能；1973 年會籍被以 38 比 13 排除，這一缺席就是二十年，直到 1990 年北京亞運才以那個名字重新進場。",
+    "category": "Society",
+    "tags": [
+      "亞運",
+      "中華台北",
+      "名古屋決議",
+      "奧會模式",
+      "體育外交",
+      "國際關係"
+    ],
+    "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E8%88%87%E4%BA%9E%E9%81%8B",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "Society/台灣與亞運.md"
+  },
+  {
     "title": "台灣與核能的討論：反核曾是民主運動的共同語言，氣候危機卻把每一方都洗了牌",
     "description": "2025 年 8 月，434 萬人投下「重啟核三」同意票、贏了七成四，卻因投票率沒過門檻算輸。四十年三場公投，台灣從反核共識走到非核家園，又在三個月內親手把關掉的反應爐推向重啟。這場辯論早已超過「核能好不好」的是非題，而是一個社會怎麼決定一件時間壓力相反的事：核廢要安穩十萬年、減碳要十年內達成、缺電是此刻。",
     "category": "Society",
@@ -14287,7 +14279,7 @@
   },
   {
     "title": "台灣藍鵲：都市叢林裡的藍色幫派，與一場跨百年的基因保衛戰",
-    "description": "2007 年以 18 萬票奪下國鳥寶座，這顆山林寶石卻是會「打群架」的強悍家族。從 1862 年郇和採集的首個標本，到今日適應都市搶食貓糧，牠們以 97% 的巢邊幫手制在競爭中勝出。這是一個關於生存、家族凝聚力、基因保衛戰，以及人鳥共存智慧的島嶼故事。",
+    "description": "2007 年以 18 萬票奪下國鳥寶座，這顆山林寶石卻是會「打群架」的強悍家族。牠是台灣特有種，從 1862 年郇和採集的首個標本，到今天在都市公園搶食貓糧，靠的是高達 97% 的巢邊幫手制在競爭中勝出；而在這一百多年裡，牠們也一直守著與中國紅嘴藍鵲之間的基因界線。這是一個關於生存、家族凝聚力、基因保衛戰，以及人鳥共存智慧的島嶼故事。",
     "category": "Nature",
     "tags": [],
     "url": "https://taiwan.md/nature/%E5%8F%B0%E7%81%A3%E8%97%8D%E9%B5%B2",
@@ -17804,6 +17796,17 @@
     "path": "History/牡丹社事件.md"
   },
   {
+    "title": "見えない台湾：霊媒ドキュメンタリーと、そこで出会った和解法会",
+    "description": "2018年に公開された『見えない台湾』は脚本家・林明謙（りん・めいけん）の初長編ドキュメンタリー。霊媒を撮影するつもりが、初日から神々に「カット」と止められ、家族の問題を片付けるよう指示される。4年後、4人の霊媒女性と1人の天語翻訳者とともに台南の鹿耳門渓口へ向かい、鄭成功（ていせいこう）と西ラヤ族のための誰も予想していなかった和解法会を開催。118分、台北興行収入110万台湾ドル。台湾民間信仰の現場記録として残された。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/invisible-taiwan",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ja/Art/invisible-taiwan.md"
+  },
+  {
     "title": "見えない国家：あるアメリカ人監督が7年間シャッターを切り続けた、世界が見ようとしない島",
     "description": "2025年6月、台湾の映画館にて。アメリカ人が撮影したあるドキュメンタリーがNT$3,700万を超える興行収入を記録し、ドキュメンタリー史上第3位に登り詰めた。葛静文（Cassandra Kwok）は7年の歳月をかけ、5回にわたる密着インタビューを通じて蔡英文氏に迫り、国連から除名され、外交関係国が22から12へと減少し、オリンピックでは「チャイニーズ・タイペイ」と呼ばざるを得ないこの島をカメラの前に押し出した。しかし、最も疑問視されているのは、台湾を「見える存在」にするためのこの作品が、自ら誰をフレームの外に残してしまったのかということだ。「見る」ということは常に一つのアクションであり、地位ではないのだ。",
     "category": "ja",
@@ -20413,24 +20416,6 @@
     "path": "ja/Food/taiwan-herbal-tea.md"
   },
   {
-    "title": "青と緑を越える四つの物差し：一枚の田から一枚の健保カードまで、台湾で自らの政治を越えて生き残った政策",
-    "description": "ある読者は、青と緑が食卓で罵り合う光景にうんざりし、本当に台湾にとってよかったことを記憶したいと考えました。そこで私たちは、過去七十年の十一の政策を取り上げました。権威主義体制が農地を強制徴収した土地改革、戒厳令解除、全民健康保険から、今なお議論が続く同性婚と前瞻基礎建設までです。あえて青と緑の物差しでは測らず、民生、民主、民権、主権という四つの物差しで見直しました。結論は少し直感に反します。自らの党派的出自を越えて生き残った政策は、生まれたその日にこそ、最も激しく争われていたことが多いのです。",
-    "category": "ja",
-    "tags": [
-      "台湾史",
-      "政策",
-      "民主化",
-      "党派横断",
-      "移行期正義",
-      "政策と制度"
-    ],
-    "url": "https://taiwan.md/ja/history/bipartisan-good-policy",
-    "readingTime": 103,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "ja/History/bipartisan-good-policy.md"
-  },
-  {
     "title": "侯孝賢",
     "description": "拒絕特寫鏡頭卻征服世界的電影詩人——一個反電影語法的影像革命者",
     "category": "People",
@@ -21168,6 +21153,17 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "ja/Culture/traditional-festivals-and-celebrations.md"
+  },
+  {
+    "title": "看不見的台灣：一部通靈紀錄片，和它撞見的那場和解法會",
+    "description": "2018 年上映的《看不見的台灣》是編劇林明謙第一部紀錄長片。他原本只想拍通靈，開鏡第一天卻被眾神明喊「卡」，要先把家裡的事處理完；四年之後，鏡頭跟著四位通靈女性與一位天語翻譯，一路走到台南鹿耳門溪口，替鄭成功與西拉雅族辦了一場沒人預期會發生的和解法會。118 分鐘、台北票房 110 萬，留下的是一份台灣民間信仰的現場紀錄。",
+    "category": "Art",
+    "tags": [],
+    "url": "https://taiwan.md/art/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%8F%B0%E7%81%A3",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "Art/看不見的台灣.md"
   },
   {
     "title": "看不見的國家：一個美國導演按了七年快門，拍一個世界決定不看的島嶼",
@@ -32039,6 +32035,24 @@
     "path": "History/跨黨派的好政策.md"
   },
   {
+    "title": "藍緑（国民党・民進党）以外の4つの尺度：一塊の田から一枚の健康保険証まで、台湾における政争を超越した政策たち",
+    "description": "藍緑両陣営の罵り合いに疲れ、台湾にとって本当に良い出来事を記憶したいと願う読者がいます。そこで私たちは、過去70年間の11の政策を紐解きました。権威主義下での農地の強制徴収を伴う土地改革、解厳、国民健康保険から、今なお議論が続く同性婚や前瞻インフラ計画まで。あえて藍緑の尺度ではなく、民生、民主、民権、主権という4つの尺度を用いて検証します。結論は少し直感に反するものです。党派の出自を超えて生き残った政策は、その誕生の日こそが最も激しく争われたものでした。",
+    "category": "ja",
+    "tags": [
+      "台湾の歴史",
+      "政策",
+      "民主化",
+      "超党派",
+      "移行期正義",
+      "政策と制度"
+    ],
+    "url": "https://taiwan.md/ja/history/bipartisan-good-policy",
+    "readingTime": 115,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "ja/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "醫療法：機構規範與市場拉扯的四十年",
     "description": "台灣醫療法 1986 年公布、2017 年修醫師刑責、2026 年三班護病比入法。法律寫得出「一個護理師最多顧幾床」，卻寫不出「有沒有那個護理師」——32 萬張護理執照，臨床只剩 19 萬雙手。這不是健保法、不是醫師法，是台灣「醫院」這個機構怎麼存在的根法，也是醫療公益性與市場機制四十年沒解開的拉扯。",
     "category": "Society",
@@ -35029,6 +35043,17 @@
     "path": "id/Society/kuma-academy-civil-defense-school.md"
   },
   {
+    "title": "Além do Azul e Verde: Quatro métricas para avaliar políticas que transcenderam a política partidária em Taiwan, de um campo agrícola ao cartão de saúde",
+    "description": "Um leitor cansado das discussões entre o Azul e o Verde à mesa decidiu registrar o que realmente faz bem a Taiwan. Assim, selecionamos onze políticas ao longo de setenta anos — desde a reforma agrária sob o regime autoritário, o fim da lei marcial e o Seguro Nacional de Saúde, até os debates atuais sobre o casamento entre pessoas do mesmo sexo e o Plano de Infraestrutura de Próxima Geração. Em vez de usar as réguas partidárias, utilizamos quatro novos critérios: subsistência, democracia, direitos civis e soberania. A conclusão é um tanto contraintuitiva: políticas que conseguem sobreviver às suas origens partidárias costumam ser aquelas que geraram as discussões mais acaloradas no dia de seu nascimento.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/bipartisan-good-policy",
+    "readingTime": 265,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "pt/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "Alerta sísmica: Taiwán gana unos segundos, pero no el tiempo cerca del epicentro",
     "description": "Tras el terremoto de Jiji en 1999, investigadores como Wu Yi-min conectaron sensores de ondas P de bajo costo a la red de alerta sísmica de Taiwán; el terremoto de Hualien de 2024 recordó que, aunque el sistema puede estimar magnitud e intensidad en segundos, la dirección de la ruptura y la distribución de las estaciones pueden llevar a subestimar la intensidad. Lo que Taiwán ha desarrollado verdaderamente no es predecir terremotos, sino transformar ese breve margen temporal en decisiones reales de reducción de desastres.",
     "category": "es",
@@ -36595,6 +36620,17 @@
     "featured": false,
     "date": "2026-08-25",
     "path": "fr/Society/housing-justice-taiwan.md"
+  },
+  {
+    "title": "Au-delà du bleu et du vert : quatre critères, d'un champ agricole à la carte d'assurance maladie, les politiques taïwanaises qui ont transcendé la politique",
+    "description": "Un lecteur, lassé des disputes incessantes entre le camp bleu et le camp vert, souhaite se souvenir de ce qui a réellement été bénéfique pour Taïwan. Nous avons donc sélectionné onze politiques sur soixante-dix ans : de la réforme agraire sous l'ère autoritaire à la levée de l'état de siège, en passant par l'assurance maladie universelle, jusqu'aux débats actuels sur le mariage pour tous et le programme Forcite. Plutôt que d'utiliser les critères partisans habituels, nous appliquons quatre nouveaux prismes : subsistance, démocratie, droits civiques et souveraineté. La conclusion est presque contre-intuitive : les politiques ayant survécu à leurs origines partisanes sont souvent celles qui faisaient le plus de bruit lors de leur création.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/bipartisan-good-policy",
+    "readingTime": 284,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "fr/History/bipartisan-good-policy.md"
   },
   {
     "title": "Audrey Tang: cada una de sus decisiones célebres ha sido una forma de rechazar la etiqueta de «genio»",
@@ -38855,17 +38891,6 @@
     "path": "id/Nature/taiwan-island-natural-history.md"
   },
   {
-    "title": "Bioskop Taiwan: Orang yang Berbicara di Samping Layar, dan Sebuah Sejarah Sinema yang Mati Bergulir-ulang Hidup",
-    "description": "Tahun 1930 di gedung bioskop, seorang benshi berdiri di samping layar dan mengimprovisasi narasi dalam bahasa Taiwan untuk film bisu; sembilan puluh tahun kemudian, *Cape No. 7* membiarkan lima bahasa sekaligus kembali ke layar. Film Taiwan pernah menjadi produsen film cerita terbesar ketiga di dunia tapi mati tercekal; sementara sinema baru Taiwan memenangkan Singa Emas di Venesia, tiket film lokal di bioskop turun hingga tinggal 0,36%. Film Taiwan bukan garis lurus dari jelek menjadi bagus, melainkan sebuah sejarah yang berkali-kali dinyatakan mati dan ternyata hidup kembali.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/art/taiwanese-cinema",
-    "readingTime": 162,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "id/Art/taiwanese-cinema.md"
-  },
-  {
     "title": "Bisa Memprediksi Hujan dan Angin, Tak Bisa Memprediksi Takdir: Taiwan dan 400 Tahun Bertarung melawan Angin Topan",
     "description": "Pada pagi yang cerah 2009, Morak, Roh Pan Chun-mei berdiri di balkon lantai dua, menyaksikan Gunung Hsun-tu runtuh dan menelan 462 kerabat di Kampung Hsiung-lin. Lima belas tahun kemudian, Taiwan berhasil menurunkan kesalahan prediksi jalur angin topan 24 jam dari 172 km menjadi 57 km dengan enam model AI. Namun, siapa yang akan keluar kerja di tengah hujan dan angin, siapa yang tidak akan menerima pemberitahuan — itu tak bisa diprediksi.",
     "category": "id",
@@ -39166,12 +39191,12 @@
     "path": "es/Lifestyle/bowling.md"
   },
   {
-    "title": "Bốn cây số ngoài xanh lam đỏ: Từ một mảnh ruộng đến một thẻ bảo hiểm, những chính sách của Đài Loan sống vượt qua chính trị của chính nó",
-    "description": "Một độc giả mệt mỏi với những cuộc tranh cãi xanh lam đỏ ở bàn cơm muốn nhớ những điều thực sự tốt cho Đài Loan. Vì thế chúng tôi tìm thấy mười một chính sách trong bảy mươi năm, từ tái phân bổ đất đai được đẩy nhanh dưới chế độ độc tài, chính sách sử dụng thận trọng đối với Trung Quốc, bảo hiểm y tế toàn dân, đến các chủ đề còn tranh cãi như hôn nhân đồng giới và hạ tầng tiên phong. Chúng tôi cố ý không dùng thước đo xanh lam đỏ mà thay vào đó dùng bốn thước đo: điều kiện sống, dân chủ, quyền dân sự và chủ quyền.",
+    "title": "Bốn thước đo ngoài lằn ranh Xanh - Lục: Từ một mảnh ruộng đến tấm thẻ bảo hiểm y tế, những chính sách đã vượt lên trên chính trị tại Đài Loan",
+    "description": "Một độc giả vì chán ngấy những màn đấu khẩu giữa phe Xanh và phe Lục trên bàn nghị sự, muốn ghi nhớ những điều thực sự tốt đẹp cho Đài Loan. Vì vậy, chúng tôi đã tìm kiếm 11 chính sách trong suốt 70 năm qua, từ cải cách ruộng đất trưng thu nông nghiệp thời kỳ độc tài, dỡ bỏ thiết quân luật, bảo hiểm y tế toàn dân, cho đến những tranh cãi về hôn nhân đồng giới và Kế hoạch Tiền cảnh vẫn đang tiếp diễn. Chúng tôi cố ý không dùng thước đo của phe Xanh hay Lục, mà thay bằng bốn thước đo: Dân sinh, Dân chủ, Dân quyền và Chủ quyền. Kết luận có phần ngược với trực giác: Những chính sách vượt qua được nguồn gốc đảng phái thường là những chính sách gây tranh cãi dữ dội nhất vào ngày chúng ra đời.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/history/bipartisan-good-policy",
-    "readingTime": 226,
+    "readingTime": 260,
     "featured": false,
     "date": "2026-06-13",
     "path": "vi/History/bipartisan-good-policy.md"
@@ -46307,12 +46332,23 @@
     "path": "pt/Geography/keelung-city.md"
   },
   {
+    "title": "Cine nacional de Taiwán: el narrador junto a la pantalla y una historia del cine que muere y revive",
+    "description": "En los cines de 1930, los benshi se paraban junto a la pantalla e improvisaban diálogos en taiwanés para las películas mudas; noventa años después, «Cape No. 7» hizo que cinco idiomas volvieran juntos a la pantalla. El cine en taiwanés fue alguna vez el tercer mayor productor mundial de películas dramáticas, pero fue estrangulado; en los años en que el Nuevo Cine ganaba Leones de Oro en Venecia, la taquilla de las películas nacionales en los cines cayó al 0,36 %. El cine nacional no es una línea recta de lo malo a lo bueno, sino una historia que repetidamente ha sido declarada muerta y ha vuelto a la vida.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/art/taiwanese-cinema",
+    "readingTime": 241,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "es/Art/taiwanese-cinema.md"
+  },
+  {
     "title": "Cinéma taïwanais : la voix à côté de l'écran, et l'histoire d'un cinéma mort, puis ressuscité",
     "description": "En 1930, un benshi improvisait en taïwanais les films muets ; 90 ans plus tard, *Cape No. 7* fait résonner cinq langues sur un même écran. Entre les deux, le cinéma en taïwanais, jadis 3e producteur mondial, est étouffé et le Nouveau Cinéma primé à Venise pendant que le box-office national tombe à 0,36 %. Pas une ligne du pire au meilleur : une histoire sans cesse déclarée morte, puis ressuscitée.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/art/taiwanese-cinema",
-    "readingTime": 253,
+    "readingTime": 256,
     "featured": true,
     "date": "2026-03-23",
     "path": "fr/Art/taiwanese-cinema.md"
@@ -46323,7 +46359,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/taiwanese-cinema",
-    "readingTime": 237,
+    "readingTime": 236,
     "featured": true,
     "date": "2026-03-23",
     "path": "pt/Art/taiwanese-cinema.md"
@@ -49524,6 +49560,17 @@
     "path": "vi/History/taiwan-malaria-eradication.md"
   },
   {
+    "title": "Đài Loan và Á Vận: Một cái tên được sinh ra ở Nagoya, bốn mươi bảy năm sau lại quay trở lại Nagoya",
+    "description": "Ngày 4 tháng 10 năm 2026, Á Vận Nagoya–Aichi đóng màn, đoàn Trung Hoa mang về 5 huy chương vàng, 17 bạc, 33 đồng, xếp thứ 15 trên bảng huy chương. Lễ khai mạc, đoàn thi đấu cầm là cờ Hội Thi đấu Thể thao Trung Hoa, lễ trao giải hát bản nhạc Quốc ca. Cách sắp xếp này xuất phát từ quyết định của Ủy ban Thể thao Quốc tế tại Nagoya tháng 10 năm 1979. Đài Loan lần đầu tham dự Á Vận năm 1954 tại Manila, giành được hai huy chương vàng, trong đó một là của Dương Truyền Quảng ở nội dung thập năng; năm 1973 tư cách thành viên bị loại với tỷ lệ 38 so với 13, vắng mặt liên tiếp hai mươi năm, cho đến Á Vận Bắc Kinh năm 1990 mới quay trở lại với cái tên đó.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/taiwan-asian-games",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "vi/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "Đài Loan và Bắc Kim: Từ quốc gia xuất khẩu lớn thứ tư đến cuộc chiến xám của tàu tuần tra",
     "description": "Đài Loan từng là đối tượng xuất khẩu lớn thứ tư của Bắc Kim, nơi có thể ngầm thấy máy tính Acer và thiết bị vệ sinh HCG. Lịch sử chuyển đổi từ thương mại nóng hổi đến cấm vãi hoàn toàn, giao thoa giữa trợ cấp nông nghiệp bí mật, buôn lậu hải quân và tranh đấu an ninh quốc gia.",
     "category": "vi",
@@ -49610,6 +49657,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "vi/Society/taiwan-environmental-justice-nimby-conflicts.md"
+  },
+  {
+    "title": "Đài Loan Vô Hình: Một Bộ Phim Tài Liệu Thông Linh và Buổi Hòa Giải Pháp Hội Mà Nó Gặp Phải",
+    "description": "Bộ phim tài liệu dài tập \"Đài Loan Vô Hình\" (2018) là tác phẩm đầu tiên của biên kịch Lâm Minh Khiêm. Ban đầu anh chỉ muốn quay phim về thông linh, nhưng ngay ngày đầu quay, các vị thần linh đã hô \"cắt!\", yêu cầu anh phải xử lý xong chuyện gia đình trước. Bốn năm sau, camera theo dõi bốn phụ nữ thông linh và một người dịch ngôn ngữ thiên đàng, đi đến cửa sông Lộc Nhĩ ở Đài Nam, tổ chức một buổi hòa giải pháp hội không ai dự kiến sẽ xảy ra giữa Trịnh Thành Công và dân tộc Tây La Diêu. 118 phút, doanh thu vé tại Đài Bắc 1,1 triệu đô la Đài Tệ, để lại một bản ghi chép hiện trường về tín ngưỡng dân gian Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/art/invisible-taiwan",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "vi/Art/invisible-taiwan.md"
   },
   {
     "title": "Đài Loan: Hương vị của Bảo An Miếu, Giọng của Kinh Triều, Trời đất của Ngọn Sơn — Ba thời kỳ tôn giáo của Hà Nội",
@@ -50397,6 +50455,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "de/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "Das unsichtbare Taiwan: Ein Dokumentarfilm über Geistmediumschaft und die Versöhnungszeremonie, auf die er traf",
+    "description": "Der 2018 uraufgeführte Film „Das unsichtbare Taiwan\" ist das erste abendfüllendes Dokumentarwerk des Drehbuchautors Lin Ming-chien. Er wollte ursprünglich nur Geistmediumschaft dokumentieren, doch am ersten Drehtag stoppten die Gottheiten ihn mit „Schnitt!\" und forderten ihn auf, erst seine Familienangelegenheiten zu regeln. Vier Jahre später folgt die Kamera vier weiblichen Medien und einem Übersetzer der „Himmelssprache\" zum Luerhmen-Flussmund in Tainan, wo sie eine unerwartete Versöhnungszeremonie zwischen Zheng Chenggong und dem Siraya-Volk abhielten. 118 Minuten, 1,1 Millionen NT$ Einspieler in Taipeh – ein Dokument der zeitgenössischen taiwanesischen Volksreligion.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/art/invisible-taiwan",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "de/Art/invisible-taiwan.md"
   },
   {
     "title": "Das Volk der Hla'alua: Vom «Südlichen Tsou» zum eigenen Namen – was das Miatungusu-Fest bewahrt",
@@ -53347,7 +53416,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/art/taiwanese-cinema",
-    "readingTime": 227,
+    "readingTime": 217,
     "featured": true,
     "date": "2026-03-23",
     "path": "vi/Art/taiwanese-cinema.md"
@@ -55861,17 +55930,6 @@
     "featured": false,
     "date": "2026-08-14",
     "path": "es/Art/weiwuying-arts-center.md"
-  },
-  {
-    "title": "El cine nacional de Taiwán: La persona que hablaba junto a la pantalla y una historia cinematográfica que murió y renació",
-    "description": "En 1930, en los cines, un narrador (benshi) se paraba junto a la pantalla para improvisar diálogos en taiwanés para las películas mudas; noventa años después, \"Cape No. 7\" hizo que cinco idiomas volvieran juntos a la pantalla. El cine en taiwanés fue una vez el tercer mayor productor de largometrajes del mundo, pero fue estrangulado; en los años en que el \"Nuevo Cine\" ganaba el León de Oro en Venecia, la cuota de taquilla de las películas nacionales en los cines cayó a solo el 0,36 %. El cine nacional no es una línea recta que va de malo a bueno, es una historia que fue declarada muerta y renació repetidamente.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/art/taiwanese-cinema",
-    "readingTime": 240,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "es/Art/taiwanese-cinema.md"
   },
   {
     "title": "El clima de Taiwán",
@@ -59464,6 +59522,17 @@
     "path": "pt/Lifestyle/taiwan-queuing-culture.md"
   },
   {
+    "title": "Film Nasional Taiwan: Orang yang Berbicara di Samping Layar Perak, dan Sejarah Film yang Berulang Kali Mati dan Bangkit",
+    "description": "Di bioskop tahun 1930, benshi berdiri di samping layar menggunakan bahasa Taiwan untuk mengimprovisasikan dialog film diam; sembilan puluh tahun kemudian, \"Cape No. 7\" membuat lima bahasa kembali bersama ke layar perak. Film berbahasa Taiwan pernah menjadi produsen film drama terbesar ketiga di dunia namun dimatikan paksa; pada era film baru meraih Singa Emas di Venesia, pendapatan tiket film nasional di bioskop justru anjlok hingga hanya 0,36%. Film nasional bukan garis lurus dari jelek ke baik, melainkan sejarah yang berulang kali diumumkan mati dan bangkit kembali.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/art/taiwanese-cinema",
+    "readingTime": 224,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "id/Art/taiwanese-cinema.md"
+  },
+  {
     "title": "Fim da proibição de jornais: a ilha dos 31 jornais e como foi entregue ao mercado da noite para o dia",
     "description": "Após 1951, o número de jornais em Taiwan foi mantido em 31. Em 1 de janeiro de 1988, a proibição foi levantada, passando do regime de licença especial para registro, e páginas, locais de impressão e preços deixaram de ser travados pela mesma interdição. Não é uma história simples de liberdade, pois, com a saída do controle político, a concentração de mercado, guerras promocionais, trabalho jornalístico e responsabilidade da mídia assumiram imediatamente. Os problemas deixados por essa transição ainda ecoam na era da internet.",
     "category": "pt",
@@ -60173,6 +60242,28 @@
     "path": "en/People/nymphia-wind-drag-queen.md"
   },
   {
+    "title": "Fu Chao-hsuan : le saut que l'athlétisme masculin taïwanais attendait depuis 60 ans",
+    "description": "À la finale du saut en hauteur masculin des Jeux asiatiques de Nagoya 2026, Fu Chao-hsuan franchit 2,25 m dès sa première tentative sous la pluie, devançant le concurrent indien qui ne réussit qu'à sa deuxième tentative et remporte l'or. C'est la 3e médaille d'or de Taïwan à ces Jeux, et la première médaille d'or en athlétisme masculin depuis Wu A-min aux Jeux asiatiques de Bangkok 1966 (décathlon), soit 60 ans plus tard. À 16 ans, il avait déjà remporté l'or aux Jeux nationaux, mais a ensuite traversé de longues années marquées par les blessures et la réadaptation.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/fu-chao-hsuan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "fr/People/fu-chao-hsuan.md"
+  },
+  {
+    "title": "Fu Chao-hsuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete",
+    "description": "Bei der Männer-Hochsprung-Endrunde der Nagoya-Asienspielen 2026 sprang Fu Chao-hsuan im Regen beim ersten Versuch über 2,25 Meter und besiegte den indischen Konkurrenten, der die gleiche Höhe erst beim zweiten Versuch schaffte, um Gold zu gewinnen. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium. Mit 16 Jahren gewann er bereits eine Goldmedaille bei den Nationalen Spielen, danach kämpfte er lange Jahre mit Verletzungen und Genesung.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/fu-chao-hsuan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "de/People/fu-chao-hsuan.md"
+  },
+  {
     "title": "Fu Chao-hsuan: el salto que el atletismo masculino taiwanés esperaba desde hace 60 años",
     "description": "En la final de salto de altura masculino de los Juegos Asiáticos de Nagoya 2026, Fu Chao-hsuan superó 2,25 metros en su primer intento bajo la lluvia, derrotando al atleta indio que necesitó un segundo intento para la misma altura y ganando el oro. Esta es la tercera medalla de oro de Taiwán en estos Juegos, y la primera en atletismo masculino desde el decatlón de Wu A-min en los Juegos Asiáticos de Bangkok 1966, hace 60 años. A los 16 años ya había ganado oro en los Juegos Nacionales, pero después pasó años alternando entre lesiones y recuperación.",
     "category": "es",
@@ -60295,28 +60386,6 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "en/People/fu-kun-chi.md"
-  },
-  {
-    "title": "Fu Zhao-xuan : le saut que l'athlétisme masculin taïwanais attendait depuis 60 ans",
-    "description": "À la finale du saut en hauteur masculin des Jeux asiatiques de Nagoya 2026, Fu Zhao-xuan franchit 2,25 m dès sa première tentative sous la pluie, devançant le concurrent indien qui ne réussit qu'à sa deuxième tentative et remporte l'or. C'est la 3e médaille d'or de Taïwan à ces Jeux, et la première médaille d'or en athlétisme masculin depuis Wu A-min aux Jeux asiatiques de Bangkok 1966 (décathlon), soit 60 ans plus tard. À 16 ans, il avait déjà remporté l'or aux Jeux nationaux, mais a ensuite traversé de longues années marquées par les blessures et la réadaptation.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/fu-chao-hsuan",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "fr/People/fu-chao-hsuan.md"
-  },
-  {
-    "title": "Fu Zhao-xuan: Der Sprung, auf den Taiwans Männer-Leichtathletik 60 Jahre wartete",
-    "description": "Bei der Männer-Hochsprung-Endrunde der Nagoya-Asienspielen 2026 sprang Fu Zhao-xuan im Regen beim ersten Versuch über 2,25 Meter und besiegte den indischen Konkurrenten, der die gleiche Höhe erst beim zweiten Versuch schaffte, um Gold zu gewinnen. Dies ist Taiwans dritte Goldmedaille bei diesen Asienspielen und die erste Goldmedaille Taiwans in der Männer-Leichtathletik seit Wu A-mins Zehnkampf bei den Bangkok-Asienspielen 1966 – nach 60 Jahren steht wieder ein taiwanischer Athlet auf dem höchsten Podium. Mit 16 Jahren gewann er bereits eine Goldmedaille bei den Nationalen Spielen, danach kämpfte er lange Jahre mit Verletzungen und Genesung.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/fu-chao-hsuan",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "de/People/fu-chao-hsuan.md"
   },
   {
     "title": "Fubon Financial Holdings : l'empire financier des frères Tsai",
@@ -62610,6 +62679,72 @@
     "featured": false,
     "date": "2026-07-23",
     "path": "vi/Culture/taiwan-meme-culture.md"
+  },
+  {
+    "title": "Hao-Yu Lee : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais",
+    "description": "En 2026, à 23 ans, Hao-Yu Lee devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américaine. Lors de sa première saison, il dispute 114 matchs, frappe 10 coups de circuit et établit cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/lee-hao-yu",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "fr/People/lee-hao-yu.md"
+  },
+  {
+    "title": "Hao-Yu Lee: His Goal in America Is Not to Be Taiwan's Best Player",
+    "description": "In 2026, 23-year-old Hao-Yu Lee became Taiwan's 19th player to reach Major League Baseball, playing 114 games in his first season with 10 home runs, rewriting five single-season records for Taiwanese players. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/lee-hao-yu",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "en/People/lee-hao-yu.md"
+  },
+  {
+    "title": "Hao-Yu Lee: Sein Ziel in Amerika ist nicht, der beste taiwanesische Spieler zu sein",
+    "description": "2026 wird der 23-jährige Hao-Yu Lee zum 19. taiwanesischen Spieler in der MLB. In seiner ersten Saison absolviert er 114 Spiele, schlägt 10 Heimläufe und bricht fünf Rekorde taiwanesischer Spieler. Er sagt, sein Ziel sei nie gewesen, der beste taiwanesische Spieler zu sein – er wolle nur ein guter Spieler in Amerika sein. Dieses Jahr trifft er auch zum ersten Mal im Schlagfeld auf den taiwanesischen Pitcher Deng Kai-wei – das erste Pitcher-Batter-Duell zwischen zwei Taiwanesen in der MLB-Geschichte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/lee-hao-yu",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "de/People/lee-hao-yu.md"
+  },
+  {
+    "title": "Hao-Yu Lee: Seu objetivo nos EUA não é ser o melhor jogador taiwanês",
+    "description": "Em 2026, aos 23 anos, Hao-Yu Lee se torna o 19º jogador taiwanês a chegar à Major League Baseball, disputando 114 jogos na primeira temporada com 10 home runs, quebrando cinco recordes de jogadores taiwaneses. Quando questionado sobre esses recordes, ele diz que seu objetivo nunca foi ser o melhor jogador taiwanês, apenas tentar ser um bom jogador nos EUA. Nesse ano, ele também enfrenta pela primeira vez o arremessador taiwanês Teng Kai-wei na caixa de rebatidas — o primeiro confronto entre arremessador e rebatedor taiwaneses na história da MLB.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/lee-hao-yu",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "pt/People/lee-hao-yu.md"
+  },
+  {
+    "title": "Hao-Yu Lee: Su objetivo en Estados Unidos no es ser el mejor jugador taiwanés",
+    "description": "En 2026, Hao-Yu Lee, de 23 años, se convierte en el 19.º jugador taiwanés en llegar a las Grandes Ligas, jugando 114 partidos en su primera temporada con 10 jonrones, rompiendo cinco récords de jugadores taiwaneses. Dice que su objetivo nunca fue ser el mejor jugador taiwanés, sino simplemente ser un buen jugador en Estados Unidos.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/lee-hao-yu",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "es/People/lee-hao-yu.md"
+  },
+  {
+    "title": "Hao-Yu Lee: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik",
+    "description": "Pada 2026, Hao-Yu Lee berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/lee-hao-yu",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "id/People/lee-hao-yu.md"
   },
   {
     "title": "Hari Libur Nasional: Sejarah Taiwan yang Ditulis dengan 'Tidak Bekerja'",
@@ -67815,6 +67950,17 @@
     "path": "en/Art/invisible-nation.md"
   },
   {
+    "title": "Invisible Taiwan: A Spirit-Medium Documentary and the Reconciliation Ritual It Encountered",
+    "description": "Released in 2018, \"Invisible Taiwan\" is screenwriter Lin Ming-chien''s first feature documentary. He set out to film spirit mediums, but on the first day of shooting the deities called \"cut\"—he needed to resolve family matters first. Four years later, the camera follows four spirit-medium women and one heavenly-language interpreter to the mouth of the Deer Ear Stream in Tainan, where they conduct an unexpected reconciliation ritual for Koxinga and the Siraya people. 118 minutes, NT$1.1 million in Taipei box office—a record of Taiwan''s folk religious practice.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/art/invisible-taiwan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "en/Art/invisible-taiwan.md"
+  },
+  {
     "title": "Invoices: The Paper from 1951 That Turned All Citizens into Tax Inspectors",
     "description": "On New Year's Day, 1951, Finance Director Ren Hsien-ch'un printed lottery numbers onto receipts, allowing consumers' greed to monitor businesses for tax reporting, which increased business tax revenue by seventy-five percent in one year. More than seven decades later, this system has outlived its inventor and the authoritarian rule of its birth—until a code controversy in 2024 forced people to ask: why is this system still trustworthy?",
     "category": "en",
@@ -68365,17 +68511,6 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "pt/People/chia-yung-chieh.md"
-  },
-  {
-    "title": "Jenseits von Blau-Grün: Von einem Feld bis zum Gesundheitsausweis – Politik in Taiwan, die ihre eigene Politik übertroffen hat",
-    "description": "Ein Leser, der sich von den gegenseitigen Beschimpfungen auf dem blau-grünen Tisch satt hat, will sich an das erinnern, was wirklich gut für Taiwan ist. Daher wurden elf politische Maßnahmen in den letzten 70 Jahren gesammelt – von der autoritären Landreform und der Abschaffung der Martiallaw über die flächendeckende Krankenversicherung bis hin zu aktuellen Themen wie Ehe für alle und Zukunftsinvestitionen. Dabei wurde bewusst nicht nach blau-grünen Maßstäben gemessen, sondern an den vier Maßstäben: Soziales Wohlergehen, Demokratie, Bürgerrecht und Souveränität. Der Schluss ist paradox: Politik, die ihre eigene Parteizugehörigkeit überwand, begann oft mit dem lautesten Lärm.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/history/bipartisan-good-policy",
-    "readingTime": 254,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "de/History/bipartisan-good-policy.md"
   },
   {
     "title": "Jensen Huang",
@@ -74424,6 +74559,17 @@
     "path": "es/Technology/taiwan-ai-academy.md"
   },
   {
+    "title": "La Espada Yitian del Río Daan: el árbol más alto de Asia Oriental, oculto durante 700 años en un lugar inaccesible para nosotros",
+    "description": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/nature/daan-river-yitian-sword",
+    "readingTime": 230,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "es/Nature/daan-river-yitian-sword.md"
+  },
+  {
     "title": "La evolución de la canción en taiwanés de Taiwán: de las «canciones de tíos» a la nueva favorita de los hipsters, una inversión de identidad",
     "description": "Rastrea la evolución de la canción en taiwanés de Taiwán desde la era del nakashi, Hong Yi-feng y Jody Chiang hasta las nuevas generaciones de bandas como EggPlantEgg y Sorry Youth, explorando cómo la música en taiwanés ha recuperado el reconocimiento de las generaciones jóvenes.",
     "category": "es",
@@ -76521,17 +76667,6 @@
     "path": "es/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
   },
   {
-    "title": "Las cuatro medidas más allá del azul y el verde: de una parcela a una tarjeta del seguro de salud, las políticas de Taiwán que sobrevivieron a su propia política",
-    "description": "Un lector, cansado de los insultos entre azules y verdes en la mesa familiar, quería recordar las cosas que de verdad fueron buenas para Taiwán. Así que buscamos once políticas de los últimos setenta años: desde la reforma agraria que expropió tierras bajo el autoritarismo, el levantamiento de la ley marcial y el Seguro Nacional de Salud, hasta el matrimonio igualitario y el plan de infraestructura prospectiva, que todavía generan disputa. Deliberadamente no usamos la vara azul-verde, sino cuatro medidas: medios de vida, democracia, derechos civiles y soberanía. La conclusión es algo contraintuitiva: las políticas que sobreviven a su propio origen partidario suelen haber nacido el día en que más se discutía por ellas.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/history/bipartisan-good-policy",
-    "readingTime": 263,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "es/History/bipartisan-good-policy.md"
-  },
-  {
     "title": "Las dos caras de la calle Shengli: de un golpe de Estado de la caballería blindada a la memoria de Hukou como «gran estacionamiento»",
     "description": "En la calle Shengli, en Hukou (Hsinchu), un lado del muro del cuartel alberga tanques y tormentas políticas, mientras que el otro alberga viviendas, cooperativas y cines desaparecidos. Una historia local sobre vecindad, accidentes y justicia social.",
     "category": "es",
@@ -78255,17 +78390,6 @@
     "path": "en/People/lee-da-hye.md"
   },
   {
-    "title": "Lee Hao-yu: His Goal in America Is Not to Be Taiwan's Best Player",
-    "description": "In 2026, 23-year-old Lee Hao-yu became Taiwan's 19th player to reach Major League Baseball, playing 114 games in his first season with 10 home runs, rewriting five single-season records for Taiwanese players. When asked about these records, he said his goal was never to be Taiwan's best player—only to try to be a good player in America.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/lee-hao-yu",
-    "readingTime": 32,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "en/People/lee-hao-yu.md"
-  },
-  {
     "title": "Lee Ho-chen",
     "description": "Dengan kehadiran tinggi dan pengenalan tinggi kembali ke Fubon, dia mewakili proses cheerleader Korea di Taiwan dari \"tamu\" menuju \"personel tetap\".",
     "category": "id",
@@ -79400,7 +79524,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/culture/taiwanese-childhood-english-names",
-    "readingTime": 198,
+    "readingTime": 196,
     "featured": true,
     "date": "2026-06-17",
     "path": "fr/Culture/taiwanese-childhood-english-names.md"
@@ -79852,61 +79976,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "pt/People/lee-ho-jung.md"
-  },
-  {
-    "title": "Li Hao-yu : son objectif aux États-Unis n'est pas de devenir le meilleur joueur taïwanais",
-    "description": "En 2026, à 23 ans, Li Hao-yu devient le 19e joueur taïwanais à accéder à la Ligue majeure de baseball américaine. Lors de sa première saison, il dispute 114 matchs, frappe 10 coups de circuit et établit cinq records de joueurs taïwanais en une seule saison. Interrogé sur ces exploits, il déclare que son objectif n'a jamais été de devenir le meilleur joueur taïwanais, mais simplement de devenir un bon joueur aux États-Unis.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/lee-hao-yu",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "fr/People/lee-hao-yu.md"
-  },
-  {
-    "title": "Li Hao-yu: Sein Ziel in Amerika ist nicht, der beste taiwanesische Spieler zu sein",
-    "description": "2026 wird der 23-jährige Li Hao-yu zum 19. taiwanesischen Spieler in der MLB. In seiner ersten Saison absolviert er 114 Spiele, schlägt 10 Heimläufe und bricht fünf Rekorde taiwanesischer Spieler. Er sagt, sein Ziel sei nie gewesen, der beste taiwanesische Spieler zu sein – er wolle nur ein guter Spieler in Amerika sein. Dieses Jahr trifft er auch zum ersten Mal im Schlagfeld auf den taiwanesischen Pitcher Deng Kai-wei – das erste Pitcher-Batter-Duell zwischen zwei Taiwanesen in der MLB-Geschichte.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/lee-hao-yu",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "de/People/lee-hao-yu.md"
-  },
-  {
-    "title": "Li Hao-yu: Seu objetivo nos EUA não é ser o melhor jogador taiwanês",
-    "description": "Em 2026, aos 23 anos, Li Hao-yu se torna o 19º jogador taiwanês a chegar à Major League Baseball, disputando 114 jogos na primeira temporada com 10 home runs, quebrando cinco recordes de jogadores taiwaneses. Quando questionado sobre esses recordes, ele diz que seu objetivo nunca foi ser o melhor jogador taiwanês, apenas tentar ser um bom jogador nos EUA. Nesse ano, ele também enfrenta pela primeira vez o arremessador taiwanês Teng Kai-wei na caixa de rebatidas — o primeiro confronto entre arremessador e rebatedor taiwaneses na história da MLB.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/lee-hao-yu",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "pt/People/lee-hao-yu.md"
-  },
-  {
-    "title": "Li Hao-yu: Su objetivo en Estados Unidos no es ser el mejor jugador taiwanés",
-    "description": "En 2026, Li Hao-yu, de 23 años, se convierte en el 19.º jugador taiwanés en llegar a las Grandes Ligas, jugando 114 partidos en su primera temporada con 10 jonrones, rompiendo cinco récords de jugadores taiwaneses. Dice que su objetivo nunca fue ser el mejor jugador taiwanés, sino simplemente ser un buen jugador en Estados Unidos.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/lee-hao-yu",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "es/People/lee-hao-yu.md"
-  },
-  {
-    "title": "Li Hao-yu: Tujuannya di Amerika bukan menjadi pemain Taiwan terbaik",
-    "description": "Pada 2026, Li Hao-yu berusia 23 tahun menjadi pemain Taiwan ke-19 yang bermain di Major League Baseball, dengan 114 pertandingan, 10 home run di musim pertamanya, memecahkan lima rekor pemain Taiwan. Ketika ditanya tentang rekor-rekor ini, dia mengatakan tujuannya tidak pernah menjadi pemain Taiwan terbaik, hanya mencoba menjadi pemain yang baik di Amerika.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/lee-hao-yu",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "id/People/lee-hao-yu.md"
   },
   {
     "title": "Li Ke Tai Tai : Lorsque la vulgarisation scientifique devient un moteur d'audience, la compétence devient une responsabilité publique",
@@ -82839,7 +82908,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/culture/taiwanese-childhood-english-names",
-    "readingTime": 183,
+    "readingTime": 187,
     "featured": true,
     "date": "2026-06-17",
     "path": "es/Culture/taiwanese-childhood-english-names.md"
@@ -84374,6 +84443,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "es/History/taiwan-fishery-origins.md"
+  },
+  {
+    "title": "Más allá del azul y el verde: cuatro medidas, desde un campo de cultivo hasta una tarjeta de salud, las políticas que han trascendido la política en Taiwán",
+    "description": "Un lector cansado de los insultos entre el azul y el verde en la mesa quiere recordar las cosas que realmente han sido buenas para Taiwán. Por ello, hemos seleccionado once políticas de los últimos setenta años: desde la reforma agraria bajo un régimen autoritario y la declaración de la ley marcial hasta el seguro de salud universal, pasando por el matrimonio igualitario y el programa de infraestructura que aún generan debate. En lugar de usar las medidas de los partidos azul o verde, hemos decidido utilizar cuatro criterios: bienestar social, democracia, derechos civiles y soberanía. La conclusión es algo contraintuitiva: aquellas políticas que han logrado trascender su origen partidista suelen ser las que causaron las disputas más intensas el día de su nacimiento.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/bipartisan-good-policy",
+    "readingTime": 277,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "es/History/bipartisan-good-policy.md"
   },
   {
     "title": "Masa Pemerintahan Jepang",
@@ -86455,7 +86535,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/mona-rudao",
-    "readingTime": 258,
+    "readingTime": 260,
     "featured": false,
     "date": "2026-03-25",
     "path": "en/People/mona-rudao.md"
@@ -86472,17 +86552,6 @@
     "path": "es/People/mona-rudao.md"
   },
   {
-    "title": "Mona Ludo: Pahlawan Anti-Jepang yang Dicetak pada Koin Dua Puluh Yuan, dan Dunia Tanpa Tiongkok atau Jepang Itu",
-    "description": "Pada tahun 2001, Bank Taiwan mencetak wajah Mona Ludo, seorang pahlawan anti-Jepang, pada koin dua puluh yuan. Namun, pabrik mata uang tidak dapat menemukan fotonya dalam catatan sejarah domestik dan akhirnya menemukannya di majalah berbahasa Jepang. Dari acara olahraga Wushe pada tahun 1930 hingga sisa jenazah yang menjadi spesimen antropologis selama hampir empat puluh tahun, tiga rezim berbeda membutuhkan dirinya. Dan dunia yang sebenarnya ia bela—yang memiliki Jembatan Pelangi, tato, dan Gaya—tidak pernah memiliki Tiongkok maupun Jepang.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/mona-rudao",
-    "readingTime": 267,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "id/People/mona-rudao.md"
-  },
-  {
     "title": "Mona Neng: Zwei Arten von Blindheit, ein Gedichtband",
     "description": "Mona Neng, der erste veröffentlichte indigene Dichter Taiwans, wurde 1979 blind, 1989 veröffentlicht Chenxing das Buch „Die schöne Reiskolonne“. Der Satz „18 Millionen Menschen, die sich selbst bestimmen wollen / unsere Seufzer hören nicht“ bringt die Frage „wer ist Taiwankind“ in 30 Gedichten auf – 37 Jahre später bleibt die Frage unbeantwortet.",
     "category": "de",
@@ -86494,23 +86563,12 @@
     "path": "de/People/monaneng.md"
   },
   {
-    "title": "Mona Ruata: Herói da resistência contra o Japão gravado em uma moeda de 20 Yuan, e um mundo sem China nem Japão",
-    "description": "Em 2001, o Banco Central de Taiwan colocou o rosto do herói da resistência anti-japonesa Mona Ruata em uma moeda de 20 Yuan. No entanto, a casa da moeda procurou registros históricos nacionais e não encontrou nenhuma foto dele; acabaram tendo que resgatá-la em uma revista japonesa. Do evento esportivo de Wenshan em 1930 ao corpo que foi um espécime antropológico por cerca de quarenta anos, três regimes precisavam dele. E o mundo que ele realmente defendeu, com a Ponte do Arco-íris, marcas faciais e Gaya, nunca teve China nem Japão.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/mona-rudao",
-    "readingTime": 245,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "pt/People/mona-rudao.md"
-  },
-  {
     "title": "Mona Rudao : Le héros anti-japonais gravé sur la pièce de vingt dollars, et le monde sans ni Chine ni Japon",
     "description": "En 2001, la Banque centrale de Taïwan a gravé le visage du héros anti-japonais Mona Rudao sur une pièce de vingt dollars. Mais l'usine de frappe des monnaies, après avoir fouillé toutes les archives historiques nationales, n'a trouvé aucune photo de lui ; elle a finalement dû la chercher dans un magazine japonais. Du matin de l'insurrection de Wushe en 1930 jusqu'à un squelette devenu pendant environ quarante ans une simple spécimen d'anthropologie, trois régimes politiques ont eu besoin de lui. Dans le monde qu'il a véritablement défendu, celui du pont arc-en-ciel, du tatouage facial et de Gaya, il n'y a jamais eu ni Chine ni Japon.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/mona-rudao",
-    "readingTime": 300,
+    "readingTime": 298,
     "featured": false,
     "date": "2026-03-25",
     "path": "fr/People/mona-rudao.md"
@@ -86525,6 +86583,28 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "de/People/mona-rudao.md"
+  },
+  {
+    "title": "Mona Rudao: O herói anti-japonês gravado na moeda de 20 dólares e o mundo que não era nem chinês, nem japonês",
+    "description": "Em 2001, o Banco Central de Taiwan gravou o rosto do herói anti-japonês Mona Rudao em uma moeda de 20 dólares. No entanto, a Casa da Moeda vasculhou todos os registros históricos nacionais sem encontrar sua foto, acabando por localizá-la em uma revista japonesa. Do amanhecer do Movimento Wushe em 1930 até seus restos mortais que serviram como espécime antropológico por cerca de quarenta anos, cada um dos três regimes precisou dele. Mas no mundo que ele verdadeiramente defendia — um mundo de pontes de arco-íris, rostos tatuados e Gaya — nunca houve China, nem Japão.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/mona-rudao",
+    "readingTime": 286,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "pt/People/mona-rudao.md"
+  },
+  {
+    "title": "Mona Rudao: Pahlawan Anti-Jepang yang Terukir di Koin Dua Puluh Yuan, dan Dunia Tanpa Tiongkok Maupun Jepang",
+    "description": "Pada tahun 2001, Bank Sentral Taiwan mengukir wajah pahlawan anti-Jepang Mona Rudao pada koin dua puluh yuan. Namun, percetakan uang tidak dapat menemukan fotonya di seluruh catatan sejarah domestik, hingga akhirnya ditemukan di sebuah majalah Jepang. Dari pagi hari saat Gerakan Wushe tahun 1930, hingga kerangka yang menjadi spesimen antropologi selama sekitar empat puluh tahun, ketiga rezim masing-masing membutuhkannya. Namun dalam dunia yang ia bela dengan sungguh-sungguh—dunia dengan jembatan pelangi, tato wajah, dan Gaya—tidak pernah ada Tiongkok, juga tidak ada Jepang.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/mona-rudao",
+    "readingTime": 294,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "id/People/mona-rudao.md"
   },
   {
     "title": "Monaneng : deux formes de cécité, un recueil de poésie",
@@ -89411,7 +89491,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/culture/taiwanese-childhood-english-names",
-    "readingTime": 159,
+    "readingTime": 157,
     "featured": true,
     "date": "2026-06-17",
     "path": "vi/Culture/taiwanese-childhood-english-names.md"
@@ -90305,12 +90385,12 @@
     "path": "ko/Technology/nvidia-in-taiwan.md"
   },
   {
-    "title": "Nyanyian Terakhir di Pulau: 0,695 yang Tak Lagi Bisa Diselamatkan oleh Tahun Naga",
-    "description": "2024 adalah Tahun Naga, saat orang Taiwan seharusnya berlomba melahirkan demi keberuntungan, namun tahun ini jumlah bayi justru berkurang 715 dibandingkan tahun sebelumnya—pertama kalinya dalam 48 tahun 'sihir' Tahun Naga gagal. Tahun berikutnya, tingkat kelahiran anjlok ke 0,695. Namun kode sebenarnya bukanlah karena orang Taiwan tidak mau melahirkan (lebih dari 70% yang menikah melahirkan dua anak atau lebih), melainkan karena mereka tidak menikah; sementara pemerintah terus mengucurkan dana selama sepuluh tahun untuk mereka yang 'takut melahirkan', padahal tidak ada satu pun negara di dunia yang berhasil membeli kembali tingkat kelahiran melalui uang.",
+    "title": "Nyanyian Terakhir Pulau: Angka 0,695 yang Tidak Bisa Diselamatkan Bahkan di Tahun Naga",
+    "description": "2024 adalah tahun Naga, saat di mana orang Taiwan seharusnya bergegas melahirkan demi keberuntungan. Namun, tahun ini justru mencatat 715 bayi lebih sedikit dibandingkan tahun sebelumnya, menandakan hilangnya keajaiban tahun Naga untuk pertama kalinya dalam 48 tahun. Tahun berikutnya, angka kelahiran anjlok hingga 0,695. Namun, kode rahasianya bukanlah karena orang Taiwan tidak mau melahirkan (lebih dari tujuh puluh persen pasangan setelah menikah memiliki dua anak atau lebih), melainkan karena mereka tidak menikah; pemerintah telah menggelontorkan dana selama sepuluh tahun untuk mengatasi fenomena \"tidak berani melahirkan\", namun tidak ada satu pun negara di dunia yang berhasil membeli kembali angka kelahiran mereka.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/taiwan-low-birth-rate-crisis",
-    "readingTime": 191,
+    "readingTime": 233,
     "featured": false,
     "date": "2026-03-24",
     "path": "id/Society/taiwan-low-birth-rate-crisis.md"
@@ -92794,12 +92874,12 @@
     "path": "id/Culture/taiwan-paper-umbrella.md"
   },
   {
-    "title": "Pedang Yitian Sungai Da'an: Pohon Tertinggi di Asia Timur, Tersembunyi Selama Tujuh Ratus Tahun di Tempat yang Tak Terjangkau",
-    "description": "Pada Imlek 2023, tim Pencari Pohon melakukan penelusuran sungai selama tujuh hari. Di sebuah lembah dalam di hulu Sungai Da'an yang hampir tidak terjangkau oleh siapa pun, mereka menurunkan pita pengukur dari tajuk pohon Taiwan Cypress—setinggi 84,1 meter, pohon tertinggi di Asia Timur. Tingginya melampaui prediksi laser LiDAR sebesar 4,6 meter. Sebuah pulau yang setiap tahun dilanda topan, tanah longsor, dan banjir, secara logika seharusnya tidak dapat mempertahankan kehidupan setinggi ini; namun justru karena tumbuh di lembah sungai yang tak terjangkau manusia, ia berhasil menghindari penebangan besar-besaran dan bertahan selama tujuh ratus tahun. Kondisi 'tak terjangkau' yang sama inilah yang membuatnya tetap hidup, sekaligus membuat kami baru pertama kali melihatnya tahun ini setelah memindai seluruh pulau dengan laser.",
+    "title": "Pedang Yitian Sungai Daan: Pohon Tertinggi di Asia Timur, Tersembunyi di Tempat yang Tak Bisa Kita Capai Selama Tujuh Ratus Tahun",
+    "description": "Pada perayaan Tahun Baru Imlek 2023, tim \"Pencari Pohon\" menelusuri sungai selama tujuh hari, di hulu Sungai Daan di sebuah lembah dalam yang hampir tidak bisa dijangkau orang, mereka menurunkan pita ukur dari mahkota seorang pohon cemara Taiwan — 84,1 meter, pohon tertinggi di Asia Timur. Ia lebih tinggi 4,6 meter dari prediksi LiDAR. Sebuah pulau yang setiap tahun dilanda badai taiup, longsor, dan banjir, seharusnya tidak mampu mempertahankan kehidupan setinggi ini; tetapi justru karena tumbuh di lembah yang tidak bisa dijangkau manusia, ia luput dari penebangan massal dan bertahan selama tujuh ratus tahun. Keterjangkauan yang sama yang membuatnya selamat, juga membuat kita harus memindai seluruh pulau dengan laser, baru tahun ini kita melihatnya untuk pertama kalinya.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/nature/daan-river-yitian-sword",
-    "readingTime": 237,
+    "readingTime": 208,
     "featured": false,
     "date": "2026-06-24",
     "path": "id/Nature/daan-river-yitian-sword.md"
@@ -96814,17 +96894,6 @@
     "path": "pt/Technology/taiwan-disaster-medicine-system.md"
   },
   {
-    "title": "Quatre critères au-delà du bleu et du vert : d’un champ à une carte d’assurance maladie, ces politiques taïwanaises qui ont survécu à leur propre politique",
-    "description": "Un lecteur, lassé des invectives bleu-vert à table, voulait se souvenir de ce qui avait réellement été bénéfique pour Taïwan. Nous avons donc retenu onze politiques sur soixante-dix ans, de la réforme agraire menée par réquisition autoritaire des terres agricoles à la levée de la loi martiale et à l’assurance maladie universelle, jusqu’au mariage pour tous et au plan d’infrastructures prospectives, encore débattus. Nous avons délibérément renoncé au critère bleu-vert pour leur substituer quatre critères : conditions de vie, démocratie, droits civiques et souveraineté. La conclusion est quelque peu contre-intuitive : les politiques qui survivent à leur origine partisane sont souvent celles qui, le jour de leur naissance, ont suscité les querelles les plus vives.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/bipartisan-good-policy",
-    "readingTime": 278,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "fr/History/bipartisan-good-policy.md"
-  },
-  {
     "title": "Quatro Quatro Sul: A Vila de Trabalhadores da Fábrica, Agora um Parque Cultural ao Lado do 101",
     "description": "Em novembro de 1948, a Força Tarefa nº 44 de Qingdao enviou equipamentos para Keelung. Os trabalhadores e suas famílias foram instalados em armazéns japoneses; este foi o primeiro assentamento de soldados (juancun) da República da China (Taiwan).",
     "category": "pt",
@@ -96834,17 +96903,6 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "pt/Geography/44-south-village.md"
-  },
-  {
-    "title": "Quatro réguas além do azul e do verde: de um pedaço de terra a um cartão de saúde, as políticas de Taiwan que sobreviveram à sua própria política",
-    "description": "Um leitor cansado das brigas entre azul e verde à mesa de jantar queria lembrar o que realmente fez bem a Taiwan. Por isso, selecionámos onze políticas ao longo de setenta anos — desde a reforma agrária com expropriação forçada de terras agrícolas durante o período autoritário, passando pela lei marcial, o seguro de saúde universal, até ao casamento entre pessoas do mesmo sexo e ao plano de infraestruturas prospectivo, ainda em debate. Deliberadamente, não usámos a régua azul-verde, mas sim quatro réguas: subsistência, democracia, direitos civis e soberania. A conclusão é um tanto contra-intuitiva: as políticas que sobreviveram às suas origens partidárias costumam ter nascido no dia em que a discussão foi mais acesa.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/history/bipartisan-good-policy",
-    "readingTime": 233,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "pt/History/bipartisan-good-policy.md"
   },
   {
     "title": "Quế Luân Mệ: Nữ diễn viên gạo cội với phong cách giản dị, chân thành",
@@ -98167,7 +98225,7 @@
   },
   {
     "title": "Rice Balls: From Morning \"Sleeping Pills\" to the Viral \"Taiwanese Burrito\" in the West",
-    "description": "From Qing Dynasty glutinous rice culture to the cross-strait evolution of _cifan_, Taiwanese rice balls have become the soul of Taiwan''s breakfast with their unique \"old fried dough sticks\" and hand-pressed technique. This article provides an in-depth analysis of its historical prelude, production craftsmanship, modern innovative flavors, and the \"carb coma culture\" sparking international discussion.",
+    "description": "From Qing Dynasty glutinous rice culture to the trans-Strait evolution of Jiangnan _cifan_, Taiwanese rice balls have become the soul of breakfast through their unique \"old fried dough sticks\" and hand-pressed technique. This article analyzes their history, craftsmanship, modern flavors, and the \"carb coma\" phenomenon.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/rice-ball",
@@ -100882,12 +100940,12 @@
     "path": "id/Politics/city-councilor-system-taiwan.md"
   },
   {
-    "title": "Sistem Bus Taiwan: Setelah Hsinchu Bus Pergi, Siapa yang Akan Melayani Mereka yang Tidak Memiliki Kemudi",
-    "description": "Pagi 15 September 2024, di Stasiun Tongluo, lebih dari 30 orang dari anak-anak taman kanak-kanak hingga lansia berusia 90 tahun naik bus terakhir Hsinchu Bus 5658. Dari rute operasi bersama pertama di Taipei pada tahun 1977, hingga daerah terpencil yang tersisa hanya dua perjalanan sehari dengan rata-rata usia pengemudi 51 tahun, dan tiket bulanan TPASS yang meningkatkan penumpang Hualien hampir 70 persen, bus selalu membawa orang-orang yang tidak memiliki pilihan: siswa yang berangkat sekolah, lansia yang tidak berkendara, keluarga tanpa kendaraan, dan layanan ini secara bertahap ditarik dari bawah kaki mereka.",
+    "title": "Sistem Bus di Taiwan: Setelah Hsinchu Bus Berhenti Beroperasi, Siapa yang Akan Melayani Mereka yang Tidak Memiliki Kendaraan",
+    "description": "Pada pagi hari 15 September 2024 di Stasiun Kereta Api Tongluo, lebih dari 30 orang—mulai dari anak-anak taman kanak-kanak hingga lansia berusia 90 tahun—menunggu bus terakhir Hsinchu Bus rute 5658. Dari rute kemitraan pertama di Taipei pada tahun 1977, hingga kondisi di daerah terpencil yang hanya tersisa dua jadwal sehari dengan rata-rata usia pengemudi 51 tahun, serta lonjakan penggunaan TPASS hampir 70% di Hualien; bus selalu mengangkut mereka yang tidak memiliki pilihan: pelajar, lansia yang tidak menyetir, dan keluarga tanpa kendaraan, namun layanan ini perlahan-lahan mulai ditarik dari bawah kaki mereka.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/taiwan-bus-system",
-    "readingTime": 193,
+    "readingTime": 218,
     "featured": false,
     "date": "2026-06-25",
     "path": "id/Lifestyle/taiwan-bus-system.md"
@@ -104444,6 +104502,17 @@
     "path": "en/History/taiwan-north-korea-relations.md"
   },
   {
+    "title": "Taiwan and the Asian Games: A Name Born in Nagoya, Returning to Nagoya Forty-Seven Years Later",
+    "description": "At the close of the 2026 Nagoya Asian Games on October 4, the Chinese Taipei delegation brought home 5 gold, 17 silver, and 33 bronze medals, ranking 15th on the medal table. The opening ceremony featured the Chinese Taipei Olympic Committee flag and the national anthem melody at medal ceremonies. This arrangement stems from a 1979 International Olympic Committee resolution made in Nagoya. Taiwan's first Asian Games appearance was in 1954 Manila, where it won two gold medals, including Yang Chuan-kwang's decathlon; membership was expelled 38–13 in 1973, leading to a twenty-year absence until the 1990 Beijing Asian Games, when Taiwan returned under that name.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/taiwan-asian-games",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "en/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "Taiwan and the Nuclear Debate: Anti-Nuclear Politics Was Once the Shared Language of the Democracy Movement, but the Climate Crisis Has Reshuffled Every Side",
     "description": "In August 2025, 4.34 million people voted yes on “restarting Maanshan Nuclear Power Plant,” winning 74 percent of the vote, yet the proposal failed because turnout did not pass the threshold. Across four decades and three referendums, Taiwan moved from an anti-nuclear consensus to a nuclear-free homeland, then within three months personally pushed a reactor it had shut down toward restart. This debate has long since exceeded the yes-or-no question of “whether nuclear power is good.” It is about how a society decides an issue whose time pressures run in opposite directions: nuclear waste must remain stable for 100,000 years, carbon reduction must be achieved within a decade, and power shortages are immediate.",
     "category": "en",
@@ -104917,6 +104986,17 @@
     "path": "en/Lifestyle/ezway.md"
   },
   {
+    "title": "Taiwan dan Asian Games: Sebuah nama yang lahir di Nagoya, kembali ke Nagoya empat puluh tujuh tahun kemudian",
+    "description": "Pada 4 Oktober 2026, Asian Games Aichi-Nagoya ditutup, tim Taipei Tionghoa membawa pulang 5 emas 17 perak 33 perunggu, peringkat 15 di papan medali, dengan bendera Komite Olimpiade Taipei Tionghoa saat pembukaan dan lagu bendera nasional saat penyerahan medali. Pengaturan ini berasal dari keputusan yang dibuat Komite Olimpiade Internasional di Nagoya pada Oktober 1979. Taiwan pertama kali mengikuti Asian Games pada 1954 di Manila, meraih dua medali emas, salah satunya dari Yang Chuan-kuang dalam decathlon; keanggotaannya dikeluarkan dengan suara 38 banding 13 pada 1973, ketidakhadiran ini berlangsung dua puluh tahun hingga 1990 Asian Games Beijing ketika masuk kembali dengan nama itu.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/taiwan-asian-games",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "id/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "Taiwan dan Diskusi Nuklir: Anti-Nuklir Pernah Jadi Bahasa Umum Gerakan Demokrasi, Krisis Iklim Malah Mengacak Semua Pihak",
     "description": "Agustus 2025, 4,34 juta orang memilih \"setuju\" mereaktivasi Nuklir Tiga dengan persentase 74%, namun kalah karena partisipasi suara tidak mencapai ambang batas. Tiga referendum dalam empat puluh tahun, Taiwan bergerak dari konsensus anti-nuklir menuju \"rumah bebas nuklir\", lalu dalam tiga bulan mendorong reaktor yang baru dimatikan menuju reaktivasi. Debat ini sudah melampaui pertanyaan \"baik buruknya nuklir\", melainkan bagaimana sebuah masyarakat memutuskan urusan dengan tekanan waktu yang berlawanan: limbah nuklir harus aman seratus ribu tahun, pengurangan karbon harus dicapai dalam sepuluh tahun, kekurangan listrik adalah saat ini.",
     "category": "id",
@@ -105124,6 +105204,17 @@
     "featured": true,
     "date": "2026-06-04",
     "path": "pt/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
+  },
+  {
+    "title": "Taiwan e os Jogos Asiáticos: um nome nascido em Nagoia, que volta a Nagoia quarenta e sete anos depois",
+    "description": "No encerramento dos Jogos Asiáticos de Nagoia em 4 de outubro de 2026, a delegação chinesa trouxe 5 ouro, 17 prata e 33 bronze, ficando em 15º lugar no quadro de medalhas. Na abertura, a bandeira hasteada era a da Associação Olímpica Chinesa, e o hino tocado era a melodia do hino nacional. Esse arranjo vem de uma resolução que o Comitê Olímpico Internacional tomou em Nagoia em outubro de 1979. Taiwan participou pela primeira vez dos Jogos Asiáticos em 1954 em Manila, conquistando duas medalhas de ouro, uma delas no decatlo de Yang Chuan-kwang; em 1973, sua filiação foi excluída por 38 votos contra 13, uma ausência que duraria vinte anos até 1990, quando retornou aos Jogos Asiáticos de Pequim com esse nome.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/taiwan-asian-games",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "pt/Society/taiwan-asian-games.md"
   },
   {
     "title": "Taiwan Eisenbahn-Geschichte: Die „Lungenkranken-Eisenbahn“, die „Schwarzköpfe“ und die Linie ohne ausländischen Namen",
@@ -105386,6 +105477,17 @@
     "featured": false,
     "date": "2026-06-07",
     "path": "fr/Society/taiwan-nuclear-debate.md"
+  },
+  {
+    "title": "Taïwan et les Jeux asiatiques : un nom né à Nagoya, revenu à Nagoya quarante-sept ans plus tard",
+    "description": "Le 4 octobre 2026, les Jeux asiatiques de Nagoya ont fermé leurs portes. L'équipe chinoise a remporté 5 or, 17 argent, 33 bronze et s'est classée 15e au tableau des médailles. À l'ouverture, le drapeau du Comité olympique chinois a été hissé ; à la remise des médailles, l'hymne national a été chanté. Cet arrangement provient d'une résolution prise par le Comité international olympique à Nagoya en octobre 1979. Taïwan a participé aux Jeux asiatiques pour la première fois en 1954 à Manille, remportant deux médailles d'or, dont une au décathlon par Yang Chuan-kwang. En 1973, son statut de membre a été révoqué par 38 voix contre 13 ; cette absence a duré vingt ans jusqu'aux Jeux asiatiques de Pékin en 1990, où elle a réintégré sous ce nom.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/taiwan-asian-games",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "fr/Society/taiwan-asian-games.md"
   },
   {
     "title": "Taïwan et Lituanie : un partenariat en négociation entre valeurs démocratiques et réalités géopolitiques",
@@ -105709,6 +105811,28 @@
     "path": "en/Culture/indigenous-weaving-taiwan.md"
   },
   {
+    "title": "Taiwán invisible: un documental de canalización y el encuentro de una ceremonia de reconciliación",
+    "description": "«Taiwán invisible» (2018) es el primer largometraje documental del guionista Lin Ming-chien. Originalmente quería filmar canalizaciones, pero el primer día de rodaje los dioses le dijeron «¡corten!» para que resolviera primero los asuntos familiares. Cuatro años después, la cámara sigue a cuatro mujeres canalizadoras y un traductor de lengua celestial hasta la desembocadura del río Luerhmen en Tainan, donde se celebra una ceremonia de reconciliación inesperada entre Zheng Chenggong y el pueblo Siraya. 118 minutos, 1,1 millones de NT$ en taquilla de Taipéi: un registro vivo de la religiosidad popular taiwanesa.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/art/invisible-taiwan",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "es/Art/invisible-taiwan.md"
+  },
+  {
+    "title": "Taiwan Invisível: Um documentário sobre mediunidade e o ritual de reconciliação que ele encontrou",
+    "description": "Lançado em 2018, \"Taiwan Invisível\" é o primeiro longa-metragem documental do roteirista Lin Ming-chien. O que começou como um filme sobre mediunidade foi interrompido por divindades no primeiro dia de filmagem; quatro anos depois, a câmera acompanha quatro mulheres mediúnicas e uma intérprete da \"língua celestial\" até a foz do rio Lukerhmen, em Tainan, para realizar um ritual de reconciliação inesperado entre Zheng Chenggong e o povo Siraya.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/art/invisible-taiwan",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "pt/Art/invisible-taiwan.md"
+  },
+  {
     "title": "Taiwan Judicial Reform and Preventive Detention",
     "description": "From its introduction in 1997 to its expanded application in April 2026 to include drunk driving and child sexual exploitation, preventive detention has been part of Taiwan's legal system for 29 years. While expanding protections for victims, the baseline of the presumption of innocence has been retreating — is this progress, or a form of structural compromise?",
     "category": "en",
@@ -105762,6 +105886,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Music/ktv-culture.md"
+  },
+  {
+    "title": "Taïwan l'invisible : un documentaire sur la transe, et la cérémonie de réconciliation qu'il a croisée",
+    "description": "Sorti en 2018, « Taïwan l'invisible » est le premier long-métrage documentaire du scénariste Lin Ming-qian. À l'origine, il ne voulait filmer que la transe, mais dès le premier jour de tournage, les divinités ont crié « coupe ! », lui enjoignant de régler d'abord ses affaires familiales ; quatre ans plus tard, la caméra suit quatre femmes médiums et une traductrice de *langue céleste* jusqu'à l'embouchure de la rivière Luermen à Tainan, pour organiser une cérémonie de réconciliation entre Koxinga et le peuple Siraya que personne n'avait prévue. 118 minutes, 1,1 million NT$ de recettes à Taipei, le film laisse un témoignage de terrain sur les croyances populaires taïwanaises.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/art/invisible-taiwan",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "fr/Art/invisible-taiwan.md"
   },
   {
     "title": "Taiwan Lacquerware: Polishing the Everyday, Layer by Layer",
@@ -106556,6 +106691,17 @@
     "path": "id/Economy/taiwan-smes-and-hidden-champions.md"
   },
   {
+    "title": "Taiwan und die Asienspiele: Ein Name, der in Nagoya geboren wurde, kehrt 47 Jahre später nach Nagoya zurück",
+    "description": "Die Asienspiele 2026 in Nagoya endeten am 4. Oktober mit der chinesischen Delegation, die 5 Gold-, 17 Silber- und 33 Bronzemedaillen nach Hause brachte und Platz 15 in der Medaillentabelle belegte. Bei der Eröffnung wurde die Flagge des Chinesischen Olympischen Komitees gehisst und die Nationalhymne gespielt – eine Regelung, die auf einen Beschluss des Internationalen Olympischen Komitees vom Oktober 1979 in Nagoya zurückgeht. Taiwans erste Asienspiele waren 1954 in Manila mit zwei Goldmedaillen, darunter eine von Yang Chuan-guang im Zehnkampf; 1973 wurde die Mitgliedschaft mit 38 zu 13 Stimmen ausgeschlossen, was zu einer zwanzigjährigen Abwesenheit führte, bis Taiwan 1990 bei den Asienspiele in Peking unter diesem Namen zurückkehrte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/taiwan-asian-games",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "de/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "Taiwan und die Streunertiere: Vom Film „Zwölf Nächte“ zum Tod des Steinbären – die ungelöste Zwickmühlen-Frage von Tierschutz und Naturschutz",
     "description": "2013 brachte der Film „Zwölf Nächte“ das ganze Land zum Weinen, 2017 wurde Taiwan das erste Land in Osteasien ohne Tierenquinierung. Acht Jahre später, am 11. Mai 2023 kurz vor sechs Uhr abends, starb ein junger Steinbär unter den streunenden Katzen in Mamenzu. Das Agrarministerium schätzte 2022 die streunenden Hunde in Taiwan auf 159.697, und der Taiwan-Steinbären-Schutzverein fand mit Kameras, dass 91 % der Steinbären-Aktivitätszonen von Hunden besetzt sind. Tierschutz und Naturschutz sind keine Gegensätze – es geht um die vielen Leben, die niemand verantwortet. Dieser Artikel nimmt keine Seite, sondern stellt die noch unbeantworteten Fragen.",
     "category": "de",
@@ -106719,6 +106865,28 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "es/Society/taiwan-lithuania.md"
+  },
+  {
+    "title": "Taiwán y los Juegos Asiáticos: un nombre nacido en Nagoya, que regresa a Nagoya cuarenta y siete años después",
+    "description": "El 4 de octubre de 2026, los Juegos Asiáticos de Nagoya cerraron con el equipo chino llevándose 5 oros, 17 platas y 33 bronces, ocupando el lugar 15 en el medallero. En la ceremonia de apertura ondeaban la bandera del Comité Olímpico Chino y se cantaba la melodía del himno nacional. Este arreglo proviene de una resolución que el Comité Olímpico Internacional tomó en Nagoya en octubre de 1979. Taiwán participó por primera vez en los Juegos Asiáticos en 1954 en Manila, ganando dos medallas de oro, una de ellas en decatlón por Yang Chuan-kwang; en 1973 fue excluido por votación de 38 contra 13, permaneciendo ausente durante veinte años hasta que en 1990 regresó a los Juegos Asiáticos de Pekín con ese nombre.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/taiwan-asian-games",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "es/Society/taiwan-asian-games.md"
+  },
+  {
+    "title": "Taiwan yang Tak Terlihat: Sebuah Dokumenter Channeling dan Upacara Rekonsiliasi yang Ditemuinya",
+    "description": "*Taiwan yang Tak Terlihat* (2018) adalah film dokumenter panjang pertama penulis skenario Lin Ming-chien. Awalnya dia hanya ingin merekam channeling, tetapi pada hari pertama syuting para dewa berteriak \"Potong!\", memintanya menyelesaikan masalah keluarga terlebih dahulu; empat tahun kemudian, kamera mengikuti empat perempuan channeler dan seorang penerjemah bahasa surgawi ke muara Sungai Lu''er di Tainan, mengadakan upacara rekonsiliasi yang tak terduga antara Koxinga dan suku Siraya. 118 menit, penerimaan kotak kantor Taipei NT$1,1 juta, meninggalkan catatan lapangan kepercayaan rakyat Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/art/invisible-taiwan",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "id/Art/invisible-taiwan.md"
   },
   {
     "title": "Taiwan YouBike Culture and the Urban Micromobility Revolution",
@@ -109300,6 +109468,17 @@
     "path": "en/Culture/taiwanese-childhood-english-names.md"
   },
   {
+    "title": "Taiwanese Cinema: The Voice Beside the Screen and a History of Films That Died and Came Back to Life",
+    "description": "In 1930s cinemas, narrators stood beside the screen using Taiwanese to provide improvised commentary for silent films; ninety years later, \"Cape No. 7\" brought five different languages back to the silver screen together. Taiwanese-language films were once the world''s third-largest producer of feature films before being stifled, and during the years when New Cinema won the Golden Lion in Venice, the box office share for local films in theaters plummeted to just 0.36%. Taiwanese cinema is not a straight line from bad to good, but a history of repeatedly being declared dead only to be brought back to life.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/art/taiwanese-cinema",
+    "readingTime": 239,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "en/Art/taiwanese-cinema.md"
+  },
+  {
     "title": "Taiwanese Comics",
     "description": "From Liu Hsing-chin and Ao Yu-hsiang of the 1970s “Kingdom of Comics,” to Chen Uen’s conquest of Japan in 1991 as an “Asian Treasure,” Tsai Chih-chung’s comic adaptation of classical philosophy in Zhuangzi Speaks, and then the 2010 Golden Comic Awards and the 2017 Creative Comic Collection, Taiwanese comics have passed through a downturn under the pressure of Japanese manga and are now recovering their own original voice.",
     "category": "en",
@@ -110223,7 +110402,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/art/taiwanese-cinema",
-    "readingTime": 243,
+    "readingTime": 245,
     "featured": true,
     "date": "2026-03-23",
     "path": "de/Art/taiwanese-cinema.md"
@@ -110504,12 +110683,12 @@
     "path": "de/Culture/taiwan-letterpress-printing.md"
   },
   {
-    "title": "Taiwans Bussystem: Nach dem Abfahrt von Hsinchu Bus – wer kümmert sich um die Menschen ohne Lenkrad",
-    "description": "Am Morgen des 15. September 2024 am Bahnhof Tongluo: Mehr als 30 Menschen – von Kindergartenkindern bis zu 90-Jährigen – fahren mit der letzten Fahrt des Hsinchu Bus 5658. Von der ersten Verbundlinie in Taipei 1977 bis zu Landgemeinden mit nur zwei Fahrten pro Tag, Fahrern mit einem Durchschnittsalter von 51 Jahren und einem TPASS-Monatsticket, das die Fahrgastzahlen in Hualien um fast 70 Prozent erhöht hat – der Bus befördert immer jene, die keine Wahl haben: Schüler auf dem Schulweg, ältere Menschen, die nicht fahren, Haushalte ohne Auto. Und er wird ihnen Strecke für Strecke unter den Füßen weggezogen.",
+    "title": "Taiwans Bussystem: Wer übernimmt für die Menschen ohne Lenkrad, wenn der Hsinchu Busbetrieb geht?",
+    "description": "Am Morgen des 15. September 2024 am Bahnhof Tonglu warteten über 30 Personen – von Kindergartenkindern bis hin zu 90-jährigen Senioren – auf die letzte Linie 5658 von Hsinchu Bus. Von der ersten Verbundlinie in Taipeh im Jahr 1977 bis hin zu ländlichen Gebieten, in denen nur noch zwei Fahrten pro Tag stattfinden, einem Durchschnittsalter der Fahrer von 51 Jahren und dem TPASS-Monatsticket, das die Nutzung in Hualien um fast 70 % steigerte: Busse transportieren stets diejenigen, die keine Wahl haben – Schüler, Senioren ohne Auto und Familien ohne Fahrzeug. Doch dieses System wird ihnen Stück für Stück entzogen.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/lifestyle/taiwan-bus-system",
-    "readingTime": 196,
+    "readingTime": 223,
     "featured": false,
     "date": "2026-06-25",
     "path": "de/Lifestyle/taiwan-bus-system.md"
@@ -114282,17 +114461,6 @@
     "featured": false,
     "date": "2026-08-22",
     "path": "en/Culture/tatung-rice-cooker.md"
-  },
-  {
-    "title": "The Taiwanese Film: The Speaker Beside the Screen and a Film History That Died and Came Back to Life",
-    "description": "In 1930, a辩士 (benshi) stood beside the screen in a theater, improvising Mandarin and Taiwanese commentary for silent films; ninety years later, Cape No. 7 brought five languages back to the screen together. The Taiwanese-language film industry was once the world's third-largest producer of feature films, yet it was strangled to death. In the years when the New Taiwanese Cinema won the Golden Lion in Venice, the box office share of local films in theaters dropped to just 0.36%. Local cinema is not a straight line from bad to good; it is a history repeatedly declared dead, only to come back to life.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/art/taiwanese-cinema",
-    "readingTime": 226,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/Art/taiwanese-cinema.md"
   },
   {
     "title": "The Tatara Is Not Just a Boat: Lanyu’s Technology of Writing Forest and Sea Together",
@@ -119531,6 +119699,17 @@
     "path": "vi/History/us-aid-to-taiwan.md"
   },
   {
+    "title": "Vier Maßstäbe jenseits von Blau und Grün: Von einem Ackerstück bis zur Krankenversicherungskarte – Taiwans Politiken, die über ihre eigene Parteipolitik hinausgewachsen sind",
+    "description": "Ein Leser, der das gegenseitige Beschimpfen am Esstisch zwischen den Lagern Blau und Grün satt hat, möchte sich an die Dinge erinnern, die Taiwan wirklich gutgetan haben. Deshalb haben wir elf Politiken aus siebzig Jahren ausgewählt – von der Landreform unter autoritärer Zwangsentnahme von Agrarflächen über die Aufhebung des Kriegsrechts und die allgemeine Krankenversicherung bis hin zu den umstrittenen Themen gleichgeschlechtliche Ehe und der „Zukunftsplan“. Anstatt die Maßstäbe von Blau oder Grün anzulegen, nutzen wir bewusst vier neue: Lebensstandard, Demokratie, Bürgerrechte und Souveränität. Das Fazit ist etwas kontraintuitiv: Politiken, die ihre parteipolitische Herkunft überwunden haben, waren am Tag ihrer Entstehung oft diejenigen, die am heftigsten umstritten waren.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/bipartisan-good-policy",
+    "readingTime": 281,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "de/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "Village Armed Youth",
     "description": "Chiang Yu-ta and his folk songs — singing at protest sites for ten years, then returning to his hometown of Changhua, where he lost his ability to write for two years. He says that was his most revolutionary moment.",
     "category": "en",
@@ -120403,17 +120582,6 @@
     "path": "de/People/fujui-wang.md"
   },
   {
-    "title": "Wang Guan-hong: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand",
-    "description": "Bei den Asienspiele 2026 in Nagoya gewann Wang Guan-hong das Finale über 200 m Schmetterling mit 1:55,05 und sicherte sich damit Taiwans erste Goldmedaille im Männerschwimmen bei Asienspielen – die zweite Goldmedaille im Schwimmen für Taiwan seit 28 Jahren. Sein Trainer am Beckenrand, Huang Chih-yung, war 1998 bei den Asienspielen in Bangkok Bronzemedaillengewinner und der letzte taiwanesische männliche Schwimmer auf dem Podest; Meister und Schüler verbinden damit eine unterbrochene Linie.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/wang-kuan-hung",
-    "readingTime": 40,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "de/People/wang-kuan-hung.md"
-  },
-  {
     "title": "Wang Hsiao-ti : Flower Boy at Sixty et la douce révolution de la télévision taïwanaise",
     "description": "Fils de général devenu adolescent rebelle, puis marraine de la télévision taïwanaise — Wang Hsiao-ti a prouvé en quarante ans que tourner une série peut être une forme de militantisme social.",
     "category": "fr",
@@ -120480,19 +120648,8 @@
     "path": "en/Art/wang-hsin-jen-artist.md"
   },
   {
-    "title": "Wang Kan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium",
-    "description": "In the 2026 Nagoya Asian Games men's 200m butterfly final, Wang Kan-hung touched the wall in 1:55.05, winning Taiwan's first-ever men's swimming gold at the Asian Games and the nation's second swimming gold in 28 years. His coach by the poolside, Huang Chih-yung, was the last Taiwanese male swimmer to stand on an Asian Games podium back in 1998, connecting their legacies through a single thread.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/wang-kuan-hung",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-10-12",
-    "path": "en/People/wang-kuan-hung.md"
-  },
-  {
-    "title": "Wang Kuan-hong : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques",
-    "description": "Aux Jeux asiatiques de Nagoya 2026, Wang Kuan-hong remporte la première médaille d'or masculine en natation pour Taïwan en 1 min 55 sec 05 au 200 m papillon. Son entraîneur, Huang Chih-yung (黃智勇), est le dernier nageur taïwanais à avoir remporté une médaille aux Jeux asiatiques (bronze en 1998 à Bangkok). C'est la deuxième médaille d'or en natation pour Taïwan aux Jeux asiatiques en 28 ans.",
+    "title": "Wang Kuan-hung : l'entraîneur est le dernier nageur taïwanais à avoir monté sur le podium des Jeux asiatiques",
+    "description": "Aux Jeux asiatiques de Nagoya 2026, Wang Kuan-hung remporte la première médaille d'or masculine en natation pour Taïwan en 1 min 55 sec 05 au 200 m papillon. Son entraîneur, Huang Chih-yung (黃智勇), est le dernier nageur taïwanais à avoir remporté une médaille aux Jeux asiatiques (bronze en 1998 à Bangkok). C'est la deuxième médaille d'or en natation pour Taïwan aux Jeux asiatiques en 28 ans.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/wang-kuan-hung",
@@ -120502,15 +120659,15 @@
     "path": "fr/People/wang-kuan-hung.md"
   },
   {
-    "title": "Wang Kuan-hong: Pelatihnya adalah Perenang Taiwan Terakhir yang Berdiri di Podium Pemenang Asiad",
-    "description": "Pada Kejuaraan Asiad Nagoya 2026, Wang Kuan-hong memenangkan medali emas pertama Taiwan dalam renang putra dengan waktu 1 menit 55 detik 05 di final 200 meter gaya kupu-kupu, juga medali emas renang Asiad kedua Taiwan dalam 28 tahun terakhir. Pelatihnya di tepi kolam, Huang Chih-yung (黃智勇), adalah perenang putra Taiwan terakhir yang meraih medali perunggu Asiad Bangkok 1998, menghubungkan kembali garis keturunan yang terputus.",
-    "category": "id",
+    "title": "Wang Kuan-hung: Der Trainer ist der letzte taiwanesische Schwimmer, der auf dem Asienspiele-Podest stand",
+    "description": "Bei den Asienspiele 2026 in Nagoya gewann Wang Kuan-hung das Finale über 200 m Schmetterling mit 1:55,05 und sicherte sich damit Taiwans erste Goldmedaille im Männerschwimmen bei Asienspielen – die zweite Goldmedaille im Schwimmen für Taiwan seit 28 Jahren. Sein Trainer am Beckenrand, Huang Chih-yung, war 1998 bei den Asienspielen in Bangkok Bronzemedaillengewinner und der letzte taiwanesische männliche Schwimmer auf dem Podest; Meister und Schüler verbinden damit eine unterbrochene Linie.",
+    "category": "de",
     "tags": [],
-    "url": "https://taiwan.md/id/people/wang-kuan-hung",
+    "url": "https://taiwan.md/de/people/wang-kuan-hung",
     "readingTime": 40,
     "featured": false,
     "date": "2026-10-12",
-    "path": "id/People/wang-kuan-hung.md"
+    "path": "de/People/wang-kuan-hung.md"
   },
   {
     "title": "Wang Kuan-hung: O treinador é o último nadador taiwanês a subir ao pódio de uma Asiada",
@@ -120524,6 +120681,17 @@
     "path": "pt/People/wang-kuan-hung.md"
   },
   {
+    "title": "Wang Kuan-hung: Pelatihnya adalah Perenang Taiwan Terakhir yang Berdiri di Podium Pemenang Asiad",
+    "description": "Pada Kejuaraan Asiad Nagoya 2026, Wang Kuan-hung memenangkan medali emas pertama Taiwan dalam renang putra dengan waktu 1 menit 55 detik 05 di final 200 meter gaya kupu-kupu, juga medali emas renang Asiad kedua Taiwan dalam 28 tahun terakhir. Pelatihnya di tepi kolam, Huang Chih-yung (黃智勇), adalah perenang putra Taiwan terakhir yang meraih medali perunggu Asiad Bangkok 1998, menghubungkan kembali garis keturunan yang terputus.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/wang-kuan-hung",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "id/People/wang-kuan-hung.md"
+  },
+  {
     "title": "Wang Kuan-hung: Su entrenador es el último nadador taiwanés que subió al podio de los Juegos Asiáticos",
     "description": "En la final de 200 metros mariposa masculino de los Juegos Asiáticos de Nagoya 2026, Wang Kuan-hung tocó la pared con 1:55.05, ganando la primera medalla de oro en natación masculina en la historia de Taiwán en los Juegos Asiáticos, y la segunda medalla de oro en natación de los Juegos Asiáticos en 28 años para los nadadores taiwaneses. Su entrenador en la piscina, Huang Chih-yung, ganó bronce en los Juegos Asiáticos de Bangkok 1998 y fue el último nadador masculino taiwanés en subir al podio de los Juegos Asiáticos; maestro y alumno conectaron la misma línea.",
     "category": "es",
@@ -120533,6 +120701,17 @@
     "featured": false,
     "date": "2026-10-12",
     "path": "es/People/wang-kuan-hung.md"
+  },
+  {
+    "title": "Wang Kuan-hung: The Coach Was the Last Taiwanese Swimmer to Stand on an Asian Games Podium",
+    "description": "In the 2026 Nagoya Asian Games men's 200m butterfly final, Wang Kuan-hung touched the wall in 1:55.05, winning Taiwan's first-ever men's swimming gold at the Asian Games and the nation's second swimming gold in 28 years. His coach by the poolside, Huang Chih-yung, was the last Taiwanese male swimmer to stand on an Asian Games podium back in 1998, connecting their legacies through a single thread.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/wang-kuan-hung",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-12",
+    "path": "en/People/wang-kuan-hung.md"
   },
   {
     "title": "Wang Lian-cheng (Shrimp Dad): o artista de instalação sonora de Taiwan que fez 23 máquinas lerem os «Analectos» simultaneamente",
@@ -122264,17 +122443,6 @@
     "path": "de/People/tai-yu-wu.md"
   },
   {
-    "title": "Wuming Xiaozhan: Komputer yang Ditemukan, Masa Muda yang Terjual, dan Suatu Penghilangan yang Tak Ada yang Mengungani",
-    "description": "Di asrama kampus NCTU pada tahun 1999, enam mahasiswa ilmu komputer merakit peralatan usang dari departemen mereka untuk menciptakan sebuah BBS bernama 'Wuming'. Situs ini berkembang menjadi blog terbesar di seluruh Taiwan dan tempat dilahirinya generasi pertama pencipta konten Taiwan. Pada tahun 2008, situs ini bahkan mencapai posisi pertama di mesin pencari Yahoo. Kemudian Yahoo membelinya, dan pada malam tanggal 26 Desember 2013, situs ini beserta kenangan satu generasi dihapuskan. Kini kebanyakan orang hanya dapat mengembalikan album kosong yang tidak bisa dibuka. Kenangan ini dicatat sebagai masa mudanya, namun masa muda itu sejak awal diletakkan di server yang bisa dimatikan oleh orang lain.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/culture/wretch",
-    "readingTime": 152,
-    "featured": false,
-    "date": "2026-06-14",
-    "path": "id/Culture/wretch.md"
-  },
-  {
     "title": "Wuming Xiaozhan: подобранные компьютеры, проданная юность и исчезновение, за которым никто не походил",
     "description": "В 1999 году в общежитии Цзяотун шесть студентов факультета информатики собрали из списанного кафедрой оборудования BBS под названием «Wuming». Он вырос в крупнейшую блог-платформу Тайваня, колыбель первого поколения тайваньских креаторов, и в 2008 году даже обогнал Yahoo, став первым по посещаемости сайтом. Затем Yahoo купил его, а в ночь на 26 декабря 2013 года удалил вместе с фотоальбомами целого поколения. Теперь большинство людей могут достать только неоткрывающиеся пустые альбомы. Его помнят как юность, но эта юность с самого начала лежала на чужих серверах, которые можно выключить.",
     "category": "ru",
@@ -122284,6 +122452,17 @@
     "featured": false,
     "date": "2026-06-14",
     "path": "ru/Culture/wretch.md"
+  },
+  {
+    "title": "Wumingsiaozhan: Komputer Temuan, Masa Muda yang Terjual, dan Sebuah Kepunahan Tanpa Upacara Pemakaman",
+    "description": "Asrama Chiao Tung University tahun 1999, enam mahasiswa teknik informatika merakit sebuah BBS bernama \"Wuming\" menggunakan peralatan bekas dari departemen mereka. Situs ini tumbuh menjadi platform blog terbesar di Taiwan, tempat lahirnya kreator konten generasi pertama Taiwan, bahkan sempat melampaui Yahoo sebagai situs web nomor satu pada tahun 2008. Kemudian Yahoo membelinya, dan pada malam 26 Desember 2013, situs tersebut beserta album foto satu generasi dihapuskan; kini kebanyakan orang hanya bisa menemukan album kosong yang tidak dapat dibuka. Ia dikenang sebagai masa muda, namun masa muda itu sejak awal diletakkan di atas peladen milik orang lain yang bisa dimatikan kapan saja.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/culture/wretch",
+    "readingTime": 162,
+    "featured": false,
+    "date": "2026-06-14",
+    "path": "id/Culture/wretch.md"
   },
   {
     "title": "Wuqiu : l'île au sein de l'île, un îlot militaire oublié sous l'ombre des déchets nucléaires",
@@ -122977,12 +123156,12 @@
     "path": "vi/Nature/taiwan-pangolin.md"
   },
   {
-    "title": "Ỷ Thiên Kiếm Đại An Khê: Cây cao nhất Đông Á, ẩn mình suốt bảy trăm năm nơi con người không thể chạm tới",
-    "description": "Vào dịp Tết Nguyên Đán năm 2023, đội ngũ Tìm Cây đã thực hiện chuyến ngược dòng suối kéo dài bảy ngày, tại một thung lũng sâu gần như không dấu chân người ở thượng nguồn sông Đại An Khê, họ đã thả thước dây từ tán của một cây Thần mộc Đài Loan xuống — đạt tới 84,1 mét, cây cao nhất Đông Á. Con số này cao hơn 4,6 mét so với dự đoán của công nghệ LiDAR. Một hòn đảo vốn phải chịu bão lũ và sạt lở hàng năm lẽ ra không nên duy trì được một sự sống ở độ cao như vậy; nhưng chính nhờ sinh trưởng tại thung lũng nơi con người khó lòng tiếp cận, nó mới tránh được nạn khai thác gỗ quy mô lớn và trụ vững suốt bảy trăm năm. Chính sự \"không thể chạm tới\" ấy vừa giúp nó tồn tại, vừa khiến chúng ta phải dùng tia laser quét qua toàn bộ hòn đảo mới có thể lần đầu tiên nhìn thấy nó trong năm nay.",
+    "title": "Ỷ Thiên Kiếm bên dòng Đại An Khê: Cây cao nhất Đông Á ẩn mình suốt 700 năm nơi con người không thể chạm tới",
+    "description": "Vào dịp Tết Nguyên Đán năm 2023, đội ngũ Tìm Cây đã thực hiện chuyến ngược dòng suối kéo dài bảy ngày. Tại một thung lũng sâu gần như không dấu chân người ở thượng nguồn sông Đại An Khê, họ đã thả thước dây từ ngọn của một cây Thần mộc Đài Loan xuống — đạt tới 84,1 mét, trở thành cây cao nhất Đông Á. Con số này cao hơn 4,6 mét so với dự đoán của công nghệ LiDAR. Trên một hòn đảo vốn thường xuyên chịu bão lũ và sạt lở, lẽ ra không thể duy trì được sự sống ở độ cao như vậy; nhưng chính nhờ sinh trưởng tại thung lũng nơi con người không thể tiếp cận, nó mới tránh được nạn khai thác gỗ quy mô lớn và trụ vững suốt 700 năm qua. Chính sự \"không thể chạm tới\" ấy vừa giúp nó tồn tại, vừa khiến chúng ta phải dùng tia laser quét qua toàn bộ hòn đảo mới có thể lần đầu tiên nhìn thấy nó trong năm nay.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/nature/daan-river-yitian-sword",
-    "readingTime": 221,
+    "readingTime": 223,
     "featured": false,
     "date": "2026-06-24",
     "path": "vi/Nature/daan-river-yitian-sword.md"
@@ -125734,17 +125913,6 @@
     "featured": false,
     "date": "2026-04-18",
     "path": "ru/People/aljenljeng-tjaluvie-abao.md"
-  },
-  {
-    "title": "Автобусная система Тайваня: когда уходит Синьчжоу Кэюнь, кто подворит тех, у кого нет руля",
-    "description": "15 сентября 2024 года у станции Цзюаньлуо более 30 человек — от дошкольников до 90-летних стариков — прощались с последним рейсом 5658 Синьчжоу Кэюнь. От первой совместной линии Тайбэя 1977 года до горных районов с двумя рейсами в сутки, где средний возраст водителей 51 год, и месячных билетов TPASS, увеличивших пассажиропоток в Хualeь почти на 70%, автобусы всегда возили тех, у кого нет выбора: школьников, неведущих машину пожилых людей, семей без автомобиля, а теперь эта система по одной отбирается у них из-под ног.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/lifestyle/taiwan-bus-system",
-    "readingTime": 161,
-    "featured": false,
-    "date": "2026-06-25",
-    "path": "ru/Lifestyle/taiwan-bus-system.md"
   },
   {
     "title": "Автомагистрали: от шоссе Макартура до Сюэшаньского тоннеля — пятьдесят лет власти и скорости на тайваньских нацдао",
@@ -130565,6 +130733,17 @@
     "path": "ru/Art/invisible-nation.md"
   },
   {
+    "title": "Невидимый Тайвань: документальный фильм о медиумизме и неожиданная церемония примирения",
+    "description": "«Невидимый Тайвань» (2018) — первый полнометражный документальный фильм сценариста Линь Минцяня (林明謙). Он планировал снимать сеансы медиумизма, но в первый день съёмок боги приказали ему «стоп» и велели сначала разобраться с семейными делами; четыре года спустя камера следует за четырьмя медиумками и переводчиком небесного языка к устью реки Лу'эрмэнь в Тайнане, где они проводят неожиданную трёхдневную церемонию примирения между Чжэн Чэнгуном и народом сирая. 118 минут, кассовые сборы в Тайбэе — NT$1,1 млн; фильм оставил документальное свидетельство народной веры Тайваня.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/art/invisible-taiwan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ru/Art/invisible-taiwan.md"
+  },
+  {
     "title": "Неслышащий — не значит незвонищий: тайваньская служба видеорелейного перевода на жестовый язык и испытание информационным равенством системой",
     "description": "В 2024 году Тайвань запустил общенациональную службу видеорелейного перевода на жестовый язык, позволяющую лицам со слуховыми и речевыми нарушениями связываться с переводчиками по жестовому языку или тексту, а затем вести телефонные разговоры со слышащими людьми. Эта услуга — не просто новое приложение, а системный эксперимент, объединяющий КРПИ, безбарьерный доступ к общественной информации, цифровое управление и местные сервисы. Статья обзорюет правовой контекст информационного равенства на Тайване, анализирует, как VRS преодолевает барьеры традиционной телефонии, и рассматривает оставшиеся открытые вопросы: часы работы службы, межведомственное взаимодействие, качество субтитров и жестового перевода, чрезвычайные ситуации и управление данными.",
     "category": "ru",
@@ -132093,6 +132272,17 @@
     "path": "ru/Geography/hsinchu-county.md"
   },
   {
+    "title": "Система автобусного сообщения на Тайване: кто придет на помощь тем, у кого нет возможности управлять автомобилем, когда Hsinchu Bus уйдет?",
+    "description": "Утром 15 сентября 2024 года на станции Тунлуо более 30 человек — от дошкольников до 90-летних стариков — ждали последнего рейса автобуса Hsinchu Bus № 5658. От первой совместной маршрутной линии в Тайбэе в 1977 году до отдаленных районов, где остается всего два рейса в день, среднего возраста водителей 51 год и резкого роста числа поездок в Хуаляне почти на 70% благодаря проездным TPASS — автобусы всегда перевозят тех, у кого нет выбора: школьников, пожилых людей без прав и семьи без автомобиля. И сейчас эта возможность постепенно отнимается у них одна за другой.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/lifestyle/taiwan-bus-system",
+    "readingTime": 212,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ru/Lifestyle/taiwan-bus-system.md"
+  },
+  {
     "title": "Система глав вей и ли: 7748 избраных глав, основная политическая единица Тайваня",
     "description": "Офис главы ли в 5:30 утра, ежемесячное пособие на дела 45 000, более 60 % безпартийных — глава вей/ли — это должность, которая меньше всего похожа на «политическую» в выборах на Тайване, и в то же время наиболее полное доказательство демократизации Тайваня. От системы баоцзя эпохи японского правления до прямых выборов 1950 года — эти 7748 должностей по всему Тайваню, больше чем магазинов 7-Eleven, обеспечивают работу восьмидесяти лет местного посредничества.",
     "category": "ru",
@@ -132890,6 +133080,17 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "ru/About/seeing-taiwan-quotes.md"
+  },
+  {
+    "title": "Тайвань и Азиатские игры: имя, рождённое в Нагое, вернулось туда сорок семь лет спустя",
+    "description": "На закрытии Азиатских игр в Нагое 4 октября 2026 года команда Китайского Тайбэя завоевала 5 золотых, 17 серебряных и 33 бронзовых медали, заняв 15-е место в медальном зачёте. На открытии несли флаг Китайского олимпийского комитета, при награждении звучала мелодия гимна. Эта схема восходит к решению Международного олимпийского комитета в Нагое в октябре 1979 года. Тайвань впервые участвовал в Азиатских играх в 1954 году в Маниле, завоевав две золотые медали, одну из которых выиграл Ян Чуаньгуан в десятиборье; в 1973 году его членство было исключено голосованием 38 против 13, и это отсутствие длилось двадцать лет, пока в 1990 году на Азиатских играх в Пекине он не вернулся под этим именем.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/taiwan-asian-games",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ru/Society/taiwan-asian-games.md"
   },
   {
     "title": "Тайвань и Литва: партнёрство, выстраиваемое между демократическими ценностями и геополитической реальностью",
@@ -133835,7 +134036,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/art/taiwanese-cinema",
-    "readingTime": 223,
+    "readingTime": 226,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/Art/taiwanese-cinema.md"
@@ -134451,7 +134652,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/culture/taiwanese-childhood-english-names",
-    "readingTime": 152,
+    "readingTime": 155,
     "featured": true,
     "date": "2026-06-17",
     "path": "ru/Culture/taiwanese-childhood-english-names.md"
@@ -136156,12 +136357,12 @@
     "path": "ru/Nature/black-faced-spoonbill.md"
   },
   {
-    "title": "Четыре мерки за синим и зелёным: от земельной реформы до медицинской карты — политика Тайваня, пережившая собственную партийность",
-    "description": "Читатель устал от синих и зелёных препирательств за обеденным столом и хотел бы помнить только то, что действительно помогло Тайваню. Поэтому мы собрали одиннадцать политик за семьдесят лет — от авторитарной земельной реформы с принудительным отчислением, от отмены военного положения и всеобщего медицинского страхования до всё ещё вызывающих споры однополых браков и передового проекта развития — и ввели целенаправленно не сине-зелёную, а четыре другие мерки: благосостояние, демократия, права меньшинств и суверенитет. Неожиданный вывод: политика, которая действительно пережила собственную партийность, в день рождения почти всегда была предметом самых яростных споров.",
+    "title": "Четыре критерия вне противостояния синих и зеленых: от участка земли до карты медицинского страхования — политики Тайваня, пережившие партийную борьбу",
+    "description": "Один читатель, уставший от взаимных обвинений «синих» и «зеленых», захотел запомнить то, что действительно идет на пользу Тайваню. Поэтому мы отобрали одиннадцать политических решений за последние семьдесят лет: от земельной реформы при авторитарном режиме и насильственного изъятия сельхозугодий до снятия военного положения, всеобщего медицинского страхования и продолжающихся споров о браках однополых пар и проекте «Передовой форвард». Мы намеренно отказались от партийных мерил, заменив их четырьмя критериями: благосостояние народа, демократия, гражданские права и суверенитет. Вывод несколько контринтуитивен: политики, сумевшие перерасти свое партийное происхождение, в день своего рождения зачастую вызывали самые яростные споры.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/history/bipartisan-good-policy",
-    "readingTime": 228,
+    "readingTime": 261,
     "featured": false,
     "date": "2026-06-13",
     "path": "ru/History/bipartisan-good-policy.md"
@@ -137621,17 +137822,6 @@
     "path": "ru/History/japanese-colonial-era.md"
   },
   {
-    "title": "آخر أغنية للجزيرة: عام التنين لم ينقذ 0.695",
-    "description": "عام 2024 هو عام التنين، وكان التايوانيون يتسابقون للإنجاب طلباً للحظ، لكن هذا العام شهد انخفاضاً بـ 715 مولوداً عن سابقه، ولأول مرة منذ 48 عاماً يفشل سحر عام التنين. انهار معدل الخصوبة الإجمالي ليصل إلى 0.695. لكن الشفرة الحقيقية لم تكن أبداً أن التايوانيين لا ينجبون (فأكثر من 70% من الأزواج ينجبون طفلين أو أكثر)، بل أنهم لا يتزوجون؛ ومع ذلك صرفت الحكومة الأموال لعقد من الزمن على \"الخوف من الإنجاب\"، ولم تنجح أي دولة في العالم في شراء معدل الخصوبة بالمال.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/taiwan-low-birth-rate-crisis",
-    "readingTime": 138,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ar/Society/taiwan-low-birth-rate-crisis.md"
-  },
-  {
     "title": "آخر أيام العصر الذهبي: من إناء مونغ تشين إلى كوب بلاستيكي، تحوّلت أواني الشاي في تايوان على مدى قرن",
     "description": "في عهد الدين الصيني، كان الثراء في تايوان يحرصون على أن يكون الإناء مونغ تشين عند شربهم الشاي. اليوم، يتجه الموظفون إلى متاجر الشاي المتحرك يطلبون «سكر قليل، جليد قليل». على مدى أكثر من قرن، غيّرت تايوان أواني الشاي من إناء صغير للشاي الفني، إلى صندوق معدني للشاي التنافسي، إلى كوب بلاستيكي للشاي المتحرك. في عام 1869، قدّم تاو تيه الشاي الفوجياني باسم «فولموشا» إلى نيويورك، وفي عام 1976، بلغ سعر شاي بطل لوكو كيلوجرام واحد خمسة آلاف يوان، وفي عام 2025، يصل عدد متاجر الشاي المتحرك في جميع أنحاء تايوان إلى ستة عشر ألف متجر. ما تغيّر هو الأواني، وما لم يتغيّر هو روح هذه الجزيرة التي تختبر الفرص الخارجية وتصنع منها نكهتها الخاصة.",
     "category": "ar",
@@ -137824,17 +138014,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ar/Culture/si-siu-a-lunar-new-year-snacks.md"
-  },
-  {
-    "title": "أربعة مقاييس خارج الأزرق والأخضر: من قطعة أرض إلى بطاقة تأمين صحي، سياسات تايوان التي تجاوزت أصولها السياسية",
-    "description": "قارئ سئم من تبادل الشتائم بين الأزرق والأخضر على مائدة الطعام، وأراد أن يتذكر ما هو جيد حقاً لتايوان. لذا وجدنا إحدى عشرة سياسة على مدى سبعين عاماً، من إصلاح الأراضي بمصادرة الأراضي الزراعية في عهد الاستبداد، ورفع الأحكام العرفية، والتأمين الصحي الشامل، إلى زواج المثليين ومشروع البنية التحتية الاستشرافية اللذين لا يزالان موضع جدل. تعمدنا عدم استخدام مقياس الأزرق والأخضر، واستبدلناه بأربعة مقاييس: معيشة الناس، الديمقراطية، الحقوق المدنية، والسيادة. الاستنتاج غير بديهي بعض الشيء: السياسات التي تجاوزت أصولها الحزبية، غالباً ما كان يوم ولادتها هو اليوم الذي شهد أعنف الجدالات.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/history/bipartisan-good-policy",
-    "readingTime": 199,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "ar/History/bipartisan-good-policy.md"
   },
   {
     "title": "أرز بونلاي: كيف أعادت حبة أرز تشكيل المشهد الزراعي والمائدة في تايوان لمائة عام",
@@ -139480,6 +139659,17 @@
     "path": "ar/Culture/taiwan-indigo-dyeing.md"
   },
   {
+    "title": "الصرخة الأخيرة للجزيرة: 0.695 التي لم يستطع حتى عام التنين إنقاذها",
+    "description": "عام 2024 هو عام التنين، وكان من المفترض أن يسارع التايوانيون للإنجاب طلباً للحظ السعيد، لكن هذا العام شهد نقصاً في عدد المواليد بمقدار 715 طفلاً مقارنة بالعام السابق، مما يعني أن سحر عام التنين قد فشل لأول مرة منذ 48 عاماً. وفي العام التالي، انهار معدل الخصوبة ليصل إلى 0.695. لكن الشفرة الحقيقية لم تكن أبداً في عدم رغبة التايوانيين في الإنجاب (أكثر من 70% من المتزوجين ينجبون طفلين أو أكثر)، بل في عدم الزواج؛ ومع ذلك، استمرت الحكومة لعشر سنوات في إنفاق الأموال على مشكلة \"عدم القدرة على الإنجاب\"، ولم تنجح أي دولة في العالم في استعادة معدلات الخصوبة عبر هذه الوسيلة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-low-birth-rate-crisis",
+    "readingTime": 186,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ar/Society/taiwan-low-birth-rate-crisis.md"
+  },
+  {
     "title": "الصوت بلا عنوان: كيف تحولت الإذاعة التايوانية من مكبر أصوات الدولة إلى مساحة عامة محلية",
     "description": "من البث التجريبي عام 1925 وجنرال إذاعة تايبيه للإذاعة الياباني، إلى تايوان فويس في فترة ما بعد الحرب وإذاعات الطوارئ والراديو السري في فترة الأحكام العرفية، نتابع كيف أصبح الراديو وسيلة لنقل الأوامر والأغاني واللغات وتجارب الحياة المحلية التي يصعب إسكاتها.",
     "category": "ar",
@@ -139960,6 +140150,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "ar/People/black-cat-teacher.md"
+  },
+  {
+    "title": "المقاييس الأربعة خارج الصراع بين الأزرق والأخضر: من قطعة أرض إلى بطاقة التأمين الصحي، سياسات تايوان التي تجاوزت الانتماءات السياسية",
+    "description": "أحد القراء سئم من المشاحنات المتبادلة على مائدة النقاش بين المعسكرين الأزرق والأخضر، وأراد أن يتذكر الأشياء التي خدمت تايوان حقاً. لذا، بحثنا في أحد عشر سياسة على مدار سبعين عاماً؛ بدءاً من الإصلاح الزراعي الذي استند إلى المصادرة القسرية للأراضي في عهد السلطوية، ورفع الأحكام العرفية، والتأمين الصحي الشامل، وصولاً إلى قضايا زواج المثليين ومشروع الاستشراف التي لا تزال محل جدل. لقد تعمدنا عدم استخدام مقاييس الأزرق والأخضر، واستبدالها بأربعة مقاييس: المعيشة، والديمقراطية، والحقوق المدنية، والسيادة. النتيجة كانت غير متوقعة بعض الشيء: السياسات التي نجحت في تجاوز خلفياتها الحزبية غالباً ما كانت الأكثر إثارة للجدل في يوم ولادتها.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/bipartisan-good-policy",
+    "readingTime": 220,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "ar/History/bipartisan-good-policy.md"
   },
   {
     "title": "المكتبة الوطنية: كيف تحوّل مكتبةٌ ما منشوراتِ جزيرةٍ إلى ذاكرةٍ وطنية",
@@ -141012,6 +141213,17 @@
     "path": "ar/Technology/taiwan-space-industry-development.md"
   },
   {
+    "title": "تايوان غير المرئية: فيلم وثائقي عن التواصل الروحي وحفل المصالحة الذي صادفه",
+    "description": "«تايوان غير المرئية» فيلم وثائقي طويل من إخراج لين مينغ تشيان عُرض عام 2018. كان يريد في الأصل فقط تصوير جلسات التواصل الروحي، لكن في يوم الإطلاق الأول طلبت منه الآلهة أن يوقف التصوير ويحل مشاكل عائلته أولاً؛ بعد أربع سنوات، تابعت الكاميرا أربع نساء متوسلات روحيات ومترجم لغة سماوية إلى مصب نهر لوه إير مين في تاينان، حيث أقاموا حفل مصالحة قانوني غير متوقع بين تشينغ تشينغ كونغ والشعب السيلايا الأصلي. 118 دقيقة وإيرادات تايبيه 1.1 مليون دولار تايواني، تاركة سجلاً حياً للمعتقدات الشعبية التايوانية.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/art/invisible-taiwan",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ar/Art/invisible-taiwan.md"
+  },
+  {
     "title": "تايوان فن الشارع: من خارجين عن القانون الليليين إلى أضواء مدينة شيمن دينغ",
     "description": "في عام 1989، رسم لو شويه يوان أول خط على طريق مين شينغ دونغ، فاتحًا تاريخ تايوان السري لفن الغرافيتي. من أسطورة \"ملك الأمعاء الكبيرة\" الحضرية إلى النقد الاجتماعي لكاندي بيرد، هذه اللعبة المستمرة منذ ثلاثين عامًا مع هيئة حماية البيئة تعيد تعريف الجماليات الحضرية في تايوان.",
     "category": "ar",
@@ -141103,6 +141315,17 @@
     "featured": true,
     "date": "2026-05-05",
     "path": "ar/Society/taiwan-eswatini-relations.md"
+  },
+  {
+    "title": "تايوان والألعاب الآسيوية: اسم وُلد في ناغويا، عاد إلى ناغويا بعد سبعة وأربعين عامًا",
+    "description": "أُغلقت ألعاب ناغويا الآسيوية في 4 أكتوبر 2026، وعادت تايوان بـ 5 ذهبيات و17 فضية و33 برونزية، محتلة المركز 15 في جدول الميداليات. في حفل الافتتاح، رفعت الوفد علم لجنة تايوان الأولمبية، وفي حفل التتويج، عزفت نشيد العلم الوطني. هذا الترتيب نشأ من قرار اتخذته اللجنة الأولمبية الدولية في ناغويا في أكتوبر 1979. شاركت تايوان في أول ألعاب آسيوية عام 1954 في مانيلا، حيث حققت ميداليتين ذهبيتين، إحداهما لـ يانغ تشوان غوانغ في العشاري؛ ثم استُبعدت عضويتها عام 1973 بنسبة 38 مقابل 13، وغابت عشرين سنة حتى عادت عام 1990 في بكين تحت هذا الاسم.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-asian-games",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ar/Society/taiwan-asian-games.md"
   },
   {
     "title": "تايوان والإخصاب المساعد: جنين يعبر الحدود، لكن العائلة لا تستطيع عبور القانون تلقائيًا",
@@ -143448,12 +143671,12 @@
     "path": "ar/People/jam-hsiao.md"
   },
   {
-    "title": "جيمي لياو: تلك الرسوم التي صُنّفت «شفائية» هي ما أعاده ناجٍ من سرطان الدم من داخل قارورة زجاجية",
-    "description": "في عام 1995، حُكم على لياو فو-بين (廖福彬)، مدير فني إعلاني يبلغ 37 عامًا، بالإصابة بسرطان نخاع العظم الحاد، ولوح لأصدقائه من وراء زجاج غرفة معقمة. بعد خروجه، أحييت تلك «الشخوص الصغيرة» التي كان يرسمها لكسب العيش، وبدأ برسم «السمكة المبتسمة» و«القمر نسي» و«يسارًا يمينًا» و«المترو». خلف ما يتذكره التايوانيون من «شفاء» و«شباب مثقفين» وساحة جيمي في لودونغ-ييلان، يقف رجل زار الجحيم، وترجم الموت والوحدة إلى أشكال قابلة للقراءة، لتنمو لاحقًا إمبراطورية بصرية تعبر السينما والمسرح الموسيقي والسيرك والفن العام، وما زال يقيم معرضًا خاصًا بالذكرى 25 في هونغ كونغ عام 2026.",
+    "title": "جيمي لياو: تلك الرسوم التي تُعتبر من نوع \"الشفاء\"، هي ما أعاده ناجٍ من سرطان الدم من داخل العلبة الزجاجية",
+    "description": "في عام 1995، حُكم على مخرج الفن الإعلاني البالغ من العمر 37 عاماً، لياو فو-بين، بالإصابة بسرطان الدم النخاعي الحاد، ولوح لأصدقائه من وراء الزجاج في غرفة معقمة. بعد خروجه من المستشفى، تلك \"الشخصيات الصغيرة\" التي كان يستخدمها لكسب المال عادت للحياة، وبدأ برسم \"السمكة المبتسمة\" و\"القمر الذي نسي\" و\"انعطف يساراً، انعطف يميناً\" و\"المترو\". وراء الشفاء والثقافة الشبابية وساحة جيمي في لودونغ، ييلان، التي يتذكرها التايوانيون، يقف رجل زار الجحيم، وترجم الموت والوحدة إلى أشكال قابلة للقراءة، لتنمو لاحقاً لتصبح إمبراطورية تمتد عبر الأفلام والمسرحيات الموسيقية والسيرك والفن العام، وما زال يقيم معرضاً خاصاً بالذكرى الـ25 في هونغ كونغ عام 2026.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/jimmy-liao",
-    "readingTime": 106,
+    "readingTime": 108,
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/jimmy-liao.md"
@@ -148227,14 +148450,14 @@
     "path": "ar/History/taipei-main-station.md"
   },
   {
-    "title": "محطة وومينغ الصغيرة: حواسيب ملتقطة، شباب مباع، واختفاء بلا جنازة",
-    "description": "في عام 1999، في سكن جامعة جياو تونغ، قام ستة طلاب من قسم علوم الحاسوب بتجميع حاسوب BBS يسمى \"وومينغ\" باستخدام معدات مهملة من القسم. نما ليصبح أكبر منصة تدوين في تايوان، ومهد الجيل الأول من المبدعين التايوانيين، وفي عام 2008 حتى تجاوز ياهو ليصبح أكبر موقع في تايوان. ثم اشترته ياهو، وفي ليلة 26 ديسمبر 2013، حُذِفَ مع ألبومات صور جيل كامل. اليوم، لا يستطيع معظم الناس استعادة سوى ألبومات فارغة لا تفتح. سُجِّلَ كشباب، لكن ذلك الشباب كان منذ البداية مخزناً على خوادم يمكن للآخرين إغلاقها.",
+    "title": "محطة وو مينغ الصغيرة: أجهزة كمبيوتر ملتقطة، شباب مباع، واختفاء بلا جنازة",
+    "description": "في عام 1999، في سكن جامعة جياو تونغ، قام ستة طلاب من قسم علوم الحاسوب بتجميع جهاز BBS يسمى \"وو مينغ\" باستخدام معدات مهملة من القسم. نما ليصبح أكبر منصة تدوين في تايوان، ومهد الجيل الأول من المبدعين التايوانيين، وفي عام 2008 حتى تجاوز ياهو ليصبح أكبر موقع ويب. ثم اشترته ياهو، وفي ليلة 26 ديسمبر 2013، حذفته مع ألبومات صور جيل كامل، واليوم لا يستطيع معظم الناس استعادة سوى ألبومات فارغة لا تفتح. لقد سجّل كشباب، لكن ذلك الشباب كان منذ البداية موضوعاً على خوادم يمكن للآخرين إغلاقها.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/culture/wretch",
-    "readingTime": 119,
+    "readingTime": 120,
     "featured": false,
-    "date": "2026-03-23",
+    "date": "2026-06-14",
     "path": "ar/Culture/wretch.md"
   },
   {
@@ -150659,6 +150882,17 @@
     "path": "hi/Society/taiwans-labeling-in-international-standards.md"
   },
   {
+    "title": "अदृश्य ताइवान: एक आत्मा-संचार वृत्तचित्र, और उसका सामना एक अप्रत्याशित सुलह समारोह से",
+    "description": "2018 में प्रदर्शित《अदृश्य ताइवान》 पटकथा लेखक लिन मिंग-चिएन (林明謙) की पहली वृत्तचित्र फीचर है। वह मूलतः केवल आत्मा-संचार फिल्माना चाहते थे, लेकिन पहले दिन ही देवताओं ने \"कट\" बुलाया और उन्हें पहले घर के मामले सुलझाने को कहा; चार साल बाद, कैमरा चार आत्मा-संचार महिलाओं और एक स्वर्गीय भाषा अनुवादक के साथ ताइनान के लू-अर्ह मेन क्रीक के मुहाने तक पहुँचता है, जहाँ झेंग चेंग-गोंग (鄭成功) और सिलाया जनजाति के लिए एक अप्रत्याशित सुलह समारोह आयोजित किया जाता है। 118 मिनट, ताइपे बॉक्स ऑफिस NT$11 लाख — यह ताइवान की लोक-धार्मिक परंपरा का एक मूल्यवान दस्तावेज़ है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/art/invisible-taiwan",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "hi/Art/invisible-taiwan.md"
+  },
+  {
     "title": "अदृश्य राष्ट्र: एक अमेरिकी निर्देशक जिसने सात साल तक शटर दबाया, एक ऐसे द्वीप की कहानी जिसे दुनिया देखने से इनकार करती है",
     "description": "जून 2025 में ताइवान के सिनेमाघरों में, एक अमेरिकी द्वारा बनाई गई डॉक्यूमेंट्री ने NT$37 मिलियन से अधिक की कमाई की और वृत्तचित्र इतिहास में तीसरे स्थान पर पहुँच गई। जेसन डैचलर (葛靜文) ने सात साल लगाए और त्साई इंग-वेन का पांच बार गहन साक्षात्कार लिया, ताकि उस द्वीप को कैमरे के सामने लाया जा सके जिसे संयुक्त राष्ट्र से निकाल दिया गया है, जिसके राजनयिक संबंध 22 से घटकर 12 रह गए हैं, और ओलंपिक में जिसे केवल 'चीनी ताइपे' कहा जाता है। लेकिन सबसे बड़ा सवाल यह है कि ताइवान को 'दिखने' में मदद करने वाली इस फिल्म ने खुद किसे फ्रेम से बाहर छोड़ दिया—देखना हमेशा एक क्रिया होती है, कोई स्थिति नहीं।",
     "category": "hi",
@@ -150679,17 +150913,6 @@
     "featured": false,
     "date": "2026-08-17",
     "path": "hi/Food/taiwan-canned-pineapple.md"
-  },
-  {
-    "title": "अनाम वेबसाइट: बरामद किए गए कंप्यूटर, बेची गई जवानी और एक ऐसी गुमशुदगी जिसका कोई अंतिम संस्कार नहीं हुआ",
-    "description": "1999 में जेएनयू छात्रावास में, छह कंप्यूटर विज्ञान के छात्रों ने विभाग द्वारा स्क्रैप किए गए उपकरणों का उपयोग करके 'अनाम' नामक एक BBS बनाया। यह पूरे ताइवान की सबसे बड़ी ब्लॉग और पहले पीढ़ी के रचनाकारों का पालना बन गया, और 2008 तक यह याहू को पछाड़कर सबसे बड़ी वेबसाइट बन गई। फिर याहू ने इसे खरीद लिया, और 26 दिसंबर 2013 की रात एक पीढ़ी की एल्बम के साथ डिलीट हो गई, और अब अधिकांश लोगों को केवल बंद होने वाली खाली एल्बमें मिली हैं। इसे जवानी के रूप में याद किया जाता है, लेकिन वह जवानी शुरू से ही किसी और द्वारा बंद किए जा सकने वाले सर्वर पर रखी गई थी।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/culture/wretch",
-    "readingTime": 139,
-    "featured": false,
-    "date": "2026-06-14",
-    "path": "hi/Culture/wretch.md"
   },
   {
     "title": "अमेरिकी सहायता: एक बोरी आटा कैसे विकास की एक पूरी व्यवस्था बन गया",
@@ -151118,7 +151341,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/chi-huai-hsin",
-    "readingTime": 113,
+    "readingTime": 114,
     "featured": true,
     "date": "2026-06-27",
     "path": "hi/People/chi-huai-hsin.md"
@@ -153978,6 +154201,17 @@
     "path": "hi/History/taiwan-north-korea-relations.md"
   },
   {
+    "title": "ताइवान और एशियाई खेल: एक नाम जो नागोया में जन्मा, सैंतालीस साल बाद फिर नागोया लौटा",
+    "description": "2026 की अक्टूबर 4 को नागोया एशियाई खेलों का समापन हुआ, चीन गणराज्य (ताइवान) की टीम 5 स्वर्ण, 17 रजत और 33 कांस्य पदक लेकर आई, पदक तालिका में 15वें स्थान पर रही। उद्घाटन में चीन गणराज्य ओलंपिक समिति का झंडा उठाया गया था और पुरस्कार वितरण में राष्ट्रगान की धुन बजी। यह व्यवस्था 1979 की अक्टूबर में अंतरराष्ट्रीय ओलंपिक समिति द्वारा नागोया में लिए गए निर्णय से आई है। ताइवान का पहला एशियाई खेल 1954 में मनीला में था, जहाँ दो स्वर्ण पदक जीते गए थे, जिनमें से एक यांग चुआन-गुआंग का दशकथलन था; 1973 में सदस्यता 38 से 13 के मतों से निष्कासित कर दी गई, यह अनुपस्थिति बीस साल तक रही, जब तक 1990 के बीजिंग एशियाई खेलों में उसी नाम से फिर से प्रवेश नहीं हुआ।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/taiwan-asian-games",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "hi/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "ताइवान और एस्वातिनी: अफ्रीका की आखिरी राजनयिक जीवनरेखा, एक व्यक्ति पर टिकी हुई",
     "description": "2 मई 2026 को सुबह 9 बजे, लाई चिंग-ते एस्वातिनी के राजा द्वारा दिए गए A340 विशेष विमान से म्बाबाने में उतरे। यह पहली बार था जब किसी ताइवानी राष्ट्रपति की उड़ान अनुमति चीनी दबाव में रद्द की गई, और अंततः मित्र राष्ट्र के राजा ने ताइपे से विमान भेजकर उन्हें लिवाया। 1968 में एस्वातिनी की स्वतंत्रता के दिन ही राजनयिक संबंध स्थापित होने से लेकर अफ्रीका के एकमात्र शेष मित्र राष्ट्र तक, एक ऐसे निरंकुश सम्राट से जिसका जन्म वर्ष राजनयिक इतिहास से पूरी तरह मेल खाता है, 2021 में अपने ही 46 नागरिकों के दमन तक, लाल दिल वाले अमरूद के SUPERSPAR में पहुंचने से लेकर चीन द्वारा 53 अफ्रीकी देशों को शुल्क-मुक्त पहुंच देते हुए जानबूझकर एस्वातिनी को बाहर रखने तक। ताइवान और एस्वातिनी का यह 58 वर्षों का संबंध \"संप्रभु राष्ट्र\" की सबसे ठोस पाठ्यपुस्तक है, और एक अनुत्तरित प्रश्न भी।",
     "category": "hi",
@@ -155410,12 +155644,12 @@
     "path": "hi/Art/taiwanese-photography.md"
   },
   {
-    "title": "ताइवान की बस प्रणाली: जब शिनचू बस कंपनी चली गई, तो बिना स्टीयरिंग वाले कौन को संभालेगा",
-    "description": "15 सितंबर 2024 की सुबह, तोंग्लुआ रेलवे स्टेशन पर, 30 से अधिक लोग, जो नर्सरी के बच्चे थे और 90 साल के बुजुर्ग थे, शिनचू बस कंपनी की आखिरी बस 5658 का इंतजार कर रहे थे। ताइपेई की पहली संयुक्त मार्ग लाइन 1977 से लेकर, ग्रामीण इलाकों में दिन में केवल दो बसें, औसत ड्राइवर की उम्र 51 वर्ष, और TPASS मासिक पास के कारण हुआलान में लगभग सत्तर प्रतिशत की वृद्धि हुई, लेकिन बसों में हमेशा वे लोग सवार होते थे जिन्हें कोई विकल्प नहीं था: स्कूल जाने वाले युवा, जो गाड़ी नहीं चला सकते थे, जिनके पास कार नहीं थी, और यह प्रणाली धीरे-धीरे इन लोगों से छीनी जा रही है।",
+    "title": "ताइवान की बस प्रणाली: जब ह्सिंचू बस सेवा चली जाएगी, तो उन लोगों का क्या होगा जिनके पास कोई विकल्प नहीं है",
+    "description": "15 सितंबर, 2024 की सुबह, डोंगलो रेलवे स्टेशन पर, किंडरगार्टन के बच्चों से लेकर 90 वर्ष के बुजुर्गों तक, 30 से अधिक लोग ह्सिंचू बस सेवा की अंतिम 5658 बस का इंतज़ार कर रहे थे। 1977 में ताइपे की पहली संयुक्त मार्ग सेवा से लेकर, दूरदराज के इलाकों में दिन में केवल दो बसों के रह जाने तक, ड्राइवरों की औसत आयु 51 वर्ष होने तक, और TPASS मासिक पास के कारण हुआ्रेन में बस यात्रा में लगभग 70% की वृद्धि तक—बसें हमेशा उन लोगों को ढोती हैं जिनके पास कोई अन्य विकल्प नहीं है: स्कूल जाने वाले किशोर, कार न चलाने वाले बुजुर्ग और बिना कार वाले परिवार; और यह सेवा धीरे-धीरे इन लोगों के पैरों के नीचे से छीनी जा रही है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/lifestyle/taiwan-bus-system",
-    "readingTime": 179,
+    "readingTime": 198,
     "featured": false,
     "date": "2026-06-25",
     "path": "hi/Lifestyle/taiwan-bus-system.md"
@@ -158108,6 +158342,17 @@
     "path": "hi/Technology/threads-in-taiwan.md"
   },
   {
+    "title": "द रिपोर्टर: खोजी पत्रकारिता को एक व्यावसायिक मद से सार्वजनिक संपत्ति बनाने के दस वर्ष",
+    "description": "4 नियमित दानदाताओं से लेकर प्रति माह 8,000 तक, 'ब्लड एंड टीयर्स फिशिंग ग्राउंड' त्रयी से लेकर 2026 के यूनाइटेड फ्रंट विशेष तक, 'द रिपोर्टर' ने पिछले दस वर्षों में जो लागत झेली है—आठ महीने का अंडरकवर काम, तीन देशों में साक्षात्कार, और कई वर्षों के उल्लंघन रिकॉर्ड की तुलना—वह एल्गोरिदम के युग में वह चीज़ है जिसे देखने के लिए कोई भुगतान नहीं करना चाहता। इस द्वीप का नागरिक समाज अजनबियों द्वारा मासिक कटौती के माध्यम से खोजी पत्रकारिता को व्यावसायिक मीडिया की एक व्यावसायिक मद से बचाकर एक ऐसी सार्वजनिक संपत्ति बना रहा है, जिसे लगातार पोषित किया जा रहा है, लेकिन जो तेजी से खर्च हो रही है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/the-reporter-investigative-journalism",
+    "readingTime": 189,
+    "featured": true,
+    "date": "2026-06-16",
+    "path": "hi/Society/the-reporter-investigative-journalism.md"
+  },
+  {
     "title": "दस बड़ी परियोजनाएं: दस अरब डॉलर के विदेशी मुद्रा भंडार पर दो हजार अरब का दांव",
     "description": "1973 में ताइवान का विदेशी मुद्रा भंडार केवल 10 अरब डॉलर था, फिर भी चियांग चिंग-कुओ ने दस बड़ी परियोजनाओं को आगे बढ़ाने के लिए लगभग 3000 अरब न्यू ताइवान डॉलर निवेश करने की घोषणा की। यह न केवल तेल संकट और राजनयिक अलगाव का सामना करने के लिए एक आर्थिक मोड़ था, बल्कि जापानी औपनिवेशिक काल की विरासत वाली योजनाओं को पुनः पैकेज करके राष्ट्रीय पहचान के राजनीतिक आख्यान में बदलने का एक प्रयास भी था।",
     "category": "hi",
@@ -160583,17 +160828,6 @@
     "path": "hi/Technology/national-cultural-memory-bank.md"
   },
   {
-    "title": "रिपोर्टर्स: व्यावसायिक उपक्रम से सार्वजनिक वस्तु के रूप में खोजी पत्रकारिता का दस साल",
-    "description": "चार नियमित दानदाताओं से लेकर प्रति माह 8,000 तक, 'ब्लड एंड टीयर फिशिंग' त्रयी से लेकर 2026 सामरिक विषय तक, रिपोर्टर द्वारा दस वर्षों में खर्च की गई लागत—आठ महीने की गुप्तचर गतिविधि, तीन देशों में साक्षात्कार, कई वर्षों के उल्लंघन रिकॉर्ड का मिलान—एल्गोरिथम युग की सबसे कम देखी जाने वाली चीज़ है जिसके लिए लोग भुगतान करने को तैयार नहीं हैं। इस द्वीप का नागरिक समाज, अजनबियों द्वारा मासिक कटौती के माध्यम से, खोजी पत्रकारिता को एक व्यावसायिक मीडिया उपक्रम से बचाकर एक सार्वजनिक वस्तु बना रहा है जिसे बनाए रखने में लगातार खर्च होता रहता है और जो तेजी से जलता जाता है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/the-reporter-investigative-journalism",
-    "readingTime": 192,
-    "featured": true,
-    "date": "2026-06-16",
-    "path": "hi/Society/the-reporter-investigative-journalism.md"
-  },
-  {
     "title": "रुकाई जनजाति का कुमुदिनी फूल: एक फूल केवल सजावट नहीं, बल्कि समुदाय द्वारा प्रदत्त पहचान",
     "description": "पिंगतुंग के वुताई में, कुमुदिनी फूल कभी सबके लिए पहनने योग्य सफेद फूल नहीं था: पुरुषों को शिकार करके योद्धा की योग्यता अर्जित करनी पड़ती थी, जबकि महिलाएं सदाचार, विवाह या फूल धारण करने के अनुष्ठान के माध्यम से पहनने का अधिकार प्राप्त करती थीं। कुलीन प्राधिकार, बाजरा और सूअर के मांस के उपहारों के आदान-प्रदान से लेकर सात गांवों द्वारा अनुष्ठान के पुनर्निर्माण तक, यह फूल वास्तव में पवित्रता नहीं, बल्कि यह बचाता है कि किसे समुदाय द्वारा देखे जाने की योग्यता है।",
     "category": "hi",
@@ -160943,7 +161177,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/lin-yu-ting-boxer",
-    "readingTime": 67,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-08-12",
     "path": "hi/People/lin-yu-ting-boxer.md"
@@ -161691,6 +161925,17 @@
     "featured": false,
     "date": "2026-06-25",
     "path": "hi/Geography/wuqiu.md"
+  },
+  {
+    "title": "वुमिंग शियाओझान: कबाड़ से जुटाए कंप्यूटर, बेच दी गई जवानी, और एक ऐसा गायब होना जिसे किसी ने शोक नहीं मनाया",
+    "description": "1999 में चियाओ तुंग विश्वविद्यालय के छात्रावास में, कंप्यूटर विज्ञान विभाग के छह छात्रों ने विभाग द्वारा खारिज किए गए उपकरणों से मिलकर 'वुमिंग' नामक एक BBS बनाया। यह पूरे ताइवान का सबसे बड़ा ब्लॉग बन गया, ताइवान की पहली पीढ़ी के रचनाकारों का पालना, और 2008 में इसने याहू को पीछे छोड़कर सबसे बड़ी वेबसाइट का स्थान हासिल किया। फिर याहू ने इसे खरीद लिया, 26 दिसंबर 2013 की रात को एक पूरी पीढ़ी के फोटो एलबम के साथ इसे मिटा दिया, आज ज्यादातर लोग केवल न खुलने वाले खाली एलबम ही वापस पा सके। इसे जवानी के रूप में याद किया जाता है, लेकिन वह जवानी शुरू से ही दूसरों के ऐसे सर्वरों पर रखी थी जिन्हें वे जब चाहें बंद कर सकते थे।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/culture/wretch",
+    "readingTime": 134,
+    "featured": false,
+    "date": "2026-06-14",
+    "path": "hi/Culture/wretch.md"
   },
   {
     "title": "वू चे-यू (Che-Yu Wu): पिनबॉल मशीन से वेनिस की सफेद दीवारों तक, 0 और 1 से आत्मा के घड़ीसाज़ तक पहुंचना",
@@ -164608,17 +164853,6 @@
     "path": "ko/Geography/dalongdong.md"
   },
   {
-    "title": "다안강 의천검: 동아시아에서 가장 높은 나무, 우리가 닿지 못한 곳에 700년 숨어 있던 생명",
-    "description": "2023년 음력 설, ‘나무를 찾는 사람들’ 팀은 7일 동안 계곡을 거슬러 올라 다안강 발원지의 거의 아무도 닿을 수 없는 깊은 골짜기에서 한 그루 타이완삼나무의 수관에서 줄자를 내려뜨렸다. 84.1미터, 동아시아 최고 높이의 나무였다. 이는 레이저 라이다의 예측보다도 4.6미터 더 높았다. 해마다 태풍이 지나가고, 무너지고 잠기는 이 섬에는 원래 이런 높이의 생명이 남아 있기 어렵다. 그러나 그것은 바로 인간이 닿을 수 없는 계곡에서 자랐기 때문에 대규모 벌채를 피하고 700년을 버텼다. 같은 ‘닿을 수 없음’이 그것을 살아남게 했고, 또한 우리가 레이저로 섬 전체를 훑은 뒤에야 이 해 처음으로 그것을 보게 했다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/nature/daan-river-yitian-sword",
-    "readingTime": 103,
-    "featured": false,
-    "date": "2026-06-24",
-    "path": "ko/Nature/daan-river-yitian-sword.md"
-  },
-  {
     "title": "다이쯔잉 (戴資穎, Tai Tzu-ying)",
     "description": "214주 세계 랭킹 1위 최장 기록 보유자, 가오슝 전진구에서 올림픽 은메달까지 — 타이완 배드민턴 여왕",
     "category": "ko",
@@ -164713,12 +164947,12 @@
     "path": "ko/Food/sugar-onion-tang-tsung.md"
   },
   {
-    "title": "대罢免: 33건 전수 부결된 역사상 최대罢免潮, 타이완 민주주의의 모든 눈금을 측정하다",
-    "description": "2025년 7월 26일 심야, 대만 전역 3분의 1 선거구에서 동시 개표, 25개罢免안 전수 부결. 청조 행동에서 130만 명 이상의 서명, 3차 투표 33건 제로 기록에 이르기까지, 이 타이완 역사상 최대 규모罢免潮은 한 사람도罢免하지 않았지만, 민주주의의 동원 에너지, 문턱의 높이, 극화의 대가를 처음으로 동시에 측정해냈다.",
+    "title": "대규모 소환 운동: 33건 전부 부결된 역사상 최대 소환 운동, 타이완 민주주의의 모든 눈금을 측정하다",
+    "description": "2025년 7월 26일 심야, 대만 전역 3분의 1 선거구에서 동시 개표, 25개 소환안 전부 부결. 청조 행동에서 130만 명 이상의 서명, 3차 투표 33건 제로 기록에 이르기까지, 이 타이완 역사상 최대 규모 소환 운동은 한 사람도 소환하지 못했지만, 민주주의의 동원 에너지, 문턱의 높이, 양극화의 대가를 처음으로 동시에 측정해냈다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/history/great-recall-movement-2024",
-    "readingTime": 73,
+    "readingTime": 77,
     "featured": true,
     "date": "2026-04-13",
     "path": "ko/History/great-recall-movement-2024.md"
@@ -164927,6 +165161,17 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "ko/Lifestyle/transportation-system.md"
+  },
+  {
+    "title": "대만 국산 영화: 스크린 옆 그 말하는 사람, 그리고 죽었다 다시 살아난 영화사",
+    "description": "1930년 극장에서, 변사가 스크린 옆에 서서 대만어로 무성 영화에 즉흥 대사를 읊었다; 90년 후, 《해각칠호》가 다섯 가지 언어를 다시 스크린 위로 불러왔다. 대만어 영화는 한때 세계 3대 극영화 제작국이었으나 질식사당했고, 신영화가 베니스에서 금사자상을 받던 그 시절, 극장의 국산 영화 흥행 수입은 고작 0.36%로 추락했다. 국산 영화는 엉망에서 훌륭해지는 직선이 아니라, 거듭 죽음이 선고되었다가 다시 살아난 역사다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/art/taiwanese-cinema",
+    "readingTime": 114,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ko/Art/taiwanese-cinema.md"
   },
   {
     "title": "대만 궈웨(國樂): 중국 악기 위에서 자라난 섬의 소리",
@@ -165312,7 +165557,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/food/taiwan-banquet-culture",
-    "readingTime": 89,
+    "readingTime": 88,
     "featured": false,
     "date": "2026-03-30",
     "path": "ko/Food/taiwan-banquet-culture.md"
@@ -166708,6 +166953,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ko/Food/daxi-dried-tofu.md"
+  },
+  {
+    "title": "대안시 이천검: 동아시아에서 가장 높은 나무, 우리가 닿을 수 없는 곳에 700년간 숨어 있다",
+    "description": "2023년 음력 설날, '나무 찾는 사람들' 팀이 계곡을 거슬러 7일간 올라 대안시 발원지 인근, 좀처럼 사람의 발길이 닿지 않는 깊은 골짜기에서 한 대만삼나무의 나무 꼭대기에서 줄자를 내려뜨렸다 — 84.1미터, 동아시아 최고(最高)의 나무. 이 나무는 라이더(LiDAR) 예측보다 4.6미터 더 높았다. 매년 태풍이 불고, 산사태와 홍수가 잦은 섬, 마땅히 이런 높이의 생명을 간직할 수 없는 섬이지만, 바로 인간이 닿을 수 없는 계곡에 자랐기에 대벌채를 피하고 700년을 버텼다. 똑같은 '닿을 수 없음'이 그것을 살게도 했지만, 우리가 섬 전체를 라이더로 스캔하고 나서야 올해 비로소 그것을 볼 수 있게 했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/nature/daan-river-yitian-sword",
+    "readingTime": 102,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "ko/Nature/daan-river-yitian-sword.md"
   },
   {
     "title": "대우쌍검: 그 오후 당신은 DOS 창에서 울었다",
@@ -168622,6 +168878,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "ko/Technology/lifting-of-press-ban.md"
+  },
+  {
+    "title": "보이지 않는 타이완: 한 편의 강신 다큐멘터리와 그것이 마주친 화해 법회",
+    "description": "2018년 개봉한 《보이지 않는 타이완》은 각본가 림밍첸의 첫 장편 다큐멘터리다. 그는 원래 강신만 촬영하려 했으나 촬영 첫날 여러 신명이 \"컷!\"을 외쳐 먼저 집안일을 정리하라고 했다. 4년 뒤 카메라는 네 명의 강신 여성과 한 명의 천어 번역가를 따라 타이난 루얼먼 시내까지 가서, 정성공과 시라야족을 위해 아무도 예상하지 못했던 화해 법회를 열었다. 118분, 타이베이 표 수익 110만 신타이완 달러. 남겨진 것은 타이완 민간신앙의 현장 기록이다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/art/invisible-taiwan",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ko/Art/invisible-taiwan.md"
   },
   {
     "title": "복잡한 생활 축제: 두 의대생의 '미성공자 포럼', 그리고 자신이 충분하다고 말하지 않는 한 세대의 5년",
@@ -173488,6 +173755,24 @@
     "path": "ko/Politics/first-direct-presidential-election.md"
   },
   {
+    "title": "청록을 넘어선 네 가지 척도: 한 뙈기 논에서 한 장의 건강보험카드까지, 자신의 정치를 넘어 살아남은 대만의 정책들",
+    "description": "한 독자가 청록 밥상머리의 서로 헐뜯음에 지쳐, 진정으로 대만에 좋은 일을 기억하고 싶어 했다. 그래서 우리는 70년 동안의 열한 가지 정책을 찾아냈다. 권위주의 시절 강제로 농지를 수용한 토지개혁, 해엄, 전민건강보험부터, 아직 논란 중인 동성혼과 전망까지. 일부러 청록의 잣대를 쓰지 않고, 민생·민주·민권·주권이라는 네 가지 잣대를 썼다. 결론은 다소 반직관적이다: 자신의 당파적 출신을 넘어 살아남은 정책일수록, 탄생한 날이 가장 치열하게 싸우던 날인 경우가 많다.",
+    "category": "ko",
+    "tags": [
+      "대만 역사",
+      "정책",
+      "민주화",
+      "초당파",
+      "전환기 정의",
+      "정책과 제도"
+    ],
+    "url": "https://taiwan.md/ko/history/bipartisan-good-policy",
+    "readingTime": 111,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "ko/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "청수단애: 판 충돌이 낳은 절경의 상처와 생명의 인내",
     "description": "1874년, 청나라 대신 대순(羅大春)이 군대를 이끄는 소화고도(蘇花古道)를 개척하며 이 해안 동쪽의 험준한 길을 열었다. 청수단애(清水斷崖)는 대리암과 편암으로 이루어진 수직 절벽으로, 대만 동부 지질 진화의 축소판일 뿐만 아니라 고유 식물과 바다 문학의 영감의 원천이기도 하며, 동시에 환경과 안전이라는 이중적 도전에 직면해 있다.",
     "category": "ko",
@@ -174203,17 +174488,6 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "ko/Culture/taiwan-variety-shows.md"
-  },
-  {
-    "title": "타이완 국산 영화: 스크린 옆에서 말하던 사람, 그리고 죽고 다시 살아난 영화사",
-    "description": "1930년대 극장 안, 변사(辯士)는 무성 영화 옆에 서서 타이완어(대만어)로 즉흥적인 해설을 덧붙였다. 90년 후, <해각칠호>는 다섯 가지 언어를 동시에 스크린으로 불러들였다. 타이완어 영화는 한때 세계 3대 드라마 장르 생산국이었으나 말살되었고, 새로운 영화들이 베니스에서 황금사자상을 거머쥐던 시절 극장 내 국산 영화의 관객 점유율은 0.36%까지 추락했다. 국산 영화는 단순히 나쁜 것에서 좋은 것으로 변해온 직선이 아니라, 반복적으로 죽음이 선언되고 다시 살아난 역사의 기록이다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/art/taiwanese-cinema",
-    "readingTime": 104,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ko/Art/taiwanese-cinema.md"
   },
   {
     "title": "타이완 군사 이장(眷村) 역사",
@@ -175842,6 +176116,17 @@
     "path": "ko/History/taiwan-north-korea-relations.md"
   },
   {
+    "title": "타이완과 아시안게임: 나고야에서 탄생한 이름, 47년 후 다시 나고야로",
+    "description": "2026년 10월 4일 나고야 아시안게임 폐막식에서 중화 대표단이 금메달 5개, 은메달 17개, 동메달 33개를 거두며 메달 순위 15위를 기록했다. 개막식에서는 중화올림픽위원회 깃발을 들었고, 시상식에서는 국기가를 울렸다. 이 모든 안배는 1979년 10월 국제올림픽위원회가 나고야에서 내린 결의에서 비롯됐다. 타이완은 1954년 마닐라 아시안게임에 처음 참가해 금메달 2개를 획득했는데, 그 중 하나는 양전광의 10종 경기였다. 1973년 회원 자격이 38대 13으로 박탈되었고, 이 결석은 20년간 지속되다가 1990년 베이징 아시안게임에서 그 이름으로 다시 무대에 올랐다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/society/taiwan-asian-games",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-10-13",
+    "path": "ko/Society/taiwan-asian-games.md"
+  },
+  {
     "title": "타이완과 원자력 논의: 탈핵은 한때 민주화 운동의 공통 언어였으나, 기후 위기가 모든 진영의 판을 다시 짰다",
     "description": "2025년 8월, 434만 명이 「핵3 재가동」 찬성표를 던져 74%를 얻었지만, 투표율이 문턱을 넘지 못해 패배로 계산되었다. 40년 동안 세 차례 국민투표를 거치며, 타이완은 탈핵 합의에서 비핵 가원으로 나아갔다가 다시 석 달 만에 스스로 꺼 둔 원자로를 재가동의 길로 밀어 넣었다. 이 논쟁은 이미 「원자력이 좋은가 나쁜가」라는 양자택일을 넘어섰다. 핵폐기물은 10만 년 동안 안정되어야 하고, 탄소 감축은 10년 안에 달성해야 하며, 전력 부족은 바로 지금의 문제인 상황에서 한 사회가 시간 압력이 서로 반대인 일을 어떻게 결정할 것인가의 문제다.",
     "category": "ko",
@@ -176553,7 +176838,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/culture/taiwanese-childhood-english-names",
-    "readingTime": 86,
+    "readingTime": 85,
     "featured": true,
     "date": "2026-06-17",
     "path": "ko/Culture/taiwanese-childhood-english-names.md"

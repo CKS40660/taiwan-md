@@ -10120,6 +10120,17 @@
     "city": "南投"
   },
   {
+    "title": "La Espada Yitian del Río Daan: el árbol más alto de Asia Oriental, oculto durante 700 años en un lugar inaccesible para nosotros",
+    "lat": 24.565211,
+    "lng": 120.820014,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
+    "city": "苗栗"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.165283,
     "lng": 121.439485,
@@ -11561,6 +11572,17 @@
     "city": "高雄"
   },
   {
+    "title": "Pedang Yitian Sungai Daan: Pohon Tertinggi di Asia Timur, Tersembunyi di Tempat yang Tak Bisa Kita Capai Selama Tujuh Ratus Tahun",
+    "lat": 24.55984,
+    "lng": 120.818002,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Pada perayaan Tahun Baru Imlek 2023, tim \"Pencari Pohon\" menelusuri sungai selama tujuh hari, di hulu Sungai Daan di sebuah lembah dalam yang hampir tidak bisa dijangkau orang, mereka menurunkan pita ukur dari mahkota seorang pohon cemara Taiwan — 84,1 meter, pohon tertinggi di Asia Timur. Ia lebih tinggi 4,6 meter dari prediksi LiDAR. Sebuah pulau yang setiap tahun dilanda badai taiup, longsor, dan banjir, seharusnya tidak mampu mempertahankan kehidupan setinggi ini; tetapi justru karena tumbuh di lembah yang tidak bisa dijangkau manusia, ia luput dari penebangan massal dan bertahan selama tujuh ratus tahun. Keterjangkauan yang sama yang membuatnya selamat, juga membuat kita harus memindai seluruh pulau dengan laser, baru tahun ini kita melihatnya untuk pertama kalinya.",
+    "city": "苗栗"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.166865,
     "lng": 121.435926,
@@ -11979,14 +12001,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた蘇った映画史",
+    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた生き返った映画史",
     "lat": 25.039673,
     "lng": 121.55789,
     "category": "art",
     "region": "north",
     "link": "/ja/art/taiwanese-cinema",
     "lang": "ja",
-    "desc": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を当てた。90年後、『海角七号』が5つの言語を一緒に銀幕へ呼び戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが、息の根を止められた。新映画がヴェネツィアで金獅賞を獲ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではない。何度も死を宣告され、そのたびに蘇ってきた歴史だ。",
+    "desc": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を付けた。90年後、『海角七号』が5つの言語を一緒に銀幕に戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが扼殺され、新映画がヴェネツィアで金獅賞を取ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではなく、繰り返し死を宣告されながら蘇ってきた歴史だ。",
     "city": "台北"
   },
   {
@@ -12782,14 +12804,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾人が子どもの頃にもらった英語名：Mary、Kevin と補習班教師の命名権",
+    "title": "台湾人の子供時代の英語名：メアリー、ケビンと塾の先生の命名権",
     "lat": 25.029998,
     "lng": 121.562746,
     "category": "culture",
     "region": "north",
     "link": "/ja/culture/taiwanese-childhood-english-names",
     "lang": "ja",
-    "desc": "補習班でページをめくる時間から、パスポートのローマ字表記、スターバックスのカウンターまで、その名前は一度も自分で選んだものではありませんでした。1983 年の何嘉仁、1987 年の芝麻街美語による「NO CHINESE, ENGLISH PLEASE」から、2024 年に立法院が法改正し族名の単独記載を認めるまでの命名史をたどり、問題をあの 30 秒の沈黙へと戻します。",
+    "desc": "塾でページをめくるところからパスポートのローマ字表記、スターバックスのカウンターまで、その名前は決してあなたが選んだものではありません。1983年の何嘉仁、1987年のセサミストリート英語の「NO CHINESE, ENGLISH PLEASE」から2024年の立法院法改正で単独民族名の記載が認められるまでの命名の歴史が、あの30秒の沈黙に問題を還元します。",
     "city": "台北"
   },
   {
@@ -15169,14 +15191,14 @@
     "city": "花蓮"
   },
   {
-    "title": "青と緑を越える四つの物差し：一枚の田から一枚の健保カードまで、台湾で自らの政治を越えて生き残った政策",
+    "title": "藍緑（国民党・民進党）以外の4つの尺度：一塊の田から一枚の健康保険証まで、台湾における政争を超越した政策たち",
     "lat": 24.144444,
     "lng": 120.673438,
     "category": "history",
     "region": "central",
     "link": "/ja/history/bipartisan-good-policy",
     "lang": "ja",
-    "desc": "ある読者は、青と緑が食卓で罵り合う光景にうんざりし、本当に台湾にとってよかったことを記憶したいと考えました。そこで私たちは、過去七十年の十一の政策を取り上げました。権威主義体制が農地を強制徴収した土地改革、戒厳令解除、全民健康保険から、今なお議論が続く同性婚と前瞻基礎建設までです。あえて青と緑の物差しでは測らず、民生、民主、民権、主権という四つの物差しで見直しました。結論は少し直感に反します。自らの党派的出自を越えて生き残った政策は、生まれたその日にこそ、最も激しく争われていたことが多いのです。",
+    "desc": "藍緑両陣営の罵り合いに疲れ、台湾にとって本当に良い出来事を記憶したいと願う読者がいます。そこで私たちは、過去70年間の11の政策を紐解きました。権威主義下での農地の強制徴収を伴う土地改革、解厳、国民健康保険から、今なお議論が続く同性婚や前瞻インフラ計画まで。あえて藍緑の尺度ではなく、民生、民主、民権、主権という4つの尺度を用いて検証します。結論は少し直感に反するものです。党派の出自を超えて生き残った政策は、その誕生の日こそが最も激しく争われたものでした。",
     "city": "台中"
   },
   {
@@ -19437,6 +19459,17 @@
     "city": "台北"
   },
   {
+    "title": "台湾とアジア大会：名古屋で誕生した名前、47年後に再び名古屋へ",
+    "lat": 25.040645,
+    "lng": 121.566999,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/taiwan-asian-games",
+    "lang": "ja",
+    "desc": "2026年10月4日の名古屋アジア大会閉幕式で、中華隊は金5、銀17、銅33を獲得し、メダル獲得数で15位となりました。開幕式では中華オリンピック委員会の旗を掲げ、表彰式では国旗歌のメロディーが流れました。この取り決めは1979年10月に国際オリンピック委員会が名古屋で決議したものです。台湾は1954年マニラアジア大会に初参加し2つの金メダルを獲得しましたが、1973年に会籍を38対13で除外され、20年間の欠席を経て1990年北京アジア大会でこの名前で復帰しました。",
+    "city": "台北"
+  },
+  {
     "title": "台湾のコミュニティ大学：教室を公共広場に変える",
     "lat": 22.632847,
     "lng": 120.305275,
@@ -20823,6 +20856,17 @@
     "city": "台北"
   },
   {
+    "title": "대안시 이천검: 동아시아에서 가장 높은 나무, 우리가 닿을 수 없는 곳에 700년간 숨어 있다",
+    "lat": 24.558502,
+    "lng": 120.816599,
+    "category": "nature",
+    "region": "central",
+    "link": "/ko/nature/daan-river-yitian-sword",
+    "lang": "ko",
+    "desc": "2023년 음력 설날, '나무 찾는 사람들' 팀이 계곡을 거슬러 7일간 올라 대안시 발원지 인근, 좀처럼 사람의 발길이 닿지 않는 깊은 골짜기에서 한 대만삼나무의 나무 꼭대기에서 줄자를 내려뜨렸다 — 84.1미터, 동아시아 최고(最高)의 나무. 이 나무는 라이더(LiDAR) 예측보다 4.6미터 더 높았다. 매년 태풍이 불고, 산사태와 홍수가 잦은 섬, 마땅히 이런 높이의 생명을 간직할 수 없는 섬이지만, 바로 인간이 닿을 수 없는 계곡에 자랐기에 대벌채를 피하고 700년을 버텼다. 똑같은 '닿을 수 없음'이 그것을 살게도 했지만, 우리가 섬 전체를 라이더로 스캔하고 나서야 올해 비로소 그것을 볼 수 있게 했다.",
+    "city": "苗栗"
+  },
+  {
     "title": "타이완의 산림 생태계",
     "lat": 23.465347,
     "lng": 120.954648,
@@ -22163,6 +22207,17 @@
     "lang": "zh-TW",
     "desc": "Năm 1946 Đài Loan chuyển từ lái trái sang lái phải trong một đêm. Dãy núi Trung ương dài 273 km nằm dọc nam bắc, cắt hòn đảo 36.000 km² thành hai phần đông tây. Sáu mươi năm sau, tàu cao tốc nén 394 km thành 90 phút; hầm Tuyết Sơn nén chặng Đài Bắc-Nghi Lan từ 2 giờ xuống 40 phút. Mười năm sau nữa, 14 triệu chiếc xe máy tấn át mọi ngã tư. Câu chuyện giao thông của hòn đảo này, chính là câu chuyện định vị của nó.",
     "city": "桃園"
+  },
+  {
+    "title": "Ỷ Thiên Kiếm bên dòng Đại An Khê: Cây cao nhất Đông Á ẩn mình suốt 700 năm nơi con người không thể chạm tới",
+    "lat": 24.566661,
+    "lng": 120.823402,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Vào dịp Tết Nguyên Đán năm 2023, đội ngũ Tìm Cây đã thực hiện chuyến ngược dòng suối kéo dài bảy ngày. Tại một thung lũng sâu gần như không dấu chân người ở thượng nguồn sông Đại An Khê, họ đã thả thước dây từ ngọn của một cây Thần mộc Đài Loan xuống — đạt tới 84,1 mét, trở thành cây cao nhất Đông Á. Con số này cao hơn 4,6 mét so với dự đoán của công nghệ LiDAR. Trên một hòn đảo vốn thường xuyên chịu bão lũ và sạt lở, lẽ ra không thể duy trì được sự sống ở độ cao như vậy; nhưng chính nhờ sinh trưởng tại thung lũng nơi con người không thể tiếp cận, nó mới tránh được nạn khai thác gỗ quy mô lớn và trụ vững suốt 700 năm qua. Chính sự \"không thể chạm tới\" ấy vừa giúp nó tồn tại, vừa khiến chúng ta phải dùng tia laser quét qua toàn bộ hòn đảo mới có thể lần đầu tiên nhìn thấy nó trong năm nay.",
+    "city": "苗栗"
   },
   {
     "title": "Bướm xanh Đài Loan: Tầng nhiều thành thị trong rừng nguyen sinh, chiến tranh bảo vệ gen kéo dài hàng trăm năm",
