@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
-last_updated: 2026-10-13
-last_session: '2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-10-14
+last_session: '2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -803,23 +803,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **重寫要處理的**：數字幾乎全來自《新新聞》2022-09 與關鍵評論網 2023-10 兩篇，重寫要換成各捷運公司年報與交通部最新統計，並把時間點寫進句子；零腳註，參考資料有四條只是首頁網址。骨架是「一條線一個教訓」的編年加兩張表，結尾三個策展人筆記都在下評價。兄弟篇〈文湖線〉（8 月，有腳註）已把木柵線與馬特拉寫得比本篇細，重寫時兩篇分工：本篇寫全台路網的錢與代價，木柵線細節指過去。台中事故罹難者姓名與判決照 EDITORIAL 紀實而不煽情處理，補二審結果
   - featured、譯本 12 語
 - **Reference**: [reports/research/2026-10/台灣捷運發展史.md](../../reports/research/2026-10/台灣捷運發展史.md)
-
-### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
-- **Angle-expires**: evergreen（2026-10-08 心跳改：亞運 10-04 閉幕，「進行中」的鉤子失效；主脊「這個名字怎麼來、選手怎麼在名字底下比賽」是常青題，開場改用賽後畫面，奪牌數改用中華奧會賽後官方統計；P0 是哲宇點的，優先序不動）
-- **Notes**:
-  - **2026-10-11 news-lens W41 補**：10/4 閉幕，中華代表團 5 金 17 銀 33 銅、獎牌榜第 15（聯合一周大事），報導稱是 1990 北京亞運零金後金牌最少的一屆，主因之一是上屆貢獻 9 金的滑輪溜冰、橋牌、圍棋未列入本屆項目；5 金分散在軟式網球、游泳（王冠閎）、田徑（傅兆玄）、拳擊（林郁婷 60 公斤級二連霸）、網球女雙。賽後官方統計回中華奧會
-  - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
-  - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景
-  - 必驗：482 人／34 項回中華奧會官方數字；1974 除名年份；1990 重返時正式名稱使用時點
-  - 順手 EVOLVE：〈郭婞淳〉（2026-03-19）〈楊勇緯〉（2026-03-21）亞運後各補一節結果
-  - 站上零篇亞運文章；〈中華台北〉〈台灣體育發展與奧運〉都繞奧運寫；本檔「台灣體育發展與國際賽事 NEW P1」可併入或改切角
-- **Reference**: [遠見](https://www.gvm.com.tw/article/132893) / [聯合 中華隊啟程](https://udn.com/news/story/124981/9760951) / [運動視界](https://www.sportsv.net/articles/128552)
 
 ### 科技監控與電子腳鐐 NEW — 張俊傑剪掉手鐶之後：台灣的替代羈押怎麼運作
 

@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-10-13
-last_session: '2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-10-14
+last_session: '2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,17 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 台灣與亞運 — 2026-10-14 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-13 以 PR #1826 交稿，非走產線）
+
+- **Article**: [knowledge/Society/台灣與亞運.md](../../knowledge/Society/台灣與亞運.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1826 merge），INBOX 條目（2026-09-18 news-radar，哲宇從探測器開的 P0，`Angle-expires: evergreen`）由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：讓台灣選手用「中華台北」出賽的決議 1979 年在名古屋做成，四十七年後亞運第一次回到那座城市
+- **品質**：1989 CJK ／ 9 腳註；`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 皆 hard=0；`lastHumanReview: false`、`curation: incubating`（投稿者自己標好）；word-count 低於 4500 深度門檻（warn，非 hard）
+- **腳註抽驗**：本班 WebFetch／瀏覽器逐條比對 6 之中 6 命中且逐字相符——國家文化記憶庫「26 位旅港的足球員返國飛抵松山機場」、臺史博特展單元二引語全句、Taipei Times 482 人／34 項／150 教練、聯合獎牌榜 5 金 17 銀 33 銅第 15 名（同站一則新聞標題誤寫 23 銅，投稿者取的是表格的 33）、中央社 1954 馬尼拉兩金與楊傳廣 5454 分
+- **INBOX 必驗三條的落點**：482 人／34 項 ✅（Taipei Times 引中央社與體育署，非中華奧會官網但屬權威）；「1974 除名年份」entry 的假設被投稿者的版本修正成 1973 年亞運聯合會 38:13 排除會籍、1974 德黑蘭是 PRC 首次參加 ✅；1990 重返時名稱使用時點 ✅（1989-04-06 香港協議定中文譯名，1990 北京亞運首次以該名進場）
+- **本班處置**：無需 heal。`rationale.where_it_hedges` 自己標明 1973 年 38:13 與 1979 年 62:17 只有維基記載、找不到官方一手文件，本班照此讀、未當成已查證
+- **entry 未兌現的兩項**（不隨本條歸檔消失）：「順手 EVOLVE〈郭婞淳〉〈楊勇緯〉亞運後各補一節結果」未做；「本檔『台灣體育發展與國際賽事 NEW P1』可併入或改切角」仍待處理
 
 ### 傅兆玄 — 2026-10-13 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-12 以 PR #1807 交稿，非走產線）
 
