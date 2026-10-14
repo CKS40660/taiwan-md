@@ -1,11 +1,6 @@
 ---
 title: 'Điện ảnh Đài Loan: người bên cạnh màn hình, và một lịch sử điện ảnh chết lại sống'
 description: 'Năm 1930, một người dịch nghĩa đứng bên cạnh màn hình tại rạp chiếu phim kể lại những bộ phim câm bằng tiếng Đài; chín mươi năm sau, *Phía bắc đầm biển* để năm thứ tiếng cùng vang lên trên màn hình. Phim tiếng Đài từng là quốc gia sản xuất phim tâm trạng lớn thứ ba toàn cầu nhưng bị chặn đứt, những năm Điện ảnh mới Đài Loan giành huy chương vàng ở Venice thì tỷ lệ vé phim quốc gia tại rạp chỉ còn 0,36%. Phim quốc gia không phải là một đường thẳng từ tồi tệ đến tốt, mà là một lịch sử được tuyên bố chết đi và sống lại nhiều lần.'
-translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'cc6f9d9b3'
-sourceContentHash: 'sha256:b60bd097d9577c55'
-sourceBodyHash: 'sha256:9c00635e5ed9da36'
-translatedAt: '2026-08-09T09:26:48+08:00'
 date: 2026-03-23
 category: 'Art'
 tags:
@@ -32,8 +27,12 @@ image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
 imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
-relatedDiary:
-  - 2026-06-13-183725-深度研究-台灣電影
+relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
+translatedFrom: 'Art/台灣電影.md'
+sourceCommitSha: 'b07b48849'
+sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceBodyHash: 'sha256:d018fcf42d34d25c'
+translatedAt: '2026-10-14T05:09:55.663722+00:00'
 ---
 
 # Điện ảnh Đài Loan: người bên cạnh màn hình, và một lịch sử điện ảnh chết lại sống
@@ -81,37 +80,25 @@ Chặt ngắn nó là chính sách, không phải khán giả. Năm 1957 sửa �
 
 Năm 1969, sản lượng phim tiếng Quan Thoại lần đầu tiên vượt phim tiếng Đài[^15]. Bộ phim tiếng Đài cuối cùng là năm 1981, _Trần Tam Ngũ Nương_ do Dương Lệ Hoa đóng chính[^16]. Cho đến những năm 1990, các nhà nghiên cứu mới bắt đầu giải cứu đoạn lịch sử này; cho tới 2017, Viện Vương quốc Luân Đôn mới tổ chức hội thảo học thuật tiếng Anh chuyên về phim tiếng Đài[^17]. Một ngành sản xuất phim tâm trạng từng lớn thứ ba toàn cầu, phải chờ cho đến khi nó chết đi ba mươi năm, cách xa nửa trái đất, mới cuối cùng có người công khai coi nó như một phần lịch sử.
 
-## Những thứ lành mạnh, hiện thực, và cấm chạm
+## Khỏe mạnh, viết thực, không được chạm
 
-Khi phim tiếng Đài rút khỏi, màn hình bị một ngôn ngữ khác tiếp quản.
+Phim tiếng Đài rút lui cùng lúc, màn ảnh bị một ngôn ngữ khác tiếp quản.
 
-Tháng 9 năm 1954, Công ty Giáo dục Nông nghiệp và Công ty Điện ảnh Đài Loan hợp nhất thành Công ty Điện ảnh Trung ương (Trung ảnh), dùng thiết bị viện trợ Mỹ[^18]. Phim tiếng Quan Thoại có nền tảng công nghiệp, nhưng hướng đi của nó được quyết định bởi chính sách. Năm 1963, Công Hồng nhận chức Tổng giám đốc Trung ảnh, đưa ra một đường hướng gọi là \"hiện thực lành mạnh\". Anh ta đưa ra một định nghĩa rất chính xác: \"lành mạnh là giáo dục, hiện thực là nông thôn\"[^19].
+Tháng 9 năm 1954, Công ty Nông nghiệp Giáo dục và Công ty Điện ảnh Đài Loan hợp nhất thành lập Công ty Điện ảnh Trung ương, viết tắt là Trung Ảnh, dùng thiết bị viện trợ Mỹ[^18]. Phim tiếng Quốc ngữ có了 cơ sở công nghiệp, mà hướng đi của nó do chính sách quyết định. Năm 1963, Khổng Hồng nhậm chức Tổng giám đốc Trung Ảnh, tung ra một đường lối gọi là 「Khỏe mạnh Viết thực」. Ông cho một định nghĩa rất chính xác: 「Khỏe mạnh là giáo hóa, Viết thực là làng xã」[^19].
 
-Sáu chữ này đáng dừng lại. Nó nói rằng: phim phải hiện thực, nhưng chỉ có thể hiện thực nông thôn kiểu sạch sẽ, có thể giáo dục tâm hồn, không phải bóng tối xã hội, không phải xung đột thực sự. Năm 1964, _Cô gái Hàu_ là tác phẩm đại diện của đường hướng này, đó là bộ phim màu sắc rộng mở đầu tiên tự làm của Trung ảnh (chú ý, không phải \"bộ phim màu Đài Loan đầu tiên\"), được Lý Giai và Lý Hành cùng đạo diễn, còn giành Giải phim kịch tốt nhất lần thứ 11 tại Liên hoan phim châu Á[^20]. Năm tiếp theo _Nông trang nuôi vịt_ tiếp tục cùng một đường hướng.
+Sáu chữ này đáng để dừng lại suy nghĩ. Nó nói: điện ảnh phải viết thực, nhưng chỉ được viết loại viết thực của làng xã ấy trong sáng, có thể giáo hóa nhân tâm, không phải mặt tối của xã hội, không phải xung đột thực sự. Năm 1964, 《Nàng Ơ》 là tác phẩm đại diện của đường lối này, nó là bộ phim màu màn rộng tự sản xuất đầu tiên của Trung Ảnh (chú ý, không phải 「Đài Loan bộ phim màu đầu tiên」), do Lý Gia, Lý Hành cùng đạo diễn, còn giành giải Phim truyện hay nhất Liên hoan phim Châu Á lần thứ 11[^20]. Năm sau 《Gia đình nuôi vịt》 tiếp tục cùng một con đường.
 
-Ngoài hiện thực lành mạnh, từ những năm 1960 đến 70 năm đó, phim tiếng Quan Thoại còn có ba lực lượng chạy đồng thời.
+Ngoài Khỏe mạnh Viết thực, phim tiếng Quốc ngữ thập niên 1960–1970 còn có ba luồng lực lượng cùng vận hành.
 
-Một lực lượng là phim văn học nghệ thuật của Kiều Nhạo. Bắt đầu từ _Vãn Quân Biểu Muội_ (1965) do Lý Hành đạo diễn, trong năm năm quay khoảng hai mươi lăm bộ, tạo nên một loạt sao[^21]. Nổi tiếng nhất là \"hai Tần hai Lâm\", Tần Hàn, Tần Tường Lâm, Lâm Thanh Hạ, Lâm Phượng Kiều. Lâm Thanh Hạ năm 1973 ra mắt nhờ _Ngoài cửa sổ_, sau này trở thành huyền thoại của điện ảnh tiếng Hoa; Lâm Phượng Kiều năm 1979 giành Nữ diễn viên chính tốt nhất Giải thưởng Tây Mã[^22]. Nước mắt của Kiều Nhạo, là thanh xuân chung của nhiều người thời đó.
+Một luồng là phim văn nghệ của Cửu Nghiêu. Từ năm 1965 Lý Hành đạo diễn 《Khuynh Quân Biểu Mụi》 bắt đầu, năm năm quay khoảng hai mươi lăm bộ, làm nổi tiếng cả một đội ngũ sao[^21]. Nổi tiếng nhất là 「Nhị Tần Nhị Lâm」: Tần Hàn, Tần Tường Lâm, Lâm Thanh Hạ, Lâm Phượng Kiều. Lâm Thanh Hạ năm 1973 nhờ 《Ngoài cửa sổ》 ra mắt, sau thành huyền thoại làng điện ảnh tiếng Hoa; Lâm Phượng Kiều năm 1979 giành Kim Mã Nữ chính hay nhất[^22]. Nước mắt của Cửu Nghiêu, là thanh xuân chung của nhiều người thời đó.
 
-| Năm   | Tác phẩm                                                                                 | Mô tả                                                                                                   |
-| ----- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1925  | _Tội lỗi của ai_                                                                         | Bộ phim tâm trạng đầu tiên tự làm của người Đài Loan, do Hiệp hội Đông Á Điện ảnh Nghiên cứu sản xuất   |
-| 1956  | _Tuyết Bình Quý và Vương Bảo Chuân_                                                      | Gây bão phim tiếng Đài, Đài Loan một lần trở thành quốc gia sản xuất phim tâm trạng lớn thứ ba thế giới |
-| 1963  | Đường hướng hiện thực lành mạnh                                                          | Công Hồng định nghĩa \"lành mạnh là giáo dục, hiện thực là nông thôn\"                                  |
-| 1967  | _Cửa thành Long_                                                                         | Hồ Kim Quân bắt đầu mười năm phim võ hiệp, chiếm ngôi vương phòng vé năm đó                             |
-| 1982  | _Chuyện cũ ánh sáng_                                                                     | Điểm khởi đầu phong trào Điện ảnh mới Đài Loan                                                          |
-| 1989  | _Thành phố đau buồn_                                                                     | Huy chương vàng Venice, giải thưởng cao nhất lần đầu tiên của ba liên hoan phim thế giới cho Đài Loan   |
-| 2008  | _Phía bắc đầm biển_                                                                      | Năm ngôn ngữ, tỷ lệ địa phương nhảy từ 0,36% lên 12,09%                                                 |
-| 2018  | Giải thưởng Tây Mã lần thứ 55                                                            | Phát biểu của Phụ Dũ gây tranh chấp hai bờ eo biển, Trung Quốc năm sau công bố tẩy chay                 |
-| Nguồn | Trung tâm Phim quốc gia và Văn hóa Hình ảnh (TFAI), kỷ lục chính thức các liên hoan phim |                                                                                                         |
+Luồng thứ hai là kiếm hiệp: năm 1967, 《Long Môn Khách Trạm》 của Hổ Kim Quán thành quán quân doanh thu trong năm tại Đài Loan, mở ra trào lưu phim kiếm hiệp kéo dài mười năm[^23]. Hổ Kim Quán không chỉ bán vé tốt, ông quay kiếm hiệp thành một thứ thẩm mỹ. Năm 1975, 《Hiệp Nữ》 của ông tại Liên hoan phim Cannes lần thứ 28 giành Giải thưởng Đại hội đồng Kỹ thuật tối cao, đây là bộ phim tiếng Hoa thứ hai giành giải tại Cannes sau 《Dương Quý Phi》 của Lý Hàn Tường năm 1962[^24]. Một chi tiết nói rõ hoàn cảnh điện ảnh Đài Loan lúc bấy giờ: 《Hiệp Nữ》 được mời bởi nhà phê bình phim Pháp, tham dự dưới danh nghĩa 「Hồng Kông」, không phải do chính phủ Đài Loan đề cử[^24]. Ngôn ngữ kiếm hiệp rừng tre, khoảng trống, nhịp điệu của Hổ Kim Quán, sau ảnh hưởng đến Từ Khắc, cũng ảnh hưởng đến Lý An, cảnh rừng tre trong 《Ngọa Hổ Tàng Long》 chính là tri ân ông[^25].
 
-Lực lượng thứ hai là phim võ hiệp. Năm 1967, _Cửa thành Long_ của Hồ Kim Quân trở thành vương phế phòng vé năm Đài Loan, mở ra thế kỷ của phim võ hiệp kéo dài mười năm[^23]. Hồ Kim Quân không chỉ bán được, anh ta quay phim võ hiệp thành một nghệ thuật. Năm 1975, _Hiệp nữ_ của anh ta giành Giải thưởng Ủy ban Kỹ thuật Cao nhất lần thứ 28 tại Liên hoan phim Cannes, đó là bộ phim tiếng Hoa lần thứ hai giành giải tại Cannes sau _Nữ hoàng Dương Quý Phi_ (1962) của Lý Hàn Tường[^24]. Có một chi tiết rất có thể chỉ rõ tình thế của phim Đài Loan lúc đó: _Hiệp nữ_ được mời bởi các nhà phê bình phim Pháp, theo tên \"Hồng Kông\" tham dự, không phải do chính phủ Đài Loan giới thiệu[^24]. Bộ phim võ hiệp với tre, không gian trống, nhịp điệu của Hồ Kim Quân sau này ảnh hưởng đến Từ Khắc, cũng ảnh hưởng đến Lý An, bộ phim tre trong _Lẩu Hổ Tàng Long_ là lời tưởng nhớ anh ta[^25].
+Luồng thứ ba là phim tuyên truyền yêu nước: năm 1971 Trung Hoa Dân Quốc rút khỏi Liên Hợp Quốc, lòng người bàng hoàng. Một trong những phản ứng của chính phủ, theo lời TFAI, là làm phim 「để ổn định dân tâm, tuyên truyền as làm của chính phủ」[^26]. Năm 1974 《Anh Liệt Thiên Thu》 do tham mưu chính trị Vương Thăng推動, Đinh Thiện Ty đạo diễn, Kha Tuấn Hùng主演, tiếp theo là năm 1976 《Bách Bách Tráng Sĩ》、1977 《Kiền Kiều Anh Liệt Truyền》[^27]. Những bộ phim này trong ký ức của nhiều người, gắn liền với 「trường học bao trường đi xem」; nhưng nói thật, 「trường học bắt buộc bao trường」 việc này tra không thấy tài liệu gốc佐證, chỉ chắc chắn là chúng thường ngày lễ trên truyền hình phát lại[^28].
 
-Lực lượng thứ ba là phim yêu nước tuyên truyền. Năm 1971 Trung Hoa Dân Quốc rút khỏi Liên Hợp Quốc, tâm người dao động. Một trong những phản ứng của chính phủ, theo cách nói của TFAI, là quay phim \"để ổn định tâm dân, ca tụng hành động chính phủ\"[^26]. Năm 1974, _Tinh Anh Thiên Thu_ được Vương Thăng (nhân viên chính trị chiến) thúc đẩy, Đinh Thiện Tú đạo diễn, Khoa Tuấn Hùng đóng chính, tiếp theo là năm 1976 _Tám Trăm Anh Liệt_, năm 1977 _Chiếu Kinh Anh Liệt Truyền_[^27]. Những bộ phim này trong ký ức của nhiều người liên kết với \"nhà trường thuê rạp xem\"; tuy nhiên phải thành thật nói, sự kiện \"nhà trường bắt buộc thuê rạp\" không thể tìm thấy bằng chứng tài liệu gốc, chỉ có thể xác định rằng chúng thường được phát lại trên truyền hình vào các ngày lễ[^28].
+> 📝 **Ghi chú người bảo tàng**: Từ phim tiếng Đài đến Khỏe mạnh Viết thực đến phim yêu nước, nếu lấy 「trên màn ảnh nói gì, được nói gì」 làm một đường chính nhìn, sẽ thấy sử điện ảnh quốc gia thực sự luôn trả lời cùng một câu hỏi — chỉ là câu trả lời do chính sách viết, không phải do khán giả hay người sáng tạo viết. Vấn đề phim tiếng Đài là 「không được dùng ngôn ngữ này quay như người」, vấn đề Khỏe mạnh Viết thực là 「chỉ được viết loại thực tế này」, vấn đề phim yêu nước là 「phim ảnh dùng để làm gì」. Ngôn ngữ, đề tài, mục đích dùng, ba cánh cổng, luân phiên mở đóng.
 
-> 📝 **Ghi chú của người lựa chọn triển lãm**: Từ phim tiếng Đài đến hiện thực lành mạnh đến phim yêu nước, nếu lấy \"màn hình nói gì, có thể nói gì\" làm một đường chính, sẽ phát hiện lịch sử phim quốc gia thực ra luôn trả lời cùng một câu hỏi — chỉ là câu trả lời được viết bởi chính sách chứ không phải bởi khán giả hay người sáng tạo. Vấn đề của phim tiếng Đài là \"không được dùng ngôn ngữ này quay tốt\", vấn đề của hiện thực lành mạnh là \"chỉ được viết một loại thực tại này\", vấn đề của phim yêu nước là \"điện ảnh được dùng để làm gì\". Ngôn ngữ, chủ đề, mục đích, ba cửa sở, lần lượt mở đóng.
-
-Đáng nhắc tới là sự ra đời của hai chữ \"Tây Mã\". Năm 1957, dân gian từng dùng tên \"Giải thưởng Tây Mã\" tổ chức một lần liên hoan phim tiếng Đài, chỉ tổ chức một lần[^29]. Năm 1962, Cục Tin tức thành lập Giải thưởng Tây Mã chính thức, về danh nghĩa chỉ trao cho phim tiếng Quan Thoại, thời gian trao giải cố ý sắp xếp xung quanh sinh nhật của Tưởng Trung Chính[^29]. Cùng một tên, trước tiên thuộc về phim tiếng Đài, sau đó bị buộc về phim tiếng Quan Thoại, chính điều này trong chính nó là một chú thích nhỏ của chính trị ngôn ngữ thời đó.
+Đáng nói đến nguồn gốc hai chữ 「Kim Mã」. Năm 1957, dân gian từng dùng danh 「Giải Kim Mã」 tổ chức một lần liên hoan phim tiếng Đài, chỉ làm một lần[^29]. Năm 1962, Cục Tin tức sáng lập Giải Kim Mã chính thức, về danh nghĩa chỉ trao cho phim tiếng Quốc ngữ, thời gian lễ trao giải còn đặc biệt sắp xếp quanh sinh nhật Tưởng Trung Chính[^29]. Cùng một cái tên, trước thuộc về phim tiếng Đài, sau bị thu hồi cho phim tiếng Quốc ngữ, chính bản thân đó đã là chú thích chân trang nhỏ bé của chính trị ngôn ngữ thời đó.
 
 ## Cái táo bị cắt đi
 
@@ -143,39 +130,40 @@ Người thứ ba là Thái Minh Lương. Bắt đầu từ _Thiếu niên Na Tr
 
 Về vị trí của ba đạo diễn này trong lịch sử phim, cũng có một phiên bản thường được nói sai cần chỉnh sửa. Cách nói lưu truyền là \"có ba bộ phim Đài Loan trong danh sách trăm phim tuyệt vời của Tạp chí Điện ảnh Pháp\", điều này sai. Kiểm tra danh sách trăm phim vĩ đại của _Tạp chí Điện ảnh_ (Cahiers du Cinéma) năm 2008, bên trong không có bất kỳ bộ phim Đài Loan nào[^44]. Những người thực sự đưa phim Đài Loan vào là _Sight & Sound_ (Sight & Sound) 2022 danh sách phim vĩ đại nhất: _Sự kiện giết người thiếu niên Gu Ling Street_ của Dương Đức Xương xếp hạng 78, _Một Một_ xếp hạng 90[^45].
 
-## Được giải thưởng, không ai xem
+## Được giải, không người xem
 
-Đây là bước ngoặt phản trực giác nhất trong toàn bộ lịch sử phim quốc gia, cũng là nơi dễ bị nói thành một bài học độc hại.
+Đây là bước ngoặt nhất ngược trực giác trong toàn bộ lịch sử điện ảnh quốc gia, cũng là nơi dễ bị biến thành "món canh gà độc" nhất.
 
-Điện ảnh mới giành Huy chương vàng ở châu Âu, giành Đạo diễn tốt nhất, lần đầu tiên Điện ảnh Đài Loan được thế giới thấy. Nhưng trong cùng khoảng thời gian đó, ở các rạp chiếu phim Đài Loan, phim quốc gia đang chết đi. Từ năm 1996, sản lượng phim địa phương mỗi năm rơi xuống 15 đến 20 bộ, tỷ lệ thị trường chỉ còn 1 đến 2 phần trăm[^46]. Đáy vực là năm 2003: năm đó toàn Đài Loan chỉ quay khoảng 15 bộ phim quốc gia, tổng doanh thu vé khoảng 15 triệu đồng tệ mới Đài Loan, chiếm 0,36% toàn bộ doanh thu phòng vé Đài Loan, còn không đến một phần trăm[^47].
+Tân Điện Ảnh tại châu Âu giành Giải Vàng Venice, giành Giải Đạo Diễn Xuất Sắc, điện ảnh Đài Loan lần đầu tiên được thế giới nhìn thấy. Nhưng trong cùng khoảng thời gian đó, trong các rạp chiếu phim tại Đài Loan, phim quốc gia đang chết đi. Từ năm 1996, sản lượng phim bản địa hàng năm giảm xuống 15 đến 20 bộ, tỷ lệ thị phần chỉ còn 1 đến 2%[^46]. Đỉnh điểm thấp nhất là năm 2003: năm đó toàn Đài Loan chỉ quay khoảng 15 bộ phim quốc gia, tổng doanh thu vé khoảng NT$15 triệu, chiếm 0,36% tổng doanh thu vé toàn Đài Loan, chưa đến 1%[^47].
 
 ```tw-bars
-2003 Đáy vực | 0.36 | Toàn Đài Loan chỉ quay khoảng 15 bộ phim quốc gia
-2006 Tăng từ từ | 1.62
-2008 Phía bắc đầm biển | 12.09 | Nhảy tăng hơn 30 lần
-2011 Các chiến sĩ Sedek | 17.46 | Điểm cao lịch sử lúc bấy giờ
+2003 Đáy | 0.36 | Toàn Đài chỉ khoảng 15 bộ phim quốc gia
+2006 Tăng dần trở lại | 1.62
+2008 Hải Giác Thất Hào | 12.09 | Tăng nhảy hơn 30 lần
+2011 Xà Đắc Bá Lai | 17.46 | Đỉnh cao lịch sử lúc bấy giờ
 2024 Gần đây | 10
-Nguồn: Tạp chí Đài Loan Quang Hoa, TFAI thống kê (tỷ lệ thị trường phim quốc gia nội địa %)
+Nguồn: Tạp chí Quang Hoa Đài Loan, thống kê TFAI (tỷ lệ thị phần phim bản địa %)
 ```
 
-0,36%. Nói con số này ra: một trăm người vào rạp chiếu phim Đài Loan, không ai là đi xem phim quốc gia. Và chính vào những năm đó, tên của Hầu Hiếu Hiền, Dương Đức Xương, Thái Minh Lương lấp lánh ở Cannes và Venice. Bộ phim của một hòn đảo, nở hoa bên ngoài bức tường, héo tàn bên trong.
+0,36%. Hãy đọc con số này: một trăm người vào rạp chiếu phim tại Đài Loan, không một người nào đi xem phim quốc gia. Mà ngay trong những năm đó, tên tuổi của Hầu Hiếu Hiền, Dương Đức Xương, Thái Minh Liang tại Cannes và Venice lấp lánh. Điện ảnh của một hòn đảo, nở hoa bên ngoài tường, tàn úa bên trong tường.
 
-Dân gian vì thế dài ra một cách nói, và nói nó rất suôn: \"Tất cả là lỗi của Điện ảnh mới. Những bộ phim nghệ thuật đó vừa ngột ngạt vừa không hiểu, đuổi khán giả đi, phim quốc gia mới chết.\"
+Dân gian do đó nảy sinh một luận điểm, và nó được truyền miệng rất nhanh: "Đều do Tân Điện Ảnh hại. Những bộ phim nghệ thuật ấy chán nản, khó hiểu, đã đuổi mất khán giả, phim quốc gia mới chết."
 
-Cách nói này cần phải xem xét kỹ, vì nó đằng sau là sự tức giận thực sự, rất nhiều người thực sự vào rạp không hiểu, xem đến ngủ, rồi không bao giờ vào lại xem phim quốc gia. Nhưng gán tất cả sự suy tàn phim quốc gia vào đầu Điện ảnh mới, là lấy một sự sụp đổ đa yếu tố mà đơn giản hóa nó thành một kẻ chịu tội.
+Luận điểm này cần được đối xử nghiêm túc, vì phía sau nó là sự oán giận thật sự, nhiều người thực sự vào rạp không hiểu, xem đến ngủ gật, rồi không bao giờ quay lại xem phim quốc gia. Nhưng đổ toàn bộ suy thoái của phim quốc gia lên đầu Tân Điện Ảnh, là đơn giản hóa một sự sụp đổ đa nguyên nhân thành một con chiên đền tội.
 
-Điện ảnh mới thực sự khiến một phần khán giả xa rời thói quen xem phim thương mại chính thống, điều này không cần phủ nhận. Nhưng sự sụp đổ phim quốc gia từ những năm 1990 đến 2000 có những nguyên nhân cấu trúc sâu hơn đang hoạt động cùng lúc: những bộ phim bom tấn Hollywood tấn công toàn bộ thị trường Đài Loan, sau khi Đài Loan gia nhập WTO hạn ngạch nhập khẩu phim nước ngoài bị nới lỏng, băng video và đài thứ tư thay đổi cách mọi người xem phim, vốn địa phương hàng loạt rút khỏi ngành phim, các kênh rạp cũng bị giữ bởi phim nhập khẩu[^48]. Một ngành công nghiệp bị áp chí đơn bởi toàn bộ bộ máy này, không phải bị đuổi bởi một vài bộ phim nghệ thuật đã giành giải.
+Tân Điện Ảnh xác thực khiến một bộ phận khán giả tạo ra khoảng cách với thói quen xem phim thương mại chính lưu, điểm này không cần tránh né. Nhưng sự sụp đổ của phim quốc gia trong thập niên 1990 đến 2000, có những nguyên nhân cấu trúc hơn đang tác động cùng lúc: Hollywood blockbuster tại Đài Loan công phá toàn diện, sau khi Đài Loan gia nhập WTO thì hạn ngạch nhập khẩu phim ngoại buông lỏng, băng video và kênh thứ tư thay đổi cách mọi người xem phim, vốn bản địa rút khỏi ngành điện ảnh số lượng lớn, kênh phân phối rạp chiếu cũng bị phim nhập khẩu độc chiếm[^48]. Một ngành công nghiệp bị ép xuống bởi toàn bộ bộ máy đó cùng lúc, không phải bị vài bộ phim nghệ thuật đoạt giải đuổi đi.
 
-> 📝 **Ghi chú của người lựa chọn triển lãm**: Lý do \"Điện ảnh mới làm chết phim quốc gia\" hấp dẫn là vì nó biến một sự sụp đổ thị trường phức tạp thành một câu chuyện có khuôn mặt — có kẻ xấu (những đạo diễn không hiểu được), có nạn nhân (những khán giả không hiểu được). Nhưng sự thật thường không có khuôn mặt. Coi Hầu Hiếu Hiền, Dương Đức Xương là thủ phạm sự suy tàn phim quốc gia, bằng cách yêu cầu một nhóm người sáng tạo chịu trách nhiệm về sự sụp đổ toàn bộ hệ sinh thái ngành công nghiệp. Giá của họ thực sự là một thứ khác: đã được giải thưởng hạng thế giới, nhưng không thể trao đổi lấy khán giả quê hương — vinh dự và thị trường, trong mười mấy năm đó là hoàn toàn tách rời một trong hai sự việc.
+> 📝 **Ghi chú người biên soạn**: Luận điểm "Tân Điện Ảnh giết chết phim quốc gia" có sức hút là vì nó biến một sự sụp đổ thị trường phức tạp thành một câu chuyện có khuôn mặt — có kẻ xấu (đạo diễn làm phim khó hiểu), có nạn nhân (khán giả không hiểu phim). Nhưng sự thật thường không có khuôn mặt. Đặt Hầu Hiếu Hiền, Dương Đức Xương làm thủ phạm chính khiến phim quốc gia suy thoái, tương đương yêu cầu một nhóm người sáng tạo chịu trách nhiệm cho sự sụp đổ của toàn bộ hệ sinh thái ngành công nghiệp. Giá phải trả của họ thực ra là thứ khác: giành giải thưởng cấp thế giới, nhưng không mang lại khán giả bản địa — vinh dự và thị trường, trong mười mấy năm đó là hai chuyện hoàn toàn tách biệt.
 
-Đây là cái chết thứ hai của phim quốc gia. Phim tiếng Đài bị chính sách chặt ngắn, lần này bị thị trường nhấn chìm. Sự khác biệt ở chỗ: cách chết khác nhau, cơ chế sống lại cũng sẽ khác nhau. Phim tiếng Đài không bao giờ quay lại, nhưng lần này, có người đang chờ một cách để đưa khán giả quay lại rạp chiếu phim.
+Đây chính là cái chết thứ hai của phim quốc gia. Phim tiếng Đài bị chính sách bóp chết, lần này bị thị trường nhấn chìm. Khác biệt ở chỗ: cách chết khác nhau, cơ chế hồi sinh cũng sẽ khác. Phim tiếng Đài không bao giờ quay lại, nhưng lần này, có người đang chờ một cách để mời khán giả quay lại rạp chiếu phim.
 
 ```tw-versus
-Vinh dự của liên hoan | Hiện thực của rạp chiếu
-Thành phố đau buồn 1989 Huy chương vàng Venice | Cùng kỳ sản lượng phim quốc gia rơi xuống 15-20 bộ
-Một Một 2000 Đạo diễn tốt nhất Cannes | 2003 tỷ lệ địa phương 0,36%
-Hai bộ phim của Dương Đức Xương vào danh sách trăm phim trong lịch sử | \"Phim quốc gia = chất độc doanh thu\" trở thành ấn tượng dân gian
-Nở hoa bên ngoài bức tường | Héo tàn bên trong bức tường
+Vinh quang lễ hội phim | Thực tế rạp chiếu
+Thành Phố Bi Qíng 1989 Giải Vàng Venice | Cùng kỳ sản lượng phim quốc gia giảm đến 15–20 bộ
+Một Một 2000 Giải Đạo Diễn Xuất Sắc Cannes | 2003 Thị phần bản địa 0,36%
+Dương Đức Xương hai phim vào top 100 lịch sử điện ảnh | 「Phim quốc gia = Chất độc票房」 thành ấn tượng dân gian
+Nở hoa bên ngoài tường | Tàn úa bên trong tường
+Nguồn: Bản ghi ba đại lễ hội phim được trích dẫn trong bài (Giải Vàng Venice, Giải Đạo Diễn Cannes, Top 100 lịch sử điện ảnh) + thống kê sản lượng và doanh thu phim quốc gia (từ 1996 sản lượng 15–20 bộ/năm, 2003 thị phần toàn Đài 0,36%)[^46][^47][^48]
 ```
 
 ## Muốn lên màn hình thế giới, phải rời khỏi hòn đảo của mình
