@@ -350,3 +350,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-14 | 090531-twmd-maintainer-daily | 連兩天滿載，九個 PR 全合併；兩篇新文腳註抽驗六條逐字命中，兩個政府典藏頁得用瀏覽器才讀得到；地圖錯釘追到產生器把研究團隊的學校當位置，同型 3 筆一次蓋完；交接那條 404 家族兩天前就修好，本班對線上驗到兩層都活著 | 修好了沒人回去驗，交接就會一直寫著 pending | [→](memory/2026-10-14-090531-twmd-maintainer-daily.md) |
 | 2026-10-15 | 005541-twmd-babel-nightly | 修復後續跑：地端 GPU 補貨撲空退場後，別人補進的 stale 它再也拿不到，十三小時只剩 nemo 一條線；改成停在場邊每十分鐘回看，補兩篇新文 slug 後重啟，四種槽位全動 | 巡檢規格寫逐 worker，執行時別縮成「有沒有新列」 | [→](memory/2026-10-15-005541-twmd-babel-nightly.md) |
 | 2026-10-15 | 053913-twmd-routine-sync | 第 74 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程昨晚 10-14 第一次錯過，仍待哲宇在 app 註冊，下個時點 10-21 | 卡在授權上的交接，日期過了也不會自己動 | [→](memory/2026-10-15-053913-twmd-routine-sync.md) |
+| 2026-10-15 | 061009-twmd-embeddings-nightly | 例行重建：13 語 14,584 向量 0 fail，verify PASS，`e8bea7f69`；〈看不見的台灣〉〈台灣與亞運〉進 zh 索引；push 被拒是 data-refresh 已代推本班 commit | 拒絕訊息裡的 hash 是自己的，fetch 對一次再判 | [→](memory/2026-10-15-061009-twmd-embeddings-nightly.md) |
+| 2026-10-15 | 061016-twmd-data-refresh-am | 14 步全過、0 stale；翻譯夜班假死告警如昨日預測自己消失；發現儀表板「平均互動秒數」填的是 GA4 工作階段長度，交接改名 | 欄位名稱說錯它量什麼，每天讀的人都跟著錯 | [→](memory/2026-10-15-061016-twmd-data-refresh-am.md) |
