@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'cc6f9d9b3'
-sourceContentHash: 'sha256:4eec1818bd85149d'
-sourceBodyHash: 'sha256:9c00635e5ed9da36'
-translatedAt: '2026-09-23T23:46:36.531888+00:00'
+sourceCommitSha: 'b07b48849'
+sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceBodyHash: 'sha256:d018fcf42d34d25c'
+translatedAt: '2026-10-14T21:32:46.842067+00:00'
 ---
 
 # Taiwan: quem fala ao lado da tela e uma história de cinema que morre e ressurgi
@@ -80,37 +80,37 @@ Eles foram sufocados por políticas, não por críticas do público. Em 1957, a 
 
 Em 1969, a produção de filmes em mandarim superou pela primeira vez a de filmes em taiwanês[^15]. O último filme em taiwanês foi 《Chen Sanwu Niang》, lançado em 1981, com Yang Li-hua no papel principal[^16]. Só na década de 1990 os pesquisadores começaram a resgatar essa história; foi só em 2017 que a Universidade de King's College, em Londres, realizou a primeira conferência acadêmica em inglês sobre os filmes em taiwanês[^17]. Uma indústria que foi a terceira maior do mundo em produção de filmes de drama precisou esperar trinta anos após seu declínio, e meio globo terrestre, para finalmente ser levada a sério como parte da história.
 
-## A saudável, realista e proibida
+## Saudável, Realista, Intocável
 
-Enquanto as filmagens em taienês iam desaparecendo, a tela era tomada por outra língua.
+Enquanto o cinema em taiwanês saía de cena, as telas eram assumidas por outra língua.
 
-Em setembro de 1954, a Agrícola Educativa e a Companhia de Cinema de Taiwan se fundiram para criar a Central Filmes (abreviada como Zhongying), equipada com aparelhos fornecidos pelo programa de auxílio dos EUA[^18]. A indústria do cinema em mandarim teve sua base industrial, e sua direção era determinada por políticas. Em 1963, Gong Hong assumiu a direção da Zhongying e lançou uma linha chamada "saudável e realista". Ele deu uma definição precisa: "saudável é educar, realista é o campo"[^19].
+Em setembro de 1954, a Empresa de Educação Agrícola e a Companhia de Cinema de Taiwan fundiram-se para criar a Central Motion Picture Corp, abreviada como **CMPC** (中影), usando equipamentos da **ajuda americana**[^18]. O cinema em mandarim ganhou uma base industrial, e sua direção era ditada pela política. Em 1963, **Gong Hong** assumiu como gerente-geral da CMPC e lançou uma linha chamada **«saudável realista»**. Ele deu uma definição muito precisa: **«Saudável é educar, realista é o campo»**[^19].
 
-Essas seis palavras merecem uma pausa. Significam que o cinema deve ser realista, mas apenas o tipo de realidade limpa e educativa do campo, não os lados escuros da sociedade, não os verdadeiros conflitos. O filme de 1964 _Os Ostras_ é a representação típica dessa linha. Foi a primeira produção própria da Zhongying em cores widescreen (note: não é "o primeiro filme colorido de Taiwan"), dirigido por Li Jia e Li Xing, e ganhou o prêmio de Melhor Longa-metragem no 11º Festival de Cinema da Ásia[^20]. O filme de 1965 _A Família dos Pássaros_ seguiu a mesma linha.
+Esses seis caracteres merecem uma pausa. Eles dizem: o cinema deve ser realista, mas só pode retratar aquele realismo limpo, edificante, do campo — não o lado sombrio da sociedade, não os conflitos verdadeiros. **《A Moça da Ostra》** (1964) é a obra representativa dessa linha: foi o primeiro filme colorido em tela larga produzido pela própria CMPC (atenção: não «o primeiro filme colorido de Taiwan»), codirigido por **Li Chia** e **Li Hsing**, e levou o prêmio de Melhor Drama no 11º Festival de Cinema Asiático[^20]. No ano seguinte, **《A Família Criadora de Patos》** seguiu pelo mesmo caminho.
 
-Além do "saudável e realista", durante os anos 60 e 70, três forças moviam a indústria do cinema em mandarim.
+Além do «saudável realista», o cinema em mandarim dos anos 1960 a 1970 tinha outras três forças operando simultaneamente.
 
-Uma delas era a produção artística de Qiong Yao. A partir de 1965, com _Prima de Lin_ dirigido por Li Xing, foram feitos cerca de vinte e cinco filmes em cinco anos, lançando ao sucesso um grupo de atores famosos[^21]. O mais conhecido era "Dois Qins e Dois Lins": Qin Han, Qin Xianglin, Lin Qingxia e Lin Fengjiao. Lin Qingxia estreou em 1973 com _Fora da Janela_ e depois se tornou uma lenda do cinema chinês; Lin Fengjiao ganhou o prêmio de Melhor Atriz no Festival Golden Horse em 1979[^22]. As lágrimas de Qiong Yao eram a juventude compartilhada por muitas pessoas da época.
+Uma era o cinema literário de **Chiung Yao**. A partir de **《A Prima Wan-chun》** (1965), dirigido por Li Hsing, cerca de vinte e cinco filmes foram feitos em cinco anos, alçando todo um elenco de estrelas[^21]. Os mais famosos eram os **«Dois Qin e Dois Lin»**: **Qin Han**, **Qin Xiang-lin**, **Lin Ching-hsia** e **Lin Feng-chiao**. Lin Ching-hsia estreou em 1973 com **《Fora da Janela》** e depois tornou-se lenda do cinema sinófono; Lin Feng-chiao ganhou o Cavalo de Ouro de Melhor Atriz em 1979[^22]. As lágrimas de Chiung Yao foram a juventude compartilhada de muita gente naquela época.
 
 ```tw-timeline
-1925 | 《Quem Transgrediu》 | Primeiro filme de longa-metragem produzido por taiwaneses, produzido pela Associação de Estudos de Cinema de Taiwan
-1956 | 《Xue Pinggui e Wang Baoquan》 | Estourou a onda dos filmes em taienês, Taiwan foi por um tempo o terceiro maior produtor de longas-metragens do mundo
-1963 | Linha "saudável e realista" | Gong Hong define "saudável é educar, realista é o campo"
-1967 | 《Dragon Gate Inn》 | Hu Jinqun inicia uma década de filmes de wuxia, campeão de bilheteria anual
-1982 | 《Histórias do Tempo Passando》 | Ponto de partida do Novo Cinema de Taiwan
-1989 | 《Cidade Triste》 | Leão de Ouro em Veneza, primeira obra taiuanesa a ganhar os três grandes festivais
-2008 | 《Mar de Sete Ilhas》 | Cinco línguas, participação do mercado local saltou de 0,36% para 12,09%
-2018 | 55º Golden Horse | Discurso de Fu Yuyu causa controvérsia entre os dois lados do estreito, China anuncia boicote no ano seguinte
-Fonte: Centro Nacional de Cinema e Cultura Audiovisual (TFAI), registros oficiais de festivais
+1925 | 《Quem Tem a Culpa》 | Primeiro filme de ficção autoproduzido por taiwaneses, pela Associação de Pesquisa Cinematográfica de Taiwan
+1956 | 《Xue Pinggui e Wang Baoquan》 | Detonou a febre do cinema em taiwanês, Taiwan chegou a ser o 3º maior produtor mundial de filmes de ficção
+1963 | Linha saudável realista | Gong Hong define «saudável é educar, realista é o campo»
+1967 | 《A Estalagem do Portão do Dragão》 | King Hu abre década de wuxia, campeão de bilheteria do ano
+1982 | 《A História do Tempo》 | Ponto de partida do movimento Novo Cinema Taiwanês
+1989 | 《Cidade Triste》 | Leão de Ouro em Veneza, primeiro prêmio máximo de um dos três grandes festivais para Taiwan
+2008 | 《Cabo Sete》 | Cinco idiomas, fatia de mercado doméstico salta de 0,36% para 12,09%
+2018 | 55º Cavalo de Ouro | Discurso de Fu Yue desencadeia controvérsia entre os dois lados do estreito, China anuncia boicote no ano seguinte
+Fonte: Centro Nacional de Cinema e Cultura Audiovisual (TFAI), registros oficiais dos festivais
 ```
 
-A segunda força era o gênero de wuxia. Em 1967, _Dragon Gate Inn_ de Hu Jinqun tornou-se o campeão de bilheteria anual de Taiwan, iniciando uma década de popularidade dos filmes de wuxia[^23]. Hu Jinqun não apenas vendeu muito, mas transformou o wuxia em uma estética. Em 1975, seu filme _A Heroína_ ganhou o prêmio do Júri de Técnica no 28º Festival de Cannes, sendo a segunda obra em mandarim a ganhar em Cannes após _Yang Guifei_ de Li Hanxiang em 1962[^24]. Um detalhe ilustra a posição da indústria cinematográfica de Taiwan na época: _A Heroína_ foi enviada para Cannes a pedido de críticos franceses, usando o nome "Hong Kong", não por recomendação do governo de Taiwan[^24]. A linguagem de wuxia de Hu Jinqun — bambu, espaço em branco, ritmo — influenciou posteriormente Xu Ke e Li An; a cena do bambu em _O Tigre e a Serpente_ é uma homenagem a ele[^25].
+A segunda força era o **wuxia**: em 1967, **《A Estalagem do Portão do Dragão》** de **King Hu** tornou-se campeão de bilheteria anual em Taiwan, abrindo uma onda de filmes de wuxia que durou dez anos[^23]. King Hu não só enchia salas — ele filmou o wuxia como uma estética. Em 1975, seu **《A Heroína》** ganhou o Grande Prêmio Técnico no 28º Festival de Cannes, o segundo filme sinófono premiado em Cannes depois de **《A Imperatriz Yang Kwei-fei》** de Li Han-hsiang (1962)[^24]. Um detalhe ilustra bem a situação do cinema taiwanês na época: **《A Heroína》** foi inscrita a convite de críticos franceses, sob o nome de **«Hong Kong»**, não indicada pelo governo de Taiwan[^24]. A linguagem de wuxia de King Hu — bambuzais, espaços em branco, ritmo — influenciou depois Tsui Hark e Ang Lee; a cena no bambuzal de **《O Tigre e o Dragão》** é uma homenagem a ele[^25].
 
-A terceira força era o cinema patriótico de propaganda. Em 1971, a República da China foi excluída das Nações Unidas, e a população estava inquieta. Uma das respostas do governo, segundo o TFAI, foi fazer filmes "para estabilizar a mente do povo e divulgar as ações do governo"[^26]. O filme de 1974 _Heróis Eternos_ foi promovido por Wang Sheng, um conselheiro político, dirigido por Ding Shanshi e estrelado por Ke Junxiong, seguido por _Os Oitocentos Heróis_ em 1976 e _A História da Ponte de Quian_ em 1977[^27]. Esses filmes estão ligados na memória de muitas pessoas com "o cinema foi reservado pela escola para assistir"; no entanto, honestamente dizer, não há documentos primários que comprovem que "as escolas foram obrigadas a reservar", o que se pode confirmar é que eram frequentemente reexibidos na TV em dias festivos[^28].
+A terceira força era o **cinema de propaganda patriótica**: em 1971, a República da China saiu da ONU, o clima ficou tenso. Uma das respostas do governo, nas palavras do TFAI, foi fazer cinema **«para estabilizar o ânimo popular e divulgar as ações do governo»**[^26]. **《Heróis Eternos》** (1974), impulsionado pelo assessor de guerra política **Wang Sheng**, dirigido por **Ting Shan-hsi**, estrelado por **Ko Chun-hsiung**; depois vieram **《Os Oitocentos Heróis》** (1976) e **《Os Heróis Mártires de Jianqiao》** (1977)[^27]. Na memória de muita gente, esses filmes estão ligados a **«sessões escolares obrigatórias»**; porém, para ser honesto, não se encontra documento de primeira mão que comprove «escolas obrigando turmas inteiras a assistir» — o que se confirma é que eles eram reprisados na TV nos feriados[^28].
 
-> 📝 **Nota do curador**: Da era dos filmes em taienês ao "saudável e realista" ao cinema patriótico, se virmos "o que é mostrado na tela e o que pode ser mostrado" como uma linha condutora, perceberemos que a história do cinema nacional sempre responde à mesma pergunta — apenas que a resposta é escrita por políticas, não por público ou criadores. O problema dos filmes em taienês é "não se pode fazer um bom filme nessa língua"; o problema do "saudável e realista" é "só se pode mostrar essa realidade"; o problema do cinema patriótico é "para que serve o cinema". Língua, tema, propósito — três portões que se abrem e fecham alternadamente.
+> 📝 **Nota do curador**: Do cinema em taiwanês ao saudável realista ao cinema patriótico, se tomarmos «o que se fala na tela, o que se pode falar na tela» como fio condutor, descobre-se que a história do cinema nacional sempre respondeu à mesma pergunta — só que a resposta era escrita pela política, não pelo público nem pelos criadores. O problema do cinema em taiwanês era «não pode usar esta língua para filmar direito», o do saudável realista era «só pode escrever este tipo de realismo», o do cinema patriótico era «para que serve o cinema». Língua, tema, finalidade — três cancelas, abrindo e fechando por turno.
 
-Vale a pena mencionar a origem do nome "Golden Horse". Em 1957, uma organização civil usou o nome "Prêmio Golden Horse" para promover um festival de filmes em taienês, que durou apenas uma edição[^29]. Em 1962, o Departamento de Notícias criou o prêmio oficial Golden Horse, que originalmente só premiava filmes em mandarim, e a cerimônia de premiação foi especialmente programada perto do aniversário de Chiang Kai-shek[^29]. O mesmo nome, primeiro pertencente aos filmes em taienês, depois absorvido pelos filmes em mandarim — isso é, por si só, uma pequena anotação sobre a política linguística da época.
+Vale mencionar a origem do nome **«Cavalo de Ouro»**. Em 1957, a sociedade civil já usara «Prêmio Cavalo de Ouro» para fazer uma mostra de cinema em taiwanês, que durou apenas uma edição[^29]. Em 1962, o Departamento de Informação criou o **Cavalo de Ouro oficial**, nominalmente só para filmes em mandarim, e a cerimônia era propositalmente marcada perto do aniversário de **Chiang Kai-shek**[^29]. O mesmo nome, primeiro pertencente ao cinema em taiwanês, depois apropriado pelo cinema em mandarim — isso já é, por si só, uma pequena nota de rodapé da política linguística daquela época.
 
 ## A Maçã Cortada
 
@@ -145,39 +145,40 @@ O terceiro é Tsai Ming-liang. Desde 《O Rebelde》, de 1992, ele focou na soli
 
 Sobre a posição desses três diretores na história do cinema, há um mito comum que precisa ser corrigido. A versão popular afirma que "três filmes taiuanos estão na lista dos 100 melhores do Cahiers du Cinéma", mas isso é falso. Verificando a lista de 2008 do Cahiers du Cinéma, não há nenhum filme taiuanes[^44]. O que realmente incluiu o cinema taiuanes foi a lista de 2022 da Sight & Sound: 《O Caso de Assassinato na Rua Guling》 de Yang De-chang ficou em 78º lugar, e 《Yi Yi》 em 90º lugar[^45].
 
-## Ganhar prêmios, ninguém assiste
+## Ganhou prêmios, ninguém viu
 
-Aqui está a reviravolta mais contra-intuitiva de toda a história do cinema taiuanesa — e também o lugar mais fácil de transformar em um sermão desanimador.
+Aqui está a reviravolta mais contra-intuitiva de toda a história do cinema nacional, e também o lugar mais propenso a ser transformado em «sopa de galinha tóxica».
 
-O Novo Cinema taiuanesa ganhou o Leão de Ouro na Itália e o Prêmio de Melhor Diretor em Cannes. Foi a primeira vez que o cinema de Taiwan foi visto pelo mundo. Mas, ao mesmo tempo, dentro dos cinemas de Taiwan, o cinema local estava morrendo. A partir de 1996, a produção anual de filmes nacionais caiu para entre 15 e 20 produções, com participação de mercado de apenas 1% a 2%[^46]. O fundo do poço foi em 2003: naquele ano, apenas cerca de 15 filmes nacionais foram produzidos em todo o país, com arrecadação total de aproximadamente 15 milhões de dólares taiuanêses, representando 0,36% da arrecadação total — nem sequer 1%[^47].
+O Novo Cinema conquistou o Leão de Ouro e o prêmio de Melhor Diretor na Europa, e o cinema de Taiwan foi visto pelo mundo pela primeira vez. Mas, no mesmo período, nos cinemas de Taiwan, o cinema nacional estava morrendo. A partir de 1996, a produção anual de filmes nacionais caiu para 15 a 20 filmes, e a participação de mercado ficou em apenas 1% a 2%[^46]. O fundo do poço foi 2003: naquele ano, foram feitos apenas cerca de 15 filmes nacionais em toda Taiwan, com bilheteria total de aproximadamente NT$15 milhões, representando 0,36% da bilheteria total de Taiwan, nem chegando a 1%[^47].
 
 ```tw-bars
-2003 Fundo do poço | 0.36 | Apenas cerca de 15 filmes nacionais em todo o país
+2003 Fundo do poço | 0.36 | Apenas cerca de 15 filmes nacionais em toda Taiwan
 2006 Recuperação lenta | 1.62
-2008 No Caminho da Ilha | 12.09 | Aumento de mais de 30 vezes
-2011 Seediq Bale | 17.46 | Recorde histórico na época
-2024 Últimos anos | 10
-Fonte: Revista Taiwan Info e TFAI (participação de mercado de filmes nacionais %)
+2008 Cape No. 7 | 12.09 | Aumento de mais de 30 vezes
+2011 Seediq Bale | 17.46 | Pico histórico na época
+2024 Anos recentes | 10
+Fonte: Taiwan Panorama, estatísticas TFAI (participação de mercado de filmes nacionais %)
 ```
 
-0,36%. Diga esse número em voz alta: de cada cem taiuanoses que entram em um cinema, nenhum está assistindo a um filme nacional. E justamente nesses anos, Hou Hsiao-hsien, Yang De-chang e Tsai Ming-liang brilhavam em Cannes e Veneza. Um filme em uma ilha, floresceu lá fora, enquanto apodreceu por dentro.
+0,36%. Leia este número em voz alta: em cem pessoas que entravam nos cinemas de Taiwan, nem uma sequer ia ver um filme nacional. E, justamente nesses anos, os nomes de Hou Hsiao-hsien, Yang De-chang e Tsai Ming-liang brilhavam em Cannes e Veneza. O cinema de uma ilha florescia fora dos muros, mas murchava dentro deles.
 
-Aí nasceu um ditado popular, e é muito convincente: "É culpa do Novo Cinema. Aquelas coisas de arte são entediantes e incompreensíveis, assustaram o público, e foi por isso que os filmes nacionais morreram."
+Daí surgiu um dito popular, repetido com facilidade: «É tudo culpa do Novo Cinema. Esses filmes de arte são entediantes e incompreensíveis, afugentaram o público, por isso o cinema nacional morreu.»
 
-Essa narrativa merece ser levada a sério, porque reflete um ressentimento real. Muitas pessoas foram a cinemas, não entenderam, adormeceram, e nunca mais entraram para ver filmes nacionais. Mas culpar o colapso dos filmes nacionais inteiro no Novo Cinema é reduzir um colapso multifatorial a um bode expiatório.
+Essa narrativa deve ser levada a sério, porque por trás dela há ressentimento genuíno: muita gente de fato foi ao cinema, não entendeu, adormeceu e nunca mais voltou a ver um filme nacional. Mas culpar o Novo Cinema por toda a baixa do cinema nacional é reduzir um colapso multifatorial a um bode expiatório.
 
-É certo dizer que o Novo Cinema criou certa distância entre parte do público e os hábitos de consumo de filmes comerciais tradicionais — isso não deve ser ignorado. Mas o colapso dos filmes nacionais entre 1990 e 2000 também foi causado por razões mais estruturais: o avanço generalizado de blockbusters da Hollywood na Taiwan, a liberalização das cotas de importação de filmes após a entrada da Taiwan na OMC, o impacto das fitas cassete e dos canais de TV a cabo na forma como as pessoas assistiam a filmes, a fuga maciça de capital local para fora do setor cinematográfico, e também a dominância dos canais de distribuição de cinemas por filmes importados[^48]. Um setor foi derrubado por toda essa combinação, não apenas por alguns filmes premiados que assustaram o público.
+O Novo Cinema de fato criou distância entre uma parte do público e os hábitos de consumo do cinema comercial mainstream, e isso não se pode negar. Mas o colapso do cinema nacional nos anos 1990 a 2000 teve causas mais estruturais atuando simultaneamente: os blockbusters de Hollywood invadiram Taiwan em força; após a adesão de Taiwan à OMC, as cotas de importação de filmes estrangeiros foram flexibilizadas; fitas de vídeo e TV a cabo mudaram a forma como todos assistiam a filmes; o capital local retirou-se em massa da indústria cinematográfica; e os canais de exibição também foram dominados por filmes importados[^48]. Uma indústria foi esmagada por todo esse conjunto de fatores, não afugentada por alguns filmes de arte premiados.
 
-> 📝 **Nota do curador**: A razão pela qual a frase "O Novo Cinema matou os filmes nacionais" é tão atraente é que transforma um colapso de mercado complexo em uma história com rostos — um vilão (o diretor incompreensível) e uma vítima (o público incompreendido). Mas a verdade raramente tem rosto. Tratar Hou Hsiao-hsien e Yang De-chang como autores responsáveis pelo declínio dos filmes nacionais é exigir que um grupo de criadores responda por todo o colapso da ecologia do setor. O preço que eles realmente pagaram foi outro: ganharam prêmios de nível mundial, mas não conseguiram atrair o público local — honra e mercado foram completamente desconectados nesses anos.
+> 📝 **Nota do curador**: «O Novo Cinema matou o cinema nacional» é uma narrativa sedutora porque transforma um colapso de mercado complexo numa história com rostos — há vilões (diretores incompreensíveis), há vítimas (público que não entende). Mas a verdade costuma não ter rosto. Tratar Hou Hsiao-hsien e Yang De-chang como culpados pelo declínio do cinema nacional equivale a exigir que um grupo de criadores assuma a responsabilidade pelo colapso de todo um ecossistema industrial. O preço que pagaram foi outro: ganharam prêmios de nível mundial, mas não conseguiram trazer o público local de volta — glória e mercado, naqueles dez e poucos anos, foram duas coisas completamente separadas.
 
-Essa é a segunda morte dos filmes nacionais. Os filmes em Taiuês foram asfixiados por políticas públicas; desta vez, foram afogados pelo mercado. A diferença é que: a forma de morrer foi diferente, e o mecanismo de renascimento também será diferente. Os filmes em Taiuês nunca mais voltaram, mas desta vez, alguém está esperando o método certo para trazer o público de volta aos cinemas.
+Esta é a segunda morte do cinema nacional. O cinema em taiwanês foi asfixiado pela política; desta vez, foi afogado pelo mercado. A diferença está em que a forma de morrer foi diferente, e o mecanismo de ressurreição também será diferente. O cinema em taiwanês nunca mais voltou, mas desta vez há alguém à espera de um método para trazer o público de volta aos cinemas.
 
 ```tw-versus
 Glória nos festivais | Realidade nos cinemas
-Cidade Triste 1989 Leão de Ouro em Veneza | Na mesma época, produção anual de filmes nacionais cai para 15–20 unidades
-Yi Yi 2000 Prêmio de Melhor Diretor em Cannes | Em 2003, participação de mercado local cai para 0,36%
-Duas obras de Yang De-chang entram na lista dos 100 maiores filmes da história | "Filmes nacionais = veneno para bilheteria" se torna percepção popular
-Florescem lá fora | Apodrecem por dentro
+Cidade Triste 1989 Leão de Ouro Veneza | No mesmo período, produção anual de filmes nacionais cai para 15–20
+Yi Yi 2000 Melhor Diretor Cannes | 2003 Participação de mercado nacional 0,36%
+Dois filmes de Yang De-chang entram no top 100 da história do cinema | «Cinema nacional = veneno de bilheteria» vira impressão popular
+Floresce fora dos muros | Murcha dentro dos muros
+Fonte: Registros dos três grandes festivais citados neste artigo (Leão de Ouro Veneza, Melhor Diretor Cannes, Top 100 da história do cinema) + Estatísticas de produção e bilheteria de filmes nacionais (15–20 filmes/ano a partir de 1996, participação de mercado de 0,36% em 2003 em toda Taiwan)[^46][^47][^48]
 ```
 
 ## Para chegar às telas do mundo, primeiro é preciso deixar a própria ilha
