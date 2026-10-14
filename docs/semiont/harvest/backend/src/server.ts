@@ -410,10 +410,9 @@ app.post('/api/sessions/:sid/cancel', (c) => {
     ['cancelled via API', new Date().toISOString(), sid],
   );
   const row = db
-    .query<
-      { task_id: string },
-      [string]
-    >('SELECT task_id FROM sessions WHERE id = ?')
+    .query<{ task_id: string }, [string]>(
+      'SELECT task_id FROM sessions WHERE id = ?',
+    )
     .get(sid);
   if (row) {
     const task = getTask(row.task_id);
@@ -598,6 +597,7 @@ app.post('/api/webhook/github', async (c) => {
 });
 
 const server = Bun.serve({
+  hostname: config.host,
   port: config.port,
   fetch: app.fetch,
 });
