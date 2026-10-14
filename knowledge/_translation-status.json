@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T04:58:10+08:00",
-    "zhCommitHead": "dcf478d1c",
+    "lastUpdated": "2026-10-15T05:18:05+08:00",
+    "zhCommitHead": "e96fdbba8",
     "totalZh": 1133,
     "activeLanguages": [
       "en",
@@ -36,33 +36,33 @@
       },
       "ko": {
         "total_zh": 1133,
-        "fresh": 1121,
-        "stale": 11,
+        "fresh": 1122,
+        "stale": 10,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1133,
-        "fresh": 1118,
-        "stale": 14,
+        "fresh": 1119,
+        "stale": 13,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1133,
-        "fresh": 1118,
-        "stale": 13,
+        "fresh": 1119,
+        "stale": 12,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1133,
-        "fresh": 1117,
+        "fresh": 1118,
         "stale": 13,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
@@ -37554,20 +37554,18 @@
         "fr": {
           "path": "fr/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "cc6f9d9b3",
-          "sourceContentHash": "sha256:b60bd097d9577c55",
-          "sourceBodyHash": "sha256:9c00635e5ed9da36",
-          "translatedAt": "2026-09-28T02:52:34+08:00",
+          "sourceCommitSha": "b07b48849",
+          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceBodyHash": "sha256:d018fcf42d34d25c",
+          "translatedAt": "2026-10-14T21:04:37.134736+00:00",
           "translationLastCommit": "58b70fef",
           "translationLastModified": "2026-09-28T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 75042,
+          "bytes": 75724,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/taiwanese-cinema.md",
@@ -85912,20 +85910,18 @@
         "vi": {
           "path": "vi/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "a8f7c4e08",
+          "sourceCommitSha": "de4dde0c9",
           "sourceContentHash": "sha256:e26a95dae7cf552e",
           "sourceBodyHash": "sha256:b680f8b344c7bf2d",
-          "translatedAt": "2026-10-13T01:14:20.763185+00:00",
+          "translatedAt": "2026-10-14T21:05:03.467263+00:00",
           "translationLastCommit": "6c563b94",
           "translationLastModified": "2026-10-13T10:34:16+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 82308,
+          "bytes": 82959,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/daan-river-yitian-sword.md",
@@ -167438,20 +167434,18 @@
         "ko": {
           "path": "ko/Food/taiwan-banquet-culture.md",
           "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "26a67c779",
-          "sourceContentHash": "sha256:87996856be7f510f",
-          "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-10-10T21:18:41.835639+00:00",
+          "sourceCommitSha": "7e660a586",
+          "sourceContentHash": "sha256:050249e143e4dbb3",
+          "sourceBodyHash": "sha256:22ecadf2b6d21f0e",
+          "translatedAt": "2026-10-14T20:59:50.222400+00:00",
           "translationLastCommit": "d180e727",
           "translationLastModified": "2026-10-11T06:45:18+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 56937,
+          "bytes": 57149,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-banquet-culture.md",
@@ -175980,8 +175974,8 @@
           "sourceContentHash": "sha256:c1f6e832dde8509d",
           "sourceBodyHash": "sha256:c712e33567a48da4",
           "translatedAt": "2026-10-14T19:13:21.423453+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "e96fdbba",
+          "translationLastModified": "2026-10-15T04:58:10+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "bytes": 87852,
@@ -222474,20 +222468,18 @@
         "es": {
           "path": "es/Culture/taiwanese-childhood-english-names.md",
           "translatedFrom": "Culture/台灣人小時候的英文名字.md",
-          "sourceCommitSha": "cfce444ae",
-          "sourceContentHash": "sha256:5ec68902a1c50e0d",
-          "sourceBodyHash": "sha256:efeadcec0add04bc",
-          "translatedAt": "2026-06-18T00:36:09+08:00",
+          "sourceCommitSha": "d525e99ee",
+          "sourceContentHash": "sha256:679c9b463da5abd3",
+          "sourceBodyHash": "sha256:9aed0f1a904887ba",
+          "translatedAt": "2026-10-14T21:02:33.691152+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 55239,
+          "bytes": 59512,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwanese-childhood-english-names.md",
