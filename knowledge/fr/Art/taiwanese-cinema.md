@@ -27,13 +27,12 @@ image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
 imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
-relatedDiary:
-  - 2026-06-13-183725-深度研究-台灣國片
+relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'cc6f9d9b3'
-sourceContentHash: 'sha256:b60bd097d9577c55'
-sourceBodyHash: 'sha256:9c00635e5ed9da36'
-translatedAt: '2026-09-28T02:52:34+08:00'
+sourceCommitSha: 'b07b48849'
+sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceBodyHash: 'sha256:d018fcf42d34d25c'
+translatedAt: '2026-10-14T21:04:37.134736+00:00'
 ---
 
 # Cinéma taïwanais : la voix à côté de l'écran, et l'histoire d'un cinéma mort, puis ressuscité
@@ -81,37 +80,37 @@ Ce qui l'a étouffé, c'est la politique, pas le public. En 1957, la modificatio
 
 En 1969, la production de films en mandarin dépasse pour la première fois celle des films en taïwanais[^15]. Le tout dernier film en taïwanais est _Chen San Wu Niang_, sorti en 1981 avec Yang Li-hua[^16]. Il faut attendre les années 1990 pour que des chercheurs commencent à sauver cette histoire ; et ce n'est qu'en 2017 que le King's College de Londres organise le tout premier colloque universitaire en anglais consacré au cinéma en taïwanais[^17]. Une industrie qui fut la troisième au monde a dû attendre trente ans après sa mort — et l'autre bout de la planète — pour qu'on daigne enfin l'étudier sérieusement comme un objet d'histoire.
 
-## Sain, réaliste, et intouchable
+## Sain, réaliste et intouchable
 
-Au moment même où le cinéma en taïwanais se retirait, l'écran passait sous le contrôle d'une autre langue.
+Au moment même où le cinéma en taïwanais se retirait, l'écran était repris par une autre langue.
 
-En septembre 1954, la fusion de la Compagnie d'éducation agricole et de la Compagnie du film de Taïwan donne naissance à la Central Motion Picture Corporation (CMPC), dite Zhongying, équipée grâce à l'aide américaine[^18]. Le cinéma en mandarin dispose désormais d'une base industrielle, et c'est la politique qui en dicte l'orientation. En 1963, Kung Hung devient directeur général de Zhongying et lance une ligne baptisée « réalisme sain ». Il en donne une définition d'une grande précision : « le sain, c'est l'édifiant ; le réaliste, c'est la campagne »[^19].
+En septembre 1954, la fusion de l'Agricultural Education Company et de la Taiwan Film Company a donné naissance à la Central Motion Picture Corporation (CMPC), ou _Zhongying_ en abrégé, utilisant des équipements fournis par l'aide américaine[^18]. Le cinéma en mandarin disposait désormais d'une base industrielle, mais sa direction était dictée par les politiques publiques. En 1963, Kung Hung succède au poste de directeur général de la CMPC et lance une ligne artistique baptisée « sain et réaliste ». Il en donne une définition très précise : « le sain est l'édification, le réaliste est la campagne »[^19].
 
-Ces quelques mots méritent qu'on s'y arrête. Ils signifient que le film doit être réaliste, mais seulement du réalisme propre et édifiant de la campagne — jamais des zones d'ombre de la société, jamais d'un vrai conflit. _The Oyster Girl_ (蚵女), en 1964, est l'œuvre emblématique de cette ligne : premier film en couleur et en grand écran produit en interne par Zhongying (attention, ce n'est pas « le premier film en couleur de Taïwan »), coréalisé par Li Chia et Li Hsing, il remporte en plus le prix du meilleur long métrage au 11e Festival du film asiatique[^20]. _Beautiful Duckling_ (養鴨人家), l'année suivante, prolonge la même veine.
+Ces six mots méritent un temps d'arrêt. Ils signifient que le cinéma doit être réaliste, mais seulement à travers un réalisme rural, propre et capable d'éduquer les cœurs ; il ne s'agit pas de montrer les zones d'ombre de la société ou de véritables conflits. _The Oyster Girl_ (1964) est l'œuvre emblématique de cette ligne ; il s'agissait du premier film couleur en format large produit par la CMPC (notez qu'il ne s'agit pas du « premier film couleur de Taïwan »), co-réalisé par Li Chia et Li Hsing, qui remporta également le meilleur film de fiction lors de la 11e Asian Film Festival[^20]. L'année suivante, _The Duck Farmer_ poursuivit dans la même voie.
 
-En dehors du réalisme sain, trois autres forces traversent en même temps le cinéma en mandarin des années 1960 et 1970.
+Outre le courant « sain et réaliste », trois autres forces animaient le cinéma en mandarin durant les années 1960 et 1970.
 
-La première est le cinéma sentimental de Chiung Yao. À partir de _La Cousine Wan-chun_ (婉君表妹), réalisé par Li Hsing en 1965, environ vingt-cinq films voient le jour en cinq ans, qui lancent toute une génération de vedettes[^21]. Les plus célèbres sont les « deux Chin et deux Lin » : Chin Han, Chin Hsiang-lin, Brigitte Lin et Lin Feng-chiao. Brigitte Lin débute en 1973 avec _The Window_ (窗外) et devient plus tard une légende du cinéma sinophone ; Lin Feng-chiao remporte le prix de la meilleure actrice au Golden Horse en 1979[^22]. Les larmes de Chiung Yao ont bercé la jeunesse commune de toute une génération.
+La première était celle des films littéraires de Chiung Yao. À partir de _Wan-chun, my cousin_ (1965) réalisé par Li Hsing, environ vingt-cinq films furent produits en cinq ans, propulsant toute une génération de stars[^21]. Les plus célèbres étaient les « deux Qin et deux Lin » : Qin Han, Qin Xianglin, Brigitte Lin et Lin Feng-chiao. Brigitte Lin fit ses débuts en 1973 avec _Outside the Window_ avant de devenir une légende du cinéma sinophone ; Lin Feng-chiao remporta le Golden Horse de la meilleure actrice en 1979[^22]. Les larmes de Chiung Yao constituaient, pour beaucoup, le socle d'une jeunesse partagée.
 
 ```tw-timeline
-1925 | À qui la faute ? | Premier long métrage de fiction produit par des Taïwanais, par l'Association de recherche cinématographique taïwanaise
-1956 | Xue Ping-gui et Wang Bao-chuan | Déclenche la vague des films en taïwanais, Taïwan devient un temps le 3e producteur mondial de longs métrages
-1963 | La ligne du « réalisme sain » | Kung Hung la définit : « le sain, c'est l'édifiant ; le réaliste, c'est la campagne »
-1967 | Dragon Inn | King Hu ouvre une décennie de wuxia, champion du box-office de l'année
-1982 | In Our Time | Point de départ du mouvement du Nouveau Cinéma taïwanais
-1989 | A City of Sadness | Lion d'or à Venise, premier grand prix d'un des trois plus grands festivals pour Taïwan
-2008 | Cape No. 7 | Cinq langues, la part de marché locale bondit de 0,36 % à 12,09 %
-2018 | 55e Golden Horse Awards | Le discours de Fu Yu déclenche une controverse entre les deux rives, boycott chinois l'année suivante
-Source : Centre national du film et de la culture audiovisuelle (TFAI), archives officielles des festivals
+1925 | 《誰之過》 | Premier long métrage produit par des Taïwanais, par la Taiwan Film Research Association
+1956 | 《薛平貴與王寶釧》 | Déclenchement de l'âge d'or du cinéma en taïwanais ; Taïwan devient alors le 3e producteur mondial de longs métrages
+1963 | Ligne « sain et réaliste » | Kung Hung définit : « le sain est l'édification, le réaliste est la campagne »
+1967 | 《龍門客棧》 | King Hu inaugure la décennie du wuxia ; champion du box-office annuel
+1982 | 《光陰的故事》 | Point de départ du Nouveau Cinéma taïwanais
+1989 | 《悲情城市》 | Lion d'or à Venise, premier prix majeur de Taïwan dans l'un des trois grands festivals internationaux
+2008 | 《海角七號》 | Cinq langues utilisées ; la part de marché locale bondit de 0,36 % à 12,09 %
+2018 | 55e Golden Horse Awards | Le discours de Fu Yu suscite une controverse inter-détroit ; la Chine annonce un boycott l'année suivante
+Source : Centre national du cinéma et des arts audiovisuels (TFAI), archives officielles des festivals
 ```
 
-La deuxième force est le _wuxia_. En 1967, _Dragon Inn_ (龍門客棧) de King Hu devient le film le plus rentable de l'année à Taïwan, ouvrant une mode du wuxia qui durera dix ans[^23]. King Hu ne fait pas que remplir les salles : il fait du wuxia une esthétique à part entière. En 1975, son film _A Touch of Zen_ (俠女) remporte le grand prix de la commission technique supérieure au 28e Festival de Cannes — le deuxième film sinophone primé à Cannes après _The Magnificent Concubine_ (楊貴妃) de Li Han-hsiang en 1962[^24]. Un détail en dit long sur la situation du cinéma taïwanais à l'époque : _A Touch of Zen_ est présenté à Cannes sous la bannière de « Hong Kong », à l'invitation d'un critique français — pas par le gouvernement taïwanais[^24]. Le langage du wuxia selon King Hu — bambous, vides, rythme — influencera plus tard Tsui Hark, ainsi qu'Ang Lee : la scène de la forêt de bambous de _Tigre et Dragon_ lui rend directement hommage[^25].
+La deuxième force était le _wuxia_ (cinéma de chevalerie) : en 1967, _Dragon Inn_ de King Hu devint le champion du box-office taïwanais, lançant une vague de films de genre qui durera dix ans[^23]. King Hu ne se contentait pas de faire du succès ; il a élevé le _wuxia_ au rang d'esthétique. En 1975, son film _A Touch of Zen_ remporta le Grand Prix du Jury technique lors du 28e Festival de Cannes, devenant le deuxième film sinophone récompensé à Cannes après _The Romance of Lady Yang_ de Li Han en 1962[^24]. Un détail illustre bien la situation du cinéma taïwanais de l'époque : _A Touch of Zen_ fut présenté au festival sur invitation de critiques français sous le nom de « Hong Kong », et non par recommandation du gouvernement taïwanais[^24]. Le langage martial de King Hu — ses forêts de bambous, ses espaces vides et son sens du rythme — influença plus tard Tsui Hark ainsi qu'Ang Lee ; la scène de la forêt de bambous dans _Crouching Tiger, Hidden Dragon_ est d'ailleurs un hommage à son travail[^25].
 
-La troisième force est le cinéma patriotique de propagande. En 1971, la République de Chine se retire des Nations unies, et les esprits s'agitent. L'une des réponses du gouvernement, selon les mots du TFAI, est de produire des films « pour stabiliser les esprits et vanter l'action gouvernementale »[^26]. _The Thousand Heroes_ (英烈千秋), en 1974, porté par le cadre du département de guerre politique Wang Sheng, réalisé par Ting Shan-hsi et interprété par Ko Chun-hsiung, est suivi en 1976 par _Eight Hundred Heroes_ (八百壯士), puis en 1977 par _Heroes of the Eastern Skies_ (筧橋英烈傳)[^27]. Dans la mémoire de beaucoup, ces films restent associés aux séances scolaires obligatoires ; mais il faut le dire honnêtement, on ne trouve aucune source primaire attestant d'une véritable « obligation scolaire » — seule certitude, ces films étaient souvent rediffusés à la télévision les jours fériés[^28].
+La troisième force était le cinéma patriotique de propagande : en 1971, suite au retrait de la République de Chine des Nations Unies, l'opinion publique était instable. L'une des réponses du gouvernement, selon les termes du TFAI, fut de produire des films « pour stabiliser le moral de la population et promouvoir les actions du gouvernement »[^26]. On peut citer _The Eternal Heroes_ (1974), porté par l'officier de liaison politique Wang Sheng, réalisé par Ting Shan-hsi et porté par Ke Chun-hsiung, suivi de _The Eighty Heroes_ (1976) et _The Legend of Jieqiao_ (1977)[^27]. Dans la mémoire de beaucoup, ces films sont indissociables des « sorties scolaires organisées » ; toutefois, pour être honnête, il n'existe aucune source primaire prouvant que les écoles « louaient obligatoirement des salles entières », la seule certitude étant qu'ils étaient fréquemment rediffusés à la télévision lors des jours fériés[^28].
 
-> 📝 **Note du commissaire :** Du cinéma en taïwanais au réalisme sain, puis au cinéma patriotique — si l'on prend « ce qu'on a le droit de dire à l'écran » comme fil conducteur, on s'aperçoit que l'histoire du cinéma national a toujours répondu à la même question, sauf que la réponse était écrite par la politique, pas par le public ni par les créateurs. Le problème des films en taïwanais était « interdiction d'utiliser cette langue pour bien filmer » ; celui du réalisme sain était « autorisation d'écrire une seule sorte de réel » ; celui du cinéma patriotique était « à quoi sert le cinéma ». Langue, sujet, usage : trois portes, ouvertes et fermées tour à tour.
+> 📝 **Note du commissaire** : Du cinéma en taïwanais au courant « sain et réaliste » jusqu'au cinéma patriotique, si l'on considère comme fil conducteur « ce qui est dit sur l'écran et ce qui peut être dit », on s'aperçoit que l'histoire du cinéma national n'a cessé de répondre à la même question — sauf que les réponses étaient dictées par les politiques, et non par le public ou les créateurs. Le problème du cinéma en taïwanais était « l'interdiction d'utiliser cette langue pour faire du bon cinéma » ; celui du courant sain et réaliste était « l'obligation de ne montrer qu'une seule forme de vérité » ; et celui du cinéma patriotique était « la finalité même du cinéma ». Langue, thématique, usage : trois verrous qui se sont succédé.
 
-Il vaut la peine de raconter d'où vient le nom « Golden Horse » (金馬). En 1957, un festival de films en taïwanais avait été organisé, à titre privé, sous ce même nom — il n'aura lieu qu'une seule fois[^29]. En 1962, le Bureau de l'information crée les Golden Horse Awards officiels, réservés en principe aux films en mandarin, avec une cérémonie délibérément programmée autour de l'anniversaire de Chiang Kai-shek[^29]. Un même nom, d'abord porté par le cinéma en taïwanais, puis récupéré par le cinéma en mandarin : c'est en soi une petite note de bas de page sur la politique linguistique de cette époque.
+Il convient également de mentionner l'origine du nom « Golden Horse » (Jinma). En 1957, un festival de films en taïwanais fut organisé par des acteurs privés sous le nom de « Golden Horse Awards », mais il ne fut organisé qu'une seule fois[^29]. En 1962, le Bureau des Informations fonda les Golden Horse Awards officiels, qui n'étaient théoriquement décernés qu'aux films en mandarin, et la cérémonie était délibérément programmée autour de l'anniversaire de Chiang Kai-shek[^29]. Ce même nom, appartenant d'abord au cinéma en taïwanais avant d'être récupéré par le cinéma en mandarin, constitue en soi une petite note de bas de page sur la politique linguistique de cette époque.
 
 ## La pomme coupée
 
@@ -146,39 +145,40 @@ Le troisième nom est Tsai Ming-liang. À partir de _Rebels of the Neon God_ (�
 
 Il faut aussi rectifier une idée reçue très répandue sur la place de ces trois réalisateurs dans l'histoire du cinéma. On dit souvent que « trois films taïwanais figurent au classement des cent plus grands films de tous les temps des _Cahiers du Cinéma_ » — c'est faux. En vérifiant la liste des cent meilleurs films établie par les _Cahiers du Cinéma_ en 2008, on n'y trouve aucun film taïwanais[^44]. Ceux qui ont réellement inscrit le cinéma taïwanais dans une telle liste, ce sont les Britanniques de _Sight & Sound_ (BFI), avec leur classement de 2022 : _A Brighter Summer Day_ d'Edward Yang y figure au 78e rang, _Yi Yi_ au 90e[^45].
 
-## Primé, mais personne ne regarde
+## Récompenses obtenues, mais personne pour les voir
 
-Voici le tournant le plus contre-intuitif de toute l'histoire du cinéma national — et l'endroit où il est le plus facile de la transformer en une leçon de morale toxique.
+C'est le tournant le plus contre-intuitif de l'histoire du cinéma taïwanais, et celui qui est le plus facilement transformé en un récit de désillusion.
 
-Le Nouveau Cinéma décroche des Lions d'or et des prix de mise en scène en Europe ; le cinéma taïwanais est vu par le monde pour la première fois. Mais au même moment, dans les salles taïwanaises, le cinéma national est en train de mourir. À partir de 1996, la production annuelle de films locaux chute à 15-20 films, avec une part de marché de seulement 1 à 2 %[^46]. Le creux de la vague est atteint en 2003 : cette année-là, Taïwan ne tourne qu'environ 15 films nationaux, pour un box-office total d'environ 15 millions de dollars taïwanais, soit 0,36 % du total national — même pas 1 %[^47].
+Grâce au Nouveau Cinéma (_xīn diànyǐng_), Taïwan a remporté le Lion d'or à Venise et des prix de la meilleure mise en scène en Europe ; c'était la première fois que le cinéma taïwanais était remarqué par le monde entier. Pourtant, durant cette même période, dans les salles de cinéma de Taïwan, le cinéma national était en train de mourir. À partir de 1996, la production annuelle de films locaux est tombée à 15 ou 20 films, avec une part de marché ne dépassant plus que 1 % à 2 %[^46]. Le point le plus bas fut atteint en 2003 : cette année-là, Taïwan n'a produit qu'environ 15 films nationaux, pour un box-office total d'environ NT$15 millions, soit seulement 0,36 % du box-office total de l'île, soit même moins de 1 %[^47].
 
 ```tw-bars
-2003 creux de la vague | 0.36 | Taïwan à peine environ 15 films nationaux
-2006 lente reprise | 1.62
-2008 Cape No. 7 | 12.09 | bond de plus de 30 fois
-2011 Warriors of the Rainbow: Seediq Bale | 17.46 | record historique à l'époque
-2024 récemment | 10
-Source : magazine Taiwan Panorama, statistiques du TFAI (part de marché du cinéma local, %)
+2003 Point bas | 0.36 | Env. 15 films nationaux à Taïwan
+2006 Remontée lente | 1.62
+2008 Cape No. 7 | 12.09 | Augmentation de plus de 30 fois
+2011 Seediq Bale | 17.46 | Sommet historique à l'époque
+2024 Ces dernières années | 10
+Source : Taiwan Light Magazine, statistiques du TFAI (part de marché des films locaux en %)
 ```
 
-0,36 %. Prononçons ce chiffre : sur cent Taïwanais qui vont au cinéma, pas un seul ne va voir un film national. Et pendant ces mêmes années, les noms de Hou Hsiao-hsien, Edward Yang et Tsai Ming-liang brillent à Cannes et à Venise. Le cinéma d'une île fleurit hors les murs, et se fane à l'intérieur.
+0,36 %. Prononcez ce chiffre : sur cent Taïwanais entrant au cinéma, pas un seul n'est allé voir un film national. Et pourtant, durant ces années-là, les noms de Hou Hsiao-hsien, Yang De-chang et Tsai Ming-liang brillaient à Cannes et à Venise. Le cinéma d'une île fleurissait hors des murs, mais se fânait à l'intérieur.
 
-Le public a alors fait naître une explication, qui coule très bien : « Tout est la faute du Nouveau Cinéma. Ces films d'art sont sinistres et incompréhensibles, ils ont fait fuir le public, et c'est pour ça que le cinéma national est mort. »
+Une théorie est ainsi née dans l'opinion publique, et elle est très facile à soutenir : « C'est la faute du Nouveau Cinéma. Ces films d'auteur sont ennuyeux et incompréhensibles ; ils ont fait fuir le public, et c'est pour cela que le cinéma national est mort. »
 
-Il faut prendre cette explication au sérieux, car elle porte une vraie colère : beaucoup de gens sont réellement allés au cinéma sans rien comprendre, s'y sont endormis, puis n'y sont plus jamais retournés voir un film national. Mais faire porter tout le marasme du cinéma national sur le dos du Nouveau Cinéma, c'est réduire un effondrement à causes multiples à un simple bouc émissaire.
+Il faut prendre cette affirmation au sérieux, car elle repose sur une véritable amertume : beaucoup de gens allaient réellement au cinéma, ne comprenaient rien ou s'endormaient devant l'écran, puis ne revenaient plus jamais voir de films locaux. Cependant, imputer tout le déclin du cinéma national au seul Nouveau Cinéma revient à simplifier un effondrement multifactoriel en désignant un bouc émissaire.
 
-Il est vrai que le Nouveau Cinéma a creusé une distance entre une partie du public et les habitudes du cinéma commercial grand public — inutile de l'esquiver. Mais l'effondrement du cinéma national des années 1990-2000 obéit à des causes bien plus structurelles, agissant toutes en même temps : les blockbusters hollywoodiens envahissent totalement Taïwan, les quotas d'importation de films étrangers s'assouplissent après l'entrée de Taïwan à l'OMC, la cassette vidéo puis le câble changent la façon de regarder des films, les capitaux locaux se retirent en masse du secteur du cinéma, et les réseaux de salles passent sous le contrôle des films importés[^48]. Une industrie a été écrasée par tout cet ensemble à la fois — pas chassée par quelques films d'art primés.
+Il est vrai que le Nouveau Cinéma a créé une distance entre une partie du public et les habitudes de consommation des films commerciaux grand public ; ce point ne doit pas être occulté. Mais l'effondrement du cinéma national entre les années 1990 et 2000 s'explique par des causes structurelles concomitantes : l'invasion massive des blockbusters hollywoodiens à Taïwan, l'assouplissement des quotas d'importation de films étrangers après l'adhésion de Taïwan à l'OMC, la modification des habitudes de visionnage par les cassettes vidéo et la télévision par câble, le retrait massif des capitaux locaux de l'industrie cinématographique, et le fait que les réseaux de distribution en salles étaient également dominés par les films importés[^48]. C'est un ensemble de facteurs qui a écrasé l'industrie, et non quelques films d'auteur primés.
 
-> 📝 **Note du commissaire :** L'idée selon laquelle « le Nouveau Cinéma a tué le cinéma national » séduit parce qu'elle transforme un effondrement de marché complexe en une histoire à visages humains — il y a un méchant (le réalisateur incompréhensible), il y a une victime (le spectateur qui ne comprend pas). Mais la vérité, en général, n'a pas de visage. Faire de Hou Hsiao-hsien ou d'Edward Yang les coupables du déclin du cinéma national revient à exiger d'un groupe de créateurs qu'ils répondent seuls de l'effondrement de tout un écosystème industriel. Leur prix à eux fut d'une autre nature : ils ont obtenu des récompenses mondiales sans jamais parvenir à convertir cela en public local — la gloire et le marché, pendant cette dizaine d'années, ont été deux choses totalement déconnectées.
+> 📝 **Note du commissaire** : L'idée selon laquelle « le Nouveau Cinéma a tué le cinéma national » est séduisante parce qu'elle transforme un effondrement complexe du marché en une histoire avec des visages — des méchants (les réalisateurs incompréhensibles) et des victimes (le public dérouté). Mais la vérité n'a généralement pas de visage. Considérer Hou Hsiao-hsien et Yang De-chang comme les coupables du déclin du cinéma national revient à demander à un groupe de créateurs d'assumer la responsabilité de l'effondrement de tout un écosystème industriel. Leur prix a été d'une autre nature : remporter des prix mondiaux, mais ne pas réussir à conquérir le public local — la gloire et le marché étaient, durant ces dix années, deux réalités totalement déconnectées.
 
-C'est ainsi la deuxième mort du cinéma national. Le cinéma en taïwanais avait été étouffé par la politique ; cette fois, c'est le marché qui noie. La différence, c'est que la manière de mourir n'est pas la même, et le mécanisme de résurrection ne le sera pas non plus. Le cinéma en taïwanais n'est jamais revenu — mais cette fois, quelqu'un attend déjà une façon de faire revenir le public dans les salles.
+C'est la seconde mort du cinéma national. Si les films en taïwanais ont été étouffés par les politiques, cette fois-ci, ils ont été noyés par le marché. La différence réside dans ceci : puisque les modes de décès diffèrent, les mécanismes de renaissance le seront aussi. Les films en taïwanais ne sont jamais revenus, mais cette fois, certains cherchent une méthode pour ramener le public au cinéma.
 
 ```tw-versus
 Gloire des festivals | Réalité des salles
-A City of Sadness, Lion d'or à Venise en 1989 | production nationale annuelle tombée à 15-20 films sur la même période
-Yi Yi, prix de la mise en scène à Cannes en 2000 | part de marché locale de 0,36 % en 2003
-Deux films d'Edward Yang au classement des cent plus grands films de tous les temps | « cinéma national = poison du box-office » devient l'image populaire
-Fleurir hors les murs | Se faner à l'intérieur
+A City of Sadness (1989) Lion d'or à Venise | Production nationale tombée à 15–20 films/an
+Yi Yi (2000) Prix de la mise en scène à Cannes | Part de marché locale de 0,36 % en 2003
+Deux films de Yang De-chang dans le top 100 mondial | L'image populaire « cinéma national = poison au box-office »
+Fleurit hors des murs | Se fane à l'intérieur
+Source : Données de trois grands festivals (Lion d'or de Venise, Prix de la mise en scène à Cannes, Top 100 de l'histoire du cinéma) + statistiques de production et de box-office (production de 15–20 films/an depuis 1996, part de marché de 0,36 % en 2003) [^46][^47][^48]
 ```
 
 ## Pour monter sur l'écran du monde, il fallait d'abord quitter son île
