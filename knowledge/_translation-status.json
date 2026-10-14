@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-14T08:16:01+08:00",
-    "zhCommitHead": "0a32b40e2",
+    "lastUpdated": "2026-10-14T08:30:06+08:00",
+    "zhCommitHead": "f1cf54e00",
     "totalZh": 1131,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1131,
-        "fresh": 1129,
-        "stale": 2,
+        "fresh": 1130,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -52400,8 +52400,8 @@
           "sourceContentHash": "sha256:7d3802fe03c60e03",
           "sourceBodyHash": "sha256:24a950fc8509e96a",
           "translatedAt": "2026-10-13T22:29:34.983621+00:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "ab3d0a15",
+          "translationLastModified": "2026-10-14T08:16:02+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 102982,
@@ -211736,20 +211736,18 @@
         "id": {
           "path": "id/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:bb3880571afae296",
-          "sourceBodyHash": "sha256:4a9169e2b0024dea",
-          "translatedAt": "2026-09-23T08:03:20.871640+00:00",
+          "sourceCommitSha": "13aae9d5a",
+          "sourceContentHash": "sha256:6e5737281981f34c",
+          "sourceBodyHash": "sha256:4526b5691fd4cea3",
+          "translatedAt": "2026-10-14T00:21:07.949520+00:00",
           "translationLastCommit": "d4b1ceab",
           "translationLastModified": "2026-10-10T22:59:12+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 45709,
+          "bytes": 48649,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/wretch.md",
