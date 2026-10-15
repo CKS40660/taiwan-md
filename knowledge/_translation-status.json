@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T13:56:32+08:00",
-    "zhCommitHead": "4cabb2d78",
+    "lastUpdated": "2026-10-15T14:07:18+08:00",
+    "zhCommitHead": "9764a3104",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -28,17 +28,17 @@
       },
       "ja": {
         "total_zh": 1135,
-        "fresh": 1078,
+        "fresh": 1079,
         "stale": 1,
-        "metadata_stale": 54,
+        "metadata_stale": 53,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1135,
-        "fresh": 1078,
+        "fresh": 1079,
         "stale": 1,
-        "metadata_stale": 54,
+        "metadata_stale": 53,
         "missing": 2,
         "orphan": 0
       },
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1135,
-        "fresh": 1076,
+        "fresh": 1077,
         "stale": 2,
-        "metadata_stale": 55,
+        "metadata_stale": 54,
         "missing": 2,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1074,
+        "fresh": 1075,
         "stale": 3,
-        "metadata_stale": 56,
+        "metadata_stale": 55,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1073,
+        "fresh": 1074,
         "stale": 4,
-        "metadata_stale": 56,
+        "metadata_stale": 55,
         "missing": 2,
         "orphan": 0
       }
@@ -8572,20 +8572,18 @@
         "id": {
           "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "2e88c5e31",
+          "sourceCommitSha": "57cdd3ae4",
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
-          "translatedAt": "2026-09-20T00:52:42+08:00",
+          "translatedAt": "2026-10-15T05:49:59.189512+00:00",
           "translationLastCommit": "e6cada32",
           "translationLastModified": "2026-09-20T08:54:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 20913,
+          "bytes": 21687,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -8640,20 +8638,18 @@
         "ru": {
           "path": "ru/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "2e88c5e31",
+          "sourceCommitSha": "57cdd3ae4",
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
-          "translatedAt": "2026-09-20T00:52:48+08:00",
+          "translatedAt": "2026-10-15T12:43:09+08:00",
           "translationLastCommit": "fcc7f41d",
           "translationLastModified": "2026-09-20T09:01:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 37064,
+          "bytes": 39174,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -10344,20 +10340,18 @@
         "ja": {
           "path": "ja/Economy/taiwan-self-media-creator-economy.md",
           "translatedFrom": "Economy/台灣自媒體創作者經濟.md",
-          "sourceCommitSha": "7255b3ab1",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:4da8d8f4824a9c3e",
           "sourceBodyHash": "sha256:ccfe4d55665e1140",
-          "translatedAt": "2026-09-23T09:26:33+08:00",
+          "translatedAt": "2026-10-15T12:42:38+08:00",
           "translationLastCommit": "5fe984c3",
           "translationLastModified": "2026-09-23T11:49:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 21057,
+          "bytes": 21556,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-self-media-creator-economy.md",
@@ -83630,8 +83624,8 @@
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
           "translatedAt": "2026-10-15T12:42:56+08:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "9764a310",
+          "translationLastModified": "2026-10-15T13:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 22189,
@@ -106346,8 +106340,8 @@
           "sourceContentHash": "sha256:f7b44615a84043f8",
           "sourceBodyHash": "sha256:15c277d38e9e5f3f",
           "translatedAt": "2026-10-15T12:42:56+08:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "9764a310",
+          "translationLastModified": "2026-10-15T13:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 23907,
@@ -123182,20 +123176,18 @@
         "ko": {
           "path": "ko/People/zhu-zong-qing.md",
           "translatedFrom": "People/朱宗慶.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "afc244ca1",
           "sourceContentHash": "sha256:0eba5bba0f89e085",
           "sourceBodyHash": "sha256:7f55711687ee2aed",
-          "translatedAt": "2026-04-14T19:24:22+08:00",
+          "translatedAt": "2026-10-15T12:42:42+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14270,
+          "bytes": 15411,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/zhu-zong-qing.md",
@@ -162496,8 +162488,8 @@
           "sourceContentHash": "sha256:e9a6e5affb601108",
           "sourceBodyHash": "sha256:b9d952385b4be9e2",
           "translatedAt": "2026-10-15T01:07:22+08:00",
-          "translationLastCommit": "e502cb2b",
-          "translationLastModified": "2026-08-04T19:13:50+08:00",
+          "translationLastCommit": "9764a310",
+          "translationLastModified": "2026-10-15T13:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 12474,
@@ -198452,20 +198444,18 @@
         "de": {
           "path": "de/Geography/taiwan-reservoirs-and-water-resource-management.md",
           "translatedFrom": "Geography/台灣水庫與水資源管理.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "3d90cfd59",
           "sourceContentHash": "sha256:58cfc27dba0ac67b",
           "sourceBodyHash": "sha256:4e6245b3f0401bec",
-          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translatedAt": "2026-10-15T12:43:12+08:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 26467,
+          "bytes": 17644,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -226732,8 +226722,8 @@
           "sourceContentHash": "sha256:6a706e4e63244fc1",
           "sourceBodyHash": "sha256:6123bc66f3f63048",
           "translatedAt": "2026-10-15T04:25:38.549260+00:00",
-          "translationLastCommit": "7651e316",
-          "translationLastModified": "2026-08-04T23:03:43+08:00",
+          "translationLastCommit": "9764a310",
+          "translationLastModified": "2026-10-15T13:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 13097,
