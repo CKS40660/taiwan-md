@@ -1,15 +1,15 @@
 ---
-title: 'La culture des quartiers (Li) à Taïwan'
-description: "De la mise en œuvre démocratique au niveau le plus élémentaire à l'innovation sociale de la construction communautaire"
+title: 'Communautés et culture des quartiers à Taïwan'
+description: "Le quartier (li) est la plus petite cellule de la société démocratique taïwanaise : le chef de quartier convoque les résidents pour des réunions, les chefs de voisinage informent les habitants de porte en porte, et l'université communautaire propose des cours dans la salle de classe voisine. Cet article part du système de base des quartiers et voisinages, retrace le mouvement de création communautaire et les expérimentations des universités communautaires, pour observer comment la participation citoyenne est passée d'une réception passive à une transformation active, et comment ce réseau local soutient la résilience sociale de Taïwan."
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Système Li/Voisin',
-    'Construction communautaire',
-    'Université communautaire',
-    'Participation citoyenne',
-    'Autonomie locale',
+    'système de quartiers et voisinages',
+    'création communautaire',
+    'université communautaire',
+    'participation citoyenne',
+    'autonomie locale',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T07:53:56+08:00'
+translatedAt: '2026-10-15T19:12:40.722590+00:00'
 ---
 
 # La culture des quartiers (Li) à Taïwan

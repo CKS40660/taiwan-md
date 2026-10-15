@@ -1,15 +1,15 @@
 ---
-title: "L'architecture de Taïwan"
-description: "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île"
+title: 'Architecture de Taïwan'
+description: "Des maisons en pierre du peuple Paiwan aux bâtiments en briques rouges laissés par Matsunosuke Moriyama, des lignes de Wang Da-hong qui ont jeté les bases de l'architecture moderne aux édifices publics sans clôture construits par Huang Sheng-yuan au milieu des rizières d'Yilan. Au cours des quatre cents dernières années, la sagesse architecturale des autochtones, des Hollandais, des Japonais et des Chinois s'est entrechoquée sur cette île, une caractéristique hybride que la Biennale d'architecture de Venise a décrite comme « maintenir la localité dans la mondialisation »."
 date: 2026-03-28
 category: 'Art'
 tags:
   [
-    'architecture',
-    'culture',
-    'histoire',
-    'peuples autochtones',
-    'période japonaise',
+    'Architecture',
+    'Culture',
+    'Histoire',
+    'Autochtones',
+    'Période coloniale japonaise',
   ]
 subcategory: '建築'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-07-27T11:37:18.252289+00:00'
+translatedAt: '2026-10-15T19:06:13.650845+00:00'
 ---
 
 # L'architecture de Taïwan : un poème en volumes au carrefour des civilisations

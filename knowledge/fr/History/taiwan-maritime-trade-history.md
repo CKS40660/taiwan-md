@@ -1,15 +1,15 @@
 ---
 title: 'Histoire du commerce maritime de Taïwan'
-description: "L'ère des Grandes Découvertes à Taïwan : la légende de l'ascension et de la chute d'un centre commercial international devenu royaume de pirates"
+description: "À l'époque des Grandes Découvertes aux XVIe et XVIIe siècles, cette île n'était pas une petite périphérie de l'Asie de l'Est, mais un pivot commercial crucial reliant la Chine, le Japon et l'Asie du Sud-Est. La Compagnie néerlandaise des Indes orientales a construit Fort Zeelandia à Tainan, important de la soie, de la porcelaine et du thé de Chine, recevant des lingots d'argent du Japon et servant de point de transit pour les épices et le bois en provenance d'Asie du Sud-Est ; elle était alors surnommée l'Amsterdam de l'Asie de l'Est. La dynastie Zheng a également établi une hégémonie maritime, écrivant une histoire de montée et de chute, passant d'un carrefour commercial à un royaume de pirates."
 date: 2026-03-20
 category: 'History'
 tags:
   [
     'commerce maritime',
-    'ère des Grandes Découvertes',
+    'époque des Grandes Découvertes',
     'commerce international',
     'pirates',
-    'villes portuaires',
+    'ville portuaire',
   ]
 subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T16:32:38+08:00'
+translatedAt: '2026-10-15T18:51:45.486928+00:00'
 ---
 
 # Histoire du commerce maritime de Taïwan
