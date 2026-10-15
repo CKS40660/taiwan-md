@@ -1,9 +1,9 @@
 ---
-title: 'Teknologi Advantech'
-description: 'Pemimpin global komputer industri, pelopor sistem cerdas IoT yang berasal dari Taiwan'
+title: 'Advantech'
+description: 'Perusahaan komputer industri yang didirikan pada tahun 1983 oleh tiga mantan insinyur HP, kini telah menjadi pemimpin global dalam sektor komputer industri. Berfokus pada solusi IoT industri dan komputasi tepi (edge computing), perusahaan ini memiliki kehadiran di 27 negara dengan hampir sembilan ribu karyawan; bertransformasi dari produsen komputer industri awal menjadi "penggerak bumi cerdas" yang menyediakan teknologi inti untuk transformasi digital di bidang manufaktur, medis, transportasi, ritel, dan lainnya.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Economy', 'Perusahaan', 'Komputer Industri', 'IoT']
+tags: ['Ekonomi', 'Perusahaan', 'Komputer Industri', 'IoT']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:55:24.397181+00:00'
+translatedAt: '2026-10-15T23:12:03.964981+00:00'
 ---
 
 > **Gambaran 30 detik**

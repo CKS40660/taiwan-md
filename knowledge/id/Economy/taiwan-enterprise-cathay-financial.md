@@ -1,15 +1,15 @@
 ---
-title: 'Perusahaan Taiwan: Cathay Financial Holding (國泰金控)'
-description: 'Grup holding keuangan terbesar di Taiwan, kekaisaran keuangan yang dibangun oleh Grup Linyuan (霖園集團)'
+title: 'Perusahaan Taiwan: Cathay Financial Holding'
+description: 'Perusahaan holding keuangan terbesar di Taiwan: total aset mencapai NT$12 triliun, menaungi Cathay Life, Cathay United Bank, dan Cathay Insurance. Pada November 2025, perusahaan mencatat laba bulanan sebesar NT$14,62 miliar, menjadikannya pemimpin laba selama dua bulan berturut-turut. Ini adalah perusahaan asuransi jiwa swasta pertama di Taiwan dan salah satu pelopor dalam membangun struktur holding keuangan. Artikel ini membahas bagaimana Grup Linyuan mengintegrasikan asuransi, perbankan, dan investasi menjadi satu kesatuan.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
+    'Ekonomi',
     'Perusahaan',
     'Industri Keuangan',
     'Holding Keuangan',
-    'Bank',
+    'Perbankan',
     'Asuransi',
   ]
 subcategory: '企業列傳'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:4749f0faadb8e7bf'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:135918b4f99e7ae7'
 sourceBodyHash: 'sha256:ebc33c96c44483b0'
-translatedAt: '2026-09-13T05:56:48+08:00'
+translatedAt: '2026-10-15T22:55:28.719112+00:00'
 ---
 
 > **Ringkasan 30 Detik**
@@ -167,12 +167,12 @@ Dari perusahaan asuransi jiwa yang didirikan oleh bersaudara Tsai Wan-chun dan T
 
 ## Referensi
 
-[^1]: [Wikipedia — Tsai Wan-lin (蔡萬霖)](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924-2004) adalah pendiri bersama Cathay Life Insurance; Tsai Wan-chun (kakak) dan Tsai Wan-lin bersama mendirikan pada 1962, Tsai Wan-tsai (adik keempat) mendirikan Grup Fubon secara terpisah
+[^1]: [Wikipedia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924–2004) adalah salah satu pendiri Cathay Life Insurance; Tsai Wan-chun (kakak tertua) dan Tsai Wan-lin mendirikan perusahaan ini bersama pada tahun 1962, sementara adik keempat, Tsai Wan-cai, mendirikan Fubon Group secara terpisah.
 
-[^2]: [Wikipedia — Cathay Financial Holding (國泰金融控股)](https://zh.wikipedia.org/wiki/國泰金融控股) — Total aset Cathay Financial Holding 12 triliun dolar Taiwan baru (pembaruan Juli 2025), adalah perusahaan holding keuangan terbesar di Taiwan
+[^2]: [Wikipedia — Cathay Financial Holding](https://zh.wikipedia.org/wiki/國泰金融控股) — Total aset Cathay Financial Holding adalah NT$12 triliun (diperbarui Juli 2025), menjadikannya perusahaan holding keuangan terbesar di Taiwan.
 
-[^3]: [Cnyes.com (鉅亨網) Desember 2025 — Peringkat Keuntungan 13 Holding Keuangan](https://www.cnyes.com/) — Cathay Financial Holding laba bersih pasca pajak bulanan November 2025 sebesar 14,62 miliar, dua bulan berturut-turut meraih raja keuntungan
+[^3]: [鉅亨網 Desember 2025 — Peringkat Laba 13 Perusahaan Holding Keuangan](https://www.cnyes.com/) — Laba bersih setelah pajak Cathay Financial Holding pada bulan November 2025 adalah NT$14,62 miliar, mempertahankan posisi sebagai pemimpin laba selama dua bulan berturut-turut.
 
-[^4]: [Laporan ESG Cathay Financial Holding — Komitmen Keuangan Berkelanjutan](https://www.cathayholdings.com/) — Cathay Life Insurance 2021 mengumumkan tidak lagi menambah investasi terkait batubara, menjadi perusahaan asuransi pertama di Taiwan yang membuat komitmen ini
+[^4]: [Laporan ESG Cathay Financial Holding — Komitmen Keuangan Berkelanjutan](https://www.cathayholdings.com/) — Cathay Life Insurance mengumumkan pada tahun 2021 bahwa mereka tidak akan menambah investasi baru yang terkait dengan batu bara, menjadikannya perusahaan asuransi pertama di Taiwan yang membuat komitmen tersebut.
 
-[^5]: [Wikipedia — Cathay Financial Holding (國泰金融控股)](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holding didirikan 2001, adalah holding keuangan pertama di Taiwan setelah Undang-Undang Holding Keuangan disahkan
+[^5]: [Wikipedia — Cathay Financial Holding](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holding didirikan pada tahun 2001, merupakan perusahaan holding keuangan pertama di Taiwan setelah disahkannya Undang-Undang Perusahaan Holding Keuangan.

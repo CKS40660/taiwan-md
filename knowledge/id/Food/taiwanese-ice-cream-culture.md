@@ -1,9 +1,9 @@
 ---
-title: 'Budaya Es Kelvin di Taiwan'
-description: 'Dari es mangga Yuqing hingga revolusi es bunga salju, jelajahi budaya unik Taiwan yang tetap menikmati es meskipun di musim dingin'
+title: 'Budaya Es di Taiwan'
+description: 'Kegemaran masyarakat Taiwan terhadap hidangan es sangat jarang ditemukan di belahan dunia lain, bahkan saat musim dingin pun gerai tetap ramai pengunjung; budaya ini dapat ditelusuri kembali ke masa pendudukan Jepang saat teknologi pembuatan es diperkenalkan, melewati era populernya es serut pasca-perang hingga munculnya es serut salju (snow ice). Dari perkembangan es empat rasa ala Jepang yang dikembangkan menjadi es kacang merah manis oleh Chen Xi di Taichung, hingga es mangga Yujing yang terkenal di mancanegara, budaya ini bahkan turut mendorong industri perikanan pendingin; sebuah sejarah evolusi dengan garis waktu yang jelas.'
 date: 2026-03-19
 category: 'Food'
-tags: ['es kelapa', 'es mangga', 'es bunga salju', 'es serut', 'ICE MONSTER']
+tags: ['hidangan es', 'es mangga', 'es serut salju', 'es serut', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -15,10 +15,10 @@ imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T16:00:52+08:00'
+translatedAt: '2026-10-15T22:39:52.986211+00:00'
 ---
 
 # Budaya Es Kelvin di Taiwan

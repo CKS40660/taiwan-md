@@ -1,17 +1,17 @@
 ---
-title: 'Makanan Fermentasi dan Budaya Pengawetan Taiwan'
-description: 'Dari *chòu dòufu* (tahu bau) hingga *dòufǔrǔ* (tempe tahu), menjelajahi tradisi teknologi fermentasi dan pengawetan unik Taiwan'
+title: 'Budaya Makanan Fermentasi dan Pengasinan Taiwan'
+description: 'Menggabungkan teknik Hokkien, Hakka, orang asli, dan Jepang, budaya makanan fermentasi dan pengasinan Taiwan telah mengembangkan sistem rasa yang unik: dari tahu busuk di pinggir jalan hingga tahu fermentasi di setiap rumah, dari sayur asin hingga tape, di balik makanan-makanan yang tampak sederhana ini tersimpan prinsip ilmiah yang mendalam dan warisan budaya. Makanan fermentasi tidak hanya menjadi bagian dari industri makanan, tetapi juga jembatan budaya yang menghubungkan kenangan etnis dengan kehidupan modern, mencatatkan kearifan kuliner pulau ini.'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
-    'makanan fermentasi',
-    'budaya pengawetan',
-    'chòu dòufu',
-    'dòufǔrǔ',
-    'asinan',
-    'teknologi tradisional',
-    'mikroorganisme',
+    'Makanan Fermentasi',
+    'Budaya Pengasinan',
+    'Tahu Busuk',
+    'Tahu Fermentasi',
+    'Sayur Asin',
+    'Teknik Tradisional',
+    'Mikroorganisme',
   ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Chòu dòufu di Xizhen'
+imageAlt: 'Tahu Busuk Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T02:06:09+08:00'
+translatedAt: '2026-10-15T23:28:52.634033+00:00'
 ---
 
 # Makanan Fermentasi dan Budaya Pengawetan Taiwan
