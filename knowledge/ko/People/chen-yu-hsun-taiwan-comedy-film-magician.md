@@ -1,20 +1,20 @@
 ---
 title: '천위쉰'
-description: '대만 코미디 영화 감독, 《열대어》《총포사》《사라진 발렌타인데이》 창작자'
+description: '군인 마을 출신의 대만 코미디 감독으로, 다섯 편의 장편 영화를 통해 현지 코미디의 창작 문법을 구축했다. 황당한 상황 속에서 대만식 유머와 인문학적 따뜻함으로 심오한 인생 문제를 탐구하는 데 탁월하다. 할리우드 코미디 거장들에게 깊은 영감을 받은 그는 《사라진 발렌타인데이》로 금마장 최우수 작품상을 수상하며, 자신만의 문법에 대해 가장 권위 있는 대외적 인정을 받아냈다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   ['천위쉰', '감독', '코미디 영화', '열대어', '총포사', '사라진 발렌타인데이']
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: true
-featured: false
-translatedFrom: People/陳玉勳.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:bc132f506d9946e5
-sourceBodyHash: sha256:ae4d7d2f8418495d
-translatedAt: 2026-05-22T05:08:46+08:00
+translatedFrom: 'People/陳玉勳.md'
+sourceCommitSha: 'afc244ca1'
+sourceContentHash: 'sha256:bc132f506d9946e5'
+sourceBodyHash: 'sha256:ae4d7d2f8418495d'
+translatedAt: '2026-10-15T23:08:13.379669+00:00'
 ---
 
 # 천위쉰: 대만 코미디 영화의 따뜻한 마술사

@@ -1,9 +1,18 @@
 ---
-title: '타이완의 발효 식품과 절임 문화'
-description: '취두부부터 두부유까지, 타이완 특유의 발효 기술 및 저장 문화 전통 탐구'
+title: '대만의 발효 식품과 절임 문화'
+description: '민난, 객가, 원주민 및 일본식 기술이 융합된 대만의 발효 식품과 절임 문화는 독특한 풍미 체계를 발전시켜 왔습니다. 거리 곳곳의 취두부부터 각 가정의 두부유(발효 두부), 장아찌에서 주양에 이르기까지, 이 평범해 보이는 식품들 뒤에는 깊은 과학적 원리와 문화적 전승이 숨겨져 있습니다. 발효 식품은 식품 산업의 일환이자 민족의 기억과 현대 생활을 잇는 문화적 가교로서 섬의 식문화 지혜를 기록하고 있습니다.'
 date: 2026-03-18
 category: 'Food'
-tags: ['발효식품', '절임문화', '취두부', '두부유', '김치', '전통기술', '미생물']
+tags:
+  [
+    '발효 식품',
+    '절임 문화',
+    '취두부',
+    '두부유',
+    '김치/절임 채소',
+    '전통 기술',
+    '미생물',
+  ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
@@ -12,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: '서진(西鎮) 취두부'
+imageAlt: '시전의 취두부'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T22:04:41.954594+00:00'
 ---
 
 # 타이완의 발효 식품과 절임 문화

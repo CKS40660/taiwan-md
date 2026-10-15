@@ -1,19 +1,19 @@
 ---
-title: '주걱량'
-description: '대만 쇼 문화의 대표 인물, 국민적 코미디언, 2017년 병사'
+title: '주거량 (Zhu Ge Liang)'
+description: "본명은 사신달(謝新達)로, 1946년 가오슝 좌잉에서 태어났다. 아버지는 대장장이였고 어머니는 채소를 팔았으며, 초등학교 졸업 후 학업을 중단하고 15세에 가자희(歌仔戲)를 배우기 시작했다. 1960년대에는 야시장에서 가수들을 흉내 내며 이름을 알렸고, 1970년대 대만 경제가 급성장하며 야간 엔터테인먼트 수요가 늘어남에 따라 쇼 문화가 등장하자 이를 적극 활용했다. 그는 전통 희곡, 민간 구비 문학, 그리고 대중적인 요소를 결합한 이른바 '주식 유머(豬式幽默)'를 선보였으며, 대만어(타이완어)로 즉흥적인 운율을 맞추며 서민의 언어를 TV 버라이어티 프로그램으로 끌어올렸다. 2017년 5월, 대장암으로 별세했다."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['주거량', '쇼 문화', '코미디', '버라이어티', '대만어']
 subcategory: '數位與媒體'
-tags: ['주걱량', '쇼장(秀場)', '코미디', '예능', '대만어(台語)']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-10-15T23:34:43.268762+00:00'
 ---
 
 # 주걱량: 대만 쇼 문화의 국민 천왕
@@ -130,12 +130,12 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 참고 문헌
 
-[^1]: 위키백과 「주걱량」 항목, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, 출생지: 가오슝시 좌영구
+[^1]: 위키백과 「주거량(豬哥亮)」 항목, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, 출생지: 가오슝시 주잉구
 
-[^2]: 자유시보(自由時報) 〈주걱량 장례식 만인 송별〉, https://news.ltn.com.tw/, 2017년 5월 21일
+[^2]: 자유시보 〈주거량 고별식 만 명의 배웅〉, https://news.ltn.com.tw/, 2017년 5월 21일
 
-[^3]: 대만 TV 데이터베이스, https://tv.nccu.edu.tw/, 《주걱량사회》 프로그램 기록
+[^3]: 대만 TV 데이터베이스, https://tv.nccu.edu.tw/, 《주거회사(豬哥會社)》 프로그램 기록
 
-[^4]: 중앙통신사(中央社) 〈다위루안 흥행 3억 돌파〉, https://www.cna.com.tw/, 2013년 2월 흥행 보도
+[^4]: 중앙통신사 〈대미루만 박스오피스 3억 NT$ 돌파〉, https://www.cna.com.tw/, 2013년 2월 박스오피스 보도
 
-[^5]: 연합뉴스(聯合新聞網) 〈주걱량 5월 15일 병사, 향년 70세〉, https://udn.com/, 2017년 5월 15일
+[^5]: 연합뉴스 〈주거량 5월 15일 별세, 향년 70세〉, https://udn.com/, 2017년 5월 15일
