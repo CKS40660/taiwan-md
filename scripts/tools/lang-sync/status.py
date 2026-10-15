@@ -484,14 +484,17 @@ def print_summary_table(status: dict, lang_filter: str | None):
     print(f"   zh-TW canonical articles: {status['_meta']['totalZh']}")
     print(f"   Updated: {status['_meta']['lastUpdated']}\n")
 
-    print(f"{'Lang':<6} {'Fresh':>6} {'Stale':>6} {'Missing':>8} {'Orphan':>7} {'Coverage':>10}")
-    print("-" * 50)
+    # MetaStale 欄 2026-10-16 補上：之前表格不印它，fresh+stale+missing 對不上總數，
+    # 一批 description 改寫累積的 356 份在表上看不見（babel-pulse 同時報 gap=410）。
+    print(f"{'Lang':<6} {'Fresh':>6} {'Stale':>6} {'MetaStale':>10} {'Missing':>8} {'Orphan':>7} {'Coverage':>10}")
+    print("-" * 61)
     for lang, s in status["_meta"]["summary"].items():
         if lang_filter and lang != lang_filter:
             continue
-        translated = s["fresh"] + s["stale"]
+        meta = s.get("metadata_stale", 0)
+        translated = s["fresh"] + s["stale"] + meta
         coverage = (translated / s["total_zh"] * 100) if s["total_zh"] else 0
-        print(f"{lang:<6} {s['fresh']:>6} {s['stale']:>6} {s['missing']:>8} {s['orphan']:>7} {coverage:>9.1f}%")
+        print(f"{lang:<6} {s['fresh']:>6} {s['stale']:>6} {meta:>10} {s['missing']:>8} {s['orphan']:>7} {coverage:>9.1f}%")
     print()
 
 
