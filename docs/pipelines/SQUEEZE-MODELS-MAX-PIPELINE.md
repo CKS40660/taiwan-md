@@ -3,8 +3,8 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.14'
-last_updated: 2026-09-27
+current_version: 'v4.15'
+last_updated: 2026-10-16
 last_session: '2026-09-27-031342-twmd-distill-weekly（§Tier 0b bump 必同步 passthrough）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
@@ -906,6 +906,8 @@ python3 scripts/tools/lang-sync/bump-source-sha.py --apply
 零 LLM call、零 token cost、零 risk。Phase 6 + this v3 後 P2.5 = 自動清。
 
 **bump 必同步 passthrough 欄位**（v4.14，2026-09-27）：`metadata-stale` 表示「變的全在 frontmatter 與 trailer」，而 frontmatter-only 變動最常改的是卡片圖四欄（image／imageCredit／imageLicense／imageSource）與 featured。只抄三個 sha 會讓譯文停在 zh 已換掉的熱連結，從此 fresh 不再被任何路徑看見（2026-09-22 量到 261 份）。`bump-source-sha.py` 已 import `heal-frontmatter-types.sync_passthrough_fields()` 同步這五欄；lastVerified／lastHumanReview 刻意不同步（body 還沒重翻就抄，等於替沒驗過的內容蓋章）。存量用 `heal-frontmatter-types.py --sync-passthrough`。REFLEXES #38。
+
+**翻譯欄位變了就不能只 bump**（v4.15，2026-10-16 babel-nightly）：`metadata-stale` 只保證正文沒變。zh 改了 title／description／tags／imageAlt 這些要翻的欄位時，bump 會把舊譯的摘要蓋成 fresh。dispatcher 的實際路徑是先交 `patch-translate.py`：它只重翻 frontmatter、章節 byte-identical，舊譯文帶債或 sha 對不上才 exit 2 退回整篇重翻。10-16 以前 dispatcher 對 metadata-stale 一律整篇重翻（10-15 一批 SEO description 改寫累積 356 份，每份 ~145 秒），改道後實測補丁 24〜57 秒。純 trailer 變動仍可走上面的 bump。
 
 ### v3 4-tier cascade（updated）
 
