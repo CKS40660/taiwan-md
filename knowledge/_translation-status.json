@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T10:29:19+08:00",
-    "zhCommitHead": "bd74c0854",
+    "lastUpdated": "2026-10-15T10:39:52+08:00",
+    "zhCommitHead": "3152f7e93",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1135,
-        "fresh": 1068,
-        "stale": 7,
+        "fresh": 1069,
+        "stale": 6,
         "metadata_stale": 58,
         "missing": 2,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1135,
-        "fresh": 1067,
-        "stale": 8,
+        "fresh": 1068,
+        "stale": 7,
         "metadata_stale": 58,
         "missing": 2,
         "orphan": 0
@@ -100,16 +100,16 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1064,
-        "stale": 11,
+        "fresh": 1065,
+        "stale": 10,
         "metadata_stale": 58,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1065,
-        "stale": 10,
+        "fresh": 1066,
+        "stale": 9,
         "metadata_stale": 58,
         "missing": 2,
         "orphan": 0
@@ -138296,20 +138296,18 @@
         "en": {
           "path": "en/People/wanwan-taiwan-blog-cartoonist.md",
           "translatedFrom": "People/彎彎.md",
-          "sourceCommitSha": "7b817df18",
-          "sourceContentHash": "sha256:c76ceb95afe3d363",
-          "sourceBodyHash": "sha256:95ff72d4c67126fd",
-          "translatedAt": "2026-06-30T00:37:51+08:00",
+          "sourceCommitSha": "ad1003d60",
+          "sourceContentHash": "sha256:badc44913c40a806",
+          "sourceBodyHash": "sha256:53b0bf5bcb21ad37",
+          "translatedAt": "2026-10-15T02:36:03.741349+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 36845,
+          "bytes": 37123,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/wanwan-taiwan-blog-cartoonist.md",
@@ -138482,20 +138480,18 @@
         "de": {
           "path": "de/People/wanwan-taiwan-blog-cartoonist.md",
           "translatedFrom": "People/彎彎.md",
-          "sourceCommitSha": "7b817df18",
-          "sourceContentHash": "sha256:c76ceb95afe3d363",
-          "sourceBodyHash": "sha256:95ff72d4c67126fd",
-          "translatedAt": "2026-09-22T17:41:10+08:00",
+          "sourceCommitSha": "ad1003d60",
+          "sourceContentHash": "sha256:badc44913c40a806",
+          "sourceBodyHash": "sha256:53b0bf5bcb21ad37",
+          "translatedAt": "2026-10-15T02:35:20.247138+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 36555,
+          "bytes": 37497,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -149652,20 +149648,18 @@
         "ru": {
           "path": "ru/People/chi-huai-hsin.md",
           "translatedFrom": "People/紀懷新.md",
-          "sourceCommitSha": "95f42de83",
-          "sourceContentHash": "sha256:5a619f0cc796c527",
-          "sourceBodyHash": "sha256:826517ecee263b74",
-          "translatedAt": "2026-08-05T04:28:22.650560+00:00",
+          "sourceCommitSha": "7e660a586",
+          "sourceContentHash": "sha256:11f4b1d06ffc2776",
+          "sourceBodyHash": "sha256:a42a37a855f0ab8b",
+          "translatedAt": "2026-10-15T01:07:32+08:00",
           "translationLastCommit": "bbb10985",
           "translationLastModified": "2026-10-10T23:42:41+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 60938,
+          "bytes": 55174,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chi-huai-hsin.md",
@@ -168794,8 +168788,8 @@
           "sourceContentHash": "sha256:050249e143e4dbb3",
           "sourceBodyHash": "sha256:22ecadf2b6d21f0e",
           "translatedAt": "2026-10-15T01:55:51.400133+00:00",
-          "translationLastCommit": "1924cd82",
-          "translationLastModified": "2026-10-10T22:55:55+08:00",
+          "translationLastCommit": "3152f7e9",
+          "translationLastModified": "2026-10-15T10:29:20+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 78826,
@@ -199304,20 +199298,18 @@
         "es": {
           "path": "es/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:446265901543dd85",
-          "sourceBodyHash": "sha256:2daf1a831ec93084",
-          "translatedAt": "2026-09-22T17:40:43+08:00",
+          "sourceCommitSha": "d525e99ee",
+          "sourceContentHash": "sha256:426316f6a96d8460",
+          "sourceBodyHash": "sha256:035cd9cc6b8c328a",
+          "translatedAt": "2026-10-15T02:24:40.149817+00:00",
           "translationLastCommit": "0b3b36cd",
           "translationLastModified": "2026-09-22T22:33:19+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 30393,
+          "bytes": 31722,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/data-taiwan-22-cities.md",
@@ -217222,11 +217214,11 @@
           "sourceContentHash": "sha256:f7212df28a7408b1",
           "sourceBodyHash": "sha256:5f193ab0cecd9e8d",
           "translatedAt": "2026-10-15T02:17:40.282990+00:00",
-          "translationLastCommit": "a1e2b6fc",
-          "translationLastModified": "2026-10-10T23:41:04+08:00",
+          "translationLastCommit": "3152f7e9",
+          "translationLastModified": "2026-10-15T10:29:20+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 73262,
+          "bytes": 73268,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -223936,8 +223928,8 @@
           "sourceContentHash": "sha256:679c9b463da5abd3",
           "sourceBodyHash": "sha256:9aed0f1a904887ba",
           "translatedAt": "2026-10-15T00:40:11.642515+00:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "3152f7e9",
+          "translationLastModified": "2026-10-15T10:29:20+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 86325,

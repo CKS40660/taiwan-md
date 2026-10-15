@@ -1,25 +1,26 @@
 ---
-title: "Chi Huai-hsin : le Taïwanais qui a appris à l'IA à « penser étape par étape » et fait entrer la psychologie cognitive dans les machines"
-description: "Chi Huai-hsin est vice-président recherche chez Google DeepMind et l'un des coauteurs de l'article sur la chaîne de pensée qui a appris à l'IA à « raisonner étape par étape ». Ce Taïwanais qui a grandi à Tamsui a transformé un concept de psychologie cognitive sur la manière dont les êtres humains apprennent, la théorie des schèmes de Piaget, en méthode pour enseigner le raisonnement aux machines. Cette percée qui a changé l'IA n'a coûté qu'environ cinq mille dollars, parce que le problème n'a jamais été de ceux que la puissance de calcul pouvait résoudre."
+title: "Ed Chi : le Taïwanais qui a appris à l'IA à « réfléchir étape par étape » en transposant la psychologie cognitive dans les machines"
+description: "Ed Chi, vice-président de recherche chez Google DeepMind, est coauteur de l'article sur la chaîne de pensée (Chain of Thought). Cet enfant de Tamsui a transformé la théorie des schémas de Piaget en méthode de raisonnement pour machines."
 date: 2026-06-27
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
-    'personnes',
-    'Chi Huai-hsin',
+    'Personnalités',
     'Ed Chi',
     'IA',
     'Google DeepMind',
-    'chaîne de pensée',
+    'Chaîne de pensée',
     'Chain of Thought',
-    'psychologie cognitive',
+    'Psychologie cognitive',
     'Tamsui',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-27
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/紀懷新.md'
+image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
   - id: 152
     platform: 'threads'
@@ -29,243 +30,245 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
+relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de8'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-06-28T00:38:05+08:00'
-image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:07:17+08:00'
 ---
 
-Alors que le monde entier poursuivait l’IA à coups de centaines de millions de dollars de puissance de calcul, un article a changé la manière dont les machines raisonnent. Il n’a coûté qu’environ cinq mille dollars.
+Alors que le monde entier dépense des centaines de millions de dollars en puissance de calcul pour poursuivre l'IA, un article a changé la manière dont les machines raisonnent pour un coût d'environ 5 000 dollars.
 
-Cet article s’intitule « chaîne de pensée » (Chain of Thought). Ce qu’il fait paraît presque trop simple pour être une percée : dans les exemples donnés à l’IA, on ajoute quelques lignes de « processus de résolution », afin de l’amener à d’abord formuler les étapes intermédiaires, puis à donner la réponse, comme si l’on demandait à un élève de faire un brouillon avant d’écrire directement la conclusion. Parmi les neuf coauteurs figure un Taïwanais né à Tamsui : Chi Huai-hsin.
+Cet article s'intitule « Chain of Thought » (Chaîne de pensée). Ce qu'il propose semble trop simple pour être une révolution : dans les exemples donnés à l'IA, on ajoute quelques lignes détaillant le « processus de résolution », guidant la machine pour qu'elle formule d'abord les étapes intermédiaires avant de donner la réponse, comme si l'on demandait à un élève de faire un brouillon plutôt que de donner directement une conclusion. Parmi les neuf coauteurs figure un Taïwanais né à Tamsui, nommé Ed Chi (紀懷新).
 
-Voici comment il a expliqué après coup ces cinq mille dollars : « Ce problème n’était pas un problème que la puissance de calcul pouvait résoudre ; c’était un autre mode de pensée. »[^1]
+Il a expliqué plus tard le coût de ces 5 000 dollars : « Le problème n'était pas une question de puissance de calcul, mais plutôt un autre mode de pensée. »[^1]
 
-> **Vue d’ensemble en 30 secondes :** Chi Huai-hsin (Ed H. Chi) est vice-président recherche chez Google DeepMind et l’un des coauteurs de l’article sur la chaîne de pensée qui a appris à l’IA à « raisonner étape par étape ». Chaque fois que vous demandez à ChatGPT ou à Gemini de « penser étape par étape » et que la réponse s’améliore, l’idée qui permet à la machine de raisonner par étapes a, à son origine, un fil qui part de Taïwan. Vers l’âge de 15 ans, il a émigré aux États-Unis avec sa mère, partie faire un doctorat. En l’aidant à rédiger sa thèse de psychologie de l’éducation, il a découvert un concept psychologique portant sur la manière dont les êtres humains apprennent. Trente ans plus tard, il a fait entrer ce concept dans les machines. Taïwan sait reconnaître ses figures nationales qui fabriquent les puces ; il connaît à peine celui qui a façonné la manière dont « l’IA pense ».
+> **Aperçu en 30 secondes :** Ed Chi est vice-président de recherche chez Google DeepMind et l'un des coauteurs de l'article sur la « chaîne de pensée » qui a appris à l'IA à raisonner étape par étape. Chaque fois que vous demandez à ChatGPT ou Gemini de « réfléchir étape par étape », la réponse est meilleure ; cette idée de raisonnement séquentiel trouve ses racines dans un fil conducteur partant de Taïwan. Vers l'âge de 15 ans, il a émigré aux États-Unis avec sa mère qui poursuivait un doctorat. En l'aidant à rédiger des articles de psychologie de l'éducation, il a découvert un concept psychologique sur « la manière dont l'humain apprend ». Trente ans plus tard, il a transposé ce concept dans les machines. Taïwan reconnaît ses « lumières » dans la fabrication de puces, mais connaît peu cet homme qui façonne la façon dont l'IA « pense ».
 
-## La thèse de doctorat de sa mère
+## La thèse de sa mère
 
-L’histoire ne commence pas chez Google. Elle commence à un bureau.
+L'histoire ne commence pas chez Google, mais devant un bureau d'étude.
 
-Chi Huai-hsin a grandi à Tamsui. « Je suis né et j’ai grandi à Taïwan, je suis né à Tamsui, puis vers l’âge de 15 ans je suis parti étudier aux États-Unis avec mes parents, parce que ma mère était alors partie faire un doctorat. »[^2] Cette phrase contient une scène assez inhabituelle : à l’époque, la plupart des enfants taïwanais qui partaient à l’étranger le faisaient seuls comme « jeunes étudiants expatriés » ; lui, c’est toute sa famille qui a migré vers l’Ouest pour que sa mère puisse faire un doctorat. Une famille taïwanaise qui émigre aux États-Unis en raison des études de la mère n’était pas chose courante à cette époque.
+Ed Chi a grandi à Tamsui. « Je suis un enfant de Taïwan, né à Tamsui, puis vers l'âge de 15 ans, je suis parti aux États-Unis avec mes parents parce que ma mère partait faire son doctorat. »[^2] Cette phrase cache une image inhabituelle : à l'époque, la plupart des enfants taïwanais partant à l'étranger étaient des étudiants isolés, mais lui a suivi sa famille entière dans cette migration vers l'Ouest pour les études de sa mère. Qu'une famille taïwanaise émigre ainsi pour les études maternelles était rare à cette époque.
 
-![Coucher de soleil sur la promenade en bois de Youchekou à Tamsui, lieu où Chi Huai-hsin est né et a grandi](/article-images/people/tamsui-sunset-boardwalk-2024.webp)
+![Coucher de soleil sur la passerelle en bois de Youchekou à Tamsui, le lieu où Ed Chi est né et a grandi](/article-images/people/tamsui-sunset-boardwalk-2024.webp)
 
-_Tamsui, le lieu où Chi Huai-hsin est né et a grandi. Plus de trente ans plus tard, ce qu’il a emporté de là deviendrait une méthode pour apprendre aux machines à penser._
+_Tamsui, le lieu de naissance et d'enfance d'Ed Chi. Plus de trente ans plus tard, ce qu'il a emporté de cet endroit deviendra une méthode pour enseigner la pensée aux machines._
 
-Sa mère préparait un doctorat en psychologie de l’éducation. Pendant ses années de lycée et d’université, il l’a aidée à rédiger sa thèse. Un enfant encore scolarisé aidait sa propre mère à organiser un travail académique sur « la manière dont les êtres humains apprennent » ; c’est dans ce processus qu’il a rencontré pour la première fois la théorie des schèmes (schema theory) du psychologue suisse Piaget.
+Sa mère préparait un doctorat en psychologie de l'éducation. Durant ses années de lycée et d'université, il l'aidait à rédiger sa thèse. C'est en aidant sa mère à organiser des travaux académiques sur « comment l'humain apprend » qu'un jeune étudiant est tombé pour la première fois sur la théorie des schémas (_schema theory_) du psychologue suisse Jean Piaget.
 
-La théorie des schèmes dit ceci : dans le cerveau humain existent des structures de connaissances organisées, appelées « schèmes », grâce auxquelles nous comprenons le monde. Quand nous apprenons quelque chose de nouveau, soit nous intégrons la nouvelle information dans un ancien schème, ce qu’on appelle l’assimilation, soit l’ancien schème ne suffit plus et doit être réécrit ou remplacé par un nouveau, ce qu’on appelle l’accommodation. Cela peut paraître abstrait, mais cette théorie répond à une question fondamentale : comment une personne passe-t-elle de « ne pas savoir faire » à « savoir faire » ?
+La théorie des schémas stipule que le cerveau humain possède des structures de connaissances organisées, appelées « schémas », qui nous permettent de comprendre le monde. Pour apprendre quelque chose de nouveau, soit nous intégrons l'information dans un schéma existant (c'est l'_assimilation_), soit le schéma existant est insuffisant et doit être modifié ou créé (c'est l'_accommodation_). Cela peut paraître abstrait, mais cela répond à une question fondamentale : comment un individu passe-t-il du « ne pas savoir » au « savoir ».
 
-Le concept posé sur ce bureau deviendrait, trente ans plus tard, une méthode pour apprendre aux machines à raisonner. Mais avant cela, il lui fallait parcourir une longue route, une route que presque personne n’empruntait.
+Le concept sur ce bureau d'autrefois deviendra, trente ans plus tard, la méthode de raisonnement des machines. Mais avant cela, il a dû parcourir un long chemin, une voie peu fréquentée.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/51woDEK5NME" title="VK 科技閱讀時間 EP122 ft. 紀懷新" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/51woDEK5NME" title="VK Tech Reading Time EP122 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Dans l’épisode 122 de VK 科技閱讀時間, Chi Huai-hsin raconte lui-même les origines de la chaîne de pensée : de l’aide apportée à sa mère pour rédiger une thèse de doctorat en psychologie de l’éducation et de sa découverte de la théorie des schèmes de Piaget, jusqu’à la manière dont il en a fait une méthode pour enseigner le raisonnement à l’IA. Cet entretien est la source vivante de cet article._
+_Ed Chi raconte personnellement dans l'épisode 122 de VK Tech Reading Time les origines de la chaîne de pensée, depuis l'aide apportée à sa mère pour sa thèse en psychologie de l'éducation et la découverte de la théorie des schémas de Piaget, jusqu'à la transformation de ce concept en méthode de raisonnement pour l'IA. Cette interview est la source essentielle de cet article._
 
-## De Tamsui au Minnesota, dans le sillage d’une admission en doctorat
+## De Tamsui au Minnesota : suivre un permis d'admission en doctorat
 
-Arrivé au Minnesota, il a fait le lycée, la licence, le master et le doctorat dans la même institution : l’Université du Minnesota, trois diplômes en six ans et demi[^3]. Dès son admission, il a obtenu la plus haute distinction (Summa Cum Laude). Sa thèse portait sur la visualisation de l’information et s’intitulait « A Framework for Information Visualization Spreadsheets » ; son directeur, John T. Riedl, était un pionnier des systèmes de recommandation.
+Arrivé au Minnesota, il a effectué tout son cursus — lycée, licence, master et doctorat — dans la même institution : l'Université du Minnesota, obtenant trois diplômes en six ans et demi[^3]. Il est entré avec les plus hautes distinctions (_Summa Cum Laude_). Sa thèse de doctorat portait sur la visualisation de l'information, intitulée _A Framework for Information Visualization Spreadsheets_, sous la direction de John T. Riedl, un pionnier des systèmes de recommandation.
 
-![Campus de l’Université du Minnesota, où Chi Huai-hsin a obtenu trois diplômes : licence, master et doctorat](/article-images/people/umn-the-knoll-minneapolis.webp)
+![Campus de l'Université du Minnesota, où Ed Chi a obtenu ses trois diplômes](/article-images/people/umn-the-knoll-minneapolis.webp)
 
-_Arrivé au Minnesota avec sa mère à l’âge de 15 ans, il obtiendrait ensuite trois diplômes en six ans et demi à l’Université du Minnesota. Son directeur de thèse, John T. Riedl, était un pionnier de la recherche sur les systèmes de recommandation ; ce fil rejoindrait plus tard ce qu’il ferait chez Google._
+_À quinze ans, il suit sa mère au Minnesota et obtient trois diplômes en six ans et demi à l'Université du Minnesota. Son directeur de thèse, John T. Riedl, est un pionnier des systèmes de recommandation : ce lien rejoindra plus tard ses travaux chez Google._
 
-Mais plus encore que les diplômes, c’est sa manière de se situer qu’il faut retenir.
+Mais plus mémorable que ses diplômes est la manière dont il se définit lui-même.
 
-Dans un entretien, il a prononcé une phrase très honnête : « En anglais, je dirais que I’m a generalist… le genre de chercheur jack of all trades but master of none. Mais quand j’ai compris que mes mathématiques n’étaient pas meilleures que celles des autres, je me suis dit que je pourrais peut-être faire des recherches davantage de type bridging, construire un pont entre un domaine et un autre. »[^4]
+Il a confié lors d'une interview une réflexion très honnête : « En anglais, je dirais _I'm a generalist_... un chercheur de type "touche-à-tout mais maître de rien". Mais quand j'ai réalisé que mes mathématiques n'étaient pas supérieures à celles des autres, j'ai pensé que je pouvais peut-être faire des recherches de type "pontage" (_bridging_), créant des liens entre différents domaines. »[^4]
 
-Dans le monde académique, ce choix a un coût. Lui-même l’a dit : quand on fait une recherche de liaison, « dans le domaine A, vous n’êtes pas vraiment des leurs ; dans le domaine B, vous n’êtes pas non plus vraiment un chercheur du domaine ». Une personne qui ne connaît qu’un seul côté reçoit du monde une position claire ; une personne qui se tient entre les deux côtés n’est souvent pleinement accueillie nulle part. C’est pourtant ce territoire intermédiaire qu’il a choisi de jouer. Les faits montreraient plus tard que certaines des étapes les plus décisives de l’IA se produisent précisément dans ce type de zone.
+C'est un choix qui a un coût dans le milieu académique. Il l'a lui-même admis : quand on fait du travail de pontage, « vous n'êtes pas vraiment une personne du domaine A, et vous n'êtes pas non plus un véritable chercheur du domaine B ». Quelqu'un qui ne maîtrise qu'un côté trouve sa place facilement ; quelqu'un qui se tient entre deux mondes est souvent rejeté par les deux. Mais c'est sur cette zone intermédiaire qu'il a parié. L'histoire prouvera que les étapes les plus cruciales de l'IA se sont précisément produites dans ces zones de transition.
 
-> **✦** « Je pourrais peut-être faire des recherches davantage de type pont, un pont entre un domaine et un autre. »
+> **✦** « Je peux peut-être faire des recherches de type "pontage", créant des liens entre différents domaines. »
 
-## À Palo Alto, il a appris à transformer la psychologie en programmes
+## À Palo Alto, apprendre à transformer la psychologie en code
 
-En 1997, il est entré comme stagiaire dans un lieu légendaire : le Xerox Palo Alto Research Center (Xerox PARC).
+En 1997, il effectue un stage dans un lieu légendaire : le Xerox PARC à Palo Alto.
 
-Ce nom est peut-être peu familier pour les lecteurs taïwanais, mais vous utilisez tous les jours des choses qui y ont été inventées. La souris, l’interface graphique, l’imprimante laser, Ethernet : beaucoup des technologies qui ont fondé l’ère de l’ordinateur personnel sont nées dans ce centre de recherche installé par une entreprise de photocopieurs à côté de l’Université Stanford. C’est là que Steve Jobs a vu cette interface graphique, en a repris l’idée et l’a transformée plus tard en Macintosh. Quand Chi Huai-hsin y est arrivé, le centre se trouvait justement dans son deuxième âge d’or.
+Ce nom est peut-être inconnu des lecteurs taïwanais, mais vous utilisez quotidiennement ses inventions. La souris, l'interface graphique, l'imprimante laser, l'Ethernet... de nombreuses technologies qui ont fondé l'ère de l'informatique personnelle sont nées dans ce centre de recherche situé à côté de Stanford. C'est là que Steve Jobs a découvert l'interface graphique pour créer le Macintosh. Ed Chi est arrivé au moment de son second âge d'or.
 
-![Ordinateur Alto du Xerox Palo Alto Research Center (1973), précurseur de l’ordinateur personnel et de l’interface graphique](/article-images/people/xerox-alto-1973.webp)
+![L'ordinateur Alto du Xerox PARC (1973), pionnier de l'informatique personnelle et des interfaces graphiques](/article-images/people/xerox-alto-1973.webp)
 
-_L’Alto, développé en 1973 par le Xerox Palo Alto Research Center, fut un précurseur de l’ordinateur personnel et de l’interface graphique. C’est plus tard, dans ce lieu, que Chi Huai-hsin a appris à transformer la psychologie cognitive en programmes exécutables._
+_L'Alto, développé par le Xerox PARC en 1973, est un précurseur de l'informatique personnelle. C'est ici qu'Ed Chi a appris à transformer la psychologie cognitive en programmes exécutables._
 
-L’essentiel n’est pas la technologie spectaculaire qu’il aurait produite, mais les personnes qu’il a rencontrées. « Mon propre patron s’appelait alors Stuart Card ; il était l’étudiant d’Allen Newell. »[^5] En remontant cette lignée intellectuelle, on arrive à un lauréat du prix Nobel d’économie : Herbert Simon.
+L'essentiel n'était pas tant les technologies qu'il manipulait, mais les personnes qu'il rencontrait. « Mon patron à l'époque était Stuart Card, un étudiant d'Allen Newell. »[^5] En remontant cette lignée académique, on arrive à un prix Nobel d'économie : Herbert Simon.
 
-Simon avait proposé la « rationalité limitée » (bounded rationality) : lorsque les êtres humains prennent des décisions, ils sont contraints par la cognition, l’information et le temps ; ils ne peuvent tout simplement pas être « parfaitement rationnels ». Il a aussi forgé le terme de décision « suffisamment bonne » (satisficing) : les êtres humains ne cherchent pas la solution optimale, mais une solution acceptable. Avec Newell, Simon a comparé le cerveau humain à une machine de traitement de l’information, en considérant que « résoudre un problème » consiste à rechercher pas à pas une réponse dans un espace de problèmes. Card a fait entrer cette manière de penser à Palo Alto ; Chi Huai-hsin l’a ensuite reçue de Card.
+Simon a théorisé la « rationalité limitée » (_bounded rationality_) : les humains prennent des décisions sous contraintes cognitives, informationnelles et temporelles ; la rationalité parfaite est impossible. Il a également forgé le concept de « satisficing » (satisfaction) : l'humain ne cherche pas la solution optimale, mais une solution "suffisamment bonne". Simon et Newell ont comparé le cerveau humain à une machine de traitement de l'information, considérant que « résoudre un problème » consiste à chercher une réponse étape par étape dans un espace de problèmes. Card a apporté cette approche à Palo Alto, et Ed Chi l'a reprise.
 
-> 📝 **Note curatoriale**
-> Le récit courant de l’IA dit ceci : si les machines deviennent de plus en plus intelligentes, c’est parce que les puces sont de plus en plus rapides, les données de plus en plus nombreuses et les modèles de plus en plus grands. Ce récit est commode, mais il oublie un autre fil, plus discret. Dès les années 1950, Simon se demandait comment le cerveau humain prend des décisions sous contrainte ; en 1974, Card a fait entrer la psychologie dans la recherche informatique de Palo Alto ; dans les années 1990, Chi Huai-hsin a pris le relais en transformant la théorie du butinage en modèle de la recherche d’information sur Internet. Pendant un demi-siècle, un groupe de chercheurs n’a cessé de poser la même question : comment les êtres humains pensent-ils vraiment ? Tandis que le courant dominant s’efforçait de faire calculer les machines plus vite, eux s’efforçaient de les faire penser davantage comme des humains. La chaîne de pensée est le fruit de ce fil discret.
+> 📝 **Note du curateur**
+> Le récit dominant de l'IA est le suivant : les machines deviennent intelligentes parce que les puces sont plus rapides, les données plus massives et les modèles plus grands. Ce récit est efficace, mais il omet une ligne secondaire. Dès les années 1950, Simon se demandait comment le cerveau décide sous contrainte ; en 1974, Card a importé la psychologie dans la recherche informatique de Palo Alto ; dans les années 1990, Ed Chi a pris le relais en transformant la théorie du forage en modèles de recherche d'information sur le web. Pendant un demi-siècle, un groupe de chercheurs s'est posé la même question : comment l'humain pense-t-il réellement ? Tandis que le courant dominant s'efforçait de rendre les machines plus rapides, eux s'efforçaient de les rendre plus humaines. La « chaîne de pensée » est le fruit de cette lignée discrète.
 
-Sa principale recherche à Palo Alto s’appelait « butinage informationnel » (information foraging). L’idée est la suivante : lorsqu’une personne cherche des informations sur Internet, elle ressemble beaucoup à un animal qui cherche de la nourriture dans la nature ; elle suit des « pistes olfactives », poursuit lorsque l’odeur est forte, abandonne lorsqu’elle devient faible. Il a transformé ce modèle biologique et psychologique de butinage en systèmes réellement exécutables, capables de prédire comment les personnes naviguent entre les sites web. C’est la première mise en pratique de son « pont » : d’un côté, la psychologie cognitive ; de l’autre, l’informatique ; au milieu, il a construit une passerelle.
+Ses recherches principales à Palo Alto portaient sur le « forage d'information » (_information foraging_). Le concept : chercher des informations sur le web ressemble au comportement animal en quête de nourriture ; on suit des « odeurs », on poursuit une piste forte ou on abandonne si l'odeur s'estompe. Il a transformé ce modèle biologique et psychologique en un système d'ingénierie capable de prédire la navigation entre les sites web. C'était son premier véritable exercice de « pontage » : entre la psychologie cognitive et l'informatique.
 
 ```tw-timeline
-1955 | Simon forge un terme | Herbert Simon propose la décision « suffisamment bonne » et la rationalité limitée, en considérant le cerveau humain comme une machine de traitement de l’information
-1974 | La psychologie entre au laboratoire | Stuart Card introduit la tradition Newell-Simon au Xerox Palo Alto Research Center
-1997 | Chi Huai-hsin prend le relais | Il entre en stage à Palo Alto et transforme la théorie du butinage en modèle de butinage informationnel
-2022 | Le transfert vers les machines | L’article sur la chaîne de pensée est publié ; le « raisonnement par étapes » issu de la psychologie cognitive devient une méthode pour enseigner à l’IA
-Sources : pages Wikipédia des chercheurs, arXiv 2201.11903
+1955 | Concept de Simon | Herbert Simon théorise le "satisficing" et la rationalité limitée, comparant le cerveau à un processeur d'information.
+1974 | La psychologie en labo | Stuart Card introduit la tradition Newell-Simon au Xerox PARC.
+1997 | Relais par Ed Chi | Stage à Palo Alto, transformation de la théorie du forage en modèle informatique.
+2022 | Vers les machines | Publication de l'article sur la chaîne de pensée ; le raisonnement séquentiel devient une méthode pour l'IA.
+Source : Wikipédia des chercheurs, arXiv 2201.11903
 ```
 
-## Pas davantage de données, mais davantage d’humain
+## Pas plus de données, mais plus d'humanité
 
-En 2011, il a quitté Palo Alto pour Google. Sa raison était très concrète : « Faire seulement de la recherche ne suffit pas ; il faut aussi faire des choses appliquées. » Il avait vu de près le modèle de Xerox : une recherche fondamentale très profonde, mais difficile à transformer en produits.
+En 2011, il quitte Palo Alto pour Google. La raison est pragmatique : « Faire de la recherche ne suffit pas, il faut aussi créer des applications. » Il avait vu le modèle de Xerox, où la recherche fondamentale était profonde mais peinait à devenir un produit.
 
-Chez Google, il a d’abord travaillé sur l’analyse des données web ; de 2015 à 2017, il a dirigé l’équipe qui a reconstruit le système neuronal de recommandation de YouTube ; en 2017, il est devenu chercheur principal de Google Brain, à la tête d’une équipe de soixante-dix personnes ; en 2021, il a été promu distinguished scientist, avec cent vingt personnes sous sa direction, avant de devenir vice-président recherche chez DeepMind[^6]. Derrière cette succession de titres, c’est en réalité le même gène méthodologique qui se prolonge : le butinage informationnel modélise « la manière dont les humains cherchent des choses » ; les systèmes de recommandation modélisent « ce que les humains veulent regarder » ; avec la chaîne de pensée, cela devient un modèle de « la manière dont les humains raisonnent ». De la cognition humaine vers la machine, étape après étape.
+Chez Google, il commence par l'analyse de données web. Entre 2015 et 2017, il dirige une équipe pour reconstruire le système de recommandation par réseaux de neurones de YouTube. En 2017, il devient scientifique en chef chez Google Brain avec une équipe de soixante personnes, puis en 2021, il est promu scientifique émérite dirigeant cent vingt personnes, avant de devenir vice-président de recherche chez DeepMind[^6]. Derrière cette ascension se cache une même génétique méthodologique : le forage d'information modélisait « comment l'humain cherche », les systèmes de recommandation modélisaient « ce que l'humain veut voir », et avec la chaîne de pensée, on modélise « comment l'humain raisonne ». De la cognition humaine vers la machine.
 
-Le tournant de la chaîne de pensée est né d’une insatisfaction face au courant dominant de l’apprentissage automatique de l’époque. « Pourquoi faut-il utiliser autant de données pour que cette machine puisse vraiment apprendre ? » Il a commencé à se demander : « Peut-on utiliser des méthodes de psychologie cognitive pour apprendre aux machines à apprendre ? »[^7]
+Le tournant de la chaîne de pensée est né d'une insatisfaction face au _machine learning_ dominant : « Pourquoi faut-il autant de données pour qu'une machine apprenne réellement ? » Il a commencé à se demander : « Pourrait-on utiliser les méthodes de la psychologie cognitive pour enseigner l'apprentissage aux machines ? »[^7]
 
-Il est alors revenu à ce concept. « Cette idée vient en fait… d’une idée née dans les années 1960 et 1970, qu’on appelle la théorie des schèmes. Elle signifie essentiellement que si une personne peut utiliser un modèle (template) pour résoudre un problème, peut-être pouvons-nous aussi utiliser cette méthode pour apprendre aux machines à apprendre. La chaîne de pensée a donc commencé à partir de cette idée. » Quand l’animateur lui a demandé s’il s’agissait des schèmes de Piaget, il a répondu : « Oui, exactement, l’idée des schèmes de Piaget. C’est quelque chose que j’ai appris au lycée et à l’université, quand j’aidais ma mère à rédiger sa thèse de doctorat en psychologie de l’éducation ; ensuite, peu à peu, tout cela s’est relié. »[^8]
+Il est alors revenu à ce concept. « Cette idée provient en fait des années 60 et 70, c'est la théorie des schémas. Cela signifie que si un humain peut utiliser un modèle (_template_) pour résoudre un problème, nous pouvons peut-être enseigner aux machines à faire de même. La chaîne de pensée est l'application directe de cette idée. » Lorsqu'on lui a demandé s'il s'agissait bien des schémas de Piaget, il a répondu : « Oui, c'est l'idée de Piaget. C'est ce que j'ai appris au lycée et à l'université en aidant ma mère pour sa thèse en psychologie de l'éducation ; tout s'est ensuite connecté. »[^8]
 
-La graine posée sur le bureau avait germé.
+La graine plantée sur ce bureau a germé.
 
-![Figure 1 de l’article sur la chaîne de pensée : à gauche, une invite standard donne une mauvaise réponse ; à droite, l’invite avec chaîne de pensée écrit d’abord les étapes du raisonnement (en bleu), puis donne la bonne réponse](/article-images/people/chain-of-thought-figure1.webp)
+![Figure 1 de l'article Chain of Thought : à gauche, un prompt standard donne une mauvaise réponse ; à droite, le prompt avec chaîne de pensée (surligné en bleu) montre les étapes de raisonnement avant la bonne réponse](/article-images/people/chain-of-thought-figure1.webp)
 
-_La figure la plus célèbre de l’article sur la chaîne de pensée : à gauche, une question posée de manière ordinaire conduit le modèle à se tromper ; à droite, il suffit d’ajouter dans l’exemple une séquence de raisonnement, le passage sur fond bleu, pour que le modèle réponde correctement. La différence ne tient pas à la puissance de calcul, mais au fait de « formuler les pensées étape par étape ». Figure tirée de Wei et al., 2022._
+_L'image la plus célèbre de l'article sur la chaîne de pensée : à gauche, une question classique mène à une erreur ; à droite, l'ajout d'un processus de raisonnement (partie bleue) permet à la machine de réussir. La différence ne réside pas dans la puissance de calcul, mais dans le fait d'« écrire ses pensées étape par étape ». Source : Wei et al., 2022._
 
-Et cela n’a presque rien coûté. « Savez-vous combien de puissance de calcul nous avons utilisée au total ? En gros, environ cinq mille dollars de puissance de calcul. Parce que ce problème n’était pas un problème que la puissance de calcul pouvait résoudre ; c’était un autre mode de pensée. Quand nous avons fait cette recherche, au début il n’y avait quasiment pas de financement ; c’était quelque chose que nous avions imaginé nous-mêmes à partir de rien. »[^1]
+Et cela n'a presque rien coûté. « Savez-vous quelle quantité de puissance de calcul nous avons utilisée ? Environ 5 000 dollars. Car ce n'était pas un problème de puissance, mais un autre mode de pensée. Au début de nos recherches, nous n'avions quasiment aucun financement ; c'était une idée purement conceptuelle. »[^1]
 
 ```tw-versus
-Voie dominante de l’IA | Voie de la chaîne de pensée
-Des modèles plus grands, davantage de paramètres | Pas besoin de réentraîner le modèle
-Fournir davantage de données | Ajouter quelques lignes de processus de résolution dans les exemples
-Une course aux armements en puissance de calcul à centaines de millions de dollars | Environ cinq mille dollars
-La force brute de l’échelle | Emprunter à la psychologie cognitive la manière dont les humains apprennent
+Approche IA classique | Approche Chaîne de pensée
+Modèles plus grands, plus de paramètres | Pas besoin de réentraîner le modèle
+Plus de données massives | Ajouter quelques lignes de raisonnement dans les exemples
+Course aux armements (milliards de $) | Environ 5 000 dollars
+Force brute par l'échelle | Emprunter à la psychologie cognitive humaine
+Source : Interview Ed Chi VK EP122 (coût ~5 000 $ et méthode basée sur la psychologie cognitive) et son parcours de recherche[^1][^6][^7]
 ```
 
-C’est le point central de cet article : la clé qui a permis à l’IA d’apprendre à raisonner n’était pas davantage de puissance de calcul, mais davantage d’humain ; et ce « davantage d’humain » a grandi dans la thèse de doctorat en psychologie de l’éducation qu’un enfant de Tamsui aidait sa mère à rédiger.
+C'est le cœur du message : pour que l'IA raisonne, il ne faut pas plus de calcul, mais plus d'humanité. Et cette « humanité » est née d'une thèse de psychologie écrite par un enfant de Tamsui pour sa mère.
 
-## À son subordonné, il a dit : n’utilisez pas cette méthode, essayez les schèmes
+## Ce qu'il dit à ses subordonnés : n'utilisez pas cette méthode, essayez les schémas
 
-Il faut ici être honnête.
+Il faut être honnête ici.
 
-L’article sur la chaîne de pensée compte neuf auteurs. Chi Huai-hsin est septième. Le premier auteur, Jason Wei, en est le principal exécutant ; le dernier auteur, qui selon les usages académiques est le responsable senior, est Denny Zhou, fondateur de l’équipe de recherche sur le raisonnement chez Google Brain. Dire que « Chi Huai-hsin a inventé » cet article ne serait pas exact ; Denny Zhou était le dirigeant de cette direction de recherche. Or Denny Zhou était chercheur dans l’équipe de Chi Huai-hsin, son subordonné direct.
+L'article sur la chaîne de pensée compte neuf auteurs ; Ed Chi est septième. Le premier auteur est Jason Wei, l'exécutant principal. Le dernier, et donc le leader académique selon l'usage, est Denny Zhou, fondateur de l'équipe de recherche sur le raisonnement chez Google Brain. Dire que cet article a été « inventé par Ed Chi » est imprécis ; Denny Zhou est le moteur de cette direction de recherche, et il fait partie de l'équipe d'Ed Chi.
 
-Quel était donc son rôle ? Écoutons sa propre version : « Denny Zhou était un chercheur de mon équipe. Après avoir rejoint mon équipe, il est venu me dire qu’il voulait faire des recherches sur le raisonnement… Au départ, il utilisait une méthode neuro-symbolique (neural symbolic) assez traditionnelle. Je lui ai dit que je pensais que le neuro-symbolique ne fonctionnait pas très bien, et lui ai demandé s’il ne fallait pas envisager d’autres méthodes. Ensuite, nous avons discuté progressivement et découvert qu’on pouvait peut-être utiliser le concept de schème. »[^9]
+Quel était donc son rôle ? Il l'explique lui-même : « Denny Zhou est un chercheur dans mon équipe. Après avoir rejoint l'équipe, il m'a dit qu'il voulait travailler sur le raisonnement... Il utilisait initialement des méthodes neuro-symboliques traditionnelles. Je lui ai dit que cela ne semblait pas fonctionner et je lui ai demandé de considérer d'autres approches. C'est ainsi que nous avons discuté et réalisé que nous pouvions utiliser le concept de schémas. »[^9]
 
-Ce passage délimite sa véritable contribution. Il n’est pas l’exécutant principal de l’article, mais il est celui qui, à un embranchement décisif, a dit : « ne prenez pas cette voie ». Il a écarté le neuro-symbolique, qui semblait alors être une direction naturelle, et a orienté la discussion vers les schèmes. Plus important encore, s’il pouvait penser aux schèmes, c’est parce qu’il apportait à cette équipe trente ans de perspective en sciences cognitives. Autrement dit, il est celui qui a rendu possible, pour Denny Zhou, le fait même d’envisager les schèmes.
+Cette déclaration définit sa véritable contribution. Il n'est pas l'exécutant principal, mais il est celui qui, à un carrefour crucial, a dit : « Ne prenez pas ce chemin ». Il a écarté la voie neuro-symbolique, alors jugée logique, pour orienter la discussion vers les schémas. Surtout, s'il a pensé aux schémas, c'est parce qu'il apportait trente ans de perspective en sciences cognitives à l'équipe. En d'autres termes, il est celui qui a permis à Denny Zhou d'envisager les schémas.
 
-> 📝 **Note curatoriale**
-> Le défaut le plus courant du récit de la « lumière de Taïwan » consiste à compresser une contribution complexe en une phrase : « il a inventé X ». Mais la réalité est souvent plus intéressante. Ce qui rend Chi Huai-hsin réellement irremplaçable, c’est une longue courbe de vingt ans : il a fait entrer, morceau par morceau, la psychologie cognitive dans les machines, du butinage informationnel aux systèmes de recommandation, puis à la chaîne de pensée. Un article peut avoir neuf auteurs, un ordre de signature et des disputes de crédit ; mais « faire entrer pendant vingt ans la question de la manière dont les humains pensent sur le terrain de l’ingénierie », dans toute l’équipe, lui seul pouvait le faire. Pour voir sa valeur, il faut élargir l’échelle à vingt ans, et ne pas s’arrêter à une liste d’auteurs.
+> 📝 **Note du curateur**
+> Le défaut le plus courant lorsqu'on parle des « lumières de Taïwan » est de réduire une contribution complexe à la phrase « il a inventé X ». Mais la réalité est plus riche. L'apport irremplaçable d'Ed Chi réside dans un arc de vingt ans : il a progressivement intégré la psychologie cognitive dans les machines, du forage d'information aux systèmes de recommandation, jusqu'à la chaîne de pensée. Un article aura neuf auteurs et des rangs ; mais l'action constante de « porter la question de la pensée humaine sur le terrain de l'ingénierie pendant vingt ans » est une œuvre qu'il est seul à avoir accomplie au sein de son équipe. Pour saisir sa valeur, il faut regarder sur deux décennies plutôt que de s'arrêter à une liste d'auteurs.
 
-Il a lui-même expliqué la suite de la chaîne de pensée à l’aide d’un cadre plus profond. Lorsque l’IA ne se contente plus de résoudre les problèmes selon un modèle, mais « réfléchit » à son propre raisonnement et revient le corriger, il dit : « Dans la cognition de Piaget, ou dans les sciences de l’apprentissage, on appelle cela assimilation et accommodation… ce véritable apprentissage des machines semble avoir vraiment commencé. »[^10] Résoudre un problème selon un modèle, c’est l’assimilation ; revenir modifier le modèle, c’est l’accommodation. Les deux concepts qu’il avait appris en aidant sa mère à rédiger sa thèse, il les a repris presque tels quels pour décrire l’apprentissage des machines.
+Il explique la suite de la chaîne de pensée via un cadre plus profond. Lorsque l'IA ne se contente plus de suivre un modèle mais commence à « réfléchir » à son propre raisonnement et à le corriger, il dit : « En psychologie cognitive de Piaget ou en sciences de l'apprentissage, on appelle cela l'assimilation et l'accommodation... Le véritable apprentissage des machines semble enfin commencer. »[^10] Suivre un modèle est une assimilation ; modifier le modèle est une accommodation. Il a repris les concepts appris pour sa mère afin de décrire l'apprentissage des machines.
 
-Il a aussi relié la chaîne de pensée au cadre d’un autre psychologue : « La chaîne de pensée, plus le fine-tuning, plus la prédiction du mot suivant, semblent être le début de la machine à raisonner, c’est-à-dire ce qu’on appelle la pensée de système deux, celle dont parle Kahneman. »[^11] Le système un est une pensée intuitive, rapide, peu coûteuse en effort, comme reconnaître un microphone en le voyant ; le système deux est une pensée exigeante, rationnelle, qui doit avancer étape par étape, comme lorsque l’on vous demande « quelle est la définition de l’AGI ». Selon lui, l’apprentissage profond avait déjà poussé très loin le système un ; la chaîne de pensée est le point de départ du système deux pour les machines.
+Il relie également la chaîne de pensée au cadre d'un autre psychologue : « La chaîne de pensée, combinée au réglage fin (_fine-tuning_) et à la prédiction du mot suivant, semble être le début du raisonnement machine, ce qu'on appelle la pensée de « Système 2 » — comme décrit par Kahneman. »[^11] Le Système 1 est une pensée intuitive, rapide et sans effort ; le Système 2 est une pensée laborieuse, rationnelle et séquentielle. Pour lui, le _deep learning_ passé a perfectionné le Système 1, tandis que la chaîne de pensée marque l'entrée des machines dans le Système 2.
 
-## Les machines qui raisonnent et le critère de la grand-mère
+## Une machine capable de raisonner, et le test de la grand-mère
 
-À quel moment l’IA sera-t-elle vraiment « arrivée » ? La réponse de Chi Huai-hsin ne se trouve dans aucun indicateur technique. Elle se trouve chez la grand-mère.
+Quand l'IA sera-t-elle vraiment « arrivée » ? La réponse d'Ed Chi ne se trouve pas dans un indicateur technique, mais chez les grands-mères.
 
-« Le jour où votre grand-mère grondera le robot de la maison en lui disant : “Je t’ai déjà montré une fois, comment se fait-il que tu ne saches toujours pas faire ?”, vous saurez que l’AGI sera arrivée… Notre critère de mesure se trouve chez la grand-mère. »[^12]
+« Le jour où votre grand-mère réprimandera votre robot domestique en disant : "Je te l'ai déjà appris une fois, pourquoi ne sais-tu toujours pas ?", vous saurez que l'AGI est là... Notre critère de mesure réside dans la réaction des grands-mères. »[^12]
 
-Cette phrase est plus tranchante qu’elle n’en a l’air. Aujourd’hui, les robots aspirateurs s’emmêlent encore dans les câbles ou cognent les meubles ; nous les trouvons stupides, mais nous ne nous mettons pas vraiment en colère contre eux, parce qu’au fond nous pensons que « les machines sont naturellement plus bêtes que nous, il est normal de devoir leur montrer plusieurs fois ». Mais si un jour une grand-mère gronde un robot comme elle gronderait une personne qui n’apprend pas, cela voudra dire qu’elle le considère déjà comme un objet auquel il suffit d’enseigner une fois pour qu’il sache faire. Le moment où l’AGI arrive ressemble moins au franchissement d’un score qu’à un déplacement silencieux des attentes humaines.
+Cette phrase est plus incisive qu'il n'y paraît. Aujourd'hui, si un aspirateur robot se coince dans un fil, nous le trouverons stupide, mais nous ne serons pas vraiment en colère : nous pensons intuitivement que « la machine est plus bête que moi, c'est normal de devoir lui réapprendre ». Mais le jour où une grand-mère s'emportera contre un robot comme elle le ferait contre un humain incapable d'apprendre, cela signifiera qu'elle le considère déjà comme un être capable de comprendre du premier coup. L'arrivée de l'AGI ne sera pas marquée par un score technique, mais par un changement subtil des attentes humaines.
 
-Cela rejoint aussi sa vision de l’intelligence artificielle générale. Selon lui, deux conditions sont nécessaires à l’AGI : premièrement, l’IA ne doit pas vivre seulement dans le monde virtuel, mais pouvoir s’intégrer à l’environnement réel des humains ; deuxièmement, elle doit comprendre « je te l’ai montré une fois, tu sauras le faire désormais » : être capable de généraliser, d’explorer par elle-même, sans exiger d’être enseignée à répétition. Project Astra, qu’il dirige actuellement, travaille précisément sur le premier point : un assistant généraliste capable de percevoir le contexte dans lequel vous vous trouvez.
+Cela rejoint sa vision de l'Intelligence Artificielle Générale (AGI). Pour lui, l'AGI nécessite deux conditions : l'IA ne doit pas seulement vivre dans un monde virtuel, elle doit s'intégrer à la vie réelle ; et elle doit être capable d'apprendre une fois pour toutes — comprendre par déduction plutôt que de demander une répétition constante. Le projet qu'il dirige actuellement, Project Astra, s'attaque au premier point : un assistant universel capable de percevoir votre contexte.
 
-Il a raconté une scène vécue. Il y a environ un an, alors que Project Astra était encore confidentiel, il l’a emmené à une conférence à Barcelone. Dans le bar situé sur le toit d’un hôtel, il a sorti son téléphone, a balayé la ligne d’horizon de la ville et lui a demandé : « où suis-je ? » La réponse : « On dirait que vous êtes à Barcelone. » Il a demandé dans quel quartier ; le système a donné le bon nom. Il a ensuite demandé s’il y avait de bons restaurants à proximité, « si possible avec des étoiles Michelin » ; l’assistant a aussi répondu. « Je lui ai dit : “Peux-tu m’aider à réserver ?” Il a répondu : “Pas encore, mais peut-être à l’avenir.” » À cet instant, il a compris qu’un assistant personnel réellement présent à vos côtés, comprenant votre situation, pouvait être construit de son vivant.[^13]
+Il raconte une expérience personnelle. Il y a environ un an, il a présenté le prototype confidentiel de Project Astra lors d'une conférence à Barcelone. Dans un bar sur le toit d'un hôtel, il a scanné la ligne d'horizon avec son téléphone et a demandé : « Où suis-je ? ». L'IA a répondu : « Il semble que vous soyez à Barcelone ». Il a précisé le quartier, et elle l'a identifié correctement. Il a ensuite demandé s'il y avait de bons restaurants à proximité, de préférence étoilés au Michelin, et elle a répondu. « Quand j'ai dit "Peux-tu me réserver une table ?", elle a répondu "Pas pour le moment, mais peut-être bientôt". » À ce moment-là, il a réalisé qu'un assistant personnel capable de comprendre votre situation réelle serait possible de son vivant.[^13]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/3rQ4jPvvY0c" title="塞掐 Sidechat E350 ft. 紀懷新" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/3rQ4jPvvY0c" title="Sidechat E350 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Dans l’épisode E350 de Sidechat, Chi Huai-hsin parle de lunettes intelligentes, du « critère de la grand-mère » pour l’AGI et des possibilités de Taïwan. Pendant l’entretien, il sort un prototype de lunettes Project Astra et dit qu’il s’agit « probablement » du premier exemplaire à Taïwan._
+_Ed Chi discute des lunettes intelligentes, du « test de la grand-mère » pour l'AGI et des opportunités pour Taïwan dans cet épisode de Sidechat. Il présente un prototype de lunettes Project Astra, affirmant que ce sera probablement la première à Taïwan._
 
-Pendant l’entretien, il a sorti de sa poche un prototype de lunettes intelligentes équipées de Project Astra, en disant que c’était « probablement » le premier exemplaire à Taïwan. Il a aussi parlé des domaines où Taïwan dispose des meilleures chances. Le matériel en fait partie : « La position de Taïwan dans les semi-conducteurs, en particulier dans la fabrication, est très difficile à ébranler. » Puis il a infléchi son propos : « Si Taïwan peut bien intégrer matériel et logiciel, en exploitant les capacités des grands modèles de langage, c’est réellement une grande occasion. »[^14]
+Lors de l'interview, il a sorti de sa poche un prototype de lunettes intelligentes doté de Project Astra, affirmant que c'était « probablement » la première à Taïwan. Il a évoqué les atouts de l'île : le matériel est un pilier majeur. « La position de Taïwan dans les semi-conducteurs, et particulièrement dans la fabrication, est inébranlable. » Mais il nuance : « Si Taïwan parvient à intégrer efficacement le matériel et le logiciel en utilisant la puissance des grands modèles de langage, l'opportunité sera immense. »[^14]
 
-## Taïwan reconnaît les puces, pas ce cerveau
+## Taïwan reconnaît les puces, mais pas ce cerveau
 
-À ce stade, il faut aborder une question : est-il taïwanais ?
+Une question demeure : est-il Taïwanais ?
 
-Les faits sont là : il a quitté Taïwan vers l’âge de 15 ans ; il a fait le lycée, l’université et les études supérieures aux États-Unis ; toute sa carrière s’est déroulée dans la Silicon Valley. C’est un Taiwanese American, né à Taïwan et formé aux États-Unis. Si quelqu’un affirme que l’étiquette de « lumière de Taïwan » revient à instrumentaliser une personne qui a émigré depuis longtemps, cette objection n’est pas sans fondement.
+Les faits sont là : il a quitté Taïwan vers 15 ans, a fait ses études aux États-Unis et a passé toute sa carrière dans la Silicon Valley. Il est _Taiwanese American_ — né à Taïwan et devenu un expert aux États-Unis. Si certains disent que le titre de « lumière de Taïwan » est utilisé pour un émigré, cette critique n'est pas dénuée de fondement.
 
-Mais de l’autre côté de la balance, il y a aussi des éléments très concrets. Il donne des entretiens en chinois, dit spontanément être « né à Tamsui, né et élevé à Taïwan », sans l’éviter. Il revient régulièrement à Taïwan pour donner des conférences : l’Université normale nationale de Taïwan, l’Université nationale Chung Hsing et l’Université nationale Yang Ming Chiao Tung ont toutes gardé sa trace. Il a des observations précises sur les difficultés de soins de longue durée à Taïwan, sa position dans les semi-conducteurs, son écosystème de start-up en IA, allant jusqu’à mentionner qu’environ quinze mille utilisateurs à Taïwan utilisent déjà l’outil de prédiction de structure des protéines de DeepMind.
+Pourtant, l'autre côté du miroir montre une réalité différente. Il a accepté d'être interviewé en chinois et affirme sans détour être « né à Tamsui et originaire de Taïwan ». Il continue de donner des conférences dans l'île — à l'Université normale nationale, à l'Université Chung Hsing ou à l'Université de médecine de Yang-Ming-Chiao Tung. Il observe avec précision les défis du soin aux personnes âgées, la position des semi-conducteurs et l'écosystème des startups d'IA à Taïwan, notant même que 15 000 utilisateurs taïwanais utilisent déjà l'outil de prédiction de structures protéiques de DeepMind.
 
-Ce qui illustre le mieux cette position « à la fois dedans et dehors », c’est un passage adressé aux chercheurs taïwanais : « Ce domaine de recherche, en réalité, cela fait des années que je reviens à Taïwan et que j’en parle à chaque fois, mais je ne vois pas les chercheurs taïwanais… ils ne sont pas nombreux à travailler dans cette direction. C’est une recherche qui peut se faire sans beaucoup de puces. »[^15]
+Ce qui illustre le mieux sa position d'« insider-outsider » est ce qu'il a dit aux chercheurs taïwanais : « Sur cette partie de la recherche, je le dis chaque fois que je reviens à Taïwan, mais je ne vois pas les chercheurs locaux... ils n'en font pas beaucoup. Ce sont des recherches qui ne nécessitent pas énormément de puces. »[^15]
 
-Deux identités se tendent dans cette phrase. Il parle de « revenir à Taïwan », comme quelqu’un qui se reconnaît comme appartenant à ce lieu ; mais « j’en parle à chaque fois, et personne ne le fait » porte aussi la distance d’un extérieur, comme quelqu’un qui a quitté la maison depuis longtemps, revient, voit un coin toujours laissé en désordre, s’inquiète, mais ne parvient pas à agir. Est-il une « lumière de Taïwan » ? Cet article ne conclura pas à votre place. Les faits sont là ; à vous d’en juger.
+Cette phrase révèle une tension identitaire. En disant « quand je reviens à Taïwan », il se positionne comme quelqu'un qui appartient au pays ; mais en disant « je le dis chaque fois, mais personne ne le fait », il exprime la distance de l'étranger — comme celui qui revient chez lui et voit un coin de la maison négligé, inquiet, mais impuissant. Cet article ne tranchera pas sur sa qualification de « lumière de Taïwan ». Les faits sont là, à vous de juger.
 
-> 📊 **Quelques chiffres**
+> 📊 **Lui en chiffres**
 
 ```tw-stat
-Environ 5 000 dollars | Puissance de calcul utilisée par l’article sur la chaîne de pensée | À comparer avec la course industrielle à centaines de millions de dollars
-Environ 114 000 citations | Total Google Scholar | Dont 82 % après 2021
-13 % → 83 % | Précision d’OpenAI o1 sur les problèmes d’olympiades mathématiques | o1 est explicitement construit sur la chaîne de pensée
+~ 5 000 $ | Puissance de calcul utilisée pour l'article Chain of Thought | Comparé aux milliards de $ du secteur
+~ 114 000 | Citations totales sur Google Scholar | 82 % datent d'après 2021
+13% → 83% | Précision d'OpenAI o1 sur les problèmes d'olympiades mathématiques | o1 repose explicitement sur la chaîne de pensée
+Source : Interview Ed Chi VK EP122, statistiques Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Sources : entretien VK EP122 avec Chi Huai-hsin, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Source : Interview Ed Chi VK EP122, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
-## Montrer le raisonnement : plus transparent, ou meilleur pour se justifier ?
+## Montrer le raisonnement : plus de transparence ou plus de rhétorique ?
 
-La chaîne de pensée permet à l’IA de « montrer » son processus de raisonnement. En surface, cela rend la machine plus transparente : vous pouvez voir comment elle pense. Mais il y a là une inquiétude qu’une personne honnête doit mentionner en parallèle.
+La chaîne de pensée permet à l'IA d'« afficher » son processus de raisonnement. En apparence, cela rend la machine plus transparente — on voit comment elle pense. Mais une inquiétude légitime doit être soulevée.
 
-> ⚠️ **Point de vue controversé**
-> La chaîne de pensée étale sous vos yeux le « processus de pensée » de l’IA, ce qui la rend apparemment plus crédible et plus digne de confiance. Mais le monde académique a déjà soulevé une objection : la séquence de raisonnement montrée par le modèle ne reflète pas nécessairement le processus interne qui a conduit à sa décision, un problème appelé en recherche la « fidélité » de la chaîne de raisonnement. Autrement dit, le modèle peut très bien obtenir d’abord une réponse, puis ajouter après coup un discours élégant pour vous la présenter. Mieux savoir argumenter ne signifie pas être plus honnête. Dans le même temps, en mars 2026, un jury de Los Angeles, aux États-Unis, a jugé dans une affaire d’addiction aux réseaux sociaux que YouTube et d’autres plateformes portaient une responsabilité dans l’addiction des adolescents, Google étant tenu responsable à hauteur d’environ 30 %. Or Chi Huai-hsin a obtenu le statut de Fellow de l’Association for Computing Machinery (ACM) notamment grâce à ses travaux sur les systèmes de recommandation de YouTube, mais il s’est très peu exprimé publiquement sur les dommages possibles des algorithmes. Une personne capable de rendre les machines « meilleures en raisonnement » reste, pour l’instant, silencieuse sur la question de savoir si, une fois les machines meilleures pour justifier leurs décisions, la responsabilité ne deviendra pas plus difficile à établir. Le signaler n’est pas chercher à condamner qui que ce soit ; c’est simplement dire que lorsque nous sommes fiers de voir un Taïwanais à l’avant-garde de l’IA, nous devrions aussi faire entrer ces questions dans notre champ de vision.
+> ⚠️ **Point de débat**
+> La chaîne de pensée expose le « processus de pensée », ce qui semble renforcer la crédibilité et la confiance. Cependant, la communauté académique soulève une question : la séquence de raisonnement affichée ne reflète pas nécessairement le processus décisionnel interne (c'est le problème de la « fidélité » de la chaîne de raisonnement). En d'autres termes, la machine pourrait trouver la réponse d'abord, puis inventer un raisonnement élégant pour justifier sa conclusion. Être plus logique ne signifie pas être plus honnête. Parallèlement, en mars 2026, un jury à Los Angeles a jugé que des plateformes comme YouTube étaient responsables de l'addiction des mineurs, Google étant tenu responsable à hauteur de 30 %. Ed Chi a été nommé Fellow de l'ACM grâce à ses travaux sur les systèmes de recommandation de YouTube, mais il n'a presque jamais publiquement abordé les dommages potentiels des algorithmes. Pour celui qui permet aux machines de « mieux raisonner », le silence persiste sur la question : une machine plus logique rendra-t-elle la responsabilité plus difficile à établir ? Pointer cela n'est pas un procès, mais rappelle que lorsque nous célébrons un Taïwanais à l'avant-garde de l'IA, nous devons aussi intégrer ces enjeux dans notre vision.
 
-Cette contradiction n’a pas de réponse propre, et elle n’est pas censée en avoir. Une technologie qui rend l’IA plus semblable aux humains amplifie à la fois ce qu’il y a de meilleur et de plus problématique chez eux : les humains raisonnent, mais ils savent aussi inventer des raisons pour justifier leurs décisions. Prendre les deux faces ensemble, c’est traiter cette question sérieusement.
+Il n'y a pas de réponse simple à ce paradoxe. Une technologie qui rend l'IA plus humaine amplifie ses meilleures et ses pires qualités : l'humain raisonne, mais l'humain invente aussi des justifications pour ses décisions. Regarder les deux faces est la seule approche sérieuse.
 
-## Et maintenant ?
+## Et ensuite ?
 
-Chi Huai-hsin observe un cycle de huit ans : Internet en 1991, la naissance de Google en 1999, l’iPhone en 2007, la maturité de l’apprentissage profond en 2015, Gemini et ChatGPT en 2023. À ce rythme, le prochain tournant se situerait autour de 2031. Selon lui, à ce moment-là, « personne ne sera surpris que vous utilisiez de grands modèles pour travailler », pas plus qu’aujourd’hui personne n’est surpris que vous utilisiez un téléphone.
+Ed Chi observe un cycle de huit ans : 1991 (Internet), 1999 (naissance de Google), 2007 (iPhone), 2015 (maturité du deep learning), 2023 (Gemini et ChatGPT). Selon ce rythme, le prochain point de bascule se situera vers 2031. Il prédit qu'à cette époque, « personne ne sera surpris que vous utilisiez des modèles massifs », tout comme personne n'est surpris aujourd'hui que vous utilisiez un téléphone.
 
-La direction sur laquelle il parie désormais consiste à faire sortir l’IA de l’écran et à la faire entrer dans le monde réel : Project Astra, capable de percevoir votre situation, et des robots capables de réaliser des tâches domestiques. Ce qui l’émeut le plus, c’est le soin de longue durée à Taïwan. « Y aura-t-il vraiment des robots plus abordables pour aider aux tâches ménagères à la maison ? » Laver le linge, cuisiner, retourner un patient, apporter les médicaments à l’heure : dans une société confrontée au manque de main-d’œuvre, à la pénurie de personnel soignant et au manque de lits hospitaliers, ces choses qui semblent de la science-fiction sont en réalité des espoirs très pratiques.
+Son pari actuel est de faire sortir l'IA de l'écran pour l'amener dans le monde réel : Project Astra capable de percevoir votre environnement, ou des robots capables d'effectuer des tâches ménagères. Ce qui le touche le plus est la question du soin aux personnes âgées à Taïwan : « Existera-t-il des robots abordables pour aider aux tâches domestiques ? » — laver le linge, cuisiner, aider un patient à se retourner ou donner les médicaments à l'heure. Dans une société confrontée à la pénurie de main-d'œuvre et de personnel infirmier, ces concepts de science-fiction deviennent des espoirs très concrets.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/nXVvvRhiGjI" title="Google Project Astra" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Vidéo de vision officielle de Google pour Project Astra, la direction dont Chi Huai-hsin est aujourd’hui responsable : un assistant généraliste capable de partager votre environnement et de comprendre votre situation._
+_Vidéo de présentation officielle de Google sur la vision de Project Astra, la direction actuelle d'Ed Chi : un assistant universel capable de partager votre environnement et de comprendre votre contexte._
 
 Revenons à ce bureau.
 
-Un enfant de Tamsui, âgé d’environ 15 ans, arrive au Minnesota avec sa mère. En l’aidant à rédiger sa thèse de doctorat en psychologie de l’éducation, il découvre « comment les humains apprennent ». Trente ans plus tard, il transforme ce concept humain en méthode pour apprendre aux machines à penser. Le jour où votre grand-mère dira au robot de la maison : « Je t’ai déjà montré une fois, comment se fait-il que tu ne saches toujours pas faire ? », si cette machine sait raisonner par étapes, réfléchir sur elle-même et généraliser, c’est qu’un long fil se trouve derrière elle. À une extrémité du fil se trouve un laboratoire de la Silicon Valley ; à l’autre, Tamsui.
+Un enfant de Tamsui est parti vers le Minnesota à 15 ans. En aidant sa mère pour sa thèse en psychologie de l'éducation, il a appris « comment l'humain apprend ». Trente ans plus tard, il a transformé ce concept humain en une méthode d'enseignement pour les machines. Le jour où votre grand-mère dira à son robot : « Je te l'ai déjà appris une fois, pourquoi ne sais-tu toujours pas ? », sachez que derrière cette machine capable de raisonner étape par étape et de s'auto-corriger, se trouve un long fil conducteur. D'un côté, les laboratoires de la Silicon Valley ; de l'autre, Tamsui.
 
 ## Sources des images
 
-- Photo de conférence de Chi Huai-hsin (hero) : [GQ Taiwan《GQ 專訪》紀懷新](https://www.gq.com.tw/article/gq%E5%B0%88%E8%A8%AA-%E7%B4%80%E6%87%B7%E6%96%B0-ed-chi-2026) — fair use editorial commentary
-- [Junyu-K / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20241130_淡水油車口木棧道的夕景.jpg) — CC BY-SA 4.0 (coucher de soleil sur la promenade en bois de Youchekou à Tamsui)
-- [SavagePanda845 (Elliot F) / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UMN-TheKnoll.jpg) — CC BY-SA 4.0 (campus de l’Université du Minnesota)
-- [The wub / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerox_Alto_I,_1973,_Computer_History_Museum.jpg) — CC BY-SA 4.0 (ordinateur Xerox Alto)
-- Figure 1 de l’article sur la chaîne de pensée : [Wei et al. 2022, arXiv:2201.11903](https://arxiv.org/abs/2201.11903) — fair use academic
+- Photo d'Ed Chi lors d'une conférence (hero) : [Interview GQ Taiwan de Ed Chi](https://www.gq.com.tw/article/gq%E5%B0%88%E8%A8%AA-%E7%B4%80%E6%87%B7%E6%96%B0-ed-chi-2026) — usage équitable pour commentaire éditorial
+- [Junyu-K / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20241130_淡水油車口木棧道的夕景.jpg) — CC BY-SA 4.0 (Coucher de soleil sur la passerelle de Youchekou, Tamsui)
+- [SavagePanda845 (Elliot F) / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UMN-TheKnoll.jpg) — CC BY-SA 4.0 (Campus de l'Université du Minnesota)
+- [The wub / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerox_Alto_I,_1973,_Computer_History_Museum.jpg) — CC BY-SA 4.0 (Ordinateur Xerox Alto)
+- Figure 1 de l'article Chain of Thought : [Wei et al. 2022, arXiv:2201.11903](https://arxiv.org/abs/2201.11903) — usage équitable académique
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Jensen Huang](/fr/people/jensen-huang) — la lumière taïwanaise qui fait tourner l’IA plus vite, côté matériel
-- [Morris Chang](/fr/people/tsmc-morris-chang) — le fondateur des semi-conducteurs taïwanais, la montagne dont Chi Huai-hsin dit que la « position est très difficile à ébranler »
-- [Industrie de l’intelligence artificielle](/fr/technology/artificial-intelligence-industry) — la place de Taïwan dans la chaîne d’approvisionnement mondiale de l’IA
-- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/fr/technology/artificial-intelligence-development-strategy) — vue d’ensemble de l’IA à Taïwan
-- [L’IA dans le quotidien taïwanais](/fr/technology/taiwan-ai-in-daily-life) — comment l’IA est déjà entrée dans la vie des Taïwanais
+- [Jensen Huang](/fr/people/jensen-huang) —— La lumière de Taïwan qui accélère l'IA, le côté matériel
+- [Morris Chang](/fr/people/tsmc-morris-chang) —— Le fondateur des semi-conducteurs à Taïwan, la montagne dont Ed Chi parle comme « inébranlable »
+- [Industrie de l'Intelligence Artificielle](/fr/technology/artificial-intelligence-industry) —— La place de Taïwan dans la chaîne d'approvisionnement mondiale de l'IA
+- [Développement et stratégie future de l'IA à Taïwan](/fr/technology/artificial-intelligence-development-strategy) —— Le paysage global de l'IA taïwanaise
+- [Le quotidien de l'IA à Taïwan](/fr/technology/taiwan-ai-in-daily-life) —— Comment l'IA s'intègre déjà dans la vie des Taïwanais
 
 ## Références
 
-[^1]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — entretien de la chaîne officielle VK avec Chi Huai-hsin. Vers la 52e minute, il explique lui-même que l’article sur la chaîne de pensée n’a utilisé qu’environ cinq mille dollars de puissance de calcul, l’un des éléments les plus probants contre le récit de la « course aux armements » en puissance de calcul.
+[^1]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Interview sur la chaîne officielle VK. À environ 52 min, il confirme que l'article Chain of Thought n'a coûté qu'environ 5 000 $ en calcul, preuve majeure de l'approche « anti-course aux armements ».
 
-[^2]: [塞掐 Sidechat E350（ft. 紀懷新）](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — entretien officiel du podcast technologique d’INSIDE. Au début de l’émission, Chi Huai-hsin se présente et explique mot pour mot qu’il est né à Tamsui et qu’il est parti aux États-Unis avec sa mère vers l’âge de 15 ans.
+[^2]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Interview officielle du podcast technologique d'INSIDE. En introduction, Ed Chi se présente et précise qu'il est né à Tamsui et a émigré vers 15 ans avec sa mère.
 
-[^3]: [CV personnel d’Ed H. Chi](https://www.edchi.net/resume) — CV publié sur le site officiel de Chi Huai-hsin, indiquant une licence en informatique à l’Université du Minnesota (1992-1994), un master en informatique (1994-1996) et un doctorat en informatique et sciences de l’information (1996-1999), obtenu avec la plus haute distinction, sous la direction de John T. Riedl.
+[^3]: [CV d'Ed H. Chi](https://www.edchi.net/resume) — Site officiel de l'intéressé, détaillant son cursus à l'Université du Minnesota (Licence en informatique 1992–1994, Master 1994–1996, Doctorat en informatique et sciences de l'information 1996–1999) avec les plus hautes distinctions, sous la direction de John T. Riedl.
 
-[^4]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 56e minute, Chi Huai-hsin raconte comment, constatant que ses mathématiques n’étaient pas meilleures que celles de ses pairs, il s’est orienté vers une recherche de « pont ». C’est une confession essentielle pour comprendre son style de recherche.
+[^4]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 56 min, Ed Chi explique son parcours vers la recherche de « pontage » en raison de ses capacités mathématiques par rapport à ses pairs.
 
-[^5]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 5e minute, Chi Huai-hsin explique la lignée intellectuelle du Palo Alto Research Center : son patron Stuart Card était l’étudiant d’Allen Newell. Les noms propres ont été vérifiés avec les sources académiques ([page Wikipédia de Stuart Card](https://en.wikipedia.org/wiki/Stuart_Card)).
+[^5]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 5 min, Ed Chi détaille sa lignée académique au Xerox PARC avec son patron Stuart Card, étudiant d'Allen Newell. Noms corrigés selon les sources académiques ([Wikipedia Stuart Card](https://en.wikipedia.org/wiki/Stuart_Card)).
 
-[^6]: [Ed H. Chi｜Google Research](https://research.google/people/edchi/) — page personnelle officielle de Google Research, qui retrace son parcours chez Google et ses domaines de recherche ; les détails de carrière sont également issus de son CV personnel [edchi.net/resume](https://www.edchi.net/resume).
+[^6]: [Ed H. Chi | Google Research](https://research.google/people/edchi/) — Page officielle de Google Research détaillant sa carrière et ses domaines de recherche ; détails supplémentaires sur son CV à [edchi.net/resume](https://www.edchi.net/resume).
 
-[^7]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 9e minute, Chi Huai-hsin explique que son insatisfaction face à la question « pourquoi faut-il autant de données pour que la machine apprenne ? » fut le point de départ de la chaîne de pensée.
+[^7]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 9 min, Ed Chi explique que son insatisfaction face au besoin massif de données est le point de départ de la chaîne de pensée.
 
-[^8]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — entre la 9e et la 10e minute, il livre le témoignage de première main le plus central sur l’origine de la chaîne de pensée : la théorie des schèmes, Piaget, et le lien personnel avec la thèse de doctorat en psychologie de l’éducation de sa mère. Le passage le plus vivant de cet article.
+[^8]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 9 à 10 min, récit central sur l'origine de la chaîne de pensée : théorie des schémas, Piaget, et le lien personnel avec la thèse de sa mère.
 
-[^9]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 57e minute, Chi Huai-hsin raconte comment il a écarté l’approche neuro-symbolique de Denny Zhou et orienté le travail vers les schèmes, élément de première main pour évaluer son rôle. Les auteurs et l’ordre de signature de l’article sont indiqués dans [arXiv 2201.11903](https://arxiv.org/abs/2201.11903).
+[^9]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 57 min, Ed Chi raconte comment il a écarté la méthode neuro-symbolique de Denny Zhou pour privilégier les schémas. Voir auteurs dans [arXiv 2201.11903](https://arxiv.org/abs/2201.11903).
 
-[^10]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 15e minute, Chi Huai-hsin utilise le cadre piagétien de l’assimilation et de l’accommodation pour décrire l’évolution de la chaîne de pensée vers le raisonnement réflexif, montrant comment il fait entrer directement le vocabulaire de la psychologie de l’éducation dans l’IA.
+[^10]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 15 min, Ed Chi utilise les concepts d'assimilation et d'accommodation de Piaget pour décrire l'évolution vers le raisonnement réflexif.
 
-[^11]: [VK 科技閱讀時間 EP122：AI 演進、AGI 雛型、很多心理學（ft. 紀懷新）](https://www.youtube.com/watch?v=51woDEK5NME) — vers la 17e minute, Chi Huai-hsin relie la chaîne de pensée au cadre système un / système deux de Kahneman dans _Thinking, Fast and Slow_. L’ouvrage _Thinking, Fast and Slow_ de Kahneman a été publié en 2011.
+[^11]: [VK Tech Reading Time EP122 : Évolution de l'IA, prototypes d'AGI et psychologie (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Vers 17 min, Ed Chi lie la chaîne de pensée au cadre Système 1 / Système 2 de Daniel Kahneman (_Thinking, Fast and Slow_, 2011).
 
-[^12]: [塞掐 Sidechat E350（ft. 紀懷新）](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — au début de l’entretien et vers la 60e minute, Chi Huai-hsin propose le « critère de la grand-mère » pour l’AGI : lorsque la grand-mère grondera le robot comme une personne en disant « je t’ai montré une fois, comment ne sais-tu toujours pas faire ? », l’AGI sera arrivée.
+[^12]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — En introduction et vers 60 min, Ed Chi présente le « test de la grand-mère » pour l'AGI.
 
-[^13]: [塞掐 Sidechat E350（ft. 紀懷新）](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — vers la 30e minute, Chi Huai-hsin raconte avoir emmené Project Astra, encore confidentiel, à Barcelone et l’avoir utilisé dans le bar sur le toit d’un hôtel pour balayer la ligne d’horizon ; le système a correctement identifié la ville et le quartier.
+[^13]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Vers 30 min, récit de son expérience avec Project Astra à Barcelone et sa capacité à identifier le contexte urbain.
 
-[^14]: [塞掐 Sidechat E350（ft. 紀懷新）](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — vers la 40e minute, Chi Huai-hsin commente la position « très difficile à ébranler » de Taïwan dans la fabrication des semi-conducteurs, ainsi que la « grande occasion » que représente l’intégration matériel-logiciel pour Taïwan.
+[^14]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Vers 40 min, commentaires d'Ed Chi sur l'incontournable position de Taïwan dans la fabrication de semi-conducteurs et l'opportunité de l'intégration matériel/logiciel.
 
-[^15]: [塞掐 Sidechat E350（ft. 紀懷新）](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — vers la 52e minute, Chi Huai-hsin interpelle les chercheurs taïwanais : ce domaine de recherche peut se faire « sans beaucoup de puces », mais bien qu’il en parle à chaque retour à Taïwan depuis des années, il ne voit pas les chercheurs taïwanais s’y investir. C’est le passage qui montre le mieux sa tension identitaire d’outsider-insider.
+[^15]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Vers 52 min, appel d'Ed Chi aux chercheurs taïwanais sur les opportunités de recherche ne nécessitant pas de puces massives.
