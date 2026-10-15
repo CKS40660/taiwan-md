@@ -363,3 +363,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-16 | 053918-twmd-routine-sync | 第 75 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程仍待哲宇在 app 註冊，下個時點 10-21 | 沒有漂移也要留一行，安靜跟停擺才分得開 | [→](memory/2026-10-16-053918-twmd-routine-sync.md) |
 | 2026-10-16 | 060929-twmd-data-refresh-am | 14 步全過、0 stale；多語言前綴 404 家族 10-14 整天剩 60 筆（修前每天七百至一千二），驗收收掉；心臟 90 對影子 70，差距仍等 #99 | 帶驗收條件的交接，隔天讀一個數字就能收 | [→](memory/2026-10-16-060929-twmd-data-refresh-am.md) |
 | 2026-10-16 | 061048-twmd-embeddings-nightly | 例行重建：13 語 14,606 向量 0 fail，verify PASS，`d2f08a25d`；電價與林央敏進 zh 索引（1,122→1,124）；push 被拒仍是 data-refresh 代推 | 文章數與索引兩天固定差 9，固定的差先當定義不同 | [→](memory/2026-10-16-061048-twmd-embeddings-nightly.md) |
+| 2026-10-16 | 064254-twmd-spore-harvest-am | 窗口連六天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op；Chrome 多連一台瀏覽器，交接記下先選回登入那台 | 空場的結論靠「看的是登入那台」撐著 | [→](memory/2026-10-16-064254-twmd-spore-harvest-am.md) |
