@@ -1,6 +1,6 @@
 ---
 title: '台湾の海洋貿易史'
-description: '大航海時代の台湾、国際貿易中心から海賊王国への興亡の伝説'
+description: '16、17世紀の大航海時代、この島は東アジアの辺境の小島ではなく、中国、日本、そして東南アジアを結ぶ重要な貿易拠点でした。オランダ東インド会社は台南にゼーランディア城を築き、中国からは生糸、磁器、茶を輸入し、日本からは銀塊を、東南アジアからは香料や木材を運び込み、ここを中継地として利用しました。その姿は「東アジアのアムステルダム」と称えられました。また、鄭氏王朝は海上覇権を確立し、貿易拠点から海賊王国へと変遷していく興亡の歴史を刻みました。'
 date: 2026-03-20
 category: 'History'
 tags: ['海洋貿易', '大航海時代', '国際貿易', '海賊', '港湾都市']
@@ -13,10 +13,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T17:42:34+08:00'
+translatedAt: '2026-10-15T19:12:13.217205+00:00'
 ---
 
 # 台湾の海洋貿易史

@@ -1,20 +1,20 @@
 ---
-title: '台湾のコミュニティと里文化'
-description: '最も基層の民主的実践からコミュニティづくりの社会的イノベーションへ'
-subcategory: '社會運動'
+title: '台湾のコミュニティと里（リ）文化'
+description: '「里」は台湾の民主社会における最小の細胞です。里長が住民を集めて会議を開き、隣組長が戸別訪問で報告を行い、隣の教室ではコミュニティ大学が開講されています。この記事では、最も基礎的な里・隣制度から始まり、コミュニティ形成運動やコミュニティ大学の試みを経て、市民参加がいかに受動的なものから能動的な変革へと進化したのか、そしてこの草の根ネットワークがいかに台湾の社会的なレジリエンスを支えているのかを紐解きます。'
+date: 2026-03-18
+category: 'Society'
 tags:
-  ['里隣制度', 'コミュニティづくり', 'コミュニティ大学', '市民参加', '地方自治']
+  ['里隣制度', 'コミュニティ形成', 'コミュニティ大学', '市民参加', '地方自治']
+subcategory: '社會運動'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-03T01:40:00+08:00'
-category: Society
-author: 'Taiwan.md'
-date: 2026-03-18
-featured: false
+translatedAt: '2026-10-15T19:26:09.401535+00:00'
 ---
 
 # 台湾のコミュニティと里文化

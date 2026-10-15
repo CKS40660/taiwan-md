@@ -1,9 +1,10 @@
 ---
-title: '台湾における石虎保全'
-description: '台湾全土で生息数が500匹未満の幽霊猫――最後の在来ネコ科動物が絶滅の淵に立たされている現状'
+title: '台湾スナネコ（シコ）の保護'
+description: '雲豹が絶滅した後、島内に残された最後の在来種のネコ科動物は、この浅い山の幽霊のような存在です。彼らは深い山ではなく、苗栗、南投、台中の低標高な浅い山地帯に生息しています。交通事故、工場の建設による生息地の喪失、鶏の密猟、そして野良犬の脅威にさらされており、推定個体数は500頭未満で減少傾向にあります。すでに一級の絶滅危惧種として指定されており、台湾における発展と保護が真っ向から対立する象徴的な存在となっています。'
 date: 2026-03-18
 category: 'Nature'
-tags: ['石虎', '保全', '路殺', '生息地', '苗栗', '絶滅危惧種', '生態']
+tags:
+  ['スナネコ', '保護', 'ロードキル', '生息地', '苗栗', '絶滅危惧種', '生態系']
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 12
@@ -11,10 +12,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: '825528805'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:53a697c302d622a3'
 sourceBodyHash: 'sha256:7ed841e26f0abf1f'
-translatedAt: '2026-10-02T03:57:00.082417+00:00'
+translatedAt: '2026-10-15T20:14:31.996048+00:00'
 ---
 
 # 台湾における石虎保全
