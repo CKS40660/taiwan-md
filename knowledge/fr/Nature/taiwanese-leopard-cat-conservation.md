@@ -1,11 +1,11 @@
 ---
-title: 'Conservation du chat-léopard de Taïwan'
-description: "Le chat fantôme dont il reste moins de cinq cents individus — quand le dernier félin indigène de l'île s'approche du bord de l'extinction"
+title: 'La conservation du chat léopard de Taïwan'
+description: 'Après l''extinction du léopard nébuleux, le dernier félin indigène de l''île est ce "fantôme des collines" ; menacé par les accidents et la perte d''habitat, sa population est estimée à moins de 500 individus.'
 date: 2026-03-18
 category: 'Nature'
 tags:
   [
-    'chat-léopard',
+    'Chat léopard',
     'conservation',
     'collision routière',
     'habitat',
@@ -20,196 +20,184 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: '825528805'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:53a697c302d622a3'
 sourceBodyHash: 'sha256:7ed841e26f0abf1f'
-translatedAt: '2026-10-02T00:58:13.477975+00:00'
+translatedAt: '2026-10-15T20:17:58+08:00'
 ---
 
-# Conservation du chat-léopard de Taïwan
+# La conservation du chat léopard de Taïwan
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-Taïwan a jadis abrité le léopard nébuleux, officiellement déclaré éteint en 2013. Aujourd'hui, il ne reste plus qu'un seul félin indigène dans l'île : le **chat-léopard**, dont la population est estimée à moins de 500 individus — et ce chiffre ne cesse de reculer. Ce n'est pas une statistique figée ; c'est une ligne qui descend en continu.
+Taïwan abritait autrefois des léopards nébuleux, mais l'espèce a été officiellement déclarée éteinte en 2013. Aujourd'hui, le dernier félin indigène de Taïwan est le **chat léopard** (_Prionailurus bengalensis_). On estime qu'il reste moins de 500 individus sur toute l'île, et leur nombre ne cesse de diminuer. Ce n'est pas un chiffre statique, mais une courbe en chute libre.
 
-Si nous n'agissons pas, la prochaine annonce d'extinction pourrait tomber de notre vivant.
+Si nous n'agissons pas, la prochaine espèce à disparaître pourrait le faire au cours de notre génération.
 
-Cet animal ne vit pas au fond des montagnes. Il habite les basses collines de Miaoli, Nantou et Taichung — là précisément où la pression du développement humain est la plus intense. Il traverse des routes et se fait écraser. Son territoire de chasse est transformé en zones industrielles. Les poulets qu'il attrape suscitent la fureur des agriculteurs. Les chiens errants le tuent. L'histoire du chat-léopard est la confrontation la plus brutale entre « développement » et « conservation » à Taïwan.
+Il ne vit pas dans les hautes montagnes. Il habite les zones de collines de faible altitude dans les comtés de Miaoli, de Nantou et de Taichung, là où la pression du développement humain est la plus forte. Il se fait écraser par les voitures en traversant les routes, ses territoires de chasse sont recouverts par des usines, ses proies (comme les poulets) exaspèrent les agriculteurs, et il peut même être tué par des chiens errants. L'histoire du chat léopard est le point de confrontation le plus aigu entre le « développement » et la « conservation » à Taïwan.
 
-**Chiffres clés :**
+**Données clés :**
 
 - Population estimée à Taïwan : **moins de 500 individus**
-- Habitat principal : basses collines de Miaoli, Nantou et Taichung (en dessous de 800 m)
-- Collisions routières recensées entre 2017 et 2023 : plus de **130 individus**
-- Classé en **catégorie I des espèces menacées d'extinction** à Taïwan
-- Dernier félin indigène encore présent sur l'île
+- Habitat principal : collines de faible altitude à Miaoli, Nantou et Taichung
+- Collisions routières signalées (2017–2023) : plus de **130 individus**
+- Classé comme **espèce sauvage de première catégorie en danger critique d'extinction** à Taïwan
+- Seul félin indigène encore existant à Taïwan
 
 ---
 
-## Pourquoi cela compte
+## Pourquoi est-ce important ?
 
-Le chat-léopard est important, et pas seulement parce que c'est un chat. C'est une **espèce indicatrice de l'écosystème des basses collines**. Lorsqu'il se porte bien, c'est tout l'environnement qui va — grenouilles, rongeurs, oiseaux et insectes des zones agricoles. Lorsqu'il disparaît, c'est toute la chaîne alimentaire qui s'est brisée.
+Le chat léopard est important, non pas seulement parce que c'est un félin. C'est une **espèce indicatrice de l'écosystème des collines**. Si le chat léopard prospère, cela signifie que l'ensemble de l'environnement (grenouilles, rongeurs, oiseaux et insectes dans les champs) est sain. Sa disparition signifierait la rupture de toute la chaîne alimentaire.
 
-Il y a une dimension plus profonde : le chat-léopard n'habite pas une nature vierge et inaccessible. Il vit dans l'arrière-cour des humains. Le protéger revient à poser une question que personne ne veut vraiment affronter : **sommes-nous prêts à laisser une place aux autres espèces à notre porte ?**
+Le sens profond est le suivant : l'habitat du chat léopard n'est pas une nature sauvage et déserte, c'est le jardin de l'homme. Protéger le chat léopard revient à poser une question que personne ne veut entendre : **sommes-nous prêts à laisser un peu d'espace pour les autres espèces devant notre propre porte ?**
 
-Nos décisions quotidiennes — la conception d'une route de village, le mode de culture d'un champ — ont une incidence directe sur sa survie.
+Nos décisions quotidiennes influencent directement sa survie, de la conception des routes locales aux méthodes de culture agricole.
 
-L'habitat du chat-léopard se trouve précisément là où la pression du développement humain est la plus concentrée ; sa situation est l'épreuve la plus sévère de la conservation à Taïwan.
-
----
-
-## Le chat fantôme : vous ne l'avez probablement jamais vu
-
-### Ni chat domestique, ni léopard
-
-Le chat-léopard (_Prionailurus bengalensis_) porte en latin le nom de « chat-léopard du Bengale », mais il n'a aucune parenté avec le léopard. Sa taille est comparable à celle d'un chat domestique, entre 3 et 6 kilogrammes environ.
-
-Comment le reconnaître ? Son trait le plus distinctif est la présence de **deux bandes blanches verticales sur le front**, qui s'étendent du museau jusqu'au sommet de la tête. Ses oreilles présentent des taches blanches caractéristiques à l'arrière — des pseudo-yeux. Son pelage est parsemé de taches rondes noires, sans rayures.
-
-C'est un animal nocturne dont le domaine vital est vaste (jusqu'à 5 à 10 km² pour un mâle), et il vit en solitaire. Voilà pourquoi on l'appelle le « chat fantôme » : il vit peut-être à proximité de votre maison, mais vous ne l'aurez sans doute jamais aperçu de votre vie.
-
-### Les basses collines : son foyer, son piège
-
-Le chat-léopard ne fréquente pas les parcs nationaux d'altitude. Il occupe les zones de basse colline en dessous de 800 mètres, là où se mêlent champs agricoles, vergers, bambouseraies et forêts secondaires.
-
-Ces zones ont une caractéristique commune : **elles sont proches des humains**. Les districts de Tongsiao, Houlong, Xihu et Tongluo à Miaoli, de Zhongliao et Jiji à Nantou, de Xinshé et Heping à Taichung — les chemins vicinaux, les bordures de vergers et les corridors le long des cours d'eau de ces communes constituent son habitat. Ce sont aussi les endroits où les routes, les extensions agricoles et les constructions industrielles se multiplient le plus.
+L'habitat du chat léopard se situe précisément là où la pression du développement humain est la plus concentrée ; sa situation est le test le plus sévère pour le travail de conservation à Taïwan.
 
 ---
 
-## Les quatre modes de mort
+## Le chat fantôme : vous ne l'avez peut-être jamais vu
 
-### I. Mort routière : le massacre le plus silencieux
+### Ni un chat domestique, ni un léopard
 
-Dans les cercles de conservation à Taïwan, il existe un terme qui donne froid au cœur : **la mort routière** (路殺). Le chat-léopard est une espèce nocturne ; la nuit, il traverse les routes pour se nourrir, trouver des partenaires ou patrouiller son territoire. Les routes rurales de Miaoli et Nantou ne disposent ni de passages fauniques, ni d'installations de ralentissement, ni de conception pensée pour la faune sauvage.
+Le chat léopard (_Prionailurus bengalensis_), bien que son nom scientifique évoque le léopard, n'a aucun lien avec ce dernier. Sa taille est comparable à celle d'un chat domestique, environ 3 à 6 kg.
 
-Quand les phares s'allument, les yeux du chat-léopard réfléchissent, puis...
+Comment le reconnaître ? Le trait le plus distinctif est la présence de **deux bandes blanches longitudinales sur le front**, s'étendant du nez vers le sommet de la tête. L'arrière des oreilles présente des taches blanches marquées (ocelles). Son corps est couvert de taches noires rondes, et non de rayures.
 
-Le dossier spécial "Mort routière" de Wuo Wuo a utilisé un titre déchirant : « Clac ! Et je deviens une viande séchée ».
+C'est un animal nocturne avec un vaste territoire (jusqu'à 5–10 km² pour les mâles), vivant de manière solitaire. C'est pourquoi on l'appelle le « chat fantôme » : il vit près de chez vous, mais vous ne le verrez peut-être jamais de votre vie.
 
-Entre 2017 et 2023, plus de 130 chats-léopards ont été enregistrés comme morts sur la route. [^2] Ceux qui n'ont pas été trouvés sont inconnus.
+### Les collines sont sa maison, mais aussi son cimetière
 
-Le chercheur en chat-léopard Lin Yu-hsiu a suivi un spécimen nommé « Xiao Cao ». Il a été heurté **deux fois** par des véhicules, mais il est survivant les deux fois. Lin Yu-hsiu déclare : « Xiao Cao s'est sauvé grâce à deux accidents de voiture ; si nous ne faisons rien pour le chat-léopard, c'est vraiment un sacrifice de sa capacité d'autodéfense ».
+Le chat léopard ne vit pas dans les parcs nationaux de haute montagne. Il réside dans les zones de collines de faible altitude (sous les 800 mètres), là où s'entremêlent champs agricoles, vergers, bambouseraies et forêts secondaires.
 
-### II. Disparition de l'habitat : la maison est démolie
-
-Miaoli est le comté avec la plus forte densité de populations de chats-léopards et la meilleure continuité des habitats. Mais Miaoli est aussi l'un des endroits où les controverses liées au développement sont les plus fréquentes parmi tous les comtés de Taïwan.
-
-En 2019, le « Règlement autonome pour la conservation du chat-léopard » proposé par le gouvernement du comté de Miaoli a été **rejeté deux fois** par l'assemblée locale. La raison invoquée était « l'impact sur le développement local ». Un comté réputé "capitale du chat-léopard" n'a même pas réussi à faire adopter une réglementation pour protéger cette espèce.
-
-Ceci est le théâtre de l'absurdité de la conservation à Taïwan : on utilise le nom du chat-léopard pour le marketing touristique, on l'imprime sur des mascottes, on le dessine sur des bus — mais lorsque la protection du chat-léopard menace de restreindre le développement, le chat-léopard n'est plus important.
-
-### III. Mort par chien : la menace la moins reconnue
-
-C'est le malaise que le monde animalier de Taïwan ne veut pas affronter : **les chiens errants tuent les chats-léopards**.
-
-Les images capturées par des caméras automatiques sont de plus en plus nombreuses : des meutes de chiens vagabonds apparaissent dans les habitats des chats-léopards, les poursuivant, les attaquant et les tuant. Wuo Wuo a réalisé un dossier complet sur la "Mort du chat-léopard par chien", dont les données indiquent que le cannibalisme canin est la deuxième cause de mortalité documentée pour le chat-léopard, après la mort routière.
-
-Les morsures ne représentent qu'une partie de cette menace. Les chiens et chats errants introduisent des maladies zoonotiques dans les collines basses, et les chats-léopards infectés ont également moins de chances de survivre sur la route ; par conséquent, les causes de mortalité liées aux chiens et à la route ne sont pas indépendantes en termes de chiffres. Cette chaîne de causalité, les données de dépistage viral du Pingtung University et le débat qu'elle soulève sur la politique d'élimination des animaux, sont discutés dans leur intégralité dans [La culture animale errante à Taïwan](/fr/society/stray-animal-culture).
-
-Ceci place les groupes animaliers et les chercheurs en écologie de Taïwan dans une situation extrêmement délicate. Ceux qui défendent les chiens errants disent qu'on ne peut pas les euthanasier ; ceux qui protègent le chat-léopard disent que si l'on n'agit pas contre ces chiens, le chat-léopard disparaîtra réellement.
-
-Les deux camps cherchent à protéger des animaux, mais les animaux de chaque côté se tuent mutuellement.
-
-Ce débat n'a pas encore de réponse, mais il force la société taïwanaise à faire face à un fait : **"aimer les animaux" n'est pas une position simple ; elle est pleine de contradictions et de compromis.**
-
-### IV. Empoisonnement et pièges
-
-Le chat-léopard mange des poulets. Pour les agriculteurs des zones de collines basses, l'intrusion du chat-léopard dans le poulailler représente une perte économique réelle. Certains agriculteurs ont réagi de manière directe : en empoisonnant.
-
-De plus, bien que les pièges utilisés en montagne soient interdits depuis 2020, ils existent toujours secrètement. Après avoir été pris au piège par un chat-léopard, celui-ci peut subir une amputation légère ou mourir de faim s'il ne parvient pas à se nourrir.
-
-## Les lueurs d'espoir
-
-### Le paiement pour services écosystémiques
-
-« Arrête de t'en prendre à mes poules, sinon je t'empoisonne » — la logique est limpide, mais on ne peut pas expliquer cela à un chat-léopard. Alors le gouvernement a changé d'approche : **payer les agriculteurs**.
-
-Depuis 2021, le ministère de l'Agriculture a mis en place un dispositif de « paiement écologique pour le chat-léopard ».[^3] Tout agriculteur dont les terres se trouvent dans l'aire de répartition du chat-léopard et qui adopte des pratiques agricoles respectueuses — sans appâts empoisonnés ni pièges — peut recevoir une subvention allant jusqu'à 20 000 NT$ par hectare. Si un piège photographique installé sur son terrain capture une image de chat-léopard, 10 000 NT$ supplémentaires sont versés.
-
-Ce n'est pas de la charité. C'est **faire des agriculteurs des alliés de la conservation plutôt que des adversaires**.
-
-Depuis le lancement du programme, plusieurs centaines de foyers agricoles y ont adhéré. Un agriculteur témoigne : « Avant, quand je voyais un chat-léopard, je le maudissais. Maintenant, je sors mon téléphone pour le photographier, parce que ça me rapporte de l'argent. »
-
-### Corridors écologiques et passages à faune
-
-Pour répondre au problème des collisions routières, des **passages à faune** ont commencé à être aménagés sur certains tronçons de routes à Miaoli et Nantou — des buses ou des tunnels sous les voies permettant au chat-léopard de traverser en sécurité.
-
-Ces aménagements sont-ils efficaces ? Les pièges photographiques ont bien capturé des images de chats-léopards les utilisant. Oui, ils fonctionnent — mais ils restent insuffisants en nombre. Sur l'ensemble du réseau routier de Miaoli, les tronçons équipés de passages à faune demeurent minoritaires.
-
-### Les chats-léopards vedettes
-
-La conservation a besoin d'histoires et de visages. **Jibao**, un chat-léopard recueilli et soigné au refuge animalier de Houli à Taichung, est devenu une star de l'éducation à la conservation grâce à son caractère apprivoisé. Il a permis à de nombreuses personnes qui ignoraient jusqu'à l'existence du chat-léopard à Taïwan de découvrir cet animal.
-
-**Ahu**, un chat-léopard de l'Institut de recherche sur la biodiversité (TBRI) du ministère de l'Agriculture, participe à un programme de reproduction en captivité.[^4] Chaque naissance de chaton est un événement médiatique.
-
-Ces chats-léopards vedettes portent en eux une ironie tragique : s'ils se trouvent près des humains, c'est précisément parce qu'ils n'ont pas pu survivre à l'état sauvage.
+La caractéristique de ces lieux est leur **proximité avec l'homme**. Les routes de campagne des bourgs de Tongxiao, Houlong et Xihu à Miaoli ; Zhongliao et Jiji à Nantou ; ou Xinshe et Heping à Taichung sont les habitats du chat léopard, mais ce sont aussi les zones les plus denses en infrastructures routières, en expansion agricole et en constructions industrielles.
 
 ---
 
-## Le règlement de conservation de Miaoli : le révélateur du jeu politique local
+## Quatre causes de mort
 
-La séquence qui s'est déroulée au conseil du comté de Miaoli en 2019 restera l'une des pages les plus absurdes de l'histoire de la conservation à Taïwan. Après des années de mobilisation d'écologues et d'associations de protection de la nature, le gouvernement du comté a finalement soumis un projet de « Règlement autonome pour la conservation du chat-léopard ». Son contenu n'avait rien d'extrémiste : il exigeait simplement qu'une évaluation écologique soit réalisée avant tout projet de développement dans l'aire de répartition du chat-léopard.
+### 1. La collision routière : un massacre silencieux
 
-Rejeté une première fois. Révisé et représenté. Rejeté une seconde fois.
+Dans le milieu de la conservation à Taïwan, il existe un terme qui glace le sang : **la collision routière** (_lùshā_). Le chat léopard est nocturne ; il traverse les routes la nuit pour chercher de la nourriture, un partenaire ou patrouiller son territoire. Or, les routes de campagne de Miaoli et Nantou ne disposent ni de passages pour la faune, ni d'aménagements ralentisseurs, ni de conception pensée pour la vie sauvage.
 
-Les arguments avancés par les conseillers incluaient : « Le chat-léopard est déjà protégé par la législation nationale — inutile de légiférer localement », « Cela entraverait les projets d'infrastructure du comté » et « Les agriculteurs ont déjà assez de difficultés. »
+Sous l'éclat des phares, les yeux du chat léopard reflètent la lumière, puis...
 
-Ces arguments semblent recevables. En clair, ils signifient : le chat-léopard ne peut pas bloquer le développement.
+Le média _WoWo_ a utilisé un titre déchirant pour son dossier sur les collisions : « _Pachi ! Et puis je suis devenu du bœuf séché_ ».
 
-Dans les rues de Miaoli, l'image du chat-léopard est omniprésente — abribus, camions-poubelles, brochures touristiques. Il est la mascotte du comté. Mais il ne peut pas en être le voisin.
+Entre 2017 et 2023, plus de 130 morts par collision ont été enregistrées. [^2] Quant aux cas non découverts, personne ne peut en connaître le nombre exact.
 
-Finalement, sous la pression de l'opinion publique, Miaoli a fait adopter en troisième lecture, le 10 décembre 2019, le premier règlement autonome de conservation du chat-léopard de Taïwan.[^1] Mais ce parcours du combattant est devenu un exemple emblématique du fossé béant qui sépare le discours de conservation de la réalité des actes à Taïwan.
+La chercheuse Lin Yu-hsiu a suivi un chat léopard nommé « Xiao Cao ». Il a survécu à **deux** accidents de la route. Lin affirme : « Xiao Cao s'est sauvé de lui-même après deux accidents ; si nous ne faisons rien pour les chats léopards, nous sacrifions leur propre volonté de survivre. »
+
+### 2. La disparition de l'habitat : la maison détruite
+
+Miaoli est le comté où la densité de population de chats léopards est la plus élevée et où l'habitat est le plus continu. Mais c'est aussi l'un des endroits où les conflits liés au développement sont les plus fréquents à Taïwan.
+
+En 2019, le « Règlement local sur la conservation du chat léopard » proposé par le gouvernement du comté de Miaoli a été **rejeté deux fois** par le conseil provincial. Le motif invoqué était « l'impact sur le développement local ». Un comté qui se revendique « capitale du chat léopard » est incapable de faire passer une loi pour le protéger.
+
+C'est là tout le théâtre absurde de la conservation à Taïwan : on utilise le nom du chat léopard pour le marketing touristique, on l'imprime sur des mascottes ou on le dessine sur les bus — mais dès qu'il s'agit de limiter le développement pour le protéger, il ne compte plus.
+
+### 3. La prédation par les chiens : une menace sous-estimée
+
+C'est le sujet embarrassant que la communauté de protection animale à Taïwan préfère éviter : **les chiens errants tuent les chats léopards**.
+
+Les images captées par les caméras automatiques se multiplient : des meutes de chiens errants apparaissent dans l'habitat du chat léopard pour le poursuivre, l'attaquer et le tuer. _WoWo_ a réalisé un dossier complet sur la « prédation canine », montrant que c'est, après les collisions routières, la deuxième cause de mortalité documentée.
+
+La morsure n'est que la moitié du problème. Les chiens et chats errants introduisent également des maladies infectieuses dans les collines ; un chat léopard infecté a alors moins de chances de survivre sur la route, créant un lien entre prédation canine et collisions routières. Pour une discussion complète sur cette chaîne de causalité, les données de dépistage viral de l'Université de technologie de Pingtung et le débat sur la politique d'abattage, consultez [la culture des animaux errants à Taïwan](/fr/society/stray-animal-culture).
+
+Cela place les groupes de protection animale et les écologistes dans une position extrêmement délicate. Ceux qui protègent les chiens errants disent « il ne faut pas les abattre » ; ceux qui protègent le chat léopard disent « si on ne gère pas les chiens, le chat léopard sera définitivement éteint ».
+
+Les deux camps protègent des animaux, mais ces animaux s'entretuent.
+
+Ce débat n'a toujours pas de réponse, mais il force la société taïwanaise à affronter une réalité : **« aimer les animaux » n'est pas une position simple ; c'est un domaine rempli de contradictions et de choix difficiles.**
+
+### 4. Empoisonnement et pièges
+
+Le chat léopard mange des poulets. Pour les agriculteents des zones de collines, l'intrusion de chats léopards dans les poulaillers représente une perte économique réelle. Certains agriculteurs réagissent de manière directe : l'empoisonnement.
+
+De plus, bien que les pièges soient interdits par la loi depuis 2020, ils existent toujours clandestinement en montagne. Un chat léopard qui déclenche un piège peut perdre un doigt ou mourir de faim s'il est blessé.
 
 ---
 
-## Ce que vous ne saviez pas
+## La lueur d'espoir : des protecteurs à l'œuvre
 
-Ces détails semblent anecdotiques, mais chacun d'eux pointe vers la même réalité : le chat-léopard vit trop près des humains pour être ignoré.
+### Les compensations écologiques pour le chat léopard
 
-🐆 Le nom scientifique du chat-léopard est _Prionailurus bengalensis_ (littéralement « chat-léopard du Bengale »), mais il n'a aucun lien de parenté avec le léopard.
+« Ne mange pas mes poulets, et je ne t'empoisonnerai pas » — la logique est claire, mais on ne peut pas demander à un chat léopard de comprendre le langage humain. Le gouvernement a donc changé d'approche : **payer les agriculteurs**.
 
-👀 Sa vision nocturne est **6 fois** plus performante que celle de l'humain — ce qui explique pourquoi les phares des voitures le « figent » sur les routes la nuit.
+Depuis 2021, le ministère de l'Agriculture promeut le « Programme de compensation écologique pour le chat léopard ». [^3] Si les agriculteurs adoptent des méthodes de culture respectueuses (sans poison ni pièges) dans la zone d'habitat, ils peuvent recevoir une subvention allant jusqu'à NT$20 000 par hectare. Si une caméra automatique capture un chat léopard sur leur terrain, ils reçoivent NT$10 000 supplémentaires.
 
-🏠 Le domaine vital d'un mâle peut atteindre **5 à 10 km²**, soit l'équivalent du district de Da'an à Taipei.
+Ce n'est pas de la charité. C'est une stratégie pour **faire des agriculteurs des alliés de la conservation plutôt que des ennemis**.
 
-☠️ Taïwan a jadis abrité le léopard nébuleux (_Neofelis nebulosa_), officiellement déclaré **éteint à l'état sauvage** en 2013.
+Depuis sa mise en œuvre, des centaines de fermes ont rejoint le programme. Certains agriculteurs disent : « Avant, je voulais insulter le chat léopard quand j'en voyais un ; maintenant, je sors mon téléphone pour le prendre en photo, car une photo signifie une prime. »
 
-💰 Les photos « primes » prises par les agriculteurs pour le programme de paiement écologique sont devenues, de manière inattendue, des contenus très populaires sur les réseaux sociaux.
+### Corridors écologiques et passages pour la faune
 
-🐕 Dans les cas documentés d'attaques par des chiens, les agresseurs sont presque toujours des **meutes de chiens divagants** (3 individus ou plus) et non des chiens solitaires.
+Pour répondre au problème des collisions, certains tronçons de route à Miaoli et Nantou ont commencé à installer des **passages pour animaux**, comme des ponceaux ou des tunnels sous les routes, permettant aux chats léopards de traverser en sécurité.
 
-🗳️ Le règlement de conservation de Miaoli a été rejeté **deux fois** avant d'être finalement adopté à la troisième tentative — pendant que le comté continuait d'utiliser le chat-léopard comme mascotte touristique.
+Ces passages sont-ils efficaces ? Des caméras automatiques ont filmé des chats léopards les utilisant. Ils sont utiles, mais pas assez nombreux. Dans tout le réseau routier de Miaoli, les sections équipées de tels passages restent minoritaires.
 
-📸 Le réseau de pièges photographiques de l'Institut de recherche sur la biodiversité (TBRI) du ministère de l'Agriculture est actuellement le moyen le plus systématique de suivre la dynamique des populations — mais sa couverture reste inférieure à la moitié de l'aire d'habitat connue.
+### Les chats « stars »
+
+La conservation a besoin d'histoires et de protagonistes. **Jibao**, un chat léopard sauvé par le refuge animalier de Houli à Taichung, est devenu une star de l'éducation environnementale grâce à son caractère amical. Elle a permis à beaucoup de personnes qui ne s'intéressaient pas à la cause de découvrir l'existence de cet animal à Taïwan.
+
+**A-hu**, un chat léopard du Laboratoire de biodiversité du ministère de l'Agriculture, participe au programme de reproduction artificielle. [^4] Chaque naissance d'un chat léopard issu de la reproduction assistée est une nouvelle importante.
+
+L'existence de ces chats « stars » est paradoxale : s'ils sont si proches des humains, c'est parce qu'ils ne pourraient plus survivre à l'état sauvage.
+
+---
+
+## Le règlement local sur le chat léopard : un miroir de la politique locale
+
+En 2019, le conseil provincial de Miaoli a offert l'un des moments les plus absurdes de l'histoire de la conservation à Taïwan. Sous la pression d'écologistes et de groupes de protection, le gouvernement du comté de Miaoli a enfin proposé un projet de « Règlement local sur la conservation du chat léopard ». Le contenu n'était pas radical : il demandait simplement que les projets de développement dans l'habitat du chat léopard fassent l'objet d'une évaluation écologique. Le conseil a rejeté le projet une première fois, puis une seconde fois après modification.
+
+Les arguments des conseillers incluaient : « Le chat léopard est une espèce protégée, la loi centrale s'en occupe déjà, il n'y a pas besoin de législation locale », « cela affectera le développement des infrastructures du comté » ou encore « les agriculteurs travaillent déjà assez dur ».
+
+Ces arguments semblent raisonnables, mais en langage clair, cela signifie : le chat léopard ne doit pas faire obstacle au progrès.
+
+Dans les rues de Miaoli, l'image du chat léopard est partout : arrêts de bus, camions poubelles, brochures touristiques. Le chat léopard est la mascotte de Miaoli, mais il n'a pas le droit d'en être le voisin.
+
+Finalement, sous la pression de l'opinion publique, le comté de Miaoli a adopté, le 10 décembre 2019, le premier règlement local sur la conservation du chat léopard de Taïwan. [^1] Mais ce processus est devenu un cas d'école illustrant le fossé immense entre la « conservation de façade » et les « actions concrètes » à Taïwan.
+
+---
+
+## Faits surprenants
+
+Ces détails peuvent sembler être des anecdotes, mais chacun pointe vers une même réalité : le chat léopard est trop proche de la vie humaine.
+
+🐆 Le nom scientifique officiel du chat léopard est _Prionailurus bengalensis_, mais il n'a aucun lien de parenté avec le léopard. 👀 Sa vision nocturne est **6 fois supérieure** à celle de l'homme, ce qui explique pourquoi il est particulièrement vulnérable aux phares des voitures la nuit. 🏠 Le territoire d'un mâle peut atteindre **5 à 10 km²**, soit l'équivalent du district de Da'an à Taipei.
+
+☠️ Taïwan possédait des léopards nébuleux (_Neofelis nebulosa_), mais l'espèce a été déclarée officiellement **éteinte à l'état sauvage** en 2013. 💰 Dans le cadre du programme de compensation, les photos de chats léopards prises par les agriculteurs sont devenues des contenus populaires sur les réseaux sociaux. 🐕 Dans les cas de prédation canine, les agresseurs sont souvent des **meutes de chiens errants** (3 individus ou plus) plutôt que des chiens isolés. 🗳️ Le règlement de Miaoli a été rejeté **deux fois** avant d'être adopté la troisième fois — alors même que le comté utilise l'animal comme mascotte touristique. 📸 Le réseau de caméras automatiques du Laboratoire de biodiversité est le moyen le plus systématique de suivre les populations, mais sa couverture ne couvre toujours pas la moitié de l'habitat du chat léopard.
 
 ---
 
 ## Les cinq cents derniers
 
-Quand Taïwan a perdu le léopard nébuleux, personne n'a eu le temps de dire au revoir. Le chat-léopard, lui, est encore là — moins de cinq cents individus. Il longe les vergers de Miaoli, chasse dans les bambouseraies de Nantou, et se tient en bordure d'une route que vous empruntez peut-être chaque jour pour aller travailler, attendant une occasion sûre de traverser.
+Quand Taïwan a perdu ses léopards nébuleux, personne n'a eu le temps de leur dire adieu. Pour le chat léopard, c'est différent : il est encore là, et ils sont moins de cinq cents. Il traverse les lisières des vergers à Miaoli, chasse dans les bambouseraies de Nantou, et attend une chance de traverser en sécurité une route que vous empruntez chaque jour pour aller travailler.
 
-Ceux qui travaillent à sa conservation répètent souvent cette phrase : « Si notre génération rate ça, la suivante ne pourra voir le chat-léopard que dans une vitrine de musée. »
+Les défenseurs du chat léopard disent souvent : « Si nous échouons, la génération suivante ne verra le chat léopard que dans des vitrines de musées. »
 
-Ce n'est pas de l'alarmisme. C'est de l'arithmétique. Moins de cinq cents individus. Une vingtaine de tués sur les routes chaque année. Un habitat fragmenté et grignoté. Un risque de consanguinité croissant.
+Ce n'est pas de l'alarmisme. C'est des mathématiques. Moins de 500 individus, une vingtaine de morts par collision chaque année, un habitat fragmenté et un risque croissant de consanguinité.
 
-Les Taïwanais aiment dire : « Qui prie, sera exaucé. » Mais le chat-léopard, lui, ne prie pas. Il continue de traverser, nuit après nuit, ces routes sans passage à faune — et s'en remet au hasard.
+Les Taïwanais aiment dire « on prie et on est protégé ». Mais le chat léopard ne prie pas. Il continuera simplement à traverser la nuit ces routes sans passages pour animaux, en comptant sur sa chance.
 
 ---
 
 ## Références
 
+[^1]: [Règlement local sur la conservation du chat léopard de Miaoli - Centre d'information environnementale](https://e-info.org.tw/node/221882) — Confirmation de l'adoption du règlement par le conseil provincial de Miaoli le 10 décembre 2019.
+
+[^2]: [WoWo : Pachi ! Et puis je suis devenu du bœuf séché — Dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières pour le chat léopard entre 2017 et 2023.
+
+[^3]: [Programme de compensation écologique pour le chat léopard du ministère de l'Agriculture](https://www.moa.gov.tw/) — Explication du programme de subvention pour les pratiques agricoles respectueuses du chat léopard.
+
+[^4]: [Laboratoire de biodiversité du ministère de l'Agriculture](https://www.tbri.gov.tw/) — Programme de reproduction artificielle et recherches sur la conservation du chat léopard.
+
+[^5]: [WoWo : Avant l'extinction — Dossier spécial sur le chat léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Rapport complet sur l'état de la conservation du chat léopard à Taïwan.
+
 Lectures complémentaires :
 
-- [Wowa : La menace sous-estimée. Chiens tuant des léopards](https://wuo-wuo.com/topics/widlife/dogkill) — Dossier de cas sur les chiens tueurs de léopards.
-- [Agence forestière et de conservation de la nature du ministère de l'Agriculture](https://www.forest.gov.tw/) — Politique de conservation des habitats des léopards.
-- [Ambassadeur pour la conservation du léopard – Famille Ahu](https://www.facebook.com/LeopardCatTaiwan/) — État actuel de l'élevage en captivité des léopards par le BioCenter.
-
-[^1]: [Ordonnance locale sur la conservation des léopards de Miaoli - Centre d'information environnementale](https://e-info.org.tw/node/221882) — Confirmation du passage en troisième lecture de l'ordonnance locale sur la conservation des léopards du comté de Miaoli le 10 décembre 2019.
-
-[^2]: [Wowa : Crac ! Et puis je deviens une viande séchée – Dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières impliquant des léopards de 2017 à 2023.
-
-[^3]: [Programme d'indemnisation écologique pour le léopard du ministère de l'Agriculture](https://www.moa.gov.tw/) — Explication du programme d'agriculture amicale au léopard.
-
-[^4]: [Institut de la biodiversité du ministère de l'Agriculture (BioCenter)](https://www.tbri.gov.tw/) — Projet d'élevage en captivité et recherche sur la conservation des léopards.
-
-[^5]: [Wowa : Avant l'extinction – Dossier sur les léopards de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Rapport complet sur la situation de la conservation des léopards à Taïwan.
+- [WoWo : Une menace sous-estimée • Prédation canine](https://wuo-wuo.com/topics/widlife/dogkill) — Registre des cas de prédation par les chiens.
+- [Administration des forêts et de la conservation de la nature du ministère de l'Agriculture](https://www.forest.gov.tw/) — Politiques de conservation de l'habitat du chat léopard.
+- [Ambassadeurs de la conservation du chat léopard — La famille A-hu](https://www.facebook.com/LeopardCatTaiwan/) — Actualités sur la reproduction artificielle au Laboratoire de biodiversité.
