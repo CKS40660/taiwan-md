@@ -1,6 +1,6 @@
 ---
 title: 'Agrartechnologie und Präzisionslandwirtschaft'
-description: 'Wie Taiwan von der traditionellen Landwirtschaft zur hochtechnologischen Präzisionslandwirtschaft transformiert wurde und ein landwirtschaftliches Wunder geschaffen hat'
+description: 'Mit weniger als 10.000 Quadratkilometern Land betreibt Taiwan seit Isomura Eikichi, dem Vater des Ponlai-Reises, langfristige Züchtungsarbeit und hat Präzisionslandwirtschaftsprodukte wie Orchideen, Atemoya und Hochlandtee entwickelt, die auf internationalen Märkten eine Schlüsselposition einnehmen. Landwirtschaft und Agrarwertschöpfungsketten sichern zudem umfangreiche Beschäftigung. Heute verbindet man neue Technologien wie das Internet der Dinge mit dem Übergang zur intelligenten Landwirtschaft, wobei Präzision extensive Methoden und Technologie manuelle Arbeit ersetzt und damit die einzigartige Position kleiner Staaten im globalen Agrarwettbewerb bestätigt.'
 date: 2026-03-18
 category: 'Economy'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Präzisionslandwirtschaft',
     'Agrartechnologie',
     'Orchideen',
-    'Ananaspapaya',
+    'Atemoya',
     'Smart Farming',
   ]
 subcategory: '農業經濟'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: '83cd5d0f3'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:5226e0cd696e818f'
 sourceBodyHash: 'sha256:3697d708565efd02'
-translatedAt: '2026-09-23T22:12:06+08:00'
+translatedAt: '2026-10-15T19:53:51.069644+00:00'
 ---
 
 # Agrartechnologie und Präzisionslandwirtschaft

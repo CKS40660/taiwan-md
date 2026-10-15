@@ -1,13 +1,13 @@
 ---
-title: 'Geschichte des taiwanesischen Seehandels'
-description: 'Taiwan im Zeitalter der grossen Entdeckungen: Vom internationalen Handelszentrum zum Piratenkönigreich – Aufstieg und Fall einer Legende'
+title: 'Die Geschichte des taiwanischen Seehandels'
+description: 'Während des Zeitalters der Entdeckungen im 16. und 17. Jahrhundert war diese Insel kein abgelegener Außenposten Ostasiens, sondern ein bedeutender Handelsdrehpunkt zwischen China, Japan und Südostasien: Die Niederländische Ostindien-Kompanie errichtete Fort Zeelandia in Tainan; hier wurden Seide, Porzellan und Tee aus China sowie Silberbarren aus Japan importiert und Gewürze sowie Hölzer aus Südostasien umgeschlagen, was die Insel zum „Amsterdam Ostasiens“ machte. Die Dynastie der Zheng-Familie errichtete zudem eine maritime Vorherrschaft und schrieb eine Geschichte des Aufstiegs und Falls von einem Handelszentrum zu einem Piratenreich.'
 date: 2026-03-20
 category: 'History'
 tags:
   [
     'Seehandel',
-    'Zeitalter der grossen Entdeckungen',
-    'internationaler Handel',
+    'Zeitalter der Entdeckungen',
+    'Internationaler Handel',
     'Piraten',
     'Hafenstädte',
   ]
@@ -20,10 +20,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-09-19T01:37:32+08:00'
+translatedAt: '2026-10-15T18:45:52.166786+00:00'
 ---
 
 # Geschichte des taiwanesischen Seehandels

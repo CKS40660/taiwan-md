@@ -1,6 +1,6 @@
 ---
-title: 'Architektur in Taiwan: Eine dreidimensionale Poesie des kulturellen Zusammenflusses'
-description: 'Von den Schieferhäusern bis zum Wolkenkratzer: Eine Reise durch die architektonische Geschichte einer Insel'
+title: 'Taiwanische Architektur'
+description: 'Von den Schieferhäusern der Paiwan bis hin zu den Backsteingebäuden von Matsunosuke Moriyama, von den Linien Wang Da-hong, die das Fundament für die moderne Architektur legten, bis hin zu den grenzenlosen öffentlichen Gebäuden von Huang Sheng-yuan inmitten der Reisfelder von Yilan. In den letzten vierhundert Jahren prallte die Baukunst der indigenen Völker, der Niederländer, Japaner und Han-Chinesen auf dieser Insel aufeinander – eine hybride Identität, die die Biennale der Architektur in Venedig einst als „das Festhalten an der Lokalität inmitten der Globalisierung“ beschrieb.'
 date: 2026-03-28
 category: 'Art'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Architektur',
     'Kultur',
     'Geschichte',
-    'indigene Völker',
-    'japanische Kolonialzeit',
+    'Indigene Völker',
+    'Japanische Kolonialzeit',
   ]
 subcategory: '建築'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-09-22T17:40:47+08:00'
+translatedAt: '2026-10-15T19:17:29.655328+00:00'
 ---
 
 # Architektur in Taiwan: Die dreidimensionale Poesie des kulturellen Zusammenflusses
