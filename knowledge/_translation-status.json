@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T17:21:30+08:00",
-    "zhCommitHead": "50cf048ff",
+    "lastUpdated": "2026-10-15T17:25:06+08:00",
+    "zhCommitHead": "e7d1bf4c8",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1135,
-        "fresh": 1085,
+        "fresh": 1086,
         "stale": 1,
-        "metadata_stale": 47,
+        "metadata_stale": 46,
         "missing": 2,
         "orphan": 0
       },
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1135,
-        "fresh": 1086,
+        "fresh": 1087,
         "stale": 1,
-        "metadata_stale": 46,
+        "metadata_stale": 45,
         "missing": 2,
         "orphan": 0
       },
@@ -6700,8 +6700,8 @@
           "sourceContentHash": "sha256:e4fcea6f40bc1371",
           "sourceBodyHash": "sha256:f8c06621cad90a0b",
           "translatedAt": "2026-10-15T15:59:48+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "e7d1bf4c",
+          "translationLastModified": "2026-10-15T17:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 29987,
@@ -15276,8 +15276,8 @@
           "sourceContentHash": "sha256:bc61864ded99ef44",
           "sourceBodyHash": "sha256:dec8acb87bfd42a2",
           "translatedAt": "2026-10-15T12:42:49+08:00",
-          "translationLastCommit": "f129c1fa",
-          "translationLastModified": "2026-05-15T16:40:46+08:00",
+          "translationLastCommit": "e7d1bf4c",
+          "translationLastModified": "2026-10-15T17:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 12662,
@@ -47270,11 +47270,11 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-10-15T15:59:48+08:00",
-          "translationLastCommit": "5a93f42a",
-          "translationLastModified": "2026-09-20T05:53:36+08:00",
+          "translationLastCommit": "e7d1bf4c",
+          "translationLastModified": "2026-10-15T17:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 36601,
+          "bytes": 36603,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -220370,20 +220370,18 @@
         "ko": {
           "path": "ko/Culture/taiwan-cultural-creative-park-development.md",
           "translatedFrom": "Culture/台灣文化創意園區發展.md",
-          "sourceCommitSha": "f712b7242",
+          "sourceCommitSha": "22bfcbc53",
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "translatedAt": "2026-10-15T15:59:45+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 23659,
+          "bytes": 22987,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-cultural-creative-park-development.md",
@@ -220404,20 +220402,18 @@
         "fr": {
           "path": "fr/Culture/taiwan-cultural-creative-park-development.md",
           "translatedFrom": "Culture/台灣文化創意園區發展.md",
-          "sourceCommitSha": "f712b7242",
+          "sourceCommitSha": "22bfcbc53",
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "translatedAt": "2026-10-15T15:59:48+08:00",
           "translationLastCommit": "06ed4c82",
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 30914,
+          "bytes": 29802,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-cultural-creative-park-development.md",
