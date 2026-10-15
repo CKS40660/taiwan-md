@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T21:54:45+08:00",
-    "zhCommitHead": "fd25348a1",
+    "lastUpdated": "2026-10-15T22:22:07+08:00",
+    "zhCommitHead": "838b258fd",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,13 +20,21 @@
     "summary": {
       "en": {
         "total_zh": 1135,
+        "fresh": 1099,
+        "stale": 1,
+        "metadata_stale": 33,
+        "missing": 2,
+        "orphan": 0
+      },
+      "ja": {
+        "total_zh": 1135,
         "fresh": 1097,
         "stale": 1,
         "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       },
-      "ja": {
+      "ko": {
         "total_zh": 1135,
         "fresh": 1096,
         "stale": 1,
@@ -34,35 +42,27 @@
         "missing": 2,
         "orphan": 0
       },
-      "ko": {
-        "total_zh": 1135,
-        "fresh": 1095,
-        "stale": 1,
-        "metadata_stale": 37,
-        "missing": 2,
-        "orphan": 0
-      },
       "es": {
         "total_zh": 1135,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 2,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1135,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 1,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 2,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1135,
-        "fresh": 1090,
+        "fresh": 1091,
         "stale": 5,
-        "metadata_stale": 38,
+        "metadata_stale": 37,
         "missing": 2,
         "orphan": 0
       },
@@ -76,17 +76,17 @@
       },
       "pt": {
         "total_zh": 1135,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 0,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 2,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1085,
+        "fresh": 1086,
         "stale": 6,
-        "metadata_stale": 42,
+        "metadata_stale": 41,
         "missing": 2,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1094,
+        "fresh": 1095,
         "stale": 3,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1091,
+        "fresh": 1093,
         "stale": 4,
-        "metadata_stale": 38,
+        "metadata_stale": 36,
         "missing": 2,
         "orphan": 0
       }
@@ -10218,20 +10218,18 @@
         "hi": {
           "path": "hi/Economy/advantech-technology.md",
           "translatedFrom": "Economy/台灣企業：研華科技.md",
-          "sourceCommitSha": "7255b3ab1",
+          "sourceCommitSha": "890c5095e",
           "sourceContentHash": "sha256:8cc6a4958817d23a",
           "sourceBodyHash": "sha256:b2944607fccb365d",
-          "translatedAt": "2026-09-23T02:52:16.540952+00:00",
+          "translatedAt": "2026-10-15T20:18:03+08:00",
           "translationLastCommit": "2d702aeb",
           "translationLastModified": "2026-09-23T12:20:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 30533,
+          "bytes": 32213,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/advantech-technology.md",
@@ -10272,20 +10270,18 @@
         "de": {
           "path": "de/Economy/advantech-technology.md",
           "translatedFrom": "Economy/台灣企業：研華科技.md",
-          "sourceCommitSha": "7255b3ab1",
+          "sourceCommitSha": "890c5095e",
           "sourceContentHash": "sha256:8cc6a4958817d23a",
           "sourceBodyHash": "sha256:b2944607fccb365d",
-          "translatedAt": "2026-09-23T02:55:42.527673+00:00",
+          "translatedAt": "2026-10-15T20:18:07+08:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13954,
+          "bytes": 14441,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19548,20 +19544,18 @@
         "en": {
           "path": "en/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:23+08:00",
+          "translatedAt": "2026-10-15T20:17:52+08:00",
           "translationLastCommit": "c0e73f55",
           "translationLastModified": "2026-10-10T23:13:40+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 18886,
+          "bytes": 19307,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -19582,20 +19576,18 @@
         "ko": {
           "path": "ko/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:26+08:00",
+          "translatedAt": "2026-10-15T20:17:55+08:00",
           "translationLastCommit": "3b9a4c39",
           "translationLastModified": "2026-09-21T06:55:16+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 15082,
+          "bytes": 17645,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -19672,20 +19664,18 @@
         "pt": {
           "path": "pt/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:33+08:00",
+          "translatedAt": "2026-10-15T20:18:02+08:00",
           "translationLastCommit": "5f3151f4",
           "translationLastModified": "2026-09-21T07:14:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 21211,
+          "bytes": 20843,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -33960,38 +33950,34 @@
         "en": {
           "path": "en/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "3e08bf82b",
+          "sourceCommitSha": "a520d024d",
           "sourceContentHash": "sha256:ef6914cecff85dfb",
           "sourceBodyHash": "sha256:6cc55941dd179c34",
-          "translatedAt": "2026-10-03T02:34:18+08:00",
+          "translatedAt": "2026-10-15T20:17:52+08:00",
           "translationLastCommit": "64421bab",
           "translationLastModified": "2026-10-03T03:59:21+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16969,
+          "bytes": 16461,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "3e08bf82b",
+          "sourceCommitSha": "a520d024d",
           "sourceContentHash": "sha256:ef6914cecff85dfb",
           "sourceBodyHash": "sha256:6cc55941dd179c34",
-          "translatedAt": "2026-10-03T02:34:18+08:00",
+          "translatedAt": "2026-10-15T20:17:53+08:00",
           "translationLastCommit": "004b98ac",
           "translationLastModified": "2026-10-10T23:46:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17724,
+          "bytes": 18758,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-software-industry-development.md",
@@ -53466,8 +53452,8 @@
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "6ed66931",
-          "translationLastModified": "2026-09-28T02:57:40+08:00",
+          "translationLastCommit": "838b258f",
+          "translationLastModified": "2026-10-15T21:54:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 19319,
@@ -71492,8 +71478,8 @@
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "a895005d",
-          "translationLastModified": "2026-09-27T21:44:50+08:00",
+          "translationLastCommit": "838b258f",
+          "translationLastModified": "2026-10-15T21:54:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 16749,
@@ -71536,38 +71522,34 @@
         "es": {
           "path": "es/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-10-15T20:17:56+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18661,
+          "bytes": 19683,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-04-14T12:32:34+08:00",
+          "translatedAt": "2026-10-15T20:17:58+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19988,
+          "bytes": 19373,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/long-term-care-system-development.md",
@@ -71658,20 +71640,18 @@
         "ru": {
           "path": "ru/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translatedAt": "2026-10-15T20:18:06+08:00",
           "translationLastCommit": "a7bdcea4",
           "translationLastModified": "2026-07-25T23:36:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 29709,
+          "bytes": 31994,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/long-term-care-system-development.md",
@@ -83272,20 +83252,18 @@
         "de": {
           "path": "de/About/seeing-taiwan-quotes.md",
           "translatedFrom": "About/看見台灣引言集.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "890c5095e",
           "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
           "sourceBodyHash": "sha256:0d8842cfba541dc2",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translatedAt": "2026-10-15T20:18:07+08:00",
           "translationLastCommit": "7d1870fb",
           "translationLastModified": "2026-09-11T23:39:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13333,
+          "bytes": 14411,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153600,20 +153578,18 @@
         "vi": {
           "path": "vi/People/jam-hsiao.md",
           "translatedFrom": "People/蕭敬騰.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "0fdd33305",
           "sourceContentHash": "sha256:fb71e3bcf0475f2e",
           "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
-          "translatedAt": "2026-07-25T05:00:07+08:00",
+          "translatedAt": "2026-10-15T20:17:59+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 15904,
+          "bytes": 18482,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jam-hsiao.md",
@@ -154746,8 +154722,8 @@
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "sha256:31e72a4ea39ea451",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "838b258f",
+          "translationLastModified": "2026-10-15T21:54:46+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 18799,
@@ -222174,8 +222150,8 @@
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "838b258f",
+          "translationLastModified": "2026-10-15T21:54:46+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 18799,
