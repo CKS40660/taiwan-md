@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T18:36:17+08:00",
-    "zhCommitHead": "922169842",
+    "lastUpdated": "2026-10-15T18:53:57+08:00",
+    "zhCommitHead": "0bd83ce5e",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1135,
-        "fresh": 1089,
+        "fresh": 1090,
         "stale": 1,
-        "metadata_stale": 43,
+        "metadata_stale": 42,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1135,
-        "fresh": 1089,
+        "fresh": 1090,
         "stale": 1,
-        "metadata_stale": 43,
+        "metadata_stale": 42,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1135,
-        "fresh": 1088,
+        "fresh": 1089,
         "stale": 1,
-        "metadata_stale": 44,
+        "metadata_stale": 43,
         "missing": 2,
         "orphan": 0
       },
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1078,
+        "fresh": 1079,
         "stale": 6,
-        "metadata_stale": 49,
+        "metadata_stale": 48,
         "missing": 2,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1085,
+        "fresh": 1086,
         "stale": 3,
-        "metadata_stale": 45,
+        "metadata_stale": 44,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 4,
-        "metadata_stale": 45,
+        "metadata_stale": 44,
         "missing": 2,
         "orphan": 0
       }
@@ -6750,8 +6750,8 @@
           "sourceContentHash": "sha256:e4fcea6f40bc1371",
           "sourceBodyHash": "sha256:f8c06621cad90a0b",
           "translatedAt": "2026-10-15T15:59:52+08:00",
-          "translationLastCommit": "2a13170e",
-          "translationLastModified": "2026-10-10T23:18:58+08:00",
+          "translationLastCommit": "0bd83ce5",
+          "translationLastModified": "2026-10-15T18:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 26905,
@@ -19756,20 +19756,18 @@
         "de": {
           "path": "de/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translatedAt": "2026-10-15T15:59:57+08:00",
           "translationLastCommit": "63a89796",
           "translationLastModified": "2026-09-21T07:35:37+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 18658,
+          "bytes": 20335,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -20936,20 +20934,18 @@
         "hi": {
           "path": "hi/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "83cd5d0f3",
+          "sourceCommitSha": "bfe3c4861",
           "sourceContentHash": "sha256:5226e0cd696e818f",
           "sourceBodyHash": "sha256:3697d708565efd02",
-          "translatedAt": "2026-09-21T00:58:34+08:00",
+          "translatedAt": "2026-10-15T15:59:53+08:00",
           "translationLastCommit": "901732db",
           "translationLastModified": "2026-09-21T07:07:11+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 41228,
+          "bytes": 46326,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -83400,56 +83396,50 @@
         "en": {
           "path": "en/Nature/taiwan-forest-ecosystems.md",
           "translatedFrom": "Nature/台灣森林生態系.md",
-          "sourceCommitSha": "a3973681e",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
-          "translatedAt": "2026-07-24T14:22:03+08:00",
+          "translatedAt": "2026-10-15T15:59:43+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20184,
+          "bytes": 20919,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/taiwan-forest-ecosystems.md",
           "translatedFrom": "Nature/台灣森林生態系.md",
-          "sourceCommitSha": "a3973681e",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
-          "translatedAt": "2026-07-25T12:45:15+08:00",
+          "translatedAt": "2026-10-15T15:59:44+08:00",
           "translationLastCommit": "74a25102",
           "translationLastModified": "2026-07-25T19:42:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 23460,
+          "bytes": 24188,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/taiwan-forest-ecosystems.md",
           "translatedFrom": "Nature/台灣森林生態系.md",
-          "sourceCommitSha": "a3973681e",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
-          "translatedAt": "2026-07-26T22:27:48+08:00",
+          "translatedAt": "2026-10-15T15:59:45+08:00",
           "translationLastCommit": "3bd0c1c8",
           "translationLastModified": "2026-07-27T01:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 22512,
+          "bytes": 22474,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwan-forest-ecosystems.md",
@@ -83570,20 +83560,18 @@
         "ru": {
           "path": "ru/Nature/taiwan-forest-ecosystems.md",
           "translatedFrom": "Nature/台灣森林生態系.md",
-          "sourceCommitSha": "a3973681e",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
-          "translatedAt": "2026-07-27T01:41:55+08:00",
+          "translatedAt": "2026-10-15T15:59:55+08:00",
           "translationLastCommit": "c6217dfd",
           "translationLastModified": "2026-07-27T03:22:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 33162,
+          "bytes": 35289,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/taiwan-forest-ecosystems.md",
@@ -198164,8 +198152,8 @@
           "sourceContentHash": "sha256:58cfc27dba0ac67b",
           "sourceBodyHash": "sha256:4e6245b3f0401bec",
           "translatedAt": "2026-10-15T15:59:52+08:00",
-          "translationLastCommit": "2ab76d37",
-          "translationLastModified": "2026-10-10T23:42:20+08:00",
+          "translationLastCommit": "0bd83ce5",
+          "translationLastModified": "2026-10-15T18:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 24160,
@@ -220416,8 +220404,8 @@
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
           "translatedAt": "2026-10-15T15:59:52+08:00",
-          "translationLastCommit": "afe0630d",
-          "translationLastModified": "2026-07-26T13:07:31+08:00",
+          "translationLastCommit": "0bd83ce5",
+          "translationLastModified": "2026-10-15T18:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 28765,
