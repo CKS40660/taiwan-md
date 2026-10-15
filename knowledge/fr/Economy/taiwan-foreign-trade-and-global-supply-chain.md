@@ -1,16 +1,16 @@
 ---
 title: "Le commerce extérieur de Taïwan et la chaîne d'approvisionnement mondiale"
-description: "De l'économie orientée vers l'exportation au nœud clé de la chaîne d'approvisionnement : comment Taïwan maintient son avantage commercial face à la confrontation sino-américaine"
+description: "Des vêtements et jouets des années 1960 aux puces semi-conductrices d'aujourd'hui, les conteneurs du port de Taipei chargent et déchargent jour et nuit le miracle économique de Taïwan ; cette île se classe parmi les premières économies exportatrices mondiales, détient une position clé dans les semi-conducteurs et les produits TIC, avec des exportations vers les États-Unis dépassant pour la première fois 100 milliards USD et une part élevée vers la Chine, soulignant sa position délicate dans le triangle sino-américain."
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
     'commerce extérieur',
     "chaîne d'approvisionnement mondiale",
-    "économie orientée vers l'exportation",
+    "économie tournée vers l'exportation",
     'guerre commerciale sino-américaine',
     'ECFA',
-    'accord commercial international',
+    'accords commerciaux internationaux',
     'semi-conducteurs',
   ]
 subcategory: '經濟發展'
@@ -19,280 +19,274 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '2e88c5e31'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:df07b8f5f0dd46a8'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-09-20T00:52:39+08:00'
+translatedAt: '2026-10-15T12:42:49+08:00'
 ---
 
 # Le commerce extérieur de Taïwan et la chaîne d'approvisionnement mondiale
 
-Les conteneurs du port de Taipei déchargent quotidiennement des milliers de conteneurs standard destinés au monde entier. Ces boîtes apparemment banales contiennent le secret du miracle économique taïwanais : des jouets en prêt-à-porter dans les années 1960 aux puces semi-conductrices d'aujourd'hui, Taïwan occupe une position clé sur la scène internationale grâce à son commerce extérieur. Bien que sa superficie ne soit que de 36 000 kilomètres carrés, selon la valeur des exportations en 2023, Taïwan se classe 16e économie exportatrice mondiale[^2], et détient une position irremplaçable dans des domaines clés tels que les semi-conducteurs et les produits TIC.
+Les terminaux à conteneurs du port de Taipei voient chaque jour des milliers de conteneurs standard y être chargés et déchargés, à destination du monde entier. Dans ces boîtes en acier en apparence banales se cache le secret du miracle économique de Taïwan — des vêtements et jouets des années 1960 aux puces semi-conductrices d'aujourd'hui, Taïwan a conquis une position clé sur la scène internationale grâce au commerce d'exportation. Même avec une superficie de seulement 36 000 km², Taïwan se classe au 16ᵉ rang mondial des économies exportatrices selon les valeurs d'exportation 2023[^2], et détient une position irremplaçable dans des domaines critiques comme les semi-conducteurs et les produits des technologies de l'information et de la communication (TIC).
 
-> Le volume total du commerce extérieur de Taïwan en 2024 a atteint 869,4 milliards de dollars (exportations à hauteur de 475 milliards de dollars, importations à hauteur de 394,4 milliards de dollars, un niveau record pour l'année) [^1], le volume total d'importation et d'exportation étant comparable au PIB, ce qui est typique d'une économie orientée vers le commerce. Les exportations vers la Chine (y compris Hong Kong) représentaient 31,7 % du total des exportations, tandis que celles vers les États-Unis représentaient 23,5 %, dépassant pour la première fois les 100 milliards de dollars [^1], ce qui met en lumière la position délicate de Taïwan dans la relation triangulaire sino-américaine.
+> Le commerce extérieur total de Taïwan a atteint 869,4 milliards USD en 2024 (exportations 475,0 milliards USD, importations 394,4 milliards USD, tous deux records historiques)[^1], le total des échanges équivalant approximativement à la taille du PIB, ce qui en fait une économie typiquement tournée vers le commerce. Parmi ceux-ci, les exportations vers la Chine (y compris Hong Kong) représentent 31,7 % du total des exportations, celles vers les États-Unis 23,5 % et franchissent pour la première fois le seuil des 100 milliards USD[^1], soulignant la position délicate de Taïwan dans le triangle sino-américain.
 
-## Pourquoi est-ce important ?
+## Pourquoi cela importe
 
-Le commerce extérieur est une stratégie de survie pour Taïwan. Sur cette île dépourvue de ressources naturelles, Taïwan doit obtenir des biens essentiels et de l'énergie par le biais du commerce, tout en créant de la richesse grâce à des produits à forte intensité technologique. Lorsque les chaînes d'approvisionnement mondiales se réorganisent en raison de la géopolitique, la position stratégique de Taïwan devient de plus en plus claire : elle est à la fois un avant-poste technologique dans l'encerclement chinois par les États-Unis et un fournisseur technologique indispensable pour la Chine. Maintenir cet équilibre au sein de cette relation triangulaire est vital pour la subsistance des 23 millions d'habitants.
+Le commerce extérieur de Taïwan est une stratégie de survie. Sur cette île dépourvue de ressources naturelles, Taïwan doit passer par le commerce pour obtenir biens de première nécessité et énergie, tout en exportant des produits à forte intensité technologique pour créer de la richesse. Lorsque la chaîne d'approvisionnement mondiale se restructure sous l'effet de la géopolitique, la position stratégique de Taïwan devient plus évidente — à la fois avant-poste technologique des États-Unis pour contenir la Chine et fournisseur technologique indispensable pour la Chine. La manière de maintenir l'équilibre dans cette relation triangulaire conditionne la subsistance de 23 millions de personnes.
 
-## La formation de l'économie orientée vers l'exportation
+## La formation de l'économie tournée vers l'exportation
 
-### 1960-1980 : Stratégie de substitution aux importations
+### 1960-1980 : Stratégie de substitution aux exportations
 
 **Les limites de la substitution aux importations :**
-Dans les années 1950, Taïwan a adopté une politique de substitution des importations pour protéger le développement industriel local. Cependant, le marché intérieur étant restreint, elle a rapidement rencontré des goulots d'étranglement dans son développement.
+Dans les années 1950, Taïwan applique une politique de substitution aux importations pour protéger le développement de l'industrie nationale. Mais le marché intérieur étroit se heurte rapidement à un plafond de développement.
 
-**La transition vers l'orientation exportatrice :**
-À partir des années 1960, l'industrialisation orientée vers l'exportation a été promue :
+**Transformation vers l'orientation exportatrice :**
+À partir des années 1960, promotion de l'industrialisation orientée vers l'exportation :
 
-Le gouvernement a établi des zones franches pour attirer les investissements étrangers et offrir des avantages fiscaux ainsi que une main-d'œuvre bon marché pour attirer les commandes. Simultanément, une agence de promotion commerciale (l'Association pour le développement du commerce extérieur de la République de Chine) a été créée, combinée à une stratégie de dévaluation monétaire pour améliorer la compétitivité des exportations.
+Le gouvernement crée des zones d'exportation et de transformation pour attirer les investissements étrangers, offrant avantages fiscaux et main-d'œuvre bon marché pour capter les commandes. Parallèlement, mise en place d'organismes de promotion commerciale (Association pour le développement du commerce extérieur de la République de Chine), couplée à une stratégie de dévaluation monétaire pour renforcer la compétitivité à l'exportation.
 
-**Les trois piliers d'exportation :**
+**Trois piliers de l'exportation :**
 
-1. **Textiles et prêt-à-porter :** Exploitation d'une main-d'œuvre abondante et d'une base technologique
-2. **Assemblage électronique :** Réception de commandes de sous-traitance pour les entreprises européennes et américaines
-3. **Jouets en plastique :** Produits à forte intensité de main-d'œuvre avec une faible barrière technologique
+1. **Textile et habillement :** Exploitation de la main-d'œuvre abondante et de la base technique
+2. **Assemblage électronique :** Sous-traitance pour les entreprises européennes et américaines
+3. **Jouets en plastique :** Produits à forte intensité de main-d'œuvre et faible barrière technologique
 
-**Croissance rapide du commerce :** En 1960, le montant des exportations était de seulement 164 millions de dollars, contre 1,99 milliard de dollars en 1980, soit une croissance de 121 fois en 20 ans ; la dépendance aux exportations est passée de 11 % à 52 % au cours de cette période, marquant l'achèvement de la transition vers l'orientation exportatrice par Taïwan.
+**Croissance rapide du commerce :** Les exportations passent de 1,64 milliard USD en 1960 à 19,9 milliards USD en 1980, soit une multiplication par 121 en 20 ans ; le taux de dépendance à l'exportation grimpe dans le même temps de 11 % à 52 %, marquant l'achèvement de la transformation vers l'orientation exportatrice.
 
-### 1980-2000 : Transition vers une industrie de plus haute valeur ajoutée
+### 1980-2000 : Transformation par la montée en gamme industrielle
 
-Face à la concurrence des pays à faible coût comme la Corée et l'Asie du Sud-Est, Taïwan a été contraint de passer à des industries à forte intensité technologique :
+Face à la concurrence à bas coûts de la Corée du Sud et de l'Asie du Sud-Est, Taïwan est contrainte de monter vers les industries à forte intensité technologique :
 
-**L'émergence de l'industrie technologique :**
-La création du Parc scientifique de Hsinchu en 1980 a attiré les semi-conducteurs et l'industrie informatique à Taïwan, formant un pôle de recherche et de fabrication, tout en développant des talents technologiques locaux et en établissant des effets d'agglomération industrielle complets.
+**Essor de l'industrie technologique :**
 
-**Le modèle de sous-traitance (ODM/OEM) :**
-Les entreprises taïwanaises ont développé un modèle unique ODM/OEM : l'OEM fournit uniquement des services de fabrication, tandis que l'ODM intègre la conception et la fabrication pour créer des produits sur mesure pour les marques internationales, formant un écosystème de sous-traitance "clé en main".
+La création du Parc scientifique de Hsinchu en 1980 ancre l'industrie des semi-conducteurs et de l'informatique à Taïwan, formant un cluster de R&D et de fabrication, tout en formant des talents technologiques locaux et en établissant un effet d'agglomération industrielle complet.
 
-**Changement de structure des exportations :** La part des textiles traditionnels et des jouets a diminué, remplacée par les produits électroniques informatiques comme principaux moteurs d'exportation, entraînant une augmentation significative de l'intensité technologique.
+**Modèle de sous-traitance :**
+Les entreprises taïwanaises développent un modèle ODM/OEM unique : l'OEM fournit des services de fabrication pure ; l'ODM intègre conception et fabrication, créant des produits sur mesure pour les marques internationales, formant un écosystème de sous-traitance intégré.
 
-### 2000 à aujourd'hui : Intégration dans la chaîne d'approvisionnement mondiale
+**Changement de structure exportatrice :** La part du textile et des jouets traditionnels recule, les produits électroniques et informatiques deviennent le fer de lance de l'exportation, l'intensité technologique augmentant significativement.
 
-**La vague d'investissements chinois :**
-Après 2000, les entreprises taïwanaises se sont massivement étendues vers le continent chinois, utilisant la main-d'œuvre et les terres bon marché de la Chine pour servir les marques européennes et américaines à proximité, créant un modèle emblématique de « commandes prises à Taïwan, production en Chine », ce qui a stimulé une croissance rapide du commerce inter-détroit.
+### 2000-présent : Intégration dans la chaîne d'approvisionnement mondiale
 
-**Le modèle commercial triangulaire :**
-Taïwan, la Chine et l'Europe/Amérique forment une relation commerciale triangulaire étroite :
+**Vague d'investissement en Chine :**
+Après 2000, les entrepreneurs taïwanais investissent massivement en Chine, exploitant la main-d'œuvre et le foncier à bas coûts pour servir au plus près les marques européennes et américaines, formant le modèle emblématique « Taïwan prend les commandes, Chine produit », qui propulse le commerce bilatéral.
 
-1. **Taïwan** : Recherche technologique, production de composants clés, plaque tournante commerciale
-2. **Chine** : Assemblage final, base de production à faible coût
-3. **Europe/Amérique** : Marketing de marque, consommation du marché final
+**Modèle commercial triangulaire :**
+Taïwan, Chine, Europe/États-Unis forment une relation triangulaire étroite :
+
+1. **Taïwan** : R&D technologique, production de composants critiques, hub commercial
+2. **Chine** : Assemblage final, base de production à bas coûts
+3. **Europe/États-Unis** : Marketing de marque, marché de consommation final
 
 ## Le rôle de Taïwan dans la chaîne d'approvisionnement mondiale
 
-### Le royaume des semi-conducteurs
+### Royaume des semi-conducteurs
 
-**L'effet TSMC :**
-TSMC est devenu le leader mondial de la fabrication de puces (foundry), avec une part de marché supérieure à 50 % :
+**Effet TSMC :**
+TSMC (Taiwan Semiconductor Manufacturing Company) est devenu le leader mondial de la fonderie de semi-conducteurs, avec une part de marché supérieure à 50 % :
 
-- Maîtrise des processus les plus avancés (3 nm, 2 nm)
-- Fournisseur principal de puces en processus avancé pour de grandes entreprises comme Apple, NVIDIA et AMD
-- Moteur du développement des chaînes d'approvisionnement amont et aval
+- Maîtrise des technologies de pointe (3 nm, 2 nm)
+- Principal fournisseur de puces à processus avancé pour Apple, NVIDIA, AMD et autres géants
+- Entraîne le développement de la chaîne d'approvisionnement amont et aval
 
-**L'écosystème complet des semi-conducteurs :**
-Du côté conception IC, on trouve des entreprises comme MediaTek (聯發科), Realtek (瑞昱) et Unispheric (聯詠). La fabrication de puces est dominée par TSMC, UMC (聯電) et Global Foundries (世界先進), tandis que le domaine du packaging et du test est géré par ASE (日月光), Cypress Semiconductor (矽品) et Lite-on (力成). Les fournisseurs d'équipement et de matériaux comme Wistron (漢民), MediaTek (中美晶) et GlobalWafers (環球晶圓) forment un soutien amont complet.
+**Écosystème complet des semi-conducteurs :**
+
+Côté conception de circuits intégrés, des sociétés comme MediaTek, Realtek, Novatek ; côté fonderie, TSMC, UMC, Vanguard ; côté assemblage et test, ASE, SPIL, Powertech ; côté équipements et matériaux, HannStar, EpiStar, GlobalWafers forment un soutien amont complet.
 
 **Importance stratégique :**
-Les semi-conducteurs sont la pierre angulaire de la technologie moderne ; Taïwan maîtrise au niveau mondial :
+Les semi-conducteurs sont la pierre angulaire de la technologie moderne, Taïwan contrôle au niveau mondial :
 
-- La fabrication de puces : avec TSMC en tête, on estime que la part de marché globale de Taïwan dépasse 70 % (pour TSMC seule, elle atteint 55-67 % en 2023-2024) [^3]
-- Plus de 90 % de la capacité de fabrication avancée
-- Plus de 50 % de la capacité de packaging et de test
+- Fonderie : avec TSMC en tête, la part globale de Taïwan est estimée à plus de 70 % (2023-2024, TSMC seule atteignant 55-67 %)[^3]
+- Capacité de processus avancé : plus de 90 %
+- Capacité d'assemblage et test : plus de 50 %
 
-### La chaîne d'approvisionnement des TIC
+### Chaîne de l'industrie TIC
 
-**Le royaume de la fabrication d'ordinateurs portables :**
-Les marques taïwanaises et les entreprises étrangères à l'étranger représentent collectivement environ 85-90 % de la sous-traitance mondiale d'ordinateurs portables (y compris les usines chinoises, données 2024), tandis que la proportion de production directe sur l'île a considérablement diminué [^4] :
+**Royaume de la fabrication de portables :**
+Les marques taïwanaises et les usines délocalisées des entrepreneurs taïwanais assurent ensemble environ 85-90 % de la sous-traitance mondiale d'ordinateurs portables (y compris usines taïwanaises en Chine continentale, données 2024), la part de production directe sur l'île de Taïwan ayant fortement baissé[^4] :
 
-- **Quanta Computer (廣達)** : principal fabricant pour MacBook d'Apple
-- **Inventec (仁寶)** : sous-traitant pour les ordinateurs portables Lenovo et Dell
-- **Pegatron (和碩)** : fabricant pour ASUS, Sony
+- **Quanta** : Principal sous-traitant des MacBook d'Apple
+- **Compal** : Sous-traitant des portables Lenovo, Dell
+- **Pegatron** : Fabrication des portables ASUS, Sony
 
-**Serveurs et équipements de cloud computing :**
+**Serveurs et équipements cloud :**
 
-- La majorité des serveurs mondiaux sont conçus et fabriqués par des entreprises taïwanaises.
-- Fournisseur principal pour les fournisseurs de services cloud (Google, Amazon, Facebook).
-- Fabricant clé d'équipements de base 5G.
+- La majorité des serveurs mondiaux sont conçus et sous-traités par des entreprises taïwanaises
+- Principaux fournisseurs des géants du cloud (Google, Amazon, Facebook)
+- Acteurs importants de l'infrastructure 5G
 
-**Composants clés :**
+**Composants critiques :**
 
-- **Composants passifs** : Kemet (國巨), Welwyn Semiconductor (華新科) (parmi les trois premiers en part de marché mondiale)
-- **Connecteurs** : Foxconn (鴻海), Zesway (正崴) (fournisseurs principaux d'Apple)
-- **Cartes imprimées** : Wistron (臻鼎), Unimed (欣興) (technologie avancée)
+- **Composants passifs** : Yageo, Walsin (top 3 mondial)
+- **Connecteurs** : Foxconn, Zhen Ding (principaux fournisseurs d'Apple)
+- **Circuits imprimés** : Tripod, Chin Poon (technologie de pointe)
 
-### Machines-outils de précision et outils industriels
+### Machines de précision et machines-outils
 
-En 2023, les exportations de machines-outils de Taïwan se sont élevées à 2,6 milliards de dollars, en baisse de 14 % par rapport à l'année précédente, classant le pays septième au niveau mondial, derrière l'Allemagne, la Chine, le Japon, l'Italie, la Corée du Sud et les États-Unis (il était cinquième en 2021) [^5]. La technologie des machines de précision reste compétitive :
+En 2023, les exportations taïwanaises de machines-outils s'élèvent à 2,6 milliards USD, en baisse de 14 % sur un an, le classement mondial reculant au 7ᵉ rang, derrière l'Allemagne, la Chine, le Japon, l'Italie, la Corée du Sud et les États-Unis (5ᵉ en 2021)[^5], la technologie de machines de précision restant compétitive :
 
-- **Équipements de précision pour téléphones mobiles** : utilisés par les chaînes d'approvisionnement de TSMC et Apple.
-- **Composants automobiles** : Wistron (和大工業), Dongyang Industrial (東陽工業).
-- **Chaîne d'approvisionnement des vélos** : Giant, Merida et leurs fournisseurs en amont et aval.
+- **Équipements d'usinage de précision pour téléphones** : Fournisseurs attitrés de la chaîne TSMC, Apple
+- **Pièces automobiles** : Hotai Motor, Tung Yang
+- **Chaîne de l'industrie du vélo** : Giant, Merida et fournisseurs amont/aval
 
-## Relations commerciales inter-détroit
+## Relations commerciales transdétroit
 
-### ECFA et commerce inter-détroit
+### ECFA et commerce transdétroit
 
 **Signature de l'ECFA en 2010 :**
-L'Accord de cadre pour la coopération économique inter-détroit (ECFA) a apporté des avantages substantiels :
+L'« Accord-cadre de coopération économique transdétroit » apporte des bénéfices concrets :
 
-Les premiers bénéfices de l'ECFA ont réduit plusieurs droits de douane, stimulant la croissance rapide des exportations de Taïwan vers le continent et ouvrant les marchés des services, tout en établissant un cadre de garantie d'investissement.
+La liste des récoltes anticipées de l'ECFA réduit les droits de douane sur de nombreux produits, stimulant la croissance rapide des exportations taïwanaises vers le continent, et ouvre le marché des services, tout en établissant un cadre d'accord de protection des investissements.
 
 **Données commerciales :**
 
-- Le volume du commerce inter-détroit en 2023 (selon différentes méthodes statistiques : la statistique commerciale directe du Ministère des Finances est d'environ 223,9 milliards de dollars ; une estimation incluant le commerce indirect donne un chiffre plus élevé, avec 284,7 milliards de dollars cité par une autre source) [^7].
-- La Chine est le principal partenaire commercial de Taïwan.
-- Le surplus commercial de Taïwan avec le continent s'élève à environ 80 milliards de dollars.
-- Les principaux produits d'exportation sont les semi-conducteurs, les panneaux et les équipements mécaniques.
+- Commerce transdétroit 2023 (chiffres variables selon méthodologies : statistiques directes de l'Administration des douanes du Ministère des finances ~223,9 milliards USD ; estimation incluant le commerce indirect plus élevée, 284,7 milliards USD selon une autre source citée)[^7]
+- La Chine est le premier partenaire commercial de Taïwan
+- Excédent commercial de Taïwan vers le continent ~80 milliards USD
+- Principaux produits exportés : semi-conducteurs, panneaux, équipements mécaniques
 
-### Investissements et transfert industriel
+### Investissements et transferts industriels
 
-**L'histoire de l'expansion des entreprises taïwanaises vers le continent :**
+**Historique de l'expansion vers l'ouest des entrepreneurs taïwanais :**
 
-1. **Années 1990 :** Transfert des industries manufacturières traditionnelles (textiles, chaussures).
-2. **Années 2000 :** Expansion massive du secteur électronique et informatique vers le continent.
-3. **Années 2010 :** Début de l'implantation des services sur le marché chinois.
+1. **Années 1990 :** Transfert des industries traditionnelles (textile, chaussure)
+2. **Années 2000 :** Expansion massive de l'électronique et de l'informatique
+3. **Années 2010 :** Début de l'implantation des services sur le marché chinois
 
-**Le modèle de division du travail industriel :** Taïwan est responsable de la R&D, de la conception, des composants clés et de la gestion de la marque ; la Chine prend en charge l'assemblage, le marché intérieur et l'intégration de la chaîne d'approvisionnement, créant une structure de spécialisation verticale hautement dépendante.
+**Modèle de division du travail industriel :** Taïwan assure R&D conception, composants critiques et gestion de marque ; Chine prend en charge fabrication-assemblage, marché intérieur et intégration de la chaîne d'approvisionnement, formant une structure de division verticale hautement interdépendante.
 
-**Risques et défis :** Le prix de ce modèle est une surdépendance à un seul marché, accompagnée de menaces de fuite technologique et d'un risque géopolitique croissant.
+**Risques et défis :** Le prix de ce modèle est une dépendance excessive à un marché unique, accompagnée de menaces de fuite technologique et de risques géopolitiques croissants.
 
-## L'impact de la guerre commerciale sino-américaine
+## Impact de la guerre commerciale sino-américaine
 
-### Les chocs de la guerre technologique
+### Choc de la guerre technologique
 
-**L'effet du bannissement Huawei :**
-Les sanctions américaines contre des entreprises chinoises comme Huawei ont affecté les fournisseurs taïwanais :
+**Effet de l'interdiction sur Huawei :**
+Les sanctions américaines contre Huawei et d'autres entreprises chinoises affectent les fournisseurs taïwanais :
 
-- TSMC a cessé de sous-traiter pour Huawei.
-- MediaTek et United Microvision (大立光) ont perdu des clients importants.
-- Le dilemme d'être forcé de choisir un camp.
+- TSMC cesse la fonderie pour Huawei
+- MediaTek, Largan perdent un client majeur
+- Dilemme forcé de choisir son camp
 
-**La compétition stratégique dans les semi-conducteurs :**
-Les subventions du _Chip Act_ américain incitent TSMC à établir des usines aux États-Unis, tandis que la Chine augmente simultanément ses investissements en R&D de semi-conducteurs de manière autonome. Taïwan est confronté au risque de fuite technologique sous la tension entre ces deux puissances.
+**Concurrence stratégique sur les semi-conducteurs :** Le _CHIPS Act_ américain subventionne l'implantation de TSMC aux États-Unis ; la Chine augmente simultanément ses investissements en R&D autonome sur les semi-conducteurs ; Taïwan se trouve entre les deux puissances face au risque de fuite technologique.
 
-### Les opportunités de réorganisation de la chaîne d'approvisionnement
+### Opportunités de restructuration de la chaîne d'approvisionnement
 
-**L'effet de déviation des commandes :**
-La guerre commerciale sino-américaine a créé des opportunités de déviation de commandes : les entreprises américaines réduisant leurs achats en Chine, Taïwan a repris une partie des commandes, ce qui a le plus bénéficié aux secteurs des équipements mécaniques et des produits électroniques.
+**Effet de report de commandes :**
+La guerre commerciale apporte des opportunités de report : les entreprises américaines réduisent leurs achats en Chine, Taïwan capte une partie des commandes déplacées, les secteurs des équipements mécaniques et des produits électroniques en bénéficiant le plus nettement.
 
-**La politique du "Nouvel Sud" (New Southbound) :**
-Le gouvernement promeut la politique du Nouvel Sud, visant à établir des implantations d'investissement dans les dix pays de l'ASEAN, les six pays d'Asie du Sud et en Nouvelle-Zélande/Australie, tout en promouvant les échanges de talents, la coopération technologique et le financement des infrastructures pour réduire la dépendance vis-à-vis de la Chine.
+**Politique du Nouveau Sud :**
+Le gouvernement promeut la politique du Nouveau Sud, visant à établir une implantation d'investissement dans les 10 pays de l'ASEAN, 6 pays d'Asie du Sud ainsi que la Nouvelle-Zélande et l'Australie, tout en développant échanges de talents, coopération technique, infrastructures et coopération financière, pour réduire la dépendance à la Chine.
 
-**La tendance du _Nearshoring_ (relocalisation proche) :**
-Sous la pression de la résilience de la chaîne d'approvisionnement, les entreprises multinationales dispersent leur implantation géographique. Taïwan est devenu un point d'atterrissage privilégié lorsque les entreprises transfèrent leur capacité, grâce à son système de gouvernance démocratique et sa fiabilité technologique.
+**Tendance au _nearshoring_ :** Sous la pression de résilience de la chaîne d'approvisionnement, les multinationales diversifient leur implantation géographique ; Taïwan, grâce à son régime démocratique et sa fiabilité technologique, devient une destination prioritaire pour le transfert de capacités.
 
 ## Participation aux accords commerciaux internationaux
 
-### Les défis de l'aménagement des FTAs
+### Défis de la stratégie d'accords de libre-échange
 
-**Les contraintes politiques :**
+**Contraintes politiques :**
 En raison de la politique d'une seule Chine, Taïwan rencontre des difficultés pour participer à l'intégration économique régionale :
 
-- Impossible de participer au RCEP (Accord régional de partenariat économique global).
-- Le processus de candidature au CPTPP (Accord de partenariat transpacifique progressiste) progresse lentement.
-- Les négociations de FTAs bilatéraux sont bloquées.
+- Incapacité de rejoindre le RCEP (Partenariat économique régional global)
+- Candidature au CPTPP (Accord de partenariat transpacifique global et progressiste) qui progresse lentement
+- Négociations bilatérales d'ALE entravées
 
-**Les accords commerciaux existants :**
+**Accords commerciaux en vigueur :**
 
-- Les FTAs actuellement en vigueur comprennent ceux avec le Panama (2004), le Guatemala (2006), le Salvador et le Honduras (2008), ainsi que les accords de coopération économique avec la Nouvelle-Zélande (2013), Singapour (2014), le Paraguay (2018), le Swaziland (2018) et le Belize (2022) [^8] ; l'FTA avec le Nicaragua a cessé d'être applicable à partir de juillet 2022 après la rupture diplomatique par ce dernier en 2021 [^9].
-- Négociation en cours pour relancer le TIFA (Accord sur le commerce et l'investissement) avec les États-Unis.
-- Promotion d'un BIA (Accord bilatéral d'investissement) avec l'Union européenne.
+- ALE en vigueur avec le Panama (2004), le Guatemala (2006), le Salvador et le Honduras (2008), ainsi que des accords de coopération économique avec la Nouvelle-Zélande (2013), Singapour (2014), le Paraguay (2018), l'Eswatini (2018), le Belize (2022)[^8] ; l'ALE avec le Nicaragua a cessé de s'appliquer à compter du 1ᵉʳ juillet 2022 suite à la rupture diplomatique unilatérale du Nicaragua en 2021[^9]
+- Reprise des négociations TIFA (Cadre commercial et d'investissement) avec les États-Unis
+- Promotion d'un BIA (Accord bilatéral d'investissement) avec l'UE
 
-### Les percées de la stratégie commerciale
+### Percées de la stratégie économique et commerciale
 
-**La coopération dans le commerce numérique :**
-Taïwan a signé un cadre de coopération technologique et commerciale avec les États-Unis, et a exprimé son intention de rejoindre le DEPA (Accord sur le partenariat économique numérique), promouvant des règles commerciales numériques favorables à Taïwan dans les forums multilatéraux.
+**Coopération sur le commerce numérique :** Taïwan et les États-Unis signent un cadre de coopération sur le commerce et l'investissement technologiques, et expriment leur volonté de rejoindre le DEPA (Accord de partenariat sur l'économie numérique), promouvant dans les enceintes multilatérales l'élaboration de règles du commerce numérique favorables à Taïwan.
 
-**La coopération en chaîne d'approvisionnement :**
-L'Initiative commerciale Taïwan-États-Unis du XXIe siècle et le cadre de coopération technologique et commerciale taïwanais-américain fournissent un cadre institutionnel bilatéral, et le pays participe à la coopération multilatérale pour établir des chaînes d'approvisionnement en minéraux critiques avec ses alliés.
+**Coopération sur la chaîne d'approvisionnement :** L'Initiative commerciale pour le 21ᵉ siècle Taïwan-États-Unis et le cadre de coopération sur le commerce et l'investissement technologiques fournissent un cadre institutionnel bilatéral, et Taïwan participe à la coopération multilatérale pour établir une chaîne d'approvisionnement en minéraux critiques avec ses alliés.
 
 ## Transformation de la structure commerciale
 
-### Évolution des produits d'exportation
+### Évolution des produits exportés
 
-**Années 1960 :** Textiles, prêt-à-porter, produits plastiques
-**Années 1980 :** Produits électroniques informatiques, équipements mécaniques
+**Années 1960 :** Textiles, habillement, produits en plastique
+**Années 1980 :** Produits électroniques et informatiques, équipements mécaniques
 **Années 2000 :** Semi-conducteurs, panneaux, ordinateurs portables
-**Années 2020 :** Semi-conducteurs avancés, équipements 5G, composants de véhicules électriques
+**Années 2020 :** Semi-conducteurs avancés, équipements 5G, composants pour véhicules électriques
 
-**Principaux produits d'exportation actuels (2024, classification des marchandises du Ministère des Finances) [^1] :**
+**Principaux produits exportés actuels (2024, classification en 11 catégories du Ministère des finances)[^1] :**
 
-1. **Composants électroniques** (37,3 %, dont les circuits intégrés sont un gros poste).
-2. **Produits TIC et audiovisuels** (27,9 %, stimulés par les serveurs IA et les cartes graphiques, en croissance de 59 %).
-3. **Métaux de base et produits manufacturés** (6,0 %).
-4. **Machines** (5,1 %).
-5. **Plastiques et leurs produits** (4,1 %).
+1. **Composants électroniques** (37,3 %, dont circuits intégrés en grande partie)
+2. **Produits TIC et audiovisuels** (27,9 %, serviteurs IA et cartes graphiques tirant une croissance annuelle de 59 %)
+3. **Métaux de base et leurs produits** (6,0 %)
+4. **Machines** (5,1 %)
+5. **Produits en plastique et caoutchouc** (4,1 %)
 
-### Changement des partenaires commerciaux
+### Évolution des partenaires commerciaux
 
-**Répartition des marchés d'exportation (2024) [^1] :**
+**Répartition des marchés d'exportation (2024)[^1] :**
 
-1. **Chine (y compris Hong Kong)** (150,6 milliards de dollars, 31,7 %).
-2. **États-Unis** (111,4 milliards de dollars, 23,5 %).
-3. **ASEAN** (87,8 milliards de dollars, 18,5 %).
-4. **Europe** (38,6 milliards de dollars, 8,1 %).
-5. **Japon** (25,8 milliards de dollars, 5,4 %).
+1. **Chine (y compris Hong Kong)** (150,6 milliards USD, 31,7 %)
+2. **États-Unis** (111,4 milliards USD, 23,5 %)
+3. **ASEAN** (87,8 milliards USD, 18,5 %)
+4. **Europe** (38,6 milliards USD, 8,1 %)
+5. **Japon** (25,8 milliards USD, 5,4 %)
 
 **Tendance à la diversification :**
-La part des exportations vers la Chine (y compris Hong Kong) est passée de son pic de 42 % en 2021 à 35,2 % en 2023 et 31,7 % en 2024 (statistiques du Ministère des Finances) [^1][^6] ; parallèlement, les exportations vers les États-Unis ont connu une croissance positive continue pendant huit ans, avec une augmentation de 46 % en 2024, et les exportations vers l'ASEAN ont également atteint un nouveau sommet, comblant ainsi le déficit.
 
-## Défis et opportunités futures
+La part des exportations vers la Chine (y compris Hong Kong) recule de son pic de 42 % en 2021 à 35,2 % en 2023, puis 31,7 % en 2024 (statistiques du Ministère des finances)[^1][^6] ; sur la même période, les exportations vers les États-Unis croissent pour la 8ᵉ année consécutive, +46 % en 2024, celles vers l'ASEAN atteignent aussi un record, les deux comblant le creux.
 
-### Les risques géopolitiques
+## Défis et opportunités futurs
 
-**La confrontation technologique sino-américaine :**
-Le contrôle des technologies de semi-conducteurs est en constante évolution chaque année. La polarisation des chaînes d'approvisionnement et les divergences dans les normes technologiques se développent rapidement, forçant Taïwan à renégocier son positionnement.
+### Risques géopolitiques
 
-**L'impact de la situation au détroit de Taïwan :**
-L'évaluation des risques par les investisseurs augmente, entraînant une dispersion accélérée des entreprises internationales, et les coûts d'assurance et de transport augmentent en conséquence — ces coûts se répercuteront finalement sur la compétitivité des exportations taïwanaises.
+**Confrontation technologique sino-américaine :** Les contrôles technologiques sur les semi-conducteurs se durcissent chaque année, la formation de blocs dans la chaîne d'approvisionnement et la divergence des standards techniques s'accélèrent, la position de Taïwan faisant face à une pression de renégociation.
 
-### Les opportunités de transformation industrielle
+**Impact de la situation dans le détroit de Taïwan :** L'évaluation des risques par les investisseurs augmente, la diversification des implantations par les entreprises internationales s'accélère, les coûts d'assurance et de transport augmentent parallèlement — ces coûts se répercuteront in fine sur la compétitivité à l'exportation de Taïwan.
 
-Bien que la pression géopolitique apporte de l'incertitude, elle ouvre trois corridors de transformation pour Taïwan : les technologies énergétiques, les infrastructures numériques et la biotechnologie médicale. Taïwan dispose déjà d'une base manufacturière dans ces trois domaines ; sa capacité à approfondir ses barrières technologiques déterminera sa compétitivité à l'exportation pour la prochaine décennie.
+### Opportunités de transformation industrielle
 
-**La tendance du zéro émission nette :**
-Taïwan est un leader mondial des panneaux solaires, et la chaîne d'approvisionnement de l'éolien offshore se structure ; les composants de véhicules électriques sont devenus une nouvelle source de croissance à l'exportation.
+La pression géopolitique apporte de l'incertitude, mais ouvre aussi trois couloirs de transformation à Taïwan : technologies de l'énergie, infrastructures numériques, biotechnologies et santé. Taïwan possède déjà des bases manufacturières dans ces trois domaines ; la capacité à approfondir les barrières technologiques déterminera la compétitivité à l'exportation de la prochaine décennie.
 
-**Les besoins de transformation numérique :**
-La construction des infrastructures 5G nécessite le réseau connecté et le calcul en périphérie, tandis que l'explosion de la puissance de calcul IA bénéficie directement aux capacités de conception de puces d'intelligence artificielle de Taïwan.
+**Tendance zéro émission nette :** Les cellules solaires de Taïwan figurent parmi les premières parts de marché mondiales, la chaîne d'approvisionnement de l'éolien offshore prend forme, les composants pour véhicules électriques deviennent un nouveau point de croissance à l'exportation.
 
-**L'industrie de la biotechnologie médicale :**
-La COVID-19 a mis en évidence les capacités de recherche vaccinale et de fabrication d'équipements de médecine de précision de Taïwan, tandis que les solutions de santé numérique constituent une nouvelle catégorie d'exportation en formation.
+**Besoins de transformation numérique :** La construction d'infrastructures 5G stimule la demande en IoT et _edge computing_, l'explosion de la puissance de calcul IA fait bénéficier directement la capacité de conception de puces IA de Taïwan.
 
-### La construction d'une chaîne d'approvisionnement résiliente
+**Industrie biotechnologique et médicale :** Le COVID-19 a mis en lumière les capacités de Taïwan en R&D vaccinale et fabrication d'équipements de médecine de précision ; les solutions de santé numérique forment une nouvelle catégorie d'exportation en gestation.
 
-La confrontation sino-américaine et le risque au détroit de Taïwan forcent les entreprises à réévaluer la concentration de leur chaîne d'approvisionnement. La stratégie de réponse de Taïwan est double : éviter une dépendance excessive à un marché unique à l'extérieur en établissant des sources multiples ; garder les technologies clés et la capacité sur l'île, complétées par des stocks stratégiques de matériaux, pour maintenir le contrôle autonome de la chaîne d'approvisionnement. Améliorer la visibilité de la chaîne d'approvisionnement est une nécessité infrastructurelle commune aux deux stratégies.
+### Construction d'une chaîne d'approvisionnement résiliente
+
+La confrontation sino-américaine et les risques dans le détroit forcent les entreprises à réévaluer la concentration de leur chaîne d'approvisionnement. La stratégie de réponse de Taïwan est à double voie : vers l'extérieur, éviter la dépendance excessive à un marché unique, établir des sources d'approvisionnement diversifiées ; vers l'intérieur, maintenir les technologies et capacités critiques à Taïwan, couplées à des stocks de sécurité de matières stratégiques, préserver l'autonomie de la chaîne industrielle. L'amélioration de la visibilité de la chaîne d'approvisionnement est l'infrastructure de base commune aux deux voies.
 
 ## Conclusion
 
-L'histoire du commerce extérieur en soixante ans montre que Taïwan, passant des jouets en prêt-à-porter à la sous-traitance de puces et aux serveurs IA, a fait des choix proactifs face à chaque transition. Face au nouveau contexte de guerre froide sino-américaine, Taïwan doit accélérer sa planification pour le prochain cycle industriel tout en maintenant ses avantages technologiques existants.
+Soixante ans d'histoire du commerce extérieur ont vu Taïwan passer du textile et du jouet à la fonderie de semi-conducteurs et aux serviteurs IA, chaque transformation étant un choix proactif face à la pression. Face au nouveau format de guerre froide de la confrontation sino-américaine, Taïwan doit, tout en maintenant ses avantages technologiques existants, accélérer sa mise en place pour le prochain cycle industriel.
 
-La réorganisation de la chaîne d'approvisionnement n'apporte pas que des risques : la concentration de Taïwan dans les domaines de la fabrication de puces, de la sous-traitance de serveurs et des machines de précision empêche les entreprises de contourner facilement le pays. Le passage d'une exportation à forte intensité de main-d'œuvre à un nœud de chaîne d'approvisionnement à haute intensité technologique, couplé à une diversification des marchés, est la colonne vertébrale pour faire face aux risques géopolitiques.
+La restructuration de la chaîne d'approvisionnement n'apporte pas que des risques : les avantages de concentration de Taïwan dans trois domaines — fonderie de semi-conducteurs, sous-traitance de serviteurs, machines de précision — rendent les entreprises incapables de contourner aisément Taïwan. La structure commerciale est passée de l'exportation à forte intensité de main-d'œuvre aux nœuds de la chaîne d'approvisionnement à forte intensité technologique ; la diversification de l'implantation sur les marchés est le pilier clé pour faire face aux risques géopolitiques.
 
 ## Références
 
-[^1]: [Ministère des Finances — Aperçu du commerce extérieur national en 2024](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exportations de 475 milliards de dollars et importations de 394,4 milliards de dollars en 2024 ; exportations vers la Chine continentale et Hong Kong de 150,6 milliards (31,7 %), États-Unis à 111,4 milliards (croissance de 46,1 %, dépassant les 100 milliards), ASEAN à 87,8 milliards, Europe à 38,6 milliards, Japon à 25,8 milliards ; tableau des proportions par catégorie.
+[^1]: [Service des statistiques du Ministère des finances — Aperçu du commerce extérieur 2024](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exportations 2024 : 475,0 milliards USD, importations : 394,4 milliards USD ; vers Chine continentale et Hong Kong 150,6 milliards (31,7 %), États-Unis 111,4 milliards (croissance annuelle 46,1 %, première fois au-dessus de 100 milliards), ASEAN 87,8 milliards, Europe 38,6 milliards, Japon 25,8 milliards ; tableau des parts par catégorie des 11 groupes de produits.
 
-[^2]: [TechNews — Taïwan classé 16e mondial en valeur d'exportation en 2023](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Valeur des exportations de 432,4 milliards de dollars en 2023, représentant 1,8 % du total mondial, se classant 16e au monde, troisième plus haut depuis la statistique en 2001.
+[^2]: [TechNews — Exportations 2023 de Taïwan classées 16ᵉ mondial](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Valeur d'exportation 2023 : 432,4 milliards USD, 1,8 % du total mondial, rang 16, 3ᵉ plus haut depuis le début des statistiques en 2001.
 
-[^3]: [TrendForce — Rapport sur les parts de marché des fonderies 2023-2024](https://www.trendforce.com/) — La part de marché d'une seule entreprise comme TSMC est de 55 à 67 %, avec un total taïwanais dépassant 70 %.
+[^3]: [TrendForce — Rapport sur les parts de marché de la fonderie 2023-2024](https://www.trendforce.com/) — Part de marché de TSMC seule 55-67 %, ensemble de Taïwan supérieur à 70 %.
 
-[^4]: [TrendForce — Classement des sous-traitants d'ordinateurs portables en 2024](https://www.trendforce.com/) — Les marques taïwanaises et les usines étrangères représentent collectivement environ 85 à 90 % de la sous-traitance mondiale d'ordinateurs portables ; la proportion de production directe sur l'île a considérablement diminué.
+[^4]: [TrendForce — Classement 2024 de la sous-traitance d'ordinateurs portables](https://www.trendforce.com/) — Marques taïwanaises et usines délocalisées d'entrepreneurs taïwanais assurent ensemble ~85-90 % de la sous-traitance mondiale de portables ; part de production directe sur l'île de Taïwan fortement réduite.
 
-[^5]: [Association des industriels de machines-outils et composants taïwanais — Données de consommation et d'exportation mondiales 2023](https://www.tmba.org.tw/zh-TW/news/traditionandbusiness/1566) — Les exportations de machines-outils de Taïwan en 2023 s'élevaient à 2,6 milliards de dollars, en baisse de 14 %, classant le pays septième au niveau mondial.
+[^5]: [Association de l'industrie des machines-outils et composants de Taïwan — Données 2023 sur les 10 premiers pays consommateurs mondiaux de machines-outils et les 10 premiers pays d'exportation de Taïwan](https://www.tmba.org.tw/zh-TW/news/traditionandbusiness/1566) — Exportations 2023 de machines-outils de Taïwan : 2,6 milliards USD, -14 % sur un an, rang mondial 7ᵉ.
 
-[^6]: [Ministère des Finances — Aperçu du commerce extérieur national en 2023](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exportations de 432,4 milliards de dollars et importations de 351,4 milliards de dollars en 2023 ; exportations vers la Chine continentale et Hong Kong à 152,2 milliards de dollars (baisse de 18,1 %).
+[^6]: [Service des statistiques du Ministère des finances — Aperçu du commerce extérieur 2023](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exportations 2023 : 432,4 milliards USD, importations : 351,4 milliards USD ; vers Chine continentale et Hong Kong 152,2 milliards USD (-18,1 % sur un an).
 
-[^7]: [Comité législatif pour les affaires étrangères — Données statistiques sur les relations commerciales inter-détroit](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Les chiffres cités par différentes sources varient en raison des méthodes statistiques (commerce direct vs. incluant le commerce indirect), il est conseillé de se référer aux statistiques directes du Ministère des Finances.
+[^7]: [Conseil des affaires continentales — Données statistiques sur les relations économiques et commerciales transdétroit](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Le volume commercial transdétroit varie selon les méthodologies (commerce direct vs. incluant commerce indirect), les sources citées divergent ; il est recommandé de se référer aux statistiques directes de l'Administration des douanes.
 
-[^8]: [Portail général ECA/FTA de Taïwan](https://fta.trade.gov.tw/) — Ministère du Commerce International : liste et dates d'entrée en vigueur des FTAs/ECA de notre pays.
+[^8]: [Portail global ECA/FTA de Taïwan](https://fta.trade.gov.tw/) — Bureau du commerce international du Ministère de l'économie : liste des ALE/ECA en vigueur et dates d'entrée en vigueur.
 
-[^9]: [Liberty Times — Le parlement a approuvé l'arrêt de l'FTA avec le Nicaragua ; ministère des Affaires étrangères et ministère des Finances : impact limité sur le commerce](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — La rupture unilatérale par ce dernier en décembre 2021 signifie que notre pays n'a pas appliqué cet accord depuis le 1er juillet 2022.
+[^9]: [Liberty Times — Le Yuan législatif adopte la cessation de l'ALE avec le Nicaragua, Ministères des affaires étrangères et de l'économie : impact limité sur notre commerce](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Rupture unilatérale par le Nicaragua en décembre 2021, cessation d'application par Taïwan à compter du 1ᵉʳ juillet 2022.
 
-## Lecture complémentaire
+## Lectures complémentaires
 
-- [Les PME et les champions cachés de Taïwan](/fr/economy/taiwan-smes-and-hidden-champions)
-- [L'agriculture et la régénération rurale à Taïwan](/fr/economy/taiwan-agriculture-and-rural-revitalization)
-- [Écosystème des startups](/fr/economy/taiwan-startup-ecosystem-overview)
-- [Entreprise taïwanaise : Foxconn (鴻海)](/fr/economy/foxconn-precision-industry) — Une présence mondiale de 900 000 personnes dans 24 pays, le plus grand laboratoire de gouvernance transfrontalière de l'industrie manufacturière taïwanaise.
+- [PME taïwanaises et champions cachés](/fr/economy/taiwan-smes-and-hidden-champions)
+- [Agriculture de Taïwan et régénération rurale](/fr/economy/taiwan-agriculture-and-rural-revitalization)
+- [Écosystème des start-ups](/fr/economy/taiwan-startup-ecosystem-overview)
+- [Entreprises taïwanaises : Foxconn](/fr/economy/foxconn-precision-industry) — Implantation mondiale dans 24 pays, 900 000 employés, plus grand terrain d'expérimentation de la gouvernance transfrontalière de l'industrie manufacturière taïwanaise
