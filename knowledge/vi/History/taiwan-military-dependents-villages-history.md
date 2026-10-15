@@ -1,15 +1,15 @@
 ---
-title: 'Lịch sử các khu cộng đồng quân sự Đài Loan'
-description: 'Từ quân đội cô lập ở Miền Bắc Myanmar đến vương quốc lá chài, 1,2 triệu cuộc di cư lớn đã cách đổi lại định nghĩa "ngôi nhà"'
+title: 'Lịch sử làng quân nhân (quyển thôn) tại Đài Loan'
+description: 'Từ năm 1949, Chính phủ Quốc dân đã xây dựng các làng quân nhân để định cư cho gia quyến đi theo quân đội. Những mái ấm tạm bợ chưa đầy một ping được dựng lên từ hàng rào tre, bùn vàng và tôn thiếc; làng Chung Trinh tại Đào Viên từng là nơi tiếp nhận gia quyến của những binh sĩ cô độc rút từ Bắc Miến Điện về Đài Loan — những người đã phải chiến đấu du kích gần bốn năm tại biên giới Trung - Miến trước khi đến được Đài Loan. Nơi đây mang theo sự biện chứng giữa lưu vong và định cư, giữa quê hương và xứ người, để rồi cuối cùng chuyển mình từ những hàng rào tre thành các khu nhà quốc gia, trở thành một phần quan trọng trong di sản văn hóa đa dạng của Đài Loan.'
 date: 2026-03-22
 category: 'History'
 tags:
   [
-    'khu cộng đồng quân sự',
-    'người nhập khẩu nước ngoài',
-    'chiến tranh giữa Quốc Dân và Cộng Sản',
+    'làng quân nhân',
+    'di dân ngoại tỉnh',
+    'Nội chiến Quốc - Cộng',
     'bảo tồn văn hóa',
-    'cải tạo đô thị',
+    'đô thị hóa',
   ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: 'e1247815f'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:a769f300a4a6b10d'
 sourceBodyHash: 'sha256:62a8c3544391f28d'
-translatedAt: '2026-10-04T05:18:00+08:00'
+translatedAt: '2026-10-15T21:02:39.055160+00:00'
 ---
 
 # Lịch sử các khu cộng đồng quân sự Đài Loan

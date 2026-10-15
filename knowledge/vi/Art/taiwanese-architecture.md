@@ -1,20 +1,20 @@
 ---
 title: 'Kiến trúc Đài Loan'
-description: 'Từ nhà đá phiến đến những tòa nhà chọc trời: hành trình xuyên thời gian qua kiến trúc của một đảo quốc'
+description: 'Từ những ngôi nhà đá của người Paiwan, các tòa nhà gạch đỏ do Moriyama Matsunosuke để lại, những đường nét đặt nền móng cho kiến trúc hiện đại của Wang Da-hong, cho đến các công trình công cộng không tường bao giữa những cánh đồng lúa ở Yilan của Huang Sheng-yuan. Trong suốt bốn trăm năm qua, trí tuệ xây dựng của người bản địa, người Hà Lan, người Nhật và người Hán đã va chạm trên hòn đảo này; Triển lãm Kiến trúc Venice từng mô tả đặc tính lai tạp này là "kiên trì tính bản địa trong bối cảnh toàn cầu hóa".'
 date: 2026-03-28
-author: 'Taiwan.md'
 category: 'Art'
+tags: ['Kiến trúc', 'Văn hóa', 'Lịch sử', 'Người bản địa', 'Thời kỳ Nhật trị']
 subcategory: '建築'
-tags:
-  ['Kiến trúc', 'Văn hóa', 'Lịch sử', 'Người nguyên trú', 'Thời kỳ Nhật trị']
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-28
 lastHumanReview: true
-featured: true
+revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-10-15T20:40:50.380601+00:00'
 ---
 
 # Kiến trúc Đài Loan: bản trường thi ba chiều nơi các nền văn hóa giao thoa

@@ -1,15 +1,15 @@
 ---
-title: 'Phong trào xã hội và tham gia công dân'
-description: 'Từ học sinh Bạch Dương đến Hoa hướng, cách Đài Loan thực hiện dân chủ và thúc đẩy tiến bộ xã hội thông qua các phong trào xã hội'
+title: 'Phong trào xã hội và sự tham gia của công dân'
+description: 'Từ phong trào giải tỏa thiết quân luật, phong trào sinh viên Dã Bách Hợp đến phong trào Hướng dương và việc hợp pháp hóa hôn nhân đồng giới, xã hội Đài Loan đã liên tục thúc đẩy quá trình dân chủ hóa thông qua các phương thức hòa bình, lý tính và kế thừa giữa các thế hệ; những hành động này trải dài trên nhiều lĩnh vực đa dạng như chính trị, môi trường, lao động và giới tính, hầu hết được tiến hành một cách hòa bình, song cũng có những xung đột gay gắt như phong trào nông dân, để lại những dấu ấn thể chế cụ thể trong tiến trình dân chủ.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'Phong trào xã hội',
-    'Tham gia công dân',
+    'Sự tham gia của công dân',
     'Dân chủ',
-    'Phong trào học sinh Bạch Dương',
-    'Phong trào Hoa hướng',
+    'Phong trào sinh viên Dã Bách Hợp',
+    'Phong trào Hướng dương',
     'Cải cách xã hội',
   ]
 subcategory: '民主與政治'
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '568d157c8'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-02T07:53:56+08:00'
+translatedAt: '2026-10-15T21:37:22.397216+00:00'
 ---
 
 # Phong trào xã hội và tham gia công dân
