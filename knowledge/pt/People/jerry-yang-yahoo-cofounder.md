@@ -1,28 +1,30 @@
 ---
-title: "Jerry Yang: Do único símbolo em inglês 'Shoe' até a era da web portal global 'Yahoo!' pai"
-description: "Em 1978, o menino de 10 anos Yang Chih-yuan só sabia dizer 'Shoe' (sapato) quando imigrou para os EUA. Em 1994, enquanto fugia da redação de sua tese de doutorado na Universidade de Stanford, ele e seu parceiro classificaram manualmente páginas web em um carro, acidentalmente criando o Yahoo!, cujo valor de mercado chegou a ultrapassar US$ 100 bilhões, e em 2005, com um 'jogo de azar extrema' investiu na Alibaba, reescrevendo o mapa da web global."
+title: "Terry Yang: De saber apenas uma palavra em inglês ao pai do 'Yahoo', que inaugurou a era dos portais globais"
+description: 'Em 1978, quando Terry Yang imigrou para os Estados Unidos aos 10 anos, ele sabia apenas a palavra "Shoe". Em 1994, enquanto evitava o trabalho de sua tese de doutorado em Stanford, ele e seus parceiros organizaram manualmente páginas da web dentro de um trailer para criar o Yahoo!, transformando o caos da internet em um diretório organizado e inaugurando a era de ouro dos portais. O valor de mercado da empresa chegou a ultrapassar os 100 bilhões de dólares e, em 2005, ele reescreveu o cenário da internet global com uma "aposta audaciosa" ao investir no Alibaba.'
 date: 2026-04-29
 category: 'People'
-subcategory: '科技與企業'
 tags:
-  - 'Yang Chih-yuan'
-  - 'Yahoo'
-  - 'Empreendedorismo'
-  - 'Universidade de Stanford'
-  - 'Alibaba'
-  - 'Imigração'
-  - 'Valley da Silício'
-  - 'Taiwan'
+  [
+    'Terry Yang',
+    'Yahoo',
+    'Empreendedorismo',
+    'Universidade de Stanford',
+    'Alibaba',
+    'Imigração',
+    'Vale do Silício',
+    'Taiwan',
+  ]
+subcategory: '科技與企業'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-10-15T22:40:04.204015+00:00'
 ---
 
 > **Resumo em 30 segundos:**
