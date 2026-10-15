@@ -1,17 +1,17 @@
 ---
 title: "Taiwan's Fermented Foods and Pickling Culture"
-description: "From stinky tofu to fermented soybean curds, exploring Taiwan's unique fermentation techniques and pickling traditions"
+description: "Blending Hoklo, Hakka, Indigenous, and Japanese techniques, Taiwan's fermented foods and pickling culture has developed a unique flavor system: from street-side stinky tofu to household fermented bean curd, from pickled vegetables to rice wine lees, these seemingly ordinary foods conceal profound scientific principles and cultural heritage. Fermented foods are both a part of the food industry and a cultural bridge linking ethnic memory with modern life, recording the island's culinary wisdom."
 date: 2026-03-18
 category: 'Food'
 tags:
   [
-    'fermented foods',
-    'pickling culture',
-    'stinky tofu',
-    'tofu curd',
-    'pickles',
-    'traditional technology',
-    'microbiology',
+    'Fermented Foods',
+    'Pickling Culture',
+    'Stinky Tofu',
+    'Fermented Bean Curd',
+    'Pickled Vegetables',
+    'Traditional Techniques',
+    'Microorganisms',
   ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Stinky tofu in Xizhen'
+imageAlt: 'Xizhen Stinky Tofu'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T21:42:30.512646+00:00'
 ---
 
 # Taiwan's Fermented Foods and Pickling Culture
