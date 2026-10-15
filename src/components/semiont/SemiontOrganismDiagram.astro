@@ -16,16 +16,17 @@
  *   gold #c9a96a       — sovereignty reverse loop (long-dashed)
  */
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+import { ENABLED_LANGUAGE_CODES } from '../../config/languages';
+import { getLiveArticleCount } from '../../utils/liveStats';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
-const vitalsData = await fetch(new URL('/api/dashboard-vitals.json', Astro.url))
-  .then((r) => r.json())
-  .catch(() => null);
-
-const articleCount = vitalsData?.articles?.total ?? 751;
-const langCount = 6;
+// 中心節點的「N 篇 · M 語」：篇數讀 prebuild 產的 dashboard-vitals.json
+// （totalArticles），語言數跟著已啟用語言走。原本 fetch 自己的網址取
+// vitals、讀不存在的 articles.total、語言數寫死 6，站上一直停在「751 篇 · 6 語」。
+const articleCount = getLiveArticleCount();
+const langCount = ENABLED_LANGUAGE_CODES.length;
 
 // Main island path extracted from public/assets/svg/taiwan-simplemaps.svg
 // (viewBox 0 0 1000 991). Bbox of this island: x 478-955, y 45-946,
