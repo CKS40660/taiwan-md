@@ -1,11 +1,11 @@
 ---
-title: 'Trenggiling Taiwan'
-description: 'Mamalia yang paling banyak diselundupkan di dunia menemukan rumah yang aman di Taiwan'
+title: 'Pangolin Taiwan'
+description: 'Mamalia yang paling banyak diselundupkan di dunia, namun subspecies pangolin Taiwan menemukan rumah yang aman di Taiwan: saat kerabatnya di tempat lain di Asia terancam punah karena perdagangan liar, Taiwan berkat perlindungan hukum yang ketat, pemeliharaan habitat, dan penelitian ilmiah, serta pembiakan di penangkaran, membuat populasi stabil bahkan meningkat, menjadi kasus keberhasilan konservasi yang jarang, menunjukkan kepada dunia bahwa kepunahan spesies bukanlah takdir.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Trenggiling',
+    'Pangolin',
     'Konservasi',
     'Spesies Terancam Punah',
     'Penyelundupan',
@@ -19,31 +19,31 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:bc4a8eee501f028c'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
 sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-08-10T09:48:21+08:00'
+translatedAt: '2026-10-15T14:52:43.765753+00:00'
 ---
 
 # Trenggiling Taiwan
 
-> **Ringkasan 30 Detik:** Trenggiling Taiwan adalah subspesies Taiwan dari trenggiling—mamalia yang paling banyak diperdagangkan secara ilegal di dunia. Saat kerabatnya di wilayah Asia lain menghadapi kepunahan akibat penyelundupan, Taiwan menjadi salah satu wilayah sedikit di mana konservasi berhasil, populasi stabil, bahkan meningkat. Perlindungan hukum yang ketat, pemeliharaan habitat yang utuh, penelitian ilmiah hingga pembiakan buatan, kisah trenggiling Taiwan adalah contoh kasus konservasi "berita baik" yang langka.
+> **Ringkasan 30 detik:** Trenggiling Taiwan adalah subspesies Taiwan dari trenggiling—mamalia yang paling banyak diperdagangkan secara ilegal di dunia. Saat kerabatnya di Asia lainnya terancam punah karena perdagangan gelap, Taiwan justru menjadi salah satu wilayah sedikit di mana upaya konservasi berhasil, populasi stabil, bahkan menunjukkan peningkatan. Perlindungan hukum yang ketat, pemeliharaan habitat yang utuh, penelitian ilmiah hingga pembiakan di penangkaran—kisah Trenggiling Taiwan adalah contoh langka kasus konservasi "berita baik".
 
 ## Mengapa Penting
 
-Trenggiling adalah salah satu mamalia tertua di Bumi, tubuhnya dilapisi sisik keratin, seperti fosil hidup yang menyaksikan perubahan Bumi. Namun dalam dua puluh tahun terakhir, mereka menjadi satwa liar dengan volume penyelundupan terbesar di dunia. Berdasarkan Daftar Merah IUCN, dari delapan spesies trenggiling, 3 dikategorikan Kritis (CR), 4 Terancam (EN), 1 Rentan (VU), semuanya menghadapi risiko kepunahan berderajat berbeda.[^2] Keberhasilan konservasi trenggiling Taiwan menunjukkan kemungkinan lain bagi dunia: kepunahan spesies bukanlah takdir, konservasi dapat berhasil di bawah kondisi yang tepat.
+Trenggiling adalah salah satu mamalia tertua di Bumi, tubuhnya dilapisi sisik keratin yang seperti fosil hidup menyaksikan perubahan planet ini. Namun dalam dua dekade terakhir, mereka menjadi satwa liar dengan volume perdagangan gelap terbesar secara global. Menurut Daftar Merah IUCN, dari delapan spesies trenggiling, 3 dikategorikan Kritis (CR), 4 Terancam (EN), 1 Rentan (VU)—semua menghadapi risiko kepunahan yang bervariasi.[^2] Keberhasilan konservasi Trenggiling Taiwan menunjukkan kemungkinan lain bagi dunia: kepunahan spesies bukanlah takdir, konservasi _bisa_ berhasil jika syaratnya terpenuhi.
 
-## Makhluk Misterius yang Bisa Menggulung Menjadi Bola
+## Makhluk Misterius yang Bisa Menggulung Diri Menjadi Bola
 
-Trenggiling Taiwan (_Manis pentadactyla pentadactyla_) adalah subspesies endemik Taiwan dari trenggiling Tionghoa. Panjang kepala-badannya sekitar 60 cm, ekor 18 cm, seluruh tubuh dilapisi sisik berwarna cokelat seperti baju zirah. Sisik-sisik ini bukan sisik ikan, terbuat dari keratin, komposisinya sama dengan kuku manusia.
+Trenggiling Taiwan (_Manis pentadactyla pentadactyla_) adalah subspesies endemik Taiwan dari Trenggiling Tionghoa. Panjang kepala-badan sekitar 60 cm, ekor 18 cm, seluruh tubuh dilapisi sisik berwarna cokelat seperti baju zirah. Sisik-sisik ini bukan sisik ikan, terbuat dari keratin—komposisi sama dengan kuku manusia.
 
-Saat malam tiba, trenggiling Taiwan memulai perjalanan mencari makan. Mereka adalah "penghapus serangga" profesional, menggunakan cakar depan yang kuat untuk menggali sarang semut dan rayap, menjulurkan lidah panjang hingga 25 cm, dalam semalam bisa menelan ribuan semut dan rayap. Menghadapi ancaman, mereka dengan cepat menggulung menjadi bola padat, sisik menegak ke luar, bahkan harimau pun tidak bisa menggigitnya.
+Saat malam tiba, Trenggiling Taiwan memulai perjalanan mencari makan. Ia adalah "pembersih serangga" profesional: menggunakan cakar depan yang kuat untuk membongkar sarang semut dan rayap, menjulurkan lidah yang panjangnya hingga 25 cm, dan dalam semalam mampu menelan ribuan semut serta rayap. Menghadapi ancaman, ia dengan cepat menggulung diri menjadi bola padat, sisik mengarah ke luar—bahkan harimau pun tak bisa menggigitnya.
 
-## Selamat di Tengah Krisis Penyelundupan Global
+## Penyelamat dalam Krisis Penyelundupan Global
 
-Trenggiling adalah mamalia yang paling banyak diperdagangkan secara ilegal di dunia. Sejak tahun 2000, global setidaknya 1 juta ekor trenggiling diselundupkan, utamanya menuju pasar obat tradisional Tiongkok dan Vietnam.
+Trenggiling adalah mamalia yang paling banyak diperdagangkan secara ilegal di seluruh dunia. Sejak tahun 2000, setidaknya 1 juta trenggiling diselundupkan secara global, utamanya menuju pasar obat tradisional Tiongkok dan Vietnam.
 
-Sisik trenggiling (nama obat Tionghoa "sisik trenggiling") lama terdaftar dalam obat tradisional Tionghoa, catatan materia medica turun-temurun mencatat khasiatnya melancarkan ASI, mengurangi pembengkakan, menghilangkan benjolan, dll. Tahun 2020, Komite Farmakope Tiongkok mengumumkan penghapusan trenggiling dari edisi baru _Farmakope Tiongkok_, sinyal kebijakan paling konkret hingga kini tentang pembatasan penggunaan trenggiling sebagai obat; namun stok obat existing dan permintaan bawah tanah sulit dihapuskan dalam jangka pendek, saluran penyelundupan tetap aktif.[^2] Populasi trenggiling di Asia dan Afrika akibatnya menurun drastis, trenggiling Tionghoa pada 2014 dicatatkan IUCN sebagai spesies Kritis, 2016 Konferensi Para Pihak CITES ke-17 (CoP17) memutuskan menaikkan ke-8 spesies trenggiling ke Lampiran I, melarang semua perdagangan komersial; keputusan berlaku efektif 2 Januari 2017.[^1]
+Sisik trenggiling (nama obat Tionghoa 「pian trenggiling」) sudah lama terdaftar dalam obat tradisional Tionghoa, dengan catatan dalam berbagai buku ramuan tradisional (materia medica) tentang khasiatnya melancarkan ASI, mengurangi pembengkakan, dan mengurai benjolan. Pada 2020, Komite Editor Farmakope Tiongkok mengumumkan penghapusan trenggiling dari edisi baru _Farmakope Tiongkok_, yang menjadi sinyal kebijakan paling konkret hingga saat ini mengenai pembatasan penggunaan trenggiling sebagai obat; namun stok obat yang ada dan permintaan di bawah tanah sulit dihapuskan dalam jangka pendek, sehingga saluran penyelundupan tetap aktif.[^2] Populasi trenggiling di Asia dan Afrika akibatnya menurun drastis, trenggiling Tiongkok pada 2014 dikategorikan IUCN sebagai spesies terancam punah kritis, dan Keputusan CITES CoP17 pada 2016 menaikkan status semua delapan spesies trenggiling ke Lampiran I, melarang semua perdagangan komersial; keputusan itu berlaku efektif sejak Januari 2017.[^1]
 
 Namun, Taiwan adalah pengecualian dalam krisis kepunahan ini.
 
@@ -51,75 +51,75 @@ Namun, Taiwan adalah pengecualian dalam krisis kepunahan ini.
 
 ### Perlindungan Hukum yang Ketat
 
-Taiwan sejak 1989 sudah menetapkan trenggiling sebagai satwa liar dilindungi, setelah revisi _UU Konservasi Satwa Liar_ 2017, berburu, membunuh, atau menjual trenggiling dipidana penjara 6 bulan hingga 5 tahun, dan denda 300 ribu hingga 1,5 juta Dollar Taiwan Baru.[^4] Berbanding Tiongkok daratan yang baru 2020 menaikkan status perlindungan trenggiling dari tingkat dua ke tingkat satu, langkah perlindungan Taiwan dimulai lebih awal, pelaksanaannya lebih ketat.
+Taiwan sudah sejak 1989 menetapkan trenggiling sebagai satwa liar dilindungi. Setelah 《野生動物保育法》 diamendemen pada 2017, berburu, membunuh, atau menjual trenggiling dapat dihukum penjara 6 bulan hingga 5 tahun, serta denda NT$300.000 hingga NT$1,5 juta.[^4] Berbanding dengan Tiongkok daratan yang baru pada 2020 menaikkan status perlindungan trenggiling dari tingkat dua ke tingkat satu, langkah perlindungan Taiwan dimulai lebih awal dan dilaksanakan lebih ketat.
 
-### Perlindungan Habitat yang Utuh
+### Perlindungan Habitat yang Komprehensif
 
-Wilayah pegunungan rendah Taiwan menyediakan habitat ideal bagi trenggiling. Dari Taman Nasional Yangmingshan ke Taman Nasional Kenting, dari daerah pegunungan pinggiran Taipei ke bukit-bukit tengah-selatan, kawasan terlindungi ini jadi tempat perlindungan aman bagi trenggiling. Pentingnya, trenggiling Taiwan mampu beradaptasi dengan zona pinggiran aktivitas manusia, bisa bertahan di hutan sekunder di pinggiran metropolitan.
+Daerah pegunungan rendah di Taiwan menyediakan habitat ideal bagi trenggiling. Mulai dari Taman Nasional Yangmingshan hingga Taman Nasional Kenting, dari daerah pegunungan pinggiran Taipei hingga bukit-bukit di tengah dan selatan, kawasan-kawasan dilindungi ini menjadi tempat perlindungan yang aman bagi trenggiling. Pentingnya, trenggiling Taiwan mampu beradaptasi dengan kawasan pinggiran aktivitas manusia, dan dapat bertahan hidup di hutan sekunder di pinggiran metropolitan.
 
 ### Penelitian Ilmiah dan Pemantauan
 
-Lembaga penelitian Taiwan lama terlibat penelitian ekologi trenggiling, menggunakan pelacakan radio, kamera inframerah, dll memantau dinamika populasi. Di antaranya, Sun Ching-min (孫敬閔) dari Lembaga Penelitian Konservasi Satwa Liar Universitas Sains dan Teknologi Pingtung (屏東科技大學) lama mengkhususkan penelitian pelepasan trenggiling Taiwan, menjadi sumber data ekologi trenggiling Taiwan yang penting.[^3] Data ilmiah ini tidak hanya membantu memahami pola perilaku trenggiling, juga menyediakan dasar ilmiah untuk kebijakan konservasi.
+Lembaga penelitian Taiwan sejak lama terlibat dalam penelitian ekologi trenggiling, menggunakan teknologi pelacakan radio, kamera infra merah, dan sebagainya untuk memantau dinamika populasi. Di antaranya, Sun Ching-min dari Institut Konservasi Satwa Liar Universitas Sains dan Teknologi Pingtung sejak lama mengkhususkan diri pada penelitian pelepasan trenggiling Taiwan, dan menjadi sumber data ekologi trenggiling Taiwan yang penting.[^3] Data ilmiah ini tidak hanya membantu memahami pola perilaku trenggiling, tetapi juga menyediakan dasar ilmiah untuk kebijakan konservasi.
 
-## Terobosan Pembiakan Kebun Binatang Taipei
+## Terobosan Perkawinan Kebun Binatang Kota Taipei
 
-Kebun Binatang Kota Taipei mencapai hasil penting dalam pembiakan buatan trenggiling, menjadi salah satu institusi sedikit di dunia yang berhasil membiakkan trenggiling secara buatan. Pembiakan buatan trenggiling sangat sulit: mereka sensitif terhadap perubahan lingkungan, persyaratan pemeliharaan tinggi, siklus reproduksi panjang. Kebun binatang melalui simulasi lingkungan liar, penyesuaian nutrisi presisi, observasi perilaku, dll, membangun populasi konservasi ex-situ trenggiling.
+Kebun Binatang Kota Taipei mencapai hasil penting dalam perkawinan buatan trenggiling, menjadi salah satu dari sedikit institusi di dunia yang berhasil memperkembangbiakan trenggiling secara buatan. Perkawinan buatan trenggiling sangat sulit: mereka sensitif terhadap perubahan lingkungan, memerlukan kondisi pemeliharaan yang ketat, dan memiliki siklus reproduksi yang panjang. Melalui simulasi lingkungan liar, penyesuaian nutrisi yang presisi, pengamatan perilaku, dan sebagainya, kebun binatang telah membangun populasi konservasi ex-situ bagi trenggiling.
 
-Hasil pembiakan ini tidak hanya memberikan jaminan bagi konservasi trenggiling Taiwan, juga menyumbangkan pengalaman berharga bagi program konservasi trenggiling internasional.
+Hasil perkawinan ini tidak hanya memberikan jaminan bagi konservasi trenggiling Taiwan, tetapi juga menyumbangkan pengalaman berharga bagi program konservasi trenggiling internasional.
 
 ## Pahlawan Tanpa Nama Ekosistem
 
-Trenggiling Taiwan memiliki fungsi konkret dalam ekosistem. Sebagai "ahli pengendalian hayati", seekor trenggiling dewasa tiap tahun bisa menelan jumlah besar semut dan rayap (berbagai literatur memperkirakan 1 hingga 2 juta ekor), mengendalikan populasi serangga ini, melindungi hutan dan tanaman pertanian dari hama.[^2]
+Trenggiling Taiwan memiliki fungsi konkret dalam ekosistem. Sebagai "ahli pengendalian hayati", seekor trenggiling dewasa setiap tahun dapat menelan sejumlah besar semut dan rayap (perkiraan berbagai literatur sekitar 1 hingga 2 juta ekor), mengontrol jumlah populasi serangga ini, melindungi hutan dan tanaman pertanian dari hama.[^2]
 
-Perilaku menggali mereka juga mengubah struktur tanah, meningkatkan aerasi dan daya simpan air tanah, mempertumbuhan akar tanaman. Lubang trenggiling sering dimanfaatkan hewan kecil lain, membentuk jaringan ekosistem bawah tanah yang kompleks.
+Perilaku menggali mereka juga mengubah struktur tanah, meningkatkan aerasasi dan daya simpan air tanah, serta mempertumbuhan akar tanaman. Lubang trenggiling sering dimanfaatkan oleh hewan kecil lainnya, membentuk jaringan ekologi bawah tanah yang kompleks.
 
 ## Ancaman yang Masih Ada
 
-Meskipun konservasi berhasil, trenggiling Taiwan tetap menghadapi banyak tantangan:
+Meskipun konservasi telah menunjukkan hasil, trenggiling Taiwan tetap menghadapi berbagai tantangan:
 
-### Serangan Anjing Liara
+### Serangan Anjing Liar
 
-Anjing liar di alam liar adalah salah satu musuh alami utama trenggiling di Taiwan. Trenggiling menghadapi ancaman akan menggulung menjadi bola, sisik keras membuat predator besar sulit menggigit tembus. Tapi cara serang anjing berbeda, mereka menyerang berkelompok, membolak-balikkan mangsa, trenggiling tak bisa selamanya mempertahankan penggulungan, akhirnya karena kelelahan perut lunak mereka dibuka sehingga terluka bahkan mati.
+Anjing liar di alam bebas adalah salah satu musuh alami utama bagi trenggiling di Taiwan. Ketika menghadapi ancaman, trenggiling akan menggulung tubuhnya menjadi bola, dan sisik kerasnya menyulitkan predator besar untuk menggigitnya secara langsung. Namun metode serangan anjing berbeda: mereka menyerang berkelompok dan membolak-balikkan trenggiling berulang kali. Trenggiling tidak dapat mempertahankan posisi berguling selamanya, dan akhirnya karena kelelahan perutnya yang lunak terbuka, sehingga terluka bahkan mati.
 
-### Kecelakaan Jalan (Roadkill)
+### Kejadian Tewas Tertabrak
 
-Seiring pengembangan jalan, kasus trenggiling mati tertabrak kendaraan saat menyeberang jalan sering terdengar. Terutama di musim kawin, jangkungan aktivitas trenggiling melebar, risiko roadkill meningkat.
+Seiring dengan pengembangan jalan, kasus trenggiling tewas tertabrak kendaraan saat menyeberangi jalan cukup sering terdengar. Terutama di musim kawin, jangkungan aktivitas trenggiling memperluas, meningkatkan risiko tewas tertabrak.
 
 ### Pengembangan Habitat
 
-Meskipun ada sistem kawasan lindung, ekspansi perkotaan dan pembangunan jalan tetap memotong-motong habitat trenggiling, memengaruhi pertukaran genetik populasi dan jangkauan mencari makan.
+Meskipun ada sistem kawasan lindung, ekspansi perkotaan dan pembangunan jalan terus memotong habitat trenggiling, memengaruhi pertukaran genetik populasi dan jangkauan mencari makanan.
 
-## Kemungkinan Koeksistensi dengan Perkotaan
+## Kemungkinan Koeksistan dengan Perkotaan
 
-Trenggiling Taiwan menunjukkan kemampuan adaptasi yang menakjubkan. Mereka tidak hanya muncul di hutan primer, juga di pinggiran metropolitan dengan aktivitas manusia intensif membangun rumah. Di Yangmingshan Taipei, Wulai New Taipei, Fuxing Taoyuan, dll, ada kasus koeksistensi harmonis trenggiling dengan manusia.
+Trenggiling Taiwan menunjukkan kemampuan adaptasi yang menakjubkan. Hewan ini tidak hanya muncul di hutan primer, tetapi juga mendirikan rumah di pinggiran metropolitan tempat aktivitas manusia sering terjadi. Di Gunung Yangming Taipei, Wulai New Taipei, Fuxing Taoyuan, dan tempat lain, ada kasus trenggiling dan manusia hidup berdampingan dengan harmonis.
 
-Di Taichung, kawasan pegunungan rendah di sekitar kampus Universitas Kedokteran Chung Shan (中山醫學大學) konon pernah ditemukan jejak habitat trenggiling, tanah terkait karena pertimbangan konservasi memicu diskusi antara pengembangan dan perlindungan—ketika seekor trenggiling muncul di kampusmu, tanah ini milik siapa, manusia atau dia? Cerita semacam ini ada di seluruh Taiwan, juga menunjukkan peningkatan kesadaran masyarakat Taiwan akan perlindungan trenggiling.
+Di Taichung, area bukit rendah di sekitar kampus Universitas Medis Chung Shan konon pernah ditemukan jejak keberadaan trenggiling, tanah terkait memicu diskusi antara pengembangan dan perlindungan karena pertimbangan konservasi — ketika seekor trenggiling muncul di kampusmu, siapa sebenarnya pemilik tanah ini, manusia atau dia? Cerita semacam ini ada di berbagai tempat di Taiwan, yang juga menunjukkan peningkatan kesadaran masyarakat Taiwan terhadap perlindungan trenggiling.
 
-## Fisiologi dan Kebiasaan
+## Fisiologi dan Perilaku
 
-Struktur tubuh trenggiling penuh keajaiban evolusi. Sisik terbuat keratin (komposisi sama kuku manusia), digulung bola bahkan singa dan harimau sulit menggigit tembus. Lidah bisa menjulur 25 cm, hampir setengah panjang badan; tapi mereka tak punya gigi, mengandalkan gigi keratin di perut dan batu kecil menggerus makanan. Cakar depan kuat, bisa menggali lubang hingga 3 meter dalam; meski berselimut zirah berat, trenggiling juga jago berenang, bisa menyeberangi sungai.
+Struktur tubuh trenggiling penuh keajaiban evolusi. Sisiknya terbuat dari keratin (komposisi sama dengan kuku manusia), saat menggulung menjadi bola bahkan singa dan harimau sulit menggigitnya. Lidahnya bisa memanjang hingga 25 cm, hampir setengah panjang tubuh; tetapi mereka tidak memiliki gigi, mengandalkan gigi keratin dan batu kecil di perut untuk menghancurkan makanan. Cakar depan mereka kuat, bisa menggali lubang hingga kedalaman 3 meter; meskipun memakai baju zirah berat, trenggiling juga pandai berenang, mampu menyeberangi sungai.
 
-Kecuali musim kawin, trenggiling seumur hidup hidup sendirian, induk-anak hanya bersamaan sekitar setengah tahun. Kehamilan 120-150 hari, satu kelahiran hanya satu anak, laju reproduksi sangat lambat, ini juga alasan populasi sekali runtuh sulit pulih. Trenggiling adalah salah satu mamalia bersisik tertua yang masih ada, catatan fosil menunjukkan sejarah evolusi bisa ditelusuri ke Paleosen 50-60 juta tahun lalu.
+Kecuali musim kawin, trenggiling hidup sendirian seumur hidup, induk dan anak hanya bersamaan sekitar setengah tahun. Masa kehamilan mencapai 120 hingga 150 hari, satu kelahiran hanya menghasilkan satu anak, laju reproduksi sangat lambat, ini juga salah satu alasan mengapa populasi sulit pulih setelah runtuh. Trenggiling adalah salah satu mamalia bersisik tertua yang masih ada, catatan fosil menunjukkan sejarah evolusinya dapat ditelusuri hingga sekitar 50 hingga 60 juta tahun lalu di periode Paleosen.
 
 ## Signifikansi Global Pengalaman Taiwan
 
-Keberhasilan konservasi trenggiling Taiwan menyediakan kasus referensi bagi perlindungan spesies terancam global. Pendekatan Taiwan memiliki beberapa ciri: legislasi proteksi 1989, lebih dari sepuluh tahun lebih awal dari kebanyakan negara; cakupan proteksi dari hukum meluas ke habitat, penelitian ilmiah, dan pendidikan warga, membentuk empat lapis pertahanan; akumulasi data lembaga penelitian dan kebun binatang, membuat penyesuaian kebijakan berdasar ilmiah; kesadaran masyarakat Taiwan terhadap trenggiling juga meningkat tiap tahun, mekanisme warga melapor roadkill dan kasus terluka sakit, juga jadi bagian data pemantauan satwa liar.
+Keberhasilan konservasi trenggiling Taiwan menyediakan kasus referensi untuk perlindungan spesies terancam punah di seluruh dunia. Pendekatan Taiwan memiliki beberapa ciri: proteksi legislatif sejak 1989, lebih dari sepuluh tahun lebih awal dibandingkan kebanyakan negara; cakupan perlindungan meluas dari hukum ke habitat, penelitian ilmiah, dan pendidikan warga, membentuk empat lapis pertahanan; akumulasi data dari institusi penelitian dan kebun binatang memungkinkan penyesuaian kebijakan berlandaskan ilmiah; pemahaman masyarakat Taiwan terhadap trenggiling juga semakin mendalam setiap tahun, mekanisme pelaporan warga atas tewas tertabrak dan kasus cedera/sakit, juga menjadi bagian dari data pemantauan satwa liar.
 
-Kisah trenggiling Taiwan, di era kerugian keanekaragaman hayati yang cepat, memberikan jawaban konkret: kepunahan bukan satu-satunya akhir.
+Kisah trenggiling Taiwan, di era kehilangan keanekaragatan hayati yang cepat, memberikan jawaban konkret: kepunahan bukan satu-satunya akhir.
 
 ## Referensi
-
-[^1]: [Keputusan CITES CoP17 tentang Trenggiling | CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Konfirmasi keputusan CoP17 2016 menaikkan ke Lampiran I, dan efektif 2 Januari 2017.
-
-[^2]: [Daftar Merah IUCN: Trenggiling Tionghoa](https://www.iucnredlist.org/species/12764/123589684) — Literatur ekologi, kebiasaan, dan kebutuhan pangan trenggiling Tionghoa (estimasi jumlah makan semut berbeda antar penelitian).
-
-[^3]: [Lembaga Penelitian Konservasi Satwa Liar Universitas Sains dan Teknologi Pingtung](https://www.npust.edu.tw/) — Latar belakang penelitian pelepasan trenggiling oleh Sun Ching-min dan timnya.
-
-[^4]: [Jaringan Keanekaragaman Hayati Taiwan](https://www.tbn.org.tw/) — Database distribusi trenggiling Taiwan dan laporan sains warga.
-
-[^5]: [Penelitian Konservasi Kebun Binatang Kota Taipei](https://www.zoo.gov.taipei/) — Teknik pembiakan buatan trenggiling dan hasil konservasi.
 
 ## Bacaan Lanjutan
 
 - [Status Lampiran CITES](https://cites.org/eng/app/appendices.php)
-- [Pusat Penelitian dan Konservasi Spesies Endemik Kementerian Pertanian Taiwan](https://www.tesri.gov.tw/)
+- [Pusat Penelitian dan Konservasi Biota Endemik Kementerian Pertanian](https://www.tesri.gov.tw/)
+
+[^1]: [Keputusan Trenggiling CITES CoP17｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Mengonfirmasi keputusan CoP17 2016 menaikkan ke Lampiran I, dan efektif sejak 2 Januari 2017.
+
+[^2]: [Daftar Merah IUCN: Trenggiling Tiongkok](https://www.iucnredlist.org/species/12764/123589684) — Literatur tentang ekologi, perilaku, dan kebutuhan pangan Trenggiling Tiongkok (estimasi jumlah semang yang dimakan bervariasi antar penelitian).
+
+[^3]: [Institut Konservasi Satwa Liar, Universitas Sains dan Teknologi Pingtung](https://www.npust.edu.tw/) — Latar belakang penelitian pelepasan trenggiling oleh Sun Ching-min dan tim penelitiannya.
+
+[^4]: [Jaringan Keanekaragaman Hayati Taiwan](https://www.tbn.org.tw/) — Database distribusi trenggiling Taiwan dan laporan sains warga.
+
+[^5]: [Penelitian Konservasi Kebun Binatang Kota Taipei](https://www.zoo.gov.taipei/) — Teknik pemuliaan buatan trenggiling dan hasil konservasi.
