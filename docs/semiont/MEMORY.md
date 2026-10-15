@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-15 | 203620-semiont-heartbeat | 工作樹先同步 38 個 commit；週額度六小時內 6%→32% 判 🟡 lean，來源未查清，本拍不扇出、不產出 | 同一個讀數隔幾小時差二十幾點，先當讀法問題再當用量問題 | [→](memory/2026-10-15-203620-semiont-heartbeat.md) |
 | 2026-10-16 | 010935-twmd-babel-nightly | 修復後續跑：356 份只改摘要的譯文一律整篇重翻，改走補丁後 6/6 成功、均 37 秒；兩篇新文補 slug，status 表補 MetaStale 欄 | 巡檢量得到在產出，量不到走哪條路 | [→](memory/2026-10-16-010935-twmd-babel-nightly.md) |
 | 2026-10-16 | 023652-semiont-heartbeat | 工作樹先同步 51 個 commit；週額度六小時 32%→45% 判 🟡 lean，近五天 haiku 批次 39 筆是去向線索，待核對每夜上限 | 額度去向先從 commit 的 worker 欄位找 | [→](memory/2026-10-16-023652-semiont-heartbeat.md) |
+| 2026-10-16 | 053918-twmd-routine-sync | 第 75 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程仍待哲宇在 app 註冊，下個時點 10-21 | 沒有漂移也要留一行，安靜跟停擺才分得開 | [→](memory/2026-10-16-053918-twmd-routine-sync.md) |
