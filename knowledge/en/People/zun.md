@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-07T18:40:28.113016+00:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:46:26.639675+00:00'
 ---
 
 > **30-second overview:**
@@ -36,25 +36,26 @@ In 2018, when 19-year-old Zun was interviewed, he didn't describe reaching a mil
 
 These two remarks still sound very much like Zun years later: on one hand downplaying his achievements, on the other honestly acknowledging that the bigger the camera, the less freedom he actually has. From game streams in his middle-school bedroom to two million-subscriber channels, a new home, and a girlfriend, fourteen years of public records let viewers watch a channel grow—and watch its creator slowly come of age.
 
-## A Middle Schooler Turns His Room Into a Studio
+## A Middle Schooler Turns His Room into a Studio
 
-Reports from 2018 record that Zun started filming in the second year of middle school, initially doing game streams. Later feeling that the original format had run its course, he was influenced by Japanese YouTubers and shifted to experimental content, unboxings, and urban legends. By August of that year, his main channel, "Life Otaku x Zun" (人生肥宅x尊), had 1.2 million subscribers. At 19, he was called Taiwan's youngest millionaire-subscriber YouTuber at the time.[^1]
+Reports from 2018 record that Zun began filming in the second year of junior high school, initially making gaming livestreams. Later, feeling that his original format was no longer sustainable and influenced by Japanese YouTubers, he pivoted toward experimental content, unboxings, and urban legends. By August of that year, his main channel, "Life Otaku x Zun," had already reached 1.2 million subscribers, making the 19-year-old known as Taiwan's youngest YouTuber with a million subscribers at the time. [^1]
 
-This starting point is important because Zun would later publicly dig up his early videos, using his own imitation and awkwardness as material for jokes.[^2] His teenage years were not organized into a polished resume, but rather returned again and again to new videos through "black history" (embarrassing past content), old footage, and later retrospectives. The fourteen-year-spanning record thus has an early, visible anchor point.
+This starting point is significant because Zun would later publicly dig up these early videos, using his own imitations and lack of polish as comedic material. [^2] His adolescence was not curated into a polished resume; instead, it exists through "black history," old footage, and subsequent re-examinations that repeatedly resurface in his new videos. Consequently, this fourteen-year record has a visible starting point from his early years.
 
-![Zun holding early video footage in the thumbnail of an official "black history" retrospective video](/article-images/people/zun-old-video-review-2017.webp)
+![Zun holding an early video frame in the thumbnail of an official "black history" retrospective video](/article-images/people/zun-old-video-review-2017.webp)
 
-When early videos were re-watched by himself, their content took on a new purpose. On first upload, they were works intended to attract viewers. Years later, when they appeared again, they became material for the current Zun to comment on his past self. Viewers see two timelines simultaneously: the awkward teenager in the frame, and the creator outside the frame who already knows what is embarrassing and what imitation is too obvious. This self-retrospective is warmer than a milestone timeline because the change is directly left in the tone and reactions.
+When he replays his early videos himself, their purpose changes. When first uploaded, they were works intended to attract viewers. Reappearing years later, they become material for the current Zun to comment on his past self. Viewers see two timelines simultaneously: the unskilled teenager on the screen, and the creator off-screen who already knows which parts are awkward and which imitations are too obvious. This act of self-reflection carries more warmth than a milestone timeline because the change is directly embedded in his tone and reactions.
 
-The 2018 interview itself is also a time slice. It confirms that Zun started filming in middle school and shifted from games to experimental content, recording his age of 19 and 1.2 million subscribers. However, it cannot fill in a complete resume for every earlier year. After old videos were locked or scattered, later retrospective videos became one of the few remaining self-commentaries visible. This article preserves that incompleteness: we know he started early, and we see him laughing back at his awkwardness, but we do not fill in the missing first video, equipment, or family support into a scene.
+The 2018 interview itself serves as a time slice. It confirms that Zun began filming in the second year of junior high and transitioned from gaming to experimental content, and it records his age of nineteen alongside 1.2 million subscribers; however, it cannot fill in a complete resume for every preceding year. Once old clips are set to private or scattered, subsequent retrospective videos become some of the few remaining self-annotations available. This article preserves that incompleteness: we know he started early and can see him looking back to laugh at his own unpolished beginnings, but we do not manufacture scenes to fill in the gaps regarding his first video, equipment, or family support.
 
 ```tw-stat
-Middle School Year 2 | Started uploading game streams | Approx. 2012
-Age 19 | Taiwan's youngest millionaire YouTuber at the time | 2018 Report
-2 | Main and secondary channels both broke 1 million | End of 2024
+2nd Year Junior High | Started uploading gaming livestreams | Approx. 2012
+19 Years Old | Taiwan's youngest million-subscriber YouTuber at the time | 2018 reports
+2 Channels | Both main and sub-channels exceeded one million | End of 2024
+Source: 2018 media interviews (filming since 2nd year junior high, 1.2M subscribers at age 19) and subsequent channel record reports [^1][^2]
 ```
 
-📝 Curator's Note: Zun himself admits that starting "early" brought platform dividends. For readers, starting early has an additional layer of meaning: every subsequent retrospective can find the old footage left by that middle schooler.
+📝 Curator's Note: Zun himself admits that starting "early" brought a platform dividend. For readers, starting early adds another layer of meaning: every subsequent look back allows them to find the old footage left behind by that middle schooler.
 
 ## Million Subscribers Trade Freedom for a Burden
 
@@ -72,28 +73,29 @@ A creator providing voiceovers for a manufacturer's footage is not necessarily d
 
 This is not an event that can be swept aside with the four words "clear stream persona collapse." It concretely shows that the boy who said in 2018 that his income relied mainly on views and that he rarely did sponsorships could still make rash commercial judgments after the channel became a long-term job. Zun's response did not make the error disappear, but at least put the responsibility back on himself, rather than just pushing it to the manufacturer.
 
-## After His Brother's Crime, Zun Answers His Own Position
+## Zun's Response Regarding His Position After His Brother's Crime
 
-A harder test occurred as early as 2021. Zun's brother, Zhu Yu-Chen (朱玉宸), also known as YouTuber Xiao Yu (小玉), was investigated for producing and selling Deepfake face-swap pornography. The case involved 119 victims, with illegal gains exceeding NT$10 million. In 2024, the Supreme Court upheld the second-instance judgment; the part not eligible for fine substitution should be executed as 5 years imprisonment, with another 1 year and 8 months eligible for fine substitution.[^4]
+A more difficult challenge occurred as early as 2021. Zun's brother, Chu Yu-chen—also known as the YouTuber Xiao Yu—was investigated for producing and selling Deepfake face-swapped pornographic videos. There were a total of 119 victims, and the criminal proceeds exceeded NT$10 million. In 2024, the Supreme Court upheld the second-instance verdict, which included a 5-year prison sentence for the portion that could not be commuted to a fine, plus an additional 1 year and 8 months that could be commuted to a fine. [^4]
 
-This is not an abstract "influencer scandal." The judgment found that Xiao Yu and his assistant synthesized public figures' facial features into pornographic videos and provided them for paid viewing. The second-instance court pointed out that once online video images are circulated, they are difficult to completely eliminate, and the victims' dignity, reputation, and mental damage are also difficult to restore. Of the 119 people, 83 filed defamation complaints, while 36 did not.[^4] Placing these numbers first is because no family member can subsequently take the place of the victims.
+This was not some abstract "influencer controversy." The ruling determined that Xiao Yu and his assistant synthesized the facial features of public figures into pornographic videos to provide paid viewing. The second-instance court pointed out that once internet images are circulated, they are difficult to completely eliminate, making it hard to restore the dignity, reputation, and mental well-being of the victims. Out of the 119 people, 83 filed defamation lawsuits, while 36 did not. [^4] These figures are placed upfront because no family member can ever replace the position of a victim in the aftermath.
 
-After the case was exposed, Zun stated on his Instagram Stories that Xiao Yu had never told the family what he was doing. He apologized to the victims and stated he would not cut off his brotherly relationship. The last sentence was: "Too many things happened at once, I am really tired."[^5]
+After the case was exposed, Zun stated on his Instagram Stories that Xiao Yu had never mentioned to the family what he was doing. He apologized to the victims and stated that he would not sever his brotherly relationship. His final sentence was: "Too many things happened all at once; I am truly exhausted." [^5]
 
-In the same public response, he said that if his brother did wrong, he should bear it himself, with nothing to shield. He would then leave it to the legal judgment.[^5] This layer of meaning explains his boundaries better than "cutting off" or "not cutting off." Zun has no power to decide his brother's criminal liability, nor can he eliminate kinship with just a statement. What he can do is admit he did not know beforehand, apologize to the victims, and return criminal responsibility to the perpetrator and judicial procedures.
+In the same public response, he said that if his brother did something wrong, he should bear the consequences himself; there is no reason to protect him, and the matter would now be left to the legal system. [^5] This sentiment explains his boundaries more clearly than simply saying he would "sever" or "not sever" ties. Zun does not have the power to decide his brother's criminal liability, nor can he erase a kinship through a single statement. What he can do is admit that he did not know beforehand, apologize to the victims, and return the criminal responsibility to the perpetrator and the judicial process.
 
-This response was originally placed on Instagram Stories, which usually disappear after 24 hours. The content can still be traced today because news outlets saved screenshots and text on the same day. It also reveals the fragility of "public records": YouTube videos may stay online for a long time, but Stories, comments, and platform numbers disappear or change. Therefore, this article only quotes the words that media definitely saved that day, not reprocessing later circulated summaries into a more beautiful confession.
+This response was originally posted on Instagram Stories, which typically disappear after twenty-four hours. The content can still be traced today because news outlets preserved screenshots and text on the same day. It also reveals the fragility of "public records": YouTube videos may remain online long-term, but Stories, comments, and platform metrics can vanish or change. Therefore, this article only quotes the exact words preserved by media outlets that day, rather than re-processing later-circulated summaries into a more polished confession.
 
-Criminal responsibility belongs to Xiao Yu; Zun is not the perpetrator of the case. Zun choosing not to deny his brotherly relationship does not equal defending the crime. The reason his words at the time are memorable is precisely because they did not provide a clean, likable answer: a person can condemn what a family member did, while simultaneously admitting that blood ties do not disappear due to a statement.
+The criminal responsibility belongs to Xiao Yu; Zun is not the perpetrator of the case. Zun's choice not to deny their brotherhood does not equate to defending the crime. The reason his words at the time remain memorable is that they did not provide a clean, likable answer: one can condemn the actions of a family member while acknowledging that blood ties do not disappear because of a statement.
 
-In the previous section, Zun had to be responsible for his own sponsorship judgment. In this section, he could answer his position as a family member, but could not bear the criminal liability for his brother. The public record here has left the simple space of teenage play. Later, partners and residences reappear; responsibility and ordinary days coexist in the same adult life.
+In the previous section, Zun had to take responsibility for his judgment regarding sponsorships. In this section, what he can answer is the position of a family member; he cannot bear criminal liability on behalf of his brother. The public record has reached a point where it has moved beyond the simple space of adolescent experimentation. As his partner and new residence later reappear, responsibility and daily life continue to coexist within the same adult life.
 
 ```tw-timeline
-2018 | Main channel crosses 1 million | Age 19, media calls him Taiwan's youngest at the time
-2021 | Brother's case exposed | Zun apologizes to victims, explicitly states he will not cut blood ties
-2023 | Pocket Warriors sponsorship error | Admits rash acceptance and vetting negligence
-2024 | Secondary channel crosses 1 million | Two different tonal content lines both cross 1 million
-2025 | Camera moves into new home | Channel extends from teenage experiments to adult daily life
+2018 | Main channel surpasses one million | 19 years old, called by media the youngest in Taiwan at the time
+2021 | Brother's case exposed | Zun apologizes to victims, explicitly states he will not sever blood ties
+2023 | Pocket Warriors sponsorship error | Admits to careless acceptance of the project and oversight failures
+2024 | Secondary channel surpasses one million | Both content lines with different tones reach one million subscribers
+2025 | Camera moves into new home | Channel extends from adolescent experiments to adult daily life
+Source: Reports and court rulings cited in this article (2018 subscription milestone, 2021 case, 2023 sponsorship controversy, 2024 secondary channel million) [^1][^3][^4][^5]
 ```
 
 ## Life Begins to Pass Through Different Channels

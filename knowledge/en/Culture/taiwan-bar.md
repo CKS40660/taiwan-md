@@ -21,25 +21,26 @@ lastHumanReview: false
 readingTime: 25
 curation: 'incubating'
 translatedFrom: 'Culture/台灣吧.md'
-sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:ea660a4477ab8648'
-sourceBodyHash: 'sha256:ab22f8e268664ba4'
-translatedAt: '2026-08-04T18:03:12+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:6a706e4e63244fc1'
+sourceBodyHash: 'sha256:6123bc66f3f63048'
+translatedAt: '2026-10-15T04:29:08.201232+00:00'
 ---
 
 > **30-Second Overview:**
 > Taiwan Bar is the pioneer of "knowledge translation" content in Taiwan. Founded in 2014 by Hsieh Cheng-hao (DJ Hauer), Hsiao Yu-chen, and others, its debut work _Animated History of Taiwan_ achieved one million views within a month, successfully transforming dry history into popular IP. However, behind the high-quality content lay heavy financial pressure; the company once faced debts of 20 million TWD. This decade-long experiment ultimately facilitated a strategic transformation from an "audiovisual production company" to a "digital education brand," attempting to become a lighthouse for digital education in Asia through _Beelu's Taiwan Adventures_ and "Great Catch Academy."
 
-## The Opening of History: Passion and Anxiety Behind That "Wait for It"
+## The Opening of History: The Passion and Anxiety Behind That "Deng"
 
-On September 1, 2014, in an office in Taipei, four young people—averaging under 30 years old—watched the YouTube upload progress bar with bated breath. It was an animated video titled "Making Big Money Selling Opium? Opium Policies During the Japanese Colonial Period." When the iconic "Wait for it" (等燈) sound effect played at the end of the video, they did not expect that this Taiwan black bear, named "Beelu" (黑啤), would sweep across Taiwan over the following month, creating a miracle of over one million views [^1].
+On September 1, 2014, in an office in Taipei, four young people—with an average age of under 30—watched a YouTube upload progress bar with bated breath. It was an animated video titled "Making Big Money Selling Opium? Opium Policy During the Japanese Colonial Period." When the iconic "deng" sound effect played at the end of the video, they could not have predicted that this Formosan black bear named _Beelu_ would sweep across Taiwan within the following month, creating a miracle of over one million views [^1].
 
-The founding team—Hsieh Cheng-hao (DJ Hauer), Hsiao Yu-chen, Chang Chia-chia, and Lin Chen—each brought expertise in music production, history teaching, visual design, and video creation. They sought to answer one core question: **"Why are Taiwanese people so indifferent to their own history?"** Their answer was: **Because we lack a medium that "makes people want to keep watching."**
+The founding team at the time—Hsieh Cheng-hao (DJ Hauer), Hsiao Yu-chen, Chang Chia-chia, and Lin Chen—each brought expertise in music production, history teaching, visual design, and video creation. They were attempting to answer a core question: **"Why are Taiwanese people so indifferent toward their own history?"** Their answer was: **Because we lack a medium that "makes people want to keep watching."**
 
 ```tw-stat
-1M | Monthly views for first episode of "Animated History of Taiwan" | 2014
-4 | Founding team members | Hsieh Cheng-hao, Hsiao Yu-chen, Chang Chia-chia, Lin Chen
-3M TWD | Production cost for single documentary "Unboxing Asia" | 2022
+1 million | First episode of 《Animated History of Taiwan》 monthly views | 2014
+4 people | Founding team members | Hsieh Cheng-hao, Hsiao Yu-chen, Chang Chia-chia, Lin Chen
+NT$3 million | Production cost for the documentary series 《Unboxing Asia》 | 2022
+Source: Startup team cited in this article, view records for the first episode of 《Animated History of Taiwan》, and subsequent reports on documentary production costs[^1][^2]
 ```
 
 ## Deep Analysis of the IP Universe: The "Beelu Organization" and Cultural Metaphor of Taiwan's Native Species
@@ -60,19 +61,20 @@ These characters are not merely for merchandise; they carry profound social conc
 
 📝 **Curator's Note:** Taiwan Bar's IP management is an experiment in "semantic symbiosis": characters are containers, holding heavy knowledge that would otherwise be filtered out by the general public.
 
-## The Founders' Divergent Strategies: From "Taiwan Bar" to "STR Network" Complementary Evolution
+## The Founder's Divergent Strategy: The Complementary Evolution from "Taiwan Bar" to "STR Network"
 
-In the growth curve of Taiwan Bar, 2018 was a pivotal node. Founders Hsieh Cheng-hao (DJ Hauer) and Hsiao Yu-chen underwent a strategic divergence in content tracks.
+In the growth trajectory of Taiwan Bar, 2018 served as a critical turning point. Founders Hsieh Cheng-hao (DJ Hauer) and Hsiao Yu-chen implemented a strategic divergence in their content tracks.
 
-In 2018, Hsieh Cheng-hao founded "STR Network" (薩泰爾娛樂), transforming his passion for comedy and political satire into phenomenal programs such as _Hauer Night Show_ and _Burnout_ [^4]. His logic was "traffic first," attempting to use extreme business models to impact the boundaries of free speech in Taiwan.
+In 2018, Hsieh Cheng-hao founded "STR Network," channeling his passion for comedy and political satire into phenomenon-level programs such as _Boen Night Show_ and _Yan Shang_ [^4]. His logic was "traffic first," attempting to push the boundaries of free speech in Taiwan through an aggressive commercial model.
 
-Meanwhile, Hsiao Yu-chen chose to take over as CEO of Taiwan Bar, pivoting toward "deepening education." This divergence was not due to ideological conflict but rather an optimization of resource allocation: **Hsieh Cheng-hao is responsible for expanding the breadth of the entertainment market, while Hsiao Yu-chen is responsible for consolidating the depth of educational content.**
+Meanwhile, Hsiao Yu-chen chose to take over as CEO of Taiwan Bar, pivoting toward "deep educational cultivation." This divergence was not due to a clash of ideologies, but rather an optimization of resource allocation: **Hsieh Cheng-hao focused on expanding the breadth of the entertainment market, while Hsiao Yu-chen focused on consolidating the depth of educational content.**
 
 ```tw-versus
-STR Network (薩泰爾娛樂) | Taiwan Bar (台灣吧)
+STR Network | Taiwan Bar
 Traffic-Driven | Value-Driven
 Political satire, comedy shows, live ticketing | Online literacy courses, 108 Curriculum materials, picture books
-Key works: *Hauer Night Show*, *Burnout* | Key works: *Animated History of Taiwan*, *Beelu's Taiwan Adventures*
+Key works: *Boen Night Show*, *Yan Shang* | Key works: *Animated History of Taiwan*, *Little Black Beer Plays Taiwan*
+Source: Reports on the founding of STR Network and Taiwan Bar's pivot to educational content cited in this article[^2][^4]
 ```
 
 ## The Lesson of 20 Million TWD Debt: A Perilous Arc from Video Production to Educational Transformation
