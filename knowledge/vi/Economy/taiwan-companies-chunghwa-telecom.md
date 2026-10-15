@@ -1,15 +1,15 @@
 ---
-title: 'Công ty Đài Loan：Chunghwa Telecom'
-description: 'Nhà cung cấp dịch vụ viễn thông lớn nhất Đài Loan, từ độc quyền nhà nước đến hướng dẫn chuyển đổi số'
+title: 'Doanh nghiệp Đài Loan: Chunghwa Telecom'
+description: 'Được cải tổ từ Cục Viễn thông thuộc Bộ Giao thông, thành lập năm 1996 và hoàn tất cổ phần hóa vào năm 2005, đây là nhà cung cấp dịch vụ viễn thông lớn nhất Đài Loan. Năm 2024, doanh thu đạt NT$230,03 tỷ, vốn hóa thị trường gần 1 nghìn tỷ NT$, với khoảng 30.000 nhân viên; chiếm hơn 90% thị phần điện thoại cố định và dẫn đầu toàn đảo với khoảng 12 triệu thuê bao di động. Là doanh nghiệp viễn thông hàng đầu, những năm gần đây công ty đang tích cực chuyển hướng sang ba lĩnh vực mới nổi là Điện toán đám mây, Trung tâm dữ liệu (IDC) và An ninh mạng, với mức tăng trưởng hàng năm vượt quá 50%, đóng vai trò là hạ tầng then chốt hỗ trợ khả năng phục hồi kỹ thuật số của Đài Loan.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
-    'Công ty',
-    'Viễn thông',
+    'Kinh tế',
+    'Doanh nghiệp',
+    'Ngành viễn thông',
     'Chuyển đổi số',
-    'Tư nhân hoá doanh nghiệp nhà nước',
+    'Cổ phần hóa doanh nghiệp nhà nước',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4a4d66620'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
-translatedAt: '2026-09-18T20:23:21.374885+00:00'
+translatedAt: '2026-10-15T17:21:12.018770+00:00'
 ---
 
 > **Khái quát 30 giây**

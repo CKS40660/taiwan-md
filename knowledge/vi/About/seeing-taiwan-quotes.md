@@ -1,18 +1,18 @@
 ---
-title: 'Nhìn thấy Đài Loan — Những ấn tượng lịch sử về hòn đảo'
-description: 'Từ Đại Hàng Hải tới ngày nay, các thời đại và các dân tộc khác nhau đã nhìn thấy hòn đảo này như thế nào'
+title: 'Nhìn ngắm Đài Loan — Những ấn tượng về Đài Loan trong lịch sử'
+description: 'Từ thời đại hàng hải cho đến đương đại, các tộc người đã nhìn ngắm hòn đảo này theo những cách thức khác nhau: Người Atayal tin rằng tổ linh để lại dấu ấn trên đất đai, sông núi đều là thân thể của tổ tiên và tự nhận mình là con cái của đất mẹ; trong khi người Amis lại dùng hình ảnh bám rễ để bày tỏ sự gắn kết với mảnh đất này. Tập tiểu luận dẫn nhập này thu thập những truyền thuyết được lưu truyền qua nhiều thế hệ cùng ký ức về hòn đảo, đan xen nên những góc nhìn đa chiều.'
 date: 2026-03-17
-tags: ['quotes', 'history', 'literature', 'culture']
+tags: ['trích dẫn', 'lịch sử', 'văn học', 'văn hóa']
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-07-31T00:00:00Z'
+translatedAt: '2026-10-15T17:24:22.092070+00:00'
 ---
 
 # Nhìn thấy Đài Loan — Những ấn tượng lịch sử về hòn đảo
