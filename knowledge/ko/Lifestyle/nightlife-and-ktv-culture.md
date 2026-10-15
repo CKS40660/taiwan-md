@@ -1,19 +1,19 @@
 ---
-title: '밤 문화와 KTV 문화'
-description: '현금고(錢櫃) 룸부터 심야 식당까지, 24시간 잠들지 않는 섬의 밤 생활'
+title: '밤문화와 KTV 문화'
+description: '룸 형태의 KTV는 1990년대에 부흥하였으며, Cashbox(錢櫃), Holiday KTV(好樂迪), Star Station(星聚點) 등의 브랜드가 확산되었습니다. 10만 곡 이상의 노래와 호화로운 대통령실부터 가성비 좋은 즐거운 룸까지 갖추어 KTV는 국민적인 엔터테인먼트이자 모임의 첫 번째 선택지가 되었습니다. 하지만 1992년 신화세계(神話世界) KTV 방화 사건으로 인한 16명 사망과 2020년 Cashbox 임센점 화재로 인한 6명 사망이라는 두 비극적인 사건은 사회 전체가 룸 내부의 탈출 안전 문제를 직시하게 만들었습니다. 양대 브랜드의 경쟁과 안전 개혁이 맞물리며 대만의 밤문화가 형성되었습니다.'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['생활', '밤문화', 'KTV', '심야식당', '타이완']
+tags: ['생활', '밤문화', 'KTV', '심야식당', '대만']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-19T11:59:03+08:00'
+translatedAt: '2026-10-15T20:46:54.270196+00:00'
 ---
 
 # 밤 문화와 KTV 문화

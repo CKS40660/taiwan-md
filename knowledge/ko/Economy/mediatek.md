@@ -1,6 +1,6 @@
 ---
-title: '타이완 기업: 미디어텍 (聯發科技)'
-description: '저가형 기기 왕으로 조롱받던 회사가 현재 스마트폰 칩 시장 점유율에서 퀄컴의 1.5배를 차지하고 있다.'
+title: '대만 기업: 미디어텍(MediaTek)'
+description: "창업자가 모기업에서 분사된 소규모 팀을 이끌고 칩 설계부터 시작하여, 핵심 솔루션을 제공함으로써 선전의 모조폰 생태계를 키워냈고 한때 저가형 제조사라는 비아냥을 듣기도 했습니다. 하지만 이후 이 회사는 모바일 칩 시장 점유율에서 기존 강자들을 앞질렀으며, 매출액이 100억 달러를 돌파하며 세계 5대 설계 기업으로 도약했습니다. 이는 '챔피언 이론'처럼 끊임없이 진화해야만 도전자에 의해 대체되지 않는다는 사실을 증명합니다."
 date: 2026-03-25
 category: 'Economy'
 tags: ['경제', '기업', '반도체', '칩 설계', 'IC 설계', '미디어텍']
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '0df538d8c'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
-translatedAt: '2026-09-18T00:53:01+08:00'
+translatedAt: '2026-10-15T20:25:36.501766+00:00'
 ---
 
 > **30초 요약**
