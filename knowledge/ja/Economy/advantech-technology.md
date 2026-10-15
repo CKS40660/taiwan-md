@@ -1,9 +1,9 @@
 ---
 title: 'アドバンテック'
-description: '世界的な産業用コンピューターのリーディングカンパニーであり、台湾発のIoTスマートシステムの先駆者'
+description: '1983年に元ヒューレット・パッカードのエンジニア3名によって創業された産業用コンピュータ企業であり、現在では世界的な産業用コンピュータのリーディングカンパニーとなっています。産業用IoTおよびエッジコンピューティングソリューションに注力し、拠点は世界27か国に及び、従業員は約9,000人に上ります。当初は産業用コンピュータメーカーとしてスタートしましたが、「インテリジェントな地球の推進役」へと転換し、製造、医療、交通、小売などの分野にデジタルトランスフォーメーションの核心技術を提供しています。'
 date: 2026-03-20
 category: 'Economy'
-tags: ['経済', '企業', '産業用コンピューター', 'IoT']
+tags: ['経済', '企業', '産業用コンピュータ', 'IoT']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:47:05.548344+00:00'
+translatedAt: '2026-10-15T21:33:00.585289+00:00'
 ---
 
 > **30秒概観**

@@ -1,9 +1,9 @@
 ---
-title: '台湾の氷菓文化'
-description: '玉井のマンゴー氷から雪花氷の革命まで、台湾人が冬でも氷を食べる特異な文化を探る'
+title: '台湾の氷菓子文化'
+description: '台湾人の氷菓子に対する愛着は世界でも類を見ないほどで、冬でも多くの客で賑わいます。この文化は、日本統治時代に製氷技術が導入されたことにまで遡ることができます。戦後の削り氷（剉冰）の普及や、その後の雪花氷（スノーアイス）の登場を経て、台中では陳溪氏が日本の四果氷を参考に蜜豆氷を発展させ、玉井のマンゴー氷は海外でも名を馳せました。さらには製氷・冷蔵技術による漁業の発展をもたらすなど、具体的な歴史的節目を辿ることができる進化の歴史を持っています。'
 date: 2026-03-19
 category: 'Food'
-tags: ['氷菓', 'マンゴー氷', '雪花氷', '剉冰', 'ICE MONSTER']
+tags: ['氷菓子', 'マンゴー氷', '雪花氷', '削り氷', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -15,10 +15,10 @@ imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T18:16:26+08:00'
+translatedAt: '2026-10-15T20:36:18.055807+00:00'
 ---
 
 # 台湾の氷菓文化

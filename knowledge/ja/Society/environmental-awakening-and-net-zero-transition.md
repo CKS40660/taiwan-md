@@ -1,20 +1,20 @@
 ---
-title: '環境保全と持続可能な開発'
-description: '煙突の島からネットゼロ台湾へ：40年間の環境運動の覚醒の道'
+title: '環境保護と持続可能な開発'
+description: '1980年代の「汚染させてから対策する」煙突の島から、1986年の鹿港におけるデュポン反対運動による環境意識の高まり、1988年の環境保護署設立による制度化、そして2011年の福島第一原発事故後のエネルギー転換や2022年の2050年ネットゼロ排出宣言へ。台湾は、愛河の汚染やPM2.5の基準超過といった40年にわたる代償を経て目覚め、現在では資源回収率が60.1%に達し、200社以上の企業が科学的根拠に基づいた炭素削減目標を約束しています。'
 date: 2026-03-21
-tags: ['環境保全', '持続可能な開発', 'ネットゼロ排出', '循環型経済', '気候変動']
+category: 'Society'
+tags: ['環境保護', '持続可能な開発', 'ネットゼロ排出', '循環経済', '気候変動']
 subcategory: '社會運動'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: Society/環保與永續發展.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+translatedFrom: 'Society/環保與永續發展.md'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: 2026-05-01T18:02:56+08:00
+translatedAt: '2026-10-15T20:32:56.871219+00:00'
 ---
 
 # 環境保全と持続可能な開発：島のグリーン覚醒
