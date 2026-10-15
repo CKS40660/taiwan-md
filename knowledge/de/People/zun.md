@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-08T00:42:59+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:25:32.634437+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:**
@@ -36,25 +36,26 @@ Als Zun 2018 in einem Interview über die Millionenabonnenten sprach, tat er die
 
 Diese beiden Sätze spiegeln Zun über die Jahre wider: Einerseits wird sein Erfolg leichtfertig dargestellt, andererseits gibt er ehrlich zu, dass der Raum für freie Bewegung mit größerer Reichweite kleiner wurde. Von den Gaming-Streams im Zimmer eines Mittelschülers bis hin zu zwei Kanälen mit Millionenabonnenten, einem Zuhause und einer Freundin – die öffentliche Dokumentation über vierzehn Jahre zeigt dem Publikum nicht nur, wie sich ein Kanal vergrößert hat, sondern auch, wie der Kanalbesitzer erwachsen wurde.
 
-## Ein Mittelschüler machte sein Zimmer zum Studio
+## Ein Achtklässler verwandelt sein Zimmer zuerst in ein Fotostudio
 
-Berichte aus dem Jahr 2018 dokumentieren, dass Zun mit Gaming-Streams begann, als er in der Mittelschule war. Später, da das ursprüngliche Format nicht mehr funktionierte, wechselte er unter dem Einfluss japanischer YouTuber zu Themen wie Experimenten, Unboxings und urbanen Legenden. Im August desselben Jahres hatte sein Hauptkanal „Life Geek x Zun“ 1,2 Millionen Abonnenten, und der 19-jährige wurde als jüngster Millionärs-YouTuber in Taiwan bezeichnet.[^1]
+Ein Bericht aus dem Jahr 2018 dokumentiert, dass Zun ab der 8. Klasse Videos hochlud, zunächst Gameplay-Übertragungen. Als er das ursprüngliche Format nicht mehr weiterführen konnte, ließ er sich von japanischen YouTubern beeinflussen und wechselte zu Experimenten, Unboxings und Urban Legends. Im August desselben Jahres hatte sein Hauptkanal „Life Geek x Zun“ bereits 1,2 Millionen Abonnenten, und der 19-Jährige galt damals als jüngster YouTuber Taiwans mit einer Million Abonnenten.[^1]
 
-Dieser Anfang ist wichtig, weil Zun später frühe Videos öffentlich wieder aufgriff und seine Nachahmungen und Unbeholfenheiten zum Witz machte.[^2] Die Jugendjahre wurden nicht zu einem perfekten Lebenslauf zusammengefasst, sondern durch „schwarze Geschichte“, alte Aufnahmen und spätere Rückblicke in neue Inhalte integriert. Die Dokumentation über vierzehn Jahre hat somit einen sichtbaren Anfangspunkt.
+Dieser Ausgangspunkt ist deshalb bedeutsam, weil Zun später immer wieder frühe Videos öffentlich hervorholt und seine Nachahmungen und Unbeholfenheit als Witz einsetzt.[^2] Die Jugendzeit wurde nicht zu einem glatten Lebenslauf aufbereitet, sondern kehrt als „schwarze Geschichte“, altes Material und spätere Rückblicke immer wieder in neue Videos zurück. Die über vierzehn Kalenderjahre reichende Aufzeichnung erhielt so einen frühen, sichtbaren Endpunkt.
 
-![Thumbnail von Zun in seinem offiziellen „Black History“-Rückblick-Video mit frühen Videoaufnahmen](/article-images/people/zun-old-video-review-2017.webp)
+![Zun hält in der Thumbnail-Grafik seines offiziellen „Black History“-Rückblicks ein Standbild aus einem frühen Video](/article-images/people/zun-old-video-review-2017.webp)
 
-Als er seine früheren Videos selbst wieder abspielte, änderte sich der Inhalt. Bei der ersten Veröffentlichung waren sie dazu gedacht, Zuschauer anzuziehen. Jahre später tauchten sie als Material auf, das Zun von heute über seine Vergangenheit kommentierte. Die Zuschauer sahen zwei Zeitpunkte: den ungeschickten Jugendlichen im Bild und den Creator außerhalb des Bildes, der wusste, welche Teile peinlich oder zu offensichtlich nachgeahmt waren. Dieser Selbstreflexionsprozess war emotionaler als eine Meilenstein-Zeitleiste, da sich die Veränderung direkt in Tonfall und Reaktion widerspiegelte.
+Wenn frühe Videos von ihm selbst erneut abgespielt werden, ändert sich auch ihr Zweck. Beim ersten Hochladen waren sie Werke, die Zuschauer anziehen sollten. Jahre später werden sie zu Material, mit dem der heutige Zun sein früheres Ich kommentiert. Das Publikum sieht gleichzeitig zwei Zeitpunkte: den noch ungeschickten Jungen im Bild und den Schöpfer außerhalb des Bildes, der bereits weiß, welche Stellen peinlich sind, welche Nachahmungen zu offensichtlich wirken. Diese Selbstreflexion hat mehr Wärme als eine Meilenstein-Chronik, weil der Wandel direkt in Tonfall und Reaktion erhalten bleibt.
 
-Das Interview aus dem Jahr 2018 ist selbst ein Zeitabschnitt. Es bestätigt, dass Zun von der Mittelschule an mit Gaming begann und zu Experimenten wechselte, es dokumentiert sein Alter von neunzehn Jahren und seine 1,2 Millionen Abonnenten, aber es kann keinen vollständigen Lebenslauf für die früheren Jahre liefern. Nachdem alte Videos gesperrt oder verstreut wurden, wurden spätere Rückblicke zu den wenigen sichtbaren Selbstkommentaren. Dieser Artikel bewahrt diese Unvollständigkeit: Wir wissen, dass er früh anfing und er selbst über seine Anfänge lacht, aber wir füllen die Lücken der ersten nicht gefundenen Videos, Ausrüstung oder familiären Unterstützung nicht aus.
+Das Interview von 2018 ist selbst ein Zeit-Schnitt. Es bestätigt, dass Zun ab der 8. Klasse filmte, vom Gaming zu Experimenten wechselte, und notiert neunzehn Jahre und 1,2 Millionen Abonnenten – doch es kann für die früheren Jahre keinen vollständigen Lebenslauf nachliefern. Nachdem alte Videos privat gestellt oder verstreut waren, wurden spätere Rückblick-Videos zu den wenigen noch sichtbaren Selbstkommentaren. Dieser Artikel bewahrt jene Unvollständigkeit: Wir wissen, dass er sehr früh begann, und wir sehen, wie er zurückblickt und über Unbeholfenheit spottert – doch wir füllen das nicht auffindbare erste Video, die Ausrüstung oder die familiäre Unterstützung nicht zu einer Kulisse aus.
 
 ```tw-stat
-Mittelschüler | Start mit Gaming-Streams | ca. 2012
-19 Jahre alt | Jüngster Millionärs-YouTuber in Taiwan (damals) | Berichterstattung von 2018
-2 Kanäle | Haupt- und Nebenkanal überschreiten die Million | Ende 2024
+8. Klasse | Beginn der Gameplay-Uploads | ca. 2012
+19 Jahre | Jüngster Millionärs-YouTuber Taiwans damals | Bericht 2018
+2 Kanäle | Haupt- und Zweitkanal beide über 1 Million | Ende 2024
+Quelle: Medieninterviews 2018 (ab 8. Klasse, 19 J. 1,2 Mio. Abos) und spätere Kanalstatistik-Berichte[^1][^2]
 ```
 
-📝 Notiz des Kurators: Zun selbst gibt zu, dass der „frühe Start“ einen Plattformvorteil gebracht hat. Für den Leser bedeutet das, dass jeder Rückblick später noch die alten Aufnahmen des Mittelschülers finden kann.
+📝 Kuratorische Anmerkung: Zun selbst räumt ein, dass der „frühe Start“ ihm Plattform-Vorteile brachte. Für Leserinnen und Leser hat der frühe Beginn noch eine weitere Bedeutung: Bei jedem späteren Rückblick lassen sich die Bilder finden, die jener Achtklässler hinterlassen hat.
 
 ## Millionenabonnenten tauschen Freiheit gegen eine Last ein
 
@@ -72,28 +73,29 @@ Die Synchronisation von Bildern für einen Hersteller ist an sich keine Täuschu
 
 Dies war kein Vorfall, den man mit dem Schlagwort „Zerfall des reinen Image“ abtun konnte. Es zeigte konkret, dass ein Jugendlicher, der 2018 hauptsächlich durch Klicks verdiente und wenig Werbung machte, bei einer langfristigen Tätigkeit ebenfalls fehlerhafte Geschäftsentscheidungen treffen konnte. Zuns Reaktion ließ den Fehler nicht verschwinden, aber sie verlagerte die Verantwortung zumindest auf sich selbst und nicht nur auf den Hersteller.
 
-## Nach dem Verbrechen seines Bruders gibt Zun seine Position zu
+## Nach dem Verbrechen des Bruders: Zun definiert seine eigene Position
 
-Eine noch schwierigere Herausforderung ereignete sich 2021. Zuns Bruder Zhu Yu-chen (朱玉宸), alias der YouTuber Xiaoyu, wurde wegen Herstellung und Verkauf von Deepfake-Pornografien untersucht. Der Fall betraf 119 Opfer, und der kriminelle Ertrag belief sich auf über 10 Millionen Taiwan-Dollar. Im Mai 2024 bestätigte der Oberste Gerichtshof das Berufungsurteil, wobei die Freiheitsstrafe von fünf Jahren (ohne Umwandlung in Geldstrafe) vollstreckt werden muss und weitere 1 Jahr und 8 Monate umgewandelt werden können.[^4]
+Eine noch härtere Prüfung ereignete sich bereits 2021. Zuns älterer Bruder Zhu Yu-chen, bekannt als YouTuber Xiao Yu, wurde wegen der Herstellung und des Verkaufs von Deepfake-Gesichtstausch-Pornovideos angeklagt. Der Fall betraf 119 Opfer, die kriminellen Erlöse beliefen sich auf über NT$10 Millionen. 2024 bestätigte der Oberste Gerichtshof das Urteil der zweiten Instanz: Davon sind 5 Jahre Freiheitsstrafe ohne Möglichkeit der Umwandlung in Geldstrafe zu verbüßen, weitere 1 Jahr und 8 Monate können in Geldstrafe umgewandelt werden.[^4]
 
-Dies war keine abstrakte „Influencer-Kontroverse“. Das Urteil stellte fest, dass Xiaoyu und sein Assistent die Gesichtsmerkmale öffentlicher Persönlichkeiten in pornografische Videos synthetisierten und diese gegen Bezahlung anboten. Der Berufungshof wies hin, dass das vollständige Verschwinden von Online-Bildern schwierig sei und der Schaden für die Würde, den Ruf und das emotionale Wohl der Opfer schwer wiederherzustellen sei. Von den 119 Opfern klagten 83 wegen Verleumdung, und 36 reichten keine Klagen ein.[^4] Diese Zahlen wurden genannt, weil keine Familie die Position der Opfer ersetzen kann.
+Dies ist keine abstrakte „Influencer-Affäre“. Das Urteil stellte fest, dass Xiao Yu gemeinsam mit einem Assistenten Gesichtszüge öffentlicher Personen in pornografische Videos montierte und diese gegen Bezahlung zum Anschauen anbot. Das Berufungsgericht führte aus, dass sich einmal im Umlauf befindliche Netzvideos kaum vollständig beseitigen ließen und dass die Verletzung von Würde, Ruf und seelischer Unversehrtheit der Opfer sich kaum wieder gutmachen ließe. Unter den 119 Personen erhoben 83 Verleumdungsklage, 36 weitere nicht.[^4] Diese Zahlen stehen voran, weil keine nachträgliche Stellungnahme von Angehörigen die Position der Opfer einnehmen kann.
 
-Nach Bekanntwerden des Falles teilte Zun in einem Instagram-Story mit, dass Xiaoyu seinen Familien nie erzählt hatte, was er tat. Er entschuldigte sich bei den Opfern und sagte, er würde die Geschwisterbeziehung nicht kappen. Sein letzter Satz lautete: „Es ist zu viel passiert, ich bin wirklich müde.”[^5]
+Nach Bekanntwerden des Falls erklärte Zun in Instagram-Stories, Xiao Yu habe der Familie nie mitgeteilt, woran er arbeite. Er entschuldigte sich bei den Opfern und betonte zugleich, die brüderliche Beziehung nicht abzubrechen. Der letzte Satz lautete: „Es sind auf einmal so viele Dinge passiert, ich bin wirklich müde.“[^5]
 
-In derselben öffentlichen Reaktion sagte er, dass sein Bruder für seine Fehler selbst verantwortlich sei und es nichts zu verteidigen gäbe; der Rest sei dem juristischen Urteil überlassen.[^5] Diese Aussage verdeutlichte seine Grenze besser als „Kappen“ oder „Nicht kappen“. Zun hatte nicht die Befugnis, das Strafmaß seines Bruders zu bestimmen, und er konnte durch eine einzige Erklärung die Verwandtschaftsbeziehung nicht auflösen. Was er tun konnte, war zuzugeben, dass er nichts gewusst hatte, sich bei den Opfern zu entschuldigen und die kriminelle Verantwortung dem Täter und dem Justizverfahren zurückzugeben.
+In derselben öffentlichen Stellungnahme sagte er, sein Bruder habe Unrecht begangen und müsse dafür selbst gerade stehen, es gebe nichts zu beschönigen, das Weitere sei dem Gerichtsverfahren überlassen.[^5] Diese Aussage zeichnet seine Grenze schärfer als die Alternativen „Abbruch“ oder „Nicht-Abbruch“ der Beziehung. Zun hat nicht die Macht, über die Strafverantwortung seines Bruders zu entscheiden, und ein einziges Statement kann die Verwandtschaft nicht aufheben. Was er tun kann, ist einzugestehen, dass er es vorher nicht wusste, sich bei den Opfern zu entschuldigen und die strafrechtliche Verantwortung an den Täter und das Justizverfahren zurückzugeben.
 
-Diese Reaktion wurde ursprünglich in einem Instagram-Story veröffentlicht und wäre normalerweise nach vierundzwanzig Stunden verschwunden. Sie ist heute noch nachvollziehbar, weil Medien am selben Tag Screenshots und Text gesichert haben. Dies enthüllt auch die Zerbrechlichkeit der „öffentlichen Aufzeichnung“: YouTube-Videos können lange online bleiben, während Stories, Kommentare und Plattformdaten verschwinden oder sich ändern. Daher zitiert dieser Artikel nur die von den Medien gesicherten Worte an diesem Tag und bearbeitet nicht die späteren Zusammenfassungen zu einer schöneren Geständnisgeschichte um.
+Diese Antwort war ursprünglich in Instagram-Stories veröffentlicht, die üblicherweise nach 24 Stunden verschwinden. Dass der Inhalt heute noch nachvollziehbar ist, verdankt sich der Tatsache, dass die Tagespresse am selben Tag Screenshots und Text archivierte. Der Vorgang legt auch die Fragilität des „öffentlichen Protokolls“ offen: YouTube-Videos können lange online bleiben, Stories, Kommentare und Plattformdaten hingegen verschwinden oder verändern sich. Daher zitiert dieser Text nur die wörtlich von den Medien am selben Tag gesicherten Passagen und verarbeitet nicht nachträglich kursierende Zusammenfassungen zu einem schöneren Geständnis.
 
-Die kriminelle Verantwortung liegt bei Xiaoyu; Zun ist nicht der Täter des Falles. Zun lehnte die Geschwisterbeziehung nicht ab, was keine Verteidigung für das Verbrechen darstellte. Der Grund, warum sein Text damals unvergesslich war, lag darin, dass er keine saubere, sympathische Antwort lieferte: Man kann das Handeln eines Familienmitglieds verurteilen und gleichzeitig anerkennen, dass die Blutsverwandtschaft durch eine Erklärung nicht verschwindet.
+Die strafrechtliche Verantwortung trägt Xiao Yu, Zun ist nicht Täter dieses Verfahrens. Dass Zun die brüderliche Beziehung nicht leugnet, heißt nicht, dass er das Verbrechen verteidigt. Sein Text von damals bleibt im Gedächtnis, gerade weil er keine saubere, gefällige Antwort liefert: Ein Mensch kann das Tun seines Familienmitglieds verurteilen und gleichzeitig anerkennen, dass die Blutsbande nicht durch eine Erklärung aufhören zu existieren.
 
-Im vorherigen Abschnitt musste Zun für seine Werbeentscheidung verantwortlich sein. In diesem Abschnitt konnte er die Position als Angehöriger beantworten, aber nicht das Strafmaß seines Bruders übernehmen. Die öffentliche Aufzeichnung erreichte hier einen Punkt, an dem sie über die einfache Spielphase hinausging. Das Wiederauftauchen von Partnerin und Wohnsitz führte dazu, dass Verantwortung und Alltag in derselben erwachsenen Lebensphase koexistierten.
+Im vorigen Abschnitt musste Zun für seine eigene Fehlentscheidung bei einer Werbekooperation geradestehen. In diesem Abschnitt kann er nur die Position eines Angehörigen einnehmen, nicht die Strafverantwortung seines Bruders übernehmen. Das öffentliche Protokoll hat an diesem Punkt den Raum jugendlicher Spielerei verlassen. Später treten Partnerin und Wohnsituation wieder in den Vordergrund, Verantwortung und Alltag nebeneinander in demselben Abschnitt erwachsenen Lebens.
 
 ```tw-timeline
-2018 | Hauptkanal erreicht Millionen | 19 Jahre alt, Medien nannten ihn den jüngsten in Taiwan
-2021 | Enthüllung des Bruderkriminalfalls | Zun entschuldigt sich bei Opfern und sagt, er kappe die Blutsverwandtschaft nicht
-2023 | „Pocket Hero“-Werbefehler | Eingeständnis der leichtfertigen Annahme und Kontrollversagen
-2024 | Nebenkanal erreicht Millionen | Zwei Inhalte unterschiedlicher Tonalität erreichen Millionen
-2025 | Kamera im neuen Zuhause | Der Kanal entwickelt sich vom Jugendexperiment zum erwachsenen Alltag
+2018 | Hauptkanal überschreitet 1 Million | 19 Jahre, Medien nannten ihn damals Taiwans Jüngsten
+2021 | Bruders Fall wird bekannt | Zun entschuldigt sich bei Opfern, sagt klar: keine Trennung der Blutsbande
+2023 | Pocket Hero-Werbe-Fehler | Gesteht übereilte Annahme und mangelnde Prüfung ein
+2024 | Nebenkanal überschreitet 1 Million | Zwei Inhaltslinien unterschiedlicher Tonalität haben beide 1 Million erreicht
+2025 | Kamera rückt in neues Zuhause | Kanal erstreckt sich vom Jugenexperiment zum erwachsenen Alltag
+Quelle: Die in diesem Artikel zitierten Jahresberichte und Gerichtsurteile (2018 Abonnenten-Meilenstein, 2021 Fall, 2023 Werbe-Streit, 2024 Nebenkanal-Million) [^1][^3][^4][^5]
 ```
 
 ## Das Leben beginnt, verschiedene Kanäle zu durchlaufen
