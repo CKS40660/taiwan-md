@@ -1,15 +1,15 @@
 ---
-title: 'Budaya Komunitas Taiwan dan Sistem *Li* (Lingkungan Lokal)'
-description: 'Inovasi sosial dalam pembangunan komunitas, dari praktik demokrasi tingkat paling dasar hingga partisipasi warga'
+title: 'Budaya Komunitas dan Lingkungan di Taiwan'
+description: 'Lingkungan (Li) adalah sel terkecil dalam masyarakat demokratis Taiwan: Kepala Lingkungan mengumpulkan warga untuk rapat, ketua blok melaporkan informasi dari pintu ke pintu, dan universitas komunitas mengadakan kelas di ruang kelas sebelah. Artikel ini dimulai dari sistem lingkungan tingkat paling dasar, menelusuri gerakan pembangunan komunitas serta eksperimen universitas komunitas, melihat bagaimana partisipasi warga berubah dari penerima pasif menjadi penggerak perubahan aktif, serta bagaimana jaringan akar rumput ini memperkuat ketahanan sosial Taiwan.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'sistem *li*',
-    'pembangunan komunitas',
-    'universitas komunitas',
-    'partisipasi warga',
-    'otonomi lokal',
+    'Sistem Lingkungan',
+    'Pembangunan Komunitas',
+    'Universitas Komunitas',
+    'Partisipasi Warga',
+    'Otonomi Lokal',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T20:30:58.560521+00:00'
 ---
 
 # Budaya Komunitas Taiwan dan Sistem _Li_
