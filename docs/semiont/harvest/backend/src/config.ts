@@ -50,6 +50,10 @@ export const config = {
   repoRoot,
   backendRoot,
   port: num(process.env.HARVEST_PORT, 4319),
+  // 預設只綁 loopback（127.0.0.1）——server 會以本機身分 spawn claude/codex/grok
+  // 並在 worktree 內 git push，CORS allowlist 擋不住同網段 raw curl。需要遠端存取
+  // 時再顯式設 HARVEST_HOST=0.0.0.0（自負風險）。
+  host: process.env.HARVEST_HOST?.trim() || '127.0.0.1',
   dbPath:
     process.env.HARVEST_DB_PATH?.trim() &&
     process.env.HARVEST_DB_PATH.trim().length > 0
@@ -74,10 +78,7 @@ export const config = {
    * Override per-task via inputs.engine, or globally via HARVEST_DEFAULT_ENGINE.
    */
   defaultEngine: (process.env.HARVEST_DEFAULT_ENGINE?.trim() || 'grok') as
-    | 'claude'
-    | 'grok'
-    | 'codex'
-    | 'ollama',
+    'claude' | 'grok' | 'codex' | 'ollama',
   sessionTimeoutMs: num(process.env.HARVEST_SESSION_TIMEOUT_MIN, 90) * 60_000,
   disableCron: bool(process.env.HARVEST_DISABLE_CRON, false),
   disableWatch: bool(process.env.HARVEST_DISABLE_WATCH, false),

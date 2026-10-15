@@ -80,7 +80,7 @@ Convenience stores and bubble tea shops have become key sites for implementing p
 
 Entering the 21st century, Taiwan's environmental movement exhibits several new characteristics:
 
-**Diversification of Issues**: Expanding from single-issue pollution protests to dimensions such as climate change, biodiversity, and environmental justice. Emerging organizations like the Youth Climate Alliance and the Taiwan Environmental Planning Association focus on broader environmental issues.
+**Diversification of Issues**: Expanding from single-issue pollution protests to dimensions such as climate change, biodiversity, and environmental justice. Emerging organizations like the Youth Climate Alliance and the Taiwan Environment & Planning Association focus on broader environmental issues.
 
 **Generational Succession**: The younger generation participates in environmental movements through social media and street activism. On the 2019 Global Climate Action Day, students in Taiwan responded with "Climate Strikes," demonstrating the intergenerational transmission of environmental awareness.
 

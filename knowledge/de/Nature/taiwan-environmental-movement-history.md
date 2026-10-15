@@ -80,7 +80,7 @@ Supermärkte und Kaffeeketten wurden zu wichtigen Schauplätzen der Plastikreduz
 
 Im 21. Jahrhundert zeigt die Umweltbewegung in Taiwan mehrere neue Merkmale:
 
-**Themenvielfalt**: Von dem Kampf gegen eine einzelne Verschmutzung erweiterte sich der Fokus auf den Klimawandel, die biologische Vielfalt und die Umweltgerechtigkeit. Neue Organisationen wie die Youth Climate Alliance (青年氣候聯盟) und die Taiwan Environmental Planning Association (台灣環境規劃協會) beschäftigen sich mit breiteren Umweltfragen.
+**Themenvielfalt**: Von dem Kampf gegen eine einzelne Verschmutzung erweiterte sich der Fokus auf den Klimawandel, die biologische Vielfalt und die Umweltgerechtigkeit. Neue Organisationen wie die Youth Climate Alliance (青年氣候聯盟) und die Taiwan Environment & Planning Association (台灣環境規劃協會) beschäftigen sich mit breiteren Umweltfragen.
 
 **Generationenwechsel**: Die junge Generation beteiligt sich an der Umweltbewegung durch soziale Medien und Straßenaktivitäten. Am Tag des globalen Klimaschutzes 2019 reagierten auch Studenten in Taiwan mit einem „Klimastudienstreik“, was die Weitergabe des Umweltbewusstseins zeigt.
 
