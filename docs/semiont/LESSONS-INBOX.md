@@ -350,9 +350,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：`git rev-list --left-right --count main...origin/main` 兩側都 > 0 時，MAINTAINER §Step 1.1b 判「真分岔」並指向十二步策略 B（凍結寫入者、開隔離工作樹、機械解衝突、去重、驗譯文、對齊檔名、重整登記）。但同一組讀數同時覆蓋兩種處置完全不同的事實：**病態分岔**（兩台機器各自對同一個 ref 生產、推送塞住、衝突面每天長）與**自己剛造的分岔**（本班 merge 了 N 個 PR 讓 origin 前進，而本機的產線剛好有幾筆未推，兩側檔案零重疊）。後者的正確處置是一次 `git merge`，三十秒；套十二步 SOP 是把一個協調狀態當成故障處理。判準缺的那一維是「這些 commit 是誰造的、兩側動到的檔案有沒有交集」，而那一維用一行就量得到：`git diff --name-only origin/main...main` 與 `git diff --name-only main...origin/main` 取交集。
 - **觸發**：2026-10-14 maintainer 本班。開場 `1 0`（純領先，Step 1.1b 不觸發）；九個投稿 PR 全 merge 之後變 `2 18`，字面命中「兩個數字都 > 0 = 真分岔，本班修好，不留 handoff」。實際組成是 origin 側 18 筆全為本班自己的 merge commit、本機側 2 筆為 babel 的 ar／id 批次，檔案集合交集為空（babel 動 `knowledge/{ar,id}/` 與 `reports/babel/`，本班動 zh 文章與 `knowledge/ko/`）。一次 `git merge origin/main` 零衝突收掉，回 `3 0`。選 merge 不選 rebase 是因為 babel 四個寫入者在跑（REFLEXES #35）。證據：[memory/2026-10-14-090531-twmd-maintainer-daily.md](memory/2026-10-14-090531-twmd-maintainer-daily.md) §分岔
 - **instances**：
-- **可能層級**：操作規則（綁 MAINTAINER §Step 1.1b 的偵測段；是否通用待第二個 instance 判斷）
+  - **#2（2026-10-15 twmd-maintainer-daily，同一席位隔天復發）**：收官時主工作樹讀 `8 57`，字面同樣命中「兩個數字都 > 0」。組成：origin 側 57 筆是本班 26 個 merge 加 4 個自有 commit，本機側 8 筆全是 babel 的 es／ko／fr／id／vi／de／en／ru 批次。照本條的處方量交集——`comm -12` 兩個 `git diff --name-only` 回 **0**，確認是協調狀態不是故障，一次 `git merge origin/main` 零衝突收掉（`54e2d82f3`），回 `0 0`。**第二個 instance 讓這條的通用性成立**：同一條 routine 兩天之內兩次把自己造出來的前進讀成分岔，而兩次的正確處置都是三十秒。它不是某一天的巧合，是「這個席位每次滿載 merge 完都會長出這個讀數」的結構——maintainer 併 N 個 PR 必然推進 origin，而 babel 幾乎總有未推批次。
+- **可能層級**：反射候選（vc=2 且跨日同席位復發，通用性已不需再等）。最小機械化：Step 1.1b 的偵測段在兩側都 > 0 時，先印兩側 commit 的作者與檔案交集，交集為空就直接說「協調狀態，一次 merge」，不要讓當班自己想起來要量
 - **相關**：最接近的是 `divergence-warning-is-tree-level-not-per-file`（2026-09-14 twmd-feedback-triage）——**差異在維度**：那條講同一句警告對「每一個具體檔案」有三種相反的方向（本機較舊／本機較新／兩邊沒動），處方只服務第一種；本條講同一組**整樹讀數**對「這個分岔是誰造的」有兩種相反的來源，處方（十二步 vs 一次 merge）差了兩個數量級。兩條共用 [REFLEXES #38](REFLEXES.md) 混維度的形狀，載體一個是逐檔方向、一個是成因歸屬。另與 `steady-state-reconciliation-has-no-owner-after-the-crisis-does`（2026-09-27，已 fold 進 REFLEXES）相鄰但不同：那條問「小額版本誰擁有」，本條問「怎麼一眼分出它是小額版本」
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-10-13 twmd-maintainer-daily — handoff-offers-two-options-and-both-are-wrong：交接把問題寫成選項，而選項的前提沒有人驗過
 

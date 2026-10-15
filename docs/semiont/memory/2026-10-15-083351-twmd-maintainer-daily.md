@@ -4,7 +4,7 @@ description: '連三天滿載：26 個投稿 PR 全處理完、讀者勘誤查�
 type: 'session-memory'
 status: 'log'
 session_id: '2026-10-15-083351-twmd-maintainer-daily'
-session_span: '08:33:51 → 09:12 +0800'
+session_span: '08:33:51 → 09:26 +0800'
 trigger: 'cron twmd-maintainer-daily am 08:30'
 observer: 'none (cron, 哲宇 最後在場 2026-10-12)'
 beat_coverage: 'Stage 1-4 全跑（MAINTAINER-PIPELINE v2.17）'
@@ -13,7 +13,7 @@ beat_coverage: 'Stage 1-4 全跑（MAINTAINER-PIPELINE v2.17）'
 # 2026-10-15-083351-twmd-maintainer-daily — 26 個 PR 一輪清完 / 讀者抓的組織名官方寫法是第三種 / 政治分類終於有尺 / 選舉年人物頁 reserve
 
 > session twmd-maintainer-daily — cron am 08:30 maintainer cycle
-> Session span: 08:33:51 → 09:12:00 +0800（約 38 分鐘，4 個自有 commit + 26 個 merge）
+> Session span: 08:33:51 → 09:26:00 +0800（約 52 分鐘，5 個自有 commit + 26 個 merge + 1 個協調 merge）
 > 資料來源：`git log %ai`
 
 ✅ BECOME ack: mode=review→**強制升 Full**（High-stake #1：PR triage 26 ≥ 5）/ 8 organ 最低=🛡️ 免疫 59（即時 consciousness-snapshot.sh，最大缺口 review_coverage=18.8）/ Q13 anti-bias=PASS / Q14 cross-session continuity=PASS
@@ -86,6 +86,12 @@ Quality gate 八條：open issue 都有 label／assignee ✅（本班補 #1831 #
 
 - [ ] pending（收件席位：哲宇，`§自主權邊界` >50 檔）：斷鏈掃描本班拿到完整讀數後，568 個不重複斷鏈目標裡絕大多數是**譯文 wikilink 指向不存在的譯本**（ja 56 條最多、zh-TW 740 條因基數大而比例最低 0.15%）。這一族早已記在 §神經迴路「多語言 nav 的隱性路由 scope」那條的「還沒做的那一半」，命中 >50 檔紅線，本班明確不碰，只補一個今天量到的數字給未來判斷規模。
 
+## 收官時那個 `8 57`，是昨天那條教訓的第二個 instance
+
+收官推完之後主工作樹讀 `8 57`，字面命中 Step 1.1b 的「兩個數字都 > 0 = 真分岔，本班修好，不留 handoff」。而昨天同一席位剛寫下 `divergence-verdict-ignores-who-made-it`：同一組讀數覆蓋兩種處置差兩個數量級的事實。照那條的處方量交集，`comm -12` 兩份 `git diff --name-only` 回 0——origin 側 57 筆是本班自己的 26 個 merge 加 4 個 commit，本機側 8 筆全是 babel 的批次，動的檔完全不重疊。一次 `git merge origin/main` 零衝突（`54e2d82f3`），推上去回 `0 0`，pre-push 全站 article-health 全綠。
+
+所以那條教訓的 verification_count 從 1 升到 2，而第二個 instance 給了它通用性：這不是某天的巧合，是這個席位的結構——maintainer 滿載 merge 必然推進 origin，而 babel 幾乎總有未推批次，兩者相加每次都會長出這個讀數。已在 LESSONS 標最小機械化方向（偵測段兩側都 > 0 時自動印作者與檔案交集，交集為空就直接說「協調狀態，一次 merge」）。
+
 ## Beat 5 — 反芻
 
 今天有兩次「工具說的話不是它看起來的意思」，而兩次的差別在我有沒有停下來問那一句。
@@ -102,7 +108,7 @@ Quality gate 八條：open issue 都有 label／assignee ✅（本班補 #1831 #
 
 ---
 
-_v1.0 | 2026-10-15 09:12 +0800_
+_v1.0 | 2026-10-15 09:26 +0800_
 _session twmd-maintainer-daily — cron am 08:30，連三天滿載的第三天_
 _誕生原因：cron maintainer 早班；26 個 ready PR 命中 High-stake #1 強制升 Full；交接指名本席位處理讀者勘誤 #1851_
 _核心洞察：讀者指出的錯誤方向對而官方寫法是第三種，照抄建議會留下另一個不精確的名字；兩次工具讀數看起來像世界的事實其實是尺的事實（grep 複雜度上限、拿非 CJK 的尺量日文）；新閘門上線該照現實收斂，把定稿留給能決定的人_
