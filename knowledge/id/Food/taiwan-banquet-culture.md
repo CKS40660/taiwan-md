@@ -28,10 +28,10 @@ imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 readingTime: 12
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '26a67c779'
-sourceContentHash: 'sha256:e2ad095276c4d00c'
-sourceBodyHash: 'sha256:dc734b24b423e098'
-translatedAt: '2026-09-22T09:16:40.528329+00:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:050249e143e4dbb3'
+sourceBodyHash: 'sha256:22ecadf2b6d21f0e'
+translatedAt: '2026-10-14T23:47:41.598875+00:00'
 ---
 
 # Resepsi Taiwan: Tempat yang Tetap Beroperasi di Tengah Hujan, dan Ritual yang Menghubungkan Tiga Dunia
@@ -167,42 +167,44 @@ Film _Total Broker_ yang legendaris, "ayam babi kura-kura" adalah contoh terbaik
 
 ## Musim Dingin Terpanjang
 
-Jika pergeseran generasi adalah penyakit kronis, maka pandemi pada 2020 adalah serangan akut.
+Jika kesenjangan antargenerasi adalah penyakit kronis, maka pandemi tahun 2020 adalah sebuah kondisi akut.
 
-《報導者》 pada saat itu mewawancarai hampir 10 master katering dari utara dan selatan, dan kata yang disepakati adalah: jumlah meja katering berkurang setidaknya 90% sejak Tahun Baru Imlek (ini adalah konsensus dari wawancara, bukan statistik resmi)[^26]. Hsu Meng-hui saja, pada bulan 2 dan 3 Imlek, harus membatalkan lebih dari 500 meja; seorang pewaris kedua yang terbiasa menggunakan pengacau besar untuk memasak, kini terpaksa menggenggam sendok sup kecil, menyiapkan makanan kotak satu per satu untuk bertahan[^26].
+《報導者》saat itu mewawancarai hampir 10 orang _zǒngpūshī_ (kepala koki utama) dari utara hingga selatan, dan konsensus yang didapat adalah: jumlah meja katering luar ruangan menyusut setidaknya 90% sejak Tahun Baru Imlek (ini adalah konsensus dari hasil wawancara, bukan statistik resmi)[^26]. Xue Meng-hui saja kehilangan lebih dari 500 pesanan meja hanya pada bulan ke-2 dan ke-3 kalender lunar; ada generasi kedua dari keluarga pengusaha _bando_ yang biasanya terbiasa memegang spatula besar untuk memasak di kuali raksasa, namun pada masa itu mereka terpaksa beralih memegang sendok sup kecil untuk menyendok nasi kotak demi bertahan hidup[^26].
 
-Angka resmi pun tidak tahan lama. Menurut statistik Kementerian Ekonomi, pada April 2020, industri "katering dan kontrak makan kelompok" mengalami penurunan omzol 32,3% setahun, dengan omzol bulanan sekitar 250 juta dolar Taiwan[^27]. Namun angka ini perlu dibaca dengan hati-hati: ia terutama disebabkan oleh penurunan bisnis makanan pesawat (catering udara), dan banyak sekali katering terbuka yang bahkan tidak memiliki pendaftaran komersial, sehingga tidak termasuk dalam statistik — artinya bagi para penyelenggara katering terbuka, angka ini sebenarnya merupakan **perkiraan rendah** dari dampak yang dialami[^27].
+Angka resmi pun tidak mampu menopang keadaan. Menurut statistik Kementerian Ekonomi, omzet "industri katering dan penyediaan makanan kelompok" pada April 2020 turun sebesar 32,3% dibandingkan tahun sebelumnya, dengan omzet bulan tersebut sekitar NT$2,5 miliar[^27]. Namun, angka ini harus dibaca dengan hati-hati: penurunan ini terutama disebabkan oleh sektor dapur terbang (_cloud kitchen_ atau katering penerbangan), dan banyak _bando_ luar ruangan yang sama sekali tidak memiliki registrasi bisnis sehingga tidak masuk dalam cakupan statistik—oleh karena itu, bagi _bando_ luar ruangan, angka ini sebenarnya **meremehkan** dampak guncangan yang mereka alami[^27].
 
 ```tw-stat
-90% | Penurunan jumlah meja katering (berdasarkan wawancara dengan hampir 10 master katering) | Sejak Tahun Baru Imlek 2020
-32,3% | Penurunan omzol industri katering dan kontrak makan kelompok setahun | Kementerian Ekonomi, April 2020
-2% | Lulusan jurusan katering yang bergabung dengan industri katering | Pengamatan Jiang Yi-yong
+90% | Penurunan jumlah meja katering (wawancara hampir 10 zǒngpūshī) | Sejak Tahun Baru Imlek 2020
+32,3% | Penurunan omzet industri katering dan penyediaan makanan kelompok | Kementerian Ekonomi, April 2020
+2% | Lulusan jurusan kuliner yang terjun ke dunia katering | Observasi Jiang Yi-yong
+Sumber: Wawancara zǒngpūshī oleh 《報導者》 (penurunan jumlah meja 90%) + Statistik Kementerian Ekonomi (April 2020, omzet industri katering dan penyediaan makanan kelompok turun 32,3%) + Observasi Jiang Yi-yong terhadap proporsi lulusan jurusan kuliner[^23][^26][^27]
 ```
 
-Di luar pandemi, para penyelenggara katering di wilayah utara juga menghadapi tekanan struktural yang lebih dalam — ruang. Lee Chun-hsiang menjelaskan, mereka harus menutup jalan, mengajukan hak penggunaan jalan, dan seringkali dilaporkan oleh tetangga: "Bahkan ketika kami sedang menggoreng, warga yang tinggal di sebelah marah-marah dan mengancam untuk melaporkan kami ke Dinas Lingkungan Hidup karena kami menyebabkan polusi udara. Yang sangat emosional, bahkan ada yang melempar barang dari atas untuk mendorong orang pergi."[^28]. Pusat kegiatan dan aula sekolah di kota Taipei hampir tidak pernah disewakan untuk acara makan[^28]. Di kota yang padat penduduk, katering terbuka semakin sulit menemukan tempat yang sah untuk meletakkan meja.
+Di luar pandemi, _bando_ di bagian utara menghadapi kesulitan struktural lainnya—ruang. Li Jun-xiang menjelaskan bahwa _bando_ di utara harus terlebih dahulu menutup jalan dan mengajukan izin penggunaan jalan, serta sering kali dilaporkan oleh tetangga: "Bahkan saat kami sedang menggoreng sesuatu, penghuni di sekitar mulai memaki dan mengancam akan melaporkan kami ke Biro Perlindungan Lingkungan karena polusi udara. Yang lebih parah, mereka bahkan melempar barang dari lantai atas untuk mengusir kami."[^28] Selain itu, pusat kegiatan masyarakat dan aula sekolah dasar di Kota Taipei hampir tidak pernah dipinjamkan untuk mengadakan perjamuan[^28]. Di kota dengan harga tanah yang selangit, semakin sulit untuk menemukan satu petak lahan pun yang legal untuk menempatkan meja _bando_ luar ruangan.
 
-Apakah semua tekanan ini semua buruk? Sejarawan dan peneliti budaya, Yan Chen-yu, memiliki pandangan yang berbeda. Ia berpendapat bahwa pandemi bukan hanya menghambat, tetapi juga mendorong, memaksa para master katering untuk meningkatkan standar kebersihan dan benar-benar merenungkan transformasi[^29]. Namun, ketakutan terdalam para master katering yang diwawancarai adalah hal lain yang sama sekali berbeda: "Kami tidak hanya khawatir tentang tahun ini, tetapi lebih khawatir bahwa tidak ada yang lagi mengadakan katering akan menjadi kebiasaan."[^29]. Kesimpulan 《報導者》 sangat sederhana: katering erat kaitatnya dengan perekonomian, dan sulit untuk pulih dalam waktu singkat[^29].
+Apakah semua tekanan ini sepenuhnya merupakan hal buruk? Pekerja sejarah dan budaya Yan Zhen-yu memiliki pandangan yang berbeda. Ia berpendapat bahwa pandemi adalah sebuah pukulan sekaligus stimulasi yang memaksa para _zǒngpūshī_ untuk meningkatkan standar higienitas dan memikirkan transformasi dengan serius[^29]. Namun, ketakutan terdalam di hati para _zǒngpūshī_ yang diwawancarai adalah hal lain: "Kami tidak hanya khawatir tentang tahun ini, kami lebih khawatir jika orang-orang mulai terbiasa untuk tidak lagi memesan (_bando_)."[^29] Kesimpulan dari 《報導者》 sangat tenang: _bando_ sangat erat kaitannya dengan kondisi ekonomi, dan akan sulit untuk pulih dalam waktu singkat[^29].
 
-## Masih Ada Makanan, Roh Sedang Tersebar
+## Hidangan Masih Ada, Namun Jiwanya Kian Memudar
 
-Tapi jika cerita berhenti di sini, maka kesimpulannya akan sangat keliru.
+Namun, jika cerita ini berhenti di sini saja, maka kesimpulannya akan sangat keliru.
 
-Karena ternyata, ketika kita menilik kembali pada 2025, acara makan tidak benar-benar sedang mengalami kematian satu arah. Sebenarnya, ia sedang **terbelah** — sebagai "makanan" dan "merek", ia sedang naik; sebagai "ritual seluruh desa yang terlibat", ia sedang turun.
+Sebab jika melihat kembali dari tahun 2025, _bando_ tidaklah mati secara satu arah. Ia sebenarnya sedang mengalami **percabangan**—sebagai "hidangan" dan "merek", ia bergerak naik; namun sebagai "ritual yang melibatkan seluruh desa", ia sedang merosot turun.
 
-Bagian yang sedang naik ini memiliki momentum yang luar biasa. Buku Panduan Michelin Taipei menyertakan acara makan sebagai bagian dari diskusi resminya. Tiga restoran yang menyajikan acara makan — Hotel Xuesia, Restoran Xinxin, dan Dongshang Taiji — semuanya terpilih untuk rekomendasi Bib Gourmand[^30]. Hotel Grand di Taipei meluncurkan "Taiwanese Banquet", yang dikreasikan oleh chef Lin Mingcan, dengan harga satu meja seharga NT$22.800 plus 10% biaya layanan, dan mengklaim dirinya sebagai yang pertama di hotel bintang lima di Taiwan yang secara resmi menghormati budaya acara makan[^31]. Generasi muda juga mulai mengambil alih: TaiwanPlus melaporkan pada Agustus 2025 dengan judul "Bando Is Back", di mana generasi muda menggunakan model "pemasaran generasi muda × keterampilan tangan generasi tua" untuk membuat acara makan kembali populer — seperti penyaji tahu kenyang Huang Mausheng dan putrinya Huang Jiayu, serta ahli tahu kenyang Ah Long dan putranya Ah Xiang[^32]. Laporan berita Inggris menuliskan: "Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback…"[^32]
+Cabang yang bergerak naik memiliki momentum yang luar biasa. 《Michelin Guide》 memasukkan hidangan _bando_ ke dalam narasi resminya di Tainan, di mana tiga restoran penyaji hidangan _bando_—Restoran Ah-siá, Restoran Xīnxīn, dan Dōngshàng Táicài—semuanya terpilih sebagai Bib Gourmand[^30]. Palais de Chine Hotel di Taipei meluncurkan "Perjamuan Gaya Taiwan" yang dikerjakan oleh Chef Lin Míng-càn; satu meja dihargai NT$22.800 ditambah biaya layanan sepuluh persen, dan mengklaim diri sebagai hotel bintang lima pertama di Taiwan yang secara resmi memberikan penghormatan kepada budaya _bando_[^31]. Generasi penerus pun mulai mengambil alih: TaiwanPlus dalam laporan bertajuk "Bando Is Back" pada Agustus 2025, menunjukkan bagaimana generasi baru menghidupkan kembali _bando_ melalui model "pemasaran generasi muda × keahlian generasi tua"—seperti Master Tahu Huang Mào-yuán bersama putrinya Huang Jiā-yú, serta Master A-lóng bersama putranya A-xiáng[^32]. Laporan berbahasa Inggris tersebut menuliskan: “Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback…”[^32]
 
-Bahkan di luar negeri pun terjadi kekembalian. Restoran Good To Eat di Emeryville, California, yang dimiliki oleh chef berkebangsaan Taiwan Tony Tung (ia dan pasukannya Angie Lin adalah tim istri istri), menganggap acara makan sebagai surat cinta kepada Taiwan. Nama menunya adalah jan ba bae (acara makan)[^33]. Pada 4 Januari 2025, dia mengundang ahli tahu kenyang asal Neimen, Master A-Càn, untuk mengadakan acara makan tradisional dengan lebih dari 400 orang, yang menarik para pecinta makan dari California untuk terbang kembali ke Taiwan untuk merasakan langsung[^33].
+Bahkan pengaruhnya merambah ke luar negeri. Restoran Good To Eat di Emeryville, California, melalui koki keturunan Taiwan Tony Tung (ia dan rekannya Angie Lin adalah _wife-wife team_), menjadikan _bando_ sebagai surat cinta untuk Taiwan, dengan nama menu "jan ba bae" (_bando_)[^33]. Pada 4 Januari 2025, ia mengundang Master A-Càn, seorang kepala koki dari Neimen, untuk mengadakan perjamuan tradisional bagi lebih dari 400 orang di Taipei, yang menarik minat para pencinta kuliner di California hingga bersedia terbang kembali ke Taiwan demi pengalaman tersebut[^33].
 
 ```tw-versus
-Acara makan terbuka (merosot) | Acara makan elegan (naik)
-Tenda kain merah putih, di pinggir jalan, di depan kuil | Ruang hotel bintang lima, meja Michelin
-Berangkat pukul 03.30, 30 tahun pengrajin sulit menemukan 2 orang | Satu meja di Hotel Grand seharga 22.800 NT$, generasi muda mengambil alih
-Ritual seluruh desa yang terlibat | Perayaan budaya yang menjadi tujuan ziarah
+Bando Terbuka (Menyusut) | Bando Eksklusif (Naik Kelas)
+Tenda kanvas merah-putih, di pinggir jalan atau mulut kuil | Ruang perjamuan hotel bintang lima, meja Michelin
+Berangkat pukul 03:30 pagi, dari 10 koki usia 30-an hanya 2 yang ditemukan | Satu meja di Palais de Chine seharga NT$22.800, generasi muda mengambil alih pemasaran
+Ritual yang melibatkan seluruh desa | Sebuah ziarah pengalaman budaya
+Sumber: Mengutip Michelin Guide, Palais de Chine Hotel, laporan TaiwanPlus dalam artikel ini, serta observasi tenaga kerja kepala koki[^22][^23][^30][^31][^32]
 ```
 
-Jika kita meletakkan kedua versi ini berdampingan, maka bentuk terbelahnya akan jelas terlihat. Yang sedang bangkit adalah "makanan" dan "merek" — mereka bisa masuk ke hotel bintang lima, ke meja Michelin, bahkan ke restoran di California; namun yang sedang punah adalah pengetahuan ritual itu sendiri. Ruang ballroom hotel bintang lima bisa menyalin satu kawah daging sapi yang melompat seperti katak, tetapi tidak bisa menyalin keseluruhan keterampauan: "seluruh desa terlibat, ahli tahu kenyang sebagai konsultan tradisional, sisa makanan dibagi ke tetangga". Kelangkaan ini membuat acara makan menjadi bentuk ziarah budaya — para pecinta makan dari California rela terbang setengah bumi untuk makan sekali di sini — namun orang yang menjadi tujuan ziarah itu sedang kehilangan tempat bertahannya: lahan yang melatih ahli tahu kenyang, serangkaian acara kuil berturut-turut, dan desa yang bisa mengumpulkan seluruh tetangganya untuk membantu.
+Jika melihat kedua cabang ini secara bersamaan, bentuk percabangannya menjadi jelas. Yang bangkit kembali adalah "hidangan" dan "merek"—mereka bisa masuk ke hotel bintang lima, meja Michelin, hingga restoran di California; namun yang hilang adalah seperangkat pengetahuan ritualnya. Ruang perjamuan hotel bintang lima dapat mereplikasi satu panci _Buddha Jumps Over the Wall_, tetapi tidak dapat mereplikasi kesepahaman menyeluruh tentang "seluruh desa yang bergerak bersama, kepala koki yang bertindak sebagai konsultan adat, dan pembagian hidangan penutup kepada tetangga". Kelangkaan ini membuat hidangan _bando_ menjadi semacam ziarah budaya; pencinta kuliner dari California bersedia terbang setengah dunia kembali ke Taiwan untuk satu kali perjamuan—namun objek yang ingin diziarahi tersebut sedang kehilangan habitat tempatnya bertahan hidup: tanah keras yang melahirkan para kepala koki, festival kuil yang berlangsung silih berganti, dan desa yang akan memanggil seluruh tetangganya untuk membantu.
 
-Restoran yang didinginkan dengan AC bisa menghasilkan makanan, tetapi tidak bisa menghasilkan roh.
+Restoran ber-AC dapat menghasilkan hidangan, tetapi tidak dapat menghasilkan jiwa.
 
 ## Buku Jadwal Hijau yang Diisi Tulisan
 
