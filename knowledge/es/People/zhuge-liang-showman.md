@@ -1,19 +1,19 @@
 ---
-title: 'Chu Ko Liang'
-description: 'Figura representativa de la cultura de espectáculos de Taiwán, actor cómico nacional, fallecido por enfermedad en 2017'
+title: 'Chu Ko-liang'
+description: 'Su nombre real era Hsieh Hsin-ta, nació en 1946 en Zuoying, Kaohsiung. Su padre era herrero y su madre vendía verduras. Tras terminar la escuela primaria, abandonó los estudios y a los 15 años se convirtió en aprendiz de ópera taiwanesa. En la década de 1960 comenzó su carrera imitando a cantantes en mercados nocturnos. En la década de 1970, con el despegue económico de Taiwán y el aumento de la demanda de entretenimiento nocturno, surgió la cultura de los shows. Él fusionó la ópera tradicional, el canto narrativo popular y elementos modernos creando el «humor estilo Chu», llevando el lenguaje llano del pueblo a la televisión de variedades mediante rimas improvisadas en taiwanés. Falleció en mayo de 2017 a causa de un cáncer de colon.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Chu Ko-liang', 'shows', 'comedia', 'variedades', 'taiwanés']
 subcategory: '數位與媒體'
-tags: ['Chu Ko Liang', 'espectáculos', 'comedia', 'variedades', 'taiwanés']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-10-15T23:35:41.736001+00:00'
 ---
 
 # Chu Ko Liang: el rey popular de la cultura de espectáculos taiwanesa
@@ -130,12 +130,12 @@ Lingüistas han analizado la estructura del humor Zhu y han identificado varios 
 
 ## Referencias
 
-[^1]: Entrada de Wikipedia “Chu Ko Liang”, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, lugar de nacimiento: distrito de Zuoying, ciudad de Kaohsiung
+[^1]: Artículo de Wikipedia «Chu Ko-liang», https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, lugar de nacimiento: distrito de Zuoying, Kaohsiung
 
-[^2]: _Liberty Times_, “Funeral de Chu Ko Liang: diez mil personas lo despiden”, https://news.ltn.com.tw/, 21 de mayo de 2017
+[^2]: Liberty Times «Ceremonia de despedida de Chu Ko-liang: diez mil personas asisten», https://news.ltn.com.tw/, 21 de mayo de 2017
 
-[^3]: Base de datos de televisión de Taiwán, https://tv.nccu.edu.tw/, registro del programa _Zhu Ge Hui She_
+[^3]: Base de datos de televisión de Taiwán, https://tv.nccu.edu.tw/, registro del programa «La sociedad de Chu Ko»
 
-[^4]: Agencia Central de Noticias, “La taquilla de _Da Wei Lu Man_ supera los 300 millones”, https://www.cna.com.tw/, informe de taquilla de febrero de 2013
+[^4]: Agencia Central de Noticias «Taquilla de 'Big Tail Lu' supera los NT$300 millones», https://www.cna.com.tw/, informe de taquilla de febrero de 2013
 
-[^5]: _United Daily News_, “Chu Ko Liang falleció por enfermedad el 15 de mayo, a los 70 años”, https://udn.com/, 15 de mayo de 2017
+[^5]: United Daily News «Chu Ko-liang fallece el 15 de mayo a los 70 años», https://udn.com/, 15 de mayo de 2017
