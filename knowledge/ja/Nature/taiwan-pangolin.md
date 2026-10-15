@@ -1,20 +1,20 @@
 ---
 title: '台湾のセンザンコウ'
-description: '世界で最も密輸されている哺乳類が、台湾で安全な住処を見つけました'
+description: '世界で最も密輸されている哺乳類動物であるセンザンコウの台湾亜種は、台湾で安全な家を見つけました。アジアの他の地域の仲間が密輸によって絶滅の危機に瀕しているとき、台湾は厳格な法的保護、生息地の維持、科学的研究、さらに人工繁殖によって、個体群を安定させ、さらに増加させることに成功し、珍しい保全成功事例となり、世界に種の絶滅が運命ではないことを示しました。'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
+tags: ['センザンコウ', '保全', '絶滅危惧種', '密輸', '台北動物園', '生態']
 subcategory: '野生動物'
-tags: ['センザンコウ', '保全', '絶滅危惧種', '密輸', '台北市立動物園', '生態系']
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: Nature/台灣穿山甲.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:bc4a8eee501f028c
-sourceBodyHash: sha256:059668decdeffa13
-translatedAt: 2026-05-15T15:39:39+08:00
+translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
+sourceBodyHash: 'sha256:059668decdeffa13'
+translatedAt: '2026-10-15T23:06:12.148245+00:00'
 ---
 
 # 台湾のセンザンコウ
@@ -101,13 +101,13 @@ translatedAt: 2026-05-15T15:39:39+08:00
 
 ## 参考文献
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — 2016年CoP17決議による附属書Iへの引き上げ、および2017年1月2日からの正式発効を確認。
+[^1]: [CITES CoP17 センザンコウ決定｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — 2016年のCoP17決議で附属書Iに掲載されたことを確認し、2017年1月2日に正式に発効した。
 
-[^2]: [IUCN レッドリスト：タイワンセンザンコウ](https://www.iucnredlist.org/species/12764/123589684) — タイワンセンザンコウの生態習性と食餌需要に関する文献（アリの捕食量の推定は研究により差異あり）。
+[^2]: [IUCNレッドリスト：チャイニーズパンゴリン](https://www.iucnredlist.org/species/12764/123589684) — チャイニーズパンゴリンの生態習性と食物要求に関する文献（アリの摂取量推定は研究によって異なる）。
 
-[^3]: [屏東科技大学野生動物保全研究所](https://www.npust.edu.tw/) — 孫敬閔およびその研究チームによるセンザンコウの標識放鳥研究の背景。
+[^3]: [屏東科技大学野生動物保全研究所](https://www.npust.edu.tw/) — 孫敬閔氏およびその研究チームによるセンザンコウの放獣研究の背景。
 
-[^4]: [台湾生物多様性ネットワーク](https://www.tbn.org.tw/) — 台湾のセンザンコウの分布と市民科学の報告データベース。
+[^4]: [台湾生物多様性ネットワーク](https://www.tbn.org.tw/) — 台湾産センザンコウの分布と市民科学による報告データベース。
 
 [^5]: [台北市立動物園保全研究](https://www.zoo.gov.taipei/) — センザンコウの人工繁殖技術と保全成果。
 
