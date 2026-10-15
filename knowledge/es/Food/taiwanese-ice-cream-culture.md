@@ -1,14 +1,14 @@
 ---
 title: 'Cultura de los postres helados en Taiwán'
-description: 'Desde el hielo de mango de Yujing hasta la revolución del hielo picado, una exploración de la cultura única de comer helado en invierno en Taiwán'
+description: 'El amor de los taiwaneses por los postres helados es poco común en el mundo, ya que los locales se llenan incluso en invierno. Esta cultura se remonta a la introducción de las técnicas de fabricación de hielo durante el período de ocupación japonesa, pasando por la popularización del hielo raspado tras la guerra y la aparición del hielo de nieve (snowflake ice). En Taichung, Chen Xi desarrolló el helado de judías dulces basándose en el postre japonés de cuatro frutas; el helado de mango de Yujing se hizo famoso en el extranjero e incluso impulsó la industria pesquera de refrigeración. Es una historia de evolución con hitos temporales concretos.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'Postre helado',
+    'postres helados',
     'helado de mango',
-    'hielo picado',
-    'sorbetes',
+    'hielo de nieve',
+    'hielo raspado',
     'ICE MONSTER',
   ]
 subcategory: '烘焙與甜點'
@@ -17,15 +17,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Helado de mango de Taipéi'
+imageAlt: 'Helado de mango en Taipéi'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T16:00:51+08:00'
+translatedAt: '2026-10-15T20:40:31.348982+00:00'
 ---
 
 # Cultura de los postres helados en Taiwán

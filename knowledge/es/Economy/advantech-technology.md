@@ -1,9 +1,9 @@
 ---
 title: 'Advantech'
-description: 'Líder mundial en computadoras industriales y pionera en sistemas inteligentes de Internet de las cosas nacida en Taiwán'
+description: 'Empresa de computadoras industriales fundada en 1983 por tres ex ingenieros de HP, hoy es la empresa líder mundial en computadoras industriales, enfocada en soluciones de IoT industrial y computación de borde, con presencia en 27 países y casi 9.000 empleados; desde sus inicios como fabricante de computadoras industriales, se transformó en el «impulsor de un planeta inteligente», proporcionando tecnología central para la transformación digital en sectores como manufactura, salud, transporte y comercio minorista.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Economía', 'Empresa', 'Computadoras industriales', 'IoT']
+tags: ['Economía', 'Empresa', 'Computadora industrial', 'IoT']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:47:22.444751+00:00'
+translatedAt: '2026-10-15T21:43:26.263987+00:00'
 ---
 
 > **Resumen en 30 segundos**
