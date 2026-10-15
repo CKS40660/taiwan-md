@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: 'a3a2c2ab6'
-sourceContentHash: 'sha256:3a77d655efe88c48'
-sourceBodyHash: 'sha256:18242d925dc68ac7'
-translatedAt: '2026-10-13T08:20:41.148654+00:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:de4fd6732d209052'
+sourceBodyHash: 'sha256:301572e76bca4d98'
+translatedAt: '2026-10-15T01:09:24.972721+00:00'
 ---
 
 # Jimmy Liao: Ilustrasi Penyembuhan dari Gelas Akuarium — Kisah Penyintas Leukemia Seorang Seniman
@@ -121,37 +121,38 @@ Ikan yang tersenyum itu juga berenang ke layar lebar. Pada tahun 2006, 《微笑
 
 > 🎙️ **Catatan Kurator**: Jika keempat buku ini disejajarkan, akan ditemukan bahwa label "healing" sebenarnya membalikkan hubungan sebab-akibat. Pemahaman umum adalah "gambar Jimmy sangat lucu, sehingga membuat orang rileks". Namun urutannya justru sebaliknya: pembaca merasa terobati karena ia terlebih dahulu berjalan dengan jujur memasuki tempat-tempat paling gelap seperti isolasi, kematian, dan kehilangan, barulah kemudian keluar dengan membawa sedikit cahaya. Penghiburan menjadi efektif justru karena itu diberikan oleh seseorang yang benar-benar pernah berada di dalam akuarium kaca tersebut. Lu Rong-chih mengatakan bahwa karya-karyanya "tidak pernah bersifat realisme, melainkan selalu membawa nada mimpi dan surealisme". Lapisan mimpi tersebut adalah sebuah teknik penerjemahan: mengubah kenyataan yang tak tertahankan menjadi bentuk yang dapat terus dibaca oleh seseorang.
 
-## Jimmy Liao Keluar dari Halaman
+## Jimmy Liao yang Keluar dari Halaman Buku
 
-Mungkin tempat paling kontra-intuitif dari Jimmy Liao adalah di sini: penyakit paling pribadi, kesendirian seorang lelaki di ruang rawat inap, akhirnya berkembang menjadi bahasa publik yang dapat direplikasi tanpa batas, dipentaskan di berbagai panggung.
+Hal yang paling tidak intuitif dari Jimmy Liao mungkin ada di sini: sebuah penyakit yang sangat pribadi, kesendirian seseorang di ruang perawatan, pada akhirnya tumbuh menjadi sebuah bahasa publik yang dapat direplikasi tanpa batas dan dipentaskan di berbagai panggung.
 
-Film adalah jalan pertama, dan sekaligus ada empat film. Film Turning Left Turning Right tahun 2003 disutradarai bersama oleh Pong Chik-wah dan Wai Ka-fai dari Hong Kong, dibintangi Takeshi Kaneshiro dan Maggie Cheung, adalah film bahasa Mandarin investasi pertama Warner Brothers, dengan lagu tema "Bertemu" oleh Jolin Tsai. [^21] Film Subway tahun yang sama disutradarai oleh Ma Wei-hao dan diproduksi oleh Wong Kar-wai, dengan musik oleh Lo Kien. [^22] Starry Sky tahun 2011 disutradarai oleh Lim Shu-yu, diadaptasi dari buku gambar dengan nama yang sama tahun 2009, dinominasikan untuk empat kategori di Ajang Penghargaan Film Emas Golden Horse ke-49. [^23] Ada juga satu film yang mudah terlewatkan: The Floating Landscape tahun 2003, disutradarai oleh Lai Miao-xue, dinominasikan untuk kompetisi resmi Venice Film Festival, ilustrasi di film ini digambar tangan oleh Jimmy Liao. [^24]
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="Versi Lengkap Resmi MV Starry Sky Mayday (Lagu Tema Film Starry Sky)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-Teater musikal adalah jalan lain, dan membentuk ensemble yang stabil: sutradara Lai Huan-xiung dikombinasikan dengan musisi Chen Jian-qi. Dari Subway tahun 2003 (dimainkan oleh Chen Chi-chen sebagai gadis buta), hingga Lucky Star tahun 2005, Turning Left Turning Right tahun 2008 yang pertama kali di Taipei Arena, hingga Time Cinema tahun 2018, buku gambar Jimmy Liao satu demi satu diterjemahkan menjadi nyanyian dan cahaya. [^25] Pada tahun 2025, bahkan sirkus datang: The 100 Times Brave Boy of Jimmy Liao yang disutradarai Lin Hwai-min, mengklaim sebagai pertunjukan teater sirkus tetap pertama Taiwan. [^26]
-
-Keluar dari teater, gambar-gambarnya masih merembes ke kota itu sendiri. Di platform stasiun metro Nan'gang Taipei digantung enam gambar dari Subway; pada tahun 2014 Sinyi Realty membuat Moon Forgot menjadi "Moon Bus" yang benar-benar berjalan, berlari di Xinyi Road lima bagian. [^27] Drama televisi juga datang untuk memiliki bagian: Turning Left Turning Right kemudian difilmkan di China (2004) dan Thailand (2020), Subway difilmkan sebagai drama televisi Taiwan (2006). [^50] Cerita yang sama tentang terlewatkan, ditukar dengan aktor yang berbeda, bahasa yang berbeda, diputar kembali berkali-kali.
-
-Kesendirian juga melampaui bahasa. Buku-buku Jimmy Liao diterjemahkan ke sekitar 20 bahasa, dekat 200 edisi bahasa asing. [^28] Sejak 2014 dia secara konsisten masuk dalam sembilan kali nominasi Penghargaan Memori Lindgren (ALMA), yang disebut sebagai "Penghargaan Nobel Literatur Anak-anak"; pada tahun 2020 dengan Time Cinema dia memenangkan Penghargaan Khusus Film Kategori Bologna Children's Book Fair, para juri menyebutnya sebagai "seorang seniman yang tidak dapat ditantang" (an undisputed master of his craft). [^44] Dari tahun 2019 hingga 2020, dia menyelenggarakan pameran besar skala pertama Eropa di Museo ABC Madrid, menampilkan 22 karya, 174 gambar asli. [^45] Seseorang yang melukis dalam bahasa Taiwan ini, melukis untuk dirinya sendiri, akhirnya membuat pengunjung Madrid berdiri di depan sketsa asli yang dia lukis setelah sakit. Penjelasannya sendiri untuk pembaca internasional sangat ringan: "Penyakit serius mengubah pandangan saya tentang banyak hal" "Saya hanya melukis gambar yang ada di hati saya." [^46]
-
-Dia juga tidak berhenti. Pada tahun 2023, galeri Eslite menyelenggarakan pameran pribadi Jimmy Liao, pertama kali menampilkan lukisan minyaknya. [^49] Dari desainer periklanan, penulis buku gambar, hingga dua puluh tahun kemudian mengambil kuas cat minyak, ikan di akuarium kaca itu terus menggunakan cara yang berbeda untuk mengatakan hal yang sama.
+Film adalah jalan pertama, dan ia merambahnya sekaligus melalui empat karya. Film 《向左走·向右走》 tahun 2003 disutradarai bersama oleh Johnnie To dan Wai Ka-fai dari Hong Kong, dibintangi oleh Takeshi Kaneshiro dan Gigi Leung, serta merupakan film berbahasa Mandarin pertama yang diinvestasikan oleh Warner Bros.; lagu temanya dalam bahasa Mandarin adalah 〈遇見〉 oleh Stefanie Sun. [^21] Pada tahun yang sama, 《地下鐵》 disutradarai oleh Ma Wei-hao dengan produser Wai Ka-fai, dan musiknya digarap oleh Lo Kin. [^22] Film 《星空》 tahun 2011 disutradarai oleh Lin Shu-yu, diadaptasi dari buku bergambar dengan judul yang sama tahun 2009, dan masuk dalam nominasi empat kategori di Golden Horse Awards ke-49. [^23] Ada satu lagi yang mudah terlewatkan: 《戀之風景》 tahun 2003, disutradarai oleh Li Miao-xue, yang masuk dalam kompetisi resmi Festival Film Venesia, dengan ilustrasi di dalamnya digambar langsung oleh Jimmy Liao. [^24]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="Pengantar Seri Animasi Mini Jimmy Liao Butterfly Boy Little Cloak (Saluran Resmi Jimmy Liao)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="五月天〈星空〉MV 官方完整版（電影《星空》主題曲）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Mendukung semua ini adalah Mose International (Jimmy S.P.A.) yang didirikan pada tahun 2000, dan pada tahun 2014 Mose Strategy International mengambil alih film, pameran, dan seni publik. [^29] Seseorang yang melukis tokoh-tokoh kecil di ruang rawat inap, akhirnya membangun kerajaan yang melintasi film, teater musikal, sirkus, platform metro, dan animasi. Perbandingan yang patut diingat adalah: sumber dari semua ini adalah kesendirian paling pribadi yang tidak dapat dibagikan, terpisah oleh kaca; sementara hasilnya adalah bahasa yang siapa pun bisa masuki, lihat, dan sentuh.
+Teater musikal adalah jalan lainnya, dan ia telah membentuk tim produksi yang stabil: sutradara Li Huan-hsiung berkolaborasi dengan musisi Chen Chien-chi. Dari 《地下鐵》 tahun 2003 (di mana Cheer Chen berperan sebagai gadis buta), hingga 《幸運兒》 tahun 2005, lalu 《向左走·向右走》 yang pertama kali tampil di Taipei Arena pada 2008, hingga 《時光電影院》 pada 2018, buku-buku bergambar Jimmy Liao telah diterjemahkan satu demi satu menjadi lagu dan cahaya. [^25] Menjelang tahun 2025, bahkan sirkus pun hadir: 《幾米男孩的 100 次勇敢》 yang disutradarai oleh Lin Hwai-min, diklaim sebagai pertunjukan sirkus tetap pertama di Taiwan. [^26]
+
+Keluar dari teater, ilustrasinya juga meresap ke dalam kota itu sendiri. Di peron Stasiun Nangang MRT Taipei, terpajang enam lukisan dari 《地下鐵》; pada tahun 2014, Sin Yi Realty membuat sebuah "Bus Bulan" yang benar-benar bisa berjalan berdasarkan buku 《月亮忘記了》, yang melintasi Section 5 Jalan Xinyi. [^27] Serial televisi juga turut mengambil bagian: 《向左走·向右走》 telah diadaptasi ulang di Tiongkok (2004) dan Thailand (2020), sementara 《地下鐵》 dibuat menjadi serial televisi di Taiwan (2006). [^50] Cerita yang sama tentang kehilangan, dengan aktor yang berbeda dan bahasa yang berbeda, dipentaskan berulang kali.
+
+Kesendiriannya juga melampaui batas bahasa. Buku-buku Jimmy Liao telah diterjemahkan ke dalam sekitar 20 bahasa, dengan hampir 200 versi bahasa asing. [^28] Sejak tahun 2014, ia telah masuk nominasi penghargaan Astrid Lindgren Memorial Award (ALMA), yang dijuluki sebagai "Nobel Sastra Anak" selama sembilan kali berturut-turut; pada tahun 2020, melalui 《時光電影院》, ia meraih Penghargaan Khusus Kategori Film di Ragazzi Prize dalam pameran buku Bologna, di mana para juri menyebutnya sebagai "seorang maestro yang tak terbantahkan dalam bidangnya" (_an undisputed master of his craft_). [^44] Dari tahun 2019 hingga 2020, ia mengadakan pameran tunggal besar pertamanya di Eropa di Museo ABC, Madrid, yang menampilkan 22 karya dan 174 karya asli. [^45] Seseorang yang menggunakan bahasa Taiwan dan menggambar untuk dirinya sendiri, pada akhirnya membuat penonton di Madrid berdiri di depan naskah asli yang ia gambar setelah masa sakitnya. Penjelasannya sendiri kepada pembaca internasional sangat bersahaja: "Sebuah penyakit besar mengubah pandangan saya terhadap banyak hal" dan "Saya hanya menggambar gambar-gambar yang ada di dalam hati saya". [^46]
+
+Ia pun tidak berhenti. Pada tahun 2023, Eslite Gallery mengadakan pameran tunggal Jimmy Liao yang pertama kali menampilkan lukisan minyaknya. [^49] Dari seorang pengarah seni iklan dan penulis buku bergambar, hingga dua puluh tahun kemudian memegang kuas cat minyak, ikan di dalam akuarium kaca itu terus menggunakan cara yang berbeda untuk menceritakan hal yang sama.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="幾米《小蝴蝶小披風》迷你動畫影集前導（幾米官方頻道）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Melanjutkan semua ini adalah Jimmy S.P.A. (墨色國際) yang didirikan pada tahun 2000, dan pada tahun 2014, Moce International (墨策國際) mengambil alih bidang film, pameran, dan seni publik. [^29] Seseorang yang menggambar sosok-sosok kecil di ruang perawatan, pada akhirnya membangun sebuah domain yang mencakup film, teater musikal, sirkus, MRT, hingga animasi. Kontras yang patut diingat adalah: sumber dari semua ini adalah kesendirian di balik kaca yang tidak dapat dibagikan; sedangkan hasilnya adalah sebuah bahasa yang dapat dimasuki, dilihat, dan disentuh oleh siapa saja.
 
 ```tw-stat
-4 | Film adaptasi | Termasuk film kompetisi Venice Film Festival
-4 | Teater musikal Lai Huan-xiung × Chen Jian-qi | 2003–2018
-~20 | Bahasa penerjemahan | Dekat 200 edisi bahasa asing
+4 | Film adaptasi | Termasuk film kompetisi Festival Film Venesia
+4 | Teater musikal Li Huan-hsiung × Chen Chien-chi | 2003–2018
+~20 | Bahasa terjemahan | Hampir 200 versi bahasa asing
+Sumber: Situs resmi Jimmy Liao (jimmyspa.com), OPENTIX, Wikipedia, serta kompilasi data festival film dan penerbit.
 ```
 
-> **Sumber Data**: Situs web resmi Jimmy Liao (jimmyspa.com), OPENTIX Teater Nasional, Wikipedia, data teater film dan penerbit berbagai festival diatur kembali.
+> **Sumber Data**: Situs resmi Jimmy Liao (jimmyspa.com), OPENTIX, Wikipedia, serta kompilasi data festival film dan penerbit.
 
 ## Kembali ke Luodong
 

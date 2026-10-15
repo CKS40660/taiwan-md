@@ -1,14 +1,16 @@
 ---
-title: 'Ed Chi (紀懷新): Orang Taiwan yang Mengajarkan AI "Berpikir Langkah demi Langkah", Membawa Psikologi Kognitif ke dalam Mesin'
-description: 'Ed Chi adalah Wakil Presiden Penelitian Google DeepMind dan co-author paper Chain of Thought yang membuat AI belajar "berpikir langkah demi langkah". Orang Taiwan kelahiran Tamsui ini mengubah konsep "bagaimana manusia belajar" dari psikologi kognitif (teori skema Piaget) menjadi metode mengajarkan mesin berpenalar. Terobosan mengubah AI ini hanya memakan biaya sekitar lima ribu dolar AS, karena masalahnya dari awal bukanlah soal kekuatan komputasi.'
+title: 'Ed Chi: Orang Taiwan yang Mengajarkan AI untuk "Berpikir Langkah demi Langkah", Membawa Psikologi Kognitif ke dalam Mesin'
+description: 'Ed Chi adalah Wakil Presiden Penelitian Google DeepMind, serta penulis bersama makalah Chain of Thought yang membuat AI belajar "berpikir langkah demi langkah". Orang Taiwan yang besar di Tamsui ini mengubah konsep "bagaimana manusia belajar" dalam psikologi kognitif (teori skema Piaget) menjadi metode mengajarkan mesin berpenalar. Terobosan yang mengubah AI ini hanya menghabiskan sekitar $5.000 AS, karena masalah itu memang bukanlah sesuatu yang bisa diselesaikan dengan kekuatan komputasi.'
 date: 2026-06-27
 category: 'People'
 tags:
   [
     'Tokoh',
     'Ed Chi',
+    'Ed Chi',
     'AI',
     'Google DeepMind',
+    'Rantai Pemikiran',
     'Chain of Thought',
     'Psikologi Kognitif',
     'Tamsui',
@@ -21,16 +23,20 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/紀懷新.md'
 image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
-  [
-    "{'id': 152, 'platform': 'threads', 'date': '2026-06-27', 'url': 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'}",
-    "{'id': 153, 'platform': 'x', 'date': '2026-06-27', 'url': 'https://x.com/taiwandotmd/status/2070809073143144717'}",
-  ]
+  - id: 152
+    platform: 'threads'
+    date: '2026-06-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'
+  - id: 153
+    platform: 'x'
+    date: '2026-06-27'
+    url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de83'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-07-27T10:39:02+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:52:07.580540+00:00'
 ---
 
 Saat seluruh dunia mengejar AI dengan kekuatan komputasi ratusan juta dolar, ada satu paper yang mengubah cara mesin berpenalar, dengan biaya hanya sekitar lima ribu dolar.
@@ -106,33 +112,34 @@ Riset utamanya di PARC disebut "information foraging" (覓食資訊). Konsepnya:
 Sumber: Wikipedia para sarjana, arXiv 2201.11903
 ```
 
-## Bukan Lebih Banyak Data, Tapi Lebih Manusia
+## Bukan Lebih Banyak Data, Tapi Lebih Seperti Manusia
 
-2011, ia tinggalkan PARC ke Google. Alasannya praktis: "Riset murni saja tidak cukup, harus bikin hal aplikatif." Model PARC "riset dasar sangat dalam, tapi tak bisa jadi produk", ia lihat sendiri.
+Pada 2011, ia meninggalkan Palo Alto menuju Google. Alasannya sangat praktis: «Hanya melakukan riset tidak cukup, harus juga membuat hal-hal aplikatif.» Pola Xerox PARC yang «riset dasar sangat mendalam, namun tidak bisa diubah menjadi produk» dilihatnya dengan eigenen mata.
 
-Di Google, ia dulu riset analisis data jaringan, 2015–2017 memimpin tim bangun ulang sistem rekomendasi neural network YouTube, 2017 jadi Principal Scientist Google Brain memimpin 70 orang, 2021 naik jadi Distinguished Scientist memimpin 120 orang, kemudian jadi VP Research DeepMind [^6]. Deretan jabatan di baliknya, sebenarnya satu metodologi gen yang sama terus terektensi: information foraging adalah model "manusia cari apa", sistem rekomendasi adalah model "manusia mau lihat apa", sampai Chain of Thought, jadi model "manusia berpenalar bagaimana". Dari kognisi manusia, mendorong ke mesin.
+Di Google, ia pertama kali melakukan analisis data jaringan, pada 2015 hingga 2017 memimpin tim membangun ulang sistem rekomendasi jaringan saraf YouTube, pada 2017 menjadi Chief Scientist Google Brain memimpin tim 70 orang, pada 2021 naik menjadi Distinguished Scientist memimpin hingga 120 orang, dan kemudian menjadi VP Research DeepMind[^6]. Di balik deretan jabatan itu, sebenarnya ada gen metodologi yang sama yang terus berkembang: information foraging adalah model «bagaimana manusia mencari hal», sistem rekomendasi adalah model «apa yang ingin ditonton manusia», dan sampai pada Chain of Thought, menjadi model «bagaimana manusia berpenalaran». Dari kognisi manusia, selangkah demi selangkah menuju mesin.
 
-Titik balik Chain of Thought, muncul dari ketidakpuasannya pada machine learning arus utama saat itu. "Kenapa harus pakai begitu banyak data, mesin baru benar-benar bisa belajar?" Ia mulai pikir, "Bisa tidak pakai metode psikologi kognitif untuk mengajarkan mesin belajar." [^7]
+Titik balik Chain of Thought terjadi dari ketidakpuasannya terhadap machine learning utama saat itu. «Mengapa harus menggunakan begitu banyak data agar mesin ini benar-benar bisa belajar?» Ia mulai berpikir, «Bisakah kita menggunakan metode psikologi kognitif untuk mengajarkan mesin belajar?»[^7]
 
-Lalu ia kembali ke konsep itu. "Ide ini sebenarnya dari... era 1960-an 1970-an, namanya teori skema. Artinya dasarnya: kalau orang bisa pakai satu template (cetakan) pecahkan masalah, mungkin kita juga bisa pakai metode ini ajarkan mesin belajar. Jadi Chain of Thought sebenarnya mulai dari ide ini." Pembawa wawancara tanya apakah teori skema Piaget, ia jawab: "Ya, tepat, ide teori skema Piaget. Hal itu sebenarnya saya pelajari saat SMA, kuliah, karena bantu ibu tulis tesis doktor psikologi pendidikan, jadi kemudian perlahan hal-hal ini tersambung." [^8]
+Maka ia kembali ke konsep itu. «Ide ini sebenarnya berasal dari… ide yang muncul pada era 1960-an 1970-an, disebut teori skema. Artinya pada dasarnya adalah, jika seseorang bisa menggunakan sebuah templat (template) untuk memecahkan suatu masalah, maka mungkin kita juga bisa menggunakan metode ini untuk mengajarkan mesin belajar. Jadi Chain of Thought sebenarnya baru saja dimulai dari ide ini.» Pembawa wawancara menanyakan apakah itu skema Piaget, ia menjawab: «Ya, tepatnya ide skema Piaget. Hal itu sebenarnya adalah yang saya pelajari saat SMA dan kuliah, karena membantu ibu saya menulis disertasi doktornya di bidang psikologi pendidikan, jadi perlahan-lahan hal-hal itu tersambung.»[^8]
 
-Biji di meja belajar, bermekah.
+Benih di atas meja tulis, bermekaran.
 
-![Figure 1 Paper Chain of Thought: kiri prompt standar salah, kanan prompt Chain of Thought tulis langkah penalaran (highlight biru) lalu jawab benar](/article-images/people/chain-of-thought-figure1.webp)
+![Chain of Thought Paper Figure 1: Sisi kiri prompt standar salah jawab, sisi kanan prompt Chain of Thought tulis langkah penalaran dulu (ditandai latar biru) lalu beri jawaban benar](/article-images/people/chain-of-thought-figure1.webp)
 
-_Gambar paling terkenal di paper Chain of Thought: kiri tanya cara biasa, model salah hitung; kanan cuma di contoh cuma ditambah segmen penalaran (bagian highlight biru), model jawab benar. Bedanya bukan kekuatan komputasi, tapi ada tidaknya "tuliskan pikiran langkah demi langkah". Gambar dari Wei et al., 2022._
+_Gambar paling terkenal dalam paper Chain of Thought: sisi kiri ditanya dengan cara biasa, model salah hitung; sisi kanan hanya menambah satu paragraf proses penalaran di contoh (bagian latar biru), model justru menjawab benar. Perbedaan tidak ada di daya komputasi, tapi pada apakah «pikiran ditulis langkah demi langkah». Gambar dari Wei et al., 2022._
 
-Dan hampir tak butuh biaya. "Tahu tidak total kekuatan komputasi kita berapa? Kira-kira cuma lima ribu dolar. Karena masalah itu bukan yang bisa diselesaikan kekuatan komputasi, tapi mode berpikir lain. Saat riset itu, awalnya dasarnya tidak ada dana, cuma kita sendiri idekan dari hampa." [^1]
+Dan itu hampir tidak memakan biaya apapun. «Tahu berapa total daya komputasi yang kita gunakan? Kira-kira hanya 5.000 dolar AS daya komputasi. Karena masalah itu bukan masalah yang bisa diselesaikan dengan daya komputasi, melainkan mode berpikir yang lain. Saat kita melakukan penelitian itu, awalnya dasarnya tidak ada dana, hanya kita sendiri yang memikirkan dari nol.»[^1]
 
 ```tw-versus
-Jalur AI Arus Utama | Jalur Chain of Thought
-Model lebih besar, parameter lebih banyak | Tak perlu latih ulang model
-Masukkan data lebih banyak | Di contoh tambah beberapa baris proses penyelesaian
-Perang kekuatan komputasi ratusan juta dolar | Kira-kira lima ribu dolar
-Kejar skala dengan kekuatan brutal | Pinjam psikologi kognitif soal manusia belajar
+Jalur AI Utama | Jalur Chain of Thought Ini
+Model lebih besar, parameter lebih banyak | Tidak perlu melatih ulang model
+Memasukkan lebih banyak data | Menambah beberapa baris proses pemecahan di contoh
+Persenjataan daya komputasi ratusan juta dolar | Sekitar 5.000 dolar
+Kekejaman mengejar skala | Meminjam psikologi kognitif cara manusia belajar
+Sumber: Wawancara VK EP122 Ji Huaxin (paper Chain of Thought ~5.000 dolar daya komputasi, mengajar mesin dengan metode psikologi kognitif) serta liputan riwayat penelitiannya[^1][^6][^7]
 ```
 
-Inilah yang paling ingin disampaikan artikel ini: kunci mengajarkan AI berpenalar, bukan lebih banyak kekuatan komputasi, tapi lebih manusia: dan "lebih manusia" ini, tumbuh di tesis doktor psikologi pendidikan yang ditulis anak Tamsui bantu ibunya.
+Inilah hal yang paling ingin disampaikan artikel ini: kunci agar AI belajar berpenalaran, bukan daya komputasi lebih banyak, melainkan lebih seperti manusia: dan «lebih seperti manusia» ini tumbuh dari disertasi doktor psikologi pendidikan yang ditulis oleh seorang anak Tamsui membantu ibunya.
 
 ## Ia Bilang ke Bawahan: Jangan Pakai Metode Itu, Coba Skema
 
@@ -171,24 +178,25 @@ _Ed Chi di Sidechat E350 membahas kacamata pintar, standar "nenek" AGI, dan pelu
 
 Di tempat wawancara, ia keluarkan dari saku prototipe kacamata pintar berbeban Project Astra, bilang ini "seharusnya" unit pertama di Taiwan. Ia bicara peluang terbesar Taiwan di mana. Hardware salah satunya: "Taiwan di setengah konduktor, khususnya manufaktur, posisinya sangat sulit digoyangkan." Tapi bicara berbelok, "Kalau Taiwan bisa integrasi hardware dan software dengan baik, memanfaatkan kemampuan large language model, memang peluang sangat besar." [^14]
 
-## Taiwan Kenal Chip, Tak Kenal Otak Ini
+## Taiwan Mengenal Chip, Tidak Mengenal Otak Ini
 
-Sampai sini, tak bisa hindari satu pertanyaan: apakah ia dihitung orang Taiwan?
+Sampai di sini, ada satu pertanyaan yang tak terhindarkan: apakah dia dianggap orang Taiwan?
 
-Fakta di depan mata: ia ~15 tahun meninggalkan Taiwan, SMA, kuliah, pascasarjana semuanya di AS, seluruh karir di Silicon Valley. Ia Taiwanese American, orang lahir Taiwan, dewasa sukses di AS. Kalau ada yang bilang topi "Taiwan yang gemilang" ini mengonsumsi orang yang sudah lama migrasi, skeptisisme ini tidak sia-sia.
+Fakta ada di depan mata: ia meninggalkan Taiwan sekitar usia 15 tahun, sekolah menengah atas, universitas, hingga pascasarjana semuanya di Amerika Serikat. Seluruh karirnya berada di Silicon Valley. Ia adalah **Taiwanese American**, seseorang yang lahir di Taiwan, dewasa dan berkembang di Amerika Serikat. Jika ada yang berkata gelar "Kebanggaan Taiwan" ini memanfaatkan seseorang yang sudah lama berhijrah, keraguan itu tidaklah sia-sia.
 
-Tapi sisi timbangan lain juga punya barang nyata. Ia wawancara pakai Mandarin, sendiri bilang "lahir Tamsui, orang Taiwan asli", tidak menghindar. Ia terus kembali Taiwan ceramah — Normal University, Chung Hsing, Yang Ming Chiao Tung semua ada jejaknya. Ia punya observasi konkret soal krisis perawatan lanjut Taiwan, posisi setengah konduktor, ekosistem startup AI, bahkan menyinggung Taiwan sudah ~15.000 pengguna pakai alat prediksi struktur protein DeepMind.
+Namun sisi lain timbangan juga memiliki substansi nyata. Ia memberikan wawancara dalam bahasa Tionghoa, proaktif mengatakan "lahir di Tamsui, asli Taiwan", tanpa terhindar. Ia terus kembali ke Taiwan untuk berpidato—NTNU, NCHU, NYCU semuanya menyimpan jejaknya. Ia memiliki observasi konkret mengenai dilemma perawatan jangka panjang Taiwan, posisi industri semikonduktor, ekosistem startup AI, bahkan menyebutkan bahwa Taiwan sudah memiliki sekitar 15.000 pengguna yang menggunakan alat prediksi struktur protein DeepMind.
 
-Yang paling menggambar posisinya "di dalam tapi di luar", adalah ucapan buat peneliti Taiwan: "Bagian riset ini, saya sebenarnya kembali Taiwan bertahun-tahun, setiap kali cerita, tapi tidak pernah lihat peneliti Taiwan... di sini risetnya tidak banyak. Riset yang tidak butuh banyak chip." [^15]
+Yang paling mampu menggambarkan posisinya yang "sekaligus di dalam dan di luar" adalah ucapan yang pernah ia sampaikan kepada peneliti Taiwan: "Bagian penelitian ini, sebenarnya saya kembali ke Taiwan bertahun-tahun, setiap kali saya bicara, tapi tidak pernah melihat pekerja peneliti Taiwan…… yang melakukan penelitian di bidang ini tidak banyak. Penelitian yang tidak butuh banyak chip." [^15]
 
-Di kalimat ini ada dua identitas tarik-menarik. Ia pakai "kembali Taiwan" bicara, sebagai orang yang merasa milik sini; tapi "tiap kali cerita tapi tidak ada yang kerjakan" lagi bawa rasa jarak outsider — seperti orang jauh dari rumah lama, pulang lihat sudut rumah tak pernah dibersihkan, cemas, tapi tak berdaya. Apakah ia "Taiwan yang gemilang", artikel ini tidak menutupkan keputusan. Fakta semua di sini, Anda sendiri menilai.
+Di dalam kalimat itu ada dua identitas yang saling tarik-menarik. Ia menggunakan frasa "kembali ke Taiwan" saat berbicara, sebagai orang yang menganggap dirinya milik tempat ini; namun "setiap kali bicara tapi tidak ada yang melakukan" juga membawa rasa jarak sebagai orang luar——seperti orang yang sudah lama meninggalkan rumah, kembali melihat suatu sudut rumah yang tidak pernah dibersihkan, cemas, namun tak berdaya. Apakah ia layak disebut Kebanggaan Taiwan, artikel ini tidak menarik kesimpulan untukmu. Fakta semua ada di sini, kamu sendiri yang menilai.
 
 > 📊 **Dia dalam Angka**
 
 ```tw-stat
-~ 5000 USD | Kekuatan komputasi paper Chain of Thought | Kontras industri ratusan juta USD
-~ 114.000 | Total sitasi Google Scholar | 82% dari 2021 ke atas
-13% → 83% | Akurasi OpenAI o1 soal Olimpiade Matematika | o1 eksplisit dibangun di atas Chain of Thought
+sekitar 5.000 USD | Daya komputasi yang digunakan paper Rantai Pemikiran | Berbanding daya komputasi industri ratusan juta USD
+sekitar 114.000 kali | Total sitasi Google Scholar | di mana 82% berasal dari 2021 ke atas
+13% → 83% | Akurasi OpenAI o1 pada soal Olimpiade Matematika | o1 secara eksplisit dibangun di atas Rantai Pemikiran
+Sumber: Wawancara Ed Chi VK EP122, Statistik Sitasi Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
 _Sumber: Wawancara Ed Chi VK EP122, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
