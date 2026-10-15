@@ -1513,6 +1513,18 @@ python3 scripts/tools/verify_internal_links.py
 
 ⛔ **不要自己手跑 `pgrep -f 'astro build'` 代替那道檢查**（2026-10-03 maintainer-am 刪掉本段原本就寫著的那句）：那個 pattern 會命中「正在等 build 結束」的等待迴圈自己——`until ! pgrep -f 'astro build'; do sleep 15; done` 的命令列裡就有 `astro build` 這幾個字，所以它永遠等得到自己、永遠不結束。本班開場實測：裸 `pgrep -f 'astro build'` 命中 9 個程序，其中 7 個是前幾班留下的這種不死迴圈（3 個已經活了快兩天），真正的 build 只有 2 個；尺自己那把 `(^|[\s/])astro(\.m?js)?\s+build\b` 命中 2 個，完全正確（引號與 `.*` 都不是 `[\s/]`，所以不自我命中）。**手跑那句的代價剛好是這段話要防的反面**：它回報「build 在跑」，當班照字面讀就會 skip 斷鏈 audit——跟 09-28〜09-30 連三輪 skip 同一個症狀、不同的成因。要等 build 就用不自我命中的寫法（`pgrep -f 'astro[ ]build'`），要判能不能讀就直接跑尺看它回 `BUILDING` 還是給讀數。LESSONS `wait-loop-polls-for-a-pattern-its-own-command-line-contains`。
 
+⚠️ **在隔離 worktree 裡跑這支尺，先補兩個 gitignored 衍生檔**（2026-10-15 twmd-maintainer-daily）：上一段說「這條路不會重算 `public/api/*` 與 `src/data/*`」，那句話在**主工作樹**成立（那些檔 06:00 由 data-refresh 產出、就躺在那裡）。新開的 worktree 沒有它們，而 `src/pages/fork-graph.astro` 直接 `import '../data/fork-graph.json'`，所以 `npm run sync:build` 在 build 第 663ms 就死在 `UNRESOLVED_IMPORT`，連 `dist/` 都不會生出來。接著 `verify_internal_links.py` 會回 **NOT-MEASURED（掃到 0 頁 0 連結）並明寫「這不是通過」**——尺的 fail-loud 正確，但當班很容易把它讀成「worktree 不能跑斷鏈掃描」然後 skip。
+
+```bash
+# worktree 內，從主工作樹補兩個 gitignored 衍生檔（唯讀主樹，不動它）
+cp <main-tree>/src/data/fork-graph.json <main-tree>/src/data/git-info.json src/data/
+npm run sync:build && python3 scripts/tools/verify_internal_links.py
+```
+
+缺的就是這兩個（`git-info.json` 由 prebuild 的 git pass 產出、`fork-graph.json` 由 fork-census 產出，兩個都在 `.gitignore` 裡）。**不要為此改回 `npm run build`**，那會把 `prebuild:status` 的共用檔競用帶回來，也就是上一段整段要避開的東西。
+
+---
+
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 
 當 cycle 出現以下訊號 → append [LESSONS-INBOX.md §未消化清單](../semiont/LESSONS-INBOX.md)：
