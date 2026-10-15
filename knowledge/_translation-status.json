@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T22:28:35+08:00",
-    "zhCommitHead": "92d537529",
+    "lastUpdated": "2026-10-15T22:49:13+08:00",
+    "zhCommitHead": "8ab472455",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,13 +20,21 @@
     "summary": {
       "en": {
         "total_zh": 1135,
+        "fresh": 1100,
+        "stale": 1,
+        "metadata_stale": 32,
+        "missing": 2,
+        "orphan": 0
+      },
+      "ja": {
+        "total_zh": 1135,
         "fresh": 1099,
         "stale": 1,
         "metadata_stale": 33,
         "missing": 2,
         "orphan": 0
       },
-      "ja": {
+      "ko": {
         "total_zh": 1135,
         "fresh": 1098,
         "stale": 1,
@@ -34,35 +42,27 @@
         "missing": 2,
         "orphan": 0
       },
-      "ko": {
-        "total_zh": 1135,
-        "fresh": 1097,
-        "stale": 1,
-        "metadata_stale": 35,
-        "missing": 2,
-        "orphan": 0
-      },
       "es": {
         "total_zh": 1135,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 2,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1135,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 1,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 2,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1135,
-        "fresh": 1092,
+        "fresh": 1093,
         "stale": 5,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       },
@@ -76,41 +76,41 @@
       },
       "pt": {
         "total_zh": 1135,
-        "fresh": 1099,
+        "fresh": 1101,
         "stale": 0,
-        "metadata_stale": 34,
+        "metadata_stale": 32,
         "missing": 2,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1086,
+        "fresh": 1087,
         "stale": 6,
-        "metadata_stale": 41,
+        "metadata_stale": 40,
         "missing": 2,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1090,
+        "fresh": 1091,
         "stale": 4,
-        "metadata_stale": 39,
+        "metadata_stale": 38,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 3,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1093,
+        "fresh": 1094,
         "stale": 4,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       }
@@ -14988,20 +14988,18 @@
         "ja": {
           "path": "ja/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "dba1a13f6",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "translatedAt": "2026-10-15T20:17:53+08:00",
           "translationLastCommit": "e04e2e2f",
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12220,
+          "bytes": 15297,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwanese-companies-quanta-computer.md",
@@ -15060,20 +15058,18 @@
         "vi": {
           "path": "vi/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "dba1a13f6",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-09-19T01:37:22+08:00",
+          "translatedAt": "2026-10-15T20:17:59+08:00",
           "translationLastCommit": "2283d5b9",
           "translationLastModified": "2026-09-19T07:44:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14818,
+          "bytes": 16264,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwanese-companies-quanta-computer.md",
@@ -19608,8 +19604,8 @@
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
           "translatedAt": "2026-10-15T20:17:58+08:00",
-          "translationLastCommit": "0cefe51a",
-          "translationLastModified": "2026-10-10T23:13:51+08:00",
+          "translationLastCommit": "8ab47245",
+          "translationLastModified": "2026-10-15T22:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 22295,
@@ -19706,20 +19702,18 @@
         "ru": {
           "path": "ru/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:37+08:00",
+          "translatedAt": "2026-10-15T20:18:06+08:00",
           "translationLastCommit": "95fea6c7",
           "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 33722,
+          "bytes": 31226,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -20828,8 +20822,8 @@
           "sourceContentHash": "sha256:5226e0cd696e818f",
           "sourceBodyHash": "sha256:3697d708565efd02",
           "translatedAt": "2026-10-15T20:17:58+08:00",
-          "translationLastCommit": "84e850de",
-          "translationLastModified": "2026-09-21T03:37:44+08:00",
+          "translationLastCommit": "8ab47245",
+          "translationLastModified": "2026-10-15T22:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 23410,
@@ -34006,20 +34000,18 @@
         "fr": {
           "path": "fr/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "3e08bf82b",
+          "sourceCommitSha": "a520d024d",
           "sourceContentHash": "sha256:ef6914cecff85dfb",
           "sourceBodyHash": "sha256:6cc55941dd179c34",
-          "translatedAt": "2026-10-03T02:34:18+08:00",
+          "translatedAt": "2026-10-15T20:17:58+08:00",
           "translationLastCommit": "7137c881",
           "translationLastModified": "2026-10-03T03:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 19912,
+          "bytes": 18997,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/taiwan-software-industry-development.md",
@@ -34058,20 +34050,18 @@
         "pt": {
           "path": "pt/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "3e08bf82b",
+          "sourceCommitSha": "a520d024d",
           "sourceContentHash": "sha256:ef6914cecff85dfb",
           "sourceBodyHash": "sha256:6cc55941dd179c34",
-          "translatedAt": "2026-10-03T02:34:19+08:00",
+          "translatedAt": "2026-10-15T20:18:02+08:00",
           "translationLastCommit": "bc6c2cdc",
           "translationLastModified": "2026-10-03T04:00:20+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17970,
+          "bytes": 18615,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/taiwan-software-industry-development.md",
@@ -53506,8 +53496,8 @@
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
           "translatedAt": "2026-10-15T20:17:58+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8ab47245",
+          "translationLastModified": "2026-10-15T22:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 22908,
@@ -71530,8 +71520,8 @@
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
           "translatedAt": "2026-10-15T20:17:58+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8ab47245",
+          "translationLastModified": "2026-10-15T22:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 19373,
@@ -83186,20 +83176,18 @@
         "hi": {
           "path": "hi/About/seeing-taiwan-quotes.md",
           "translatedFrom": "About/看見台灣引言集.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "890c5095e",
           "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
           "sourceBodyHash": "sha256:0d8842cfba541dc2",
-          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translatedAt": "2026-10-15T14:34:28.189034+00:00",
           "translationLastCommit": "8e9a7a5a",
           "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 26713,
+          "bytes": 28070,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/About/seeing-taiwan-quotes.md",
@@ -89970,20 +89958,18 @@
         "en": {
           "path": "en/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "825528805",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
-          "translatedAt": "2026-10-02T00:56:04.311377+00:00",
+          "translatedAt": "2026-10-15T20:17:52+08:00",
           "translationLastCommit": "6b7ba788",
           "translationLastModified": "2026-10-02T10:26:32+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14711,
+          "bytes": 16084,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/taiwanese-leopard-cat-conservation.md",
@@ -90006,38 +89992,34 @@
         "ko": {
           "path": "ko/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "825528805",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
-          "translatedAt": "2026-10-02T00:57:28.102663+00:00",
+          "translatedAt": "2026-10-15T20:17:55+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16215,
+          "bytes": 17046,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "825528805",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
-          "translatedAt": "2026-10-02T02:56:48.052788+00:00",
+          "translatedAt": "2026-10-15T20:17:56+08:00",
           "translationLastCommit": "a7e9814e",
           "translationLastModified": "2026-10-02T12:26:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 18309,
+          "bytes": 17293,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwanese-leopard-cat-conservation.md",
@@ -90092,20 +90074,18 @@
         "pt": {
           "path": "pt/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "825528805",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
-          "translatedAt": "2026-10-02T02:18:39.669611+00:00",
+          "translatedAt": "2026-10-15T20:18:02+08:00",
           "translationLastCommit": "671d9087",
           "translationLastModified": "2026-10-02T11:34:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16685,
+          "bytes": 16755,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/taiwanese-leopard-cat-conservation.md",
@@ -90128,20 +90108,18 @@
         "ar": {
           "path": "ar/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "825528805",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
-          "translatedAt": "2026-10-02T02:18:51.097006+00:00",
+          "translatedAt": "2026-10-15T20:18:05+08:00",
           "translationLastCommit": "ea21af4a",
           "translationLastModified": "2026-10-02T11:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 22358,
+          "bytes": 23498,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwanese-leopard-cat-conservation.md",
@@ -144132,20 +144110,18 @@
         "de": {
           "path": "de/People/gwei-lun-mei-versatile-taiwanese-actress.md",
           "translatedFrom": "People/桂綸鎂.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:266bd954eeb032d3",
+          "sourceCommitSha": "ad792c900",
+          "sourceContentHash": "sha256:34a9d268091c23c6",
           "sourceBodyHash": "sha256:c06a0cb5b90069e3",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translatedAt": "2026-10-15T20:18:07+08:00",
           "translationLastCommit": "7d1870fb",
           "translationLastModified": "2026-09-11T23:39:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13700,
+          "bytes": 13940,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -222202,8 +222178,8 @@
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
           "translatedAt": "2026-10-15T20:17:58+08:00",
-          "translationLastCommit": "256bf44e",
-          "translationLastModified": "2026-10-10T23:33:46+08:00",
+          "translationLastCommit": "8ab47245",
+          "translationLastModified": "2026-10-15T22:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 19868,
