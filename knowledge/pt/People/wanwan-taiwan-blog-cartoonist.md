@@ -21,10 +21,10 @@ readingTime: 13
 researchReport: '彎彎'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-08-02T13:22:33+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T02:52:54.140655+00:00'
 ---
 
 # Wan-wan: o careca que deu um rosto a uma geração de trabalhadores de escritório, e a Hu Chia-wei que o fez "virar figura histórica"
@@ -114,27 +114,26 @@ E quem levou este percurso comercial para a era seguinte foram os stickers do LI
 
 > 📝 **Nota do curador:** Alinhar ímanes, livros, anúncios, cinema, stickers numa lista faz ler-se como "currículo de patrocínios de um artista". Mas por baixo desta lista está a ser verificada uma proposição mais silenciosa: antes da Wan-wan, a imaginação social de Taiwan sobre "desenhar" provavelmente parava em "passatempo", "talento" ou "dá para viver difícil". O que ela fez foi virar essa premissa do avesso para todos verem: afinal, uma rapariga sem curso superior, que andava no canteiro a fazer recados, pode viver só de desenhar o seu quotidiano, e ainda sustentar um género editorial. Ela respondeu por metade, adiantadamente, à questão mais realista que todos os que querem viver da criação se colocam: "Será que este caminho me faz passar fome?"
 
-## Do MSN ao WEBTOON: ela esteve na porta de entrada de cada geração de plataformas
-
-Estender os vinte anos da Wan-wan numa linha revela uma coisa que poucos criadores conseguem: ela esteve praticamente na porta de entrada de todas as plataformas de texto e imagem de Taiwan.
+## Do MSN ao WEBTOON: ela atravessou cada geração de plataformas
 
 ```tw-timeline
-2002 | Foto de perfil MSN | Na era sem stickers, o homenzinho careca dava voz aos trabalhadores de escritório
-2004 | Recorde no Wretch | Para seguir Giddens Ko "apenas experimentou" o blog, tornou-se pioneira da texto e imagem
-2013 | Stickers LINE no mesmo dia que cherng | Da era dos blogs saltou para a era do licenciamento pago em comunicadores móveis
-2020 | Retiro suave da personagem | "A Wan-wan de antes já morreu", deixou a personagem crescer com ela
+2002 | Avatar do MSN | Na era antes dos stickers, o Careca falava pelos trabalhadores de escritório
+2004 | Recorde no Wretch | Para seguir Giddens Ko, "experimentou" um blog por acaso e tornou-se a ancestral do texto-e-imagem
+2013 | Stickers LINE e cherng no mesmo dia | Da era dos blogs para a era de licenciamento pago de apps de mensageria móvel
+2020 | Saída gentil da personagem | "A Wan-wan de antes já morreu", deixando a personagem crescer junto com ela
+Fonte: blogs, publicações e reportagens de licenciamento de plataformas citados neste artigo (marco de 100 milhões, ímãs de loja de conveniência, primeira leva de stickers LINE) [^6][^7][^10][^15]
 ```
 
-Primeiro foi a foto de perfil do MSN (por volta de 2002), depois a era de ouro dos blogs no Wretch e no Pixnet (痞客邦) (a partir de 2004), a seguir a ascensão das páginas de fãs no Facebook, a era paga dos stickers do LINE, até ao posterior WEBTOON de scroll vertical, movido a algoritmo, e ao Instagram. A plataforma LINE WEBTOON chama-lhe "grande senhora da texto e imagem"[^16]. Em 2014, a _Business Weekly_ fez um artigo "Wan-wan, adeus? Se não conheces, estás desatualizado! 10 novos ilustradores explosivos da net"[^17], usando "Wan-wan, adeus?" como pergunta de arranque, para apresentar Duncan, Bai-bai-jiu-jiu (掰掰啾啾), cherng e outros novatos. Ou seja, quando a imprensa quer apresentar "a nova geração", tem de usar a Wan-wan como ponto zero de coordenadas. Ela é o "antes".
+Tudo começou com os avatares do MSN (por volta de 2002), seguido pela era dourada dos blogs no Wretch e no Pixnet (a partir de 2004), depois pela ascensão das páginas de fãs no Facebook, pela era paga dos stickers do LINE, e mais tarde pelo WEBTOON e Instagram de rolagem vertical e movidos a algoritmo. A plataforma LINE WEBTOON chama-a de "grande senpai do texto-e-imagem" [^16]. Em 2014, a Business Weekly publicou "Wan-wan, adeus? Se não conheces, estás desatualizado! 10 novos ilustradores explosivos da net" [^17] — o título usa "Wan-wan, adeus?" como pergunta para apresentar Duncan, Bye Bye QQ, cherng e outros novos talentos. Em outras palavras, quando a mídia quer apresentar quem é a "nova geração", eles primeiro precisam usar a Wan-wan como ponto zero das coordenadas. Ela é o "antes".
 
-![彎彎 LINE 貼圖「我愛我的工作」](/article-images/people/wanwan-line-sticker.webp)
-_Da foto de perfil MSN aos stickers LINE, o homenzinho careca mudou de plataforma, a fala continua a mesma ironia: "Adoro o meu trabalho"[^24]. — Uso justo: obra da Wan-wan (sticker LINE)_
+![Sticker LINE da Wan-wan "Adoro o meu trabalho"](/article-images/people/wanwan-line-sticker.webp)
+_Do avatar do MSN ao sticker do LINE, o Careca mudou de plataforma, mas a fala continua a mesma ironia: "Adoro o meu trabalho" [^24]. — Uso justo: obra da Wan-wan (sticker LINE)_
 
-Sobre esta travessia de vinte anos de mudança de plataformas, a Wan-wan deu uma das melhores analogias que já vi. Comparou a era dos blogs e a era das redes sociais: "Antigamente o blog era como uma biblioteca, você constrói, organiza a sua coleção, as suas obras, e toda a gente acorre a ver as suas obras. Agora parece distribuição de panfletos, tem de entregar um a um, e ainda ver se aceitam."[^18] Acrescentou: "Por isso acho que os criadores de agora, embora tenham muitas oportunidades, também é mais cansativo."[^18]
+Sobre essa mudança de plataformas que atravessa vinte anos, a própria Wan-wan deu o melhor comparativo que já vi. Ela compara a diferença entre a era dos blogs e a era das redes sociais: "Antigamente, o blog era como uma biblioteca: você a construía, organizava sua coleção, suas obras, e todos vinham em enxame ver seu trabalho. Agora parece distribuição de panfletos: você tem que entregar um a um, e ainda ver se as pessoas aceitam." [^18] Ela completa: "Por isso acho que os criadores de hoje, embora tenham muitas oportunidades, também têm mais trabalho duro." [^18]
 
-Esta analogia acerta porque ela esteve nas duas pontas. Ela construiu aquela "biblioteca que, feita a obra, as pessoas vêm sozinhas" — era a idade de ouro dos blogs, a era em que cem milhões de visualizações rolavam porta adentro sozinhas. Ela também viveu até à era do "entregar panfletos um a um" do algoritmo. Só quem atravessou as duas eras consegue dizer este contraste com temperatura corporal.
+Esse comparativo é preciso justamente porque ela esteve nas duas pontas. Ela construiu aquela biblioteca do "construiu e eles virão" — era a idade de ouro dos blogs, a época em que cem milhões de visualizações chegavam sozinhas pela porta. Ela também viveu para ver a era do algoritmo do "entregar panfleto por panfleto". Só quem atravessa duas eras consegue fazer um contraste com esse calor humano.
 
-> 📝 **Nota do curador:** A narrativa corrente costuma meter a Wan-wan na "nostalgia da era Wretch", como se ela fosse um nome deixado para trás, afundado com a plataforma. Mas este enquadramento inverte a causalidade. Ela não é alguém aprisionado por uma plataforma e afundado com ela; pelo contrário, é das poucas que, a cada mudança de dinastia das plataformas, continuaram na porta de entrada — MSN, Wretch, LINE, WEBTOON, nenhuma faltou. O que a afastou verdadeiramente do símbolo "Wan-wan" foi ela própria ter mudado de fase: de vinte e poucos anos de trabalhadora de escritório, tornou-se mãe. As plataformas envelhecem, mas a decisão de retirar a personagem é uma escolha ativa da pessoa.
+> 📝 **Nota da curadoria**: A narrativa corrente costuma encaixar a Wan-wan nas "lágrimas da era Wretch", como se ela fosse um nome que a época eliminou, deixado no passado. Mas esse enquadramento inverte a causalidade. Ela não é alguém aprisionada por uma plataforma, afundando junto com ela; pelo contrário, ela é das poucas que a cada troca de guarda das plataformas ainda estava na porta de entrada — MSN, Wretch, LINE, WEBTOON, nenhuma ausência. O que de fato a afastou devagar do símbolo "Wan-wan" foi ela própria ter mudado de fase: de trabalhadora de escritório na casa dos vinte para mãe. Plataformas envelhecem, mas a decisão de aposentar a personagem partiu da pessoa, ativamente.
 
 ## A personagem não envelhece, quem a desenha envelhece
 

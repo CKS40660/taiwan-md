@@ -21,16 +21,20 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/紀懷新.md'
 image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
-  [
-    "{'id': 152, 'platform': 'threads', 'date': '2026-06-27', 'url': 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'}",
-    "{'id': 153, 'platform': 'x', 'date': '2026-06-27', 'url': 'https://x.com/taiwandotmd/status/2070809073143144717'}",
-  ]
+  - id: 152
+    platform: 'threads'
+    date: '2026-06-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'
+  - id: 153
+    platform: 'x'
+    date: '2026-06-27'
+    url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de83'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-07-27T04:56:50+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T02:16:10.923922+00:00'
 ---
 
 Quando o mundo inteiro persegue a IA com centenas de milhões de dólares em poder de computação, um artigo mudou a forma como as máquinas raciocinam gastando apenas cerca de cinco mil dólares.
@@ -106,33 +110,34 @@ A pesquisa principal dele no PARC chamava-se "information foraging" (forrageamen
 Fontes: Wikipédias dos académicos, arXiv 2201.11903
 ```
 
-## Não são mais dados, é mais parecido com gente
+## Não é mais dados, é ser mais humano
 
-Em 2011, saiu do PARC para o Google. Razão prática: "Só fazer pesquisa não chega, tem de fazer coisas aplicadas." O modelo do PARC — "pesquisa básica muito funda, mas que não vira produto" — ele viu com os próprios olhos.
+Em 2011, ele deixou Palo Alto para ir ao Google. O motivo era pragmático: "Fazer apenas pesquisa não basta; também é preciso fazer coisas aplicáveis". Ele via de perto o padrão de "pesquisa básica muito profunda, mas que não se transforma em produto".
 
-No Google, começou com análise de dados de rede, 2015–2017 liderou a equipa que reconstruiu o sistema de recomendação por redes neurais do YouTube, 2017 virou chief scientist do Google Brain, liderando setenta pessoas, 2021 promovido a distinguished scientist, já com cento e vinte pessoas, depois vice-presidente de pesquisa do DeepMind [^6]. Por trás da fila de títulos, estica-se a mesma genealogia metodológica: forrageamento de informação é modelo de "como as pessoas encontram coisas", sistema de recomendação é modelo de "o que as pessoas querem ver", no Chain of Thought vira modelo de "como as pessoas raciocinam". Da cognição humana, um empurrão contínuo até à máquina.
+No Google, ele começou com análise de dados na web; entre 2015 e 2017, liderou a equipe que reconstruiu o sistema de recomendação baseado em redes neurais do YouTube; em 2017, tornou-se cientista-chefe do Google Brain, liderando uma equipe de setenta pessoas; em 2021, foi promovido a cientista de destaque, passando a liderar cento e vinte pessoas, tornando-se posteriormente vice-presidente de pesquisa da DeepMind[^6]. Por trás dessa sucessão de títulos, na verdade, existe a extensão de um mesmo gene metodológico: o _information foraging_ (busca de informação) é o modelo de "como os humanos buscam coisas"; o sistema de recomendação é o modelo de "o que os humanos querem ver"; e, ao chegar no _Chain of Thought_ (Cadeia de Pensamento), torna-se o modelo de "como os humanos raciocinam". Da cognição humana, avançando diretamente para a máquina.
 
-A viragem do Chain of Thought nasceu de uma insatisfação dele com o mainstream do machine learning da época. "Por que é que é preciso tanta data para a máquina realmente aprender?" começou a pensar, "não se pode usar métodos da psicologia cognitiva para ensinar a máquina a aprender?" [^7]
+A virada do _Chain of Thought_ ocorreu devido à sua insatisfação com o aprendizado de máquina convencional da época. "Por que é necessário usar tantos dados para que esta máquina possa realmente aprender?", ele começou a questionar. "Será que podemos usar métodos da psicologia cognitiva para ensinar as máquinas a aprender?"[^7]
 
-Voltou então àquele conceito. "Esta idea na verdade vem de... anos 60, 70, uma idea chamada teoria dos esquemas. O significado básico é: se uma pessoa pode usar um molde (template) para resolver um problema, talvez nós também possamos usar este método para ensinar a máquina a aprender. Por isso o Chain of Thought na verdade começa desta idea." O entrevistador perguntou se era a teoria dos esquemas de Piaget, ele respondeu: "Sim, é a idea da teoria dos esquemas de Piaget. Aquilo na verdade eu aprendi no liceu, na universidade, porque ajudava a minha mãe a escrever a tese de doutorado dela de psicologia da educação, então mais tarde estas coisas todas se foram ligando." [^8]
+Assim, ele retornou àquele conceito. "Essa ideia, na verdade, surgiu nas décadas de 60 e 70, chamada Teoria do Esquema (_Schema Theory_). Basicamente, significa que se uma pessoa pode usar um modelo (_template_) para resolver um problema, talvez possamos usar esse mesmo método para ensinar máquinas a aprender. Portanto, o _Chain of Thought_ é, na verdade, o início dessa ideia". Quando o entrevistador perguntou se era o esquema de Piaget, ele respondeu: "Sim, é a ideia do esquema de Piaget. Na verdade, aprendi isso no ensino médio e na faculdade, quando ajudei minha mãe a escrever sua tese de doutorado em psicologia educacional; então, essas coisas foram se conectando gradualmente".[^8]
 
-A semente na secretária germinou.
+A semente sobre a escrivaninha brotou.
 
-![Figure 1 do artigo Chain of Thought: à esquerda prompt padrão erra, à direita Chain of Thought escreve passos de raciocínio (fundo azul) e acerta](/article-images/people/chain-of-thought-figure1.webp)
+![Artigo Chain of Thought Figura 1: à esquerda o prompt padrão erra; à direita o prompt de Chain of Thought escreve primeiro os passos do raciocínio (destacado em azul) e depois dá a resposta correta](/article-images/people/chain-of-thought-figure1.webp)
 
-_A figura mais famosa do artigo Chain of Thought: à esquerda, pergunta-se do modo padrão, o modelo erra; à direita, apenas se acrescenta um trecho de processo de raciocínio nos exemplos (a parte a azul), e o modelo acerta. A diferença não está no poder de computação, está em ter ou não "escrito o pensamento passo a passo". Figura de Wei et al., 2022._
+_A imagem mais famosa do artigo Chain of Thought: à esquerda, ao fazer a pergunta da maneira comum, o modelo erra o cálculo; à direita, apenas adicionando um processo de raciocínio no exemplo (o trecho em azul), o modelo acerta. A diferença não está na capacidade computacional, mas em "escrever os pensamentos passo a passo". Imagem de Wei et al., 2022._
 
-E custou quase nada. "Sabem quanto poder de computação usámos no total? Uns cinco mil dólares. Porque aquele problema não se resolvia com poder de computação, era outro modo de pensar. Quando fizemos aquela pesquisa, no início basicamente não havia verba, foi coisa que inventámos do nada." [^1]
+E isso quase não custou nada. "Você sabe quanta capacidade computacional usamos no total? Aproximadamente cinco mil dólares americanos. Porque esse não era um problema que pudesse ser resolvido com poder computacional, mas sim com outro modo de pensar. Quando estávamos fazendo aquela pesquisa, no início, basicamente não tínhamos financiamento; foi algo que criamos do nada".[^1]
 
 ```tw-versus
-Mainstream da IA | Caminho do Chain of Thought
-Modelos maiores, mais parâmetros | Não precisa re-treinar o modelo
-Enfiar mais dados | Acrescentar algumas linhas de resolução nos exemplos
-Centenas de milhões em armamento computacional | Cerca de cinco mil dólares
-Busca de escala pela força bruta | Emprestar da psicologia cognitiva como as pessoas aprendem
+Rota principal da IA | O caminho do Chain of Thought
+Modelos maiores, mais parâmetros | Não requer retreinamento do modelo
+Alimentar com mais dados | Adicionar algumas linhas de processo de resolução nos exemplos
+Corrida armamentista de bilhões de dólares em computação | Cerca de US$ 5.000
+Busca pela força bruta da escala | Empréstimo da psicologia cognitiva sobre como os humanos aprendem
+Fonte: Entrevista com Jason Wei no VK EP122 (artigo Chain of Thought utilizou cerca de US$ 5.000 em computação e usou métodos de psicologia cognitiva para ensinar máquinas) e reportagem sobre sua trajetória de pesquisa[^1][^6][^7]
 ```
 
-É isto que este artigo mais quer dizer: a chave para a IA aprender a raciocinar não é mais poder de computação, é ser mais parecida com gente; e esse "mais parecida com gente" cresceu numa tese de psicologia da educação que um miúdo de Tamsui ajudou a mãe a escrever.
+Este é o ponto central que este artigo deseja transmitir: a chave para fazer a IA aprender a raciocinar não é mais poder computacional, mas ser mais humana. E esse "ser mais humana" nasceu de uma tese de doutorado em psicologia educacional que um filho de Tamsui ajudou a mãe a escrever.
 
 ## Ele diz aos subordinados: não usem aquele método, tentem os esquemas
 
@@ -171,27 +176,28 @@ _Ed Chi no Sakai Sidechat E350 fala de óculos inteligentes, padrão da avó par
 
 Na entrevista, tirou do bolso uns óculos protótipo com Project Astra, disse que este "deve ser" o primeiro par em Taiwan. Falou onde Taiwan tem mais oportunidade. Hardware é uma fatia: "Taiwan em semicondutores, especialmente na parte de fabrico, tem uma posição muito difícil de abalar." Mas virou a agulha: "Se Taiwan conseguir integrar bem hardware e software, aproveitando a capacidade dos grandes modelos de linguagem, de facto é uma grande oportunidade." [^14]
 
-## Taiwan conhece o chip, não conhece este cérebro
+## Taiwan reconhece os chips, mas não este cérebro
 
-Chegados aqui, não se escapa a uma pergunta: ele conta como taiwanês?
+Falando nisso, há uma questão inevitável: ele é taiwanês?
 
-Os factos estão postos: saiu de Taiwan aos 15 anos, liceu, universidade, pós-graduação tudo nos EUA, carreira toda no Vale do Silício. É Taiwanese American, nascido em Taiwan, crescido e formado na América. Se alguém disser que "orgulho de Taiwan" é consumir alguém que emigrou cedo, a dúvida não é infundada.
+Os fatos estão aí: ele deixou Taiwan por volta dos 15 anos; fez o ensino médio, a graduação e o mestrado nos Estados Unidos, e toda a sua carreira profissional foi no Vale do Silício. Ele é um _Taiwanese American_, alguém que nasceu em Taiwan e cresceu e se desenvolveu nos Estados Unidos. Se alguém disser que o título de "Orgulho de Taiwan" está sendo usado para promover alguém que imigrou há muito tempo, essa crítica não é infundada.
 
-Mas no outro prato da balança também há peso real. Ele dá entrevistas em chinês, diz por iniciativa própria "nasci em Tamsui, taiwanês de raiz", sem rodeios. Volta continuamente a Taiwan para palestras — Universidade Normal de Taiwan, Universidade Nacional Chung Hsing, Universidade Nacional Yang Ming Chiao Tung têm o rasto dele. Tem observações concretas sobre o envelhecimento e cuidados longos de Taiwan, a posição nos semicondutores, o ecossistema de startups de IA, até aponta que Taiwan já tem cerca de quinze mil utilizadores da ferramenta de previsão de estrutura proteica do DeepMind.
+Mas do outro lado da balança também existem elementos concretos. Ele dá entrevistas em chinês e afirma proativamente ser "nascido em Tamsui, criado em Taiwan", sem qualquer hesitação. Ele continua a voltar a Taiwan para palestrar — deixando sua marca na Normal de Taiwan (NTNU), na Universidade de Chung Hsing e na Universidade de Yang-Ming-Chiao Tung. Ele possui observações concretas sobre os dilemas do cuidado de longa duração em Taiwan, o status dos semicondutores e o ecossistema de startups de IA; chegou até a mencionar que Taiwan já possui cerca de 15.000 utilizadores da ferramenta de previsão de estrutura de proteínas do DeepMind.
 
-O que melhor ilustra a posição dele "tanto dentro como fora" é o que disse a investigadores taiwaneses: "Esta parte da pesquisa, na verdade volto a Taiwan há tantos anos, cada vez falo disto, mas não vejo investigadores de Taiwan... a fazer muito nesta área. Pesquisa que não precisa de muitos chips." [^15]
+O que melhor descreve sua posição de "estar dentro e fora ao mesmo tempo" foi uma frase que ele disse a pesquisadores taiwaneses: "Sobre esta parte da investigação, na verdade, sempre que volto a Taiwan há muitos anos, eu menciono isso, mas não vejo os investigadores taiwaneses... fazendo muito nesta área. É uma investigação que pode ser feita sem precisar de muitos chips." [^15]
 
-Nesta frase puxam-se duas identidades. Diz "volto a Taiwan", fala como quem se sente daqui; mas "cada vez falo e ninguém faz" traz uma distância de quem está fora — como alguém que esteve longe de casa muito tempo, volta e vê um canto da casa que ninguém arruma, fica ansioso, mas não tem como meter a mão. Se ele conta ou não como orgulho de Taiwan, este artigo não decide por você. Os factos estão todos aqui, julgue você.
+Nesta frase, há um conflito entre duas identidades. Ao dizer "voltar a Taiwan", ele fala como alguém que se reconhece como pertencente a este lugar; mas o "sempre menciono, mas ninguém faz" carrega uma certa distância de quem é de fora — como alguém que está longe de casa há muito tempo e, ao voltar, vê um canto da casa que ninguém arruma, sentindo urgência, mas sem conseguir agir. Se ele conta ou não como um "Orgulho de Taiwan", este artigo não tirará conclusões por você. Os fatos estão expostos; cabe a você julgar.
 
 > 📊 **Ele em números**
 
 ```tw-stat
-~ 5 000 USD | Poder de computação gasto no artigo Chain of Thought | Contra centenas de milhões da indústria
-~ 114 000 | Citações totais no Google Scholar | 82% depois de 2021
-13% → 83% | Precisão do OpenAI o1 em problemas da Olimpíada de Matemática | o1 construído explicitamente sobre Chain of Thought
+Cerca de US$ 5.000 | Poder computacional usado em artigos de Chain of Thought | Comparado aos centenas de milhões de dólares investidos pela indústria
+Cerca de 114 mil | Total de citações no Google Scholar | Sendo que 82% são após 2021
+13% → 83% | Precisão do OpenAI o1 em problemas de Olimpíadas de Matemática | o1 é explicitamente construído sobre Chain of Thought
+Fonte: Entrevista com Ji Huai-xin no VK EP122, estatísticas de citações do Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Fonte: entrevista VK EP122 de Ed Chi, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Fonte: Entrevista com Ji Huai-xin no VK EP122, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
 ## Mostrar o raciocínio, é mais transparente ou só mais bom de conversa
 

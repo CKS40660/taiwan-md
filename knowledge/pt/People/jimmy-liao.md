@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: 'a3a2c2ab6'
-sourceContentHash: 'sha256:3a77d655efe88c48'
-sourceBodyHash: 'sha256:18242d925dc68ac7'
-translatedAt: '2026-10-13T21:36:41.254063+00:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:de4fd6732d209052'
+sourceBodyHash: 'sha256:301572e76bca4d98'
+translatedAt: '2026-10-15T01:52:56.655350+00:00'
 ---
 
 # Jimmy Liao: As imagens vistas como "curativas" foram trazidas por um sobrevivente de leucemia de dentro de um aquário de vidro
@@ -121,37 +121,38 @@ Aquele peixe sorridente também chegou às telas. Em 2006, 《微笑的魚》 fo
 
 > 🎙️ **Nota do Curador**: Ao colocar esses quatro livros lado a lado, percebe-se que o rótulo "terapêutico" na verdade inverte a causalidade. O entendimento comum é: "Os desenhos de Jimmy Liao são fofos, por isso relaxam as pessoas". Mas a ordem é exatamente o oposto: os leitores sentem-se curados porque ele primeiro caminha honestamente pelos lugares mais sombrios — o isolamento, a morte, o desencontro — para só então sair carregando um pouco de luz. O conforto é eficaz justamente por ser entregue por alguém que realmente esteve dentro do aquário de vidro. Lu Rong-chi disse que suas obras "nunca são realistas; possuem sempre um tom onírico e surrealista". Essa camada de sonho é uma técnica de tradução: transformar a realidade insuportável em uma forma que o ser humano consiga ler e processar.
 
-## O Jimmy Liao que sai das páginas
+## Jimmy Liao além das páginas
 
-O mais contra-intuitivo em Jimmy Liao talvez esteja aqui: uma doença íntima, a solidão de um homem num quarto de hospital, no final cresceu numa linguagem pública infinitamente replicável, levada a todo tipo de palco.
+O aspecto mais contra-intuitivo de Jimmy Liao talvez esteja aqui: uma doença profundamente íntima e a solidão de um indivíduo em um quarto de hospital transformaram-se, por fim, em uma linguagem pública que pode ser infinitamente replicada e levada para diversos palcos.
 
-Cinema foi a primeira via, e de uma vez quatro filmes. 2003 _Virar à Esquerda, Virar à Direita_ codirigido por Johnnie To e Wai Ka-fai, estrelado por Takeshi Kaneshiro e Gigi Leung, primeiro filme em língua chinesa investido pela Warner Bros., tema em mandarim _Encontro_ de Stefanie Sun. [^21] No mesmo ano _O Metrô_ dirigido por Ma Wai-ho, produzido por Wong Kar-wai, trilha de Law Ken. [^22] 2011 _Céu Estrelado_ dirigido por Lin Shu-yu, adaptado do picture book de 2009, indicado a quatro categorias no 49º Golden Horse. [^23] E um fácil de esquecer: 2003 _A Paisagem do Amor_, dirigido por Lai Miu-suet, selecionado para competição oficial em Veneza, ilustrações do filme desenhadas pelo próprio Jimmy Liao. [^24]
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="MV oficial completo de *Céu Estrelado* do Mayday (tema do filme *Céu Estrelado*)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-Teatro musical é outra via, e formou uma equipe estável: diretor Lai Huan-hsiung com o músico Chen Chien-chi. Desde 2003 _O Metrô_ (Cheer Chen como a cega), 2005 _O Sortudo_, 2008 estreia na Taipei Arena com _Virar à Esquerda, Virar à Direita_, até 2018 _Cinema do Tempo_, os picture books de Jimmy Liao viraram canto e luz peça a peça. [^25] Em 2025, até circo chegou: _As 100 Bravuras do Menino Jimmy Liao_, dirigido por Lin Hwai-min, anunciado como primeiro circo de repertório fixo de Taiwan. [^26]
-
-Saindo dos teatros, suas imagens infiltraram a própria cidade. Na plataforma da estação Nangang do metrô de Taipé pendem seis pinturas de _O Metrô_; 2014 a Eslite transformou _A Lua Esqueceu_ num "Ônibus Lua" que realmente roda, circulando na Secção 5 da Rua Hsin-i. [^27] Séries de TV também quiseram: _Virar à Esquerda, Virar à Direita_ refilmado na China (2004) e Tailândia (2020), _O Metrô_ virou drama em Taiwan (2006). [^50] A mesma história de desencontro, atores diferentes, línguas diferentes, reencenada vez após vez.
-
-A solidão também cruzou idiomas. Livros de Jimmy Liao traduzidos para cerca de 20 línguas, perto de 200 edições estrangeiras. [^28] Desde 2014, indicado nove vezes consecutivas ao Prêmio Memorial Astrid Lindgren (ALMA), o "Nobel da literatura infantil"; 2020 com _Cinema do Tempo_ levou o BolognaRagazzi Award categoria filme, júri o chamou de "um mestre indiscutível de seu ofício" (an undisputed master of his craft). [^44] 2019–2020, fez no Museo ABC de Madrid sua primeira grande individual na Europa, 22 obras, 174 originais. [^45] Alguém que usou a língua de Taiwan, desenhou para si, no final fez o público de Madrid parar diante de seus originais pós-doença. Sua explicação para leitores internacionais é discreta: "Uma doença grave mudou minha visão sobre muitas coisas", "Apenas desenhei as imagens que estavam no meu coração". [^46]
-
-Ele também não parou. 2023, a Galeria Eslite fez individual de Jimmy Liao, primeira mostra de suas pinturas a óleo. [^49] De diretor de arte publicitário, autor de picture books, a mais de vinte anos depois pegar pincéis a óleo, aquele peixe do aquário de vidro segue mudando de jeito para dizer a mesma coisa.
+O cinema foi o primeiro caminho, com quatro filmes lançados de uma só vez. Em 2003, 《向左走·向右走》 foi co-dirigido pelos de Hong Kong Johnnie To e Wai Ka-fai, estrelado por Takeshi Kaneshiro e Gigi Leung; foi o primeiro filme em língua chinesa investido pela Warner Bros., com a canção 〈遇見〉 de Stefanie Sun como tema em mandarim. [^21] No mesmo ano, 《地下鐵》 foi dirigido por Ma Wei-hao e produzido por Wong Kar-wai, com trilha sonora de Lo Kin. [^22] Em 2011, 《星空》 foi dirigido por Lin Shu-yu, adaptado do livro ilustrado homônimo de 2009, e recebeu quatro indicações ao 49º Golden Horse Awards. [^23] Há também um que é facilmente esquecido: em 2003, 《戀之風景》, dirigido por Li Miao-xue, foi indicado para a competição oficial do Festival de Veneza, com as ilustrações feitas pelo próprio Jimmy Liao. [^24]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="Teaser da minissérie de animação *Pequena Borboleta, Pequena Capa* de Jimmy Liao (canal oficial Jimmy Liao)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="五月晚〈星空〉MV 官方完整版（電影《星空》主題曲）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Dando continuidade a tudo isso está a Jimmy S.P.A. (墨色國際), fundada em 2000, e em 2014 a Jimmy SP (墨策國際) assumindo audiovisual, exposições e arte pública. [^29] Alguém que desenhava pequeninos num quarto de hospital, no final construiu um império atravessando cinema, musicais, circo, metrô, animação. Vale guardar o contraste: a fonte de tudo é uma solidão intransmissível, atrás de um vidro; o resultado é uma linguagem onde qualquer um entra, vê, toca.
+O teatro musical foi outro caminho, estabelecendo uma equipe de trabalho estável: o diretor Li Huan-hsiung em parceria com o músico Chen Chien-chi. De 《地下鐵》 em 2003 (com Cheer Chen interpretando a moça cega) a 《幸運兒》 em 2005, passando por 《向左走·向右走》, que estreou no Taipei Arena em 2008, até chegar a 《時光電影院》 em 2018, os livros ilustrados de Jimmy Liao foram transformados, obra após obra, em música e luz. [^25] Em 2025, até o circo chegou: 《幾米男孩的 100 次勇敢》, dirigido por Lin Hwai-min, é anunciado como o primeiro espetáculo de circo estruturado de Taiwan. [^26]
+
+Saindo dos teatros, suas ilustrações infiltraram-se na própria cidade. Na plataforma da estação Nangang do metrô de Taipé, encontram-se seis pinturas de 《地下鐵》; em 2014, a imobiliária Sinyi Realty transformou 《月亮忘記了》 em um verdadeiro "Ônibus da Lua" que circulava pela seção 5 da Sinyi Road. [^27] As séries de TV também participaram: 《向左走·向右走》 foi refeito na China continental (2004) e na Tailândia (2020), enquanto 《地下鐵》 foi adaptado para uma série de TV em Taiwan (2006). [^50] A mesma história sobre perder oportunidades, com diferentes atores e diferentes idiomas, é encenada repetidamente.
+
+A solidão também atravessou barreiras linguísticas. Os livros de Jimmy Liao foram traduzidos para cerca de 20 idiomas, totalizando quase 200 edições estrangeiras. [^28] Desde 2014, ele foi indicado consecutivamente nove vezes ao Prêmio Astrid Lindgren Memorial (ALMA), conhecido como o "Nobel da literatura infantil"; em 2020, com 《時光電影院》, conquistou o Prêmio Ragazzi na categoria de cinema da Feira do Livro de Bolonha, com os jurados descrevendo-o como "um mestre incontestável de seu ofício" (_an undisputed master of his craft_). [^44] Entre 2019 e 2020, ele realizou sua primeira grande exposição individual na Europa no Museo ABC, em Madri, exibindo 22 obras e 174 originais. [^45] Alguém que usava a linguagem de Taiwan para desenhar para si mesmo acabou fazendo com que o público de Madri se posicionasse diante dos manuscritos desenhados após sua doença. Sua própria explicação para os leitores internacionais é modesta: "Uma grande doença mudou minha visão sobre muitas coisas" e "Eu apenas desenho as imagens que estão no meu coração". [^46]
+
+Ele também não parou. Em 2023, a Eslite Gallery realizou uma exposição individual de Jimmy Liao, apresentando suas pinturas a óleo pela primeira vez. [^49] De diretor de arte publicitária e autor de livros ilustrados a pegar o pincel para óleo mais de vinte anos depois, aquele peixe no aquário está sempre encontrando novas formas de dizer a mesma coisa.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="幾米《小蝴蝶小披風》迷你動畫影集前導（幾米官方頻道）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Dando continuidade a tudo isso está a Jimmy S.P.A., fundada em 2000, e em 2014, a Moce International assumiu o gerenciamento de audiovisual, exposições e arte pública. [^29] Alguém que desenhava pequenas figuras em um quarto de hospital acabou construindo um império que abrange cinema, musicais, circo, metrô e animação. O contraste digno de nota é: a origem de tudo foi uma solidão intransferível, separada por um vidro; mas o resultado é uma linguagem na qual qualquer pessoa pode entrar, ver e tocar.
 
 ```tw-stat
-4 | Filmes adaptados | Inclui competição em Veneza
-4 | Musicais Lai Huan-hsiung × Chen Chien-chi | 2003–2018
-~20 | Línguas traduzidas | Perto de 200 edições estrangeiras
+4 | Filmes adaptados | Inclui filmes na competição de Veneza
+4 | Musicais Li Huan-hsiung × Chen Chien-chi | 2003–2018
+~20 | Idiomas traduzidos | Quase 200 edições estrangeiras
+Fonte: Site oficial de Jimmy Liao (jimmyspa.com), NTCH OPENTIX, Wikipédia e compilação de dados de festivais e editoras.
 ```
 
-> **Fonte de dados**: Site oficial Jimmy Liao (jimmyspa.com), NTCH OPENTIX, Wikipédia, materiais de festivais e editoras compilados.
+> **Fontes**: Site oficial de Jimmy Liao (jimmyspa.com), NTCH OPENTIX, Wikipédia e compilação de dados de festivais e editoras.
 
 ## De volta a Lo-tung
 
