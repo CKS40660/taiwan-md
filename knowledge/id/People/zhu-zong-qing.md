@@ -1,16 +1,16 @@
 ---
 title: 'Chu Tsung-ching'
-description: 'Pionir perkusi yang kembali dari Vienna, selama 40 tahun mengubah seni yang jarang dikenal menjadi musik untuk semua orang'
+description: 'Pemusik perkusi yang lulus dari Konservatorium Musik Wina, selama empat puluh tahun membawa seni yang minim peminat ke panggung utama musik Taiwan; ia mendirikan kelompok perkusi profesional pertama Taiwan dan membangun sistem pendidikan lengkap, dari pertunjukan profesional hingga pendidikan musik anak usia dini, dari aula konser ke sekolah-sekolah di seluruh negeri, menanamkan irama dan vitalitas ke dalam masyarakat, meraih Penghargaan Seni Budaya Nasional, dan dijuluki "Bapak Perkusi Taiwan".'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Tokoh',
     'Chu Tsung-ching',
-    'Musisi',
+    'Pemusik',
     'Perkusi',
     'Pendidikan',
-    'Seni pertunjukan',
+    'Seni Pertunjukan',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -18,110 +18,110 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/朱宗慶.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:088677b3f90aa3d4'
+sourceCommitSha: 'afc244ca1'
+sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
-translatedAt: '2026-07-25T06:44:10.819265+00:00'
+translatedAt: '2026-10-15T12:42:56+08:00'
 ---
 
-# Ju Tzong-ching
+# Chu Tsung-ching
 
-> **Ringkasan 30 detik:** Ju Tzong-ching yang lahir pada 1954, pada 1982 memperoleh Diploma Penampil Alat Pukul dari Konservatorium Musik Vienna, pada 1986 mendirikan ansambel alat pukul profesional pertama di Taiwan, pada 1991 membangun sistem pengajaran yang lengkap. Selama 40 tahun ia membawa alat pukul dari pinggiran konser ke aliran utama, pada 2000 menerima Penghargaan Seni Nasional, dan dijuluki «Bapak Alat Pukul Taiwan».
+> **Ringkasan 30 detik:** Lahir 1954, Chu Tsung-ching meraih Diploma Pemusik Perkusi dari Konservatorium Musik Wina pada 1982, mendirikan kelompok perkusi profesional pertama Taiwan pada 1986, membangun sistem pendidikan lengkap pada 1991. Selama 40 tahun ia membawa perkusi dari pinggiran aula konser ke arus utama, meraih Penghargaan Seni Budaya Nasional pada 2000, dijuluki "Bapak Perkusi Taiwan".
 
-Musim panas 1982, Ju Tzong-ching berusia 28 tahun lulus dari Konservatorium Musik Vienna di Austria, memegang Diploma Penampil Alat Pukul yang baru saja diperoleh. Saat itu di Taiwan, «alat pukul» bagi kebanyakan orang masih merupakan istilah asing, apalagi ansambel alat pukul profesional. Namun Ju Tzong-ching memiliki visi yang jelas di hatinya: mendirikan sistem alat pukul yang lengkap di Taiwan, agar bentuk seni yang penuh irama dan vitalitas ini dapat berakar dan berkembang di Taiwan.
+Musim panas 1982, Chu Tsung-ching berusia 28 tahun lulus dari Konservatorium Musik Wina, Austria, membawa pulang Diploma Pemusik Perkusi yang baru saja diraih. Saat itu di Taiwan, "perkusi" bagi kebanyakan orang masih istilah asing, apalagi kelompok perkusi profesional. Namun Chu Tsung-ching memiliki visi yang jelas di hatinya: ingin membangun sistem perkusi yang lengkap di Taiwan, agar bentuk seni yang penuh irama dan vitalitas ini dapat berakar dan berkembang di Taiwan.
 
-Empat puluh tahun kemudian, pada hari ini, Taiwan telah menjadi basis penting perkembangan alat pukul di Asia. Dari pertunjukan profesional hingga pengenalan musik untuk anak-anak usia dini, dari konser ke kampus sekolah, alat pukul telah mendalam menyatu ke dalam budaya musik Taiwan. Semuanya bermula dari sang musisi muda yang memutuskan untuk pulang ke Taiwan dan memulai usahanya.
+Empat puluh tahun kemudian, Taiwan telah menjadi basis penting perkembangan perkusi di Asia. Dari pertunjukan profesional hingga pendidikan musik anak usia dini, dari aula konser ke sekolah-sekolah, perkusi sudah menyatu dalam budaya musik Taiwan. Semuanya bermula dari keputusan sang pemusik muda untuk pulang ke negeri dan memulai dari nol.
 
-## Pencerahan Musik di Masa Belajar di Wina
+## Pencerahan Musik di Masa Studi di Wina
 
-Chu Tsung-ching lahir pada 1954, sejak kecil sudah memiliki minat yang kuat pada musik. Pada 1970-an, saat memasuki Sekolah Seni Nasional (sekarang Universitas Seni Nasional Taiwan) jurusan musik, ia awalnya mengkhususkan diri pada piano, tetapi lewat kesempatan yang tidak disengaja ia berkenalan dengan alat perkusi, dan seketika tertarik mendalam pada kekayaan keluarga instrumen ini.
+Chu Tsung-ching lahir 1954, sejak kecil memiliki minat besar pada musik. 1970-an ia masuk Jurusan Musik Akademi Seni Nasional (sekarang Universitas Seni Nasional Taiwan), awalnya main piano, tapi lewat kesempatan tak sengaja berkenan dengan perkusi, langsung tertarik mendalam pada kekayaan keluarga instrumen ini.
 
-Pada saat itu di Taiwan, alat perkusi masih merupakan bidang yang sangat sepi minat. Tidak ada pengajar profesional, tidak ada materi pelajaran sistematis, apalagi kesempatan pertunjukan profesional. Namun Chu Tsung-ching terpukul dalam hati oleh keberagaman dan daya ekspresi alat perkusi — mulai dari kemegahan timpani, kecerahan xilofon, hingga ciri khas berbagai alat perkusi etnis, masing-masing memiliki warna nada dan kemungkinan ekspresi yang unik.
+Di Taiwan saat itu, perkusi masih bidang yang sangat minim peminat. Tidak ada pengajar profesional, tidak ada bahan ajar sistematis, apalagi kesempatan pertunjukan profesional. Tapi Chu Tsung-ching terpukul dalam hati oleh keberagaman dan daya ekspresi perkusi — dari kemegahan timpani, kecerahan gambang, hingga ciri khas berbagai alat perkusi etnis, masing-masing memiliki warna suara dan kemungkinan ekspresi yang unik.
 
-Pada 1979, Chu Tsung-ching memutuskan pergi jauh ke Konservatorium Wina untuk menuntut ilmu lebih lanjut. Keputusan ini cukup berani pada waktunya — tidak hanya harus menghadapi hambatan bahasa dan perbedaan budaya, tetapi juga harus menemukan posisinya di dalam tradisi musik yang sepenuhnya asing. Namun ia sadar, untuk mempromosikan alat perkusi di Taiwan, ia harus terlebih dahulu menerima pelatihan paling profesional.
+1979, Chu Tsung-ching memutuskan pergi ke Konservatorium Musik Wina untuk studi lanjut. Keputusan ini cukup berani saat itu — tidak hanya harus hadapi hambatan bahasa dan perbedaan budaya, lebih harus menemukan posisinya di tradisi musik yang benar-benar asing. Tapi ia tahu, untuk mempromosikan perkusi di Taiwan, harus terlebih dahulu menerima pelatihan paling profesional.
 
-Selama tiga tahun belajar di Wina, Chu Tsung-ching tidak hanya menguasai teknik bermain yang cemerlang, yang lebih penting adalah ia memperluas pemahaman tentang sisi artistik alat perkusi. Tradisi musik Eropa membawanya memahami bahwa alat perkusi bukan sekadar "memukul-memukul", melainkan sebuah seni yang membutuhkan keterampilan tinggi dan kemusikan.
+Tiga tahun belajar di Wina, Chu Tsung-ching tidak hanya menguasai teknik main yang canggih, yang lebih penting adalah memperluas pemahaman tentang nilai seni perkusi. Tradisi musik Eropa membuatnya sadar, perkusi bukan sekadar "mencetuk-mencetuk", melainkan seni yang membutuhkan ketrampilan tinggi dan musicalitas.
 
-## 1986: Tahun Pertama Musik Perkusi Taiwan
+## 1986: Tahun Pertama Perkusi Taiwan
 
-Setelah pulang dari Wina pada 1982, Ju Tzong-ching tidak buru-buru mendirikan grup musik. Ia terlebih dahulu mengumpulkan pengalaman di bidang pendidikan, mengamati lingkungan musik Taiwan, sambil memikirkan bagaimana menggabungkan pengetahuan profesional yang dipelajarinya di Eropa dengan tanah budaya Taiwan.
+1982 pulang dari Wina, Chu Tsung-ching tidak buru-buru mendirikan kelompok. Ia dulu menumpuk pengalaman di dunia pendidikan, mengamati lingkungan musik Taiwan, sambil merenung cara memadukan pengetahuan profesional yang didapat di Eropa dengan tanah budaya Taiwan.
 
-Pada 2 Januari 1986, Grup Perkusi Ju Tzong-ching (朱宗慶打擊樂團) resmi didirikan, ini adalah grup perkusi profesional pertama di Taiwan. Pada awal pendiriannya, grup ini hanya memiliki 4 anggota, dan tempat pertunjukan sangat terbatas, namun Ju Tzong-ching memiliki misi yang jelas: mengubah stereotip masyarakat terhadap musik perkusi melalui pertunjukan berkualitas tinggi.
+2 Januari 1986, Kelompok Perkusi Chu Tsung-ching resmi didirikan, ini adalah kelompok perkusi profesional pertama Taiwan. Awal berdiri, anggota hanya 4 orang, tempat pertunjukan sangat terbatas, tapi Chu Tsung-ching memiliki misi yang jelas: lewat pertunjukan berkualitas tinggi, mengubah stereotip masyarakat terhadap perkusi.
 
-Pertunjukan formal pertama grup ini diadakan di New Stage Taipei (台北新舞台), dengan program yang dirancang dengan cermat, mencakup berbagai gaya seperti klasik, modern, dan musik dunia. Pertunjukan ini mendapat sambutan hangat, media berlomba meliput "seni perkusi yang menakjubkan" ini. Sejak saat itu, Grup Perkusi Ju Tzong-ching mulai dikenal di industri musik Taiwan.
+Pertunjukan resmi pertama di New Stage Taipei, repertuar dirancang matang, meliputi gaya klasik, modern, musik dunia, dan sebagainya. Pertunjukan ini mendapat sambutan hangat, media berlomba meliput "seni percikan yang mengejutkan". Sejak itu, Kelompok Perkusi Chu Tsung-ching mulai dikenal di dunia musik Taiwan.
 
-Dalam beberapa tahun pertama setelah didirikan, Ju Tzong-ching menghabiskan hampir seluruh waktunya untuk pertunjukan dan promosi. Dari konser formal di gedung konser hingga tur sekolah, dari acara perusahaan hingga pertunjukan komunitas, mereka ingin lebih banyak orang mengenal pesona musik perkusi. Strategi promosi "merakyat" ini cepat menunjukkan hasil, dan musik perkusi mulai membangun basis penonton yang solid di Taiwan.
+Beberapa tahun awal berdiri, Chu Tsung-ching hampir menumpahkan seluruh waktu untuk pertunjukan dan promosi. Dari aula konser formal ke tur sekolah, dari acara perusahaan ke pertunjukan komunitas, mereka ingin lebih banyak orang mengenal daya tarik perkusi. Strategi promosi "menyentuh tanah" ini cepat berbuah, perkusi mulai membangun basis penonton yang solid di Taiwan.
 
-## 1991 Sistem Pendidikan: Kunci Penondasan Fondasi
+## Sistem Pendidikan 1991: Kunci Menegakkan Fondasi
 
-Pada tahun 1991, Chu Tsung-ch'ing mengambil keputusan yang lebih penting: mendirikan Sistem Pendidikan Perkusi Chu Tsung-ch'ing. Dia sangat menyadari bahwa agar musik perkusi benar-benar mengakar di Taiwan, mengandalkan pertunjukan profesional saja tidak cukup, harus dimulai dari pendidikan.
+1991, Chu Tsung-ching membuat keputusan lebih penting: mendirikan Sistem Pendidikan Perkusi Chu Tsung-ching. Ia sadar, agar perkusi benar-benar berakar di Taiwan, mengandalkan pertunjukan profesional saja tidak cukup, harus mulai dari pendidikan.
 
-Keistimewaan sistem pendidikan ini terletak pada desainnya yang sistematis dan bertahap. Dari pengenalan musik bagi balita usia 2 tahun hingga kelas profesional dewasa, setiap tahap memiliki perencanaan kurikulum yang lengkap. Chu Tsung-ch'ing sangat memperhatikan pendidikan anak usia dini, ia percaya bahwa "memukul-mukul adalah naluri bawaan anak", dan melalui bimbingan yang tepat, dapat menumbuhkan minat dan rasa ritme anak terhadap musik.
+Ciri sistem pendidikan ini terletak pada desain sistematis dan bertahap. Dari pendidikan musik anak usia 2 tahun hingga kelas profesional dewasa, setiap tahap memiliki perencanaan kurikulum lengkap. Chu Tsung-ching sangat memperhatikan pendidikan anak usia dini, ia percaya "mencetuk-mencetuk adalah kodrat anak", lewat bimbingan yang tepat dapat menumbuhkan minat musik dan rasa irama anak.
 
-Sejak didirikan hingga sekarang sudah lebih dari 30 tahun, sistem pendidikan ini telah mendirikan lebih dari 60 pusat pembelajaran di seluruh Taiwan, dan mendidik lebih dari 200.000 siswa. Meskipun siswa-siswa ini tidak semuanya menjadi musisi profesional, tetapi mereka semua memperoleh kebahagiaan dan pertumbuhan dalam pembelajaran musik. Yang lebih penting, mereka menjadi penonton setia musik perkusi, menondasikan fondasi sosial yang kuat bagi perkembangan musik perkusi Taiwan.
+Sistem pendidikan berdiri hingga sekarang 30 lebih tahun, sudah mendirikan 60 lebih pusat belajar di seluruh Taiwan, men育成 lebih 200 ribu siswa. Siswa-siswa ini meski tidak semua jadi pemusik profesional, tapi semua memperoleh kegembiraan dan pertumbuhan dalam belajar musik. Yang lebih penting, mereka jadi penonton setia perkusi, menegakkan fondasi sosial yang dalam untuk perkembangan perkusi Taiwan.
 
 ## Diplomasi Budaya di Panggung Internasional
 
-Grup Perkusi Ju tidak hanya bersinar di Taiwan, tetapi juga secara aktif memperluas penampilan internasional. Sejak 1990-an, grup ini berkali-kali diundang berpartisipasi dalam festival musik internasional penting, termasuk Festival Musik Asia, Festival Musik Modern Eropa, dan lain-lain. Jejak grup ini meliputi 35 negara dan wilayah di seluruh dunia, dengan total lebih dari 3000 pertunjukan.
+Kelompok Perkusi Chu Tsung-ching tidak hanya bersinar di Taiwan, tapi juga aktif memperluas pertunjukan internasional. Mulai 1990-an, kelompok sering diundang ikut festival musik internasional penting, termasuk Festival Musik Asia, Festival Musik Modern Eropa, jejak kaki melampaui 35 negara dan wilayah, menumpuk lebih 3.000 pertunjukan.
 
-Dalam penampilan internasional, Zhu Zongqing sangat memperhatikan penyajian elemen musik Taiwan. Grup ini sering memasukkan lagu rakyat Taiwan, musik orang asli Taiwan, bahkan musik pop modern ke dalam pertunjukan, menggunakan bahasa perkusi untuk menceritakan kisah Taiwan kepada dunia. Gaya pertunjukan yang memadukan budaya ini memberikan pemahaman baru bagi dunia musik internasional tentang musik Taiwan.
+Di pertunjukan internasional, Chu Tsung-ching sangat memperhatikan penampilan elemen musik Taiwan. Kelompok sering memadukan lagu rakyat Taiwan, musik orang asli, hingga musik pop modern ke dalam pertunjukan, menggunakan bahasa perkusi bercerita tentang Taiwan ke dunia. Gaya pertunjukan fusion budaya ini membuat dunia musik internasional mengenal musik Taiwan dengan wajah baru.
 
-Tahun 2008, grup ini diundang tampil dalam kegiatan budaya sebelum upacara pembukaan Olimpiade Beijing, yang menjadi penampilan penting bagi badan seni Taiwan di acara internasional besar. Peluang penampilan internasional serupa tidak hanya meningkatkan popularitas grup, tetapi juga menjadi sarana penting diplomasi budaya Taiwan.
+2008, kelompok diundang tampil di kegiatan budaya sebelum Pembukaan Olimpiade Beijing, ini penampilan penting kelompok seni Taiwan di acara internasional besar. Peluang pertunjukan internasional serupa tidak hanya menaikkan popularitas kelompok, juga jadi sarana penting diplomasi budaya Taiwan.
 
-## Era Dewan Seni: Mendorong Kebudayaan
+## Era Dua Aula: Mendorong Kebudayaan
 
-Tahun 2001, Zhu Zongqing menjabat Direktur Pusat Budaya Nasional Chiang Kai-shek (Dewan Seni), dan setelah berubah menjadi badan hukum administrasi pada 2004, ia menjabat sebagai Direktur Artistik pertama. Posisi ini memberinya kesempatan untuk mendorong pengembangan seni pertunjukan Taiwan dari tingkat yang lebih tinggi.
+2001, Chu Tsung-ching menjabat Kepala Pusat Budaya Nasional Chungcheng (Dua Aula), 2004 setelah berubah jadi badan hukum administratif menjabat Direktur Seni pertama. Jabatan ini memberinya kesempatan mendorong perkembangan seni pertunjukan Taiwan dari tingkat lebih tinggi.
 
-Selama menjabat di Dewan Seni, Zhu Zongqing mendorong banyak program inovatif, termasuk "Pesta Jazz Musim Panas Dewan Seni", "Lokus Eksperimen Ide Baru", dan lain-lain. Ia sangat memperhatikan kolaborasi lintas disiplin, aktif memfasilitasi penggabungan berbagai bentuk seni seperti musik, tari, dan teater, menciptakan banyak karya yang menakjubkan.
+Masa jabat di Dua Aula, Chu Tsung-ching mendorong banyak program inovatif, termasuk "Pesta Jazz Musim Panas Dua Aula", "Lokus Eksperimen Ide Baru", dll. Ia sangat memperhatikan kolaborasi lintas bidang, aktif memfasilitasi kolaborasi musik, tari, teater, dan bentuk seni lain, melahirkan banyak karya menakjubkan.
 
-Ia juga dengan giat mendorong pendidikan seni, mengadakan berbagai konser keluarga, aktivitas apresiasi musik, dan kemah seni. Dalam filsafat Zhu Zongqing, teater tidak seharusnya hanya menjadi menara gading budaya elit, melainkan harus menjadi tempat penting untuk pendidikan seni seluruh rakyat. Konsep "menjadikan seni bagian dari kehidupan, menjadikan kehidupan seni" ini sangat memengaruhi arah perkembangan dunia seni pertunjukan Taiwan.
+Ia juga gencar mendorong pendidikan seni, menggelar berbagai konser keluarga, acara pendengaran terpandu, kamp seni, dll. Dalam konsep Chu Tsung-ching, teater tidak boleh jadi menara gading budaya elit, tapi harus jadi tempat penting pendidikan seni untuk seluruh rakyat. Konsep "menjadikan seni bagian kehidupan, menjadikan kehidupan seni" ini memengaruhi dalam arah perkembangan dunia seni pertunjukan Taiwan.
 
-## Penghargaan Nasional Seni 2000
+## Penghargaan Penghargaan Seni Budaya Nasional 2000
 
-Tahun 2000, Zhu Zongqing menerima Penghargaan Nasional Seni ke-4, sebagai penghargaan atas kontribusi luar biasanya bagi pengembangan budaya musik Taiwan. Penghargaan ini bukan hanya pengakuan atas pencapaian pribadinya, tetapi juga pengakuan atas perkembangan perkusi Taiwan secara keseluruhan.
+2000, Chu Tsung-ching meraih Penghargaan Seni Budaya Nasional ke-4, menghargai kontribusi luarbiasanya bagi perkembangan budaya musik Taiwan. Penghargaan ini bukan hanya pengakuan pencapaian pribadi, lebih pengakuan bagi seluruh perkembangan perkusi Taiwan.
 
-Dalam pidato pemberian penghargaan oleh Komite Juri Penghargaan Nasional Seni disebutkan: "Zhu Zongqing dengan kemampuan profesional dan semangatnya, berhasil membangun sistem perkusi yang lengkap di Taiwan, tidak hanya melatih banyak bakat musik, tetapi juga mendorong peningkatan lingkungan musik secara keseluruhan." Penilaian ini merangkum dengan tepat kontribusi Zhu Zongqing bagi budaya Taiwan.
+Kata penghargaan Juri Penghargaan Seni Budaya Nasional menyebut: "Chu Tsung-ching dengan kemampuan profesional dan semangatnya, berhasil membangun sistem perkusi lengkap di Taiwan, tidak hanya men育成 bakat musik dalam jumlah besar, lebih mendorong peningkatan lingkungan musik secara keseluruhan." Penilaian ini merangkum dengan tepat kontribusi Chu Tsung-ching bagi budaya Taiwan.
 
-Selain Penghargaan Nasional Seni, Zhu Zongqing juga menerima banyak penghargaan penting lainnya, termasuk Penghargaan Karya Seni Kementerian Pendidikan, Penghargaan Seni Sun Yat-sen, dan lain-lain. Namun ia sering berkata, pencapaian terbesarnya adalah menyaksikan perkusi di Taiwan berkembang dari tidak ada menjadi ada, dari niche menjadi populer.
+Selain Penghargaan Seni Budaya Nasional, Chu Tsung-ching juga meraih banyak penghargaan penting lain, termasuk Penghargaan Karya Seni Departemen Pendidikan, Penghargaan Seni Budaya Zhongshan. Tapi ia sering bilang, pencapaian terbesar adalah menyaksikan perkusi di Taiwan dari tidak ada jadi ada, dari minoritas jadi mayoritas, proses metamorfosisnya.
 
-## Upaya Inovatif Kolaborasi Lintas Disiplin
+## Percobaan Inovatif Kolaborasi Lintas Bidang
 
-Kontribusi penting lain Zhu Zongqing adalah mendorong penggabungan perkusi dengan bentuk seni lain. Saat grup didirikan pada 1986, ia langsung berkolaborasi dengan Cloud Gate Dance Theatre (雲門舞集) mempertunjukkan karya tari klasik 《薪傳》, menciptakan teladan bagi kolaborasi musik dan tari.
+Kontribusi penting lain Chu Tsung-ching adalah mendorong kolaborasi perkusi dengan bentuk seni lain. 1986 awal berdiri kelompok, sudah kolaborasi dengan Kolektif Tari Yunmen tampil karya tari klasik "Warisan", menciptakan teladan kolaborasi musik dan tari.
 
-Setelahnya, grup ini berturut-turut berkolaborasi dengan Cloud Gate Dance Theatre, Lanling Theatre (蘭陵劇坊), Performance Workshop (表演工作坊) dan badan seni penting lainnya, menciptakan banyak karya lintas disiplin. Kolaborasi dengan Lanling Theatre pada 1989 untuk 《螢火》, lebih merupakan tonggak penting dalam sejarah teater Taiwan.
+Kemudian, kelompok berturut-turut kolaborasi dengan Kolektif Tari Yunmen, Teater Lanling, Bengkel Pertunjukan, dan kelompok seni penting lain, menciptakan banyak karya lintas bidang. 1989 kolaborasi dengan Teater Lanling "Kuntilanak", jadi tonggak penting sejarah teater Taiwan.
 
-Zhu Zongqing juga aktif berkolaborasi dengan dunia musik pop, pernah tampil bersama musisi seperti Lo Ta-yu (羅大佑), Jonathan Lee (李宗盛), Wu Bai (伍佰) dan lain-lain. Pendekatan yang mematahkan batas antara klasik dan pop ini membuat lebih banyak orang muda mengenal perkusi, serta memasukkan vitalitas baru ke dalam musik tradisional.
+Chu Tsung-ching juga aktif kolaborasi dengan dunia musik pop, pernah tampil bareng Luo Dayou, Li Zongsheng, Wu Bai, dan pemusik lain. Praktik menghancurkan batas klasik dan pop ini membuat lebih banyak muda mengenal perkusi, juga menyuntikkan vitalitas baru ke musik tradisional.
 
-## Era Kepala Universitas Seni Taipei
+## Era Rektor Universitas Seni Nasional Taipei
 
-Tahun 2006 hingga 2013, Zhu Zongqing menjabat Rektor Universitas Seni Nasional Taipei. Selama tujuh tahun ini, ia berdedikasi untuk meningkatkan kualitas pendidikan seni, mendorong pertukaran internasional, menjadikan Taipei National University of the Arts (TNUA) sebagai pusat penting pendidikan seni di Asia.
+2006 hingga 2013, Chu Tsung-ching menjabat Rektor Universitas Seni Nasional Taipei. Tujuh tahun ini, ia bertekad meningkatkan kualitas pendidikan seni, mendorong pertukaran internasional, membuat Utara Seni jadi pusat pendidikan seni penting di Asia.
 
-Selama menjabat rektor, Zhu Zongqing sangat memperhatikan integrasi lintas bidang. Ia mendorong kolaborasi antar jurusan seperti musik, tari, teater, seni rupa, mendorong siswa untuk berinteraksi dengan berbagai bentuk seni. Filosofi pendidikan seni komprehensif ini melahirkan banyak pekerja seni dengan pemikiran inovatif.
+Masa jabatan rektor, Chu Tsung-ching sangat memperhatikan integrasi lintas bidang. Ia mendorong kolaborasi jurusan musik, tari, teater, seni rupa, mendorong siswa menyentuh bentuk seni beragam. Konsep pendidikan seni menyeluruh ini men育成 banyak pekerja seni berpikir inovatif.
 
-Ia juga aktif mendorong kerjasama internasional, membangun hubungan pertukaran dengan banyak institusi seni ternama di Eropa, Amerika, dan Asia. Berkat usahanya, TNUA tidak hanya menjadi pilihan utama bagi siswa Taiwan yang ingin melanjutkan studi seni, tetapi juga menarik banyak siswa internasional untuk belajar di sana.
+Ia juga gencar mendorong kerjasama internasional, membangun hubungan pertukaran dengan banyak akademi seni ternama di Eropa, Amerika, Asia. Usahanya membuat Utara Seni tidak hanya jadi pilihan utama siswa Taiwan mendalami seni, juga menarik banyak siswa internasional datang kuliah.
 
 ## Promosi Musik yang Terus Berinovasi
 
-Meski sudah mendekati usia tujuh puluh tahun, Zhu Zongqing terus berinovasi dalam promosi musik. Belakangan ini, ia aktif memanfaatkan teknologi digital untuk mempromosikan perkusi, melalui kursus daring, pertunjukan VR, dan cara lain, agar lebih banyak orang dapat mengakses perkusi.
+Meski sudah mendekati usia tujuh puluh, Chu Tsung-ching tetap berinovasi di promosi musik. Tahun-tahun terakhir, ia aktif memanfaatkan teknologi digital mempromosikan perkusi, lewat kelas daring, pertunjukan VR, dll, agar lebih banyak orang bisa menyentuh perkusi.
 
-Selama pandemi 2020, Grup Perkusi Zhu Zongqing mengadakan beberapa konser daring, yang tidak hanya mempertahankan koneksi dengan penonton, tetapi juga membuka kemungkinan baru bagi pertunjukan musik. Semangat inovatif yang bergerak seiring zaman inilah kunci keberhasilan berkelanjutan Zhu Zongqing selama empat puluh tahun.
+2020 masa pandemi, Kelompok Perkusi Chu Tsung-ching menggelar banyak konser daring, tidak hanya mempertahankan koneksi dengan penonton, juga membuka kemungkinan baru pertunjukan musik. Semangat inovasi bergerak mengikuti zaman inilah kunci keberhasilan berkelanjutan Chu Tsung-ching empat puluh tahun.
 
-Zhu Zongqing juga sangat memperhatikan pengembangan generasi muda. Grup ini secara teratur mengadakan "Kemah Musim Panas Perkusi", "Orkes Perkusi Remaja", dan kegiatan lainnya, memberikan bimbingan profesional bagi orang muda yang berminat mengembangkan perkusi. Banyak pemain perkusi yang saat ini aktif di dunia musik Taiwan pernah menerima bimbingan dari Zhu Zongqing.
+Chu Tsung-ching juga sangat memperhatikan pembentukan generasi muda. Kelompok rutin menggelar "Kemah Musim Panas Perkusi", "Kelompok Perkusi Remaja", dll, memberikan bimbingan profesional bagi muda yang ingin berkembang di perkusi. Banyak pemusik perkusi yang sekarang aktif di dunia musik Taiwan, dulu pernah menerima bimbingan Chu Tsung-ching.
 
-## Empat Puluh Tahun Dampak Budaya
+## Dampak Budaya Empat Puluh Tahun
 
-Meninjau kembali usaha Zhu Zongqing selama empat puluh tahun, dampaknya terhadap budaya Taiwan bersifat menyeluruh. Pertama, ia berhasil mempromosikan seni yang minim peminat menjadi bentuk musik yang akrab bagi masyarakat luas, memperluas wawasan musik rakyat Taiwan. Kedua, sistem pendidikan yang ia bangun telah mendidik ratusan ribu pelajar musik, meningkatkan literasi musik masyarakat secara keseluruhan.
+Meninjau usaha Chu Tsung-ching empat puluh tahun, dampaknya bagi budaya Taiwan adalah menyeluruh. Pertama, ia berhasil mempromosikan seni minim peminat jadi bentuk musik familiar bagi masyarakat luas, memperluas cakrawala musik warga Taiwan. Kedua, sistem pendidikan yang dibangunnya men育成 ratusan ribu pembelajar musik, meningkatkan literasi musik masyarakat secara keseluruhan.
 
-Lebih penting lagi, Zhu Zongqing membuktikan bahwa seni budaya juga dapat menjadi usaha sosial yang sukses. Model usahanya menggabungkan ideal seni dengan keberlanjutan komersial, memberikan referensi penting bagi kelompok seni lain di Taiwan. Praktik perintis ini dalam «industri kreatif budaya» berdampak mendalam bagi perkembangan industri budaya Taiwan secara keseluruhan.
+Yang lebih penting, Chu Tsung-ching membuktikan seni budaya juga bisa jadi usaha sosial yang sukses. Model pengelolaannya memadukan idealisme seni dengan kelestarian komersial, memberikan referensi penting bagi kelompok seni lain Taiwan. Praktik perintis "industri kreatif budaya" ini punya dampak mendalam bagi perkembangan industri budaya Taiwan secara keseluruhan.
 
-Zhu Zongqing sering berkata: «Musik tidak memiliki batas negara, tetapi musisi memiliki tanah air.» Ia berharap melalui kekuatan musik, dunia mengenal vitalitas budaya Taiwan. Selama empat puluh tahun, ia tidak hanya mewujudkan keinginan itu, tetapi juga membesarkan tak terhitung jumlah pecinta musik bagi Taiwan, meletakkan fondasi yang kokoh bagi perkembangan budaya Taiwan.
+Chu Tsung-ching sering bilang: "Musik tidak punya batas negara, tapi pemusik punya kampung halaman." Ia ingin lewat kekuatan musik, membuat dunia mengenal vitalitas budaya Taiwan. Empat puluh tahun, ia tidak hanya mewujudkan keinginan ini, lebih men育成 tak terhitung pencinta musik untuk Taiwan, menegakkan fondasi yang dalam bagi perkembangan budaya Taiwan.
 
-Kisah sang «Bapak Perkusi Taiwan» memberitahu kita bahwa kekuatan budaya memerlukan seseorang yang menggarapnya jangka panjang dan berinovasi terus-menerus. Zhu Zongqing menggunakan waktu empat puluh tahun, mengubah mimpi musik seorang individu menjadi aset budaya seluruh masyarakat, ketekunan dan visi semacam ini layak diteladani oleh semua pekerja budaya.
+Kisah sang "Bapak Perkusi Taiwan" memberitahu kita, kekuatan budaya butuh orang yang menggarap jangka panjang, terus berinovasi. Chu Tsung-ching pakai empat puluh tahun, mengubah mimpi musik seorang individu, jadi aset budaya seluruh masyarakat, ketekunan dan wawasan semacam ini pantas jadi teladan semua pekerja budaya.
 
 ## Referensi
 
-- [Basis Data Profil Musik Taiwan - Zhu Zongqing](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
-- [Zhu Zongqing - Universitas Seni Taipei](https://chai.tnua.edu.tw/en/faculty/pr24/)
-- [Zhu Zongqing - Hadiah Seni Nasional](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
-- [Sistem Pendidikan Perkusi Zhu Zongqing](https://www.juschool.com.tw/)
-- [Situs Resmi Grup Perkusi Zhu Zongqing](https://www.jpg.org.tw/)
+- [Basis Data Tokoh Musik Taiwan - Chu Tsung-ching](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
+- [Chu Tsung-ching - Universitas Seni Nasional Taipei](https://chai.tnua.edu.tw/en/faculty/pr24/)
+- [Chu Tsung-ching - Penghargaan Seni Budaya Nasional](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
+- [Sistem Pendidikan Perkusi Chu Tsung-ching](https://www.juschool.com.tw/)
+- [Situs Resmi Kelompok Perkusi Chu Tsung-ching](https://www.jpg.org.tw/)
