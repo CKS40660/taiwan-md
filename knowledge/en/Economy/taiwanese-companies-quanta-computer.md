@@ -1,16 +1,16 @@
 ---
-title: 'Taiwanese Enterprises: Quanta Computer'
-description: 'From factory fire to global laptop king: How Lim Pai-li built a new empire for the AI era?'
+title: 'Taiwan Enterprise: Quanta Computer'
+description: "In 1987, a factory fire led Barry Lam to resign and leave Kinpo Electronics; the following year he founded Quanta in Taipei's Shilin district with a capital of NT$30 million. 36 years later, the company became the world's largest notebook OEM, with 2023 revenue reaching NT$1.08 trillion; one in every three notebooks worldwide comes from Quanta. With the arrival of the AI era, Quanta has once again transformed splendidly, becoming NVIDIA's most important server assembly partner."
 date: 2026-03-21
 category: 'Economy'
 tags:
   [
     'Economy',
     'Enterprise',
-    'Electronics Manufacturing',
+    'Electronics Contract Manufacturing',
     'ODM',
     'AI Cloud',
-    'Laptops',
+    'Notebook',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：廣達電腦.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
-translatedAt: '2026-08-04T12:03:20+08:00'
+translatedAt: '2026-10-15T22:44:37.344979+00:00'
 ---
 
 > **30-Second Overview:** A factory fire in 1987 led Lim Pai-li (林百里) to resign from Compal Electronics.

@@ -1,19 +1,20 @@
 ---
-title: "Chu Ke-liang"
-description: "Icon of Taiwan's show culture, beloved national comedian, passed away in 2017"
+title: 'Zhu Ge Liang'
+description: 'Born Xie Xinda in 1946 in Zuoying, Kaohsiung, he was the son of a blacksmith and a vegetable vendor. After dropping out of elementary school, he began apprenticing in Taiwanese Opera at age 15. He rose to fame in the 1960s by imitating pop stars at night markets. During the 1970s, as Taiwan''s economy boomed and demand for nighttime entertainment grew, the show stage culture emerged. He blended traditional opera, folk storytelling, and popular elements into his signature "Zhu-style humor," using improvised rhyming in Taiwanese to bring grassroots language to television variety shows. He passed away from colon cancer in May 2017.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "數位與媒體"
-tags: ['豬哥亮', '秀場', '喜劇', '綜藝', '台語']
+category: 'People'
+tags:
+  ['Zhu Ge Liang', 'Show Stage', 'Comedy', 'Variety Show', 'Taiwanese Hokkien']
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: People/豬哥亮.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:9339a35ccebb0ba3
-sourceBodyHash: sha256:267addb8edcb3bef
-translatedAt: 2026-05-20T05:08:27+08:00
+translatedFrom: 'People/豬哥亮.md'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
+sourceBodyHash: 'sha256:267addb8edcb3bef'
+translatedAt: '2026-10-15T23:24:52.092197+00:00'
 ---
 
 # Chu Ke-liang: The People's King of Taiwan Show Culture
@@ -24,7 +25,7 @@ From a military dependents' village in Zuoying, Kaohsiung, to television screens
 
 Chu Ke-liang, born Hsin Ta Hsieh on December 6, 1946, was born in Zuoying District, Kaohsiung[^1]. His father, Hsieh Huo-yen, was a blacksmith, and his mother sold vegetables at the market — the family lived in modest circumstances. He grew up in the military dependents' village area of Zuoying, deeply immersed in the local popular culture.
 
-He dropped out of school after elementary due to financial hardship and began working to help support the family. At age 15, he encountered Taiwanese opera (歌仔戲, *koa-á-hì*) and apprenticed to learn traditional theater — an experience that laid the foundation for his future performances.
+He dropped out of school after elementary due to financial hardship and began working to help support the family. At age 15, he encountered Taiwanese opera (歌仔戲, _koa-á-hì_) and apprenticed to learn traditional theater — an experience that laid the foundation for his future performances.
 
 In the 1960s, he began performing on the streets of night markets (夜市), imitating popular singers and film stars of the day. His lively act gradually earned him a local reputation.
 
@@ -38,7 +39,7 @@ His show performances often wove in commentary on current events and social sati
 
 ## The Golden Age of TV Variety Shows
 
-As Taiwan's television industry flourished in the 1980s, Chu Ke-liang successfully transitioned to the variety show world. His program *Chu Ke-liang's Cabaret Show* (《豬哥亮歌廳秀》) became one of the most popular variety shows of its era[^2].
+As Taiwan's television industry flourished in the 1980s, Chu Ke-liang successfully transitioned to the variety show world. His program _Chu Ke-liang's Cabaret Show_ (《豬哥亮歌廳秀》) became one of the most popular variety shows of its era[^2].
 
 The show followed a cabaret format, combining singing, dance, and comedy sketches. Chu Ke-liang's unique hosting style and improvisational talent kept the program full of surprises and laughter.
 
@@ -62,15 +63,15 @@ This low period gave Chu Ke-liang time for deep personal reflection and a renewe
 
 ## A Glorious Comeback and a Second Career Peak
 
-In the late 2000s, Chu Ke-liang returned to the Taiwan entertainment scene and launched a second career peak. Programs he hosted, such as *Chu Ke-liang's Club* (《豬哥會社》), once again won audience favor[^3].
+In the late 2000s, Chu Ke-liang returned to the Taiwan entertainment scene and launched a second career peak. Programs he hosted, such as _Chu Ke-liang's Club_ (《豬哥會社》), once again won audience favor[^3].
 
 Post-comeback, his performances grew more refined — while maintaining his original style, he also placed greater emphasis on production quality. He collaborated with younger entertainers, demonstrating strong adaptability.
 
-In the 2010s, he appeared in several films, including the box-office hit *David Loman* (《大尾鱸鰻》).
+In the 2010s, he appeared in several films, including the box-office hit _David Loman_ (《大尾鱸鰻》).
 
 ## A New Venture into Film
 
-In his later years, Chu Ke-liang took on film roles, playing a key part in director Chiu Li-kwan's *David Loman* series, which posted impressive box-office results[^4].
+In his later years, Chu Ke-liang took on film roles, playing a key part in director Chiu Li-kwan's _David Loman_ series, which posted impressive box-office results[^4].
 
 He successfully transferred his television variety experience to the big screen, proving the market potential for Taiwanese-language comedy films.
 
@@ -130,8 +131,12 @@ Linguists analyzing the structure of Chu-style humor have identified several cor
 
 ## References
 
-[^1]: Wikipedia entry "Chu Ke-liang," https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, birthplace: Zuoying District, Kaohsiung
-[^2]: *Liberty Times*, "Chu Ke-liang's Funeral — Thousands Pay Their Respects," https://news.ltn.com.tw/, May 21, 2017
-[^3]: Taiwan Television Database, https://tv.nccu.edu.tw/, program records for *Chu Ke-liang's Club*
-[^4]: *Central News Agency*, "David Loman Box Office Exceeds NT$300 Million," https://www.cna.com.tw/, February 2013 box office report
-[^5]: *United Daily News*, "Chu Ke-liang Passes Away on May 15 at Age 70," https://udn.com/, May 15, 2017
+[^1]: Wikipedia entry for "Zhu Ge Liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, birthplace: Zuoying District, Kaohsiung City
+
+[^2]: Liberty Times, "Zhu Ge Liang's Funeral: 10,000 People Bid Farewell", https://news.ltn.com.tw/, May 21, 2017
+
+[^3]: Taiwan Television Database, https://tv.nccu.edu.tw/, "Zhu Ge Hui She" program records
+
+[^4]: Central News Agency, "The Great Tail Snapper Box Office Exceeds NT$300 Million", https://www.cna.com.tw/, February 2013 box office report
+
+[^5]: UDN News, "Zhu Ge Liang Passes Away on May 15 at Age 70", https://udn.com/, May 15, 2017

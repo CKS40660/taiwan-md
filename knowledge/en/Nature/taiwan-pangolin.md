@@ -1,20 +1,28 @@
 ---
 title: 'Taiwan Pangolin'
-description: 'The most trafficked mammal in the world has found a safe home in Taiwan'
+description: 'The most trafficked mammal in the world, yet the Taiwan subspecies of pangolin has found a safe haven in Taiwan: while their relatives elsewhere in Asia face extinction due to trafficking, Taiwan has achieved population stability and even recovery through strict legal protection, habitat conservation, scientific research, and captive breeding — becoming a rare conservation success story that shows species extinction is not inevitable.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
+tags:
+  [
+    'Pangolin',
+    'Conservation',
+    'Endangered Species',
+    'Trafficking',
+    'Taipei Zoo',
+    'Ecology',
+  ]
 subcategory: '野生動物'
-tags: ['穿山甲', '保育', '瀕危物種', '走私', '台北動物園', '生態']
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:bc4a8eee501f028c'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
 sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-05-15T15:39:39+08:00'
+translatedAt: '2026-10-15T23:04:36.073089+00:00'
 ---
 
 # Taiwan Pangolin
@@ -101,15 +109,15 @@ In an era of rapidly accelerating biodiversity loss, the story of the Taiwan pan
 
 ## References
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirms the CoP17 resolution to uplist to Appendix I, effective January 2, 2017.
+[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirms the 2016 CoP17 resolution to uplist to Appendix I, which officially took effect on January 2, 2017.
 
-[^2]: [IUCN Red List: Chinese Pangolin](https://www.iucnredlist.org/species/12764/123589684) — Ecological habits and dietary requirements of the Chinese pangolin (ant/termite consumption estimates vary across studies).
+[^2]: [IUCN Red List: Chinese Pangolin](https://www.iucnredlist.org/species/12764/123589684) — Literature on the ecology, habits, and dietary requirements of the Chinese pangolin (estimates of ant consumption vary among studies).
 
-[^3]: [National Pingtung University of Science and Technology, Institute of Wildlife Conservation](https://www.npust.edu.tw/) — Background on Sun Jing-min and his team's pangolin banding and release research.
+[^3]: [Institute of Wildlife Conservation, National Pingtung University of Science and Technology](https://www.npust.edu.tw/) — Background on the pangolin release research by Sun Ching-min and his research team.
 
-[^4]: [Taiwan Biodiversity Network](https://www.tbn.org.tw/) — Taiwan pangolin distribution and citizen science reporting database.
+[^4]: [Taiwan Biodiversity Network](https://www.tbn.org.tw/) — Database on the distribution of Taiwan pangolin and citizen science reports.
 
-[^5]: [Taipei Zoo Conservation Research](https://www.zoo.gov.taipei/) — Pangolin captive breeding techniques and conservation achievements.
+[^5]: [Taipei Zoo Conservation Research](https://www.zoo.gov.taipei/) — Artificial breeding techniques and conservation achievements for pangolins.
 
 ## Further Reading
 

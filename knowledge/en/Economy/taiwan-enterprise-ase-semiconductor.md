@@ -1,6 +1,6 @@
 ---
-title: 'Taiwanese Enterprises: ASE Group'
-description: "The world's largest OSAT provider: Why did a construction company owner pivot to semiconductors?"
+title: 'Taiwanese Enterprise: ASE Group'
+description: 'In 1984, Zhang Yao-hong, who started in the construction industry, transitioned his family''s capital into semiconductor assembly and testing, founding ASE in Nanzi, Kaohsiung. In 1989, it became Taiwan''s first listed assembly and testing company. In 1998, the acquisition of Korea''s K&S pioneered one-stop "packaging + testing" services. Forty years later, with a 2024 revenue of US$10.1 billion and a global market share of nearly 45%, it has ascended to become the leader in semiconductor assembly and testing—an invisible champion that provides chips with their "clothing" and performs their "medical checkups."'
 date: 2026-03-21
 category: 'Economy'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Economy',
     'Enterprise',
     'Semiconductor Industry',
-    'Packaging and Testing',
+    'Assembly and Testing',
     'Tech Manufacturing',
   ]
 subcategory: '企業列傳'
@@ -19,10 +19,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-08-04T12:03:20+08:00'
+translatedAt: '2026-10-15T23:07:54.031191+00:00'
 ---
 
 > **30-Second Overview:** In 1984, Chang Yao-ying and her two sons, originally from the construction industry, pivoted into semiconductor packaging and testing to found ASE (Advanced Semiconductor Engineering). Forty years later, it has become the world's largest OSAT (Outsourced Semiconductor Assembly and Test) provider, with 2024 revenues reaching $10.1 billion USD and a global market share of nearly 45%. Every iPhone and laptop likely utilizes ASE's technology—it is the "invisible champion" that provides chips with their "clothing" and "physical exams."

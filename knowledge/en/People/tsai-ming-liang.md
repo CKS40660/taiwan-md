@@ -1,13 +1,13 @@
 ---
-title: 'Tsai Ming-liang: The Poet of Slow Cinema'
-description: 'A winner of the Venice Golden Lion, a Malaysian Chinese, and a master of slow cinema aesthetics.'
+title: 'Tsai Ming-liang'
+description: 'Born in 1957 in Sarawak, Malaysia, Tsai Ming-liang moved to Taiwan in 1977 to study drama. He established his personal style with the 1992 film "Rebels of the Neon God," and in 1994 his film "Vive L''Amour" shared the Golden Lion at the Venice Film Festival, making him the third Chinese director to win the award after Hou Hsiao-hsien and Zhang Yimou. Using extremely long takes, sparse dialogue, and a slow pace, he writes of urban loneliness and alienation; from "Vive L''Amour" to the Walker series, he developed a distinctive slow cinema aesthetic.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Director',
     'Tsai Ming-liang',
-    'Slow Cinema',
+    'Slow cinema',
     'Venice Film Festival',
     'Malaysian Chinese',
   ]
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-10-15T22:59:17.472622+00:00'
 ---
 
 # Tsai Ming-liang: The Poet of Slow Cinema
