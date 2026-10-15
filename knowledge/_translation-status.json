@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T21:27:36+08:00",
-    "zhCommitHead": "4f96eb589",
+    "lastUpdated": "2026-10-15T21:40:29+08:00",
+    "zhCommitHead": "959acb477",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,13 +20,21 @@
     "summary": {
       "en": {
         "total_zh": 1135,
+        "fresh": 1097,
+        "stale": 1,
+        "metadata_stale": 35,
+        "missing": 2,
+        "orphan": 0
+      },
+      "ja": {
+        "total_zh": 1135,
         "fresh": 1096,
         "stale": 1,
         "metadata_stale": 36,
         "missing": 2,
         "orphan": 0
       },
-      "ja": {
+      "ko": {
         "total_zh": 1135,
         "fresh": 1095,
         "stale": 1,
@@ -34,27 +42,19 @@
         "missing": 2,
         "orphan": 0
       },
-      "ko": {
-        "total_zh": 1135,
-        "fresh": 1094,
-        "stale": 1,
-        "metadata_stale": 38,
-        "missing": 2,
-        "orphan": 0
-      },
       "es": {
         "total_zh": 1135,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 2,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1135,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 1,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 2,
         "orphan": 0
       },
@@ -92,25 +92,25 @@
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1088,
+        "fresh": 1089,
         "stale": 4,
-        "metadata_stale": 41,
+        "metadata_stale": 40,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1092,
+        "fresh": 1093,
         "stale": 3,
-        "metadata_stale": 38,
+        "metadata_stale": 37,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1090,
+        "fresh": 1091,
         "stale": 4,
-        "metadata_stale": 39,
+        "metadata_stale": 38,
         "missing": 2,
         "orphan": 0
       }
@@ -19566,20 +19566,18 @@
         "ja": {
           "path": "ja/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "35a9b46c8",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
-          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translatedAt": "2026-10-15T20:17:53+08:00",
           "translationLastCommit": "2c2e28f6",
           "translationLastModified": "2026-09-26T22:44:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 17685,
+          "bytes": 19581,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -49954,8 +49952,8 @@
           "sourceContentHash": "sha256:5711dca50c2efd19",
           "sourceBodyHash": "sha256:62cca1f3ce3fb047",
           "translatedAt": "2026-10-15T15:59:54+08:00",
-          "translationLastCommit": "6bcfd503",
-          "translationLastModified": "2026-10-02T02:39:03+08:00",
+          "translationLastCommit": "959acb47",
+          "translationLastModified": "2026-10-15T21:27:36+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 21079,
@@ -50410,20 +50408,18 @@
         "de": {
           "path": "de/Lifestyle/nightlife-and-ktv-culture.md",
           "translatedFrom": "Lifestyle/夜生活與KTV文化.md",
-          "sourceCommitSha": "228056aba",
+          "sourceCommitSha": "ad792c900",
           "sourceContentHash": "sha256:b34cbc0681b4b3a1",
           "sourceBodyHash": "sha256:4439d8751309731f",
-          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translatedAt": "2026-10-15T20:18:07+08:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 15416,
+          "bytes": 14583,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53620,8 +53616,8 @@
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
           "translatedAt": "2026-10-15T20:18:05+08:00",
-          "translationLastCommit": "15c618a2",
-          "translationLastModified": "2026-07-26T02:31:14+08:00",
+          "translationLastCommit": "959acb47",
+          "translationLastModified": "2026-10-15T21:27:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 29674,
@@ -53632,20 +53628,18 @@
         "ru": {
           "path": "ru/Lifestyle/hot-spring-culture.md",
           "translatedFrom": "Lifestyle/溫泉文化.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "d8b2faceb",
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
-          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translatedAt": "2026-10-15T20:18:06+08:00",
           "translationLastCommit": "fab47683",
           "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 35171,
+          "bytes": 36708,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/hot-spring-culture.md",
@@ -71498,20 +71492,18 @@
         "en": {
           "path": "en/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-09-27T21:39:08+08:00",
+          "translatedAt": "2026-10-15T20:17:52+08:00",
           "translationLastCommit": "a895005d",
           "translationLastModified": "2026-09-27T21:44:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 16535,
+          "bytes": 16749,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/long-term-care-system-development.md",
@@ -71532,20 +71524,18 @@
         "ko": {
           "path": "ko/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-04-14T06:03:39+08:00",
+          "translatedAt": "2026-10-15T20:17:55+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18391,
+          "bytes": 18177,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/long-term-care-system-development.md",
@@ -71658,20 +71648,18 @@
         "ar": {
           "path": "ar/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "0471d07ff",
           "sourceContentHash": "sha256:c735ef0db3cd23ac",
           "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translatedAt": "2026-10-15T20:18:05+08:00",
           "translationLastCommit": "8884ad3c",
           "translationLastModified": "2026-07-26T00:48:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 26407,
+          "bytes": 27486,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/long-term-care-system-development.md",
@@ -154812,20 +154800,18 @@
         "es": {
           "path": "es/Food/beef-noodle-soup.md",
           "translatedFrom": "Food/牛肉麵.md",
-          "sourceCommitSha": "271c50fb",
+          "sourceCommitSha": "d8b2faceb",
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "sha256:31e72a4ea39ea451",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
+          "translatedAt": "2026-10-15T20:17:56+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 4,
-          "bytes": 21924,
+          "bytes": 19031,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/beef-noodle-soup.md",
@@ -222256,20 +222242,18 @@
         "fr": {
           "path": "fr/Culture/taiwan-floral-fabric.md",
           "translatedFrom": "Culture/台灣花布.md",
-          "sourceCommitSha": "a43cf915",
+          "sourceCommitSha": "d8b2faceb",
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
-          "translatedAt": "2026-07-06",
+          "translatedAt": "2026-10-15T20:17:58+08:00",
           "translationLastCommit": "256bf44e",
           "translationLastModified": "2026-10-10T23:33:46+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 22565,
+          "bytes": 19868,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-floral-fabric.md",
@@ -222342,8 +222326,8 @@
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
           "translatedAt": "2026-10-15T20:18:05+08:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "959acb47",
+          "translationLastModified": "2026-10-15T21:27:36+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 28746,
