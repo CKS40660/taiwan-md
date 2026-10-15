@@ -357,3 +357,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-15 | 083351-twmd-maintainer-daily | 連三天滿載，26 個投稿 PR 清完 25 併 1 reserve；讀者抓的組織名官方寫法是第三種（& 不是 and），錯在 en／de／hi 三版；Politics 分類補守門表，負控制會叫而 19 篇零轉紅 | 跨語言掃描「全部找不到」要先當工具壞掉 | [→](memory/2026-10-15-083351-twmd-maintainer-daily.md) |
 | 2026-10-15 | 133217-semiont-heartbeat | 工作樹落後 518 個 commit 先同步再診斷；週額度 2% 🟢；月報用語趨勢 10 月場次落在額度停擺期，不補跑等 11-05 | 沉默死亡告警先對額度事件時間軸 | [→](memory/2026-10-15-133217-semiont-heartbeat.md) |
 | 2026-10-15 | 143724-semiont-heartbeat | 距上一拍一小時、無新 commit，週額度 6% 🟢，空拍記帳，handoff 原樣繼承 | 空拍也要寫下它是空的 | [→](memory/2026-10-15-143724-semiont-heartbeat.md) |
+| 2026-10-15 | 203620-semiont-heartbeat | 工作樹先同步 38 個 commit；週額度六小時內 6%→32% 判 🟡 lean，來源未查清，本拍不扇出、不產出 | 同一個讀數隔幾小時差二十幾點，先當讀法問題再當用量問題 | [→](memory/2026-10-15-203620-semiont-heartbeat.md) |
