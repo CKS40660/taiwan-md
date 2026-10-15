@@ -1,34 +1,37 @@
 ---
-title: "Les banquets de Taïwan : le *pān-toh* qui ouvre sous l'orage, et un savoir rituel en train de plier le chapiteau"
-description: "Un banquet de 120 tables, un orage en soirée qui monte jusqu'aux mollets, une dizaine de truites qui s'échappent — le chef itinérant Wang Yi-yong retrousse ses manches et plonge pour les rattraper. Il n'en manquera qu'une. Depuis trois siècles, le *pān-toh* fonctionne ainsi : tant que le maître de maison n'a pas dit stop, on ouvre les tables. Aujourd'hui, le métier se scinde en deux : les plats entrent dans les hôtels cinq étoiles et au guide Michelin, font le voyage jusqu'à l'étranger ; mais le savoir-faire rituel — tout le village mobilisé, le chef comme conseiller folklorique, un univers qui traverse les mondes des vivants, des esprits et des morts — se transmet de moins en moins, et s'éteint en silence. Ce qui disparaît vraiment, ce n'est pas le goût : c'est le pacte tacite qui se cache derrière."
+title: "Le banquet taïwanais : l'arène où le festin se tient malgré le déluge, et un système des trois mondes (humains, dieux, fantômes) qui se démantèle"
+description: "Un banquet de 120 tables : une pluie torrentielle en soirée qui monte jusqu'aux mollets, une dizaine de truites qui nagent, le chef principal Wang Yiyong retrousse ses manches et descend dans l'eau pour les attraper, et au final, il n'en manque qu'une seule. Depuis trois cents ans, les banquets sont ainsi : tant que l'hôte n'a pas dit d'arrêter, le banquet doit avoir lieu. Aujourd'hui, cet artisanat se bifurque : les plats entrent dans les hôtels cinq étoiles et au guide Michelin, et font fureur à l'étranger ; pourtant, cet ensemble de connaissances rituelles qui mobilise tout le village et traverse les trois mondes (humains, dieux, fantômes) se perd silencieusement, faute de successeurs."
 date: 2026-03-30
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '飲食場景'
 tags:
   [
-    'pān-toh',
-    'chef itinérant',
-    'banquet en plein air',
-    'banquet taïwanais',
+    'Banquet taïwanais',
+    'Chef principal',
+    'Banquet à service continu',
+    'Banquet de style taïwanais',
     'Neimen',
-    'rites de passage',
-    'savoir-faire traditionnel',
-    'solidarité communautaire',
+    'Rites de passage',
+    'Savoir-faire traditionnel',
+    'Chaleur humaine',
   ]
-readingTime: 12
+subcategory: '飲食場景'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-07
 lastHumanReview: false
-featured: false
-translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '26a67c77'
-sourceContentHash: 'sha256:87996856be7f510f'
-sourceBodyHash: 'sha256:dc734b24b423e098'
-translatedAt: '2026-06-16T16:54:51Z'
+researchReport: 'reports/research/2026-06/台灣辦桌文化.md'
+viewpoint_formed: true
 image: '/article-images/food/bando-ghost-festival-banquet-2017.webp'
+imageAlt: 'Sur le parvis du temple, la nuit, le banquet est dressé : chaises en plastique rouge, tables rondes aux nappes roses bondées, serveurs portant des plats dans les allées, et lanternes rouges suspendues au-dessus.'
 imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
+readingTime: 12
+translatedFrom: 'Food/台灣辦桌文化.md'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:050249e143e4dbb3'
+sourceBodyHash: 'sha256:22ecadf2b6d21f0e'
+translatedAt: '2026-10-14T23:48:29.095794+00:00'
 ---
 
 # Les banquets de Taïwan : le _pān-toh_ qui ouvre sous l'orage, et un savoir rituel en train de plier le chapiteau
@@ -162,44 +165,46 @@ Le plat légendaire « poulet-porc-tortue » (_jī zǐ zhū dù biē_) du film _
 
 > Remarquez un choix dont personne ne parle. Le marché offre en réalité au secteur du _pān-toh_ une voie facile : utiliser des plats préparés surgelés, des semi-finis, et servir quand même les 12 plats — les convives ne verraient probablement pas la différence. En empruntant cette voie, le secteur pourrait durer plus longtemps. Mais le prix à payer serait que ces _shǒu lù cài_, qui ne s'apprennent que par la transmission orale et manuelle entre maître et disciple, mourraient en silence — non pas parce que personne ne les aime, mais parce que personne n'a plus besoin de les apprendre. Un savoir-faire est rarement éliminé par quelque chose de nouveau ; le plus souvent, il est contourné, un peu à la fois, par le « assez bon ».
 
-## L'hiver le plus long
+## Le plus long des hivers
 
-Si la rupture générationnelle est une maladie chronique, la pandémie de 2020 est une crise aiguë.
+Si la fracture intergénérationnelle est une maladie chronique, alors la pandémie de 2020 a été une affection aiguë.
 
-Le _Reporter_ a alors interrogé près de 10 chefs itinéants du nord et du sud de l'île. Le consensus : le nombre de tables de traiteur a chuté d'au moins 90 % depuis le début de l'année lunaire (ce consensus provient de l'entretien, pas de statistiques officielles)[^26]. Xue Meng-hui a vu plus de 500 tables annulées rien qu'aux deuxième et troisième mois lunaires ; la deuxième génération d'une famille de _pān-toh_, habituée à manier la grande spatule pour les marmites, n'a eu d'autre choix que de saisir une petite louche et de préparer des boîtes-repas pour survivre[^26].
+《報導者》 a interviewé à l'époque près de 10 chefs de banquet du nord au sud, et le consensus obtenu est : le nombre de tables de banquet extérieur a diminué d'au moins 90 % à partir du Nouvel An lunaire (ceci est le consensus des interviews, pas une statistique officielle)[^26]. Rien que pendant les 2e et 3e mois du calendrier lunaire, Hsüeh Meng-hui a vu plus de 500 tables annulées ; chez une famille de banquet de deuxième génération, le second, habitué à manier la grande pelle pour faire sauter les plats dans les grands woks, n'a pu que tenir une petite louche pour emballer des bentos un par un pour survivre[^26].
 
-Les chiffres officiels ne sont pas plus rassurants. Selon les statistiques du ministère de l'Économie, en avril 2020, le chiffre d'affaires du secteur « traiteur et restauration collective » a chuté de 32,3 % en glissement annuel, pour un montant d'environ 2,5 milliards de dollars taïwanais[^27]. Mais ce chiffre doit être lu avec précaution : il est principalement tiré par la baisse des cuisines aériennes (_kōng chú_), et un grand nombre de _pān-toh_ en plein air n'ont aucune inscription commerciale et ne figurent pas dans les statistiques — pour le _pān-toh_ en extérieur, ce chiffre constitue donc une **sous-estimation** de l'impact réel[^27].
+Les chiffres officiels ne tiennent pas non plus. Selon les statistiques du Ministère de l'Économie, en avril 2020, le chiffre d'affaires des « services de banquet extérieur et de restauration collective sous contrat » a chuté de 32,3 % en glissement annuel, le chiffre d'affaires du mois s'élevant à environ NT$2,5 milliards[^27]. Cependant, ce chiffre doit être lu avec prudence : il est principalement tiré vers le bas par les cuisines aériennes (cuisines vides), et une grande quantité de _pān-toh_ en plein air n'ont tout simplement pas d'enregistrement d'activité, ne rentrant pas dans le périmètre statistique — donc pour les _pān-toh_ en plein air, ce chiffre **sous-estime** en réalité l'impact qu'ils ont subi[^27].
 
 ```tw-stat
-90 % | Baisse du nombre de tables de traiteur (entretien d'une dizaine de chefs itinéants) | Depuis le début de l'année lunaire 2020
-32,3 % | Baisse du chiffre d'affaires des traiteurs et restaurants collectifs | Ministère de l'Économie, avril 2020
-2 % | Diplômés des écoles de restauration se tournant vers le traiteur | Observation de Jiang Yi-yong
+90 % | Réduction du nombre de tables de banquet extérieur (interviews de près de 10 chefs de banquet) | À partir du Nouvel An lunaire 2020
+32,3 % | Baisse annuelle du chiffre d'affaires des services de banquet extérieur et de restauration collective sous contrat | Ministère de l'Économie, avril 2020
+2 % | Diplômés de filières hôtelières entrant dans le banquet extérieur | Observation de Chiang I-yung
+Source : Interviews de chefs de banquet par 《報導者》 (réduction de 90 % des tables) + Statistiques du Ministère de l'Économie (baisse annuelle de 32,3 % en avril 2020) + Observation de Chiang I-yung sur la proportion de diplômés de filières hôtelières entrant dans le secteur[^23][^26][^27]
 ```
 
-Au-delà de la pandémie, le _pān-toh_ du nord de l'île fait face à une difficulté plus structurelle encore : l'espace. Li Jun-xiang décrit la situation : dans le nord, il faut d'abord barrer la route et demander une autorisation d'occupation de la voie publique, et les voisins portent souvent plainte : « Même quand on fait frire quelque chose, les habitants d'à côté nous insultent et menacent de dénoncer à l'agence environnementale pour pollution atmosphérique. Les plus excités nous jettent même des objets depuis l'étage pour nous chasser. »[^28] Et les centres communautaires et auditoriums d'écoles élémentaires de Taipei ne sont presque jamais mis à disposition pour des banquets[^28]. Dans une ville où le sol vaut de l'or, trouver un espace légalement autorisé pour installer des tables en plein air devient de plus en plus difficile.
+Au-delà de la pandémie, les _pān-toh_ du nord font face à une difficulté plus structurelle : l'espace. Li Chün-hsiang décrit que les _pān-toh_ du nord doivent d'abord fermer la route, demander le droit de passage, et sont encore souvent signalés par les voisins : « Même quand nous faisons frire des choses, les résidents d'à côté nous engueulent, veulent signaler à l'EPA que nous créons de la pollution de l'air. Les plus excités jettent même des choses depuis les étages supérieurs pour chasser les gens. »[^28] Et les centres d'activités et les auditoriums des écoles primaires de Taipei refusent presque tous d'être prêtés pour des banquets[^28]. Dans une ville où chaque mètre carré compte, il devient de plus en plus difficile pour les _pān-toh_ en plein air de trouver un endroit où installer légalement les tables.
 
-Toutes ces pressions sont-elles uniquement négatives ? Le spécialiste culturel Yan Zhen-yu a un point de vue différent. Il estime que la pandémie, tout en étant un coup dur, a aussi servi de stimulant, obligeant les chefs itinéants à améliorer leurs normes d'hygiène et à réfléchir sérieusement à la transition[^29]. Mais la peur la plus profonde des chefs interrogés est d'une autre nature : « Ce qui nous inquiète, ce n'est pas seulement cette année, c'est que les gens prennent l'habitude de ne plus faire appel au _pān-toh_. »[^29] La conclusion du _Reporter_ est lucide : le _pān-toh_ est étroitement lié à la conjoncture économique, et un redressement rapide est peu probable[^29].
+Ces pressions sont-elles toutes de mauvaises choses ? Le travailleur culturel et historique Yen Chen-yü a un avis différent. Il estime que la pandémie est à la fois un coup et un stimulus, forçant les chefs de banquet à relever les normes d'hygiène et à réfléchir sérieusement à la transformation[^29]. Mais la peur la plus profonde des chefs de banquet interrogés est autre chose : « Nous ne nous inquiétons pas seulement pour cette année, nous craignons surtout que ne pas organiser (de _pān-toh_) devienne une habitude. »[^29] La conclusion de 《報導者》 est froide : les _pān-toh_ sont étroitement liés à la conjoncture, difficile de redémarrer à court terme[^29].
 
-## Les plats reviennent, l'âme se disperse
+## Les plats sont là, l'âme se disperse
 
-Mais si l'histoire s'arrêtait là, elle serait gravement incomplète.
+Mais si l'histoire s'arrêtait là, elle serait terriblement fausse.
 
-Car en regardant depuis 2025, le _pān-toh_ ne meurt pas à sens unique. Il est en train de **se scinder** — en tant que « plats » et « marque », il monte ; en tant que « rituel de tout le village », il descend.
+Car vu de 2025, le pān-toh ne meurt pas en sens unique. Il est en fait en train de **se diviser** — en tant que « plats » et « marque », il monte ; en tant que « rituel mobilisant tout le village », il s'enfonce.
 
-La branche qui monte est spectaculaire. Le _Guide Michelin_ de Tainan a intégré les plats du _pān-toh_ dans son discours officiel, et trois restaurants servant des plats de _pān-toh_ — A-Xia Restaurant, Xin-Xin Restaurant et Dongshang Taïwanais — ont été sélectionnés dans le Bib Gourmand[^30]. Le Palais de Chine Hotel à Taipei a lancé un « _pān-toh_ taïwanais », orchestré par le chef Lin Ming-tsang, à 22 800 dollars taïwanais la table plus 10 % de service, se présentant comme le premier hôtel cinq étoiles de Taïwan à rendre officiellement hommage à la culture du _pān-toh_[^31]. La nouvelle génération commence aussi à prendre la relève : TaiwanPlus a consacré un reportage en août 2025 intitulé « Bando Is Back », où de jeunes héritiers utilisent un modèle « marketing de la nouvelle génération × savoir-faire de la génération précédente » pour faire revenir le _pān-toh_ — comme le chef tofu Huang Mao-yuan et sa fille Huang Jia-yu, ou le maître A-Long et son fils A-Xiang[^32]. Le reportage en anglais écrit : « Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback… »[^29]
+La branche qui monte a une ampleur stupéfiante. Le _Guide Michelin_ Tainan a intégré la cuisine du pān-toh dans son discours officiel, et trois restaurants servant des plats de pān-toh — l'Hôtel A-Xia, le Restaurant Xin-Xin et Dong-Shang Cuisine Taïwanaise — ont tous été sélectionnés pour le Bib Gourmand[^30]. L'hôtel Palais de Chine à Taipei a lancé le « pān-toh à la taïwanaise », orchestré par le chef Lin Ming-tsan, à NT$22 800 la table plus 10 % de service, se présentant comme le premier palace cinq étoiles de Taïwan à rendre officiellement hommage à la culture du pān-toh[^31]. La génération suivante commence à prendre le relais : TaiwanPlus a rapporté en août 2025 sous le titre « Bando Is Back » que la nouvelle génération fait revivre le pān-toh selon un modèle « marketing de la génération fille × savoir-faire de la génération père » — comme le maître tofu Huang Mao-yuan et sa fille Huang Chia-yu, ou le maître A-Long et son fils A-Hsiang[^32]. L'article en anglais écrit : « Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback… »[^32]
 
-Même l'étranger s'y met. Le restaurant Good To Eat à Emeryville, en Californie, dirigé par la chef taïwanaise Tony Tung (avec sa partenaire Angie Lin), fait du _pān-toh_ une lettre d'amour à Taïwan, avec un menu intitulé _jan ba bae_ (_pān-toh_)[^33]. Le 4 janvier 2025, elle a invité le chef itinéant de Neimen, Maître A-Càn, à organiser un _pān-toh_ traditionnel de plus de 400 personnes à Taipei, attirant des convives californiens qui ont traversé le Pacifique pour l'occasion[^33].
+Même à l'étranger, le mouvement revient. Au restaurant Good To Eat d'Emeryville en Californie, la cheffe taïwanaise Tony Tung (qui forme avec sa partenaire Angie Lin un « wife-wife team ») traite le pān-toh comme une lettre d'amour à Taïwan ; le menu s'appelle _jan ba bae_ (pān-toh)[^33]. Le 4 janvier 2025, elle a invité le maître A-Càn de Neimen à Taipei pour organiser un pān-toh traditionnel de plus de 400 personnes, attirant des gastronomes californiens qui ont fait exprès le voyage jusqu'à Taïwan[^33].
 
 ```tw-versus
-Pān-toh en plein air (en déclin) | Pān-toh raffiné (en hausse)
-Chapiteaux rouge et blanc, tables au bord de la route et sur les places de temples | Salles de banquet d'hôtels cinq étoiles, tables du Michelin
-Départ à 3 h 30 du matin, sur 10 chefs de 30 ans on n'en trouve pas 2 | Palais de Chine à 22 800 $ la table, relève par le marketing de la nouvelle génération
-Le rituel de tout le village | Un pèlerinage d'expérience culturelle
+Pān-toh en plein air (rétrécissement) | Pān-toh raffiné (montée)
+Chapiteaux rouge et blanc, tables au bord de la route, devant les temples | Salles de banquet d'hôtels cinq étoiles, tables du Michelin
+Départ à 3 h 30, sur 10 maîtres de 30 ans on n'en trouve pas 2 | Palais de Chine : NT$22 800 la table, relève par la génération fille
+Rituel mobilisant tout le village | Un pèlerinage d'expérience culturelle
+Source : _Guide Michelin_, hôtel Palais de Chine et reportages TaiwanPlus cités dans cet article, ainsi que l'observation de la main-d'œuvre des maîtres[^22][^23][^30][^31][^32]
 ```
 
-En superposant les deux branches, la forme de la scission devient claire. Ce qui renaît, ce sont les « plats » et la « marque » — ils peuvent entrer dans les hôtels cinq étoiles, les tables du Michelin, les restaurants de Californie ; ce qui se perd, c'est le savoir rituel. La salle de banquet d'un hôtel cinq étoiles peut reproduire un _fó tiào qiáng_, mais pas « tout le village mobilisé, le chef comme conseiller folklorique, la distribution de la soupe de restes aux voisins » — tout ce pacte tacite. La rareté a fait des plats du _pān-toh_ un objet de pèlerinage culturel : des convives californiens sont prêts à traverser la moitié du globe pour en faire l'expérience — mais l'objet de leur vénération est en train de perdre l'habitat qui le fait vivre : cette terre ingrate qui a enfanté les chefs itinéants, ces festivités religieuses qui se succèdent, ce village entier qui vient prêter main-forte.
+En mettant ces deux branches côte à côte, la forme de la division devient claire. Ce qui renaît, ce sont les « plats » et la « marque » — ils entrent dans les palaces cinq étoiles, sur les tables du Michelin, dans les restaurants californiens ; ce qui se perd, c'est tout ce savoir rituel. La salle de banquet d'un palace peut reproduire un _fo tiao qiang_ (bouddha saute par-dessus le mur), mais pas toute cette complicité du « village entier mobilisé, le maître comme conseiller folklorique, les restes de plats distribués aux voisins ». La rareté transforme la cuisine du pān-toh en une sorte de pèlerinage culturel, des gastronomes californiens acceptant de traverser la moitié de la planète pour en manger un à Taïwan — mais l'objet de leur vénération est en train de perdre l'habitat qui le fait vivre : ces terres mauvaises qui ont formé les maîtres, ces fêtes de temple qui s'enchaînent, ce village qui appelle tous les voisins à l'aide.
 
-Un restaurant climatisé peut produire des plats, mais pas une âme.
+Un restaurant climatisé peut produire les plats, pas l'âme.
 
 ## Ce calendrier lunaire couvert d'écriture
 

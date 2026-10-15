@@ -2,9 +2,7 @@
 title: 'Histoire de la publicité à Taïwan : on oublie ce qui a été vendu, mais on fredonne encore le jingle'
 description: 'En 1968, le jingle du cuiseur à riz électrique Tatung retentit à la télévision ; un demi-siècle plus tard, les Taïwanais peuvent encore enchaîner avec « Tatung Tatung, les produits nationaux sont bons », mais presque personne ne se souvient qu’il s’agissait à l’origine d’une mélodie de Sanyo. Des annonces imprimées du Taiwan Nichi Nichi Shinpō sous la domination japonaise, à l’époque de la loi martiale où les trois seules chaînes liaient l’attention de toute l’île au même canal, jusqu’à 2016, lorsque les dépenses de publicité numérique dépassèrent celles de la télévision : à Taïwan, les publicités dont on se souvient le mieux font souvent oublier le produit vendu, mais laissent derrière elles le son de toute une époque.'
 date: 2026-06-14
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '大眾文化'
 tags:
   [
     'publicité taïwanaise',
@@ -13,19 +11,22 @@ tags:
     'Wu Nien-jen',
     'mémoire collective',
   ]
-readingTime: 14
+subcategory: '大眾文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/台灣廣告史.md'
-sourceCommitSha: 'f7484ebea'
-sourceContentHash: 'sha256:faa63331d7b3eae1'
-sourceBodyHash: 'sha256:296b2f47a01a03eb'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 14
+researchReport: 'reports/research/2026-06/台灣廣告史.md'
 image: '/article-images/culture/tatung-cooker-100th-2019.webp'
 imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_Cooker_20190706.jpg'
+translatedFrom: 'Culture/台灣廣告史.md'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:f7212df28a7408b1'
+sourceBodyHash: 'sha256:5f193ab0cecd9e8d'
+translatedAt: '2026-10-15T00:22:46.883260+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Les souvenirs publicitaires que les Taïwanais partagent sont presque toujours une réplique que vous ne pouvez vous empêcher de poursuivre, ou une mélodie que vous savez fredonner sans vous rappeler ce qu’elle vendait : « Quelle chance ! », « Seul ce qui est frais peut parler haut », « Tatung Tatung, les produits nationaux sont bons ». Cette capacité à « s’en souvenir simultanément dans tout Taïwan » reposait sur une époque sans autre choix que les trois chaînes de télévision TTV (1962), CTV (1969) et CTS (1971), qui liaient l’attention de toute une génération au même canal. Après deux ruptures, l’entrée en vigueur de la Loi sur la télévision câblée en 1993 et le premier dépassement de la télévision par la publicité numérique en 2016, l’ère de la publicité nationale de masse a pris fin.
@@ -110,35 +111,36 @@ C’est l’un des moments de la publicité taïwanaise les plus admirés par le
 
 Ideology Advertising se heurta aussi à son autre face : le genre. Les centres de minceur et de beauté Marie France remportèrent en 1996 et 1997 le Prix des slogans publicitaires avec « Trust me, you can make it ! »[^33]. Mais dans une étude de 2008, la chercheuse en communication Chyong-Ling Lin montra que les publicités imprimées taïwanaises privilégiaient les images de beauté classique et de fille d’à côté, lesquelles reliaient et renforçaient des croyances confucéennes conservatrices[^34]. Cette phrase d’encouragement, « Trust me », présupposait que le corps féminin devait être corrigé, aminci, transformé. Des groupes de femmes ont ensuite synthétisé le scénario commun de ces publicités : les tâches domestiques sont presque toujours assurées par des femmes, et le père est toujours celui qui gagne l’argent du foyer[^35]. La publicité ne fait pas que refléter l’ordre de genre de la société ; elle participe aussi à sa production.
 
-## Une chanson dont personne ne se souvient ce qu’elle vendait
+## Une chanson dont plus personne ne se rappelle ce qu'elle vendait
 
-Les publicitaires écrivent des répliques, mais ce qui vit le plus longtemps, c’est souvent la mélodie.
+Les publicitaires écrivent des slogans, mais ce qui survit le plus longtemps, c'est souvent la mélodie.
 
-Un tournant majeur dans l’histoire publicitaire taïwanaise fut le moment où les chansons publicitaires se mirent à rendre des chanteurs célèbres. Les publicités télévisées de HeySong Sarsaparilla commencèrent en 1974 avec « Ombre dans le désert »[^36] ; en 1988, « Mon avenir n’est pas un rêve », chantée par Chang Yu-sheng, devint un morceau publicitaire, première fois à Taïwan qu’une chanson de publicité propulsait un chanteur vers la célébrité[^37]. Par la suite, les chansons publicitaires de HeySong Sarsaparilla relièrent toute une chronologie de la pop taïwanaise : Oriental Express en 1991, Ukulele en 1992, Phil Chang en 1994, jusqu’à « Laugh and Forget » de Mayday en 2008[^38]. Une canette de soda fit chanter plus de trente ans d’histoire sonore taïwanaise.
+Un tournant majeur dans l'histoire de la publicité à Taïwan est celui où les chansons publicitaires ont, en sens inverse, propulsé des chanteurs vers la célébrité. La publicité télévisée pour Black松 (Heisong) Sarsaparilla a débuté en 1974 avec l'épisode « Ombre du désert »[^36]. En 1988, la chanson 〈Wǒ de wèilái bùshì mèng〉 (_Mon avenir n'est pas un rêve_) interprétée par Chang Yu-sheng est devenue une musique publicitaire ; ce fut la première fois à Taïwan qu'une chanson de publicité lançait la carrière d'un chanteur[^37]. Par la suite, les chansons de Black松 Sarsaparilla ont relié toute une chronologie de la musique pop taïwanaise : l'Oriental Express en 1991, Cowsilly (Youke Linyin) en 1992, Chang Yu en 1994, jusqu'à 〈Xiào wàng gē〉 (_La chanson du rire et de l'oubli_) de Mayday en 2008[^38]. Une simple canette de soda a ainsi chanté plus de trente ans d'histoire sonore de Taïwan.
 
-![Cuiseur à riz électrique Tatung fabriqué à Taïwan, avec son boîtier vert traditionnel ; entré dans les cuisines des foyers taïwanais dans les années 1960, c’est le produit national dont le jingle Tatung est chanté depuis des décennies](/article-images/culture/tatung-cooker-green.webp)
-_Cuiseur à riz électrique Tatung. C’est lui que chantait le « Chant de Tatung » de 1968 ; un demi-siècle plus tard, la mélodie a vécu plus longtemps que n’importe quel cuiseur. Photo : Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
+![Autrice de la cuisine taïwanaise : le cuiseur électrique Tatung, au corps vert traditionnel, est entré dans les foyers taïwanais dès les années 1960 ; c'est ce produit national que chante la chanson publicitaire de Tatung depuis des décennies](/article-images/culture/tatung-cooker-green.webp)
+_Le cuiseur électrique Tatung. C'est lui qui est chanté dans 〈Dàtóng zhī gē〉 (*La chanson de Tatung*) en 1968 ; un demi-siècle plus tard, la mélodie survit mieux que n'importe quel appareil. Photo : Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
 
-Revenons à la chanson de Tatung du début. Son histoire est le retournement le plus fort de cet article. Selon les reportages sur la décision judiciaire, le « Chant de Tatung » fut achevé par Li Shou-cheng en février de l’an 57 de la République de Chine, soit 1968, et comptait cinquante-six caractères[^39]. Mais Wang An-chung, inscrit comme parolier dans les documents d’enregistrement, n’était qu’un prête-nom : les paroles avaient en réalité été écrites par Lin Ting-sheng, ancien président de Tatung, qui ne voulait pas être connu et emprunta donc le nom d’un autre[^40]. Et cette chanson était initialement un jingle publicitaire de Sanyo, devenu Tatung en raison de problèmes de droits[^41]. Plus tard, Li Shou-cheng engagea une action en justice pour les droits d’auteur, mais perdit parce que le système de l’époque reposait sur l’enregistrement[^42].
+Revenons à cette chanson de Tatung mentionnée au début. Son histoire est le retournement le plus frappant de cet article. Selon les rapports sur le jugement judiciaire, la « Chanson de Tatung » a été achevée par Li Shou-cheng en février de l'année 57 de la République de Chine (1968), et se compose de cinquante-six mots[^39]. Cependant, le parolier enregistré, Wang An-chong, n'était qu'un prête-nom ; le véritable auteur des paroles était l'ancien président de Tatung, Lin Ting-sheng lui-même ; il ne souhaitait pas être célèbre et a donc emprunté le nom d'un autre[^40]. De plus, cette chanson était initialement une publicité pour Sanyo, et ce n'est qu'à cause de problèmes de droits d'auteur qu'elle a été modifiée pour Tatung[^41]. Plus tard, Li Shou-cheng a intenté un procès pour obtenir des droits d'auteur, mais il a perdu car, à l'époque, le système reposait sur le principe de l'enregistrement obligatoire[^42].
 
 > **📝 Note du commissaire**
-> Le retournement de la chanson de Tatung est émouvant parce qu’il bouleverse entièrement la notion d’« auteur publicitaire ». Le compositeur a porté l’affaire devant les tribunaux et l’a perdue ; le président qui avait réellement écrit les paroles a volontairement caché son nom ; même la mélodie venait d’une autre marque. Une chanson entrée dans la mémoire de dizaines de millions de personnes n’a pas d’auteur clair qui veuille être retenu. C’est précisément le cœur de cet article : dans la publicité taïwanaise la plus mémorable, la mémoire appartient à toute l’île, mais l’auteur est souvent absent ou oublié. Le produit est oublié, l’auteur est oublié, seul le son demeure.
+> Le retournement concernant la chanson de Tatung est poignant parce qu'il bouleverse totalement le concept d'« auteur publicitaire ». Le compositeur a porté l'affaire devant les tribunaux mais a perdu, le président qui a réellement écrit les paroles a délibérément choisi l'anonymat, et même la mélodie a été empruntée à une autre marque. Une chanson gravée dans la mémoire de dizaines de millions de personnes, sans auteur clair souhaitant être reconnu. C'est précisément le cœur de cet article : pour les publicités les plus mémorables de Taïwan, la mémoire appartient à toute l'île, mais l'auteur est souvent absent ou oublié — le produit est oublié, l'auteur est oublié, seule la voix demeure.
 
-Le Prix des slogans publicitaires fut lancé en 1994 par le magazine _Brain Magazine_, fixant justement, année après année, la dernière queue de cet âge d’or de la publicité nationale de masse sous forme de spécimens. En 1994, ce fut Maxwell House avec « Les bonnes choses se partagent avec les bons amis » ; en 1995, les montres Solvil et Titus avec « Peu importe que cela dure pour toujours, seul compte de l’avoir possédé un jour » ; en 1996 et 1997, Marie France avec « Trust me, you can make it ! » ; en 1998, Kirin Beer Taïwan avec « Cul sec ! » ; en 1999, CTBC avec « We are family »[^43].
+Le _Prix du meilleur slogan publicitaire_, organisé par le magazine _Dongnao_ depuis 1994, a permis de fixer année après année, comme des spécimens, cette fin d'âge d'or de la publicité de masse. En 1994, c'était Maxwell House avec « Les bonnes choses se partagent entre bons amis » ; en 1995, c'était Rolex avec « Peu importe l'éternité, seul compte ce que nous avons vécu » ; de 1996 à 1997, c'était Mistine avec « Trust me, you can make it ! » ; en 1998, c'était la bière Taiwan Kirin avec « Hū gān la ! » (_Santé !_) ; et en 1999, c'était la Bank of China (CTBC) avec « We are family »[^43].
 
 ```tw-stat
-1962–1994 | Les trois anciennes chaînes dominent le marché télévisuel | À partir de 1994, l’ensemble des chaînes câblées dépasse les trois chaînes
-1979 | Le taux d’équipement télévisuel atteint plus de 90 % | Les téléviseurs couleur dépassent pour la première fois les postes noir et blanc
-99 % | Notoriété de la marque Kirin Beer | Pic de la vague « Cul sec ! » en 1998
+1962–1994 | Marché télévisuel dominé par les trois chaînes | Depuis 1994, la part des chaînes câblées dépasse celle des trois chaînes historiques
+1979 | Taux de pénétration de la télévision supérieur à 90 % | Le nombre de téléviseurs couleur dépasse pour la première fois celui des modèles noir et blanc
+99% | Notoriété de la marque Kirin Beer | Sommet de la mode « Hū gān la ! » en 1998
+Source : Statistiques sur les trois chaînes historiques et la pénétration de la télévision citées dans cet article, ainsi que la liste des prix du meilleur slogan et les rapports sur la mode « Hū gān la ! » de Kirin Beer[^43][^45]
 ```
 
-Cette liste de prix raconte une histoire très taïwanaise. Le slogan primé en 1995, « Peu importe que cela dure pour toujours, seul compte de l’avoir possédé un jour », était en réalité une publicité hongkongaise pour Solvil et Titus, dont le texte était signé Lo Yuen-yee[^44]. Qu’une publicité hongkongaise ait remporté le prix taïwanais du slogan montre que la mémoire publicitaire sinophone de l’époque circulait entre les régions. Le « Cul sec ! » de Kirin Beer fut plus encore une réaction en chaîne : en 1996, Hou Hsiao-hsien réalisa la première publicité pour bière de sa vie, avec Wu Nien-jen comme porte-parole ; en 1997, la chanson publicitaire « Errer jusqu’à Tamsui » devint numéro un des demandes en KTV ; en 1998, « Cul sec ! » devint une expression populaire nationale et la notoriété de la marque atteignit 99 %[^45].
+Cette liste de prix cache une histoire très taïwanaise. Le slogan primé en 1995, « Peu importe l'éternité, seul compte ce que nous avons vécu », était en réalité une publicité pour Rolex à Hong Kong, dont le texte a été écrit par Lu Wan-yi[^44] — une publicité de Hong Kong remportant un prix taïwanais démontre que la mémoire publicitaire sinophone circulait entre les régions à cette époque. Quant au « Hū gān la ! » de la bière Kirin, ce fut un véritable effet domino : en 1996, Hou Hsiao-hsien réalise sa première publicité pour une bière avec Wu Nien-jen comme porte-parole ; en 1997, le thème musical 〈Liúlàng dào Dànshuǐ〉 (_Errance à Tamsui_) devient la chanson la plus demandée en KTV ; et en 1998, « Hū gān la ! » devient une expression populaire nationale, propulsant la notoriété de la marque à 99 %[^45].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="張雨生〈我的未來不是夢〉1988 黑松沙士廣告曲" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Chang Yu-sheng 〈Wǒ de wèilái bùshì mèng〉 1988 musique publicitaire Black松 Sarsaparilla" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Chang Yu-sheng, « Mon avenir n’est pas un rêve », chanson publicitaire de HeySong Sarsaparilla pour « Héros modernes » en 1988 : première fois à Taïwan qu’une publicité rendit un chanteur célèbre. Chaîne officielle de Rock Records._
+_Chang Yu-sheng, 〈Wǒ de wèilái bùshì mèng〉, musique publicitaire pour l'épisode « Héros modernes » de Black松 Sarsaparilla en 1988 ; la première fois qu'une publicité lançait un chanteur à Taïwan. Officiel Rock Records._
 
 ## Monsieur Pxmart et ces publicités qui font pleurer
 
