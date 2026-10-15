@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-07T18:41:35.971911+00:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:03:33.114135+00:00'
 ---
 
 > **Resumen en 30 segundos:**
@@ -38,23 +38,24 @@ Estas dos frases siguen reflejando a Zun años después: por un lado, minimiza s
 
 ## Un estudiante de segundo de secundaria convierte su habitación en un estudio
 
-Los reportes de 2018 registran que Zun comenzó a grabar videos en segundo de secundaria, haciendo inicialmente transmisiones de videojuegos. Más tarde, al sentir que el formato original ya no funcionaba, influenciado por YouTubers japoneses, cambió a temas de experimentación, reseñas de productos (unboxing) y leyendas urbanas. Para agosto de ese año, su canal principal «Otaku en la vida x Zun» ya tenía 1,2 millones de suscriptores; a los 19 años, fue llamado el YouTuber con un millón de suscriptores más joven de Taiwán en ese momento.[^1]
+Los informes de 2018 registran que Zun empezó a grabar vídeos cuando estaba en segundo de la escuela secundaria, realizando inicialmente transmisiones de videojuegos. Más tarde, al sentir que el formato original ya no era sostenible y bajo la influencia de los YouTubers japoneses, se orientó hacia temas experimentales, unboxings y leyendas urbanas. Para agosto de ese año, su canal principal 「人生肥宅x尊」 ya contaba con 1,2 millones de suscriptores, y a sus 19 años era conocido como el YouTuber con más de un millón de suscriptores más joven de Taiwán en aquel momento. [^1]
 
-Este punto de partida es importante porque Zun más tarde seguiría sacando a la luz públicamente sus videos tempranos, usando su propia imitación y torpeza como material de broma.[^2] La adolescencia no fue organizada en un currículum elegante, sino que, a través de historias negras, imágenes antiguas y miradas retrospectivas posteriores, regresó una y otra vez a los nuevos videos. Los registros que abarcan catorce años tienen así un punto de partida temprano visible.
+Este punto de partida es importante porque, más adelante, Zun volvería a mostrar públicamente sus vídeos antiguos, utilizando sus propias imitaciones y su falta de experiencia como objeto de burla. [^2] Su etapa de juventud no se presentó como un currículum impecable, sino que regresó una y otra vez en sus nuevos vídeos a través de su «historia negra», imágenes antiguas y reflexiones posteriores. De este modo, los registros que abarcan catorce años calendario cuentan con un punto de inicio visible desde sus inicios.
 
-![Zun sosteniendo la imagen del video temprano en la miniatura del video oficial de repaso de historias negras](/article-images/people/zun-old-video-review-2017.webp)
+![Zun sosteniendo una imagen de sus primeros vídeos en la miniatura de un vídeo oficial de repaso de su historia negra](/article-images/people/zun-old-video-review-2017.webp)
 
-Cuando los videos tempranos fueron reproducidos por él mismo, su contenido cambió de propósito. La primera vez que fueron subidos, eran obras destinadas a atraer a la audiencia. Años después, al reaparecer, se convirtieron en material para que el Zun actual comentara su yo del pasado. La audiencia ve dos tiempos simultáneamente: el joven inexperto dentro de la pantalla y el creador fuera de la pantalla que ya sabe qué partes son incómodas y qué imitaciones son demasiado evidentes. Esta mirada retrospectiva propia es más cálida que una cronología de hitos, porque el cambio queda directamente en el tono y la reacción.
+Cuando él mismo vuelve a reproducir sus vídeos antiguos, el contenido adquiere un nuevo propósito. En su primera subida, eran obras destinadas a atraer audiencia; años después, al reaparecer, se convierten en material que el Zun actual utiliza para comentar su propio pasado. El espectador presencia dos tiempos simultáneamente: el joven poco experimentado que aparece en la pantalla y el creador, fuera de ella, que ya sabe qué partes resultan incómodas o qué imitaciones son demasiado evidentes. Esta autorreflexión tiene más calidez que una simple cronología de hitos, porque el cambio se manifiesta directamente en su tono y sus reacciones.
 
-La entrevista de 2018 en sí misma es también un corte temporal. Puede confirmar que Zun comenzó a grabar desde segundo de secundaria, pasando de los videojuegos a la experimentación, y registra sus 19 años y 1,2 millones de suscriptores, pero no puede llenar un currículum completo para cada año anterior. Una vez que los videos antiguos fueron bloqueados o dispersos, los videos de repaso posteriores se convirtieron en una de las pocas auto-notaciones aún visibles. Este artículo conserva esa incompletitud: sabemos que comenzó muy pronto, vemos que se ríe de su propia torpeza retrospectivamente, pero no llenamos con escenas la primera video, el equipo o el apoyo familiar que no podemos encontrar.
+La entrevista de 2018 es, en sí misma, un fragmento temporal. Permite confirmar que Zun empezó a grabar en segundo de secundaria y pasó de los videojuegos a lo experimental, y registra su edad de diecinueve años junto a sus 1,2 millones de suscriptores; sin embargo, no puede completar el currículum de cada año anterior. Una vez que los vídeos antiguos han sido bloqueados o se han dispersado, los vídeos de repaso posteriores se convierten en las pocas anotaciones personales que aún son visibles. Este artículo conserva esa incompletitud: sabemos que empezó muy pronto y podemos verlo burlarse de su propia inexperiencia, pero no intentamos rellenar los huecos sobre su primer vídeo perdido, su equipo o el apoyo familiar con escenarios imaginarios.
 
 ```tw-stat
-Segundo de secundaria | Comienza a subir transmisiones de videojuegos | Aprox. 2012
-19 años | El YouTuber con un millón de suscriptores más joven de Taiwán en ese momento | Reporte de 2018
-2 | Los canales principal y secundario superan el millón | Finales de 2024
+2.º de secundaria | Comienzo de transmisiones de videojuegos | Hacia 2012
+19 años | El YouTuber de un millón de suscriptores más joven de Taiwán en ese momento | Informes de 2018
+2 canales | Tanto el principal como el secundario superan el millón | Finales de 2024
+Fuente: Entrevista de medios de 2018 (inicio en 2.º de secundaria, 1,2 millones de suscriptores a los 19 años) e informes posteriores sobre el registro de sus canales[^1][^2]
 ```
 
-📝 Nota del curador: Zun mismo admite que «empezar temprano» trajo dividendos de la plataforma. Para el lector, empezar temprano tiene un significado adicional: cada mirada retrospectiva posterior puede encontrar las imágenes antiguas dejadas por ese estudiante de segundo de secundaria.
+📝 Nota del curador: El propio Zun admite que haber empezado «temprano» le otorgó una ventaja en la plataforma. Para el lector, empezar pronto tiene un significado adicional: cada vez que él mira hacia atrás, puede encontrar aquellas imágenes antiguas dejadas por aquel estudiante de segundo de secundaria.
 
 ## El millón de suscriptores cambia la libertad por una carga
 
@@ -72,28 +73,29 @@ Que un creador done voz a las imágenes proporcionadas por un fabricante no es n
 
 Este no es un evento que pueda pasarse por alto con las cuatro palabras «colapso del personaje de corriente limpia». Muestra específicamente que el joven de 2018 que decía que sus ingresos provenían principalmente de las vistas y que hacía pocos patrocinios, una vez que el canal se convirtió en un trabajo a largo plazo, también podía tomar decisiones comerciales apresuradas. La respuesta de Zun no hizo que el error desapareciera, pero al menos devolvió la responsabilidad a sí mismo, en lugar de solo culpar al fabricante.
 
-## Después del crimen de su hermano, Zun responde a su propia posición
+## Tras el crimen de su hermano, Zun responde sobre su posición
 
-La prueba más difícil ocurrió ya en 2021. El hermano de Zun, Zhu Yu-chen, conocido como el YouTuber Xiao Yu, fue investigado por producir y vender videos de pornografía con deepfake (cambio de rostro). El caso tenía 119 víctimas, con ganancias delictivas superiores a 10 millones de NTD. En 2024, la Corte Suprema mantuvo la sentencia de segunda instancia; la parte que no podía ser convertida en multa debía cumplir una pena de prisión de 5 años, y había 1 año y 8 meses que podían ser convertidos en multa.[^4]
+Un desafío aún mayor ocurrió ya en 2021. El hermano de Zun, Chu Yu-chen —también conocido como el YouTuber Xiao Yu—, fue investigado por producir y vender vídeos pornográficos utilizando _deepfakes_. El caso contó con un total de 119 víctimas y los beneficios del delito superaron los NT$10 millones. En 2024, el Tribunal Supremo ratificó la sentencia de segunda instancia, la cual establece una pena de 5 años de prisión para la parte que no puede ser sustituida por una multa, además de 1 año y 8 meses que sí pueden ser sustituidos por una multa. [^4]
 
-Este no es un «escándalo de influencer» abstracto. La sentencia determinó que Xiao Yu y su asistente sintetizaron las características faciales de figuras públicas en videos de pornografía para ofrecerlos a cambio de pago. El tribunal de segunda instancia señaló que, una vez que las imágenes en línea se difunden, es difícil eliminarlas por completo, y la dignidad, reputación y daño espiritual de las víctimas son difíciles de recuperar. De las 119 personas, 83 presentaron denuncias por difamación y 36 no denunciaron.[^4] Poner estos números primero es porque ninguna respuesta familiar posterior puede reemplazar la posición de las víctimas.
+Esto no es una simple «controversia de influencers» abstracta. La sentencia determinó que Xiao Yu y su asistente sintetizaron las características faciales de figuras públicas en vídeos pornográficos para ofrecerlos mediante pago. El tribunal de segunda instancia señaló que, una vez que las imágenes circulan por internet, es difícil eliminarlas por completo, y que la dignidad, la reputación y el daño moral de las víctimas son difíciles de reparar. De las 119 personas, 83 presentaron una querella por difamación, mientras que otras 36 no interpusieron demanda. [^4] Se presentan estas cifras al principio porque ningún familiar puede ocupar posteriormente el lugar de la víctima.
 
-Después de que el caso se hiciera público, Zun indicó en las historias de Instagram que Xiao Yu nunca le había dicho a la familia lo que estaba haciendo. Se disculpó con las víctimas e indicó que no cortaría la relación fraternal. La última frase fue: «Sucedió demasiadas cosas de repente, estoy realmente cansado».[^5]
+Tras la exposición del caso, Zun publicó en sus historias de Instagram que Xiao Yu nunca les había mencionado a su familia lo que estaba haciendo. Pidió disculpas a las víctimas y afirmó que no rompería los lazos fraternales. Su última frase fue: «Han pasado demasiadas cosas de golpe, estoy realmente agotado». [^5]
 
-En esa misma respuesta pública, dijo que si su hermano hizo algo mal, debería asumir la responsabilidad por sí mismo, y que no había nada que proteger; a continuación, dejaría que la ley decidiera.[^5] Este significado explica mejor sus límites que «cortar» o «no cortar». Zun no tenía el poder de decidir la responsabilidad penal de su hermano, ni podía eliminar la relación familiar solo con un comunicado. Lo que podía hacer era admitir que no sabía nada antes, disculparse con las víctimas y devolver la responsabilidad criminal al actor y al procedimiento judicial.
+En esa misma respuesta pública, dijo que si su hermano cometió un error, debía asumir las consecuencias por sí mismo; no había nada que proteger y el resto dependía de la sentencia judicial. [^5] Este matiz explica mejor sus límites que simplemente decir «romper» o «no romper» la relación. Zun no tiene el poder de decidir la responsabilidad penal de su hermano, ni es posible eliminar el vínculo familiar basándose solo en una declaración. Lo que puede hacer es admitir que no lo sabía de antemante, disculparse con las víctimas y devolver la responsabilidad criminal al autor y al proceso judicial.
 
-Esta respuesta originalmente estaba en las historias de Instagram, que generalmente desaparecen después de 24 horas. Hoy aún se puede rastrear el contenido porque las noticias del mismo día guardaron capturas de pantalla y texto. También revela la fragilidad de los «registros públicos»: los videos de YouTube pueden estar en línea por mucho tiempo, pero las historias, comentarios y números de la plataforma pueden desaparecer o cambiar. Por lo tanto, este artículo solo cita las palabras que los medios conservaron ese día, sin procesar nuevamente los resúmenes que circularon después en una confesión más bonita.
+Esta respuesta se publicó originalmente en las historias de Instagram, que suelen desaparecer tras veinticuatro horas. Hoy todavía se puede rastrear el contenido porque los medios de comunicación guardaron capturas de pantalla y texto ese mismo día. Esto también revela la fragilidad del «registro público»: un vídeo de YouTube puede permanecer en línea a largo plazo, pero las historias, los comentarios y las métricas de la plataforma pueden desaparecer o cambiar. Por ello, este artículo solo cita las palabras que los medios conservaron fielmente ese día, sin procesar los resúmenes que circularon posteriormente para convertirlos en una confesión más «bonita».
 
-La responsabilidad criminal pertenece a Xiao Yu; Zun no es el autor del caso. Que Zun elija no negar la relación fraternal no equivale a defender el crimen. Lo memorable de sus palabras en ese momento es que no proporcionó una respuesta limpia y agradable: una persona puede condenar lo que hizo un familiar, al mismo tiempo que admite que el vínculo sanguíneo no desaparece por un comunicado.
+La responsabilidad criminal pertenece a Xiao Yu; Zun no es el autor del delito. Que Zun eligiera no negar su relación fraternal no equivale a defender el crimen. La razón por la que sus palabras fueron memorables es que no ofrecieron una respuesta limpia o agradable: una persona puede condenar lo que ha hecho un familiar y, al mismo tiempo, reconocer que los lazos de sangre no desaparecen por una declaración.
 
-En el párrafo anterior, Zun necesitaba asumir la responsabilidad por sus juicios de patrocinio. En este párrafo, podía responder a la posición de familiar, pero no podía asumir la responsabilidad penal de su hermano. El registro público llega hasta aquí, dejando el espacio simple de juego juvenil. Más tarde, la pareja y la vivienda reaparecen; la responsabilidad y la vida cotidiana coexisten en la misma vida adulta.
+En el apartado anterior, Zun tuvo que responsabilizarse de su criterio respecto a la publicidad patrocinada. En este apartado, lo que puede responder es sobre la posición de un familiar, sin poder asumir la responsabilidad penal de su hermano. El registro público ha llegado hasta aquí, dejando atrás el espacio simple de las pruebas de un adolescente. Con la posterior aparición de su pareja y su nuevo hogar, la responsabilidad y la vida cotidiana coexisten en esta misma etapa de la vida adulta.
 
 ```tw-timeline
-2018 | El canal principal supera el millón | 19 años, los medios lo llaman el más joven de Taiwán en ese momento
-2021 | El caso de su hermano se hace público | Zun se disculpa con las víctimas, dice explícitamente que no corta el vínculo sanguíneo
-2023 | Error de patrocinio de Pocket Warriors | Admite aceptar el caso apresuradamente y fallas en la supervisión
-2024 | El canal secundario supera el millón | Dos líneas de contenido con diferentes tonalidades superan el millón
-2025 | La cámara entra en la nueva casa | El canal se extiende desde la experimentación juvenil a la vida adulta cotidiana
+2018 | Canal principal supera el millón | 19 años, los medios lo llamaron entonces el más joven de Taiwán
+2021 | Exposición del caso de su hermano | Zun se disculpa con las víctimas y aclara que no romperá lazos de sangre
+2023 | Error en patrocinio de Pocket Warriors | Admite la imprudencia al aceptar el encargo y la falta de supervisión
+2024 | Canal secundario supera el millón | Ambas líneas de contenido, de tonos distintos, alcanzan el millón de suscriptores
+2025 | La cámara se mueve a su nuevo hogar | El canal evoluciona de experimentos juveniles a la cotidianidad adulta
+Fuente: Informes y sentencias judiciales citados en este artículo (hito de suscripción de 2018, caso de 2021, controversia de patrocinio de 2023, millón en el canal secundario de 2024) [^1][^3][^4][^5]
 ```
 
 ## La vida comienza a atravesar diferentes canales

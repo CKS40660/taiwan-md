@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'c0f587606'
-sourceContentHash: 'sha256:322fadf3d54cf027'
-sourceBodyHash: 'sha256:5a14ed890fa46c36'
-translatedAt: '2026-09-12T02:55:14+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:b9213e8245304093'
+sourceBodyHash: 'sha256:d67040679486fd02'
+translatedAt: '2026-10-15T03:29:42.238547+00:00'
 ---
 
 El 11 de agosto de 2024 (hora de Taiwán), sobre la tierra roja del estadio Roland Garros de París, cuando sonó la campana de la final de oro en la categoría de 57 kg femenina, la taiwanesa Lín Yùtíng venció por una ventaja absoluta de 5 a 0 a la polaca Julia Szeremeta[^1][^2]. Tras la competición, al igual que en la derrota de los Juegos de Tokio, volvió a cargar a sus espaldas a su entrenador, Zēng Zìqiáng, quien la había acompañado durante quince años. Esta escena no solo cumplió el deseo de años de la relación maestro-discípulo, sino que también le otorgó a Taiwán su primera medalla de oro olímpica en la historia del boxeo[^3][^5]. Sin embargo, el peso de esta medalla superaba con creces los límites físicos del metal mismo: más de un mes antes de que cayera al suelo, Lín Yùtíng se vio obligada a situarse en el ojo del huracán de la opinión pública global, soportando una avalancha de dudas de género y una caza de brujas transnacional en internet[^5].
@@ -36,14 +36,15 @@ El 11 de agosto de 2024 (hora de Taiwán), sobre la tierra roja del estadio Rola
 
 Al retroceder en la trayectoria de crecimiento de Lín Yùtíng, el boxeo no surgió inicialmente de una romántica憧憬 (concepción) hacia el deporte, sino de una defensa instintiva. La sombra de la violencia doméstica en su infancia la hizo experimentar la crueldad e impotencia de la realidad desde muy temprana edad. Ella ha declarado en múltiples entrevistas: «De pequeña, mi padre golpeaba a mi madre, así que me uní al equipo de boxeo, esperando poder usar mi propia fuerza para proteger a mi madre»[^9][^10]. Los fragmentos del conflicto familiar se transformaron en la ansiedad de su juventud, y el modesto equipo de boxeo en el sótano de la Escuela Secundaria Yingge, en la ciudad de Nuevas Taipei, se convirtió en su refugio para escapar de la realidad y forjar su voluntad[^11].
 
-## La revolución del boxeo de base en un entorno precario
+## Una revolución del boxeo de base en instalaciones precarias
 
-El entorno de entrenamiento era extremadamente rudimentario: no había equipamiento de protección de primera línea ni un equipo médico, solo sacos de boxeo ásperos, paredes desgastadas y el sudor día tras día. Fue precisamente aquí donde conoció al entrenador Zēng Zìqiáng, quien cambiaría su vida[^7][^8]. Zēng Zìqiáng vio en esta chica delgada una terquedad indomable en sus ojos, y desde entonces establecieron un vínculo estrecho, como padre e hija, y como maestro y amigo, iniciando una revolución del boxeo de base en Taiwán que duraría más de una década[^7][^8].
+En aquel entonces, el entorno de entrenamiento era extremadamente rudimentario: no había equipo de protección de primer nivel ni equipos médicos; solo había sacos de arena ásperos, paredes desconchadas y el sudor vertido día tras día. Fue precisamente aquí donde conoció al entrenador Zēng Zìqiáng[^7][^8], quien cambiaría su vida para siempre. Zēng Zìqiáng vio la terquedad indomable en los ojos de aquella chica delgada, y desde entonces ambos forjaron un vínculo estrecho, como padre e hija y como maestro y alumna, dando inicio a una revolución del boxeo de base en Taiwán que duraría más de una década[^7][^8].
 
 ```tw-stat
-5:0 | Marcador de la final de oro en París | Victoria aplastante sobre la rival (cuatro victorias totales)
-15 años | Años de convivencia maestro-discípulo | El entrenador Zēng Zìqiáng la ha acompañado siempre
-1st | Registro de estatus histórico | Primera medalla de oro olímpica en boxeo para Taiwán
+5:0 | Marcador de la final por el oro en París | Victoria aplastante (cuatro victorias consecutivas)
+15 años | Años de mentoría | El entrenador Zēng Zìqiáng la acompañó en todo su camino
+1.er | Récord histórico | Primera medalla de oro en boxeo en la historia olímpica de Taiwán
+Fuente: Informes de los Juegos Olímpicos de París y entrevistas con el entrenador Zēng Zìqiáng y la propia Lín Yùtíng (ver notas al pie anteriores)[^1][^2][^7][^8][^9]
 ```
 
 ## «También debemos convertirnos en nuestros propios magos»: la resonancia filosófica de maestro y discípulo
@@ -74,15 +75,16 @@ Sin embargo, el camino del atleta nunca ha sido llano. En los Juegos Olímpicos 
 
 Ante la enorme presión psicológica tras la derrota en Tokio, el entrenador Zēng Zìqiáng buscó tempranamente la ayuda de psicólogos deportivos (como Hóng Zǐfēng y otros)[^6][^16]. Lín Yùtíng aprendió el «método de transferencia del punto de dolor», transformando la indignación de la derrota en apoyo a sus compañeros y en una reconstrucción obsesiva de los detalles técnicos[^40]. Este temple de resiliencia psicológica le permitió mantener la calma en la tormenta global de los Juegos de París.
 
-## La tormenta infundada en el Campeonato Mundial de Nueva Delhi y la trampa institucional
+## La tormenta injustificada y la trampa institucional del Campeonato Mundial de Nueva Delhi
 
-Justo cuando ajustaba su心态 (mentalidad) y regresaba al primer puesto mundial, una prueba mayor cayó silenciosamente sobre ella en el Campeonato Mundial de 2023 en Nueva Delhi. En ese momento, fue descalificada de repente de la medalla de bronce por la Asociación Internacional de Boxeo (IBA) bajo el pretexto de un «índice bioquímico anómalo» sin explicación[^3][^4][^17]. Esta decisión carecía de bases científicas transparentes y de canales de apelación justos, sembrando la semilla de la posterior controversia en el deporte internacional.
+Justo cuando estaba ajustando su mentalidad para recuperar el primer puesto del mundo, una prueba mayor llegó silenciosamente durante el Campeonato Mundial de 2023 en Nueva Delhi. En aquel momento, fue despojada sin previo aviso de su medalla de bronce por la Asociación Internacional de Boxeo (IBA), bajo el argumento de una «anomalía en los índices bioquímicos» no especificada[^3][^4][^17]. Esta decisión carecía de una base científica transparente y de canales de apelación adecuados, sembrando las semillas de las controversias posteriores en el deporte internacional.
 
 ```tw-timeline
-2021 | Derrota en Tokio | Debut en el más alto palacio, deteniéndose en la primera ronda por sorpresa; tras la competición, cargó a su entrenador a sus espaldas y prometió regresar a la cima.
-2023 | Tormenta de género en el Mundial | Despojada de la medalla de bronce por la IBA debido a anomalías en las pruebas bioquímicas, sufriendo la mayor frustración institucional de su carrera.
-2024 | Cúspide en París | Soportando la presión de la caza de brujas transnacional, ganó el oro con cuatro victorias 5:0, completando el gran slam histórico.
-2026 | Reconocimiento de World Boxing | Tras un año y medio de apelaciones, la Alianza Mundial de Boxeo reconoció oficialmente su elegibilidad, devolviéndole su inocencia.
+2021 | Fracaso en los Juegos Olímpicos de Tokio | Debutó en la máxima cita deportiva pero quedó fuera inesperadamente en la primera ronda; tras la competición, cargó a su entrenador y prometió volver a la cima.
+2023 | Tormenta de género en el Campeonato Mundial | La IBA le retiró la medalla de bronce alegando anomalías en las pruebas bioquímicas, enfrentando el mayor revés institucional de su carrera deportiva.
+2024 | Cima en los Juegos Olímpicos de París | Soportó la presión de una caza de brujas mediática transnacional y ganó el oro barriendo a sus rivales con cuatro victorias por 5-0, completando un gran slam histórico.
+2026 | Reconocimiento de World Boxing | Tras un año y medio de apelaciones, la World Boxing reconoció oficialmente su elegibilidad para competir, restituyéndole su inocencia.
+Fuente: Informes citados en este artículo sobre los Juegos Olímpicos de Tokio, la controversia por la retirada de la medalla de bronce de la IBA y el reconocimiento de World Boxing en 2026[^3][^4][^15][^17]
 ```
 
 ## Víctima de la lucha de poder en la gobernanza del deporte internacional y la interpretación científica
