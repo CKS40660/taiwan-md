@@ -1558,9 +1558,16 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 兩次算力）——除非這篇已經被拒絕過 PATCH_REJECT_ESCALATE 次（見下方
     # patch_reject_count），代表反覆卡在同一個章節重試迴圈，這時跳過 patch
     # 直接走整篇重翻（v1.53 診斷：ja/金瓜石連續 13 次同型 patch-reject 死鎖）。
+    #
+    # metadata-stale 也先試 patch（2026-10-16 babel-nightly）：它的定義是 bodyHash
+    # 沒變，變的是 frontmatter 與 trailer。原本只放 stale 進來，metadata-stale 一律
+    # 整篇重翻——10-15 一批 description 改寫讓十二語累積 356 份，每份 ~145 秒、
+    # 正文還要冒一次整篇換詞的險（10-03 社區→社協）。patch-translate 對這類只重翻
+    # frontmatter、章節 byte-identical（en/手搖飲實測 57 秒，verify-batch 0 錯）；
+    # 舊譯文帶債或 sha 不可解析時照樣 exit 2 回整篇路徑。
     proc: subprocess.CompletedProcess | None = None
     engine_label = engine
-    if status == "stale" and not no_patch:
+    if status in ("stale", "metadata-stale") and not no_patch:
         reject_count = patch_reject_count(lang, zh_path)
         inherited = [] if reject_count >= PATCH_REJECT_ESCALATE else inherited_gate_defects(zh_path, trans_path)
         if reject_count >= PATCH_REJECT_ESCALATE:
