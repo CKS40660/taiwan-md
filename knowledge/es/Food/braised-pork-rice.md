@@ -1,29 +1,30 @@
 ---
-title: 'El arroz con cerdo estofado de Taiwán'
-description: 'De las cocinas de los barrios militares a la comida nacional: explorando la guerra norte-sur y la identidad cultural del arroz con cerdo estofado de Taiwán'
+title: 'Arroz con cerdo estofado de Taiwán (Lu Rou Fan)'
+description: 'El arroz con cerdo estofado, que pasó de las cocinas de los antiguos asentamientos militares a convertirse en un plato nacional, es el núcleo de la memoria gastronópica popular de Taiwán. En el norte se le llama Lu Rou Fan y en el sur Rou Zao Fan; sus métodos de preparación, cortes y condimentos varían, reflejando una divergencia culinaria tras la disputa regional por su nombre. En 2011, la versión en inglés de la Guía Michelin lo tradujo erróneamente como originario de Shandong, lo que desencadenó un movimiento nacional para reivindicar su identidad, consolidando así el estatus de este auténtico plato popular.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '族群飲食'
 tags:
   [
-    'arroz con cerdo estofado',
-    'arroz con carne picada',
-    'cocina de barrios militares',
-    'comida nacional',
-    'diferencias norte-sur',
+    'Arroz con cerdo estofado',
+    'Arroz con carne picada',
+    'Cocina de asentamientos militares',
+    'Gastronomía nacional',
+    'Diferencias norte-sur',
   ]
-readingTime: 8
+subcategory: '族群飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: true
+image: '/images/food/braised-pork-rice.jpg'
+imageAlt: 'Arroz con cerdo estofado en Taichung'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '30569f74'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:6170c025ca20811f'
 sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
-translatedAt: '2026-05-17T05:33:00Z'
-image: '/images/food/braised-pork-rice.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedAt: '2026-10-15T18:51:34.923946+00:00'
 ---
 
 # El arroz con cerdo estofado de Taiwán

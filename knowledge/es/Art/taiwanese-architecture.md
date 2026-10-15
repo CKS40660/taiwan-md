@@ -1,9 +1,16 @@
 ---
 title: 'Arquitectura de Taiwán'
-description: 'Un viaje a través del tiempo arquitectónico de una isla, desde casas de piedra hasta rascacielos'
+description: 'Desde las casas de piedra del pueblo Paiwan y los edificios de ladrillo rojo dejados por Matsunosuke Moriyama, pasando por las líneas de Wang Da-hong que sentaron las bases de la arquitectura moderna, hasta las construcciones públicas sin muros de Huang Sheng-yuan entre los arrozales de Yilan. Durante cuatrocientos años, la sabiduría constructiva de los pueblos indígenas, los holandeses, los japoneses y los han ha colisionado en esta isla; la Bienal de Arquitectura de Venecia describió alguna vez este carácter híbrido como "mantener la localidad en medio de la globalización".'
 date: 2026-03-28
 category: 'Art'
-tags: ['arquitectura', 'cultura', 'historia', 'indígena', 'dominio japonés']
+tags:
+  [
+    'arquitectura',
+    'cultura',
+    'historia',
+    'pueblos indígenas',
+    'periodo de ocupación japonesa',
+  ]
 subcategory: '建築'
 author: 'Taiwan.md'
 featured: true
@@ -11,10 +18,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-09-21T23:04:00.981117+00:00'
+translatedAt: '2026-10-15T19:26:28.090782+00:00'
 ---
 
 # Arquitectura taiwanesa: un poema tridimensional de convergencia cultural

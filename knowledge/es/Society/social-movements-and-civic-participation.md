@@ -1,16 +1,16 @@
 ---
-title: 'Movimientos sociales y participación cívica'
-description: 'Desde la primavera de los cerezos silvestres hasta la flor de los cerezos, cómo Taiwán ha implementado la democracia y promovido el progreso social a través de movimientos sociales'
+title: 'Movimientos sociales y participación ciudadana'
+description: 'Desde el movimiento por el fin de la ley marcial, el movimiento estudiantil del Lirio Silvestre, hasta el movimiento de la Flor del Sol y la legalización del matrimonio entre personas del mismo sexo, la sociedad taiwanesa ha impulsado continuamente la democratización de manera pacífica, racional y con transmisión intergeneracional; estas acciones abarcan diversos ámbitos como la política, el medio ambiente, el trabajo y el género, la mayoría se desarrollan pacíficamente, aunque también ha habido conflictos intensos como los del movimiento campesino, dejando huellas institucionales concretas en el proceso democrático.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'Movimientos sociales',
-    'Participación cívica',
+    'Participación ciudadana',
     'Democracia',
-    'Primavera de los cerezos silvestres',
-    'Movimiento de la flor de los cerezos',
-    'Reformas sociales',
+    'Movimiento estudiantil del Lirio Silvestre',
+    'Movimiento de la Flor del Sol',
+    'Reforma social',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '568d157c8'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T19:27:59.737480+00:00'
 ---
 
 # Movimientos sociales y participación cívica

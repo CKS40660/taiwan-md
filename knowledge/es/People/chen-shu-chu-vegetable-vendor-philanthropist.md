@@ -1,126 +1,126 @@
 ---
-title: 'Chen Shu-chu: Una vendedora de verduras de Taitung que donó decenas de millones con sus ganancias durante cincuenta años'
-description: 'Una vendedora de verduras de Taitung, quien donó decenas de millones en cincuenta años, pero dice que "solo es una vendedora".'
+title: 'Chen Shu-chu: una vendedora de verduras de Taitung que donó decenas de millones en cincuenta años de vida caritativa'
+description: 'Nacida en 1950, vendedora en el mercado central de Taitung. A los 13 años su madre murió en un parto difícil, por lo que abandonó la escuela para vender verduras; durante más de cincuenta años donó sus ganancias a escuelas, orfanatos y hospitales, acumulando decenas de millones. En 2010 apareció en la lista de las 100 personas más influyentes de la revista Time, con una recomendación escrita por el director Ang Lee, y más tarde recibió el Premio Ramón Magsaysay. Ella dice que solo es «una vendedora de verduras».'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Personaje',
+    'personajes',
     'caridad',
     'Taitung',
     'vendedora de verduras',
-    'revista histórica',
-    'Premio Magdice',
-    'donación educativa',
+    'revista Time',
+    'Premio Ramón Magsaysay',
+    'donaciones educativas',
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-12T20:32:15+08:00'
+translatedAt: '2026-10-16T00:52:53+08:00'
 ---
 
-> **Resumen de 30 segundos:** Chen Shu-chu (陳樹菊), nacida en 1950, fue una vendedora de verduras del Mercado Central de Taitung. A los 13 años, abandonó la escuela porque su madre murió durante el parto; durante más de cincuenta años, donó millones a escuelas, orfanatos y hospitales. En 2010, apareció en la revista _Time_ como una de las cien personas más influyentes del mundo, recomendada por el director Ang Lee (李安). Al recibir un premio en Nueva York, dijo: "Solo soy una vendedora".[^1]
+> **Resumen en 30 segundos:** Chen Shu-chu, nacida en 1950, vendedora de verduras en el mercado central de Taitung. A los 13 años abandonó la escuela para vender verduras tras la muerte de su madre en un parto difícil; durante más de cincuenta años donó acumuladamente decenas de millones a escuelas, orfanatos y hospitales. En 2010 apareció en la lista de las 100 personas más influyentes de la revista Time, el director Ang Lee escribió personalmente su recomendación. Al recibir el premio en Nueva York dijo: «Solo soy una vendedora de verduras».[^1]
 
-## Su madre murió camino al hospital
+## La madre murió camino al hospital
 
-En 1963, en Taitung. La madre de Chen Shu-chu estaba embarazada de su séptimo hijo y tuvo un parto difícil. No pudieron reunir el depósito que exigía el hospital; tanto la madre como el feto murieron en el camino a la clínica.[^2]
+1963, Taitung. La madre de Chen Shu-chu estaba embarazada de su séptimo hijo y sufrió un parto difícil. La familia no pudo reunir la fianza que exigía el hospital; durante el traslado, la madre y el feto murieron.[^2]
 
-Ese año, Chen Shu-chu tenía 13 años y acababa de graduarse de la Escuela Primaria Ren'ai Nacional de Taitung (台東仁愛國小). No continuó sus estudios; tomó el puesto del puesto de verduras de su madre en el mercado para mantener a cuatro hermanos menores y dos hermanas.[^3] Años antes, un hermano menor de 11 años enfermó y tampoco tuvieron dinero para pagar al médico; finalmente, fue la maestra de la escuela quien organizó una recaudación de fondos para conseguir los medicamentos.[^4]
+Ese año Chen Shu-chu tenía 13 años, acababa de graduarse en la escuela primaria Ren'ai de Taitung. No continuó sus estudios, tomó el puesto de verduras de su madre en el mercado y comenzó a mantener a sus cuatro hermanos menores y dos hermanas menores.[^3] Unos años antes, su hermano de 11 años enfermó y, también por falta de dinero para el médico, fue un profesor de la escuela quien organizó una colecta para reunir los gastos médicos.[^4]
 
-El recuerdo de tener que pedir ayuda para recibir atención médica por la pobreza impulsó todas sus donaciones.
+La pobreza de no poder ver a un médico sin la ayuda de otros —este recuerdo impulsó después todas sus donaciones.
 
-## Matemáticas en el puesto de verduras
+## Las matemáticas en el puesto de verduras
 
-El puesto de Chen Shu-chu estaba en el Mercado Central de Taitung. Cada día comenzaba a las cuatro de la madrugada, era una de las primeras y últimas personas del mercado. Para levantarse a tiempo, dormía en el suelo. Solo descansaba un día al año.[^4]
+El puesto de Chen Shu-chu está en el mercado central de Taitung. Cada día comienza a las cuatro de la madrugada; es la persona que llega más temprano y se va más tarde del mercado. Para poder levantarse a tiempo, duerme en el suelo. Solo descansa un día al año.[^4]
 
-Aunque su puesto no era grande, tenía buena ubicación; cuando se sorteó los puestos en los inicios del mercado, su familia obtuvo uno bueno. Más tarde desarrolló un modelo de negocio: suministraba verduras a las tropas estacionadas en Green Island (綠島), ya que era más barato transportarlas directamente desde Taitung que desde otras regiones.[^4] Esto le dio ingresos estables, pero seguía siendo el ingreso de una vendedora.
+El puesto no es grande, pero la ubicación es buena —cuando se sortearon los puestos al inaugurarse el mercado, a su familia le tocó una buena posición. Más tarde desarrolló un modelo de negocio: suministrar verduras a las tropas estacionadas en la Isla Verde, porque el envío directo desde Taitung era más barato que traerlas de fuera.[^4] Esto le dio ingresos estables, pero seguía siendo el ingreso de una vendedora de verduras.
 
-Su dinero se acumuló verdura por verdura; nunca hubo ganancias extraordinarias ni atajos. Casi no gastaba en sí misma: no comía fuera, no compraba ropa nueva y vivía en la casa antigua cerca del mercado. Lo que ahorraba, lo destinaba a otros fines.
+Su dinero se juntó verdura a verdura, sin ninguna ganancia extraordinaria ni atajos. Casi no gasta en sí misma —no come fuera, no compra ropa nueva, vive en una casa vieja cerca del mercado. Lo que ahorra tiene otro destino.
 
-## Cronología de donaciones
+## Cronología de las donaciones
 
-En 1993, su padre y su segundo hermano murieron consecutivamente. Chen Shu-chu donó 1 millón de yuanes a la Academia Fo Guang (佛光學院), ahora Universidad Fo Guang.[^5] Fue su primera vez entregando sus ahorros.
+1993: Fallecieron su padre y su segundo hermano. Chen Shu-chu donó 1 millón de NT$ a la Academia Fo Guang (hoy Universidad Fo Guang). Fue la primera vez que sacó sus ahorros.[^5]
 
-A partir de 1996, comenzó a donar 36,000 yuanes cada año al Hogar Infantil Anisopher de Taitung (阿尼色弗兒童之家), adoptando a tres niños del hogar. Más tarde donó otros 1 millón de yuanes a esta institución.[^6]
+1996: Comenzó a donar 36.000 NT$ anuales al Hogar Infantil Aniceto de Taitung, apadrinando a tres niños. Más tarde donó otro millón de NT$ a esta institución.[^6]
 
-En 1997, donó 1 millón de yuanes a su escuela primaria Ren'ai Nacional, estableciendo una beca para casos de emergencia. En 2005, donó otros 4.5 millones de yuanes para construir una biblioteca.[^7] Eligió a su escuela porque en su infancia vivieron en la pobreza y los maestros le habían ayudado con sus hermanos. "Si alguien me ha ayudado, debo devolverlo", era su lógica tan directa.[^4]
+1997: Donó 1 millón de NT$ a su escuela primaria, Ren'ai, para crear un fondo de becas de emergencia. En 2005, donó 4,5 millones de NT$ para construir una biblioteca.[^7] Eligió su escuela porque de niña su familia era pobre y los profesores ayudaron a su hermano. «Otros me ayudaron, yo quiero devolverlo» —su lógica es así de directa.[^4]
 
-Para cuando _Time_ la notó en 2010, ya había donado casi 10 millones de yuanes.[^1]
+Para 2010, cuando la revista Time la descubrió, ya había donado acumuladamente casi 10 millones de NT$.[^1]
 
-Pero ella no se detuvo.
+Pero no se detuvo.
 
-En 2012, recibió el Premio Magdice (麥格塞塞獎) de Filipinas (el Nobel de la Paz asiático), con un premio de 50,000 dólares estadounidenses. Donó la totalidad del premio al Hospital Conmemorativo Mackay de Taitung.[^8]
+2012: Recibió el Premio Ramón Magsaysay de Filipinas (considerado el Nobel de la Paz asiático), con un premio de 50.000 dólares. Donó la totalidad al Hospital Memorial Mackay de Taitung.[^8]
 
-El 10 de octubre de 2018, donó dos pólizas de seguro valoradas en 16 millones de yuanes, encargándolas para crear el "Fondo de Cuidado Médico y Amigos del Cáncer Chen Shu-chu" (陳樹菊醫療貧困暨癌友關懷基金) en colaboración con los hospitales Mackay y Cristiano de Taitung.[^9]
+10 de octubre de 2018: Donó dos pólizas de seguro con valor actual de 16 millones de NT$, encomendando al Hospital Mackay y al Hospital Cristiano de Taitung la creación del «Fondo Chen Shu-chu de Ayuda Médica a Pobres y Apoyo a Pacientes de Cáncer».[^9]
 
-El 28 de agosto de 2021, coincidiendo con el aniversario de la muerte de su madre, donó otras 15 millones de yuanes en pólizas al gobierno del condado de Taitung, designándolas para establecer el "Fondo de Asistencia y Emergencia de Producción" (生產暨急難慰助基金), destinado específicamente a ayudar a madres embarazadas con dificultades económicas.[^10] En una conferencia de prensa, se emocionó: "Después de 59 años, finalmente he cumplido este deseo".[^11]
+28 de agosto de 2021 —aniversario de la muerte de su madre— donó otra póliza de 15 millones de NT$ al gobierno del condado de Taitung, designando la creación del «Fondo de Ayuda para Partos y Emergencias», dedicado a ayudar a parturientas en dificultades económicas.[^10] En la rueda de prensa se emocionó: «Esperé 59 años, por fin cumplo este deseo.»[^11]
 
-Cincuenta y nueve años antes, su madre murió camino al hospital.
+59 años antes, su madre murió camino al hospital.
 
-## Una vendedora en el escenario mundial
+## Una vendedora de verduras en el escenario mundial
 
-En abril de 2010, _Time_ anunció a las cien personas más influyentes del mundo, y Chen Shu-chu figuró como la octava en la categoría "Héroes", junto a Obama y empresarios de energía limpia.[^1] El director Ang Lee escribió personalmente su carta de recomendación. Ese mismo año, _Forbes_ la eligió como heroína benéfica asiática.[^12] _Reader's Digest_ le otorgó el cuarto Premio Héroe Asiático.[^5]
+En abril de 2010, la revista Time publicó su lista anual de las 100 personas más influyentes del mundo; Chen Shu-chu figuraba en octavo lugar en la categoría «Héroes» —junto a Obama y emprendedores de energía limpia.[^1] El director Ang Lee escribió personalmente su recomendación. Ese mismo año, la revista Forbes la eligió como heroína de la filantropía en Asia.[^12] Reader's Digest le otorgó el cuarto Premio al Héroe Asiático.[^5]
 
-Cuando se le notificó el premio, ella no sabía qué era la revista _Time_. Su viaje a Nueva York fue su primera vez fuera del país. Vestía ropa común de vendedora y les dijo a los periodistas: "Solo soy una vendedora, no sé por qué me eligieron".[^1]
+Cuando le notificaron el premio, no sabía qué era la revista Time. Ir a Nueva York a recibirlo fue su primer viaje al extranjero. Llevaba su ropa habitual de vendedora y dijo a los periodistas: «Solo soy una vendedora de verduras, no sé por qué me eligieron.»[^1]
 
-Ninguno de estos honores cambió ni un solo día de su vida. Al regresar a Taitung, seguía yendo al puesto a las cuatro de la madrugada como siempre.
+Estos honores no cambiaron ninguno de sus días. De vuelta a Taitung, siguió yendo a su puesto a las cuatro de la madrugada.
 
-El Premio Magdice en 2012, el nombramiento del asteroide 278986 en su honor en 2018[^5], y el doctorado honoris causa otorgado por la Universidad de Taitung en 2025[^13]... Cada vez que subía al podio para recibir un premio, volvía rápidamente a su puesto.
+El Premio Ramón Magsaysay de 2012, el asteroide 278986 bautizado con su nombre en 2018[^5], el doctorado honoris causa de la Universidad de Taitung en 2025[^13] —cada vez que subía al estrado, volvía lo antes posible a su puesto.
 
-## El cuerpo no aguantó más
+## El cuerpo ya no aguantó
 
-En febrero de 2018, Chen Shu-chu se desmayó frente a su puesto y fue llevada de emergencia a cirugía.[^5] Los médicos le dijeron que descansara, pero después de un mes en cama, ella quería volver a vender verduras. Sin embargo, esta vez su cuerpo no lo permitió; además, su hermano también enfermó y necesitaba cuidados, por lo que cerró formalmente el puesto en 2018.[^4]
+En febrero de 2018, Chen Shu-chu se desmayó frente a su puesto y fue operada de urgencia.[^5] Los médicos le ordenaron reposar; estuvo un mes en cama y quiso volver a vender verduras. Pero esta vez el cuerpo no se lo permitió —sumado a que su hermano también enfermó y necesitaba cuidados, cerró el puesto definitivamente en 2018.[^4]
 
-Después de vender verduras durante más de cincuenta años, el puesto se convirtió en un puesto de carne.
+Vendió verduras durante más de cincuenta años; el puesto luego se convirtió en una carnicería.
 
-Incluso después de jubilarse, ella siguió viviendo en Taitung y preocupándose por quienes necesitaban ayuda. La donación de 15 millones de yuanes en 2021 fue realizada después de su retiro. Ella dijo: "El dinero no trae vida, ni se lleva al morir. La pensión nacional es suficiente para mí; lo demás debe ir a quien lo necesite".[^10]
+Tras jubilarse sigue viviendo en Taitung, sigue preocupada por quienes necesitan ayuda. La donación de 15 millones en 2021 se hizo ya jubilada. Dice: «El dinero no se trae al nacer ni se lleva al morir. La pensión nacional me basta, lo demás hay que dárselo a quien lo necesita.»[^10]
 
-## Una simple aritmética
+## Una aritmética sencilla
 
-La historia de Chen Shu-chu a menudo se presenta como un "acto bondadoso conmovedor", pero si la analizas, en realidad es una ecuación matemática: ¿cuánto puede acumular una persona si ahorra un poco cada día durante cincuenta años?
+La historia de Chen Shu-chu suele empaquetarse como «conmovedoras buenas acciones», pero desmenuzada es en realidad un problema de aritmética: si una persona ahorra un poco cada día y persiste cincuenta años, ¿cuánto puede acumular?
 
 La respuesta son decenas de millones.
 
-La pregunta más profunda es: ¿por qué haría esto una vendedora? Su respuesta nunca ha cambiado: porque a los 13 años, su madre murió camino al hospital y ella no pudo hacer nada. Cincuenta años después, finalmente tuvo la capacidad de asegurar que las madres de otros no sufrieran lo mismo.[^11]
+La pregunta más profunda es: ¿por qué una vendedora de verduras hace esto? Su respuesta nunca cambió —porque a los 13 años su madre murió camino al hospital y ella no pudo hacer nada. Cincuenta años después, por fin tuvo la capacidad de asegurar que la madre de otro no sufra lo mismo.[^11]
 
-En 2025, la Universidad de Taitung le otorgó el doctorado honoris causa. Al dar su discurso, dijo: "Gracias a todos por no despreciarme como una vendedora callejera".[^13]
+En 2025, la Universidad de Taitung le otorgó el doctorado honoris causa. En su discurso dijo: «Gracias a todos por no despreciarme por vender en un puesto callejero.»[^13]
 
-## Lectura extendida
+## Lecturas complementarias
 
-- [Cultura y mercados tradicionales en Taiwán](/es/lifestyle/taiwan-traditional-markets-and-market-culture) — El Mercado Central de Taitung donde Chen Shu-chu vendió durante cincuenta años, vive dentro del ecosistema de este mercado tradicional.
-- [Cultura de voluntarios y participación social en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — Dos muestras de la caridad popular en Taiwán: desde el Venerable Master Cheng Yen hasta el puesto de verduras de Chen Shu-chu.
-- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Los principales destinos de las donaciones de Chen Shu-chu a lo largo de los años: el apoyo a largo plazo a bibliotecas, escuelas y orfanatos.
+- [Cultura de mercado taiwanesa y mercados tradicionales](/es/lifestyle/taiwan-traditional-markets-and-market-culture) — El mercado central de Taitung donde Chen Shu-chu tuvo su puesto durante cincuenta años vive dentro de este ecosistema de mercado tradicional
+- [Cultura de voluntariado y participación pública en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — Desde la maestra Cheng Yen de Tzu Chi hasta el puesto de verduras de Chen Shu-chu, dos muestras de la filantropía civil taiwanesa
+- [Educación en zonas rurales de Taiwán](/es/society/taiwan-rural-education) — Los principales destinos de las donaciones de Chen Shu-chu a lo largo de los años: apoyo a largo plazo a bibliotecas, escuelas y orfanatos
 
 ## Referencias
 
 [^1]: "The 2010 TIME 100 — Chen Shu-chu," _TIME Magazine_, 2010. https://content.time.com/time/specials/packages/article/0,28804,1984685_1984949_1985237,00.html
 
-[^2]: 〈Chen Shu-chu〉, Wikipedia. Su madre murió durante el parto y no pudieron reunir la fianza necesaria.[^2] https://zh.wikipedia.org/zh-tw/陳樹菊
+[^2]: 〈Chen Shu-chu〉, Wikipedia. La madre murió por parto difícil, sin poder reunir la fianza, falleciendo durante el traslado junto al feto. https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^3]: 〈Chen Shu-chu paga una deuda con toda su vida〉, _Far Eastern Outlook_ (遠見雜誌). https://www.gvm.com.tw/article/14164
+[^3]: 〈Chen Shu-chu: una vida de fuerza para cumplir su voto〉, _Revista Vision_. https://www.gvm.com.tw/article/14164
 
 [^4]: "Taiwan in Time: Donating millions from a vegetable stall," _Taipei Times_, 2023-08-27. https://www.taipeitimes.com/News/feat/archives/2023/08/27/2003805339
 
-[^5]: 〈Chen Shu-chu〉, Wikipedia, sección "Honores y premios". https://zh.wikipedia.org/zh-tw/陳樹菊
+[^5]: 〈Chen Shu-chu〉, Wikipedia, sección «Honores y premios». https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^6]: 〈Donación de Chen Shu-chu a más de diez millones para el hogar infantil Anisopher〉, _Buddha Land Earth_. A partir de 1996, donó 36,000 yuanes anualmente adoptando tres niños del hogar. https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
+[^6]: 〈Gratitud y retribución: la abuela Chen Shu-chu dona más de diez millones〉, Familia Budista Global. Desde 1996 dona 36.000 NT$ anuales apadrinando a tres niños. https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
 
-[^7]: 〈Vendedora dona biblioteca; sigue ahorrando millones para ayudar a los pobres〉, reportaje que indica que Chen Shu-chu donó 1 millón de yuanes en becas y 4.5 millones para construir una biblioteca a su escuela primaria Ren'ai Nacional.
+[^7]: 〈La vendedora dona biblioteca y sigue ahorrando millones para ayudar a pobres〉, informe que señala donación de 1 millón para becas y 4,5 millones para biblioteca a su escuela primaria Ren'ai.
 
-[^8]: 〈Chen Shu-chu〉, Wikipedia, sección "Premio Magdice". Recibió el premio en 2012; donó la totalidad del premio de 50,000 dólares al Hospital Mackay de Taitung. https://zh.wikipedia.org/zh-tw/陳樹菊
+[^8]: 〈Chen Shu-chu〉, Wikipedia, sección «Premio Ramón Magsaysay». 2012 recibió el premio, donó la totalidad de 50.000 dólares al Hospital Mackay de Taitung. https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^9]: 〈Chen Shu-chu dona otros 16 millones: los beneficiarios cambian a hospitales〉, _Liberty Times_, 2018-10-10. https://news.ltn.com.tw/news/life/breakingnews/2576050
+[^9]: 〈Chen Shu-chu dona de nuevo 16 millones, beneficiario del seguro cambiado a hospital〉, _Liberty Times_, 2018-10-10. https://news.ltn.com.tw/news/life/breakingnews/2576050
 
-[^10]: 〈Donación de 15 millones en el aniversario de la muerte de su madre; Chen Shu-chu: "La pensión nacional es suficiente"〉, CNA, 2021-08-28. https://www.cna.com.tw/news/ahel/202108280119.aspx
+[^10]: 〈En aniversario materno dona 15 millones: Chen Shu-chu: la pensión nacional ya me basta〉, Agencia Central de Noticias, 2021-08-28. https://www.cna.com.tw/news/ahel/202108280119.aspx
 
-[^11]: 〈Donación de 15 millones en el aniversario de la muerte de su madre; Chen Shu-chu llora: "Espero 59 años"〉, retransmisión de Yahoo News. https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
+[^11]: 〈En aniversario materno dona 15 millones, Chen Shu-chu emocionada: esperé 59 años〉, Yahoo News republicado. https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
 
 [^12]: "48 Heroes of Philanthropy," _Forbes Asia_, 2010.
 
-[^13]: 〈Chen Shu-chu recibe el doctorado honoris causa de la Universidad de Taitung: "Gracias por no despreciarme como una vendedora callejera"〉, _United Daily News_, 2025-06-08. https://udn.com/news/story/6928/8791319
+[^13]: 〈Recibe doctorado honoris causa de la Universidad de Taitung: Chen Shu-chu: gracias a todos por no despreciarme por vender en un puesto callejero〉, _United Daily News_, 2025-06-08. https://udn.com/news/story/6928/8791319
