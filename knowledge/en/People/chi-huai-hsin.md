@@ -1,23 +1,25 @@
 ---
-title: "Ed Chi: The Taiwanese Who Taught AI to 'Think Step by Step' Brought Cognitive Psychology into Machines"
-description: "Ed Chi is the Research Vice President at Google DeepMind and co-author of the Chain of Thought paper that taught AI to 'reason step by step.' This Taiwanese who grew up in Tamsui turned the cognitive psychology concept of 'how humans learn' (Piaget's schema theory) into a method for teaching machines to reason. And this breakthrough that changed AI cost only about $5,000, because it was never a problem that computing power could solve."
+title: 'Ed Chi: The Taiwanese Man Who Taught AI to "Think Step-by-Step" by Bringing Cognitive Psychology into Machines'
+description: 'Ed Chi is a Research Vice President at Google DeepMind and a co-author of the Chain of Thought paper. This man, raised in Tamsui, turned Piaget''s schema theory into a method for machine reasoning—a breakthrough that cost only about \$5,000 because it was never a problem of computing power.'
 date: 2026-06-27
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
-  - 'Person'
-  - 'Ed Chi'
-  - 'Ed Chi'
-  - 'AI'
-  - 'Google DeepMind'
-  - 'Chain of Thought'
-  - 'Chain of Thought'
-  - 'Cognitive Psychology'
-  - 'Tamsui'
+  [
+    'People',
+    'Ed Chi',
+    'AI',
+    'Google DeepMind',
+    'Chain of Thought',
+    'Cognitive Psychology',
+    'Tamsui',
+  ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-27
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/紀懷新.md'
+image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
   - id: 152
     platform: 'threads'
@@ -27,243 +29,245 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
+relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de83'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-07-24T16:23:46+08:00'
-image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:07:02+08:00'
 ---
 
-When the world was chasing AI with hundreds of millions of dollars in computing power, one paper changed the way machines reason, costing only about $5,000.
+While the world spends hundreds of millions of dollars on computing power to chase AI, one paper changed the way machines reason for only about \$5,000.
 
-That paper is called "Chain of Thought." What it does sounds too simple to be a breakthrough: in the examples shown to the AI, it adds a few more lines of "problem-solving process," guiding it to think out the intermediate steps first before giving the answer, like asking a student to draft on scratch paper rather than writing the conclusion directly. Among the nine co-authors, there is a Taiwanese born in Tamsui named Ed Chi.
+That paper is called "Chain of Thought." What it does sounds almost too simple to be a breakthrough: in the examples given to the AI, it includes a few extra lines of "problem-solving processes," guiding the model to think through intermediate steps before providing an answer—much like asking a student to write a draft rather than jumping straight to a conclusion. Among its nine co-authors is a Taiwanese man born in Tamsui named Ed Chi (紀懷新).
 
-He later explained the $5,000 like this: "The problem was not one that could be solved by computing power, but rather another mode of thinking."[^1]
+He later explained that \$5,000 investment this way: "The problem wasn't something that could be solved with computing power; rather, it was a different mode of thinking."[^1]
 
-> **30-Second Overview:** Ed Chi is the Research Vice President at Google DeepMind and one of the co-authors of the Chain of Thought paper that taught AI to "reason step by step." Every time you ask ChatGPT or Gemini to "think step by step" and it answers better, that idea of teaching machines to reason step-by-step has a line leading back to Taiwan. He immigrated to the US with his mother, who was pursuing a PhD, at around age 15. While helping his mother write her educational psychology thesis, he learned a psychological concept about "how humans learn." Thirty years later, he brought this concept into machines. Taiwan recognizes the "light of Taiwan" who makes chips, but barely recognizes the person who shapes "how AI thinks."
+> **30-Second Overview:** Ed H. Chi is a Research Vice President at Google DeepMind and one of the co-authors of the Chain of Thought paper that taught AI to "think step-by-step." Every time you ask ChatGPT or Gemini to "think step-by-step" and it gives a better answer, remember that the idea behind making machines reason in stages has a thread stretching back to Taiwan. Around age 15, he immigrated to the United States with his mother, who was pursuing her PhD. While helping her write papers on educational psychology, he learned a psychological concept about "how humans learn." Thirty years later, he brought that concept into machines. Taiwan recognizes him as a "shining star" of the chip industry, yet almost no one knows the man who shaped how AI thinks.
 
-## The Mother's PhD Thesis
+## His Mother's Doctoral Thesis
 
 The story doesn't start at Google; it starts at a desk.
 
-Ed Chi grew up in Tamsui. "I am a native Taiwanese, born in Tamsui, and then went to the US with my parents to study when I was about 15 years old, because my mother went there to pursue a PhD at the time."[^2] Hidden in this sentence is an unusual scene: most Taiwanese children who went abroad back then were "international students" on their own, but his whole family moved west together for his mother's PhD studies. A Taiwanese family immigrating to the US because of the mother's academic pursuits was not common in those days.
+Ed Chi grew up in Tamsui. "I am a native of Taiwan, born in Tamsui, and then around age 15, I went to the United States with my parents because my mother was going to pursue her PhD at that time."[^2] This sentence contains an unusual image: while most Taiwanese children studying abroad back then were "little international students" traveling alone, his entire family moved West so his mother could study. A Taiwanese family immigrating to the U.S. for a mother's education was quite rare in that era.
 
-![Sunset on the wooden boardwalk at Youchikou, Tamsui, where Ed Chi was born and raised](/article-images/people/tamsui-sunset-boardwalk-2024.webp)
+![Sunset over the Tamsui Youchekou wooden boardwalk, where Ed Chi was born and raised](/article-images/people/tamsui-sunset-boardwalk-2024.webp)
 
-_Tamsui, where Ed Chi was born and raised. Thirty years later, what he brought from here would become the method for teaching machines to think._
+_Tamsui, the place where Ed Chi was born and raised. Over thirty years later, what he took from here would become a method for teaching machines to think._
 
-His mother was pursuing a PhD in educational psychology. During high school and college, he helped his mother write her thesis. A child still in school helping his own mother organize an academic thesis exploring "how humans learn"—in that process, he first encountered the schema theory of the Swiss psychologist Piaget.
+His mother was pursuing a PhD in educational psychology. During his high school and college years, he helped her write her thesis. As a student helping his mother organize an academic paper exploring "how humans learn," he encountered the Swiss psychologist Piaget's _schema theory_ for the first time.
 
-Schema theory posits that the human brain has a set of organized knowledge structures called "schemas," which we use to understand the world. When learning something new, you either fit new information into old schemas (called assimilation) or find that the old schemas can no longer hold it, forcing you to rewrite or build new ones (called accommodation). It sounds abstract, but it answers a fundamental question: how does a person go from "not knowing" to "knowing"?
+Schema theory posits that the human brain has organized structures of knowledge called "schemas," which we use to understand the world. When learning something new, we either fit new information into existing schemas (called _assimilation_) or, if the old schema cannot hold it, we are forced to rewrite or create a new one (called _accommodation_). It sounds abstract, but it answers a fundamental question: how does a person go from "not knowing" to "knowing"?
 
-The concept on that desk thirty years ago would become the method for teaching machines to reason. But before that, he had to walk a long path, and one that few others walked.
+The concepts on that desk would become a method for teaching machine reasoning thirty years later. But before that, he had to walk a long road—one that very few people were traveling.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/51woDEK5NME" title="VK Tech Reading Time EP122 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/51woDEK5NME" title="VK Tech Reading Time EP122 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Ed Chi personally narrates the origin of Chain of Thought in the VK Tech Reading Time EP122 interview, from helping his mother write her educational psychology PhD thesis, learning Piaget's schema theory, all the way to how he turned it into a method for teaching AI to reason. This interview is the soul source of this article._
+_In VK Tech Reading Time EP122, Ed Chi personally recounts the origins of Chain of Thought, from helping his mother with her educational psychology PhD thesis and learning Piaget's schema theory, to how he turned it into a method for teaching AI reasoning. This interview is the soul of this article._
 
-## From Tamsui to Minnesota, Following a PhD Admission Letter
+## From Tamsui to Minnesota: Following a PhD Admission Letter
 
-In Minnesota, he completed high school, undergraduate, master's, and PhD degrees all at the same university: the University of Minnesota, over six and a half years, earning three degrees[^3]. He entered with the highest honors (_Summa Cum Laude_). His PhD thesis was on information visualization, titled "A Framework for Information Visualization Spreadsheets." His advisor, John T. Riedl, was a pioneer in recommendation systems.
+Once in Minnesota, he completed his high school, undergraduate, master's, and doctoral studies all at the same institution: the University of Minnesota—six and a half years and three degrees[^3]. He graduated with highest honors (_Summa Cum Laude_), and his doctoral thesis focused on information visualization, titled "A Framework for Information Visualization Spreadsheets." His advisor, John T. Riedl, was a pioneer in recommendation systems.
 
-![University of Minnesota campus, where Ed Chi completed three degrees: bachelor's, master's, and PhD](/article-images/people/umn-the-knoll-minneapolis.webp)
+![University of Minnesota campus, where Ed Chi completed his bachelor's, master's, and doctoral degrees](/article-images/people/umn-the-knoll-minneapolis.webp)
 
-_At age 15, he followed his mother to Minnesota, and later completed three degrees at the University of Minnesota over six and a half years. His advisor, John T. Riedl, was a pioneer in recommendation system research: this thread would later connect back to what he did at Google._
+_Moving to Minnesota with his mother at fifteen, he later completed three degrees at the University of Minnesota in six and a half years. His advisor, John T. Riedl, was a pioneer in recommendation systems research: this thread would later connect back to his work at Google._
 
-But more memorable than the degrees is how he positioned himself.
+But more memorable than the degrees is how he defined himself.
 
-He said something very honest in an interview: "In English, I'm a generalist... a researcher who is a jack of all trades but master of none. But when I realized my math wasn't better than others', I thought maybe I could do research that was more like 'bridging,' a bridge between one field and another."[^4]
+He once said something very honest in an interview: "In English, I'd say I'm a generalist... the kind of researcher who is a 'jack of all trades but master of none.' But when I realized my math wasn't better than everyone else's, I felt that perhaps I could do research that was more about bridging—a bridge between one field and another."[^4]
 
-This is a costly choice in academia. He himself said that when you do bridging research, "you are not truly 'one of us' in Field A, nor a true researcher in Field B." A person who only knows one side gets a clear position in the world; a person standing in the middle of two sides is often rejected by both. But he bet on this middle ground. History later proved that the most critical steps in AI happened exactly in these middle grounds.
+In academia, this is a choice with a cost. He has noted that when you do bridging research, "you aren't truly a person in Field A, nor are you a true researcher in Field B." Someone who only understands one side is given a clear place in the world; someone standing in the middle often finds no home on either side. But he bet on this middle ground. History has since proven that the most critical steps in AI happened precisely in these interstitial spaces.
 
-> **✦** "Maybe I could do research that was more like 'bridging,' a bridge between one field and another."
+> **✦** "Perhaps I could do some research that was more about bridging—a bridge between one field and another."
 
 ## In Palo Alto, He Learned to Turn Psychology into Code
 
-In 1997, he interned at a legendary place: Xerox PARC (Palo Alto Research Center).
+In 1997, he landed a legendary internship: Xerox PARC in Palo Alto.
 
-This name might be unfamiliar to Taiwanese readers, but you use its inventions every day. The mouse, the graphical user interface, the laser printer, Ethernet—many technologies that laid the foundation for the personal computer era were born in this research center of the copier company, located next to Stanford University. Jobs back then went in to see that graphical interface, learned the idea, and made it into the later Macintosh. When Ed Chi went there, it was just its second golden age.
+The name might be unfamiliar to Taiwanese readers, but you use things they invented every day. The mouse, the Graphical User Interface (GUI), laser printers, Ethernet—many of the technologies that laid the foundation for the personal computer era were born at this research center located next to Stanford University. Steve Jobs famously visited to study their GUI and used those ideas to create the Macintosh. When Ed Chi arrived, PARC was entering its second golden age.
 
-![The Alto computer (1973) at Xerox PARC, a pioneer of personal computers and graphical interfaces](/article-images/people/xerox-alto-1973.webp)
+![The Xerox Alto computer (1973) at PARC, a pioneer of personal computing and GUIs](/article-images/people/xerox-alto-1973.webp)
 
-_The Alto developed by Xerox PARC in 1973 was a pioneer of personal computers and graphical interfaces. Ed Chi later learned here how to turn cognitive psychology into runnable code._
+_The Alto, developed by Xerox PARC in 1973, was a pioneer of the personal computer and GUI. It was here that Ed Chi learned to turn cognitive psychology into executable programs._
 
-The key wasn't what flashy technology he built, but who he met. "My boss at the time was called Stuart Card, who was a student of Allen Newell."[^5] Following this lineage up leads to a Nobel Prize winner in Economics: Herbert Simon.
+The key wasn't just the flashy technology he worked on, but the people he met. "My boss at the time was Stuart Card, who was a student of Allen Newell."[^5] This lineage traces back to a Nobel laureate in Economics: Herbert Simon.
 
-Simon proposed "bounded rationality": humans are limited by cognition, information, and time when making decisions, making it impossible to be "fully rational." He also coined the term "satisficing": a decision that is "good enough." Humans don't seek the optimal solution, but one that gets by. Simon and Newell together analogized the human brain to an information-processing machine, believing that "problem-solving" is searching for answers step-by-step in a problem space. Card brought this line of thinking into Palo Alto, and Ed Chi took it from Card.
+Simon proposed "bounded rationality": that human decision-making is limited by cognition, information, and time, making "perfect rationality" impossible. He also coined the term "satisficing": humans don't seek the optimal solution, but rather one that is "good enough." Together with Newell, Simon analogized the human brain to an information-processing machine, viewing "problem-solving" as a step-by-step search for answers within a problem space. Card brought this mindset to Palo Alto, and Ed Chi picked it up from Card.
 
 > 📝 **Curator's Note**
-> The common AI story goes like this: machines become smarter because chips are faster, data is more abundant, and models are larger. This narrative is convenient, but it misses another dark thread. Simon was already asking in the 1950s "how the human brain makes decisions under constraints"; Card brought psychology into Palo Alto's computer research in 1974; Ed Chi took the baton in the 1990s, turning foraging theory into a model for how people find information online. For half a century, a group of people have been asking the same question: how do humans actually think? While the mainstream was busy making machines compute faster, they were busy making machines think more like humans. Chain of Thought is the fruit of this dark thread.
+> The standard AI narrative goes like this: machines are getting smarter because chips are faster, data is more abundant, and models are larger. This narrative is convenient, but it misses a darker thread. As early as the 1950s, Simon was asking "how the human brain makes decisions under constraints"; in 1974, Card brought psychology into Palo Alto's computer research; Ed Chi took the baton in the 1990s, turning foraging theory into models for how people find information online. For half a century, a group of people has been asking the same question: how does a human actually think? While the mainstream was busy making machines calculate faster, they were busy making machines think more like humans. Chain of Thought is the fruit of this hidden lineage.
 
-His main research in Palo Alto was called "information foraging." The concept is: people finding information on the internet is like animals foraging in the wild; they follow "scents," chasing strong ones and abandoning weak ones. He engineered this biological and psychological foraging model into a system that could actually run, to predict how people navigate between websites. This was the first practical application of "bridging": one side was cognitive psychology, the other information science, and he built a bridge in the middle.
+His primary research in Palo Alto was "information foraging." The concept is that searching for information online is similar to animals foraging in the wild—following "scents"; if the scent is strong, you follow it; if it's weak, you abandon it. He engineered these biological and psychological foraging models into functional systems to predict how people navigate between websites. This was his first real-world application of "bridging": one side was cognitive psychology, the other was information science, and he built a bridge between them.
 
 ```tw-timeline
-1955 | Simon Coins Term | Herbert Simon proposes "satisficing" decision-making and bounded rationality, viewing the brain as an information processing machine
-1974 | Psychology Enters Lab | Stuart Card brings the Newell-Simon tradition into Xerox PARC
-1997 | Ed Chi Takes Baton | Interns in Palo Alto, engineering foraging theory into the information foraging model
-2022 | Into Machines | Chain of Thought paper published, cognitive psychology's "step-by-step reasoning" becomes a method for teaching AI
-Source: Various scholars' Wikipedia, arXiv 2201.11903
+1955 | Simon coins terms | Herbert Simon proposes "satisficing" and bounded rationality, viewing the brain as an info-processor
+1974 | Psychology enters the lab | Stuart Card brings the Newell-Simon tradition to Xerox PARC
+1997 | Ed Chi takes the baton | Interns at PARC, engineering foraging theory into information foraging models
+2022 | Bringing it to machines | Chain of Thought paper published; Piaget's "step-by-step reasoning" becomes a method for AI
+Source: Wikipedia biographies of scholars, arXiv 2201.11903
 ```
 
-## Not More Data, But More Like Humans
+## Not More Data, But More Human
 
-In 2011, he left Palo Alto for Google. The reason was practical: "Just doing research isn't enough; you also need to build applied things." He saw the Xerox model of "deep basic research that doesn't translate into products" with his own eyes.
+In 2011, he left Palo Alto for Google. His reason was practical: "Doing research alone isn't enough; you also have to do applied work." He had seen the Xerox model of "doing deep fundamental research but failing to turn it into products."
 
-At Google, he first worked on web data analysis. From 2015 to 2017, he led a team to rebuild YouTube's neural network recommendation system. In 2017, he became the Chief Scientist of Google Brain, leading a team of 70 people. In 2021, he was promoted to Distinguished Scientist, leading a team of 120, and later became the Research Vice President of DeepMind[^6]. Behind this series of titles is actually the same methodological gene extending: information foraging is a model for "how people find things," recommendation systems are models for "what people want to see," and in Chain of Thought, it becomes a model for "how people reason." From human cognition, all the way to machines.
+At Google, he first worked on web data analysis. From 2015 to 2017, he led a team to rebuild YouTube's neural network recommendation system. In 2017, he became a Chief Scientist at Google Brain, leading a team of seventy. By 2021, he was promoted to Distinguished Scientist, leading one hundred and twenty people, before eventually becoming a Research Vice President at DeepMind[^6]. Behind this series of titles lies the extension of a single methodological gene: information foraging is a model of "how humans find things," recommendation systems are a model of "what humans want to see," and with Chain of Thought, it became a model of "how humans reason." Moving from human cognition all the way to machines.
 
-The turning point for Chain of Thought occurred due to his dissatisfaction with the mainstream machine learning of the time. "Why do we need so much data for this machine to truly learn?" He began to think, "Could we use methods from cognitive psychology to teach machines to learn?"[^7]
+The turning point for Chain of Thought came from his dissatisfaction with mainstream machine learning at the time. "Why does it require so much data for this machine to truly learn?" He began to wonder, "Can we use methods from cognitive psychology to teach machines how to learn?"[^7]
 
-So he returned to that concept. "This idea actually comes from... an idea from the 60s and 70s called schema theory. Its meaning is basically that if a person can use a template to solve a problem, then maybe we can also use this method to teach machines to learn. So Chain of Thought actually started from this idea." The interview host asked if it was Piaget's schema, and he answered: "Yes, it is Piaget's schema idea. That thing was actually what I learned when I was in high school and college, because I helped my mother write her educational psychology PhD thesis, so later these things gradually connected."[^8]
+So he returned to that original concept. "This idea actually comes from... an idea from the 60s and 70s called schema theory. It basically means that if a person can use a template to solve a problem, maybe we can also use this method to teach machines to learn. So Chain of Thought is actually just starting from this idea." When the interviewer asked if it was Piaget's schema, he replied: "Yes, it's Piaget's schema idea. That thing I actually learned during high school and college while helping my mother write her PhD thesis in educational psychology, so eventually these things slowly tied together."[^8]
 
-The seed on the desk sprouted.
+The seed on that desk had sprouted.
 
-![Chain of Thought paper Figure 1: Left side standard prompt gets it wrong, right side Chain of Thought prompt writes out reasoning steps first (blue background) then gives correct answer](/article-images/people/chain-of-thought-figure1.webp)
+![Chain of Thought paper Figure 1: Left shows standard prompting resulting in an error; right shows Chain of Thought prompting with reasoning steps (highlighted in blue) leading to the correct answer](/article-images/people/chain-of-thought-figure1.webp)
 
-_The most famous image in the Chain of Thought paper: asking in a general way on the left, the model calculates wrong; on the right, just adding a paragraph of reasoning process in the example (the blue part), the model answers correctly. The difference is not in computing power, but in whether it "writes out thoughts step by step." Image from Wei et al., 2022._
+_The most famous figure in the Chain of Thought paper: on the left, a standard prompt leads to a wrong answer; on the right, by simply adding a reasoning process (the blue section) to the example, the model answers correctly. The difference isn't computing power, but whether the "thoughts are written out step-by-step." Figure from Wei et al., 2022._
 
-And it cost almost nothing. "Do you know how much computing power we used in total? About $5,000 in computing power. Because that problem was not one that could be solved by computing power, but rather another mode of thinking. When we did that research, at first we basically had no funding; it was something we came up with from scratch."[^1]
+And it cost almost nothing. "Do you know how much total computing power we used? It was about five thousand US dollars worth of compute. Because that problem wasn't something that could be solved with computing power; rather, it was a different mode of thinking. When we were doing that research, at the beginning, we basically had no funding; it was just something we came up with ourselves."[^1]
 
 ```tw-versus
-Mainstream AI Route | The Chain of Thought Route
-Larger models, more parameters | No need to retrain the model
-Feed more data | Add a few lines of problem-solving process in examples
-Hundreds of millions in computing power arms race | About $5,000
-Pursuit of brute-force scale | Borrowing cognitive psychology of how humans learn
+Mainstream AI Path | The Chain of Thought Path
+Larger models, more parameters | No need to retrain models
+Feeding more data | Adding a few lines of reasoning to examples
+Hundreds of millions in compute arms race | Approximately \$5,000
+Brute force scaling | Borrowing cognitive psychology on how humans learn
+Source: Ed Chi VK EP122 interview (Chain of Thought paper used ~\$5,000 compute, using cognitive psychology to teach machines) and research history reports[^1][^6][^7]
 ```
 
-This is the main point this article wants to make: the key to teaching AI to reason is not more computing power, but being more like humans; and this "more like humans" grew out of a Tamsui child helping his mother write an educational psychology PhD thesis.
+This is the core message of this article: the key to letting AI reason is not more computing power, but being more human—and this "human-likeness" grew from an educational psychology PhD thesis written by a boy from Tamsui for his mother.
 
-## He Told His Subordinates: Don't Use That Method, Try Schema
+## What He Told His Subordinates: Don't Use That Method, Try Schemas
 
-Here we must be honest.
+We must be honest here.
 
-The Chain of Thought paper has nine authors, with Ed Chi ranked seventh. The first author is Jason Wei, the main executor; the last author, the senior leader in academic convention, is Denny Zhou, the founder of the Google Brain Reasoning Research Team. To say this paper was "invented by Ed Chi" is inaccurate; Denny Zhou is the leader of this research direction, and Denny Zhou is a researcher in Ed Chi's team, his direct subordinate.
+There are nine authors on the Chain of Thought paper; Ed Chi is ranked seventh. The first author is Jason Wei, the primary executor; the last author, and thus the senior lead by academic convention, is Denny Zhou, the founder of the Google Brain reasoning research team. To say this paper was "invented by Ed Chi" is inaccurate; Denny Zhou was the leader of this research direction, and Denny Zhou is a researcher on Ed Chi's team—his direct subordinate.
 
-So what was his role? Listen to what he says: "Denny Zhou is a researcher in my team. After he joined my team, he came to me and said he wanted to do reasoning research... He originally used a more traditional neural-symbolic method, so I told him I thought neural-symbolic might not work well, and suggested considering other methods? Then we slowly discussed and found that maybe we could use the concept of schema."[^9]
+So what was his role? As he put it: "Denny Zhou is a researcher in my team. After joining, he came to me saying he wanted to do reasoning research... He was originally using more traditional neural-symbolic methods, and I told him I didn't think neural-symbolic seemed to work well, so should we consider other methods? Then we slowly discussed it and found that perhaps we could use the concept of schemas."[^9]
 
-This sentence outlines his true contribution. He was not the main executor of the paper, but he was the one who said "don't go that way" at the critical fork: he rejected the neural-symbolic direction, which seemed logical at the time, and pushed the discussion toward schema. More importantly, he could think of schema because he brought a thirty-year cognitive science perspective into this team. In other words, he was the person who made it "possible for Denny Zhou to think of schema."
+This statement defines his true contribution. He wasn't the primary executor of the paper, but he was the person at the critical crossroads who said, "Don't go that way." He rejected the neural-symbolic direction, which seemed logical at the time, and pushed the discussion toward schemas. More importantly, he could think of schemas because he brought thirty years of cognitive science perspective to the team. In other words, he was the person who made it _possible_ for Denny Zhou to think of schemas.
 
 > 📝 **Curator's Note**
-> The most common flaw in the "Light of Taiwan" narrative is compressing a complex contribution into a single sentence: "he invented X." But reality is often more interesting. What makes Ed Chi truly irreplaceable is a twenty-year long arc: he gradually brought cognitive psychology into machines, from information foraging, to recommendation systems, to Chain of Thought. Papers have nine authors, rankings, and credit disputes; but "continuously bringing the question of how humans think into the engineering site for twenty years" is something only he in the whole team could do. To see his value, you have to zoom out to a twenty-year scale, not stop at an author list.
+> The most common flaw in "Taiwanese Pride" narratives is compressing a complex contribution into a single sentence like "He invented X." But reality is often more interesting. Ed Chi's true, irreplaceable value is a twenty-year arc: he has been moving cognitive psychology into machines bit by bit—from information foraging to recommendation systems, and finally to Chain of Thought. Papers have nine authors, rankings, and credit disputes; but the act of "consistently bringing the question of how humans think into engineering sites for twenty years" is something only he has done within the entire team. To see his value, one must look at a twenty-year scale, not just an author list.
 
-He explained the subsequent development of Chain of Thought using a deeper framework. When AI not only solves problems by template but also "reflects" on its own thinking and goes back to correct it, he said: "In Piaget's cognitive science, or in learning science, this is called assimilation and accommodation... This kind of true learning in machines seems to have truly begun."[^10] Solving problems by template is assimilation; going back to rewrite the template is accommodation: he brought the pair of concepts he learned helping his mother write her thesis directly to describe machine learning.
+He explained the aftermath of Chain of Thought using a deeper framework. When AI doesn't just solve problems by template but also "reflects" on its own logic and goes back to correct itself, he says: "In Piaget's cognitive science, or in learning science, this would be called assimilation and accommodation... true machine learning like this seems to have truly begun."[^10] Solving by template is assimilation; rewriting the template is accommodation. He took the pair of concepts he learned while helping his mother write her thesis and applied them verbatim to describe machine learning.
 
-He also connected Chain of Thought to another psychologist's framework: "Chain of Thought plus fine-tuning, plus next-token prediction, seems to be the beginning of reasoning machines, which is what Kahneman calls System 2 thinking."[^11] System 1 is intuitive, fast, effortless thinking (seeing a microphone and knowing it's a microphone); System 2 is effortful, rational, step-by-step reasoning thinking (the brain activity when asked "what is the definition of AGI"). In his view, past deep learning has made System 1 very deep, and Chain of Thought is the starting point for machines to begin doing System 2.
+He also linked Chain of Thought to another psychologist's framework: "Chain of Thought, plus fine-tuning, plus next-token prediction, seems to be the beginning of reasoning machines—what is known as System 2 thinking, as described by Kahneman."[^11] System 1 is intuitive, fast, and effortless thinking (seeing a microphone and knowing it's a microphone); System 2 is effortful, rational, and step-by-step thinking (the brain working when asked "what is the definition of AGI"). In his view, past deep learning has made System 1 very profound, while Chain of Thought is the starting point for machines to perform System 2.
 
-## Machines That Reason, and Grandma's Standard
+## Reasoning Machines and "Grandma's Standard"
 
-When is AI truly "there"? Ed Chi's answer is not in any technical metric, but in Grandma.
+So when will AI truly "arrive"? Ed Chi's answer isn't in any technical metric; it's in grandmas.
 
-"The day your grandma scolds your home robot saying, 'I already taught you once, why don't you still know it?'—then you know AGI has arrived... Our metric is embedded in Grandma."[^12]
+"The day your grandma scolds your home robot, saying 'I've already taught you once, why don't you know how yet?', that's when you'll know AGI has arrived... our benchmark lives in grandmas."[^12]
 
-This sentence is sharper than it sounds. Today's扫地机器人 (robot vacuums) still get tangled in wires, hit furniture; we complain they are stupid, but we don't get truly angry at them: because deep down we feel "machines are naturally stupider than me, it's normal to teach them a few more times." But when one day Grandma scolds the robot like she scolds a person who can't learn, it means she has already treated it as an object that "should know it after one teaching." The moment AGI arrives, rather than being a benchmark passing a line, it is more like human expectations quietly changing.
+This statement is sharper than it sounds. Today, when a robot vacuum gets tangled in wires or hits furniture, we might think it's stupid, but we don't get truly angry at it because deep down we feel "machines are naturally stupider than me; it's normal to have to teach them several times." But if one day, a grandma scolds a robot the way she would a person who refuses to learn, it means she has mentally categorized it as an entity that _should_ know something after being taught once. The arrival of AGI is less about a benchmark score crossing a line and more about human expectations quietly shifting.
 
-This also connects back to his view on Artificial General Intelligence (AGI). He believes two things are required for AGI to hold: first, AI cannot just live in a virtual world; it must integrate into humans' real living environments; second, "I teach you once, and you will know it in the future"—being able to draw inferences, explore on its own, rather than requiring humans to repeat teaching. The Project Astra he currently leads is doing exactly the first thing: a general assistant that can perceive the context you are in.
+This also connects back to his view on Artificial General Intelligence (AGI). He believes two things must happen for AGI to be valid: first, AI cannot only exist in a virtual world; it must be able to integrate into humans' real living environments; second, "I teach you once, and you know it from then on"—the ability to apply knowledge to new situations and explore independently, rather than requiring repetitive instruction. The Project Astra he is currently leading addresses the first point: a general assistant that can perceive your context.
 
-He told a personal scene. About a year ago, he took the still-confidential Project Astra to a conference in Barcelona. In a hotel rooftop bar, he took out his phone, scanned the city skyline, and asked it "where am I." It answered "looks like you are in Barcelona." He asked which district, and it gave the correct district name. He asked if there were good nearby restaurants, "preferably with a Michelin star," and it answered. "I said 'can you help me make a reservation?' It said 'not yet, but maybe in the future.'" At that moment, he realized that this kind of personal assistant that truly stays by your side and understands your situation can be made in our lifetime.[^13]
+He shared a personal experience. About a year ago, he brought the still-confidential Project Astra to a conference in Barcelona. In a rooftop bar of a hotel, he scanned the city skyline with his phone and asked, "Where am I?" It replied, "It looks like you are in Barcelona." He followed up by asking which district, and it named the correct one. He then asked if there were good restaurants nearby, "preferably Michelin-starred," and it answered. "I said, 'Can you help me make a reservation?' and it said, 'Not right now, but maybe in the future.'" At that moment, he realized that this kind of personal assistant—one that truly stays by your side and understands your situation—could be built within his lifetime.[^13]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/3rQ4jPvvY0c" title="Sidechat E350 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/3rQ4jPvvY0c" title="Sidechat E350 ft. Ed Chi" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Ed Chi discusses smart glasses, the "Grandma Standard" of AGI, and Taiwan's opportunities in the Sidechat E350 interview. In the interview, he pulled out a Project Astra glasses prototype, saying this should be Taiwan's first._
+_In Sidechat E350, Ed Chi discusses smart glasses, the "Grandma Standard" for AGI, and opportunities for Taiwan. During the interview, he pulls out a Project Astra prototype glass, saying it should be Taiwan's first._
 
-At the interview site, he pulled a Project Astra-equipped smart glasses prototype from his pocket, saying this "should be" Taiwan's first. He talked about where Taiwan has the most opportunity. Hardware is one piece: "Taiwan's position in semiconductors, especially in manufacturing, is hard to shake." But he turned the corner, "If Taiwan can integrate hardware and software well, leveraging the capabilities of large language models, it is indeed a great opportunity."[^14]
+During the interview, he pulled a Project Astra smart glasses prototype from his pocket, saying it "should be" Taiwan's first. He discussed where Taiwan has the greatest opportunity. Hardware is one part: "Taiwan's position in semiconductors, especially manufacturing, is very difficult to shake." But he pivoted: "If Taiwan can integrate hardware and software well, utilizing the capabilities of Large Language Models, there is indeed a huge opportunity."[^14]
 
-## Taiwan Recognizes Chips, Not This Brain
+## Taiwan Recognizes Chips, but Not This Brain
 
-Speaking of this, we cannot avoid one question: is he Taiwanese?
+At this point, an unavoidable question arises: does he count as Taiwanese?
 
-The facts are there: he left Taiwan at around age 15, completed high school, university, and graduate school all in the US, and his entire career was in Silicon Valley. He is a Taiwanese American, a person born in Taiwan who grew up and succeeded in the US. If someone says the "Light of Taiwan" hat is consuming a person who immigrated long ago, this doubt is not baseless.
+The facts are clear: he left Taiwan around age 15, completed his high school, undergraduate, and graduate studies in the U.S., and has spent his entire career in Silicon Valley. He is Taiwanese American—someone born in Taiwan who grew up and succeeded in America. If someone argues that the "shining star of Taiwan" label is merely consuming the image of someone who emigrated long ago, that criticism is not without merit.
 
-But on the other side of the scale, there are also solid things. He gave interviews in Chinese, actively saying he was "born in Tamsui, a native Taiwanese," without dodging. He continued to return to Taiwan for lectures—his presence is left at National Taiwan Normal University, Chung Hsing University, and National Yang Ming Chiao Tung University. He has specific observations on Taiwan's long-term care困境 (dilemma), semiconductor status, and AI startup ecology, even naming that Taiwan already has about 15,000 users using DeepMind's protein structure prediction tool.
+But there is weight on the other side of the scale as well. He conducts interviews in Chinese and proactively describes himself as "born in Tamsui, a native of Taiwan," without evasion. He continues to return to Taiwan to give lectures—at NTNU, Chung Hsing, and NYCU. He has specific observations regarding Taiwan's long-term care challenges, its semiconductor status, and its AI startup ecosystem; he even noted that approximately 15,000 users in Taiwan are already using DeepMind's protein structure prediction tool.
 
-What best illustrates his "both inside and outside" position is a passage he said to Taiwanese researchers: "For this part of research, I have actually returned to Taiwan for so many years, speaking every time, but I haven't seen Taiwanese researchers... doing much in this area. Research that doesn't require many chips."[^15]
+The best illustration of his "insider-outsider" position is something he said to Taiwanese researchers: "Regarding this part of research, I have actually come back to Taiwan many times over the years and mentioned it every time, but I haven't seen Taiwanese researchers... doing much in this area. This is research that doesn't require many chips."[^15]
 
-There are two identities pulling in this sentence. He speaks of "returning to Taiwan," being someone who considers himself part of here; but "speaking every time, yet no one does it" carries a sense of outsider distance—as if someone who has been away from home for a long time returns to see a corner of the home that has never been cleaned, anxious, yet powerless. Whether he counts as the "Light of Taiwan," this article does not conclude for you. The facts are all here; judge for yourself.
+There is a tension between two identities in that sentence. By saying "come back to Taiwan," he speaks as someone who considers himself part of the place; but by saying "I've mentioned it every time, yet no one does it," there is a sense of distance—like someone who has been away from home for a long time, returning to see a corner of the house that has remained untended, feeling urgent but unable to exert influence. Whether he counts as a "shining star of Taiwan" is not for this article to conclude. The facts are here; you decide.
 
 > 📊 **Him in Numbers**
 
 ```tw-stat
-About $5,000 | Computing power used for Chain of Thought paper | Contrasted with industry's hundreds of millions in arms race
-About 114,000 | Total Google Scholar Citations | 82% from after 2021
-13% → 83% | OpenAI o1 Accuracy on Math Olympiad Problems | o1 is explicitly built on Chain of Thought
+~ \$5,000 | Compute used for Chain of Thought paper | Compared to industry's hundreds of millions
+~ 114,000 | Total Google Scholar citations | 82% are from after 2021
+13% → 83% | OpenAI o1 accuracy on Math Olympiad problems | o1 is explicitly built on Chain of Thought
+Source: Ed Chi VK EP122 interview, Google Scholar citation stats, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Source: Ed Chi VK EP122 Interview, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Source: Ed Chi VK EP122 interview, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
-## Showing Reasoning: More Transparent or Better at Reasoning?
+## Showing Reasoning: More Transparent or Just Better at Making Excuses?
 
-Chain of Thought lets AI "show" its reasoning process. On the surface, this makes machines more transparent—you can see how they think. But here hides a concern that an honest person should present side-by-side.
+Chain of Thought allows AI to "show" its reasoning process. On the surface, this makes machines more transparent—you can see how they think. But there is a concern that an honest person should present alongside this.
 
 > ⚠️ **Controversial Viewpoint**
-> Chain of Thought lets AI lay out its "thinking process" in front of you, looking more credible and trustworthy. However, academia has raised questions: the string of reasoning the model shows does not necessarily reflect its internal decision-making process (in research, this is called the "faithfulness" problem of the reasoning chain). In other words, it might have derived the answer first, then supplemented a beautiful explanation for you to see—being better at reasoning does not equal being more honest. Meanwhile, in March 2026, a jury in Los Angeles, USA, determined that YouTube and other platforms are responsible for youth addiction in a social media addiction case, with Google found to be about 30% responsible. Ed Chi won the ACM Fellowship precisely due to achievements like the YouTube recommendation system, yet has hardly ever publicly discussed the potential harms of algorithms. A person who can make machines "better at reasoning" is currently silent on the question of "whether accountability becomes harder once machines are better at reasoning." Pointing this out is not intended to attack anyone; it just wants to say, when we are proud of a Taiwanese standing at the forefront of AI, we should also put these questions into view.
+> Chain of Thought lays out the "thinking process" before you, making it look more credible and trustworthy. However, academia has raised doubts: the string of reasoning a model shows may not truly reflect its internal decision-making process (this is known in research as the "faithfulness" problem of reasoning chains). In other words, it might arrive at an answer first and then construct a beautiful explanation to show you—being better at making sense does not equal being more honest. Simultaneously, in March 2026, a jury in Los Angeles ruled in a social media addiction case that platforms like YouTube bear responsibility for adolescent addiction, with Google assigned roughly 30% of the liability. Ed Chi earned his status as an ACM Fellow largely due to achievements like the YouTube recommendation system, yet he has almost never publicly discussed the potential harms algorithms can cause. For someone who makes machines "better at reasoning," he remains silent on whether "making machines better at making sense will actually make accountability harder." Pointing this out is not intended to attack anyone; it is simply to say that while we take pride in a Taiwanese man standing at the AI forefront, we should also keep these issues in our field of vision.
 
-This contradiction has no clean answer, but it shouldn't. A technology that makes AI more like humans will simultaneously amplify humanity's best and most troublesome traits—humans can reason, but humans also make up reasons for their decisions. Seeing both sides together is treating this seriously.
+There is no clean answer to this contradiction, nor should there be. A technology that makes AI more human will simultaneously amplify both the best and most troublesome human traits—humans can reason, but humans also make excuses for their decisions. Seeing both sides is the only way to treat this matter seriously.
 
-## And Then?
+## And Then What?
 
-Ed Chi observed an eight-year cycle: 1991 Internet, 1999 Google born, 2007 iPhone, 2015 Deep Learning matured, 2023 Gemini and ChatGPT. By this rhythm, the next inflection point falls around 2031. He said, by then, "no one will be surprised that you are using large models"—just as no one is surprised today that you use a mobile phone.
+Ed Chi has observed an eight-year cycle: 1991 the Internet, 1999 the birth of Google, 2007 the iPhone, 2015 the maturity of deep learning, and 2023 Gemini and ChatGPT. Following this rhythm, the next turning point falls around 2031. He says that by then, "no one will be surprised that you are using large models to get things done"—just as no one is surprised today that you use a smartphone.
 
-The direction he is currently betting on is getting AI out of screens and into the real world: Project Astra that can perceive your context, robots that can do housework. What moved him most was Taiwan's long-term care. "Will there really be some more affordable robots that can help with household chores?"—laundry, cooking, turning patients over, delivering medicine on time. When a society lacks workers, has a shortage of nursing staff, and hospitals have no beds, these things that sound sci-fi are actually very practical hopes.
+The direction he is betting on now is letting AI step out of the screen and into the real world: Project Astra, which can perceive your context, and robots that can perform household chores. What moves him most is Taiwan's long-term care situation. "Will there be truly affordable robots that can help with housework?"—laundry, cooking, turning patients over in bed, delivering medicine on time. When a society faces labor shortages, nursing shortages, and hospital bed shortages, these things that sound like science fiction are actually very practical hopes.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/nXVvvRhiGjI" title="Google Project Astra" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/nXVvvRhiGjI" title="Google Project Astra" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Google's official release of the Project Astra vision video, this is the direction Ed Chi is currently responsible for: a general assistant that can coexist in the same environment with you and understand your situation._
+_Google's official vision video for Project Astra. This is the direction Ed Chi is currently leading: a general assistant that can exist in the same environment as you and understand your situation._
 
 Back to that desk.
 
-A Tamsui child, around 15, followed his mother to Minnesota. While helping his mother write her educational psychology PhD thesis, he learned "how humans learn." Thirty years later, he turned this concept about humans into a method for teaching machines to think. When one day your grandma says to the home robot, "I already taught you once, why don't you still know it?"—the reason that machine can reason step-by-step, reflect, and draw inferences is behind a long thread. One end of the thread is Silicon Valley labs; the other end is Tamsui.
+A child from Tamsui, around age 15, followed his mother to Minnesota. While helping her write an educational psychology PhD thesis, he learned "how humans learn." Thirty years later, he turned that human concept into a method for teaching machines to think. One day, when your grandma says to the home robot, "I've already taught you once, why don't you know how yet?"—the reason that machine can reason step-by-step, reflect, and apply knowledge to new situations is because of a long thread. At one end of the thread is a Silicon Valley lab; at the other end is Tamsui.
 
 ## Image Sources
 
-- Ed Chi speaking photo (hero): [GQ Taiwan "GQ Exclusive Interview" Ed Chi](https://www.gq.com.tw/article/gq%E5%B0%88%E8%A8%AA-%E7%B4%80%E6%87%B7%E6%96%B0-ed-chi-2026) — fair use editorial commentary
-- [Junyu-K / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20241130_淡水油車口木棧道的夕景.jpg) — CC BY-SA 4.0 (Sunset on the wooden boardwalk at Youchikou, Tamsui)
+- Ed Chi speaking photo (hero): [GQ Taiwan "GQ Interview" Ed Chi](https://www.gq.com.tw/article/gq%E5%B0%88%E8%A8%AA-%E7%B4%80%E6%87%B7%E6%96%B0-ed-chi-2026) — fair use editorial commentary
+- [Junyu-K / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20241130_淡水油車口木棧道的夕景.jpg) — CC BY-SA 4.0 (Tamsui Youchekou wooden boardwalk sunset)
 - [SavagePanda845 (Elliot F) / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UMN-TheKnoll.jpg) — CC BY-SA 4.0 (University of Minnesota campus)
 - [The wub / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Xerox_Alto_I,_1973,_Computer_History_Museum.jpg) — CC BY-SA 4.0 (Xerox Alto computer)
 - Chain of Thought paper Figure 1: [Wei et al. 2022, arXiv:2201.11903](https://arxiv.org/abs/2201.11903) — fair use academic
 
 ## Further Reading
 
-- [Jensen Huang](/en/people/jensen-huang)——The Light of Taiwan who makes AI run faster, the hardware side
-- [Morris Chang](/en/people/tsmc-morris-chang)——The founder of Taiwan's semiconductors, the "hard-to-shake" mountain Ed Chi spoke of
-- [AI Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry)——Taiwan's position in the global AI supply chain
-- [Taiwan AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy)——The overall picture of Taiwan's AI
-- [Taiwan AI Daily Life](/en/technology/taiwan-ai-in-daily-life)——How AI has already entered Taiwanese people's lives
+- [Jensen Huang](/en/people/jensen-huang)—The "shining star" of Taiwan on the hardware side, making AI run faster
+- [Morris Chang](/en/people/tsmc-morris-chang)—The founder of Taiwan's semiconductor industry, the "unshakeable mountain" mentioned by Ed Chi
+- [AI Industry](/en/technology/artificial-intelligence-industry)—Taiwan's position in the global AI supply chain
+- [Taiwan's AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy)—The overall landscape of Taiwan's AI
+- [Daily AI in Taiwan](/en/technology/taiwan-ai-in-daily-life)—How AI has entered the lives of Taiwanese people
 
 ## References
 
-[^1]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Official VK channel interview, Ed Chi himself interviewed. Around 52 minutes, he personally explains that the Chain of Thought paper used only about $5,000 in computing power, the most powerful evidence of "anti-computing power arms race."
+[^1]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Interview on VK's official channel with Ed Chi. At approximately 52 minutes, he personally explains that the Chain of Thought paper used only about \$5,000 in compute, serving as powerful evidence for "anti-compute arms race" thinking.
 
-[^2]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — INSIDE's tech podcast official interview, Ed Chi introduces himself at the beginning of the program, word-for-word stating he was born in Tamsui and went to the US with his mother at around age 15.
+[^2]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Official interview from INSIDE's tech podcast; during the introduction, Ed Chi describes being born in Tamsui and moving to the U.S. with his mother around age 15.
 
-[^3]: [Ed H. Chi Personal Resume](https://www.edchi.net/resume) — Ed Chi's personal website resume, recording University of Minnesota Computer Science BS (1992–1994), MS (1994–1996), PhD in Computer and Information Science (1996–1999), graduated with highest honors, advisor John T. Riedl.
+[^3]: [Ed H. Chi Resume](https://www.edchi.net/resume) — Personal official website resume of Ed Chi, recording his B.S. (1992–1994), M.S. (1994–1996), and Ph.D. (1996–1999) in Computer Science from the University of Minnesota, graduating with highest honors under advisor John T. Riedl.
 
-[^4]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 56 minutes, Ed Chi's self-narration of the psychological journey of switching to "bridging" research because his math was not as good as peers', a key confession for understanding his research style.
+[^4]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 56 minutes, Ed Chi describes his psychological journey of moving toward "bridging" research because his math skills were not as strong as his peers; a key confession for understanding his research style.
 
-[^5]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 5 minutes, Ed Chi explains the lineage at PARC, his boss Stuart Card was a student of Allen Newell. Proper nouns corrected against academic sources ([Stuart Card Wikipedia](https://en.wikipedia.org/wiki/Stuart_Card)).
+[^5]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 5 minutes, Ed Chi explains the lineage at PARC, noting his boss Stuart Card was a student of Allen Newell. Proper names corrected to academic sources ([Stuart Card Wikipedia](https://en.wikipedia.org/wiki/Stuart_Card)).
 
-[^6]: [Ed H. Chi | Google Research](https://research.google/people/edchi/) — Google Research official personal page, recording his career trajectory and research areas at Google; career details also refer to personal resume [edchi.net/resume](https://www.edchi.net/resume).
+[^6]: [Ed H. Chi | Google Research](https://research.google/people/edchi/) — Official Google Research personal page, recording his career trajectory and research areas at Google; for career details, see his resume at [edchi.net/resume](https://www.edchi.net/resume).
 
-[^7]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 9 minutes, Ed Chi explains his dissatisfaction with "why machines need so much data to learn," the starting point of Chain of Thought.
+[^7]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 9 minutes, Ed Chi explains his dissatisfaction with "why machines need so much data to learn," which was the starting point for Chain of Thought.
 
-[^8]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 9 to 10 minutes, the most core first-hand self-narration of Chain of Thought's origin: schema theory, Piaget, and the personal connection of helping his mother write an educational psychology PhD thesis. The soul paragraph of this article.
+[^8]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — From approximately 9 to 10 minutes, the core firsthand account of the origins of Chain of Thought: schema theory, Piaget, and the personal connection to helping his mother with her educational psychology PhD thesis. The soul of this article.
 
-[^9]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 57 minutes, Ed Chi's self-narration of the key process of rejecting Denny Zhou's neural-symbolic method and turning toward schema, the first-hand basis for judging his contribution role. Paper authors and order see [arXiv 2201.11903](https://arxiv.org/abs/2201.11903).
+[^9]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 57 minutes, Ed Chi describes the key process of rejecting Denny Zhou's neural-symbolic method in favor of schemas; a firsthand basis for determining his role in the contribution. See author order in [arXiv 2201.11903](https://arxiv.org/abs/2201.11903).
 
-[^10]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 15 minutes, Ed Chi uses Piaget's assimilation and accommodation framework to describe the evolution from Chain of Thought to reflective reasoning, showing his idea of bringing educational psychology language directly into AI.
+[^10]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 15 minutes, Ed Chi uses Piaget's assimilation and accommodation framework to describe the evolution from Chain of Thought to reflective reasoning, demonstrating his approach of bringing educational psychology language directly into AI.
 
-[^11]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototype, Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — Around 17 minutes, Ed Chi connects Chain of Thought to Kahneman's _Thinking, Fast and Slow_ System 1/System 2 thinking framework. Kahneman's work _Thinking, Fast and Slow_ was published in 2011.
+[^11]: [VK Tech Reading Time EP122: AI Evolution, AGI Prototypes, and Lots of Psychology (ft. Ed Chi)](https://www.youtube.com/watch?v=51woDEK5NME) — At approximately 17 minutes, Ed Chi links Chain of Thought to Kahneman's System 1/System 2 thinking framework from _Thinking, Fast and Slow_.
 
-[^12]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Interview opening and around 60 minutes, Ed Chi proposes the "Grandma Standard" of AGI: when Grandma scolds the robot like she scolds a person "I taught you once, why don't you still know it?", AGI has arrived.
+[^12]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — During the introduction and at approximately 60 minutes, Ed Chi proposes the "Grandma Standard" for AGI: when a grandma scolds a robot like a person ("I've taught you once, why don't you know it yet?"), AGI has arrived.
 
-[^13]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Around 30 minutes, Ed Chi narrates taking the confidential Project Astra to Barcelona, scanning the city skyline in a hotel rooftop bar, and the personal scene of it correctly identifying the city and district.
+[^13]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — At approximately 30 minutes, Ed Chi recounts taking the confidential Project Astra to Barcelona and scanning the city skyline at a hotel rooftop bar, where it correctly identified the city and district.
 
-[^14]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Around 40 minutes, Ed Chi comments on Taiwan's semiconductor manufacturing status as "hard to shake," and that soft-hard integration is a "great opportunity" for Taiwan.
+[^14]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — At approximately 40 minutes, Ed Chi comments on Taiwan's "unshakeable" position in semiconductor manufacturing and the "huge opportunity" for hardware-software integration.
 
-[^15]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — Around 52 minutes, Ed Chi calls out to Taiwanese researchers: research in this area "doesn't require many chips," but he has returned to Taiwan for many years, speaking every time, yet hasn't seen Taiwanese researchers invest. This best presents his outsider-insider identity tension.
+[^15]: [Sidechat E350 (ft. Ed Chi)](https://www.youtube.com/watch?v=3rQ4jPvvY0c) — At approximately 52 minutes, Ed Chi addresses Taiwanese researchers: this type of research "doesn't require many chips," yet despite him mentioning it every time he returns to Taiwan, he hasn't seen much involvement from local researchers. This segment best illustrates his outsider-insider identity tension.
