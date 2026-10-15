@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T09:25:40+08:00",
-    "zhCommitHead": "83ca6a9aa",
+    "lastUpdated": "2026-10-15T09:36:44+08:00",
+    "zhCommitHead": "c5c508146",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1063,
-        "stale": 12,
+        "fresh": 1064,
+        "stale": 11,
         "metadata_stale": 58,
         "missing": 2,
         "orphan": 0
@@ -109582,11 +109582,11 @@
           "sourceContentHash": "sha256:de4fd6732d209052",
           "sourceBodyHash": "sha256:301572e76bca4d98",
           "translatedAt": "2026-10-15T00:57:01.822221+00:00",
-          "translationLastCommit": "14af49dd",
-          "translationLastModified": "2026-10-13T17:13:01+08:00",
+          "translationLastCommit": "c5c50814",
+          "translationLastModified": "2026-10-15T09:25:40+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 53991,
+          "bytes": 54003,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168696,8 +168696,8 @@
           "sourceContentHash": "sha256:050249e143e4dbb3",
           "sourceBodyHash": "sha256:22ecadf2b6d21f0e",
           "translatedAt": "2026-10-14T23:34:27.222060+00:00",
-          "translationLastCommit": "5897530b",
-          "translationLastModified": "2026-10-10T23:26:49+08:00",
+          "translationLastCommit": "c5c50814",
+          "translationLastModified": "2026-10-15T09:25:40+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 61778,
@@ -217130,11 +217130,11 @@
           "sourceContentHash": "sha256:f7212df28a7408b1",
           "sourceBodyHash": "sha256:5f193ab0cecd9e8d",
           "translatedAt": "2026-10-15T00:19:07.520752+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "c5c50814",
+          "translationLastModified": "2026-10-15T09:25:40+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 53230,
+          "bytes": 53236,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -217292,20 +217292,18 @@
         "de": {
           "path": "de/Culture/taiwan-advertising-history.md",
           "translatedFrom": "Culture/台灣廣告史.md",
-          "sourceCommitSha": "f7484ebea",
-          "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
-          "sourceBodyHash": "sha256:296b2f47a01a03eb",
-          "translatedAt": "2026-09-25T00:15:08.820170+00:00",
+          "sourceCommitSha": "7e660a586",
+          "sourceContentHash": "sha256:f7212df28a7408b1",
+          "sourceBodyHash": "sha256:5f193ab0cecd9e8d",
+          "translatedAt": "2026-10-15T01:26:02.847576+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 51444,
+          "bytes": 54475,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

@@ -1,18 +1,18 @@
 ---
-title: 'Os nomes em inglês dos taiwaneses na infância: Mary, Kevin e o poder de nomeação dos professores de escolas de idiomas'
-description: 'Das páginas dos livros didáticos das escolas de idiomas à romanização do passaporte, até o balcão da Starbucks, esse nome nunca foi escolhido por você. Uma história da nomeação que vai de 1983 com a Hess Educational, ao "NO CHINESE, ENGLISH PLEASE" de 1987 da Sesame Street English, até a emenda legislativa de 2024 permitindo nomes indígenas isolados, devolvendo a questão àqueles 30 segundos de hesitação.'
+title: 'Nomes em inglês de taiwaneses na infância: Mary, Kevin e o poder de nomeação dos professores de cursinhos'
+description: "Desde folhear livros em cursinhos até a romanização no passaporte e o balcão do Starbucks, aquele nome nunca foi escolhido por você. Uma história da nomeação que vai desde o 'NO CHINESE, ENGLISH PLEASE' de He Chia-jen em 1983 e do Sesame Street English em 1987, até a reforma legislativa de 2024 que permite listar o nome do grupo étnico separadamente, devolvendo o problema àquela pausa de 30 segundos."
 date: 2026-06-17
 category: 'Culture'
 tags:
   [
     'nome em inglês',
-    'aula de inglês infantil',
-    'Hess Educational',
+    'turma de inglês infantil',
+    'He Chia-jen',
     'Sesame Street English',
-    'romanização do passaporte',
-    'direito de nomear',
-    'retomada de nomes indígenas',
-    'Sōshi-kaimei',
+    'romanização de passaporte',
+    'direito de nomeação',
+    'identidade indígena',
+    'mudança de nome por linhagem',
   ]
 subcategory: '語言與命名'
 author: 'Taiwan.md'
@@ -23,7 +23,35 @@ lastVerified: 2026-06-17
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/台灣人小時候的英文名字.md'
 viewpoint_formed: true
-verification: '{''high_confidence'': [''何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987'', ''NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）'', ''Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000'', ''護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」'', ''2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言'', ''通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效'', ''香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）'', ''創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）'', ''1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配'', ''Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者'', ''鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回'', ''統一星巴克 1998/3/28 天母西路首店''], ''single_source'': ["吉的堡 1986 創立 + 1988 自研 Chevady''s World 教材（babyeduhub 二手）", ''aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）'', ''PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案'', ''Anne Chang Medium 個人散文（端正坐姿）''], ''unverified'': [''1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」'', ''Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」'', ''一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）'']}'
+verification:
+  high_confidence:
+    [
+      '何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987',
+      'NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）',
+      'Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000',
+      '護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」',
+      '2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言',
+      '通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效',
+      '香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）',
+      '創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）',
+      '1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配',
+      'Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者',
+      '鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回',
+      '統一星巴克 1998/3/28 天母西路首店',
+    ]
+  single_source:
+    [
+      "吉的堡 1986 創立 + 1988 自研 Chevady's World 教材（babyeduhub 二手）",
+      'aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）',
+      'PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案',
+      'Anne Chang Medium 個人散文（端正坐姿）',
+    ]
+  unverified:
+    [
+      '1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」',
+      'Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」',
+      '一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）',
+    ]
 rationale:
   whats_excluded:
     [
@@ -34,303 +62,308 @@ rationale:
       '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
     ]
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'cfce444ae'
-sourceContentHash: 'sha256:5ec68902a1c50e0d'
-sourceBodyHash: 'sha256:efeadcec0add04bc'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceBodyHash: 'sha256:9aed0f1a904887ba'
+translatedAt: '2026-10-14T23:48:00.591546+00:00'
 ---
 
-# Os nomes em inglês dos taiwaneses na infância: Mary, Kevin e o poder de nomeação dos professores de escolas de idiomas
+# Nomes em inglês da infância dos taiwaneses: Mary, Kevin e o poder de nomear dos professores de cursos preparatórios
 
-> **Visão geral de 30 segundos:** Em 1983, a Hess Educational abriu sua primeira filial; nos três anos seguintes, Kid Castle, Giraffe English e Sesame Street English formaram-se em cadeia. Em 1987, a Sesame Street English em Taipé proclamou "NO CHINESE, ENGLISH PLEASE". A partir desse momento, as crianças de Taiwan começaram a receber, no primeiro dia de aula, um nome em inglês que não haviam escolhido: Mary, John, Kevin, Peter, na maioria vindos das listas de personagens dos livros didáticos Longman e materiais das escolas de idiomas. A pesquisa acadêmica sobre essa "geração designada" (Barešová & Pikhart 2020, N=76) afirma que a maioria recebeu seu primeiro nome em inglês do primeiro professor de inglês. Adultos, esse nome continua a ser interrogado entre a romanização do passaporte, o Outlook de empresas estrangeiras, o copo de papel da Starbucks, a alfândega do aeroporto, até que um dia alguém na alfândega da Califórnia pergunte: "So your name is Chia-hao, not Kevin?"
+> **Resumo em 30 segundos:** Em 1983, He Chia-jen abriu a primeira filial; nos três anos seguintes, três redes de cursos de inglês para crianças — Gibert, Giraffe English e Sesame Street English — formaram um exército. Em 1987, o Sesame Street English em Taipé proclamou: "NO CHINESE, ENGLISH PLEASE". A partir daquele momento, as crianças em Taiwan passaram a receber, logo no primeiro dia de aula, um nome em inglês que nunca escolheram: Mary, John, Kevin, Peter — a maioria extraída de livros didáticos da Longman e de listas de nomes nos materiais dos cursos preparatórios. Estudos acadêmicos sobre essa "geração designada" (Barešová & Pikhart 2020, N=76) afirmam que a maioria das pessoas recebeu seu primeiro nome em inglês de seu primeiro professor de inglês. Ao crescerem, esse nome continuará sendo interrogado na grafia do passaporte, no Outlook de empresas estrangeiras, nos copos de papel do Starbucks e na alfândega dos aeroportos, até que um dia, alguém na alfândega da Califórnia lhe pergunte: "So your name is Chia-hao, not Kevin?".
 
-Kolas Yotaka (谷辣斯·尤達卡), em 2024, com base na nova lei do _Regulamento de Nomes_, tornou-se a primeira pessoa em Taiwan a ter o documento de identidade completamente sem caracteres chineses, contendo apenas o nome indígena[^1]. Em entrevista ao _China Times_, ela mencionou: "Yotaka é o nome japonês do meu pai", coruja-noturna, きよたか (Kiyotaka), o som registrado no registro familiar durante o período de imperialização[^2]. Uma linha vai do nome japonês do pai ao seu nome indígena; no meio, toda uma história de taiwaneses tendo seus nomes escritos por outros. Quando ela pensou que seu nome finalmente voltara para casa, talvez visse na esquina outra turma de crianças de 5 anos acabando de receber Olivia, Aiden, Mason do professor. O ato de designar nomes nunca foi abolido; apenas trocou quem dá os nomes.
+Kolas Yotaka tornou-se, em 2024, a primeira pessoa em Taiwan cujo cartão de identidade foi totalmente desprovido de caracteres chineses, restando apenas o nome de seu povo, de acordo com a nova lei da 《Lei de Nomes》[^1]. Em entrevista ao _China Times_, ela mencionou um detalhe: "Yotaka é o nome japonês do meu pai", que significa "noite" (夜鷹), Kiyotaka, o som registrado no registro civil durante o período de Kōminka[^2]. Uma linha conecta o nome japonês do pai ao nome do seu povo, e entre eles reside toda uma história de taiwaneses tendo seus nomes escritos por outros. Quando ela pensa que seu próprio nome finalmente "voltou para casa", pode imaginar ver outro grupo de crianças de 5 anos em uma sala de inglês na esquina, acabando de receber Olivia, Aiden ou Mason de seus professores. O ato de designar nomes nunca foi abolido; apenas mudou quem os distribui.
 
-## "Mary, John, Ah-Tao": os 30 segundos do professor olhando a lista
+## 「Mary, John e A-Tao»: Os 30 segundos em que o professor olha para a lista
 
-Quase todo taiwanês nascido nos anos 80 e 90 presenciou essa cena.
+Quase todos os taiwaneses nascidos nas décadas de 80 e 90 já viram essa cena.
 
-Primeiro dia de aula, o professor de inglês diante do pódio olha a lista de chamada, desliza o olhar de um nome para o outro (Zhang San, Li Si, Ah-Tao, Ah-Hsun), depois ergue a cabeça e anuncia o nome em inglês de cada um. Ninguém levanta a mão para perguntar, ninguém diz "eu já tenho um". Chris Wang, em um ensaio de 2017 no Medium, descreveu esse momento: "Seus nomes em inglês provavelmente surgiram porque todos na sala precisavam ter um, então o professor **improvisou** nomeando 'Zhang San vira John, Li Si vira Tom, Ah-Tao vira Mary', e alguns realmente usaram esse nome a vida toda."[^3]
+No primeiro dia de aula, o professor de inglês fica diante da mesa olhando para a lista de chamada, deslizando o olhar de um nome para o outro (Zhang San, Li Si, A-Tao, A-Xun) e, em seguida, levanta a cabeça para anunciar o nome em inglês de cada aluno. Ninguém levanta a mão para perguntar, ninguém diz "eu já tenho um". Chris Wang escreveu sobre esse momento em um ensaio no Medium em 2017: "Os nomes em inglês deles provavelmente surgiram porque todos precisavam de um nome na aula, então o professor de inglês os nomeava **de improviso**, da forma 'Zhang San chama John, Li Si chama Tom, A-Tao chama Mary', e algumas pessoas acabaram usando esse nome pelo resto da vida". [^3]
 
-Nem todos recebem Mary.
+Nem todo mundo recebeu um "Mary".
 
-No fórum PTT StupidClown, há um relato de 2019; o autor kriss entrou na Sesame Street English na 4ª série. Ele escreveu: "Quando o professor de inglês olhou a lista para dar nomes aos alunos, **a mão tremeu, hesitou por 30 segundos**, e me chamou de Romeo. O motivo: eu pesava 74 kg na época"[^4]. Romeo o acompanhou por todo o ensino fundamental. Depois, no ensino médio, ele mesmo mudou para Kriss.
+No fórum PTT, o usuário StupidClown postou em 2019 um texto de memórias onde o autor, kriss, foi matriculado no Sesame Street English no quarto ano do ensino fundamental. Ele escreveu que, quando o professor de inglês olhou para a lista para dar nomes aos alunos, "**sua mão tremeu levemente e, após uma pausa de 30 segundos**", chamou-o de Romeo. O motivo era que, naquela época, ele pesava 74 kg [^4]. Romeo o acompanhou durante todo o ensino fundamental. Mais tarde, no ensino médio, ele mesmo mudou seu nome para Kriss.
 
-> 📝 **Nota do curador**
-> Esses 30 segundos são o momento em que o direito de nomear é cedido pela primeira vez. O professor não hesita _se_ deve nomear, mas _qual_ nome dar, enquanto 30 pares de olhos na sala concordam: nomeie. Desde o dia em que os pais matriculam a criança na escola de inglês, a posse do ato de nomear já mudou de mãos. No "improvisou" de Chris Wang, o caractere "improviso" (即) esconde uma pergunta não feita: quem permitiu que ele nomeasse assim? A resposta: todos permitiram, inclusive a própria criança.
+> 📝 **Nota do Curador**
+> Aqueles 30 segundos foram o momento em que o direito de nomear foi cedido pela primeira vez. O professor não estava hesitando se deveria dar um nome ou não, mas sim qual escolher, e os 30 pares de olhos da sala concordaram: "pode dar". Desde o dia em que os pais matriculam a criança em uma turma de inglês infantil, a propriedade do ato de nomear já foi transferida. No "improviso" mencionado por Chris Wang, há uma pergunta que não foi feita: quem permitiu que ele nomeasse dessa forma? A resposta é que todos permitiram, inclusive a própria criança.
 
-O artigo acadêmico mais completo sobre as práticas de nomeação em inglês de jovens taiwaneses é o de Barešová e Pikhart, 2020, publicado na _MDPI Social Sciences_, "Going by an English Name", com amostra de 76 jovens taiwaneses de 18 a 41 anos (61 mulheres, 15 homens)[^5]. O artigo é direto: "**the majority received their first English name from their first teacher of English at an educational institution**", a maioria dos entrevistados recebeu o primeiro nome em inglês do primeiro professor de inglês em instituição educacional[^5]. O artigo também registra um detalhe etário: menores de 30 anos receberam o nome majoritariamente entre 8 e 11 anos; acima de 31, entre 12 e 13. As escolas de inglês infantil empurraram o limiar de "receber nome em inglês" geração após geração para idades mais precoces.
+O estudo acadêmico mais completo sobre as práticas de escolha de nomes em inglês entre jovens taiwaneses é o artigo 〈Going by an English Name〉, publicado pelos estudiosos Barešová e Pikhart em 2020 na revista 《MDPI Social Sciences》, com uma amostra de 76 jovens taiwaneses entre 18 e 41 anos (61 mulheres e 15 homens) [^5]. O artigo é muito direto: "**the majority received their first English name from their first teacher of English at an educational institution**", ou seja, a maioria dos entrevistados recebeu seu primeiro nome em inglês de seu primeiro professor de inglês em uma instituição de ensino [^5]. O estudo também registra um detalhe por faixa etária: a maioria dos entrevistados com menos de 30 anos recebeu o nome entre os 8 e 11 anos; já os acima de 31 anos, a maioria recebeu entre os 12 e 13 anos. As escolas de inglês infantil estão empurrando o marco de "receber um nome em inglês" cada vez mais cedo para as novas gerações.
 
-## NO CHINESE, ENGLISH PLEASE: quatro cadeias de escolas de idiomas explodem em três anos
+## NO CHINESE, ENGLISH PLEASE: As quatro redes de inglês infantil que surgiram em três anos
 
-A cena do professor olhando a lista tem por trás quatro escolas de idiomas que ergueram a infraestrutura.
+A cena do professor analisando a lista de nomes tem, nos bastidores, o suporte estrutural de quatro grandes centros de reforço escolar.
 
 ```tw-timeline
-1983 | Início da Hess Educational | Karen Hess e o casal Zhu Chia-tsung (Joseph Chu) fundam em Taipé, foco em ambiente totalmente em inglês
-1986 | Kid Castle + Giraffe English surgem no mesmo ano | Kid Castle em Taipé, Giraffe English em Zhongli, cada uma abre a primeira unidade
-1987 | Sesame Street English entra | Marca licenciada dos EUA, proclama "NO CHINESE, ENGLISH PLEASE"
-1999 | Inglês obrigatório no ensino fundamental | Ministério da Educação implementa currículo de 9 anos, nome em inglês sai do ritual de escola de idiomas para registro escolar
+1983 | Fundação da He Jia-ren | Karen Hess e Joseph Chu fundam a escola em Taipé, focada em um ambiente totalmente em inglês
+1986 | Surgimento do Chevady's e Giraffe no mesmo ano | O Chevady's abre sua primeira unidade em Taipé e o Giraffe em Zhongli
+1987 | Entrada da Sesame Street English | Marca licenciada trazida dos EUA, com o slogan "NO CHINESE, ENGLISH PLEASE"
+1999 | Inglês torna-se obrigatório no ensino fundamental | Implementação do sistema de nove anos pelo Ministério da Educação; nomes em inglês deixam de ser apenas uma formalidade de cursinho para se tornarem registros escolares oficiais
+Fonte: Evolução das quatro marcas de inglês infantil citadas (He Jia-ren, Chevady's, Giraffe e Sesame Street) e dados sobre a política de ensino obrigatório de inglês no ensino fundamental em 1999[^6][^7][^8][^9]
 ```
 
-A Hess Educational formou-se em 1983, fundadores Karen Hess (a própria Hess) e Zhu Chia-tsung (Joseph Chu), casal[^6]. Em 1987, o grupo estendeu equipe de P&D com professores locais e estrangeiros; 1990 abriu a primeira livraria Hess. Kid Castle 1986, 1988 lançou seu primeiro material próprio _Chevady's World_[^7]. Giraffe English também 1986, 1987 abriu o primeiro "Centro de Ensino de Inglês para Crianças e Jovens", 1989 programa de inglês na TTV e CTV[^8]. Sesame Street English 1987 estabeleceu sede em Taiwan, marca licenciada, a reportagem da _CommonWealth Magazine_ 2025 registra o slogan da época: "**NO CHINESE, ENGLISH PLEASE**", acumulando 103 filiais e 500 mil alunos até 2025[^9].
+A He Jia-ren foi estabelecida em 1983 pelos fundadores Karen Hess (a própria He Jia-ren) e Joseph Chu[^6]. Em 1987, o grupo expandiu sua equipe de pesquisa e desenvolvimento com professores nativos e locais, e em 1990 abriu a primeira livraria He Jia-ren. O Chevady's foi fundado em 1986, lançando seu primeiro material didático próprio para crianças, 《Chevady's World》, em 1988[^7]. O Giraffe English também começou em 1986, abrindo seu primeiro "Centro de Ensino de Inglês para Crianças e Jovens" em 1987; seus programas de inglês foram exibidos nos canais TTV e CTS em 1989[^8]. A Sesame Street English estabeleceu sua sede em Taiwan em 1987 como uma marca licenciada. Uma entrevista de 2025 da revista _天下_ (Taipei Times/天下) registrou o slogan que a marca usava na época: "**NO CHINESE, ENGLISH PLEASE**"; até 2025, a rede acumulou 103 unidades e 500 mil alunos[^9].
 
-Um ponto frequentemente memorizado errado: Sesame Street English 1987 chega a Taiwan, não significa que o Sesame Workshop desenhou os materiais. A linha global Sesame English ESL do Sesame Workshop só saiu em 1999; Taiwan 1987–1999 rodou marca licenciada mais equipe local escrevendo materiais[^10]. "Big Bird me ensinou inglês na infância" é memória verdadeira; "sede americana em 1987 já desenhava seus materiais" é memória fabricada depois.
+Vale notar um ponto temporal frequentemente confundido: o fato de a Sesame Street English ter chegado a Taiwan em 1987 não significa que o material didático foi desenhado pessoalmente pela Sesame Workshop. A linha global de materiais ESL _Sesame English_ da Sesame Workshop só foi lançada em 1999. Entre 1987 e 1999, o que funcionava em Taiwan era uma combinação da marca licenciada com materiais elaborados por equipes locais[^10]. A memória de que "o Big Bird da minha infância me ensinou inglês" é real; a memória de que "a sede nos EUA já estava desenhando seu material em 1987" é um anacronismo.
 
 > ⚠️ **Erro comum**
-> "Cresci com materiais desenhados pela sede americana do Sesame Workshop" — nove em dez vezes não procede. 1987–1999, a Sesame Street English de Taiwan operou mecanismo híbrido: marca licenciada + materiais locais. A linha global Sesame English ESL do Sesame Workshop lançou o primeiro lote de materiais ESL em 1999; o pôster do Big Bird era real, o conteúdo didático não.
+> Dizer "eu cresci com materiais desenhados pela sede da Sesame Workshop nos EUA" é, em 90% dos casos, incorreto. Entre 1987 e 1999, a Sesame Street English em Taiwan operava sob um modelo híbrido de marca licenciada + material produzido localmente. A linha global _Sesame English_ ESL da Sesame Workshop só lançou seu primeiro lote de materiais ESL em 1999. Os pôsteres do Big Bird daquela época eram reais, mas o conteúdo didático não era o mesmo.
 
 ```tw-versus
-Quatro grandes cadeias 1983-1987 | História nacional de nomes no mesmo período
-Hess 1983 / Kid Castle 1986 / Giraffe 1986 / Sesame 1987 | Fim da lei marcial 1987 / Abertura para visita à China 1987 / Popularização do passaporte
-Quatro cadeias densamente fundadas em 3 anos | Estado acabara de abrir as portas para saída do país
-Sala de aula grita "ENGLISH PLEASE" | Órgão público ainda brigava sobre como romanizar o passaporte
+As quatro grandes redes de inglês infantil (1983-1987) | História da nomenclatura nacional no mesmo período
+He Jia-ren 1983 / Chevady's 1986 / Giraffe 1986 / Sesame Street 1987 | Fim da Lei Marcial 1987 / Visitas familiares à China continental 1987 / Popularização dos passaportes
+Quatro empresas fundadas intensamente em três anos | O país acabava de abrir as portas para o mundo
+Nas salas de aula gritavam "ENGLISH PLEASE" | Ainda se discutia o que escrever no campo do passaporte nos órgãos públicos
+Fonte: Cronologia de fundação das marcas de inglês infantil e registros históricos sobre o fim da Lei Marcial, visitas familiares e o sistema de romanização de passaportes[^6][^9][^21]
 ```
 
-A explosão das quatro cadeias em três anos coincide com 1987: fim da lei marcial, abertura para visita à China, popularização do passaporte. O Estado mal abrira as portas para sair; a sociedade civil já preparava para os filhos um nome "para usar lá fora". Esse movimento civil andou mais rápido que o órgão público; na época, o padrão oficial de "como o nome chinês vira letras romanas no passaporte" ainda levaria 15 anos para assentar.
+O surgimento explosivo dessas quatro redes de inglês infantil em apenas três anos ocorreu no mesmo período do fim da Lei Marcial em 1987, da permissão para visitas familiares à China continental e da popularização dos passaportes. Assim que o país começou a abrir suas fronteiras para o exterior, a sociedade civil começou a preparar nomes para seus filhos que pudessem ser "usados lá fora". Esse movimento social foi mais rápido que o setor público; na época, o padrão oficial sobre "como transformar nomes chineses em caracteres romanos" no campo do passaporte levaria mais 15 anos de debates para ser finalmente definido.
 
-## Personagens dos livros didáticos como SSOT: Peter e Mary no Longman
+## A lista de nomes nos materiais didáticos como SSOT: Peter e Mary nos livros da Longman
 
-Se o nome em inglês de toda uma geração vem do professor, de onde vem o nome do professor?
+Se os nomes em inglês de uma geração inteira vieram dos professores, de onde vieram os nomes dos professores?
 
-A resposta não é nenhum _Grande Livro de Nomes em Inglês_. Quem pesquisa descobre que 1988 não tinha esse livro com ISBN nomeado; o mais próximo é _Dicionário de Nomes em Inglês_ de 1992[^11]. O verdadeiro SSOT (_Single Source of Truth_) são os personagens do material didático.
+A resposta não é nenhum livro intitulado 《Dicionário de Nomes Ingleses》. Quem pesquisar sobre este tema descobrirá que, em 1988, não existia um livro com esse nome e um ISBN registrado; o mais próximo seria o 《Guia de Nomes Ingleses》 publicado em 1992 [^11]. A verdadeira SSOT (Fonte Única de Verdade) da nomeação são os personagens nos materiais didáticos.
 
-No fórum hongconguês baby-kingdom, um pai recorda os livros de inglês da infância: "**Personagens do livro Longman: Tom, Mary, Peter, Betty**"[^12]. No Plurk de Taiwan, mesma pista: "Sou Peter/Mary, Tom/Sally"[^13]. A mesma coleção Longman varreu o mercado de inglês infantil de Hong Kong e Taiwan nos anos 80 e 90, implantando os mesmos quatro ou cinco nomes (Peter, Mary, Tom, Sally, Betty) na memória de duas gerações. Se o professor folheava o livro ou não é irrelevante; a lista na cabeça do professor já vinha do livro didático.
+No fórum baby-kingdom de Hong Kong, um pai relembrou os livros de inglês que usava na infância: 「**Os personagens nos livros de inglês da Longman: Tom, Mary, Peter, Betty**」[^12]. No Plurk de Taiwan, há uma pista semelhante: 「Eu sou do grupo Peter/Mary e Tom/Sally」[^13]. O mesmo conjunto de materiais didáticos de inglês da Longman dominou o mercado de cursos de inglês para crianças em Hong Kong e Taiwan nas décadas de 1980 e 1990, implantando os mesmos quatro ou cinco nomes (Peter, Mary, Tom, Sally, Betty) na memória de duas gerações. O ponto central não é se os professores consultavam livros; a lista em suas mentes já havia sido fornecida pelos livros didáticos.
 
-O artigo de Barešová e Pikhart tem um detalhe que merece releitura: dos 76 jovens taiwaneses pesquisados, nomes incluem Angela, Elena, Claire, Cindy, Michelle, Tina, Eason, Jack, James, Jessica, Nicole, Grace, Heidi, dos quais **70.6% estão no top 1000 tradicional da SSA (Administração de Segurança Social dos EUA)**[^5]. Ou seja, a lista _default_ de escolas de idiomas e livros didáticos era simplesmente empacotar os nomes mais comuns de bebês americanos e entregar às salas de aula de Taiwan. A Mary que a criança taiwanesa recebe é a Mary nº 1 de recém-nascidos americanos nos anos 50.
+Há um detalhe no artigo de Barešová e Pikhart que merece uma segunda leitura: o estudo registrou que, entre os 76 jovens taiwaneses pesquisados, os nomes incluíam Angela, Elena, Claire, Cindy, Michelle, Tina, Eason, Jack, James, Jessica, Nicole, Grace, Heidi, sendo que **70,6% eram nomes tradicionais do top 1000 da SSA (Administração de Segurança Social dos EUA)**[^5]. Em outras palavras, a lista padrão das escolas de reforço e dos livros didáticos era, na verdade, um pacote dos nomes mais comuns para bebês nos Estados Unidos enviado diretamente para as salas de aula em Taiwan. A "Mary" que uma criança taiwanesa recebia era a Mary que foi o nome número um para recém-nascidos nos EUA na década de 1950.
 
 ```tw-figure
 70,6%
-Nomes em inglês de jovens taiwaneses caem no top 1000 tradicional da SSA
+Nomes em inglês de jovens taiwaneses pertencem ao top 1000 de nomes tradicionais da SSA
 Barešová & Pikhart 2020 N=76
 ```
 
-Esse 70,6% é evidência de um mapa de poder. As escolas de inglês infantil de Taiwan não geraram sua própria lógica de nomeação; herdaram o rabo da lógica de nomeação da classe média americana. Na época, o professor tinha na cabeça um _reference_ muito concreto do "como deve ser um nome em inglês": o que o livro didático escrevia, o que a turma anterior usava, o que o próprio professor ouvira quando aluno. Onde essa linha começa não tem solução, porque ela sempre se autoduplica.
+Este valor de 70,6% é a evidência de um território. As aulas de inglês para crianças em Taiwan não desenvolveram sua própria lógica de nomeação; elas herdaram a lógica de nomeação das famílias de classe média americana. Naquela época, os professores tinham uma referência muito específica na mente sobre "como deveria ser um nome em inglês": o que estava escrito nos livros didáticos, o que os alunos veteranos usavam e o que seus próprios professores ensinaram quando eles eram estudantes. É impossível determinar onde essa linha começou, pois ela está em constante autorreplicação.
 
-> 💡 **Você sabia**
-> A Longman nasceu em 1724 no pátio da Catedral de São Paulo em Londres; já se aproxima de 300 anos. Tom e Mary são acúmulo da indústria editorial de língua do Império Britânico desde o século 18, empacotados no fim do século 20 num kit padronizado de ensino de inglês para crianças, vendidos ao mundo sinófono. Toda a geração nomeada de Hong Kong e Taiwan, na verdade, foi nomeada por uma editora britânica.
+> 💡 **Você sabia?**
+> A marca editorial Longman teve origem em 1724, nos arredores da Catedral de São Paulo, em Londres, no Reino Unido, e já dura quase 300 anos. Tom e Mary são o padrão (_default_) dos livros didáticos de inglês vendidos para todo o mundo de língua chinesa — um legado que a indústria editorial de língua inglesa do Império Britânico começou a acumular no século XVIII e que, no final do século XX, foi encapsulado em pacotes padronizados de ensino de inglês para crianças. Toda uma geração nomeada em Hong Kong e Taiwan foi, na verdade, nomeada por uma editora britânica.
 
-## O passaporte não escreve Kevin Lin: como três sistemas de romanização repartem um papel
+## O Kevin Lin que não cabe no passaporte: como os três sistemas de romanização dividem um único documento
 
-A história da nomeação na sala de aula é civil; a do campo do passaporte é do Estado.
+A história da nomeação nas salas de aula do Sesame Street English é uma história popular; a história dos nomes nos campos do passaporte é uma história de Estado.
 
-Abra o Art. 14, §2 do Regulamento de Execução da Lei de Passaportes: "Requerente que solicita passaporte pela primeira vez, sem nome em língua estrangeira, usa a pronúncia da **língua nacional** do nome chinês, caractere por caractere, transliterada para letras latinas"[^14]. Atenção à palavra-chave "língua nacional", não "nome em inglês". O desenho legal desde o início bloqueou a combinação "nome em inglês + sobrenome chinês romanizado" tipo Kevin Lin de ir direto ao passaporte. O campo formal de nome no passaporte exige a romanização do nome chinês, não outro nome em inglês adotado.
+Ao abrir o Artigo 14, item 2, dos Regulamentos de Implementação da Lei de Passaportes, o texto legal em chinês é muito claro: "Quando um requerente solicita um passaporte pela primeira vez e não possui um nome estrangeiro, a transliteração para caracteres latinos será feita palavra por palavra com base na pronúncia do **idioma nacional** do nome em chinês" [^14]. Note a palavra-chave "idioma nacional", e não "nome em inglês". O desenho da lei, desde o início, bloqueou combinações como a de "Kevin Lin" (nome em inglês + sobrenome em pinyin) de serem impressas diretamente no passaporte. O campo de nome oficial do passaporte exige a transliteração romana do nome chinês, não um nome estrangeiro escolhido à parte.
 
-Além da pronúncia, como soletrar tem segunda camada de escolha. O Ministério das Relações Exteriores fornece tabela com quatro sistemas de romanização paralelos: Wade-Giles, MPS II, Tongyong Pinyin, Hanyu Pinyin, livre escolha do cidadão[^15]. "Livre escolha" foram as quatro palavras que o Ministério usou em 2016 respondendo à carta ao _Liberty Times_ "Peço ao Ministério que não nos torne 'chineses'". A carta criticava o Ministério por colocar Hanyu Pinyin no topo da tabela; o Ministério respondeu: "**A ordenação não tem significado especial**"[^16]. Mas a cada troca de governo, a ordenação dessa tabela é reexaminada.
+Além da pronúncia, há uma segunda camada de escolha sobre como soletrar. A tabela de correspondência de romanização fornecida pelo Ministério das Relações Exteriores lista quatro sistemas de romanização coexistentes: Wade-Giles, o segundo estilo do Zhuyin para o Mandarim, Tongyong Pinyin e Hanyu Pinyin, permitindo que o cidadão escolha livremente [^15]. As palavras "escolha livre" foram o termo utilizado pelo Ministério das Relações Exteriores em 2016 ao responder a uma carta enviada ao _Liberty Times_ intitulada 〈Peça ao Ministério das Relações Exteriores para não nos transformar em "cidadãos chineses"〉. A carta criticava o fato de o Ministério das Relações Exteriores colocar o Hanyu Pinyin no topo da tabela de correspondência; a resposta do Ministério foi que a "**ordem não possui um significado especial**" [^16]. No entanto, cada vez que o governo muda, a ordem desta tabela é revisada.
 
 ```tw-timeline
-Três governos, três metamorfoses de romanização
-22/8/2002 | Governo Chen Shui-bian: Tongyong Pinyin | Yuan Executivo aprova como padrão de transliteração de toponímios e antroponímios
-1/1/2009 | Governo Ma Ying-jeou: Hanyu Pinyin | 16/9/2008 Yuan aprova, 18/12/2008 Ministério da Educação emenda portaria
-9/8/2019 | Governo Tsai Ing-wen: Língua nacional | Ordem Exterior-Liderança nº 1086603416, romanização de minnan/hakka/indígenas equiparada à "língua nacional"
-Fonte: Yuan Executivo, Ministério da Educação, Ministério das Relações Exteriores
+Três governos, três transformações de romanização
+22/08/2002 | Governo Chen Shui-bian: Tongyong Pinyin | Registrado pelo Executivo como padrão para nomes de lugares e pessoas
+01/01/2009 | Governo Ma Ying-jeou: Hanyu Pinyin | Aprovado pelo Executivo em 16/09/2008, ordem de correção do Ministério da Educação em 18/12/2008
+09/08/2019 | Governo Tsai Ing-wen: Idiomas Nacionais | Decreto Ministerial nº 1086603416, equiparando a romanização do Hokkien/Hakka/Línguas Indígenas
+Fonte: Diários Oficiais do Executivo, Ministério da Educação e Ministério das Relações Exteriores
 ```
 
-Governo Chen Shui-bian 22/8/2002 envia Tongyong Pinyin ao Yuan Executivo como padrão de transliteração de toponímios e antroponímios[^17]. Governo Ma Ying-jeou 16/9/2008 anuncia adoção de Hanyu Pinyin, vigente 1/1/2009[^18]. Governo Tsai Ing-wen 9/8/2019, via Ordem Exterior-Liderança nº 1086603416, muda o Art. 14 §2 de "pronúncia da língua nacional" para "**pronúncia de língua nacional**", equiparando minnan, hakka e línguas indígenas à romanização da "língua nacional"[^19]. Três emendas, três símbolos políticos empilhados no mesmo passaporte.
+Em 22 de agosto de 2002, o governo Chen Shui-bian submeteu o Tongyong Pinyin para registro pelo Executivo, estabelecendo-o como o padrão de transliteração para nomes de lugares e pessoas [^17]. O governo Ma Ying-jeou anunciou a adoção do Hanyu Pinyin em 16 de setembro de 2008, que entrou em vigor em 1º de janeiro de 2009 [^18]. Em 9 de agosto de 2019, o governo Tsai Ing-wen, por meio do Decreto Ministerial nº 1086603416, alterou a "pronúncia do Mandarim" no Artigo 14, item 2, para "**pronúncia dos idiomas nacionais**", fazendo com que a romanização das línguas Hokkien, Hakka e indígena passasse a ter o mesmo status da pronúncia do "Mandarim" [^19]. Três ondas de reformas legais, três símbolos políticos sobrepostos no mesmo passaporte.
 
-Não só o governo troca; a família interna também desencontra. Art. 14 §5 alínea 2 prevê motivo de alteração: "Nome estrangeiro transliterado com sobrenome de **parente consanguíneo direto ou irmãos com soletração diferente**" pode solicitar alteração[^20]. A existência desse artigo já admite fenômeno estrutural: numa mesma casa, como pais e filhos obtiveram passaporte sob padrões de romanização de diferentes governos, o sobrenome pode ter três versões (um Chen, um Chern, um Chern — Wade-Giles, MPS II, Hanyu Pinyin soletra "陳" de três jeitos; a diferença está nessa camada). O artigo abre uma porta dos fundos para esse desencontro.
+Não apenas os governos mudam; as discrepâncias também ocorrem dentro das famílias. O Artigo 14, item 5, subitem 2, especifica um motivo especial para alteração: pode-se solicitar a mudança quando "a grafia do sobrenome estrangeiro transliterado for **diferente da grafia do sobrenome de parentes de primeiro grau ou irmãos**" [^20]. A existência deste artigo reconhece um fenômeno estrutural: dentro de uma mesma família, como pais e filhos podem ter obtido seus passaportes sob padrões de romanização de diferentes regimes políticos, o sobrenome pode ser escrito de três formas (um Chen, um Chern, um Chern — ao usar os sistemas Wade-Giles, Zhuyin Tipo 2 e Hanyu Pinyin para o sobrenome 「陳」, a diferença reside nesses detalhes). A lei abre uma porta lateral para esse desalinhamento.
 
-> 📊 **Como três sistemas soletra o mesmo sobrenome**
+> 📊 **Como os três sistemas de romanização soletram o mesmo sobrenome**
 >
-> | Sobrenome | Wade-Giles | Tongyong | Hanyu |
-> | --------- | ---------- | -------- | ----- |
-> | 陳        | Chen       | Chen     | Chen  |
-> | 蔡        | Tsai       | Cai      | Cai   |
-> | 周        | Chou       | Jhou     | Zhou  |
-> | 邱        | Chiu       | Ciou     | Qiu   |
-> | 謝        | Hsieh      | Sie      | Xie   |
+> | Sobrenome  | Wade-Giles | Tongyong Pinyin | Hanyu Pinyin |
+> | ---------- | ---------- | --------------- | ------------ |
+> | 陳 (Chen)  | Chen       | Chen            | Chen         |
+> | 蔡 (Tsai)  | Tsai       | Cai             | Cai          |
+> | 周 (Chou)  | Chou       | Jhou            | Zhou         |
+> | 邱 (Chiu)  | Chiu       | Ciou            | Qiu          |
+> | 謝 (Hsieh) | Hsieh      | Sie             | Xie          |
 >
-> O mesmo sobrenome sob diferentes sistemas designados pelo governo soletra letras radicalmente diferentes. Quatro gerações numa casa: avós Wade-Giles, pais Tongyong, você Hanyu, ninguém errou, só o regime trocou três vezes.
+> O mesmo sobrenome resulta em grafias completamente diferentes sob os sistemas designados por governos distintos. Em uma família de quatro gerações, é possível que os avós usem Wade-Giles, os pais o Tongyong e o próprio filho o Hanyu Pinyin; ninguém escreveu errado, apenas o regime mudou três vezes.
 
-A _Taiwan Panorama_ já compilou cenas de rua: "Nos dois lados da Rua Guangfu Sul, os dois caracteres 'Guangfu', um lado transliterado Kwangfu, outro Guangfu"; "Zhongxiao East Rd. Sec. 4 translitera Zhongxiao como Chunghsiao, chega na Sec. 5 vira ZhongSiao"[^21]. Placas de rua não combinam; quanto mais uma família.
+A revista _Taiwan Guanghua_ já relatou cenas comuns nas ruas: "Nas placas de sinalização dos dois lados da estrada Guangfu South Road, as duas palavras 『光復』 são traduzidas como 'Kwangfu' de um lado e 'Guangfu' do outro" ou "a tradução para o inglês da Zhongxiao East Road, Seção 4, é Chunghsiao, mas ao chegar na Seção 5, muda para ZhongXiao" [^21]. Se nem as placas de rua coincidem, imagine uma família inteira.
 
-## "So your name is Chia-hao, not Kevin?": o balanço de identidade na vida adulta
+## 「Então o seu nome é Chia-hao, não Kevin?」: O extrato de identidade na vida adulta
 
-O nome em inglês da infância tem um problema de identidade: como você se chama. O nome em inglês da vida adulta tem cinco: o que o passaporte escreve, qual a conta do Outlook da empresa, qual o perfil do LinkedIn, qual o cartão de embarque, qual o nome no copo da Starbucks.
+Na infância, ter um nome em inglês envolve apenas uma questão de identidade: como você se chama. Na vida adulta, ter um nome em inglês envolve cinco questões de identidade: o que está escrito no passaporte, qual é o seu e-mail no Outlook da empresa, qual é a sua página pessoal no LinkedIn, qual aparece no cartão de embarque do voo e qual está escrito no copo de papel do Starbucks.
 
-O site de conhecimento sobre romanização de passaporte aithley.com compilou um caso concreto:
+O site especializado em romanização de passaportes aithley.com organizou um caso muito específico:
 
-> **✦** "Kevin usava esse nome em inglês há três anos. Perfil do LinkedIn é Kevin, cartão de visita da empresa imprime Kevin... até que uma vez, cliente americano conferiu identidade contra o passaporte... **So your name is Chia-hao, not Kevin?**"[^22]
+> **✦** 「Kevin escolheu este nome em inglês e o usa há três anos. Sua página pessoal no LinkedIn é Kevin, seu cartão de visitas da empresa diz Kevin... até que, certa vez, um cliente americano conferiu a identidade com o passaporte... **So your name is Chia-hao, not Kevin?**」[^22]
 
-Essa pergunta da alfândega/cliente é a experiência comum de todos os "Kevin sistema". Kevin três anos, cartão, Outlook, LinkedIn todos familiarizados, mas passaporte diz Chia-hao Lin. O processo KYC (_Know Your Customer_) no exterior exige conferir o passaporte; nesse momento, três anos de marca profissional e identidade legal se separam sobre a mesa.
+Esse interrogatório da alfândega ou de um cliente é uma experiência comum para todos os adultos do "sistema Kevin". Já se passaram três anos de Kevin; cartões de visita, Outlook e LinkedIn já são familiares, mas no passaporte está escrito Chia-hao Lin. Quando o processo de KYC (_Know Your Customer_) no exterior exige a conferência do passaporte, nesse instante, a marca profissional de três anos e a identidade legal se dividem sobre a mesa.
 
-Anne Chang no Medium escreveu do outro lado: ao ouvir "Anne", sente "**íntimo, cotidiano**"; ao ouvir seu nome romanizado, "**endireita a postura inconscientemente**", apresenta estado formal oficial[^23]. Uma mesma pessoa, chamada por dois nomes, aciona duas posturas corporais. Anne é da sala de aula e da cafeteria; romanizado é do governo e do banco.
+Anne Chang escreveu no Medium sob outra perspectiva: ao ouvir as pessoas chamá-la de Anne, ela sente uma sensação de 「**proximidade cotidiana**」; ao ouvir seu nome em romanização, ela 「**instintivamente corrige sua postura**」, assumindo um estado formal e oficial[^23]. A mesma pessoa, sendo chamada por dois nomes, ativa duas posturas corporais diferentes. Anne pertence à sala de aula e à cafeteria; a romanização pertence ao governo e aos bancos.
 
-A camada do trabalho já se institucionalizou. No fórum Dcard tech_job, há post de funcionário da TSMC podendo alterar nome em inglês no sistema RH[^24]. Aproximando a lente, no PTT Tech_Jobe há artigo de 2014: por homônimos demais na empresa, ele virou "YC13_chen", 13º funcionário chamado YC_chen[^25]. Um nome em inglês afinal vira uma string de número. Reportagem Buzzorange 2015: prof. Huang Ying-mei da Tunghai University explica que nome em inglês "**aproxima a distância entre as pessoas, livra da hierarquia de cargo**"; gerente de RH da 104, Chung Wen-hsiung, diz que nome em inglês é "**relativamente fácil de 'marcar', facilita 'buscar histórico de conversas'**"[^26]. Uma é explicação cultural (desautoritarismo), outra explicação de engenharia (banco de dados bom de buscar); as duas juntas completam o quadro.
+O ambiente de trabalho também já se institucionalizou. Há uma postagem no fórum Dcard tech_job que registra que os funcionários da TSMC podem alterar seus nomes em inglês através do sistema de RH[^24]. Olhando mais de perto, um artigo de 2014 no fórum PTT Tech_Job relata que, devido ao excesso de homônimos na empresa, o autor foi registrado como "YC13_chen", sendo o 13º funcionário da empresa com o nome YC_chen[^25]. Um nome em inglês acaba se tornando uma sequência de códigos. Em uma reportagem da Buzzorange de 2015, a professora associada da Universidade Tunghai, Huang Ying-mei, explicou que nomes em inglês podem "**diminuir a distância entre as pessoas e afastar a hierarquia de cargos**"; já a explicação de Chung Wen-hsiung, diretor de RH da 104, é que nomes em inglês são "**relativamente fáceis de 'marcar' e facilitam a 'busca no histórico de conversas'**"[^26]. Um oferece uma explicação cultural (desconstrução do autoritarismo) e o outro uma explicação técnica (facilidade de busca em bancos de dados); ambos juntos completam o quadro.
 
-> 📝 **Nota do curador**
-> O nome em inglês da infância é designado; o nome romanizado da vida adulta é travado por lei. No meio, um intervalo em que você achou que tinha direito de nomear: achou que escolheu Kevin, achou que escolheu LinkedIn como Kevin, mas na verdade aquela linha do passaporte, desde o nascimento, já decidia o que a alfândega ia perguntar na vida adulta. O ato de nomear nunca voltou de verdade para sua mão; só trocou quem faz a pergunta.
+> 📝 **Nota do Curador**
+> O nome em inglês da infância é imposto; o nome romanizado da vida adulta é travado pela lei. Entre eles, há um período em que você acredita ter o direito de nomear: você acha que escolheu "Kevin" e que escolheu o nome "Kevin" para sua conta no LinkedIn, mas, na realidade, aquela linha no seu passaporte decide, desde o ano do seu nascimento, o que a alfândega lhe perguntará quando você for adulto. O ato de nomear nunca retornou verdadeiramente às suas mãos; ele apenas mudou quem faz a pergunta.
 
-## Adicionar alias ao passaporte, custa NT$ 1.300 a menos que mudar o nome
+## Adicionar um apelido estrangeiro ao passaporte é mais barato que mudar de nome: NT$1.300
 
-Quando Kevin e Chia-hao não batem no passaporte, a primeira solução que vem à cabeça é "muda o passaporte". Na prática, esse caminho não anda; mas existe um atalho mais barato.
+Quando o nome "Kevin" e o nome "Chia-hao" não coincidem no passaporte, a primeira solução que vem à mente da maioria das pessoas é "mudar o passaporte". Na prática, essa solução não funciona, mas existe um caminho alternativo mais barato.
 
-Art. 14 §5 alínea 1 do Regulamento de Execução é duro: "Nome estrangeiro transliterado não condiz com pronúncia da língua nacional do nome chinês. **Alteração por este motivo, uma vez apenas**"[^27]. Ou seja, você tem na vida uma chance de mudar o nome estrangeiro do passaporte por "romanização errada"; acabou, não há segunda.
+O Artigo 14, item 5, subitem 1, do Regulamento de Implementação da Lei de Passaportes é muito rígido: "Quando a transliteração do nome estrangeiro não coincidir com a pronúncia na língua nacional do nome em chinês. **As alterações baseadas neste motivo são limitadas a uma única vez**" [^27]. Ou seja, você só pode mudar o nome estrangeiro no passaporte uma vez na vida usando a justificativa de "transliteração incorreta"; após isso, não haverá uma segunda chance.
 
-Mas o mesmo regulamento, Art. 14-1, abre outra janela: alias em língua estrangeira (_Foreign Alias_). Regra: "Após alteração, nome estrangeiro original deve constar como alias, mas na próxima reemissão pode omitir"; "Se já tem segundo alias, na próxima reemissão escolhe um, **não pode adicionar segundo alias**"[^28]. Na prática, você mantém o nome formal do passaporte LIN, CHIA-HAO, e adiciona "Kevin Lin" como alias, os dois impressos na mesma página. Taxa NT$ 1.300, normal 10 dias úteis, urgente 3 dias[^28].
+No entanto, o Artigo 14-1 do mesmo regulamento abre outra janela: o apelido estrangeiro (_Foreign Alias_). A regra estabelece que "após a alteração, o nome estrangeiro original deve ser listado como um apelido, mas poderá ser omitido na próxima renovação ou reemissão de passaporte" e "se já houver um segundo apelido estrangeiro, deverá ser escolhido um para registro na próxima renovação, **não sendo permitido adicionar um segundo apelido estrangeiro**" [^28]. Na prática, você pode manter o nome oficial no passaporte como LIN, CHIA-HAO e, ao mesmo tempo, adicionar "Kevin Lin" como um apelido estrangeiro, com ambos impressos na mesma página. A taxa de solicitação é de NT$1.300, com prazo de 10 dias úteis para o processo normal ou 3 dias para o serviço de urgência [^28].
 
-O aithley.com fez avaliação direta desse caminho: "**A menos que o problema de romanização do passaporte cause real dificuldade profissional ou legal, o custo de trocar marca de 10 anos costuma superar o benefício**" "Mantenha o nome em inglês atual, e o registre como **alias em inglês do passaporte**, deixando os dois coexistirem"[^22]. Em vez de mudar um Kevin de 10 anos, adicione-o ao passaporte; a alfândega vê "LIN, CHIA-HAO (aka Kevin Lin)", três segundos, identidade alinhada.
+O site aithley.com fez uma avaliação direta de custos sobre este caminho: "**A menos que o problema da grafia no passaporte cause problemas profissionais ou jurídicos reais, o custo de mudar uma 'marca' de 10 anos geralmente supera os benefícios**" e sugere "manter o nome em inglês atual e, ao mesmo tempo, solicitá-lo como um **apelido estrangeiro no passaporte**, permitindo que ambos coexistam" [^22]. Em outras palavras, em vez de mudar o "Kevin" que você usa há 10 anos, é melhor adicioná-lo ao passaporte para que a alfândega veja "LIN, CHIA-HAO (aka Kevin Lin)", resolvendo a divergência de identidade em três segundos.
 
 ```tw-stat
-NT$ 1.300 | Adicionar alias em língua estrangeira | Uma solicitação, registra dois nomes
-NT$ 0 extra | Cota vitalícia de mudança de nome | Uma vez só, usada trava
-3 dias úteis | Retirada urgente | Normal 10 dias úteis
+NT$1.300 | Adicionar apelido estrangeiro | Solicitação única; permite dois nomes
+NT$0 extra | Cota de mudança de nome | Limitada a uma vez; após o uso, fica bloqueado
+3 dias úteis | Retirada urgente | 10 dias úteis no processo normal
+Fonte: Artigo 14-1 do Regulamento de Implementação da Lei de Passaportes (Apelido Estrangeiro) e avaliação de custos práticos [^22][^28]
 ```
 
-Mudar de nome, Taiwan demonstrou em 2021. Na promoção de restaurante de sushi, quem mudasse nome para "Salmão" comia grátis; 331 pessoas foram ao cartório, ficou conhecido como "caos do salmão"[^29]. A diretora do Departamento de Administração Civil do Ministério do Interior, Chang Wan-yi, respondeu com frase de ouro: "**Uma vez gasta a cota de mudança de nome, realmente 'salmão' (soa como 'cumprir o nome')**"[^30]. Segundo _Regulamento de Nomes_ Art. 9, cada pessoa pode mudar nome 3 vezes na vida. 4 anos depois, dos 331 "salmões", **80% já voltaram ao nome original, 20% ainda levam salmão no dia a dia**, registro de mudança fica para sempre no arquivo do cartório[^29].
+A sociedade taiwanesa deu uma demonstração sobre o assunto de mudar de nome em 2021. Naquele ano, uma promoção de um restaurante de sushi oferecia salmão gratuito para quem mudasse o nome para "Salmão" (_鮭魚_); 331 pessoas foram ao escritório de registro civil para mudar o nome, evento conhecido historicamente como o "Caos do Salmão" [^29]. A resposta de Chang Wan-yi, diretora do Departamento de Registro Civil do Ministério do Interior, tornou-se uma frase célebre: "**Uma vez que a cota de mudança de nome é esgotada, você realmente ficará 'preso ao salmão'**" [^30] (um trocadilho com "realidade difícil"). De acordo com o Artigo 9 da Lei de Nomes, cada pessoa pode mudar de nome três vezes na vida. Em um acompanhamento feito quatro anos depois, entre os 331 "salmões", **80% já haviam voltado ao nome original, enquanto 20% ainda viviam com o nome de salmão**, e o registro dos nomes alterados permanece para sempre nos arquivos do registro civil [^29].
 
-Nome estrangeiro do passaporte e nome chinês do documento de identidade são duas linhas independentes; a primeira "uma vez só", a segunda "três vezes". Mas as duas ensinam a mesma coisa: em Taiwan, nome escrito em documento oficial ganha peso; voltar atrás custa. Por isso o caminho mais barato, alias NT$ 1.300, é um compromisso do sistema. Ele diz "aquele Kevin da infância não precisa mudar, deixamos ele conviver com o nome romanizado na mesma página".
+O nome estrangeiro no passaporte e o nome em chinês no cartão de identidade são duas linhas independentes: a primeira é "limitada a uma vez" e a segunda é "limitada a três vezes". Mas ambas ensinam a mesma lição: em Taiwan, depois que um nome é registrado em documentos oficiais, ele ganha peso, e voltar atrás tem um custo. Portanto, esse caminho mais barato — adicionar um apelido por NT$1.300 — é, na verdade, uma concessão do sistema. Ele diz: "aquele 'Kevin' que lhe foi atribuído na infância não precisa ser mudado; nós permitiremos que ele coexista com o seu nome transliterado na mesma página".
 
-## O nome japonês do pai de Kolas: indígenas nomeados três vezes
+## O nome japonês do pai de Kolas: os povos indígenas foram nomeados três vezes
 
-Até aqui, a história da nomeação tem han (chineses han) como protagonistas. Mas Taiwan tem gente nomeada três vezes, e as três não são estrutura cultural branda; é o Estado agindo direto.
+Até agora, a história da nomenclatura escrita tratou principalmente de pessoas Han. Mas em Taiwan, algumas pessoas foram nomeadas três vezes, e essas três vezes não foram estruturas culturais suaves, mas sim ações diretas do Estado.
 
 ```tw-versus
-Sōshi-kaimei 1940-1945 | Hanificação do Governo Nacionalista 1946 | Nome em inglês de escola de idiomas 1980s em diante
-Agente: Império Japonês | Agente: Governo da República da China | Agente: Pais + professores de escola de idiomas
-Alvo: Todo Taiwan | Alvo: Todos (especialmente indígenas) | Alvo: Pré-escolar a fundamental
-Coerção: Permissão 2,06% mudaram | Coerção: Prazo 3 meses 100% | Coerção: Voluntário, escola de idiomas *default*
-Lugar do nome: Registro legal | Lugar do nome: Registro legal | Lugar do nome: Apelido de sala de aula para sempre
-Abolição: 15/12/1945 volta ao original | Abolição: 1995 em diante pode restaurar tradicional | Nunca abolido
+Sōshi Kaimei (Mudança de Sobrenome) 1940-1945 | Sinicização do Governo Nacional 1946 | Nomes em inglês em aulas de inglês para crianças desde a década de 1980
+Agente: Império do Japão | Agente: Governo da República da China (Taiwan) | Agente: Pais + Professores de cursos de reforço
+Alvo: Todo o Taiwan | Alvo: Todos (especialmente povos indígenas) | Alvo: Pré-escolar ao ensino primário
+Nível de obrigatoriedade: Sistema de permissão (2,06% alterados) | Nível de obrigatoriedade: Prazo de 3 meses (100%) | Nível de obrigatoriedade: Voluntário, padrão em aulas de inglês para crianças
+Localização do nome: Registro civil legal | Localização do nome: Registro civil legal | Localação do nome: Apelido eterno em sala de aula
+Revogação: Retorno ao original em 15/12/1945 | Revogação: Possibilidade de recuperar nomes tradicionais a partir de 1995 | Nunca revogado
+Fonte: Dados sobre o Sōshi Kaimei do Movimento de Kōminka, a "Medida para que o Povo da Província de Taiwan Recupere seus Nomes Originais" de 1946 e materiais históricos do movimento de correção de nomes dos povos indígenas citados neste artigo[^33][^34]
 ```
 
-11/2/1940 (ano 2600 do calendário imperial, dia auspicioso), Governo-Geral de Taiwan via Ordem nº 19 emenda _Regulamento de Registro Familiar_, inicia "Sōshi-kaimei". A _Wikipédia_ "Movimento de Imperialização" compila números: "Fim de 1941, cerca de 1% da população total de Taiwan mudou nome. 1940–1943, total de 126 mil pessoas. População 1943 ~6,13 milhões, mudaram ~**2,06%**"[^31]. Comparando com Coreia no mesmo período, o editor cultural do _Sankei Shimbun_, Kita Yoshihiro, compilou: "Coreia, **80%** 'Sōshi-kaimei'; Taiwan, **poucos %** 'mudança de nome'"[^32]. Taiwan 2%, Coreia 80%, diferença não está na vontade, no desenho institucional. Taiwan "permissão + análise de condições" (família de língua japonesa cotidiana + temperamento de súdito imperial); Coreia "declaração voluntária mas quem recusa excluído de racionamento, cargo público, prioridade em trabalho forçado"[^31].
+Em 11 de fevereiro de 1940 (um dia auspicioso no calendário solar do ano 2600 da era imperial), o Governo-Geral de Taiwan publicou a revisão das "Regras de Registro Populacional" através do Decreto nº 19, iniciando o "Sōshi Kaimei" (mudança de sobrenome para nomes japoneses). O verbete 〈Movimento de Kōminka〉 da Wikipédia organiza os números: "No final de 1941, cerca de 1% da população de Taiwan havia mudado de nome e sobrenome. De 1940 a 1943, o número de pessoas que alteraram seus nomes totalizou 126.000. Com a população total de Taiwan em 1943 sendo de aproximadamente 6,13 milhões, o número de pessoas que mudaram de nome representava cerca de **2,06%** do total"[^31]. Em comparação com os números da Coreia no mesmo período, a compilação de Yoshihiro Kita, comitê de edição do departamento cultural do jornal Nikkei do Japão, indica: "Coreia, **80%** de 'Sōshi Kaimei'; Taiwan, **alguns %** de 'mudança de nome'"[^32]. A diferença entre os 2% de Taiwan e os 80% da Coreia não estava na vontade, mas no desenho do sistema. Em Taiwan, era um "sistema de permissão + análise de condições" (exigindo famílias que usassem japonês e tivessem o espírito _kōmin_), enquanto na Coreia era uma "declaração voluntária, mas aqueles que recusassem eram excluídos da distribuição de alimentos, cargos públicos e prioridade em trabalhos forçados"[^31].
 
-1945 guerra acaba, 21/5/1946 Governo Nacionalista publica _Método Corrigido de Restauração de Nomes Originais da Província de Taiwan_, exige que todo Taiwan em 3 meses troque nome japonês de volta ao chinês[^33]. Para famílias do período japonês, só preenchimento de caracteres chineses; para indígenas, extinção linguística, porque seus nomes tradicionais não tinham caracteres chineses correspondentes. Instituto de Etnologia da Academia Sinica registra:
+Com o fim da guerra em 1945, em 21 de maio de 1946, o Governo Nacional promulgou a 《Medida para que o Povo da Província de Taiwan Recupere seus Nomes Originais》, exigindo que todos em Taiwan mudassem seus nomes japoneses do período colonial de volta para nomes chineses dentro de um prazo de 3 meses[^33]. Para as famílias que já usavam caracteres chineses durante o domínio japonês, isso foi apenas uma reescrita de caracteres; para os povos indígenas, foi um genocídio linguístico, pois seus nomes tradicionais não possuíam correspondentes em caracteres chineses. Registros de pesquisas do Instituto de Antropologia da Academia Sinica indicam:
 
-> **✦** "Sob pressão de concluir em 3 meses... cartórios usaram **dicionário de língua nacional e dicionários comuns, atribuindo nomes aleatoriamente a indígenas**... apareceu situação de atribuir o mesmo sobrenome a toda aldeia/comunidade, para facilitar registro."[^34]
+> **✦** "Sob a pressão de concluir o processo em 3 meses... os escritórios de registro civil passaram a **atribuir nomes aleatoriamente aos povos indígenas usando dicionários comuns, como o dicionário de mandarim**... surgindo situações em que todos os membros de uma aldeia ou comunidade recebiam o mesmo nome para facilitar o registro."[^34]
 
-Anos 50, surgem em massa novos sobrenomes indígenas "**高**" (montanha), "**潘**" (água + radical 'bárbaro'), "**湯**" (rio), "**楊**" (árvore alta), "**巫**" (deusa). Pessoas do mesmo clã, despachadas a cartórios diferentes, recebiam sobrenomes chineses diferentes, "**causando na sociedade indígena situação de mesmo clã e parentes com sobrenomes chineses diferentes**"[^34]. Consequência estende-se a casos de casamentos consanguíneos sem saber nas gerações seguintes[^34].
+A partir da década de 1950, muitos povos indígenas passaram a apresentar novos sobrenomes como "**Gao**" (referente aos povos das montanhas), "**Pan**" (radical de água com o caractere _fan_), "**Tang**" (imagem de rio), "**Yang**" (árvore alta) e "**Wu**" (deusa). Devido ao fato de membros do mesmo clã serem enviados a diferentes escritórios de registro civil, eles podiam receber sobrenomes chineses diferentes, "**levando à situação em que membros de um mesmo clã e familiares possuíam sobrenomes chineses distintos**"[^34]. As consequências estenderam-se até casos de casamentos entre parentes ocorridos sem o conhecimento das gerações posteriores[^34].
 
-Movimento de retificação de nomes inicia nos anos 80, avança a cada poucos anos:
+O movimento de correção de nomes foi iniciado na década de 1980, avançando um passo a cada poucos anos:
 
 ```tw-timeline
-1/8/1994 | Montanheses → Indígenas | Assembleia Nacional emenda Constituição 28/7, Lee Teng-hui promulga
-1995 | Pode restaurar nome tradicional (caracteres chineses) | Emenda ao Regulamento de Nomes
-2001 | Pode adicionar romanização | Caracteres chineses + romanização combinados
-2003 | Nome tradicional + sobrenome chinês ambos podem adicionar romanização | Terceira flexibilização
-14/5/2024 | Pode listar só nome indígena (puro romano) | Legislativo aprova em 3ª leitura emenda ao Regulamento de Nomes
+1994/8/1 | Yamaho (Indígenas Japoneses) → Povos Indígenas | Emenda constitucional aprovada pela Assembleia Nacional em 28/7, anunciada por Lee Teng-hui
+1995 | Possibilidade de recuperar nomes tradicionais (caracteres chineses) | Revisão da Lei de Nomes
+2001 | Possibilidade de usar romanização paralela | Uso conjunto de caracteres chineses + romanização
+2003 | Nomes tradicionais + sobrenomes chineses podem usar romanização | Terceira fase de flexibilização
+2024/5/14 | Possibilidade de listar apenas o nome do grupo étnico (apenas romanização) | Aprovação da revisão da 《Lei de Nomes》 pelo Legislativo em terceira leitura
+Fonte: Histórico de revisões da Lei de Nomes e reportagens sobre o movimento de correção de nomes dos povos indígenas[^1][^2][^35]
 ```
 
-14/5/2024 Legislativo aprova emenda ao _Regulamento de Nomes_, permite indígenas no documento de identidade listar só nome indígena (letras romanas puras), sem caracteres chineses[^35]. No mesmo ano, Kolas Yotaka (谷辣斯·尤達卡) pela nova lei torna-se **primeira pessoa em Taiwan com documento de identidade totalmente sem caracteres chineses**[^1]. Em 2018, em entrevista ao _China Times_, falou de seu nome: "**Yotaka é o nome japonês do meu pai**", coruja-noturna, きよたか[^2]. O nome indígena de uma filha Amis, Kolas Yotaka, carrega o som japonês que o pai teve registrado no registro familiar no período de imperialização. Três camadas de história da nomeação empilhadas no mesmo documento: nome japonês → nome hanificado → retificação.
+Em 14 de maio de 2024, a revisão da 《Lei de Nomes》 aprovada em terceira leitura pelo Legislativo permitiu que os povos indígenas listassem apenas o nome do seu grupo étnico (em romanização pura) no cartão de identidade, sem a necessidade de incluir caracteres chineses[^35]. No mesmo ano, Kolas Yotaka tornou-se a **primeira pessoa em Taiwan a ter um cartão de identidade completamente livre de caracteres chineses**[^1]. Em uma entrevista ao _China Times_ em 2018, ela mencionou seu nome: "**Yotaka é o nome japonês do meu pai**", que significa "coruja noturna" (夜鷹), _kiyotaka_[^2]. O nome de grupo étnico da filha do povo Amis, Kolas Yotaka, carrega o som japonês com o qual seu pai foi registrado no censo durante o período de Kōminka. Três camadas de história de nomenclatura sobrepõem-se no mesmo cartão de identidade: Nome do período colonial → Nome sinizado → Nome corrigido.
 
-> ⚠️ **Esta linha não se escreve com sinal de igual**
-> Criança han na escola de idiomas virar Mary, e indígena ter o Estado usando dicionário para atribuir sobrenome chinês aleatoriamente, **conexão estrutural pode escrever, sinal de igual proibido**. A primeira é estrutura cultural branda mais escolha dos pais na globalização (maioria dos pais matricula ativamente o filho na escola de idiomas); a segunda é violência de Estado, é prazo de 3 meses, é folhear dicionário à toa, é ruptura de clã de uma geração inteira. Ambas são "direito de nomear cedido", sem dúvida, mas o peso da cessão difere, o custo de voltar atrás difere. A tabela compara o traço estrutural "igualmente não pôde se nomear", não diz que as duas coisas se substituem.
+> ⚠️ **Esta linha não deve ser escrita como uma igualdade**
+> O fato de uma criança Han receber o nome "Mary" em um curso de reforço e o fato de um indígena ter recebido um sobrenome chinês aleatório via dicionário pelo Estado possuem uma **conexão estrutural, mas é proibido usar o sinal de igual**. O primeiro é uma estrutura cultural suave somada à escolha dos pais sob a globalização (a maioria dos pais escolhe ativamente matricular os filhos nessas aulas), enquanto o segundo é violência estatal: é um prazo de 3 meses, é a consulta aleatória a dicionários e é a ruptura de clãs de uma geração inteira. Ambos envolvem a "cessão do direito de nomear", mas o peso dessa cessão e o custo do retorno são completamente diferentes. A tabela comparativa lista a característica estrutural de que "não se pode nomear a si mesmo", não sugerindo que os dois eventos sejam intercambiáveis.
 
-## Do professor de escola de idiomas à lista top names da SSA
+## De professor de cursinho à lista dos nomes mais populares do SSA
 
-Voltemos aos anos 2010 nas escolas de idiomas.
+Voltando para as aulas de artes e educação infantil após a década de 2010.
 
-Nomes das crianças mudaram. Mary, John, Kevin, Peter ainda estão nos livros, mas já não são o que o novato de 5 anos recebe ao entrar. O popmama compilou escolhas novas dos pais taiwaneses nos anos 2010: meninas Chloe, Zoe, Olivia, Emma, Ava, Sophia, Isabella, Mia; meninos Aiden, Liam, Ethan, Noah, Mason, Jacob[^36]. Esses nomes não vêm do professor; vêm dos próprios pais.
+Os nomes das crianças na turma mudaram. Mary, John, Kevin e Peter ainda estão nos livros didáticos, mas já não são os nomes que um aluno novo de 5 anos recebe ao entrar na sala. O POPMAMA organizou as escolhas modernas dos pais taiwaneses após a década de 2010: para meninas, Chloe, Zoe, Olivia, Emma, Ava, Sophia, Isabella e Mia; para meninos, Aiden, Liam, Ethan, Noah, Mason e Jacob[^36]. Esses nomes não foram escolhidos por professores de cursinho, mas pelos próprios pais.
 
-A referência para escolher também mudou. Anos 80: professor de memória (livro didático dele, nomes da turma anterior). Anos 2010: pais deslizam o celular olhando _SSA top names list_ (estatística anual de nomes de bebês da Administração de Segurança Social dos EUA), acompanham séries americanas, veem filmes de Hollywood. O ato de nomear moveu-se uma casa para frente: do pódio do professor para a sala dos pais.
+As fontes de referência para a escolha dos nomes também mudaram. Nos anos 1980, os professores baseavam-se na memória (os livros que usaram na época ou os nomes usados pelos alunos veteranos); nos anos 2010, os pais deslizam a tela do celular para ver a lista de nomes mais populares do SSA (a lista anual de estatísticas de nomes de bebês publicada pela Administração da Segurança Social dos EUA), acompanham séries americanas e assistem a filmes de Hollywood. O local onde o ato de nomear ocorre recuou um passo: saiu do púlpito do professor do cursinho e foi para a sala de estar dos pais.
 
 ```tw-versus
 Anos 1980 | Anos 2020
-Professor da escola de idiomas designa | Pais escolhem sozinhos
-Referência: personagens do livro Longman | Referência: lista top names da SSA EUA
-Turma inteira "Kevin K / Kevin C / Kevin S" | Aiden, Olivia não colidem fácil
-Recebe 1º nome aos 8-11 anos | Recebe 1º nome aos 3-5 anos (pré-escolar)
+Designados pelo professor | Escolhidos pelos próprios pais
+Referência: nomes nos livros da Longman | Referência: lista top names do SSA (EUA)
+Turma cheia de "Kevin K / Kevin C / Kevin S" | Aiden e Olivia raramente coincidem
+Primeiro nome recebido aos 8-11 anos | Nome recebido aos 3-5 anos (pré-escolar)
 Fonte: Barešová & Pikhart 2020 + compilação de mídia
 ```
 
-O artigo de Barešová e Pikhart também registra essa tendência de antecipação etária: menores de 30 anos, maioria recebeu 1º nome em inglês aos 8–11; acima de 31, aos 12–13[^5]. Ou seja, cada geração antecipa 3–4 anos. Estendendo a linha, anos 2020 geração jardim de infância bilíngue, **idade do 1º nome em inglês já antecipou para 3–5 anos** — antes da idade escolar.
+O artigo de Barešová e Pikhart também registrou essa tendência de antecipação da idade: a maioria dos entrevistados com menos de 30 anos recebeu seu primeiro nome em inglês entre os 8 e 11 anos, enquanto a maioria dos maiores de 31 anos o recebeu entre os 12 e 13 anos[^5]. Ou seja, cada geração recuou de 3 a 4 anos. Estendendo essa linha, a geração das escolas infantis bilíngues da década de 2020 já viu a **idade de receber um nome em inglês ser antecipada para os 3 aos 5 anos** — antes mesmo da idade escolar formal.
 
-> 📝 **Nota do curador**
-> O direito de nomear parece voltar para casa — do professor para os pais, dos pais para a própria criança (trocar Mary por Chloe no ensino médio é rota comum). Mas, simultaneamente, a idade de intervenção do ato de nomear também antecipa — de 8 para 5 para 3 anos. Velocidade de voltar e velocidade de intervir aceleram juntas, se anulando. Então aquele momento "quando eu realmente poderei decidir como me chamo" talvez nunca tenha chegado de verdade. Só foi adiado para o próximo documento de identidade — universidade, passaporte, imigração, marca profissional — entregue ao próximo sistema para continuar interrogando.
+> 📝 **Nota do Curador**
+> O direito de nomear parece estar "voltando para casa" — saindo do professor do cursinho e retornando aos pais, e depois dos pais voltando para a própria criança (mudar de Mary para Chloe no ensino médio é um caminho comum). Ao mesmo tempo, a idade em que o ato de nomear intervém também está avançando — dos 8 anos para os 5 anos, e para os 3 anos. A velocidade com que o nome "volta para casa" e a velocidade da intervenção aumentam simultaneamente, anulando-se mutuamente. Portanto, aquele momento de "quando eu poderei realmente decidir como me chamo" pode nunca ter chegado de fato. Ele é apenas adiado para o próximo documento de identidade — universidade, passaporte, imigração, marca profissional — sendo entregue ao próximo sistema para continuar o interrogatório.
 
-Hong Kong tem número de contraponto: segundo pesquisa 2015 do Centro de Pesquisa em Ciências Sociais da Universidade de Hong Kong, Bacon-Shone, Bolton, Luke, "25,8% dos hongconguenses têm nome em inglês no nome legal, outros 38,3% embora não no nome legal usam nome em inglês no dia a dia" — soma **64,1%**[^37]. A diferença crucial: o nome em inglês de Hong Kong pode entrar no **documento de identidade de Hong Kong**; o de Taiwan é para sempre apelido de sala de aula, não entra no documento de identidade, não entra no campo formal do passaporte[^38]. Hong Kong tem história colonial sustentando status legal; Taiwan só tem a mensalidade que os pais pagam à escola de idiomas.
+Existe um número comparativo em Hong Kong: de acordo com uma pesquisa de 2015 realizada pelos estudiosos Bacon-Shone, Bolton e Luke, do Centro de Estudos Sociais da Universidade de Hong Kong, "25,8% dos habitantes de Hong Kong possuem um nome próprio em inglês em seu nome legal, enquanto outros 38,3%, embora não tenham um nome em inglês no registro oficial, utilizam nomes em inglês no dia a dia" — totalizando **64,1%**[^37]. A diferença crucial é que, em Hong Kong, o nome em inglês pode constar no **cartão de identidade de Hong Kong**, enquanto em Taiwan o nome em inglês é sempre um apelido de sala de aula, não entrando no cartão de identidade nem no campo de nome oficial do passaporte[^38]. Hong Kong possui um status legal sustentado por sua história colonial; Taiwan tem apenas as mensalidades dos cursinhos pagas pelos próprios pais.
 
-Kolas Yotaka 2024 no documento de identidade com Kolas Yotaka é o marco mais distante da história da nomeação de Taiwan até agora — um nome antes reescrito pelo colonizador, finalmente volta para casa no próprio documento. Mas no mesmo instante, em alguma escola de idiomas de Taipé, primeiro dia de aula, uma professora diante de crianças de 5 anos, olha a lista, anuncia: "Você se chama Olivia." Olivia recebe o nome enquanto ainda aprende o zhuyin.
+O "Kolas Yotaka" no cartão de identidade de 2024 de Kolas Yotaka é o marco mais distante na história da nomeação em Taiwan até agora — um nome originalmente reescrito pelo colonizador que, finalmente, voltou para casa em seu próprio documento de identidade. Mas, no mesmo instante, no primeiro dia de aula de uma turma de artes infantis em Taipé, uma professora para diante de uma criança de 5 anos, olha para a lista e anuncia: "Você se chama Olivia". Enquanto Olivia aceita esse nome, ela ainda está aprendendo os símbolos _zhuyin_.
 
-De Yotaka a Olivia separam 86 anos.
+Entre Yotaka e Olivia, passaram-se 86 anos.
 
-Aquele ato de designar nome nunca foi abolido — só trocou quem dá o nome.
+O ato de designar um nome nunca foi abolido — apenas mudou quem o distribui.
 
-## Leitura complementar
+## Leitura Complementar
 
-- [Línguas estrangeiras e contato linguístico em Taiwan](/pt/culture/loanwords-and-language-contact-in-taiwan) — Do empréstimo entre japonês, inglês, taiwanês, veja como as camadas multilíngues de Taiwan se empilham
-- [Movimento de revitalização das línguas indígenas de Taiwan](/pt/culture/indigenous-language-revitalization-movement) — Outra linha da retomada do direito de nomear, da revitalização da língua ancestral até a emenda de 2024 ao Regulamento de Nomes
-- [Chiang Wei-kuo](/pt/people/chiung-wi-vun) — Contraponto da lógica "des-sinografar" do movimento taiwanês, outra face da nomeação e soberania da escrita
-- [Sensibilidade taiwanesa](/pt/culture/taiwanese-sensibility) — Perspectiva curatorial de mentalidade cultural, entenda "por que taiwaneses sempre sentem que precisam de um nome em língua estrangeira" em outra camada
+- [Estrangeirismos e Contato Linguístico em Taiwan](/pt/culture/loanwords-and-language-contact-in-taiwan) — Analisando os empréstimos entre o japonês, o inglês e o taiwaneses para entender como as múltiplas camadas linguísticas de Taiwan se sobrepõem.
+- [Movimento de Revitalização das Línguas Indígenas de Taiwan](/pt/culture/indigenous-language-revitalization-movement) — Outra vertente da retomada do direito à nomeação, que vai desde a revitalização das línguas tribais até a reforma da Lei de Nomes em 2024.
+- [Chiang Wei-wen](/pt/people/chiung-wi-vun) — Um contraponto que estende a lógica do movimento linguístico taiwanes de "des-sinização", abordando outra face da soberania sobre nomes e escrita.
+- [Sensibilidade de Taiwan](/pt/culture/taiwanese-sensibility) — Uma perspectiva curatorial sobre a mentalidade cultural para entender outra camada do porquê "os taiwaneses sempre sentem que precisam de um nome estrangeiro".
 
-## Fontes das imagens
+## Fontes das Imagens
 
-_(*Hero* e imagens de cena aguardam Stage 4 tecelagem de mídia. *Anchors* previstos: cena de primeiro dia de aula em escola de idiomas, anúncio 1987 da Sesame Street English "NO CHINESE, ENGLISH PLEASE", captura oficial da tabela de romanização do Ministério das Relações Exteriores, foto de notícia do documento de identidade 2024 de Kolas Yotaka, placas de rua Taipé Kwangfu vs Guangfu contrapostas.)_
+_（Imagens de destaque e de cena serão inseridas na Etapa 4 de integração de mídia. Âncoras previstas: cena do primeiro dia de aula da turma de inglês para crianças; anúncio de 1987 do Sesame Street English com a frase “NO CHINESE, ENGLISH PLEASE”; captura de tela oficial do Ministério das Relações Exteriores da tabela de correspondência de romanização de passaportes; foto de identidade de Kolas Yotaka em 2024; comparação entre as placas de rua de Taipé Kwangfu vs Guangfu.)_
 
 ## Referências
 
-[^1]: [Wikipédia: Kolas Yotaka](https://zh.wikipedia.org/zh-hant/%E8%B0%B7%E8%BE%A3%E6%96%AF%C2%B7%E5%B0%A4%E9%81%94%E5%8D%A1) — Política Amis do DPP, 2005-2006 restaurou nome indígena, 2024 pela nova lei do _Regulamento de Nomes_ tornou-se primeira pessoa em Taiwan com documento de identidade totalmente sem caracteres chineses, registra trajetória completa de retificação e fundo das três camadas de nomeação.
+[^1]: [Wikipédia: Kolas Yotaka](https://zh.wikipedia.org/zh-hant/%E8%B0%B7%E8%BE%A3%E6%96%AF%C2%B7%E5%B0%A4%E9%81%94%E5%8D%A1) — Político do Partido Progressista Democrático da etnia Amis; retornou ao nome étnico em 2005-2006 e, em 2024, tornou-se o primeiro taiwanês a ter o nome no cartão de identidade totalmente livre de caracteres chineses conforme a nova Lei de Nomes, registrando seu processo de renomeação e o contexto histórico de suas três camadas de nomes.
 
-[^2]: [China Times 14/7/2018 Entrevista Kolas Yotaka](https://zh.wikipedia.org/zh-hant/%E8%B0%B7%E8%BE%A3%E6%96%AF%C2%B7%E5%B0%A4%E9%81%94%E5%8D%A1) — Kolas relata "Yotaka é o nome japonês do meu pai" (coruja-noturna, きよたか), _quote_ first-person chave das três camadas coloniais sobrepostas (nome japonês → hanificação → retificação), cruzado com verbete da Wikipédia.
+[^2]: [Entrevista com Kolas Yotaka pelo China Times em 14/07/2018](https://zh.wikipedia.org/zh-hant/%E8%B0%B7%E8%BE%A3%E6%96%AF%C2%B7%E5%B0%A4%E9%81%94%E5%8D%A1) — Kolas relata que "Yotaka é o nome japonês de meu pai" (Yotaka, きよたか), uma citação crucial em primeira pessoa sobre a sobreposição de três camadas coloniais (nome do período de ocupação japonesa → sinização → renomeação), confirmada por este artigo através de cruzamento com a Wikipédia.
 
-[^3]: [Chris Wang: 【Ensaio】Nome em inglês (Medium, 2017)](https://chris916.medium.com/%E9%9A%A8%E7%AD%86-%E8%8B%B1%E6%96%87%E5%90%8D%E5%AD%97-f8ae337a2772) — Ensaio pessoal registra ritual de "designação improvisada" de professor de escola de idiomas na época, fornece _verbatim_ first-person do "Zhang San vira John, Li Si vira Tom, Ah-Tao vira Mary".
+[^3]: [Chris Wang: 【Ensaio】Nomes em Inglês (Medium, 2017)](https://chris916.medium.com/%E9%9A%A8%E7%AD%86-%E8%8B%B1%E6%96%87%E5%90%8D%E5%AD%97-f8ae337a2772) — Ensaio em blog pessoal que registra o ritual de "atribuição improvisada" de professores de inglês na época das aulas particulares, fornecendo casos reais em primeira pessoa como "Zhang San sendo chamado de John, Li Si de Tom e Ah Tao de Mary".
 
-[^4]: [PTT StupidClown kriss 4ª série Sesame Street English recordação (2019)](https://www.ptt.cc/bbs/StupidClown/M.1554441033.A.21E.html) — Usuário kriss registra professor "mão tremeu, hesitou 30 segundos" nomeando Romeo o gordinho de 74 kg, cena concreta, um dos _first-person cases_ mais completos do ritual "designação improvisada" no artigo.
+[^4]: [PTT StupidClown: Memórias do Sesame Street English no 4º ano do primário (2019)](https://www.ptt.cc/bbs/StupidClown/M.1554441033.A.21E.html) — O usuário kriss registrou a cena específica em que o professor de inglês, "após um tremor na mão e uma pausa de 30 segundos", deu o nome de Romeo a um menino gordo de 74 kg; é um dos casos mais completos em primeira pessoa do ritual de "atribuição improvisada" mencionado neste texto.
 
-[^5]: [Barešová & Pikhart: Going by an English Name (MDPI Social Sciences 9(4)/60, 2020)](https://www.mdpi.com/2076-0760/9/4/60/htm) — Pesquisa acadêmica mais completa sobre práticas de nomeação em inglês de jovens taiwaneses, N=76 (F 61 / M 15), 18-41 anos, fornece três _ground truths_: "maioria recebe 1º nome em inglês do 1º professor de inglês em instituição", "70,6% no top 1000 tradicional da SSA", "menores de 30 anos recebem aos 8-11 anos".
+[^5]: [Barešová & Pikhart: Going by an English Name (MDPI Social Sciences 9(4)/60, 2020)](https://www.mdpi.com/2076-0760/9/4/60/htm) — O estudo acadêmico mais completo sobre a prática atual de escolha de nomes em inglês entre jovens em Taiwan; N=76 (61 mulheres / 15 homens), idade 18-41, fornecendo três dados fundamentais: "a maioria recebe o primeiro nome de seu primeiro professor de inglês", "70,6% são nomes tradicionais do top 1000 da SSA" e "a idade de primeira adoção para menores de 30 anos é entre 8 e 11 anos".
 
-[^6]: [Hess Educational: Filosofia corporativa](https://www.hess.com.tw/about/) — Página corporativa oficial do grupo Hess, registra 1983 fundação por Karen Hess (a própria Hess) e casal Zhu Chia-tsung (Joseph Chu), 1987 equipe de P&D sino-estrangeira, 1990 primeira livraria Hess.
+[^6]: [Instituição Educacional He Jia-ren: Filosofia Corporativa](https://www.hess.com.tw/about/) — Página oficial do Grupo He Jia-ren, registrando a fundação em 1983 pelo casal Karen Hess (a própria He Jia-ren) e Joseph Chu (Zhu Jia-zong), a criação da equipe de pesquisa de professores estrangeiros e locais em 1987, e a abertura da primeira livraria He Jia-ren em 1990.
 
-[^7]: [Baby Edu Hub: Análise completa Kid Castle](https://babyeduhub.com/kidcastle-reviews/) — Mídia de análise de educação infantil, registra Kid Castle 1986 fundação, 1988 1º material próprio _Chevady's World_, 1990 consolida marca KID CASTLE, fonte única secundária dos dados Kid Castle no artigo.
+[^7]: [Baby Edu Hub: Análise Completa do Kid Castle English](https://babyeduhub.com/kidcastle-reviews/) — Mídia de análise de educação infantil que registra a cronologia da fundação do Kid Castle em 1986, o desenvolvimento do primeiro material didático próprio para crianças, "Chevady's World", em 1988, e a consolidação da marca KID CASTLE em 1990; esta é uma fonte secundária única para os dados sobre o Kid Castle neste texto.
 
-[^8]: [Giraffe English: Sobre a Giraffe](https://www.giraffe.com.tw/aboutGiraffe.html) — Página oficial de沿革 da Giraffe English, registra 1986 fundação, 1987 1º centro de ensino infantil, 1989 programa na TTV e CTV, 658 filiais atuais.
+[^8]: [Giraffe English: Sobre a Giraffe](https://www.giraffe.com.tw/aboutGiraffe.html) — Página de histórico do site oficial da Giraffe English, registrando a fundação em 1986, o primeiro centro de ensino de inglês para crianças e jovens em 1987, a transmissão de programas de inglês pela TTV e CTS em 1989, e a rede atual de 658 filiais.
 
-[^9]: [CommonWealth Magazine: Sesame Street English não só ensina inglês (2025)](https://www.cw.com.tw/article/5072615) — Entrevista da _CommonWealth Magazine_ à Sesame Street English, registra slogan 1987 "NO CHINESE, ENGLISH PLEASE" e dados de 2025: 103 filiais, 500 mil alunos.
+[^9]: [天下雜誌 (Taipei Times/天下): Sesame Street English: Mais do que apenas ensinar inglês (2025)](https://www.cw.com.tw/article/5072615) — Entrevista especial da revista Tai-Tian com o Sesame Street English, registrando o slogan "NO CHINESE, ENGLISH PLEASE" usado na sua introdução em 1987 e os dados de escala de 2025, com 103 filiais e 500.000 alunos.
 
-[^10]: [Muppet Wiki: Sesame English](https://muppet.fandom.com/wiki/Sesame_English) — Dados oficiais da linha global ESL (Sesame English) do Sesame Workshop, registra 1999 lançamento do 1º lote de materiais ESL, falseia "Sesame Workshop 1987 desenhou materiais da Sesame Street English de Taiwan".
+[^10]: [Muppet Wiki: Sesame English](https://muppet.fandom.com/wiki/Sesame_English) — Dados oficiais da linha de materiais didáticos ESL (Sesame English) da Sesame Workshop global, registrando o fato de que a primeira série de materiais ESL só foi lançada em 1999, refutando o erro de compressão temporal de que "a Sesame Workshop desenhou pessoalmente os materiais do Sesame Street English de Taiwan em 1987".
 
-[^11]: [Books.com.tw: Dicionário de Nomes em Inglês (1992)](https://www.books.com.tw/products/0010018614) — Livro de nomes em inglês publicado 1992, ordem alfabética, cerca de mil entradas, mais antigo ISBN nomeado encontrado no artigo, substitui o lendário "Grande Livro de Nomes em Inglês 1988" (este sem ISBN nomeado).
+[^11]: [Books.com.tw: Guia de Nomes Ingleses (1992)](https://www.books.com.tw/products/0010018614) — Livro sobre nomes ingleses publicado em 1992, contendo quase mil entradas em ordem alfabética; é o livro de nomes ingleses com ISBN identificado mais antigo encontrado para este texto, substituindo a lenda do "Compêndio de Nomes Ingleses de 1988" (que não possui ISBN registrado).
 
-[^12]: [Baby Kingdom fórum mães HK: Personagens Longman Tom, Mary, Peter, Betty](https://www.baby-kingdom.com/forum.php?mod=viewthread&tid=3230937) — Fórum de maternidade HK registra lista de personagens do material Longman, evidência-chave paralela de que personagens do material didático servem como _default source_ de nomeação nas escolas de idiomas.
+[^12]: [Fórum Baby Kingdom (Hong Kong): Personagens Tom, Mary, Peter e Betty nos livros de inglês da Longman](https://www.baby-kingdom.com/forum.php?mod=viewthread&tid=3230937) — Fórum de parentalidade de Hong Kong que registra a lista de nomes de personagens nos materiais didáticos de inglês da Longman, fornecendo evidência complementar crucial de que os personagens usados em materiais comuns entre Hong Kong e Taiwan serviam como fonte padrão para nomes em turmas de inglês infantil.
 
-[^13]: [Usuário Plurk i4iys5: Recordação material Longman ensino fundamental](https://www.plurk.com/p/i4iys5) — Usuário Plurk Taiwan recorda material Longman ensino fundamental "Peter/Mary, Tom/Sally", evidência paralela consistente com fórum HK da lista de personagens Longman no mercado infantil sino-hongconguês.
+[^13]: [Usuário do Plurk i4iys5: Memórias dos materiais didáticos da Longman no primário](https://www.plurk.com/p/i4iys5) — Usuário taiwanês do Plurk relembrando o uso dos nomes de personagens "Peter/Mary, Tom/Sally" nos materiais de inglês da Longman no ensino primário, servindo como evidência paralela ao fórum Baby Kingdom sobre a consistência dos nomes de personagens em materiais de inglês infantil em Hong Kong e Taiwan.
 
-[^14]: [Bureau of Consular Affairs MOFA: Regulamento de Execução da Lei de Passaportes](https://law.mofa.gov.tw/LawContent.aspx?LSID=FL027080) — Art. 14 §2 cita "Requerente que solicita passaporte pela primeira vez, sem nome em língua estrangeira, usa a pronúncia da língua nacional do nome chinês, caractere por caractere, transliterada para letras latinas", base legal do "passaporte não escreve Kevin Lin".
+[^14]: [Departamento de Consular Affairs do Ministério das Relações Exteriores: Regulamentos de Implementação da Lei de Passaportes](https://law.mofa.gov.tw/LawContent.aspx?LSID=FL027080) — Citação literal do Artigo 14, Item 2 dos Regulamentos de Implementação da Lei de Passaportes: "Ao solicitar um passaporte pela primeira vez, se o requerente não possuir um nome em língua estrangeira, o nome será transliterado para caracteres latinos com base na pronúncia da língua nacional do nome chinês"; esta é a base jurídica para o argumento de que "o passaporte não escreverá Kevin Lin" neste texto.
 
-[^15]: [Bureau of Consular Affairs MOFA: Tabela de correspondência de romanização de nome estrangeiro](https://www.boca.gov.tw/cp-2-4226-c0eff-1.html) — Tabela oficial do Bureau, lista Wade-Giles, MPS II, Tongyong, Hanyu quatro sistemas paralelos, livre escolha do cidadão.
+[^15]: [Departamento de Consular Affairs do Ministério das Relações Exteriores: Tabela de Correspondência de Romanização de Nomes Estrangeiros](https://www.boca.gov.tw/cp-2-4226-c0eff-1.html) — Tabela oficial de romanização do Departamento de Consular Affairs, listando os sistemas Wade-Giles, Zhuyin de segunda forma, Pinyin Geral e Hanyu Pinyin para livre escolha dos cidadãos.
 
-[^16]: [Liberty Times: Peço ao Ministério que não nos torne "chineses" (8/11/2016)](https://news.ltn.com.tw/news/politics/breakingnews/1872432) — Carta critica Ministério por colocar Hanyu Pinyin no topo; Ministério responde "sistema oferece 4 romanizações para livre escolha", "ordenação não tem significado especial", registra atrito público da política de romanização em 2016.
+[^16]: [Liberty Times: Peça ao Ministério das Relações Exteriores para não nos transformar em "cidadãos chineses" (08/11/2016)](https://news.ltn.com.tw/news/politics/breakingnews/1872432) — Uma carta de opinião criticando o Ministério das Relações Exteriores por colocar o Hanyu Pinyin como a primeira opção na tabela de referência; o Ministério respondeu que "o sistema oferece 4 tipos de romanização para livre escolha do cidadão" e que "a ordem não possui um significado especial", registrando um atrito público sobre a política de romanização em 2016.
 
-[^17]: [Wikipédia: Tongyong Pinyin](https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E6%8B%BC%E9%9F%B3) — Tongyong Pinyin proposto por Yu Bor-chuan 1998, 10/7/2002 Comitê de Língua Nacional aprova, 22/8/2002 Yuan Executivo aprova como padrão de transliteração de toponímios e antroponímios no governo Chen Shui-bian.
+[^17]: [Wikipédia: Tongyong Pinyin](https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E6%8B%BC%E9%9F%B3) — O Tongyong Pinyin foi proposto por Yu Bo-quan em 1998, aprovado pelo Comitê de Mandarim do Ministério da Educação em 10 de julho de 2002 e registrado pelo Executivo em 22 de agosto de 2002, servindo como a cronologia crucial para os padrões de transliteração de nomes de lugares e pessoas durante o governo Chen Shui-bian.
 
-[^18]: [Wikipédia: Controvérsia dos sistemas de romanização de Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%8B%BC%E9%9F%B3%E7%B3%BB%E7%B5%B1%E7%88%AD%E8%AD%B0) — Governo Ma Ying-jeou 16/9/2008 Yuan aprova proposta Hanyu Pinyin, 18/12/2008 Ministério da Educação emenda portaria, 1/1/2009 vigente, registra sequência de virada de regime nas três ondas de política de romanização.
+[^18]: [Wikipédia: Controvérsia dos Sistemas de Romanização em Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%8B%BC%E9%9F%B3%E7%B3%BB%E7%B5%B1%E7%88%AD%E8%AD%B0) — A cronologia da transição de poder que registrou as três ondas de mudanças nas políticas de romanização: a proposta do Hanyu Pinyin aprovada pelo Executivo em 16 de setembro de 2008 (governo Ma Ying-jeou), a ordem de correção do Ministério da Educação em 18 de dezembro de 2008 e a entrada em vigor em 1º de janeiro de 2009.
 
-[^19]: [Bureau of Consular Affairs MOFA: FAQ nome estrangeiro](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — Ordem Exterior-Liderança nº 1086603416 (9/8/2019) muda Art. 14 §2 de "pronúncia da língua nacional" para "pronúncia de língua nacional", fonte oficial da沿革 legal.
+[^19]: [Departamento de Assuntos Consulares do Ministério das Relações Exteriores: FAQ sobre Nomes Estrangeiros](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — Fonte oficial da evolução legislativa da Ordem nº 1086603416 (09/08/2019), que alterou o termo "pronúncia em mandarim" para "pronúncia na língua nacional" no Artigo 14, item 2, dos Regulamentos de Execução da Lei de Passaportes.
 
-[^20]: [Bureau of Consular Affairs MOFA: FAQ nome estrangeiro (mesmo Art. 14-1 motivos de alteração)](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — Art. 14 §5 alínea 2 "Nome estrangeiro transliterado com sobrenome de parente consanguíneo direto ou irmãos com soletração diferente pode solicitar alteração", admite possibilidade estrutural de divergência familiar.
+[^20]: [Departamento de Assuntos Consulares do Ministério das Relações Exteriores: FAQ sobre Nomes Estrangeiros (Motivo da alteração do Artigo 14-1)](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — O texto original da lei referente ao Artigo 14, item 5, subitem 2 dos Regulamentos de Execução da Lei de Passaportes, que estabelece que "se a grafia do sobrenome estrangeiro transliterado for diferente da grafia do sobrenome de parentes de primeiro grau ou irmãos, pode-se solicitar a alteração", reconhecendo a possibilidade estrutural de divergências na grafia dentro de uma família.
 
-[^21]: [Taiwan Panorama: Guerra da romanização](https://www.taiwan-panorama.com/) — Reportagem profunda da _Taiwan Panorama_ registra Rua Guangfu Sul dois lados "Guangfu" transliterado Kwangfu e Guangfu, Zhongxiao East Rd. Sec. 4 vs Sec. 5 Chunghsiao vs ZhongSiao, casos concretos de desencontro visual causado por troca de política.
+[^21]: [Revista Taiwan Guanghua: A Guerra da Romanização](https://www.taiwan-panorama.com/) — Uma reportagem profunda da revista Guanghua que registra casos reais nas ruas de Taipei, como as placas das ruas em ambos os lados da Guangfu South Road sendo transliteradas respectivamente como "Kwangfu" e "Guangfu", e a inconsistência na transliteração entre o 4º e o 5º setor da Zhongxiao East Road, apresentando o desalinhamento visual causado pelas mudanças de política de romanização.
 
-[^22]: [Aithley.com: Guia de romanização de passaporte de Taiwan](https://aithley.com/taiwan-guide/passport-romanization/) — Site de conhecimento analisa caso individual, fornece _golden quote_ "Kevin 3 anos de repente na alfândega americana ouve So your name is Chia-hao, not Kevin?", e conselho prático inverso "manter nome em inglês atual + registrar como alias do passaporte NT$ 1.300".
+[^22]: [Aithley.com: Guia de Romanização para Passaportes de Taiwan](https://aithley.com/taiwan-guide/passport-romanization/) — Análise de caso de um site de conhecimento sobre romanização de passaportes, fornecendo a frase célebre "Kevin usou por três anos e de repente foi questionado na alfândega dos EUA: Então seu nome é Chia-hao, não Kevin?", além da sugestão prática oposta de "manter o nome em inglês atual + adicionar como apelido estrangeiro no passaporte por NT$1.300".
 
-[^23]: [Anne Chang: Meu nome (Medium)](https://annechang11.medium.com/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97-%E8%8B%B1%E6%96%87%E6%9A%B1%E7%A8%B1%E8%88%87%E6%9C%AC%E5%90%8D%E7%9A%84%E9%81%B8%E6%93%87-477295b5e8ea) — Ensaio pessoal registra ao ouvir Anne vs nome romanizado duas posturas corporais diferentes (íntimo cotidiano vs endireitar postura), mostra comutação de dupla via do apelido em inglês e nome romanizado na vida adulta.
+[^23]: [Anne Chang: Meu Nome (Medium)](https://annechang11.medium.com/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97-%E8%8B%B1%E6%96%87%E6%9A%B1%E7%A8%B1%E8%88%87%E6%9C%AC%E5%90%8D%E7%9A%84%E9%81%B8%E6%93%87-477295b5e8ea) — Um ensaio pessoal que registra as duas diferentes posturas corporais ao ouvir "Anne" versus ao ouvir o nome romanizado (uma postura casual e íntima vs. uma postura formal), apresentando a transição de identidade entre o apelido em inglês e a romanização do nome original na vida adulta.
 
-[^24]: [Dcard tech_job: Pequeno compartilhamento inútil da TSMC mudar nome em inglês](https://www.dcard.tw/f/tech_job/p/241201657) — Post de funcionário TSMC registra sistema RH permite alterar nome em inglês, revela alta institucionalização do nome em inglês no setor tech.
+[^24]: [Fórum Dcard tech_job: Pequena partilha inútil da TSMC sobre mudar nomes em inglês](https://www.dcard.tw/f/tech_job/p/241201657) — Uma postagem de um funcionário da TSMC registrando que o sistema de RH da empresa permite que os funcionários alterem seus próprios nomes em inglês, revelando o uso altamente institucionalizado de nomes em inglês no ambiente de trabalho do setor tecnológico.
 
-[^25]: [PTT Tech_Job: M.1417156688 (2014)](https://www.ptt.cc/bbs/Tech_Job/M.1417156688.A.E20.html) — Usuário registra por homônimos na empresa virou "YC13*chen" (13º YC_chen), mostra nome em inglês em grande empresa tech sendo \_databasificado*, numerado.
+[^25]: [Fórum PTT Tech_Job: M.1417156688 (2014)](https://www.ptt.cc/bbs/Tech_Job/M.1417156688.A.E20.html) — Um internauta registrou como, devido à repetição de nomes iguais dentro da empresa, ele foi codificado como "YC13_chen" (o 13º YC_chen), apresentando um exemplo concreto de como os nomes em inglês são transformados em dados e códigos dentro de grandes empresas de tecnologia.
 
-[^26]: [Buzzorange: Por que taiwaneses amam ter nome em inglês? (2015)](https://buzzorange.com/vidaorange/2015/12/30/why-use-english-name/) — Mídia entrevista prof. Huang Ying-mei Tunghai "nome em inglês aproxima distância, livra de hierarquia", gerente RH 104 Chung Wen-hsiung "nome em inglês fácil 'marcar', facilita 'buscar histórico'", duas explicações paralelas.
+[^26]: [Buzzorange: Por que os taiwaneses amam adotar nomes em inglês? (2015)](https://buzzorange.com/vidaorange/2015/12/30/why-use-english-name/) — Mídia apresentando duas explicações: a da Professora Adjunta Huang Ying-mei, da Universidade Tunghai, de que "o nome em inglês encurta a distância entre as pessoas e elimina barreiras hierárquicas", e a de Zhong Wen-hsiung, diretor de RH da 104, de que "nomes em inglês são relativamente fáceis de 'marcar' e facilitam a 'busca no histórico de conversas'".
 
-[^27]: [Bureau of Consular Affairs MOFA: FAQ alteração nome estrangeiro passaporte (Art. 14 §5 alínea 1)](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — Art. 14 §5 alínea 1 "Nome estrangeiro transliterado não condiz com pronúncia da língua nacional do nome chinês. Alteração por este motivo, uma vez apenas", confirma ponto da emenda 2019 ser "língua nacional" não "alterações ilimitadas".
+[^27]: [Departamento de Assuntos Consulares do Ministério das Relações Exteriores: FAQ sobre Alteração de Nome Estrangeiro no Passaporte (Artigo 14, item 5, subitem 1)](https://www.boca.gov.tw/cp-35-500-573cd-1.html) — O texto original da lei referente ao Artigo 14, item 5, subitem 1 dos Regulamentos de Execução da Lei de Passaportes: "Se a pronúncia na língua nacional do nome estrangeiro transliterado não coincidir com o nome chinês. Caso a alteração seja feita com base nisso, será permitida apenas uma vez", confirmando que o foco da reforma de 2019 foi a "língua nacional" e não um "número ilimitado de alterações".
 
-[^28]: [Bureau of Consular Affairs MOFA: Regulamento alias passaporte](https://www.boca.gov.tw/cp-2-4226-c0eff-1.html) — Art. 14-1 alias (_Foreign Alias_) regulamento, inclui "não pode adicionar segundo alias", "após alteração nome estrangeiro original deve constar como alias", "taxa NT$ 1.300, normal 10 dias úteis, urgente 3 dias", SOP prático.
+[^28]: [Departamento de Assuntos Consulares do Ministério das Relações Exteriores: Regras para Apelidos Estrangeiros no Passaporte](https://www.boca.gov.tw/cp-2-4226-c0eff-1.html) — As normas do Artigo 14-1 dos Regulamentos de Execução da Lei de Passaportes sobre apelidos estrangeiros (Foreign Alias), incluindo o SOP prático: "não é permitido adicionar um segundo apelido estrangeiro", "o nome estrangeiro original deve constar como apelido após a alteração" e "taxa de solicitação de NT$1.300, prazo normal de 10 dias úteis ou urgente de 3 dias úteis".
 
-[^29]: [Liberty Times: Caos do salmão 4 anos acompanhamento](https://news.ltn.com.tw/news/life/breakingnews/3469721) — _Liberty Times_ acompanha 331 mudadores de nome do caos do salmão 2021 quatro anos depois, revela 80% voltaram ao original, 20% ainda levam salmão, registro de mudança fica para sempre no arquivo do cartório.
+[^29]: [Liberty Times: Acompanhamento de 4 anos sobre o 'Caos dos Salmões'](https://news.ltn.com.tw/news/life/breakingnews/3469721) — O Liberty Times acompanhou o status após quatro anos das 331 pessoas que mudaram de nome durante o "Caos dos Salmões" em 2021, revelando que 80% voltaram ao nome original, 20% ainda carregam o nome de salmão e que os registros de mudança permanecem permanentemente nos arquivos do registro civil.
 
-[^30]: [Wikipédia: Caos do salmão](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Verbete registra frase de ouro da diretora Chang Wan-yi "Uma vez gasta a cota de mudança de nome, realmente 'salmão' (cumprir o nome)", e Art. 9 do _Regulamento de Nomes_ mudança limitada a 3 vezes.
+[^30]: [Wikipédia: Caos dos Salmões](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — O verbete sobre o "Caos dos Salmões" registra a frase marcante de Chang Wan-yi, diretora do Departamento de Registro Civil do Ministério do Interior: "Uma vez que você esgota sua cota de mudança de nome, você realmente se torna um 'salmão' (trocadilho com 'nome real')", além da base legal do Artigo 9 da Lei de Nomes, que limita as mudanças de nome a 3 vezes.
 
-[^31]: [Wikipédia: Movimento de imperialização](https://zh.wikipedia.org/zh-tw/%E7%9A%87%E6%B0%91%E5%8C%96%E9%81%8B%E5%8B%95) — Verbete registra Sōshi-kaimei 11/2/1940 início, fim 1941 ~1% mudou, 1940-1943 acumulado 126 mil (2,06% da população), e Taiwan "permissão" vs Coreia "declaração voluntária mas recusa exclui racionamento/cargo/trabalho forçado" diferença institucional.
+[^31]: [Wikipédia: Movimento de Kōminka](https://zh.wikipedia.org/zh-tw/%E7%9A%87%E6%B0%91%E5%8C%96%E9%81%8B%E5%8B%95) — O verbete sobre o Movimento de Kōminka registra dados cruciais, como o início da mudança de nomes de clã em 11/02/1940, a taxa de aproximadamente 1% de mudanças de nome no final de 1941 e um acumulado de 126.000 pessoas entre 1940-1943 (2,06% da população total na época), além das diferenças sistêmicas entre o modelo de "permissão" em Taiwan versus o modelo de "declaração voluntária sob risco de exclusão de rações de alimentos" na Coreia.
 
-[^32]: [BuzzOrange: Estudo comparativo Sōshi-kaimei](https://buzzorange.com/citiorange/2015/02/11/taiwan-name-change-japan-name/) — Cita pesquisa do editor cultural do _Sankei Shimbun_ Kita Yoshihiro "Coreia 80% 'Sōshi-kaimei' Taiwan poucos % 'mudança de nome'", fornece verificação cruzada da diferença Taiwan 2% vs Coreia 80%.
+[^32]: [BuzzOrange: Estudo comparativo sobre a mudança de nomes de clã](https://buzzorange.com/citiorange/2015/02/11/taiwan-name-change-japan-name/) — Cita a pesquisa de Yoshihiro Kita, editor do departamento de cultura do Nikkei Shimbun japonês, intitulada "Coreia: 80% de 'mudança de nome de clã'; Taiwan: alguns % de 'mudança de nome'", fornecendo uma verificação cruzada de fontes sobre a diferença entre os 2% em Taiwan e os 80% na Coreia.
 
-[^33]: [NYCU História e Política Indígena](https://indigenous-history.nctu.edu.tw/page13.html) — Site acadêmico registra 21/5/1946 Governo Nacionalista publica _Método Corrigido de Restauração de Nomes Originais da Província de Taiwan_, prazo 3 meses, cartórios usam dicionário de língua nacional atribuindo nomes aleatoriamente a indígenas.
+[^33]: [História e Política dos Povos Indígenas da Universidade Nacional Yang Ming Chiao Tung](https://indigenous-history.nctu.edu.tw/page13.html) — Site acadêmico que registra o processo histórico de 21 de maio de 1946, quando o Governo Nacional promulgou as "Medidas para a Recuperação dos Nomes Originais do Povo da Província de Taiwan", estabelecendo um prazo de 3 meses e permitindo que os escritórios de registro civil atribuíssem nomes aleatoriamente aos indígenas com base em dicionários de mandarim.
 
-[^34]: [Wikipédia: Nomes dos povos indígenas de Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E4%BA%BA%E5%90%8D) — Verbete cita textualmente 1946 cartórios "dicionário de língua nacional e dicionários comuns, atribuindo nomes aleatoriamente a indígenas", "atribuir mesmo sobrenome a toda aldeia/comunidade" causando "mesmo clã e parentes com sobrenomes chineses diferentes".
+[^34]: [Wikipédia: Nomes de povos indígenas de Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E4%BA%BA%E5%90%8D) — O verbete da Wikipédia registra literalmente o dano histórico causado pelos escritórios de registro civil em 1946, quando "dicionários comuns como dicionários de mandarim eram usados para atribuir nomes aleatoriamente aos indígenas" e "toda a aldeia/comunidade recebia nomes simultaneamente", resultando em "membros do mesmo clã e familiares possuindo sobrenomes chineses diferentes".
 
-[^35]: [Right Plus: 14/5/2024 Legislativo aprova emenda nomes indígenas](https://rightplus.org/2024/05/14/indigenousname-2/) — Mídia pública reporta 14/5/2024 Legislativo 3ª leitura emenda _Regulamento de Nomes_, permite indígenas no documento de identidade listar só nome indígena (letras romanas puras), sem caracteres chineses, marco-chave da emenda.
+[^35]: [Right Plus: Emenda à Lei de Nomes para Povos Indígenas aprovada em terceira leitura pelo Legislativo em 14/05/2024](https://rightplus.org/2024/05/14/indigenousname-2/) — Reportagem de mídia de interesse público sobre a aprovação, em terceira leitura pelo Legislativo em 14 de maio de 2024, da emenda à "Lei de Nomes", um marco legal que permite que o nome do grupo étnico seja listado separadamente no cartão de identidade indígena (apenas em caracteres romanos), sem a necessidade de incluir caracteres chineses.
 
-[^36]: [POPMAMA: Escolhas novas de nomes em inglês pais taiwaneses pós-2010 (Threads)](https://www.threads.com/@popmama_mag/post/DCihBsYB_5b) — Mídia de maternidade compila anos 2010 em diante escolhas novas dos pais taiwaneses (Chloe, Zoe, Olivia, Emma, Ava, Aiden, Liam, Ethan, Noah), registra mudança de referência de professor de escola de idiomas para lista top names da SSA EUA.
+[^36]: [POPMAMA: Escolhas de nomes ingleses modernos por pais taiwaneses após os anos 2010 (Threads)](https://www.threads.com/@popmama_mag/post/DCihBsYB_5b) — Mídia voltada para parentalidade que compila as escolhas modernas de nomes ingleses feitas por pais taiwaneses após a década de 2010 (Chloe, Zoe, Olivia, Emma, Ava, Aiden, Liam, Ethan, Noah), registrando a tendência de mudança das referências, que passaram dos professores de cursinhos para a lista de nomes mais populares da SSA dos EUA.
 
-[^37]: [Wikipedia: Hongkonger name](https://en.wikipedia.org/wiki/Hongkonger_name) — Centro de Pesquisa em Ciências Sociais HKU Bacon-Shone, Bolton, Luke 2015 registra "25,8% de hongconguenses têm nome em inglês como parte do nome legal; outros 38,3% usam nome em inglês no dia a dia embora não no nome legal", fornece _anchor_ número 64,1% para contraponto com Taiwan.
+[^37]: [Wikipedia: Nome de Hong Konger](https://en.wikipedia.org/wiki/Hongkonger_name) — Pesquisa do Centro de Estudos Sociais da Universidade de Hong Kong (Bacon-Shone, Bolton, Luke, 2015) que registra que "25,8% dos habitantes de Hong Kong têm nomes próprios ingleses como parte de seus nomes legais; outros 38,3% dos habitantes de Hong Kong usam nomes próprios ingleses mesmo que estes não façam parte de seus nomes legais", fornecendo um ponto de comparação nítido com o número de 64,1% em Taiwan.
 
-[^38]: [Wikipedia: Hong Kong identity card](https://en.wikipedia.org/wiki/Hong_Kong_identity_card) — Documento do sistema de documento de identidade HK registra raiz institucional colonial de nome em inglês poder entrar no documento legal (antes de 1974 inglês única língua oficial), contraponto em nível de sistema com Taiwan "nome em inglês para sempre apelido de sala, não entra no documento, não entra no campo formal do passaporte".
+[^38]: [Wikipedia: Cartão de identidade de Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong_identity_card) — Documentação sobre o sistema de identidade de Hong Kong que registra as raízes históricas do sistema colonial onde nomes ingleses podiam constar no cartão de identidade legal (antes de 1974, o inglês era a única língua oficial), criando um contraste institucional com Taiwan, onde "nomes ingleses são sempre apelidos de sala de aula e nunca entram no cartão de identidade".

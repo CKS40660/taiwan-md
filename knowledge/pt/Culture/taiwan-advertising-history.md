@@ -23,10 +23,10 @@ imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_Cooker_20190706.jpg'
 translatedFrom: 'Culture/台灣廣告史.md'
-sourceCommitSha: 'f7484ebea'
-sourceContentHash: 'sha256:faa63331d7b3eae1'
-sourceBodyHash: 'sha256:296b2f47a01a03eb'
-translatedAt: '2026-08-02T13:22:33+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:f7212df28a7408b1'
+sourceBodyHash: 'sha256:5f193ab0cecd9e8d'
+translatedAt: '2026-10-15T01:10:23.552399+00:00'
 ---
 
 > **Resumo em 30 segundos:** A memória publicitária partilhada pelos taiwaneses é quase toda feita de uma frase que você não consegue deixar de completar, de uma melodia que você assobia sem lembrar o que vendia: "Boa sorte!", "Só quem tem frescor ousa falar alto", "Tatung, Tatung, produto nacional bom". Essa capacidade de "todo Taiwan lembrar junto" apoiava-se nos únicos três canais — TTV (1962), CTV (1969), CTS (1971) — sem alternativa, que amarravam a atenção de uma geração inteira no mesmo canal. A Lei da Televisão a Cabo de 1993 e a ultrapassagem da publicidade digital sobre a televisão em 2016, duas rupturas depois, a era da publicidade para todo o povo terminou.
@@ -111,35 +111,36 @@ Entre esses que escrevem, Hsu Shun-ying e Cheng Sung-mao trilharam o caminho men
 
 A publicidade ideológica também bateu na sua outra face: gênero. Medi-Form emagrecimento/beleza 1996, 1997 levou dois anos seguidos o prêmio Slogan de Ouro com "Trust me, you can make it!"[^33]. Mas a pesquisadora Chyong-Ling Lin em 2008 apontou que anúncios impressos em Taiwan preferem imagem de beleza clássica e garota da porta ao lado, imagens que ligam e reforçam crenças confucianas conservadoras[^34]. Aquele "Trust me" encorajador pressupõe que o corpo da mulher precisa ser corrigido, emagrecido, remodelado. Grupos de mulheres depois mapearam o roteiro comum desses anúncios: quem cuida da casa quase sempre é mulher, pai sempre é o que ganha dinheiro sustenta a casa[^35]. Publicidade não só reflete a ordem de gênero da sociedade, participa de produzi-la.
 
-## Uma canção que ninguém lembra o que vendia
+## Uma canção de quem ninguém mais lembra o que vendia
 
-Publicitário escreve fala, mas o que vive mais tempo costuma ser melodia.
+Os publicitários escrevem os roteiros, mas o que realmente sobrevive ao tempo é, muitas vezes, a melodia.
 
-Uma virada chave na história da publicidade em Taiwan: a canção publicitária alçou cantores ao estrelato ao contrário. Anúncios da Black松 Sarsaparilla começaram em 1974 com "Sombra no Deserto"[^36]; em 1988, Chang Yu-sheng cantou _Meu Futuro Não É Sonho_ como jingle, primeira vez em Taiwan que um jingle lançou um cantor[^37]. Depois, os jingles da Black松 costuraram uma linha do tempo inteira da música pop taiwanesa: 1991 Dong Fang Express, 1992 Ukulele, 1994 Chang Yu, até 2008 Mayday _Canção do Esquecimento Risonho_[^38]. Uma lata de refrigerante, cantou trinta e tantos anos de história sonora de Taiwan.
+Um ponto de virada crucial na história da publicidade em Taiwan foi quando as músicas publicitárias passaram a lançar cantores. O comercial de TV da Black松 (Black松) Sars começou em 1974 com o episódio "Sombra no Deserto"[^36]; em 1988, a canção 〈Meu futuro não é um sonho〉 (我的未來不是夢), interpretada por Chang Yu-sheng, tornou-se o tema do comercial, marcando a primeira vez em Taiwan que uma música publicitária lançou um cantor ao estrelato[^37]. Posteriormente, as músicas da Black松 Sars conectaram toda uma linha do tempo da música pop de Taiwan: Oriental Express em 1991, Cows in the Kitchen (優客李林) em 1992, Chang Yu em 1994, chegando até 〈Canção do Riso e Esquecimento〉 (笑忘歌) do Mayday em 2008[^38]. Uma lata de refrigerante que cantou a história sonora de Taiwan por mais de trinta anos.
 
-![Panela elétrica Tatung feita em Taiwan, corpo verde tradicional, nas cozinhas taiwanesas desde os anos 60, a panela que o jingle da Tatung cantou por décadas](/article-images/culture/tatung-cooker-green.webp)
-_Panela elétrica Tatung. O *Cântico da Tatung* de 1968 cantava ela; meio século depois, a melodia vive mais que qualquer panela. Foto: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
+![Panela elétrica Tatung fabricada em Taiwan, com o corpo verde tradicional; desde a década de 1960 nas cozinhas das famílias taiwanesas, é o produto nacional cantado na música da Tatung por décadas](/article-images/culture/tatung-cooker-green.webp)
+_Panela elétrica Tatung. A canção 〈Canção da Tatung〉 (大同之歌) de 1968 canta justamente sobre ela; meio século depois, a melodia vive mais do que qualquer panela elétrica. Foto: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
 
-Volte àquela canção da Tatung no começo. Sua história é a reviravolta mais forte deste artigo. Segundo reportagem de sentença judicial, o _Cântico da Tatung_ foi completado por Lee Shou-cheng em fevereiro de 1968 (ano 57 da República), cinquenta e seis caracteres no total[^39]. Mas o letrista registrado Wang An-chung era só nome emprestado; quem realmente escreveu foi o ex-presidente da Tatung, Lin Ting-sheng; ele não queria aparecer, emprestou nome de outro[^40]. E a canção originalmente era jingle da Sanyo, por problema de direitos virou Tatung[^41]. Depois Lee Shou-cheng processou por direitos autorais, perdeu porque na época vigorava o sistema de registro[^42].
+Voltando à canção da Tatung mencionada no início. Sua história é a reviravolta mais forte deste artigo. De acordo com relatos de decisões judiciais, a 〈Canção da Tatung〉 foi concluída por Li Shou-cheng em fevereiro do ano 57 da República da China (1968), totalizando cinquenta e seis palavras[^39]. No entanto, o letrista registrado, Wang An-chong, era apenas um nome de fachada; quem realmente escreveu a letra foi o próprio ex-presidente da Tatung, Lin Ting-sheng; ele não queria fama, por isso usou o nome de outra pessoa[^40]. Além disso, essa música era originalmente o tema publicitário da Sanyo, e só foi alterada para a Tatung devido a problemas de direitos autorais[^41]. Mais tarde, Li Shou-cheng moveu um processo judicial para reivindicar os direitos autorais, mas perdeu a causa porque, na época, prevalecia o sistema de registro[^42].
 
-> **📝 Nota do curador**
-> A reviravolta do _Cântico da Tatung_ comove porque vira do avesso o conceito de "autor do anúncio". Quem compôs processou e perdeu, quem realmente escreveu, o presidente, escondeu o nome de propósito, a melodia veio de outra marca. Uma canção cantada na memória de dezenas de milhões, não tem um autor claro, que queira ser lembrado. Isso é exatamente o núcleo deste artigo: a publicidade mais lembrada de Taiwan, a memória pertence à ilha inteira, o autor costuma estar ausente ou esquecido — produto esquecido, autor esquecido, só o som fica.
+> **📝 Nota do Curador**
+> A reviravolta da canção da Tatung é emocionante porque subverte completamente o conceito de "autor publicitário". O compositor processou e perdeu; o presidente que realmente escreveu a letra optou pelo anonimato; até a melodia foi transposta de outra marca. Uma música gravada na memória de dezenas de milhões de pessoas, mas sem um autor claro que desejasse ser lembrado. Este é exatamente o cerne deste artigo: os anúncios mais memoráveis de Taiwan pertencem à memória de toda a ilha, mas os autores estão frequentemente ausentes ou esquecidos — o produto é esquecido, o autor é esquecido, restando apenas o som.
 
-O Prêmio Slogan de Ouro, desde 1994 organizado pela _Brain Magazine_, foi pregando ano a ano o rabo de ouro da era da publicidade para todos como espécimes. 1994 foi Maxwell Coffee "Coisas boas se dividem com bons amigos"; 1995 Tissot "Não ligo para eternidade, só ligo para ter tido"; 1996–1997 Medi-Form "Trust me, you can make it!"; 1998 Taiwan Kirin "Bebe seco!"; 1999 Chinatrust "We are family"[^43].
+O Prêmio Slogan de Ouro começou a ser organizado pela revista _Brain_ (動腦) em 1994, preservando ano após ano essa "cauda dourada" da era de ouro da publicidade para todos. Em 1994, foi o Maxwell Coffee com "Coisas boas são para compartilhar com bons amigos"; em 1995, o relógio Rolex com "Não me importo se é para sempre, só me importo com o que vivemos"; entre 1996 e 1997, a marca Mibadeng (媚登峰) com "Trust me, you can make it!"; em 1998, a cerveja Taiwan Kirin com "¡Vamos beber!" (乎乾啦!); e em 1999, o CTBC Bank com "We are family"[^43].
 
 ```tw-stat
-1962–1994 | Velhos três oligopolizam mercado de TV | A partir de 1994 canais a cabo somados superam os três
-1979 | Penetração de TV acima de 90% | TVs coloridas superam preto e branco pela primeira vez
-99% | Reconhecimento de marca Kirin | Pico da febre "Bebe seco!" em 1998
+1962–1994 | Mercado de TV dominado pelas "Três Grandes" | A partir de 1994, os canais a cabo superaram as três grandes juntas
+1979 | Taxa de penetração da TV acima de 90% | Número de TVs coloridas superou pela primeira vez as pretas e brancas
+99% | Reconhecimento da marca Cerveja Kirin | Ápice da tendência "¡Vamos beber!" em 1998
+Fonte: Estatísticas sobre as "Três Grandes" e penetração da TV citadas neste texto, bem como a lista do Prêmio Slogan de Ouro e reportagens sobre a tendência "¡Vamos beber!" da Cerveja Kirin[^43][^45]
 ```
 
-Nessa lista de premiados esconde-se uma história bem taiwanesa. O vencedor de 1995 "Não ligo para eternidade, só ligo para ter tido" era na verdade anúncio da Tissot de Hong Kong, texto de Lu Wan-yi[^44] — um anúncio de Hong Kong levou o Slogan de Ouro de Taiwan, mostra que naquela época a memória publicitária em mandarim fluía entre regiões. E o "Bebe seco!" da Kirin foi reação em cadeia: 1996 Hou Hsiao-hsien dirigiu seu primeiro anúncio de cerveja, estrelado por Wu Nien-jen; 1997 a música-tema _Vagando até Tamsui_ virou nº 1 no karaokê; 1998 "Bebe seco!" virou gíria nacional, reconhecimento de marca bateu 99%[^45].
+Esta lista de slogans esconde uma história muito taiwanesa. O vencedor de 1995, "Não me importo se é para sempre, só me importo com o que vivemos", era na verdade um anúncio da Rolex de Hong Kong, com texto escrito por Lu Wan-yi[^44] — um anúncio de Hong Kong que ganhou o prêmio de slogan em Taiwan, demonstrando que a memória publicitária em língua chinesa fluía entre as regiões naquela época. Já o "¡Vamos beber!" da cerveja Kirin foi uma reação em cadeia: em 1996, Hou Hsiao-hsien dirigiu o primeiro comercial de cerveja de sua carreira, estrelado por Wu Nien-jen; em 1997, a música tema do anúncio, 〈Errante até Tamsui〉 (流浪到淡水), tornou-se a mais pedida nos KTVs; e em 1998, o "¡Vamos beber!" tornou-se uma gíria popular nacional, elevando o reconhecimento da marca para 99%[^45].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Chang Yu-sheng Meu Futuro Não É Sonho 1988 Jingle Black松" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Chang Yu-sheng 〈Meu futuro não é um sonho〉 1988 tema do comercial Black松 Sars" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Chang Yu-sheng *Meu Futuro Não É Sonho*, jingle da Black松 Sarsaparilla "Herói Moderno" 1988, primeira vez em Taiwan que um jingle lança um cantor. Canal oficial Rock Records._
+_Chang Yu-sheng 〈Meu futuro não é um sonho〉, tema do comercial de 1988 da Black松 Sars "Heróis Modernos", a primeira vez que Taiwan lançou um cantor através de um anúncio. Oficial Rock Records._
 
 ## O Sr. PX Mart e os anúncios que lucram lágrimas
 
