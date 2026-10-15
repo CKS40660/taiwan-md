@@ -1,7 +1,8 @@
 ---
-title: '온천 문화: 전쟁의 상처에서 세계 3대 온천 왕국으로'
-description: '군사 요양소에서 세계 3대 이토(泥湯) 온천까지 — 타이완이 뜻밖에 온천 왕국이 된 이야기'
+title: '온천 문화'
+description: '대만의 온천은 일제강점기 군의료 수요에서 유래했으며, 베이터우 텐구안의 우연한 발견에서 시작해 세계 최고 밀도의 온천 마을로 발전했습니다. 관쯔링의 진흙 온천과 뤼다오의 해저 온천은 세계에서 유일한 지질학적 기적이며, 이 섬은 일본식 치유 전통과 토착 사회문화를 융합해 전쟁과 치유가 우연히 빚어낸 문명의 이야기를 엮어냅니다.'
 date: 2026-03-22
+category: 'Lifestyle'
 tags:
   [
     '생활',
@@ -9,22 +10,21 @@ tags:
     '베이터우',
     '자오시',
     '관쯔링',
-    '일제 시기',
+    '일제강점기',
     '지질',
-    '힐링 문화',
+    '치유 문화',
   ]
 subcategory: '醫療與健保'
-category: 'Lifestyle'
 author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-03-22
+lastHumanReview: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'd8b2faceb'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
-translatedAt: '2026-04-14T04:41:25+08:00'
-featured: false
-lastHumanReview: false
+translatedAt: '2026-10-15T19:59:18.238299+00:00'
 ---
 
 # 온천 문화: 전쟁의 상처에서 힐링 제국으로

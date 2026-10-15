@@ -1,9 +1,9 @@
 ---
 title: '대만 건축'
-description: '석판 가옥에서 마천루까지: 한 섬의 건축 시간 여행'
+description: "파이완족의 석판가옥, 모리야마 마츠노스케가 남긴 붉은 벽돌 청사, 왕다훙이 현대 건축의 기초를 놓은 선, 그리고 황성원이 이란의 논밭 사이에 울타리 없는 공공건축을 세우기까지. 400년간 원주민, 네덜란드인, 일본인, 한인의 건축 지혜가 이 섬에서 충돌했으며, 베니스 건축 비엔날레는 이를 '세계화 속에서 지역성을 고수하다'라고 표현하며 이러한 혼혈적 특질을 묘사했다."
 date: 2026-03-28
 category: 'Art'
-tags: ['건축', '문화', '역사', '원주민', '일제시대']
+tags: ['건축', '문화', '역사', '원주민', '일제강점기']
 subcategory: '建築'
 author: 'Taiwan.md'
 featured: true
@@ -11,10 +11,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-07-27T11:59:38.929082+00:00'
+translatedAt: '2026-10-15T19:18:47.176603+00:00'
 ---
 
 # 대만 건축: 문화 교차의 입체 서사시

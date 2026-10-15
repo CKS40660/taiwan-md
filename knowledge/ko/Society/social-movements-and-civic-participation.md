@@ -1,10 +1,17 @@
 ---
-title: '사회운동과 시민참여'
-description: '야백합 운동부터 태양화 운동까지, 타이완은 사회운동을 통해 민주주의를 실현하고 사회 발전을 추진해 왔다'
+title: '사회 운동과 시민 참여'
+description: '해엄(계엄 해제) 운동부터 야백합 학생 운동, 해바라기 운동 및 동성혼 합법화에 이르기까지, 대만 사회는 평화롭고 이성적인 방식과 세대 간의 계승을 통해 지속적으로 민주화를 추진해 왔습니다. 이러한 행동들은 정치, 환경, 노동, 성별 등 다양한 분야를 아우르며 대부분 평화적으로 진행되었으나, 농민 운동과 같이 격렬한 충돌이 발생하기도 하며 민주주의 발전 과정에 구체적인 제도적 흔적을 남겼습니다.'
 date: 2026-03-18
 category: 'Society'
 tags:
-  ['사회운동', '시민참여', '민주주의', '야백합학운', '태양화운동', '사회개혁']
+  [
+    '사회 운동',
+    '시민 참여',
+    '민주주의',
+    '야백합 학생 운동',
+    '해바라기 운동',
+    '사회 개혁',
+  ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
@@ -13,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '568d157c8'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-02T09:54:53+08:00'
+translatedAt: '2026-10-15T19:26:18.826595+00:00'
 ---
 
 # 사회운동과 시민참여

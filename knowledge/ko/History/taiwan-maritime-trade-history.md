@@ -1,9 +1,9 @@
 ---
-title: '타이완 해양 무역사'
-description: '대항해시대의 타이완, 국제 무역 중심지에서 해적 왕국에 이르기까지 흥망성쇠의 전설'
+title: '대만 해양 무역사'
+description: "16, 17세기 대항해 시대, 이 섬은 동아시아의 변방 작은 섬이 아니라 중국, 일본, 동남아시아를 잇는 중요한 무역 허브였습니다. 네덜란드 동인도 회사는 타이난에 제란디아 성을 건설하여, 중국으로부터 생사, 도자기, 차를 수입하고 일본으로부터 은괴를 얻었으며, 동남아시아에서 온 향료와 목재를 이곳에서 환적했습니다. 당시 이 지역은 '동아시아의 암스테르담'이라 불리기도 했습니다. 또한 정씨 왕조는 해상 패권을 구축하며 무역 허브에서 해적 왕국에 이르기까지의 흥망성쇠를 써 내려갔습니다."
 date: 2026-03-20
 category: 'History'
-tags: ['해양 무역', '대항해시대', '국제 무역', '해적', '항구 도시']
+tags: ['해양 무역', '대항해 시대', '국제 무역', '해적', '항구 도시']
 subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +13,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T16:32:38+08:00'
+translatedAt: '2026-10-15T19:12:22.651888+00:00'
 ---
 
 # 타이완 해양 무역사

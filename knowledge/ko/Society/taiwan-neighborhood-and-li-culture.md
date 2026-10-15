@@ -1,19 +1,19 @@
 ---
-title: '타이완 지역사회와 리문화'
-description: '최하층 민주 실천에서 지역 조성의 사회적 혁신까지'
+title: '대만의 마을 공동체와 리(里) 문화'
+description: '리(里)는 대만 민주 사회의 가장 작은 세포입니다. 이장(里長)이 주민 회의를 소집하고, 통장(鄰長)이 집집마다 방문하여 소식을 전하며, 옆 교실에서는 평생교육원(社區大學) 수업이 열립니다. 이 글은 가장 기초적인 리·통 제도부터 시작하여, 지역사회 조성 운동과 평생교육원의 실험을 거쳐 시민 참여가 어떻게 수동적 수용에서 능동적 변화로 나아갔는지, 그리고 이 기초 네트워크가 어떻게 대만의 사회적 회복탄력성을 지탱하고 있는지 살펴봅니다.'
 date: 2026-03-18
 category: 'Society'
-tags: ['리제도', '지역 조성', '지역 대학', '시민 참여', '지방 자치']
+tags: ['리·통 제도', '지역사회 조성', '평생교육원', '시민 참여', '지방 자치']
 subcategory: '社會運動'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T19:27:39.360258+00:00'
 ---
 
 # 타이완 지역사회와 리문화
