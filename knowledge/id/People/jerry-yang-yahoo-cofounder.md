@@ -1,17 +1,19 @@
 ---
-title: "Jerry Yang: Dari Hanya Menguasai Satu Kata Inggris Menjadi Bapa 'Yahoo' yang Membuka Era Situs Portal Global"
-description: "Pada 1978, Jerry Yang berusia 10 tahun bermigrasi ke Amerika Serikat hanya menguasai kata 'Shoe'. Pada 1994, saat menunda disertasi doktor di Universitas Stanford, ia bersama rekan di dalam sebuah trailer secara manual mengklasifikasikan halaman web, tak sengaja menciptakan Yahoo! yang nilai pasarnya pernah melebihi 100 miliar dolar AS, dan pada 2005 dengan sebuah 'taruhan gila' berinvestasi pada Alibaba, menulis ulang peta internet global."
+title: 'Jerry Yang: Dari Hanya Menguasai Satu Kata Bahasa Inggris hingga Menjadi Bapak "Yahoo" yang Membuka Era Portal Web Global'
+description: 'Pada tahun 1978, saat berusia 10 tahun, Jerry Yang hanya menguasai satu kata bahasa Inggris yaitu "Shoe" ketika bermigrasi ke Amerika Serikat. Pada tahun 1994, saat sedang menghindari tugas disertasi doktoralnya di Universitas Stanford, ia bersama rekan-rekannya secara manual mengategorikan halaman web di dalam sebuah trailer untuk menciptakan Yahoo!, yang merapikan dunia internet yang kacau menjadi sebuah direktori dan membuka era keemasan portal web. Nilai pasar perusahaan ini sempat menembus angka ratusan miliar dolar AS, dan pada tahun 2005, ia kembali mengubah peta internet global melalui sebuah "pertaruhan gila" dengan berinvestasi di Alibaba.'
 date: 2026-04-29
 category: 'People'
 tags:
-  - 'Jerry Yang'
-  - 'Yahoo'
-  - 'Kewirausahaan'
-  - 'Universitas Stanford'
-  - 'Alibaba'
-  - 'Migrasi'
-  - 'Silicon Valley'
-  - 'Taiwan'
+  [
+    'Jerry Yang',
+    'Yahoo',
+    'Wirausaha',
+    'Universitas Stanford',
+    'Alibaba',
+    'Imigran',
+    'Silicon Valley',
+    'Taiwan',
+  ]
 subcategory: '科技與企業'
 author: 'idlccp1984'
 featured: false
@@ -19,10 +21,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-07-25T12:13:32+08:00'
+translatedAt: '2026-10-15T23:42:14.937596+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
