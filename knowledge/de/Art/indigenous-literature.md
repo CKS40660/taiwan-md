@@ -1,15 +1,15 @@
 ---
-title: 'Literatur der indigenen Völker'
-description: 'Eine literarische Entwicklung über Jahrtausende: Von gesungenen Geschichten zu geschriebenen Werken'
+title: 'Indigene Literatur'
+description: 'Im Jahr 1932 begann die während der japanischen Kolonialzeit erscheinende Zeitschrift „Riban no Tomo“ mit der Veröffentlichung von Werken indigener Intellektueller. Damit traten die indigenen Völker, deren Kultur über Jahrtausende durch mündlich überlieferte Mythen, rituellen Gesänge, Gebete und den आठ-stimmigen Gesang der Bunun geprägt war, endlich in das Zeitalter der schriftlichen Schöpfung ein. Bis heute haben 16 Stämme mit 42 Dialekten und fast 590.000 Angehörigen den Übergang vom wortlosen Gesang zum geschriebenen Wort vollzogen. Dies stellt nicht nur einen Wechsel des Mediums dar, sondern ist eine Revolution der Denkweise und zugleich eines der am meisten vernachlässigten Kapitel in der Literaturgeschichte Taiwans.'
 date: 2026-03-24
 category: 'Art'
 tags:
   [
     'Literatur',
-    'indigene Völker',
-    'mündliche Überlieferung',
-    'Austronesisch',
-    'kulturelle Wiederbelebung',
+    'Indigene Völker',
+    'Mündliche Literatur',
+    'Austronesische Sprachen',
+    'Kulturelle Wiederbelebung',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Art/原住民文學.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-10-15T20:38:16.954023+00:00'
 ---
 
 # Literatur der indigenen Völker

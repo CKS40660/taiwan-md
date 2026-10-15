@@ -1,9 +1,9 @@
 ---
-title: 'Compal Electronics: Der unsichtbare ODM-Gigant der Welt'
-description: 'Der zweitgrößte globale Hersteller von Notebooks; ein wichtiger Motor der taiwanesischen ODM-Industrie'
+title: 'Compal Electronics'
+description: 'Das 1984 gegründete Unternehmen gehört zur Compal Group und ist ein führender taiwanesischer ODM-Hersteller. Da über 80 % der weltweit produzierten Laptops in taiwanesischen Fabriken gefertigt werden, behauptet sich Compal mit einem Marktanteil von etwa 20–25 % als weltweit zweitgrößter Laptop-Lohnfertiger. Wenn Sie einen Laptop der Marken Dell, Lenovo oder Acer öffnen, wurde dieser höchstwahrscheinlich von Compal entworfen und hergestellt. Das Unternehmen hat sich von einem reinen OEM zu einem ODM entwickelt und expandiert nun in neue Anwendungsbereiche wie KI, 5G und Elektrofahrzeuge, was den Transformationsprozess der taiwanesischen Fertigungsindustrie von der reinen Auftragsfertigung hin zum Design widerspiegelt.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Wirtschaft', 'Unternehmen', 'Elektronikfertigung', 'ODM']
+tags: ['Wirtschaft', 'Unternehmen', 'Elektronik-Lohnfertigung', 'ODM']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 12
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0a05f936441dbbcf'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:42e5977dc5bcc26b'
 sourceBodyHash: 'sha256:aead7a66c3b88ec5'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-10-15T20:35:58.260582+00:00'
 ---
 
 # Compal Electronics: Der unsichtbare ODM-Gigant
@@ -209,12 +209,12 @@ Seit seiner Gründung im Jahr 1984 hat Compal den Wandel durch die PC-Verbreitun
 
 ## Referenzen
 
-[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal belegte Platz 10 im globalen Unternehmensinnovationswettbewerbsrangliste des deutschen _iF World Design Index_ für 2025 und stach unter den über 10.000 teilnehmenden Unternehmen hervor.
+[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal belegte den 10. Platz im weltweiten Ranking der Innovationswettbewerbsfähigkeit von Unternehmen des iF World Design Index 2025 und setzte sich dabei gegen über 10.000 teilnehmende Unternehmen durch.
 
-[^2]: [Wikipedia — Hsu Chang-shiu](https://zh.wikipedia.org/wiki/許勝雄) — Bildung von Hsu Chang-shiu: Literaturwissenschaft an der National Taiwan Normal University, später Vorstandsvorsitzender von Compal Electronics.
+[^2]: [Wikipedia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Bildungsweg von Hsu Sheng-hsiung: Institut für Chinesische Literatur an der National Taiwan Normal University, später übernahm er den Vorsitz des Verwaltungsrats von Compal Electronics.
 
-[^3]: [Economic Daily — Compal die „Spar-Aktie“](https://money.udn.com/) — Compal zahlt seit 33 Jahren am Stück Dividenden und ist bekannt als „Spar-Aktie“.
+[^3]: [Economic Daily — Compals „Gott-Aktie“ für Festgeldanlagen](https://money.udn.com/) — Compal Electronics hat 33 Jahre lang kontinuierlich Dividenden gezahlt. Aufgrund der stabilen Ausschüttungen wird das Unternehmen oft als „Gott-Aktie für Festgeldanlagen“ bezeichnet.
 
-[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics ist der zweitgrößte Notebook-ODM-Hersteller weltweit mit einem Marktanteil von etwa 20–25 %.
+[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics ist der weltweit zweitgrößte ODM-Hersteller von Notebooks mit einem Marktanteil von etwa 20–25 %.
 
-[^5]: [Offizielle Website von Compal Electronics](https://www.compal.com/) — Compal Electronics, Inc. wurde 1984 gegründet und trägt das Aktienkürzel 2324; der Hauptsitz befindet sich in Taipeh.
+[^5]: [Offizielle Website von Compal Electronics](https://www.compal.com/) — Compal Electronics Industrial Co., Ltd. wurde 1984 gegründet, hat den Börsenkürzel 2324 und hat seinen Hauptsitz in Taipeh.

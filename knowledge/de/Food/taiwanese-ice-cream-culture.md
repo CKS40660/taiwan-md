@@ -1,24 +1,24 @@
 ---
-title: 'Die Eisikkultur Taiwans'
-description: 'Von der Mangobeis-Kultur in Yujing bis zur Schneeeis-Revolution: Eine Erkundung der einzigartigen Kultur, die es den Menschen in Taiwan ermöglicht, auch im Winter Eis zu essen.'
+title: 'Die taiwanische Eis-Kultur'
+description: 'Die Liebe der Taiwaner zu Eisprodukten ist weltweit einzigartig; selbst im Winter sind die Läden gut besucht. Diese Kultur lässt sich bis auf die Einführung von Eisherstellungstechniken während der japanischen Kolonialzeit zurückführen. Sie entwickelte sich über die Verbreitung von Shaved Ice nach dem Krieg bis hin zum Erscheinen von Schneeeis (Xuehua Bing). In Taichung entwickelte Chen Xi unter Bezugnahme auf das japanische Shiguobing das Miedou-Eis, während das Yujing-Mangoeis weltberühmt wurde und sogar die Eisproduktion sowie die kühlende Fischerei vorantrieb. Es ist eine Evolutionsgeschichte mit konkreten zeitlichen Meilensteinen.'
 date: 2026-03-19
 category: 'Food'
-tags: ['Eiswaren', 'Mangoeis', 'Schneeeis', 'Shaved Ice', 'ICE MONSTER']
+tags: ['Eisprodukte', 'Mangoeis', 'Schneeeis', 'Shaved Ice', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Mangobeis aus Taipeh'
+imageAlt: 'Mango-Eis in Taipeh'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T14:59:32+08:00'
+translatedAt: '2026-10-15T20:46:25.291516+00:00'
 ---
 
 # Die Eisikkultur Taiwans

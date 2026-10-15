@@ -1,14 +1,14 @@
 ---
-title: 'Taiwans Parks und der Alltag der Freizeit'
-description: 'Vom Tai-Chi im Morgengrauen bis zum abendlichen Spaziergang – eine kulturelle Beobachtung taiwanesischer Parks als generationenübergreifende soziale Räume'
+title: 'Taiwans Parks und tägliche Freizeit'
+description: 'Im Daan-Waldpark am frühen Morgen üben Senioren Tai Chi und Waidan Gong zur traditionellen Musik, nachmittags spielen Eltern mit ihren Kindern, abends spazieren Berufstätige nach der Arbeit, und nachts gehört der Park den Hundegängern und jenen Seelen, die Ruhe suchen; ein und derselbe Park wechselt zu verschiedenen Zeiten seine Nutzer, bildet ein soziales Feld generationsübergreifender Nutzung und spiegelt den Rhythmus und die Wärme des taipeier Großstadtalltags wider.'
 date: 2026-03-18
 category: 'Lifestyle'
 tags:
   [
-    'Park',
+    'Parks',
     'Freizeit',
-    'Soziale Kultur',
-    'Generationenübergreifend',
+    'Sozialkultur',
+    'generationsübergreifend',
     'Alltagsleben',
   ]
 subcategory: '休閒與娛樂'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '1d2876d0d'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:5711dca50c2efd19'
 sourceBodyHash: 'sha256:62cca1f3ce3fb047'
-translatedAt: '2026-10-01T18:06:40.915593+00:00'
+translatedAt: '2026-10-15T21:31:54.432668+00:00'
 ---
 
 # Taiwans Parks und der Alltag der Freizeit
