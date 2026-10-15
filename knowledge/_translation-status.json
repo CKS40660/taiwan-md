@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T18:13:12+08:00",
-    "zhCommitHead": "bdada8a0a",
+    "lastUpdated": "2026-10-15T18:16:28+08:00",
+    "zhCommitHead": "efda4ddc9",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1083,
+        "fresh": 1084,
         "stale": 4,
-        "metadata_stale": 46,
+        "metadata_stale": 45,
         "missing": 2,
         "orphan": 0
       }
@@ -6800,8 +6800,8 @@
           "sourceContentHash": "sha256:e4fcea6f40bc1371",
           "sourceBodyHash": "sha256:f8c06621cad90a0b",
           "translatedAt": "2026-10-15T15:59:55+08:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "efda4ddc",
+          "translationLastModified": "2026-10-15T18:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 43899,
@@ -47370,11 +47370,11 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-10-15T15:59:55+08:00",
-          "translationLastCommit": "76d28ad4",
-          "translationLastModified": "2026-09-20T23:25:37+08:00",
+          "translationLastCommit": "efda4ddc",
+          "translationLastModified": "2026-10-15T18:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 57419,
+          "bytes": 57421,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198228,8 +198228,8 @@
           "sourceContentHash": "sha256:58cfc27dba0ac67b",
           "sourceBodyHash": "sha256:4e6245b3f0401bec",
           "translatedAt": "2026-10-15T15:59:55+08:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "efda4ddc",
+          "translationLastModified": "2026-10-15T18:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 34687,
@@ -220482,8 +220482,8 @@
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
           "translatedAt": "2026-10-15T15:59:55+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "efda4ddc",
+          "translationLastModified": "2026-10-15T18:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 47115,
@@ -222536,20 +222536,18 @@
         "de": {
           "path": "de/Culture/taiwan-floral-fabric.md",
           "translatedFrom": "Culture/台灣花布.md",
-          "sourceCommitSha": "a43cf9153",
+          "sourceCommitSha": "d8b2faceb",
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
-          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translatedAt": "2026-10-15T15:59:57+08:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 20302,
+          "bytes": 20636,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
