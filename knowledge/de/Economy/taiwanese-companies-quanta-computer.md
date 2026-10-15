@@ -1,13 +1,13 @@
 ---
-title: 'Taiwaner Unternehmen: Quanta Computer'
-description: 'Von Fabrikbränden zum globalen Laptop-König – Wie Lin Hsiu-wei ein neues Imperium für das KI-Zeitalter baute?'
+title: 'Taiwanesisches Unternehmen: Quanta Computer'
+description: 'Ein Fabrikbrand 1987 zwang Barry Lam zum Rücktritt bei Kinpo Electronics; im darauffolgenden Jahr gründete er Quanta Computer in Shilin, Taipeh, mit einem Kapital von 30 Millionen New Taiwan Dollar. 36 Jahre später wurde das Unternehmen zum weltweit größten Notebook-Auftragsfertiger; der Umsatz erreichte 2023 1,08 Billionen New Taiwan Dollar, und weltweit stammt jeder dritte Laptop von Quanta. Mit dem Aufkommen des KI-Zeitalters wandelte sich Quanta erneut eindrucksvoll und wurde zum wichtigsten Server-Assemblierungspartner von NVIDIA.'
 date: 2026-03-21
 category: 'Economy'
 tags:
   [
     'Wirtschaft',
     'Unternehmen',
-    'Elektronikfertigung',
+    'Elektronik-Auftragsfertigung',
     'ODM',
     'KI-Cloud',
     'Notebooks',
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：廣達電腦.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
-translatedAt: '2026-09-12T19:24:15+08:00'
+translatedAt: '2026-10-15T22:43:48.197852+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Ein Fabrikbrand im Jahr 1987 zwang Lin Hsiu-wei zur Kündigung bei Innolight.

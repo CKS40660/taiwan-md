@@ -1,15 +1,15 @@
 ---
 title: 'Tsai Ming-liang'
-description: 'Venise Golden Lion-Sieger, Malaysischer Chinese, Meister des langsamen Films'
+description: "Der 1957 in Sarawak, Malaysia, geborene Regisseur kam 1977 nach Taiwan, um Theater zu studieren. Mit „Rebels of the Neon God“ etablierte er 1992 seinen persönlichen Stil. 1994 gewann er mit „Vive L'Amour“ den Goldenen Löwen in Venedig und wurde nach Hou Hsiao-hsien und Zhang Yimou der dritte chinesische Regisseur, dem diese Auszeichnung zuteilwurde. Durch extrem lange Einstellungen, spärliche Dialoge und ein langsames Tempo thematisiert er die Einsamkeit und Entfremdung des Stadtmenschen und entwickelte von „Vive L'Amour“ bis zur Walker-Serie eine einzigartige Ästhetik des Slow Cinema."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Regisseur',
     'Tsai Ming-liang',
-    'Langfilm',
-    'Venedig Film Festival',
-    'Malaysischer Chinese',
+    'Slow Cinema',
+    'Filmfestspiele von Venedig',
+    'Malaysische Chinesen',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T05:18:01+08:00'
+translatedAt: '2026-10-15T22:59:03.218026+00:00'
 ---
 
 # Tsai Ming-liang: Der Dichter des langsamen Kinos

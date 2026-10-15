@@ -1,16 +1,16 @@
 ---
-title: 'Jerry Yang: Vom Sprechen eines englischen Wortes zur „Yahoo“-Gründung, die das globale Portal-Zeitalter einleitete'
-description: 'Im Jahr 1978 immigrierte Jerry Yang, damals zehn Jahre alt, nach Amerika und sprach nur das Wort „Shoe“. Im Jahr 1994 schuf er mit Partnern in Stanford manuell kategorisierte Webseiten, was zu Yahoo! führte – einem Unternehmen, dessen Marktwert einmal über hundert Milliarden Dollar erreichte. Mit einer „verrückten Wette“ investierte er 2005 in Alibaba und veränderte so die globale Netzwerktopographie.'
+title: 'Jerry Yang: Vom Mann, der nur ein englisches Wort kannte, zum Vater von „Yahoo“ und Wegbereiter des Webportal-Zeitalters'
+description: 'Als der 10-jährige Jerry Yang 1978 in die USA auswanderte, beherrschte er lediglich das englische Wort „Shoe“. 1994, während er sich während seiner Promotion an der Stanford University vor der Arbeit drückte, erstellte er gemeinsam mit Partnern in einem Wohnwagen manuell eine Kategorisierung von Webseiten. So entstand Yahoo!, das die chaotische Internetwelt in ein strukturiertes Verzeichnis verwandelte und das goldene Zeitalter der Webportale einläutete. Der Marktwert des Unternehmens überschritt zeitweise 100 Milliarden US-Dollar, und 2005 schrieb er mit einer „riskanten Wette“ – der Investition in Alibaba – die globale Internetlandschaft neu.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
     'Jerry Yang',
     'Yahoo',
-    'Gründung',
+    'Unternehmertum',
     'Stanford University',
     'Alibaba',
-    'Einwanderung',
+    'Migration',
     'Silicon Valley',
     'Taiwan',
   ]
@@ -21,10 +21,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-10-15T22:34:50.670916+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:**
