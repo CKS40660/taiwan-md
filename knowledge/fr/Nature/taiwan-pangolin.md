@@ -1,28 +1,28 @@
 ---
-title: 'Le pangolin de Taïwan'
-description: 'Le mammifère le plus trafiqué au monde a trouvé un foyer sûr à Taïwan'
+title: 'Pangolin de Taïwan'
+description: "Le mammifère le plus trafiqué au monde, le pangolin a pourtant trouvé un refuge sûr à Taïwan : tandis que ses congénères d'autres régions d'Asie sont au bord de l'extinction à cause du braconnage, Taïwan, grâce à une protection légale stricte, à la préservation des habitats et à la recherche scientifique, ainsi qu'à la reproduction en captivité, a permis à la population de se stabiliser voire d'augmenter, devenant un rare exemple de réussite en matière de conservation, montrant au monde que l'extinction des espèces n'est pas une fatalité."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '野生動物'
 tags:
   [
-    'pangolin',
-    'conservation',
-    'espèces menacées',
-    'trafic',
-    'zoo de Taïpei',
-    'écologie',
+    'Pangolin',
+    'Conservation',
+    'Espèces en danger',
+    'Trafic',
+    'Zoo de Taipei',
+    'Écologie',
   ]
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:bc4a8eee501f028c'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
 sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-05-15T15:39:40+08:00'
+translatedAt: '2026-10-15T22:24:58.084467+00:00'
 ---
 
 # Le pangolin de Taïwan
@@ -109,15 +109,15 @@ L'histoire du pangolin de Taïwan apporte, en une époque de perte accélérée 
 
 ## Références
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirmation de la décision CoP17 de 2016 de transfert à l'Annexe I, entrée en vigueur le 2 janvier 2017.
+[^1]: [Décision de la CoP17 de la CITES concernant le pangolin | CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirme que la résolution de la CoP17 de 2016 a inscrit le pangolin à l'Annexe I, entrée en vigueur le 2 janvier 2017.
 
-[^2]: [Liste rouge de l'UICN : Pangolin de Chine](https://www.iucnredlist.org/species/12764/123589684) — Documentation sur l'écologie et les besoins alimentaires du pangolin de Chine (les estimations de consommation de fourmis varient selon les études).
+[^2]: [Liste rouge de l'UICN : Pangolin chinois](https://www.iucnredlist.org/species/12764/123589684) — Littérature sur l'écologie, les habitudes et les besoins alimentaires du pangolin chinois (les estimations de la quantité de fourmis consommées varient selon les études).
 
-[^3]: [Institut de conservation de la faune sauvage de l'Université nationale des sciences et technologies de Pingtung](https://www.npust.edu.tw/) — Contexte des recherches de marquage et relâcher de pangolins menées par Sun Jing-min et son équipe.
+[^3]: [Institut de conservation de la faune de l'Université nationale de science et technologie de Pingtung](https://www.npust.edu.tw/) — Contexte de la recherche sur la réintroduction du pangolin par Sun Ching-min et son équipe de recherche.
 
-[^4]: [Réseau de biodiversité de Taïwan](https://www.tbn.org.tw/) — Base de données sur la distribution du pangolin de Taïwan et les signalements citoyens.
+[^4]: [Réseau de la biodiversité de Taïwan](https://www.tbn.org.tw/) — Base de données sur la distribution du pangolin de Taïwan et les signalements de sciences participatives.
 
-[^5]: [Recherche en conservation du zoo municipal de Taïpei](https://www.zoo.gov.taipei/) — Techniques de reproduction artificielle et résultats de conservation du pangolin.
+[^5]: [Recherche en conservation du zoo municipal de Taipei](https://www.zoo.gov.taipei/) — Techniques d'élevage en captivité du pangolin et résultats de conservation.
 
 ## Pour aller plus loin
 

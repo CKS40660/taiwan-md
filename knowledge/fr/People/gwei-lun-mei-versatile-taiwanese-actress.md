@@ -1,145 +1,150 @@
 ---
-title: 'Guei Lun-Mei'
-description: "De « The Secret » aux festivals internationaux, une actrice discrète et d'une grande profondeur"
+title: 'Kuei Lun-mei'
+description: "Née en 1983 dans un village de militaires à Taipei, elle est repérée en 2002 sur son campus par l'assistant-réalisateur de Yee Chih-yen et fait ses débuts dans le rôle de Meng Kerou dans *Blue Gate Crossing*, ouvrant sa carrière d'actrice par une interprétation d'une naturel et d'une pureté remarquables ; de *Secret* aux festivals internationaux où elle est devenue une habituée, elle s'est imposée, malgré sa discrétion, comme l'une des actrices les plus représentatives du cinéma d'auteur taïwanais grâce à son jeu solide et sa sensibilité littéraire."
 date: 2026-03-19
+category: 'People'
 tags:
   [
-    'Guei Lun-Mei',
+    'Kuei Lun-mei',
     'actrice',
-    'The Secret',
+    'Secret',
     'festivals internationaux',
-    "jeu d'acteur",
+    'actrice de composition',
   ]
 subcategory: '電影與戲劇'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:266bd954eeb032d3'
-sourceBodyHash: 'sha256:c06a0cb5b90069e3'
-translatedAt: '2026-05-17T06:15:00Z'
 lastHumanReview: false
+translatedFrom: 'People/桂綸鎂.md'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:34a9d268091c23c6'
+sourceBodyHash: 'sha256:c06a0cb5b90069e3'
+translatedAt: '2026-10-16T00:52:57+08:00'
 ---
 
-# Guei Lun-Mei : une actrice discrète et d'une rare profondeur
+# Kuei Lun-mei : une actrice de composition discrète et résiliente
 
-Guei Lun-Mei se distingue par un jeu naturel et sincère et par une discrétion remarquable dans sa vie publique. Elle est l'un des visages de la nouvelle génération d'acteurs taïwanais les plus suivis par les festivals internationaux. _Blue Gate Crossing_ (2002) est son premier film, _The Secret_ (2007), réalisé par Jay Chou, la révèle au grand public ; depuis, des œuvres comme *GF*BF\* continuent de lui valoir la reconnaissance des Golden Horse Awards.[^2]
+Kuei Lun-mei est reconnue pour son jeu naturel et sincère ainsi que pour son style personnel discret ; elle compte parmi les visages de la nouvelle génération d'acteurs taïwanais les plus suivis par les festivals internationaux. _Blue Gate Crossing_ (2002) marque ses débuts, et _Secret_ (2007), réalisé par [Jay Chou](/fr/people/jay-chou/), la fait connaître du grand public ; par la suite, des œuvres comme _Girlfriend, Boyfriend_ continuent de récolter les faveurs des Golden Horse Awards. [^2]
 
-## Une enfance en village militaire, berceau d'une vocation artistique
+## L'éveil artistique d'une fille de village militaire
 
-Née le 25 décembre 1983 à Taipei, Guei Lun-Mei grandit dans un village de dépendants militaires (_juancun_) : son père est militaire, sa mère, fonctionnaire. Cet environnement, à la fois rigoureux sur le plan éducatif et riche de la diversité culturelle propre aux _juancun_, forge en elle un caractère introverti et réfléchi.
+Kuei Lun-mei naît le 25 décembre 1983 à Taipei. Son père est militaire, sa mère fonctionnaire ; elle grandit dans l'environnement d'un village de militaires (眷村). L'importance accordée à l'éducation par sa famille et l'imprégnation multiculturelle du village forgent son caractère calme et réservé.
 
-Au collège et au lycée — qu'elle effectue à la Jingmei Girls' High School —, elle nourrit une passion pour la littérature et les arts, prend part activement aux activités culturelles de l'établissement. Son allure naturellement raffinée ne s'accompagne pourtant, à cette époque, d'aucune ambition particulière pour le métier d'actrice.
+Au lycée, elle fréquente le Jingmei Girls High School, où elle développe un vif intérêt pour la littérature et les arts, participant activement aux activités culturelles de l'établissement. Son allure est fraîche et distinguée, mais elle n'envisage pas encore de devenir actrice.
 
-Après le baccalauréat, elle intègre la faculté de droit de l'Université Fu Jen, envisageant une carrière académique. C'est là qu'une rencontre fortuite va tout changer.
+Après le baccalauréat, elle intègre le département de droit de l'université Fu Jen, avec l'intention de poursuivre une voie académique. C'est durant ses années universitaires qu'une rencontre fortuite avec l'opportunité de jouer change la trajectoire de sa vie.
 
-## Ses débuts inattendus dans le monde du spectacle
+## Un entrée dans le spectacle par hasard
 
-L'entrée de Guei Lun-Mei dans l'industrie du cinéma doit tout au hasard. En 2002, le premier assistant du réalisateur Yi Chi-yen la remarque sur le campus de son université et l'invite à passer une audition pour _Blue Gate Crossing_ — sans qu'elle ait alors la moindre expérience du jeu.
+Kuei Lun-mei entre dans le monde du spectacle purement par hasard. En 2002, elle est remarquée sur le campus par l'assistant-réalisateur de Yee Chih-yen, qui l'invite à passer une audition pour _Blue Gate Crossing_. Elle n'a alors aucune expérience de la comédie.
 
-Dans ce film, qui explore les tourments sentimentaux de l'adolescence, elle incarne Meng Ke-rou, une lycéenne introvertie et sensible. Elle l'interprète avec une spontanéité déconcertante, révélant un don inné pour le jeu. _Blue Gate Crossing_ attire l'attention des festivals internationaux, et la prestation de Guei Lun-Mei y est saluée. Si le film ne fait pas de grosses entrées, il lui ouvre néanmoins la voie et fait d'elle un visage que l'industrie cinématographique taïwanaise ne peut plus ignorer.
+_Blue Gate Crossing_ dépeint les tourments sentimentaux de l'adolescence ; Kuei Lun-mei y incarne Meng Kerou, une lycéenne introvertie et sensible. Elle compose ce rôle avec le plus grand naturel, révélant un talent d'actrice stupéfiant.
 
-## La révélation grâce à _The Secret_
+Le film attire l'attention des festivals internationaux et sa prestation est saluée. Bien que le box-office reste modeste, cette expérience lance favorablement sa carrière et attire l'attention du milieu cinématographique taïwanais sur ce nouveau visage.
 
-En 2007, Guei Lun-Mei tient le rôle principal de _The Secret_, réalisé par Jay Chou : un tournant décisif dans sa carrière. Elle y joue Lu Xiao-yu, une mystérieuse lycéenne liée au protagoniste par une histoire d'amour traversant le temps.
+## La percée avec _Secret_
 
-Mêlant romance, fantaisie et musique, le film exige de la comédienne une gamme émotionnelle complexe. Son interprétation — notamment les scènes de piano — touche juste avec finesse et révèle la polyvalence de son talent. _The Secret_ rencontre un immense succès public, et Guei Lun-Mei devient une star. Loin de se perdre dans la notoriété, elle choisit au contraire de concentrer ses efforts sur la progression de son art.
+En 2007, Kuei Lun-mei tient la vedette de _Secret_, réalisé par [Jay Chou](/fr/people/jay-chou/) — un tournant majeur de sa carrière. Elle y interprète Lu Xiaoyu, une élève mystérieuse qui vit une histoire d'amour traversant le temps avec le personnage de Jay Chou.
 
-## L'influence décisive d'Edward Yang
+Le film mêle romance, fantastique et musique ; Kuei Lun-mei doit rendre des strates émotionnelles complexes. Son jeu est délicat et émouvant, notamment dans les scènes de piano qui révèlent ses multiples talents.
 
-Guei Lun-Mei a bénéficié des conseils et de la bienveillance du regretté réalisateur Edward Yang, dont l'influence sur son développement artistique fut profonde. Si aucune collaboration officielle ne s'est concrétisée, la vision cinématographique de Yang a imprégné durablement sa conception du jeu.
+_Secret_ connaît un immense succès commercial et Kuei Lun-mei devient une star. Mais elle ne se laisse pas griser : elle redouble au contraire d'efforts pour approfondir son art.
 
-Yang voyait en elle le potentiel d'une grande actrice. Il l'encourageait à se concentrer sur le travail de l'interprétation, sans se laisser séduire par la gloire ou l'argent. Ces conseils ont eu une influence durable sur sa manière de choisir ses films par la suite. Guei Lun-Mei a souvent exprimé en entretien sa gratitude et son attachement à Edward Yang, qu'elle considère comme un maître fondateur. Cette relation de transmission est restée dans les mémoires du milieu cinématographique taïwanais.
+## La relation de maître à disciple avec Edward Yang
 
-## La reconnaissance internationale
+Kuei Lun-mei a bénéficié des conseils et de l'affection du regretté réalisateur [Edward Yang](/fr/people/yang-dechang/), qui a exercé une influence importante sur son développement d'actrice. Bien qu'ils n'aient jamais collaboré formellement sur un tournage, la philosophie cinématographique d'Edward Yang a profondément marqué sa conception du jeu.
 
-Les films de Guei Lun-Mei sont régulièrement sélectionnés dans des festivals internationaux, et elle a elle-même siégé dans plusieurs jurys. Ces expériences ont élargi son horizon et contribué à accroître la visibilité du cinéma taïwanais sur la scène mondiale.
+Edward Yang voyait en Kuei Lun-mei le potentiel d'une grande actrice ; il l'encourageait à se concentrer sur le perfectionnement de son art, sans se laisser tenter par la gloire et l'argent faciles. Ces enseignements ont durablement orienté ses choix de rôles.
 
-*GF*BF\* (2012), l'un de ses films marquants, la voit jouer aux côtés de Feng Shao-feng et Chang Hsiao-chuan dans une histoire de relations complexes à trois, sélectionnée dans plusieurs festivals et très bien reçue par la critique.
+Kuei Lun-mei a maintes fois exprimé en entretien sa gratitude et sa nostalgie envers Edward Yang, le considérant comme un maître décisif sur son chemin artistique. Cette relation maître-élève est devenue une belle histoire dans le milieu du cinéma taïwanais.
 
-Elle a également collaboré avec la réalisatrice hongkongaise Ann Hui sur _Our Time Will Come_, démontrant une capacité d'adaptation remarquable à des environnements culturels différents. Ces expériences de tournage transfrontaliers ont enrichi son répertoire de jeu.
+## La reconnaissance des festivals internationaux
 
-## Un sens exigeant du choix des rôles
+Les films de Kuei Lun-mei sont régulièrement sélectionnés en festivals internationaux, et elle est elle-même souvent invitée à siéger dans les jurys. Ces expériences élargissent sa perspective internationale et renforcent la visibilité du cinéma taïwanais à l'étranger.
 
-Guei Lun-Mei se distingue par une sélectivité très affirmée : elle privilégie les œuvres dotées de profondeur et d'ambition artistique, et s'écarte des productions purement commerciales. Cette exigence garantit à chacun de ses films un niveau de qualité constant.
+_Girlfriend, Boyfriend_ (2012) compte parmi ses œuvres majeures ; aux côtés de Joseph Chang et Rhydian Vaughan, elle y explore les relations complexes entre trois personnes. Le film est sélectionné dans de nombreux festivals et reçoit d'excellentes critiques.
 
-Elle a collaboré avec de nombreux grands réalisateurs taïwanais : Chung Mong-hong, Chang Tso-chi, Anthony Chen et d'autres encore, ce qui lui a permis d'explorer des styles cinématographiques variés et des approches différentes du jeu.
+Elle participe également à _Our Time Will Come_ (2017) de la réalisatrice hongkongaise Ann Hui, démontrant sa capacité d'adaptation à différents contextes culturels. Ces collaborations transrégionales enrichissent son parcours d'actrice.
 
-Elle est convaincue que le rôle d'un acteur est de se remettre en question et de se risquer à des registres nouveaux — et chacun de ses films témoigne d'une progression sensible dans son art.
+## Un goût singulier dans le choix des rôles
 
-## Une discrétion qui force le respect
+Kuei Lun-mei fait preuve d'un goût très personnel dans la sélection de ses projets : elle privilégie les œuvres profondes et artistiques, acceptant rarement les films purement commerciaux. Cette exigence garantit une certaine qualité à sa filmographie.
 
-Guei Lun-Mei est connue dans l'industrie pour une discrétion exemplaire : elle se tient à l'écart des scandales et des opérations de communication tapageuses, se concentre sur son travail sans chercher à maximiser son exposition médiatique ni à engendrer des revenus commerciaux.
+Elle collabore avec de nombreux excellents réalisateurs taïwanais, tels que Midi Z, Tom Lin Shu-yu, Chen Chih-yi, etc. Ces partenariats lui font découvrir divers styles cinématographiques et méthodes de travail.
 
-Cette réserve est une denrée rare dans le milieu du spectacle d'aujourd'hui, mais elle lui vaut le respect de ses pairs et de son public. Elle laisse ses films parler pour elle, sans artifice.
+Kuei Lun-mei estime que l'acteur doit se mettre au défi, tenter des registres variés. Chacun de ses films témoigne de sa progression et de ses ruptures dans l'art de l'interprétation.
 
-En entretien, elle insiste régulièrement sur le fait qu'elle n'est qu'une personne ordinaire, sans rien d'exceptionnel — une humilité qui la rend d'autant plus attachante.
+## Un style personnel discret
+
+Dans le milieu, Kuei Lun-mei est connue pour sa discrétion : elle participe peu aux potins médiatiques ou aux opérations de promotion tape-à-l'œil. Elle se concentre sur son métier, sans courir après l'exposition médiatique ni les profits commerciaux.
+
+Cette discrétion est rare dans l'environnement actuel du spectacle, mais elle lui vaut le respect de la profession et du public. Elle parle par ses œuvres, non par l'emballage.
+
+En entretien, elle insiste souvent sur le fait qu'elle n'est qu'une personne ordinaire, sans rien de particulier. Cette humilité la rend d'autant plus proche du public.
 
 ## Un perfectionnement constant de son art
 
-Guei Lun-Mei place en permanence le perfectionnement de son jeu au sommet de ses priorités. Elle continue d'apprendre de nouvelles techniques, participe à des ateliers de jeu et sollicite les conseils de comédiens plus expérimentés.
+Kuei Lun-mei place toujours la progression de son jeu au premier plan ; elle apprend sans cesse de nouvelles techniques et méthodes. Elle a participé à divers ateliers d'interprétation et sollicité les conseils d'acteurs chevronnés.
 
-Elle accorde une attention particulière à la construction psychologique de ses personnages, convaincue qu'un acteur doit vraiment comprendre son rôle de l'intérieur pour en livrer une interprétation authentique. Cette démarche d'immersion totale confère à ses performances une force de conviction rare.
+Elle accorde une importance capitale à la construction intérieure du personnage, convaincue que l'acteur doit véritablement comprendre son rôle pour en livrer une interprétation authentique. Cette approche en profondeur confère à ses prestations une force de conviction constante.
 
-Ces dernières années, elle s'est également essayée au théâtre, s'attaquant à des formes de jeu différentes, ce qui a encore enrichi et approfondi ses ressources d'actrice.
+Ces dernières années, elle s'essaye aussi au théâtre, relevant le défi de formes d'expression différentes. Ces expériences rendent son jeu plus complet et plus profond.
 
 ## Sa contribution au cinéma taïwanais
 
-Guei Lun-Mei est l'une des figures de proue de la nouvelle génération d'acteurs taïwanais. Son parcours prouve que Taïwan est capable de former des comédiens de niveau international, et elle a joué un rôle essentiel dans la promotion du cinéma taïwanais à l'étranger.
+Kuei Lun-mei est une figure emblématique de la nouvelle génération d'acteurs taïwanais ; sa réussite prouve que Taïwan peut former des interprètes de niveau international. Elle a apporté une contribution significative à la promotion du cinéma taïwanais sur la scène mondiale.
 
-Son style de jeu — naturel et sincère — incarne les caractéristiques d'une nouvelle génération d'acteurs taïwanais. Cette approche rompt avec le jeu dramatique traditionnel pour se rapprocher au plus près de la vérité du quotidien.
+Son style d'interprétation, naturel et sincère, incarne les caractéristiques des nouveaux acteurs taïwanais. Cette manière de jouer diffère de l'approche théâtrale traditionnelle ; elle est plus proche de la vérité de la vie.
 
-De nombreux jeunes acteurs la citent comme modèle ; ses choix de films et sa méthode de jeu offrent à la génération suivante un chemin de référence très concret.
+De nombreux jeunes acteurs prennent Kuei Lun-mei pour modèle ; ses choix de rôles et ses méthodes de travail offrent une référence concrète à la relève.
 
 ## Une collaboration en profondeur avec les réalisateurs
 
-Guei Lun-Mei excelle dans l'art de nouer une relation créative authentique avec les metteurs en scène. Elle discute longuement de la construction des personnages et des orientations de jeu, ce qui permet à ses performances d'atteindre une précision et une densité remarquables.
+Kuei Lun-mei excelle à établir des relations créatives approfondies avec les réalisateurs ; elle discute longuement de la conception du personnage et de la direction du jeu. Ce mode de collaboration rend son interprétation plus précise et plus nuancée.
 
-Sa collaboration avec le réalisateur Chung Mong-hong s'est révélée particulièrement fructueuse, _Soul_ (2013) en étant une œuvre représentative.[^1] Ce film démontre sa capacité à s'adapter à des genres cinématographiques comme le thriller.
+Sa collaboration avec le réalisateur Midi Z est particulièrement fructueuse ; _The Missing_ (2013) en est l'un des représentants. [^1] Ce film démontre sa capacité d'adaptation au genre du thriller.
 
-Pour Guei Lun-Mei, acteur et réalisateur sont des partenaires créatifs qui se doivent confiance et soutien mutuels. Elle se met toujours entièrement au service de la vision du réalisateur, tout en apportant librement ses propres suggestions.
+Kuei Lun-mei considère que l'acteur et le réalisateur sont des partenaires de création, qui ont besoin de confiance mutuelle et de coordination. Elle s'investit pleinement pour répondre aux exigences du réalisateur, tout en apportant ses propres idées.
 
-## Sa réflexion sur l'art du jeu
+## Réflexions sur l'art de l'interprétation
 
-Guei Lun-Mei réfléchit avec profondeur à son métier. Elle estime que le rôle de l'acteur est d'interpréter la complexité de la nature humaine — que chaque personnage est un individu unique qu'il faut approcher avec soin et intelligence.
+Kuei Lun-mei porte une réflexion profonde sur le métier d'actrice : elle estime que le travail de l'acteur est d'interpréter la complexité de la nature humaine. Chaque personnage est un individu unique, qui demande à être compris et rendu avec cœur.
 
-Elle insiste sur la nécessité de l'authenticité dans le jeu : à ses yeux, le public perçoit la sincérité d'un acteur. La technique est importante, certes, mais ce qui prime avant tout, c'est la vérité des émotions.
+Elle insiste sur l'authenticité du jeu, persuadée que le public perçoit la sincérité de l'acteur. La technique compte, mais l'authenticité de l'émotion est primordiale.
 
-Guei Lun-Mei s'intéresse également aux enjeux de société et espère, à travers ses œuvres, transmettre des valeurs positives. Elle croit que l'art a une fonction d'éveil et d'éducation.
+Kuei Lun-mei s'intéresse aussi aux enjeux sociaux ; elle espère transmettre des valeurs positives à travers ses œuvres. Elle croit que l'art doit avoir une fonction éducative et inspirante.
 
 ## Perspectives d'avenir
 
-Guei Lun-Mei affirme vouloir continuer à affiner son jeu et espère s'attaquer à des rôles toujours plus diversifiés. Elle envisage également, le moment venu, de passer à la mise en scène.
+Kuei Lun-mei déclare vouloir continuer à se concentrer sur le perfectionnement de son jeu, avec l'espoir de relever le défi de rôles toujours plus variés. Elle envisage également, le moment venu, de tenter la réalisation.
 
-Elle souhaite collaborer avec davantage de grands réalisateurs internationaux, pour faire rayonner le talent des acteurs taïwanais dans le monde. Elle entend aussi apporter sa contribution au développement du cinéma taïwanais.
+Elle souhaite collaborer avec davantage de grands réalisateurs internationaux, pour montrer au monde le niveau des acteurs taïwanais. Parallèlement, elle veut contribuer de ses forces au développement du cinéma taïwanais.
 
-En tant que figure emblématique des actrices de jeu, Guei Lun-Mei a la conviction qu'à condition de maintenir ses exigences de qualité et de rester sincère, on peut trouver sa place dans cette industrie. Son parcours est la démonstration vivante que le travail bien fait finit toujours par payer.
+En tant que représentante des actrices de composition, Kuei Lun-mei est convaincue qu'en persévérant dans la qualité et la sincérité, on trouve sa place dans cette industrie. Son parcours prouve l'importance de faire les choses avec cœur.
 
-## Équilibre entre vie professionnelle et vie personnelle
+## L'équilibre entre vie privée et carrière
 
-Parallèlement à sa réussite professionnelle, Guei Lun-Mei accorde une grande importance à la qualité de sa vie privée. Elle aime lire, voyager, et entretient une curiosité et un enthousiasme intacts pour la vie.
+Parallèlement à sa réussite professionnelle, Kuei Lun-mei veille à la qualité de sa vie privée. Elle aime la lecture et les voyages, conservant sa passion et sa curiosité pour la vie.
 
-Elle est convaincue que des expériences de vie riches et variées sont un atout précieux pour un acteur : ce n'est qu'en vivant vraiment que l'on peut restituer des émotions authentiques à l'écran.
+Elle considère que la richesse de l'expérience de vie est un capital précieux pour l'acteur ; seule une véritable expérience de la vie permet de restituer des émotions authentiques à l'écran.
 
-Sa philosophie de vie est simple, mais profonde : faire ce que l'on aime, chérir les êtres qui nous entourent, ne jamais perdre de vue ce qui nous a animés au départ. C'est cette attitude qui lui permet de rester lucide et intègre dans un milieu souvent trouble.
+La philosophie de vie de Kuei Lun-mei est simple et profonde : faire ce qu'elle aime, chérir ceux qui l'entourent, garder son intention originelle. Cette attitude lui permet de rester lucide et pure dans le complexe environnement du spectacle.
 
-Guei Lun-Mei a prouvé, par toute sa carrière, ce que signifie réellement être une actrice de jeu. Sans chercher le bruit, sans se livrer à des batailles vaines, elle accomplit simplement, avec soin, ce qui lui revient. Son existence même est un bien précieux pour le cinéma taïwanais et un exemple pour les acteurs qui la suivent.
+Kuei Lun-mei a démontré par sa carrière ce qu'est une véritable actrice de composition. Elle ne court pas après les grandes campagnes promotionnelles, ne s'engage pas dans des compétitions vaines ; elle accomplit simplement son devoir en silence. Sa seule existence est un atout précieux pour le cinéma taïwanais, et un modèle pour les jeunes acteurs.
 
 ## Références
 
-- [Guei Lun-Mei — Taiwan Cinema Database](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Filmographie complète
-- [Golden Horse Awards — Palmarès et nominations](https://www.goldenhorse.org.tw/) — Historique des récompenses
-- [Développement international des acteurs taïwanais — Bureau de l'audiovisuel et de la musique populaire, Ministère de la Culture](https://www.bamid.gov.tw/) — Données sur les coopérations internationales
+- [Kuei Lun-mei — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Filmographie de l'actrice
+- [Palmarès des Golden Horse Awards par édition](https://www.goldenhorse.org.tw/) — Historique des récompenses
+- [Développement international des acteurs taïwanais — Bureau de l'industrie cinématographique et de la musique populaire, Ministère de la Culture](https://www.bamid.gov.tw/) — Documentation sur les collaborations internationales
 
-[^1]: Wikipédia, entrée « Soul » (失魂) : _Soul_ (2013), réalisé par Chung Mong-hong, avec Guei Lun-Mei et Chang Hsiao-chuan. https://zh.wikipedia.org/wiki/失魂
+[^1]: Wikipédia, article « _The Missing_ » : _The Missing_ (2013), réalisé par Midi Z, avec Kuei Lun-mei et Rhydian Vaughan. https://zh.wikipedia.org/wiki/失魂
 
-[^2]: Wikipédia, entrée « Guei Lun-Mei », répertoriant les œuvres dont _Blue Gate Crossing_, _The Secret_, _GF\*BF_. https://zh.wikipedia.org/wiki/桂綸鎂
+[^2]: Wikipédia, article « Kuei Lun-mei », répertoriant _Blue Gate Crossing_, _Secret_, _Girlfriend, Boyfriend_ et autres œuvres. https://zh.wikipedia.org/wiki/桂綸鎂
 
-[^3]: _Blue Gate Crossing_ (2002), réalisé par Yee Chih-yen, avec Guei Lun-Mei et Chen Bo-lin, sélectionné dans plusieurs festivals internationaux. Taiwan Cinema Database : <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+[^3]: _Blue Gate Crossing_ (2002), réalisé par Yee Chih-yen, avec Kuei Lun-mei et Wilson Chen, sélectionné dans de nombreux festivals internationaux. Données de Taiwan Cinema : <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080
 
-[^4]: _GF\*BF_ (2012), réalisé par Yang Ya-che, nommée meilleure actrice à la 49e cérémonie des Golden Horse Awards. Site officiel des Golden Horse Awards : https://www.goldenhorse.org.tw/
+[^4]: _Girlfriend, Boyfriend_ (2012), réalisé par Yang Ya-che, nommé pour le prix de la meilleure actrice au 49e Golden Horse Awards. Site officiel des Golden Horse Awards : https://www.goldenhorse.org.tw/
 
-[^5]: _Our Time Will Come_ (2017), réalisé par Ann Hui, avec Guei Lun-Mei, illustrant une collaboration transrégionale. Hong Kong Film Archive : <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>
+[^5]: _Our Time Will Come_ (2017), réalisé par Ann Hui, avec la participation de Kuei Lun-mei, illustrant une collaboration transrégionale. Collections de la Hong Kong Film Archive : <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html
