@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14727,
+  "totalArticles": 14749,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8971,
+  "totalTags": 8954,
   "categories": [
     {
       "name": "vi",
-      "count": 1132
+      "count": 1134
     },
     {
       "name": "es",
-      "count": 1133
+      "count": 1134
     },
     {
       "name": "ko",
-      "count": 1133
+      "count": 1134
     },
     {
       "name": "hi",
-      "count": 1133
+      "count": 1134
     },
     {
       "name": "fr",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "en",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "ja",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "de",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "ru",
-      "count": 1132
+      "count": 1134
     },
     {
       "name": "Technology",
@@ -50,15 +50,15 @@
     },
     {
       "name": "id",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "ar",
-      "count": 1133
+      "count": 1134
     },
     {
       "name": "pt",
-      "count": 1133
+      "count": 1135
     },
     {
       "name": "Politics",
@@ -82,7 +82,7 @@
     },
     {
       "name": "People",
-      "count": 293
+      "count": 294
     },
     {
       "name": "Culture",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Economy",
-      "count": 79
+      "count": 80
     },
     {
       "name": "Nature",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 67
+      "count": 62
     },
     {
       "name": "人物",
@@ -124,18 +124,18 @@
     },
     {
       "name": "企業",
-      "count": 55
+      "count": 54
     },
     {
       "name": "YouTuber",
       "count": 48
     },
     {
-      "name": "科技與企業",
-      "count": 36
+      "name": "ODM",
+      "count": 35
     },
     {
-      "name": "ODM",
+      "name": "科技與企業",
       "count": 33
     },
     {
@@ -157,6 +157,10 @@
     {
       "name": "AI",
       "count": 26
+    },
+    {
+      "name": "原住民",
+      "count": 25
     },
     {
       "name": "飲食文化",
@@ -183,41 +187,37 @@
       "count": 24
     },
     {
-      "name": "原住民",
-      "count": 23
-    },
-    {
       "name": "音樂",
       "count": 23
     },
     {
-      "name": "客家",
-      "count": 23
+      "name": "奧運",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14727,
+    "zh-TW": 14749,
     "en": 0
   },
-  "lastUpdated": "2026-10-14T22:06:40.558Z",
+  "lastUpdated": "2026-10-15T22:06:22.322Z",
   "stars": 1215,
   "forks": 187,
-  "zhPages": 1131,
+  "zhPages": 1133,
   "languagePages": {
-    "zh-TW": 1131,
-    "en": 1133,
-    "ja": 1133,
-    "ko": 1133,
-    "es": 1133,
-    "fr": 1133,
-    "vi": 1132,
-    "id": 1133,
-    "pt": 1133,
-    "hi": 1133,
-    "ar": 1133,
-    "ru": 1132,
-    "de": 1133
+    "zh-TW": 1133,
+    "en": 1135,
+    "ja": 1135,
+    "ko": 1134,
+    "es": 1134,
+    "fr": 1135,
+    "vi": 1134,
+    "id": 1135,
+    "pt": 1135,
+    "hi": 1134,
+    "ar": 1134,
+    "ru": 1134,
+    "de": 1135
   },
-  "enPages": 1133,
-  "totalPages": 1131
+  "enPages": 1135,
+  "totalPages": 1133
 }

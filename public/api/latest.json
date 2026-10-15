@@ -1,280 +1,289 @@
 {
-  "_generated": "2026-10-14T22:07:20.487Z",
+  "_generated": "2026-10-15T22:07:04.206Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "大安溪倚天劍：東亞最高的樹，藏在我們到不了的地方七百年",
-        "desc": "2023 年農曆春節，找樹的人團隊溯溪七天，在大安溪源頭一處幾乎沒人到得了的深谷裡，把皮尺從一棵台灣杉的樹冠垂下來——84.1 公尺，東亞第一高樹。它比雷射光達的預測還高了 4.6 公尺。一座年年颱風、會崩會淹的島，照理不該保有這種高度的生命；但它正因為長在人類到不了的溪谷，才躲過大伐木、撐過七百年。同一份「到不了」既讓它活下來，也讓我們用雷射掃過整座島，才在這一年第一次看見它。",
-        "category": "nature",
-        "href": "/nature/%E5%A4%A7%E5%AE%89%E6%BA%AA%E5%80%9A%E5%A4%A9%E5%8A%8D",
-        "date": "2026-10-14T08:57:59+08:00",
-        "readingTime": 15,
-        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
+        "title": "林央敏：〈毋通嫌台灣〉的作者，與一部 9000 行的台語史詩",
+        "desc": "1987 年，32 歲的林央敏寫下〈毋通嫌台灣〉，這首詩後來被譜成曲，也在民國 105 年的國慶典禮上繼續被傳唱。1991 年許景淳以它拿下金曲獎最佳台語歌后，他也同時得到最佳方言歌曲作詞人獎，卻沒有去領獎。他寫的台語史詩《胭脂淚》有 9 千行、11 萬字，是台灣文學史上最長的詩，1991 年他與林宗源、黃勁連等人成立蕃薯詩社，那是台灣第一個主張以母語寫作的社團。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E5%A4%AE%E6%95%8F",
+        "date": "2026-10-15T08:30:56+08:00",
+        "readingTime": 9,
+        "image": ""
       },
       {
-        "title": "看不見的台灣：一部通靈紀錄片，和它撞見的那場和解法會",
-        "desc": "2018 年上映的《看不見的台灣》是編劇林明謙第一部紀錄長片。他原本只想拍通靈，開鏡第一天卻被眾神明喊「卡」，要先把家裡的事處理完；四年之後，鏡頭跟著四位通靈女性與一位天語翻譯，一路走到台南鹿耳門溪口，替鄭成功與西拉雅族辦了一場沒人預期會發生的和解法會。118 分鐘、台北票房 110 萬，留下的是一份台灣民間信仰的現場紀錄。",
-        "category": "art",
-        "href": "/art/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%8F%B0%E7%81%A3",
-        "date": "2026-10-14T08:57:31+08:00",
+        "title": "台灣音響產業發展",
+        "desc": "從1970年代承接日美代工起步，這座島嶼的音響產業歷經收音機、卡帶播放器到CD數位音訊的技術累積，近年轉向自有品牌與高值化，Hi-Fi品牌在國際市場建立知名度，車用與專業音響廠商技術領先，形成由中小企業主導、垂直分工且專精化程度高的完整產業鏈。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "朱宗慶",
+        "desc": "從維也納音樂院歸來的打擊樂家，用四十年把冷門藝術帶入台灣主流樂壇；他創立台灣第一支專業打擊樂團並建立完整教學體系，從專業演出到幼兒音樂啟蒙、從音樂廳到校園遍地扎根，讓節奏與活力深植社會，獲國家文藝獎肯定，被譽為台灣打擊樂之父。",
+        "category": "people",
+        "href": "/people/%E6%9C%B1%E5%AE%97%E6%85%B6",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "陳玉勳",
+        "desc": "出身眷村的台灣喜劇導演，用五部長片建立了本土喜劇的創作語法，擅長在荒誕情境中以台式幽默與人文溫暖探討深刻人生議題；深受好萊塢喜劇大師啟發的他，以《消失的情人節》奪下金馬獎最佳劇情片，為這套語法贏得最具分量的外部認可。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E7%8E%89%E5%8B%B3",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "周杰倫",
+        "desc": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕製作助理，如今已是真正顛覆樂壇的音樂革命者。",
+        "category": "people",
+        "href": "/people/%E5%91%A8%E6%9D%B0%E5%80%AB",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "林懷民",
+        "desc": "一位沒有專業舞蹈背景的小說家在美國攻讀創作時走進舞蹈教室，回台創辦華語世界第一個職業現代舞團雲門舞集，從成立至今活躍國際舞台超過半世紀，被紐約時報譽為亞洲最重要的當代舞團，完成了從文學到肢體的表演藝術冒險旅程。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E6%87%B7%E6%B0%91",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "社會運動與公民參與",
+        "desc": "從解嚴運動、野百合學運到太陽花運動與同性婚姻合法化，台灣社會以和平理性、世代傳承的方式持續推動民主化；這些行動跨越政治、環保、勞工與性別等多元領域，多數以和平進行，也有如農民運動那般的激烈衝突，在民主進程留下具體制度痕跡。",
+        "category": "society",
+        "href": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：瑞昱半導體",
+        "desc": "七位在外商工作的工程師以萬元在科學園區創業，用螃蟹當商標，推出台灣第一顆自主研發的網路晶片；如今這家設計公司名列台灣第三大，產品涵蓋網路控制器、音效與顯示控制晶片，廣布於全球主機板、路由器與電視等設備，讓這隻小螃蟹爬進世界各地的電腦裡。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：聯發科技",
+        "desc": "創辦人帶著從母公司分割的小團隊從晶片做起，交出鑰匙方案餵養了深圳的山寨機生態系，一度被譏為便宜貨製造商；這家公司後來手機晶片市占率領先老對手，營收突破百億美元，躍居全球第五大設計公司，印證一代拳王理論不斷進化才能不被挑戰者取代。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "台灣外貿與全球供應鏈",
+        "desc": "從年代的成衣玩具到今日半導體晶片，台北港的貨櫃日夜裝卸著台灣經濟奇蹟；這座島嶼以出口值名列全球前幾大經濟體，在半導體與資通訊產品掌握關鍵地位，對美出口首破千億美元、對中出口佔比高，深刻凸顯它在美中三角關係中的微妙位置。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣森林生態系",
+        "desc": "在極短水平距離內，這座島嶼從海平面攀升至玉山之巔，濃縮出從熱帶到亞北極的完整林相，木麻黃、千年檜木與玉山圓柏各據一方；高覆蓋率是全球平均值的兩倍，卻幾乎全擠在垂直山壁上，年年承受颱風、地震與暴雨的考驗，是全球密度最高也最脆弱的森林之一。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
+        "date": "2026-10-15T06:09:48+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
+        "desc": "台灣網紅廣告市場規模不到美國的百分之一，單一中型創作者卻同時經營近雙倍數量的平台，變現靠聯盟行銷而非訂閱制；從科技業產品經理轉職的頻道主翁雋明以開箱、評測紅遍網路，演繹市場極小、平台極碎下，創作者如何用另一套規則存活下來。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
+        "date": "2026-10-15T06:09:48+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "台灣與亞運：一個在名古屋誕生的名字，四十七年後又回到名古屋",
-        "desc": "2026 年 10 月 4 日名古屋亞運閉幕，中華隊帶回 5 金 17 銀 33 銅、獎牌榜第 15 名，開幕時舉的是中華奧會會旗、唱的是國旗歌。這套安排來自 1979 年 10 月國際奧會在名古屋做成的決議。台灣第一次打亞運是 1954 年馬尼拉，拿了兩面金牌，其中一面是楊傳廣的十項全能；1973 年會籍被以 38 比 13 排除，這一缺席就是二十年，直到 1990 年北京亞運才以那個名字重新進場。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E8%88%87%E4%BA%9E%E9%81%8B",
-        "date": "2026-10-13T21:43:47+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "台灣藍鵲：都市叢林裡的藍色幫派，與一場跨百年的基因保衛戰",
-        "desc": "2007 年以 18 萬票奪下國鳥寶座，這顆山林寶石卻是會「打群架」的強悍家族。牠是台灣特有種，從 1862 年郇和採集的首個標本，到今天在都市公園搶食貓糧，靠的是高達 97% 的巢邊幫手制在競爭中勝出；而在這一百多年裡，牠們也一直守著與中國紅嘴藍鵲之間的基因界線。這是一個關於生存、家族凝聚力、基因保衛戰，以及人鳥共存智慧的島嶼故事。",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E8%97%8D%E9%B5%B2",
-        "date": "2026-10-13T18:31:01+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "藍綠之外的四把尺：從一塊田到一張健保卡，台灣那些活過自己政治的政策",
-        "desc": "一個讀者厭倦了藍綠飯桌上的互罵，想記得真正對台灣好的事。於是我們找了七十年裡的十一個政策，從威權強徵農地的土地改革、解嚴、全民健保，到還在吵的同婚與前瞻，刻意不用藍綠的尺量，改用民生、民主、民權、主權四把尺。結論有點反直覺：活過自己黨派出身的政策，出生那天往往是吵得最兇的那一個。",
-        "category": "history",
-        "href": "/history/%E8%B7%A8%E9%BB%A8%E6%B4%BE%E7%9A%84%E5%A5%BD%E6%94%BF%E7%AD%96",
-        "date": "2026-10-13T18:25:09+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "台灣國片：銀幕旁那個說話的人，和一部死了又活的電影史",
-        "desc": "1930 年戲院裡，辯士站在銀幕旁用台語替默片即興口白；九十年後，《海角七號》讓五種語言一起回到銀幕上。台語片曾是全球第三大劇情片產國卻被掐死，新電影在威尼斯拿金獅的那些年，戲院裡的國片票房卻跌到只剩 0.36%。國片不是一條從爛到好的直線，是一部反覆被宣告死亡又活過來的歷史。",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1",
-        "date": "2026-10-13T18:20:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
-      },
-      {
-        "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，最老和最年輕差一個世代",
-        "desc": "同一座島，人口密度最高的臺北市每平方公里 8,975 人，最低的臺東縣只有 59 人，差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬，差 297 倍。最年輕的新竹縣高齡化率 15.08%，最老的嘉義縣 24.11%，差將近一個世代。用內政部戶政司 2025 年底的官方數據，替整座島畫一張有刻度、可查證的肖像：七成的人擠在三成的土地，老化的前緣不在都市而在東部、離島與農業縣，而全台 22 個縣市無一例外，死亡都已經多過出生。",
-        "category": "geography",
-        "href": "/geography/%E7%94%A8%E6%95%B8%E6%93%9A%E7%9C%8B%E5%8F%B0%E7%81%A322%E7%B8%A3%E5%B8%82",
-        "date": "2026-10-13T18:16:00+08:00",
-        "readingTime": 13,
-        "image": "/article-images/geography/taiwan-island-nasa-mosaic.webp"
-      },
-      {
-        "title": "台灣人小時候的英文名字：Mary、Kevin 與補習班老師的命名權",
-        "desc": "從補習班翻書頁到護照拼音到星巴克吧台，那個名字從來不是你選的。一條從 1983 何嘉仁、1987 芝麻街美語的「NO CHINESE, ENGLISH PLEASE」一路走到 2024 立法院修法允許單列族名的命名史，把問題還原回那 30 秒的停頓。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B0%8F%E6%99%82%E5%80%99%E7%9A%84%E8%8B%B1%E6%96%87%E5%90%8D%E5%AD%97",
-        "date": "2026-10-13T18:16:00+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "幾米：被當成療癒系的那些圖，是一個血癌倖存者從玻璃缸裡帶回來的",
-        "desc": "1995 年，37 歲的廣告美術指導廖福彬被宣判急性骨髓性白血病，在無菌室隔著玻璃向朋友招手。出院後，那些他原本拿來賺錢的「小人」活了起來，他開始畫《微笑的魚》《月亮忘記了》《向左走·向右走》《地下鐵》。台灣人記得的療癒、文青、宜蘭羅東幾米廣場背後，是一個去過地獄的人，把死亡與孤獨翻譯成可以被閱讀的形式，後來長成橫跨電影、音樂劇、馬戲與公共藝術的版圖，2026 年仍在香港辦 25 週年特展。",
-        "category": "people",
-        "href": "/people/%E5%B9%BE%E7%B1%B3",
-        "date": "2026-10-13T18:16:00+08:00",
-        "readingTime": 12,
-        "image": "/article-images/people/jimmy-liao-square-yilan-2016.webp"
-      },
-      {
-        "title": "台灣吧：從七年級生的動畫夢到數位教育的下半場",
-        "desc": "2014 年 9 月 1 日，《動畫臺灣史》首集上線，以一隻喝醉的黑熊引爆全台歷史熱潮。從爆紅、負債兩千萬到轉型為「大抓周學院」，台灣吧用十年時間，在娛樂與教育的裂痕中，重新定義了「知識轉譯」的商業邊界與文化主權。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E5%90%A7",
-        "date": "2026-10-13T18:12:05+08:00",
-        "readingTime": 25,
-        "image": ""
-      },
-      {
-        "title": "台灣廣告史：賣掉的東西忘了，那首廣告歌還會哼",
-        "desc": "1968 年大同電鍋的廣告歌在電視上響起，半世紀後台灣人還能接「大同大同國貨好」，卻沒人記得它原本是三洋的曲子。從日治《臺灣日日新報》的平面廣告，到只有三台的戒嚴年代把全島注意力綁在同一頻道，再到 2016 年數位廣告金額超越電視——台灣最被記得的廣告，賣的商品常被忘記，留下的卻是一整個時代的聲音。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2",
-        "date": "2026-10-13T18:12:05+08:00",
-        "readingTime": 14,
-        "image": "/article-images/culture/tatung-cooker-100th-2019.webp"
-      },
-      {
-        "title": "台灣辦桌：暴雨裡照樣開桌的武場，和一套正在收棚的人神鬼三界",
-        "desc": "一場 120 桌的辦桌，傍晚暴雨淹到小腿、鱒魚游走十幾條，總鋪師汪義勇袖子一挽下水捉魚，最後只少一條。三百年來辦桌就是這樣，主家沒喊停就得開桌。如今這門手藝正在分岔：菜進了五星飯店與米其林、紅回海外，那套全村出動、橫跨人神鬼三界的儀式知識，卻在沒人接班裡安靜失傳。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
-        "date": "2026-10-13T18:12:05+08:00",
-        "readingTime": 12,
-        "image": "/article-images/food/bando-ghost-festival-banquet-2017.webp"
-      },
-      {
-        "title": "飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」",
-        "desc": "從清代糯米食文化到江南粢飯的跨海演變，台式飯糰以其獨特的「老油條」與「手捏工法」成為台灣早餐的靈魂。本文深度解析其歷史前傳、製作工藝、現代創新口味及引發國際熱議的「暈碳文化」。",
-        "category": "food",
-        "href": "/food/%E9%A3%AF%E7%B3%B0",
-        "date": "2026-10-13T18:12:05+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器",
-        "desc": "紀懷新是 Google DeepMind 研究副總裁，也是讓 AI 學會「一步一步推理」的思維鏈論文共同作者。這個在淡水長大的台灣人，把認知心理學裡「人怎麼學習」的概念（Piaget 的基模理論）變成了教機器推理的方法。而這份改變 AI 的突破只花了約五千美金，因為那從來就不是算力能解決的問題。",
-        "category": "people",
-        "href": "/people/%E7%B4%80%E6%87%B7%E6%96%B0",
-        "date": "2026-10-13T18:12:05+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/ed-chi-deepmind-talk-2026.webp"
-      },
-      {
-        "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
-        "desc": "尊從國二拍遊戲實況，到 19 歲成為當時台灣最年輕的百萬 YouTuber，再把副頻道也帶過百萬。跨越十四個曆年的資料，記下他面對創作包袱、家人風暴與業配失誤，慢慢長成大人的過程。",
-        "category": "people",
-        "href": "/people/%E5%B0%8A",
-        "date": "2026-10-13T18:06:20+08:00",
-        "readingTime": 11,
-        "image": "/article-images/people/zun-new-home-2025.webp"
-      },
-      {
-        "title": "彎彎：給一代上班族一張臉的光頭人，和讓它「變成歷史人物」的胡家瑋",
-        "desc": "辦公室還靠 MSN 溝通的年代，不敢對老闆開口的上班族，把大頭貼換成一個沒穿衣服、頭頂一根捲毛的光頭人，讓它替自己喊「我想下班」。畫它的胡家瑋從月薪 9,000 元的設計助理，意外成了台灣第一個瀏覽破億的部落格、圖文創作的開山鼻祖。光頭人永遠天真不老，畫它的人卻會長大；於是她讓角色跟自己一起退場，「變成歷史人物」。",
-        "category": "people",
-        "href": "/people/%E5%BD%8E%E5%BD%8E",
-        "date": "2026-10-13T18:06:20+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣",
-        "desc": "2024年8月11日，巴黎羅蘭蓋洛斯球場上，林郁婷以壓倒性姿態摘下台灣奧運史上首面拳擊金牌。從鶯歌國中的地下拳館出發，她歷經東京奧運挫敗、四強賽對手的「X」手勢挑釁、國際政治博弈與全球跨國網路霸凌。本文深度解構其「魔法師」哲學、長年陪練員李承威的幕後貢獻、技術演變、性別科學、文化大學教職、社會凝聚力與拳擊四后的革命情感，並收錄 2026 年 World Boxing 正式認可其參賽資格的最新史詩進展。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E9%83%81%E5%A9%B7",
-        "date": "2026-10-13T18:06:20+08:00",
-        "readingTime": 25,
-        "image": ""
-      },
-      {
-        "title": "王大閎：把包浩斯精神帶進台灣，用現代建築凝視東方靈魂的建築詩人",
-        "desc": "1965 年國父紀念館競圖脫穎而出，師從包浩斯大師葛羅培斯的王大閎，用一生在台灣試圖解答傳統與現代的張力：他的建築極簡自律，卻在屋檐起翹與黑牆白瓦中，為戰後台灣刻下最優雅的現代主義詩篇。",
-        "category": "people",
-        "href": "/people/%E7%8E%8B%E5%A4%A7%E9%96%8E",
-        "date": "2026-10-13T18:06:20+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "莫那·魯道：被刻上二十元硬幣的抗日英雄，和那個沒有中國也沒有日本的世界",
-        "desc": "2001 年，台灣央行把抗日英雄莫那·魯道的臉刻上二十元硬幣。但造幣廠找遍國內史料都沒有他的照片，最後是在一本日文雜誌裡撈出來的。從 1930 年霧社運動會那個清晨，到一具當了約四十年人類學標本的遺骸，三個政權各自需要他。而他真正捍衛的那個有彩虹橋、紋面、Gaya 的世界裡，從來沒有中國，也沒有日本。",
-        "category": "people",
-        "href": "/people/%E8%8E%AB%E9%82%A3%C2%B7%E9%AD%AF%E9%81%93",
-        "date": "2026-10-13T18:06:20+08:00",
-        "readingTime": 20,
-        "image": "/article-images/people/mona-rudao-seediq-leaders-1931.webp"
-      },
-      {
-        "title": "複雜生活節：兩個醫學生的「未成功者論壇」，和一個世代不肯說自己夠好的五年",
-        "desc": "2016 年 5 月，許皓甯在臉書標了一串「把生活搞得很累」的八年級，跟同學黃豆泥辦了第一屆「未成功者論壇」。一個中醫師、一個後來去哈佛的西醫，把上一代被商業收編的「簡單」改寫成「複雜」，只准談成長不准談成功。五年後靈魂留在台中開書店選輸議員，助手回頭把它叫做「皓甯的代表作，封存於此」：未成功到底是謙詞，還是一個世代始終差那麼一點點的自我要求。",
-        "category": "society",
-        "href": "/society/%E8%A4%87%E9%9B%9C%E7%94%9F%E6%B4%BB%E7%AF%80",
-        "date": "2026-10-12T19:35:20+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/complex-festival-onsite-program.webp"
-      },
-      {
-        "title": "羅大佑：唱盡台灣失根的人，自己搬了十九次家還在找路",
-        "desc": "1970 年代，台中一間醫學院的大體解剖室裡，一個放射科醫學生躲著練唱，因為「那邊回聲很好，沒有人會知道我在唱歌」。後來他寫〈鹿港小鎮〉〈亞細亞的孤兒〉〈東方之珠〉，替整個世代問出「我是誰」。可是這個唱遍失根的人，自己從台北搬到紐約、香港、北京，二十九年搬了十九次家。七十歲那年他說自己只是「了不起的倖存者」。",
-        "category": "people",
-        "href": "/people/%E7%BE%85%E5%A4%A7%E4%BD%91",
-        "date": "2026-10-12T19:32:00+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/lo-ta-yu-2011.webp"
-      },
-      {
-        "title": "看不見的國家：一個美國導演按了七年快門，拍一個世界決定不看的島嶼",
-        "desc": "2025 年 6 月台灣戲院，一部美國人拍的紀錄片賣破三千七百萬、登上紀錄片影史第三。葛靜文花七年、五次貼身專訪蔡英文，把一個被聯合國除名、邦交國從 22 掉到 12、奧運只能叫「中華台北」的島嶼推到鏡頭前。但最被質疑的，是這部要讓台灣「被看見」的片，自己讓誰留在了框外——看見從來是一個動作，不是一種地位。",
-        "category": "art",
-        "href": "/art/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%9C%8B%E5%AE%B6",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": null,
-        "image": "/article-images/art/invisible-nation-tsai-walks.webp"
-      },
-      {
-        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
-        "category": "technology",
-        "href": "/technology/mini-taiwan-pulse",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": 20,
-        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
-      },
-      {
-        "title": "台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子",
-        "desc": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": 17,
-        "image": "/article-images/society/taipei-ximending-smoking-booth-2026.webp"
-      },
-      {
-        "title": "報導者：把調查報導從營業項目救成公共財的十年",
-        "desc": "從 4 位定期定額捐款者到每月 8,000 位，從《血淚漁場》三部曲到 2026 統戰專題，《報導者》十年燒掉的成本——八個月臥底、跨三國採訪、比對多年違規紀錄——正好是演算法時代最沒人想付錢看的東西。這座島嶼的公民社會用陌生人每月扣款的方式，把調查報導從商業媒體的營業項目，救成一塊一直在養、卻越燒越快的公共財。",
-        "category": "society",
-        "href": "/society/%E5%A0%B1%E5%B0%8E%E8%80%85",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/the-reporter-brand-logo.webp"
-      },
-      {
-        "title": "台灣顯示器產業：從一片 TFT-LCD 到 Micro LED 的轉身",
-        "desc": "台灣曾在 2002 年成為全球第二大面板生產與供應地；今天，顯示器產業面對規模競爭，正把製程、材料、設備與場域整合成下一代 Micro LED 的新路線。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%A1%AF%E7%A4%BA%E5%99%A8%E7%94%A2%E6%A5%AD",
-        "date": "2026-10-12T19:25:05+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣的公車系統：當新竹客運開走以後，誰來接那些沒有方向盤的人",
-        "desc": "2024 年 9 月 15 日早上，銅鑼火車站，30 多人從幼兒園小朋友等到 90 歲長者，搭新竹客運 5658 最後一班。從台北 1977 年第一條聯營路線，到偏鄉一天剩兩班、駕駛平均年齡 51 歲、TPASS 月票讓花蓮搭乘暴增近七成，公車載的始終是沒得選的人：通學的少年、不開車的長者、無車的家庭，而它正從這些人腳下被一條一條抽走。",
+        "title": "台灣公園與日常休閒",
+        "desc": "清晨的大安森林公園裡，長者跟著國樂打太極、練外丹功，午後家長帶孩子嬉戲，傍晚上班族下班散步，深夜屬於遛狗的人與需要安靜的靈魂；同一座公園在不同時段輪替登場，構成跨世代交錯使用的社交場域，也映照出台北都會日常的節奏與溫度。",
         "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%85%AC%E8%BB%8A%E7%B3%BB%E7%B5%B1",
-        "date": "2026-10-12T19:25:05+08:00",
-        "readingTime": 24,
-        "image": "/article-images/lifestyle/scooters-and-bus-taipei-1996.webp"
-      },
-      {
-        "title": "台灣的五到九年級生：草莓罵了三十年換三批人，斜掉的是腳下那座扶梯",
-        "desc": "1993 年「草莓族」第一次印出來時，罵的是現在最愛懷舊養樂多的五年級生。三十年來被罵的人換了好幾批，標籤一字沒改。真正在五到九年級之間移動的，是那座「努力就有回報」的扶梯：它在 2002 年前後變慢，入口被房價拉高，然後裂成兩條，純靠薪水的那條近乎停了，靠父母資本的那條還在動。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%B9%B4%E7%B4%9A%E7%94%9F%E4%B8%96%E4%BB%A3",
-        "date": "2026-10-12T19:20:49+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/budaixi-puppets-2023.webp"
-      },
-      {
-        "title": "國宅與居住正義：政府蓋的便宜房，最後養出誰的資產扶梯",
-        "desc": "1985 年成功國宅一坪 6.7 萬還沒人要，老里長湊 40 萬頭期款買下；四十年後同一個門牌逼近一坪百萬。國宅本是「幫人民買得起房」的工具，卻從沒裝上增值回收的閘門，公共補貼最後變成早買者的私人資產。2026 桃園把那道閘門裝回去，等於替國宅認錯。",
-        "category": "society",
-        "href": "/society/%E5%9C%8B%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
-        "date": "2026-10-12T19:20:49+08:00",
-        "readingTime": 16,
-        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
-      },
-      {
-        "title": "台灣流行音樂：替全世界做嫁衣的島，最後剩下能唱別人不能唱的",
-        "desc": "1997 年台灣是亞洲第二大唱片市場，全華語樂壇八成歌曲在這裡製作。2005 年產值剩四分之一，市場被中國超越，連周杰倫巔峰一張也只賣 30 萬。當別處的歌會因一句歌詞、一面旗、一個忌諱而消音，這座輸掉規模的島，把「能不能唱」本身變成最後也最硬的籌碼。",
-        "category": "music",
-        "href": "/music/%E5%8F%B0%E7%81%A3%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82",
-        "date": "2026-10-12T19:18:12+08:00",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
+        "date": "2026-10-15T06:09:48+08:00",
         "readingTime": null,
-        "image": "/article-images/music/sunflower-movement-crowd-2014.webp"
+        "image": ""
+      },
+      {
+        "title": "台灣文化創意園區發展",
+        "desc": "台灣的文創園區起源於年代的舊建築活化，以華山、松山文創園區與駁二藝術特區為代表，將廢棄酒廠、菸廠等工業設施轉型為創意產業聚落；政府推動文創產業發展計畫並立法，提供法制支持，從廢棄廠房蛻變為國際知名文化地標，兼具城市再生與產業升級的雙重意義。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣當代雕塑發展",
+        "desc": "台灣當代雕塑從傳統木雕發展而來，經歷黃土水奠定現代基礎、楊英風建立當代語彙、朱銘將東方精神融入國際視野三個世代；從現代雕塑運動起，藝術家在材料、主題與空間上屢有突破，朱銘美術館與戶外雕塑公園遍布全台，新世代持續推動多元發展，在國際展覽累積能見度與收藏認可。",
+        "category": "art",
+        "href": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "教育制度與升學文化",
+        "desc": "台灣教育以高度競爭的升學文化著稱，從九年國民義務教育延伸為十二年國教；體系分普通與技職雙軌，但社會仍偏重學術成就造成激烈競爭，近年改革強調多元發展與適性揚才，如何在競爭與多元、菁英與普及之間取得平衡，仍是這個社會面臨的核心挑戰。",
+        "category": "society",
+        "href": "/society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "台灣水庫與水資源管理",
+        "desc": "在年降雨量豐沛的雨島之上，水資源卻因降雨集中在颱風季節且雨影區明顯而常感吃緊；從石門、曾文到翡翠、南化，水庫系統承載萬人用水命脈，梅雨不來與颱風避開讓水情成為年度關鍵字，南北分配不均疊加淤積問題，嚴峻考驗這座島嶼的用水未來。",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "台灣街頭藝術與塗鴉文化",
+        "desc": "台灣街頭藝術自解嚴後隨嘻哈文化傳入，從西門町深夜噴漆的地下場景，到退伍軍人黃永阜在台中軍眷村牆面彩繪催生的彩虹村模式，高雄駁二等文創空間陸續提供合法舞台，政府邀請藝術家進駐園區，將近三十年的演進折射出社會開放與城市空間再定義的軌跡。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣冰品文化",
+        "desc": "台灣人對冰品的熱愛世界少有，冬天依然高朋滿座；這項文化可追溯至日治時期製冰技術引進，歷經戰後剉冰普及與年代雪花冰出現，台中陳溪參考日本四果冰發展出蜜豆冰，玉井芒果冰揚名海外，甚至帶動製冰冷藏漁業，是一條有具體時間節點可追溯的演變史。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": null,
+        "image": "/article-images/food/taipei-mango-shaved-ice.webp"
+      },
+      {
+        "title": "台灣眷村歷史",
+        "desc": "年起國民政府為安置隨軍眷屬興建眷村，竹籬笆、黃泥巴與鐵皮搭起一戶不到坪的臨時家園；桃園忠貞新村收容自緬北撤台的孤軍眷屬，這群人在中緬邊境打了將近四年游擊才輾轉來台，承載流亡與定居、故鄉與他鄉的辯證，最終從竹籬笆演變為國宅，成為台灣多元文化的重要基因。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
+        "date": "2026-10-15T05:41:33+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣聲音地景",
+        "desc": "從垃圾車傳出的旋律到廟口北管鑼鼓，從布農族八部合音到夜市叫賣，每一種聲響都是活的文化密碼；這裡的機車密度全球最高，引擎聲組成獨特交響曲，廟會音樂、原住民複音與庶民消費的聲音劇場層層疊疊，拼出獨一無二的城市指紋，記錄著歷史、記憶與身份認同。",
+        "category": "music",
+        "href": "/music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
+        "date": "2026-10-15T05:41:33+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "農業科技與精緻農業",
+        "desc": "以不到萬平方公里的土地，台灣從蓬萊米之父磯永吉以降長期品種改良，發展出蘭花、鳳梨釋迦、高山茶等精緻農產品，在國際市場占有關鍵地位，農業與農食鏈更撑起廣大就業，如今結合物聯網等新科技走向智慧農業，以精緻取代粗放、科技取代勞力，驗證小國在全球農業競爭中的獨特定位。",
+        "category": "economy",
+        "href": "/economy/%E8%BE%B2%E6%A5%AD%E7%A7%91%E6%8A%80%E8%88%87%E7%B2%BE%E7%B7%BB%E8%BE%B2%E6%A5%AD",
+        "date": "2026-10-15T05:41:33+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "台灣石虎保育",
+        "desc": "雲豹滅絕後，全島最後的原生貓科只剩這隻淺山幽靈；牠不住深山，棲息在苗栗、南投、台中低海拔淺山地帶，馬路車禍、棲地被工廠覆蓋、雞隻屢遭偷獵與流浪犬環伺，估計數量不到五百隻且持續下滑，已被列為一級瀕臨絕種保育類野生動物，是台灣發展與保育最尖銳的正面對決。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E7%9F%B3%E8%99%8E%E4%BF%9D%E8%82%B2",
+        "date": "2026-10-15T05:35:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣長期照顧制度發展",
+        "desc": "台灣靠制度設計打造出亞洲最先進的長照體系，官方每年投入鉅額預算服務廣大民眾；但與此同時，數十萬名外籍家庭看護工在家戶裡默默撐起規模更大的隱形照顧網絡，兩套平行體系幾乎不相往來，交織出制度設計、社會價值與現實妥協的深刻矛盾故事。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E5%88%B6%E5%BA%A6%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T05:35:21+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣農業與農村再生",
+        "desc": "從日治時期的蓬萊米育種、戰後的土地改革，到今日的精緻農業與農食鏈經濟，這座島嶼的農業從量產稻米王國蛻變為創意與永續並存的新典範，返鄉青年以手機直播結合產地直送讓消費者下單預購，使流失人口的農村村落重生為文化與生態的重要根基。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E8%88%87%E8%BE%B2%E6%9D%91%E5%86%8D%E7%94%9F",
+        "date": "2026-10-15T05:35:21+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣花布",
+        "desc": "這類花布源自日治時期的現代紡織工業，以色澤豔麗的牡丹、菊花、玫瑰圖樣層疊綻放於布料，成為被子、枕套與禮品袋的日常風景，曾歷經製造高峰與沒落，近年隨本土化運動重新被重視，更被設計師與藝術家賦予當代新詮釋，從工業產品蛻變為各族群共同的台灣文化符號。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%8A%B1%E5%B8%83",
+        "date": "2026-10-15T05:31:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "牛肉麵",
+        "desc": "從農業社會「牛是幫手、毋食牛」的飲食禁忌，到戰後外省移民以各省烹調工藝交融出紅燒、清燉、番茄等流派，一碗國民麵食承載省籍交融與味覺記憶，近年透過專屬美食節與國際名單推薦，這碗麵從街頭小吃躍上全球美食舞台，成為台灣飲食文化多元包容精神的閃亮明星。",
+        "category": "food",
+        "href": "/food/%E7%89%9B%E8%82%89%E9%BA%B5",
+        "date": "2026-10-15T05:31:34+08:00",
+        "readingTime": null,
+        "image": "/images/wiki/5be514264de6.jpg"
+      },
+      {
+        "title": "溫泉文化",
+        "desc": "台灣溫泉源自日治時期軍事醫療需求，從北投天狗庵的偶然發現，演化為密度冠絕全球的溫泉聚落，關子嶺泥質溫泉與綠島海底溫泉更是世界僅有的地質奇蹟，這座島嶼融合日式療癒傳統與本土社交文化，交織出戰爭與療癒意外而生的文明故事。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E6%BA%AB%E6%B3%89%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T05:31:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣手搖飲文化",
+        "desc": "從1980年代珍珠奶茶的誕生開始，手搖飲成為這座島嶼最具代表性的生活符號：街角的50嵐、商圈的貢茶、傳統的春水堂，到新潮的迷客夏，色彩繽紛的招牌隨處可見。以創意茶飲拓展全球市場，記錄著台灣人對生活品質的追求、對創新的熱情與共同記憶。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T04:44:37+08:00",
+        "readingTime": 8,
+        "image": "/article-images/food/classic-bubble-tea-2013.webp"
+      },
+      {
+        "title": "台灣發酵食品與醃製文化",
+        "desc": "融合閩南、客家、原住民與日式技術，台灣的發酵食品與醃製文化發展出獨特的風味體系：從街頭巷尾的臭豆腐到家家戶戶的豆腐乳，從醬菜到酒釀，這些看似平凡的食品背後藏著深厚的科學原理與文化傳承。發酵食品既是食品工業的一環，也是連結族群記憶與現代生活的文化橋樑，記錄了島嶼的飲食智慧。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E7%99%BC%E9%85%B5%E9%A3%9F%E5%93%81%E8%88%87%E9%86%83%E8%A3%BD%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T04:44:37+08:00",
+        "readingTime": 15,
+        "image": "/article-images/food/xizhen-stinky-tofu-fermented-2019.webp"
       }
     ],
     "en": [
+      {
+        "title": "A History of Environmental Movements in Taiwan",
+        "desc": "The developmental trajectory of Taiwan's environmental movement, from 1980s anti-pollution protests to recent plastic reduction campaigns, witnessing the intersection of environmental awareness and democratization.",
+        "category": "nature",
+        "href": "/en/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "The Formosa Incident",
         "desc": "A military trial that was supposed to completely collapse the opposition movement unexpectedly became the most powerful propaganda film for Taiwan's democracy due to its broadcast.",
@@ -375,8 +384,8 @@
         "image": ""
       },
       {
-        "title": "Ed Chi: The Taiwanese Who Taught AI to 'Think Step by Step' Brought Cognitive Psychology into Machines",
-        "desc": "Ed Chi is the Research Vice President at Google DeepMind and co-author of the Chain of Thought paper that taught AI to 'reason step by step.' This Taiwanese who grew up in Tamsui turned the cognitive psychology concept of 'how humans learn' (Piaget's schema theory) into a method for teaching machines to reason. And this breakthrough that changed AI cost only about $5,000, because it was never a problem that computing power could solve.",
+        "title": "Ed Chi: The Taiwanese Man Who Taught AI to \"Think Step-by-Step\" by Bringing Cognitive Psychology into Machines",
+        "desc": "Ed Chi is a Research Vice President at Google DeepMind and a co-author of the Chain of Thought paper. This man, raised in Tamsui, turned Piaget's schema theory into a method for machine reasoning—a breakthrough that cost only about \\$5,000 because it was never a problem of computing power.",
         "category": "people",
         "href": "/en/people/chi-huai-hsin",
         "date": "2026-10-10T23:40:25+08:00",
@@ -535,15 +544,6 @@
         "date": "2026-10-10T23:33:38+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "Houtong: The Camera That Saved a Mountain Town Also Fed Taiwan's Largest Cat Dumping Ground; TNVR Patches Up What Tourism's Good Intentions Couldn't Finish",
-        "desc": "In 2009, photographer Chien Pei-ling (Cat Lady) walked into a forgotten mountain town along the Pingxi Line that had been abandoned for 19 years after the Ruisan coal mine ceased operations in 1990. Her camera turned Houtong into one of CNN's six best cat-watching destinations in the world in 2013. But the 'Cat Paradise' label bred Taiwan's largest cat dumping ground — a 2012 feline distemper outbreak, at least 10 cat abuse cases in 2013, and a 2022 abandonment case fined NT$110,000. In 2014, Cat Lady quit, leaving behind the words: 'Endlessly exploiting the cats, exploiting me, exploiting Houtong.' In January 2026, TNVR brought the cat population from 200–300 down to 30-something, and Mirror Weekly reported it under a 'village extinction' frame. But what disappeared wasn't the cat village — it was the 'single influencer IP propping up local revitalization' model.",
-        "category": "geography",
-        "href": "/en/geography/houtong-cat-village",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/houtong-keelung-river-2016.webp"
       }
     ],
     "ja": [
@@ -576,7 +576,7 @@
       },
       {
         "title": "台湾ソフトウェア産業の発展",
-        "desc": "受託製造思考からソフトウェア革新へ、台湾がポスト半導体時代に新たな定位を見出すまで",
+        "desc": "デジタル経済時代において、純粋なハードウェア製造の付加価値が圧迫される中、ソフトウェアとサービスが真の価値創造者となっています。経済部統計処のデータによると、2023年のコンピュータおよび情報サービス業の年間売上高は約5,700億ニュー台湾ドル、前年比8.9%増で過去最高を記録しました。デジタル変革、ソフトウェアサービス、AI応用からゲーム産業まで、台湾が「製造大国」から「イノベーション大国」へ転換する上で、ソフトウェア産業はこの転換の鍵となる戦場です。",
         "category": "technology",
         "href": "/ja/technology/taiwan-software-industry-development",
         "date": "2026-10-10T23:46:16+08:00",
@@ -819,6 +819,15 @@
       }
     ],
     "ko": [
+      {
+        "title": "위우잉 국가예술문화센터: 담장 없는 극장으로 변신한 군사 기지",
+        "desc": "1992년 시민 운동이 가오슝 위우잉을 군사 용지의 미래에서 공공 담론으로 돌려놓았으며, 2018년 10월 13일 15년과 107.5억 대만 달러(NT$)의 공사를 거쳐 개관했다. 뽕나무 같은 지붕 아래 네 개의 공연장이 숨겨져 있지만, 이 건물이 진정으로 답해야 할 질문은 예술이 티켓을 구매하기 전부터 도시의 일상이 될 수 있는지이다.",
+        "category": "art",
+        "href": "/ko/art/weiwuying-arts-center",
+        "date": "2026-10-14T11:10:16+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "대규모 소환 운동: 33건 전부 부결된 역사상 최대 소환 운동, 타이완 민주주의의 모든 눈금을 측정하다",
         "desc": "2025년 7월 26일 심야, 대만 전역 3분의 1 선거구에서 동시 개표, 25개 소환안 전부 부결. 청조 행동에서 130만 명 이상의 서명, 3차 투표 33건 제로 기록에 이르기까지, 이 타이완 역사상 최대 규모 소환 운동은 한 사람도 소환하지 못했지만, 민주주의의 동원 에너지, 문턱의 높이, 양극화의 대가를 처음으로 동시에 측정해냈다.",
@@ -1079,15 +1088,6 @@
         "date": "2026-10-10T23:46:19+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "哈哈台: 길거리 인터뷰로 탄생한 대만의 유튜브 왕국",
-        "desc": "2015년 개국, 2019년 '길거리에서 만나는 평범한 사람들' 시리즈로 폭발적인 인기를 얻은 유튜브 채널 '하하타이(HahaTai)'는 백만 조회수를 돌파한 '闲人(여유인)' 영상과 날카로운 내레이션으로 대만 전역은 물론 싱가포르, 호주까지 촬영 범위를 넓혔다. '차이징 어워드(走鐘獎)' 올해의 영상상을 수상하는 등 성공을 거두었으나, '가짜 길거리 시민' 조작 파문으로 인한 신뢰 위기도 겪었다. 이 글은 낯선 사람들의 진심을 어떻게 대만 전역의 공명으로 만들었는지, 그리고 10년간의 궤적을 재조명한다.",
-        "category": "society",
-        "href": "/ko/society/hahatai",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "es": [
@@ -1228,7 +1228,7 @@
       },
       {
         "title": "Literatura indígena",
-        "desc": "Desde las canciones sin palabras hasta la escritura, una historia milenaria de evolución literaria",
+        "desc": "Desde la publicación de obras intelectuales en 1932, la literatura de los pueblos indígenas de Taiwán ha pasado de la tradición oral a la escrita, representando una revolución del pensamiento y un puente hacia el mundo austronesio.",
         "category": "art",
         "href": "/es/art/indigenous-literature",
         "date": "2026-10-10T23:40:32+08:00",
@@ -1427,8 +1427,8 @@
         "image": ""
       },
       {
-        "title": "Réservoirs et gestion des ressources en eau à Taïwan",
-        "desc": "De la crise de sécheresse à l'envasement des barrages, les défis de la gestion de l'eau à Taïwan et les inégalités de répartition entre le nord et le sud",
+        "title": "Barrages de Taïwan et gestion des ressources en eau",
+        "desc": "Sur une île pluvieuse à forte pluviométrie annuelle, les ressources en eau sont souvent tendues en raison de précipitations concentrées durant la saison des typhons et d'un effet d'ombre pluviométrique marqué.",
         "category": "geography",
         "href": "/fr/geography/taiwan-reservoirs-and-water-resource-management",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1589,8 +1589,8 @@
         "image": ""
       },
       {
-        "title": "L'architecture de Taïwan",
-        "desc": "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île",
+        "title": "Architecture de Taïwan",
+        "desc": "Des maisons en pierre du peuple Paiwan aux bâtiments en briques rouges laissés par Matsunosuke Moriyama, des lignes de Wang Da-hong qui ont jeté les bases de l'architecture moderne aux édifices publics sans clôture construits par Huang Sheng-yuan au milieu des rizières d'Yilan. Au cours des quatre cents dernières années, la sagesse architecturale des autochtones, des Hollandais, des Japonais et des Chinois s'est entrechoquée sur cette île, une caractéristique hybride que la Biennale d'architecture de Venise a décrite comme « maintenir la localité dans la mondialisation ».",
         "category": "art",
         "href": "/fr/art/taiwanese-architecture",
         "date": "2026-10-10T23:40:35+08:00",
@@ -2225,8 +2225,8 @@
         "image": ""
       },
       {
-        "title": "Reservatórios e Gestão de Recursos Hídricos em Taiwan",
-        "desc": "Da crise de escassez hídrica à acumulação em reservatórios, os desafios dos recursos hídricos em Taiwan e a dificuldade da distribuição desigual entre norte e sul",
+        "title": "Reservatórios de Taiwan e Gestão de Recursos Hídricos",
+        "desc": "Em uma ilha chuvosa com precipitação anual abundante, os recursos hídricos são frequentemente escassos devido à concentração de chuvas na temporada de tufões e às zonas de sombra de chuva; de Shimen a Zengwen, de Feicui a Nanhua, o sistema de reservatórios sustenta a vida de milhões.",
         "category": "geography",
         "href": "/pt/geography/taiwan-reservoirs-and-water-resource-management",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2270,8 +2270,8 @@
         "image": ""
       },
       {
-        "title": "Arte de Rua e Cultura de Graffiti em Taiwan",
-        "desc": "Do graffiti underground à pintura legalizada, como as paredes da cidade se tornaram o palco de criação dos artistas de Taiwan",
+        "title": "Arte de Rua e Cultura de Grafite em Taiwan",
+        "desc": "A arte de rua em Taiwan surgiu com a cultura hip-hop após o fim da lei marcial, evoluindo de cenas clandestinas em Ximending para modelos de \"vilas coloridas\" e espaços culturais legítimos.",
         "category": "culture",
         "href": "/pt/culture/taiwan-street-art-and-graffiti-culture",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2405,8 +2405,8 @@
         "image": ""
       },
       {
-        "title": "Os Ecossistemas Florestais de Taiwan",
-        "desc": "Uma viagem vertical do nível do mar ao topo do Monte Jade, atravessando o espectro florestal mais denso da Terra.",
+        "title": "Ecossistemas Florestais de Taiwan",
+        "desc": "Em uma distância horizontal curtíssima, esta ilha sobe do nível do mar ao topo de Yushan, concentrando todos os tipos de florestas, do tropical ao subártico.",
         "category": "nature",
         "href": "/pt/nature/taiwan-forest-ecosystems",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2415,7 +2415,7 @@
       },
       {
         "title": "Chen Yu-hsun",
-        "desc": "Diretor de cinema de comédia de Taiwan, criador de \"Peixes Tropicais\", \"O Mestre dos Banquetes\" e \"O Dia dos Namorados que Desapareceu\"",
+        "desc": "Diretor de comédia taiwanês nascido em uma vila de dependentes militares, que estabeleceu uma gramática criativa para a comédia local com cinco longas-metragens, destacando-se por explorar questões profundas da vida com humor taiwanês e calor humano em situações absurdas; profundamente inspirado por mestres da comédia de Hollywood, ele conquistou o prêmio de Melhor Filme no Golden Horse Awards com \"Meu Amor Desaparecido\", obtendo o reconhecimento externo mais significativo para essa gramática.",
         "category": "people",
         "href": "/pt/people/chen-yu-hsun-taiwan-comedy-film-magician",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2451,6 +2451,15 @@
       }
     ],
     "hi": [
+      {
+        "title": "ताइवान का पर्यावरण आंदोलन इतिहास",
+        "desc": "ताइवान का पर्यावरण आंदोलन 1980 के दशक के प्रदूषण-विरोधी संघर्ष से लेकर हाल के प्लास्टिक-कटौती आंदोलन तक के विकास पथ को दर्शाता है, जो ताइवानी समाज में पर्यावरणीय चेतना के जागरण और लोकतंत्रीकरण प्रक्रिया के अंतर्गुंफन का साक्षी है।",
+        "category": "nature",
+        "href": "/hi/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "ताइवान में कोविड-19 महामारी और टीकाकरण: अठारह महीने जो मिले और वह एक खुराक जो नहीं मिली",
         "desc": "15 फरवरी 2020 को, एक सफेद टैक्सी चालक जो विदेश नहीं गया था, की मृत्यु हुई - यह ताइवान में COVID-19 से पहली मृत्यु थी। सीमा नियंत्रण और राष्ट्रीय स्वास्थ्य बीमा कार्ड के माध्यम से, ताइवान ने महामारी को लगभग अठारह महीने तक बाहर रखा, 2020 में कुल 799 पुष्टि किए गए मामले और 7 मृत्यु हुई। लेकिन पहली बैच टीकाएं मार्च 2021 में आईं, केवल 117,000 खुराकें; जब 2022 में ओमिक्रॉन आया, तो बुजुर्गों की तीसरी खुराक अभी भी पिछड़ी हुई थी। उस वर्ष मृत्यु की माध्यिका आयु 82 वर्ष थी, जो पिछले वर्ष से दस वर्ष अधिक थी। कीमत वहन करने वाले अन्य समूह - जिनके राहत आवेदन खारिज कर दिए गए, जो अस्पताल से निकल गए, जो छात्रावास में बंद रहे - आज तक कई किसी भी आंकड़े में शामिल नहीं हैं।",
@@ -2711,15 +2720,6 @@
         "date": "2026-10-10T23:41:36+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "पौष्टिक दोपहर का भोजन: स्किम्ड मिल्क पाउडर से फ्लोरोसेंट करी तक, ताइवानी छात्रों की थाली पर एक सदी का बदलाव",
-        "desc": "1951 में, संयुक्त राष्ट्र के स्किम्ड मिल्क पाउडर ने ताइवान में पौष्टिक दोपहर के भोजन की शुरुआत की। अमेरिकी सहायता के आटे से लेकर स्थानीय चावल व्यंजनों तक, और आज की खाद्य शिक्षा व मुफ्त नीतियों तक, इस सदी भर के बदलाव ने न केवल छात्रों का पेट भरा, बल्कि सामाजिक-आर्थिक, शैक्षिक दर्शन और खाद्य संस्कृति की गहरी प्रक्रिया को भी दर्शाया।",
-        "category": "food",
-        "href": "/hi/food/school-lunch-reform",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ar": [
@@ -2823,8 +2823,8 @@
         "image": ""
       },
       {
-        "title": "تاريخ الإعلانات في تايوان: ننسى ما بيع، لكن تلك الأغنية الإعلانية لا تزال تُردد",
-        "desc": "في عام 1968، انطلقت أغنية إعلان قدر كهربائي \"تاتونغ\" على التلفاز، وبعد نصف قرن لا يزال التايوانيون قادرين على إكمال جملة \"تاتونغ تاتونغ، المنتجات الوطنية جيدة\"، لكن لا أحد يتذكر أنها في الأصل لحن لشركة \"سانيو\". من إعلانات الصحف المسطحة في \"تايوان نيتشي نيبو\" خلال الحكم الياباني، إلى عصر الأحكام العرفية الذي لم يكن فيه سوى ثلاث قنوات تلفزيونية ربطت انتباه الجزيرة بأكملها على تردد واحد، ثم إلى عام 2016 عندما تجاوزت إنفاقات الإعلانات الرقمية التلفزيون — أكثر الإعلانات التي يتذكرها التايوانيون، تُنسى منتجاتها المباعة، بينما يبقى صوت عصر بأكمله.",
+        "title": "تاريخ الإعلانات في تايوان: قد ننسى ما تم بيعه، لكننا لا نزال ندندن تلك الأغنية الإعلانية",
+        "desc": "في عام 1968، انطلقت أغنية إعلان طباخ داتونج الكهربائي عبر التلفاز، وبعد نصف قرن، لا يزال التايوانيون قادرين على إكمال عبارة \"داتونج، داتونج، البضائع الوطنية جيدة\"، دون أن يتذكر أحد أنها كانت في الأصل لحناً لشركة سانيو. من الإعلانات المطبوعة في صحيفة \"تايوان نيتشي نيتشي شينبو\" خلال فترة الحكم الياباني، إلى حقبة الأحكام العرفية حيث كانت ثلاث قنوات فقط تحصر انتباه الجزيرة بأكملها على نفس القناة، وصولاً إلى عام 2016 عندما تجاوزت قيمة الإعلانات الرقمية قيمة إعلانات التلفزيون — إن أكثر الإعلانات رسوخاً في ذاكرة تايوان هي تلك التي غالباً ما يُنسى المنتج الذي تبيعه، بينما يتبقى منها صوت عصر بأكمله.",
         "category": "culture",
         "href": "/ar/culture/taiwan-advertising-history",
         "date": "2026-10-10T23:41:04+08:00",
@@ -2985,8 +2985,8 @@
         "image": ""
       },
       {
-        "title": "جيري يانغ: من معرفة كلمة إنجليزية واحدة فقط إلى مؤسس \"ياهو\" أبو عصر البوابات العالمية",
-        "desc": "في عام 1978، هاجر جيري يانغ البالغ من العمر 10 سنوات إلى الولايات المتحدة وهو لا يعرف سوى كلمة \"Shoe\". في عام 1994، وبينما كان يتجنب أطروحة الدكتوراه في جامعة ستانفورد، قام هو وشريكه بتصنيف صفحات الويب يدويًا في مقطورة، فأسسا بالصدفة شركة Yahoo! التي بلغت قيمتها السوقية أكثر من 100 مليار دولار، وفي عام 2005، قام بـ \"مقامرة مجنونة\" بالاستثمار في علي بابا، مما أعاد رسم خريطة الإنترنت العالمية.",
+        "title": "جيري يانغ: من معرفة كلمة إنجليزية واحدة فقط إلى أن يصبح \"أب ياهو\" الذي افتتح عصر بوابات الإنترنت العالمية",
+        "desc": "في عام 1978، هاجر جيري يانغ البالغ من العمر 10 سنوات إلى الولايات المتحدة وهو لا يعرف سوى كلمة \"Shoe\". في عام 1994، بينما كان يتجنب أطروحة الدكتوراه في جامعة ستانفورد، قام هو وشريكه يدوياً بتصنيف صفحات الويب في مقطورة، وأنشأوا Yahoo!، منظمين عالم الإنترنت الفوضوي في دليل، فاتحين العصر الذهبي لمواقع البوابات. بلغت قيمة الشركة السوقية مرة ما يزيد عن 100 مليار دولار، وفي عام 2005 قام بـ \"رهان مجنون\" بالاستثمار في علي بابا، معيداً رسم خريطة الإنترنت العالمية.",
         "category": "people",
         "href": "/ar/people/jerry-yang-yahoo-cofounder",
         "date": "2026-10-10T23:41:04+08:00",
@@ -3268,6 +3268,15 @@
     ],
     "de": [
       {
+        "title": "Geschichte der Umweltbewegung in Taiwan",
+        "desc": "Die Entwicklung der Umweltbewegung in Taiwan, von dem Kampf gegen die Verschmutzung in den 1980er Jahren bis zu den jüngsten Plastikreduzierungsbewegungen, spiegelt das Erwachen des Umweltbewusstseins und den demokratischen Prozess in der taiwanesischen Gesellschaft wider.",
+        "category": "nature",
+        "href": "/de/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
         "title": "Taiwans Reiskultur",
         "desc": "Von 85 auf 42 Kilogramm pro Jahr: Die Ernährungsrevolution und kulturelle Beharrlichkeit einer Reisinseln",
         "category": "food",
@@ -3527,15 +3536,6 @@
         "date": "2026-10-10T23:28:21+08:00",
         "readingTime": null,
         "image": "/article-images/culture/austronesian-migration-map.webp"
-      },
-      {
-        "title": "Sì-siù-á: Ein süßer Festtag und Segen, die nicht alles schmecken müssen",
-        "desc": "Von den im Qing-Zeitalter überlieferten Sheng-ren-Tang, den Mandeln ohne Quitten, bis zu den Maita-Tafeln am neunten Tag des ersten Mondmonds: Taiwanische Festtagsknabberereien verpacken Wunschsprüche in Erdnüsse, Klebreis und Zuckerschnee. Heute stehen Tortendosen vor persönlicchem Geschmack, Kalorien und Lebensmittel-Sicherheit. Was traditionell blieb, ist nicht eine Liste von Dingen, die gegessen werden müssen, sondern ein Tisch, an dem Familien weiterhin teilen, auswählen und diskutieren können.",
-        "category": "culture",
-        "href": "/de/culture/si-siu-a-lunar-new-year-snacks",
-        "date": "2026-10-10T23:28:21+08:00",
-        "readingTime": 6,
-        "image": ""
       }
     ]
   }
