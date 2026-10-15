@@ -1,17 +1,17 @@
 ---
-title: "Wang Da-hong : importer l'esprit du Bauhaus à Taïwan, poète de l'architecture moderne regardant l'âme orientale"
-description: "En 1965, il se distingue dans le concours du Mémorial du Sun Yat-sen. Élève du maître du Bauhaus Walter Gropius, Wang Da-hong a consacré sa vie à tenter de résoudre la tension entre tradition et modernité à Taïwan : son architecture, à la fois minimaliste et rigoureuse, grave le poème le plus élégant du modernisme d'après-guerre à travers les toits aux extrémités relevées et les murs noirs aux tuiles blanches."
+title: "Wang Da-hong : le poète de l'architecture qui a apporté l'esprit du Bauhaus à Taïwan et contemplé l'âme orientale par le modernisme"
+description: 'Lauréat du concours du Mémorial Sun Yat-sen en 1965, formé par le maître du Bauhaus Walter Gropius, Wang Da-hong a passé sa vie à résoudre la tension entre tradition et modernité.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'architecture taïwanaise',
+    'architecture de Taïwan',
     'modernisme',
-    'Mémorial du Sun Yat-sen',
+    'Mémorial Sun Yat-sen',
     "poète de l'architecture",
     'Bauhaus',
-    'résidence de Jianguo Nanlu',
+    'résidence de Jianguo South Road',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,99 +21,100 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'b90ca43b0'
-sourceContentHash: 'sha256:377677ba4b69d2d9'
-sourceBodyHash: 'sha256:4ff2706afa6c57f6'
-translatedAt: '2026-09-11T16:59:56+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:efe79d1571f630fc'
+sourceBodyHash: 'sha256:c9962896cf42e163'
+translatedAt: '2026-10-15T01:07:17+08:00'
 ---
 
-> **Vue d'ensemble en 30 secondes :**
-> Wang Da-hong (1917–2018) est surnommé le « père de l'architecture moderne taïwanaise » et le « poète de l'architecture » [^1] [^2]. Fils de Wang Chong-hui, ancien ministre des Affaires étrangères de la République de Chine [^3], il a étudié à l'Université de Cambridge en génie civil, puis à la Harvard Graduate School of Design, où il fut l'élève de Walter Gropius, fondateur du Bauhaus. De retour à Taïwan avec la formation moderniste la plus avancée de l'Ouest, il a cependant choisi de lutter toute sa vie contre le « conflit entre tradition et modernité ». Du Mémorial du Sun Yat-sen, contesté et modifié, à sa résidence de Jianguo Nanlu disparue puis restaurée, Wang Da-hong a intégré une solitude orientale de type lettré entre le béton et le verre à l'aide de lignes géométriques minimalistes et froides.
+> **Aperçu en 30 secondes :**
+> Wang Da-hong (1917–2018) est célébré comme le « père de l'architecture moderne de Taïwan » et un « poète de l'architecture » [^1] [^2]. Fils de Wang Chong-hui, ancien ministre des Affaires étrangères de la République de Chine [^3], il a étudié l'ingénierie à l'université de Cambridge et l'architecture à l'université Harvard, sous la direction du fondateur du Bauhaus, Walter Gropius. De retour à Taïwan avec une formation moderniste de pointe, il a choisi de consacrer sa vie au combat entre « tradition et modernité ». Du Mémorial Sun Yat-sen, sujet de controverses et de modifications, jusqu'à sa résidence de Jianguo South Road, disparue puis réédifiée, Wang Da-hong a utilisé des lignes géométriques minimalistes et calmes pour insuffler une solitude orientale d'intellectuel entre le béton et le verre.
 
-En septembre 1965, le monde de l'architecture de Taipei a accueilli un concours d'architecture d'une ampleur sans précédent : le gouvernement, souhaitant commémorer le père de la nation, Sun Yat-sen, a ouvert publiquement l'appel à projets à douze architectes de renom [^4] [^5]. À une époque où l'on cherchait désespérément à prouver au monde entier et à l'interne la légitimité et la grandeur, la plupart des propositions présentaient de vastes toitures de style palais, des corniches volantes denses et des tuiles de verre jaune éclatantes. Pourtant, le projet qui a finalement remporté le concours était d'une tranquillité surprenante : il s'agissait d'une architecture moderniste basse, s'étendant horizontalement, avec un toit aux extrémités légèrement relevées, conçue par Wang Da-hong, alors âgé de seulement 48 ans [^4] [^6].
+En septembre 1965, le monde de l'architecture de Taipei a connu un concours sans précédent : pour commémorer Sun Yat-sen (Sun Zhongshan), le gouvernement a lancé un appel public à douze architectes renommés pour concevoir le projet du mémorial [^4] [^5]. À une époque où il fallait prouver sa légitimité et sa grandeur tant au monde qu'à l'intérieur du pays, la plupart des projets proposaient d'immenses palais aux toits imposants, des corniches denses et des tuiles vernissées jaunes éclatantes. Pourtant, l'œuvre qui finit par s'imposer fut d'un calme surprenant — un bâtiment moderniste bas, à l'extension horizontale, dont le toit présentait une légère et délicate courbure. Le concepteur n'avait alors que 48 ans : Wang Da-hong [^4] [^6].
 
-Cette victoire au concours n'a pas apporté les applaudissements et la facilité attendus ; elle a plutôt ouvert le rideau sur une solitude de plusieurs décennies, durant laquelle son esthétique est restée en décalage avec le goût de l'époque.
+Cette victoire ne lui apporta ni les applaudissements attendus ni la facilité ; elle marqua au contraire le début de plusieurs décennies de solitude, en décalage avec l'esthétique de son époque.
 
-## Le disciple du Bauhaus venu de Cambridge et de Harvard
+## L'héritier du Bauhaus issu de Cambridge et Harvard
 
-Né le 6 juillet 1917 à Pékin, Wang Da-hong est le fils de Wang Chong-hui, qui a servi comme ministre des Affaires étrangères et président du Yuan judiciaire de la République de Chine [^3] [^7]. Un contexte familial privilégié lui a permis, dès son adolescence, de voyager en Europe et d'être témoin de l'essor des courants artistiques et architecturaux modernes occidentaux. Il a d'abord intégré l'Université de Cambridge au Royaume-Uni pour y étudier le génie mécanique, avant de traverser l'océan pour les États-Unis, où il a rejoint la Harvard Graduate School of Design (GSD) pour y étudier l'architecture, devenant le condisciple de Ieoh Ming Pei [^7].
+Né à Pékin le 6 juillet 1917, Wang Da-hong était le fils de Wang Chong-hui, qui fut ministre des Affaires étrangères et président de la Cour de justice de la République de Chine [^3] [^7]. Ce milieu familial privilégié lui permit de voyager en Europe dès sa jeunesse, témoignant de l'essor de l'art moderne et des courants architecturaux occidentaux. Il étudia d'abord le génie mécanique à l'université de Cambridge en Angleterre, avant de traverser l'océan pour rejoindre le Graduate School of Design (GSD) de l'université Harvard, devenant ainsi le confrère de I.M. Pei [^7].
 
-À Harvard, leur mentor n'était autre que Walter Gropius, fondateur du Bauhaus, berceau du mouvement de design moderniste. Gropius enseignait à ses élèves que l'architecture n'est ni une exhibition de pouvoir ni un collage de styles historiques, mais une réponse honnête aux matériaux contemporains, à la structure et aux besoins réels de la vie humaine. Cette formation a marqué Wang Da-hong au plus profond de lui-même : ses plans sont toujours caractérisés par des lignes minimalistes, des proportions précises, des murs blancs purs et de grandes surfaces vitrées.
+À Harvard, son mentor fut le fondateur du Bauhaus, Walter Gropius, berceau du mouvement de design moderniste. Gropius enseignait à ses étudiants que l'architecture n'était ni une démonstration de pouvoir, ni un collage de styles historiques, mais une réponse honnête aux matériaux contemporains, aux structures et aux besoins réels de la vie humaine. Cette formation resta gravée dans l'ADN de Wang Da-hong : ses plans se caractérisaient toujours par des lignes minimalistes, des proportions précises, des murs blancs purs et de vastes surfaces vitrées.
 
-Cependant, lorsqu'il est retourné à Taïwan d'après-guerre avec l'idéal pur du modernisme, il a trouvé une société pressée de chercher des symboles nationaux et une orthodoxie politique sur le plan visuel. Le rationalisme sans ornement et le « moins c'est plus » prônés par le modernisme semblaient trop avant-gardistes dans les rues de Taipei à l'époque, étant même considérés par certains décideurs comme « pas assez chinois ».
+Cependant, lorsqu'il revint dans un Taïwan d'après-guerre avec ses idéaux modernistes purs, il fut confronté à une société désireuse de trouver des symboles nationaux et une légitimité politique par l'image. Le principe du « Less is More » (moins, c'est plus) et le rationalisme sans décoration prônés par le modernisme semblaient trop avant-gardistes dans les rues de Taipei à l'époque, certains décideurs considérant même son travail comme « pas assez chinois ».
 
-## Les compromis et les坚持 du Mémorial du Sun Yat-sen : quand le modernisme rencontre le palais traditionnel
+## Compromis et persévérance au Mémorial Sun Yat-sen : quand le modernisme rencontre le palais traditionnel
 
-Dans la carrière de Wang Da-hong, la conception du Mémorial du Sun Yat-sen constitue sans aucun doute l'épreuve créative la plus grande et la plus torturée [^8].
+Dans la carrière de Wang Da-hong, la conception du Mémorial Sun Yat-sen fut sans aucun doute l'épreuve créative la plus vaste et la plus éprouvante [^8].
 
-« Le Mémorial du Sun Yat-sen est ma conception la plus difficile... Le Sun Yat-sen était un révolutionnaire, donc l'architecture qui le commémore doit être innovante, et ses caractéristiques personnelles et de vie résidaient dans la simplicité et la modestie, de sorte que ce bâtiment ne devait pas tomber dans le luxe et la vulgarité. » Wang Da-hong a ainsi déclaré dans une interview tardive [^5]. Au départ, il a soumis un projet de modernisme pur, débarrassé de tout symbole traditionnel et doté d'une sensation sculpturale contemporaine marquée, qui a été rejeté par les hautes autorités.
+« Le mémorial Sun Yat-sen est ma conception la plus difficile... Sun Yat-sen était un révolutionnaire, donc l'architecture qui lui rend hommage doit être innovante ; mais sa personnalité et son mode de vie étaient empreints de simplicité et de modestie, c'est pourquoi ce bâtiment ne devait pas tomber dans le luxe ou la vulgarité », confiait Wang Da-hong lors d'entretiens à la fin de sa vie [^5]. Initialement, il proposa un projet purement moderniste, dépourvu de tout symbole traditionnel et doté d'une forte dimension sculpturale contemporaine, mais ce projet fut rejeté par les hautes autorités.
 
-Pour permettre la réalisation du bâtiment, il a ajouté des corniches relevées symbolisant la tradition sur le cadre de la structure moderne [^6] [^8]. Mais il ne s'agissait pas d'une copie artisanale, mais d'une forme abstraite moderne soumise à un calcul géométrique rigoureux : les corniches volantes se relevaient légèrement, évoquant l'image traditionnelle sans la lourdeur et la complexité des bâtiments de style palais. Bien que le方案 éclectique ait suscité de nombreuses controverses lors de son achèvement, avec des critiques affirmant que le relevé des corniches ne correspondait pas à la tradition, les historiens de l'architecture, en y revenant des années plus tard, ont réalisé qu'il s'agissait d'un modèle rare parmi les bâtiments publics, ayant réussi à fusionner la volonté personnelle avec la structure moderne [^6] [^8] [^9].
+Pour permettre l'achèvement du bâtiment, il intégra à la structure moderne des corniches relevées symbolisant la tradition [^6] [^8]. Il ne s'agissait pas d'une copie artisanale, mais d'une forme abstraite moderne issue de calculs géométriques rigoureux : les avant-toits se soulevaient légèrement, évoquant l'imagerie traditionnelle sans la lourdeur ni la complexité des palais. Bien que le projet final ait suscité de nombreuses controverses sur ce compromis, certains critiquant l'inadéquation de ces corniches avec la tradition, les historiens de l'architecture ont réalisé des années plus tard qu'il s'agissait d'un modèle rare dans l'architecture publique, réussissant à fusionner la volonté individuelle et la structure moderne [^6] [^8] [^9].
 
-### Le dialogue entre le modernisme et la tradition locale
+### Dialogue entre modernisme et traditions locales
 
-Dans la philosophie de conception de Wang Da-hong, la « tradition » n'a jamais été un ensemble de symboles à copier ou à reproduire, mais l'âme spatiale et le sens des proportions.
+Dans la philosophie de conception de Wang Da-hong, la « tradition » n'était jamais un ensemble de symboles à copier ou à reproduire, mais une âme spatiale et un sens des proportions.
 
 ```tw-versus
-Pratique moderniste de Wang Da-hong | Attente dominante de la société de l'époque
-Lignes géométriques pures, murs blancs, grandes baies vitrées | Toitures massives de style palais, tuiles de verre jaune et décor de dragons et phénix
-Le bâtiment est un conteneur destiné à refléter la vie réelle contemporaine | Le bâtiment est un monument destiné à montrer la légitimité du régime et les symboles historiques
-Espaces intérieurs fluides, dialogue direct avec la lumière naturelle | Espaces fermés, symétriques, mettant l'accent sur l'autorité et l'axe hiérarchique
+Pratique moderniste de Wang Da-hong | Attentes dominantes de la société de l'époque
+Lignes géométriques pures, murs blancs, vastes baies vitrées | Grands toits de style palais, tuiles vernissées et décorations de dragons et phénix
+L'architecture est un réceptacle reflétant la vie contemporaine réelle | L'architecture est un monument pour afficher la légitimité du pouvoir et les symboles historiques
+Fluidité des espaces intérieurs, dialogue direct avec la lumière naturelle | Espaces clos, symétriques, accentuant l'autorité et la hiérarchie des axes
+Source : Entretiens primaires et études d'histoire de l'architecture sur le concours, les rejets et les controverses du Mémorial Sun Yat-sen cités dans cet article[^4][^5][^6][^8]
 ```
 
 📝 **Note du commissaire :**
-Le tragique et le grand de Wang Da-hong résident dans sa tentative constante de maintenir « l'honnêteté et la dignité de l'espace lui-même » dans une époque « exigeant la correction politique et la symbolique ». Il a utilisé le couteau du modernisme pour tailler le vêtement traditionnel chinois ; la douleur était inévitable, mais cela a laissé une tranche d'époque irremplaçable.
+La tragédie et la grandeur de Wang Da-hong résident dans sa tentative constante de maintenir « l'honnêteté et la dignité de l'espace lui-même » à une époque qui exigeait « le politiquement correct et le symbolisme ». Il a utilisé le scalpel du modernisme pour sculpter la robe traditionnelle chinoise ; la douleur était inévitable, mais c'est ce qui a laissé une tranche d'époque irremplaçable.
 
-## La résidence de Jianguo Nanlu : l'honnêteté extrême d'un architecte envers lui-même
+## La résidence de Jianguo South Road : l'honnêteté absolue d'un architecte envers lui-même
 
-Par rapport aux compromis constants des bâtiments publics, Wang Da-hong a démontré, dans la création de sa résidence privée, l'esthétique architecturale la plus pure et la plus sans impureté. En 1953, il a conçu et construit de ses propres mains sa propre résidence sur la route Jianguo Nanlu à Taipei [^10].
+Contrairement aux compromis de ses œuvres publiques, Wang Da-hong a manifesté son esthétique la plus pure et la plus sans mélange dans ses résidences privées. En 1953, il conçut et construisit sa propre maison sur Jianguo South Road, à Taipei [^10].
 
-Ce bâtiment bas, bien que de superficie modeste, est un mythe dans l'histoire de l'architecture résidentielle moderne taïwanaise. Façades blanches, tuiles noires, porte circulaire en forme de lune, petit patio intérieur au sens esthétique oriental marqué, et meubles minimalistes conçus sur mesure pour les besoins de la vie intérieure [^10] [^11]. Wang Da-hong ne l'a pas considérée comme un manoir pour exhiber son statut, mais comme un paradis moderne permettant d'abriter l'âme d'un lettré.
+Bien que de petite surface, cette maison de plain-pied est devenue un mythe de l'histoire de l'architecture résidentielle moderne à Taïwan. Murs extérieurs blancs, tuiles noires, porte lunaire circulaire, petit patio évoquant l'esprit des jardins orientaux et mobilier minimaliste conçu exclusivement pour les fonctions de la vie intérieure [^10] [^11]. Wang Da-hong ne l'a pas conçue comme une demeure luxueuse pour afficher son statut, mais comme un paradis moderne capable d'abriter l'âme d'un lettré.
 
-Cependant, avec l'urbanisation rapide de Taipei, cette résidence de Jianguo Nanlu a failli être démolie dans les années 2010. Heureusement, grâce aux efforts de la Société d'étude et de préservation de l'architecture de Wang Da-hong et d'experts de divers milieux, le Musée d'art de Taipei a restauré ce bâtiment en 2017 à côté du musée, dans le parc d'art [^10] [^11].
+Cependant, avec l'urbanisation rapide de Taipei, cette résidence a fait face à la menace de démolition dans les années 2010. Heureusement, grâce aux efforts de l'Association pour la recherche et la préservation de l'architecture de Wang Da-hong et d'experts divers, le Musée d'Art de Taipei a fait réapparaître ce bâtiment en 2017 dans le parc d'art adjacent au musée [^10] [^11].
 
-Lorsque les gens pénètrent dans la résidence de Jianguo Nanlu reconstruite, ils sont impressionnés par cette tranquillité extrême. La lumière du soleil se répand sur le sol en pierre lavée à travers la porte circulaire en forme de lune ; chaque coin intérieur, chaque proportion de table et de chaise, révèle la discipline stricte du propriétaire envers la vie. Ce n'est pas seulement une maison, mais un sonnet écrit en béton et en lumière et ombre.
+En pénétrant dans la résidence reconstruite, on est frappé par un calme extrême. La lumière du soleil traverse la porte lunaire pour se projeter sur le sol en pierre lavée ; chaque angle intérieur, chaque proportion de table ou de chaise révèle la discipline rigoureuse de son propriétaire envers la vie. Ce n'est pas seulement une maison, c'est un sonnet écrit avec du béton et de l'ombre.
 
-## Une ambition inachevée et le monde littéraire : du monument de la lune à _Phantasmagoria_
+## Ambitions inachevées et univers littéraire : du monument lunaire à « Phantasmagoria »
 
-Outre la conception architecturale, le talent de Wang Da-hong ne se limitait pas à l'acier et au béton. Il a participé au concours de design international organisé après le programme Apollo de 1969 aux États-Unis, concevant un « monument de l'atterrissage sur la lune » au sens cosmique et très prospectif, démontrant son imagination poétique de la technologie humaine et de la macrocosme de l'univers.
+Au-delà de l'architecture, le talent de Wang Da-hong ne se limitait pas au béton armé. Il a participé au concours international de design lancé après la mission Apollo de 1969, proposant un « Monument de l'atterrissage lunaire » visionnaire et cosmique, témoignant de son imagination poétique sur la technologie humaine et l'immensité de l'univers.
 
-Dans sa vie tardive, il a également pris la plume pour écrire le roman de science-fiction en anglais _Phantasmagoria_ (《幻城》), construisant, avec une plume anglaise délicate et fluide, un monde utopique fusionnant la philosophie orientale et la technologie future. Ce livre reflète non seulement sa riche érudition, mais révèle également la naïveté et la curiosité qu'il a toujours conservées au fond de son cœur envers le monde inconnu.
+À la fin de sa vie, il s'est tourné vers l'écriture d'un roman de science-fiction en anglais, _Phantasmagoria_ (幻城), construisant par une plume anglaise fluide et délicate un monde utopique mêlant philosophie orientale et technologie futuriste. Ce livre reflète non seulement sa vaste culture, mais révèle aussi la curiosité et l'innocence qu'il a toujours conservées face à l'inconnu.
 
-## La solitude du poète de l'architecture et l'écho de l'époque
+## La solitude du poète de l'architecture et son écho à travers les âges
 
-Le 28 mai 2018, Wang Da-hong est décédé paisiblement, à l'âge de 101 ans [^2]. Au cours de sa longue vie, il a conçu de nombreuses œuvres d'influence profonde, notamment le bâtiment du ministère des Affaires étrangères, les dortoirs de l'Université nationale de Taïwan, Honglu et le bâtiment Taïwan Cement [^12] [^13]. Il portait toujours des costumes bien coupés, parlait avec douceur et fermeté, tel le dernier gentleman modeste sorti de l'ère de la République de Chine naissante.
+Le 28 mai 2018, Wang Da-hong s'est éteint paisiblement à l'âge de 101 ans [^2]. Tout au long de sa longue vie, il a conçu d'innombrables œuvres ayant une influence profonde, telles que le bâtiment du ministère des Affaires étrangères, les dortoirs de l'Université Nationale de Taïwan, la résidence Honglu ou l'immeuble TCC [^12] [^13]. Il portait toujours des costumes impeccables et s'exprimait avec une douceur ferme, tel le dernier gentleman issu de l'ère républicaine précoce.
 
-Pendant longtemps, la société taïwanaise ne l'a pas entièrement compris. Le grand public poursuivait des bâtiments commerciaux encore plus grands et des décorations encore plus luxueuses, tandis que lui s'asseyait simplement silencieusement sur la chaise qu'il avait conçue, fumant et regardant la lumière et l'ombre se déplacer sur les murs blancs.
+Pendant longtemps, la société taïwanaise ne l'a pas pleinement compris. Le public recherchait des gratte-ciel commerciaux plus imposants et des décorations plus fastueuses, tandis que lui restait silencieusement assis sur les chaises qu'il avait dessinées, fumant une cigarette en regardant les jeux d'ombre et de lumière se déplacer sur les murs blancs.
 
-Jusqu'à sa vie tardive et après sa mort, lorsque les paysages urbains de Taïwan sont devenus désordonnés en raison d'une surdécoration, les gens se sont soudainement retournés, réalisant que ce poète de l'architecture avait déjà donné la réponse il y a un demi-siècle : l'architecture n'a pas besoin de crier fort, elle a seulement besoin d'être honnête, silencieuse et de laisser de l'espace vide.
+Ce n'est que tardivement, après sa mort, alors que le paysage urbain de Taïwan paraissait désordonné à cause de la sur-décoration, que les gens se sont retournés, réalisant que ce poète de l'architecture avait déjà apporté la réponse un demi-siècle plus tôt : l'architecture n'a pas besoin de crier ; elle a seulement besoin d'être honnête, calme et de laisser place au vide.
 
 ---
 
 ## Références
 
-[^1]: [Feiyachi Art Network : Wang Da-hong, architecte du Mémorial du Sun Yat-sen, âgé de 101 ans, est décédé hier](https://artemperor.tw/focus/2104) — Rapport sur la vie et les réalisations architecturales de Wang Da-hong.
+[^1]: [Art Network Fei Chi : Le décès de Wang Da-hong, architecte du Mémorial Sun Yat-sen, à l'âge de 101 ans](https://artemperor.tw/focus/2104) — Rapport sur la vie et les accomplissements architecturaux de Wang Da-hong.
 
-[^2]: [Wikipedia : Wang Da-hong](https://zh.wikipedia.org/zh-hant/%E7%8E%8B%E5%A4%A7%E9%96%8E) — Enregistre ses dates de naissance et de décès et ses principales œuvres représentatives.
+[^2]: [Wikipédia : Wang Da-hong](https://zh.wikipedia.org/zh-hant/%E7%8E%8B%E5%A4%A7%E9%96%8E) — Dates de naissance/décès et œuvres majeures.
 
-[^3]: [Diancang ARTouch : Ce ne sont pas seulement les meubles qui sont reproduits : voir l'ordre de vie de Wang Da-hong dans "le quotidien parfait"](https://artouch.com/art-views/art-exhibition/content-192005.html) — Explore son contexte familial et la conception de ses meubles.
+[^3]: [ARTouch Collection : Plus que du mobilier : voir l'ordre de vie de Wang Da-hong dans la « perfection quotidienne »](https://artouch.com/art-views/art-exhibition/content-192005.html) — Exploration de son milieu familial et du design de ses meubles.
 
-[^4]: [Musée ouvert : Modèle du projet de concours d'architecture du Mémorial du Sun Yat-sen par l'architecte Wang Da-hong](https://openmuseum.tw/muse/digi_object/70a904a8bf2b5916e8b6ea2ef2492922) — Le processus de construction et de concours du Mémorial du Sun Yat-sen en 1965.
+[^4]: [Musée Ouvert : Architecte Wang Da-hong \_ Maquette du projet de concours du Mémorial Sun Yat-sen](https://openmuseum.tw/muse/digi_object/70a904a8bf2b5916e8b6ea2ef2492922) — Processus de construction et de concours du mémorial en 1965.
 
-[^5]: [Base de données audio-visuelle de l'action citoyenne : Les compromis et les difficultés que le anniversaire du Sun Yat-sen ne vous ont pas dit : le concours de 1965 pour le Mémorial du Sun Yat-sen](https://www.facebook.com/cipas.tw/posts/) — Enregistre la tension politique et esthétique derrière le concours.
+[^5]: [Base de données d'archives vidéo Citizen Action : Les compromis et épreuves non dits sur l'anniversaire de Sun Yat-sen : le concours du Mémorial Sun Yat-sen en 1965](https://www.facebook.com/cipas.tw/posts/) — Enregistrement des tensions politiques et esthétiques derrière le concours.
 
-[^6]: [Actualités Yahoo : L'architecture taïwanaise en mutation 3 : Concevoir le Mémorial du Sun Yat-sen était trop douloureux, le "poète de l'architecture" Wang Da-hong trouvait du soulagement par cette méthode](https://tw.news.yahoo.com/%E6%B5%81%E8%AE%8A%E4%B8%AD%E7%9A%84%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%893-%E8%A8%AD%E8%A8%88%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%A4%AA%E7%97%9B%E8%8B%A6-%E5%BB%BA%E7%AF%89%E8%A9%A9%E4%BA%BA-%E7%8E%8B%E5%A4%A7%E9%96%8E%E9%9D%A0%E9%80%99%E6%96%B9%E6%B3%95%E6%8A%92%E5%A3%93-023000317.html) — Analyse les compromis et les luttes de Wang Da-hong dans la conception du Mémorial du Sun Yat-sen.
+[^6]: [Yahoo News : L'architecture taïwanaise en mutation 3 : La douleur de concevoir le Mémorial Sun Yat-sen, comment le « poète de l'architecture » Wang Da-hong gérait son stress](https://tw.news.yahoo.com/%E6%B5%81%E8%AE%8A%E4%B8%AD%E7%9A%84%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%893-%E8%A8%AD%E8%A8%88%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%A4%AA%E7%97%9B%E8%8B%A6-%E5%BB%BA%E7%AF%89%E8%A9%A9%E4%BA%BA-%E7%8E%8B%E5%A4%A7%E9%96%8E%E9%9D%A0%E9%80%99%E6%96%B9%E6%B3%95%E6%8A%92%E5%A3%93-023000317.html) — Analyse des compromis et luttes de Wang Da-hong lors de la conception du mémorial.
 
-[^7]: [Ministère de la Culture, La culture taïwanaise au Royaume-Uni : Wang Da-hong](https://www.taiwanculture-uk.org/design/blog-post-title-one-9wjgl) — Présente ses racines académiques à Cambridge, Harvard et le Bauhaus.
+[^7]: [Culture de Taïwan au Royaume-Uni (Ministère de la Culture) : Wang Da-hong](https://www.taiwanculture-uk.org/design/blog-post-title-one-9wjgl) — Présentation de ses liens académiques avec Cambridge, Harvard et le Bauhaus.
 
-[^8]: [Mémorial national du Sun Yat-sen : Visiter le Mémorial du Sun Yat-sen pour révéler la beauté architecturale de Wang Da-hong](https://www.yatsen.gov.tw/News_Content.aspx?n=6519&s=159793) — Explication officielle de ses concepts architecturaux et de la conception de l'étang de l'映池 (Yingchi).
+[^8]: [Mémorial National Sun Yat-sen : Visite du mémorial pour révéler la beauté architecturale de Wang Da-hong](https://www.yatsen.gov.tw/News_Content.aspx?n=6519&s=159793) — Explications officielles sur sa philosophie architecturale et la conception de l'étang Yingchi.
 
-[^9]: [The News Lens : _Wang Da-hong : le poète de l'architecture éternel_ : certains critiquent le relevé des corniches du Mémorial du Sun Yat-sen](https://www.thenewslens.com/article/254094) — Explore la signification historique de l'architecture de ses 26 œuvres importantes et de la conception des corniches.
+[^9]: [Komap : « Wang Da-hong : L'éternel poète de l'architecture » : Certains critiquent les corniches du Mémorial Sun Yat-sen](https://www.thenewslens.com/article/254094) — Discussion sur la signification historique de ses 26 œuvres majeures et de la conception des corniches.
 
-[^10]: [Musée d'art de Kaohsiung : Le quotidien parfait : exposition de reproduction des meubles du thème Wang Da-hong et de sa résidence](https://www.kmfa.gov.tw/exhibitiondetailc001100.aspx?Cond) — Reconstitue le processus de reconstruction des trois résidences et de celle de Jianguo Nanlu.
+[^10]: [Musée d'Art de Kaohsiung : La perfection quotidienne : Exposition sur le thème de Wang Da-hong et répliques de meubles de sa résidence](https://www.kmfa.gov.tw/exhibitiondetailc001100.aspx?Cond) — Historique de la reconstruction de ses trois résidences et de celle de Jianguo South Road.
 
-[^11]: [Musée d'art de Taipei : Théâtre architectural de Wang Da-hong](https://www.tfam.museum/Common/editor.aspx?f=sys&id=235&ddlLang=zh-tw) — Présente la reconstruction et la muséification de la résidence de Jianguo Nanlu au sud du Musée d'art de Taipei.
+[^11]: [Musée d'Art de Taipei : Théâtre architectural de Wang Da-hong](https://www.tfam.museum/Common/editor.aspx?f=sys&id=235&ddlLang=zh-tw) — Présentation de la reconstruction et de la muséification de la résidence de Jianguo South Road, au sud du musée.
 
-[^12]: [Site de tourisme de Taipei / Blog : Visite architecturale de Wang Da-hong](https://taiwantravelforever.blogspot.com/2026/02/wdh.html) — Recense les œuvres représentatives importantes telles que le bâtiment du ministère des Affaires étrangères et Honglu.
+[^12]: [Taipei Travel Guide / Blog : Tour architectural de Wang Da-hong](https://taiwantravelforever.blogspot.com/2026/02/wdh.html) — Inventaire des œuvres majeures comme le ministère des Affaires étrangères ou la résidence Honglu.
 
-[^13]: [Système Taïwan Memory de la Bibliothèque nationale : Chronologie de la vie et des œuvres architecturales de Wang Da-hong](https://tm.ncl.edu.tw/) — Enregistre sa participation au concours du monument de la lune et la création du roman anglais _Phantasmagoria_.
+[^13]: [Système de mémoire de Taïwan (Bibliothèque Nationale) : Chronologie de la vie et des œuvres architecturales de Wang Da-hong](https://tm.ncl.edu.tw/) — Mention de sa participation au concours du monument lunaire et de l'écriture de son roman en anglais _Phantasmagoria_.

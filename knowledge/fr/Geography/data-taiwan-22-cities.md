@@ -1,20 +1,20 @@
 ---
-title: 'Voir la Taïwan par les chiffres : les 22 comtés et municipalités — la plus forte densité est 151 fois la plus faible, et le plus âgé diffère d’un génération du plus jeune'
-description: 'Sur cette même île, la ville la plus dense, Taïpei, compte 8 975 habitants par km², tandis que la plus déserte, le comté de Taitung, n’en compte que 59 — un écart de 151 fois. La plus peuplée, Nouvelle Taipei, abrite 4,04 millions d’habitants, contre seulement 13 600 pour le comté de Lianjiang — un écart de 297 fois. Le taux de vieillissement le plus bas se trouve dans le comté de Hsinchu (15,08 %), le plus haut dans le comté de Chiayi (24,11 %), soit près d’une génération d’écart. À partir des données officielles du Bureau de la population du ministère de l’Intérieur au 31 décembre 2025, voici une carte échelonnée et vérifiable de toute l’île : 70 % des habitants vivent sur 30 % du territoire, les zones les plus touchées par le vieillissement se trouvent dans l’est, les îles et les comtés agricoles, et dans les 22 comtés et municipalités, les décès dépassent déjà les naissances.'
+title: "Regard sur les 22 comtés et villes de Taïwan à travers les données : un écart de 151 fois entre le plus dense et le plus vide, un écart d'une génération entre le plus vieux et le plus jeune"
+description: "Sur une même île, la densité de population la plus élevée, à Taipei, atteint 8 975 habitants par km², contre seulement 59 dans le comté de Taitung, soit un écart de 151 fois. La ville la plus peuplée, New Taipei, compte 4,04 millions d'habitants, le comté le moins peuplé, Lienchiang, 13 621, soit un écart de 297 fois. Le comté le plus jeune, Hsinchu, affiche un taux de vieillissement de 15,08 %, le plus vieux, Chiayi, 24,11 %, soit un écart d près d'une génération. À partir des données officielles du Département des affaires intérieures (fin 2025), dresser un portrait vérifiable et chiffré de l'île entière : 70 % de la population concentrée sur 30 % du territoire, la frontière du vieillissement non pas dans les villes mais dans l'est, les îles et les comtés agricoles, et dans les 22 comtés et villes sans exception, les décès dépassent déjà les naissances."
 date: 2026-06-06
 category: 'Geography'
 tags:
   [
-    'Statistiques démographiques',
-    'Vieillissement',
-    'Société ultra-vieillissante',
-    'Cinq grands pôles urbains',
-    'Écart ville-campagne',
-    'Densité de population',
-    'Indice de vieillissement',
-    'Dénatalité basse',
-    'Visualisation de données',
-    'Série des 22 comtés',
+    'statistiques démographiques',
+    'vieillissement',
+    'société super-âgée',
+    'six métropoles',
+    'fracture ville-campagne',
+    'densité de population',
+    'indice de vieillissement',
+    'dénatalité',
+    'visualisation de données',
+    'série 22 comtés-villes',
   ]
 subcategory: '人口與區域'
 author: 'Taiwan.md'
@@ -23,226 +23,224 @@ featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
-imageAlt: 'Vue satellite aérienne de l’île de Taïwan : les plaines de l’ouest et la chaîne montagneuse centrale sont clairement visibles'
+imageAlt: "Image satellite de l'île principale de Taïwan vue de l'espace, la plaine occidentale et la chaîne centrale clairement discernables"
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:446265901543dd85'
-sourceBodyHash: 'sha256:2daf1a831ec93084'
-translatedAt: '2026-09-22T14:22:24+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:426316f6a96d8460'
+sourceBodyHash: 'sha256:035cd9cc6b8c328a'
+translatedAt: '2026-10-15T01:07:17+08:00'
 ---
 
-# Voir la Taïwan par les chiffres : les 22 comtés et municipalités — la plus forte densité est 151 fois la plus faible, et le plus âgé diffère d’un génération du plus jeune
+# Regard sur les 22 comtés et villes de Taïwan à travers les données : un écart de 151 fois entre le plus dense et le plus vide, un écart d'une génération entre le plus vieux et le plus jeune
 
-Partir en voiture depuis le quartier de Xinyi à Taipei, puis tourner vers le sud et l’est, pour finalement arriver dans le centre-ville de Taitung. Le navigateur indique un trajet d’environ 300 kilomètres, à peine une journée de route. Mais si vous prêtez attention à une autre échelle — combien de personnes vivent dans chaque km² — ce même trajet ressemble à traverser deux pays. La ville de Taipei, où se trouve Xinyi, abrite 8 975 habitants par km². Le comté de Taitung, où se trouve le centre-ville de Taitung, n’en compte que 59 par km². Même île, même passeport, mais une densité 151 fois plus élevée.
+En partant du district de Xinyi à Taipei, en roulant vers le sud, puis vers l'est, jusqu'à atteindre le centre-ville de Taitung. Le GPS indique un peu plus de 300 km, moins d'une journée de route. Mais si vous changez d'échelle et regardez non plus les kilomètres, mais le nombre d'habitants par kilomètre carré à travers la vitre, ce trajet ressemble à la traversée de deux pays. Le district de Xinyi, dans la ville de Taipei, concentre 8 975 habitants par km². Le centre-ville de Taitung, dans le comté du même nom, n'en compte que 59. Même île, même passeport, une densité 151 fois plus élevée.
 
-Ce chiffre n’est pas une simple curiosité statistique. C’est un contraste réel en Taïwan. On a l’habitude d’aborder « Taïwan » comme une entité unique — économie, élections, baisse de la natalité… Mais quand on déploie l’ensemble des données du Bureau de la population du ministère de l’Intérieur au 31 décembre 2025, il devient évident qu’il n’existe pas une Taïwan homogène. Certains vivent dans une forêt de béton, attendant le feu rouge ; d’autres roulent pendant dix minutes sans voir une seule voiture. Certains comtés grandissent encore ; la plupart se réduisent. Le coin le plus jeune et le coin le plus âgé diffèrent d’environ une génération.
+Ce chiffre n'est pas un tour de passe-passe avec des valeurs extrêmes. C'est la fracture réelle à l'intérieur de Taïwan. Nous avons l'habitude de parler de « Taïwan » comme d'un tout — son économie, ses élections, sa dénatalité — mais lorsque l'on déplie l'intégralité des données par comté et ville du Département des affaires intérieures (fin 2025), on découvre qu'il n'existe pas de Taïwan homogène. Certains s'entassent dans des forêts de béton à attendre le feu rouge, d'autres roulent dix minutes sans croiser une seconde voiture. Certains comtés-villes grandissent encore, la plupart rétrécissent. Le coin le plus jeune et le coin le plus vieux sont séparés de près d'une génération.
 
 ```tw-figure
 151 fois
-L’écart de densité entre Taipei et le comté de Taitung : 8 975 habitants/km² contre 59 habitants/km²
-Bureau de la population du ministère de l’Intérieur, 31 décembre 2025
+Écart de densité entre Taipei et le comté de Taitung : 8 975 hab./km² contre 59 hab./km²
+Département des affaires intérieures, fin 2025
 ```
 
-Ce que cet article cherche à faire : avec des données officielles, dessiner un portrait échelonné et vérifiable de toute l’île. Et ce portrait révèle une île fortement divisée, et qui vieillit rapidement.[^1]
+Cet article a un objectif : utiliser les données officielles pour dresser un portrait de l'île entière, avec une échelle, vérifiable. Une fois terminé, vous verrez un visage profondément divisé, et qui vieillit rapidement.[^1]
 
-> **Aperçu en 30 secondes :** Au 31 décembre 2025, la population totale de Taïwan s’élève à 23 299 132 habitants (environ 23,3 millions), et diminue depuis 23 mois consécutifs. Les naissances ont pour la première fois franchi la barre des 110 000. Cette même année, Taïwan entre officiellement dans l’« ère de la société ultra-vieillissante », avec un tiers de la population dépassant 65 ans. Mais cette moyenne nationale masque d’énormes disparités internes : la densité entre la ville la plus et la moins dense diffère de 151 fois, l’échelle de la population de 297 fois, et le vieillissement varie d’environ une génération. Les gens se rassemblent dans les cinq grands pôles urbains, mais le front du vieillissement ne se trouve pas dans les villes — il est dans l’est, les îles et les comtés agricoles. Le coin le plus jeune est celui soutenu par la zone industrielle de Hsinchu. Voici une Taïwan divisée, et qui vieillit ensemble.[^2]
+> **Aperçu en 30 secondes :** Fin 2025, la population totale de Taïwan s'élève à 23 299 132 habitants (environ 23,3 millions), en baisse pour le 23e mois consécutif, les naissances passant pour la première fois sous la barre des 110 000. La même année, Taïwan entre officiellement en « société super-âgée », une personne sur cinq ayant plus de 65 ans. Mais la moyenne nationale masque d'énormes disparités internes : la densité de population entre le comté/ville le plus dense et le moins dense varie de 151 fois, la taille de la population de 297 fois, le degré de vieillissement d près d'une génération. La population se concentre dans les six métropoles, la frontière du vieillissement ne se trouve pas dans les villes mais dans l'est, les îles et les comtés agricoles, les endroits les plus jeunes étant le comté et la ville de Hsinchu portés par le parc scientifique. C'est un Taïwan divisé, qui vieillit ensemble.[^2]
 
-## 70 % des habitants, 30 % du territoire
+## Sept personnes sur dix, trois dixièmes du territoire
 
-Commençons par un fait souvent négligé : les Taïwanais vivent vraiment regroupés.
+Commençons par un fait aisément négligé : les Taïwanais vivent en réalité de manière très concentrée.
 
-Au 31 décembre 2025, les cinq villes et municipalités (Taipei, Nouvelle Taipei, Taoyuan, Taichung, Tainan, Kaohsiung) abritent ensemble 16 278 931 habitants, soit 69,87 % de la population totale. Autrement dit, près de sept Taïwanais sur dix vivent dans ces six villes. Pourtant, ces six villes ne couvrent que 30,12 % du territoire total. 70 % des habitants, sur 30 % du sol. Les autres 30 % des habitants sont dispersés sur les 70 % restants. Voici la première structure de la répartition de la population à Taïwan.
+Fin 2025, les six municipalités spéciales (Taipei, New Taipei, Taoyuan, Taichung, Tainan, Kaohsiung) réunissent 16 278 931 habitants, soit 69,87 % de la population totale. Autrement dit, sur dix Taïwanais, près de sept vivent dans les six métropoles. Or ces six métropoles ne représentent que 30,12 % de la superficie de l'île. Sept dixièmes des gens entassés sur trois dixièmes des terres. Les trois dixièmes restants dispersés sur les sept dixièmes restants. C'est la première structure de la répartition de la population à Taïwan.
 
 ```tw-stat
-23,3 millions | Population totale | Au 31 décembre 2025, en baisse pour le 23e mois consécutif
-20,06 % | Proportion des 65 ans et plus | En 2025, franchit officiellement le seuil de la société ultra-vieillissante
-69,87 % | Proportion de la population dans les cinq villes | Mais ne représentent que 30 % du territoire
+23,3 millions | Population totale | Fin 2025, 23e mois consécutif de baisse
+20,06 % | Part des 65 ans et plus | 2025 franchit officiellement le seuil super-âgé
+69,87 % | Part des six métropoles dans la population nationale | Mais sur seulement 30 % du territoire
+Source : Statistiques de population du Département des affaires intérieures (population totale fin 2025, part des 65 ans et plus, part des six métropoles) et données sur la réforme des municipalités spéciales[^1][^4]
 ```
 
-Ce ratio de 7 à 3 n’est pas naturel : il a une origine institutionnelle bien précise. Le 25 décembre 2010, Taïwan a réécrit d’un seul coup son carte administrative : le comté de Taipei est devenu la ville de Nouvelle Taipei ; les comtés et villes de Taichung, Tainan et Kaohsiung ont fusionné ; et la ville de Taipei existait déjà. Quatre ans plus tard, le 25 décembre 2014, Taoyuan est devenue la sixième ville. En quatre ans, Taïwan est passée de deux villes à six, et l’équilibre des ressources, des budgets et des projets s’est brusquement déplacé.[^4]
+Ce schéma 70/30 n'est pas le fruit du hasard, il a un point de départ institutionnel précis. Le 25 décembre 2010, Taïwan réécrit d'un coup sa carte administrative : le comté de Taipei devient la municipalité de New Taipei, les comtés et villes de Taichung, Tainan, Kaohsiung fusionnent chacun, s'ajoutant à la ville de Taipei pour faire naître simultanément cinq municipalités spéciales. Quatre ans plus tard, le 25 décembre 2014, Taoyuan devient la sixième. En quatre ans, Taïwan passe de deux à six municipalités spéciales, et la balance des ressources, budgets, infrastructures bascule avec elle.[^4]
 
-Se passer d’un nom n’est jamais anodin. Les villes obtiennent des fonds de répartition, des effectifs administratifs et des sources de revenus bien supérieures à celles des comtés ordinaires. Les projets y suivent, les emplois y suivent, et les jeunes y suivent. L’institution a d’abord tracé une ligne, et la population s’est écoulée le long de celle-ci. Ce que nous voyons aujourd’hui — la concentration dans les six villes — est en quelque sorte le fruit de cette réforme administrative, une douizaine d’années plus tard.
+Devenir municipalité spéciale ne se résume pas à changer de nom. Les municipalités spéciales perçoivent des subventions d'équilibre, des effectifs, des revenus autonomes bien supérieurs à ceux des comtés et villes ordinaires. Là où vont les infrastructures, vont les emplois, et là où vont les emplois, vont les jeunes. L'institution a tracé une ligne, la population a suivi. La concentration dans les six métropoles que nous voyons aujourd'hui est, dans une certaine mesure, le fruit mûri une dizaine d'années après la réforme de 2010.
 
-Le graphique ci-dessous détaille encore plus clairement « où vivent les Taïwanais ». La ville de Nouvelle Taipei seule abrite 17,4 % de la population nationale ; Taichung 12,3 %, Kaohsiung 11,7 %, Taipei 10,5 %, Taoyuan 10,1 %, Tainan 7,9 % — les six villes totalisent près de 70 %. Les 16 autres comtés, répartis du nord aux îles, ne représentent que 30,1 %.
+Le graphique ci-dessous décompose plus nettement « où vivent les Taïwanais ». New Taipei à elle seule accueille 17,4 % de la population nationale, Taichung 12,3 %, Kaohsiung 11,7 %, Taipei 10,5 %, Taoyuan 10,1 %, Tainan 7,9 % — les six métropoles totalisent près de 70 %. Les 16 autres comtés-villes, du nord aux îles, tous ensemble ne pèsent que 30,1 %.
 
 ```tw-waffle
-Où vivent les Taïwanais (en % de la population nationale)
-Nouvelle Taipei | 17.4
-Taichung | 12.3
-Kaohsiung | 11.7
-Taipei | 10.5
-Taoyuan | 10.1
-Tainan | 7.9
-Autres 16 comtés | 30.1
-Source : Bureau de la population du ministère de l’Intérieur, 31 décembre 2025
+Où vivent les Taïwanais (part de la population nationale %)
+New Taipei | 17,4
+Taichung | 12,3
+Kaohsiung | 11,7
+Taipei | 10,5
+Taoyuan | 10,1
+Tainan | 7,9
+Autres 16 comtés-villes | 30,1
+Source : Département des affaires intérieures, fin 2025
 ```
 
-Regardez longtemps ce graphique en forme de gaufre, et une question viendra naturellement : quelle est la vie de ces 30 % d’habitants éparpillés sur 70 % du territoire ? La réponse se cache dans la densité.
+Observez un peu cette carte en gaufres, et une question surgit : quelle vie mènent ces 30 % dispersés sur 70 % du territoire ? La réponse se cache dans la densité.
 
-![La ligne d’horizon de Taipei, dans les quartiers de Xinyi et Nangang, avec ses gratte-ciels et ses immeubles jusqu’au ciel](/article-images/society/taipei-skyline-housing-2026.webp)
-_La skyline de Taipei. La ville la plus dense du pays, avec 8 975 habitants par km². Photo : Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
+![Ligne d'horizon de Taipei, districts de Xinyi et Nangang, tours résidentielles et de bureaux empilées densément](/article-images/society/taipei-skyline-housing-2026.webp)
+_L'horizon de Taipei. Le comté/ville le plus dense de l'île, 8 975 habitants par km². Photo : Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
 
-## De la plus forte densité à la plus faible : un écart de 151 fois
+## Du plus dense au plus vide, 151 fois d'écart
 
-La population parle de « combien de personnes », la densité parle de « combien c’est serré ». C’est cette dernière qui rend le contraste entre les deux Taïwan encore plus frappant.
+La concentration parle de « combien », la densité parle de « à quel point c'est serré ». Cette dernière fait mieux sentir la distance entre les deux Taïwan.
 
-Taipei, avec 8 975 habitants par km², est la ville la plus dense du pays. L’opression à Taipei est une réalité quotidienne : le métro bondé aux heures de pointe, les feux rouges qui prennent deux tours, les immeubles qui montent en hauteur et en largeur. Juste derrière, la ville de Hsinchu compte 4 376 habitants par km² — à peine la moitié de Taipei. Ensuite, la ville de Keelung avec 2 710 habitants. Entre ces trois villes les plus denses, la densité chute déjà comme un fossé.
+Taipei culmine à 8 975 hab./km², le plus dense de l'île. L'encombrement y est quotidien : métro bondé aux heures de pointe, deux cycles de feu rouge à attendre, immeubles hauts et étroits. Vient ensuite la ville de Hsinchu avec 4 376 hab./km², même pas la moitié de Taipei. Puis Keelung à 2 710 hab./km². Rien qu'entre ces trois villes les plus denses, la chute est déjà vertigineuse.
 
 ```tw-bars
-Taipei | 8 975 habitants/km²
-Hsinchu (ville) | 4 376 habitants/km²
-Keelung | 2 710 habitants/km²
-Changhua | 1 126 habitants/km²
-Hualien | 68 habitants/km²
-Taitung | 59 habitants/km² | La moins dense du pays
-Source : Bureau de la population du ministère de l’Intérieur, 31 décembre 2025
+Taipei | 8 975 hab./km²
+Hsinchu (ville) | 4 376 hab./km²
+Keelung | 2 710 hab./km²
+Changhua | 1 126 hab./km²
+Hualien | 68 hab./km²
+Taitung | 59 hab./km² | Le plus vide de l'île
+Source : Département des affaires intérieures, fin 2025
 ```
 
-Déplaçons maintenant le regard vers l’autre extrémité de ce graphique : c’est là que le contraste devient frappant. Changhua, avec 1 126 habitants par km², est déjà assez dense pour un comté agricole. En arrivant dans le [comté de Hualien](/fr/geography/hualien-county/), la densité tombe à 68 habitants par km². Et à l’extrémité la plus basse, le comté de Taitung, il ne reste que 59 habitants par km². Une seule km² à Taipei peut contenir autant de personnes que 151 km² à Taitung. Voilà ce que représente réellement un écart de 151 fois — vous pouvez le voir avec vos propres yeux en conduisant de Xinyi à Taitung, en regardant la densité défiler devant vous.
+Tournez le regard vers l'autre bout de ce graphique à barres, la fracture apparaît pleinement. Le comté de Changhua affiche 1 126 hab./km², déjà relativement dense pour un comté agricole. Arrivé au [comté de Hualien](/fr/geography/hualien-county/), le chiffre tombe à 68. Tout en bas, le comté de Taitung : 59 hab./km². Ce que Taipei loge en un km², Taitung met 151 km² à le loger. Voilà la vraie face de l'écart de 151 fois — vous roulez de Xinyi jusqu'à Taitung, et vous voyez de vos yeux la population s'éclaircir par la vitre.
 
-Derrière ce contraste se cache un fait géographique. Le plus vaste comté du pays est Hualien, avec 4 628 km² — presque toute la face est de la chaîne centrale. Grand, peu habité, montagneux : naturellement, Hualien et Taitung sont les comtés les plus peuplés du pays. Quant au [comté de Lianjiang](/fr/geography/lienchiang-county/), il ne couvre que 28,8 km². La densité dépend à la fois du choix des habitants et des contraintes naturelles du terrain.
+Derrière cela, un fait géographique joue aussi. Le plus vaste comté/ville est Hualien, 4 628 km², presque tout le flanc est de la chaîne centrale. Grand territoire, peu d'habitants, beaucoup de montagnes, la densité de Hualien et Taitung est naturellement diluée au plus bas. Le plus petit, [Lienchiang](/fr/geography/lienchiang-county/) (Matsu), ne fait que 28,8 km². La densité, c'est pour moitié le choix des gens, pour moitié la géographie donnée.
 
-On a souvent tendance à voir la haute densité comme un signe de progrès, et la basse densité comme un signe de retard. Mais cette association est inversée. La faible densité de Taitung n’est pas due à un manque de développement, mais à sa position : dos de la montagne, face à l’océan Pacifique, c’est un terrain naturellement vaste et peu dense. Dans la « brousse » d’Hualien, on trouve le parc national de Taroko, la chaîne côtière, et le paysage le plus intact de Taïwan. Les chiffres de densité ne vous disent que si c’est serré ou non — ils ne vous disent pas la valeur de ce terrain. Si l’on classe les 22 comtés du plus serré au plus désertique, on voit une île qui a poussé des formes de vie différentes selon les reliefs.
+On entend souvent que « densité forte = progrès », « densité faible = retard », mais ce lien de causalité est souvent inversé. Taitung n'est pas peu dense parce qu'il ne se développe pas, c'est parce qu'il est adossé aux grandes montagnes, face au Pacifique, structurellement vaste et peu peuplé. Le « vide » de Hualien contient Taroko, la chaîne côtière, les plus intacts paysages de montagne arrière de Taïwan. Le chiffre de densité ne dit que l'encombrement humain, pas la valeur de la terre. Aligner les 22 comtés-villes sur un spectre du serré au vide, c'est voir une île qui a fait pousser des modes de vie différents sur des reliefs différents.
 
-![La route de Brando à Pitou, dans le comté de Taitung, une allée de 2,2 km bordée de rizières, sans poteaux électriques](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
-_La route de Brando à Pitou, dans le comté de Taitung. Le comté le plus désertique du pays, avec seulement 59 habitants par km² — soit 1/151 de Taipei. Photo : Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg).\_
+![Allée Berlang à Chishang, Taitung, 2,2 km de route droite entre rizières ouvertes, sans poteaux électriques](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
+_L'allée Berlang à Chishang, Taitung. Le comté le plus vide de l'île, 59 hab./km², un cent cinquante-unième de Taipei. Photo : Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>).\_
 
 ## Géants et poussières
 
-Si la densité compare « serré ou non », l’échelle de la population compare « grand ou petit ». Et dans cette dimension, le contraste est encore plus saisissant.
+Si la densité compare le « serré », la taille de la population compare le « grand ». Sur cette dimension, l'écart est encore plus saisissant.
 
-La plus grande agglomération est Nouvelle Taipei, avec 4 044 831 habitants — une ville qui rivalise avec plusieurs pays étrangers. La plus petite est le comté de Lianjiang, autrement dit Matsu, avec seulement 13 621 habitants. Un seul district de Nouvelle Taipei contient 297 fois plus de monde que tout le comté de Lianjiang. Si tous les habitants de Lianjiang étaient déplacés à Nouvelle Taipei, ils ne rempliraient même pas une fraction de l’espace disponible. Même passeport, même identité chinoise-taïwanaise, mais un « total » qui n’est qu’une poussière dans un autre district.
+Le plus peuplé est New Taipei, 4 044 831 habitants, une ville qui en vaut bien des pays. Le moins peuplé est Lienchiang (Matsu), 13 621 habitants. New Taipei pèse 297 fois Lienchiang. Transférez toute la population de Lienchiang dans New Taipei, elle ne comblerait même pas un arrondi. Même passeport de la République de Chine, le « tout » d'un comté n'est qu'une poussière aux yeux de l'autre.
 
-Ces disparités d’échelle se traduisent directement par des défis administratifs. Nouvelle Taipei doit gérer la circulation, le logement, les soins de longue durée et les déchets pour 4 millions de personnes ; Lianjiang doit réfléchir à comment empêcher un comté insulaire de 13 000 habitants de continuer à perdre des résidents, à maintenir un hôpital, à garder le dernier bateau en circulation. Une même loi, une même politique centrale, appliquée à un écart de 297 fois, donne des résultats totalement différents. Quand on parle de « gouvernement local », on imagine souvent l’échelle urbaine — mais Taïwan compte de nombreux comtés qui gèrent un État entier avec l’échelle d’une poussière.
+Cet écart de taille devient directement un casse-tête de gouvernance. New Taipei gère les transports, le logement, les soins de longue durée, les déchets de quatre millions de personnes ; Lienchiang doit réfléchir à comment empêcher ses 13 000 insulaires de continuer à partir, comment maintenir un hôpital, comment faire en sorte que le dernier bateau parte encore. La même loi, la même politique centrale, appliquées à un écart de 297 fois, donnent des réalités de terrain radicalement différentes. Quand nous parlons de « gouvernements locaux », nous pensons souvent à l'échelle urbaine, mais une bonne partie des comtés-villes de Taïwan font tourner une machine administrative complète avec une échelle de poussière.
 
-Attention cependant à une erreur d’interprétation. Être petit ne signifie pas nécessairement être jeune. On pourrait penser que les îles et les petits comtés, vidés de leurs jeunes par l’exode rural, ne sont composés que d’anciens ; et que les grandes villes, riches en ressources et en opportunités, sont pleines de jeunes. Mais les données réelles contredisent ces deux hypothèses. Le comté de Lianjiang, bien que le plus peuplé, a un taux de vieillissement de seulement 17,14 % — inférieur à plusieurs grands comtés. Et Taipei, la quatrième plus peuplée et l’une des villes les plus dynamiques, a le taux de vieillissement le plus élevé du pays : 24,18 %. Entre l’échelle et le vieillissement, il n’existe pas une relation linéaire. Pour comprendre comment Taïwan vieillit, il faut changer de carte.
+Mais attention à un piège intuitif : petit ne veut pas dire jeune. On pourrait croire que les îles et petits comtés, vidés de leurs jeunes, ne gardent que des vieux, donc petits et vieux ; et que les grandes métropoles, riches en ressources et opportunités, sont grandes et jeunes. Les données réelles renversent ces deux hypothèses. Lienchiang est le moins peuplé, mais son taux de vieillissement est de 17,14 %, plus bas que plusieurs grands comtés ; Taipei, quatrième population, métropole florissante, affiche 24,18 %, le plus haut de l'île. Entre taille et vieillissement, il n'y a pas de ligne droite. Pour comprendre comment Taïwan vieillit, il faut changer de carte.
 
-## Le front du vieillissement n’est pas dans les villes
+## La frontière du vieillissement n'est pas dans les villes
 
-En 2025, Taïwan franchit une nouvelle frontière : 20,06 % de la population a plus de 65 ans, et entre officiellement dans la catégorie de « société ultra-vieillissante » selon l’OMS. Cela signifie que 4,67 millions de Taïwanais ont plus de 65 ans — un sur cinq. Et parmi les 22 comtés, 14 ont dépassé le seuil de 20 %. Le vieillissement est devenu la couleur dominante de l’île.
+En 2025, Taïwan franchit un seuil : la part nationale des 65 ans et plus atteint 20,06 %, entrant officiellement dans la « société super-âgée » selon la définition de l'OMS. Soit 4,67 millions de personnes de plus de 65 ans, un Taïwanais sur cinq est aîné. Et sur les 22 comtés-villes, 14 ont déjà un taux de vieillissement supérieur à 20 %. Vieux, c'est devenu la couleur de fond commune à toute l'île.
 
-Mais cette moyenne nationale de 20,06 % masque des disparités internes énormes. Le tableau ci-dessous classe les 22 comtés par taux de vieillissement et par indice de vieillissement. C’est l’un des tableaux les plus importants de cet article. Avant de le lire, comprenons ce qu’est l’« indice de vieillissement » : il s’agit du nombre de personnes de 65 ans et plus divisé par le nombre d’enfants de 0 à 14 ans, multiplié par 100. Un score de 100 signifie que les personnes âgées et les enfants sont équilibrés ; plus le chiffre est élevé, plus la population est « tête lourde » — plus il y a de personnes âgées en haut, et moins il y a d’enfants en bas.
+Mais cette moyenne nationale de 20,06 % aplatit totalement les différences internes dramatiques. Le tableau ci-dessous aligne les taux de vieillissement et indices de vieillissement des 22 comtés-villes, c'est la figure la plus importante à scruter dans cet article. Rappel : l'indice de vieillissement = (population 65+ / population 0-14) × 100. 100 signifie autant de vieux que d'enfants, plus c'est haut, plus la pyramide est « lourde en haut, légère en bas », plus il y a de vieux au sommet, moins d'enfants à la base.
 
 ```tw-heatmap
-Comté | Taux de vieillissement 65+ (%) | Indice de vieillissement
-Taipei | 24.18 | 202.06
-Nouvelle Taipei | 19.95 | 185.54
-Taoyuan | 16.72 | 127.33
-Taichung | 17.40 | 136.45
-Tainan | 20.48 | 184.96
-Kaohsiung | 20.79 | 192.10
-Keelung | 22.28 | 240.21
-Hsinchu (ville) | 16.16 | 106.59
-Chiayi (ville) | 19.90 | 164.47
-Hsinchu (comté) | 15.08 | 101.88
-Miaoli | 20.23 | 179.56
-Changhua | 20.37 | 178.35
-Nantou | 22.66 | 224.64
-Yunlin | 21.76 | 206.78
-Chiayi (comté) | 24.11 | 291.69
-Pingtung | 21.84 | 218.72
-Yilan | 20.77 | 189.67
-Hualien | 21.52 | 200.53
-Taitung | 20.93 | 194.71
-Penghu | 21.03 | 223.65
-Kinmen | 19.69 | 255.57
-Lianjiang | 17.14 | 180.23
-Source : Bureau de la population du ministère de l’Intérieur, 31 décembre 2025
+Comté/Ville | Taux de vieillissement 65+ (%) | Indice de vieillissement
+Taipei | 24,18 | 202,06
+New Taipei | 19,95 | 185,54
+Taoyuan | 16,72 | 127,33
+Taichung | 17,40 | 136,45
+Tainan | 20,48 | 184,96
+Kaohsiung | 20,79 | 192,10
+Keelung | 22,28 | 240,21
+Hsinchu (ville) | 16,16 | 106,59
+Chiayi (ville) | 19,90 | 164,47
+Hsinchu (comté) | 15,08 | 101,88
+Miaoli | 20,23 | 179,56
+Changhua | 20,37 | 178,35
+Nantou | 22,66 | 224,64
+Yunlin | 21,76 | 206,78
+Chiayi (comté) | 24,11 | 291,69
+Pingtung | 21,84 | 218,72
+Yilan | 20,77 | 189,67
+Hualien | 21,52 | 200,53
+Taitung | 20,93 | 194,71
+Penghu | 21,03 | 223,65
+Kinmen | 19,69 | 255,57
+Lienchiang | 17,14 | 180,23
+Source : Département des affaires intérieures, fin 2025
 ```
 
-En lisant ce tableau, portez une attention particulière à la colonne de l’indice de vieillissement. Le plus élevé est le comté de Chiayi, avec 291,69 — ce qui signifie qu’il y a près de trois personnes âgées pour chaque enfant. Juste derrière, Kinmen (255,57) et Keelung (240,21). Ces trois localités partagent une caractéristique commune : ce sont des comtés agricoles, des îles, ou des anciennes villes industrielles en déclin, et aucune n’appartient à la liste des villes les plus dynamiques de Taïwan. Le front du vieillissement se trouve dans ces coins qui ont perdu leurs jeunes vers les villes. Quand les jeunes partent pour travailler ou étudier, ceux qui restent finissent par s’agrandir ; et les naissances ne suffisent pas à compenser.
+En lisant ce tableau, regardez surtout la colonne de l'indice de vieillissement. Le plus haut est le comté de Chiayi, 291,69 : pour un enfant, près de trois personnes âgées. Suivent Kinmen 255,57, Keelung 240,21. Ces trois partagent un trait : ce sont tous des comtés agricoles, des îles, ou d'anciens ports industriels en déclin, aucun ne figure parmi les villes les plus florissantes. La frontière la plus avancée du vieillissement tombe dans ces coins confrontés depuis longtemps à l'exode des jeunes. Quand les jeunes partent travailler, étudier, ceux qui restent vieillissent, les naissances ne suivent pas, l'indice grimpe.
 
-Alors, où se trouve le coin le plus jeune du pays ? La réponse surprendra peut-être beaucoup : pas dans un coin isolé, mais à côté des usines technologiques. Le comté de Hsinchu a un taux de vieillissement de seulement 15,08 %, le plus bas du pays ; son indice de vieillissement est de 101,88, soit presque un équilibre parfait entre personnes âgées et enfants — ce qui le distingue nettement dans un paysage national dominé par le vieillissement. La ville de Hsinchu suit avec 16,16 %, puis Taoyuan avec 16,72 %. Ces trois localités partagent une même raison d’être jeunes : le parc industriel de Hsinchu. L’industrie des semi-conducteurs et des technologies a attiré des milliers d’ingénieurs et de techniciens en âge de se marier et d’avoir des enfants, ce qui a tiré la structure démographique de ces comtés vers la jeunesse. Le parc industriel de Hsinchu a non seulement soutenu les exportations de Taïwan, mais aussi la tranche de population la plus jeune du pays.
+Alors, où est le coin le plus jeune de l'île ? La réponse surprend : pas dans un paradis perdu, mais à côté des usines high-tech. Le comté de Hsinchu n'a que 15,08 % de 65+, le plus bas de l'île ; indice de vieillissement 101,88, quasi parité vieux/enfants, une exception d'équilibre dans une île vieillissante. La ville de Hsinchu 16,16 %, Taoyuan 16,72 % suivent de près. Ces trois endroits doivent leur jeunesse à une cause quasi unique : le parc scientifique de Hsinchu (Hsinchu Science Park). Les semi-conducteurs et la tech attirent masses d'ingénieurs, techniciens en âge de procréer, qui s'y installent, fondent famille, font des enfants, tirant durement la structure d'âge vers le jeune. Le parc scientifique soutient non seulement les exportations de Taïwan, mais aussi sa plus jeune carte démographique.
 
-Comparons les deux extrémités : le comté de Hsinchu (le plus jeune) et le comté de Chiayi (le plus âgé).
+Mettons les deux extrêmes face à face, la fracture saute aux yeux.
 
 ```tw-versus
-Hsinchu (comté) (le plus jeune) | Chiayi (comté) (le plus âgé)
-65+ : 15.08 % | 65+ : 24.11 %
-Indice de vieillissement : 101.88 | Indice de vieillissement : 291.69
-Population en croissance | Population en déclin
-Soutenu par le parc technologique | Front du vieillissement agricole
-Source : Bureau de la population du ministère de l’Intérieur, 31 décembre 2025
+Comté de Hsinchu (le plus jeune) | Comté de Chiayi (le plus vieux)
+65+ : 15,08 % | 65+ : 24,11 %
+Indice de vieillissement 101,88 | Indice de vieillissement 291,69
+Population encore en croissance | Population en perte continue
+Jeunesse portée par le parc scientifique | Frontière du vieillissement agricole
+Source : Département des affaires intérieures, fin 2025
 ```
 
-Le taux de vieillissement de Hsinchu (15,08 %) contre celui de Chiayi (24,11 %) représente un écart de 9 points de pourcentage ; l’indice de vieillissement passe de 101,88 à 291,69 — un écart de près de trois fois. L’un est en croissance, avec une population qui s’y installe ; l’autre est en déclin, avec une population qui s’en va. Sur une même île, ces deux comtés diffèrent d’environ une génération en termes de vieillissement. Dans les parcs d’Hsinchu, vous verrez probablement des jeunes parents poussentant des poussettes ; dans les campagnes de Chiayi, les rues seront probablement bordées de personnes âgées marchant lentement. Ces deux Taïwan-là sont tous deux le fruit des mêmes chiffres du Bureau de la population.
+Hsinchu 15,08 % contre Chiayi 24,11 %, écart de 9 points de taux de vieillissement ; indice 101,88 contre 291,69, près de trois fois. L'un grandit encore, population entrante ; l'autre perd sans cesse, population sortante. Deux comtés sur la même île, le degré de vieillissement diffère de près d'une génération. Dans un parc de Hsinchu, vous verrez des jeunes parents pousser la poussette ; dans une campagne de Chiayi, une rue entière de seniors qui marchent lentement. Ces deux Taïwan, ce sont les chiffres du Département des affaires intérieures qui les dessinent.
 
-Il est important de corriger ici une idée reçue populaire : beaucoup pensent que le vieillissement n’arrive qu’aux campagnes et aux îles, et que les grandes villes, avec leurs jeunes et leurs opportunités, devraient être à l’abri de ce phénomène. Mais les données montrent le contraire. Le taux de vieillissement de Taipei est de 24,18 %, le plus élevé du pays ; et son indice de vieillissement, 202,06, est le plus élevé parmi les six villes. Taipei, la ville la plus dynamique et la plus riche du pays, est aussi la plus âgée des six villes. La raison est simple : les prix immobiliers à Taipei sont élevés, les jeunes couples s’installent à Nouvelle Taipei ou Taoyuan, et ceux qui restent dans la ville centrale sont ceux qui y ont émergé plus tôt et qui vieillissent progressivement. La vitalité urbaine ne protège pas du vieillissement — elle le manifeste d’une autre manière. Le vieillissement n’est pas une maladie des comtés : c’est la condition commune de toute l’île, seulement avec des rythmes différents.
+Il faut ici dissiper un malentendu répandu : beaucoup croient que le vieillissement est l'apanage de la campagne et des îles, les grandes métropoles, pleines de jeunes et d'opportunités, en seraient immunisées. Les données disent non. Le taux de vieillissement de Taipei est de 24,18 %, le plus haut de l'île ; son indice de vieillissement 202,06 est aussi le plus haut des six métropoles. Cette ville la plus prospère, la plus riche en ressources, est simultanément la plus vieille des six. La raison est claire : logement cher à Taipei, les jeunes familles sont poussées vers New Taipei, Taoyuan pour fonder foyer ; ceux qui restent en centre-ville sont les générations installées depuis longtemps, qui vieillissent sur place. La prospérité urbaine n'arrête pas le vieillissement, elle le vit juste autrement. Le vieillissement n'est pas la maladie de quelques comtés, c'est la condition commune de l'île entière, seulement avec des vitesses et des séquences différentes.
 
-## Une île qui vieillit ensemble
+## Une île, vieillissante ensemble
 
-En élargissant le champ de la ville au pays entier, l’histoire du vieillissement de Taïwan révèle une autre dimension encore plus inquiétante : la vitesse.
+Reculez du comté au national, l'histoire du vieillissement taïwanais a une dimension plus alarmante encore : la vitesse.
 
-Taïwan n’a pas commencé à vieillir aujourd’hui. En 1993, 7 % de la population avait plus de 65 ans — un seuil international marquant l’entrée dans la « société vieillissante ». En 2018, ce chiffre atteignait 14,05 %, franchissant la frontière de la « société vieillissante avancée ». En 2025, il dépassait 20 %, devenant officiellement une « société ultra-vieillissante ». Ces trois jalons semblent simplement trois dates, mais ils cachent une pente qui s’accélère.
+Taïwan ne commence pas à vieillir aujourd'hui. En 1993, la part des 65+ dépasse 7 %, entrant selon la définition internationale en « société vieillissante ». En 2018, 14,05 %, « société âgée ». En 2025, franchissement des 20 %, « société super-âgée ». Trois jalons qui ressemblent à trois années, mais cachent une pente de plus en plus raide.
 
 ```tw-timeline
-1993 | Société vieillissante | 65+ dépasse 7 %, Taïwan commence à vieillir
-2018 | Société vieillissante avancée | 65+ atteint 14 %, 25 ans après le précédent jalon
-2025 | Société ultra-vieillissante | 65+ dépasse 20 %, ce jalon n’a duré que 7 ans
+1993 | Société vieillissante | 65+ > 7 %, Taïwan commence à vieillir
+2018 | Société âgée | 65+ = 14 %, 25 ans depuis le palier précédent
+2025 | Société super-âgée | 65+ > 20 %, ce palier franchi en seulement 7 ans
+Source : Statistiques de population du Département des affaires intérieures et définitions internationales des seuils de vieillissement (1993 7 %, 2018 14,05 %, 2025 20 %)[^1]
 ```
 
-Regardez l’espacement entre ces deux segments de la ligne du temps. De 7 % à 14 %, Taïwan a mis 25 ans ; de 14 % à 20 %, seulement 7 ans. Ce dernier tronçon a été parcouru en moins d’un tiers du temps du précédent. Taïwan vieillit — et de plus en plus vite. Ce phénomène est rapide dans presque tous les pays ; alors que d’autres nations disposent de plusieurs décennies pour ajuster leurs systèmes de soins, de retraite et de santé, Taïwan doit tout construire en sept ans — une fenêtre extrêmement courte.
+Regardez les deux intervalles sur cette frise. De 7 % à 14 %, 25 ans ; de 14 % à 20 %, seulement 7 ans. Le second tronçon a pris moins du tiers du temps du premier. Taïwan vieillit, et de plus en plus vite. C'est abrupt même à l'échelle mondiale : d'autres pays ont eu des décennies pour ajuster soins de longue durée, retraites, système de santé ; Taïwan est compressé en sept ans, doit bâtir tout l'édifice de la prise en charge des aînés dans une fenêtre très courte.
 
 ```tw-line
-Évolution du pourcentage de la population de 65 ans et plus à l’échelle nationale (%)
-Année | 65+ (%)
-2000 | 8.6
-2010 | 10.7
-2020 | 16.1
-2025 | 20.06
-Source : Ministère de l’Intérieur, Conseil national du développement
+Évolution de la part nationale des 65 ans et plus (%)
+Année | 65+ %
+2000 | 8,6
+2010 | 10,7
+2020 | 16,1
+2025 | 20,06
+Source : Département des affaires intérieures, Conseil national du développement
 ```
 
-Cette ligne ascendante rend l’accélération encore plus visible. En 2000, 8,6 % de la population avait plus de 65 ans ; en 2010, 10,7 % — une augmentation d’à peine 2 points en dix ans. Mais entre 2010 et 2020, le chiffre passe de 10,7 % à 16,1 %, puis atteint 20,06 % en 2025. La pente de la courbe s’accentue clairement. La courbe de vieillissement de Taïwan continue de monter.
+Cette courbe ascendante montre l'accélération plus lisiblement encore. 2000 : 8,6 % ; 2010 : 10,7 %, dix ans pour gagner 2 points ; 2010-2020 : de 10,7 % à 16,1 %, puis 20,06 % en 2025. Le bout de la ligne est nettement plus raide que son départ. La courbe de vieillissement de Taïwan se redresse vers le haut.
 
-Le revers du vieillissement, c’est l’effondrement de la natalité. En 2025, Taïwan a enregistré pour la première fois moins de 110 000 naissances : seulement 107 812. Le vieillissement et la baisse des naissances sont deux faces de la même pièce : plus il y a de personnes âgées, moins il y a d’enfants pour les remplacer, et la structure démographique devient de plus en plus déséquilibrée. C’est aussi pourquoi les indices de vieillissement dans les comtés ci-dessus sont si élevés : plus il y a de personnes âgées, moins il y a d’enfants.
+L'autre face du vieillissement, c'effondrement des naissances. En 2025, les nouveau-nés taïwanais passent pour la première fois sous 110 000 : 107 812 seulement. Dénatalité et vieillissement sont les deux faces d'une même pièce : plus de vieux en haut, moins d'enfants qui remontent en bas, la structure entière s'alourdit par le sommet. C'est pourquoi les indices de vieillissement de ces comtés grimpent si haut : les vieux augmentent, les enfants deviennent trop rares.
 
-> **📝 Note de l’éditeur**
-> On a souvent tendance à voir la « baisse de population » comme une simple « migration des jeunes des campagnes vers les villes », comme s’il s’agissait d’un déplacement interne. Mais les données de 2025 révèlent une vérité plus fondamentale : dans tous les 22 comtés, l’« accroissement naturel » est négatif. Autrement dit, partout en Taïwan — villes comme campagnes, grands ou petits comtés — les décès dépassent les naissances. Ce n’est plus une question de qui va où : c’est une île entière qui meurt plus qu’elle ne naît. Les migrations ne font que redistribuer une population déjà en déclin — elles ne créent aucune nouvelle vie.
+> **📝 Note du commissaire**
+> On comprend aisément la « baisse de population » comme « les jeunes quittent la campagne pour la ville, donc la campagne diminue, la ville augmente », comme un simple déménagement intra-insulaire. Mais les données 2025 révèlent quelque chose de plus fondamental : les 22 comtés-villes ont tous un « accroissement naturel » négatif. C'est-à-dire que dans chaque comté/ville de Taïwan, sans distinction ville/campagne, grand/petit, les décès dépassent les naissances. Ce n'est plus une question de flux migratoires, c'est l'île entière qui meurt plus qu'elle ne naît. Les entrées-sorties ne font que redistribuer une population qui rétrécit déjà, elles ne créent aucun nouvel humain.
 
-Cela mérite d’être réfléchi avec soin. En 2025, seuls quatre comtés — Taoyuan, Hsinchu (comté), Taichung et Hsinchu (ville) — connaissent encore une croissance. Et cette croissance provient entièrement de l’« accroissement social », c’est-à-dire des migrations entrantes — ils attirent des habitants d’autres comtés, mais ne se reproduisent pas suffisamment pour compenser. Les 18 autres comtés connaissent tous un déclin. Les plus forts déclins concernent Kinmen, Lianjiang et Taipei — et remarquez que même Taipei, la ville la plus dynamique, figure sur cette liste. Quand chaque coin de l’île voit ses naissances insuffisantes pour compenser ses décès, ces quatre comtés en croissance ne font que profiter temporairement du déclin des autres.
+Ce fait mérite qu'on s'arrête. En 2025, seuls quatre comtés-villes croissent encore : Taoyuan, comté de Hsinchu, Taichung, ville de Hsinchu. Et leur croissance vient entièrement de l'« accroissement social », c'est-à-dire l'arrivée de populations extérieures, en aspirant les gens des autres comtés, pas par leurs propres naissances. Hors ces quatre, les 18 autres comtés-villes voient leur population baisser. Les plus fortes baisses : Kinmen, Lienchiang, Taipei — attention, même la florissante Taipei figure sur la liste des pertes. Quand dans chaque recoin de l'île les naissances ne compensent pas les décès, ces quatre qui grandissent encore ne font que surfer temporairement sur les pertes des autres.
 
-C’est ainsi que la population totale continue de baisser depuis 23 mois, pour atteindre 23 299 132 habitants. C’est une contraction synchronisée de toute l’île : chaque comté se réduit. La différence est que certains temporisent grâce aux migrations, tandis que d’autres n’ont même pas cette possibilité.
+C'est pourquoi la population totale baisse depuis 23 mois consécutifs, tombant à 23 299 132. C'est une contraction synchronisée de l'île entière, chaque comté/ville rétrécit. La différence : certains s'appuient sur l'afflux pour tenir le coup un temps, d'autres n'ont même pas ce tampon.
 
-## Le portrait dessiné par les chiffres
+## Le portrait que dessinent les données
 
-Revenons au point de départ. De Xinyi à Taitung, la densité passe de 8 975 habitants par km² à 59 — comme si l’on traversait deux pays. Maintenant que vous le savez, ce n’est plus seulement un contraste de densité. Sur cette route, la population passe du géant à la poussière, le vieillissement glisse du front soutenu par le parc technologique vers celui des comtés agricoles, et ce qui ne change pas : quel que soit le comté où vous vous arrêtez, les décès dépassent déjà les naissances.
+Revenons à ce trajet initial. De Xinyi à Taitung, la densité passe de 8 975 à 59 hab./km², comme traverser deux pays. Maintenant vous savez, ce n'est pas qu'un écart de densité. Sur cette route, la taille de population passe du géant à la poussière, le vieillissement glisse de la jeunesse portée par le parc scientifique vers la frontière du vieillissement agricole, et la seule constante, c'est que quel que soit le comté/ville où vous vous arrêtez, les décès y dépassent déjà les naissances.
 
-Voici le portrait de Taïwan en 2025 : une île fortement divisée, et qui vieillit ensemble. Les disparités internes sont impressionnantes — densité multipliée par 151, échelle par 297, vieillissement d’environ une génération — mais la situation fondamentale est étonnamment unie : toute l’île meurt plus qu’elle ne naît, la population totale baisse depuis 23 mois, et en sept ans, Taïwan est passée d’une société vieillissante à une société ultra-vieillissante. Le Conseil national du développement prédit que, selon les scénarios les plus probables, la population totale tombera à 14,97 millions en 2070, avec 46,5 % de personnes de plus de 65 ans ; et que l’« avantage démographique » prendra fin en 2028. Ce portrait ne s’améliorera pas tout seul.[^3]
+Voilà le portrait de Taïwan 2025 : un visage hautement divisé, qui vieillit ensemble. Ses fractures internes sont stupéfiantes — densité 151 fois, taille 297 fois, vieillissement près d'une génération — mais sa condition fondamentale est frappante d'uniformité : toute l'île meurt plus qu'elle ne naît, population totale en baisse 23 mois d'affilée, sept ans pour passer de société âgée à super-âgée. Le Conseil national du développement projette (scénario médian) qu'en 2070 la population tombera à 14,97 millions, les 65+ à 46,5 % ; en 2028, le dividende démographique s'achèvera. Ce portrait ne s'améliorera pas tout seul.[^3]
 
-Reconnaître que Taïwan est fortement inégalement divisée à l’intérieur, c’est pour mieux comprendre les véritables défis de cette île : un territoire aussi disparate doit gérer les politiques pour les quatre millions de personnes concentrées dans les vallées et les 13 000 habitants des îles, tout en confrontant le comté le plus jeune (Hsinchu) au comté le plus âgé (Chiayi). Elle est divisée, mais elle doit agir comme un tout ; elle vieillit, mais elle doit y faire face ensemble. Les chiffres nous ont dessiné ce visage — et c’est à toute l’île de répondre à la question suivante : que fait-on face à ce visage ?
+Reconnaître cette hétérogénéité interne, c'est voir le vrai défi de l'île : un lieu aux écarts si grands doit, avec une seule politique, soigner à la fois les quatre millions entassés dans le bassin et les 13 000 gardiens des îles, faire face simultanément au plus jeune Hsinchu et au plus vieux Chiayi. Il est divisé, mais doit agir comme un tout ; il vieillit, mais doit ensemble trouver des réponses. Les données ont dessiné ce visage, la suite — comment y répondre — est la question que l'île toute entière doit résoudre.
 
 ## Lectures complémentaires
 
-- [Taipei](/fr/geography/taipei-city) — La ville la plus dense du pays (8 975 habitants/km²), et aussi la plus âgée des six villes (indice de vieillissement 202). Le personnage central de cet article, à la fois dans la densité et le vieillissement.
-- [Taitung](/fr/geography/taitung-county) — L’extrémité la plus déserte du pays (59 habitants/km²). Deux îles portent le fardeau de toute une île.
-- [Chiayi (comté)](/fr/geography/chiayi-county) — Indice de vieillissement 291,69, le plus élevé du pays : près de trois personnes âgées pour chaque enfant. Le front du vieillissement agricole.
-- [Hsinchu (comté)](/fr/geography/hsinchu-county) — Taux de vieillissement 15,08 %, le plus bas du pays. Le parc technologique a tiré la population vers la jeunesse.
-- [Crise de la baisse de natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — L’autre face de ce portrait : moins de 110 000 naissances, et une île qui meurt plus qu’elle ne naît.
+- [Taipei](/fr/geography/taipei-city) — Le plus dense de l'île (8 975 hab./km²), aussi le plus vieux des six métropoles (indice 202), protagoniste des deux extrêmes densité et vieillissement de cet article.
+- [Taitung](/fr/geography/taitung-county) — Le bout le plus vide (59 hab./km²), deux îles qui portent le prix d'une île entière.
+- [Chiayi (comté)](/fr/geography/chiayi-county) — Indice de vieillissement 291,69, le plus haut, près de trois vieux par enfant, figure de proue du vieillissement agricole.
+- [Hsinchu (comté)](/fr/geography/hsinchu-county) — Taux de vieillissement 15,08 % le plus bas, le parc scientifique qui tire la structure d'âge vers le jeune.
+- [Crise de la dénatalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — L'autre face de ce portrait : naissances sous 110 000, toute l'île en déficit de naissance.
 
 ## Sources des images
 
-Cet article utilise 3 images : l’image principale est une image satellite du domaine public de la NASA (mise en cache dans `public/article-images/`), et les deux images intégrées sont sous licence Creative Commons (Wikimedia Commons), avec attribution :
+Cet article utilise 3 images, l'image d'en-tête est une mosaïque satellite NASA domaine public (mise en cache dans `public/article-images/`), deux images inline sous licence Creative Commons (Wikimedia Commons), toutes sourcées :
 
-- [Image satellite de l’île de Taïwan (mosaïque NASA 2020)](https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg) (image principale) — NASA, domaine public.
-- [Skyline de Taipei](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) (section la plus dense) — Photo : Heeheemalu, 2026, CC BY-SA 4.0.
-- [Route de Brando à Pitou](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) (section la plus déserte) — Photo : Sinchen.Lin, 2016, CC BY 2.0.
+- [Image satellite de l'île de Taïwan (mosaïque NASA 2020)](https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg) (en-tête) — NASA, domaine public.
+- [Ligne d'horizon de Taipei](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) (partie la plus dense) — Photo : Heeheemalu, 2026, CC BY-SA 4.0.
+- [Allée Berlang à Chishang, Taitung](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) (partie la plus vide) — Photo : Sinchen.Lin, 2016, CC BY 2.0.
 
 ## Références
 
-[^1]: Bureau de la population du ministère de l’Intérieur, Données démographiques (au 31 décembre 2025 : population, superficie, densité, proportion des 65 ans et plus, indice de vieillissement pour les 22 comtés). La somme des populations des 22 comtés donne exactement 23 299 132, conformément au total officiel.https://www.ris.gov.tw/app/portal/346
+[^1]: Département des affaires intérieures, statistiques de population (fin année 114 / 31-12-2025, population par comté/ville, superficie, densité, taux 65+, indice de vieillissement). La somme des 22 comtés-villes 23 299 132 correspond exactement au total officiel.https://www.ris.gov.tw/app/portal/346
 
-[^2]: Agence Chinevue / Ministère de l’Intérieur, « Taïwan entre officiellement dans la société ultra-vieillissante », 9 janvier 2026. Le rapport indique que la population totale au 31 décembre 2025 est de 23 299 132 habitants, avec 20,06 % de personnes de plus de 65 ans (4,67 millions), le comté de Taipei étant le plus âgé (24,18 %) et le comté de Hsinchu le plus jeune (15,08 %), avec 107 812 naissances en 2025.https://www.cna.com.tw/news/ahel/202601090098.aspx
+[^2]: Agence centrale de presse / Département des affaires intérieures, « Taïwan entre officiellement en société super-âgée », 09-01-2026. L'article cite : population totale fin 2025 23 299 132, 65+ 20,06 % (4,67 millions), Taipei 24,18 % le plus haut, comté de Hsinchu 15,08 % le plus bas, nouveau-nés 2025 : 107 812.https://www.cna.com.tw/news/ahel/202601090098.aspx
 
-[^3]: Conseil national du développement, « Projections de la population de la République de Chine (2024–2070) », publié le 17 octobre 2024. Selon les projections les plus probables, Taïwan franchira le seuil de la société ultra-vieillissante en 2025, que l’« avantage démographique » prendra fin en 2028 (les personnes en âge de travailler représenteront moins de 2/3 de la population), et que la population totale tombera à 14,97 millions avec 46,5 % de personnes de plus de 65 ans en 2070.https://www.ndc.gov.tw/nc_27_38548
+[^3]: Conseil national du développement, « Projections de population de la République de Chine (2024–2070) », publié le 17-10-2024. Scénario médian : Taïwan entre en société super-âgée en 2025, dividende démographique finit en 2028 (population en âge de travailler < 2/3 total), population 2070 à 14,97 millions, 65+ à 46,5 %.https://www.ndc.gov.tw/nc_27_38548
 
-[^4]: Ministère de l’Intérieur, réforme administrative des cinq villes de 2010 (le comté de Taipei devient la ville de Nouvelle Taipei, fusion des comtés et villes de Taichung, Tainan et Kaohsiung, entrée en vigueur le 25 décembre 2010) ; Agence Chinevue, « La réforme de Taoyuan en ville de district prend effet le 25 décembre », 15 décembre 2014.https://www.cna.com.tw/news/firstnews/201412150027.aspx
+[^4]: Département des affaires intérieures, réforme des cinq métropoles 2010 (comté de Taipei → New Taipei, fusions Taichung, Tainan, Kaohsiung, effet 25-12-2010) ; Agence centrale de presse, « Taoyuan devient municipalité spéciale, inauguration le 25 décembre », 15-12-2014.https://www.cna.com.tw/news/firstnews/201412150027.aspx
 
-[^5]: Ministère de l’Intérieur, « Taïwan entre officiellement dans la société vieillissante avancée » (65 ans et plus représentant 14,05 %), 2018.https://www.moi.gov.tw/News_Content.aspx?n=2&s=11663
-
-```
-
-```
+[^5]: Département des affaires intérieures, « Notre pays entre officiellement en société âgée » (65+ = 14,05 %), 2018.https://www.moi.gov.tw/News_Content.aspx?n=2&s=11663
