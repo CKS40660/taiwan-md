@@ -1,88 +1,88 @@
 ---
-title: 'Seni Jalanan dan Budaya Graffiti Taiwan'
-description: 'Dari graffiti bawah tanah ke lukisan legal, bagaimana dinding kota menjadi panggung karya seniman Taiwan'
+title: 'Seni Jalanan dan Budaya Grafiti di Taiwan'
+description: 'Seni jalanan Taiwan masuk melalui budaya hip-hop pasca-pencabutan darurat; dari skena bawah tanah di Ximending hingga model "Desa Pelangi" oleh veteran Huang Yung-fu, hingga ruang kreatif legal seperti Pier-2 Kaohsiung.'
 date: 2026-03-20
 category: 'Culture'
-tags: ['Seni jalanan', 'graffiti', 'budaya urban', 'seni publik', 'subbudaya']
+tags: ['seni jalanan', 'grafiti', 'budaya urban', 'seni publik', 'subkultur']
 subcategory: '藝術園區'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '18157ab5d'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:9d5872fcc273adaa'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-09-13T05:56:48+08:00'
+translatedAt: '2026-10-15T15:59:50+08:00'
 ---
 
-# Seni Jalanan dan Budaya Graffiti Taiwan
+# Seni Jalanan dan Budaya Grafiti di Taiwan
 
-> **Ringkasan 30 detik:** Seni jalanan Taiwan bermula setelah pemberlakuan hukum darurat dicabut pada 1987, dibawa bersama budaya hip-hop, mengalami periode inkubasi adegan graffiti bawah tanah pada 1990-an, dan mulai beralih ke kreasi legal pada awal 2000-an. Veteran perang Huang Yong-fu (黃永阜) pada 2008 mulai melukis di dinding kampung militer di Distrik Nantun, Taichung, melahirkan model "Kampung Pelangi" yang banyak ditiru; ruang kreatif seperti Kawasan Seni Pier-2 (駁二藝術特區) di Kaohsiung berturut-turut menyediakan panggung legal, dan seni jalanan Taiwan dengan demikian keluar dari bawah tanah, membentuk estetika lokal yang memadukan simbol budaya lokal.
+> **Ringkasan 30 Detik:** Seni jalanan Taiwan masuk melalui budaya hip-hop setelah pencabutan darurat pada tahun 1987, melewati fase inkubasi skena grafiti bawah tanah pada 1990-an, dan mulai beralih ke kreasi legal pada awal 2000-an. Pada tahun 2008, veteran Huang Yung-fu (黃永阜) mulai melukis dinding di pemukiman militer distrik Nantun, Taichung, yang memicu model "Desa Pelangi" yang banyak ditiru; ruang kreatif seperti Pier-2 Art Center di Kaohsiung secara bertahap menyediakan panggung legal, membawa seni jalanan Taiwan keluar dari dunia bawah tanah dan membentuk estetika lokal yang memadukan simbol budaya asli.
 
-Dari tanda semprotan cat malam hari di Ximending (西門町), hingga pemerintah mengundang seniman memasuki taman kreatif, seni jalanan Taiwan telah melalui perjalanan evolusi hampir tiga puluh tahun, memantulkan jejak pembukaan masyarakat dan redefinisi ruang kota pasca-pencabutan hukum darurat.
+Dari tanda semprotan cat di Ximending saat larut malam, hingga undangan pemerintah bagi para seniman untuk menempati kawasan kreatif, seni jalanan Taiwan telah melewati proses evolusi selama hampir tiga dekade, mencerminkan lintasan keterbukaan sosial dan redefinisi ruang kota pasca-pencabutan darurat.
 
-## Akar Subbudaya Pasca-Pencabutan Hukum Darurat
+## Akar Subkultur Pasca-Pencabutan Darurat
 
-Pencabutan hukum darurat pada 1987 membuka ruang bagi subbudaya Taiwan. Seiring pelonggaran sensor pidato dan perluasan saluran media Barat, budaya hip-hop memasuki cakrawala kaum muda Taiwan pada awal 1990-an. Graffiti sebagai salah satu dari empat elemen hip-hop, bersama rap, DJ, dan street dance, membentuk komunitas subbudaya bawah tanah di Taipei, berkumpul di sekitar lorong bawah tanah dan pagar proyek di area Ximending (西門町) dan Zhongxiao East Road (忠孝東路).
+Pencabutan darurat pada tahun 1987 membuka ruang bagi subkultur di Taiwan. Seiring dengan pelonggaran kontrol terhadap kebebasan berpendapat dan perluasan saluran media Barat, budaya hip-hop mulai memasuki pandangan generasi muda Taiwan pada awal 1990-an. Sebagai salah satu dari empat elemen utama hip-hop, grafiti bersama dengan rap, DJ, dan _breakdance_ membentuk komunitas subkultur bawah tanah di Taipei, yang berpusat di terowongan bawah tanah dan pagar konstruksi di sekitar Ximending dan Jalan Zhongxiao East.
 
-Para graffiti writer (塗鴉客) pada fase ini menghadapi hambatan ganda: secara hukum, menyemprot cat di ruang publik dianggap merusak milik publik; secara estetika, desain tipografi karakter Han (中文) dalam kerangka graffiti Barat perlu menemukan posisinya kembali. Sejumlah pelopor mencoba memadukan garis struktural kaligrafi karakter Han ke dalam desain tag (標籤), meletakkan fondasi awal bagi gaya graffiti berbahasa Tionghoa (中文) yang kemudian berkembang.
+Pada tahap ini, para pelaku grafiti menghadapi hambatan ganda: secara hukum, menyemprotkan cat di ruang publik dianggap sebagai perusakan properti publik; secara estetika, mereka harus mencari cara bagaimana desain tipografi karakter Mandarin dapat berdiri tegak dalam kerangka grafiti Barat. Beberapa pionir mencoba memasukkan garis struktur kaligrafi Han dalam desain _tag_ (tanda tangan), yang meletakkan dasar awal bagi gaya grafiti bahasa Mandarin di kemudian hari.
 
-Lingkungan kreasi bawah tanah memaksa seniman menyelesaikan karya dalam waktu terbatas, karya kapan saja bisa dihapus. Ketidakstabilan ini justru memperkuat kohesi komunitas — bertukar kaleng semprot, berbagi info lokasi, mendokumentasikan karya sebelum dihapus, membentuk ritme harian budaya graffiti Taiwan pada 1990-an.
+Lingkungan kreasi bawah tanah memaksa para seniman untuk menyelesaikannya dalam waktu terbatas, karena karya mereka bisa dihapus kapan saja. Ketidakpastian ini justru memperkuat kohesi komunitas—bertukar kaleng semprot, berbagi informasi lokasi, dan meninggalkan catatan sebelum karya dihapus, menjadi ritme harian budaya grafiti Taiwan pada 1990-an.
 
-## Gelora Legalisasi dan Efek Kampung Pelangi
+## Gelombang Legalisasi dan Efek Desa Pelangi
 
-Awal 2000-an, beberapa kekuatan berkumpul mengubah ekologi seni jalanan Taiwan. Karya seniman Inggris Banksy memicu perdebatan global, seniman Jepang seperti Murakami Takashi (村上隆) membuka jalur antara estetika jalanan dan pasar seni; seniman lokal Taiwan pun mulai hadir di panggung internasional, ditambah dorongan kebijakan industri kreatif, pemerintah daerah mulai memandang kreasi jalanan dengan pandangan baru.
+Pada awal 2000-an, beberapa kekuatan bergabung dan mengubah ekosistem seni jalanan Taiwan. Karya seniman Inggris Banksy memicu diskusi luas secara global, sementara tokoh seperti Takashi Murakami dari Jepang membuka jalur antara estetika jalanan dan pasar seni; seniman lokal Taiwan juga mulai muncul di kancah internasional, ditambah dengan dorongan kebijakan industri kreatif, yang membuat pemerintah daerah mulai memandang kreasi jalanan dengan perspektif berbeda.
 
-Pada 2008, komunitas kampung militer (軍眷村) Chunan Li (春安里) di Distrik Nantun, Kota Taichung, menghadapi nasib dibongkar. Veteran perang Huang Yong-fu mulai melukis di dinding-dinding kampung, dengan warna-warni dan bentuk lucu menyingkapkan kenangan bagi komunitas yang akan sirna. Lukisan-lukisan itu berturut-turut menarik perhatian media, mahasiswa universitas terdekat menggalang petisi penyelamatan, dan Kampung Pelangi akhirnya terselamatkan, menjadi sinonim kampung lukis Taiwan, menarik ribuan pengunjung setiap tahun. [^1]
+Pada tahun 2008, komunitas militer Chun'an Li di distrik Nantun, Kota Taichung, menghadapi nasib pembongkaran. Veteran Huang Yung-fu mulai melukis dinding di dalam desa tersebut, menggunakan karya berwarna cerah dan bergaya kekanak-kanakan untuk meninggalkan memori bagi komunitas yang hampir menghilang ini. Lukisan tersebut menarik perhatian media, mahasiswa universitas terdekat memulai gerakan petisi untuk pelestarian, dan Desa Pelangi akhirnya berhasil dilestarikan, menjadi sinonim bagi pemukiman lukis di Taiwan yang menarik banyak wisatawan setiap tahunnya. [^1]
 
-Efek Kampung Pelangi memicu tiruan di seluruh Taiwan: Haomei Li (好美里) di Chiayi (嘉義), Dingxi (頂溪) di Yunlin (雲林), dan Shokunincho (職人町) di Pingtung (屏東) berturut-turut menggunakan lukisan komunitas sebagai sarana revitalisasi. Ruang kreatif seperti Taman Kreatif Huashan 1914 (華山 1914 文創園區), Taman Kreatif Songshan (松山文創園區), Kawasan Seni Pier-2 (高雄駁二藝術特區) di Kaohsiung juga berturut-turut menyediakan panggung kreasi legal, seniman tidak lagi terpaksa beraksi di malam hari. [^2]
+Efek Desa Pelangi memicu peniruan di seluruh Taiwan: Haomei di Chiayi, Dingxi di Yunlin, dan Shokunin-machi di Pingtung secara berturut-turut menggunakan lukisan komunitas sebagai sarana revitalisasi. Ruang kreatif seperti Huashan 1914 Creative Park, Songshan Cultural and Creative Park, dan Pier-2 Art Center di Kaohsiung juga mulai menyediakan panggung kreasi yang legal, sehingga seniman tidak lagi hanya bisa beraksi di tengah malam. [^2]
 
-## Seniman Perintis
+## Seniman Representatif
 
-Dalam lanskap seni jalanan Taiwan, beberapa perintis membentuk bahasa visual lokal. **BBROTHER** dikenal dengan sosok karakter kartun melebih-lebihkan, karyanya tersebar di banyak dinding area perkotaan Taipei, wajah bulat bermata besar yang ikonik menjadi simbol identitas adegan graffiti Taipei. **ANO** berdiri dengan gaya geometris abstrak berlapis-lapis semprotan, menjadi salah satu seniman Taiwan yang lebih awal masuk ke lingkaran kurator graffiti internasional. **Candy Bird** (糖果鳥) khas dengan ilustrasi garis halus dan nuansa pink, karyanya tersebar luas di Instagram, menjadi suara representatif perspektif perempuan dalam seni jalanan Taiwan. **ECB** (Hendrik Beikirch) adalah seniman Jerman, dikenal dengan graffiti potret skala raksasa, pernah diundang meninggalkan beberapa karya berskala besar di Taiwan. **Zhang Yao-huang** (張耀煌, REACH) adalah penggerak penting komunitas graffiti awal Taiwan, lama berkarya di Taipei dengan gaya Writing (寫字型) berbasis tipografi. [^4]
+Beberapa pionir dalam skena seni jalanan Taiwan telah membentuk bahasa visual lokal. **BBROTHER** dikenal dengan citra karakter kartun yang eksentrik; karyanya tersebar di banyak dinding di area kota Taipei, dan citra wajah bulat bermata besar yang ikonik telah menjadi simbol identitas skena grafiti Taipei. **ANO** membangun reputasi melalui gaya geometris abstrak dengan teknik semprotan berlapis, dan merupakan salah satu seniman Taiwan yang lebih awal memasuki lingkaran kurasi grafiti internasional. **Candy Bird** (糖果鳥) memiliki ciri khas ilustrasi garis yang halus dengan nada warna merah muda; karyanya tersebar luas di Instagram dan menjadi suara representatif perspektif perempuan dalam seni jalanan Taiwan. **ECB** (Hendrik Beikirch) adalah seniman Jerman yang terkenal dengan grafiti potret berukuran sangat besar, yang pernah diundang untuk meninggalkan banyak karya berskala besar di Taiwan. **Chang Yao-huang** (REACH/張耀煌) adalah penggerak penting komunitas grafiti awal di Taiwan, yang telah lama berkecimpung dalam kreasi gaya _writing_ di Taipei. [^4]
 
-## Zona Abu Hukum dan Evolusi Sistem
+## Zona Abu-abu Hukum dan Evolusi Institusional
 
-Di Taiwan, menyemprot cat tanpa izin di bangunan orang lain atau fasilitas publik melanggar Pasal 354 KUHP (《刑法》) tentang kejahatan penghancuran, teoretis dapat dihukum penjara paling lama dua tahun. Namun ketatnya penegakan bervariasi tergantung sikap pemerintah daerah, beberapa kabupaten/kota proaktif menyediakan dinding graffiti legal untuk menyalurkan energi kreatif, daerah lain menerapkan strategi toleransi nol. **Sistem Perizinan Seniman Jalanan** (街頭藝人證照制度) dicobakan di beberapa kota pada 2010-an, Kota Taipei merencanakan ruang publik khusus untuk seniman berizin menciptakan, berusaha membangun jalur legal bagi pertunjukan jalanan non-komersial dan kreasi visual, namun kritik atas proses permohonan yang bertele-tele tak pernah padam.
+Di Taiwan, menyemprotkan cat tanpa izin pada bangunan orang lain atau fasilitas publik melibatkan tindak pidana perusakan berdasarkan Pasal 354 Kitab Undang-Undang Hukum Pidana, yang secara teori dapat dijatuhi hukкрыть penjara hingga dua tahun. Namun, ketegasan penegakan hukum bervariasi tergantung pada sikap pemerintah daerah; beberapa kabupaten dan kota secara proaktif menyediakan dinding grafiti legal untuk menyalurkan energi kreatif, sementara tempat lain menerapkan strategi penghapusan total. **Sistem Lisensi Seniman Jalanan** mulai diujicobakan oleh beberapa kota pada tahun 2010-an; Kota Taipei merencanakan ruang publik tertentu bagi seniman berlisensi untuk berkarya, mencoba membangun jalur legal bagi pertunjukan jalanan non-komersial dan kreasi visual, meskipun kritik mengenai proses pengajuan yang rumit tidak pernah berhenti.
 
-Selama **Gerakan Bunga Matahari 318 Tahun 2014** (2014 年 318 太陽花運動), para demonstran yang menduduki Gedung Legislatif (立法院) meninggalkan sejumlah besar graffiti dan kreasi visual di dalam dan luar kompleks gedung, rekaman gambar yang tersimpan kemudian masuk ke basis data penelitian sejarah seni dan gerakan sosial di berbagai universitas, menjadi peristiwa tunggal berskala terbesar dalam naskah seni politik Taiwan.
+Selama **Gerakan Bunga Matahari 318 tahun 2014**, para pengunjuk rasa yang menduduki Legislatif meninggalkan banyak grafiti dan kreasi visual di dalam dan luar area gedung; dokumentasi gambar tersebut kemudian masuk ke dalam basis data sejarah seni dan studi gerakan sosial di berbagai universitas, menjadikannya peristiwa tunggal terbesar dalam dokumentasi seni politik Taiwan.
 
-**Kejadian Stasiun Taipei 2008** (2008 年台北車站事件) menjadi titik balik kebijakan lain: graffiti skala besar menyerang fasilitas sekitar Stasiun Kereta Api Taipei, memicu Kementerian Perhubungan (交通部) dan kepolisian melakukan razia massal terhadap adegan graffiti bawah tanah, juga secara tidak langsung mendorong lingkaran seni mempercepat pembahasan pendirian ruang kreasi legal. [^5]
+**Insiden Stasiun Taipei tahun 2008** adalah titik lain yang memengaruhi arah kebijakan: serangan grafiti besar-besaran pada fasilitas di sekitar Stasiun Taipei memicu pembersihan terpusat terhadap skena grafiti bawah tanah oleh Kementerian Perhubungan dan kepolisian, yang secara tidak langsung mendorong lingkaran seni untuk mempercepat diskusi mengenai pendirian ruang kreasi legal. [^5]
 
-## Khususnya Estetika Jalanan Taiwan
+## Karakteristik Estetika Lokal Seni Jalanan Taiwan
 
-Berbanding dengan seni jalanan Eropa-Amerika yang menegaskan semangat pemberontakan konfrontatif, Taiwan mengembangkan estetika jalanan bersifat inklusif, pengambilan elemen budaya lokal menjadi ciri khasnya. Garis-garis naga patung kuil (龍柱), pola geometris bata hias (花磚), totem tradisional suku asli (原住民族), dan palet warna baju biru Hakka (客家藍衫), dalam konteks seni jalanan kontemporer mendapat re-interpretasi, membentuk bahasa visual campuran baru-lama.
+Dibandingkan dengan seni jalanan Eropa dan Amerika yang menekankan semangat pemberontakan konfrontatif, Taiwan mengembangkan estetika jalanan yang bersifat inklusif, di mana penggunaan elemen budaya lokal menjadi ciri khas yang menonjol. Garis-garis pilar naga di kuil, pola geometris ubin bunga, totem tradisional masyarakat adat, hingga palet warna baju biru Hakka, semuanya mendapatkan interpretasi ulang dalam konteks seni jalanan kontemporer, membentuk bahasa visual yang memadukan unsur lama dan baru.
 
-Mekanisme partisipasi komunitas juga menjadi ciri model Taiwan. Banyak proyek seni jalanan melibatkan warga bersama-sama merumuskan tema, seniman bertanggung jawab eksekusi visual, karya akhir sekaligus membawa nilai seni dan kenangan komunitas. Model koproduksi ini membuat karya lebih sulit dihapus sembarangan, dan memperdalam ikatan seni jalanan dengan rasa tempat lokal.
+Mekanisme partisipasi komunitas juga merupakan ciri khas model Taiwan. Banyak proyek seni jalanan menggabungkan ide tema bersama dengan penduduk setempat; seniman bertanggung jawab atas eksekusi visual, sehingga karya akhir membawa nilai artistik sekaligus memori komunitas. Model kreasi bersama ini membuat karya lebih sulit dihapus secara sembarangan dan memperdalam hubungan antara seni jalanan dengan sentimen lokal.
 
-Pasca-2010-an, isu lingkungan mendapat porsi nyata dalam seni jalanan Taiwan. Sampah laut, polusi udara, konservasi ekologi termanifestasi visual di sudut-sudut kota; gugusan bangunan berwarna di Pelabuhan Ikan Zhengbin (正濱漁港) Keelung (基隆) justru memadukan revitalisasi pariwisata dan penyampaian kesadaran lingkungan, menjadi kasus representatif aliran ini. [^3]
+Setelah tahun 2010-an, isu lingkungan mulai mengambil porsi yang signifikan dalam seni jalanan Taiwan. Limbah laut, polusi udara, dan konservasi ekologi muncul di sudut-sudut kota melalui ekspresi visual; kompleks bangunan berwarna di Pelabuhan Zhengbin, Keelung, adalah contoh representatif yang menggabungkan revitalisasi wisata dengan penyampaian kesadaran lingkungan. [^3]
 
-## Lanskap Kontemporer dan Tantangan
+## Skena Kontemporer dan Tantangan
 
-Penyebaran platform media sosial seperti Instagram mengubah fundamental logika distribusi seni jalanan. Satu karya yang didesain dengan baik dalam hitungan jam dibagikan ribuan kali, menjangkau audiens potensial lebih efektif dari iklan apapun; sebaliknya, logika "tempat check-in viral" (打卡熱點) juga mendorong homogenisasi gaya visual, sejumlah seniman merasa tekanan ini melemahkan dorongan asli berkarya.
+Popularitas platform sosial seperti Instagram telah mengubah logika penyebaran seni jalanan secara mendasar. Sebuah karya yang dirancang dengan baik dapat dibagikan secara luas dalam hitungan jam, menjangkau audiens potensial lebih efektif daripada iklan apa pun; sebaliknya, logika "titik foto populer" (_check-in spot_) juga mendorong homogenisasi gaya visual, yang menurut sebagian seniman, tekanan ini melemahkan dorongan orisinalitas dalam berkarya.
 
-Tekanan komersialisasi adalah isu jangka panjang lain. Saat seni jalanan jadi daya tarik wisata, model replikasi "kampung lukis" (彩繪村) di beberapa daerah kering pada formalitas, kehilangan konteks lokal. Bagaimana mempertahankan kedalaman kreasi sambil mempromosikan penyebaran, tetap menjadi rumah kerja yang belum terselesaikan bagi lanskap seni jalanan Taiwan.
+Tekanan komersialisasi adalah isu jangka panjang lainnya. Ketika seni jalanan menjadi daya tarik wisata, model replikasi "Desa Lukis" di beberapa daerah cenderung menjadi sekadar formalitas dan kehilangan konteks lokalnya. Bagaimana cara mempertahankan kedalaman kreasi sambil mempromosikan popularitasnya adalah tantangan yang masih terus dicari solusinya oleh skena seni jalanan Taiwan.
 
-Teknologi digital juga membuka kemungkinan baru. Proyeksi dinamis di dinding bangunan, lukisan interaktif ber-AR smartphone, cetak digital menggantikan semprotan manual, memperluas definisi dan ruang lingkup seni jalanan dengan cepat, juga memungkinkan lebih banyak kreator non-akademis memasuki domain ini.
+Teknologi digital juga membuka kemungkinan baru. Proyeksi dinamis pada dinding bangunan, lukisan interaktif yang digabungkan dengan fungsi AR ponsel, hingga penggunaan cetak digital sebagai pengganti semprotan manual, membuat definisi dan cakupan seni jalanan terus meluas dengan cepat, serta memungkinkan lebih banyak kreator dari latar belakang non-formal untuk memasuki bidang ini.
 
-**Pow! Wow! Taiwan** digelar sejak 2016, merupakan festival seni jalanan internasional terbesar di Taiwan. Selama festival, diundang seniman jalanan dari Hawaii, Asia, Eropa untuk secara legal menyelesaikan mural besar di kota-kota seperti Taipei, Taichung (台中), menghubungkan kreator lokal dengan adegan internasional, juga di luar kebisingan pariwisata menyediakan kerangka kuratorial bermutu lebih tinggi bagi seni jalanan. [^6]
+**Pow! Wow! Taiwan**, yang diselenggarakan sejak tahun 2016, adalah festival seni jalanan internasional terbesar di Taiwan. Selama festival, seniman jalanan dari Hawaii, Asia, dan Eropa diundang untuk menyelesaikan mural besar secara legal di kota-kota seperti Taipei dan Taichung, mendorong koneksi antara kreator lokal dengan skena internasional, serta menyediakan konteks kurasi yang lebih tinggi bagi seni jalanan di luar sekadar topik pariwisata. [^6]
 
 ## Referensi
 
-[^1]: [Kampung Pelangi — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Sejarah Kampung Pelangi Distrik Nantun Taichung, awal mula lukisan Huang Yong-fu, dan catatan gerakan penyelamatan.
+[^1]: [Desa Pelangi (Rainbow Village) — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Sejarah Desa Pelangi di distrik Nantun, Taichung, serta catatan mengenai awal mula lukisan Huang Yung-fu dan gerakan pelestariannya.
 
-[^2]: [Kawasan Seni Pier-2 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Perkembangan dan pengenalan ruang pameran Kawasan Seni Pier-2 Kaohsiung.
+[^2]: [Pier-2 Art Center — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Sejarah perkembangan dan pengenalan ruang pameran Pier-2 Art Center di Kaohsiung.
 
-[^3]: [Pelabuhan Ikan Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Latar belakang proyek revitalisasi Pelabuhan Ikan Zhengbin Keelung dan pembentukan gugusan bangunan berwarna.
+[^3]: [Pelabuhan Zhengbin — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Proyek revitalisasi Pelabuhan Zhengbin, Keelung, dan latar belakang terbentuknya kompleks bangunan berwarna.
 
-[^4]: [Peta Seni Jalanan Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Mencatat lokasi karya seni jalanan di berbagai kota Taiwan dan basis data seniman.
+[^4]: [Peta Seni Jalanan Taiwan — Street Art Taiwan](https://streetarttaiwan.com/) — Basis data lokasi karya seni jalanan dan informasi seniman di berbagai kota di Taiwan.
 
-[^5]: [Pembahasan Peraturan Daerah Pengelolaan Graffiti Kota Taipei — Pemerintah Kota Taipei](https://www.gov.taipei/) — Perkembangan kebijakan pengelolaan graffiti jalanan Kota Taipei.
+[^5]: [Diskusi Peraturan Tata Kelola Grafiti Kota Taipei — Pemerintah Kota Taipei](https://www.gov.taipei/) — Evolusi kebijakan manajemen grafiti jalanan di Kota Taipei.
 
-[^6]: [Situs Resmi Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Catatan tahunan Festival Seni Jalanan Internasional Taiwan.
+[^6]: [Situs Resmi Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Catatan kegiatan tahunan Festival Seni Jalanan Internasional Taiwan.
 
 ## Bacaan Lanjutan
 
-- [Seni Kontemporer Taiwan](/culture/台灣當代藝術) — Pertemuan seni jalanan Taiwan dengan ekologi seni kontemporer
-- [Musik Elektronik dan Budaya Pesta Taiwan](/id/music/taiwan-electronic-music-and-party-culture) — Lanskap musik elektronik yang berbagi akar subbudaya dengan seni jalanan
+- [Seni Kontemporer Taiwan](/culture/台灣當代藝術) — Persimpangan antara seni jalanan Taiwan dan ekosistem seni kontemporer
+- [Musik Elektronik dan Budaya Party Taiwan](/id/music/taiwan-electronic-music-and-party-culture) — Skena musik elektronik yang berbagi akar subkultur dengan seni jalanan
