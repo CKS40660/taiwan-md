@@ -1,20 +1,27 @@
 ---
-title: 'Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War'
-description: 'Born on January 18, 1917, in Xindian, Taipei, Yung-ching Wang dropped out of school at 15 and borrowed money to open a rice shop. He founded Formosa Plastics in 1954. In 1973, he proposed the Sixth Naphtha Cracker (No. 6 Naphtha Cracker Complex) to the government, fighting for nearly two decades before it was finally approved, with full-scale production beginning in 1998 at Mailiao, Yunlin. He died on October 15, 2008, in the United States at the age of 92, leaving behind a family inheritance dispute that spanned over a decade.'
+title: 'Wang Yung-ching: From Rice Mill to the Two-Decade Battle for the Sixth Naphtha Cracker, and the Posthumous Inheritance Drama'
+description: 'Born in 1917 to a poor farming family in Xindian, Taipei, he dropped out of school at 15 and borrowed 200 Japanese yen from his father to open the "Shinko Rice Mill." In 1954, he founded Formosa Plastics, later earning the title "God of Management." In 1973, he proposed the Sixth Naphtha Cracker to the government; despite repeated rejections, he persisted for nearly two decades before winning approval, with mass production beginning in Mailiao, Yunlin, in 1998. He died in New York on October 15, 2008, at age 92, and the ensuing family inheritance dispute continued until around 2022.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technology & Business',
+    'Formosa Plastics Group',
+    'Petrochemical Industry',
+    'Sixth Naphtha Cracker',
+    'Entrepreneur',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '台塑集團', '石化工業', '六輕', '企業家']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-05-28T05:08:33+08:00'
+translatedAt: '2026-10-15T19:54:18.451465+00:00'
 ---
 
 # Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War

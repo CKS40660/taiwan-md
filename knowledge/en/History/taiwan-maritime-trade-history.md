@@ -1,6 +1,6 @@
 ---
-title: 'The Maritime Trade History of Taiwan'
-description: 'Taiwan during the Age of Discovery: The rise and fall of a legend, from an international trade hub to a kingdom of pirates'
+title: "History of Taiwan's Maritime Trade"
+description: 'During the Age of Discovery in the 16th and 17th centuries, this island was not a remote outpost of East Asia, but a vital trade hub connecting China, Japan, and Southeast Asia. The Dutch East India Company established Fort Zeelandia in Tainan, importing raw silk, porcelain, and tea from China, silver ingots from Japan, and spices and timber from Southeast Asia for transshipment—earning it the reputation of being the Amsterdam of East Asia. Furthermore, the Zheng dynasty established maritime hegemony, writing a history of rise and fall that transitioned from a trade hub to a pirate kingdom.'
 date: 2026-03-20
 category: 'History'
 tags:
@@ -20,10 +20,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T16:32:38+08:00'
+translatedAt: '2026-10-15T19:12:04.594599+00:00'
 ---
 
 # The Maritime Trade History of Taiwan

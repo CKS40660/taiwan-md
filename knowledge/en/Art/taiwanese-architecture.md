@@ -1,10 +1,16 @@
 ---
 title: 'Taiwanese Architecture'
-description: "From slate houses to skyscrapers: an island's architectural journey through time"
+description: 'From the slate houses of the Paiwan people and the red brick halls left by Matsunosuke Moriyama, to the lines laid by Wang Da-hong for modern architecture, and Huang Sheng-yuan''s wall-less public buildings amidst Yilan''s rice paddies. Over four hundred years, the construction wisdom of Indigenous peoples, the Dutch, the Japanese, and Han Chinese has collided on this island—a hybrid character once described by the Venice Architecture Biennale as "insisting on locality within globalization."'
 date: 2026-03-28
 category: 'Art'
 tags:
-  ['architecture', 'culture', 'history', 'indigenous', 'Japanese colonial era']
+  [
+    'Architecture',
+    'Culture',
+    'History',
+    'Indigenous Peoples',
+    'Japanese Colonial Period',
+  ]
 subcategory: '建築'
 author: 'Taiwan.md'
 featured: true
@@ -12,10 +18,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-07-27T11:19:04.143928+00:00'
+translatedAt: '2026-10-15T19:26:00.377810+00:00'
 ---
 
 # Taiwanese Architecture: A Layered Poem of Cultural Convergence

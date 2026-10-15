@@ -1,30 +1,30 @@
 ---
-title: 'Braised Pork Rice (滷肉飯): Taiwan’s Everyday National Dish'
-description: 'From military dependents’ village kitchens to a nationwide comfort food — exploring the north–south naming war and cultural identity behind Taiwanese braised pork rice.'
+title: 'Taiwanese Braised Pork Rice'
+description: "From military dependents' village kitchens to a national delicacy, braised pork rice is the core carrier of Taiwan's grassroots culinary memory. Known as 'Lu Rou Fan' in the north and 'Rou Zao Fan' in the south, the two versions differ in knife skills and seasoning, reflecting a divergence in culinary craftsmanship behind a regional debate over names. In 2011, the English version of the Michelin Guide mistakenly attributed its origins to Shandong, sparking a nationwide movement to reclaim its identity and solidifying its status as an authentic local staple."
 date: 2026-03-19
+category: 'Food'
 tags:
   [
-    'braised pork rice',
-    'rouzao rice',
-    'military dependents’ villages',
-    'everyday cuisine',
-    'north–south differences',
+    'Braised Pork Rice',
+    'Minced Pork Rice',
+    "Military Dependents' Village Cuisine",
+    'National Food',
+    'North-South Differences',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-category: 'Food'
 lastVerified: 2026-05-16
 lastHumanReview: true
 image: '/images/food/braised-pork-rice.jpg'
-imageAlt: 'Taichung-style braised pork rice'
+imageAlt: 'Braised pork rice in Taichung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '30569f74'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:6170c025ca20811f'
 sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
-translatedAt: '2026-05-17T06:00:00Z'
+translatedAt: '2026-10-15T18:46:01.199504+00:00'
 ---
 
 # Braised Pork Rice (滷肉飯)

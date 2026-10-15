@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Enterprise: MediaTek'
-description: 'Once mocked as the "king of knockoff phones," this company now holds 1.5x Qualcomm''s mobile chip market share'
+title: 'Taiwanese Companies: MediaTek'
+description: "Starting with a small team spun off from its parent company, the founder began with chipsets and provided turnkey solutions that fueled the Shenzhen knock-off phone ecosystem, once being ridiculed as a manufacturer of cheap goods. Later, this company's mobile chipset market share surpassed long-standing rivals, with revenue exceeding US$10 billion, jumping to become the world's fifth-largest design firm—proving the theory of the 'generational champion' that one must constantly evolve to avoid being replaced by challengers."
 date: 2026-03-25
 category: 'Economy'
 tags:
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '0df538d8c'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
-translatedAt: '2026-09-18T00:52:58+08:00'
+translatedAt: '2026-10-15T20:06:51.515726+00:00'
 ---
 
 > **30-Second Overview**

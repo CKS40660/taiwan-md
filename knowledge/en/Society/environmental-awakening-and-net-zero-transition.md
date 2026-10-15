@@ -1,15 +1,15 @@
 ---
-title: 'Environmental Awakening and Net-Zero Transition'
-description: 'From Polluting Island to Sustainability Pioneer: How Taiwan Transformed Through 40 Years of Environmental Activism'
+title: 'Environmental Protection and Sustainable Development'
+description: "From the 1980s era of being a 'smokestack island' that prioritized pollution before treatment, to the 1986 Lukang anti-DuPont movement that ignited environmental awareness in Taiwan, the establishment of the Environmental Protection Administration in 1988 toward institutionalization, and following the energy transition after the 2011 Fukushima nuclear disaster and the 2022 declaration of net-zero emissions by 2050: Taiwan has awakened from the cost of seeing the Love River turn black and PM2.5 levels exceeding standards over 40 years; today, the resource recycling rate has reached 60.1%, and over 200 companies have committed to science-based carbon reduction targets."
 date: 2026-03-21
 category: 'Society'
 tags:
   [
-    'environmentalism',
-    'sustainability',
-    'net-zero emissions',
-    'circular economy',
-    'climate action',
+    'Environmental Protection',
+    'Sustainable Development',
+    'Net Zero Emissions',
+    'Circular Economy',
+    'Climate Change',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 readingTime: 8
 translatedFrom: 'Society/環保與永續發展.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: '2026-09-28T02:52:33+08:00'
+translatedAt: '2026-10-15T20:14:21.358408+00:00'
 ---
 
 # Environmental Awakening and Net-Zero Transition: Taiwan's Green Awakening
