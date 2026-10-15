@@ -1,18 +1,18 @@
 ---
-title: 'Von Cheer Chen zu Anpu — Zwei Namen, dieselbe Frage'
-description: 'Mit 13 Jahren schrieb sie „Baby“, mit 32 wurde sie wegen einer Flagge von China gesperrt, mit 34 tötete sie ihren eigenen Künstlernamen eigenhändig. Jiao Anpu nutzte zwei Lebensabschnitte, um eine Frage zu beantworten, die sich alle Taiwaner stellen: Auf welcher Seite stehst du eigentlich?'
+title: 'Von Chang Hsuan zu Anpu – Zwei Namen, eine Frage'
+description: 'Chiao An-pu schrieb bereits im Alter von 13 Jahren den Song „Baby“ und wurde unter ihrem Künstlernamen „Chang Hsuan“ zu einer prägenden Stimme des taiwanesischen Indie-Musik-Szenas. Als sie 2013 bei einem Konzert in Großbritannien die Flagge der Republik China hochhielt, wurde sie auf dem chinesischen Markt boykottiert. 2015 verabschiedete sie sich aktiv von ihrem Künstlernamen und kehrte nach einer dreijährigen Pause unter ihrem echten Namen „Anpu“ zurück; 2022 veröffentlichte sie das Album „9522“. Von der Zeit, als im Club Witch Lab nur zwei Tische besetzt waren, bis heute – ihre beiden Lebensphasen beantworten dieselbe schwierige Frage über Namen und politische Haltung.'
 date: 2026-04-12
 category: 'Music'
 tags:
   [
     'Indie-Musik',
     'Soziale Bewegungen',
-    'Identitätsfindung',
-    'Cheer Chen',
+    'Identität',
+    'Chang Hsuan',
     'Anpu',
-    'Jiao Anpu',
+    'Chiao An-pu',
     'Golden Melody Awards',
-    'Sunflower Student Movement',
+    'Sonnenblumenbewegung',
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
@@ -411,214 +411,220 @@ lifeTree:
           note: '直接認錯可能贏回部分台灣歌迷，但徹底失去中國市場且否定 11 天前的個人聲明，人格一致性崩潰。'
       sources: ['^30', '^31', '^32']
 translatedFrom: 'Music/張懸與安溥.md'
-sourceCommitSha: 'f803d0b6b'
-sourceContentHash: 'sha256:c547e65c58653968'
+sourceCommitSha: 'c8d8d3ad4'
+sourceContentHash: 'sha256:27ef434e8d6b0605'
 sourceBodyHash: 'sha256:5705b435f269e6ca'
-translatedAt: '2026-09-24T21:34:45.465599+00:00'
+translatedAt: '2026-10-15T18:21:17.006445+00:00'
 ---
 
-**30-Sekunden-Überblick:** Jiao Anpu, die mit 13 Jahren „Baby“ schrieb, wurde unter dem Künstlernamen „Deserts Chang“ zur repräsentativen Stimme der taiwanesischen Independent-Musik. 2013 hob sie bei einem Konzert in Großbritannien die Flagge der Republik China, woraufhin sie vom chinesischen Markt verbannt wurde; 2015 verabschiedete sie sich freiwillig von ihrem Künstlernamen, verschwand drei Jahre lang und kehrte unter ihrem Geburtsnamen „An Pu“ zurück. 2022 sang die 40-Jährige in „9522“ das Lied, das sie mit 14 geschrieben hatte, und gewann den Golden-Melody-Award für das Lied des Jahres. 2024 ließ ein handgeschriebener Brief, der Chinas Nationalfeiertag beglückwünschte, taiwanesische Fans das Herz brechen. Ein und dieselbe Person, die zweimal ihr Publikum verlor – aus völlig gegensätzlichen Gründen.
+> **30-Sekunden-Überblick:** Chiao An-pu schrieb im Alter von 13 Jahren den Song 〈Baby〉 und wurde unter ihrem Künstlernamen „Chang Hsuan“ zu einer prägenden Stimme der taiwanesischen Independent-Musik. Als sie 2013 bei einem Konzert in Großbritannien die Flagge der Republik China (Taiwan) hochhielt, wurde sie auf dem chinesischen Markt boykottiert. 2015 verabschiedete sie sich aktiv von ihrem Künstlernamen und kehrte nach einer dreijährigen Pause unter ihrem echten Namen „Anpu“ zurück. In ihrem Werk 《9522》 aus dem Jahr 2022 sang die nun vierzigjährige Künstlerin die Lieder, die sie bereits mit vierzehn Jahren geschrieben hatte, und gewann damit den Goldenen Preis (Golden Melody Award) für das Lied des Jahres. Im Jahr 2024 sorgte ein handgeschriebener Brief mit Glückwünschen zum Nationalfeiertag der Volksrepublik China für tiefe Enttäuschung unter den taiwanesischen Fans. Dieselbe Person verlor zweimal ihr Publikum – aus völlig gegensätzlichen Gründen.
 
-In den Jahren, als Jiao Anpu noch Zhang Xuan hieß, machte sich ihr Vater Jiao Renhe täglich Sorgen.
+## Im Hexenladen gab es nur zwei Tische voll Gäste
 
-Jiao Renhe war einst Generalsekretär der SEF (Straits Exchange Foundation) und Chefstratege von Lee Teng-hui; 1995 formulierte er den Rahmen von „ein China, jeweilige Darstellung“ und war die führende Figur bei den Verhandlungen zwischen beiden Seiten der Taiwanstraße [^1]. Sein ältester Sohn Jiao Yuanpu wurde später Taiwans bekanntester klassischer Musikkritiker und interviewte fünfundfünfzig Klaviermeister weltweit; die jüngste Tochter Jiao Cipu ging in die Juristerei. Von den drei Kindern war nur die mittlere diejenige, die in der zweiten Oberschulklasse die Schule abbrach, Alkohol trank und rauchte – ihre Ausbildung blieb für immer auf dem Niveau eines Highschool-Abbrechers.
+In den Jahren, als Chiao An-pu noch unter dem Namen Chang Hsu auftrat, war sein Vater Chiao Jen-ho ständig in Sorge.
 
-Zhang Xuan jobbte im Restaurant Trader Vic's für achtzig New Taiwan Dollar die Stunde. Abends trat sie im „Witch Shop“ auf. Jiao Renhe traute sich nicht hinzuzuhören und schickte die jüngste Tochter mit zwei Kommilitoninnen. Deren Bericht ließ ihn wie in einen Eiskeller stürzen: Im Laden saßen nur zwei Tische Gäste – ein Pärchen, weit entfernt. Nur die Schwester und ihre Kommilitoninnen saßen direkt vor der Bühne [^2].
+Chiao Jen-ho war ehemaliger Generalsekretär der Straits Exchange Foundation und der engste Berater von Lee Teng-hui. Er war derjenige, der 1995 den Formulierungskonzept „ein China, jeweils unterschiedliche Interpretationen“ (一中各表) vorschlug, und galt als eine der Schlüsselfiguren in den Verhandlungen zwischen beiden Seiten der Taiwanstraße [^1]. Sein ältester Sohn Chiao Yuan-pu wurde später zu Taiwans bekanntester klassischer Musikkritiker und interviewte fünfundfünfzig Klaviergrößen weltweit; seine jüngere Tochter Chiao Ci-pu arbeitet im Rechtswesen. Von den drei Kindern war nur das mittlere, das in der zehnten Klasse die Schule abbrach, trank, rauchte und dessen Bildungsstand für immer auf dem Niveau eines Schulabbrechers stehen blieb.
 
-„Kann man von Musik leben?“, fragte er seine Tochter. „Wie viele sich für Musiker halten, enden doch eines Tages damit, in Unterführungen Geige zu spielen?“ [^2]
+Chang Hsu arbeitete im Restaurant Trader Vic's zu einem Stundenlohn von 80 NT$. Abends trat sie im Hexenladen (Witch's Shop) als Sängerin auf. Chiao Jen-ho wagte es nicht, ihr zuzuhören, und schickte stattdessen seine jüngere Tochter mit zwei Mitschülerinnen hin. Der Bericht, den er zurückerhielt, ließ sein Herz wie Eis gefrieren: Es gab nur zwei Tische voll Gäste im Laden – ein Paar, das weit entfernt saß, und nur die Schwester mit ihren Mitschülerinnen, die direkt vor der Bühne saßen [^2].
 
-Zhang Xuan rief zurück: „Papa! Ich werde es unbedingt schaffen!“
+„Kann man allein von Musik leben?“, fragte er seine Tochter. „Wie viele Leute, die sich für Musiker halten, spielen nicht irgendwann einmal Geige in einer Unterführung?“ [^2]
 
-Dieses Mädchen, das sich nicht einmal die Miete für den nächsten Monat leisten konnte und sich die zweihundert Dollar für das Taxi nach Hause sparte, hämmerte vor dem Verhandlungsführer der Gespräche zwischen beiden Seiten der Taiwanstraße mit der Faust auf den Tisch – für die Musik [^2]. Jiao Renhe verglich dieses Verhältnis später mit einem Drachen: Er ließ die Schnur lang genug, damit der Drache fliegen konnte, aber niemals so weit, dass der Sturm ihn davontragen konnte [^2].
+Chang Hsu rief ihm entgegen: „Papa! Ich werde definitiv berühmt!“
 
-📝 **Kuratorische Anmerkung:** Die Tochter des Verhandlers zwischen beiden Seiten der Taiwanstraße wählte einen Künstlernamen, der „in der Schwebe“ bedeutet. Jiao Renhe hat bis heute keines der Konzerte seiner Tochter besucht. Doch bei jeder Gelegenheit sagt er stolz, er sei nicht nur Generalsekretär der SEF und Vorsitzender der OCAC (Overseas Community Affairs Council), sondern auch „der Vater von Zhang Xuan“ [^2].
+Dieses Mädchen, das nicht einmal die Miete für den nächsten Monat aufbringen konnte und die 200 NT$ für eine Taxifahrt nach Hause scheute, war bereit, vor der Schlüsselfigur der Verhandlungen zwischen beiden Seiten der Taiwanstraße auf den Tisch zu hauen, nur um für ihre Musik einzustehen [^2]. Chiao Jen-ho verglich diese Beziehung später mit einem Drachen: Er ließ die Leine lang genug, damit der Drachen fliegen konnte, aber er würde niemals zulassen, dass ein Sturm den Drachen davonträgt [^2].
 
-## Der Familienkrieg mit dreizehn
+📝 **Anmerkung des Kurators:** Die Tochter eines Verhandlungsführers wählte einen Künstlernamen, der „Ungewissheit“ (懸 - xuán) bedeutet. Chiao Jen-ho hat bis heute keine einzige Konzertaufführung seiner Tochter besucht. Doch er sagt voller Stolz zu jedem, dass er neben seinem Amt als Generalsekretär der Straits Exchange Foundation und Vorsitzender des Überseechinesischen Komitees auch „der Vater von Chang Hsu“ sei [^2].
 
-Am 30. Mai 1981 wurde Jiao Anpu in Taipeh geboren. Ihr Großvater Jiao Diankui war Anwalt der ersten Generation in China [^1]. In dieser Juristendynastie war sie die Lin Daiyu (林黛玉) in Jiao Renhes Worten: „Egal wie vorsichtig du mit ihr sprichst, du verletzt sie trotzdem.“ Die jüngere Schwester Ci Pu war die runde, kluge Xue Baochai (薛寶釵), „trank ihre Milch und schlief brav ein“; Anpu „brauchte zwei Stunden für 200 c.c. Milch“ [^2].
+## Der Familienkrieg mit dreizehn Jahren
 
-Mit dreizehn hatte sie einen Streit mit der Familie, knallte die Tür zu und ging, während sie eine Melodie vor sich hin summte [^3]. Das Lied hieß [〈Baby〉](https://www.youtube.com/watch?v=TsriGIW30po). „Mein Baby, Baby, gib dir ein bisschen Süßes, lass dich diese Nacht gut schlafen“ – später wurde es zum Wiegenlied, das Eltern in ganz Taiwan ihren Kindern sangen, doch ursprünglich war es der Trost, den ein Mädchen sich selbst zusang.
+Am 30. Mai 1981 wurde Chiao An-pu in Taipeh geboren. Ihr Großvater, Chiao Dian-kui, war einer der ersten Anwälte in China [^1]. In dieser Familie von Juristen und Politikern war sie für Chiao Jen-ho eine Art Lin Daiyu: „Egal wie vorsichtig du mit ihr sprichst, du wirst sie immer verletzen.“ Ihre jüngere Schwester Ci-pu hingegen war die kluge und anpassungsfähige Xue Baochai, die „nach dem Trinken der Milch brav einschlief“; Anpu hingegen brauchte „zwei Stunden für 200 ccm Milch“ [^2].
 
-In der Oberschule begann sie, moderne Gedichte zu schreiben, und nutzte als Pseudonym „Zhang Xuan“. Das Zeichen „Xuan“ trägt die Bedeutung von Schweben, Unbestimmtheit [^4]. Auf ihrer Leseliste standen Kafka und Mishima Yukio, später kamen Shen Congwen, Zheng Chouyu, Bei Dao und T.S. Eliots „Das öde Land“ hinzu [^5]. Sie las „Das öde Land“ zwanzig Jahre lang, und 2022 sagte sie in einem Interview mit „United Daily News Literature“: Man müsse den Versuch aufgeben, Metaphern zu entschlüsseln; wahre Metaphern entstünden aus dem Kontext und der Form, die Eliots zahlreiche Zitate konstruierten [^5]. Später sagte sie einmal: „Bücher haben mich angestoßen, sodass ich Sängerin wurde.“ [^5]
+Im Alter von dreizehn Jahren stritt sie sich mit ihrer Familie, knallte die Tür hinter sich zu und verließ das Haus, während sie auf ihrem Weg eine Melodie summte [^3]. Das Lied hieß [〈Baby〉](https://www.youtube.com/watch?v=TsriGIW30po). „Mein Baby, Baby, ich gebe dir etwas Süßes, damit du heute Nacht gut schlafen kannst“ – später wurde es zu einem Wiegenlied, das Eltern in ganz Taiwan ihren Kindern vorsangen, doch ursprünglich war es ein Trostlied, das ein Mädchen für sich selbst sang.
 
-Mit sechzehn ging sie ins Schlafzimmer der Eltern und sagte, sie wolle die Schule unterbrechen. Jiao Renhe sagte nur: „Gut, ich weiß.“ Die vorbereiteten Tränen und der große Entschluss verpufften plötzlich. „Niemand streitet mehr mit dir, du kannst dich nicht mehr gekränkt fühlen“, erinnerte sie sich später [^2]. Das war das erste Mal, dass sie stark spürte, dass das Leben vollständig aus den eigenen Entscheidungen erwächst.
+In der Highschool begann sie, moderne Poesie zu schreiben, und nutzte für ihre Einsendungen das Pseudonym „Chang Hsuan“. Das Wort _Xuan_ trägt die Bedeutung von „schwebend“ oder „ungewiss“ in sich [^4]. Ihre Leseliste bestand aus Kafka und Yukio Mishima, später kamen Shen Congwen, Cheng Chou-yu, Bei Dao und T.S. Eliots _The Waste Land_ hinzu [^5]. Sie las _The Waste Land_ über zwanzig Jahre lang; in einem Interview mit _United Literature_ im Jahr 2022 sagte sie, man müsse den Versuch aufgeben, Metaphern zu entschlüsseln, da die wahre Metaphorik aus dem Hintergrund und der Form bestehe, die durch Eliots zahlreiche Zitate geschaffen würden [^5]. Später sagte sie einmal: „Die Bücher haben mich einen Stoß gegeben und mich zu einer Sängerin gemacht.“ [^5]
 
-Jiao Renhe schickte sie zu einer Gastfamilie nach England. Sie ertrug die tägliche Ausgangssperre um acht Uhr nicht und floh zurück nach Taiwan [^2]. Nach ihrer Rückkehr jobbte sie in einem Restaurant und sang in einem „Hexenladen“. Vater und Tochter kommunizierten per Briefen, und beide bewahren die Briefe des anderen bis heute auf [^2].
+Mit sechzehn Jahren betrat sie das Schlafzimmer ihrer Eltern und sagte, dass sie das Studium unterbrechen wolle. Chiao Jen-ho sagte nur einen Satz: „Gut, ich habe es verstanden.“ Die Tränen und der große Tatendrang, die sie vorbereitet hatte, fühlten sich plötzlich leer an. „Niemand wird mehr mit dir streiten, und du wirst dich nie wieder ungerecht behandelt fühlen“, erinnerte sie sich später [^2]. Das war das erste Mal, dass sie intensiv spürte, dass das Leben vollständig aus den eigenen Entscheidungen besteht.
 
-## Vom Hexenladen zum Golden Melody Award
+Chiao Jen-ho schickte sie zu einer Gastfamilie nach Großbritannien. Da sie die tägliche Ausgangssperre um acht Uhr nicht ertragen konnte, floh sie zurück nach Taiwan [^2]. Nach ihrer Rückkehr arbeitete sie in Restaurants und sang in der „Witch Shop“. Vater und Tochter kommunizierten über Briefe; beide bewahren die Briefe des jeweils anderen bis heute auf [^2].
 
-2003 trat sie als Sängerin der Band Mango Runs beim Gongliao Ocean Music Festival auf und gewann den Publikumspreis sowie den Independent Music Award [^6]. In den folgenden Jahren wurde sie zur häufigsten auftretenden Singer-Songwriterin in den verschiedenen Live-Houses Taipeis; vor ihrem neunzehnten Lebensjahr hatte sie bereits über hundert Lieder geschrieben.
+## Von der Witch House bis zu den Golden Melody Awards
 
-2006 wurde ihr erstes Album 《My Life Will…》 bei Sony BMG veröffentlicht. Doch die Aufnahmen für dieses Album waren tatsächlich bereits 2001 abgeschlossen — nach ihrem Vertragsabschluss geriet die Plattenfirma in eine Umstrukturierung, und die Masterbänder wurden fünf Jahre lang auf Eis gelegt. Erst als der Produzent Li Shouquan sie im Hexenladen wieder live hörte, überzeugte er sie, erneut einen Vertrag zu unterschreiben und das Album zu veröffentlichen [^7]. Es wurde für vier Preise bei den 18. Golden Melody Awards nominiert, darunter Bestes Mandarin-Album und Lied des Jahres 〈Baby〉 [^7]. Sie gewann nicht, aber die alles-oder-nichts-Gitarre in [〈Yanhuo〉](https://www.youtube.com/watch?v=lqPhqGu3VCM) ließ die gesamte Independent-Musikszene wissen, dass sie angekommen war.
+Im Jahr 2003 trat sie als Leadsängerin der Band Mango Runs beim Gongliao Ocean Music Festival auf und gewann dort den Popularitätspreis sowie den Independent Music Award [^6]. In den folgenden Jahren wurde sie zur Singer-Songwriterin, die in den Live Houses von Taipeh am häufigsten zu hören war; bereits vor ihrem neunzehnten Lebensjahr hatte sie über hundert Songs geschrieben.
 
-2009 markierte das Album 《城市》 einen stilistischen Wendepunkt. Sie übte intensiv E-Gitarre, gründete die Band Algae und wandte sich vom frischen Folk dem Rock und Garage zu [^8]. Sie war nicht mehr die „kleine Frische“, aber ihre Hörer wurden umso treuer.
+Im Jahr 2006 erschien ihr Debütalbum 《My Life Will…》 bei Sony BMG. Die Aufnahmen für dieses Album waren jedoch bereits 2001 abgeschlossen worden – nach ihrer Vertragsunterzeichnung kam es zu einer Umstrukturierung des Plattenlabels, wodurch die Masterbänder fünf Jahre lang in der Schublade verschwanden. Erst als der Produzent Li Shou-quan sie erneut live in der Witch House hörte, konnte er sie davon überzeugen, einen neuen Vertrag für die Veröffentlichung abzuschließen [^7]. Das Album erhielt vier Nominierungen für den 18. Golden Melody Award, darunter die Nominierung für das beste Mandopop-Album und den Song des Jahres für 〈Baby〉[^7]. Obwohl sie keinen Preis gewann, sorgte die alles entscheidende Gitarre in [〈Yan Huo〉](https://www.youtube.com/watch?v=lqPhqGu3VCM) dafür, dass die gesamte Independent-Musikszene wusste, dass sie gekommen war.
 
-2012 war 《神的遊戲》 dann der eigentliche Wendepunkt. Von den zehn Liedern schrieb sie Text und Musik zu neun, und fungierte selbst als Co-Produzentin [^9]. Der Eröffnungs-Song [〈Rose-Colored You〉](https://www.youtube.com/watch?v=cstTwePsmGg) ist Menschen gewidmet, „die ihr Leben wahrhaft wertvollen Dingen widmen und sich nie für kleine Vorteile kaufen lassen“: Straßenaktivisten, unabhängige Verleger, alle, die im Gegenwind standhalten [^10]. Später wurde dieses Lied bei der Sonnenblumen-Bewegung vor Ort zur inoffiziellen Begleitmusik gesungen und brachte ihr bei den 24. Golden Melody Awards den Preis für die beste Texterin ein [^9].
+Das Jahr 2009 markierte mit 《City》 einen stilistischen Wendepunkt. Sie übte intensiv E-Gitarre und gründete die Band Algae, womit sie sich vom frischen Folk hin zu Rock und Garage-Rock entwickelte [^8]. Sie war nicht mehr die „kleine, sanfte Singer-Songwriterin“, aber ihre Fangemeinde wurde loyaler denn je.
 
-〈Rose-Colored You〉 wurde Berichten zufolge in China zensiert und von Plattformen genommen [^9]. Jemand, die Lieder für Protestierende schreibt, hatte den Gipfel der taiwanesischen Independent-Musik erreicht. Dann beschloss sie, den Namen „Zhang Xuan“ zu töten.
+Das Jahr 2012 mit 《God's Game》 stellte den eigentlichen Wendepunkt dar. Von den zehn Songs schrieb sie neun Text und Melodie selbst und fungierte zudem als Koproduzentin [^9]. Der erste Song des Albums, [〈Rosarote Dir〉](https://www.youtube.com/watch?v=cstTwePsmGg), war geschrieben für jene Menschen, die „ihr Leben einer wirklich wertvollen Sache widmen und sich niemals durch kleine Vorteile bestechen lassen“: Aktivisten auf der Straße, Independent-Verleger und alle, die gegen den Wind bestehen bleiben [^10]. Dieser Song wurde später bei den Sonnenblumen-Bewegungen live als inoffizielle Hymne gesungen und brachte ihr beim 24. Golden Melody Award den Preis als beste Texterin ein [^9].
 
-## Die Flagge in Manchester
+Berichten zufolge wurde 〈Rosarote Dir〉 in China zensiert und von den Plattformen entfernt [^9]. Eine Songwriterin, die Lieder für Protestierende schreibt, erreichte den Gipfel der taiwanesischen Independent-Musik. Dann entschied sie sich, den Namen „Chang Hsuan“ sterben zu lassen.
 
-Am 2. November 2013 in Manchester, Grossbritannien, ein kleines Konzert mit etwa fünfhundert Personen [^6]. Die meisten im Publikum waren chinesische Austauschstudenten. In der ersten Reihe hatten einige taiwanische Studierende eine Flagge der Republik China (Taiwan) mitgebracht, Deserts Chang nahm sie entgegen, hielt sie vor der Brust und sagte auf Englisch zum gesamten Saal:
+## Die Flagge von Manchester
+
+Am 2. November 2013 fand in Manchester, Großbritannien, ein kleines Konzert mit etwa fünfhundert Besuchern statt [^6]. Der Großteil des Publikums bestand aus chinesischen Studierenden. In den vorderen Reihen trugen einige taiwanische Studierende eine Flagge der Republik China (Taiwan). Chang Hsu nahm diese entgegen, hielt sie vor ihre Brust und sagte auf Englisch zum gesamten Saal:
 
 > „It's just a flag. It shows where I come from. Why do you have to make it about politics?“ [^11]
 
-Ein chinesischer Student rief: „No politics today!“
+Ein chinesischer Student rief daraufhin: „No politics today!“
 
-Dieser Satz beendete Deserts Changs Karriere in China. Ein Boykottsturm auf Weibo zwang zur Absage ihres ursprünglich geplanten Konzerts in Peking [^12]. In Taiwan feierten sie Zehntausende Netizens als „patriotische Sängerin“. Sie war fassungslos: „Ihr habt euch geirrt.“ [^13]
+Dieser Satz beendete Chang Hsus Karriere als Künstlerin in China. Die Boykott-Welle auf Weibo führte dazu, dass das ursprünglich geplante Konzert in Peking abgesagt werden musste [^12]. In Taiwan hingegen bezeichneten zehntausende Internetnutzer sie als „patriotische Sängerin“. Sie reagierte fassungslos darauf: „Ihr habt sich geirrt.“ [^13]
 
-Einen Monat später sagte sie in einem Interview mit der Taipei Times: „Wenn Taiwans nationale Identität höhere internationale Sichtbarkeit erlangen will, wird sie unweigerlich herausgefordert. Ich bin nicht die Erste, die sich diesem Problem stellt. Selbst wenn ich es nicht täte, würde es jemand anderes tun.“ [^11]
+Einen Monat später sagte sie in einem Interview mit der _Taipei Times_: „Wenn die nationale Identität Taiwans eine höhere internationale Sichtbarkeit erreichen will, wird sie zwangsläufig herausgefordert werden. Ich bin nicht die Erste, die mit diesem Problem konfrontiert wird. Selbst wenn ich es nicht täte, würde es jemand anderes tun.“ [^11]
 
-Sie hatte nur eine Flagge in die Hand genommen. Aber an dieser Linie der Taiwanstraße ist nichts „nur“ irgendetwas.
+Sie hielt lediglich eine Flagge in der Hand. Doch an der Linie der Taiwanstraße ist nichts „nur“ irgendetwas.
 
-## Die Sonnenblumen-Bewegung und die letzte „Gezeiten-Maxime“
+## Die Sonnenblumenbewegung und das letzte „Tide Proverbs“
 
-Nach dem Flaggenvorfall zog sich Deserts Chang nicht zurück. Im März 2014 brach die Sonnenblumen-Bewegung aus; sie veröffentlichte auf Facebook eine Reihe von Beiträgen, kritisierte die Regierung dafür, das Dienstleistungsabkommen gewaltsam durchgeboxt zu haben, und rief dazu auf, „das Recht, sich an öffentlichen Angelegenheiten zu beteiligen, nicht aufzugeben“[^14]. Sie solidarisierte sich langfristig mit der Anti-Atomkraft-Bewegung (gegen das vierte Kernkraftwerk), dem Wasserkonflikt um den Hsinchu-Science-Park und der Ehegleichstellung[^4]. „Rose-Colored You“ wurde zur Begleitmusik auf der Straße, doch sie wollte nie als „politische Sängerin“ bezeichnet werden.
+Nach dem Vorfall mit der Nationalflagge zog sich Chang Hsu nicht zurück. Im März 2014 brach die Sonnenblumenbewegung aus; sie veröffentlichte fortlaufend Beiträge auf Facebook, in denen sie kritisierte, dass die Regierung das Handelsabkommen zwischen Taiwan und China (CSSTA) gewaltsam verabschiedet habe, und rief dazu auf, „das Recht auf die Teilnahme an bürgerlichen Themen nicht aufzugeben“ [^14]. Sie unterstützte über lange Zeit die Bewegung gegen das Kernkraftwerk Nr. 4, den Streit um die Wasserentnahme im Central Taiwan Science Park sowie die Ehegleichberechtigung [^4]. 〈Rosarote Dir〉 wurde zur Hymne der Straße, doch sie wollte nie als „politische Sängerin“ bezeichnet werden.
 
-„Gezeiten-Maximen“ war ihre ab 2010 begonnene Konzertreihe, die von der tausendköpfigen Legacy-Halle bis zur zehntausendfach besetzten Nangang Exhibition Hall führte. Sie fungierte selbst als Produzentin und künstlerische Leiterin der Konzerte und gestaltete jede Aufführung als zeitgenössische Kunstausstellung statt als kommerzielle Show: auf Basis literarischer Texte, mit filmischen Erzähltechniken, wobei jedes Lied seine eigene visuelle Welt erhielt[^15].
+„Tide Proverbs“ ist ihre Konzertreihe, die sie seit 2010 veranstaltet – von tausend Menschen im Legacy bis hin zu zehntausenden im Nangang Exhibition Center. Sie fungierte selbst als Produzentin und künstlerische Leiterin der Konzerte und gestaltete jede Show eher als zeitgenössische Kunstausstellung denn als kommerzielle Aufführung: basierend auf literarischen Texten, mit filmischen Erzähltechniken, wobei jedes Lied seine eigene visuelle Welt besaß [^15].
 
-Im Januar 2015 setzte die letzte „Gezeiten-Maxime“ in der Kaohsiung Arena den Schlusspunkt[^16]. Nach dem Auftritt verkündete sie: Der Name Deserts Chang endet hier. Als Grund für die Rückkehr zu ihrem Geburtsnamen sagte sie nur: „Anpu ist der Name, den mir Papa und Mama gegeben haben; ich möchte einfach, dass sie, die gewohnt sind, Zeitungsausschnitte zu sammeln, diese beiden Zeichen beim Sammeln sehen können.“[^17] Dann verschwand sie.
+Im Januar 2015 fand die letzte Ausgabe von „Tide Proverbs“ in der Kaohsiung Arena ihr Ende [^16]. Nach dem Auftritt verkündete sie: Mit dem Namen Chang Hsu ist hier Schluss.
+
+Als Grund für die Rückkehr zu ihrem Geburtsnamen sagte sie nur einen Satz: „Anpu ist der Name, den meine Eltern mir gegeben haben; ich wollte schlichtweg, dass sie, da sie die Gewohnheit haben, Zeitungsberichte zu sammeln, diese beiden Zeichen beim Sammeln sehen können.“ [^17]
+
+Dann verschwand sie.
 
 ## Drei Jahre Leere und eine Katze
 
-Der Auslöser für ihren Rückzug war eine Katze. Während der Promotion für „God's Game“ wurde bei der Katze, die sie seit ihrer Jugend hielt, ein Tumor diagnostiziert. Zwischen beruflichen Verpflichtungen und den letzten Tagen der Tierbegleitung wurde die Angst unerträglich, und sie entschied sich, innezuhalten[^18]. Drei Jahre lang las sie Bücher, übte Kalligrafie, schrieb Gedichte, vertiefte ihre Instrumentalkenntnisse und lernte Bühnenproduktion[^19]. Sie begleitete die Katze auf ihrem letzten Weg. Auf Facebook schrieb sie: Die Aufmerksamkeit, die sie erhielt, sei ihr nie wirklich gehört.
+Der Auslöser für ihren Rückzug war eine Katze. Während der Promotion für 《God's Game》 wurde bei der Katze, die sie seit ihrer Jugend besaß, ein Tumor diagnostiziert. Zwischen beruflichen Verpflichtungen und den letzten Tagen an der Seite ihres Tieres wurde die Angst unerträglich, und sie entschied sich, innezuhalten [^18].
 
-Diese Leere ist wichtig. In zwölf Jahren war Deserts Chang zu einem Symbol herangewachsen: unabhängige Musik, soziale Bewegungen, nationale Identität. Das Symbol war zu schwer. Sie musste es ablegen, um zu erfahren, was darunter noch übrig blieb.
+In diesen drei Jahren studierte sie, übte Kalligrafie, schrieb Gedichte, verbesserte ihre Fähigkeiten auf Musikinstrumenten und lernte Bühnenproduktion [^19]. Sie begleitete die Katze auf ihrem letzten Weg. Auf Facebook schrieb sie einmal: Die Aufmerksamkeit, die sie erhielt, gehörte ihr nie wirklich selbst.
 
-## Lianyun: Eine Erklärung aus 3.200 LED-Panels
+Diese Phase der Leere war wichtig. Chang Hsu war über zwölf Jahre hinweg zu einem Symbol herangewachsen: Independent-Musik, soziale Bewegungen, nationale Identität. Das Symbol war zu schwer. Sie musste es ablegen, um herauszufinden, was darunter noch übrig blieb.
 
-Im Mai 2018 trat sie unter dem Namen „An Pu“ in der Taipei Arena zum „Lianyun“-Konzert auf; 20.000 Tickets waren augenblicklich ausverkauft [^20].
+## Lian Yun: Eine Erklärung, zusammengesetzt aus 3.200 LED-Paneelen
 
-Die Produktion dieses Konzerts kostete 36 Millionen New Taiwan Dollar. Die Hauptbühne bestand aus über 3.200 unregelmäßigen LED-Panels, die zu einer Wolkenform zusammengesetzt waren – allein die Bühne verschlang 15 Millionen und wurde sechs Monate lang entworfen [^20]. Aus über 200 Kandidatensongs wählte sie 22 Coverversionen: allesamt Werke taiwanischer Musiker, die sie beeinflusst hatten, und spannte einen Bogen über 30 Jahre Untergrund- und Independent-Musikgeschichte. Zhao Yihao, Chen Shan-ni, Huang Xiao-zhen, Lin Qiang. Für die 20.000 Zuschauer waren die meisten davon „neue Lieder“, die sie noch nie gehört hatten.
+Im Mai 2018 veranstaltete sie unter dem Namen „Anpu“ das Konzert „Lian Yun“ in der Taipei Arena, wobei die 20.000 Tickets sofort ausverkauft waren [^20].
 
-Der Musikkritiker Ma Shih-fang schrieb: „Ein grandioser Traum.“ Er beschrieb, wie die wie Bausteine aufgetürmte Bühne ein traumhaftes Sinneserlebnis schuf: präzise, weiträumig, den Atem raubend, doch nicht prätentiös [^20].
+Die Produktion dieses Konzerts kostete 36 Millionen NT$. Die Hauptbühne bestand aus über 3.200 unregelmäßigen LED-Paneelen, die in Wolkenform zusammengesetzt wurden; allein die Bühne verschlang 15 Millionen NT$ und wurde über sechs Monate hinweg entworfen [^20]. Aus über 200 in der engeren Auswahl stehenden Liedern wählte sie 22 Coverversionen aus: Es handelte sich ausschließlich um Werke von taiwanischen Musikern, die sie beeinflusst hatten, und sie deckten eine dreißigjährige Geschichte der Underground- und Independent-Musik ab. Chao Jen-ho, Sandee Chen, Huang Hsiao-chen, Lin Chiang. Für die 20.000 Zuschauer waren die meisten davon „neue Lieder“, die sie noch nie gehört hatten.
 
-Sie sang nur ein einziges eigenes Lied – „Baby“. Man sagt, sie habe danach geweint.
+Der Musikkritiker Ma Shih-fang schrieb: „Ein erhabener Traum.“ Er beschrieb, wie die wie aus Bausteinen geschichtete Bühne ein traumhaftes sensorisches Erlebnis schuf: präzise, grandios und atemberaubend, ohne dabei prätentiös zu wirken [^20].
 
-„Lian“ (提煉, destillieren/veredeln) ist ihre Definition dieser Aufführung: Aus dem Sein das Nichts destillieren, das Komplexe unaufhörlich vereinfachen [^20]. Dies war kein Comeback-Konzert, sondern eine Erklärung: Ich bin zurückgekehrt, aber ich bin nicht mehr die Person, an die du dich erinnerst.
+Sie sang nur ein einziges eigenes Lied – 〈Baby〉. Es heißt, sie habe nach dem Gesang geweint.
 
-## 9522: Ein Brief an heranwachsende Mädchen
+„Lian“ (Schmelzen/Raffinerie) ist ihre Definition dieser Performance: aus der Existenz das Nichts zu extrahieren und Komplexes ständig zu vereinfachen [^20]. Dies war keine bloße Rückkehr zur Konzerttournee, sondern eine Erklärung: Ich bin zurück, aber ich bin nicht die Person, an die ihr euch erinnert.
 
-Am 18. Januar 2022 gab An Pu während eines Konzerts ihre Scheidung bekannt und sagte, sie habe die Formalitäten erst an jenem Nachmittag abgeschlossen. Sie war zweieinhalb Jahre mit dem Animationsregisseur Su Bo-wei verheiratet und hat einen Sohn [^21]. Sie lobte ihren Ex-Mann öffentlich als den „mutigsten Mann der chinesischsprachigen Welt“, weil er es gewagt habe, sie zu heiraten [^21]. Sie sagte, sie plane, nach dem chinesischen Neujahr eine Therapeutin aufzusuchen, und gab zu, professionelle Unterstützung zu brauchen [^21].
+## 9522: Ein Brief an ein Mädchen, das gerade erwachsen wird
 
-Neun Monate später erschien das Album 《9522》. Sechzehn Songs, fast alle aus ihrer Zeit als 14- bis 17-Jährige. Der chiffrierte Albumtitel deutet auf 1995 bis 2022 hin, einen Zeitraum von siebenundzwanzig Jahren [^22]. Eine vierzigjährige Frau kehrt zurück, um die Lieder ihrer少女zeit zu singen, positioniert als ein „Segensbrief an heranwachsende Mädchen und Frauen“ [^22].
+Am 18. Januar 2022 gab Anpu während eines Konzerts ihre Scheidung bekannt und erklärte, dass sie die Formalitäten erst am Nachmittag desselben Tages abgeschlossen habe. Sie war zweieinhalb Jahre mit dem Animationsregisseur Su Po-wei verheiratet und hat einen Sohn [^21]. Öffentlich lobte sie ihren Ex-Mann als den „mutigsten Mann der chinesischsprachigen Welt“, weil er es gewagt habe, sie zu heiraten [^21]. Sie sagte zudem, sie plane, nach dem chinesischen Neujahrsfest eine psychologische Beratung aufzusuchen, und gestand offen, dass sie professionelle Unterstützung benötige [^21].
 
-[〈Die beste Zeit〉](https://www.youtube.com/watch?v=hiOnDnHwwjU) war die erste Single, die Hauptmelodie entstand mit vierzehn. Sie hatte sie einst für einen Autowerbespot eingereicht, wurde aber abgelehnt. Jahre später hörte die Schauspielerin Chang Chun-ning das Demo, war von der Melodie berührt und ermutigte sie, den Song fertigzustellen. Wu Qing-feng war der Erste, der die fertige Version hörte, und sein Kommentar lautete: „In diesem Moment wird dieses Leben wert.“ Die beiden hörten sich gegenseitig ihre Alben an bis zum Morgengrauen [^23].
+Neun Monate später erschien das Album 《9522》. Es umfasst sechzehn Lieder, die fast alle Kompositionen aus ihrer Zeit zwischen vierzehn und siebzehn Jahren sind. Der kryptische Albumtitel deutet auf den Zeitraum von 1995 bis 2022 hin, eine Spanne von siebenundzwanzig Jahren [^22]. Dass eine vierzigjährige Frau zu den Liedern zurückkehrt, die sie als Mädchen schrieb, wird als ein „Segensbrief an Mädchen und Frauen, die gerade erwachsen werden“ positioniert [^22].
 
-2023 gewann 〈Die beste Zeit〉 den Goldenen-Melodie-Preis für das Lied des Jahres bei der 34. Verleihung [^24]. Die Jurybegründung: „Ein Werk, das Zeit und Epoche überdauert, ein gutes Lied, das man für immer hören kann.“ An dem Tag der Preisverleihung hieß sie nicht Deserts Chang (張懸), sondern An Pu.
+[〈Die beste Zeit〉](https://www.youtube.com/watch?v=hiOnDnHwwjU) war die erste Single; die Hauptmelodie wurde bereits im Alter von vierzehn Jahren geschrieben. Sie hatte versucht, das Stück als Musik für einen Autowerbespot einzureichen, was jedoch abgelehnt wurde. Jahre später hörte die Schauspielerin Janine Chang die Demo-Version, ließ sich von der Melodie berühren und ermutigte sie, das Lied zu vollenden. Wu Qing-feng war die erste Person, die das fertige Werk hörte, und kommentierte es so: „In diesem Moment macht es dieses Leben lebenswert.“ Die beiden hörten sich gegenseitig ihre Alben an und unterhielten sich bis zum Morgengrauen [^23].
 
-> **💡 Wussten Sie schon:** Wenn Jiao Yuanpu weltbekannte Klaviermeister interviewt, bringt er Cheer Chens CDs als Geschenk mit. Er stellt sie so vor: „Unsere Familien-Musikerin.“ [^25]
+Im Jahr 2023 gewann 〈Die beste Zeit〉 den Preis für das Lied des Jahres beim 34. Golden Melody Awards [^24]. Das Urteil der Jury lautete: „Ein Werk, das Epoche und Zeit überdauert; ein gutes Lied, das man ewig hören kann.“ Am Tag der Preisverleihung wurde sie nicht unter ihrem Geburtsnamen Chang Hsuan, sondern als Anpu geehrt.
+
+> **💡 Wussten Sie schon?** Wenn Jiao Yuan-pu weltbekannte Klaviermeister interviewt, bringt er eine CD von Chang Hsuan als Geschenk mit. Er stellt sie dabei vor als: „Die Musikerin aus unserer Familie.“ [^25]
 
 ## Der handgeschriebene Brief vom 1. Oktober
 
-Am 1. Oktober 2024 um 22:01 Uhr lud An Pus Management auf Weibo einen handgeschriebenen Brief hoch: „Möge das neue China zum 75. Jahrestag seiner Gründung gesegnet sein, mögen die Menschen in Harmonie leben und Frieden in alle Winkel reichen.“ Unterzeichnet: An Pu, mit Segenswünschen. Der Zeitpunkt fiel exakt auf den Nationalfeiertag am 1. Oktober [^26].
+Am 1. Oktober 2024 um 22:01 Uhr veröffentlichte die Managementagentur von Anpu auf Weibo ein Foto eines handgeschriebenen Briefes: „Alles Gute zum 75. Jahrestag der Gründung des neuen Chinas. Mögen das Volk in Harmonie leben und überall Frieden herrschen.“ Unterzeichnet mit: „Anpus Segenswünsche“. Der Zeitpunkt war präzise auf den Nationalfeiertag abgestimmt [^26].
 
-Jene Person, die elf Jahre zuvor wegen des Zeigens der Flagge der Republik China von China gesperrt worden war, gratulierte nun der Volksrepublik China zum Geburtstag.
+Dieselbe Person, die vor elf Jahren in China boykottiert wurde, weil sie die Flagge der Republik China geschwenkt hatte, wünscht nun der Volksrepublik China alles Gute zum Geburtstag.
 
-Die Reaktion der taiwanesischen Fans war nicht Wut, sondern Herzschmerz. Wie konnte die Person, die „Rose-Colored You“ sang, die sich während der Sonnenblumen-Bewegung äußerte, die in Manchester „It's just a flag“ sagte, einen solchen Brief schreiben? Ihre Freundin He Xinsui versuchte zu vermitteln, wurde aber heftig beschimpft [^27]. Ein Schriftsteller analysierte direkt ihre jüngeren Aktivitäten und nannte es eine „lange geplante Loyalitätsbekundung“ [^28]. Der Politikwissenschaftler Huang Zhaonian wies darauf hin, dass dies Teil der chinesischen „Drei-Mitte-ein-Jugend“-Einheitsfrontstrategie gegenüber Taiwan sei: Taiwanesische Künstler würden zu politischen Stellungnahmen gezwungen, um die Identität junger Menschen zu beeinflussen [^29].
+Die Reaktion der taiwanischen Fans war nicht Wut, sondern Herzschmerz. Wie konnte die Person, die 〈玫瑰色的你〉 sang, die bei der Sonnenblumen-Bewegung ihre Stimme erhob und in Manchester sagte: „It's just a flag“, einen solchen Brief schreiben? Ihre Freundin He Hsin-sui versuchte die Situation zu entschärfen, wurde jedoch massiv kritisiert [^27]. Einige Autoren analysierten ihre jüngsten Aktivitäten direkt und bezeichneten dies als „lang geplante Loyalitätsbekundung“ [^28]. Der Politikwissenschaftler Huang Chao-nian wies darauf hin, dass dies ein Teil der chinesischen „Drei Mittelalten und eines Jugendlichen“-Einheitstaktik gegenüber Taiwan sei: taiwanische Künstler zur politischen Stellungnahme zu zwingen, um so die Identität der Jugend zu beeinflussen [^29].
 
-Elf Tage später, am 12. Oktober, das Takao-Festival. Bevor An Pu die Bühne betrat, waren im Publikum bereits Walfahnen und Yushan-Fahnen für Taiwans Unabhängigkeit zu sehen. Ein Fan rief direkt: „Jiao Anpu, warum?“
+Elf Tage später, am 12. Oktober, fand das Dagou-Festival statt. Bevor Anpu die Bühne betrat, war das Publikum bereits mit Walflaggen für die Unabhängigkeit Taiwans und Yushan-Flaggen gefüllt. Ein Fan rief direkt: „Chiao An-pu, warum?“
 
-Sie antwortete nicht direkt. Sie sagte etwas anderes [^30]:
+Sie antwortete nicht direkt darauf. Stattdessen sagte sie etwas anderes [^30]:
 
-> „Bei meinen Auftritten seid ihr immer frei und sicher. Diese Welt ist groß, ich wage nicht zu sagen, dass jeder Ort gleich ist, aber zumindest an den Orten, wo ich auftrete, kannst du du selbst sein.“
+> „An den Orten, an denen ich auftrete, seid ihr immer frei und sicher. Die Welt ist groß, und ich wage nicht zu behaupten, dass überall alles gleich ist, aber zumindest dort, wo ich spiele, könnt ihr ihr selbst sein.“
 
-Dann verneigte sie sich tief vor denen, die die Fahnen hielten.
+Dann verbeugte sie sich tief vor denjenigen, die die Flaggen hochhielten.
 
-Am nächsten Tag, dem 13. Oktober, beim selben Takao-Festival. [Fire EX.](/de/music/fire-ex/) Sänger Yang Ta-cheng hielt während seines Auftritts inne und sprach fast sieben Minuten lang über diese Angelegenheit [^30][^32].
+Am nächsten Tag, dem 13. Oktober, fand das gleiche Dagou-Festival statt. Yang Da-zheng, der Sänger von [滅火器](/de/music/fire-ex/), unterbrach während seines Auftritts und sprach fast sieben Minuten lang über dieses Thema [^30][^32].
 
-Er verteidigte An Pu nicht, schloss sich aber auch nicht der Verurteilung an. Er sprach über die Struktur: „Das ist die Peinlichkeit einer Ära, und auch die Peinlichkeit des Marktes. Wir haben Glück, wir müssen nicht an den chinesischen Markt denken. Aber die Probleme, vor denen sie stehen, sind anders – riesige Verlockungen, vielleicht der Wunsch, mehr Menschen zu ernähren.“ Mit „sie“ meinte er gleichzeitig An Pu, Mayday und Wu Kang-ren – drei Acts, die in derselben Woche wegen ihrer Weibo-Nationalfeiertags-Posts von der taiwanesischen Öffentlichkeit angegriffen wurden [^32].
+Er verteidigte Anpu nicht und schloss sich auch nicht dem Protest an. Er sprach über die Strukturen: „Dies ist das Dilemma einer Ära, aber auch das Dilemma des Marktes. Wir haben Glück, dass wir uns keine Gedanken über den chinesischen Markt machen müssen. Aber sie stehen vor einem anderen Problem – einer riesigen Versuchung, vielleicht in der Hoffnung, mehr Menschen ernähren zu können.“ Mit seinem „sie“ bezog er sich gleichzeitig auf Anpu, Mayday und Wu Kang-ren – drei Künstlergruppen, die in derselben Woche aufgrund von Weibo-Posts zum Nationalfeiertag von der taiwanischen Öffentlichkeit angegriffen wurden [^32].
 
-Dann sagte er den Satz, der das Publikum verstummen ließ: „Wenn unser Hexenjagd-Verhalten dem der Little Pinks auf der anderen Seite der Meeresstraße gleicht, dann ist das das Schlimmste. Deshalb bitte ich euch: Steckt eure Kraft in Taiwans Zukunft, spaltet euch nicht gegenseitig.“ [^32]
+Dann sagte er den Satz, der das Publikum verstummen ließ: „Wenn unser Verhalten bei der Hexenjagd genauso aussieht wie das der ‚Little Pinks‘ auf der anderen Seite des Meeres, dann ist das das eigentlich Schrecklichste. Deshalb bitte ich euch alle: Setzt eure Kraft für die Zukunft Taiwans ein, anstatt uns gegenseitig zu spalten.“ [^32]
 
-Er bot eine Alternative: Statt seine enttäuschenden Idole anzugreifen, solle man lieber herausfinden, wer gute Filme macht, wer gute Konzerte und Musikfestivals veranstaltet – und seine Zeit darauf verwenden, sie zu unterstützen [^32].
+Er bot eine Alternative an: Anstatt einen Idol, der einen enttäuscht hat, „anzugreifen“, sollte man lieber entdecken, wer gute Filme dreht oder wer gute Konzerte und Musikfestivals organisiert – verbringt eure Zeit damit, sie zu unterstützen [^32].
 
-Das Publikum jubelte. Diese siebenminütige Ansprache wurde von Zuschauern auf Social-Media-Plattformen hochgeladen und verbreitete sich weit über das Takao-Festival hinaus [^32].
+Das Publikum jubelte. Diese siebenminütige Rede wurde von Zuschauern auf soziale Plattformen hochgeladen und verbreitete sich weit über das Gelände des Dagou-Festivals hinaus [^32].
 
 ## Du kannst du selbst sein
 
-Elf Jahre zuvor in Manchester sagte sie: „It's just a flag“. Elf Jahre später beim Takao-Festival sagte sie: „Du kannst du selbst sein.“ Beide Sätze zielen auf dasselbe ab: die Weigerung, deine Freiheit zu definieren, und die Weigerung, zuzulassen, dass du ihre Freiheit definierst.
+Vor elf Jahren sagte sie in Manchester: „It's just a flag“. Elf Jahre später beim Dagou-Festival sagte sie: „Du kannst du selbst sein“. Beide Sätze zielen auf dasselbe ab: die Weigerung, die eigene Freiheit definieren zu lassen, und die Weigerung, die Freiheit anderer zu definieren.
 
-Die dreiundvierzigjährige An Pu sagt, sie lebe in der „ehrlichsten Phase ihres Lebens“, habe die unbeantworteten Fragen der Jugend abgelegt und begonnen, die Dinge zu schätzen, die von vornherein keine Antworten brauchten [^31]. Sie sagt, sie sei keine Autorität, sondern nur „jemand, der andere beim Umdenken begleitet“ [^31]. Sie freut sich aufs Älterwerden: „Die gesellschaftliche Forderung, dass Frauen ewig jung aussehen müssen, macht mich müde. Die Freiheit nach den Hormonen und den Blicken anderer – das ist das wahre glückliche Altern.“ [^31]
+Die 43-jährige Anpu sagt, sie befinde sich gerade in der „ehrlichsten Phase ihres Lebens“; sie habe die unbeantwortbaren Fragen ihrer Jugend abgelegt und begonnen, jene Dinge zu schätzen, die ohnehin keine Antworten benötigen [^31]. Sie sagt, sie sei keine Autorität, sondern lediglich eine Person, die „andere dabei begleitet, ihre Sichtweise zu ändern“[^31]. Sie freue sich darauf, alt zu werden: „Die Gesellschaft verlangt von Frauen, dass sie immer jung aussehen; das ermüdet mich sehr. Die Freiheit, die man erst nach dem Loslassen von Hormonen und den Blicken anderer findet, ist das wahre, glückliche Altern.“[^31]
 
-Man kann sagen, sie habe sich verändert. Man kann auch sagen, sie tue von Anfang bis Ende dasselbe: in jenem Graubereich leben, in den keine Flagge groß genug und kein Name passend genug ist.
+Man kann sagen, sie habe sich verändert. Oder man kann sagen, dass sie von Anfang an dasselbe getan hat: in einer Grauzone zu leben, in der keine Flagge groß genug und kein Name umfassend genug ist.
 
-Jiao Renhe sagte 2019 im Interview, das wertvollste Lebensgeschenk, das Zhang Xuan ihm gemacht habe, sei das Bewusstsein, dass die Welt vielfältig ist und das Leben eine Multiple-Choice-Frage, keine Single-Choice-Frage [^2].
+Chiao Jen-ho sagte in einem Interview im Jahr 2019, dass das kostbarste Lebensgeschenk, das Chang Hsu ihm gemacht habe, die Erkenntnis war, dass die Welt vielfältig ist und das Leben eine Multiple-Choice-Frage und keine Single-Choice-Frage darstellt [^2].
 
-Vielleicht hat auch die Tochter vom Vater dieselbe Lektion gelernt. Nur dass die Antwort, die sie wählte, nicht die ist, die irgendeine Seite hören will.
-
----
+Vielleicht hat auch die Tochter von ihrem Vater dasselbe gelernt. Nur ist die Antwort, für die sie sich entschieden hat, nicht das, was die Menschen auf einer der beiden Seiten hören wollen.
 
 ## Weiterführende Literatur
 
-- [Taiwanesische Independent-Musik](/de/music/indie-music-scene/) — die Independent-Musikszene, der Zhang Xuan angehört
-- [Entwicklungsgeschichte des taiwanesischen Rock](/de/music/taiwan-rock-from-underground-to-mainstream/) — von der Ära der verbotenen Lieder bis zum Ocean Music Festival
-- [Sunflower-Bewegung](/de/society/sunflower-movement/) — nach jenen dreißig Sekunden, die Taiwan 2014 veränderten
-- [Festival-Kultur Taiwans](/de/music/taiwan-music-festival-culture/) — von Gongliao bis zum Takao-Festival
-- [Rainie Yang](/de/people/rainie-yang) — der 25-jährige Weg einer anderen Mandopop-Sängerin: von der produzierten Künstlerin zur Selbstproduzentin, als Gegenstück zu An Pus Weg „vom Teenie-Star zur vollständigen Autorin“
+- [Taiwanische Independent-Musik](/de/music/indie-music-scene/) — Die Independent-Musikszene, der Chang Hsu angehört
+- [Geschichte der Rockmusik in Taiwan](/de/music/taiwan-rock-from-underground-to-mainstream/) — Von der Ära der verbotenen Lieder bis zum Ocean Music Festival
+- [Sonnenblumen-Bewegung](/de/society/sunflower-movement/) — Die dreißig Sekunden nach dem Jahr 2014, die Taiwan veränderten
+- [Kultur der Musikfestivals in Taiwan](/de/music/taiwan-music-festival-culture/) — Von Gongliao bis zum Dagou Festival
+- [Rainie Yang](/de/people/rainie-yang) — Ein anderer 25-jähriger Weg einer Mandopop-Sängerin, von der Produzierten zur Selbermachende, als zeitgenössisches Gegenstück zu Anpus Entwicklung „von der jungen Sängerin zur vollwertigen Autorin“
 
-## Quellen
+## Referenzen
 
-[^1]: [Jiao Renhe — Wikipedia](https://zh.wikipedia.org/zh-hans/%E7%84%A6%E4%BB%81%E5%92%8C) — Amtszeit als Generalsekretär der SEF, Rolle als Redenschreiber von Lee Teng-hui, Vorschlag von „Ein China, jeweilige Darstellung“ 1995, Werdegang des Großvaters, Anwalt Chiao Tien-kuei
+[^1]: [Chiao Jen-ho — Wikipedia](https://zh.wikipedia.org/zh-hans/%E7%84%A6%E4%BB%81%E5%92%8C) — Amtszeit als Generalsekretär des SEF, Rolle als Berater von Lee Teng-hui, Vorschlag der „Ein China, jeweils unterschiedliche Interpretationen“ im Jahr 1995 und die juristische Laufbahn seines Großvaters Chiao Tien-kuei.
 
-[^2]: [Jiao Renhe und Sängerin An Pu: Als Vater einerseits die Fäden ziehen, andererseits sie fliegen lassen — Common Health Magazine / Global Views Magazine](https://club.commonhealth.com.tw/article/2124) — Gemeinsames Vater-Tochter-Interview 2019, Drachen-Metapher, zwei Tische Gäste im „Hexenladen“, Stundenlohn 80 NT$ bei Trader Vic's, Briefwechsel, Lin-Daiyu-Metapher, Schulunterbrechung
+[^2]: [Chiao Jen-ho und die Singer-Songwriterin Anpu: Ein Vater, der mit einer Hand führt und mit der anderen fliegen lässt — Commonwealth Magazine/天下雜誌](https://club.commonhealth.com.tw/article/2124) — Ein gemeinsames Interview von Vater und Tochter im Jahr 2019; Metapher des Drachens, zwei Gäste im Witch House, Stundenlohn von 80 NT$ bei Trader Vic's, Kommunikation per Brief, die Lin Daiyu-Metapher und der Grund für das Unterbrechen des Studiums.
 
-[^3]: [Baby (Lied von Zhang Xuan) — Chinesische Enzyklopädie](https://www.newton.com.tw/wiki/%E5%AF%B6%E8%B2%9D/16038498) — Entstehungshintergrund: Mit 13 Jahren nach Streit mit der Familie das Haus verlassen und die Melodie vor sich hingesummt
+[^3]: [Baby (Song von Chang Hsuan) — Chinesische Enzyklopädie](https://www.newton.com.tw/wiki/%E5%AF%B6%E8%B2%9D/16038498) — Der kreative Hintergrund: Die Melodie entstand nach einem Streit mit der Familie, woraufhin sie im Alter von dreizehn Jahren das Haus verließ.
 
-[^4]: [An Pu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AE%89%E6%BA%A5) — Herkunft des Pseudonyms „Zhang Xuan“, Chronologie der Musikwerke, Teilnahme an sozialen Bewegungen (Anti-Atomkraftwerk 4, Wasserstreit um Hsinchu Science Park, Ehegleichstellung)
+[^4]: [Anpu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AE%89%E6%BA%A5) — Herkunft des Pseudonyms „Chang Hsuan“, Chronologie der Musikwerke und Teilnahme an sozialen Bewegungen (gegen Kernkraftwerk Nr. 4, Proteste gegen die Wasserentnahme durch den Central Taiwan Science Park, Ehegleichberechtigung).
 
-[^5]: [An Pu liest „Das öde Land“ seit zwanzig Jahren — United Daily News Literature / Langlang Yuedu](https://reading.udn.com/read/story/7009/6699208) — Literarische Einflüsse (Shen Congwen, Zheng Chouyu, Bei Dao, T. S. Eliot), „Das Buch gab mir einen Schubs“
+[^5]: [Anpu liest „Die Wüste“ seit zwanzig Jahren — United Literature/琅琅悅讀](https://reading.udn.com/read/story/7009/6699208) — Literarische Einflüsse (Shen Congwen, Zheng Chouyu, Bei Dao, T.S. Eliot) und das Gefühl, dass „Bücher mich vorangetrieben haben“.
 
-[^6]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — Auszeichnung bei Mango Runs beim Gongliao Ocean Music Festival 2003, Konzert in Manchester vor etwa 500 Personen
+[^6]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — Gewinn beim Mango Runs Keelung Ocean Music Festival im Jahr 2003 und ein Konzert in Manchester mit etwa fünfhundert Zuschauern.
 
-[^7]: [My Life Will… — Wikipedia](https://zh.wikipedia.org/zh-tw/My_Life_Will...) — 2001 Aufnahme unveröffentlicht, 2006 von Lee Shou-chuan wiederentdeckt, nominiert für vier Kategorien bei den 18. Golden Melody Awards
+[^7]: [My Life Will… — Wikipedia](https://zh.wikipedia.org/zh-tw/My_Life_Will...) — Aufnahmen wurden 2001 unter Verschluss gehalten, 2006 von Lee Shou-chuan wiederentdeckt und für vier Kategorien beim 18. Golden Melody Awards nominiert.
 
-[^8]: [Zhang Xuan „City“ Musikkritik — ccmusichk](https://ccmusichk.blogspot.com/2009/07/blog-post_09.html) — 2009 Stilwandel, Gründung der Band Algae, Übergang von Folk zu Rock
+[^8]: [Musikrezension zu Chang Hsuans „City“ — ccmusichk](https://ccmusichk.blogspot.com/2009/07/blog-post_09.html) — Stilistische Neuausrichtung im Jahr 2009, Gründung der Band Algae und Übergang vom Folk zum Rock.
 
-[^9]: [God's Game — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%A5%9E%E7%9A%84%E9%81%8A%E6%88%B2) — 2012 viertes Album, neun selbstgeschriebene Texte und Musik, Co-Produzent, Bester Texter bei den 24. Golden Melody Awards, in China aufgrund von Zensur vom Markt genommen
+[^9]: [God's Game — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%A5%9E%E7%9A%84%E9%81%8A%E6%88%B2) — Viertes Album aus dem Jahr 2012, neun selbst geschriebene Lieder, Co-Produzent, Auszeichnung als bester Texter beim 24. Golden Melody Awards und Entfernung von Plattformen aufgrund der Zensur in China.
 
-[^10]: [„Rose-Colored You“ Kontext des Sozialbewegungslieds — womany](https://womany.net/read/article/12684) — Schreibmotivation für Sozialaktivisten
+[^10]: [Der Kontext des Aktivismusliedes „Rosarote Dir“ — womany](https://womany.net/read/article/12684) — Die kreative Motivation hinter dem Lied, das für Aktivisten geschrieben wurde.
 
-[^11]: [National identity best faced head-on — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2013/12/15/2003579066) — Interview vom Dezember 2013: „Taiwans nationale Identität wird unweigerlich herausgefordert“
+[^11]: [National identity best faced head-on — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2013/12/15/2003579066) — Ein Interview im Dezember 2013: „Die nationale Identität Taiwans wird zwangsläufig herausgefordert werden“.
 
-[^12]: [Auftritt mit Nationalflagge führt zu Boykott durch chinesische Netizen: Zhang Xuan: „Ich bin bereit, das Konzert selbst abzusagen“ — ETtoday](https://star.ettoday.net/news/291398) — Hintergrund der Absage des Peking-Konzerts: ETtoday News
+[^12]: [Boykott durch chinesische Netznutzer nach Flaggenzeigen bei Auftritt; Chang Hsuan: Ich bin bereit, das Konzert selbst abzusagen — ETtoday](https://star.ettoday.net/news/291398) — Der Hergang der Absage des Konzerts in Peking: ETtoday News Cloud.
 
-[^13]: [Zhang Xuan schwenkt Nationalflagge, wird als „patriotische Sängerin“ bezeichnet, zeigt sich überrascht — ETtoday](https://star.ettoday.net/news/310598) — „Ihr habt euch geirrt“: ETtoday News
+[^13]: [Chang Hsuan als „patriotische Sängerin“ bezeichnet, nachdem sie die Nationalflagge zeigte – fassungslos nach den Kommentaren — ETtoday](https://star.ettoday.net/news/310598) — „Ihr habt euch verguckt“: ETtoday News Cloud.
 
-[^14]: [Reaktionen auf die Sonnenblumen-Bewegung — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%84%E7%95%8C%E5%B0%8D%E6%96%BC%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%E7%9A%84%E5%8F%8D%E6%87%89) — Aufeinanderfolgende Facebook-Posts, die die Regierung kritisieren
+[^14]: [Reaktionen verschiedener Kreise auf die Sonnenblumen-Bewegung — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%84%E7%95%8C%E5%B0%8D%E6%96%BC%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%E7%9A%84%E5%8F%8D%E6%87%89) — Kontinuierliche Facebook-Posts zur Kritik an der Regierung.
 
-[^15]: [An Pu: Gezeiten-Maximen 2022 — Mirror Weekly](https://www.mirrormedia.mg/story/20221224ent007/) — Konzertproduktionskonzept, Bühnenbild, literarische Vorlage, filmische Techniken
+[^15]: [Anpu Tide Proverbs 2022 — Mirror Media](https://www.mirrormedia.mg/story/20221224ent007/) — Produktionskonzept des Konzerts, Bühnendesign, literarische Grundlagen und filmische Techniken.
 
-[^16]: [Anpu to ebb 潮水箴言 — 方格子](https://vocus.cc/article/63a95bd5fd8978000148e4ad) — Von der 1000-Personen-Legacy-Show 2010 bis zur Kaohsiung-Arena-Serie 2015
+[^16]: [Anpu zu ebb Tide-Proklamation — Fabula](https://vocus.cc/article/63a95bd5fd8978000148e4ad) — Die Entwicklung der Konzertreihen von tausend Menschen im Legacy (2010) bis zur Kaohsiung Arena (2015)
 
-[^17]: [Cheer Chen kehrt zu Geburtsnamen „Jiao Anpu“ zurück — ETtoday](https://star.ettoday.net/news/699754) — „Damit Eltern, die Zeitungsausschnitte sammeln, diese beiden Zeichen sehen“
+[^17]: [Chang Hsu ändert ihren Namen zurück in „Chiao An-pu“ — ETtoday](https://star.ettoday.net/news/699754) — „Damit die Eltern, die gewohnt sind Zeitungsberichte zu lesen, diese beiden Zeichen sehen können“
 
-[^18]: [Anpus Abschiedsgründe — 噓！星聞](https://stars.udn.com/star/story/10092/6760341) — Katzentumor, Auslöser für Rückzug
+[^18]: [Der Grund für Anpus Rückzug — X star news](https://stars.udn.com/star/story/10092/6760341) — Der Tumor der Katze als Auslöser für den Rückzug aus der Öffentlichkeit
 
-[^19]: [Was Cheer Chen in drei Jahren erreichte — Yahoo News](https://tw.news.yahoo.com/%E4%BB%A5-%E5%AE%89%E6%BA%A5-%E4%B9%8B%E5%90%8D%E5%9B%9E%E6%AD%B8-%E9%80%99%E4%B8%89%E5%B9%B4%E5%BC%B5%E6%87%B8%E5%AE%8C%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BC-090000651.html) — Studium, Kalligrafie, Gedichteschreiben, Instrumentenübung, Bühnenproduktion lernen
+[^19]: [Was Chang Hsu in drei Jahren erreicht hat — Yahoo News](https://tw.news.yahoo.com/%E4%BB%A5-%E5%AE%89%E6%BA%A5-%E4%B9%8B%E5%90%8D%E5%9B%9E%E6%AD%B8-%E9%80%99%E4%B8%89%E5%B9%B4%E5%BC%B5%E6%87%B8%E5%AE%8C%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BC-090000651.html) — Studium, Kalligrafie-Training, Poesie schreiben, Instrumente verbessern und Bühnenproduktion lernen
 
-[^20]: [Die Wolkenveredler — The Reporter](https://www.twreporter.org/topics/anpu-concert) — 36 Mio. Produktionskosten, 3.200 LED-Panels, 15 Mio. Bühnenkosten, Musikkritik von Ma Shifang „Prächtiger Traum“, Auswahl-Logik der 22 Cover-Songs, Definition von „Lian“
+[^20]: [Die Cloud-Schmiede — The Reporter](https://www.twreporter.org/topics/anpu-concert) — Produktionskosten von NT$36 Millionen, 3.200 LED-Einheiten, Bühnenbaukosten von NT$15 Millionen, Ma Shifangs Musikkritik „ein gewaltiger Traum“, die Logik hinter den 22 Cover-Songs und die Definition von „Schmieden“
 
-[^21]: [Anpu verkündet Scheidung — A Day Magazine](https://www.adaymag.com/2022/01/19/deserts-chang-divorce.html) — Bühnenbekanntgabe Januar 2022, „mutigster Mann der chinesischsprachigen Welt“, Plan, Psychotherapeuten aufzusuchen
+[^21]: [Anpu gibt Scheidung bekannt — A Day Magazine](https://www.adaymag.com/2022/01/19/deserts-chang-divorce.html) — Bekanntgabe auf der Bühne im Januar 2022, „der mutigste Mann der chinesischsprachigen Welt“, Pläne für psychologische Beratung
 
-[^22]: [Anpu „9522“ — Blow Music](https://blow.streetvoice.com/62164/) — 16 Songs, entstanden mit 14 bis 17 Jahren, passwortartiger Albumtitel, für heranwachsende Mädchen geschrieben
+[^22]: [Anpus „9522“ — Blow Music](https://blow.streetvoice.com/62164/) — Sechzehn Lieder, komponiert zwischen dem 14. und 17. Lebensjahr, ein kryptischer Albumtitel, geschrieben für Mädchen im Wachstumsprozess
 
-[^23]: [Chang Chun-ning und „The Best of Times“ — Mirror Weekly](https://www.mirrormedia.mg/story/20220802ent017/) — Autowerbung abgelehnt, Chang Chun-ning ermutigte zur Fertigstellung, Wu Qing-feng: „Dieser Moment macht dieses Leben wert“
+[^23]: [Janine Chang und „Die beste Zeit“ — Mirror Media](https://www.mirrormedia.mg/story/20220802ent017/) — Ablehnung einer Autowerbung, Janine Changs Ermutigung zum Abschluss, Wu Qing-feng: „Lass diesen Moment das Leben lebenswert machen“
 
-[^24]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — Song des Jahres bei den 34. Golden Melody Awards
+[^24]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — Song des Jahres bei der 34. Golden Melody Awards
 
-[^25]: [Jiao Yuanpu und Cheer Chen leuchten auf musikalischem Weg — Business Weekly](https://www.businesstoday.com.tw/article-content-80732-120414) — Jiao Yuanpu brachte Cheer Chens CD zum Interview mit einem Klaviermeister
+[^25]: [Chiao Yuan-pu und Chang Hsu strahlen auf ihrem musikalischen Weg — Next Magazine](https://www.businesstoday.com.tw/article-content-80732-120414) — Chiao Yuan-pu brachte Chang Hsu mit einer CD zu einem Interview mit einem Klaviermeister
 
-[^26]: [Anpu gratuliert per Handschreiben zum 75. Jahrestag der Gründung der VR China — CTS News](https://news.cts.com.tw/cts/entertain/202410/202410022383717.html) — Weibo-Beitrag am 1. Oktober 2024 um 22:01, vollständiger Text des Handschreibens
+[^26]: [Anpu schreibt handschriftlichen Brief zur 75. Gründung der Volksrepublik China — CTS News](https://news.cts.com.tw/cts/entertain/202410/202410022383717.html) — Beitrag auf Weibo am 1. Oktober 2024 um 22:01 Uhr, vollständiger Text des handgeschriebenen Briefes
 
-[^27]: [Freundin He Xinsui verteidigt Anpu und wird heftig kritisiert — Hush Star News](https://stars.udn.com/star/story/10088/8267193) — He Xinsuis Verteidigungsversuch kritisiert: United Daily News berichtet
+[^27]: [Unterstützung durch Freundin He Hsin-sui führt zu heftiger Kritik — X star news](https://stars.udn.com/star/story/10088/8267193) — He Hsin-suis Versuch der Deeskalation wird kritisiert: Bericht von UDN
 
-[^28]: [Autor analysiert Anpus jüngere Aktivitäten — Liberty Times](https://ent.ltn.com.tw/news/breakingnews/4818861) — Analyse: „Lange geplante Loyalitätsbekundung“
+[^28]: [Schriftsteller listet Anpus jüngste Aktivitäten auf — Liberty Times](https://ent.ltn.com.tw/news/breakingnews/4818861) — Analyse über eine „lang geplante Loyalitätsbekundung“
 
-[^29]: [Key Commentary Network-Analyse — Huang Zhaonians „Drei-Mitte-ein-Jugend“-Einheitsfront](https://www.thenewslens.com/article/243496) — Erzwungene politische Stellungnahmen von Künstlern beeinflussen die Identität taiwanischer Jugendlicher
+[^29]: [Analyse von The News Lens — Huang Chao-nian: Die Vereinigungstaktik der „Drei Mittelalten und eines Jugendlichen“](https://www.thenewslens.com/article/243496) — Der Zwang für Künstler zur politischen Stellungnahme beeinflusst die Identität der taiwanischen Jugend
 
-[^30]: [Anpus erster Auftritt beim Takao-Festival — Hush Star News](https://stars.udn.com/star/story/10092/8287846) — Vollständige Reaktion beim Takao-Festival am 12. Oktober 2024, Walfahne und Yushan-Fahne, siebenminütiges Gespräch mit Yang Zhengzheng
+[^30]: [Anpu tritt erstmals beim Dagou Festival auf — X star news](https://stars.udn.com/star/story/10092/8287846) — Vollständige Reaktion beim Dagou Festival am 12. Oktober 2024, Walflag und Yushan-Flagge, siebenminütige Rede von Yang Da-zheng
 
-[^31]: [Anpu über Altern und Lebensphilosophie — Good Morning Health/Harper's Bazaar](https://www.edh.tw/lohas/article/31481) — „Sich aufs Altern freuen“, „Andere beim Umdenken begleiten“, sich von Hormonen und fremden Blicken befreien
+[^31]: [Anpu über das Altern und die Lebensphilosophie — Good Morning LOHAS/Harper's Bazaar](https://www.edh.tw/lohas/article/31481) — „Sich auf das Älterwerden freuen“, „anderen helfen, die Perspektive zu ändern“, sich von Hormonen und den Blicken anderer befreien
 
-[^32]: [Fire EX.-Sänger Yang Ta-cheng reagiert direkt auf Mayday, Wu Kang-ren und Anpu „Stellungnahme“-Vorfall — The News Lens](https://www.thenewslens.com/article/243131) — Der vollständige Inhalt der fast siebenminütigen Ansprache, „Hexenjagd-Verhalten, das wie das von Little Pinks aussieht, ist erst wirklich beängstigend“, die Peinlichkeit der Zeit und die Peinlichkeit des Marktes, Originalvideo: [YouTube](https://www.youtube.com/watch?v=cNRkJn8RV1o)
+[^32]: [Feuerlöscher-Sänger Yang Da-zheng reagiert direkt auf den Vorfall um die „Stellungnahmen“ von Mayday, Wu Kang-ren und Anpu bei „Dagou-Festival“ — The News Lens](https://www.thenewslens.com/article/243131) — Vollständiger Inhalt der fast siebenminütigen Rede: „Hexenjagd-Verhalten ist genauso erschreckend wie das der Little Pink“, die Peinlichkeit der Ära und des Marktes, Originalvideo: [YouTube](https://www.youtube.com/watch?v=cNRkJn8RV1o)
