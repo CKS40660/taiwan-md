@@ -1,6 +1,6 @@
 ---
-title: 'Taiwanesische Unternehmen: MediaTek'
-description: 'Einst als „König der Shanzhai-Handys“ verspottet, hält das Unternehmen heute einen 1,5-fach höheren Marktanteil bei Smartphone-Chips als Qualcomm.'
+title: 'Taiwanische Unternehmen: MediaTek'
+description: 'Der Gründer führte ein kleines Team aus einem Mutterkonzern an den Erfolg im Chipsektor; nach anfänglicher Kritik als Billigproduzent für das Shenzhen-Nachbau-Ökosystem, führt das Unternehmen heute den Markt für Mobilfunkchips an und ist weltweit die fünftgrößte Designfirma.'
 date: 2026-03-25
 category: 'Economy'
 tags:
@@ -20,116 +20,116 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '0df538d8c'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
-translatedAt: '2026-09-12T19:24:15+08:00'
+translatedAt: '2026-10-15T12:43:12+08:00'
 ---
 
 > **30-Sekunden-Überblick**
 >
-> Tsai Ming-kai gründete 1997 MediaTek mit einem kleinen Team, das aus UMC ausgegliedert wurde, und begann mit CD-ROM-Chips. 2004 stieg das Unternehmen in den Handymarkt ein und versorgte mit seinen „Turnkey-Lösungen“ das gesamte Shanzhai-Ökosystem in Shenzhen – das Etikett „König der Shanzhai-Handys“ ließ sich seither nicht mehr abschütteln. Doch 2024 erreichte MediaTek einen globalen Marktanteil von 39 % bei Smartphone-Chips, fast das 1,5-Fache des langjährigen Rivalen Qualcomm (25,7 %). Der Jahresumsatz überschritt 19 Milliarden US-Dollar, und Apple, Google und NVIDIA stehen Schlange für Kooperationen. Das Unternehmen, das einst als „Billigproduzent“ galt, ist heute der fünftgrößte IC-Design-Konzern der Welt.
+> 1997 gründete T.J. Mingshi (蔡明介) mit einem kleinen Team, das aus dem Unternehmen United Microelectronics Corporation (UMC) ausgegliedert worden war, MediaTek und begann mit CD-ROM-Chips. Mit dem Eintritt in den Mobilfunkmarkt im Jahr 2004 speiste sein „Turnkey-Lösungsmodell“ das gesamte Ökosystem der Nachbau-Handys („Shanzhai“) in Shenzhen – ein Etikett als „König der Nachbau-Handys“, das ihm lange anhaftete. Doch im Jahr 2024 erreichte der weltweite Marktanteil von MediaTek bei Mobilfunkchips 39 % und damit fast das 1,5-fache seines langjährigen Konkurrenten Qualcomm (25,7 %). Bei einem Jahresumsatz von über 19 Milliarden US-Dollar stehen Apple, Google und NVIDIA Schlange für Kooperationen. Das Unternehmen, das einst als reiner „Billigproduzent“ galt, ist heute die fünftgrößte IC-Designfirma der Welt.
 
 ## Ein Boxfan und sein IC-Imperium
 
-Als Tsai Ming-kai die Kaohsiung Senior High School besuchte, begeisterte er sich für Amateurboxkämpfe. Daraus zog er eine Lehre: In der Boxwelt gelingt es nur wenigen, dauerhaft an der Spitze zu bleiben, denn wer aufhört, sich weiterzuentwickeln, wird vom nächsten Herausforderer zu Boden gestreckt. Später machte er diese Beobachtung zu seiner Managementphilosophie, der „One-Generation-Champion“-Theorie: Die IC-Design-Branche wird immer von der nächsten Welle abgelöst; eine zu einseitige Produktpalette ist ein Weg in den Tod.
+Als T.J. Mingshi (蔡明介) in der Highschool in Kaohsiung studierte, begeisterte er sich für den Amateursport Boxen. Er lernte daraus eine wichtige Lektion: In der Boxwelt kann selten jemand über lange Zeit unangefochten die Vorherrschaft behalten, denn sobald man aufhört, sich weiterzuentwickeln, wird der nächste Herausforderer einen zu Fall bringen. Diese Beobachtung machte er später zu seiner Managementphilosophie, der „Generationen-Champion“-Theorie: In der IC-Designbranche folgen immer neue Wellen auf die alten; eine zu einseitige Produktlinie führt unweigerlich in die Sackgasse.
 
-(Quelle: [Interview mit Alumni der Nationalen Tsing-Hua-Universität](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) und [TechNews](https://technews.tw/?p=629553))
+(Basierend auf einem [Alumni-Interview der Tsinghua-Universität](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) und [TechNews](https://technews.tw/?p=629553))
 
-1983 holte Robert Tsao (Cao Xingcheng) den 33-jährigen Tsai Ming-kai vom ITRI (Industrial Technology Research Institute) zu UMC, um die Multimedia-Abteilung zu leiten. 1997 änderte UMC seine Strategie, gliederte die IC-Design-Sparte aus, und Tsai Ming-kai führte das Team zur Gründung von MediaTek. Der englische Name „MediaTek“ – Medientechnologie – wurde gewählt, weil das Startprodukt Chips für CD-ROM- und DVD-Player waren. Damals ahnte niemand, dass dieses kleine Unternehmen in Hsinchu zwanzig Jahre später Qualcomm herausfordern würde.
+Im Jahr 1983 holte曹興誠 (Tsao Xing-cheng) den damals 33-jährigen T.J. Mingshi vom Industrial Technology Research Institute (ITRI) zu UMC, um ein Multimedia-Team zu leiten. Als UMC 1997 eine strategische Neuausrichtung vornahm und die IC-Design-Abteilung ausgliederte, gründete Mingshi mit seinem Team MediaTek. Das Unternehmen wählte den englischen Namen „MediaTek“ (Medientechnologie), da das erste Produkt CD-ROM- und DVD-Player-Chips waren. Damals ahnte niemand, dass dieses kleine Unternehmen aus Hsinchu zwei Jahrzehnte später Qualcomm herausfordern würde.
 
-> 📝 **Die „One-Generation-Champion“-Theorie erklärt, warum MediaTek ständig die Spur wechselt: CD-ROM → Handy → 5G → KI → ASIC. Nicht aus Unbeständigkeit, sondern weil Tsai Ming-kai glaubt, Stillstand sei gleichbedeutend mit dem Tod.**
+> 📝 **Die „Generationen-Champion“-Theorie erklärt, warum MediaTek ständig die Rennstrecke wechselt: von CD-ROM → Mobilfunk → 5G → KI → ASIC. Das geschieht nicht aus Unbeständigkeit, sondern weil Mingshi glaubt, dass Stillstand dem Tod gleichkommt.**
 
-## Die zwei Seiten des Shanzhai-Königs
+## Die zwei Seiten des „Königs der Nachbau-Handys“
 
-2004 entschied Tsai Ming-kai, vom optischen Laufwerk in den Handymarkt einzusteigen. Er beauftragte seinen Vertrauten Hsu Chih-chiang (Xu Zhijiang), bei Nokia und Motorola vorzusprechen. Hsu goss kaltes Wasser in den Wein: „Wenn die Technologie nicht einzigartig und die einzige Option ist, kümmern sich diese Großen nicht darum, und es gibt auch keine Marge.“ (Quelle: [Mirror Media Titelgeschichte 2025](https://www.mirrormedia.mg/story/20241231fin001))
+Im Jahr 2004 entschied sich Mingshi, vom Optik-Chip-Markt in den Mobilfunkmarkt einzusteigen. Er beauftragte seinen fähigen Mitarbeiter Hsu Chih-chiang (徐至強), die Türen von Nokia und Motorola zu öffnen. Hsu entgegnete jedoch mit einer Warnung: „Wenn wir keine einzigartige Technologie haben und nicht die einzige Option sind, werden diese Giganten uns gar nicht erst beachten – zudem gäbe es keinen Gewinn.“ (Zitiert aus der [Mirror Media Cover Story 2025](https://www.mirrormedia.mg/story/20241231fin001))
 
-Tsai Ming-kai nahm den Rat an. Statt an die Türen der Großkonzerne zu klopfen, wählte er den Einstieg über den Shanzhai-Handymarkt in Shenzhen. MediaTeks 2,5G-Chips nutzten ein „Turnkey“-Modell – Prozessor, Speichercontroller, HF-Komponenten und Software waren in einer Plattform integriert. Kleine Fabriken in Shenzhen erhielten die Chips und konnten innerhalb weniger Monate Handys fertigen.
+Mingshi nahm sich dies zu Herzen. Er entschied sich für einen anderen Weg: Statt bei den großen Playern anzuklopfen, griff er den Markt der Nachbau-Handys in Shenzhen, China, an. Die von MediaTek eingeführten 2,5G-Chips nutzten das „Turnkey“-Modell – Prozessor, Speichercontroller, HF-Komponenten und Software wurden auf einer einzigen Plattform integriert. Kleine Fabriken in Shenzhen konnten so mit den Chips sofort Handys montieren und innerhalb weniger Monate ausliefern.
 
-Diese Strategie ließ die chinesische Shanzhai-Handy-Industrie explodieren. MediaTeks Marktanteil schoss zeitweise auf 40 %. Doch das Label „König der Shanzhai-Handys“ haftete fortan an. Ein langjähriger MediaTek-Mitarbeiter erinnert sich: „Shanzhai-Handys sind letztlich Imitate; nach dem großen Geldverdienen war der Ruf nicht gut, und auch Tsai fand den Titel nicht sehr rühmlich.“ (Quelle: [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001))
+Diese Strategie ließ die chinesische Nachbau-Handyindustrie explodieren. Der Marktanteil von MediaTek stieg zeitweise auf 40 %. Doch damit kam auch das Etikett „König der Nachbau-Handys“. Ein langjähriger Mitarbeiter erinnerte sich: „Nachbau bedeutet letztlich Imitation; nachdem man viel Geld verdient hatte, war der Ruf nicht gerade glanzvoll. Auch Chairman Tsai empfand den Titel als wenig prestigeträchtig.“ (Zitiert aus [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001))
 
-> 📝 **Das ist das interessanteste Paradoxon in der MediaTek-Geschichte: Das Geschäftsmodell, das ihnen den ersten Topf Gold einbrachte, war genau das Etikett, das sie später verzweifelt abschütteln wollten. Der Erfolg als Shanzhai-König war sowohl Startpunkt als auch Fluch.**
+> 📝 **Dies ist das interessanteste Paradoxon in der Geschichte von MediaTek: Das Geschäftsmodell, das ihnen das erste große Vermögen einbrachte, war genau das Etikett, das sie später verzweifelt ablegen wollten. Der Erfolg als „König der Nachbau-Handys“ war zugleich ihr Ausgangspunkt und ihr Fluch.**
 
-## Absturz auf den Tiefpunkt: 11 % Marktanteil
+## Der Tiefpunkt: 11 % Marktanteil
 
-2007 kam das iPhone auf den Markt, das Zeitalter der Smartphones brach an, und Shanzhai-Handys gingen dem Ende zu. MediaTek, technisch schwächer als Qualcomm, hinkte bei Flaggschiff-Chips immer einen Schritt hinterher – 3G kam zu spät, 4G kam zu spät, Benchmark-Ergebnisse waren schlechter. Qualcomm baute mit seinem Patentlizenzmodell einen Burggraben auf, und Markenkunden wurden einer nach dem anderen abgeworben.
+Mit der Einführung des iPhones im Jahr 2007 begann das Smartphone-Zeitalter, was das Ende der Nachbau-Handys einläutete. MediaTek, dessen technologische Stärke hinter Qualcomm zurücklag, hinkte bei Flaggschiff-Chips immer einen Schritt hinterher – bei 3G, bei 4G und auch bei den Performance-Benchmarks. Qualcomm baute durch Patentlizenzen einen Burggraben auf, und Kundenmarken wurden einer nach dem anderen abgeworben.
 
-Am Tiefpunkt betrug MediaTeks Marktanteil bei Smartphone-Chips nur noch **11 %**.
+Auf dem Tiefpunkt sank der Marktanteil von MediaTeks Mobilfunkchips auf nur noch **11 %**.
 
-Tsai Ming-kai traf zwei Entscheidungen. Erstens: Nicht mehr frontal gegen Qualcomm im High-End-Segment antreten, sondern „Technologie aufs Land bringen“ – High-End-Funktionen zu niedrigeren Kosten in Mittelklasse-Chips packen. Die 2014 eingeführte Helio-Serie ermöglichte Mittelklasse-Handys Achtkernprozessoren, und Xiaomi, Meizu, OPPO setzten sie massenhaft ein. Zweitens: 2017 holte er den ehemaligen TSMC-Chef Rick Tsai (Cai Lixing) als Co-CEO an Bord, um dessen Netzwerk in der internationalen Industrie und Erfahrung im Prozessmanagement zu nutzen.
+Mingshi traf daraufhin zwei entscheidende Entscheidungen. Erstens: Er hörte auf, im High-End-Segment frontal gegen Qualcomm anzutreten, und setzte stattdessen auf eine „Technologie für die breite Masse“ – er integrierte High-End-Funktionen zu geringeren Kosten in Mittelklasse-Chips. Die 2014 eingeführte Helio-Serie ermöglichte es auch preisgünstigen Handys, Octa-Core-Prozessoren zu nutzen, was massiv von Marken wie Xiaomi, Meizu und OPPO übernommen wurde. Zweitens: Im Jahr 2017 holte er den ehemaligen TSMC-CEO Tsai Li-hsing (蔡力行) als Co-CEO an Bord, um von dessen Netzwerk bei internationalen Großkonzernen und seiner Erfahrung im Prozessmanagement zu profitieren.
 
-> **Schlüsselzahlen**
+> **Kennzahlen**
 >
-> | Kennzahl                        | Wert                       |
-> | ------------------------------- | -------------------------- |
-> | Umsatz 2024                     | 16,52 Mrd. USD (YoY +19 %) |
-> | TTM-Umsatz (2025)               | 19,1 Mrd. USD              |
-> | Globaler Handy-Chip-Marktanteil | 39 % (Qualcomm 25,7 %)     |
-> | Globales IC-Design-Ranking      | Platz 5 (TrendForce, 2024) |
-> | F&E-Investitionen (6 Jahre)     | Über 500 Mrd. NT$          |
-> | Anteil Master/PhD-Mitarbeiter   | 81,8 %                     |
+> | Indikator                             | Daten                            |
+> | ------------------------------------- | -------------------------------- |
+> | Umsatz 2024                           | 16,52 Mrd. US-Dollar (YoY +19 %) |
+> | TTM-Umsatz (2025)                     | 19,1 Mrd. US-Dollar              |
+> | Weltweiter Marktanteil Mobilfunkchips | 39 % (Qualcomm 25,7 %)           |
+> | Globales IC-Design-Ranking            | Platz 5 (TrendForce, 2024)       |
+> | F&E-Investitionen (6 J.)              | Über NT$ 500 Milliarden          |
+> | Anteil Mitarbeiter mit Master/PhD     | 81,8 %                           |
 >
-> _Quellen: [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [TrendForce Bericht 2025](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
+> _Quelle: [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [TrendForce 2025 Bericht](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
 
-## Dimensity-Gegenangriff: Vom Verfolger zum Spitzenreiter
+## Die Dimensity-Offensive: Vom Verfolger zum Vorreiter
 
-2020 brachte MediaTek die „Dimensity“ (Tianji)-Serie für 5G-Chips auf den Markt. Diesmal nicht mehr als Nachzügler, der Qualcomms Reste isst – der Dimensity 1000 war einer der frühesten integrierten 5G-SoCs der Branche, und Benchmarks lagen direkt auf Flaggschiff-Niveau von Qualcomm. Im dritten Quartal desselben Jahres überholte MediaTek Qualcomm beim Smartphone-Chip-Marktanteil und eroberte die Spitze zurück.
+Im Jahr 2020 brachte MediaTek die „Dimensity“-Serie für 5G auf den Markt. Diesmal ging es nicht mehr darum, nur die Reste hinter Qualcomm aufzusammeln – die Dimensity 1000-Serie war einer der ersten integrierten 5G-SoCs der Branche und lieferte Benchmarks, die direkt mit Qualcomms Flaggschiffen mithalten konnten. Im dritten Quartal desselben Jahres überholte MediaTek Qualcomm beim Marktanteil für Mobilfunkchips und eroberte wieder den ersten Platz.
 
-Der Ende 2024 vorgestellte Dimensity 9400 war der entscheidende Schlag. Gefertigt im 3-nm-Prozess von TSMC, mit massiv gesteigerter KI-Leistung, rissen sich chinesische Top-Marken darum – High-End-Chip-Auslieferungen schnellten um 70 % nach oben. Daten von Counterpoint Research zeigen, dass MediaTek 39 % des globalen Smartphone-Prozessormarktes hielt, Qualcomm sank auf 25,7 %. Der Flaggschiff-Chip-Absatz wuchs von 2022 bis 2025 um 350 % ([Techsponential](https://www.techsponential.com/reports/dimensity9500)).
+Der Ende 2024 eingeführte Dimensity 9400 war ein entscheidender Schlag. Gefertigt im 3-Nanometer-Verfahren von TSMC und mit massiv gesteigerter KI-Leistung, wurde er von führenden chinesischen Marken heiß begehrt – die Auslieferungen von High-End-Chips stiegen um 70 %. Daten von Counterpoint Research zeigen, dass MediaTek einen Anteil von 39 % am weltweiten Smartphone-Prozessormarkt hält, während Qualcomm auf 25,7 % sank. Der Verkauf von Flaggschiff-Chips wuchs von 2022 bis 2025 um 350 % ([Techsponential](https://www.techsponential.com/reports/dimensity9500)).
 
-Dass Huawei durch US-Sanktionen die Eigenentwicklung von Chips unmöglich wurde, spielte MediaTek in die Karten – chinesische Handyhersteller hatten keine Alternative und wurden noch abhängiger von diesem taiwanesischen Unternehmen, das Zugang zu TSMCs Spitzentechnologie hat.
+Dass Huawei durch US-Sanktionen bei der Eigenentwicklung von Chips eingeschränkt wurde, gab MediaTek einen Schub – chinesische Smartphone-Marken hatten keine andere Wahl, als sich stärker auf dieses taiwanische Unternehmen zu verlassen, das Zugang zu den fortschrittlichen Fertigungsprozessen von TSMC hat.
 
-## Apfel gegessen: Acht Jahre Schleifen eines Schwerts
+## Den Apfel essen: Acht Jahre Vorbereitung
 
-Tsai Ming-kai wollte nicht nur Geschäfte mit chinesischen Kunden machen. Vor acht Jahren gründete er ein dediziertes Team unter Vizepräsident Hsu Hao-chun (Xu Haojun) mit einem einzigen Ziel: in Apples Lieferkette einzudringen.
+Mingshi gab sich nicht damit zufrieden, nur mit chinesischen Kunden Geschäfte zu machen. Vor acht Jahren stellte er ein spezialisiertes Team unter der Leitung von Vice President Hsu Hao-chun (許皓鈞) zusammen, mit einem einzigen Ziel: in die Lieferkette von Apple einzudringen.
 
-Im Dezember 2024 berichtete Bloomberg, dass die nächste Apple Watch MediaTeks Modem-Chips nutzen und damit Intel ersetzen werde ([Bloomberg / TechNode](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/)). Drei Tage später nannte ein Morgan-Stanley-Bericht MediaTek als Gewinner von Googles TPU-Custom-Chip-Auftrag. Hinzu kam die auf der Computex 2024 von Jensen Huang persönlich verkündete KI-PC-Chip-Kooperation zwischen NVIDIA und MediaTek – von den vier wertvollsten Tech-Konzernen der Welt (Apple, Google, NVIDIA, Samsung) hat MediaTek drei auf einmal an Land gezogen.
+Im Dezember 2024 meldete Bloomberg, dass Apples neue Apple Watch MediaTek-Modemchips verwenden wird, anstatt der bisherigen Intel-Chips ([Bloomberg / TechNode](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/)). Drei Tage später berichtete Morgan Stanley, dass MediaTek Aufträge für kundenspezifische Google TPU-Chips erhalten habe. Hinzu kommt die auf der Computex 2024 von Jensen Huang (黃仁勳) selbst angekündigte Kooperation zwischen NVIDIA und MediaTek für KI-PC-Chips – von den vier wertvollsten Technologieunternehmen der Welt (Apple, Google, NVIDIA, Samsung) hat MediaTek nun drei erobert.
 
-Ein Insider sagte Mirror Media: „Tsai ist lately in bester Laune, weil das Apple-Watch-Projekt nach acht Jahren endlich Früchte trägt.“
+Insider berichteten gegenüber Mirror Media: „Chairman Tsai ist in letzter Zeit sehr gut gelaunt, denn das Apple-Watch-Projekt lief acht Jahre lang und trägt nun endlich Früchte.“
 
-> 📝 **Die Logik von MediaTeks Einstieg bei Apple ähnelt der beim Shanzhai-Markt damals – nicht frontal um den Flaggschiff-Smartphone-Chip kämpfen (das ist Qualcomms Revier), sondern über die Seitentür Apple Watch hereinkommen. Erst Apple an den eigenen Chip gewöhnen, dann den nächsten Schritt verhandeln. Tsai Ming-kais Geduld: acht Jahre Beweis.**
+> 📝 **Die Logik, mit der MediaTek zu Apple vordrang, entsprach der Strategie beim Nachbau-Markt von damals: Man versuchte nicht, die Flaggschiff-Chips gewaltsam zu übernehmen (das ist Qualcomms Revier), sondern nutzte die Apple Watch als Seiteneingang. Erst lässt man Apple an die eigenen Chips gewöhnen, bevor man den nächsten Schritt wagt. Mingshis Geduld wurde durch acht Jahre bewiesen.**
 
 ## Der Drahtseilakt der Geopolitik
 
-MediaTeks größtes Risiko steckt in seiner größten Stärke: Über die Hälfte des Umsatzes kommt von chinesischen Kunden. Der technologische Kalte Krieg zwischen USA und China eskaliert weiter, und MediaTek balanciert auf dem Drahtseil – auf der einen Seite der größte Markt, auf der anderen die entscheidende Technologiequelle (US-EDA-Tools, TSMC-Spitzenfertigung).
+Das größte Risiko für MediaTek liegt in seiner größten Stärke: Mehr als die Hälfte des Umsatzes stammt von chinesischen Kunden. Während sich der Technologiekrieg zwischen den USA und China verschärft, bewegt sich MediaTek auf einem Drahtseil – auf der einen Seite steht der größte Markt, auf der anderen die kritische technologische Basis (US-amerikanische EDA-Tools, fortschrittliche TSMC-Prozesse).
 
-Rick Tsais Gegenstrategie: „Nicht alle Eier in einen Korb legen“ – aggressive Expansion bei Nicht-China-Kunden (Samsung, Apple, Google) und gleichzeitiger Ausbau der Nordamerika-Investitionen. Doch geopolitische Variablen lassen sich nicht vom Unternehmen kontrollieren. Trumps Zollpolitik 2.0, Chinas ungeschriebene „Ent-Amerikanisierung“, Spannungen in der Taiwanstraße – jeder Faktor kann die Spielregeln ändern.
+Die Strategie von Tsai Li-hsing lautet „nicht alle Eier in einen Korb zu legen“: Er expandiert aktiv zu Nicht-China-Kunden (Samsung, Apple, Google) und erhöht gleichzeitig die Investitionen in Nordamerika. Doch geopolitische Variablen lassen sich von Unternehmen nicht kontrollieren. Die Zollpolitik unter Trump 2.0, Chinas informelle „De-Americanisierung“ und die Spannungen in der Taiwanstraße – jeder Faktor könnte die Spielregeln ändern.
 
-Morgan-Stanley-Analysten sind dennoch optimistisch: „MediaTek ist einer der wenigen taiwanesischen Tech-Player, die auf beiden Seiten des amerikanisch-chinesischen Konflikts profitieren. Chinesische Marken brauchen es für TSMC-Kapazitäten, US-Großkonzerne brauchen es zur Kostensenkung.“ ([Mirror Media 2025](https://www.mirrormedia.mg/story/20241231fin001))
+Analysten von Morgan Stanley zeigen sich jedoch optimistisch: „MediaTek ist einer der wenigen taiwanischen Technologieanbieter, die von beiden Seiten, den USA und China, profitieren können. Chinesische Marken benötigen sie für den Zugang zu TSMC-Kapazitäten, US-Großkonzerne benötigen sie zur Kostensenkung.“ ([Mirror Media 2025](https://www.mirrormedia.mg/story/20241231fin001))
 
-## Nicht nur Handys: Der nächste Boxkampf
+## Nicht nur Mobilfunk: Der nächste Kampf
 
-Tsai Ming-kais „One-Generation-Champion“-Theorie zwingt MediaTek, ständig den nächsten Ring zu suchen. Die aktuellen Wetten laufen in drei Richtungen:
+Die „Generationen-Champion“-Theorie von Mingshi zwingt MediaTek dazu, ständig nach der nächsten Arena zu suchen. Aktuell liegen die Einsätze in drei Richtungen:
 
-**KI-Edge-Computing** – Seit dem Helio P90 (2018) baut MediaTek dedizierte KI-Prozesseinheiten (APU) in Chips ein. Jetzt, da On-Device-KI zum Standard wird, zahlt sich diese Frühinvestition aus. Die generative KI-Leistung des Dimensity 9400 am Endgerät ist der Hauptgrund, warum chinesische Marken die Chips streitig machen.
+**KI-Edge-Computing** – Seit dem Helio P90 im Jahr 2018 integriert MediaTek dedizierte KI-Verarbeitungseinheiten (APU) in seine Chips. Da On-Device-KI zum Standard wird, beginnt sich diese frühe Investition auszuzahlen. Die generative KI-Fähigkeit auf dem Gerät des Dimensity 9400 ist ein Hauptgrund für die hohe Nachfrage chinesischer Marken.
 
-**ASIC-Custom-Chips** – Googles TPU, NVIDIAs KI-Beschleuniger: Cloud-Riesen wollen zunehmend eigene Chips designen. MediaTek steigt in ASIC-Design-Services ein – zwar später als Broadcom und Marvell, aber mit besserer Kostenkontrolle und schnellerer Ausführung. Der neueste TrendForce-Bericht deutet an, dass MediaTek vermutlich Googles TPU v7e und v8e Aufträge gewonnen hat ([TrendForce, 03/2026](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/)).
+**ASIC-Kundenspezifische Chips** – Googles TPU, NVIDIAs KI-Beschleuniger; Cloud-Giganten wollen immer öfter eigene Chips entwerfen. MediaTek ist in den ASIC-Designservice eingestiegen und ist zwar später dran als Broadcom oder Marvell, punktet aber mit besserer Kostenkontrolle und schnellerer Umsetzung. Ein aktueller TrendForce-Bericht deutet darauf hin, dass der Markt allgemein davon ausgeht, dass MediaTek Aufträge für Google TPU v7e und v8e erhalten hat ([TrendForce, 2026/03](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/)).
 
-**WiFi und Verbindungstechnologie** – MediaTek ist der weltweit größte WiFi-Chip-Lieferant, von Heimroutern bis zu Enterprise-Geräten. Im WiFi-7-Zeitalter wird dieser Vorteil nur wachsen. Wenn alle Geräte vernetzt sein müssen, sind Konnektivitätschips die Eintrittskarte.
+**WiFi- und Konnektivitätstechnologien** – MediaTek ist der weltweit größte Anbieter von WiFi-Chips, von Heimroutern bis hin zu Enterprise-Geräten. In der Ära von WiFi 7 wird dieser Vorteil weiter wachsen. Wenn jedes Gerät vernetzt sein muss, sind Konnektivitätschips die Eintrittskarte.
 
-Tsai Ming-kai ist dieses Jahr 75 Jahre alt. Er führte MediaTek von CD-ROM zum Handy, von Shanzhai zum Flaggschiff, von China zu Apple. In den letzten sechs Jahren flossen 500 Mrd. NT$ in F&E, er baute ein Forschungsteam mit 81,8 % Master- und Promotionsabsolventen auf. Seine „One-Generation-Champion“-Theorie galt anderen – doch am Ende ist er selbst der Boxer, der sich weigert, ausgeschieden zu werden.
+T.J. Mingshi ist heute 75 Jahre alt. Er hat MediaTek vom CD-ROM-Chip zum Smartphone geführt, vom Nachbau-Markt zu den Flaggschiffen und von China zu Apple. In den letzten sechs Jahren wurden über NT$ 500 Milliarden in die Forschung investiert, um eine Forschungsarmee mit einem Anteil von 81,8 % an Master- und PhD-Absolventen aufzubauen. Seine „Generationen-Champion“-Theorie galt eigentlich anderen – doch letztendlich ist er selbst der Boxer, der sich weigert, ausscheiden zu müssen.
 
-Anfang 2025 betrat Tsai Ming-kai die Kundenliste für TSMCs 2-nm-Prozess. Neben ihm standen Apple, NVIDIA, AMD, Qualcomm. Achtundzwanzig Jahre nach der Ausgliederung aus UMC steht jene kleine Firma nun im selben Ring.
+Anfang 2025 tauchte T.J. Mingshi in der Kundenliste für den 2-Nanometer-Prozess von TSMC auf. Neben ihm stehen Apple, NVIDIA, AMD und Qualcomm. Das kleine Unternehmen, das vor achtundzwanzig Jahren aus UMC ausgegliedert wurde, steht nun auf derselben Arena.
 
 ---
 
 ## Weiterführende Literatur
 
-- [Taiwanesische Unternehmen: TSMC](/de/economy/tsmc)
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Vom RCA-Technologietransfer 1973 bis zur 2-nm-Massenproduktion das gesamte Halbleiter-Ökosystem; MediaTek repräsentiert die IC-Design-Seite
-- [Taiwan Tech Storytelling: 100-Punkte-Chip, 60-Punkte-Mikrofon](/de/technology/taiwan-tech-storytelling) — Warum MediaTek, weltweiter Auslieferungs-Champion, in der Markenerzählung noch immer nicht an Qualcomm heranreicht
+- [Taiwanische Unternehmen: TSMC](/economy/台灣企業：台積電)
+- [Halbleiterindustrie](/technology/半導體產業) — Das gesamte Halbleiter-Ökosystem von der RCA-Technologietransfer 1973 bis zur 2-Nanometer-Massenproduktion; MediaTek ist der Repräsentant auf der Seite des IC-Designs.
+- [Taiwan Tech Stories: Ein 100-Punkte-Chip, ein 60-Punkte-Mikrofon](/technology/台灣科技說故事) — Warum MediaTek trotz weltweiter Marktführerschaft bei den Auslieferungen beim Marken-Narrativ hinter Qualcomm zurückbleibt.
 
 ---
 
-## Quellenverzeichnis
+## Weiterführende Literatur
 
-1. [Mirror Media Titelgeschichte: MediaTek dominiert globale Handy-Chips, Tsai Ming-kai marschiert in USA ein und isst Apfel](https://www.mirrormedia.mg/story/20241231fin001) (01/2025, Eigenrecherche)
-2. [TrendForce: Globale Top-10 IC-Design-Unternehmen Umsatzranking 2024](https://www.trendforce.com/presscenter/news/20250317-12519.html) (03/2025, Eigenrecherche)
-3. [TrendForce: CSPs beschleunigen ASIC-Vorstoß, MediaTek profitiert](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/) (03/2026, Eigenbericht)
-4. [CompaniesMarketCap: MediaTek Revenue](https://companiesmarketcap.com/mediatek/revenue/) (02/2026, Finanzdaten)
-5. [TechNode: MediaTek beats Intel to supply modem chips for Apple Watch](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/) (12/2024, englisch)
-6. [Techsponential: MediaTek Dimensity 9500 Deep Dive](https://www.techsponential.com/reports/dimensity9500) (09/2025, englische Branchenanalyse)
-7. [Alumni-Interview der Nationalen Tsing-Hua-Universität: Tsai Ming-kai](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) (Eigenrecherche akademische Institution)
-8. [TechNews: IC-Design-„One-Generation-Champion“ Tsai Ming-kai](https://technews.tw/?p=629553) (Zweitquelle)
-9. [CTWANT: MediaTek brütet goldene Gans aus](https://www.ctwant.com/article/272154) (07/2023, Zweitquelle)
-10. [PitchBook: MediaTek Company Profile](https://pitchbook.com/profiles/company/53618-14) (02/2026, englisch Finanzprofil)
+1. [Mirror Media Cover Story: MediaTek dominiert den weltweiten Mobilfunkchipmarkt, T.J. Mingshi führt Feldzug in die USA an, um Apple zu erobern](https://www.mirrormedia.mg/story/20241231fin001) (Januar 2025, Exklusivinterview)
+2. [TrendForce: Umsatzranking der zehn weltweit führenden IC-Designfirmen 2024](https://www.trendforce.com/presscenter/news/20250317-12519.html) (März 2025, Branchenstudie)
+3. [TrendForce: CSPs Accelerate ASIC Push, MediaTek Benefits](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/) (März 2026, Branchenbericht)
+4. [CompaniesMarketCap: MediaTek Revenue](https://companiesmarketcap.com/mediatek/revenue/) (Februar 2026, Finanzdaten)
+5. [TechNode: MediaTek beats Intel to supply modem chips for Apple Watch](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/) (Dezember 2024, Englisch)
+6. [Techsponential: MediaTek Dimensity 9500 Deep Dive](https://www.techsponential.com/reports/dimensity9500) (September 2025, Englische Branchenanalyse)
+7. [Tsinghua-Universität Alumni-Interview: T.J. Mingshi](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) (Akademische Quelle)
+8. [TechNews: Der Generationen-Champion der IC-Designwelt T.J. Mingshi](https://technews.tw/?p=629553) (Sekundärquelle)
+9. [CTWANT: MediaTek kultiviert eine Goldgrube](https://www.ctwant.com/article/272154) (Juli 2023, Sekundärquelle)
+10. [PitchBook: MediaTek Company Profile](https://pitchbook.com/profiles/company/53618-14) (Februar 2026, Englische Finanzdaten)
