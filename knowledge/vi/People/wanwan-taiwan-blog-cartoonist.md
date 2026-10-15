@@ -18,14 +18,13 @@ featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
-researchReport: Cuốn Cuốn
-relatedDiary:
-  - 2026-06-29-152120-twmd-rewrite-彎彎
+researchReport: '彎彎'
+relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T01:47:26.720735+00:00'
 ---
 
 # Cái đầu sáng chói trắng và người vẽ nó: Cô nàng Cuốn Cuốn (Hồ Gia Vị) — gương mặt của một thế hệ nhân viên văn phòng
@@ -113,27 +112,28 @@ Cô sau đó trở thành "người blogger Đài Loan đầu tiên quay quảng
 
 Và đưa con đường thương mại này vào thời đại tiếp theo, là sticker LINE. Ngày 24 tháng 12 năm 2013, đêm Giáng sinh, LINE Đài Loan bán sticker trả tiền của Cuốn Cuốn và một họa sĩ khác là cherng (Lạc Lai Thú — báo mạch) với giá nửa giá, cả hai là những tác giả tranh web được đăng tải sớm nhất ở cửa hàng sticker của Đài Loan[^15]. Ngày tháng này có ý nghĩa ký hiệu: khi cảm xúc văn phòng chuyển từ ảnh đại diện MSN, chuyển thành sticker LINE ở trong điện thoại, Cuốn Cuốn một lần nữa đứng tại cửa ngõ. Chỉ là lần này, bên cạnh cô còn một cái tên của thế hệ kế tiếp.
 
-## Từ MSN đến WEBTOON: Cô nàng xuyên suốt mỗi thế hệ nền tảng
+## Từ MSN đến WEBTOON: Cô ấy đã trải qua mọi thế hệ nền tảng
 
-Dẫn những năm hai mươi của Cuốn Cuốn phẳng ra xem, sẽ phát hiện một chuyện rất hiếm gặp ở những tác giả vẽ tranh: cô hầu như đứng tại cửa ngõ của mỗi nền tảng tranh web Đài Loan.
+Nếu trải phẳng hai mươi năm của Uyển Uyển ra để nhìn, sẽ phát hiện một điều ít nhà sáng tạo làm được: cô gần như đã đứng tại cổng vào của hầu như mọi nền tảng đồ họa văn bản của Đài Loan.
 
 ```tw-timeline
-2002 | Ảnh đại diện MSN | Ở khoảng thời gian không có sticker, cái đầu nhỏ thay những nhân viên văn phòng thể hiện quan điểm
-2004 | Blog web vô danh phá kỉ lục | Để theo dõi chín cây kiếm "thử xem" chức năng blog, vô tình trở thành cha đẻ tranh web
-2013 | Sticker LINE cùng cherng | Từ thời kỳ blog bước sang thời đại ứng dụng trò chuyện di động trả tiền
-2020 | Nhân vật từ từ rút lui | "Cuốn Cuốn cũ đã chết rồi", để cho nhân vật cùng lớn lên với bản thân
+2002 | MSN Ảnh đại diện | Trong kỷ nguyên chưa có sticker, Người hói đầu thay dân văn phòng bày tỏ thái độ
+2004 | Vô Danh Tiểu Trạm phá kỷ lục | Để theo dõi Giddens Ko (Cửu Bả Đao) «thử dùng cho vui» blog, bất ngờ thành tổ tiên đồ họa văn bản
+2013 | LINE Sticker cùng cherng ra mắt cùng ngày | Từ kỷ nguyên blog跨 bước vào kỷ nguyên cấp phép trả phí của phần mềm truyền thông di động
+2020 | Nhân vật nhẹ nhàng lui về hậu trường | «Uyển Uyển xưa đã chết», để nhân vật cùng mình trưởng thành
+Nguồn: Blog, xuất bản và báo cáo cấp phép nền tảng được trích dẫn trong bài (cột mốc một trăm triệu lượt xem, nam châm tiện lợi, đợt đầu LINE Sticker)[^6][^7][^10][^15]
 ```
 
-Ban đầu là ảnh đại diện MSN (quanh năm 2002 trước), sau đó là blog của website vô danh và blog cá nhân trường hợp (từ năm 2004), rồi là sự trỗi dậy của trang cá nhân Facebook, thời kỳ trả tiền sticker LINE, rồi sau đó là WEBTOON và Instagram cuốn xoáy dọc, được thúc đẩy bởi thuật toán. Nền tảng LINE WEBTOON gọi cô là "đàn anh lớn của thế giới tranh web"[^16]. Năm 2014, tạp chí Thương Mại Tuần báo viết một bài "Cuốn Cuốn tạm biệt? Không biết là lỗi thời! 10 tác giả tranh web nổi tiếng mới nhất của Mạng"[^17], tiêu đề này dùng "Cuốn Cuốn tạm biệt?" làm câu hỏi, dẫn vào Duncan, tạm biệt chu kỳ chu kỳ, cherng, v.v những tên tuổi đi lên. Nói cách khác, khi truyền thông muốn giới thiệu "thế hệ mới" là ai, họ phải lấy Cuốn Cuốn làm tọa độ gốc. Cô chính là cái "trước".
+Sớm nhất là ảnh đại diện MSN (khoảng năm 2002), tiếp theo là thời hoàng kim blog của Vô Danh Tiểu Trạm và PIXNET (từ 2004), sau đó là sự trỗi dậy của fanpage Facebook, kỷ nguyên LINE Sticker trả phí, và sau đó là WEBTOON cuộn dọc, Instagram do thuật toán điều khiển. Nền tảng LINE WEBTOON gọi cô là «đại tiền bối giới đồ họa văn bản»[^16]. Năm 2014, Thương Mại Tuần Báo làm một bài «Uyển Uyển tạm biệt? Không biết là lỗi thời! 10 nhà minh họa mới nhất mạng bùng nổ»[^17], tiêu đề dùng «Uyển Uyển tạm biệt?» làm câu hỏi, dẫn dắt Duncan, Bái Bái Tiêu Tiêu, cherng và các tân tinh khác. Nói cách khác, khi truyền thông muốn giới thiệu «thế hệ mới» là ai, họ phải trước hết lấy Uyển Uyển làm gốc tọa độ. Cô chính là «trước đó».
 
-![Sticker LINE Cuốn Cuốn "Em yêu công việc của em"](/article-images/people/wanwan-line-sticker.webp)
-_Từ ảnh đại diện MSN đến sticker LINE, cái đầu nhỏ đổi nền tảng, lời nói vẫn là cảnh nói dối tương tự: "Em yêu công việc của em"[^24]. — Fair use: tác phẩm Cuốn Cuốn (sticker LINE)_
+![LINE Sticker của Uyển Uyển «Tôi yêu công việc của tôi»](/article-images/people/wanwan-line-sticker.webp)
+_Từ ảnh đại diện MSN đến LINE Sticker, Người hói đầu đổi nền tảng, câu thoại vẫn là cùng một câu nói ngược: «Tôi yêu công việc của tôi»[^24]. — Fair use: tác phẩm của Uyển Uyển (LINE Sticker)_
 
-Đối với quá trình thay đổi nền tảng xuyên suốt hai mươi năm này, Cuốn Cuốn tự nó đưa ra một phép so sánh mà tôi từng thấy tốt nhất. Cô so sánh sự khác biệt giữa thời kỳ blog và thời đại xã hội: "Trước kia blog giống như là một thư viện, bạn làm xong, sắp xếp sưu tập, tác phẩm của riêng bạn, mọi người sẽ tập tục chui vào xem tác phẩm của bạn. Bây giờ giống như là phát tờ rơi, bạn phải phát từng cái một, rồi còn phải nhìn mọi người có nhận hay không."[^18] Cô sau đó nói: "Vì thế, tôi cảm thấy rằng những tác giả hiện nay mặc dù có rất nhiều cơ hội, nhưng cũng khó khăn hơn."[^18]
+Đối với cuộc biến thiên nền tảng kéo dài hai mươi năm này, Uyển Uyển từng đưa ra một so sánh hay nhất mà tôi từng thấy. Cô so sánh sự khác biệt giữa kỷ nguyên blog và kỷ nguyên mạng xã hội: «Xưa blog giống như một thư viện, bạn xây xong, dọn dẹp sưu tập, tác phẩm của mình, mọi người sẽ như ong bướm đến xem tác phẩm của bạn. Bây giờ giống như phát tờ rơi, bạn phải phát từng tờ một, còn phải xem người ta có nhận không.»[^18] Cô tiếp tục nói: «Vì vậy tôi thấy nhà sáng tạo hiện tại dù cơ hội nhiều, nhưng cũng khổ hơn.»[^18]
 
-Phép so sánh này đúng là vì cô đứng ở cả hai đầu. Cô đã xây dựng cái "thư viện xây xong người tự động đến" đó — đó là thời kỳ vàng của blog, là một trăm triệu lượt xem tự động lăn vào thời đại. Cô cũng sống qua "phải phát tờ rơi từng cái một" của thời kỳ thuật toán. Một người xuyên suốt hai thời đại, mới có thể nói ra những sự đối chiếu như vậy, có ấm áp của cuộc sống.
+So sánh này chuẩn xác vì cô đã đứng ở cả hai đầu. Cô đã xây cái «thư viện xây xong người tự đến» đó — đó là kỷ nguyên vàng của blog, là kỷ nguyên một trăm triệu lượt xem tự cuộn đến cửa. Cô cũng sống sót đến kỷ nguyên «phải phát tờ rơi từng tờ một» của thuật toán. Chỉ người trải qua hai kỷ nguyên mới nói được loại đối chiếu mang nhiệt độ cơ thể này.
 
-> 📝 **Ghi chú của người bao quản:** Cách nói thông thường hay đặt Cuốn Cuốn vào "nước mắt thời kỳ web vô danh", như thể cô là một cái tên bị thời đại loại bỏ, rơi vào quá khứ. Nhưng cái khung này đặt nguyên nhân và kết quả ngược lại. Cô không phải bị một nền tảng nào kẹp chặt, theo nó chìm xuống;恰恰 ngược lại, cô là số ít những người mỗi lần nền tảng thay đổi chính trị thì vẫn còn đứng tại cửa ngõ — MSN, vô danh, LINE, WEBTOON, cái nào cũng không thiếu. Thứ thực sự khiến cho cô và biểu tượng "Cuốn Cuốn" từng từng rách rời, là chính cô này thay đổi giai đoạn: từ nhân viên văn phòng hai mươi tuổi, trở thành một người mẹ. Nền tảng sẽ lỗi thời, nhưng quyết định để cho nhân vật rút lui, là con người chủ động đưa ra.
+> 📝 **Ghi chú người bảo tàng**: Thuyết thường thấy hay đưa Uyển Uyển vào «nước mắt kỷ nguyên Vô Danh Tiểu Trạm»,彷彿 cô là một cái tên bị thời đại loại bỏ, lưu lại ở quá khứ. Nhưng khung tư duy này đã đảo ngược nhân quả. Cô không phải người bị困 ở một nền tảng nào đó,随 nó cùng chìm xuống; ngược lại, cô là những người hiếm hoi mỗi lần nền tảng đổi đời vẫn còn đứng tại cổng — MSN, Vô Danh, LINE, WEBTOON, không một lần vắng mặt. Điều thực sự khiến cô dần tách ra khỏi符号 «Uyển Uyển», chính là bản thân cô đổi giai đoạn: từ dân văn phòng hai mươi tuổi, biến thành một người mẹ. Nền tảng sẽ lỗi thời, nhưng quyết định cho nhân vật lui về hậu trường, là do con người chủ động đặt ra.
 
 ## Nhân vật sẽ không bao giờ già, nhưng người vẽ nó sẽ
 

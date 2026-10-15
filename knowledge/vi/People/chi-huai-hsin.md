@@ -30,13 +30,12 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
-relatedDiary:
-  - 2026-06-27-180207-manual
+relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de83'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:13:07.805005+00:00'
 ---
 
 Khi cả thế giới dùng hàng tỷ đô la tiền sức mạnh tính toán để đuổi theo AI thì có một bài báo đã thay đổi cách máy lập luận, chỉ tốn khoảng năm nghìn đô la.
@@ -102,33 +101,34 @@ Simon đã nêu ra khái niệm "lý trí có giới hạn" (bounded rationality
 > 📝 **Ghi chú của cộng tác viên**
 > Câu chuyện AI phổ thông được kể như thế này: máy trở nên thông minh hơn vì chip chạy nhanh hơn, dữ liệu nhiều hơn, mô hình lớn hơn. Tường thuật này mượt mà, nhưng nó bỏ mất một sợi chỉ khác. Simon từ những năm 1950s đã hỏi "bộ não con người quyết định như thế nào dưới giới hạn"; Card năm 1974 đưa tâm lý học vào nghiên cứu máy tính tại Palo Alto; Chi Huai-hsin thập niên 1990 tiếp đón, đưa lý thuyết foraging thành mô hình con người tìm thông tin trên mạng. Nửa thế kỷ, có một nhóm người luôn đặt câu hỏi cùng nhau: con người suy nghĩ như thế nào vậy? Khi dòng chính bận việc làm máy tính toán nhanh hơn, họ bận làm máy suy nghĩ giống con người hơn. Chuỗi suy luận chính là quả trái từ sợi chỉ ấy.
 
-## Không phải dữ liệu nhiều hơn, mà là giống con người hơn
+## Không phải thêm dữ liệu, mà là giống con người hơn
 
-Năm 2011, anh rời Palo Alto đi Google. Lý do rất thực tế: "Chỉ làm nghiên cứu thôi không đủ, cần phải làm những thứ ứng dụng." Kiểu mô hình của Xerox—"nghiên cứu cơ bản sâu nhưng không chuyển thành sản phẩm"—anh thấy trong mắt.
+Năm 2011, ông rời Palo Alto đến Google. Lý do rất thực tế: 「Chỉ làm nghiên cứu không được, còn phải làm những thứ ứng dụng.」 Mô hình của Xerox PARC loại 「nghiên cứu cơ bản rất sâu nhưng không chuyển thành sản phẩm được」, ông đã thấy rõ ràng.
 
-Tại Google, anh trước tiên phân tích dữ liệu mạng, 2015 tới 2017 dẫn dắt đội xây dựng lại hệ thống gợi ý mạng lưới thần kinh của YouTube, năm 2017 trở thành nhà khoa học chính của Google Brain, dẫn dắt bảy mươi người, 2021 thăng chức thành nhà khoa học xuất chúng, dẫn dắt đến một trăm hai mươi người, sau thành phó tổng giám đốc nghiên cứu của DeepMind.[^6] Phía sau một loạt danh hiệu, thực ra là cùng một gen phương pháp luận được kéo dài: foraging là mô hình "con người kiếm cái gì", hệ thống gợi ý là mô hình "con người muốn xem gì", tới chuỗi suy luận, thành "con người lập luận như thế nào". Từ nhận thức con người, kéo dài tới máy.
+Tại Google, ông trước làm phân tích dữ liệu mạng, năm 2015 đến 2017 dẫn dắt nhóm xây dựng lại hệ thống đề xuất mạng nơ-ron của YouTube, năm 2017 trở thành nhà khoa học trưởng của Google Brain, dẫn dắt nhóm 70 người, năm 2021 thăng làm nhà khoa học傑出 (Distinguished Scientist), dẫn dắt đến 120 người, sau này trở thành Phó tổng giám đốc nghiên cứu của DeepMind[^6]. Phía sau chuỗi danh hiệu đó, thực ra là cùng một gen phương pháp luận đang mở rộng: Tìm kiếm thông tin (Information foraging) là mô hình của 「con người tìm thứ gì」, hệ thống đề xuất là mô hình của 「con người muốn xem gì」, đến chuỗi suy luận (Chain-of-thought), biến thành mô hình của 「con người suy luận như thế nào」. Từ nhận thức con người, một đường đẩy về phía máy móc.
 
-Điểm quanh co của chuỗi suy luận, xảy ra ở chỗ anh không hài lòng với cách làm máy học chính thống hôm đó. "Tại sao phải dùng rất nhiều dữ liệu, máy này mới có thể thực sự học được?" Anh bắt đầu suy nghĩ, "Có thể không thể dùng phương pháp tâm lý học nhận thức để dạy máy học không?"[^7]
+Điểm ngoặt của chuỗi suy luận, xảy ra từ sự không hài lòng của ông đối với học máy (machine learning) chủ lưu lúc bấy giờ. 「Tại sao phải dùng nhiều dữ liệu đến vậy, máy mới thực sự học được?」 Ông bắt đầu nghĩ, 「Có thể dùng phương pháp tâm lý học nhận thức để dạy máy học không?」[^7]
 
-Anh quay trở lại khái niệm đó. "Ý tưởng này thực ra là từ những năm 1960–1970 có một ý tưởng, gọi là lý thuyết schema. Nó có nghĩa cơ bản là, nếu một người có thể dùng một template để giải một vấn đề, có lẽ chúng ta cũng có thể dùng cách này để dạy máy học. Vì vậy chuỗi suy luận thực ra bắt đầu từ ý tưởng này." Người dẫn chương trình hỏi có phải là schema của Piaget không, anh trả lời: "Phải, chính là ý tưởng schema của Piaget. Điều đó thực ra là tôi khi học trung học, đại học, vì tôi giúp mẹ viết luận văn tiến sĩ tâm lý học giáo dục nên đã học được, vì vậy sau này những thứ này từ từ kết nối với nhau."[^8]
+Vậy ông quay lại khái niệm đó. 「Ý tưởng này thực ra xuất phát từ…… một ý tưởng của thập niên 1960, 1970, gọi là lý thuyết đồ thức (schema). Ý nghĩa cơ bản là nói, nếu một người có thể dùng một mẫu (template) để giải một vấn đề, thì cũng có lẽ chúng ta có thể dùng phương pháp này để dạy máy học. Vì vậy chuỗi suy luận thực ra là bắt đầu từ ý tưởng này.」 Người phỏng vấn truy vấn có phải là đồ thức của Piaget, ông trả lời: 「Đúng, chính là ý tưởng đồ thức của Piaget. Cái đó thực ra là tôi khi học trung học, đại học, vì giúp mẹ viết luận án tiến sĩ về tâm lý học giáo dục mà học đến, nên sau này những thứ này từ từ nối lại với nhau.」[^8]
 
-Hạt giống trên bàn, đã mọc thành cây.
+Hạt giống trên bàn viết, đã nảy mầm.
 
-![Bài báo Chuỗi suy luận Figure 1: bên trái hỏi bình thường trả lời sai, bên phải gợi ý chuỗi suy luận viết thêm bước lập luận (có gạch chân xanh) rồi trả lời đúng](/article-images/people/chain-of-thought-figure1.webp)
+![Hình 1 của bài báo Chuỗi suy luận: bên trái gợi ý (prompt) chuẩn trả lời sai, bên phải gợi ý chuỗi suy luận trước viết ra các bước suy luận (đánh dấu nền xanh) rồi đưa ra đáp án đúng](/article-images/people/chain-of-thought-figure1.webp)
 
-_Hình nổi tiếng nhất trong bài báo Chuỗi suy luận: bên trái hỏi thông thường, mô hình tính sai; bên phải chỉ là thêm một đoạn quá trình lập luận trong ví dụ (phần gạch chân xanh), mô hình trả lời đúng. Khác biệt không ở sức mạnh tính toán, mà ở có hay không "viết lên từng bước ý nghĩ". Hình từ Wei et al., 2022._
+_Bài báo Chuỗi suy luận nổi tiếng nhất: bên trái dùng cách hỏi thông thường, mô hình tính sai; bên phải chỉ cần trong ví dụ thêm viết một đoạn quá trình suy luận (đoạn nền xanh), mô hình trả lời đúng. Khác biệt không nằm ở sức mạnh tính toán, mà ở có hay không 「viết ra suy nghĩ từng bước một」. Hình từ Wei et al., 2022._
 
-Và nó gần như không tốn tiền gì. "Bạn biết chúng ta dùng tổng cộng bao nhiêu sức mạnh tính toán không? Khoảng năm nghìn đô la Mỹ thôi. Vì vấn đề đó không phải vấn đề có thể giải quyết bằng sức mạnh tính toán, mà nó là một kiểu tư duy khác. Lúc chúng ta làm nghiên cứu đó, ban đầu cơ bản chẳng có kinh phí, chỉ là chúng ta tự nghĩ ra từ không có gì."[^1]
+Mà nó gần như không tốn kém gì. 「Bạn biết chúng tôi dùng tổng cộng bao nhiêu sức mạnh tính toán không? Chừng 5.000 USD sức mạnh tính toán thôi. Vì vấn đề đó không phải là dùng sức mạnh tính toán có thể giải quyết được, mà là một chế độ tư duy khác. Khi chúng tôi làm nghiên cứu đó lúc đầu, cơ bản là không có kinh phí, là chúng tôi tự nghĩ ra từ hư không.」[^1]
 
 ```tw-versus
-Đường lối AI chính thống | Đường lối Chuỗi suy luận
+Lộ trình AI chủ lưu | Con đường chuỗi suy luận
 Mô hình lớn hơn, tham số nhiều hơn | Không cần huấn luyện lại mô hình
-Cho thêm dữ liệu | Thêm vài dòng quá trình giải quyết trong ví dụ
-Quân vũ khí sức mạnh tính toán hàng trăm triệu đô la | Khoảng năm nghìn đô la
-Theo đuổi quy mô của bạo lực | Vay mượn tâm lý học nhận thức về con người học như thế nào
+Cho ăn thêm dữ liệu | Thêm vài dòng quá trình giải trong ví dụ
+Hàng trăm triệu USD quân 備算力 | Khoảng năm nghìn USD
+Theo đuổi quy mô bằng bạo lực | Mượn tâm lý học nhận thức về cách con người học
+Nguồn: Phỏng vấn VK EP122 của Chi Huai-hsin (bài báo chuỗi suy luận ~5.000 USD sức mạnh tính toán, dạy máy bằng phương pháp tâm lý học nhận thức) và báo cáo kinh nghiệm nghiên cứu của ông[^1][^6][^7]
 ```
 
-Đây là những gì bài viết này muốn nói: chìa khóa giúp AI học cách lập luận, không phải thêm sức mạnh tính toán, mà là giống con người hơn: và cái "giống con người hơn" này, mọc từ một bài báo tâm lý học giáo dục mà một đứa bé Đạm Thủy giúp viết cho mẹ.
+Đây chính là điều bài viết này muốn nói nhất: Chìa khóa để AI học会 suy luận, không phải là thêm sức mạnh tính toán, mà là giống con người hơn: mà份 「giống con người hơn」 ấy, mọc ra từ một luận án tiến sĩ tâm lý học giáo dục mà một đứa trẻ Đàn Thủy giúp mẹ viết.
 
 ## Anh nói với cấp dưới: đừng dùng cách đó, hãy thử schema
 
@@ -167,27 +167,28 @@ _Chi Huai-hsin trên Sidechat E350 nói về kính thông minh, tiêu chuẩn "b
 
 Tại chỗ phỏng vấn, anh từ túi lôi ra một chiếc kính thông minh trang bị Project Astra, nói cây này "có lẽ" là cây đầu tiên tại Đài Loan. Anh nói tới Đài Loan có cơ hội ở chỗ nào. Phần cứng là một mảnh: "Đài Loan ở bán dẫn, đặc biệt là bộ phận sản xuất, vị trí rất khó xê dịch được." Nhưng anh quay chuyên đề, "Nếu Đài Loan có thể tích hợp phần cứng với phần mềm tốt, tận dụng khả năng của mô hình ngôn ngữ lớn, quả thực là một cơ hội rất lớn."[^14]
 
-## Đài Loan biết chip, không biết bộ não này
+## Đài Loan nhận biết chip, không nhận biết chiếc não này
 
-Nói tới đây, không thể tránh một câu hỏi: anh tính là người Đài Loan không?
+Nói đến đây, không thể tránh khỏi một vấn đề: Anh ấy có tính là người Đài Loan không?
 
-Sự thật: anh khoảng 15 tuổi rời Đài Loan, trung học, đại học, cao học toàn học ở Mỹ, toàn bộ sự nghiệp ở Silicon Valley. Anh là một Taiwanese American, một người sinh ở Đài Loan, lớn lên ở Mỹ. Nếu có người nói chiếc nón "người tài Đài Loan" là tiêu thụ một người từng di cư, câu hỏi đó không phải là vô căn cứ.
+Sự thật cho thấy: anh ấy khoảng 15 tuổi đã rời khỏi Đài Loan, trung học, đại học, nghiên cứu sinh toàn bộ ở Mỹ, cả sự nghiệp nghề nghiệp đều tại Thung lũng Silic. Anh ấy là _Taiwanese American_ (người Mỹ gốc Đài Loan), một người sinh ra ở Đài Loan, lớn lên và thành tài ở Mỹ. Nếu ai nói mũ "Ánh sáng Đài Loan" này đang tiêu thụ một người đã từ lâu di cư, thì sự hoài nghi này không phải là vô cớ.
 
-Nhưng bên kia của cân đỏi cũng có những thứ thực. Anh nói chuyện bằng tiếng Trung, chủ động nói mình "sinh ở Đạm Thủy, người Đài Loan có cội", không trốn tránh. Anh liên tục quay về Đài Loan giảng, Sư phạm, Chương Hưng, Dương Minh Giao Đại đều có dấu chân anh. Anh có nhận xét cụ thể về khó khăn chăm sóc dài hạn của Đài Loan, vị thế bán dẫn, hệ sinh thái khởi nghiệp AI, thậm chí chỉ ra Đài Loan đã có khoảng mười lăm nghìn người dùng công cụ dự đoán cấu trúc protein của DeepMind.
+Nhưng bên kia cân bằng cũng có những thứ thực tế. Anh ấy nhận phỏng vấn bằng tiếng Trung, chủ động nói mình "sinh ra ở Đàn Thủy, là con đất Đài Loan thuần túy", không chút tránh né. Anh ấy liên tục quay về Đài Loan diễn giảng — Sư phạm, Trung Hứng, Dương Minh Giao Thông đều lưu lại bóng dáng của anh ấy. Anh ấy có những quan sát cụ thể về khủng hoảng chăm sóc dài hạn của Đài Loan, vị thế bán dẫn, hệ sinh thái khởi nghiệp AI, thậm chí điểm tên rằng Đài Loan đã có khoảng 15.000 người dùng công cụ dự đoán cấu trúc protein của DeepMind.
 
-Cái càng nói rõ được vị trí "vừa ở trong vừa ở ngoài" của anh, là lời anh từng nói với các nhà nghiên cứu Đài Loan: "Phần nghiên cứu này, tôi thực ra quay về Đài Loan bao nhiêu năm, mỗi lần đều nói, nhưng chưa thấy nhà nghiên cứu Đài Loan…… làm gì nhiều về phía này. Không cần rất nhiều chip cũng có thể làm được nghiên cứu."[^15]
+Điều tốt nhất thể hiện vị trí "cả trong lẫn ngoài" của anh ấy là một đoạn nói với các nhà nghiên cứu Đài Loan: "Phần nghiên cứu này, thực tế tôi quay về Đài Loan nhiều năm nay, mỗi lần đều nói, nhưng chưa thấy các nhà nghiên cứu Đài Loan… làm về phía này nhiều. Không cần nhiều chip cũng có thể làm được nghiên cứu."[^15]
 
-Trong câu này có hai danh tính trong kéo co. Anh nói "quay về Đài Loan", là một người tự coi mình thuộc về nơi đây; nhưng "mỗi lần nói nhưng không có ai làm" lại mang theo một khoảng cách outsider—giống như một người rời nhà lâu, quay lại thấy góc nhà một lúc không ai dọn dẹp, vừa lo lắng vừa không thể sửa chữa được. Anh có tính là "người tài Đài Loan" không, bài viết này không thay bạn kết luận. Sự kiện đều có ở đây, bạn tự xét.
+Trong câu nói này có hai danh tính đang kéo co. Anh ấy dùng từ "quay về Đài Loan" nói chuyện, là người tự nhận thuộc về đây; nhưng "mỗi lần đều nói mà không ai làm" lại mang một cảm giác khoảng cách của người ngoài — như một người xa nhà lâu năm, quay về thấy góc nào đó trong nhà luôn không ai dọn dẹp, lo lắng, nhưng lại bất lực. Anh ấy có tính là "Ánh sáng Đài Loan" hay không, bài viết này không thay bạn kết luận. Sự thật đều đặt ở đây, bạn tự phán đoán.
 
-> 📊 **Những con số về anh**
+> 📊 **Anh ấy trong con số**
 
 ```tw-stat
-Khoảng 5000 đô la Mỹ | Sức mạnh tính toán của bài báo Chuỗi suy luận | Đối lập với quân vũ khí hàng trăm triệu đô la của ngành
-Khoảng 114000 lần | Tổng trích dẫn Google Scholar | Trong đó 82% đến từ sau 2021
-13% → 83% | Độ chính xác của OpenAI o1 trên các bài toán Olympiad Toán | o1 rõ ràng xây dựng trên Chuỗi suy luận
+Khoảng 5.000 USD | Sức tính toán dùng cho bài báo Chuỗi suy luận | Đối chiếu với trang bị hàng trăm triệu USD của ngành
+Khoảng 114.000 lần | Tổng trích dẫn Google Scholar | Trong đó 82% sau năm 2021
+13% → 83% | Độ chính xác của OpenAI o1 trên bài thi Olympic Toán | o1 rõ ràng được xây dựng trên nền Chuỗi suy luận
+Nguồn: Phỏng vấn VK EP122 của Kỷ Hoài Tân, thống kê trích dẫn Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Nguồn: Cuộc phỏng vấn VK EP122 của Chi Huai-hsin, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Nguồn: Phỏng vấn VK EP122 của Kỷ Hoài Tân, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
 ## Hiện quá trình lập luận, là minh bạch hơn hay nói hợp lý hơn
 
