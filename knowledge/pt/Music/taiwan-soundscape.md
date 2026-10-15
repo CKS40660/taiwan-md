@@ -1,17 +1,18 @@
 ---
 title: 'Paisagem Sonora de Taiwan'
-description: 'Do "Für Elise" do caminhão de lixo ao canto polifônico de oito vozes do povo Bunun — conheça Taiwan pelos ouvidos'
+description: 'Das melodias dos caminhões de lixo aos tambores dos templos, cada som é um código cultural vivo que compõe a identidade única de Taiwan.'
 date: 2026-03-17
 category: 'Music'
 tags:
   [
     'paisagem sonora',
     'soundscape',
-    'música do caminhão de lixo',
-    'festa de templo',
+    'música de caminhão de lixo',
+    'festivais de templo',
     'música indígena',
-    'beiguan e nanguan',
-    'sons de rua',
+    'Beiguan',
+    'Nanguan',
+    'sons urbanos',
   ]
 subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
@@ -20,255 +21,255 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'bc6743fde'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:e4fcea6f40bc1371'
 sourceBodyHash: 'sha256:f8c06621cad90a0b'
-translatedAt: '2026-07-28T03:07:44+08:00'
+translatedAt: '2026-10-15T15:59:52+08:00'
 ---
 
 # Paisagem Sonora de Taiwan
 
-## Visão geral em 30 segundos
+## Visão Geral em 30 Segundos
 
-Feche os olhos: você consegue ouvir Taiwan? Às seis e meia da tarde, a melodia de _Für Elise_ chega devagar com o caminhão de lixo, e a vizinhança inteira sai à rua com seus sacos de lixo. À noite, no adro do templo, tambores e gongos do beiguan retumbam, enquanto as luzes de néon dos carros alegóricos elétricos piscam diante das divindades. Nas montanhas, o povo Bunun usa seu canto de oito vozes para pedir aos deuses do céu uma colheita farta de painço: uma das polifonias mais antigas conhecidas da humanidade.
+Feche os olhos. Você consegue ouvir Taiwan? Às seis e meia da tarde, a melodia de "A Maiden's Prayer" aproxima-se lentamente com o caminhão de lixo, e as pessoas nas ruelas saem em fila com seus sacos de resíduos. No meio da noite, na entrada de um templo, os tambores e gongos do Beiguan (北管) ecoam intensamente sob as luzes de neon dos carros alegóricos eletrônicos. Nas montanhas, o povo Bunun utiliza o _Pasibutbut_ para pedir uma colheita farta de milhete aos deuses: uma das formas de canto polifônico mais antigas conhecidas pela humanidade.
 
-A paisagem sonora de Taiwan não é ruído de fundo — é um código cultural vivo. Cada som carrega história, memória e identidade.
+Os sons de Taiwan não são apenas ruído de fundo; são um código cultural vivo. Cada som carrega história, memória e identidade.
 
-**Sons-chave:**
+**Sons Chave:**
 
-- 🚛 Música do caminhão de lixo: ritual sonoro urbano único no mundo
-- 🏯 Música de festa de templo: beiguan, nanguan, tambores dos baijiajiang
-- 🏔️ Polifonia indígena: Pasibutbut do povo Bunun (quatro vozes geram oito harmônicos)
-- 🛵 Mar de motos: sinfonia de motores na maior densidade de motocicletas do mundo
-- 🌙 Gritos do mercado noturno: teatro sonoro da economia popular
+- 🚛 **Música do caminhão de lixo:** Um ritual urbano sonoro único no mundo.
+- 🏯 **Música de festivais de templo:** Beiguan (北管), Nanguan (南管) e as baterias de tambores dos _Ba Jia Jiang_.
+- 🏔️ **Polifonia indígena:** O _Pasibutbut_ do povo Bunun (que gera oito harmônicos a partir de quatro vozes).
+- 🛵 **Mar de motocicletas:** Uma sinfonia de motores com uma das maiores densidades de motocicletas do mundo.
+- 🌙 **Gritos dos mercados noturnos:** O teatro sonoro da economia popular.
 
-## Por que importa
+## Por que isso é importante?
 
-Toda cidade tem sua impressão digital sonora. Nova York tem o chiado do metrô e as buzinas dos táxis; Tóquio tem as melodias de partida das plataformas e o sino das konbini. Mas a paisagem sonora de Taiwan tem uma singularidade: **ela contém simultaneamente o canto ancestral austronésio, os gongos dos templos dos imigrantes han, a tradição de canções escolares herdada do período japonês e os sons criativos da vida urbana moderna**.
+Cada cidade tem sua própria impressão digital sonora. Nova York tem o guincho do metrô e as buzinas dos táxis; Tóquio tem as melodias de partida nas plataformas e os sinos das lojas de conveniência. Mas a paisagem sonora de Taiwan possui uma característica única: **ela engloba simultaneamente os cantos ancestrais dos povos austronésios, os tambores e gongos dos imigrantes Han, as tradições de hinos escolares do período colonial japonês e os sons criativos da vida urbana moderna**.
 
-Não é uma camada de som — são quatrocentos anos de arqueologia sonora.
+Isso não é apenas uma camada de som; é uma arqueologia sonora de quatrocentos anos.
 
-Entender a paisagem sonora de Taiwan é entrar na sua história pelos ouvidos. E esses sons estão desaparecendo: alguns engolidos pela urbanização, outros perdidos pela fratura cultural. Registrá-los não é apenas preservação cultural — é resgate.
-
----
-
-## Os códigos sonoros do cotidiano urbano
-
-### Música do caminhão de lixo: a forma mais civilizada do mundo de recolher lixo
-
-**Exclusividade global: recolher lixo ao som de música clássica**
-
-As duas peças clássicas tocadas pelos caminhões de lixo de Taiwan fazem parte do DNA de todo taiwanês:
-
-1. **《Für Elise》** — a bagatela para piano mais conhecida de Beethoven, usada principalmente no norte e centro de Taiwan
-2. **《A Donzela em Oração》** (_A Maiden's Prayer_) — peça de salão para piano de 1856 da compositora polonesa Tekla Bądarzewska, predominante no sul de Taiwan
-
-O curioso é que o lugar onde você mora em Taiwan determina qual melodia você ouve: pode ser o único caso no mundo em que música clássica delimita identidade regional. Quem vive no norte acha estranho ouvir _A Donzela em Oração_; quem vive no sul estranha _Für Elise_.
-
-Desde que Taipé implementou a política "lixo não toca o chão" em 1997, a música dos caminhões tornou-se memória coletiva nacional. Não é só recolher lixo: é um micro-ritual comunitário diário — vizinhos se encontram na esquina do beco, trocam novidades, e de quebra jogam o lixo.
-
-**Por que música clássica?** Nos anos 1980, a Administração de Proteção Ambiental escolheu as peças considerando que a música devia ser "fácil de reconhecer, não causar desconforto, propagar-se longe". Peças clássicas para piano encaixavam-se perfeitamente: melodia simples, frequência com boa penetração, e sem problemas de direitos autorais.
-
-**Repercussão internacional:** Provavelmente é a cena urbana taiwanesa mais filmada por YouTubers estrangeiros. "Vocês usam música clássica para recolher lixo?" — Sim, e todo o país acha perfeitamente normal. [^1]
-
-### Mar de motos: sinfonia de 14 milhões de motores
-
-O número de motocicletas registradas em Taiwan supera 14 milhões, a maior densidade do mundo. No instante em que o sinal fica verde, dezenas de motos arrancam ao mesmo tempo — esse ronco coletivo é a trilha sonora diária de quem se desloca em Taiwan.
-
-Esse som está mudando: a popularização de motos elétricas (Gogoro etc.) tornou as cidades um pouco mais silenciosas, mas aquele "zum——" coletivo da partida simultânea pode virar memória sonora nostálgica dentro de dez anos.
-
-### Carros de som eleitorais: a democracia em decibéis
-
-A cada eleição, carros com alto-falantes gigantes percorrem ruas e becos, repetindo em volume máximo o nome e o número dos candidatos. Provavelmente é a democracia mais barulhenta do mundo.
-
-Os taiwaneses têm uma relação de amor e ódio com isso: ensurdecedor, mas é a manifestação mais direta da liberdade de expressão — na era da lei marcial, colar um cartaz já podia levar à prisão.
+Compreender a paisagem sonora de Taiwan é percorrer sua história através dos ouvidos. E esses sons estão desaparecendo: alguns são engolidos pela urbanização, outros se perdem devido à ruptura cultural. Registrá-los não é apenas preservação cultural; é um resgate.
 
 ---
 
-## Sons do sagrado: festas de templo e religião
+## Códigos Sonoros do Cotidiano Urbano
 
-### Beiguan: o rock'n'roll do adro do templo
+### Música do caminhão de lixo: a forma mais civilizada de descartar o lixo no mundo
 
-O beiguan é a música tradicional mais comum nas festas de templo de Taiwan: volume alto, ritmo violento, tensão emocional extrema. Se rock'n'roll se define como "expressar a emoção mais forte no volume mais alto", o beiguan é o rock'n'roll mais antigo de Taiwan. Inclui música instrumental (paizi, xianpu) e música vocal (ópera, xiqu), cujas letras usam um "mandarim correto" (zhengyin guanhua) — não é taiwanês, mas um sistema de pronúncia oficial com arcaísmos.
+**Exclusividade global: coleta de lixo com música clássica**
 
-**Contexto histórico:** O beiguan entrou em Taiwan por volta dos reinados Qianlong e Jiaqing da dinastia Qing, nomeado em oposição ao nanguan vindo de Quanzhou. Curiosamente, sua origem vocal remonta ao luan tan de Pujiang, Zhejiang, e ao xiqin de Guangdong, não diretamente a Fujian: hoje, em Fujian, já não se encontra gênero teatral idêntico ao beiguan. Em Taiwan, o beiguan desenvolveu duas grandes escolas, "Xipi" e "Fulu" (correspondentes aos "Xuan" e "Yuan" das associações de amadores), cuja rivalidade competitiva (pan'guan) às vezes degenerava em conflitos armados: em Taiwan, disputa de gosto musical pode sangrar.
+As duas peças clássicas tocadas pelos caminhões de lixo em Taiwan são memórias gravadas no DNA de cada taiwanês:
 
-**Situação atual:** O beiguan enfrenta grave crise de transmissão. Jovens acham barulhento, "cafona", e o número de aprendizes despencou. Irônico é que etnomusicólogos internacionais admiram seu complexo sistema de modos rítmicos (banqiang) e estrutura de melodias-tipo (qupai): tem a mesma raiz do xipi-erhuang da ópera de Pequim, sendo apelidado de "primo campestre da ópera de Pequim".
+1. **"Für Elise"** (致愛麗絲) — A peça para piano mais conhecida de Beethoven; é a principal utilizada nos caminhões do norte e centro de Taiwan.
+2. **"A Maiden's Prayer"** (少女的祈禱) — Uma peça de salão para piano da compositora polonesa Tekla Bądarzewska, de 1856; é a mais comum no sul de Taiwan.
 
-### Nanguan (xianguan/nanyin): a mais antiga música de câmara do Oriente
+Curiosamente, onde você mora em Taiwan determina qual música você ouvirá: este pode ser o único caso no mundo onde a música clássica delimita uma identidade regional. Um nortista achará estranho ouvir "A Maiden's Prayer", e um sulista ficará confuso ao ouvir "Für Elise".
 
-Em contraste violento com o beiguan, o nanguan é delicado, elegante, de andamento lento. Originalmente chamado "xianguan", originou-se em Quanzhou e chegou a Taiwan com imigrantes minnan. A formação típica de "shangsi guan" é: pipa abraçada horizontalmente, sanxian, dongxiao (preservando a especificação Tang de 1 chi 8 cun), erxian, paiban. Em 2009, entrou na Lista Representativa do Patrimônio Cultural Imaterial da Humanidade da UNESCO sob o nome de "Nanyin". [^5]
+Desde que a cidade de Taipé implementou a política de "lixo não depositado no chão" em 1997, a música dos caminhões tornou-se uma memória coletiva. Não se trata apenas de coleta: é um micro-ritual comunitário diário, onde vizinhos se encontram na esquina, trocam fofocas e aproveitam para descartar o lixo.
 
-**Características sonoras:** A linha melódica do nanguan é extremamente longa — uma frase pode estender-se por minutos. Na execução, "si mo jiang lai" — as cordas (dedilhado da pipa) iniciam, o bambu (dongxiao) dissolve-se em seguida, as vozes se apoiam mutuamente mas permanecem distinguíveis. É música que exige parar para ouvir: na era da atenção escassa, a primeira lição do nanguan é "desacelerar".
+**Por que usar música clássica?** Quando o Departamento de Proteção Ambiental selecionou as músicas na década de 1980, considerou que a música precisava ser "fácil de identificar, não desconfortável e com longo alcance de propagação". As peças de piano clássico atendem perfeitamente: melodias simples, frequências penetrantes e sem problemas de direitos autorais.
 
-**Raízes culturais:** O nanguan preserva vestígios desde as dinastias Han e Wei; sua formação de conjunto remonta às canções xianghe da Han ("sedas e bambus harmonizam-se mais, quem segura o ritmo canta"), sua organologia e estrutura formal ligam-se às daqu da Tang e Song — estudiosos chamam-no de "fóssil musical vivo", com a reputação de "som puro de mil anos". Em Taiwan, Lugang é o principal reduto do nanguan.
+**Percepção internacional:** Este é um dos fenômenos urbanos mais filmados por YouTubers estrangeiros em Taiwan. "Vocês usam música clássica para coletar o lixo?" — Sim, e todos no país acham perfeitamente normal. [^1]
 
-**Singularidade:** A pipa do nanguan mantém até hoje a técnica de abraçar horizontalmente da época Tang, enquanto em outros gêneros a pipa passou a ser tocada verticalmente: só essa postura já é uma cápsula do tempo de mil anos.
+### Mar de motocicletas: uma sinfonia de 14 milhões de motores
 
-### Carros alegóricos elétricos: colisão entre sagrado e profano
+Taiwan possui mais de 14 milhões de motocicletas registradas, a maior densidade do mundo. O som dos motores de dezenas de motos arrancando simultaneamente quando o semáforo fica verde é a trilha sonora cotidiana de todo trabalhador taiwanês.
 
-Esta é a paisagem sonora mais realista-mágica de Taiwan: em carros alegóricos de funerais ou festas de templo, dançarinas de pole dance se apresentam sob luzes de néon, enquanto sintetizadores tocam uma mistura de canções em taiwanês, EDM e sutras budistas.
+Esse som está mudando: a popularização das motocicletas elétricas (como as da Gogoro) tornou as cidades um pouco mais silenciosas, mas aquele "vrummm" coletivo de partida pode se tornar uma memória nostálgica nos próximos dez anos.
 
-**Lógica cultural:** Parece absurdo, mas há uma lógica folclórica séria por trás: o burburinho é para os deuses verem, e é a última festa para o falecido. "Mandá-lo embora com pompa."
+### Carros de campanha eleitoral: os decibéis da democracia
 
-**Atenção internacional:** Carros alegóricos elétricos já foram tema de reportagens da BBC, Vice e outros meios internacionais, vistos como um dos espetáculos audiovisuais mais singulares da cultura popular taiwanesa.
+Em cada temporada de eleições, carros de propaganda equipados com megafones gigantes percorrem as ruas, repetindo nomes e números de candidatos no volume máximo. Esta é, provavelmente, a prática democrática mais barulhenta do mundo.
 
-### Camadas sonoras de sutras e rituais
-
-As matinas e vésperas dos templos budistas, a recitação de textos nos rituais taoistas, os tambores e gongos da procissão de Mazu: os sons religiosos são o estrato mais profundo da paisagem sonora de Taiwan. Na cidade, você pode ouvir simultaneamente o sino da igreja, o mokugyo do templo, o adhan da mesquita: é o pluralismo religioso de Taiwan manifestado pelo som.
-
----
-
-## Sons dos povos originários: a memória da terra
-
-### Pasibutbut do povo Bunun (canção de oração pela colheita de painço): o mal-entendido dos "oito harmônicos"
-
-O Pasibutbut do povo Bunun é frequentemente chamado de "canto de oito vozes", mas esse nome é um belo equívoco: na verdade é um **canto a quatro vozes** (mabungbung, maidadu, mandaza, mahosngas), que, através do reforço da ressonância torácica e da técnica de canto gutural, produz **harmônicos naturais** ricos, aparecendo como oito vozes no espectrógrafo. Não são oito pessoas cantando oito vozes — são quatro vozes cantando um milagre da física.
-
-Em 1952, o musicólogo japonês Takashi Kurosawa enviou a gravação desta canção à UNESCO, chocando a etnomusicologia internacional. [^2]
-
-**Características sonoras:** Seis a doze homens (número par) de mãos dadas formam um círculo, usando as vogais "o", "e", "a", "i" do grave para o agudo. Sem maestro, sem partitura: confiam unicamente na escuta mútua, alcançando a harmonia na fusão das vozes. Quando os harmônicos se sobrepõem no ponto certo, você ouve mais vozes do que cantores: é um dos fenômenos acústicos mais misteriosos que a voz humana pode produzir.
-
-**Significado cultural:** O Pasibutbut é ritual de comunicação com o deus celeste Dihanin, cantado apenas na estação da colheita de painço, entre janeiro e março. Quanto mais harmonioso o canto, mais contente o deus, e mais fartos serão os grãos de painço naquele ano. Atualmente, só se transmite nos grupos Lunshe e Junshe do povo Bunun — nem todas as aldeias Bunun o cantam.
-
-**Lenda de origem:** Caçadores ouviram a ressonância de troncos ocos com abelhas selvagens, o eco de cachoeiras, o som do vento em florestas de pinheiros e bambus, interpretaram como bênção dos deuses e imitando criaram a canção. Diferentes aldeias têm versões diferentes da origem, mas todas apontam para a mesma coisa: esta canção vem dos sons da natureza.
-
-### Povo Amis: canto e dança do festival da colheita
-
-O Ilisin (festival da colheita) do povo Amis é uma das maiores celebrações indígenas de Taiwan. Nos dias consecutivos de canto e dança, o "canto responsorial" (antiphonal singing) entre o cantor-líder e o grupo revela a relação dinâmica entre coletivo e indivíduo.
-
-**Características sonoras:** O líder improvisa, o grupo responde. A letra pode ser improvisada, a melodia relativamente fixa. Esse modo de cantar também é comum na música africana: a semelhança entre a música austronésia e a africana permanece tema de pesquisa etnomusicológica.
-
-### Povos Paiwan e Rukai: flauta nasal de dois tubos
-
-A flauta nasal de dois tubos (lalingedan) dos povos Paiwan e Rukai é um dos raríssimos instrumentos do mundo tocados com o nariz. Um tubo toca a melodia, o outro sustenta um bordão (drone), criando efeito sonoro único.
-
-**Contexto cultural:** Na tradição Paiwan, a flauta nasal era instrumento exclusivo da nobreza, ligada ao sistema de classes. Usada em casamentos, funerais e ocasiões importantes, a respiração do executante é vista como extensão da alma.
-
-### Povo Tao (Yami): canções de bater palmas e o oceano
-
-Os Tao de Lanyu (Ilha das Orquídeas) são o único povo oceânico de Taiwan; sua música é indissociável do mar. Canções de bater palmas na estação do peixe-voador, canções de trabalho na construção de canoas — todas dialogam com o ritmo do oceano.
-
-O escritor Syaman Rapongan diz: "A memória das ondas é mais longa que a dos humanos." A música Tao é a versão sonora dessa frase.
+Os taiwaneses têm uma relação de amor e ódio com isso: é ensurdecedor, mas também é a manifestação mais direta da liberdade de expressão. Durante o período do regime de lei marcial, até colar um cartaz poderia resultar em prisão.
 
 ---
 
-## Sons da natureza
+## Sons Sagrados: Templos e Religião
 
-### Trovão da primavera e chuvas de ameixa
+### Beiguan (北管): o rock dos templos
 
-O clima de Taiwan tem marcadores sonoros sazonais nítidos: o primeiro trovão da primavera, a chuva violenta da estação das chuvas de ameixa batendo em telhados de zinco, aqueles segundos de silêncio sinistro antes da trovoada vespertina de verão. Quem já morou sob telhado de zinco sabe: a chuva pode ser tão alta que você não ouve o que o vizinho diz.
+O Beiguan é a música tradicional mais comum nos festivais de templos em Taiwan; possui volume alto, ritmo intenso e grande tensão emocional. Se definirmos o rock como "expressar a emoção mais forte com o maior volume possível", então o Beiguan é o rock mais antigo de Taiwan. O Beiguan inclui instrumentos (como _paizi_ e _xianpu_) e música vocal (ópera e canções líricas), utilizando um sistema de fala que soa como um "mandarim formal" — não é o dialeto taiwanês, mas um sistema de mandarim com ressonâncias antigas.
 
-### Canto das cigarras
+**Contexto histórico:** O Beiguan chegou a Taiwan por volta dos reinados de Qianlong e Jiaqing da Dinastia Qing, recebendo seu nome em contraste com o Nanguan (南管), vindo de Quanzhou. Curiosamente, suas raízes vocais remontam ao _Luan Tan_ de Pujiang, Zhejiang, e ao teatro _Qinxi_ de Guangdong, e não diretamente de Fujian: hoje, não se encontra em Fujian gêneros teatrais idênticos ao Beiguan. Em Taiwan, o Beiguan desenvolveu dois grandes estilos, "Xipi" e "Fulu", cujas competições entre escolas (_pin guan_) às vezes podiam evoluir para confrontos físicos: disputas de gosto musical em Taiwan podem ser sangrentas.
 
-Taiwan tem mais de 60 espécies de cigarras; o canto de verão pode atingir 90 decibéis — equivalente a um aspirador de pó. Diferentes altitudes abrigam espécies diferentes, formando um espectro sonoro vertical: a _Graptopsaltria nigrofuscata_ da planície, a _Meimuna opalifera_ de média altitude, a _Ezoana_ de alta altitude, cada qual com timbre e ritmo próprios.
+**Situação atual:** O Beiguan enfrenta uma grave crise de sucessão. Os jovens o consideram barulhento ou "cafona", e o número de aprendizes cai drasticamente. Ironicamente, etnomusicólogos internacionais admiram a complexa estrutura de seus sistemas melódicos: ele compartilha origens com o _Xipi_ e _Erhuang_ da Ópera de Pequim, sendo apelidado de "o primo do interior da Ópera de Pequim".
 
-### Sons de espécies endêmicas
+### Nanguan (南管): a música de câmara mais antiga do Oriente
 
-O canto do _Garrulax taewanus_ (tordo-de-Taiwan) é considerado um dos mais belos cantos de ave da ilha. O grito do _Muntiacus reevesi_ (muntjac de Reeves),似狗吠, costuma assustar caminhantes. E nas noites de montanha, o canto de corujas e o coaxar de rãs tecem a paisagem noturna única das florestas taiwanesas.
+Em contraste direto com a violência do Beiguan, o Nanguan é uma música delicada, elegante e de ritmo lento. Originalmente chamado de _Xian Guan_, originou-se em Quanzhou e chegou a Taiwan com os imigrantes de Minnan. A formação típica do "Shangsi Guan" inclui: _pipa_ (tocada horizontalmente), _sanxian_, _dongxiao_ (preservando as especificações da dinastia Tang), _erxian_ e _paiban_. Em 2009, foi incluído na Lista do Patrimônio Cultural Imaterial da Humanidade pela UNESCO sob o nome de "Nanyin". [^5]
 
----
+**Características sonoras:** As linhas melódicas do Nanguan são extremamente longas; uma frase musical pode durar vários minutos. Durante a execução, ocorre o efeito _si mo jiang lai_ — iniciado pelos instrumentos de corda (_pipa_), seguido pela integração dos sons de bambu (_dongxiao_), onde cada parte se complementa sem perder sua individualidade. É uma música que exige quietude para ser ouvida: em uma era de falta de atenção, a primeira lição do Nanguan é "desacelerar".
 
-## Sons que estão desaparecendo
+**Raízes culturais:** O Nanguan preserva o estilo das dinastias Han e Wei. Sua formação de conjunto remonta às canções de harmonia da Dinastia Han, e sua estrutura está intimamente ligada às grandes suítes das dinastias Tang e Song, sendo chamado por estudiosos de "fóssil musical vivo". Em Taiwan, Lukang é o principal reduto do Nanguan.
 
-### A buzina do afiador de facas
+**Singularidade:** A _pipa_ do Nanguan mantém até hoje a técnica de execução horizontal da Dinastia Tang, enquanto as pipas de outros gêneros já migraram para a execução vertical: apenas essa postura é uma cápsula do tempo de mil anos.
 
-O afiador pedalando sua bicicleta, tocando sua buzina característica e gritando "Afi——a——tesoura——" pelas ruas era um dos sons mais familiares dos becos de Taiwan. Com a modernização, esse som beira a extinção.
+### Carros Alegóricos Eletrônicos: o choque entre o sagrado e o profano
 
-### Os anúncios gravados das ferragens
+Este é o cenário sonoro mais surrealista de Taiwan: em carros alegóricos de funerais ou festivais de templos, dançarinas de pole dance atuam sob luzes de neon, enquanto sintetizadores tocam uma mistura de canções em taiwanês, música eletrônica e sutras budistas.
 
-Os anúncios de liquidação gravados em taiwanês ("Vem, vem, vem, tudo com desconto...") eram o ruído de fundo das ruas de cidades e vilas. Hoje só se ouvem em alguns mercados tradicionais e no interior.
+**Lógica cultural:** Pode parecer absurdo, mas há uma lógica folclórica séria por trás: a "agitação" (_renao_) é para os deuses verem, e também é a última festa para o falecido. "Para enviá-lo embora, deve ser com glória."
 
-### Os sons da era do rádio
+**Atenção internacional:** Os carros alegóricos eletrônicos já foram objeto de reportagens da BBC e Vice, sendo vistos como um dos espetáculos visuais e auditivos mais únicos da cultura popular de Taiwan.
 
-Antes da TV se popularizar, o rádio era o centro sonoro das casas taiwanesas. Radioteatros em taiwanês, noticiários de ópera gezaixi, dublagens de teatro de marionetes budaixi — esses sons moldaram a memória auditiva de toda uma geração, sobrevivendo hoje apenas na lembrança dos idosos.
+### Camadas de Canto e Rituais
 
-### As tonalidades do taiwanês estão se perdendo
-
-O taiwanês tem oito tons (sete em uso efetivo), sendo uma das línguas de uso diário com sistema tonal mais rico do mundo. Mas com a expansão da educação em mandarim, a competência em taiwanês das gerações jovens caiu vertiginosamente. Quando uma língua morre, não morre só o vocabulário — morre a textura sonora e a musicalidade próprias dessa língua — a entoação do taiwanês é em si uma melodia.
+As orações matinais e vespertinas em templos budistas, o canto de sutras em rituais taoístas e as baterias de tambores nas procissões de Mazu: os sons religiosos formam a camada mais profunda da paisagem sonora de Taiwan. Nas cidades, você pode ouvir simultaneamente o sino de uma igreja, o _muyu_ (peixe de madeira) de um templo e o chamado para a oração de uma mesquita: esta é a diversidade religiosa de Taiwan manifestada pelo som.
 
 ---
 
-## 🚇 Projeto Paisagem Sonora do Metrô
+## O Som dos Povos Indígenas: A Memória da Terra
 
-Em 2018, a Dahe Music realizou uma gravação de campo única ao longo das linhas do metrô de Taipé — o "Projeto Paisagem Sonora do Metrô". Percorreram a rede metroviária gravando, nas proximidades de cada estação, os sons de vida mais representativos. Esses fragmentos de 8 segundos são como um mapa de Taipé percorrido com os ouvidos.
+### Pasibutbut do povo Bunun (Canto de Oração pela Colheita): o "Oito-Parte" mal compreendido
 
-> **📝 Nota do curador:** Cada estação de metrô tem seu DNA sonoro. Os cânticos e blocos de divinação do Templo Xingtian, o zumbido das máquinas de tatuagem em Ximending, os gritos de compras de ano novo na Rua Dihua — não são "ruído", são a prova de que a cidade está viva.
+O _Pasibutbut_ do povo Bunun é frequentemente chamado de "canto de oito partes", mas este nome é, na verdade, um belo equívoco: trata-se de um **canto de quatro vozes** (_mabungbung_, _maidadu_, _mandaza_, _mahosngas_) que, através do reforço da ressonância torácica e técnicas vocais guturais, gera ricos **harmônicos naturais**, criando o efeito de oito partes no espectrograma. Não são oito pessoas cantando oito vozes, mas quatro vozes realizando um milagre da física.
 
-**🎧 Experimente: Paisagem Sonora do Metrô de Taipé (março de 2018, gravado pela Dahe Music)**
+Em 1952, o musicólogo japonês Takao Kurosawa submeteu a gravação desta canção à UNESCO, chocando a comunidade internacional de etnomusicologia. [^2]
 
-| Estação / Local               | Som                             | Experimente                                                                                                                                          |
-| ----------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Templo Xingtian               | Oração (blocos, sutras)         | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio>                    |
-| Ximending                     | Estúdio de tatuagem             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio>                    |
-| Rua Dihua                     | Compras de ano novo             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio>       |
-| Taipei 101                    | Contagem regressiva de ano novo | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio>              |
-| Memorial Chiang Kai-shek      | Pombos voando                   | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio>           |
-| Memorial Chiang Kai-shek      | Turistas fotografando           | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-camera-shutters.mp3" type="audio/mpeg"></audio>          |
-| Parque Florestal de Da'an     | Observando patos                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio>                     |
-| Parque Dahu                   | Som da água do lago             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dahu-park-lake-water.mp3" type="audio/mpeg"></audio>                       |
-| Xiaobitan                     | Observando pássaros             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xiaobitan-birdsong.mp3" type="audio/mpeg"></audio>                         |
-| Tamsui                        | Comprando lulas                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio>                        |
-| Miramar                       | Vendo filme                     | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-miramar-cinema.mp3" type="audio/mpeg"></audio>                             |
-| Livraria Sanmin               | Virando páginas                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio>             |
-| Correios de Beimen            | Enviando carta                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-beimen-post-office-mailing.mp3" type="audio/mpeg"></audio>                 |
-| Estação Zhongshan             | Parafusadeira elétrica          | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-station-power-drill.mp3" type="audio/mpeg"></audio>              |
-| Estação Zhongshan Junior High | Chamando "relatório"            | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-junior-high-station-announcement.mp3" type="audio/mpeg"></audio> |
+**Características sonoras:** Seis a doze homens (sempre um número par) formam um círculo e cantam as vogais "o", "e", "a", "i", subindo gradualmente do tom grave. Sem maestro, sem partitura: baseiam-se puramente na escuta mútua para alcançar a harmonia. Quando os harmônicos se sobrepõem corretamente, ouve-se um número de vozes que transcende o número de cantores: é um dos fenômenos acústicos mais misteriosos da voz humana.
 
----
+**Significado cultural:** O _Pasibutbut_ é um ritual de comunicação com o deus Dihanin, cantado apenas durante a temporada de colheita do milhete (janeiro a março). Quanto mais harmonioso for o canto, mais feliz o deus ficará e mais farta será a colheita. Atualmente, ele é praticado apenas nos grupos Lalan e Qingshui do povo Bunun.
 
-## Experimentos sonoros contemporâneos
+**Lenda de origem:** Os membros da tribo ouviram a ressonância de troncos ocos com abelhas selvagens, o eco de cachoeiras ou o vento nas florestas de pinheiros e acreditaram ser uma bênção divina, criando a canção por imitação.
 
-### Arte sonora
+### Amis: Dança e Canto do Festival da Colheita
 
-Taiwan tem uma cena ativa de arte sonora (Sound Art). O C-LAB (Taiwan Contemporary Culture Lab), plataformas como "Zai Di Shi Yan" e "Shi Sheng Ji" impulsionam continuamente a criação e exibição de arte sonora. [^3] Artistas como Wang Fu-jui, Yao Chung-han, Chang Yung-ta transformam os sons ambientais de Taiwan em linguagem artística contemporânea.
+O _Ilisin_ (Festival da Colheita) dos Amis é uma das celebrações mais grandiosas dos povos indígenas de Taiwan. Nos dias de dança e canto, o "canto antifonal" entre o líder e o grupo demonstra a dinâmica entre o coletivo e o indivíduo.
 
-### Gravação de campo
+**Características sonoras:** O líder improvisa enquanto o grupo responde. As letras podem ser improvisadas, mas a melodia é relativamente fixa. Este estilo de canto também é comum na música africana: a semelhança entre os povos austronésios e as músicas africanas continua sendo um tema de pesquisa etnomusicológica.
 
-Cada vez mais trabalhadores do som se dedicam à gravação de campo (Field Recording) em Taiwan, registrando sons que estão desaparecendo. Das florestas de alta montanha às zonas de maré do litoral, dos mercados antigos às zonas industriais — essas gravações não são apenas arquivos, são ativos culturais auditivos. [^4]
+### Paiwan e Rukai: Flautas Nasais de Cano Duplo
 
-### Instalações sonoras interativas
+A flauta nasal de cano duplo (_lalingedan_) dos povos Paiwan e Rukai é um dos raríssimos instrumentos do mundo tocados pelo nariz. Um tubo toca a melodia enquanto o outro produz um tom contínuo (_drone_), criando um efeito sonoro único.
 
-Artistas de nova mídia de Taiwan destacam-se em instalações sonoras interativas. Combinando sensores, computação em tempo real e áudio espacial, transformam o movimento corporal do público em experiência sonora — tornando "ouvir" uma participação de corpo inteiro.
+**Contexto cultural:** A flauta nasal era tradicionalmente um instrumento exclusivo da nobreza Paiwan, intimamente ligado ao sistema de castas. É usada em casamentos e funerais; o sopro do músico é visto como uma extensão da alma.
 
-### Projetos de preservação da paisagem sonora
+### Tao: Canto de Palmas e o Oceano
 
-A Associação de Paisagem Sonora de Taiwan e o Ministério da Cultura integram recursos para promover o registro e a preservação de "paisagens sonoras ameaçadas". Gritos de vendedores em mercados tradicionais, música de trupes de templo, sons de máquinas de ofícios artesanais de lojas centenárias — esses sons que somem com a renovação urbana ou o declínio industrial, são salvos pela gravação de campo.
+O povo Tao (da Ilha de Lanyu) é o único povo marítimo de Taiwan, e sua música é indissociável do oceano. Os cantos de palmas durante a temporada de peixe-voadeira e os cantos de trabalho na construção de canoas ecoam o ritmo das ondas.
+
+Como disse a escritora Xia Man Lan-Po-An: "A memória das ondas é mais longa que a dos homens." A música Tao é a versão sonora dessa frase.
 
 ---
 
-## Fatos surpreendentes
+## Sons da Natureza
 
-- 🔢 **Música do caminhão de lixo: exclusividade global**: Taiwan é o único país do mundo que usa música clássica para avisar os moradores de tirar o lixo; duas peças usadas há mais de 25 anos, tornaram-se o gatilho de memória coletiva mais poderoso da nação
-- 🔢 **"Oito vozes" na verdade são quatro**: O Pasibutbut do povo Bunun é canto a quatro vozes que, por harmônicos naturais, geram efeito de oito vozes; em 1952, Takashi Kurosawa enviou à UNESCO e chocou a musicologia internacional
-- 🔢 **Nanguan é fóssil vivo**: Preserva elementos musicais das épocas Tang e Song, é uma das mais antigas tradições de música de câmara do Leste Asiático ainda existentes; entrou na UNESCO em 2009
-- 🔢 **Cigarras de Taiwan a 90 decibéis**: O canto de verão equivale a um aspirador de pó; mais de 60 espécies formam uma das paisagens sonoras de cigarras com maior densidade do mundo
-- 🔢 **Taiwanês tem sete tons**: Uma das línguas de uso diário com sistema tonal mais rico do mundo; cada mudança de tom altera o significado da palavra — a língua em si é música
-- 🔢 **Tambores e gongos da procissão de Mazu**: A procissão a pé de Mazu de Baishatun mobiliza anualmente mais de 100 mil pessoas; fogos e tambores ecoam por quilômetros ao longo do percurso — é o maior evento de paisagem sonora móvel de Taiwan
-- 🔢 **Camadas sonoras do mercado noturno**: Um mercado noturno médio tem 80-90 decibéis de fundo simultâneo — óleo borbulhando, gritos de venda, efeitos eletrônicos de barracas de jogo — a paisagem sonora do mercado noturno é o arquivo de som mais denso da vida popular taiwanesa
-- 🔢 **Festival Lacking Sound do C-LAB**: O Lacking Sound Festival na antiga base aérea de Taipé é um dos mais importantes festivais de arte sonora experimental da Ásia; atrai anualmente artistas sonoros internacionais para se apresentarem em Taiwan, tornando a ilha um nó importante da arte sonora asiática
+### Trovões de Primavera e a Chuva de Meiyu
+
+O clima de Taiwan tem uma sazonalidade sonora distinta: o primeiro trovão da primavera, a chuva torrencial da estação _Meiyu_ batendo nos telhados de zinco, e o silêncio estranho de segundos antes de uma tempestade de verão. Quem já morou em casas com telhado de zinco sabe: o som da chuva pode ser tão alto que você não ouve o que o vizinho está dizendo.
+
+### Canto das Cigarras
+
+Taiwan possui mais de 60 espécies de cigarras. O canto no verão pode atingir 90 decibéis — equivalente ao volume de um aspirador de pó. Diferentes altitudes possuem diferentes espécies, formando um espectro sonoro vertical: a cigarra-urso de planície, a cigarra-urso de altitude média e a cigarra de alta altitude têm timbres e ritmos distintos.
+
+### Sons de Espécies Endêmicas
+
+O canto do _Taiwan Babbler_ é reconhecido como um dos mais belos de Taiwan. O grito da cabra-montesa (_Formosan Sika Deer_) costuma assustar caminhantes. À noite, o som das corujas entrelaça-se com o coaxar dos sapos, compondo a paisagem noturna única das montanhas taiwanesas.
 
 ---
 
-**Leitura complementar**:
+## Sons que estão Desaparecendo
 
-- [Paisagem Sonora de Taiwan](/pt/culture/taiwan-soundscape) — Artigo irmão: os mesmos sons, reinterrogados pelo ângulo de "como escutamos", cocriação de materiais por pesquisadores de paisagem sonora
-- [🎧 Projeto de Coleta de Paisagem Sonora de Taiwan](/soundscape) — Versão em áudio deste artigo: 21 gravações de campo de caminhão de lixo, templo, metrô, natureza, disponíveis online; contribuições bem-vindas
-- [Wang Fu-jui](/pt/people/fujui-wang) — Fundou em 1993 o primeiro selo de música experimental de Taiwan, NOISE; fonte da linhagem de Wang Fu-jui, Yao Chung-han, Chang Yung-ta mencionada na seção "Arte sonora"
-- [Tradições Musicais dos Povos Indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Polifonia de oito vozes dos Bunun, harpa bucal dos Paiwan e outros sons tradicionais, a camada mais antiga da paisagem sonora de Taiwan
-- [Cultura KTV de Taiwan](/pt/music/ktv-culture) — Do show de variedades à sala privativa, o KTV é uma das fontes sonoras artificiais mais onipresentes da paisagem noturna de Taiwan; a alegria de cinco pessoas cantando numa sala vazando para fora compõe uma assinatura sonora única das noites taiwanesas
-- [Desenvolvimento do Hip Hop e Rap em Taiwan](/pt/music/taiwan-hip-hop-and-rap) — Do porão urbano ao topo do KKBOX, a textura sonora do rap transformou as camadas da paisagem sonora da música popular taiwanesa
+### O apito do amolador de facas
+
+O amolador de facas que pedalava sua bicicleta e gritava com um apito especial pelas ruas — "A-mola... tesouras..." — era um dos sons mais familiares das ruelas de Taiwan. Com a modernização, esse som está quase extinto.
+
+### Anúncios de lojas de ferragens
+
+Os anúncios gravados em dialeto taiwanês de lojas de ferragens ("Venham, venham, promoção total...") eram o ruído de fundo das cidades e vilas. Hoje, só podem ser ouvidos em alguns mercados tradicionais ou áreas rurais.
+
+### A era do rádio
+
+Antes da televisão se popularizar, o rádio era o centro sonoro das famílias taiwanesas. Radionovelas em taiwanês, transmissões de ópera e dublagens de teatro de fantoches — esses sons moldaram a memória auditiva de uma geração inteira e hoje existem apenas nas lembranças dos idosos.
+
+### A perda dos tons do dialeto taiwanês
+
+O dialeto taiwanês possui oito tons (sete usados na prática), sendo uma das línguas cotidianas com a maior riqueza tonal do mundo. Com a promoção do mandarim na educação, a fluência das gerações mais jovens caiu drasticamente. Quando uma língua desaparece, não somem apenas as palavras, mas também a textura sonora e a musicalidade única — a própria entonação do taiwanês é uma melodia.
+
+---
+
+## 🚇 Projeto Paisagem Sonora do Metrô (MRT)
+
+Em 2018, o grupo Dahe Music realizou uma gravação de campo única ao longo das linhas do metrô de Taipé — o "Projeto Paisagem Sonora do MRT". Eles percorreram a rede e gravaram os sons mais representativos da vida perto de cada estação. Esses fragmentos de 8 segundos funcionam como um mapa de Taipé percorrido pelos ouvidos.
+
+> **📝 Nota do Curador:** Cada estação de metrô tem seu próprio DNA sonoro. As orações em Xingtian Temple, o zumbido das máquinas de tatuagem em Ximending, os gritos de venda na Rua Dihua — isso não é "ruído", é a evidência de uma cidade viva.
+
+**🎧 Ouça: Paisagem Sonora do Metrô de Taipé (Gravado por Dahe Music, março de 2018)**
+
+| Estação / Local            | Som                                   | Audição                                                                                                                                              |
+| :------------------------- | :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Xingtian Temple            | Adoração (sorteio de blocos, orações) | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio>                    |
+| Ximending                  | Estúdio de tatuagem                   | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio>                    |
+| Rua Dihua                  | Compras de Ano Novo Lunar             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio>       |
+| Taipei 101                 | Contagem regressiva de Ano Novo       | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio>              |
+| Memorial Hall CKS          | Pombos voando                         | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio>           |
+| Memorial Hall CKS          | Turistas tirando fotos                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-camera-shutters.mp3" type="audio/mpeg"></audio>          |
+| Parque Daan                | Patos                                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio>                     |
+| Parque Dahu                | Água do lago                          | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dahu-park-lake-water.mp3" type="audio/mpeg"></audio>                       |
+| Xiaobitan                  | Observação de pássaros                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xiaobitan-birdsong.mp3" type="audio/mpeg"></audio>                         |
+| Tamsui                     | Comprando lula                        | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio>                        |
+| Miramar                    | Cinema                                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-miramar-cinema.mp3" type="audio/mpeg"></audio>                             |
+| Livraria Sanmin            | Folhear de páginas                    | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio>             |
+| Correio Beimen             | Enviando cartas                       | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-beimen-post-office-mailing.mp3" type="audio/mpeg"></audio>                 |
+| Estação Zhongshan          | Furadeira elétrica                    | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-station-power-drill.mp3" type="audio/mpeg"></audio>              |
+| Estação Zhongshan Jr. High | Anúncio de relatório                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-junior-high-station-announcement.mp3" type="audio/mpeg"></audio> |
+
+---
+
+## Experimentos Sonoros Contemporâneos
+
+### Arte Sonora (Sound Art)
+
+Taiwan possui uma cena de arte sonora ativa. Plataformas como o C-LAB (Centro de Experimentação Cultural Contemporânea de Taiwan), experimentos locais e festivais como o _Lacking Sound Festival_ promovem continuamente a criação e exibição de arte sonora. [^3] Obras de artistas como Wang Fu-rui, Yao Chung-han e Chang Yung-ta transformam os sons ambientais de Taiwan em linguagem artística contemporânea.
+
+### Gravação de Campo (Field Recording)
+
+Cada vez mais profissionais dedicam-se à gravação de campo em Taiwan para registrar sons que estão desaparecendo. De florestas de alta montanha a zonas costeiras, de mercados antigos a áreas industriais — essas gravações não são apenas arquivos, são patrimônio cultural auditivo. [^4]
+
+### Instalações Sonoras Interativas
+
+Artistas de mídia nova em Taiwan destacam-se no campo das instalações sonoras interativas. Combinando sensores, computação em tempo real e áudio espacial, eles transformam os movimentos corporais do público em experiências sonoras — tornando o "ouvir" um ato de participação total.
+
+### Projetos de Preservação da Paisagem Sonora
+
+A Associação de Paisagens Sonoras de Taiwan, integrando recursos com o Ministério da Cultura, promove continuamente o registro e a preservação de "paisagens sonoras em perigo". O clamor dos mercados tradicionais, a música dos festivais de templos e o som das máquinas de indústrias artesanais antigas são preservados através de gravações de campo antes que desapareçam devido à renovação urbana ou ao declínio industrial.
+
+---
+
+## Fatos Surpreendentes
+
+- 🔢 **Exclusividade Global do Lixo:** Taiwan é o único país no mundo que usa música clássica para alertar os residentes sobre a coleta de lixo; as duas peças são usadas há mais de 25 anos, tornando-se um poderoso gatilho de memória coletiva nacional.
+- 🔢 **O "Oito-Parte" é na verdade Quatro:** O _Pasibutbut_ do povo Bunun utiliza quatro vozes para gerar oito harmônicos naturais; após a submissão à UNESCO em 1952, chocou o mundo da musicologia.
+- 🔢 **Nanguan é um Fóssil Vivo:** Preserva elementos musicais das dinastias Tang e Song, sendo uma das tradições de música de câmara mais antigas da Ásia Oriental; listada pela UNESCO em 2009.
+- 🔢 **Cigarras de Taiwan chegam a 90 decibéis:** O som no verão equivale ao de um aspirador de pó; com mais de 60 espécies, forma uma das paisagens sonoras de cigarras mais densas do mundo.
+- 🔢 **Taiwanês possui sete tons:** É uma das línguas cotidianas com maior riqueza tonal; cada mudança de tom altera o significado da palavra, tornando a própria língua uma música.
+- 🔢 **Tambores da Procissão de Mazu:** A procissão a pé de Mazu em Baishatun pode mobilizar mais de 100.000 pessoas; por onde a procissão passa, o som de fogos e tambores estende-se por quilômetros, sendo o maior evento de paisagem sonora móvel de Taiwan.
+- 🔢 **Camadas Sonoras dos Mercados Noturnos:** Um mercado noturno tem uma média de 80-90 decibéis de ruído de fundo — óleo fritando, gritos de vendedores, efeitos eletrônicos de jogos — sendo um pacote sonoro denso da vida popular.
+- 🔢 **C-LAB Lacking Sound Festival:** O festival em Taipé é um dos mais importantes festivais de arte sonora experimental da Ásia, atraindo artistas internacionais e tornando Taiwan um nó importante da arte sonora asiática.
+
+---
+
+**Leituras Complementares:**
+
+- [Paisagem Sonora de Taiwan](/pt/culture/taiwan-soundscape) — Artigo complementar: os mesmos sons, mas sob a perspectiva de "como ouvimos", uma co-criação com pesquisadores de paisagem sonora.
+- [🎧 Projeto de Gravação da Paisagem Sonora de Taiwan](/soundscape) — Versão em áudio deste artigo: ouça online 21 gravações de campo (lixo, templos, metrô, natureza); sinta-se à vontade para contribuir com suas gravações.
+- [Wang Fu-rui](/pt/people/fujui-wang) — Fundador da primeira gravadora de música experimental de Taiwan, NOISE, em 1993; a origem da linhagem de artistas mencionada na seção "Arte Sonora".
+- [Tradições Musicais Indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Sons ancestrais como o _Pasibutbut_ e as harmônicas Paiwan são a camada mais antiga da paisagem sonora de Taiwan.
+- [Cultura KTV em Taiwan](/pt/music/ktv-culture) — Dos shows às salas privadas, o KTV é uma das fontes sonoras artificiais mais comuns da noite taiwanesa; o som de cinco pessoas cantando em uma sala privada compõe uma impressão sonora única das noites de Taiwan.
+- [Desenvolvimento do Hip Hop e Rap em Taiwan](/pt/music/taiwan-hip-hop-and-rap) — Dos porões urbanos às paradas da KKBOX, a textura sonora do rap alterou as camadas da paisagem sonora da música pop taiwanesa.
 
 ---
 
 ## Referências
 
-[^1]: [Classic FM: Beethoven's 'Für Elise' calls Taiwanese residents to take out the trash](https://www.classicfm.com/composers/beethoven/fur-elise-calls-taiwanese-trash/) — Reportagem da mídia internacional sobre caminhões de lixo de Taiwan tocarem música clássica
+[^1]: [Classic FM: Beethoven's 'Für Elise' calls Taiwanese residents to take out the trash](https://www.classicfm.com/composers/beethoven/fur-elise-calls-taiwanese-trash/) — Observação da mídia internacional sobre o uso de música clássica nos caminhões de lixo em Taiwan.
 
-[^2]: [Ministério da Cultura: Base de Dados de Música dos Povos Indígenas de Taiwan](https://music.apc.gov.tw/) — Base de dados de acervo musical indígena construída pelo Ministério da Cultura de Taiwan
+[^2]: [Ministério da Cultura: Banco de Dados de Música Indígena de Taiwan](https://music.apc.gov.tw/) — Repositório de dados de música indígena estabelecido pelo Ministério da Cultura de Taiwan.
 
-[^3]: [C-LAB Taiwan Contemporary Culture Lab](https://clab.org.tw/) — Plataforma de arte contemporânea e experimentação sonora na antiga base aérea de Taipé
+[^3]: [C-LAB Centro de Experimentação Cultural Contemporânea de Taiwan](https://clab.org.tw/) — Plataforma de arte contemporânea e experimentação sonora localizada no antigo prédio de correios de Taipé.
 
-[^4]: [Associação de Paisagem Sonora de Taiwan](https://www.soundscape.org.tw/) — Organização civil dedicada à pesquisa e preservação do ambiente sonoro de Taiwan
+[^4]: [Associação de Paisagens Sonoras de Taiwan](https://www.soundscape.org.tw/) — Organização civil dedicada à pesquisa e preservação do ambiente sonoro de Taiwan.
 
-[^5]: [UNESCO: Nanguan (Nanyin) — Patrimônio Cultural Imaterial da Humanidade](https://ich.unesco.org/en/RL/nanyin-00199) — Página da UNESCO sobre o nanguan inscrito em 2009
+[^5]: [UNESCO: Nanguan (Nanyin) — Patrimônio Cultural Imaterial da Humanidade](https://ich.unesco.org/en/RL/nanyin-00199) — Página oficial da UNESCO sobre a inclusão do Nanguan como patrimônio imaterial em 2009.
