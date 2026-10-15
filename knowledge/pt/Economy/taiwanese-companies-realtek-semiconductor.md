@@ -1,114 +1,114 @@
 ---
 title: 'Empresas de Taiwan: Realtek Semiconductor'
-description: 'Sete engenheiros, 2 milhões para empreender, a história lendária do pequeno caranguejo que rastejou para dentro de cada computador do mundo'
+description: 'Set engenheiros que trabalhavam em multinacionais fundaram uma empresa no Parque Científico com NT$ 2 milhões, usando um caranguejo como logotipo para lançar o primeiro chip de rede desenvolvido de forma independente em Taiwan; hoje, a empresa é a terceira maior de design de IC do país.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
+tags: ['Economia', 'Empresa', 'Semicondutores', 'Design de IC']
 subcategory: '企業列傳'
-tags: ['Economy', 'Empresas', 'Semicondutores', 'Design de IC']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '18157ab5d'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:bc61864ded99ef44'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-07-26T02:07:21+08:00'
+translatedAt: '2026-10-15T12:42:59+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Em 1987, sete engenheiros usaram 2 milhões para fundar a Realtek Semiconductor no Parque Científico de Hsinchu, adotando o caranguejo como marca. Em 1991, lançaram o primeiro chip de rede de desenvolvimento próprio de Taiwan. Em 2024, a receita consolidada atingiu cerca de 113,4 bilhões de novos dólares taiwaneses, tornando-a a terceira maior empresa de design de IC de Taiwan; em praticamente todos os computadores do mundo pode haver um "caranguejo da Realtek" escondido.
+> **Resumo em 30 segundos:** Em 1987, sete engenheiros fundaram a Realtek Semiconductor no Parque Científico de Hsinchu com NT$ 2 milhões. Usando um caranguejo como logotipo, lançaram em 1991 o primeiro chip de rede desenvolvido de forma independente em Taiwan. Com uma receita consolidada de aproximadamente NT$ 113,4 bilhões em 2024, é a terceira maior empresa de design de IC de Taiwan; quase todo computador no mundo pode esconder um "caranguejo Realtek".
 
-Se você já usou um computador, provavelmente já cruzou com um caranguejo. Essa marca de caranguejo é a Realtek Semiconductor, a terceira maior empresa de design de IC de Taiwan, com produtos que abrangem controladores de rede, chips de áudio, controladores de vídeo, amplamente integrados em placas-mãe, roteadores, televisores e outros dispositivos terminais globais.
+Se você já usou um computador, é muito provável que já tenha interagido com um caranguejo. Este logotipo de caranguejo pertence à Realtek Semiconductor (瑞昱半導體), a terceira maior empresa de design de IC de Taiwan, cujos principais produtos incluem controladores de rede, chips de áudio e chips de controle de vídeo, amplamente integrados em placas-mãe, roteadores e televisores em todo o mundo.
 
-## A aposta de 2 milhões dos sete espadachins
+## A aposta de NT$ 2 milhões dos "Sete Mosqueteiros"
 
-1987. Taiwan acabava de sair da lei marcial, a economia decolava, o Parque Científico de Hsinchu mal tinha alguns anos de existência. Sete engenheiros que trabalhavam em empresas estrangeiras se reuniram para discutir uma ideia ousada: será que nós conseguimos fazer nossos próprios chips?
+Em 1987, Taiwan acabara de levantar a lei marcial, a economia estava em ascensão e o Parque Científico de Hsinchu havia sido estabelecido há apenas alguns anos. Sete engenheiros que trabalhavam em empresas multinacionais reuniram-se para discutir uma ideia audaciosa: "Será que podemos projetar nossos próprios chips?"
 
-Na época, a indústria de tecnologia de Taiwan ainda estava na fase de montagem por encomenda; projetar chips por conta própria soava como fantasia. Mas aqueles sete engenheiros acreditavam que os engenheiros de Taiwan tinham essa capacidade.
+Naquela época, a indústria tecnológica de Taiwan ainda estava na fase de fabricação por contrato (OEM), e projetar os próprios chips parecia algo fantasioso. No entanto, esses sete engenheiros acreditavam que os profissionais taiwaneses tinham essa capacidade.
 
-Juntaram 2 milhões e, em 21 de outubro de 1987, fundaram a Realtek Semiconductor.[^1] O nome em inglês: Realtek.
+Eles reuniram NT$ 2 milhões e fundaram a Realtek Semiconductor em 21 de outubro de 1987. [^1] O nome oficial da empresa é Realtek.
 
-A escolha do caranguejo como marca tem um motivo curioso: o caranguejo é pequeno, mas tem forte capacidade de adaptação, sobrevivendo em diversos ambientes. Era exatamente essa a expectativa deles para a empresa — encontrar seu caminho de sobrevivência em uma indústria tecnológica ferozmente competitiva.
+Havia uma razão interessante para escolher o caranguejo como logotipo: embora pequeno, o caranguejo possui grande capacidade de adaptação e consegue sobreviver em diversos ambientes. Era exatamente isso que eles esperavam para a empresa — encontrar seu próprio caminho de sobrevivência na altamente competitiva indústria tecnológica.
 
 ## O nascimento do primeiro caranguejo
 
-O começo não foi fácil. Sete engenheiros espremidos em um pequeno escritório, sem clientes, sem produtos, sobrevivendo com capital próprio.
+O início do empreendedorismo não foi fácil. Os sete engenheiros espremiam-se em um pequeno escritório, sem clientes e sem produtos, mantendo as operações apenas com capital próprio.
 
-A virada veio em 1991. A indústria de computadores de Taiwan crescia rápido, mas os chips de rede precisavam ser comprados de fabricantes americanos ou japoneses — não só eram caros, como frequentemente sofriam com suporte técnico insuficiente.
+A reviravolta ocorreu em 1991. Naquela época, a indústria de computadores em Taiwan estava se desenvolvendo rapidamente, mas os chips de rede precisavam ser comprados de fabricantes dos EUA ou do Japão, o que não apenas era caro, como também frequentemente resultava em falta de suporte técnico adequado.
 
-A equipe da Realtek identificou a oportunidade e decidiu desenvolver o primeiro controlador Ethernet de desenvolvimento próprio de Taiwan. Após dois anos de P&D, nasceu o RTL8002 — o primeiro chip de rede de Taiwan com propriedade intelectual totalmente autônoma.
+A equipe da Realtek identificou essa oportunidade e decidiu desenvolver o primeiro controlador Ethernet projetado de forma independente em Taiwan. Após dois anos de pesquisa e desenvolvimento, o RTL8002 nasceu — este foi o primeiro chip de rede com propriedade intelectual totalmente autônoma de Taiwan.
 
-O significado desse chip ultrapassa a tecnologia em si. Ele provou que engenheiros de Taiwan têm capacidade de projetar do zero produtos de nível mundial, e deu um passo decisivo para a indústria de tecnologia de Taiwan sair da "manufatura por encomenda" rumo ao "P&D autônomo".
+O significado deste chip foi além da tecnologia em si. Ele provou que os engenheiros de Taiwan tinham a capacidade de projetar produtos de classe mundial do zero, marcando um passo crucial na transição da indústria tecnológica de Taiwan da "fabricação por contrato" para o "desenvolvimento independente".
 
-## Memórias da era das placas-caranguejo
+## Memórias da era das "Placas Caranguejo"
 
-Meados dos anos 90. Computadores pessoais se popularizavam, a internet começava a entrar nos lares de Taiwan. Para colocar o computador na rede, era preciso instalar uma "placa de rede" — geralmente uma placa de circuito verde, cheia de chips e conectores.
+Em meados da década de 1990, os computadores pessoais começaram a se popularizar e a internet gradualmente entrou nos lares taiwaneses. Naquela época, para conectar um computador à rede, era necessário instalar uma "placa de rede" — geralmente uma placa de circuito verde com vários chips e conectores.
 
-As placas de rede da Realtek, por terem o caranguejo como marca, foram apelidadas pelos entusiastas de computador de Taiwan de "placas-caranguejo". Esse apelido virou depois um símbolo nostálgico, representando os anos iniciais do desenvolvimento da internet em Taiwan.
+Como o logotipo da Realtek era um caranguejo, os entusiastas de computadores em Taiwan apelidaram as placas de "Placas Caranguejo" (螃蟹卡). Esse apelido tornou-se, mais tarde, um símbolo de nostalgia, representando os anos do desenvolvimento inicial da internet em Taiwan.
 
-Mais importante: a Realtek derrubou o preço das placas de rede de milhares (cobrado pelos fabricantes americanos) para centenas, permitindo que mais taiwaneses comprassem computadores e usassem internet. A "democratização da tecnologia" tornou-se depois um posicionamento constante da indústria de design de IC de Taiwan.
+Mais importante ainda, a Realtek reduziu o preço das placas de rede de milhares de dólares (pagos a fabricantes americanos) para apenas centenas de dólares, permitindo que mais taiwaneses pudessem comprar computadores e acessar a internet. A "democratização tecnológica" tornou-se, desde então, um posicionamento constante da indústria de design de IC em Taiwan.
 
-## Da placa de rede à placa de som: a travessia
+## Da placa de rede à placa de som: uma expansão de mercado
 
-Após conquistar o mercado de placas de rede, a Realtek não se acomodou. No final dos anos 90, começou a avançar no território de chips de áudio.
+Após o sucesso no mercado de placas de rede, a Realtek não se acomodou. No final da década de 1990, começaram a expandir para o campo dos chips de áudio.
 
-A decisão parece um salto de tom, mas tem sua lógica. Transmissão de rede e processamento de áudio envolvem tecnologia de processamento de sinal; a base técnica acumulada em chips de rede podia ser aplicada diretamente na área de áudio.
+Essa decisão pode parecer desconexa, mas tinha sua lógica. Tanto a transmissão de rede quanto o processamento de áudio envolvem tecnologia de processamento de sinais; a base tecnológica acumulada pela Realtek em chips de rede poderia ser aplicada perfeitamente à área de áudio.
 
-Os chips de áudio da Realtek logo entraram nas cadeias de suprimento dos grandes fabricantes de placas-mãe. Asus, Gigabyte, MSI e outros grandes fabricantes taiwaneses de placas-mãe passaram a integrar as soluções de áudio da Realtek em seus produtos.
+Os chips de áudio da Realtek rapidamente entraram na cadeia de suprimentos dos principais fabricantes de placas-mãe. Gigantes taiwaneses como ASUS, Gigabyte e MSI começaram a integrar as soluções de áudio da Realtek em seus produtos.
 
-Chegados os anos 2000, a Realtek já era um dos principais fornecedores globais de chips de áudio para PC. Quase todo computador montado tem um chip da Realtek em funcionamento.
+Nos anos 2000, a Realtek já havia se tornado um dos principais fornecedores globais de chips de áudio para PC. Quase todo computador montado possuía um chip da Realtek em funcionamento.
 
 ## O pequeno caranguejo onipresente
 
-A Realtek de hoje já não é a pequena empresa de sete pessoas de outrora. Em 2024, a receita consolidada foi de cerca de 113,4 bilhões de novos dólares taiwaneses (crescimento anual de 19,1%), com mais de 6.000 funcionários, a terceira maior empresa de design de IC de Taiwan.[^2]
+Hoje, a Realtek não é mais aquela pequena empresa de sete pessoas. Até 2024, a receita consolidada da empresa era de aproximadamente NT$ 113,4 bilhões (um aumento anual de 19,1%), com mais de 6.000 funcionários, sendo a terceira maior empresa de design de IC de Taiwan. [^2]
 
-Mas o mais impressionante é a taxa de penetração dos produtos da Realtek. De roteadores domésticos a notebooks, de smart TVs a controladores industriais, os chips da Realtek estão praticamente em todo lugar. Dispositivos terminais com chips da Realtek cobrem o globo, abrangendo mercados residencial, comercial e industrial.
+Mas o que é ainda mais impressionante é a penetração dos produtos da Realtek. De roteadores domésticos a notebooks, de smart TVs a controladores industriais, os chips da Realtek estão em quase todos os lugares. Os dispositivos finais que utilizam chips Realtek espalham-se por todo o mundo, cobrindo mercados residenciais, comerciais e industriais.
 
-Esse sucesso vem da "estratégia de plataforma" da Realtek: a tecnologia central que projetam pode atravessar diferentes linhas de produto; uma arquitetura de processamento de sinal gera chips de rede, chips de áudio, controladores de vídeo e outras aplicações diferentes. Uma tecnologia central, múltiplos produtos derivados.
+Esse sucesso provém da "estratégia de plataforma" da Realtek: a tecnologia central que eles projetam pode atravessar diferentes linhas de produtos. Uma única arquitetura de processamento de sinais pode derivar aplicações distintas, como chips de rede, chips de áudio e chips de controle de vídeo.
 
-## Novo campo de batalha: a era Wi-Fi
+## O novo campo de batalha na era do WiFi
 
-Anos 2010. Com a popularização dos smartphones e o surgimento da Internet das Coisas, a rede sem fio virou o novo campo de batalha. A Realtek mostrou novamente sua capacidade de adaptação, expandindo da rede cabeada para a sem fio.
+Na década de 2010, com a popularização dos smartphones e o surgimento da Internet das Coisas (IoT), as redes sem fio tornaram-se o novo campo de batalha. A Realtek demonstrou novamente sua capacidade de adaptação, expandindo-se das redes cabeadas para o domínio sem fio.
 
-Seus chips Wi-Fi são amplamente usados em roteadores, eletrodomésticos inteligentes, equipamentos industriais. Do Wi-Fi 4, Wi-Fi 5 ao Wi-Fi 6, até as soluções Wi-Fi 7 lançadas em meados dos anos 2020, a Realtek manteve participação de mercado em cada transição de geração do padrão sem fio.[^4]
+Os chips WiFi que eles desenvolvem são amplamente utilizados em roteadores, eletrodomésticos inteligentes e equipamentos industriais. Do WiFi 4 e WiFi 5 ao WiFi 6, chegando às soluções WiFi 7 lançadas em meados da década de 2020, a Realtek manteve sua participação de mercado em cada transição de padrão sem fio. [^4]
 
-Código da ação da Realtek: 2379. Listada na Bolsa de Valores de Taiwan em 1998. Presidente atual: **Chiu Shun-chien** (邱順建); Gerente geral atual: **Yeh Po-jen** (葉博任).[^3]
+As ações da Realtek possuem o código 2379 e foram listadas na Bolsa de Valores de Taiwan em 1998. O atual presidente do conselho é **Chiu Shun-chien** (邱順建) e o atual gerente geral é **Yeh Po-jen** (葉博任). [^3]
 
-### Novo posicionamento em AI PC e Ethernet veicular
+### Novos posicionamentos: AI PC e Ethernet automotiva
 
-A partir dos anos 2020, a Realtek passou a se posicionar ativamente em três mercados emergentes: (1) **AI PC** — com a difusão das especificações Copilot+ PC da Microsoft, os chips Wi-Fi 7 e Ethernet de alta velocidade da Realtek tornam-se elementos básicos de conectividade das plataformas AI PC; (2) **Ethernet veicular** — direção autônoma e comunicação veicular exigem rede interna de alta largura de banda e baixa latência; a Realtek entra na cadeia de suprimentos ADAS com chips automotivos 100BASE-T1 / 1000BASE-T1; (3) **BIS (Broad IoT Solutions)** — linha de controladores integrados para controle industrial, casa inteligente e gestão de energia, ampliando a fatia fora do mercado de PC.[^4]
+A partir da década de 2020, a Realtek posicionou-se ativamente em três mercados emergentes: (1) **AI PC** — com a popularização das especificações Microsoft Copilot+ PC, os chips WiFi 7 e Ethernet de alta velocidade da Realtek tornaram-se componentes fundamentais de conectividade para plataformas de AI PC; (2) **Ethernet automotiva** — a condução autônoma e a comunicação veicular exigem redes internas de alta largura de banda e baixa latência, levando a Realtek a entrar na cadeia de suprimentos de ADAS com chips de nível automotivo 100BASE-T1 / 1000BASE-T1; (3) **BIS (Broad IoT Solutions)** — uma linha de controladores integrados voltada para aplicações de controle industrial, casas inteligentes e gestão de energia, expandindo sua participação no mercado não relacionado a PCs. [^4]
 
-O **RTL8002**, lançado pela Realtek em 1991, foi o primeiro controlador Ethernet de Taiwan com propriedade intelectual totalmente autônoma, marcando o ponto de partida da rota tecnológica de chips de rede da empresa.[^1]
+O **RTL8002**, lançado pela Realtek em 1991, foi o primeiro controlador Ethernet com propriedade intelectual totalmente autônoma de Taiwan, estabelecendo o ponto de partida para a trajetória tecnológica da empresa em chips de rede. [^1]
 
-## Desafios sob a guerra tecnológica sino-americana
+## Desafios sob a guerra tecnológica entre China e EUA
 
-Nos últimos anos, a competição tecnológica entre China e EUA se intensificou, os semicondutores viraram ativos estratégicos. A Realtek, como fornecedora global importante de chips de rede, também enfrenta novos desafios.
+Nos últimos anos, a competição tecnológica entre a China e os EUA intensificou-se, tornando os semicondutores um recurso estratégico. Como um importante fornecedor global de chips de rede, a Realtek também enfrenta novos desafios.
 
-De um lado, o mercado chinês é muito importante para a Realtek; grande quantidade de roteadores, set-top boxes, eletrodomésticos inteligentes usam chips da Realtek. De outro, as políticas de controle de exportação dos EUA podem afetar as vendas da Realtek a clientes chineses específicos.
+Por um lado, o mercado chinês é extremamente importante para a Realtek; uma grande quantidade de roteadores, TV boxes e eletrodomésticos inteligentes utiliza seus chips. Por outro lado, as políticas de controle de exportação dos EUA podem afetar as vendas da Realtek para determinados clientes na China.
 
-Mas a resposta da Realtek continua voltada à origem: focar inovação tecnológica. Acreditam que, enquanto continuarem fornecendo as melhores soluções técnicas, conseguirão espaço de sobrevivência no complexo ambiente geopolítico.
+No entanto, a estratégia de resposta da Realtek continua sendo voltar às suas origens: focar na inovação tecnológica. Eles acreditam que, ao continuar fornecendo as melhores soluções tecnológicas, poderão encontrar seu espaço de sobrevivência em um ambiente geopolítico complexo.
 
-## O reino do caranguejo 35 anos depois
+## O Reino do Caranguejo 35 anos depois
 
-De 1987 a 2024, a Realtek percorreu 37 anos. Aqueles sete espadachins: alguns já se aposentaram, outros foram para outras empresas, mas o reino do caranguejo que fundaram segue crescendo vigoroso.
+De 1987 a 2024, a Realtek percorreu 37 anos. Alguns dos "Sete Mosqueteiros" originais já se aposentaram ou mudaram para outras empresas, mas o reino do caranguejo que eles fundaram continua a crescer vigorosamente.
 
-A Realtek de hoje não é apenas uma empresa de design de chips, é uma plataforma tecnológica. Seus chips permitem que dispositivos do mundo todo se conectem à rede, reproduzam áudio, exibam vídeo. Embora consumidores possam não conhecer o nome Realtek, praticamente todos se beneficiam da tecnologia da Realtek.
+Hoje, a Realtek não é apenas uma empresa de design de chips, mas uma plataforma tecnológica. Seus chips permitem que dispositivos em todo o mundo se conectem à rede, reproduzam áudio e exibam vídeo. Embora os consumidores possam não conhecer o nome Realtek, quase todos se beneficiam de sua tecnologia.
 
-Fundada em 1987 por sete engenheiros, 37 anos depois os chips da Realtek já estão integrados em centenas de milhões de dispositivos terminais globais, sendo um caso concreto da transição da indústria de design de IC de Taiwan da era de encomenda para a rota de P&D autônomo.
+Fundada por sete engenheiros em 1987, 37 anos depois, os chips da Realtek estão integrados em centenas de milhões de dispositivos finais globalmente, sendo um caso concreto da trajetória da indústria de design de IC de Taiwan, que passou da era da fabricação por contrato para o desenvolvimento independente.
 
 ## Referências
 
-[^1]: [Relatório Anual 2024 da Realtek Semiconductor｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirma receita consolidada 2024 de cerca de 113,4 bilhões (crescimento anual de 19,1%); 7 fundadores fundaram em 21/10/1987.
+[^1]: [Relatório Anual 2024 da Realtek Semiconductor](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirma a receita consolidada de aproximadamente NT$ 113,4 bilhões em 2024 (aumento anual de 19,1%); fundação pelos 7 fundadores em 21 de outubro de 1987.
 
-[^2]: [Observatório de Informações Públicas: Realtek Semiconductor](https://mops.twse.com.tw/) — Dados básicos da ação 2379, relatórios financeiros históricos.
+[^2]: [Market Observation Post: Realtek Semiconductor](https://mops.twse.com.tw/) — Dados básicos da listagem 2379 e relatórios financeiros anuais.
 
-[^3]: [Bolsa de Valores de Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Confirma código 2379, listada em 1998, Chiu Shun-chien como presidente atual.
+[^3]: [Bolsa de Valores de Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Confirma o código de ações 2379, listagem em 1998 e Chiu Shun-chien como atual presidente do conselho.
 
-[^4]: [Linhas de produto do site oficial da Realtek](https://www.realtek.com/) — Descrição das linhas de chips Wi-Fi 6/7.
+[^4]: [Linhas de Produtos no Site Oficial da Realtek](https://www.realtek.com/) — Descrição das linhas de produtos de chips WiFi 6/7.
 
-[^5]: [TechNews: Histórico da Realtek Semiconductor](https://technews.tw/) — Reportagem sobre o percurso da Realtek desde chips de rede até expansão em IC multimídia.
+[^5]: [TechNews: A trajetória da Realtek Semiconductor](https://technews.tw/) — Reportagem sobre o contexto industrial da Realtek, desde seus começos em chips de rede até a expansão para ICs multimídia.
 
-**Leitura complementar**
+**Leitura Adicional**
 
-- [TechNews: Histórico de desenvolvimento da Realtek Semiconductor](https://technews.tw/)
+- [TechNews: História do desenvolvimento da Realtek Semiconductor](https://technews.tw/)
 - [Electronic Times: Relatório da indústria de design de IC de Taiwan](https://www.digitimes.com.tw/)
