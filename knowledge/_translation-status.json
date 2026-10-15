@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T20:15:23+08:00",
-    "zhCommitHead": "763d1dcc2",
+    "lastUpdated": "2026-10-15T20:17:41+08:00",
+    "zhCommitHead": "dce863c84",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1089,
+        "fresh": 1090,
         "stale": 3,
-        "metadata_stale": 41,
+        "metadata_stale": 40,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1087,
+        "fresh": 1088,
         "stale": 4,
-        "metadata_stale": 42,
+        "metadata_stale": 41,
         "missing": 2,
         "orphan": 0
       }
@@ -19754,8 +19754,8 @@
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
           "translatedAt": "2026-10-15T15:59:57+08:00",
-          "translationLastCommit": "63a89796",
-          "translationLastModified": "2026-09-21T07:35:37+08:00",
+          "translationLastCommit": "dce863c8",
+          "translationLastModified": "2026-10-15T20:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 20335,
@@ -54710,20 +54710,18 @@
         "de": {
           "path": "de/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
           "translatedFrom": "Lifestyle/台灣騎樓文化與街景.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "dba1a13f6",
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
-          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translatedAt": "2026-10-15T15:59:57+08:00",
           "translationLastCommit": "ea80306f",
           "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 11966,
+          "bytes": 12477,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -90254,8 +90252,8 @@
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
           "translatedAt": "2026-10-15T15:59:57+08:00",
-          "translationLastCommit": "cfad574f",
-          "translationLastModified": "2026-10-02T11:36:56+08:00",
+          "translationLastCommit": "dce863c8",
+          "translationLastModified": "2026-10-15T20:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 17410,
@@ -213100,20 +213098,18 @@
         "ru": {
           "path": "ru/Culture/taiwan-street-art-and-graffiti-culture.md",
           "translatedFrom": "Culture/台灣街頭藝術與塗鴉文化.md",
-          "sourceCommitSha": "18157ab5d",
+          "sourceCommitSha": "3d90cfd59",
           "sourceContentHash": "sha256:9d5872fcc273adaa",
           "sourceBodyHash": "sha256:bdae339216a98cc2",
-          "translatedAt": "2026-07-26T07:02:15+08:00",
+          "translatedAt": "2026-10-15T15:59:55+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 14807,
+          "bytes": 20662,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwan-street-art-and-graffiti-culture.md",
@@ -213122,8 +213118,8 @@
           "sourceContentHash": "sha256:9d5872fcc273adaa",
           "sourceBodyHash": "sha256:bdae339216a98cc2",
           "translatedAt": "2026-10-15T15:59:57+08:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "dce863c8",
+          "translationLastModified": "2026-10-15T20:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 12171,
