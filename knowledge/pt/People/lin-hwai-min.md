@@ -1,11 +1,11 @@
 ---
-title: 'Lin Hwai-min'
-description: 'Um romancista criou a primeira companhia de dança moderna do mundo sinófono e fez-na durar mais de 50 anos'
+title: 'Lin Hwai-min (林懷民)'
+description: 'Um romancista sem formação profissional em dança que, ao estudar escrita nos EUA, entrou em uma sala de aula e fundou o Cloud Gate Dance Theatre, a primeira companhia de dança moderna do mundo de língua chinesa.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'Personalidades',
+    'Pessoas',
     'Dança',
     'Arte',
     'Artes Performáticas',
@@ -18,113 +18,112 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/林懷民.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
-translatedAt: '2026-08-04T17:42:35+08:00'
+translatedAt: '2026-10-15T12:42:59+08:00'
 ---
 
-> **Resumo em 30 segundos:** Em 1973, um romancista de 26 anos sem formação profissional em dança, Lin Hwai-min, fundou a primeira companhia profissional de dança moderna de Taiwan, a "Cloud Gate Dance Theatre" (雲門舞集). Esta companhia não só se tornou a primeira companhia de dança contemporânea do mundo sinófono, como também se manteve ativa nos palcos internacionais por mais de 50 anos, sendo descrita pelo _The New York Times_ como "a mais importante companhia de dança contemporânea da Ásia".
+> **Resumo em 30 segundos:** Em 1973, Lin Hwai-min (林懷民), um romancista de 26 anos sem formação profissional em dança, fundou a "Cloud Gate Dance Theatre" (雲門舞集), a primeira companhia de dança moderna profissional de Taiwan. A companhia não apenas se tornou a primeira de dança contemporânea no mundo de língua chinesa, mas também atuou no cenário internacional por mais de 50 anos, sendo descrita pelo _The New York Times_ como "a companhia de dança contemporânea mais importante da Ásia".
 
-Em 1970, aos 23 anos, Lin Hwai-min estava na Universidade de Iowa, nos Estados Unidos, a frequentar o "Iowa Writers' Workshop" (Oficina de Escritores de Iowa) para estudar escrita criativa. Nesse ano, já tinha publicado a sua obra de estreia, _Cigarra_ (《蟬》), sendo um jovem escritor em destaque no meio literário de Taiwan. Mas, numa certa noite numa terra estrangeira, ele entrou numa sala de aula de dança, iniciando uma aventura que mudaria radicalmente as artes performáticas de Taiwan.
+Em 1970, Lin Hwai-min, aos 23 anos, estudava escrita criativa no "Writer's Workshop" na Universidade de Iowa, nos Estados Unidos. Naquele ano, ele já havia publicado sua obra de sucesso, _Cicada_ (蟬), sendo um jovem escritor de destaque na literatura de Taiwan. No entanto, em uma noite em terras estrangeiras, ele entrou em uma sala de aula de dança, iniciando uma aventura que transformaria radicalmente as artes performáticas em Taiwan.
 
-Ninguém imaginaria que, três anos depois, esse romancista fundaria a primeira companhia profissional de dança moderna do mundo sinófono e a faria sobreviver por mais de meio século.
+Ninguém imaginaria que, três anos depois, esse romancista fundaria a primeira companhia de dança moderna profissional do mundo de língua chinesa e a manteria viva por meio de meio século.
 
-## Da Literatura para o Corpo: Uma Curva Inesperada
+## Da literatura ao corpo: uma curva inesperada
 
-Lin Hwai-min nasceu em 1947 em Hsin-kang (新港), Chiayi (嘉義), numa família proeminente de linhagem erudita. O seu bisavô foi um _xiucai_ (estudioso aprovado nos exames imperiais) da dinastia Qing; o seu avô, um médico renomado formado no Japão; e o seu pai, Lin Chin-sheng (林金生), foi o primeiro magistrado do condado de Chiayi. Num ambiente tão impregnado de cultura literária, parecia natural que Lin Hwai-min enveredasse pela literatura — começou a publicar romances aos 14 anos, e aos 22 publicou _Cigarra_, retratando a juventude perdida dos jovens taiwaneses dos anos 1960 no café "Estrela" (明星咖啡屋) em Hsimending (西門町), marcando uma época.
+Lin Hwai-min nasceu em 1947, em uma família influente de Xingang, Chiayi (嘉義). Seu bisavô foi um erudito da dinastia Qing, seu avô foi um médico renomado que estudou no Japão, e seu pai, Lin Chin-sheng (林金生), foi o primeiro magistrado do condado de Chiayi, em Taiwan. Em uma família tão dedicada aos estudos, parecia natural que Lin Hwai-min seguisse o caminho da literatura — ele começou a publicar contos aos 14 anos e publicou _Cicada_ aos 22, retratando o desorientamento juvenil de Taiwan nos anos 1960 no Star Café, em Ximending, marcando uma era.
 
-> **💡 Sabia que?**
-> Lin Hwai-min apaixonou-se pela dança aos 5 anos, ao ver o filme _Hong Ling Yan_ (《紅菱艷》), mas só começou a dançar formalmente aos 23 anos.
+> **💡 Você sabia?**
+> Lin Hwai-min apaixonou-se pela dança após ver o filme _Red Lotus_ aos 5 anos de idade, mas só começou a estudar formalmente aos 23 anos.
 
-Mas a guinada do jovem literato Lin Hwai-min em Iowa abriu uma porta totalmente nova para Taiwan. Em 1970, começou a estudar dança formalmente, conciliando o curso com a prática de dança moderna. Em 1972, após obter o mestrado em Belas Artes e regressar a Taiwan, tomou uma decisão "impulsiva": fundar uma companhia de dança moderna.
+Contudo, a mudança de rumo do jovem literato em Iowa abriu uma nova porta para Taiwan. Em 1970, ele começou a estudar dança formalmente, conciliando seus estudos acadêmicos com o aprendizado da dança moderna. Após retornar a Taiwan com um mestrado em artes em 1972, ele tomou uma decisão "impulsiva": fundar uma companhia de dança moderna.
 
-Era 1973. Não havia subsídios governamentais, nem espaços profissionais, nem sequer bailarinos suficientes. Lin Hwai-min e alguns jovens que partilhavam o mesmo ideal deram início à primeira apresentação da Cloud Gate Dance Theatre no Teatro Experimental.
+Era 1973. Sem subsídios governamentais, sem espaços profissionais e sem sequer bailarinos suficientes. Lin Hwai-min e alguns jovens com ideais semelhantes realizaram a primeira apresentação da Cloud Gate em um teatro experimental.
 
-## Cloud Gate: Uma Revolução Moderna com um Nome Antigo
+## Cloud Gate: uma revolução moderna com nome ancestral
 
-"Yunmen" (雲門) era a grande dança cerimonial da era do Imperador Amarelo, segundo a lenda. A escolha deste nome antigo por Lin Hwai-min não foi aleatória. Ele aspirava criar obras coreográficas nascidas da sua própria cultura, e não meras imitações da dança moderna ocidental. Mais importante ainda, disse à imprensa que o objetivo final da Cloud Gate era "fazer toda a nação dançar".
+"Cloud Gate" (雲門) refere-se a uma dança ritual lendária da era do Imperador Amarelo. A escolha de Lin Hwai-min por esse nome antigo não foi por acaso. Ele desejava criar coreografias que emergissem de sua própria cultura, em vez de meras imitações da dança moderna ocidental. Mais importante ainda, ele afirmou à mídia que o objetivo final da Cloud Gate era "dançar para todo o povo".
 
-Em 1973, essa frase soava como uma missão impossível. A dança moderna em Taiwan era praticamente um campo vazio — onde estava o público? Onde estava o financiamento? Mas Lin Hwai-min e a sua Cloud Gate transformaram passo a passo o impossível em possível.
+Em 1973, essa frase parecia uma missão impossível. A dança moderna era um campo quase inexistente em Taiwan; onde estaria o público? Onde estaria o financiamento? Mas Lin Hwai-min e sua Cloud Gate transformaram o impossível em realidade, passo a passo.
 
-Em 1978, Lin Hwai-min levou os bailarinos às margens do rio Hsin-tien (新店溪) para carregar pedras, experienciando a corporeidade do trabalho dos antepassados, e coreografou _Xin Chuan_ (《薪傳》) — um drama de dança épico sobre "barcos de lenha cruzando águas escuras, gentes de Tangshan atravessando para Taiwan". Foi a primeira obra teatral baseada na história de Taiwan.
+Em 1978, Lin Hwai-min levou seus bailarinos às margens do rio Xindian para carregar pedras, experimentando os movimentos físicos dos antepassados, e criou _Tales of the Yellow Earth_ (薪傳) — um épico sobre a migração histórica de trabalhadores chineses para Taiwan. Foi a primeira obra teatral baseada na história de Taiwan.
 
 > **📝 Nota do Curador**
-> A estreia de _Xin Chuan_ ocorreu a 16 de dezembro de 1978, exatamente no dia em que os Estados Unidos anunciaram a ruptura de relações diplomáticas com a República da China (Taiwan).
-> Ao longo de dois meses, este drama de dança que retrata os antepassados a atravessar águas perigosas e a lutar para abrir novas terras consolou e inspirou mais de 20.000 espectadores.
+> A estreia de _Tales of the Yellow Earth_ ocorreu em 16 de dezembro de 1978, justamente no dia em que os Estados Unidos anunciaram o rompimento de relações diplomáticas com a República da China (Taiwan). Em dois meses, este espetáculo que retratava a luta e a travessia dos pioneiros confortou e inspirou mais de 20.000 espectadores.
 
-Não foi coincidência, foi o tom dado pela história. No momento em que a sociedade de Taiwan mais precisava de identidade cultural, a Cloud Gate usou o corpo para contar a história desta terra.
+Isso não foi uma coincidência, mas um marco histórico. No momento em que a sociedade taiwanesa mais necessitava de identidade cultural, a Cloud Gate usou o corpo para contar a história desta terra.
 
-## A Linguagem Moderna do Corpo Oriental
+## A linguagem moderna do corpo oriental
 
-O mais admirável em Lin Hwai-min é a sua profunda exploração e transformação moderna da cultura oriental. _Jiu Ge_ (《九歌》, 1993), adaptado do poema homónimo de Qu Yuan (屈原), transpõe a atmosfera da literatura clássica para a estética dinâmica da dança. _Liu Lang Zhe Zhi Ge_ (《流浪者之歌》, 1994) bebe inspiração no romance de Hermann Hesse e nos textos budistas; em 1994, o próprio Lin Hwai-min peregrinou a Bodh Gaya, onde Buda atingiu a iluminação, e ao regressar criou esta obra que converte rituais religiosos asiáticos em um festival teatral contemporâneo.
+O aspecto mais admirável de Lin Hwai-min é sua profunda exploração e transformação moderna da cultura oriental. _Nine Songs_ (九歌, 1993), adaptado do poema homônimo de Qu Yuan, transformou o lirismo da literatura clássica em uma estética dinâmica de movimento. _Song of the Wanderer_ (流浪者之歌, 1994) buscou inspiração nos romances de Hermann Hesse e nos textos budistas; em 1994, Lin Hwai-min peregrinou pessoalmente a Bodh Gaya, onde o Buda alcançou a iluminação, e ao retornar, criou esta obra que transforma rituais religiosos asiáticos em um festival teatral contemporâneo.
 
-_Song Yan_ (《松煙》, 2003), inspirado nas pinturas de paisagem da dinastia Song, mostra bailarinos a mover-se como pinceladas de tinta entre névoas envolventes. _Dao He_ (《稻禾》, 2013) leva ao palco o ciclo de vida dos arrozais de Chih-shang (池上), tendo mesmo sido apresentado em 2013 nos próprios arrozais de Chih-shang, em Taitung (台東), fundindo a dança com a terra.
+_Ink_ (松煙, 2003) inspirou-se nas pinturas de paisagem da dinastia Song, com bailarinos movendo-se como gotas de tinta em meio à névoa. _Rice_ (稻禾, 2013) levou o ciclo de vida dos arrozais de Chishang para o palco, chegando a ser encenado nos próprios campos de arroz de Taitung, integrando a dança à terra.
 
-Estas obras encarnam a estética de Lin Hwai-min de "o corpo como paisagem". Ele acredita que o corpo oriental contém códigos culturais distintos do ocidental, e que a dança moderna deve nutrir-se do seu próprio solo cultural.
+Essas obras personificam o conceito estético de Lin Hwai-min de que "o corpo é a paisagem". Ele acredita que o corpo oriental contém códigos culturais distintos do ocidental e que a dança moderna deve nutrir-se de seu próprio solo cultural.
 
-A crítica de dança do _The New York Times_ escreveu: "Lin Hwai-min fundiu com sucesso técnicas de dança e conceitos teatrais do Oriente e do Ocidente".
+Uma crítica do _The New York Times_ escreveu: "Lin Hwai-min fundiu com sucesso as técnicas de dança e os conceitos dramáticos do Oriente e do Ocidente".
 
-## Incêndio e Renascimento: A Provação de 2008
+## Incêndio e renascimento: a tragédia de 2008
 
-A 11 de fevereiro de 2008, às 01h00 da madrugada do quinto dia do Ano Novo Lunar, um telefonema rompeu a tranquilidade de Lin Hwai-min. O estúdio de ensaios da Cloud Gate, uma estrutura metálica em Pa-li (八里) usada há 16 anos, foi consumido por um grande incêndio.
+Na madrugada de 11 de fevereiro de 2008, durante o quinto dia do Ano Novo Lunar, uma ligação interrompeu a tranquilidade de Lin Hwai-min. O estúdio de ensaio da Cloud Gate em Bali, utilizado há 16 anos, foi completamente destruído por um grande incêndio.
 
-"Quem ligou foi uma jovem que morava perto do estúdio, por acaso ainda acordada; não a conhecia, nem sei como tinha o meu número... Corri para lá imediatamente, fiquei em choque, aquela cena." Recordou Lin Hwai-min depois.
+"Quem ligou foi uma jovem que morava perto do estúdio e por acaso ainda não tinha dormido; eu não a conhecia e nem sabia como ela tinha meu número... Corri para lá imediatamente, estava apavorado com a cena", relembrou Lin Hwai-min posteriormente.
 
-Adereços de espetáculo, arquivos de anos, figurinos — quase tudo virou cinzas. Para uma companhia com 35 anos de existência, equivalia a queimar toda a memória coletiva.
+Adereços de cena, arquivos históricos, figurinos — quase tudo foi consumido pelas chamas. Para uma companhia que já existia há 35 anos, isso equivalia à perda de toda a sua memória coletiva.
 
-Mas este desastre acabou por mobilizar um apoio sem precedentes da sociedade taiwanesa. Com a ajuda de todos os setores, a Cloud Gate arrecadou mais de 370 milhões de dólares taiwaneses para a reconstrução. Três anos depois, Lin Hwai-min disse num fórum: "Porque um incêndio destruiu o antigo estúdio, a Cloud Gate pôde assim vislumbrar os desafios e a felicidade dos próximos 50 anos."
+No entanto, esse desastre gerou um apoio sem precedentes da sociedade taiwanesa. Com a ajuda de diversos setores, a Cloud Gate arrecadou mais de NT$370 milhões para a reconstrução. Três anos depois, Lin Hwai-min disse em um simpósio: "Porque um incêndio destruiu o antigo estúdio, a Cloud Gate agora pode vislumbrar os desafios e as felicidades dos próximos 50 anos."
 
-Em 2011, o Teatro Cloud Gate em Tan-shui (淡水) foi inaugurado, tornando-se o primeiro teatro de Taiwan construído com financiamento coletivo da sociedade civil.
+Em 2011, o Cloud Gate Theater foi inaugurado em Tamsui, tornando-se o primeiro teatro de Taiwan construído através de financiamento privado.
 
-## Rumo ao Mundo, Sem Esquecer o Local
+## Indo para o mundo sem esquecer o local
 
-Sob a liderança de Lin Hwai-min, a Cloud Gate Dance Theatre, a partir da sua primeira digressão europeia em 1983, levou a sua arte aos cinco continentes, somando mais de 300 apresentações no estrangeiro. Em 2018, a Cloud Gate recebeu o "Prémio Companhia Excecional" (Outstanding Company Award) dos National Dance Awards do Reino Unido.
+Sob a liderança de Lin Hwai-min, a Cloud Gate Dance Theatre começou suas turnês europeias em 1983 e expandiu sua presença por todos os cinco continentes, com mais de 300 apresentações no exterior. Em 2018, a companhia recebeu o prêmio "Outstanding Dance Company" do National Dance Awards do Reino Unido.
 
-Mas Lin Hwai-min nunca esqueceu a sua responsabilidade local devido ao sucesso internacional. Todos os anos, a Cloud Gate realiza espetáculos ao ar livre por todo Taiwan, desde o Memorial Chiang Kai-shek (中正紀念堂) em Taipé até vilas remotas, dando a mais pessoas a oportunidade de contactar com a dança moderna. Lin Hwai-min disse certa vez: "Se retirarmos as apresentações ao ar livre, a Cloud Gate adoece e vai para o hospital imediatamente."
+Mas Lin Hwai-min nunca esqueceu sua responsabilidade local devido ao sucesso internacional. Todos os anos, a Cloud Gate realiza apresentações ao ar livre em várias partes de Taiwan — desde o Memorial Hall de Chiang Kai-shek, em Taipé, até vilarejos remotos — permitindo que mais pessoas tenham contato com a dança moderna. Lin Hwai-min chegou a dizer: "Se retirarmos as apresentações ao ar livre, a Cloud Gate adoeceria imediatamente e teria que ir para o hospital."
 
-> **⚠️ Ponto de Vista Controverso**
-> Embora as apresentações ao ar livre da Cloud Gate sejam amplamente populares, alguns críticos de dança questionam se esta prática de "agradar ao público" afetaria a pureza artística. A resposta de Lin Hwai-min: "Sou um coreógrafo formado pelo público ao ar livre."
+> **⚠️ Ponto de debate**
+> Embora as apresentações ao ar livre da Cloud Gate sejam muito populares, alguns críticos questionam se essa abordagem de "agradar ao público" poderia afetar a pureza artística. A resposta de Lin Hwai-min foi: "Eu sou um coreógrafo treinado pelo público ao ar livre."
 
-## Reconhecimento Internacional e Prémios de Carreira
+## Reconhecimento internacional e conquista de uma vida
 
-Em 2013, Lin Hwai-min recebeu o Prémio de Carreira do American Dance Festival, conhecido como o "Nobel da Dança Moderna". Foi a quinta pessoa a recebê-lo, depois de Martha Graham, Merce Cunningham, Pina Bausch e William Forsythe, e o primeiro coreógrafo asiático a ser distinguido.
+Em 2013, Lin Hwai-min recebeu o prêmio de Carreira (Lifetime Achievement Award) no festival de dança dos EUA, frequentemente chamado de "Nobel da Dança Moderna". Ele foi a quinta pessoa a receber tal honra, após Martha Graham, Merce Cunningham, Pina Bausch e William Forsythe, sendo o primeiro coreógrafo asiático a alcançar este feito.
 
-Além disso, recebeu o Prémio de Carreira do Festival Internacional de Dança da Alemanha (2009), o Prémio Rockefeller III dos EUA, a Ordem das Artes e das Letras de França (grau de Cavaleiro), entre outros importantes prémios internacionais.
+Além disso, ele recebeu outros prêmios internacionais importantes, como o prêmio de Carreira do Festival Internacional de Dança de Alemanha (2009), o prêmio Rockefeller III dos EUA e a Ordem de Cavaleiro das Artes e das Letras da França.
 
-Mas para Lin Hwai-min, a maior conquista talvez não sejam estes prémios, mas o ecossistema completo que a Cloud Gate construiu: da Cloud Gate Dance Theatre, à Cloud Gate 2 (雲門2) até à Escola Cloud Gate (雲門教室), ele criou um sistema integral que permitiu à dança moderna enraizar-se em Taiwan.
+Mas para Lin Hwai-min, sua maior conquista pode não ser esses prêmios, mas sim o ecossistema completo que a Cloud Gate estabeleceu: desde a Cloud Gate Dance Theatre e a Cloud Gate 2 até as salas de aula Cloud Gate, ele criou um sistema completo para enraizar a dança moderna em Taiwan.
 
-## Sucessão: De Lin Hwai-min a Cheng Tsung-lung
+## Sucessão: de Lin Hwai-min a Cheng Tsung-lung
 
-Em 2017, um acidente de viação levou Lin Hwai-min, aos 70 anos, a refletir sobre a sucessão. No final de 2019, reformou-se oficialmente, passando o bastão a Cheng Tsung-lung (鄭宗龍), ex-diretor artístico da Cloud Gate 2.
+Em 2017, um acidente de carro fez com que Lin Hwai-min, aos 70 anos, começasse a pensar na sucessão. No final de 2019, ele se aposentou oficialmente, passando o bastão para Cheng Tsung-lung (鄭宗龍), que havia sido diretor artístico da Cloud Gate 2.
 
-"Se eu não me reformasse, ele viraria o Príncipe Carlos." Brincou Lin Hwai-min.
+"Se eu não me aposentar, ele vai acabar virando o Príncipe Charles", brincou Lin Hwai-min.
 
-Este processo de sucessão durou anos; Lin Hwai-min preparou deliberadamente o sucessor para garantir a continuidade do espírito artístico da Cloud Gate. Em 2020, Cheng Tsung-lung assumiu oficialmente como diretor artístico da Cloud Gate Dance Theatre, estreando a sua primeira obra após a sucessão, _Ding Guang_ (《定光》).
+O processo de sucessão levou anos; Lin Hwai-min cultivou deliberadamente seu sucessor para garantir a continuidade do espírito artístico da Cloud Gate. Em 2020, Cheng Tsung-lung assumiu oficialmente a direção artística da Cloud Gate Dance Theatre, lançando sua primeira obra após a sucessão: _Ding Guang_ (定光).
 
-Lin Hwai-min disse certa vez: "Espero que a Cloud Gate seja uma marca, não a companhia de uma só pessoa." Sob a sua liderança de 46 anos, a Cloud Gate Dance Theatre criou 90 obras, formou inúmeros bailarinos, muitos dos quais se tornaram importantes dançarinos e coreógrafos, gerando a influência da "escola Cloud Gate".
+Lin Hwai-min disse uma vez: "Espero que a Cloud Gate seja uma marca, não a companhia de uma única pessoa." Sob sua liderança de 46 anos, a Cloud Gate criou um total de 90 obras e formou inúmeros bailarinos, muitos dos quais se tornaram dançarinos e coreógrafos importantes, estabelecendo a influência do "estilo Cloud Gate".
 
-## O Fim e o Início de uma Era
+## O fim e o começo de uma era
 
-Em 2000, Lin Hwai-min foi agraciado com o Prémio Nacional de Artes. Em 2019, o seu romance _Cigarra_ teve uma edição comemorativa de 50 anos. Em 2022, a sua obra publicada _Ji Liu Yu Dao Ying_ (《激流與倒影》) venceu tanto o Prémio Clássico de Ouro do Prémio Literário de Taiwan como o primeiro prémio de não-ficção da Feira Internacional do Livro de Taipé.
+Em 2000, Lin Hwai-min recebeu o National Cultural Award. Em 2019, foi lançada a edição comemorativa de 50 anos de seu romance _Cicada_. Em 2022, sua obra _Torrents and Reflections_ (激流與倒影) venceu o prêmio de prestígio da literatura de Taiwan e o primeiro lugar na categoria de não-ficção da Taipei International Book Exhibition.
 
-De romancista a coreógrafo, de um impulso pessoal a um marco de era, Lin Hwai-min usou meio século para provar uma coisa: o verdadeiro artista não é um imitador, mas um criador. Ele fez a dança moderna em Taiwan nascer do nada, passar de nicho para o grande público, do local para o internacional.
+De romancista a dançarino, de um impulso individual ao símbolo de uma era, Lin Hwai-min provou durante meio século uma coisa: um verdadeiro artista não é um imitador, mas um criador. Ele fez com que a dança moderna em Taiwan surgisse do nada, passasse de um nicho para o grande público e fosse do local ao internacional.
 
-> **✦** "Na vida de uma pessoa, tudo pode ser tirado, só o sonho não." — Lin Hwai-min
+> **✦** "Na vida de uma pessoa, tudo pode ser tirado, exceto os sonhos." — Lin Hwai-min
 
-Cinquenta anos de Cloud Gate — esta é uma história sobre a persistência do sonho, e também um microcosmo da cultura de Taiwan a nascer do nada e a fortalecer-se. No palco da Cloud Gate, pulsa a própria alma desta ilha.
+Os 50 anos da Cloud Gate são uma história sobre a persistência de um sonho e um microcosmo da cultura de Taiwan, que cresceu do nada para a força. No palco da Cloud Gate, o que pulsa é a própria alma desta ilha.
 
 ## Referências
 
 - [Site oficial da Cloud Gate Dance Theatre - Fundador](https://www.cloudgate.org.tw/cg/about/founder)
-- [The News Lens: "Cloud Gate Dance Theatre: Da Ilha para o Mundo"](https://www.thenewslens.com/article/129667)
-- [Taiwan Remembers You: O Artista que Faz Taiwan Dançar — Lin Hwai-min](https://taiwan.k12ea.gov.tw/index.php?inter=people&id=48)
+- [The News Lens: "Cloud Gate Dance Theatre" do pequeno nível local ao cenário global](https://www.thenewslens.com/article/129667)
+- [Taiwan Remembers You: O artista que faz Taiwan dançar — Lin Hwai-min](https://taiwan.k12ea.gov.tw/index.php?inter=people&id=48)
 - [Lin Hwai-min - Wikipédia](https://zh.wikipedia.org/zh-tw/林懷民)
 - [Cloud Gate Dance Theatre - Wikipédia](https://zh.wikipedia.org/zh-tw/雲門舞集)
-- [The New York Times: Em Taiwan, uma Companhia de Dança Contemporânea Atrai Multidões](https://www.nytimes.com/2019/07/30/arts/dance/cloud-gate-dance-taiwan.html)
-- [The Reporter: Recuar é Avançar — 45 Anos Depois, o _Xin Chuan_ da Cloud Gate Regressa da Crista da História](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
-- [The News Lens: Lin Hwai-min Anuncia Reforma em 2019](https://www.thenewslens.com/article/83952)
-- [The Reporter: Para Onde Vai o Teatro Cloud Gate Após Aquele Incêndio?](https://www.twreporter.org/a/theatre-cloud-gate)
-- [China Times: 50 Anos da Obra-Prima de Lin Hwai-min, _Cigarra_](https://www.chinatimes.com/realtimenews/20191022003051-260405)
-- [Prémio Nacional de Artes: Lin Hwai-min](https://www.ncafroc.org.tw/artsaward/winnerDetail@1224)
-- [UDN: 40 Anos de Dança da Cloud Gate, _Dao He_ Colhe Beleza](https://www.chinatimes.com/realtimenews/20131122005081-260508)
+- [The New York Times: In Taiwan, a Contemporary Dance Troupe Brings in the Crowds](https://www.nytimes.com/2019/07/30/arts/dance/cloud-gate-dance-taiwan.html)
+- [The Reporter: Recuar para avançar — 45 anos depois, o retorno de "Tales of the Yellow Earth"](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
+- [The News Lens: Lin Hwai-min anuncia aposentadoria em 2019](https://www.thenewslens.com/article/83952)
+- [The Reporter: Após aquele incêndio, para onde vai o Cloud Gate Theater?](https://www.twreporter.org/a/theatre-cloud-gate)
+- [China Times: A obra representativa de Lin Hwai-min, "Cicada", completa 50 anos](https://www.chinatimes.com/realtimenews/20191022003051-260405)
+- [National Cultural Award: Lin Hwai-min](https://www.ncafroc.org.tw/artsaward/winnerDetail@1224)
+- [United Daily News: Cloud Gate dança por 40 anos; colheita bela de "Rice"](https://www.chinatimes.com/realtimenews/20131122005081-260508)
