@@ -1,9 +1,9 @@
 ---
 title: 'Advantech'
-description: "Leader mondial des ordinateurs industriels, pionnier des systèmes intelligents pour l'Internet des objets né à Taïwan"
+description: "Entreprise d'informatique industrielle fondée en 1983 par trois anciens ingénieurs d'HP, leader mondial de l'informatique industrielle axé sur l'IAoT et l'Edge Computing."
 date: 2026-03-20
 category: 'Economy'
-tags: ['Économie', 'Entreprises', 'Ordinateurs industriels', 'IoT']
+tags: ['Économie', 'Entreprise', 'Informatique industrielle', 'IoT']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,132 +11,132 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:57:45.753295+00:00'
+translatedAt: '2026-10-15T20:18:34+08:00'
 ---
 
-> **Vue d'ensemble en 30 secondes**
+> **Aperçu en 30 secondes**
 >
-> Advantech a été fondée en 1983 par trois anciens ingénieurs de Hewlett-Packard et constitue aujourd'hui le chef de file mondial des ordinateurs industriels. L'entreprise se concentre sur l'Internet industriel des objets (AIoT) et les solutions d'informatique en périphérie, avec des implantations dans 27 pays et près de neuf mille employés. D'abord fabricant d'ordinateurs industriels, elle s'est transformée en « moteur de la planète intelligente », fournissant aux secteurs manufacturier, médical, des transports, du commerce de détail et à de nombreux autres domaines les technologies centrales de leur transformation numérique.
+> Fondée en 1983 par trois anciens ingénieurs d'HP, Advantech est aujourd'hui le leader mondial de l'informatique industrielle. L'entreprise se concentre sur l'Internet des objets industriel (AIoT) et les solutions d'Edge Computing (_informatique en périphérie_), avec une présence dans 27 pays et près de 9 000 employés. Passant du statut de simple fabricant de matériel à celui de « moteur de la Terre intelligente », elle fournit les technologies clés de la transformation numérique pour l'industrie, la santé, les transports et le commerce de détail.
 
 ## Pourquoi Advantech est-elle importante ?
 
-Lorsque la ligne de production automatisée d'une usine s'arrête, que les équipements médicaux d'un hôpital perdent leur supervision, ou que le système de gestion du trafic d'une ville tombe en panne, on trouve souvent en arrière-plan l'ombre d'une interruption des technologies d'Advantech. Advantech est le leader mondial du marché des ordinateurs industriels et l'un des fournisseurs centraux de l'infrastructure de l'Internet des objets, avec une présence dans 27 pays.
+Lorsqu'une ligne de production automatisée s'arrête, qu'un équipement médical perd sa surveillance ou qu'un système de gestion du trafic urbain tombe en panne, l'intervention des technologies d'Advantech est souvent sous-jacente. Leader mondial du marché de l'informatique industrielle et fournisseur central des infrastructures de l'Internet des objets, l'entreprise déploie son expertise dans 27 pays.
 
-Son importance ne tient pas seulement à sa part de marché : en passant de la fabrication en sous-traitance à une marque propre, Advantech a démontré que les entreprises taïwanaises peuvent, dans la vague de l'industrie 4.0, obtenir une position clé dans les chaînes mondiales de l'industrie de haute technologie grâce à leurs propres technologies.
+Son importance dépasse la simple part de marché : en passant de la fabrication en sous-traitance à ses propres marques, Advantech a prouvé que les entreprises taïwanaises pouvaient, grâce à leurs propres technologies, occuper une position stratégique dans la chaîne de valeur mondiale de l'industrie 4.0.
 
 ## Présentation de l'entreprise
 
-**Advantech Co., Ltd.** est le plus grand fabricant taïwanais d'ordinateurs industriels, ainsi qu'un fournisseur mondial de premier plan de systèmes pour l'Internet des objets et de plateformes embarquées. Avec la vision de marque « moteur de la planète intelligente », l'entreprise se consacre à la transformation numérique des industries mondiales.
+**Advantech Co., Ltd.** est le plus grand fabricant d'informatique industrielle de Taïwan et un fournisseur mondial de premier plan de systèmes IoT et de plateformes embarquées. Portée par sa vision de « moteur de la Terre intelligente », l'entreprise s'efforce de propulser la transformation numérique des industries mondiales.
 
-### Périmètre des activités principales
+### Domaines d'activité principaux
 
-Les plateformes matérielles d'Advantech couvrent les ordinateurs industriels, les systèmes embarqués, les ordinateurs monocartes, les cartes mères industrielles, les ordinateurs à écran plat LCD, les ordinateurs médicaux et les ordinateurs embarqués pour véhicules. Sur cette base, l'entreprise fournit des solutions intelligentes telles que des passerelles IoT, des systèmes d'informatique en périphérie, des plateformes d'informatique en périphérie AI Jetson, des contrôleurs d'automatisation industrielle et des interfaces homme-machine.
+Les plateformes matérielles d'Advantech couvrent l'informatique industrielle, les systèmes embarqués, les ordinateurs monocartes (_single-board computers_), les cartes mères industrielles, les tablettes LCD, l'informatique médicale et l'informatique embarquée pour l'automobile. Sur cette base, la société propose des solutions intelligentes telles que des passerelles IoT, des systèmes d'Edge Computing, la plateforme de calcul en périphérie AI Jetson, des contrôleurs d'automatisation industrielle et des interfaces homme-machine (HMI).
 
-**Services logiciels** : logiciels de collecte et d'analyse de données, plateformes de gestion des équipements, services d'intégration au cloud, etc.
+**Services logiciels** : Logiciels de collecte et d'analyse de données, plateformes de gestion d'équipements, services d'intégration cloud, etc.
 
-**Domaines d'application** : automatisation industrielle, surveillance environnementale, télécommunications, transports, santé, services de détail, automatisation des bâtiments, etc.
+**Domaines d'application** : Automatisation industrielle, surveillance environnementale, télécommunications, transports, santé, services de détail, domotique, etc.
 
 ## Faits et données clés
 
 ### Performance financière
 
-Le code boursier d'Advantech est 2395 ; l'entreprise est cotée à la Bourse de Taïwan depuis 1999. Au premier semestre 2024, son chiffre d'affaires s'élevait à 28,523 milliards de nouveaux dollars taïwanais (en recul de 17 % par rapport à la même période de l'année précédente)[^3], avec une marge brute d'environ 40,2 %.
+Cotée à la Bourse de Taïwan sous le code 2395, Advantech est entrée en bourse en 1999. Au premier semestre 2024, son chiffre d'affaires s'est élevé à NT$28,523 milliards (en baisse de 17 % par rapport à la même période l'année précédente) [^3], avec une marge brute d'environ 40,2 %.
 
-- **Bénéfice par action** : 2,46 dollars taïwanais (deuxième trimestre 2024)
+- **Bénéfice par action** : NT$2,46 (deuxième trimestre 2024)
 
-### Implantation mondiale
+### Présence mondiale
 
-Advantech dispose de filiales dans 27 pays, emploie près de 9 000 personnes et son siège opérationnel est situé dans le parc scientifique de Neihu, à Taipei.
+Advantech dispose de filiales dans 27 pays et emploie près de 9 000 personnes. Son siège opérationnel est situé dans le parc scientifique de Neihu à Taipei.
 
-- **Bases de production** : trois grands centres de fabrication à Linkou, Taïwan ; Kunshan, Chine ; et au Japon
+- **Bases de production** : Linkou (Taïwan), Kunshan (Chine continentale) et trois grands centres de fabrication au Japon.
 
 ### Position sur le marché
 
-Advantech est le chef de file mondial du marché des ordinateurs industriels, ainsi qu'un leader mondial dans le domaine des systèmes intelligents pour l'Internet des objets. Sur le plan des certifications de partenariat, l'entreprise détient les statuts Intel ECA (Embedded & Communication Alliance) Premier Partner et Microsoft Windows Embedded Gold Partner.
+Advantech est le leader mondial du marché de l'informatique industrielle et un acteur majeur des systèmes intelligents IoT. En termes de partenariats certifiés, la société détient les titres de _Premier Partner_ d'Intel ECA (_Embedded & Communication Alliance_) et de _Gold Partner_ pour Microsoft Windows Embedded.
 
-## Trajectoire de développement : de la start-up de garage à l'empire mondial
+## Historique : de la start-up de garage à l'empire mondial
 
-### Point de départ entrepreneurial (1983-1990)
+### Les débuts (1983-1990)
 
-En 1983, trois anciens ingénieurs de Hewlett-Packard (HP), Liu Kezhen, Huang Yumin et Zhuang Yongshun, ont fondé Advantech à Taïwan, portés par leur lecture fine du marché des ordinateurs industriels. À l'époque, l'ordinateur personnel était en plein essor, mais le secteur industriel manquait encore d'équipements informatiques stables et fiables ; ce groupe d'ingénieurs a identifié ce vide de marché.
+En 1983, trois anciens ingénieurs d'HP (Hewlett-Packard), Liu Ke-chen (劉克振), Huang Yu-min (黃育民) et Chuang Yung-shun (莊永順), fondent Advantech à Taïwan grâce à leur vision aiguë du marché de l'informatique industrielle. À l'époque, alors que l'informatique personnelle émergeait, le secteur industriel manquait cruellement d'équipements informatiques stables et fiables ; ces ingénieurs ont su identifier ce vide technologique.
 
-Le fondateur Liu Kezhen est diplômé du département de génie des télécommunications de l'Université nationale Chiao Tung[^1]. Son expérience comme ingénieur commercial au sein de la division des instruments de Hewlett-Packard Taïwan[^2] lui a permis de comprendre en profondeur les besoins réels des clients industriels. À ses débuts, l'entreprise s'est concentrée sur la production d'ordinateurs industriels capables de fonctionner de manière stable dans des environnements difficiles, apportant un soutien technologique à la transformation et à la montée en gamme de l'industrie manufacturière taïwanaise. Les tout premiers produits d'Advantech étaient des ordinateurs industriels compatibles avec l'architecture IBM PC, renforcés spécifiquement pour les usages industriels — capables de fonctionner sans interruption dans des environnements de haute température, de vibrations ou de poussière. Ce parti pris « robustesse et fiabilité d'abord », combiné à une stratégie de focalisation sur les marchés verticaux industriels (plutôt que sur l'informatique grand public), a permis à Advantech de se distinguer parmi les nombreux fabricants d'électronique taïwanais. Ses produits phares de l'époque comprenaient les systèmes de fond de panier passif industriels, les cartes mères de niveau industriel (IPC) et les ordinateurs monocartes (SBC) ; ces derniers, largement utilisés dans les instruments d'automatisation d'usine, le contrôle des machines et les systèmes de mesure, sont devenus des composants fondamentaux de la numérisation des PME manufacturières taïwanaises.
+Le fondateur Liu Ke-chen, diplômé en génie des télécommunications de l'Université nationale de Jiaotong [^1], a utilisé son expérience d'ingénieur commercial au sein de la division instruments d'HP à Taïwan [^2] pour comprendre les besoins réels des clients industriels. À ses débuts, l'entreprise s'est concentrée sur la production d'ordinateurs capables de fonctionner dans des environnements hostiles, soutenant ainsi la modernisation de l'industrie taïwanaise. Les premiers produits étaient des ordinateurs compatibles avec l'architecture IBM PC, spécialement renforcés pour résister aux hautes températures, aux vibrations et à la poussière. Cette philosophie de conception axée sur la « robustesse avant tout », combinée à une stratégie de spécialisation dans les marchés verticaux industriels (plutôt que de concurrencer le marché grand public), a permis à Advantech de se différencier parmi les nombreux fabricants électroniques de Taïwan. Les produits phares de l'époque incluaient des systèmes de cartes de base passives, des cartes mères de classe industrielle (IPC) et des ordinateurs monocartes (SBC), ces derniers étant largement utilisés dans l'automatisation d'usine et les systèmes de mesure, devenant ainsi des composants essentiels pour la numérisation des PME taïwanaises.
 
-### Consolidation des bases (1990-2000)
+### L'ancrage (1990-2000)
 
-Dans les années 1990, Advantech a tourné son regard vers les marchés étrangers. L'entreprise a créé des filiales en Europe et aux États-Unis, mis en place un réseau de vente international et renforcé la notoriété de sa propre marque.
+Dans les années 1990, Advantech tourne son regard vers l'étranger. La société établit des filiales en Europe et aux États-Unis, créant un réseau de vente international pour accroître la notoriété de sa propre marque.
 
-En 1999, Advantech a été officiellement cotée à la Bourse de Taïwan, devenant la première entreprise taïwanaise d'ordinateurs industriels cotée en bourse[^4]. Cette étape a non seulement apporté des capitaux à l'entreprise, mais a aussi signifié la reconnaissance de son modèle économique par les marchés financiers.
+En 1999, Advantech entre officiellement à la Bourse de Taïwan, devenant la première entreprise d'informatique industrielle taïwanaise à être cotée en bourse [^4]. Cela a non seulement apporté des capitaux, mais a également marqué la reconnaissance de son modèle commercial par les marchés financiers.
 
 ### Expansion mondiale (2000-2010)
 
-Au début du XXIe siècle, Advantech a accéléré sa mondialisation. L'entreprise a établi des bases de production en Chine continentale et ouvert davantage d'implantations en Europe et dans les Amériques, formant un réseau opérationnel couvrant les principaux marchés mondiaux.
+Au début du XXIe siècle, Advantech accélère sa mondialisation. La société établit des bases de production en Chine continentale et multiplie ses implantations en Europe et en Amérique, formant un réseau opérationnel couvrant les principaux marchés mondiaux.
 
-À ce stade, Advantech n'était plus seulement un fabricant de matériel ; elle a également commencé à fournir des solutions système complètes. L'entreprise a investi d'importantes ressources dans la recherche et le développement technologique, s'étendant de la simple fabrication d'ordinateurs industriels à des domaines connexes tels que le contrôle d'automatisation, la collecte de données et les réseaux de communication.
+Durant cette phase, Advantech ne se contente plus d'être un fabricant de matériel, mais commence à proposer des solutions système complètes. L'entreprise investit massivement dans la R&D, étendant son champ d'action de la simple fabrication d'ordinateurs industriels vers le contrôle automatisé, la collecte de données et les réseaux de communication.
 
-### Transformation vers l'Internet des objets (2010-2020)
+### Transformation IoT (2010-2020)
 
-Après l'essor du concept d'Internet des objets, Advantech est passée du statut de fabricant traditionnel d'ordinateurs industriels à celui de fournisseur de solutions IoT. Cette transformation s'est appuyée sur des années d'accumulation dans le domaine de l'automatisation industrielle : l'entreprise a combiné ses produits matériels existants avec les technologies cloud et l'analyse des mégadonnées pour lancer des solutions AIoT complètes, c'est-à-dire d'Internet des objets fondé sur l'intelligence artificielle. La réalisation emblématique de cette phase est la plateforme cloud d'IoT industriel WISE-PaaS lancée par Advantech, qui intègre des modules fonctionnels comme la connexion d'équipements, la collecte de données, la visualisation analytique et un magasin d'applications (WISE-Marketplace). Grâce à WISE-PaaS, Advantech ne vend plus seulement du matériel à ses clients : l'entreprise a établi un modèle de revenus par abonnement de services, attirant des développeurs externes qui conçoivent sur la plateforme des applications verticales par secteur, formant progressivement un écosystème d'IoT industriel centré sur Advantech.
+Avec l'essor du concept d'Internet des objets, Advantech passe de fabricant traditionnel à fournisseur de solutions IoT. S'appuyant sur ses années d'expérience dans l'automatisation industrielle, la société combine son matériel existant avec les technologies cloud et l'analyse de données massives (_big data_) pour lancer des solutions complètes d'AIoT (Intelligence Artificielle de l'Internet des Objets). Le résultat emblématique de cette période est la plateforme cloud IoT industrielle WISE-PaaS, qui intègre la connectivité des équipements, la collecte de données, la visualisation analytique et une boutique d'applications (WISE-Marketplace). Via WISE-PaaS, Advantech ne vend plus seulement du matériel, mais établit un modèle de revenus par abonnement, incitant les développeurs externes à créer des applications sectorielles sur sa plateforme, formant ainsi un écosystème industriel centré sur Advantech.
 
-### L'ère de l'informatique en périphérie (2020-présent)
+### L'ère de l'Edge Computing (2020-présent)
 
-Ces dernières années, Advantech a réorienté sa stratégie vers l'AIoT et l'informatique en périphérie. En 2023, lors du 40e anniversaire de l'entreprise, le président Liu Kezhen a annoncé que la société se concentrerait sur « AIoT + Edge Computing », estimant que l'intelligence artificielle aurait un impact majeur sur l'Internet des objets[^5].
+Ces dernières années, Advantech a déplacé son centre stratégique vers l'AIoT et l'Edge Computing. Lors du 40e anniversaire de la société en 2023, le président Liu Ke-chen a annoncé que l'entreprise se concentrerait sur l'« AIoT + Edge Computing », estimant que l'intelligence artificielle aurait un impact majeur sur l'Internet des objets [^5].
 
-Cet ajustement stratégique reflète le jugement précis d'Advantech sur les tendances technologiques. Compte tenu de la confidentialité des données, de la réponse en temps réel et de la bande passante réseau, l'informatique en périphérie est devenue une technologie clé du développement de l'Internet des objets ; grâce à ses bases solides dans les systèmes embarqués, Advantech a pris une longueur d'avance dans ce domaine.
+Cet ajustement stratégique reflète la capacité d'Advantech à anticiper les tendances technologiques. Pour répondre aux enjeux de confidentialité des données, de réactivité en temps réel et de bande passante réseau, l'Edge Computing est devenu une technologie clé, domaine dans lequel Advantech prend une longueur d'avance grâce à ses solides bases en systèmes embarqués.
 
-## Influence mondiale : Taïwan sur la scène internationale
+## Influence mondiale : une vitrine internationale pour Taïwan
 
 ### Leadership technologique
 
-La position technologique d'Advantech dans les ordinateurs industriels découle d'une compréhension approfondie des besoins de ses clients. Outre les produits standardisés, l'entreprise peut également concevoir des produits sur mesure en fonction des besoins particuliers de ses clients ; cette flexibilité constitue un avantage essentiel dans la concurrence internationale.
+Le statut technologique d'Advantech repose sur une compréhension profonde des besoins clients. Outre ses produits standardisés, la société propose des conceptions personnalisées selon les exigences spécifiques de ses clients, une flexibilité qui constitue un avantage concurrentiel majeur sur le marché international.
 
-Dans le domaine de l'informatique en périphérie, Advantech coopère avec de grands groupes internationaux comme AMD pour lancer des plateformes d'informatique en périphérie à haute performance, fournissant une puissante capacité de calcul aux applications d'IA. Ces collaborations ont non seulement élevé le niveau technologique des produits, mais aussi consolidé la position importante d'Advantech dans l'écosystème.
+Dans le domaine de l'Edge Computing, Advantech collabore avec des géants internationaux tels qu'AMD pour lancer des plateformes de calcul haute performance dédiées aux applications d'IA. Ces collaborations renforcent non seulement le niveau technique des produits, mais consolident également la position cruciale d'Advantech au sein de l'écosystème technologique.
 
 ### Construction d'un écosystème industriel
 
-Par la coopération technologique et les alliances stratégiques, Advantech construit avec ses partenaires en amont et en aval un écosystème industriel de l'Internet des objets. Son rôle de liaison entre l'industrie manufacturière traditionnelle et les technologies numériques exerce désormais une influence qui dépasse Taïwan et s'étend au processus de numérisation de l'industrie manufacturière mondiale.
+Par le biais de collaborations techniques et d'alliances stratégiques, Advantech co-construit un écosystème industriel IoT avec ses partenaires en amont et en aval. Son rôle de pont entre l'industrie manufacturière traditionnelle et les technologies numériques dépasse désormais les frontières de Taïwan pour influencer le processus de numérisation de l'industrie mondiale.
 
-### Réussite de l'internationalisation de la marque
+### Succès de l'internationalisation de la marque
 
-La valeur de marque d'Advantech repose sur deux piliers : la qualité des produits et une position professionnelle dans un domaine spécifique. L'entreprise a choisi d'approfondir sa présence dans le marché relativement spécialisé des ordinateurs industriels, plutôt que de poursuivre la diversification. Aux yeux de ses pairs dans le monde, sa marque représente ainsi la fiabilité et la profondeur technologique, plutôt qu'une marque technologique généraliste.
+La valeur de la marque Advantech repose sur deux piliers : la qualité des produits et son expertise spécialisée. En choisissant de s'implanter profondément dans le marché de niche de l'informatique industrielle plutôt que de chercher une diversification excessive, la marque est devenue synonyme de fiabilité et de profondeur technologique aux yeux de ses pairs mondiaux.
 
 ## Défis et perspectives
 
-### Défis rencontrés
+### Défis à relever
 
-**Concurrence accrue sur le marché** : Avec le développement rapide du marché de l'Internet des objets, de plus en plus d'entreprises entrent dans ce domaine, y compris les géants traditionnels de l'informatique et les entreprises technologiques émergentes, la concurrence s'intensifiant de jour en jour.
+**Intensification de la concurrence** : Avec le développement rapide du marché de l'IoT, de plus en plus d'acteurs entrent en scène, des géants de l'informatique traditionnelle aux nouvelles entreprises technologiques.
 
-**Vitesse d'évolution technologique** : Les nouvelles technologies telles que l'IA, la 5G, l'informatique en périphérie évoluent rapidement, exigeant des entreprises qu'elles investissent d'importantes ressources en R&D pour suivre le rythme.
+**Vitesse d'évolution technologique** : L'évolution rapide de l'IA, de la 5G et de l'Edge Computing exige des investissements massifs en R&D pour rester compétitif.
 
-**Défis de la chaîne d'approvisionnement** : L'incertitude de la chaîne d'approvisionnement mondiale, en particulier les fluctuations de l'approvisionnement en composants clés tels que les semi-conducteurs, a un impact majeur sur l'industrie manufacturière.
+**Défis de la chaîne d'approvisionnement** : L'incertitude des chaînes d'approvisionnement mondiales, notamment les fluctuations de l'offre de composants critiques comme les semi-conducteurs, impacte fortement le secteur manufacturier.
 
-**Évolution des besoins des clients** : Avec l'approfondissement de la transformation numérique, les clients ont besoin non seulement de produits matériels, mais aussi de services logiciels et de solutions, ce qui exige des entreprises des capacités plus complètes.
+**Évolution des besoins clients** : Avec l'approfondissement de la transformation numérique, les clients ne demandent plus seulement du matériel, mais aussi des services logiciels et des solutions intégrées, exigeant une polyvalence accrue de l'entreprise.
 
 ### Perspectives d'avenir
 
-La stratégie d'Advantech se concentre sur quatre axes : l'extension des applications d'IA en périphérie, la transition d'une approche produit vers une approche service (augmentation des revenus provenant des abonnements logiciels et de l'analyse de données), l'expansion du programme de partenariats, et les objectifs de fabrication verte dans le cadre ESG. La transformation vers les services est la plus difficile, car l'avantage traditionnel d'Advantech réside dans le matériel, tandis que les services logiciels nécessitent un modèle commercial et des capacités de vente radicalement différents.
+La stratégie d'Advantech se concentre sur quatre axes : l'extension des applications d'IA en périphérie (_Edge AI_), le passage d'une orientation produit à une orientation service (augmentation des revenus liés aux abonnements logiciels et à l'analyse de données), l'expansion des programmes de partenariat, et les objectifs de fabrication verte dans le cadre de l'ESG. La transition vers les services est la plus complexe, car l'avantage historique d'Advantech réside dans le matériel, tandis que les services logiciels requièrent des modèles commerciaux et des capacités de vente radicalement différents.
 
-De la création en 1983 par trois ingénieurs de HP à une présence dans 27 pays et une position de leader sur le marché de l'informatique industrielle, Advantech constitue un cas concret de marque propre de l'industrie high-tech de Taïwan. À l'occasion de son 40e anniversaire en 2023, le président Liu Kezhen a annoncé une focalisation sur « l'AIoT + Edge Computing », reflétant le jugement lucide d'Advantech sur son propre positionnement : à l'ère où la souveraineté des données et la demande de calcul en temps réel sont en forte hausse, l'accumulation profonde dans les systèmes embarqués constitue un fossé concurrentiel irremplaçable.
+Le parcours d'Advantech, depuis sa création en 1983 par trois ingénieurs d'HP jusqu'à sa position actuelle de leader mondial présente dans 27 pays, illustre la capacité de Taïwan à bâtir des marques autonomes dans le secteur de la haute technologie. En affirmant sa stratégie « AIoT + Edge Computing » pour son 40e anniversaire, Liu Ke-chen a démontré une vision lucide : à l'ère où la souveraineté des données et les besoins de calcul en temps réel explosent, l'expertise accumulée dans les systèmes embarqués constitue un rempart concurrentiel irremplaçable.
 
 ---
 
-**Lectures complémentaires** :
+**Lecture complémentaire** :
 
-- [Programme d'incubation AAMA de Taipei](/fr/economy/aama-taipei-cradle-program) : La Fondation Advantech est l'un des donateurs ayant permis la transformation en fondation de ce programme de mentorat entrepreneurial, le président Liu Kezhen ayant également servi de mentor au programme, les deux entités promouvant conjointement le « Programme de co-création d'entreprises AIoT AAMA »
+- [Programme AAMA Taipei Cradle](/fr/economy/aama-taipei-cradle-program) : La Fondation Advantech pour la culture et l'éducation est l'un des donateurs de ce programme de mentorat entrepreneurial ; le président Liu Ke-chen a également servi de mentor, les deux entités collaborant pour promouvoir le « Programme de co-création d'entreprises AAMA AIoT ».
 
 ## Références
 
-[^1]: [Anciens élèves remarquables de l'Université nationale Chiao Tung — Liu Kezhen](https://www.nctu.edu.tw/outstanding/) — Liu Kezhen est diplômé du département de génie des télécommunications de l'Université nationale Chiao Tung et fait partie des anciens élèves remarquables de l'établissement
+[^1]: [Alumni distingués de l'Université nationale de Jiaotong — Liu Ke-chen](https://www.nctu.edu.tw/outstanding/) — Liu Ke-chen est diplômé du département de génie des télécommunications de l'Université nationale de Jiaotong.
 
-[^2]: [Scientific American Taïwan — Entretien avec Liu Kezhen](https://www.scitw.cc/posts/SCIENTIFIC-ENTREPRENEURS-267) — Avant de fonder son entreprise, Liu Kezhen a été ingénieur commercial (Sales Engineer) dans la division des instruments de Hewlett-Packard Taïwan
+[^2]: [Magazine Science Human — Entretien avec Liu Ke-chen](https://www.scitw.cc/posts/SCIENTIFIC-ENTREPRENEURS-267) — Avant de fonder son entreprise, Liu Ke-chen était ingénieur commercial (_Sales Engineer_) au sein de la division instruments d'HP à Taïwan.
 
-[^3]: [Relations investisseurs d'Advantech](https://www.advantech.com/zh-tw/investor-relations/) — Au premier semestre 2024, Advantech a réalisé un chiffre d'affaires de 28,523 milliards de nouveaux dollars taïwanais, avec une marge brute de 40,2 %, en recul de 17 % par rapport à la même période de l'année précédente
+[^3]: [Relations investisseurs d'Advantech](https://www.advantech.com/zh-tw/investor-relations/) — Le chiffre d'affaires d'Advantech pour le premier semestre 2024 s'est élevé à NT$28,523 milliards avec une marge brute de 40,2 %, soit une baisse de 17 % sur un an.
 
-[^4]: [Site officiel d'Advantech](https://www.advantech.com/zh-tw) — Advantech a été officiellement cotée à la Bourse de Taïwan en 1999, sous le code boursier 2395
+[^4]: [Site officiel d'Advantech](https://www.advantech.com/zh-tw) — Advantech a été officiellement cotée à la Bourse de Taïwan en 1999 sous le code 2395.
 
-[^5]: [Business Next — Advantech accélère la transformation des ordinateurs industriels et se concentre sur AIoT + informatique en périphérie (2023)](https://www.bnext.com.tw/) — En 2023, pour le 40e anniversaire d'Advantech, Liu Kezhen a déclaré que l'entreprise se concentrerait sur l'orientation stratégique « AIoT + Edge Computing »
+[^5]: [Digital Times — Advantech transforme l'informatique industrielle, se concentre sur l'AIoT + Edge Computing (2023)](https://www.bnext.com.tw/) — Pour le 40e anniversaire d'Advantech en 2023, Liu Ke-chen a annoncé la stratégie « AIoT + Edge Computing ».
 
-_Dernière date de vérification de cet article : 20 mars 2026_
+_Dernière vérification de l'article : 20 mars 2026_

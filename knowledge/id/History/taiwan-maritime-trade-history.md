@@ -1,12 +1,12 @@
 ---
-title: 'Sejarah Perdagangan Laut Taiwan'
-description: 'Taiwan di Era Pelayaran Besar, dari pusat perdagangan internasional ke legenda bangkit dan runtuhnya kerajaan bajak laut'
+title: 'Sejarah Perdagangan Maritim Taiwan'
+description: 'Pada era penjelajahan abad ke-16 dan 17, pulau ini bukanlah pulau terpencil di pinggiran Asia Timur, melainkan pusat perdagangan penting yang menghubungkan Tiongkok, Jepang, dan Asia Tenggara: VOC membangun Fort Zeelandia di Tainan, mengimpor sutra mentah, keramik, dan teh dari Tiongkok, perak dari Jepang, serta rempah-rempah dan kayu dari Asia Tenggara untuk ditransitkan di sini, menjadikannya Amsterdam-nya Asia Timur; Dinasti Zheng bahkan menciptakan hegemoni laut, menuliskan sejarah pasang surut dari pusat perdagangan menjadi kerajaan bajak laut.'
 date: 2026-03-20
 category: 'History'
 tags:
   [
-    'perdagangan laut',
-    'era pelayaran besar',
+    'perdagangan maritim',
+    'era penjelajahan',
     'perdagangan internasional',
     'bajak laut',
     'kota pelabuhan',
@@ -20,106 +20,106 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T20:19:11+08:00'
+translatedAt: '2026-10-15T20:18:00+08:00'
 ---
 
-# Sejarah Perdagangan Laut Taiwan
+# Sejarah Perdagangan Maritim Taiwan
 
-Pada abad ke-16 dan ke-17, di era Pelayaran Besar, Taiwan bukan pulau kecil di pinggiran Asia Timur, melainkan pusat perdagangan vital yang menghubungkan Tiongkok, Jepang, dan Asia Tenggara. Dari basis perdagangan internasional orang Belanda, ke kekuasaan laut dinasti Zheng, Taiwan pernah menjadi salah satu pusat komersial paling makmur di lautan Asia Timur.
+Pada era penjelajahan abad ke-16 dan 17, Taiwan bukanlah pulau kecil di pinggiran Asia Timur, melainkan pusat perdagangan penting yang menghubungkan Tiongkok, Jepang, dan Asia Tenggara. Dari basis perdagangan internasional Belanda hingga hegemoni laut Dinasti Zheng, Taiwan pernah menjadi salah satu pusat komersial paling makmur di perairan Asia Timur.
 
-## Era Prasejarah: Gen Maritim Budaya Austronesia
+## Zaman Prasejarah: Gen Maritim Budaya Austronesia
 
-Jauh sebelum orang Belanda tiba, penduduk asli Taiwan sudah menunjukkan kemampuan maritim yang luar biasa. Temuan arkeologi menunjukkan, 3.000 tahun yang lalu Taiwan sudah memiliki jaringan perdagangan batu dan keramik yang canggih, bahkan menjangkau Filipina, Vietnam, dan tempat lain.
+Jauh sebelum kedatangan bangsa Belanda, penduduk asli Taiwan telah menunjukkan kemampuan maritim yang luar biasa. Temuan arkeologis menunjukkan bahwa sejak 3.000 tahun lalu, Taiwan telah memiliki jaringan perdagangan alat batu dan tembikar yang canggih, bahkan menjangkau tempat-tempat seperti Filipina dan Vietnam.
 
-Teknologi pembuatan perahu papan (tatara) suku Tao (Yami) menunjukkan pemahaman mendalam penduduk asli Taiwan terhadap lautan. Mereka tidak hanya membangun perahu, tetapi juga mengembangkan sistem pengetahuan maritim yang kompleks, meliputi arus laut, monsun, dan pola migrasi ikan. Gen budaya maritim ini menjadi fondasi bagi Taiwan menjadi pusat perdagangan di kemudian hari.
+Teknik pembuatan perahu cadik (outrigger) suku Tao (達悟族) menunjukkan pemahaman mendalam penduduk asli Taiwan terhadap laut. Mereka tidak hanya pandai membuat kapal, tetapi juga mengembangkan sistem pengetahuan kelautan yang kompleks, termasuk arus laut, angin muson, dan pola migrasi ikan. Gen budaya maritim ini meletakkan dasar bagi Taiwan untuk menjadi pusat perdagangan di kemudian hari.
 
-## Era Belanda: Emas Perdagangan Asia Timur
+## Era Belanda: Zaman Keemasan Perdagangan Asia Timur
 
-### Fort Zeelandia: Amsterdam Asia Timur
+### Fort Zeelandia: Amsterdam-nya Asia Timur
 
-Tahun 1624, Vereenigde Oostindische Compagnie (VOC) mendirikan Fort Zeelandia di Tainan, menjadikan Taiwan inti jaringan perdagangan Asia Timur. Pemilihan Taiwan oleh orang Belanda bukan kebetulan, melainkan hasil perhitungan matang.
+Pada tahun 1624, VOC (Perusahaan Hindia Timur Belanda) mendirikan Fort Zeelandia di Tainan, menjadikan Taiwan sebagai inti dari jaringan perdagangan Asia Timur. Pilihan bangsa Belanda terhadap Taiwan bukanlah sebuah kebetulan, melainkan hasil perhitungan yang matang.
 
-Taiwan terletak di posisi tengah antara Tiongkok, Jepang, dan Asia Tenggara, memiliki keuntungan geografis yang luar biasa. Lebih penting lagi, Dinasti Ming menerapkan kebijakan larangan laut (haijin), pedagang Tiongkok tidak bisa berdagang langsung, harus melalui tempat ketiga untuk transhipment. Taiwan menjadi pusat operasional ekonomi bawah tanah masif ini.
+Taiwan terletak di posisi sentral antara Tiongkok, Jepang, dan Asia Tenggara, memberikan keuntungan geografis yang luar biasa. Yang lebih penting, Dinasti Ming menerapkan kebijakan larangan laut (sea ban), sehingga pedagang Tiongkok tidak dapat berdagang secara langsung dan harus menggunakan pihak ketiga untuk transit. Taiwan pun menjadi pusat operasi ekonomi bawah tanah yang masif ini.
 
-Orang Belanda membangun sistem perdagangan yang presisi. Mereka mengimpor sutra mentah, keramik, dan teh dari Tiongkok; batangan perak dari Jepang; rempah-rempah dan kayu dari Asia Tenggara; lalu memproses, mengemas, dan mengangkutnya kembali di Taiwan. Gudang Fort Zeelandia penuh dengan barang-barang berharga dari berbagai tempat.
+Bangsa Belanda membangun sistem perdagangan yang sangat presisi. Mereka mengimpor sutra mentah, keramik, dan teh dari Tiongkok; perak dari Jepang; serta rempah-rempah dan kayu dari Asia Tenggara, kemudian melakukan pengolahan, pengemasan, dan transit di Taiwan. Gudang-gudang di Fort Zeelandia dipenuhi dengan komoditas berharga dari berbagai penjuru dunia.
 
-### Bangkitnya Kerajaan Gula
+### Kebangkitan Kerajaan Gula
 
-Orang Belanda tidak hanya melakukan perdagangan transhipment, tetapi juga mengembangkan industri lokal. Mereka menemukan iklim Taiwan sangat cocok untuk menanam tebu, lalu agresif mempromosikan industri gula. Teknologi pembuatan gula Taiwan meningkat pesat di bawah bimbingan orang Belanda, gula tebu yang dihasilkan berkualitas tinggi dan sangat diminati pasar Jepang.
+Bangsa Belanda tidak hanya melakukan perdagangan transit, tetapi juga mengembangkan industri lokal. Mereka menemukan bahwa iklim Taiwan sangat cocok untuk penanaman tebu, sehingga mereka gencar mempromosikan industri gula. Di bawah bimbingan Belanda, teknologi pembuatan gula di Taiwan meningkat pesat, menghasilkan gula berkualitas tinggi yang sangat diminati oleh pasar Jepang.
 
-Pada 1650-an, produksi gula tahunan Taiwan mencapai jutaan catty (jin), menjadikannya basis gula terbesar di Asia Timur. Setiap hari pelabuhan Anping dipadati kapal-kapal muatan gula tebu berlayar ke Jepang dan berbagai tempat di Asia Tenggara. Industri gula tidak hanya mendatangkan kekayaan, tetapi juga menarik gelombang besar imigran dari Tiongkok, membentuk agglomerasi industri paling awal di Taiwan.
+Pada tahun 1650-an, produksi gula tahunan Taiwan mencapai jutaan kati, menjadikannya basis industri gula terbesar di Asia Timur. Setiap hari, kapal-kapal yang penuh dengan gula keluar dari Pelabuhan Anping menuju Jepang dan berbagai wilayah di Asia Tenggara. Industri gula tidak hanya membawa kekayaan, tetapi juga menarik gelombang besar migran Tionghoa, membentuk pemukiman industri awal di Taiwan.
 
-## Era Ming-Zheng: Puncak Kerajaan Laut
+## Era Ming Zheng: Puncak Kerajaan Laut
 
-### Zheng Zhilong: Pendiri Kekaisaran Pedagang Laut
+### Zheng Zhilong: Peletak Dasar Imperium Dagang Laut
 
-Ayah Koxinga, Zheng Zhilong (鄭芝龍), sebenarnya adalah tokoh kunci dalam sejarah perdagangan laut Taiwan. Awalnya ia seorang pedagang laut (haishang), kemudian diamanahi oleh Dinasti Ming, dan menguasai seluruh jaringan perdagangan di pesisir tenggara Tiongkok.
+Ayah dari Zheng Chenggong, yaitu Zheng Zhilong (鄭芝龍), sebenarnya adalah tokoh kunci dalam sejarah perdagangan maritim Taiwan. Ia berasal dari latar belakang pedagang laut, yang kemudian direkrut oleh Dinasti Ming dan mengendalikan seluruh jaringan perdagangan di pesisir tenggara Tiongkok.
 
-Kekaisaran bisnis Zheng Zhilong sangat masif, dengan ribuan kapal dan puluhan ribu pelaut di bawah komandonya. Ia menetapkan aturan perdagangan laut, menerbitkan surat izin lewat, dan memungut biaya perlindungan. Setiap kapal dagang yang ingin berlayar di pesisir tenggara harus memperoleh izin dari kelompok Zheng. Sistem ini meski terlihat seperti "bajak memungut biaya perlindungan", sebenarnya menyediakan tatanan laut yang efektif.
+Imperium bisnis Zheng Zhilong sangatlah besar, dengan ribuan kapal dan puluhan ribu pelaut di bawah komandonya. Ia menetapkan aturan perdagangan laut, menerbitkan pas jalan, dan memungut biaya perlindungan. Setiap kapal dagang yang ingin berlayar di pesisir tenggara harus mendapatkan izin dari kelompok Zheng. Meskipun sistem ini tampak seperti "bajak laut yang memungut uang perlindungan", pada kenyataannya ia menyediakan tatanan maritim yang efektif.
 
-### Koxinga: Basis Laut untuk Anti-Qing Pro-Ming
+### Zheng Chenggong: Basis Laut untuk Memulihkan Ming
 
-Tahun 1661, Koxinga (鄭成功) mengusir orang Belanda dan mendirikan dinasti Ming-Zheng. Baginya, Taiwan bukan hanya basis untuk gerakan anti-Qing pro-Ming, melainkan jalur hayat ekonomi untuk memelihara tentara masifnya.
+Pada tahun 1661, Zheng Chenggong (鄭成功) mengusir bangsa Belanda dan mendirikan Dinasti Ming Zheng. Baginya, Taiwan bukan sekadar basis untuk memulihkan Dinasti Ming dari kekuasaan Qing, tetapi juga urat nadi ekonomi untuk mempertahankan pasukan yang besar.
 
-Rezim Zheng melanjutkan tradisi perdagangan era Belanda, namun dengan skala lebih besar. Mereka menguasai lautan luas dari Taiwan, Penghu, Kinmen hingga pesisir Fujian, membentuk sebuah kerajaan laut yang sesungguhnya. Armada Zheng tidak hanya berdagang, tetapi juga menyediakan jasa konvoi, transportasi, dan keuangan, menjadikannya hegemon lautan Asia Timur.
+Rezim Zheng melanjutkan tradisi perdagangan era Belanda, namun dalam skala yang lebih besar. Mereka mengendalikan wilayah laut yang luas mulai dari Taiwan, Penghu, dan Kinmen hingga pesisir Fujian, membentuk sebuah kerajaan laut yang sesungguhnya. Armada Zheng tidak hanya melakukan perdagangan, tetapi juga menyediakan layanan pengawalan, transportasi, dan keuangan, menjadikannya penguasa di perairan Asia Timur.
 
-### Kerajaan Tungning: Venesia Asia
+### Kerajaan Dongning: Venesia dari Asia
 
-Era Zheng Jing (鄭經) adalah masa emas perdagangan laut Ming-Zheng. Kerajaan Tungning memiliki hubungan perdagangan erat dengan Jepang, Asia Tenggara, negara-negara Nanyang, bahkan menjangkau Samudra Hindia. Tainan menjadi Venesia Asia, pedagang dari berbagai negara berkumpul, berbagai bahasa bercampur aduk, menampilkan pemandangan internasionalisasi yang belum pernah terjadi sebelumnya.
+Era Zheng Jing adalah masa keemasan perdagangan maritim Ming Zheng. Kerajaan Dongning memiliki hubungan dagang yang erat dengan Jepang, Asia Tenggara, dan negara-negara di Nusantara, bahkan hingga mencapai Samudra Hindia. Tainan menjadi Venesia dari Asia, tempat berkumpulnya pedagang dari berbagai negara dengan beragam bahasa, menampilkan pemandangan internasionalisasi yang belum pernah terjadi sebelumnya.
 
-Rezim Zheng juga menerbitkan uang sendiri, membangun sistem pajak yang lengkap. Mereka memungut pajak pada barang dagang dan biaya pelabuhan pada kapal, pendapatan sangat besar. Menurut catatan, penerimaan tahunan Taiwan pada era Ming-Zheng mencapai jutaan tael perak, kekuatan ekonominya tidak boleh diremehkan.
+Rezim Zheng juga menerbitkan mata uang sendiri dan membangun sistem perpajakan yang lengkap. Mereka mengenakan pajak pada barang dagangan dan biaya pelabuhan pada kapal-kapal, menghasilkan pendapatan yang sangat besar. Tercatat bahwa pada masa Ming Zheng, pendapatan tahunan Taiwan mencapai jutaan tael perak, menunjukkan kekuatan ekonomi yang tidak bisa diremehkan.
 
-## Larangan Laut Dinasti Qing: Putusnya Jaringan Perdagangan
+## Larangan Laut Dinasti Qing: Terputusnya Jaringan Perdagangan
 
-### Dampak Kebijakan Qianhai (Pindah Laut)
+### Dampak Kebijakan Relokasi Pesisir
 
-Setelah pasukan Qing merebut Taiwan tahun 1683, mereka menerapkan kebijakan larangan laut yang ketat. Pengadilan Qing menganggap perdagangan laut Taiwan sebagai tindakan "berkomunikasi dengan musuh" (tongdi), yang harus dikendalikan ketat. Mereka merobohkan fasilitas pelabuhan pesisir, membatasi kapal keluar laut, dan melarang rakyat berdagang dengan asing.
+Setelah pasukan Qing menaklukkan Taiwan pada tahun 1683, mereka menerapkan kebijakan larangan laut yang ketat. Pemerintah Qing menganggap perdagangan maritim Taiwan sebagai tindakan "bekerja sama dengan musuh" yang harus dikendalikan secara ketat. Mereka membongkar fasilitas pelabuhan di pesisir, membatasi kapal untuk melaut, dan melarang keras perdagangan antara warga sipil dengan pihak asing.
 
-Kebijakan ini memberikan dampak bencana bagi Taiwan. Pelabuhan-pelabuhan yang semula makmur dengan cepat merosot, pedagang internasional berlalu, jaringan perdagangan runtuh total. Tainan dari pusat perdagangan internasional berubah jadi kota prefecture (fucheng) terpencil, Pelabuhan Anping dari sibuk penuh aktivitas berubah jadi desa nelayan suram.
+Kebijakan ini memberikan pukulan bencana bagi Taiwan. Pelabuhan-pelabuhan yang semula makmur merosot dengan cepat, pedagang internasional pergi meninggalkan wilayah tersebut, dan jaringan perdagangan pun runtuh. Tainan berubah dari pusat perdagangan internasional menjadi ibu kota prefektur yang terpencil, dan Pelabuhan Anping berubah dari pelabuhan yang ramai menjadi desa nelayan yang sunyi.
 
-### Bangkitnya Perdagangan Gelap
+### Bangkitnya Perdagangan Selundupan
 
-Namun kebijakan larangan laut tidak sepenuhnya memutus perdagangan laut Taiwan. Didorong oleh keuntungan ekonomi masif, perdagangan gelap justru makin merajalela. Di pesisir Taiwan muncul tak terhitung jumlah pelabuhan kecil yang khusus menangani perdagangan ilegal.
+Namun, kebijakan larangan laut tidak dapat sepenuhnya memutus perdagangan maritim Taiwan. Didorong oleh keuntungan ekonomi yang besar, perdagangan selundupan justru semakin merajalela. Muncul banyak pelabuhan kecil di sepanjang pesisir Taiwan yang khusus melakukan perdagangan ilegal.
 
-Lugang, Danshui, Jilong (Keelung) dan lain-lain menjadi jalur utama perdagangan gelap. Pedagang memanfaatkan malam dan hari berkabut untuk transaksi, menghindari razia pemerintah. Perdagangan bawah tanah ini meski skala lebih kecil, tetapi melanjutkan tradisi perdagangan laut Taiwan.
+Lokach (鹿港), Tamsui (淡水), dan Keelung (雞籠) menjadi jalur utama penyelundupan. Para pedagang memanfaatkan malam hari atau cuaca berkabut untuk bertransaksi guna menghindari pemeriksaan pemerintah. Meskipun skalanya lebih kecil, perdagangan bawah tanah ini berhasil melanjutkan tradisi perdagangan maritim Taiwan.
 
 ## Pembukaan Pelabuhan: Kembali ke Panggung Internasional
 
-### 1860: Peluang Baru yang Dipaksakan
+### 1860: Peluang Baru yang Terpaksa Dibuka
 
-Setelah penandatanganan Perjanjian Tianjin (天津條約) tahun 1860, empat pelabuhan—Danshui, Anping, Kaohsiung, Keelung—dipaksa dibuka. Meski dibuka di bawah tekanan asing, bagi Taiwan ini adalah peluang untuk kembali ke panggung perdagangan internasional.
+Setelah penandatanganan Perjanjian Tianjin pada tahun 1860, empat pelabuhan yaitu Tamsui, Anping, Kaohsiung, dan Keelung dipaksa untuk dibuka. Meskipun pembukaan ini terjadi di bawah tekanan asing, bagi Taiwan hal ini merupakan kesempatan untuk kembali ke panggung perdagangan internasional.
 
-Pedagang Inggris John Dodd datang ke Dadaocheng (大稻埕), mendirikan bisnis ekspor teh. Ia menemukan teh oolong Taiwan berkualitas sangat baik, sangat cocok untuk diekspor. Di bawah dorongannya, teh Taiwan dengan cepat memasuki pasar internasional, menjadi komoditas ekspor penting.
+Pedagang Inggris, John Bowden, datang ke Dadaocheng (大稻埕) dan membangun bisnis ekspor teh. Ia menemukan bahwa teh oolong Taiwan memiliki kualitas yang sangat baik dan sangat cocok untuk ekspor. Berkat dorongannya, teh Taiwan dengan cepat menembus pasar internasional dan menjadi komoditas ekspor utama.
 
-### Bangkitnya Kerajaan Kamper
+### Kebangkitan Kerajaan Kamper
 
-Selain teh, kamper Taiwan juga menjadi barang incar internasional. Kamper adalah bahan baku penting untuk bedak meriam (senjata api tanpa asap) dan film seluloid, permintaannya sangat besar. Sumber pohon kamper di pegunungan Taiwan melimpah dan berkualitas tinggi, dengan cepat monopoli pasar kamper dunia.
+Selain teh, kamper (camphor) dari Taiwan juga menjadi barang yang sangat dicari di dunia internasional. Kamper adalah bahan baku penting dalam pembuatan bubuk mesiu tanpa asap dan film film seluloid, sehingga permintaannya sangat tinggi. Sumber daya pohon kamper di pegunungan Taiwan sangat melimpah dengan kualitas unggul, sehingga segera memonopoli pasar kamper dunia.
 
-Saat Liu Mingchuan (劉銘傳) menjabat Gubernur Taiwan (xunfu), ia menjadikan kamper usaha monopoli negara. Pemerintah mengendalikan ketat perdagangan kamper, memperoleh keuntungan melimpah. Pendapatan kamper menjadi sumber dana vital untuk pembangunan modernisasi Taiwan: membangun rel kereta api, membangun pelabuhan, memasang kabel telepon/telegraf.
+Saat Liu Ming-chuan (劉銘傳) menjabat sebagai Gubernur Taiwan, ia menetapkan kamper sebagai bisnis monopoli negara. Pemerintah mengendalikan perdagangan kamper dengan ketat dan memperoleh keuntungan yang besar. Pendapatan dari kamper menjadi sumber dana penting bagi pembangunan modernisasi Taiwan, seperti pembangunan jalan kereta api, pelabuhan, dan jaringan listrik.
 
-## Era Pendudukan Jepang: Emas Perdagangan Kolonial
+## Era Penjajahan Jepang: Zaman Keemasan Perdagangan Kolonial
 
-Setelah Jepang memerintah Taiwan, mereka memasukkan Taiwan ke dalam kebijakan "maju ke selatan" (nanshin-ron). Taiwan kembali menjadi stasiun transit perdagangan yang menghubungkan Jepang dan Asia Tenggara, namun kali ini beroperasi di dalam kerangka sistem kolonial.
+Setelah Jepang menguasai Taiwan, mereka memasukkan Taiwan ke dalam bagian dari kebijakan ekspansi ke selatan (Nanshin-ron). Taiwan kembali menjadi titik transit perdagangan yang menghubungkan Jepang dan Asia Tenggara, namun kali ini beroperasi di bawah kerangka sistem kolonial.
 
-Pelabuhan Keelung dan Kaohsiung di bawah pengelolaan Jepang dengan cepat dimodernisasi, menjadi pelabuhan air dalam penting di Asia Timur. Industri gula dan beras Taiwan tumbuh pesat dengan suntikan modal Jepang, produknya terutama memasok Jepang proper dan pasar Nanyang.
+Pelabuhan Keelung dan Pelabuhan Kaohsiung mengalami modernisasi pesat di bawah pengelolaan Jepang, menjadi pelabuhan laut dalam yang penting di Asia Timur. Industri gula dan beras Taiwan tumbuh pesat dengan investasi modal Jepang, dengan produk utama dipasok ke daratan Jepang dan pasar Nusantara.
 
-Meski merupakan perdagangan kolonial, secara objektif hal ini meningkatkan fasilitas pelabuhan dan kemampuan perdagangan Taiwan. Infrastruktur ini meletakkan fondasi penting untuk perkembangan ekonomi Taiwan pasca-perang.
+Meskipun merupakan perdagangan kolonial, secara objektif hal ini meningkatkan fasilitas pelabuhan dan kemampuan perdagangan Taiwan. Infrastruktur ini meletakkan dasar penting bagi perkembangan ekonomi Taiwan pasca-perang.
 
-## Pelajaran Kontemporer untuk Taiwan Maritim
+## Inspirasi Kontemporer dari Taiwan Maritim
 
-Meninjau kembali sejarah perdagangan laut Taiwan, kita melihat satu fakta penting: Taiwan tidak pernah menjadi pulau tertutup, melainkan negara maritim yang terbuka. Baik pusat perdagangan internasional era Belanda, maupun kerajaan laut era Ming-Zheng, Taiwan menunjukkan kemampuan maritim yang luar biasa.
+Meninjau kembali sejarah perdagangan maritim Taiwan, kita melihat sebuah fakta penting: Taiwan tidak pernah menjadi pulau yang tertutup, melainkan negara maritim yang terbuka. Baik sebagai pusat perdagangan internasional pada era Belanda maupun kerajaan laut pada era Ming Zheng, Taiwan telah menunjukkan kemampuan maritim yang luar biasa.
 
-Taiwan hari ini tetap menjadi hub perdagangan vital di wilayah Asia-Pasifik, Pelabuhan Kaohsiung, Pelabuhan Taipei, Pelabuhan Keelung melanjutkan tradisi maritim ratusan tahun. Gen maritim kita tidak hilang, hanya perlu dibangunkan kembali.
+Taiwan hari ini tetap menjadi pusat perdagangan penting di kawasan Asia-Pasifik; Pelabuhan Kaohsiung, Pelabuhan Taipei, dan Pelabuhan Keelung meneruskan tradisi maritim selama ratusan tahun. Gen maritim kita tidak hilang, ia hanya perlu dibangkitkan kembali.
 
-Menghadapi tantangan abad ke-21, Taiwan mungkin harus memikirkan kembali identitas maritimnya. Kita bukan sekadar pulau di pinggiran Tiongkok, melainkan jembatan yang menghubungkan kedua sisi Pasifik. Mungkin inilah pelajaran paling penting yang diberikan sejarah perdagangan laut Taiwan.
+Menghadapi tantangan abad ke-21, Taiwan mungkin perlu memikirkan kembali identitas maritimnya. Kita bukan sekadar pulau di pinggiran Tiongkok, melainkan jembatan yang menghubungkan kedua sisi Samudra Pasifik. Inilah mungkin inspirasi terpenting yang diberikan oleh sejarah perdagangan maritim Taiwan kepada kita.
 
 ---
 
 Bacaan Lanjutan:
 
-- [Era Belanda-Spanyol-Ming-Zheng](/id/history/dutch-spanish-and-koxinga-era)
-- [Era Qing](/id/history/qing-dynasty-rule)
-- [Topografi Pesisir dan Lanskap Lautan Taiwan](/id/geography/taiwan-coastal-landforms-and-seascapes)
+- [Era Ming Zheng di Kepulauan Barat (荷西明鄭時期)](/id/history/dutch-spanish-and-koxinga-era)
+- [Era Pemerintahan Qing (清治時期)](/id/history/qing-dynasty-rule)
+- [Topografi Pesisir dan Lanskap Laut Taiwan (台灣海岸地形與海洋地景)](/id/geography/taiwan-coastal-landforms-and-seascapes)

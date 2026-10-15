@@ -1,220 +1,220 @@
 ---
 title: 'Compal Electronics'
-description: 'The world’s second-largest notebook ODM leader and a key driver of Taiwan’s ODM industry'
+description: "Founded in 1984 and part of the Kimpo Group, this major Taiwanese ODM manufacturer accounts for over 20-25% of the global laptop market share; it represents Taiwan's industrial evolution from OEM to design-led manufacturing in AI, 5G, and automotive electronics."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
+tags: ['Economy', 'Enterprise', 'Electronics Manufacturing', 'ODM']
 subcategory: '企業列傳'
-tags: ['Economy', 'Companies', 'Electronics Contract Manufacturing', 'ODM']
+author: 'Taiwan.md'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0a05f936441dbbcf'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:42e5977dc5bcc26b'
 sourceBodyHash: 'sha256:aead7a66c3b88ec5'
-translatedAt: '2026-05-15T13:52:05+08:00'
+translatedAt: '2026-10-15T20:18:28+08:00'
 ---
 
-# Compal Electronics: A Global ODM Giant Behind the Scenes
+# Compal Electronics: The Hidden ODM Giant of the Global Market
 
 > **30-Second Overview**
 >
-> Compal Electronics is Taiwan’s second-largest notebook ODM manufacturer, with an estimated global market share of about 20-25%. The Dell, Lenovo, or Acer laptop you use may well have been made by Compal. Founded in 1984, the company grew from a small manufacturer of electronic calculator components into a technology giant with annual revenue exceeding NT$100 billion. It is a representative case of Taiwan’s shift from contract manufacturing toward design and manufacturing, as well as a hidden champion that supports the global information-technology supply chain.
+> Compal Electronics is Taiwan's second-largest notebook computer ODM (Original Design Manufacturer), holding a global market share of approximately 20-25%. The Dell, Lenovo, or Acer laptops you use were likely produced by Compal. Founded in 1984, the company has evolved from a small manufacturer of electronic calculator parts into a tech giant with annual revenues exceeding NT$100 billion. It is a quintessential example of Taiwan's transition from mere assembly to design and manufacturing, serving as an invisible champion supporting the global information industry supply chain.
 
-## Why Does Compal Electronics Matter?
+## Why is Compal Electronics Important?
 
-Discussions of Taiwan’s technology industry often focus on TSMC’s semiconductor manufacturing or Hon Hai’s assembly and contract-manufacturing operations, while overlooking another equally critical link: ODMs, or original design manufacturers. Compal Electronics is one of the leading firms in this field. It is not merely responsible for “manufacturing”; it also takes on the work of “design.”
+When discussing Taiwan's technology industry, people often focus on TSMC's semiconductor manufacturing or Hon Hai (Foxconn)'s assembly services, but they frequently overlook another equally critical link: ODM (Original Design Manufacturer). Compal Electronics is a leader in this field; it does not merely "manufacture," but also bears the responsibility of "design."
 
-When you open a laptop bearing the Dell, Lenovo, or Acer brand, you may very likely be using a product designed and manufactured by Compal. This role as a “behind-the-scenes hero” has made Compal an indispensable part of the global information-technology ecosystem. According to industry estimates, more than 80% of the world’s notebook computers come from Taiwanese contract manufacturers, with Compal ranking second globally at roughly 20-25% market share.
+When you open a laptop branded as Dell, Lenovo, or Acer, you are likely using a product designed and manufactured by Compal. This "behind-the-scenes hero" role makes Compal an indispensable part of the global information industry ecosystem. According to industry statistics, over 80% of the world's notebooks come from Taiwanese manufacturers, with Compal ranking second with a global market share of approximately 20-25%.
 
-Compal’s development mirrors the transformation of Taiwan’s manufacturing sector: from early OEM, or original equipment manufacturing, to ODM, or design manufacturing, and now toward emerging fields such as AI, 5G, and electric vehicles. Its trajectory demonstrates the resilience of Taiwanese firms in innovation and transformation.
+Compal's development trajectory reflects the transformation of Taiwan's manufacturing sector—evolving from early OEM (Original Equipment Manufacturing) to ODM (design and manufacturing), and now expanding into emerging fields such as AI, 5G, and automotive electronics, demonstrating the resilience of Taiwanese enterprises in innovation and transformation.
 
-## Company Overview: From Calculators to Full-Spectrum Technology Services
+## Corporate Overview: From Calculators to Comprehensive Tech Services
 
-**Compal Electronics, Inc.** (stock code: 2324), founded in 1984, is part of the Kinpo-Compal Group and is one of Taiwan’s major ODM manufacturers[^5]. Headquartered in Taipei, the company has built a production and service network spanning Asia, the Americas, and Europe.
+**Compal Electronics, Inc.** (股票代號: 2324) was founded in 1984 and is a member of the Kimpo Group, making it one of Taiwan's primary ODM manufacturers[^5]. Headquartered in Taipei, the company has established a global production and service network spanning Asia, the Americas, and Europe.
 
 ### Core Business Areas
 
-Compal’s business scope has expanded from traditional notebook manufacturing into a diversified portfolio of technology products and services:
+Compal's business scope has expanded from traditional notebook manufacturing to diversified technology products and services:
 
-**Traditional strengths:**
+**Traditional Strengths:**
 
-- Notebook computers and ultrathin laptops
-- 2-in-1 laptops
-- All-in-one computers (AIO)
+- Notebook computers and ultra-thin laptops
+- 2-in-1 notebooks
+- All-in-One (AIO) computers
 - Tablets and smartphones
-- Display products
+- Monitor products
 
-**Emerging businesses:**
+**Emerging Businesses:**
 
 - 5G communications and application products
 - Cloud servers
-- Automotive electronics (AEP)
-- Smart medicine and healthcare
-- Industrial computers and the Industrial Internet of Things
+- Automotive Electronics (AEP)
+- Smart healthcare and wellness
+- Industrial computers and Industrial IoT
 - Smart wearable devices
 
-### Global Footprint
+### Global Presence
 
-Compal operates multiple production bases and R&D centers around the world:
+Compal maintains multiple production bases and R&D centers worldwide:
 
-- **Asia**: Taiwan (headquarters), multiple sites in mainland China, Vietnam
-- **Americas**: United States, Brazil, Mexico
+- **Asia**: Taiwan (Headquarters), various locations in mainland China, Vietnam
+- **Americas**: USA, Brazil, Mexico
 - **Europe**: Poland
 
-This global footprint not only diversifies operational risk but also allows Compal to stay close to customer needs and provide faster service responses.
+This global layout not only diversifies operational risks but also allows Compal to stay close to customer needs and provide faster service responses.
 
 ## Key Facts and Data
 
-The following figures indicate Compal’s position in the global PC supply chain: the world’s second-largest ODM manufacturer, a 20-25% market share, and dividends paid for 33 consecutive years. Taken together, these indicators outline the profile of a Taiwanese manufacturer that has maintained long-term stability in a highly competitive, low-margin industry.
+The following figures illustrate Compal's position in the global PC supply chain: as the world's second-largest ODM with a 20-25% market share and 33 consecutive years of dividend payments, these indicators paint a picture of a Taiwanese manufacturer maintaining long-term stability within a highly competitive, low-margin industry.
 
 ### Market Position
 
-- **The world’s second-largest notebook ODM manufacturer**, with an estimated market share of about 20-25%[^4]
-- **Taiwan’s sixth-largest manufacturing company**
-- Listed for many years among _Forbes_ Global 2000 companies
+- **World's second-largest notebook computer ODM**, with a market share of approximately 20-25%[^4]
+- **Sixth largest enterprise in Taiwan's manufacturing sector**
+- Listed in _Forbes_ Global 2000 for many consecutive years
 - A _Fortune_ Global 500 company
-- Ranked 10th globally in corporate innovation competitiveness in Germany’s _iF World Design Index_ (2025)[^1]
+- Ranked 10th globally in the German _iF World Design Index_ for corporate innovation competitiveness (2025)[^1]
 
 ### Financial Performance (2024 Data)
 
-- Full-year earnings per share (EPS): NT$2.3
-- Paid-in capital: NT$44.071 billion
-- Market capitalization: more than NT$140 billion
-- Paid dividends for 33 consecutive years, earning the reputation of a “fixed-deposit-like stock”[^3]
+- Full-year Earnings Per Share (EPS): NT$2.3
+- Capital stock: NT$44.071 billion
+- Market capitalization: Over NT$140 billion
+- 33 consecutive years of dividend payments, earning it the reputation of a "fixed-deposit miracle stock"[^3]
 
-### Major Customers
+### Major Clients
 
-Compal’s customer base spans the world’s leading PC brands. Lenovo is its main ODM partner across the full product line; a substantial share of Dell’s mainstream consumer and commercial models are also manufactured by Compal.
+Compal's client portfolio spans the world's leading PC brands. Lenovo is a primary ODM partner across its entire product line; Dell also relies heavily on Compal for a significant portion of its mainstream consumer and commercial models.
 
-- **Acer**: an important partner
-- **HP**: one of its strategic partners
+- **Acer**: A key partner
+- **HP**: One of its strategic partners
 
-This diversified customer structure gives Compal risk-dispersal capacity and helps it avoid excessive dependence on any single customer.
+This diversified client structure provides Compal with risk diversification, preventing over-reliance on any single customer.
 
-## Development History: Four Decades of Transformation
+## Development History: Forty Years of Transformation
 
-### Founding Stage: Starting with Electronic Calculators (1973-1984)
+### Founding Era: The Starting Point of Electronic Calculators (1973–1984)
 
-Compal’s story begins with the founding of the Kinpo-Compal Group. In 1973, Kinpo Electronics was established by founder Hsu Chao-ying and partners with a joint investment of NT$6 million, initially focusing on the production of electronic calculators. This seemingly modest beginning planted the foundation for the later expansion of the entire group.
+Compal's story begins with the founding of the Kimpo Group. In 1973, Kimpo Electronics was established by founder Hsu Chao-ying and partners with an initial investment of NT$6 million, focusing primarily on the production of electronic calculators. This seemingly small beginning laid the foundation for the entire group's subsequent expansion.
 
-Hsu Chao-ying’s eldest son, Hsu Sheng-hsiung, graduated from the Department of Chinese at National Taiwan Normal University[^2], yet was deeply enthusiastic about technology manufacturing. He keenly observed the development potential of electronic products and became closely involved in the operation and expansion of the family business.
+Hsu Sheng-hsiung, the eldest son of Hsu Chao-ying, despite graduating from the Department of Chinese Literature at National Taiwan Normal University[^2], possessed a deep passion for the technology manufacturing industry. He keenly observed the development potential of electronic products and became deeply involved in the operation and expansion of the family business.
 
-### Growth Stage: Entering the Personal Computer Market (1984-1994)
+### Growth Era: Entering the Personal Computer Market (1984–1994)
 
-In 1984, Kinpo Electronics established a subsidiary, “Compal Electronics,” formally entering the manufacturing of personal-computer-related products. This period coincided with the early popularization of personal computers. Relying on sharp market instincts and solid manufacturing capabilities, Compal quickly gained a foothold in the market for computer peripheral products.
+In 1984, Kimpo Electronics established its subsidiary, "Compal Electronics," officially entering the manufacturing of personal computer-related products. This period coincided with the popularization of PCs; leveraging keen market intuition and solid manufacturing capabilities, Compal quickly established a foothold in the computer peripherals market.
 
-The company’s earliest products included computer terminals and monitors. Under Hsu Sheng-hsiung’s strategic adjustments, the company decided to focus on monitors, which were relatively simple but in high demand. This decision brought the company stable cash flow and manufacturing experience.
+The company's initial products included computer terminals and monitors. Under Hsu Sheng-hsiung's strategic adjustments, the company decided to focus on monitor products, which were relatively simple but had high demand. This decision brought stable cash flow and manufacturing experience to the company.
 
-In 1992, Compal Electronics was officially listed on the Taiwan Stock Exchange, marking its formal entry into the capital market.
+In 1992, Compal Electronics was officially listed on the Taiwan Stock Exchange, marking its formal entry into the capital markets.
 
-### Transformation Stage: From OEM to ODM (1994-2000)
+### Transformation Era: From OEM to ODM (1994–2000)
 
-The year 1994 was an important turning point in Compal’s history. Founder Hsu Chao-ying retired, and Hsu Sheng-hsiung formally took over as chairman. Under the new leadership team, Compal began shifting from the traditional OEM contract-manufacturing model to the ODM model, taking responsibility not only for manufacturing but also for product design.
+1994 was a major turning point in Compal's history. Founder Hsu Chao-ying retired, and Hsu Sheng-hsiung officially took over as Chairman. Under the new leadership team, Compal began transitioning from the traditional OEM model to the ODM model, taking responsibility not just for manufacturing, but also for product design.
 
-This transformation was not smooth. The Asian financial crisis of the late 1990s dealt a severe blow to Taiwan’s manufacturing sector, and Compal also faced serious challenges. Yet Hsu Sheng-hsiung steered the company through the crisis with decisive judgment and trusted relationships with suppliers, even consolidating its position in notebook contract manufacturing amid adversity.
+This transformation was not without obstacles. The Asian Financial Crisis of the late 1990s dealt a massive blow to Taiwan's manufacturing sector, and Compal faced severe challenges. However, through decisive decision-making and strong relationships of trust with suppliers, Hsu Sheng-hsiung successfully navigated the crisis and even consolidated the company's position in the notebook manufacturing industry amidst the adversity.
 
-### Expansion Stage: Globalization (2000-2010)
+### Expansion Era: Global Layout (2000–2010)
 
-After entering the 21st century, Compal rode the wave of globalization in the information-technology industry and began systematically expanding its overseas production bases. The company successively established production bases and service centers in mainland China, Vietnam, the United States, Brazil, Mexico, Poland, and other locations.
+Entering the 21st century, Compal rode the wave of globalization in the information industry and began systematically expanding its overseas production bases. The company successively established production bases and service centers in mainland China, Vietnam, the USA, Brazil, Mexico, and Poland.
 
-During this period, Compal expanded rapidly in scale, while its technical capabilities improved as orders increased. The company took on more ODM orders from major international firms and established a leading position in notebook contract manufacturing.
+During this period, Compal's scale expanded rapidly, and its technical capabilities grew alongside increasing order volumes. The company secured more ODM orders from major international brands, establishing a leading position in the notebook manufacturing field.
 
-### Innovation Stage: Diversified Development (2010-Present)
+### Innovation Era: Diversified Development (2010–Present)
 
-In recent years, facing slowing growth in the traditional PC market, Compal has pursued product diversification and extended its reach into emerging technology fields. The company has invested in R&D and sought new growth drivers in areas including 5G communications, cloud computing, automotive electronics, and smart medicine.
+In recent years, facing slowing growth in the traditional PC market, Compal has driven product diversification, extending its reach into emerging technology sectors. The company invests heavily in R&D, seeking new growth drivers in 5G communications, cloud computing, automotive electronics, and smart healthcare.
 
-In 2025, Compal rose to 10th place globally in Germany’s “iF World Design Index WORLD DESIGN INDEX,” standing out from more than 10,000 companies and demonstrating its strength in design innovation[^1].
+In 2025, Compal's ranking in Germany's "iF World Design Index" jumped to 10th globally, standing out among more than 10,000 participating companies and demonstrating its strength in design innovation[^1].
 
-## Global Influence: A Key Position in the Industrial Chain
+## Global Influence: A Key Position in the Industry Chain
 
-### A Critical Role in the Industrial Chain
+### Critical Role in the Supply Chain
 
-Compal occupies a key position in the global information-technology supply chain. As an ODM manufacturer, it connects upstream component suppliers with downstream brand companies and is one of the hubs of the broader industrial ecosystem.
+Compal occupies a critical position in the global information industry supply chain. As an ODM, it connects upstream component suppliers with downstream brand owners, serving as one of the hubs of the entire industrial ecosystem.
 
-According to industry estimates, Taiwan’s notebook contract manufacturers almost monopolize the global market. The top five manufacturers, Quanta, Compal, Wistron, Inventec, and Pegatron, together account for more than 90% of global shipments. As the second-largest among them, Compal’s operating performance directly affects supply stability in the global notebook market.
+According to industry statistics, Taiwanese notebook manufacturers nearly monopolize the global market; the top five manufacturers (Quanta, Compal, Wistron, Inventec, and Pegatron) account for over 90% of global shipments. As the second-largest manufacturer among them, Compal's operational performance directly affects the supply stability of the global laptop market.
 
-### A Driver of Technological Innovation
+### Driver of Technical Innovation
 
-Compal’s contribution extends beyond assembly itself. The company invests R&D resources in product design, process improvement, materials applications, and other areas; many of its innovations later became industry standards.
+Compal's contribution goes beyond mere assembly: the company invests R&D resources in product design, process improvement, and material applications, with many innovative technologies later becoming industry standards.
 
-For example, in the trend toward thinner and lighter notebook computers, Compal developed multiple key technologies, including ultrathin chassis design, high-density circuit-board layouts, and thermal-system optimization. These technologies have not only been applied in its own products but have also influenced the direction of the broader market through its customers’ products.
+For example, amidst the trend toward thinner and lighter notebooks, Compal developed several key technologies, including ultra-thin chassis design, high-density PCB layout, and thermal system optimization. These technologies are applied not only to its own products but also influence the development direction of the entire market through its customers' products.
 
 ### Employment and Economic Contribution
 
-Compal has created a large number of job opportunities in Taiwan and trained countless technical and managerial professionals. Some of these people later founded their own companies, while others moved into other technology firms, becoming part of Taiwan’s technology talent ecosystem.
+Compal has created vast employment opportunities in Taiwan and cultivated countless technical and managerial talents. Some of these individuals went on to found their own companies, while others moved into other tech enterprises, becoming part of Taiwan's technology talent ecosystem.
 
-Compal’s success has also driven the development of related industrial chains, including component suppliers, mold manufacturers, packaging-material companies, and others, forming an industrial-cluster effect across the Taoyuan-Hsinchu-Miaoli area.
+Compal's success has also driven the development of related industries—including component suppliers, mold manufacturers, and packaging material providers—creating an industrial cluster effect in the Taoyuan, Hsinchu, and Miaoli regions.
 
-### A Bridge for International Cooperation
+### Bridge for International Cooperation
 
-Through long-term cooperation with major international firms, Compal has become a bridge connecting Taiwan with the global technology industry. This cooperation has brought technology transfer and management experience, while also enabling Taiwan’s manufacturing sector to keep pace with international trends and strengthen its competitiveness.
+Through long-term cooperation with major international brands, Compal has become a bridge connecting Taiwan with the global technology industry. This cooperation has brought technology transfers and management experience, allowing Taiwan's manufacturing sector to keep pace with international trends and enhance its competitiveness.
 
-## Challenges and Outlook: Opportunities on the Road to Transformation
+## Challenges and Outlook: Opportunities on the Path of Transformation
 
 ### Current Challenges
 
-**Market saturation and intensifying competition**
-The traditional PC market has matured, leaving limited room for growth. Intensifying competition from mainland Chinese contract manufacturers is putting pressure on Compal’s traditional advantages.
+**Market Saturation and Intensifying Competition**
+The traditional PC market has matured, leaving limited room for growth. Increasing competition from mainland Chinese manufacturers puts pressure on Compal's traditional advantages.
 
-**Cost pressure**
-Rising labor costs, stricter environmental regulations, trade frictions, and other factors have all increased operating costs and compressed profit margins.
+**Cost Pressures**
+Rising labor costs, stricter environmental regulations, and trade frictions have all increased operating costs and squeezed profit margins.
 
-**Technological change**
-The rapid development of new technologies such as AI, 5G, and edge computing requires companies to invest in R&D and may alter the existing industrial landscape.
+**Technological Shifts**
+The rapid development of new technologies such as AI, 5G, and edge computing requires continuous R&D investment and may alter the existing industrial landscape.
 
-**Supply-chain risk**
-The COVID-19 pandemic and geopolitical tensions have highlighted the fragility of global supply chains, requiring companies to build more resilient supply-chain systems.
+**Supply Chain Risks**
+The COVID-19 pandemic and geopolitical tensions have highlighted the vulnerability of global supply chains, requiring companies to build more resilient supply chain systems.
 
-### Future Development Strategy
+### Future Development Strategies
 
-**Expansion into new fields**
-Automotive electronics is Compal’s main area of emphasis. The rise of electric vehicles and smart cars is driving demand for related components; medical technology, meanwhile, is benefiting from the trend of population aging, as smart medical devices enter a new growth cycle.
+**Layout in New Fields**
+Automotive electronics is a major bet for Compal; the rise of electric vehicles and smart cars drives demand for related components. Meanwhile, medical technology benefits from aging populations, with smart medical equipment entering a new growth cycle.
 
-- **5G applications**: the spread of 5G networks will drive demand for related equipment
-- **Cloud computing**: enterprise digital transformation is pushing growth in the server market
+- **5G Applications**: The proliferation of 5G networks will drive demand for related equipment.
+- **Cloud Computing**: Corporate digital transformation is driving growth in the server market.
 
-**Intelligent manufacturing**
-Invest in Industry 4.0 technologies to improve production efficiency and quality while reducing dependence on labor.
+**Smart Manufacturing**
+Investing in Industry 4.0 technologies to improve production efficiency and quality while reducing reliance on manual labor.
 
-**Supply-chain diversification**
-Disperse production bases to reduce risks associated with any single market or supplier.
+**Supply Chain Diversification**
+Diversifying production bases to mitigate risks associated with any single market or supplier.
 
-**Sustainable development**
-Respond to ESG trends by investing in green manufacturing technologies and establishing a sustainable operating model.
+**Sustainable Development**
+Responding to ESG trends by investing in green manufacturing technologies and establishing sustainable operating models.
 
-### Long-Term Competitive Advantages
+### Long-term Competitive Advantages
 
-Despite these challenges, Compal still has multiple long-term competitive advantages:
+Despite the challenges, Compal maintains several long-term competitive advantages:
 
-**Deep manufacturing experience**: 40 years of accumulated manufacturing experience have formed a deep technical foundation and process know-how.
+**Deep Manufacturing Experience**: 40 years of accumulated manufacturing experience has formed a profound technical foundation and process know-how.
 
-**Global production footprint**: diversified production bases provide flexible capacity-allocation capabilities.
+**Global Production Layout**: Diversified production bases provide flexible capacity allocation capabilities.
 
-**Stable customer relationships**: long-term cooperative relationships with major international companies provide a stable source of orders.
+**Stable Customer Relationships**: Long-term partnerships with international giants provide a stable source of orders.
 
-**R&D and innovation capabilities**: a strong R&D team and innovation culture ensure that the company can keep pace with technological development trends.
+**R&D Innovation Capability**: A strong R&D team and an innovative culture ensure the company can keep pace with technological trends.
 
-## Conclusion: A Microcosm of Taiwan’s ODM Industry
+## Conclusion: A Microcosm of Taiwan's ODM Industry
 
-The story of Compal Electronics is a microcosm of the development of Taiwan’s manufacturing sector. Its growth from a small calculator-component manufacturer into the world’s second-largest notebook ODM manufacturer demonstrates the foresight, resilience, and innovative capacity of Taiwanese entrepreneurs.
+The story of Compal Electronics is a microcosm of the development of Taiwan's manufacturing industry. Growing from a small manufacturer of calculator parts into the world's second-largest notebook ODM demonstrates the foresight, resilience, and innovative capacity of Taiwanese entrepreneurs.
 
-In today’s globalized world, ODM companies like Compal may not attract as much attention as brand companies, but they are crucial foundations supporting the entire industrial ecosystem. Their presence allows consumers around the world to enjoy high-quality technology products at reasonable prices, while also giving Taiwan an irreplaceable position on the map of the global technology industry.
+In today's globalized world, ODM enterprises like Compal may not be as high-profile as brand owners, but they are the essential foundation supporting the entire industrial ecosystem. Their existence allows global consumers to enjoy high-quality tech products at reasonable prices and ensures Taiwan occupies an irreplaceable position in the global technology landscape.
 
-Since its founding in 1984, Compal has gone through the popularization of PCs, the restructuring of globalized production, and the impact of smartphones on the notebook market. Each time, it has found a way to adjust. The progress of three new businesses, automotive electronics, AI servers, and smart medical devices, will determine whether this contract manufacturer can maintain its competitive position over the next decade.
+Since its founding in 1984, Compal has navigated the wave of PC popularization, the restructuring of global production, and the impact of smartphones on the notebook market; each time, it has found a way to adapt. Automotive electronics, AI servers, and smart medical equipment—the progress of these three new business sectors will determine whether this manufacturer can maintain its competitive position in the next decade.
 
 ---
 
 ## References
 
-[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal ranked 10th globally in corporate innovation competitiveness in the 2025 iF World Design Index, standing out among more than 10,000 participating companies
+[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal ranked 10th globally in the 2025 iF World Design Index for corporate innovation competitiveness, standing out among over 10,000 participating companies.
 
-[^2]: [Wikipedia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Hsu Sheng-hsiung’s education: Department of Chinese, National Taiwan Normal University; he later became chairman of Compal Electronics
+[^2]: [Wikipedia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Education of Hsu Sheng-hsiung: Department of Chinese Literature, National Taiwan Normal University; later succeeded as Chairman of Compal Electronics.
 
-[^3]: [Economic Daily News — Compal as a fixed-deposit-like stock](https://money.udn.com/) — Compal Electronics has paid dividends for 33 consecutive years, with stable dividend payments, and has long been known as a “fixed-deposit-like stock”
+[^3]: [Economic Daily News — Compal's "Fixed-Deposit Miracle Stock"](https://money.udn.com/) — Compal Electronics has distributed dividends for 33 consecutive years with stable payouts, earning the nickname "fixed-deposit miracle stock."
 
-[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics is the world’s second-largest notebook ODM manufacturer, with an estimated market share of about 20-25%
+[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics is the world's second-largest notebook computer ODM, with a market share of approximately 20-25%.
 
-[^5]: [Compal Electronics official website](https://www.compal.com/) — Compal Electronics, Inc. was founded in 1984, stock code 2324, and is headquartered in Taipei
+[^5]: [Compal Electronics Official Website](https://www.compal.com/) — Compal Electronics, Inc. was founded in 1984, stock code 2324, headquartered in Taipei.

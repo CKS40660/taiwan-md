@@ -1,10 +1,10 @@
 ---
-title: 'Die Fragmentierung der taiwanesischen Creator-Ökonomie: Ein Kampf um 23 Millionen Menschen'
-description: 'Der Markt ist kleiner als 1% des US-Marktes, aber die Anzahl der genutzten Plattformen ist doppelt so hoch – wie überleben taiwanesische Creator?'
+title: 'Taiwans Creator Economy: Ein fragmentierter Schlachtplatz für 23 Millionen Menschen'
+description: 'Der Influencer-Werbemarkt in Taiwan ist weniger als ein Prozent so groß wie der in den USA, doch mittelgroße Creator müssen fast doppelt so viele Plattformen gleichzeitig bedienen; Monetarisierung erfolgt über Affiliate-Marketing statt Abonnements.'
 date: 2026-03-29
 category: 'Economy'
 tags:
-  ['Self-Media', 'Creator-Ökonomie', 'KOL', 'Influencer', 'Affiliate-Marketing']
+  ['Selfmedia', 'Creator Economy', 'KOL', 'Influencer', 'Affiliate-Marketing']
 subcategory: '產業與經濟'
 author: 'p3nchan'
 featured: false
@@ -12,123 +12,123 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-09-23T22:12:06+08:00'
+translatedAt: '2026-10-15T20:18:44+08:00'
 ---
 
-> Der taiwanesische Influencer-Werbemarkt beträgt etwa 210 Millionen US-Dollar, weniger als 1% des US-Marktes. Doch eine durchschnittliche mittlerer Creator nutzt gleichzeitig 5–7 Plattformen – YouTube, Instagram, Facebook, Threads, Podcast, Blog, LINE – fast das Doppelte im Vergleich zu US-amerikanischen Creatoren gleicher Kategorie. Der Markt ist extrem klein, die Plattformen extrem fragmentiert, die Monetarisierung läuft über Affiliate-Marketing statt Abonnements – ein Spiel mit völlig anderen Regeln.
-
----
-
-## Die Geschichte eines Produktmanagers, der zum YouTuber wurde
-
-2016 verließ Weng Chun-ming (翁雋明) seine Position als Produktmanager für Laptops bei Micro-Star International (MSI), um seinen YouTube-Kanal vollziehend zu betreiben, den er bereits seit 2010 nur nebenbei aktualisiert hatte. Sein Kanal hieß damals Joeman, die Abonnentenzahl lag noch unter 100.000. Seine Freunde hielten ihn für verrückt. Abschluss in Elektrotechnik an der Nationaler Hochschule für Technologie (National Chiao Tung University), ein sicheres Gehalt im IT-Sektor – und er hat das einfach aufgegeben?
-
-Zehn Jahre später: Joemans Kanal hat fast 2,8 Millionen Abonnenten, insgesamt über 118 Millionen Aufrufe und mehr als 3.200 veröffentlichte Videos. Seine Serie „Joe ist bereit zum Kampf“ („Joe是要對決“) umfasst fast 300 Folgen – Unboxings, 3C-Tests, kulinarische Duell-Duelle – er berührt praktisch alles. Apple hat ihn in den letzten drei Jahren in Cupertino zur Produkpräsentation eingeladen – einer der wenigen YouTuber Taiwans, die eine solche Einladung erhalten.
-
-Doch allein auf die Abonnentenzahl zu schauen, täuscht. Joeman hat öffentlich zugegeben, dass die YouTube-Werbeeinnahmen jährlich etwa 5 Millionen taiwanesische Dollar (ca. 160.000 Euro) betragen. Klingt viel? Sein Studio hat monatliche Betriebskosten von 1–1,5 Millionen taiwanesischer Dollar (ca. 32.000–48.000 Euro), fünf Vollzeit-Mitarbeiter inklusive sozialer Sicherheit und Jahressbonus. Mit AdSense allein, käme er nicht mal die Kosten auf. Die wahre Stütze seines Einkommens von über 20 Millionen taiwanesischer Dollar (ca. 640.000 Euro) sind Markenpartnerschaften, 7-Eleven-Lebensmittel-Kooperationen, Immobilieninvestment-Kurse und eigene Aktienhandelsgeschäfte. Er betreibt gleichzeitig YouTube, Instagram (670.000), Facebook (600.000), Threads (380.000), Twitch – mindestens sechs Plattformen.
-
-Joemans Karriere verdichtet das zentrale Prinzip der taiwanesischen Creator-Ökonomie: Selbst am Scheitel der Pyramide reicht keine einzige Einnahmequelle mehr aus. Man muss seinen Einfluss auf mehrere Kanäle aufteilen und dann hoffen, dass keiner gleichzeitig abbricht.
+> Der Influencer-Werbemarkt in Taiwan umfasst etwa 210 Millionen US-Dollar und macht damit weniger als 1 % des US-Marktes aus. Ein mittelgroßer taiwanesischer Creator betreibt jedoch oft fünf bis sieben Plattformen gleichzeitig – YouTube, IG, Facebook, Threads, Podcasts, Blogs, LINE – was fast dem Doppelten der Anzahl vergleichbarer US-Creator entspricht. Ein extrem kleiner Markt, hochgradig fragmentierte Plattformen und eine Monetarisierung, die auf Affiliate-Marketing statt auf Abonnements setzt: Dies ist ein Spiel mit völlig anderen Regeln.
 
 ---
 
-## Wie klein ist der Markt? – Eine Zahl zeichnet das Bild
+## Die Geschichte eines Produktmanagers, der YouTuber wurde
 
-Zahlen zuerst.
+Im Jahr 2016 gab Weng Chun-ming (翁雋明) seine Stelle als Laptop-Produktmanager bei MSI (Micro-Star International) auf, um sich voll und ganz seinem YouTube-Kanal zu widmen, den er bereits seit 2010 als Hobby pflegte. Damals hatte sein Kanal, bekannt als Joeman, weniger als 100.000 Abonnenten. Freunde hielten ihn für verrückt. Ein Absolvent der Elektrotechnik der National Chiao Tung University mit einem stabilen Gehalt in der Tech-Branche – und das alles einfach aufzugeben?
 
-Der taiwanesische Influencer-Werbemarkt lag 2024 bei einem Ausgabenvolumen von 214 Millionen US-Dollar (etwa 6,8 Milliarden taiwanesische Dollar), laut Statista-Schätzung mit einem Wachstum bis 2029 auf 317 Millionen US-Dollar. Klingt viel? Der globale Markt für Influencer-Marketing überschritt 2024 bereits 33 Milliarden US-Dollar – Taiwan macht dabei weniger als 0,7%. Allein der US-amerikanische Creator-Markt ist mit 50,9 Milliarden US-Dollar so groß wie der gesamte taiwanesische Markt. Nordamerika macht dabei mehr als 37% des globalen Anteils aus.
+Zehn Jahre später nähert sich Joemans Abonnentenzahl der 2,8-Millionen-Marke, mit über 1,18 Milliarden kumulierten Aufrufen und mehr als 3.200 veröffentlichten Videos. Seine Serie „Joe ist bereit zum Duell“ (Joe是要對決) umfasst fast 300 Episoden; Unboxing, 3C-Tests, Food-Battles – er hat fast alles ausprobiert. Apple lädt ihn seit drei Jahren in Folge nach Cupertino ein, um an Produktpräsentationen teilzunehmen, womit er einer der wenigen YouTuber in Taiwan ist, die eine solche Einladung erhalten.
 
-Nehmen wir die Kamera etwas näher heraus. Taiwans Bevölkerung beträgt 23,4 Millionen, die Internetpenetrationsrate liegt bei über 95%. Die sozialen Medien sind ebenso verbreitet: LINE wird von 87% der Nutzer verwendet, Facebook erreicht 73,8% der Bevölkerung, YouTube hat eine Reichweite von 83,3%, Instagram wird von 11,3 Millionen Menschen genutzt. Threads erreicht sogar 22% des globalen Traffics in Taiwan – mehr als die 14,8% in den USA.
+Doch die Abonnentenzahlen können täuschen. Joeman selbst hat öffentlich gemacht, dass seine Einnahmen aus YouTube-Werbeeinnahmen (AdSense) etwa 5 Millionen NT$ pro Jahr betragen. Klingt viel? Die monatlichen Betriebskosten seines Studios liegen zwischen 1 und 1,5 Millionen NT$. Er beschäftigt ein Kernteam von fünf Vollzeitkräften inklusive Sozialversicherungen und Jahresendboni. Allein mit AdSense deckt er nicht einmal die Kosten. Was sein Jahreseinkommen von über 20 Millionen NT$ tatsächlich stützt, sind Markenkooperationen, Co-Branding-Lebensmittel mit 7-ELEVEN, Immobilien-Investmentkurse und sein eigener Aktienhandel. Er betreibt gleichzeitig YouTube, Instagram (670.000), Facebook (600.000), Threads (380.000) und Twitch – also mindestens sechs Plattformen.
 
-Viele Plattformen, aber jedes Mal nur begrenzte Werbebudgets. Die Marketingbudgets der Marken sind festgelegt, doch die Creator müssen auf jeder Plattform präsent sein, um Aufträge zu erhalten.
-
----
-
-## Von Pixnet bis Threads: Drei Generationen der Markenpartnerschaft
-
-Die Geschichte der taiwanesischen Self-Media lässt sich grob in drei Phasen einteilen.
-
-**Blog-Zeit (2005–2015).** Pixnet (痞客邦) war der Startpunkt. Ein Food-Blogger schreibt einen visuell ansprechenden Restaurant-Bericht und sammelt Leser über langsame Suchergebnisse bei Google. Die Monetarisierung war einfach und brutal: Der Hersteller schickt das Produkt, der Blogger schreibt einen Artikel, der Leser findet ihn über die Suche und bestellt. In dieser Ära entstand die Infrastruktur für Affiliate-Marketing durch iChannels und Affiliates.One. Pixnet ist bis heute noch unter den zehn meistbesuchten Websites Taiwans, und der langsame Effekt von Blogs ist in allen Formen von Self-Media am effizientesten. Damals nannte niemand sie „KOL“, alle nannten sie „Blogger“.
-
-**YouTuber-Zeit (2015–2022).** 2014 wurde 4G ausgerollt, und der Konsum von Videos explodierte. Cai A-ga (蔡阿嘎) stieg von Online-Videos auf, und seine Reichweite stieg innerhalb von zehn Jahren um das 55-Fache. Die Anzahl der Kanäle mit einer Million Abonnenten wuchs von 1 im Jahr 2013 auf über 160 im Jahr 2023; Kanäle mit 100.000 Abonnenten stiegen von etwa 200 auf mehr als 2.500. Doch die Realität ist: Die CPM (Cost Per Mille) auf YouTube in Taiwan liegt nur bei 0,5–3 US-Dollar. Ein Kanal mit 300.000 monatlichen Aufrufen verdient allein durch Werbung nicht einmal 10.000 taiwanesische Dollar (ca. 320 Euro). Markenpartnerschaften wurden zur notwendigen Existenzstrategie.
-
-**Fragmentierungs-Zeit (2022–heute).** IG Reels, Threads, TikTok, Podcast – alle konkurrieren um die Aufmerksamkeit. Ein „ernsthafter“ Creator muss heute auf YouTube-Langvideos, YouTube Shorts, Instagram-Beiträge, Instagram-Stories, Threads-Texte, Facebook-Gruppen achten – manche sogar noch Podcasts und Blogs. Die Anzahl der genutzten Plattformen ist fast das Doppelte im Vergleich zu US-amerikanischen Creators, weil das Publikum in Taiwan aufgespalten ist: Die über 35-Jährigen bleiben bei Facebook, junge Leute nutzen Instagram und Threads, die Mittelschicht schaut YouTube, Pendler hören Podcasts. Keine einzige Plattform erreicht alle Zielgruppen.
+Joemans Werdegang fasst die Kernlogik der taiwanesischen Creator Economy zusammen: Selbst wenn man an der Spitze der Pyramide steht, reicht eine einzige Einnahmequelle nicht aus. Man muss seinen Einfluss in mehrere Monetarisierungswege aufteilen und darauf hoffen, dass keiner davon gleichzeitig wegbricht.
 
 ---
 
-## Affiliate-Marketing ist die treibende Kraft: Taiwans einzigartige Monetarisierungsstruktur
+## Wie klein ist der Markt? Eine Zahlenübersicht
 
-In Europa und den USA ist die Hauptquelle der Einnahmen für Creator Abonnements – Patreon, YouTube Membership, Substack. In Taiwan ist das anders.
+Zuerst die nackten Zahlen.
 
-Die größte Affiliate-Plattform in Taiwan, Affiliates.One, arbeitet mit über 2.000 Marken zusammen (Nike, Klook, KKday, Pinkoi usw.) und hat mehr als 80.000 Partner. Die etablierte Plattform iChannels konzentriert sich auf große E-Commerce-Anbieter wie E.Sun Shopping. Die Provision variiert je nach Händler, liegt typischerweise zwischen 3% und 20%, und deckt E-Commerce, Reisen, Finanzen und Online-Kurse ab. Shopee hat in den 2020er Jahren ebenfalls ein eigenes Affiliate-Programm gestartet, mit dem Creator direkt am Verkauf der Produkte auf der Plattform beteiligt sind.
+Die Ausgaben für Influencer-Werbung in Taiwan werden laut Statista im Jahr 2024 auf etwa 214 Millionen US-Dollar (ca. 6,8 Milliarden NT$) geschätzt und sollen bis 2029 auf 317 Millionen US-Dollar wachsen. Klingt nach viel? Im selben Jahr überschritt der globale Influencer-Marketing-Markt bereits 33 Milliarden US-Dollar; Taiwan macht davon weniger als 0,7 % aus. Allein der Marktwert der Creator Economy in den USA beläuft sich auf 50,9 Milliarden US-Dollar, wobei Nordamerika über 37 % des weltweiten Anteils hält.
 
-Warum funktionieren Abonnements in Taiwan nicht so gut? Mehrere strukturelle Gründe. Taiwanesische Verbraucher sind weniger bereit, für Inhalte zu zahlen, und es gibt viele kostenlose Alternativen. Die Kreditkarte an ausländische Plattformen (z.B. Patreon) zu binden, kostet Aufwand. Die Abonnementeinnahmen der Podcast-Plattform Firstory überschreiten zwar 6 Millionen taiwanesischer Dollar (ca. 192.000 Euro), aber verteilt auf Tausende von Creators, bleibt der Betrag pro Kopf gering.
+Betrachten wir die Details: Taiwan hat eine Bevölkerung von 23,4 Millionen Menschen mit einer Internetpenetration von über 95 %. Die Durchdringung durch Social-Media-Plattformen ist ebenso beeindruckend: LINE wird von 87 % genutzt, die Facebook-Werbereichweite liegt bei 73,8 %, die YouTube-Abdeckung bei 83,3 % und Instagram hat 11,3 Millionen Nutzer. Der Traffic von Threads in Taiwan macht sogar 22 % des weltweiten Volumens aus – mehr als die 14,8 % der USA.
 
-Im Gegensatz dazu eignet sich das Modell „Verdienst durch Vermittlung von Produkten, die die Menschen oh ohnehin kaufen würden“ besser für Taiwan. Der Creator muss seine Follower nicht davon überzeugen, Geld für ihn auszugeben – er muss nur ein Produkt empfehlen, das sie ohnehin kaufen würden. Bei PressPlay erreicht eine Hausfrauen-Influencerin mit einem einzigen Gruppenkauf mehr als 10 Millionen taiwanesische Dollar (ca. 320.000 Euro) Umsatz – und von den 9 von PressPlay entwickelten Eigenmarken erreichten zwei mehr als 100 Millionen taiwanesische Dollar (ca. 3,2 Millionen Euro) Jahresumsatz.
-
-Markenpartnerschaften sind ebenfalls ein zentraler Einkommensbruch. 2026 in Taiwan: Nano-Influencer (1.000–10.000 Follower) verdienen pro Beitrag 3.000–15.000 taiwanesische Dollar (ca. 96–480 Euro); Mikro-Influencer (10.000–50.000 Follower) 15.000–50.000 taiwanesische Dollar (ca. 480–1.600 Euro); mittelständische Creator (50.000–100.000 Follower) verdienen pro YouTube-Video 80.000–150.000 taiwanesische Dollar (ca. 2.560–4.800 Euro); Creator mit über einer Million Followern verdienen regelmäßig mehr als 500.000 taiwanesische Dollar (ca. 16.000 Euro) pro Zusammenarbeit.
+Es gibt viele Plattformen, aber das Werbebudget pro Plattform ist begrenzt. Die Marketingbudgets der Marken sind fix, doch Creator müssen auf jeder einzelnen Plattform präsent sein, um Aufträge zu erhalten.
 
 ---
 
-## Der scheinbar paradoxe Vorteil der Mikro-KOL
+## Von Pixnet zu Threads: Die Evolution der Kooperationen über drei Generationen
 
-Taiwanesische Marken verschieben ihr Budget von großen Influencern zu kleinen – und das liegt nicht nur am Geld, sondern am tatsächlichen Effekt.
+Die Geschichte der Selfmedia in Taiwan lässt sich grob in drei Phasen unterteilen.
 
-Auf Instagram machen Nano-Influencer (1.000–10.000 Follower) mehr als 65% aller Influencer-Konten aus und erreichen eine durchschnittliche Interaktionsrate von 2,53%. Die Beteiligungsrate von Mikro-Influencern oder KOCs (Key Opinion Consumers, Schlüsselmeinungen der Verbraucher) ist dreimal bis fünfmal höher als die der großen KOL. Laut dem Nielsen-Bericht zur Werbevertrauenswürdigkeit vertrauen 88% der globalen Verbraucher Produktempfehlungen von Bekannten – und die Followerbeziehungen der Nano-Influencer sind denen der Bekannten am nächsten.
+**Das Blogger-Zeitalter (2005–2015).** Pixnet war der Ausgangspunkt. Food-Blogger schrieben ausführliche Berichte mit Bildern und generierten Reichweite über den Long-Tail-Traffic von Google-Suchanfragen. Die Monetarisierung war simpel: Hersteller schickten Produkte, Blogger schrieben darüber, und Leser bestellten beim Suchen. Unternehmen wie iChannels und Affiliates.One legten in dieser Zeit die Infrastruktur für das Affiliate-Marketing in Taiwan. Pixnet gehört bis heute zu den Top 10 der meistbesuchten Websites Taiwans; der Long-Tail-Effekt von Blogs ist bei allen Formen von Selfmedia am effektivsten. Damals nannte man sie noch nicht „KOL“, sondern einfach „Blogger“.
 
-In einem so kleinen Markt wie Taiwan wird dieser Effekt verstärkt. Eine Outdoor-Community-Operatorin mit 3.000 Followern – ihre Leser könnten genau die Menschen sein, die du kennst. Die Überzeugungskraft einer empfohlenen Wanderschuhtasche ist weitaus stärker als das unboxing einer Millionen-Follower-Marke.
+**Das YouTuber-Zeitalter (2015–2022).** Mit dem Start von 4G im Jahr 2014 explodierte der Videokonsum. Tsai Ah-ga (蔡阿嘎) startete mit Online-Videos und steigerte seine Reichweite innerhalb von zehn Jahren um das 55-fache. Die Anzahl der Kanäle mit über einer Million Abonnenten wuchs von einem im Jahr 2013 auf über 160 im Jahr 2023; Kanäle mit mehr als 100.000 Abonnenten expandierten von etwa 200 auf über 2.500. Die Realität sieht jedoch so aus: Der CPM (Cost-per-Mille) für YouTube in Taiwan liegt nur zwischen 0,5 und 3 US-Dollar. Ein Kanal mit 300.000 Aufrufen im Monat verdient allein durch Werbeeinnahmen weniger als 10.000 NT$. Markenkooperationen wurden zur überlebensnotwendigen Maßnahme.
 
-Auf der Markenseite wird die Strategie angepasst. Das einstige Modell, bei dem ein großer Influencer einfach einmal „alles verkaufte“, wird durch ein mehrschichtiges Netzwerk ersetzt: Große Influencer erzeugen Reichweite, Mikro-Influencer erzeugen Glaubwürdigkeit, normale KOCs erzeugen Konversion. Weltweit verlagten 43% der Marken ihr Budget auf Nano- und Mikro-Level. In Taiwan, wegen der geringen Marktgröße und der engen sozialen Netzwerke, ist diese „Pyramidenstrategie“ besonders gründlich umgesetzt.
-
----
-
-## Podcast: Ein spächster, aber schnell wachsender Sound-Markt
-
-Taiwan hat mit dem Podcast etwas später begonnen, aber der Wachstumskurve ist steil.
-
-Die Haupt-Plattformen sind Spotify, Apple Podcast und KKBOX. Die geografische Verteilung ist extrem konzentriert: Die sechs Metropolregionen plus Hsinchu und Changhua machen fast 95% aller Streams aus, allein Taipeh macht fast 70% aus. Das spiegelt das Profil der Podcast-Hörer wider – Pendler in städtischen Gebieten, Weiße in Bürojobs.
-
-Firstory, die größte Podcast-Hosting-Plattform Taiwans, verzeichnet jährlich 70% Wachstum bei dynamischen Werbeverkäufen, und die Gesamteinnahmen der Creator übersteigen 3,8 Millionen taiwanesische Dollar (ca. 121.600 Euro). Abonnementbasierte Formate werden ebenfalls immer beliebter, mit exklusiven Inhalten, werbefreien Versionen oder Vorfächsten. KKBOX veranstaltet jährlich die „Podcast Charts Awards“ mit Kategorien wie „Bester Podcast des Jahres“, „Bester Moderator“ usw., und baut so schrittweise ein professionelles Anerkennungssystem auf.
-
-Die einzigartige Rolle des Podcasts in Taiwan ist: „Ein sicherer Hafen für tiefgehende Inhalte.“ Wenn YouTube und Instagram von Kurzvideos und Algorithmen dominiert werden, wird der Podcast zum Ort, an dem Creator wirklich eine Sache gründlich erklären können. Wissensbasierte, politische und finanzielle Formate sind besonders beliebt – was mit dem taiwanesischen Konsumverhalten übereinstimmt, der lieber „etwas lernt“.
-
-Viele YouTuber nutzen den Podcast auch als zweite Front. Dieselbe Episode – auf YouTube mit visuellen Schnitten, auf dem Podcast als reiner Audio-Stream – wird sozusagen „zweifach verkauft“. Diese Strategie der „Inhalt-Nachverarbeitung“ ist in Taiwan besonders verbreitet, weil die Produktionskosten so weit wie möglich verteilt werden müssen.
+**Das fragmentierte Zeitalter (2022 bis heute).** IG Reels, Threads, TikTok und Podcasts kämpfen gleichzeitig um die Aufmerksamkeit. Ein „seriöser“ Creator muss heute YouTube-Longform, YouTube Shorts, Instagram-Posts, Instagram-Stories, Threads-Texte und Facebook-Gruppen pflegen – manche zusätzlich noch Podcasts und Blogs. Die Anzahl der Plattformen ist fast doppelt so hoch wie bei US-Creatorn, da das taiwanesische Publikum verteilt ist: Über 35-Jährige bleiben auf Facebook, die Jüngeren nutzen IG und Threads, die mittlere Generation schaut YouTube und Pendler hören Podcasts. Keine einzelne Plattform kann alle Zielgruppen erreichen.
 
 ---
 
-## Die Realität dieses Weges
+## Affiliate-Marketing als Hauptpfeiler: Taiwans einzigartige Monetarisierungsstruktur
 
-Wenn man alle Puzzleteile zusammensetzt, ist die taiwanesische Creator-Ökonomie kein glänztes Industriegut. Es ist eher eine anhaltende, mehrstufige Schlacht.
+In der westlichen Creator Economy ist das Abomodell (Patreon, YouTube Membership, Substack) vorherrschend. In Taiwan ist das anders.
 
-Ein typischer Tag eines mittleren Creators: Morgens einen Threads-Beitrag über aktuelle Ereignisse posten, Mittags das gedrehte YouTube-Video schneiden, Nachmittags auf Instagram-Stories reagieren und auf E-Mails von Markenpartnern antworten, abends einen Podcast aufnehmen oder einen langen Blog-Beitrag schreiben, und kurz vor dem Schlafengehen die Affiliate-Marketing-Daten prüfen. Jede Plattform hat andere Algorithmen, andere Formate, andere Zielgruppen – und doch muss man alle im Blick behalten.
+„Affiliates.One“, Taiwans größte Affiliate-Plattform, arbeitet mit über 2.000 E-Commerce-Marken (u. a. Nike, Klook, KKday, Pinkoi) und mehr als 80.000 Promotoren zusammen. Die etablierte Plattform „iChannels“ ist tief in großen E-Commerce-Kanälen wie Eastern Shopping verwurzelt. Die Provisionssätze variieren je nach Händler meist zwischen 3 % und 20 % und decken Bereiche wie E-Commerce, Reisen, Finanzen und Online-Kurse ab. Auch Shopee hat in den 2020er Jahren ein eigenes Affiliate-Programm eingeführt, das es Creatorn ermöglicht, direkt an Verkäufen auf der Plattform zu partizipieren.
 
-Die Einkommensstruktur ist ebenso fragmentiert. YouTube-Werbeeinnahmen sind ein kleiner Teil, drei bis vier Markenpartnerschaften machen den größten Teil aus, Affiliate-Marketing bringt passives Einkommen, gelegentlich ein Gruppenkauf oder ein Online-Kurs. Laut PressPlay-Daten wachsen die Einkommen der diversifizierten Creator um durchschnittlich 40% schneller.
+Warum funktioniert das Abomodell in Taiwan weniger gut? Es gibt strukturelle Gründe. Die Bereitschaft taiwanesischer Konsumenten, für Inhalte zu bezahlen, ist gering, da es zu viele kostenlose Alternativen gibt. Zudem gibt es Hürden bei der Verknüpfung von Kreditkarten mit ausländischen Plattformen wie Patreon. Zwar überstiegen die Zahlungen für Abonnements auf der Podcast-Plattform Firstory landesweit 6 Millionen NT$ und das Gesamteinkommen der Creator dort 28 Millionen NT$ – was nach Wachstum klingt –, doch auf tausende Creator verteilt, bleiben die Beträge gering.
 
-Laut einer Untersuchung von Rakuten Insight 2023 verfolgen etwa 75% der taiwanesischen Befragten mindestens einen Influencer in sozialen Medien, und mehr als die Hälfte gibt an, bereits Produkte gekauft zu haben, die von einem Influencer empfohlen wurden. Diese Konversionsrate liegt im Vergleich zu anderen asiatisch-pazifischen Regionen vorn. Taiwanesische Verbraucher vertrauen Empfehlungen von Creators sehr – aber sie zahlen selten direkt für Inhalte. Dieses Paradoxon ist die Ursache dafür, dass die taiwanesische Creator-Ökonomie „stark im Verkauf, schwach im Abonnement“ ist.
+Im Gegensatz dazu passt das Affiliate-Modell („Provision für den Verkauf von Waren“) besser zu Taiwan. Creator müssen ihre Fans nicht davon überzeugen, Geld direkt an sie zu zahlen, sondern nur ein Produkt empfehlen, das diese ohnehin kaufen würden. Hausfrauen-Influencer unter dem Label PressPlay erzielten mit einem einzigen Gruppenkauf (Group Buy) Umsätze von über 10 Millionen NT$; zwei der neun von der Firma unterstützten Eigenmarken erreichten einen Jahresumsatz von über 100 Millionen NT$.
 
-Ein weiterer bemerkenswerter Trend ist die Professionalisierung der Creator. Joeman gründete das Unternehmen Joeman International Entertainment, PressPlay vertritt mehr als 55 Creator (darunter 10 mit über einer Million YouTube-Abonnenten), und 2024 erreichten die von PressPlay vertretenen Creator insgesamt über 5,7 Milliarden YouTube-Aufrufe. Wenn Einzelpersonen zu Marken und Marken zu Unternehmen werden, reicht das Wort „Influencer“ nicht mehr aus.
-
-Die taiwanesische Creator-Ökonomie wird nie die Größe des US-Marktes erreichen – das ist durch Bevölkerungsgröße und Sprache begrenzt. Aber dieser Markt hat eine einzigartige Überlebensstrategie gezeugt: eine äußerst vielfältige Kombination von Einkommensquellen, tiefe Abhängigkeit von Affiliate-Marketing, präzise Nutzung von Mikro-Einfluss und schnelle Anpassung an fragmentierte Plattformen. Ein Markt mit 23 Millionen Menschen hat die flexibelsten Creator der Welt hervorgebracht.
+Auch Markenkooperationen sind eine zentrale Einnahmequelle. Die Marktpreise für KOL-Kooperationen in Taiwan im Jahr 2026: Nano-Influencer (1.000–10.000 Follower) ca. 3.000 bis 15.000 NT$ pro Beitrag; Micro-Influencer (10.000–50.000 Follower) 15.000 bis 50.000 NT$; mittelgroße Creator (50.000–100.000 Follower) ca. 80.000 bis 150.000 NT$ pro YouTube-Video; bei Kooperationen mit Millionen-Kanälen liegen die Kosten oft über 500.000 NT$.
 
 ---
 
-## Quellenangaben
+## Der kontraintuitive Vorteil von Micro-KOLs
 
-1. [Statista — Influencer Advertising Market in Taiwan](https://www.statista.com/outlook/dmo/digital-advertising/influencer-advertising/taiwan)：Vorhersage der Marktgröße für Influencer-Werbung in Taiwan (2024 ca. 214 Millionen US-Dollar), jährliche Wachstumsrate 8,17%
-2. [天下雜誌 — 主婦網紅一檔團購破千萬業績！PressPlay 影響力變現 4 步驟](https://www.cw.com.tw/article/5127947)：Geschäftsmodell und Gruppenkauf-Daten der Creator bei PressPlay
-3. [INSIDE — Joeman 團隊全解析：從微星工程師到百萬 YouTuber](https://www.inside.com.tw/article/21273-joeman-youtuber-team)：Betriebskosten, Teamgröße und Geschäftsmodell von Joemans Kanal
-4. [Firstory — 2025 年度 Podcast 趨勢報告](https://firstory.substack.com/p/echo-572025-podcast-podcast)：Taiwanesischer Podcast-Markt – Streaming-Daten, Abonnementbeträge und Wachstum der Werbeeinnahmen
-5. [FIRST LINE — 2025 台灣社群媒體版圖變化](https://blog.firstline.cc/taiwan-2025-social-media-landscape/)：Nutzungsraten und generationelle Unterschiede von LINE, Instagram, Facebook, Threads usw.
-6. [Kolr 網紅雷達 — 2026 品牌行銷關鍵決勝點](https://www.kolr.ai/trend-sharing/2026-influencer-marketing-trend/)：Trends bei Nano- und Mikro-Influencern, Budgetverschiebungen bei Marken
-7. [DailyView 網路溫度計 — 網紅崛起與翻車：網路 10 年更迭](https://dailyview.tw/popular/detail/26567)：Wachstum der YouTube-Kanäle mit einer Million Abonnenten von 1 auf 160 innerhalb von zehn Jahren
-8. [PRO360 — 2026 YouTuber 業配價格行情表](https://www.pro360.com.tw/price/youtube_advertorial)：Preisübersicht für Kooperationen mit verschiedenen KOL-Stufen
-9. [Influencer Marketing Hub — Benchmark Report 2026](https://influencermarketinghub.com/influencer-marketing-benchmark-report/)：Globaler Markt für Influencer-Marketing überschreitet 33 Milliarden US-Dollar, Budgettrends bei Marken
+Taiwanesische Marken verlagern ihre Budgets von großen Influencern hin zu kleineren – nicht nur um Kosten zu sparen, sondern weil die Wirkung tatsächlich besser ist.
+
+Auf Instagram machen Nano-Influencer (1.000–10.000 Follower) über 65 % aller Influencer-Accounts aus und erreichen eine durchschnittliche Interaktionsrate von 2,53 %. Die Engagement-Rate von Micro-Influencern oder KOCs (Key Opinion Consumers) ist drei- bis fünfmal höher als die großer KOLs. Ein Nielsen-Bericht zum Vertrauen in Werbung zeigt, dass 88 % der weltweiten Konsumenten Empfehlungen von Bekannten am meisten vertrauen – und die Beziehung zwischen Nano-Influencern und ihren Followern kommt diesem „Bekannten“-Status am nächsten.
+
+In dem kleinen Markt Taiwans wird dieser Effekt verstärkt. Die Betreiberin einer Wandergruppe mit 3.000 Followern erreicht genau die Menschen, die man persönlich kennt. Die Überzeugungskraft bei der Empfehlung eines Wanderschuhs übersteigt oft das Unboxing-Video eines Millionen-Influencers.
+
+Auch die Markenstrategien ändern sich. Das alte Modell, bei dem ein einzelner großer Influencer für einen massiven Verkaufsstoß verantwortlich war, wird durch ein mehrschichtiges Netzwerk ersetzt: Große Influencer sorgen für Reichweite (Awareness), Micro-Influencer schaffen Vertrauen (Word-of-Mouth) und KOCs sorgen für die Conversion. Weltweit haben bereits 43 % der Marken ihre Budgets auf Nano- und Micro-Ebenen konzentriert. In Taiwan, wo der Markt klein und die Kreise eng sind, wird diese „Pyramidenstrategie“ besonders konsequent umgesetzt.
+
+---
+
+## Podcast: Eine verspätete, aber schnell wachsende Audio-Ökonomie
+
+Der Podcast-Markt in Taiwan startete spät, weist aber eine steile Wachstumskurve auf.
+
+Die gängigen Plattformen sind Spotify, Apple Podcast und KKBOX. Die geografische Verteilung ist extrem konzentriert: Die sechs Metropolregionen plus Hsinchu und Changhua machen fast 95 % des nationalen Hörvolumens aus, wobei Taipeh allein fast 70 % hält. Dies spiegelt das Profil der Hörer wider – Pendler in städtischen Gebieten und Büroangestellte sind die Hauptzielgruppe.
+
+Firstory, Taiwans größte Podcast-Hosting-Plattform, verzeichnete bei den dynamischen Werbeumsätzen ein jährliches Wachstum von 70 %; das Gesamteinkommen der Creator durch Werbeeinnahmen überstieg 3,8 Millionen NT$. Auch Abo-Modelle nehmen zu und bieten exklusive Inhalte oder werbefreie Versionen an. KKBOX veranstaltet jährlich die „Podcast Charts“ mit Preisen für die Top 100, beste Programme und beste Moderatoren, was ein professionelles Anerkennungssystem in der taiwanesischen Podcast-Szene etabliert hat.
+
+Die einzigartige Position von Podcasts in Taiwan ist die eines „Hafens für tiefgründige Inhalte“. Während YouTube und IG von Kurzvideos und Algorithmen dominiert werden, bieten Podcasts Creatorn den Raum, ein Thema wirklich ausführlich zu behandeln. Wissensbasierte, aktuelle oder finanzielle Themen sind besonders beliebt, was zum Konsumverhalten der taiwanesischen Zielgruppe passt, die Wert darauf legt, „etwas zu lernen“.
+
+Viele YouTuber nutzen Podcasts als zweite Front. Ein und derselbe Inhalt wird einmal als Video mit Schnitt auf YouTube und einmal rein als Audio auf Podcast-Plattformen veröffentlicht – eine Strategie zur Maximierung des Outputs bei minimalen Zusatzkosten.
+
+---
+
+## Das wahre Gesicht dieses Weges
+
+Setzt man alle Puzzleteile zusammen, ist die Creator Economy in Taiwan keine glanzvolle Industrie. Sie gleicht eher einem langwierigen Kampf an vielen Fronten.
+
+Ein typischer Tag eines mittelgroßen Creators: Morgens schreibt er Threads-Posts zu aktuellen Themen; mittags schneidet er das gestern gefilmte YouTube-Video; nachmittags interagiert er mit Instagram-Stories und beantwortet E-Mails von Werbepartnern; abends nimmt er einen Podcast auf oder schreibt einen langen Blogartikel; vor dem Schlafengehen prüft er die Conversion-Daten im Affiliate-Backend. Jeder Algorithmus, jedes Format und jede Zielgruppe ist anders, aber alles muss bedient werden.
+
+Auch die Einkommensstruktur ist fragmentiert: YouTube-AdSense ist nur ein kleiner Teil, Markenkooperationen machen den Großteil aus, Affiliate-Marketing bringt passives Einkommen und gelegentlich gibt es Gruppenkäufe oder Online-Kurse. Daten von PressPlay zeigen, dass Creator mit diversifizierten Einkommensquellen eine durchschnittlich um 40 % höhere jährliche Wachstumsrate aufweisen.
+
+Laut einer Umfrage von Rakuten Insight aus dem Jahr 2023 verfolgen etwa 75 % der Befragten in Taiwan mindestens einen Influencer in den sozialen Medien, wobei mehr als die Hälfte angab, Produkte auf Empfehlung gekauft zu haben. Diese Konversionsrate gehört zur Spitze im asiatisch-pazifischen Raum. Das Vertrauen der taiwanesischen Konsumenten in Creator-Empfehlungen ist hoch, aber die Bereitschaft, direkt Geld für die Unterstützung der Creator auszugeben, bleibt gering. Dieser Widerspruch ist der Grund für das Phänomen „starkes Verkaufen, schwaches Abonnieren“ in Taiwans Creator Economy.
+
+Ein weiterer Trend ist die Professionalisierung: Joeman gründete „Jiumei International Entertainment“, und PressPlay vertritt über 55 Creator (darunter 10 mit Millionen-Abonnenten), deren kumulierte YouTube-Aufrufe im Jahr 2024 über 5,7 Milliarden erreichten. Wenn aus einem individuellen Creator eine Marke und aus der Marke ein Unternehmen wird, reicht der Begriff „Influencer“ nicht mehr aus.
+
+Die Größe der taiwanesischen Creator Economy wird die der USA aufgrund von Bevölkerung und Sprache niemals erreichen. Aber dieser Markt hat eine einzigartige Überlebenskunst hervorgebracht: extrem diverse Monetarisierungsmixe, tiefe Abhängigkeit vom Affiliate-Marketing, präzise Nutzung von Mikro-Einfluss und die Fähigkeit, blitzschnell zwischen fragmentierten Plattformen zu wechseln. Ein Markt von 23 Millionen Menschen hat die flexibelsten Creator der Welt hervorgebracht.
+
+---
+
+## Referenzen
+
+1. [Statista — Influencer Advertising Market in Taiwan](https://www.statista.com/outlook/dmo/digital-advertising/influencer-advertising/taiwan): Prognose des Influencer-Werbemarktes in Taiwan (ca. 214 Mio. USD im Jahr 2024) mit einer jährlichen Wachstumsrate von 8,17 %.
+2. [天下雜誌 — Hausfrauen-Influencer erzielen Millionenumsätze durch Gruppenkäufe! PressPlay Monetarisierung in 4 Schritten](https://www.cw.com.tw/article/5127947): Daten zu Geschäftsmodellen und Gruppenkauf-Umsätzen der PressPlay-Creator.
+3. [INSIDE — Analyse des Joeman-Teams: Vom MSI-Ingenieur zum Millionen-YouTuber](https://www.inside.com.tw/article/21273-joeman-youtuber-team): Betriebskosten, Teamstruktur und Geschäftsmodell von Joeman.
+4. [Firstory — Podcast Trend Report 2025](https://firstory.substack.com/p/echo-572025-podcast-podcast): Daten zum taiwanesischen Podcast-Markt, Abonnements und Werbeeinnahmen.
+5. [FIRST LINE — Veränderungen der Social-Media-Landschaft in Taiwan 2025](https://blog.firstline.cc/taiwan-2025-social-media-landscape/): Nutzung von LINE, IG, Facebook, Threads etc. und Generationenunterschiede in Taiwan.
+6. [Kolr Influencer Radar — Entscheidende Erfolgsfaktoren für Markenmarketing 2026](https://www.kolr.ai/trend-sharing/2026-influencer-marketing-trend/): Trends bei Nano- und Micro-Influencern sowie Verschiebungen der Marketingbudgets.
+7. [DailyView — Aufstieg und Fall von Influencern: 10 Jahre Internet-Wandel](https://dailyview.tw/popular/detail/26567): Der Weg taiwanesischer Millionen-YouTuber von einem auf über 160.
+8. [PRO360 — Preisliste für YouTuber-Kooperationen 2026](https://www.pro360.com.tw/price/youtube_advertorial): Marktpreise für Kooperationen verschiedener KOL-Kategorien.
+9. [Influencer Marketing Hub — Benchmark Report 2026](https://influencermarketinghub.com/influencer-marketing-benchmark-report/): Globaler Influencer-Marketing-Markt überschreitet 33 Milliarden USD; Trends bei Markenbudgets.
 
 ---
 
 ## Weiterführende Literatur
 
-- [AAMA台北搖籃計畫](/de/economy/aama-taipei-cradle-program)：Ein zweijähriges Mentorenprogramm ohne Investition oder Anteilnahme – unterstützt von Gründern wie Lin Chi-wei (林啟維), Gründer der Creator-Plattform Portaly, ein weiteres Beispiel für taiwanesische Unterstützungsnetzwerke im Creator-Bereich
-- [SLP台北創業領導計畫](/de/economy/slp-taipei-startup-leadership-program)：Ein sechsmonatiges Gründungstraining, bei dem persönliche Eigenschaften 50% der Auswahlkriterien ausmachen – spiegelt das Prinzip wider, dass der Creator vor dem Unternehmen steht
+- [AAMA Taipei Cradle Program](/de/economy/aama-taipei-cradle-program): Ein zweijähriges Mentorenprogramm ohne Investitionen oder Anteilsübernahme; Alumni umfasst unter anderem den Gründer der Creator-Business-Plattform Portaly, Lin Qi-wei – ein weiteres taiwanesisches Unterstützungsnetzwerk hinter der Creator Economy.
+- [SLP Taipei Entrepreneurship Leadership Program](/de/economy/slp-taipei-startup-leadership-program): Ein sechsmonatiges Gründungstraining, bei dem persönliche Eigenschaften die Hälfte des Auswahlkriteriums ausmachen; spiegelt die Logik „Individuum vor Unternehmen“ der Creator Economy wider.
