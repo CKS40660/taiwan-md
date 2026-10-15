@@ -1,17 +1,17 @@
 ---
-title: 'Cultura de alimentos fermentados y curtidos de Taiwán'
-description: 'Desde el tofu fermentado hasta el tofu ácido, explorando las técnicas de fermentación y tradiciones de curtido únicas de Taiwán'
+title: 'Alimentos fermentados y cultura de encurtidos de Taiwán'
+description: 'La fusión de técnicas minnan, hakka, indígenas y japonesas ha dado lugar a un sistema de sabores único en los alimentos fermentados y la cultura de encurtidos de Taiwán: desde el tofu maloliente de los callejones hasta el tofu fermentado presente en cada hogar, desde las verduras en salsa hasta el vino de arroz dulce, estos alimentos aparentemente ordinarios esconden profundos principios científicos y transmisión cultural. Los alimentos fermentados son tanto un eslabón de la industria alimentaria como un puente cultural que vincula la memoria étnica con la vida moderna, registrando la sabiduría culinaria de la isla.'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
-    'alimentos fermentados',
-    'cultura de curtido',
-    'tofu fermentado',
-    'tofu ácido',
-    'kimchi',
-    'técnicas tradicionales',
-    'microbios',
+    'Alimentos fermentados',
+    'Cultura de encurtidos',
+    'Tofu maloliente',
+    'Tofu fermentado',
+    'Encurtidos',
+    'Técnicas tradicionales',
+    'Microorganismos',
   ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Tofu fermentado de Xizhen'
+imageAlt: 'Tofu maloliente de Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T22:23:53.899171+00:00'
 ---
 
 # Cultura de alimentos fermentados y curtidos de Taiwán

@@ -1,10 +1,8 @@
 ---
-title: 'Jerry Yang: de conocer una sola palabra en inglés a ser el padre de Yahoo!, el portal que abrió una era'
-description: 'En 1978, Jerry Yang, de 10 años, emigró a Estados Unidos desde Taipéi y solo conocía la palabra "Shoe". En 1994, mientras evitaba su tesis doctoral en la Universidad de Stanford, él y su socio clasificaban manualmente páginas web desde una caravana, creando accidentalmente Yahoo!, que alcanzó una capitalización de mercado de más de 100 000 millones de dólares. En 2005, con una "apuesta descabellada" por Alibaba, redefinió el mapa global de internet.'
+title: 'Jerry Yang: de conocer solo una palabra en inglés a convertirse en el padre de «Yahoo», que abrió la era de los portales web globales'
+description: 'En 1978, Jerry Yang, de 10 años, emigró a Estados Unidos sabiendo solo la palabra «Shoe». En 1994, mientras evitaba su tesis doctoral en la Universidad de Stanford, él y su socio categorizaron manualmente páginas web en un remolque, creando Yahoo!, organizando el caótico mundo de internet en un directorio e inaugurando la edad de oro de los portales web. El valor de mercado de la empresa superó en un momento los 100 mil millones de dólares, y en 2005 hizo una «apuesta loca» invirtiendo en Alibaba, redefiniendo el panorama global de internet.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'Jerry Yang',
@@ -16,15 +14,17 @@ tags:
     'Silicon Valley',
     'Taiwán',
   ]
-readingTime: 12
+subcategory: '科技與企業'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-06-12T00:53:04+08:00'
+translatedAt: '2026-10-15T22:52:40.322937+00:00'
 ---
 
 > **Panorama en 30 segundos:**
