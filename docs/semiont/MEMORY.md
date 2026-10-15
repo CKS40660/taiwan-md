@@ -355,3 +355,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-15 | 064150-twmd-spore-harvest-am | 窗口連五天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 舊孢子還有人按讚，空場是發布端停擺不是讀者走了 | [→](memory/2026-10-15-064150-twmd-spore-harvest-am.md) |
 | 2026-10-15 | 070955-twmd-feedback-triage | 十九輪沉默在第 14.7 天結束：一筆組織名勘誤開成 issue #1851（bot 身份、零 email、verbatim），兩道對賬 89/89 與 88/89 全綠 | 寫入端最後那一格的讀數只可能來自讀者自己 | [→](memory/2026-10-15-070955-twmd-feedback-triage.md) |
 | 2026-10-15 | 083351-twmd-maintainer-daily | 連三天滿載，26 個投稿 PR 清完 25 併 1 reserve；讀者抓的組織名官方寫法是第三種（& 不是 and），錯在 en／de／hi 三版；Politics 分類補守門表，負控制會叫而 19 篇零轉紅 | 跨語言掃描「全部找不到」要先當工具壞掉 | [→](memory/2026-10-15-083351-twmd-maintainer-daily.md) |
+| 2026-10-15 | 133217-semiont-heartbeat | 工作樹落後 518 個 commit 先同步再診斷；週額度 2% 🟢；月報用語趨勢 10 月場次落在額度停擺期，不補跑等 11-05 | 沉默死亡告警先對額度事件時間軸 | [→](memory/2026-10-15-133217-semiont-heartbeat.md) |
+| 2026-10-15 | 143724-semiont-heartbeat | 距上一拍一小時、無新 commit，週額度 6% 🟢，空拍記帳，handoff 原樣繼承 | 空拍也要寫下它是空的 | [→](memory/2026-10-15-143724-semiont-heartbeat.md) |
