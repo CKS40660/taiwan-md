@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'c0f587606'
-sourceContentHash: 'sha256:322fadf3d54cf027'
-sourceBodyHash: 'sha256:5a14ed890fa46c36'
-translatedAt: '2026-09-14T00:53:31+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:b9213e8245304093'
+sourceBodyHash: 'sha256:d67040679486fd02'
+translatedAt: '2026-10-15T03:50:18.782027+00:00'
 ---
 
 Pada tanggal 11 Agustus 2024 (waktu Taiwan), di atas tanah merah lapangan Roland Garros di Paris, ketika lonceng pertandingan emas kelas 57 kg wanita berdentang, atlet Taiwan Lin Yu-ting mengalahkan atlet Polandia Julia Szeremeta dengan keunggulan mutlak lima banding nol[^1][^2]. Seperti setelah kekalahan Olimpiade Tokyo, ia kembali mengangkat pelatihnya Tseng Tzu-chiang—yang telah menemaninya selama lima belas tahun—setelah pertandingan. Momen ini tidak hanya mewujudkan keinginan bertahun-tahun antara guru dan murid, tetapi juga membawa medali emas tinju pertama dalam sejarah Taiwan[^3][^5]. Namun, berat medali emas ini jauh melebihi batas fisik dari medali itu sendiri—sebelum ia mendarat, Lin Yu-ting terpaksa berdiri di pusat badai opini global, menanggung tuduhan gender yang masif dan perburuan penyihir siber lintas negara[^5].
@@ -36,14 +36,15 @@ Pada tanggal 11 Agustus 2024 (waktu Taiwan), di atas tanah merah lapangan Roland
 
 Melihat jejak pertumbuhan Lin Yu-ting, tinju awalnya bukanlah karena kekaguman romantis terhadap olahraga, melainkan bentuk pertahanan naluriah. Bayangan kekerasan dalam rumah tangga di masa kecil membuatnya merasakan kejamnya kenyataan dan ketidakberdayaan sejak dini. Dalam beberapa wawancara, ia pernah mengakui: "Ketika saya masih kecil, ayah sering memukul ibu, jadi saya bergabung dengan tim tinju, berharap saya bisa melindungi ibu dengan kekuatan saya sendiri."[^9][^10]. Pecahan konflik keluarga membentuk kecemasan masa mudanya, dan klub tinju di ruang bawah tanah Sekolah Menengah Kejuruan Yingge di Kota New Taipei menjadi tempat perlindungan baginya untuk melarikan diri dari kenyataan dan menguji kemauannya[^11].
 
-## Revolusi Tinju Akar Rumput di Arena yang Sulit
+## Revolusi Tinju Akar Rumput di Fasilitas yang Serba Terbatas
 
-Lingkungan latihan saat itu sangat sederhana, tanpa peralatan pelindung kelas atas atau tim medis; hanya kantong pasir kasar, dinding yang kusam, dan keringat hari demi hari. Di sinilah ia bertemu dengan Tseng Tzu-chiang[^7][^8], sang pelatih yang mengubah hidupnya. Tseng Tzu-chiang melihat kegigihan yang tidak mau menyerah di mata gadis kurus ini, dan mereka membangun ikatan erat seperti ayah dan anak, sekaligus guru dan teman, memulai revolusi tinju akar rumput Taiwan selama lebih dari sepuluh tahun[^7][^8].
+Kondisi pelatihan saat itu sangatlah sederhana; tidak ada perlengkapan pelindung kelas atas maupun tim medis, yang ada hanyalah samsak kasar, dinding yang kusam, dan keringat yang mengucur hari demi hari. Justru di sinilah, ia bertemu dengan pelatihnya, Tseng Tzu-chiang, yang mengubah hidupnya[^7][^8]. Tseng Tzu-chiang melihat kegigihan seorang gadis kurus yang tidak mau menyerah pada keadaan; sejak saat itu, keduanya membangun ikatan erat layaknya ayah dan anak, sekaligus guru dan teman, guna memulai sebuah revolusi tinju akar rumput di Taiwan yang berlangsung selama belasan tahun[^7][^8].
 
 ```tw-stat
-5:0 | Skor Pertandingan Emas Paris | Kemenangan Mutlak atas Lawan (Menang di Empat Ronde)
-15 Tahun | Masa Bersama Guru dan Murid | Pelatih Tseng Tzu-chiang Selalu Mendampingi
-1st | Rekor Status Sejarah | Medali Emas Tinju Pertama dalam Sejarah Olimpiade Taiwan
+5:0 | Skor Pertandingan Emas Paris | Kemenangan telak atas lawan (empat kemenangan beruntun)
+15 Tahun | Masa Kebersamaan Guru dan Murid | Pelatih Tseng Tzu-chiang mendampingi sepanjang perjalanan
+1st | Rekor Status Sejarah | Medali emas tinju pertama dalam sejarah Olimpiade Taiwan
+Sumber: Laporan pertandingan Olimpiade Paris serta wawancara dengan pelatih Tseng Tzu-chiang dan Lin Yu-ting sendiri (lihat catatan kaki sebelumnya) [^1][^2][^7][^8][^9]
 ```
 
 ## "Kami Juga Harus Menjadi Penyihir Kami Sendiri": Resonansi Filosofis Guru dan Murid
@@ -74,15 +75,16 @@ Namun, perjalanan seorang atlet tidak pernah mulus. Pada Olimpiade Tokyo 2020, L
 
 Menghadapi tekanan psikologis yang besar setelah kekalahan Olimpiade Tokyo, pelatih Tseng Tzu-chiang segera mencari bantuan dari psikolog olahraga (seperti Hong Zi-feng) sejak dini[^6][^16]. Lin Yu-ting mempelajari "metode pemindahan titik sakit," mengubah kesedihan karena kegagalan menjadi dukungan terhadap rekan setim dan rekonstruksi obsesif terhadap detail teknis[^40]. Pengasahan ketahanan psikologis ini memungkinkannya untuk tetap tenang di tengah badai global Olimpiade Paris.
 
-## Badai Tak Berdasar di Kejuaraan Dunia New Delhi dan Jebakan Sistemik
+## Badai Tanpa Alasan di Kejuaraan Dunia New Delhi dan Jebakan Institusional
 
-Tepat ketika ia menyesuaikan mentalnya dan kembali ke puncak dunia, ujian yang lebih besar datang pada Kejuaraan Dunia New Delhi 2023. Saat itu, ia tiba-tiba dicabut kualifikasi medali perunggu oleh International Boxing Association (IBA) dengan alasan "anomali indeks biokimia" yang tidak jelas[^3][^4][^17]. Keputusan ini tanpa dasar ilmiah yang transparan dan saluran banding yang sah, menanam benih kontroversi sistemik di dunia olahraga internasional.
+Tepat saat ia sedang menyesuaikan mentalitas untuk kembali ke peringkat satu dunia, ujian yang lebih besar datang secara diam-diam pada Kejuaraan Dunia 2023 di New Delhi. Saat itu, tanpa peringatan sebelumnya, ia didiskualifikasi dari medali perunggu oleh International Boxing Association (IBA) dengan alasan "anomali indeks biokimia" yang tidak jelas[^3][^4][^17]. Keputusan ini kurang memiliki dasar ilmiah yang transparan dan saluran banding yang semestinya, sehingga menanam benih kontroversi dalam dunia olahraga internasional di kemudian hari.
 
 ```tw-timeline
-2021 | Kekalahan Olimpiade Tokyo | Debut di panggung tertinggi terhenti secara tak terduga di babak awal; setelah pertandingan ia mengangkat pelatih dan berjanji untuk kembali ke puncak.
-2023 | Badai Gender Kejuaraan Dunia | Dicabut medali perunggu oleh IBA karena anomali tes biokimia, mengalami kegagalan sistemik terbesar dalam karier olahraga.
-2024 | Puncak Olimpiade Paris | Menahan tekanan perburuan penyihir lintas negara global, meraih emas dengan mengalahkan empat lawan 5-0, menyelesaikan mahkota sejarah.
-2026 | Pengakuan World Boxing | Setelah satu setengah tahun banding, World Boxing secara resmi mengakui kelayakannya, memulihkan kehormatannya.
+2021 | Kegagalan Olimpiade Tokyo | Pertama kali menginjakkan kaki di panggung tertinggi namun terhenti secara tak terduga di babak pertama; setelah pertandingan, ia menggendong pelatihnya dan berjanji untuk kembali ke puncak.
+2023 | Badai Gender Kejuaraan Dunia | Medali perunggu dicabut oleh IBA dengan alasan anomali tes biokimia, mengalami hambatan institusional terbesar dalam karier atletiknya.
+2024 | Puncak Olimpiade Paris | Menahan tekanan perburuan penyihir (witch hunt) dari opini publik global lintas negara, meraih emas dengan menyapu bersih empat pertandingan dengan skor 5-0, menyelesaikan Grand Slam sejarah.
+2026 | Pengakuan World Boxing | Setelah melalui proses banding selama satu setengah tahun, World Boxing secara resmi mengakui kelayakan partisipasinya dan memulihkan nama baiknya.
+Sumber: Kutipan dari laporan Olimpiade Tokyo, kontroversi pencabutan medali perunggu oleh IBA, dan pengakuan World Boxing tahun 2026[^3][^4][^15][^17]
 ```
 
 ## Korban Perebutan Kekuasaan Tata Kelola Dunia Olahraga dan Interpretasi Ilmiah
