@@ -1,14 +1,14 @@
 ---
-title: 'La culture des desserts glacés à Taïwan'
-description: 'Du manghiers à glace de Yüliùng aux révolutions de la glace neigeuse, explorez la culture unique des Taïwanais qui mangent de la glace même en hiver'
+title: 'Culture des desserts glacés à Taïwan'
+description: "La passion des Taïwanais pour les produits glacés est rare dans le monde, les établissements restant bondés même en hiver. Cette culture remonte à l'introduction des techniques de fabrication de glace pendant la période coloniale japonaise, passant par la popularisation de la glace pilée après la guerre et l'apparition de la glace floconneuse (snow ice). De Taichung, Chen Xi s'est inspiré du dessert japonais aux quatre fruits pour développer le « Mame Ice » (glace aux haricots sucrés), tandis que la glace à la mangue d'Yujing a acquis une renommée internationale, influençant même l'industrie de la pêche et de la réfrigération. C'est une histoire d'évolution avec des étapes chronologiques bien définies."
 date: 2026-03-19
 category: 'Food'
 tags:
   [
     'desserts glacés',
-    'manghiers à glace',
-    'glace neigeuse',
-    'granité',
+    'glace à la mangue',
+    'glace floconneuse',
+    'glace pilée',
     'ICE MONSTER',
   ]
 subcategory: '烘焙與甜點'
@@ -17,15 +17,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Manghiers à glace de Taipei'
+imageAlt: 'Glace à la mangue de Taipei'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T14:59:32+08:00'
+translatedAt: '2026-10-15T20:15:10.523433+00:00'
 ---
 
 # La culture des desserts glacés à Taïwan
