@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-15T23:30:26+08:00",
-    "zhCommitHead": "8d942e27d",
+    "lastUpdated": "2026-10-15T23:36:14+08:00",
+    "zhCommitHead": "d0e458508",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1135,
-        "fresh": 1101,
+        "fresh": 1102,
         "stale": 1,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 2,
         "orphan": 0
       },
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1135,
-        "fresh": 1094,
+        "fresh": 1095,
         "stale": 5,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 2,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 3,
-        "metadata_stale": 32,
+        "metadata_stale": 31,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 4,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 2,
         "orphan": 0
       }
@@ -15132,20 +15132,18 @@
         "ru": {
           "path": "ru/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "dba1a13f6",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "translatedAt": "2026-10-15T20:18:06+08:00",
           "translationLastCommit": "b0a1dc89",
           "translationLastModified": "2026-08-04T17:31:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18630,
+          "bytes": 20827,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwanese-companies-quanta-computer.md",
@@ -16846,20 +16844,18 @@
         "en": {
           "path": "en/Economy/compal-electronics-global-odm-leader.md",
           "translatedFrom": "Economy/台灣企業：仁寶電腦.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:0a05f936441dbbcf",
+          "sourceCommitSha": "ad792c900",
+          "sourceContentHash": "sha256:42e5977dc5bcc26b",
           "sourceBodyHash": "sha256:aead7a66c3b88ec5",
-          "translatedAt": "2026-05-15T13:52:05+08:00",
+          "translatedAt": "2026-10-15T20:18:28+08:00",
           "translationLastCommit": "3147a527",
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16339,
+          "bytes": 16103,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/compal-electronics-global-odm-leader.md",
@@ -19524,8 +19520,8 @@
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "c0e73f55",
-          "translationLastModified": "2026-10-10T23:13:40+08:00",
+          "translationLastCommit": "d0e45850",
+          "translationLastModified": "2026-10-15T23:30:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 19307,
@@ -33926,8 +33922,8 @@
           "sourceContentHash": "sha256:ef6914cecff85dfb",
           "sourceBodyHash": "sha256:6cc55941dd179c34",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "64421bab",
-          "translationLastModified": "2026-10-03T03:59:21+08:00",
+          "translationLastCommit": "d0e45850",
+          "translationLastModified": "2026-10-15T23:30:26+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 16461,
@@ -54426,8 +54422,8 @@
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "e9059f94",
-          "translationLastModified": "2026-08-04T13:43:18+08:00",
+          "translationLastCommit": "d0e45850",
+          "translationLastModified": "2026-10-15T23:30:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 10938,
@@ -89928,8 +89924,8 @@
           "sourceContentHash": "sha256:53a697c302d622a3",
           "sourceBodyHash": "sha256:7ed841e26f0abf1f",
           "translatedAt": "2026-10-15T20:17:52+08:00",
-          "translationLastCommit": "6b7ba788",
-          "translationLastModified": "2026-10-02T10:26:32+08:00",
+          "translationLastCommit": "d0e45850",
+          "translationLastModified": "2026-10-15T23:30:26+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 16084,
@@ -150154,20 +150150,18 @@
         "de": {
           "path": "de/People/niu-cheng-ze-controversial-filmmaker-monga-director.md",
           "translatedFrom": "People/鈕承澤.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:03252333a42bc60e",
+          "sourceCommitSha": "ad792c900",
+          "sourceContentHash": "sha256:12d3122bbe1c03b4",
           "sourceBodyHash": "sha256:decf157a216cec86",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translatedAt": "2026-10-15T20:18:07+08:00",
           "translationLastCommit": "0fda2654",
           "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 12424,
+          "bytes": 13062,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -183536,20 +183530,18 @@
         "vi": {
           "path": "vi/History/taiwan-maritime-trade-history.md",
           "translatedFrom": "History/台灣海洋貿易史.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "0fdd33305",
           "sourceContentHash": "sha256:3828ee010a982636",
           "sourceBodyHash": "sha256:1b234f51be7edbb9",
-          "translatedAt": "2026-09-22T04:48:28+08:00",
+          "translatedAt": "2026-10-15T15:26:35.922572+00:00",
           "translationLastCommit": "e6953cf6",
           "translationLastModified": "2026-09-22T07:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13963,
+          "bytes": 13820,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-maritime-trade-history.md",
