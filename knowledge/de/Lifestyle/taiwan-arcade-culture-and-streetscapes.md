@@ -1,9 +1,9 @@
 ---
-title: 'Die Arkadenkultur und Stadtansichten Taiwans'
-description: 'Lebenskorridore zum Schutz vor Wind und Regen, in denen Roller, Straßenhändler und menschliche Wärme verschmelzen – die städtische Erinnerung Taiwans'
+title: 'Die taiwanesische Arkadenkultur und das Stadtbild'
+description: 'Taiwanesische Arkaden (Qilou) sind eine seit der japanischen Kolonialzeit ab 1900 verbreitete Architekturform, die kolonialen südostasiatischen Stil mit lokalen Bedürfnissen verbindet: Das Design mit hervorstehendem Obergeschoss und offenem Erdgeschoss schafft halböffentliche Räume für Straßenhandel, Motorradparkplätze und soziale Interaktion.'
 date: 2026-03-20
 category: 'Lifestyle'
-tags: ['Lifestyle', 'Arkade', 'Stadtbild', 'Urbanität']
+tags: ['Lifestyle', 'Arkaden', 'Stadtbild', 'urbane Kultur']
 subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: false
@@ -11,114 +11,114 @@ lastVerified: 2026-03-20
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
-translatedAt: '2026-09-12T16:22:12+08:00'
+translatedAt: '2026-10-15T15:59:57+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Die Arkaden Taiwans wurden ab der japanischen Kolonialzeit um 1900 verbreitet und kombinieren südostasiatische Kolonialarchitektur mit lokalen Bedürfnissen. Das Design mit dem hervorstehenden zweiten Stock und dem offenen Erdgeschoss schafft einen halböffentlichen Raum, der Funktionen wie den Straßenhändlerkultur, das Parken von Motorrollern und soziale Nachbarschaftstreffen beherbergt und zu einer städtischen Landschaft mit viel Wärme in Taiwan geworden ist.
+> **30-Sekunden-Überblick:** Die taiwanesischen Arkaden (Qilou) sind eine Architekturform, die seit der japanischen Kolonialzeit ab 1900 gefördert wurde und südostasiatische Kolonialarchitektur mit lokalen Bedürfnissen verbindet. Das Design mit einem hervorstehenden Obergeschoss und einem offenen Erdgeschoss schafft halböffentliche Räume, die vielfältige Funktionen wie Straßenhandel, Motorradparkplätze und soziale Interaktion ermöglichen und so zu einem der lebendigsten Elemente des taiwanesischen Stadtbildes geworden sind.
 
-Wenn Sie in Taiwan aufgewachsen sind, haben Sie diese Erinnerungen sicher: Regen unter der Arkade Schutz suchen, nach dem Schulschluss im Arkadenbereich eine Friede kaufen oder abends im Sommer unter der Arkade vor einem Ventilator sitzen und plaudern. Dieser wind- und regenabweisende Gang trägt die gemeinsamen Lebenserinnerungen der Taiwanesen in sich.
+Wer in Taiwan aufgewachsen ist, hat sicher diese Erinnerungen: an Regentage, an denen man unter den Arkaden Schutz suchte; nach der Schule, wenn man unter ihnen ein Stück Hähnchen (Ji Pai) kaufte; oder laue Sommerabende, an denen man im Schatten der Arkaden im Wind des Ventilators saß und plauderte. Diese wettergeschützten Korridore tragen die kollektiven Lebenserinnerungen der Menschen in Taiwan.
 
-## Die südostasiatische Übertragung während der japanischen Herrschaft
+## Südostasiatische Einflüsse während der japanischen Kolonialzeit
 
-Die Arkaden sind nicht taiwanesisch urheberrechtlich, sondern architektonisches Wissen, das die Japaner aus Südostasien gelernt haben.
+Die Arkaden sind keine taiwanische Erfindung, sondern architektonisches Wissen, das die Japaner aus Südostasien mitbrachten.
 
-Im Jahr 1900 förderte die japanische Kolonialregierung den „Taipei City Improvement Plan“ und führte die Arkadenarchitektur erstmals in großem Maßstab ein. Die Gouvernementsverwaltung stellte fest, dass die _Shop Houses_ (Geschäftshäuser) aus Städten wie Singapur und Penang gut zu dem Klima und den kommerziellen Anforderungen Taiwans passten.
+Im Jahr 1900 trieb die japanische Kolonialregierung den „Plan zur Verbesserung des Stadtgebiets von Taipeh“ voran und führte Arkadenarchitektur erstmals in großem Maßstab ein. Das damalige Generalgouvernement stellte fest, dass die „Shop House“-Architektur aus Orten wie Singapur oder Penang sehr gut zum Klima und den kommerziellen Bedürfnissen Taiwans passte.
 
-Diese Architektur hat einen cleveren Trick: Das Erdgeschoss ist teilweise zurückgesetzt, während der zweite Stock herausragt, wodurch ein überdachter Gang entsteht. Dies schützt vor Sonne und Regen und erhöht gleichzeitig die Wohnfläche – ein Gewinn auf ganzer Linie.
+Diese Bauweise besitzt eine kluge Funktion: Das Erdgeschoss wird leicht zurückgesetzt, während das Obergeschoss hervorsteht, wodurch ein überdachter Korridor entsteht. Dies bietet sowohl Schutz vor Sonne als auch vor Regen und vergrößert gleichzeitig die Nutzfläche der Gebäude – zwei Vorteile in einem.
 
-Die Planung der Japaner war sehr standardisiert: Die Säulenabstände waren vereinheitlicht, die Höhen konsistent und die Tiefe festgelegt. Sie wollten eine geordnete, moderne Stadt, die die Ordnung und Effizienz der Kolonialherrschaft symbolisierte.
+Die japanische Planung legte großen Wert auf Standardisierung: einheitliche Säulenabstände, gleiche Höhen und feste Tiefen. Das Ziel war eine geordnete, moderne Stadt, die die Ordnung und Effizienz des Kolonialregimes symbolisierte.
 
-Ab 1905 in Kaohsiung und ab den 1920er Jahren in Taichung und Tainan wurde die Arkadenarchitektur im ganzen Archipel verbreitet. Die Arkaden dieser Zeit wirkten tatsächlich sehr „japanisch“ – ordentlich, sauber, diszipliniert.
+Ab 1905 in Kaohsiung und in den 1920er Jahren in Taichung und Tainan wurde die Arkadenarchitektur auf der ganzen Insel verbreitet. Damals wirkten die Arkaden tatsächlich sehr „japanisch“ – reglementiert, sauber und wohlgeordnet.
 
-## Wilde Entwicklung nach dem Krieg
+## Postkoloniale lokale Entwicklung
 
-Als die Japaner 1945 gingen, übernahmen die Taiwanesen diese Arkaden. Da begannen interessante Dinge zu geschehen.
+Nachdem die Japaner 1945 abgezogen waren, übernahmen die Taiwaner diese Arkaden. Dabei geschah etwas Interessantes.
 
-Ohne die Einschränkungen der Standardisierung begannen die Taiwanesen, die Arkaden nach ihren eigenen Bedürfnissen umzubauen. Manche erhöhten sie, manche verbreiterten sie, manche bauten Eisenfenster ein, manche klebten Fliesen auf. Die ursprünglich einheitlichen Arkaden wurden zu „gemischten Stilen“ mit individuellen Charakteren.
+Ohne die einschränkende Standardisierung begannen die Menschen vor Ort, die Arkaden nach ihren eigenen Bedürfnissen umzugestalten. Einige erhöhten die Decken, andere verbreiterten die Räume, installierten Fenstergitter oder klebten Fliesen an die Wände. Aus den einst einheitlichen Arkaden wurde ein eklektischer „Mix-Stil“ mit individuellen Charakteren.
 
-Noch wichtiger war, dass sich die Nutzung der Arkaden vielfältig entwickelte. Sie waren nicht nur Geschäfte, sondern auch Fabriken, Lagerhäuser, Wohnzimmer und Restaurants. Das Modell der „Wohn-Geschäfts-Kombination“ (Erdgeschoss Geschäft, zweiter Stock Familie wohnen, dritte Etage an andere vermieten) wurde zu einem Merkmal der städtischen Entwicklung in Taiwan.
+Noch wichtiger war die Diversifizierung der Nutzung. Die Arkaden dienten nicht mehr nur als Geschäfte, sondern wurden zu Fabriken, Lagern, Wohnzimmern oder Restaurants. Im Erdgeschoss wurde Handel getrieben, im ersten Stock lebte die Familie und im zweiten wurde vermietet – dieses Modell der „Mischnutzung von Wohnen und Gewerbe“ wurde zu einem Markenzeichen der taiwanesischen Stadtentwicklung.
 
-## Die Bühne der Straßenhändlerwirtschaft
+## Die Bühne der Straßenökonomie
 
-Wenn die Arkade das Theater ist, sind die Straßenhändler die aktivsten Schauspieler.
+Wenn man die Arkaden als Theater betrachtet, dann sind die Straßenverkäufer die aktivsten Schauspieler.
 
-Die Kultur der Straßenhändler in Taiwan ist besonders ausgeprägt, und ein großer Grund dafür ist, dass die Arkaden einen „halblegalen“ Betriebsraum bieten. Theoretisch gehören die Arkaden zu Privatgrundstücken, aber Fußgänger können sie passieren, und die Händler finden hier ihren Lebensraum in dieser Grauzone.
+Die Straßenverkaufs-Kultur in Taiwan ist besonders ausgeprägt, was vor allem daran liegt, dass die Arkaden einen „halblegalen“ Geschäftsraum bieten. Theoretisch gehören die Arkaden zum Privatgrundstück, aber da Fußgänger sie passieren dürfen, finden Straßenverkäufer in dieser Grauzone ihren Lebensraum.
 
-Frühstücksstände besetzen morgens eine Ecke einer Arkade und verschwinden nach dem Verkauf. Obsthändler tauchen am Nachmittag auf und räumen abends ein. Die Nachtmarkt-Händler verwandeln die Arkaden nachts in kulinarische Gassen.
+Frühstückswagen besetzen morgens eine Ecke der Arkade und verschwinden nach dem Verkauf wieder. Obststände tauchen am Nachmittag auf und bauen abends ab. Nachtmarkt-Verkäufer verwandeln die Arkaden nachts in kulinarische Boulevards.
 
-Diese „Guerillataktik“ des Straßenhandels bot vielen eine Chance für den niedrigschwelligen Geschäftsstart. Ein kleiner Karren, ein Gasherd, einige kleine Hocker – und man konnte unter der Arkade Geschäfte beginnen.
+Diese „Guerilla-Art“ des Handels bietet vielen Menschen eine Möglichkeit zur Existenzgründung mit geringer Einstiegshürde. Ein kleiner Karren, ein Gasbrenner und ein paar Hocker genügen, um unter der Arkade ein Geschäft zu eröffnen.
 
-Natürlich führte dies auch zu Kopfschmerzen in der Verwaltung. Wem gehören die Arkaden? Darf hier gehandelt werden? Die Durchsetzungsstandards der Regierung waren immer vage und schufen einen seltsamen Zustand des „theoretisch nicht erlaubt, praktisch toleriert“.
+Natürlich führt dies auch zu Verwaltungsproblemen. Wem gehören die Arkaden eigentlich? Dürfen Verkäufer hier Handel treiben? Die Durchsetzungsstandards der Regierung waren lange Zeit vage, was zu dem seltsamen Zustand führte: „Rechtlich nicht zulässig, aber faktisch geduldet“.
 
-## Der Zufluchtsort des Motorradreichs
+## Zufluchtsort des Motorradkönigreichs
 
-Ab den 1980er Jahren trat Taiwan in das Zeitalter des „Motorradreiches“ ein. Jede Familie besaß Roller, und das Parken wurde zu einem großen Problem.
+Ab den 1980er Jahren trat Taiwan in das Zeitalter des „Motorradkönigreichs“ ein. Fast jeder Haushalt besaß ein Motorrad, was die Parkplatzsuche zu einem großen Problem machte.
 
-Die Arkade zeigte erneut ihre Anpassungsfähigkeit. Der halböffentliche Raum war perfekt zum Parken von Rollern – er bot Schutz vor Wind und Regen und beanspruchte keine Straße.
+Die Arkaden bewiesen erneut ihre Anpassungsfähigkeit. Der halb offene Raum eignet sich perfekt zum Abstellen von Motorrädern – sie sind vor Wetter geschützt und blockieren nicht die Fahrbahn.
 
-Allmählich wurde das Parken von Motorrollern in der Arkade zu einer Standardausstattung in den Städten Taiwans. Beim Kauf eines Hauses schaute man, ob es eine Arkade gab; beim Mieten prüfte man, ob Roller geparkt werden konnten. Ein großer Teil des Wertes einer Arkade stammt aus ihrer „Parkfunktion“.
+Allmählich wurde das Parken unter Arkaden zur Standardausstattung in taiwanesischen Städten. Beim Hauskauf achtet man darauf, ob es Arkaden gibt; bei der Miete prüft man, ob man sein Motorrad dort abstellen kann. Der Wert einer Arkade ergibt sich zu einem großen Teil aus ihrer „Parkfunktion“.
 
-Aber dies brachte auch neue Probleme mit sich: Die Arkaden waren ursprünglich für Fußgänger gedacht, aber wurden zu Parkplätzen – wohin sollen die Fußgänger gehen? Viele Arkaden sind voller Motorroller, und die Fußgänger müssen auf der Straße laufen, was zu städtischem Chaos durch „Konkurrenz zwischen Mensch und Fahrzeug“ führt.
+Dies brachte jedoch neue Probleme mit sich: Ursprünglich waren Arkaden für Fußgänger gedacht, doch nun dienen sie als Parkplätze. Wo sollen die Menschen gehen? Viele Arkaden sind so eng mit Motorrädern gefüllt, dass Fußgänger auf die Straße ausweichen müssen, was zu dem städtischen Chaos des „Konflikts zwischen Mensch und Fahrzeug“ führt.
 
-## Die visuelle Wucht des Schilderdschungels
+## Der visuelle Schock der Reklamen-Dschungel
 
-Das Erstaunlichste beim Spazierengehen durch die Straßen Taiwans sind die dicht gedrängten Schilder.
+Wer durch die Straßen Taiwans geht, wird von einer Dichte an Werbeschildern überwältigt.
 
-Jedes Geschäft möchte auffälliger sein, daher werden die Schilder größer und heller. Von Neonlicht zu LED, von Chinesisch zu Englisch – die Fassade der Arkade wird zu einem Schlachtfeld der Beschilderung.
+Jeder Laden möchte auffallen; die Schilder werden größer und heller. Von Neonlicht bis LED, von Chinesisch zu Englisch, von horizontalen zu vertikalen Formen – die Fassaden der Arkaden sind zum Schlachtfeld der Reklamen geworden.
 
-Ausländer, die zum ersten Mal nach Taiwan kamen, sind oft von dieser „Schilderdichte“ beeindruckt. Der Hongkonger Regisseur Wong Kar-wai sagte einmal, das Stadtbild Taipeis ähne einer Science-Fiction-Filme mit seiner dichten Ansammlung von Schildern und Neonlichtern, was eine Atmosphäre zukünftiger Städte erzeuge.
+Ausländer sind oft schockiert von dieser „Schilderdichte“. Der Hongkonger Regisseur Wong Kar-wai sagte einmal, dass die Straßenansicht von Taipeh wie ein Science-Fiction-Film wirke; die dichten Schilder und Neonlichter erzeugten die Atmosphäre einer futuristischen Metropole.
 
-Für die Taiwanesen sind diese Schilder jedoch Teil des Alltags. Das rote Schild von „Lao Zhang Beef Noodle“ (Altes Zhang Rindfleischnudeln), der rosafarbene Lichtkasten vom „Xiao Mei Beauty Salon“, das handgeschriebene Schild von „Apo’s Shop“ – jedes Schild hat eine Geschichte, und jede Geschichte hat menschliche Wärme.
+Für die Menschen in Taiwan gehören diese Schilder jedoch zum Alltag. Das rote Schild der „Lao Zhang Rindfleischnudeln“, das rosa Leuchtkasten des „Xiao Hairdressers“ oder das handgeschriebene Schild des „Gemischtwarenladens der Oma“ – jedes Schild erzählt eine Geschichte, und jede Geschichte trägt menschliche Wärme in sich.
 
-## Der Schnittpunkt menschlicher Wärme
+## Ein Treffpunkt der zwischenmenschlichen Wärme
 
-Das Wertvollste an der Arkade ist nicht die Architektur selbst, sondern der „Raum der menschlichen Beziehungen“, den sie schafft.
+Das Kostbarste an den Arkaden ist nicht die Architektur selbst, sondern der von ihr geschaffene „Raum der Menschlichkeit“.
 
-Am Abend im Sommer sitzen ältere Menschen unter der Arkade auf kleinen Hocker und plaudern. Kinder spielen in der Arkade, und die Ladenbesitzerin wäscht Gemüse in der Arkade. Diese alltäglichen Szenen geben der kalten Stadt Wärme.
+An Sommerabenden sitzen ältere Menschen auf kleinen Hockern unter den Arkaden und plaudern. Kinder spielen dort, und Ladenbesitzerinnen waschen Gemüse. Diese Alltagsszenen verleihen der kühlen Stadt Wärme.
 
-Besonders die Arkaden rund um traditionelle Märkte sind voller Leben. Die älteren Damen, die Gemüse verkaufen, ordnen ihre Waren unter der Arkade und plaudern dabei mit den Nachbarn. Die Hausfrauen, die einkaufen, verhandeln in der Arkade und diskutieren, welches Gemüse frischer ist.
+Besonders in der Umgebung traditioneller Märkte ist die Atmosphäre lebendig. Eine Marktfrau sortiert ihr Gemüse unter der Arkade und unterhält sich dabei mit Nachbarn. Hausfrauen vergleichen Preise im Schatten der Arkaden und diskutieren, wo das Gemüse am frischesten ist.
 
-Dieser „halböffentliche Raum“ schafft ein besonderes soziales Muster: Er ist weder vollständig privat noch vollständig öffentlich, sondern liegt zwischen beiden als „Nachbarschaftsraum“. Hier beginnen Fremde vielleicht beim Schutz vor Regen zu plaudern, und Nachbarn lernen sich möglicherweise durch die Parkposition der Roller kennen.
+Dieser „halböffentliche Raum“ schafft ein besonderes soziales Muster: Er ist weder rein privat noch rein öffentlich, sondern ein „Nachbarschaftsraum“ dazwischen. Hier können Fremde durch das gemeinsame Suchen nach Schutz vor dem Regen ins Gespräch kommen, und Nachbarn können sich über die Parkposition ihrer Motorräder kennenlernen.
 
-## Die Herausforderung der Existenz im Zeitalter der Stadtentwicklung
+## Herausforderungen im Zeitalter der Stadterneuerung
 
-In jüngster Zeit trifft die Welle der städtischen Erneuerung die traditionellen Arkaden.
+In den letzten Jahren hat die Welle der Stadterneuerung (Urban Renewal) die traditionellen Arkaden unter Druck gesetzt.
 
-Neubauten legen Wert auf modernes Design und verfügen normalerweise nicht über Arkaden. Tiefgaragen ersetzen das Parken in den Arkaden, klimatisierte Einkaufszentren ersetzen die Geschäfte in den Arkaden, und Aufzugshallen ersetzen den sozialen Raum der Arkade.
+Moderne Neubauten setzen auf zeitgemäßes Design und verzichten meist auf Arkaden. Tiefgaragen ersetzen das Parken unter Arkaden, klimatisierte Einkaufszentren ersetzen die kleinen Läden, und elegante Lobbys ersetzen den sozialen Raum der Arkaden.
 
-Einige klassische Arkadengassen stehen unter dem Druck des Abrisses und Wiederaufbaus. Entwickler halten die Arkaden für „nicht modern genug“, und die Regierung hält sie für „schwer zu verwalten“. Vor dem wirtschaftlichen Nutzen erscheint das kulturelle Erbe fragil.
+Einige klassische Arkadenviertel stehen unter dem Druck des Abrisses und Neubaus. Projektentwickler halten Arkaden für „nicht modern genug“, und auch die Regierung empfindet sie als „schwierig zu verwalten“. Angesichts wirtschaftlicher Effizienz wirkt das kulturelle Erbe oft fragil.
 
-Es gibt aber auch erfolgreiche Beispiele der Bewahrung. Die Dixiedagang (Dihua) in Taipei hat durch eine vollständige Planung die barocke Arkadenarchitektur erhalten und mit Tourismus und Kultur neu belebt. Die alten Straßen von Lukang und Dacai sind ebenfalls durch ihre Arkadenarchitektur zu eigenen Tourismusmarken geworden.
+Es gibt jedoch auch erfolgreiche Beispiele der Bewahrung. Die Dihua-Straße in Taipeh hat durch eine ganzheitliche Planung ihre barock anmutenden Arkaden erhalten und durch die Verbindung von Tourismus und Kreativwirtschaft zu neuem Leben erweckt. Auch die Altstadtstraßen von Lukang und Daxi zeichnen sich durch ihre Arkadenarchitektur aus und haben daraus eigene touristische Marken entwickelt.
 
-## Der räumliche Speicher der lokalen Identität
+## Räumliche Erinnerung und lokale Identität
 
-Für die Taiwanesen ist die Arkade nicht nur ein Bauwerk, sondern auch ein Träger des kollektiven Gedächtnisses.
+Für die Menschen in Taiwan sind Arkaden nicht nur Architektur, sondern Träger des kollektiven Gedächtnisses.
 
-Jeder hat seine eigene Arkadengeschichte: Im Kindesalter wartete man unter der Arkade auf den Bus, in der Jugend verabredete man sich dort, und im Erwachsenenalter kaufte man dort Nachtisch. Diese scheinbar gewöhnlichen Erfahrungen bilden die gemeinsamen Lebenserinnerungen der Taiwanesen.
+Jeder hat seine eigenen Geschichten mit den Arkaden: als Kind auf den Bus unter der Arkade warten, in der Pubertät dort Verabredungen treffen oder als Erwachsener dort einen Mitternachtssnack kaufen. Diese scheinbar alltäglichen Erfahrungen bilden das gemeinsame Lebensgefühl der Taiwaner.
 
-Besonders angesichts des globalen Einflusses ist die Arkadenkultur wertvoller geworden. Wenn internationale Ketten traditionelle kleine Läden ersetzen und moderne Gebäude historische Wohnhäuser ablösen, wird die Arkade zu einem wichtigen Symbol zur Aufrechterhaltung der lokalen Identität.
+Gerade unter dem Einfluss der Globalisierung wird die Arkadenkultur wertvoller. Wenn internationale Ketten die traditionellen kleinen Läden verdrängen und moderne Architektur die historischen Häuser ersetzt, werden die Arkaden zu einem wichtigen Symbol für die Wahrung der lokalen Identität.
 
-Der Charakter eines Ortes liegt nicht darin, wie sehr er dem Ausland ähnelt, sondern darin, wie einzigartig er ist. Die Arkadenkultur Taiwans ist dieser „Einzigartigkeit“ Ausdruck – eine besondere Mischung aus kolonialer Geschichte, lokaler Anpassung und bürgerlichem Geschick.
+Das Besondere eines Ortes liegt nicht darin, wie sehr er dem Ausland ähnelt, sondern darin, wie einzigartig er ist. Die taiwanesische Arkadenkultur ist die Verkörperung dieser Einzigartigkeit – ein besonderer Raum, der Kolonialgeschichte, lokale Anpassung und volkstümliche Weisheit vereint.
 
-## Zukünftige Möglichkeiten
+## Zukunftsmöglichkeiten
 
-Wohin wird die Arkadenkultur gehen?
+Wohin wird sich die Arkadenkultur entwickeln?
 
-Einerseits stehen die traditionellen Arkaden tatsächlich vor Herausforderungen. Die Sicherheitsfragen alter Gebäude, die neuen Anforderungen des modernen Lebens und die Effizienz der Stadtverwaltung üben Druck auf ihre Existenz aus.
+Einerseits stehen die traditionellen Arkaden vor echten Herausforderungen. Sicherheitsfragen alter Gebäude, neue Anforderungen des modernen Lebens und Effizienzüberlegungen in der Stadtverwaltung setzen die Existenz der Arkaden unter Druck.
 
-Andererseits suchen die Arkaden nach neuen Möglichkeiten. Einige junge Menschen eröffnen Cafés, Buchläden oder Ateliers in alten Arkaden und interpretieren den traditionellen Raum auf neue Weise. Die Regierung beginnt auch, den kulturellen Wert der Arkaden zu schätzen und Bewahrungs- und Revitalisierungsprojekte voranzutreiben.
+Andererseits suchen die Arkaden nach neuen Möglichkeiten. Einige junge Menschen eröffnen Cafés, Buchläden oder Ateliers in alten Arkaden und interpretieren den traditionellen Raum auf neue Weise. Auch die Regierung beginnt, den kulturellen Wert der Arkaden stärker zu gewichten und Projekte zur Erhaltung und Revitalisierung zu fördern.
 
-Was noch wichtiger ist: Der von den Arkaden getragene Wert – die Verbindung zwischen Menschen, die Wärme der Gemeinschaft, die Flexibilität des Lebens – ist in modernen Städten immer noch wertvoll. Vielleicht werden zukünftige Arkaden nicht mehr ganz wie die Vergangenheit sein, aber das Konzept des „menschlichen Raumes“, das sie repräsentieren, verdient es, geschätzt und gefördert zu werden.
+Viel wichtiger ist jedoch, dass die Werte, die die Arkaden tragen – die Verbindung zwischen Menschen, die Wärme der Gemeinschaft und die Flexibilität des Lebens – in der modernen Stadt weiterhin kostbar sind. Vielleicht werden die Arkaden der Zukunft nicht mehr exakt so aussehen wie früher, aber das Konzept des „humanisierten Raums“, das sie repräsentieren, ist es wert, dass wir es schätzen und weiterentwickeln.
 
-Schließlich liegt die Schönheit einer Stadt nicht nur darin, wie modern sie ist, sondern auch darin, wie warm sie ist. Und die Arkade ist der Zeuge dieser Wärme.
+Schließlich bemisst sich die Schönheit einer Stadt nicht nur an ihrer Modernität, sondern auch an ihrer Wärme. Und die Arkaden sind das Zeugnis dieser Wärme.
 
 ## Referenzen
 
-- [Ministerium für Kultur: Untersuchung des architektonischen Kulturerbes der Arkaden in Taiwan] (https://www.moc.gov.tw/)
-- [Stadtentwicklungsbüro von Taipei: Erhaltungsprojekte historischer Stadtviertel] (https://uro.gov.taipei/)
-- [Bauaufsichtsbehörde: Vorschriften zur städtischen Gestaltung] (https://www.cpami.gov.tw/)
-- [Academia Sinica, Institut für Taiwangeschichte: Geschichte der städtischen Entwicklung in Taiwan] (https://www.ith.sinica.edu.tw/)
-- [Nationalmuseum von Taiwan: Sonderausstellung zur taiwanesischen Architekturkultur] (https://www.ntm.gov.tw/)
+- [Kulturministerium: Untersuchung des kulturellen Erbes der taiwanesischen Arkadenarchitektur](https://www.moc.gov.tw/)
+- [Amt für Stadterneuerung der Stadt Taipeh: Erhaltungsplan für historische Viertel](https://uro.gov.taipei/)
+- [Bauamt: Richtlinien für die Prüfung des Stadtdesigns](https://www.cpami.gov.tw/)
+- [Institut für Taiwanesische Geschichte (Academia Sinica): Geschichte der Stadtentwicklung in Taiwan](https://www.ith.sinica.edu.tw/)
+- [Nationales Taiwan-Museum: Sonderausstellung zur taiwanesischen Architekturkultur](https://www.ntm.gov.tw/)
