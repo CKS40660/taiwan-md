@@ -1,15 +1,15 @@
 ---
-title: 'Cultura de Comunidade e o Sistema de Li em Taiwan'
-description: 'Da prática democrática mais básica à inovação social na construção comunitária'
+title: 'Cultura de Comunidades e Bairros em Taiwan'
+description: 'O bairro (li) é a menor célula da sociedade democrática de Taiwan: o chefe do bairro convoca reuniões de residentes, os líderes de vizinhança reportam porta a porta, e as universidades comunitárias oferecem aulas na sala ao lado. Este artigo parte do sistema de base dos bairros e vilas, percorre o movimento de revitalização comunitária e os experimentos das universidades comunitárias, observando como a participação cidadã passou da aceitação passiva para a transformação ativa, e como esta rede de base sustenta a resiliência social de Taiwan.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Sistema de Li/Vizinhança',
-    'Construção Comunitária',
-    'Universidade Comunitária',
-    'Participação Cívica',
-    'Autogoverno Local',
+    'Sistema de bairros e vilas',
+    'Revitalização comunitária',
+    'Universidade comunitária',
+    'Participação cidadã',
+    'Autogoverno local',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T19:21:53.072732+00:00'
 ---
 
 # Cultura de Comunidade e o Sistema de Li em Taiwan

@@ -1,8 +1,8 @@
 ---
 title: 'Arquitetura de Taiwan'
-description: 'Das casas de ardósia aos arranha-céus: uma viagem pela história arquitetônica de uma ilha'
+description: 'Desde as casas de pedra do povo Paiwan e os edifícios de tijolos vermelhos deixados por Matsunosuke Moriyama, até às linhas de Wang Da-hong que lançaram as bases da arquitetura moderna, passando pelas construções públicas sem muros erguidas por Huang Sheng-yuan entre os arrozais de Yilan. Ao longo de quatrocentos anos, a sabedoria construtiva dos povos indígenas, holandeses, japoneses e chineses colidiu nesta ilha; a Bienal de Arquitetura de Veneza descreveu essa característica híbrida como "manter a localidade em meio à globalização".'
 date: 2026-03-28
-category: 'pt'
+category: 'Art'
 tags:
   [
     'arquitetura',
@@ -16,11 +16,12 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-28
 lastHumanReview: true
+revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:af80f0616e9c061e'
 sourceBodyHash: 'sha256:a2382584d5d27df7'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-10-15T19:14:03.122323+00:00'
 ---
 
 # Arquitetura de Taiwan: um poema tridimensional do encontro entre culturas

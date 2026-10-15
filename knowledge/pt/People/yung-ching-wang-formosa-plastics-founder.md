@@ -1,6 +1,6 @@
 ---
-title: 'Wang Yung-ching: da mercearia de arroz à luta de vinte anos pela Sexta Unidade de Craqueamento, o grande drama sucessório após a sua morte'
-description: 'Nasceu a 18 de janeiro de 1917 em Xindian, Taipé; Wang Yung-ching abandonou a escola aos 15 anos, pediu dinheiro emprestado e abriu uma mercearia de arroz, fundou a Taiwan Plastic em 1954. Em 1973 propôs ao governo a Sexta Unidade de Craqueamento, lutou quase vinte anos até obter aprovação, iniciou produção em Mailiao, Yunlin, em 1998. Faleceu a 15 de outubro de 2008 nos EUA, aos 92 anos, deixando uma disputa sucessória familiar que se arrastou por mais de uma década.'
+title: 'Wang Yung-ching: Duas décadas de luta entre lojas de arroz e o Complexo Petroquímico de Kaohsiung, e a disputa sucessória após sua morte'
+description: 'Nascido em 1917 em uma família de agricultores pobres em Xindian, Taipei, ele abandonou os estudos aos 15 anos e pediu emprestados NT$200 em ienes ao pai para abrir o ''Xingao Rice Mill''. Em 1954, fundou a Formosa Plastics, sendo posteriormente apelidado de "Deus da Gestão". Em 1973, propôs ao governo a criação do Complexo Petroquímico de Kaohsiung (Sixth Naphtha Cracker); apesar de várias rejeições, não desistiu e lutou por quase vinte anos até obter a aprovação, iniciando a produção em massa em Mailiao, Yunlin, em 1998. Ele faleceu em Nova York, EUA, em 15 de outubro de 2008, aos 92 anos, deixando uma disputa de herança familiar que se estendeu até por volta de 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Tecnologia e Empresas',
     'Grupo Formosa Plastics',
     'Indústria Petroquímica',
-    'Sexta Unidade de Craqueamento',
-    'Empresário',
+    'Sixth Naphtha Cracker',
+    'Empreendedor',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-07-26T21:33:24+08:00'
+translatedAt: '2026-10-15T20:09:49.481913+00:00'
 ---
 
 # Wang Yung-ching: da mercearia de arroz à luta de vinte anos pela Sexta Unidade de Craqueamento, o grande drama sucessório após a sua morte
