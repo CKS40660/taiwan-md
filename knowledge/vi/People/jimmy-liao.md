@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: 'a3a2c2ab6'
-sourceContentHash: 'sha256:3a77d655efe88c48'
-sourceBodyHash: 'sha256:18242d925dc68ac7'
-translatedAt: '2026-10-13T08:21:20.122275+00:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:de4fd6732d209052'
+sourceBodyHash: 'sha256:301572e76bca4d98'
+translatedAt: '2026-10-15T00:24:01.071665+00:00'
 ---
 
 # Jimmy Liao (Liêu Phúc Bân): Những hình vẽ bị cho là "bình yên" — là những gì một người sống sót sau ung thư máu mang trở lại từ chiếc bể cá
@@ -120,37 +120,38 @@ Con cá nụ cười cũng bơi lên màn ảnh. Năm 2006, "Con Cá Nụ Cườ
 
 > 🎙️ **Ghi Chú Của Nhà Sưu Tập**: Xếp bốn cuốn sách này cạnh nhau, sẽ thấy rằng nhãn dán "bình yên" thực ra đã đảo lộn nguyên nhân. Cách hiểu chung thường là "hình vẽ của Liêu Phúc Bân rất dễ thương, nên làm người dễ thở". Nhưng thứ tự chính xác lại ngược lại: độc giả cảm thấy được trị liệu, vì anh ta trước hết đã thành thật bước vào sự cô lập, chết chóc, quỡn lỡ những nơi tối tăm nhất, rồi bước ra với một chút ánh sáng. Sự an ủi mới có hiệu quả, chính vì nó được một người từng ở trong chiếc bể cá đó trao cho. Lục Dung Chi nói những tác phẩm của anh ta "từ không bao giờ là chủ nghĩa hiện thực, luôn mang một chút mộng mơ, tính siêu thực". Lớp mộng mơ đó là một thuật dịch: chuyển cái hiện thực chịu không nổi thành một hình thức mà một người đọc được.
 
-## Bước Ra Ngoài Trang Sách Của Liêu Phúc Bân
+## Vài mét bước ra khỏi trang sách
 
-Điểm kỳ lạ nhất có lẽ nằm ở đây: một căn bệnh riêng tư nhất, cô đơn của một người trong phòng bệnh, cuối cùng lại phát triển thành một ngôn ngữ công cộng có thể sao chép vô hạn, có thể lên sân khấu theo mọi cách.
+Có lẽ điểm phi trực giác nhất ở Jimmy Liao nằm ở đây: một căn bệnh riêng tư nhất, sự cô độc của một người trong phòng bệnh, cuối cùng đã lớn lên thành một loại ngôn ngữ công cộng có thể được sao chép vô hạn và đưa lên mọi sân khấu.
 
-Điện ảnh là con đường đầu tiên, và cùng một lúc có bốn bộ phim. "Bước Qua Bên Trái - Quay Phải" năm 2003 được đạo diễn chung bởi Tô Kỳ Phong và Vệ Gia Huy từ Hồng Kông, diễn viên là Tấn Thành Vũ và Lương Doanh Khi, là bộ phim đầu tiên được Warner Bros. đầu tư về các bộ phim tiếng Hoa, "Gặp Gỡ" của Tôn Nhan Tư là bài hát chủ đề tiếng Quốc Ngữ. [^21] Cùng năm, "Tàu Điện Ngầm" do Mã Vệ Hào đạo diễn, Vương Gia Vệ làm giám sát, nhạc nền là La Kiên. [^22] "Bầu Trời Đầy Sao" năm 2011 do Lâm Thư Vũ đạo diễn, chuyển thể từ tranh kể chuyện cùng tên năm 2009, được đề cử bốn giải tại Đại Lễ Trao Giải Vàng Mã lần 49. [^23] Còn có một bộ phim dễ bị sơ sót: "Cảnh Gác Tình" năm 2003, do Lê Diệu Tuyết đạo diễn, được đề cử tranh tài chính thức tại Liên Hoan Phim Venezia, những bức minh họa trong phim do Liêu Phúc Bân vẽ tay. [^24]
+Điện ảnh là con đường đầu tiên, và ông có tới bốn tác phẩm liên tiếp. Bộ phim 《向左走·向右走》 (Bước qua bên trái - quay phải) năm 2003 do Đỗ Kỳ Phong (Johnnie To) và Vi Gia Huy (Wai Ka-fai) từ Hồng Kông đồng đạo diễn, với sự tham gia của Kim Thành Vũ (Takeshi Kaneshiro) và Lương Vịnh Kỳ (Charlene Hui), là bộ phim tiếng Hoa đầu tiên được Warner Bros. đầu tư, với ca khúc chủ đề tiếng Phổ thông 〈Gặp gỡ〉 của Tôn Yến Tư (Stefanie Sun).[^21] Cùng năm đó, 《地下鐵》 (Tàu điện ngầm) do Mã Vĩ Hào đạo diễn, Vương Gia Vệ giám chế và La Kiên phụ trách âm nhạc.[^22] Năm 2011, 《星空》 (Bầu trời đầy sao) do Lâm Thư Vũ đạo diễn, được chuyển thể từ cuốn sách tranh cùng tên năm 2009, đã nhận bốn đề cử tại Giải Kim Mã lần thứ 49.[^23] Còn một tác phẩm dễ bị bỏ qua: 《戀之風景》 (Phong cảnh tình yêu) năm 2003 do Lê Diệu Tuyết đạo diễn, lọt vào vòng tranh giải chính thức tại Liên hoan phim Venice, với các hình minh họa trong phim được chính tay Jimmy Liao vẽ.[^24]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="Ngũ Nguyệt Thiên ⟨Bầu Trời Đầy Sao⟩ MV Chính Thức Đầy Đủ (Bài Hát Chủ Đề Của Phim ⟨Bầu Trời Đầy Sao⟩)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="五月天〈星空〉MV 官方完整版（電影《星空》主題曲）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Nhạc kịch là một con đường khác, và hình thành một đội hình ổn định: đạo diễn Lê Hoàn Hùng kết hợp với nhạc sĩ Trần Kiến Kỳ. Từ "Tàu Điện Ngầm" năm 2003 (Trần Kỳ Trinh thủ vai cô gái mù), tới "Kẻ May Mắn" năm 2005, "Bước Qua Bên Trái - Quay Phải" năm 2008 lên sân khấu Bộ Tứ, rồi "Hội Chiếu Ánh Sáng" năm 2018, những tranh kể chuyện của Liêu Phúc Bân được một vở vở chuyển thành bài hát và ánh sáng. [^25] Tới năm 2025, thậm chí xiếc cũng tới: "100 Lần Anh Dũng Của Thiếu Niên Liêu Phúc Bân", do Lâm Hoài Dân đạo diễn, được cho là đạo diễn đầu tiên của Đài Loan xiếc định mục. [^26]
+Kịch sân khấu là một con đường khác, và đã hình thành nên một đội ngũ nòng cốt ổn định: đạo diễn Lê Hoán Hùng (Li Huan-hsiung) kết hợp cùng nhạc sĩ Trần Kiến Kỳ (Chen Chien-chi). Từ 《地下鐵》 năm 2003 (với Trần Khởi Trinh thủ vai cô gái mù), đến 《幸運兒》 năm 2005, rồi đến 《向左走·向右走》 lần đầu tiên lên sân khấu Taipei Arena vào năm 2008, và sau đó là 《時光電影院》 (Rạp chiếu phim thời gian) năm 2018, các cuốn sách tranh của Jimmy Liao đã được chuyển thể hết tác phẩm này đến tác phẩm khác thành âm nhạc và ánh sáng.[^25] Đến năm 2025, ngay cả xiếc cũng xuất hiện: vở diễn xiếc định kỳ 《幾米男孩的 100 次勇敢》 (100 lần dũng cảm của cậu bé Jimmy Liao) do Lâm Hoài Dân đạo diễn, được mệnh danh là vở xiếc đầu tiên tại Đài Loan.[^26]
 
-Bước ra khỏi nhà hát, những hình vẽ của ông còn ngấm vào thành phố chính nó. Trên sàn ga Cảng Nam của tàu điện ngầm Đài Bắc treo sáu bức vẽ từ "Tàu Điện Ngầm"; năm 2014 Tín Nghĩa Bất Động Sản biến "Mặt Trăng Quên Mất" thành một chiếc "xe buýt mặt trăng" thực sự chạy được, chạy trên Đường Tín Nghĩa năm. [^27] Truyền hình cũng chia một phần: "Bước Qua Bên Trái - Quay Phải" lần lượt được remake tại Trung Quốc (2004) và Thái Lan (2020), "Tàu Điện Ngầm" được làm thành phim truyền hình Đài Loan (2006). [^50] Cùng một câu chuyện về quỡn lỡ, đổi khác đơn vị diễn viên, khác ngôn ngữ, lặp đi lặp lại biểu diễn.
+Bước ra khỏi nhà hát, những hình vẽ của ông còn thấm sâu vào chính thành phố. Tại sân ga ga Nangang của tàu điện ngầm Đài Bắc có treo sáu bức tranh của 《地下鐵》; năm 2014, công ty bất động sản Sinyi đã biến 《月亮忘記了》 (Mặt trăng đã quên) thành một chiếc "xe buýt mặt trăng" thực thụ chạy trên đường Xinyi đoạn 5.[^27] Phim truyền hình cũng góp một phần: 《向左走·向右走》 lần lượt được chuyển thể tại Trung Quốc (2004) và Thái Lan (2020), còn 《地下鐵》 được quay thành phim truyền hình tại Đài Loan (2006).[^50] Cùng một câu chuyện về sự lỡ hẹn, nhưng thay đổi diễn viên khác nhau, ngôn ngữ khác nhau, cứ thế tái hiện hết lần này đến lần khác.
 
-Cô đơn cũng vượt qua ngôn ngữ. Sách của Liêu Phúc Bân được dịch sang khoảng 20 ngôn ngữ, gần 200 cuốn phiên bản ngoại ngữ. [^28] Từ năm 2014 ông liên tiếp được đề cử chín lần tại Giải Thưởng Tưởng Niệm Lindgren (ALMA), được gọi là "Giải Nobel của Văn Học Trẻ Em"; năm 2020 ông với "Hội Chiếu Ánh Sáng" đoạt giải Lạc Có Sản Bộ Phim Đặc Biệt tại Triển Lãm Sách Trẻ Em Bologna, ban giám khảo gọi ông là "một bậc thầy không thể tranh cãi" (an undisputed master of his craft). [^44] Từ năm 2019 đến 2020, ông tổ chức triển lãm cá nhân lớn lần đầu tiên ở châu Âu tại Museo ABC Madrid, triển lãm 22 tác phẩm, 174 bản gốc. [^45] Một người dùng tiếng Đài Loan, vẽ cho chính mình, cuối cùng lại làm cho những người xem ở Madrid đứng trước những bản gốc anh vẽ sau bệnh tật. Cách anh giải thích với độc giả quốc tế rất mềm mại: "Một trận bệnh lớn thay đổi cách tôi nhìn nhận về nhiều thứ" "Tôi chỉ vẽ những hình ảnh trong trái tim tôi". [^46]
+Sự cô độc cũng vượt qua rào cản ngôn ngữ. Sách của Jimmy Liao đã được dịch ra khoảng 20 ngôn ngữ với gần 200 phiên bản ngoại ngữ.[^28] Từ năm 2014, ông liên tục lọt vào danh sách đề cử Giải thưởng Astrid Lindgren (ALMA) — vốn được mệnh danh là "Giải Nobel trong giới văn học thiếu nhi" — chín lần; năm 2020, với 《時光電影院》, ông đã giành giải đặc biệt hạng mục phim tại Giải thưởng Ragazzi của Hội chợ sách Bologna, với lời nhận xét từ ban giám khảo rằng ông là "một bậc thầy không thể tranh cãi trong nghề nghiệp của mình" (an undisputed master of his craft).[^44] Từ năm 2019 đến 2020, ông đã tổ chức triển lãm cá nhân quy mô lớn đầu tiên tại Châu Âu tại Museo ABC ở Madrid, trưng bày 22 tác phẩm và 174 bản gốc.[^45] Một người dùng ngôn ngữ Đài Loan để vẽ cho chính mình xem, cuối cùng lại khiến khán giả ở Madrid phải đứng trước những bản thảo ông vẽ sau khi khỏi bệnh. Bản thân ông giải thích về độc giả quốc tế một cách rất nhẹ nhàng: "Một trận trọng bệnh đã thay đổi cái nhìn của tôi về nhiều thứ" và "Tôi chỉ đang vẽ ra những hình ảnh trong lòng mình mà thôi".[^46]
 
-Anh cũng không dừng lại. Năm 2023, Phòng Trưng Bày (誠品) tổ chức một triển lãm cá nhân Liêu Phúc Bân, lần đầu tiên công bố những bức vẽ dầu của anh. [^49] Từ giám đốc sáng tạo quảng cáo, tác giả tranh kể chuyện, cho tới hai mươi cộng thêm năm nắm lấy cây bút vẽ dầu, con cá trong chiếc bể cá đó, luôn tìm cách khác nhau để nói cùng một điều.
+Ông cũng không hề dừng lại. Năm 2023, Eslite Gallery đã tổ chức một triển lãm cá nhân của Jimmy Liao, lần đầu tiên công bố các tác phẩm tranh sơn dầu của ông.[^49] Từ một giám đốc nghệ thuật quảng cáo, một tác giả sách tranh, cho đến hơn hai mươi năm sau cầm cọ vẽ sơn dầu, con cá trong bể kính ấy vẫn luôn tìm những cách thức khác nhau để kể cùng một câu chuyện.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="幾米《小蝴蝶小披風》迷你動畫影集前導（幾米官方頻道）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Cả đế chế này được hỗ trợ bởi (墨色) Quốc Tế (Jimmy S.P.A.) được thành lập năm 2000, năm 2014 lại có (墨策) Quốc Tế nhận trách nhiệm các bộ phim, triển lãm và nghệ thuật công cộng. [^29] Một người vẽ những người nhỏ trong phòng bệnh, cuối cùng lại xây dựng một đế chế trải rộng qua điện ảnh, nhạc kịch, xiếc, tàu điện ngầm, hoạt hình. Đáng nhớ là sự đối lập: toàn bộ cái đó có nguồn gốc từ cô đơn không thể được chia sẻ, cách qua kính; còn kết quả là một ngôn ngữ mà bất cứ ai cũng có thể bước vào, nhìn thấy, chạm được.
+Tiếp nối tất cả những điều này là công ty Mặc Sắc Quốc tế (Jimmy S.P.A.) được thành lập vào năm 2000, và đến năm 2014, Mặc Sách Quốc tế tiếp quản mảng phim ảnh, triển lãm và nghệ thuật công cộng.[^29] Một người vẽ những hình nhân nhỏ bé trong phòng bệnh, cuối cùng đã xây dựng nên một bản đồ trải dài từ điện ảnh, nhạc kịch, xiếc cho đến tàu điện ngầm và hoạt hình. Có một sự đối chiếu đáng nhớ là: nguồn gốc của tất cả những điều này là một sự cô độc không thể sẻ chia qua lớp kính; còn kết quả của nó lại là một loại ngôn ngữ mà bất kỳ ai cũng có thể bước vào, nhìn thấy và chạm tới được.
 
 ```tw-stat
-4 | Phim chuyển thể | Gồm phim tranh tài Liên Hoan Phim Venezia
-4 | Nhạc kịch của Lê Hoàn Hùng × Trần Kiến Kỳ | 2003–2018
-~20 | Ngôn ngữ dịch | Gần 200 cuốn phiên bản ngoại ngữ
+4 | Phim chuyển thể | Bao gồm phim tranh giải Venice
+4 | Nhạc kịch Lê Hoán Hùng × Trần Kiến Kỳ | 2003–2018
+~20 | Ngôn ngữ dịch thuật | Gần 200 phiên bản ngoại ngữ
+Nguồn: Tổng hợp từ trang web chính thức của Jimmy Liao (jimmyspa.com), OPENTIX Hai Nhà Hát Quốc Gia, Wikipedia và dữ liệu từ các liên hoan phim cũng như nhà xuất bản.
 ```
 
-> **Nguồn Dữ Liệu**: Trang web chính thức của Liêu Phúc Bân (jimmyspa.com), OPENTIX Hai Nhà Hát Quốc Gia, Wikipedia, tài liệu chính thức của các liên hoan phim và nhà xuất bản được tổng hợp.
+> **Nguồn tài liệu**: Tổng hợp từ trang web chính thức của Jimmy Liao (jimmyspa.com), OPENTIX Hai Nhà Hát Quốc Gia, Wikipedia, các liên hoan phim và dữ liệu từ các nhà xuất bản.
 
 ## Quay Về Luó Đông
 
