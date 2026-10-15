@@ -120,7 +120,10 @@ bun run verify
 
 ## HTTP API
 
-All endpoints are JSON. Server listens on `HARVEST_PORT` (default 4319).
+All endpoints are JSON. Server listens on `HARVEST_PORT` (default 4319), bound to
+`127.0.0.1` by default. Server can spawn agent CLIs as the local user and push to
+worktrees, so loopback-only is the safe default; set `HARVEST_HOST` (e.g.
+`0.0.0.0`) only if you understand the LAN exposure and add your own auth.
 
 | Method | Path                                    | Notes                                                                                |
 | ------ | --------------------------------------- | ------------------------------------------------------------------------------------ |
