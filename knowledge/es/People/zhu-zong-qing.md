@@ -1,119 +1,127 @@
 ---
-title: 'Zhu Zongqing'
-description: 'Pionero de la música de percusión que regresó de Viena; en 40 años transformó un arte marginal en música para todos'
+title: 'Chu Tsung-ching (朱宗慶)'
+description: 'Percusionista formado en el Conservatorio de Viena que dedicó cuarenta años a introducir un arte de nicho en la escena musical principal de Taiwán; fundó la primera agrupación profesional de percusión y estableció un sistema educativo integral, desde conciertos profesionales hasta iniciación musical infantil.'
 date: 2026-03-21
-tags: [人物, 朱宗慶, 音樂家, 打擊樂, 教育, 表演藝術]
+category: 'People'
+tags:
+  [
+    'Personajes',
+    'Chu Tsung-ching',
+    'Músico',
+    'Percusión',
+    'Educación',
+    'Artes escénicas',
+  ]
 subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/朱宗慶.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'afc244ca1'
 sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: People
-author: 'Taiwan.md'
-featured: false
+translatedAt: '2026-10-15T12:42:46+08:00'
 ---
 
-# Zhu Zongqing
+# Chu Tsung-ching (朱宗慶)
 
-> **Panorama en 30 segundos:** Zhu Zongqing, nacido en 1954, obtuvo su diploma de percusionista en la Academia de Música de Viena en 1982, fundó el primer conjunto profesional de percusión de Taiwán en 1986 y estableció un sistema pedagógico completo en 1991. En 40 años llevó la percusión desde los márgenes de las salas de concierto hasta la corriente principal, recibió el Premio Nacional de Artes y Literatura en 2000 y es considerado el "padre de la percusión en Taiwán".
+> **Resumen en 30 segundos:** Nacido en 1954, Chu Tsung-ching obtuvo su diploma de intérprete de percusión en el Conservatorio de Viena en 1982. En 1986 fundó la primera agrupación profesional de percusión en Taiwán y en 1991 estableció un sistema educativo integral. Durante 40 años, ha llevado la percusión desde los márgenes de las salas de conciertos hacia el corriente principal, recibió el Premio Nacional de las Artes en el año 2000 y es conocido como el «padre de la percusión en Taiwán».
 
-En el verano de 1982, Zhu Zongqing, de 28 años, se graduó de la Academia de Música de Viena, Austria, con su flamante diploma de percusionista en la mano. En aquel entonces, en Taiwán el término "música de percusión" seguía siendo desconocido para la mayoría, y mucho menos existía un conjunto profesional dedicado a ella. Sin embargo, Zhu Zongqing tenía una visión clara: construir un sistema integral de percusión en Taiwán y lograr que esta forma de arte llena de ritmo y vitalidad echara raíz en la isla.
+En el verano de 1982, Chu Tsung-ching, de 28 años, se graduó en el Conservatorio de Viena, Austria, con su diploma de intérprete de percusión recién obtenido. En aquel entonces, para la mayoría de las personas en Taiwán, la «percusión» era un término desconocido, y mucho más lo era la existencia de una agrupación profesional de este tipo. Sin embargo, Chu Tsung-ching tenía una visión clara: establecer un sistema completo de percusión en Taiwán para que esta forma de arte, llena de ritmo y vitalidad, pudiera echar raíces en el país.
 
-Cuarenta años después, Taiwán se ha convertido en un centro importante para el desarrollo de la percusión en Asia. Desde las presentaciones profesionales hasta la iniciación musical infantil, desde las salas de concierto hasta los campus universitarios, la percusión se ha integrado profundamente en la cultura musical taiwanesa. Todo ese camino comenzó con aquel joven músico que decidió regresar a su país para emprender un sueño.
+Cuarenta años después, Taiwán se ha convertido en un centro importante para el desarrollo de la percusión en Asia. Desde interpretaciones profesionales hasta la iniciación musical infantil, desde las salas de conciertos hasta los campus escolares, la percusión se ha integrado profundamente en la cultura musical de Taiwán. El punto de partida de todo esto fue aquel joven músico que decidió regresar a su país para emprender.
 
-## La formación musical en Viena
+## Iniciación musical en sus estudios en Viena
 
-Zhu Zongqing nació en 1954 y desde pequeño mostró un profundo interés por la música. En la década de 1970 ingresó en el Departamento de Música del Instituto Nacional de Artes (actual Universidad Nacional de Artes de Taiwán), donde inicialmente se especializó en piano, pero en una ocasión casual entró en contacto con la percusión y quedó inmediatamente cautivado por la riqueza de esta familia de instrumentos.
+Chu Tsung-ching nació en 1954 y mostró un profundo interés por la música desde pequeño. En la década de 1970, cuando ingresó en el departamento de música de la Escuela Nacional de Artes Especializadas (actual Universidad Nacional de las Artes de Taiwán), su especialidad original era el piano; sin embargo, tras tener un contacto fortuito con la percusión, quedó profundamente cautivado por la riqueza de este grupo de instrumentos.
 
-En aquella época, la percusión era un campo extremadamente marginal en Taiwán. No había profesores especializados, ni materiales didácticos sistematizados, ni oportunidades de actuación profesional. Pero Zhu Zongqing quedó profundamente impactado por la diversidad y el poder expresivo de la percusión: desde la solemnidad del timbal hasta el brillo del xilófono, pasando por las particularidades de los instrumentos de percusión étnicos, cada uno poseía un timbre y posibilidades expresivas únicas.
+En la Taiwán de aquel entonces, la percusión era un campo extremadamente poco común. No había profesores profesionales, ni materiales didácticos sistemáticos, y mucho menos oportunidades de actuación profesional. Pero Chu Tsung-ching quedó impactado por la diversidad y expresividad de la percusión: desde la solemnidad de los timbales y el brillo del xilófono hasta las características de diversos instrumentos étnicos, cada uno poseía un timbre y un potencial expresivo únicos.
 
-En 1979, Zhu Zongqing decidió viajar a la Academia de Música de Viena para profundizar sus estudios. Era una decisión audaz para la época: no solo debía enfrentarse a la barrera del idioma y las diferencias culturales, sino también encontrar su lugar dentro de una tradición musical completamente ajena. Pero tenía claro que, para promover la percusión en Taiwán, primero debía recibir la formación más rigurosa posible.
+En 1979, Chu Tsung-ching decidió viajar a Viena para profundizar sus estudios en el Conservatorio de Viena. Fue una decisión bastante audaz para la época: no solo debía enfrentarse a las barreras lingüísticas y las diferencias culturales, sino también encontrar su lugar en una tradición musical completamente ajena. No obstante, sabía que para promover la percusión en Taiwán, primero debía recibir la formación más profesional posible.
 
-Durante sus tres años de estudios en Viena, Zhu Zongqing no solo adquirió una técnica interpretativa sobresaliente, sino que, más importante aún, amplió su comprensión de la dimensión artística de la percusión. La tradición musical europea le enseñó que la percusión no se reduce a "golpear instrumentos", sino que es un arte que exige una técnica depurada y una profunda sensibilidad musical.
+Durante sus tres años de estudios en Viena, Chu Tsung-ching no solo aprendió técnicas interpretativas exquisitas, sino que, lo que es más importante, amplió su comprensión sobre el valor artístico de la percusión. La tradición musical europea le permitió comprender que la percusión no consiste simplemente en «golpear cosas», sino que es un arte que requiere una alta técnica y musicalidad.
 
-## 1986: El año cero de la percusión en Taiwán
+## 1986: El año uno de la percusión en Taiwán
 
-Tras regresar de Viena en 1982, Zhu Zongqing no se apresuró a formar un conjunto. Primero acumuló experiencia en el ámbito educativo, observó el entorno musical taiwanes y reflexionó sobre cómo integrar los conocimientos profesionales adquiridos en Europa con el suelo cultural de Taiwán.
+Tras regresar de Viena en 1982, Chu Tsung-ching no se apresuró a fundar una agrupación. Primero acumuló experiencia en el ámbito educativo, observando el entorno musical de Taiwán y reflexionando sobre cómo combinar los conocimientos profesionales aprendidos en Europa con el terreno cultural taiwanés.
 
-El 2 de enero de 1986 se fundó oficialmente el Conjunto de Percusión Zhu Zongqing, el primer conjunto profesional de percusión de Taiwán. En sus inicios, el grupo contaba con solo cuatro miembros y los espacios de actuación eran limitados, pero Zhu Zongqing tenía una misión clara: cambiar los estereotipos del público sobre la percusión mediante presentaciones de alta calidad.
+El 2 de enero de 1986 se fundó oficialmente la Chu Tsung-ching Percussion Group, la primera agrupación profesional de percusión en Taiwán. Al principio, el grupo contaba solo con cuatro miembros y las sedes para actuar eran muy limitadas, pero Chu Tsung-ching tenía una misión clara: cambiar la percepción estereotipada del público general sobre la percusión mediante interpretaciones de alta calidad.
 
-El primer concierto oficial del conjunto t lugar en el Nuevo Escenario de Taipéi, con un programa cuidadosamente diseñado que abarcaba estilos tan diversos como la música clásica, la contemporánea y las músicas del mundo. La presentación obtuvo una entusiasta acogida y los medios de comunicación se hicieron eco de aquel "arte de percusión capaz de sorprender". A partir de entonces, el Conjunto de Percusión Zhu Zongqing comenzó a ganar reconocimiento en el panorama musical taiwanés.
+La primera actuación oficial del grupo tuvo lugar en el New Stage de Taipéi, con un repertorio cuidadosamente diseñado que abarcaba diversos estilos como música clásica, moderna y del mundo. Esta presentación tuvo una gran acogida y los medios de comunicación informaron sobre este «arte de percusión sorprendente». A partir de ese momento, la agrupación de Chu Tsung-ching comenzó a destacar en el mundo musical de Taiwán.
 
-Durante los primeros años tras la fundación del conjunto, Zhu Zongqing dedicó prácticamente todo su tiempo a las presentaciones y la divulgación. Desde salas de concierto formales hasta giras por campus universitarios, desde eventos corporativos hasta actuaciones comunitarias, el objetivo era que el mayor número de personas posible conociera el encanto de la percusión. Esta estrategia de divulgación cercana al público dio resultados rápidamente, y la percusión comenzó a consolidar una base de audiencia estable en Taiwán.
+Durante los primeros años de la agrupación, Chu Tsung-ching dedicó casi todo su tiempo a las actuaciones y la promoción. Desde salas de conciertos formales hasta giras escolares, desde eventos corporativos hasta presentaciones comunitarias, buscaban que más personas conocieran el encanto de la percusión. Esta estrategia de promoción «cercana al pueblo» dio resultados rápidamente, permitiendo que la percusión estableciera una base sólida de audiencia en Taiwán.
 
-## El sistema pedagógico de 1991: la clave para echar raíces
+## 1991: El sistema de enseñanza como clave para cimentar las bases
 
-En 1991, Zhu Zongqing tomó una decisión aún más trascendental: fundar el Sistema de Enseñanza de Percusión Zhu Zongqing. Tenía claro de que, para que la percusión echara raíces de verdad en Taiwán, no bastaba con las presentaciones profesionales; era imprescindible actuar desde la educación.
+En 1991, Chu Tsung-ching tomó una decisión aún más importante: fundar el Sistema de Enseñanza de Percusión Chu Tsung-ching. Sabía que para que la percusión echara raíces de verdad en Taiwán, no bastaba con las actuaciones profesionales; era necesario empezar por la educación.
 
-La particularidad de este sistema pedagógico radica en su diseño sistemático y escalonado. Desde la iniciación musical para niños de 2 años hasta los cursos avanzados para adultos, cada etapa cuenta con un plan de estudios completo. Zhu Zongqing concedía especial importancia a la educación infantil, convencido de que "golpear y percutir es un instinto innato en los niños" y de que, con la guía adecuada, se puede cultivar en ellos el interés por la música y el sentido del ritmo.
+La característica de este sistema educativo reside en su diseño sistemático y por etapas. Desde la iniciación musical para niños de 2 años hasta clases profesionales para adultos, cada etapa cuenta con una planificación curricular completa. Chu Tsung-ching otorga especial importancia a la educación infantil, pues cree que «golpear y tocar es un instinto innato de los niños» y que, mediante una guía adecuada, se puede cultivar el interés musical y el sentido del ritmo.
 
-El sistema de enseñanza lleva más de 30 años en funcionamiento, ha establecido más de 60 centros educativos en toda la isla y ha formado a más de 200 000 estudiantes. Aunque no todos ellos se convirtieron en músicos profesionales, todos encontraron alegría y crecimiento en el aprendizaje musical. Y, lo que es más importante, se convirtieron en público fiel de la percusión, sentando una sólida base social para el desarrollo de esta disciplina en Taiwán.
+Desde su fundación hace más de 30 años, el sistema ha establecido más de 60 centros de enseñanza en todo Taiwán y ha formado a más de 200,000 estudiantes. Aunque no todos estos alumnos se conviertan en músicos profesionales, todos han obtenido alegría y crecimiento a través del aprendizaje musical. Más importante aún, se han convertido en público fiel de la percusión, sentando una profunda base social para el desarrollo de este arte en Taiwán.
 
 ## Diplomacia cultural en el escenario internacional
 
-El Conjunto de Percusión Zhu Zongqing no solo ha brillado en Taiwán, sino que también ha expandido activamente sus presentaciones en el extranjero. Desde la década de 1990, el conjunto ha sido invitado en repetidas ocasiones a participar en importantes festivales internacionales, como el Festival de Música Asiática y el Festival de Música Contemporánea Europea. Sus actuaciones han llegado a más de 35 países y regiones, con un acumulado de más de 3 000 presentaciones.
+La Chu Tsung-ching Percussion Group no solo ha brillado en Taiwán, sino que también ha expandido activamente sus actuaciones internacionales. Desde la década de 1990, el grupo ha sido invitado en múltiples ocasiones a importantes festivales musicales internacionales, incluidos festivales de música asiática y festivales de música moderna en Europa. La agrupación ha dejado huella en 35 países y regiones de todo el mundo, acumulando más de 3,000 actuaciones.
 
-En sus giras internacionales, Zhu Zongqing ha puesto especial énfasis en la presentación de elementos musicales taiwaneses. El conjunto integra con frecuencia folclore taiwanés, música indígena e incluso música pop contemporánea en sus programas, narrando la historia de Taiwán a través del lenguaje de la percusión. Este estilo de fusión cultural ha permitido que la comunidad musical internacional descubra una nueva faceta de la música taiwanesa.
+En sus presentaciones internacionales, Chu Tsung-ching pone especial énfasis en la presentación de elementos musicales taiwaneses. El grupo suele integrar canciones populares de Taiwán, música de los pueblos indígenas e incluso música pop moderna en sus actuaciones, utilizando el lenguaje de la percusión para contar las historias de Taiwán al mundo. Este estilo de fusión cultural ha permitido que la comunidad musical internacional tenga una nueva percepción de la música taiwanesa.
 
-En 2008, el conjunto fue invitado a actuar en las actividades culturales previas a la ceremonia de apertura de los Juegos Olímpicos de Pekín, un momento destacado para un grupo artístico taiwanés en un evento internacional de gran magnitud. Oportunidades como esta no solo elevaron la visibilidad del conjunto, sino que también lo convirtieron en un vehículo importante de diplomacia cultural para Taiwán.
+En 2008, el grupo fue invitado a actuar en los eventos culturales previos a la ceremonia de apertura de los Juegos Olímpicos de Pekín, lo que supuso una importante aparición de un grupo artístico taiwanés en un evento internacional de gran magnitud. Estas oportunidades de actuación internacional no solo han aumentado la notoriedad del grupo, sino que también se han convertido en un vehículo importante para la diplomacia cultural de Taiwán.
 
-## La promoción cultural desde el Centro Nacional de Artes Escénicas
+## Promoción cultural en el National Theater & Concert Hall
 
-En 2001, Zhu Zongqing asumió la dirección del Centro Cultural Nacional Chiang Kai-shek (conocido como el Centro Nacional de Artes Escénicas o "dos salas"), y en 2004, tras su reestructuración como entidad de derecho público, se convirtió en su primer director artístico. Este cargo le permitió impulsar el desarrollo de las artes escénicas en Taiwán desde una perspectiva más amplia.
+En 2001, Chu Tsung-ching asumió la dirección del Centro Cultural Nacional Chung-cheng (National Theater & Concert Hall), y tras la reestructuración en 2004 como entidad administrativa, se convirtió en su primer director artístico. Este cargo le brindó la oportunidad de impulsar el desarrollo de las artes escénicas en Taiwán desde un nivel superior.
 
-Durante su mandato en el Centro Nacional de Artes Escénicas, Zhu Zongqing impulsó numerosos programas innovadores, como el "Festival de Jazz de Verano" y el "Laboratorio de Nuevas Ideas". Concedió especial importancia a la colaboración interdisciplinaria, promoviendo activamente la fusión de distintas formas artísticas —música, danza, teatro— y dando lugar a obras de gran impacto.
+Durante su gestión en el National Theater & Concert Hall, Chu Tsung-ching impulsó numerosos programas innovadores, tales como el «Summer Jazz Party» y el «New Idea Experimental Stage». Prestó especial atención a la colaboración interdisciplinaria, promoviendo activamente la unión de diferentes formas de arte como la música, la danza y el teatro, creando así muchas obras sorprendentes.
 
-También impulsó con fuerza la educación artística, organizando conciertos familiares, sesiones de introducción a la música, campamentos artísticos y otras actividades. En la filosofía de Zhu Zongqing, un teatro no debería ser una torre de marfil reservada a una élite cultural, sino un espacio fundamental para la educación artística de toda la ciudadanía. Esta idea de "vitalizar el arte y hacer artística la vida" ha influido profundamente en la dirección del desarrollo de las artes escénicas en Taiwán.
+También promovió con fuerza la educación artística, organizando diversos conciertos para familias, actividades de divulgación y campamentos artísticos. En la filosofía de Chu Tsung-ching, un teatro no debería ser solo una torre de marfil para la cultura de élite, sino que debe convertirse en un lugar importante para la educación artística de toda la ciudadanía. Esta idea de «artes integradas en la vida y vida integrada en el arte» ha influido profundamente en la dirección del desarrollo de las artes escénicas en Taiwán.
 
-## El reconocimiento del Premio Nacional de Artes y Literatura en 2000
+## El reconocimiento del Premio Nacional de las Artes en 2000
 
-En 2000, Zhu Zongqing recibió el cuarto Premio Nacional de Artes y Literatura en reconocimiento a su destacada contribución al desarrollo de la cultura musical taiwanesa. Este galardón no solo honraba sus logros personales, sino que también validaba el desarrollo de la percusión en su conjunto en Taiwán.
+En el año 2000, Chu Tsung-ching recibió el cuarto Premio Nacional de las Artes, en reconocimiento a su extraordinaria contribución al desarrollo de la cultura musical de Taiwán. Este premio no fue solo un reconocimiento a sus logros personales, sino también una validación del desarrollo de toda la percusión en Taiwán.
 
-En el discurso de entrega, el comité del premio señaló: "Zhu Zongqing, con su competencia profesional y su entusiasmo, ha logrado establecer un sistema integral de percusión en Taiwán, formando a un gran número de talentos musicales e impulsando la mejora del entorno musical en su conjunto". Esta valoración resume con precisión la contribución de Zhu Zongqing a la cultura taiwanesa.
+En la mención de entrega del comité evaluador del Premio Nacional de las Artes se señaló: «Chu Tsung-ching, con su capacidad profesional y entusiasmo, ha logrado establecer con éxito un sistema completo de percusión en Taiwán, no solo formando a una gran cantidad de talentos musicales, sino también impulsando la mejora de todo el entorno musical». Esta valoración resume con precisión la contribución de Chu Tsung-ching a la cultura taiwanesa.
 
-Además del Premio Nacional de Artes y Literatura, Zhu Zongqing ha recibido numerosos reconocimientos importantes, como el Premio de Creación Literaria y Artística del Ministerio de Educación y el Premio Literario y Artístico Chung Shan. Sin embargo, él suele afirmar que su mayor logro es haber sido testigo de la transformación de la percusión en Taiwán, de algo inexistente a un fenómeno masivo.
+Además del Premio Nacional de las Artes, Chu Tsung-ching ha recibido otros honores importantes, como el Premio de Creación Literaria y Artística del Ministerio de Educación y el Premio de las Artes Chung-shan. Sin embargo, suele decir que su mayor logro es presenciar el proceso de transformación de la percusión en Taiwán: de no existir a tener presencia, y de ser un arte de nicho a convertirse en algo popular.
 
-## Innovación a través de la colaboración interdisciplinaria
+## Intentos innovadores de colaboración interdisciplinaria
 
-Otra contribución fundamental de Zhu Zongqing ha sido impulsar la fusión de la percusión con otras formas artísticas. Ya en 1986, en los albores del conjunto, colaboró con el famoso grupo de danza Cloud Gate Dance Theatre en la obra clásica _Su Chuan_ (_Transmisión del fuego_), estableciendo un modelo ejemplar de unión entre música y danza.
+Otra contribución importante de Chu Tsung-ching ha sido promover la combinación de la percusión con otras formas de arte. Al inicio de la agrupación en 1986, colaboró con la compañía de danza Cloud Gate para representar la obra clásica _Legacy_, estableciendo un modelo de unión entre música y danza.
 
-Posteriormente, el conjunto ha colaborado de manera sucesiva con agrupaciones artísticas tan relevantes como Lanling Theatre Workshop y Performance Workshop, creando numerosas obras interdisciplinarias. En 1989, la colaboración con Lanling Theatre Workshop en _Ying Huo_ (_Luciérnaga_) se convirtió en un hito importante en la historia del teatro taiwanés.
+Desde entonces, el grupo ha colaborado sucesivamente con importantes agrupaciones artísticas como Cloud Gate, Lanling Workshop y Performance Workshop, creando numerosas obras interdisciplinarias. La obra _Fireflies_, realizada en 1989 en colaboración con Lanling Workshop, constituye un hito importante en la historia del teatro taiwanés.
 
-Zhu Zongqing también ha colaborado activamente con la escena de la música popular, actuando junto a músicos como Lo Ta-yu, Jonathan Lee y Wu Bai. Esta práctica de derribar las barreras entre lo clásico y lo popular ha acercado la percusión a las generaciones más jóvenes y ha inyectado nueva vitalidad a la música tradicional.
+Chu Tsung-ching también ha colaborado activamente con el mundo de la música pop, habiendo actuando en el mismo escenario con músicos como Lo Ta-yu, Lee Tsung-sheng y Wu Bai. Este enfoque de romper las barreras entre lo clásico y lo popular ha permitido que más jóvenes conozcan la percusión y ha inyectado nueva vitalidad a la música tradicional.
 
-## Rectorado en la Universidad Nacional de Artes de Taipéi
+## Periodo como rector de la Universidad Nacional de las Artes de Taipéi
 
-Entre 2006 y 2013, Zhu Zongqing se desempeñó como rector de la Universidad Nacional de Artes de Taipéi. Durante esos siete años se dedicó a elevar la calidad de la educación artística, promover el intercambio internacional y convertir a la universidad en un centro de referencia para la formación artística en Asia.
+De 2006 a 2013, Chu Tsung-ching se desempeñó como rector de la Universidad Nacional de las Artes de Taipéi (TNUA). Durante estos siete años, se dedicó a mejorar la calidad de la educación artística y a promover el intercambio internacional, convirtiendo a la TNUA en un centro importante de educación artística en Asia.
 
-Durante su rectorado, Zhu Zongqing concedió especial importancia a la integración interdisciplinaria. Impulsó la cooperación entre los distintos departamentos —música, danza, teatro, artes plásticas— y animó a los estudiantes a explorar formas artísticas diversas. Esta filosofía de educación artística integral ha formado a numerosos profesionales del arte dotados de pensamiento innovador.
+Durante su mandato como rector, Chu Tsung-ching puso especial énfasis en la integración interdisciplinaria. Impulsó la colaboración entre diferentes departamentos como música, danza, teatro y bellas artes, alentando a los estudiantes a tener contacto con diversas formas artísticas. Esta filosofía de educación artística integral ha formado a muchos profesionales del arte con pensamiento innovador.
 
-También promovió activamente la cooperación internacional, estableciendo relaciones de intercambio con prestigiosas instituciones de educación artística en Europa, América y Asia. Gracias a sus esfuerzos, la Universidad Nacional de Artes de Taipéi no solo se convirtió en la opción preferida para los estudiantes taiwaneses que desean profundizar en las artes, sino que también atrajo a numerosos estudiantes internacionales.
+También promovió activamente la cooperación internacional, estableciendo relaciones de intercambio con numerosas instituciones artísticas de renombre en Europa, América y Asia. Gracias a sus esfuerzos, la TNUA no solo se convirtió en la primera opción para los estudiantes taiwaneses que desean profundizar en sus estudios artísticos, sino que también atrajo a muchos estudiantes internacionales.
 
-## Innovación continua en la divulgación musical
+## Promoción musical e innovación continua
 
-A pesar de haber cumplido ya casi setenta años, Zhu Zongqing sigue innovando en la divulgación musical. En los últimos años ha utilizado activamente la tecnología digital para promover la percusión, ofreciendo cursos en línea, presentaciones en realidad virtual y otros formatos que permiten a más personas acceder a esta disciplina.
+A pesar de estar cerca de los setenta años, Chu Tsung-ching sigue innovando en la promoción musical. En años recientes, ha utilizado activamente la tecnología digital para promover la percusión, permitiendo que más personas tengan acceso a ella mediante cursos en línea y actuaciones de realidad virtual (VR).
 
-Durante la pandemia de 2020, el Conjunto de Percusión Zhu Zongqing ofreció múltiples conciertos en línea, manteniendo el vínculo con su audiencia y explorando nuevas posibilidades para la interpretación musical. Este espíritu innovador, capaz de adaptarse a los tiempos, ha sido precisamente la clave del éxito sostenido de Zhu Zongqing a lo largo de cuatro décadas.
+Durante la pandemia de 2020, la Chu Tsung-ching Percussion Group organizó múltiples conciertos en línea, lo que no solo mantuvo el vínculo con el público, sino que también abrió nuevas posibilidades para las interpretaciones musicales. Este espíritu de innovación adaptado a los tiempos es precisamente la clave del éxito continuo de Chu Tsung-ching durante estos cuarenta años.
 
-Zhu Zongqing también concede gran importancia a la formación de las nuevas generaciones. El conjunto organiza regularmente actividades como el "Campamento de Verano de Percusión" y la "Orquesta Juvenil de Percusión", ofreciendo orientación profesional a los jóvenes interesados en desarrollarse en este campo. Muchos de los percusionistas que hoy están activos en el panorama musical taiwanés han recibido la enseñanza de Zhu Zongqing.
+Chu Tsung-ching también valora mucho la formación de las nuevas generaciones. La agrupación organiza regularmente actividades como «Campamentos de Verano de Percusión» y «Orquestas Juveniles de Percusión», proporcionando orientación profesional a los jóvenes interesados en el desarrollo de este arte. Muchos de los percusionistas que hoy están activos en la escena musical de Taiwán recibieron formación bajo la dirección de Chu Tsung-ching.
 
-## Cuatro décadas de impacto cultural
+## Impacto cultural de cuarenta años
 
-Al repasar los cuarenta años de trabajo de Zhu Zongqing, su influencia en la cultura taiwanesa resulta abarcadora. En primer lugar, logró transformar un arte marginal en una forma musical ampliamente conocida por el público, ampliando los horizontes musicales de la sociedad taiwanesa. En segundo lugar, el sistema educativo que estableció ha formado a cientos de miles de estudiantes de música, elevando la cultura musical de toda la sociedad.
+Al revisar los cuarenta años de esfuerzo de Chu Tsung-ching, su impacto en la cultura de Taiwán es integral. En primer lugar, logró promover con éxito un arte de nicho hasta convertirlo en una forma musical familiar para el público, ampliando así el horizonte musical de la población taiwanesa. En segundo lugar, el sistema educativo que estableció ha formado a cientos de miles de estudiantes de música, elevando la cultura musical de la sociedad en su conjunto.
 
-Y lo que es más importante, Zhu Zongqing demostró que las artes y la cultura también pueden constituir una empresa social exitosa. Su modelo de gestión combina el ideal artístico con la sostenibilidad comercial, ofreciendo una referencia valiosa para otros grupos artísticos en Taiwán. Esta práctica pionera de la "industria cultural creativa" ha tenido una influencia profunda en el desarrollo general de las industrias culturales en Taiwán.
+Más importante aún, Chu Tsung-ching demostró que las artes y la cultura también pueden ser una empresa social exitosa. Su modelo de gestión combina el ideal artístico con la sostenibilidad comercial, proporcionando un referente importante para otros grupos artísticos en Taiwán. Esta práctica pionera de la «industria cultural y creativa» ha tenido una profunda influencia en el desarrollo de toda la industria cultural taiwanesa.
 
-Zhu Zongqing suele decir: "La música no tiene fronteras, pero los músicos tienen patría". A través del poder de la música, aspira a que el mundo conozca la vitalidad cultural de Taiwán. En cuarenta años, no solo ha hecho realidad ese deseo, sino que también ha cultivado a innumerables amantes de la música, sentando bases sólidas para el desarrollo cultural de la isla.
+Chu Tsung-ching suele decir: «La música no tiene fronteras, pero los músicos tienen una patria». Él espera que, a través del poder de la música, el mundo conozca la vitalidad cultural de Taiwán. Durante cuarenta años, no solo ha cumplido este deseo, sino que también ha cultivado innumerables aficionados a la música en Taiwán, sentando bases profundas para el desarrollo cultural del país.
 
-La historia de este "padre de la percusión en Taiwán" nos enseña que el poder cultural requiere dedicación a largo plazo e innovación constante. Zhu Zongqing ha empleado cuatro décadas para transformar el sueño musical de una persona en un patrimonio cultural de toda la sociedad. Esa perseverancia y visión merecen ser un ejemplo para todos los trabajadores culturales.
+La historia de este «padre de la percusión en Taiwán» nos enseña que el poder de la cultura requiere de personas que trabajen en ella a largo plazo y con innovación constante. Chu Tsung-ching ha dedicado cuarenta años a transformar el sueño musical de un individuo en un activo cultural para toda la sociedad; esta perseverancia y visión son algo que todos los trabajadores culturales deberían aprender.
 
 ## Referencias
 
-- [Base de datos de figuras musicales de Taiwán - Zhu Zongqing](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
-- [Zhu Zongqing - Universidad Nacional de Artes de Taipéi](https://chai.tnua.edu.tw/en/faculty/pr24/)
-- [Zhu Zongqing - Premio Nacional de Artes y Literatura](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
-- [Sistema de Enseñanza de Percusión Zhu Zongqing](https://www.juschool.com.tw/)
-- [Sitio web oficial del Conjunto de Percusión Zhu Zongqing](https://www.jpg.org.tw/)
+- [Base de datos de figuras musicales de Taiwán - Chu Tsung-ching](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
+- [Chu Tsung-ching - Universidad Nacional de las Artes de Taipéi](https://chai.tnua.edu.tw/en/faculty/pr24/)
+- [Chu Tsung-ching - Premio Nacional de las Artes](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
+- [Sistema de Enseñanza de Percusión Chu Tsung-ching](https://www.juschool.com.tw/)
+- [Sitio web oficial de la Chu Tsung-ching Percussion Group](https://www.jpg.org.tw/)
