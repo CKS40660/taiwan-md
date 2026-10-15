@@ -1,30 +1,30 @@
 ---
-title: 'Mì Bò Đài Loan: Từ Nỗi Nhớ Cố Hương Của Người Di Cư Đến Món Quốc Dân'
-description: 'Từ nỗi nhớ quê hương của những người di cư ngoại tỉnh đến món ăn quốc dân của Đài Loan: sự hòa quyện văn hóa và hành trình lan tỏa toàn cầu của mì bò Đài Loan'
+title: 'Mì bò'
+description: 'Từ những kiêng kỵ trong ăn uống của xã hội nông nghiệp với quan niệm "bò là trợ thủ, không ăn thịt bò", đến việc những người di cư từ các tỉnh ngoài sau chiến tranh đã kết hợp kỹ nghệ nấu nướng của từng vùng miền để tạo nên các dòng mì như hầm đỏ, thanh đạm hay cà chua; một bát mì quốc dân đã mang theo sự giao thoa giữa các tỉnh thành và ký ức vị giác. Những năm gần đây, thông qua các lễ hội ẩm thực chuyên biệt và các danh sách đề cử quốc tế, món mì này đã bước từ món ăn đường phố lên sân khấu ẩm thực toàn cầu, trở thành ngôi sao sáng đại diện cho tinh thần đa dạng và bao dung trong văn hóa ẩm thực Đài Loan.'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
-    'ẩm thực',
-    'mì bò Đài Loan',
-    'ẩm thực ngoại tỉnh',
-    'hòa quyện văn hóa',
-    'Lễ hội Mì Bò Quốc tế Đài Bắc',
+    'Ẩm thực',
+    'Mì bò',
+    'Món ăn ngoại tỉnh',
+    'Giao thoa văn hóa',
+    'Lễ hội mì bò Đài Bắc',
     'Michelin',
   ]
-lastVerified: 2026-05-16
-lastHumanReview: false
+subcategory: '經典小吃'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-05-16
+lastHumanReview: true
 image: '/images/wiki/5be514264de6.jpg'
 imageAlt: 'Mì bò Đài Loan'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
-sourceCommitSha: '271c50fb'
+sourceCommitSha: 'd8b2faceb'
 sourceContentHash: 'sha256:0f8567c72fce22ef'
 sourceBodyHash: 'sha256:31e72a4ea39ea451'
-translatedAt: '2026-07-30T23:04:39+08:00'
+translatedAt: '2026-10-15T23:06:21.613883+00:00'
 ---
 
 # Mì Bò Đài Loan

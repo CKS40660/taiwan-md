@@ -1,12 +1,12 @@
 ---
-title: 'Sự phát triển ngành công nghiệp phần mềm Đài Loan'
-description: 'Từ tư duy gia công đến đổi mới phần mềm, Đài Loan tìm ra vị thế mới trong kỷ nguyên bán dẫn'
+title: 'Phát triển ngành phần mềm Đài Loan'
+description: 'Trong kỷ nguyên kinh tế số, giá trị gia tăng của sản xuất thuần túy phần cứng đã bị ép buộc, phần mềm và dịch vụ trở thành những người tạo ra giá trị thực sự. Theo dữ liệu từ Cục Thống kê Bộ Kinh tế, doanh thu toàn năm 2023 của ngành máy tính và dịch vụ công nghệ thông tin đạt khoảng NT$570 tỷ, tăng 8,9% so với năm trước, đạt mức cao kỷ lục. Từ chuyển đổi số, dịch vụ phần mềm, ứng dụng AI đến ngành công nghiệp game, để Đài Loan chuyển đổi từ "cường quốc sản xuất" sang "cường quốc đổi mới", ngành phần mềm chính là chiến trường then chốt của quá trình chuyển đổi này.'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'ngành công nghiệp phần mềm',
-    'dịch vụ thông tin',
+    'ngành phần mềm',
+    'dịch vụ công nghệ thông tin',
     'chuyển đổi số',
     'khởi nghiệp',
   ]
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: '3e08bf82b'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:ef6914cecff85dfb'
 sourceBodyHash: 'sha256:6cc55941dd179c34'
-translatedAt: '2026-10-03T03:14:53+08:00'
+translatedAt: '2026-10-15T23:28:19.713963+00:00'
 ---
 
 # Sự phát triển ngành công nghiệp phần mềm Đài Loan

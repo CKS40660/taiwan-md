@@ -1,14 +1,14 @@
 ---
 title: 'Văn hóa trà sữa Đài Loan'
-description: 'Từ trà sữa trân châu đến đồ uống trà cao cấp, sự trỗi dậy và mở rộng toàn cầu của văn hóa trà sữa Đài Loan'
+description: 'Kể từ sự ra đời của trà sữa trân châu vào những năm 1980, đồ uống pha chế thủ công đã trở thành biểu tượng sống động nhất cho lối sống trên hòn đảo này: từ 50 Lan nơi góc phố, Gong Cha tại các khu thương mại, Chun Shui Tang truyền thống cho đến dòng trà hiện đại như Mister চা (Mister Cha), những bảng hiệu rực rỡ sắc màu có thể bắt gặp ở khắp mọi nơi. Với việc mở rộng thị trường toàn cầu thông qua các loại trà sáng tạo, đây là minh chứng cho sự theo đuổi chất lượng cuộc sống, niềm đam mê đổi mới và ký ức chung của người dân Đài Loan.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
     'Ẩm thực',
-    'Trà sữa',
+    'Đồ uống pha chế',
     'Trà sữa trân châu',
-    'Đồ uống',
+    'Trà uống',
     'Xuất khẩu văn hóa',
     'Quốc tế hóa thương hiệu',
   ]
@@ -18,16 +18,16 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Ảnh cận cảnh trà sữa trân châu kinh điển'
+imageAlt: 'Cận cảnh ly trà sữa trân châu kinh điển'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-10-15T22:54:46.663247+00:00'
 ---
 
 # Văn hóa trà sữa Đài Loan
