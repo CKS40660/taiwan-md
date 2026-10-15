@@ -1,15 +1,15 @@
 ---
-title: 'Wang Vĩnh Thịnh: Từ cửa hàng gạ bán hai mươi năm chiến đấu cho dự án điện lực, cho tới tranh chấn di chúc sau khi qua đời'
-description: 'Sinh năm 1917 ngày 18 tháng 1 năm Tân Dậu, tại Đài Bắc Tân Tiến, Wang Vĩnh Thịnh năm 15 tuổi bỏ học vay tiền mở cửa hàng gạ, năm 1954 thành lập Tập đoàn Nhựa Đài Loan. Năm 1973 đề xuất dự án Điện lực thứ sáu, sau gần hai mươi năm chiến đấu mới được chấp thuận, năm 1998 tại vùng biển Mỹ Lộc chính thức sản xuất. Ngày 15 tháng 10 năm 2008 tử trận tại Hoa Kỳ, thọ 92 tuổi, để lại một cuộc tranh chấn di chúc kéo dài hơn mười năm.'
+title: 'Vương Vĩnh Khánh: Từ tiệm gạo đến cuộc chiến hai mươi năm tại Lục Khánh, và vở kịch tranh chấp tài sản sau khi qua đời'
+description: 'Sinh năm 1917 tại một gia đình nông dân nghèo ở Tân Điếm, Đài Bắc, ông bỏ học năm 15 tuổi, vay cha 200 Yên Nhật để mở "Tân Cao Chế Mễ Sở", đến năm 1954 thành lập Công ty Công nghiệp Nhựa Đài Loan và sau này được mệnh danh là "Thần kinh doanh". Năm 1973, ông đề xuất dự án Lục Khánh với chính phủ, dù bị từ chối nhiều lần nhưng vẫn không bỏ cuộc, chiến đấu gần hai mươi năm mới được phê duyệt và chính thức đi vào sản xuất hàng loạt tại Mạch Liêu, Vân Lâm năm 1998. Ông qua đời tại New York, Hoa Kỳ vào ngày 15 tháng 10 năm 2008, thọ 92 tuổi, để lại cuộc tranh chấp tài sản gia tộc kéo dài đến khoảng năm 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Công nghệ và doanh nghiệp',
-    'Tập đoàn Thái Hóa',
-    'Ngành công nghiệp hóa chất',
-    'Dự án Điện lực thứ sáu',
-    'Doanh nhân',
+    'Tập đoàn Formosa Plastics',
+    'Công nghiệp hóa dầu',
+    'Lục Khánh',
+    'Nhà kinh doanh',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -18,106 +18,106 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-10-16T00:53:02+08:00'
 ---
 
-# Wang Vĩnh Thịnh: Từ cửa hàng gạ bán hai mươi năm chiến đấu cho dự án điện lực, cho tới tranh chấn di chúc sau khi qua đời
+# Vương Vĩnh Khánh: Từ tiệm gạo đến cuộc chiến hai mươi năm tại Lục Khánh, và vở kịch tranh chấp tài sản sau khi qua đời
 
-> **30 giây tóm tắt:** Wang Vĩnh Thịnh sinh năm 1917 ngày 18 tháng 1 năm Tân Dậu, tại Đài Bắc Tân Tiến, là một trong những doanh nhân có tính bi kịch nhất Đài Loan, được gọi là "Thần kinh doanh". Năm 15 tuổi bỏ học vay 200 yên Nhật mở cửa hàng gạ, năm 1954 thành lập Tập đoàn Nhựa Đài Loan. Năm 1973 đề xuất với chính phủ xây dựng "Nhà máy điện lực thứ sáu" (Điện lực thứ sáu), sau nhiều lần bị từ chối, chiến đấu gần hai mươi năm mới được phê duyệt, năm 1998 tại vùng biển Mỹ Lộc chính thức sản xuất. Ngày 15 tháng 10 năm 2008 tử trận tại New York, Hoa Kỳ, thọ 92 tuổi; sau đó để lại một cuộc tranh chấn di chúc lan truyền đến khoảng năm 2022.
+> **Tóm tắt trong 30 giây:** Vương Vĩnh Khánh (Wang Yung-ching) sinh ngày 18 tháng 1 năm 1917 tại Tân Điếm, Đài Bắc, là nhà kinh doanh mang tính huyền thoại nhất Đài Loan, được mệnh danh là "Thần kinh doanh". Năm 15 tuổi, ông bỏ học và vay 200 Yên Nhật để mở tiệm gạo; năm 1954 thành lập Công ty Công nghiệp Nhựa Đài Loan. Năm 1973, ông đề xuất dự án Lục Khánh (Nhà máy cracking dầu nhẹ thứ sáu) với chính phủ, sau nhiều lần bị từ chối và chiến đấu gần hai mươi năm mới được phê duyệt, đến năm 1998 chính thức sản xuất hàng loạt tại Mạch Liêu, Vân Lâm. Ông qua đời ngày 15 tháng 10 năm 2008 tại New York, Hoa Kỳ, thọ 92 tuổi; để lại cuộc tranh chấp tài sản gia tộc kéo dài đến khoảng năm 2022.
 
-## Học trò cửa hàng gạ của nông thôn Tân Tiến
+## Học việc tại tiệm gạo của gia đình nông dân Tân Điếm
 
-Ngày 18 tháng 1 năm 1917, Wang Vĩnh Thịnh sinh ra tại một gia đình nông dân nghèo tại Tân Tiến, Đài Bắc.[^1] Năm 15 tuổi do hoàn cảnh gia đình khó khăn phải bỏ học, vay 200 yên Nhật từ cha mình để mở cửa hàng "Tân Cao Gạ", chính thức bước vào thế giới thương mại.
+Ngày 18 tháng 1 năm 1917, Vương Vĩnh Khánh sinh ra trong một gia đình nông dân nghèo tại Tân Điếm, Đài Bắc. [^1] Do khó khăn kinh tế, năm 15 tuổi ông phải bỏ học, vay cha 200 Yên Nhật để mở "Tân Cao Chế Mễ Sở" (Xingao Rice Mill), chính thức bước chân vào con đường thương mại.
 
-Câu chuyện về cửa hàng gạ sau này được nhắc lại nhiều lần: ông đi tận từng ngõ hẻm phát gạ, ghi chép nhịp sinh hoạt tiêu thụ của từng hộ gia đình, nắm bắt chu kỳ sử dụng gạ của từng người, và trước khi họ hết gạ, ông sẽ tự động bổ sung. Bán với lợi nhuận thấp nhưng số lượng lớn, luôn giao đủ hàng. Đây chính là nền tảng cho tư duy quản lý của ông, cũng là bài học đầu tiên về việc tính toán chi phí trong nửa thế kỷ sau này.
+Câu chuyện về tiệm gạo này sau đó đã được trích dẫn lặp đi lặp lại: Ông giao gạo đến tận từng nhà, ghi chép nhịp độ tiêu dùng của mỗi hộ, nắm vững chu kỳ sử dụng gạo của từng gia đình để chủ động bổ sung hàng trước khi khách sắp hết. Lợi nhuận thấp nhưng bán số lượng lớn, lần nào cũng giao hàng tận nơi. Đây chính là điểm khởi đầu cho tư duy quản lý của ông, cũng là bài học đầu tiên về việc tính toán chi phí cực kỳ tỉ mỉ trong nửa thế kỷ sau đó.
 
-Thói quen này trở thành "truy tìm nguồn gốc" trong Tập đoàn Thái Hóa: đối với mỗi con số chi phí, đều phải hỏi ít nhất ba lớp về nguyên nhân sâu xa. Ông từng nói: "**Một đồng tiền mà bạn kiếm được không phải của bạn; một đồng tiền mà bạn tiết kiệm được mới thực sự là của bạn.**"[^3] Cái cân tính từ thời cửa hàng gạ chưa bao giờ ngừng lại.
+Thói quen này đã phát triển thành tinh thần "truy tìm tận gốc rễ" tại Formosa Plastics: Đối với mỗi con số chi phí, ông đều phải truy vấn nguyên nhân gốc rễ qua ít nhất ba tầng. Sau này ông nói: "**Một đồng bạn kiếm được không phải là một đồng của bạn; một đồng bạn tiết kiệm được mới thực sự là của bạn.**" [^3] Chiếc bàn tính từ thời tiệm gạo chưa bao giờ ngừng nghỉ.
 
-## Năm 1954: Bột nhựa và tích hợp thẳng đường
+## Bột nhựa năm 1954 và chiến lược tích hợp dọc
 
-Năm 1954, Wang Vĩnh Thịnh thành lập Công ty Cổ phần Nhựa Đài Loan, chuyên sản xuất bột nhựa PVC; bắt đầu sản xuất thương mại vào năm 1957.[^1] Trong giai đoạn khởi nghiệp, nhu cầu sử dụng nhựa ở Đài Loan còn rất thấp, tỷ lệ vận hành nhà máy thấp, ông buộc phải dần mở rộng khách hàng dưới dòng sản phẩm khi hầu như không có thị trường.
+Năm 1954, Vương Vĩnh Khánh thành lập Công ty Cổ phần Công nghiệp Nhựa Đài Loan, tập trung vào sản xuất bột nhựa PVC; bắt đầu sản xuất hàng loạt từ năm 1957. [^1] Thời kỳ đầu khởi nghiệp, nhu cầu về nhựa tại Đài Loan cực kỳ hạn chế, tỷ lệ vận hành nhà máy thấp, ông buộc phải từng bước khai thác các khách hàng hạ nguồn trong bối cảnh gần như không có thị trường.
 
-Giải pháp của ông là tích hợp thẳng đường: nếu không có ai mua nguyên liệu thô ở giai đoạn trên, hãy tự tiến xuống giai đoạn dưới, sản xuất ống dẫn, tấm nhựa, rồi lan tỏa tới các sản phẩm hoàn thiện. Lần lượt thành lập các công ty liên quan như Nhựa Nam Á, Hóa chất Dệt may Đài Loan, xây dựng một chuỗi sản xuất đầy đủ từ nguyên liệu đến sản phẩm, tự tiêu thụ. [^1]
+Giải pháp của ông là tích hợp dọc: Nếu thị trường không mua nguyên liệu thượng nguồn, ông sẽ tự mình tiến xuống hạ nguồn, sản xuất ống nhựa, tấm nhựa ở trung nguồn, rồi mở rộng sang thành phẩm. Ông lần lượt thành lập các công ty liên kết như Đài Loan Hóa sợi, Nam Á Nhựa, v.v., hình thành một chuỗi công nghiệp hoàn chỉnh từ nguyên liệu đến thành phẩm có khả năng tự tiêu thụ, giúp những thứ không có thị trường được hấp thụ bởi chính các đơn vị hạ nguồn của mình. [^1]
 
-Cấu trúc này trở thành xương sống của Tập đoàn Thái Hóa, cũng là nền tảng logic cho sự kiên trì của ông về dự án điện lực sau này: kiểm soát nguồn cung nguyên liệu hóa chất ở giai đoạn trên, mới thực sự có quyền lực chi phối chi phí.
+Cấu trúc này đã trở thành xương sống của Tập đoàn Formosa Plastics, cũng là logic nền tảng cho sự kiên trì của ông với dự án Lục Khánh: Chỉ khi nắm giữ thượng nguồn hóa dầu, mới có quyền kiểm soát thực sự đối với chi phí.
 
-## Điện lực: Hai mươi năm đề xuất và bị từ chối
+## Lục Khánh: Hai mươi năm đề xuất và bị từ chối
 
-Nhà máy điện lực nhẹ đầu tiên tại Đài Loan do Công ty Hóa chất Dầu mỏ Trung Quốc xây dựng vào năm 1968, không phải là Thái Hóa, mà là doanh nghiệp nhà nước. Wang Vĩnh Thịnh nhìn thấy nguyên liệu thô của Thái Hóa luôn phụ thuộc vào Dầu mỏ Trung Quốc, quyết định tự xây một nhà máy.
+Nhà máy cracking dầu nhẹ đầu tiên của Đài Loan là do Công ty Hóa dầu Trung Quốc xây dựng vào năm 1968, không phải của Formosa Plastics mà là một doanh nghiệp nhà nước. Nhận thấy nguyên liệu thượng nguồn của Formosa Plastics luôn phụ thuộc vào CPC (Công ty Dầu khí Đài Loan), Vương Vĩnh Khánh quyết định tự xây dựng một nhà máy cho riêng mình.
 
-Năm 1973, Wang Vĩnh Thịnh đề xuất với chính phủ xây dựng "Nhà máy Điện lực thứ sáu" (Điện lực thứ sáu), yêu cầu tự kiểm soát nguồn cung nguyên liệu hóa chất ở giai đoạn trên. [^2] Chính phủ nhiều lần từ chối dựa trên lý do an ninh quốc gia, môi trường: nguồn nguyên liệu hóa chất liên quan tới vật liệu chiến technique, chính phủ không muốn doanh nghiệp tư nhân kiểm soát nguồn sống này, cùng với nhận thức bảo vệ môi trường đang dần hình thành ở Đài Loan vào những năm 1980, vấn đề địa điểm khiến kế hoạch bị trì hoãn nhiều lần. Ông tiếp tục đề xuất, chính phủ tiếp tục chặn lại, cuộc tranh giằng co kéo dài gần hai mươi năm.
+Năm 1973, Vương Vĩnh Khánh đề xuất với chính phủ việc xây dựng "Nhà máy cracking dầu nhẹ thứ sáu" (Lục Khánh), yêu cầu được tự chủ nguồn cung thượng nguồn hóa dầu. [^2] Chính phủ đã nhiều lần từ chối với các lý do như an ninh quốc gia và môi trường: Thượng nguồn hóa dầu liên quan đến vật tư chiến lược, chính quyền không muốn để doanh nghiệp tư nhân kiểm soát huyết mạch này, cộng thêm ý thức bảo vệ môi trường bắt đầu nhen nhóm tại Đài Loan vào thập niên 1980 khiến vấn đề chọn địa điểm liên tục bị đình trệ. Ông tiếp tục đề xuất, chính phủ tiếp tục ngăn cản, cuộc giằng co này kéo dài ròng rã gần hai mươi năm.
 
-Cuối cùng, chính phủ phê duyệt. Nhà máy Điện lực thứ sáu của Thái Hóa được xây dựng tại Mỹ Lộc, vùng biển Đông, bắt đầu sản xuất thương mại vào năm 1998. [^2] Quyết định này cũng để lại dấu ấn trong lịch sử kỹ thuật nhân loại: diện tích đất được đổ đất và tạo đất của Dự án Điện lực thứ sáu đạt tới một phần mười diện tích của thành phố Đài Bắc, tổng số đầu tư vượt 300 tỷ đồng mới, là dự án đổ đất và tạo đất quy mô lớn nhất trong lịch sử nhân loại tại thời điểm đó. [^2]
+Cuối cùng, chính phủ đã phê duyệt. Lục Khánh của Formosa Plastics được xây dựng tại Mạch Liêu, Vân Lâm và bắt đầu sản xuất hàng loạt vào năm 1998. [^2] Quyết định này cũng để lại dấu ấn trong lịch sử kỹ thuật nhân loại: Diện tích lấn biển của Lục Khánh đạt tới 1/10 diện tích thành phố Đài Bắc, với tổng vốn đầu tư hơn 300 tỷ New Taiwan dollar, là công trình lấn biển quy mô lớn nhất lịch sử nhân loại vào thời điểm đó. [^2]
 
-Wang Vĩnh Thịnh từng trong cuốn sách của mình "Cộng sinh - Canh tác sâu" dùng câu "Không hiếu có ba, không có con cháu là lớn nhất" để mô tả sự kiên trì của ông với Dự án Điện lực thứ sáu [^2]: hai mươi năm đề xuất, hai mươi năm bị từ chối, ông coi Dự án Điện lực thứ sáu như con cháu của Thái Hóa, không thể để chết nổi. Kết quả này cũng khẳng định câu nói nổi tiếng của ông: "Kiếm một đồng không phải là kiếm, tiết kiệm một đồng mới thực sự là kiếm." [^3] Tiết kiệm ở đây là chi phí nguyên liệu, chiến thắng là trận chiến hai mươi năm.
+Trong tác phẩm "Sinh Căn · Thâm Canh" (Gieo rễ · Bám sâu), Vương Vĩnh Khánh đã mượn ý từ câu "Bất hiếu hữu tam, vô hậu vi đại" (Trong ba điều bất hiếu, không có con nối dõi là lớn nhất) để mô tả sự chấp niệm của mình đối với Lục Khánh [^2]: Hai mươi năm đề xuất, hai mươi năm bị từ chối, ông coi Lục Khánh như hậu duệ của Formosa Plastics, nhất định phải để nó "mọc" lên được. Kết quả này đã chứng minh cho câu nói nổi tiếng của ông: "Kiếm một đồng không phải là kiếm, tiết kiệm được một đồng mới là kiếm." [^3] Tiết kiệm chính là chi phí nguyên liệu, và chiến thắng chính là trong cuộc chiến kéo dài hai mươi năm đó.
 
 ## Triết lý quản lý tinh gọn
 
-Wang Vĩnh Thịnh thiết lập hệ thống "Hội thảo luận chi phí", yêu cầu các phòng ban hàng tháng xem xét chi tiết cấu trúc chi phí, hướng tới hiệu suất tối đa. Văn hóa quản lý của Tập đoàn Thái Hóa, trực tiếp liên quan tới sự kiên trì của ông với "tiết kiệm": mỗi quy trình đều phải hỏi "Tại sao phải làm như vậy?" "Có cách nào tiết kiệm hơn không?", tuyệt đối không chấp nhận "Luôn làm như vậy" như một lý do.
+Vương Vĩnh Khánh đã thiết lập chế độ "Hội nghị phân tích chi phí", yêu cầu các bộ phận kiểm điểm chi tiết cấu trúc chi phí hàng tháng nhằm theo đuổi hiệu suất tối đa. Văn hóa quản lý của Tập đoàn Formosa Plastics liên kết trực tiếp với sự ám ảnh về việc "tiết kiệm" của ông: Mỗi quy trình đều phải hỏi "Tại sao phải làm thế này?", "Có cách nào tiết kiệm hơn không?", tuyệt đối không chấp nhận lý do "trước giờ vẫn luôn như vậy".
 
-Quan điểm của ông về thể chế cũng rất chính xác: "**Thể chế tốt có thể ngăn cản kẻ xấu không thể hành động; thể chế kém có thể khiến người tốt không thể làm tốt việc.**"[^3][^5] Đặt trong khung lý luận quản trị doanh nghiệp ngày nay, câu nói này vẫn là tư duy hàng đầu. Thiết kế thể chế của Thái Hóa, chính là để tiết kiệm không phụ thuộc vào đạo đức cá nhân, mà dựa trên hệ thống.
+Quan điểm của ông về chế độ cũng vô cùng chính xác: "**Chế độ tốt có thể khiến kẻ xấu không thể lộng hành; chế độ không tốt có thể khiến người tốt không thể làm việc thiện một cách trọn vẹn.**" [^3][^5] Câu nói này nếu đặt vào khung quản trị doanh nghiệp ngày nay vẫn là một tư duy hàng đầu. Thiết kế chế độ của Formosa Plastics là để việc tiết kiệm tiền không phụ thuộc vào đạo đức cá nhân, mà phụ thuộc vào hệ thống.
 
-> 📝 **Ghi chú biên tập viên**: Lời nói phổ biến là sự thành công của Wang Vĩnh Thịnh dựa trên "tiết kiệm", nhưng logic thực sự sâu xa hơn là "sự tính toán có thể đo lường được" — hệ thống "Hội thảo luận chi phí" mà ông thiết lập, buộc mỗi đơn vị phải giải thích rõ ràng từng nguồn chi tiêu của từng đồng tiền. Tiết kiệm chỉ là kết quả, "làm minh bạch cấu trúc chi phí" mới là phương pháp. Tư duy này trong văn hóa doanh nghiệp Đài Loan, ảnh hưởng lâu dài hơn cả những chiếc ống khói của Dự án Điện lực thứ sáu.
+> 📝 **Ghi chú của biên tập viên**: Cách nói phổ biến là Vương Vĩnh Khánh thành công nhờ "tiết kiệm", nhưng logic nền tảng thực sự gần với "tính toán chính xác có thể đo lường được" hơn — chế độ hội nghị phân tích chi phí mà ông thiết lập đã buộc mỗi đơn vị phải giải trình rõ ràng từng xu một. Tiết kiệm chỉ là kết quả, "minh bạch hóa cấu trúc chi phí" mới là phương pháp. Ảnh hưởng của tư duy này đối với văn hóa doanh nghiệp Đài Loan còn bền vững hơn cả những ống khói của Lục Khánh.
 
-Vào những năm 1980, Tập đoàn Thái Hóa đầu tư xây dựng nhà máy hóa chất tại Texas, Mỹ, [^1] trở thành một trong những trường hợp đầu tiên của doanh nhân Đài Loan đầu tư lớn sang nưới ngoài. (Năm đầu tư chính xác là 1980 hay 1986, P0⚠️ các nguồn có sự chênh lệch, đề xuất tham khảo báo cáo thường niên chính thức để xác nhận.)
+Vào thập niên 1980, Tập đoàn Formosa Plastics đã đầu tư vào nhà máy hóa dầu tại Texas, Hoa Kỳ, [^1] trở thành một trong những trường hợp sớm nhất về việc các doanh nghiệp Đài Loan đầu tư quy mô lớn ra nước ngoài. (Năm đầu tư chính xác là 1980 hoặc 1986, ⚠️ có sự khác biệt giữa các nguồn, kiến nghị tra cứu báo cáo thường niên chính thức để xác nhận.)
 
-## Những năm 1980: Đế chế hình thành, phương pháp không thay đổi
+## Thập niên 1980: Đế chế hình thành, phương pháp không đổi
 
-Vào những năm 1980, quy mô của Tập đoàn Thái Hóa mở rộng nhanh chóng, nhưng phương pháp quản lý vẫn không thay đổi: mỗi đồng tiền đều phải giải thích rõ ràng, mỗi quyết định đều phải đi đến nguồn gốc. Wang Vĩnh Thịnh trong giai đoạn này thiết lập "Chu trình quản lý", bao gồm bốn bước: lập kế hoạch, thực hiện, đánh giá, cải tiến; hệ thống này sau này được gọi là "PDCA", Thái Hóa đã áp dụng thường xuyên vào những năm 1970-1980.
+Trong thập niên 1980, quy mô của Tập đoàn Formosa Plastics mở rộng nhanh chóng, nhưng phương thức quản lý vẫn không thay đổi: Mỗi đồng chi phí đều phải được giải trình rõ ràng, mỗi quyết định đều phải truy vấn đến tận gốc rễ. Trong giai đoạn này, Vương Vĩnh Khánh đã thiết lập "vòng tuần hoàn quản lý" bao gồm bốn bước: Lập kế hoạch, Thực hiện, Kiểm tra và Cải tiến; logic mà sau này được gọi là "PDCA" này đã là hoạt động thường quy tại Formosa Plastics từ những năm 1970-1980.
 
-Ông có một triết lý về lựa chọn nhân sự: "**Người lãnh đạo cần có tâm lý cách mạng; người lãnh đạo cần có tấm lòng hướng lợi cho cả hai bên.**"[^3] Lợi lộc cho cả hai bên, là tiêu chuẩn đạo đức của ông: không phải là làm từ thiện, mà lợi nhuận của bạn nên được xây dựng cùng với đối tác, chứ không phải áp bức một phía.
+Ông có một triết lý về tuyển chọn nhân tài: "**Người điều hành phải có tâm thế cải cách; người điều hành phải có lòng bao dung để lợi người và lợi mình.**" [^3] Lợi người lợi mình là tuyên bố về lằn ranh đạo đức kinh doanh của ông: Không phải làm từ thiện, mà là lợi nhuận của bạn nên được xây dựng cùng với đối tác, chứ không phải là sự chèn ép đơn phương.
 
-Tranh cãi môi trường của Dự án Điện lực thứ sáu cũng bắt đầu bùng phát vào thời gian này. Cuộc đấu tranh lâu dài của cư dân tại khu vực Mỹ Lộc, vùng biển Đông, chống lại khói thải và nưới thải hóa chất, là một chương quan trọng trong lịch sử phong trào môi trường Đài Loan. Phần này Wang Vĩnh Thịnh trước khi qua đời chưa thể đưa ra câu trả lời làm hài lòng cả hai phía, trở thành một mặt khác của di sản kinh doanh của ông.
+Các tranh chấp về môi trường tại Lục Khánh cũng bắt đầu nảy sinh trong thời kỳ này. Cuộc đấu tranh lâu dài của cư dân xã Mạch Liêu, huyện Vân Lâm chống lại khí thải và nước thải hóa dầu là một chương quan trọng trong lịch sử phong trào môi trường Đài Loan. Phần này Vương Vĩnh Khánh khi còn sống đã không đưa ra được câu trả lời thỏa đáng cho các bên, trở thành một mặt khác trong di sản kinh doanh của ông.
 
-## Thái Hư: Một cách đầu tư vốn khác
+## Chang Gung: Một hình thức đầu tư vốn khác
 
-Wang Vĩnh Thịnh cũng là người sáng lập Bệnh viện Thái Hư và Đại học Thái Hư. Năm 1976, ông lập tặng Bệnh viện Kỷ niệm Thái Hư bằng tên mẹ mình là Wang Chân Dương, ban đầu tại khu vực Linh Quy, Thành Bằng, sau đó mở rộng tới Đài Bắc, Bắc Bắc, Gia Nghĩa, Hải Tĩnh, trở thành cơ sở y tế tư nhân có số giường bệnh nhiều nhất Đài Loan. [^1]
+Vương Vĩnh Khánh cũng là người sáng lập Bệnh viện Chang Gung và Đại học Chang Gung. Năm 1976, ông đã thành lập Bệnh viện Kỷ niệm Chang Gung dưới tên mẹ mình là Vương Chiêm Dương (Wang Zhan-yang), ban đầu đặt tại Lâm Khẩu, Đào Viên, sau đó mở rộng ra Đài Bắc, Cơ Long, Gia Nghĩa (Chiayi), Cao Hùng, trở thành tổ chức y tế tư nhân có số giường bệnh lớn nhất Đài Loan. [^1]
 
-Ông mang logic kinh doanh vào hệ thống y tế (kiểm soát chi phí, chuẩn hóa quy trình, quản lý hiệu suất), gây ra một mức độ tranh cãi đáng kể trong lĩnh vực y tế thời đó: y tế nên dựa trên bệnh nhân hay dựa trên hiệu quả? Câu trả lời của Wang Vĩnh Thịnh là: hiệu quả và chất lượng có thể đồng tồn tại, nhưng điều kiện là mỗi giai đoạn đều phải tính toán chi phí.
+Ông đưa logic kinh doanh vào hệ thống y tế (kiểm soát chi phí, tiêu chuẩn hóa quy trình, quản lý hiệu suất), điều này đã gây ra tranh cãi đáng kể trong giới y khoa thời bấy giờ: Y tế nên lấy bệnh nhân làm trung tâm hay ưu tiên hiệu suất? Câu trả lời của Vương Vĩnh Khánh là: Hiệu suất và chất lượng có thể song hành, nhưng với điều kiện mỗi khâu đều phải tính toán rõ ràng chi phí.
 
-Sự kiểm soát chi phí của ông đối với bệnh viện, và sự kiểm soát chi phí của ông đối với dây chuyền sản xuất của Thái Hóa, sử dụng cùng một phương pháp "truy tìm nguồn gốc"; có lẽ đây là "phòng thí nghiệm chi phí" lớn cuối cùng của ông.
+Cách ông kiểm soát chi phí bệnh viện cũng giống như cách ông kiểm soát dây chuyền sản xuất tại Formosa Plastics, sử dụng cùng một phương pháp truy tìm tận gốc rễ; đây có lẽ là "phòng thí nghiệm chi phí" quy mô lớn cuối cùng của ông.
 
-## Năm 2008: Mất và tranh chấn di chúc sau khi qua đời
+## Qua đời năm 2008 và cuộc tranh chấp tài sản để lại
 
-Ngày 15 tháng 10 năm 2008, Wang Vĩnh Thịnh tử trận tại New York, Hoa Kỳ, thọ 92 tuổi, lúc đó ông đang đi công tác tại Hoa Kỳ. [^1] Tập đoàn Thái Hư mà ông thành lập trong đời, đến thời điểm ông qua đời, doanh thu đã vượt qua 2 nghìn tỷ đồng mới, bao gồm các thế hệ chính như Nhựa Đài Loan, Nhựa Nam Á, Hóa chất Dệt may Đài Loan, Hóa chất Thái Hóa, Bệnh viện Thái Hư. Quy mô của Tập đoàn Thái Hóa, trong số các doanh nghiệp tư nhân Đài Loan, luôn đứng đầu.
+Ngày 15 tháng 10 năm 2008, Vương Vĩnh Khánh qua đời tại New York, Hoa Kỳ, thọ 92 tuổi, khi đó ông đang thực hiện chuyến khảo sát công vụ tại Mỹ. [^1] Tập đoàn Formosa Plastics do ông xây dựng khi ông qua đời đã có doanh thu hàng năm vượt quá 2 nghìn tỷ New Taiwan dollar, bao gồm các đơn vị kinh doanh chính như Công ty Nhựa Đài Loan, Nhựa Nam Á, Đài Loan Hóa sợi, Formosa Petrochemical, Bệnh viện Chang Gung, v.v. Quy mô của Tập đoàn Formosa Plastics luôn giữ vị trí hàng đầu trong các doanh nghiệp tư nhân tại Đài Loan.
 
-Ngoài Tập đoàn Thái Hóa, ông để lại một cuộc tranh chấn di chúc kéo dài nhiều năm. [^4] Wang Vĩnh Thịnh trong đời có ba gia đình (vợ chính và hai người vợ khác), ba người vợ chung sống có tám người con, tranh chấn liên quan tới phân phát tài sản, tình trạng pháp lý của các người thừa kế, cũng như quyền sở hữu tài sản uỷ thác nước ngoài, những vấn đề phức tạp. Cuộc tranh chấn kéo dài từ năm 2008 đến khoảng năm 2022, là một trong những vụ tranh chấn di chúc quy mô lớn nhất và kéo dài nhất trong lịch sử doanh nghiệp Đài Loan. [^4]
+Thứ ông để lại, ngoài Tập đoàn Formosa Plastics, còn có một cuộc tranh chấp tài sản gia tộc kéo dài nhiều năm. [^4] Vương Vĩnh Khánh cả đời có ba gia đình (vợ chính thất và hai người vợ lẽ), gia đình thứ ba có tổng cộng tám người con; tranh chấp liên quan đến phân chia di sản, địa vị pháp lý của các bên thừa kế, cũng như quyền sở hữu tài sản ủy thác tại nước ngoài và các vấn đề phức tạp khác. Cuộc tranh chấp kéo dài từ năm 2008 đến khoảng năm 2022, là một trong những vụ tranh chấp tài sản gia tộc quy mô lớn nhất và kéo dài nhất trong lịch sử doanh nghiệp Đài Loan. [^4]
 
-Lời nói phổ biến là Wang Vĩnh Thịnh "nhận ra người tốt và bố trí kế vị hoàn hảo". Nhưng cuộc tranh chấn này cho thấy, logic quản lý của ông đối với Thái Hóa, chưa được mở rộng tới thiết kế cấu trúc cho sự truyền lưu gia đình: một người đã tính toán suốt đời, vẫn chưa tính toán hết cuống cuộc cuối cùng.
+Cách nói phổ biến là Vương Vĩnh Khánh "nhìn người rõ ràng, sắp xếp kế vị hoàn hảo". Nhưng cuộc tranh chấp này cho thấy logic quản lý của ông đối với Formosa Plastics đã không được mở rộng sang thiết kế cấu trúc kế thừa gia tộc: Một người tính toán tỉ mỉ cả đời, cuối cùng lại không tính toán rõ ràng sổ sách cuối cùng.
 
-Từ cửa hàng gạ, Dự án Điện lực thứ sáu, ba cuộc tranh chấn vợ, ông đã hoàn thành hành trình của mình, nhưng cuống sổ tài khoản thì chưa hoàn thành.
+Tiệm gạo, Lục Khánh, và cuộc tranh chấp của gia đình thứ ba; ông đã đi hết con đường của mình, nhưng các khoản mục sổ sách thì chưa.
 
 ## Danh hiệu "Thần kinh doanh"
 
-Đài Loan gọi Wang Vĩnh Thịnh là "Thần kinh doanh", phía sau danh hiệu này là một sự so sánh cụ thể: ông không có bằng cấp uy nghi, không có mối quan hệ chính trị, cũng không thừa nhận bất kỳ tài sản gia đình nào. Từ 200 yên Nhật đến 2 nghìn tỷ doanh thu, không có bất kỳ cú đột phá nào, chỉ có việc liên tục tính toán chi phí của từng giai đoạn sản xuất.
+Tại Đài Loan, người ta gọi Vương Vĩnh Khánh là "Thần kinh doanh", đằng sau danh hiệu này có một sự đối chiếu cụ thể: Ông không có học vấn hiển hách, không có quan hệ chính trị làm chỗ dựa, cũng không kế thừa bất kỳ tài sản gia tộc nào. Từ 200 Yên Nhật đến doanh thu 2 nghìn tỷ, giữa chừng không hề có bất kỳ đường tắt nào, chỉ có việc tính toán rõ ràng chi phí của từng khâu sản xuất qua từng thế hệ.
 
-Danh hiệu này trong lịch sử doanh nghiệp Đài Loan là duy nhất. Câu chuyện của ông được nhắc lại vì nó cung cấp một mẫu hình thành công không phụ thuộc vào điều kiện sinh ra: không dựa vào gia đình, mà dựa vào phương pháp.
+Danh hiệu này là độc nhất vô nhị trong lịch sử doanh nghiệp Đài Loan. Câu chuyện của ông được trích dẫn lặp đi lặp lại vì nó cung cấp một khuôn mẫu thành công không phụ thuộc vào điều kiện bẩm sinh: Không dựa vào xuất thân, mà dựa vào phương pháp.
 
-## Quy mô của đế chế
+## Thước đo của đế chế
 
-Từ một cậu thanh niên 15 tuổi vay 200 yên Nhật mở cửa hàng gạ, đến "Thần kinh doanh" của Tập đoàn Thái Hóa với doanh thu hơn 2 nghìn tỷ đồng mới, Wang Vĩnh Thịnh để lại là dây chuyền sản xuất dài nhất trong lịch sử công nghiệp Đài Loan. Nhưng "đế chế" này được xây dựng từ một logic cực kỳ đơn giản: mỗi đồng tiền đều phải biết đi đâu, mỗi giai đoạn đều phải có phương pháp tiết kiệm hơn hôm nay so với hôm qua.
+Từ một thiếu niên 15 tuổi cầm 200 Yên Nhật mở tiệm gạo, đến "Thần kinh doanh" với doanh thu hàng năm của Tập đoàn Formosa Plastics vượt quá 2 nghìn tỷ New Taiwan dollar, thứ Vương Vĩnh Khánh để lại là chuỗi công nghiệp dài nhất trong lịch sử công nghiệp Đài Loan. Nhưng "đế chế" này được xây dựng từ một logic cực kỳ đơn giản: Mỗi đồng tiền đều phải biết đi đâu, mỗi khâu đều phải có phương pháp tiết kiệm hơn ngày hôm qua.
 
-Ông không học bao nhiêu sách, không có bằng cấp từ MIT, cũng không có mối quan hệ ở Silicon Valley. Ông chỉ có một cái cân tính từ cửa hàng gạ, cùng với thói quen 92 năm tuổi chưa bao giờ dừng lại: mỗi khoản sổ sách đều phải giải thích rõ ràng.
+Ông không học quá nhiều, không có bằng cấp từ MIT, cũng không có mạng lưới quan hệ tại Thung lũng Silicon. Thứ ông có là chiếc bàn tính của một tiệm gạo, cộng với thói quen chưa bao giờ buông bỏ trong suốt 92 năm: Mỗi khoản mục sổ sách đều phải được giải trình rõ ràng.
 
-Đài Loan có nhiều truyền thuyền công nghiệp, nhưng sự đặc biệt của Wang Vĩnh Thịnh nằm ở chỗ: logic thành công của ông phức tạp đến mức có thể xây dựng một tập đoàn đa quốc gia, nhưng đồng thời đơn giản đến mức một học sinh trung học cũng có thể hiểu được: số tiền tiết kiệm được, mới thực sự là của bạn.
+Đài Loan có nhiều huyền thoại công nghiệp, nhưng sự độc đáo của Vương Vĩnh Khánh nằm ở chỗ: Logic thành công của ông phức tạp đến mức có thể xây dựng một tập đoàn đa quốc gia, nhưng đồng thời lại đơn giản đến mức một học sinh tiểu học cũng có thể hiểu được: Số tiền tiết kiệm được đó, mới thực sự là của bạn.
 
-Đứa trẻ nghèo tại Tân Tiến năm 1917, năm 1998 để cho dự án đổ đất và tạo đất quy mô lớn nhất trong lịch sử sản xuất, năm 2008 rời khỏi thế giới với một cuống sổ tài khoản gia đình chưa được thanh lý. 92 năm, cái cân tính chưa bao giờ ngừng lại.
+Đứa trẻ của gia đình nông dân Tân Điếm năm 1917, người đưa công trình lấn biển lớn nhất vào sản xuất hàng loạt năm 1998, và người rời đi vào năm 2008 cùng với những sổ sách gia tộc chưa được thanh toán xong. 92 năm, chiếc bàn tính chưa bao giờ ngừng nghỉ.
 
-Ông không chỉ để lại một tập đoàn, mà còn để lại một triết lý tinh gọn kiểu Đài Loan: làm rõ cấu trúc chi phí, đi tìm nguồn gốc của quy trình, rồi lặp lại suốt đời. Triết lý này, dù ở nhà máy của ông, ở bệnh viện của ông, hay câu chuyện cửa hàng gạ của ông, đều nói cùng một câu.
+Thứ ông để lại không chỉ là một tập đoàn, mà còn là một triết lý tinh gọn kiểu Đài Loan: Nói rõ chi phí, truy vấn tận gốc quy trình, và lặp đi lặp lại việc đó suốt cả cuộc đời. Triết lý này, trong nhà máy của ông, bệnh viện của ông, hay câu chuyện tiệm gạo của ông, đều nói cùng một câu.
 
-**Đọc thêm:** [Wang Vĩnh Thịnh — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Thái Hóa Điện lực thứ sáu: Bước chuyển mình then chốt của ngành công nghiệp hóa chất Đài Loan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Nhân Dương Diễn: Tác phẩm khoa học ông xây dựng, đắt hơn cả giải thưởng Nobel](/vi/people/samuel-yin-yan-liang) — Trường hợp tương tự của nhà lãnh đạo ngành công nghiệp Đài Loan trong thế hệ đó chuyển đổi sang từ thiện
+**Đọc thêm**: [Vương Vĩnh Khánh — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Lục Khánh Formosa: Bước chuyển mình then chốt của ngành hóa dầu Đài Loan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Doãn Diễn Lăng: Giải thưởng khoa học ông lập ra còn đắt hơn cả Nobel](/vi/people/samuel-yin-yan-liang) — Một ví dụ tương đồng về các nhà lãnh đạo công nghiệp Đài Loan cùng thế hệ chuyển sang làm từ thiện.
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia: Wang Vĩnh Thịnh](https://zh.wikipedia.org/wiki/王永慶) — Trang tiểu sử đời đầy đủ của Wang Vĩnh Thịnh, xác nhận ngày sinh 18 tháng 1 năm 1917, năm thành lập Nhựa Đài Loan (1954/1957 sản xuất thương mại), ngày mất 15 tháng 10 năm 2008, cũng như hồ sơ đầu tư tại Texas.
+[^1]: [Wikipedia: Vương Vĩnh Khánh](https://zh.wikipedia.org/wiki/王永慶) — Mục tiểu sử đầy đủ của Vương Vĩnh Khánh, xác nhận ngày sinh 18/01/1917, năm thành lập Công ty Nhựa Đài Loan (1954/sản xuất hàng loạt 1957), ngày mất 15/10/2008, và hồ sơ đầu tư tại Texas, Hoa Kỳ.
 
-[^2]: [Story Studio: Lịch sử phát triển công nghiệp hóa chất Đài Loan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) — Bao gồm bối cảnh lịch sử của nhà máy điện lực nhẹ Đài Loan (năm 1968 Dầu mỏ Trung Quốc đầu tiên) và quá trình chiến đấu đề xuất của Wang Vĩnh Thịnh với Dự án Điện lực thứ sáu, là nguồn xác nhận cho việc loại bỏ "ảo tưởng Wang Vĩnh Thịnh xây nhà máy điện lực năm 1968" trong bài viết này.
+[^2]: [Story Studio: Lịch sử phát triển ngành hóa dầu Đài Loan](https://storystudio.tw/article/gushi/taiwan-plastic-industry) — Bao gồm bối cảnh lịch sử của nhà máy cracking dầu nhẹ tại Đài Loan (nhà máy đầu tiên của CPC năm 1968) và quá trình đấu tranh đề xuất Lục Khánh của Vương Vĩnh Khánh, là nguồn xác nhận để loại bỏ thông tin sai lệch "Vương Vĩnh Khánh xây nhà máy cracking năm 1968" trong bài viết này.
 
-[^3]: [Wikipedia: Wang Vĩnh Thịnh](https://zh.wikipedia.org/wiki/王永慶) — Nguồn gốc triết lý quản lý và câu danh ngôn "Kiếm một đồng không phải là kiếm, tiết kiệm một đồng mới thực sự là kiếm" của Wang Vĩnh Thịnh.
+[^3]: [Wikipedia: Vương Vĩnh Khánh](https://zh.wikipedia.org/wiki/王永慶) — Nguồn trích dẫn triết lý quản lý của Vương Vĩnh Khánh và câu nói "Kiếm một đồng không phải là kiếm, tiết kiệm được một đồng mới là kiếm".
 
-[^4]: [Jeannie Weekly: Câu chuyện tranh chấn di chúc sau khi Wang Vĩnh Thịnh qua đời (2023)](https://www.businesstoday.com.tw/article/category/183016/post/202301030028/) — Báo cáo chi tiết về cuộc tranh chấn di chúc trong gia đình ba vợ của Wang Vĩnh Thịnh sau khi ông mất năm 2008, bao gồm bối cảnh phát triển tranh chấn từ năm 2008 đến 2022.
+[^4]: [Next Magazine: Toàn cảnh tranh chấp tài sản sau khi Vương Vĩnh Khánh qua đời (2023)](https://www.businesstoday.com.tw/article/category/183016/post/202301030028/) — Báo cáo chi tiết về cuộc tranh chấp tài sản của gia đình thứ ba sau khi Vương Vĩnh Khánh mất năm 2008, bao gồm diễn biến tranh chấp từ 2008-2022.
 
-[^5]: [Wikiquote: Wang Vĩnh Thịnh](https://zh.wikiquote.org/zh-tw/王永慶) — Tập hợp danh ngôn quản lý của Wang Vĩnh Thịnh, bao gồm "Một đồng tiền mà bạn kiếm được không phải của bạn, một đồng tiền mà bạn tiết kiệm được mới thực sự là của bạn" và "Thể chế tốt có thể ngăn cản kẻ xấu không thể hành động" và các danh ngôn khác.
+[^5]: [Wikiquote: Vương Vĩnh Khánh](https://zh.wikiquote.org/zh-tw/王永慶) — Tập hợp các câu nói quản lý của Vương Vĩnh Khánh, bao gồm "Một đồng bạn kiếm được không phải là của bạn..." và "Chế độ tốt có thể khiến kẻ xấu không thể lộng hành...".
