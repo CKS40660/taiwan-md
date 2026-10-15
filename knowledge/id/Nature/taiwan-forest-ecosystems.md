@@ -1,193 +1,193 @@
 ---
 title: 'Ekosistem Hutan Taiwan'
-description: 'Sebuah perjalanan vertikal dari permukaan laut hingga puncak Gunung Yushan, melintasi spektrum hutan paling padat di bumi.'
+description: 'Dalam jarak horizontal yang sangat pendek, pulau ini mendaki dari permukaan laut hingga puncak Gunung Yushan, merangkum seluruh tipe hutan dari tropis hingga subarktik; dengan tingkat tutupan hutan dua kali lipat rata-rata global, namun hampir semuanya terkonsentrasi di dinding gunung vertikal yang menghadapi tantangan tahunan badai topan, gempa bumi, dan hujan lebat.'
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '生態系統'
 tags:
   [
-    'ekosistem hutan',
+    'Ekosistem hutan',
     'distribusi vertikal',
-    'Tsuga Taiwan',
-    'kayu hinoki',
-    'sabuk awan',
+    'Taiwan Shan (Taiwan Cedar)',
+    'Hinoki',
+    'zona awan kabut',
     'keanekaragaman hayati',
   ]
+subcategory: '生態系統'
 readingTime: 15
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
-featured: false
 translatedFrom: 'Nature/台灣森林生態系.md'
-sourceCommitSha: 'a3973681e'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:1bf33f9ec83e5490'
 sourceBodyHash: 'sha256:cfbcf80a5d100a4c'
-translatedAt: '2026-07-24T15:52:20+08:00'
+translatedAt: '2026-10-15T12:42:56+08:00'
 ---
 
 # Ekosistem Hutan Taiwan
 
-> **Ringkasan 30 Detik:** Dalam jarak horizontal 200 kilometer, Taiwan melonjak dari permukaan laut hingga 3.952 meter, menciptakan spektrum hutan lengkap dari tropis hingga sub-artik. Tingkat tutupan hutan sebesar 60,92%—dua kali lipat rata-rata global—membuat pulau ini merangkum hampir semua jenis hutan yang ada di bumi. Dari pohon _Casuarina_ yang tahan garam di pesisir, hingga kayu hinoki berusia ribuan tahun di sabuk awan, hingga _Taiwan Cypress_ di pegunungan setinggi 3.600 meter, ini adalah perjalanan ekologi paling kaya dalam jarak terpendek.
+> **Ringkasan 30 Detik:** Dalam jarak horizontal sejauh 200 kilometer, Taiwan mendaki dari permukaan laut hingga ketinggian 3.952 meter, menciptakan spektrum hutan yang lengkap dari tropis hingga subarktik. Tingkat tutupan hutan sebesar 60,92%—dua kali lipat rata-rata global—membuat pulau ini merangkum hampir semua tipe hutan di bumi. Dari pohon Casuarina yang tahan garam di pesisir, hingga Hinoki (cipres) ribuan tahun di zona awan kabut, dan Juniper Yushan di pegunungan setinggi 3.600 meter, ini adalah perjalanan ekologi paling kaya dalam jarak terpendek.
 
-## Fakta yang Tak Terduga
+## Sebuah Fakta yang Kontra-intuitif
 
-**Taiwan adalah salah satu pulau dengan kepadatan hutan tertinggi di dunia, namun sekaligus merupakan tempat di mana hutan menjadi sangat rentan.**
+**Taiwan adalah salah satu pulau dengan kepadatan hutan tertinggi di dunia, namun pada saat yang sama merupakan tempat di mana hutan paling rentan.**
 
-2,18 juta hektar hutan, 60,92% tutupan, dan 460 juta meter kubik cadangan kayu: angka-angka ini menempatkan Taiwan di peringkat ke-26 dalam daftar hutan global, dengan tingkat tutupan dua kali lipat dari rata-rata dunia sebesar 30,3%. Namun, hampir seluruh hutan ini berdesakan di lereng gunung yang curam, menghadapi ujian tahunan berupa topan, gempa bumi, dan hujan lebat, serta ancaman jangka panjang dari perubahan iklim.
+2,186 juta hektar hutan, tingkat tutupan 60,92%, dan volume tegakan 460 juta meter kubik: angka-angka ini menempatkan Taiwan di peringkat ke-26 dalam daftar hutan global, dengan tingkat tutupan dua kali lipat dari rata-rata global sebesar 30,3%. Namun, hampir seluruh hutan ini terkonsentrasi di dinding gunung yang vertikal, menghadapi ujian tahunan berupa topan, gempa bumi, hujan lebat, serta ancaman jangka panjang perubahan iklim.
 
 > **📝 Catatan Kurator**
-> Banyak yang tidak tahu bahwa tingkat tutupan hutan Taiwan lebih tinggi daripada Jerman (32%), Prancis (31%), bahkan melampaui Norwegia (38%) yang terkenal dengan hutannya. Namun, hampir seluruh hutan di Taiwan tumbuh di lereng curam di atas 30 derajat—"hutan vertikal" seperti ini sangat langka di seluruh dunia.
+> Banyak orang tidak menyadari bahwa tingkat tutupan hutan Taiwan lebih tinggi daripada Jerman (32%) dan Prancis (31%), bahkan melampaui Norwegia (38%) yang terkenal dengan hutannya. Namun, hampir semua hutan di Taiwan tumbuh di lereng curam di atas 30 derajat—"hutan vertikal" seperti ini sangat langka di seluruh dunia.
 
-## Dari Pesisir ke Langit: Perjalanan Ruang-Waktu 200 Kilometer
+## Dari Pesisir hingga Langit: Perjalanan Ruang dan Waktu sejauh 200 Kilometer
 
-Berdiri di Pelabuhan Keelung, memandang ke selatan, puncak utama Gunung Yushan berada 200 kilometer jauhnya. Jarak ini setara dengan jarak antara Taipei dan Hsinchu, namun ketinggiannya melonjak dari 0 hingga 3.952 meter. Jika Anda dapat berpindah secara instan melintasi urutan vertikal ini, Anda akan menemukan diri Anda melewati zona iklim lengkap dari subtropis hingga sub-artik.
+Berdiri di Pelabuhan Keelung dan memandang ke arah selatan, puncak utama Gunung Yushan berada 200 kilometer jauhnya. Jarak ini setara dengan dari Taipei ke Hsinchu, tetapi ketinggiannya mendaki dari 0 hingga 3.952 meter. Jika Anda dapat berpindah secara instan melalui urutan vertikal ini, Anda akan menemukan diri Anda mengalami seluruh zona iklim dari subtropis hingga subarktik.
 
-### Perhentian Pertama di Pesisir: Pasukan Pion di Tengah Kabut Garam (0-100 Meter)
+### Perhentian Pertama di Pesisir: Pasukan Pionir dalam Kabut Garam (0-100 Meter)
 
-Perjalanan dimulai dari tepi pantai yang dihantam ombak. Tempat ini tampak gersang—pasir, batu, kabut garam, dan angin kencang—namun jika diperhatikan dengan saksama, Anda akan menemukan pasukan pion kecil.
+Perjalanan dimulai dari tepi pantai yang dihantam ombak. Tempat ini tampak gersang—pasir, batu, kabut garam, dan angin kencang—tetapi jika dilihat lebih dekat, Anda akan menemukan pasukan pionir kecil.
 
-Daun jarum _Casuarina_ bergoyang di tengah angin laut; mereka bukanlah daun asli, melainkan dahan kecil yang menyusut menjadi bentuk jarum untuk mengurangi kerusakan akibat garam. Pohon _Pandanus_ mencengkeram tanah berpasir yang longgar dengan akar udara, sementara permukaan berlilin dari pohon _Sea Hibiscus_ memantulkan cahaya matahari. Tanaman-tanaman ini tidak memiliki tubuh yang megah, namun mereka menjalankan peran sebagai garis pertahanan pertama untuk melindungi wilayah pedalaman.
+Daun jarum pohon Casuarina (木麻黃) bergoyang ditiup angin laut; itu bukanlah daun sejati, melainkan cabang kecil yang berevolusi menjadi bentuk jarum untuk mengurangi kerusakan akibat garam. Pohon _Litsea cubeba_ (林投樹) mencengkeram pasir yang lunak dengan akar udara, dan daun lilin pohon _Pittosporum_ (海桐) memantulkan sinar matahari. Tanaman-tanaman ini tidak memiliki batang yang megah, namun berperan sebagai garis pertahanan pertama yang melindungi pedalaman.
 
-Di Semenanjung Hengchun, Anda masih dapat menemukan sisa-sisa hutan tropis terakhir di Taiwan—_Spondias mombin_, _Elaeocarpus_ daun lebar, dan pohon gading (_Diospyros_). Mereka adalah penyintas dari zaman es; ketika seluruh belahan bumi utara membeku, ujung selatan pulau ini menjadi tempat perlindungan terakhir bagi tanaman tropis.
+Di Semenanjung Hengchun, Anda juga dapat menemukan sisa-sisa hutan tropis terakhir di Taiwan—pohon _Diospyros kaki_ (毛柿), _Schima wallichii_ (大葉山欖), dan pohon gading (_象牙樹_). Mereka adalah penyintas dari Zaman Es; ketika seluruh belahan bumi utara membeku, ujung paling selatan pulau ini menjadi tempat perlindungan terakhir bagi tanaman tropis.
 
-### Perhentian Kedua: Kerajaan Aroma Cendana (100-500 Meter)
+### Perhentian Kedua: Kerajaan Aroma Kamper (100-500 Meter)
 
-Meninggalkan pesisir dan memasuki perbukitan dengan ketinggian rendah, aroma pedas mulai tercium di udara. Ini adalah aroma _Camphor_—aroma yang pernah membuat Taiwan terkenal di dunia.
+Meninggalkan pesisir dan memasuki perbukitan dataran rendah, udara mulai dipenuhi aroma rempah yang tajam. Ini adalah aroma pohon Kamper (_Camphor tree_ / 樟樹)—aroma yang pernah membuat Taiwan terkenal di dunia.
 
-Pada akhir abad ke-19 hingga awal abad ke-20, camphor dari Taiwan mencakup 70% dari produksi global. Setelah kedatangan Jepang, ekstraksi "emas hijau" ini dilakukan secara besar-besaran. Camphor adalah bahan baku kunci untuk seluloid (plastik awal) dan bubuk mesiu tanpa asap. Sebuah pohon camphor tua berusia ribuan tahun dapat menghasilkan puluhan kilogram camphor, cukup untuk membuat satu keluarga menjadi kaya raya.
+Pada akhir abad ke-19 hingga awal abad ke-20, kamper dari Taiwan menyumbang 70% produksi global. Setelah Jepang datang, eksploitasi "emas hijau" ini dilakukan dalam skala besar. Kamper adalah bahan baku kunci untuk seluloid (plastik awal) dan bubuk mesiu tanpa asap. Satu pohon kamper tua berusia seribu tahun dapat menghasilkan puluhan kilogram kamper, cukup untuk membuat sebuah keluarga menjadi kaya raya.
 
-Saat ini, hutan _Cinnamomum_ asli sudah tidak banyak lagi. Yang Anda lihat sebagian besar adalah hutan sekunder—hutan yang tumbuh kembali setelah ditebang pada masa pendudukan Jepang. Namun jika dicium dengan teliti, aroma itu tetap ada. Kulit pohon _Schima wallichiana_ yang halus sulit dipanjat oleh monyet, bunga merah _Sauraua_ menghiasi hutan, dan daun pakis dari pohon _Cinnamomum_ membentang seperti payung, mengingatkan Anda bahwa tempat ini dulunya adalah wajah hutan di era dinosaurus.
+Saat ini, hutan kamper asli sudah tidak banyak lagi. Yang Anda lihat sebagian besar adalah hutan sekunder—hutan yang tumbuh kembali setelah penebangan pada masa pendudukan Jepang. Namun jika dicium dengan teliti, aroma itu masih ada. Kulit pohon _Symplocos_ (九芎樹) yang halus membuat monyet pun sulit memanjatnya, bunga merah _Bougainvillea_ (九重葛) menghiasi hutan, dan daun pakis dari pohon _Cyathea_ (筆筒樹) terbuka seperti payung, mengingatkan Anda bahwa tempat ini dulunya adalah hutan di era dinosaurus.
 
-### Perhentian Ketiga: Meja Makan Melimpah di Hutan Kacang (500-1.800 Meter)
+### Perhentian Ketiga: Meja Makan yang Berlimpah di Hutan Ek (500-1.800 Meter)
 
-Semakin naik, suhu mulai turun, dan pemeran utama hutan berganti menjadi tanaman dari famili _Fagaceae_. _Quercus acutissima_, _Quercus variabilis_, _Lithocarpus_—nama-nama ini mungkin asing bagi banyak orang, tetapi Anda pasti pernah melihat buahnya: kacang ek (acorn).
+Berjalan lebih tinggi lagi, suhu mulai turun, dan tokoh utama hutan berganti menjadi tanaman dari famili Fagaceae. _Quercus glauca_ (青剛櫟), _Quercus morii_ (森氏櫟), _Castanopsis_ (長尾尖葉櫧)—nama-nama ini asing bagi kebanyakan orang, tetapi Anda pasti pernah melihat buahnya: biji ek (_acorn_).
 
-Ini adalah restoran bagi satwa liar di Taiwan. Saat musim gugur tiba, pohon yang penuh dengan kacang jatuh ke tanah; beruang hitam Taiwan, monyet macan Taiwan, dan babi hutan akan datang ke sini untuk makan besar demi menimbun lemak untuk bertahan hidup selama musim dingin. Keanekaragaman hayati di hutan _Quercus_ sangat kaya; satu pohon tua berusia ratusan tahun dapat mendukung kehidupan ratusan jenis seruput, burung, dan mamalia kecil.
+Ini adalah restoran bagi satwa liar Taiwan. Saat musim gugur, biji ek yang memenuhi pohon akan jatuh; beruang hitam Taiwan, monyet Taiwan, dan babi hutan akan datang ke sini untuk makan besar guna menyimpan lemak untuk musim dingin. Keanekaragaman hayati di hutan ek sangat kaya; satu pohon ek berusia seratus tahun dapat menopang kehidupan ratusan jenis serangga, burung, dan mamalia kecil.
 
-Di ketinggian ini, Anda mulai bertemu dengan pohon-pohon raksasa yang sebenarnya. _Quercus variabilis_ dapat tumbuh hingga 30 meter tinggi dengan lingkar dada lebih dari 2 meter. Umur mereka bisa mencapai 500 tahun, menjadi saksi bisu migrasi pemukiman masyarakat adat, pembukaan lahan oleh orang Tionghoa, pemerintahan Jepang, hingga lahirnya Taiwan modern.
+Di ketinggian ini, Anda mulai bertemu dengan pepohonan raksasa yang sebenarnya. _Quercus morii_ dapat tumbuh hingga 30 meter dengan diameter dada lebih dari 2 meter. Usia mereka dapat mencapai 500 tahun, menjadi saksi migrasi suku penduduk asli, pembukaan lahan oleh etnis Han, pemerintahan Jepang, hingga kelahiran Taiwan modern.
 
-### Perhentian Keempat: Wilayah Penguasa di Balik Kabut (1.800-2.500 Meter)
+### Perhentian Keempat: Wilayah Raja di Tengah Awan Kabut (1.800-2.500 Meter)
 
-Kemudian, Anda memasuki tanah suci hutan Taiwan—sabuk awan.
+Kemudian, Anda memasuki tempat suci hutan Taiwan—zona awan kabut.
 
-Inilah rumah bagi pohon hinoki. _Tsuga orientalis_ dan _Tsuga dumosa_, dua jenis hinoki endemik Taiwan yang hanya ada di bumi, menemukan lingkungan hidup yang sempurna pada ketinggian ini. Curah hujan tahunan mencapai 3.000-5.000 mm, kelembapan relatif tetap di atas 80% sepanjang tahun, dan kabut hampir tidak pernah menghilang.
+Inilah rumah bagi Hinoki. _Chamaecyparis formosensis_ (紅檜/Hinoki Merah) dan _Chamaecyparis taiwanensis_ (台灣扁柏/Hinoki Taiwan), dua-satunya jenis Hinoki endemik Taiwan di dunia, menemukan lingkungan kelangsungan hidup yang sempurna di ketinggian ini. Dengan curah hujan tahunan 3.000-5.000 mm dan kelembapan relatif yang selalu di atas 80%, awan kabut hampir tidak pernah hilang.
 
-**Mengapa hinoki? Mengapa di sini?**
+**Mengapa Hinoki? Mengapa di sini?**
 
-Jawabannya terletak dalam molekul air. Kabut tidak hanya membawa kelembapan, tetapi yang lebih penting adalah membawa nutrisi. Debu, serbuk sari, dan elemen mikro yang melayang di dalam kabut diserap langsung oleh daun; "pemupukan air kabut" ini memungkinkan hinoki tumbuh menjadi raksasa di punggung gunung yang gersang.
+Jawabannya tersembunyi dalam molekul air. Kabut tidak hanya membawa kelembapan, tetapi yang lebih penting adalah membawa nutrisi. Debu, serbuk sari, dan elemen mikro yang melayang di awan kabut diserap langsung oleh daun; "pemupukan melalui air kabut" ini memungkinkan Hinoki tumbuh menjadi raksasa di punggung gunung yang miskin hara.
 
-Sebuah pohon _Tsuga orientalis_ berusia 2.000 tahun dapat memiliki lingkar dada hingga 12 meter. Berdiri di depannya, dibutuhkan 20 orang yang bergandengan tangan untuk mengelilinginya. Usianya melintasi seluruh sejarah peradaban manusia—ketika ia mulai berkecambah, Yesus belum lahir; ketika orang Tionghoa mulai datang ke Taiwan, ia telah hidup selama 1.600 tahun.
+Satu pohon Hinoki Merah berusia 2.000 tahun dapat memiliki diameter dada mencapai 12 meter. Berdiri di depannya, Anda membutuhkan 20 orang yang bergandengan tangan untuk bisa mengelilinginya. Usia pohon ini melintasi seluruh sejarah peradaban manusia—saat ia berkecambah, Yesus belum lahir; saat etnis Han mulai datang ke Taiwan, ia sudah hidup selama 1.600 tahun.
 
-> **💡 Tahukah Anda**
-> Mengapa hinoki begitu panjang umur? Rahasianya ada pada "hinokiol". Senyawa kimia alami ini memiliki efek antibakteri dan anti-hama yang kuat, membuat kayu hinoki tidak membusuk bahkan setelah mati. Di Simaku, terdapat batang pohon _Tsuga orientalis_ berusia seribu tahun yang telah tumbang di tanah selama 300 tahun, namun serat kayunya tetap keras seperti baru.
+> **💡 Tahukah Anda?**
+> Mengapa Hinoki sangat panjang umur? Rahasianya ada pada "Hinokitiol"-nya. Zat kimia alami ini memiliki efek antibakteri dan anti-serangga yang kuat, membuat Hinoki tidak membusuk bahkan setelah mati. Di Simabuku (司馬庫斯), terdapat batang pohon Hinoki Merah berusia seribu tahun yang telah tumbang di tanah selama 300 tahun, namun tekstur kayunya tetap keras seperti baru.
 
-Di Gunung Shilan, Anda dapat melihat hutan hinoki asli yang paling lengkap di Taiwan. Tempat ini memiliki hutan murni _Tsuga dumosa_ alami dengan luas terbesar di Taiwan, dan direkomendasikan sebagai situs potensial warisan dunia pada tahun 2003. Berjalan di dalamnya akan membuat Anda memahami apa yang dimaksud dengan "pohon dewa"—bukan karena takhayul, tetapi karena kekaguman. Pohon-pohon ini telah melewati zaman es, letusan gunung berapi, dan gempa bumi besar; mereka adalah fosil hidup dari sejarah bumi.
+Di Gunung Qilan (棲蘭山), Anda dapat melihat hutan primer Hinoki paling lengkap di Taiwan. Di sini terdapat hutan murni _Chamaecyparis taiwanensis_ terbesar di Taiwan, yang direkomendasikan oleh Komisi Pelestarian Warisan Budaya sebagai lokasi potensial Warisan Dunia pada tahun 2003. Berjalan di dalamnya, Anda akan memahami apa yang dimaksud dengan "pohon dewa" (_Shenmu_)—bukan karena takhayul, melainkan karena rasa hormat. Pohon-pohon ini telah melewati Zaman Es, letusan gunung berapi, dan gempa bumi besar; mereka adalah fosil hidup dari sejarah Bumi.
 
-Namun kisah hinoki juga merupakan memori paling menyakitkan bagi hutan Taiwan.
+Namun, kisah Hinoki juga merupakan ingatan paling menyakitkan bagi hutan Taiwan.
 
-### Malapetaka Penebangan Jepang: Hilangnya Hutan Kabut
+### Bencana Penebangan Jepang: Hutan Kabut yang Hilang
 
-Pada tahun 1912, area perhutanan Alishan mulai beroperasi. Jalur kereta api Alishan tidak dibangun untuk pariwisata, melainkan untuk mengangkut kayu hinoki berusia ribuan tahun ke bawah gunung. Rel yang berkelok-kelok, kereta api kecil bermata satu, dan stasiun kayu—semua tempat wisata hari ini awalnya lahir demi kayu hinokilah.
+Pada tahun 1912, Perkebunan Hutan Alishan mulai beroperasi. Jalur kereta api Alishan tidak dibangun untuk pariwisata, melainkan untuk mengangkut Hinoki berusia ribuan tahun turun dari gunung. Rel berbentuk zig-zag, kereta api kecil bermata satu, dan stasiun kayu—tempat wisata saat ini dulunya diciptakan demi Hinoki.
 
-Selama 33 tahun, orang Jepang menebang 9.773 hektar hutan di Alishan dan mengangkut 3,47 juta meter kubik kayu hinoki. Kayu-kayu ini membangun kuil, istana kekaisaran di Jepang, bahkan melintasi samudra untuk mendukung ekspresi militer Jepang. Gunung Taiping, Gunung Bashan, ditambah dengan Alishan, dikenal sebagai "Tiga Area Perhutanan Utama Taiwan".
+Selama 33 tahun, orang Jepang menebang 9.773 hektar hutan di Alishan dan mengangkut 3,47 juta meter kubik Hinoki. Kayu-kayu ini membangun kuil-kuil dan istana di Jepang, bahkan dikirim melintasi lautan untuk mendukung ekspansi militer Jepang. Gunung Taiping, Gunung Baxian, ditambah Alishan, dikenal sebagai "Tiga Perkebunan Hutan Besar Taiwan".
 
-**Ketika sebuah pohon raksasa berusia seribu tahun tumbang, suaranya dapat terdengar hingga 5 kilometer.**
+**Ketika satu pohon raksasa berusia seribu tahun tumbang, suaranya dapat terdengar hingga 5 kilometer jauhnya.**
 
-Para penebang saat itu mengatakan bahwa setiap kali sebatang hinoki besar jatuh, seluruh lembah akan bergema dengan suara gemuruh, satwa liar berlarian menjauh, seolah-olah dewa gunung sedang menangis. Masyarakat adat pun merasa sangat sedih—pohon suci yang mereka puja selama turun-temurun berubah menjadi kayu satu per satu untuk membangun rumah bagi para penjajah.
+Para pekerja penebang saat itu mengatakan bahwa setiap kali sebuah Hinoki besar tumbang, seluruh lembah akan bergema dengan suara dentuman keras, satwa liar lari kocar-kacir, seolah-olah dewa gunung sedang menangis. Penduduk asli merasa sangat sedih—pohon suci yang mereka sembah turun-temurun menjadi kayu satu per satu, diangkut turun gunung untuk membangun rumah para penjajah.
 
-Pada awal masa pasca-perang, pemerintah mengambil alih area perhutanan dan aktivitas penebangan terus berlanjut. Baru pada tahun 1991, pemerintah secara resmi mengumumkan "larangan total penebangan hutan alami", mengakhiri penebangan skala besar yang berlangsung hampir satu abad. Namun, lebih dari 95% hutan hinoki asli di Taiwan telah menghilang.
+Pada awal pasca-perang, Pemerintah Nasional mengambil alih perkebunan hutan dan aktivitas penebangan berlanjut. Baru pada tahun 1991, pemerintah secara resmi mengumumkan "Larangan Total Penebangan Hutan Alam", mengakhiri penebangan skala besar yang berlangsung hampir satu abad. Namun, lebih dari 95% hutan Hinoki asli Taiwan telah lenyap.
 
-### Perhentan Kelima: Tantangan Ekstrem Hutan Konifer Sub-Artik (2.500-3.600 Meter)
+### Perhentian Kelima: Tantangan Ekstrem Hutan Konifer Zona Dingin (2.500-3.600 Meter)
 
-Meninggalkan wilayah hinoki dan terus naik, Anda memasuki zona sub-artik Taiwan. Ini adalah wilayah kekuasaan _Abies_ dan _Pseudolarix_.
+Meninggalkan wilayah Hinoki dan terus mendaki ke atas, Anda memasuki zona dingin Taiwan. Ini adalah dunia bagi pohon _Tsuga chinensis_ (鐵杉) dan _Abies firma_ (冷杉).
 
-_Abies_ Taiwan terlihat seperti pohon Natal, namun lingkungan yang mereka hadapi jauh lebih keras daripada pohon Natal di Eropa Utara. Di sini ketinggian melebihi 2.500 meter, suhu musim dingin bisa turun hingga minus 10 derajat Celcius, angin kencang terus berhembus, dan radiasi ultraviolet sangat kuat. Pohon-pohon harus menyelesaikan pertumbuhan satu tahun dalam musim panas yang singkat dan menghemat energi selama musim dingin yang panjang.
+_Tsuga chinensis_ tampak seperti pohon Natal, tetapi lingkungan yang mereka lalui jauh lebih keras daripada pohon Natal di Nordik. Di ketinggian lebih dari 2.500 meter, suhu musim dingin dapat turun hingga -10°C, angin kencang terus menerus, dan radiasi ultraviolet sangat kuat. Pohon-pohon harus menyelesaikan pertumbuhan tahunan mereka dalam musim panas yang singkat dan menghemat energi selama musim dingin yang panjang.
 
-_Pseudolarix_ Taiwan adalah penguasa di zona hutan ini. Mereka membentuk hutan murni yang luas; dilihat dari kejauhan tampak seperti lautan hijau tua. Setiap pohon mempertahankan bentuk kerucut sempurna, bukan untuk estetika, melainkan agar salju dapat jatuh dengan lancar dan tidak mematahkan dahan karena beban berat.
+_Abies firma_ adalah raja di zona hutan ini. Mereka membentuk hutan murni di area yang luas, yang dari kejauhan tampak seperti lautan hijau gelap. Setiap pohon mempertahankan bentuk kerucut yang sempurna; ini bukan untuk estetika, melainkan agar salju dapat meluncur turun dengan lancar dan menghindari patahnya dahan akibat beban salju.
 
-Di Gunung Xue Shan, Gunung Hehuan, dan Gunung Yushan, Anda dapat melihat pemandangan megah hutan _Pseudolarix_ Taiwan. Terutama di pagi hari setelah kabut terurai, sinar matahari menyinari puncak-puncak hijau tua ini, membuat seluruh hutan berkilau seperti logam. Ini adalah lanskap yang paling mendekati hutan Eropa Utara di Taiwan, namun terletak di pulau subtropis pada garis lintang 23,5 derajat utara.
+Di Gunung Xue (雪山), Gunung Hehuanshan (合歡山), dan Gunung Yushan, Anda dapat melihat pemandangan spektakuler hutan _Abies firma_. Terutama di pagi hari setelah kabut menghilang, sinar matahari menyinari menara-menara hijau gelap ini, membuat seluruh hutan berkilau seperti logam. Ini adalah lanskap yang paling mendekati hutan Nordik di Taiwan, namun terletak di pulau subtropis pada lintang utara 23,5 derajat.
 
-### Perhentan Terakhir: Pelindung Terakhir Kota Langit (Di atas 3.600 Meter)
+### Perhentian Terakhir: Penjaga Terakhir Kota Langit (Di Atas 3.600 Meter)
 
-Di atas 3.600 meter, hutan yang sebenarnya telah berakhir, namun masih ada pelindung terakhir—_Pinus taiwanensis_.
+Di atas 3.600 meter, hutan yang sebenarnya telah berakhir, tetapi masih ada penjaga terakhir—Juniper Yushan (玉山圓柏).
 
-Pohon-pohon ini tidak lagi mengejar ketinggian dan kemegahan, melainkan tumbuh merayap di permukaan tanah, membentuk karpet hijau. Angin kencang tidak bisa menumbangkannya karena mereka lebih rendah dari angin; embun beku tidak bisa membunuh mereka karena cairan sel mereka memiliki anti-beku alami; matahari terik tidak bisa mengeringkannya karena daun jarum berlapis lilin memantulkan cahaya kuat.
+Pohon-pohon ini tidak lagi mengejar tinggi dan tegak, melainkan tumbuh merayap di permukaan tanah, membentuk karpet hijau. Angin kencang tidak dapat menumbangkan mereka karena mereka lebih rendah dari angin; salju dan embun beku tidak dapat membekukan mereka karena cairan sel mereka memiliki antibeku alami; matahari yang terik tidak dapat mengeringkan mereka karena daun jarum berlilin memantulkan cahaya kuat.
 
-Berdiri di dekat puncak utama Gunung Yushan dan melihat ke bawah pada hutan _Pinus taiwanensis_, Anda akan menemukan fenomena unik: semak-semak yang tampak pendek ini sebenarnya mungkin lebih tua daripada pohon besar di kaki gunung. Sebuah _Pinus taiwanensis_ yang hanya setinggi setengah meter mungkin sudah hidup selama 500 tahun. Mereka adalah penjaga garis batas hutan, menandai batas ekstrem bagi kelangsungan hidup tumbuhan berkayu.
+Berdiri di dekat puncak utama Gunung Yushan dan memandang ke arah hutan Juniper Yushan di bawah kaki Anda, Anda akan menemukan fenomena ajaib: semak-semak yang tampak pendek ini sebenarnya mungkin lebih tua daripada pohon-pohon besar di bawah gunung. Sebuah Juniper Yushan yang tampak hanya setinggi setengah meter mungkin telah hidup selama 500 tahun. Mereka adalah penjaga garis batas hutan, menandai batas ekstrem kelangsungan hidup tumbuhan berkayu.
 
-## Tsuga Taiwan: Perlindungan Terakhir Spesies Pohon Tertua di Bumi
+## Taiwan Shan: Tempat Perlindungan Terakhir Spesies Tertua di Bumi
 
-Dalam perjalanan vertikal ini, ada satu spesies yang patut disebut secara khusus: _Tsuga Taiwan_.
+Dalam perjalanan vertikal ini, ada satu spesies yang patut disebutkan secara khusus: _Cryptomeria japonica_ (台灣杉/Taiwan Shan).
 
-_Tsuga Taiwan_ adalah salah satu jenis pohon konifer tertua di bumi, yang sudah tersebar luas di belahan bumi utara sejak periode Tersier. Pada masa zaman Kapur, dinosaurus berjalan di antara hutan _Tsuga Taiwan_. Namun saat zaman es tiba, hampir seluruh _Tsuga Taiwan_ di belahan bumi utara menghilang, dan hanya bertahan di beberapa tempat perlindungan di Taiwan dan barat daya Tiongkok.
+Taiwan Shan adalah salah satu jenis pohon konifer tertua di bumi, yang telah tersebar luas di belahan bumi utara sejak zaman Tersier. Pada periode Kapur, dinosaurus berjalan di dalam hutan Taiwan Shan. Namun ketika Zaman Es tiba, hampir semua Taiwan Shan di belahan bumi utara menghilang, dan hanya bertahan di beberapa tempat perlindungan di Taiwan dan barat daya Tiongkok.
 
-Ia adalah satu-satunya tanaman yang dinamai dengan nama Taiwan sebagai genusnya, hanya ada satu spesies dalam satu genus, bersama dengan _Ginkgo biloba_ dan _Metasequoia_ sebagai tumbuhan relik dari periode Tersier—benar-benar fosil hidup. Sejak 50.000 hingga 35.000 tahun yang lalu pada masa zaman es, _Tsuga Taiwan_ telah berakar di pulau ini.
+Ini adalah satu-satunya tumbuhan yang menggunakan nama "Taiwan" sebagai nama genusnya; hanya memiliki satu genus dan satu spesies, menjadikannya tanaman relik Tersier bersama dengan _Metasequoia_ (世界爺) dan _Taxodium_ (水杉)—sebuah fosil hidup yang sesungguhnya. Sejak Zaman Es sekitar 50.000 hingga 35.000 tahun yang lalu, Taiwan Shan telah berakar di pulau ini.
 
-Saat ini, terdapat sebidang kecil hutan _Tsuga Taiwan_ di cekungan Daanxi, di mana "Tiga Bersaudara Tsuga Taiwan" yang terkenal mencapai tinggi 80 meter adalah pohon tertinggi di Taiwan. Fosil hidup ini menyaksikan perubahan bumi selama 65 juta tahun; mereka lebih tua dari peradaban manusia dan lebih lama daripada pengangkatan pegunungan Himalaya.
+Saat ini, di daerah aliran sungai Da'an di Taiwan, terdapat sebidang kecil hutan Taiwan Shan, di mana "Tiga Saudari Taiwan Shan" yang terkenal tingginya mencapai 80 meter, menjadikannya pohon raksasa tertinggi di Taiwan. Fosil hidup ini telah menyaksikan perubahan Bumi selama 65 juta tahun; mereka lebih tua dari peradaban manusia dan lebih kuno daripada pengangkatan Pegunungan Himalaya.
 
 > **⚠️ Sudut Pandang Kontroversial**
-> Mengenai konservasi _Tsuga Taiwan_, terdapat perbedaan pendapat. Aktivis konservasi berpendapat bahwa perlindungan ketat harus diterapkan, melarang gangguan manusia; namun beberapa akademisi menyarankan pembukaan untuk penelitian ilmiah dan edukasi yang moderat agar lebih banyak orang mengenal spesies berharga ini. Menyeimbangkan konservasi dengan edukasi adalah tantangan jangka panjang bagi hutan Taiwan.
+> Mengenai konservasi Taiwan Shan, terdapat perbedaan pendapat. Aktivis konservasi berpendapat bahwa harus ada perlindungan ketat dan larangan terhadap segala bentuk gangguan manusia; namun beberapa akademisi mengusulkan penelitian ilmiah yang moderat dan keterbukaan edukasi agar lebih banyak orang mengenal spesies berharga ini. Menyeimbangkan konservasi dan edukasi adalah tantangan jangka panjang bagi hutan Taiwan.
 
-## Krisis Perubahan Iklim pada Hutan Kabut
+## Krisis Perubahan Iklim di Hutan Kabut
 
-Ancaman terbesar yang dihadapi hutan Taiwan bukanlah penebangan, melainkan perubahan iklik.
+Ancaman terbesar bagi hutan Taiwan bukanlah penebangan, melainkan perubahan iklim.
 
-Berdasarkan penelitian Departemen Kehutanan Universitas Nasional Taiwan (NTU), suhu di Taiwan akan naik 2-4°C dalam 50 tahun ke depan, yang akan menyebabkan pergeseran signifikan pada zona distribusi hutan. Simulasi komputer terbaru menunjukkan: hutan _Tsusila_ akan menyusut 77-82%, hampir menghadapi kepunahan; hutan hinoki akan berkurang 52-54% dengan wilayah sebaran yang mengerut drastis; sementara hutan gugur di ketinggian rendah akan meluas 37% dan menginvasi ke atas.
+Menurut penelitian dari Departemen Kehutanan Universitas Nasional Taiwan (NTU), dalam 50 tahun ke depan suhu di Taiwan akan naik 2-4°C, yang akan menyebabkan zona distribusi hutan bergeser jauh ke atas. Simulasi komputer terbaru menunjukkan: hutan _Picea_ (雲杉) akan menyusut 77-82%, hampir menghadapi kepunahan; hutan Hinoki akan berkurang 52-54% dengan jangkauan distribusi yang menyusut drastis; dan hutan daun lebar di dataran rendah akan meluas sebesar 37% ke arah atas.
 
 > **📊 Sumber Data**
-> Prediksi ini berasal dari tim peneliti Departemen Kehutanan NTU, diterbitkan dalam laporan khusus "The Reporter". Penelitian menggunakan model iklim IPCC dan data survei hutan Taiwan selama 30 tahun.
+> Prediksi ini berasal dari tim penelitian Departemen Kehutanan NTU, yang diterbitkan dalam laporan khusus _The Reporter_. Penelitian menggunakan model iklim IPCC dan data survei hutan Taiwan selama 30 tahun.
 
-**Yang paling mengkhawatirkan adalah masa depan tanaman pegunungan.** Mereka sudah hidup di puncak gunung, dan tidak ada tempat yang lebih tinggi lagi untuk bermigrasi. Spesies ketinggian tinggi seperti _Pinus taiwanensis_ dan _Pseudolarix_ mungkin akan menghadapi dilema "tidak punya tempat untuk mundur" pada akhir abad ini.
+**Yang paling mengkhawatirkan adalah masa depan tanaman pegunungan tinggi.** Mereka sudah hidup di puncak gunung, tidak ada tempat yang lebih tinggi lagi untuk bermigrasi. Spesies ketinggian tinggi seperti Juniper Yushan dan _Abies firma_ mungkin menghadapi dilema "tidak ada tempat untuk mundur" pada akhir abad ini.
 
-## Kabut Pencurian: Ancaman Tersembunyi Hutan Modern
+## Bayang-bayang Penebangan Liar: Ancaman Tersembunyi Hutan Modern
 
-Meskipun dalam era larangan penebangan penuh, hutan Taiwan tetap menghadapi ancaman pencurian kayu ilegal.
+Bahkan di masa sekarang di mana penebangan telah dilarang sepenuhnya, hutan Taiwan masih menghadapi ancaman penebangan liar.
 
-Pada tahun 2022, kasus pencurian kayu terbesar dalam beberapa tahun terakhir terjadi di Miaoli, di mana sebuah sindikat mencuri lebih dari 60.000 kilogram kayu berharga. Pada tahun 2023, di wilayah Laiye, Pingtung, sebuah kelompok bekerja sama dengan perusahaan bioteknologi untuk mencuri kayu _Camphor_ yang merupakan inang jamur _Camphor_, menghasilkan keuntungan ilegal lebih dari 400.000 TWD.
+Pada tahun 2022, kasus penebangan liar terbesar di Taiwan dalam beberapa tahun terakhir terjadi di Miaoli, di mana sebuah kelompok pencuri kayu mencuri lebih dari 60.000 kg kayu berharga. Pada tahun 2023, di Kota Laiyi, Pingtung, sebuah kelompok bekerja sama dengan perusahaan bioteknologi untuk mencuri kayu _Cinnamomum kaneire_ (牛樟菇) secara ilegal, dengan keuntungan ilegal melebihi NT$400.000.
 
-**Mengapa masih ada orang yang berani mengambil risiko melakukan pencurian?**
+**Mengapa masih ada orang yang berani mengambil risiko menebang secara liar?**
 
-Jawabannya terletak pada perbedaan margin keuntungan yang besar. Sebuah benjolan (burl) pada pohon hinoki mungkin hanya bernilai beberapa puluh ribu di gunung, tetapi setelah dipahat dan diproses, harga pasarnya bisa melonjak hingga jutaan. Meskipun setelah revisi "Undang-Undang Hutan" tahun 2015, hukuman maksimal untuk pencurian spesies berharga adalah 10 tahun 6 bulan penjara dan denda 20 juta TWD, namun di bawah godaan keuntungan besar, masih ada yang nekat mengambil risiko.
+Jawabannya terletak pada perbedaan keuntungan yang sangat besar. Sebuah benjolan akar (_burl_) Hinoki di gunung mungkin hanya bernilai puluhan ribu New Taiwan dollar, tetapi setelah dipahat dan diproses, harga pasarnya dapat melonjak hingga jutaan New Taiwan dollar. Meskipun setelah revisi _Undang-Undang Kehutanan_ pada tahun 2015, penebangan spesies pohon berharga dapat dijatuhi hukuman maksimal 10 tahun 6 bulan penjara ditambah denda NT$20 juta, godaan keuntungan besar tetap membuat orang mengambil risiko berbahaya.
 
-Yang lebih menyedihkan adalah bahwa pencurian ini sering menargetkan spesies yang paling langka. _Camphor_ dicuri secara masif karena merupakan inang jamur _Camphor_, sehingga sekarang sangat jarang ditemukan di alam liar. Beberapa hinoki tua yang berharga dirampas "kulitnya" untuk mengambil benjolan; meskipun pohon tidak mati, ia meninggalkan luka permana yang permanen.
+Yang lebih menyedihkan adalah penebangan liar ini sering menargetkan spesies yang paling langka. Pohon _Cinnamomum kaneire_ banyak ditebang secara liar karena merupakan inang bagi jamur _Nocardia kaneirei_ (牛樟芝), sehingga kini sangat jarang ditemukan di alam liar. Beberapa Hinoki Merah berusia seribu tahun "dikuliti" oleh penebang liar untuk mengambil benjolannya; meskipun pohonnya tidak mati, hal itu meninggalkan bekas luka permanen.
 
 ## Kebijaksanaan Hutan Masyarakat Adat
 
 Saat berbicara tentang hutan Taiwan, kita tidak boleh mengabaikan kontribusi masyarakat adat.
 
-Suku Atayal memiliki _gaga_ (aturan bersama) untuk melindungi pohon suci hinoki, suku Ravai menetapkan zona terlarang untuk menjaga keseimbangan ekosistem, dan suku Paiwan mengembangkan budaya ukiran kayu yang halus. Pengetahuan ekologi tradisional ini seringkali memahami rahasia hutan lebih dalam daripada sains modern.
+Suku Atayal memiliki _gaga_ (norma bersama) untuk melindungi pohon suci Hinoki, suku Tsou menetapkan zona larangan penebangan untuk menjaga keseimbangan ekologi, dan suku Paiwan mengembangkan budaya ukiran kayu yang halus. Pengetahuan ekologi tradisional ini sering kali memahami misteri hutan lebih dalam daripada sains modern.
 
-**Konservasi hinoki di Simaku adalah contoh terbaik.**
+**Konservasi Hinoki di Simabuku adalah contoh terbaik.**
 
-Suku Atyal di desa Simaku menemukan kelompok pohon raksasa; mereka tidak memilih untuk menebang dan menjualnya, melainkan mengembangkan pariwisata ekologi, menjadikan pohon-pohon raksasa sebagai pilar ekonomi desa. Saat ini, Simaku dikenal sebagai "Desa Tuhan", menarik puluhan ribu wisatawan setiap tahun yang datang untuk menyembah hinoki berusia ribuan tahun.
+Setelah suku Atayal ini menemukan kelompok pohon raksasa, mereka tidak memilih untuk menebangnya dan menjualnya, melainkan mengembangkan ekowisata, menjadikan pohon-pohon raksasa tersebut sebagai pilar ekonomi suku. Saat ini, Simabuku disebut sebagai "Desa Tuhan", yang setiap tahun menarik puluhan ribu wisatawan untuk melakukan ziarah ke Hinoki berusia seribu tahun.
 
-Ada perbedaan penting antara pandangan masyarakat adat tentang hutan dan konsep konservasi modern: mereka tidak menganggap "perlindungan" sama dengan "tidak boleh disentuh sama sekali". Pengumpulan moderat, rotasi penebangan, dan manajemen hutan dalam tradisi mereka adalah cara untuk menjaga kesehatan hutan. Kebijaksanaan "hidup berdampingan dengan hutan" ini kini mulai dihargai kembali oleh ilmu konservasi modern.
+Ada perbedaan penting antara pandangan hutan masyarakat adat dan konsep konservasi modern: mereka tidak menganggap bahwa "perlindungan" berarti "tidak menyentuh sama sekali". Pengambilan hasil hutan yang moderat, penebangan bergilir, dan pengelolaan hutan adalah cara dalam tradisi mereka untuk menjaga kesehatan hutan. Kebijaksanaan "hidup berdampingan dengan hutan" ini kini mulai dihargai kembali oleh ilmu konservasi modern.
 
 ## Masa Depan Hutan: Tantangan dan Harapan
 
 Kisah hutan Taiwan adalah kisah tentang kehilangan dan kelahiran kembali.
 
-Kita telah kehilangan 95% dari hutan hinoki asli, tetapi 5% yang tersisa dilindungi dengan ketat. Kita tidak bisa membalikkan perubahan iklim, tetapi kita dapat membangun koridor ekologi untuk membantu spesies bermigrasi. Kita tidak bisa menghentikan semua pencurian, tetapi kita bisa menggunakan edukasi agar lebih banyak orang memahami nilai hutan.
+Kita telah kehilangan 95% hutan Hinoki asli, tetapi 5% sisanya dilindungi dengan ketat. Kita tidak dapat membalikkan perubahan iklim, tetapi kita dapat membangun koridor ekologi untuk membantu migrasi spesies. Kita tidak dapat menghentikan semua penebangan liar, tetapi kita dapat melalui edukasi membuat lebih banyak orang memahami nilai hutan.
 
-Hutan Taiwan hari ini sedang menulis babak baru. Proyek restorasi sedang berjalan, di mana Biro Kehutanan dan Konservasi Alam mendorong "Restorasi Hutan" dengan menanam spesies asli di lokasi yang sesuai. Teknologi membantu perlindungan; pemantauan satelit, patroli drone, dan sistem identifikasi AI memungkinkan petugas hutan memantau kondisi hutan secara lebih efektif. Generasi muda mulai sadar, semakin banyak pemuda Taiwan yang mendedikasikan diri pada konservasi hutan menggunakan cara baru seperti VR, podcast, dan media sosial untuk menjaga hutan.
+Hutan Taiwan saat ini sedang menulis babak baru. Program restorasi sedang berjalan; Administrasi Kehutanan dan Konservasi Alam mendorong "Restorasi Hutan" dengan menanam spesies asli di lokasi yang tepat. Teknologi membantu perlindungan—pemantauan satelit, patroli drone, dan sistem pengenalan AI memungkinkan penjaga hutan memantau kondisi hutan secara lebih efektif. Generasi muda sedang terbangun; semakin banyak pemuda Taiwan terjun ke dalam konservasi hutan, menggunakan cara-cara baru seperti VR, podcast, dan media sosial untuk melindungi hutan.
 
-## Titik Akhir dan Awal Perjalanan
+## Akhir dan Awal Sebuah Perjalanan
 
-Dari _Casuarina_ di permukaan laut hingga _Pinus_ di puncak Yushan, kita telah menyelesaikan perjalanan vertikal sejauh 200 kilometer ini. Dalam waktu baca singkat selama 15 menit, Anda mengalami keragaman ekologi yang paling terkonsentrasi di bumi.
+Dari Casuarina di permukaan laut hingga Juniper di puncak Yushan, kita telah menyelesaikan perjalanan vertikal sejauh 200 kilometer ini. Dalam waktu baca yang singkat, Anda telah mengalami keanekaragaman ekologi paling padat di bumi.
 
-Kisah hutan Taiwan memberi tahu kita: **kekayaan dan kerapuhan alam seringkali berjalan berdampingan.** Tingkat tutupan hutan sebesar 60,92% membuat pulau ini hijau royo-royo, namun ancaman perubahan iklim membuat masa depan penuh ketidakpastian. Kemegahan hinoki berusia ribuan tahun mengundang kekaguman, namun mereka hampir punah oleh suara gergaji mesin.
+Kisah hutan Taiwan memberi tahu kita: **kekayaan dan kerentanan alam sering kali berdampingan.** Tingkat tutupan hutan 60,92% membuat pulau ini hijau royo-royo, tetapi ancaman perubahan iklim membuat masa depan penuh dengan ketidakpastian. Kemegahan Hinoki ribuan tahun menimbulkan rasa hormat, namun mereka pernah hampir lenyap dalam suara gergaji mesin.
 
-Setiap pohon adalah buku sejarah yang mencatat perubahan bumi, jejak manusia, dan ketangguhan kehidupan. Lain kali saat Anda berjalan di hutan Taiwan, ingatlah bahwa Anda sedang berada di panggung alam paling luar biasa di bumi. Ini adalah museum evolusi kehidupan, garis depan perubahan iklim, dan tempat uji coba hubungan antara manusia dan alam.
+Setiap pohon adalah sebuah buku sejarah yang mencatat perubahan Bumi, jejak manusia, dan kegigihan kehidupan. Lain kali saat Anda berjalan di hutan Taiwan, ingatlah bahwa Anda sedang berjalan di panggung alam paling luar biasa di bumi. Ini adalah museum evolusi kehidupan, garis depan perubahan iklim, dan tempat uji coba hubungan antara manusia dan alam.
 
-Melindungi hutan Taiwan berarti melindungi miniatur keanekaragaman hayati bumi. Di pulau seluas 36.000 kilometer persegi ini, terkumpul imajinasi dan tanggung jawab kita terhadap masa depan bumi.
+Melindungi hutan Taiwan berarti melindungi mikrokosmos keanekaragaman hayati Bumi. Di pulau seluas 36.000 kilometer persegi ini, terkandung imajinasi dan tanggung jawab kita terhadap masa depan Bumi.
 
 ## Referensi
 
-- [Direktorat Kehutanan dan Konservasi Alam Kementerian Pertanian: "Ringkasan Hasil Survei Sumber Daya Hutan Nasional ke-4"](https://www.forest.gov.tw/0002393)
-- [Portal Informasi Pertanian: "Ringkasan Hasil Survei Sumber Daya Hutan Nasional ke-4"](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&type=13230&id=308819)
-- [Taman Ekologi Makauy: "Masuk ke Cilan: Dari Lokasi Penebangan ke Situs Potensi Warisan Dunia"](https://makauy.lealeahotel.com/cilan-forest-heritage-path/)
-- [Asosiasi Restorasi Hutan Gunung Taiwan: "Vegetasi di Zona Pegunungan Tinggi"](https://www.reforestation.tw/?p=14319)
-- [Our Island: "Pinus Taiwan di Atap Taiwan"](https://ourisland.pts.org.tw/content/2572)
-- [The Reporter: "Dari Pencurian ke Perdagangan — Kejahatan dan Transaksi di Sekitar Pohon Suci Seribu Tahun"](https://www.twreporter.org/topics/illegal-logging)
-- [Kereta Api Kehutanan Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
-- [Situs Wisata Hutan Taiwan: "Kereta Api Kehutanan Alishan"](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)
+- [Ringkasan Hasil Survei Sumber Daya Hutan Nasional Keempat oleh Administrasi Kehutanan dan Konservasi Alam, Kementerian Pertanian](https://www.forest.gov.tw/0002393)
+- [Ringkasan Hasil Survei Sumber Daya Hutan Nasional Keempat di Portal Pengetahuan Pertanian](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&type=13230&id=308819)
+- [Masuk ke Qilan: Dari Lokasi Penebangan hingga Lokasi Potensial Warisan Dunia oleh Taman Ekologi Liali Magao](https://makauy.lealeahotel.com/cilan-forest-heritage-path/)
+- [Komunitas Vegetasi Pegunungan Taiwan oleh Asosiasi Restorasi Pegunungan Taiwan](https://www.reforestation.tw/?p=14319)
+- [Juniper Yushan di Puncak Taiwan oleh Our Island](https://ourisland.pts.org.tw/content/2572)
+- [Dari Penebangan Liar hingga Perdagangan—Kejahatan dan Transaksi di Sekitar Pohon Suci Ribuan Tahun oleh The Reporter](https://www.twreporter.org/topics/illegal-logging)
+- [Kereta Api Hutan Alishan](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
+- [Jalur Wisata Pegunungan Taiwan: Kereta Api Hutan Alishan](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)
