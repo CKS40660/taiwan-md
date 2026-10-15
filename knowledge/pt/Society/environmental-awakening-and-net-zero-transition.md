@@ -1,10 +1,8 @@
 ---
 title: 'Meio Ambiente e Desenvolvimento Sustentável'
-description: 'Da Ilha das Chaminés ao Taiwan de Carbono Zero: 40 Anos do Despertar do Movimento Ambiental'
+description: 'Desde a "ilha das chaminés" dos anos 1980, com sua política de "poluir primeiro, tratar depois", até o movimento anti-DuPont em Lukang em 1986 que despertou a consciência ambiental de Taiwan, a criação da Agência de Proteção Ambiental (EPA) em 1988 rumo à institucionalização, a transição energética após o desastre nuclear de Fukushima em 2011, e o compromisso de 2022 com emissões líquidas zero até 2050: Taiwan levou 40 anos para despertar do preço de ver o Rio Love (Ai River) ficar negro e os níveis de PM2.5 excederem os padrões. Hoje, a taxa de reciclagem de recursos atinge 60,1%, e mais de 200 empresas se comprometeram com metas de redução de carbono baseadas na ciência.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '社會運動'
 tags:
   [
     'Meio Ambiente',
@@ -13,15 +11,17 @@ tags:
     'Economia Circular',
     'Mudança Climática',
   ]
-readingTime: 8
+subcategory: '社會運動'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
+readingTime: 8
 translatedFrom: 'Society/環保與永續發展.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-10-15T20:31:25.153847+00:00'
 ---
 
 # Meio Ambiente e Desenvolvimento Sustentável: O Despertar Verde de uma Ilha
