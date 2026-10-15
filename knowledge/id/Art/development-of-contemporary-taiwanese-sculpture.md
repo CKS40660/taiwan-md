@@ -1,15 +1,15 @@
 ---
 title: 'Perkembangan Patung Kontemporer Taiwan'
-description: 'Menjelajahi lintasan evolusi dan semangat kreatif seni patung Taiwan, dari Yang Ying-feng, Chu Ming hingga generasi baru'
+description: 'Patung kontemporer Taiwan berkembang dari ukiran kayu tradisional, melalui tiga generasi: Huang Tu-shui yang menegakkan fondasi modern, Yang Ying-feng yang membangun kosakata kontemporer, dan Ju Ming yang memadukan semangat Timur ke dalam perspektif internasional; sejak gerakan patung modern, seniman terus membuat terobosan dalam material, tema, dan ruang, Museum Ju Ming dan taman patung outdoor tersebar di seluruh Taiwan, generasi baru terus mendorong perkembangan yang beragam, mengumpulkan visibilitas dan pengakuan koleksi di pameran internasional.'
 date: 2026-03-18
 category: 'Art'
 tags:
   [
     'Patung',
-    'Chu Ming',
+    'Ju Ming',
     'Yang Ying-feng',
-    'Lin Shun-lung',
-    'Hung Yi',
+    'Lin Shuen-long',
+    'Hong Yi',
     'Seni Publik',
     'Seni Kontemporer',
     'Ukiran Kayu',
@@ -22,10 +22,10 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'b8f50ebb3'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:9e576e02178fac1e'
 sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
-translatedAt: '2026-09-21T00:58:31+08:00'
+translatedAt: '2026-10-15T19:49:53.395223+00:00'
 ---
 
 # Perkembangan Patung Kontemporer Taiwan

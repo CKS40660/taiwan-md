@@ -1,20 +1,26 @@
 ---
-title: 'Chu Ke-liang'
-description: 'Ikon budaya pertunjukan Taiwan, komedian favorit nasional, meninggal tahun 2017'
+title: 'Zhu Ge Liang'
+description: 'Nama aslinya adalah Xie Xin-da, lahir pada tahun 1946 di Zuoying, Kaohsiung. Ayahnya bekerja sebagai pandai besi dan ibunya berjualan sayuran. Ia putus sekolah setelah lulus SD dan mulai belajar opera tradisional Gezaixi pada usia 15 tahun. Pada tahun 1960-an, ia memulai kariernya dengan meniru penyanyi di pasar malam. Pada tahun 1970-an, seiring dengan pertumbuhan ekonomi Taiwan dan meningkatnya kebutuhan hiburan malam, budaya pertunjukan panggung pun muncul. Ia memadukan opera tradisional, dongeng rakyat, dan elemen populer menjadi "humor gaya Zhu", menggunakan rima improvisasi dalam bahasa Hokkien untuk membawa bahasa rakyat ke acara varietas televisi. Ia wafat pada Mei 2017 karena kanker usus besar.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Chu Ke-liang', 'budaya pertunjukan', 'komedi', 'hiburan', 'bahasa Taiwan']
+  [
+    'Zhu Ge Liang',
+    'Pertunjukan Panggung',
+    'Komedi',
+    'Acara Varietas',
+    'Bahasa Hokkien',
+  ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-10-15T19:13:53.416331+00:00'
 ---
 
 # Chu Ke-liang: Raja Pertunjukan Taiwan
@@ -131,12 +137,12 @@ Ahli bahasa menganalisis struktur humor gaya Chu, meringkas beberapa elemen inti
 
 ## Referensi
 
-[^1]: Wikipedia "Chu Ke-liang" entry, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, Birthplace: Zuoying District, Kaohsiung
+[^1]: Entri Wikipedia "Zhu Ge Liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, tempat lahir: Distrik Zuoying, Kota Kaohsiung
 
-[^2]: Liberty Times "Chu Ke-liang's Funeral Procession Sends Off Tens of Thousands", https://news.ltn.com.tw/, May 21, 2017
+[^2]: Liberty Times <Upacara Perpisahan Zhu Ge Liang, 10.000 Orang Mengantar Kepergiannya>, https://news.ltn.com.tw/, 21 Mei 2017
 
-[^3]: Taiwan Television Database, https://tv.nccu.edu.tw/, _Chu Ke-liang's Society_ program records
+[^3]: Database Televisi Taiwan, https://tv.nccu.edu.tw/, catatan program "Zhu Ge Hui She"
 
-[^4]: Central News Agency "Big Eel Box Office Exceeds 300 Million", https://www.cna.com.tw/, February 2013 box office report
+[^4]: CNA <Box Office Da Wei Lu Man Melebihi NT$300 Juta>, https://www.cna.com.tw/, laporan box office Februari 2013
 
-[^5]: United Daily News "Chu Ke-liang Passes Away May 15, Lived to 70 Years Old", https://udn.com/, May 15, 2017
+[^5]: UDN <Zhu Ge Liang Meninggal Dunia pada 15 Mei, Wafat pada Usia 70 Tahun>, https://udn.com/, 15 Mei 2017

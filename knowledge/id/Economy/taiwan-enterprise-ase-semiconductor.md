@@ -1,6 +1,6 @@
 ---
-title: 'Perusahaan Taiwan: ASE Semiconductor'
-description: 'Pabrik pengemasan dan pengujian terbesar di dunia, mengapa bos perusahaan konstruksi beralih ke industri semiconductor?'
+title: 'Perusahaan Taiwan: ASE Group (日月光半導體)'
+description: 'Pada tahun 1984, Chang Yao-ying (張姚宏影) dan kedua anaknya mengalihkan modal dari bisnis konstruksi ke sektor pengemasan dan pengujian semikonduktor untuk mendirikan ASE di Kaohsiung. Menjadi perusahaan pengemasan pertama yang melantai di bursa Taiwan pada 1989, lalu mengakuisisi K&S Korea pada 1998 untuk layanan "pengemasan + pengujian" satu atap; kini menjadi pemimpin global dengan pendapatan US$10,1 miliar pada 2024 dan pangsa pasar hampir 45%, menjadi juara tersembunyi yang memberikan "pakaian" dan "pemeriksaan kesehatan" bagi chip.'
 date: 2026-03-21
 category: 'Economy'
 tags:
@@ -19,164 +19,164 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:65cc0b60ab116db7'
+sourceCommitSha: 'e53f17151'
+sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-08-04T20:46:57.539731+00:00'
+translatedAt: '2026-10-16T00:53:07+08:00'
 ---
 
-**Ringkasan 30 detik:** Pada 1984, Chang Yao Hung-ying (張姚宏影) bersama dua putranya, yang memulai usaha dari sektor konstruksi, melintas ke industri pengemasan dan pengujian semikonduktor, mendirikan ASE. Empat puluh tahun kemudian, ASE menjadi penyedia jasa pengemasan dan pengujian semikonduktor terbesar di dunia, mencatat pendapatan 101 miliar dolar AS pada 2024, dengan pangsa pasar global mendekati 45%. Setiap iPhone dan setiap laptop kemungkinan besar mengandalkan teknologi ASE—perusahaan ini adalah juara tersembunyi di balik "pengemasan" dan "pemeriksaan kesehatan" setiap chip.
+> **Ringkasan 30 Detik:** Pada tahun 1984, Chang Yao-ying (張姚宏影) dan kedua anaknya beralih dari bisnis konstruksi untuk terjun ke sektor pengemasan dan pengujian semikonduktor dengan mendirikan ASE. 40 tahun kemudian, perusahaan ini menjadi pabrik pengemasan dan pengujian terbesar di dunia, dengan pendapatan US$10,1 miliar pada tahun 2024 dan pangsa pasar global hampir 45%. Setiap iPhone dan laptop kemungkinan besar menggunakan teknologi ASE—perusahaan ini adalah juara tersembunyi yang membuat chip "mengenakan pakaian" dan menjalani "pemeriksaan kesehatan".
 
-## Mengapa Bos Perusahaan Konstruksi Beralih ke Industri Semikonduktor?
+## Mengapa Pemilik Perusahaan Konstruksi Beralih ke Semikonduktor?
 
-1983, Chang Chien-sheng (張虔生), lulusan Departemen Teknik Elektro Universitas Taiwan (NTU) dan Magister dari Illinois Institute of Technology, AS, sedang merenungkan masa depan bisnis properti keluarganya. Keluarga Chang berasal dari Wenzhou, Zhejiang, Tiongkok; ibunya, Chang Yao Hung-ying (張姚宏影), mendirikan Hongjing Construction (宏璟建設), dan bisnis properti berjalan lancar, namun hati Chang Chien-sheng selalu terpaku pada industri elektronik.
+Pada tahun 1983, Chang Chien-sheng (張虔生), lulusan Teknik Elektro dari National Taiwan University dengan gelar Master dari Illinois Institute of Technology di Amerika Serikat, sedang merasa cemas terhadap bisnis real estat keluarganya. Keluarga Chang berasal dari Wenzhou, Zhejiang, dan pindah ke Taiwan; ibunya, Chang Yao-ying (張姚宏影), mendirikan Hongjing Construction yang memiliki bisnis real estat cukup baik, namun Chang Chien-sheng selalu terpikat oleh industri elektronik.
 
-Tahun itu, ia mempekerjakan sekelompok konsultan Wall Street untuk menilai peluang investasi bisnis baru. Lebih dari setahun kemudian, Chang Chien-sheng memutuskan untuk meyakinkan keluarganya: memindahkan dana dari properti ke industri pengemasan semikonduktor.
+Tahun itu, ia mempekerjakan sekelompok konsultan Wall Street untuk mengevaluasi peluang investasi bisnis baru. Lebih dari satu tahun kemudian, Chang Chien-sheng memutuskan untuk meyakinkan keluarganya: mengalihkan modal dari real estat ke industri pengemasan semikonduktor.
 
-Mengapa pengemasan? Penilaian Chang Chien-sheng sangat tepat:
+Mengapa pengemasan? Penilaian Chang Chien-sheng sangat akurat:
 
-1. **Ambang teknologi lebih rendah** — berada di hilir industri, risiko lebih kecil
-2. **Padat tenaga kerja** — saat itu Philips dan Texas Instruments sudah mendirikan pabrik di Taiwan, membuktikan kelayakannya
-3. **Ruang pasar besar** — setiap chip memerlukan pengemasan, merupakan proses wajib
+1. **Hambatan teknis relatif lebih rendah** — Berada di hilir industri, sehingga risiko lebih kecil.
+2. **Padat karya** — Saat itu Philips dan Texas Instruments sedang membangun pabrik di Taiwan, yang membuktikan kelayakan model ini.
+3. **Ruang pasar yang besar** — Setiap chip memerlukan pengemasan; ini adalah proses yang wajib dilalui.
 
-23 Maret 1984, "ASE Group (日月光半導體製造股份有限公司)" didirikan di Kawasan Pengolahan Nanzih, Kaohsiung. Presiden Komisaris Chang Yao Hung-ying (ibunya Chang Chien-sheng), Direktur Utama Chang Chien-sheng, Wakil Direktur Utama Chang Hung-pen (張洪本, adik Chang Chien-sheng) — ini adalah perusahaan keluarga standar.
+Pada 23 Maret 1984, "ASE Semiconductor Manufacturing Co., Ltd." didirikan di Zona Pemrosesan Nanzih, Kaohsiung. Ketua Dewan Komisaris Chang Yao-ying (ibu dari Chang Chien-sheng), General Manager Chang Chien-sheng, dan Wakil General Manager Chang Hung-pen (adik Chang Chien-sheng) — ini adalah perusahaan keluarga yang standar.
 
-## Memulai dari Nol: Bagaimana Klien Pertama Didapatkan?
+## Memulai dari Nol: Bagaimana Mendapatkan Pelanggan Pertama?
 
-Di awal berdirinya, ASE Group hanyalah pabrik kecil yang utamanya mengerjakan DIP (Dual In-line Package), teknologi pengemasan paling tradisional. Namun Chang Chien-sheng memiliki keunggulan: latar belakang pendidikannya di AS memudahkannya menjangkau klien internasional.
+Pada masa awal berdirinya, ASE hanyalah sebuah pabrik kecil yang fokus pada teknologi paling tradisional seperti DIP (_Dual In-line Package_). Namun, Chang Chien-sheng memiliki keunggulan: latar belakang pendidikannya di Amerika Serikat memudahkan dia untuk menjangkau pelanggan internasional.
 
-Titik balik krusial muncul pada 1989. ASE Group tercatat di Bursa Efek Taiwan, menjadi perusahaan pengemasan dan pengujian (OSAT) profesional pertama di Taiwan yang _go public_. Dana dari IPO memberi ASE Group modal ekspansi, mulai menanamkan diri pada teknologi pengemasan lebih canggih.
+Titik balik penting terjadi pada tahun 1989. ASE melantai di bursa Taiwan (TWSE), menjadikannya perusahaan pengemasan dan pengujian profesional pertama di Taiwan yang terdaftar di bursa. Pendanaan dari IPO memberikan modal bagi ASE untuk ekspansi dan mulai berinvestasi dalam teknologi pengemasan yang lebih canggih.
 
-Tahun 1990-an, bangkitnya komputer pribadi ditangkap ASE Group sebagai peluang, berkembang dari DIP ke QFP (Quad Flat Package), BGA (Ball Grid Array). Teknologi mengikuti pasar, inilah kunci kepemimpinan ASE Group.
+Seiring bangkitnya komputer pribadi pada tahun 1990-an, ASE menangkap peluang tersebut dengan memperluas teknologi dari DIP ke QFP (_Quad Flat Package_) dan BGA (_Ball Grid Array_). Teknologi yang mengikuti perkembangan pasar adalah kunci utama mengapa ASE mampu memimpin.
 
-## Keputusan Kritis: Akuisisi K&S Korea 1998
+## Keputusan Krusial: Akuisisi K&S Korea pada 1998
 
-1998, ASE Group mengambil keputusan yang mengubah nasibnya: mengakuisisi perusahaan Korea K&S, resmi memasuki bisnis pengujian.
+Pada tahun 1998, ASE membuat keputusan yang mengubah nasibnya: mengakuisisi perusahaan K&S dari Korea, secara resmi memasuki bisnis pengujian (_testing_).
 
-Keputusan ini sangat berani. Saat itu sebagian besar pabrik pengemasan-pengujian "hanya menguasai satu teknologi", namun Chang Chien-sheng percaya klien menginginkan "layanan satu atap" — dari pengemasan hingga pengujian diselesaikan di tempat yang sama, mengurangi biaya dan waktu perpindahan.
+Keputusan ini sangat berani. Saat itu, sebagian besar pabrik pengemasan dan pengujian hanya "fokus pada satu teknologi", tetapi Chang Chien-sheng percaya bahwa pelanggan menginginkan "layanan satu atap" — di mana proses dari pengemasan hingga pengujian diselesaikan di satu perusahaan yang sama untuk mengurangi biaya transisi dan waktu.
 
-Fakta membuktikan penilaian itu benar. Model layanan terintegrasi "pengemasan + pengujian" membedakan ASE Group dari pesaing, kepuasan klien melonjak drastis.
+Faktanya membuktikan penilaian ini benar. Model layanan terintegrasi "pengemasan + pengujian" membuat ASE menonjol dalam persaingan, dan tingkat kepuasan pelanggan meningkat drastis.
 
-## Angka Bicara: Seberapa Kuat Nomor Satu Global?
+## Angka Berbicara: Seberapa Kuat Posisi Nomor Satu Dunia?
 
-**Peringkat Pasar Seal-Test Global 2024:**
+**Peringkat Pasar Pengemasan dan Pengujian Global 2024:**
 
-1. ASE: 10,1 miliar USD, pangsa pasar 45%
-2. Amkor: 6,3 miliar USD
-3. JCET: sekitar 3 miliar USD
+1. ASE: US$10,1 miliar, pangsa pasar 45%
+2. Amkor: US$6,3 miliar
+3. JCET: Sekitar US$3 miliar
 
 **Skala Operasional:**
 
-- Karyawan global: 91.568 orang (2024)
+- Karyawan global: 91.568 orang (tahun 2024)
 - Lokasi produksi: 30 pabrik di 13 negara
-- Kapasitas tahunan: lebih dari 20 miliar chip
-- Jumlah paten: lebih dari 15.000
+- Kapasitas tahunan: Lebih dari 20 miliar chip
+- Jumlah paten: Lebih dari 15.000 item
 
 **Kemampuan Teknis:**
 
-- Porsi pendapatan advanced packaging: 43% (termasuk Bump/FC/WLP/SiP)
-- Wire bonding tradisional: 30%
-- Aplikasi hilir: komunikasi 52%, otomotif/konsumen 30%, komputer 18%
+- Proporsi pendapatan pengemasan canggih (_advanced packaging_): 43% (termasuk Bump/FC/WLP/SiP)
+- Pengemasan _wire bonding_ tradisional: 30%
+- Aplikasi hilir: Komunikasi 52%, Otomotif/Konsumen 30%, Komputer 18%
 
-**Bandingkan dengan Perusahaan Taiwan Lainnya:**
+**Perbandingan dengan Perusahaan Taiwan Lainnya:**
 
-- TSMC: pangsa pasar foundry wafer global ~54%
-- MediaTek: chip ponsel global ~37%
-- ASE: pangsa pasar seal-test global 45%
+- TSMC: Pangsa pasar manufaktur wafer global sekitar 54%
+- MediaTek: Pangsa pasar chip ponsel global sekitar 37%
+- ASE: Pangsa pasar pengemasan dan pengujian global 45%
 
-Ketiga perusahaan ini adalah nomor satu global di bidangnya masing-masing, membentuk "tiga raksasa" semi-konduktor Taiwan.
+Ketiga perusahaan ini adalah nomor satu di bidangnya masing-masing, membentuk "Tiga Raksasa" semikonduktor Taiwan.
 
 ## Mengapa Anda Belum Pernah Mendengar Tentang ASE?
 
-Padahal nomor satu global, mengapa ASE tidak sepopuler TSMC? Jawabannya: **posisinya di rantai industri**.
+Meskipun merupakan nomor satu di dunia, mengapa ASE tidak sepopuler TSMC? Jawabannya adalah: **posisinya dalam rantai industri**.
 
-TSMC melakukan "pembuatan wafer", yaitu tahap paling krusial dan berteknologi tertinggi di seluruh industri semi-konduktor, sehingga wajar mendapat perhatian. ASE melakukan "seal-test", yaitu tahap hilir rantai industri, dengan ambang teknologi relatif lebih rendah, sehingga liputan media lebih sedikit.
+TSMC melakukan "manufaktur wafer", yang merupakan tahap paling krusial dan memiliki hambatan teknis tertinggi dalam seluruh industri semikonduktor, sehingga secara alami mendapat perhatian besar. ASE melakukan "pengemasan dan pengujian", yang berada di hilir rantai industri dengan hambatan teknis yang relatif lebih rendah, sehingga lebih sedikit diliput oleh media.
 
-Namun ini tidak berarti ASE tidak penting. Setiap chip yang keluar dari TSMC harus melewati seal-test house seperti ASE untuk "diproses":
+Namun, ini bukan berarti ASE tidak penting. Setelah setiap chip keluar dari TSMC, chip tersebut perlu melalui proses "pemrosesan" di pabrik pengemasan dan pengujian seperti ASE:
 
-1. **Seal (packaging)**: membungkus die/kasar chip, melindunginya dari kerusakan eksternal
-2. **Uji (testing)**: memeriksa apakah fungsi setiap chip normal
-3. **System-in-Package (SiP)**: mengintegrasikan beberapa chip menjadi satu modul
+1. **Pengemasan (_Packaging_)**: Membungkus chip telanjang (_die_) untuk melindunginya dari kerusakan eksternal.
+2. **Pengujian (_Testing_)**: Memeriksa apakah fungsi setiap chip berjalan normal.
+3. **System-in-Package (SiP)**: Mengintegrasikan beberapa chip menjadi satu modul.
 
-Tanpa ASE, iPhone Anda meski memiliki chip terkuat pun tidak akan berfungsi normal.
+Tanpa ASE, iPhone Anda tidak akan dapat berfungsi dengan normal meskipun memiliki chip terkuat sekalipun.
 
-## Penyebaran Global "Juara Tersembunyi"
+## Tata Letak Global Sang Juara Tersembunyi
 
-Keberhasilan ASE sangat besar berasal dari **jaringan manufaktur global**-nya.
+Kesuksesan ASE sebagian besar berasal dari **jaringan manufaktur globalnya**.
 
-**Lokasi di Asia:**
+**Basis di Asia:**
 
-- Taiwan: Kaohsiung, Zhongli (HQ R&D + manufaktur high-end)
-- Tiongkok: Kunshan, Shanghai, Weihai (manufaktur berorientasi biaya)
-- Korea Selatan: Seoul (pusat teknologi uji)
-- Malaysia: Penang (pabrik luar negeri pertama 1998)
-- Jepang: Gunma (system-level packaging)
+- Taiwan: Kaohsiung, Zhongli (Kantor pusat R&D + Manufaktur tingkat tinggi)
+- Tiongkok: Kunshan, Shanghai, Weihai (Manufaktur berbasis biaya)
+- Korea Selatan: Seoul (Pusat teknologi pengujian)
+- Malaysia: Penang (Pabrik luar negeri pertama pada 1998)
+- Jepang: Gunma (System-in-Package)
 
-Penyebaran ini memiliki tiga keunggulan utama:
+Tata letak ini memiliki tiga keunggulan utama:
 
-1. **Layanan dekat pelanggan**: di mana pelanggan, di situ pabriknya
-2. **Optimasi biaya**: teknologi high-end di Taiwan, produksi massal di Tiongkok
-3. **Diversifikasi risiko**: jika satu lokasi bermasalah, pabrik lain bisa menopang
+1. **Layanan Dekat Pelanggan**: Di mana pun pelanggan berada, pabrik akan ada di sana.
+2. **Optimalisasi Biaya**: Teknologi tingkat tinggi berada di Taiwan, produksi massal berada di Tiongkok.
+3. **Diversifikasi Risiko**: Jika satu lokasi bermasalah, lokasi lain dapat memberikan dukungan.
 
-Selama pandemi COVID-19, saat vendor lain berhenti produksi karena lockdown, penyebaran tersebar ASE menunjukkan ketahanan luar biasa, pesanan justru meningkat.
+Selama pandemi COVID-19, ketika produsen lain berhenti beroperasi karena penguncian (_lockdown_), tata letak terdistribusi ASE menunjukkan ketahanan yang kuat, dan pesanan justru meningkat.
 
-## Inovasi Teknis: Dari Foundry ke Integrasi Sistem
+## Inovasi Teknologi: Dari Manufaktur Kontrak ke Integrasi Sistem
 
-ASE bukan hanya "foundry", tapi juga "inovator teknis".
+ASE bukan sekadar "pabrik kontrak", melainkan juga "inovator teknologi".
 
-**Fan-Out WLP (Fan-Out Wafer Level Packaging):**
-Ini adalah teknologi unggulan global ASE. Seal tradisional seperti "memakai jaket tebal", Fan-Out seperti "memakai baju ketat", membuat chip lebih tipis, lebih kecil, performa lebih baik. iPhone dan ponsel high-end lain mengadopsi teknologi ini.
+**Fan-Out Wafer-Level Packaging (Fan-Out WLP):**
+Ini adalah teknologi di mana ASE memimpin dunia. Jika pengemasan tradisional seperti "mengenakan jaket tebal", Fan-Out WLP seperti "mengenakan pakaian ketat", membuat chip lebih tipis, lebih kecil, dan berkinerja lebih baik. Ponsel kelas atas seperti iPhone menggunakan teknologi ini.
 
 **System-in-Package (SiP):**
-Mengintegrasikan prosesor, memori, sensor, dan beberapa chip lain menjadi satu modul. Ini adalah tren masa depan, terutama dibutuhkan oleh 5G, AI, elektronik otomotif.
+Mengintegrasikan prosesor, memori, sensor, dan chip lainnya ke dalam satu modul. Ini adalah tren masa depan, terutama untuk 5G, AI, dan elektronik otomotif yang membutuhkan teknologi ini.
 
-**Manufaktur Cerdas (Smart Manufacturing):**
-ASE menerapkan teknologi Industri 4.0, dari lini otomatisasi hingga deteksi kualitas AI, meningkatkan efisiensi secara menyeluruh. Pengalaman ini juga dibagikan ke manufaktur Taiwan lain sebagai referensi.
+**Manufaktur Cerdas:**
+ASE menerapkan teknologi Industri 4.0, mulai dari lini produksi otomatis hingga inspeksi kualitas berbasis AI, guna meningkatkan efisiensi secara menyeluruh. Pengalaman ini juga dibagikan kepada industri manufaktur Taiwan lainnya sebagai referensi.
 
 ## Tantangan Baru yang Dihadapi
 
-**Pesaing Tiongkok Bangkit:**
-JCET, TFME, Hua Tian Technology dan seal-test Tiongkok lain berkembang pesat, memiliki keunggulan biaya. ASE harus mengandalkan kepemimpinan teknis untuk menjorokkan jarak.
+**Bangkitnya Kompetitor Tiongkok:**
+Pabrik pengemasan dan pengujian asal Tiongkok seperti JCET, Tongfu Microelectronics, dan Huatian Technology tumbuh dengan cepat dan memiliki keunggulan biaya. ASE harus memperlebar jarak melalui kepemimpinan teknologi.
 
 **Evolusi Teknologi:**
-Semi-konduktor dari "Hukum Moore" memasuki era "integrasi heterogen", teknologi seal-test jadi lebih kompleks. ASE butuh investasi R&D berkelanjutan untuk mempertahankan kepemimpinan.
+Industri semikonduktor telah memasuki era "integrasi heterogen" setelah era "Hukum Moore", membuat teknologi pengemasan dan pengujian menjadi lebih kompleks. ASE perlu terus berinvestasi dalam R&D untuk mempertahankan kepemimpinannya.
 
 **Risiko Geopolitik:**
-Perang teknologi AS-Tiongkok memengaruhi rantai pasokan global, ASE sebagai perusahaan Taiwan, harus berhati-hati beroperasi di tengah situasi internasional yang kompleks.
+Perang teknologi AS-Tiongkok memengaruhi rantai pasokan global. Sebagai perusahaan Taiwan, ASE perlu beroperasi dengan hati-hati di tengah situasi internasional yang kompleks.
 
 **Tekanan Lingkungan:**
-Regulasi lingkungan global semakin ketat, dari proses bebas timbal hingga target karbon netral, semuanya menguji kemampuan teknis dan kontrol biaya ASE.
+Regulasi lingkungan global semakin ketat; mulai dari proses bebas timbal hingga target netralitas karbon, semuanya menguji kemampuan kontrol teknologi dan biaya ASE.
 
-## Mengapa ASE (日月光) sangat penting?
+## Mengapa ASE Itu Penting?
 
-**Satu rantai kunci dalam industri semikonduktor Taiwan:**
-Desain (MediaTek) → Manufaktur (TSMC) → Pengemasan dan Pengujian (ASE), Taiwan memiliki ekosistem semikonduktor paling lengkap di dunia. Keberadaan ASE membuat ekosistem ini lebih kokoh.
+**Rantai Industri Semikonduktor Taiwan yang Krusial:**
+Desain (MediaTek) $\rightarrow$ Manufaktur (TSMC) $\rightarrow$ Pengemasan & Pengujian (ASE). Taiwan memiliki ekosistem semikonduktor paling lengkap di dunia. Kehadiran ASE membuat ekosistem ini semakin kokoh.
 
-**Kontribusi lapangan kerja:**
-ASE adalah perusahaan swasta terbesar di Kaohsiung, menyediakan puluhan ribu peluang kerja. Dari insinyur hingga operator, berbagai tingkat keterampilan tersedia.
+**Kontribusi Lapangan Kerja:**
+ASE adalah perusahaan swasta terbesar di Kaohsiung, menyediakan puluhan ribu lapangan kerja, mulai dari insinyur hingga operator dengan berbagai tingkat keahlian.
 
-**Efek spillover teknologi:**
-Inovasi teknologi dan pengalaman manajemen ASE, melalui mobilitas talenta dan kerja sama rantai pasokan, mempengaruhi seluruh industri manufaktur Taiwan.
+**Efek Limpahan Teknologi (_Spillover Effect_):**
+Inovasi teknologi dan pengalaman manajemen ASE memengaruhi seluruh industri manufaktur Taiwan melalui mobilitas talenta dan kerja sama rantai pasokan.
 
-**Penstabil rantai pasokan global:**
-Di era ketidakstabilan geopolitik, tata letak global dan kemampuan teknologi ASE menyediakan layanan yang stabil untuk industri elektronik global.
+**Stabilisator Rantai Pasokan Global:**
+Di era ketidakpastian geopolitik, tata letak global dan kemampuan teknis ASE menyediakan layanan yang stabil bagi industri elektronik dunia.
 
-Dari investasi keluarga tiga orang pada 1984, hingga menjadi perusahaan multinasional dengan lebih dari 90.000 karyawan di seluruh dunia saat ini, ASE membuktikan kemungkinan "khususkan dan unggul" bagi perusahaan Taiwan.
+Dari investasi keluarga Chang Yao-ying dan anak-anaknya pada tahun 1984, hingga menjadi perusahaan multinasional dengan lebih dari 90.000 karyawan hari ini, ASE membuktikan kemungkinan bagi perusahaan Taiwan untuk "menang melalui spesialisasi".
 
-Di era di mana semua orang berbicara desain dan manufaktur chip, ASE mengingatkan kita: setiap rantai industri penting. Lakukan satu hal dengan baik, lakukan hingga jadi nomor satu global, dan Anda akan menjadi juara tersembunyi yang tak tergantikan.
+Di era di mana semua orang berbicara tentang desain dan manufaktur chip, ASE mengingatkan kita: setiap mata rantai dalam industri sangatlah penting. Lakukan satu hal dengan baik hingga menjadi nomor satu di dunia, maka Anda akan menjadi juara tersembunyi yang tak tergantikan.
 
 ---
 
 **Bacaan Lanjutan**:
 
-- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung Penjaga Negara dan hubungan kembar dengan pabrik pengemasan backend
-- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Pemimpin Taiwan di ujung desain IC, bersama ASE dalam ekosistem rantai pasokan lengkap
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA ke CoWoS pengemasan canggih: 50 tahun medan pertempuran ilmu material, posisi ASE di pengemasan tradisional
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Hubungan simbiosis antara "Gunung Pelindung Negara" dan pabrik pengemasan hilir
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Pemimpin desain IC di Taiwan, bagian dari ekosistem rantai pasokan yang lengkap bersama ASE
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA hingga pengemasan canggih CoWoS dalam perang sains material selama 50 tahun; posisi ASE dalam pengemasan tradisional
 
 ## Referensi
 
-- [Daftar Top 10 Global Pengujian & Pemasangan (OSAT) Keluar! Pangsa Pasar ASE Hampir 45% Tetap Memimpin - Digital Era](https://www.bnext.com.tw/article/83257/ase-holdings-osat-king)
-- [Peringkat Top 10 Skala Pasar Vendor OSAT Global 2024 - Tencent News](https://news.qq.com/rain/a/20250307A08B4C00)
-- [Menciptakan Legenda Ganda ASE Bersama — Chang Chien-sheng, Chang Hung-pen - Majalah Commonwealth](https://www.cw.com.tw/article/5106455)
-- [ASE Semikonduktor - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94)
+- [Daftar Top 10 Pengemasan & Pengujian Global Dirilis! Pangsa Pasar ASE Hampir 45% Mengukuhkan Posisi Pemimpin - Digital Age](https://www.bnext.com.tw/article/83257/ase-holdings-osat-king)
+- [Peringkat Top 10 Skala Pasar Produsen OSAT Global 2024 - Tencent News](https://news.qq.com/rain/a/20250307A08B4C00)
+- [Menciptakan Legenda Ganda ASE — Chang Chien-sheng, Chang Hung-pen - Business Weekly](https://www.cw.com.tw/article/5106455)
+- [ASE Semiconductor - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94)
 - [Situs Resmi ASE](https://www.aseglobal.com/)
