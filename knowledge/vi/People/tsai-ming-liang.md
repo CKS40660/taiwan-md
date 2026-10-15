@@ -1,6 +1,6 @@
 ---
-title: 'Thái Minh Lượng: Nhà thơ của điện ảnh chậm'
-description: 'Người đoạt giải Sư tử Vàng Venice, người Hoa kiều Malaysia, bậc thầy thẩm mỹ điện ảnh chậm'
+title: 'Thái Minh Lượng'
+description: 'Đạo diễn sinh năm 1957 tại Sarawak, Malaysia, đến Đài Loan học về kịch nghệ vào năm 1977. Ông xác lập phong cách cá nhân với tác phẩm "Thiếu niên Na Tra" vào năm 1992; đến năm 1994, bộ phim "Vive L''Amour" đã cùng chia sẻ giải Sư tử vàng tại Liên hoan phim Venice, đưa ông trở thành đạo diễn người Hoa thứ ba giành giải thưởng này sau Hầu Hiếu Hiền và Trương Nghệ Mưu. Với những cú máy cực dài, lời thoại thưa thớt và nhịp độ chậm rãi, ông khắc họa sự cô độc và xa cách của con người nơi đô thị, từ "Vive L''Amour" đến loạt phim về những hành giả, đã phát triển nên một thẩm mỹ điện ảnh chậm độc nhất vô nhị.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Thái Minh Lượng',
     'Điện ảnh chậm',
     'Liên hoan phim Venice',
-    'Người Hoa kiều Malaysia',
+    'Người Hoa Malaysia',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-10-15T19:12:52.100985+00:00'
 ---
 
 # Thái Minh Lượng: Nhà thơ của điện ảnh chậm

@@ -1,11 +1,11 @@
 ---
-title: 'Dương Trí Viễn: Từ người chỉ biết một từ tiếng Anh đến "Cha đẻ" của kỷ nguyên cổng thông tin Yahoo! toàn cầu'
-description: 'Năm 1978, khi 10 tuổi, Dương Trí Viễn (Jerry Yang) di cư sang Mỹ chỉ biết từ "Shoe". Năm 1994, tại Đại học Stanford, ông và cộng sự đã tạo ra Yahoo!, một công ty có giá trị từng lên tới hàng trăm tỷ đô la bằng cách phân loại thủ công các trang web, và vào năm 2005, ông đã viết lại bản đồ mạng toàn cầu bằng một "ván cược điên rồ" khi đầu tư vào Alibaba.'
+title: 'Terry Yang: Từ một người chỉ biết duy nhất một từ tiếng Anh đến "cha đẻ" của Yahoo, người mở ra kỷ nguyên cổng thông tin toàn cầu'
+description: 'Năm 1978, khi di cư sang Mỹ ở tuổi lên 10, Terry Yang chỉ biết duy nhất từ "Shoe". Năm 1994, trong lúc trốn tránh việc viết luận án tiến sĩ tại Đại học Stanford, ông cùng cộng sự đã tự tay phân loại các trang web trong một chiếc xe kéo để tạo ra Yahoo!, biến thế giới mạng hỗn loạn thành một danh mục có hệ thống và mở ra thời hoàng kim của các cổng thông tin. Công ty này từng có giá trị vốn hóa vượt mốc 100 tỷ USD, và vào năm 2005, ông lại viết lại bản đồ Internet toàn cầu bằng một "vụ đặt cược điên rồ" khi đầu tư vào Alibaba.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Dương Trí Viễn',
+    'Terry Yang',
     'Yahoo',
     'Khởi nghiệp',
     'Đại học Stanford',
@@ -21,10 +21,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/楊致遠.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
 sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-10-15T18:51:56.413249+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

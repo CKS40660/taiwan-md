@@ -1,16 +1,16 @@
 ---
-title: 'Xương Giáp Đài Loan'
-description: 'Động vật có vú bị buôn lậu nhiều nhất thế giới tìm thấy một ngôi nhà an toàn tại Đài Loan'
+title: 'Tê giác Đài Loan'
+description: 'Loài động vật có vú bị buôn lậu nhiều nhất trên thế giới, nhưng tư loài tê giác Đài Loan lại tìm thấy nơi trú ẩn an toàn tại đây: trong khi các loài cùng họ ở những nơi khác của Châu Á đang lâm nguy tuyệt chủng vì buôn lậu, Đài Loan nhờ bảo vệ pháp luật nghiêm ngặt, duy trì môi trường sống và nghiên cứu khoa học, kết hợp nhân tạo nhân giống, đã giúp quần thể ổn định thậm chí tăng trở lại, trở thành một ví dụ hiếm hoi về thành công bảo tồn, chứng minh sự tuyệt chủng của loài không phải là định mệnh.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'xương giáp',
-    'bảo tồn',
-    'loài nguy cấp',
-    'buôn lậu',
-    'Sở thú Đài Bắc',
-    'sinh thái',
+    'Tê giác',
+    'Bảo tồn',
+    'Loài nguy cấp',
+    'Buôn lậu',
+    'Sở thú Taipei',
+    'Sinh thái',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -19,11 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '18157ab5'
-sourceContentHash: 'sha256:c6ba37fbf51219caa016ada065514512dcccc8196c122ddb082fdc09a85d9790'
-sourceBodyHash: 'sha256:37670c1e027165f79897ca5dcea21c36d7ec8862a40bec8ab90ff6a9fc465362'
-translatedAt: 2026-07-31T00:00:00Z
-imageAlt: 'Xương giáp cuộn tròn thành hình cầu'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
+sourceBodyHash: 'sha256:059668decdeffa13'
+translatedAt: '2026-10-15T19:22:00.276295+00:00'
 ---
 
 # Xương Giáp Đài Loan
@@ -108,15 +107,15 @@ Câu chuyện của xương giáp Đài Loan, ở một thời đại sinh đa d
 
 ## Tài liệu tham khảo
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Xác nhận quyết định CoP17 năm 2016 nâng vào Phụ lục I, chính thức có hiệu lực từ ngày 2 tháng 1 năm 2017.
+[^1]: [Quyết định CITES CoP17 về Tê giác | CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Xác nhận nghị quyết CoP17 năm 2016 nâng cấp lên Phụ lục I, và có hiệu lực chính thức từ ngày 2 tháng 1 năm 2017.
 
-[^2]: [IUCN Sách Đỏ: Xương giáp Trung Hoa](https://www.iucnredlist.org/species/12764/123589684) — Các tài liệu về thói quen sinh thái và nhu cầu thức ăn xương giáp Trung Hoa (ước tính lượng ăn kiến từ các nghiên cứu khác nhau).
+[^2]: [Danh sách đỏ IUCN: Tê giác Trung Hoa](https://www.iucnredlist.org/species/12764/123589684) — Tài liệu về sinh thái, tập tính và nhu cầu thức ăn của Tê giác Trung Hoa (các nghiên cứu ước lượng lượng kiến ăn có sự khác biệt).
 
-[^3]: [Đại học Khoa học Bình Đông — Sở Bảo tồn Động vật Hoang dã](https://www.npust.edu.tw/) — Bối cảnh của Tôn Kính Nhàn và nhóm nghiên cứu về việc thả-bắt xương giáp.
+[^3]: [Viện Nghiên cứu Bảo tồn Động vật hoang dã, Đại học Khoa học và Công nghệ Pingtung](https://www.npust.edu.tw/) — Bối cảnh nghiên cứu thả tự nhiên tê giác của Tôn Kinh Mẫn và nhóm nghiên cứu của ông.
 
-[^4]: [Mạng lưới Đa dạng sinh học Đài Loan](https://www.tbn.org.tw/) — Phân bố xương giáp Đài Loan và cơ sở dữ liệu báo cáo khoa học công dân.
+[^4]: [Mạng lưới Đa dạng sinh học Đài Loan](https://www.tbn.org.tw/) — Cơ sở dữ liệu phân bố và báo cáo khoa học công dân về tê giác Đài Loan.
 
-[^5]: [Sở Thú Thành phố Đài Bắc — Nghiên cứu Bảo tồn](https://www.zoo.gov.taipei/) — Kỹ thuật nhân giống nhân tạo xương giáp và thành tích bảo tồn.
+[^5]: [Nghiên cứu bảo tồn tại Thú viện thành phố Taipei](https://www.zoo.gov.taipei/) — Kỹ thuật nhân tạo nhân lên và thành quả bảo tồn tê giác.
 
 ## Đọc thêm
 
