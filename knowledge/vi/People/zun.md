@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-07T18:32:27.451178+00:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:11:44.352985+00:00'
 ---
 
 > **30 giây tóm tắt:**
@@ -36,25 +36,26 @@ Năm 2018, khi 19 tuổi, Tôn chưa bao giờ coi 1,2 triệu người đăng k
 
 Hai câu nói này vẫn giống Tôn suốt nhiều năm sau: một bên nhẹ nhàng về thành tích, một bên thẳng thắn thừa nhận rằng khi mọi ánh sáng đều hướng về mình, không gian hoạt động tự do sẽ ngày càng hẹt hói. Từ những trận chiến game trong phòng của lớp 9, đến hai kênh triệu người đăng ký, ngôi nhà mới và người yêu, hồ sơ công khai trong hơn mười bốn năm đã cho phép người xem chứng kiến sự tăng trưởng của một kênh, đồng thời chứng kiến chủ kênh dần trưởng thành.
 
-## Một học sinh lớp 8 biến căn phòng thành trường quay
+## Một học sinh lớp 8 biến phòng ngủ thành studio quay phim
 
-Theo bài báo năm 2018, Tôn bắt đầu làm video từ năm lớp 8, ban đầu chủ yếu phát trực tiếp trò chơi. Sau đó, cảm thấy hình thức cũ không thể tiếp tục, anh chịu ảnh hưởng từ các YouTuber Nhật Bản và chuyển sang những chủ đề như thí nghiệm, mở hộp và truyền thuyết đô thị. Đến tháng 8 năm ấy, kênh chính “Nhân Sinh Phì Trạch x Tôn” đã có 1,2 triệu người đăng ký; ở tuổi 19, anh được gọi là YouTuber triệu người đăng ký trẻ nhất Đài Loan lúc bấy giờ.[^1]
+Các báo cáo năm 2018 ghi nhận rằng Tôn bắt đầu quay video từ khi còn là học sinh lớp 8, ban đầu là làm livestream trò chơi. Sau đó, cảm thấy hình thức cũ không thể duy trì lâu dài, anh chịu ảnh hưởng từ các YouTuber Nhật Bản và chuyển hướng sang các chủ đề thử nghiệm, đập hộp (unboxing) và truyền thuyết đô thị. Đến tháng 8 năm đó, kênh chính 「Nhân Sinh Phì Trạch x Tôn」 của anh đã đạt 1,2 triệu người đăng ký, và ở tuổi 19, anh được mệnh danh là YouTuber đạt triệu sub trẻ nhất Đài Loan vào thời điểm đó. [^1]
 
-Điểm khởi đầu này quan trọng bởi về sau Tôn vẫn công khai đào lại những video đầu tiên, biến sự vụng về và thói quen bắt chước của chính mình thành chuyện cười.[^2] Thời niên thiếu của anh không được biên tập thành một bản lý lịch đẹp đẽ, mà liên tục trở lại trong những video mới dưới dạng “quá khứ đen tối”, hình ảnh cũ và những lần nhìn lại sau này. Nhờ đó, hồ sơ trải dài 14 năm dương lịch có được một đầu mốc ban đầu còn có thể quan sát.
+Điểm khởi đầu này quan trọng bởi vì sau này Tôn vẫn thường công khai đào lại những video thời kỳ đầu, dùng chính sự bắt chước vụng về và non nớt của mình để làm trò cười. [^2] Thời thiếu niên của anh không được trau chuốt thành một bản lý lịch đẹp đẽ, mà hiện lên qua những "lịch sử đen tối", những thước phim cũ và sự nhìn lại sau này, lặp đi lặp lại trong các video mới. Do đó, hồ sơ trải dài qua mười bốn năm lịch sử đã có một điểm khởi đầu có thể quan sát được từ sớm.
 
-![Tôn cầm hình ảnh từ video thuở đầu trong ảnh thu nhỏ của video chính thức nhìn lại “quá khứ đen tối”](/article-images/people/zun-old-video-review-2017.webp)
+![Tôn cầm khung hình video thời kỳ đầu trong ảnh thu nhỏ của video hồi tưởng "lịch sử đen tối" chính thức](/article-images/people/zun-old-video-review-2017.webp)
 
-Khi chính anh phát lại những video cũ, nội dung ấy cũng mang một công dụng khác. Trong lần đăng đầu tiên, đó là những tác phẩm nhằm thu hút khán giả; khi xuất hiện trở lại nhiều năm sau, chúng trở thành tư liệu để Tôn của hiện tại bình luận về bản thân trong quá khứ. Khán giả đồng thời nhìn thấy hai thời điểm: cậu thiếu niên còn non nớt trong khung hình và nhà sáng tạo đứng ngoài khung hình, nay đã biết chỗ nào đáng ngượng, chỗ nào bắt chước quá rõ. Kiểu tự nhìn lại này giàu hơi ấm hơn một bảng niên biểu thành tích, bởi sự thay đổi hiện diện trực tiếp trong giọng nói và phản ứng.
+Khi anh tự phát lại những video cũ, nội dung của chúng cũng mang một mục đích khác. Lần đầu tiên tải lên, chúng là những tác phẩm nhằm thu hút khán giả. Nhiều năm sau khi xuất hiện trở lại, chúng trở thành tư liệu để Tôn của hiện tại bình luận về chính mình trong quá khứ. Khán giả đồng thời chứng kiến hai mốc thời gian: cậu thiếu niên chưa thạo việc trong khung hình, và người sáng tạo nội dung ở ngoài khung hình — người đã biết rõ chỗ nào sẽ gây ngượng ngùng, chỗ nào sự bắt chước là quá lộ liễu. Sự nhìn lại chính mình này mang lại cảm giác ấm áp hơn một bảng niên biểu cột mốc, bởi vì sự thay đổi được lưu lại trực tiếp trong tông giọng và phản ứng của anh.
 
-Bản thân cuộc phỏng vấn năm 2018 cũng chỉ là một lát cắt thời gian. Nó xác nhận Tôn bắt đầu quay từ năm lớp 8, chuyển từ trò chơi sang thí nghiệm, đồng thời ghi lại cột mốc 19 tuổi và 1,2 triệu người đăng ký; song không thể bổ khuyết một bản lý lịch đầy đủ cho từng năm trước đó. Sau khi các video cũ bị khóa hoặc thất lạc, những video hồi tưởng về sau trở thành số ít lời tự chú giải còn có thể tiếp cận. Bài viết này giữ nguyên sự không trọn vẹn ấy: chúng ta biết anh khởi đầu rất sớm và thấy anh quay lại chế giễu sự non nớt của mình, nhưng không dựng thêm bối cảnh về video đầu tiên, thiết bị hay sự hỗ trợ của gia đình khi không có tư liệu.
+Bản thân cuộc phỏng vấn năm 2018 cũng là một lát cắt thời gian. Nó xác nhận việc Tôn bắt đầu quay từ lớp 8, chuyển từ game sang các nội dung thử nghiệm, cũng ghi dấu cột mốc tuổi 19 với 1,2 triệu người đăng ký, nhưng không thể bù đắp đầy đủ lý lịch cho từng năm trước đó. Sau khi các video cũ bị khóa hoặc thất lạc, những video hồi tưởng sau này trở thành số ít chú thích tự thân vẫn còn có thể nhìn thấy được. Bài viết này giữ lại sự không trọn vẹn đó: chúng ta biết anh bắt đầu từ rất sớm, cũng thấy anh quay lại tự giễu sự non nớt của mình, nhưng không cố lấp đầy những khoảng trống về video đầu tiên không tìm thấy, về thiết bị hay sự hỗ trợ từ gia đình thành một kịch bản hoàn chỉnh.
 
 ```tw-stat
-Lớp 8 | Bắt đầu đăng video phát trực tiếp trò chơi | Khoảng năm 2012
-19 tuổi | YouTuber triệu người đăng ký trẻ nhất Đài Loan lúc bấy giờ | Bài báo năm 2018
-2 kênh | Cả kênh chính và kênh phụ đều vượt một triệu người đăng ký | Cuối năm 2024
+Lớp 8 | Bắt đầu tải lên livestream game | Khoảng năm 2012
+19 tuổi | YouTuber triệu sub trẻ nhất Đài Loan lúc bấy giờ | Báo cáo năm 2018
+2 kênh | Cả kênh chính và kênh phụ đều vượt mốc triệu sub | Cuối năm 2024
+Nguồn: Phỏng vấn truyền thông năm 2018 (bắt đầu quay từ lớp 8, 19 tuổi đạt 1,2 triệu sub) và các báo cáo về hồ sơ kênh sau này[^1][^2]
 ```
 
-📝 Ghi chú của người tuyển chọn: Tôn tự thừa nhận việc bắt đầu “sớm” đã đem lại lợi thế từ nền tảng. Với độc giả, khởi đầu sớm còn mang thêm một tầng ý nghĩa: trong mỗi lần nhìn lại về sau, người ta đều có thể tìm thấy những hình ảnh cũ do cậu học sinh lớp 8 ấy để lại.
+📝 Ghi chú của người biên tập: Bản thân Tôn thừa nhận việc bắt đầu "sớm" đã mang lại lợi thế về nền tảng. Đối với độc giả, việc bắt đầu sớm còn mang một ý nghĩa khác: mỗi lần nhìn lại sau này, họ đều có thể tìm thấy những thước phim cũ mà cậu học sinh lớp 8 năm nào để lại.
 
 ## Một triệu người đăng ký đổi tự do lấy gánh nặng
 
@@ -72,28 +73,29 @@ Việc nhà sáng tạo lồng tiếng cho hình ảnh do nhãn hàng cung cấp
 
 Không thể khép lại sự việc này chỉ bằng bốn chữ “hình tượng sụp đổ”. Nó cho thấy cụ thể rằng cậu thiếu niên từng nói vào năm 2018 rằng thu nhập chủ yếu dựa vào lượt xem và khi ấy hiếm nhận quảng cáo, sau khi biến kênh thành công việc lâu dài, vẫn có thể đưa ra một quyết định thương mại cẩu thả. Phản hồi của Tôn không làm sai lầm biến mất, nhưng ít nhất đã đưa trách nhiệm trở lại với chính anh, thay vì chỉ đẩy hết cho nhãn hàng.
 
-## Sau khi anh trai phạm tội, Tôn trả lời về vị trí của mình
+## Sau khi anh trai phạm tội, Tôn trả lời về vị trí của chính mình
 
-Một cửa ải khó khăn hơn đã xảy ra từ năm 2021. Anh trai của Tôn là Chu Ngọc Thần (Chu Yu-chen, 朱玉宸), tức YouTuber Tiểu Ngọc, bị điều tra vì sản xuất và bán các video khiêu dâm hoán đổi khuôn mặt bằng Deepfake. Vụ án có tổng cộng 119 nạn nhân, số tiền thu lợi bất chính vượt 10 triệu Đài tệ; năm 2024, Tòa án Tối cao giữ nguyên phán quyết phúc thẩm, trong đó phần hình phạt không được chuyển thành phạt tiền là 5 năm tù, ngoài ra còn có 1 năm 8 tháng tù được phép chuyển thành phạt tiền.[^4]
+Một thử thách khó khăn hơn đã xảy ra từ năm 2021. Anh trai của Tôn là Chu Ngọc Thần (Zhu Yuchen), tức YouTuber Tiểu Ngọc, đã bị điều tra vì sản xuất và bán các video khiêu dâm sử dụng công nghệ Deepfake để hoán đổi khuôn mặt. Vụ án có tổng cộng 119 nạn nhân, với số tiền thu lợi bất chính vượt quá NT$10 triệu. Năm 2024, Tòa án Tối cao đã giữ nguyên bản án phúc thẩm, trong đó phần không được phép nộp tiền thay hình phạt tù phải thi hành án 5 năm tù giam, và 1 năm 8 tháng còn lại có thể nộp tiền để thay thế hình phạt tù. [^4]
 
-Đây không phải một “lùm xùm của người nổi tiếng trên mạng” mang tính trừu tượng. Phán quyết xác định Tiểu Ngọc và trợ lý đã ghép đặc điểm khuôn mặt của các nhân vật công chúng vào video khiêu dâm rồi cung cấp cho người trả phí xem. Tòa phúc thẩm chỉ ra rằng hình ảnh sau khi phát tán trên mạng rất khó bị xóa bỏ hoàn toàn; tổn hại đối với nhân phẩm, danh dự và tinh thần của các nạn nhân cũng khó có thể phục hồi. Trong số 119 người, 83 người nộp đơn tố cáo hành vi xâm phạm danh dự, còn 36 người không khởi kiện.[^4] Những con số này được đặt lên trước bởi mọi phản hồi sau đó của người thân đều không thể thay thế vị trí của nạn nhân.
+Đây không phải là một "scandal người nổi tiếng" mơ hồ. Bản án xác định rằng Tiểu Ngọc và trợ lý đã tổng hợp các đặc điểm khuôn mặt của những người nổi tiếng vào các video khiêu dâm để cung cấp dịch vụ xem trả phí. Tòa phúc thẩm chỉ ra rằng sau khi hình ảnh trên mạng được phát tán, rất khó để xóa bỏ hoàn toàn, đồng thời phẩm giá, danh dự và tổn thương tinh thần của nạn nhân cũng khó có thể phục hồi. Trong số 119 người, có 83 người đã đệ đơn kiện về tội xúc phạm danh dự, 36 người còn lại không khởi kiện. [^4] Việc đưa những con số này lên trước là bởi vì sau này, bất kỳ người thân nào cũng không thể thay thế vị trí của các nạn nhân.
 
-Sau khi vụ án bị phanh phui, Tôn viết trên Tin của Instagram rằng Tiểu Ngọc chưa bao giờ nói với gia đình về việc mình đang làm. Anh xin lỗi các nạn nhân và cho biết sẽ không đoạn tuyệt quan hệ anh em. Câu cuối cùng là: “Quá nhiều chuyện xảy ra cùng lúc, tôi thực sự rất mệt.”[^5]
+Sau khi vụ việc bị phanh phui, Tôn đã chia sẻ trên Instagram Story rằng Tiểu Ngọc chưa bao giờ nói với gia đình về những gì anh ta đang làm. Anh gửi lời xin lỗi tới các nạn nhân, đồng thời khẳng định sẽ không cắt đứt quan hệ anh em. Câu cuối cùng là: "Quá nhiều chuyện xảy ra cùng một lúc, tôi thực sự rất mệt mỏi." [^5]
 
-Trong cùng phản hồi công khai ấy, anh nói rằng anh trai đã làm sai thì phải tự chịu trách nhiệm, không có gì để bao che, và mọi việc tiếp theo sẽ do pháp luật phán quyết.[^5] Ý nghĩa này cho thấy ranh giới của anh rõ hơn cách diễn đạt “đoạn tuyệt” hay “không đoạn tuyệt”. Tôn không có quyền quyết định trách nhiệm hình sự thay anh trai, cũng không thể chỉ bằng một tuyên bố mà xóa bỏ quan hệ thân thuộc. Điều anh có thể làm là thừa nhận mình không biết trước, xin lỗi các nạn nhân, rồi trả trách nhiệm phạm tội về cho người thực hiện hành vi và quy trình tư pháp.
+Trong cùng một phản hồi công khai đó, anh nói rằng nếu anh trai đã làm sai thì phải tự mình gánh chịu, không có gì để bao che, và mọi việc tiếp theo sẽ do pháp luật phán quyết. [^5] Ý nghĩa này thể hiện ranh giới của anh rõ ràng hơn là việc chỉ nói "cắt đứt" hay "không cắt đứt". Tôn không có quyền quyết định hình phạt thay cho anh trai, cũng không thể chỉ dựa vào một bản tuyên bố để xóa bỏ quan hệ huyết thống. Điều anh có thể làm là thừa nhận mình đã không biết chuyện từ trước, xin lỗi các nạn nhân, rồi trả lại trách nhiệm tội lỗi cho người thực hiện hành vi và quy trình tư pháp.
 
-Phản hồi này ban đầu được đăng dưới dạng Tin Instagram, vốn thường biến mất sau 24 giờ. Nội dung vẫn có thể được truy nguyên đến nay là nhờ tin tức cùng ngày đã lưu lại ảnh chụp màn hình và văn bản. Điều này cũng cho thấy sự mong manh của “hồ sơ công khai”: video YouTube có thể tồn tại lâu dài, nhưng Tin, bình luận và số liệu trên nền tảng có thể biến mất hoặc thay đổi. Vì vậy, bài viết chỉ dẫn lại những câu chữ thực sự được truyền thông lưu giữ trong ngày hôm đó, không gia công các bản tóm tắt lưu truyền về sau thành một lời bộc bạch trau chuốt hơn.
+Phản hồi này ban đầu được đăng trên Instagram Story, vốn thường sẽ biến mất sau 24 giờ. Việc nội dung vẫn có thể truy xuất được vào ngày hôm nay là nhờ các bản tin cùng ngày đã lưu lại ảnh chụp màn hình và văn bản. Nó cũng hé lộ sự mong manh của "hồ sơ công khai": video YouTube có thể tồn tại trực tuyến lâu dài, nhưng Story, bình luận và các con số trên nền tảng có thể biến mất hoặc thay đổi. Do đó, bài viết này chỉ trích dẫn chính xác những câu chữ mà truyền thông đã lưu giữ vào ngày hôm đó, không nhào nặn lại các bản tóm tắt lan truyền sau này thành một lời thú tội trau chuốt hơn.
 
-Trách nhiệm hình sự thuộc về Tiểu Ngọc; Tôn không phải người thực hiện hành vi trong vụ án. Việc Tôn lựa chọn không phủ nhận quan hệ anh em cũng không đồng nghĩa với bào chữa cho tội phạm. Văn bản của anh khi ấy khó quên chính bởi nó không đưa ra một đáp án sạch sẽ, dễ được yêu thích: một người có thể lên án việc người thân đã làm, đồng thời thừa nhận quan hệ huyết thống không biến mất vì một tuyên bố.
+Trách nhiệm hình sự thuộc về Tiểu Ngọc, Tôn không phải là người thực hiện hành vi phạm tội. Việc Tôn chọn không phủ nhận quan hệ anh em không đồng nghĩa với việc biện hộ cho tội ác. Lý do khiến những dòng chữ của anh lúc đó để lại ấn tượng sâu sắc chính là vì chúng không đưa ra một câu trả lời sạch sẽ hay dễ nghe: một người có thể lên án việc mà người thân mình đã làm, đồng thời thừa nhận rằng huyết thống sẽ không biến mất chỉ nhờ một bản tuyên bố.
 
-Ở phần trước, Tôn phải chịu trách nhiệm cho phán đoán của mình khi nhận quảng cáo; trong phần này, điều anh có thể trả lời là vị trí của một thành viên gia đình, chứ không thể thay anh trai gánh chịu trách nhiệm hình sự. Đến đây, hồ sơ công khai đã rời xa không gian đơn thuần của một thiếu niên thử làm video. Khi bạn đời và nơi ở xuất hiện trở lại về sau, trách nhiệm và đời sống bình thường vẫn cùng tồn tại trong một giai đoạn trưởng thành.
+Trong đoạn trước, Tôn cần chịu trách nhiệm về phán đoán quảng cáo của mình. Trong đoạn này, điều anh có thể trả lời là vị trí của một người thân, chứ không thể thay anh trai gánh chịu hình phạt. Hồ sơ công khai đi đến bước này đã rời xa không gian đơn thuần của những thử nghiệm thời thiếu niên. Khi bạn đời và nơi ở mới xuất hiện sau đó, trách nhiệm và cuộc sống thường nhật vẫn cùng tồn tại trong một giai đoạn trưởng thành.
 
 ```tw-timeline
-2018 | Kênh chính vượt một triệu người đăng ký | 19 tuổi, được truyền thông gọi là người trẻ nhất Đài Loan lúc bấy giờ
-2021 | Vụ án của anh trai bị phanh phui | Tôn xin lỗi các nạn nhân, nói rõ không đoạn tuyệt quan hệ huyết thống
-2023 | Sai sót quảng cáo “Top War” | Thừa nhận nhận việc qua loa và thiếu sót trong kiểm soát
-2024 | Kênh phụ vượt một triệu người đăng ký | Hai tuyến nội dung có sắc thái khác nhau đều vượt mốc một triệu
-2025 | Máy quay tiến vào ngôi nhà mới | Kênh mở rộng từ các thí nghiệm thời niên thiếu sang đời sống thường nhật khi trưởng thành
+2018 | Kênh chính vượt mốc triệu sub | 19 tuổi, truyền thông gọi là người trẻ nhất Đài Loan thời điểm đó
+2021 | Vụ án của anh trai bị phanh phui | Tôn xin lỗi các nạn nhân, khẳng định không cắt đứt huyết thống
+2023 | Sai lầm quảng cáo Pocket Champ | Thừa nhận sự cẩu thả khi nhận dự án và thiếu sót trong kiểm duyệt
+2024 | Kênh phụ vượt mốc triệu sub | Cả hai dòng nội dung với phong cách khác nhau đều đạt triệu sub
+2025 | Ống kính hướng về nhà mới | Kênh phát triển từ những thử nghiệm thời thiếu niên sang đời sống thường nhật của người trưởng thành
+Nguồn: Các báo cáo và bản án của tòa án được trích dẫn trong bài (Cột mốc đăng ký 2018, Vụ án 2021, Tranh cãi quảng cáo 2023, Kênh phụ đạt triệu sub 2024) [^1][^3][^4][^5]
 ```
 
 ## Cuộc sống bắt đầu đi qua nhiều kênh khác nhau

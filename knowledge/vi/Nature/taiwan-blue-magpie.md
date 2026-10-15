@@ -1,21 +1,21 @@
 ---
-title: 'Bướm xanh Đài Loan: Tầng nhiều thành thị trong rừng nguyen sinh, chiến tranh bảo vệ gen kéo dài hàng trăm năm'
-description: 'Năm 2007 chiếm 180.000 phiếu giành vị trí chim quốc gia, những viên ngọc rừng này lại là tầng nhiều "băng đảng" biết "đánh đấu đoàn". Từ mẫu mẫu đầu tiên thu thập năm 1862 bởi Robert Swinhoe, đến hiện nay thích ứng ăn thịt cáo trong thành thị, họ chiếm 97% lãng chạn bảo vệ bằng cách cạnh tranh. Đây là câu chuyện về sinh tồn, sức mạnh gia đình, chiến tranh bảo vệ gen và trí tuệ cùng sinh sống với con người trên bờ biển Đài Loan.'
+title: 'Chim bách thanh xanh Đài Loan: Băng đảng màu xanh giữa rừng rậm đô thị và cuộc chiến bảo vệ gen kéo dài hơn một thế kỷ'
+description: 'Giành ngôi vị quốc điểu với 180.000 phiếu bầu vào năm 2007, viên ngọc quý của núi rừng này thực chất là một gia tộc mạnh mẽ với khả năng "đánh hội đồng". Đây là loài đặc hữu của Đài Loan; từ mẫu vật đầu tiên được Swinhoe thu thập vào năm 1862 cho đến việc tranh giành thức ăn từ thức ăn cho mèo tại các công viên đô thị ngày nay, chúng tồn tại nhờ hệ thống hỗ trợ quanh tổ lên tới 97% để giành chiến thắng trong cạnh tranh. Trong hơn một trăm năm qua, chúng cũng luôn giữ vững ranh giới di truyền với loài bách thanh xanh mỏ đỏ Trung Quốc. Đây là một câu chuyện về hòn đảo xoay quanh sự sinh tồn, tính gắn kết gia đình, cuộc chiến bảo vệ gen và trí tuệ cùng chung sống giữa người và chim.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'loài đặc sản',
-    'bảo tồn thiên nhiên',
-    'chim',
-    'sinh thái',
-    'bướm xanh Đài Loan',
-    'sinh sản hợp tác',
-    'Tư Sú',
-    'Bún Nông',
-    'bướm xanh đỏ môi',
-    'khoa học công dân',
-    'biến đổi khí hậu',
+    'Loài đặc hữu',
+    'Loài được bảo tồn',
+    'Chim',
+    'Sinh thái',
+    'Trường vĩ sơn nương',
+    'Hợp tác sinh sản',
+    'Tộc Tào',
+    'Tộc Bunun',
+    'Bách thanh xanh mỏ đỏ',
+    'Khoa học công dân',
+    'Biến đổi khí hậu',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -24,187 +24,188 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '29df9154e'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-10-15T02:47:25.116549+00:00'
 ---
 
-> **Tóm tắt 30 giây:**  
-> Bướm xanh Đài Loan (Taiwan Blue Magpie) là loài chim có tính đặc sản đáng nhớ nhất của Đài Loan, nổi tiếng với đuôi dài và lông xanh đậm, xuất hiện tại cuộc tuyển chọn chim quốc gia năm 2007.  
-> Nhưng sau vẻ đẹp, họ là loài chim xã hội cực kỳ mạnh mẽ, có hệ thống "trợ giúp tại nẻo gà" độc đáo, thành viên gia đình sẽ tập hợp nuôi con, bảo quản thực phẩm và thậm chí tổ chức "hạt nhân" đánh kẻ thù.  
-> Từ rừng nguyen sinh thấp và trung, đến ranh giới Công viên Lâm thành phố Hoa Ninh, họ là những sinh vật thích ứng thành công với sự đô thị hóa; đồng thời cũng đối mặt với nguy cơ ô nhiễm gen từ bướm xanh đỏ môi (Urocissa erythroryncha) xuất hành, là điểm chí trị bảo vệ lâu dài của loài đặc sản này trên Đài Loan.
+> **Tóm tắt trong 30 giây:**
+> Khướu xanh Đài Loan (Taiwan Blue Magpie) là loài chim đặc hữu tiêu biểu nhất của Đài Loan, nổi tiếng với chiếc đuôi dài lộng lẫy và bộ lông màu xanh lam đậm, đồng thời đã vượt qua các ứng cử viên khác để trở thành quốc điểu trong cuộc bình chọn năm 2007.
+> Đằng sau vẻ ngoài xinh đẹp, chúng là loài chim có tính xã hội cực kỳ mạnh mẽ với "hệ thống trợ giúp quanh tổ" độc đáo; các thành viên trong gia đình sẽ cùng nhau nuôi dưỡng chim non, dự trữ thức ăn, thậm chí thực hiện các cuộc "không kích" để chống lại kẻ thù.
+> Từ việc cư ngụ tại các khu rừng lá rộng ở độ cao trung bình và thấp, chúng đã tiến dần đến rìa Công viên Rừng Đại An, trở thành những kẻ sinh tồn mạnh mẽ thích nghi thành công với quá trình đô thị hóa; đồng thời cũng đang đối mặt với mối đe dọa ô nhiễm di truyền từ loài ngoại lai Khướu xanh mỏ đỏ, khiến chúng trở thành tâm điểm quan sát lâu dài trong công tác bảo tồn các loài đặc hữu tại Đài Loan.
 
-Năm 1862, nhà khoa học và sứ quan Anh Robert Swinhoe (郇和) thu thập hai con bướm xanh sáng bằng đuôi trong khu vực Tân Hồ. Dù thân chim đã bị thợ săn ăn do nó dễ hỏng do nhiệt độ cao, Swinhoe dựa trên những điểm trắng ở đầu lông đuôi, phát hiện ra đây là một loài mới. Trong thư viết, ông háo hức ghi:
+Năm 1862, nhà tự nhiên học kiêm lãnh sự người Anh Robert Swinhoe (Swình Hòa) đã nhận được hai chiếc lông đuôi màu xanh sáng do một thợ săn gửi đến tại Tamsui (Đạm Thủy). Mặc dù phần thân chim đã bị thợ săn ăn mất do thời tiết nóng dễ phân hủy, nhưng dựa vào các đốm trắng ở đầu lông, Swinhoe đã nhạy bén nhận định rằng đây chắc chắn là một loài mới thuộc chi Khướu xanh (_Urocissa_). Ông đã phấn khích viết trong thư rằng:
 
-> "Mẫu mẫu hoàn toàn xác nhận giả thuyết của tôi: đây là loài đẹp nhất." [^1]
+> 「Mẫu vật này hoàn toàn xác nhận giả thuyết của tôi: đây là một loài mới tuyệt đẹp.」 [^1]
 
-Mẫu mẫu này sau đó được gửi đi London, nơi bởi họa sĩ chim John Gould (古爾德) chính thức đặt tên là _Urocissa caerulea_. Từ đó, "viên ngọc rừng" chính thức xuất hiện trong tầm nhìn khoa học quốc tế, trở thành phần tử quan trọng của "nhiệm vụ khám phá loài đặc sản" của các nhà khoa học Tây phương vào thế kỷ 19, mẫu mẫu cũng bắt đầu lan truyền khắp châu Âu [^2].
+Mẫu vật này sau đó được gửi đến London và chính thức được họa sĩ vẽ chim John Gould (Cổ Nhĩ Đức) đặt tên là _Urocissa caerulea_. Kể từ đó, "viên ngọc của núi rừng" này đã chính thức bước vào tầm mắt của giới sinh học quốc tế, trở thành một phần quan trọng trong "cơn sốt phát hiện" các loài đặc hữu tại Đài Loan của các nhà tự nhiên học phương Tây thế kỷ 19, và các mẫu vật của chúng cũng bắt đầu được lưu thông khắp châu Âu [^2].
 
-## "Bướm xanh nữa" trong lịch sử: Từ văn học thời phong kiến đến tạp chí khoa học quốc tế
+## "Sơn nương đuôi dài" trong lịch sử: Từ văn kiện thời Thanh đến các tạp chí khoa học quốc tế
 
-Trước khi có tên khoa học Tây phương, bướm xanh Đài Loan đã sâu lắng vào ký ức tập thể của hòn đảo này. Vào thế kỷ 18, nhà văn học Đài Loan Dong Tian-gong (董天工) trong cuốn《臺海見聞錄》 mô tả sinh động:
+Từ trước khi có sự đặt tên theo khoa học phương Tây, loài Khướu xanh Đài Loan đã in sâu vào ký ức tập thể của hòn đảo này. Vào thế kỷ 18, văn nhân thời nhà Thanh là Đổng Thiên Công (Dong Tiangong) đã mô tả một cách sinh động trong cuốn 《Đài Hải Kiến Văn Lục》:
 
-> "Bướm xanh nữa, môi hồng, cánh xanh nhẹ, lưng nâu, lấp lánh màu sắc, đuôi dài hơn một chiếc thước, sinh ở trong những ngọn núi sâu và chong." [^3]
+> 「Trường vĩ tam nương, chu hui thúy dực褐 bối, thái diệu tương gian, vĩ trường doanh xích, sinh ư Chư, Chương thâm sơn.」 [^3]
+> _(Ba nàng đuôi dài, mỏ đỏ cánh xanh lưng nâu, màu sắc rực rỡ đan xen, đuôi dài hơn một thước, sống ở vùng núi sâu thuộc Chu và Chương.)_
 
-Người dân địa phương thân thiện gọi họ là "bướm xanh nữa" hoặc "chim con núi", đuôi dài 40 centimet chiếm tỷ lệ hai phần ba tổng chiều dài cơ thể. Ngay cả trong《臺灣通史》 của Li Ya-hang (連雅堂), cô cũng dùng bốn từ "cánh xanh nhẹ, môi hồng, tỏa sáng" để bắt giữ ánh sáng rực rỡ của họ dưới nắng sáng [^4].
+Dân gian thường gọi chúng một cách thân thương là "Sơn nương đuôi dài" (長尾山娘) hoặc "Sơn nương tử" (山娘仔), với phần lông đuôi dài tới 40 cm chiếm tới hai phần ba chiều dài cơ thể. Liên Nhã Đường (Lian Yatang) trong cuốn 《Đài Loan Thông Sử》 cũng đã dùng tám chữ "Thúy dực chu hui, quang thái chiếu nhân" (Cánh xanh mỏ đỏ, ánh sáng rạng ngời) để nắm bắt chính xác vẻ lấp lánh như đá quý của chúng dưới ánh nắng mặt trời [^4].
 
-Màu sắc lông của họ cũng thu hút sự chú ý của các nhà nghiên cứu về quang học hiện đại. Vào năm 2015, các nhà nghiên cứu Lin và Tian công bố trong tạp chí《Applied Optics》 nghiên cứu cấu trúc vi mô của lông bướm xanh Đài Loan, phát hiện màu xanh trong lông xuất phát từ cấu trúc nano của protein gel trong thanh lông (barb), chứ không phải chất màu đơn giản, và chỉ khi góc quan sát nhỏ hơn 40 độ thì ánh sáng bảng (iridescence) không rõ ràng [^5]. Nghiên cứu này sau đó được trích dẫn trong tạp chí《eLife》 năm 2021, một nghiên cứu rộng hơn về sự phát triển cấu trúc nano của lông chim, đưa bướm xanh Đài Loan vào bối cảnh so sánh qua các loài khác [^5b].
+Màu sắc lông của loài này cũng thu hút sự chú ý của các nhà nghiên cứu quang học hiện đại. Năm 2015, các học giả Lin và Tian đã công bố một nghiên cứu về cấu trúc vi mô lông của Khướu xanh Đài Loan trên tạp chí _Applied Optics_. Nghiên cứu phát hiện ra rằng màu xanh của chúng bắt nguồn từ màu sắc cấu trúc (structural coloration) ở quy mô nano bên trong môi trường keratin dạng xốp của các sợi lông (barb), chứ không đơn thuần là do sắc tố, đồng thời chỉ ra rằng hiệu ứng ngũ sắc (iridescence) này không rõ rệt khi góc quan sát nhỏ hơn 40 độ [^5]. Nghiên cứu này sau đó đã được trích dẫn bởi một nghiên cứu rộng hơn về sự tiến hóa cấu trúc nano lông chim trên tạp chí _eLife_ năm 2021, đưa Khướu xanh Đài Loan vào bối cảnh so sánh giữa các loài [^5b].
 
-📝 **Ghi chú của người dẫn chương:** Vẻ đẹp của bướm xanh Đài Loan là thứ gì đó khác biệt khiến người quan sát từ xưa đến nay phải ngừng thở thướt, như ánh sáng xanh điện rạc rách trong rừng sâu. Điều này cũng khiến các nhà quang học dám dẗ dự đoán cơ chế vật lý ẩn trong lông của chúng.
+📝 **Ghi chú của người giám tuyển:** Vẻ đẹp của Khướu xanh Đài Loan là thứ sắc xanh điện quang đột ngột lóe lên giữa rừng già xanh thẳm, khiến cả những quan sát viên xưa và nay đều phải nín thở, đồng thời cũng thôi thúc các nhà nghiên cứu quang học dành thời gian để giải mã cơ chế vật lý ẩn sau bộ lông của chúng.
 
-## "Băng đảng xanh" trong rừng: Tri thức tự động hóa sinh sản và thách thức đô thị
+## "Băng đảng xanh" trong rừng: Trí tuệ tiến hóa của sinh sản hợp tác và những thách thức đô thị
 
-Điều khiến các nhà sinh học bất ngờ là **hành vi xã hội mức độ cao** của loài này, đặc biệt thể hiện qua hệ thống "trợ giúp tại nẻo gà" độc đáo.
+Điều thực sự khiến các nhà sinh học kinh ngạc chính là **hành vi xã hội** phát triển cao độ của loài này, đặc biệt thể hiện qua cơ chế độc đáo mang tên "người giúp việc tại tổ" (Helper at the Nest).
 
-### 1. Cơ chế và ý nghĩa tiến hóa của hệ thống trợ giúp tại nẻo gà
+### 1. Cơ chế vận hành và ý nghĩa tiến hóa của "Người giúp việc tại tổ" (Helper at the Nest)
 
-Khác với hầu hết các loài chim, bướm xanh Đài Loan thực hiện chiến lược "sinh sản hợp tác" (cooperative breeding). Các nghiên cứu cho thấy, **97% dân số bướm xanh sẽ có "người giúp việc" trong mùa sinh sản** [^6]. Những người giúp việc này thường là các thành viên chưa sinh sản của năm 1-2 tuổi (gọi là "anh chị em") , họ trì hoãn việc xây dựng gia đình riêng, ở lại giúp bố mẹ xây nhà, nuôi thực phẩm và trẻ em, bảo vệ lãnh thổ và đẩy lùi kẻ ăn thịt [^7]. Mô hình "ba thế hệ cùng nhau" này giúp tăng tỷ lệ sinh sản của trẻ em và mạnh mẽ hóa phạm vi quyền lực của gia đình.
+Khác với đa số các loài chim khác khi chim non rời tổ sẽ đường ai nấy đi, Khướu xanh Đài Loan áp dụng chiến lược "sinh sản hợp tác" (cooperative breeding). Nghiên cứu cho thấy, có tới **97% quần thể Khướu xanh Đài Loan có sự hiện diện của "người giúp việc" trong quá trình sinh sản** [^6]. Những người giúp việc này thường là thế hệ con cái chưa sinh sản của một hoặc hai năm trước (thường gọi là "anh chị"), chúng sẽ trì hoãn thời gian thiết lập gia đình riêng để ở lại hỗ trợ cha mẹ xây tổ, mớm mồi cho chim bố mẹ và chim non, bảo vệ lãnh thổ và xua đuổi kẻ săn mồi [^7]. Mô hình "tam đại đồng đường" này giúp tăng đáng kể tỷ lệ sống sót của chim non, đồng thời củng cố phạm vi thế lực của cả gia tộc.
 
-Hành vi sinh sản hợp tác này trong các loài chim là hiếm gặp, ý nghĩa tiến hóa của nó là: trong môi trường có nguồn lực hạn hẹp và cạnh tranh xuất sắc, thông qua lý thuyết chọn gen (kin selection), người giúp việc dù hy sinh cơ hội sinh sản của chính mình, nhưng vẫn có thể tăng tỉ lệ sống sót của người thân có cùng gen, từ đó truyền gen của chính mình một cách gián tiếp [^8]. Bướm xanh Đài Loan thực hiện sinh sản đôi một, mối quan hệ đối tác ổn định lâu dài, cũng cung cấp nền tảng vững chắc cho mô hình sinh sản hợp tác này [^6].
+Hành vi sinh sản hợp tác này tương đối hiếm gặp ở các loài chim, ý nghĩa tiến hóa của nó nằm ở chỗ: trong môi trường tài nguyên hữu hạn và cạnh tranh lãnh thổ gay gắt, thông qua lý thuyết chọn lọc dòng dõi (kin selection), mặc dù những người giúp việc phải hy sinh cơ hội sinh sản của bản thân, nhưng chúng có thể nâng cao tỷ lệ sống sót của những người thân mang cùng bộ gen, từ đó gián tiếp truyền lại gen của chính mình [^8]. Khướu xanh Đài Loan theo chế độ một vợ một chồng với mối quan hệ bạn đời ổn định lâu dài, điều này cũng tạo nền tảng vững chắc cho mô hình hợp tác này [^6].
 
-### 2. Sinh học sinh sản và bản năng bảo vệ: Nguồn gốc xung đột giữa người và chim trong thành thị
+### 2. Sinh học sinh sản và bản năng bảo vệ tổ: Nguồn gốc của xung đột giữa người và chim tại đô thị
 
-Thời gian sinh sản của bướm xanh Đài Loan chủ yếu diễn ra từ đầu tháng 4 đến đầu tháng 8. Họ thường sống trong nhóm 6-12 con, kích thước nhóm trung bình khoảng 6.3 con [^6]. Họ xây dựng vùng lãnh thổ cố định, diện tích trung bình khoảng 48-54 km², và thể hiện sức mạnh của bản năng bảo vệ đối với bất kỳ kẻ xâm nhập nào [^9].
+Mùa sinh sản của Khướu xanh Đài Loan chủ yếu diễn ra từ đầu tháng 4 đến đầu tháng 8 hàng năm. Chúng thường sống theo nhóm nhỏ từ 6-12 con, với quy mô trung bình khoảng 6,3 con mỗi nhóm [^6]. Chúng thiết lập lãnh thổ vĩnh viễn với diện tích trung bình khoảng 48-54 ha và thể hiện bản năng bảo vệ tổ cực kỳ mạnh mẽ đối với những kẻ xâm nhập [^9].
 
-| Tham số sinh sản       | Số liệu                        | Ghi chú                                          |
-| :--------------------- | :----------------------------- | :----------------------------------------------- |
-| **Thời gian sinh sản** | Từ đầu tháng 4 đến đầu tháng 8 | Nữ chim chịu trách nhiệm đẻ trứng                |
-| **Số trứng**           | Trung bình 6-6.4 quả           | Giai đoạn đẻ trứng 17-19 ngày                    |
-| **Số chim thành công** | Trung bình khoảng 4.2 con      | Tỷ lệ thành công sinh sản khoảng 79-84%          |
-| **Sinh sản thứ hai**   | Khoảng 29% nhóm sẽ thực hiện   | Trẻ em của lần đầu được người giúp việc chăm sóc |
+| Thông số sinh sản         | Dữ liệu                       | Ghi chú                                             |
+| :------------------------ | :---------------------------- | :-------------------------------------------------- |
+| **Mùa sinh sản**          | Đầu tháng 4 đến đầu tháng 8   | Chim mái chịu trách nhiệm ấp trứng                  |
+| **Số lượng trứng mỗi tổ** | Trung bình 6-6,4 quả          | Thời gian ấp từ 17-19 ngày                          |
+| **Số chim non rời tổ**    | Trung bình khoảng 4,2 con     | Tỷ lệ sinh sản thành công khoảng 79-84%             |
+| **Sinh sản lần hai**      | Khoảng 29% quần thể thực hiện | Lứa chim non đầu tiên được người giúp việc chăm sóc |
 
-Trong giai đoạn sinh sản, để bảo vệ trẻ em trong tổ, họ sẽ tập hợp tấn công bất kỳ sinh vật nào gần gũi, bao gồm chim onc, rắn, và thậm chí là con người đi qua. Gần đây, với sự mở rộng của quần đội bướm xanh Đài Loan trong khu vực xanh thành thị, các vụ xung đột giữa người và chim thỉnh thoáng xảy ra. Mỗi năm, Cơ quan Bảo vệ Động vật thành phố Hồ Chí Minh nhận được các thông báo từ người dân, và sẽ gửi đội ngũ đến hiện trường dán biển cảnh báo, nhắc nhở người dân cẩn thận [^10] [^11].
+Trong mùa sinh sản, để bảo vệ chim non trong tổ, chúng sẽ tập thể tấn công bất kỳ sinh vật nào đến gần, bao gồm cả chim săn mồi, loài rắn và thậm chí là con người đi ngang qua. Những năm gần đây, cùng với sự mở rộng của quần thể Khướu xanh Đài Loan tại các không gian xanh đô thị, các vụ xung đột giữa người và chim thường xuyên xảy ra. Cục Bảo vệ Động vật Thành phố Đài Bắc hàng năm vào mùa sinh sản đều tiếp nhận thông báo từ người dân, sau đó cử nhân viên đến hiện trường dán thông báo để nhắc nhở mọi người chú ý [^10] [^11].
 
-Các nghiên cứu và quan sát cho thấy, các vụ tấn công của bướm xanh Đài Loan trong thành thị ngày càng tăng, có mối quan hệ trực tiếp với **cách cắt tỉa cây không đúng cách**. Nhiều cơ quan quản lý thành phố hướng tới phòng ngừa bão, thường xuyên cắt tỉa các cành cây ở tầng thấp và giữa, khiến các chim cháu thiếu những cành cây để bám và tập luyện, dễ rơi xuống mặt đất. Bố mẹ chim để bảo vệ trẻ em đang dễ vỡ nguy cơ trên mặt đất, bản năng bảo vệ và phạm vi tấn công của họ tự nhiên sẽ tăng lên [^12].
+Các nghiên cứu và quan sát chỉ ra rằng, việc gia tăng các vụ tấn công của Khướu xanh Đài Loan tại đô thị có liên quan trực tiếp đến **phương pháp cắt tỉa cây không đúng cách**. Nhiều đơn vị quản lý đô thị, nhằm phòng tránh bão, có xu hướng cắt tỉa sạch các cành ở tầng trung và thấp của cây, dẫn đến việc chim non đang tập bay thiếu các cành cây để bám và luyện tập, khiến chúng dễ dàng rơi trực tiếp xuống mặt đất. Để bảo vệ chim non đang gặp nguy hiểm dưới đất, phạm vi cảnh giới và tính tấn công nhằm bảo vệ tổ của chim bố mẹ sẽ tự nhiên tăng lên đáng kể [^12].
 
-Để tránh xung đột, các nghiên cứu sinh viên đề xuất, giữ khoảng cách ít nhất **54.4 mét** với bướm xanh Đài Loan, và giữ xa khoảng **7.1 mét** của tổ chim. Các con số này dù không phải là tiêu chuẩn chính thức nhất, nhưng cung cấp hướng dẫn cụ thể. Cơ quan Bảo vệ Động vật thành phố Hồ Chí Minh khuyến nghị người dân đi lại khác đường, đội mũ hoặc dùng ô, và giữ bình tĩnh nhanh chóng qua đường [^11].
+Để tránh xung đột, một nghiên cứu từ cuộc thi khoa học dành cho học sinh đã đề xuất nên giữ khoảng cách an toàn ít nhất **54,4 mét** với Khướu xanh Đài Loan và tránh xa phạm vi **7,1 mét** quanh tổ chim. Đồng thời, cần tránh mặc quần áo màu đỏ hoặc màu hồng đào để không kích động hành vi đe dọa của chúng [^13]. Mặc dù những con số chính xác này không phải là tiêu chuẩn thống nhất chính thức, nhưng chúng cung cấp một hướng tham khảo cụ thể. Cục Bảo vệ Động vật khuyến nghị người dân nên đi đường vòng, đội mũ hoặc che ô, đồng thời giữ bình tĩnh và nhanh chóng đi qua khu vực đó [^11].
 
-📝 **Ghi chú của người dẫn chương:** "Hạt nhân" là phản ánh của sức mạnh gia đình, trong mắt bướm xanh Đài Loan, không có máu thịt nào là quyền lực nhất đối với gia đình. Hiểu hành vi của chúng là bước đầu tiên để sống chung với sinh vật hoang dã, và tư duy thân thiện của người quản lý đô thị và cư dân cũng rất quan trọng.
+📝 **Ghi chú của người biên tập:** "Cuộc không kích" là minh chứng cụ thể cho sự gắn kết gia đình; trong mắt loài Khướu xanh, để bảo vệ người thân thì không có đối thủ nào là quá mạnh mẽ. Hiểu được hành vi của chúng là bước đầu tiên để chung sống hòa bình với động vật hoang dã, và thái độ thân thiện của những nhà quy hoạch đô thị cũng như cư dân cũng đóng vai trò quan trọng không kém.
 
-## Từ anh hùng truyền thuyết đến người bạn thành phố: Khả năng thích ứng và thách thức
+## Từ anh hùng thần thoại đến người hàng xóm đô thị: Sự thích nghi và những thách thức
 
-### 1. Anh hùng lấy lửa của Tư Sú và Bún Nông
+### 1. Anh hùng lấy lửa của người Tsou và người Bunun
 
-Trong truyền thuyết các bản ngữ của các dân tộc nguyên bản Đài Loan, bướm xanh Đài Loan đóng vai trò quan trọng. Trong truyền thuyết Tư Sú (Tsou), bướm xanh Đài Loan là "chim thần mang lửa" cứu rỗi nhân loại. Theo truyền thuyết, trong thời kỳ lũ lụt đại, các thành viên băng qua núi Yushan (Patungkuonu) để trốn thoát, nhưng bị lửa tắt khiến họ đối mặt nguy cơ chết chóc. Sau khi nhiều sinh vật khác nhau thử nghiệm mà thất bại, bướm xanh Đài Loan tự nguyện đi đến nơi của Chúa thần lửa để lấy lửa. Trong quá trình mang lửa về, môi và móng chân của chim bị lửa cháy thành màu đỏ rực, dù đau khổ hoàn thành nhiệm vụ cứu vãn các thành viên băng, nhưng cũng đến cuối đời vì qua đêm [^14]. Bước xanh này giải thích đẹp nên xuất hiện màu đỏ của môi và móng chân, đồng thời cho thấy vị trí thánh thiện của nó. Trong truyền thuyết lũ lụt của Bún Nông (Bunun), cũng có vai trò chim thần tương tự, dù chỉ số loài có thể thay đổi (thỉnh thoảng chỉ đến chim xanh đỏ môi hoặc các loài khác), nhưng tinh thần hy sinh và cống hiến của chúng vẫn đồng nhất [^15].
+Trong thần thoại của các dân tộc bản địa Đài Loan, loài Khướu xanh Đài Loan đóng một vai trò vô cùng quan trọng. Trong thần thoại của người Tsou, Khướu xanh Đài Loan là "thần điểu mang mồi lửa" cứu rỗi nhân loại. Truyền thuyết kể rằng vào thời kỳ đại hồng thủy, tộc người đã chạy đến núi Ngọc (Patungkuonu) để lánh nạn, nhưng do mồi lửa bị tắt nên phải đối mặt với nguy cơ diệt vong. Sau khi nhiều loài động vật khác cố gắng nhưng đều thất bại, Khướu xanh Đài Loan đã tự nguyện lên đường đến nơi ở của Thần Lửa để lấy mồi lửa. Trong quá trình mang mồi lửa trở về, mỏ và chân của nó đã bị ngọn lửa dữ thiêu cháy thành màu đỏ tươi; dù phải chịu đau đớn để hoàn thành nhiệm vụ cứu sống tộc người, nhưng nó cũng vì kiệt sức mà qua đời [^14]. Câu chuyện thần thoại này đã giải thích một cách đầy mỹ lệ về nguồn gốc chiếc mỏ và đôi chân đỏ rực của loài khướu xanh, đồng thời ban cho chúng một vị thế thiêng liêng. Trong thần thoại về hồng thủy của người Bunun, cũng có sự xuất hiện của một nhân vật thần điểu tương tự; mặc dù tên gọi loài có đôi khi thay đổi (có lúc chỉ loài Khách đầu đỏ hoặc các loài chim khác), nhưng tinh thần hy sinh cống hiến thì vẫn luôn nhất quán [^15].
 
-### 2. Sự thích ứng và trí tuệ bảo quản thực phẩm trong thành thị
+### 2. Sự thích nghi tại đô thị và trí tuệ dự trữ thức ăn
 
-Với sự tăng thêm các khu vực xanh trong thành phố, bướm xanh Đài Loan thể hiện khả năng thích ứng ấn tượng. Ban đầu chủ yếu sinh sống trong rừng nguyen sinh thấp và trung, họ bây giờ bắt đầu xuất hiện ở Công viên Lâm thành phố Hồ Chí Minh, xung quanh các chợ truyền thống [^16]. Họ là loài ăn thịt opportunistic, ăn uống đa dạng, từ côn trùng, động vật có xương cổ, động vật nhỏ (như chuột, chim cháu) đến trái cây, rác thực phẩm, thức ăn cho mèo và chó [^17].
+Cùng với sự gia tăng của các mảng xanh đô thị, Khướu xanh Đài Loan đã cho thấy khả năng thích nghi đáng kinh ngạc. Vốn dĩ chủ yếu phân bố tại các khu rừng lá rộng ở độ cao trung bình và thấp, hiện nay chúng đã bắt đầu xuất hiện tại Công viên Rừng Đại An hay xung quanh các khu chợ truyền thống [^16]. Chúng là loài săn mồi ăn tạp có tính cơ hội với chế độ ăn vô cùng đa dạng, từ côn trùng, thằn lằn, động vật có xương sống nhỏ (như loài chuột, chim non) cho đến trái cây, thức ăn thừa của con người hay cả thức ăn dành cho chó mèo [^17].
 
-Thông minh hơn, bướm xanh Đài Loan có **hành vi bảo quản thực phẩm** (food caching). Họ sẽ che giấu những quả dưa hành lớn, miếng thịt hoặc bánh quy không ăn được trong kẽ cây hoặc dưới mái nhà, dùng lá phủ kín lại, để quay lại khi đói [^18]. Hành vi này cho thấy chúng có khả năng nhận thức nhất định.
+Thông minh hơn nữa, loài khướu xanh này còn có **hành vi dự trữ thức ăn (Food caching)**. Chúng sẽ giấu những quả nho Kyoho ăn không hết, các miếng thịt hoặc bánh quy vào kẽ cây hoặc dưới mái hiên, dùng lá cây che đậy lại để khi đói sẽ quay lại thưởng thức [^18]. Hành vi lập kế hoạch thực phẩm trước này cho thấy chúng sở hữu năng lực nhận thức nhất định.
 
-Tuy nhiên, sự mở rộng của bướm xanh Đài Loan trong thành phố cũng mang lại hai mặt của sinh thái. Một phía, họ là chỉ số của đa dạng sinh học trong khu vực xanh thành phố, cho thấy kết quả của công viên xanh; phía kia, hành vi ăn thịt mạnh mẽ của họ cũng có thể ảnh hưởng đến các loài chim nhỏ khác trong công viên, cần quan sát và đánh giá liên tục [^19].
+Tuy nhiên, sự mở rộng của Khướu xanh Đài Loan tại các đô thị cũng mang tính hai mặt về mặt sinh thái. Một mặt, chúng là chỉ số cho đa dạng sinh học đô thị, phản ánh thành quả phủ xanh thành phố; mặt khác, hành vi săn mồi mạnh mẽ của chúng cũng có thể gây ảnh hưởng đến trứng hoặc chim non của các loài chim nhỏ khác trong công viên, đòi hỏi cần phải tiếp tục quan sát và đánh giá [^19].
 
-## Tình trạng bảo tồn và thách thức tiềm ẩn: Chiến tranh bảo vệ gen và biến đổi khí hậu
+## Tình trạng bảo tồn và các mối đe dọa tiềm ẩn: Cuộc chiến bảo vệ sự thuần khiết về di truyền và thách thức từ biến đổi khí hậu
 
-Hiện nay, bướm xanh Đài Loan được xếp hạng **Least Concern (LC)** trong Danh sách Đỏ Các loài có nguy cơ tiêu diệt của Liên Hợp Quốc (IUCN), tức là "không có nguy cơ" [^20]. Trong khi đó, chính phủ Đài Loan phân loại chúng là **"loài khác cần được bảo vệ"** cấp ba, chủ yếu do vị trí là loài đặc sản, chứ không phải do quần đội đang gặp khủng hoảng ngay lập tức [^21]. Thực tế, trong những năm gần đây, quần đội bướm xanh Đài Loan ổn định, thậm chí có xu hướng tăng tại các khu vực thấp và thành phố [^19].
+Hiện tại, loài Khướu xanh Đài Loan được Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN) xếp vào nhóm **Ít lo ngại (Least Concern - LC)** [^20]. Trong khi đó, các cơ quan chính quyền Đài Loan xếp loài này vào danh mục **"Động vật hoang dã khác cần được bảo vệ" cấp độ III**, chủ yếu dựa trên vị thế là loài đặc hữu của Đài Loan chứ không phải do số lượng quần thể đang đối mặt với nguy cơ diệt vong tức thời [^21]. Trên thực tế, số lượng quần thể Khướu xanh Đài Loan trong những năm gần đây vẫn duy trì ổn định, thậm chí còn có xu hướng gia tăng tại các khu vực đô thị và vùng thấp hơn về độ cao [^19].
 
-Tuy nhiên, vị trí bảo tồn của chúng cũng gây tranh cãi đa chiều. Một số quan điểm cho rằng BirdLife International xếp hạng chúng là "không cần hành động bảo vệ (LC)", trong khi Đài Loan xếp là bảo vệ chủ yếu do "loài đặc sản". Lý do này nhấn mạnh, bướm xanh Đài Loan thực sự là loài mạnh mẽ, thậm chí có thể ăn thịt các loài chim nhỏ, không có nguy cơ sinh tồn [^22]. Bao gồm các quan điểm này, sẽ giúp đề tài bảo tồn có sự suy nghĩ sâu sắc hơn.
+Tuy nhiên, địa vị bảo tồn của loài này cũng đang tồn tại nhiều quan điểm tranh luận khác nhau. Có ý kiến cho rằng, việc BirdLife International xếp loài này vào nhóm "không cần thực hiện hành động bảo tồn (LC)", trong khi Đài Loan lại đưa vào danh sách bảo tồn, chủ yếu bắt nguồn từ định nghĩa mang tính nhân tạo về khái niệm "loài đặc hữu". Quan điểm này nhấn mạnh rằng bản thân Khướu xanh Đài Loan là một loài có sức sống mãnh liệt, thậm chí còn săn bắt các loài chim nhỏ khác và không hề gặp khủng hoảng sinh tồn [^22]. Việc đưa vào những góc nhìn đa chiều như vậy giúp các cuộc thảo luận về vấn đề bảo tồn trở nên mang tính phản biện cao hơn.
 
-Dù quần đội ổn định, làm cho bướm xanh Đài Loan vẫn đối mặt với nhiều nguy cơ, trong đó được quan tâm nhất là **chiến tranh bảo vệ gen** và **thách thức từ biến đổi khí hậu**:
+Mặc dù số lượng quần thể ổn định, nhưng với tư cách là một loài đặc hữu của Đài Loan, Khướu xanh Đài Loan vẫn phải đối mặt với nhiều mối đe dọa đa tầng, trong đó đáng chú ý nhất là **cuộc chiến bảo vệ sự thuần khiết về di truyền** và **những tác động tiềm tàng từ biến đổi khí hậu**:
 
-1.  **Sự phá hủy và tinh fragmentation của môi trường sống**: Các khu rừng nguyen sinh thấp và trung bị phá hoại và xâm dựng nhà ở, vẫn là nguy cơ lâu dài nhất đối với quần đội bướm xanh Đài Loan [^23].
-2.  **Cạnh tranh và qua đội bằng các loài ngoại lai**: Bướm xanh đỏ môi (Urocissa erythroryncha) từ đầu thập niên 2000 do người thả rảnh hoặc rơi xuống vào Đài Loan. Do mối quan hệ gen gần nhau, hai loài này vẫn có thể qua đội sinh sản, gây ô nhiễm gen dưới dạng thế hệ con, từ đó mất đi tính riêng của bướm xanh Đài Loan [^24]. Mặc dù hiện tại bướm xanh đỏ môi chưa xây dựng quần đội ổn định trên Đài Loan, qua đội vẫn là những trường hợp hiếm gặp, nhưng vẫn là điểm cần theo dõi lâu dài. Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc sản (TESRI) từng thực hiện các biện pháp như trong giai đoạn sinh sản, gỡ bỏ các tổ và trứng của bướm xanh đỏ môi để kiểm soát sinh sản [^25]. Giữa năm 2007-2008, Bộ Lâm nghiên cứu đã thành công trong việc gỡ bỏ bướm xanh đỏ môi tại các khu vực như Wuling, thể hiện quyết tâm bảo vệ tính nguyên tính của gen bản địa [^26].
-3.  **Can thiệp nhân tạo**: Trong quá khứ, do vẻ đẹp của chúng đã bị săn bắt, độ nổi tiếng được nâng cao. Các du khách hoặc nhà văn hóa trong giai đoạn sinh sản, việc tiếp xúc quá mức động vật, cũng như va chạm với xe hơi, đã ảnh hưởng đến bướm xanh Đài Loan [^27]. Theo Luật Bảo vệ Động vật Hoang dã, việc gỡ bỏ tổ hoặc chim cháu của bướm xanh Đài Loan, hoặc tấn công trực tiếp chim, nếu có hành vi xâm phạm, bắt giữ hay giết hại động vật được bảo vệ, sẽ bị xử phạt **tối đa 5 năm tù giam, kèm phạt tiền không quá 100 triệu đồng** [^28].
-4.  **Ảnh hưởng tiềm ẩn của biến đổi khí hậu và khoảng trống nghiên cứu**: Hiện tại, thực sự thiếu hụt các nghiên cứu lâu dài, chuyên ngành về ảnh hưởng của biến đổi khí hậu đối với bướm xanh Đài Loan (bao gồm di cư về độ cao, thay đổi thời gian sinh sản). Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc sản cũng chỉ ra, chưa phát hiện bướm xanh Đài Loan có xu hướng di cư về độ cao rõ rệt [^29]. Tuy nhiên, "khoảng trống nghiên cứu" này chính là một thông tin quan trọng đối với tương lai. Các nghiên cứu toàn cầu xác nhận, biến đổi khí hậu đang thúc đẩy các quần đội chim hướng về phía hai châu hoặc độ cao cao hơn, đồng thời ảnh hưởng đến thời gian sinh sản và đồng bộ sinh học. Một số nghiên cứu khác cũng chỉ ra, tốc độ của sinh học (pace of life) và khả năng thích ứng với biến đổi môi trường của các loài chim có liên quan, và tốc độ thay đổi khí hậu có thể đã vượt quá tốc độ thích ứng tiến hóa của nhiều loài chim [^30]. Bướm xanh Đài Loan chủ yếu sinh sống ở độ cao thấp (thông thường dưới 1000 mét), và quần đội tăng tại các khu vực thấp và thành phố, điều này khác với nhiều loài đặc sản cao nguyên dễ bị tổn thương. Dù vậy, khám phá khả năng dễ bị tổn thương của loài có lợi thế độ cao thấp trong tương lai các kịch bản khí hậu, và kêu gọi đầu tư vào các nghiên cứu liên quan, vẫn là hướng đi quan trọng cho công việc bảo tồn trong tương lai.
+1.  **Phá hủy và phân mảnh môi trường sống**: Việc khai thác và can thiệp của con người vào các khu rừng lá rộng ở độ cao trung bình và thấp vẫn là mối đe dọa căn bản nhất đối với quần thể Khướu xanh Đài Loan trong thời gian dài [^23].
+2.  **Cạnh tranh từ loài ngoại lai và lai tạp**: Loài Khướu xanh mỏ đỏ (_Urocissa erythroryncha_) đã xâm nhập vào các khu rừng tại Đài Loan từ đầu những năm 2000 do con người bỏ rơi hoặc để chúng thoát ra ngoài. Do hai loài có quan hệ họ hàng rất gần gũi, chúng vẫn có thể lai tạp và sinh sản; thế hệ con lai sẽ gây ô nhiễm kho tàng di truyền của Khướu xanh Đài Loan, từ đó làm mất đi tính đặc hữu của loài [^24]. Mặc dù hiện tại Khướu xanh mỏ đỏ chưa hình thành nên các quần thể lớn ổn định tại Đài Loan và các trường hợp lai tạp đa phần chỉ là lẻ tẻ, nhưng đây vẫn là trọng tâm cần giám sát lâu dài. Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu (TESRI) đã thực hiện các biện pháp đối phó, chẳng hạn như loại bỏ tổ và trứng của Khướu xanh mỏ đỏ trong mùa sinh sản để kiểm soát sự phát triển của chúng [^25]. Trong giai đoạn 2007-2008, Cục Lâm nghiệp từng loại bỏ thành công Khướu xanh mỏ đỏ tại các khu vực như Wuling (Vũ Lăng), thể hiện quyết tâm bảo vệ sự thuần khiết của nguồn gen bản địa [^26].
+3.  **Can thiệp của con người**: Trước đây, loài này từng bị săn bắt vì ngoại hình đẹp, và tình trạng này có lúc gia tăng sau khi độ nhận diện của chúng được nâng cao. Sự tiếp cận quá mức của du khách hoặc nhiếp ảnh gia trong mùa sinh sản, cũng như các vụ tai nạn do va chạm với phương tiện giao thông (roadkill), cũng gây ảnh hưởng đến loài [^27]. Theo 《Luật Bảo tồn Động vật Hoang dã》, hành vi tự ý di dời tổ hoặc chim non, hoặc trực tiếp tấn công chim, nếu liên quan đến các hành vi quấy rối, ngược đãi, săn bắt hay giết mổ, có thể bị phạt tù **tối đa 5 năm và phạt tiền lên tới NT$1 triệu** [^28].
+4.  **Tác động tiềm tàng của biến đổi khí hậu và lỗ hổng nghiên cứu**: Hiện tại thực sự đang thiếu các nghiên cứu chuyên sâu và dài hạn về tác động của biến đổi khí hậu đối với Khướu xanh Đài Loan (bao gồm sự di cư theo độ cao, thay đổi thời điểm sinh sản, v.v.). Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu cũng chỉ ra rằng vẫn chưa phát hiện thấy tình trạng di cư rõ rệt theo độ cao của loài này [^29]. Tuy nhiên, chính "khoảng trống nghiên cứu" này lại là một thông tin cực kỳ quan trọng. Các nghiên cứu toàn cầu đã chứng minh rộng rãi rằng biến đổi khí hậu đang thúc đẩy các quần thể chim mở rộng phạm vi về phía hai cực hoặc lên các vùng cao hơn, đồng thời ảnh hưởng đến thời gian sinh sản và tính đồng bộ của các hiện tượng sinh học. Một số nghiên cứu còn chỉ ra rằng nhịp độ đời sống (pace of life) của loài chim liên quan chặt chẽ đến khả năng thích nghi với sự biến đổi môi trường, trong khi tốc độ biến đổi khí tượng có thể đã vượt quá tốc độ tiến hóa và thích nghi của đa số các loài chim [^30]. Khướu xanh Đài Loan chủ yếu phân bố ở độ cao trung bình và thấp (thường dưới 1.000 mét), và quần thể đang có xu hướng mở rộng sang các vùng đô thị và không gian xanh ở độ cao thấp, điều này khác với tính dễ bị tổn thương của nhiều loài đặc hữu ở vùng cao. Mặc dù vậy, việc tìm hiểu về mức độ dễ bị tổn thương tiềm tàng của một loài có lợi thế ở vùng thấp như thế này trong các kịch bản khí hậu tương lai, đồng thời kêu gọi đầu tư vào các nghiên cứu liên quan, vẫn là hướng đi quan trọng cho công tác bảo tồn trong tương lai.
 
-📝 **Ghi chú của người dẫn chương:** Bảo vệ bướm xanh Đài Loan, đồng thời là bảo vệ một câu chuyện di truyền đã tồn tại qua hàng ngàn năm, cùng với bộ nhớ văn hóa mà nó mang chứa. Đây là công việc kéo dài ra thế kỷ, bao gồm sinh thái, bản sắc văn hóa và nghiên cứu cơ bản.
+📝 **Ghi chú của người biên soạn:** Bảo vệ Khướu xanh Đài Loan cũng chính là đang bảo vệ một lịch sử di truyền độc đáo đã tiến hóa qua hàng trăm nghìn năm, cùng với những ký ức văn hóa mà nó mang theo. Đây là một công việc dài hạn xuyên suốt các lĩnh vực sinh thái, bản sắc văn hóa và nghiên cứu cơ bản.
 
-## Khoa học công dân và tầm nhìn tương lai: Xây dựng hòa hợp giữa người và chim
+## Khoa học công dân và triển vọng tương lai: Cùng xây dựng sự hòa hợp giữa con người và chim muông
 
-Công tác bảo tồn và nghiên cứu bướm xanh Đài Loan đang hướng đến các phương diện tham gia và tiên phong hơn. Gần đây, một số nhóm nghiên cứu đã khởi động dự án "Khảo sát toàn bộ bướm xanh Đài Loan tại Bắc Kinh" bằng cách sử dụng báo cáo từ người dân, tích lũy các dấu vết và ghi chép về việc xây dựng tổ tại khu vực Hà Nội, Thành phố Bắc Kinh, nhằm nghiên cứu tác động của sự đô thị hóa đến việc chọn môi trường sinh sản, hành vi và tỷ lệ thành công của chúng [^31]. Dự án này vẫn đang được triển khai, thể hiện tính động và sự tham gia của cộng đồng trong công tác bảo tồn. Nhóm nghiên cứu còn lên kế hoạch lắp đặt camera quay tại các tổ chim trong giai đoạn 2026-2028 để quan sát hành vi nuôi con một cách chi tiết hơn [^32].
+Công tác bảo tồn và nghiên cứu loài Khướu xanh Đài Loan đang phát triển theo hướng mang tính tham gia cao hơn và có tầm nhìn xa hơn. Gần đây, một nhóm nghiên cứu đã khởi xướng dự án khoa học công dân mang tên "Cuộc truy tìm Khướu xanh phương Bắc", nhằm mục đích thông qua các báo cáo từ cộng đồng để liên tục tích lũy dấu vết và hồ sơ làm tổ của loài khướu xanh tại khu vực Đài Bắc và Tân Bắc, từ đó nghiên cứu ảnh hưởng của quá trình đô thị hóa đối với việc lựa chọn môi trường sinh sản, hành vi và tỷ lệ thành công của chúng [^31]. Nghiên cứu vẫn đang trong quá trình thực hiện này cho thấy tính năng động và sự tham gia của công chúng trong các nỗ lực bảo tồn. Nhóm nghiên cứu còn lập kế hoạch lắp đặt camera tại các tổ chim trong giai đoạn 2026-2028 để quan sát chi tiết hơn các hành vi nuôi con [^32].
 
-Trong góc độ pháp lý, Bộ Nông nghiệp và Bảo vệ Thiên nhiên đã giao phó thiết kế đề án sửa đổi Luật Bảo vệ Động vật Hoang dã vào tháng 1/2026, với tinh thần có thể chuyển từ "ưu tiên bảo vệ" sang tập trung vào việc "tận dụng bền vững" các loài động vật hoang dã [^33]. Xu hướng này có thể ảnh hưởng sâu sắc đến chiến lược bảo tồn trong tương lai, nhấn mạnh việc tìm kiếm điểm cân bằng giữa bảo vệ và đồng thời sống hòa hợp với động vật hoang dã.
+Về mặt pháp lý, Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp đã ủy thác soạn thảo dự thảo sửa đổi 《Luật Bảo tồn Động vật Hoang dã》 vào tháng 1 năm 2026. Tinh thần lập pháp này có thể chuyển dịch từ "ưu tiên bảo tồn" trước đây sang chú trọng hơn vào việc "sử dụng bền vững" động vật hoang dã [^33]. Xu hướng này có thể gây ra ảnh hưởng sâu rộng đến các chiến lược bảo tồn trong tương lai, nhấn mạnh việc tìm kiếm điểm cân bằng để con người và động vật hoang dã cùng chung sống hòa hợp song song với việc bảo vệ chúng.
 
-Hình ảnh của bướm xanh Đài Loan vẫn xuất hiện thường xuyên trong các trường hợp công cộng và các hoạt động chủ đề, không kể tại cuộc tuyển chọn chim quốc gia năm 2007, chúng là một biểu tượng phổ biến trong ký ức tập thể của xã hội Đài Loan.
+Sự hiện diện văn hóa của loài Khướu xanh Đài Loan cũng không ngừng duy trì sức hút. Ngoài cuộc bình chọn quốc điểu vào năm 2007, hình ảnh của loài này vẫn liên tục xuất hiện trong các sự kiện công cộng và chủ đề hoạt động khác nhau, trở thành một trong những biểu tượng phổ biến trong ký ức tập thể của xã hội Đài Loan.
 
 ---
 
-### Dữ liệu và kiểm chứng
+### Dữ liệu và kiểm chứng thực tế
 
-| Mục                 | Dữ liệu/Mô tả                                                                  | Ghi chú                                                                                                       |
-| :------------------ | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| **Tính đặc sản**    | 100% là loài đặc sản của Đài Loan                                              | Liên quan sinh học với bướm xanh đỏ môi, bướm xanh hồng đỏ [^35]                                              |
-| **Kích thước**      | Dài 64-68 cm                                                                   | Đuôi khoảng 34-42 cm, chiếm hai phần ba chiều dài cơ thể [^36]                                                |
-| **Cấu trúc xã hội** | Nhóm gia đình 3-12 con, 97% có người giúp việc                                 | Thực hiện hệ thống trợ giúp tại nẻo gà, sinh sản đôi một, mối quan hệ đối tác ổn định [^6]                    |
-| **Mức độ bảo vệ**   | IUCN: Least Concern (LC)；Đài Loan: cấp ba cần bảo vệ                          | Quần đội ổn định, chủ yếu do vị trí là loài đặc sản tại thời điểm không cấp bách [^20] [^21]                  |
-| **Thực đơn**        | Ăn thịt đa dạng                                                                | Bao gồm côn trùng, động vật có xương cổ, trái cây, rác thực phẩm, có hành vi bảo quản thực phẩm [^17] [^18]   |
-| **Môi trường sống** | Rừng nguyen sinh thấp và trung, gần đây xuất hiện trong khu vực xanh thành phố | Thường xuất hiện tại Yushan, Công viên Lâm thành phố Hồ Chí Minh như các địa điểm khác [^16]                  |
-| **Phạt tiền**       | Tối đa 5 năm tù giam, kèm phạt tiền không quá 100 triệu đồng                   | Theo Luật Bảo vệ Động vật Hoang dã đối với hành vi xâm phạm, bắt giữ hoặc giết hại các loài được bảo vệ [^28] |
+| Mục                   | Dữ liệu/Mô tả                                                                                         | Ghi chú                                                                                                         |
+| :-------------------- | :---------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| **Tính đặc hữu**      | 100% loài đặc hữu của Đài Loan                                                                        | Có quan hệ họ hàng gần với Khướu xanh mỏ đỏ và Khướu xanh mỏ vàng về mặt tiến hóa [^35]                         |
+| **Kích thước**        | Chiều dài cơ thể 64-68 cm                                                                             | Lông đuôi khoảng 34-42 cm, chiếm 2/3 toàn thân [^36]                                                            |
+| **Cấu trúc xã hội**   | Nhóm gia đình từ 3-12 con, 97% nhóm có người giúp đỡ                                                  | Áp dụng "chế độ trợ giúp quanh tổ" để hợp tác nuôi con; chế độ một vợ một chồng, quan hệ bạn đời ổn định [^6]   |
+| **Cấp độ bảo tồn**    | IUCN: Ít lo ngại (LC); Đài Loan: Cần được bảo vệ cấp độ III                                           | Quần thể ổn định, chủ yếu được bảo vệ do vị thế là loài đặc hữu [^20] [^21]                                     |
+| **Tập tính ăn**       | Ăn tạp                                                                                                | Bao gồm côn trùng, động vật có xương sống, trái cây, thức ăn thừa; có hành vi dự trữ thức ăn [^17] [^18]        |
+| **Môi trường sống**   | Rừng lá rộng ở độ cao trung bình và thấp, những năm gần đây đã lan rộng ra các không gian xanh đô thị | Thường thấy ở Dương Minh Sơn, Công viên rừng Đại An, v.v. [^16]                                                 |
+| **Hình phạt pháp lý** | Tối đa 5 năm tù giam, kèm phạt tiền lên tới NT$1 triệu                                                | Theo 《Luật Bảo tồn Động vật Hoang dã》 đối với hành vi quấy rối hoặc săn bắt động vật thuộc diện bảo tồn [^28] |
 
-### Các nguồn tham khảo / Sources
+### Tham khảo / Sources
 
-[^1]: [iNaturalist：台灣藍鵲指南](https://www.inaturalist.org/guide_taxa/1125250) — Ghi lại quá trình Swinhoe phát hiện bướm xanh Đài Loan và trích dẫn lời.
+[^1]: [iNaturalist: Hướng dẫn về loài Khướu xanh Đài Loan](https://www.inaturalist.org/guide_taxa/1125250) — Ghi chép chi tiết quá trình lịch sử phát hiện ra loài Khướu xanh và các trích dẫn liên quan.
 
-[^2]: [The Ornithology of Formosa, or Taiwan — Swinhoe 1863, Ibis (BHL)](https://www.biodiversitylibrary.org/page/14591720) — Bài công bố khoa học đầu tiên của Swinhoe về các loài chim Đài Loan, bao gồm bối cảnh lưu thông mẫu mẫu và đặt tên cho bướm xanh.
+[^2]: [The Ornithology of Formosa, or Taiwan — Swinhoe 1863, Ibis (BHL)](https://www.biodiversitylibrary.org/page/14591720) — Công bố khoa học nguyên bản của Swinhoe về các loài chim tại Đài Loan, bao gồm bối cảnh lưu thông mẫu vật và nguồn gốc đặt tên chi Khướu xanh.
 
-[^3]: [董天工《臺海見聞錄》— 維基文庫](https://zh.wikisource.org/wiki/%E8%87%BA%E6%B5%B7%E8%A6%8B%E8%81%9E%E9%8C%84) — Văn học thời phong kiến của thế kỷ 18 mô tả chi tiết vẻ đẹp của bướm xanh Đài Loan.
+[^3]: [Đổng Thiên Công, 《Đài Hải Kiến Văn Lục》 — Wikisource](https://zh.wikisource.org/wiki/%E8%87%BA%E6%B5%B7%E8%A6%8B%E8%81%9E%E9%8C%84) — Những ghi chép sinh động thời kỳ đầu về ngoại hình của loài Khướu xanh Đài Loan trong văn kiện nhà Thanh thế kỷ 18.
 
-[^4]: [連雅堂《臺灣通史》— 維基文庫](https://zh.wikisource.org/wiki/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2) — Truyền đề của Li Ya-hang mô tả bướm xanh Đài Loan như "bướm xanh nữa" với ánh sáng rực rỡ dưới nắng.
+[^4]: [Liên Nhã Đường, 《Đài Loan Thông Sử》 — Wikisource](https://zh.wikisource.org/wiki/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2) — Quyển 28, Ngu Hành Chí mô tả Khướu xanh Đài Loan là "Trường Vĩ Sơn Nương" (người phụ nữ núi đuôi dài).
 
-[^5]: [Measuring and modeling the inconspicuous iridescence of Formosan blue magpie's feather — Applied Optics 2015](https://opg.optica.org/ao/abstract.cfm?URI=ao-54-16-4979) — Lin & Tian nghiên cứu cấu trúc nano của lông bướm xanh Đài Loan và độ phản quang.
+[^5]: [Measuring and modeling the inconspicuous iridescence of Formosan blue magpie's feather — Applied Optics 2015](https://opg.optica.org/ao/abstract.cfm?URI=ao-54-16-4979) — Nghiên cứu của Lin & Tian về phép đo quang học cấu trúc nano tạo màu trên lông của loài Khướu xanh Đài Loan (54(16): 4979-4985).
 
-[^5b]: [Evolution of brilliant iridescent feather nanostructures — eLife 2021](https://elifesciences.org/articles/71179) — Nghiên cứu so sánh cấu trúc nano của lông các loài chim, bao gồm bướm xanh Đài Loan (10:e71179).
+[^5b]: [Evolution of brilliant iridescent feather nanostructures — eLife 2021](https://elifesciences.org/articles/71179) — Nghiên cứu so sánh sự tiến hóa cấu trúc nano lông vũ giữa các loài của Eliason và cộng sự, bao gồm mẫu vật Khướu xanh Đài Loan (10:e71179).
 
-[^6]: [臺灣藍鵲繁殖生物學之研究 — 國立台灣大學碩士論文（NDLTD）](https://hdl.handle.net/11296/c5d33u) — Nghiên cứu của Xu Jing-zhen (徐景彥) năm 2007, xác nhận 97% nhóm có người giúp việc và dữ liệu sinh sản.
+[^6]: [Nghiên cứu về sinh học sinh sản của loài Khướu xanh Đài Loan — Luận văn Thạc sĩ Đại học Quốc gia Đài Loan (NDLTD)](https://hdl.handle.net/11296/c5d33u) — Nghiên cứu năm 2007 của Từ Cảnh Ngạn, xác nhận 97% quần thể có chế độ hỗ trợ và cung cấp các dữ liệu về sinh học sinh sản.
 
-[^7]: [2023 臺灣國際科學展覽會優勝作品專輯](https://twsf.ntsec.gov.tw/activity/race-2/2023/pdf/TISF2023-050007.pdf) — Nghiên cứu của các sinh viên về hành vi sinh sản hợp tác của bướm xanh Đài Loan, bao gồm vai trò của người giúp việc.
+[^7]: [Tuyển tập tác phẩm đoạt giải Triển lãm Khoa học Quốc tế Đài Loan 2023](https://twsf.ntsec.gov.tw/activity/race-2/2023/pdf/TISF2023-050007.pdf) — Nghiên cứu của học sinh về hành vi sinh sản hợp tác của loài Khướu xanh Đài Loan, có đề cập đến vai trò của những cá thể hỗ trợ.
 
-[^8]: [Helping and Communal Breeding in Birds — Princeton University Press 1987](https://press.princeton.edu/books/paperback/9780691084473/helping-and-communal-breeding-in-birds) — Các tác giả Brown về lý thuyết sinh sản hợp tác và chọn gen trong các loài chim.
+[^8]: [Helping and Communal Breeding in Birds — Princeton University Press 1987](https://press.princeton.edu/books/paperback/9780691084473/helping-and-communal-breeding-in-birds) — Công trình nền tảng của Brown về lý thuyết sinh sản hợp tác và lựa chọn thân tộc ở các loài chim.
 
-[^9]: [陽明山國家公園研究計畫資料庫](https://www.ymsnp.gov.tw/main_ch/docDetail.aspx?uid=2024&pid=84&docid=14373) — Báo cáo của Liu Xiao-ru (劉小如) năm 2000 về vùng lãnh thổ của bướm xanh Đài Loan (48-54 km²).
+[^9]: [Cơ sở dữ liệu dự án nghiên cứu Công viên Quốc gia Dương Minh Sơn](https://www.ymsnp.gov.tw/main_ch/docDetail.aspx?uid=2024&pid=84&docid=14373) — Các báo cáo thuộc loạt nghiên cứu "Nghiên cứu về sinh sản hợp tác của Khướu xanh Đài Loan trong Công viên Quốc gia Dương Minh Sơn" năm 2000 của Lưu Tiểu Như, cung cấp các dữ liệu như diện tích lãnh thổ (48-54 ha).
 
-[^10]: [台北市動物保護處：藍鵲護巢期請注意](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B) — Cơ quan Bảo vệ Động vật thành phố Hồ Chí Minh cảnh báo vụ xung đột giữa người và chim trong giai đoạn sinh sản hàng năm.
+[^10]: [Cục Bảo vệ Động vật Thành phố Đài Bắc: Xin lưu ý trong mùa Khướu xanh bảo vệ tổ](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B) — Các cảnh báo về xung đột giữa người và chim do Cục Bảo vệ Động vật Thành phố Đài Bắc phát hành hàng năm vào mùa sinh sản.
 
-[^11]: [台北市動物保護處：藍鵲護巢期請注意](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B) — Hướng dẫn chính thức của cơ quan đối với người dân.
+[^11]: [Cục Bảo vệ Động vật Thành phố Đài Bắc: Xin lưu ý trong mùa Khướu xanh bảo vệ tổ](https://www.tcapo.gov.taipei/News_Content.aspx?n=8379633214736340&sms=87401C0B0703816E&s=21146F276536070B) — Những nhắc nhở và kiến nghị chính thức dành cho người dân.
 
-[^12]: [台灣猛禽研究會：台灣藍鵲面臨的威脅](https://www.raptor.org.tw/news_detail.php?id=123) — Quan sát về cách cắt tỉa cây trong thành phố và tác động đến bướm xanh Đài Loan.
+[^12]: [Hiệp hội Nghiên cứu Chim săn mồi Đài Loan: Những mối đe dọa đối với loài Khướu xanh Đài Loan](https://www.raptor.org.tw/news_detail.php?id=123) — Bao gồm các quan sát về việc cắt tỉa cây xanh đô thị và tình trạng chim non rơi xuống đất.
 
-[^13]: [2023 臺灣國際科學展覽會優勝作品專輯](https://twsf.ntsec.gov.tw/activity/race-2/2023/pdf/TISF2023-050007.pdf) — Các sinh viên nghiên cứu đề xuất khoảng cách an toàn 54.4 mét và 7.1 mét với tổ chim.
+[^13]: [Tuyển tập tác phẩm đoạt giải Triển lãm Khoa học Quốc tế Đài Loan 2023](https://twsf.ntsec.gov.tw/activity/race-2/2023/pdf/TISF2023-050007.pdf) — Nghiên cứu trong cuộc thi khoa học của học sinh, đề xuất khoảng cách an toàn cụ thể là 54,4 mét so với Khướu xanh và 7,1 mét so với tổ chim (cùng nguồn với [^7]).
 
-[^14]: [國語日報：鄒族神鳥：臺灣藍鵲](https://www.mdnkids.com/news/?Serial_NO=107255) — Mô tả chi tiết truyền thuyết Tư Sú về bướm xanh Đài Loan làm người lấy lửa.
+[^14]: [Guoyu Daily: Thần điểu của người Tsou: Khướu xanh Đài Loan](https://www.mdnkids.com/news/?Serial_NO=107255) — Mô tả chi tiết về truyền thuyết anh hùng lấy lửa của dân tộc Tsou.
 
-[^15]: [台灣原住民族神話與傳說—國家圖書館目錄](https://aleweb.ncl.edu.tw/F?func=find-b&request=%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E7%A5%9E%E8%A9%B1%E8%88%87%E5%82%B3%E8%AA%AA&find_code=WTI) — So sánh truyền thuyết Tư Sú và Bún Nông về vai trò của chim thần.
+[^15]: [Thần thoại và truyền thuyết của các dân tộc bản địa Đài Loan — Danh mục Thư viện Quốc gia](https://aleweb.ncl.edu.tw/F?func=find-b&request=%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E7%A5%9E%E8%A9%B1%E8%88%87%E5%82%B3%E8%AA%AA&find_code=WTI) — Công trình chuyên khảo phiên bản văn hóa dân gian năm 2003 của Phổ Trung Thành (Pǔ Zhōngchéng), so sánh sự giống và khác nhau về vai trò của loài chim thần trong thần thoại của người Tsou và người Bunun.
 
-[^16]: [國立台灣大學生態學與演化生物學研究所學位論文目錄](https://www.eeb.ntu.edu.tw/) — Nghiên cứu của Zhong Xin-hua (鍾欣樺) năm 2025 về hành vi bướm xanh Đài Loan trong môi trường thành phố.
+[^16]: [Danh mục luận văn của Viện Sinh thái học và Sinh học Tiến hóa, Đại học Quốc lập Đài Loan](https://www.eeb.ntu.edu.tw/) — Luận văn năm 2025 của Chung Hân Hoa (Zhōng Xīnhuá) với tiêu đề 〈Sự hung hăng cao hơn ở loài Khướu xanh Đài Loan so với Khướu xanh mỏ đỏ trong môi trường đô thị〉, nghiên cứu về hành vi và khả năng thích nghi của loài khướu xanh tại đô thị.
 
-[^17]: [台灣博物館：台灣藍鵲](https://www.ntm.gov.tw/publication_261_985.html) — Giới thiệu chính thức về chế ăn của bướm xanh Đài Loan.
+[^17]: [Bảo tàng Quốc gia Đài Loan: Khướu xanh Đài Loan](https://www.ntm.gov.tw/publication_261_985.html) — Giới thiệu chính thức về tập tính ăn uống của loài Khướu xanh Đài Loan.
 
-[^18]: [Threads：台灣藍鵲的儲食習慣](https://www.threads.com/@mojo71098/post/DFpAEC5pkXf) — Quan sát hành vi bảo quản thực phẩm của bướm xanh Đài Loan.
+[^18]: [Threads: Tập tính dự trữ thức ăn của Khướu xanh Đài Loan](https://www.threads.com/@mojo71098/post/DFpAEC5pkXf) — Quan sát hành vi sử dụng thức ăn làm mồi nhử và hành vi dự trữ của loài khướu xanh.
 
-[^19]: [2024 臺灣國家鳥類報告](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%A8%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf) — Báo cáo mới nhất về xu hướng quần đội chim ở Đài Loan, bao gồm sự tăng của bướm xanh Đài Loan trong khu vực thành phố.
+[^19]: [Báo cáo Quốc gia về các loài chim tại Đài Loan năm 2024](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%A8%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf) — Báo cáo mới nhất về xu hướng quần thể chim tại Đài Loan, đề cập đến sự gia tăng của các quần thể trong đô thị.
 
-[^20]: [IUCN Red List: Urocissa caerulea](https://www.iucnredlist.org/species/22705825/94037944) — Đánh giá của Liên Hợp Quốc về bướm xanh Đài Loan.
+[^20]: [Danh lục đỏ IUCN: Urocissa caerulea](https://www.iucnredlist.org/species/22705825/94037944) — Đánh giá của Liên minh Bảo tồn Thiên nhiên Quốc tế đối với loài Khướu xanh Đài Loan.
 
-[^21]: [農業部林業及自然保育署：保育類野生動物名錄](https://www.forest.gov.tw/) — Xác nhận mức độ bảo vệ của chính phủ Đài Loan.
+[^21]: [Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp: Danh mục động vật hoang dã cần bảo tồn](https://www.forest.gov.tw/) — Xác nhận cấp độ bảo tồn chính thức. Chi tiết xem nội dung trong liên kết gốc.
 
-[^22]: [台灣猛禽研究會：台灣藍鵲面臨的威脅](https://www.raptor.org.tw/news_detail.php?id=123) — Các quan điểm khác nhau về vị trí bảo vệ của bướm xanh Đài Loan.
+[^22]: [Hiệp hội Nghiên cứu Chim săn mồi Đài Loan: Những mối đe dọa đối với Khướu xanh Đài Loan](https://www.raptor.org.tw/news_detail.php?id=123) — Các góc nhìn thảo luận đa dạng về vị thế bảo tồn của loài Khướu xanh Đài Loan, có thể tham khảo các công bố từ các tổ chức nghiên cứu công khai hiện có.
 
-[^23]: [特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111) — Nghiên cứu về tác động của sự phá hoại môi trường sống đến bướm xanh Đài Loan.
+[^23]: [Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu: Khướu xanh Đài Loan](https://www.tesri.gov.tw/content/detail/111) — Đề cập đến tác động của việc phá hủy môi trường sống đối với loài khướu xanh.
 
-[^24]: [經典雜誌：【台灣外來種】紅嘴藍鵲 台灣特有藍鵲的勁敵](https://www.rhythmsmonthly.com/?p=8021) — Phân tích nguy cơ ô nhiễm gen từ bướm xanh đỏ môi.
+[^24]: [Tạp chí Kinh điển: 【Loài ngoại lai tại Đài Loan】 Khướu xanh mỏ đỏ — Đối thủ đáng gờm của loài khướu xanh đặc hữu Đài Loan](https://www.rhythmsmonthly.com/?p=8021) — Thảo luận về mối đe dọa của loài Khướu xanh mỏ đỏ đối với độ thuần chủng di truyền của loài Khướu xanh Đài Loan.
 
-[^25]: [特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111) — Trung tâm TESRI thực hiện các biện pháp kiểm soát bướm xanh đỏ môi.
+[^25]: [Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu: Khướu xanh Đài Loan](https://www.tesri.gov.tw/content/detail/111) — Giải thích tích hợp của Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu về sự xâm nhập của loài Khướu xanh mỏ đỏ và việc bảo tồn loài Khướu xanh Đài Loan.
 
-[^26]: [環境資訊中心：外來種紅嘴藍鵲追緝成功](https://e-info.org.tw/node/34798) — Báo cáo vụ gỡ bỏ bướm xanh đỏ môi thành công năm 2008.
+[^26]: [Trung tâm Thông tin Môi trường: Truy quét thành công loài ngoại lai Khướu xanh mỏ đỏ](https://e-info.org.tw/node/34798) — Ghi chép về trường hợp loại bỏ thành công loài Khướu xanh mỏ đỏ vào năm 2008.
 
-[^27]: [台灣猛禽研究會：台灣藍鵲面臨的威脅](https://www.raptor.org.tw/news_detail.php?id=123) — Những nguy cơ từ can thiệp nhân tạo và va chạm với xe.
+[^27]: [Hiệp hội Nghiên cứu Chim săn mồi Đài Loan: Những mối đe dọa đối với Khướu xanh Đài Loan](https://www.raptor.org.tw/news_detail.php?id=123) — Đề cập đến các mối đe dọa như sự can thiệp của con người và tai nạn giao thông đường bộ.
 
-[^28]: [《野生動物保育法》— 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Điều khoản xử phạt theo Luật Bảo vệ Động vật Hoang dã.
+[^28]: [《Luật Bảo tồn Động vật Hoang dã》 — Cơ sở dữ liệu Pháp luật Toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Các điều khoản pháp lý chính thức về hình phạt đối với hành vi quấy rối, săn bắt động vật thuộc diện cần bảo tồn.
 
-[^29]: [特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111) — Trung tâm chỉ ra thiếu sót về nghiên cứu ảnh hưởng của biến đổi khí hậu.
+[^29]: [Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu: Khướu xanh Đài Loan](https://www.tesri.gov.tw/content/detail/111) — Giải thích chính thức của Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu về sự phân bố và sinh thái của loài Khướu xanh Đài Loan; hiện tại vẫn còn thiếu các nghiên cứu chuyên sâu dài hạn về tác động của biến đổi khí hậu.
 
-[^30]: [Life-history theory and the pace of life history evolution — Phil. Trans. Royal Society B 2010](https://royalsocietypublishing.org/doi/10.1098/rstb.2010.0287) — Ricklefs về tốc độ sinh học và khả năng thích ứng với biến đổi môi trường.
+[^30]: [Lý thuyết lịch sử sự sống và tốc độ tiến hóa của lịch sử sự sống — Phil. Trans. Royal Society B 2010](https://royalsocietypublishing.org/doi/10.1098/rstb.2010.0287) — Luận văn nền tảng của Ricklefs về nhịp độ đời sống (pace of life) của các loài chim và lý thuyết thích nghi với biến đổi môi trường (365: 3863-3872).
 
-[^31]: [中華民國野鳥學會：台灣鳥類報告與公民科學計畫](https://www.bird.org.tw/) — Dự án khảo sát bằng người dân về bướm xanh Đài Loan tại Bắc Kinh.
+[^31]: [Hiệp hội Chim hoang dã Trung Hoa Dân Quốc: Báo cáo các loài chim tại Đài Loan và Dự án Khoa học Công dân](https://www.bird.org.tw/) — Cổng thông tin về các kế hoạch giám sát và báo cáo quan sát chim do Hiệp hội và các nhóm nghiên cứu liên quan thúc đẩy trong thời gian dài.
 
-[^32]: [中華民國野鳥學會：台灣鳥類報告與公民科學計畫](https://www.bird.org.tw/) — Thông tin về việc lắp đặt camera quay tại các tổ chim.
+[^32]: [Hiệp hội Chim hoang dã Trung Hoa Dân Quốc: Báo cáo các loài chim tại Đài Loan và Dự án Khoa học Công dân](https://www.bird.org.tw/) — Như trên, có thể theo dõi việc giám sát vị trí làm tổ và các thông báo nghiên cứu tiếp theo.
 
-[^33]: [農業部林業及自然保育署](https://www.forest.gov.tw/) — Báo cáo về đề án sửa đổi Luật Bảo vệ Động vật Hoang dã.
+[^33]: [Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp](https://www.forest.gov.tw/) — Tiến độ dự thảo sửa đổi của 《Luật Bảo tồn Động vật hoang dã》 và các hướng dẫn chính sách liên quan dựa trên thông cáo báo chí chính thức.
 
-[^34]: [農業部林業及自然保育署](https://www.forest.gov.tw/) — Chính sách và hoạt động liên quan đến bướm xanh Đài Loan làm chim quốc gia.
+[^34]: [Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp](https://www.forest.gov.tw/) — Tài liệu tham khảo về các hoạt động và chính sách coi chim Magpie xanh Đài Loan là biểu tượng văn hóa cấp quốc gia.
 
-[^35]: [Birdsoftheworld.org: Taiwan Blue-Magpie (Urocissa caerulea)](https://birdsoftheworld.org/bow/species/formag1/cur/introduction) — Cơ sở dữ liệu chim quốc tế cung cấp thông tin về quan hệ gen gần nhau.
+[^35]: [Birdsoftheworld.org: Taiwan Blue-Magpie (Urocissa caerulea)](https://birdsoftheworld.org/bow/species/formag1/cur/introduction) — Cơ sở dữ liệu uy tín quốc tế về các loài chim, cung cấp thông tin về các loài họ hàng gần.
 
-[^36]: [行政院農業委員會特有生物研究保育中心：台灣藍鵲](https://www.tesri.gov.tw/content/detail/111) — Dữ liệu về kích thước cơ thể của bướm xanh Đài Loan.
+[^36]: [Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu thuộc Ủy ban Nông nghiệp Hành chính Viện: Chim Magpie xanh Đài Loan](https://www.tesri.gov.tw/content/detail/111) — Cung cấp dữ liệu về kích thước cơ thể của chim Magpie xanh Đài Loan.
