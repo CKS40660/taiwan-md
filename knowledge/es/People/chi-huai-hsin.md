@@ -2,9 +2,7 @@
 title: 'Chi Huai-hsin: el taiwanés que enseñó a la IA a "pensar paso a paso" y llevó la psicología cognitiva a las máquinas'
 description: 'Chi Huai-hsin es vicepresidente de investigación en Google DeepMind y coautor del artículo sobre cadena de pensamiento que enseñó a la IA a "razonar paso a paso". Este taiwanés criado en Tamsui convirtió una idea de la psicología cognitiva sobre "cómo aprenden las personas" -la teoría de los esquemas de Piaget- en un método para enseñar a las máquinas a razonar. Y ese avance que transformó la IA costó apenas unos cinco mil dólares, porque nunca fue un problema que pudiera resolverse con poder de cómputo.'
 date: 2026-06-27
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'Personas',
@@ -17,9 +15,13 @@ tags:
     'psicología cognitiva',
     'Tamsui',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-27
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/紀懷新.md'
+image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
   - id: 152
     platform: 'threads'
@@ -29,12 +31,12 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-27'
     url: 'https://x.com/taiwandotmd/status/2070809073143144717'
+relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de8'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-06-28T00:38:05+08:00'
-image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:06:54.852817+00:00'
 ---
 
 Cuando el mundo entero perseguía la IA con cientos de millones de dólares en poder de cómputo, hubo un artículo que cambió la forma en que las máquinas razonan. Costó aproximadamente cinco mil dólares.
@@ -110,33 +112,34 @@ Su principal investigación en Palo Alto se llamó "forrajeo de información" (i
 Fuente: páginas de Wikipedia de los académicos mencionados, arXiv 2201.11903
 ```
 
-## No más datos, sino más parecido a las personas
+## No es más información, es ser más humano
 
-En 2011 dejó Palo Alto y se fue a Google. La razón fue muy concreta: "No basta con hacer investigación; también hay que hacer cosas aplicadas". Tenía muy presente el modelo de Xerox, que hacía investigación básica muy profunda pero no lograba convertirla en productos.
+En 2011, dejó Palo Alto para irse a Google. El motivo era muy pragmático: «No basta con hacer investigación; también hay que hacer cosas aplicables». Él veía claramente el patrón de «hacer investigación básica muy profunda, pero sin lograr convertirla en un producto».
 
-En Google trabajó primero en análisis de datos de la web; entre 2015 y 2017 lideró el equipo que reconstruyó el sistema de recomendación neuronal de YouTube; en 2017 se convirtió en científico principal de Google Brain, al frente de un equipo de setenta personas; en 2021 ascendió a científico distinguido, con un equipo de ciento veinte; y más tarde se convirtió en vicepresidente de investigación en DeepMind.[^6] Detrás de esa serie de cargos, en realidad, se extiende el mismo gen metodológico: el forrajeo de información es un modelo de "cómo buscan cosas las personas"; los sistemas de recomendación son un modelo de "qué quieren ver las personas"; y, en la cadena de pensamiento, eso se convierte en un modelo de "cómo razonan las personas". Desde la cognición humana, todo avanza hacia las máquinas.
+En Google, empezó trabajando en análisis de datos web. Entre 2015 y 2017, lideró al equipo que reconstruyó el sistema de recomendación basado en redes neuronales de YouTube. En 2017, se convirtió en científico principal de Google Brain, dirigiendo un equipo de setenta personas; en 2021, ascendió a científico distinguido, liderando a ciento veinte, para finalmente convertirse en vicepresidente de investigación de DeepMind[^6]. Detrás de esta sucesión de cargos, en realidad se extiende el mismo gen metodológico: la búsqueda de información es el modelo de «cómo busca las cosas un humano»; los sistemas de recomendación son el modelo de «qué quiere ver un humano»; y al llegar a la cadena de pensamiento (Chain of Thought), se convierte en el modelo de «cómo razona un humano». Un camino que va desde la cognición humana hasta la máquina.
 
-El giro de la cadena de pensamiento nació de una insatisfacción suya con el aprendizaje automático dominante en aquel momento. "¿Por qué hay que usar tantos datos para que esta máquina pueda realmente aprender?" Empezó a preguntarse si "se podría usar un método de psicología cognitiva para enseñar a la máquina a aprender".[^7]
+El punto de inflexión de la cadena de pensamiento surgió de su insatisfacción con el aprendizaje automático convencional de aquel entonces. «¿Por qué esta máquina necesita tantos datos para poder aprender de verdad?», empezó a preguntarse. «¿Podríamos usar métodos de la psicología cognitiva para enseñar a las máquinas a aprender?»[^7]
 
-Así volvió a aquel concepto. "Esta idea, de hecho, viene de una idea surgida en los años sesenta y setenta, llamada teoría de los esquemas. Básicamente significa que, si una persona puede usar una plantilla (template) para resolver un problema, quizás también podamos usar ese método para enseñar a una máquina a aprender. Por eso la cadena de pensamiento, de hecho, empezó justo a partir de esa idea". Cuando el entrevistador le preguntó si se refería al esquema de Piaget, respondió: "Sí, exactamente, la idea del esquema de Piaget. Eso, de hecho, lo aprendí cuando estaba en secundaria y en la universidad, porque ayudaba a mi madre a escribir su tesis doctoral en psicología educativa; después, poco a poco, esas cosas se fueron conectando".[^8]
+Así que regresó a aquel concepto. «Esta idea surgió, de hecho, en los años 60 y 70; se llama teoría de los esquemas. Básicamente significa que, si una persona puede usar una plantilla (_template_) para resolver un problema, tal vez también podamos usar ese método para enseñar a las máquinas a aprender. Así que la cadena de pensamiento es, en realidad, el comienzo de esta idea». Cuando el entrevistador le preguntó si se refería a los esquemas de Piaget, respondió: «Sí, es la idea de los esquemas de Piaget. En realidad, aprendí eso cuando estaba en la secundaria y la universidad, ayudando a mi madre con su tesis doctoral sobre psicología educativa; así que, poco a poco, todas estas cosas se fueron conectando»[^8].
 
-La semilla sobre el escritorio había germinado.
+La semilla sobre el escritorio germinó.
 
-![Figura 1 del artículo sobre cadena de pensamiento: a la izquierda, el prompt estándar responde mal; a la derecha, el prompt con cadena de pensamiento escribe primero los pasos de razonamiento (marcados en azul) y luego da la respuesta correcta](/article-images/people/chain-of-thought-figure1.webp)
+![Artículo de Chain of Thought Figura 1: A la izquierda, un *prompt* estándar da una respuesta incorrecta; a la derecha, el *prompt* de cadena de pensamiento muestra primero los pasos del razonamiento (resaltado en azul) y luego la respuesta correcta](/article-images/people/chain-of-thought-figure1.webp)
 
-_La imagen más famosa del artículo sobre cadena de pensamiento: a la izquierda, cuando se pregunta de forma normal, el modelo se equivoca; a la derecha, basta con añadir en el ejemplo un tramo de razonamiento (la parte en azul) para que el modelo responda correctamente. La diferencia no está en el poder de cómputo, sino en si se "escriben las ideas paso a paso". Imagen de Wei et al., 2022._
+_La imagen más famosa del artículo sobre Chain of Thought: a la izquierda, se hace una pregunta de forma convencional y el modelo falla; a la derecha, simplemente se añade un proceso de razonamiento en el ejemplo (el fragmento en azul) y el modelo acierta. La diferencia no radica en la capacidad de cómputo, sino en «escribir los pensamientos paso a paso». Imagen de Wei et al., 2022._
 
-Y casi no costó dinero. "¿Sabes cuánto poder de cómputo usamos en total? Más o menos unos cinco mil dólares de poder de cómputo. Porque ese problema no era algo que pudiera resolverse con poder de cómputo, sino que era otro modo de pensar. Cuando hicimos esa investigación, al comienzo básicamente no había presupuesto; era algo que imaginamos nosotros mismos desde cero".[^1]
+Y casi no costó dinero. «¿Sabes cuánta capacidad de cómputo usamos en total? Aproximadamente unos cinco mil dólares estadounidenses. Porque el problema no era algo que se pudiera resolver con más potencia de cálculo, sino que era otro modo de pensar. Cuando hacíamos esa investigación, al principio básicamente no teníamos fondos; fue algo que ideamos por nuestra cuenta»[^1].
 
 ```tw-versus
-Ruta dominante de la IA | La ruta de la cadena de pensamiento
-Modelos más grandes, más parámetros | No necesita reentrenar el modelo
-Alimentar con más datos | Añadir unas líneas de proceso de resolución en los ejemplos
-Carrera armamentista de cientos de millones de dólares en cómputo | Aproximadamente cinco mil dólares
-La fuerza bruta de la escala | Tomar prestada la psicología cognitiva de cómo aprenden las personas
+Ruta principal de la IA | El camino de la cadena de pensamiento
+Modelos más grandes, más parámetros | No requiere reentrenar el modelo
+Alimentar con más datos | Añadir unas líneas del proceso de resolución en los ejemplos
+Carrera armamentista de cómputo de cientos de millones de dólares | Aproximadamente 5.000 dólares
+Búsqueda de fuerza bruta por escala | Uso de la psicología cognitiva sobre cómo aprende el humano
+Fuente: Entrevista a Chi Huai-hsin en VK EP122 (aprox. 5.000 USD en cómputo para el artículo de Chain of Thought, enseñanza de máquinas mediante métodos de psicología cognitiva) y reportajes sobre su trayectoria de investigación[^1][^6][^7]
 ```
 
-Eso es lo que este artículo quiere decir ante todo: la clave para que la IA aprendiera a razonar no fue más poder de cómputo, sino ser más parecida a las personas; y ese "parecido a las personas" creció en la tesis doctoral de psicología educativa que un niño de Tamsui ayudó a escribir para su madre.
+Esto es precisamente lo que este artículo quiere transmitir: la clave para que la IA aprenda a razonar no es más capacidad de cómputo, sino ser más humana; y esa cualidad de «ser más humana» nació de una tesis doctoral de psicología educativa que un niño de Tamsui ayudó a escribir para su madre.
 
 ## A su subordinado le dijo: no uses ese método, prueba con los esquemas
 
@@ -175,27 +178,28 @@ _En Sidechat E350, Chi Huai-hsin habla de lentes inteligentes, del "criterio de 
 
 Durante la entrevista, sacó del bolsillo un prototipo de lentes inteligentes con Project Astra y dijo que "deberían ser" los primeros en Taiwán. También habló de dónde están las mejores oportunidades de Taiwán. El hardware es una parte: "La posición de Taiwán en semiconductores, especialmente en la parte de fabricación, es muy difícil de sacudir". Pero enseguida giró el enfoque: "Si Taiwán puede integrar bien hardware y software, y aprovechar la capacidad de los grandes modelos de lenguaje, de verdad es una gran oportunidad".[^14]
 
-## Taiwán reconoce los chips, no esta mente
+## Taiwán reconoce los chips, pero no este cerebro
 
-Llegados aquí, no se puede evitar una pregunta: ¿cuenta como taiwanés?
+Llegados a este punto, es inevitable plantearse una pregunta: ¿se le puede considerar taiwanés?
 
-Los hechos están ahí: dejó Taiwán alrededor de los 15 años; estudió la secundaria, la universidad y el posgrado en Estados Unidos; y toda su carrera profesional transcurrió en Silicon Valley. Es Taiwanese American, alguien nacido en Taiwán y formado en Estados Unidos. Si alguien dice que llamarlo "orgullo de Taiwán" implica apropiarse de una persona que emigró hace mucho, esa objeción no carece de fundamento.
+Los hechos están ahí: dejó Taiwán alrededor de los 15 años y cursó la secundaria, el grado y el posgrado en Estados Unidos; toda su carrera profesional ha transcurrido en Silicon Valley. Es un _Taiwanese American_, alguien nacido en Taiwán que se formó y prosperó en Estados Unidos. Si alguien argumentara que el título de «orgullo de Taiwán» es una forma de explotar la imagen de alguien que emigró hace mucho tiempo, esa duda no sería infundada.
 
-Pero del otro lado de la balanza también hay cosas concretas. Da entrevistas en chino, dice por iniciativa propia que "nació en Tamsui" y que fue "nacido y criado en Taiwán", sin esquivarlo. Vuelve con frecuencia a Taiwán para dar conferencias: la Universidad Normal Nacional de Taiwán, la Universidad Nacional Chung Hsing y la Universidad Nacional Yang Ming Chiao Tung han registrado su presencia. Tiene observaciones específicas sobre el problema de cuidados de larga duración en Taiwán, su posición en semiconductores y su ecosistema de startups de IA; incluso señaló que en Taiwán ya hay alrededor de quince mil usuarios que usan la herramienta de DeepMind para predicción de estructuras proteicas.
+Sin embargo, en el otro lado de la balanza hay elementos tangibles. Se entrevista en chino y afirma proactivamente haber «nacido en Tamsui y ser un taiwanés de pura cepa», sin eludir su origen. Continúa regresando a Taiwán para dar conferencias —dejando huella en instituciones como la Universidad Normal Nacional de Taiwán, la Universidad de Chung Hsing y la Universidad Nacional Yang Ming Chiao Tung—. Posee observaciones concretas sobre los desafíos del cuidado de larga duración en Taiwán, su posición en el sector de los semiconductores y su ecosistema de _startups_ de IA; incluso ha señalado que en Taiwán ya hay aproximadamente 15.000 usuarios empleando la herramienta de predicción de estructuras proteicas de DeepMind.
 
-Lo que mejor muestra esa posición suya de estar "a la vez dentro y fuera" es algo que dijo a investigadores taiwaneses: "En esta parte de la investigación, de hecho, todos estos años que he vuelto a Taiwán lo he dicho cada vez, pero no he visto a investigadores taiwaneses... hacer mucho en este ámbito. Es investigación que se puede hacer sin muchos chips".[^15]
+Lo que mejor describe esa posición suya de estar «tanto dentro como fuera» es una frase que le dijo a unos investigadores taiwaneses: «Sobre esta parte de la investigación, de hecho, cada vez que he vuelto a Taiwán en todos estos años lo he mencionado, pero no he visto que los investigadores taiwaneses... hagan mucho en este campo. Es una investigación que se puede realizar sin necesidad de muchísimos chips».[^15]
 
-En esa frase tironean dos identidades. Habla de "volver a Taiwán", como alguien que se reconoce perteneciente a este lugar; pero "lo digo cada vez y nadie lo hace" también tiene una distancia de observador externo, como alguien que lleva mucho tiempo lejos de casa, vuelve y ve que un rincón sigue sin que nadie lo ordene: se inquieta, pero no puede hacer demasiada fuerza. Este artículo no va a decidir por ti si es o no un orgullo de Taiwán. Los hechos están sobre la mesa; tú juzgas.
+En estas palabras hay una tensión entre dos identidades. Al decir «volver a Taiwán», habla como alguien que se reconoce como parte de este lugar; pero el «lo he mencionado cada vez, pero nadie lo hace» conlleva una distancia propia de un extraño: como alguien que lleva mucho tiempo fuera de casa y, al volver, ve un rincón descuidado y siente la urgencia de arreglarlo, pero sin tener la fuerza para hacerlo. Si es o no un orgullo de Taiwán, este artículo no te dará una conclusión. Los hechos están expuestos; juzga tú mismo.
 
-> 📊 **Él en números**
+> 📊 **Él en los números**
 
 ```tw-stat
-Aprox. 5000 dólares | Poder de cómputo usado por el artículo de cadena de pensamiento | En contraste con la carrera de cientos de millones de dólares de la industria
-Aprox. 114.000 citas | Citas totales en Google Scholar | 82% de ellas desde 2021
-13% -> 83% | Precisión de OpenAI o1 en problemas de olimpiadas matemáticas | o1 se basa explícitamente en la cadena de pensamiento
+Aprox. NT$160.000 | Capacidad de cómputo usada en el paper de cadena de pensamiento | Frente a los cientos de millones de dólares en armamento de la industria
+Aprox. 114.000 | Citas totales en Google Scholar | El 82% de ellas son posteriores a 2021
+13% → 83% | Precisión de OpenAI o1 en problemas de olimpiadas matemáticas | o1 se basa explícitamente en la cadena de pensamiento
+Fuente: Entrevista con Ji Huai-hsin en VK EP122, estadísticas de citas de Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Fuentes: entrevista VK EP122 con Chi Huai-hsin, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Fuente: Entrevista con Ji Huai-hsin en VK EP122, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
 ## Mostrar el razonamiento: ¿más transparencia o mejores justificaciones?
 
