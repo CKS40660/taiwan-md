@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-16 twmd-babel-nightly — liveness-check-cannot-see-cost-per-output：三重巡檢量得到「活著、在產出」，量不到每份產出走了哪條路
+
+- **pattern**: `liveness-check-cannot-see-cost-per-output`
+- **原則**：產線健檢的存活與生產兩項都可以全綠，而產線同時把四倍算力花在不需要的路徑上。成本（每份產出耗時、走哪個引擎）是第三個獨立維度，跟「有沒有在產」混在同一個綠燈裡。
+- **觸發**：2026-10-16 babel 夜班。dispatcher 23.6 小時、近 6 小時 172 成，巡檢全過；同時 356 份 `metadata-stale`（只改了 description）全走 `whole` 整篇重翻 ~145 秒／份，patch-translate 只重翻 frontmatter 只要 10〜69 秒。發現靠的是順手 Counter 了 report 的 `engine` 欄，不是任何巡檢項目。status.py 表格又不印 metadata_stale 欄，兩把尺差八倍才讓人回頭查。
+- **候選機械化**：babel-pulse 或三重巡檢加一行「近 6 小時 engine 分布 × 任務 status」，`metadata-stale × whole` 這類組合比例 > 0 就印出來。
+- **可能層級**：REFLEXES #38 (f) 存活≠生產的鄰居（成本面）；也是 #83 兩把尺 divergence（status 表與 pulse）的一個實例。
+- **verification_count**: 1
+
 ### 2026-10-15 twmd-maintainer-daily — regex-complexity-limit-reports-zero-hits-not-an-error：掃描器撞到自己的複雜度上限時，回報的是「沒有命中」而不是「我沒跑完」
 
 - **pattern**: `regex-complexity-limit-reports-zero-hits-not-an-error`
