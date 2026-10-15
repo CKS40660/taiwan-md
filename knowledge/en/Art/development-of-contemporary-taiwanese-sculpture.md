@@ -1,18 +1,18 @@
 ---
-title: 'The Development of Contemporary Sculpture in Taiwan'
-description: 'Exploring the evolutionary trajectory and creative spirit of Taiwanese sculpture, from Yang Ying-feng and Chu Ming to the new generation.'
+title: 'Development of Contemporary Sculpture in Taiwan'
+description: "Taiwan's contemporary sculpture evolved from traditional woodcarving through three generations: Huang Tu-shui's modern foundations, Yang Ying-feng's contemporary vocabulary, and Ju Ming's integration of Eastern spirit into a global vision."
 date: 2026-03-18
 category: 'Art'
 tags:
   [
     'Sculpture',
-    'Chu Ming',
+    'Ju Ming',
     'Yang Ying-feng',
-    'Lin Shun-long',
+    'Lin Shun-lung',
     'Hung Yi',
     'Public Art',
     'Contemporary Art',
-    'Wood Carving',
+    'Woodcarving',
   ]
 subcategory: '視覺藝術'
 author: 'Taiwan.md'
@@ -22,352 +22,352 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'b8f50ebb3'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:9e576e02178fac1e'
 sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
-translatedAt: '2026-09-20T00:52:34+08:00'
+translatedAt: '2026-10-15T15:59:43+08:00'
 ---
 
-# The Development of Contemporary Sculpture in Taiwan
+# Development of Contemporary Sculpture in Taiwan
 
 ## 30-Second Overview
 
-Contemporary sculpture in Taiwan evolved from traditional wood carving craftsmanship, passing through three significant generations: Huang Tu-shui laid the foundation for modern sculpture; Yang Ying-feng established the vocabulary of contemporary sculpture; and Chu Ming integrated Eastern spirit into an international perspective. Beginning with the modern sculpture movement in the 1960s, Taiwanese sculptors achieved major breakthroughs in material usage, thematic expression, and spatial concepts. Today, exhibition spaces such as the Chu Ming Museum and outdoor sculpture parks are spread across Taiwan, while new-generation artists like Lin Shun-long and Hung Yi continue to drive the diversified development of sculptural art. Taiwanese sculpture has also accumulated a certain level of visibility and collection recognition in international exhibitions.
+Contemporary sculpture in Taiwan evolved from traditional woodcarving crafts through three pivotal generations: Huang Tu-shui (黃土水) laid the foundations for modern sculpture; Yang Ying-feng (楊英風) established a contemporary sculptural vocabulary; and Ju Ming (朱銘) integrated Eastern spirituality into a global vision. Since the modern sculpture movement of the 1960s, Taiwanese sculptors have achieved significant breakthroughs in material usage, thematic expression, and spatial concepts. Today, exhibition spaces such as the Ju Ming Museum of World Master Sculpture and various outdoor sculpture parks are spread across Taiwan. A new generation of artists, including Lin Shun-lung (林舜龍) and Hung Yi (洪易), continues to drive diverse developments, while Taiwanese sculpture has gained significant visibility and recognition in international collections and exhibitions.
 
-Chu Ming passed away in April 2023 at the age of 85. The museum and creative legacy he established during his life are crucial coordinates for understanding how Taiwanese sculpture moved onto the international stage[^1].
+Ju Ming passed away in April 2023 at the age of 85. The museum he established and his creative legacy serve as essential coordinates for understanding how Taiwanese sculpture moved onto the international stage[^1].
 
-This article takes about 18 minutes to read and is suitable for readers interested in Taiwanese art history, public art, or sculptural media.
+This article takes approximately 18 minutes to read and is suitable for readers interested in Taiwan's art history, public art, or sculptural media.
 
-**Keywords**: Tai Chi series, Human Series, Modern Sculpture, Public Art, Material Innovation, Eastern Aesthetics
+**Keywords**: Tai Chi series, Human World series, modern sculpture, public art, material innovation, Eastern aesthetics
 
-## Why It Is Important
+## Why It Matters
 
-The development of contemporary sculpture in Taiwan holds multifaceted significance. On one hand, sculptural works document the process of Taiwanese society transitioning from an agrarian society to industrialization and post-modern culture; on the other hand, the promotion of public art policy has brought sculpture out of museums and into daily life spaces, changing the relationship between ordinary people and artworks.
+The development of contemporary sculpture in Taiwan holds multi-layered significance. On one hand, sculptural works document Taiwan's societal transformation from an agrarian society to industrialization and into postmodern culture; on the other hand, the implementation of public art policies has moved sculpture out of museums and into everyday living spaces, changing the relationship between the general public and artworks.
 
-For those interested in cultural policy, the development of Taiwanese sculpture is also a case study in "how policy drives an artistic ecosystem"—from the educational system and creative subsidies to public art regulations; every link has shaped today's sculptural landscape.
+For those interested in cultural policy, the development of Taiwanese sculpture serves as a case study of "how policy drives an artistic ecosystem"—from the education system and creative subsidies to public art regulations, every link has shaped today's sculptural landscape.
 
-From local themes to contemporary issues, sculptures reflect the social changes and cultural identity of Taiwan; traditional wood carving techniques have been transformed into new expressive vocabularies by contemporary artists, preserving and deepening the memory of cultural crafts.
+From folk themes to contemporary issues, sculptural works reflect Taiwan's social changes and cultural identity; traditional woodcarving techniques have been transformed by contemporary artists into new expressive vocabularies, preserving and deepening the memory of cultural craftsmanship.
 
-- **International Artistic Status**: Taiwanese sculptors achieve success in international exhibitions, enhancing Taiwan's soft power.
-- **Beautification of Public Space**: A large number of high-quality sculptures enter public spaces, improving urban aesthetic quality.
-- **Educational Inheritance Value**: Establishing a systematic sculptural education system to nurture new generations of creative talent.
+- **International Standing**: Taiwanese sculptors have achieved great success in international exhibitions, enhancing Taiwan's cultural soft power.
+- **Beautification of Public Space**: A large number of high-quality sculptures have entered public spaces, improving urban aesthetic quality.
+- **Educational Heritage**: The establishment of a systematic sculpture education system has nurtured a new generation of creative talent.
 
-## Context of Taiwanese Sculpture Development
+## Context of Taiwan's Sculptural Development
 
-The history of Taiwanese sculpture can be divided into three layers: the folk craft tradition represented by temple wood carving; the modern transformation that introduced Western realism during the Japanese colonial period; and the master generation that established contemporary artistic vocabulary after the war. These three layers are not entirely separate but overlap, forming the diverse face of Taiwanese sculpture today.
+The history of Taiwanese sculpture can be divided into three layers: the folk craft tradition represented by temple woodcarving; the modern transformation during the Japanese colonial period that introduced Western realistic sculpture; and the master generation that established a contemporary art vocabulary after World War II. These three layers are not strictly separated but rather overlap to form the diverse face of contemporary Taiwanese sculpture.
 
-The foundation of the craft tradition is rooted in immigrant society, with religious sculpting demands supporting the entire apprenticeship system. The official exhibition system during the Japanese colonial period opened a window to Western realism techniques, while the establishment of post-war fine arts education provided the soil for cultivating the master generation.
+The roots of craftsmanship were embedded in an immigrant society, where the demand for religious carving supported the entire apprenticeship system. During the Japanese colonial period, the official exhibition system opened a window to Western realistic techniques, while the establishment of the post-war fine arts education system provided the soil for the master generation to flourish.
 
-From Huang Tu-shui, who became the first Taiwanese person selected for an Imperial Exhibition with _Mountain Boy Playing Flute_ in 1920 and was selected again with _Camellia Water_ for the third Imperial Exhibition in 1921[^2], to when Taiwanese sculpture reached the international stage in the 1990s, this evolution spans seventy years, involving three distinctly different historical contexts: colonial education, post-war cultural construction, and globalization.
+From Huang Tu-shui becoming the first Taiwanese person selected for the Imperial Art Exhibition (Teiten) with _Boy Playing the Flute_ in 1920 and again with _Sweet Dew_ in the third Teiten in 1921[^2], to Taiwanese sculpture stepping onto the international stage in the 1990s, this evolution spans seventy years, involving three distinct historical contexts: colonial education, post-war cultural construction, and globalization.
 
-### Traditional Foundation: The Deep Roots of Folk Crafts
+### Traditional Foundations: Deep Roots of Folk Craft
 
-**Temple Wood Carving Tradition**:
+**Temple Woodcarving Tradition**:
 
-- Sculpting techniques introduced with immigrants during the Ming and Qing dynasties.
-- Exquisite methods for sculpting divine figures and architectural decoration.
-- A technical inheritance system based on master-apprentice relationships.
+- Carving techniques brought by immigrants during the Ming and Qing dynasties.
+- Exquisite craftsmanship in deity carving and architectural decoration.
+- A technical inheritance system based on the master-apprentice model.
 
-**Characteristics of Craft Sculpture**:
+**Characteristics of Craft Carving**:
 
-- Emphasis on practical function and decorative effect.
-- Rich themes from local folklore and mythology.
+- Emphasis on practical function and decorative effects.
+- Rich folk stories and mythological themes.
 - Delicate manual techniques and tool usage.
 
-**Regional Style Differences**:
+**Regional Style Variations**:
 
-- North: Relatively simple and plain.
-- Central: Elaborate and ornate decoration.
-- South: Passionate and free-spirited.
+- North: Relatively simple and concise.
+- Central: Ornate and elaborate decoration.
+- South: Passionate, unrestrained, and free.
 
-### Modern Transformation: Leap from Craft to Art
+### Modern Transformation: The Leap from Craft to Art
 
-**Huang Tu-shui (1895–1930)**: The first generation of modern sculptors in Taiwan.
+**Huang Tu-shui (1895–1930)**: Taiwan's first generation of modern sculptors.
 
-- Work characteristics: Fusion of Japanese realism and Taiwanese local themes.
-- Representative works: _Camellia Water_ (1921), _Imperial Pheasant_ (1922), _Water Buffalo Group Portrait_ (1930)[^2].
-- Historical significance: Opening the path for modern sculpture in Taiwan.
+- Work Characteristics: A fusion of Japanese realism and Taiwanese local themes.
+- Representative Works: _Sweet Dew_ (1921), _The Formosan Black Bear_ (1922), _Water Buffaloes_ (1930)[^2].
+- Historical Significance: Pioneered modern sculpture in Taiwan.
 
-**Development during Japanese Rule**:
+**Development during the Japanese Colonial Period**:
 
 - The official exhibition system introduced Western sculptural concepts.
-- Fine arts education gradually established.
-- Modernization and improvement of material techniques.
+- Fine arts education systems were gradually established.
+- Modernization and improvement of materials and techniques.
 
-### Contemporary Establishment: The Foundation Laid by the Master Generation
+### Contemporary Establishment: The Foundation by the Master Generation
 
-**Yang Ying-feng (1926–1997)**: Founder of modern sculpture[^16].
+**Yang Ying-feng (1926–1997)**: A founder of modern sculpture[^16].
 
-**Artistic Concepts**:
+**Artistic Philosophy**:
 
 - Emphasis on spirituality and Eastern aesthetics.
 - Proposed the concept of "Lifescape Sculpture" around the 1980s[^3].
 
 **Important Works**:
 
-- _Phoenix Dance_ (鳳凰來儀): A large red steel structure in front of the ROC Pavilion at the Osaka World Expo in 1970[^3].
-- Tainan Mountain Landscape Series: Expressing the beauty of Taiwanese mountains through abstract methods.
-- Sculptural planning for the new terminal and departure hall of Kaohsiung International Airport[^3].
+- _The Arrival of the Phoenix_: A massive red steel landscape sculpture in front of the Republic of China Pavilion at the 1970 Osaka Expo[^3].
+- Taroko Landscape Series: Expressing the beauty of Taiwan's mountains through abstract methods.
+- Landscape sculpture planning for the new terminal plaza and departure hall of Kaohsiung International Airport[^3].
 
 **Creative Characteristics**:
 
 - Innovative use of stainless steel materials.
 - Combination of geometric abstraction and organic forms.
-- Overall consideration of environmental space.
+- Holistic consideration of environmental space.
 
-## Chu Ming: A Taiwanese Sculptor from Local Themes to International Recognition
+## Ju Ming: The Taiwanese Sculptor from Local Roots to International Fame
 
-Chu Ming (1938–2023) is the most internationally recognized artist in the history of Taiwanese sculpture[^1]. His creation began by inheriting traditional wood carving, and through guidance from Yang Ying-feng, he developed two major creative systems—the Tai Chi series and the Human Series—with works collected across Europe, America, and Asia.
+Ju Ming (1938–2023) is the most internationally recognized artist in the history of Taiwanese sculpture[^1]. His creative journey began with traditional woodcarving, was guided into the realm of contemporary art by Yang Ying-feng, and eventually developed into two major creative systems: the _Tai Chi_ series and the _Human World_ series. His works are collected across Europe, America, and Asia.
 
 ### Artistic Journey and Stylistic Evolution
 
-**Early Local Themes (1970s)**:
+**Early Local Series (1970s)**:
 
 **Apprenticeship Background**:
 
-- Studied under Li Jin-chuan, a wood carver at Tongxiao Ci-hui Temple, starting in 1953, completing his apprenticeship after four years.
-- Studied modern sculpture under Yang Ying-feng for eight years in 1968[^5].
-- Transitioned from a craft artisan to a contemporary artist.
+- Began apprenticing under Li Chin-chuan, a carver at the Ci-hui Temple in Tongxiao, in 1953, completing his training after three years and four months.
+- Became a disciple of Yang Ying-feng in 1968, studying modern sculpture for eight years[^5].
+- Transformed from a craft artisan to a contemporary artist.
 
 **Representative Works**:
 
-- _Shepherd_ (牧童): Depicting simple local life.
-- _Mutual Cooperation_ (同心協力): Vivid presentation of rural life.
+- _Shepherd Boy_: A depiction of simple rural life.
+- _Working Together_: A vivid presentation of village life.
 - _Water Buffalo_: A perfect combination of strength and beauty.
 
 **Creative Characteristics**:
 
-- Retaining the essence of traditional wood carving techniques.
-- Emphasis on expressing vitality in the works.
-- Simplification methods that retain the spirit while abstracting the form.
+- Retaining the essence of traditional woodcarving techniques.
+- Emphasizing the expression of vitality in the work.
+- Simplified methods that "discard form to preserve spirit."
 
-### The Tai Chi Series: Perfect Fusion of East and West
+### Tai Chi Series: The Perfect Fusion of East and West
 
-**Creative Concept**:
+**Creative Philosophy**:
 
-- Transforming the body movements of Tai Chi into sculptural vocabulary.
-- Pursuing the aesthetic balance between movement and stillness.
-- Manifesting the Yin-Yang harmony philosophy of Chinese philosophy.
+- Translating the bodily movements of _Tai Chi_ into sculptural vocabulary.
+- Pursuing an aesthetic balance between motion and stillness.
+- Embodying the Yin-Yang harmony of Chinese philosophy.
 
-**Technical Features**:
+**Technical Characteristics**:
 
-- Retaining large, axe-cut marks.
-- Simplifying forms to emphasize dynamism.
-- An expressive method that is both abstract and concrete.
+- Retention of large, axe-cut textures.
+- Simplified forms that emphasize momentum.
+- An expressive method that is both abstract and figurative.
 
 **Important Works**:
 
-- _Tai Chi Series - Single Whip Downward_
-- _Tai Chi Series - Partnering_
-- _Tai Chi Series - Rising Movement_
+- _Tai Chi Series - Single Whip_
+- _Tai Chi Series - Sparring_
+- _Tai Chi Series - Opening Posture_
 
 **International Influence**:
 
-- A sensation at the solo exhibition in Tokyo Central Museum in 1977.
-- Large exhibition at Place Vendôme, Paris in 1997.
-- Establishing the status of Taiwanese sculpture in the international art scene.
+- A solo exhibition at the Tokyo Central Art Museum in 1977 caused a sensation.
+- A large-scale exhibition at Place Vendôme, Paris, in 1997.
+- Established the status of Taiwanese sculpture in the international art scene.
 
-### The Human Series: Deep Observation of Contemporary Life
+### Human World Series: Deep Observations of Contemporary Life
 
 **Creative Shift**:
 
-- A new creative stage starting in the 1980s.
-- Transitioning from traditional culture to contemporary social observation.
-- Diversification in material usage.
+- A new creative phase beginning in the 1980s.
+- Moving from traditional culture toward observations of contemporary society.
+- Diversified attempts at material usage.
 
 **Thematic Content**:
 
-The Military series reflects on war and peace, while the Athlete series showcases the beauty of human movement.
+The _Soldier_ series reflects on war and peace, while the _Athlete_ series showcases the beauty of human movement.
 
 - **Ballet Series**: A dialogue between Eastern and Western art.
-- **Three Military Series**: An artistic interpretation of military culture.
+- **Three Services Series**: An artistic interpretation of military culture.
 
 **Material Innovation**:
 
-- Clay: Retaining the sense of touch and rustic qualities.
-- Sponge: Bold experimentation with materials.
-- Stainless Steel: Application of modern industrial materials.
-- Polyethylene: Exploration of lightweight materials.
-- Bronze: Modern reinterpretation of traditional materials.
+- Clay: Retaining tactile and rustic qualities.
+- Sponge: Bold experimentation with experimental materials.
+- Stainless Steel: Use of modern industrial materials.
+- Styrofoam: Exploration of lightweight materials.
+- Bronze: A modern interpretation of traditional materials.
 
-### The Chu Ming Museum: An Important Base for Art Education
+### Ju Ming Museum of World Master Sculpture: An Important Base for Art Education
 
 **Establishment Background**:
 
-The Chu Ming Museum opened in Jinshan District, New Taipei City, in 1999. After twelve years of planning since 1987, it is a museum dedicated to a single artist, presenting the complete creative journey of Chu Ming from local wood carving to the Human Series[^6]. Chu Ming passed away on April 22, 2023, at the age of 85; the museum remains open and serves as the main institution for preserving his artistic legacy[^1].
+The Ju Ming Museum opened in the Jinshan District of New Taipei City in 1999. It took twelve years from its planning in 1987 to its opening. As a museum themed around a single artist, it presents Ju Ming's complete creative journey from local woodcarving to the _Human World_ series[^6]. Following Ju Ming's passing on April 22, 2023, at age 85, the museum remains open to the public as the primary institution for preserving his artistic legacy[^1].
 
-**Space Design**:
+**Spatial Design**:
 
-- Combining outdoor sculpture parks with indoor exhibition spaces.
-- Set in a natural environment nestled by mountains and sea.
-- A harmonious dialogue between artwork and environment.
+- Integration of an outdoor sculpture park with indoor exhibition spaces.
+- Set within a natural environment overlooking mountains and the sea.
+- A harmonious dialogue between artworks and the environment.
 
-**Educational Functions**:
+**Educational Function**:
 
 - Sculpture education promotion programs.
-- Artist residency mechanisms.
-- International sculptural exchange platforms.
+- Artist-in-residence mechanisms.
+- An international platform for sculptural exchange.
 
-## Diverse Exploration by New Generation Sculptors
+## Diverse Explorations by the New Generation of Sculptors
 
-Sculptors born in the 1950s and 1970s, such as Lin Shun-long and Hung Yi, forged a creative path starting from public space within Taiwan's contemporary art ecosystem. Their works are widely installed in urban public spaces, leading to direct interaction with the general public, forming a different social relationship compared to the master generation.
+Sculptors born between the 1950s and 1970s, such as Lin Shun-lung and Hung Yi, have carved out a creative path starting from public spaces within Taiwan's contemporary art ecosystem. Their works are widely installed in urban public spaces, making direct contact with the general public and forming social relationships different from those of the master generation.
 
-Lin Shun-long excels in land art, creating large installations outdoors using natural materials like bamboo; Hung Yi is known for colorful animal sculptures that incorporate elements of Taiwanese folk art, making his works accessible and recognizable. Furthermore, artists from different generations, such as Liao Ying-xi, Chen Cheng-xiong, Pu Hao-ming, and Li Yi-xun, have specialized in areas like stainless steel painting, wood carving, bronze portraiture, and mosaic public art, respectively.
+Lin Shun-lung excels in land art, using natural materials like bamboo to create large-scale installations in outdoor spaces; Hung Yi is famous for his brightly colored animal sculptures that blend elements of Taiwanese folk art, resulting in works that are approachable and highly recognizable. Additionally, artists from different generations—such as Liao Ying-hsi (廖迎晰), Chen Cheng-hsiung (陳正雄), Pu Hao-ming (蒲浩明), and Li Yi-hsun (李億勳)—have deeply cultivated various directions including painted stainless steel, woodcarving, bronze portraiture, and mosaic public art.
 
-The growth period of these new-generation sculptors coincided with the large-scale implementation of Taiwan's public art policy. The opportunities for creation and market support provided by this policy, to some extent, shaped the creative paths of this generation of artists.
+The growth period of these new-generation sculptors coincided with the large-scale implementation of Taiwan's public art policies. The creative opportunities and market support provided by these policies have, to some extent, shaped the creative paths of this generation of artists.
 
-### Lin Shun-long: Poet of Environmental Art
+### Lin Shun-lung: Poet of Environmental Art
 
-**Creative Concepts**:
+**Creative Philosophy**:
 
-- Concern for environmental ecology and humanistic care.
+- Focus on environmental ecology and humanistic care.
 - Creating land art using natural materials.
-- Emphasizing the symbiotic relationship between art and environment.
+- Emphasizing the symbiotic relationship between art and the environment.
 
 **Important Works**:
 
-- _Crossing Borders - Sea_ (Seed Boat): A seed boat shaped like a chess piece fruit, made of driftwood in 2013, permanently collected by Kagawa Prefecture at the Setouchi International Art Festival in 2016[^8].
-- _Seeds—A Seed Falling from Heaven_: In the Hori Forest Park during the 2018 Taichung Flower Expo, a giant seed structure made of interweaving Moso bamboo and Osmanthus bamboo, measuring 12 meters in diameter and 15 meters high[^9].
-- _Crossing Borders - Wave_: A sea urchin-like space composed of over four thousand bamboos at the Setouchi International Art Festival on Shodoshima Island in 2019[^10].
+- _Crossing Borders · Sea_ (Seed Ship): Created in 2013 using driftwood to form the shape of a Manulea (棋盤腳) fruit; it returned for the Setouchi Triennale in 2016 and is permanently collected by Kagawa Prefecture[^8].
+- _Seedling—A Seed Fell from the Sky_: Located in the Houli Forest Park during the 2018 Taichung Flora Exposition, a giant seed measuring 12 meters in diameter and 15 meters high, constructed from interlocking Moso and Taiwan bamboo[^9].
+- _Crossing Borders · Wave_: A sea urchin-like space composed of over 4,000 bamboo poles at the 2019 Setouchi Triennale on Shodoshima Island[^10].
 
 **Creative Characteristics**:
 
-- Clever use of natural materials like bamboo.
+- Ingenious use of natural materials like bamboo.
 - Environmental integration of large outdoor installations.
 - Ability to create poetic spaces.
 
-### Hung Yi: Colorful Contemporary Expression
+### Hung Yi: Vibrant Contemporary Expression
 
 **Artistic Style**:
 
-- Vividly colored animal sculptures.
-- Integrating elements of Taiwanese folk art.
-- Combining modern materials with traditional patterns.
+- Brightly colored animal sculptures.
+- Integration of Taiwanese folk art elements.
+- Combination of modern materials and traditional patterns.
 
 **Representative Works**:
 
-- _Ox_ Series: A contemporary interpretation of the Taiwanese water buffalo.
-- _Fu Lu Monkey_: The main lantern at the 2016 Taipei Lantern Festival.
-- _Monkey King_: Combining traditional mythology and modern aesthetics.
+- _Ox_ series: A contemporary interpretation of the Taiwanese water buffalo.
+- _Lucky Monkey_: The main light for the 2016 Taipei Lantern Festival.
+- _Handsome Monkey King_: Combining traditional mythology with modern aesthetics.
 
 **Creative Characteristics**:
 
 - Proficient use of fiberglass materials.
 - Modern transformation of folk auspicious patterns.
-- The accessible nature of public art.
+- Approachable qualities of public art.
 
 ### Other Important Contemporary Sculptors
 
-**Liao Ying-xi (1968–)**:
+**Liao Ying-hsi (1968–)**:
 
-- Graduated from the Painting Department, College of the East China University of Technology; transitioned from 2D to 3D creation starting in 2008.
-- Stainless steel and painted forms, continuing the linear concept of "gene sequence."
-- Holds positions as both an artist and an international curator[^11].
+- Graduated from the Western Painting group at Tunghai University's Graduate Institute of Fine Arts; transitioned from 2D to 3D creation in 2008.
+- Uses stainless steel and painted forms, continuing the linear concept of "gene sequences."
+- Serves as both an artist and an international curator[^11].
 
-**Chen Cheng-xiong (1942–)**:
+**Chen Cheng-hsiung (1942–)**:
 
-- A wood carver from Tainan. Started learning from the North Port Buddha Statue Shop and Master Li Huan-mei in Lukang in 1955, completing his apprenticeship in 1958.
-- His carving integrates techniques from Tangshan masters, Taiwanese Buddhist statues, Japanese one-knife carving, and Western realism.
-- Received the Wu Sanlian Literary Award in 1983 and the Japan New Structure Award in 1989; had a solo exhibition at the Tainan City Museum in 2021[^12].
+- A woodcarver from Tainan; apprenticed at a Beigang Buddha statue shop and under Master Li Huan-mei in Lukang starting in 1955, completing his training in 1958.
+- His knife work fuses Tangshan master traditions, Taiwanese Buddhist imagery, Japanese _itto-bori_ (one-cut carving), and Western realism.
+- Recipient of the Wu San-lien Literary Award (1983) and the Japan New Structure Award (1989); held a solo exhibition at the Tainan Art Museum in 2021[^12].
 
 **Pu Hao-ming (1944–)**:
 
-- Son of sculptor Pu Tian-sheng, who participated in statue making for thirteen years.
-- Studied abroad in Brussels Royal Academy and Paris, France, starting in 1980.
-- Creates realistic bronze portraits; had a solo exhibition at the South American Museum in 2024, "Temperature: Father and Son Sculptures Pu Tian-sheng x Pu Hao-ming"[^13].
+- Son of sculptor Pu Tien-sheng; participated in statue production with his father for thirteen years.
+- Studied at the Royal Academy of Fine Arts in Brussels, Belgium, and in Paris, France, in 1980.
+- Specializes in realistic bronze portraiture; featured in the 2024 Tainan Art Museum exhibition "Temperature: Pu Tien-sheng × Pu Hao-ming Father and Son Sculpture Exhibition"[^13].
 
-**Li Yi-xun**:
+**Li Yi-hsun**:
 
-- Creates public art through composite material mosaics.
+- Creates public art using mixed media mosaic collage.
 
 ## Public Art and Urban Space
 
-The establishment of the "One Percent Public Art" policy in 1992, mandated by the _Cultural and Artistic Subsidy Regulations_, required that 1% of funds from public construction projects be allocated for installing artworks[^17]. This policy changed the production model of Taiwanese sculpture: artists gained stable commissions, and urban spaces accumulated a large number of sculptures.
+In 1992, the _Cultural and Artistic Grants Act_ established the "1% Public Art" policy, requiring public works projects to allocate 1% of their budget to installing artworks[^17]. This policy changed the production methods of Taiwanese sculpture: artists gained a stable source of commissions, and urban spaces accumulated a vast number of sculptural works.
 
-According to statistics from the Ministry of Culture, as of December 2023, Taiwan had completed a cumulative total of 5,537 public art pieces, involving over two thousand artists and scholars, distributed across transportation hubs, campuses, parks, and government agencies[^7]. Behind this number is a complex institutional mechanism—comprising committee review, community participation, and artist bidding—whose operational effectiveness and controversies remain topics of discussion in cultural policy circles.
+According to statistics from the Ministry of Culture, as of December 2023, Taiwan has completed a cumulative total of 5,537 public art works, involving over 2,000 artists, experts, and scholars, spread across transportation hubs, campuses, parks, and government agencies[^7]. Behind this number lies a complex institutional machine consisting of committee reviews, community participation, and artist bidding; its operational efficiency and controversies remain subjects of discussion within the cultural policy community.
 
-Maintaining artistic quality within budget constraints and administrative processes remains a long-term challenge for public art policy; the damage or removal of some works due to lack of maintenance has also sparked discussions about the sustainability of public art.
+Maintaining artistic quality within budget constraints and administrative processes is a long-term challenge for public art policy; some works have been damaged or removed due to lack of maintenance, sparking discussions regarding the sustainability of public art.
 
-### Public Art Policy Development
+### Development of Public Art Policy
 
 **Legalization Process**:
 
-- _Cultural and Artistic Subsidy Regulations_ (1992).
-- Formulation of Public Art Installation Methods.
-- Implementation of the "One Percent Public Art" policy.
+- 1992 _Cultural and Artistic Grants Act_.
+- Formulation of Public Art Installation Regulations.
+- Implementation of the "1% Public Art" policy.
 
-**Installation Mechanism**:
+**Installation Mechanisms**:
 
-- Public projects must allocate 1% of funds for art installation.
+- Public works must allocate 1% of funds for art installation.
 - Professional committee review system.
-- Community participatory creation programs.
+- Community-participatory creation processes.
 
 **Effectiveness Evaluation**:
 
-- A cumulative total of 5,537 public art pieces completed across Taiwan (as of December 2023)[^7].
-- Improvement in urban aesthetic quality.
-- Promotion of opportunities for artists.
+- Cumulative total of 5,537 public art works completed across Taiwan (as of December 2023)[^7].
+- Improved urban aesthetic quality.
+- Increased creative opportunities for artists.
 
 ### Important Public Sculpture Cases
 
 **Transportation Hub Landmarks**:
 
-- _Canopy of Light_ at Kaohsiung MRT Belle Island Station (Italian glass artist Narcissus Quagliata, known in Taiwan as "Master Lily")
-- Yang Ying's landscape sculptures at Kaohsiung International Airport[^3].
+- _Dome of Light_ at Kaohsiung MRT Formosa Boulevard Station (by Italian glass artist Narcissus Quagliata, referred to in Taiwan as "Master Narcissus").
+- Yang Ying-feng's landscape sculpture at Kaohsiung International Airport[^3].
 
 **Commercial Landmark Public Art**:
 
-- _LOVE_ and _Infinite Life_ at Taipei 101 (Robert Indiana; Kang Mu-xiang, made from retired elevator cables)[^14].
+- _LOVE_ by Robert Indiana and _Infinite Life_ by Kang Mu-hsiang (made from decommissioned elevator steel cables) at Taipei 101[^14].
 
 **Campus Art Education**:
 
-- Educational sculptures installed in various schools.
-- Artist residency programs on campuses.
+- Educational sculptures installed in schools at all levels.
+- Artist-in-residence programs in campuses.
 - Collaborative creation mechanisms between teachers and students.
 
 ### Sculpture Parks and Exhibition Spaces
 
 **Professional Exhibition Venues**:
 
-- **Chu Ming Museum**: Jinshan District, New Taipei City.
-- **ChiMe Museum Park**: Rende District, Tainan.
-- **National Taiwan Museum Outdoor Sculptures**: West District, Taichung.
+- **Ju Ming Museum of World Master Sculpture**: Jinshan District, New Taipei City.
+- **Chimei Museum Park**: Rende District, Tainan.
+- **National Taiwan Museum of Fine Arts Park Outdoor Sculptures**: West District, Taichung.
 
 **Urban Sculpture Parks**:
 
-- Fengle Sculpture Park, Taichung.
+- Taichung Feng-le Sculpture Park.
 
-**International Sculpture Exhibitions**:
+**International Sculpture Festivals**:
 
-- Hualien International Stone Art Festival.
+- Hualien International Stone Carving Art Festival.
 
-## Innovation in Material Techniques
+## Innovative Development in Materials and Techniques
 
-The development of Taiwanese sculpture in material techniques reflects the changes in the material conditions of the entire art ecosystem. From the traditional craftsmanship of temple wood carving to the exploration of stainless steel and bronze in the 1960s–80s, and finally to the widespread use of composite materials and digital tools by contemporary artists, each material transition has been supported by corresponding craft education and industry support.
+The development of Taiwanese sculpture in terms of materials and techniques reflects the changing material conditions of the entire artistic ecosystem. From the traditional handiwork of temple woodcarving to the exploration of stainless steel and bronze in the 1960s–80s, and finally to the widespread use of mixed media and digital tools by contemporary artists, every shift in material is accompanied by corresponding developments in craft education and industrial support.
 
-Yang Ying-feng's innovative use of stainless steel and Chu Ming's experiments with non-traditional materials like sponge and polyethylene have sparked discussions in the art community at the time. The introduction of 3D printing and laser cutting by new-generation artists has changed the threshold for sculpture production and the possibilities of form.
+Yang Ying-feng's innovative use of stainless steel and Ju Ming's experiments with non-traditional media like sponge and Styrofoam once sparked significant debate within the art world. A new generation of artists has introduced 3D printing and laser cutting, altering both the threshold for production and the possibilities of form.
 
-Taiwan's traditional craft education (especially wood carving and metal processing) provides a certain technical human resource base for sculptural art, and institutions like the National Taiwan University of the Arts and the National Tainan University of the Arts have cultivated creators with deep mastery over materials[^18].
+Taiwan's tradition of technical education in crafts (especially woodcarving and metalworking) provides a foundation of skilled labor for sculptural art; institutions such as the National Taiwan University of Arts and the National Tainan University of the Arts have also trained a group of creators with a deep mastery of media[^18].
 
 ### Modern Interpretation of Traditional Materials
 
-**Wood Carving Technique Innovation**:
+**Woodcarving Technique Innovation**:
 
 - Artistic elevation of traditional techniques.
-- Application of new tools.
-- Improvement in preservation and treatment technology.
+- Introduction and application of new tools.
+- Improvement of preservation and treatment technologies.
 
 **Stone Carving**:
 
-- Development and utilization of local Taiwanese stones.
-- Precision processing of marble and granite.
+- Development and utilization of local Taiwanese stone.
+- Exquisite processing of marble and granite.
 - Combination of modern machinery and manual labor.
 
 **Metal Casting**:
 
-- Localization of bronze casting technology.
+- Localization of bronze casting techniques.
 - Use of modern alloy materials.
-- Development of precision mold-making techniques.
+- Development of precision mold-making technologies.
 
 ### Experimental Exploration of Contemporary Materials
 
@@ -375,12 +375,12 @@ Taiwan's traditional craft education (especially wood carving and metal processi
 
 - Creative possibilities of stainless steel.
 - Lightweight advantages of aluminum alloys.
-- Structural expression using iron and steel materials.
+- Structural expression of steel materials.
 
-**Composite Materials**:
+**Mixed Media**:
 
 - Combinations of resin and fiber.
-- Combination of ceramics and metals.
+- Fusion of ceramics and metal.
 - Dialogue between natural and artificial materials.
 
 **Emerging Technologies**:
@@ -391,117 +391,117 @@ Taiwan's traditional craft education (especially wood carving and metal processi
 
 ### Technical Education and Inheritance
 
-**Academic Educational System**:
+**Academic Education System**:
 
-- Sculpture courses in the Fine Arts department.
+- Sculpture tracks within fine arts departments.
 - Craft carving departments within vocational systems.
-- In-depth professional training at graduate schools.
+- In-depth professional training at the graduate level.
 
-**Apprenticeship System**:
+**Master-Apprentice System**:
 
-- Certification system for traditional craft masters.
-- Promotion of technical transmission plans.
-- Mechanisms for nurturing young apprentices.
+- Traditional craft master certification systems.
+- Promotion of technical inheritance programs.
+- Youth apprenticeship mechanisms.
 
 **Studio Culture**:
 
 - Individual artist studios.
-- Collaborative studio models.
-- International residency and exchange programs.
+- Shared studio models.
+- International artist residency exchanges.
 
 ## International Exchange and Overseas Influence
 
-The international visibility of Taiwanese sculpture has primarily been established through two paths: individual overseas exhibitions by artists (represented by Chu Ming's Tokyo 1977 exhibition and Paris Place Vendôme 1997 show), and institutional participation, such as the Taiwan Pavilion at the Venice Biennale. Both complement each other, collectively shaping the image of Taiwanese sculpture abroad.
+The international visibility of Taiwanese sculpture has been established primarily through two paths: individual artists' overseas exhibitions (exemplified by Ju Ming's 1977 Tokyo exhibition and 1997 Place Vendôme exhibition in Paris) and institutional participation, such as the Taiwan Pavilion at the Venice Biennale led by the government. The two complement each other, jointly shaping the image of Taiwanese sculpture abroad.
 
-It is worth noting that the international visibility of Taiwanese sculpture relies heavily on the reputation of individual artists—Chu Ming's name is almost synonymous with Taiwanese sculpture internationally. This highly concentrated phenomenon demonstrates both the exceptional achievements of Chu Ming and the room for improvement in systematically promoting the brand of Taiwanese sculpture.
+It is noteworthy that the international visibility of Taiwanese sculpture relies heavily on the prestige of individual artists—Ju Ming's name is almost synonymous with Taiwanese sculpture internationally. This high degree of concentration indicates both Ju Ming's extraordinary achievements and suggests there is still room to develop systematic efforts to promote the "Taiwan Sculpture" brand.
 
-Artist residency programs abroad, promoted by the Ministry of Culture and various local governments, have provided more opportunities for Taiwanese sculptors to engage with the international art ecosystem in recent years, accumulating diverse international representation beyond Chu Ming[^17].
+In recent years, overseas artist residency programs promoted by the Ministry of Culture and various local governments have provided Taiwanese sculptors with more opportunities to engage with the international art ecosystem, accumulating diverse international representation beyond Ju Ming[^17].
 
 ### International Visibility of Taiwanese Sculpture
 
-**Major International Exhibitions**:
+**Important International Exhibitions**:
 
 - Participation in the Taiwan Pavilion at the Venice Biennale.
-- Setouchi International Art Festival and Naoshima International Art Festival (Lin Shun-long)[^8].
+- Setouchi Triennale and Echigo-Tsumari Art Triennale (Lin Shun-lung)[^8].
 
-**Overseas Solo Exhibitions**:
+**Overseas Solo Exhibutions**:
 
-- Chu Ming's solo exhibition at the Tokyo Central Museum (1977) and Paris Place Vendôme (1997)[^1].
+- Ju Ming's solo exhibition at the Tokyo Central Art Museum (1977) and large-scale exhibition at Place Vendôme, Paris (1997)[^1].
 - Yang Ying-feng's solo exhibition in Milan (1964)[^3].
 
 **International Collection Recognition**:
 
-- Collections in major museums in Europe and America.
+- Collections by major museums in Europe and America.
 - Participation in international art fairs.
-- Favor among private collectors.
+- Favor from private collectors.
 
 ### Cultural Diplomacy and Artistic Exchange
 
-**Government Promotion Programs**:
+**Government-Promoted Programs**:
 
-- Artist overseas residencies promoted by the Ministry of Culture.
-- International sculptural research exchanges.
-- Execution of bilateral cultural agreements.
+- Ministry of Culture overseas artist residencies.
+- International sculpture workshops and exchanges.
+- Implementation of bilateral cultural agreements.
 
 **Academic Cooperation and Exchange**:
 
 - International sculpture symposiums.
-- Cross-national creative cooperation projects.
-- Technical methodology exchange visits.
+- Transnational collaborative creation projects.
+- Technical and methodological exchange visits.
 
 **Market Expansion Opportunities**:
 
 - Participation in the international art market.
-- Overseas promotion through gallery representation.
-- Increased investment value among collectors.
+- Overseas promotion by gallery agents.
+- Increased value for collection and investment.
 
 ## Contemporary Issues and Future Development
 
-The challenges facing contemporary Taiwanese sculpture have shifted from "how to establish a modern vocabulary" to "how to maintain its own perspective within the context of globalization." Environmental ecology, multiculturalism, and digital technology are the most concentrated topics of discussion in the current Taiwanese sculptural community.
+The challenges facing contemporary Taiwanese sculpture have shifted from "how to establish a contemporary vocabulary" to "how to maintain one's own perspective within a globalized context." Environmental ecology, multiculturalism, and digital technology are currently the most concentrated topics of discussion in the Taiwanese sculptural community.
 
-The rise of Indigenous contemporary sculpture is an important phenomenon in recent years: Rahic Talif (拉黑子·達立夫) uses driftwood and marine waste as materials, combining with Amis cultural memory[^15], while Sakuliu Pavavalung (撒古流·巴瓦瓦隆) develops a unique contemporary sculptural language based on Paiwan traditional totems. These creations are both artistic expressions and declarations of Indigenous cultural subjectivity[^18].
+The rise of contemporary Indigenous sculpture is a significant phenomenon in Taiwan's sculptural field in recent years: Rahic Talif (拉黑子·達立夫) uses driftwood and marine debris as materials, combining them with Amis cultural memory[^15]; Sakuliu Pavavalung (撒古流·巴瓦瓦隆) develops a unique contemporary sculptural language starting from traditional Rukai totems. These creations are both artistic expressions and declarations of Indigenous cultural subjectivity[^18].
 
-The visibility of female sculptors has also increased in recent years. Themes such as gender issues, body politics, and ecological ethics have brought new layers of discourse to Taiwanese contemporary sculpture, meaning the discussions in this field are no longer limited to technique and form.
+The visibility of female sculptors has also increased in recent years; themes such as gender issues, body politics, and ecological ethics have brought new layers of discourse to contemporary Taiwanese sculpture, ensuring that discussions in this field are no longer limited to technique and form.
 
 ### Artistic Responses to Social Issues
 
-**Environmental Protection Consciousness**:
+**Environmental Protection Awareness**:
 
-- Creation using recycled waste.
-- Thematic concern for ecological environment.
-- Promotion of sustainable material use.
+- Creations using recycled waste.
+- Themes of ecological environmental care.
+- Promotion of sustainable materials.
 
 **Multicultural Dialogue**:
 
 - Revitalization of Indigenous sculptural culture.
-- Expression of new resident cultural integration.
+- Expressions of integration in New Immigrant culture.
 - Cross-ethnic artistic collaboration.
 
 **Gender Equality Expression**:
 
-- Increased status of female sculptors.
-- Exploration of gender issues in works.
+- Rising status of female sculptors.
+- Exploration of works regarding gender issues.
 - Breaking traditional gender stereotypes.
 
 ### New Challenges in the Digital Age
 
 **Virtual Reality Integration**:
 
-- Application of VR technology for sculpture display.
+- Application of VR technology in sculpture exhibition.
 - Digital sculpture design tools.
 - Online museum visiting experiences.
 
 **Social Media Influence**:
 
-- Changes in work dissemination methods.
+- Changes in how works are disseminated.
 - Innovation in audience participation models.
 - Real-time interactive feedback mechanisms.
 
-**NFT and Digital Collections**:
+**NFTs and Digital Collection**:
 
 - Certification of digital sculptural works.
 - Application of blockchain technology.
-- Emerging collection investment models.
+- Emerging modes of collection and investment.
 
 ### Future Development Trends
 
@@ -509,64 +509,64 @@ The visibility of female sculptors has also increased in recent years. Themes su
 
 - Concern for global issues.
 - Deep excavation of local culture.
-- Increased interdisciplinary cooperation.
+- Increased cross-disciplinary collaboration.
 
-**Continuous Technological Innovation**:
+**Continuous Technical Innovation**:
 
-- Ongoing development of new materials.
+- Continuous development of new materials.
 - Refinement and improvement of production methods.
 - Deep integration of digital technology.
 
 **Deepening Educational Promotion**:
 
-- Downward rooting of aesthetic education.
-- Enhancement of community art participation.
+- Rooting aesthetic education in the community.
+- Increasing community art participation.
 - Frequent international exchanges.
 
 ## Conclusion
 
-The development of contemporary Taiwanese sculpture is a wonderful story of moving from traditional crafts to the international art scene. From Huang Tu-shui's modernization, to Yang Ying-feng's contemporary construction, and Chu Ming's international breakthrough, each generation of sculptors has added new layers and meaning to Taiwanese sculptural art[^4].
+The developmental history of contemporary sculpture in Taiwan is a compelling story of moving from traditional crafts to the international art scene. From Huang Tu-shui's modernization to Yang Ying-feng's construction of contemporaneity, and Ju Ming's international breakthrough, each generation of sculptors has added new layers and meanings to Taiwanese sculptural art[^4].
 
-In the era of globalization, Taiwanese sculptors face both new opportunities and challenges. How to absorb international trends while maintaining cultural characteristics; how to maintain artistic essence through technological innovation; how to adhere to creative ideals amid commercial considerations—these are all important issues that contemporary sculpture must contemplate.
+In the era of globalization, Taiwanese sculptors face both new opportunities and challenges. How to absorb international trends while maintaining cultural characteristics; how to maintain artistic essence amidst technical innovation; and how to persist in creative ideals under commercial considerations are all important issues that the development of contemporary sculpture must address.
 
-From the establishment of the Chu Ming Museum to the construction of sculpture parks across the island, from the promotion of public art policy to the deepening of international exchanges, Taiwanese sculptural art is developing in a more diversified, open, and international direction. These precious cultural assets not only enrich Taiwan's artistic landscape but also serve as an important bridge connecting the past and the future, the local and the international.
+From the establishment of the Ju Ming Museum to the construction of sculpture parks across the country, and from the promotion of public art policies to the deepening of international exchanges, Taiwanese sculptural art is developing toward a more diverse, open, and international direction. These precious cultural assets not only enrich Taiwan's artistic landscape but also serve as important bridges connecting the past and future, and the local with the international.
 
-Through every sculpture, we see not just the ingenuity and skill of the artist, but the depth and breadth of Taiwanese culture. In three-dimensional space, Taiwanese sculptors use their hands to carve the memories and dreams of the island.
+Through every sculpture, we see not just the ingenuity and skill of the artist, but the depth and breadth of Taiwanese culture. Within three-dimensional space, Taiwanese sculptors use their hands to carve out the memories and dreams of the island.
 
 ## References
 
-[^1]: Wikipedia article on Chu Ming (sculptor) <https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98_(%E9%9B%95%E5%A1%91%E5%AE%B6)> — Biography, apprenticeship, Tokyo Central Museum in 1977 and Place Vendôme in 1997, twelve years of museum planning, passed away on April 22, 2023.
+[^1]: [Wikipedia "Ju Ming (sculptor)" entry](<https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98_(%E9%9B%95%E5%A1%91%E5%AE%B6)>) — Ju Ming's life, apprenticeship, 1977 Tokyo Central Art Museum and 1997 Place Vendôme exhibitions, twelve years of museum planning, passed away on April 22, 2023.
 
-[^2]: Wikipedia article on Huang Tu-shui https://zh.wikipedia.org/wiki/%E9%BB%83%E5%9C%9F%E6%B0%B4 — _Mountain Boy Playing Flute_ selected for the second Imperial Exhibition in 1920; _Camellia Water_ selected for the third Imperial Exhibition in 1921; _Imperial Pheasant_ (1922), _Water Buffalo Group Portrait_ (1930).
+[^2]: [Wikipedia "Huang Tu-shui" entry](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%9C%9F%E6%B0%B4) — _Boy Playing the Flute_ selected for the second Teiten in 1920, _Sweet Dew_ selected for the third Teiten in 1921, _The Formosan Black Bear_ (1922), _Water Buffaloes_ (1930).
 
-[^3]: Wikipedia article on Yang Ying-feng https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%8B%B1%E9%A2%A8 — _Phoenix Dance_ at Osaka Expo in 1970, Milan solo exhibition in 1964, Tainan Mountain Landscape Series, concept of landscape sculpture, commission for Kaohsiung International Airport.
+[^3]: [Wikipedia "Yang Ying-feng" entry](https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%8B%B1%E9%A2%A8) — 1970 Osaka Expo _The Arrival of the Phoenix_, 1964 Milan solo exhibition, Taroko Landscape series, Lifescape sculpture concept, Kaohsiung International Airport commission.
 
-[^4]: General Education course material from China Culture University, "The Three Giants of Taiwanese Sculpture—From Huang Tu-shui to Yang Ying-feng and Chu Ming" https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw — Lecture by Professor Hsiao Ch'ing-shwei at National Cheng Kung University, a comparison of the three generations.
+[^4]: [Chinese Culture University General Education "Three Giants of Taiwan Sculpture—From Huang Tu-shui, Yang Ying-feng to Ju Ming" lecture page](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Presented by Professor Hsiao Chien-jui of National Cheng Kung University, comparing three generations.
 
-[^5]: CTW News Net article on "Master Chu Ming's Path: Yang Ying-feng Hosts Exhibition, Revealing Brilliance; Tai Chi Series Sensation in Japan" https://www.chinatimes.com/realtimenews/20230423002796-263301 — Chu Ming's Tokyo exhibition and his apprenticeship with Yang Ying-feng (April 23, 2023).
+[^5]: [China Times "Master Ju Ming's Path: Yang Ying-feng's Exhibition Reveals Talent, Tai Chi Series Sensation in Japan"](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Ju Ming's 1977 Tokyo exhibition and relationship with mentor Yang Ying-feng (April 23, 2023).
 
-[^6]: Chu Ming Museum https://www.juming.org.tw/ — Official website, exhibitions, complete works, and educational promotion information.
+[^6]: [Ju Ming Museum of World Master Sculpture](https://www.juming.org.tw/) — Official website, information on exhibitions, complete works, and educational promotion.
 
-[^7]: Press release from the Ministry of Culture revising the _Public Art Installation Methods_ https://www.moc.gov.tw/News_Content.aspx?n=105&s=221837 — August 2, 2024: "A cumulative total of 5,537 pieces completed and over 2,000 artists and scholars involved as of last December."
+[^7]: [Ministry of Culture press release on revised "Public Art Installation Regulations"](https://www.moc.gov.tw/News_Content.aspx?n=105&s=221837) — 2024-08-02: "As of last December, a total of 5,537 works have been completed, involving over 2,000 artists and experts/scholars."
 
-[^8]: Ministry of Culture Cross-Domain Creation Project Artist Lin Shun-long [Seed Boat] returns to the Setouchi International Art Festival https://www.moc.gov.tw/information_250_44251.html — Driftwood seed boat _Crossing Borders - Sea_ in 2013, installed at the main venue of the Setouchi International Art Festival in 2016, permanently collected by Kagawa Prefecture.
+[^8]: [Ministry of Culture Cross-domain Co-creation Project: Artist Lin Shun-lung's [Seed Ship] returns to "Setouchi Triennale 2016"](https://www.moc.gov.tw/information_250_44251.html) — 2013 _Crossing Borders · Sea_ driftwood seed ship, installed at the Setouchi Triennale main site in 2016, permanently collected by Kagawa Prefecture.
 
-[^9]: Liberty Times article "A Seed Falling from Heaven! Taichung Flower Expo Transmits Hope and Vitality" https://news.ltn.com.tw/news/life/breakingnews/2583320 — _Seeds—A Seed Falling from Heaven_ at Hori Forest Park during the 2018 Taichung Flower Expo, Moso bamboo and Osmanthus bamboo, 12 meters in diameter and 15 meters high.
+[^9]: [Liberty Times "A Seed Fell from the Sky! Flora Exposition Creation Conveys Hope and Vitality"](https://news.ltn.com.tw/news/life/breakingnews/2583320) — 2018 Taichung Flora Exposition Houli Forest Park _Seedling—A Seed Fell from the Sky_, Moso and Taiwan bamboo, 12m diameter, 15m height.
 
-[^10]: MOT TIMES interview with Lin Shun-long: The space created with 4,000 bamboos http://www.mottimes.com/cht/interview_detail.php?serial=427 — _Crossing Borders - Wave_ at Shodoshima Island during the Setouchi International Art Festival in 2019.
+[^10]: [MOT TIMES Interview with Lin Shun-lung: A Space Built with 4,000 Bamboo Poles](http://www.mottimes.com/cht/interview_detail.php?serial=427) — 2019 Setouchi Triennale Shodoshima _Crossing Borders · Wave_.
 
-[^11]: Non-Pond Art Network page for artist Liao Ying-xi https://artemperor.tw/artist/9115 — Born in Taichung in 1968, graduated from the Painting Department, College of the East China University of Technology; transitioned to 3D creation in 2008, also an international curator.
+[^11]: [Non-Pond Art Network Artist Page for Liao Ying-hsi](https://artemperor.tw/artist/9115) — Born in Taichung in 1968, studied Western Painting at Tunghai University Graduate Institute of Fine Arts, transitioned to 3D creation in 2008, also an international curator.
 
-[^12]: Tainan City Museum article on "Anping - Peace - Man—Chen Cheng-xiong Pre-exhibition 2021" https://www.tnam.museum/exhibition/detail/195 — Born in Tainan in 1942, started studying in 1955 and completed apprenticeship in 1958; Wu Sanlian Literary Award in 1983, Japan New Structure Award in 1989.
+[^12]: [Tainan Art Museum "Anping · Peace · People—Chen Cheng-hsiung 2021 Sculpture Preview Exhibition"](https://www.tnam.museum/exhibition/detail/195) — Born in Tainan in 1942, apprenticed from 1955, completed training in 1958, recipient of Wu San-lien Literary Award (1983) and Japan New Structure Award (1989).
 
-[^13]: Tainan City Museum article on "Temperature: Father and Son Sculptures Pu Tian-sheng x Pu Hao-ming" https://www.tnam.museum/exhibition/detail/584 — Pu Hao-ming graduated from the Fine Arts Department, College of Culture in 1967; studied abroad for thirteen years with his father.
+[^13]: [Tainan Art Museum "Temperature: Pu Tien-sheng x Pu Hao-ming Father and Son Sculpture Exhibition"](https://www.tnam.museum/exhibition/detail/584) — Pu Hao-ming graduated from the Department of Fine Arts, China Culture University in 1967, studied with his father for thirteen years, went to Brussels and Paris for advanced studies in 1980.
 
-[^14]: Wikipedia article on Taipei 101 §Public Art https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101 — Robert Indiana's _LOVE_ and _1-0_, Kang Mu-xiang's _Infinite Life_ (made from retired elevator cables), Zhuang Pu's _World Ring_, etc.
+[^14]: [Wikipedia "Taipei 101" entry §Public Art](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101) — Robert Indiana's _LOVE_ and _1-0_, Kang Mu-hsiang's _Infinite Life_ (decommissioned elevator cables), Chuang Pu's _Ring of the World_, etc.
 
-[^15]: Wikipedia article on Rahic Talif https://zh.wikipedia.org/wiki/%E6%8B%89%E9%BB%91%E5%AD%90%C2%B7%E9%81%94%E7%AB%8B%E5%A4%AB — Amis artist skilled in wood carving using driftwood, utilizing marine waste, fishing nets, and steel bars as materials.
+[^15]: [Wikipedia "Rahic Talif" entry](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%BB%91%E5%AD%90%C2%B7%E9%81%94%E7%AB%8B%E5%A4%AB) — Amis artist, specializes in driftwood carving, using marine debris, fishing nets, and rebar as materials.
 
-[^16]: Yang Ying-feng Museum https://yuyuyang.org.tw/ — Digital collection and exhibition information of _The Complete Works of Yang Ying-feng_.
+[^16]: [Yang Ying-feng Museum](https://yuyuyang.org.tw/) — Digital archives of _The Complete Works of Yang Ying-feng_ and exhibition information.
 
-[^17]: Official website of the Ministry of Culture for Public Art https://publicart.moc.gov.tw/ — Information on Taiwanese public art policy, regulations, and installation cases.
+[^17]: [Ministry of Culture Official Public Art Website](https://publicart.moc.gov.tw/) — Information on Taiwan's public art policy, regulations, and installation cases.
 
-[^18]: National Taiwan University of the Arts https://www.ntua.edu.tw/ — Sculpture department course information.
+[^18]: [National Taiwan University of Arts](https://www.ntua.edu.tw/) — Department of Sculpture course information.
