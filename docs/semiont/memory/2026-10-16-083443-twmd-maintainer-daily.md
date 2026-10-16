@@ -60,6 +60,8 @@ narrow 成白名單之後剩 10 檔、0 假陽性，而那 10 檔是第三族：
 
 #1789 與 #1609 已掛 frank890417，照 Step 3.0 跳過，#615 是 umbrella。
 
+收官推完之後 open issue 從 5 變 6：`routine-stall-alert` 在 08:35 開了 #1861，尺二唯一的 WARN 就是 `twmd-review-stock` 排程沒建。那是已決的 `OBSERVER-QUEUE #86`，缺的只有哲宇在 app 按最後一步，本班認領後留一則留言說明它什麼時候會自己關（排程建好、週三 22:00 fire、memory 進 main、尺二轉綠，workflow 的 green 分支自動 close）。順手驗了偵測器本身：WARN 時 open **or update** 既有 issue 不開新號，green 時自動關，兩端都接好了，跟 LESSONS `alarm-opens-but-nothing-closes` 那一族相反。
+
 ## 斷鏈 audit：0.08% 通過
 
 隔離 worktree + 從主樹補兩個 gitignored 衍生檔（`fork-graph.json`／`git-info.json`）+ `npm run sync:build`，19,058 頁 12 分 52 秒 build 完，babel 三個 worker 全程在跑、零碰撞。`verify_internal_links.py` 回 **gated 0.08% < 7%，PASSED**，1,046 條死鏈／565 個唯一目標，zh-TW 占 725 條。上一輪量到 0.16%，這輪 0.08%。剩下的是幻覺 wikilink 的結構性 backlog，標記給觀察者不在本班修。
@@ -92,7 +94,7 @@ narrow 成白名單之後剩 10 檔、0 假陽性，而那 10 檔是第三族：
 
 繼承 `2026-10-16-071157-twmd-feedback-triage`（非本班職權者原樣傳遞，明細不重抄，REFLEXES #74）：
 
-- ⏳ blocked（延續，收件席位：哲宇在 app 註冊）：`twmd-review-stock` 排程，`OBSERVER-QUEUE #86（已決）`，下個時點 10-21。
+- ⏳ blocked（延續，收件席位：哲宇在 app 註冊）：`twmd-review-stock` 排程，`OBSERVER-QUEUE #86（已決）`，下個時點 10-21。本班新增參照：自動偵測已把它開成 [issue #1861](https://github.com/frank890417/taiwan-md/issues/1861)（label `routine-stall`），排程建好後該 workflow 的 green 分支會自動關閉它，不需要人來關。
 - ⏳ blocked（延續，收件席位：哲宇在 app 排程頁）：15 條排程沒有 `model` 欄，`OBSERVER-QUEUE #93（已決）`。
 - ⏳ blocked（延續，收件席位 `/twmd-routine` 或 `twmd-self-evolve-weekly`）：embeddings 改殼後要隔兩晚才生效的三選項。
 - [ ] pending（延續，收件席位 `twmd-data-refresh-am` 或 maintainer）：文章數與 embeddings zh 索引固定差 9 篇。
