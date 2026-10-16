@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T13:01:29+08:00",
-    "zhCommitHead": "dd6f90e1e",
+    "lastUpdated": "2026-10-16T14:20:32+08:00",
+    "zhCommitHead": "1afa14be7",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1130,
+        "fresh": 1131,
         "stale": 3,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
@@ -12350,8 +12350,8 @@
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
           "translatedAt": "2026-10-16T03:27:34.858600+00:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "1afa14be",
+          "translationLastModified": "2026-10-16T13:01:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 14251,
@@ -12410,20 +12410,18 @@
         "ar": {
           "path": "ar/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "e53f17151",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "translatedAt": "2026-10-16T11:58:59+08:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17124,
+          "bytes": 17844,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-enterprise-ase-semiconductor.md",
