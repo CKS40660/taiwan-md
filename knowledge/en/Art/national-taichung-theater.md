@@ -95,8 +95,7 @@ To implement cultural equity and build a long-term support community, the Nation
 We have summarized the main member ticket discounts as follows, showing how the theater encourages deep participation through tiered discounts:
 
 ```tw-bars
-title: Comparison of various member ticket discounts at the theater (hosted programs)
-axis: Discount rate (%)
+Top-tier members pay 75% of the list price; the general public pays the full price (hosted programs, % of list price)
 *Forgetful Member | 75
 *Overture Card | 80
 *NTT Citizen Card | 80
@@ -110,15 +109,15 @@ Source: National Theater official website, 2026
 
 The theater has set up a variety of member cards for different groups, with the core rights as follows:
 
-| Member Card          | Application Conditions / Annual Fee      | Core Rights                                             | Mall Feedback                                    |
-| :------------------- | :--------------------------------------- | :------------------------------------------------------ | :----------------------------------------------- |
-| **Overture Card**    | General public / Online application      | Hosted programs **80% off**, priority purchase rights   | Cooperative mall 90% off, double points          |
-| **NTT Citizen Card** | Registered Taichung residents / 200 yuan | Enjoy **80% off** discount, feedback to local residents | Catering and cultural creativity 90% off         |
-| **Theater Card**     | General public / 350 yuan                | Enjoy **90% off** discount, renewal can upgrade         | Exclusive birthday gifts, mall 90% off           |
-| **Forgetful Member** | Arts and culture deep supporters         | Enjoy **75% off** discount with highest priority        | Exclusive VIP room, priority reservation seats   |
-| **U23 Youth Member** | Free for youth under 23 years old        | Exclusive discounts for specific youth                  | Encourage young generations to enter the theater |
+| Member Card          | Application Conditions / Annual Fee    | Core Rights                                                                   | Mall Feedback                                    |
+| :------------------- | :------------------------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------- |
+| **Overture Card**    | General public / Online application    | Hosted programs **20% off** (pay 80% of list price), priority purchase rights | Cooperative mall 10% off, double points          |
+| **NTT Citizen Card** | Registered Taichung residents / NT$200 | Enjoy **20% off** (pay 80% of list price), feedback to local residents        | Catering and cultural creativity 10% off         |
+| **Theater Card**     | General public / NT$350                | Enjoy **10% off** (pay 90% of list price), renewal can upgrade                | Exclusive birthday gifts, mall 10% off           |
+| **Forgetful Member** | Arts and culture deep supporters       | Enjoy **25% off** (pay 75% of list price) with highest priority               | Exclusive VIP room, priority reservation seats   |
+| **U23 Youth Member** | Free for youth under 23 years old      | Exclusive discounts for specific youth                                        | Encourage young generations to enter the theater |
 
-In addition to the exclusive member cards, the National Taichung Theater also fully implements legal regulations and cultural equity policies in its hosted programs. People with disabilities and one necessary companion enjoy **50% off**, and free accessible seats are regularly planned for online ticketing. In addition, for popular time slots (such as "Three Sisters of Encouragement"), local fan-exclusive discount codes (such as 85% off) are often launched, greatly lowering the threshold for the public to access high-quality performance arts.
+In addition to the exclusive member cards, the National Taichung Theater also fully implements legal regulations and cultural equity policies in its hosted programs. People with disabilities and one necessary companion enjoy **50% off**, and free accessible seats are regularly planned for online ticketing. In addition, for popular time slots (such as "Three Sisters of Encouragement"), local fan-exclusive discount codes (such as 15% off) are often launched, greatly lowering the threshold for the public to access high-quality performance arts.
 
 ![Night view of the National Taichung Theater, with light illuminating the streamlined curved walls and the public square outdoors](https://upload.wikimedia.org/wikipedia/commons/2/2f/National_Taichung_Theater_at_night_20210914.jpg)
 

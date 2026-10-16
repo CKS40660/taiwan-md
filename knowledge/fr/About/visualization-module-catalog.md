@@ -263,7 +263,7 @@ Source : Bureau du recensement, des affaires et des décomptes du Ministère de 
 
 ```tw-iso
 Combien de logements sociaux le gouvernement a-t-il construits en 24 ans
-Unité : ● = 20 000 logements
+單位：● = 20 000 logements
 Construction directe par le gouvernement | 174 891 logements | 1976–1999
 Volume total des logements sociaux au sens large | Plus de 390 000 logements | Jusqu'à l'abrogation en 2015
 Source : Communiqué de presse sur l'abrogation du Règlement des logements nationaux par le Conseil exécutif
@@ -275,7 +275,7 @@ La composition des sièges parlementaires a son propre graphique dédié : un po
 
 ```tw-arc
 Sièges du Parlement de 2024 : trois partis sans majorité absolue (113 sièges)
-Majorité : 57
+過半：57
 Parti Kuomintang | 52
 Parti progressiste démocrate | 51
 Parti populaire de Taïwan | 8

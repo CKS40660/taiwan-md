@@ -238,6 +238,18 @@ const _SRC_EXTRA_LABELS = [
   'المصادر',
   'nguồn dữ liệu',
   'مصدر البيانات',
+  // 2026-10-16 twmd-maintainer-daily：`Datenquelle` 實測出現在 de 兩篇
+  // （complex-life-festival / taiwan-bar），不在 srcPrefix 的 `Quelle` 裡，
+  // 於是那兩篇的來源列被當資料列丟掉。模型會翻出「資料來源」的直譯複合詞，
+  // 不只翻出「來源」。
+  'datenquelle',
+  'datenquellen',
+  'fonte de dados',
+  'fuente de datos',
+  'data source',
+  'sumber data',
+  'データ出典',
+  '데이터 출처',
 ];
 function _buildSrcLineRe(): RegExp {
   const labels = new Set<string>(_SRC_EXTRA_LABELS);

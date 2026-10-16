@@ -95,8 +95,7 @@ Ngoài ba không gian trong nhà này, nhà hát còn bao gồm nhà hát ngoài
 Chúng tôi tổng hợp các mức giảm giá vé thành viên chính như sau, cho thấy cách nhà hát khuyến khích khán giả tham gia sâu sắc thông qua ưu đãi phân cấp:
 
 ```tw-bars
-title: Bảng so sánh giảm giá vé của các loại thành viên (Chương trình chủ đạo)
-axis: Tỷ lệ giảm (%)
+Thành viên hạng cao nhất chỉ trả 75% giá niêm yết, khán giả thường trả đủ (chương trình chủ đạo, % giá niêm yết)
 *Thành viên Vong Ngã | 75
 *Thẻ Overture | 80
 *Thẻ Công dân NTT | 80

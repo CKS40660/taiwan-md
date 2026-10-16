@@ -89,8 +89,7 @@ Untuk mewujudkan kesetaraan budaya dan membangun komunitas pendukung jangka panj
 Kami menyajikan perbandingan diskon pembelian anggota utama berikut, menunjukkan bagaimana teater mendorong partisipasi mendalam dari penonton melalui diskon bertingkat:
 
 ```tw-bars
-title: Perbandingan Diskon Pembelian Anggota Teater (Pertunjukan Utama)
-axis: Tingkat Diskon (%)
+Anggota tingkat tertinggi membayar 75% harga normal, penonton umum membayar penuh (pertunjukan utama, % dari harga normal)
 *Anggota Wangwo | 75
 *Kartu Prolog | 80
 *Kartu Warga NTT | 80
@@ -104,15 +103,15 @@ Sumber: Situs Web Resmi Opera Nasional, 2026
 
 Teater telah menetapkan berbagai jenis keanggotaan untuk kelompok yang berbeda, dengan manfaat inti sebagai berikut:
 
-| Jenis Anggota        | Syarat Pendaftaran / Biaya Tahunan   | Manfaat Inti                                                          | Imbal Hasil Komersial                                    |
-| :------------------- | :----------------------------------- | :-------------------------------------------------------------------- | :------------------------------------------------------- |
-| **Kartu Prolog**     | Masyarakat umum / pendaftaran online | Diskon **80%**, hak pemesanan prioritas untuk pertunjukan utama       | Diskon 90% di mitra komersial, poin ganda                |
-| **Kartu Warga NTT**  | Penduduk Taichung / 200 Dolar Taiwan | Mendapat diskon **80%**, memberikan imbal balik kepada penduduk lokal | Diskon 90% untuk makanan dan budaya                      |
-| **Kartu Teater**     | Masyarakat umum / 350 Dolar Taiwan   | Mendapat diskon **90%**, dapat ditingkatkan saat perpanjangan         | Hadiah ulang tahun eksklusif, diskon mitra komersial 90% |
-| **Anggota Wangwo**   | Pendukung seni mendalam              | Diskon **7.50%**, prioritas tertinggi                                 | Ruang VIP khusus, reservasi kursi prioritas              |
-| **Anggota Muda U23** | Pemuda di bawah 23 tahun gratis      | Harga spesial eksklusif untuk kaum muda                               | Mendorong generasi muda memasuki teater                  |
+| Jenis Anggota        | Syarat Pendaftaran / Biaya Tahunan   | Manfaat Inti                                                                                      | Imbal Hasil Komersial                                    |
+| :------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------- |
+| **Kartu Prolog**     | Masyarakat umum / pendaftaran online | Diskon **20%** (membayar 80% harga normal), hak pemesanan prioritas untuk pertunjukan utama       | Diskon 10% di mitra komersial, poin ganda                |
+| **Kartu Warga NTT**  | Penduduk Taichung / 200 Dolar Taiwan | Mendapat diskon **20%** (membayar 80% harga normal), memberikan imbal balik kepada penduduk lokal | Diskon 10% untuk makanan dan budaya                      |
+| **Kartu Teater**     | Masyarakat umum / 350 Dolar Taiwan   | Mendapat diskon **10%** (membayar 90% harga normal), dapat ditingkatkan saat perpanjangan         | Hadiah ulang tahun eksklusif, diskon mitra komersial 10% |
+| **Anggota Wangwo**   | Pendukung seni mendalam              | Diskon **25%** (membayar 75% harga normal), prioritas tertinggi                                   | Ruang VIP khusus, reservasi kursi prioritas              |
+| **Anggota Muda U23** | Pemuda di bawah 23 tahun gratis      | Harga spesial eksklusif untuk kaum muda                                                           | Mendorong generasi muda memasuki teater                  |
 
-Selain kartu anggota khusus, Teater Nasional Taiwan juga menerapkan kebijakan kesetaraan budaya dan peraturan secara menyeluruh dalam pertunjukan utama. Diskon **50%** diberikan kepada penyandang disabilitas dan pendamping yang diperlukan, serta secara rutin menyediakan area kursi khusus gratis untuk difabel melalui pemesanan online. Selain itu, kode diskon khusus lokal Taichung (seperti 85%) yang sering ditawarkan untuk jadwal populer telah sangat menurunkan hambatan bagi masyarakat untuk mengakses seni pertunjukan berkualitas tinggi.
+Selain kartu anggota khusus, Teater Nasional Taiwan juga menerapkan kebijakan kesetaraan budaya dan peraturan secara menyeluruh dalam pertunjukan utama. Diskon **50%** diberikan kepada penyandang disabilitas dan pendamping yang diperlukan, serta secara rutin menyediakan area kursi khusus gratis untuk difabel melalui pemesanan online. Selain itu, kode diskon khusus lokal Taichung (seperti 15%) yang sering ditawarkan untuk jadwal populer telah sangat menurunkan hambatan bagi masyarakat untuk mengakses seni pertunjukan berkualitas tinggi.
 
 ![Pemandangan malam Teater Nasional Taiwan, dinding melengkung dan alun-alun publik diterangi lampu](https://upload.wikimedia.org/wikipedia/commons/2/2f/National_Taichung_Theater_at_night_20210914.jpg)
 

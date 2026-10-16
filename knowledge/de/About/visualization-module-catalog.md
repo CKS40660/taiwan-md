@@ -258,7 +258,7 @@ Quelle: Bevölkerungsstatistik des Innenministeriums, 31. Dezember 2025
 
 ```tw-iso
 Wie viele staatliche Wohnbauten hat die Regierung in 24 Jahren gebaut
-Einheit: ● = 20.000 Haushalte
+單位：● = 20.000 Haushalte
 Staatlicher Wohnbau | 174.891 Haushalte | 1976–1999
 Gesamtstaatswohnungen | ~390.000 Haushalte | bis 2015 stillgelegt
 Quelle: Pressemitteilung des Amt für Wohngeld der Regierung
@@ -270,7 +270,7 @@ Parlamentarische Sitze haben ihr eigenes Diagramm: Halbkreis mit Punkten — ein
 
 ```tw-arc
 2024 Parlamentarier: Drei Parteien ohne Mehrheit (113 Sitze)
-Mehrheit: 57
+過半：57
 Kuomintang | 52
 Demokratische Fortschrittspartei | 51
 Taiwan Volkspartei | 8

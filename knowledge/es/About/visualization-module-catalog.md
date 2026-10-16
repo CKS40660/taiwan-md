@@ -263,7 +263,7 @@ Fuente: Dirección de Registro Civil del Ministerio del Interior, finales de 202
 
 ```tw-iso
 Cuánta vivienda social ha construido el gobierno en estos 24 años
-Unidad: ● = 20,00<0xC2>0 unidades
+單位：● = 20,00<0xC2>0 unidades
 Construcción directa del gobierno | 174,891 unidades | 1976–1999
 Total de vivienda social en sentido amplio | Más de 390,000 unidades | Hasta su abolición en 2015
 Fuente: Comunicado del Ejecutivo sobre la abolición de la Ley de Vivienda Nacional
@@ -275,7 +275,7 @@ La composición parlamentaria tiene su propio gráfico especializado: una matriz
 
 ```tw-arc
 Legislatura de 202cal: Sin mayoría absoluta (113 escaños)
-Mayoría: 57
+過半：57
 KMT | 52
 DPP | 51
 TPP | 8

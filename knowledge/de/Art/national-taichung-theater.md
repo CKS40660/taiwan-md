@@ -95,8 +95,7 @@ Um kulturelle Gleichheit zu fördern und eine langfristige Unterstützerschaft a
 Wir fassen die wichtigsten Mitgliederrabatte zusammen, um zu zeigen, wie das Theater durch gestaffelte Vergünstigungen zur tiefen Beteiligung des Publikums anregt:
 
 ```tw-bars
-title: Rabattvergleich der verschiedenen Mitgliederkarten (Hauptveranstaltung)
-axis: Rabattsatz (%)
+Mitglieder der höchsten Stufe zahlen 75% des Listenpreises, Normalgäste den vollen Preis (Hauptveranstaltungen, % des Listenpreises)
 *Vomacht-Mitglied | 75
 *Ouvertüre-Karte | 80
 *NTT Bürgerkarte | 80
@@ -110,15 +109,15 @@ Quelle: Offizielle Website des National Theater, 2026
 
 Das Theater hat verschiedene Mitgliedskarten für unterschiedliche Gruppen eingerichtet, deren Kernvorteile wie folgt sind:
 
-| Mitgliederkarte        | Anmeldebedingung / Jahresgebühr       | Kernvorteil                                                | Kommerzielle Vergünstigung                           |
-| :--------------------- | :------------------------------------ | :--------------------------------------------------------- | :--------------------------------------------------- |
-| **Ouvertüre-Karte**    | Allgemein / Online-Anmeldung          | Hauptveranstaltung **80% Rabatt**, Vorrang beim Ticketkauf | Partnergeschäfte 90% Rabatt, doppelte Punkte         |
-| **NTT Bürgerkarte**    | Einwohner von Taichung / 200 NTD      | **80% Rabatt**, Rückgabe an lokale Bewohner                | Gastronomie und Kultur 90% Rabatt                    |
-| **Theaterkarte**       | Allgemein / 350 NTD                   | **90% Rabatt**, Upgrade bei Verlängerung möglich           | Spezielle Geburtstagsgeschenke, Geschäfte 90% Rabatt |
-| **Vomacht-Mitglied**   | Tief engagierte Kulturförderer        | **75% Rabatt** und höchster Vorrang                        | Exklusiver VIP-Bereich, bevorzugte Reservierung      |
-| **U23 Jugendmitglied** | Jugendliche unter 23 Jahren kostenlos | Spezielle Angebote für junge Menschen                      | Anreiz für die junge Generation, Theater zu besuchen |
+| Mitgliederkarte        | Anmeldebedingung / Jahresgebühr       | Kernvorteil                                                                                  | Kommerzielle Vergünstigung                           |
+| :--------------------- | :------------------------------------ | :------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| **Ouvertüre-Karte**    | Allgemein / Online-Anmeldung          | Hauptveranstaltung **20% Rabatt** (80% des Listenpreises zu zahlen), Vorrang beim Ticketkauf | Partnergeschäfte 10% Rabatt, doppelte Punkte         |
+| **NTT Bürgerkarte**    | Einwohner von Taichung / 200 NTD      | **20% Rabatt** (80% des Listenpreises zu zahlen), Rückgabe an lokale Bewohner                | Gastronomie und Kultur 10% Rabatt                    |
+| **Theaterkarte**       | Allgemein / 350 NTD                   | **10% Rabatt** (90% des Listenpreises zu zahlen), Upgrade bei Verlängerung möglich           | Spezielle Geburtstagsgeschenke, Geschäfte 10% Rabatt |
+| **Vomacht-Mitglied**   | Tief engagierte Kulturförderer        | **25% Rabatt** (75% des Listenpreises zu zahlen) und höchster Vorrang                        | Exklusiver VIP-Bereich, bevorzugte Reservierung      |
+| **U23 Jugendmitglied** | Jugendliche unter 23 Jahren kostenlos | Spezielle Angebote für junge Menschen                                                        | Anreiz für die junge Generation, Theater zu besuchen |
 
-Neben den speziellen Mitgliedskarten setzt das National Taichung Theater bei Hauptveranstaltungen auch vollständig gesetzliche und kulturelle Gleichheitsrichtlinien um. Personen mit Behinderungen und eine Begleitperson erhalten **50% Rabatt**, und es werden regelmäßig kostenlose Bereiche für Menschen mit Behinderung online angeboten. Darüber hinaus wurden spezielle Rabattcodes (z. B. 85%) für lokale Fan-Gruppen bei beliebten Terminen (wie „Die drei Frauen, die die Welt erziehen“) eingeführt, was die Schwelle für die Bevölkerung, hochwertige darstellende Kunst zu erleben, erheblich gesenkt hat.
+Neben den speziellen Mitgliedskarten setzt das National Taichung Theater bei Hauptveranstaltungen auch vollständig gesetzliche und kulturelle Gleichheitsrichtlinien um. Personen mit Behinderungen und eine Begleitperson erhalten **50% Rabatt**, und es werden regelmäßig kostenlose Bereiche für Menschen mit Behinderung online angeboten. Darüber hinaus wurden spezielle Rabattcodes (z. B. 15%) für lokale Fan-Gruppen bei beliebten Terminen (wie „Die drei Frauen, die die Welt erziehen“) eingeführt, was die Schwelle für die Bevölkerung, hochwertige darstellende Kunst zu erleben, erheblich gesenkt hat.
 
 ![Nachtaufnahme des National Taichung Theater, öffentliche Natur der gewellten Wände und Außenplätze unter Beleuchtung](https://upload.wikimedia.org/wikipedia/commons/2/2f/National_Taichung_Theater_at_night_20210914.jpg)
 

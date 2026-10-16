@@ -95,8 +95,7 @@ Para promover a equidade cultural e construir uma comunidade de apoio a longo pr
 Resumimos os principais descontos de ingressos para membros da seguinte forma, mostrando como o teatro incentiva a participação profunda dos visitantes por meio de descontos escalonados:
 
 ```tw-bars
-title: Comparação de descontos de ingressos para membros do teatro (programas principais)
-axis: Taxa de desconto (%)
+Membros do nível mais alto pagam 75% do preço de tabela; o público geral paga o preço integral (programas principais, % do preço de tabela)
 *Membrado Místico | 75
 *Carta de Prólogo | 80
 *Cartão de Cidadão NTT | 80
