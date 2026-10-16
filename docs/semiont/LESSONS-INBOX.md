@@ -332,6 +332,31 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-16 twmd-maintainer-daily — 閘門上線時沒有人量存量，於是存量在任何地方都沒有代表
+
+- **pattern**: gate-shipped-but-stock-never-measured
+- **原則**：這個倉庫對「新閘門上線」有一套慣例動作：守住產線 → 量一次存量 → 存量超過 50 檔就帶進 OBSERVER-QUEUE。`subcategory-translation-parity`（存量 1,646 篇 → #51）、`target-language-check`（65 篇 → #53）、譯文網址不一致（→ #90）三條都照這個形狀走完。**而慣例的中間那一步沒有任何東西在看**：`currency-identity-check.py` 2026-09-09／09-10 出生、09-26 接進 dispatcher verify，產線那一端守得很好，存量從來沒有被量過一次——不是量了覺得不急，是沒有人跑過 `--all`。於是那批檔案在佇列裡沒有編號、在 LESSONS 裡沒有 entry、在任何一份報表上都不是一個數字，**唯一能發現它的方式是有人剛好手跑一次 `--all`**。
+- **觸發**：2026-10-16 維護班。投稿者 dreamline2 在 PR #1857 修韓文版〈台中國家歌劇院〉的會員年費「200위안」→ 新台幣，往上游追時發現同一篇的 en／es／ar／hi／ja／ru 六語都把「元」寫成人民幣。手跑 `python3 scripts/tools/lang-sync/currency-identity-check.py --all` 想確認這篇是不是孤例，回 **692 檔、4,416 處**（vi 143 / id 115 / hi 93 / de 83 / es 78 / ru 71 / ar 60 / en 19 / pt 18 / fr 12）。閘門誕生至今 37 天。抽 6 檔逐篇對 zh 母稿（慈濟一天五毛／中油油價／齊柏林租直升機每小時 10 萬元／台灣與核能／何飛鵬／彈珠檯），6/6 的 zh 通篇無「人民幣」、主題全是台灣，為真命中。→ `memory/2026-10-16-083443-twmd-maintainer-daily.md`
+- **instances**：
+  - 2026-10-16 twmd-maintainer-daily — `currency-identity-check` 守產線 37 天，存量 692 檔從未被量 → OBSERVER-QUEUE #108
+- **可能層級**：通用反射（是 #58 (f) 的鏡像，值得當成同一條的另一半收）
+- **相關**：[REFLEXES #58](REFLEXES.md) 的 (f)「一次性清理解決存量、沒解決流量」——本條是**完全反過來的那一半**：守住了流量，沒有人回頭看存量。兩條合起來才是完整的規則：清理要問「產生它的路上有東西在守嗎」，上閘門要問「這道閘門之前已經累積了多少」。另參 [REFLEXES #66](REFLEXES.md) (e)「校準語料要涵蓋閘門將要跑過的全部族群，真正會踩中的是存量語料」——(e) 講的是校準用什麼樣本，本條講的是校準完之後有沒有人去數。
+- **候選機械化**：新增 `--all` 類全庫掃描能力的閘門，在它第一次 ship 的同一個 commit 裡附上 `--all` 的輸出數字（哪怕只寫在 commit 訊息裡）；或讓週體檢 dossier 加一節「有 `--all` 旗標但近 30 天沒人跑過的閘門」——後者是機械可查的（`scripts/tools/**` 裡有 `--all` 的檔案 × git log 裡有沒有它的輸出痕跡）。
+- **verification_count**: 1
+
+### 2026-10-16 twmd-maintainer-daily — 產生端註解明文拒絕維護的那份清單，檢查端又長了一份，而規則的語言射程把它藏住
+
+- **pattern**: checker-grows-the-list-the-generator-refused-to-keep
+- **原則**：`article-render.ts` 的 `_buildSrcLineRe()` 上面有一段註解，明文寫「從 `VIZ_STRINGS.srcPrefix` 推導，**不手列第二份清單**」，而且它是為了修一個真實事故才這樣寫的（譯版來源列被當資料列丟掉，約 440 篇、de 的 `Quelle` 112 處）。**那個決定只住在產生端的註解裡。** 後來寫的 `viz_health.py` 檢查同一種 fenced block，它的 `_SRC_RE` 寫死 `資料來源|來源|source` 三個標籤——正是那段註解拒絕維護的第二份清單，在檢查器這一側又長了一次。同一個檔案裡的 `_known_modules()` 其實已經示範了正確做法（模組白名單從 renderer registry 解析）；來源標籤沒跟著走，而沒有任何東西會問「這兩個清單是同一份嗎」。
+- **第二層（這條的新維度）**：**它一直沒出事，是因為用到它的規則全都只跑中文。** `viz_health` 的 A／B／C 三項 `_SSOT_LANG = "zh-TW"`，中文母稿只會寫 `來源：`，所以那份殘缺的標籤清單在三個月裡沒有一次被考驗。本班新增一條全語系跑的規則（D2），第一次掃全庫就回報 **488 個檔案**命中——全部是 `Fonte:`／`Quelle:`／`Fuente:` 的合法來源列。**一條規則的語言射程，會把它依賴的共用資料面的錯誤一起藏住**：射程不是只決定「這條規則檢查誰」，也決定「這條規則踩不踩得到它腳下那塊地」。下一個加全語系規則的人會再踩一次同一塊地，除非資料面本身換成推導的。
+- **觸發**：2026-10-16 維護班。為〈台中國家歌劇院〉的 `title:`／`axis:` 幽靈條補閘門（viz-health D2）時撞到。修法照 `_known_modules()` 的形狀：`_src_labels()` 從 renderer 的 `VIZ_STRINGS.srcPrefix` ＋ `_SRC_EXTRA_LABELS` 解析，解析不出來回退最小集合並 fail loud；488 → 10 → narrowed 後 0 假陽性。順帶量出第三份同型清單：renderer 的 config 鍵偵測（`單位|過半|欄`）也是寫死中文，〈視覺化模組型錄〉12 個譯本把鍵翻成 `Unit:`／`Einheit:`／`الوحدة:`，每個語言掉兩個模組的 config 又各多一條幽靈條——**解釋視覺化系統的那一頁，自己的視覺化壞在十二個語言裡**。→ `memory/2026-10-16-083443-twmd-maintainer-daily.md`、`af787aed3`
+- **instances**：
+  - 2026-10-16 twmd-maintainer-daily — viz_health `_SRC_RE` vs article-render `_buildSrcLineRe`，488 個假陽性現形 → `af787aed3`
+- **可能層級**：通用反射（#92 的子形狀，但觸發條件不同）
+- **相關**：[REFLEXES #92](REFLEXES.md)「Twin-artifact 缺重整器家族」——#92 問的是「誰在對這兩者做週期性對賬」，本條補的是**為什麼沒人想到要對賬**：產生端已經把「不要有第二份」寫成註解，所以產生端那一側的人覺得這件事已經解決了；而檢查端是另一個檔案、另一個 session、另一個時間點。[REFLEXES #83](REFLEXES.md)「checker 兩把尺 divergence」的 (b) 講豁免清單各分支各自維護，本條是同一件事跨「產生器 vs 檢查器」而非跨「同一支檢查器的兩個分支」。
+- **候選機械化**：`viz_health` 已從 renderer 解析模組名與來源標籤兩份，第三份（config 鍵）仍兩側各自寫死——把它也收進 `VIZ_STRINGS` 或一份共用 JSON，是這條能真正收掉的那一刀。另一個方向：對任何「從 renderer 解析」的 `lru_cache` 加 selftest 下限（`_MIN_EXPECTED_MODULES` 已有，`_MIN_EXPECTED_SRC_LABELS` 本班補上），解析壞掉時 fail loud 而非靜默放行。
+- **verification_count**: 1
+
 ### 2026-10-16 twmd-babel-nightly — liveness-check-cannot-see-cost-per-output：三重巡檢量得到「活著、在產出」，量不到每份產出走了哪條路
 
 - **pattern**: `liveness-check-cannot-see-cost-per-output`
