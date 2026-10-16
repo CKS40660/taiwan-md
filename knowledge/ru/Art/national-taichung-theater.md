@@ -23,9 +23,9 @@ curation: 'incubating'
 readingTime: 25
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-29_National_Taichung_Theater.jpg'
 translatedFrom: 'Art/台中國家歌劇院.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f4906969467717b0'
-sourceBodyHash: 'sha256:672a8871e0fcfa50'
+sourceCommitSha: 'af787aed'
+sourceContentHash: 'sha256:a25bf1fc731da114'
+sourceBodyHash: 'sha256:25800b112b14f272'
 translatedAt: '2026-09-08T15:54:54+08:00'
 ---
 
