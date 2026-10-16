@@ -1,14 +1,14 @@
 ---
-title: 'Doanh nghiệp Đài Loan: ASE Holdings — Nhà máy đóng gói bán dẫn lớn nhất thế giới'
-description: 'Công ty đóng gói và kiểm tra hàng đầu toàn cầu, làm sao ông chủ xây dựng lại thành công chuyển sang bán dẫn?'
+title: 'Doanh nghiệp Đài Loan: ASE Group'
+description: 'Năm 1984, ba mẹ con Trương Diêu Hoành từ lĩnh vực xây dựng đã chuyển hướng vốn sang mảng đóng gói và kiểm thử bán dẫn, thành lập ASE tại Nam Tử, Cao Hùng. Năm 1989, công ty trở thành doanh nghiệp đóng gói và kiểm thử đầu tiên niêm yết tại Đài Loan. Năm 1998, thông qua việc mua lại K&S của Hàn Quốc, công ty đã khai mở dịch vụ trọn gói "đóng gói + kiểm thử". Sau 40 năm, với doanh thu đạt 10,1 tỷ USD vào năm 2024 và chiếm gần 45% thị phần toàn cầu, ASE đã vươn lên vị trí dẫn đầu ngành đóng gói và kiểm thử, trở thành nhà vô địch ẩn mình trong việc "mặc áo" và "khám sức khỏe" cho các con chip.'
 date: 2026-03-21
 category: 'Economy'
 tags:
   [
-    'Economy',
+    'Kinh tế',
     'Doanh nghiệp',
     'Ngành bán dẫn',
-    'Đóng gói kiểm tra',
+    'Đóng gói và kiểm thử',
     'Sản xuất công nghệ',
   ]
 subcategory: '企業列傳'
@@ -19,10 +19,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-09-18T22:54:52.189913+00:00'
+translatedAt: '2026-10-16T03:27:34.858600+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 1984, Trương Yêu Hoàng Ảnh và hai con trai Trương Kiên Sinh, Trương Hồng Bản bỏ ngành xây dựng để khởi nghiệp trong lĩnh vực đóng gói bán dẫn, thành lập ASE Holdings (日月光). 40 năm sau, công ty trở thành nhà máy đóng gói bán dẫn lớn nhất thế giới với doanh thu 10,1 tỷ đô la Mỹ năm 2024, chiếm 45% thị phần toàn cầu. Mỗi chiếc iPhone, mỗi máy tính xách tay đều có thể dùng công nghệ của ASE — nó là nhà vô địch ẩn số giúp chip "mặc áo" và "khám phá bệnh".
