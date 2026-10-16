@@ -49,13 +49,39 @@ Taiwan.md 是純靜態網站（Astro SSG + GitHub Pages），沒有：
 
 這意味著攻擊面極小。主要風險在於：
 
-1. **Supply chain**：npm 依賴可能被植入惡意程式碼 → 定期 `npm audit`，Dependabot 啟用
+1. **Supply chain**：npm 依賴可能被植入惡意程式碼 → CI 的 `Engineering contracts` job 跑五道 `npm audit --audit-level=high`（倉庫根、`harvest/ui`、`harvest/backend`、`workers/mcp`、`cli`），任一道紅燈就擋下合併
 2. **GitHub Actions**：CI/CD 流程可能被利用 → 限制 workflow 權限，只允許 maintainer merge
 3. **內容注入**：PR 中可能包含 XSS payload → build 時 Astro 自動 escape，review 時人工檢查
 
 ### 第三方依賴
 
-我們使用 GitHub Dependabot 自動監控依賴漏洞。所有高風險（High/Critical）漏洞會在 7 天內處理。
+依賴漏洞目前由 **CI 的五道 `npm audit --audit-level=high`** 看守（見上一節）：每個 PR 與每次推上 main 都跑，`high` 以上擋下合併。本地可用 `bash scripts/tools/npm-audit-sweep.sh` 一次看完五道（五道是 `&&` 串的，第一道紅了後面不會跑）。
+
+**GitHub Dependabot 目前沒有啟用**（2026-10-16 實測：倉庫沒有 `.github/dependabot.yml`，`vulnerability-alerts` API 回 404，`automated-security-fixes` 回 `enabled: false`）。本節在此之前寫「我們使用 GitHub Dependabot 自動監控依賴漏洞，所有高風險漏洞會在 7 天內處理」——那是一份從未存在的控制，寫在資安研究者最先讀的那一頁上，已更正為實際在跑的那道。
+
+兩者的差別值得講明：CI 的 `npm audit` 是**事件驅動**的（有人推 code 才跑），Dependabot 是**持續監控**的（上游發公告就通知）。倉庫一個字都沒變而上游發了新公告的那段空窗，目前靠例行維護班每天跑 `ci-main-health.sh` 看 contracts job 有沒有轉紅接住。
+
+`moderate` 以下不擋合併，逐案判斷並記錄：沒有上游修補、或只有 breaking change 修得掉的，帶選項與代價進 [OBSERVER-QUEUE](docs/semiont/OBSERVER-QUEUE.md) 等拍板，不靜默放過也不急著降版。
+
+### HTTP 回應標頭（有意識的取捨）
+
+Taiwan.md 由 Cloudflare 前置、GitHub Pages 作為 origin 提供靜態檔案。GitHub Pages 不接受自訂回應標頭，所以站上**沒有** `Content-Security-Policy`、`X-Frame-Options`、`X-Content-Type-Options`、HSTS，而 `Access-Control-Allow-Origin` 是 `*`。
+
+2026-10-16 實測（唯讀，`curl -I`）：
+
+- `https://taiwan.md/` → `HTTP/2 200`、`server: cloudflare`、`access-control-allow-origin: *`，上述四個標頭皆無
+- `https://mcp.taiwan.md/` → `HTTP/2 405`（MCP 只收 POST，正常）、`access-control-allow-origin: *`、`access-control-allow-headers: Content-Type, Mcp-Session-Id, Accept`
+
+**為什麼接受現狀**：這是一個沒有登入、不發 cookie、不存使用者個資的靜態知識庫，內容本身就是要讓任何人（包含 AI 爬蟲）自由取用的公共財。`ACAO: *` 描述的正是這個意圖；CSP 要防的 session 劫持與資料外洩，在沒有 session 也沒有資料的前提下沒有保護對象。
+
+**什麼情況下要重新檢視**（任一成立就不能再沿用這條記錄）：
+
+1. 站上出現任何形式的登入、cookie 或 session
+2. `mcp.taiwan.md` 或任何 worker 端點開始接受憑證（API key、token、OAuth）
+3. 頁面開始載入第三方 script 或 iframe 嵌入使用者可控的內容
+4. 部署層換成可以自訂標頭的平台（屆時加標頭的成本趨近於零，預設就該加）
+
+誕生：issue [#1832](https://github.com/frank890417/taiwan-md/issues/1832) 的資安稽核記錄建議「若決定不加 CSP，在 `docs/` 留一則決策記錄」。本節是那則記錄，標頭狀態由維護班獨立 `curl` 複驗過，不是照抄報告。
 
 ## 致謝
 
@@ -63,4 +89,4 @@ Taiwan.md 是純靜態網站（Astro SSG + GitHub Pages），沒有：
 
 ---
 
-_最後更新：2026-03-19_
+_最後更新：2026-10-16_
