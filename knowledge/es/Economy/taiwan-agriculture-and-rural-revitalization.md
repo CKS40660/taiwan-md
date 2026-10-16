@@ -1,17 +1,17 @@
 ---
 title: 'Agricultura y regeneración rural en Taiwán'
-description: 'Del reino arrocero a la agricultura de calidad: la historia de la transformación agraria y el renacimiento de las comunidades rurales en Taiwán'
+description: 'Desde la mejora de las variedades de arroz de la era colonial japonesa y la reforma agraria de la posguerra, hasta la agricultura de precisión y la economía de la cadena agroalimentaria actual, la agricultura de esta isla ha pasado de ser un reino de producción masiva de arroz a convertirse en un nuevo modelo donde coexisten la creatividad y la sostenibilidad. Los jóvenes que regresan al campo utilizan transmisiones en vivo por dispositivos móviles combinadas con el envío directo desde el origen para permitir pedidos anticipados de los consumidores, logrando que las aldeas rurales, que habían perdido población, renazcan como pilares fundamentales de cultura y ecología.'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'Agricultura',
+    'agricultura',
     'regeneración rural',
-    'agricultura de calidad',
+    'agricultura de precisión',
     'agricultura orgánica',
-    'jóvenes retornados',
-    'sistema cooperativo agrario',
-    'dinamización comunitaria',
+    'regreso de jóvenes al campo',
+    'sistema de asociaciones agrícolas',
+    'creación de comunidad',
   ]
 subcategory: '農業經濟'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '35a9b46c8'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:bea7a776566a0bbd'
 sourceBodyHash: 'sha256:760025faea8ce9a0'
-translatedAt: '2026-09-23T22:11:50+08:00'
+translatedAt: '2026-10-16T02:17:52.967875+00:00'
 ---
 
 # Agricultura y regeneración rural en Taiwán
