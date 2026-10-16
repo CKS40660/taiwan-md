@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T21:01:05+08:00",
-    "zhCommitHead": "9bb513dc5",
+    "lastUpdated": "2026-10-17T00:40:16+08:00",
+    "zhCommitHead": "e316c1c12",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1135,
-        "fresh": 1132,
-        "stale": 1,
+        "fresh": 1133,
+        "stale": 0,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1128,
-        "stale": 5,
-        "metadata_stale": 2,
+        "fresh": 1130,
+        "stale": 4,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
@@ -10372,20 +10372,18 @@
         "hi": {
           "path": "hi/Economy/taiwan-self-media-creator-economy.md",
           "translatedFrom": "Economy/台灣自媒體創作者經濟.md",
-          "sourceCommitSha": "7255b3ab1",
+          "sourceCommitSha": "271d82d6f",
           "sourceContentHash": "sha256:4da8d8f4824a9c3e",
           "sourceBodyHash": "sha256:ccfe4d55665e1140",
-          "translatedAt": "2026-09-23T09:26:35+08:00",
+          "translatedAt": "2026-10-16T19:20:56+08:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 37718,
+          "bytes": 38534,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-self-media-creator-economy.md",
@@ -121907,20 +121905,18 @@
         "hi": {
           "path": "hi/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:eecabb61bafa58a4",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-09-09T09:16:30.725006+00:00",
+          "sourceCommitSha": "ad1003d60",
+          "sourceContentHash": "sha256:e9fda10d17c79506",
+          "sourceBodyHash": "sha256:cd0efff98eed1fd7",
+          "translatedAt": "2026-10-16T15:43:18.330653+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 170295,
+          "bytes": 171100,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/mona-rudao.md",
@@ -149669,8 +149665,8 @@
           "sourceContentHash": "sha256:12d3122bbe1c03b4",
           "sourceBodyHash": "sha256:decf157a216cec86",
           "translatedAt": "2026-10-16T19:20:53+08:00",
-          "translationLastCommit": "5e1dd19d",
-          "translationLastModified": "2026-10-10T23:40:25+08:00",
+          "translationLastCommit": "f53ae9c2",
+          "translationLastModified": "2026-10-16T21:01:06+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 11742,
@@ -216015,20 +216011,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-advertising-history.md",
           "translatedFrom": "Culture/台灣廣告史.md",
-          "sourceCommitSha": "f7484ebea",
-          "sourceContentHash": "sha256:faa63331d7b3eae1",
-          "sourceBodyHash": "sha256:296b2f47a01a03eb",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "7e660a586",
+          "sourceContentHash": "sha256:f7212df28a7408b1",
+          "sourceBodyHash": "sha256:5f193ab0cecd9e8d",
+          "translatedAt": "2026-10-16T15:03:15.146247+00:00",
           "translationLastCommit": "23f8c108",
           "translationLastModified": "2026-10-10T23:30:52+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 53363,
+          "bytes": 65956,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-advertising-history.md",
