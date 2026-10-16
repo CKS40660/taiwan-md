@@ -28,10 +28,10 @@ imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:446265901543dd85'
-sourceBodyHash: 'sha256:2daf1a831ec93084'
-translatedAt: '2026-09-09T15:32:21+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:426316f6a96d8460'
+sourceBodyHash: 'sha256:035cd9cc6b8c328a'
+translatedAt: '2026-10-16T11:20:30.357032+00:00'
 ---
 
 # डेटा से ताइवान के 22 जिले: सबसे भीड़ भरे और सबसे खाली में 151 गुना अंतर, सबसे युवा और सबसे पुराने में एक पीढ़ी का अंतर

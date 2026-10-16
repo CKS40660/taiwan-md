@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-16T14:55:52+08:00",
-    "zhCommitHead": "b2466ec5e",
+    "lastUpdated": "2026-10-16T21:00:51+08:00",
+    "zhCommitHead": "40f5b0eb9",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1135,
-        "fresh": 1134,
+        "fresh": 1135,
         "stale": 0,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1127,
-        "stale": 6,
+        "fresh": 1128,
+        "stale": 5,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -12414,8 +12414,8 @@
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
           "translatedAt": "2026-10-16T11:58:59+08:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "386ea9e4",
+          "translationLastModified": "2026-10-16T14:55:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 17844,
@@ -52811,8 +52811,8 @@
           "sourceContentHash": "sha256:7d3802fe03c60e03",
           "sourceBodyHash": "sha256:24a950fc8509e96a",
           "translatedAt": "2026-10-16T04:47:49.377820+00:00",
-          "translationLastCommit": "1924cd82",
-          "translationLastModified": "2026-10-10T22:55:55+08:00",
+          "translationLastCommit": "386ea9e4",
+          "translationLastModified": "2026-10-16T14:55:52+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 89808,
@@ -149665,20 +149665,18 @@
         "en": {
           "path": "en/People/niu-cheng-ze-controversial-filmmaker-monga-director.md",
           "translatedFrom": "People/鈕承澤.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:03252333a42bc60e",
+          "sourceCommitSha": "ad792c900",
+          "sourceContentHash": "sha256:12d3122bbe1c03b4",
           "sourceBodyHash": "sha256:decf157a216cec86",
-          "translatedAt": "2026-05-16T21:50:00Z",
+          "translatedAt": "2026-10-16T19:20:53+08:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 9946,
+          "bytes": 11742,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/niu-cheng-ze-controversial-filmmaker-monga-director.md",
@@ -198289,20 +198287,18 @@
         "hi": {
           "path": "hi/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:446265901543dd85",
-          "sourceBodyHash": "sha256:2daf1a831ec93084",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "sourceCommitSha": "d525e99ee",
+          "sourceContentHash": "sha256:426316f6a96d8460",
+          "sourceBodyHash": "sha256:035cd9cc6b8c328a",
+          "translatedAt": "2026-10-16T11:20:30.357032+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 60627,
+          "bytes": 60634,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/data-taiwan-22-cities.md",
