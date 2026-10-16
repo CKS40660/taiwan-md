@@ -1,141 +1,157 @@
 ---
-title: 'Niu Cheng-Ze: Talent and Controversy in Taiwan Cinema'
-description: "Niu Cheng-Ze is a renowned Taiwan director and actor, famous for films like 'Monga' and 'Paradise in Service.' From child star to acclaimed director, his works often addressed sensitive social issues with distinctive personal style. However, his career and legacy were overshadowed by a 2018 sexual assault conviction, making him a controversial figure in Taiwan's film industry."
+title: 'Niu Cheng-ze'
+description: 'A child star born in 1966 who entered the industry at age 11 with "The Clown"; after transitioning to directing, he achieved massive success with "A Bongo in Taipei" (艋舺), but his career was overshadowed by a 2018 sexual assault case and subsequent legal battles.'
 date: 2026-03-19
-tags: ['Niu Cheng-Ze', 'Director', 'Actor', 'Monga', 'Controversy']
+category: 'People'
+tags: ['Niu Cheng-ze', 'Director', 'Actor', 'A Bongo in Taipei', 'Controversy']
 subcategory: '電影與戲劇'
-lastVerified: 2026-03-19
-translatedFrom: 'People/鈕承澤.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:03252333a42bc60e'
-sourceBodyHash: 'sha256:decf157a216cec86'
-translatedAt: '2026-05-16T21:50:00Z'
-category: People
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'People/鈕承澤.md'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:12d3122bbe1c03b4'
+sourceBodyHash: 'sha256:decf157a216cec86'
+translatedAt: '2026-10-16T19:20:53+08:00'
 ---
 
-# Niu Cheng-Ze: Talent and Controversy in Taiwan Cinema
+# Niu Cheng-ze: A Filmmaker of Coexisting Talent and Controversy
 
-From "Monga" to "Paradise in Service," Niu Cheng-Ze established his standing in cinema with a powerful personal style, his works frequently touching on sensitive issues in Taiwanese society. In 2018, accusations of sexual assault and the subsequent guilty verdict tied his name to Taiwan's #MeToo wave, abruptly ending his career.
+From _A Bongo in Taipei_ to _Military Strike Force_, Niu Cheng-ze earned a position in the film industry through his intense personal style, with works that frequently touch upon sensitive issues in Taiwanese society. In 2018, allegations of sexual assault and the subsequent guilty verdict tied his name to Taiwan's #MeToo movement, bringing his entertainment career to an abrupt halt.
 
-## Child Star Beginnings
+## Starting Career as a Child Star
 
-Born May 22, 1966, in Taipei, Niu Cheng-Ze grew up in a military dependents' village (眷村). His father was a retired serviceman and his mother a housewife. From childhood, he displayed remarkable performing talent.
+Niu Cheng-ze was born on May 22, 1966, in Taipei; his father, Niu Yung-yeh, was a veteran, and his mother was a homemaker. Growing up in a military dependents' village (_juancun_), he demonstrated a talent for acting from an early age.
 
-In 1977, at age 11, Niu appeared in the film "The Clown," officially entering the entertainment industry. His child star image was beloved by audiences, and he subsequently appeared in multiple films, becoming one of the famous child stars of the 1970s.
+In 1977, at the age of 11, Niu officially entered the entertainment industry by appearing in the film _The Clown_. His image as a child star was beloved by audiences, and he went on to appear in several films, becoming one of the well-known child actors of the 1970s.
 
-His childhood acting experience provided valuable foundation for his later directorial career. He learned all aspects of filmmaking from an early age in studios, developing a keen sense for cinematography.
+His experience performing as a child provided valuable experience for his later career as a director; growing up in film studios allowed him to learn various stages of filmmaking and cultivate a keen sense for the camera.
 
-## Actor Years in the 1980s
+## The Actor Years of the 1980s
 
-As an adult, Niu continued his acting career, appearing in films like "Old Mo's Second Spring" and "Dust in the Wind" directed by Hou Hsiao-Hsien (侯孝賢). He was an important participant in Taiwan's New Cinema movement.
+As an adult, Niu continued his work as an actor, appearing in works by director [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien/) such as _The Second Spring of Old Mo_ and _Flowers of Shanghai_, making him a significant participant in the Taiwan New Cinema movement.
 
-Under Hou's guidance, he learned the essence of cinematic art, profoundly influencing his later creative style. He began contemplating film's deeper meanings beyond commercial entertainment.
+Under the guidance of [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien/), he learned the essence of cinematic art, an experience that profoundly influenced his later creative style. He began to contemplate the deeper meanings of film beyond mere commercial entertainment.
 
-His 1980s acting experience gave Niu a solid foundation in performance technique; more importantly, it built his first-hand understanding of the entire film production process.
+His performance experience in the 1980s allowed Niu to accumulate solid acting skills and, more importantly, establish a first-hand understanding of the overall filmmaking process.
 
-## Successful Television Transition
+## Successful Transition to Television
 
-In the 1990s, Niu turned to television drama development, directing works like "Taiwan Supernatural" to audience acclaim. These works demonstrated his deep understanding of Taiwan's local culture.
+In the 1990s, Niu transitioned toward television, directing works such as _Taiwanese Paranormal Events_ that received critical acclaim from audiences. These works demonstrated his deep understanding of local Taiwanese culture.
 
-He particularly excelled at handling suspense and thriller themes, creating distinctive visual styles. These television works cultivated a stable audience base and accumulated directorial experience.
+He was particularly skilled at handling suspense and thriller genres, creating a unique visual style. These television works helped him cultivate a stable audience base and accumulate directing experience.
 
-Television success established Niu's reputation in the film and TV industry, providing resources and industry connections for his later entry into cinema.
+The success of his television series established his reputation in the media industry and provided the resources and connections necessary for his later foray into cinema.
 
-## Launching Directorial Career
+## The Beginning of a Directing Career
 
-In 2000, Niu directed his debut film "Love Kill," officially launching his directorial career. Though box office performance was modest, it demonstrated his directorial potential.
+In 2000, Niu officially began his career as a director with his debut film _The Assassin_. Although the film's box office performance was mediocre, it demonstrated his potential as a director.
 
-"Love Kill" dealt with complex human nature issues, revealing Niu's interest in dark psychological themes. This stylistic characteristic would be further developed in his subsequent works.
+_The Assassin_ dealt with complex issues of human nature, showcasing Niu's interest in the darker aspects of humanity—a stylistic trait that would further develop in his subsequent works.
 
-His first directing experience taught him the complexity of film production and solidified his determination to become a director.
+The experience of his first time directing taught him the complexities of film production and solidified his ambition to become a director.
 
-## The Massive Success of "Monga"
+## The Massive Success of _A Bongo in Taipei_
 
-In 2010, Niu's "Monga" became his career's signature work. This youth gangster film set in 1980s Wanhua achieved tremendous success.
+In 2010, Niu's film _A Bongo in Taipei_ (_Měngjiǎ_) became the representative work of his directing career. This youth gang film, set in the Wanhua District during the 1980s, achieved massive success.
 
-The film assembled young actors including Zhao You-Ting, Ruan Jing-Tian, and Feng Xiao-Yue, depicting teenagers' coming-of-age stories in gang environments. The film featured strong visual style and emotional impact.
+The film featured young actors such as Mark Chao, Ethan Juan, and Paul Chin, describing the growth stories of adolescents within a gang environment. The film possessed a strong visual style and powerful emotional resonance.
 
-"Monga" earned over NT$200 million at the box office, making it Taiwan's highest-grossing domestic film that year. This work established Niu's important position in Taiwan cinema.
+_A Bongo in Taipei_ grossed over NT$200 million, making it the most successful local film in Taiwan that year. This work established Niu's important position in the Taiwanese film industry.
 
-## "Paradise in Service" - Deep Exploration
+## Deep Exploration in _Military Strike Force_
 
-2014's "Paradise in Service" was another significant work by Niu, courageously addressing the sensitive topic of military comfort stations, demonstrating his concern for historical issues.
+The 2014 film _Military Strike Force_ (_Jūnzōng Lèyuán_) is another significant work by Niu, dealing with the sensitive subject of military brothels and demonstrating his attention to historical issues.
 
-The film bravely touched upon taboo topics in Taiwan's history, sparking social discussion. Niu used delicate techniques to handle complex moral issues, showing directorial maturity.
+This film bravely touched upon taboo topics in Taiwanese history, sparking social discussion. Niu used a delicate approach to handle complex moral issues, demonstrating his maturity as a director.
 
-"Paradise in Service" received multiple Golden Horse Award nominations, proving Niu could handle both commercial and artistic subjects.
+_Military Strike Force_ received several Golden Horse Award nominations, proving that Niu was capable of not only making commercial films but also handling artistic subject matter.
 
-## Cinematic Style and Themes
+## Film Style and Themes
 
-Niu's films possessed strong personal style, frequently exploring dark aspects and taboo topics in Taiwanese society. He didn't avoid controversy, courageously presenting society's complexity.
+Niu's films possess a strong personal style, often exploring the dark sides and taboo topics of Taiwanese society. He does not avoid controversy and is courageous in presenting social complexities.
 
-His works often carried thick nostalgic colors, particularly reflecting on 1980s Taiwanese society. This nostalgic sentiment reflected his personal growth experiences.
+His works often carry a heavy sense of nostalgia, particularly regarding reflections on 1980s Taiwanese society. This nostalgic sentiment reflects his own personal upbringing.
 
-Niu excelled at creating intense emotional atmospheres; his films were always full of tension and conflict, giving his works strong visual impact.
+Niu is adept at creating intense emotional atmospheres; his films are always filled with tension and conflict. This style gives his works strong visual impact.
 
 ## Observations of Taiwanese Society
 
-Niu's works frequently reflected Taiwan's social changes and problems, using film to document temporal transformations. From military dependents' village culture to urban development, these were his focused themes.
+Niu's works frequently reflect the changes and problems within Taiwanese society, using film to record the shifts of an era. From _juancun_ culture to urban development, these are themes he focuses on.
 
-He particularly concerned himself with marginalized groups' survival conditions, including gang members, soldiers, and sex workers. These characters gained human dignity through his lens.
+He pays particular attention to the survival status of marginalized groups, including gang members, soldiers, and sex workers. Under his lens, these characters are granted human dignity.
 
-Niu believed films should reflect social reality and not escape difficult problems. This creative philosophy gave his works sociological significance.
+Niu believes that film should reflect social reality and should not evade difficult questions. This creative philosophy gives his works sociological significance.
+
+## Relationship with Actors
+
+Niu is skilled at discovering and nurturing new actors; individuals like Mark Chao and Ethan Juan in _A Bongo in Taipei_ achieved breakthroughs under his guidance. He possesses a keen eye for casting.
+
+He requires actors to be completely immersed in their roles, often having them undergo deep character preparation. This rigorous requirement makes the performances in his works very convincing.
+
+The collaborative relationships Niu builds with actors are usually very close; he believes that directors and actors are creative partners who need mutual trust and cooperation.
 
 ## The 2018 Sexual Assault Case
 
-In 2018, Niu was accused of sexually assaulting female staff members, generating widespread social attention. This incident completely altered his life trajectory and public image.
+In 2018, Niu was accused of sexually assaulting a female staff member, an incident that drew widespread social attention. This event completely altered his life trajectory and public image.
 
-During case proceedings, more victims came forward with accusations, revealing the problem's severity. These allegations caused devastating damage to his reputation and career.
+During the trial, more victims came forward with allegations, demonstrating the severity of the issue. These accusations dealt a devastating blow to his reputation and career.
 
-At first instance, the Taipei District Court found Niu guilty in April 2020 and sentenced him to 4 years' imprisonment; the Taiwan High Court upheld the verdict on appeal in December 2020; and the Supreme Court dismissed the final appeal in September 2021, making the judgment final[^1]. This final verdict confirmed his criminal behavior and ended his entertainment career.
+In April 2020, the Taipei District Court found Niu guilty in the first instance and sentenced him to four years in prison; the Taiwan High Court upheld the original verdict in December 2020; the Supreme Court rejected the appeal in September 2021, making the judgment final[^1]. This final judgment confirmed his criminal conduct and ended his entertainment career.
 
-## Impact on Taiwan's Film Industry
+## Impact on the Taiwanese Media Industry
 
-The Niu Cheng-Ze incident prompted Taiwan's film and television industry to reflect on gender equality and workplace sexual harassment issues, promoting establishment and improvement of related systems.
+The Niu Cheng-ze incident prompted reflection within the Taiwanese film and television industry regarding gender equality and sexual harassment in the workplace, promoting the establishment and improvement of relevant systems.
 
-This incident also led society to reexamine power inequality problems in the entertainment industry, advancing Taiwan's MeToo movement development.
+This event also led society to re-examine the issue of power inequality within the entertainment industry, driving the development of the #MeToo movement in Taiwan.
 
-The industry began establishing more comprehensive complaint mechanisms and protective measures to prevent similar incidents.
+The media industry began establishing more complete grievance mechanisms and protective measures to prevent similar incidents from occurring again.
 
 ## Re-evaluation of Works
 
-Following Niu's scandal, his past works faced re-evaluation. Audiences and critics began examining these films from different perspectives.
+Following the Niu Cheng-ze incident, his past works also faced re-evaluation. Audiences and critics began to examine these films from different perspectives.
 
-Some believe artistic works should be evaluated separately from creators' personal behavior, while others argue that creators' character affects works' value.
+Some argue that artistic works should be evaluated separately from the personal conduct of the creator, while others believe a creator's character affects the value of the work.
 
-These discussions reflect society's contemplation of the relationship between art and morality, an important issue facing contemporary cultural circles.
+This discussion reflects societal thinking on the relationship between art and morality, which is also an important issue facing contemporary culture.
 
-## Legal Proceedings and Social Justice
+## Impact on Victims
 
-Niu's case demonstrated Taiwan's judicial system's handling of sexual violence cases, reflecting society's pursuit of justice.
+Niu Cheng-ze's criminal actions caused severe physical and mental trauma to the victims, which is the aspect of this entire incident that requires the most attention.
 
-While the verdict provided victims with some degree of justice, it also sparked discussion about whether the sentence was appropriate.
+Society has begun to place greater importance on protecting the rights of victims, including assistance in areas such as legal support and psychological counseling.
 
-The case prompted deep public discussion in Taiwan over the relationship between "talent" and "character," and became a reference case for subsequent workplace gender-safety education among film and television practitioners.
+This case also serves as a reminder to society that better mechanisms must be established to prevent and handle issues of sexual violence.
 
-## Lessons for Taiwan's Film Industry
+## Legal Procedures and Social Justice
 
-The Niu incident provided important lessons for Taiwan's film industry, prompting the industry to reexamine work environments and workplace culture.
+The legal proceedings of the Niu Cheng-ze case demonstrate how the Taiwanese judicial system handles sexual violence cases and reflect society's pursuit of justice.
 
-The film industry began establishing stricter behavioral standards and supervision mechanisms, ensuring all staff's safety and dignity.
+While the verdict provided a certain degree of justice for the victims, it also sparked discussions regarding whether the prison sentence was appropriate.
 
-This incident reminded the film industry of greater social responsibility, that commercial interests cannot override moral boundaries.
+This case triggered deep discussions in Taiwanese society regarding the relationship between "talent" and "character," and has become a reference case for workplace gender safety education for future media professionals.
 
-Niu Cheng-Ze's case represents an important turning point for Taiwan's film and television industry. His talent once brought brilliant works to Taiwan cinema, but his criminal behavior also reminded society of the importance of power and responsibility. This case will continue influencing Taiwan's film industry development, promoting the establishment of healthier, safer work environments throughout the industry.
+## Lessons for the Taiwanese Film Industry
+
+The Niu Cheng-ze incident provided an important lesson for the Taiwanese film industry, prompting the industry to re-examine working environments and workplace culture.
+
+The film industry has begun establishing stricter codes of conduct and supervisory mechanisms to ensure the safety and dignity of all staff members.
+
+This event also serves as a reminder that the film industry must shoulder more social responsibility and cannot merely pursue commercial interests while ignoring moral bottom lines.
+
+Niu Cheng-ze's case is a significant turning point for the Taiwanese media industry. His talent once brought wonderful works to Taiwanese cinema, but his criminal actions serve as a reminder of the importance of power and responsibility. This case will continue to influence the development of Taiwan's film and television industry, urging the entire sector to establish a healthier and safer working environment.
 
 ## References
 
-[^1]: Taro News, "Niu Cheng-Ze sexual assault case final verdict at Supreme Court: 4 years' imprisonment," https://taronews.tw/, September 2021
+[^1]: [Yutuan Media: "Supreme Court Finalizes Verdict in Niu Cheng-ze Sexual Assault Case; Sentenced to 4 Years Imprisonment"](https://taronews.tw/) — September 2021
 
-[^2]: Judicial Yuan Legal Database, Niu Cheng-Ze sexual assault case judgment documents, https://judgment.judicial.gov.tw/
+[^2]: Judicial Yuan Legal Database Retrieval System, Judgment in the Niu Cheng-ze Sexual Assault Case, https://judgment.judicial.gov.tw/
 
-[^3]: Central News Agency, "Niu Cheng-Ze sexual assault case: Taipei District Court first-instance guilty verdict, 4 years," https://www.cna.com.tw/, April 2020
+[^3]: [CNA: "Niu Cheng-ze Involved in Sexual Assault; Taipei District Court Finds Him Guilty in First Instance, Sentenced to 4 Years"](https://www.cna.com.tw/) — April 2020
 
-[^4]: Ministry of Culture, Gender Equality Policy for Taiwan's Film and Television Industry, https://www.moc.gov.tw/
+[^4]: Ministry of Culture Taiwan Film and Television Industry Gender Equality Policy, https://www.moc.gov.tw/
 
-[^5]: Awakening Foundation, advocacy materials on the MeToo movement in Taiwanese society, https://www.awakening.org.tw/
+[^5]: Women's New Knowledge Foundation, Advocacy Materials for the #MeToo Movement in Taiwanese Society, https://www.awakening.org.tw/
 
-[^6]: Wikipedia "Niu Cheng-Ze" entry, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4
+[^6]: Wikipedia entry "Niu Cheng-ze", https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4
