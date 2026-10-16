@@ -365,3 +365,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-16 | 061048-twmd-embeddings-nightly | 例行重建：13 語 14,606 向量 0 fail，verify PASS，`d2f08a25d`；電價與林央敏進 zh 索引（1,122→1,124）；push 被拒仍是 data-refresh 代推 | 文章數與索引兩天固定差 9，固定的差先當定義不同 | [→](memory/2026-10-16-061048-twmd-embeddings-nightly.md) |
 | 2026-10-16 | 064254-twmd-spore-harvest-am | 窗口連六天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op；Chrome 多連一台瀏覽器，交接記下先選回登入那台 | 空場的結論靠「看的是登入那台」撐著 | [→](memory/2026-10-16-064254-twmd-spore-harvest-am.md) |
 | 2026-10-16 | 071157-twmd-feedback-triage | 佇列空一輪（沉默 1.6 天，史上最長 14.7）；四層健檢全綠、INSERT 照舊誠實空著；`archive-comments-synced=1` 把昨天那則回覆收進主權層；對賬 89/89 與 88/89 | 成功分支的綠燈跟告警分支一樣需要被驗過 | [→](memory/2026-10-16-071157-twmd-feedback-triage.md) |
+| 2026-10-16 | 083643-semiont-heartbeat | 工作樹先同步 50 個 commit；週額度 46% 判 🟡 lean，haiku 波次粗算每夜約 5 到 7 篇未見超標，去重版交 babel 席位，本拍輕量只記帳 | 粗算只能說沒看到超標，不能說已守住 | [→](memory/2026-10-16-083643-semiont-heartbeat.md) |
