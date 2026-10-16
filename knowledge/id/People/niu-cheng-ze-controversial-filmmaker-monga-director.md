@@ -1,157 +1,158 @@
 ---
-title: 'Doze Niu (鈕承澤)'
-description: 'Sutradara *Monga*, beralih dari aktor ke sutradara, sosok film yang mengandung kontroversi'
+title: 'Niu Cheng-ze'
+description: 'Bintang cilik dari lingkungan *quan-cun* yang lahir pada 1966, memulai karier di usia 11 tahun melalui film "Clown". Setelah dewasa, ia terlibat dalam karya Hou Hsiao-hsien seperti "Millennium Mambo" dan menjadi bagian dari Gerakan Film Baru Taiwan. Setelah bertransformasi dari aktor menjadi sutradara, ia membuktikan bakat kreatifnya melalui "A Brighter Summer Day" (versi 2010) yang sukses besar secara komersial dan kritis. Namun, kasus pelecehan seksual pada tahun 2018 menjerumuskan sineas berbakat ini ke dalam persidangan bertahun-tahun, meninggalkan bayang-bayang kontroversi pada karier seninya.'
 date: 2026-03-19
 category: 'People'
-tags: ['Doze Niu', 'sutradara', 'aktor', 'Monga', 'kontroversi']
+tags:
+  ['Niu Cheng-ze', 'sutradara', 'aktor', 'A Brighter Summer Day', 'kontroversi']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/鈕承澤.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:03252333a42bc60e'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:12d3122bbe1c03b4'
 sourceBodyHash: 'sha256:decf157a216cec86'
-translatedAt: '2026-08-09T15:02:42+08:00'
+translatedAt: '2026-10-16T07:57:01+08:00'
 ---
 
-# Doze Niu (鈕承澤): Bakat dan Kontroversi Beriringan pada Seorang Filmis
+# Niu Cheng-ze: Sineas dengan Bakat dan Kontroversi yang Berdampingan
 
-Dari _Monga_ ke _Paradise in Service_, Doze Niu menegaskan posisinya di dunia perfilman dengan gaya pribadi yang kuat, karyanya sering menyentuh isu-isu sensitif masyarakat Taiwan. Tahun 2018, tuduhan kasus kekerasan seksual dan vonis bersalah yang mengikutinya, mengikat namanya dengan gelombang #MeToo Taiwan, menghentikan karir hiburnya secara tiba-tiba.
+Dari "A Brighter Summer Day" hingga "Paradise in Military Camp", Niu Cheng-ze memenangkan posisi di dunia perfilman dengan gaya personal yang kuat, di mana karya-karyanya sering kali menyentuh isu-isu sensitif dalam masyarakat Taiwan. Pada tahun 2018, tuduhan pelecehan seksual dan vonis bersalah yang menyusul kemudian mengaitkan namanya dengan gelombang #MeToo di Taiwan, yang secara mendadak menghentikan karier seninya.
 
-## Awal Karir Hiburan sebagai Bintang Anak
+## Awal Karier sebagai Bintang Cilik
 
-Doze Niu lahir pada 22 Mei 1966 di Taipei, ayahnya Niu Yung-yeh (鈕永曄) adalah mantan prajurit, ibunya ibu rumah tangga. Tumbuh di lingkungan permukiman眷村 (juancun), ia menampilkan bakat akting sejak kecil.
+Niu Cheng-ze lahir pada 22 Mei 1966 di Taipei. Ayahnya, Niu Yung-yeh (鈕永曄), adalah seorang veteran militer, dan ibunya adalah seorang ibu rumah tangga. Tumbuh dalam lingkungan _quan-cun_ (desa militer), ia telah menunjukkan bakat akting sejak kecil.
 
-Pada 1977, berusia 11 tahun, Doze Niu berperan dalam film _The Clown_ (《小丑》), resmi memasuki dunia hiburan. Citra bintang anaknya sangat disukai penonton, ia berperan dalam banyak film, menjadi salah satu bintang anak terkenal era 1970-an.
+Pada tahun 1977, di usia 11 tahun, Niu Cheng-ze membintangi film "Clown" (小丑), yang secara resmi menandai masuknya dia ke dunia hiburan. Citra bintang ciliknya sangat dicintai penonton, dan ia terus berpartisipasi dalam berbagai film, menjadi salah satu bintang cilik terkenal pada era 1970-an.
 
-Pengalaman akting sebagai bintang anak memberikan fondasi berharga untuk karir sutradaranya kelak; sejak kecil ia belajar berbagai tahap pembuatan film di studio, melatih kepekaan kamera yang tajam.
+Pengalaman akting selama masa bintang cilik memberikan pengalaman berharga bagi karier penyutradaraannya di kemudian hari; sejak kecil ia telah belajar berbagai tahapan produksi film di studio, yang mengasah kepekaan visualnya terhadap kamera.
 
-## Masa Aktor pada 1980-an
+## Masa Sebagai Aktor pada 1980-an
 
-Setelah dewasa, Doze Niu melanjutkan pekerjaan akting, berperan dalam _Lao Mo's Second Spring_ (《老莫的第二個春天》), _Dust in the Wind_ (《戀戀風塵》) dan karya-karya sutradara **Hou Hsiao-hsien (侯孝賢)** (zh only — Hou Hsiao-hsien), menjadi peserta penting Gerakan Film Baru Taiwan.
+Setelah dewasa, Niu Cheng-ze melanjutkan pekerjaannya sebagai aktor, membintangi karya-karya sutradara [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien/) seperti "The Second Spring of Old Mo" dan "Millennium Mambo", serta menjadi partisipan penting dalam Gerakan Film Baru Taiwan.
 
-Di bawah bimbingan **Hou Hsiao-hsien**, ia mempelajari hakikat seni film, pengalaman ini berdampak mendalam pada gaya kreatifnya di kemudian hari. Ia mulai merenungkan makna mendalam film, bukan sekadar hiburan komersial.
+Di bawah bimbingan [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien/), ia mempelajari esensi seni film, sebuah pengalaman yang memberikan pengaruh mendalam terhadap gaya kreatifnya di masa depan. Ia mulai memikirkan makna mendalam dari film, bukan sekadar hiburan komersial.
 
-Pengalaman akting 1980-an membuat Doze Niu mengumpulkan keterampilan akting yang solid, yang lebih penting, membangun pemahaman langsung tentang alur produksi film secara keseluruhan.
+Pengalaman akting pada 1980-an memungkinkan Niu Cheng-ze mengumpulkan keterampilan akting yang solid, dan yang lebih penting, membangun pemahaman tangan pertama mengenai keseluruhan proses produksi film.
 
-## Transisi Sukses ke Drama Televisi
+## Transformasi Sukses ke Drama Televisi
 
-1990-an Doze Niu beralih ke drama televisi, menyutradarai _Taiwan Supernatural Events_ (《台灣靈異事件》) dan lain-lain, mendapat pujian penonton. Karya-karya ini menunjukkan pemahaman mendalamnya tentang budaya lokal Taiwan.
+Pada 1990-an, Niu Cheng-ze beralih ke pengembangan drama televisi, menyutradarai karya seperti "Taiwan Ghost Stories" (台灣靈異事件) yang mendapat pujian dari penonton. Karya-karya ini menunjukkan pemahaman mendalamnya terhadap budaya lokal Taiwan.
 
-Ia terampil mengolah genre misteri dan horor, menciptakan gaya visual unik. Karya-karya televisi ini mengembangkan basis penonton stabil, serta mengakumulasi pengalaman menyutradarai.
+Ia sangat ahli dalam menangani tema misteri dan thriller, menciptakan gaya visual yang unik. Karya-karya televisi ini membantunya membangun basis penonton yang stabil serta mengumpulkan pengalaman penyutradaraan.
 
-Keberhasilan drama televisi membangun reputasi Doze Niu di industri film-televisi, juga menyediakan sumber daya dan jaringan untuk lompatan ke dunia film besar.
+Kesuksesan di drama televisi membangun reputasi Niu Cheng-ze di industri audiovisual, serta menyediakan sumber daya dan jaringan koneksi untuk langkahnya memasuki dunia film nantinya.
 
-## Pembukaan Karir Sutradara
+## Dimulainya Karier Penyutradaraan
 
-Tahun 2000 Doze Niu menyutradarai film perdana _A Matter of Life and Death_ (《愛殺》), resmi membuka karir sutradaranya. Karya ini meski tiketnya biasa saja, tapi menunjukkan potensialnya sebagai sutradara.
+Pada tahun 2000, Niu Cheng-ze memulai karier penyutradaraannya secara resmi melalui debut film "The Assassin" (愛殺). Meskipun performa box office film ini biasa saja, karya tersebut menunjukkan potensi penyutradaraannya.
 
-_A Matter of Life and Death_ mengangkat isu kemanusiaan yang kompleks, mengekspos minat Doze Niu pada sisi gelap kemanusiaan. Ciri gaya ini berkembang lebih lanjut di karyanya selanjutnya.
+"The Assassin" menangani isu kemanusiaan yang kompleks, menunjukkan ketertarikan Niu Cheng-ze pada sisi gelap manusia. Karakteristik gaya ini terus berkembang dalam karya-karyanya di kemudian hari.
 
-Pengalaman debut menyutradarai membuatnya belajar kompleksitas produksi film, juga semakin meyakinkan keinginannya menjadi sutradara.
+Pengalaman penyutradaraan pertama membuatnya mempelajari kompleksitas produksi film dan semakin memantapkan tekadnya untuk menjadi seorang sutradara.
 
-## Sukses Gemilang _Monga_
+## Kesuksesan Besar "A Brighter Summer Day"
 
-_Monga_ (《艋舺》) yang disutradarai Doze Niu pada 2010 menjadi representatif karir sutradaranya, film aksi remaja berlatar Wan Hua (萬華) era 1980-an ini meraih sukses besar.
+Pada tahun 2010, film yang disutradarai Niu Cheng-ze, "A Brighter Summer Day" (艋舺), menjadi karya representatif dalam karier penyutradaraannya. Film bertema geng remaja dengan latar belakang Wanhua pada era 1980-an ini meraih kesuksesan besar.
 
-Film mengumpulkan aktor muda Chao Yu-ting (趙又廷), Juan Ching-tien (阮經天), Feng Hsiao-yueh (鳳小岳) (zh only — 趙又廷, 阮經天, 鳳小岳), menceritakan kisah dewasa remaja di lingkungan geng. Gaya visual film kuat, daya rendam emosional dalam.
+Film ini melibatkan aktor muda seperti Mark Chao (趙又廷), Eddie Peng (阮經天), dan Feng Hsiao-yueh (鳳小岳), yang menggambarkan kisah pertumbuhan remaja dalam lingkungan geng. Gaya visual film ini sangat kuat dengan daya emosional yang tinggi.
 
-_Monga_ meraup tiket lebih 2 miliar NT$, film lokal Taiwan paling laris tahun itu. Karya ini menegaskan posisi penting Doze Niu di dunia film Taiwan.
+"A Brighter Summer Day" meraup pendapatan box office lebih dari NT$200 juta, menjadikannya film lokal terlaris di Taiwan pada tahun tersebut. Karya ini mengukuhkan posisi penting Niu Cheng-ze dalam industri film Taiwan.
 
-## Eksplorasi Mendalam _Paradise in Service_
+## Eksplorasi Mendalam "Paradise in Military Camp"
 
-_Paradise in Service_ (《軍中樂園》) 2014 adalah karya penting lain Doze Niu, film mengangkat topik sensitif tempat hiburan militer (慰安所), menunjukkan perhatiannya pada isu sejarah.
+"Paradise in Military Camp" (軍中樂園) tahun 2014 adalah karya penting lainnya dari Niu Cheng-ze. Film ini menangani tema sensitif mengenai rumah hiburan di lingkungan militer, menunjukkan perhatiannya terhadap isu sejarah.
 
-Film ini berani menyentuh tabu sejarah Taiwan, memicu diskusi masyarakat. Doze Niu menangani isu moral kompleks dengan halus, menampilkan kematangan seorang sutradara.
+Film ini dengan berani menyentuh topik tabu dalam sejarah Taiwan, yang memicu diskusi sosial. Niu Cheng-ze menggunakan pendekatan yang halus untuk menangani isu moral yang kompleks, menunjukkan kematangan sebagai sutradara.
 
-_Paradise in Service_ memperoleh banyak nominasi Penghargaan Kuda Emas, membuktikan Doze Niu tidak hanya mampu film komersial, tapi juga memiliki kemampuan mengolah topik artistik.
+"Paradise in Military Camp" menerima beberapa nominasi Golden Horse Awards, membuktikan bahwa Niu Cheng-ze tidak hanya mampu membuat film komersial, tetapi juga memiliki kemampuan untuk menangani materi artistik.
 
 ## Gaya dan Tema Film
 
-Film Doze Niu memiliki gaya pribadi yang kuat, sering mengeksplorasi sisi gelap dan tabu masyarakat Taiwan. Ia tidak menghindar kontroversi, berani mempresentasikan kompleksitas sosial.
+Film-film Niu Cheng-ze memiliki gaya personal yang kuat, sering kali mengeksplorasi sisi gelap masyarakat Taiwan dan topik-topik tabu. Ia tidak menghindari kontroversi dan berani menyajikan kompleksitas sosial.
 
-Karyanya sering bermuatan nostalgia tebal, terutama menatap kembali masyarakat Taiwan era 1980-an. Nostalgia ini memantulkan pengalaman tumbuhnya pribadi.
+Karyanya sering kali membawa nuansa nostalgia yang kental, terutama dalam menoleh kembali ke masyarakat Taiwan era 1980-an. Sentimen nostalgia ini mencerminkan pengalaman pertumbuhan pribadinya.
 
-Doze Niu pandai menciptakan suasana emosional kental, filmnya selalu penuh tegangan dan konflik. Gaya ini memberikan dampak visual yang kuat pada karyanya.
+Niu Cheng-ze mahir dalam membangun atmosfer emosional yang intens; film-filmnya selalu penuh dengan ketegangan dan konflik. Gaya ini memberikan dampak visual yang kuat pada karya-karyanya.
 
 ## Observasi terhadap Masyarakat Taiwan
 
-Karya Doze Niu sering memantulkan perubahan dan masalah masyarakat Taiwan, ia mencatat transformasi era lewat film. Dari budaya眷村 ke perkotaan, semuanya jadi fokus perhatiannya.
+Karya Niu Cheng-ze sering kali mencerminkan perubahan dan masalah dalam masyarakat Taiwan; ia menggunakan film untuk merekam perubahan zaman. Dari budaya _quan-cun_ hingga perkembangan perkotaan, semuanya merupakan tema yang ia perhatikan.
 
-Ia sangat memperhatikan kondisi hidup kelompok marginal, termasuk anggota geng, prajurit, pekerja seks, dll. Tokoh-tokoh ini di lensa kamaranya memperoleh martabat kemanusiaan.
+Ia secara khusus menaruh perhatian pada kondisi kehidupan kelompok marginal, termasuk anggota geng, tentara, pekerja seks, dan lainnya. Karakter-karakter ini mendapatkan martabat kemanusiaan di bawah lensa kameranya.
 
-Doze Niu percaya film harus memantulkan realitas sosial, tidak boleh lari dari masalah sulit. Konsep kreatif ini memberikan makna sosiologis pada karyanya.
+Niu Cheng-ze percaya bahwa film harus mencerminkan realitas sosial dan tidak boleh menghindari masalah yang sulit. Filosofi kreatif ini memberikan makna sosiologis pada karya-karyanya.
 
 ## Hubungan Kerja Sama dengan Aktor
 
-Doze Niu pandai menggali dan membina aktor baru, Chao Yu-ting, Juan Ching-tien dkk di _Monga_ semuanya mendapat terobosan di bawah bimbingannya. Ia memiliki mata yang tajam untuk pemilihan aktor.
+Niu Cheng-ze mahir dalam menemukan dan membina aktor baru; aktor seperti Mark Chao dan Eddie Peng dalam "A Brighter Summer Day" mengalami terobosan di bawah bimbingannya. Ia memiliki mata yang tajam dalam pemilihan pemeran (_casting_).
 
-Ia menuntut aktor benar-benar masuk ke peran, sering membuat aktor melakukan persiapan karakter mendalam. Kebutuhan ketat ini membuat akting di karyanya sangat meyakinkan.
+Ia menuntut aktor untuk sepenuhnya mendalami peran, sering kali meminta persiapan karakter yang mendalam. Tuntutan yang ketat ini membuat akting dalam karya-karyanya terasa sangat meyakinkan.
 
-Hubungan kerja sama yang dibangun Doze Niu dengan aktor biasanya erat, ia menganggap sutradara dan aktor adalah mitra kreatif, butuh kepercayaan dan kolaborasi timbal balik.
+Hubungan kerja sama yang dibangun Niu Cheng-ze dengan para aktor biasanya sangat erat; ia percaya bahwa sutradara dan aktor adalah mitra kreatif yang membutuhkan kepercayaan dan kerja sama satu sama lain.
 
-## Kasus Kekerasan Seksual 2018
+## Kasus Pelecehan Seksual Tahun 2018
 
-2018 Doze Niu dituding melakukan kekerasan seksual terhadap staf wanita, kasus ini memicu perhatian luas masyarakat. Peristiwa ini mengubah total trajector hidup dan citra sosialnya.
+Pada tahun 2018, Niu Cheng-ze dituduh melakukan pelecehan seksual terhadap seorang staf perempuan, sebuah kasus yang menarik perhatian luas dari masyarakat. Peristiwa ini sepenuhnya mengubah lintasan hidup dan citra sosialnya.
 
-Selama proses persidangan, lebih banyak korban keluar mengadukan, menunjukkan keparahan masalah. Tuduhan ini memberikan pukul hancur bagi reputasi dan karirnya.
+Selama proses persidangan, lebih banyak korban yang muncul untuk mengajukan tuduhan, menunjukkan keseriusan masalah tersebut. Tuduhan-tuduhan ini memberikan pukulan telak terhadap reputasi dan kariernya.
 
-Pengadilan Distrik Taipei tingkat satu memvonis Doze Niu bersalah pada April 2020, dihukum penjara 4 tahun; Pengadilan Tinggi Taiwan mempertahankan vonis asli pada Desember 2020; Mahkamah Agung menolak banding pada September 2021, vonis berkekuatan hukum tetap[^1]. Vonis pasti ini mengonfirmasi tindak pidana serta mengakhiri karir hiburnya.
+Pengadilan Distrik Taipei pada tingkat pertama menjatuhkan vonis bersalah kepada Niu Cheng-ze pada April 2020 dengan hukuman penjara 4 tahun; Pengadilan Tinggi Taiwan pada tingkat banding mempertahankan putusan tersebut pada Desember 2020; dan Mahkamah Agung menolak banding pada September 2021, sehingga putusan menjadi tetap[^1]. Putusan yang berkekuatan hukum tetap ini mengonfirmasi tindakan kriminalnya sekaligus mengakhiri karier seninya.
 
-## Dampak Peristiwa pada Industri Film-TV Taiwan
+## Dampak Peristiwa terhadap Industri Audiovisual Taiwan
 
-Kasus Doze Niu memicu refleksi industri film-TV Taiwan soal kesetaraan gender dan pelecehan seksual di tempat kerja, mendorong pembentukan dan penyempurnaan sistem terkait.
+Peristiwa Niu Cheng-ze memicu refleksi di industri audiovisual Taiwan mengenai kesetaraan gender dan masalah pelecehan seksual di tempat kerja, yang mendorong pembentukan dan penyempurnaan sistem terkait.
 
-Peristiwa ini juga membuat masyarakat meninjau kembali masalah ketidaksetaraan kekuasaan di industri hiburan, mendorong perkembangan gerakan MeToo di Taiwan.
+Peristiwa ini juga membuat masyarakat meninjau kembali masalah ketimpangan kekuasaan dalam industri hiburan, serta mendorong perkembangan gerakan MeToo di Taiwan.
 
-Industri mulai membangun mekanisme pengaduan dan langkah perlindungan lebih sempurna, mencegah terulangnya peristiwa serupa.
+Industri film dan televisi mulai membangun mekanisme pengaduan dan langkah-langkah perlindungan yang lebih baik untuk mencegah peristiwa serupa terjadi kembali.
 
-## Penilaian Ulang Karya
+## Evaluasi Ulang terhadap Karya-karyanya
 
-Pasca kasus Doze Niu, karyanya lampau juga menghadapi penilaian ulang. Penonton dan kritikus mulai meninjau film-film ini dari sudut pandang berbeda.
+Setelah kasus Niu Cheng-ze, karya-karya masa lalunya juga menghadapi evaluasi ulang. Penonton dan kritikus mulai meninjau film-film tersebut dari sudut pandang yang berbeda.
 
-Beberapa orang berpendapat karya seni dan perilaku pribadi pencipta harus dinilai terpisah, tapi ada juga yang berpendapat budi pekerti pencipta mempengaruhi nilai karya.
+Beberapa orang berpendapat bahwa karya seni harus dinilai terpisah dari perilaku pribadi penciptanya, namun ada pula yang berpendapat bahwa karakter sang pencipta akan memengaruhi nilai dari karya tersebut.
 
-Perdiskusian ini memantulkan pemikiran masyarakat tentang hubungan seni dan moral, juga isu penting yang dihadapi dunia budaya kontemporer.
+Diskusi ini mencerminkan pemikiran masyarakat mengenai hubungan antara seni dan moralitas, yang juga merupakan isu penting dalam lanskap budaya kontemporer.
 
-## Dampak pada Korban
+## Dampak terhadap Korban
 
-Tindak pidana Doze Niu menimbulkan trauma fisik dan mental serius pada korban, ini adalah aspek paling perlu diperhatikan dalam keseluruhan peristiwa.
+Tindakan kriminal Niu Cheng-ze menyebabkan trauma fisik dan mental yang serius bagi para korban, yang merupakan aspek paling krusial yang perlu diperhatikan dari seluruh peristiwa ini.
 
-Masyarakat mulai lebih mementingkan perlindungan hak korban, termasuk bantuan hukum, konseling psikologis, dll.
+Masyarakat mulai lebih mementingkan perlindungan hak-hak korban, termasuk bantuan dalam hal dukungan hukum, konseling psikologis, dan lainnya.
 
-Kasus ini juga mengingatkan masyarakat harus membangun mekanisme lebih baik untuk pencegahan dan penanganan kekerasan seksual.
+Kasus ini juga mengingatkan masyarakat bahwa mekanisme yang lebih baik harus dibangun untuk mencegah dan menangani masalah kekerasan seksual.
 
-## Proses Hukum dan Keadilan Sosial
+## Prosedur Hukum dan Keadilan Sosial
 
-Proses hukum kasus Doze Niu menampilkan cara sistem peradilan Taiwan menangani kasus kekerasan seksual, juga memantulkan keinginan masyarakat akan keadilan.
+Prosedur hukum dalam kasus Niu Cheng-ze menunjukkan cara sistem peradilan Taiwan menangani kasus kekerasan seksual, serta mencerminkan pengejaran keadilan oleh masyarakat.
 
-Hasil vonis meski memberikan keadilan tertentu bagi korban, tapi juga memicu diskusi soal apakah hukuman sudah pantas.
+Meskipun hasil putusan memberikan tingkat keadilan tertentu bagi korban, hal itu juga memicu diskusi mengenai apakah masa hukuman tersebut sudah sesuai.
 
-Kasus ini di masyarakat Taiwan memicu diskusi mendalam tentang hubungan "bakat" dan "budi pekerti", menjadi kasus referensi untuk pendidikan keamanan gender di tempat kerja bagi praktisi film-TV selanjutnya.
+Kasus ini memicu diskusi mendalam di masyarakat Taiwan mengenai hubungan antara "bakat" dan "karakter", serta menjadi kasus referensi bagi pendidikan keamanan gender di tempat kerja bagi para praktisi industri audiovisual di masa depan.
 
-## Pelajaran bagi Dunia Film Taiwan
+## Pelajaran bagi Industri Film Taiwan
 
-Kasus Doze Niu memberikan pelajaran penting bagi dunia film Taiwan, mendorong industri meninjau kembali lingkungan kerja dan budaya tempat kerja.
+Peristiwa Niu Cheng-ze memberikan pelajaran penting bagi industri film Taiwan, yang mendorong industri untuk meninjau kembali lingkungan kerja dan budaya tempat kerja.
 
-Dunia film mulai menetapkan norma perilaku dan mekanisme pengawasan lebih ketat, memastikan keamanan dan martabat semua staf.
+Dunia film mulai membangun norma perilaku dan mekanisme pengawasan yang lebih ketat guna memastikan keamanan dan martabat semua staf.
 
-Peristiwa ini juga mengingatkan dunia film harus menanggung lebih banyak tanggung jawab sosial, tidak boleh hanya mengejar keuntungan komersial sambil mengabaikan garis bawah moral.
+Peristiwa ini juga mengingatkan dunia film bahwa mereka harus memikul lebih banyak tanggung jawab sosial, dan tidak boleh hanya mengejar keuntungan komersial sambil mengabaikan batasan moral.
 
-Kasus Doze Niu adalah titik balik penting bagi industri film-TV Taiwan. Bakatnya pernah menghadirkan karya gemilang bagi film Taiwan, tapi tindak pidana juga mengingatkan masyarakat akan pentingnya kekuasaan dan tanggung jawab. Kasus ini akan terus mempengaruhi perkembangan industri film-TV Taiwan, mendorong seluruh industri membangun lingkungan kerja lebih sehat, lebih aman.
+Kasus Niu Cheng-ze adalah titik balik penting bagi industri audiovisual Taiwan. Bakatnya pernah membawa karya-karya luar biasa bagi perfilman Taiwan, namun tindakan kriminalnya juga mengingatkan masyarakat akan pentingnya kekuasaan dan tanggung jawab. Kasus ini akan terus memengaruhi perkembangan industri audiovisual Taiwan, mendorong seluruh industri untuk membangun lingkungan kerja yang lebih sehat dan lebih aman.
 
 ## Referensi
 
-[^1]: Taro Media (芋傳媒)〈Doze Niu Kasus Kekerasan Seksual Mahkamah Agung Vonis Tetap Penjara 4 Tahun〉，https://taronews.tw/，September 2021
+[^1]: Yu Media, 〈Putusan Mahkamah Agung dalam Kasus Pelecehan Seksual Niu Cheng-ze Telah Tetap: Hukuman Penjara 4 Tahun〉, https://taronews.tw/, September 2021
 
-[^2]: Sistem Pencarian Data Hukum Yuan Kehakiman (司法院法學資料檢索系統)，Surat Keputusan Kasus Kekerasan Seksual Doze Niu，https://judgment.judicial.gov.tw/
+[^2]: Sistem Pencarian Data Hukum Mahkamah Agung, Putusan Kasus Pelecehan Seksual Niu Cheng-ze, https://judgment.judicial.gov.tw/
 
-[^3]: Central News Agency (中央社)〈Doze Niu Terlibat Kekerasan Seksual Pengadilan Distrik Taipei Tingkat Satu Vonis Bersalah 4 Tahun〉，https://www.cna.com.tw/，April 2020
+[^3]: Central News Agency (CNA), 〈Niu Cheng-ze Terlibat Pelecehan Seksual, Pengadilan Distrik Taipei Menjatuhkan Vonis Bersalah 4 Tahun pada Tingkat Pertama〉, https://www.cna.com.tw/, April 2020
 
-[^4]: Kementerian Kebudayaan (文化部) Kebijakan Kesetaraan Gender Industri Film-TV Taiwan，https://www.moc.gov.tw/
+[^4]: Kebijakan Kesetaraan Gender Industri Audiovisual Taiwan Kementerian Kebudayaan, https://www.moc.gov.tw/
 
-[^5]: Yayasan Awam Perempuan (婦女新知基金會)，Data Advokasi Gerakan MeToo di Masyarakat Taiwan，https://www.awakening.org.tw/
+[^5]: Yayasan Women's New Knowledge (婦女新知基金會), Materi Advokasi Gerakan MeToo dalam Masyarakat Taiwan, https://www.awakening.org.tw/
 
-[^6]: Entri Wikipedia "Doze Niu" (鈕承澤)，https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4
+[^6]: Wikipedia, Entri "Niu Cheng-ze", https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4
