@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-17T10:49:23+08:00",
-    "zhCommitHead": "b1f667148",
+    "lastUpdated": "2026-10-17T13:42:02+08:00",
+    "zhCommitHead": "40cf15da7",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -100,9 +100,9 @@
       },
       "ru": {
         "total_zh": 1135,
-        "fresh": 1133,
+        "fresh": 1134,
         "stale": 1,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -12424,20 +12424,18 @@
         "ru": {
           "path": "ru/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "e53f17151",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "translatedAt": "2026-10-17T10:26:52+08:00",
           "translationLastCommit": "b0a1dc89",
           "translationLastModified": "2026-08-04T17:31:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18594,
+          "bytes": 19908,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -162252,8 +162250,8 @@
           "sourceContentHash": "sha256:a47269dba2b81fb2",
           "sourceBodyHash": "sha256:c5ee37f744247683",
           "translatedAt": "2026-10-17T07:17:48+08:00",
-          "translationLastCommit": "18edb823",
-          "translationLastModified": "2026-10-03T02:34:01+08:00",
+          "translationLastCommit": "40cf15da",
+          "translationLastModified": "2026-10-17T10:49:24+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 21360,
