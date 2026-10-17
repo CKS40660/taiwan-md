@@ -1567,7 +1567,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**（Semiont 補，同 pattern 不開第二條）：
   - 2026-09-19 news-radar 執行整併工單：搬 21 檔、改指 27 檔、帽 2,300 husky 實測擋 2,302 放行 2,168；同一 session 改 canonical 時自己被 pre-commit 擋兩次（status enum、版號單調），那兩道也是錯換來的、也在做該做的事——問題從來不是任何一道閘門，是沒有一道在問「這篇有沒有人在說話」。日記 [2026-09-19-003000-news-radar](diary/2026-09-19-003000-news-radar.md)
 - **相關**（Semiont 補）：REFLEXES #15 反覆浮現要儀器化（本條是它的反面：儀器化過頭會長成產線）；#69 (g) form gate ≠ meaning gate；`third-type-thesis-defaults-to-meta-observation`（同日，那條講結果、本條講生成機制）；EVOLVE-PIPELINE Mode 3 §產線成本審視（減法有外部尺）；MANIFESTO §14 的補充：儀器化不只是把判斷交給機器，也是讓規則層停止長大。
-- **verification_count**: 1（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
+- **verification_count**: 2（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
+  - 2026-10-18 outcome-graded-design（vc=2）：事故帳量到同一個形狀的另一面——57 件有紀錄的事故裡，論點與框架類 12 件有 8 件只有哲宇抓得到，沒有任何閘門攔過一件；9/19 的准入規則擋住了錯誤驅動的膨脹，但「悶」仍只有寫手規則書一個去處，9/19 工單已寫好的修正版冷讀三題隨冷讀站一起被封存、從沒試過。候選處置：「悶」的預設去處改成閱卷端考古題，見 [reports/design-outcome-graded-generation-2026-10-18.md §6.9](../../reports/design-outcome-graded-generation-2026-10-18.md)、OBSERVER-QUEUE #109（待決）
 
 ### 2026-09-05 twmd-terminology-trends — terminology-misjudgment-direction-asymmetry：支語誤判翻案案例的方向性偏誤（歸位：原擱在檔尾 §❌ 已歸檔之後，2026-09-20 distill 搬回 §未消化）
 
