@@ -42,13 +42,20 @@
 - [ ] pending（`twmd-terminology-trends-monthly`，11-05）：月報第一段註明 10 月缺口。
 - [ ] pending（哲宇或 `/twmd-routine`）：四個疑似孤兒工作樹（含 `20261015-semiont-diagram-counts`）。
 - [ ] pending（`twmd-babel-nightly`）：haiku 每夜篇數用去重後的不重複文章數核對。
-- [ ] pending（哲宇）：週額度 10-16 晚間 91%，重置 10-21。本班是手動深度工作，派了四個分身，額度只會更緊。
+- [x] ~~pending（哲宇）：週額度 10-16 晚間 91%，重置 10-21。~~ retired by 本班後記：04:4x 讀到週額度已提前重置，全模型 20%，下次重置 10-23。
 
 本 session 新 handoff：
 
 - ⏳ blocked（哲宇）：`OBSERVER-QUEUE #109（待決）` 文章產線第三代，D1–D6。該席位是哲宇本人，任何 routine 動不了方向。
-- [ ] pending（Full mode session，條件式）：`OBSERVER-QUEUE #109（待決）` 若 7 天無回應且週額度 < 70%，代跑報告 §8.0 閱卷小實驗並把結果記在 #109，不做後續建造。
+- [x] ~~pending（Full mode session，條件式）：`OBSERVER-QUEUE #109（待決）` 若 7 天無回應且週額度 < 70%，代跑報告 §8.0 閱卷小實驗~~ retired：哲宇當晚親自啟動，實驗已跑完（分支 `claude/modest-ritchie-2506cb`，`dead92902`），H3 未獲支持。
+- ⏳ blocked（哲宇）：分支 `claude/modest-ritchie-2506cb` 要不要合併進 main（含實驗報告、逐字回答、#109 的結果摘要）；`OBSERVER-QUEUE #109（待決）` 的 D1、D3、D5、D6。
 - [ ] pending（任何班，不需拍板）：報告 §九 列的七處兩把尺不一致（CLAUDE.md Bias 3 與 SINGLE 的編輯室指令相反、EDITORIAL-ROOM `status: canonical` 但已退役、`review-pr.sh` 舊版品質分數、plugin 支數三處不一致等），其中 CLAUDE.md 那條碰到身份文件，等 #109 D6。
+
+## 後記：重開機之後（04:4x）
+
+筆電 04:09 因系統更新重開，總管 session 轉達哲宇「所有 session 都繼續推進」。回來先查狀態：本班兩個 commit 都已在 origin；週額度已經提前重置到 20%，先前「91%、等 10/21」的顧慮不成立。閱卷小實驗在重開前的 03:52 就已跑完並 commit 在它自己的分支，結果是 H3 沒有得到初步支持：四對計分題冷讀分身各選對一對，輸給只看開場讀數的機械基準線；八份回答五份說出了被點名的毛病，四份仍選了有毛病的那一版。它也抓到我 §6.6 把「哲宇的判斷」寫得比第一手紀錄滿，以及 §8.0 成本低估約五倍。我在 main 的報告補了後記（頂端加提示、文末寫結果與被推翻的預設），沒有合併它的分支。
+
+最值得記的是被推翻的那個預設：我照 9/19 工單沿用「想不想讀完」當冷讀題，以為它問的是閱讀經驗、比「哪裡困惑」好。實驗顯示它抓得到「悶」，卻獎勵另一個方向的失敗，也就是搶戲與不公平。施振榮 v1 兩位分身都選了。文章會往兩個方向壞，哲宇守的那一邊，偏好題分不出來。
 
 ## Beat 5 — 反芻
 
