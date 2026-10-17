@@ -128,7 +128,8 @@ def readings(path: Path) -> dict:
     ph = run_json([sys.executable, "scripts/tools/article-health.py", str(path),
                    "--check=prose-health", "--output", "json"])
     rep = ph["reports"][0]
-    score = None
+    # 照 article-health.py `_prose_health_score()` 的定義：沒有分數行＝0（plugin 只在 score > 0 時才吐那一行）
+    score = 0
     for res in rep["results"]:
         for v in res["violations"]:
             m = re.search(r"prose-health score: (\d+)", v.get("message") or "")
@@ -228,7 +229,7 @@ def cmd_collect(reader: str, pid: str, jsonl: str, expected_path: str) -> None:
     clean = all(t["name"] == "Read" and t["target"] == expected_path for t in r["tools"])
     rec = {"reader": reader, "pair": pid, "chars": len(text), "models": r["models"],
            "tool_calls": len(r["tools"]), "only_read_own_prompt": clean,
-           "read_to_end_sentinel": r["sentinel_seen"], "transcript": Path(jsonl).name}
+           "read_to_end_sentinel": r["sentinel_seen"], "dispatch": Path(expected_path).stem}
     if not clean:
         rec["tools"] = r["tools"]
     with (HERE / "readers" / "collect-log.jsonl").open("a", encoding="utf-8") as f:
@@ -260,6 +261,58 @@ def cmd_score() -> None:
         print(f"{reader}: 計分題選對 {n}/{t}")
 
 
+JUDGE_HEAD = """你是評分員。下面有幾份「冷讀者」的回答：每份回答是一位讀者讀完同一主題的兩篇文章（標為甲、乙）後寫的。
+你的工作只有一件：依照評分準則，判斷每份回答有沒有「說對」被點名的問題。
+
+規則：
+- 不要使用任何工具。只根據這份檔案裡的評分準則與回答作答。
+- 每份回答都標明了哪個標籤（甲或乙）是 bad 版。說對＝回答把準則裡列的問題至少一項，歸在 bad 那一版上、當成缺點來講。
+- 必須引用回答裡的原句當根據（逐字，用「」框起來）。引不出原句就判「否」。
+- 回答把問題歸到 good 那一版，或只講泛泛的文筆、長度、數字多，判「否」。
+- 說對與「最終選擇」選了哪一版無關，分開判。
+- 判得嚴一點：準則寫「不算」的情況一律判否。
+
+輸出格式（每份一段，照編號順序，最後不要加總結）：
+
+### {編號}
+- 說對：是／否
+- 命中準則第幾項：（例如 1，或「無」）
+- 根據：「回答原句」
+- 理由：一兩句
+
+"""
+
+
+def cmd_judge_input(out_path: str) -> None:
+    assign = json.loads((HERE / "assignment.json").read_text(encoding="utf-8"))
+    rubric = (HERE / "judge-rubric.md").read_text(encoding="utf-8")
+    pairs = {p["id"]: p for p in load_manifest()}
+    items = []
+    for reader, m in assign["readers"].items():
+        for pid, lab in m.items():
+            f = HERE / "readers" / f"{reader}-{pid}.md"
+            bad_label = "甲" if lab["甲"] == "bad" else "乙"
+            items.append({"reader": reader, "pair": pid, "scored": pairs[pid]["scored"],
+                          "bad_label": bad_label, "text": f.read_text(encoding="utf-8").strip()})
+    rng = random.Random(SEED + 2)
+    scored = [x for x in items if x["scored"]]
+    warm = [x for x in items if not x["scored"]]
+    rng.shuffle(scored)
+    rng.shuffle(warm)
+    mapping, blocks = {}, []
+    for i, x in enumerate(scored + warm, 1):
+        code = f"J{i:02d}"
+        mapping[code] = {k: x[k] for k in ("reader", "pair", "scored", "bad_label")}
+        topic = pairs[x["pair"]]["topic"]
+        kind = "計分題" if x["scored"] else "暖身題（不計分，照暖身準則判）"
+        blocks.append(f"## {code}｜題目：{topic}｜{kind}｜bad 版＝{x['bad_label']}\n\n{x['text']}\n")
+    body = JUDGE_HEAD + "\n=== 評分準則 ===\n\n" + rubric + "\n\n=== 回答 ===\n\n" + "\n".join(blocks) + "\n=== END ===\n"
+    Path(out_path).write_text(body, encoding="utf-8")
+    (HERE / "judge" / "judge-map.json").write_text(json.dumps(mapping, ensure_ascii=False, indent=2) + "\n",
+                                                   encoding="utf-8")
+    print(f"{out_path}: {len(body)} chars, {len(blocks)} answers")
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd == "extract":
@@ -274,6 +327,8 @@ if __name__ == "__main__":
         cmd_collect(sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
     elif cmd == "score":
         cmd_score()
+    elif cmd == "judge-input":
+        cmd_judge_input(sys.argv[2])
     else:
         print(__doc__)
         sys.exit(1)

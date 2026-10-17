@@ -1,0 +1,86 @@
+{
+  "J01": {
+    "reader": "sonnet",
+    "pair": "s1-stanshih",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J02": {
+    "reader": "opus",
+    "pair": "s1-stanshih",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J03": {
+    "reader": "opus",
+    "pair": "s4-ezway",
+    "scored": true,
+    "bad_label": "甲"
+  },
+  "J04": {
+    "reader": "opus",
+    "pair": "s2-filmscore",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J05": {
+    "reader": "opus",
+    "pair": "s3-waawei",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J06": {
+    "reader": "sonnet",
+    "pair": "s3-waawei",
+    "scored": true,
+    "bad_label": "甲"
+  },
+  "J07": {
+    "reader": "sonnet",
+    "pair": "s2-filmscore",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J08": {
+    "reader": "sonnet",
+    "pair": "s4-ezway",
+    "scored": true,
+    "bad_label": "乙"
+  },
+  "J09": {
+    "reader": "opus",
+    "pair": "w2-oilprice",
+    "scored": false,
+    "bad_label": "甲"
+  },
+  "J10": {
+    "reader": "opus",
+    "pair": "w3-goldenbell",
+    "scored": false,
+    "bad_label": "乙"
+  },
+  "J11": {
+    "reader": "sonnet",
+    "pair": "w2-oilprice",
+    "scored": false,
+    "bad_label": "甲"
+  },
+  "J12": {
+    "reader": "opus",
+    "pair": "w1-lowwage",
+    "scored": false,
+    "bad_label": "乙"
+  },
+  "J13": {
+    "reader": "sonnet",
+    "pair": "w1-lowwage",
+    "scored": false,
+    "bad_label": "甲"
+  },
+  "J14": {
+    "reader": "sonnet",
+    "pair": "w3-goldenbell",
+    "scored": false,
+    "bad_label": "甲"
+  }
+}
