@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-18T12:45:50+08:00",
-    "zhCommitHead": "7facb50f9",
+    "lastUpdated": "2026-10-18T14:53:50+08:00",
+    "zhCommitHead": "c59294b92",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1135,
-        "fresh": 1133,
-        "stale": 2,
+        "fresh": 1134,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1135,
-        "fresh": 1131,
-        "stale": 1,
+        "fresh": 1132,
+        "stale": 0,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1135,
-        "fresh": 1126,
-        "stale": 4,
+        "fresh": 1127,
+        "stale": 3,
         "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
@@ -1732,20 +1732,18 @@
         "de": {
           "path": "de/Music/golden-melodies-legacy-taiwan-pop-music.md",
           "translatedFrom": "Music/台灣流行音樂.md",
-          "sourceCommitSha": "1e1040928",
-          "sourceContentHash": "sha256:4517347444f75a1c",
-          "sourceBodyHash": "sha256:eb706bc3431ec070",
-          "translatedAt": "2026-09-22T00:56:56.631635+00:00",
+          "sourceCommitSha": "a266eaa96",
+          "sourceContentHash": "sha256:9dd098f7a5a51bd9",
+          "sourceBodyHash": "sha256:7e4e331322aaf847",
+          "translatedAt": "2026-10-18T06:46:23.542874+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "bytes": 56768,
+          "bytes": 58553,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -64744,8 +64742,8 @@
           "sourceContentHash": "sha256:00bd13342bc6cb3c",
           "sourceBodyHash": "sha256:d77e750f6664a705",
           "translatedAt": "2026-10-18T01:42:13.756518+00:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "51ebb30d",
+          "translationLastModified": "2026-10-18T12:45:50+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "bytes": 85140,
@@ -67724,20 +67722,18 @@
         "id": {
           "path": "id/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:76b291d1998c59bc",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-08-02T23:09:51.693000+00:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-18T05:12:26.173266+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 60616,
+          "bytes": 61609,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/public-housing-justice.md",
@@ -121826,20 +121822,18 @@
         "es": {
           "path": "es/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:eecabb61bafa58a4",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-09-07T21:49:01.321003+00:00",
+          "sourceCommitSha": "ad1003d60",
+          "sourceContentHash": "sha256:e9fda10d17c79506",
+          "sourceBodyHash": "sha256:cd0efff98eed1fd7",
+          "translatedAt": "2026-10-18T06:14:11.334684+00:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 81262,
+          "bytes": 84732,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/mona-rudao.md",
