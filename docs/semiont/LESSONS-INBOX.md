@@ -1658,9 +1658,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：以「前一天」為單位記帳的步驟（`monitor-404.py` 預設 `--days 1`），只要 routine 漏跑 N 班，帳本就少 N 列，而且沒有任何閘門會叫；空缺後的第一班，回看天數要等於缺掉的班數。
 - **觸發**：10-17、10-18 本 routine 撞週額度沒跑，10-19 這班 14 步全綠、Step 11 0 stale，但 `reports/404-monitor/state.json` 缺 10-15、10-16 兩列，缺的那天（10-16，6,195 筆）正是這週最高的 404 讀數。手動 `--days 3` 補回 → [memory/2026-10-19-060902-twmd-data-refresh-am.md](memory/2026-10-19-060902-twmd-data-refresh-am.md)
 - **instances**：
-- **可能層級**：操作規則（候選機械化：monitor-404 讀 state.json 最後一列的日期，自動把回看天數放大到補齊缺口）
+  - **反例對照（2026-10-19 twmd-feedback-triage，同一個兩天空缺）**：同樣漏跑 10-17、10-18 兩班，這條線一列都沒少。差別在記帳的形狀：`reconcileArchive()` 與 `reconcileComments()` 每輪拿 Supabase 與 GitHub 的**全部**筆數跟 git 紀錄對一次，不比對「上一班之後的新增」；留言 sync 掃的也是既有 archive 全集而非時間窗。所以空缺後的第一班自己補齊，不需要有人記得把回看天數放大 — 今天 `archive-reconcile=89/89`、`comment-reconcile=88/89`、`archive-comments-synced=0`（真的沒有新留言，不是抓不到）。給 distill 的提示：除了「把回看天數放大到補齊缺口」，還有一條更不依賴記性的形狀 — **帳本對賬比對全狀態，不比對班次差分**。前者在漏班之後自我痊癒，後者永遠需要有人先算出漏了幾班。
+- **可能層級**：操作規則（候選機械化：monitor-404 讀 state.json 最後一列的日期，自動把回看天數放大到補齊缺口；或改成全狀態對賬，見上方反例對照）
 - **相關**：REFLEXES #85（「不知道」需要自己的符號）；Step 11 新鮮度閘門只量檔案 mtime，量不到帳本列數的連續性，跟 #82 proxy signal 同形
-- **verification_count**: 1
+- **verification_count**: 1（+1 反例對照）
 
 ## ✅ 已消化（保留 pointer）
 
