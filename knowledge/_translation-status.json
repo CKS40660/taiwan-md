@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-18T14:53:50+08:00",
-    "zhCommitHead": "c59294b92",
+    "lastUpdated": "2026-10-18T16:00:45+08:00",
+    "zhCommitHead": "ee613b825",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1132,
+        "fresh": 1133,
         "stale": 2,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -67726,11 +67726,11 @@
           "sourceContentHash": "sha256:058a2707437b6293",
           "sourceBodyHash": "sha256:8b7dd2352a89e936",
           "translatedAt": "2026-10-18T05:12:26.173266+00:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "ee613b82",
+          "translationLastModified": "2026-10-18T14:53:51+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 61609,
+          "bytes": 61611,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -162332,20 +162332,18 @@
         "ar": {
           "path": "ar/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "be862e364",
+          "sourceCommitSha": "a520d024d",
           "sourceContentHash": "sha256:a47269dba2b81fb2",
           "sourceBodyHash": "sha256:c5ee37f744247683",
-          "translatedAt": "2026-10-03T02:22:23+08:00",
+          "translatedAt": "2026-10-18T15:31:34+08:00",
           "translationLastCommit": "48ff462f",
           "translationLastModified": "2026-10-03T02:26:32+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 28275,
+          "bytes": 30986,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/hand-shaken-drink-culture.md",
