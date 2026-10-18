@@ -327,3 +327,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-19 | 053947-twmd-routine-sync | 十九份 prompt 全一致；鏡像齡 71.5 小時，直讀排程器十八條補驗仍零漂移；10-17、10-18 兩班撞額度無紀錄；審庫存註冊剩兩天（10-21） | 工具自標鏡像過期時，直讀 live 一次結論才能引用 | [→](memory/2026-10-19-053947-twmd-routine-sync.md) |
 | 2026-10-19 | 051507-twmd-embeddings-nightly | 隔兩夜（10-17／18 撞週額度）後重建：13 語 14,612 向量 0 fail，verify PASS，十二外語追平 1,124，`d1aacec86` 自己推上去 | 額度空缺不算 host 不可達的三振 | [→](memory/2026-10-19-051507-twmd-embeddings-nightly.md) |
 | 2026-10-19 | 060902-twmd-data-refresh-am | 額度空缺兩天後重新接上：14 步全過、0 stale；404 帳本補回 10-15／16，10-16 bad-encoding 2,961 筆是四天內第二次瀏覽器 UA 跳升，交 maintainer | 每班只記前一天的帳本，空缺後回看天數要等於缺掉的班數 | [→](memory/2026-10-19-060902-twmd-data-refresh-am.md) |
+| 2026-10-19 | 064237-twmd-spore-harvest-am | 額度空缺兩天後第一班：兩個動態頁仍只有按讚，#29 聚合停在 1.6 萬未達重抓條件，合法 no-op；Chrome 今天只連登入那一台 | 空缺沒漏東西，靠動態頁回溯範圍蓋得住空缺天數 | [→](memory/2026-10-19-064237-twmd-spore-harvest-am.md) |
