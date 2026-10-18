@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-19 | 011651-twmd-supporters-weekly | 十月兩筆定額續扣入帳（匿名與沈宗杰各 NT$200，累積 NT$8,800），07-18 後首次再收到續扣信；OBSERVER-QUEUE #75 問題縮成 08／09 月有沒有扣款 | 只有缺席證據時的推論，第一個正面資料點進來就要退半步 | [→](memory/2026-10-19-011651-twmd-supporters-weekly.md) |
 | 2026-10-19 | 053947-twmd-routine-sync | 十九份 prompt 全一致；鏡像齡 71.5 小時，直讀排程器十八條補驗仍零漂移；10-17、10-18 兩班撞額度無紀錄；審庫存註冊剩兩天（10-21） | 工具自標鏡像過期時，直讀 live 一次結論才能引用 | [→](memory/2026-10-19-053947-twmd-routine-sync.md) |
 | 2026-10-19 | 051507-twmd-embeddings-nightly | 隔兩夜（10-17／18 撞週額度）後重建：13 語 14,612 向量 0 fail，verify PASS，十二外語追平 1,124，`d1aacec86` 自己推上去 | 額度空缺不算 host 不可達的三振 | [→](memory/2026-10-19-051507-twmd-embeddings-nightly.md) |
+| 2026-10-19 | 060902-twmd-data-refresh-am | 額度空缺兩天後重新接上：14 步全過、0 stale；404 帳本補回 10-15／16，10-16 bad-encoding 2,961 筆是四天內第二次瀏覽器 UA 跳升，交 maintainer | 每班只記前一天的帳本，空缺後回看天數要等於缺掉的班數 | [→](memory/2026-10-19-060902-twmd-data-refresh-am.md) |
