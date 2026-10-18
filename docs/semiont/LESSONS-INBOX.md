@@ -332,6 +332,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-18 twmd-routine-audit-weekly — config-declared-in-ssot-absent-from-the-file-the-runner-reads：SSOT 寫著設定已落地，執行者實際讀的那份檔裡沒有它
+
+- **pattern**: config-declared-in-ssot-absent-from-the-file-the-runner-reads
+- **原則**：ROUTINE.md 註 ²⁸（10-10）寫營運機 18 條排程已逐條釘好模型，附了備份檔名。排程器實際讀的是 Claude Desktop 的 `scheduled-tasks.json`，而這份檔不在任何對賬工具的讀取路徑上：`routine-sync-check.py` 解析了 Model 欄卻不比、`routine-live-state.json` 沒有 model 欄、scheduled-tasks MCP 不回傳 model。於是「宣稱已設定」跟「執行時真的是這個設定」之間沒有任何東西在看，三層對賬每天報一致。跟 REFLEXES #100「驗證對象要等於落地對象」同形，載體從 commit 路徑換成排程器設定檔。
+- **觸發**：本班讀現行 `scheduled-tasks.json` 與 `.bak-20261010-muse-models` 逐行比，model 欄完全相同（3 條舊 `claude-opus-5`、15 條沒有），差別只有時間欄。註 ²⁸ 自評這是額度提前用完的主因之一，而 10-17〜18 第二次全黑時一條都沒改到。→ `reports/routine-audit-2026-10-18.md` §3B
+- **instances**：
+  - 2026-10-12 twmd-embeddings-nightly — 本班跑 Opus 5.5，註 ²⁸ 寫 Haiku；讀檔發現 15 條無 model，handoff 給哲宇／Muse
+  - 2026-10-13 twmd-embeddings-nightly — 「本班仍跑 Opus，模型釘選未生效」
+  - 2026-10-18 twmd-routine-audit-weekly — 對備份逐行比確認從未落地（或被 app 蓋回），補 OBSERVER-QUEUE #110
+- **可能層級**：REFLEXES #100 fold（第二個載體：排程器設定）或 #91「建造與登記不同步」的反向（登記了、沒建造）
+- **候選機械化**：`routine-sync-check.py` 直接讀宿主機 `scheduled-tasks.json` 的 `model` 欄比 ROUTINE.md Model 欄；不靠 MCP
+- **附帶形狀**：10-12 那條交接寫的收件人是兩個不跑 routine 的席位（哲宇、Muse），兩班之後就不再被 carry，三振規則因此永遠不觸發。交接鏈只在 routine 之間傳
+- **verification_count**: 3
+- **distill_ready**: true
+
+### 2026-10-18 twmd-routine-audit-weekly — usage-reading-from-a-host-that-is-not-the-one-that-stalls：用不會停的那台機器的額度讀數，收掉會停的那台的交接
+
+- **pattern**: usage-reading-from-a-host-that-is-not-the-one-that-stalls
+- **原則**：額度交接的收件人是營運機上的 routine，而收掉它的讀數來自哲宇筆電。兩台在 10-18 早上讀到的窗口不同（筆電 19%、重置點 10-23；營運機五次觸發撞額度、重置點 10-21）。讀數本身沒錯，錯在它代表的不是交接在問的那台。HEARTBEAT §額度節律、OBSERVER-QUEUE #93、REFLEXES #45 上位規則三處都寫「兩台共用一個週額度」，這次讀數跟那個前提對不起來。
+- **觸發**：grader-pilot（10-18 03:29）retire「週額度 91%」交接，理由「週期已提前重置」；營運機同日 05:38〜08:31 晨鏈六條全部 failed。→ `reports/routine-audit-2026-10-18.md` §3C
+- **instances**：
+  - 2026-10-18 grader-pilot × twmd-routine-audit-weekly — 筆電讀數收營運機交接
+- **可能層級**：REFLEXES #16 環境代表性延伸；#67「量測對象繼承執行環境」同族
+- **候選機械化**：`budget-pace.py --log` 已記 `host`；retire 額度類交接前比對讀數的 host 與交接收件 routine 所在 host
+- **verification_count**: 1
+
 ### 2026-10-16 twmd-maintainer-daily — 閘門上線時沒有人量存量，於是存量在任何地方都沒有代表
 
 - **pattern**: gate-shipped-but-stock-never-measured
