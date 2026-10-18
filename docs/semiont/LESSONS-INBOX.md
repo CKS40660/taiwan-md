@@ -1640,6 +1640,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-10-19 twmd-babel-nightly — 綁在「隨重譯清」的存量決定，在 stale 歸零後就清不掉
+
+- **pattern**: stock-decision-depends-on-a-flow-that-stopped
+- **原則**：存量處置寫成「等它經過某條產線時順便清」，要同時寫下那條產線停下來時的備案；否則產線一閒置，決定還在、清償速度歸零，沒有東西會叫。
+- **觸發**：2026-10-19 00:45 babel 夜班量到腳註描述整段未翻 306 檔／1,508 條，屬 OBSERVER-QUEUE #52（已決「隨重譯清」）；同一時刻十二語 stale 只剩 16 格人翻譯文（#67 不碰）＋2 格，重譯量近零。v1.98（10-12）對 #56「存量隨重譯清」寫過同一句觀察 → memory/2026-10-19-005518-twmd-babel-nightly.md
+- **instances**：
+  - 2026-10-12 babel 夜班 #56 量級存量 3,600 處，stale=0 時不會被重譯 → BABEL-VORTEX-LOOP v1.98
+  - 2026-10-19 babel 夜班 #52 腳註描述未翻 1,508 條，同形 → 本條
+- **可能層級**：通用反射
+- **相關**：REFLEXES #82（proxy：「決定已拍板」當成「存量在下降」的替身）；#96（知道會這樣壞，知識留在註解層）
+- **verification_count**: 2
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
