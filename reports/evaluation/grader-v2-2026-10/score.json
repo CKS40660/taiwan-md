@@ -1,0 +1,229 @@
+{
+  "missing": [
+    "r015a806",
+    "r0178617",
+    "r018c2ac",
+    "r019817d",
+    "r020188c",
+    "r021a5b5",
+    "r02215a8",
+    "r023a2ae",
+    "r0254c65",
+    "r0262ec9",
+    "r0299b20",
+    "r030e8fe",
+    "r0337f47",
+    "r0356d07",
+    "r038b683",
+    "r0403d06",
+    "r0418922",
+    "r0429c8c",
+    "r04380f6",
+    "r0447117",
+    "r0454fa8",
+    "r05056ed",
+    "r0520919",
+    "r0555b4a",
+    "r056b9d8",
+    "r05791ef",
+    "r0632214",
+    "r0653931",
+    "r067f61d",
+    "r0691f0e",
+    "r070f6c3",
+    "r071d651"
+  ],
+  "broken": [],
+  "by_model": {
+    "fable": {
+      "quote_validity": [934, 935],
+      "dev_pairs": {
+        "s1-stanshih": {
+          "result": "選對",
+          "good": "重修",
+          "bad": "退件",
+          "bad_named_flagged": ["A1"]
+        },
+        "s2-filmscore": {
+          "result": "選對",
+          "good": "重修",
+          "bad": "重修",
+          "bad_named_flagged": ["B1"]
+        },
+        "s3-waawei": {
+          "result": "選對",
+          "good": "退件",
+          "bad": "退件",
+          "bad_named_flagged": ["A3", "B6"]
+        },
+        "w1-lowwage": {
+          "result": "選對",
+          "good": "重修",
+          "bad": "重修",
+          "bad_named_flagged": ["B2", "B4"]
+        },
+        "w2-oilprice": {
+          "result": "選錯",
+          "good": "退件",
+          "bad": "重修",
+          "bad_named_flagged": ["B2", "B3"]
+        },
+        "w3-goldenbell": {
+          "result": "選錯",
+          "good": "重修",
+          "bad": "重修",
+          "bad_named_flagged": ["B2"]
+        }
+      },
+      "heldout": {
+        "ho-huangchongren-r2": {
+          "named": ["B1", "B6", "A5"],
+          "hit": ["B1", "B6", "A5"],
+          "verdict": "重修"
+        },
+        "ho-huangchongren-r2-fixed": {
+          "verdict": "退件",
+          "vector": [1, 3, 1, 4, 1]
+        },
+        "ho-matsu": {
+          "named": ["B5", "C1"],
+          "hit": ["B5", "C1"],
+          "verdict": "退件"
+        },
+        "ho-matsu-fixed": {
+          "verdict": "退件",
+          "vector": [1, 1, 1, 4, 1]
+        },
+        "ho-delivery": {
+          "named": ["C2"],
+          "hit": ["C2"],
+          "verdict": "退件"
+        },
+        "ho-delivery-fixed": {
+          "verdict": "重修",
+          "vector": [0, 1, 2, 3, 1]
+        },
+        "ho-algoart-a": {
+          "named": ["B1", "B6"],
+          "hit": ["B1", "B6"],
+          "verdict": "重修"
+        },
+        "ho-algoart-a-fixed": {
+          "verdict": "重修",
+          "vector": [0, 1, 0, 3, 0]
+        },
+        "ho-algoart-c": {
+          "named": ["B1"],
+          "hit": ["B1"],
+          "verdict": "重修"
+        },
+        "ho-algoart-c-fixed": {
+          "verdict": "重修",
+          "vector": [0, 1, 0, 3, 0]
+        },
+        "ho-tasa": {
+          "named": ["B5"],
+          "hit": ["B5"],
+          "verdict": "退件"
+        },
+        "ho-tasa-fixed": {
+          "verdict": "重修",
+          "vector": [0, 1, 0, 3, 0]
+        },
+        "ho-tungsten": {
+          "named": ["B6", "C2"],
+          "hit": ["B6", "C2"],
+          "verdict": "退件"
+        },
+        "ho-tungsten-fixed": {
+          "verdict": "退件",
+          "vector": [1, 3, 3, 5, 2]
+        }
+      },
+      "controls": {
+        "ctl-yanchangshou": {
+          "verdict": "退件",
+          "a_flags": ["A2", "A3", "A5"]
+        },
+        "ctl-zhangxuan": {
+          "verdict": "退件",
+          "a_flags": ["A2", "A5"]
+        },
+        "ctl-fishowl": {
+          "verdict": "退件",
+          "a_flags": ["A5"]
+        },
+        "ctl-publichousing": {
+          "verdict": "重修",
+          "a_flags": ["A3", "A5"]
+        }
+      },
+      "mutants": {
+        "mut-1": {
+          "target": "A1",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-2": {
+          "target": "A3",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-3": {
+          "target": "A5",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-4": {
+          "target": "B1",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-5": {
+          "target": "B2",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-6": {
+          "target": "B3",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        }
+      }
+    },
+    "sonnet": {
+      "quote_validity": [51, 51],
+      "dev_pairs": {},
+      "heldout": {},
+      "controls": {},
+      "mutants": {
+        "mut-1": {
+          "target": "A1",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "退件"
+        },
+        "mut-4": {
+          "target": "B1",
+          "flagged": true,
+          "evidence_on_injection": true,
+          "detected": true,
+          "verdict": "重修"
+        }
+      }
+    }
+  }
+}

@@ -216,7 +216,10 @@ def cmd_score() -> None:
     dmap = json.loads((HERE / "dispatch-map.json").read_text(encoding="utf-8"))
     arts = {a["id"]: a for a in manifest()}
     muts = {m["id"]: m for m in json.loads((HERE / "mutations.json").read_text(encoding="utf-8"))["mutants"]}
-    texts = {aid: "\n".join(read_view(aid)) for aid in all_article_ids()}
+    # 引句核對以分身實際讀到的提示詞檔為準（repo 裡的 view/ 會被 commit 時的 prettier 改格式）
+    def prompt_text(token: str) -> str:
+        t = (PROMPT_DIR / f"{token}.txt").read_text(encoding="utf-8")
+        return t.split("=== 文章標題 ===", 1)[1]
     reviews: dict[tuple[str, str], dict] = {}
     missing, broken = [], []
     for token, d in dmap.items():
@@ -230,7 +233,7 @@ def cmd_score() -> None:
         if r is None:
             broken.append(token)
             continue
-        reviews[(d["article"], d["model"])] = judge(r, texts[d["article"]])
+        reviews[(d["article"], d["model"])] = judge(r, prompt_text(token))
     res: dict = {"missing": missing, "broken": broken, "by_model": {}}
     for model in MODELS:
         R = {aid: j for (aid, mo), j in reviews.items() if mo == model}
