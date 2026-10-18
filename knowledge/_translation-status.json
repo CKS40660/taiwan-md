@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-17T22:22:40+08:00",
-    "zhCommitHead": "a581a83ba",
+    "lastUpdated": "2026-10-18T11:31:59+08:00",
+    "zhCommitHead": "1b97d1e81",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -84,16 +84,16 @@
       },
       "hi": {
         "total_zh": 1135,
-        "fresh": 1131,
-        "stale": 3,
+        "fresh": 1132,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1131,
-        "stale": 3,
+        "fresh": 1132,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -64740,20 +64740,18 @@
         "ar": {
           "path": "ar/Society/the-reporter-investigative-journalism.md",
           "translatedFrom": "Society/報導者.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:46044d1881e9332e",
-          "sourceBodyHash": "sha256:ca526dda99de158c",
-          "translatedAt": "2026-07-29T12:59:29+08:00",
+          "sourceCommitSha": "52052ddaa",
+          "sourceContentHash": "sha256:00bd13342bc6cb3c",
+          "sourceBodyHash": "sha256:d77e750f6664a705",
+          "translatedAt": "2026-10-18T01:42:13.756518+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 60,
-          "bytes": 76723,
+          "bytes": 85140,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/the-reporter-investigative-journalism.md",
@@ -67760,20 +67758,18 @@
         "hi": {
           "path": "hi/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:76b291d1998c59bc",
-          "sourceBodyHash": "sha256:547ee1d3b342a025",
-          "translatedAt": "2026-08-03T00:36:20.294042+00:00",
+          "sourceCommitSha": "4ee896bcb",
+          "sourceContentHash": "sha256:058a2707437b6293",
+          "sourceBodyHash": "sha256:8b7dd2352a89e936",
+          "translatedAt": "2026-10-18T09:33:26+08:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 125493,
+          "bytes": 118920,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/public-housing-justice.md",
@@ -162298,8 +162294,8 @@
           "sourceContentHash": "sha256:a47269dba2b81fb2",
           "sourceBodyHash": "sha256:c5ee37f744247683",
           "translatedAt": "2026-10-17T20:09:04+08:00",
-          "translationLastCommit": "86f55e0a",
-          "translationLastModified": "2026-10-03T02:37:28+08:00",
+          "translationLastCommit": "3b8300b8",
+          "translationLastModified": "2026-10-17T22:22:40+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 17254,
