@@ -1652,6 +1652,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #82（proxy：「決定已拍板」當成「存量在下降」的替身）；#96（知道會這樣壞，知識留在註解層）
 - **verification_count**: 2
 
+### 2026-10-19 twmd-data-refresh-am — 每班只記前一天的帳本，空缺過後會靜默少列
+
+- **pattern**: gap-recovery-run-should-backfill-missed-days
+- **原則**：以「前一天」為單位記帳的步驟（`monitor-404.py` 預設 `--days 1`），只要 routine 漏跑 N 班，帳本就少 N 列，而且沒有任何閘門會叫；空缺後的第一班，回看天數要等於缺掉的班數。
+- **觸發**：10-17、10-18 本 routine 撞週額度沒跑，10-19 這班 14 步全綠、Step 11 0 stale，但 `reports/404-monitor/state.json` 缺 10-15、10-16 兩列，缺的那天（10-16，6,195 筆）正是這週最高的 404 讀數。手動 `--days 3` 補回 → [memory/2026-10-19-060902-twmd-data-refresh-am.md](memory/2026-10-19-060902-twmd-data-refresh-am.md)
+- **instances**：
+- **可能層級**：操作規則（候選機械化：monitor-404 讀 state.json 最後一列的日期，自動把回看天數放大到補齊缺口）
+- **相關**：REFLEXES #85（「不知道」需要自己的符號）；Step 11 新鮮度閘門只量檔案 mtime，量不到帳本列數的連續性，跟 #82 proxy signal 同形
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
