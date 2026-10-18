@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-15T22:06:13.581Z",
-  "last_fetched": "2026-08-10T07:21:14Z",
-  "supporter_count": 13,
+  "last_updated": "2026-10-18T17:15:46.991Z",
+  "last_fetched": "2026-10-18T17:15:46Z",
+  "supporter_count": 14,
   "tier_counts": {
     "canopy": 0,
-    "grove": 2,
+    "grove": 3,
     "sprout": 11
   },
   "tier_config": [
@@ -32,6 +32,47 @@
     }
   ],
   "supporters": [
+    {
+      "display_name": "沈宗杰",
+      "anonymous": false,
+      "first_date": "2026-04-19",
+      "last_date": "2026-10-16",
+      "transaction_count": 5,
+      "active_monthly": true,
+      "messages": [
+        {
+          "date": "2026-04-19",
+          "text": "謝謝！",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-05-19",
+          "text": "無",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-06-18",
+          "text": "無",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-07-18",
+          "text": "無",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-10-16",
+          "text": "無",
+          "type": "monthly"
+        }
+      ],
+      "tier": {
+        "id": "grove",
+        "emoji": "🌿",
+        "label": "小樹",
+        "label_en": "Grove"
+      }
+    },
     {
       "display_name": "匿名支持者",
       "anonymous": true,
@@ -75,30 +116,15 @@
       }
     },
     {
-      "display_name": "沈宗杰",
-      "anonymous": false,
-      "first_date": "2026-04-19",
-      "last_date": "2026-07-18",
-      "transaction_count": 4,
+      "display_name": "匿名支持者",
+      "anonymous": true,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "transaction_count": 1,
       "active_monthly": true,
       "messages": [
         {
-          "date": "2026-04-19",
-          "text": "謝謝！",
-          "type": "monthly"
-        },
-        {
-          "date": "2026-05-19",
-          "text": "無",
-          "type": "monthly"
-        },
-        {
-          "date": "2026-06-18",
-          "text": "無",
-          "type": "monthly"
-        },
-        {
-          "date": "2026-07-18",
+          "date": "2026-10-14",
           "text": "無",
           "type": "monthly"
         }

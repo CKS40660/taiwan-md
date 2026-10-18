@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_fetched": "2026-08-10T07:21:14Z",
+  "last_fetched": "2026-10-18T17:15:46Z",
   "notes": "Layer 1 SSOT — append-only 流水帳，每筆 transaction 為基本單位。id = Portaly 支持編號（stable dedupe key）。Derived views 由 scripts/core/generate-supporters-data.js 從本檔聚合。禁止手動編輯 id / gmail_message_id。privacy：絕不存 email / 付款方式 / 信用卡資訊。",
   "transactions": [
     {
@@ -242,6 +242,36 @@
       "subscription_id": null,
       "status": "received",
       "gmail_message_id": "19f728706f8d48c9"
+    },
+    {
+      "id": "Kc8AWJv86fLIgHu5PKqU",
+      "source": "portaly",
+      "timestamp": "2026-10-14T00:01:11Z",
+      "date": "2026-10-14",
+      "name": "匿名",
+      "anonymous": true,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "1a137b69585cfc06"
+    },
+    {
+      "id": "6a40cnfb31HLLsNpo6VD",
+      "source": "portaly",
+      "timestamp": "2026-10-16T00:01:07Z",
+      "date": "2026-10-16",
+      "name": "沈宗杰",
+      "anonymous": false,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "1a142033e672c69a"
     }
   ]
 }
