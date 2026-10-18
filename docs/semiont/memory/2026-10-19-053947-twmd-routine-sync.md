@@ -1,7 +1,7 @@
 # 2026-10-19-053947-twmd-routine-sync — 十九份 prompt 全一致，鏡像隔了三天仍與排程器相符；10-17、10-18 兩班沒有留下紀錄
 
 > session twmd-routine-sync — cron 每日對賬（05:30 Asia/Taipei，排程器 05:37 起跑）
-> Session span: 05:37 → 05:45 +0800（約 8 分鐘，1 commit：本 memory）
+> Session span: 05:37 → 05:40 +0800（約 3 分鐘，1 commit：本 memory）
 > 資料來源：`routine-sync.py`、scheduled-tasks `list_scheduled_tasks`、`git rev-list`、`date`
 > ✅ BECOME ack: mode=micro / Q14=PASS（wake-context 讀到 `wake:END`，selftest 全綠；PARALLEL_CHECK=ACTOR_BUSY，babel writer 13250／28357 在跑，主樹未提交的譯文與 related 檔是別人的，本班不碰）
 
@@ -49,7 +49,7 @@ memory 目錄裡沒有 10-17、10-18 的 routine-sync 檔，git 也沒有對應 
 
 ---
 
-_v1.0 | 2026-10-19 05:45 +0800_
+_v1.0 | 2026-10-19 05:40 +0800_
 _session twmd-routine-sync — cron 對賬；prompt 19/19 一致，cron／enabled 以 live 直讀補驗零漂移，審庫存下個時點 10-21_
 _誕生原因：每日排程 05:30 Asia/Taipei 觸發_
 _核心洞察：工具自己標了鏡像過期時，結論要靠直讀一次 live 才能引用。_
