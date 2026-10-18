@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-10-15",
+    "last_census": "2026-10-18",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 723254,
-      "users": 443131
+      "views": 743035,
+      "users": 460310
     },
     "dev_noise": {
       "views": 12251,
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 499,
+        "views": 494,
         "users": 60
       },
       "confidence": "high",
@@ -107,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 501,
+        "views": 474,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -140,7 +140,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 113,
+        "views": 105,
         "users": 70
       },
       "confidence": "high",
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 199,
-        "users": 146
+        "views": 203,
+        "users": 149
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 195,
-        "users": 143
+        "views": 199,
+        "users": 146
       },
       "last_seen": "2026-10",
       "first_seen": "2026-07"
@@ -270,8 +270,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 103,
-        "users": 2
+        "views": 95,
+        "users": 1
       },
       "confidence": "low",
       "notes": "哲宇『看不到』就是這個 — 沒公開部署。半導體術語強烈暗示美光。值得哲宇決定要不要確認"
