@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-18T20:52:27+08:00",
-    "zhCommitHead": "5048447f2",
+    "lastUpdated": "2026-10-18T21:10:18+08:00",
+    "zhCommitHead": "75c1e8c72",
     "totalZh": 1135,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1135,
-        "fresh": 1134,
-        "stale": 1,
+        "fresh": 1135,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -37864,11 +37864,11 @@
           "sourceContentHash": "sha256:7bb096d095b41cf1",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-10-18T11:10:11.205356+00:00",
-          "translationLastCommit": "3995a2b4",
-          "translationLastModified": "2026-10-10T23:27:56+08:00",
+          "translationLastCommit": "75c1e8c7",
+          "translationLastModified": "2026-10-18T20:52:27+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 100290,
+          "bytes": 100296,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -121914,20 +121914,18 @@
         "ar": {
           "path": "ar/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:eecabb61bafa58a4",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-09-09T08:22:05.975465+00:00",
+          "sourceCommitSha": "ad1003d60",
+          "sourceContentHash": "sha256:e9fda10d17c79506",
+          "sourceBodyHash": "sha256:cd0efff98eed1fd7",
+          "translatedAt": "2026-10-18T12:52:58.148972+00:00",
           "translationLastCommit": "a1e2b6fc",
           "translationLastModified": "2026-10-10T23:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 103697,
+          "bytes": 107708,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/mona-rudao.md",
