@@ -1,0 +1,122 @@
+{
+  "models": [
+    "claude-opus-5-5"
+  ],
+  "tool_calls": 2,
+  "only_read_own_input": true,
+  "read_to_end_sentinel": true,
+  "items": [
+    {
+      "reader": "sonnet",
+      "pair": "s1-stanshih",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J01",
+      "說對": false
+    },
+    {
+      "reader": "opus",
+      "pair": "s1-stanshih",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J02",
+      "說對": true
+    },
+    {
+      "reader": "opus",
+      "pair": "s4-ezway",
+      "scored": true,
+      "bad_label": "甲",
+      "code": "J03",
+      "說對": false
+    },
+    {
+      "reader": "opus",
+      "pair": "s2-filmscore",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J04",
+      "說對": true
+    },
+    {
+      "reader": "opus",
+      "pair": "s3-waawei",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J05",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "s3-waawei",
+      "scored": true,
+      "bad_label": "甲",
+      "code": "J06",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "s2-filmscore",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J07",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "s4-ezway",
+      "scored": true,
+      "bad_label": "乙",
+      "code": "J08",
+      "說對": false
+    },
+    {
+      "reader": "opus",
+      "pair": "w2-oilprice",
+      "scored": false,
+      "bad_label": "甲",
+      "code": "J09",
+      "說對": true
+    },
+    {
+      "reader": "opus",
+      "pair": "w3-goldenbell",
+      "scored": false,
+      "bad_label": "乙",
+      "code": "J10",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "w2-oilprice",
+      "scored": false,
+      "bad_label": "甲",
+      "code": "J11",
+      "說對": true
+    },
+    {
+      "reader": "opus",
+      "pair": "w1-lowwage",
+      "scored": false,
+      "bad_label": "乙",
+      "code": "J12",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "w1-lowwage",
+      "scored": false,
+      "bad_label": "甲",
+      "code": "J13",
+      "說對": true
+    },
+    {
+      "reader": "sonnet",
+      "pair": "w3-goldenbell",
+      "scored": false,
+      "bad_label": "甲",
+      "code": "J14",
+      "說對": true
+    }
+  ]
+}

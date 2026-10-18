@@ -1,0 +1,498 @@
+[
+  {
+    "id": "w1-lowwage",
+    "scored": false,
+    "metrics": {
+      "bad": {
+        "num_per_100": 4.3,
+        "avg_sentence": 41.0,
+        "qualifiers": 8,
+        "prose_health_score": 1
+      },
+      "good": {
+        "num_per_100": 0.5,
+        "avg_sentence": 32.0,
+        "qualifiers": 0,
+        "prose_health_score": 1
+      }
+    },
+    "votes": {
+      "bad": 0,
+      "good": 3
+    },
+    "pick": "good",
+    "how": "majority",
+    "hit": 1.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w1-lowwage-bad.md",
+          "paras": 4,
+          "cjk": 577,
+          "numbers": 25,
+          "num_per_100": 4.3,
+          "avg_sentence": 41.0,
+          "longest_sentence": 85,
+          "qualifiers": 8,
+          "warns": [
+            "數字密度 4.3/百字 > 3.6",
+            "平均句長 41 字 > 38"
+          ],
+          "hards": [
+            "口徑限定詞 8 次 ≥ 6"
+          ]
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 3,
+          "info": 1,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w1-lowwage-good.md",
+          "paras": 4,
+          "cjk": 389,
+          "numbers": 2,
+          "num_per_100": 0.5,
+          "avg_sentence": 32.0,
+          "longest_sentence": 51,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 0,
+          "info": 1,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "w2-oilprice",
+    "scored": false,
+    "metrics": {
+      "bad": {
+        "num_per_100": 6.4,
+        "avg_sentence": 35.0,
+        "qualifiers": 0,
+        "prose_health_score": 1
+      },
+      "good": {
+        "num_per_100": 1.0,
+        "avg_sentence": 32.0,
+        "qualifiers": 0,
+        "prose_health_score": 1
+      }
+    },
+    "votes": {
+      "bad": 0,
+      "good": 2
+    },
+    "pick": "good",
+    "how": "majority",
+    "hit": 1.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w2-oilprice-bad.md",
+          "paras": 4,
+          "cjk": 484,
+          "numbers": 31,
+          "num_per_100": 6.4,
+          "avg_sentence": 35.0,
+          "longest_sentence": 57,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": [
+            "數字密度 6.4/百字 > 4.7"
+          ]
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 0,
+          "info": 1,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w2-oilprice-good.md",
+          "paras": 4,
+          "cjk": 389,
+          "numbers": 4,
+          "num_per_100": 1.0,
+          "avg_sentence": 32.0,
+          "longest_sentence": 56,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 0,
+          "info": 1,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "w3-goldenbell",
+    "scored": false,
+    "metrics": {
+      "bad": {
+        "num_per_100": 2.3,
+        "avg_sentence": 34.0,
+        "qualifiers": 2,
+        "prose_health_score": 1
+      },
+      "good": {
+        "num_per_100": 1.6,
+        "avg_sentence": 29.0,
+        "qualifiers": 1,
+        "prose_health_score": 1
+      }
+    },
+    "votes": {
+      "bad": 0,
+      "good": 3
+    },
+    "pick": "good",
+    "how": "majority",
+    "hit": 1.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w3-goldenbell-bad.md",
+          "paras": 4,
+          "cjk": 438,
+          "numbers": 10,
+          "num_per_100": 2.3,
+          "avg_sentence": 34.0,
+          "longest_sentence": 68,
+          "qualifiers": 2,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 1,
+          "info": 1,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/w3-goldenbell-good.md",
+          "paras": 4,
+          "cjk": 379,
+          "numbers": 6,
+          "num_per_100": 1.6,
+          "avg_sentence": 29.0,
+          "longest_sentence": 61,
+          "qualifiers": 1,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 1,
+          "hard": 0,
+          "warn": 0,
+          "info": 1,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "s1-stanshih",
+    "scored": true,
+    "metrics": {
+      "bad": {
+        "num_per_100": 2.6,
+        "avg_sentence": 30.0,
+        "qualifiers": 1,
+        "prose_health_score": 9
+      },
+      "good": {
+        "num_per_100": 3.4,
+        "avg_sentence": 26.0,
+        "qualifiers": 1,
+        "prose_health_score": 5
+      }
+    },
+    "votes": {
+      "bad": 1,
+      "good": 2
+    },
+    "pick": "good",
+    "how": "majority",
+    "hit": 1.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s1-stanshih-bad.md",
+          "paras": 4,
+          "cjk": 272,
+          "numbers": 7,
+          "num_per_100": 2.6,
+          "avg_sentence": 30.0,
+          "longest_sentence": 67,
+          "qualifiers": 1,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 9,
+          "hard": 0,
+          "warn": 32,
+          "info": 0,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s1-stanshih-good.md",
+          "paras": 4,
+          "cjk": 205,
+          "numbers": 7,
+          "num_per_100": 3.4,
+          "avg_sentence": 26.0,
+          "longest_sentence": 46,
+          "qualifiers": 1,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 5,
+          "hard": 0,
+          "warn": 30,
+          "info": 0,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "s2-filmscore",
+    "scored": true,
+    "metrics": {
+      "bad": {
+        "num_per_100": 2.6,
+        "avg_sentence": 30.0,
+        "qualifiers": 0,
+        "prose_health_score": 2
+      },
+      "good": {
+        "num_per_100": 2.4,
+        "avg_sentence": 37.0,
+        "qualifiers": 4,
+        "prose_health_score": 4
+      }
+    },
+    "votes": {
+      "bad": 3,
+      "good": 1
+    },
+    "pick": "bad",
+    "how": "majority",
+    "hit": 0.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s2-filmscore-bad.md",
+          "paras": 4,
+          "cjk": 423,
+          "numbers": 11,
+          "num_per_100": 2.6,
+          "avg_sentence": 30.0,
+          "longest_sentence": 51,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 2,
+          "hard": 0,
+          "warn": 16,
+          "info": 1,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s2-filmscore-good.md",
+          "paras": 4,
+          "cjk": 335,
+          "numbers": 8,
+          "num_per_100": 2.4,
+          "avg_sentence": 37.0,
+          "longest_sentence": 58,
+          "qualifiers": 4,
+          "warns": [
+            "口徑限定詞 4 次 ≥ 4"
+          ],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 4,
+          "hard": 0,
+          "warn": 20,
+          "info": 0,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "s3-waawei",
+    "scored": true,
+    "metrics": {
+      "bad": {
+        "num_per_100": 1.1,
+        "avg_sentence": 23.0,
+        "qualifiers": 0,
+        "prose_health_score": 4
+      },
+      "good": {
+        "num_per_100": 4.0,
+        "avg_sentence": 30.0,
+        "qualifiers": 1,
+        "prose_health_score": 5
+      }
+    },
+    "votes": {
+      "bad": 4,
+      "good": 0
+    },
+    "pick": "bad",
+    "how": "majority",
+    "hit": 0.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s3-waawei-bad.md",
+          "paras": 4,
+          "cjk": 186,
+          "numbers": 2,
+          "num_per_100": 1.1,
+          "avg_sentence": 23.0,
+          "longest_sentence": 36,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 4,
+          "hard": 0,
+          "warn": 32,
+          "info": 0,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s3-waawei-good.md",
+          "paras": 4,
+          "cjk": 177,
+          "numbers": 7,
+          "num_per_100": 4.0,
+          "avg_sentence": 30.0,
+          "longest_sentence": 51,
+          "qualifiers": 1,
+          "warns": [
+            "數字密度 4.0/百字 > 3.6"
+          ],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 5,
+          "hard": 0,
+          "warn": 24,
+          "info": 0,
+          "passed": true
+        }
+      }
+    }
+  },
+  {
+    "id": "s4-ezway",
+    "scored": true,
+    "metrics": {
+      "bad": {
+        "num_per_100": 3.2,
+        "avg_sentence": 29.0,
+        "qualifiers": 0,
+        "prose_health_score": 3
+      },
+      "good": {
+        "num_per_100": 12.3,
+        "avg_sentence": 27.0,
+        "qualifiers": 0,
+        "prose_health_score": 0
+      }
+    },
+    "votes": {
+      "bad": 1,
+      "good": 2
+    },
+    "pick": "good",
+    "how": "majority",
+    "hit": 1.0,
+    "raw": {
+      "bad": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s4-ezway-bad.md",
+          "paras": 4,
+          "cjk": 372,
+          "numbers": 12,
+          "num_per_100": 3.2,
+          "avg_sentence": 29.0,
+          "longest_sentence": 64,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": []
+        },
+        "prose_health": {
+          "score": 3,
+          "hard": 0,
+          "warn": 0,
+          "info": 1,
+          "passed": true
+        }
+      },
+      "good": {
+        "opening_readability": {
+          "file": "/Users/cheyuwu/Projects/taiwan-md/.claude/worktrees/modest-ritchie-2506cb/reports/evaluation/grader-pilot-2026-10/raw/s4-ezway-good.md",
+          "paras": 3,
+          "cjk": 219,
+          "numbers": 27,
+          "num_per_100": 12.3,
+          "avg_sentence": 27.0,
+          "longest_sentence": 54,
+          "qualifiers": 0,
+          "warns": [],
+          "hards": [
+            "數字密度 12.3/百字 > 4.7"
+          ]
+        },
+        "prose_health": {
+          "score": 0,
+          "hard": 0,
+          "warn": 0,
+          "info": 0,
+          "passed": true
+        }
+      }
+    }
+  }
+]
