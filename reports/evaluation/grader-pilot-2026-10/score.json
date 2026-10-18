@@ -1,0 +1,114 @@
+[
+  {
+    "reader": "opus",
+    "pair": "w1-lowwage",
+    "scored": false,
+    "choice": "甲",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "opus",
+    "pair": "w2-oilprice",
+    "scored": false,
+    "choice": "乙",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "opus",
+    "pair": "w3-goldenbell",
+    "scored": false,
+    "choice": "甲",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "opus",
+    "pair": "s1-stanshih",
+    "scored": true,
+    "choice": "乙",
+    "picked": "bad",
+    "correct": false
+  },
+  {
+    "reader": "opus",
+    "pair": "s2-filmscore",
+    "scored": true,
+    "choice": "甲",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "opus",
+    "pair": "s3-waawei",
+    "scored": true,
+    "choice": "乙",
+    "picked": "bad",
+    "correct": false
+  },
+  {
+    "reader": "opus",
+    "pair": "s4-ezway",
+    "scored": true,
+    "choice": "甲",
+    "picked": "bad",
+    "correct": false
+  },
+  {
+    "reader": "sonnet",
+    "pair": "w1-lowwage",
+    "scored": false,
+    "choice": "乙",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "sonnet",
+    "pair": "w2-oilprice",
+    "scored": false,
+    "choice": "乙",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "sonnet",
+    "pair": "w3-goldenbell",
+    "scored": false,
+    "choice": "乙",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "sonnet",
+    "pair": "s1-stanshih",
+    "scored": true,
+    "choice": "乙",
+    "picked": "bad",
+    "correct": false
+  },
+  {
+    "reader": "sonnet",
+    "pair": "s2-filmscore",
+    "scored": true,
+    "choice": "乙",
+    "picked": "bad",
+    "correct": false
+  },
+  {
+    "reader": "sonnet",
+    "pair": "s3-waawei",
+    "scored": true,
+    "choice": "乙",
+    "picked": "good",
+    "correct": true
+  },
+  {
+    "reader": "sonnet",
+    "pair": "s4-ezway",
+    "scored": true,
+    "choice": "乙",
+    "picked": "bad",
+    "correct": false
+  }
+]

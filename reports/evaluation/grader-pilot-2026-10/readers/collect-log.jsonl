@@ -1,0 +1,14 @@
+{"reader": "sonnet", "pair": "s4-ezway", "chars": 1129, "models": ["claude-sonnet-5-5"], "tool_calls": 1, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-02"}
+{"reader": "sonnet", "pair": "s3-waawei", "chars": 1663, "models": ["claude-sonnet-5-5"], "tool_calls": 3, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-04"}
+{"reader": "sonnet", "pair": "s1-stanshih", "chars": 1402, "models": ["claude-sonnet-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-05"}
+{"reader": "opus", "pair": "w3-goldenbell", "chars": 2198, "models": ["claude-opus-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-03"}
+{"reader": "sonnet", "pair": "w2-oilprice", "chars": 1566, "models": ["claude-sonnet-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-06"}
+{"reader": "opus", "pair": "s4-ezway", "chars": 1835, "models": ["claude-opus-5-5"], "tool_calls": 1, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-07"}
+{"reader": "sonnet", "pair": "s2-filmscore", "chars": 1829, "models": ["claude-sonnet-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-08"}
+{"reader": "sonnet", "pair": "w3-goldenbell", "chars": 1431, "models": ["claude-sonnet-5-5"], "tool_calls": 3, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-10"}
+{"reader": "sonnet", "pair": "w1-lowwage", "chars": 1923, "models": ["claude-sonnet-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-12"}
+{"reader": "opus", "pair": "w1-lowwage", "chars": 2649, "models": ["claude-opus-5-5"], "tool_calls": 3, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-01"}
+{"reader": "opus", "pair": "s1-stanshih", "chars": 2404, "models": ["claude-opus-5-5"], "tool_calls": 3, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-11"}
+{"reader": "opus", "pair": "s3-waawei", "chars": 2395, "models": ["claude-opus-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-09"}
+{"reader": "opus", "pair": "s2-filmscore", "chars": 2593, "models": ["claude-opus-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-14"}
+{"reader": "opus", "pair": "w2-oilprice", "chars": 2792, "models": ["claude-opus-5-5"], "tool_calls": 2, "only_read_own_prompt": true, "read_to_end_sentinel": true, "dispatch": "cr-13"}

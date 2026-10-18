@@ -1,0 +1,65 @@
+{
+  "seed": 20261018,
+  "readers": {
+    "opus": {
+      "w1-lowwage": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "w2-oilprice": {
+        "甲": "bad",
+        "乙": "good"
+      },
+      "w3-goldenbell": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s1-stanshih": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s2-filmscore": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s3-waawei": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s4-ezway": {
+        "甲": "bad",
+        "乙": "good"
+      }
+    },
+    "sonnet": {
+      "w1-lowwage": {
+        "甲": "bad",
+        "乙": "good"
+      },
+      "w2-oilprice": {
+        "甲": "bad",
+        "乙": "good"
+      },
+      "w3-goldenbell": {
+        "甲": "bad",
+        "乙": "good"
+      },
+      "s1-stanshih": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s2-filmscore": {
+        "甲": "good",
+        "乙": "bad"
+      },
+      "s3-waawei": {
+        "甲": "bad",
+        "乙": "good"
+      },
+      "s4-ezway": {
+        "甲": "good",
+        "乙": "bad"
+      }
+    }
+  }
+}
