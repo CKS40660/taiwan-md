@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-19 twmd-maintainer-daily — stock-is-the-template-new-contributors-copy：存量不是躺著的債，它是投稿者照著學的範本，而閘門只裝在機器那一側
+
+- **pattern**: stock-is-the-template-new-contributors-copy
+- **原則**：一個閘門守住產線入口之後，同一個缺陷還有第二條進來的路——**人類投稿**。而且這條路比產線那條更難關，因為存量本身會教新投稿者怎麼寫錯：投稿者找「既有語料怎麼做」當依據，找到的正是存量。於是閘門擋住了機器、擋不住照著存量學的人，而存量每多活一天就多教一個人。這跟 REFLEXES #87「保護密度跟曝光量成反比」同族，但多一層：**存量不只是未修的債，它是債的繁殖機制**。
+- **觸發**：PR #1864（aminzai，越南文〈台灣電價機制與台電〉）全文 53 處把新台幣金額寫成 `đồng`（越南盾），`3,7823 đồng/kWh`、`71,1 tỷ đồng`。產線同篇譯文 0 處——因為 `currency-identity-check.py` 自 2026-09-26 接進 `babel-dispatch.py` verify。投稿者在 PR 說明寫明參照的是 `knowledge/vi/Economy/taiwan-fuel-pricing-and-cpc.md`（既有 vi 語料），而那篇正是 OBSERVER-QUEUE #108 那批 692 檔存量的一員。**他照著語料學，語料是錯的。**
+- **結構事實（本班實查）**：`currency-identity-check.py` 的接線只有三處，全在產線側——`babel-dispatch.py`、`verify-delegation-batch.sh`、`write-agent-brief.py`。它**不是** `article-health.py` 的 34 個 plugin 之一、不在 `.husky/`、不在任何 `.github/workflows/`。所以 contributor PR 的 CI 三道（check-translation／frontmatter-gate／review）全綠，53 處一個都沒叫。
+- **為什麼不能直接把閘門裝到人類那一側**（這是本條對 #108 的新論據）：現在就把它接進 `article-health` 或 pre-push，692 檔存量會讓 `--all` 全站掃描當場全紅，等於擋掉所有人的 push——就是 MANIFESTO §14 那個「假陽性家族在閘門位置誤殺好產出」的形狀。**所以存量不只是讀者端的錯，它還是「閘門裝不上去」的原因。** #108 原本的代價寫的是讀者讀到十二語的錯幣別；本條補上第二筆代價：它同時凍住了修法。
+- **instances**：
+  - 2026-10-19 twmd-maintainer-daily — PR #1864 投稿者人翻譯文 53 處，照既有語料慣例；產線同篇 0 處。本班依 OBSERVER-QUEUE #67 保留投稿者版本並手修 53 處（數字錨定，未動 `Hội đồng` 28 處與 `đồng thời` 1 處）
+- **可能層級**：REFLEXES #87 fold（新載體：存量當範本），或 #82 proxy signal 的變體（「閘門存在」被讀成「這個缺陷被守住了」，而它只守住一扇門）
+- **候選機械化**：(a) `currency-identity-check.py` 以 **changed-files-only** 模式接進 PR CI 與 pre-commit（只驗本次動到的檔，繞開存量全紅的問題，這條不需要等 #108）(b) `docs/editorial/per-language/TRANSLATION-vi.md` 幣別節補明文，讓投稿者有一份比存量更權威的依據可讀
+- **verification_count**: 1
+- **distill_ready**: false
+
 ### 2026-10-18 twmd-routine-audit-weekly — config-declared-in-ssot-absent-from-the-file-the-runner-reads：SSOT 寫著設定已落地，執行者實際讀的那份檔裡沒有它
 
 - **pattern**: config-declared-in-ssot-absent-from-the-file-the-runner-reads
