@@ -63,7 +63,7 @@ Tahun 1910-an adalah era ketika Kantor Gubernur Jenderal melakukan pembangunan b
 
 Ketiga gedung negara bagian adalah inti dari daftar karya ini. Gedung Negara Bagian Taipei kini menjadi Komisi Pengawas, Gedung Negara Bagian Taichung kini digunakan sebagian oleh departemen pemerintah kota Taichung, Gedung Negara Bagian Tainan kini menjadi Museum Sastra Taiwan Nasional. Ketiga bangunan tersebar di utara, tengah, dan selatan, menangani kondisi lahan yang berbeda-beda, namun berbagi satu set bahasa yang sama: bata merah, batu cuci, kolom klasik, pedimen, dan menara. [^1]
 
-Detail Gedung Negara Bagian Taichung dapat dilihat di entri [台中州廳](/geography/台中州廳). Gedung Negara Bagian Tainan selesai pada 1916 dan kini menjadi Museum Sastra Taiwan Nasional, termasuk dalam serangkaian proyek gedung negara bagian yang secara berturut-turut selesai antara 1913 dan 1916 bersama dengan Gedung Negara Bagian Taipei dan Gedung Negara Bagian Taichung. [^1]
+Detail Gedung Negara Bagian Taichung dapat dilihat di entri [台中州廳](/history/台中州廳). Gedung Negara Bagian Tainan selesai pada 1916 dan kini menjadi Museum Sastra Taiwan Nasional, termasuk dalam serangkaian proyek gedung negara bagian yang secara berturut-turut selesai antara 1913 dan 1916 bersama dengan Gedung Negara Bagian Taipei dan Gedung Negara Bagian Taichung. [^1]
 
 ## Asimetri, dan Menara Tinggi yang Diruntuhkan
 
@@ -94,7 +94,7 @@ Cara membaca lain sama validnya. Bata merah dari gedung-gedung ini berasal dari 
 **Bacaan Lanjutan**:
 
 - [Arsitektur Taiwan](/id/art/taiwanese-architecture) — Konteks menyeluruh dari rumah batu papan masyarakat adat, gedung negara bagian era Jepang, hingga bangunan publik kontemporer
-- [Gedung Negara Bagian Taichung](/geography/台中州廳) — Detail arsitektur perluasan empat tahap dan konfigurasi sudut jalan
+- [Gedung Negara Bagian Taichung](/history/台中州廳) — Detail arsitektur perluasan empat tahap dan konfigurasi sudut jalan
 
 ## Referensi
 

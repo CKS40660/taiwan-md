@@ -63,7 +63,7 @@ The 1910s were a period of intensive construction by the Governor-General's Offi
 
 The three prefectural halls are the core of this chronology. The Taipei Prefectural Hall now serves as the Control Yuan; the Taichung Prefectural Hall is now used by various departments of the Taichung City Government; the Tainan Prefectural Hall now houses the National Taiwan Literature Museum. The three buildings are distributed across the north, center, and south, each addressing different site conditions, yet they share a common vocabulary: red brick, washed stone, classical columns, pediments, and towers.[^1]
 
-Details of the Taichung Prefectural Hall can be found in the [Taichung Prefectural Hall](/geography/台中州廳) entry. The Tainan Prefectural Hall was completed in 1916 and now serves as the National Taiwan Literature Museum, part of a series of hall buildings that were successively completed between 1913 and 1916 alongside the Taipei Prefectural Hall and Taichung Prefectural Hall.[^1]
+Details of the Taichung Prefectural Hall can be found in the [Taichung Prefectural Hall](/history/台中州廳) entry. The Tainan Prefectural Hall was completed in 1916 and now serves as the National Taiwan Literature Museum, part of a series of hall buildings that were successively completed between 1913 and 1916 alongside the Taipei Prefectural Hall and Taichung Prefectural Hall.[^1]
 
 ## Asymmetry and the Demolished Tower
 
@@ -94,7 +94,7 @@ Another reading is equally valid. The red brick of these halls came from Taiwan,
 **Further reading:**
 
 - [Taiwan Architecture](/en/art/taiwanese-architecture) — The broader context from indigenous slate houses and Japanese colonial halls to contemporary public architecture
-- [Taichung Prefectural Hall](/geography/台中州廳) — Architectural details of four-stage expansion and corner-site configuration
+- [Taichung Prefectural Hall](/history/台中州廳) — Architectural details of four-stage expansion and corner-site configuration
 
 ## References
 

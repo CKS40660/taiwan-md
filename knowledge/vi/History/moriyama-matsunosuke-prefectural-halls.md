@@ -63,7 +63,7 @@ Những năm 1910 là thời kỳ Tổng Toàn quyền xây dựng rầm rộ. M
 
 Ba tòa nhà châu là trung tâm của danh sách tác phẩm này. Tòa nhà châu Đài Bắc ngày nay là Viện Kiểm sát, Tòa nhà châu Đài Trung ngày nay được một số cơ quan của Chính phủ thành phố Đài Trung sử dụng, Tòa nhà châu Đài Nam ngày nay là Thư viện Văn học Quốc gia Đài Loan. Ba tòa nhà nằm rải rác ở phía bắc, giữa và nam, xử lý các điều kiện nền móng khác nhau, nhưng chia sẻ cùng một bộ ngôn ngữ: gạch đỏ, đá rửa, các cột cổ điển, mái nhà kiểu núi và tháp. [^1]
 
-Chi tiết của Tòa nhà châu Đài Trung xem mục [Tòa nhà châu Đài Trung](/geography/台中州廳). Tòa nhà châu Đài Nam hoàn thành năm 1916, ngày nay là Thư viện Văn học Quốc gia Đài Loan, cùng với Tòa nhà châu Đài Bắc và Tòa nhà châu Đài Trung thuộc một loạt công trình Tòa nhà châu được hoàn thành liên tiếp trong giai đoạn 1913 đến 1916. [^1]
+Chi tiết của Tòa nhà châu Đài Trung xem mục [Tòa nhà châu Đài Trung](/history/台中州廳). Tòa nhà châu Đài Nam hoàn thành năm 1916, ngày nay là Thư viện Văn học Quốc gia Đài Loan, cùng với Tòa nhà châu Đài Bắc và Tòa nhà châu Đài Trung thuộc một loạt công trình Tòa nhà châu được hoàn thành liên tiếp trong giai đoạn 1913 đến 1916. [^1]
 
 ## Không đối xứng, và tháp cao bị phá dỡ
 
@@ -94,7 +94,7 @@ Một cách đọc khác cũng đúng như vậy. Gạch đỏ của các tòa n
 **Đọc thêm**:
 
 - [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — Bối cảnh toàn diện từ nhà đá của người bản địa, các tòa nhà thời Nhật trị đến kiến trúc công cộng đương đại
-- [Tòa nhà châu Đài Trung](/geography/台中州廳) — Chi tiết kiến trúc của bốn giai đoạn mở rộng và cấu hình góc phố
+- [Tòa nhà châu Đài Trung](/history/台中州廳) — Chi tiết kiến trúc của bốn giai đoạn mở rộng và cấu hình góc phố
 
 ## Tài liệu tham khảo
 

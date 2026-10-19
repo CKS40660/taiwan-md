@@ -63,7 +63,7 @@ Die 1910er Jahre waren eine Ära massiver Bauprojekte durch das Generalgouvernem
 
 Die drei Präfekturhäuser bilden den Kern dieser Chronologie. Das Präfekturhaus Taipeh ist heute das Control Yuan, das Präfekturhaus Taichung wird teilweise von der Stadtverwaltung Taichung genutzt, und das Präfekturhaus Tainan beherbergt heute das Nationale Museum für Literatur in Taiwan. Die drei Gebäude befinden sich im Norden, Zentrum und Süden des Landes und wurden auf unterschiedlichsten Grundstücken errichtet, teilen jedoch dieselbe architektonische Sprache: rote Backsteine, Waschbeton (Terrazzo), klassische Säulenordnungen, Giebel und Türme. [^1]
 
-Details zum Präfekturhaus Taichung finden Sie im Artikel [Präfekturhaus Taichung](/geography/台中州廳). Das Präfekturhaus Tainan wurde 1916 fertiggestellt und ist heute das Nationale Museum für Literatur in Taiwan; es gehört zusammen mit den Präfekturhäusern von Taipeh und Taichung zu der Gruppe von Regierungsgebäuden, die zwischen 1913 und 1916 sukzessive errichtet wurden. [^1]
+Details zum Präfekturhaus Taichung finden Sie im Artikel [Präfekturhaus Taichung](/history/台中州廳). Das Präfekturhaus Tainan wurde 1916 fertiggestellt und ist heute das Nationale Museum für Literatur in Taiwan; es gehört zusammen mit den Präfekturhäusern von Taipeh und Taichung zu der Gruppe von Regierungsgebäuden, die zwischen 1913 und 1916 sukzessive errichtet wurden. [^1]
 
 ## Asymmetrie und der abgerissene hohe Turm
 
@@ -94,7 +94,7 @@ Eine andere Lesart ist jedoch ebenso gültig. Die roten Backsteine dieser Gebäu
 **Weiterführende Literatur:**
 
 - [Architektur in Taiwan](/de/art/taiwanese-architecture) — Der gesamte Kontext von indigenen Steinhausbauten über Kolonialgebäude bis hin zur zeitgenössischen öffentlichen Architektur
-- [Präfekturhaus Taichung](/geography/台中州廳) — Architektonische Details zu den vier Erweiterungsphasen und der Ecklage
+- [Präfekturhaus Taichung](/history/台中州廳) — Architektonische Details zu den vier Erweiterungsphasen und der Ecklage
 
 ## Referenzen
 

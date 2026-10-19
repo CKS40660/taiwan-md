@@ -63,7 +63,7 @@ La década de 1910 fue una época de grandes obras de construcción del Palacio 
 
 Los tres edificios de gobernación son el núcleo de este registro. El Edificio de Gobernación de Taipéi es hoy la Comisión de Control, el Edificio de Gobernación de Taichung es utilizado parcialmente por algunos departamentos del gobierno municipal de Taichung, y el Edificio de Gobernación de Tainan es hoy el Museo Nacional de Literatura de Taiwán. Los tres edificios están distribuidos en el norte, centro y sur, enfrentándose a condiciones de terreno muy diferentes, pero comparten un mismo lenguaje arquitectónico: ladrillo rojo, acabado de piedra lavada, órdenes clásicos, frontones y torres. [^1]
 
-Los detalles del Edificio de Gobernación de Taichung se encuentran en la entrada [Edificio de Gobernación de Taichung](/geography/台中州廳). El Edificio de Gobernación de Tainan se completó en 1916 y es hoy el Museo Nacional de Literatura de Taiwán, perteneciendo junto con el Edificio de Gobernación de Taipéi y el de Taichung a un lote de construcciones de edificios de gobernación que se completaron sucesivamente entre 1913 y 1916. [^1]
+Los detalles del Edificio de Gobernación de Taichung se encuentran en la entrada [Edificio de Gobernación de Taichung](/history/台中州廳). El Edificio de Gobernación de Tainan se completó en 1916 y es hoy el Museo Nacional de Literatura de Taiwán, perteneciendo junto con el Edificio de Gobernación de Taipéi y el de Taichung a un lote de construcciones de edificios de gobernación que se completaron sucesivamente entre 1913 y 1916. [^1]
 
 ## Asimetría, y la torre que fue demolida
 
@@ -94,7 +94,7 @@ Una segunda lectura es igualmente válida. El ladrillo rojo de estos edificios p
 **Lecturas complementarias**:
 
 - [Arquitectura de Taiwán](/es/art/taiwanese-architecture) — Contexto integral desde casas de piedra de pueblos originarios, edificios de gobernación del período de dominio japonés, hasta arquitectura pública contemporánea
-- [Edificio de Gobernación de Taichung](/geography/台中州廳) — Detalles arquitectónicos de la expansión en cuatro fases y la configuración de esquina
+- [Edificio de Gobernación de Taichung](/history/台中州廳) — Detalles arquitectónicos de la expansión en cuatro fases y la configuración de esquina
 
 ## Referencias
 

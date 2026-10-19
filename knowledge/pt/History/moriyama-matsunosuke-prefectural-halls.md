@@ -63,7 +63,7 @@ A década de 1910 foi uma era de grandes obras de construção do Palácio do Go
 
 Os três edifícios de prefeitura são o núcleo deste cronograma. A Prefeitura de Taipei é hoje o Yuan de Controle, a Prefeitura de Taichung é hoje parcialmente usada por departamentos da Prefeitura de Taichung, e a Prefeitura de Tainan é hoje a Biblioteca Nacional de Literatura Taiwanesa. Os três edifícios estão distribuídos no norte, centro e sul, enfrentando condições de terreno distintas, mas compartilham uma linguagem comum: tijolos vermelhos, acabamento em pedra lavada, ordens clássicas de colunas, frontões e torres. [^1]
 
-Os detalhes da Prefeitura de Taichung podem ser encontrados na entrada [Prefeitura de Taichung](/geography/台中州廳). A Prefeitura de Tainan foi concluída em 1916 e é hoje a Biblioteca Nacional de Literatura Taiwanesa, pertencendo ao mesmo lote de edifícios públicos que foram sucessivamente concluídos entre 1913 e 1916, junto com a Prefeitura de Taipei e a Prefeitura de Taichung. [^1]
+Os detalhes da Prefeitura de Taichung podem ser encontrados na entrada [Prefeitura de Taichung](/history/台中州廳). A Prefeitura de Tainan foi concluída em 1916 e é hoje a Biblioteca Nacional de Literatura Taiwanesa, pertencendo ao mesmo lote de edifícios públicos que foram sucessivamente concluídos entre 1913 e 1916, junto com a Prefeitura de Taipei e a Prefeitura de Taichung. [^1]
 
 ## Assimetria e a torre que foi demolida
 
@@ -94,7 +94,7 @@ Uma segunda leitura é igualmente válida. Os tijolos vermelhos destes edifício
 **Leitura complementar**:
 
 - [Arquitetura de Taiwan](/pt/art/taiwanese-architecture) — contexto geral desde casarões de pedra de povos indígenas, edifícios públicos do período japonês até arquitetura pública contemporânea
-- [Prefeitura de Taichung](/geography/台中州廳) — detalhes arquitetônicos da expansão em quatro fases e configuração de esquina
+- [Prefeitura de Taichung](/history/台中州廳) — detalhes arquitetônicos da expansão em quatro fases e configuração de esquina
 
 ## Referências
 

@@ -63,7 +63,7 @@ Les années 1910 sont une période d'intense construction pour le Palais du gouv
 
 Les trois préfectures constituent le cœur de cette chronologie. La préfecture de Taipei est aujourd'hui le siège de la Commission de contrôle, celle de Taichung accueille certains services de la municipalité, et celle de Tainan est devenue le Musée national de la littérature taïwanaise. Ces trois bâtiments, situés respectivement au nord, au centre et au sud, traitent des conditions de terrain très différentes, mais partagent un même langage architectural : brique rouge, pierre lavée, ordres classiques, frontons et tours.[^1]
 
-Pour les détails de la préfecture de Taichung, voir l'article [préfecture de Taichung](/geography/台中州廳). La préfecture de Tainan, achevée en 1916 et aujourd'hui Musée national de la littérature taïwanaise, appartient à la même série de bâtiments administratifs réalisés entre 1913 et 1916, aux côtés de la préfecture de Taipei et de celle de Taichung.[^1]
+Pour les détails de la préfecture de Taichung, voir l'article [préfecture de Taichung](/history/台中州廳). La préfecture de Tainan, achevée en 1916 et aujourd'hui Musée national de la littérature taïwanaise, appartient à la même série de bâtiments administratifs réalisés entre 1913 et 1916, aux côtés de la préfecture de Taipei et de celle de Taichung.[^1]
 
 ## L'asymétrie et la tour démolie
 
@@ -94,7 +94,7 @@ Une autre lecture est tout aussi valide. La brique rouge de ces préfectures pro
 **Lectures complémentaires** :
 
 - [Architecture taïwanaise](/fr/art/taiwanese-architecture) — contexte global des maisons en pierre des peuples autochtones, préfectures de l'époque japonaise et architecture publique contemporaine
-- [Préfecture de Taichung](/geography/台中州廳) — détails architecturaux des quatre phases d'expansion et de la configuration d'angle de rue
+- [Préfecture de Taichung](/history/台中州廳) — détails architecturaux des quatre phases d'expansion et de la configuration d'angle de rue
 
 ## Références
 
