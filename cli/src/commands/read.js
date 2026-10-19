@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import { exec } from 'child_process';
+import { execFile } from 'child_process';
 import {
   getArticleFiles,
   getArticleFilesForLang,
@@ -153,6 +153,33 @@ export function readCommand(program) {
 }
 
 /**
+ * 從 frontmatter 組出 taiwan.md 文章網址，組不出合法網址就回 null。
+ *
+ * 刻意不驗 category／slug 的字元集：全庫 14,883 個檔名裡有 123 個含空白、
+ * 33 個含全形冒號，還有「·」「（）」。issue #1863 建議的白名單
+ * `/^[\w\u4e00-\u9fff-]+$/` 會把這 150+ 篇合法文章擋在 --web 之外，
+ * 是個假陽性閘門（REFLEXES #66：門檻要用真實產出校準）。
+ *
+ * 真正關掉命令注入的是呼叫端的 execFile（不走 shell）。本函式只多擋一層
+ * 「組出來的東西還是不是 taiwan.md 的 https 網址」，防的是 category 帶
+ * `../` 之類的路徑把戲，而這一層不看字元集，所以不會誤殺 CJK 與空白。
+ */
+export function buildArticleUrl(fm) {
+  if (!fm || typeof fm.category !== 'string' || typeof fm.slug !== 'string') {
+    return null;
+  }
+  let u;
+  try {
+    u = new URL(`${fm.category}/${fm.slug}`, 'https://taiwan.md/');
+  } catch {
+    return null;
+  }
+  if (u.protocol !== 'https:' || u.host !== 'taiwan.md') return null;
+  if (!u.pathname.startsWith('/') || u.pathname === '/') return null;
+  return u.href;
+}
+
+/**
  * Render an article from a given file path.
  */
 async function renderArticleFile(filePath, opts) {
@@ -167,9 +194,27 @@ async function renderArticleFile(filePath, opts) {
 
   // Handle --web flag: open in browser
   if (opts.web) {
-    const url = `https://taiwan.md/${fm.category}/${fm.slug}`;
-    console.log(chalk.gray(`\n  Opening ${url} ...\n`));
-    exec(`open "${url}"`);
+    const url = buildArticleUrl(fm);
+    if (!url) {
+      console.log(
+        chalk.red(
+          `\n  frontmatter 的 category／slug 組不出 taiwan.md 網址，不開瀏覽器。\n`,
+        ),
+      );
+      return;
+    }
+    // 顯示用解碼版（CJK slug 才讀得出來），交給 open 的仍是 canonical href
+    let shown = url;
+    try {
+      shown = decodeURI(url);
+    } catch {
+      /* 壞的 escape sequence 就印原樣 */
+    }
+    console.log(chalk.gray(`\n  Opening ${shown} ...\n`));
+    // execFile 不經過 shell：category／slug 來自被讀取那篇文章的 frontmatter
+    // （實務上來自外部 PR），用 exec 字串插值等於讓文章作者決定要跑什麼指令。
+    // 參數陣列把這條邊界關掉。issue #1863。
+    execFile('open', [url]);
     return;
   }
 
