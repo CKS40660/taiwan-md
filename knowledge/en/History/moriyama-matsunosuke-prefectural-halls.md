@@ -27,9 +27,9 @@ rationale:
   where_it_hedges: '生平、作品年表與建築手法採故事 StoryStudio 摘錄自晨星出版《跟著日本時代建築大師走》的吳昱瑩文章；台南州廳與台中州廳的落成年代採該文的年表（台中州廳 1913、台北州廳 1915、台南州廳 1916）。「師承辰野金吾」採該文「其師辰野金吾」的敘述，未採用「師承康德」的另一種說法。'
   whos_pushing_back: '認為殖民政府建築不該被當成純粹美學成就欣賞的讀者；認為把森山寫成「台灣建築之父」過度抬舉殖民者的讀者；以及主張總督府設計應歸功於長野宇平治等人的讀者。'
 translatedFrom: 'History/森山松之助與日治州廳建築.md'
-sourceCommitSha: '035fea3cf'
-sourceContentHash: 'sha256:29f5b0ada1e30424'
-sourceBodyHash: 'sha256:73b81f498e215dfc'
+sourceCommitSha: 'b58a962a'
+sourceContentHash: 'sha256:cb78229ec72c1e47'
+sourceBodyHash: 'sha256:7d4bd57c7e0512f4'
 translatedAt: '2026-10-20T00:50:57+08:00'
 ---
 
