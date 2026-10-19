@@ -99,24 +99,24 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇹🇼 Chinese (zh-TW)             | 1133  |
 | 🇺🇸 English (en)                | 1135  |
 | 🇯🇵 日本語 (ja)                 | 1135  |
-| 🇰🇷 한국어 (ko)                 | 1134  |
-| 🇪🇸 Español (es)                | 1134  |
+| 🇰🇷 한국어 (ko)                 | 1135  |
+| 🇪🇸 Español (es)                | 1135  |
 | 🇫🇷 Français (fr)               | 1135  |
-| 🇻🇳 Tiếng Việt (vi)             | 1134  |
+| 🇻🇳 Tiếng Việt (vi)             | 1135  |
 | 🇮🇩 Bahasa Indonesia (id)       | 1135  |
 | 🇵🇹 Português (pt)              | 1135  |
-| 🇮🇳 हिन्दी (hi)                 | 1134  |
-| 🇸🇦 العربية (ar)                | 1134  |
-| 🇷🇺 Русский (ru)                | 1134  |
+| 🇮🇳 हिन्दी (hi)                 | 1135  |
+| 🇸🇦 العربية (ar)                | 1135  |
+| 🇷🇺 Русский (ru)                | 1135  |
 | 🌐 Deutsch (de)                | 1135  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 78    |
-| ⭐ GitHub Stars                | 1215  |
+| ⭐ GitHub Stars                | 1218  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 116   |
-| 📅 Articles last 30 days       | 190   |
+| 📅 Articles last 7 days        | 96    |
+| 📅 Articles last 30 days       | 188   |
 
 <!-- STATS:END -->
 

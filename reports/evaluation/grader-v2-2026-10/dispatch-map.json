@@ -1,0 +1,290 @@
+{
+  "r00036a2": {
+    "article": "ho-delivery",
+    "model": "fable"
+  },
+  "r001a245": {
+    "article": "mut-5",
+    "model": "fable"
+  },
+  "r0020a36": {
+    "article": "dev-s1-stanshih-bad",
+    "model": "fable"
+  },
+  "r003cf42": {
+    "article": "ho-tasa-fixed",
+    "model": "fable"
+  },
+  "r004543d": {
+    "article": "mut-3",
+    "model": "fable"
+  },
+  "r0058a37": {
+    "article": "ho-algoart-c",
+    "model": "fable"
+  },
+  "r006213e": {
+    "article": "dev-w2-oilprice-good",
+    "model": "sonnet"
+  },
+  "r0079962": {
+    "article": "ho-algoart-c-fixed",
+    "model": "fable"
+  },
+  "r0086188": {
+    "article": "mut-1",
+    "model": "sonnet"
+  },
+  "r009ac4e": {
+    "article": "ho-huangchongren-r2",
+    "model": "fable"
+  },
+  "r010fb4a": {
+    "article": "mut-4",
+    "model": "sonnet"
+  },
+  "r011322c": {
+    "article": "dev-s1-stanshih-bad",
+    "model": "sonnet"
+  },
+  "r012a39a": {
+    "article": "ho-matsu-fixed",
+    "model": "fable"
+  },
+  "r01352ea": {
+    "article": "ctl-zhangxuan",
+    "model": "fable"
+  },
+  "r0149a8b": {
+    "article": "ho-delivery-fixed",
+    "model": "fable"
+  },
+  "r015a806": {
+    "article": "ho-algoart-c",
+    "model": "sonnet"
+  },
+  "r01664d2": {
+    "article": "ctl-publichousing",
+    "model": "fable"
+  },
+  "r0178617": {
+    "article": "ho-tasa",
+    "model": "sonnet"
+  },
+  "r018c2ac": {
+    "article": "mut-3",
+    "model": "sonnet"
+  },
+  "r019817d": {
+    "article": "dev-s2-filmscore-good",
+    "model": "sonnet"
+  },
+  "r020188c": {
+    "article": "ho-huangchongren-r2",
+    "model": "sonnet"
+  },
+  "r021a5b5": {
+    "article": "ho-algoart-a-fixed",
+    "model": "sonnet"
+  },
+  "r02215a8": {
+    "article": "dev-w3-goldenbell-bad",
+    "model": "sonnet"
+  },
+  "r023a2ae": {
+    "article": "ho-matsu-fixed",
+    "model": "sonnet"
+  },
+  "r024e483": {
+    "article": "dev-w3-goldenbell-bad",
+    "model": "fable"
+  },
+  "r0254c65": {
+    "article": "ctl-publichousing",
+    "model": "sonnet"
+  },
+  "r0262ec9": {
+    "article": "ho-tungsten-fixed",
+    "model": "sonnet"
+  },
+  "r027db16": {
+    "article": "mut-6",
+    "model": "fable"
+  },
+  "r028fde9": {
+    "article": "dev-w3-goldenbell-good",
+    "model": "fable"
+  },
+  "r0299b20": {
+    "article": "ctl-fishowl",
+    "model": "sonnet"
+  },
+  "r030e8fe": {
+    "article": "mut-5",
+    "model": "sonnet"
+  },
+  "r031699c": {
+    "article": "dev-s3-waawei-good",
+    "model": "fable"
+  },
+  "r0328764": {
+    "article": "mut-2",
+    "model": "fable"
+  },
+  "r0337f47": {
+    "article": "ho-algoart-c-fixed",
+    "model": "sonnet"
+  },
+  "r034b5a8": {
+    "article": "dev-w1-lowwage-good",
+    "model": "fable"
+  },
+  "r0356d07": {
+    "article": "dev-s3-waawei-good",
+    "model": "sonnet"
+  },
+  "r036227e": {
+    "article": "dev-w2-oilprice-good",
+    "model": "fable"
+  },
+  "r0370bcc": {
+    "article": "ho-matsu",
+    "model": "fable"
+  },
+  "r038b683": {
+    "article": "ho-algoart-a",
+    "model": "sonnet"
+  },
+  "r0394d90": {
+    "article": "ho-tungsten",
+    "model": "fable"
+  },
+  "r0403d06": {
+    "article": "ho-delivery-fixed",
+    "model": "sonnet"
+  },
+  "r0418922": {
+    "article": "ho-tasa-fixed",
+    "model": "sonnet"
+  },
+  "r0429c8c": {
+    "article": "dev-w1-lowwage-bad",
+    "model": "sonnet"
+  },
+  "r04380f6": {
+    "article": "dev-s3-waawei-bad",
+    "model": "sonnet"
+  },
+  "r0447117": {
+    "article": "ctl-yanchangshou",
+    "model": "sonnet"
+  },
+  "r0454fa8": {
+    "article": "dev-w3-goldenbell-good",
+    "model": "sonnet"
+  },
+  "r0466b91": {
+    "article": "ho-tasa",
+    "model": "fable"
+  },
+  "r047af5e": {
+    "article": "ho-tungsten-fixed",
+    "model": "fable"
+  },
+  "r0485b9c": {
+    "article": "dev-s1-stanshih-good",
+    "model": "fable"
+  },
+  "r0496086": {
+    "article": "dev-s2-filmscore-bad",
+    "model": "fable"
+  },
+  "r05056ed": {
+    "article": "ho-tungsten",
+    "model": "sonnet"
+  },
+  "r051ebfc": {
+    "article": "ctl-yanchangshou",
+    "model": "fable"
+  },
+  "r0520919": {
+    "article": "dev-w2-oilprice-bad",
+    "model": "sonnet"
+  },
+  "r053f336": {
+    "article": "dev-w2-oilprice-bad",
+    "model": "fable"
+  },
+  "r0543390": {
+    "article": "dev-s3-waawei-bad",
+    "model": "fable"
+  },
+  "r0555b4a": {
+    "article": "ho-huangchongren-r2-fixed",
+    "model": "sonnet"
+  },
+  "r056b9d8": {
+    "article": "mut-2",
+    "model": "sonnet"
+  },
+  "r05791ef": {
+    "article": "mut-6",
+    "model": "sonnet"
+  },
+  "r0581a80": {
+    "article": "ctl-fishowl",
+    "model": "fable"
+  },
+  "r0590a46": {
+    "article": "dev-s2-filmscore-good",
+    "model": "fable"
+  },
+  "r060b243": {
+    "article": "mut-4",
+    "model": "fable"
+  },
+  "r06126a7": {
+    "article": "ho-algoart-a-fixed",
+    "model": "fable"
+  },
+  "r0623e73": {
+    "article": "dev-w1-lowwage-bad",
+    "model": "fable"
+  },
+  "r0632214": {
+    "article": "dev-s2-filmscore-bad",
+    "model": "sonnet"
+  },
+  "r0640fac": {
+    "article": "ho-algoart-a",
+    "model": "fable"
+  },
+  "r0653931": {
+    "article": "dev-w1-lowwage-good",
+    "model": "sonnet"
+  },
+  "r066ddd5": {
+    "article": "ho-huangchongren-r2-fixed",
+    "model": "fable"
+  },
+  "r067f61d": {
+    "article": "ho-matsu",
+    "model": "sonnet"
+  },
+  "r0684d9f": {
+    "article": "mut-1",
+    "model": "fable"
+  },
+  "r0691f0e": {
+    "article": "ctl-zhangxuan",
+    "model": "sonnet"
+  },
+  "r070f6c3": {
+    "article": "dev-s1-stanshih-good",
+    "model": "sonnet"
+  },
+  "r071d651": {
+    "article": "ho-delivery",
+    "model": "sonnet"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "description": "植錯題。植入文字只存在本機（GRADER_V2_MUTATION_DIR），不進 git；這裡記位置、類型與 sha256 供對賬。涉及真人的植錯只用文章既有事實換成拆穿框架，不捏造新指控。私德當主軸（A2）不做植錯：替在世者捏造私生活即使只為測試也不該寫出來。",
+  "mutants": [
+    {
+      "id": "mut-1",
+      "base": "ctl-yanchangshou",
+      "target": "A1",
+      "op": "insert_after",
+      "anchor": "設計這套系統的人，是一個只有高中學歷的基隆人。",
+      "desc": "在第一個人物段後插入一段，用文中既有事實把受敬重的人寫成被自己理論證偽的對象（約 110 字）",
+      "sha256": "2f236cd3c58f81fe369c2e501b34d9c4862b7af8097e147a969ef5d567da8090"
+    },
+    {
+      "id": "mut-2",
+      "base": "ctl-zhangxuan",
+      "target": "A3",
+      "op": "replace_title",
+      "desc": "標題換成以一則公開爭議當門面的問句",
+      "sha256": "ad5612474b58c54980a089df9872aef89f852e21343d15d6757a1a23195e4087"
+    },
+    {
+      "id": "mut-3",
+      "base": "ctl-fishowl",
+      "target": "A5",
+      "op": "insert_after",
+      "anchor": "但被精確定位的巢位仍是個位數[^3][^6]。",
+      "desc": "插入一句無出處的全稱否定（保育單位沒有人說過話、棲地從未被法規保護）",
+      "sha256": "6c45afe87f2de7be5c1dd9de2caf290a43491190270fd4af3bcd22b3dc7aee87"
+    },
+    {
+      "id": "mut-4",
+      "base": "ctl-fishowl",
+      "target": "B1",
+      "op": "insert_after",
+      "anchor": "連專業觀察者都很難見到一面。",
+      "desc": "插入一段作者澄清、糾錯、要求讀者以本文為準的校正句",
+      "sha256": "23d5e9460367ccfc533ce30969588dcdbde9d8860c6582a2e6f41cabbae22fef"
+    },
+    {
+      "id": "mut-5",
+      "base": "ctl-publichousing",
+      "target": "B2",
+      "op": "replace",
+      "anchor": "台北大安區復興南路二段，有一片叫「成功國宅」的房子。1985 年剛蓋好的時候，沒人要。[^1]",
+      "desc": "把開場第一段換成統計數字、機關名與法條口徑堆砌",
+      "sha256": "aaba41c90ff21abd1a09b569c9341b7d817cc198eebde9bf10e427168f4df2bf"
+    },
+    {
+      "id": "mut-6",
+      "base": "ctl-publichousing",
+      "target": "B3",
+      "op": "replace",
+      "anchor": "這篇要講的，就是夾在這兩個門牌價中間的五十年。一個政府花錢蓋便宜房幫人上車的好意，怎麼會走到今天，變成站在階梯頂端的下一代，買不起、也租不穩？",
+      "desc": "把核心主張句換成描述「這場爭論吵的是哪個口徑」的後設句",
+      "sha256": "2f1f9d0046158a47087f4ebfe9ab26584e6bd345166327018a75dd1836520c74"
+    }
+  ]
+}

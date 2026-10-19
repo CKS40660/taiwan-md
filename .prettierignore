@@ -8,3 +8,7 @@ docs/semiont/routine-prompts/
 # Rewrite Guide dogfood evidence is byte-addressed by run snapshots.
 # Preserve original/revised artifacts and external verdicts for replay.
 reports/rewrite-guide/ezway-section/
+
+# 閱卷小實驗證據（2026-10-18 grader-pilot）：配對正文與冷讀分身回報逐字落檔，
+# 必須跟 git 版本逐位元組一致，格式化器不准動。
+reports/evaluation/grader-pilot-2026-10/

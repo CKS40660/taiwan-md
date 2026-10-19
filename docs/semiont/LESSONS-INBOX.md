@@ -332,6 +332,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-18 twmd-routine-audit-weekly — config-declared-in-ssot-absent-from-the-file-the-runner-reads：SSOT 寫著設定已落地，執行者實際讀的那份檔裡沒有它
+
+- **pattern**: config-declared-in-ssot-absent-from-the-file-the-runner-reads
+- **原則**：ROUTINE.md 註 ²⁸（10-10）寫營運機 18 條排程已逐條釘好模型，附了備份檔名。排程器實際讀的是 Claude Desktop 的 `scheduled-tasks.json`，而這份檔不在任何對賬工具的讀取路徑上：`routine-sync-check.py` 解析了 Model 欄卻不比、`routine-live-state.json` 沒有 model 欄、scheduled-tasks MCP 不回傳 model。於是「宣稱已設定」跟「執行時真的是這個設定」之間沒有任何東西在看，三層對賬每天報一致。跟 REFLEXES #100「驗證對象要等於落地對象」同形，載體從 commit 路徑換成排程器設定檔。
+- **觸發**：本班讀現行 `scheduled-tasks.json` 與 `.bak-20261010-muse-models` 逐行比，model 欄完全相同（3 條舊 `claude-opus-5`、15 條沒有），差別只有時間欄。註 ²⁸ 自評這是額度提前用完的主因之一，而 10-17〜18 第二次全黑時一條都沒改到。→ `reports/routine-audit-2026-10-18.md` §3B
+- **instances**：
+  - 2026-10-12 twmd-embeddings-nightly — 本班跑 Opus 5.5，註 ²⁸ 寫 Haiku；讀檔發現 15 條無 model，handoff 給哲宇／Muse
+  - 2026-10-13 twmd-embeddings-nightly — 「本班仍跑 Opus，模型釘選未生效」
+  - 2026-10-18 twmd-routine-audit-weekly — 對備份逐行比確認從未落地（或被 app 蓋回），補 OBSERVER-QUEUE #110
+- **可能層級**：REFLEXES #100 fold（第二個載體：排程器設定）或 #91「建造與登記不同步」的反向（登記了、沒建造）
+- **候選機械化**：`routine-sync-check.py` 直接讀宿主機 `scheduled-tasks.json` 的 `model` 欄比 ROUTINE.md Model 欄；不靠 MCP
+- **附帶形狀**：10-12 那條交接寫的收件人是兩個不跑 routine 的席位（哲宇、Muse），兩班之後就不再被 carry，三振規則因此永遠不觸發。交接鏈只在 routine 之間傳
+- **verification_count**: 3
+- **distill_ready**: true
+
+### 2026-10-18 twmd-routine-audit-weekly — usage-reading-from-a-host-that-is-not-the-one-that-stalls：用不會停的那台機器的額度讀數，收掉會停的那台的交接
+
+- **pattern**: usage-reading-from-a-host-that-is-not-the-one-that-stalls
+- **原則**：額度交接的收件人是營運機上的 routine，而收掉它的讀數來自哲宇筆電。兩台在 10-18 早上讀到的窗口不同（筆電 19%、重置點 10-23；營運機五次觸發撞額度、重置點 10-21）。讀數本身沒錯，錯在它代表的不是交接在問的那台。HEARTBEAT §額度節律、OBSERVER-QUEUE #93、REFLEXES #45 上位規則三處都寫「兩台共用一個週額度」，這次讀數跟那個前提對不起來。
+- **觸發**：grader-pilot（10-18 03:29）retire「週額度 91%」交接，理由「週期已提前重置」；營運機同日 05:38〜08:31 晨鏈六條全部 failed。→ `reports/routine-audit-2026-10-18.md` §3C
+- **instances**：
+  - 2026-10-18 grader-pilot × twmd-routine-audit-weekly — 筆電讀數收營運機交接
+- **可能層級**：REFLEXES #16 環境代表性延伸；#67「量測對象繼承執行環境」同族
+- **候選機械化**：`budget-pace.py --log` 已記 `host`；retire 額度類交接前比對讀數的 host 與交接收件 routine 所在 host
+- **verification_count**: 1
+
 ### 2026-10-16 twmd-maintainer-daily — 閘門上線時沒有人量存量，於是存量在任何地方都沒有代表
 
 - **pattern**: gate-shipped-but-stock-never-measured
@@ -1567,7 +1593,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**（Semiont 補，同 pattern 不開第二條）：
   - 2026-09-19 news-radar 執行整併工單：搬 21 檔、改指 27 檔、帽 2,300 husky 實測擋 2,302 放行 2,168；同一 session 改 canonical 時自己被 pre-commit 擋兩次（status enum、版號單調），那兩道也是錯換來的、也在做該做的事——問題從來不是任何一道閘門，是沒有一道在問「這篇有沒有人在說話」。日記 [2026-09-19-003000-news-radar](diary/2026-09-19-003000-news-radar.md)
 - **相關**（Semiont 補）：REFLEXES #15 反覆浮現要儀器化（本條是它的反面：儀器化過頭會長成產線）；#69 (g) form gate ≠ meaning gate；`third-type-thesis-defaults-to-meta-observation`（同日，那條講結果、本條講生成機制）；EVOLVE-PIPELINE Mode 3 §產線成本審視（減法有外部尺）；MANIFESTO §14 的補充：儀器化不只是把判斷交給機器，也是讓規則層停止長大。
-- **verification_count**: 1（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
+- **verification_count**: 2（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
+  - 2026-10-18 outcome-graded-design（vc=2）：事故帳量到同一個形狀的另一面——57 件有紀錄的事故裡，論點與框架類 12 件有 8 件只有哲宇抓得到，沒有任何閘門攔過一件；9/19 的准入規則擋住了錯誤驅動的膨脹，但「悶」仍只有寫手規則書一個去處，9/19 工單已寫好的修正版冷讀三題隨冷讀站一起被封存、從沒試過。候選處置：「悶」的預設去處改成閱卷端考古題，見 [reports/design-outcome-graded-generation-2026-10-18.md §6.9](../../reports/design-outcome-graded-generation-2026-10-18.md)、OBSERVER-QUEUE #109（待決）
 
 ### 2026-09-05 twmd-terminology-trends — terminology-misjudgment-direction-asymmetry：支語誤判翻案案例的方向性偏誤（歸位：原擱在檔尾 §❌ 已歸檔之後，2026-09-20 distill 搬回 §未消化）
 
@@ -1612,6 +1639,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（那條講 AI 初稿整篇，這條講人寫的骨架上被 AI 加的那一層，差集可以機械取出）；FACTCHECK §月度巡邏抽樣母體；MANIFESTO §10 幻覺第 6 型（場景動作細節）；EDITORIAL v6.13 對在世真人的分寸（不替真人編私生活細節）
 - **verification_count**: 1
 - **severity**: tactical
+
+### 2026-10-19 twmd-babel-nightly — 綁在「隨重譯清」的存量決定，在 stale 歸零後就清不掉
+
+- **pattern**: stock-decision-depends-on-a-flow-that-stopped
+- **原則**：存量處置寫成「等它經過某條產線時順便清」，要同時寫下那條產線停下來時的備案；否則產線一閒置，決定還在、清償速度歸零，沒有東西會叫。
+- **觸發**：2026-10-19 00:45 babel 夜班量到腳註描述整段未翻 306 檔／1,508 條，屬 OBSERVER-QUEUE #52（已決「隨重譯清」）；同一時刻十二語 stale 只剩 16 格人翻譯文（#67 不碰）＋2 格，重譯量近零。v1.98（10-12）對 #56「存量隨重譯清」寫過同一句觀察 → memory/2026-10-19-005518-twmd-babel-nightly.md
+- **instances**：
+  - 2026-10-12 babel 夜班 #56 量級存量 3,600 處，stale=0 時不會被重譯 → BABEL-VORTEX-LOOP v1.98
+  - 2026-10-19 babel 夜班 #52 腳註描述未翻 1,508 條，同形 → 本條
+- **可能層級**：通用反射
+- **相關**：REFLEXES #82（proxy：「決定已拍板」當成「存量在下降」的替身）；#96（知道會這樣壞，知識留在註解層）
+- **verification_count**: 2
+
+### 2026-10-19 twmd-data-refresh-am — 每班只記前一天的帳本，空缺過後會靜默少列
+
+- **pattern**: gap-recovery-run-should-backfill-missed-days
+- **原則**：以「前一天」為單位記帳的步驟（`monitor-404.py` 預設 `--days 1`），只要 routine 漏跑 N 班，帳本就少 N 列，而且沒有任何閘門會叫；空缺後的第一班，回看天數要等於缺掉的班數。
+- **觸發**：10-17、10-18 本 routine 撞週額度沒跑，10-19 這班 14 步全綠、Step 11 0 stale，但 `reports/404-monitor/state.json` 缺 10-15、10-16 兩列，缺的那天（10-16，6,195 筆）正是這週最高的 404 讀數。手動 `--days 3` 補回 → [memory/2026-10-19-060902-twmd-data-refresh-am.md](memory/2026-10-19-060902-twmd-data-refresh-am.md)
+- **instances**：
+  - **反例對照（2026-10-19 twmd-feedback-triage，同一個兩天空缺）**：同樣漏跑 10-17、10-18 兩班，這條線一列都沒少。差別在記帳的形狀：`reconcileArchive()` 與 `reconcileComments()` 每輪拿 Supabase 與 GitHub 的**全部**筆數跟 git 紀錄對一次，不比對「上一班之後的新增」；留言 sync 掃的也是既有 archive 全集而非時間窗。所以空缺後的第一班自己補齊，不需要有人記得把回看天數放大 — 今天 `archive-reconcile=89/89`、`comment-reconcile=88/89`、`archive-comments-synced=0`（真的沒有新留言，不是抓不到）。給 distill 的提示：除了「把回看天數放大到補齊缺口」，還有一條更不依賴記性的形狀 — **帳本對賬比對全狀態，不比對班次差分**。前者在漏班之後自我痊癒，後者永遠需要有人先算出漏了幾班。
+- **可能層級**：操作規則（候選機械化：monitor-404 讀 state.json 最後一列的日期，自動把回看天數放大到補齊缺口；或改成全狀態對賬，見上方反例對照）
+- **相關**：REFLEXES #85（「不知道」需要自己的符號）；Step 11 新鮮度閘門只量檔案 mtime，量不到帳本列數的連續性，跟 #82 proxy signal 同形
+- **verification_count**: 1（+1 反例對照）
 
 ## ✅ 已消化（保留 pointer）
 
