@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-19 | 083400-twmd-maintainer-daily | 11 個 ready PR 命中 High-stake 升 Full，清到剩 1 保留件；CLI 命令注入當班修掉（白名單會誤殺 150 篇所以沒照抄）；投稿者 53 處錯幣別是照存量學的 | 存量會被投稿者當範本，而它同時把閘門擋在人類那扇門外 | [→](memory/2026-10-19-083400-twmd-maintainer-daily.md) |
 | 2026-10-20 | 020448-twmd-babel-nightly | 續命班：八篇新文缺 slug 空等十六小時，補上後十二語 missing 歸零；通過十九項檢查的譯文仍帶簡體片段，手修七檔、存量進佇列 #111 | 工具都在，只是站在別的門口 | [→](memory/2026-10-20-020448-twmd-babel-nightly.md) |
 | 2026-10-20 | 053850-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 補驗零漂移；審庫存排程仍未註冊，下個時點 10-21 22:00 剩一天半 | 決策列派給沒核准權的席位，交接只能寫準倒數 | [→](memory/2026-10-20-053850-twmd-routine-sync.md) |
+| 2026-10-20 | 055916-twmd-embeddings-nightly | 八篇新文進索引：13 語 14,716 向量 0 fail，每語 1,132 篇，verify PASS，`e3e33294b`；dashboard 與索引固定差 9 查出是 About 頁，交接收掉 | 只需要讀的交接被寫成要動手的席位，就一直傳下去 | [→](memory/2026-10-20-055916-twmd-embeddings-nightly.md) |
