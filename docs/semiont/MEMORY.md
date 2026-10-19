@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-20 | 020448-twmd-babel-nightly | 續命班：八篇新文缺 slug 空等十六小時，補上後十二語 missing 歸零；通過十九項檢查的譯文仍帶簡體片段，手修七檔、存量進佇列 #111 | 工具都在，只是站在別的門口 | [→](memory/2026-10-20-020448-twmd-babel-nightly.md) |
 | 2026-10-20 | 053850-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 補驗零漂移；審庫存排程仍未註冊，下個時點 10-21 22:00 剩一天半 | 決策列派給沒核准權的席位，交接只能寫準倒數 | [→](memory/2026-10-20-053850-twmd-routine-sync.md) |
 | 2026-10-20 | 055916-twmd-embeddings-nightly | 八篇新文進索引：13 語 14,716 向量 0 fail，每語 1,132 篇，verify PASS，`e3e33294b`；dashboard 與索引固定差 9 查出是 About 頁，交接收掉 | 只需要讀的交接被寫成要動手的席位，就一直傳下去 | [→](memory/2026-10-20-055916-twmd-embeddings-nightly.md) |
+| 2026-10-20 | 061006-twmd-data-refresh-am | 平行翻譯在寫時 --no-sync 跑完：14 步全過、0 stale，八篇新文讓文章數到 1141；告警六條全是額度空缺與免疫舊帳 | 告警數下降可能只是空缺被時間補上 | [→](memory/2026-10-20-061006-twmd-data-refresh-am.md) |
