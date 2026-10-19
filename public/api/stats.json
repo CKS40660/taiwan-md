@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14755,
+  "totalArticles": 14859,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8930,
+  "totalTags": 8949,
   "categories": [
     {
       "name": "vi",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "es",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "ko",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "hi",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "fr",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "en",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "ja",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "de",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "ru",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "Technology",
@@ -46,27 +46,27 @@
     },
     {
       "name": "History",
-      "count": 87
+      "count": 89
     },
     {
       "name": "id",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "ar",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "pt",
-      "count": 1135
+      "count": 1143
     },
     {
       "name": "Politics",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Society",
-      "count": 119
+      "count": 120
     },
     {
       "name": "Food",
@@ -82,11 +82,11 @@
     },
     {
       "name": "People",
-      "count": 294
+      "count": 295
     },
     {
       "name": "Culture",
-      "count": 114
+      "count": 115
     },
     {
       "name": "Geography",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Art",
-      "count": 49
+      "count": 51
     },
     {
       "name": "resources",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14755,
+    "zh-TW": 14859,
     "en": 0
   },
-  "lastUpdated": "2026-10-18T22:05:38.800Z",
+  "lastUpdated": "2026-10-19T22:06:11.420Z",
   "stars": 1218,
   "forks": 187,
-  "zhPages": 1133,
+  "zhPages": 1141,
   "languagePages": {
-    "zh-TW": 1133,
-    "en": 1135,
-    "ja": 1135,
-    "ko": 1135,
-    "es": 1135,
-    "fr": 1135,
-    "vi": 1135,
-    "id": 1135,
-    "pt": 1135,
-    "hi": 1135,
-    "ar": 1135,
-    "ru": 1135,
-    "de": 1135
+    "zh-TW": 1141,
+    "en": 1143,
+    "ja": 1143,
+    "ko": 1143,
+    "es": 1143,
+    "fr": 1143,
+    "vi": 1143,
+    "id": 1143,
+    "pt": 1143,
+    "hi": 1143,
+    "ar": 1143,
+    "ru": 1143,
+    "de": 1143
   },
-  "enPages": 1135,
-  "totalPages": 1133
+  "enPages": 1143,
+  "totalPages": 1141
 }

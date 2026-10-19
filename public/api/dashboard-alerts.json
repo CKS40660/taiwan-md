@@ -1,45 +1,29 @@
 {
-  "lastUpdated": "2026-10-18T22:07:28.302Z",
+  "lastUpdated": "2026-10-19T22:08:12.688Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 9,
+  "count": 6,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=18.8（少 20.3 分）",
+      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=18.6（少 20.35 分）",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "routine-silent-taiwanmd-routine-twmd-feedback-triage",
-      "severity": "yellow",
-      "message": "routine taiwanmd-routine-twmd-feedback-triage 沉默死亡：2026-10-17T23:07 fire 後 23h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-19 07:07（台北），還有 1 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "taiwanmd-routine-twmd-feedback-triage",
-      "firstSeen": "2026-10-18"
-    },
-    {
       "id": "routine-silent-twmd-distill-weekly",
       "severity": "yellow",
-      "message": "routine twmd-distill-weekly 沉默死亡：2026-10-17T19:12 fire 後 26.9h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 03:12（台北），還有 5.9 天",
+      "message": "routine twmd-distill-weekly 沉默死亡：2026-10-17T19:12 fire 後 50.9h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 03:12（台北），還有 4.9 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-distill-weekly",
       "firstSeen": "2026-10-18"
     },
     {
-      "id": "routine-silent-twmd-maintainer-daily",
-      "severity": "yellow",
-      "message": "routine twmd-maintainer-daily 沉默死亡：2026-10-18T00:30 fire 後 21.6h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-19 08:30（台北），還有 2 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-maintainer-daily",
-      "firstSeen": "2026-10-18"
-    },
-    {
       "id": "routine-silent-twmd-news-lens-weekly",
       "severity": "yellow",
-      "message": "routine twmd-news-lens-weekly 沉默死亡：2026-10-17T17:00 fire 後 29.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 01:00（台北），還有 5.8 天",
+      "message": "routine twmd-news-lens-weekly 沉默死亡：2026-10-17T17:00 fire 後 53.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 01:00（台北），還有 4.8 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-news-lens-weekly",
       "firstSeen": "2026-10-18"
@@ -47,23 +31,15 @@
     {
       "id": "routine-silent-twmd-self-evolve-weekly",
       "severity": "yellow",
-      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-10-17T20:06 fire 後 26h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 04:06（台北），還有 5.9 天",
+      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-10-17T20:06 fire 後 50h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 04:06（台北），還有 4.9 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-10-18"
     },
     {
-      "id": "routine-silent-twmd-spore-harvest-am",
-      "severity": "yellow",
-      "message": "routine twmd-spore-harvest-am 沉默死亡：2026-10-17T22:39 fire 後 23.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-19 06:39（台北），還有 0 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-spore-harvest-am",
-      "firstSeen": "2026-10-18"
-    },
-    {
       "id": "routine-silent-twmd-terminology-trends-monthly",
       "severity": "yellow",
-      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 331.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 17.2 天",
+      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 355.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 16.2 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-terminology-trends-monthly",
       "firstSeen": "2026-10-07"
@@ -71,7 +47,7 @@
     {
       "id": "routine-silent-twmd-weekly-report-sun",
       "severity": "yellow",
-      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-10-17T18:03 fire 後 28.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 02:03（台北），還有 5.8 天",
+      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-10-17T18:03 fire 後 52.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 02:03（台北），還有 4.8 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-10-18"
