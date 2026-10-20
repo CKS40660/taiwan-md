@@ -2,9 +2,7 @@
 title: 'ताइवान की भावना: क्या हमें अपने पुराने घरों की सुंदरता का दावा करने से पहले कोरियनों से लाइक मिलने का इंतज़ार करना चाहिए?'
 description: '2008 में, ताइनाई के एक समूह ने "पुराने घरों की नई ऊर्जा" अभियम शुरू किया, जिससे उन्होंने अपने पुराने घरों को फिर से देखना शुरू किया। यह कोरियनों द्वारा "대만감성" (ताइवान की भावना) के ज़रिए ताइवान के सड़क दृश्यों के प्रति पागल होना शुरू करने से ठीक ग्यारह साल पहले था। लेकिन जब यह रुझान 2024 में K-pop कैमरों के ज़रिए विस्फोटित हुआ, तो हमने इसे बताने के लिए पर्यटन प्रशासन और संस्कृति मंत्रालय के "सांस्कृतिक निर्यात" के फ्रेमवर्क को ही बनाए रख लिया, जैसे कि उस प्रारंभिक दृष्टि को मान्यता मिलने के लिए उसे पहले कोरियनों द्वारा लाइक किया जाना ज़रूरी था।'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '區域特色'
 tags:
   [
     'ताइवान की भावना',
@@ -18,10 +16,13 @@ tags:
     'शहरी नवीनीकरण',
     'वांग कॉन्ग-वेई',
   ]
+subcategory: '區域特色'
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 18
+featured: true
 lastVerified: 2026-07-18
 lastHumanReview: false
-featured: true
 image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
@@ -31,11 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-07-18T19:14:57+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:59:57.030230+00:00'
 ---
 
 # ताइवान की भावना: क्या हमें अपने पुराने घरों की सुंदरता का दावा करने से पहले कोरियनों से लाइक मिलने का इंतज़ार करना चाहिए?
