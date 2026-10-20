@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-20T18:12:45+08:00",
-    "zhCommitHead": "8ea0eadd8",
+    "lastUpdated": "2026-10-20T18:33:21+08:00",
+    "zhCommitHead": "2252e107a",
     "totalZh": 1148,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1148,
-        "fresh": 1135,
+        "fresh": 1136,
         "stale": 3,
         "metadata_stale": 5,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       }
     },
@@ -67984,8 +67984,8 @@
           "sourceContentHash": "sha256:314ea9aeacf65f74",
           "sourceBodyHash": "sha256:388eb831d18aa5ba",
           "translatedAt": "2026-10-20T09:03:25.479670+00:00",
-          "translationLastCommit": "430ef0bb",
-          "translationLastModified": "2026-07-27T03:24:50+08:00",
+          "translationLastCommit": "2252e107",
+          "translationLastModified": "2026-10-20T18:12:45+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 24892,
@@ -141620,8 +141620,8 @@
           "sourceContentHash": "sha256:e46aa69ef5d92e83",
           "sourceBodyHash": "sha256:3c4667e4e92f54f4",
           "translatedAt": "2026-10-20T08:32:56.320294+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2252e107",
+          "translationLastModified": "2026-10-20T18:12:45+08:00",
           "inferred": false,
           "footnoteDefs": 69,
           "bytes": 81597,
@@ -141678,7 +141678,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T10:18:43.273352+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 85189,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -229127,11 +229140,11 @@
           "sourceContentHash": "sha256:568c29d1e1668c32",
           "sourceBodyHash": "sha256:ad0f6df167e4338c",
           "translatedAt": "2026-10-20T08:55:03.551758+00:00",
-          "translationLastCommit": "2ab76d37",
-          "translationLastModified": "2026-10-10T23:42:20+08:00",
+          "translationLastCommit": "2252e107",
+          "translationLastModified": "2026-10-20T18:12:45+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 55292,
+          "bytes": 55294,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
