@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-20 twmd-maintainer-daily — every-checkers-blind-spot-is-deliberate-so-their-intersection-has-no-owner：三支檢查器對同一件事都不叫，而每一支的不叫都是對的設計決定
+
+- **pattern**: every-checkers-blind-spot-is-deliberate-so-their-intersection-has-no-owner
+- **原則**：一個家族的檢查器各自縮小守備範圍時，每次縮小都有正當理由（避免假陽性、語言屬性不同、判準不適用），而**沒有任何一次縮小會去問「縮完之後誰守那一格」**。於是交集空出來的區域不是被遺漏的——它是被三個正確決定一起讓出來的，而且每一支的註解都能理直氣壯地解釋自己為什麼不管。這比單一檢查器壞掉難抓得多：壞掉的檢查器會有人修，而三支都「正確地不管」的那一格，只會以孤例的形式被人眼反覆重新發現。
+- **觸發**：ko／ja 譯文正文的簡體字形。`cjk-residue-check` 的 `TARGET_LANGS` 不含 ja／ko（**對的**——韓日混寫漢字本來合法，硬掃會把目標文字判成殘留）；`cjk-adjacency-check` 判準是漢字黏著拉丁字母（**對的**——ko／ja 正文沒有那個形狀）；`cjk-leak-check` 的 ja／ko 分支正文只掃 `ZH_ONLY_MARKERS` 功能詞，而它真正會判字形的 `detect_simplified_residue()` 只餵書目區（**也有理由**——正文四連漢字那條在 ko／ja 會誤殺）。交集空出來的恰好是「兩字簡體片段」：不是功能詞、不夠四連、沒黏拉丁字母。
+- **代價的形狀（三次都由人眼接住，沒有一次是儀器發現的）**：10-14 一篇韓文罷免條目合併前 161 處簡體「罢免」，當天紀錄自己寫明「這個洞不是儀器發現的」，抓到的是投稿者 tboydar；10-20 babel-nightly 通過全部 19 項檢查的譯文仍帶簡體片段，手修七檔；10-20 PR #1875 投稿者 dreamline2 手修韓文〈數位荒原〉15 行、一半是簡體字形（`发起`／`某种`／`收录`／`延伸阅读`）。**一週三次**。
+- **本班做了什麼**：造 `scripts/tools/lang-sync/cjk-body-simplified-check.py`（唯讀、非閘門、判準 import 既有已校準字集不複寫），量出下限 ko 165 檔／649 處、ja 56 檔／254 處，抽 14 處 14 處都是真漏譯；升閘門與存量清理進 OBSERVER-QUEUE #112（新增閘門屬 BECOME 鐵律 10）。
+- **同時量到的次級結構（判準自己的不完整也會傳染）**：`SIMPLIFIED_ONLY_CHARS` 是手工字集，`种`／`价`／`军`／`总`／`单`／`医`／`区`／`历` 都不在裡面，所以 903 是下限；而 ja 那側沒辦法沿用同一招擴充——`JA_SHINJITAI_OVERLAP` 只有五個字（国学尽画誉），它當初只需覆蓋既有字集跟日文新字體的交集，不是通用的日文合法字白名單。本班試過拿常見簡體字當探針，ja 立刻回 59,671 處，因為 `会`／`区`／`医`／`党`／`単` 本來就是合法日文漢字。**上限沒量到，而要量到得先有一份日文新字體白名單（`tw-variant-chars.mjs` 的日文對應物），repo 裡沒有**。
+- **候選機械化**：任何一支檢查器用語言集合（`TARGET_LANGS`／`NON_CJK_SCRIPT_LANGS`／`JA_SHINJITAI_OVERLAP`）界定守備範圍時，`check-language-registry-sync.sh` 已經在守「有內容的語言必須被三處接線認得」——可以再加一道**補集對賬**：把家族內所有檢查器的語言集合取聯集，跟「有內容的語言」相減，差集不為空就印出來（「這些語言×這個缺陷類別目前沒有任何一支在守」）。這是把「誰守那一格」從每支檢查器的自述，變成一個家族層面算得出來的數字。
+- **可能層級**：通用反射候選（#38 混維度的鏡像——那條是「一個訊號承載兩種根因」，本條是「一個根因落在所有訊號的補集裡」；跟 #83「檢查器兩把尺」同家族但方向不同：#83 是同一支對內對外不同調，本條是多支各自正確而合起來漏）
+- **相關**：#38（混維度）、#83（兩把尺 divergence）、#82（存在代理有效：「這個家族有三支檢查器」不等於「這個缺陷有人守」）、#85（「不知道」要有自己的符號——本條的 ja 上限就是這個）、MEMORY §神經迴路「新語言出生時感知系統不會自動更新」instance 2（同樣是語言集合漏接，但那條是忘記加，本條是刻意不加）、OBSERVER-QUEUE #108／#111（存量被投稿者當範本的同一形狀）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-10-20 twmd-maintainer-daily — scraper-shaped-ua-lands-in-the-bucket-labelled-reader：UA 二分法把「假裝成瀏覽器的爬蟲」放進「真人讀者」那一格，而那一格正是前一個決定的依據
+
+- **pattern**: scraper-shaped-ua-lands-in-the-bucket-labelled-reader
+- **原則**：`classify_ua()` 是二分的——比對得到關鍵字就是 `bot`，比對不到就是 `browser`。於是一個**沒有 WebKit／Chrome token、沒有任何 bot 字樣的裸 `Mozilla/5.0 (Windows NT 10.0; Win64; x64)`** 會落進 `browser`。這個桶的名字讀起來像「真人」，而它實際的定義只是「我認不出來的」。當有人拿 `browser` 的數字去回答「這件事傷到真的讀者了嗎」，他拿到的是「真讀者 ＋ 所有我認不出的爬蟲」。
+- **觸發**：`bad-encoding` 404 家族（外部 client 把中文網址當 Latin-1 讀再編一次 UTF-8，`/nature/台灣獼猴` → `/nature/%C3%A5%C2%8F%C2%B0…`）。10-12 那班正確地判定「壞的不是我們的連結」（站上零命中，解碼後全是活頁面），並據此 ship 了 404 頁的 mojibake rescue，理由寫在程式註解裡：「**真瀏覽器 UA 的命中數（192）比那隻裸 UA（164）還多，所以這不是單一爬蟲洗量，救得回來的是真的人**」。本班為收 handoff（Cloudflare 窗口約 10-23 過期）按路徑重查，拿到的組成完全相反：**尖峰那天 1,542 次請求裡 1,480 次來自那隻裸 UA，真 Chrome 只有 35 次**。而 `state.json` 同一天記的是 `browser: 2,949 / bot: 12`——2,949 裡絕大多數就是那隻裸 UA。
+- **兩個結論都要留住，不要互相蓋掉**：(甲) rescue 仍然該留——低水位日（每天約 60–100 筆）的組成是真 Chrome、MJ12bot、DataForSeoBot、GPTBot 混著，真人確實會踩到；(乙) **尖峰不是讀者訊號**。10-10（1,279）／10-13（1,549）／10-16（2,961）三次跳升間隔整齊地是三天，而且幾乎全部是同一隻裸 UA 掃 `/terminology/`、`/nature/`、`/people/`。把尖峰讀成「讀者體驗惡化」會導向完全錯的處置，而 `browser` 這個欄位名會主動鼓勵那個誤讀。
+- **本班刻意不做的事**：不改 `classify_ua()`。它餵的是 `reports/404-monitor/state.json` 這條被追蹤的時序，動它會回溯改掉既有讀數的語意，而且那支的 owner 是 `twmd-data-refresh-am`。本條只把形狀記下來並附候選修法。
+- **候選機械化**：UA 分三類而不是兩類——`bot`（命中關鍵字）／`browser`（有 WebKit／Gecko／Chrome／Safari 這類真瀏覽器 token）／**`ua-shaped`（像 UA 但缺任何引擎 token，認不出來）**。三類只是把現有 `browser` 拆開，`count` 不變、歷史可重算；拆完之後「這傷到真人了嗎」才有一個欄位真的在回答它。per #85：認不出來要有自己的符號，不能借用「真人」那個。
+- **可能層級**：通用反射候選（#38 混維度在 UA 分類層的 instance，而且它的特殊處在於**誤讀方向是單向的**：認不出的東西一律被算進「真人」，所以任何「有多少真人受影響」的讀數都系統性偏高）
+- **相關**：#38（混維度）、#82（proxy signal：`browser` 是「真人」的替身）、#85（「不知道」的符號）、#16 延伸（環境代表性／量的是哪一層）、#59（製造數字的人最容易被自己的數字騙——10-12 那個 192 vs 164 是自己量的，而且當天是對的）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-10-20 twmd-feedback-triage — empirical-maximum-absorbs-the-episode-it-was-used-to-flag：拿經驗最大值當參照的那行，會把它剛標示出來的那次事件吸收進自己，於是同樣的長度下次讀起來變正常
 
 - **pattern**: empirical-maximum-absorbs-the-episode-it-was-used-to-flag
