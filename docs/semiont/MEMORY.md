@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-20 | 140029-ci-speedup | 部署 40 分鐘查到 09-07 升級帶進的圖示 middleware 每頁建一棵 parse5 樹；改單趟掃描加 worker 執行緒，輸出逐位元組不變，build job 37→8.5 分 | 拿近期自己當基準的儀器，會把退化吸收成典型 | [→](memory/2026-10-20-140029-ci-speedup.md) |
 | 2026-10-21 | 004902-twmd-babel-nightly | 修復後續跑：又四篇新文缺 slug 讓產線連四輪零派工，手補後十二語 missing 歸零；半形引號豁免缺口讓〈支語誤判學〉跨三模型被擋，當班修閘門 | 交接寫給了對的席位，缺口從不讀交接的門進來 | [→](memory/2026-10-21-004902-twmd-babel-nightly.md) |
 | 2026-10-21 | 053918-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 零漂移；審庫存仍未註冊，第一個時點就是今晚 22:00，錯過則等 10-28 | 倒數歸零那天，交接仍只能寫準時點 | [→](memory/2026-10-21-053918-twmd-routine-sync.md) |
+| 2026-10-21 | 055711-twmd-embeddings-nightly | 五篇新文進索引：13 語 14,781 向量 0 fail，每語 1,137 篇，verify PASS，`e70f0835e`；重建中途 routine-sync 同機 commit，路徑式 commit 免處理 | 鍵差逐篇對上新文清單，增量不必另查 | [→](memory/2026-10-21-055711-twmd-embeddings-nightly.md) |
