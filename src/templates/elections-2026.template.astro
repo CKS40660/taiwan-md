@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
+import electionsDataRaw from '../data/elections-2026.json';
 
 type ElectionCopy = {
   meta: {
@@ -118,15 +119,13 @@ const officialResourceUrls = {
   cofacts: 'https://cofacts.tw/',
 };
 
-const electionCopy: Record<
-  'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es',
-  ElectionCopy
-> = {
+// 只有部分語言有完整文案，其他語言退回 en（鍵是語言代碼）
+const electionCopy: Record<string, ElectionCopy> = {
   'zh-TW': {
     meta: {
-      title: '2026 九合一選舉 · Taiwan.md',
+      title: '2026 九合一選舉：11/28 投票日、縣市長候選人、怎麼投票',
       description:
-        '2026 年 11 月 28 日，台灣同日投票九種職位。Taiwan.md 不報導選戰，記錄制度怎麼長、權力怎麼結構、為什麼民主基礎建設不只是投票。',
+        '2026 九合一選舉在 11 月 28 日（週六）上午 8 點到下午 4 點投票。這頁整理 22 個縣市長選區、81 位候選人的名單，告訴你投票要帶國民身分證、去哪裡投，也說明同一天舉行的全國性公投第 22 案。每項資料都附中選會或法規來源，不放民調、不背書任何候選人。',
     },
     hero: {
       eyebrow: '🗳️ 中華民國 115 年地方公職人員選舉',
@@ -153,7 +152,8 @@ const electionCopy: Record<
       title: '九種職位同日投票',
       intro:
         '「九合一」不是九場選舉的合稱，是九種職位同日投票。從直轄市長到村里長，從議員到原住民族區長 —— 一張選票背後是台灣 1994 年民選以來最完整的地方自治體系。',
-      sourceNote: '職位數量為 2026 選舉預估值（依中選會 2026-08-20 公告為準）',
+      sourceNote:
+        '直轄市長、縣（市）長與兩類議員名額依中選會 2026-08-20 選舉公告（中選務字第 1153150253 號）。標「預估」的五類名額由各縣市選委會公告；九類合計選出 11,051 人（中選會）。',
       items: [
         {
           name: '直轄市長',
@@ -163,7 +163,7 @@ const electionCopy: Record<
         },
         {
           name: '直轄市議員',
-          count: 380,
+          count: 381,
           desc: '六都議會代表（席次依縣市調整）',
           accent: accents[1],
         },
@@ -175,7 +175,7 @@ const electionCopy: Record<
         },
         {
           name: '縣（市）議員',
-          count: 532,
+          count: 538,
           desc: '縣市議會代表',
           accent: accents[3],
         },
@@ -243,21 +243,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '選務時程',
-          desc: '法定時程已上線（見上方）；投票時間隨 8/20 選舉公告更新',
+          title: '選務時程與投票須知',
+          desc: '法定時程、怎麼投票與同日公投資訊已上線（見上方）',
           eta: '已上線',
         },
         {
           icon: '👥',
-          title: '候選人 directory',
-          desc: '22 縣市候選人對稱呈現（無民調、按筆畫排序）',
-          eta: '2026/09 登記後',
+          title: '縣市長候選人名冊',
+          desc: '22 個縣市長選區對稱呈現（無民調；號次抽籤前依登記日期排列）',
+          eta: '已上線',
         },
         {
           icon: '💰',
           title: '政治獻金透明度',
           desc: '接監察院平臺 + g0v 選舉金流',
-          eta: '2026/10 起',
+          eta: '規劃中',
         },
         {
           icon: '🔮',
@@ -371,16 +371,17 @@ const electionCopy: Record<
       factCheckJoin: '或',
       factCheckSuffix: '。',
       mvp: '本頁於 2026-05-27 上線，後續內容持續補齊。',
-      roadmap: '完整選務時程、候選人、政治獻金與多視角子頁面持續上線中。',
+      roadmap: '候選人名冊與投票須知已上線；政治獻金與多視角子頁面持續補上。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '不報導選戰，記錄民主基礎建設',
     },
   },
   en: {
     meta: {
-      title: '2026 Local Elections · Taiwan.md',
+      title:
+        '2026 Taiwan Local Elections: Nov 28 Voting Day, Mayoral Candidates, How to Vote',
       description:
-        'On November 28, 2026, Taiwan votes for nine local offices on the same day. Taiwan.md does not cover campaigns, polls, or endorsements; it documents the democratic infrastructure behind the election.',
+        'Taiwan votes Saturday, November 28, 2026, 8 a.m. to 4 p.m. Candidates in 22 mayoral races, what to bring (your National ID card), and the same-day referendum.',
     },
     hero: {
       eyebrow:
@@ -410,7 +411,7 @@ const electionCopy: Record<
       intro:
         'The phrase "nine-in-one" does not mean nine separate elections. It means nine categories of local office vote on the same day. From mayors to village chiefs, from councilors to Indigenous district offices, each ballot sits inside Taiwan’s local self-government system built since direct local elections in 1994.',
       sourceNote:
-        'Office counts are 2026 estimates and should follow the Central Election Commission announcement on 2026-08-20.',
+        'Seats for special municipality mayors, county and city mayors, and both types of councilors follow the CEC election announcement of 2026-08-20. The five categories marked as estimates are announced by each local election commission; across all nine categories, 11,051 officials will be elected (CEC).',
       items: [
         {
           name: 'Special municipality mayors',
@@ -420,7 +421,7 @@ const electionCopy: Record<
         },
         {
           name: 'Special municipality councilors',
-          count: 380,
+          count: 381,
           desc: 'Council representatives in the six municipalities; seats vary by city',
           accent: accents[1],
         },
@@ -432,7 +433,7 @@ const electionCopy: Record<
         },
         {
           name: 'County and city councilors',
-          count: 532,
+          count: 538,
           desc: 'Representatives in county and city councils',
           accent: accents[3],
         },
@@ -518,21 +519,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Election timeline',
-          desc: 'Statutory schedule is live above; voting hours follow the Aug 20 announcement',
+          title: 'Election timeline & voting guide',
+          desc: 'Statutory schedule, how to vote, and same-day referendum details are live above',
           eta: 'Live',
         },
         {
           icon: '👥',
-          title: 'Candidate directory',
-          desc: 'Symmetric presentation across 22 cities and counties, without polling or rankings',
-          eta: 'After 2026/09 registration',
+          title: 'Mayoral candidate directory',
+          desc: 'All 22 mayoral races shown symmetrically (no polling; listed by registration date until ballot numbers are drawn)',
+          eta: 'Live',
         },
         {
           icon: '💰',
           title: 'Political donation transparency',
           desc: 'Links to the Control Yuan platform and g0v election money-flow tools',
-          eta: 'From 2026/10',
+          eta: 'Planned',
         },
         {
           icon: '🔮',
@@ -647,7 +648,7 @@ const electionCopy: Record<
       factCheckSuffix: 'first.',
       mvp: 'This page went live on 2026-05-27, with additional coverage continuing to be added.',
       roadmap:
-        'Full election timeline, candidate, political donation, and multi-perspective subpages will continue to roll out.',
+        'The candidate directory and voting guide are live; political donation and multi-perspective subpages will follow.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'not campaign coverage, but a record of democratic infrastructure',
@@ -655,9 +656,9 @@ const electionCopy: Record<
   },
   ja: {
     meta: {
-      title: '2026 統一地方選挙 · Taiwan.md',
+      title: '2026 台湾統一地方選挙：11/28 投票日・県市長候補者・投票の方法',
       description:
-        '2026年11月28日、台湾では九つの地方公職を同日に選ぶ選挙が行われます。Taiwan.md は選挙戦報道や世論調査、候補者支持ではなく、その背後にある民主主義の基盤を記録します。',
+        '2026年11月28日（土）午前8時から午後4時まで投票。22の県市長選挙区の候補者一覧、投票に持っていくもの（国民身分証）と投票所のルール、同じ日に行われる全国公民投票第22案を、中央選挙委員会の出典つきでまとめました。世論調査は載せていません。',
     },
     hero: {
       eyebrow: '🗳️ 中華民国 2026年地方公職人員選挙',
@@ -685,7 +686,7 @@ const electionCopy: Record<
       intro:
         '「九合一」は九つの別々の選挙という意味ではなく、九種類の地方公職を同日に投票するという意味です。直轄市長から村里長、議員から原住民族区の公職まで、一枚の投票用紙の背後には、1994年以来築かれてきた台湾の地方自治制度があります。',
       sourceNote:
-        '公職数は2026年選挙の推定値であり、2026-08-20の中央選挙委員会公告に従います。',
+        '直轄市長・県市長と2種類の議員の定数は、2026-08-20の中央選挙委員会の選挙公告によります。「推定」と表示した5種類の定数は各県市の選挙委員会が公告しており、9種類の合計は11,051人です（中央選挙委員会）。',
       items: [
         {
           name: '直轄市長',
@@ -695,7 +696,7 @@ const electionCopy: Record<
         },
         {
           name: '直轄市議員',
-          count: 380,
+          count: 381,
           desc: '六都の議会代表。議席数は都市により異なる',
           accent: accents[1],
         },
@@ -707,7 +708,7 @@ const electionCopy: Record<
         },
         {
           name: '県・市議員',
-          count: 532,
+          count: 538,
           desc: '県市議会の代表',
           accent: accents[3],
         },
@@ -780,21 +781,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '選務日程',
-          desc: '法定日程は上に掲載済み。投票時間は8/20の選挙公告で更新',
+          title: '選務日程と投票ガイド',
+          desc: '法定日程、投票の方法、同日の公民投票の情報を上に掲載済み',
           eta: '公開済み',
         },
         {
           icon: '👥',
-          title: '候補者ディレクトリ',
-          desc: '22県市の候補者を対称的に表示（世論調査・ランキングなし）',
-          eta: '2026年9月登録後',
+          title: '県市長候補者一覧',
+          desc: '22の県市長選挙区を対称的に表示（世論調査なし、番号抽選までは登録日順）',
+          eta: '公開済み',
         },
         {
           icon: '💰',
           title: '政治献金の透明性',
           desc: '監察院プラットフォームと g0v 選挙資金フローへの接続',
-          eta: '2026年10月以降',
+          eta: '準備中',
         },
         {
           icon: '🔮',
@@ -909,16 +910,16 @@ const electionCopy: Record<
       factCheckSuffix: 'を確認してください。',
       mvp: 'このページは2026-05-27に公開され、今後も内容を追加していきます。',
       roadmap:
-        '選務日程、候補者、政治献金、複数視点のサブページは順次公開されます。',
+        '候補者一覧と投票ガイドは公開済みです。政治献金と複数視点のサブページは順次公開します。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '選挙戦報道ではなく、民主主義の基盤を記録する',
     },
   },
   ko: {
     meta: {
-      title: '2026 지방선거 · Taiwan.md',
+      title: '2026 대만 지방선거: 11/28 투표일, 시장·현장 후보, 투표 방법',
       description:
-        '2026년 11월 28일, 대만은 아홉 종류의 지방 공직을 같은 날 선출합니다. Taiwan.md는 선거 보도, 여론조사, 후보 지지를 하지 않고 그 뒤의 민주주의 인프라를 기록합니다.',
+        '2026년 11월 28일(토) 오전 8시~오후 4시, 대만은 아홉 종류의 지방 공직을 같은 날 선출하고 원전 국민투표도 함께 치릅니다. 22개 시·현장 선거구 후보 명단과 투표 방법을 정리했습니다. 여론조사나 후보 지지는 하지 않습니다.',
     },
     hero: {
       eyebrow: '🗳️ 중화민국 2026년 지방공직자 선거',
@@ -947,7 +948,7 @@ const electionCopy: Record<
       intro:
         '"구합일"은 아홉 번의 별도 선거가 아니라 아홉 종류의 지방 공직을 같은 날 투표한다는 뜻입니다. 직할시장부터 촌리장까지, 의원부터 원주민구 공직까지, 한 장의 투표용지 뒤에는 1994년 이후 구축된 대만의 지방자치 체계가 있습니다.',
       sourceNote:
-        '공직 수는 2026년 선거 예상치이며, 2026-08-20 중앙선거위원회 공고를 기준으로 합니다.',
+        '직할시장, 현·시장, 두 종류 의원의 정수는 2026-08-20 중앙선거위원회 선거 공고에 따릅니다. ‘추정’으로 표시한 다섯 종류의 정수는 각 현·시 선거위원회가 공고하며, 아홉 종류를 합쳐 11,051명을 선출합니다(중앙선거위원회).',
       items: [
         {
           name: '직할시장',
@@ -957,7 +958,7 @@ const electionCopy: Record<
         },
         {
           name: '직할시의원',
-          count: 380,
+          count: 381,
           desc: '6개 직할시 의회의 대표. 의석 수는 도시별로 조정',
           accent: accents[1],
         },
@@ -969,7 +970,7 @@ const electionCopy: Record<
         },
         {
           name: '현·시의원',
-          count: 532,
+          count: 538,
           desc: '현·시 의회의 대표',
           accent: accents[3],
         },
@@ -1042,21 +1043,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '선거 일정',
-          desc: '법정 일정은 위에 게시됨. 투표 시간은 8/20 선거 공고로 업데이트',
+          title: '선거 일정과 투표 안내',
+          desc: '법정 일정, 투표 방법, 같은 날 국민투표 정보를 위에 게시함',
           eta: '공개됨',
         },
         {
           icon: '👥',
-          title: '후보자 디렉터리',
-          desc: '22개 현시 후보자를 대칭적으로 표시(여론조사·순위 없음)',
-          eta: '2026년 9월 등록 후',
+          title: '현·시장 후보자 명부',
+          desc: '22개 현·시장 선거구를 대칭적으로 표시(여론조사 없음, 기호 추첨 전까지 등록일 순)',
+          eta: '공개됨',
         },
         {
           icon: '💰',
           title: '정치자금 투명성',
           desc: '감찰원 플랫폼과 g0v 선거 자금 흐름 도구 연결',
-          eta: '2026년 10월부터',
+          eta: '준비 중',
         },
         {
           icon: '🔮',
@@ -1171,16 +1172,17 @@ const electionCopy: Record<
       factCheckSuffix: '를 확인하세요.',
       mvp: '이 페이지는 2026-05-27에 공개되었으며, 추가 내용은 계속 보강됩니다.',
       roadmap:
-        '선거 일정, 후보자, 정치자금, 다중 관점 하위 페이지는 계속 공개될 예정입니다.',
+        '후보자 명부와 투표 안내는 공개되었습니다. 정치자금과 다중 관점 하위 페이지는 순차적으로 공개됩니다.',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '선거전 보도가 아니라 민주주의 인프라를 기록합니다',
     },
   },
   fr: {
     meta: {
-      title: 'Élections locales 2026 · Taiwan.md',
+      title:
+        'Élections locales 2026 à Taïwan : vote le 28/11, candidats aux mairies, comment voter',
       description:
-        'Le 28 novembre 2026, Taïwan élit neuf catégories de fonctions locales le même jour. Taiwan.md ne couvre ni la campagne, ni les sondages : il documente l’infrastructure démocratique derrière l’élection.',
+        'Le samedi 28 novembre 2026, de 8 h à 16 h, Taïwan élit neuf catégories de fonctions locales et tient le même jour un référendum sur le nucléaire. Liste des candidats dans les 22 circonscriptions de maires et de magistrats, et mode d’emploi du vote. Ni sondages ni soutien à un candidat.',
     },
     hero: {
       eyebrow:
@@ -1210,7 +1212,7 @@ const electionCopy: Record<
       intro:
         '« Neuf-en-un » ne signifie pas neuf élections séparées : neuf catégories de fonctions locales sont élues le même jour. Des maires aux chefs de village, des conseillers aux districts autochtones, chaque bulletin s’inscrit dans le système d’autonomie locale que Taïwan construit depuis les premières élections locales directes de 1994.',
       sourceNote:
-        'Les effectifs sont des estimations pour 2026 et suivront l’annonce de la Commission électorale centrale du 20/08/2026.',
+        'Les sièges des maires des municipalités spéciales, des chefs de comté et maires de ville, et des deux types de conseillers suivent l’annonce électorale de la CEC du 20/08/2026. Les cinq catégories marquées « Estimation » sont annoncées par chaque commission électorale locale ; au total, les neuf catégories éliront 11 051 personnes (CEC).',
       items: [
         {
           name: 'Maires des municipalités spéciales',
@@ -1220,7 +1222,7 @@ const electionCopy: Record<
         },
         {
           name: 'Conseillers des municipalités spéciales',
-          count: 380,
+          count: 381,
           desc: 'Représentants des conseils des six municipalités ; sièges variables selon la ville',
           accent: accents[1],
         },
@@ -1232,7 +1234,7 @@ const electionCopy: Record<
         },
         {
           name: 'Conseillers de comté et de ville',
-          count: 532,
+          count: 538,
           desc: 'Représentants des conseils de comté et de ville',
           accent: accents[3],
         },
@@ -1322,21 +1324,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Calendrier électoral',
-          desc: 'Calendrier légal ci-dessus ; horaires de vote après l’annonce du 20/08',
+          title: 'Calendrier et guide du vote',
+          desc: 'Calendrier légal, guide du vote et référendum du même jour, en ligne ci-dessus',
           eta: 'En ligne',
         },
         {
           icon: '👥',
           title: 'Répertoire des candidats',
-          desc: 'Présentation symétrique dans les 22 villes et comtés, sans sondages ni classements',
-          eta: 'Après l’enregistrement de septembre 2026',
+          desc: 'Les 22 circonscriptions présentées de façon symétrique (sans sondages ; par date d’enregistrement jusqu’au tirage des numéros)',
+          eta: 'En ligne',
         },
         {
           icon: '💰',
           title: 'Transparence des dons politiques',
           desc: 'Liens vers la plateforme du Yuan de contrôle et les outils g0v',
-          eta: 'À partir d’octobre 2026',
+          eta: 'En préparation',
         },
         {
           icon: '🔮',
@@ -1453,7 +1455,7 @@ const electionCopy: Record<
       factCheckSuffix: '.',
       mvp: 'Cette page est en ligne depuis le 27/05/2026 et continue d’être enrichie.',
       roadmap:
-        'Le calendrier électoral complet, les candidats, les dons politiques et les sous-pages multi-perspectives arrivent progressivement.',
+        'Le répertoire des candidats et le guide du vote sont en ligne ; les sous-pages sur les dons politiques et les perspectives multiples suivront.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'pas de couverture de campagne, mais une trace de l’infrastructure démocratique',
@@ -1461,9 +1463,10 @@ const electionCopy: Record<
   },
   es: {
     meta: {
-      title: 'Elecciones locales 2026 · Taiwan.md',
+      title:
+        'Elecciones locales 2026 en Taiwán: votación el 28/11, candidatos a alcaldía, cómo votar',
       description:
-        'El 28 de noviembre de 2026, Taiwán elige nueve tipos de cargos locales el mismo día. Taiwan.md no cubre campañas ni encuestas: documenta la infraestructura democrática detrás de la elección.',
+        'El sábado 28 de noviembre de 2026, de 8:00 a 16:00, Taiwán elige nueve tipos de cargos locales y celebra el mismo día un referéndum sobre la energía nuclear. Candidatos en las 22 circunscripciones de alcaldes y magistrados, y cómo votar. Sin encuestas ni apoyo a candidatos.',
     },
     hero: {
       eyebrow:
@@ -1493,7 +1496,7 @@ const electionCopy: Record<
       intro:
         '«Nueve en uno» no significa nueve elecciones separadas, sino nueve tipos de cargos locales votados el mismo día. De alcaldes a jefes de aldea, de concejales a distritos indígenas, cada papeleta se inscribe en el sistema de autogobierno local que Taiwán construye desde las primeras elecciones locales directas de 1994.',
       sourceNote:
-        'Las cifras son estimaciones para 2026 y seguirán el anuncio de la Comisión Electoral Central del 20/08/2026.',
+        'Los escaños de alcaldes de municipios especiales, jefes de condado y alcaldes de ciudad, y de los dos tipos de concejales siguen el anuncio electoral de la CEC del 20/08/2026. Las cinco categorías marcadas como «Estimación» las anuncia cada comisión electoral local; en total, las nueve categorías elegirán a 11.051 personas (CEC).',
       items: [
         {
           name: 'Alcaldes de municipios especiales',
@@ -1503,7 +1506,7 @@ const electionCopy: Record<
         },
         {
           name: 'Concejales de municipios especiales',
-          count: 380,
+          count: 381,
           desc: 'Representantes de los concejos de los seis municipios; escaños según la ciudad',
           accent: accents[1],
         },
@@ -1515,7 +1518,7 @@ const electionCopy: Record<
         },
         {
           name: 'Concejales de condado y ciudad',
-          count: 532,
+          count: 538,
           desc: 'Representantes de los concejos de condado y ciudad',
           accent: accents[3],
         },
@@ -1601,21 +1604,21 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Calendario electoral',
-          desc: 'Calendario legal arriba; horarios de votación tras el anuncio del 20/08',
+          title: 'Calendario y guía de votación',
+          desc: 'Calendario legal, guía de votación y referéndum del mismo día, arriba',
           eta: 'En línea',
         },
         {
           icon: '👥',
           title: 'Directorio de candidatos',
-          desc: 'Presentación simétrica en las 22 ciudades y condados, sin encuestas ni rankings',
-          eta: 'Tras el registro de septiembre de 2026',
+          desc: 'Las 22 contiendas presentadas de forma simétrica (sin encuestas; por fecha de registro hasta el sorteo de números)',
+          eta: 'En línea',
         },
         {
           icon: '💰',
           title: 'Transparencia de donaciones políticas',
           desc: 'Enlaces a la plataforma del Yuan de Control y a las herramientas g0v',
-          eta: 'Desde octubre de 2026',
+          eta: 'En preparación',
         },
         {
           icon: '🔮',
@@ -1732,11 +1735,868 @@ const electionCopy: Record<
       factCheckSuffix: '.',
       mvp: 'Esta página está en línea desde el 27/05/2026 y sigue ampliándose.',
       roadmap:
-        'El calendario electoral completo, los candidatos, las donaciones políticas y las subpáginas multiperspectiva se irán publicando.',
+        'El directorio de candidatos y la guía de votación ya están en línea; las subpáginas de donaciones políticas y perspectivas múltiples llegarán después.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'no cobertura de campaña, sino un registro de la infraestructura democrática',
     },
+  },
+};
+
+// ─────────────────────────────────────────────────────────────────────
+// 2026-10 升級：縣市長候選人、怎麼投票、同日公投、快速導覽、JSON-LD。
+// 事實只來自 src/data/elections-2026.json（研究檔：
+// reports/research/2026-10/elections-2026/{candidates,voting-info}.json）。
+// 新增介面文案集中在 upgradeCopy（zh-TW/en/ja/ko/fr/es），其他語言退回 en。
+// 候選人呈現完全對稱：同樣欄位、同樣大小、不用政黨色、不標領先。
+// ─────────────────────────────────────────────────────────────────────
+
+// 有新區塊文案的語言代碼；沒有的退回 en
+type UpLang = string;
+
+type LinkKind =
+  | 'announcement'
+  | 'law'
+  | 'idRules'
+  | 'pollingPlaces'
+  | 'bulletin'
+  | 'schedule'
+  | 'referendumNotice'
+  | 'referendumBulletin';
+
+type ElectionsData = {
+  lastVerified: string;
+  election: {
+    date: string;
+    startDate: string;
+    endDate: string;
+    organizer: string;
+    source: string;
+  };
+  sources: Record<string, string>;
+  offices: Array<{
+    key: string;
+    type: string;
+    seats: number | null;
+    source: string;
+    sourceFile?: string;
+  }>;
+  totalElected: { count: number; source: string };
+  races: Array<{
+    area: string;
+    office: string;
+    group: 'municipal' | 'county';
+    seats: number;
+    source: string;
+    rosterSource: string;
+    candidates: Array<{
+      name: string;
+      party: string;
+      incumbent: boolean;
+      number: number | null;
+      registeredOn: string;
+      source: string;
+      incumbentSource?: string;
+    }>;
+  }>;
+  votingInfo: Array<
+    { id: string; links: Array<{ kind: LinkKind; url: string }> } & Record<
+      UpLang,
+      { q: string; a: string }
+    >
+  >;
+  referendum: {
+    case: number;
+    date: string;
+    hours: string;
+    question: string;
+    proposedBy: string;
+    establishedOn: string;
+    votingAge: number;
+    localElectionVotingAge: number;
+    threshold: string;
+    presentations: { count: number; firstDate: string };
+    sources: Array<{ kind: LinkKind; url: string }>;
+  };
+};
+
+const electionsData = electionsDataRaw as unknown as ElectionsData;
+
+type UpgradeCopy = {
+  nav: {
+    label: string;
+    candidates: string;
+    howToVote: string;
+    timeline: string;
+  };
+  offices: { approxPrefix: string; estimateLabel: string };
+  candidates: {
+    title: string;
+    intro: string;
+    note: string;
+    noteNumbered: string;
+    dataDate: string;
+    filterLabel: string;
+    filterAll: string;
+    filterMunicipal: string;
+    filterCounty: string;
+    groupMunicipal: string;
+    groupCounty: string;
+    groupCount: string;
+    candidateCount: string;
+    numberLabel: string;
+    incumbent: string;
+    incumbentNote: string;
+    sourceLabel: string;
+    rosterLink: string;
+    qualifiedLink: string;
+    listSep: string;
+  };
+  howToVote: { title: string; intro: string; sourceLabel: string };
+  referendum: {
+    eyebrow: string;
+    title: string;
+    lead: string;
+    questionLabel: string;
+    translationLabel: string | null;
+    translation: string | null;
+    facts: Array<{ label: string; text: string }>;
+    neutral: string;
+    sourceLabel: string;
+  };
+  links: Record<LinkKind, string>;
+  lastUpdated: string;
+  jsonLd: {
+    eventName: string;
+    eventDescription: string;
+    location: string;
+    organizer: string;
+  };
+};
+
+const upgradeCopy: Record<UpLang, UpgradeCopy> = {
+  'zh-TW': {
+    nav: {
+      label: '頁內導覽',
+      candidates: '候選人',
+      howToVote: '怎麼投票',
+      timeline: '時程',
+    },
+    offices: { approxPrefix: '約 ', estimateLabel: '預估' },
+    candidates: {
+      title: '縣市長候選人',
+      intro:
+        '{races} 個縣市長選區、{count} 位候選人。每位候選人都用同樣的格式呈現，不放民調，也不標示誰領先。',
+      note: '依中選會審定名單；號次 10/23 抽籤後更新。抽籤前依登記日期先後排列。',
+      noteNumbered: '依中選會審定名單，依號次排列。',
+      dataDate: '資料日期：',
+      filterLabel: '依職位篩選',
+      filterAll: '全部',
+      filterMunicipal: '直轄市長',
+      filterCounty: '縣市長',
+      groupMunicipal: '直轄市長',
+      groupCounty: '縣市長',
+      groupCount: '{n} 個選區',
+      candidateCount: '{n} 位候選人',
+      numberLabel: '{n} 號',
+      incumbent: '現任',
+      incumbentNote: '現任標示依中央社整理',
+      sourceLabel: '來源：',
+      rosterLink: '中選會登記名冊',
+      qualifiedLink: '中選會審定新聞稿',
+      listSep: '、',
+    },
+    howToVote: {
+      title: '怎麼投票',
+      intro: '投票日前最常被問到的幾件事，每個答案都附官方來源。',
+      sourceLabel: '官方來源：',
+    },
+    referendum: {
+      eyebrow: '同日公投',
+      title: '同一天還有全國性公投第 22 案',
+      lead: '全國性公民投票案第 22 案和地方選舉同一天、同一時段投票，也就是 11 月 28 日上午 8 點到下午 4 點。',
+      questionLabel: '公投主文（中選會公告原文）',
+      translationLabel: null,
+      translation: null,
+      facts: [
+        {
+          label: '提案',
+          text: '由立法院提出，中選會在 2026 年 8 月 28 日決議成案。',
+        },
+        {
+          label: '投票年齡',
+          text: '公投年滿 18 歲就能投；地方選舉要年滿 20 歲，兩者的年齡門檻不同。',
+        },
+        {
+          label: '通過門檻',
+          text: '有效同意票多於不同意票，而且有效同意票達到投票權人總數的四分之一。',
+        },
+        {
+          label: '意見發表會',
+          text: '中選會辦 5 場意見發表會或辯論會，第一場在 11 月 12 日。',
+        },
+      ],
+      neutral:
+        '這張卡只整理投票程序，不呈現任何一方的論點。官方資料請看中選會公告與公投公報網站。',
+      sourceLabel: '官方來源：',
+    },
+    links: {
+      announcement: '中選會選舉公告',
+      law: '公職人員選舉罷免法',
+      idRules: '防範選舉人重複投票或冒領選舉票辦法',
+      pollingPlaces: '中選會投票所公告',
+      bulletin: '選舉及公民投票公報網站',
+      schedule: '中選會選舉工作進度表',
+      referendumNotice: '中選會公投案公告',
+      referendumBulletin: '公投公報網站',
+    },
+    lastUpdated: '最後更新：',
+    jsonLd: {
+      eventName: '2026 地方公職人員選舉（九合一）投票日',
+      eventDescription:
+        '全台同日投票選出九種地方公職，並同時舉行全國性公民投票案第 22 案的投票。',
+      location: '臺灣',
+      organizer: '中央選舉委員會',
+    },
+  },
+  en: {
+    nav: {
+      label: 'On this page',
+      candidates: 'Candidates',
+      howToVote: 'How to vote',
+      timeline: 'Timeline',
+    },
+    offices: { approxPrefix: '~', estimateLabel: 'Estimate' },
+    candidates: {
+      title: 'Candidates for mayor and county magistrate',
+      intro:
+        '{races} races, {count} candidates. Every candidate is shown in the same format, with no polls and no indication of who is ahead.',
+      note: 'Based on the CEC’s approved candidate list. Ballot numbers will be added after the draw on October 23; until then, candidates are listed by registration date.',
+      noteNumbered:
+        'Based on the CEC’s approved candidate list, ordered by ballot number.',
+      dataDate: 'Data as of ',
+      filterLabel: 'Filter by office',
+      filterAll: 'All',
+      filterMunicipal: 'Special municipalities',
+      filterCounty: 'Counties & cities',
+      groupMunicipal: 'Special municipality mayors',
+      groupCounty: 'County magistrates and city mayors',
+      groupCount: '{n} races',
+      candidateCount: '{n} candidates',
+      numberLabel: 'No. {n}',
+      incumbent: 'Incumbent',
+      incumbentNote:
+        'Incumbent labels follow Central News Agency (CNA) reporting',
+      sourceLabel: 'Sources: ',
+      rosterLink: 'CEC registration roster',
+      qualifiedLink: 'CEC approval notice',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'How to vote',
+      intro:
+        'The questions people ask most before voting day, each answered with an official source.',
+      sourceLabel: 'Official source: ',
+    },
+    referendum: {
+      eyebrow: 'Same-day referendum',
+      title: 'National Referendum Case No. 22 is on the same day',
+      lead: 'National Referendum Case No. 22 is voted on the same day and during the same hours as the local elections: November 28, from 8 a.m. to 4 p.m.',
+      questionLabel: 'Ballot question (official Chinese text from the CEC)',
+      translationLabel: 'Unofficial translation by Taiwan.md',
+      translation:
+        'Do you support the government using “nuclear power” to revitalize the economy, so as to abolish the “nuclear-free homeland” energy policy?',
+      facts: [
+        {
+          label: 'Proposed by',
+          text: 'The Legislative Yuan. The CEC formally established the case on August 28, 2026.',
+        },
+        {
+          label: 'Voting age',
+          text: 'Age 18 for the referendum and age 20 for the local elections. The two age thresholds are different.',
+        },
+        {
+          label: 'Passing threshold',
+          text: 'Valid yes votes must outnumber no votes, and valid yes votes must reach one quarter of all eligible voters.',
+        },
+        {
+          label: 'Public presentations',
+          text: 'The CEC holds five opinion presentations or debates, the first on November 12.',
+        },
+      ],
+      neutral:
+        'This card covers the voting procedure only and does not present either side’s arguments. For official materials, see the CEC notice and the referendum bulletin site.',
+      sourceLabel: 'Official sources: ',
+    },
+    links: {
+      announcement: 'CEC election announcement',
+      law: 'Civil Servants Election and Recall Act',
+      idRules: 'CEC rules against duplicate voting and ballot fraud',
+      pollingPlaces: 'CEC polling station notice',
+      bulletin: 'CEC election and referendum bulletin site',
+      schedule: 'CEC election work schedule',
+      referendumNotice: 'CEC referendum notice',
+      referendumBulletin: 'Referendum bulletin site',
+    },
+    lastUpdated: ' Last updated: ',
+    jsonLd: {
+      eventName: '2026 Taiwan local elections voting day',
+      eventDescription:
+        'Taiwan votes for nine categories of local office on the same day, together with National Referendum Case No. 22.',
+      location: 'Taiwan',
+      organizer: 'Central Election Commission',
+    },
+  },
+  ja: {
+    nav: {
+      label: 'このページの内容',
+      candidates: '候補者',
+      howToVote: '投票の方法',
+      timeline: '日程',
+    },
+    offices: { approxPrefix: '約', estimateLabel: '推定' },
+    candidates: {
+      title: '県市長候補者',
+      intro:
+        '県市長選挙{races}区、候補者{count}人。すべての候補者を同じ形式で表示し、世論調査や優劣の表示はしません。',
+      note: '中央選挙委員会の審定名簿に基づきます。番号は10/23の抽選後に更新し、抽選までは登録日順に並べています。',
+      noteNumbered: '中央選挙委員会の審定名簿に基づき、番号順に並べています。',
+      dataDate: 'データ日付：',
+      filterLabel: '職位で絞り込む',
+      filterAll: 'すべて',
+      filterMunicipal: '直轄市長',
+      filterCounty: '県市長',
+      groupMunicipal: '直轄市長',
+      groupCounty: '県市長',
+      groupCount: '{n}選挙区',
+      candidateCount: '候補者{n}人',
+      numberLabel: '{n}番',
+      incumbent: '現職',
+      incumbentNote: '現職の表示は中央通訊社（CNA）の整理による',
+      sourceLabel: '出典：',
+      rosterLink: '中央選挙委員会 登録名簿',
+      qualifiedLink: '中央選挙委員会 審定発表',
+      listSep: '、',
+    },
+    howToVote: {
+      title: '投票の方法',
+      intro: '投票日前によく聞かれることを、公式の出典つきでまとめました。',
+      sourceLabel: '公式出典：',
+    },
+    referendum: {
+      eyebrow: '同日の公民投票',
+      title: '同じ日に全国公民投票第22案も',
+      lead: '全国公民投票第22案は、地方選挙と同じ日・同じ時間帯（11月28日午前8時から午後4時まで）に投票が行われます。',
+      questionLabel: '設問（中央選挙委員会公告の原文）',
+      translationLabel: 'Taiwan.md による非公式訳',
+      translation:
+        'あなたは、政府が『原子力発電』を用いて経済を振興し、『非核家園』のエネルギー政策を廃止することを支持しますか？',
+      facts: [
+        {
+          label: '提出',
+          text: '立法院が提出し、中央選挙委員会が2026年8月28日に成立を決定しました。',
+        },
+        {
+          label: '投票年齢',
+          text: '公民投票は満18歳から、地方選挙は満20歳から投票できます。年齢要件が異なります。',
+        },
+        {
+          label: '成立要件',
+          text: '有効な賛成票が反対票を上回り、かつ有効な賛成票が投票権者総数の4分の1に達することが必要です。',
+        },
+        {
+          label: '意見発表会',
+          text: '中央選挙委員会は意見発表会または討論会を5回開き、初回は11月12日です。',
+        },
+      ],
+      neutral:
+        'このカードは投票手続きだけを整理し、賛否いずれの主張も扱いません。公式資料は中央選挙委員会の公告と公民投票公報サイトをご覧ください。',
+      sourceLabel: '公式出典：',
+    },
+    links: {
+      announcement: '中央選挙委員会 選挙公告',
+      law: '公職人員選挙罷免法',
+      idRules: '重複投票・投票用紙不正受領の防止規則',
+      pollingPlaces: '中央選挙委員会 投票所公告',
+      bulletin: '選挙・公民投票公報サイト',
+      schedule: '中央選挙委員会 選挙事務日程',
+      referendumNotice: '中央選挙委員会 公民投票案公告',
+      referendumBulletin: '公民投票公報サイト',
+    },
+    lastUpdated: '最終更新：',
+    jsonLd: {
+      eventName: '2026年 台湾統一地方選挙 投票日',
+      eventDescription:
+        '台湾全土で九種類の地方公職を同日に選び、全国公民投票第22案の投票も同時に行われます。',
+      location: '台湾',
+      organizer: '中央選挙委員会',
+    },
+  },
+  ko: {
+    nav: {
+      label: '이 페이지 바로가기',
+      candidates: '후보자',
+      howToVote: '투표 방법',
+      timeline: '일정',
+    },
+    offices: { approxPrefix: '약 ', estimateLabel: '추정' },
+    candidates: {
+      title: '현·시장 후보자',
+      intro:
+        '현·시장 선거구 {races}곳, 후보 {count}명. 모든 후보를 같은 형식으로 표시하며, 여론조사나 우세 표시는 넣지 않습니다.',
+      note: '중앙선거위원회 심사 확정 명단 기준입니다. 기호는 10/23 추첨 후 업데이트하며, 추첨 전까지는 등록일 순으로 배열합니다.',
+      noteNumbered:
+        '중앙선거위원회 심사 확정 명단 기준이며, 기호 순으로 배열합니다.',
+      dataDate: '자료 기준일: ',
+      filterLabel: '직위별 보기',
+      filterAll: '전체',
+      filterMunicipal: '직할시장',
+      filterCounty: '현·시장',
+      groupMunicipal: '직할시장',
+      groupCounty: '현·시장',
+      groupCount: '선거구 {n}곳',
+      candidateCount: '후보 {n}명',
+      numberLabel: '기호 {n}번',
+      incumbent: '현직',
+      incumbentNote: '현직 표시는 중앙통신사(CNA) 정리 기준',
+      sourceLabel: '출처: ',
+      rosterLink: '중앙선거위원회 등록 명부',
+      qualifiedLink: '중앙선거위원회 심사 확정 발표',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: '투표 방법',
+      intro: '투표일 전에 가장 많이 묻는 질문을 공식 출처와 함께 정리했습니다.',
+      sourceLabel: '공식 출처: ',
+    },
+    referendum: {
+      eyebrow: '같은 날 국민투표',
+      title: '같은 날 전국 국민투표 제22안도 진행됩니다',
+      lead: '전국 국민투표 제22안은 지방선거와 같은 날, 같은 시간(11월 28일 오전 8시부터 오후 4시까지)에 투표합니다.',
+      questionLabel: '투표 문안(중앙선거위원회 공고 원문)',
+      translationLabel: 'Taiwan.md 비공식 번역',
+      translation:
+        '귀하는 정부가 ‘원자력 발전’을 활용해 경제를 진흥하여 ‘비핵가원(非核家園)’ 에너지 정책을 폐지하는 것을 지지합니까?',
+      facts: [
+        {
+          label: '발의',
+          text: '입법원이 발의했고, 중앙선거위원회가 2026년 8월 28일 성립을 의결했습니다.',
+        },
+        {
+          label: '투표 연령',
+          text: '국민투표는 만 18세부터, 지방선거는 만 20세부터 투표할 수 있습니다. 두 연령 기준이 다릅니다.',
+        },
+        {
+          label: '통과 요건',
+          text: '유효 찬성표가 반대표보다 많고, 유효 찬성표가 투표권자 총수의 4분의 1 이상이어야 합니다.',
+        },
+        {
+          label: '의견 발표회',
+          text: '중앙선거위원회는 의견 발표회 또는 토론회를 5회 열며, 첫 회는 11월 12일입니다.',
+        },
+      ],
+      neutral:
+        '이 카드는 투표 절차만 정리하며 어느 쪽의 주장도 다루지 않습니다. 공식 자료는 중앙선거위원회 공고와 국민투표 공보 사이트를 참고하세요.',
+      sourceLabel: '공식 출처: ',
+    },
+    links: {
+      announcement: '중앙선거위원회 선거 공고',
+      law: '공직인원 선거파면법',
+      idRules: '중복 투표·투표용지 부정 수령 방지 규정',
+      pollingPlaces: '중앙선거위원회 투표소 공고',
+      bulletin: '선거·국민투표 공보 사이트',
+      schedule: '중앙선거위원회 선거 업무 일정',
+      referendumNotice: '중앙선거위원회 국민투표안 공고',
+      referendumBulletin: '국민투표 공보 사이트',
+    },
+    lastUpdated: ' 최종 업데이트: ',
+    jsonLd: {
+      eventName: '2026 대만 지방선거 투표일',
+      eventDescription:
+        '대만 전역에서 아홉 종류의 지방 공직을 같은 날 선출하며, 전국 국민투표 제22안 투표도 함께 진행됩니다.',
+      location: '대만',
+      organizer: '중앙선거위원회',
+    },
+  },
+  fr: {
+    nav: {
+      label: 'Sur cette page',
+      candidates: 'Candidats',
+      howToVote: 'Comment voter',
+      timeline: 'Calendrier',
+    },
+    offices: { approxPrefix: 'env. ', estimateLabel: 'Estimation' },
+    candidates: {
+      title: 'Candidats aux mairies et aux comtés',
+      intro:
+        '{races} circonscriptions, {count} candidats. Chaque candidat est présenté dans le même format, sans sondage ni indication de qui mène.',
+      note: 'D’après la liste validée par la CEC. Les numéros seront ajoutés après le tirage du 23 octobre ; d’ici là, les candidats sont classés par date d’enregistrement.',
+      noteNumbered:
+        'D’après la liste validée par la CEC, classés par numéro de bulletin.',
+      dataDate: 'Données au ',
+      filterLabel: 'Filtrer par fonction',
+      filterAll: 'Tous',
+      filterMunicipal: 'Municipalités spéciales',
+      filterCounty: 'Comtés et villes',
+      groupMunicipal: 'Maires des municipalités spéciales',
+      groupCounty: 'Chefs de comté et maires de ville',
+      groupCount: '{n} circonscriptions',
+      candidateCount: '{n} candidats',
+      numberLabel: 'n° {n}',
+      incumbent: 'En poste',
+      incumbentNote: 'Mention « en poste » selon l’agence CNA',
+      sourceLabel: 'Sources : ',
+      rosterLink: 'registre des candidatures de la CEC',
+      qualifiedLink: 'communiqué de validation de la CEC',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'Comment voter',
+      intro:
+        'Les questions les plus fréquentes avant le scrutin, chacune avec sa source officielle.',
+      sourceLabel: 'Source officielle : ',
+    },
+    referendum: {
+      eyebrow: 'Référendum le même jour',
+      title: 'Le référendum national n° 22 a lieu le même jour',
+      lead: 'Le référendum national n° 22 est voté le même jour et aux mêmes horaires que les élections locales, le 28 novembre de 8 h à 16 h.',
+      questionLabel:
+        'Question soumise au vote (texte chinois officiel de la CEC)',
+      translationLabel: 'Traduction non officielle de Taiwan.md',
+      translation:
+        'Soutenez-vous l’utilisation de « l’énergie nucléaire » par le gouvernement pour relancer l’économie, afin d’abolir la politique énergétique du « foyer sans nucléaire » ?',
+      facts: [
+        {
+          label: 'Proposé par',
+          text: 'Le Yuan législatif. La CEC a validé le dossier le 28 août 2026.',
+        },
+        {
+          label: 'Âge de vote',
+          text: '18 ans pour le référendum, 20 ans pour les élections locales. Les deux seuils d’âge sont différents.',
+        },
+        {
+          label: 'Seuil d’adoption',
+          text: 'Les votes valides « oui » doivent dépasser les « non » et atteindre un quart de l’ensemble des personnes ayant le droit de vote.',
+        },
+        {
+          label: 'Présentations publiques',
+          text: 'La CEC organise cinq présentations ou débats, le premier le 12 novembre.',
+        },
+      ],
+      neutral:
+        'Cette carte présente uniquement la procédure de vote et ne reprend les arguments d’aucun camp. Pour les documents officiels, consultez l’avis de la CEC et le site des bulletins référendaires.',
+      sourceLabel: 'Sources officielles : ',
+    },
+    links: {
+      announcement: 'annonce électorale de la CEC',
+      law: 'loi sur l’élection et la révocation des agents publics',
+      idRules: 'règlement contre le double vote et le retrait frauduleux',
+      pollingPlaces: 'avis de la CEC sur les bureaux de vote',
+      bulletin: 'site des bulletins électoraux et référendaires',
+      schedule: 'calendrier des opérations de la CEC',
+      referendumNotice: 'avis de la CEC sur le référendum',
+      referendumBulletin: 'site des bulletins référendaires',
+    },
+    lastUpdated: ' Dernière mise à jour : ',
+    jsonLd: {
+      eventName: 'Jour du scrutin des élections locales 2026 à Taïwan',
+      eventDescription:
+        'Taïwan élit neuf catégories de fonctions locales le même jour, en même temps que le référendum national n° 22.',
+      location: 'Taïwan',
+      organizer: 'Commission électorale centrale',
+    },
+  },
+  es: {
+    nav: {
+      label: 'En esta página',
+      candidates: 'Candidatos',
+      howToVote: 'Cómo votar',
+      timeline: 'Calendario',
+    },
+    offices: { approxPrefix: 'aprox. ', estimateLabel: 'Estimación' },
+    candidates: {
+      title: 'Candidaturas a alcaldías y jefaturas de condado',
+      intro:
+        '{races} contiendas, {count} candidatos. Cada candidatura se presenta con el mismo formato, sin encuestas ni indicación de quién va por delante.',
+      note: 'Según la lista aprobada por la CEC. Los números se añadirán tras el sorteo del 23 de octubre; hasta entonces, el orden es por fecha de registro.',
+      noteNumbered:
+        'Según la lista aprobada por la CEC, ordenada por número de papeleta.',
+      dataDate: 'Datos al ',
+      filterLabel: 'Filtrar por cargo',
+      filterAll: 'Todos',
+      filterMunicipal: 'Municipios especiales',
+      filterCounty: 'Condados y ciudades',
+      groupMunicipal: 'Alcaldes de municipios especiales',
+      groupCounty: 'Jefes de condado y alcaldes de ciudad',
+      groupCount: '{n} contiendas',
+      candidateCount: '{n} candidatos',
+      numberLabel: 'n.º {n}',
+      incumbent: 'En el cargo',
+      incumbentNote: 'Indicación «en el cargo» según la agencia CNA',
+      sourceLabel: 'Fuentes: ',
+      rosterLink: 'registro de candidaturas de la CEC',
+      qualifiedLink: 'comunicado de aprobación de la CEC',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'Cómo votar',
+      intro:
+        'Las preguntas más frecuentes antes de la votación, cada una con su fuente oficial.',
+      sourceLabel: 'Fuente oficial: ',
+    },
+    referendum: {
+      eyebrow: 'Referéndum el mismo día',
+      title: 'El referéndum nacional n.º 22 se vota el mismo día',
+      lead: 'El referéndum nacional n.º 22 se vota el mismo día y en el mismo horario que las elecciones locales: el 28 de noviembre, de 8:00 a 16:00.',
+      questionLabel:
+        'Pregunta sometida a votación (texto chino oficial de la CEC)',
+      translationLabel: 'Traducción no oficial de Taiwan.md',
+      translation:
+        '¿Apoya que el gobierno utilice la «energía nuclear» para reactivar la economía, a fin de abolir la política energética de «hogar sin energía nuclear»?',
+      facts: [
+        {
+          label: 'Propuesto por',
+          text: 'El Yuan Legislativo. La CEC aprobó formalmente el caso el 28 de agosto de 2026.',
+        },
+        {
+          label: 'Edad para votar',
+          text: '18 años para el referéndum y 20 años para las elecciones locales. Los dos umbrales de edad son distintos.',
+        },
+        {
+          label: 'Umbral de aprobación',
+          text: 'Los votos válidos a favor deben superar a los votos en contra y alcanzar una cuarta parte del total de personas con derecho a voto.',
+        },
+        {
+          label: 'Presentaciones públicas',
+          text: 'La CEC organiza cinco presentaciones de opiniones o debates; el primero es el 12 de noviembre.',
+        },
+      ],
+      neutral:
+        'Esta tarjeta recoge solo el procedimiento de votación y no presenta los argumentos de ninguna de las partes. Para los materiales oficiales, consulta el aviso de la CEC y el sitio de boletines de referéndum.',
+      sourceLabel: 'Fuentes oficiales: ',
+    },
+    links: {
+      announcement: 'anuncio electoral de la CEC',
+      law: 'Ley de Elección y Revocación de Funcionarios Públicos',
+      idRules:
+        'reglamento contra el voto duplicado y el retiro fraudulento de papeletas',
+      pollingPlaces: 'aviso de la CEC sobre colegios electorales',
+      bulletin: 'sitio de boletines electorales y de referéndum',
+      schedule: 'calendario de trabajo de la CEC',
+      referendumNotice: 'aviso de la CEC sobre el referéndum',
+      referendumBulletin: 'sitio de boletines de referéndum',
+    },
+    lastUpdated: ' Última actualización: ',
+    jsonLd: {
+      eventName:
+        'Jornada de votación de las elecciones locales de 2026 en Taiwán',
+      eventDescription:
+        'Taiwán elige nueve tipos de cargos locales el mismo día, junto con el referéndum nacional n.º 22.',
+      location: 'Taiwán',
+      organizer: 'Comisión Electoral Central',
+    },
+  },
+};
+
+// 選區名稱：卡片標題用當前語言，非中文頁另附中選會原字（小字）。
+const areaI18n: Record<string, Record<Exclude<UpLang, 'zh-TW'>, string>> = {
+  臺北市: {
+    en: 'Taipei City',
+    ja: '台北市',
+    ko: '타이베이시',
+    fr: 'Taipei',
+    es: 'Taipéi',
+  },
+  新北市: {
+    en: 'New Taipei City',
+    ja: '新北市',
+    ko: '신베이시',
+    fr: 'Nouveau Taipei',
+    es: 'Nuevo Taipéi',
+  },
+  桃園市: {
+    en: 'Taoyuan City',
+    ja: '桃園市',
+    ko: '타오위안시',
+    fr: 'Taoyuan',
+    es: 'Taoyuan',
+  },
+  臺中市: {
+    en: 'Taichung City',
+    ja: '台中市',
+    ko: '타이중시',
+    fr: 'Taichung',
+    es: 'Taichung',
+  },
+  臺南市: {
+    en: 'Tainan City',
+    ja: '台南市',
+    ko: '타이난시',
+    fr: 'Tainan',
+    es: 'Tainan',
+  },
+  高雄市: {
+    en: 'Kaohsiung City',
+    ja: '高雄市',
+    ko: '가오슝시',
+    fr: 'Kaohsiung',
+    es: 'Kaohsiung',
+  },
+  基隆市: {
+    en: 'Keelung City',
+    ja: '基隆市',
+    ko: '지룽시',
+    fr: 'Keelung',
+    es: 'Keelung',
+  },
+  新竹市: {
+    en: 'Hsinchu City',
+    ja: '新竹市',
+    ko: '신주시',
+    fr: 'Ville de Hsinchu',
+    es: 'Ciudad de Hsinchu',
+  },
+  嘉義市: {
+    en: 'Chiayi City',
+    ja: '嘉義市',
+    ko: '자이시',
+    fr: 'Ville de Chiayi',
+    es: 'Ciudad de Chiayi',
+  },
+  新竹縣: {
+    en: 'Hsinchu County',
+    ja: '新竹県',
+    ko: '신주현',
+    fr: 'Comté de Hsinchu',
+    es: 'Condado de Hsinchu',
+  },
+  苗栗縣: {
+    en: 'Miaoli County',
+    ja: '苗栗県',
+    ko: '먀오리현',
+    fr: 'Comté de Miaoli',
+    es: 'Condado de Miaoli',
+  },
+  彰化縣: {
+    en: 'Changhua County',
+    ja: '彰化県',
+    ko: '장화현',
+    fr: 'Comté de Changhua',
+    es: 'Condado de Changhua',
+  },
+  南投縣: {
+    en: 'Nantou County',
+    ja: '南投県',
+    ko: '난터우현',
+    fr: 'Comté de Nantou',
+    es: 'Condado de Nantou',
+  },
+  雲林縣: {
+    en: 'Yunlin County',
+    ja: '雲林県',
+    ko: '윈린현',
+    fr: 'Comté de Yunlin',
+    es: 'Condado de Yunlin',
+  },
+  嘉義縣: {
+    en: 'Chiayi County',
+    ja: '嘉義県',
+    ko: '자이현',
+    fr: 'Comté de Chiayi',
+    es: 'Condado de Chiayi',
+  },
+  屏東縣: {
+    en: 'Pingtung County',
+    ja: '屏東県',
+    ko: '핑둥현',
+    fr: 'Comté de Pingtung',
+    es: 'Condado de Pingtung',
+  },
+  宜蘭縣: {
+    en: 'Yilan County',
+    ja: '宜蘭県',
+    ko: '이란현',
+    fr: 'Comté de Yilan',
+    es: 'Condado de Yilan',
+  },
+  花蓮縣: {
+    en: 'Hualien County',
+    ja: '花蓮県',
+    ko: '화롄현',
+    fr: 'Comté de Hualien',
+    es: 'Condado de Hualien',
+  },
+  臺東縣: {
+    en: 'Taitung County',
+    ja: '台東県',
+    ko: '타이둥현',
+    fr: 'Comté de Taitung',
+    es: 'Condado de Taitung',
+  },
+  澎湖縣: {
+    en: 'Penghu County',
+    ja: '澎湖県',
+    ko: '펑후현',
+    fr: 'Comté de Penghu',
+    es: 'Condado de Penghu',
+  },
+  金門縣: {
+    en: 'Kinmen County',
+    ja: '金門県',
+    ko: '진먼현',
+    fr: 'Comté de Kinmen',
+    es: 'Condado de Kinmen',
+  },
+  連江縣: {
+    en: 'Lienchiang County',
+    ja: '連江県',
+    ko: '롄장현',
+    fr: 'Comté de Lienchiang',
+    es: 'Condado de Lienchiang',
+  },
+};
+
+// 政黨名稱對照：只收確定的官方或通行譯名；沒有的語言退回 en，
+// 連 en 都沒有（不確定官方英文名）就照中選會原字顯示中文。
+const partyI18n: Record<
+  string,
+  Partial<Record<Exclude<UpLang, 'zh-TW'>, string>>
+> = {
+  民主進步黨: {
+    en: 'Democratic Progressive Party',
+    ja: '民主進歩党',
+    ko: '민주진보당',
+    fr: 'Parti démocrate progressiste',
+    es: 'Partido Democrático Progresista',
+  },
+  中國國民黨: {
+    en: 'Kuomintang',
+    ja: '中国国民党',
+    ko: '중국국민당',
+    fr: 'Kuomintang',
+    es: 'Kuomintang',
+  },
+  台灣民眾黨: {
+    en: 'Taiwan People’s Party',
+    ja: '台湾民衆党',
+    ko: '대만민중당',
+    fr: 'Parti populaire taïwanais',
+    es: 'Partido Popular de Taiwán',
+  },
+  時代力量: { en: 'New Power Party', ja: '時代力量' },
+  台灣基進: { en: 'Taiwan Statebuilding Party', ja: '台湾基進' },
+  台灣綠黨: { en: 'Green Party Taiwan', ja: '台湾緑党' },
+  台聯黨: {
+    en: 'Taiwan Solidarity Union',
+    ja: '台湾団結連盟',
+    ko: '대만단결연맹',
+  },
+  無黨籍: {
+    en: 'Independent',
+    ja: '無所属',
+    ko: '무소속',
+    fr: 'Sans étiquette',
+    es: 'Independiente',
   },
 };
 
@@ -1761,6 +2621,102 @@ const todayIso = new Date(now.getTime() + 8 * 60 * 60 * 1000)
 const nextMilestoneIdx = copy.timeline.items.findIndex(
   (m) => m.iso >= todayIso,
 );
+const nextMilestone =
+  nextMilestoneIdx >= 0 ? copy.timeline.items[nextMilestoneIdx] : null;
+
+// ── 2026-10 升級：衍生值 ──────────────────────────────────────────────
+const upLang: UpLang = lang in upgradeCopy ? (lang as UpLang) : 'en';
+const up = upgradeCopy[upLang];
+const isZh = upLang === 'zh-TW';
+const fill = (tpl: string, vars: Record<string, string | number>) =>
+  tpl.replace(/\{(\w+)\}/g, (_, k: string) => String(vars[k] ?? ''));
+
+// 九種職位：中選會公告有分項的用正式名額，其餘保留原數字並標「預估」。
+// data.offices 與 copy.offices.items 同序（直轄市長 → 村里長）。
+const officeRows = copy.offices.items.map((e, i) => {
+  const seats = electionsData.offices[i]?.seats;
+  return seats == null
+    ? { ...e, estimate: true }
+    : { ...e, count: seats, estimate: false };
+});
+
+const areaLabel = (area: string) =>
+  isZh ? area : (areaI18n[area]?.[upLang as Exclude<UpLang, 'zh-TW'>] ?? area);
+const partyLabel = (party: string) => {
+  if (isZh) return party;
+  const names = partyI18n[party];
+  return names?.[upLang as Exclude<UpLang, 'zh-TW'>] ?? names?.en ?? party;
+};
+
+type Race = ElectionsData['races'][number];
+// 號次全部抽出後依號次排序；抽籤前保持研究檔順序（登記日期先後）。
+const isNumbered = (r: Race) => r.candidates.every((c) => c.number != null);
+const orderedCandidates = (r: Race) =>
+  isNumbered(r)
+    ? [...r.candidates].sort((a, b) => (a.number ?? 0) - (b.number ?? 0))
+    : r.candidates;
+const allNumbered = electionsData.races.every(isNumbered);
+const totalCandidates = electionsData.races.reduce(
+  (n, r) => n + r.candidates.length,
+  0,
+);
+const raceGroups = [
+  {
+    key: 'municipal' as const,
+    label: up.candidates.groupMunicipal,
+    races: electionsData.races.filter((r) => r.group === 'municipal'),
+  },
+  {
+    key: 'county' as const,
+    label: up.candidates.groupCounty,
+    races: electionsData.races.filter((r) => r.group === 'county'),
+  },
+];
+
+const faqItems = electionsData.votingInfo.map((v) => ({
+  id: v.id,
+  links: v.links,
+  ...(v[upLang] ?? v.en),
+}));
+const referendum = electionsData.referendum;
+
+// JSON-LD：Event（投票日）＋ FAQPage（怎麼投票，用當前語言）。
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url).toString();
+const toJsonLd = (data: unknown) =>
+  JSON.stringify(data).replace(/</g, '\\u003c');
+const eventJsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'Event',
+  name: up.jsonLd.eventName,
+  description: up.jsonLd.eventDescription,
+  startDate: electionsData.election.startDate,
+  endDate: electionsData.election.endDate,
+  eventStatus: 'https://schema.org/EventScheduled',
+  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+  inLanguage: upLang,
+  url: pageUrl,
+  location: {
+    '@type': 'Place',
+    name: up.jsonLd.location,
+    address: { '@type': 'PostalAddress', addressCountry: 'TW' },
+  },
+  organizer: {
+    '@type': 'GovernmentOrganization',
+    name: up.jsonLd.organizer,
+    url: 'https://web.cec.gov.tw/',
+  },
+});
+const faqJsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  inLanguage: upLang,
+  url: pageUrl,
+  mainEntity: faqItems.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+});
 ---
 
 <Layout
@@ -1823,6 +2779,43 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
             </div>
           )
         }
+
+        <!-- 快速導覽：三個錨點＋下一站 -->
+        <nav
+          aria-label={up.nav.label}
+          class="mx-auto mt-10 flex max-w-[640px] flex-col items-center gap-4"
+        >
+          <div class="flex flex-wrap justify-center gap-2.5">
+            {
+              [
+                { href: '#candidates', label: up.nav.candidates },
+                { href: '#how-to-vote', label: up.nav.howToVote },
+                { href: '#timeline', label: up.nav.timeline },
+              ].map((l) => (
+                <a
+                  href={l.href}
+                  class="inline-flex items-center gap-1.5 rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white/80 px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/50 hover:bg-[#fef2ec]"
+                >
+                  {l.label}
+                  <span aria-hidden="true">↓</span>
+                </a>
+              ))
+            }
+          </div>
+          {
+            nextMilestone && (
+              <p class="flex flex-wrap items-baseline justify-center gap-x-2 gap-y-1 text-center text-sm text-[#52525b]">
+                <span class="rounded-full bg-[#fef3c7] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#92400e]">
+                  {copy.timeline.nextLabel}
+                </span>
+                <span class="font-mono tabular-nums text-[#7c2d12]">
+                  {nextMilestone.date}
+                </span>
+                <span>{nextMilestone.label}</span>
+              </p>
+            )
+          }
+        </nav>
       </div>
     </section>
 
@@ -1887,7 +2880,7 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
 
         <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {
-            copy.offices.items.map((e) => (
+            officeRows.map((e) => (
               <div class="group rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 transition-all duration-[200ms] hover:-translate-y-1 hover:border-[#d1d5db] hover:shadow-[0_8px_24px_rgba(0,0,0,0.06)]">
                 <div class="mb-3 flex items-baseline justify-between gap-3">
                   <h3
@@ -1897,13 +2890,25 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
                     {e.name}
                   </h3>
                   <span
-                    class="text-3xl font-bold tabular-nums"
+                    class="shrink-0 text-3xl font-bold tabular-nums"
                     style={`color: ${e.accent}`}
                   >
+                    {e.estimate && (
+                      <span class="text-base font-semibold">
+                        {up.offices.approxPrefix}
+                      </span>
+                    )}
                     {e.count.toLocaleString()}
                   </span>
                 </div>
-                <p class="text-sm leading-[1.65] text-[#6b7280]">{e.desc}</p>
+                <p class="text-sm leading-[1.65] text-[#6b7280]">
+                  {e.desc}
+                  {e.estimate && (
+                    <span class="ml-1.5 inline-block rounded border border-[#d1d5db] px-1.5 align-middle font-mono text-[10px] text-[#6b7280]">
+                      {up.offices.estimateLabel}
+                    </span>
+                  )}
+                </p>
               </div>
             ))
           }
@@ -1915,8 +2920,338 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
       </div>
     </section>
 
+    <!-- 縣市長候選人（中選會 2026-10-16 審定名單；對稱呈現、無政黨色） -->
+    <section id="candidates" class="anchor-section bg-[#fdfaf2] py-16 md:py-24">
+      <div class="mx-auto max-w-[1080px] px-6">
+        <div class="mb-8 text-center">
+          <h2
+            class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
+            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+          >
+            {up.candidates.title}
+          </h2>
+          <p
+            class="mx-auto max-w-[640px] text-base leading-[1.75] text-[#52525b]"
+          >
+            {
+              fill(up.candidates.intro, {
+                races: electionsData.races.length,
+                count: totalCandidates,
+              })
+            }
+          </p>
+          <p
+            class="mx-auto mt-3 max-w-[640px] text-sm leading-[1.7] text-[#78716c]"
+          >
+            {allNumbered ? up.candidates.noteNumbered : up.candidates.note}
+            <span class="whitespace-nowrap">
+              {' '}
+              {up.candidates.dataDate}
+              <time datetime={electionsData.lastVerified} class="font-mono"
+                >{electionsData.lastVerified}</time
+              >
+            </span>
+          </p>
+        </div>
+
+        <div
+          class="cand-filter mb-8 justify-center"
+          role="group"
+          aria-label={up.candidates.filterLabel}
+          data-cand-filter
+          hidden
+        >
+          {
+            [
+              { key: 'all', label: up.candidates.filterAll },
+              { key: 'municipal', label: up.candidates.filterMunicipal },
+              { key: 'county', label: up.candidates.filterCounty },
+            ].map((f, i) => (
+              <button
+                type="button"
+                data-filter={f.key}
+                aria-pressed={i === 0 ? 'true' : 'false'}
+                class="cand-filter-btn rounded-full border-[1.5px] border-[#d1d5db] bg-white px-4 py-1.5 text-sm font-semibold text-[#374151] transition-colors duration-[200ms] hover:border-[#9ca3af]"
+              >
+                {f.label}
+              </button>
+            ))
+          }
+        </div>
+
+        {
+          raceGroups.map((g) => (
+            <div class="cand-group mb-12 last:mb-0" data-cand-group={g.key}>
+              <h3
+                class="mb-5 flex items-baseline gap-3 border-b border-[#e7d9b8] pb-2 text-xl font-semibold text-[#1f2937]"
+                style="font-family: 'Noto Serif TC', serif;"
+              >
+                {g.label}
+                <span class="text-sm font-normal text-[#78716c]">
+                  {fill(up.candidates.groupCount, { n: g.races.length })}
+                </span>
+              </h3>
+              <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {g.races.map((race) => {
+                  const hasIncumbent = race.candidates.some((c) => c.incumbent);
+                  const incumbentSource = race.candidates.find(
+                    (c) => c.incumbentSource,
+                  )?.incumbentSource;
+                  return (
+                    <article class="flex flex-col rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5">
+                      <header class="mb-3 flex items-baseline justify-between gap-3">
+                        <h4
+                          class="text-lg font-semibold text-[#1f2937]"
+                          style="font-family: 'Noto Serif TC', serif;"
+                        >
+                          {areaLabel(race.area)}
+                          {!isZh && (
+                            <span
+                              class="ml-2 text-sm font-normal text-[#9ca3af]"
+                              lang="zh-Hant"
+                            >
+                              {race.area}
+                            </span>
+                          )}
+                        </h4>
+                        <span class="shrink-0 text-xs text-[#78716c]">
+                          {fill(up.candidates.candidateCount, {
+                            n: race.candidates.length,
+                          })}
+                        </span>
+                      </header>
+                      <ul class="m-0 list-none divide-y divide-[#f1f0ec] p-0">
+                        {orderedCandidates(race).map((c) => (
+                          <li class="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 py-2">
+                            {c.number != null && (
+                              <span class="font-mono text-xs tabular-nums text-[#6b7280]">
+                                {fill(up.candidates.numberLabel, {
+                                  n: c.number,
+                                })}
+                              </span>
+                            )}
+                            <span
+                              class="cand-name text-base font-semibold text-[#1f2937]"
+                              lang={isZh ? undefined : 'zh-Hant'}
+                            >
+                              {c.name}
+                            </span>
+                            <span
+                              class="text-sm text-[#6b7280]"
+                              lang={
+                                isZh || partyLabel(c.party) !== c.party
+                                  ? undefined
+                                  : 'zh-Hant'
+                              }
+                            >
+                              {partyLabel(c.party)}
+                            </span>
+                            {c.incumbent && (
+                              <span class="rounded border border-[#d1d5db] px-1.5 text-[11px] leading-[1.5] text-[#6b7280]">
+                                {up.candidates.incumbent}
+                              </span>
+                            )}
+                          </li>
+                        ))}
+                      </ul>
+                      <footer class="mt-auto pt-3 text-[11px] leading-[1.6] text-[#9ca3af]">
+                        <p>
+                          {up.candidates.sourceLabel}
+                          <a
+                            href={race.rosterSource}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="text-[#6b7280] underline decoration-[#d1d5db] underline-offset-2 hover:text-[#374151]"
+                          >
+                            {up.candidates.rosterLink}
+                          </a>
+                          {up.candidates.listSep}
+                          <a
+                            href={race.source}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="text-[#6b7280] underline decoration-[#d1d5db] underline-offset-2 hover:text-[#374151]"
+                          >
+                            {up.candidates.qualifiedLink}
+                          </a>
+                        </p>
+                        {hasIncumbent && incumbentSource && (
+                          <p>
+                            <a
+                              href={incumbentSource}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              class="text-[#6b7280] underline decoration-[#d1d5db] underline-offset-2 hover:text-[#374151]"
+                            >
+                              {up.candidates.incumbentNote}
+                            </a>
+                          </p>
+                        )}
+                      </footer>
+                    </article>
+                  );
+                })}
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <!-- 怎麼投票（問答；預設展開前三條）＋同日公投 -->
+    <section id="how-to-vote" class="anchor-section bg-white py-16 md:py-24">
+      <div class="mx-auto max-w-[760px] px-6">
+        <div class="mb-10 text-center">
+          <h2
+            class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
+            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+          >
+            {up.howToVote.title}
+          </h2>
+          <p
+            class="mx-auto max-w-[640px] text-base leading-[1.75] text-[#52525b]"
+          >
+            {up.howToVote.intro}
+          </p>
+        </div>
+
+        <div class="space-y-3">
+          {
+            faqItems.map((f, i) => (
+              <details
+                id={`vote-${f.id}`}
+                class="faq-item group rounded-xl border-[1.5px] border-[#e5e7eb] bg-white open:border-[#e7d9b8] open:bg-[#fffdf7]"
+                open={i < 3}
+              >
+                <summary class="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-4">
+                  <h3 class="text-base font-semibold text-[#1f2937] md:text-lg">
+                    {f.q}
+                  </h3>
+                  <span
+                    aria-hidden="true"
+                    class="faq-chevron shrink-0 text-[#92400e] transition-transform duration-[200ms]"
+                  >
+                    ▾
+                  </span>
+                </summary>
+                <div class="px-5 pb-5">
+                  <p class="text-[0.95rem] leading-[1.85] text-[#374151]">
+                    {f.a}
+                  </p>
+                  <p class="mt-3 text-xs leading-[1.7] text-[#78716c]">
+                    {up.howToVote.sourceLabel}
+                    {f.links.map((l, j) => (
+                      <>
+                        {j > 0 && up.candidates.listSep}
+                        <a
+                          href={l.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class="text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+                        >
+                          {up.links[l.kind]}
+                        </a>
+                      </>
+                    ))}
+                  </p>
+                </div>
+              </details>
+            ))
+          }
+        </div>
+
+        <!-- 同日公投：完全中立，只列程序事實 -->
+        <article
+          id="referendum"
+          class="anchor-section mt-12 rounded-2xl border-[1.5px] border-[#d1d5db] bg-[#f8fafc] p-6 md:p-8"
+        >
+          <div
+            class="mb-2 font-mono text-xs uppercase tracking-[0.18em] text-[#6b7280]"
+          >
+            {up.referendum.eyebrow}
+          </div>
+          <h3
+            class="mb-3 text-xl font-semibold text-[#1f2937] md:text-2xl"
+            style="font-family: 'Noto Serif TC', serif;"
+          >
+            {up.referendum.title}
+          </h3>
+          <p class="mb-6 text-[0.95rem] leading-[1.8] text-[#374151]">
+            {up.referendum.lead}
+          </p>
+
+          <div class="mb-6 rounded-xl border border-[#e5e7eb] bg-white p-5">
+            <div class="mb-2 text-xs text-[#6b7280]">
+              {up.referendum.questionLabel}
+            </div>
+            <p
+              class="text-lg font-semibold leading-[1.7] text-[#1f2937]"
+              lang="zh-Hant"
+              style="font-family: 'Noto Serif TC', serif;"
+            >
+              「{referendum.question}」
+            </p>
+            {
+              up.referendum.translation && (
+                <div class="mt-4 border-t border-[#f1f0ec] pt-3">
+                  <div class="mb-1 text-xs text-[#6b7280]">
+                    {up.referendum.translationLabel}
+                  </div>
+                  <p class="text-[0.95rem] leading-[1.7] text-[#374151]">
+                    {up.referendum.translation}
+                  </p>
+                </div>
+              )
+            }
+          </div>
+
+          <dl class="grid gap-4 sm:grid-cols-2">
+            {
+              up.referendum.facts.map((fact) => (
+                <div>
+                  <dt class="mb-1 text-xs font-semibold uppercase tracking-wider text-[#6b7280]">
+                    {fact.label}
+                  </dt>
+                  <dd class="text-sm leading-[1.75] text-[#374151]">
+                    {fact.text}
+                  </dd>
+                </div>
+              ))
+            }
+          </dl>
+
+          <p
+            class="mt-6 border-t border-[#e5e7eb] pt-4 text-xs leading-[1.7] text-[#6b7280]"
+          >
+            {up.referendum.neutral}
+          </p>
+          <p class="mt-2 text-xs leading-[1.7] text-[#6b7280]">
+            {up.referendum.sourceLabel}
+            {
+              referendum.sources.map((s, j) => (
+                <>
+                  {j > 0 && up.candidates.listSep}
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-[#374151] underline decoration-[#9ca3af] underline-offset-2 hover:text-[#1f2937]"
+                  >
+                    {up.links[s.kind]}
+                  </a>
+                </>
+              ))
+            }
+          </p>
+        </article>
+      </div>
+    </section>
+
     <!-- 選務時程（中選會第 622 次委員會議決議） -->
-    <section class="bg-white py-16 md:py-20">
+    <section
+      id="timeline"
+      class="anchor-section border-t border-[#f1f0ec] bg-white py-16 md:py-20"
+    >
       <div class="mx-auto max-w-[760px] px-6">
         <div class="mb-10 text-center">
           <h2
@@ -2168,7 +3503,12 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
         <div
           class="mt-10 border-t border-[#374151] pt-6 text-center text-xs text-[#9ca3af]"
         >
-          <p>{copy.verify.mvp}</p>
+          <p>
+            {copy.verify.mvp}{up.lastUpdated}<time
+              datetime={electionsData.lastVerified}
+              >{electionsData.lastVerified}</time
+            >
+          </p>
           <p class="mt-1">{copy.verify.roadmap}</p>
           <p class="mt-4 text-base text-[#f4f0ea]">
             {copy.verify.footerPrefix}
@@ -2178,9 +3518,61 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
       </div>
     </section>
   </main>
+
+  <script is:inline type="application/ld+json" set:html={eventJsonLd} />
+  <script is:inline type="application/ld+json" set:html={faqJsonLd} />
 </Layout>
 
+<script>
+  // 候選人篩選：無 JS 時按鈕維持 hidden、兩組全部顯示。
+  const filter = document.querySelector<HTMLElement>('[data-cand-filter]');
+  if (filter) {
+    filter.hidden = false;
+    const groups = document.querySelectorAll<HTMLElement>('[data-cand-group]');
+    const buttons = filter.querySelectorAll<HTMLButtonElement>(
+      'button[data-filter]',
+    );
+    filter.addEventListener('click', (event) => {
+      const target = event.target as HTMLElement | null;
+      const btn = target?.closest<HTMLButtonElement>('button[data-filter]');
+      if (!btn) return;
+      const key = btn.dataset.filter;
+      buttons.forEach((b) =>
+        b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'),
+      );
+      groups.forEach((g) => {
+        g.hidden = key !== 'all' && g.dataset.candGroup !== key;
+      });
+    });
+  }
+</script>
+
 <style>
+  .elections-2026 [hidden] {
+    display: none !important;
+  }
+  .elections-2026 .anchor-section {
+    scroll-margin-top: 80px;
+  }
+  .elections-2026 .cand-filter:not([hidden]) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .elections-2026 .cand-filter-btn[aria-pressed='true'] {
+    border-color: #1f2937;
+    background: #1f2937;
+    color: #fff;
+  }
+  .elections-2026 .cand-name {
+    overflow-wrap: anywhere;
+  }
+  .elections-2026 .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+  .elections-2026 .faq-item[open] .faq-chevron {
+    transform: rotate(180deg);
+  }
   .elections-2026 .hero-title {
     letter-spacing: -0.02em;
   }

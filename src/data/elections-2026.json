@@ -1,0 +1,1238 @@
+{
+  "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = research file order (registration date, CEC roster); re-sort by ballot number after the 2026-10-23 draw. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
+  "lastVerified": "2026-10-20",
+  "election": {
+    "date": "2026-11-28",
+    "startDate": "2026-11-28T08:00:00+08:00",
+    "endDate": "2026-11-28T16:00:00+08:00",
+    "organizer": "中央選舉委員會",
+    "source": "https://web.cec.gov.tw/central/article/63625"
+  },
+  "sources": {
+    "announcement": "https://web.cec.gov.tw/central/article/63625",
+    "announcementFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf",
+    "localAnnouncement": "https://web.cec.gov.tw/central/article/63644",
+    "roster": "https://web.cec.gov.tw/central/article/64709",
+    "qualified": "https://web.cec.gov.tw/central/article/65212",
+    "incumbent": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+    "law": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010",
+    "idRules": "https://law.cec.gov.tw/LawContent.aspx?id=FL044836",
+    "pollingPlaces": "https://web.cec.gov.tw/central/article/64374",
+    "bulletin": "https://bulletin.cec.gov.tw/",
+    "schedule": "https://web.cec.gov.tw/central/article/61722",
+    "pressRelease0820": "https://web.cec.gov.tw/central/article/63642",
+    "referendum": "https://web.cec.gov.tw/central/article/64775"
+  },
+  "offices": [
+    {
+      "key": "municipalMayor",
+      "type": "直轄市長",
+      "seats": 6,
+      "source": "https://web.cec.gov.tw/central/article/63625",
+      "sourceFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf"
+    },
+    {
+      "key": "municipalCouncilor",
+      "type": "直轄市議員",
+      "seats": 381,
+      "source": "https://web.cec.gov.tw/central/article/63625",
+      "sourceFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf"
+    },
+    {
+      "key": "countyMayor",
+      "type": "縣（市）長",
+      "seats": 16,
+      "source": "https://web.cec.gov.tw/central/article/63625",
+      "sourceFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf"
+    },
+    {
+      "key": "countyCouncilor",
+      "type": "縣（市）議員",
+      "seats": 538,
+      "source": "https://web.cec.gov.tw/central/article/63625",
+      "sourceFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf"
+    },
+    {
+      "key": "townshipChief",
+      "type": "鄉（鎮、市）長",
+      "seats": null,
+      "source": "https://web.cec.gov.tw/central/article/63644"
+    },
+    {
+      "key": "townshipRepresentative",
+      "type": "鄉（鎮、市）民代表",
+      "seats": null,
+      "source": "https://web.cec.gov.tw/central/article/63644"
+    },
+    {
+      "key": "indigenousDistrictChief",
+      "type": "直轄市山地原住民區長",
+      "seats": null,
+      "source": "https://web.cec.gov.tw/central/article/63644"
+    },
+    {
+      "key": "indigenousDistrictRepresentative",
+      "type": "直轄市山地原住民區民代表",
+      "seats": null,
+      "source": "https://web.cec.gov.tw/central/article/63644"
+    },
+    {
+      "key": "villageChief",
+      "type": "村（里）長",
+      "seats": null,
+      "source": "https://web.cec.gov.tw/central/article/63644"
+    }
+  ],
+  "totalElected": {
+    "count": 11051,
+    "source": "https://web.cec.gov.tw/central/article/63642"
+  },
+  "races": [
+    {
+      "area": "臺北市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "郭璽",
+          "party": "台灣麻將最大黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "沈伯洋",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "蕭文乾",
+          "party": "臺灣SoR無法黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "唐新民",
+          "party": "三勢團結促進聯盟",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "蔣萬安",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        },
+        {
+          "name": "林志成",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "新北市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "蘇巧慧",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "李四川",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "蘇輝湟",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "桃園市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "張善政",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        },
+        {
+          "name": "黃世杰",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "臺中市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "何欣純",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "江啟臣",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "洪麗華",
+          "party": "司法正義黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "臺南市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "謝龍介",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "蕭燐洪",
+          "party": "臺灣SoR無法黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "葉人文",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "陳亭妃",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "高雄市",
+      "office": "直轄市長",
+      "group": "municipal",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+      "candidates": [
+        {
+          "name": "張靜",
+          "party": "司法改革黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "賴瑞隆",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "王肇民",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "柯志恩",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        },
+        {
+          "name": "洪方隆",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+        }
+      ]
+    },
+    {
+      "area": "基隆市",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "謝國樑",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        },
+        {
+          "name": "魏造文",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "童子瑋",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "新竹市",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "高虹安",
+          "party": "無黨籍",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        },
+        {
+          "name": "莊競程",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "何志勇",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "嘉義市",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "黃宏成台灣阿成世界偉人財神總統",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "陳愷璜",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張啓楷",
+          "party": "台灣民眾黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "王美惠",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "王義成",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "新竹縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "鄭朝方",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "朱定瑀",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "徐欣瑩",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "苗栗縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "陳品安",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "鍾東錦",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        }
+      ]
+    },
+    {
+      "area": "彰化縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "陳重嘉",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "陳素月",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "邱建富",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "魏平政",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "南投縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "温世政",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "許淑華",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        }
+      ]
+    },
+    {
+      "area": "雲林縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "吳炳輝",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張嘉郡",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "劉建國",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "林佳瑜",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "嘉義縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "吳品叡",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "蔡易餘",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "屏東縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "蘇清泉",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "周春米",
+          "party": "民主進步黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        }
+      ]
+    },
+    {
+      "area": "宜蘭縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "陳宏毅",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "吳宗憲",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "劉燦輝",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "林國漳",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "楊鉯婷",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "花蓮縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "游淑貞",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張峻",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "魏嘉賢",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "羅佩秦",
+          "party": "台灣工黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "臺東縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "陳瑩",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "吳秀華",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "李吳穎智",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "王志偉",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "澎湖縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "吳淑瑾",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "陳振中",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "周倪安",
+          "party": "台聯黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "許智富",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "陳盡川",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "葉竹林",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "金門縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "洪和成",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "李文良",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "黃世團",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "陳玉珍",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張國威",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "梁文韜",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張火木",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    },
+    {
+      "area": "連江縣",
+      "office": "縣（市）長",
+      "group": "county",
+      "seats": 1,
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+      "candidates": [
+        {
+          "name": "王忠銘",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": null,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+        },
+        {
+          "name": "曹爾元",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": null,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        }
+      ]
+    }
+  ],
+  "votingInfo": [
+    {
+      "id": "when",
+      "links": [
+        {
+          "kind": "announcement",
+          "url": "https://web.cec.gov.tw/central/article/63625"
+        }
+      ],
+      "zh-TW": {
+        "q": "什麼時候投票？",
+        "a": "2026 年 11 月 28 日星期六，上午 8 點到下午 4 點。同一天、同一時段也舉行全國性公投第 22 案的投票。"
+      },
+      "en": {
+        "q": "When is voting day?",
+        "a": "Saturday, November 28, 2026, from 8 a.m. to 4 p.m. National Referendum Case No. 22 is voted on the same day during the same hours."
+      },
+      "ja": {
+        "q": "投票日はいつ？",
+        "a": "2026年11月28日（土）、午前8時から午後4時までです。同じ日の同じ時間帯に、全国公民投票第22案の投票も行われます。"
+      },
+      "ko": {
+        "q": "투표일은 언제인가요?",
+        "a": "2026년 11월 28일 토요일, 오전 8시부터 오후 4시까지입니다. 같은 날 같은 시간에 전국 국민투표 제22안 투표도 함께 진행됩니다."
+      },
+      "fr": {
+        "q": "Quand a lieu le scrutin ?",
+        "a": "Le samedi 28 novembre 2026, de 8 h à 16 h. Le référendum national n° 22 est voté le même jour, aux mêmes horaires."
+      },
+      "es": {
+        "q": "¿Cuándo se vota?",
+        "a": "El sábado 28 de noviembre de 2026, de 8:00 a 16:00. El referéndum nacional n.º 22 se vota el mismo día y en el mismo horario."
+      }
+    },
+    {
+      "id": "eligibility",
+      "links": [
+        {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+        }
+      ],
+      "zh-TW": {
+        "q": "誰可以投地方選舉？",
+        "a": "年滿 20 歲、在選舉區繼續住滿 4 個月以上的國民，年齡和居住期間都算到投票日前一天。8 月 20 日選舉公告發布後才把戶籍遷進選舉區的人，這次沒有投票權。"
+      },
+      "en": {
+        "q": "Who can vote in the local elections?",
+        "a": "Citizens aged 20 or older who have lived in the electoral district continuously for at least four months, with both counted up to the day before voting day. Anyone who moved their household registration into the district after the election announcement of August 20 cannot vote in this election."
+      },
+      "ja": {
+        "q": "地方選挙で投票できるのは？",
+        "a": "満20歳以上で、選挙区に4か月以上続けて住んでいる国民です。年齢と居住期間はどちらも投票日の前日までで数えます。8月20日の選挙公告の後に選挙区へ戸籍を移した人は、今回は投票できません。"
+      },
+      "ko": {
+        "q": "지방선거에는 누가 투표할 수 있나요?",
+        "a": "만 20세 이상이고 해당 선거구에 4개월 이상 계속 거주한 국민입니다. 나이와 거주 기간은 모두 투표일 전날까지로 계산합니다. 8월 20일 선거 공고 이후 선거구로 호적 등록을 옮긴 사람은 이번 선거에서 투표권이 없습니다."
+      },
+      "fr": {
+        "q": "Qui peut voter aux élections locales ?",
+        "a": "Les citoyens de 20 ans ou plus qui résident sans interruption dans la circonscription depuis au moins quatre mois, l’âge et la durée de résidence étant calculés jusqu’à la veille du scrutin. Les personnes qui ont transféré leur inscription au registre des ménages dans la circonscription après l’annonce électorale du 20 août ne peuvent pas voter cette fois."
+      },
+      "es": {
+        "q": "¿Quién puede votar en las elecciones locales?",
+        "a": "Los ciudadanos de 20 años o más que hayan vivido de forma continua en el distrito electoral durante al menos cuatro meses, contando ambos plazos hasta el día anterior a la votación. Quienes trasladaron su registro de hogar al distrito después del anuncio electoral del 20 de agosto no pueden votar en esta elección."
+      }
+    },
+    {
+      "id": "bring",
+      "links": [
+        {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+        },
+        {
+          "kind": "idRules",
+          "url": "https://law.cec.gov.tw/LawContent.aspx?id=FL044836"
+        }
+      ],
+      "zh-TW": {
+        "q": "投票要帶什麼？",
+        "a": "帶國民身分證。領票時在選舉人名冊上簽名、蓋章或按指印，三種選一種就可以，所以印章不是必要的。沒帶身分證就不能領票；身分證遺失、新證還沒拿到的人，要帶戶政機關發的貼照片臨時證明書。"
+      },
+      "en": {
+        "q": "What do I need to bring?",
+        "a": "Your National ID card. When you collect your ballots you sign, stamp a seal, or press a fingerprint on the voter roll, and any one of the three is enough, so a personal seal is optional. Without your ID card you cannot collect ballots. If your card was lost and the new one has not been issued yet, bring the temporary certificate with your photo from the household registration office."
+      },
+      "ja": {
+        "q": "投票に何を持っていく？",
+        "a": "国民身分証を持っていきます。投票用紙を受け取るときは、選挙人名簿に署名・押印・指印のどれか一つをすればよいので、印鑑は必須ではありません。身分証がないと投票用紙を受け取れません。身分証をなくして新しいものをまだ受け取っていない人は、戸政機関が発行した写真付きの臨時証明書を持っていきます。"
+      },
+      "ko": {
+        "q": "투표할 때 무엇을 가져가야 하나요?",
+        "a": "국민신분증을 가져가세요. 투표용지를 받을 때 선거인 명부에 서명, 도장, 지장 중 하나만 하면 되므로 도장은 필수가 아닙니다. 신분증이 없으면 투표용지를 받을 수 없습니다. 신분증을 잃어버리고 새 신분증을 아직 받지 못했다면 호적 기관이 발급한 사진 부착 임시 증명서를 가져가야 합니다."
+      },
+      "fr": {
+        "q": "Que faut-il apporter ?",
+        "a": "Votre carte d’identité nationale. Pour retirer les bulletins, vous signez, apposez un sceau ou une empreinte digitale sur la liste électorale, et une seule de ces trois options suffit, le sceau n’est donc pas obligatoire. Sans carte d’identité, vous ne pouvez pas retirer les bulletins. Si votre carte a été perdue et que la nouvelle n’est pas encore délivrée, apportez le certificat temporaire avec photo remis par le bureau d’enregistrement des ménages."
+      },
+      "es": {
+        "q": "¿Qué tengo que llevar?",
+        "a": "Tu documento nacional de identidad. Al recoger las papeletas firmas, pones tu sello o tu huella dactilar en el padrón, y basta con una de las tres opciones, así que el sello no es obligatorio. Sin el documento de identidad no puedes recoger las papeletas. Si lo perdiste y aún no tienes el nuevo, lleva el certificado temporal con foto que emite la oficina de registro de hogares."
+      }
+    },
+    {
+      "id": "where",
+      "links": [
+        {
+          "kind": "pollingPlaces",
+          "url": "https://web.cec.gov.tw/central/article/64374"
+        },
+        {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+        }
+      ],
+      "zh-TW": {
+        "q": "要去哪裡投票？",
+        "a": "到戶籍地的投票所投票。台灣沒有一般的不在籍投票，人在外地也要回戶籍地投。投票所地點由各縣市選委會公告，可以從中選會的投票所公告頁查到。"
+      },
+      "en": {
+        "q": "Where do I vote?",
+        "a": "At the polling station for your household registration address. Taiwan has no general absentee voting, so you need to go back to where your household is registered. Polling stations are announced by each city and county election commission, linked from the CEC polling station notice."
+      },
+      "ja": {
+        "q": "どこで投票する？",
+        "a": "戸籍地の投票所で投票します。台湾には一般的な不在者投票の制度がないので、ほかの地域にいても戸籍地に戻って投票します。投票所の場所は各県市の選挙委員会が公告していて、中央選挙委員会の投票所公告ページから確認できます。"
+      },
+      "ko": {
+        "q": "어디서 투표하나요?",
+        "a": "호적지의 투표소에서 투표합니다. 대만에는 일반적인 부재자 투표 제도가 없어서 다른 지역에 있어도 호적지로 돌아가 투표해야 합니다. 투표소 위치는 각 현·시 선거위원회가 공고하며, 중앙선거위원회 투표소 공고 페이지에서 확인할 수 있습니다."
+      },
+      "fr": {
+        "q": "Où voter ?",
+        "a": "Au bureau de vote rattaché à l’adresse où votre ménage est enregistré. Taïwan ne prévoit pas de vote à distance pour le grand public, il faut donc revenir voter là où votre ménage est enregistré. Les bureaux de vote sont annoncés par la commission électorale de chaque ville et comté, accessibles depuis l’avis de la Commission électorale centrale."
+      },
+      "es": {
+        "q": "¿Dónde voto?",
+        "a": "En el colegio electoral que corresponde al domicilio donde está registrado tu hogar. Taiwán no tiene voto en ausencia para el público general, así que hay que volver al lugar donde está registrado tu hogar. Los colegios electorales los anuncia la comisión electoral de cada ciudad y condado, y se pueden consultar desde el aviso de la Comisión Electoral Central."
+      }
+    },
+    {
+      "id": "rules",
+      "links": [
+        {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+        }
+      ],
+      "zh-TW": {
+        "q": "投票所裡要注意什麼？",
+        "a": "手機要關機才能帶進去，投票所裡不能拍照，圈完也不能把選票亮給別人看，違反規定可能被處罰。同一天有好幾種選舉，要一次進場全部投完，離開投票所就不能再進去投。"
+      },
+      "en": {
+        "q": "What are the rules inside the polling station?",
+        "a": "Phones must be switched off before you bring them in, photography is not allowed, and you may not show your marked ballot to anyone; violations can be penalized. With several elections on the same day, cast all your ballots in one visit, because once you leave the polling station you cannot go back in to vote."
+      },
+      "ja": {
+        "q": "投票所で気をつけることは？",
+        "a": "携帯電話は電源を切れば持ち込めます。投票所の中での撮影は禁止で、記入した投票用紙をほかの人に見せることもできず、違反すると処罰される場合があります。同じ日に複数の選挙があるので一度の入場ですべて投票し、投票所を出たら再び入って投票することはできません。"
+      },
+      "ko": {
+        "q": "투표소 안에서 주의할 점은?",
+        "a": "휴대전화는 전원을 꺼야 가지고 들어갈 수 있고, 투표소 안에서는 촬영할 수 없으며, 기표한 투표지를 다른 사람에게 보여줘서도 안 됩니다. 위반하면 처벌받을 수 있습니다. 같은 날 여러 선거가 있으므로 한 번 입장해 모두 투표해야 하며, 투표소를 나가면 다시 들어가 투표할 수 없습니다."
+      },
+      "fr": {
+        "q": "Quelles règles dans le bureau de vote ?",
+        "a": "Le téléphone doit être éteint pour entrer, les photos sont interdites et vous ne devez montrer votre bulletin à personne ; les infractions peuvent être sanctionnées. Plusieurs élections ayant lieu le même jour, votez pour toutes en une seule fois, car une fois sorti du bureau de vote vous ne pouvez plus y revenir pour voter."
+      },
+      "es": {
+        "q": "¿Qué normas hay dentro del colegio electoral?",
+        "a": "El teléfono debe estar apagado para entrar, no se permiten fotos y no puedes mostrar tu papeleta marcada a nadie; las infracciones pueden sancionarse. Como hay varias elecciones el mismo día, vota todas en una sola visita, porque si sales del colegio electoral no puedes volver a entrar a votar."
+      }
+    },
+    {
+      "id": "bulletin",
+      "links": [
+        {
+          "kind": "bulletin",
+          "url": "https://bulletin.cec.gov.tw/"
+        },
+        {
+          "kind": "schedule",
+          "url": "https://web.cec.gov.tw/central/article/61722"
+        }
+      ],
+      "zh-TW": {
+        "q": "選舉公報和政見發表會在哪裡看？",
+        "a": "選舉公報最晚在投票日前兩天送到每一戶，也會公開在中選會的選舉公報網站。公辦政見發表會：直轄市長在 11 月 13 日到 27 日，縣市長在 11 月 18 日到 27 日。"
+      },
+      "en": {
+        "q": "Where can I find the election bulletin and platform presentations?",
+        "a": "The election bulletin reaches every household no later than two days before voting day and is also published on the CEC bulletin website. Official platform presentations run November 13 to 27 for special municipality mayors and November 18 to 27 for county and city mayors."
+      },
+      "ja": {
+        "q": "選挙公報と政見発表会は？",
+        "a": "選挙公報は遅くとも投票日の2日前までに各世帯に届き、中央選挙委員会の選挙公報サイトでも公開されます。公営の政見発表会は、直轄市長が11月13日から27日、県市長が11月18日から27日です。"
+      },
+      "ko": {
+        "q": "선거 공보와 정견 발표회는 어디서 보나요?",
+        "a": "선거 공보는 늦어도 투표일 이틀 전까지 각 가구에 배달되며, 중앙선거위원회 선거 공보 웹사이트에도 공개됩니다. 공영 정견 발표회는 직할시장이 11월 13일부터 27일까지, 현·시장이 11월 18일부터 27일까지입니다."
+      },
+      "fr": {
+        "q": "Où consulter le bulletin électoral et les présentations de programmes ?",
+        "a": "Le bulletin électoral arrive dans chaque foyer au plus tard deux jours avant le scrutin et il est aussi publié sur le site des bulletins de la Commission électorale centrale. Les présentations officielles des programmes ont lieu du 13 au 27 novembre pour les maires des municipalités spéciales, et du 18 au 27 novembre pour les chefs de comté et maires de ville."
+      },
+      "es": {
+        "q": "¿Dónde consulto el boletín electoral y las presentaciones de programas?",
+        "a": "El boletín electoral llega a cada hogar a más tardar dos días antes de la votación y también se publica en el sitio de boletines de la Comisión Electoral Central. Las presentaciones oficiales de programas son del 13 al 27 de noviembre para alcaldes de municipios especiales y del 18 al 27 de noviembre para jefes de condado y alcaldes de ciudad."
+      }
+    },
+    {
+      "id": "counting",
+      "links": [
+        {
+          "kind": "law",
+          "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+        }
+      ],
+      "zh-TW": {
+        "q": "什麼時候開票？",
+        "a": "下午 4 點投票結束，投票所當場改成開票所，當眾唱名開票，開票結果會貼在開票所門口。"
+      },
+      "en": {
+        "q": "When are the votes counted?",
+        "a": "As soon as voting closes at 4 p.m., each polling station becomes a counting station on the spot. Ballots are read aloud and counted in public, and the results are posted at the station entrance."
+      },
+      "ja": {
+        "q": "開票はいつ？",
+        "a": "午後4時に投票が終わると、投票所はその場で開票所に切り替わり、公開で読み上げながら開票します。結果は開票所の入口に掲示されます。"
+      },
+      "ko": {
+        "q": "개표는 언제 하나요?",
+        "a": "오후 4시에 투표가 끝나면 투표소가 그 자리에서 개표소로 바뀌어 공개적으로 호명하며 개표합니다. 결과는 개표소 입구에 게시됩니다."
+      },
+      "fr": {
+        "q": "Quand commence le dépouillement ?",
+        "a": "Dès la clôture du vote à 16 h, chaque bureau de vote devient sur place un bureau de dépouillement. Les bulletins sont lus à voix haute et comptés en public, puis les résultats sont affichés à l’entrée."
+      },
+      "es": {
+        "q": "¿Cuándo se cuentan los votos?",
+        "a": "En cuanto cierra la votación a las 16:00, cada colegio electoral se convierte allí mismo en centro de escrutinio. Las papeletas se leen en voz alta y se cuentan en público, y los resultados se colocan en la entrada."
+      }
+    }
+  ],
+  "referendum": {
+    "case": 22,
+    "date": "2026-11-28",
+    "hours": "08:00-16:00",
+    "question": "你是否支持政府使用『核電』振興經濟，以廢除『非核家園』的能源政策？",
+    "proposedBy": "立法院",
+    "establishedOn": "2026-08-28",
+    "votingAge": 18,
+    "localElectionVotingAge": 20,
+    "threshold": "有效同意票多於不同意票，且有效同意票達投票權人總數四分之一",
+    "presentations": {
+      "count": 5,
+      "firstDate": "2026-11-12"
+    },
+    "sources": [
+      {
+        "kind": "referendumNotice",
+        "url": "https://web.cec.gov.tw/central/article/64775"
+      },
+      {
+        "kind": "referendumBulletin",
+        "url": "https://bulletin.cec.gov.tw/"
+      }
+    ]
+  }
+}
