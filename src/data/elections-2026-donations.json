@@ -1,0 +1,88 @@
+{
+  "$comment": "Taiwan.md /elections/2026/donations data. Facts only from reports/research/2026-10/elections-2026/donations-sources.json. Rules only: no candidate-level amounts. Area names normalised 巿→市 (CEC PDF uses U+5DFF in some names).",
+  "lastVerified": "2026-10-20",
+  "electionDate": "2026-11-28",
+  "sources": {
+    "pdlAll": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049",
+    "pdlArticle": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020049&flno=",
+    "svlAll": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010",
+    "svlArticle": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=",
+    "disclosureRules": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020139",
+    "cySchedule": "https://sunshine.cy.gov.tw/News_Content.aspx?n=473&s=12357",
+    "cyNoticeApril": "https://www-ws.cy.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg4NTUvMzY3NjYvYjkwYTM5NDYtZjRmMC00ZDQ0LWIxZGMtNDVmMzI0MGVkN2Y1LnBkZg%3d%3d&n=MV%2fplovmiLbms6jmhI%2fkuovpoIUtLTExNeW5tOWcsOaWueWFrOiBtzA0MjUucGRm&icon=..pdf",
+    "cyNoticeAugust": "https://www-ws.cy.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMS9yZWxmaWxlLzg4NTUvMzY3NzEvN2I4NjlmMmItYjQzYS00OWFlLTg1MzAtNDA2NmYzMTRmMTU1LnBkZg%3d%3d&n=NV%2fplovmiLbms6jmhI%2fkuovpoIUtLTExNeW5tOWcsOaWueWFrOiBtzA4MjAucGRm&icon=..pdf",
+    "cyAccounts": "https://sunshine.cy.gov.tw/PAQuery.aspx?n=21&sms=0",
+    "cna0421": "https://www.cna.com.tw/news/aipl/202604210144.aspx",
+    "cecAnnouncement": "https://web.cec.gov.tw/central/article/63625",
+    "cecAnnouncementFile": "https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf",
+    "cecLocalAnnouncement": "https://web.cec.gov.tw/central/article/63644",
+    "cecSchedule": "https://web.cec.gov.tw/central/article/61722",
+    "cecScheduleFile": "https://web.cec.gov.tw/api/file/e0c24179-c2d4-4deb-b145-2e89e24ad4f6.pdf",
+    "ardata": "https://ardata.cy.gov.tw/",
+    "ardataManual": "https://ardata.cy.gov.tw/instructions.pdf",
+    "ardataNews": "https://ardata.cy.gov.tw/news/latestNews",
+    "ardataLaunch": "https://www.cy.gov.tw/News_Content.aspx?n=124&s=14168",
+    "g0vMoneyFlow": "https://g0v-money-flow.github.io/elections/",
+    "g0vRepo": "https://github.com/g0v-money-flow/g0v-money-flow.github.io"
+  },
+  "timeline": [
+    { "id": "apply", "iso": "2026-04-22" },
+    { "id": "receiveStart", "iso": "2026-04-25" },
+    { "id": "applyLocal", "iso": "2026-08-17" },
+    { "id": "announce", "iso": "2026-08-20" },
+    { "id": "receiveEnd", "iso": "2026-11-27" },
+    { "id": "vote", "iso": "2026-11-28" },
+    { "id": "winners", "iso": "2026-12-04" },
+    { "id": "subsidy", "iso": "2027-01-03", "byDate": true },
+    { "id": "reportDeadline", "iso": "2027-02-28" },
+    { "id": "publish", "iso": null }
+  ],
+  "limits": {
+    "rows": [
+      { "donor": "individual", "same": 100000, "all": 300000 },
+      { "donor": "business", "same": 1000000, "all": 2000000 },
+      { "donor": "civicGroup", "same": 500000, "all": 1000000 }
+    ],
+    "partyToNominee": [
+      { "office": "mayor", "amount": 3000000 },
+      { "office": "councilor", "amount": 500000 },
+      { "office": "township", "amount": 300000 },
+      { "office": "representative", "amount": 100000 }
+    ]
+  },
+  "spendingCaps": {
+    "announcementNo": "中選務字第1153150253號",
+    "announcementDate": "2026-08-20",
+    "municipalMayors": [
+      { "area": "臺北市", "cap": 83986000 },
+      { "area": "新北市", "cap": 106551000 },
+      { "area": "桃園市", "cap": 82989000 },
+      { "area": "臺中市", "cap": 90149000 },
+      { "area": "臺南市", "cap": 75886000 },
+      { "area": "高雄市", "cap": 87960000 }
+    ],
+    "countyMayors": [
+      { "area": "新竹縣", "cap": 38376000 },
+      { "area": "苗栗縣", "cap": 37420000 },
+      { "area": "彰化縣", "cap": 46865000 },
+      { "area": "南投縣", "cap": 36543000 },
+      { "area": "雲林縣", "cap": 39074000 },
+      { "area": "嘉義縣", "cap": 36592000 },
+      { "area": "屏東縣", "cap": 40915000 },
+      { "area": "宜蘭縣", "cap": 36282000 },
+      { "area": "花蓮縣", "cap": 34360000 },
+      { "area": "臺東縣", "cap": 32912000 },
+      { "area": "澎湖縣", "cap": 31494000 },
+      { "area": "金門縣", "cap": 31933000 },
+      { "area": "連江縣", "cap": 30192000 },
+      { "area": "基隆市", "cap": 35024000 },
+      { "area": "新竹市", "cap": 36382000 },
+      { "area": "嘉義市", "cap": 33662000 }
+    ]
+  },
+  "previousPublication": [
+    { "iso": "2023-05-18", "scope": "countyMayorsMayorsIndigenousReps" },
+    { "iso": "2023-06-15", "scope": "townshipChiefsReps" },
+    { "iso": "2023-07-27", "scope": "councilorsVillageIndigenousChiefs" }
+  ]
+}

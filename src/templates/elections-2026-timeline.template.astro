@@ -1,0 +1,1163 @@
+---
+/**
+ * 2026 九合一選舉：完整選務時程（/elections/2026/timeline/）
+ *
+ * 資料：src/data/elections-2026-timeline.json（每筆附出處 key）
+ * 查證紀錄：reports/research/2026-10/elections-2026/timeline-sources.json
+ *
+ * 狀態在 build 時依台北日期判斷（網站每天重建）：
+ *   done = 結束日早於今天；now = 今天落在起訖之間；
+ *   next = 開始日最近的未來節點（同一天的都算）；其餘 upcoming。
+ * 分類篩選按鈕無 JS 時維持 hidden，時間軸全部顯示。
+ */
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import timelineDataRaw from '../data/elections-2026-timeline.json';
+
+type ItemText = { title: string; detail: string; voterTip?: string };
+type TimelineItem = {
+  id: string;
+  start: string;
+  end: string;
+  by?: boolean;
+  derived?: boolean;
+  cats: string[];
+  owner: string;
+  sources: string[];
+  [lang: string]: unknown;
+};
+type SourceEntry = { url: string; [lang: string]: string };
+type TimelineData = {
+  lastVerified: string;
+  sources: Record<string, SourceEntry>;
+  items: TimelineItem[];
+};
+type ItemState = 'done' | 'now' | 'next' | 'upcoming';
+
+type PageCopy = {
+  metaTitle: string;
+  metaDescription: string;
+  breadcrumbHome: string;
+  breadcrumbHere: string;
+  hero: {
+    eyebrow: string;
+    title: string;
+    subtitle: string;
+    todayLabel: string;
+    progress: string;
+    allDone: string;
+  };
+  voters: {
+    title: string;
+    intro: string;
+    bringTitle: string;
+    bring: Array<{ label: string; text: string }>;
+    whoTitle: string;
+    who: Array<{ label: string; text: string }>;
+  };
+  timeline: {
+    title: string;
+    intro: string;
+    filterLabel: string;
+    all: string;
+    cats: Record<string, string>;
+    states: Record<ItemState, string>;
+    ownerLabel: string;
+    sourceLabel: string;
+    voterTipLabel: string;
+    derivedBadge: string;
+    byTpl: string;
+  };
+  owners: Record<string, string>;
+  monthLabel: (year: number, month: number) => string;
+  notes: { title: string; items: string[]; lastVerified: string };
+  related: { title: string; items: Array<{ href: string; title: string }> };
+  footTitle: string;
+  footHome: string;
+  footLinks: Array<{ slug: string; label: string }>;
+};
+
+const data = timelineDataRaw as unknown as TimelineData;
+
+const EN_MONTHS = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+];
+
+// 只有 zh-TW / en / ja 有完整文案，其他語言退回 en（鍵是語言代碼）
+const copyAll: Record<string, PageCopy> = {
+  'zh-TW': {
+    metaTitle: '2026 九合一選舉完整選務時程：從選舉公告到新任就職',
+    metaDescription:
+      '2026 九合一選舉從中選會決定投票日、選舉公告、候選人登記、號次抽籤、名冊公告閱覽、公報送達、11 月 28 日投票開票，到 12 月 25 日新任就職，加上同日公投第 22 案的程序，每一筆都附中選會或法規出處。',
+    breadcrumbHome: '2026 九合一選舉',
+    breadcrumbHere: '完整選務時程',
+    hero: {
+      eyebrow: '🗳️ 中華民國 115 年地方公職人員選舉',
+      title: '完整選務時程',
+      subtitle:
+        '從中選會決定投票日，到新任地方首長和議員就職。九種地方選舉和同一天的公投第 22 案，法定步驟照日期排好。',
+      todayLabel: '依台北日期 {date} 判斷',
+      progress: '已完成 {done} 項，共 {total} 項',
+      allDone: '這場選舉的程序已全部走完',
+    },
+    voters: {
+      title: '選民要自己留意的日期',
+      intro:
+        '大部分選務由選委會和公所處理。下面這幾天跟你自己有關，錯過了可能影響投票。',
+      bringTitle: '投票日要帶什麼',
+      bring: [
+        {
+          label: '國民身分證',
+          text: '一定要帶，沒帶不能領票。身分證遺失、新證還沒拿到的人，帶戶政機關發的貼照片臨時證明書。',
+        },
+        {
+          label: '印章',
+          text: '可以不帶。領票時簽名、蓋章或按指印選一種就好。',
+        },
+        {
+          label: '投票通知單',
+          text: '上面寫著你的投票所。中選會每次投票前都提醒大家帶著。',
+        },
+      ],
+      whoTitle: '誰可以投',
+      who: [
+        {
+          label: '九種地方選舉',
+          text: '年滿 20 歲，在選舉區繼續住滿 4 個月。',
+        },
+        {
+          label: '公投第 22 案',
+          text: '年滿 18 歲、沒有受監護宣告，在中華民國繼續住滿 6 個月。所以 18、19 歲的人這次可以投公投，不能投地方選舉。',
+        },
+        {
+          label: '怎麼算',
+          text: '年齡和居住期間都算到投票日前一天，也就是 11 月 27 日，以戶籍登記為準。',
+        },
+      ],
+    },
+    timeline: {
+      title: '完整時間軸',
+      intro:
+        '每一筆都寫了日期、做什麼、誰負責和出處。可以用下面的按鈕只看某一類。',
+      filterLabel: '篩選分類',
+      all: '全部',
+      cats: {
+        admin: '選務',
+        candidates: '候選人',
+        referendum: '公投',
+        voters: '選民',
+      },
+      states: {
+        done: '已完成',
+        now: '進行中',
+        next: '下一站',
+        upcoming: '即將到來',
+      },
+      ownerLabel: '負責：',
+      sourceLabel: '出處：',
+      voterTipLabel: '選民注意：',
+      derivedBadge: '依法推算',
+      byTpl: '{date} 前',
+    },
+    owners: {
+      cec: '中選會',
+      commissions: '中選會與各地選委會',
+      localCommissions: '各直轄市、縣（市）選委會',
+      ly: '立法院',
+      parties: '政黨',
+      refSides: '正反雙方（立法院、反對意見代表人）',
+      household: '戶政機關',
+      districtOffices: '鄉（鎮、市、區）公所',
+      delivery: '選委會（公報）、公所（投票通知單）',
+      voters: '選民',
+      newOfficials: '當選人',
+    },
+    monthLabel: (y, m) => `${y} 年 ${m} 月`,
+    notes: {
+      title: '這頁怎麼整理的',
+      items: [
+        '日期來自中選會的選務工作進行程序表、公告、新聞稿、委員會議紀錄，以及全國法規資料庫的法條。每一筆都附出處連結。',
+        '立法院院會表決的日期查不到立法院自己的紀錄頁，用公視和聯合報兩家報導對照，並在該筆標明是媒體報導。',
+        '標「依法推算」的是照選罷法第 5 條期間算法推出來的法定期限。中選會程序表的「11 月 24 日前公告選舉人人數」也是用同一套算法得出，實際日期以各機關公告為準。',
+        '還沒查到、所以沒放進時間軸的：選舉人名冊的實際閱覽日、投票通知單的實際寄送日、2026 年公報的上網日、鄉鎮市長和村里長等五種選舉在各縣市的名單公告與政見會日期、開票結果網址。',
+        '「已完成／下一站」依網站建置當天的台北日期判斷，網站每天重建。',
+      ],
+      lastVerified: '最後查證：',
+    },
+    related: {
+      title: '延伸閱讀',
+      items: [
+        {
+          href: '/politics/%E9%81%B8%E8%88%89%E9%81%8E%E7%A8%8B',
+          title: '選舉過程',
+        },
+        {
+          href: '/politics/%E4%B8%AD%E9%81%B8%E6%9C%83%E5%88%B6%E5%BA%A6',
+          title: '中選會制度',
+        },
+        {
+          href: '/politics/%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1',
+          title: '選舉公報',
+        },
+        {
+          href: '/politics/%E5%8F%B0%E7%81%A3%E5%85%AC%E6%8A%95%E5%88%B6%E5%BA%A6',
+          title: '台灣公投制度',
+        },
+        {
+          href: '/politics/2026%20%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89',
+          title: '2026 九合一選舉',
+        },
+      ],
+    },
+    footTitle: '2026 九合一選舉專區',
+    footHome: '回到選舉專區',
+    footLinks: [
+      { slug: 'candidates', label: '候選人名冊' },
+      { slug: 'donations', label: '政治獻金' },
+      { slug: 'perspectives', label: '多視角觀點' },
+    ],
+  },
+  en: {
+    metaTitle: '2026 Taiwan Local Elections: Full Official Timeline',
+    metaDescription:
+      'Every legal step of Taiwan’s November 28, 2026 local elections and the same-day Referendum Case No. 22: election notices, candidate registration, ballot numbers, voter roll inspection, bulletins, voting, counting, results and the December 25 inauguration, each with an official source.',
+    breadcrumbHome: '2026 Local Elections',
+    breadcrumbHere: 'Full timeline',
+    hero: {
+      eyebrow:
+        '🗳️ 2026 Local Public Officials Election, Republic of China (Taiwan)',
+      title: 'Full official timeline',
+      subtitle:
+        'From the day the CEC set the election date to the day new mayors and councilors take office. Every legal step for the nine local races and the same-day Referendum Case No. 22, in date order.',
+      todayLabel: 'Status as of {date} (Taipei time)',
+      progress: '{done} of {total} steps completed',
+      allDone: 'Every step of this election has been completed',
+    },
+    voters: {
+      title: 'Dates voters should watch',
+      intro:
+        'Election commissions and district offices handle most of the process. These dates involve you directly, and missing them can affect your vote.',
+      bringTitle: 'What to bring on voting day',
+      bring: [
+        {
+          label: 'National ID card',
+          text: 'Required. Without it you cannot collect ballots. If you lost your card and the new one is not ready, bring the temporary certificate with photo from the household registration office.',
+        },
+        {
+          label: 'Personal seal',
+          text: 'Optional. When collecting ballots you can sign, stamp a seal or give a fingerprint.',
+        },
+        {
+          label: 'Voting notice card',
+          text: 'It shows your polling station. The CEC reminds voters to bring it before every vote.',
+        },
+      ],
+      whoTitle: 'Who can vote',
+      who: [
+        {
+          label: 'Nine local races',
+          text: 'Age 20 or older, with at least four months of continuous residence in the district.',
+        },
+        {
+          label: 'Referendum Case No. 22',
+          text: 'Age 18 or older, not under guardianship, with at least six months of continuous residence in Taiwan. So 18- and 19-year-olds can vote in the referendum but not in the local races.',
+        },
+        {
+          label: 'How it is counted',
+          text: 'Age and residence are counted up to the day before voting, November 27, based on household registration.',
+        },
+      ],
+    },
+    timeline: {
+      title: 'Full timeline',
+      intro:
+        'Each entry lists the date, what happens, who is responsible and the source. Use the buttons to show one category.',
+      filterLabel: 'Filter by category',
+      all: 'All',
+      cats: {
+        admin: 'Administration',
+        candidates: 'Candidates',
+        referendum: 'Referendum',
+        voters: 'Voters',
+      },
+      states: {
+        done: 'Done',
+        now: 'In progress',
+        next: 'Next',
+        upcoming: 'Upcoming',
+      },
+      ownerLabel: 'Responsible: ',
+      sourceLabel: 'Sources: ',
+      voterTipLabel: 'For voters: ',
+      derivedBadge: 'Calculated from law',
+      byTpl: 'By {date}',
+    },
+    owners: {
+      cec: 'Central Election Commission (CEC)',
+      commissions: 'CEC and local election commissions',
+      localCommissions: 'Municipal and county election commissions',
+      ly: 'Legislative Yuan',
+      parties: 'Political parties',
+      refSides: 'Both sides (Legislative Yuan, opposing representatives)',
+      household: 'Household registration offices',
+      districtOffices: 'Township and district offices',
+      delivery:
+        'Election commissions (bulletins), district offices (notice cards)',
+      voters: 'Voters',
+      newOfficials: 'Elected officials',
+    },
+    monthLabel: (y, m) => `${EN_MONTHS[m - 1]} ${y}`,
+    notes: {
+      title: 'How this page was compiled',
+      items: [
+        'Dates come from the CEC’s official work schedule, notices, press releases and meeting minutes, and from statutes in the Laws & Regulations Database. Every entry links to its sources.',
+        'We could not find the Legislative Yuan’s own record of its plenary vote, so that date is cross-checked against PTS and United Daily News reports and marked as a news report.',
+        'Entries marked “Calculated from law” are legal deadlines worked out with the counting rule in Article 5 of the Election and Recall Act. The CEC’s own date for publishing voter counts follows the same rule. Actual dates follow each agency’s notice.',
+        'Not yet found, so not on the timeline: actual voter roll inspection dates, the actual delivery date of voting notice cards, when the 2026 bulletins go online, county-level dates for the five township and village races, and the results website.',
+        'Done and Next labels are based on the Taipei date when the site was built. The site rebuilds daily.',
+      ],
+      lastVerified: 'Last verified: ',
+    },
+    related: {
+      title: 'Further reading',
+      items: [
+        {
+          href: '/en/politics/taiwan-election-process',
+          title: 'How elections work in Taiwan',
+        },
+        {
+          href: '/en/politics/central-election-commission',
+          title: 'The Central Election Commission',
+        },
+        {
+          href: '/en/politics/election-bulletin-system',
+          title: 'Election bulletins',
+        },
+        {
+          href: '/en/politics/taiwan-referendum-system',
+          title: 'Taiwan’s referendum system',
+        },
+        {
+          href: '/en/politics/2026-local-elections-taiwan',
+          title: '2026 local elections',
+        },
+      ],
+    },
+    footTitle: '2026 Local Elections hub',
+    footHome: 'Back to the elections hub',
+    footLinks: [
+      { slug: 'candidates', label: 'Candidate roster' },
+      { slug: 'donations', label: 'Political donations' },
+      { slug: 'perspectives', label: 'Perspectives' },
+    ],
+  },
+  ja: {
+    metaTitle: '2026年台湾統一地方選挙：選挙日程のすべて',
+    metaDescription:
+      '2026年11月28日の台湾統一地方選挙と同日の公民投票第22案について、選挙公告、候補者登録、番号抽選、名簿縦覧、公報の配達、投票・開票、結果公告、12月25日の就任まで、法定の手順を日付順に整理。すべて公式の出典付き。',
+    breadcrumbHome: '2026年統一地方選挙',
+    breadcrumbHere: '選挙日程',
+    hero: {
+      eyebrow: '🗳️ 中華民国115年 地方公職人員選挙',
+      title: '選挙日程のすべて',
+      subtitle:
+        '中央選挙委員会が投票日を決めた日から、新しい首長と議員が就任する日まで。9種類の地方選挙と同日の公民投票第22案の法定手順を日付順に並べました。',
+      todayLabel: '台北時間 {date} 時点の状況',
+      progress: '全 {total} 項目のうち {done} 項目が完了',
+      allDone: 'この選挙の手続きはすべて終わりました',
+    },
+    voters: {
+      title: '有権者が自分で確認したい日付',
+      intro:
+        '手続きの大半は選挙委員会と公所が進めます。次の日付はあなた自身に関わり、見逃すと投票に影響することがあります。',
+      bringTitle: '投票日に持っていくもの',
+      bring: [
+        {
+          label: '国民身分証',
+          text: '必須です。忘れると投票用紙を受け取れません。紛失して新しい証がまだ届かない人は、戸政機関が発行する写真付きの臨時証明書を持参します。',
+        },
+        {
+          label: '印鑑',
+          text: 'なくても大丈夫です。受け取り時は署名・押印・指印のどれか一つでかまいません。',
+        },
+        {
+          label: '投票通知書',
+          text: 'あなたの投票所が書かれています。中央選挙委員会は毎回、持参するよう呼びかけています。',
+        },
+      ],
+      whoTitle: '投票できる人',
+      who: [
+        {
+          label: '9種類の地方選挙',
+          text: '満20歳以上で、選挙区に4か月以上続けて住んでいる人。',
+        },
+        {
+          label: '公民投票第22案',
+          text: '満18歳以上、後見開始の審判を受けておらず、中華民国に6か月以上続けて住んでいる人。18歳と19歳は公民投票だけに投票できます。',
+        },
+        {
+          label: '数え方',
+          text: '年齢と居住期間は投票日の前日、11月27日までで計算し、戸籍の記録が基準です。',
+        },
+      ],
+    },
+    timeline: {
+      title: '日程の一覧',
+      intro:
+        '各項目に日付、内容、担当機関、出典を載せています。ボタンで分類ごとに絞り込めます。',
+      filterLabel: '分類で絞り込む',
+      all: 'すべて',
+      cats: {
+        admin: '選挙事務',
+        candidates: '候補者',
+        referendum: '公民投票',
+        voters: '有権者',
+      },
+      states: {
+        done: '完了',
+        now: '進行中',
+        next: '次の予定',
+        upcoming: '今後の予定',
+      },
+      ownerLabel: '担当：',
+      sourceLabel: '出典：',
+      voterTipLabel: '有権者へ：',
+      derivedBadge: '法令から算出',
+      byTpl: '{date}まで',
+    },
+    owners: {
+      cec: '中央選挙委員会',
+      commissions: '中央選挙委員会と各地の選挙委員会',
+      localCommissions: '各直轄市・県（市）選挙委員会',
+      ly: '立法院',
+      parties: '政党',
+      refSides: '賛否双方（立法院、反対意見の代表者）',
+      household: '戸政機関',
+      districtOffices: '郷鎮市区公所',
+      delivery: '選挙委員会（公報）、公所（投票通知書）',
+      voters: '有権者',
+      newOfficials: '当選者',
+    },
+    monthLabel: (y, m) => `${y}年${m}月`,
+    notes: {
+      title: 'このページの作り方',
+      items: [
+        '日付は中央選挙委員会の選挙事務日程表、公告、プレスリリース、委員会議事録と、全国法規データベースの条文によります。各項目に出典リンクがあります。',
+        '立法院本会議の採決日は立法院自身の記録ページが見つからず、公視と聯合報の報道で照合し、その項目に報道であることを明記しています。',
+        '「法令から算出」は、選挙罷免法第5条の期間の数え方で出した法定期限です。中央選挙委員会の「11月24日までに選挙人数を公告」も同じ数え方です。実際の日付は各機関の公告によります。',
+        'まだ確認できず、一覧に入れていないもの：選挙人名簿の実際の縦覧日、投票通知書の実際の配達日、2026年の公報の公開日、郷鎮市長や村里長など5種類の選挙の各県市での名簿公告と政見発表会の日程、開票結果のサイト。',
+        '「完了／次の予定」はサイトを生成した日の台北の日付で判断しています。サイトは毎日更新されます。',
+      ],
+      lastVerified: '最終確認：',
+    },
+    related: {
+      title: '関連記事',
+      items: [
+        {
+          href: '/ja/politics/taiwan-election-process',
+          title: '台湾の選挙の流れ',
+        },
+        {
+          href: '/ja/politics/central-election-commission',
+          title: '中央選挙委員会',
+        },
+        {
+          href: '/ja/politics/election-bulletin-system',
+          title: '選挙公報',
+        },
+        {
+          href: '/ja/politics/taiwan-referendum-system',
+          title: '台湾の公民投票制度',
+        },
+        {
+          href: '/ja/politics/2026-local-elections-taiwan',
+          title: '2026年統一地方選挙',
+        },
+      ],
+    },
+    footTitle: '2026年統一地方選挙 特集',
+    footHome: '特集トップへ戻る',
+    footLinks: [
+      { slug: 'candidates', label: '候補者名簿' },
+      { slug: 'donations', label: '政治献金' },
+      { slug: 'perspectives', label: 'さまざまな視点' },
+    ],
+  },
+};
+
+const lang = getLangFromUrl(Astro.url);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const cl = lang in copyAll ? lang : 'en';
+const c = copyAll[cl];
+const fill = (tpl: string, vars: Record<string, string | number>) =>
+  tpl.replace(/\{(\w+)\}/g, (_, k: string) => String(vars[k] ?? ''));
+
+const textOf = (item: TimelineItem): ItemText =>
+  (item[cl] ?? item.en) as ItemText;
+const sourceOf = (key: string) => {
+  const s = data.sources[key];
+  if (!s) return null;
+  return { url: s.url, label: s[cl] ?? s.en ?? key };
+};
+
+// ── 狀態：build 時用台北日期判斷 ─────────────────────────────────────
+const now = new Date();
+const todayIso = new Date(now.getTime() + 8 * 60 * 60 * 1000)
+  .toISOString()
+  .slice(0, 10);
+
+const items = [...data.items].sort(
+  (a, b) => a.start.localeCompare(b.start) || a.end.localeCompare(b.end),
+);
+const futureStarts = items
+  .filter((i) => i.start > todayIso)
+  .map((i) => i.start)
+  .sort();
+const nextStart = futureStarts[0] ?? null;
+const stateOf = (i: TimelineItem): ItemState => {
+  if (i.end < todayIso) return 'done';
+  if (i.start <= todayIso) return 'now';
+  if (i.start === nextStart) return 'next';
+  return 'upcoming';
+};
+
+const doneCount = items.filter((i) => stateOf(i) === 'done').length;
+const focusItems = items.filter((i) => {
+  const s = stateOf(i);
+  return s === 'now' || s === 'next';
+});
+
+const fmtDate = (i: TimelineItem) => {
+  const [y1, m1, d1] = i.start.split('-');
+  const [y2, m2, d2] = i.end.split('-');
+  let s = `${y1}/${m1}/${d1}`;
+  if (i.end !== i.start) s += y1 === y2 ? `–${m2}/${d2}` : `–${y2}/${m2}/${d2}`;
+  return i.by ? fill(c.timeline.byTpl, { date: s }) : s;
+};
+
+// 依開始月份分組
+const monthGroups: Array<{
+  key: string;
+  label: string;
+  items: TimelineItem[];
+}> = [];
+for (const item of items) {
+  const key = item.start.slice(0, 7);
+  let g = monthGroups.find((m) => m.key === key);
+  if (!g) {
+    const [y, m] = key.split('-').map(Number);
+    g = { key, label: c.monthLabel(y, m), items: [] };
+    monthGroups.push(g);
+  }
+  g.items.push(item);
+}
+
+const voterItems = items.filter((i) => i.cats.includes('voters'));
+const catKeys = ['admin', 'candidates', 'referendum', 'voters'];
+
+const stateChip: Record<ItemState, string> = {
+  done: 'bg-[#f0fdf4] text-[#15803d]',
+  now: 'bg-[#7c2d12] text-white',
+  next: 'bg-[#fef3c7] text-[#92400e]',
+  upcoming: 'bg-[#f3f4f6] text-[#6b7280]',
+};
+const stateDot: Record<ItemState, string> = {
+  done: 'border-[#15803d] bg-[#15803d]',
+  now: 'border-[#7c2d12] bg-[#7c2d12]',
+  next: 'border-[#7c2d12] bg-[#fef2ec]',
+  upcoming: 'border-[#d1d5db] bg-white',
+};
+
+// ── JSON-LD：BreadcrumbList ───────────────────────────────────────
+const toJsonLd = (value: unknown) =>
+  JSON.stringify(value).replace(/</g, '\\u003c');
+const site = Astro.site ?? Astro.url;
+const jsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: c.breadcrumbHome,
+      item: new URL(`${langPrefix}/elections/2026/`, site).toString(),
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: c.breadcrumbHere,
+      item: new URL(`${langPrefix}/elections/2026/timeline/`, site).toString(),
+    },
+  ],
+});
+
+const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
+const serif = "font-family: 'Noto Serif TC', serif;";
+// 出處連結沿用全站 main a 的底線與 ↗ 樣式，只調顏色
+const linkCls = 'text-[#6b7280] hover:text-[#374151]';
+---
+
+<Layout
+  lang={lang}
+  title={c.metaTitle}
+  description={c.metaDescription}
+  readerSettings
+>
+  <div class="elections-timeline">
+    <!-- Hero -->
+    <section
+      class="hero relative overflow-hidden border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+    >
+      <div
+        class="relative mx-auto max-w-[920px] px-4 pb-12 pt-8 md:px-6 md:pb-16"
+      >
+        <nav aria-label="breadcrumb" class="mb-8 text-sm text-[#78716c]">
+          <a
+            href={`${langPrefix}/elections/2026/`}
+            class="card-link text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+            >{c.breadcrumbHome}</a
+          >
+          <span aria-hidden="true" class="mx-1.5">/</span>
+          <span aria-current="page">{c.breadcrumbHere}</span>
+        </nav>
+
+        <div
+          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+        >
+          {c.hero.eyebrow}
+        </div>
+        <h1
+          class="hero-title mb-5 text-center text-[2.25rem] font-bold leading-[1.2] text-[#1f2937] md:text-[3rem]"
+          style={heading}
+        >
+          {c.hero.title}
+        </h1>
+        <p
+          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.8] text-[#52525b] md:text-lg"
+        >
+          {c.hero.subtitle}
+        </p>
+
+        <div
+          class="mx-auto max-w-[560px] rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/75 px-5 py-6 shadow-[0_4px_20px_rgba(124,45,18,0.08)] md:px-8"
+        >
+          <p class="mb-4 text-center text-xs text-[#78716c]">
+            {fill(c.hero.todayLabel, { date: todayIso.replace(/-/g, '/') })}
+            <span aria-hidden="true" class="mx-1.5">·</span>
+            {fill(c.hero.progress, { done: doneCount, total: items.length })}
+          </p>
+          {
+            focusItems.length > 0 ? (
+              <ul class="list-none space-y-3 pl-0">
+                {focusItems.map((i) => {
+                  const st = stateOf(i);
+                  return (
+                    <li class="flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
+                      <span
+                        class={`rounded-full px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider ${stateChip[st]}`}
+                      >
+                        {c.timeline.states[st]}
+                      </span>
+                      <span class="font-mono text-sm tabular-nums text-[#7c2d12]">
+                        {fmtDate(i)}
+                      </span>
+                      <a
+                        href={`#${i.id}`}
+                        class="card-link text-base font-semibold text-[#1f2937] no-underline hover:text-[#7c2d12]"
+                      >
+                        {textOf(i).title}
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            ) : (
+              <p class="text-center text-base font-semibold text-[#15803d]">
+                {c.hero.allDone}
+              </p>
+            )
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- 選民要自己留意的日期 -->
+    <section id="voters" class="anchor-section bg-[#fdfaf2] py-14 md:py-20">
+      <div class="mx-auto max-w-[920px] px-4 md:px-6">
+        <div class="mb-8 text-center">
+          <h2
+            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[2rem]"
+            style={heading}
+          >
+            {c.voters.title}
+          </h2>
+          <p
+            class="mx-auto max-w-[620px] text-base leading-[1.75] text-[#52525b]"
+          >
+            {c.voters.intro}
+          </p>
+        </div>
+
+        <ol class="grid list-none gap-4 pl-0 sm:grid-cols-2">
+          {
+            voterItems.map((i) => {
+              const st = stateOf(i);
+              const t = textOf(i);
+              return (
+                <li
+                  class={`rounded-xl border-[1.5px] bg-white p-5 ${
+                    st === 'done'
+                      ? 'border-[#e5e7eb] opacity-80'
+                      : 'border-[#e7d9b8]'
+                  }`}
+                >
+                  <div class="mb-2 flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
+                    <span class="font-mono text-sm font-semibold tabular-nums text-[#7c2d12]">
+                      {fmtDate(i)}
+                    </span>
+                    <span
+                      class={`rounded-full px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider ${stateChip[st]}`}
+                    >
+                      {c.timeline.states[st]}
+                    </span>
+                    {i.derived && (
+                      <span class="rounded border border-[#d1d5db] px-1.5 font-mono text-[10px] text-[#6b7280]">
+                        {c.timeline.derivedBadge}
+                      </span>
+                    )}
+                  </div>
+                  <h3
+                    class="mb-2 text-base font-semibold leading-[1.5] text-[#1f2937]"
+                    style={serif}
+                  >
+                    <a
+                      href={`#${i.id}`}
+                      class="card-link text-[#1f2937] no-underline hover:text-[#7c2d12]"
+                    >
+                      {t.title}
+                    </a>
+                  </h3>
+                  <p class="text-sm leading-[1.7] text-[#52525b]">
+                    {t.voterTip ?? t.detail}
+                  </p>
+                </li>
+              );
+            })
+          }
+        </ol>
+
+        <div class="mt-8 grid gap-4 md:grid-cols-2">
+          <div
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/70 p-5"
+          >
+            <h3
+              class="mb-3 text-base font-semibold text-[#1f2937]"
+              style={serif}
+            >
+              {c.voters.bringTitle}
+            </h3>
+            <dl class="m-0 space-y-2.5 text-sm leading-[1.7]">
+              {
+                c.voters.bring.map((b) => (
+                  <div>
+                    <dt class="font-semibold text-[#7c2d12]">{b.label}</dt>
+                    <dd class="text-[#52525b]">{b.text}</dd>
+                  </div>
+                ))
+              }
+            </dl>
+            <p class="mt-3 text-xs leading-[1.6] text-[#9ca3af]">
+              {c.timeline.sourceLabel}
+              {
+                ['law-e18', 'cec-idrules', 'cec-63642', 'cec-61230'].map(
+                  (k, idx) => {
+                    const s = sourceOf(k);
+                    return s ? (
+                      <>
+                        {idx > 0 && <span aria-hidden="true"> · </span>}
+                        <a
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class={linkCls}
+                        >
+                          {s.label}
+                        </a>
+                      </>
+                    ) : null;
+                  },
+                )
+              }
+            </p>
+          </div>
+          <div
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/70 p-5"
+          >
+            <h3
+              class="mb-3 text-base font-semibold text-[#1f2937]"
+              style={serif}
+            >
+              {c.voters.whoTitle}
+            </h3>
+            <dl class="m-0 space-y-2.5 text-sm leading-[1.7]">
+              {
+                c.voters.who.map((w) => (
+                  <div>
+                    <dt class="font-semibold text-[#7c2d12]">{w.label}</dt>
+                    <dd class="text-[#52525b]">{w.text}</dd>
+                  </div>
+                ))
+              }
+            </dl>
+            <p class="mt-3 text-xs leading-[1.6] text-[#9ca3af]">
+              {c.timeline.sourceLabel}
+              {
+                ['law-e14', 'law-e15', 'law-e4', 'law-r7', 'law-r8'].map(
+                  (k, idx) => {
+                    const s = sourceOf(k);
+                    return s ? (
+                      <>
+                        {idx > 0 && <span aria-hidden="true"> · </span>}
+                        <a
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class={linkCls}
+                        >
+                          {s.label}
+                        </a>
+                      </>
+                    ) : null;
+                  },
+                )
+              }
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 完整時間軸 -->
+    <section id="timeline" class="anchor-section bg-white py-14 md:py-20">
+      <div class="mx-auto max-w-[800px] px-4 md:px-6">
+        <div class="mb-8 text-center">
+          <h2
+            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[2rem]"
+            style={heading}
+          >
+            {c.timeline.title}
+          </h2>
+          <p
+            class="mx-auto max-w-[600px] text-base leading-[1.75] text-[#52525b]"
+          >
+            {c.timeline.intro}
+          </p>
+        </div>
+
+        <!-- 分類篩選：無 JS 時保持 hidden，時間軸全部顯示 -->
+        <div
+          class="tl-filter mb-8 justify-center"
+          data-tl-filter
+          role="group"
+          aria-label={c.timeline.filterLabel}
+          hidden
+        >
+          <button
+            type="button"
+            class="tl-filter-btn rounded-full border-[1.5px] border-[#d1d5db] bg-white px-4 py-1.5 text-sm font-semibold text-[#374151]"
+            data-filter="all"
+            aria-pressed="true">{c.timeline.all}</button
+          >
+          {
+            catKeys.map((k) => (
+              <button
+                type="button"
+                class="tl-filter-btn rounded-full border-[1.5px] border-[#d1d5db] bg-white px-4 py-1.5 text-sm font-semibold text-[#374151]"
+                data-filter={k}
+                aria-pressed="false"
+              >
+                {c.timeline.cats[k]}
+              </button>
+            ))
+          }
+        </div>
+
+        {
+          monthGroups.map((g) => (
+            <div class="tl-month mb-10 last:mb-0" data-tl-month>
+              <h3 class="mb-4 font-mono text-xs uppercase tracking-[0.16em] text-[#92400e]">
+                {g.label}
+              </h3>
+              <ol class="relative list-none border-l-[1.5px] border-[#e7d9b8] pl-5 md:pl-6">
+                {g.items.map((i) => {
+                  const st = stateOf(i);
+                  const t = textOf(i);
+                  return (
+                    <li
+                      id={i.id}
+                      class="tl-item relative mb-7 last:mb-0"
+                      data-cats={i.cats.join(' ')}
+                    >
+                      <span
+                        class={`absolute -left-[27px] top-1.5 block h-2.5 w-2.5 rounded-full border-2 md:-left-[31px] ${stateDot[st]}`}
+                        aria-hidden="true"
+                      />
+                      <div class="mb-1.5 flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
+                        <span
+                          class={`font-mono text-sm tabular-nums ${
+                            st === 'done'
+                              ? 'text-[#15803d]'
+                              : st === 'upcoming'
+                                ? 'text-[#6b7280]'
+                                : 'font-semibold text-[#7c2d12]'
+                          }`}
+                        >
+                          {fmtDate(i)}
+                        </span>
+                        <span
+                          class={`rounded-full px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider ${stateChip[st]}`}
+                        >
+                          {st === 'done' ? '✓ ' : ''}
+                          {c.timeline.states[st]}
+                        </span>
+                        {i.derived && (
+                          <span class="rounded border border-[#d1d5db] px-1.5 font-mono text-[10px] text-[#6b7280]">
+                            {c.timeline.derivedBadge}
+                          </span>
+                        )}
+                        {i.cats.map((k) => (
+                          <span class="rounded-full border border-[#e7d9b8] px-2 py-0.5 text-[11px] text-[#92400e]">
+                            {c.timeline.cats[k]}
+                          </span>
+                        ))}
+                      </div>
+                      <h4
+                        class={`mb-1.5 text-[1.05rem] font-semibold leading-[1.5] ${
+                          st === 'done' ? 'text-[#4b5563]' : 'text-[#1f2937]'
+                        }`}
+                        style={serif}
+                      >
+                        {t.title}
+                      </h4>
+                      <p class="mb-2 text-sm leading-[1.75] text-[#52525b]">
+                        {t.detail}
+                      </p>
+                      {t.voterTip && (
+                        <p class="mb-2 rounded-lg border-l-[3px] border-[#7c2d12]/50 bg-[#fef9ed] px-3 py-2 text-sm leading-[1.7] text-[#374151]">
+                          <span class="font-semibold text-[#7c2d12]">
+                            {c.timeline.voterTipLabel}
+                          </span>
+                          {t.voterTip}
+                        </p>
+                      )}
+                      <p class="text-xs leading-[1.7] text-[#9ca3af]">
+                        <span>
+                          {c.timeline.ownerLabel}
+                          <span class="text-[#6b7280]">
+                            {c.owners[i.owner] ?? i.owner}
+                          </span>
+                        </span>
+                        <span aria-hidden="true" class="mx-1.5">
+                          |
+                        </span>
+                        <span>
+                          {c.timeline.sourceLabel}
+                          {i.sources.map((k, idx) => {
+                            const s = sourceOf(k);
+                            return s ? (
+                              <>
+                                {idx > 0 && <span aria-hidden="true"> · </span>}
+                                <a
+                                  href={s.url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  class={linkCls}
+                                >
+                                  {s.label}
+                                </a>
+                              </>
+                            ) : null;
+                          })}
+                        </span>
+                      </p>
+                    </li>
+                  );
+                })}
+              </ol>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <!-- 這頁怎麼整理的 -->
+    <section class="border-t border-[#f1f0ec] bg-[#fdfaf2] py-12 md:py-16">
+      <div class="mx-auto max-w-[760px] px-4 md:px-6">
+        <h2
+          class="mb-5 text-center text-xl font-light text-[#1f2937] md:text-2xl"
+          style={heading}
+        >
+          {c.notes.title}
+        </h2>
+        <ul
+          class="list-none space-y-2.5 pl-0 text-sm leading-[1.75] text-[#52525b]"
+        >
+          {
+            c.notes.items.map((n) => (
+              <li class="flex gap-2.5">
+                <span class="text-[#92400e]" aria-hidden="true">
+                  ·
+                </span>
+                <span>{n}</span>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="mt-5 text-center text-xs text-[#9ca3af]">
+          {c.notes.lastVerified}<time datetime={data.lastVerified}
+            >{data.lastVerified}</time
+          >
+        </p>
+
+        <h3
+          class="mb-3 mt-10 text-center text-base font-semibold text-[#1f2937]"
+          style={serif}
+        >
+          {c.related.title}
+        </h3>
+        <div class="flex flex-wrap justify-center gap-2">
+          {
+            c.related.items.map((r) => (
+              <a
+                href={r.href}
+                class="card-link rounded-lg border-[1.5px] border-[#e5e7eb] bg-white px-3.5 py-1.5 text-sm text-[#374151] no-underline hover:border-[#7c2d12]/30 hover:text-[#7c2d12]"
+              >
+                {r.title}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- 底部導覽 -->
+    <section class="bg-white py-12">
+      <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
+        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+          {c.footTitle}
+        </h2>
+        <div class="flex flex-wrap justify-center gap-2.5">
+          <a
+            href={`${langPrefix}/elections/2026/`}
+            class="card-link rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            >← {c.footHome}</a
+          >
+          {
+            c.footLinks
+              // 多視角觀點等哲宇審過才上線，上線前不連結
+              .filter((l) => l.slug !== 'perspectives')
+              .map((l) => (
+                <a
+                  href={`${langPrefix}/elections/2026/${l.slug}/`}
+                  class="card-link rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                >
+                  {l.label}
+                </a>
+              ))
+          }
+        </div>
+      </div>
+    </section>
+
+    {/* BreadcrumbList 由全站 SEO.astro 依網址產生，子頁不重複輸出 */}
+  </div>
+</Layout>
+
+<script>
+  // 分類篩選：無 JS 時按鈕維持 hidden、時間軸全部顯示。
+  const filter = document.querySelector<HTMLElement>('[data-tl-filter]');
+  if (filter) {
+    filter.hidden = false;
+    const buttons = filter.querySelectorAll<HTMLButtonElement>(
+      'button[data-filter]',
+    );
+    const months = document.querySelectorAll<HTMLElement>('[data-tl-month]');
+    filter.addEventListener('click', (event) => {
+      const target = event.target as HTMLElement | null;
+      const btn = target?.closest<HTMLButtonElement>('button[data-filter]');
+      if (!btn) return;
+      const key = btn.dataset.filter ?? 'all';
+      buttons.forEach((b) =>
+        b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'),
+      );
+      months.forEach((m) => {
+        let visible = 0;
+        m.querySelectorAll<HTMLElement>('.tl-item').forEach((item) => {
+          const cats = (item.dataset.cats ?? '').split(' ');
+          const show = key === 'all' || cats.includes(key);
+          item.hidden = !show;
+          if (show) visible += 1;
+        });
+        m.hidden = visible === 0;
+      });
+    });
+  }
+</script>
+
+<style>
+  .elections-timeline [hidden] {
+    display: none !important;
+  }
+  .elections-timeline .anchor-section,
+  .elections-timeline .tl-item {
+    scroll-margin-top: 80px;
+  }
+  .elections-timeline .tl-filter:not([hidden]) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .elections-timeline .tl-filter-btn[aria-pressed='true'] {
+    border-color: #1f2937;
+    background: #1f2937;
+    color: #fff;
+  }
+  .elections-timeline .hero-title {
+    letter-spacing: -0.02em;
+  }
+  .elections-timeline h2 {
+    letter-spacing: -0.01em;
+  }
+  .elections-timeline .tl-item h4,
+  .elections-timeline .tl-item p {
+    overflow-wrap: anywhere;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(
+        circle at 20% 30%,
+        rgba(124, 45, 18, 0.05) 0%,
+        transparent 50%
+      ),
+      radial-gradient(
+        circle at 80% 70%,
+        rgba(146, 64, 14, 0.04) 0%,
+        transparent 50%
+      );
+    pointer-events: none;
+  }
+</style>

@@ -1,0 +1,34 @@
+{
+  "fetched_at": "2026-10-20",
+  "page": "/elections/2026/candidates/",
+  "note": "候選人與黨籍資料只來自 src/data/elections-2026.json（研究原檔 candidates.json）。本檔只記候選人子頁自己新查的來源。",
+  "items": [
+    {
+      "topic": "直轄市議員、縣（市）議員審定候選人總數",
+      "fact": "直轄市議員：受理登記 610 人，符合規定 605 人，不符合規定 5 人。縣（市）議員：受理登記 892 人，符合規定 887 人，不符合規定 5 人。（同一則新聞稿：直轄市長受理登記 23 人、縣（市）長 58 人，均符合規定。）",
+      "source": "https://web.cec.gov.tw/central/article/65212",
+      "api_fetched": "https://web.cec.gov.tw/api/central/article/65212 （需帶 Referer 與 User-Agent；頁面本文由前端載入，直接 curl 頁面只拿到標題）",
+      "published": "2026-10-16",
+      "quote": "三、直轄市議員候選人部分：受理登記計610人，符合規定者605人，不符合規定者5人…四、縣(市)議員候選人部分：受理登記計892人，符合規定者887人，不符合規定者5人"
+    },
+    {
+      "topic": "候選人抽籤、名單公告、公辦政見發表會日期",
+      "fact": "10/23 候選人抽籤決定號次；11/12 公告直轄市長候選人名單；11/17 公告直轄市議員、縣（市）長、縣（市）議員候選人名單；11/13–11/27 直轄市長公辦政見發表會；11/18–11/27 直轄市議員、縣（市）長、縣（市）議員公辦政見發表會。",
+      "source": "https://web.cec.gov.tw/central/article/61722",
+      "quote": "（六）115年10月23日 候選人抽籤決定號次…（八）115年11月12日 公告直轄市長選舉候選人名單…（十）115年11月17日 公告直轄市議員、縣（市）長、縣（市）議員選舉候選人名單"
+    },
+    {
+      "topic": "選舉公報送達與線上位置",
+      "fact": "選舉公報應於投票日二日前送達選舉區內各戶（2026-11-28 投票，約 11-26），並於選舉委員會網站公開；線上看中選會選舉及公民投票公報網站。截至 2026-10-20 該網站尚看不到 2026 年公報（voting-info.json 查證）。",
+      "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010",
+      "also": "https://bulletin.cec.gov.tw/",
+      "quote": "選舉公報應於投票日二日前送達選舉區內各戶，並應於選舉委員會網站公開（第47條）"
+    },
+    {
+      "topic": "現任標示",
+      "fact": "中選會登記名冊沒有現任欄位，現任依中央社 2026-09-04 整理，media 等級。",
+      "source": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+    }
+  ],
+  "display_i18n": "src/data/elections-2026-candidates.json：選區與政黨顯示名稱對照，複製自主頁 elections-2026.template.astro 的 areaI18n / partyI18n，不含任何候選人姓名。"
+}

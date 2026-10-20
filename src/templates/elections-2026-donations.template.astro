@@ -1,0 +1,1883 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import donationsDataRaw from '../data/elections-2026-donations.json';
+
+// 2026 九合一選舉：政治獻金透明度子頁。
+// 只寫規則、時程、查詢方法；不寫任何候選人的金額或評論。
+// 每個事實的原文出處：reports/research/2026-10/elections-2026/donations-sources.json
+
+type DonationsData = {
+  lastVerified: string;
+  electionDate: string;
+  sources: Record<string, string>;
+  timeline: Array<{ id: string; iso: string | null; byDate?: boolean }>;
+  limits: {
+    rows: Array<{ donor: string; same: number; all: number }>;
+    partyToNominee: Array<{ office: string; amount: number }>;
+  };
+  spendingCaps: {
+    announcementNo: string;
+    announcementDate: string;
+    municipalMayors: Array<{ area: string; cap: number }>;
+    countyMayors: Array<{ area: string; cap: number }>;
+  };
+  previousPublication: Array<{ iso: string; scope: string }>;
+};
+
+type Steps = {
+  name: string;
+  site: string;
+  desc: string;
+  url: string;
+  steps: string[];
+  note?: string;
+};
+
+type DonationsCopy = {
+  metaTitle: string;
+  metaDescription: string;
+  breadcrumbHome: string;
+  breadcrumbHere: string;
+  eyebrow: string;
+  titlePrefix: string;
+  titleEmphasis: string;
+  titleSuffix: string;
+  subtitle: string;
+  stance: string;
+  facts: Array<{ value: string; label: string }>;
+  nav: Array<{ href: string; label: string }>;
+  navLabel: string;
+  // 出處列
+  sourceLabel: string;
+  sourceNote: string;
+  listSep: string;
+  groupSep: string;
+  pdlName: string;
+  svlName: string;
+  artLabel: (n: number) => string;
+  docs: Record<string, string>;
+  money: (n: number) => string;
+  byDate: (date: string) => string;
+  timeline: {
+    title: string;
+    intro: string;
+    doneLabel: string;
+    nextLabel: string;
+    publishDate: string;
+    labels: Record<string, string>;
+  };
+  who: {
+    title: string;
+    receiveTitle: string;
+    receiveBody: string[];
+    donateTitle: string;
+    donateBody: string;
+    excluded: string[];
+    memberNote: string;
+    foreignNote: string;
+  };
+  limits: {
+    title: string;
+    intro: string;
+    colDonor: string;
+    colSame: string;
+    colAll: string;
+    donors: Record<string, string>;
+    partyTitle: string;
+    partyIntro: string;
+    offices: Record<string, string>;
+    penalty: string;
+  };
+  cash: {
+    title: string;
+    items: string[];
+  };
+  account: {
+    title: string;
+    items: string[];
+    tipTitle: string;
+    tip: string;
+  };
+  tax: {
+    title: string;
+    items: string[];
+  };
+  caps: {
+    title: string;
+    intro: string;
+    formulaTitle: string;
+    formula: string;
+    usesTitle: string;
+    uses: string;
+    tableMunicipal: string;
+    tableCounty: string;
+    colArea: string;
+    colCap: string;
+    note: string;
+  };
+  subsidy: {
+    title: string;
+    items: string[];
+    example: string;
+  };
+  report: {
+    title: string;
+    items: string[];
+    prevTitle: string;
+    prevIntro: string;
+    prev: Record<string, string>;
+    prevOutro: string;
+  };
+  howto: {
+    title: string;
+    intro: string;
+    stepsLabel: string;
+    accounts: Steps;
+    ardata: Steps;
+    g0v: Steps;
+    whenTitle: string;
+    when: string;
+  };
+  related: {
+    title: string;
+    articles: Array<{ href: string; title: string; desc: string }>;
+  };
+  footTitle: string;
+  footHome: string;
+  footLinks: Array<{ slug: string; label: string }>;
+  verified: (date: string) => string;
+};
+
+const data = donationsDataRaw as unknown as DonationsData;
+const src = data.sources;
+
+// 選區名稱：中文頁用中選會用字，英日文頁用譯名（另附中文原字）
+const areaI18n: Record<string, { en: string; ja: string }> = {
+  臺北市: { en: 'Taipei City', ja: '台北市' },
+  新北市: { en: 'New Taipei City', ja: '新北市' },
+  桃園市: { en: 'Taoyuan City', ja: '桃園市' },
+  臺中市: { en: 'Taichung City', ja: '台中市' },
+  臺南市: { en: 'Tainan City', ja: '台南市' },
+  高雄市: { en: 'Kaohsiung City', ja: '高雄市' },
+  新竹縣: { en: 'Hsinchu County', ja: '新竹県' },
+  苗栗縣: { en: 'Miaoli County', ja: '苗栗県' },
+  彰化縣: { en: 'Changhua County', ja: '彰化県' },
+  南投縣: { en: 'Nantou County', ja: '南投県' },
+  雲林縣: { en: 'Yunlin County', ja: '雲林県' },
+  嘉義縣: { en: 'Chiayi County', ja: '嘉義県' },
+  屏東縣: { en: 'Pingtung County', ja: '屏東県' },
+  宜蘭縣: { en: 'Yilan County', ja: '宜蘭県' },
+  花蓮縣: { en: 'Hualien County', ja: '花蓮県' },
+  臺東縣: { en: 'Taitung County', ja: '台東県' },
+  澎湖縣: { en: 'Penghu County', ja: '澎湖県' },
+  金門縣: { en: 'Kinmen County', ja: '金門県' },
+  連江縣: { en: 'Lienchiang County', ja: '連江県' },
+  基隆市: { en: 'Keelung City', ja: '基隆市' },
+  新竹市: { en: 'Hsinchu City', ja: '新竹市' },
+  嘉義市: { en: 'Chiayi City', ja: '嘉義市' },
+};
+
+const wan = (n: number) => (n / 10000).toLocaleString('en-US');
+
+// 文案：鍵是語言代碼；沒有的語言退回 en
+const copyAll: Record<string, DonationsCopy> = {
+  'zh-TW': {
+    metaTitle: '2026 九合一選舉政治獻金：誰能捐、捐多少、選後去哪裡查',
+    metaDescription:
+      '2026 九合一選舉的政治獻金規則：誰可以捐、個人和企業一年的捐贈上限、匿名與現金限制、收受期間到 11 月 27 日、會計報告書 2027 年 2 月 28 日前申報，以及監察院平臺和 g0v 選舉金流怎麼查。每一段都附《政治獻金法》條文或中選會、監察院公告。',
+    breadcrumbHome: '2026 九合一選舉',
+    breadcrumbHere: '政治獻金',
+    eyebrow: '🗳️ 2026 九合一選舉 · 政治獻金透明度',
+    titlePrefix: '候選人的',
+    titleEmphasis: '錢',
+    titleSuffix: '，從哪裡來',
+    subtitle: '誰可以捐、一年能捐多少、什麼時候能收、選後去哪裡查。',
+    stance:
+      '這頁只整理規則、時程和查詢方法。不寫任何候選人的金額，也不評論任何人。',
+    facts: [
+      { value: '11/27', label: '收受政治獻金截止（投票日前一天）' },
+      { value: '2027/2/28', label: '會計報告書申報截止（遇假日順延）' },
+      { value: '6 個月內', label: '申報截止後，監察院依法公開上網' },
+    ],
+    nav: [
+      { href: '#timeline', label: '時間軸' },
+      { href: '#rules', label: '捐款規則' },
+      { href: '#spending', label: '競選經費與補貼' },
+      { href: '#how-to-check', label: '怎麼查' },
+    ],
+    navLabel: '頁內導覽',
+    sourceLabel: '出處：',
+    sourceNote: '',
+    listSep: '、',
+    groupSep: '；',
+    pdlName: '政治獻金法',
+    svlName: '公職人員選舉罷免法',
+    artLabel: (n) => `第 ${n} 條`,
+    docs: {
+      cySchedule: '監察院政治獻金時程表',
+      cyNoticeApril: '監察院專戶許可注意事項（4 月起收受的六類）',
+      cyNoticeAugust: '監察院專戶許可注意事項（代表與村里長）',
+      cyAccounts: '監察院政治獻金專戶公告資料',
+      cna0421: '中央社 2026/4/21',
+      cecAnnouncement: '中選會 2026/8/20 選舉公告',
+      cecAnnouncementFile: '公告原文（PDF）',
+      cecLocalAnnouncement: '中選會：其他五類選舉公告',
+      cecScheduleFile: '中選會選舉工作進行程序表（PDF）',
+      disclosureRules: '政治獻金會計報告書公開及查閱辦法',
+      ardata: '監察院政治獻金公開查閱平臺',
+      ardataNews: '監察院平臺公告',
+      ardataManual: '平臺使用說明（PDF）',
+      ardataLaunch: '監察院 2019/8/14 新聞稿',
+      g0vMoneyFlow: 'g0v 選舉金流',
+      g0vRepo: '網站原始碼庫',
+    },
+    money: (n) => `${wan(n)} 萬元`,
+    byDate: (d) => `${d} 前`,
+    timeline: {
+      title: '從開專戶到帳本公開',
+      intro:
+        '下面是直轄市長、縣市長和議員擬參選人的時程。鄉鎮市民代表、山地原住民區民代表和村里長起步比較晚，另外標出來。',
+      doneLabel: '已過',
+      nextLabel: '下一站',
+      publishDate: '2027 年',
+      labels: {
+        apply:
+          '監察院開始受理專戶許可申請（直轄市長、直轄市議員、縣市長、縣市議員、鄉鎮市長、山地原住民區長）',
+        receiveStart: '上面這些擬參選人的專戶經許可後，開始可以收政治獻金',
+        applyLocal:
+          '鄉鎮市民代表、山地原住民區民代表、村里長擬參選人開始申請專戶',
+        announce:
+          '中選會發布選舉公告，同時公告各選區的競選經費最高金額；代表與村里長擬參選人開始可以收',
+        receiveEnd: '所有擬參選人停止收受政治獻金（投票日前一天）',
+        vote: '投票日',
+        winners: '中選會公告直轄市長、縣市長與議員的當選人名單',
+        subsidy:
+          '選委會算好競選費用補貼，通知候選人領取（當選人名單公告後 30 天內）',
+        reportDeadline:
+          '擬參選人向監察院申報會計報告書的截止日（投票日後三個月內，遇假日順延到下一個上班日）',
+        publish: '監察院把會計報告書公開上網（法定期限：申報截止後六個月內）',
+      },
+    },
+    who: {
+      title: '誰可以收，誰可以捐',
+      receiveTitle: '可以收的人',
+      receiveBody: [
+        '只有政黨、政治團體和擬參選人可以收政治獻金。',
+        '擬參選人指在法定收受期間內，已經登記或有意登記參選的人。',
+        '擬參選人的配偶、子女、二親等內親屬或同住共財的家屬代收，按收到的金額罰三倍。',
+      ],
+      donateTitle: '可以捐的人',
+      donateBody: '個人、政黨、人民團體和營利事業都可以捐，下面 11 種除外：',
+      excluded: [
+        '公營事業，或政府持有資本達 20% 的民營企業',
+        '跟政府機關（構）有巨額採購或重大公共建設投資契約，而且還在履約期間的廠商',
+        '有累積虧損、還沒依規定彌補的營利事業（看前一年度的財務報表）',
+        '宗教團體',
+        '其他政黨，或同一種選舉的擬參選人（依法共同推薦同一組候選人的政黨除外）',
+        '沒有選舉權的人',
+        '外國人民、法人、團體或其他機構，或主要成員是外國人民、法人、團體或其他機構的法人、團體或機構',
+        '大陸地區人民、法人、團體或其他機構，或主要成員是大陸地區人民、法人、團體或其他機構的法人、團體或機構',
+        '香港、澳門居民、法人、團體或其他機構，或主要成員是港澳居民、法人、團體或其他機構的法人、團體或機構',
+        '政黨經營或投資的事業',
+        '跟政黨經營或投資的事業有巨額採購契約，而且還在履約期間的廠商',
+      ],
+      memberNote:
+        '第 7 到 9 款說的「主要成員」，指擔任本國團體或法人的董事長；或占董事、監察人等職務總名額超過三分之一；或占股份有限公司股東權 30% 以上，其他公司、法人、團體則是股東或社員人數超過三分之一。',
+      foreignNote:
+        '收到外國、大陸地區或港澳來源的獻金，不能退回捐贈者，要繳交監察院辦理繳庫。',
+    },
+    limits: {
+      title: '一年最多能捐多少',
+      intro:
+        '上限以「每年」計算，也就是同一年度內捐贈的合計。這一屆的收受期間從 4 月到 11 月，都落在 2026 年。',
+      colDonor: '捐贈者',
+      colSame: '對同一位擬參選人',
+      colAll: '對不同擬參選人合計',
+      donors: {
+        individual: '個人',
+        business: '營利事業',
+        civicGroup: '人民團體',
+      },
+      partyTitle: '政黨捐給自己推薦的人',
+      partyIntro: '政黨對自己推薦的同一位擬參選人，金錢捐贈另有上限：',
+      offices: {
+        mayor: '直轄市長、縣市長',
+        councilor: '直轄市議員、縣市議員',
+        township: '鄉鎮市長、山地原住民區長',
+        representative: '鄉鎮市民代表、山地原住民區民代表、村里長',
+      },
+      penalty: '超過上限捐贈的人，會按違反規定的捐贈金額，被處兩倍以下的罰鍰。',
+    },
+    cash: {
+      title: '匿名、現金和收據',
+      items: [
+        '不能用別人的名義捐。',
+        '匿名捐贈不能超過 1 萬元。',
+        '擬參選人收到的匿名獻金，總額不能超過這次申報收入總額的 30%，超過的部分要繳庫。',
+        '超過 10 萬元的現金捐贈，要開支票或透過金融機構匯款。用遺囑捐贈的不在此限。',
+        '收到的錢要在 15 天內存進專戶。',
+        '收到獻金要開收據；匿名和遺囑捐贈不用開。',
+      ],
+    },
+    account: {
+      title: '先開專戶，經監察院許可才能收',
+      items: [
+        '擬參選人要先到金融機構開一個政治獻金專戶，報監察院許可後才能收錢。監察院許可後會公告。',
+        '專戶只能有一個，沒有監察院同意不能變更或廢止。',
+        '戶名有固定格式，例如「115 年○○市市長擬參選人○○○政治獻金專戶」。',
+        '可以用自然人憑證線上申請，也可以把紙本寄到監察院。監察院提醒不要太早開戶，避免在收受期間開始前就收到錢。',
+        '沒經許可就收政治獻金，處三年以下有期徒刑，可以併科 20 萬到 100 萬元罰金。',
+      ],
+      tipTitle: '捐款前，先確認專戶',
+      tip: '到監察院陽光法令主題網的「政治獻金專戶公告資料」，專戶類別選「擬參選人」、選舉種類選 115 年的選舉，就能查到已經許可的專戶。',
+    },
+    tax: {
+      title: '捐了可以抵稅嗎',
+      items: [
+        '個人：報綜合所得稅時可以列舉扣除。每一申報戶最多扣當年度綜合所得總額的 20%，而且不超過 20 萬元。',
+        '營利事業：可以列為當年度費用或損失，最多扣所得額的 10%，而且不超過 50 萬元。',
+        '下面幾種不能扣：沒有拿到收據、捐贈本身違法、獻金被退回或繳庫，以及捐給後來沒有登記成候選人或資格被撤銷的人（擬參選人收受後過世的除外）。',
+      ],
+    },
+    caps: {
+      title: '各選區的競選經費最高金額',
+      intro:
+        '中選會在 2026 年 8 月 20 日發布選舉公告，同一份公告列出每個選區的競選經費最高金額。下表是直轄市長和縣市長的部分。',
+      formulaTitle: '怎麼算出來的',
+      formula:
+        '首長選舉的算法：選舉區人口總數的 70%，乘以 20 元，再加上固定金額。直轄市長的固定金額是 5,000 萬元，縣市長是 3,000 萬元。人口以投票月前第六個月底的戶籍人口為準，未滿一千元的尾數以一千元計。',
+      usesTitle: '這個金額拿來做什麼',
+      uses: '法條裡有兩個用途。候選人的競選支出在這個金額以內，扣掉政治獻金和政府補貼後的餘額，可以在報綜合所得稅時列舉扣除。選舉補貼的總額也不能超過這個金額。',
+      tableMunicipal: '直轄市長',
+      tableCounty: '縣市長',
+      colArea: '選舉區',
+      colCap: '最高金額（新臺幣元）',
+      note: '直轄市議員、縣市議員各選區的金額也列在同一份公告裡。鄉鎮市長、鄉鎮市民代表、山地原住民區長與區民代表、村里長的選舉公告由各地選委會發布，中選會網站有彙整頁。',
+    },
+    subsidy: {
+      title: '得票夠多，每票補貼 30 元',
+      items: [
+        '只選一人的選區（例如縣市長）：得票數達到當選票數的三分之一以上。',
+        '選兩人以上的選區（例如議員）：得票數達到最低當選票數的二分之一以上。最低當選票數如果是婦女保障名額當選的，改用前一名當選人的票數。',
+        '符合門檻的候選人每票補貼 30 元，總額不超過該選區的競選經費最高金額。',
+        '選委會在當選人名單公告後 30 天內算好金額，通知候選人在三個月內領取。',
+      ],
+      example:
+        '舉例來說，一位候選人拿到 10 萬票、也過了門檻，補貼就是 300 萬元。',
+    },
+    report: {
+      title: '選後三個月申報，之後半年內公開',
+      items: [
+        '擬參選人要在投票日後三個月內，向監察院申報會計報告書。這一屆的截止日是 2027 年 2 月 28 日，遇到假日順延到下一個上班日。',
+        '收到的獻金達 1,000 萬元的，要在投票日後 70 天內委託會計師查核簽證。',
+        '會計報告書要列出各類收入和支出；收支超過 3 萬元的對象，要寫明詳細資料。',
+        '監察院要在申報截止後六個月內公開上網，內容包括收支結算表，以及各項捐贈收入和支出的明細。個人的身分證字號、戶籍和通訊地址不公開，或只公開部分。',
+      ],
+      prevTitle: '上一屆花了多久',
+      prevIntro: '2022 年那一屆，監察院在投票隔年分三批公開：',
+      prev: {
+        countyMayorsMayorsIndigenousReps:
+          '縣市長、直轄市長、山地原住民區民代表',
+        townshipChiefsReps: '鄉鎮市長、鄉鎮市民代表',
+        councilorsVillageIndigenousChiefs:
+          '直轄市議員、縣市議員、村里長、山地原住民區長',
+      },
+      prevOutro:
+        '照這個節奏，2026 這一屆的帳本大約要到 2027 年年中才會陸續上線。確切日期以監察院平臺公告為準。',
+    },
+    howto: {
+      title: '自己動手查',
+      intro:
+        '選舉期間帳本還不會公開，現在查得到的是哪些專戶已經許可。選後資料上線，再用下面兩個網站搭配著查。',
+      stepsLabel: '步驟',
+      accounts: {
+        name: '現在就能查：專戶許可名單',
+        site: '監察院陽光法令主題網',
+        desc: '確認你想捐的人有沒有經過許可的專戶。',
+        url: src.cyAccounts,
+        steps: [
+          '打開陽光法令主題網的「政治獻金專戶公告資料」頁面。',
+          '專戶類別選「擬參選人」。',
+          '選舉種類選 115 年的選舉，例如「115年縣(市)長選舉」，再按查詢。',
+        ],
+      },
+      ardata: {
+        name: '監察院政治獻金公開查閱平臺',
+        site: 'ardata.cy.gov.tw',
+        desc: '2019 年 8 月 14 日啟用。官方資料都在這裡，可以下載成試算表。',
+        url: src.ardata,
+        steps: [
+          '第一次進站要輸入畫面上的驗證碼，讀完使用須知後按「同意」。',
+          '想看一整場選舉，用「選舉查詢」選選舉名稱。想找特定的人或公司，用「一般查詢」輸入關鍵字，可以指定查擬參選人、捐贈者或支出對象。',
+          '「進階查詢」可以再限定選舉年度、縣市、交易日期、金額範圍，或只看 3 萬元以上的收支。',
+          '在選舉查詢或專戶查詢的結果頁點下載，會拿到一個壓縮檔，裡面有收入明細、支出明細和收支結算表。用 Excel 的匯入文字功能開啟，才不會把「7-11」這類名稱誤判成日期。',
+        ],
+        note: '依平臺使用須知，查到的資料不能拿去營利、徵信或其他不正當用途。',
+      },
+      g0v: {
+        name: 'g0v 選舉金流（金流百科）',
+        site: 'g0v-money-flow.github.io',
+        desc: '公民科技社群 g0v 做的視覺化網站，把監察院的資料畫成比較圖。',
+        url: src.g0vMoneyFlow,
+        steps: [
+          '打開網站，選一場選舉，例如「2018 縣市長選舉」，再點縣市。',
+          '選區頁面把每位候選人的得票數、得票率、總收入和總支出排在一起。',
+          '往下捲有收入比較和支出比較的圖，看得出同一選區候選人之間的差別。',
+          '想看一筆一筆的捐款，回到監察院平臺下載明細。',
+        ],
+        note: '這個網站收錄 2014、2016、2018 年的選舉，原始碼最後一次更新是 2020 年 4 月。2022 和 2026 年的資料目前不在上面。',
+      },
+      whenTitle: '2026 這一屆什麼時候查得到',
+      when: '申報截止是 2027 年 2 月 28 日，監察院依法在之後六個月內公開。上一屆是在投票隔年的 5 月到 7 月分三批上線。',
+    },
+    related: {
+      title: '延伸閱讀',
+      articles: [
+        {
+          href: '/politics/2026%20%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89',
+          title: '2026 九合一選舉',
+          desc: '這場選舉的全貌，以及它背後的民主基礎建設。',
+        },
+        {
+          href: '/politics/%E4%B8%AD%E9%81%B8%E6%9C%83%E5%88%B6%E5%BA%A6',
+          title: '中選會制度',
+          desc: '選舉公告和競選經費這些規則，由誰訂、怎麼運作。',
+        },
+        {
+          href: '/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v',
+          title: '開源社群與 g0v',
+          desc: '選舉金流背後的公民科技社群。',
+        },
+      ],
+    },
+    footTitle: '選舉專區的其他頁面',
+    footHome: '回到選舉專區',
+    footLinks: [
+      { slug: 'timeline', label: '時間線' },
+      { slug: 'candidates', label: '候選人名冊' },
+      { slug: 'perspectives', label: '多視角觀點' },
+    ],
+    verified: (d) => `資料查核：${d}。法條以全國法規資料庫的現行條文為準。`,
+  },
+  en: {
+    metaTitle:
+      "Taiwan's 2026 Local Elections: Political Donation Rules and Where to Check Them",
+    metaDescription:
+      "Political donation rules for Taiwan's 2026 local elections: who may give, yearly limits for individuals and companies, anonymous and cash limits, the donation window ending November 27, reports due February 28, 2027, and how to search the Control Yuan platform and g0v's money-flow site. Every section links to the law or an official notice.",
+    breadcrumbHome: '2026 Local Elections',
+    breadcrumbHere: 'Political donations',
+    eyebrow: '🗳️ 2026 Local Elections · Political donations',
+    titlePrefix: 'Where the campaign ',
+    titleEmphasis: 'money',
+    titleSuffix: ' comes from',
+    subtitle:
+      'Who may give, how much per year, when money can be accepted, and where to look it up after the vote.',
+    stance:
+      "This page covers rules, dates and how to look things up. It lists no candidate's figures and comments on no one.",
+    facts: [
+      {
+        value: 'Nov 27',
+        label: 'Last day to accept donations (eve of voting day)',
+      },
+      {
+        value: 'Feb 28, 2027',
+        label:
+          'Accounting reports due (moves to the next working day if a holiday)',
+      },
+      {
+        value: 'Within 6 months',
+        label:
+          'After the filing deadline, the Control Yuan must publish the reports online',
+      },
+    ],
+    nav: [
+      { href: '#timeline', label: 'Timeline' },
+      { href: '#rules', label: 'Donation rules' },
+      { href: '#spending', label: 'Spending caps and subsidies' },
+      { href: '#how-to-check', label: 'How to check' },
+    ],
+    navLabel: 'On this page',
+    sourceLabel: 'Sources: ',
+    sourceNote: 'Linked sources are in Chinese.',
+    listSep: ', ',
+    groupSep: '; ',
+    pdlName: 'Political Donations Act',
+    svlName: 'Civil Servants Election and Recall Act',
+    artLabel: (n) => `Art. ${n}`,
+    docs: {
+      cySchedule: 'Control Yuan donation calendar',
+      cyNoticeApril: 'Control Yuan account notice (six offices, from April)',
+      cyNoticeAugust:
+        'Control Yuan account notice (representatives and village chiefs)',
+      cyAccounts: 'Control Yuan account announcements',
+      cna0421: 'CNA, Apr 21, 2026',
+      cecAnnouncement: 'CEC election announcement, Aug 20, 2026',
+      cecAnnouncementFile: 'Announcement text (PDF)',
+      cecLocalAnnouncement: 'CEC: announcements for the other five races',
+      cecScheduleFile: 'CEC election work schedule (PDF)',
+      disclosureRules:
+        'Regulations on Disclosure and Inspection of Political Donation Accounting Reports',
+      ardata: 'Control Yuan political donations platform',
+      ardataNews: 'Platform notices',
+      ardataManual: 'Platform user guide (PDF)',
+      ardataLaunch: 'Control Yuan press release, Aug 14, 2019',
+      g0vMoneyFlow: 'g0v money flow',
+      g0vRepo: 'Source repository',
+    },
+    money: (n) => `NT$${n.toLocaleString('en-US')}`,
+    byDate: (d) => `By ${d}`,
+    timeline: {
+      title: 'From opening the account to publishing the books',
+      intro:
+        'Dates below are for prospective candidates for special municipality mayor, county/city mayor and councilor. Township representatives, mountain indigenous district representatives and village/borough chiefs start later and are marked separately.',
+      doneLabel: 'Done',
+      nextLabel: 'Next',
+      publishDate: '2027',
+      labels: {
+        apply:
+          'The Control Yuan starts accepting dedicated-account applications (special municipality mayors and councilors, county/city mayors and councilors, township mayors, mountain indigenous district chiefs)',
+        receiveStart:
+          'Once their account is approved, these prospective candidates may start accepting donations',
+        applyLocal:
+          'Prospective candidates for township representative, mountain indigenous district representative and village/borough chief can start applying',
+        announce:
+          "The Central Election Commission issues the election announcement, including every district's campaign spending ceiling; representatives and village/borough chiefs may start accepting donations",
+        receiveEnd:
+          'Last day for all prospective candidates to accept donations (the day before voting)',
+        vote: 'Voting day',
+        winners:
+          'The CEC announces the winners of the mayor and councilor races',
+        subsidy:
+          'Election commissions calculate campaign subsidies and notify candidates to collect them (within 30 days of the winners announcement)',
+        reportDeadline:
+          'Deadline for prospective candidates to file accounting reports with the Control Yuan (three months after voting; moves to the next working day if it falls on a holiday)',
+        publish:
+          'The Control Yuan publishes the accounting reports online (legal deadline: within six months after the filing deadline)',
+      },
+    },
+    who: {
+      title: 'Who may accept, who may give',
+      receiveTitle: 'Who may accept',
+      receiveBody: [
+        'Only political parties, political associations and prospective candidates may accept political donations.',
+        'A prospective candidate is someone who has registered, or intends to register, to run during the legal donation period.',
+        "If a prospective candidate's spouse, children, relatives within the second degree or household members sharing finances accept donations instead, they are fined three times the amount.",
+      ],
+      donateTitle: 'Who may give',
+      donateBody:
+        'Individuals, political parties, civil associations and profit-seeking enterprises may give, except for these 11 categories:',
+      excluded: [
+        'State-owned enterprises, and private companies in which the government holds 20% or more of the capital',
+        'Contractors with a large government procurement or major public infrastructure investment contract still being performed',
+        "Profit-seeking enterprises with accumulated losses not yet made up (based on the previous year's financial statements)",
+        'Religious organizations',
+        'Other political parties, or prospective candidates in the same type of election (parties jointly nominating the same candidates are exempt)',
+        'People who do not have the right to vote',
+        'Foreign nationals, legal persons, groups or other institutions, or bodies whose principal members are foreign',
+        'People, legal persons, groups or other institutions of China (the "Mainland Area" in the law), or bodies whose principal members are from there',
+        'Hong Kong and Macau residents, legal persons, groups or other institutions, or bodies whose principal members are from Hong Kong or Macau',
+        'Businesses run or invested in by political parties',
+        'Contractors with a large procurement contract with a party-run or party-invested business still being performed',
+      ],
+      memberNote:
+        '"Principal members" in items 7 to 9 means: holding the chair of a Taiwanese organization or legal person; or holding more than one third of director, supervisor and similar posts; or holding 30% or more of a company limited by shares, or making up more than one third of the shareholders or members of other companies and organizations.',
+      foreignNote:
+        'Donations from foreign, Chinese, Hong Kong or Macau sources may not be returned to the donor. They must be handed to the Control Yuan for the national treasury.',
+    },
+    limits: {
+      title: 'How much one donor may give in a year',
+      intro:
+        "Limits count per year, meaning everything given within the same calendar year. This cycle's donation window runs from April to November, all within 2026.",
+      colDonor: 'Donor',
+      colSame: 'To one prospective candidate',
+      colAll: 'To all prospective candidates combined',
+      donors: {
+        individual: 'Individual',
+        business: 'Profit-seeking enterprise',
+        civicGroup: 'Civil association',
+      },
+      partyTitle: 'Parties giving to their own nominees',
+      partyIntro:
+        "A party's cash donations to one prospective candidate it nominates have separate limits:",
+      offices: {
+        mayor: 'Special municipality mayor, county/city mayor',
+        councilor: 'Municipal and county/city councilor',
+        township: 'Township mayor, mountain indigenous district chief',
+        representative:
+          'Township representative, indigenous district representative, village/borough chief',
+      },
+      penalty:
+        'Donors who exceed the limits can be fined up to twice the amount given in violation.',
+    },
+    cash: {
+      title: 'Anonymous gifts, cash and receipts',
+      items: [
+        "You may not donate in someone else's name.",
+        'An anonymous donation may not exceed NT$10,000.',
+        "Anonymous donations may not add up to more than 30% of a prospective candidate's total reported income; the excess goes to the national treasury.",
+        'Cash donations over NT$100,000 must be made by check or bank transfer. Bequests are exempt.',
+        'Money received must be deposited in the dedicated account within 15 days.',
+        'Receipts must be issued, except for anonymous gifts and bequests.',
+      ],
+    },
+    account: {
+      title: 'Open a dedicated account, get approval, then accept',
+      items: [
+        'A prospective candidate must open one political donation account at a financial institution and get Control Yuan approval before accepting any money. The Control Yuan announces each approval.',
+        "Only one account is allowed, and it cannot be changed or closed without the Control Yuan's consent.",
+        'The account name follows a fixed format that states the year, the office and the prospective candidate.',
+        'Applications can be filed online with a citizen digital certificate, or on paper by post. The Control Yuan advises against opening the account too early, so that no money arrives before the window opens.',
+        'Accepting donations without an approved account carries up to three years in prison, with an optional fine of NT$200,000 to NT$1,000,000.',
+      ],
+      tipTitle: 'Before you give, check the account',
+      tip: 'On the Control Yuan\'s Sunshine Act website (Chinese), open "Political donation account announcements", choose "prospective candidate" and an election type for ROC year 115 (2026) to see approved accounts.',
+    },
+    tax: {
+      title: 'Can donations be deducted from tax?',
+      items: [
+        "Individuals: an itemized income tax deduction, up to 20% of the household's gross consolidated income for the year and no more than NT$200,000.",
+        'Profit-seeking enterprises: can be booked as an expense or loss for the year, up to 10% of taxable income and no more than NT$500,000.',
+        'No deduction if there is no receipt, the donation broke the law, the money was returned or paid to the treasury, or the recipient never registered as a candidate or had the candidacy revoked (unless the prospective candidate died after receiving it).',
+      ],
+    },
+    caps: {
+      title: 'Campaign spending ceilings by district',
+      intro:
+        "The Central Election Commission's election announcement of August 20, 2026 lists a campaign spending ceiling for every district. The tables below cover special municipality mayors and county/city mayors.",
+      formulaTitle: 'How it is calculated',
+      formula:
+        "For executive races: 70% of the district's population, times NT$20, plus a fixed amount. The fixed amount is NT$50 million for special municipality mayors and NT$30 million for county/city mayors. Population is the household-registration count at the end of the sixth month before the voting month, and any remainder under NT$1,000 counts as NT$1,000.",
+      usesTitle: 'What the ceiling is used for',
+      uses: 'The law uses it in two places. Campaign spending within the ceiling, minus donations and government subsidies, can be itemized as an income tax deduction. The election subsidy also may not exceed it.',
+      tableMunicipal: 'Special municipality mayor',
+      tableCounty: 'County/city mayor',
+      colArea: 'District',
+      colCap: 'Ceiling (NT$)',
+      note: 'Ceilings for every municipal and county/city councilor district are listed in the same announcement. Township mayors, township representatives, mountain indigenous district chiefs and representatives, and village/borough chiefs are announced by local election commissions; the CEC website collects those announcements on one page.',
+    },
+    subsidy: {
+      title: 'Enough votes earn NT$30 per vote',
+      items: [
+        "Single-seat districts (such as mayors): at least one third of the winner's vote count.",
+        'Multi-seat districts (such as councils): at least half of the lowest winning vote count. If the lowest winner took a reserved seat for women, the vote count of the winner ranked just above is used instead.',
+        "Qualifying candidates receive NT$30 per vote, capped at the district's campaign spending ceiling.",
+        'Election commissions calculate the amount within 30 days of the winners announcement and notify candidates to collect it within three months.',
+      ],
+      example:
+        'For example, a qualifying candidate with 100,000 votes receives NT$3,000,000.',
+    },
+    report: {
+      title: 'File within three months, published within six more',
+      items: [
+        'Prospective candidates must file accounting reports with the Control Yuan within three months after voting day. For this cycle the deadline is February 28, 2027; if that falls on a holiday it moves to the next working day.',
+        'Anyone who received NT$10 million or more must have the report audited by a certified public accountant within 70 days after voting day.',
+        'Reports list income and spending by category, with full details for every counterparty above NT$30,000.',
+        "The Control Yuan must publish the reports online within six months after the filing deadline, including the income-and-expense summary and itemized lists of donations and spending. Individuals' ID numbers and registered and mailing addresses are withheld or only partly shown.",
+      ],
+      prevTitle: 'How long it took last time',
+      prevIntro:
+        'For the 2022 local elections, the Control Yuan published the reports in three batches the following year:',
+      prev: {
+        countyMayorsMayorsIndigenousReps:
+          'County/city mayors, special municipality mayors, mountain indigenous district representatives',
+        townshipChiefsReps: 'Township mayors and township representatives',
+        councilorsVillageIndigenousChiefs:
+          'Municipal and county/city councilors, village/borough chiefs, mountain indigenous district chiefs',
+      },
+      prevOutro:
+        'At that pace, the 2026 reports would come online in stages around mid-2027. The Control Yuan platform will announce the exact dates.',
+    },
+    howto: {
+      title: 'Look it up yourself',
+      intro:
+        'During the campaign the books are not public yet. What you can check now is which accounts have been approved. Once the reports are out, use the two sites below together.',
+      stepsLabel: 'Steps',
+      accounts: {
+        name: 'Available now: approved accounts',
+        site: 'Control Yuan Sunshine Act website',
+        desc: 'Check that the person you want to support has an approved account.',
+        url: src.cyAccounts,
+        steps: [
+          'Open "Political donation account announcements" (政治獻金專戶公告資料) on the Sunshine Act website.',
+          'Set the account type to "prospective candidate" (擬參選人).',
+          'Pick an election type for ROC year 115, such as "115年縣(市)長選舉", and search.',
+        ],
+      },
+      ardata: {
+        name: 'Control Yuan political donations platform',
+        site: 'ardata.cy.gov.tw',
+        desc: 'Launched on August 14, 2019. The official records live here and can be downloaded as spreadsheets.',
+        url: src.ardata,
+        steps: [
+          'On your first visit, enter the verification code shown and click "Agree" (同意) after reading the terms.',
+          'For a whole election, use "Election search" (選舉查詢) and pick the election. For a specific person or company, use "General search" (一般查詢) and search by prospective candidate, donor or payee.',
+          'Advanced search narrows results by election year, county or city, transaction date, amount range, or only items above NT$30,000.',
+          'Download from the election or account search results to get a zip file with income details, spending details and a summary. Open the CSV files with Excel\'s text import so names like "7-11" are not turned into dates.',
+        ],
+        note: 'Under the platform terms, the data may not be used for profit, credit investigation or other improper purposes.',
+      },
+      g0v: {
+        name: 'g0v money flow (金流百科)',
+        site: 'g0v-money-flow.github.io',
+        desc: "A visualization site built by Taiwan's civic tech community g0v, turning Control Yuan records into comparison charts.",
+        url: src.g0vMoneyFlow,
+        steps: [
+          'Open the site, pick an election such as "2018 縣市長選舉" (2018 mayoral races), then a county or city.',
+          "The district page lines up each candidate's votes, vote share, total income and total spending.",
+          'Scroll down for income and spending comparison charts across the district.',
+          'For individual donations, go back to the Control Yuan platform and download the details.',
+        ],
+        note: 'The site covers the 2014, 2016 and 2018 elections, and its code was last updated in April 2020. Data for 2022 and 2026 is not there for now.',
+      },
+      whenTitle: 'When will the 2026 data be available?',
+      when: 'The filing deadline is February 28, 2027, and the law gives the Control Yuan six months after that to publish. Last time, the reports went online in three batches between May and July of the year after the vote.',
+    },
+    related: {
+      title: 'Further reading',
+      articles: [
+        {
+          href: '/en/politics/2026-local-elections-taiwan',
+          title: '2026 Nine-in-One Elections',
+          desc: 'The full picture of this election and the democratic infrastructure behind it.',
+        },
+        {
+          href: '/en/politics/central-election-commission',
+          title: 'The CEC System',
+          desc: 'Who sets rules like election announcements and spending ceilings, and how they work.',
+        },
+        {
+          href: '/en/technology/open-source-and-g0v',
+          title: 'Open Source Community and g0v',
+          desc: 'The civic tech community behind the money-flow site.',
+        },
+      ],
+    },
+    footTitle: 'More from the election hub',
+    footHome: 'Back to the election hub',
+    footLinks: [
+      { slug: 'timeline', label: 'Timeline' },
+      { slug: 'candidates', label: 'Candidate roster' },
+      { slug: 'perspectives', label: 'Perspectives' },
+    ],
+    verified: (d) =>
+      `Fact-checked ${d}. Legal text follows the current version in the Laws & Regulations Database of the Republic of China (Taiwan).`,
+  },
+  ja: {
+    metaTitle:
+      '2026年台湾統一地方選挙の政治献金：誰が寄付でき、いくらまで、どこで調べるか',
+    metaDescription:
+      '2026年台湾統一地方選挙の政治献金ルール。誰が寄付できるか、個人と企業の年間上限、匿名・現金の制限、11月27日までの受け取り期間、2027年2月28日までの会計報告書の申告、監察院プラットフォームとg0v「選挙金流」の調べ方。各項目に法令や公告へのリンクを付けています。',
+    breadcrumbHome: '2026年統一地方選挙',
+    breadcrumbHere: '政治献金',
+    eyebrow: '🗳️ 2026年統一地方選挙 · 政治献金',
+    titlePrefix: '候補者の',
+    titleEmphasis: 'お金',
+    titleSuffix: 'はどこから来るのか',
+    subtitle:
+      '誰が寄付できるか、1年にいくらまでか、いつ受け取れるか、選挙後にどこで調べられるか。',
+    stance:
+      'このページは規則・日程・調べ方だけをまとめています。個別の候補者の金額は載せず、誰の評価もしません。',
+    facts: [
+      { value: '11月27日', label: '献金の受け取り期限（投票日の前日）' },
+      {
+        value: '2027年2月28日',
+        label: '会計報告書の申告期限（休日なら翌執務日）',
+      },
+      {
+        value: '6か月以内',
+        label: '申告期限の後、監察院が法に基づきネットで公開',
+      },
+    ],
+    nav: [
+      { href: '#timeline', label: 'タイムライン' },
+      { href: '#rules', label: '寄付のルール' },
+      { href: '#spending', label: '費用上限と補助' },
+      { href: '#how-to-check', label: '調べ方' },
+    ],
+    navLabel: 'ページ内の目次',
+    sourceLabel: '出典：',
+    sourceNote: 'リンク先は中国語のページです。',
+    listSep: '、',
+    groupSep: '／',
+    pdlName: '政治献金法',
+    svlName: '公職人員選挙罷免法',
+    artLabel: (n) => `第${n}条`,
+    docs: {
+      cySchedule: '監察院 政治献金スケジュール表',
+      cyNoticeApril: '監察院 口座許可の注意事項（4月開始の6種）',
+      cyNoticeAugust: '監察院 口座許可の注意事項（代表・村里長）',
+      cyAccounts: '監察院 政治献金専用口座の公告資料',
+      cna0421: '中央社 2026年4月21日',
+      cecAnnouncement: '中選会 2026年8月20日の選挙公告',
+      cecAnnouncementFile: '公告原文（PDF）',
+      cecLocalAnnouncement: '中選会：ほか5種の選挙公告',
+      cecScheduleFile: '中選会 選挙事務日程表（PDF）',
+      disclosureRules: '政治献金会計報告書公開・閲覧弁法',
+      ardata: '監察院 政治献金公開閲覧プラットフォーム',
+      ardataNews: 'プラットフォームのお知らせ',
+      ardataManual: '利用説明（PDF）',
+      ardataLaunch: '監察院 2019年8月14日のプレスリリース',
+      g0vMoneyFlow: 'g0v 選挙金流',
+      g0vRepo: 'ソースコード',
+    },
+    money: (n) => `${wan(n)}万元`,
+    byDate: (d) => `${d}まで`,
+    timeline: {
+      title: '専用口座の開設から帳簿の公開まで',
+      intro:
+        '以下は直轄市長、県・市長、議員の立候補予定者の日程です。郷鎮市民代表、山地原住民区民代表、村・里長は開始が遅いため、別に記しています。',
+      doneLabel: '済',
+      nextLabel: '次',
+      publishDate: '2027年',
+      labels: {
+        apply:
+          '監察院が専用口座の許可申請の受付を開始（直轄市長・直轄市議員、県市長・県市議員、郷鎮市長、山地原住民区長）',
+        receiveStart:
+          '上記の立候補予定者は、口座の許可を受ければ献金を受け取れるようになる',
+        applyLocal:
+          '郷鎮市民代表、山地原住民区民代表、村・里長の立候補予定者が口座の申請を開始',
+        announce:
+          '中央選挙委員会が選挙公告を発表し、各選挙区の選挙運動費用の上限額も同時に公告。代表と村・里長の立候補予定者も献金を受け取れるようになる',
+        receiveEnd: 'すべての立候補予定者の献金受け取り期限（投票日の前日）',
+        vote: '投票日',
+        winners: '中選会が直轄市長、県市長、議員の当選者名簿を公告',
+        subsidy:
+          '選挙委員会が選挙費用の補助額を算定し、候補者に受け取りを通知（当選者名簿の公告から30日以内）',
+        reportDeadline:
+          '立候補予定者が監察院に会計報告書を申告する期限（投票日から3か月以内。休日の場合は翌執務日）',
+        publish:
+          '監察院が会計報告書をネットで公開（法定期限：申告期限から6か月以内）',
+      },
+    },
+    who: {
+      title: '誰が受け取れ、誰が寄付できるか',
+      receiveTitle: '受け取れる人',
+      receiveBody: [
+        '政治献金を受け取れるのは、政党、政治団体、立候補予定者（擬参選人）だけです。',
+        '立候補予定者とは、法定の受け取り期間内に立候補を登録した人、または登録する意思のある人を指します。',
+        '立候補予定者の配偶者、子、二親等以内の親族、生計を同じくする同居家族が代わりに受け取ると、受け取った額の3倍の過料が科されます。',
+      ],
+      donateTitle: '寄付できる人',
+      donateBody:
+        '個人、政党、人民団体、営利事業は寄付できます。ただし次の11種類は除かれます。',
+      excluded: [
+        '公営事業、または政府が資本の20%以上を持つ民間企業',
+        '政府機関と大規模な調達契約や重大な公共建設投資契約を結び、履行期間中の業者',
+        '累積損失を規定どおり補填していない営利事業（前年度の財務諸表で判断）',
+        '宗教団体',
+        'ほかの政党、または同じ種類の選挙の立候補予定者（同じ候補者を法に基づき共同推薦する政党は除く）',
+        '選挙権を持たない人',
+        '外国の人民・法人・団体その他の機関、または主要メンバーが外国の人民・法人などである法人・団体・機関',
+        '中国（法律上の「大陸地区」）の人民・法人・団体その他の機関、または主要メンバーが大陸地区の人民・法人などである法人・団体・機関',
+        '香港・マカオの住民・法人・団体その他の機関、または主要メンバーが香港・マカオの住民・法人などである法人・団体・機関',
+        '政党が経営または投資する事業',
+        '政党が経営・投資する事業と大規模な調達契約を結び、履行期間中の業者',
+      ],
+      memberNote:
+        '第7〜9号の「主要メンバー」とは、台湾の団体・法人の董事長を務める場合、董事・監察人などの役職総数の3分の1超を占める場合、株式会社の株主権の30%以上を持つ場合、またはその他の会社・法人・団体の株主や社員数の3分の1超を占める場合を指します。',
+      foreignNote:
+        '外国・中国・香港・マカオからの献金は寄付者に返すことができず、監察院に納めて国庫に入れなければなりません。',
+    },
+    limits: {
+      title: '1年に寄付できる上限',
+      intro:
+        '上限は「毎年」、つまり同じ年のうちに寄付した合計で数えます。今回の受け取り期間は4月から11月で、すべて2026年に収まります。',
+      colDonor: '寄付者',
+      colSame: '同じ立候補予定者へ',
+      colAll: '立候補予定者全体への合計',
+      donors: {
+        individual: '個人',
+        business: '営利事業',
+        civicGroup: '人民団体',
+      },
+      partyTitle: '政党が自党の推薦候補へ寄付する場合',
+      partyIntro:
+        '政党が推薦する同じ立候補予定者への金銭の寄付には、別の上限があります。',
+      offices: {
+        mayor: '直轄市長・県市長',
+        councilor: '直轄市議員・県市議員',
+        township: '郷鎮市長・山地原住民区長',
+        representative: '郷鎮市民代表・山地原住民区民代表・村里長',
+      },
+      penalty:
+        '上限を超えて寄付した人には、違反した寄付額の2倍以下の過料が科されます。',
+    },
+    cash: {
+      title: '匿名・現金・領収書',
+      items: [
+        '他人の名義で寄付することはできません。',
+        '匿名の寄付は1万元を超えてはいけません。',
+        '立候補予定者が受け取る匿名献金の総額は、その回の申告収入総額の30%まで。超えた分は国庫に納めます。',
+        '10万元を超える現金の寄付は、小切手か金融機関の振込で行います。遺言による寄付は除きます。',
+        '受け取った金銭は15日以内に専用口座に入金します。',
+        '献金を受け取ったら領収書を発行します。匿名と遺言による寄付は不要です。',
+      ],
+    },
+    account: {
+      title: '専用口座を開き、許可を得てから受け取る',
+      items: [
+        '立候補予定者は金融機関で政治献金の専用口座を1つ開き、監察院の許可を得てからでないと献金を受け取れません。許可は監察院が公告します。',
+        '口座は1つだけで、監察院の同意なしに変更や廃止はできません。',
+        '口座名には決まった形式があり、年・職位・立候補予定者名を入れます。',
+        '自然人憑証（電子証明書）でオンライン申請するか、書類を監察院に郵送します。監察院は、受け取り期間の前に入金されないよう、早すぎる口座開設は避けるよう呼びかけています。',
+        '許可なく献金を受け取ると、3年以下の懲役に処され、20万〜100万元の罰金が併科されることがあります。',
+      ],
+      tipTitle: '寄付の前に口座を確認',
+      tip: '監察院「陽光法令主題網」の「政治獻金專戶公告資料」で、専戸類別に「擬參選人」、選挙種類に115年（2026年）の選挙を選ぶと、許可済みの口座を確認できます（中国語のみ）。',
+    },
+    tax: {
+      title: '寄付は税控除の対象になる？',
+      items: [
+        '個人：総合所得税の申告で列挙控除できます。1申告世帯あたり、その年の総合所得総額の20%まで、かつ20万元まで。',
+        '営利事業：その年の費用または損失として計上でき、所得額の10%まで、かつ50万元まで。',
+        '控除できないのは、領収書がない場合、違法な寄付、返金や国庫納付となった献金、立候補登録をしなかった人や資格を取り消された人への寄付です（受け取った後に立候補予定者が亡くなった場合を除く）。',
+      ],
+    },
+    caps: {
+      title: '選挙区ごとの選挙運動費用の上限額',
+      intro:
+        '中央選挙委員会は2026年8月20日の選挙公告で、すべての選挙区の選挙運動費用の上限額を示しました。下の表は直轄市長と県市長の分です。',
+      formulaTitle: '計算方法',
+      formula:
+        '首長選挙では、選挙区の人口総数の70%に20元を掛け、固定額を足します。固定額は直轄市長が5,000万元、県市長が3,000万元。人口は投票月の6か月前の月末の戸籍人口で、千元未満の端数は千元として計算します。',
+      usesTitle: 'この金額の使いみち',
+      uses: '法律では2か所で使われます。上限額以内の選挙運動支出から政治献金と政府補助を引いた残りは、総合所得税で列挙控除できます。選挙補助の総額もこの金額を超えられません。',
+      tableMunicipal: '直轄市長',
+      tableCounty: '県市長',
+      colArea: '選挙区',
+      colCap: '上限額（新台湾ドル）',
+      note: '直轄市議員・県市議員の各選挙区の金額も、同じ公告に載っています。郷鎮市長、郷鎮市民代表、山地原住民区長・区民代表、村里長の選挙公告は各地の選挙委員会が出し、中選会のサイトにまとめページがあります。',
+    },
+    subsidy: {
+      title: '得票が多ければ1票30元の補助',
+      items: [
+        '定数1の選挙区（県市長など）：当選者の得票数の3分の1以上。',
+        '定数2以上の選挙区（議員など）：最低当選得票数の2分の1以上。最低当選者が女性保障枠での当選なら、その一つ上の当選者の得票数を使います。',
+        '条件を満たした候補者には1票30元が補助され、上限はその選挙区の選挙運動費用の上限額です。',
+        '選挙委員会は当選者名簿の公告から30日以内に金額を算定し、候補者に3か月以内に受け取るよう通知します。',
+      ],
+      example:
+        '例えば、条件を満たした候補者が10万票を得れば、補助は300万元です。',
+    },
+    report: {
+      title: '選挙後3か月以内に申告、その後6か月以内に公開',
+      items: [
+        '立候補予定者は投票日から3か月以内に、監察院へ会計報告書を申告します。今回の期限は2027年2月28日で、休日にあたる場合は翌執務日に延びます。',
+        '受け取った献金が1,000万元以上なら、投票日から70日以内に公認会計士の監査証明を受けます。',
+        '会計報告書には収入と支出を項目別に記し、3万元を超える相手については詳しい情報を記載します。',
+        '監察院は申告期限から6か月以内にネットで公開します。収支決算表と、寄付収入・支出の明細が対象です。個人の身分証番号、戸籍地、連絡先住所は公開しないか、一部だけ公開します。',
+      ],
+      prevTitle: '前回はどれくらいかかったか',
+      prevIntro:
+        '2022年の地方選挙では、監察院は翌年に3回に分けて公開しました。',
+      prev: {
+        countyMayorsMayorsIndigenousReps:
+          '県市長、直轄市長、山地原住民区民代表',
+        townshipChiefsReps: '郷鎮市長、郷鎮市民代表',
+        councilorsVillageIndigenousChiefs:
+          '直轄市議員、県市議員、村里長、山地原住民区長',
+      },
+      prevOutro:
+        'このペースなら、2026年分の帳簿は2027年半ばごろから順次公開される見込みです。正確な日付は監察院のプラットフォームで告知されます。',
+    },
+    howto: {
+      title: '自分で調べる',
+      intro:
+        '選挙期間中は帳簿はまだ公開されません。今調べられるのは、どの口座が許可されたかです。報告書が公開されたら、下の2つのサイトを組み合わせて使います。',
+      stepsLabel: '手順',
+      accounts: {
+        name: '今すぐ調べられる：許可済み口座の一覧',
+        site: '監察院 陽光法令主題網',
+        desc: '寄付したい相手が許可済みの口座を持っているか確認できます。',
+        url: src.cyAccounts,
+        steps: [
+          '陽光法令主題網の「政治獻金專戶公告資料」ページを開きます。',
+          '専戸類別で「擬參選人」を選びます。',
+          '選挙種類で115年の選挙（例：「115年縣(市)長選舉」）を選び、検索します。',
+        ],
+      },
+      ardata: {
+        name: '監察院 政治献金公開閲覧プラットフォーム',
+        site: 'ardata.cy.gov.tw',
+        desc: '2019年8月14日に運用開始。公式の記録はここにあり、表計算ファイルでダウンロードできます。',
+        url: src.ardata,
+        steps: [
+          '初めて開くと表示される認証コードを入力し、利用規約を読んで「同意」を押します。',
+          '選挙全体を見るなら「選舉查詢」（選挙検索）で選挙名を選びます。特定の人や会社を探すなら「一般查詢」（一般検索）でキーワードを入れ、立候補予定者・寄付者・支出先のどれを探すか指定できます。',
+          '詳細検索では、選挙年度、県市、取引日、金額の範囲で絞り込んだり、3万元以上の収支だけを表示したりできます。',
+          '選挙検索や口座検索の結果からダウンロードすると、収入明細・支出明細・収支決算表の入ったzipファイルが得られます。Excelの「テキストのインポート」で開くと、「7-11」のような名前が日付に変換されません。',
+        ],
+        note: '利用規約により、得られたデータを営利、信用調査、その他不正な目的に使うことはできません。',
+      },
+      g0v: {
+        name: 'g0v 選挙金流（金流百科）',
+        site: 'g0v-money-flow.github.io',
+        desc: '台湾のシビックテック・コミュニティg0vが作った可視化サイト。監察院のデータを比較グラフにしています。',
+        url: src.g0vMoneyFlow,
+        steps: [
+          'サイトを開き、選挙（例：「2018 縣市長選舉」）を選んでから、県市をクリックします。',
+          '選挙区のページに、各候補者の得票数、得票率、総収入、総支出が並びます。',
+          '下にスクロールすると、同じ選挙区の候補者を比べる収入・支出のグラフがあります。',
+          '1件ずつの寄付を見たいときは、監察院のプラットフォームに戻って明細をダウンロードします。',
+        ],
+        note: 'このサイトが収録しているのは2014年・2016年・2018年の選挙で、ソースコードの最終更新は2020年4月です。2022年と2026年のデータは今のところありません。',
+      },
+      whenTitle: '2026年分はいつ調べられるか',
+      when: '申告期限は2027年2月28日で、監察院は法律上その後6か月以内に公開します。前回は投票の翌年5月から7月にかけて3回に分けて公開されました。',
+    },
+    related: {
+      title: '関連記事',
+      articles: [
+        {
+          href: '/ja/politics/2026-local-elections-taiwan',
+          title: '2026年九合一選挙',
+          desc: 'この選挙の全体像と、それを支える民主主義のインフラ。',
+        },
+        {
+          href: '/ja/politics/central-election-commission',
+          title: '中選会制度',
+          desc: '選挙公告や選挙運動費用などのルールを誰が決め、どう運用しているか。',
+        },
+        {
+          href: '/ja/technology/open-source-and-g0v',
+          title: 'オープンソースコミュニティとg0v',
+          desc: '選挙金流を作ったシビックテック・コミュニティ。',
+        },
+      ],
+    },
+    footTitle: '選挙特集のほかのページ',
+    footHome: '選挙特集に戻る',
+    footLinks: [
+      { slug: 'timeline', label: 'タイムライン' },
+      { slug: 'candidates', label: '候補者名簿' },
+      { slug: 'perspectives', label: 'さまざまな視点' },
+    ],
+    verified: (d) =>
+      `事実確認：${d}。法令は台湾の全国法規資料庫の現行条文に基づきます。`,
+  },
+};
+
+const lang = getLangFromUrl(Astro.url);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const cl = lang in copyAll ? lang : 'en';
+const c = copyAll[cl];
+const isZh = cl === 'zh-TW';
+
+// 日期：中文 2026/4/22、日文 2026年4月22日、其他 Apr 22, 2026
+const fmtDate = (iso: string) => {
+  const d = new Date(`${iso}T00:00:00Z`);
+  const y = d.getUTCFullYear();
+  const m = d.getUTCMonth() + 1;
+  const day = d.getUTCDate();
+  if (cl === 'zh-TW') return `${y}/${m}/${day}`;
+  if (cl === 'ja') return `${y}年${m}月${day}日`;
+  return new Intl.DateTimeFormat('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC',
+  }).format(d);
+};
+
+// 時間軸狀態：建置當天（台北時間）之前的標「已過」，第一個未到的標「下一站」
+const todayIso = new Date(Date.now() + 8 * 60 * 60 * 1000)
+  .toISOString()
+  .slice(0, 10);
+const nextIdx = data.timeline.findIndex((t) => !t.iso || t.iso >= todayIso);
+const timelineRows = data.timeline.map((t, i) => ({
+  id: t.id,
+  date: t.iso
+    ? t.byDate
+      ? c.byDate(fmtDate(t.iso))
+      : fmtDate(t.iso)
+    : c.timeline.publishDate,
+  iso: t.iso,
+  label: c.timeline.labels[t.id] ?? t.id,
+  done: i < nextIdx,
+  next: i === nextIdx,
+  local: t.id === 'applyLocal',
+}));
+
+const areaLabel = (area: string) =>
+  isZh ? area : (areaI18n[area]?.[cl === 'ja' ? 'ja' : 'en'] ?? area);
+const capFmt = (n: number) => n.toLocaleString('en-US');
+
+// 出處列：法條逐條連結＋公告文件
+type SourceGroup = { law: 'pdl' | 'svl'; arts: number[] } | { docs: string[] };
+const sectionSources: Record<string, SourceGroup[]> = {
+  timeline: [
+    { law: 'pdl', arts: [12, 21] },
+    { docs: ['cySchedule', 'cyNoticeApril', 'cyNoticeAugust'] },
+    { docs: ['cecScheduleFile', 'cna0421'] },
+  ],
+  who: [{ law: 'pdl', arts: [2, 5, 7, 15, 27] }],
+  limits: [{ law: 'pdl', arts: [18, 29] }],
+  cash: [{ law: 'pdl', arts: [10, 11, 14, 15] }],
+  account: [
+    { law: 'pdl', arts: [10, 26] },
+    { docs: ['cyNoticeApril', 'cyNoticeAugust', 'cyAccounts'] },
+  ],
+  tax: [{ law: 'pdl', arts: [19] }],
+  caps: [
+    { docs: ['cecAnnouncement', 'cecAnnouncementFile'] },
+    { law: 'svl', arts: [41, 42, 43] },
+    { docs: ['cecLocalAnnouncement'] },
+  ],
+  subsidy: [{ law: 'svl', arts: [43] }, { docs: ['cecScheduleFile'] }],
+  report: [
+    { law: 'pdl', arts: [20, 21] },
+    { docs: ['disclosureRules', 'cySchedule', 'ardataNews'] },
+  ],
+  howto: [
+    {
+      docs: [
+        'cyAccounts',
+        'ardataManual',
+        'ardataLaunch',
+        'g0vMoneyFlow',
+        'g0vRepo',
+      ],
+    },
+  ],
+};
+
+const esc = (s: string) =>
+  s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+const linkCls =
+  'text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]';
+const a = (url: string, label: string) =>
+  `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="${linkCls}">${esc(label)}</a>`;
+const srcHtml = (key: string) => {
+  const groups = sectionSources[key] ?? [];
+  const parts = groups.map((g) => {
+    if ('law' in g) {
+      const base = g.law === 'pdl' ? src.pdlArticle : src.svlArticle;
+      const name = g.law === 'pdl' ? c.pdlName : c.svlName;
+      const links = g.arts
+        .map((n) => a(`${base}${n}`, c.artLabel(n)))
+        .join(esc(c.listSep));
+      return `${esc(name)} ${links}`;
+    }
+    return g.docs
+      .filter((k) => src[k] && c.docs[k])
+      .map((k) => a(src[k], c.docs[k]))
+      .join(esc(c.listSep));
+  });
+  return `${esc(c.sourceLabel)}${parts.join(esc(c.groupSep))}`;
+};
+
+const toJsonLd = (value: unknown) =>
+  JSON.stringify(value).replace(/</g, '\\u003c');
+const site = Astro.site ?? Astro.url;
+const jsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: c.breadcrumbHome,
+      item: new URL(`${langPrefix}/elections/2026/`, site).toString(),
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: c.breadcrumbHere,
+      item: new URL(`${langPrefix}/elections/2026/donations/`, site).toString(),
+    },
+  ],
+});
+
+const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
+const serif = "font-family: 'Noto Serif TC', serif;";
+const sourceCls = 'mt-6 text-xs leading-[1.9] text-[#78716c]';
+const h2Cls =
+  'mb-4 text-center text-[1.6rem] font-light text-[#1f2937] md:text-[2.1rem]';
+const cardCls =
+  'rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white/80 p-6 md:p-8';
+const howtoCards = [c.howto.accounts, c.howto.ardata, c.howto.g0v];
+---
+
+<Layout
+  lang={lang}
+  title={c.metaTitle}
+  description={c.metaDescription}
+  readerSettings
+>
+  <div class="elections-donations">
+    <!-- Hero -->
+    <section
+      class="hero relative overflow-hidden border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+    >
+      <div
+        class="relative mx-auto max-w-[920px] px-4 pb-14 pt-8 md:px-6 md:pb-20"
+      >
+        <nav aria-label="breadcrumb" class="mb-10 text-sm text-[#78716c]">
+          <a href={`${langPrefix}/elections/2026/`} class={linkCls}
+            >{c.breadcrumbHome}</a
+          >
+          <span aria-hidden="true" class="mx-1.5">/</span>
+          <span aria-current="page">{c.breadcrumbHere}</span>
+        </nav>
+
+        <div
+          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+        >
+          {c.eyebrow}
+        </div>
+        <h1
+          class="hero-title mb-5 text-center text-[1.9rem] font-bold leading-[1.2] text-[#1f2937] md:text-[3.25rem]"
+          style="font-family: 'jf-lanyangming', 'rixingsong-semibold', 'Noto Serif TC', 'Source Han Serif TC', serif;"
+        >
+          {c.titlePrefix}<span class="text-[#7c2d12]">{c.titleEmphasis}</span>{
+            c.titleSuffix
+          }
+        </h1>
+        <p
+          class="mx-auto mb-10 max-w-[640px] text-center text-lg italic leading-[1.7] text-[#52525b]"
+        >
+          {c.subtitle}
+        </p>
+
+        <div class="grid gap-3 sm:grid-cols-3">
+          {
+            c.facts.map((f) => (
+              <div class="rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/75 px-5 py-5 text-center shadow-[0_4px_20px_rgba(124,45,18,0.06)]">
+                <div class="text-2xl font-bold tabular-nums text-[#7c2d12] md:text-[1.75rem]">
+                  {f.value}
+                </div>
+                <div class="mt-1.5 text-sm leading-[1.6] text-[#78716c]">
+                  {f.label}
+                </div>
+              </div>
+            ))
+          }
+        </div>
+
+        <p
+          class="mx-auto mt-8 max-w-[640px] rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/50 px-5 py-3 text-center text-sm leading-[1.7] text-[#52525b]"
+        >
+          {c.stance}
+        </p>
+
+        <nav
+          aria-label={c.navLabel}
+          class="mt-8 flex flex-wrap justify-center gap-2.5"
+        >
+          {
+            c.nav.map((l) => (
+              <a
+                href={l.href}
+                class="inline-flex items-center gap-1.5 rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white/80 px-4 py-2 text-sm font-semibold text-[#7c2d12] no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/50 hover:bg-[#fef2ec]"
+              >
+                {l.label}
+                <span aria-hidden="true">↓</span>
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </section>
+
+    <!-- 時間軸 -->
+    <section id="timeline" class="anchor-section bg-[#fdfaf2] py-16 md:py-20">
+      <div class="mx-auto max-w-[760px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.timeline.title}</h2>
+        <p
+          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-[#52525b]"
+        >
+          {c.timeline.intro}
+        </p>
+
+        <ol class="relative list-none border-l-2 border-[#e7d9b8] pl-6">
+          {
+            timelineRows.map((t) => (
+              <li class="relative mb-6 last:mb-0">
+                <span
+                  aria-hidden="true"
+                  class:list={[
+                    'absolute -left-[33px] top-1.5 h-4 w-4 rounded-full border-2',
+                    t.next
+                      ? 'border-[#7c2d12] bg-[#7c2d12]'
+                      : t.done
+                        ? 'border-[#d4c5a0] bg-[#e7d9b8]'
+                        : 'border-[#92400e] bg-white',
+                  ]}
+                />
+                <div class="flex flex-wrap items-baseline gap-x-2.5 gap-y-1">
+                  {t.iso ? (
+                    <time
+                      datetime={t.iso}
+                      class:list={[
+                        'font-mono text-sm tabular-nums',
+                        t.done ? 'text-[#9ca3af]' : 'text-[#7c2d12]',
+                      ]}
+                    >
+                      {t.date}
+                    </time>
+                  ) : (
+                    <span class="font-mono text-sm text-[#7c2d12]">
+                      {t.date}
+                    </span>
+                  )}
+                  {t.done && (
+                    <span class="rounded-full border border-[#d1d5db] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#9ca3af]">
+                      {c.timeline.doneLabel}
+                    </span>
+                  )}
+                  {t.next && (
+                    <span class="rounded-full bg-[#fef3c7] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#92400e]">
+                      {c.timeline.nextLabel}
+                    </span>
+                  )}
+                </div>
+                <p
+                  class:list={[
+                    'mt-1 text-[0.95rem] leading-[1.75]',
+                    t.done ? 'text-[#6b7280]' : 'text-[#1f2937]',
+                    t.local && 'italic',
+                  ]}
+                >
+                  {t.label}
+                </p>
+              </li>
+            ))
+          }
+        </ol>
+
+        <p class={sourceCls} set:html={srcHtml('timeline')} />
+      </div>
+    </section>
+
+    <!-- 誰可以收、誰可以捐 -->
+    <section id="rules" class="anchor-section bg-white py-16 md:py-24">
+      <div class="mx-auto max-w-[920px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.who.title}</h2>
+
+        <div class="mt-10 grid gap-5 md:grid-cols-[1fr_1.6fr]">
+          <div class={cardCls}>
+            <h3 class="mb-4 text-lg font-semibold text-[#7c2d12]" style={serif}>
+              {c.who.receiveTitle}
+            </h3>
+            <ul
+              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            >
+              {c.who.receiveBody.map((p) => <li>{p}</li>)}
+            </ul>
+          </div>
+
+          <div class={cardCls}>
+            <h3 class="mb-4 text-lg font-semibold text-[#7c2d12]" style={serif}>
+              {c.who.donateTitle}
+            </h3>
+            <p class="mb-4 text-[0.95rem] leading-[1.8] text-[#374151]">
+              {c.who.donateBody}
+            </p>
+            <ol
+              class="list-none space-y-2 pl-0 text-sm leading-[1.75] text-[#374151]"
+            >
+              {
+                c.who.excluded.map((item, i) => (
+                  <li class="flex gap-3">
+                    <span class="w-6 shrink-0 text-right font-mono tabular-nums text-[#92400e]">
+                      {i + 1}
+                    </span>
+                    <span>{item}</span>
+                  </li>
+                ))
+              }
+            </ol>
+          </div>
+        </div>
+
+        <div class="mt-5 grid gap-4 md:grid-cols-2">
+          <p
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5 text-sm leading-[1.8] text-[#52525b]"
+          >
+            {c.who.memberNote}
+          </p>
+          <p
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5 text-sm leading-[1.8] text-[#52525b]"
+          >
+            {c.who.foreignNote}
+          </p>
+        </div>
+
+        <p class={sourceCls} set:html={srcHtml('who')} />
+      </div>
+    </section>
+
+    <!-- 捐贈上限 -->
+    <section class="bg-[#fdfaf2] py-16 md:py-24">
+      <div class="mx-auto max-w-[920px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.limits.title}</h2>
+        <p
+          class="mx-auto mb-10 max-w-[640px] text-center text-base leading-[1.75] text-[#52525b]"
+        >
+          {c.limits.intro}
+        </p>
+
+        <div
+          class="overflow-hidden rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white"
+        >
+          <table class="w-full table-fixed text-left text-sm md:text-base">
+            <thead class="bg-[#fef9ed] text-[#7c2d12]">
+              <tr>
+                <th scope="col" class="px-3 py-3 font-semibold md:px-5">
+                  {c.limits.colDonor}
+                </th>
+                <th scope="col" class="px-3 py-3 font-semibold md:px-5">
+                  {c.limits.colSame}
+                </th>
+                <th scope="col" class="px-3 py-3 font-semibold md:px-5">
+                  {c.limits.colAll}
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {
+                data.limits.rows.map((r) => (
+                  <tr class="border-t border-[#f1e8d2]">
+                    <th
+                      scope="row"
+                      class="px-3 py-3 font-medium text-[#1f2937] md:px-5"
+                    >
+                      {c.limits.donors[r.donor]}
+                    </th>
+                    <td class="px-3 py-3 tabular-nums text-[#374151] md:px-5">
+                      {c.money(r.same)}
+                    </td>
+                    <td class="px-3 py-3 tabular-nums text-[#374151] md:px-5">
+                      {c.money(r.all)}
+                    </td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+
+        <div class={`mt-5 ${cardCls}`}>
+          <h3 class="mb-2 text-base font-semibold text-[#7c2d12]" style={serif}>
+            {c.limits.partyTitle}
+          </h3>
+          <p class="mb-4 text-sm leading-[1.75] text-[#52525b]">
+            {c.limits.partyIntro}
+          </p>
+          <dl class="divide-y divide-[#f1e8d2] text-sm">
+            {
+              data.limits.partyToNominee.map((p) => (
+                <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 py-2.5">
+                  <dt class="text-[#374151]">{c.limits.offices[p.office]}</dt>
+                  <dd class="font-semibold tabular-nums text-[#7c2d12]">
+                    {c.money(p.amount)}
+                  </dd>
+                </div>
+              ))
+            }
+          </dl>
+        </div>
+
+        <p class="mt-5 text-sm leading-[1.75] text-[#52525b]">
+          {c.limits.penalty}
+        </p>
+        <p class={sourceCls} set:html={srcHtml('limits')} />
+      </div>
+    </section>
+
+    <!-- 匿名、現金、收據 ＋ 專戶 -->
+    <section class="bg-white py-16 md:py-24">
+      <div
+        class="mx-auto grid max-w-[1080px] gap-6 px-4 md:grid-cols-2 md:px-6"
+      >
+        <div class={cardCls}>
+          <h2
+            class="mb-5 text-[1.4rem] font-light text-[#1f2937] md:text-[1.6rem]"
+            style={heading}
+          >
+            {c.cash.title}
+          </h2>
+          <ul
+            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+          >
+            {c.cash.items.map((it) => <li>{it}</li>)}
+          </ul>
+          <p class={sourceCls} set:html={srcHtml('cash')} />
+        </div>
+
+        <div class={cardCls}>
+          <h2
+            class="mb-5 text-[1.4rem] font-light text-[#1f2937] md:text-[1.6rem]"
+            style={heading}
+          >
+            {c.account.title}
+          </h2>
+          <ul
+            class="list-disc space-y-2.5 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+          >
+            {c.account.items.map((it) => <li>{it}</li>)}
+          </ul>
+          <div
+            class="mt-5 rounded-xl border-[1.5px] border-dashed border-[#7c2d12]/30 bg-[#fef9ed] p-4"
+          >
+            <h3 class="mb-1.5 text-sm font-semibold text-[#7c2d12]">
+              {c.account.tipTitle}
+            </h3>
+            <p class="text-sm leading-[1.75] text-[#52525b]">
+              {c.account.tip}
+            </p>
+          </div>
+          <p class={sourceCls} set:html={srcHtml('account')} />
+        </div>
+      </div>
+    </section>
+
+    <!-- 抵稅 -->
+    <section class="bg-[#fdfaf2] py-16 md:py-20">
+      <div class="mx-auto max-w-[760px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.tax.title}</h2>
+        <div class={`mt-8 ${cardCls}`}>
+          <ul
+            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+          >
+            {c.tax.items.map((it) => <li>{it}</li>)}
+          </ul>
+        </div>
+        <p class={sourceCls} set:html={srcHtml('tax')} />
+      </div>
+    </section>
+
+    <!-- 競選經費最高金額 -->
+    <section id="spending" class="anchor-section bg-white py-16 md:py-24">
+      <div class="mx-auto max-w-[1080px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.caps.title}</h2>
+        <p
+          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-[#52525b]"
+        >
+          {c.caps.intro}
+        </p>
+
+        <div class="mb-8 grid gap-4 md:grid-cols-2">
+          <div
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5"
+          >
+            <h3
+              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              style={serif}
+            >
+              {c.caps.formulaTitle}
+            </h3>
+            <p class="text-sm leading-[1.8] text-[#374151]">{c.caps.formula}</p>
+          </div>
+          <div
+            class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-5"
+          >
+            <h3
+              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              style={serif}
+            >
+              {c.caps.usesTitle}
+            </h3>
+            <p class="text-sm leading-[1.8] text-[#374151]">{c.caps.uses}</p>
+          </div>
+        </div>
+
+        <div class="grid gap-6 md:grid-cols-2">
+          {
+            [
+              {
+                title: c.caps.tableMunicipal,
+                rows: data.spendingCaps.municipalMayors,
+              },
+              {
+                title: c.caps.tableCounty,
+                rows: data.spendingCaps.countyMayors,
+              },
+            ].map((tbl) => (
+              <div class="self-start overflow-hidden rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white">
+                <table class="w-full text-left text-sm">
+                  <caption class="bg-[#fef9ed] px-4 py-3 text-left text-base font-semibold text-[#7c2d12]">
+                    {tbl.title}
+                  </caption>
+                  <thead class="text-xs text-[#78716c]">
+                    <tr class="border-t border-[#f1e8d2]">
+                      <th scope="col" class="px-4 py-2 font-medium">
+                        {c.caps.colArea}
+                      </th>
+                      <th scope="col" class="px-4 py-2 text-right font-medium">
+                        {c.caps.colCap}
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {tbl.rows.map((r) => (
+                      <tr class="border-t border-[#f1e8d2]">
+                        <th
+                          scope="row"
+                          class="px-4 py-2 font-normal text-[#1f2937]"
+                        >
+                          {areaLabel(r.area)}
+                          {!isZh && (
+                            <span class="ml-1.5 text-xs text-[#9ca3af]">
+                              {r.area}
+                            </span>
+                          )}
+                        </th>
+                        <td class="px-4 py-2 text-right font-mono tabular-nums text-[#374151]">
+                          {capFmt(r.cap)}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            ))
+          }
+        </div>
+
+        <p class="mt-6 text-sm leading-[1.75] text-[#52525b]">{c.caps.note}</p>
+        <p class={sourceCls} set:html={srcHtml('caps')} />
+      </div>
+    </section>
+
+    <!-- 選舉補貼 -->
+    <section class="bg-[#fdfaf2] py-16 md:py-20">
+      <div class="mx-auto max-w-[760px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.subsidy.title}</h2>
+        <div class={`mt-8 ${cardCls}`}>
+          <ul
+            class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+          >
+            {c.subsidy.items.map((it) => <li>{it}</li>)}
+          </ul>
+          <p
+            class="mt-5 rounded-lg bg-[#fef3c7]/60 px-4 py-3 text-sm leading-[1.75] text-[#78350f]"
+          >
+            {c.subsidy.example}
+          </p>
+        </div>
+        <p class={sourceCls} set:html={srcHtml('subsidy')} />
+      </div>
+    </section>
+
+    <!-- 申報與公開 -->
+    <section class="bg-white py-16 md:py-24">
+      <div class="mx-auto max-w-[920px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.report.title}</h2>
+        <div class="mt-8 grid gap-5 md:grid-cols-[1.4fr_1fr]">
+          <div class={cardCls}>
+            <ul
+              class="list-disc space-y-3 pl-5 text-[0.95rem] leading-[1.8] text-[#374151] marker:text-[#92400e]"
+            >
+              {c.report.items.map((it) => <li>{it}</li>)}
+            </ul>
+          </div>
+          <div
+            class="self-start rounded-2xl border-[1.5px] border-dashed border-[#d4c5a0] bg-[#fdfaf2] p-6"
+          >
+            <h3
+              class="mb-2 text-base font-semibold text-[#7c2d12]"
+              style={serif}
+            >
+              {c.report.prevTitle}
+            </h3>
+            <p class="mb-3 text-sm leading-[1.7] text-[#52525b]">
+              {c.report.prevIntro}
+            </p>
+            <ol class="list-none space-y-3 pl-0 text-sm">
+              {
+                data.previousPublication.map((p) => (
+                  <li>
+                    <time
+                      datetime={p.iso}
+                      class="block font-mono tabular-nums text-[#7c2d12]"
+                    >
+                      {fmtDate(p.iso)}
+                    </time>
+                    <span class="leading-[1.65] text-[#374151]">
+                      {c.report.prev[p.scope]}
+                    </span>
+                  </li>
+                ))
+              }
+            </ol>
+            <p class="mt-4 text-sm leading-[1.7] text-[#52525b]">
+              {c.report.prevOutro}
+            </p>
+          </div>
+        </div>
+        <p class={sourceCls} set:html={srcHtml('report')} />
+      </div>
+    </section>
+
+    <!-- 怎麼查 -->
+    <section
+      id="how-to-check"
+      class="anchor-section bg-[#fdfaf2] py-16 md:py-24"
+    >
+      <div class="mx-auto max-w-[1080px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.howto.title}</h2>
+        <p
+          class="mx-auto mb-10 max-w-[680px] text-center text-base leading-[1.75] text-[#52525b]"
+        >
+          {c.howto.intro}
+        </p>
+
+        <div class="grid gap-5 lg:grid-cols-3">
+          {
+            howtoCards.map((card) => (
+              <div class="flex flex-col rounded-2xl border-[1.5px] border-[#e5e7eb] bg-white p-6">
+                <h3 class="text-lg font-semibold text-[#1f2937]" style={serif}>
+                  {card.name}
+                </h3>
+                <a
+                  href={card.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class={`mt-1 inline-block font-mono text-xs ${linkCls}`}
+                >
+                  {card.site}
+                </a>
+                <p class="mt-3 text-sm leading-[1.7] text-[#52525b]">
+                  {card.desc}
+                </p>
+                <ol
+                  class="mt-4 list-none space-y-3 pl-0 text-sm leading-[1.75] text-[#374151]"
+                  aria-label={c.howto.stepsLabel}
+                >
+                  {card.steps.map((s, i) => (
+                    <li class="flex gap-3">
+                      <span class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[#fef2ec] font-mono text-xs font-semibold text-[#7c2d12]">
+                        {i + 1}
+                      </span>
+                      <span>{s}</span>
+                    </li>
+                  ))}
+                </ol>
+                {card.note && (
+                  <p class="mt-4 rounded-lg border border-dashed border-[#d4c5a0] bg-[#fdfaf2] px-3 py-2.5 text-xs leading-[1.7] text-[#78716c]">
+                    {card.note}
+                  </p>
+                )}
+              </div>
+            ))
+          }
+        </div>
+
+        <div
+          class="mx-auto mt-8 max-w-[760px] rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/80 p-6 text-center"
+        >
+          <h3 class="mb-2 text-base font-semibold text-[#7c2d12]" style={serif}>
+            {c.howto.whenTitle}
+          </h3>
+          <p class="text-sm leading-[1.8] text-[#374151]">{c.howto.when}</p>
+        </div>
+
+        <p class={sourceCls} set:html={srcHtml('howto')} />
+        {
+          c.sourceNote && (
+            <p class="mt-1 text-xs italic text-[#9ca3af]">{c.sourceNote}</p>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- 延伸閱讀 -->
+    <section class="bg-white py-16 md:py-20">
+      <div class="mx-auto max-w-[1080px] px-4 md:px-6">
+        <h2 class={h2Cls} style={heading}>{c.related.title}</h2>
+        <div class="mt-8 grid gap-4 md:grid-cols-3">
+          {
+            c.related.articles.map((ar) => (
+              <a
+                href={ar.href}
+                class="group block rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/30 hover:bg-[#fef9ed] hover:shadow-[0_4px_16px_rgba(124,45,18,0.06)]"
+              >
+                <h3
+                  class="mb-2 text-lg font-semibold text-[#1f2937] group-hover:text-[#7c2d12]"
+                  style={serif}
+                >
+                  {ar.title}
+                </h3>
+                <p class="text-sm leading-[1.65] text-[#6b7280]">{ar.desc}</p>
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- 底部導覽 -->
+    <section class="border-t border-[#e7d9b8] bg-[#fef9ed] py-12">
+      <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
+        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+          {c.footTitle}
+        </h2>
+        <div class="flex flex-wrap justify-center gap-2.5">
+          <a
+            href={`${langPrefix}/elections/2026/`}
+            class="rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            >← {c.footHome}</a
+          >
+          {
+            c.footLinks
+              // 多視角觀點等哲宇審過才上線，上線前不連結
+              .filter((l) => l.slug !== 'perspectives')
+              .map((l) => (
+                <a
+                  href={`${langPrefix}/elections/2026/${l.slug}/`}
+                  class="rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                >
+                  {l.label}
+                </a>
+              ))
+          }
+        </div>
+        <p class="mt-8 text-xs text-[#9ca3af]">
+          <time datetime={data.lastVerified}>
+            {c.verified(fmtDate(data.lastVerified))}
+          </time>
+        </p>
+      </div>
+    </section>
+
+    {/* BreadcrumbList 由全站 SEO.astro 依網址產生，子頁不重複輸出 */}
+  </div>
+</Layout>
+
+<style>
+  .elections-donations {
+    overflow-wrap: anywhere;
+  }
+  .elections-donations .anchor-section {
+    scroll-margin-top: 80px;
+  }
+  .elections-donations .hero-title {
+    letter-spacing: -0.02em;
+  }
+  .elections-donations h2 {
+    letter-spacing: -0.01em;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(
+        circle at 20% 30%,
+        rgba(124, 45, 18, 0.05) 0%,
+        transparent 50%
+      ),
+      radial-gradient(
+        circle at 80% 70%,
+        rgba(146, 64, 14, 0.04) 0%,
+        transparent 50%
+      );
+    pointer-events: none;
+  }
+</style>
