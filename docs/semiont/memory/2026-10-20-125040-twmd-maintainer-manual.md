@@ -1,7 +1,7 @@
 # 2026-10-20-125040-twmd-maintainer-manual — 加開的維護班清掉四個 PR：預算表的國防與教科文是讀圖讀錯位，查核分身也跟著錯，harvest 的本機控制端點補上跨站防護
 
 > session twmd-maintainer-manual — 哲宇在選舉專頁 session 裡臨時加開的 `/twmd-maintainer`（side session），接今早 09:04 那班
-> Session span: 12:26:19 → 13:10 +0800（約 45 分鐘，本班 4 個 commit＋4 個 PR merge）
+> Session span: 12:26:19 → 16:20 +0800（第一段到 13:10 清完四個 PR；13:49 哲宇對 #104 拍板後接續到收官，含 #1829 重寫與合併）
 > 資料來源：`git log %ai`
 
 ✅ BECOME ack: mode=review→Full（ready PR 5 個含保留件，觸發 High-stake #1）/ 8 organ 最低=🛡️免疫 59（review_coverage=18.6，缺口 -20.35）/ Q13 anti-bias check=PASS / Q14 cross-session continuity=PASS
@@ -46,6 +46,14 @@ tboydar 第二輪寫「綁 loopback 之後，spawn 端點只剩本機程序可�
 
 #1831（等 OBSERVER-QUEUE #106，預設 10-23 到期）、#1789（npm 憑證，#95）、#1609（等 #85 帳號）、#1861（bot 告警，今早已說明三種 WARN 的成因）、#615（總表）：最後一則都是維護者或 bot，沒有新的投稿者追問，照 Step 2.4 不重複回。#1829 掛著保留 label，對應 #104（🔒紅線），沒碰。
 
+## 哲宇拍板 #104 之後：〈蔣萬安〉照新門檻重寫才合併
+
+第一段收官時唯一留給哲宇的是 #1829〈蔣萬安〉：選舉年的現任政治人物頁要不要收。13:49 他選 B。門檻寫進 MAINTAINER §人物文章知名度門檻 v2.18，#104 移入已決（`db9342789`）：現任公職照常收，候選人身分交給選舉專頁同一批對稱處理，選舉年內 incubating、FACTCHECK Full、不做候選人比較敘事、脊椎是公共角色與施政。
+
+照這把尺看，投稿草稿差的是骨架：後半段是一份失言與網路梗清單，一節寫選戰攻防，幾個來源是政黨粉專與 Threads。投稿者在 PR 說明裡請我們「以你本身的格式改善」，所以接手重寫。REWRITE-PIPELINE-SINGLE 交給一個乾淨 context 的 Opus 寫作席，在獨立工作樹完整跑（研究 146 次搜尋、投影室與正文結構室分席、FACTCHECK Full 約 218 個原子），我只出題與驗收。成品再過三個沒讀過研究的 Sonnet 冷讀席：三席都指出第一版把「照規定、照程序」當全篇總評、結尾還拿 10-20 當天的防颱答詢對照開場的大巨蛋，選舉年兩邊都會讀出話中有話。主編合成十條必改，寫作席全數接受；倫理席複審又挑出三個小標用了批評方的框架、一句壅塞沒標說話者，第二輪五條也全收。我親自對過十多句高風險引語與新加的事實，全部逐字相符。
+
+定稿 5,823 字、69 條腳註、5 張 CC 授權圖。先把最新 main 合進投稿者分支，再把定稿推上去（`c463c9358`、`4c79f9323`），CI 綠了才 `--merge` 合併（`3e6798934`），草稿版從頭到尾沒上線，投稿者保留 Merged 與譜系。合併後補上選舉專頁的 article 欄位、`_slug-map.json` 的 `chiang-wan-an`、〈台北鼠患〉〈台灣感性〉兩篇反向連結（`fd14e36db`）。5 月那條候選人頁佇列條目（Tier 1.3）補了進度，它寫明 ship 後不發孢子，照舊適用。
+
 ## Quality gate
 
 | Gate                                                 | 結果                                                                                                                         |
@@ -75,6 +83,10 @@ tboydar 第二輪寫「綁 loopback 之後，spawn 端點只剩本機程序可�
 
 - [ ] pending（任何寫作席位，INBOX 已登）：三條 EVOLVE——〈台灣媒體總史〉補廣播／電視／網路／自媒體（P0）、〈中央政府總預算〉補十年縱深與 tw-\* 圖表（P1）、〈支語誤判學〉補六型誤判（P1）。
 - [x] ~~#1876 修正的實際輸出~~ retired by 本班：工作樹 build 產物裡 `/ko/food` 導讀的 pill 已是 `/ko/food/night-market-culture`；預算篇表格九列加合計也照新版渲染。沒有開瀏覽器看線上版（部署 `e6c7a4549` 收官時還在跑）。
+- [x] ~~#1829〈蔣萬安〉等哲宇決定選舉年門檻（`OBSERVER-QUEUE #104`）~~ retired by 本班：哲宇 13:49 選 B，門檻寫入 MAINTAINER（`db9342789`），照新門檻重寫後合併（`3e6798934`）。
+- [ ] pending（`twmd-babel-nightly`，今晚）：〈蔣萬安〉十二語。選舉專頁外語版的候選人連結指向 `/{lang}/people/chiang-wan-an/`，譯文生成前是 404；slug 已登記（`fd14e36db`）。若要在譯文前改成退回中文頁，那是選舉專頁模板的事，收件席位是選舉專頁那個 session。
+- [ ] pending（孢子各班，零判斷條件續傳）：〈蔣萬安〉不發孢子，依據 ARTICLE-INBOX「2026 選舉 Tier 1.3」第 5 點與本班補的進度註記。
+- [ ] pending（`twmd-distill-weekly`）：LESSONS `projection-thesis-on-a-candidate-reads-as-verdict`（vc=1）。
 - [ ] pending（哲宇，`OBSERVER-QUEUE #105／#107（待決）`）：#1832 仍開著等這兩格，harvest 授權模型（誰能建 task、worktree 隔離）留在 issue 當紀錄，沒有排人做。
 
 ## Beat 5 — 反芻

@@ -1719,6 +1719,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #85（「不知道」需要自己的符號）；Step 11 新鮮度閘門只量檔案 mtime，量不到帳本列數的連續性，跟 #82 proxy signal 同形
 - **verification_count**: 1（+1 反例對照）
 
+### 2026-10-20 twmd-maintainer-manual — 選舉年候選人頁，用他自己的話撐起全篇論點，兩邊陣營都讀成評語
+
+- **pattern**: projection-thesis-on-a-candidate-reads-as-verdict
+- **原則**：PROJECTION 要求一篇文章要有論點，人物頁常把論點建在這個人反覆說的一句話上。放在選舉年的候選人身上，這種論點本身就是對他的性格下定論：支持者讀成「他守法」，反對者讀成「他只會照稿」，兩邊都讀出話中有話。候選人頁的脊椎改用公共角色與施政，他的話留在各自發生的段落當引語，不升成全篇的總評。
+- **觸發**：〈蔣萬安〉（PR #1829）照 REWRITE 重寫的第一版，title、description、30 秒概覽、開場與結尾都扣「照規定、照程序」，結尾再用 10-20 當天的防颱答詢對照開場的大巨蛋安全帽。三個乾淨 context 冷讀席（政治中立、門面與主軸、閱讀節奏）各自從不同角度點到同一件事：倫理席判它是暗諷、主軸席指出這句框架只有三處原話撐著、節奏席說它講了三四次。寫作席一輪全數接受，改成只列施政的標題與描述，颱風一節刪除 → [memory/2026-10-20-125040-twmd-maintainer-manual.md](memory/2026-10-20-125040-twmd-maintainer-manual.md)
+- **可能層級**：寫作規範（候選：MAINTAINER 選舉年政治人物門檻第 5 條補一句「論點不以候選人自己的話語習慣定調」，或 PROJECTION 加政治人物頁的例外）
+- **相關**：MANIFESTO §13 立體地愛；REFLEXES #77（spine 依主題類型決定）；EDITORIAL「政治人物要多面觀點」
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

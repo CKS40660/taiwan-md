@@ -1985,6 +1985,8 @@ BECOME_TAIWANMD.md Step 5 新增：
 4. 每個獨立 entry 走 REWRITE-PIPELINE Fresh，hook **必須**鎖立法／市政／政策履歷層，**禁止**「為什麼會當選 / 敗選」framing
 5. ship 完**不發 spore**（per 選前 30 天 spore freeze + 避免 viral 期 endorsement reading）
 
+- **2026-10-20 進度（twmd-maintainer-manual）**：哲宇對 OBSERVER-QUEUE #104 選 B，選舉年現任／候選政治人物頁的收錄門檻寫進 MAINTAINER §人物文章知名度門檻（現任公職照常收，候選人身分交給 /elections/2026 同一批對稱處理：每位候選人同樣大小的「讀條目／＋一起寫」入口）。〈蔣萬安〉由投稿者 idlccp1984 起稿（PR #1829），照新門檻走 REWRITE 重寫後合併（`3e6798934`），選舉專頁的 article 欄位已接（`fd14e36db`）。台北市長兩位主要候選人現在都有條目（沈伯洋、蔣萬安）。本條第 5 點「ship 完不發 spore」照舊適用於〈蔣萬安〉。
+
 **Hook 框架共通**（per [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md) 既有 pattern）：
 
 - 一個具體場景開頭（不是「他出生於...」這種維基 lead）
