@@ -136,7 +136,8 @@
           "number": null,
           "registeredOn": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "article": { "zh": "蔣萬安", "slug": "chiang-wan-an" }
         },
         {
           "name": "林志成",
