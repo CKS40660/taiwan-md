@@ -945,3 +945,9 @@
 {"ts": "2026-10-10T22:06:23Z", "slug": "台灣皇蛾", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-10T22:06:23Z", "slug": "客家飲食文化", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-19T22:06:34Z", "slug": "台灣公投制度", "stage": "ship", "status": "done", "source": "observed", "sha": "be3a2d80836c"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "蔣萬安", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "蔣萬安", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "蔣萬安", "stage": "ship", "status": "done", "source": "observed", "sha": "5323117cc707"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "中央政府總預算", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "支語誤判學", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-10-20T22:06:14Z", "slug": "台灣媒體總史", "stage": "inbox", "status": "pending", "source": "observed"}

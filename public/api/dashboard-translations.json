@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T22:06:27.129Z",
+  "lastUpdated": "2026-10-20T22:06:07.325Z",
   "languages": [
     "zh-TW",
     "en",
@@ -17,17 +17,17 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 1141,
+      "total": 1146,
       "percentage": 100,
-      "fresh": 1141,
+      "fresh": 1146,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1143,
+      "fresh": 1148,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -37,9 +37,9 @@
       "bodyFreshPct": 100
     },
     "ja": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 0,
       "stale": 1,
       "missing": 0,
@@ -49,9 +49,9 @@
       "bodyFreshPct": 99.9
     },
     "ko": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 0,
       "stale": 1,
       "missing": 0,
@@ -61,9 +61,9 @@
       "bodyFreshPct": 99.9
     },
     "es": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 0,
       "stale": 1,
       "missing": 0,
@@ -73,9 +73,9 @@
       "bodyFreshPct": 99.9
     },
     "fr": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 0,
       "stale": 1,
       "missing": 0,
@@ -85,9 +85,9 @@
       "bodyFreshPct": 99.9
     },
     "vi": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1143,
+      "fresh": 1148,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -97,9 +97,9 @@
       "bodyFreshPct": 100
     },
     "id": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1140,
+      "fresh": 1145,
       "metadataStale": 3,
       "stale": 0,
       "missing": 0,
@@ -109,9 +109,9 @@
       "bodyFreshPct": 100
     },
     "pt": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 1,
       "stale": 0,
       "missing": 0,
@@ -121,9 +121,9 @@
       "bodyFreshPct": 100
     },
     "hi": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1142,
+      "fresh": 1147,
       "metadataStale": 1,
       "stale": 0,
       "missing": 0,
@@ -133,9 +133,9 @@
       "bodyFreshPct": 100
     },
     "ar": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1143,
+      "fresh": 1148,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -145,9 +145,9 @@
       "bodyFreshPct": 100
     },
     "ru": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1143,
+      "fresh": 1148,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -157,9 +157,9 @@
       "bodyFreshPct": 100
     },
     "de": {
-      "total": 1143,
+      "total": 1148,
       "percentage": 100,
-      "fresh": 1135,
+      "fresh": 1140,
       "metadataStale": 5,
       "stale": 3,
       "missing": 0,
@@ -345,87 +345,87 @@
       }
     },
     "culture": {
-      "zh-TW": 115,
+      "zh-TW": 116,
       "en": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "vi": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "id": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "pt": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ar": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ru": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "de": {
-        "count": 115,
-        "fresh": 115,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
         "deficit": 0
@@ -1041,261 +1041,261 @@
       }
     },
     "people": {
-      "zh-TW": 295,
+      "zh-TW": 296,
       "en": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "vi": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "id": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "pt": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ar": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ru": {
-        "count": 295,
-        "fresh": 295,
+        "count": 296,
+        "fresh": 296,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "de": {
-        "count": 291,
-        "fresh": 288,
+        "count": 292,
+        "fresh": 289,
         "stale": 3,
         "missing": 0,
         "deficit": 4
       }
     },
     "politics": {
-      "zh-TW": 19,
+      "zh-TW": 20,
       "en": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "vi": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "id": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "pt": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ar": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ru": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "de": {
-        "count": 19,
-        "fresh": 19,
+        "count": 20,
+        "fresh": 20,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       }
     },
     "society": {
-      "zh-TW": 120,
+      "zh-TW": 122,
       "en": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 120,
-        "fresh": 119,
+        "count": 122,
+        "fresh": 121,
         "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 120,
-        "fresh": 119,
+        "count": 122,
+        "fresh": 121,
         "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 120,
-        "fresh": 119,
+        "count": 122,
+        "fresh": 121,
         "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 120,
-        "fresh": 119,
+        "count": 122,
+        "fresh": 121,
         "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "vi": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "id": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "pt": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
-        "count": 119,
-        "fresh": 119,
+        "count": 121,
+        "fresh": 121,
         "stale": 0,
         "missing": 0,
         "deficit": 1
       },
       "ar": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ru": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "de": {
-        "count": 120,
-        "fresh": 120,
+        "count": 122,
+        "fresh": 122,
         "stale": 0,
         "missing": 0,
         "deficit": 0

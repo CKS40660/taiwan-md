@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14859,
+  "totalArticles": 14924,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8949,
+  "totalTags": 8982,
   "categories": [
     {
       "name": "vi",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "es",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "ko",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "hi",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "fr",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "en",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "ja",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "de",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "ru",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "Technology",
@@ -50,23 +50,23 @@
     },
     {
       "name": "id",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "ar",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "pt",
-      "count": 1143
+      "count": 1148
     },
     {
       "name": "Politics",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Society",
-      "count": 120
+      "count": 122
     },
     {
       "name": "Food",
@@ -82,11 +82,11 @@
     },
     {
       "name": "People",
-      "count": 295
+      "count": 296
     },
     {
       "name": "Culture",
-      "count": 115
+      "count": 116
     },
     {
       "name": "Geography",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14859,
+    "zh-TW": 14924,
     "en": 0
   },
-  "lastUpdated": "2026-10-19T22:06:11.420Z",
-  "stars": 1218,
-  "forks": 187,
-  "zhPages": 1141,
+  "lastUpdated": "2026-10-20T22:05:51.211Z",
+  "stars": 1219,
+  "forks": 186,
+  "zhPages": 1146,
   "languagePages": {
-    "zh-TW": 1141,
-    "en": 1143,
-    "ja": 1143,
-    "ko": 1143,
-    "es": 1143,
-    "fr": 1143,
-    "vi": 1143,
-    "id": 1143,
-    "pt": 1143,
-    "hi": 1143,
-    "ar": 1143,
-    "ru": 1143,
-    "de": 1143
+    "zh-TW": 1146,
+    "en": 1148,
+    "ja": 1148,
+    "ko": 1148,
+    "es": 1148,
+    "fr": 1148,
+    "vi": 1148,
+    "id": 1148,
+    "pt": 1148,
+    "hi": 1148,
+    "ar": 1148,
+    "ru": 1148,
+    "de": 1148
   },
-  "enPages": 1143,
-  "totalPages": 1141
+  "enPages": 1148,
+  "totalPages": 1146
 }

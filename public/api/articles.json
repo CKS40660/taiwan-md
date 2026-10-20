@@ -3305,6 +3305,40 @@
     "path": "ja/Culture/ghost-festival-zhongyuan.md"
   },
   {
+    "title": "中央政府総予算：3兆元どう配分し、立法院はどこを削ったか",
+    "description": "114年度総予算は3兆1,325億元で編列され、立法院が2,075億元を減額し2兆9,248億元となり、史上最大の削減額を記録した。115年度は3兆349億元で編列され、480億元の減額となったが、史上最も遅い三読成立となった。同一の国防支出が9,495億元とも6,973億元とも報じられる理由を、行政院と立法院の公式数字を用いて、編列・法定・決算・特別予算の4つの視点から整理する。",
+    "category": "ja",
+    "tags": [
+      "中央政府総予算",
+      "立法院",
+      "主計総処",
+      "国防予算",
+      "予算審査"
+    ],
+    "url": "https://taiwan.md/ja/politics/central-government-general-budget",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ja/Politics/central-government-general-budget.md"
+  },
+  {
+    "title": "中央政府總預算：三兆元怎麼分，立法院砍在哪",
+    "description": "114 年度總預算編列 3 兆 1,325 億元，立法院減列 2,075 億元後成為 2 兆 9,248 億元，是史上最大刪減。115 年度編列 3 兆 349 億元，減列 480 億元，卻是史上最晚三讀。同一筆國防支出，可以報成 9,495 億元，也可以報成 6,973 億元。這篇用行政院與立法院的官方數字，拆開編列、法定、決算與特別預算四個口徑。",
+    "category": "Politics",
+    "tags": [
+      "中央政府總預算",
+      "立法院",
+      "主計總處",
+      "國防預算",
+      "預算審查"
+    ],
+    "url": "https://taiwan.md/politics/%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%A0%90%E7%AE%97",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "Politics/中央政府總預算.md"
+  },
+  {
     "title": "中央研究院：一個為了研究中國而生的機構，怎麼把自己種進這座島",
     "description": "1948 年冬天，全國最高學術機關落地台灣，隨遷的只有五十餘人，史語所的文物箱件堆在楊梅火車站旁的倉庫裡。七十幾年後它有二十四個研究所、九個研究中心，換到的是一種罕見的長度：十年挖一個遺址、十一年設一個所。讓它能這樣做的那個設計——不教書、不招生、直屬總統府——同時讓它的頭由總統任命、預算逐年被翻開、連名字要不要改都成了國家定位問題。",
     "category": "Society",
@@ -4186,6 +4220,40 @@
     "featured": false,
     "date": "2026-05-03",
     "path": "History/心戰.md"
+  },
+  {
+    "title": "支語誤判学：なぜ一つの言葉が台湾語と中国語の両方になるのか",
+    "description": "教育部『重編國語辭典』では「土豆」は同時に落花生の別名、大陸地域のジャガイモ、そして一種の植物を指しています。官方『両岸常用詞語対照表』ではこれを「ジャガイモ」の項目に収録し、同じ欄に洋芋や山藥蛋も列挙しています。流布している「支語リスト」がこれら二つの官方資料に出会うと、判定が不安定な原因はネット論争ではなく、辞典自体の多義性と対照表の設計目的にあることが明らかになります。",
+    "category": "ja",
+    "tags": [
+      "言語",
+      "支語",
+      "教育部辞典",
+      "両岸用語",
+      "語彙の流動性"
+    ],
+    "url": "https://taiwan.md/ja/culture/china-term-misjudgment",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ja/Culture/china-term-misjudgment.md"
+  },
+  {
+    "title": "支語誤判學：一個詞為什麼會同時是台灣話與中國話",
+    "description": "「土豆」在教育部《重編國語辭典》裡同時是落花生的別名、大陸地區的馬鈴薯，與一種植物。官方《兩岸常用詞語對照表》把它收在「馬鈴薯」條下，同一個詞條還列了洋芋、山藥蛋。當一份流傳的「支語清單」遇上這兩份官方資料，會發現判定不穩定的來源不是網路吵架，而是詞典本身的多義與對照表的設計目的。",
+    "category": "Culture",
+    "tags": [
+      "語言",
+      "支語",
+      "教育部辭典",
+      "兩岸用語",
+      "詞彙流動"
+    ],
+    "url": "https://taiwan.md/culture/%E6%94%AF%E8%AA%9E%E8%AA%A4%E5%88%A4%E5%AD%B8",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "Culture/支語誤判學.md"
   },
   {
     "title": "文化內容策進院：一個被要求跑得像企業的政府機構，和它七年來撞的同一面牆",
@@ -5345,7 +5413,7 @@
       "生ごみ"
     ],
     "url": "https://taiwan.md/ja/society/taipei-rat-problem",
-    "readingTime": 42,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-05-05",
     "path": "ja/Society/taipei-rat-problem.md"
@@ -6688,9 +6756,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/culture/taiwanese-sensibility",
-    "readingTime": 66,
+    "readingTime": 68,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-08",
     "path": "ja/Culture/taiwanese-sensibility.md"
   },
   {
@@ -9914,6 +9982,23 @@
     "path": "ja/Culture/taiwan-meme-culture.md"
   },
   {
+    "title": "台湾メディア総史：教会報から自媒体への五つの転換点",
+    "description": "1885年7月12日、バクスリーが『台湾府城教会報』を創刊し、白話字を用いて漢字が読めない人にも新聞を読める環境を作りました。これが台湾初の新聞です。その後、日本統治時代の四大日報と『台湾民報』、戦後の報禁と党外雑誌、解厳後の市場化と独占問題、そして現在の信頼度調査に至るまで、メディア形式の変化のたびに政治権力の再配分が伴いました。",
+    "category": "ja",
+    "tags": [
+      "メディア史",
+      "報禁",
+      "台湾民報",
+      "教会公報",
+      "メディア信頼"
+    ],
+    "url": "https://taiwan.md/ja/society/history-of-taiwan-media",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ja/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "台湾レインボーロード：街頭の闘いから「ウェイモン星球」の愛と平等権へ",
     "description": "2017年の司法院釈字第748号解釈が台湾の同性婚合法化への道を開きました。祁家威（チー・ジャーウェイ）の孤独な闘い、葉永鋕（イェー・ヨンジー）の性別教育への啓蒙、そして「崴崴孟孟（ウェイウェイモンモン）」の日常のラブストーリーまで、台湾のLGBTQ+コミュニティはいかに愛と強さでアジアの平等権の新たな章を書き記してきたのでしょうか。",
     "category": "ja",
@@ -13072,6 +13157,23 @@
     "path": "Society/台灣媒體與新聞自由.md"
   },
   {
+    "title": "台灣媒體總史：從教會報到自媒體的五個轉折",
+    "description": "1885 年 7 月 12 日，巴克禮創辦《臺灣府城教會報》，用白話字讓不識漢字的人也能讀報，這是台灣第一份報紙。此後日治時期的四大日報與《台灣民報》、戰後的報禁與黨外雜誌、解嚴後的市場化與壟斷爭議，到今天的信任度調查，媒體形式的每一次改變，都跟著政治權力的重分配。",
+    "category": "Society",
+    "tags": [
+      "媒體史",
+      "報禁",
+      "台灣民報",
+      "教會公報",
+      "媒體信任"
+    ],
+    "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E7%B8%BD%E5%8F%B2",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "Society/台灣媒體總史.md"
+  },
+  {
     "title": "台灣循環經濟與資源再利用",
     "description": "從線性經濟轉向循環經濟，探索台灣資源回收、廢棄物處理與永續發展模式",
     "category": "Economy",
@@ -15603,6 +15705,34 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "Lifestyle/全民健保.md"
+  },
+  {
+    "title": "全社会防衛レジリエンス：980万世帯に届けられる一冊の手冊",
+    "description": "2025年11月、国防部は新版『台湾全民安全指針』の印刷を開始しました。総数は約1,100万部で、選挙公報と同様に村里長（行政区の代表）が各戸へ直接配布し、2026年1月5日までに台湾全土の980万世帯以上に届けることを目標としています。公式の説明によれば、この冊子には「政府の降伏や国家の敗北に関する情報はすべて偽情報である」という文言が初めて明記されました。その背景には、総統府直轄の全社会防衛レジリエンス委員会による5つの柱と4つのレジリエンス、そして「万安（ばんあん）」と「民安（みんあん）」を統合した新たな都市レジリエンス演習があります。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/whole-of-society-defense-resilience",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ja/Society/whole-of-society-defense-resilience.md"
+  },
+  {
+    "title": "全社會防衛韌性：一本送到九百八十萬戶的手冊",
+    "description": "2025 年 11 月，國防部開始印製新版《台灣全民安全指引》，總量約一千一百萬份，比照選舉公報由村里長逐戶投遞，目標在 2026 年 1 月 5 日前送到全台九百八十多萬戶。官方說明這是手冊第一次明寫：「任何關於政府投降或國家戰敗的訊息，都是假訊息」。它的背後是總統府的全社會防衛韌性委員會、五大主軸與四大韌性，以及一場把萬安、民安整併的城鎮韌性演習。",
+    "category": "Society",
+    "tags": [
+      "全社會防衛韌性",
+      "全民安全指引",
+      "民防",
+      "城鎮韌性演習",
+      "國防"
+    ],
+    "url": "https://taiwan.md/society/%E5%85%A8%E7%A4%BE%E6%9C%83%E9%98%B2%E8%A1%9B%E9%9F%8C%E6%80%A7",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "Society/全社會防衛韌性.md"
   },
   {
     "title": "全聯福利中心：從黑臭福利社到台灣零售之王的逆襲",
@@ -30341,6 +30471,28 @@
     "path": "ja/People/chiang-wei-shui.md"
   },
   {
+    "title": "蔣萬安：弁護士出身の台北市長、任期中の大巨蛋、都市更新、公館環状交差点、および財劃法の争い",
+    "description": "蔣萬安は中国国民党所属の台北市長で、アメリカで弁護士として活動し、2期連続で立法委員を務めた後、2022年の三つ巴の選挙で当選しました。任期中には大巨蛋（台北ドーム）の使用許可取得、京華城に対する容積率インセンティブの取消、都市更新の推進、出産奨励金の倍増、台北・新北世壮運（スポーツ大会）の開催、和平新生天橋と公館環状交差点の撤去を行いました。また、行政院とは財劃法改正後のMRT補助金を巡って争い、市長として二二八追思会で何度も謝罪を行っています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/chiang-wan-an",
+    "readingTime": 105,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/People/chiang-wan-an.md"
+  },
+  {
+    "title": "蔣萬安：律師出身的台北市長，任內的大巨蛋、都更、公館圓環與財劃法之爭",
+    "description": "蔣萬安是中國國民黨籍的台北市長，在美國當過律師，做過兩屆立委，2022 年三方角逐中當選。任內大巨蛋取得使用執照，市府撤銷京華城的容積獎勵、推都更、把生育獎勵金加倍，辦了雙北世壯運，拆除和平新生天橋與公館圓環，也和行政院爭財劃法修法後的捷運補助，並多次以市長身分在二二八追思會上致歉。",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/people/%E8%94%A3%E8%90%AC%E5%AE%89",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "People/蔣萬安.md"
+  },
+  {
     "title": "蔣經國：把威權的門推開一條縫的人",
     "description": "蔣經國既是戒嚴體制的掌舵者，也是晚年啟動解嚴與政治開放的人；理解這個矛盾，才能看見台灣民主不是誰恩賜的終點。",
     "category": "People",
@@ -33437,6 +33589,17 @@
     "path": "pt/Society/dpp-founding.md"
   },
   {
+    "title": "A General History of Taiwan's Media: Five Turning Points from Church Papers to Self-Media",
+    "description": "On July 12, 1885, Thomas Barclay founded the Taiwan Church News, using Pe̍h-ōe-jī so that those who could not read Chinese characters could also read the news—this was Taiwan's first newspaper. Thereafter came the four major daily papers and the Taiwan Minpao during the Japanese colonial era, the newspaper ban and opposition magazines in the postwar period, marketization and monopoly controversies after martial law was lifted, and today's trust surveys—every change in media form has accompanied a redistribution of political power.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/history-of-taiwan-media",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "en/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "A geração \"slash\" de Taiwan — sobrevivência e escolhas de quem trabalha mais de um emprego",
     "description": "Quando um mestrado rende apenas o aluguel de um quarto em Taipé, a barra não é uma escolha, mas uma equação de sobrevivência",
     "category": "pt",
@@ -35812,6 +35975,17 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "pt/People/ang-lee.md"
+  },
+  {
+    "title": "Anggaran Pusat Pemerintah: Bagaimana Tiga Triliun Dibagi, Di Mana Legislatif Memotong",
+    "description": "Anggaran pusat tahun fiskal 114 ditetapkan NT$3,1325 triliun, Legislatif mengurangi NT$207,5 miliar menjadi NT$2,9248 triliun—pemotongan terbesar dalam sejarah. Tahun 115 ditetapkan NT$3,0349 triliun, dikurangi NT$48 miliar, tetapi merupakan pembacaan ketiga paling terlambat dalam sejarah. Pengeluaran pertahanan tahun yang sama dapat dilaporkan sebagai NT$949,5 miliar atau NT$697,3 miliar. Artikel ini menguraikan empat metrik—penetapan, penetapan hukum, penyelesaian, dan anggaran khusus—menggunakan angka resmi dari Dewan Eksekutif dan Legislatif.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/politics/central-government-general-budget",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "id/Politics/central-government-general-budget.md"
   },
   {
     "title": "Anggrek Taiwan: Bagaimana Sekuntum Bunga Menjadi Komoditas Ekspor dalam Rantai Pasok Global",
@@ -40367,6 +40541,17 @@
     "path": "id/Lifestyle/taiwan-youbike-and-micromobility-revolution.md"
   },
   {
+    "title": "Budget du gouvernement central : comment se répartissent les trois mille milliards, et où le Yuan législatif a-t-il réduit ?",
+    "description": "Le budget 2025 du gouvernement central de Taïwan s'élève à NT$3,1325 billion, réduit de NT$207,5 milliards par le Yuan législatif pour atteindre NT$2,9248 billion — la plus grande réduction de l'histoire. Le budget 2026 s'élève à NT$3,0349 billion, réduit de NT$48 milliards, mais approuvé en troisième lecture le plus tard jamais enregistré. Une même ligne de dépense de défense peut être rapportée comme NT$949,5 milliards ou NT$697,3 milliards selon la méthode de calcul. Cet article démêle les quatre méthodes comptables : crédits budgétés, crédits légaux, dépenses réelles et budgets spéciaux.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/politics/central-government-general-budget",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "fr/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "Búho pescador leonado: una pareja por cada seis kilómetros de arroyo, rapaz nocturna sobre un árbol de Michelia de 1.800 metros",
     "description": "En abril de 2026, el profesor asistente Hong Hsiao-yu, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, localizó en una cavidad de un viejo árbol de Michelia, con un diámetro a la altura del pecho de unos 1,5 metros, junto al arroyo Qijiawan, el nido de búho pescador leonado más alto conocido en Taiwán: alrededor de 1.800 metros sobre el nivel del mar. Esta especie, el búho más grande de Taiwán, fue registrada por primera vez recién en 1916 por el académico japonés Nagamichi Kuroda. El laboratorio de Sun Yuan-hsun, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, la ha seguido durante treinta años: en 91 territorios, cada pareja requiere en promedio 6,2 kilómetros de arroyo. Un tramo de arroyo sin cemento, un árbol gigante que aún no ha caído: el búho pescador leonado vive en la grieta donde dos cosas de los bosques montañosos de Taiwán todavía no han desaparecido.",
     "category": "es",
@@ -41113,7 +41298,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/culture/taiwanese-sensibility",
-    "readingTime": 169,
+    "readingTime": 171,
     "featured": true,
     "date": "2026-04-08",
     "path": "vi/Culture/taiwanese-sensibility.md"
@@ -41655,6 +41840,17 @@
     "featured": false,
     "date": "2026-08-25",
     "path": "es/Food/taiwan-herbal-tea.md"
+  },
+  {
+    "title": "Central Government General Budget: How NT$3 Trillion is Allocated and Where the Legislature Cuts",
+    "description": "The FY2025 budget was set at NT$3.1325 trillion, but after a record NT$207.5 billion cut by the Legislative Yuan, it became NT$2.9248 trillion. The FY2026 budget of NT$3.0349 trillion saw a NT$48 billion cut and holds the record for the latest third reading. This article breaks down the four perspectives—proposed, statutory, final accounts, and special budgets—using official figures from the Executive Yuan and Legislative Yuan.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/politics/central-government-general-budget",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "en/Politics/central-government-general-budget.md"
   },
   {
     "title": "Centro Espacial Nacional: Tras treinta y dos años, un centro espacial para una nación que aún no tiene nombre",
@@ -44776,6 +44972,72 @@
     "featured": false,
     "date": "2026-04-10",
     "path": "id/History/chiang-kai-shek-memorial-hall.md"
+  },
+  {
+    "title": "Chiang Wan-an : maire de Taipei formé en droit, et les enjeux du Dôme géant, de la rénovation urbaine, du carrefour de Gonguan et de la loi de répartition fiscale durant son mandat",
+    "description": "Chiang Wan-an est le maire de Taipei du Kuomintang (KMT). Ancien avocat aux États-Unis et député pendant deux mandats, il a été élu en 2022 lors d'une compétition à trois candidats. Durant son mandat, le Dôme géant a obtenu son permis d'exploitation, l'administration municipale a révoqué les bonus de densité constructible du Jinghua City, a promu la rénovation urbaine, a doublé les allocations natalistes, a organisé les Jeux mondiaux des jeunes avec New Taipei, a démoli le viaduc Heping-Xinsheng et le carrefour de Gonguan, s'est disputé avec le Yuan exécutif sur les subventions de métro suite à la révision de la loi de répartition fiscale, et s'est excusé à plusieurs reprises en tant que maire lors des cérémonies commémoratives du 28 février.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/chiang-wan-an",
+    "readingTime": 284,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/People/chiang-wan-an.md"
+  },
+  {
+    "title": "Chiang Wan-an: Alcalde de Taipei de origen abogado, con la Bóveda Gigante, renovación urbana, la rotonda de Gongguan y la disputa sobre la Ley de Asignación Fiscal durante su mandato",
+    "description": "Chiang Wan-an es alcalde de Taipei del Partido Nacionalista Chino, trabajó como abogado en Estados Unidos, fue legislador durante dos períodos y fue elegido en una contienda de tres vías en 2022. Durante su mandato, la Bóveda Gigante obtuvo su licencia de uso, el gobierno municipal revocó los incentivos de densidad de construcción de Jinghua City, impulsó la renovación urbana, duplicó las bonificaciones por natalidad, organizó los Juegos Mundiales de Deporte Universitario de Doble Ciudad, demolió el Puente Heping-Xinsheng y la rotonda de Gongguan, también disputó con la Administración Ejecutiva sobre los subsidios de transporte rápido tras la enmienda de la Ley de Asignación Fiscal, y se disculpó múltiples veces en su calidad de alcalde en conmemoraciones del 28 de febrero.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/chiang-wan-an",
+    "readingTime": 274,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/People/chiang-wan-an.md"
+  },
+  {
+    "title": "Chiang Wan-an: Der Anwalt-Bürgermeister von Taipeh und die Debatten um das Taipei Dome, Stadterneuerung, den Gongguan-Kreisverkehr und das Gesetz über die Finanzplanung der Verkehrsinfrastruktur",
+    "description": "Chiang Wan-an ist der Bürgermeister von Taipeh von der Kuomintang (KMT). Er war als Anwalt in den USA tätig, diente zwei Amtszeiten als Legislator und wurde 2022 in einem Dreikampf gewählt. Während seiner Amtszeit erhielt der Taipei Dome die Betriebserlaubnis, die Stadtverwaltung strich die Flächennutzungsboni für das Jinghua City Projekt, trieb die Stadterneuerung voran, verdoppelte die Geburtsbeihilfen, veranstaltete die Taipei-New Taipei City Universiade, ließ die Heping-Xinsheng-Fußgängerbrücke und den Gongguan-Kreisverkehr entfernen, stritt mit dem Exekutiv-Yuan um MRT-Subventionen nach der Änderung des Gesetzes über die Finanzplanung der Verkehrsinfrastruktur und entschuldigte sich mehrfach als Bürgermeister bei der Gedenkfeier zum 228-Zwischenfall.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/chiang-wan-an",
+    "readingTime": 283,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/People/chiang-wan-an.md"
+  },
+  {
+    "title": "Chiang Wan-an: Prefeito de Taipei formado em Direito, e as controvérsias sobre o Domo de Taipei, renovação urbana, Roundabout de Gongguan e a Lei de Alocação Fiscal durante seu mandato",
+    "description": "Chiang Wan-an é prefeito de Taipei pelo Partido Nacionalista Chinês, trabalhou como advogado nos Estados Unidos, foi deputado por dois mandatos e foi eleito em 2022 em uma disputa triangular. Durante seu mandato, o Domo de Taipei obteve licença de operação, a prefeitura revogou incentivos de potencial construtivo para o Jinghua City, promoveu renovação urbana, dobrou o subsídio de natalidade, sediou os Jogos Mundiais de Desportos para Deficientes entre Taipei e Nova Taipei, demoliu a Passarela Heping-Xinsheng e o Roundabout de Gongguan, disputou com o Executivo sobre subsídios de metrô após a reforma da Lei de Alocação Fiscal, e pediu desculpas múltiplas vezes como prefeito em cerimônias de homenagem ao 28 de Fevereiro.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/chiang-wan-an",
+    "readingTime": 266,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/People/chiang-wan-an.md"
+  },
+  {
+    "title": "Chiang Wan-an: Taipei Mayor with a Legal Background, Overseeing the Dome, Urban Renewal, Gonguan Roundabout, and Fiscal Allocation Act Disputes",
+    "description": "Chiang Wan-an is a Taipei mayor from the Chinese Unification Promotion Party who practiced law in the United States and served two terms as a legislator before being elected in a three-way race in 2022. During his tenure, the Taipei Dome obtained its use permit, the city government revoked density bonuses for Jinghua City, promoted urban renewal, doubled birth incentive payments, hosted the Taipei-New Taipei World Masters Games, demolished the Peace New Life Overpass and Gonguan Roundabout, disputed with the Executive Yuan over MRT subsidies following amendments to the Fiscal Allocation Act, and apologized multiple times as mayor at 228 Incident memorial services.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/chiang-wan-an",
+    "readingTime": 248,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/People/chiang-wan-an.md"
+  },
+  {
+    "title": "Chiang Wan-an: Walikota Taipei Berlatar Belakang Pengacara, Kontroversi Taipei Dome, Peremajaan Kota, Lingkaran Gongguan, dan UU Perencanaan Keuangan Selama Masa Jabatannya",
+    "description": "Chiang Wan-an adalah Walikota Taipei dari Kuomintang yang pernah bekerja sebagai pengacara di Amerika Serikat dan menjabat sebagai anggota Legislatif selama dua periode, lalu terpilih dalam persaingan tiga pihak pada tahun 2022. Selama masa jabatannya, Taipei Dome memperoleh izin penggunaan, pemerintah kota membatalkan insentif rasio lantai bangunan Jinghua City, mendorong peremajaan kota, menggandakan tunjangan kelahiran, menyelenggarakan Taipei-New Taipei City Games, membongkar jembatan penyeberangan Heping Xinsheng dan Lingkaran Gongguan, serta berselisih dengan Eksekutif mengenai subsidi MRT setelah revisi UU Perencanaan Keuangan. Ia juga beberapa kali menyampaikan permohonan maaf atas nama Walikota dalam upacara peringatan Insiden 228.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/chiang-wan-an",
+    "readingTime": 267,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/People/chiang-wan-an.md"
   },
   {
     "title": "Chiang Wei-shiu: El médico que diagnosticó las patologías coloniales con sus \"Conferencias Clínicas\"",
@@ -52496,6 +52758,28 @@
     "path": "vi/Nature/taiwan-island-natural-history.md"
   },
   {
+    "title": "Dialectologie des erreurs de classification : pourquoi un mot peut-il être à la fois du taïwanais et du chinois ?",
+    "description": "Le mot « tǔdòu » (土豆) figure dans le Dictionnaire révisé du Ministère de l'Éducation comme synonyme d'arachide, comme désignant la pomme de terre en Chine continentale, et comme nom d'une plante. Le Tableau de correspondance des termes courants inter-détroit du Ministère le classe sous « pomme de terre » avec d'autres variantes. Quand une « liste de dialectes » circulante rencontre ces deux ressources officielles, on découvre que l'instabilité du jugement ne provient pas des querelles en ligne, mais de la polysémie des dictionnaires eux-mêmes et de l'objectif de conception des tableaux de correspondance.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/china-term-misjudgment",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "fr/Culture/china-term-misjudgment.md"
+  },
+  {
+    "title": "Dialektfehlklassifizierung: Warum ein Wort gleichzeitig taiwanesisch und chinesisch sein kann",
+    "description": "Das Wort „土豆\" (tǔdòu) wird im Ministerium für Bildung „Überarbeitetes Wörterbuch der Nationalsprache\" gleichzeitig als Synonym für Erdnuss, als Kartoffel in Festlandchina und als eine Pflanze definiert. Die offizielle „Vergleichstabelle häufig verwendeter Begriffe zwischen beiden Seiten der Taiwanstraße\" ordnet es unter dem Eintrag „Kartoffel\" ein, wobei derselbe Eintrag auch „Yangyu\" und „Shanyao-Ei\" auflistet. Wenn eine verbreitete „Dialekt-Checkliste\" auf diese beiden offiziellen Materialien trifft, zeigt sich: Die Quelle der instabilen Klassifizierung ist nicht ein Internet-Streit, sondern die Mehrdeutigkeit der Wörterbücher selbst und der Zweck der Vergleichstabelle.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/china-term-misjudgment",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "de/Culture/china-term-misjudgment.md"
+  },
+  {
     "title": "Diário de Viagem por Taiwan: Um Livro 'Traduzido pela Irmãzinha', do Campo de Flores a uma Mesa de Prêmio em Londres",
     "description": "No dia em que a irmãzinha Yang Ruohui faleceu, em junho de 2015, Yang Ruoci abriu a caderneta que ela deixou e começou a anotar contas. Foram três dias até conseguir decifrar os símbolos e círculos que pareciam um código. Cinco anos depois, a editora Chunshan publicou o livro Diário de Viagem por Taiwan, com a indicação 'Autor: Qian Qishu; Tradutor: Yang Shuangzi' — mas a linha do tradutor continha o nome da irmã já falecida. Em 2024, no NBA de Nova York, e em 2026, no Prêmio Booker de Londres, ela traduziu um livro que não existia usando o nome da irmã.",
     "category": "pt",
@@ -52512,7 +52796,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/taipei-rat-problem",
-    "readingTime": 80,
+    "readingTime": 81,
     "featured": false,
     "date": "2026-05-05",
     "path": "vi/Society/taipei-rat-problem.md"
@@ -58357,6 +58641,17 @@
     "path": "fr/Economy/taiwan-offshore-wind-power.md"
   },
   {
+    "title": "Epistemologi Kesalahan Dialek Pendukung: Mengapa Satu Kata Bisa Sekaligus Menjadi Bahasa Taiwan dan Bahasa Tiongkok",
+    "description": "\"Tanah kacang\" (土豆) dalam Kamus Nasional Edisi Revisi Kementerian Pendidikan muncul sebagai nama lain untuk kacang tanah, kentang di wilayah daratan Tiongkok, dan sejenis tanaman. Tabel Perbandingan Istilah Lintas Selat resmi menempatkannya di bawah entri \"kentang\" bersama istilah lain seperti \"umbi gunung\". Ketika daftar \"dialek pendukung\" yang beredar bertemu dengan dua sumber resmi ini, terungkap bahwa sumber ketidakstabilan penilaian bukan dari pertengkaran daring, melainkan dari polisemi kamus itu sendiri dan tujuan desain tabel perbandingan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/culture/china-term-misjudgment",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "id/Culture/china-term-misjudgment.md"
+  },
+  {
     "title": "Equipe nacional de máscaras: 40 dias para conectar 92 linhas de produção e como a indústria fez Taiwan mudar de marcha durante a crise",
     "description": "Durante a escassez de máscaras em 2020, Taiwan conectou máquinas-ferramenta, têxteis, o exército e o governo em uma única cadeia de suprimentos, completando 92 linhas de produção em 40 dias. O que realmente vale a pena lembrar é essa capacidade de manufatura normalmente dispersa, mas que pode colaborar em tempos de crise.",
     "category": "pt",
@@ -61400,6 +61695,28 @@
     "path": "id/History/social-movements-during-japanese-rule.md"
   },
   {
+    "title": "Gesamtgeschichte der taiwanesischen Medien: Fünf Wendepunkte vom Kirchenblatt zur sozialen Medienlandschaft",
+    "description": "Am 12. Juli 1885 gründete Pfarrer Barclay die „Taiwan-Tainan-Kirchenzeitung\" mit Peh-ōe-jī-Schrift, damit auch Menschen ohne Kenntnisse der chinesischen Schriftzeichen Zeitung lesen konnten – Taiwans erste Zeitung. Danach folgten die vier großen Zeitungen der japanischen Besatzungszeit und die „Taiwan-Volksnachrichten\", die Presseverbote der Nachkriegszeit und Untergrund-Magazine, die Marktöffnung nach der Aufhebung des Kriegsrechts 1987 und Monopolkonzentration bis heute – jede Veränderung der Medienform war mit einer Umverteilung der politischen Macht verbunden.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/history-of-taiwan-media",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "de/Society/history-of-taiwan-media.md"
+  },
+  {
+    "title": "Gesamtgesellschaftliche Verteidigungsresilienz: Ein Handbuch für 9,8 Millionen Haushalte",
+    "description": "Im November 2025 beginnt das Verteidigungsministerium mit dem Druck einer neuen Auflage des „Taiwan-Leitfadens für nationale Sicherheit\" mit einer Gesamtauflage von etwa 11 Millionen Exemplaren. Nach dem Vorbild von Wahlunterlagen werden diese bis zum 5. Januar 2026 von Dorfvorstehern an über 9,8 Millionen Haushalte in Taiwan verteilt. Das Handbuch erklärt erstmals ausdrücklich: „Jede Information über eine Regierungskapitulation oder nationale Niederlage ist Desinformation.\" Dahinter stehen der Ausschuss für gesamtgesellschaftliche Verteidigungsresilienz des Präsidialamts, fünf Hauptachsen und vier Resilienzaspekte sowie eine Übung zur städtischen Resilienz, die die bisherigen Luftschutz- und Zivilschutzübungen zusammenführt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/whole-of-society-defense-resilience",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "de/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Geschichte der Denkmalschutzbewegung in Taiwan: Drei Wege, beginnend mit dem Abriss des Lin An-tai Anwesens",
     "description": "Am 26. Juni 1978 begann unter Feuerwerk und Weihrauch der Abriss des Lin An-tai Anwesens im Bezirk Da'an, Taipeh. Der Architekt Li Chung-yao zerlegte das zweihundertjährige Siheyuan mit Seilen, Kreide und siebzig Bauplänen in 38.000 Steine und 240.000 Ziegel. Dieser Abriss führte direkt zum Kulturgüterschutzgesetz von 1982. Seitdem hat sich die Bewegung in drei Richtungen entwickelt: institutionalisierter Schutz, der Konflikt zwischen Denkmalschutz und Wohnrechten im Fall Lèsheng sowie die Marktorientierung der „Old House Cultural Movement“.",
     "category": "de",
@@ -64067,6 +64384,17 @@
     "path": "fr/History/taiwan-railway-history.md"
   },
   {
+    "title": "Histoire générale des médias taïwanais : cinq tournants de la presse religieuse à l'automédias",
+    "description": "Le 12 juillet 1885, le pasteur Baker crée le *Tainan Church News* en caractères romanisés, permettant à ceux qui ne connaissent pas les caractères chinois de lire le journal — c'est le premier journal de Taïwan. S'ensuivent les quatre grands journaux de l'époque japonaise et le *Taiwan People's Daily*, l'interdiction de la presse et les magazines d'opposition après-guerre, la libéralisation du marché et les controverses de concentration après la levée de la loi martiale en 1987, jusqu'aux enquêtes actuelles de confiance. Chaque transformation de la forme médiatique s'accompagne d'une redistribution du pouvoir politique.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/history-of-taiwan-media",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "fr/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "História da Indústria Televisiva de Taiwan: Dos Três Canais Antigos à Revolução Suave do Q-Series",
     "description": "Da estreia da TTV em 1962 ao Q-Series em 2016, 54 anos da indústria televisiva de Taiwan, do \"monopólio do partido-Estado-exército\" à \"ascensão da mídia pública\". Como uma plataforma que não vende publicidade contou uma história que todos gostaram?",
     "category": "pt",
@@ -64357,6 +64685,28 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "es/History/taiwan-railway-history.md"
+  },
+  {
+    "title": "História total da mídia taiwanesa: cinco inflexões do jornal eclesiástico à automídia",
+    "description": "Em 12 de julho de 1885, Barclay criou o *Jornal da Igreja de Tainan*, usando caracteres romanizados para que pessoas analfabetas em caracteres chineses pudessem ler — o primeiro jornal de Taiwan. Depois vieram os quatro grandes jornais do período japonês e o *Taiwan People's Daily*, o período de censura de imprensa pós-guerra e revistas de oposição, a desregulamentação e controvérsias de monopólio, até as pesquisas de confiança atuais: cada transformação na forma da mídia acompanhou uma redistribuição do poder político.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/history-of-taiwan-media",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "pt/Society/history-of-taiwan-media.md"
+  },
+  {
+    "title": "Historia total de los medios de Taiwán: cinco puntos de inflexión desde la prensa eclesiástica hasta las redes sociales",
+    "description": "El 12 de julio de 1885, Barclay fundó el *Boletín de la Iglesia de Taipéi*, impreso en caracteres romanizados para que quienes no sabían caracteres chinos también pudieran leer el periódico: fue el primer periódico de Taiwán. Después vinieron los cuatro grandes diarios de la era japonesa y el *Periódico del Pueblo de Taiwán*, la prohibición de prensa de la posguerra y las revistas de oposición, la mercantilización tras el levantamiento de la ley marcial y las controversias de monopolio, hasta hoy con encuestas de confianza. Cada cambio en la forma de los medios ha ido acompañado de una redistribución del poder político.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/history-of-taiwan-media",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "es/Society/history-of-taiwan-media.md"
   },
   {
     "title": "Historia y movimiento de autodenominación de los pueblos indígenas de Taiwán",
@@ -64747,6 +65097,17 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "vi/Society/learning-poverty-in-taiwan.md"
+  },
+  {
+    "title": "Học thuyết về sự nhận định sai lầm ngôn ngữ: Tại sao một từ có thể vừa là tiếng Đài Loan, vừa là tiếng Trung Quốc",
+    "description": "Từ \"thổ đậu\" (tudou) trong Từ điển Quốc ngữ Hiệu đính của Bộ Giáo dục vừa là tên gọi khác của lạc, vừa là khoai tây tại Trung Quốc đại lục, vừa là một loài thực vật. Khi đối chiếu với Bảng từ vựng thông dụng hai bờ, ta thấy sự nhầm lẫn không đến từ tranh cãi mạng mà từ tính đa nghĩa của từ điển và mục đích thiết kế của bảng đối chiếu.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/culture/china-term-misjudgment",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "vi/Culture/china-term-misjudgment.md"
   },
   {
     "title": "Học viện Gấu Đen: Một trường dân phòng hy vọng rằng một ngày nó sẽ không còn cần thiết",
@@ -71712,6 +72073,17 @@
     "path": "id/Society/taiwan-grid-resilience.md"
   },
   {
+    "title": "Ketahanan Pertahanan Seluruh Masyarakat: Sebuah Panduan yang Dikirim ke 9,8 Juta Rumah Tangga",
+    "description": "Pada November 2025, Kementerian Pertahanan mulai mencetak edisi baru \"Panduan Keamanan Seluruh Rakyat Taiwan\", dengan total sekitar 11 juta salinan, didistribusikan rumah ke rumah melalui kepala desa seperti halnya pengumuman pemilihan umum, dengan target menyelesaikan pengiriman ke lebih dari 9,8 juta rumah tangga di seluruh Taiwan sebelum 5 Januari 2026. Pemerintah menyatakan bahwa ini adalah pertama kalinya panduan secara tegas menyebutkan: \"Setiap informasi tentang penyerahan pemerintah atau kekalahan negara adalah informasi palsu.\" Di baliknya terdapat Komite Ketahanan Pertahanan Seluruh Masyarakat tingkat Istana Kepresidenan, lima pilar utama dan empat ketahanan, serta latihan ketahanan kota yang menggabungkan latihan Wanan dan Minan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/whole-of-society-defense-resilience",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "id/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Ketika Gempa Datang, Siapa yang Bertugas? Kode Sistem Medis Bencana Taiwan",
     "description": "Dari Gempa 921 hingga Gempa Kuat Hualien, bagaimana Taiwan membangun jaringan medis bencana dengan Unit Gawat Darurat (UGD) sebagai inti? Keunggulan desain sistem tidak terletak pada peralatan, melainkan pada kecerdasan penentuan \"siapa yang bertugas\".",
     "category": "id",
@@ -71765,6 +72137,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "vi/Society/taiwan-grid-resilience.md"
+  },
+  {
+    "title": "Khả năng phục hồi toàn xã hội: Một cuốn cẩm nang được gửi đến gần một triệu gia đình",
+    "description": "Tháng 11 năm 2025, Bộ Quốc phòng bắt đầu in ấn phiên bản mới của \"Hướng dẫn An toàn Toàn dân Đài Loan\", với tổng số khoảng 11 triệu bản, được phân phát từng gia đình thông qua các trưởng thôn xã theo cách tương tự như công báo bầu cử, với mục tiêu gửi đến hơn 9,8 triệu gia đình trên toàn Đài Loan trước ngày 5 tháng 1 năm 2026. Cơ quan chính phủ nêu rõ lần đầu tiên trong cẩm nang: \"Bất kỳ thông tin nào về việc chính phủ đầu hàng hoặc quốc gia bị thất bại đều là thông tin giả\". Đằng sau đó là Ủy ban Khả năng phục hồi Toàn xã hội của Phủ Tổng thống, năm trụ cột chính và bốn khả năng phục hồi, cùng với một cuộc tập trận khả năng phục hồi đô thị kết hợp các cuộc tập trận Vạn An và Dân An.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/whole-of-society-defense-resilience",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "vi/Society/whole-of-society-defense-resilience.md"
   },
   {
     "title": "Kha Văn Triết",
@@ -76365,17 +76748,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "es/People/li-ke-tai-tai.md"
-  },
-  {
-    "title": "La sensibilité taïwanaise : faut-il un like coréen avant d’oser dire que nos vieilles maisons sont belles ?",
-    "description": "En 2008, un collectif de Tainan lançait déjà « 老屋欣力 » (Laowu Xinli), pour regarder autrement ses propres vieilles maisons — onze ans avant que les Coréens ne s’enflamment pour les rues taïwanaises sous le nom de « 대만감성 ». Quand la vague a explosé en 2024 avec la K-pop, on a repris le cadre officiel de l’« exportation culturelle », comme si ce premier regard ne comptait qu’après un like coréen.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/culture/taiwanese-sensibility",
-    "readingTime": 193,
-    "featured": true,
-    "date": "2026-04-08",
-    "path": "fr/Culture/taiwanese-sensibility.md"
   },
   {
     "title": "La sociedad del «dashcam» en Taiwán: Estética de la vigilancia universal, evolución tecnológica y justicia del escándalo",
@@ -81221,6 +81593,17 @@
     "path": "vi/History/taiwan-maritime-trade-history.md"
   },
   {
+    "title": "Lịch sử truyền thông Đài Loan: Năm bước ngoặt từ báo giáo hội đến tự truyền thông",
+    "description": "Ngày 12 tháng 7 năm 1885, Bạc Khắc Lễ (Barclay) sáng lập Báo Giáo Hội Thành Phố Đài Loan (Tâi-uân Hu-tsiann Kik-hue Poo), dùng chữ Bạch Huệ để những người không biết chữ Hán cũng có thể đọc báo — đây là tờ báo đầu tiên của Đài Loan. Sau đó là bốn tờ báo lớn thời kỳ Nhật trị và Báo Dân Đài Loan, rồi lệnh cấm báo và tạp chí ngoài đảng sau chiến tranh, thị trường hóa và tranh cãi độc quyền sau bãi bỏ lệnh cấm, cho đến các cuộc khảo sát độ tin cậy ngày nay — mỗi lần thay đổi hình thức truyền thông đều kèm theo sự phân bổ lại quyền lực chính trị.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/history-of-taiwan-media",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "vi/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "Lịch sử văn học Đài Loan",
     "description": "Từ câu hỏi mỉa mai \"Đài Loan có văn học không?\" đến chiến thắng quốc tế đầu tiên của Dương Quỳnh năm 1934, từ những hạn chế về ngôn ngữ đến sự phục hưng của nhiều tiếng nói — một bộ sử thi bốn trăm năm về tiếng nói tìm kiếm chữ, chữ tìm kiếm quê hương",
     "category": "vi",
@@ -82668,6 +83051,28 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Culture/linguistic-diversity-and-mother-tongue-culture.md"
+  },
+  {
+    "title": "Lingüística del malentendido dialectal: por qué una palabra puede ser a la vez taiwanesa y china",
+    "description": "«Tierra de judía» (土豆) aparece simultáneamente en el Diccionario Nacional Revisado del Ministerio de Educación como sinónimo de cacahuete, como papa en la China continental, y como nombre de una planta. La Tabla Oficial de Términos Comunes a Ambos Lados del Estrecho la clasifica bajo «papa», junto con otros sinónimos. Cuando una «lista de dialectalismos» circulante se cruza con estos dos recursos oficiales, descubrimos que la inestabilidad en la clasificación no proviene de discusiones en internet, sino de la polisemia inherente a los diccionarios y del propósito de diseño de las tablas de correspondencia.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/culture/china-term-misjudgment",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "es/Culture/china-term-misjudgment.md"
+  },
+  {
+    "title": "Linguística do Erro em Designações Regionais: Por que uma palavra pode ser simultaneamente taiwanesa e chinesa",
+    "description": "\"Batata-doce\" (土豆) aparece no Dicionário Revisado do Ministério da Educação como sinônimo de amendoim, como batata na China continental, e como nome de uma planta. A \"Tabela de Correspondência de Termos Comuns entre os Dois Lados do Estreito\" lista-a sob \"batata\", junto com outros termos. Quando listas de \"designações regionais\" encontram esses dois recursos oficiais, descobre-se que a instabilidade não vem de brigas na internet, mas da polissemia dos dicionários e do propósito das tabelas de correspondência.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/culture/china-term-misjudgment",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "pt/Culture/china-term-misjudgment.md"
   },
   {
     "title": "Linha Bannan: os 26,5 km que cosem duas cidades no subsolo",
@@ -85306,7 +85711,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/taipei-rat-problem",
-    "readingTime": 97,
+    "readingTime": 100,
     "featured": false,
     "date": "2026-05-05",
     "path": "de/Society/taipei-rat-problem.md"
@@ -89563,6 +89968,17 @@
     "path": "en/Economy/new-taiwan-dollar.md"
   },
   {
+    "title": "Ngân sách tổng thể của Chính phủ Trung ương: Phân bổ 3 nghìn tỷ Đài tệ như thế nào và lập pháp đã cắt giảm ở đâu",
+    "description": "Ngân sách năm 114 dự kiến là 3.1325 nghìn tỷ NT$, sau khi Lập pháp cắt giảm 207,5 tỷ NT$ còn 2.924,8 tỷ NT$, mức cắt giảm lớn nhất lịch sử. Ngân sách năm 115 dự kiến 3.034,9 tỷ NT$, dù chỉ bị cắt 48 tỷ NT$ nhưng lại có quá trình thông qua lần ba muộn nhất lịch sử. Cùng một khoản chi quốc phòng, có thể báo cáo là 949,5 tỷ NT$ hoặc 6.973 tỷ NT$. Bài viết này sử dụng số liệu chính thức từ Hành chính viện và Lập pháp để phân tích qua bốn khía cạnh: dự toán, định mức pháp lý, quyết toán và ngân sách đặc biệt.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/politics/central-government-general-budget",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "vi/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "Ngành Cà Phê Đài Loan",
     "description": "Từ 100 thân mầm của công ty thương mại đàiloan ngày 1884 đến cuộc thi Cup of Excellence đầu tiên tại Đài Loan năm 2024, hành trình 140 năm phát triển của một quốc gia nhỏ bé thành \"quốc gia cà phê\" nhập khẩu 43.000 tấn nhưng chỉ sản xuất được 700-1.100 tấn nội địa",
     "category": "vi",
@@ -91677,7 +92093,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/taipei-rat-problem",
-    "readingTime": 84,
+    "readingTime": 86,
     "featured": false,
     "date": "2026-05-05",
     "path": "pt/Society/taipei-rat-problem.md"
@@ -92207,6 +92623,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "id/Society/mainlanders-in-taiwan.md"
+  },
+  {
+    "title": "Orçamento central do governo: como se dividem os 3 trilhões e onde o Legislativo corta",
+    "description": "O orçamento de 2025 foi fixado em NT$3,1325 trilhões, reduzido pelo Legislativo em NT$207,5 bilhões para NT$2,9248 trilhões — o maior corte da história. O de 2026 foi fixado em NT$3,0349 trilhões, reduzido em NT$48 bilhões, mas aprovado no prazo mais longo da história. A mesma despesa de defesa pode ser reportada como NT$949,5 bilhões ou NT$697,3 bilhões. Este artigo usa números oficiais do Executivo e do Legislativo para desagregar quatro metodologias: orçamento proposto, lei aprovada, execução orçamentária e orçamento especial.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/politics/central-government-general-budget",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "pt/Politics/central-government-general-budget.md"
   },
   {
     "title": "Orchid Island’s Nuclear Waste: Promised Removal by 2002, Left with Forty Years of Yellow Barrels",
@@ -96804,6 +97231,17 @@
     "path": "es/Culture/loanwords-and-language-contact-in-taiwan.md"
   },
   {
+    "title": "Presupuesto central: cómo se distribuyen los 3 billones de dólares y dónde corta el Parlamento",
+    "description": "El presupuesto central de 2025 se asignó en NT$3,1325 billones; el Parlamento redujo NT$207,5 mil millones, quedando en NT$2,9248 billones, el mayor recorte histórico. El de 2026 se asignó en NT$3,0349 billones, reducido en NT$48 mil millones, pero fue el más tardío en aprobarse. Un mismo gasto de defensa puede reportarse como NT$949,5 mil millones o NT$697,3 mil millones. Este artículo desglosa los presupuestos oficiales en cuatro categorías: asignación, legal, liquidación y presupuesto especial.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/politics/central-government-general-budget",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "es/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "Prévoir la pluie, mais pas le destin : quatre cents ans de Taïwan et des typhons",
     "description": "Le matin du 8 août 2009, lorsque le mont Hiendu (獻肚山) s'est effondré, emportant 462 personnes à Xiaolin Village. Quinze ans plus tard, Taïwan a réduit l'erreur de trajectoire des typhons de 172 km en 2000 à 57 km en 2025 grâce à six modèles d'IA. Mais dans ces 57 km, qui est sorti au travail sous la pluie ? Qui n'a pas reçu de notification ? C'est ce que l'on ne peut pas prédire.",
     "category": "fr",
@@ -98987,6 +99425,17 @@
     "path": "es/History/shihmen-reservoir.md"
   },
   {
+    "title": "Résilience de la défense collective : un manuel distribué à 9,8 millions de foyers",
+    "description": "En novembre 2025, le ministère de la Défense commence l'impression d'une nouvelle édition du « Guide de sécurité collective de Taïwan », soit environ 11 millions d'exemplaires, distribués par les chefs de village de manière analogue aux bulletins électoraux, avec pour objectif une livraison à plus de 9,8 millions de foyers avant le 5 janvier 2026. L'édition officielle précise pour la première fois : « Tout message affirmant la reddition du gouvernement ou la défaite nationale est une fausse information ». Derrière ce manuel se trouvent le Comité présidentiel pour la résilience de la défense collective, cinq axes stratégiques et quatre dimensions de résilience, ainsi qu'un exercice de résilience urbaine fusionnant les exercices Wan'an et Min'an.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/whole-of-society-defense-resilience",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "fr/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Résilience du réseau électrique : après une coupure, qui repart en premier ?",
     "description": "Les coupures de courant de 2017 (815) et de 2022 (303) montrent que la vulnérabilité du réseau ne réside pas seulement dans la production, mais dans les nœuds centralisés, les procédures opérationnelles, l'équipement de transmission et distribution, ainsi que les capacités locales de reprise. Lorsque l'électricité devient un socle commun pour les hôpitaux, les transports, les communications et l'industrie, la résilience ne concerne plus seulement l'ingénierie de Taïwan Power Company, mais la manière dont une ville repart après avoir perdu son énergie.",
     "category": "fr",
@@ -99009,6 +99458,17 @@
     "path": "pt/Society/taiwan-grid-resilience.md"
   },
   {
+    "title": "Resiliência de defesa de toda a sociedade: um manual entregue a 9,8 milhões de domicílios",
+    "description": "Em novembro de 2025, o Ministério da Defesa começou a imprimir a nova edição do \"Guia de Segurança para Todos os Cidadãos de Taiwan\", com aproximadamente 11 milhões de cópias, distribuídas porta a porta pelos chefes de vilas e distritos, com o objetivo de chegar a mais de 9,8 milhões de domicílios em Taiwan até 5 de janeiro de 2026. O manual declara pela primeira vez: \"Qualquer mensagem sobre rendição do governo ou derrota nacional é desinformação\". Por trás disso está o Comitê de Resiliência de Defesa de Toda a Sociedade da Presidência, seus cinco eixos estratégicos e quatro dimensões de resiliência, além de um exercício de resiliência urbana que integra os simulados Wan''an e Min''an.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/whole-of-society-defense-resilience",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "pt/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Resiliencia de la red eléctrica: tras el apagón, ¿quién recupera la ciudad primero?",
     "description": "Los apagones masivos del 815 de 2017 y el 303 de 2022 revelaron que la verdadera fragilidad de la red eléctrica de Taiwán no reside solo en la capacidad de generación, sino en los nodos centralizados, los procedimientos operativos, los equipos de transmisión y distribución y la capacidad de recuperación local. Cuando la electricidad se convierte en la base común de la salud, el transporte, las comunicaciones y la industria, la resiliencia deja de ser solo un problema de ingeniería de Taipower y pasa a ser cómo una ciudad entera vuelve a empezar tras perder la electricidad.",
     "category": "es",
@@ -99018,6 +99478,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "es/Society/taiwan-grid-resilience.md"
+  },
+  {
+    "title": "Resiliencia defensiva de toda la sociedad: un manual entregado a 9,8 millones de hogares",
+    "description": "En noviembre de 2025, el Ministerio de Defensa comienza a imprimir la nueva edición de la «Guía de Seguridad Integral para Todos los Ciudadanos de Taiwán», con un tiraje de aproximadamente 11 millones de copias, distribuidas puerta a puerta por jefes de aldea siguiendo el modelo de los boletines electorales, con el objetivo de llegar a más de 9,8 millones de hogares en toda Taiwán antes del 5 de enero de 2026. Por primera vez, el manual declara explícitamente: «Cualquier mensaje sobre la rendición del gobierno o la derrota nacional es desinformación». Detrás de esto está el Comité de Resiliencia Defensiva de Toda la Sociedad de la Presidencia, sus cinco pilares estratégicos y cuatro dimensiones de resiliencia, así como un ejercicio de resiliencia urbana que integra los simulacros Wan An y Min An.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/whole-of-society-defense-resilience",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "es/Society/whole-of-society-defense-resilience.md"
   },
   {
     "title": "Resolução sobre o Futuro de Taiwan: duas palavras «atualmente» sustentaram vinte e sete anos",
@@ -99397,7 +99868,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/taipei-rat-problem",
-    "readingTime": 112,
+    "readingTime": 113,
     "featured": false,
     "date": "2026-05-05",
     "path": "fr/Society/taipei-rat-problem.md"
@@ -100530,6 +101001,17 @@
     "path": "id/Art/history-of-taiwanese-literature.md"
   },
   {
+    "title": "Sejarah Total Media Taiwan: Lima Titik Balik dari Surat Kabar Gereja hingga Media Sosial",
+    "description": "Pada 12 Juli 1885, Barclay menciptakan *Tainan Church News* menggunakan huruf Latin fonetik sehingga orang yang tidak mengenal karakter Hanzi juga dapat membaca—ini adalah surat kabar pertama Taiwan. Sejak itu, empat surat kabar besar era Jepang dan *Taiwan People's Daily*, larangan pers pasca-perang dan majalah non-pemerintah, privatisasi dan kontroversi monopoli setelah pencabutan darurat militer, hingga survei kepercayaan hari ini—setiap perubahan bentuk media diikuti oleh redistribusi kekuasaan politik.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/history-of-taiwan-media",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "id/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "Sekolah Kecerdasan Buatan Taiwan: Telepon yang Tak Selesai Ditelponi, dan Sepuluh Ribu Insinyur AI",
     "description": "Pada 27 Maret 2020, Chen Sheng-wei dengan hati-hati menelpon editor majalah CommonWealth: ia ingin membuka kelas pemrograman gratis untuk semua orang. Dua hari kemudian ia jatuh dari sepeda roda satu, 13 hari kemudian meninggal dunia, berusia 44 tahun. Saat ia meninggal, Sekolah Kecerdasan Buatan Taiwan (AIA) yang ia dirikan pada 2018 telah melatih lebih dari 6.000 orang. Pada periode yang sama, Kementerian Sains dan Teknologi \"Strategi Besar Negara Kecil AI\" menargetkan 5 tahun NT$16 miliar, namun ia mengandalkan dana swasta sebesar NT$180 juta dari enam perusahaan seperti Formosa Plastics, Chimei, Inventec, dan sebagainya untuk mendirikan sekolahnya sendiri. Delapan tahun kemudian alumni melebihi 10.000 orang. AIA adalah sepotong puzzle yang paling tidak khas Taiwan dalam pengupgradean industri Taiwan.",
     "category": "id",
@@ -100777,7 +101259,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/culture/taiwanese-sensibility",
-    "readingTime": 180,
+    "readingTime": 181,
     "featured": true,
     "date": "2026-04-08",
     "path": "pt/Culture/taiwanese-sensibility.md"
@@ -100788,10 +101270,21 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/culture/taiwanese-sensibility",
-    "readingTime": 190,
+    "readingTime": 191,
     "featured": true,
     "date": "2026-04-08",
     "path": "id/Culture/taiwanese-sensibility.md"
+  },
+  {
+    "title": "Sensibilité taïwanaise : devons-nous attendre que les Coréens « likent » pour oser dire que nos vieilles maisons sont belles ?",
+    "description": "En 2008, un groupe de personnes à Tainan a lancé le mouvement « La force des vieilles maisons », commençant ainsi à redécouvrir leur propre patrimoine architectural, soit onze ans avant que les Coréens n'utilisent l'expression « Daeman Gamseong » pour s'enthousiasmer pour les paysages urbains de Taïwan. Pourtant, alors que cette tendance explose en 2024 sous l'objectif de la K-pop, nous continuons à l'aborder via le prisme de l'« exportation culturelle » de l'Administration du Tourisme et du Ministère de la Culture, comme si ce regard originel ne comptait que s'il était d'abord validé par un « like » coréen.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/taiwanese-sensibility",
+    "readingTime": 194,
+    "featured": true,
+    "date": "2026-04-08",
+    "path": "fr/Culture/taiwanese-sensibility.md"
   },
   {
     "title": "Senyum Warisan Es: Sejarah Seratus Tahun dan Jalan Pelestarian Teknologi Salamander Taiwan",
@@ -105144,7 +105637,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/taipei-rat-problem",
-    "readingTime": 95,
+    "readingTime": 96,
     "featured": false,
     "date": "2026-05-05",
     "path": "en/Society/taipei-rat-problem.md"
@@ -110813,7 +111306,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/culture/taiwanese-sensibility",
-    "readingTime": 174,
+    "readingTime": 173,
     "featured": true,
     "date": "2026-04-08",
     "path": "en/Culture/taiwanese-sensibility.md"
@@ -111061,7 +111554,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/culture/taiwanese-sensibility",
-    "readingTime": 183,
+    "readingTime": 186,
     "featured": true,
     "date": "2026-04-08",
     "path": "de/Culture/taiwanese-sensibility.md"
@@ -115149,6 +115642,17 @@
     "path": "en/Society/taiwan-blood-donation.md"
   },
   {
+    "title": "The Misjudgment of \"Zhiyu\": Why a Single Word Can Be Both Taiwanese and Chinese Usage",
+    "description": "In the Ministry of Education''s \"Revised Mandarin Chinese Dictionary,\" \"tudou\" is simultaneously an alternate name for peanuts, the mainland term for potatoes, and a plant species. The official \"Cross-Strait Common Vocabulary Comparison Table\" lists it under \"potato,\" alongside \"yangyu\" and \"shanyao dan.\" When a circulating \"zhiyu list\" meets these two official sources, one discovers that the instability of judgment stems not from internet arguments, but from the dictionary''s own polysemy and the comparison table''s design purpose.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/culture/china-term-misjudgment",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "en/Culture/china-term-misjudgment.md"
+  },
+  {
     "title": "The Modernization of Taiwan's Agriculture",
     "description": "Examines the trajectory of Taiwan''s transformation from traditional, labor-intensive agriculture to modern, high-value-added \"premium agriculture,\" covering organic farming, rural regeneration, and agritourism as innovative development models.",
     "category": "en",
@@ -119042,6 +119546,17 @@
     "path": "vi/People/chiang-ching-kuo.md"
   },
   {
+    "title": "Tưởng Vạn An: Thị trưởng Đài Bắc xuất thân luật sư, những tranh chấp về Đại Cự Đản, chỉnh trang đô thị, vòng xoay Công quán và Luật Quy hoạch Tài chính trong nhiệm kỳ",
+    "description": "Tưởng Vạn An là Thị trưởng Đài Bắc thuộc Trung Quốc Quốc dân đảng, từng làm luật sư tại Hoa Kỳ và đảm nhiệm hai nhiệm kỳ lập pháp viên, đắc cử trong cuộc đua ba bên năm 2022. Trong nhiệm kỳ của mình, ông đã giúp Đại Cự Đản nhận giấy phép sử dụng, chính quyền thành phố thu hồi ưu đãi hệ số sử dụng đất của Kinh Hoa Thành, thúc đẩy chỉnh trang đô thị, tăng gấp đôi tiền thưởng sinh con, tổ chức Đại hội Thể thao Thế hệ mới Song Bắc, dỡ bỏ cầu vượt Hòa Bình Tân Sinh và vòng xoay Công quán, đồng thời tranh luận với Viện Hành chính về trợ cấp MRT sau khi sửa đổi Luật Quy hoạch Tài chính, cũng như nhiều lần thay mặt Thị trưởng gửi lời xin lỗi tại Lễ tưởng niệm sự kiện 228.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chiang-wan-an",
+    "readingTime": 260,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/People/chiang-wan-an.md"
+  },
+  {
     "title": "Turismo e cultura de vida inclusivos para todas as idades em Taiwan: quando a humanidade se torna a melhor instalação de acessibilidade",
     "description": "Da perspectiva familiar, observa-se como a sociedade taiwanesa, através da humanidade e de instalações inclusivas, redefine o significado de \"viajar juntos como uma família\" no caminho para se tornar uma sociedade superenvelhecida.",
     "category": "pt",
@@ -122664,6 +123179,17 @@
     "path": "en/Society/who-counts-as-low-wage.md"
   },
   {
+    "title": "Whole-of-Society Defense Resilience: A Handbook Delivered to 9.8 Million Households",
+    "description": "In November 2025, Taiwan''s Ministry of Defense began printing a new edition of the Taiwan Civil Safety Guide, with a total print run of approximately 11 million copies. Village chiefs will distribute one copy to each of Taiwan''s 9.8 million households by January 5, 2026, using the same method as election bulletins. For the first time, the handbook explicitly states: \"Any message about government surrender or national defeat is disinformation.\" Behind this effort lies the Presidential Office''s Whole-of-Society Defense Resilience Committee, five strategic pillars, four resilience dimensions, and a unified civil defense exercise merging the Wan An and Min An drills.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/whole-of-society-defense-resilience",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "en/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Why Taiwan Needs Its Own Knowledge Base: The Greatest Danger AI Poses to Taiwan Is Not Getting It Wrong, but Saying Nothing at All",
     "description": "In May 2026, a Taiwan open-source project used a free AI to translate a profile of singer Chang Hsien into Japanese, and got back only: \"Hello, I can''t provide relevant content.\" AI doesn''t produce knowledge—it regurgitates the largest, best-structured, clearest-licensed version on the web, and that version is increasingly not written by Taiwanese. Even Academia Sinica''s own model once answered \"My country''s leader is Xi Jinping.\" The real threat isn''t that Taiwan''s data is stolen—or even tampered with—it''s being silenced: the blank space you never notice. Taiwan needs a public, auditable, multilingual, indelible version, even if openness itself comes at a cost.",
     "category": "en",
@@ -126110,6 +126636,17 @@
     "featured": true,
     "date": "2026-05-19",
     "path": "de/Society/taiwan-regenerative-medicine-laws.md"
+  },
+  {
+    "title": "Zentralbudget der Regierung: Wie werden drei Billionen NT$ verteilt, wo kürzt das Parlament",
+    "description": "Das Budget für das Geschäftsjahr 114 wurde mit NT$3,1325 Billionen angesetzt, das Parlament kürzte um NT$207,5 Milliarden auf NT$2,9248 Billionen – die größte Kürzung der Geschichte. Das Budget 114 wurde mit NT$3,0349 Billionen angesetzt, um NT$48 Milliarden gekürzt, aber in der dritten Lesung am spätesten verabschiedet. Die gleichen Verteidigungsausgaben können als NT$949,5 Milliarden oder NT$697,3 Milliarden ausgewiesen werden. Dieser Artikel nutzt offizielle Zahlen von Exekutive und Legislative und schlüsselt vier verschiedene Rechnungsmethoden auf: Ansatz, Gesetzliche Festsetzung, Abrechnung und Sonderbudget.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/politics/central-government-general-budget",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "de/Politics/central-government-general-budget.md"
   },
   {
     "title": "Zhang Zhiqi: Dari 'Gambar dan Teks Tidak Sesuai' ke 'Zhiqi Qiqi', Mencari 'Kurator Informasi' untuk Dialog di Era yang Terbelah",
@@ -131980,6 +132517,17 @@
     "path": "ru/Food/taiwan-food-overview.md"
   },
   {
+    "title": "Оборонная устойчивость всего общества: руководство, которое доставят в 9,8 миллиона домов",
+    "description": "В ноябре 2025 года Министерство обороны Тайваня начало печать новой версии «Руководства по обеспечению безопасности граждан Тайваня». Общий тираж составит около 11 миллионов экземпляров; руководства будут доставлены в более чем 9,8 миллиона домохозяйств по всей стране силами глав деревень и поселков, подобно избирательным бюллетеням. Впервые в документе прямо указано: «Любая информация о капитуляции правительства или поражении государства является дезинформацией». В основе инициативы лежит деятельность Комитета по оборонной устойчивости всего общества при Президентском офисе, пять ключевых направлений и четыре вида устойчивости, а также интеграция учений «Ваньань» и «Миньань» в единые городские учения по обеспечению устойчивости.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/whole-of-society-defense-resilience",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ru/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "Образование в глубинке Тайваня: детям нужны не вдохновляющие истории, а целая система поддержки, которая не расшатывается",
     "description": "Образование в глубинке — это не просто «школы в горах дальше». От текучести кадров и смешанных классов до транспорта, жилья, семейной поддержки, связей с сообществом и единого представления общества об успехе — настоящая трудность в том, что после ухода из класса вся система поддержки ребёнка часто расшатывается слой за слоем.",
     "category": "ru",
@@ -132583,6 +133131,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Society/taiwan-political-landscape-and-electoral-system.md"
+  },
+  {
+    "title": "Полная история тайваньских медиа: пять поворотных моментов от церковной газеты к социальным сетям",
+    "description": "12 июля 1885 года Баклей основал «Газету церкви Тайнаньской префектуры», используя белый иероглиф, чтобы люди, не знающие китайских иероглифов, могли читать газету — это была первая газета на Тайване. Затем последовали четыре крупные японские газеты периода японского правления и «Газета народа Тайваня», послевоенный запрет на прессу и журналы оппозиции, либерализация рынка после отмены военного положения и споры о монополии, вплоть до сегодняшних исследований доверия — каждое изменение формы медиа сопровождалось перераспределением политической власти.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/history-of-taiwan-media",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ru/Society/history-of-taiwan-media.md"
   },
   {
     "title": "Полный разбор Закона о развитии образования в школах удалённых районов: государство потратило 175 млрд, но не смогло остановить гравитацию населения",
@@ -133318,6 +133877,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Economy/taiwan-agriculture-and-rural-revitalization.md"
+  },
+  {
+    "title": "Семиотика ошибок в определении диалектизмов: почему одно слово может быть одновременно тайваньским и китайским",
+    "description": "Слово «土豆» в Министерском словаре переработанного национального языка одновременно обозначает арахис, картофель на материке и растение. Официальная «Таблица сопоставления общеупотребительных терминов обеих сторон пролива» помещает его под статьёй «картофель» наряду со словами «ямс» и «горный картофель». Когда распространяемый «список диалектизмов» встречается с этими двумя официальными источниками, становится ясно, что нестабильность определения исходит не из интернет-споров, а из самой многозначности словаря и целей составления справочной таблицы.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/culture/china-term-misjudgment",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ru/Culture/china-term-misjudgment.md"
   },
   {
     "title": "Си Муронг: поэтическая симфония степи и современности",
@@ -134141,7 +134711,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/taipei-rat-problem",
-    "readingTime": 89,
+    "readingTime": 90,
     "featured": false,
     "date": "2026-05-05",
     "path": "ru/Society/taipei-rat-problem.md"
@@ -134865,9 +135435,9 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/culture/taiwanese-sensibility",
-    "readingTime": 160,
+    "readingTime": 163,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-08",
     "path": "ru/Culture/taiwanese-sensibility.md"
   },
   {
@@ -136967,6 +137537,17 @@
     "path": "ru/People/ceylan-youtuber.md"
   },
   {
+    "title": "Центральный государственный бюджет: как распределяются три триллиона юаней и где законодательный орган режет расходы",
+    "description": "Бюджет на 114-й финансовый год составил NT$3,1325 триллиона, законодательный орган сократил его на NT$207,5 миллиарда до NT$2,9248 триллиона — рекордное сокращение в истории. На 115-й год бюджет составил NT$3,0349 триллиона, сокращен на NT$48 миллиардов, но прошёл третье чтение позже всех в истории. Одна и та же статья оборонных расходов может быть отчислена как NT$949,5 миллиарда или NT$697,3 миллиарда. В статье используются официальные цифры администрации и законодательного органа, разделяя четыре методологии: плановые, законодательно установленные, фактические и специальные бюджеты.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/politics/central-government-general-budget",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ru/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "Цепочка поставок AI-аппаратного обеспечения: Тайвань — место, где облако становится машиной",
     "description": "Генеративный ИИ выглядит как облачный сервис, но на самом деле требует целой физической дороги: кто-то проектирует чипы, кто-то производит кремниевые пластины, кто-то занимается упаковкой, кто-то обеспечивает память, электричество, охлаждение, материнские платы и стойки. Важность Тайваня не ограничивается TSMC — на этой дороге сосредоточено множество ключевых узлов; это общие интересы реально существуют, но сопровождаются проблемами водоснабжения и энергетики, углеродных выбросов, распределения доходов, строительства зарубежных заводов и геополитических рисков, превращая абстрактные лозунги в проверяемые доказательства цепочки поставок.",
     "category": "ru",
@@ -137169,6 +137750,17 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "ru/Geography/chiayi-county.md"
+  },
+  {
+    "title": "Цзян Ванъань: мэр Тайбэя, адвокат по профессии, и его деятельность в отношении Большого купола, городского обновления, кольца Гунгуань и спора о законе о распределении бюджета",
+    "description": "Цзян Ванъань — мэр Тайбэя из Китайской национальной партии, работавший адвокатом в США и дважды избиравшийся депутатом законодательного собрания. В 2022 году он был избран в трёхсторонней борьбе. Во время его мандата Большой купол получил лицензию на использование, администрация города отменила бонусы по площади для Jinghua City, продвигала городское обновление, удвоила пособие на рождение детей, провела спортивные игры Двух городов, снесла мост Хэпин-Синьшэн и кольцо Гунгуань, а также вела споры с Исполнительным юанем о дотациях на метро после пересмотра закона о распределении бюджета. Кроме того, несколько раз в качестве мэра приносил извинения на мероприятиях памяти 28 февраля.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/chiang-wan-an",
+    "readingTime": 256,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/People/chiang-wan-an.md"
   },
   {
     "title": "Цзян Вэйвэнь: буйвол-воин движения за тайваньский письменный язык",
@@ -141227,6 +141819,17 @@
     "path": "ar/Technology/tasa-taiwan-space-agency.md"
   },
   {
+    "title": "المرونة الدفاعية الشاملة للمجتمع: دليل يصل إلى 9.8 مليون أسرة",
+    "description": "في نوفمبر 2025، بدأت وزارة الدفاع طباعة نسخة جديدة من «دليل السلامة الشامل لتايوان»، بإجمالي حوالي 11 مليون نسخة، يتم توزيعها من خلال رؤساء القرى والبلدات على غرار نشرات الانتخابات، بهدف الوصول إلى أكثر من 9.8 مليون أسرة في جميع أنحاء تايوان قبل 5 يناير 2026. تؤكد السلطات أن الدليل يوضح للمرة الأولى: «أي رسالة تتعلق باستسلام الحكومة أو هزيمة الدولة هي معلومة مزيفة». يقف خلف ذلك لجنة المرونة الدفاعية الشاملة للمجتمع برئاسة الرئاسة، وخمسة محاور رئيسية وأربع مرونات، بالإضافة إلى تمرين مرونة حضرية يدمج تمارين الإنذار الجوي والسلامة المدنية.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/whole-of-society-defense-resilience",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ar/Society/whole-of-society-defense-resilience.md"
+  },
+  {
     "title": "المرونة في شبكة الكهرباء: بعد انقطاع التيار، من يستطيع استعادة المدينة أولاً؟",
     "description": "أظهرت أحداث انقطاع التيار الكهربائي الكبير في 15 أغسطس 2017 و3 مارس 2022 أن الضعف الحقيقي في شبكة الكهرباء لا يكمن في القدرة الإنتاجية فحسب، بل في العقد المركزية، وإجراءات التشغيل، ومعدات النقل والتوزيع، والقدرة المحلية على الاستعادة. عندما يصبح التيار الكهربائي الأساس المشترك للرعاية الصحية، والنقل، والاتصالات، والصناعة، فإن المرونة لم تعد مجرد مشكلة هندسية تابعة لشركة التيار الكهربائي، بل هي حول تكيف المدينة بأكملها بعد فقدان التيار.",
     "category": "ar",
@@ -141427,6 +142030,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "ar/Music/taiwan-folk-music-and-songs.md"
+  },
+  {
+    "title": "الميزانية المركزية للحكومة: كيف يُقسَّم التريليون الثلاثة، وأين تقطع السلطة التشريعية",
+    "description": "تم تخصيص الميزانية المركزية للسنة المالية 114 بـ NT$3.1325 تريليون، وقطعت السلطة التشريعية NT$207.5 مليار لتصبح NT$2.9248 تريليون — أكبر تخفيض في التاريخ. السنة 115 تم تخصيصها بـ NT$3.0349 تريليون، وقُطع منها NT$48 مليار، لكنها سُمِّرت للتصويت النهائي في أبطأ موعد في التاريخ. نفس نفقات الدفاع يمكن الإبلاغ عنها بـ NT$949.5 مليار أو NT$697.3 مليار. يفكك هذا المقال الميزانية باستخدام الأرقام الرسمية لمجلس الدولة والسلطة التشريعية عبر أربع طرق حسابية: التخصيص والقانوني والحسابات النهائية والميزانيات الخاصة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/politics/central-government-general-budget",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ar/Politics/central-government-general-budget.md"
   },
   {
     "title": "النثر التايواني: المشهد الأدبي الذي أعاد تشكيله الكاتبات",
@@ -142199,6 +142813,17 @@
     "path": "ar/History/taiwan-military-dependents-villages-history.md"
   },
   {
+    "title": "تاريخ وسائل الإعلام التايوانية الشامل: خمسة منعطفات من الصحف الكنسية إلى وسائل التواصل الذاتية",
+    "description": "في 12 يوليو 1885، أسس باكيلي صحيفة «تقرير كنيسة تايوان فو تشنغ» باستخدام الأبجدية البيضاء ليتمكن الأشخاص الذين لا يعرفون الأحرف الصينية من قراءة الصحف — وهي أول صحيفة في تايوان. بعد ذلك جاءت الصحف اليابانية الأربع الكبرى في فترة الحكم الياباني و«صحيفة تايوان الشعبية»، ثم الحظر على الصحف بعد الحرب والمجلات خارج النظام، وبعد رفع الأحكام العرفية جاءت التسويق والنقاشات حول الاحتكار، وحتى استطلاعات الثقة اليوم — كل تغيير في شكل الوسائط ارتبط بإعادة توزيع السلطة السياسية.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/history-of-taiwan-media",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ar/Society/history-of-taiwan-media.md"
+  },
+  {
     "title": "تاكيشي كانيشيرو: من «مواطن» لا يتعرف عليه أحد، إلى نجم آسيا الذي لا يرغب سوى في أن ينساه العالم",
     "description": "في عام 2025، أورد تقرير إخباري في الشارع أنه «مواطن»، وهذه ربما كانت اللحظة التي طالما تمناها تاكيشي كانيشيرو. من فتى في السابعة عشرة يصور إعلانًا لشراء دراجة نارية، إلى نجم دولي يعبر تايوان واليابان وهونغ كونغ، ظل يمارس «فن الاختفاء» في ذروة مجده الفني.",
     "category": "ar",
@@ -142396,9 +143021,9 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/culture/taiwanese-sensibility",
-    "readingTime": 128,
+    "readingTime": 132,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-08",
     "path": "ar/Culture/taiwanese-sensibility.md"
   },
   {
@@ -144834,6 +145459,17 @@
     "featured": false,
     "date": "2026-03-28",
     "path": "ar/People/jody-chiang.md"
+  },
+  {
+    "title": "جيانغ وان آن: عمدة تايبيه من خلفية قانونية، والقبة الكبرى والتجديد الحضري والنزاع حول قانون توزيع الموارد المالية خلال فترة ولايته",
+    "description": "جيانغ وان آن هو عمدة تايبيه من حزب الكومينتانغ الصيني، عمل محامياً في الولايات المتحدة، وشغل منصب نائب برلماني لفترتين، وتم انتخابه عام 2022 في منافسة ثلاثية الأطراف. خلال فترة ولايته، حصلت القبة الكبرى على رخصة التشغيل، وألغت حكومة المدينة حوافز الكثافة السكانية لمركز جينغهوا، وعززت التجديد الحضري، وضاعفت مكافآت الولادة، واستضافت دورة الألعاب الرياضية للشباب بين تايبيه وتايتشونغ، وهدمت جسر هيبينغ شينشينغ والحلقة الدائرية في غونغغوان، وتنازعت مع المجلس الإداري بشأن إعانات المترو بعد تعديل قانون توزيع الموارد المالية، واعتذرت عدة مرات بصفتها عمدة في حفل إحياء ذكرى 28 فبراير.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chiang-wan-an",
+    "readingTime": 209,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/People/chiang-wan-an.md"
   },
   {
     "title": "جيري يانغ: من معرفة كلمة إنجليزية واحدة فقط إلى أن يصبح \"أب ياهو\" الذي افتتح عصر بوابات الإنترنت العالمية",
@@ -147512,6 +148148,17 @@
     "path": "ar/Society/typhoon-day.md"
   },
   {
+    "title": "علم الخطأ في تصنيف اللهجات: لماذا قد تكون كلمة واحدة في نفس الوقت تايوانية وصينية",
+    "description": "كلمة «土豆» (تودو) تظهر في قاموس وزارة التعليم بثلاثة معان متزامنة: اسم بديل للفول السوداني، والبطاطا في البر الرئيسي الصيني، ونبات يُدعى شاي القرع. وجدول المصطلحات الشائعة عبر المضيق الرسمي يضعها تحت بند «البطاطا»، مع كلمات أخرى مثل الحبة والبطاطا الجبلية. عندما تلتقي قائمة «اللهجات» المتداولة بهذين المصدرين الرسميين، يتضح أن مصدر عدم الاستقرار في الحكم ليس جدلًا على الإنترنت، بل تعدد المعاني في القاموس نفسه وأغراض تصميم جدول المقابلة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/culture/china-term-misjudgment",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ar/Culture/china-term-misjudgment.md"
+  },
+  {
     "title": "علم طيور فورموزا: نائب قنصل بريطاني، 201 اسم لاتيني، والجبال التي لم تطأها قدمه",
     "description": "في عام 1861، أصبح روبرت سوينهو (Robert Swinhoe) البالغ من العمر 24 عامًا أول نائب قنصل بريطاني في تايوان. بعد خمس سنوات، عند مغادرته، ترك وراءه ورقة بحثية جعلت العالم يكتب طيور تايوان بالأحرف اللاتينية لأول مرة. لكن خريطته للطيور كانت خريطة رُسمت من خط الساحل فقط — ففي فراغ سلسلة الجبال المركزية، كان السكان الأصليون ينادون بهذه الطيور بأسمائهم القبلية منذ آلاف السنين.",
     "category": "ar",
@@ -147677,7 +148324,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/taipei-rat-problem",
-    "readingTime": 81,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-05-05",
     "path": "ar/Society/taipei-rat-problem.md"
@@ -153069,6 +153716,17 @@
     "path": "hi/Politics/central-election-commission.md"
   },
   {
+    "title": "केंद्रीय सरकार का कुल बजट: तीन खरब कैसे बाँटा जाता है, विधायिका ने कहाँ काटा",
+    "description": "114 वर्ष का कुल बजट NT$3.1325 ट्रिलियन में तैयार किया गया था; विधायिका ने NT$207.5 अरब काटने के बाद यह NT$2.9248 ट्रिलियन हो गया, जो इतिहास में सबसे बड़ी कटौती है। 115 वर्ष NT$3.0349 ट्रिलियन में तैयार किया गया, NT$48 अरब काटे गए, लेकिन यह इतिहास में सबसे देर से पारित हुआ। एक ही वर्ष का रक्षा व्यय NT$949.5 अरब या NT$697.3 अरब के रूप में रिपोर्ट किया जा सकता है। यह लेख कार्यकारी और विधायी शाखाओं के आधिकारिक आँकड़ों का उपयोग करके बजट आवंटन, विधिक, निपटान और विशेष बजट के चार आधारों को अलग करता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/politics/central-government-general-budget",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "hi/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "केला का बोलचाल: एक वाक्य की लय, में छिपी दक्षिण ताइवान के समुदायों की यादें",
     "description": "1930 के दशक में, कमजोर इंग-वेन ने ताइवान में ताइवानी भाषा और केला का बोलचाल के संगीत को दर्ज करवाया; 2014 में, पूदोंग सिटी के बुजुर्ध ने इसके साथ गुप्त बात करना शुरू कर दिया। केला का बोलचाल एक लेख को और भी सरल नहीं बनाता, बल्कि दक्षिण ताइवान के विभिन्न समुदायों ने ताइवानी भाषा और ताइवान के मूल भाषा को ऐसे बदल दिया है कि बाहरी लोग समझ न पाएँ और अपने लोग पहचान सकें। इसकी असली उत्पत्ति आज तक कolonial स्मृति, गाँवों के बीच संवाद और बुजुर्धों की यादों के बीच फंसी हुई है।",
     "category": "hi",
@@ -153691,6 +154349,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "hi/People/chiang-ching-kuo.md"
+  },
+  {
+    "title": "चियांग वान-आन: वकील पृष्ठभूमि वाले ताइपे शहर के मेयर, कार्यकाल में मेगा डोम, शहरी नवीकरण, गोंगुआन गोलचक्कर और वित्तीय विभाजन कानून विवाद",
+    "description": "चियांग वान-आन चीनी राष्ट्रवादी पार्टी के ताइपे शहर के मेयर हैं, जिन्होंने अमेरिका में वकील के रूप में काम किया है, दो कार्यकाल के विधायक रहे हैं, और 2022 में तीन-तरफा प्रतिद्वंद्विता में निर्वाचित हुए। उनके कार्यकाल में मेगा डोम को उपयोग लाइसेंस मिला, शहर सरकार ने जिंगहुआ सिटी के क्षेत्र बोनस को रद्द किया, शहरी नवीकरण को बढ़ावा दिया, जन्म प्रोत्साहन राशि को दोगुना किया, ताइपे-नई ताइपे विश्व खेल आयोजित किए, हेपिंग-शिंशेंग ओवरपास और गोंगुआन गोलचक्कर को ध्वस्त किया, साथ ही वित्तीय विभाजन कानून संशोधन के बाद मेट्रो सहायता के लिए कार्यपालिका से विवाद किया, और शहर के मेयर के रूप में कई बार 228 स्मृति समारोह में माफी मांगी।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/chiang-wan-an",
+    "readingTime": 234,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/People/chiang-wan-an.md"
   },
   {
     "title": "चियांग वे-शुई: 〈लिंग चिनारी〉 से कolonial रोग का निदान करने वाले डॉक्टर",
@@ -155176,7 +155845,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/taipei-rat-problem",
-    "readingTime": 70,
+    "readingTime": 72,
     "featured": false,
     "date": "2026-05-05",
     "path": "hi/Society/taipei-rat-problem.md"
@@ -157654,6 +158323,17 @@
     "featured": true,
     "date": "2026-04-29",
     "path": "hi/Society/taiwan-diplomatic-allies-and-international-relations.md"
+  },
+  {
+    "title": "ताइवान के मीडिया का संपूर्ण इतिहास: चर्च समाचार पत्रों से स्व-निर्मित मीडिया तक के पाँच महत्वपूर्ण मोड़",
+    "description": "12 जुलाई, 1885 को, बार्कलै ने \"ताइवान फूचेंग चर्च न्यूजपेपर\" की स्थापना की, जिसमें अनपढ़ लोगों के लिए सरल भाषा (व्हाइटस्पीच) का उपयोग किया गया था; यह ताइवान का पहला समाचार पत्र था। इसके बाद जापानी शासन के दौरान चार प्रमुख दैनिक समाचार पत्र और \"ताइवान मिनपाओ\" का उदय, युद्ध के बाद समाचार पत्रों पर प्रतिबंध और विपक्षी पत्रिकाएँ, मार्शल लॉ हटने के बाद बाजारवाद और एकाधिकार विवाद, और आज के विश्वास सर्वेक्षण तक—मीडिया के स्वरूप में प्रत्येक परिवर्तन राजनीतिक शक्ति के पुनर्वितरण से जुड़ा रहा है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/history-of-taiwan-media",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "hi/Society/history-of-taiwan-media.md"
   },
   {
     "title": "ताइवान के मूल निवासियों की शिक्षा और भाषा के पुनरुत्थान का अंतःक्षेत्र: प्राथमिक स्कूल में सुरक्षा मिलती है, माध्यमिक स्कूल में नहीं",
@@ -160274,6 +160954,17 @@
     "featured": false,
     "date": "2026-05-01",
     "path": "hi/Food/puli-shaoxing-wine.md"
+  },
+  {
+    "title": "पूर्ण-समाज रक्षा लचीलापन: 98 लाख घरों तक पहुँचाई गई एक पुस्तिका",
+    "description": "नवंबर 2025 में रक्षा मंत्रालय ने नए संस्करण 《ताइवान पूर्ण-नागरिक सुरक्षा मार्गदर्शिका》 का मुद्रण शुरू किया, लगभग 1.1 करोड़ प्रतियाँ, चुनावी घोषणापत्र की तर्ज पर गाँव/मोहल्ला प्रमुखों द्वारा घर-घर वितरण, लक्ष्य 5 जनवरी 2026 तक पूरे ताइवान के 98 लाख से अधिक घरों तक पहुँचाना; पहली बार स्पष्ट घोषणा: \"सरकार के आत्मसमर्पण या देश की हार का कोई भी संदेश झूठा है\"; पीछे राष्ट्रपति कार्यालय की पूर्ण-समाज रक्षा लचीलापन समिति, पाँच धुरियाँ, चार लचीलापन, और वानआन-मिनआन को एकीकृत करने वाला नगर लचीलापन अभ्यास।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/whole-of-society-defense-resilience",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "hi/Society/whole-of-society-defense-resilience.md"
   },
   {
     "title": "पूर्व-ऐतिहासिक काल और आदिवासी: लोंगबिन 20,000-30,000 वर्ष पूर्व से नॉर्थ आइलैंड भाषा परिवार के प्रसार की शुरुआत",
@@ -163851,6 +164542,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Music/contemporary-indigenous-singer-songwriters.md"
+  },
+  {
+    "title": "समर्थन-भाषा त्रुटि-निर्णय विज्ञान: एक शब्द एक साथ ताइवानी और चीनी क्यों हो सकता है",
+    "description": "शिक्षा मंत्रालय के《पुनः-संपादित राष्ट्रीय भाषा शब्दकोश》में \"मूंगफली\" एक साथ मूंगफली का पर्यायवाची, मुख्यभूमि चीन में आलू, और एक पौधे का नाम है। आधिकारिक《जलडमरूमध्य के दोनों किनारों के सामान्य शब्द तुलना तालिका》इसे \"आलू\" प्रविष्टि के अंतर्गत सूचीबद्ध करती है, जहाँ एक ही प्रविष्टि में अन्य शब्द भी हैं। जब एक प्रचलित \"समर्थन-भाषा सूची\" इन दोनों आधिकारिक संसाधनों से मिलती है, तो निर्णय की अस्थिरता का स्रोत इंटरनेट विवाद नहीं, बल्कि शब्दकोश की बहुअर्थता और तुलना तालिका के डिज़ाइन उद्देश्य हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/culture/china-term-misjudgment",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "hi/Culture/china-term-misjudgment.md"
   },
   {
     "title": "समुद्रतल केबल: सिलिकॉन शील्ड ऊपर दिखती है, जीवनरेखा नीचे अदृश्य",
@@ -173287,6 +173989,17 @@
     "path": "ko/People/sylvia-chang.md"
   },
   {
+    "title": "장완안: 변호사 출신 타이베이 시장, 임기 중 대거돔, 도시재생, 공관 원형교차로 및 재정배분법 논쟁",
+    "description": "장완안은 중국국민당 소속 타이베이 시장으로, 미국에서 변호사로 일했고 2대의 입법위원을 역임했으며 2022년 3자 경쟁에서 당선되었다. 임기 중 대거돔이 사용 허가를 획득했고, 시정부는 징화성의 용적률 인센티브를 취소했으며, 도시재생을 추진하고, 출산 장려금을 2배로 늘렸으며, 쌍북 세계장애인체육대회를 개최했고, 화평신생 천교와 공관 원형교차로를 철거했으며, 재정배분법 개정 후 지하철 보조금을 두고 행정원과 분쟁을 벌였고, 여러 차례 시장 신분으로 2·28 추도식에서 사과했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/chiang-wan-an",
+    "readingTime": 107,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/People/chiang-wan-an.md"
+  },
+  {
     "title": "장우성: 아이돌에서 예언자로, 시대를 초월한 음악 실험",
     "description": "1989년, 천마예공대 대장의 아들이 《天天想你》 35만 장으로 데뷔해 아이돌이 되었다. 1994년, 그는 73분짜리 밴드 라이브 레코딩으로 시장에 응답했고, 판매량은 저조했지만 예언이라 불렸다. 장우성은 아이돌 정체성과 창작 양심 사이에서 9년을 갈았고, 《구시심비》 발매 4일 후 단수이(淡水) 새벽에 차를 뒤집었으며, 다시는 깨어나지 못했다.",
     "category": "ko",
@@ -173622,6 +174335,17 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "ko/Culture/jiaobei-divination-blocks.md"
+  },
+  {
+    "title": "전사회 방위 회복력: 980만 가구에 배포되는 한 권의 안내서",
+    "description": "2025년 11월, 국방부가 새로운 《타이완 전국민 안전 지침》을 인쇄하기 시작했다. 총 약 1,100만 부로, 선거 공보와 같은 방식으로 읍면장을 통해 가구별 배포되며, 2026년 1월 5일까지 전국 980만 가구 이상에 전달될 예정이다. 공식 설명에 따르면 이 안내서는 처음으로 명시한다: \"정부 항복이나 국가 패배에 관한 모든 정보는 거짓 정보다.\" 그 배경에는 대통령실의 전사회 방위 회복력 위원회, 5대 주축과 4대 회복력, 그리고 만안·민안 훈련을 통합한 도시 회복력 훈련이 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/society/whole-of-society-defense-resilience",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ko/Society/whole-of-society-defense-resilience.md"
   },
   {
     "title": "전설 인터넷: 7년간 4억을 날리고, 게임을 14개국에 판 기업",
@@ -174191,6 +174915,23 @@
     "path": "ko/Society/academia-sinica.md"
   },
   {
+    "title": "중앙정부 총예산: 3조 원을 어떻게 나누고, 입법원은 어디를 깎았나",
+    "description": "114년도 총예산 편성 3조 1,325억 원, 입법원 감액 2,075억 원 후 2조 9,248억 원으로 사상 최대 삭감. 115년도 편성 3조 349억 원, 감액 480억 원이나 사상 최늦은 삼독. 같은 국방지출도 9,495억 원 또는 6,973억 원으로 보도 가능. 행정원과 입법원 공식 수치로 편성·법정·결산·특별예산 네 가지 기준을 분석.",
+    "category": "ko",
+    "tags": [
+      "중앙정부 총예산",
+      "입법원",
+      "주계총처",
+      "국방예산",
+      "예산심사"
+    ],
+    "url": "https://taiwan.md/ko/politics/central-government-general-budget",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ko/Politics/central-government-general-budget.md"
+  },
+  {
     "title": "중원절(中元節): 망자를 위로하는 두려움에서 섬의 집단적 화해로",
     "description": "대만에서 중원절은 단순히 귀신에 대한 경외심이 아니라, 개척(開墾), 충돌, 그리고 민족 간의 융합에 관한 생존 기록이다. 지룽(基隆)에서의 피눈물 같은 화해부터 두청(頭城)에서의 극한적인 망자 구출 경쟁까지, 이 축제는 대만 사람들이 어떻게 공포를 사회적 평화 조약으로 전환했는지 보여준다.",
     "category": "ko",
@@ -174295,6 +175036,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/jimmy-liao.md"
+  },
+  {
+    "title": "지언오판학: 한 단어가 왜 동시에 타이완 말과 중국 말이 될 수 있는가",
+    "description": "「땅콩」은 교육부 《重編國語辭典》에서 동시에 낙화생의 별칭, 대륙 지역의 감자, 그리고 한 식물의 이름이다. 공식 《양안상용어휘대조표》는 이를 「감자」 항목 아래 수록했으며, 같은 항목에는 양아, 산약계도 나열되어 있다. 유포되는 「지언 목록」이 이 두 공식 자료를 만날 때, 판정이 불안정한 원인이 인터넷 논쟁이 아니라 사전 자체의 다의성과 대조표의 설계 목적임을 발견하게 된다.",
+    "category": "ko",
+    "tags": [
+      "언어",
+      "지언",
+      "교육부 사전",
+      "양안 용어",
+      "어휘 유동"
+    ],
+    "url": "https://taiwan.md/ko/culture/china-term-misjudgment",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ko/Culture/china-term-misjudgment.md"
   },
   {
     "title": "지엔리펑: Google이 타이완에 오기 전, 그는 이미 타이완의 검색을 만들고 있었다",
@@ -176159,6 +176917,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Culture/taiwan-cultural-creative-park-development.md"
+  },
+  {
+    "title": "타이완 미디어 총사: 교회보에서 자미디어까지 다섯 번의 전환",
+    "description": "1885년 7월 12일 바크리(巴克禮)가 《타이완푸청 교회보(臺灣府城教會報)》를 창간했다. 한자를 모르는 사람도 읽을 수 있도록 백화자(白話字)로 인쇄한 타이완 최초의 신문이다. 이후 일제강점기의 4대 일보와 《타이완민보(台灣民報)》, 전후 보도 금지와 야당 잡지, 계엄 해제 후 시장화와 독점 논쟁, 오늘날의 신뢰도 조사까지, 미디어 형식의 매 변화는 정치 권력의 재분배와 함께했다.",
+    "category": "ko",
+    "tags": [
+      "미디어사",
+      "보도금지",
+      "타이완민보",
+      "교회공보",
+      "미디어신뢰"
+    ],
+    "url": "https://taiwan.md/ko/society/history-of-taiwan-media",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-10-19",
+    "path": "ko/Society/history-of-taiwan-media.md"
   },
   {
     "title": "타이완 미디어와 언론 자유",

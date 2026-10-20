@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-19T22:06:23Z",
-  "total": 1143,
-  "flagged": 722,
+  "timestamp": "2026-10-20T22:06:03Z",
+  "total": 1148,
+  "flagged": 724,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1013,6 +1013,11 @@
       "file": "society/台灣設計研究院.md",
       "score": 5,
       "reasons": "空洞詞5個; 未人工審核; 分號4個; 英式短句開場10處"
+    },
+    {
+      "file": "society/全社會防衛韌性.md",
+      "score": 4,
+      "reasons": "僅2個URL; 未人工審核; 塑膠句1個; 稀薄段落×1"
     },
     {
       "file": "society/LGBTQ.md",
@@ -3578,6 +3583,11 @@
       "file": "culture/誠品書店.md",
       "score": 9,
       "reasons": "空洞詞9個; 未人工審核; 塑膠句8個; 稀薄段落×7; 價值上升詞×3"
+    },
+    {
+      "file": "culture/支語誤判學.md",
+      "score": 6,
+      "reasons": "年份僅0個; 僅2個URL; 未人工審核; 英式短句開場3處"
     },
     {
       "file": "culture/台灣感性.md",
