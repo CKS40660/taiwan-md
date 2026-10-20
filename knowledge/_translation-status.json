@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-20T01:59:57+08:00",
-    "zhCommitHead": "10673b0ed",
-    "totalZh": 1143,
+    "lastUpdated": "2026-10-20T18:07:06+08:00",
+    "zhCommitHead": "7dc2b4a32",
+    "totalZh": 1148,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1143,
-        "fresh": 1143,
+        "total_zh": 1148,
+        "fresh": 1144,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1143,
-        "fresh": 1143,
+        "total_zh": 1148,
+        "fresh": 1144,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1143,
-        "fresh": 1140,
+        "total_zh": 1148,
+        "fresh": 1141,
         "stale": 0,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1143,
-        "fresh": 1142,
+        "total_zh": 1148,
+        "fresh": 1143,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1143,
-        "fresh": 1143,
+        "total_zh": 1148,
+        "fresh": 1144,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1143,
-        "fresh": 1143,
+        "total_zh": 1148,
+        "fresh": 1144,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1143,
+        "total_zh": 1148,
         "fresh": 1135,
         "stale": 3,
         "metadata_stale": 5,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       }
     },
@@ -39570,11 +39570,11 @@
           "sourceContentHash": "sha256:f8ec8d5fb97942ca",
           "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-07-25T04:46:08+08:00",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "translationLastCommit": "e370f6e7",
+          "translationLastModified": "2026-10-19T12:33:25+09:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 43564,
+          "bytes": 43685,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -41080,8 +41080,8 @@
           "sourceContentHash": "sha256:6483396471388204",
           "sourceBodyHash": "sha256:dce22da1e8b7d281",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 44714,
@@ -44514,8 +44514,8 @@
           "sourceContentHash": "sha256:d8cb5bf168509454",
           "sourceBodyHash": "sha256:c43c59e5b4fa28e1",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 27651,
@@ -60884,8 +60884,8 @@
           "sourceContentHash": "sha256:94ff250b0e25855f",
           "sourceBodyHash": "sha256:75a7daaeb80e499b",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 33612,
@@ -61950,6 +61950,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Society/全社會防衛韌性.md": {
+      "zh": {
+        "lastCommit": "3cde8455",
+        "lastModified": "2026-10-20T12:43:17+08:00",
+        "contentHash": "sha256:e3c3e7869d3e91e4",
+        "bodyHash": "sha256:71d5e3eb23a0c63b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -67813,24 +67859,24 @@
     },
     "Society/台北鼠患.md": {
       "zh": {
-        "lastCommit": "44b9afee",
-        "lastModified": "2026-07-19T09:54:38+08:00",
-        "contentHash": "sha256:ea94b427916538a7",
-        "bodyHash": "sha256:bcba667c74795d16"
+        "lastCommit": "fd14e36d",
+        "lastModified": "2026-10-20T16:15:05+08:00",
+        "contentHash": "sha256:314ea9aeacf65f74",
+        "bodyHash": "sha256:388eb831d18aa5ba"
       },
       "translations": {
         "en": {
           "path": "en/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T08:59:41.121664+00:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 24881,
+          "bytes": 25146,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67838,15 +67884,15 @@
         "ja": {
           "path": "ja/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afee",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-05-09T11:09:57+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:00:24.614818+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 24803,
+          "bytes": 25128,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67854,15 +67900,15 @@
         "ko": {
           "path": "ko/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afee",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-05-09T11:09:57+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:02:40.710619+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 25763,
+          "bytes": 25807,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67870,15 +67916,15 @@
         "es": {
           "path": "es/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-27T06:21:30+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:01:10.585524+00:00",
           "translationLastCommit": "dc27e460",
           "translationLastModified": "2026-07-27T06:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 29768,
+          "bytes": 29956,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67886,15 +67932,15 @@
         "fr": {
           "path": "fr/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-09-21T20:05:47.750932+00:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:01:53.770258+00:00",
           "translationLastCommit": "30831206",
           "translationLastModified": "2026-09-22T05:45:15+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 30290,
+          "bytes": 30439,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67902,15 +67948,15 @@
         "vi": {
           "path": "vi/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:02:42.327601+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 28457,
+          "bytes": 29074,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67918,15 +67964,15 @@
         "id": {
           "path": "id/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:03:24.627965+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 26347,
+          "bytes": 26364,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67934,15 +67980,15 @@
         "pt": {
           "path": "pt/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-27T01:41:51+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:03:25.479670+00:00",
           "translationLastCommit": "430ef0bb",
           "translationLastModified": "2026-07-27T03:24:50+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 24381,
+          "bytes": 24892,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67950,15 +67996,15 @@
         "hi": {
           "path": "hi/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:04:09.386097+00:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 41011,
+          "bytes": 42473,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67966,15 +68012,15 @@
         "ar": {
           "path": "ar/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:04:16.897609+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 35167,
+          "bytes": 35872,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67982,15 +68028,15 @@
         "ru": {
           "path": "ru/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-27T02:56:21+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:05:14.288099+00:00",
           "translationLastCommit": "c740010f",
           "translationLastModified": "2026-07-27T05:15:33+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 39077,
+          "bytes": 39329,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -67998,15 +68044,15 @@
         "de": {
           "path": "de/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:7bfcc784f6998122",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-09-21T20:10:32.201734+00:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:314ea9aeacf65f74",
+          "sourceBodyHash": "sha256:388eb831d18aa5ba",
+          "translatedAt": "2026-10-20T09:05:05.380854+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 28735,
+          "bytes": 29314,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -80943,6 +80989,52 @@
         }
       }
     },
+    "Society/台灣媒體總史.md": {
+      "zh": {
+        "lastCommit": "3cde8455",
+        "lastModified": "2026-10-20T12:43:17+08:00",
+        "contentHash": "sha256:58f72732b84a9fdd",
+        "bodyHash": "sha256:7fc6722108c9b6d5"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "Society/台灣斜槓世代.md": {
       "zh": {
         "lastCommit": "c2191ba3",
@@ -91996,8 +92088,8 @@
           "sourceContentHash": "sha256:b34bdfae9c38257f",
           "sourceBodyHash": "sha256:75b37912e4958f22",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 38755,
@@ -95082,6 +95174,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Politics/中央政府總預算.md": {
+      "zh": {
+        "lastCommit": "3cde8455",
+        "lastModified": "2026-10-20T12:43:17+08:00",
+        "contentHash": "sha256:1043cee6548e861b",
+        "bodyHash": "sha256:aeec9cd01b2c05ff"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -124730,8 +124868,8 @@
           "sourceContentHash": "sha256:3d734dae1e9800a8",
           "sourceBodyHash": "sha256:7298125ca05a9c8f",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 29654,
@@ -141352,6 +141490,195 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/蔣萬安.md": {
+      "zh": {
+        "lastCommit": "4c79f932",
+        "lastModified": "2026-10-20T16:04:00+08:00",
+        "contentHash": "sha256:e46aa69ef5d92e83",
+        "bodyHash": "sha256:3c4667e4e92f54f4"
+      },
+      "translations": {
+        "en": {
+          "path": "en/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T09:06:25.290874+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 75025,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T09:06:40.186287+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 79984,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:28:12.165272+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 69687,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:28:13.135518+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 83011,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:28:12.149814+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 86381,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "path": "vi/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T09:53:04.520925+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 97852,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "id": {
+          "path": "id/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:33:10.848443+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 79966,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "pt": {
+          "path": "pt/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:32:56.320294+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 81597,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "hi": {
+          "path": "hi/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T09:52:51.558060+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 159627,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ar": {
+          "path": "ar/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T09:06:28.948776+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 104737,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ru": {
+          "path": "ru/People/chiang-wan-an.md",
+          "translatedFrom": "People/蔣萬安.md",
+          "sourceCommitSha": "4c79f9323",
+          "sourceContentHash": "sha256:e46aa69ef5d92e83",
+          "sourceBodyHash": "sha256:3c4667e4e92f54f4",
+          "translatedAt": "2026-10-20T08:40:18.534988+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 69,
+          "bytes": 128232,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -184997,24 +185324,24 @@
     },
     "History/森山松之助與日治州廳建築.md": {
       "zh": {
-        "lastCommit": "035fea3c",
-        "lastModified": "2026-10-18T23:35:40+08:00",
-        "contentHash": "sha256:29f5b0ada1e30424",
-        "bodyHash": "sha256:73b81f498e215dfc"
+        "lastCommit": "b58a962a",
+        "lastModified": "2026-10-20T02:01:10+08:00",
+        "contentHash": "sha256:cb78229ec72c1e47",
+        "bodyHash": "sha256:7d4bd57c7e0512f4"
       },
       "translations": {
         "en": {
           "path": "en/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:50:57+08:00",
-          "translationLastCommit": "b323f37e",
-          "translationLastModified": "2026-10-20T01:58:01+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 12927,
+          "bytes": 12922,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185022,15 +185349,15 @@
         "ja": {
           "path": "ja/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:50:58+08:00",
-          "translationLastCommit": "0f4ded79",
-          "translationLastModified": "2026-10-20T01:58:59+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 12042,
+          "bytes": 12037,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185038,15 +185365,15 @@
         "ko": {
           "path": "ko/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:50:59+08:00",
-          "translationLastCommit": "0db803c7",
-          "translationLastModified": "2026-10-20T01:57:46+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 13075,
+          "bytes": 13070,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185054,15 +185381,15 @@
         "es": {
           "path": "es/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:01+08:00",
-          "translationLastCommit": "65bd67c0",
-          "translationLastModified": "2026-10-20T01:57:18+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 14310,
+          "bytes": 14305,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185070,15 +185397,15 @@
         "fr": {
           "path": "fr/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:02+08:00",
-          "translationLastCommit": "9cebac82",
-          "translationLastModified": "2026-10-20T01:57:32+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 14050,
+          "bytes": 14045,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185086,15 +185413,15 @@
         "vi": {
           "path": "vi/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:02+08:00",
-          "translationLastCommit": "56594721",
-          "translationLastModified": "2026-10-20T01:58:44+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 15061,
+          "bytes": 15056,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185102,15 +185429,15 @@
         "id": {
           "path": "id/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:03+08:00",
-          "translationLastCommit": "5c4fbdcb",
-          "translationLastModified": "2026-10-20T01:58:15+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 12960,
+          "bytes": 12955,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185118,15 +185445,15 @@
         "pt": {
           "path": "pt/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "90414b7e",
-          "translationLastModified": "2026-10-20T01:58:29+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 13444,
+          "bytes": 13439,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185134,15 +185461,15 @@
         "hi": {
           "path": "hi/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 27957,
+          "bytes": 27952,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185150,15 +185477,15 @@
         "ar": {
           "path": "ar/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:06+08:00",
-          "translationLastCommit": "10673b0e",
-          "translationLastModified": "2026-10-20T01:59:43+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 17141,
+          "bytes": 17136,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185166,15 +185493,15 @@
         "ru": {
           "path": "ru/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:07+08:00",
-          "translationLastCommit": "5d1e71d1",
-          "translationLastModified": "2026-10-20T01:59:28+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 21090,
+          "bytes": 21085,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -185182,15 +185509,15 @@
         "de": {
           "path": "de/History/moriyama-matsunosuke-prefectural-halls.md",
           "translatedFrom": "History/森山松之助與日治州廳建築.md",
-          "sourceCommitSha": "035fea3cf",
-          "sourceContentHash": "sha256:29f5b0ada1e30424",
-          "sourceBodyHash": "sha256:73b81f498e215dfc",
+          "sourceCommitSha": "b58a962a",
+          "sourceContentHash": "sha256:cb78229ec72c1e47",
+          "sourceBodyHash": "sha256:7d4bd57c7e0512f4",
           "translatedAt": "2026-10-20T00:51:09+08:00",
-          "translationLastCommit": "f8723cb2",
-          "translationLastModified": "2026-10-20T01:59:13+08:00",
+          "translationLastCommit": "478e2fa2",
+          "translationLastModified": "2026-10-20T02:02:24+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "bytes": 13827,
+          "bytes": 13822,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187562,8 +187889,8 @@
           "sourceContentHash": "sha256:65d74c6df8e4a39c",
           "sourceBodyHash": "sha256:855e37f73360eb94",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 32670,
@@ -214428,8 +214755,8 @@
           "sourceContentHash": "sha256:89da4b9e2afae75b",
           "sourceBodyHash": "sha256:4cf3888ecbd9a722",
           "translatedAt": "2026-10-20T00:51:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73bed71b",
+          "translationLastModified": "2026-10-20T01:59:57+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 30683,
@@ -228627,26 +228954,72 @@
         }
       }
     },
+    "Culture/支語誤判學.md": {
+      "zh": {
+        "lastCommit": "17c050ae",
+        "lastModified": "2026-10-19T09:24:37+08:00",
+        "contentHash": "sha256:1e30defdc682821b",
+        "bodyHash": "sha256:dfb2654e36f7acb2"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "Culture/台灣感性.md": {
       "zh": {
-        "lastCommit": "54ed6c78",
-        "lastModified": "2026-07-18T10:51:24+08:00",
-        "contentHash": "sha256:01da220d6681931b",
-        "bodyHash": "sha256:71edee5e89546764"
+        "lastCommit": "fd14e36d",
+        "lastModified": "2026-10-20T16:15:05+08:00",
+        "contentHash": "sha256:568c29d1e1668c32",
+        "bodyHash": "sha256:ad0f6df167e4338c"
       },
       "translations": {
         "en": {
           "path": "en/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-09-26T19:10:20+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:46:20.814576+00:00",
           "translationLastCommit": "e7f55b5f",
           "translationLastModified": "2026-09-26T19:35:37+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 52177,
+          "bytes": 52058,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228654,15 +229027,15 @@
         "ja": {
           "path": "ja/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-28T19:24:14+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:47:36.151345+00:00",
           "translationLastCommit": "249dd283",
           "translationLastModified": "2026-10-10T23:13:56+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 51968,
+          "bytes": 53141,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228670,15 +229043,15 @@
         "ko": {
           "path": "ko/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:a0b11837fcf7283d",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-09-26T03:25:06.210379+00:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:48:52.586584+00:00",
           "translationLastCommit": "e3d29692",
           "translationLastModified": "2026-10-10T22:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 53361,
+          "bytes": 53952,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228686,15 +229059,15 @@
         "es": {
           "path": "es/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-09-26T19:10:21+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:50:03.759047+00:00",
           "translationLastCommit": "c152a0bd",
           "translationLastModified": "2026-09-26T19:37:32+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 57492,
+          "bytes": 57376,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228702,15 +229075,15 @@
         "fr": {
           "path": "fr/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-09-26T20:08:19+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:51:23.232235+00:00",
           "translationLastCommit": "0cb72b4b",
           "translationLastModified": "2026-09-26T20:49:23+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 60235,
+          "bytes": 60648,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228718,15 +229091,15 @@
         "vi": {
           "path": "vi/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:52:42.411786+00:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 65054,
+          "bytes": 65705,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228734,15 +229107,15 @@
         "id": {
           "path": "id/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:53:51.066130+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 56562,
+          "bytes": 56754,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228750,15 +229123,15 @@
         "pt": {
           "path": "pt/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:55:03.551758+00:00",
           "translationLastCommit": "2ab76d37",
           "translationLastModified": "2026-10-10T23:42:20+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 55084,
+          "bytes": 55292,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228766,15 +229139,15 @@
         "hi": {
           "path": "hi/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-18T19:14:57+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:59:57.030230+00:00",
           "translationLastCommit": "1862bcff",
           "translationLastModified": "2026-10-10T23:28:54+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 111033,
+          "bytes": 111116,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228782,15 +229155,15 @@
         "ar": {
           "path": "ar/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:56:21.428152+00:00",
           "translationLastCommit": "ff8ef03e",
           "translationLastModified": "2026-09-28T04:55:03+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 65614,
+          "bytes": 67336,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228798,15 +229171,15 @@
         "ru": {
           "path": "ru/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:01da220d6681931b",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-07-28T08:53:36+08:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:57:40.711684+00:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 81352,
+          "bytes": 82556,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -228814,15 +229187,15 @@
         "de": {
           "path": "de/Culture/taiwanese-sensibility.md",
           "translatedFrom": "Culture/台灣感性.md",
-          "sourceCommitSha": "54ed6c788",
-          "sourceContentHash": "sha256:a0b11837fcf7283d",
-          "sourceBodyHash": "sha256:71edee5e89546764",
-          "translatedAt": "2026-09-26T03:51:11.723802+00:00",
+          "sourceCommitSha": "fd14e36db",
+          "sourceContentHash": "sha256:568c29d1e1668c32",
+          "sourceBodyHash": "sha256:ad0f6df167e4338c",
+          "translatedAt": "2026-10-20T08:59:00.491473+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 55033,
+          "bytes": 55883,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
