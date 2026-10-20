@@ -111,9 +111,14 @@ def _build_git_history_cache():
     # git octal-escapes non-ASCII paths by default while text=True decodes with
     # the locale codec (cp950 on Windows), either of which corrupts the cache key
     # so every CJK-named article lookup misses.
+    # Pathspec `knowledge` (every path looked up lives there) + --full-history
+    # (no merge simplification, so each path's list matches the unlimited log):
+    # skips tree diffs and rename detection outside knowledge/. Identical cache
+    # for all 17,881 knowledge paths, 3.35s → 0.72s locally (2026-10-20).
     out = subprocess.run(
         ["git", "-c", "core.quotepath=false", "log", "--name-only",
-         "--format=__COMMIT__|%H|%aI", "HEAD"],
+         "--format=__COMMIT__|%H|%aI", "--full-history", "HEAD", "--",
+         "knowledge"],
         cwd=REPO, capture_output=True, encoding="utf-8", errors="replace",
         check=False,
     ).stdout
