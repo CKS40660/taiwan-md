@@ -2,6 +2,8 @@
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsDataRaw from '../data/elections-2026.json';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 
 type ElectionCopy = {
   meta: {
@@ -3111,9 +3113,14 @@ const numLocale =
 const fmt = (n: number) => n.toLocaleString(numLocale);
 
 // 候選人條目：有條目的連到人物頁，沒有的邀請一起寫。兩種動作同樣大小。
+// 外語版還沒有譯文時（例如新條目當天還沒跑翻譯）退回中文條目，不連到 404。
+const zhArticleHref = (a: { zh: string; slug: string }) =>
+  `/people/${encodeURIComponent(a.zh)}/`;
+const hasTranslation = (slug: string) =>
+  existsSync(join(process.cwd(), 'knowledge', lang, 'People', `${slug}.md`));
 const articleHref = (a: { zh: string; slug: string }) =>
-  lang === 'zh-TW'
-    ? `/people/${encodeURIComponent(a.zh)}/`
+  lang === 'zh-TW' || !hasTranslation(a.slug)
+    ? zhArticleHref(a)
     : `/${lang}/people/${a.slug}/`;
 const contributeHref = `${langPrefix}/contribute/`;
 const proposeHref =
