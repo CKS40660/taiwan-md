@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-10-21T06:42:19+08:00",
+  "_generated": "2026-10-21T06:42:50+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -960,7 +960,7 @@
       },
       "metricsAsOf": {
         "dPlus": 190,
-        "harvestDate": "2026-10-21 06:47",
+        "harvestDate": "2026-10-21 06:41",
         "batch": "batch-2026-10-21-1-spores",
         "source": "harvest"
       },
@@ -1037,7 +1037,7 @@
         },
         {
           "dPlus": 190,
-          "harvestDate": "2026-10-21 06:47",
+          "harvestDate": "2026-10-21 06:41",
           "batch": "batch-2026-10-21-1-spores",
           "views": 360000,
           "likes": 31000,

@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-21 | 053918-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 零漂移；審庫存仍未註冊，第一個時點就是今晚 22:00，錯過則等 10-28 | 倒數歸零那天，交接仍只能寫準時點 | [→](memory/2026-10-21-053918-twmd-routine-sync.md) |
 | 2026-10-21 | 055711-twmd-embeddings-nightly | 五篇新文進索引：13 語 14,781 向量 0 fail，每語 1,137 篇，verify PASS，`e70f0835e`；重建中途 routine-sync 同機 commit，路徑式 commit 免處理 | 鍵差逐篇對上新文清單，增量不必另查 | [→](memory/2026-10-21-055711-twmd-embeddings-nightly.md) |
 | 2026-10-21 | 060943-twmd-data-refresh-am | 平行翻譯在寫時 --no-sync 跑完：14 步全過、0 stale，五篇新文讓文章數到 1146；10-19 的 404 兩家族同日跳升，併進 maintainer 交接 | 拆成家族後還要看家族之間是否同步 | [→](memory/2026-10-21-060943-twmd-data-refresh-am.md) |
+| 2026-10-21 | 064114-twmd-spore-harvest-am | #29 李洋按讚聚合跨到 1.7 萬，照條件重抓 D+190：轉發 1,131、分享 547、留言仍 229；兩個動態頁無新留言，harvest 時刻誤估 06:47 當班改回 06:41 | 時間戳要量不要估，估值會被 generator 傳到讀者頁面 | [→](memory/2026-10-21-064114-twmd-spore-harvest-am.md) |

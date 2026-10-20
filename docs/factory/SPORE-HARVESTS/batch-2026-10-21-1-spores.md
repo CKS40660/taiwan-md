@@ -1,6 +1,6 @@
 ---
 spores: '#29'
-harvest_date: '2026-10-21 06:47'
+harvest_date: '2026-10-21 06:41'
 harvest_window_day: 'D+190'
 batch_reason: 'daily audience flywheel — 窗口內沒有孢子（最新 #175／#176 已 D+59）；`/activity` 上 #29 聚合通知到「和另外 1.7 萬人」，照 10-19 起續傳的零判斷條件重抓數字'
 triggered_by: 'cron (twmd-spore-harvest-am)'

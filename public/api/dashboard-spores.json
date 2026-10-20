@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:42:19.300212Z",
+  "lastUpdated": "2026-10-20T22:42:50.452113Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -581,7 +581,7 @@
       "daysSincePublish": 190,
       "withinHarvestWindow": false,
       "harvestCount": 9,
-      "lastHarvest": "2026-10-21 06:47"
+      "lastHarvest": "2026-10-21 06:41"
     },
     {
       "n": 30,
