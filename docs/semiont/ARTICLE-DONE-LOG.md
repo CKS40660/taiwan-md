@@ -6,7 +6,7 @@ status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
 last_updated: 2026-10-14
-last_session: '2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_session: '2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,40 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 台灣媒體總史 — 2026-10-20 twmd-maintainer-manual 歸檔（貢獻者 tboydar 於 2026-10-20 以 PR #1879 交稿，非走產線）
+
+- **Article**: [knowledge/Society/台灣媒體總史.md](../../knowledge/Society/台灣媒體總史.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1879 merge `9066a3c46`），INBOX 條目（2026-05-17 哲宇 directive，P0）由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：1885 年一份用白話字印的報紙，先解決「誰讀得到」，才輪到「誰能辦」
+- **品質**：1486 CJK ／ 6 腳註；兩把閘門 hard=0；`curation: incubating`；word-count 低於深度門檻（warn）
+- **查核與修正**：三處跟著維基〈台灣媒體〉錯——「1987 年解嚴同時解除報禁」（報禁 1988 年元旦解除，台灣光華〈報禁解除20年〉）、「1926 年伊澤多喜男核准遷台」（1927 年 7 月經總督上山滿之進同意，中研院臺史所檔案館）、「2022 年路透 28%、亞太民主國家最低」（2022 年台灣頁是 27%，46 市場排第 42）。另把「第一份印刷刊物」改回來源支持的「第一份報紙」、停刊起訖改照名稱表寫。三條替換來源都由主 session 親自讀到原文才入文
+- **entry 未兌現**（已改立 INBOX EVOLVE 條目）：廣播、電視、網路、自媒體四段
+
+### 全社會防衛韌性 — 2026-10-20 twmd-maintainer-manual 歸檔（貢獻者 tboydar 於 2026-10-20 以 PR #1878 交稿，非走產線）
+
+- **Article**: [knowledge/Society/全社會防衛韌性.md](../../knowledge/Society/全社會防衛韌性.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1878 merge `8515111cb`），INBOX 條目（2026-09-18 哲宇 news-radar，P1，evergreen）由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：一本比照選舉公報、由村里長送到九百八十多萬戶的手冊
+- **品質**：1502 CJK ／ 2 腳註；兩把閘門 hard=0；`curation: incubating`
+- **查核與修正**：兩條腳註逐條對原文，數字、日期、五大主軸全對。修三處：描述欄與正文各有一個加了引號但不是原文的濃縮句（改成原文逐字「任何關於政府投降或國家戰敗的訊息，都是假訊息」）、「整本手冊最受注意」無出處（刪）、「2024 年成立」的委員會無出處（改寫）；第五主軸補回原文的頓號
+- **entry 未兌現的一項**（不隨歸檔消失，量小未另立條目）：原條目建議用 2026-09-19 第二屆國際論壇開場（Newtalk 預告、中央社當日報導可查），現稿以手冊開場
+
+### 中央政府總預算 — 2026-10-20 twmd-maintainer-manual 歸檔（貢獻者 tboydar 於 2026-10-20 以 PR #1877 交稿，非走產線）
+
+- **Article**: [knowledge/Politics/中央政府總預算.md](../../knowledge/Politics/中央政府總預算.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1877 merge `e616098c1`），INBOX 條目「中央政府總預算十年」（2026-08-17 budget-page session，P1）由本班 merge 後依完成歸檔鐵律搬入
+- **Hook**：同一年的國防可以報成 9,495 億元或 6,973 億元
+- **品質**：1823 CJK ／ 6 腳註；兩把閘門 hard=0；`curation: incubating`
+- **查核與修正**：五條腳註 29 個原子逐條對原文，沒有捏造。最大的一處是 114 年度決算政事別表：圓餅圖標籤讀錯位，國防與教育科學文化對調（實為教科文 5,864、國防 4,627）、退休撫卹 1,759 與補助及其他 857 錯置、債務誤抄成歲入的規費 967（實為 848），而查核分身也照錯的讀法回報 ✅，是主 session 把 PDF 那頁轉成圖才看出來（REFLEXES #98 真原子放錯槽位、#31 分身回報是線索）。另修：韓國瑜「拖了 266 天」與李遠「被砍到零」都是記者轉述，去掉引號；「院會通過」改為簡報實際寫的會議日期並補加計追加預算只增 0.7%；媒宣費補上提案人翁曉玲的理由與 8 月 14 日三讀全刪的結局（原稿只寫到委員會凍結 800 萬，像是最終結果）；延伸閱讀連回 /budget
+- **entry 未兌現**（已改立 INBOX EVOLVE 條目）：105–113 年度縱深、tw-\* 圖表、財劃法與其他機關媒體費
+
+### 支語誤判學 — 2026-10-20 twmd-maintainer-manual 補歸檔（貢獻者 tboydar 於 2026-10-19 以 PR #1874 交稿，同日早班 merge 但漏了完成歸檔）
+
+- **Article**: [knowledge/Culture/支語誤判學.md](../../knowledge/Culture/支語誤判學.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1874 由 2026-10-20 twmd-maintainer-daily merge，兩條腳註全查 ✅，見該班 memory），INBOX 條目（2026-08-04 哲宇拍板，P1）當班記為「部分交付、留 EVOLVE」但條目仍停在 pending，本班補做搬移
+- **品質**：1535 CJK ／ 2 腳註；`terminology_exempt: true` 用得對
+- **entry 未兌現**（已改立 INBOX EVOLVE 條目）：六型誤判、收編生命週期、反向流動
 
 ### 台灣與亞運 — 2026-10-14 twmd-maintainer-daily 歸檔（貢獻者 tboydar 於 2026-10-13 以 PR #1826 交稿，非走產線）
 
