@@ -201,7 +201,23 @@ async function getCommitsFromGitHub(limit = 100): Promise<Commit[]> {
   }
 }
 
-export async function fetchCommitFeed(limit = 100): Promise<CommitFeed> {
+// The changelog renders once per language and each render ran `git log -n 9999`
+// synchronously on the render thread (~9% of a 2026-10-20 build profile, 13
+// identical runs). HEAD does not move during a build, so production builds share
+// the first result per limit; dev keeps reading fresh history on every request.
+const feedCache = new Map<number, Promise<CommitFeed>>();
+
+export function fetchCommitFeed(limit = 100): Promise<CommitFeed> {
+  if (!import.meta.env.PROD) return loadCommitFeed(limit);
+  let feed = feedCache.get(limit);
+  if (!feed) {
+    feed = loadCommitFeed(limit);
+    feedCache.set(limit, feed);
+  }
+  return feed;
+}
+
+async function loadCommitFeed(limit: number): Promise<CommitFeed> {
   const gitCommits = dedupeAndTrim(getCommitsFromGit(limit), limit);
   if (gitCommits.length) {
     return { commits: gitCommits, source: 'git' };
