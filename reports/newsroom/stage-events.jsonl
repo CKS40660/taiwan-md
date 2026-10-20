@@ -944,3 +944,4 @@
 {"ts": "2026-10-10T22:06:23Z", "slug": "台灣步道文化與公民守護", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-10T22:06:23Z", "slug": "台灣皇蛾", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-10T22:06:23Z", "slug": "客家飲食文化", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-10-19T22:06:34Z", "slug": "台灣公投制度", "stage": "ship", "status": "done", "source": "observed", "sha": "be3a2d80836c"}

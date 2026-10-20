@@ -1,157 +1,157 @@
 ---
-title: 'Doze Niu (鈕承澤)'
-description: 'Regisseur von „Monga“, vom Schauspieler zum Regisseur, Filmschaffender mit kontroversen Aspekten'
+title: 'Niu Cheng-ze'
+description: 'Ein 1966 geborener Kinderstar aus einem Militärdorf, der mit „Der Clown“ im Alter von 11 Jahren in die Branche einstieg und später an Werken wie „A Time to Live“ von Hou Hsiao-hsien mitwirkte. Nach seinem Wechsel vom Schauspieler zum Regisseur bewies er sein Talent 2010 mit dem Erfolg von „Monga“. Doch während er auf dem Höhepunkt seines Ruhms stand, stürzte ihn ein Sexualdelikt im Jahr 2018 in jahrelange Rechtsstreitigkeiten und überschattete seine Karriere.'
 date: 2026-03-19
 category: 'People'
-tags: ['Doze Niu', 'Regisseur', 'Schauspieler', 'Monga', 'Kontroversen']
+tags: ['Niu Cheng-ze', 'Regisseur', 'Schauspieler', 'Monga', 'Kontroverse']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/鈕承澤.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:03252333a42bc60e'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:12d3122bbe1c03b4'
 sourceBodyHash: 'sha256:decf157a216cec86'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-10-15T20:18:07+08:00'
 ---
 
-# Doze Niu (鈕承澤): Talent und Kontroversen vereint in einem Filmschaffenden
+# Niu Cheng-ze: Ein Filmemacher zwischen Talent und Kontroversen
 
-Von „Monga“ bis „Paradise in Service“ erlangte Doze Niu mit starkem persönlichen Stil Anerkennung in der Filmwelt; seine Werke berühren oft sensible Themen der taiwanesischen Gesellschaft. 2018 brachten Vorwürfe der sexuellen Gewalt und die anschließende Verurteilung seinen Namen in Verbindung mit Taiwans #MeToo-Welle und beendeten seine Karriere abrupt.
+Von „Monga“ bis „Military Strike“ hat Niu Cheng-ze durch seinen starken persönlichen Stil eine Position in der Filmwelt erlangt; seine Werke behandeln oft sensible Themen der taiwanischen Gesellschaft. Im Jahr 2018 verknüpften die Vorwürfe eines Sexualdelikts und das anschließende Urteil seinen Namen mit der #MeToo-Welle in Taiwan, was sein Ende als Entertainer bedeutete.
 
-## Anfänge als Kinderstar
+## Ein Karrierestart als Kinderstar
 
-Doze Niu wurde am 22. Mai 1966 in Taipeh geboren. Sein Vater Niu Yong-ye war Berufssoldat im Ruhestand, seine Mutter Hausfrau. In einer Militärdependenzensiedlung (眷村) aufgewachsen, zeigte er früh schauspielerisches Talent.
+Niu Cheng-ze wurde am 22. Mai 1966 in Taipeh geboren. Sein Vater, Niu Yong-ye, war ein Veteran, seine Mutter eine Hausfrau. Er wuchs in einem Militärdorf (Jun Cun) auf und zeigte schon früh sein schauspielerisches Talent.
 
-1977 debütierte der elfjährige Doze Niu im Film „Der Clown“ (《小丑》) und trat damit in die Unterhaltungsbranche ein. Sein Image als Kinderstar war beim Publikum sehr beliebt; er spielte in zahlreichen weiteren Filmen mit und wurde zu einem der bekanntesten Kinderstars der 1970er-Jahre.
+Im Alter von 11 Jahren nahm Niu 1977 am Film „Der Clown“ (Xiao Chou) teil und trat damit offiziell in die Unterhaltungsbranche ein. Sein Image als Kinderstar war bei den Zuschauern sehr beliebt, was zu weiteren Filmrollen führte und ihn zu einem der bekannten Kinderstars der 1970er Jahre machte.
 
-Die Erfahrungen als Kinderstar lieferten wertvolle Praxis für seine spätere Regiekarriere: Er lernte von klein auf am Filmset alle Bereiche der Filmproduktion kennen und entwickelte ein feines Gespür für die Kamera.
+Die Erfahrungen aus seiner Zeit als Kinderstar boten ihm eine wertvolle Grundlage für seine spätere Karriere als Regisseur; er lernte bereits in jungen Jahren die verschiedenen Aspekte der Filmproduktion im Studio kennen und entwickelte ein feines Gespür für die Kamera.
 
-## Die 1980er-Jahre als Schauspieler
+## Die 1980er Jahre als Schauspieler
 
-Als Erwachsener setzte Doze Niu seine Schauspielkarriere fort, wirkte in Filmen wie „Lao Mos zweiter Frühling“ (《老莫的第二個春天》) und „Staub in der Liebe“ (《戀戀風塵》) von [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien/) mit und war ein wichtiger Teilnehmer der Taiwanischen Neuen Welle.
+Nach seinem Eintritt ins Erwachsenenalter setzte Niu seine Arbeit als Schauspieler fort und wirkte in Werken von Regisseuren wie [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien/) mit, darunter „Lian Lian Feng Chen“ (A Time to Live). Er war ein wichtiger Akteur der taiwanesischen New-Cinema-Bewegung.
 
-Unter der Regie von [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien/) lernte er die Essenz der Filmkunst kennen; diese Erfahrung prägte seinen späteren Schaffensstil nachhaltig. Er begann, über die tiefere Bedeutung von Kino nachzudenken, jenseits reiner kommerzieller Unterhaltung.
+Unter der Anleitung von [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien/) lernte er die Essenz der Filmkunst kennen, was seinen späteren kreativen Stil tiefgreifend beeinflusste. Er begann, über die tiefere Bedeutung des Films nachzudenken, der weit über reine kommerzielle Unterhaltung hinausging.
 
-Die Schauspielerfahrung der 1980er-Jahre ließ Doze Niu solide darstellerische Fähigkeiten erwerben; noch wichtiger war der Aufbau erster Handkenntnisse über den gesamten Filmproduktionsprozess.
+Die schauspielerische Erfahrung der 1980er Jahre ermöglichte es Niu, solide Techniken zu erwerben und – was noch wichtiger war – ein erstklassiges Verständnis für den gesamten Produktionsprozess eines Films zu entwickeln.
 
-## Erfolgreicher Wechsel zum Fernsehen
+## Erfolgreicher Wandel zum Fernsehen
 
-In den 1990er-Jahren wandte sich Doze Niu dem Fernsehen zu, inszenierte Werke wie „Taiwanische Geistergeschichten“ (《台灣靈異事件》) und erntete Lob beim Publikum. Diese Produktionen zeigten sein tiefes Verständnis der taiwanesischen Lokalkultur.
+In den 1990er Jahren verlagerte Niu seinen Fokus auf das Fernsehen und inszenierte Werke wie „Taiwan Supernatural Events“, die bei den Zuschauern auf positive Resonanz stießen. Diese Arbeiten zeigten sein tiefes Verständnis der lokalen taiwanischen Kultur.
 
-Er bewies besonderes Geschick bei Suspense- und Thriller-Stoffen und schuf einen unverwechselbaren visuellen Stil. Diese TV-Arbeiten verschafften ihm einen stabilen Zuschauerstamm und regieerfahrung.
+Er war besonders geschickt darin, Suspense- und Thriller-Genres zu behandeln und einen einzigartigen visuellen Stil zu kreieren. Diese Fernsehproduktionen halfen ihm, ein stabiles Publikum aufzubauen und Regieerfahrung zu sammeln.
 
-Der Fernseherfolg etablierte Doze Nius Ruf in der Film- und Fernsehbranche und lieferte Ressourcen und Netzwerke für den späteren Sprung ins Kino.
+Der Erfolg im Fernsehen festigte Nius Ruf in der Medienbranche und verschaffte ihm die Ressourcen und Kontakte, die er für seinen späteren Vorstoß in die Kinowelt benötigte.
 
 ## Beginn der Regiekarriere
 
-2000 inszenierte Doze Niu mit „Love Kill“ (《愛殺》) sein Kinodebüt und eröffnete damit seine Regiekarriere. Obwohl der Film an der Kinokasse nur mäßige Ergebnisse erzielte, zeigte er sein Potenzial als Regisseur.
+Im Jahr 2000 markierte sein Regiedebüt mit dem Film „Ai Sha“ (The Love of Death) den offiziellen Beginn seiner Karriere als Regisseur. Obwohl das Werk kommerziell eher verhalten abschnitt, bewies es sein Potenzial als Filmemacher.
 
-„Love Kill“ behandelte komplexe menschliche Abgründe und offenbarte Doze Nius Interesse an der dunklen Seite der menschlichen Natur; dieses Stilmerkmal entwickelte sich in seinen späteren Werken weiter.
+„Ai Sha“ behandelte komplexe Fragen der menschlichen Natur und zeigte Nius Interesse an den dunklen Seiten des Menschseins – ein Stilmerkmal, das sich in seinen späteren Arbeiten weiterentwickelte.
 
-Die Erstregie lehrte ihn die Komplexität der Filmproduktion und bestärkte ihn in dem Entschluss, Regisseur zu werden.
+Die Erfahrung seines ersten Regieprojekts lehrte ihn die Komplexität der Filmproduktion und bestärkte ihn in seinem Entschluss, als Regisseur zu arbeiten.
 
 ## Der große Erfolg von „Monga“
 
-2010 wurde Doze Nius „Monga“ (《艋舺》) zu seinem repräsentativsten Werk: Ein Jugend-Gangsterfilm vor dem Hintergrund des Wanhua der 1980er-Jahre, der enormen Erfolg verbuchte.
+Im Jahr 2010 wurde Nius Film „Monga“ zu seinem Meisterwerk. Dieser Jugend-Gangsterfilm, der im Wanhua-Viertel der 1980er Jahre spielt, feierte einen riesigen Erfolg.
 
-Der Film vereinte junge Darsteller wie Joseph Chang (趙又廷), Ethan Juan (阮經天) und Rhydian Vaughan (鳳小岳) und erzählte die Coming-of-Age-Geschichte von Jugendlichen in einer Gangster-Umgebung. Die visuelle Ästhetik war kraftvoll, die emotionale Wirkung stark.
+Der Film besetzte junge Talente wie Mark Chao (Zhao You-ting), Ethan Juan (Ruan Jing-tian) und Feng Xiao-yue und erzählte die Geschichte des Aufwachsens von Jugendlichen in einem kriminellen Umfeld. Der visuelle Stil war intensiv und die emotionale Wirkung stark.
 
-„Monga“ spielte über 200 Millionen Neuer Taiwan-Dollar ein und war der erfolgreichste einheimische Film des Jahres in Taiwan. Dieses Werk festigte Doze Nius bedeutende Stellung in der taiwanesischen Filmbranche.
+„Monga“ spielte über 200 Millionen NT$ ein und war der erfolgreichste lokale Film des Jahres. Mit diesem Werk etablierte Niu seine bedeutende Position in der taiwanischen Filmindustrie.
 
-## Tiefgründige Erkundung in „Paradise in Service“
+## Die tiefgründige Erkundung in „Military Strike“
 
-2014 folgte mit „Paradise in Service“ (《軍中樂園》) ein weiteres wichtiges Werk, das das sensible Thema der Militärbordelle aufgriff und Doze Nius Interesse an historischen Fragen zeigte.
+Der Film „Military Strike“ (Jun Zhong Le Yuan) aus dem Jahr 2014 ist ein weiteres wichtiges Werk von Niu, das das sensible Thema der Militär-Komfortstationen behandelt und sein Interesse an historischen Fragen zeigt.
 
-Der Film wagte sich mutig an ein Tabuthema der taiwanesischen Geschichte und löste gesellschaftliche Diskussionen aus. Doze Niu behandelte die komplexen moralischen Fragen mit feiner Hand und bewies Reife als Regisseur.
+Das Werk wagte es, Tabuthemen der taiwanischen Geschichte anzusprechen, was gesellschaftliche Diskussionen auslöste. Niu behandelte komplexe moralische Fragen mit einer feinsinnigen Methodik, was seine Reife als Regisseur unterstrich.
 
-„Paradise in Service“ erhielt mehrere Nominierungen bei den Golden Horse Awards und bewies, dass Doze Niu nicht nur kommerzielle Filme drehen kann, sondern auch künstlerisch anspruchsvolle Stoffe beherrscht.
+„Military Strike“ erhielt mehrere Nominierungen beim Golden Horse Award und bewies, dass Niu nicht nur kommerzielle Filme drehen konnte, sondern auch die Fähigkeit besaß, künstlerisch anspruchsvolle Themen zu bearbeiten.
 
 ## Filmstil und Themen
 
-Doze Nius Filme zeichnen sich durch starken persönlichen Stil aus; sie thematisieren oft die dunklen Seiten und Tabus der taiwanesischen Gesellschaft. Er scheut Kontroversen nicht und stellt die gesellschaftliche Komplexität unverblümt dar.
+Nius Filme zeichnen sich durch einen starken persönlichen Stil aus und befassen sich oft mit den dunklen Seiten und Tabus der taiwanischen Gesellschaft. Er scheut keine Kontroversen und zeigt mutig die Komplexität des Sozialgefüges.
 
-Seine Werke tragen oft starke nostalgische Färbung, besonders im Rückblick auf die taiwanesische Gesellschaft der 1980er-Jahre. Diese Nostalgie spiegelt seine persönliche Biografie wider.
+Seine Werke tragen oft eine starke nostalgische Note, insbesondere ein Rückblick auf die taiwanische Gesellschaft der 1980er Jahre. Diese Nostalgie spiegelt seine eigene Biografie wider.
 
-Doze Niu versteht es, intensive emotionale Atmosphären zu schaffen; seine Filme sind stets voller Spannung und Konflikte. Dieser Stil verleiht seinen Werken starke visuelle Wucht.
+Niu versteht es, eine dichte emotionale Atmosphäre zu schaffen; seine Filme sind stets von Spannung und Konflikten geprägt, was seinen Werken eine starke visuelle Wucht verleiht.
 
-## Beobachtungen der taiwanesischen Gesellschaft
+## Beobachtungen der taiwanischen Gesellschaft
 
-Doze Nius Arbeiten reflektieren häufig den Wandel und die Probleme der taiwanesischen Gesellschaft; er nutzt Kino, um die Veränderungen der Zeit zu dokumentieren. Von der Militärdependenzendörfer-Kultur (眷村文化) bis zur städtischen Entwicklung zählen diese Themen zu seinen Schwerpunkten.
+Nius Arbeiten reflektieren oft den Wandel und die Probleme der taiwanischen Gesellschaft; er nutzt das Kino, um gesellschaftliche Veränderungen zu dokumentieren. Von der Kultur der Militärdörfer bis hin zur Urbanisierung sind dies zentrale Themen seines Interesses.
 
-Besonders am Herzen liegen ihm die Lebenslagen marginalisierter Gruppen – Gangstermitglieder, Soldaten, Sexarbeiterinnen. In seiner Linse gewinnen diese Figuren menschliche Würde.
+Ein besonderes Augenmerk legt er auf die Lebensbedingungen marginalisierter Gruppen, darunter Gangmitglieder, Soldaten und Sexarbeiter. Diese Charaktere erhalten unter seiner Kamera eine menschliche Würde.
 
-Doze Niu ist der Ansicht, Film müsse soziale Realität abbilden und vor schwierigen Fragen nicht zurückschrecken. Diese Schaffensphilosophie verleiht seinen Werken soziologische Relevanz.
+Niu vertritt die Ansicht, dass Filme die gesellschaftliche Realität widerspiegeln sollten, anstatt schwierige Fragen zu vermeiden. Diese kreative Philosophie verleiht seinen Werken eine soziologische Bedeutung.
 
 ## Zusammenarbeit mit Schauspielern
 
-Doze Niu ist geschickt darin, neue Talente zu entdecken und zu fördern; Darsteller wie Joseph Chang und Ethan Juan in „Monga“ erzielten unter seiner Regie ihren Durchbruch. Er besitzt ein scharfes Auge für Besetzung.
+Niu besitzt ein Talent dafür, neue Schauspieler zu entdecken und zu fördern; Stars wie Mark Chao und Ethan Juan in „Monga“ erlebten unter seiner Regie ihren Durchbruch. Er verfügt über einen scharfen Blick für das Casting.
 
-Er verlangt von Schauspielern vollständige Hingabe an die Rolle und lässt sie oft tiefgehende Vorbereitungen treffen. Diese Strenge verleiht den Darstellungen in seinen Werken große Überzeugungskraft.
+Er verlangt von seinen Schauspielern eine vollständige Hingabe an die Rolle und lässt sie oft tiefgehende Charakterstudien durchführen. Diese strengen Anforderungen führen dazu, dass die Darstellungen in seinen Filmen sehr überzeugend wirken.
 
-Die Zusammenarbeit zwischen Doze Niu und seinen Schauspielern ist meist eng; er betrachtet Regisseur und Schauspieler als kreative Partner, die gegenseitiges Vertrauen und Abstimmung brauchen.
+Die Zusammenarbeit zwischen Niu und seinen Schauspielern ist meist eng; er betrachtet Regisseure und Schauspieler als kreative Partner, die gegenseitiges Vertrauen und Kooperation benötigen.
 
-## Der Sexualgewalt-Fall 2018
+## Der Sexualdelikt-Fall 2018
 
-2018 wurde Doze Niu beschuldigt, eine Mitarbeiterin sexuell missbraucht zu haben; der Fall erregte breite öffentliche Aufmerksamkeit. Dieses Ereignis veränderte seinen Lebensweg und sein öffentliches Image grundlegend.
+Im Jahr 2018 wurde Niu beschuldigt, eine Mitarbeiterin sexuell belästigt zu haben, was großes öffentliches Aufsehen erregte. Dieses Ereignis veränderte seinen Lebensweg und sein gesellschaftliches Ansehen grundlegend.
 
-Während des Verfahrens traten weitere Betroffene mit Vorwürfen an die Öffentlichkeit, was die Schwere des Problems verdeutlichte. Diese Anschuldigungen richteten verheerenden Schaden an seinem Ruf und seiner Karriere an.
+Während des Verfahrens traten weitere Opfer hervor, was die Schwere der Problematik verdeutlichte. Diese Anschuldigungen fügten seinem Ruf und seiner Karriere einen verheerenden Schlag zu.
 
-Das Bezirksgericht Taipeh sprach Doze Niu im April 2020 in erster Instanz schuldig und verhängte vier Jahre Freiheitsstrafe; das Oberste Gericht Taiwan bestätigte das Urteil im Dezember 2020 in zweiter Instanz; der Oberste Gerichtshof wies die Revision im September 2021 ab, womit das Urteil rechtskräftig wurde[^1]. Dieses bestätigte Urteil bestätigte seine Straftaten und beendete seine Karriere in der Unterhaltungsbranche.
+Das Bezirksgericht Taipeh sprach Niu im ersten Instanz im April 2020 schuldig und verhängte eine Freiheitsstrafe von vier Jahren; das Hohe Gericht in Taiwan bestätigte das Urteil im Dezember 2020 in der zweiten Instanz; der Oberste Gerichtshof wies die Berufung im September 2021 zurück, womit das Urteil rechtskräftig wurde[^1]. Dieses rechtskräftige Urteil bestätigte seine Straftaten und beendete seine Karriere als Entertainer.
 
-## Auswirkungen auf die taiwanesische Film- und Fernsehbranche
+## Auswirkungen auf die taiwanische Medienbranche
 
-Der Fall Doze Niu löste in der taiwanesischen Film- und Fernsehbranche eine Reflexion über Geschlechtergerechtigkeit und sexuelle Belästigung am Arbeitsplatz aus und förderte den Aufbau und die Verbesserung entsprechender Mechanismen.
+Der Fall Niu löste in der taiwanischen Film- und Fernsehbranche eine Reflexion über Geschlechtergerechtigkeit und sexuelle Belästigung am Arbeitsplatz aus, was zur Einrichtung und Verbesserung entsprechender Systeme beitrug.
 
-Der Fall führte auch zu einer Neubewertung von Machtungleichgewichten in der Unterhaltungsbranche und trieb die Entwicklung der #MeToo-Bewegung in Taiwan voran.
+Das Ereignis veranlasste die Gesellschaft auch dazu, das Problem der Machtungleichheit in der Unterhaltungsindustrie neu zu bewerten, was die Entwicklung der #MeToo-Bewegung in Taiwan vorantrieb.
 
-Die Branche begann, verbesserte Beschwerde- und Schutzmechanismen einzurichten, um ähnliche Vorfälle künftig zu verhindern.
+Die Branche begann, bessere Beschwerdemechanismen und Schutzmaßnahmen zu etablieren, um ähnliche Vorfälle in Zukunft zu verhindern.
 
-## Neubewertung des Werks
+## Neubewertung der Werke
 
-Nach dem Fall Doze Niu standen auch seine früheren Werke einer Neubewertung gegenüber. Publikum und Kritiker begannen, diese Filme aus anderen Perspektiven zu betrachten.
+Nach dem Fall Niu wurden auch seine früheren Werke neu bewertet. Zuschauer und Kritiker begannen, diese Filme aus einer anderen Perspektive zu betrachten.
 
-Manche argumentieren, Kunstwerk und persönliches Verhalten des Schaffenden seien getrennt zu bewerten; andere halten die Persönlichkeit des Schaffenden für wertbestimmend für das Werk.
+Einige argumentieren, dass künstlerische Werke getrennt vom persönlichen Verhalten des Schöpfers bewertet werden sollten, während andere meinen, dass der Charakter des Urhebers den Wert des Werkes beeinflusst.
 
-Diese Diskussion spiegelt die gesellschaftliche Reflexion über das Verhältnis von Kunst und Moral wider – ein wichtiges Thema der zeitgenössischen Kulturszene.
+Diese Diskussion spiegelt die gesellschaftliche Auseinandersetzung mit dem Verhältnis von Kunst und Moral wider – ein zentrales Thema der zeitgenössischen Kultur.
 
 ## Auswirkungen auf die Opfer
 
-Doze Nius Straftaten verursachten den Opfern schwere körperliche und seelische Traumata; dies ist der Aspekt, der im gesamten Geschehen am meisten Beachtung verdient.
+Die Straftaten von Niu verursachten den Opfern schwere psychische und physische Traumata, was der Aspekt ist, der im gesamten Vorfall die meiste Aufmerksamkeit verdient.
 
-Die Gesellschaft begann, den Schutz der Opferrechte stärker zu gewichten – einschließlich rechtlicher Unterstützung und psychologischer Betreuung.
+Die Gesellschaft begann, den Rechten der Opfer mehr Bedeutung beizumessen, einschließlich Unterstützung in Form von rechtlicher Hilfe und psychologischer Beratung.
 
-Der Fall mahnt zudem, dass bessere Mechanismen zur Prävention und Bewältigung sexualisierter Gewalt geschaffen werden müssen.
+Dieser Fall mahnt die Gesellschaft auch dazu, bessere Mechanismen zur Prävention und Bewältigung von sexualisierter Gewalt zu schaffen.
 
-## Gerichtsverfahren und gesellschaftliche Gerechtigkeit
+## Rechtsweg und soziale Gerechtigkeit
 
-Das Verfahren im Fall Doze Niu zeigte, wie das taiwanesische Justizsystem Sexualgewaltdelikte behandelt, und spiegelte das gesellschaftliche Streben nach Gerechtigkeit wider.
+Das Gerichtsverfahren im Fall Niu zeigte die Art und Weise auf, wie das taiwanische Justizsystem mit Fällen von sexualisierter Gewalt umgeht, und spiegelte das Streben der Gesellschaft nach Gerechtigkeit wider.
 
-Das Urteil verschaffte den Opfern zwar ein gewisses Maß an Gerechtigkeit, löste aber auch Diskussionen über die Angemessenheit der Strafhöhe aus.
+Obwohl das Urteil den Opfern ein gewisses Maß an Gerechtigkeit verschaffte, löste es auch Diskussionen darüber aus, ob die Straflänge angemessen sei.
 
-Der Fall stieß in der taiwanesischen Gesellschaft eine tiefgehende Diskussion über das Verhältnis von „Talent“ und „Charakter“ an und wurde zu einem Referenzfall für künftige Geschlechter-Sicherheitsschulungen in der Film- und Fernsehbranche.
+Der Fall hat in der taiwanischen Gesellschaft eine tiefgreifende Debatte über die Beziehung zwischen „Talent“ und „Charakter“ angestoßen und dient seither als Referenzfall für die Ausbildung zur sexuellen Sicherheit am Arbeitsplatz in der Medienbranche.
 
-## Lehren für die taiwanesische Filmbranche
+## Lehren für die taiwanische Filmwelt
 
-Der Fall Doze Niu lieferte der taiwanesischen Filmbranche wichtige Lehren und zwang die Branche zur Neubewertung von Arbeitsumfeld und Berufskultur.
+Der Fall Niu bot der taiwanischen Filmwelt wichtige Lehren und veranlasste die Branche, das Arbeitsumfeld und die Unternehmenskultur zu überprüfen.
 
-Die Filmbranche begann, strengere Verhaltensregeln und Kontrollmechanismen einzuführen, um die Sicherheit und Würde aller Mitarbeitenden zu gewährleisten.
+Die Filmwelt begann, strengere Verhaltenskodizes und Aufsichtsmechanismen einzuführen, um die Sicherheit und Würde aller Mitarbeiter zu gewährleisten.
 
-Der Fall mahnt auch, dass die Filmbranche mehr gesellschaftliche Verantwortung übernehmen muss und nicht allein kommerziellen Interessen nachjagen darf, während moralische Grundlinien missachtet werden.
+Das Ereignis erinnerte die Branche auch daran, dass sie eine größere soziale Verantwortung tragen muss und nicht nur kommerziellen Interessen nachgehen darf, während moralische Grundwerte vernachlässigt werden.
 
-Doze Nius Fall markiert einen wichtigen Wendepunkt in der taiwanesischen Film- und Fernsehbranche. Sein Talent bescherte Taiwan einst bemerkenswerte Werke, doch seine Straftaten erinnern die Gesellschaft an die Bedeutung von Macht und Verantwortung. Dieser Fall wird die Entwicklung der taiwanesischen Film- und Fernsehbranche weiterhin beeinflussen und die gesamte Branche dazu antreiben, ein gesünderes, sichereres Arbeitsumfeld zu schaffen.
+Der Fall Niu markiert einen wichtigen Wendepunkt in der taiwanischen Medienlandschaft. Sein Talent brachte einst herausragende Werke hervor, doch seine Straftaten mahnen die Gesellschaft an die Bedeutung von Macht und Verantwortung. Dieser Fall wird die Entwicklung der taiwanischen Medienbranche weiterhin beeinflussen und die gesamte Industrie dazu bewegen, ein gesünderes und sichereres Arbeitsumfeld zu schaffen.
 
 ## Referenzen
 
-[^1]: Taro News (芋傳媒) „Doze Niu Sexualgewalt-Fall: Oberster Gerichtshof bestätigt Urteil – vier Jahre Freiheitsstrafe“, https://taronews.tw/, September 2021
+[^1]: Yutuan Media: 〈Urteil des Obersten Gerichtshofs im Sexualdelikt-Fall Niu Cheng-ze rechtskräftig: Vier Jahre Freiheitsstrafe〉, https://taronews.tw/, September 2021
 
-[^2]: Judicial Yuan Legal Information Retrieval System, Urteilsschrift im Fall Doze Niu, https://judgment.judicial.gov.tw/
+[^2]: Rechtliches Informationssystem des Justizministeriums: Urteil im Sexualdelikt-Fall Niu Cheng-ze, https://judgment.judicial.gov.tw/
 
-[^3]: Central News Agency (中央社) „Doze Niu wegen Sexualgewalt: Bezirksgericht Taipeh spricht in erster Instanz schuldig – vier Jahre Freiheitsstrafe“, https://www.cna.com.tw/, April 2020
+[^3]: Central News Agency (CNA): 〈Niu Cheng-ze wegen Verdachts auf Sexualdelikt vom Bezirksgericht Taipeh in erster Instanz zu vier Jahren verurteilt〉, https://www.cna.com.tw/, April 2020
 
-[^4]: Ministry of Culture (文化部) Taiwanische Film- und Fernsehbranche: Politik zur Geschlechtergerechtigkeit, https://www.moc.gov.tw/
+[^4]: Gender Equality Policy der Film- und Fernsehindustrie des Kulturministeriums, https://www.moc.gov.tw/
 
-[^5]: Awakening Foundation (婦女新知基金會) Materialien zur #MeToo-Bewegung in der taiwanesischen Gesellschaft, https://www.awakening.org.tw/
+[^5]: Women's New Knowledge Foundation: Advocacy-Material zur #MeToo-Bewegung in der taiwanischen Gesellschaft, https://www.awakening.org.tw/
 
-[^6]: Wikipedia-Eintrag „Doze Niu“, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4
+[^6]: Wikipedia-Eintrag „Niu Cheng-ze“, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

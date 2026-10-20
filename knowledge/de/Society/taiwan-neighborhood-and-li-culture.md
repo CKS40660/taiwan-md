@@ -1,15 +1,15 @@
 ---
-title: 'Taiwanische Gemeinschaft und Dorf-/Nachbarschaftskultur'
-description: 'Von der grundlegendsten demokratischen Praxis bis zur sozialen Innovation in der Gemeindeentwicklung'
+title: 'Taiwanische Stadtviertel- und Nachbarschaftskultur'
+description: 'Das Viertel (Li) ist die kleinste Zelle der demokratischen Gesellschaft Taiwans: Der Viertelvorsteher beruft Bewohnerversammlungen ein, Nachbarschaftsleiter informieren von Tür zu Tür, und in den Gemeinschaftsuniversitäten im Nachbarhaus findet Unterricht statt. Dieser Artikel beginnt beim kleinsten System aus Vierteln und Nachbarschaften, betrachtet die Bewegung des Community Building sowie die Experimente der Gemeinschaftsuniversitäten und zeigt auf, wie sich bürgerschaftliches Engagement von passiver Annahme zu aktiver Gestaltung wandelt und wie dieses Basisnetzwerk die gesellschaftliche Resilienz Taiwans stützt.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Dorf-Nachbarschaftsordnung',
-    'Gemeinschaftsbildung',
-    'Hochschulgemeinde',
-    'bürgerschaftliches Engagement',
-    'lokale Selbstverwaltung',
+    'Viertel- und Nachbarschaftssystem',
+    'Community Building',
+    'Gemeinschaftsuniversität',
+    'Bürgerschaftliches Engagement',
+    'Lokale Selbstverwaltung',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:38+08:00'
+translatedAt: '2026-10-15T19:27:21.296315+00:00'
 ---
 
 # Taiwanische Gemeinschaft und Dorf-/Nachbarschaftskultur

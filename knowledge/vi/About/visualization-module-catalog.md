@@ -258,7 +258,7 @@ Nguồn: Sở Dân cư Bộ Nội vụ, cuối 2025
 
 ```tw-iso
 Chính phủ xây dựng bao nhiêu nhà ở công trong 24 năm
-Đơn vị: ● = 20.000 hộ
+單位：● = 20.000 hộ
 Chính phủ xây dựng trực tiếp | 174.891 hộ | 1976–1999
 Tổng lượng nhà ở công rộng nghĩa | 390.000 hộ dư thừa | Đến 2015 đã bãi bỏ
 Nguồn: Thông cáo báo chí của Viện Hành pháp về bãi bỏ Sắc lệnh Nhà ở Công Nhân dân
@@ -270,7 +270,7 @@ Thành phần ghế ngồi của hội nghị có chuyên dùng riêng của nó
 
 ```tw-arc
 2024 Ghế ngồi Viện Lập pháp: ba đảng phái không quá nửa (113 ghế)
-Quá nửa: 57
+過半：57
 Quốc Dân Đảng | 52
 Đảng Dân chủ Tiến bộ | 51
 Đảng Nhân dân Đài Loan | 8

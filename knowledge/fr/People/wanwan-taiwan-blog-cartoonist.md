@@ -2,9 +2,7 @@
 title: "Wanwan : le personnage chauve qui a donné un visage à une génération d'employés de bureau, et Hu Chia-wei, qui l'a fait « devenir un personnage historique »"
 description: "À l'époque où les bureaux communiquaient encore par MSN, des employés qui n'osaient pas parler à leur patron remplaçaient leur avatar par un petit personnage chauve, sans vêtements, avec une mèche bouclée sur la tête, pour lui faire crier à leur place : « Je veux quitter le travail ». Hu Chia-wei, qui l'a dessiné, est passée du poste d'assistante designer payée 9 000 dollars taïwanais par mois à celui de créatrice, presque par accident, du premier blog de Taïwan à dépasser les cent millions de vues, et de pionnière de la création graphique et textuelle. Le personnage chauve reste éternellement naïf et jeune ; mais celle qui le dessine, elle, grandit. Elle a donc décidé de faire sortir le personnage de scène avec elle, et de le laisser « devenir un personnage historique »."
 date: 2026-06-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Wanwan',
@@ -14,15 +12,19 @@ tags:
     'ère MSN',
     'culture Internet',
   ]
-readingTime: 13
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
-featured: false
+readingTime: 13
+researchReport: '彎彎'
+relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-06-30T00:37:51+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T02:09:25.062888+00:00'
 ---
 
 # Wanwan : le personnage chauve qui a donné un visage à une génération d'employés de bureau, et Hu Chia-wei, qui l'a fait « devenir un personnage historique »
@@ -112,27 +114,28 @@ Ce qui fait passer cette trajectoire commerciale à l'époque suivante, ce sont 
 
 > 📝 **Note curatoriale** : Présenter les magnets, les livres, les publicités, le cinéma et les stickers sous forme de liste peut facilement donner l'impression d'un « palmarès d'endossements » d'une personnalité. Mais sous cette liste se cache en réalité une proposition plus discrète qui se trouve vérifiée : avant Wanwan, l'imaginaire social taïwanais autour du « dessin » restait sans doute cantonné aux idées de « loisir », de « talent » ou de « métier dont il est difficile de vivre ». Ce qu'elle a fait, c'est renverser cette présupposition sous les yeux de tous : une assistante designer qui n'est pas allée à l'université et qui faisait des courses sur des chantiers pouvait vivre uniquement en dessinant son quotidien, et au passage soutenir un genre éditorial entier. Pour toutes les personnes venues après elle qui voulaient vivre de leur création, elle a déjà répondu à moitié à la question la plus concrète : « est-ce que cette voie mène à la faim ? »
 
-## De MSN à WEBTOON : elle a traversé toutes les générations de plateformes
+## De MSN à WEBTOON : elle a traversé chaque génération de plateformes
 
-Si l'on déploie les vingt années de Wanwan, on constate quelque chose que peu de créateurs parviennent à faire : elle a presque toujours été présente à l'entrée de chacune des grandes plateformes de création graphique et textuelle à Taïwan.
+En examinant les vingt années de carrière de Wanwan, on découvre une chose que peu de créateurs parviennent à accomplir : elle a presque toujours été présente à l'entrée de chaque plateforme de contenu visuel à Taïwan.
 
 ```tw-timeline
-2002 | Avatars MSN | À une époque sans stickers, le personnage chauve prend position à la place des employés de bureau
-2004 | Records sur Wretch | Venue « essayer au passage » le blog pour suivre Giddens Ko, elle devient par accident une fondatrice de la création graphique et textuelle
-2013 | Stickers LINE le même jour que cherng | Elle passe de l'époque des blogs à celle des licences payantes dans les messageries mobiles
-2020 | Sortie de scène en douceur du personnage | « L'ancien Wanwan est déjà mort » : elle laisse le personnage grandir avec elle
+2002 | Avatar MSN | À l'époque précédant les stickers, le personnage chauve s'exprimait pour les employés de bureau
+2004 | Records sur Wretch | En voulant suivre Jiu Ba Dao, elle « teste par hasard » les blogs et devient accidentellement une pionnière du contenu visuel
+2013 | Stickers LINE (le même jour que cherng) | Passage de l'ère des blogs à l'ère des licences payantes sur les applications de messagerie mobile
+2020 | Retrait en douceur du personnage | « L'ancienne Wanwan est morte », laissant le personnage grandir en même temps qu'elle
+Source : Rapports sur les blogs, les publications et les licences de plateformes cités dans cet article (jalon du milliard de vues, magnets en supérettes, première vague de stickers LINE) [^6][^7][^10][^15]
 ```
 
-Il y a d'abord les avatars MSN, autour de 2002, puis l'âge d'or des blogs sur Wretch et Pixnet à partir de 2004, ensuite l'essor des pages Facebook, l'ère payante des stickers LINE, puis les formats à défilement vertical et les plateformes dominées par les algorithmes comme WEBTOON et Instagram. La plateforme LINE WEBTOON la qualifie de « grande aînée du monde graphique et textuel »[^16]. En 2014, Business Weekly publie un article intitulé « Wanwan, bye bye ? Si vous ne le savez pas, vous êtes dépassé ! Les 10 nouveaux illustrateurs explosifs du web »[^17]. Ce titre utilise « Wanwan, bye bye ? » comme question pour introduire Duncan, Bye Bye Chu Chu, cherng et d'autres nouveaux venus. Autrement dit, lorsque les médias veulent présenter la « nouvelle génération », ils doivent d'abord prendre Wanwan comme point d'origine. Elle est ce qui vient « avant ».
+Tout a commencé avec les avatars MSN (autour de 2002), suivi par l'âge d'or des blogs sur Wretch (_Wuming Xiaozhan_) et Pixnet (_Pikepan_) (à partir de 2004), puis l'essor des pages Facebook, l'ère payante des stickers LINE, pour arriver enfin au défilement vertical et aux algorithmes de WEBTOON et Instagram. La plateforme LINE WEBTOON la qualifie de « grande aînée du monde visuel » [^16]. En 2014, le magazine _Business Weekly_ publiait un article intitulé 〈Wanwan掰掰？不知道就落伍了！10 大網路最新爆紅插圖家〉[^17] (« Wanwan s'en va ? Si vous ne savez pas, vous êtes dépassé ! Les 10 illustrateurs qui explosent sur le web »), utilisant la question « Wanwan s'en va ? » pour introduire de nouveaux talents tels que Duncan, Baibai Jiujiu ou cherng. En d'autres termes, lorsque les médias veulent présenter la « nouvelle génération », ils doivent d'abord utiliser Wanwan comme point de référence. Elle est ce « avant ».
 
-![Sticker LINE de Wanwan « J'aime mon travail »](/article-images/people/wanwan-line-sticker.webp)
-_De l'avatar MSN au sticker LINE, le personnage chauve a changé de plateforme ; la réplique reste la même antiphrase : « J'aime mon travail »[^24]. — Usage loyal : œuvre de Wanwan (sticker LINE)_
+![Stickers LINE de Wanwan « J'adore mon travail »](/article-images/people/wanwan-line-sticker.webp)
+_Des avatars MSN aux stickers LINE, le personnage chauve a changé de plateforme, mais sa réplique ironique reste la même : « J'adore mon travail » [^24]. — Fair use : œuvre de Wanwan (stickers LINE)_
 
-Pour cette mutation des plateformes sur deux décennies, Wanwan a donné la meilleure comparaison que j'aie lue. Elle oppose l'époque des blogs à celle des réseaux sociaux : « Avant, un blog ressemblait beaucoup à une bibliothèque : vous la construisiez, vous rangiez vos collections et vos œuvres, et tout le monde affluait pour les voir. Maintenant, c'est comme distribuer des prospectus : il faut les donner un par un, et encore faut-il voir si les gens les acceptent. »[^18] Elle ajoute : « Je pense donc que les créateurs d'aujourd'hui ont beaucoup d'occasions, mais qu'ils travaillent aussi plus durement. »[^18]
+Pour décrire cette transition de plateformes s'étalant sur vingt ans, Wanwan a proposé la meilleure métaphore que j'aie jamais entendue. Elle compare la différence entre l'ère des blogs et celle des réseaux sociaux : « Avant, le blog ressemblait à une bibliothèque ; vous construisiez votre espace, vous organisiez vos collections et vos œuvres, et les gens affluaient pour les consulter. Aujourd'hui, c'est plutôt comme distribuer des prospectus : vous devez les donner un par un, tout en espérant que les gens acceptent de les prendre. » [^18] Elle ajoute : « Je pense donc que même si les créateurs d'aujourd'hui ont beaucoup d'opportunités, leur travail est aussi plus difficile. » [^18]
 
-Si cette comparaison est si juste, c'est parce qu'elle a connu les deux extrémités. Elle a construit cette bibliothèque où « une fois bâtie, les gens venaient d'eux-mêmes » : c'était l'âge d'or des blogs, l'époque où les cent millions de vues venaient rouler jusqu'à vous. Elle a aussi vécu jusqu'à l'époque algorithmique où il faut « distribuer les prospectus un par un ». Seule une personne ayant traversé ces deux époques pouvait formuler un contraste aussi incarné.
+Cette métaphore est juste parce qu'elle a vécu les deux extrémités. Elle a construit cette « bibliothèque où les gens viennent d'eux-mêmes une fois terminée » — c'était l'âge d'or des blogs, l'époque où le milliard de vues arrivait naturellement. Elle a aussi survécu à l'ère des algorithmes où il faut « distribuer les prospectus un par un ». C'est parce qu'elle a traversé deux époques qu'elle peut proposer un contraste aussi empreint d'humanité.
 
-> 📝 **Note curatoriale** : Le récit courant range souvent Wanwan parmi les « larmes de l'époque Wretch », comme si elle était un nom dépassé par son temps et resté dans le passé. Mais ce cadrage inverse la causalité. Elle n'est pas quelqu'un qui serait restée piégée par une plateforme et aurait coulé avec elle ; au contraire, elle fait partie des rares personnes encore présentes à l'entrée à chaque changement de dynastie des plateformes : MSN, Wretch, LINE, WEBTOON, aucune ne manque. Ce qui l'a véritablement éloignée peu à peu du symbole « Wanwan », c'est plutôt le changement d'étape de sa propre vie : d'employée de bureau d'une vingtaine d'années, elle est devenue mère. Les plateformes deviennent obsolètes, mais la décision de faire sortir le personnage de scène a été prise activement par une personne.
+> 📝 **Note du conservateur** : L'opinion commune tend à classer Wanwan parmi les « larmes de l'ère Wretch », comme si elle était un nom appartenant au passé, éliminé par le temps. Mais ce cadre inverse la causalité. Elle n'est pas quelqu'un qui est resté coincé sur une plateforme pour couler avec elle ; au contraire, elle fait partie des rares personnes à être toujours présente à l'entrée de chaque changement de règne technologique — MSN, Wretch, LINE, WEBTOON, sans aucune absence. Ce qui a réellement créé une distance entre elle et le symbole « Wanwan », c'est son propre changement de vie : elle est passée du statut d'employée de bureau dans la vingtaine à celui de mère. Les plateformes deviennent obsolètes, mais la décision de faire retirer un personnage est un acte délibéré de l'humain.
 
 ## Le personnage ne vieillit pas, celle qui le dessine oui
 

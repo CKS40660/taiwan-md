@@ -1,9 +1,9 @@
 ---
-title: '台湾企業：聯發科技'
-description: '「山寨機の王」と嘲られた会社、今やスマホチップシェアはクアルコムの1.5倍'
+title: '台湾企業：メディアテック（MediaTek）'
+description: '創業者が親会社から分割された小規模なチームと共にチップ開発からスタートし、提供したキーとなるソリューションが深センの模倣品エコシステムを育んだことで、かつては安価な製品の製造メーカーと揶揄されることもありました。しかしその後、同社のモバイル向けチップの市場シェアは宿敵を上回り、売上高は100億米ドルを突破、世界第5位の設計会社へと躍進しました。これは、「一世代の王者理論」において、進化し続けなければ挑戦者に取って代わられるという教訓を証明しています。'
 date: 2026-03-25
 category: 'Economy'
-tags: ['Economy', '企業', '半導体', 'チップ設計', 'IC設計', '聯發科技']
+tags: ['経済', '企業', '半導体', 'チップ設計', 'IC設計', 'メディアテック']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '0df538d8'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
-translatedAt: '2026-08-04T17:42:34+08:00'
+translatedAt: '2026-10-15T20:25:26.900557+00:00'
 ---
 
 > **30秒概要**

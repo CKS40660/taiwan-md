@@ -1,16 +1,16 @@
 ---
-title: 'Das Waldökosystem Taiwans'
-description: 'Eine vertikale Reise vom Meeresspiegel bis zum Gipfel des Jade-Mountains, durch das dichteste Waldspektrum der Erde'
+title: 'Taiwans Waldökosysteme'
+description: 'Auf engstem Raum steigt die Insel vom Meeresspiegel bis zum Gipfel des Jadebergs (Yushan) an und bietet ein vollständiges Spektrum von den Tropen bis zur Subarktis; mit einer Waldbedeckung, die doppelt so hoch ist wie der globale Durchschnitt, ist er einer der dichtesten, aber auch fragilsten Wälder der Welt.'
 date: 2026-03-23
 category: 'Nature'
 tags:
   [
-    'Waldökologie',
+    'Waldökosystem',
     'vertikale Verteilung',
-    'Taiwan-Kiefer',
-    'Zedernholz',
+    'Taiwan-Zeder',
+    'Hinoki',
     'Nebelwald',
-    'biologische Vielfalt',
+    'Biodiversität',
   ]
 subcategory: '生態系統'
 readingTime: 15
@@ -19,175 +19,175 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'Nature/台灣森林生態系.md'
-sourceCommitSha: 'a3973681e'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:1bf33f9ec83e5490'
 sourceBodyHash: 'sha256:cfbcf80a5d100a4c'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-10-16T00:53:31+08:00'
 ---
 
-# Das Waldökosystem Taiwans
+# Taiwans Waldökosysteme
 
-> **30-Sekunden-Überblick:** Innerhalb von 200 Kilometern horizontaler Entfernung steigt Taiwan vom Meeresspiegel auf 3.952 Meter, was ein vollständiges Waldspektrum von tropisch bis subarktik ermöglicht. Eine Waldabdeckung von 60,92 % — das doppelte des globalen Durchschnitts — lässt diese Insel nahezu alle Waldtypen der Erde konzentriert enthalten. Von den salzverträglichen Pinien an der Küste über tausendjährige Zedern bis zu den Gipfen des Jade-Mountains: eine der kürzesten und reichsten ökologischen Reisen.
+> **30-Sekunden-Überblick:** Auf einer horizontalen Distanz von nur 200 Kilometern steigt Taiwan vom Meeresspiegel auf 3.952 Meter an und schafft so ein vollständiges Waldspektrum von den Tropen bis zur Subarktis. Eine Waldbedeckung von 60,92 % – das Doppelte des globalen Durchschnitts – lässt diese Insel fast alle Waldtypen der Erde in sich vereinen. Von den salztoleranten Casuarinen an der Küste über die jahrtausendealten Hinoki-Zypressen im Nebelwald bis hin zu den Jadeberg-Wacholderbäumen (Yushan-Juniper) auf 3.600 Metern: Dies ist die ökologisch reichste Reise auf kürzester Distanz.
 
-## Eine intuitiv falsche Erkenntnis
+## Eine kontraintuitive Tatsache
 
-**Taiwan ist eines der inselreichsten Waldgebiete der Welt, aber gleichzeitig auch das verletzlichste.**
+**Taiwan ist eine der waldreichsten Inseln der Welt, aber gleichzeitig einer der fragilsten Orte für Wälder.**
 
-2.186.000 Hektar Wald, 60,92 % Abdeckung, 460 Millionen Kubikmeter Volumen: Diese Zahlen platzieren Taiwan auf Platz 26 der globalen Waldstatistik, mit einer Abdeckungsrate doppelt so hoch wie der globale Durchschnitt von 30,3 %. Dennoch liegt fast der gesamte Wald in vertikalen Berghängen und ist täglich Winden, Erdbeben und Starkregen sowie langfristigen Klimawandelbedrohungen ausgesetzt.
+2,186 Millionen Hektar Wald, 60,92 % Bedeckung und ein Holzvorrat von 460 Millionen Kubikmetern: Diese Zahlen führen Taiwan auf Platz 26 der weltweiten Wald-Rankings, mit einer Bedeckungsrate, die doppelt so hoch ist wie der globale Durchschnitt von 30,3 %. Doch dieser Wald drängt sich fast vollständig an vertikale Gebirgswände und muss jährlich die Prüfungen durch Taifune, Erdbeben und Starkregen sowie die langfristige Bedrohung durch den Klimawandel bestehen.
 
-> **📝 Kuratorische Anmerkungen**
-> Wenige wissen, dass Taiwans Waldabdeckung höher ist als in Deutschland (32 %), Frankreich (31 %) und sogar Norwegen (38 %), das für seine Wälder bekannt ist. Doch Taiwans Wälder wachsen fast alle auf Hängen mit einem Gefälle von über 30 Grad — ein sogenannter „vertikaler Wald“, der weltweit selten ist.
+> **📝 Anmerkung des Kurators**
+> Viele wissen nicht, dass die Waldbedeckung Taiwans höher ist als die von Deutschland (32 %) oder Frankreich (31 %) und sogar die Norwegens (38 %) übertrifft, das für seine Wälder bekannt ist. Doch Taiwans Wälder wachsen fast alle an Steilhängen von über 30 Grad – dieser „vertikale Wald“ ist weltweit selten.
 
-## Vom Küstenmeer zum Himmel: eine 200 Kilometer lange Zeitreise
+## Von der Küste zum Himmel: Eine Zeitreise über 200 Kilometer
 
-Am Hafen von Keelung, blickt man nach Süden, und 200 Kilometer entfernt ragt der Hauptgipfel des Jade-Mountains empor. Diese Entfernung entspricht etwa der Strecke von Taipeh nach Hsinchu, doch die Höhe steigt von 0 auf 3.952 Meter an. Wenn man diese vertikale Sequenz durchdringen könnte, würde man von subtropischen bis subarktischen Klimazonen durchreisen.
+Wenn man im Hafen von Keelung steht und nach Süden blickt, liegt der Hauptgipfel des Jadebergs (Yushan) nur 200 Kilometer entfernt. Diese Distanz entspricht etwa der Strecke von Taipeh nach Hsinchu, aber die Meereshöhe steigt von 0 auf 3.952 Meter an. Würde man diese vertikale Sequenz instantan durchqueren, würde man alle Klimazonen von den Subtropen bis zur Subarktis erleben.
 
-### Erste Station: Salz und Wind an der Küste (0–100 Meter)
+### Erste Station an der Küste: Die Vorhut im Salznebel (0–100 Meter)
 
-Die Reise beginnt am Strand, wo die Wellen brechen. Hier scheint die Landschaft karg — Kies, Salz neblig, starker Wind — doch genauere Betrachtung enthüllt eine kleine Vorstoßtruppe.
+Die Reise beginnt am vom Wellenschlag gezeichneten Ufer. Es wirkt karg – Sand, Salzgischt, starker Wind – doch bei genauem Hinsehen entdeckt man eine kleine Pionierarmee.
 
-Die Nadeln der Salzpinie (Pinus pinea) wiegen sich im Meereswind, doch sie sind keine echten Blätter, sondern verdorrte Äste, die Salzschäden minimieren. Die Luftwurzeln der Mangroven (Kandelia obovata) halten fest im weichen Sand, und die wachssigen Blätter der Seidenpapagei (Broussonetia papyrifera) reflektieren das Sonnenlicht. Diese Pflanzen sind nicht imposant, doch sie bilden die erste Verteidigungslinie für das Landesinnere.
+Die nadelartigen Blätter der Casuarina (_mùmáhuáng_) wiegen sich im Seewind; es sind keine echten Blätter, sondern zu Nadeln reduzierte Zweige, um den Schaden durch Salz zu minimieren. Die Scaevola (_líntóu_) krallt sich mit Luftwurzeln in den lockeren Sand, während die wachsartigen Blätter der Seetang-Pflanzen das Sonnenlicht reflektieren. Diese Pflanzen haben keine prachtvollen Stämme, fungieren aber als erste Verteidigungslinie für das Hinterland.
 
-Auf der Halbinsel Heping, findet man noch Relikte tropischer Wälder — Feigen, Breitschwalbe und Eben. Sie sind Überlebende der Eiszeit, als der gesamte nördliche Halbmond von Eis bedeckt war und diese Insel als letzter Zufluchtsort für tropische Pflanzen diente.
+Auf der Halbinsel Hengchun findet man zudem die letzten Überreste der tropischen Wälder Taiwans – mit Arten wie der _máoshì_, der _dàyèshānlǎn_ und der Elaiis (_xiàngyáshù_). Sie sind Überlebende der Eiszeit; als die gesamte Nordhalbkugel unter Eis lag, wurde das südlichste Ende dieser Insel zum letzten Zufluchtsort für tropische Pflanzen.
 
-### Zweite Station: Das Königreich der Zeder (100–500 Meter)
+### Zweite Station: Das duftende Königreich der Kampferbäume (100–500 Meter)
 
-Verlässt man die Küste und betritt die niedrigen Hügel, erfüllt einen aromatischen Geruch die Luft. Das ist der Duft der Zeder — ein Aroma, das Taiwan einst weltberühmt machte.
+Verlässt man die Küste und betritt die Hügel in geringer Höhe, erfüllt ein würziger Duft die Luft. Es ist das Aroma des Kampferbaums (_zhāngshù_) – ein Geruch, der Taiwan einst weltberühmt machte.
 
-Von Ende des 19. Jahrhunderts bis Anfang des 20. Jahrhunderts stammte Taiwan 70 % der globalen Zederproduktion. Nach der Eroberung durch Japan wurde diese „grüne Goldmine“ noch massiv erweitert. Zeder war ein entscheidender Rohstoff für Seidenstoffe (frühe Kunststoffe) und Rauchpulver. Ein einzelner tausendjähriger Zedernstamm konnte genug Harz liefern, um eine Familie zu versorgen.
+Ende des 19. bis Anfang des 20. Jahrhunderts stammten 70 % der weltweiten Kampferproduktion aus Taiwan. Nach der Ankunft der Japaner wurde dieses „grüne Gold“ in großem Stil abgebaut. Kampfer war ein Schlüsselrohstoff für Zelluloid (früher Kunststoff) und rauchlosen Schießpulver. Ein einzener tausendjähriger Kampferbaum konnte Dutzende Kilogramm Kampfer liefern, was ausreichte, um eine Familie reich zu machen.
 
-Heute gibt es nur noch wenige Urwaldbestände. Was man sieht, sind sekundäre Wälder — Wälder, die nach dem Abholzen während der japanischen Kolonialherrschaft nachgewachsen sind. Doch der Geruch bleibt. Die glatten Rinde der Zeder ist so glatt, dass selbst Affen nicht hinaufklettern können, und die roten Blüten der Zeder (Cunninghamia lanceolata) zieren den Wald wie kleine Feuerwerke, während die fächerförmigen Blätter der Bambus-Papierknospe (Aralia cordata) an erste Dinosaurierzeiten erinnern.
+Heute gibt es nur noch wenige ursprüngliche Kampferwälder. Was man sieht, sind meist Sekundärwälder – Wälder, die nach der Abholzung während der japanischen Kolonialzeit nachgewachsen sind. Doch schnuppert man genau hin, ist der Duft noch immer da. Die glatte Rinde des _jiǔqiūshù_ ist so rutschig, dass selbst Affen kaum klettern können; die roten Blüten der Bougainvillea setzen Farbtupfer im Wald, und die Farnwedel der Cyatheales (_bǐtǒngshù_) entfalten sich wie Schirme und erinnern daran, wie dieser Ort in der Dinosaurierzeit aussah.
 
-### Dritte Station: Der reiche Tisch der Eiche (500–1.800 Meter)
+### Dritte Station: Die reichhaltige Tafel des Eichenwaldes (500–1.800 Meter)
 
-Weiter oben, wo die Temperatur sinkt, wechselt der Hauptdarsteller des Waldes zu den Nussgewächsen. Rot-Eiche, Schmetterlingseiche, Langhaarige Kastanie — diese Namen sind vielen unbekannt, doch ihre Früchte sind vertraut: Eicheln.
+Steigt man weiter auf, sinkt die Temperatur und die Hauptdarsteller des Waldes wechseln zu den Fagaceen (Eichengewächsen). _Qīnggānglì_, _Sēnsìlì_ und _Chángwěijiānyè_ – diese Namen sind für die meisten fremd, aber ihre Früchte kennt man sicher: Eicheln.
 
-Dieser Wald ist das Restaurant der Wildtiere Taiwans. Im Herbst fallen die Bäume voller Eicheln, und Bären, Makaken und Wildschweine kommen, um sich für den Winter zu sammeln. Die Vielfalt in einem Eichenwald ist bemerkenswert — ein hundertjähriger Baum kann Hunderte von Insekten-, Vogel- und Säugetierarten beherbergen.
+Dies ist das Restaurant der Wildtiere Taiwans. Im Herbst fallen die Eicheln von den Bäumen; der Taiwan-Schwarzbär, der Taiwan-Makak und das Wildschwein kommen hierher, um sich für den Winter einzufetten. Die Biodiversität in diesen Eichenwäldern ist extrem hoch; eine hundertjährige Eiche kann das Leben hunderter Insekten-, Vogel- und Kleinsäugetierarten unterstützen.
 
-In dieser Höhenzone trifft man echte Riesen. Die Schmetterlingseiche (Quercus aliena) kann bis zu 30 Meter hoch wachsen und einen Stammumfang von über zwei Metern erreichen. Ihre Lebensdauer von bis zu 500 Jahren hat sie durch die Uhr, als die Ureinwohnerstädte sich wanderten, als die Han-Bevölkerung sich ansiedelte, als Japan herrschaftte und als modernes Taiwan geboren wurde.
+In dieser Höhenlage trifft man auf echte Riesen. Die _Sēnsìlì_-Eiche kann 30 Meter hoch werden, mit einem Brusthöhendurchmesser von über 2 Metern. Sie können bis zu 500 Jahre alt werden und haben die Wanderungen indigener Stämme, die Erschließung durch Han-Chinesen, die japanische Herrschaft und die Geburt des modernen Taiwans miterlebt.
 
-### Vierte Station: Das Reich der Zeder im Nebel (1.800–2.500 Meter)
+### Vierte Station: Das Reich der Könige im Nebel (1.800–2.500 Meter)
 
-Dann betrittst du den heiligen Ort Taiwans Wälder — den Nebelwald.
+Dann betritt man das Heiligtum der taiwanesischen Wälder – den Nebelwald.
 
-Hier lebt die Zeder. Die rote Zeder (Cryptomeria japonica) und die taiwanesische Zeder (Abies kawakamii) — die einzigen beiden endemischen Zederarten Taiwans — finden hier ideale Lebensbedingungen. Regenfälle von 3.000 bis 5.000 Millimetern, eine relative Luftfeuchtigkeit, die oft über 80 % liegt, und Nebel, die selten sich lösen.
+Dies ist die Heimat der Hinoki-Zypressen. Die Rote Hinoki (_hónghuì_) und die Taiwan-Zypresse (_Táiwān piǎnbǎi_), die einzigen beiden auf der Erde endemischen Arten dieser Gruppe, haben hier ihr perfektes Habitat gefunden. Bei jährlichen Niederschlägen von 3.000 bis 5.000 mm und einer relativen Luftfeuchtigkeit von konstant über 80 % löst sich der Nebel fast nie auf.
 
-**Warum Zeder? Warum genau hier?**
+**Warum Hinoki? Warum genau hier?**
 
-Die Antwort liegt in den Wassermolekülen. Der Nebel bringt nicht nur Feuchtigkeit, sondern auch Nährstoffe. Die in den Nebelpartikeln enthaltenen Staub- und Pollenpartikel werden direkt von den Blättern aufgenommen — eine Art „Nebeldüngung“, die es den Zedern ermöglicht, selbst auf karge Bergrücken zu wachsen.
+Die Antwort liegt in den Wassermolekülen. Der Nebel bringt nicht nur Feuchtigkeit, sondern vor allem Nährstoffe. In der Nebelwolke schwebender Staub, Pollen und Spurenelemente werden direkt von den Blättern absorbiert. Diese „Nebelbewässerung“ ermöglicht es den Hinoki-Zypressen, auf kargen Bergrücken zu Giganten heranzuwachsen.
 
-Ein 2.000-jähriger Baum kann einen Stammumfang von bis zu 12 Metern erreichen. Steht man davor, braucht man 20 Menschen, die sich die Hände halten, um ihn zu umarmen. Sein Lebensalter erstreckt sich über die gesamte Geschichte der Menschheit — als er noch sprudelte, war Jesus noch nicht geboren; als die Han-Bevölkerung Taiwan betrat, war er bereits 1.600 Jahre alt.
+Eine 2.000 Jahre alte Rote Hinoki kann einen Brusthöhendurchmesser von 12 Metern erreichen. Wenn man vor ihr steht, bräuchte man 20 Menschen, die sich an den Händen halten, um sie zu umrunden. Ihr Alter überspannt die gesamte Menschheitsgeschichte – als sie keimte, war Jesus noch nicht geboren; als Han-Chinesen nach Taiwan kamen, lebte sie bereits seit 1.600 Jahren.
 
 > **💡 Wussten Sie schon?**
-> Warum leben Zeder so lange? Das Geheimnis liegt in ihrem „Zeder-Alkohol“. Dieses natürliche Chemikalieumfeld hat starke antibakterielle und schädlingsabweisende Wirkung, sodass selbst nach dem Tod des Baumes das Holz nicht verfault. Im Smangus gibt es einen 1.000-jährigen umgestürzten Baum, der seit 300 Jahren auf dem Boden liegt, doch das Holz ist immer noch fest wie neu.
+> Warum leben Hinoki-Zypressen so lange? Das Geheimnis liegt in ihrem „Hinokitiol“. Diese natürliche chemische Substanz hat eine starke antibakterielle und insektenabweisende Wirkung, die verhindert, dass das Holz selbst nach dem Tod verrottet. In Simakusu gibt es einen umgestürzten tausendjährigen Roten Hinoki, der seit 300 Jahren am Boden liegt und dessen Holz immer noch hart wie neu ist.
 
-Im Alishan-Nationalpark kann man die vollständigsten Zeder-Urwälder Taiwans besichtigen. Hier gibt es den größten reinen Zederbestand Taiwans, der 2003 von der Kultur- und Naturerbekommission als potenzielles Weltkulturerbe nominiert wurde. Wenn man hier spazieren geht, versteht man, was ein „heiliger Baum“ bedeutet — nicht aus Aberglauben, sondern aus Ehrfurcht. Diese Bäume haben Eiszeiten, Vulkanausbrüche und Erdbeben überlebt — sie sind Fossilien der Erdgeschichte.
+Im Qilan-Gebirge kann man den am besten erhaltenen ursprünglichen Hinoki-Wald Taiwans sehen. Hier befindet sich der größte natürliche Reinbestand der Taiwan-Zypresse des Landes, ein von der Kommission für Denkmalschutz (Wenhuihui) empfohlenes potenzielles Weltnaturerbe. Wer dort wandert, versteht, was man unter „Götterbäumen“ (_shénmù_) versteht – nicht aus Aberglauben, sondern aus Ehrfurcht. Diese Bäume haben Eiszeiten, Vulkanausbrüche und schwere Erdbeben überlebt; sie sind lebende Fossilien der Erdgeschichte.
 
-Doch die Geschichte der Zeder ist auch die traurigste Erinnerung Taiwans Wälder.
+Doch die Geschichte der Hinoki ist auch die schmerzhafteste Erinnerung des taiwanesischen Waldes.
 
-### Die Holzernte der Japaner: Verschwindende Nebelwälder
+### Das japanische Holzfäll-Trauma: Der verschwindende Nebelwald
 
-1912 begann der Betrieb des Alishan-Forstbahnhofs. Die Alishan-Eisenbahn wurde nicht für den Tourismus gebaut, sondern um die tausendjährigen Zeder nach unten zu transportieren. Die gewundenen Schienen, die einäugigen kleinen Züge und die holzgebauten Stationen — all das ist heute ein touristisches Wahrzeichen, doch ursprünglich diente es ausschließlich dem Holztransport.
+1912 nahm der Alishan-Forstbetrieb seinen Betrieb auf. Die Alishan-Waldschmalspurbahn wurde nicht für den Tourismus gebaut, sondern um tausendjährige Hinoki-Stämme den Berg hinunterzutransportieren. Die Zickzack-Schienen, die kleinen Lokomotiven und die Holzhäuschen – die heutigen Touristenattraktionen – entstanden ursprünglich nur für das Holz.
 
-In 33 Jahren fällte Japan 9.773 Hektar Wald und transportierte 3,47 Millionen Kubikmetern Zederholz. Dieses Holz wurde für japanische Schreine, das Kaiserpalast und sogar für die Unterstützung der militärischen Expansion Japans verwendet. Die drei großen Forstgebiete — Taishan, Xianshan und Alishan — wurden als „Taiwans drei große Forstgebiete“ bekannt.
+In 33 Jahren schlugen die Japaner in Alishan 9.773 Hektar Wald nieder und transportierten 3,47 Millionen Kubikmeter Hinoki ab. Dieses Holz baute japanische Schreine, den Kaiserpalast und unterstützte sogar über die Meere hinweg die militärische Expansion Japans. Taipingshan, Baxianshan und Alishan bildeten zusammen die „drei großen Forstbetriebe Taiwans“.
 
-**Wenn ein tausendjähriger Baum fällt, kann der Schall bis zu 5 Kilometer weit tragen.**
+**Wenn ein tausendjähriger Riese fällt, kann der Knall bis zu 5 Kilometer weit zu hören sein.**
 
-Die damaligen Holzfäller berichteten, dass bei jedem Fall eines großen Baumes das ganze Tal mit einem tiefen Donnern widerhallte, die Tiere flohen, als ob die Berge weinten. Die Ureinwohner waren zitternd traurig — die heiligen Bäume ihrer Vorfahren wurden zu Bauholz für die Häuser der Eroberer.
+Die Holzfäller von damals erzählten, dass bei jedem Fall eines großen Hinoki-Baumes das ganze Tal erbebte und Wildtiere in alle Richtungen flohen, als ob die Berggötter weinen würden. Die indigenen Völker litten zutiefst – ihre heiligen Bäume, die sie seit Generationen verehrten, wurden Stück für Stück zu Baumaterial für die Häuser der Invasoren.
 
-Nach dem Krieg übernahm die Republik China die Forstbetriebe und setzte die Holzernte fort. Erst 1991 verkündete die Regierung offiziell ein „vollständiges Holzverbotsgesetz“ und beendete ein Jahrhundert der massiven Abholzung. Doch Taiwans Urwaldbestände der Zeder waren zu 95 % verschwunden.
+In der frühen Nachkriegszeit übernahm die Regierung der Republik China die Forstbetriebe und die Abholzung ging weiter. Erst 1991 verkündete die Regierung offiziell das „vollständige Verbot des Einschlags natürlicher Wälder“ und beendete damit fast ein Jahrhundert massiver Entwaldung. Doch über 95 % der ursprünglichen Hinoki-Wälder Taiwans sind bereits verschwunden.
 
-### Fünfte Station: Subarktische Nadelwälder (2.500–3.600 Meter)
+### Fünfte Station: Die Grenzwerte der borealen Nadelwälder (2.500–3.600 Meter)
 
-Verlässt man das Reich der Zeder und steigt weiter hinauf, gelangt man in Taiwans kälteste Region — das Land der Kiefer und Tannen.
+Verlässt man das Reich der Hinoki und steigt weiter auf, betritt man die boreale Zone Taiwans. Hier regieren die Tsuga-Tannen (_tiěshān_) und die Tannen (_lěngshān_).
 
-Die taiwanesische Kiefer (Pinus taiwanensis) sehen aus wie Weihnachtsbäume, doch sie überstehen Bedingungen, die sogar nördlichere Weihnachtsbäume nicht ertragen könnten. Hier liegt die Höhe über 2.500 Meter, die Wintertemperatur kann auf minus 10 Grad sinken, der Wind weht ständig und die UV-Strahlung ist stark. Die Bäume müssen ihr Wachstum in die kurze Sommerzeit konzentrieren und in der langen Winternacht Energie sparen.
+Die Taiwan-Tsuga sieht aus wie ein Weihnachtsbaum, aber ihre Umwelt ist weitaus härter als die nordeuropäischer Weihnachtsbäume. In über 2.500 Metern Höhe können die Wintertemperaturen auf minus 10 Grad fallen, es herrscht ständiger starker Wind und intensive UV-Strahlung. Die Bäume müssen das jährliche Wachstum in einem kurzen Sommer abschließen und in langen Wintern Energie sparen.
 
-Die taiwanesische Tanne (Abies kawakamii) ist die Herrscherin dieses Waldes. Sie bildet weite Monokulturen, die von weitem wie ein grüner Ozean erscheinen. Jeder Baum behält eine perfekte konische Form bei — nicht aus ästhetischen Gründen, sondern um Schnee leicht abzulassen und nicht von seinem eigenen Gewicht zu zerstören.
+Die Taiwan-Tanne (_Taiwan-Tanne_) ist der König dieses Waldgürtels. Sie bildet ausgedehnte Reinbestände, die aus der Ferne wie ein dunkelgrüner Ozean wirken. Jeder Baum behält eine perfekte Kegelform – nicht zur Ästhetik, sondern damit der Schnee leicht abrutschen kann und die Äste nicht unter der Last brechen.
 
-In den Bergen von Xueshan, Hehuan und Jade-Mountain kann man die imposanten Szenen der taiwanesischen Tanne bewundern. Besonders an klaren Morgen, wenn der Nebel sich lichtet und das Sonnenlicht auf diese grünen Türme fällt, glitzert der ganze Wald wie Metall. Diese Landschaft ähnelt am ehesten den skandinavischen Wäldern, doch sie befindet sich auf einer subtropischen Insel in 23,5 Grad nördlicher Breite.
+In den Gebieten Xue Shan (Schneegipfel), Hehuan Shan und Yushan kann man die Pracht dieser Wälder erleben. Besonders am Morgen, wenn sich der Nebel lichtet, glänzen die dunkelgrünen Spitzen im Sonnenlicht wie Metall. Dies ist das Landschaftsbild, das dem nordeuropäischen Wald am nächsten kommt, jedoch auf einer subtropischen Insel auf 23,5 Grad nördlicher Breite liegt.
 
-### Letzte Station: Die letzten Wächter der himmlischen Stadt (über 3.600 Meter)
+### Letzte Station: Die letzten Wächter der Himmelsstadt (über 3.600 Meter)
 
-Über 3.600 Metern endet der echte Wald, doch die letzten Wächter bleiben — die Gipfel-Buchen (Fagus longipetiolata).
+Ab 3.600 Metern endet der eigentliche Wald, doch es gibt noch die letzten Wächter – den Jadeberg-Wacholder (_Yushan-juniper_).
 
-Diese Bäume streben nicht nach Größe, sondern wachsen flach am Boden und bilden eine grüne Decke. Der Wind kann sie nicht umstürzen, weil sie niedriger sind als der Wind; der Frost kann sie nicht töten, weil ihre Zellflüssigkeit natürliche Gefrier-Schutzmittel enthält; und die starke Sonne kann sie nicht verbrennen, weil ihre wachssigen Nadeln das Licht reflektieren.
+Diese Bäume streben nicht nach Höhe, sondern wachsen kriechend am Boden und bilden grüne Teppiche. Der Sturm kann sie nicht umwerfen, weil sie niedriger als der Wind sind; Frost tötet sie nicht, da ihre Zellflüssigkeit natürliche Frostschutzmittel enthält; die Sonne trocknet sie nicht aus, da ihre wachsartigen Nadeln das Licht reflektieren.
 
-Am Fuße des Gipfels des Jade-Mountains, blickt man auf die weite Landschaft der Gipfel-Buchen und entdeckt ein merkwürdiges Phänomen: Diese scheinbar kleinen Sträucher können in Wirklichkeit älter als die Bäume unten sein. Ein Gipfel-Baum, der nur ein halbes Meter hoch ist, kann 500 Jahre alt sein. Sie sind die Wächter der Waldgrenze, das Limit für das Überleben von Gehölzen.
+Wenn man in der Nähe des Hauptgipfels des Jadebergs steht und auf den Wacholderwald hinabblickt, bemerkt man ein seltsames Phänomen: Diese scheinbar kleinen Sträucher könnten in Wirklichkeit älter sein als die großen Bäume im Tal. Ein Wacholder, der nur einen halben Meter hoch zu sein scheint, könnte bereits 500 Jahre alt sein. Sie sind die Grenzwächter des Waldes und markieren das Limit des Überlebens von Gehölzen.
 
-## Taiwan-Kiefer: Das letzte Refugium der ältesten Baumart
+## Taiwan-Zeder: Das letzte Refugium einer der ältesten Baumarten der Erde
 
-In dieser vertikalen Reise ist eine Art besonders erwähnenswert: die Taiwan-Kiefer (Taiwania cryptomerioides).
+Auf dieser vertikalen Reise verdient eine Art besondere Erwähnung: Die Taiwan-Zeder (_Táiwān shān_).
 
-Die Taiwan-Kiefer gehören zu den ältesten Nadelbäumen der Erde, und bereits im Tertiär verbreiteten sie sich über den gesamten nördlichen Halbmond. Im Jura lebten Dinosaurier in ihren Wäldern. Doch mit dem Beginn der Eiszeit verschwanden die meisten Populationen Europas und Nordasiens, und nur in Taiwan und Südwestchina blieben einige wenige Populationen als Relikt zurück.
+Sie gehört zu den ältesten Nadelbaumarten der Erde und war bereits im Tertiär weit verbreitet auf der Nordhalbkugel. In der Kreidezeit wanderten Dinosaurier bereits durch die Wälder der Taiwan-Zeder. Doch mit der Eiszeit verschwand sie fast vollständig von der Nordhalbkugel und überlebte nur in einigen Refugien in Taiwan und im Südwesten Chinas.
 
-Sie ist die einzige Pflanze, die Taiwan in ihrem Namen trägt — eine Gattung und Art, die mit dem „Jahrhundert-Baum“ (Metasequoia) und dem Wasserbaum (Sequoia) als „lebendige Fossilien“ zusammenhängen. Schon während der Eiszeit vor 50.000 bis 35.000 Jahren hatten die Taiwan-Kiefer diese Insel besiedelt.
+Sie ist die einzige Pflanze, deren Gattungsname auf Taiwan basiert (nur eine Art in einer Gattung) und zählt neben dem Weltalterbaum (_Metasequoia_) zu den Reliktpflanzen des Tertiärs – wahre lebende Fossilien. Schon während der Eiszeiten vor 50.000 bis 35.000 Jahren war die Taiwan-Zeder auf dieser Insel verwurzelt.
 
-Heute gibt es in der Flusstal-Region von Dahan einen kleinen Bestand der Taiwan-Kiefer, wo die berühmten „Taiwan-Kiefer-Drei-Schwestern“ (Sanheyuan) auf eine Höhe von 80 Metern wachsen — die höchsten Bäume Taiwans. Diese Fossilien zeugen von 65 Millionen Jahren Erdgeschichte, länger als jede menschliche Zivilisation und länger als die Entstehung des Himalayas.
+Heute gibt es im Einzugsgebiet des Da'an-Flusses einen kleinen Bestand; die berühmten „Drei Schwestern der Taiwan-Zeder“ erreichen Höhen von 80 Metern und sind die höchsten Bäume Taiwans. Diese lebenden Fossilien bezeugen 65 Millionen Jahre Erdgeschichte – sie sind älter als die menschliche Zivilisation und älter als die Hebung des Himalayas.
 
-> **⚠️ Kontroverse Meinungen**
-> Bei der Erhaltung der Taiwan-Kiefer gibt es unterschiedliche Meinungen. Naturschützer fordern strengen Schutz und verbieten jegliche Störung; einige Gelehrte plädieren für eine angemessene wissenschaftliche Forschung und Bildung, damit mehr Menschen diese seltene Art kennenlernen. Die Balance zwischen Schutz und Bildung bleibt eine langfristige Herausforderung für Taiwans Wälder.
+> **⚠️ Kontroverser Standpunkt**
+> Bezüglich des Schutzes der Taiwan-Zeder gibt es unterschiedliche Meinungen. Naturschützer fordern strengen Schutz ohne jegliche menschliche Störung; einige Wissenschaftler plädieren jedoch für moderate wissenschaftliche Forschung und Bildung, um das Bewusstsein für diese kostbare Art zu schärfen. Die Balance zwischen Erhalt und Aufklärung ist eine langfristige Herausforderung für Taiwans Wälder.
 
-## Klimawandelkrise im Nebelwald
+## Die Klimawandel-Krise der Nebelwälder
 
-Die größte Bedrohung für Taiwans Wälder ist nicht mehr die Holzernte, sondern der Klimawandel.
+Die größte Bedrohung für Taiwans Wälder ist nicht die Abholzung, sondern der Klimawandel.
 
-Laut einer Studie des Forstinstituts der Nationalen Taiwan Universität, wird sich die Temperatur Taiwans in den nächsten 50 Jahren um 2–4 Grad erwärmen, was zu einer massiven Verschiebung der Waldverteilung führen wird. Die neuesten Computersimulationen zeigen: Kiefernwälder werden um 77–82 % zurückgehen und nahezu aussterben; Zederwälder werden um 52–54 % abnehmen und ihre Verbreitung stark verkleinern; niedrige Laubwälder werden um 37 % zunehmen und nach oben drängen.
+Laut Studien des Fachbereichs Forstwirtschaft der National Taiwan University (NTU) wird die Temperatur in Taiwan in den nächsten 50 Jahren um 2–4 °C steigen, was zu einer massiven Verschiebung der Waldgürtel nach oben führen wird. Aktuelle Computersimulationen zeigen: Die Fichtenwälder werden um 77–82 % schrumpfen und fast aussterben; die Hinoki-Wälder werden um 52–54 % abnehmen, während die Laubwälder in geringen Höhen um 37 % expandieren und nach oben vordringen.
 
 > **📊 Datenquelle**
-> Diese Vorhersagen stammen von der Forschungsgruppe des Forstinstituts der Nationalen Taiwan Universität und wurden veröffentlicht im Sonderheft von Reporter. Die Studie verwendete IPCC-Klimamodelle und 30 Jahre Waldüberwachungsdaten aus Taiwan.
+> Diese Prognosen stammen vom Forschungsteam der NTU Forstwirtschaft und wurden in einem Sonderbericht von _The Reporter_ veröffentlicht. Die Studie nutzt IPCC-Klimamodelle und die 30-jährigen Walddaten Taiwans.
 
-**Am besorgtensten ist die Zukunft der Hochlagenpflanzen.** Sie leben bereits am Gipfel, wo kein höherer Platz mehr zur Verfügung steht. Gipfel-Buchen und taiwanesische Tannen könnten am Ende dieses Jahrhunderts in eine „keine Flucht mehr möglich“-Situation geraten.
+**Am besorgniserregendsten ist die Zukunft der Hochgebirgspflanzen.** Sie leben bereits an den Gipfeln; es gibt keinen höheren Ort mehr, an den sie abwandern könnten. Arten wie der Jadeberg-Wacholder oder die Taiwan-Tanne könnten am Ende dieses Jahrhunderts vor dem Problem stehen, „keinen Rückzugsort mehr zu haben“.
 
-## Schwarze Schatten: Die unsichtbare Bedrohung für moderne Wälder
+## Der Schatten des illegalen Einschlags: Die unsichtbare Bedrohung moderner Wälder
 
-Auch mit dem vollständigen Holzverbot bleibt Taiwan nicht vor illegaler Holzernte verschont.
+Selbst heute, trotz des vollständigen Verbots der Abholzung, sind Taiwans Wälder durch illegalen Einschlag bedroht.
 
-2022 gab es in Miaoli den größten illegalen Holzraub in den letzten Jahren, als eine Schmugglergruppe mehr als 60.000 Kilogramm seltenes Holz entwendete. 2023 wurden in Pingtung erneut Schmuggler entdeckt, die mit Biotech-Unternehmen zusammarbeiteten und illegale Einnahmen von über 400.000 Yuan machten.
+Im Jahr 2022 ereignete sich in Miaoli der größte Fall von illegalem Holzeinschlag der letzten Jahre in Taiwan, bei dem eine Gruppe von „Berg-Mäusen“ (illegale Holzfäller) über 60.000 kg wertvolles Holz entwendete. 2023 gab es im Laiyi-Distrikt von Pingtung eine Gruppe, die mit einem Biotech-Unternehmen kollaborierte, um _Niúzhāng_ (Schmetterlingsorchideen-Holz) illegal zu schlagen, was einen illegalen Gewinn von über NT$400.000 einbrachte.
 
-**Warum riskieren Menschen ihre Freiheit für illegale Holzernte?**
+**Warum gehen Menschen immer noch das Risiko des illegalen Einschlags ein?**
 
-Die Antwort liegt im riesigen Gewinnunterschied. Ein Stück Zederharz kann auf dem Berg vielleicht ein paar zehntausend Yuan wert sein, doch nach Verarbeitung kann der Marktpreis auf mehrere Millionen Yuan steigen. Selbst nach der Reform des Walggesetzes im Jahr 2015, mit einer maximalen Strafe von zehn Jahren und sechs Monaten und einer Geldstrafe von 20 Millionen Yuan, blechen die Menschen trotz der Gefahr weiterhin.
+Die Antwort liegt in den enormen Gewinnmargen. Ein Auswuchs an einem Hinoki-Baum mag im Wald nur einige zehntausend New Taiwan Dollar wert sein, aber nach der Bearbeitung und Schnitzerei kann der Marktpreis auf Millionen von NT$ steigen. Selbst nachdem das Forstgesetz 2015 verschärft wurde – mit bis zu 10 Jahren und 6 Monaten Haft sowie Geldstrafen von bis zu NT$20 Millionen für den Diebstahl wertvoller Arten – riskieren Menschen aufgrund der enormen Profitgier weiterhin den illegalen Einschlag.
 
-Noch trauriger ist, dass diese Raubzüge oft gezielt die seltensten Arten treffen. Die Buchen (Fagus longipetiolata) werden wegen ihrer Beziehung zu Buchenpilz (Ganoderma) massenhaft geplündert und sind heute in der Wildnis extrem selten geworden. Einige tausendjährige Zeder-Bäume wurden von Schmugglern enthaucht und getauscht — die Bäume überleben, doch die Narben bleiben für immer.
+Besonders schmerzhaft ist, dass diese Diebstähle oft die seltensten Arten treffen. _Niúzhāng_-Bäume werden massiv illegal geschlagen, da sie der Wirt für den wertvollen Pilz _Niúzhāngzhī_ sind; heute sind sie in der Wildnis extrem selten. Einige tausendjährige Rote Hinokis werden von Dieben „gehäutet“, um Auswüchse zu entnehmen – obwohl der Baum nicht stirbt, bleibt eine dauerhafte Narbe zurück.
 
-## Die Weisheit der Ureinwohner
+## Das Waldwissen der indigenen Völker
 
-Wenn man über Taiwans Wälder spricht, darf man nicht die Beiträge der Ureinwohner vergessen.
+Beim Sprechen über Taiwans Wälder dürfen wir den Beitrag der indigenen Völker nicht ignorieren.
 
-Die Tsou-Schule bewahrt durch ihre Tradition (gaga) die heiligen Zeder-Bäume, die Atayal-Schule errichtet Verbotzonen zur Erhaltung der ökologischen Balance, und die Paiwan-Schule entwickelte eine raffinierte Holzschnitzkunst. Diese traditionellen ökologischen Kenntnisse verstehen die Geheimnisse der Wälder oft besser als moderne Wissenschaft.
+Die Atayal haben das _gaga_ (gemeinsame Normen), um die heiligen Hinoki-Bäume zu schützen; die Tsou legen Sperrzonen fest, um das ökologische Gleichgewicht zu halten; die Paiwan haben eine exquisite Holzschnitzkultur entwickelt. Dieses traditionelle ökologische Wissen versteht die Geheimnisse des Waldes oft tiefer als die moderne Wissenschaft.
 
-**Die Naturschutzprojekte in Smangus sind das beste Beispiel.**
+**Der Schutz der Hinoki in Simakusu ist das beste Beispiel.**
 
-Nachdem die Gemeinschaft die riesigen Bäume entdeckt hatte, wählte sie nicht den Weg des Abholzens und Verkaufs, sondern entwickelte den Ökotourismus und ließ die Bäume zum wirtschaftlichen Rückgrat der Gemeinschaft werden. Heute wird Smangus als „Gottes Dorf“ bezeichnet und zieht jährlich zehntausende Besucher an, die die tausendjährigen Zeder-Bäume bewundern.
+Nachdem dieses Atayal-Dorf die Gruppe von Riesenbäumen entdeckte, entschied es sich nicht für den Verkauf des Holzes, sondern entwickelte Ökotourismus, wodurch die Bäume zur wirtschaftlichen Stütze des Stammes wurden. Heute wird Simakusu als „Dorf Gottes“ bezeichnet und zieht jährlich zehntausende Besucher an, die die tausendjährigen Hinoki-Bäume verehren.
 
-Ein wichtiger Unterschied zwischen der Sichtweise der Ureinwohner und der modernen Naturschutzphilosophie: Die Ureinwohner glauben nicht, dass „Schutz“ bedeutet, „alles zu lassen“. Angemessene Ernte, Rotation und Waldverwaltung sind in ihrer Tradition eine Methode, um die Gesundheit des Waldes zu erhalten. Dieses „Zusammenleben mit dem Wald“ wird von der modernen Naturschutzwissenschaft neu geschätzt.
+Es gibt einen wichtigen Unterschied zwischen der Waldansicht der Indigenen und modernen Naturschutzkonzepten: Sie glauben nicht, dass „Schutz“ gleichbedeutend mit „absoluter Berührungslosigkeit“ ist. Angemessene Sammlung, selektiver Einschlag und Waldmanagement sind in ihrer Tradition Wege, die Gesundheit des Waldes zu erhalten. Diese Weisheit des „Koexistierens mit dem Wald“ wird in der modernen Naturschutzbiologie wieder verstärkt geschätzt.
 
-## Die Zukunft des Waldes: Herausforderungen und Hoffnungen
+## Die Zukunft des Waldes: Herausforderungen und Hoffnung
 
-Die Geschichte Taiwans Waldes ist eine Geschichte von Verlust und Wiedergeburt.
+Die Geschichte der Wälder Taiwans ist eine Geschichte von Verlust und Wiedergeburt.
 
-Wir haben 95 % der Urwaldbestände der Zeder verloren, doch die verbleibenden 5 % sind streng geschützt. Wir können den Klimawandel nicht rückgängig machen, doch können wir ökologische Korridore schaffen, um Tier- und Pflanzenwanderungen zu unterstützen. Wir können nicht alle illegalen Holzraubzüge stoppen, doch können wir durch Bildung mehr Menschen die Bedeutung der Wälder vermitteln.
+Wir haben 95 % der ursprünglichen Hinoki-Wälder verloren, aber die verbleibenden 5 % werden streng geschützt. Wir können den Klimawandel nicht rückgängig machen, aber wir können ökologische Korridore schaffen, um Arten bei der Migration zu helfen. Wir können nicht allen illegalen Einschlag verhindern, aber durch Bildung das Verständnis für den Wert des Waldes fördern.
 
-Heute schreibt Taiwan neue Kapitel in seiner Waldgeschichte. Wiederaufforstungsprojekte sind in Arbeit, und die Forst- und Naturschutzbehörde fördert „Wald-Revitalisierung“ durch das Pflanzen einheimischer Arten. Technologie hilft beim Schutz — Satellitenüberwachung, Drohnenpatrouillen und KI-Identifikationssysteme ermöglichen es den Waldbereitern, den Wald effizienter zu überwachen. Eine neue Generation erwacht auf, und immer mehr junge Taiwanesen widmen sich dem Waldschutz mit neuen Methoden wie VR, Podcasts und sozialen Medien.
+Die Wälder Taiwans schreiben heute ein neues Kapitel. Renaturierungsprogramme laufen; die Forstbehörde (Forestry and Nature Conservation Agency) treibt die „Waldrenaturierung“ voran, indem sie an geeigneten Stellen einheimische Arten pflanzt. Technologie hilft beim Schutz: Satellitenüberwachung, Drohnenpatrouillen und KI-Erkennungssysteme ermöglichen es Waldhütern, den Zustand des Waldes effektiver zu überwachen. Eine junge Generation erwacht: Immer mehr junge Menschen in Taiwan engagieren sich für den Waldschutz durch VR, Podcasts und soziale Medien.
 
 ## Das Ende und der Anfang einer Reise
 
-Von den Salzpinieen am Meeresspiegel bis zu den Gipfel-Buchen auf dem Jade-Mountain-Gipfel, haben wir diese 200 Kilometer lange vertikale Reise abgeschlossen. In nur 15 Minuten Lesenszeit hat man die dichteste biologische Vielfalt der Erde erfahren.
+Vom Casuarina am Meeresspiegel bis zum Wacholder auf dem Gipfel des Jadebergs haben wir diese 200 Kilometer lange vertikale Reise vollendet. In nur 15 Minuten Lesezeit haben Sie die konzentrierteste biologische Vielfalt der Erde erlebt.
 
-Die Geschichte Taiwans Waldes sagt uns: **Die Reichhaltigkeit und Verletzlichkeit der Natur gehen Hand in Hand.** Eine Waldabdeckung von 60,92 % lässt die Insel grün erscheinen, doch die Bedrohungen des Klimawandels machen die Zukunft ungewiss. Die imposanten tausendjährigen Zeder-Bäume lassen einen staunen, doch sie standen kurz davor, im Lärm der Motorsägen zu verschwinden.
+Die Geschichte der Wälder Taiwans lehrt uns: **Reichtum und Fragilität der Natur existieren oft nebeneinander.** Die Waldbedeckung von 60,92 % lässt diese Insel grün erstrahlen, doch die Bedrohung durch den Klimawandel macht die Zukunft ungewiss. Die Pracht tausendjähriger Hinoki-Zypressen erfüllt uns mit Ehrfurcht, doch sie standen kurz davor, im Lärm der Motorsägen zu verschwinden.
 
-Jeder Baum ist ein Buch der Geschichte, ein Buch der Erdgeschichte, der menschlichen Spuren und des Lebenswillens. Beim nächsten Spaziergang im taiwanesischen Wald, denke daran, dass du auf der Bühne der spannendsten Naturszener der Erde stehst. Hier ist das Museum der Evolution, die Frontlinie des Klimawandels und das Testfeld für das Verhältnis von Mensch und Natur.
+Jeder Baum ist ein Geschichtsbuch, das die Veränderungen der Erde, die Spuren der Menschen und die Widerstandsfähigkeit des Lebens dokumentiert. Wenn Sie das nächste Mal durch die Wälder Taiwans wandern, denken Sie daran, dass Sie auf der spannendsten Naturkulisse der Erde stehen. Dies ist ein Museum der Evolution, eine Frontlinie des Klimawandels und ein Testgelände für die Beziehung zwischen Mensch und Natur.
 
-Den taiwanesischen Wald zu schützen, ist, einen Teil der biologischen Vielfalt der Erde zu bewahren. Auf dieser 36.000 Quadratkilometer großen Insel ist die Zukunft unseres Planeten kompakt zusammengefasst.
+Den Wald Taiwans zu schützen bedeutet, das Abbild der biologischen Vielfalt der Erde zu schützen. Auf dieser 36.000 Quadratkilometer großen Insel ist unsere Vorstellung und Verantwortung für die zukünftige Erde konzentriert.
 
 ## Referenzen
 
-- [Bundesministerium für Landwirtschaft und Naturschutz — Zusammenfassung der vierten nationalen Waldressourcenerhebung](https://www.forest.gov.tw/0002393)
-- [Landwirtschaftliches Wissenschaftsportal — Zusammenfassung der vierten nationalen Waldressourcenerhebung](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&type=13230&id=308819)
-- [Lifechange-Ekologiepark — Von der Holzerei zum Weltkulturerbe: Ein Besuch im Alishan](https://makauy.lealeahotel.com/cilan-forest-heritage-path/)
-- [Taiwanischer Waldverein — Hochlagenvegetation](https://www.reforestation.tw/?p=14319)
-- [Unsere Insel — Die Gipfel-Buchen auf dem Rücken Taiwans](https://ourisland.pts.org.tw/content/2572)
-- [Reporter — Von der Holzernte zum Handel: Kriminalität und Geschäft um den tausendjährigen heiligen Baum](https://www.twreporter.org/topics/illegal-logging)
-- [Alishan-Forstbahn](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
-- [Taiwanischer Waldreise-Netz — Alishan-Forstbahn](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)
+- [Zusammenfassung der Ergebnisse der vierten nationalen Waldressourcenuntersuchung des Landwirtschaftsministeriums, Forstbehörde](https://www.forest.gov.tw/0002393)
+- [Zusammenfassung der Ergebnisse der vierten nationalen Waldressourcenuntersuchung im Agrarwissensportal](https://kmweb.moa.gov.tw/knowledgebase.php?func=2&type=13230&id=308819)
+- [Lili Magao Öko-Park: „Ein Schritt in Qilan: Von der Holzfällerei zum potenziellen Weltnaturerbe“](https://makauy.lealeahotel.com/cilan-forest-heritage-path/)
+- [Vereinigung für die Renaturierung der taiwanesischen Berge: „Vegetationszonen des Hochgebirges“](https://www.reforestation.tw/?p=14319)
+- [Unser Insel-Projekt: „Der Jadeberg-Wacholder auf dem Rückgrat Taiwans“](https://ourisland.pts.org.tw/content/2572)
+- [The Reporter: „Vom illegalen Einschlag zum Handel – Verbrechen und Transaktionen rund um die tausendjährigen Götterbäume“](https://www.twreporter.org/topics/illegal-logging)
+- [Alishan Waldschmalspurbahn](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E9%87%8C%E5%B1%B1%E6%9E%97%E6%A5%AD%E9%90%B5%E8%B7%AF)
+- [Taiwan Mountain Forest Travel Web: „Alishan Waldschmalspurbahn“](https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041)

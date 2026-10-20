@@ -1,15 +1,15 @@
 ---
-title: 'Công viên Đài Loan và sinh hoạt giải trí hàng ngày'
-description: 'Từ thái cực sáng sớm đến dạo bộ buổi tối — quan sát văn hóa công viên Đài Loan như một không gian giao lưu xuyên thế hệ'
+title: 'Công viên và đời sống giải trí thường nhật tại Đài Loan'
+description: 'Tại Công viên Đại An vào sáng sớm, người cao tuổi tập Thái Cực Quyền theo nhạc quốc nhạc hoặc luyện Ngoại Đan Công; buổi chiều là lúc phụ huynh đưa trẻ nhỏ vui chơi; buổi tối là thời gian tản bộ của giới văn phòng; và đêm muộn thuộc về những người dắt chó đi dạo cùng những tâm hồn cần sự tĩnh lặng. Cùng một công viên nhưng luân phiên xuất hiện vào các khung giờ khác nhau, tạo nên một không gian giao lưu đa thế hệ, phản chiếu nhịp sống và hơi ấm của đô thị Đài Bắc.'
 date: 2026-03-18
 category: 'Lifestyle'
 tags:
   [
-    'công viên',
-    'giải trí',
-    'văn hóa xã hội',
-    'xuyên thế hệ',
-    'cuộc sống hàng ngày',
+    'Công viên',
+    'Giải trí',
+    'Văn hóa giao lưu',
+    'Đa thế hệ',
+    'Đời sống thường nhật',
   ]
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
@@ -17,158 +17,157 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '1d2876d0d'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:5711dca50c2efd19'
 sourceBodyHash: 'sha256:62cca1f3ce3fb047'
-translatedAt: '2026-10-01T17:43:54.485158+00:00'
+translatedAt: '2026-10-15T15:59:49+08:00'
 ---
 
-# Công viên Đài Loan và sinh hoạt giải trí hàng ngày
+# Công viên và đời sống giải trí thường nhật tại Đài Loan
 
-## Trời chưa sáng, công viên đã thức dậy
+## Khi trời còn chưa sáng, công viên đã thức giấc
 
-Lúc 5 giờ 30 phút sáng, đèn đường công viên Đại An Rừng Xanh Đài Bắc vẫn còn sáng, không khí mang theo lạnh còn lại của đêm và mùi đất ẩm ướt.
-Nhưng công viên không trống rỗi.
+Lúc 5 giờ 30 phút sáng, đèn đường tại Công viên Đại An (Daan Forest Park), Đài Bắc vẫn còn thắp sáng, không khí mang theo hơi lạnh còn sót lại của ban đêm và mùi ẩm ướt của đất.
+Nhưng công viên không hề trống vắng.
 
-Loa phát ra tiếng nhạc quốc vụ nhịp độ chậm, hai mươi mấy người cao tuổi đang tập thái cực quyền bên cạnh hồ nước, động tác chung nhịp như đã tập luyện kỹ càng.
-Trên không đất cạnh đó, một nhóm khác theo lệnh của "công pháp ngoại" duỡi tay chân.
-Tiếp tục đi vào, có người chạy bộ quanh con đường, có người chạy lùi (theo lời đồn thì tốt cho đầu gối), có người cầm loa nghe tin tức lúc tập.
-Một bác ông đặt chân lên lan can để kéo giãn cơ, độ mềm dẻo khiến người ta nghi ngờ tuổi thật của ông.
+Từ loa phát ra những bản nhạc quốc nhạc với nhịp điệu chậm rãi, hơn hai mươi người cao tuổi đang tập Thái Cực Quyền bên bờ ao, động tác đều tăm tắp như đã qua tập dượt.
+Trên khoảng đất trống bên cạnh, một nhóm khác đang vươn vai theo khẩu lệnh của bài "Ngoại Đan Công" (Waidangong).
+Đi sâu vào trong, có người đi bộ nhanh quanh đường mòn, có người đi giật lùi (nghe nói rất tốt cho đầu gối), có người cầm đài radio vừa nghe tin tức vừa tập thể dục.
+Một bác lớn tuổi đang gác chân lên lan can để ép cơ, độ dẻo dai khiến người ta phải nghi ngờ về tuổi tác của ông.
 
-Đây là sáng sớm tại công viên Đài Loan — thời điểm náo nhiệt nhất của ngày, nhưng không phải của những người trẻ.
+Đây là buổi sáng sớm tại các công viên ở Đài Loan — khoảng thời gian náo nhiệt nhất trong ngày, nhưng không dành cho giới trẻ.
 
-Văn hóa công viên Đài Loan có một cấu trúc thời gian độc đáo: sáng sớm thuộc về người cao tuổi, chiều tối thuộc về những cha mẹ trẻ em, tối chiều thuộc về những người vừa cút công, đêm khuya thuộc về những người dắt chó đi chơi và những linh hồn cần sự yên tĩnh.
-Cùng một công viên, ở những khung giờ khác nhau là hoàn toàn những không gian xã hội khác nhau, phục vụ những nhóm người hoàn toàn khác nhau.
+Văn hóa công viên ở Đài Loan có một cấu trúc thời gian độc đáo: sáng sớm thuộc về người cao tuổi, buổi chiều thuộc về phụ huynh đưa trẻ nhỏ đi chơi, buổi tối thuộc về dân văn phòng tan làm, và đêm muộn thuộc về những người dắt chó đi dạo cùng những tâm hồn cần sự tĩnh lặng.
+Cùng một công viên, nhưng ở các khung giờ khác nhau lại là những không gian giao lưu hoàn toàn khác biệt, phục vụ những nhóm đối tượng hoàn toàn khác nhau.
 
-## Một công viên chính là một phòng khách cộng đồng
+## Một công viên chính là phòng khách của cộng đồng
 
-Để hiểu công viên Đài Loan, không thể dùng khung "không gian xanh" hay "cơ sở giải trí".
-Công viên Đài Loan gần giống một phòng khách mở của cộng đồng — nơi gặp gỡ, nơi tập thể dục, nơi đưa con ra để tiêu hết năng lượng, nơi trò chuyện, nơi thả lỏng suy nghĩ.
+Để hiểu về công viên ở Đài Loan, không thể chỉ dùng lăng kính "mảng xanh" hay "thiết bị giải trí".
+Công viên tại Đài Loan giống như một phòng khách cộng đồng mở — đó là nơi để gặp gỡ, nơi tập thể dục, nơi để trẻ con xả năng lượng, nơi để tán gẫu và cũng là nơi để ngồi thẩn thơ.
 
-Trong môi trường đô thị dày đặc của Đài Loan, diện tích sinh sống bình quân có hạn.
-Một gia đình bốn người sống trong căn hộ 30 tình (đơn vị diện tích), phòng khách vừa là phòng ăn vừa là phòng làm việc, không gian riêng tư là vật xa xỉ.
-Công viên do đó đảm nhận chức năng "mở rộng của gia đình".
-Ông nội dẫn cháu đi công viên chơi cầu trượt, tự mình ngồi trên ghế đá chơi cờ với bạn cũ;
-mẹ dẫn bé nhỏ ra cỏ để cắm trại, đồng thời trao đổi kinh nghiệm chăm sóc trẻ với các mẹ khác;
-những người hàng xóm đã nghỉ hưu mỗi ngày gặp nhau dưới cây sưa cố định, pha trà, nói chuyện chuyện thời sự, chửi những nhân vật chính trị.
+Trong môi trường đô thị mật độ cao của Đài Loan, không gian sống bình quân đầu người rất hạn chế.
+Một gia đình bốn người sống trong căn hộ rộng khoảng 100 mét vuông (30 pings), phòng khách kiêm luôn nhà ăn và phòng làm việc, không gian riêng tư là một thứ xa xỉ.
+Vì vậy, công viên đảm nhận chức năng "phần mở rộng của ngôi nhà".
+Ông nội đưa cháu ra công viên chơi cầu trượt, còn mình ngồi trên ghế đá bên cạnh đánh cờ với bạn già;
+Người mẹ đưa con nhỏ đi dã ngoại trên thảm cỏ, sẵn tiện trao đổi kinh nghiệm nuôi dạy con với các bà mẹ khác;
+Những người hàng xóm đã nghỉ hưu tụ tập cố định dưới một gốc cây đa mỗi ngày để uống trà, bàn chuyện thời sự hay phàn nàn về các chính trị gia.
 
-Kiểu "giao lưu công viên" này không cần đặt chỗ, không cần tiêu tiền, không cần thân phận cụ thể.
-Bạn chỉ cần xuất hiện, bạn sẽ tự động được đưa vào nhóm cộng đồng lỏng lẻo này.
-Ở Đài Loan, nhiều quan hệ hàng xóm sâu sắc không được hình thành trên cầu thang, mà là ở công viên.
+Kiểu "giao lưu công viên" này không cần đặt trước, không cần tiêu dùng, cũng không cần thân phận đặc biệt.
+Chỉ cần bạn xuất hiện, bạn sẽ tự động được đưa vào cộng đồng lỏng lẻo này.
+Tại Đài Loan, nhiều mối quan hệ láng giềng sâu sắc không được xây dựng ở cầu thang chung cư, mà là ở trong công viên.
 
-## Giang hồ bên trong công viên
+## "Giang hồ" nơi công viên
 
-Nếu bạn quan sát kỹ công viên Đài Loan, bạn sẽ thấy nó có một bộ quy tắc lãnh thổ không thành văn.
+Nếu quan sát kỹ các công viên ở Đài Loan, bạn sẽ thấy nơi đây có một bộ quy tắc lãnh thổ bất thành văn.
 
-Các lều che là đất của những người chơi cờ và đánh bài.
-Những bác ông tự mang bàn ghế gấp, bình giữ nhiệt, đồ ăn nhẹ, mỗi ngày báo danh ở vị trí cố định, đúng giờ như chấm công công ty.
-Nếu người mới không cẩn thận ngồi vào "ghế của người khác", sẽ nhận được lời nhắc nhở lịch sự nhưng quyết đoán.
+Các đình nghỉ mát là địa bàn của những người chơi cờ và chơi bài.
+Những bác lớn tuổi tự mang theo bàn ghế xếp, bình giữ nhiệt và đồ ăn nhẹ, mỗi ngày đều có mặt tại vị trí cố định với độ chính xác như đi làm chấm công.
+Người mới nếu vô tình ngồi vào "chỗ của người khác" sẽ nhận được những lời nhắc nhở lịch sự nhưng kiên quyết.
 
-Một số góc được những tổ chức cụ thể chiếm dụng lâu dài.
-Nhóm khiêu vũ dân gian, nhóm khiêu vũ cực khí, nhóm công pháp mỗi cái có vùng ảnh hưởng riêng, giữ khoảng cách thích hợp lẫn nhau, thỉnh thoảng xảy ra mâu thuẫn vì âm thanh loa, nhưng phần lớn thời gian sống chung hoà bình.
-Những ngày cuối tuần, bậc thang sân khấu nhạc công viên Đại An có thể cùng lúc có tập luyện saxophone, dàn hợp xướng, nhảy đường phố diễn ra, tiếng tạo thành một bản giao hưởng đô thị kỳ lạ.
+Một số góc nhất định được các hội nhóm cụ thể chiếm giữ lâu dài.
+Hội múa dân gian, hội múa Nguyên Cực (Yuanji), hội khí công đều có phạm vi ảnh hưởng riêng, họ giữ khoảng cách thích hợp với nhau, thỉnh thoảng có xích mích vì âm lượng loa đài, nhưng phần lớn thời gian là chung sống hòa bình.
+Tại các bậc thang âm nhạc của Công viên Đại An vào cuối tuần, có thể cùng lúc diễn ra việc tập saxophone, tập hát hợp xướng và tập nhảy đường phố (street dance), âm thanh trộn lẫn vào nhau tạo thành một bản giao hưởng đô thị kỳ lạ.
 
-Còn có một loại văn hóa công viên kín đáo hơn: những người yêu thích chim.
-Những người đam mê chụp chim lúc sáng sớm với kính viễn vọng và máy ảnh zoom dài, họ có mạng lưới thông tin riêng — cái cây nào có chim năm màu làm tổ, cái hồ nào có chim xanh — tốc độ lan truyền tin tức nhanh hơn cả báo chí.
-Ở công viên đô thị Đài Loan, quan sát chim không phải sở thích nhỏ lẻ, mà là một cộng đồng ngầm có tổ chức.
+Còn có một loại văn hóa công viên kín đáo hơn: những người yêu chim.
+Những người đam mê nhiếp ảnh chim muông xuất hiện vào sáng sớm với ống nhòm và máy ảnh ống kính tele, họ có mạng lưới thông tin riêng — cây nào có chim ngũ sắc làm tổ, ao nào có chim bói cá ghé qua — tốc độ lan truyền tin tức còn nhanh hơn cả báo chí.
+Trong các công viên đô thị ở Đài Loan, ngắm chim không phải là sở thích thiểu số, mà là một cộng đồng ngầm có tổ chức.
 
 ## Từ sân chơi bê tông đến sân chơi hòa nhập
 
-Diện mạo các công viên ở Đài Loan đang trải qua một cuộc cách mạng thầm lặng.
+Diện mạo công viên tại Đài Loan đang trải qua một cuộc cách mạng thầm lặng.
 
-Trước đây, các thiết bị vui chơi trong công viên Đài Loan gần như đều giống hệt nhau: cầu trượt nhựa kiểu hộp thiếc, ngựa bập bênh, bàn đu quay, màu sắc bạc phếch, thiết kế thiếu sáng tạo và độ an toàn cũng đáng lo ngại.
-Những thiết bị này được người ta gọi đùa là "đồ chơi hộp thiếc" — mỗi công viên đều giống nhau, như thể được đặt hàng từ cùng một catalogue.
+Trước đây, các thiết bị vui chơi trong công viên ở Đài Loan gần như rập khuôn: những chiếc cầu trượt nhựa kiểu đóng hộp, ngựa bập bênh, bập bênh, màu sắc bạc phếch theo thời gian, thiết kế thiếu sáng tạo và độ an toàn cũng đáng lo ngại.
+Những thiết bị này thường bị gọi mỉa mai là "đồ chơi đóng hộp" — công viên nào cũng giống nhau, như thể được đặt hàng từ cùng một danh mục sản phẩm.
 
-Cuối năm 2015, phong trào "Công viên đặc sắc" do các bậc phụ huynh khởi xướng đã bắt đầu thay đổi cục diện này. [^2]
-Trong những năm tiếp theo, Công viên Mộng tưởng Thiên Mẫu ở Đài Bắc, Công viên Thể thao Cẩm Hòa ở Trung Hòa, Tân Bắc, và Công viên Thể thao Đỉnh Phượng ở Đài Trung lần lượt được cải tạo.
-Các cấu trúc leo trèo lấy cảnh quan làm chủ đề, cầu trượt lăn siêu dài, bãi cát, máng nước, sàn lò xo... xuất hiện nối tiếp nhau.
-Quan trọng hơn là khái niệm "hòa nhập" (inclusive) đã được đưa vào — các vòng quay xe lăn có thể lên được, các thiết bị cảm giác mà trẻ khiếm thị có thể chạm vào, và các khu vực phù hợp cho nhiều lứa tuổi khác nhau.
+Vào cuối năm 2015, một phong trào mang tên "Công viên đặc sắc" do các phụ huynh khởi xướng đã bắt đầu thay đổi cục diện này. [^2]
+Trong những năm sau đó, Công viên Ước mơ Thiên Mẫu (Tianmu Dreamland) ở Đài Bắc, Công viên Thể thao Cẩm Hòa (Jinhe) ở Tân Bắc, hay Công viên Thể thao Ngao Phong (Aofengshan) ở Đài Trung lần lượt thay đổi diện mạo.
+Những khung leo trèo lấy cảnh quan làm chủ đề, cầu trượt ống siêu dài, hố cát, đường dẫn nước, bạt nhún... xuất hiện nối tiếp nhau.
+Quan trọng hơn là khái niệm "hòa nhập" (inclusive) đã được đưa vào — những đĩa xoay mà xe lăn có thể lên được, các thiết bị cảm quan dành cho trẻ khiếm thị, và các thiết bị mà mọi lứa tuổi đều có thể sử dụng.
 
-Đằng sau phong trào này là một nhóm phụ huynh không hài lòng với hiện trạng.
-Họ đã thành lập "Liên minh Hành động đòi lại Công viên đặc sắc" (Thục Công Liên), thông qua việc kiến nghị tập thể, khiếu nại và tham gia giám sát các dự án công cộng để thay đổi thiết kế công viên trên toàn đảo một cách từng bước.
-Đến những năm 2020, công viên đặc sắc đã trở thành điều bình thường chứ không còn là hiếm hoi, trở thành trang bị tiêu chuẩn mà chính quyền địa phương dùng để trưng bày thành quả quản lý.
+Đứng sau phong trào này là một nhóm phụ huynh không hài lòng với hiện trạng.
+Họ thành lập "Liên minh Hành động Trả lại Công viên Đặc sắc" (Te-Gong-Meng), thông qua việc lấy chữ ký, kiến nghị và tham gia thẩm định các công trình công cộng để thay đổi thiết kế công viên trên khắp Đài Loan từng bước một.
+Đến những năm 2020, công viên đặc sắc đã từ chỗ hiếm hoi trở thành trạng thái bình thường, trở thành tiêu chuẩn để chính quyền địa phương thể hiện thành quả quản lý.
 
-## Sống thứ hai của bờ sông
+## Cuộc đời thứ hai bên bờ sông
 
-Ngoài công viên đô thị, không gian bờ sông Đài Loan là một lĩnh vực giải trí hàng ngày quan trọng khác.
+Ngoài các công viên đô thị, không gian ven sông là một địa điểm giải trí thường nhật quan trọng khác.
 
-Bờ hai bên sông Đạm Thủy Đài Bắc, sông Cơ Long, sông Tân Hiệp Đài Bắc, được铺 những con đường đạp xe và bộ đi kéo dài hàng chục km.
-Vào những ngày cuối tuần, công viên bờ sông giống một bữa tiệc ngoài trời quy mô lớn: đạp xe đường phố, đạp xe You Bike, chạy chậm, trượt patin, thả diều, đấu bóng rổ, tập bóng chày, dắt chó Shiba đi dạo, mật độ cao đến mức thỉnh thoảng cần quản lý giao thông.
+Dọc theo hai bờ sông Đạm Thủy (Tamsui), sông Cơ Long (Keelung) và suối Tân Điếm (Xindian) tại Đài Bắc là hàng chục km đường dành cho xe đạp và đường đi bộ.
+Các công viên ven sông vào ngày nghỉ giống như một bữa tiệc ngoài trời quy mô lớn: người đi xe đường trường, người đi YouBike, người chạy bộ, người trượt patin, người thả diều, người đấu bóng rổ, người tập bóng chày, hay người dắt chó Shiba đi dạo; mật độ đông đúc đến mức đôi khi cần phải điều tiết giao thông.
 
-Sông Tình Yêu Cao Hùng, Lục Xuyên Đài Trung và Liễu Xuyên, Vận Hà Đài Nam, sau khi được cải tạo cũng từ những con sông thối mà cư dân tránh như ma, trở thành tuyến đường dạo bộ buổi tối lựa chọn hàng đầu.
-Sự phục hồi của những không gian ven nước này không chỉ là thành tựu kỹ thuật, mà còn là chỉ báo cụ thể của chất lượng cuộc sống đô thị.
+Sông Ái Hà (Love River) ở Cao Hùng, sông Lục Xuyên (Luchuan) và sông Liễu Xuyên (Liuchuan) ở Đài Trung, hay kênh đào ở Đài Nam, sau khi được chỉnh trang đã từ những dòng nước ô nhiễm mà người dân tránh xa trở thành lộ trình đi bộ ưu tiên vào buổi tối.
+Sự hồi sinh của các không gian ven nước này không chỉ là thành tựu về kỹ thuật công trình, mà còn là chỉ số cụ thể cho chất lượng cuộc sống đô thị.
 
-Bờ sông có một cái gì mà công viên không có: cảm giác chuyển động.
-Bạn có thể đạp từ khu này sang khu khác, từ cạnh thành phố tới cửa sông.
-Loại trải nghiệm giải trí tuyến tính này, khiến bờ sông trở thành nơi lý tưởng để "du hành một ngày nhỏ bé" của người dân Đài Loan — không cần lái xe, không cần lên kế hoạch, chỉ cần ngồi lên xe rồi đi.
+Ven sông có một thứ mà công viên không có: cảm giác chuyển động.
+Bạn có thể đạp xe từ khu vực này sang khu vực khác, đi dọc từ rìa thành phố đến tận cửa biển.
+Trải nghiệm giải trí tuyến tính này khiến ven sông trở thành địa điểm lý tưởng cho những "chuyến du lịch nhỏ thường nhật" của người Đài Loan — không cần lái ô tô, không cần lên kế hoạch, chỉ cần lên xe là đi.
 
 ## Công viên về đêm: Một thế giới khác
 
-Khi mặt trời lặn, các công viên ở Đài Loan không đóng cửa.
+Khi mặt trời lặn, các công viên ở Đài Loan không hề đóng cửa.
 
-Vào khoảng tám, chín giờ tối, bạn sẽ thấy một nhóm người khác trong công viên.
-Những nhân viên văn phòng dắt chó đi dạo (tại các công viên thông thường, chó phải được xích dây; quy định của thành phố Đài Bắc về bảo vệ động vật có thể phạt chủ nuôi từ hai nghìn đến mười nghìn Đài tệ nếu không xích dây, và những khu vực dành riêng cho chó chạy tự do) [^1], sinh viên đại học tập guitar trong vọng lâu, hay những người ngồi trên ghế đá lướt điện thoại nhưng thực chất chỉ cần một lý do để rời khỏi nhà.
+Vào khoảng 8 hay 9 giờ tối, bạn sẽ thấy một nhóm người khác trong công viên.
+Những nhân viên văn phòng dắt chó đi dạo (tại các công viên thông thường, chó phải được xích; theo Quy chế Tự trị Bảo vệ Động vật của thành phố Đài Bắc, chủ nuôi không xích chó có thể bị phạt từ NT$2,000 đến NT$10,000; nếu muốn để chó chạy tự do, họ phải đến khu vực dành riêng cho hoạt động của thú cưng) [^1], những sinh viên đại học tập đàn guitar trong đình nghỉ mát, hay những người ngồi trên ghế dài lướt điện thoại nhưng thực chất chỉ cần một lý do để rời khỏi nhà.
 
-Đêm hè đặc biệt thú vị.
-Một số công viên có sự xuất hiện tự phát của đám đông "giải nhiệt" — họ mang chiếu và quạt ra công viên để thư giãn, vì gió ngoài trời dễ chịu hơn (và tiết kiệm điện hơn) điều hòa.
-Trẻ em chạy nhảy trên bãi cỏ đuổi theo đom đóm (nếu hệ sinh thái của công viên đó đủ tốt), còn người lớn thì trò chuyện và ăn dưa bên cạnh.
+Những đêm mùa hè đặc biệt thú vị.
+Tại một số công viên, đám đông tự phát tìm đến để "hóng mát" — họ mang theo chiếu và quạt đến công viên vì gió ngoài trời dễ chịu hơn máy lạnh (và cũng tiết kiệm điện hơn).
+Trẻ con chạy nhảy trên thảm cỏ để đuổi theo đom đóm (nếu công viên đó có hệ sinh thái đủ tốt), người lớn ngồi bên cạnh tán gẫu và ăn dưa hấu.
 
-Văn hóa công viên về đêm này có liên quan đến khí hậu và nhịp sống của Đài Loan.
-Mùa hè cận nhiệt đới quá nóng vào ban ngày, nên các hoạt động ngoài trời tự nhiên dịch chuyển sang buổi tối.
-Cộng thêm tình hình an ninh tương đối tốt của Đài Loan, việc đi dạo trong công viên vào đêm khuya không phải là điều gì cần sự can đảm.
+Văn hóa công viên đêm này liên quan đến khí hậu và nhịp sống của Đài Loan.
+Mùa hè cận nhiệt đới ban ngày quá nóng, nên các hoạt động ngoài trời tự nhiên dịch chuyển sang buổi tối.
+Thêm vào đó, an ninh tại Đài Loan tương đối tốt, việc đi dạo trong công viên đêm muộn không phải là việc gì cần đến lòng can đảm.
 
-## Công viên như một sân luyện tập cho dân chủ
+## Công viên như một sân tập cho dân chủ
 
-Công viên Đài Loan cũng là sân luyện tập cho sự tham gia công dân.
+Công viên ở Đài Loan cũng là nơi thực hành sự tham gia của công dân.
 
-Từ ngân sách tham gia (cho phép cư dân bỏ phiếu quyết định cơ sở gì sẽ được lắp đặt trong công viên), sang những tình nguyện viên sinh thái công viên (tự nguyện duy trì cây cối, giám sát sinh thái), sang những vườn cộng đồng (khai hoang những phần có thể ăn được ở công viên), những người dân Đài Loan đang học cách quản lý chung những không gian công cộng.
+Từ ngân sách có sự tham gia (để cư dân bỏ phiếu quyết định lắp đặt thiết bị gì trong công viên), đến tình nguyện viên sinh thái công viên (tự nguyện chăm sóc cây cối, giám sát hệ sinh thái), cho đến vườn cộng đồng (xây dựng các cảnh quan có thể ăn được tại một góc công viên), người Đài Loan đang học cách cùng nhau quản lý không gian công cộng.
 
-Những nỗ lực này không phải lúc nào cũng suôn sẻ.
-Trưởng lý muốn thêm máy tập thể dục, nhóm sinh thái muốn giữ lại thêm diện tích xanh, những cha mẹ trẻ muốn những cơ sở tốt hơn, những bà tập nhảy muốn một sân bằng phẳng hơn — trong không gian hạn chế, mỗi nhu cầu đều hợp lệ, xung đột không tránh khỏi.
-Nhưng chính những thương lượng và thỏa hiệp nhỏ bé này, khiến công viên trở thành tóm tắt sinh động nhất của dân chủ cơ sở Đài Loan.
+Những thử nghiệm này không phải lúc nào cũng suôn sẻ.
+Trưởng thôn muốn thêm thiết bị tập gym, hội sinh thái muốn giữ thêm mảng xanh, cha mẹ trẻ muốn đồ chơi tốt hơn, các bà cô khiêu vũ muốn quảng trường bằng phẳng hơn — trong một không gian hữu hạn, mọi nhu cầu đều chính đáng, và xung đột là điều khó tránh khỏi.
+Nhưng chính những sự thương lượng và thỏa hiệp nhỏ bé này đã khiến công viên trở thành hình ảnh thu nhỏ sống động nhất của nền dân chủ cơ sở tại Đài Loan.
 
-Khi bạn ngồi trong một công viên Đài Loan, nhìn ông bà tập thái cực, con nhỏ chơi cầu trượt, người lao động dắt chó, học sinh tập đàn đi chung một bãi cỏ, bạn không chỉ thấy giải trí, mà còn thấy một xã hội tìm cách sống chung trong sự đông đúc — không dựa vào quy tắc, dựa vào sự thông cảm;
-không dựa vào hàng rào, dựa vào thiện ý nhường một bước của người khác.
+Khi bạn ngồi trong một công viên ở Đài Loan, nhìn thấy các ông cụ tập Thái Cực Quyền, trẻ em chơi cầu trượt, nhân viên văn phòng dắt chó đi dạo và sinh viên luyện đàn cùng chia sẻ một thảm cỏ, bạn không chỉ thấy sự giải trí, mà còn thấy cách một xã hội tìm ra phương thức chung sống trong sự chật chội — không dựa vào quy tắc, mà dựa vào sự ngầm hiểu; không dựa vào hàng rào, mà dựa vào lòng thiện chí nhường bước lẫn nhau.
 
-## Công viên buổi tối: Cuộc sống khác trong bóng đèn
+## Công viên ban đêm: Một cuộc sống khác dưới ánh đèn
 
-Chiều tối công viên bắt đầu thay đổi một lồng tiếng khác.
-Những người dạo bộ tăng lên, những người chạy chậm cũng quay lại vạch xuất phát.
-Tiếng cười của trẻ em kéo dài trong gió tối.
-Những người cao tuổi đang chơi cờ trong lều che, tiếng quân cờ gõ giống một nhịp điệu khác.
-Ánh đèn của công viên để lại cảm giác an toàn trên mặt đất.
-Đối với những người sống trong phòng nhỏ, công viên là phòng khách duy nhất có thể duỡi.
-Một số người mang bữa tối đến bãi cỏ để ăn yên tĩnh, như một nghi lễ kết thúc ngày.
-Công viên buổi tối, không phải sự kéo dài của ban ngày, mà là một sân khấu mới.
+Khi hoàng hôn buông xuống, công viên bắt đầu thay đổi âm thanh.
+Người đi bộ đông hơn, người chạy bộ cũng trở lại vạch xuất phát.
+Tiếng cười của trẻ thơ kéo dài trong gió đêm.
+Các cụ già đánh cờ trong đình nghỉ mát, tiếng quân cờ chạm nhau như một nhịp điệu khác.
+Ánh đèn công viên mang lại cảm giác an toàn xuống mặt đất.
+Đối với nhiều người sống trong các căn hộ nhỏ hẹp, công viên là phòng khách duy nhất có thể mở rộng.
+Có những người mang theo bữa tối ngồi ăn tĩnh lặng trên thảm cỏ, coi đó như một nghi thức kết thúc ngày dài.
+Công viên ban đêm không phải là sự kéo dài của ban ngày, mà là một sân khấu mới.
 
-## Những chú chó nhỏ, ván trượt và những đứa trẻ từng từ lớn lên
+## Chó con, ván trượt và những đứa trẻ đang lớn dần
 
-Dắt chó là một ngôn ngữ giao lưu khác.
-Sự tương tác của những chú chó mở ra những chủ đề cho chủ nhân.
-Những thiếu niên trượt ván luyện tập trên sân, sau khi ngã lại đứng dậy.
-Hình ảnh của họ nhắc nhở rằng vẫn còn không gian cho những cuộc phiêu lưu trong thành phố.
-Những em bé trong hộp cát xây lâu đài, cha mẹ ngồi bên cạnh trao đổi kinh nghiệm chăm sóc trẻ.
-Có người mang thảm cắm trại và sách, biến cuối tuần thành những chuyến du hành nhỏ bé yên tĩnh.
-Những hoạt động nhỏ bé hàng ngày này xếp chồng thành những sợi dây xã hội của công viên.
-Mỗi người sử dụng đều thêm một ý nghĩa mới cho công viên.
-Khi trẻ lớn lên, chúng sẽ nhớ tên những bãi cỏ và cái bóng cây này.
+Dắt chó đi dạo là một loại ngôn ngữ giao tiếp khác.
+Việc các chú chó ngửi nhau giúp chủ nhân mở đầu câu chuyện.
+Những thiếu niên trượt ván tập luyện trên quảng trường, ngã xuống rồi lại đứng lên.
+Hình bóng của họ nhắc nhở rằng trong thành phố vẫn còn những không gian dành cho sự phiêu lưu.
+Trẻ nhỏ xây lâu đài trong hố cát, phụ huynh ngồi bên cạnh trao đổi kinh nghiệm nuôi dạy con.
+Có người mang theo thảm dã ngoại và sách, biến cuối tuần thành một chuyến du lịch nhỏ yên bình.
+Những điều thường nhật nhỏ bé này bồi đắp nên kết cấu xã hội của công viên.
+Mỗi người sử dụng đều đang thêm vào những ý nghĩa mới cho công viên.
+Khi trẻ lớn lên, chúng sẽ nhớ tên của những thảm cỏ và bóng cây này.
 
-## Công viên với các mùa: Những bài học thiên nhiên của thành phố
+## Công viên và mùa: Tiết học tự nhiên của thành phố
 
-Những bông hoa rơi mùa xuân giống một cơn mưa nhỏ.
+Hoa rơi vào mùa xuân như một cơn mưa nhỏ.
 Bóng cây mùa hè trở thành chiếc máy lạnh rẻ nhất.
-Những chiếc lá mùa thu bị gió thổi thành thảm.
-Ánh nắng mùa đông là món quà mềm mại nhất.
-Con người cảm thấy sự tồn tại của thời gian trong sự thay đổi của các mùa.
-Công viên cho phép thành phố cảm nhận được hơi thở của thiên nhiên.
-Những nhịp độ nhỏ bé này, lặng lẽ sửa chữa khoảng cách giữa con người và đất đai.
+Gió mùa thu thổi lá cây thành những tấm thảm.
+Ánh nắng mùa đông là món quà dịu dàng nhất.
+Mọi người cảm nhận được sự hiện diện của thời gian qua sự thay đổi của các mùa.
+Công viên giúp thành phố vẫn có thể cảm nhận được hơi thở của tự nhiên.
+Những nhịp điệu nhỏ bé này âm thầm hàn gắn khoảng cách giữa con người và đất đai.
 
 ## Tài liệu tham khảo
 
 1. Taiwan Parks and Playgrounds for Children and by Children (PPFCC). https://ppfcc.org/en/
-2. Vocus (2025). 〈Hiệu ứng 20 phút công viên: Liều thuốc tinh thần cho người dân thành thị hiện đại〉.https://vocus.cc/article/662e4735fd89780001333610
-3. Taipei Navi (2024). 〈Bạn có muốn bắt đầu tập Thái cực quyền trong công viên không?〉.https://www.taipeinavi.com/special/5001857
+2. Vocus (2025). 〈Hiệu ứng 20 phút công viên: Liều thuốc cho tâm hồn của cư dân đô thị hiện đại〉. https://vocus.cc/article/662e4735fd89780001333610
+3. Taipei Navi (2024). 〈Bạn có muốn bắt đầu tập Thái Cực Quyền tại công viên không?〉. https://www.taipeinavi.com/special/5001857
 
-[^1]: [「Nắm chặt dây xích, vì yêu bạn!」Sở Bảo vệ Động vật Đài Bắc kêu gọi chủ nuôi thú cưng thực hiện các biện pháp phòng ngừa thích hợp khi dắt chó đi chơi](https://www.tcapo.gov.taipei/News_Content.aspx?n=67993BA7C146BC76&sms=72544237BBE4C5F6&s=01DA8EC9CE2086ED) — Thông cáo báo chí của Sở Bảo vệ Động vật Thành phố Đài Bắc tháng 12 năm 2019: Theo Quy chế Tự trị về Bảo vệ Động vật của Thành phố Đài Bắc, tại các nơi công cộng, chó phải được xích dây; vi phạm sẽ bị phạt từ 2.000 đến 10.000 Đài tệ.
+[^1]: [「Giữ chặt dây xích, vì yêu thương thú cưng!」Cục Bảo vệ Động vật Thành phố Đài Bắc kêu gọi thực hiện các biện pháp bảo vệ thích hợp khi đưa thú cưng ra ngoài](https://www.tcapo.gov.taipei/News_Content.aspx?n=67993BA7C146BC76&sms=72544237BBE4C5F6&s=01DA8EC9CE2086ED) — Thông cáo báo chí tháng 12 năm 2019 của Cục Bảo vệ Động vật Thành phố Đài Bắc: Theo 《Quy chế Tự trị Bảo vệ Động vật Thành phố Đài Bắc》, tại nơi công cộng phải xích chó lại, người vi phạm sẽ bị phạt từ NT$2,000 đến NT$10,000.
 
-[^2]: [Liên minh Hành động vì Công viên Đặc trưng](https://zh.wikipedia.org/zh-tw/%E9%82%84%E6%88%91%E7%89%B9%E8%89%B2%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E8%81%AF%E7%9B%9F) — Mục Wikipedia: Thành lập nhóm Facebook vào năm 2015, tổ chức họp báo kiến nghị trước Tòa thị chính Đài Bắc vào ngày 28 tháng 11 cùng năm, và thành lập pháp nhân vào năm 2018.
+[^2]: [Liên minh Hành động Trả lại Công viên Đặc sắc](https://zh.wikipedia.org/zh-tw/%E9%82%84%E6%88%91%E7%89%B9%E8%89%B2%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E8%81%AF%E7%9B%9F) — Mục Wikipedia: Thành lập nhóm Facebook vào năm 2015, tổ chức họp báo kiến nghị trước Tòa thị chính Đài Bắc vào ngày 28 tháng 11 cùng năm, và thành lập pháp nhân hiệp hội vào năm 2018.

@@ -1,28 +1,28 @@
 ---
-title: 'El pangolín de Taiwán'
-description: 'El mamífero más traficado del mundo encontró un hogar seguro en Taiwán'
+title: 'Pangolín de Taiwán'
+description: 'El mamífero más traficado del mundo; sin embargo, la subespecie de Taiwán ha encontrado un hogar seguro en la isla. Mientras que sus parientes en otras partes de Asia se enfrentan a la extinción debido al tráfico ilegal, Taiwán ha logrado estabilizar e incluso aumentar su población mediante leyes estrictas, mantenimiento de hábitats, investigación científica y cría en cautividad. Este es un caso excepcional de éxito en conservación que demuestra al mundo que la extinción de una especie no tiene por qué ser inevitable.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '野生動物'
 tags:
   [
     'pangolín',
     'conservación',
     'especies en peligro',
     'tráfico ilegal',
-    'Zoológico de Taipéi',
+    'Zoológico de Taipei',
     'ecología',
   ]
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: Nature/台灣穿山甲.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:bc4a8eee501f028c
-sourceBodyHash: sha256:059668decdeffa13
-translatedAt: 2026-05-15T15:39:40+08:00
+translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
+sourceBodyHash: 'sha256:059668decdeffa13'
+translatedAt: '2026-10-15T23:08:54.232990+00:00'
 ---
 
 # El pangolín de Taiwán
@@ -109,15 +109,15 @@ La historia del pangolín de Taiwán ofrece, en una era de rápida pérdida de b
 
 ## Referencias
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirmación de la resolución de la CoP17 de 2016 de transferir todas las especies al Apéndice I, con entrada en vigor el 2 de enero de 2017.
+[^1]: [Decisión de la CoP17 de CITES sobre el pangolín｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirma la elevación al Apéndice I en la resolución de la CoP17 de 2016, con entrada en vigor oficial el 2 de enero de 2017.
 
-[^2]: [Lista Roja de la UICN: Pangolín chino](https://www.iucnredlist.org/species/12764/123589684) — Referencia sobre la ecología y las necesidades alimentarias del pangolín chino (las estimaciones de consumo de hormigas varían entre estudios).
+[^2]: [Lista Roja de la UICN: Manis pentadactyla](https://www.iucnredlist.org/species/12764/123589684) — Documentación sobre los hábitos ecológicos y las necesidades alimentarias del pangolín chino (existen variaciones entre los estudios sobre la estimación del consumo de hormigas).
 
-[^3]: [Instituto de Conservación de Vida Silvestre, Universidad Nacional de Ciencia y Tecnología de Pingtung](https://www.npust.edu.tw/) — Antecedentes sobre los estudios de marcaje y seguimiento de pangolines realizados por Sun Jing-min y su equipo de investigación.
+[^3]: [Instituto de Conservación de la Vida Silvestre de la Universidad de Ciencia y Tecnología de Pingtung](https://www.npust.edu.tw/) — Contexto de la investigación de liberación de pangolines realizada por Sun Jing-min y su equipo de investigación.
 
-[^4]: [Red de Biodiversidad de Taiwán](https://www.tbn.org.tw/) — Base de datos de distribución del pangolín en Taiwán y reportes de ciencia ciudadana.
+[^4]: [Red de Biodiversidad de Taiwán](https://www.tbn.org.tw/) — Base de datos sobre la distribución del pangolín en Taiwán e informes de ciencia ciudadana.
 
-[^5]: [Investigación de conservación del Zoológico de Taipéi](https://www.zoo.gov.taipei/) — Técnicas de reproducción en cautiverio y resultados de conservación del pangolín.
+[^5]: [Investigación de Conservación del Zoológico de Taipei](https://www.zoo.gov.taipei/) — Técnicas de reproducción artificial y resultados de conservación del pangolín.
 
 ## Lectura adicional
 

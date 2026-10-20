@@ -1,6 +1,6 @@
 ---
-title: 'Entreprises taïwanaises : ASE Group (日月光)'
-description: "Le leader mondial de l'assemblage et du test : comment l'héritier d'une entreprise de construction s'est imposé dans les semi-conducteurs ?"
+title: 'Entreprise taïwanaise : ASE Technology'
+description: "En 1984, le trio mère-fils Chang Yao-Hung, issu de la construction, a réorienté ses fonds vers l'assemblage et le test de semi-conducteurs, fondant ASE dans le district de Nanzih à Kaohsiung. En 1989, elle est devenue la première entreprise cotée de Taïwan dans ce secteur. En 1998, l'acquisition de K&S en Corée a inauguré un service « assemblage + test » tout-en-un. Quarante ans plus tard, avec un chiffre d'affaires de 10,1 milliards de dollars américains en 2024 et une part de marché mondiale d'environ 45 %, elle s'est hissée au rang de leader de l'assemblage et du test, devenant le champion invisible qui habille les puces et leur fait passer leur check-up."
 date: 2026-03-21
 category: 'Economy'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Économie',
     'Entreprise',
     'Industrie des semi-conducteurs',
-    'Assemblage et test (OSAT)',
+    'Assemblage et test',
     'Fabrication technologique',
   ]
 subcategory: '企業列傳'
@@ -19,10 +19,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-08-04T12:03:21+08:00'
+translatedAt: '2026-10-15T22:39:32.591425+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1984, Chang Yao-ming-ying et ses deux fils, issus du secteur de la construction, se sont lancés dans l'assemblage et le test de semi-conducteurs pour fonder ASE Group. 40 ans plus tard, l'entreprise est devenue le premier acteur mondial du secteur, avec un chiffre d'affaires de 10,1 milliards de dollars en 2024 et une part de marché mondiale proche de 45 %. Chaque iPhone, chaque ordinateur portable utilise probablement la technologie d'ASE : c'est le champion invisible qui permet aux puces de « porter un vêtement » et de « passer un examen médical ».

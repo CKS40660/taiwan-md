@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'c0f587606'
-sourceContentHash: 'sha256:322fadf3d54cf027'
-sourceBodyHash: 'sha256:5a14ed890fa46c36'
-translatedAt: '2026-09-13T05:56:50+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:b9213e8245304093'
+sourceBodyHash: 'sha256:d67040679486fd02'
+translatedAt: '2026-10-15T04:00:10.404706+00:00'
 ---
 
 Em 11 de agosto de 2024 (horário de Taiwan), no saibro do estádio Roland Garros em Paris, quando soou o gongo da final feminina até 57 kg, a atleta de Taiwan Lin Yu-ting venceu a polonesa Julia Szeremeta por cinco a zero, de forma absoluta[^1][^2]. Após a luta, ela repetiu o gesto dos Jogos de Tóquio: ergueu bem alto o técnico que a acompanha há quinze anos, Zeng Ziqiang, completando não só o sonho de mestre e discípula, mas também garantindo a primeira medalha de ouro olímpica do boxe na história de Taiwan[^3][^5]. Contudo, o peso desse ouro extrapola em muito os limites físicos da medalha — no mês que antecedeu sua conquista, Lin Yu-ting foi forçada a ocupar o centro do furacão midiático global, suportando uma avalanche de questionamentos de gênero e uma caça às bruxas virtual transfronteiriça[^5].
@@ -36,14 +36,15 @@ Em 11 de agosto de 2024 (horário de Taiwan), no saibro do estádio Roland Garro
 
 Retomando a trajetória de Lin Yu-ting, o boxe não nasceu de um ímpeto romântico pelo esporte, mas de um instinto de autodefesa. A sombra da violência doméstica na infância fez com que ela experimentasse cedo a crueldade e a impotência da realidade. Ela declarou em diversas entrevistas: «Quando criança, meu pai batia na minha mãe, por isso entrei para o time de boxe, na esperança de usar minha própria força para proteger minha mãe.»[^9][^10]. Os fragmentos do conflito familiar tornaram-se a ansiedade de sua juventude, e o time de boxe instalado no porão da Escola Secundária Yingge, em Nova Taipé, transformou-se em seu refúgio para escapar da realidade e forjar a vontade[^11].
 
-## A revolução do boxe de base em instalações precárias
+## Uma revolução do boxe de base em instalações precárias
 
-Na época, o ambiente de treino era extremamente rudimentar: não havia equipamentos de ponta nem equipe médica, apenas sacos de areia grosseiros, paredes descascadas e suor dia após dia. Foi ali que ela encontrou o técnico que mudaria sua vida, Zeng Ziqiang[^7][^8]. Zeng enxergou na menina franzina uma teimosia de quem não aceita perder, e os dois construíram desde então um vínculo estreito, como pai e filha, como mestre e amigo, iniciando uma revolução de mais de uma década no boxe de base de Taiwan[^7][^8].
+Naquela época, o ambiente de treinamento era extremamente rudimentar: não havia equipamentos de proteção de ponta nem equipes médicas; havia apenas sacos de pancada ásperos, paredes descascadas e o suor derramado dia após dia. Foi justamente ali que ela conheceu o treinador Zeng Ziqiang[^7][^8], que mudaria sua vida para sempre. Zeng Ziqiang percebeu a obstinação indomável nos olhos daquela menina franzina, e desde então, ambos estabeleceram um vínculo estreito — como pai e filha, mas também como mestre e amiga —, dando início a uma revolução do boxe de base em Taiwan que duraria mais de uma década[^7][^8].
 
 ```tw-stat
-5：0 | Placar da final em Paris | Vitória absoluta sobre a adversária (quatro lutas, todas 5:0)
-15 anos | Anos de parceria mestre-discípula | Técnico Zeng Ziqiang presente em toda a jornada
-1º | Registro histórico | Primeira medalha de ouro olímpica do boxe na história de Taiwan
+5:0 | Placar da luta pelo ouro em Paris | Vitória esmagadora (quatro vitórias consecutivas)
+15 anos | Anos de parceria mestre e discípula | O treinador Zeng Ziqiang acompanhou toda a jornada
+1ª | Registro histórico | Primeira medalha de ouro no boxe na história olímpica de Taiwan
+Fonte: Relatórios dos Jogos Olímpicos de Paris e entrevistas com o treinador Zeng Ziqiang e a própria Lin Yu-ting (ver notas de rodapé anteriores)[^1][^2][^7][^8][^9]
 ```
 
 ## «Também temos de nos tornar nossos próprios magos»: a ressonância filosófica de mestre e discípula
@@ -74,15 +75,16 @@ Contudo, a jornada de um atleta nunca é linha reta. Nos Jogos de Tóquio 2020, 
 
 Diante da pressão psicológica gigantesca pós-Tóquio, o técnico Zeng Ziqiang buscou cedo o apoio de psicólogos do esporte (como Hong Zifeng e outros)[^6][^16]. Lin Yu-ting aprendeu o «método de transferência do ponto de dor», convertendo a mágoa da derrota em apoio às companheiras e em reconstrução obsessiva dos detalhes técnicos[^40]. Essa têmpera de resiliência mental permitiu-lhe manter a respiração serena mesmo no olho do furacão global em Paris.
 
-## A tempestade infundada no Mundial de Nova Déli e a armadilha institucional
+## A tempestade injustificada e a armadilha institucional do Mundial de Nova Deli
 
-Justamente quando ela readjustava a mentalidade e retomava o topo do ranking mundial, um teste maior desabou silenciosamente no Campeonato Mundial de 2023 em Nova Déli. Sem aviso, a Associação Internacional de Boxe (IBA) cassou sua medalha de bronze alegando «índices bioquímicos anormais» não especificados[^3][^4][^17]. A decisão carecia de base científica transparente e de canal regular de recurso, plantando a semente da controvérsia internacional posterior.
+No momento em que ela ajustava sua mentalidade para retomar o posto de número um do mundo, um desafio ainda maior surgiu silenciosamente no Campeonato Mundial de 2023, em Nova Deli. Na ocasião, ela teve seu bronze revogado sem aviso prévio pela Associação Internacional de Boxe (IBA), sob a justificativa de uma suposta "anomalia nos índices bioquímicos"[^3][^4][^17]. Essa decisão carecia de base científica transparente e de canais de apelação adequados, plantando as sementes para as controvérsias subsequentes no cenário esportivo internacional.
 
 ```tw-timeline
-2021 | Derrota em Tóquio | Estreia no palco máximo com eliminação precoce; após a luta, carrega o técnico nas costas e promete voltar ao topo.
-2023 | Tempestade de gênero no Mundial | IBA retira o bronze alegando exame bioquímico anormal; maior revés institucional da carreira.
-2024 | Coroação em Paris | Resiste à pressão de caça às bruxas transfronteiriça, varre quatro lutas por 5:0 e conquista o Grande Slam histórico.
-2026 | Reconhecimento pela World Boxing | Após ano e meio de recurso, a World Boxing homologa oficialmente sua elegibilidade, devolvendo-lhe a inocência.
+2021 | Frustração nas Olimpíadas de Tóquio | Estreia no mais alto nível, mas é eliminada inesperadamente na primeira rodada; após a luta, carrega seu treinador nas costas e promete retornar ao topo.
+2023 | Tempestade de gênero no Mundial | Tem o bronze retirado pela IBA devido a anomalias em testes bioquímicos, enfrentando o maior revés institucional de sua carreira esportiva.
+2024 | O ápice nas Olimpíadas de Paris | Resiste à pressão global de uma "caça às bruxas" transnacional e conquista o ouro com quatro vitórias por 5 a 0, completando um grande slam histórico.
+2026 | Reconhecimento da World Boxing | Após um ano e meio de apelações, a World Boxing reconhece formalmente sua elegibilidade para competir, restituindo sua inocência.
+Fonte: Relatos sobre as Olimpíadas de Tóquio, a controvérsia da retirada do bronze pela IBA e o reconhecimento da World Boxing em 2026 citados neste artigo[^3][^4][^15][^17]
 ```
 
 ## Vítima da disputa de poder na governança do boxe internacional e leitura científica

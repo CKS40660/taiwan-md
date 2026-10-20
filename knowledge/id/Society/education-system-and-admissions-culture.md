@@ -1,14 +1,14 @@
 ---
-title: 'Sistem Pendidikan dan Budaya Masuk Perguruan Tinggi'
-description: 'Dari sistem ujian gabungan ke pendidikan 12 tahun, bagaimana pendidikan Taiwan mencari keseimbangan antara kompetisi dan keberagaman'
+title: 'Sistem Pendidikan dan Budaya Akademik'
+description: 'Pendidikan di Taiwan dikenal dengan budaya kompetisi akademik yang tinggi, yang membentang dari sembilan tahun pendidikan wajib nasional hingga dua belas tahun pendidikan dasar dan menengah; sistemnya terbagi menjadi jalur akademik dan kejuruan, namun masyarakat masih cenderung menitikberatkan pada pencapaian akademis sehingga memicu persaingan sengit. Reformasi baru-baru ini menekankan pengembangan yang beragam dan penemuan bakat yang sesuai, namun bagaimana mencapai keseimbangan antara kompetisi dan keberagaman, serta antara elit dan pemerataan, tetap menjadi tantangan inti yang dihadapi masyarakat ini.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'Pendidikan',
-    'Masuk Perguruan Tinggi',
+    'Akademik',
     'Pendidikan 12 Tahun',
-    'Pendidikan Teknis Vokasional',
+    'Pendidikan Kejuruan',
     'Reformasi Pendidikan',
     'Budaya Kompetisi',
   ]
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/教育制度與升學文化.md'
-sourceCommitSha: '0f71fb1c5'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:ede91c7ee7539592'
 sourceBodyHash: 'sha256:24778da06af3ffc5'
-translatedAt: '2026-10-02T02:55:33+08:00'
+translatedAt: '2026-10-15T20:40:59.726806+00:00'
 ---
 
 # Sistem Pendidikan dan Budaya Masuk Perguruan Tinggi

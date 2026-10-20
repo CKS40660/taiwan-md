@@ -1,19 +1,20 @@
 ---
-title: '차이밍량: 슬로우 시네마의 시인'
-description: '베니스 황금사자상 수상자, 말레이시아 화교, 슬로우 시네마 미학의 대가'
+title: '차이밍량'
+description: '1957년 말레이시아 사라왁에서 태어나 1977년 대만으로 건너와 연극을 공부한 감독이다. 1992년 《청소년 나타》로 개인적인 스타일을 확립했으며, 1994년 《Love is Not a Crime》으로 베네치아 국제 영화제 황금사자상을 수상하며 허우샤오셴, 장이머우에 이어 세 번째로 수상한 화인 감독이 되었다. 그는 롱테이크, 극도로 절제된 대사, 느린 호흡을 통해 도시인의 고독과 소외를 그려내며, 《Love is Not a Crime》부터 행자 시리즈에 이르기까지 독보적인 슬로우 시네마 미학을 발전시켰다.'
 date: 2026-03-19
 category: 'People'
-tags: ['감독', '차이밍량', '슬로우 시네마', '베니스영화제', '말레이시아화교']
+tags:
+  ['감독', '차이밍량', '슬로우 시네마', '베네치아 영화제', '말레이시아 화인']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:57+08:00'
+translatedAt: '2026-10-15T22:59:25.241730+00:00'
 ---
 
 # 차이밍량: 슬로우 시네마의 시인

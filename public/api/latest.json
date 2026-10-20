@@ -1,280 +1,307 @@
 {
-  "_generated": "2026-10-13T22:06:52.055Z",
+  "_generated": "2026-10-19T22:06:46.846Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "幾米：被當成療癒系的那些圖，是一個血癌倖存者從玻璃缸裡帶回來的",
-        "desc": "1995 年，37 歲的廣告美術指導廖福彬被宣判急性骨髓性白血病，在無菌室隔著玻璃向朋友招手。出院後，那些他原本拿來賺錢的「小人」活了起來，他開始畫《微笑的魚》《月亮忘記了》《向左走·向右走》《地下鐵》。台灣人記得的療癒、文青、宜蘭羅東幾米廣場背後，是一個去過地獄的人，把死亡與孤獨翻譯成可以被閱讀的形式，後來長成橫跨電影、音樂劇、馬戲與公共藝術的版圖，2026 年仍在香港辦 25 週年特展。",
-        "category": "people",
-        "href": "/people/%E5%B9%BE%E7%B1%B3",
-        "date": "2026-10-12T19:35:20+08:00",
-        "readingTime": 12,
-        "image": "/article-images/people/jimmy-liao-square-yilan-2016.webp"
-      },
-      {
-        "title": "複雜生活節：兩個醫學生的「未成功者論壇」，和一個世代不肯說自己夠好的五年",
-        "desc": "2016 年 5 月，許皓甯在臉書標了一串「把生活搞得很累」的八年級，跟同學黃豆泥辦了第一屆「未成功者論壇」。一個中醫師、一個後來去哈佛的西醫，把上一代被商業收編的「簡單」改寫成「複雜」，只准談成長不准談成功。五年後靈魂留在台中開書店選輸議員，助手回頭把它叫做「皓甯的代表作，封存於此」：未成功到底是謙詞，還是一個世代始終差那麼一點點的自我要求。",
-        "category": "society",
-        "href": "/society/%E8%A4%87%E9%9B%9C%E7%94%9F%E6%B4%BB%E7%AF%80",
-        "date": "2026-10-12T19:35:20+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/complex-festival-onsite-program.webp"
-      },
-      {
-        "title": "大安溪倚天劍：東亞最高的樹，藏在我們到不了的地方七百年",
-        "desc": "2023 年農曆春節，找樹的人團隊溯溪七天，在大安溪源頭一處幾乎沒人到得了的深谷裡，把皮尺從一棵台灣杉的樹冠垂下來——84.1 公尺，東亞第一高樹。它比雷射光達的預測還高了 4.6 公尺。一座年年颱風、會崩會淹的島，照理不該保有這種高度的生命；但它正因為長在人類到不了的溪谷，才躲過大伐木、撐過七百年。同一份「到不了」既讓它活下來，也讓我們用雷射掃過整座島，才在這一年第一次看見它。",
-        "category": "nature",
-        "href": "/nature/%E5%A4%A7%E5%AE%89%E6%BA%AA%E5%80%9A%E5%A4%A9%E5%8A%8D",
-        "date": "2026-10-12T19:32:00+08:00",
-        "readingTime": 15,
-        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
-      },
-      {
-        "title": "羅大佑：唱盡台灣失根的人，自己搬了十九次家還在找路",
-        "desc": "1970 年代，台中一間醫學院的大體解剖室裡，一個放射科醫學生躲著練唱，因為「那邊回聲很好，沒有人會知道我在唱歌」。後來他寫〈鹿港小鎮〉〈亞細亞的孤兒〉〈東方之珠〉，替整個世代問出「我是誰」。可是這個唱遍失根的人，自己從台北搬到紐約、香港、北京，二十九年搬了十九次家。七十歲那年他說自己只是「了不起的倖存者」。",
-        "category": "people",
-        "href": "/people/%E7%BE%85%E5%A4%A7%E4%BD%91",
-        "date": "2026-10-12T19:32:00+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/lo-ta-yu-2011.webp"
-      },
-      {
-        "title": "看不見的國家：一個美國導演按了七年快門，拍一個世界決定不看的島嶼",
-        "desc": "2025 年 6 月台灣戲院，一部美國人拍的紀錄片賣破三千七百萬、登上紀錄片影史第三。葛靜文花七年、五次貼身專訪蔡英文，把一個被聯合國除名、邦交國從 22 掉到 12、奧運只能叫「中華台北」的島嶼推到鏡頭前。但最被質疑的，是這部要讓台灣「被看見」的片，自己讓誰留在了框外——看見從來是一個動作，不是一種地位。",
-        "category": "art",
-        "href": "/art/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%9C%8B%E5%AE%B6",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": null,
-        "image": "/article-images/art/invisible-nation-tsai-walks.webp"
-      },
-      {
-        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
-        "category": "technology",
-        "href": "/technology/mini-taiwan-pulse",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": 20,
-        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
-      },
-      {
-        "title": "台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子",
-        "desc": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": 17,
-        "image": "/article-images/society/taipei-ximending-smoking-booth-2026.webp"
-      },
-      {
-        "title": "報導者：把調查報導從營業項目救成公共財的十年",
-        "desc": "從 4 位定期定額捐款者到每月 8,000 位，從《血淚漁場》三部曲到 2026 統戰專題，《報導者》十年燒掉的成本——八個月臥底、跨三國採訪、比對多年違規紀錄——正好是演算法時代最沒人想付錢看的東西。這座島嶼的公民社會用陌生人每月扣款的方式，把調查報導從商業媒體的營業項目，救成一塊一直在養、卻越燒越快的公共財。",
-        "category": "society",
-        "href": "/society/%E5%A0%B1%E5%B0%8E%E8%80%85",
-        "date": "2026-10-12T19:28:55+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/the-reporter-brand-logo.webp"
-      },
-      {
-        "title": "台灣顯示器產業：從一片 TFT-LCD 到 Micro LED 的轉身",
-        "desc": "台灣曾在 2002 年成為全球第二大面板生產與供應地；今天，顯示器產業面對規模競爭，正把製程、材料、設備與場域整合成下一代 Micro LED 的新路線。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%A1%AF%E7%A4%BA%E5%99%A8%E7%94%A2%E6%A5%AD",
-        "date": "2026-10-12T19:25:05+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣的公車系統：當新竹客運開走以後，誰來接那些沒有方向盤的人",
-        "desc": "2024 年 9 月 15 日早上，銅鑼火車站，30 多人從幼兒園小朋友等到 90 歲長者，搭新竹客運 5658 最後一班。從台北 1977 年第一條聯營路線，到偏鄉一天剩兩班、駕駛平均年齡 51 歲、TPASS 月票讓花蓮搭乘暴增近七成，公車載的始終是沒得選的人：通學的少年、不開車的長者、無車的家庭，而它正從這些人腳下被一條一條抽走。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%85%AC%E8%BB%8A%E7%B3%BB%E7%B5%B1",
-        "date": "2026-10-12T19:25:05+08:00",
-        "readingTime": 24,
-        "image": "/article-images/lifestyle/scooters-and-bus-taipei-1996.webp"
-      },
-      {
-        "title": "台灣的五到九年級生：草莓罵了三十年換三批人，斜掉的是腳下那座扶梯",
-        "desc": "1993 年「草莓族」第一次印出來時，罵的是現在最愛懷舊養樂多的五年級生。三十年來被罵的人換了好幾批，標籤一字沒改。真正在五到九年級之間移動的，是那座「努力就有回報」的扶梯：它在 2002 年前後變慢，入口被房價拉高，然後裂成兩條，純靠薪水的那條近乎停了，靠父母資本的那條還在動。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%B9%B4%E7%B4%9A%E7%94%9F%E4%B8%96%E4%BB%A3",
-        "date": "2026-10-12T19:20:49+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/budaixi-puppets-2023.webp"
-      },
-      {
-        "title": "國宅與居住正義：政府蓋的便宜房，最後養出誰的資產扶梯",
-        "desc": "1985 年成功國宅一坪 6.7 萬還沒人要，老里長湊 40 萬頭期款買下；四十年後同一個門牌逼近一坪百萬。國宅本是「幫人民買得起房」的工具，卻從沒裝上增值回收的閘門，公共補貼最後變成早買者的私人資產。2026 桃園把那道閘門裝回去，等於替國宅認錯。",
-        "category": "society",
-        "href": "/society/%E5%9C%8B%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
-        "date": "2026-10-12T19:20:49+08:00",
-        "readingTime": 16,
-        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
-      },
-      {
-        "title": "台灣流行音樂：替全世界做嫁衣的島，最後剩下能唱別人不能唱的",
-        "desc": "1997 年台灣是亞洲第二大唱片市場，全華語樂壇八成歌曲在這裡製作。2005 年產值剩四分之一，市場被中國超越，連周杰倫巔峰一張也只賣 30 萬。當別處的歌會因一句歌詞、一面旗、一個忌諱而消音，這座輸掉規模的島，把「能不能唱」本身變成最後也最硬的籌碼。",
-        "category": "music",
-        "href": "/music/%E5%8F%B0%E7%81%A3%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82",
-        "date": "2026-10-12T19:18:12+08:00",
-        "readingTime": null,
-        "image": "/article-images/music/sunflower-movement-crowd-2014.webp"
-      },
-      {
-        "title": "島嶼的最後歌聲：龍年都救不動的 0.695",
-        "desc": "2024 是龍年，台灣人理應搶生求吉利，這一年卻比前一年還少了 715 個嬰兒，48 年來第一次龍年的魔法失效。隔年生育率崩到 0.695。但真正的密碼從來不是台灣人不生（婚後逾七成生兩胎以上），而是不婚；政府卻對著「不敢生」發了十年的錢，全世界也沒有一個國家把生育率買回來過。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E5%B0%91%E5%AD%90%E5%8C%96%E5%8D%B1%E6%A9%9F",
-        "date": "2026-10-12T19:18:12+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "無名小站：撿來的電腦，賣掉的青春，和一場沒人送葬的消失",
-        "desc": "1999 年交大宿舍，六個資工系學生用系上報廢的設備拼出一個叫「無名」的 BBS。它長成全台最大的部落格、台灣第一代創作者的搖籃，2008 年甚至爬到 Yahoo 頭上成為第一大網站。然後 Yahoo 把它買走，2013 年 12 月 26 日那晚連同一代人的相簿一起刪掉，如今多數人只撈得回打不開的空相簿。它被記成青春，但那個青春從頭就放在別人關得掉的伺服器上。",
-        "category": "culture",
-        "href": "/culture/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99",
-        "date": "2026-10-12T19:12:05+08:00",
-        "readingTime": null,
-        "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
-      },
-      {
-        "title": "李灝宇：他在美國的目標，不是成為最好的台灣選手",
-        "desc": "2026 年，23 歲的李灝宇成為台灣第 19 位登上美國職棒大聯盟的球員，第一個球季就出賽 114 場、敲出 10 發全壘打，改寫台灣球員的單季出賽、打數、安打、全壘打與打點紀錄。他被問到這些紀錄時說，自己的目標從來不是成為最好的台灣選手，只是試著在美國成為一名好的球員。這一年他也第一次在打擊區遇上台灣投手鄧愷威，那是大聯盟史上第一次台灣投打對決。",
-        "category": "people",
-        "href": "/people/%E6%9D%8E%E7%81%9D%E5%AE%87",
-        "date": "2026-10-12T19:07:26+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "勇鷹高教機：一個國家第二次自己造飛機，中間隔了三十年",
-        "desc": "2026 年 9 月 24 日，最後兩架勇鷹高教機從台中沙鹿出廠，由漢翔董事長曹進平親自飛交岡山空軍官校，全案 66 架量產任務完成。台灣上一次自己設計並量產噴射戰機，是 1992 年移交空軍的 IDF 經國號；中間隔了三十年。勇鷹脫胎自 IDF，全機超過 80% 重新設計，自製率推到 55%，背後是 200 多家國內廠商被拉上航空等級。",
-        "category": "economy",
-        "href": "/economy/%E5%8B%87%E9%B7%B9%E9%AB%98%E6%95%99%E6%A9%9F",
-        "date": "2026-10-12T19:04:13+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "拔河：台灣把一個不在奧運裡的項目，練成五連霸的世界冠軍",
-        "desc": "2026 年世界室外拔河錦標賽，台灣女子 500 公斤級在決賽第一局只差 50 公分就要輸掉時，德國隊第三次犯規，台灣逆轉拿下第一局、接著再拿第二局，完成五連霸。這個項目自 1920 年之後就不在奧運裡，台灣卻從一所高中的操場開始，把它練成世界冠軍。2026 年 3 月室內世錦賽第一次在台灣舉辦，地主隊拿下 9 面金牌。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E6%8B%94%E6%B2%B3",
-        "date": "2026-10-12T18:59:31+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "傅兆玄：台灣男子田徑等了 60 年的那一跳",
-        "desc": "2026 年名古屋亞運男子跳高決賽，傅兆玄在雨中第一次試跳就過 2 公尺 25，擊敗第二次才過同一高度的印度選手拿下金牌。這是台灣在本屆亞運的第 3 面金牌，也是男子田徑自 1966 年曼谷亞運吳阿民的十項全能之後，相隔 60 年再有人站上亞運的最高一階。他 16 歲就拿過全國運動會金牌，之後卻長年在受傷與恢復之間徘徊。",
-        "category": "people",
-        "href": "/people/%E5%82%85%E5%85%86%E7%8E%84",
-        "date": "2026-10-12T18:54:04+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "王冠閎：教練是上一個站上亞運頒獎台的台灣泳將",
-        "desc": "2026 年名古屋亞運男子 200 公尺蝶式決賽，王冠閎以 1 分 55 秒 05 觸牆，拿下台灣亞運史上第一面男子游泳金牌，也是台灣泳將相隔 28 年的第二面亞運游泳金牌。池邊的教練黃智勇是 1998 年曼谷亞運銅牌、上一個站上亞運頒獎台的台灣男子泳將，師徒兩人把同一條線接了起來。",
-        "category": "people",
-        "href": "/people/%E7%8E%8B%E5%86%A0%E9%96%8E",
-        "date": "2026-10-12T18:48:00+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰",
-        "desc": "2025 年 6 月 28 日，罷免王鴻薇的團體與聲援者在大直街頭喊出「來來來，怎麼樣怎麼樣，大罷免、大成功」，這是目前能直接核對的最早公開紀錄。王鴻薇自稱原創、評論者說它源自立法院的挑釁，但沒有一份可獨立核對的原始影音能證明起源。投票否決後，同一句話被反罷免陣營倒過來用，2026 年又進了臺北市長選戰。",
-        "category": "politics",
-        "href": "/politics/%E4%BE%86%E4%BE%86%E4%BE%86%E6%80%8E%E9%BA%BC%E6%A8%A3%E6%80%8E%E9%BA%BC%E6%A8%A3",
-        "date": "2026-10-10T23:01:24+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "台灣糕餅文化",
-        "desc": "從 1877 鹿港玉珍齋的鳳眼糕到陳耀訓開賣不到 30 秒就完售的紅土蛋黃酥，台灣糕餅 150 年的層次故事。中間夾著日治一福堂的方塊鳳梨酥革命、豐原寶泉的橄欖形蛋黃酥實驗、八卦山下 270 公頃土鳳梨契作、油皮包油酥的工藝突變，以及百年漢餅鋪跟世界麵包冠軍站在同一張中秋餐桌上。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E7%B3%95%E9%A4%85%E6%96%87%E5%8C%96",
-        "date": "2026-10-10T20:55:36+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣皇蛾",
-        "desc": "翅展可達 25-30 公分、全球翅展最長的蛾類之一，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E7%9A%87%E8%9B%BE",
-        "date": "2026-10-10T20:51:58+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "台灣步道文化與公民守護",
-        "desc": "從千里步道協會到iTrail平台，探索台灣獨特的步道守護文化與公民科學精神",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%AD%A5%E9%81%93%E6%96%87%E5%8C%96%E8%88%87%E5%85%AC%E6%B0%91%E5%AE%88%E8%AD%B7",
-        "date": "2026-10-10T14:52:05+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "臺灣前途決議文：兩個字「目前」，撐了二十七年",
-        "desc": "1999 年，林濁水在「國號中華民國」前加了「目前」兩個字，扁系很不高興。兩個字同時安撫獨派和中間選民，為 2000 年首次政黨輪替打開了門。二十七年後，台灣年輕人覺得「台灣本來就是獨立的」是常識，卻不知道這份常識出自一份充滿模糊的文件。",
+        "title": "森山松之助：用三座州廳與一座法院，替台灣畫出官方的臉",
+        "desc": "1906 年，一位大阪望族出身的東京帝大畢業生來台擔任囑託，設計了全日本帝國第一座全鋼筋混凝土建築。此後十五年，森山松之助接連完成台北州廳、台中州廳、台南州廳、台南法院、專賣局、鐵道部與台灣總督府。他處理不對稱基地、複合柱式與雙動線的手法，讓殖民政府的權力有了具體形狀，也留下今天監察院、台中州廳與國立台灣文學館所在的三棟紅磚廳舍。",
         "category": "history",
-        "href": "/history/%E8%87%BA%E7%81%A3%E5%89%8D%E9%80%94%E6%B1%BA%E8%AD%B0%E6%96%87",
-        "date": "2026-10-10T08:49:47+08:00",
-        "readingTime": 10,
+        "href": "/history/%E6%A3%AE%E5%B1%B1%E6%9D%BE%E4%B9%8B%E5%8A%A9%E8%88%87%E6%97%A5%E6%B2%BB%E5%B7%9E%E5%BB%B3%E5%BB%BA%E7%AF%89",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
         "image": ""
       },
       {
-        "title": "阿婆鐵蛋：從渡船頭「海腳大飯店」的一場意外，到淡水最硬的集體記憶",
-        "desc": "1983年，一則《民生報》報導讓淡水「海腳大飯店」的黑滷蛋一夜成名。這顆因海風反覆吹乾、越滷越硬的「意外」美食，不僅見證了淡水渡船頭的興衰，更在商標爭議中留下了關於創始人阿哖婆與楊碧雲的歷史公案。",
-        "category": "food",
-        "href": "/food/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B",
-        "date": "2026-10-10T08:49:47+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "台灣散文",
-        "desc": "從外省懷鄉到本土認同，從男性文人到女性主導的文學風景。半世紀來最親近生活卻最難定義的文學形式，如何成為台灣人情感記憶的承載者？",
+        "title": "EEWH 綠建築標章：一座亞熱帶島嶼怎麼把氣候寫進建築法規",
+        "desc": "1990 年英國推出 BREEAM，1996 年美國有 LEED，1998 年加拿大有 GBTool，1999 年台灣的 EEWH 上路，是全球第四個、也是亞洲第一個綠建築評估系統。它從七項指標長成九大指標，2004 年加上分級，2011 年拆成五本專用手冊，2021 年再導入建築能效標示。這套系統的特色不是最先進，而是最平價：用綜合評分取代菜單式勾選，讓綠建築從少數示範案變成公有建築的基本門檻。",
         "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E6%95%A3%E6%96%87",
-        "date": "2026-10-10T08:49:47+08:00",
-        "readingTime": 8,
+        "href": "/art/EEWH%E7%B6%A0%E5%BB%BA%E7%AF%89%E6%A8%99%E7%AB%A0",
+        "date": "2026-10-18T23:41:23+08:00",
+        "readingTime": 10,
         "image": ""
       },
       {
-        "title": "台灣民歌運動",
-        "desc": "從「唱自己的歌」到改變整個華語音樂圈——1970年代那場屬於年輕人的文化革命",
-        "category": "music",
-        "href": "/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E6%AD%8C%E9%81%8B%E5%8B%95",
-        "date": "2026-10-10T08:49:47+08:00",
+        "title": "對場作：一座廟，兩個師傅，左右各蓋一半",
+        "desc": "台灣廟宇有一種全世界少見的施工制度：把一座廟從中軸線切開，左右兩邊交給不同匠師，各憑本事，最後拼成一棟建築。1917 年大龍峒保安宮重修，陳應彬與郭塔以中軸線為界，從前殿、鐘鼓樓到正殿交叉施作，廟方還辦徵聯比賽。結果判定郭塔落敗，他在梁柱上留下「好工手不補接」與「假獅破真獅」，把不服氣刻進了自己蓋的那半邊廟裡。",
+        "category": "culture",
+        "href": "/culture/%E5%BB%9F%E5%AE%87%E5%BB%BA%E7%AF%89%E8%88%87%E5%B0%8D%E5%A0%B4%E4%BD%9C",
+        "date": "2026-10-18T23:33:02+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "都市更新爭議：文林苑之後，台灣怎麼處理「不同意戶」",
+        "desc": "2012 年 3 月 28 日，台北市政府在士林文林苑執行代為拆除，王家兩戶合法房屋在數百名聲援者面前倒下，成為台灣都更史上最大爭議。十一次訴願訴訟王家輸了十次，法院認定王家土地是未臨建築線的袋地、無法單獨改建；大法官則在 2013 年的釋字 709 號宣告都更條例的概要審議與聽證程序違憲。案件最後以和解收場，但「多數決能不能處分少數人的財產」這個問題至今沒有標準答案。",
+        "category": "society",
+        "href": "/society/%E9%83%BD%E5%B8%82%E6%9B%B4%E6%96%B0%E7%88%AD%E8%AD%B0",
+        "date": "2026-10-18T23:30:53+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "台灣古蹟保存運動史：從林安泰古厝被拆開始的三條路線",
+        "desc": "1978 年 6 月 26 日，台北市大安區的林安泰古厝在鞭炮與香煙中開始拆除，建築師李重耀帶著工人用草繩、粉筆和七十張工程圖，把一棟兩百年的四合院拆成三萬八千塊磚石與二十四萬片瓦。這場拆遷直接催出 1982 年的《文化資產保存法》。此後保存運動分成三條路線：樂生療養院把古蹟與居住權綁在一起，台北市的老房子文化運動則把修復交給市場，成果與爭議同時出現。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E5%8F%A4%E8%B9%9F%E4%BF%9D%E5%AD%98%E9%81%8B%E5%8B%95%E5%8F%B2",
+        "date": "2026-10-18T23:28:14+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "戰後台灣現代主義建築群像：從 1967 年那份得獎名單說起",
+        "desc": "1967 年 4 月 30 日，第一屆建築金鼎獎把楊卓成的宮殿式地標與王大閎、陳其寬、修澤蘭的現代主義作品放進同一份名單。這份名單說明戰後台灣建築不是一條路線取代另一條，而是兩條路線同時在蓋。王大閎用一棟自宅做實驗，陳其寬在東海創了台灣第一個建築系，修澤蘭十三個月蓋完中山樓，漢寶德把建築變成可以教也可以展的知識，王秋華則從圖書館開始改變公共建築的想像。",
+        "category": "art",
+        "href": "/art/%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E4%B8%BB%E7%BE%A9%E5%BB%BA%E7%AF%89%E7%BE%A4%E5%83%8F",
+        "date": "2026-10-18T23:25:44+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "大象體操：沒人在唱卻聽得到歌的台灣三人組",
-        "desc": "從高師大附中熱音社與雄女熱音社的學生樂團，到 Fuji Rock 紅舞台、Camp Flog Gnaw、ArcTangent，大象體操花了 13 年讓世界聽見一個沒有主唱的台灣聲音。2024 年拿下金曲評審團獎之後，他們宣布進入長期休團；同步上映的紀錄片《比夢境更真實》揭露 2023 年巡演前夕的瀕臨解散。",
-        "category": "music",
-        "href": "/music/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D",
-        "date": "2026-10-10T08:49:47+08:00",
-        "readingTime": null,
-        "image": "/article-images/music/elephant-gym-portland-2024.webp"
+        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
+        "desc": "1994 年，一個台北出生的耶魯建築碩士搬到宜蘭，此後三十年只做一件事：把整座城市當成一個慢慢修的工地。他推動的「維管束計劃」拆掉圍牆、把被填埋的護城河重新打開，讓公共建築與街道之間沒有清楚的邊界。羅東文化工場花了十四年才蓋成，跨過兩次政黨輪替。2017 年，田中央工作群成為第一個獲邀到歐洲巡迴展出的台灣建築團隊，他本人則拿到該年首次頒給外國人的日本「吉阪隆正賞」。",
+        "category": "people",
+        "href": "/people/%E9%BB%83%E8%81%B2%E9%81%A0",
+        "date": "2026-10-18T23:21:52+08:00",
+        "readingTime": 11,
+        "image": ""
       },
       {
-        "title": "COMPUTEX：三大國際電腦展收了兩個，剩下的那個長在台北",
-        "desc": "2026 年 6 月，黃仁勳站上台北的舞台說「回到家真好」，背板上印的是肉粽和豬腳。同一個禮拜，三位執行長在這裡接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。德國 CeBIT、美國 COMDEX 都收攤了，這個 45 歲的台北電腦展卻越辦越大，因為它長在全世界近九成 AI 伺服器真正被組裝出來的島上。",
+        "title": "台灣公投制度：1947 年就寫進憲法，等了 56 年才等到一部法",
+        "desc": "2026 年 11 月 28 日的九合一選舉，同時要投一張公投票——中選會審議後只有「廢除非核家園」一案成案，編號第 22 案，主委游盈隆估計開票要開到隔日凌晨 2 時。這條線往回追，是 1947 年憲法裡就寫下的創制與複決、2003 年才立法的公投法、2018 年十案綁大選的排隊夜晚，以及 2019 年把公投和大選分開、2025 年又綁回來的鐘擺。",
+        "category": "politics",
+        "href": "/politics/%E5%8F%B0%E7%81%A3%E5%85%AC%E6%8A%95%E5%88%B6%E5%BA%A6",
+        "date": "2026-10-17T23:05:12+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "台中國家歌劇院：伊東豊雄的「美聲涵洞」與無柱無樑曲牆建築革命",
+        "desc": "由普立茲克獎得主伊東豊雄設計、被譽為「全球最難蓋建築」的台中國家歌劇院，如何以無柱無樑的曲牆與洞穴美學，改寫台灣現代建築史與美學想像。",
+        "category": "art",
+        "href": "/art/%E5%8F%B0%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%AD%8C%E5%8A%87%E9%99%A2",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "林央敏：〈毋通嫌台灣〉的作者，與一部 9000 行的台語史詩",
+        "desc": "1987 年，32 歲的林央敏寫下〈毋通嫌台灣〉，這首詩後來被譜成曲，也在民國 105 年的國慶典禮上繼續被傳唱。1991 年許景淳以它拿下金曲獎最佳台語歌后，他也同時得到最佳方言歌曲作詞人獎，卻沒有去領獎。他寫的台語史詩《胭脂淚》有 9 千行、11 萬字，是台灣文學史上最長的詩，1991 年他與林宗源、黃勁連等人成立蕃薯詩社，那是台灣第一個主張以母語寫作的社團。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E5%A4%AE%E6%95%8F",
+        "date": "2026-10-15T08:30:56+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "台灣音響產業發展",
+        "desc": "從1970年代承接日美代工起步，這座島嶼的音響產業歷經收音機、卡帶播放器到CD數位音訊的技術累積，近年轉向自有品牌與高值化，Hi-Fi品牌在國際市場建立知名度，車用與專業音響廠商技術領先，形成由中小企業主導、垂直分工且專精化程度高的完整產業鏈。",
         "category": "technology",
-        "href": "/technology/Computex",
-        "date": "2026-10-10T08:49:47+08:00",
-        "readingTime": 28,
-        "image": "/article-images/technology/computex-nangang-floor-2011.webp"
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "朱宗慶",
+        "desc": "從維也納音樂院歸來的打擊樂家，用四十年把冷門藝術帶入台灣主流樂壇；他創立台灣第一支專業打擊樂團並建立完整教學體系，從專業演出到幼兒音樂啟蒙、從音樂廳到校園遍地扎根，讓節奏與活力深植社會，獲國家文藝獎肯定，被譽為台灣打擊樂之父。",
+        "category": "people",
+        "href": "/people/%E6%9C%B1%E5%AE%97%E6%85%B6",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "陳玉勳",
+        "desc": "出身眷村的台灣喜劇導演，用五部長片建立了本土喜劇的創作語法，擅長在荒誕情境中以台式幽默與人文溫暖探討深刻人生議題；深受好萊塢喜劇大師啟發的他，以《消失的情人節》奪下金馬獎最佳劇情片，為這套語法贏得最具分量的外部認可。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E7%8E%89%E5%8B%B3",
+        "date": "2026-10-15T06:58:04+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "周杰倫",
+        "desc": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕製作助理，如今已是真正顛覆樂壇的音樂革命者。",
+        "category": "people",
+        "href": "/people/%E5%91%A8%E6%9D%B0%E5%80%AB",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "林懷民",
+        "desc": "一位沒有專業舞蹈背景的小說家在美國攻讀創作時走進舞蹈教室，回台創辦華語世界第一個職業現代舞團雲門舞集，從成立至今活躍國際舞台超過半世紀，被紐約時報譽為亞洲最重要的當代舞團，完成了從文學到肢體的表演藝術冒險旅程。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E6%87%B7%E6%B0%91",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "社會運動與公民參與",
+        "desc": "從解嚴運動、野百合學運到太陽花運動與同性婚姻合法化，台灣社會以和平理性、世代傳承的方式持續推動民主化；這些行動跨越政治、環保、勞工與性別等多元領域，多數以和平進行，也有如農民運動那般的激烈衝突，在民主進程留下具體制度痕跡。",
+        "category": "society",
+        "href": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
+        "date": "2026-10-15T06:39:19+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：瑞昱半導體",
+        "desc": "七位在外商工作的工程師以萬元在科學園區創業，用螃蟹當商標，推出台灣第一顆自主研發的網路晶片；如今這家設計公司名列台灣第三大，產品涵蓋網路控制器、音效與顯示控制晶片，廣布於全球主機板、路由器與電視等設備，讓這隻小螃蟹爬進世界各地的電腦裡。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：聯發科技",
+        "desc": "創辦人帶著從母公司分割的小團隊從晶片做起，交出鑰匙方案餵養了深圳的山寨機生態系，一度被譏為便宜貨製造商；這家公司後來手機晶片市占率領先老對手，營收突破百億美元，躍居全球第五大設計公司，印證一代拳王理論不斷進化才能不被挑戰者取代。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "台灣外貿與全球供應鏈",
+        "desc": "從年代的成衣玩具到今日半導體晶片，台北港的貨櫃日夜裝卸著台灣經濟奇蹟；這座島嶼以出口值名列全球前幾大經濟體，在半導體與資通訊產品掌握關鍵地位，對美出口首破千億美元、對中出口佔比高，深刻凸顯它在美中三角關係中的微妙位置。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
+        "date": "2026-10-15T06:18:08+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣森林生態系",
+        "desc": "在極短水平距離內，這座島嶼從海平面攀升至玉山之巔，濃縮出從熱帶到亞北極的完整林相，木麻黃、千年檜木與玉山圓柏各據一方；高覆蓋率是全球平均值的兩倍，卻幾乎全擠在垂直山壁上，年年承受颱風、地震與暴雨的考驗，是全球密度最高也最脆弱的森林之一。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
+        "date": "2026-10-15T06:09:48+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
+        "desc": "台灣網紅廣告市場規模不到美國的百分之一，單一中型創作者卻同時經營近雙倍數量的平台，變現靠聯盟行銷而非訂閱制；從科技業產品經理轉職的頻道主翁雋明以開箱、評測紅遍網路，演繹市場極小、平台極碎下，創作者如何用另一套規則存活下來。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
+        "date": "2026-10-15T06:09:48+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣公園與日常休閒",
+        "desc": "清晨的大安森林公園裡，長者跟著國樂打太極、練外丹功，午後家長帶孩子嬉戲，傍晚上班族下班散步，深夜屬於遛狗的人與需要安靜的靈魂；同一座公園在不同時段輪替登場，構成跨世代交錯使用的社交場域，也映照出台北都會日常的節奏與溫度。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
+        "date": "2026-10-15T06:09:48+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣文化創意園區發展",
+        "desc": "台灣的文創園區起源於年代的舊建築活化，以華山、松山文創園區與駁二藝術特區為代表，將廢棄酒廠、菸廠等工業設施轉型為創意產業聚落；政府推動文創產業發展計畫並立法，提供法制支持，從廢棄廠房蛻變為國際知名文化地標，兼具城市再生與產業升級的雙重意義。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣當代雕塑發展",
+        "desc": "台灣當代雕塑從傳統木雕發展而來，經歷黃土水奠定現代基礎、楊英風建立當代語彙、朱銘將東方精神融入國際視野三個世代；從現代雕塑運動起，藝術家在材料、主題與空間上屢有突破，朱銘美術館與戶外雕塑公園遍布全台，新世代持續推動多元發展，在國際展覽累積能見度與收藏認可。",
+        "category": "art",
+        "href": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "教育制度與升學文化",
+        "desc": "台灣教育以高度競爭的升學文化著稱，從九年國民義務教育延伸為十二年國教；體系分普通與技職雙軌，但社會仍偏重學術成就造成激烈競爭，近年改革強調多元發展與適性揚才，如何在競爭與多元、菁英與普及之間取得平衡，仍是這個社會面臨的核心挑戰。",
+        "category": "society",
+        "href": "/society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T06:01:11+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "台灣水庫與水資源管理",
+        "desc": "在年降雨量豐沛的雨島之上，水資源卻因降雨集中在颱風季節且雨影區明顯而常感吃緊；從石門、曾文到翡翠、南化，水庫系統承載萬人用水命脈，梅雨不來與颱風避開讓水情成為年度關鍵字，南北分配不均疊加淤積問題，嚴峻考驗這座島嶼的用水未來。",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "台灣街頭藝術與塗鴉文化",
+        "desc": "台灣街頭藝術自解嚴後隨嘻哈文化傳入，從西門町深夜噴漆的地下場景，到退伍軍人黃永阜在台中軍眷村牆面彩繪催生的彩虹村模式，高雄駁二等文創空間陸續提供合法舞台，政府邀請藝術家進駐園區，將近三十年的演進折射出社會開放與城市空間再定義的軌跡。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣冰品文化",
+        "desc": "台灣人對冰品的熱愛世界少有，冬天依然高朋滿座；這項文化可追溯至日治時期製冰技術引進，歷經戰後剉冰普及與年代雪花冰出現，台中陳溪參考日本四果冰發展出蜜豆冰，玉井芒果冰揚名海外，甚至帶動製冰冷藏漁業，是一條有具體時間節點可追溯的演變史。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
+        "date": "2026-10-15T05:44:31+08:00",
+        "readingTime": null,
+        "image": "/article-images/food/taipei-mango-shaved-ice.webp"
+      },
+      {
+        "title": "台灣眷村歷史",
+        "desc": "年起國民政府為安置隨軍眷屬興建眷村，竹籬笆、黃泥巴與鐵皮搭起一戶不到坪的臨時家園；桃園忠貞新村收容自緬北撤台的孤軍眷屬，這群人在中緬邊境打了將近四年游擊才輾轉來台，承載流亡與定居、故鄉與他鄉的辯證，最終從竹籬笆演變為國宅，成為台灣多元文化的重要基因。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
+        "date": "2026-10-15T05:41:33+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣聲音地景",
+        "desc": "從垃圾車傳出的旋律到廟口北管鑼鼓，從布農族八部合音到夜市叫賣，每一種聲響都是活的文化密碼；這裡的機車密度全球最高，引擎聲組成獨特交響曲，廟會音樂、原住民複音與庶民消費的聲音劇場層層疊疊，拼出獨一無二的城市指紋，記錄著歷史、記憶與身份認同。",
+        "category": "music",
+        "href": "/music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
+        "date": "2026-10-15T05:41:33+08:00",
+        "readingTime": 10,
+        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Moriyama Matsunosuke: Drawing Taiwan's Official Face with Three Prefectural Halls and a Courthouse",
+        "desc": "In 1906, a Tokyo Imperial University graduate from an Osaka merchant family arrived in Taiwan as a consultant and designed the first fully reinforced-concrete building in the entire Japanese Empire. Over the next fifteen years, Moriyama Matsunosuke completed the Taipei Prefectural Hall, Taichung Prefectural Hall, Tainan Prefectural Hall, Tainan Courthouse, the Monopoly Bureau, the Railway Ministry, and the Taiwan Governor-General's Office. His handling of asymmetrical sites, composite columns, and dual circulation patterns gave concrete form to colonial government authority, leaving behind three red-brick halls that today house the Control Yuan, Taichung City Government offices, and the National Taiwan Literature Museum.",
+        "category": "history",
+        "href": "/en/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "National Taichung Theater: Toyo Ito's \"Sound Cave\" and the Structural Revolution of Column-Free Curved Walls",
+        "desc": "Designed by Pritzker Prize winner Toyo Ito and hailed as \"the world's most difficult building to construct,\" the National Taichung Theater redefines Taiwan's modern architectural history and aesthetic imagination through its column-free curved walls and cave-like spatial aesthetics.",
+        "category": "art",
+        "href": "/en/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "A History of Environmental Movements in Taiwan",
+        "desc": "The developmental trajectory of Taiwan's environmental movement, from 1980s anti-pollution protests to recent plastic reduction campaigns, witnessing the intersection of environmental awareness and democratization.",
+        "category": "nature",
+        "href": "/en/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "The Formosa Incident",
         "desc": "A military trial that was supposed to completely collapse the opposition movement unexpectedly became the most powerful propaganda film for Taiwan's democracy due to its broadcast.",
@@ -375,8 +402,8 @@
         "image": ""
       },
       {
-        "title": "Ed Chi: The Taiwanese Who Taught AI to 'Think Step by Step' Brought Cognitive Psychology into Machines",
-        "desc": "Ed Chi is the Research Vice President at Google DeepMind and co-author of the Chain of Thought paper that taught AI to 'reason step by step.' This Taiwanese who grew up in Tamsui turned the cognitive psychology concept of 'how humans learn' (Piaget's schema theory) into a method for teaching machines to reason. And this breakthrough that changed AI cost only about $5,000, because it was never a problem that computing power could solve.",
+        "title": "Ed Chi: The Taiwanese Man Who Taught AI to \"Think Step-by-Step\" by Bringing Cognitive Psychology into Machines",
+        "desc": "Ed Chi is a Research Vice President at Google DeepMind and a co-author of the Chain of Thought paper. This man, raised in Tamsui, turned Piaget's schema theory into a method for machine reasoning—a breakthrough that cost only about \\$5,000 because it was never a problem of computing power.",
         "category": "people",
         "href": "/en/people/chi-huai-hsin",
         "date": "2026-10-10T23:40:25+08:00",
@@ -517,36 +544,27 @@
         "date": "2026-10-10T23:33:38+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Chiayi City: Named by an Emperor, Yet the Provincial City Most Easily Overlooked",
-        "desc": "In the 52nd year of the Qing Qianlong reign, an imperial edict renamed “Zhuluo” as “Chiayi,” making it the only city in Taiwan personally named by an emperor. In 1908, in rice paddies 3.3 kilometers southwest of the city, the Japanese erected the world’s first Tropic of Cancer monument. In 1931, Chiayi Agriculture and Forestry’s mixed squad of three ethnic groups reached the Koshien runner-up position. On March 25, 1947, the painter Chen Cheng-po was bound and executed by firing squad in front of the train station; his body was left in the street for three days. Today Chiayi City has 260,000 people and 60 square kilometers, no high-speed rail station, and is entirely surrounded by Chiayi County. It is a specimen of Taiwan’s mid-sized cities.",
-        "category": "geography",
-        "href": "/en/geography/chiayi-city",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/chiayi-city-hero.webp"
-      },
-      {
-        "title": "Chiayi County: 490,000 People Lend Their Face to Alishan, and No One Remembers the County Seat Is in Taibao",
-        "desc": "At five in the morning, the oyster racks off Dongshi are still in the water; half of the nation's oysters come from this stretch of sea. A hundred kilometers away on Alishan, the forest railway that opened to Erwanping in 1912 runs 66.6 kilometers. In between, beside Taibao's high-speed rail station, the Southern Branch of the National Palace Museum took 15 years to open, drawing 760,000 visitors in 2018. When the Chiayi County seat moved from Chiayi City to Taibao in 1991, the whole country thought Chiayi meant Chiayi City. Thirty-five years later, this county of 490,000 people surrounds a city of 270,000 that was carved out of it, with an aging index of 174%, the highest in Taiwan.",
-        "category": "geography",
-        "href": "/en/geography/chiayi-county",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Houtong: The Camera That Saved a Mountain Town Also Fed Taiwan's Largest Cat Dumping Ground; TNVR Patches Up What Tourism's Good Intentions Couldn't Finish",
-        "desc": "In 2009, photographer Chien Pei-ling (Cat Lady) walked into a forgotten mountain town along the Pingxi Line that had been abandoned for 19 years after the Ruisan coal mine ceased operations in 1990. Her camera turned Houtong into one of CNN's six best cat-watching destinations in the world in 2013. But the 'Cat Paradise' label bred Taiwan's largest cat dumping ground — a 2012 feline distemper outbreak, at least 10 cat abuse cases in 2013, and a 2022 abandonment case fined NT$110,000. In 2014, Cat Lady quit, leaving behind the words: 'Endlessly exploiting the cats, exploiting me, exploiting Houtong.' In January 2026, TNVR brought the cat population from 200–300 down to 30-something, and Mirror Weekly reported it under a 'village extinction' frame. But what disappeared wasn't the cat village — it was the 'single influencer IP propping up local revitalization' model.",
-        "category": "geography",
-        "href": "/en/geography/houtong-cat-village",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/houtong-keelung-river-2016.webp"
       }
     ],
     "ja": [
+      {
+        "title": "森山松之助：三つの州庁舎と一つの裁判所で、台湾に官方の顔を描く",
+        "desc": "1906年、大阪の名門出身で東京帝国大学を卒業した一人の建築家が台湾に赴任し、日本帝国全域で初めての全鉄筋コンクリート造建築を設計しました。その後15年間、森山松之助は台北州庁舎、台中州庁舎、台南州庁舎、台南裁判所、専売局、鉄道部、台湾総督府を次々と完成させました。非対称の敷地、複合柱式、双動線の手法により、植民地政府の権力に具体的な形を与え、今日の監察院、台中州庁舎、国立台湾文学館の所在地となった三棟の赤煉瓦庁舎を遺しました。",
+        "category": "history",
+        "href": "/ja/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "台中国家歌劇院：伊東豊雄の「美声涵洞」と無柱無梁の曲壁建築革命",
+        "desc": "プリツカー賞受賞者である伊東豊雄が設計し、「世界で最も建設が難しい建築」と称される台中国家歌劇院が、無柱無梁の曲壁と洞窟美学によって、いかに台湾の現代建築史と美学的想像を書き換えたか。",
+        "category": "art",
+        "href": "/ja/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "AI人工知能産業",
         "desc": "NVIDIAチップの製造からAIエコシステムの構築へ、台湾はAI時代にどう自らの位置づけを見出すか",
@@ -576,7 +594,7 @@
       },
       {
         "title": "台湾ソフトウェア産業の発展",
-        "desc": "受託製造思考からソフトウェア革新へ、台湾がポスト半導体時代に新たな定位を見出すまで",
+        "desc": "デジタル経済時代において、純粋なハードウェア製造の付加価値が圧迫される中、ソフトウェアとサービスが真の価値創造者となっています。経済部統計処のデータによると、2023年のコンピュータおよび情報サービス業の年間売上高は約5,700億ニュー台湾ドル、前年比8.9%増で過去最高を記録しました。デジタル変革、ソフトウェアサービス、AI応用からゲーム産業まで、台湾が「製造大国」から「イノベーション大国」へ転換する上で、ソフトウェア産業はこの転換の鍵となる戦場です。",
         "category": "technology",
         "href": "/ja/technology/taiwan-software-industry-development",
         "date": "2026-10-10T23:46:16+08:00",
@@ -798,27 +816,45 @@
         "date": "2026-10-10T23:45:03+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "台北車站：人を送り出す地下都市、そして人を留める場所",
-        "desc": "台北車站は淡水河と大稻埕に近い鉄道碼頭から始まり、1989年に第四代地下化駅舎が開業しました。今日では台鉄、台湾高速鉄道、台北捷運、桃園機場捷運がここで交差します。それは単に人を離れさせるだけでなく、大廳、地下街、月台、弁当を通じて人々が滞在、集い、都市の記憶を築く場でもあります。",
-        "category": "history",
-        "href": "/ja/history/taipei-main-station",
-        "date": "2026-10-10T23:45:03+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "台湾の選挙と政党政治",
-        "desc": "中壢事件の火光から817万票の投票まで、台湾が半世紀かけて投票を戒厳令下の道具から国民の信仰へと変えた過程",
-        "category": "history",
-        "href": "/ja/history/taiwan-elections-and-party-politics",
-        "date": "2026-10-10T23:45:03+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "모리야마 마쓰노스케: 세 개의 주청과 하나의 법원으로 타이완의 공식적인 얼굴을 그리다",
+        "desc": "1906년, 오사카 명문가 출신의 도쿄제국대학 졸업생이 타이완에서 촉탁으로 근무하며 일본 제국 최초의 전 철근 콘크리트 건축물을 설계했다. 이후 15년 동안 모리야마 마쓰노스케는 타이베이 주청, 타이중 주청, 타이난 주청, 타이난 법원, 전매국, 철도부 및 타이완 총독부를 차례로 완공했다. 비대칭 대지, 복합 기둥 양식, 이중 동선을 처리하는 그의 수법은 식민 정부의 권력에 구체적인 형상을 부여했으며, 오늘날 감찰원, 타이중 주청, 국립 타이완 문학관이 위치한 세 채의 붉은 벽돌 청사를 남겼다.",
+        "category": "history",
+        "href": "/ko/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "위우잉 국가예술문화센터: 담장 없는 극장으로 변신한 군사 기지",
+        "desc": "1992년 시민 운동이 가오슝 위우잉을 군사 용지의 미래에서 공공 담론으로 돌려놓았으며, 2018년 10월 13일 15년과 107.5억 대만 달러(NT$)의 공사를 거쳐 개관했다. 반얀나무 같은 지붕 아래 네 개의 공연장이 숨겨져 있지만, 이 건물이 진정으로 답해야 할 질문은 예술이 티켓을 구매하기 전부터 도시의 일상이 될 수 있는지이다.",
+        "category": "art",
+        "href": "/ko/art/weiwuying-arts-center",
+        "date": "2026-10-16T11:48:43+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "타이중 국립극장: 이토 요시오의 '사운드 케이브'와 기둥 없는 곡벽 건축 혁명",
+        "desc": "프리츠커상 수상자인 이토 요시오가 설계하고 '세계에서 가장 짓기 어려운 건물'로 불리는 타이중 국립극장이 어떻게 기둥과 보가 없는 곡벽 및 동굴 미학을 통해 대만 현대 건축사와 미학적 상상을 재정의했는지에 대한 기록.",
+        "category": "art",
+        "href": "/ko/art/national-taichung-theater",
+        "date": "2026-10-15T13:59:52+09:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "대규모 소환 운동: 33건 전부 부결된 역사상 최대 소환 운동, 타이완 민주주의의 모든 눈금을 측정하다",
+        "desc": "2025년 7월 26일 심야, 대만 전역 3분의 1 선거구에서 동시 개표, 25개 소환안 전부 부결. 청조 행동에서 130만 명 이상의 서명, 3차 투표 33건 제로 기록에 이르기까지, 이 타이완 역사상 최대 규모 소환 운동은 한 사람도 소환하지 못했지만, 민주주의의 동원 에너지, 문턱의 높이, 양극화의 대가를 처음으로 동시에 측정해냈다.",
+        "category": "history",
+        "href": "/ko/history/great-recall-movement-2024",
+        "date": "2026-10-13T13:40:34+09:00",
+        "readingTime": 22,
+        "image": "/article-images/history/recall-bluebird-legislative-yuan-2024.webp"
+      },
       {
         "title": "가난 대저수지: 물이 부족해 모든 논에 물을 대지 못해 3년 윤작이 탄생했다",
         "desc": "1920년 착공, 1930년 완공된 가난 대저수지는 우산두 저수지와 1만 km가 넘는 수로를 가난 평원에 연결해 약 15만 헥타르의 농지를 지탱했다. 이 시스템이 가장 중요하게 이해되어야 할 점은 바타 요이치의 개인전기라기보다, 물이 부족할 때 농민들이 어떻게 공동으로 분배를 감당했는지에 있다.",
@@ -1052,45 +1088,27 @@
         "date": "2026-10-10T23:46:19+08:00",
         "readingTime": 20,
         "image": "/article-images/people/mona-rudao-seediq-leaders-1931.webp"
-      },
-      {
-        "title": "닉스타: 라이브 방송을 복싱장으로, 그리고 입장을 카메라 앞까지 밀어붙이다",
-        "desc": "2024년부터 닉스타는 복싱, 게임, 화상 데이트, 라이브 상호작용을 고밀도의 인터넷 퍼포먼스로 융합했다. 2025년 그는 <나는 바이섹슈얼입니다>와 국경 간 라이브 방송을 통해 사적인 정체성과 대만의 입장을 동일한 카메라 렌즈 앞에 배치했다. 이 글은 그를 단순한 트래픽 인플루언서로 환원하지 않고, 한 크리에이터가 복싱 링, 채팅방, 음악, 그리고 논쟁을 하나의 실시간 현장으로 어떻게 통합하는지 추적하며, 공개된 자료가 무엇을 증명하고 무엇을 증명하지 못하는지 설명한다.",
-        "category": "people",
-        "href": "/ko/people/nick-star-streamer",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "성카이 사: 찜 계란 단편 영상에서 냉동 명절 요리까지, 요리 인플루언서의 신뢰 비용",
-        "desc": "황성카이(黃聖凱)는 16세에 접시를 나르는 일부터 시작해 24세에 대출과 저금으로 식당을 차렸고, 찜 계란 영상 하나로 백만 팔로워의 스마트폰으로 들어갔다. 성카이(聖凱師)의 이야기는 요리 창업이 콘텐츠로 어떻게 증폭되는지를 넘어, 요리가 주방에서 냉동 상품으로 변할 때 시청자의 신뢰가 어떻게 브랜드의 품질 책임으로 전환되는지를 다룬다.",
-        "category": "people",
-        "href": "/ko/people/sheng-kai-shih-chef",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "哈哈台: 길거리 인터뷰로 탄생한 대만의 유튜브 왕국",
-        "desc": "2015년 개국, 2019년 '길거리에서 만나는 평범한 사람들' 시리즈로 폭발적인 인기를 얻은 유튜브 채널 '하하타이(HahaTai)'는 백만 조회수를 돌파한 '闲人(여유인)' 영상과 날카로운 내레이션으로 대만 전역은 물론 싱가포르, 호주까지 촬영 범위를 넓혔다. '차이징 어워드(走鐘獎)' 올해의 영상상을 수상하는 등 성공을 거두었으나, '가짜 길거리 시민' 조작 파문으로 인한 신뢰 위기도 겪었다. 이 글은 낯선 사람들의 진심을 어떻게 대만 전역의 공명으로 만들었는지, 그리고 10년간의 궤적을 재조명한다.",
-        "category": "society",
-        "href": "/ko/society/hahatai",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "한국인의 대만 생활: 가오슝 한국교민학교에서 스마트폰 화면의 일상 네트워크까지",
-        "desc": "대만의 한국인은 단순한 눈에 띄는 인플루언서가 아니라, 가오슝의 구(舊) 커뮤니티, 바이링 교육, 청년 교류, 해외 유학생 및 가족이 함께 엮어낸 일상이다.",
-        "category": "society",
-        "href": "/ko/society/koreans-in-taiwan",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Moriyama Matsunosuke: Tres edificios de gobernación y un tribunal que dieron rostro oficial a Taiwán",
+        "desc": "En 1906, un graduado de la Universidad Imperial de Tokio, originario de una familia distinguida de Osaka, llegó a Taiwán como contratista y diseñó el primer edificio completamente de hormigón armado de todo el Imperio japonés. Durante los quince años siguientes, Moriyama Matsunosuke completó sucesivamente los edificios de gobernación de Taipéi, Taichung y Tainan, el tribunal de Tainan, la Oficina de Monopolios, el Ministerio de Ferrocarriles y el Palacio del Gobernador General de Taiwán. Su manejo de terrenos asimétricos, órdenes arquitectónicos complejos y circulaciones duales dotó de forma concreta al poder del gobierno colonial, dejando hoy tres edificios de ladrillo rojo que albergan la Comisión de Control, el Edificio de Gobernación de Taichung y el Museo Nacional de Literatura de Taiwán.",
+        "category": "history",
+        "href": "/es/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Teatro Nacional de Taichung: la \"cueva sonora\" y la revolución arquitectónica de las paredes curvas sin pilares de Toyo Ito",
+        "desc": "Diseñado por el premio Pritzker Toyo Ito y calificado como \"la obra más difícil de construir del mundo\", el Teatro Nacional de Taichung muestra cómo sus paredes curvas sin pilares y estética de cueva reescriben la historia y la imaginación de la arquitectura moderna de Taiwán.",
+        "category": "art",
+        "href": "/es/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "Tanya Chua: Cuatro veces ganadora del Grammy; ¿Cómo hizo una persona de Singapur que Taiwán fuera su escenario principal?",
         "desc": "Desde que un tecladista le pidió callar en un bar de Singapur en 1996, hasta ganar cuatro premios en una noche en el 33.º Premios Golden Melody en 2022, Tanya Chua se ha convertido en la única ganadora cuádruple de la industria musical en idioma chino. Ella no nació en Taiwán, pero los Premios Golden Melody, su residencia, sus colaboradores y las canciones más populares están arraigados en Taiwán; esta identidad local de una artista extranjera es la elección que hizo al cancelar su contrato con Warner en 2006, mudarse a Taipéi y fundar \"Tianya Music Studio\".",
@@ -1228,7 +1246,7 @@
       },
       {
         "title": "Literatura indígena",
-        "desc": "Desde las canciones sin palabras hasta la escritura, una historia milenaria de evolución literaria",
+        "desc": "Desde la publicación de obras intelectuales en 1932, la literatura de los pueblos indígenas de Taiwán ha pasado de la tradición oral a la escrita, representando una revolución del pensamiento y un puente hacia el mundo austronesio.",
         "category": "art",
         "href": "/es/art/indigenous-literature",
         "date": "2026-10-10T23:40:32+08:00",
@@ -1326,8 +1344,8 @@
         "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
       },
       {
-        "title": "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'",
-        "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año.",
+        "title": "La Espada Yitian del Río Daan: el árbol más alto de Asia Oriental, oculto durante 700 años en un lugar inaccesible para nosotros",
+        "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
         "category": "nature",
         "href": "/es/nature/daan-river-yitian-sword",
         "date": "2026-10-10T23:40:32+08:00",
@@ -1342,27 +1360,27 @@
         "date": "2026-10-10T23:40:32+08:00",
         "readingTime": 7,
         "image": ""
-      },
-      {
-        "title": "Hsu Cho-yun: Dos dedos escriben el largo río de la historia de China, el tío-abuelo materno de Wang Leehom",
-        "desc": "Nacido en 1930 en Xiamen, llegó a Taiwán en 1949 con el gobierno nacionalista y se mudó a Pittsburgh en 1970. Historiador con discapacidad física congénita que pasó toda su vida en silla de ruedas, pero que con solo dos dedos capaces de ejercer fuerza tecleó el teclado para completar casi cuarenta obras. Ganador de la sexta edición del Premio Tang de Estudios Chinos en 2024, donó los 50 millones de NT$ completos para crear la \"Beca Hsu-Sun\"; es el tío-abuelo materno de Wang Leehom y el tío materno de Li Jianfu. Antes de fallecer en agosto de 2025, dejó una frase: \"En el momento de mi último aliento, aún estaba aprendiendo\".",
-        "category": "people",
-        "href": "/es/people/cho-yun-hsu-bridging-historian",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/hsu-cho-yun-academia-sinica-hero.webp"
-      },
-      {
-        "title": "Dwagie: el «director» del rap en taiwanés salido de una sala de ensayo de Tainan",
-        "desc": "Dwagie (大支, nombre real Tseng Kuan-jung) es un rapero taiwanés nacido en Tainan y fundador del estudio musical Kung Fu Entertainment (人人有功練). Desde el tablón de MU y el álbum «Lotus from the Tongue» de Magic Stone Records hasta «Taiwan Song», «Refugee», los derechos de los animales, «The Rappers» y la enseñanza del hip hop en Tainan, ha metido en un mismo micrófono el rap en taiwanés, los escenarios locales, los asuntos públicos, la formación de una nueva generación y la conciencia de Taiwán como sujeto. Y ha convertido Tainan en un lugar que la historia del rap taiwanés no puede saltarse.",
-        "category": "people",
-        "href": "/es/people/dwagie",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 14,
-        "image": "/article-images/music/dwagie-portrait-2019.webp"
       }
     ],
     "fr": [
+      {
+        "title": "Moriyama Matsunosuke : trois préfectures et un tribunal pour donner un visage officiel à Taïwan",
+        "desc": "En 1906, un diplômé de l'Université impériale de Tōkyō, issu d'une famille prestigieuse d'Osaka, arrive à Taïwan comme attaché et conçoit le premier bâtiment entièrement en béton armé de tout l'empire japonais. Au cours des quinze années suivantes, Moriyama Matsunosuke réalise successivement les préfectures de Taipei, Taichung et Tainan, le tribunal de Tainan, le Bureau du monopole, le ministère des Chemins de fer et le Palais du gouverneur général de Taïwan. Sa maîtrise du traitement des terrains asymétriques, des ordres composites et des circulations doubles donne une forme concrète au pouvoir du gouvernement colonial, et laisse aujourd'hui trois bâtiments en brique rouge : le siège de la Commission de contrôle, la préfecture de Taichung et le Musée national de la littérature taïwanaise.",
+        "category": "history",
+        "href": "/fr/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Le Théâtre National de Taïwan : L'« Caverne Sonore » d'Toyo Ito et la Révolution Architecturale Sans Piliers ni Murs Droits",
+        "desc": "Comment le Théâtre National de Taïwan, conçu par le lauréat du prix Nobel Toyo Ito et réputé « l'immeuble le plus difficile à construire au monde », a réécrit l'histoire et l'imaginaire architectural moderne de Taïwan grâce à son esthétique des murs courbes sans piliers ni poutres.",
+        "category": "art",
+        "href": "/fr/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms",
         "desc": "En 1987, un jeune Tsou de dix-neuf ans est exécuté dans une prison de Taipei. Sa mort allume la première flamme du mouvement pour la reconnaissance des noms.",
@@ -1427,8 +1445,8 @@
         "image": ""
       },
       {
-        "title": "Réservoirs et gestion des ressources en eau à Taïwan",
-        "desc": "De la crise de sécheresse à l'envasement des barrages, les défis de la gestion de l'eau à Taïwan et les inégalités de répartition entre le nord et le sud",
+        "title": "Barrages de Taïwan et gestion des ressources en eau",
+        "desc": "Sur une île pluvieuse à forte pluviométrie annuelle, les ressources en eau sont souvent tendues en raison de précipitations concentrées durant la saison des typhons et d'un effet d'ombre pluviométrique marqué.",
         "category": "geography",
         "href": "/fr/geography/taiwan-reservoirs-and-water-resource-management",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1589,8 +1607,8 @@
         "image": ""
       },
       {
-        "title": "L'architecture de Taïwan",
-        "desc": "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île",
+        "title": "Architecture de Taïwan",
+        "desc": "Des maisons en pierre du peuple Paiwan aux bâtiments en briques rouges laissés par Matsunosuke Moriyama, des lignes de Wang Da-hong qui ont jeté les bases de l'architecture moderne aux édifices publics sans clôture construits par Huang Sheng-yuan au milieu des rizières d'Yilan. Au cours des quatre cents dernières années, la sagesse architecturale des autochtones, des Hollandais, des Japonais et des Chinois s'est entrechoquée sur cette île, une caractéristique hybride que la Biennale d'architecture de Venise a décrite comme « maintenir la localité dans la mondialisation ».",
         "category": "art",
         "href": "/fr/art/taiwanese-architecture",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1614,27 +1632,27 @@
         "date": "2026-10-10T23:40:35+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Lien-Cheng Wang (Xia Ba) : L'artiste taïwanais d'installations sonores qui fait tourner 23 machines pour lire simultanément les _Analectes_",
-        "desc": "Né à Taipei en 1985, diplômé de l'Université nationale Donghua (génie informatique) et de l'Université nationale des arts de Taipei (arts technologiques). En 2017, il remporte le premier prix de sculpture du Lumen Prize à Londres avec _Reading Plan_ (23 machines à tourner les pages lisant simultanément les _Analectes_), suivi l'année suivante par le premier prix du Taipei Fine Arts Prize. Membre du groupe d'art sonore taïwanais i/O Lab, curateur de _Lacking Sound Festival_ (2009-2010), l'un des six artistes du projet _Project %_ de FAB DAO, il est actuellement professeur adjoint au département des arts des nouveaux médias de l'Université nationale des arts de Taipei. De l'exposition personnelle _Beyond Consciousness_ (2022) au Musée des Beaux-Arts de Taïpei avec cinq installations automatiques, à _Beyond the Machine_ (2025) au Musée d'art Guandu qui interroge l'éthique de l'IA via des plateformes automatisées de statues bouddhistes, chrétiennes et divinités taoïstes, Lien-Cheng Wang est un créateur taïwanais qui inscrit les trois fils de l'algorithme, de la mécanique et du son dans une même histoire de l'art sonore contemporain.",
-        "category": "art",
-        "href": "/fr/art/wang-lien-cheng-artist",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "EggPlantEgg — le groupe qui a réinventé la chanson taïwanaise",
-        "desc": "Avec leur rock « romantisme taïwanais » et leur récit du vagabond contemporain, les EggPlantEgg ont libéré la chanson en langue taïwanaise de ses clichés mélancoliques, lui insufflant une vitalité nouvelle et une identité culturelle forte. Leur succès redéfinit le visage actuel de la pop taïwanaise.",
-        "category": "music",
-        "href": "/fr/music/eggplant-egg-band",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "vi": [
+      {
+        "title": "Moriyama Matsunosuke: Dùng ba tòa nhà châu và một tòa Tòa án để vẽ nên khuôn mặt chính thức của Đài Loan",
+        "desc": "Năm 1906, một cử nhân Đại học Đế quốc Tokyo xuất thân từ gia tộc Osaka đến Đài Loan làm cố vấn và thiết kế tòa nhà bê tông cốt thép đầu tiên toàn bộ Đế quốc Nhật Bản. Trong mười lăm năm tiếp theo, Moriyama Matsunosuke hoàn thành liên tiếp Tòa nhà châu Đài Bắc, Tòa nhà châu Đài Trung, Tòa nhà châu Đài Nam, Tòa án Đài Nam, Cục Chuyên bán, Bộ Đường sắt và Tổng Toàn quyền Đài Loan. Cách xử lý của ông đối với các nền móng không đối xứng, các cột phức hợp và hai dòng chuyển động đã cho phép quyền lực của chính quyền thuộc địa có hình dáng cụ thể, đồng thời để lại ba tòa nhà gạch đỏ ngày nay là nơi đặt Viện Kiểm sát, Tòa nhà châu Đài Trung và Thư viện Văn học Quốc gia Đài Loan.",
+        "category": "history",
+        "href": "/vi/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Nhà hát Quốc gia Đài Trung: \"Hang Âm Thanh\" của Toyo Ito và Cuộc Cách Mạng Kiến Trúc Tường Uốn Lượn Không Cột, Không Dầm",
+        "desc": "Nhà hát Quốc gia Đài Trung, được kiến trúc sư đoạt giải Nobel Toyo Ito thiết kế và mệnh danh là \"tòa nhà khó xây nhất thế giới\", đã tái định nghĩa lịch sử kiến trúc và tư duy thẩm mỹ hiện đại của Đài Loan bằng cấu trúc tường uốn lượn không cột, không dầm và triết lý hang động.",
+        "category": "art",
+        "href": "/vi/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "Bạch Tiên Dũng: 《Người Taipei》1971, đến phiên bản thanh xuân 《Mộc Đan Đình》 hai mươi năm lưu diễn",
         "desc": "Sinh năm 1937 tại Quế Lâm, Quảng Tây, con trai của Bạch Trùng Hy. Năm 1956 khoa Ngoại văn Đại học Đài Loan, cùng Vương Văn Hưng và những người khác sáng lập 《Văn học hiện đại》。Năm 1971 《Người Taipei》 14 truyện ngắn. Năm 1983 《Nghiệt tử》。Năm 2003 khởi động phiên bản thanh xuân 《Mộc Đan Đình》, tháng 4 năm 2004 công diễn lần đầu, năm 2024 đón nhận 20 năm. Năm 2003 nhận Giải thưởng Văn nghệ Quốc gia.",
@@ -1886,27 +1904,27 @@
         "date": "2026-10-10T23:43:08+08:00",
         "readingTime": 18,
         "image": "/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp"
-      },
-      {
-        "title": "Tân Bắc: Đô thị vùng quanh bao Đài Bắc, 4,01 triệu người nâng đỡ trung tâm thủ đô qua thời gian đi lại, công nghiệp và ký ức",
-        "desc": "Thành phố Hùng Sơn đỏ từ năm 1628 khi người Tây Ban Nha đặt viên gạch đầu tiên, đã qua 398 năm. Sớm hơn năm 1875 khi Trần Bảo Chân thành lập Đài Bắc phủ 247 năm. Hôm nay Tân Bắc 29 quận bao quanh Đài Bắc 12 quận, 4,01 triệu người sống trong thành phố trực thuộc lớn nhất toàn Đài Loan, 390.000 người đi làm xuyên tỉnh lên Đài Bắc. Nhưng đô thị «vùng quanh» này không phải thành phố ngủ của Đài Bắc — nó có năm 1853 gia tộc Lâm Bản Nguyên ở Bản Kiều, năm 1869 trà ô-long từ Đạm Thủy bán tới New York, thập niên 1890 mỏ vàng lớn nhất Châu Á Cửu Phần Cầm Quả Thạch, năm 1929 tuyến đường sắt Bình Tất vận chuyển than đá, năm 1947 Lý Mai Thụ（李梅樹） bắt đầu chạm khắc điện thờ Tổ Sư Tam Tích, bộ lạc Đảo Xanh Thái Nghi ở Chiêu Lai. Tân Bắc là bản rút gọn 400 năm Đài Loan, vừa tình cờ nằm ngoài thành phố Đài Bắc.",
-        "category": "geography",
-        "href": "/vi/geography/new-taipei-city",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Tư Lâm (士林): Vùng đất của tộc Kadashan, ngôi miếu của tranh chấp Tương-Tuyền, và hôm nay là chợ đêm đông đúc nhất Đài Bắc",
-        "desc": "Lúc 7 giờ 30 tối, khách du lịch Hàn Quốc ở ngã tư chợ đêm Tư Lâm nâng cao chiếc gà chiên giòn to để tự sướng, bên cạnh miếu Từ Tuyên số 84 đường Đại Nam từ năm 1796 niên hiệu Gia Chánh đã đứng tới năm 2026 được 230 tuổi. Năm 1859 người Tương Châu bị đánh ra từ con phố này bởi người Tuyền Châu, năm 1860 Phan Vĩnh Thanh vẽ ra bốn con đường: đại lộ Đông, Tây, Bắc, Nam ở Hạ Thứ Lâm với ngôi miếu ở trung tâm, đặt những cánh cổng nhỏ ở các góc đường để phòng chống người Tuyền Châu tấn công lại. Năm 1909 người Nhật bây tỏ lập chợ đối diện miếu, năm 1955 rạp Dương Minh khai trương trên đường Văn Lâm, năm 1992 gà chiên giòn nổi danh được phát minh ở Đài Trung, năm 1999 vào Tư Lâm. Năm 2002 cơ quan thành phốtháo dỡnhững cấu trúc tạm sau chiến tranh, năm 2011 chợ mới hoàn thành, phố ẩm thực dưới lòng đất từ sáng tới tối xoay ba ca người. Ngôi miếu vẫn còn tại nguyên vị trí, nhưng chân nó mỗi ngày lại xoay hai thành phố.",
-        "category": "geography",
-        "href": "/vi/geography/shilin",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
       }
     ],
     "id": [
+      {
+        "title": "Moriayama Matsunosuke: Melukis Wajah Resmi Taiwan dengan Tiga Gedung Negara Bagian dan Satu Pengadilan",
+        "desc": "Pada 1906, seorang lulusan Universitas Kekaisaran Tokyo dari keluarga terkemuka Osaka datang ke Taiwan sebagai konsultan dan merancang bangunan beton bertulang penuh pertama di seluruh Kekaisaran Jepang. Dalam lima belas tahun berikutnya, Moriayama Matsunosuke menyelesaikan Gedung Negara Bagian Taipei, Gedung Negara Bagian Taichung, Gedung Negara Bagian Tainan, Pengadilan Tainan, Biro Monopoli, Departemen Kereta Api, dan Kantor Gubernur Jenderal Taiwan. Cara beliau menangani lahan asimetris, kolom komposit, dan alur sirkulasi ganda memberikan bentuk konkret pada kekuasaan pemerintah kolonial, dan meninggalkan tiga gedung bata merah yang masih berdiri hari ini: Komisi Pengawas, Gedung Negara Bagian Taichung, dan Museum Sastra Taiwan Nasional.",
+        "category": "history",
+        "href": "/id/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Teater Nasional Taiwan: \"Sound Cave\" Toyo Ito dan Revolusi Arsitektur Dinding Melengkung Tanpa Pilar dan Balok",
+        "desc": "Bagaimana Teater Nasional Taiwan, yang dirancang oleh pemenang Hadiah Nobel Pratzek Toyo Ito dan dijuluki \"bangunan tersulit di dunia,\" menulis ulang sejarah arsitektur modern dan imajinasi estetika Taiwan melalui dinding melengkung tanpa pilar dan konsep gua?",
+        "category": "art",
+        "href": "/id/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "Festival Penyambutan Raja Wang Donggang untuk Keselamatan: Sebuah Kapal yang Tidak Melaut, Bagaimana Ia Mengangkut Kenangan Lokal",
         "desc": "Festival Penyambutan Raja Wang Donggang untuk Keselamatan bukan hanya sebuah pesta kuil pembakaran kapal raja, melainkan melalui kapal raja, pasukan palanquin, perkeliling wilayah, upacara kapal raja, dan upacara pengantaran raja, melestarikan kenangan laut, tatanan kepercayaan, teknik kerajinan, dan gotong royong lokal dari permukiman pelabuhan ikan Pingtung. Artikel ini memulai dari kapal raja, ketujuh kepala wilayah, siklus tiga tahun, dan pelestarian aset budaya untuk memahami bagaimana tradisi ini berlanjut di era kontemporer.",
@@ -2158,27 +2176,27 @@
         "date": "2026-10-10T23:41:59+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Gerakan Revitalisasi Bahasa Suku Asli Taiwan",
-        "desc": "Suku Thao Taiwan hanya tersisa 4 penutur asli, namun melahirkan salah satu eksperimen revitalisasi bahasa paling intensif di dunia. Mulai dari Undang-Undang Pengembangan Bahasa Suku Asli 2017 hingga platform bahasa suku digital, sebuah penyelamatan diam-diam sedang dipercepat.",
-        "category": "culture",
-        "href": "/id/culture/indigenous-language-revitalization-movement",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Peta Budaya 16 Kelompok Masyarakat Adat Taiwan",
-        "desc": "“16” bukanlah angka yang terbentuk secara alami, melainkan hasil perundingan. Dari sekitar 210.000 orang Amis hingga 441 orang Kanakanavu, kedalaman budaya masyarakat adat Taiwan jauh melampaui daftar resmi mana pun.",
-        "category": "culture",
-        "href": "/id/culture/indigenous-peoples-16-tribes-cultural-map",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 9,
-        "image": ""
       }
     ],
     "pt": [
+      {
+        "title": "Moriyama Matsunosuke: com três edifícios de prefeitura e um tribunal, desenhou o rosto oficial de Taiwan",
+        "desc": "Em 1906, um diplomado da Universidade Imperial de Tóquio, descendente de uma família proeminente de Osaka, chegou a Taiwan como contratado e projetou o primeiro edifício totalmente de concreto armado de todo o Império Japonês. Nos quinze anos seguintes, Moriyama Matsunosuke completou sucessivamente a Prefeitura de Taipei, a Prefeitura de Taichung, a Prefeitura de Tainan, o Tribunal de Tainan, o Departamento de Monopólio, o Departamento de Ferrovias e o Palácio do Governador-Geral de Taiwan. Sua abordagem ao lidar com terrenos assimétricos, ordens de colunas compostas e circulações duplas deu forma concreta ao poder do governo colonial, deixando hoje três edifícios de tijolos vermelhos que abrigam o Yuan de Controle, a Prefeitura de Taichung e a Biblioteca Nacional de Literatura Taiwanesa.",
+        "category": "history",
+        "href": "/pt/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Teatro Nacional de Taichung: a \"Caverna Sonora\" e a revolução da arquitetura sem pilares de Toyo Ito",
+        "desc": "Projetado pelo arquiteto japonês Toyo Ito, ganhador do Prêmio Pritzker, e considerado \"o edifício mais difícil de construir do mundo\", o Teatro Nacional de Taichung mostra como as cortinas onduladas sem pilares e a estética de caverna redefinem a história e a imaginação da arquitetura moderna em Taiwan.",
+        "category": "art",
+        "href": "/pt/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "O Incidente do Clube Peônia: Colisão de Civilizações e Consciência de Soberania sob o Vale de Shimen",
         "desc": "Em 1874, uma ação militar desencadeada por um naufrágio transformou o Vale de Shimen, no extremo sul de Taiwan, no epicentro do novo panorama da Ásia Oriental. Este evento não foi apenas o teste de fogo da expansão do Império do Japão, mas também o ponto de virada no destino da Dinastia Qing, que passou da defesa periférica para uma governação ativa.",
@@ -2225,8 +2243,8 @@
         "image": ""
       },
       {
-        "title": "Reservatórios e Gestão de Recursos Hídricos em Taiwan",
-        "desc": "Da crise de escassez hídrica à acumulação em reservatórios, os desafios dos recursos hídricos em Taiwan e a dificuldade da distribuição desigual entre norte e sul",
+        "title": "Reservatórios de Taiwan e Gestão de Recursos Hídricos",
+        "desc": "Em uma ilha chuvosa com precipitação anual abundante, os recursos hídricos são frequentemente escassos devido à concentração de chuvas na temporada de tufões e às zonas de sombra de chuva; de Shimen a Zengwen, de Feicui a Nanhua, o sistema de reservatórios sustenta a vida de milhões.",
         "category": "geography",
         "href": "/pt/geography/taiwan-reservoirs-and-water-resource-management",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2270,8 +2288,8 @@
         "image": ""
       },
       {
-        "title": "Arte de Rua e Cultura de Graffiti em Taiwan",
-        "desc": "Do graffiti underground à pintura legalizada, como as paredes da cidade se tornaram o palco de criação dos artistas de Taiwan",
+        "title": "Arte de Rua e Cultura de Grafite em Taiwan",
+        "desc": "A arte de rua em Taiwan surgiu com a cultura hip-hop após o fim da lei marcial, evoluindo de cenas clandestinas em Ximending para modelos de \"vilas coloridas\" e espaços culturais legítimos.",
         "category": "culture",
         "href": "/pt/culture/taiwan-street-art-and-graffiti-culture",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2405,8 +2423,8 @@
         "image": ""
       },
       {
-        "title": "Os Ecossistemas Florestais de Taiwan",
-        "desc": "Uma viagem vertical do nível do mar ao topo do Monte Jade, atravessando o espectro florestal mais denso da Terra.",
+        "title": "Ecossistemas Florestais de Taiwan",
+        "desc": "Em uma distância horizontal curtíssima, esta ilha sobe do nível do mar ao topo de Yushan, concentrando todos os tipos de florestas, do tropical ao subártico.",
         "category": "nature",
         "href": "/pt/nature/taiwan-forest-ecosystems",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2415,7 +2433,7 @@
       },
       {
         "title": "Chen Yu-hsun",
-        "desc": "Diretor de cinema de comédia de Taiwan, criador de \"Peixes Tropicais\", \"O Mestre dos Banquetes\" e \"O Dia dos Namorados que Desapareceu\"",
+        "desc": "Diretor de comédia taiwanês nascido em uma vila de dependentes militares, que estabeleceu uma gramática criativa para a comédia local com cinco longas-metragens, destacando-se por explorar questões profundas da vida com humor taiwanês e calor humano em situações absurdas; profundamente inspirado por mestres da comédia de Hollywood, ele conquistou o prêmio de Melhor Filme no Golden Horse Awards com \"Meu Amor Desaparecido\", obtendo o reconhecimento externo mais significativo para essa gramática.",
         "category": "people",
         "href": "/pt/people/chen-yu-hsun-taiwan-comedy-film-magician",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2430,27 +2448,36 @@
         "date": "2026-10-10T23:42:20+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Chi Po-lin",
-        "desc": "Como um funcionário público que não podia pagar um helicóptero com seu salário usou o dinheiro da hipoteca da casa para fazer o documentário de maior sucesso da história de Taiwan",
-        "category": "people",
-        "href": "/pt/people/chi-po-lin",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Fang Hsu-chung: Da aldeia militar de Pingtung aos três prémios de ouro, o mestre visual",
-        "desc": "Fundador da Jiu Fang She, Fang Hsu-chung, nascido em 1978 na Nova Aldeia Gonghe de Donggang, Pingtung, formado no Departamento de Artes Gráficas da Escola Vocacional Privada Fuxing e no Departamento de Design de Artesanato da Universidade Nacional de Artes de Taiwan (secção de ourivesaria, curso noturno). Em 2013 fundou a Jiu Fang She, e a partir de 2016 assumiu consecutivamente a direção visual principal dos três grandes prémios — Golden Melody, Golden Bell e Golden Horse —, tendo sido nomeado sete vezes para o Melhor Design de Encadernação do Golden Melody. Da materialidade antiga da infância na aldeia militar às narrativas contemporâneas dos três prémios, ele usa o visual para justapor a memória e a era de Taiwan.",
-        "category": "people",
-        "href": "/pt/people/fang-hsu-chung",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "hi": [
+      {
+        "title": "मोरियामा मात्सुनोसुके: तीन प्रांतीय कार्यालयों और एक न्यायालय से ताइवान का आधिकारिक चेहरा बनाना",
+        "desc": "1906 में, ओसाका के एक प्रतिष्ठित परिवार से आए टोक्यो इंपीरियल विश्वविद्यालय के स्नातक ताइवान आए और संपूर्ण जापानी साम्राज्य का पहला पूर्ण प्रबलित कंक्रीट भवन डिजाइन किया। अगले पंद्रह वर्षों में, मोरियामा मात्सुनोसुके ने ताइपे प्रांतीय कार्यालय, ताइचुंग प्रांतीय कार्यालय, ताइनान प्रांतीय कार्यालय, ताइनान न्यायालय, एकाधिकार ब्यूरो, रेलवे विभाग और ताइवान गवर्नर-जनरल कार्यालय को क्रमिक रूप से पूरा किया। असमान भूखंडों, मिश्रित स्तंभ शैलियों और दोहरे परिसंचरण पथों को संभालने की उनकी तकनीक ने औपनिवेशिक सरकार की शक्ति को मूर्त रूप दिया, और आज की निरीक्षण अदालत, ताइचुंग प्रांतीय कार्यालय और राष्ट्रीय ताइवान साहित्य संग्रहालय में स्थित तीन ईंट कार्यालय भवन छोड़ गए।",
+        "category": "history",
+        "href": "/hi/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "ताइचुंग राष्ट्रीय ओपेरा हाउस: इटो टोयो का \"साउंड केव\" और बिना खंभे-बीम वाली घुमावदार दीवारों की स्थापत्य क्रांति",
+        "desc": "प्रित्ज़कर पुरस्कार विजेता इटो टोयो द्वारा डिज़ाइन किए गए, \"दुनिया की सबसे कठिन इमारत\" कहे जाने वाले ताइचुंग राष्ट्रीय ओपेरा हाउस ने, बिना खंभे-बीम वाली घुमावदार दीवारों और गुफा सौंदर्यशास्त्र के साथ, ताइवान के आधुनिक स्थापत्य इतिहास और सौंदर्य कल्पना को कैसे फिर से लिखा।",
+        "category": "art",
+        "href": "/hi/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "ताइवान का पर्यावरण आंदोलन इतिहास",
+        "desc": "ताइवान का पर्यावरण आंदोलन 1980 के दशक के प्रदूषण-विरोधी संघर्ष से लेकर हाल के प्लास्टिक-कटौती आंदोलन तक के विकास पथ को दर्शाता है, जो ताइवानी समाज में पर्यावरणीय चेतना के जागरण और लोकतंत्रीकरण प्रक्रिया के अंतर्गुंफन का साक्षी है।",
+        "category": "nature",
+        "href": "/hi/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "ताइवान में कोविड-19 महामारी और टीकाकरण: अठारह महीने जो मिले और वह एक खुराक जो नहीं मिली",
         "desc": "15 फरवरी 2020 को, एक सफेद टैक्सी चालक जो विदेश नहीं गया था, की मृत्यु हुई - यह ताइवान में COVID-19 से पहली मृत्यु थी। सीमा नियंत्रण और राष्ट्रीय स्वास्थ्य बीमा कार्ड के माध्यम से, ताइवान ने महामारी को लगभग अठारह महीने तक बाहर रखा, 2020 में कुल 799 पुष्टि किए गए मामले और 7 मृत्यु हुई। लेकिन पहली बैच टीकाएं मार्च 2021 में आईं, केवल 117,000 खुराकें; जब 2022 में ओमिक्रॉन आया, तो बुजुर्गों की तीसरी खुराक अभी भी पिछड़ी हुई थी। उस वर्ष मृत्यु की माध्यिका आयु 82 वर्ष थी, जो पिछले वर्ष से दस वर्ष अधिक थी। कीमत वहन करने वाले अन्य समूह - जिनके राहत आवेदन खारिज कर दिए गए, जो अस्पताल से निकल गए, जो छात्रावास में बंद रहे - आज तक कई किसी भी आंकड़े में शामिल नहीं हैं।",
@@ -2693,39 +2720,30 @@
         "date": "2026-10-10T23:41:36+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "जब महामारी मिटी, आतिशबाज़ी बनी परंपरा: ताइवान की उत्सव संस्कृति का अनपेक्षित विकास",
-        "desc": "एक छोटे कस्बे का अनुष्ठान जो महामारी से लड़ने के लिए पटाखे जलाकर शुरू हुआ, 140 साल बाद दुनिया के सबसे खतरनाक लोक उत्सवों में से एक बन गया",
-        "category": "culture",
-        "href": "/hi/culture/traditional-festivals-and-celebrations",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "रसभरी केक (फेंगली सू): चुनावी नाश्ते से 250 अरब न्यू ताइवान डॉलर के वार्षिक उत्पादन मूल्य वाले ताइवान के \"सोने की ईंट\" तक का सफर",
-        "desc": "1945 में, ताइचुंग के येन शिन फा बेकरी ने पारंपरिक ड्रैगन-फीनिक्स केक को छोटे रसभरी केक में बदल दिया। 1970 के दशक में रसभरी निर्यात में गिरावट के कारण शीतल कद्दू की भराई विकसित करने से लेकर, 2009 में वेई रे शान क्यू ने देशी रसभरी के खट्टे-मीठे स्वाद को पुनर्जीवित किया — यह छोटी \"सोने की ईंट\" अस्सी वर्षों से ताइवान के कृषि भाग्य से जुड़ी रही है, और आज इसका वार्षिक उत्पादन मूल्य 250 अरब न्यू ताइवान डॉलर से अधिक हो चुका है, जो विदेशी पर्यटकों के मन में सबसे प्रतिनिधि ताइवानी स्वाद बन चुका है।",
-        "category": "food",
-        "href": "/hi/food/pineapple-cake",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "पौष्टिक दोपहर का भोजन: स्किम्ड मिल्क पाउडर से फ्लोरोसेंट करी तक, ताइवानी छात्रों की थाली पर एक सदी का बदलाव",
-        "desc": "1951 में, संयुक्त राष्ट्र के स्किम्ड मिल्क पाउडर ने ताइवान में पौष्टिक दोपहर के भोजन की शुरुआत की। अमेरिकी सहायता के आटे से लेकर स्थानीय चावल व्यंजनों तक, और आज की खाद्य शिक्षा व मुफ्त नीतियों तक, इस सदी भर के बदलाव ने न केवल छात्रों का पेट भरा, बल्कि सामाजिक-आर्थिक, शैक्षिक दर्शन और खाद्य संस्कृति की गहरी प्रक्रिया को भी दर्शाया।",
-        "category": "food",
-        "href": "/hi/food/school-lunch-reform",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ar": [
       {
-        "title": "أربعة مقاييس خارج الأزرق والأخضر: من قطعة أرض إلى بطاقة تأمين صحي، سياسات تايوان التي تجاوزت أصولها السياسية",
-        "desc": "قارئ سئم من تبادل الشتائم بين الأزرق والأخضر على مائدة الطعام، وأراد أن يتذكر ما هو جيد حقاً لتايوان. لذا وجدنا إحدى عشرة سياسة على مدى سبعين عاماً، من إصلاح الأراضي بمصادرة الأراضي الزراعية في عهد الاستبداد، ورفع الأحكام العرفية، والتأمين الصحي الشامل، إلى زواج المثليين ومشروع البنية التحتية الاستشرافية اللذين لا يزالان موضع جدل. تعمدنا عدم استخدام مقياس الأزرق والأخضر، واستبدلناه بأربعة مقاييس: معيشة الناس، الديمقراطية، الحقوق المدنية، والسيادة. الاستنتاج غير بديهي بعض الشيء: السياسات التي تجاوزت أصولها الحزبية، غالباً ما كان يوم ولادتها هو اليوم الذي شهد أعنف الجدالات.",
+        "title": "موريس ياماموتو: ثلاث دوائر حكومية ومحكمة واحدة ترسم الوجه الرسمي لتايوان",
+        "desc": "في عام 1906، جاء خريج جامعة طوكيو الإمبراطورية من عائلة أوساكا النبيلة إلى تايوان ليعمل مستشارًا، وصمم أول مبنى من الخرسانة المسلحة بالكامل في الإمبراطورية اليابانية. في السنوات الخمس عشرة التالية، أكمل موريس ياماموتو دوائر تايبيه وتايتشونغ وتاينان الحكومية، ومحكمة تاينان، ومكتب الاحتكار، وقسم السكك الحديدية والمقر العام للحاكم العام لتايوان. أسلوبه في التعامل مع المواقع غير المتماثلة والأعمدة المركبة والممرات ثنائية الاتجاه أعطى السلطة الاستعمارية شكلًا ملموسًا، وترك ثلاثة مبانٍ من الطوب الأحمر اليوم: مقر هيئة المراقبة ودائرة تايتشونغ الحكومية والمتحف الوطني لأدب تايوان.",
+        "category": "history",
+        "href": "/ar/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "مسرح تاينغ تشونغ الوطني: ثورة العمارة ذات الجدران المنحنية والغياب الهيكلي في \"كهف الصوت الجميل\" لإيتو تويؤو",
+        "desc": "كيف أعاد مسرح تاينغ تشونغ الوطني، المصمم من قبل الفائز بجائزة نوبل إيتو تويؤو ويُعرف بأنه \"أصعب مبنى للبناء في العالم\"، كتابة تاريخ وتصورات العمارة الحديثة في تايوان عبر جمالية الجدران المنحنية والغياب الهيكلي؟",
+        "category": "art",
+        "href": "/ar/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "المقاييس الأربعة خارج الصراع بين الأزرق والأخضر: من قطعة أرض إلى بطاقة التأمين الصحي، سياسات تايوان التي تجاوزت الانتماءات السياسية",
+        "desc": "أحد القراء سئم من المشاحنات المتبادلة على مائدة النقاش بين المعسكرين الأزرق والأخضر، وأراد أن يتذكر الأشياء التي خدمت تايوان حقاً. لذا، بحثنا في أحد عشر سياسة على مدار سبعين عاماً؛ بدءاً من الإصلاح الزراعي الذي استند إلى المصادرة القسرية للأراضي في عهد السلطوية، ورفع الأحكام العرفية، والتأمين الصحي الشامل، وصولاً إلى قضايا زواج المثليين ومشروع الاستشراف التي لا تزال محل جدل. لقد تعمدنا عدم استخدام مقاييس الأزرق والأخضر، واستبدالها بأربعة مقاييس: المعيشة، والديمقراطية، والحقوق المدنية، والسيادة. النتيجة كانت غير متوقعة بعض الشيء: السياسات التي نجحت في تجاوز خلفياتها الحزبية غالباً ما كانت الأكثر إثارة للجدل في يوم ولادتها.",
         "category": "history",
         "href": "/ar/history/bipartisan-good-policy",
         "date": "2026-10-10T23:41:04+08:00",
@@ -2823,8 +2841,8 @@
         "image": ""
       },
       {
-        "title": "تاريخ الإعلانات في تايوان: ننسى ما بيع، لكن تلك الأغنية الإعلانية لا تزال تُردد",
-        "desc": "في عام 1968، انطلقت أغنية إعلان قدر كهربائي \"تاتونغ\" على التلفاز، وبعد نصف قرن لا يزال التايوانيون قادرين على إكمال جملة \"تاتونغ تاتونغ، المنتجات الوطنية جيدة\"، لكن لا أحد يتذكر أنها في الأصل لحن لشركة \"سانيو\". من إعلانات الصحف المسطحة في \"تايوان نيتشي نيبو\" خلال الحكم الياباني، إلى عصر الأحكام العرفية الذي لم يكن فيه سوى ثلاث قنوات تلفزيونية ربطت انتباه الجزيرة بأكملها على تردد واحد، ثم إلى عام 2016 عندما تجاوزت إنفاقات الإعلانات الرقمية التلفزيون — أكثر الإعلانات التي يتذكرها التايوانيون، تُنسى منتجاتها المباعة، بينما يبقى صوت عصر بأكمله.",
+        "title": "تاريخ الإعلانات في تايوان: قد ننسى ما تم بيعه، لكننا لا نزال ندندن تلك الأغنية الإعلانية",
+        "desc": "في عام 1968، انطلقت أغنية إعلان طباخ داتونج الكهربائي عبر التلفاز، وبعد نصف قرن، لا يزال التايوانيون قادرين على إكمال عبارة \"داتونج، داتونج، البضائع الوطنية جيدة\"، دون أن يتذكر أحد أنها كانت في الأصل لحناً لشركة سانيو. من الإعلانات المطبوعة في صحيفة \"تايوان نيتشي نيتشي شينبو\" خلال فترة الحكم الياباني، إلى حقبة الأحكام العرفية حيث كانت ثلاث قنوات فقط تحصر انتباه الجزيرة بأكملها على نفس القناة، وصولاً إلى عام 2016 عندما تجاوزت قيمة الإعلانات الرقمية قيمة إعلانات التلفزيون — إن أكثر الإعلانات رسوخاً في ذاكرة تايوان هي تلك التي غالباً ما يُنسى المنتج الذي تبيعه، بينما يتبقى منها صوت عصر بأكمله.",
         "category": "culture",
         "href": "/ar/culture/taiwan-advertising-history",
         "date": "2026-10-10T23:41:04+08:00",
@@ -2850,8 +2868,8 @@
         "image": ""
       },
       {
-        "title": "محطة وومينغ الصغيرة: حواسيب ملتقطة، شباب مباع، واختفاء بلا جنازة",
-        "desc": "في عام 1999، في سكن جامعة جياو تونغ، قام ستة طلاب من قسم علوم الحاسوب بتجميع حاسوب BBS يسمى \"وومينغ\" باستخدام معدات مهملة من القسم. نما ليصبح أكبر منصة تدوين في تايوان، ومهد الجيل الأول من المبدعين التايوانيين، وفي عام 2008 حتى تجاوز ياهو ليصبح أكبر موقع في تايوان. ثم اشترته ياهو، وفي ليلة 26 ديسمبر 2013، حُذِفَ مع ألبومات صور جيل كامل. اليوم، لا يستطيع معظم الناس استعادة سوى ألبومات فارغة لا تفتح. سُجِّلَ كشباب، لكن ذلك الشباب كان منذ البداية مخزناً على خوادم يمكن للآخرين إغلاقها.",
+        "title": "محطة وو مينغ الصغيرة: أجهزة كمبيوتر ملتقطة، شباب مباع، واختفاء بلا جنازة",
+        "desc": "في عام 1999، في سكن جامعة جياو تونغ، قام ستة طلاب من قسم علوم الحاسوب بتجميع جهاز BBS يسمى \"وو مينغ\" باستخدام معدات مهملة من القسم. نما ليصبح أكبر منصة تدوين في تايوان، ومهد الجيل الأول من المبدعين التايوانيين، وفي عام 2008 حتى تجاوز ياهو ليصبح أكبر موقع ويب. ثم اشترته ياهو، وفي ليلة 26 ديسمبر 2013، حذفته مع ألبومات صور جيل كامل، واليوم لا يستطيع معظم الناس استعادة سوى ألبومات فارغة لا تفتح. لقد سجّل كشباب، لكن ذلك الشباب كان منذ البداية موضوعاً على خوادم يمكن للآخرين إغلاقها.",
         "category": "culture",
         "href": "/ar/culture/wretch",
         "date": "2026-10-10T23:41:04+08:00",
@@ -2974,27 +2992,27 @@
         "date": "2026-10-10T23:41:04+08:00",
         "readingTime": 14,
         "image": "/article-images/people/freddy-lim-chthonic-founder.webp"
-      },
-      {
-        "title": "هوانغ غوانغ شيونغ: الرجل الذي بنى كلية تربية في حقول تشياي",
-        "desc": "في عام 1996، انتقل هوانغ غوانغ شيونغ من جامعة المعلمين الوطنية جنوبًا إلى تشياي، حيث أسس معهد الدراسات التربوية في جامعة تشونغ تشينغ، ثم طوره لاحقًا ليصبح كلية تربية. أمضى نصف قرن في نقل نظريات المناهج الغربية إلى تايوان، وترجم الكتب المدرسية الكلاسيكية للبحث النوعي، وأشرف على تخطيط بحثي لمنهج التسع سنوات المتكامل، وقاد مجموعة من العلماء لمدة ثلاث سنوات لتصميم برنامج تعليم أخلاقي يرتكز على \"الاحترام والرعاية\". توفي عام 2021 عن عمر يناهز 84 عامًا.",
-        "category": "people",
-        "href": "/ar/people/huang-guang-xiong-educator",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "جيري يانغ: من معرفة كلمة إنجليزية واحدة فقط إلى مؤسس \"ياهو\" أبو عصر البوابات العالمية",
-        "desc": "في عام 1978، هاجر جيري يانغ البالغ من العمر 10 سنوات إلى الولايات المتحدة وهو لا يعرف سوى كلمة \"Shoe\". في عام 1994، وبينما كان يتجنب أطروحة الدكتوراه في جامعة ستانفورد، قام هو وشريكه بتصنيف صفحات الويب يدويًا في مقطورة، فأسسا بالصدفة شركة Yahoo! التي بلغت قيمتها السوقية أكثر من 100 مليار دولار، وفي عام 2005، قام بـ \"مقامرة مجنونة\" بالاستثمار في علي بابا، مما أعاد رسم خريطة الإنترنت العالمية.",
-        "category": "people",
-        "href": "/ar/people/jerry-yang-yahoo-cofounder",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ru": [
+      {
+        "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
+        "desc": "В 1906 году выпускник Токийского императорского университета из осакской аристократической семьи приехал на Тайвань консультантом и спроектировал первое в Японской империи здание из полностью железобетонного каркаса. За следующие пятнадцать лет Морияма Матносукэ последовательно завершил здания префектур Тайбэя, Тайчжуна и Тайнаня, суд Тайнаня, управление монополий, железнодорожное управление и здание генерал-губернатора Тайваня. Его методы работы с асимметричными участками, сложными ордерами и двойными циркуляциями придали конкретную форму власти колониального правительства и оставили три красно-кирпичных здания, где сегодня располагаются Контрольный юань, здание префектуры Тайчжуна и Национальный музей тайваньской литературы.",
+        "category": "history",
+        "href": "/ru/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Тайваньский национальный театр оперы и балета в Тайчуне: «Голос в пещере» и революция изогнутых стен без колонн от Ито Тойо",
+        "desc": "Проект премиального архитектора Ито Тойо, удостоенного премии Прайццкого, Тайваньский национальный театр оперы и балета в Тайчуне, называют «самым непостижимым строительством в мире». Как он, используя изогнутые стены без колонн и пещерную эстетику, переписывает историю современной архитектуры Тайваня и воображение.",
+        "category": "art",
+        "href": "/ru/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
       {
         "title": "Эхо золотого века: от чайника Мэнциня к пластиковому стакану, 150 лет смены сосудов тайваньского чая",
         "desc": "История 150 лет трансформации сосудов тайваньского чая: от чайника Мэнциня в эпоху Цин до пластикового стакана в современных кафе. Эта земля всегда превращает иностранное в свой собственный вкус.",
@@ -3246,27 +3264,36 @@
         "date": "2026-10-10T23:42:41+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Threads на Тайване: от «я съем немного» до египетского студенческого билета, как динамическая стена превратилась в цифровой ночной рынок",
-        "desc": "К концу 2025 года студенческий билет Национального университета Тайваня, найденный рядом с египетским фараоном, стал предметом международной поисковой кампании в Threads; на одной и той же динамической стене фотографии еды туристов из Японии и Кореи привлекли кошек «Привет, я съем немного». «Хрупкость» Тайваня смешала бесполезные посты, взаимопомощь, мемы и общественные дискуссии, заставив незнакомцев на короткое время сесть за один стол и передать историю далеко.",
-        "category": "technology",
-        "href": "/ru/technology/threads-in-taiwan",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 45,
-        "image": ""
-      },
-      {
-        "title": "Чжао Цзыцян: от просвещения в театре Ланьлінь до непокорной души под фартуком Бабушки Фрукт",
-        "desc": "В 1984 году Чжао Цзыцян вступил в театральную мастерскую Ланьлінь благодаря объявлению «бесплатно весь год», открыв легендарную карьеру, охватывающую театр, кино и детское искусство. В образе «Бабушки Фрукт» он согрел детство бесчисленных детей, но в реальности, создав детский театр «Если», погрузился в долги в десятки миллионов, и в условиях пандемии и финансового кризиса проявил «абсолютное непокорение» — твердый характер. Это глубокая практика исполнителя, который тридцать лет хранил мечты тайваньских детей.",
-        "category": "people",
-        "href": "/ru/people/chao-tzu-chiang-childrens-theater",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "de": [
+      {
+        "title": "Matsunosuke Moriyama: Mit drei Präfekturhäusern und einem Gerichtszentrum das offizielle Gesicht Taiwans zeichnen",
+        "desc": "1906 kam ein Absolvent der Kaiserlichen Universität Tokio aus einer angesehenen Osaka-Familie nach Taiwan und entwarf das erste reine Stahlbetongebäude des japanischen Kaiserreichs. In den folgenden fünfzehn Jahren vollendete Matsunosuke Moriyama die Präfekturhäuser von Taipeh, Taichung und Tainan sowie das Gericht von Tainan, das Monopolamt, das Eisenbahnministerium und das Generalgouvernement von Taiwan. Seine Handhabung asymmetrischer Grundstücke, Kompositkapitelle und getrennter Verkehrsströme verlieh der Macht der Kolonialregierung eine konkrete Form und hinterließ die drei Backsteingebäude, in denen sich heute das Kontrollrechtliche Amt (Control Yuan), das Präfekturhaus Taichung und das Nationalen Museum für Literatur in Taiwan befinden.",
+        "category": "history",
+        "href": "/de/history/moriyama-matsunosuke-prefectural-halls",
+        "date": "2026-10-20T02:01:10+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "National Taichung Theater: Toyo Itos „Sound Cave“ und die revolutionäre Architektur ohne Säulen oder Mauern",
+        "desc": "Wie das vom Pristerner-Preisträger Toyo Ito entworfene National Taichung Theater, bekannt als „global schwierigstes Bauwerk“, durch seine organische Wandoberfläche und Höhlenästhetik die moderne Architekturgeschichte und Vorstellungswelt Taiwans neu definiert hat.",
+        "category": "art",
+        "href": "/de/art/national-taichung-theater",
+        "date": "2026-10-16T08:52:43+08:00",
+        "readingTime": 25,
+        "image": "/article-images/art/national-taichung-theater-2017.webp"
+      },
+      {
+        "title": "Geschichte der Umweltbewegung in Taiwan",
+        "desc": "Die Entwicklung der Umweltbewegung in Taiwan, von dem Kampf gegen die Verschmutzung in den 1980er Jahren bis zu den jüngsten Plastikreduzierungsbewegungen, spiegelt das Erwachen des Umweltbewusstseins und den demokratischen Prozess in der taiwanesischen Gesellschaft wider.",
+        "category": "nature",
+        "href": "/de/nature/taiwan-environmental-movement-history",
+        "date": "2026-10-15T08:58:14+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Taiwans Reiskultur",
         "desc": "Von 85 auf 42 Kilogramm pro Jahr: Die Ernährungsrevolution und kulturelle Beharrlichkeit einer Reisinseln",
@@ -3295,8 +3322,8 @@
         "image": ""
       },
       {
-        "title": "Jenseits von Blau-Grün: Von einem Feld bis zum Gesundheitsausweis – Politik in Taiwan, die ihre eigene Politik übertroffen hat",
-        "desc": "Ein Leser, der sich von den gegenseitigen Beschimpfungen auf dem blau-grünen Tisch satt hat, will sich an das erinnern, was wirklich gut für Taiwan ist. Daher wurden elf politische Maßnahmen in den letzten 70 Jahren gesammelt – von der autoritären Landreform und der Abschaffung der Martiallaw über die flächendeckende Krankenversicherung bis hin zu aktuellen Themen wie Ehe für alle und Zukunftsinvestitionen. Dabei wurde bewusst nicht nach blau-grünen Maßstäben gemessen, sondern an den vier Maßstäben: Soziales Wohlergehen, Demokratie, Bürgerrecht und Souveränität. Der Schluss ist paradox: Politik, die ihre eigene Parteizugehörigkeit überwand, begann oft mit dem lautesten Lärm.",
+        "title": "Vier Maßstäbe jenseits von Blau und Grün: Von einem Ackerstück bis zur Krankenversicherungskarte – Taiwans Politiken, die über ihre eigene Parteipolitik hinausgewachsen sind",
+        "desc": "Ein Leser, der das gegenseitige Beschimpfen am Esstisch zwischen den Lagern Blau und Grün satt hat, möchte sich an die Dinge erinnern, die Taiwan wirklich gutgetan haben. Deshalb haben wir elf Politiken aus siebzig Jahren ausgewählt – von der Landreform unter autoritärer Zwangsentnahme von Agrarflächen über die Aufhebung des Kriegsrechts und die allgemeine Krankenversicherung bis hin zu den umstrittenen Themen gleichgeschlechtliche Ehe und der „Zukunftsplan“. Anstatt die Maßstäbe von Blau oder Grün anzulegen, nutzen wir bewusst vier neue: Lebensstandard, Demokratie, Bürgerrechte und Souveränität. Das Fazit ist etwas kontraintuitiv: Politiken, die ihre parteipolitische Herkunft überwunden haben, waren am Tag ihrer Entstehung oft diejenigen, die am heftigsten umstritten waren.",
         "category": "history",
         "href": "/de/history/bipartisan-good-policy",
         "date": "2026-10-10T23:41:15+08:00",
@@ -3494,7 +3521,7 @@
       },
       {
         "title": "Tsai Ming-liang",
-        "desc": "Venise Golden Lion-Sieger, Malaysischer Chinese, Meister des langsamen Films",
+        "desc": "Der 1957 in Sarawak, Malaysia, geborene Regisseur kam 1977 nach Taiwan, um Theater zu studieren. Mit „Rebels of the Neon God“ etablierte er 1992 seinen persönlichen Stil. 1994 gewann er mit „Vive L'Amour“ den Goldenen Löwen in Venedig und wurde nach Hou Hsiao-hsien und Zhang Yimou der dritte chinesische Regisseur, dem diese Auszeichnung zuteilwurde. Durch extrem lange Einstellungen, spärliche Dialoge und ein langsames Tempo thematisiert er die Einsamkeit und Entfremdung des Stadtmenschen und entwickelte von „Vive L'Amour“ bis zur Walker-Serie eine einzigartige Ästhetik des Slow Cinema.",
         "category": "people",
         "href": "/de/people/tsai-ming-liang",
         "date": "2026-10-10T23:34:07+08:00",
@@ -3508,33 +3535,6 @@
         "href": "/de/history/taiwan-fishery-modernization",
         "date": "2026-10-10T23:28:21+08:00",
         "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "Alishan-Waldbahn: 71,6 Kilometer für Holztransport und kulturelles Erbe",
-        "desc": "Die 1906 begonnene und 1912 eröffnete Alishan-Waldbahn beförderte Zypressenholz ins Tal von Chiayi und wurde durch Taifune unterbrochen. 2024 fährt sie wieder auf voller Länge. Von einer Holzlinie zur Kulturlandschaft: Die Eisenbahn zeigt, wie Taiwan lernte, Berge zu respektieren, anstatt sie zu bezwingen.",
-        "category": "geography",
-        "href": "/de/geography/alishan-forest-railway",
-        "date": "2026-10-10T23:28:21+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Archipelagisches Denken: Taiwan auf der Landkarte der Nusantara zurückfinden",
-        "desc": "Taiwan ist keine isolierte Insel am Rande Chinas, sondern ein Nordostrand des Malaysischen Weltgebietes (Nusantara), die Ursprungsregion der Austronesier und ein Ausgangspunkt der pazifischen Expansion. Eine 30-Grad-Drehung nach Süden enthüllt ein ebenso gültiges, aber übersehenes Koordinatensystem.",
-        "category": "culture",
-        "href": "/de/culture/archipelago-thinking",
-        "date": "2026-10-10T23:28:21+08:00",
-        "readingTime": null,
-        "image": "/article-images/culture/austronesian-migration-map.webp"
-      },
-      {
-        "title": "Sì-siù-á: Ein süßer Festtag und Segen, die nicht alles schmecken müssen",
-        "desc": "Von den im Qing-Zeitalter überlieferten Sheng-ren-Tang, den Mandeln ohne Quitten, bis zu den Maita-Tafeln am neunten Tag des ersten Mondmonds: Taiwanische Festtagsknabberereien verpacken Wunschsprüche in Erdnüsse, Klebreis und Zuckerschnee. Heute stehen Tortendosen vor persönlicchem Geschmack, Kalorien und Lebensmittel-Sicherheit. Was traditionell blieb, ist nicht eine Liste von Dingen, die gegessen werden müssen, sondern ein Tisch, an dem Familien weiterhin teilen, auswählen und diskutieren können.",
-        "category": "culture",
-        "href": "/de/culture/si-siu-a-lunar-new-year-snacks",
-        "date": "2026-10-10T23:28:21+08:00",
-        "readingTime": 6,
         "image": ""
       }
     ]

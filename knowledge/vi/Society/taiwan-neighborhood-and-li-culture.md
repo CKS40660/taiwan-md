@@ -1,14 +1,14 @@
 ---
-title: 'Văn hóa thôn xóm Đài Loan: Từ thực hành dân chủ cơ sở đến đổi mới xã hội cộng đồng'
-description: 'Từ những hoạt động dân chủ ở cấp độ thấp nhất đến các sáng kiến xã hội trong xây dựng cộng đồng'
+title: 'Văn hóa cộng đồng và đơn vị phường, ấp tại Đài Loan'
+description: 'Phường (lý) là tế bào nhỏ nhất trong xã hội dân chủ của Đài Loan: Trưởng phường triệu tập cư dân họp hành, tổ trưởng khu phố đến từng nhà thông báo, và các trường đại học cộng đồng đang giảng dạy ngay tại những lớp học kế bên. Bài viết này bắt đầu từ hệ thống phường, ấp ở cấp cơ sở nhất, đi qua phong trào kiến tạo cộng đồng và các thử nghiệm về đại học cộng đồng, để thấy được sự tham gia của công dân đã chuyển đổi từ tiếp nhận thụ động sang chủ động cải tạo như thế nào, cũng như cách mạng lưới cơ sở này nâng đỡ khả năng phục hồi xã hội của Đài Loan.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Hệ thống thôn xóm',
-    'Xây dựng cộng đồng',
+    'Hệ thống phường ấp',
+    'Kiến tạo cộng đồng',
     'Đại học cộng đồng',
-    'Tham gia công dân',
+    'Sự tham gia của công dân',
     'Tự trị địa phương',
   ]
 subcategory: '社會運動'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T07:53:56+08:00'
+translatedAt: '2026-10-15T22:05:20.679101+00:00'
 ---
 
 # Văn hóa thôn xóm Đài Loan

@@ -263,7 +263,7 @@ Fonte: Departamento de Administração Doméstica do Ministério do Interior, fi
 
 ```tw-iso
 Quantas habitações públicas o governo construiu nestes 24 anos
-Unidade: ● = 20.000 unidades
+單位：● = 20.000 unidades
 Construção direta do governo | 174.891 unidades | 1976–1999
 Total habitação pública amplo | 390.000+ unidades | Até revogação em 2015
 Fonte: Comunicado do Yuan Executivo sobre revogação da Lei de Habitação Nacional
@@ -275,7 +275,7 @@ A composição de assentos do parlamento tem seu gráfico próprio: meia-circunf
 
 ```tw-arc
 Assentos do Yuan Legislativo 2024: três partidos sem maioria (113 assentos)
-Maioria: 57
+過半：57
 KMT | 52
 DPP | 51
 TPP | 8

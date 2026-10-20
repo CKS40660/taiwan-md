@@ -1,6 +1,6 @@
 ---
 title: 'Melihat Taiwan — Kesan Taiwan dalam Sejarah'
-description: 'Dari Era Pelayaran Besar hingga kontemporer, bagaimana berbagai era dan bangsa memandang pulau ini'
+description: 'Dari era Pelayaran Besar hingga masa kini, berbagai kelompok etnis memandang pulau ini dengan cara yang berbeda: suku Atayal percaya leluhur meninggalkan jejak di tanah, gunung dan sungai adalah tubuh nenek moyang, mereka menyebut diri mereka anak-anak bumi; suku Amis menggunakan imaji berakar untuk mengekspresikan keterikatan dengan tanah. Kumpulan kutipan ini mencatat legenda turun-temurun dan kenangan pulau, menenun perspektif pandang yang beragam.'
 date: 2026-03-17
 tags: ['kutipan', 'sejarah', 'sastra', 'budaya']
 author: 'Taiwan.md Contributors'
@@ -9,10 +9,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-10-15T23:22:26.570581+00:00'
 ---
 
 # Melihat Taiwan — Kesan Taiwan dalam Sejarah

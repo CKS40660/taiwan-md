@@ -1,19 +1,18 @@
 ---
-title: '대만을 보다 — 역사 속 대만의 인상'
-description: '대항해 시대부터 현대까지, 각 시대 각 민족이 이 섬을 어떻게 바라보았는가'
+title: '대만을 보다 — 역사 속의 대만 인상'
+description: '대항해 시대부터 현대에 이르기까지, 각 민족이 서로 다른 방식으로 이 섬을 응시해왔다: 타이얄족은 조상 영혼이 땅에 흔적을 남겼다고 믿으며, 산천과 강물이 모두 조상의 몸이라 여기고 스스로를 대지의 아이라 부른다; 아메이족은 뿌리내리는 이미지로 땅과의 연계를 표현한다. 이 인용집은 대대로 전해 내려오는 전설과 섬의 기억을 수록하여, 다층적인 관점의 지평을 엮어낸다.'
 date: 2026-03-17
 tags: ['인용구', '역사', '문학', '문화']
-category: 'About'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
-translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0a'
-sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
-sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-05-25T21:07:07Z'
 lastVerified: 2026-03-19
 lastHumanReview: true
+translatedFrom: 'About/看見台灣引言集.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
+sourceBodyHash: 'sha256:0d8842cfba541dc2'
+translatedAt: '2026-10-15T21:43:07.408950+00:00'
 ---
 
 # 대만을 보다 — 역사 속 대만의 인상

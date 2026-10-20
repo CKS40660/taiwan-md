@@ -1,17 +1,17 @@
 ---
 title: 'Lanskap Suara Taiwan'
-description: 'Dari musik truk sampah hingga paduan suara Boun Ng: Mengenali Taiwan melalui telinga'
+description: 'Dari melodi yang keluar dari truk sampah hingga gendang dan gong Beiguan di depan kuil, dari polifoni delapan suara suku Bunun hingga seruan pedagang di pasar malam, setiap suara adalah kode budaya yang hidup; di sini kepadatan sepeda motor tertinggi di dunia, suara mesin membentuk simfoni unik, musik pesta kuil, polifoni orang asli, dan teater suara konsumsi rakyat biasa berlapis-lapis, menyusun sidik jari kota yang tak terduplikasi, mencatat sejarah, kenangan, dan identitas.'
 date: 2026-03-17
 category: 'Music'
 tags:
   [
-    'lanskap suara',
-    'soundscape',
-    'musik truk sampah',
-    'festival kuil',
-    'musik adat',
-    'jalur utara-selatan',
-    'suara jalanan',
+    'Lanskap Suara',
+    'Lanskap Suara',
+    'Musik Truk Sampah',
+    'Pesta Kuil',
+    'Musik Suku Asli',
+    'Beiguan dan Nanguan',
+    'Suara Jalanan',
   ]
 subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'bc6743fde'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:e4fcea6f40bc1371'
 sourceBodyHash: 'sha256:f8c06621cad90a0b'
-translatedAt: '2026-09-19T01:37:24+08:00'
+translatedAt: '2026-10-15T20:00:23.156075+00:00'
 ---
 
 # Lanskap Suara Taiwan

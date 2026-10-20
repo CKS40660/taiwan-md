@@ -1,18 +1,18 @@
 ---
-title: 'Sự phát triển điêu khắc đương đại tại Đài Loan'
-description: 'Khám phá quỹ đạo tiến hóa và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan, từ Dương Anh Phong, Chu Minh đến thế hệ mới'
+title: 'Sự phát triển của điêu khắc đương đại Đài Loan'
+description: 'Điêu khắc đương đại Đài Loan phát triển từ nghệ thuật chạm khắc gỗ truyền thống, trải qua ba thế hệ: Hoàng Thổ Thủy đặt nền móng hiện đại, Dương Anh Phong thiết lập ngôn ngữ đương đại và Chu Minh lồng ghép tinh thần phương Đông vào tầm nhìn quốc tế. Kể từ phong trào điêu khắc hiện đại, các nghệ sĩ đã liên tục có những đột phá về chất liệu, chủ đề và không gian; Bảo tàng Điêu khắc Chu Minh cùng các công viên điêu khắc ngoài trời hiện diện khắp Đài Loan, trong khi thế hệ mới tiếp tục thúc đẩy sự phát triển đa dạng, tích lũy được sự chú ý và công nhận sưu tập tại các triển lãm quốc tế.'
 date: 2026-03-18
 category: 'Art'
 tags:
   [
-    'điêu khắc',
+    'Điêu khắc',
     'Chu Minh',
     'Dương Anh Phong',
     'Lâm Thuấn Long',
     'Hồng Dịch',
-    'nghệ thuật công cộng',
-    'nghệ thuật đương đại',
-    'điêu khắc gỗ',
+    'Nghệ thuật công cộng',
+    'Nghệ thuật đương đại',
+    'Chạm khắc gỗ',
   ]
 subcategory: '視覺藝術'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'b8f50ebb3'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:9e576e02178fac1e'
 sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
-translatedAt: '2026-09-20T00:52:41+08:00'
+translatedAt: '2026-10-15T20:37:02.589939+00:00'
 ---
 
 # Sự phát triển điêu khắc đương đại tại Đài Loan

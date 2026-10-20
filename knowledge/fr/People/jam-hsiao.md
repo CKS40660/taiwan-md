@@ -1,123 +1,137 @@
 ---
 title: 'Jam Hsiao'
-description: 'Du challenger imprévu au roi des Golden Melody Awards, la voix qui a fait naître la légende du « Dieu de la Pluie » à Taïwan'
+description: "En 2007, un chanteur de restaurant participe à l'émission « Super Star Avenue », devient une sensation et redéfinit la scène Mandopop. Premier candidat de défi à remporter le titre de Meilleur Artiste Masculin aux Golden Melody Awards, il est aussi surnommé le « Dieu de la Pluie »."
 date: 2026-03-23
+category: 'People'
 tags:
   [
-    'musique',
-    'pop',
-    'jazz',
-    'Super Idol',
+    'Musique',
+    'Pop',
+    'Jazz',
+    'Super Star Avenue',
     'Golden Melody Awards',
-    'dieu de la pluie',
+    'Dieu de la Pluie',
   ]
 subcategory: '音樂與表演'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
 lastVerified: 2026-03-23
+lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
-translatedAt: '2026-05-17T06:15:00Z'
-lastHumanReview: true
+translatedAt: '2026-10-15T20:18:34+08:00'
 ---
 
-# Jam Hsiao : la voix la plus imprévisible de Taïwan
+# Jam Hsiao (蕭敬騰) : La légende vocale la plus imprévisible de Taïwan
 
-> **En 30 secondes :** En 2007, un chanteur de restaurant qui s'était initialement inscrit à la deuxième saison de _Super Star Avenue_ se retrouve catapulté dans l'épreuve des challengers de la première saison. En trois prestations, il propulse l'émission vers des sommets d'audience jamais atteints et réécrit l'histoire de la pop mandarine. Il deviendra le premier artiste issu du statut de challenger à remporter le titre de roi des Golden Melody Awards — et restera à jamais l'homme dont les concerts font tomber la pluie, surnommé par tout Taïwan le « Dieu de la Pluie ».
+> **Aperçu en 30 secondes :** En 2007, un chanteur de restaurant inscrit pour la deuxième saison de l'émission « Super Star Avenue » (超級星光大道),
+> est finalement placé dans le segment des défis de la première saison. Ses trois performances créent des records d'audience et redéfinissent la scène musicale Mandopop.
+> Il est le premier artiste à remporter le titre de Meilleur Artiste Masculin aux Golden Melody Awards en tant que candidat de défi,
+> et c'est cet homme que tout Taïwan surnomme le « Dieu de la Pluie » (雨神), car il semble pleuvoir à chacun de ses concerts.
 
-Un samedi soir de mai 2007, les téléspectateurs assistent à l'un des moments les plus dramatiques de la pop mandarine : un inconnu nommé Jam Hsiao interprète _Xin Bu Liao Qing_ et détrône le grand favori Alien Huang. Cet épisode de _Super Star Avenue_ atteint 4,06 % d'audience, et tout Taïwan ne pose qu'une seule question : « Qui est cet homme ? »
+Un samedi soir de mai 2007, les téléspectateurs ont été témoins d'un moment dramatique de l'histoire de la musique Mandopop : un chanteur amateur nommé Jam Hsiao (蕭敬騰) a vaincu le candidat le plus favori de l'époque, Yang Zong-wei (楊宗緯), avec une reprise de _Xin Bu Liao Qing_ (新不了情). Cet épisode de « Super Star Avenue » a atteint un taux d'audience de 4,06 %, et tout Taïwan se demandait : « Qui est cet homme ? »
 
-Seize ans plus tard, ce jeune homme de 21 ans qui s'époumonait sur scène est devenu roi des Golden Melody Awards, créateur d'une légende météorologique et figure incontournable d'une pop mandarine qui refuse de se laisser enfermer dans un seul genre.
+Avec le recul de seize ans, ce jeune homme de 21 ans qui chantait jusqu'à l'épuisement sur scène est devenu un lauréat des Golden Melody Awards, le créateur de la légende du « Dieu de la Pluie », et la voix la plus imprévisible de la musique Mandopop.
 
-## La naissance d'un challenger hors norme
+## La naissance d'un maître des défis
 
-**Né le 30 mars 1987 à Hualien**, Jam Hsiao commence à se produire dans les rues de Ximending dès le lycée. À 17 ans, il est déjà chanteur résident dans un restaurant — une école de la scène à nulle autre pareille, qui forge l'aisance en live qui le distinguera plus tard de tous ses contemporains.
+**Jam Hsiao est né le 30 mars 1987 à Hualien (花蓮).** Il a commencé à se produire dans les rues de Ximending (西門町) durant ses années de lycée et était déjà chanteur de restaurant à l'âge de 17 ans — cette expérience de terrain est devenue le fondement de ses performances scéniques inégalées.
 
-En 2007, il souhaitait rejoindre la deuxième saison de _Super Star Avenue_, mais la production l'oriente vers l'épreuve des challengers de la première saison. Ce malentendu administratif va se révéler le meilleur coup de théâtre de l'histoire de la télévision taïwanaise.
+En 2007, Jam Hsiao souhaitait initialement participer à la deuxième saison de « Super Star Avenue », mais la production l'a placé dans l'unité des défis (_tīguǎn_) de la première saison. Les producteurs n'imaginaient probablement pas que ce choix deviendrait l'un des accidents les plus réussis de l'histoire de la télévision taïwanaise.
 
-> **📝 Note de la rédaction**
-> L'épreuve des challengers était conçue pour pimenter l'émission, mais Jam Hsiao en a fait le clou du spectacle.
-> Il prouve que les histoires les plus saisissantes naissent souvent de ceux qu'on n'avait pas prévu d'inviter.
+> **📝 Note du commissaire**
+> Le concept des défis était initialement conçu pour augmenter la tension dramatique de l'émission, mais l'apparition de Jam Hsiao a transformé ce segment en l'attraction principale.
+> Il a prouvé que parfois, les histoires les plus fascinantes proviennent de ceux qui ne sont « pas prévus au programme ».
 
-**Premier défi : victoire. Deuxième défi : victoire, avec 4,06 % d'audience.** Lors du troisième face-à-face, il s'incline — mais n'importe. En trois apparitions, ce « concurrent non officiel » est devenu une célébrité nationale, troisième personnalité de l'année sur Yahoo! Taïwan et deuxième sur Google dans la catégorie célébrités. Son duel avec Alien Huang remet également en lumière _Betrayal_ de Gary Cao, qui retrouve une seconde jeunesse dans tout le pays. **Un simple challenger a non seulement changé son propre destin, mais aussi ressuscité un classique.**
+**Lors de son premier défi, Jam Hsiao l'emporte. Lors du deuxième, il gagne à nouveau, faisant grimper l'audience à 4,06 %.** Bien qu'il ait perdu lors de la troisième confrontation, ces trois performances ont suffi à rendre ce « candidat non officiel » instantanément célèbre, le classant troisième des dix personnalités de l'année sur Yahoo! Kimo Taïwan en 2007, et deuxième dans le classement des célébrités du cinéma et de la télévision sur Google.
 
-## Un talent musical qui éclate dès les premiers albums
+Plus important encore, son duel avec Yang Zong-wei a relancé la popularité de la chanson _Bei Pan_ (背叛) de Gary Chaw (曹格), qui est devenue un succès incontournable à Taïwan à cette période. **Un candidat de défi n'a pas seulement changé son propre destin, il a aussi propulsé une chanson classique vers les sommets.**
 
-Warner Music Taïwan ne s'y trompe pas. **En 2008, Jam Hsiao signe et sort son premier album éponyme.** Les singles _Prince's New Clothes_ et _Collection_ s'imposent immédiatement, confirmant qu'il est aussi à l'aise dans la pop grand public que sur les scènes intimistes.
+## Un talent musical digne d'une superstar dès ses débuts
 
-Ce qui fascine vraiment, c'est sa capacité à traverser les genres. De la pop-rock au jazz-blues, de la ballade lyrique à la dance électronique, sa voix se transforme et s'adapte avec une fluidité rare dans la pop mandarine. **Cette polyvalence est précisément ce qui lui permet de rester compétitif sur le long terme.** Son amour profond pour le jazz, en particulier, se matérialise dans la série _Jazz Soul_ — une exploration qui élargit considérablement les horizons du jazz en langue chinoise.
+Warner Music a manifestement vu le potentiel de cette voix. **En 2008, Jam Hsiao signe avec Warner Music Taïwan et publie son premier album éponyme, _Jam Hsiao_ (蕭敬騰).** Les titres _Wang Zi De Xin Yi_ (王子的新衣) et _Shou Cang_ (收藏) sont immédiatement devenus des singles populaires, prouvant sa puissance dans la musique pop.
 
-## La consécration aux Golden Melody Awards
+Mais ce qui a véritablement impressionné, c'est sa capacité à maîtriser divers styles musicaux. Du rock pop au jazz-blues, des ballades lyriques à l'électro-dance, la voix de Jam Hsiao est comme un caméléon, passant librement d'un genre à l'autre. **Cette polyvalence musicale est extrêmement rare parmi les chanteurs Mandopop et constitue la clé de sa longévité sur la scène musicale.**
 
-**Le 6 juillet 2013, lors de la 24e cérémonie des Golden Melody Awards**, quand Jolin Tsai prononce le nom « Jam Hsiao », les yeux du lauréat s'écarquillent. Il monte sur scène, le souffle court, les mots qui se bousculent.
+Son amour et sa compréhension du jazz sont particulièrement remarquables. Parmi les chanteurs pop Mandopop, peu explorent le jazz aussi profondément que lui, allant jusqu'à publier une série d'albums dédiés, _Jazz Soul_. Ces œuvres ont élargi l'horizon de ce que la musique Mandopop peut imaginer en matière de jazz.
 
-« Merci aux Golden Melody Awards, merci au jury, à tous ceux qui m'ont soutenu depuis le début — je vous aime. » Jay Chou, lui-même non primé ce soir-là, applaudit chaleureusement son ami depuis le public.
+## L'affirmation comme Meilleur Artiste Masculin
 
-**Avec son quatrième album _It's All About LOVE_, Jam Hsiao devance Lin Yu-chung, Jay Chou, Eric Chou et Khalil Fong pour décrocher le titre de Meilleur chanteur mandophone.** Plus important encore : il entre dans l'histoire en tant que premier artiste issu de l'épreuve des challengers de _Super Star Avenue_ à remporter ce trophée.
+**Le 6 juillet 2013, lors de la 24e cérémonie des Golden Melody Awards.** Lorsque Jolin Tsai (蔡依林) a prononcé le nom « Jam Hsiao », l'ancien candidat de défi avait les yeux écarquillés, tellement nerveux qu'il bégayait en parlant.
 
-Cette récompense ne valide pas seulement un talent — elle ouvre une porte pour tous les artistes qui refusent de se conformer aux codes dominants de l'industrie.
+« Merci aux Golden Melody Awards, merci au jury, et merci à tous mes amis qui m'ont soutenu, je vous aime. » Sur scène, Jam Hsiao était si ému qu'il en perdait ses mots, tandis que Jay Chou (周杰倫), bien qu'il n'ait pas remporté de prix ce soir-là, applaudissait joyeusement son ami.
 
-## La naissance de la légende du Dieu de la Pluie
+**Grâce à son quatrième album _It's All About LOVE_ (以愛之名), Jam Hsiao a battu des adversaires de taille tels que Lin You-jia (林宥嘉), Jay Chou (周杰倫), Song Nian-yu (宋念宇) et Khalil Fong (方大同) pour remporter le prix du Meilleur Artiste Masculin en langue Mandarine.** Plus significatif encore sur le plan historique, il est devenu le premier artiste à remporter un Golden Melody Award en ayant débuté comme candidat de défi dans « Super Star Avenue ».
 
-Si les Golden Melody Awards assoient son statut musical, c'est le surnom de « Dieu de la Pluie » qui l'ancre dans la culture populaire taïwanaise.
+Ce prix n'était pas seulement une reconnaissance de sa force musicale, mais symbolisait aussi la reconnaissance par l'industrie Mandopop de la diversité des styles musicaux. Le succès de Jam Hsiao a ouvert une porte pour les chanteurs qui ne suivent pas les voies purement mainstream.
 
-**Tout commence le 21 juillet 2012.** La veille de son concert au Wukesong Arena de Pékin, Jam Hsiao publie sur Weibo : « Mes amis pékinois, rendez-vous demain à 19h30 à Wukesong, partez tôt ! » Il est loin de se douter qu'il vient de lancer une prophétie.
+## La naissance de la légende du « Dieu de la Pluie »
 
-**Ce jour-là, Pékin est frappée par les pluies les plus violentes depuis 61 ans**, transformant les rues en canaux. Le concert subit les conséquences de la météo, et les fans commencent à noter ce qui ressemble à une coïncidence persistante : là où Jam Hsiao se produit, la pluie suit.
+Si les Golden Melody Awards ont établi sa position musicale, le surnom de « Dieu de la Pluie » l'a intégré à la culture populaire taïwanaise.
 
-Les concerts suivants renforcent le mythe. Tianjin annule en raison d'averses diluviennes, d'autres villes connaissent le même sort. Les internautes le baptisent « Dieu de la Pluie », et ce qui était une blague devient une étiquette officielle.
+**L'origine de la légende remonte au 21 juillet 2012.** Jam Hsiao donnait un concert au stade de Wukesong à Pékin. Enthousiaste, il avait posté la veille sur Weibo : « Amis de Pékin, rendez-vous demain à 19h30 à Wukesong, sortez tôt s'il vous plaît. »
+
+Il ne se doutait probablement pas que ses paroles allaient se réaliser. **Ce jour-là, Pékin a connu les précipitations les plus fortes depuis le début de la saison des pluies, avec une intensité d'averse telle qu'elle n'était apparue que tous les 61 ans, transformant presque la ville en océan.** Le concert a été affecté, mais les fans ont commencé à remarquer une coïncidence amusante : il pleut systématiquement là où Jam Hsiao se produit.
+
+Ses concerts suivants ont renforcé ce « mythe ». Un concert à Tianjin a dû être reporté à cause de la pluie, et d'autres villes ont également connu des épisodes pluvieux lors de ses passages. Les internautes ont commencé à le surnommer affectueusement le « Dieu de la Pluie », un titre qui est passé du statut de plaisanterie en ligne à celui de label officiel.
 
 > **💡 Le saviez-vous ?**
-> Jam Hsiao a un jour plaisanté qu'il voulait donner un concert dans une région aride d'Afrique :
-> « Si la pluie tombait, je pense que le ministère de l'Agriculture local serait vraiment très content. »
+> Jam Hsiao a déjà plaisanté en disant qu'il aimerait donner des concerts dans les régions arides d'Afrique :
+> « Si jamais il pleut, je pense que le département de l'agriculture locale serait très heureux. »
 
-De la perplexité à l'acceptation amusée, Jam Hsiao a fini par faire sienne cette identité : « Cette blague dure depuis dix ans et personne ne s'en lasse — moi non plus. » Le « Dieu de la Pluie » est devenu le lien affectif unique qui l'unit à ses fans.
+Passant de la confusion initiale à une acceptation joyeuse, Jam Hsiao a déclaré : « Cette blague dure depuis dix ans et on ne s'en lasse pas, je n'arrive même plus à inventer de nouveaux mensonges. » Pour lui, le « Dieu de la Pluie » n'est pas qu'une coïncidence, c'est devenu un lien unique avec ses fans.
 
-## Lion, l'aventure en groupe
+## Lion Group et percée multidisciplinaire
 
-**À l'hiver 2015, Jam Hsiao invite trois musiciens de ses concerts — Li Q, Zou Qiang et le batteur A-Ju — à former un groupe.** Le nom vient du refrain d'une démo qui évoquait le son de « Lion ».
+**À l'hiver 2015, Jam Hsiao a invité ses musiciens de tournée de longue date, Li Q (力Q) et Zou Qiang (鄒強), à former un groupe, auquel s'est ensuite joint le batteur Ah Ju (阿矩) via une agence de recrutement, créant ainsi Lion Group (獅子合唱團).** Le nom du groupe provient de la mélodie du refrain d'une de leurs démos, dont la sonorité rappelle le mot « Lion ».
 
-**En janvier 2017, Lion fait ses débuts dans _Singer 2017_ sur Hunan TV**, compétition que le groupe intègre dès le premier épisode. À l'issue d'un parcours intense, ils décrochent la troisième place en finale le 15 avril. Cette aventure révèle une nouvelle facette de Jam Hsiao : au-delà du chanteur virtuose, il est aussi un vrai _bandleader_, capable de créer une chimie collective sur scène et de porter une vision musicale plus large.
+**En janvier 2017, Lion Group a participé à l'émission _Singer 2017_ sur Hunan TV en tant qu'artiste de lancement.** Ce fut un autre sommet de sa carrière : il n'était plus seulement un soliste, mais le leader d'un groupe. Après une compétition intense, Lion Group a terminé à la troisième place lors de la finale le 15 avril.
 
-## Au-delà de la musique : cinéma, télévision, entrepreneuriat
+Cette participation a révélé une autre facette de Jam Hsiao : au-delà de son statut de _vocalist_ techniquement accompli, il est un _bandleader_ capable de diriger une équipe et de créer une véritable chimie sur scène. Le succès de Lion Group a prouvé que sa vision musicale dépassait la performance individuelle pour s'orienter vers des arrangements plus complexes et une collaboration d'équipe.
 
-Jam Hsiao ne se cantonne pas à la scène musicale. **En 2011, il fait ses débuts au cinéma dans _Killer Auntie_ et remporte le prix du Meilleur nouvel acteur aux Hong Kong Film Awards** — une double casquette rare dans l'industrie.
+## Une carrière aux multiples facettes
 
-**De 2013 à 2015, il est coach dans l'émission _The Voice of China_ sur Beijing Satellite TV pendant trois saisons consécutives, et ses équipes remportent le titre de champion à chaque édition.** Un record qui tient toujours, et qui prouve qu'il sait aussi transmettre son talent.
+Outre sa carrière musicale, Jam Hsiao participe activement au cinéma et aux émissions de variétés. **En 2011, il a fait une incursion dans le cinéma avec le film _Killer Ouyang Penzai_ (殺手歐陽盆栽), remportant le prix du Meilleur Nouvel Acteur aux Hong Kong Film Awards,** devenant ainsi un artiste capable de réussir tant dans la chanson que dans le cinéma.
 
-Sur le plan entrepreneurial, **en 2021 il investit 150 millions de NT$ dans la marque de restauration continentale _Fu Mian Mian_**, dont l'ouverture à Chengdu attire de longues files de fans. Malgré les difficultés liées à la pandémie, son goût pour l'investissement dans la restauration et le commerce ne s'est pas démenti.
+**Entre 2013 et 2015, il a été mentor pendant trois années consécutives dans l'émission _The Most Beautiful Harmony_ (最美和聲) sur Beijing TV, ses élèves remportant le titre de champion chaque saison.** Ce record est resté inégalé, prouvant qu'il ne sait pas seulement chanter, mais qu'il sait aussi enseigner.
 
-Les tensions politiques entre les deux rives du détroit ont toutefois complexifié sa situation : en 2022, des déclarations sur la « mère patrie » lui valent des critiques des deux côtés, illustrant la fragilité de la position des artistes dans un contexte géopolitique sensible.
+Il est également un membre régulier du jury de _Masked Singer_ (蒙面歌王) et mentor dans diverses émissions musicales. Ces participations transversales lui permettent de toucher un public plus large et de faire découvrir son charisme au-delà de la musique.
 
-## Vers le monde : tournées internationales et rayonnement culturel
+## Empire commercial et controverses
 
-**Pendant la Coupe du monde 2014 au Brésil, Jam Hsiao est nommé ambassadeur taïwanais de l'événement**, et son titre _Let Go_ devient le générique de fin des retransmissions taïwanaises.
+En dehors de la musique, Jam Hsiao investit activement dans la restauration. **En 2021, il a investi NT$150 millions pour devenir le gestionnaire de la marque de restauration continentale « Fu Mian Mian » (傅麵麵),** dont l'ouverture de la première boutique à Chengdu a attiré une foule immense de fans.
 
-**En 2018, il lance sa tournée mondiale _Mr. Entertainment_**, qui fait étape en Malaisie, à Singapour et dans plusieurs pays d'Asie du Sud-Est — démontrant que son magnétisme scénique transcende les barrières linguistiques.
+Outre les nouilles sèches, il a également investi dans des salons de thé et la cuisine japonaise. Bien qu'il ait fait face à des difficultés de gestion pendant la pandémie, Jam Hsiao conserve un intérêt pour ses activités annexes. Sa manager, Summer, a déclaré : « Malgré tout, Xiao (老蕭) reste très intéressé par l'investissement. »
 
-**En 2024, sa tournée _Wild_ reprend la route**, de Shanghai à Chengdu. Le titre résume parfaitement ce qui le définit depuis le début : naturel, authentique, imprévisible.
+Cependant, les changements de la situation politique entre les deux rives du détroit ont également apporté des défis à son développement. En 2022, suite à une série de commentaires concernant la « patrie », Jam Hsiao a fait l'objet de critiques de la part de certains internautes des deux côtés, ce qui l'a amené à exprimer l'impuissance des artistes dans un environnement politique sensible.
 
-## Une philosophie artistique ancrée
+## Tournées internationales et export culturel
 
-Après seize ans de carrière, Jam Hsiao défend une conviction inébranlable : **la musique doit rester pure, non asservie aux diktats du marché.** Il ne suit pas les modes, il trace son propre sillon — et c'est précisément ce qui confère à son œuvre un caractère singulier.
+En tant que l'une des figures représentatives de la pop taïwanaise, Jam Hsiao s'efforce de promouvoir la musique Mandopop sur la scène internationale. **Lors de la Coupe du Monde au Brésil en 2014, il a été choisi comme ambassadeur de Taïwan pour l'événement, et sa chanson _Let Go_ est devenue le générique de fin des retransmissions de la Coupe du Monde à Taïwan.**
 
-Il l'a dit lui-même : « La définition de la "zone de confort" est différente pour chacun. En musique, je cherche constamment l'équilibre — quelque chose qui me convient, mais qui convient aussi à ceux qui écoutent. » Cette recherche entre exigence artistique et sincérité populaire est au cœur de tout ce qu'il crée.
+**En 2018, il a lancé sa tournée mondiale « Mr. Entertainment »,** parcourant l'Asie du Sud-Est, notamment la Malaisie et Singapour. Ces performances ont confirmé son charisme scénique capable de transcender les barrières linguistiques.
 
-De la rue aux plateaux, du statut de challenger à celui de roi des Golden Melody Awards, de simple artiste à légende météorologique, Jam Hsiao incarne la diversité et l'ouverture d'esprit de la pop taïwanaise. Il est la preuve vivante que les meilleures histoires sont celles qu'on n'avait pas prévues.
+**En 2024, Jam Hsiao a lancé sa tournée « Wild » (野生),** un thème qui fait écho à l'essence même de sa carrière : naturel, authentique et imprévisible. De Shanghai à Chengdu, chaque concert est décrit comme « un festin musical vivant ».
 
-**Dans une industrie musicale de plus en plus formatée, Jam Hsiao nous rappelle que les voix les plus précieuses sont celles qu'on ne peut pas prédire.**
+## Philosophie musicale et persévérance artistique
+
+Tout au long de ses seize années de carrière, Jam Hsiao a toujours maintenu une conviction : **la musique doit être pure et ne devrait pas être excessivement contrainte par des considérations commerciales.** Il ne suit pas aveuglément les tendances du marché, préférant rester fidèle à son propre style, une attitude qui confère à ses œuvres une identité unique.
+
+Il a déclaré un jour : « La définition de la "zone de confort" varie pour chacun. En musique, je cherche constamment l'équilibre — quelque chose qui soit confortable pour moi et pour l'auditeur. » Cette phrase résume parfaitement sa philosophie de création : trouver sa propre place entre l'art et le commerce.
+
+D'artiste de rue à maître des défis, de lauréat des Golden Melody Awards à légende du « Dieu de la Pluie », Jam Hsiao a prouvé, par sa voix unique et son parcours de vie imprévisible, la diversité et l'inclusivité de la musique populaire taïwanaise. Il est le meilleur représentant de la « beauté de l'imprévu » dans la scène Mandopop.
+
+**Dans une industrie musicale de plus en plus formatée, Jam Hsiao nous rappelle que les meilleures voix proviennent souvent d'âmes qu'on ne peut prédire.**
 
 ## Références
 
-- [Wikipédia : 蕭敬騰](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Biographie détaillée et discographie
-- [National Cultural Memory Bank : 24e Golden Melody Awards](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507328) — Archives du palmarès
-- [PTS News : Jam Hsiao remporte le titre de roi des Golden Melody Awards](https://news.pts.org.tw/article/244506) — Reportage sur la cérémonie 2013
-- [Wikipédia : Super Star Avenue saison 1](<https://zh.wikipedia.org/zh-tw/%E8%B6%85%E7%B4%9A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_(%E7%AC%AC%E4%B8%80%E5%B1%86)>) — Archives de l'épreuve des challengers
-- [Wikipédia : Lion](https://zh-yue.wikipedia.org/wiki/%E7%8D%85%E5%AD%90LION) — Formation du groupe et participation à Singer 2017
-- [ETtoday : Jam Hsiao investit 150 millions de NT$ dans la restauration](https://star.ettoday.net/news/1962443) — Reportage sur son activité entrepreneuriale
-- [Top 10 of Asia : Taiwan's King of Golden Melody](https://www.top10asia.org/feature-story/taiwans-king-of-golden-melody/) — Portrait international
-- [Global Times : Jam Hsiao releases new album](https://www.globaltimes.cn/page/202312/1304297.shtml) — Couverture internationale de son album 2023
+- [Wikipédia : Jam Hsiao](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Biographie détaillée et liste des œuvres
+- [National Cultural Memory Archive : 24e Golden Melody Awards, Jam Hsiao sacré Meilleur Artiste Masculin Mandarine](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507328) — Registre des prix Golden Melody
+- [PTS News : Jam Hsiao remporte le titre de Meilleur Artiste Masculin, Jolin remporte la meilleure chanson](https://news.pts.org.tw/article/244506) — Reportage sur les Golden Melody Awards 2013
+- [Wikipédia : Première édition de Super Star Avenue](<https://zh.wikipedia.org/zh-tw/%E8%B6%85%E7%B4%9A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_(%E7%AC%AC%E4%B8%80%E5%B1%86)>) — Archives historiques des défis
+- [Wikipédia : Lion Group](https://zh-yue.wikipedia.org/wiki/%E7%8D%85%E5%AD%90LION) — Formation du groupe et données sur la participation à Singer 2017
+- [ETtoday : Jam Hsiao ajoute une nouvelle activité, investit NT$150 millions dans un restaurant](https://star.ettoday.net/news/1962443) — Reportage sur ses investissements dans la restauration
+- [Top 10 of Asia: Taiwan's King of Golden Melody](https://www.top10asia.org/feature-story/taiwans-king-of-golden-melody/) — Présentation de Jam Hsiao sous un angle international
+- [Global Times: Jam Hsiao releases new album](https://www.globaltimes.cn/page/202312/1304297.shtml) — Reportage international sur son nouvel album en 2023

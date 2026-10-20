@@ -1,6 +1,6 @@
 ---
-title: 'Voir Taïwan — Les impressions historiques de Taïwan'
-description: "De l'ère des Grandes Découvertes à l'époque contemporaine, comment chaque époque et chaque peuple ont perçu cette île"
+title: "Voir Taïwan — Impressions historiques de l'île"
+description: "De l'ère des grandes découvertes à l'époque contemporaine, les différents groupes ont contemplé cette île de diverses manières : les Atayal croient que les esprits des ancêtres ont laissé des empreintes sur la terre, considérant les montagnes et les rivières comme le corps de leurs aïeux, se définissant ainsi comme les enfants de la terre ; les Amis, quant à eux, expriment leur lien avec le sol par l'image de l'enracinement. Ce recueil d'introductions rassemble des légendes transmises de génération en génération et des souvenirs de l'île, tissant ainsi une multiplicité de perspectives."
 date: 2026-03-17
 tags: ['citations', 'histoire', 'littérature', 'culture']
 author: 'Taiwan.md Contributors'
@@ -9,10 +9,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-06-07T02:26:08+08:00'
+translatedAt: '2026-10-15T20:40:40.451054+00:00'
 ---
 
 # Voir Taïwan — Les impressions historiques de Taïwan

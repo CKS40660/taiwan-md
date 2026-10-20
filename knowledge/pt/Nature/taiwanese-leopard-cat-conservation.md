@@ -1,17 +1,17 @@
 ---
 title: 'Conservação do Gato-leopardo de Taiwan'
-description: 'Menos de 500 gatos-fantasma em toda Taiwan — quando o último felino nativo caminha para a beira da extinção'
+description: 'Após a extinção do leopardo-nuvem, o último felino nativo da ilha é este "fantasma das colinas"; com menos de 500 indivíduos, enfrenta atropelamentos, perda de habitat e ataques de cães.'
 date: 2026-03-18
 category: 'Nature'
 tags:
   [
-    'gato-leopardo',
-    'conservação',
-    'atropelamento',
-    'habitat',
+    'Gato-leopardo',
+    'Conservação',
+    'Atropelamento de fauna',
+    'Habitat',
     'Miaoli',
-    'espécie ameaçada',
-    'ecologia',
+    'Espécie ameaçada',
+    'Ecologia',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -20,182 +20,184 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: '825528805'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:53a697c302d622a3'
 sourceBodyHash: 'sha256:7ed841e26f0abf1f'
-translatedAt: '2026-10-02T02:18:39.669611+00:00'
+translatedAt: '2026-10-15T20:18:02+08:00'
 ---
 
 # Conservação do Gato-leopardo de Taiwan
 
 ## Visão geral em 30 segundos
 
-Taiwan já teve o leopardo-nebuloso, mas este foi oficialmente declarado extinto em 2013. Agora, o último felino nativo de Taiwan é apenas uma espécie — o **gato-leopardo**, com uma população estimada em menos de 500 indivíduos em toda a ilha, e ainda em declínio. Não é um número estático, mas uma linha em queda contínua.
+Taiwan já teve leopardos-nuvem, mas a espécie foi oficialmente declarada extinta em 2013. Agora, o último felino nativo de Taiwan é apenas um — o **gato-leopardo** (_Prionailurus bengalensis_). Estima-se que existam menos de 500 indivíduos em toda a ilha, e esse número continua a diminuir. Não se trata de um número estático, mas de uma linha em constante declínio.
 
-Se nada fizermos, a próxima espécie a ser declarada extinta pode desaparecer nesta geração.
+Se não fizermos nada, a próxima espécie a ser anunciada como desaparecida poderá ser da nossa geração.
 
-Ele não vive nas montanhas profundas. Vive nas áreas de baixa altitude de Miaoli, Nantou e Taichung, exatamente onde a pressão do desenvolvimento humano é mais intensa. Atravessa estradas e é atropelado por carros; seu território de caça vira fábrica; as galinhas que captura fazem os agricultores ranger os dentes; até cães vadios o matam. A história do gato-leopardo é o confronto mais agudo entre o "desenvolvimento" e a "conservação" em Taiwan.
+Ele não vive em montanhas profundas e remotas. Ele habita as zonas de colinas de baixa altitude em Miaoli, Nantou e Taichung — justamente as áreas sob maior pressão de desenvolvimento humano. Ele morre atropelado ao atravessar estradas, seus campos de caça são cobertos por fábricas, as galinhas que ele caça irritam os agricultores e até cães vira-latas podem matá-lo. A história do gato-leopardo é o confronto mais agudo entre "desenvolvimento" e "conservação" em Taiwan.
 
-**Dados-chave:**
+**Dados fundamentais:**
 
-- População estimada de gatos-leopardo em Taiwan: **menos de 500 indivíduos**
-- Habitat principal: áreas de baixa altitude em Miaoli, Nantou e Taichung
-- Registros de atropelamento 2017–2023: **mais de 130 indivíduos**
-- Gato-leopardo classificado como **espécie selvagem protegida de primeira categoria em perigo crítico**
-- É o **único felino nativo ainda existente em Taiwan**
-
----
-
-## Por que importa
-
-O gato-leopardo importa não apenas porque é um gato. É uma **espécie indicadora do ecossistema de baixa montanha**. Se o gato-leopardo vai bem, significa que todo o ambiente de baixa montanha (rãs, roedores, aves, insetos nos campos) ainda está saudável. Se o gato-leopardo desaparece, significa que toda a cadeia alimentar já se rompeu.
-
-O significado mais profundo é: o lugar onde o gato-leopardo vive não é uma natureza selvagem desabitada, é o quintal dos humanos. Proteger o gato-leopardo equivale a fazer uma pergunta que ninguém quer responder — **estamos dispostos a deixar um pedaço de terra no nosso próprio quintal para outras espécies?**
-
-Nossas decisões diárias afetam diretamente sua vida ou morte, do desenho de estradas locais ao modo de cultivo das terras agrícolas.
-
-O habitat do gato-leopardo é exatamente onde a pressão do desenvolvimento humano se concentra mais, e sua situação é o teste mais severo para o trabalho de conservação em Taiwan.
+- População estimada em Taiwan: **menos de 500 indivíduos**
+- Principais habitats: colinas de baixa altitude em Miaoli, Nantou e Taichung
+- Atropelamentos registrados (2017–2023): mais de **130 indivíduos**
+- O gato-leopardo é classificado como **espécie selvagem de primeira classe em perigo de extinção** em Taiwan
+- É o único felino nativo ainda existente em Taiwan
 
 ---
 
-## O gato-fantasma: você provavelmente nunca viu um
+## Por que isso é importante?
 
-### Não é gato doméstico, nem leopardo
+O gato-leopardo é importante não apenas por ser um felino. Ele é uma **espécie indicadora do ecossistema de colinas**. Se o gato-leopardo vive bem, significa que todo o ambiente das colinas (sapos, roedores, aves e insetos nos campos) ainda está saudável. Se ele desaparecer, significa que toda a cadeia alimentar foi rompida.
 
-O gato-leopardo (_Prionailurus bengalensis_), nome científico "gato-leopardo" (豹貓), mas não tem parentesco com o leopardo. Tamanho semelhante ao gato doméstico, cerca de 3 a 6 kg.
+Um significado mais profundo é: o lugar onde o gato-leopardo vive não é um deserto inabitado, é o quintal da humanidade. Proteger o gato-leopardo é fazer uma pergunta que ninguém quer responder — **estamos dispostos a reservar um pedaço de terra na nossa porta para outras espécies?**
 
-Como distinguir? A característica mais óbvia são **duas listras brancas longitudinais na testa**, que vão do nariz até a testa. A parte de trás das orelhas tem manchas brancas evidentes (olhos falsos). O corpo todo é coberto de manchas redondas pretas, não listras.
+Nossas decisões cotidianas afetam diretamente sua vida ou morte, desde o design das estradas locais até os métodos de cultivo nas terras agrícolas.
 
-O gato-leopardo é animal noturno, com grande área de atividade (machos podem chegar a 5–10 km²), solitário. Por isso é chamado de "gato-fantasma" — vive perto da sua casa, mas você pode passar a vida inteira sem nunca ver um.
-
-### A baixa montanha é sua casa, e também seu túmulo
-
-O gato-leopardo não vive nos parques nacionais de alta montanha. Vive em áreas de baixa montanha abaixo de 800 m de altitude, onde se entrelaçam campos agrícolas, pomares, bambuzais e florestas secundárias.
-
-A característica desses lugares é: **perto dos humanos**. Tongxiao, Houlong, Xihu, Tungluo em Miaoli; Zhongliao, Jiji em Nantou; Xinshe, Heping em Taichung — as estradas rurais, bordas de pomares, corredores fluviais desses municípios são o habitat do gato-leopardo, e também onde a abertura de estradas, expansão agrícola e construção de fábricas são mais intensas.
+O habitat do gato-leopardo coincide com as áreas de maior pressão de desenvolvimento humano; sua situação é o teste mais severo para o trabalho de conservação em Taiwan.
 
 ---
 
-## Quatro Formas de Morte
+## O gato fantasma: você pode nunca tê-lo visto
 
-### I. Morte por atropelamento: o massacre mais silencioso
+### Não é um gato doméstico, nem um leopardo
 
-No círculo de conservação em Taiwan, existe um termo que causa arrepios ao ser ouvido: **morte por atropelamento** (路殺). O gato-leopardo é uma espécie noturna; ele atravessa estradas à noite para caçar, procurar parceiros ou patrulhar seu território. As estradas rurais de Miaoli e Nantou não possuem passagens para animais, nem dispositivos de redução de velocidade, nem nenhum projeto pensado para a vida selvagem.
+O gato-leopardo (_Prionailurus bengalensis_) tem esse nome científico, mas não tem relação com leopardos. Seu tamanho é semelhante ao de um gato doméstico, pesando entre 3 e 6 kg.
 
-Quando os faróis se acendem, os olhos do gato-leopardo refletem, e então...
+Como diferenciá-lo? A característica mais óbvia são as **duas listras brancas longitudinais na testa**, que se estendem do nariz até a fronte. Há manchas brancas distintas na parte de trás das orelhas (manchas oculares falsas). O corpo é coberto por manchas pretas arredondadas, não por listras.
 
-O especial sobre morte por atropelamento da Wowo usou um título desolador: "Puf! E eu virei carne seca".
+O gato-leopardo é um animal noturno, com uma grande área de atividade (machos podem cobrir 5–10 km²) e vive de forma solitária. É por isso que ele é chamado de "gato fantasma" — ele vive perto de você, mas você pode passar a vida inteira sem nunca vê-lo.
 
-Entre 2017 e 2023, foram registradas mais de 130 mortes de gato-leopardo por atropelamento. [^2] Aqueles que não foram encontrados, ninguém sabe quantos são.
+### As colinas são sua casa, mas também seu cemitério
 
-O pesquisador do gato-leopardo, Lin Hsu-hsiu, rastreou um indivíduo chamado "Xiao Cao". Ele foi atropelado **duas vezes**, mas sobreviveu ambas as vezes. Lin Hsu-hsiu disse: "Xiao Cao conseguiu se salvar em dois acidentes de carro; se nós não fizermos algo pelo gato-leopardo, isso é realmente sacrificar sua capacidade de autossalvamento."
+O gato-leopardo não vive nos parques nacionais de alta montanha. Ele habita zonas de colinas abaixo dos 800 metros de altitude, onde campos agrícolas, pomares, bambuzais e florestas secundárias se entrelaçam.
 
-### II. Desaparecimento do habitat: a casa foi demolida
+A característica desses locais é: **estão muito perto das pessoas**. Em cidades como Tongxiao, Houlong, Xihu e Tongluo em Miaoli; Zhongliao e Jiji em Nantou; ou Xinshe e Heping em Taichung, as trilhas rurais, bordas de pomares e corredores de riachos são o habitat do gato-leopardo, mas também são os locais de maior densidade de estradas, expansão agrícola e construção de fábricas.
 
-Miaoli é o condado com a maior densidade populacional e a melhor continuidade de habitat para os gatos-leopardos. No entanto, Miaoli também é um dos locais em Taiwan onde as disputas pelo desenvolvimento são mais frequentes.
+---
 
-Em 2019, o "Regulamento Autônomo de Conservação do Gato-Leopardo" proposto pelo governo do condado de Miaoli foi **rejeitado duas vezes** pela câmara municipal. O motivo era "afetar o desenvolvimento local". Um condado que se autodenomina a "Capital do Gato-leopardo" nem conseguiu aprovar uma lei para proteger o gato-leopardo.
+## Quatro formas de morrer
 
-Este é o teatro da conservação em Taiwan: você usa o nome do gato-leopardo no marketing turístico, o imprime em mascotes, o desenha em ônibus — mas quando a proteção ao gato-leopardo realmente restringe o desenvolvimento, ele deixa de ser importante.
+### 1. Atropelamento: o massacre silencioso
 
-### III. Morte por cães: a ameaça mais subestimada
+No meio da conservação em Taiwan, existe um termo que causa calafrios: **atropelamento de fauna** (_roadkill_). O gato-leopardo é noturno; ele atravessa estradas à noite para caçar, procurar parceiros ou patrulhar seu território, mas as estradas rurais de Miaoli e Nantou não possuem passagens para animais, dispositivos de redução de velocidade ou qualquer design pensado para a vida selvagem.
 
-Este é um dilema que o mundo animal de Taiwan não quer enfrentar: **cães vadios matam gatos-leopardos**.
+Quando os faróis brilham, os olhos do gato-leopardo refletem a luz e então —
 
-As imagens capturadas por câmeras automáticas são cada vez mais comuns: grupos de cães errantes aparecem no habitat do gato-leopardo, perseguindo, atacando e matando. A Wowo fez um especial sobre "Cães Matando Gatos-Leopardos", e os dados mostram que a morte por cães é a segunda maior fonte de mortalidade registrada para o gato-leopardo, depois do atropelamento.
+O especial sobre atropelamentos da Wowo usou um título de partir o coração: "Ploft! E então eu virei carne seca".
 
-A mordida é apenas metade desta ameaça. Cães e gatos errantes introduzem doenças infecciosas em montanhas baixas, e os gatos-leopardos infectados têm suas chances de sobrevivência nas estradas diminuindo, fazendo com que as mortes por cães e por atropelamento não sejam estatisticamente independentes. Esta cadeia causal, os dados de triagem viral da Universidade Pingke e a controvérsia em torno da política de eutanásia que ela levanta são discutidos integralmente em [Cultura Animal Errante em Taiwan](/pt/society/stray-animal-culture).
+Entre 2017 e 2023, foram registrados mais de 130 casos de gatos-leopardo mortos em estradas. [^2] Quantos não foram descobertos? Ninguém sabe.
 
-Isso coloca as organizações de proteção animal e os acadêmicos da conservação ecológica de Taiwan em uma posição extremamente embaraçosa. Os defensores dos cães vadios dizem "não pode haver eutanásia"; os protetores do gato-leopardo dizem "se não cuidarmos dos cães errantes, o gato-leopardo realmente vai à extinção".
+A pesquisadora Lin Yu-hsiu (林育秀) acompanhou um gato-leopardo chamado "Xiao Cao" (小草). Ele foi atropelado **duas vezes** e sobreviveu em ambas. Lin disse: "Xiao Cao conseguiu se salvar após dois acidentes; se não fizermos nada pelo gato-leopardo, estaremos desperdiçando o esforço de sobrevivência dele."
 
-Ambos estão protegendo animais, mas os animais de ambos se matam.
+### 2. Desaparecimento do habitat: a casa foi demolida
 
-Este debate ainda não tem resposta, mas ele força a sociedade de Taiwan a enfrentar um fato: **"amar os animais" não é uma posição simples; ela está repleta de contradições e escolhas.**
+Miaoli é o condado com a maior densidade de gatos-leopardo e a melhor continuidade de habitat. No entanto, Miaoli também é um dos lugares com mais disputas de desenvolvimento em Taiwan.
 
-### IV. Envenenamento e armadilhas
+Em 2019, a "Lei de Autonomia para Conservação do Gato-leopardo" proposta pelo governo do condado de Miaoli foi **rejeitada duas vezes** pela assembleia do condado. O motivo alegado foi que "afetaria o desenvolvimento local". Um condado que se autodenomina a "Capital do Gato-leopardo" não consegue aprovar sequer uma regulamentação para protegê-lo.
 
-Os gatos-leopardos comem galinhas. Para os fazendeiros das montanhas baixas, a invasão do galinheiro por um gato-leopardo é uma perda econômica real. Algumas formas de resposta dos fazendeiros são diretas: envenenamento.
+Este é o teatro absurdo da conservação em Taiwan: você usa o nome do gato-leopardo para marketing turístico, imprime em mascotes e desenha em ônibus — mas quando a proteção exige limitar o desenvolvimento, o gato-leopardo deixa de ser importante.
 
-Além disso, as armadilhas de caça em áreas montanhosas, embora proibidas desde 2020, ainda existem secretamente. Após serem acionadas por um gato-leopardo, eles podem perder dedos levemente ou morrer de fome por não conseguir se alimentar gravemente.
+### 3. Ataque de cães: a ameaça subestimada
 
-## A luz da conservação: há quem guarde
+Este é o constrangimento que o movimento de proteção animal em Taiwan menos quer enfrentar: **cães vira-latas matam gatos-leopardo**.
 
-### Pagamento por serviços ecossistêmicos do gato-leopardo
+Imagens capturadas por câmeras automáticas mostram cada vez mais frequentemente matilhas de cães errantes em habitats de gatos-leopardo, perseguindo, atacando e matando-os. A Wowo produziu um especial inteiro sobre "ataques de cães", e os dados mostram que esta é a segunda maior causa de morte registrada, exceto pelos atropelamentos.
 
-"Você não pega minhas galinhas, eu não te enveneno" — a lógica é clara, mas você não pode explicar isso ao gato-leopardo. Então o governo mudou a abordagem: **paga aos agricultores**.
+O ataque é apenas metade do problema. Cães e gatos errantes trazem doenças infecciosas para as colinas, e gatos-leopardo infectados têm menos chances de sobreviver nas estradas; portanto, as causas "ataque de cães" e "atropelamento" não são independentes estatisticamente. Esta cadeia causal, os dados de triagem viral do Instituto de Ciência e Tecnologia de Pingtung (屏科大) e a polêmica sobre políticas de controle populacional podem ser discutidos integralmente em [Cultura dos Animais Errantes em Taiwan](/pt/society/stray-animal-culture).
 
-Desde 2021, o Ministério da Agricultura promove o "Programa de Pagamento por Serviços Ecossistêmicos do Gato-leopardo".[^3] Basta o agricultor, dentro da área de habitat do gato-leopardo, adotar cultivo amigo da fauna (sem iscas envenenadas, sem armadilhas), para receber subsídio de até 20.000 NT$ por hectare. Se câmera automática registrar gato-leopardo em sua terra, mais 10.000 NT$.
+Isso coloca as organizações de proteção animal e os ecologistas em uma posição extremamente desconfortável. Quem protege cães errantes diz "não se pode abater"; quem protege o gato-leopardo diz "se não controlarmos os cães, o gato-leopardo será extinto".
 
-Não é caridade. É **transformar o agricultor em aliado da conservação, não inimigo**.
+Ambos os lados estão protegendo animais, mas os animais de ambos os lados estão se matando.
 
-Desde a implementação, já centenas de famílias agrícolas aderiram. Um agricultor disse: "Antes via gato-leopardo e queria xingar; agora vejo gato-leopardo e pego o celular para fotografar, porque fotografar dá dinheiro."
+Não há resposta para esse debate até hoje, mas ele força a sociedade taiwanesa a encarar um fato: **"amar animais" não é uma posição simples; é cheia de contradições e escolhas difíceis.**
 
-### Corredores ecológicos e passagens para fauna
+### 4. Envenenamento e armadilhas
 
-Para o problema do atropelamento, alguns trechos em Miaoli e Nantou começaram a instalar **passagens para fauna**, construindo bueiros ou túneis sob as estradas para que o gato-leopardo atravesse com segurança.
+Gatos-leopardo comem galinhas. Para os agricultores das zonas de colinas, a invasão de galinheiros por gatos-leopardo representa uma perda econômica real. Alguns agricultores respondem de forma direta: usando veneno.
 
-Essas passagens funcionam? Câmeras automáticas registraram gatos-leopardo usando as passagens. Funcionam, mas são poucas. Em toda a rede viária de Miaoli, os trechos com passagens para fauna ainda são minoria.
+Além disso, embora as armadilhas de captura tenham sido proibidas por lei em 2020, elas ainda existem clandestinamente nas montanhas. Quando um gato-leopardo aciona uma armadilha, ele pode perder um dedo ou morrer de fome por não conseguir caçar.
+
+---
+
+## A luz da conservação: há quem vigie
+
+### Pagamento por Serviços Ecossistêmicos do Gato-leopardo
+
+"Não pegue minhas galinhas e eu não te enveneno" — essa lógica é clara, mas você não pode pedir que o gato-leopardo entenda a linguagem humana. Por isso, o governo mudou a abordagem: **pagar aos agricultores**.
+
+Desde 2021, o Ministério da Agricultura promove o "Plano de Pagamento Ecológico do Gato-leopardo". [^3] Se o agricultor adotar práticas de cultivo amigáveis ao gato-leopardo (sem veneno ou armadilhas) dentro da área de habitat, ele pode receber um subsídio de até NT$ 20.000 por hectare. Se uma câmera automática registrar um gato-leopardo em sua terra, recebe-se mais NT$ 10.000.
+
+Isso não é caridade. É **transformar o agricultor em um aliado da conservação, não em um inimigo**.
+
+Desde a implementação, centenas de famílias de agricultores aderiram. Alguns dizem: "Antes, eu queria xingar ao ver um gato-leopardo; agora, pego o celular para fotografar, porque se fotografar, ganho dinheiro."
+
+### Corredores ecológicos e passagens de fauna
+
+Para combater os atropelamentos, trechos de estradas em Miaoli e Nantou começaram a instalar **passagens de fauna**, construindo túneis ou passagens sob as rodovias para que o gato-leopardo possa atravessar com segurança.
+
+Essas passagens funcionam? Câmeras automáticas já registraram gatos-leopardo usando essas passagens. Elas funcionam, mas não são suficientes. Na vasta rede rodoviária de Miaoli, os trechos com passagens para animais ainda são uma minoria.
 
 ### Gatos-leopardo celebridades
 
-A conservação precisa de histórias, e de protagonistas. **Ji Bao**, gato-leopardo resgatado no Abrigo de Animais de Houli em Taichung, virou celebridade da educação para conservação por sua personalidade dócil. Fez muita gente que nunca ligou para o gato-leopardo saber pela primeira vez que Taiwan tem esse animal.
+A conservação precisa de histórias e protagonistas. **Jibao** (集寶), um gato-leopardo resgatado pelo abrigo de animais de Houli, Taichung, tornou-se uma estrela da educação ambiental por seu temperamento dócil. Ela fez com que muitas pessoas que nunca se interessaram pelo tema soubessem, pela primeira vez, que esse animal existe em Taiwan.
 
-**A Hu**, gato-leopardo do Instituto de Pesquisa de Biodiversidade do Ministério da Agricultura (Instituto de Biodiversidade), participou do programa de reprodução em cativeiro.[^4] Cada filhote de gato-leopardo nascido em cativeiro vira notícia.
+**A-hu** (阿虎), do Instituto de Pesquisa de Biodiversidade do Ministério da Agricultura, participa de programas de reprodução assistida. [^4] Cada nascimento de um filhote de gato-leopardo por reprodução artificial é notícia.
 
-A existência desses gatos-leopardo celebridades é contraditória — eles estão perto dos humanos justamente porque na natureza já não conseguem sobreviver.
+A existência dessas "celebridades" é contraditória — elas só estão perto dos humanos porque já não conseguem mais sobreviver na natureza.
 
 ---
 
-## A Autorregulamentação de Conservação do Gato-leopardo: um espelho da política local
+## Lei de Autonomia para Conservação do Gato-leopardo: um espelho da política local
 
-O conselho do condado de Miaoli em 2019 é uma das cenas mais absurdas da história da conservação em Taiwan. Após anos de pressão de ecólogos e ONGs, o governo do condado finalmente apresentou o projeto da "Autorregulamentação de Conservação do Gato-leopardo". O conteúdo não era radical: apenas exigia que projetos de desenvolvimento na área de habitat do gato-leopardo passassem por avaliação ecológica. O conselho rejeitou na primeira votação; após modificações, rejeitou de novo na segunda.
+A Assembleia do Condado de Miaoli em 2019 foi uma das cenas mais absurdas da história da conservação em Taiwan. Após anos de pressão de ecologistas e grupos de conservação, o governo do condado finalmente propôs o rascunho da "Lei de Autonomia para Conservação do Gato-leopardo". O conteúdo não era radical: apenas exigia que projetos de desenvolvimento dentro do habitat passassem por uma avaliação ecológica. A assembleia rejeitou a primeira vez; após modificações, foi enviada novamente e rejeitada pela segunda vez.
 
-Argumentos dos vereadores incluíam: "O gato-leopardo já é espécie protegida, a lei central já cuida, o condado não precisa legislar de novo"; "vai afetar obras no condado"; "agricultores já sofrem bastante".
+Os argumentos dos vereadores incluíam: "O gato-leopardo é uma espécie protegida e as leis centrais já cuidam disso, o governo local não precisa legislar", "Isso afetará o desenvolvimento de infraestrutura do condado" e "Os agricultores já sofrem muito".
 
-Esses argumentos soam razoáveis, mas traduzidos para o português claro são: o gato-leopardo não pode atrapalhar.
+Esses argumentos parecem razoáveis, mas traduzidos para a linguagem comum significam: o gato-leopardo não pode atrapalhar o caminho.
 
-Nas ruas de Miaoli há desenhos de gato-leopardo por todo lado: abrigos de ônibus, caminhões de lixo, folhetos turísticos. O gato-leopardo é o mascote de Miaoli, mas não pode ser vizinho de Miaoli.
+As ruas de Miaoli estão cheias de imagens de gatos-leopardo: nos pontos de ônibus, nos caminhões de lixo e em folhetos turísticos. O gato-leopardo é o mascote de Miaoli, mas não pode ser seu vizinho.
 
-Por fim, sob pressão da opinião pública, o condado de Miaoli aprovou em terceira votação, em 10 de dezembro de 2019, a primeira autorregulamentação de conservação do gato-leopardo de Taiwan.[^1] Mas o próprio processo já se tornou o caso clássico da enorme distância entre a "conservação de boca" e a "ação real" em Taiwan.
+Finalmente, sob pressão da opinião pública, o condado de Miaoli aprovou, em 10 de dezembro de 2019, a primeira Lei de Autonomia para Conservação do Gato-leopardo de Taiwan. [^1] No entanto, esse processo tornou-se um caso clássico do enorme abismo entre a "conservação de fachada" e a "ação real" em Taiwan.
 
 ---
 
 ## Fatos surpreendentes
 
-Esses detalhes parecem curiosidades frias, mas cada um aponta para a mesma realidade: o gato-leopardo vive perigosamente perto da vida humana.
+Estes detalhes podem parecer curiosidades, mas cada um aponta para a mesma realidade: o gato-leopardo está perto demais da vida humana.
 
-🐆 O nome científico formal do gato-leopardo é **gato-leopardo** (Leopard Cat), mas não tem nenhuma relação de parentesco com o leopardo.👀 A visão noturna do gato-leopardo é **6 vezes** a do ser humano, por isso nas estradas noturnas ele fica especialmente "hipnotizado" pelos faróis.🏠 A área de atividade de um macho pode chegar a **5–10 km²**, equivalente a todo o distrito de Daan em Taipé.
+🐆 O nome científico oficial do gato-leopardo é _Prionailurus bengalensis_, mas ele não tem parentesco com leopardos. 👀 A visão noturna do gato-leopardo é **6 vezes superior** à dos humanos, o que explica por que eles ficam "paralisados" pelos faróis em estradas à noite. 🏠 O território de um macho pode chegar a **5–10 km²**, o equivalente ao distrito de Da'an, em Taipé.
 
-☠️ Taiwan já teve leopardo-nebuloso (_Neofelis nebulosa_), mas em 2013 foi oficialmente declarado **extinto na natureza**.💰 No programa de pagamento por serviços ecossistêmicos, as fotos de "prêmio" do gato-leopardo tiradas por agricultores viraram conteúdo viral nas redes sociais.🐕 Nos casos de predação por cães, os agressores são geralmente **matilhas de cães errantes** (3 ou mais), não cães vadios solitários.🗳️ A autorregulamentação de Miaoli foi rejeitada **duas vezes** no conselho antes de passar na terceira — mas Miaoli usa o gato-leopardo como mascote turístico ao mesmo tempo.📸 A rede de câmeras automáticas do Instituto de Biodiversidade do Ministério da Agricultura é hoje o meio mais sistemático de monitorar a dinâmica populacional do gato-leopardo — mas sua cobertura ainda não chega a metade do habitat da espécie.
+☠️ Taiwan já teve leopardos-nuvem (_Neofelis nebulosa_), mas em 2013 foram declarados oficialmente **extintos na natureza**. 💰 No plano de pagamentos ecológicos, as fotos de "bônus" tiradas por agricultores tornaram-se conteúdos populares nas redes sociais. 🐕 Nos casos de ataques de cães, os agressores são geralmente **matilhas errantes** (3 ou mais cães), e não cães solitários. 🗳️ A lei de Miaoli foi rejeitada **duas vezes** antes de ser aprovada na terceira tentativa — embora o condado use o animal como mascote turístico simultaneamente. 📸 A rede de câmeras automáticas do Instituto de Pesquisa de Biodiversidade é o método mais sistemático para monitorar a população, mas sua cobertura ainda não alcança metade do habitat total.
 
 ---
 
-## As últimas quinhentas
+## Os últimos quinhentos
 
-Quando Taiwan perdeu o leopardo-nebuloso, ninguém teve tempo de se despedir. O gato-leopardo é diferente, ainda está aqui, ainda tem menos de quinhentos. Ele caminha na borda dos pomares de Miaoli, caça nos bambuzais de Nantou, espera ao lado de alguma estrada que você percorre todo dia no trajeto para o trabalho, aguardando uma chance segura de atravessar.
+Quando Taiwan perdeu os leopardos-nuvem, ninguém teve tempo de dizer adeus. Com o gato-leopardo é diferente; ele ainda está aqui, restando menos de 500 indivíduos. Ele passa pelas bordas dos pomares em Miaoli, caça nos bambuzais de Nantou e espera por uma chance de atravessar com segurança a estrada que você usa todos os dias para o trabalho.
 
-Quem trabalha pela conservação do gato-leopardo costuma dizer: "Se a nossa geração estragar tudo, a próxima só vai ver o gato-leopardo na sala de espécimes."
+Pessoas que trabalham na conservação costumam dizer: "Se a nossa geração falhar, a próxima só verá o gato-leopardo em salas de museus."
 
-Não é alarmismo. É matemática. Menos de quinhentos, mais de vinte atropelados por ano, habitat fragmentado pedaço a pedaço, risco de endogamia cada vez maior.
+Isso não é alarmismo. É matemática. Menos de 500 indivíduos, dezenas de mortes por atropelamento todos os anos, habitat sendo fragmentado pedaço por pedaço e um risco crescente de endogamia (cruzamento entre parentes).
 
-Taiwaneses gostam de dizer "com fé há proteção". Mas o gato-leopardo não reza. Ele só continua atravessando à noite aquelas estradas sem passagens para fauna, e depois conta com a sorte.
+Os taiwaneses gostam de dizer "quem reza, é abençoado". Mas o gato-leopardo não reza. Ele apenas continuará atravessando estradas sem passagens de fauna durante a noite, contando com a sorte.
 
 ---
 
 ## Referências
 
-Leitura complementar:
+[^1]: [Lei de Autonomia para Conservação do Gato-leopardo de Miaoli - Centro de Informações Ambientais](https://e-info.org.tw/node/221882) — Confirma que a lei foi aprovada em terceira leitura em 10 de dezembro de 2019.
 
-- [Wowa: A ameaça subestimada. Cães matando leopardos](https://wuo-wuo.com/topics/widlife/dogkill) — Registro de casos de cães matando leopardos.
-- [Administração Florestal e Conservação da Natureza do Ministério da Agricultura](https://www.forest.gov.tw/) — Políticas de conservação do habitat do leopardo.
-- [Embaixadores da conservação do leopardo – Família Ahu](https://www.facebook.com/LeopardCatTaiwan/) — Atualizações sobre a reprodução em cativeiro de leopardos pelo SendoSuo.
+[^2]: [Wowo: Ploft! E então eu virei carne seca — Especial sobre atropelamentos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estatísticas de atropelamentos de gatos-leopardo entre 2017 e 2023.
 
-[^1]: [Regulamento Local de Conservação do Leopardo de Miaoli - Centro de Informações Ambientais](https://e-info.org.tw/node/221882) — Confirmação da aprovação final do Regulamento Local de Conservação do Leopardo do Condado de Miaoli em 10 de dezembro de 2019.
+[^3]: [Plano de Pagamento Ecológico do Gato-leopardo do Ministério da Agricultura](https://www.moa.gov.tw/) — Explicação sobre o plano de subsídios para cultivo amigável ao gato-leopardo.
 
-[^2]: [Wowa: Puf! E eu virei carne seca – Especial sobre atropelamentos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estatísticas de registros de leopardos atropelados entre 2017 e 2023.
+[^4]: [Instituto de Pesquisa de Biodiversidade do Ministério da Agricultura (生多所)](https://www.tbri.gov.tw/) — Programas de reprodução assistida e pesquisa de conservação.
 
-[^3]: [Programa de Pagamento Ecológico do Leopardo do Ministério da Agricultura](https://www.moa.gov.tw/) — Explicação do programa de pagamento para agricultura amigável ao leopardo.
+[^5]: [Wowo: Antes da Extinção — Especial sobre o Gato-leopardo de Taiwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportagem completa sobre o estado atual da conservação do gato-leopardo em Taiwan.
 
-[^4]: [Instituto de Biodiversidade do Ministério da Agricultura (SendoSuo)](https://www.tbri.gov.tw/) — Projeto de reprodução em cativeiro e pesquisa de conservação do leopardo.
+Leituras complementares:
 
-[^5]: [Wowa: Antes da extinção – Especial sobre leopardos de Taiwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Relato completo sobre a situação da conservação do leopardo em Taiwan.
+- [Wowo: A ameaça subestimada • Ataque de cães ao gato-leopardo](https://wuo-wuo.com/topics/widlife/dogkill) — Registros de casos de ataques por cães.
+- [Administração de Florestas e Conservação Natural do Ministério da Agricultura](https://www.forest.gov.tw/) — Políticas de conservação de habitat.
+- [Embaixadores da Conservação do Gato-leopardo — Família A-hu](https://www.facebook.com/LeopardCatTaiwan/) — Atualizações sobre a reprodução assistida do gato-leopardo.

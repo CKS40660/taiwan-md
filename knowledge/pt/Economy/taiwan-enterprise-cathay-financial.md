@@ -1,15 +1,15 @@
 ---
-title: 'Empresas de Taiwan: Cathay Financial Holding'
-description: 'O maior grupo financeiro de Taiwan, o império financeiro construído pelo Grupo Lin Yuan'
+title: 'Empresa de Taiwan: Cathay Financial Holding'
+description: 'A maior holding financeira de Taiwan: com ativos totais de NT$ 12 trilhões, possui sob sua gestão a Cathay Life, o Cathay United Bank e a Cathay Century Insurance. Em novembro de 2025, registrou um lucro mensal de NT$ 14,62 bilhões, consolidando-se como líder de lucros pelo segundo mês consecutivo. Foi a primeira seguradora de vida privada de Taiwan e uma das primeiras empresas a estabelecer uma estrutura de holding financeira. Este artigo explora como o Grupo Linyuan integra seguros, bancos e investimentos em uma linha estratégica.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
     'Economia',
-    'Empresas',
+    'Empresa',
     'Setor Financeiro',
     'Holding Financeira',
-    'Bancos',
+    'Banco',
     'Seguros',
   ]
 subcategory: '企業列傳'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:4749f0faadb8e7bf'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:135918b4f99e7ae7'
 sourceBodyHash: 'sha256:ebc33c96c44483b0'
-translatedAt: '2026-07-26T07:02:07+08:00'
+translatedAt: '2026-10-15T20:38:01.083839+00:00'
 ---
 
 > **Visão geral em 30 segundos**
@@ -167,12 +167,12 @@ Da companhia de seguros de vida fundada pelos irmãos Tsai Wan-chun e Tsai Wan-l
 
 ## Referências
 
-[^1]: [Wikipédia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924-2004) foi cofundador da Cathay Life; Tsai Wan-chun (irmão mais velho) e Tsai Wan-lin fundaram-na conjuntamente em 1962, Tsai Wan-tsai é o quarto irmão que fundou separadamente o Grupo Fubon
+[^1]: [Wikipédia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924-2004) foi cofundador da Cathay Life Insurance; Tsai Wan-chun (irmão mais velho) e Tsai Wan-lin fundaram a empresa juntos em 1962, enquanto o quarto irmão, Tsai Wan-cai, fundou o Grupo Fubon.
 
-[^2]: [Wikipédia — Cathay Financial Holding](https://zh.wikipedia.org/wiki/國泰金融控股) — Ativos totais da Cathay Financial Holding de 12 trilhões de novos dólares taiwaneses (atualização de julho de 2025), maior holding financeira de Taiwan
+[^2]: [Wikipédia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — O total de ativos da Cathay Financial Holdings é de NT$ 12 trilhões (atualizado em julho de 2025), sendo a maior holding financeira de Taiwan.
 
-[^3]: [Cnyes 2025-12 — Ranking de lucros de 13 holdings financeiras](https://www.cnyes.com/) — Lucro líquido mensal da Cathay Financial Holding em novembro de 2025 de 14,62 bilhões de yuans, campeã de lucros por dois meses consecutivos
+[^3]: [鉅亨網 Dezembro de 2025 — Ranking de lucros das 13 holdings financeiras](https://www.cnyes.com/) — O lucro líquido após impostos da Cathay Financial Holdings em novembro de 2025 foi de NT$ 14,62 bilhões, conquistando o título de líder em lucros pelo segundo mês consecutivo.
 
-[^4]: [Relatório ESG da Cathay Financial Holding — Compromisso de finanças sustentáveis](https://www.cathayholdings.com/) — Cathay Life anunciou em 2021 que não faria novos investimentos relacionados ao carvão, primeira seguradora de Taiwan a assumir este compromisso
+[^4]: [Relatório ESG da Cathay Financial — Compromisso com Finanças Sustentáveis](https://www.cathayholdings.com/) — A Cathay Life Insurance anunciou em 2021 que não realizaria novos investimentos relacionados ao carvão, sendo a primeira seguradora de Taiwan a assumir tal compromisso.
 
-[^5]: [Wikipédia — Cathay Financial Holding](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holding fundada em 2001, primeira holding financeira após aprovação da "Lei das Empresas de Holding Financeira" de Taiwan
+[^5]: [Wikipédia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — A Cathay Financial Holdings foi estabelecida em 2001, sendo a primeira holding financeira de Taiwan após a aprovação da Lei das Holdings Financeiras.

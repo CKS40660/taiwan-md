@@ -1,15 +1,15 @@
 ---
-title: 'Taiwan-Unternehmen: Chunghwa Telecom (中華電信)'
-description: 'Der größte Telekommunikationsanbieter Taiwans, vom staatlichen Monopol zur digitalen Transformation führend'
+title: 'Taiwanisches Unternehmen: Chunghwa Telecom'
+description: 'Das 1996 gegründete und 2005 vollständig privatisierte Unternehmen entstand aus der Umstrukturierung der Telegrafenbehörde des Verkehrsministeriums. Als größter Telekommunikationsanbieter Taiwans verzeichnete es im Jahr 2024 einen Umsatz von NT$230,03 Milliarden, eine Marktkapitalisierung von fast einer Billion NT$ und beschäftigt etwa 30.000 Mitarbeiter. Mit einem Marktanteil von über 90 % bei Festnetzanschlüssen und rund 12 Millionen Mobilfunkkunden ist das Unternehmen landesweit führend. Der Branchenprimus konzentriert sich in den letzten Jahren verstärkt auf die drei wachsenden Geschäftsfelder Cloud, IDC (Rechenzentren) und Cybersicherheit, die jeweils jährlich um über 50 % gewachsen sind, und stellt eine entscheidende Infrastruktur zur Unterstützung der digitalen Resilienz Taiwans dar.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
     'Wirtschaft',
     'Unternehmen',
-    'Telekommunikation',
-    'digitale Transformation',
-    'Verstaatlichung/Privatisierung',
+    'Telekommunikationsbranche',
+    'Digitale Transformation',
+    'Privatisierung staatlicher Unternehmen',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4a4d66620'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
-translatedAt: '2026-09-12T19:24:15+08:00'
+translatedAt: '2026-10-15T20:57:12.933109+00:00'
 ---
 
 > **30-Sekunden-Überblick**

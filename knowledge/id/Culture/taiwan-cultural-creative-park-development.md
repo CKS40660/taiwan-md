@@ -1,15 +1,15 @@
 ---
-title: 'Perkembangan Kawasan Kreatif Budaya Taiwan'
-description: 'Dari revitalisasi bangunan tua menjadi klaster kreatif, perjalanan dan model inovasi kawasan kreatif budaya di Taiwan'
+title: 'Pengembangan Kawasan Kreatif Budaya Taiwan'
+description: 'Kawasan kreatif budaya di Taiwan berawal dari revitalisasi bangunan lama, dengan Huashan, Songshan Cultural and Creative Park, dan Pier-2 Art Center sebagai representasi utamanya. Proyek ini mengubah fasilitas industri seperti pabrik minuman keras dan pabrik tembakau yang terbengkalai menjadi klaster industri kreatif; pemerintah mendorong rencana pengembangan industri kreatif serta menyediakan dukungan legislatif, sehingga kawasan tersebut bertransformasi dari pabrik terbengkalai menjadi ikon budaya ternama di dunia, yang memiliki makna ganda dalam regenerasi kota dan peningkatan industri.'
 date: 2026-03-19
 category: 'Culture'
 tags:
   [
-    'kawasan kreatif',
-    'revitalisasi bangunan tua',
-    'industri kreatif',
-    'pembaruan kota',
-    'pelestarian budaya',
+    'Kawasan Kreatif Budaya',
+    'Revitalisasi Bangunan Lama',
+    'Industri Kreatif',
+    'Pembaruan Perkotaan',
+    'Pelestarian Budaya',
   ]
 subcategory: '藝術園區'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Culture/台灣文化創意園區發展.md'
-sourceCommitSha: 'f712b7242'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:e1fa112b66596f53'
 sourceBodyHash: 'sha256:fb4423c4414816f5'
-translatedAt: '2026-09-23T22:11:56+08:00'
+translatedAt: '2026-10-15T20:09:36.071607+00:00'
 ---
 
 # Perkembangan Kawasan Kreatif Budaya Taiwan

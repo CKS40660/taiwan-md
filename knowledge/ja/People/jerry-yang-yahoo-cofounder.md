@@ -1,19 +1,30 @@
 ---
-tags: ['楊致遠', 'Yahoo']
-translatedFrom: People/楊致遠.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d1617940aa3ac2f4'
-sourceBodyHash: 'sha256:e0245844724d0a9c'
-translatedAt: '2026-05-01T14:48:26+08:00'
-category: People
+title: 'ジェリー・ヤン：英語が「Shoe」しか分からなかった10歳から、世界のポータルサイト時代を切り開いた「Yahoo!」の父へ'
+description: '1978年、10歳のジェリー・ヤンがアメリカへ移住したとき、知っている英単語は「Shoe」だけでした。1994年、スタンフォード大学で博士論文から逃避していた彼は、仲間とともにトレーラーハウスで手作業でウェブページを分類し、Yahoo!を作り上げました。混沌としたインターネットの世界を一冊のディレクトリに整理し、ポータルサイトの黄金時代を幕開けさせたのです。同社の時価総額は一時1000億ドルを突破し、2005年には「狂気の大賭け」とも言われたアリババへの投資で、世界のインターネット地図を塗り替えました。'
 date: 2026-04-29
-title: '楊致遠（ジェリー・ヤン、Jerry Yang）：英語一語しか知らなかった少年がグローバルなポータル時代を開いた「Yahoo!の父」'
-description: '1978年、10歳の楊致遠（ジェリー・ヤン）がアメリカに移民した時、知っていた英語は「Shoe（靴）」の一語だけだった。1994年、スタンフォード大学で博士論文から逃げていた彼はパートナーとトレーラーの中でウェブページを手動分類し、時価総額が一時1000億ドルを超えたYahoo!を偶然に生み出した。さらに2005年には「狂気の大勝負」とも呼ばれたアリババ（阿里巴巴）への投資によって、グローバルなインターネット版図を書き換えた。'
+category: 'People'
+tags:
+  [
+    'ジェリー・ヤン',
+    'Yahoo',
+    '起業',
+    'スタンフォード大学',
+    'アリババ',
+    '移民',
+    'シリコンバレー',
+    '台湾',
+  ]
+subcategory: '科技與企業'
 author: 'idlccp1984'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 12
+translatedFrom: 'People/楊致遠.md'
+sourceCommitSha: 'c8d8d3ad4'
+sourceContentHash: 'sha256:d1617940aa3ac2f4'
+sourceBodyHash: 'sha256:e0245844724d0a9c'
+translatedAt: '2026-10-15T22:36:11.608369+00:00'
 ---
 
 # 楊致遠（ジェリー・ヤン）：英語一語しか知らなかった少年が、世界のポータル時代を開いた「Yahoo!の父」

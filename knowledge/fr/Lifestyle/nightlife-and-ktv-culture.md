@@ -1,19 +1,20 @@
 ---
-title: 'Vie nocturne et culture du KTV'
-description: 'Des salles privées de Cashbox aux izakayas de nuit, la vie nocturne insulaire qui ne dort jamais 24h/24'
+title: 'Vie nocturne et culture KTV'
+description: "Les KTV en box privé ont connu un essor dans les années 1990, avec l'expansion de marques telles que Cashbox, Holiday et Star Cineplex. Avec plus de 100 000 chansons disponibles et une gamme allant des suites présidentielles luxueuses aux salles festives abordables, le KTV est devenu le divertissement et le lieu de rencontre privilégiés de la population. Cependant, l'incendie du KTV Myth World en 1992 ayant fait 16 morts, ainsi que celui du Cashbox (branche de Linsen) en 2020 ayant fait 6 morts, ces deux tragédies ont poussé la société à se confronter sérieusement à la sécurité des issues de secours dans les box. La compétition entre les géants du secteur et les réformes de sécurité s'entremêlent pour façonner la vie nocturne de l'île."
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['Vie quotidienne', 'vie nocturne', 'KTV', 'izakaya de nuit', 'Taïwan']
+tags:
+  ['vie quotidienne', 'vie nocturne', 'KTV', 'restauration nocturne', 'Taïwan']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-20T00:52:39+08:00'
+translatedAt: '2026-10-15T20:33:19.638687+00:00'
 ---
 
 # Vie nocturne et culture du KTV

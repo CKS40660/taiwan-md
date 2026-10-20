@@ -1,17 +1,17 @@
 ---
-title: 'Pertanian dan Pembangunan Pedesaan di Taiwan'
-description: 'Dari kerajaan beras ke pertanian halus: kisah transformasi pertanian dan kelahiran kembali komunitas pedesaan di Taiwan'
+title: 'Pertanian dan Regenerasi Pedesaan Taiwan'
+description: 'Dari pemuliaan beras Penglai pada masa penjajahan Jepang dan reformasi agraria pasca-perang, hingga pertanian presisi dan ekonomi rantai pangan saat ini, sektor pertanian di pulau ini telah bertransformasi dari kerajaan produksi padi massal menjadi paradigma baru yang memadukan kreativitas dan keberlanjutan. Pemuda yang kembali ke desa menggunakan siaran langsung ponsel yang dipadukan dengan pengiriman langsung dari sumbernya untuk memungkinkan konsumen melakukan pemesanan di muka, sehingga desa-desa pedesaan yang sempat kehilangan populasi kini bangkit kembali sebagai fondasi penting bagi budaya dan ekologi.'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'pertanian',
-    'pembangunan pedesaan',
-    'pertanian halus',
-    'pertanian organik',
-    'kembali ke desa generasi muda',
-    'sistem koperasi pertanian',
-    'pembangunan komunitas',
+    'Pertanian',
+    'Regenerasi Pedesaan',
+    'Pertanian Presisi',
+    'Pertanian Organik',
+    'Pemuda Kembali ke Desa',
+    'Sistem Asosiasi Pertanian',
+    'Pembangunan Komunitas',
   ]
 subcategory: '農業經濟'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '35a9b46c8'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:bea7a776566a0bbd'
 sourceBodyHash: 'sha256:760025faea8ce9a0'
-translatedAt: '2026-09-21T00:58:31+08:00'
+translatedAt: '2026-10-15T21:37:33.998472+00:00'
 ---
 
 # Pertanian dan Pembangunan Pedesaan di Taiwan

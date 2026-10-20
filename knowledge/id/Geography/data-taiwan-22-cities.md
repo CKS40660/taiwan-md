@@ -28,10 +28,10 @@ imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:446265901543dd85'
-sourceBodyHash: 'sha256:2daf1a831ec93084'
-translatedAt: '2026-09-26T10:22:50+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:426316f6a96d8460'
+sourceBodyHash: 'sha256:035cd9cc6b8c328a'
+translatedAt: '2026-10-15T02:50:43.591252+00:00'
 ---
 
 # Melihat Taiwan 22 Kabupaten/Kota Melalui Data: Perbedaan Kepadatan 151 Kali Lipat, Perbedaan Usia Hampir Satu Generasi
@@ -50,46 +50,47 @@ Artikel ini ingin melakukan satu hal: menggunakan data resmi untuk melukis potre
 
 > **Ringkasan 30 detik:** Akhir 2025, total populasi Taiwan 23.299.132 orang (sekitar 23,3 juta), telah berkurang selama 23 bulan berturut-turut, bayi baru lahir pertama kali turun di bawah 110.000. Tahun yang sama Taiwan secara resmi memasuki "masyarakat super-lansia," satu dari lima orang berusia di atas 65 tahun. Namun rata-rata nasional menyembunyikan kesenjangan internal yang besar: kepadatan penduduk tertinggi dan terendah berbeda 151 kali lipat, skala populasi berbeda 297 kali lipat, tingkat penuaan berbeda hampir satu generasi. Penduduk terkonsentrasi di enam kota besar, garis depan penuaan bukan di kota tetapi di timur, pulau terpencil, dan kabupaten pertanian, tempat termuda adalah Kabupaten/Kota Hsinchu yang didukung oleh Taman Sains Hsinchu. Ini adalah Taiwan yang terpolarisasi dan menua bersama.[^2]
 
-## Tujuh Puluh Persen Penduduk, Tiga Puluh Persen Lahan
+## 70% Penduduk, 30% Lahan
 
-Pertama, lihat satu fakta yang sering diabaikan: penduduk Taiwan sebenarnya tinggal sangat terkonsentrasi.
+Mari lihat satu fakta yang mudah terlewat: penduduk Taiwan sebenarnya tinggal sangat terpusat.
 
-Akhir 2025, enam kota besar (Taipei, Xinbei, Taoyuan, Taichung, Tainan, Kaohsiung) secara kolektif menampung 16.278.931 orang, mewakili 69,87% dari total populasi Taiwan. Dengan kata lain, hampir tujuh dari sepuluh orang Taiwan tinggal di enam kota besar. Tetapi lahan dari enam kota besar ini, ketika digabungkan, hanya mewakili 30,12% dari total luas Taiwan. Tujuh puluh persen penduduk, terjepit di tiga puluh persen lahan. Tiga puluh persen penduduk yang tersisa tersebar di tujuh puluh persen lahan lainnya. Ini adalah struktur pertama dari distribusi populasi Taiwan.
+Akhir 2025, enam kota besar (Taipei, Xinbei, Taoyuan, Taichung, Tainan, Kaohsiung) totalnya menampung 16.278.931 orang, mencakupi 69,87% total populasi Taiwan. Dengan kata lain, dari sepuluh orang Taiwan, hampir tujuh orang tinggal di enam kota besar tersebut. Namun lahan keenam kota besar itu hanya mencakupi 30,12% luas wilayah Taiwan. 70% penduduk terdesak di 30% lahan. Sisa 30% penduduk tersebar di 70% lahan lainnya. Inilah struktur pertama distribusi populasi Taiwan.
 
 ```tw-stat
-23,3 juta | Total populasi Taiwan | Akhir 2025, berkurang selama 23 bulan berturut-turut
-20,06% | Proporsi populasi 65 tahun ke atas | 2025 secara resmi melampaui ambang super-lansia
-69,87% | Proporsi populasi enam kota besar dari nasional | Namun hanya tinggal di 30% lahan
+2,330 萬 | Total Populasi Taiwan | Akhir 2025, Turun 23 Bulan Berturut-turut
+20,06% | Proporsi Populasi 65 Tahun Ke Atas | 2025 Resmi Melampaui Ambang Super-Lansia
+69,87% | Proporsi Populasi Enam Kota Besar Terhadap Nasional | Namun Hanya Menempati 30% Lahan
+Sumber: Statistik Populasi Kementerian Dalam Negeri (Total Populasi Akhir 2025, Proporsi 65 Tahun Ke Atas, Proporsi Populasi Enam Kota Besar) dan Data Reformasi Kota Besar[^1][^4]
 ```
 
-Tata letak tujuh banding tiga ini bukan terbentuk secara alami, ia memiliki titik awal institusional yang jelas. 25 Desember 2010, Taiwan sekaligus menulis ulang peta administratif: Kabupaten Taipei naik status menjadi Kota Xinbei, Kabupaten/Kota Taichung bergabung, Kabupaten/Kota Tainan bergabung, Kabupaten/Kota Kaohsiung bergabung, ditambah Kota Taipei yang sudah ada, lima kota besar lahir bersamaan. Empat tahun kemudian pada 25 Desember 2014, Taoyuan naik status menjadi kota besar keenam. Dalam waktu singkat empat tahun, Taiwan berubah dari dua kota besar menjadi enam, dan timbangan sumber daya, anggaran, dan pembangunan juga miring.[^4]
+Pola 70:30 ini tidak terbentuk secara alami; ia memiliki titik awal sistemik yang jelas. Pada 25 Desember 2010, Taiwan sekaligus menulis ulang peta administrasinya: Kabupaten Taipei naik status menjadi Kota Xinbei, Kabupaten/Kota Taichung digabung, Kabupaten/Kota Tainan digabung, Kabupaten/Kota Kaohsiung digabung, ditambah Kota Taipei yang sudah ada, lima kota besar lahir serentak. Empat tahun kemudian, pada 25 Desember 2014, Taoyuan naik status menjadi kota besar keenam. Dalam empat tahun singkat, Taiwan berubah dari dua kota besar menjadi enam, dan keseimbangan sumber daya, anggaran, serta pembangunan pun mengikuti condong.[^4]
 
-Naik status tidak pernah hanya sekadar mengubah nama. Kota besar menerima dana alokasi terkoordinasi, komposisi staf, dan sumber pendapatan mandiri yang jauh lebih tinggi daripada kabupaten/kota biasa. Pembangunan pergi ke mana, peluang kerja tumbuh ke sana, orang muda pindah ke sana. Institusi terlebih dahulu menarik garis, populasi kemudian mengalir mengikuti garis itu. Konsentrasi enam kota besar yang kita lihat hari ini, dalam beberapa hal, adalah buah dari reformasi 2010 lebih dari satu dekade kemudian.
+Naik status tidak pernah hanya soal ganti nama. Kota besar menerima dana perimbangan, formasi personel, dan sumber pendapatan sendiri yang jauh lebih tinggi dibandingkan kabupaten/kota biasa. Ke mana pembangunan pergi, di situlah peluang kerja tumbuh, dan ke situ pula orang muda berpindah. Sistem terlebih dahulu menarik garis, lalu populasi mengikuti aliran garis itu. Konsentrasi di enam kota besar yang kita lihat hari ini, pada tingkat tertentu, adalah buah dari reformasi 2010 itu lebih dari sepuluh tahun kemudian.
 
-Grafik di bawah ini membuat "di mana orang Taiwan tinggal" lebih jelas. Kota Xinbei saja menampung 17,4% dari populasi nasional, Taichung 12,3%, Kaohsiung 11,7%, Taipei 10,5%, Taoyuan 10,1%, Tainan 7,9%—enam kota besar bersama-sama mencapai hampir tujuh puluh persen. Sementara enam belas kabupaten/kota lainnya yang tersebar di seluruh Taiwan, dari utara hingga pulau terpencil, semuanya bersama-sama hanya mewakili 30,1%.
+Diagram di bawah memecah "di mana orang Taiwan tinggal" dengan lebih jelas. Kota Xinbei saja sudah menampung 17,4% populasi nasional, Taichung 12,3%, Kaohsiung 11,7%, Taipei 10,5%, Taoyuan 10,1%, Tainan 7,9% — keenam kota besar totalnya mendekati 70%. Sementara 16 kabupaten/kota lain yang tersebar di seluruh Taiwan, dari utara hingga pulau-pulau terpencil, totalnya hanya 30,1%.
 
 ```tw-waffle
-Di mana orang Taiwan tinggal (% dari populasi nasional)
+Di Mana Orang Taiwan Tinggal (% Populasi Nasional)
 Kota Xinbei | 17,4
 Kota Taichung | 12,3
 Kota Kaohsiung | 11,7
 Kota Taipei | 10,5
 Kota Taoyuan | 10,1
 Kota Tainan | 7,9
-16 kabupaten/kota lainnya | 30,1
-Sumber: Kementerian Dalam Negeri, akhir 2025
+16 Kabupaten/Kota Lainnya | 30,1
+Sumber: Kementerian Dalam Negeri, Akhir 2025
 ```
 
-Jika Anda menatap grafik kotak ini untuk waktu yang lama, Anda akan menghasilkan satu pertanyaan: bagaimana kehidupan orang-orang itu, 30% yang tersebar di 70% lahan? Jawabannya tersembunyi dalam kepadatan.
+Perhatikan diagram waffle ini sebentar, akan muncul pertanyaan: bagaimana kehidupan 30% penduduk yang tersebar di 70% lahan? Jawabannya tersembunyi di dalam kepadatan.
 
-![Garis langit Kota Taipei dengan gedung-gedung tinggi di Distrik Xinyi dan Nangang, dengan perumahan dan kantor berlapis-lapis yang padat](/article-images/society/taipei-skyline-housing-2026.webp)
-_Garis langit Kota Taipei. Kabupaten/kota paling padat di Taiwan, dengan 8.975 orang per kilometer persegi. Photo: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
+![Horizon langit kawasan Xinyi dan Nangang Kota Taipei, gedung bertingkat padat susunan hunian dan komersial berlapis-lapis](/article-images/society/taipei-skyline-housing-2026.webp)
+_Horizon langit Kota Taipei. Kabupaten/kota paling padat di seluruh Taiwan, dengan 8.975 orang per kilometer persegi. Foto: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
 
-## Dari Terpadat hingga Tersepi, Perbedaan 151 Kali Lipat
+## Dari Paling Padat ke Paling Sepi, Selisih 151 Kali
 
-Konsentrasi populasi berbicara tentang "berapa banyak orang," kepadatan berbicara tentang "seberapa padat." Yang terakhir lebih dapat membuat Anda merasakan jarak antara dua Taiwan.
+Konsentrasi populasi berbicara tentang "berapa banyak orang", kepadatan berbicara tentang "seberapa padat". Yang terakhir lebih membuat Anda merasakan jarak antara dua Taiwan.
 
-Kota Taipei memiliki 8.975 orang per kilometer persegi, tempat paling padat di Taiwan. Kepadatan Taipei adalah kehidupan sehari-hari: kereta bawah tanah penuh sesak pada jam sibuk, menunggu lampu merah harus menunggu dua putaran, rumah dibangun tinggi dan sempit. Kota Hsinchu yang mengikuti memiliki 4.376 orang per kilometer persegi, kurang dari setengah Taipei. Kemudian Kota Keelung 2.710 orang. Hanya di antara ketiga kota paling padat ini, kepadatan sudah mengalami penurunan yang curam.
+Kota Taipei dengan 8.975 orang per kilometer persegi, adalah tempat paling padat di seluruh Taiwan. Kepadatan Taipei adalah hal sehari-hari: MRT penuh sesak di jam sibuk, menunggu lampu merah harus dua putaran, rumah dibangun tinggi dan sempit. Diikuti oleh Kota Hsinchu dengan 4.376 orang per kilometer persegi, belum setengah dari Taipei. Kemudian Kota Keelung 2.710 orang. Hanya ketiga kota paling padat ini di antara mereka sendiri, kepadatan sudah mengalami penurunan curam.
 
 ```tw-bars
 Kota Taipei | 8.975 orang/km²
@@ -97,18 +98,18 @@ Kota Hsinchu | 4.376 orang/km²
 Kota Keelung | 2.710 orang/km²
 Kabupaten Changhua | 1.126 orang/km²
 Kabupaten Hualien | 68 orang/km²
-Kabupaten Taitung | 59 orang/km² | Tersepi di Taiwan
-Sumber: Kementerian Dalam Negeri, akhir 2025
+Kabupaten Taitung | 59 orang/km² | Paling sepi di seluruh Taiwan
+Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, akhir 2025
 ```
 
-Pindahkan pandangan ke ujung lain dari grafik batang ini, perbedaannya baru benar-benar terlihat. Kabupaten Changhua memiliki 1.126 orang per kilometer persegi, sudah dianggap relatif padat untuk kabupaten pertanian. Sampai ke [Kabupaten Hualien](/id/geography/hualien-county/), angkanya turun menjadi 68 orang. Paling bawah, Kabupaten Taitung, hanya tersisa 59 orang per kilometer persegi. Satu kilometer persegi di Taipei menampung orang yang setara dengan 151 kilometer persegi di Taitung untuk menampung. Inilah wujud nyata dari perbedaan 151 kali lipat—Anda berkendara dari Distrik Xinyi ke Taitung, melihat dengan mata sendiri kepadatan penduduk di luar jendela menipis.
+Arahkan pandangan ke ujung lain diagram batang ini, kesenjangan barulah benar-benar terlihat. Kabupaten Changhua dengan 1.126 orang per kilometer persegi, sudah dianggap relatif padat di antara kabupaten pertanian. Sampai di [Kabupaten Hualien](/id/geography/hualien-county/), angka turun menjadi 68 orang. Di paling bawah Kabupaten Taitung, setiap kilometer persegi hanya tersisa 59 orang. Orang yang muat di satu kilometer persegi Taipei, setara dengan 151 kilometer persegi Taitung baru muat penuh. Inilah wujud nyata dari kesenjangan 151 kali — Anda mengemudi dari Distrik Xinyi menuju Taitung, menyaksikan sendiri kepadatan populasi di luar jendela menipis.
 
-Di balik ini ada satu fakta geografis yang mendukungnya. Kabupaten/kota dengan luas terbesar di Taiwan adalah Kabupaten Hualien, 4.628 kilometer persegi, hampir seluruh sisi timur Pegunungan Pusat. Lahan luas, penduduk sedikit, banyak gunung, kepadatan Hualien dan Taitung secara alami diencerkan ke tingkat terendah di Taiwan. Sementara [Kabupaten Lienchiang](/id/geography/lienchiang-county/) yang paling kecil hanya memiliki 28,8 kilometer persegi. Kepadatan adalah masalah, setengahnya adalah pilihan manusia, setengahnya ditentukan oleh kondisi geografis bawaan.
+Di balik ini ada sebuah fakta geografis yang mendukung. Kabupaten/kota dengan luas terbesar di Taiwan adalah Kabupaten Hualien, 4.628 kilometer persegi, hampir seluruh sisi timur Pegunungan Tengah. Luas besar, penduduk sedikit, gunung banyak, kepadatan Hualien dan Taitung secara alami terencer hingga terendah di seluruh Taiwan. Sementara [Kabupaten Lienchiang](/id/geography/lienchiang-county/) dengan luas terkecil hanya 28,8 kilometer persegi. Soal kepadatan, separuh adalah pilihan manusia, separuh ditentukan kondisi topografi bawaan.
 
-Pernyataan umum sering langsung menyamakan "kepadatan penduduk tinggi" dengan kemajuan, dan "kepadatan rendah" dengan ketertinggalan, tetapi hubungan korespondensi ini sebenarnya membalikkan sebab-akibat. Kepadatan Taitung rendah bukan karena tidak bisa berkembang, tetapi karena punggungnya menempel pada gunung besar, menghadap Samudra Pasifik, kondisi geografis bawaan memang luas dan sedikit penduduk. "Kekosongan" Hualien menampung Taroko, menampung Pegunungan Pantai, menampung lanskap belakang Taiwan yang paling lengkap. Angka kepadatan hanya memberi tahu Anda apakah orang padat atau tidak, tidak memberi tahu Anda nilai lahan itu. Jika Anda mengurutkan semua 22 kabupaten/kota Taiwan menjadi spektrum dari padat hingga sepi, apa yang Anda lihat adalah pulau yang tumbuh dengan cara hidup berbeda di atas bentang alam yang berbeda.
+Pandangan umum sering menganggap "kepadatan populasi tinggi" langsung sebagai kemajuan, dan "kepadatan rendah" sebagai kemunduran, tapi hubungan ini justru membalik sebab-akibat. Kepadatan Taitung rendah bukan karena ia tidak bisa berkembang, melainkan karena ia berbukit ke pegunungan besar, menghadap Samudra Pasifik, secara bawaan sudah memiliki kondisi geografis luas tapi penduduk sedikit. Kesepian Hualien berisi Taroko, berisi Pegunungan Pantai, berisi pemandangan pegunungan belakang paling utuh di Taiwan. Angka kepadatan hanya memberitahu Anda apakah orang ramai atau tidak, ia tidak memberitahu nilai lahan itu. Menyusun 22 kabupaten/kota seluruh Taiwan menjadi spektrum dari padat ke sepi, yang Anda lihat adalah sebuah pulau tumbuh menumbuhkan cara hidup berbeda di topografi yang berbeda.
 
-![Jalan Bolan di Chihshang, Taitung, jalan pedesaan lurus sepanjang 2,2 kilometer tanpa tiang listrik, dengan sawah terbuka di kedua sisi](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
-_Jalan Bolan di Chihshang, Taitung. Kabupaten paling sepi di pulau yang sama, 59 orang per kilometer persegi, satu per seratus lima puluh satu dari Taipei. Photo: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg).\_
+![Jalan Berlang Chishang Taitung, sekitar 2,2 kilometer jalan kecil pegunungan lurus, kedua sisi sawah terbuka, tanpa tiang listrik](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
+_Jalan Berlang di Chishang Taitung. Kabupaten paling sepi di pulau yang sama, 59 orang per kilometer persegi, satu per seratus lima puluh satu Taipei. Foto: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>).\_
 
 ## Raksasa dan Debu
 
@@ -174,38 +175,39 @@ Di sini harus menghancurkan satu kesalahpahaman populer: banyak orang berpikir p
 
 ## Satu Pulau, Menua Bersama
 
-Tarik lensa dari kabupaten/kota ke nasional, cerita penuaan Taiwan masih memiliki satu dimensi yang lebih layak diwaspadai: kecepatan.
+Menggeser kamera dari tingkat kabupaten/kota ke tingkat nasional, kisah penuaan Taiwan masih memiliki satu dimensi yang lebih patut diwaspadai: kecepatan.
 
-Taiwan bukan baru mulai menua sekarang. 1993, proporsi populasi 65 tahun ke atas di nasional melampaui 7%, menurut definisi internasional melangkah ke "masyarakat penuaan." 2018, angka ini mencapai 14,05%, memasuki "masyarakat lansia." 2025, melampaui 20%, menjadi "masyarakat super-lansia." Tiga tonggak terlihat hanya tiga tahun, tetapi tersembunyi di dalamnya adalah penurunan yang semakin cepat.
+Taiwan bukan baru saja mulai menua. Tahun 1993, proporsi penduduk berusia 65 tahun ke atas di seluruh negara melebihi 7%, sesuai definisi internasional memasuki "masyarakat yang menua". Tahun 2018, angka ini mencapai 14,05%, memasuki "masyarakat lansia". Tahun 2025, menembus 20% lagi, menjadi "masyarakat super-lansia". Tiga tonggak sejarah tampak hanya tiga tahun, namun di dalamnya tersembunyi lereng menurun yang semakin cepat.
 
 ```tw-timeline
-1993 | Masyarakat Penuaan | 65+ melampaui 7%, Taiwan mulai menua
-2018 | Masyarakat Lansia | 65+ mencapai 14%, dari tahap sebelumnya butuh 25 tahun
-2025 | Masyarakat Super-Lansia | 65+ melampaui 20%, tahap ini hanya butuh 7 tahun
+1993 | Masyarakat yang Menua | 65+ melebihi 7%, Taiwan mulai menua
+2018 | Masyarakat Lansia | 65+ mencapai 14%, dari tonggak sebelumnya butuh 25 tahun
+2025 | Masyarakat Super-Lansia | 65+ menembus 20%, tonggak ini hanya butuh 7 tahun
+Sumber: Statistik Populasi Kementerian Dalam Negeri dan Definisi Ambang Batas Penuaan Internasional (1993 7%、2018 14,05%、2025 20%)[^1]
 ```
 
-Lihat dua jarak di garis waktu ini. Dari 7% ke 14%, Taiwan butuh 25 tahun; tetapi dari 14% ke 20%, hanya butuh 7 tahun. Segmen jalan belakang ini hanya menggunakan kurang dari sepertiga waktu segmen depan. Taiwan sedang menua, dan semakin cepat. Ini dianggap cepat di antara berbagai negara di dunia, negara lain memiliki puluhan tahun untuk perlahan menyesuaikan sistem perawatan jangka panjang, pensiun, kesehatan, Taiwan dikompresi dalam tujuh tahun singkat, harus membangun seluruh sistem perawatan lansia dalam jendela waktu yang sangat pendek.
+Perhatikan dua jarak pada garis waktu ini. Dari 7% ke 14%, Taiwan menghabiskan 25 tahun; namun dari 14% ke 20%, hanya menghabiskan 7 tahun. Bagian belakang ini hanya memakan waktu kurang dari sepertiga dari bagian depan. Taiwan sedang menua, dan semakin cepat. Ini termasuk sangat cepat di antara negara-negara dunia; negara lain punya puluhan tahun untuk perlahan menyesuaikan perawatan jangka panjang, pensiun, sistem kesehatan, Taiwan dipaksa dalam waktu tujuh tahun singkat, harus membangun seluruh sistem perawatan lanjut usia dalam jendela waktu yang sangat sempit.
 
 ```tw-line
-Peningkatan Proporsi Populasi 65 Tahun ke Atas Nasional (%)
-Tahun | 65+ Proporsi
+Kenaikan Proporsi Penduduk 65 Tahun Ke Atas di Tingkat Nasional (%)
+Tahun | Proporsi 65+
 2000 | 8,6
 2010 | 10,7
 2020 | 16,1
 2025 | 20,06
-Sumber: Kementerian Dalam Negeri, Dewan Pengembangan Nasional
+Sumber: Kementerian Dalam Negeri、Dewan Pengembangan Nasional
 ```
 
-Garis naik ini membuat akselerasi terlihat lebih jelas. 2000 proporsi 65 tahun ke atas nasional adalah 8,6%, 2010 adalah 10,7%, sepuluh tahun hanya naik sedikit lebih dari 2 poin persentase; tetapi sepuluh tahun dari 2010 ke 2020, angka melompat dari 10,7% ke 16,1%, kemudian ke 20,06% di 2025. Ujung garis jelas lebih curam daripada kepala. Kurva penuaan Taiwan sedang menekuk ke atas.
+Garis melengkung naik ini memperlihatkan percepatan dengan lebih jelas. Tahun 2000 proporsi 65+ di tingkat nasional 8,6%, 2010 jadi 10,7%, sepuluh tahun naik sekitar 2 poin persen saja; tapi 2010 ke 2020 sepuluh tahun, angka meloncat dari 10,7% ke 16,1%, lalu ke 2025 menjadi 20,06%. Ujung garis jelas lebih curam dari kepala garis. Kurva penuaan Taiwan, sedang melengkung ke atas.
 
-Sisi lain dari penuaan adalah keruntuhan di ujung kelahiran. 2025, jumlah bayi baru lahir Taiwan pertama kali turun di bawah 110.000, hanya 107.812. Kelahiran rendah dan penuaan adalah dua sisi koin yang sama: lansia di atas semakin banyak, bayi baru di bawah semakin sedikit, seluruh struktur populasi terus kepala berat kaki ringan. Ini juga mengapa indeks penuaan kabupaten/kota di depan begitu tinggi: lansia di atas bertambah, bayi di bawah berkurang drastis.
+Sisi lain penuaan, adalah runtuhnya ujung kelahiran. Tahun 2025, jumlah bayi baru lahir Taiwan pertama kali turun di bawah 110 ribu, hanya 107.812 orang. Kelahiran rendah dan penuaan adalah dua sisi mata uang yang sama: di atas orang tua semakin banyak, di bawah anak-anak yang masuk semakin sedikit, seluruh struktur populasi jadi semakin berat di atas ringan di bawah. Inilah mengapa indeks penuaan kabupaten/kota tadi begitu tinggi: orang tua di atas bertambah, anak-anak di bawah justru terlalu sedikit.
 
 > **📝 Catatan Kurator**
-> Kita sangat mudah memahami "pengurangan populasi" sebagai "orang muda pindah dari pedesaan ke kota, jadi pedesaan berkurang, kota bertambah," seolah-olah hanya sekadar perpindahan di pulau. Tetapi data 2025 mengungkapkan satu hal yang lebih fundamental: "pertambahan alami" semua kabupaten/kota nasional semuanya negatif. Artinya, di setiap kabupaten/kota Taiwan, tidak peduli urban atau rural, besar atau kecil, jumlah kematian semua melampaui jumlah kelahiran. Ini bukan lagi masalah ke mana populasi mengalir, tetapi seluruh pulau sedang mengalami lebih banyak kematian daripada kelahiran. Migrasi masuk dan keluar hanya mendistribusikan ulang populasi yang sudah menyusut, tidak menciptakan orang baru apa pun.
+> Kita mudah mengira "penurunan populasi" berarti "orang muda pindah dari desa ke kota, jadi desa jadi sepi, kota jadi ramai", seolah hanya pindah rumah di dalam pulau. Tapi data 2025 mengungkap hal lebih fundamental: "pertambahan alami" **semua** kabupaten/kota di seluruh negara **semuanya negatif**. Artinya, di setiap kabupaten/kota Taiwan, tidak peduli perkotaan atau pedesaan, besar atau kecil, jumlah kematian melebihi jumlah kelahiran. Ini sudah bukan soal orang pindah ke mana, tapi **seluruh pulau ini sedang mati lebih banyak dari lahir**. Migrasi masuk-keluar hanya mendistribusikan ulang populasi yang sudah menyusut, ia tidak menciptakan manusia baru.
 
-Fakta ini layak untuk berhenti dan dipikirkan dengan jelas. 2025, hanya empat kabupaten/kota di Taiwan yang masih berkembang: Taoyuan, Kabupaten Hsinchu, Taichung, Kota Hsinchu. Dan pertumbuhan mereka semua berasal dari "pertambahan sosial," yaitu migrasi penduduk dari luar, mengandalkan penyerapan orang dari kabupaten/kota lain, bukan dari kelahiran sendiri. Selain keempat itu, 18 kabupaten/kota lainnya populasinya semua berkurang. Penurunan terbesar adalah Kabupaten Kinmen, Kabupaten Lienchiang, Kota Taipei, perhatikan, bahkan Kota Taipei yang paling ramai juga dalam daftar kehilangan ini. Ketika kelahiran di setiap sudut nasional tidak bisa menggantikan kematian, empat kabupaten/kota yang masih berkembang itu, sebenarnya hanya sementara berdiri di atas kehilangan orang lain.
+Fakta ini patut dihentikan sejenak untuk dipikirkan jernih. Tahun 2025, kabupaten/kota di seluruh Taiwan yang masih tumbuh hanya tersisa empat: Taoyuan, Kabupaten Hsinchu, Taichung, Kota Hsinchu. Dan pertumbuhan mereka **sepenuhnya** berasal dari "pertambahan sosial", yaitu migrasi masuk dari luar daerah, mengandalkan menarik orang dari kabupaten/kota lain, bukan melahirkan sendiri. Kecuali keempatnya, 18 kabupaten/kota sisanya populasi semuanya menurun. Penurunan terbesar ada di Kabupaten Kinmen, Kabupaten Lienchiang, Kota Taipei — perhatikan, bahkan Kota Taipei yang paling ramai pun ada dalam daftar kehilangan ini. Ketika kelahiran di setiap sudut negara tidak bisa menutupi kematian, keempat kabupaten/kota yang masih membesar itu, sebenarnya hanya sementara berdiri di atas kehilangan orang lain.
 
-Inilah mengapa total populasi berkurang selama 23 bulan berturut-turut, turun ke 23.299.132 orang. Ini adalah penyusutan sinkron seluruh pulau, setiap kabupaten/kota sedang menyusut. Perbedaannya hanya, beberapa tempat sementara bertahan dengan migrasi masuk, beberapa tempat bahkan tidak memiliki penyangga ini.
+Inilah mengapa total populasi terus menurun 23 bulan berturut-turut, turun ke 23.299.132 jiwa. Ini adalah penyusutan serentak seluruh pulau, setiap kabupaten/kota menyusut. Bedanya hanya: ada tempat yang berkat migrasi masuk sementara menopang angka, ada tempat yang bahkan buffer itu pun tidak ada.
 
 ## Potret yang Dilukis Data
 

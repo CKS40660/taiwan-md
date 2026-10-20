@@ -1,6 +1,6 @@
 ---
 title: 'Chen Yu-hsun'
-description: 'Sutradara film komedi Taiwan, pencipta "Tropical Fish", "The Chef, the Actor, the Scoundrel", "My Missing Valentine"'
+description: 'Sutradara komedi Taiwan yang berasal dari lingkungan desa militer (juancun), ia membangun bahasa kreatif film komedi lokal melalui lima film panjang, ahli dalam mengeksplorasi isu kehidupan yang mendalam melalui humor khas Taiwan dan kehangatan humanis dalam situasi absurd; sangat terinspirasi oleh maestro komedi Hollywood, ia memenangkan Penghargaan Film Terbaik di Golden Horse Awards melalui "The Vanished Valentine", memberikan pengakuan eksternal paling bergengsi bagi gaya kreatifnya.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -9,8 +9,8 @@ tags:
     'sutradara',
     'film komedi',
     'Tropical Fish',
-    'The Chef the Actor the Scoundrel',
-    'My Missing Valentine',
+    'Master Chef',
+    'The Vanished Valentine',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -18,128 +18,128 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'People/陳玉勳.md'
-sourceCommitSha: 'f712b7242'
+sourceCommitSha: 'afc244ca1'
 sourceContentHash: 'sha256:bc132f506d9946e5'
 sourceBodyHash: 'sha256:ae4d7d2f8418495d'
-translatedAt: '2026-08-09T08:01:31+08:00'
+translatedAt: '2026-10-15T12:42:56+08:00'
 ---
 
-# Chen Yu-hsun: Sang Penyihir Hangat Film Komedi Taiwan
+# Chen Yu-hsun: Penyihir Hangat dalam Film Komedi Taiwan
 
-Dari 1995 "Tropical Fish" hingga 2020 "My Missing Valentine", Chen Yu-hsun membangun satu tata bahasa kreatif film komedi Taiwan yang berakar pada tanah air melalui lima film panjang. Film-filmnya penuh humor khas Taiwan dan kehangatan kemanusiaan, ahlinya mengeksplorasi isu-isu kehidupan yang mendalam di tengah situasi-situasi absurd. "My Missing Valentine" meraih Penghargaan Film Terbaik ke-57 Golden Horse Awards, menjadi pengakuan eksternal paling kuat bagi tata bahasa kreatif ini.
+Dari _Tropical Fish_ (熱帶魚) pada tahun 1995 hingga _The Vanished Valentine_ (消失的情人節) pada tahun 2020, Chen Yu-hsun telah membangun sebuah bahasa kreatif untuk film komedi lokal Taiwan melalui lima film panjangnya. Film-filmnya penuh dengan humor khas Taiwan dan kehangatan humanis, serta ahli dalam mengeksplorasi isu kehidupan yang mendalam di tengah situasi yang absurd. Kemenangan _The Vanished Valentine_ sebagai Film Terbaik pada Golden Horse Awards ke-57 merupakan pengakuan eksternal paling kuat terhadap gaya kreatif ini.
 
-## Mimpi Film Seorang Anak Desa Militer
+## Mimpi Sinematik Pemuda Desa Militer
 
-Chen Yu-hsun (lahir 28 Mei 1960) lahir di Taipei, ayahnya seorang tentara, dan ia tumbuh besar di lingkungan desa militer. Latar belakang budaya para pendatang dari berbagai provinsi yang bercampur aduk di desa militer serta rasa kekeluargaan yang kental, menjadi bahan konkret bagi kreativitasnya di kemudian hari.
+Chen Yu-hsun (lahir pada 28 Mei 1960) lahir di Taipei; ayahnya adalah seorang tentara, dan ia tumbuh besar di lingkungan desa militer (_juancun_). Latar belakang budaya desa militer yang dihuni oleh imigran dari berbagai provinsi serta rasa kekeluargaan yang kental memberikan materi konkret bagi karya-karyanya di masa depan.
 
-Masa sekolah menengah ia mulai mengenal film, terpengaruh sangat dalam oleh maestro komedi Hollywood seperti Billy Wilder dan Frank Capra. Ia menemukan bahwa film mampu menyampaikan emosi mendalam di tengah tawa, dan memutuskan menjadikannya visi hidup.
+Ia mulai bersentuhan dengan film sejak masa sekolah menengah dan sangat dipengaruhi oleh maestro komedi Hollywood seperti Billy Wilder dan Frank Capra. Ia menyadari bahwa film dapat menyampaikan emosi yang mendalam melalui tawa, dan memutuskan untuk menjadikan hal tersebut sebagai cita-cita hidupnya.
 
-Lulus dari Universitas Seni Nasional Taiwan (dahulu Akademi Seni Nasional) [^1], menerima pendidikan film yang lengkap. Selama kuliah ia menyutradarai banyak film pendek, menunjukkan bakat dan kecintaan pada genre komedi.
+Ia lulus dari National Taiwan University of Arts (sebelumnya National College of Arts) [^1] dan menerima pendidikan film yang lengkap. Selama masa kuliah, ia membuat banyak film pendek yang menunjukkan bakat dan kecintaannya pada genre komedi.
 
 ## Pelatihan Kreatif di Dunia Periklanan
 
-Lulus kuliah Chen Yu-hsun memasuki dunia periklanan, tempo cepat dan tuntutan kreatif industri iklan melatihnya secara konkret untuk menguasai ritme dan efek visual dengan presisi, kemampuan ini meninggalkan jejak jelas dalam kreativitas filmnya kemudian.
+Setelah lulus, Chen Yu-hsun memasuki dunia periklanan. Ritme kerja yang cepat dan tuntutan kreativitas dalam industri iklan melatih kemampuannya dalam mengendalikan ritme dan efek visual secara presisi, yang meninggalkan jejak jelas dalam karya filmnya di kemudian hari.
 
-Selama di dunia periklanan, Chen Yu-hsun menyutradarai tak terhitung jumlah iklan kreatif, meraih banyak penghargaan iklan. Ia belajar menarik perhatian penonton dalam waktu sesingkat mungkin, keterampilan ini sangat berguna dalam pembuatan film.
+Selama berkarier di dunia periklanan, Chen Yu-hsun menyutradarai banyak iklan kreatif dan memenangkan berbagai penghargaan periklanan. Ia belajar cara menarik perhatian penonton dalam waktu sesingkat mungkin, sebuah keterampilan yang sangat berguna dalam pembuatan film.
 
-Awal tahun 1990-an industri periklanan Taiwan sedang dalam masa ekspansi, Chen Yu-hsun bersama banyak kreator sekaligus seperti Tsai Ming-liang, Yee Chih-yen, semuanya beralih dari periklanan ke dunia film, membentuk generasi baru film Taiwan.
+Pada awal 1990-an, industri periklanan Taiwan sedang berada dalam masa ekspansi. Chen Yu-hsun bersama banyak kreator sezamannya seperti Tsai Ming-liang dan Yi Chih-yen beralih dari dunia periklanan ke dunia film, membentuk generasi baru perfilman Taiwan.
 
-## Karya Perdana Film: "Tropical Fish"
+## Karya Debut: _Tropical Fish_
 
-1995 Chen Yu-hsun merilis film perdana "Tropical Fish", produksi berbiaya rendah ini menciptakan keajaiban dalam sejarah film Taiwan. Film ini dengan cara humor absurd menceritakan kisah seorang pria putus asa yang tidak sengaja terlibat kasus penculikan.
+Pada tahun 1995, Chen Yu-hsun merilis film debutnya, _Tropical Fish_. Produksi berbiaya rendah ini menciptakan keajaiban dalam sejarah perfilman Taiwan. Film ini menggunakan cara humor yang absurd untuk menggambarkan kisah seorang pria malang yang secara tidak sengaja terlibat dalam kasus penculikan.
 
-Keberhasilan "Tropical Fish" terletak pada gaya humor khas Taiwan yang unik. Chen Yu-hsun memanfaatkan dengan cerdik elemen-elemen budaya masyarakat Taiwan, menciptakan genre komedi berkarakter lokal. Tokoh-tokoh dalam film meski menghadapi kesulitan, selalu mempertahankan sikap optimis.
+Keberhasilan _Tropical Fish_ terletak pada gaya humor khas Taiwannya yang unik. Chen Yu-hsun dengan cerdik memanfaatkan elemen budaya masyarakat Taiwan untuk menciptakan genre komedi dengan karakteristik lokal. Meskipun karakter-karakternya menghadapi kesulitan, mereka tetap mempertahankan sikap optimis.
 
-Film ini meraih Penghargaan Naskah Asli Terbaik ke-32 Golden Horse Awards, dan juga sukses di boks office [^4]. "Tropical Fish" membuktikan potensi pasar film komedi lokal Taiwan, membuka jalan bagi para kreator penerus.
+Film ini memenangkan penghargaan Skenario Asli Terbaik pada Golden Horse Awards ke-32 dan meraih sukses di box office [^4]. _Tropical Fish_ membuktikan potensi pasar film komedi lokal Taiwan dan membuka jalan bagi para kreator berikutnya.
 
 ## Eksplorasi Komedi Romantis
 
-Pasca "Tropical Fish", Chen Yu-hsun terus mengeksplorasi berbagai jenis film komedi. 1997 "Love Go Go" mencoba format komedi romantis, meski performa boks office biasa saja, tapi menunjukkan pemahamannya yang mendalam terhadap tokoh wanita.
+Setelah _Tropical Fish_, Chen Yu-hsun terus mengeksplorasi berbagai genre film komedi. Film _Love Comes_ (愛情來了) pada tahun 1997 mencoba format komedi romantis; meskipun performa box office-nya biasa saja, film ini menunjukkan pemahamannya yang mendalam terhadap karakter perempuan.
 
-2000 "A Chance to Die" mengadopsi teknik narasi yang lebih matang, mengeksplorasi dilema cinta orang-orang perkotaan modern. Chen Yu-hsun mulai memadukan lebih banyak renungan kehidupan ke dalam komedi, menampilkan kemajuan kemampuan sutradara.
+Film _Love You, Love Me_ (愛你愛我) pada tahun 2000 menggunakan teknik narasi yang lebih matang untuk mengeksplorasi dilema cinta masyarakat perkotaan modern. Chen Yu-hsun mulai menyisipkan lebih banyak pemikiran tentang kehidupan ke dalam komedinya, menunjukkan kemajuan dalam kemampuan penyutradaraannya.
 
-Karya-karya periode ini meski tidak menimbulkan sensasi seperti "Tropical Fish", tapi mengakumulasi pengalaman kreatif yang cukup bagi Chen Yu-hsun, juga membuatnya memiliki pemahaman yang lebih mendalam tentang esensi film komedi.
+Meskipun karya-karya pada periode ini tidak memberikan efek sensasional seperti _Tropical Fish_, hal tersebut telah mengumpulkan cukup pengalaman kreatif bagi Chen Yu-hsun dan memberinya pemahaman yang lebih mendalam tentang esensi film komedi.
 
-## Kembali ke Puncak Kejayaan: "The Chef, the Actor, the Scoundrel"
+## Kembali ke Kejayaan: _Master Chef_
 
-Setelah bertahun-tahun berdiam diri, Chen Yu-hsun pada 2013 merilis "The Chef, the Actor, the Scoundrel", sekali lagi membuktikan kekuatan kreatifnya. Film ini melatarbelakangi budaya "ban-doh" (pesta tradisional) Tainan, menceritakan tiga koki yang bersaing untuk gelar "Koki Kepala".
+Setelah bertahun-tahun berkarya dengan tenang, Chen Yu-hsun merilis _Master Chef_ (總鋪師) pada tahun 2013, yang sekali lagi membuktikan kekuatan kreatifnya. Film ini berlatar belakang budaya perjamuan _banzhuo_ di Tainan, menceritakan kisah tiga koki yang bersaing untuk mendapatkan status "Master Chef".
 
-Keberhasilan "The Chef, the Actor, the Scoundrel" terletak pada penggalan mendalam terhadap budaya tradisional Taiwan. Chen Yu-hsun dengan bentuk komedi mempresentasikan inti budaya ban-doh, membuat penonton muda mengenal nilai keterampilan tradisional.
+Keberhasilan _Master Chef_ terletak pada penggalian mendalam terhadap budaya tradisional Taiwan. Chen Yu-hsun menyajikan esensi budaya _banzhuo_ dalam bentuk komedi, membuat penonton muda mengenali nilai dari keterampilan tradisional.
 
-Film ini mengumpulkan bintang-bintang seperti Ethan Juan, Lin Ching-hsia (林青霞) dll, mencapai keseimbangan yang baik antara komersialitas dan keartisan. "The Chef, the Actor, the Scoundrel" tidak hanya sukses di boks office, juga mendapat pengakuan kritikus.
+Film ini menghadirkan deretan bintang seperti Yang Yo-ning dan [Brigitte Lin](/id/people/brigitte-lin-legendary-actress/), mencapai keseimbangan yang baik antara aspek komersial dan artistik. _Master Chef_ tidak hanya sukses secara box office, tetapi juga mendapat apresiasi dari kalangan kritikus.
 
-## Realisme Magis: "My Missing Valentine"
+## Realisme Magis: _The Vanished Valentine_
 
-2020 "My Missing Valentine" adalah karya paling berambisi Chen Yu-hsun, memadukan cinta, komedi, realisme magis dan banyak elemen lain. Film ini menceritakan kisah ajaib sang pria utama mencari cinta sejati di tengah kekacauan ruang-waktu.
+_The Vanished Valentine_ pada tahun 2020 adalah karya Chen Yu-hsun yang paling ambisius, menggabungkan berbagai elemen seperti romansa, komedi, dan realisme magis. Film ini menggambarkan kisah fantasi tentang seorang protagonis pria yang mencari cinta sejati di tengah kekacauan ruang dan waktu.
 
-Film dirilis selama pandemi COVID-19, justru karena konsep pertukaran ruang-waktu menghasilkan makna era yang khusus. Chen Yu-hsun dengan licik memadukan elemen fiksi ilmiah dengan komedi khas Taiwan, menciptakan pengalaman menonton yang unik.
+Film ini dirilis selama pandemi COVID-19, namun justru karena konsep persilangan ruang dan waktu dalam temanya, film ini memiliki makna zaman yang istimewa. Chen Yu-hsun dengan cerdik memadukan elemen fiksi ilmiah dengan komedi khas Taiwan, menciptakan pengalaman menonton yang unik.
 
-"My Missing Valentine" meraih lima penghargaan besar termasuk Film Terbaik ke-57 Golden Horse Awards, menjadi puncak karir Chen Yu-hsun [^3]. Karya ini membuktikan daya saing film lokal Taiwan di pasar internasional.
+_The Vanished Valentine_ memenangkan lima penghargaan besar termasuk Film Terbaik pada Golden Horse Awards ke-57, yang merupakan puncak dalam karier profesional Chen Yu-hsun [^3]. Karya ini membuktikan daya saing film lokal Taiwan di pasar internasional.
 
 ## Konstruksi Humor Khas Taiwan
 
-Kontribusi paling bisa diidentifikasi Chen Yu-hsun adalah membangun bahasa film "humor khas Taiwan". Komedinya berbasis rasa kekeluargaan, situasi absurd hanyalah cangkang, di dalamnya adalah observasi halus terhadap budaya masyarakat Taiwan.
+Kontribusi Chen Yu-hsun yang paling mudah dikenali adalah membangun bahasa film "humor khas Taiwan". Komedinya memiliki tekstur rasa kekeluargaan; situasi absurd hanyalah cangkang luar, sementara intinya adalah pengamatan mendalam terhadap budaya sosial Taiwan.
 
-Ia pandai menemukan elemen-elemen absurd dalam kehidupan sehari-hari, mempresentasikan fenomena sosial melalui cara melebih-lebihkan. Cara humor ini既能 menghibur penonton, juga能 memicu pemikiran terhadap realitas.
+Ia mahir menemukan elemen absurd dalam kehidupan sehari-hari dan menyajikannya melalui teknik hiperbola untuk menggambarkan fenomena sosial. Gaya humor ini tidak hanya menghibur penonton, tetapi juga memicu pemikiran tentang realitas.
 
-Pembentukan tokoh Chen Yu-hsun sangat memperhatikan sifat baik alami manusia. Bahkan tokoh antagonis, juga menampilkan sisi kompleks kemanusiaan, menghindari penanganan yang kaku berwajah.
+Dalam pembentukan karakter, Chen Yu-hsun sangat memperhatikan sifat dasar kebaikan manusia. Bahkan karakter antagonis pun akan menunjukkan sisi kompleks kemanusiaan, menghindari penggambaran yang karikatural atau satu dimensi.
 
 ## Perhatian terhadap Budaya Taiwan
 
-Film-film Chen Yu-hsun selalu memperhatikan pelestarian dan pewarisan budaya lokal Taiwan. Dari orang-orang pinggiran perkotaan "Tropical Fish" hingga keterampilan tradisional "The Chef, the Actor, the Scoundrel", ia menggunakan film mencatat wajah-wajah keberagaman masyarakat Taiwan.
+Film-film Chen Yu-hsun selalu menaruh perhatian pada pelestarian dan pewarisan budaya lokal Taiwan. Dari masyarakat pinggiran perkotaan dalam _Tropical Fish_ hingga keterampilan tradisional dalam _Master Chef_, ia menggunakan film untuk merekam wajah keberagaman masyarakat Taiwan.
 
-Ia sangat memperhatikan penggunaan dialek, berpendapat bahasa adalah pembawa budaya yang penting. Dalam film-filmnya, bahasa Taiwan, bahasa Hakka dll dialek semuanya mendapat rasa hormat dan penampilan yang layak.
+Ia sangat mementingkan penggunaan dialek, karena percaya bahwa bahasa adalah pembawa budaya yang penting. Dalam film-filmnya, dialek seperti bahasa Hokkien Taiwan dan Hakka mendapatkan penghormatan dan representasi yang layak.
 
-Chen Yu-hsun juga memperhatikan kelompok lemah masyarakat, film-filmnya sering menjadikan orang kecil sebagai tokoh utama, menampilkan keteguhan dan kebaikan mereka. Perhatian humanis ini adalah ciri penting karya-karyanya.
+Chen Yu-hsun juga memperhatikan kelompok marginal di masyarakat; film-filmnya sering kali menjadikan orang biasa sebagai protagonis untuk menunjukkan ketangguhan dan kebaikan mereka. Kepedulian humanis ini adalah ciri khas penting dari karya-karyanya.
 
 ## Kolaborasi dengan Aktor
 
-Chen Yu-hsun pandai menggali dan membina aktor, banyak aktor non-profesional di bawah bimbingannya menampilkan performa luar biasa. Ia percaya emosi tulus lebih penting dari teknik yang canggih.
+Chen Yu-hsun mahir dalam menemukan dan membina aktor; banyak aktor non-profesional yang menunjukkan performa luar biasa di bawah arahannya. Ia percaya bahwa emosi yang nyata lebih penting daripada teknik yang sangat mahir.
 
-Ia dengan aktor komedi seperti Kuo Tzu-chien, Peng Chia-chia membangun hubungan kolaborasi jangka panjang, membentuk gaya performa unik. Para aktor ini dalam film-filmnya semuanya memiliki performa gemilang.
+Ia telah membangun hubungan kerja sama jangka panjang dengan aktor komedi seperti Guo Zi-qian dan Peng Chia-chia, membentuk gaya akting yang unik. Para aktor ini memberikan penampilan yang memukau dalam film-filmnya.
 
-Chen Yu-hsun juga memperhatikan pembinaan orang baru, memberikan kesempatan tampil bagi aktor muda. Banyak aktor justru di karya-karyanya pertama kali menampakkan bakat, lalu mendapat kesempatan berkembang selanjutnya.
+Chen Yu-hsun juga mementingkan pembinaan pendatang baru dengan memberikan kesempatan bagi aktor muda untuk tampil. Banyak aktor yang mulai muncul melalui karya-karyanya sebelum mendapatkan kesempatan pengembangan lebih lanjut.
 
-## Filosofi Produksi & Pemikiran Industri
+## Filosofi Produksi dan Pemikiran Industri
 
-Sebagai sutradara, Chen Yu-hsun juga peduli perkembangan industri film Taiwan. Ia menegaskan jalur lokalisasi, berpendapat film Taiwan harus memanfaatkan keunggulan budaya sendiri.
+Sebagai sutradara, Chen Yu-hsun juga peduli pada perkembangan industri film Taiwan. Ia teguh pada jalur lokalisasi, percaya bahwa film Taiwan harus memanfaatkan keunggulan budayanya sendiri.
 
-Ia menganut produksi berbiaya kecil yang presisi, membuktikan kreasi dan eksekusi yang baik lebih penting dari investasi raksasa. Filosofi ini menyediakan arah perkembangan yang layak bagi film independen Taiwan.
+Ia mendukung penyempurnaan produksi berbiaya rendah, membuktikan bahwa kreativitas dan eksekusi yang baik lebih penting daripada investasi besar. Filosofi ini memberikan arah pengembangan yang layak bagi film independen Taiwan.
 
-Chen Yu-hsun juga aktif berpartisipasi diskusi industri film, menyediakan saran profesional bagi penetapan kebijakan film Taiwan. Ia berharap menciptakan lingkungan lebih baik agar kreator muda bisa memancarkan bakat.
+Chen Yu-hsun juga aktif berpartisipasi dalam diskusi industri film, memberikan masukan profesional untuk perumusan kebijakan film di Taiwan. Ia berharap dapat menciptakan lingkungan yang lebih baik bagi para kreator muda untuk menyalurkan bakat mereka.
 
-## Wawasan Internasional & Akar Lokal
+## Visi Internasional dan Akar Lokal
 
-Meskipun mendalami tema lokal, Chen Yu-hsun selalu mempertahankan wawasan internasional. Karya-karyanya mendapat perhatian di festival film luar negeri, membuktikan daya tarik internasional budaya Taiwan.
+Meskipun mendalami tema lokal, Chen Yu-hsun selalu menjaga visi internasional. Karya-karyanya mendapat perhatian di festival film luar negeri, membuktikan daya tarik budaya Taiwan secara global.
 
-Ia berpendapat semakin lokal semakin internasional, film Taiwan tidak perlu sengaja mengkompromi pasar internasional, tapi harus menampilkan ciri khas budaya sendiri.
+Ia berpendapat bahwa semakin lokal sebuah karya, maka akan semakin internasional pula ia nantinya; film Taiwan tidak perlu sengaja menyesuaikan diri dengan pasar internasional, melainkan harus menunjukkan karakteristik budaya uniknya sendiri.
 
-Sukses "My Missing Valentine" di pasar internasional memvalidasi filosofi kreatifnya. Film Taiwan bisa dalam mempertahankan ciri khas lokal, sekaligus mendapat pengakuan internasional.
+Kesuksesan _The Vanished Valentine_ di pasar internasional memvalidasi filosofi kreatifnya. Film Taiwan dapat memperoleh pengakuan internasional sambil tetap mempertahankan karakteristik lokalnya.
 
-## Dampak bagi Sutradara Muda
+## Pengaruh terhadap Sutradara Muda
 
-Keberhasilan Chen Yu-hsun menginspirasi banyak sutradara muda terjun ke pembuatan film komedi. Ia membuktikan kebutuhan dan dukungan penonton Taiwan terhadap film komedi lokal berkualitas.
+Kesuksesan Chen Yu-hsun telah menginspirasi banyak sutradara muda untuk terjun ke dalam pembuatan film komedi. Ia membuktikan adanya permintaan dan dukungan dari penonton Taiwan terhadap komedi lokal yang berkualitas.
 
-Ia juga suka berbagi pengalaman kreatif, sering berpartisipasi kegiatan pendidikan film. Banyak sutradara muda dari karya dan ide-idenya mendapat inspirasi.
+Ia juga senang berbagi pengalaman kreatif dan sering berpartisipasi dalam kegiatan edukasi film. Banyak sutradara muda yang mendapatkan inspirasi dari karya dan filosofinya.
 
-Tradisi film komedi khas Taiwan yang dibangun Chen Yu-hsun, untuk film Taiwan menyediakan satu jalur perkembangan yang terbukti — tidak bergantung anggaran besar, tapi menang dengan akar budaya dan ketulusan emosi.
+Tradisi film komedi khas Taiwan yang dibangun oleh Chen Yu-hsun menyediakan jalur pengembangan yang teruji bagi perfilman Taiwan—tidak bergantung pada anggaran besar, melainkan menang melalui akar budaya dan kejujuran emosi.
 
-## Keadaan Kreatif Saat Ini
+## Status Kreatif Saat Ini
 
-Chen Yu-hsun akhir-akhir ini tetap mempertahankan jalur komedi, berpegang pada tema lokalisasi. Ia berpendapat, semakin konkret detail-detail Taiwan, semakin berpeluang menimbulkan resonansi di kalangan penonton internasional. Proposisi ini sudah tervalidasi oleh reaksi tayang luar negeri "My Missing Valentine".
+Dalam beberapa tahun terakhir, Chen Yu-hsun tetap fokus pada jalur komedi dengan mempertahankan tema lokalisasi. Ia percaya bahwa semakin spesifik detail tentang Taiwan, semakin besar peluang untuk menciptakan resonansi di antara penonton internasional. Premis ini telah terbukti melalui respons terhadap penayangan _The Vanished Valentine_ di luar negeri.
 
-Sementara itu ia memperhatikan pembinaan bakat industri film Taiwan, berpendapat memberi kesempatan pada sutradara muda untuk praktik lebih langsung dari pada subsidi kebijakan apapun. Bahasa filmnya unggul di kekonkretan, membuat penonton dalam satu piring masakan ban-doh, sebuah lorong belakang, sendiri merasakan Taiwan, bukan bergantung slogan menyampaikan.
+Ia juga memperhatikan pengembangan talenta dalam industri film Taiwan, percaya bahwa memberi kesempatan bagi sutradara muda untuk mempraktikkan ilmu mereka jauh lebih langsung dampaknya daripada subsidi kebijakan apa pun. Bahasa filmnya unggul dalam hal spesifisitas, membuat penonton merasakan Taiwan melalui sepiring hidangan _banzhuo_ atau sebuah gang sempit, tanpa perlu mengandalkan slogan.
 
-Tiga puluh tahun berkarya, film Chen Yu-hsun tetap memiliki daya kenal, karena ia selalu meletakkan kehidupan konkret Taiwan di inti cerita.
+Setelah tiga puluh tahun berkarya, film-film Chen Yu-hsun tetap memiliki identitas yang kuat karena ia selalu menempatkan kehidupan nyata masyarakat Taiwan sebagai inti dari ceritanya.
 
 ## Referensi
 
-[^1]: Wikipedia entri "Chen Yu-hsun", sekolah lulus: Universitas Seni Nasional Taiwan (dahulu Akademi Seni Nasional), https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%8E%89%E5%8B%B3
+[^1]: Entri Wikipedia "Chen Yu-hsun", sekolah lulusan: National Taiwan University of Arts (sebelumnya National College of Arts), https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%8E%89%E5%8B%B3
 
-[^2]: Taiwan Cinema, daftar karya sutradara Chen Yu-hsun, https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12518
+[^2]: Taiwan Cinema Network, daftar karya sutradara Chen Yu-hsun, https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12518
 
-[^3]: Taipei Golden Horse Film Festival, catatan penghargaan "My Missing Valentine" ke-57 Golden Horse Awards, https://www.goldenhorse.org.tw/
+[^3]: Taipei Golden Horse Film Festival, catatan pemenang _The Vanished Valentine_ pada Golden Horse Awards ke-57, https://www.goldenhorse.org.tw/
 
-[^4]: Taipei Golden Horse Film Festival, "Tropical Fish" Naskah Asli Terbaik ke-32 Golden Horse Awards, https://www.goldenhorse.org.tw/
+[^4]: Taipei Golden Horse Film Festival, Skenario Asli Terbaik untuk _Tropical Fish_ pada Golden Horse Awards ke-32, https://www.goldenhorse.org.tw/
 
-[^5]: Pusat Film Nasional dan Budaya Audio Visual, alur perkembangan film komedi Taiwan, https://www.tfai.org.tw/
+[^5]: Taiwan Film and Audiovisual Institute, perkembangan konteks film komedi Taiwan, https://www.tfai.org.tw/

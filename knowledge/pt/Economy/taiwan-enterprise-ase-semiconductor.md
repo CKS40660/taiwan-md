@@ -1,15 +1,15 @@
 ---
-title: 'Empresas de Taiwan: ASE Technology (日月光半導體)'
-description: 'A maior empresa de encapsulamento e teste de semicondutores do mundo: por que o dono de uma construtora mudou para o setor de semicondutores?'
+title: 'Empresas de Taiwan: ASE Group'
+description: 'Em 1984, Zhang Yao-hong e sua mãe e filho redirecionaram seus fundos do setor de construção para o encapsulamento e teste de semicondutores, fundando a ASE em Nanzi, Kaohsiung. Em 1989, tornou-se a primeira empresa de encapsulamento e teste listada em Taiwan; em 1998, adquiriu a sul-coreana K&S para inaugurar o serviço integrado de "encapsulamento + teste". Quarenta anos depois, com uma receita de US$ 10,1 bilhões em 2024 e uma participação de mercado global de quase 45%, consolidou-se como líder do setor, tornando-se a campeã invisível que "veste" os chips e realiza seus "exames médicos".'
 date: 2026-03-21
 category: 'Economy'
 tags:
   [
     'Economia',
-    'Empresas',
+    'Empresa',
     'Indústria de semicondutores',
     'Encapsulamento e teste',
-    'Manufatura tecnológica',
+    'Fabricação tecnológica',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-08-04T14:12:36+08:00'
+translatedAt: '2026-10-15T23:12:15.014086+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 1984, a mãe Chang Yao Hung-ying (張姚宏影) e os dois filhos Chang Chien-sheng (張虔生) e Chang Hung-pen (張洪本), vindos do setor de construção, investiram no setor de encapsulamento e teste de semicondutores, fundando a ASE. Quarenta anos depois, tornou-se a maior OSAT do mundo, com receita de 10,1 bilhões de dólares em 2024 e participação de mercado global de quase 45%. Cada iPhone, cada notebook pode usar tecnologia da ASE — é o campeão invisível que faz os chips "vestirem roupa" e "fazerem check-up".

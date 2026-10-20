@@ -1,24 +1,24 @@
 ---
-title: '타이완의 빙과 문화'
-description: '옥정(玉井) 망고 아이스크림부터 설빙 혁명까지, 겨울에도 아이스크림을 먹는 타이완만의 독특한 문화를 탐구하다'
+title: '대만의 빙과 문화'
+description: '대만 사람들의 빙과에 대한 사랑은 세계적으로도 보기 드물어, 겨울에도 손님들로 북적입니다. 이 문화는 일제강점기 제빙 기술의 도입으로 거슬러 올라가며, 전후 쉐이브드 아이스(剉冰)의 보급과 눈꽃빙수(雪花冰)의 등장, 타이중의 천시(陳溪)가 일본식 사과빙수를 참고해 개발한 미두빙(蜜豆冰), 해외까지 이름을 떨친 위진 망고 빙수, 그리고 제빙 및 냉장 어업의 발전까지 구체적인 시간적 흐름을 따라 진화해 온 역사를 가지고 있습니다.'
 date: 2026-03-19
 category: 'Food'
-tags: ['빙과', '망고 아이스크림', '설빙', '팥빙수', 'ICE MONSTER']
+tags: ['빙과', '망고 빙수', '눈꽃빙수', '쉐이브드 아이스', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: '타이베이 망고 아이스크림'
+imageAlt: '타이베이 망고 빙수'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T16:00:51+08:00'
+translatedAt: '2026-10-15T20:36:28.855726+00:00'
 ---
 
 # 타이완 빙과 문화

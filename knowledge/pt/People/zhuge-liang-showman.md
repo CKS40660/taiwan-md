@@ -1,19 +1,20 @@
 ---
 title: 'Chu Ko-liang'
-description: 'Representante da cultura das casas de show de Taiwan, ator cómico nacional, falecido em 2017'
+description: 'Seu nome verdadeiro era Hsieh Hsin-ta, nascido em 1946 em Zuoying, Kaohsiung; seu pai era ferreiro e sua mãe vendia verduras. Após concluir o ensino primário, abandonou os estudos e, aos 15 anos, tornou-se aprendiz de ópera taiwanesa. Na década de 1960, começou a carreira imitando cantores em mercados noturnos. Na década de 1970, com a decolagem econômica de Taiwan e o aumento da demanda por entretenimento noturno, surgiu a cultura dos shows de variedades; ele fundiu ópera tradicional, rap popular e elementos contemporâneos no seu "humor à la Chu", usando o taiwanês para rimar improvisadamente e levar a linguagem do povo à televisão de variedades. Em maio de 2017, faleceu vítima de câncer colorretal.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  ['Chu Ko-liang', 'shows de variedades', 'comédia', 'variedades', 'taiwanês']
 subcategory: '數位與媒體'
-tags: ['Chu Ko-liang', 'casas de show', 'comédia', 'variedades', 'taiwanês']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-07-26T03:58:09+08:00'
+translatedAt: '2026-10-15T23:30:38.024935+00:00'
 ---
 
 # Chu Ko-liang: o rei nacional da cultura das casas de show de Taiwan
@@ -130,12 +131,12 @@ Linguistas analisaram a estrutura do humor ao estilo Chu, identificando vários 
 
 ## Referências
 
-[^1]: Wikipédia "Chu Ko-liang" (豬哥亮), https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, local de nascimento: distrito de Zuoying, cidade de Kaohsiung
+[^1]: Artigo da Wikipédia 'Chu Ko-liang', https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, local de nascimento: Distrito de Zuoying, Kaohsiung
 
-[^2]: Liberty Times (自由時報) "Funeral de Chu Ko-liang: dez mil pessoas na despedida" (豬哥亮告別式 萬人送行), https://news.ltn.com.tw/, 21 de maio de 2017
+[^2]: Liberty Times 'Despedida de Chu Ko-liang: milhares prestam homenagem', https://news.ltn.com.tw/, 21 de maio de 2017
 
-[^3]: Base de Dados de Televisão de Taiwan (台灣電視資料庫), https://tv.nccu.edu.tw/, registo do programa _The Chu Ko-liang Club_ (《豬哥會社》)
+[^3]: Base de Dados de Televisão de Taiwan, https://tv.nccu.edu.tw/, registros do programa 'Chu Ko Hui She'
 
-[^4]: Agência Central de Notícias (中央社) "Bilheteira de _David Liao_ ultrapassa 300 milhões" (大尾鱸鰻票房逾3億), https://www.cna.com.tw/, relatório de bilheteira de fevereiro de 2013
+[^4]: Agência Central de Notícias 'Bilheteria de '大尾鱸鰻' ultrapassa NT$300 milhões', https://www.cna.com.tw/, relatório de bilheteria de fevereiro de 2013
 
-[^5]: United Daily News (聯合新聞網) "Chu Ko-liang faleceu a 15 de maio, aos 70 anos" (豬哥亮5月15日病逝 享年70歲), https://udn.com/, 15 de maio de 2017
+[^5]: United Daily News 'Chu Ko-liang falece em 15 de maio aos 70 anos', https://udn.com/, 15 de maio de 2017

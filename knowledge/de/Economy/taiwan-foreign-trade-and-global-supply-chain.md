@@ -1,16 +1,16 @@
 ---
-title: 'Taiwanischer Außenhandel und globale Lieferketten'
-description: 'Von exportorientiert zu kritischem Knotenpunkt der Lieferkette: Wie Taiwan seinen Handelsvorteil im Sino-US-Wettbewerb behauptet'
+title: 'Taiwans Außenhandel und globale Lieferketten'
+description: 'Von der Textilindustrie der 1960er Jahre bis hin zu modernen Halbleitern: Taiwans wirtschaftliches Wunder basiert auf dem Export und seiner Schlüsselrolle in den globalen Lieferketten zwischen den USA und China.'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
     'Außenhandel',
-    'Globale Lieferketten',
-    'Exportorientierung',
-    'US-China-Handelskrieg',
+    'globale Lieferketten',
+    'exportorientiert',
+    'Handelskrieg USA-China',
     'ECFA',
-    'Internationale Handelsabkommen',
+    'internationale Handelsabkommen',
     'Halbleiter',
   ]
 subcategory: '經濟發展'
@@ -19,280 +19,267 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '2e88c5e31'
+sourceCommitSha: '57cdd3ae4'
 sourceContentHash: 'sha256:df07b8f5f0dd46a8'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-09-20T00:52:50+08:00'
+translatedAt: '2026-10-15T12:43:12+08:00'
 ---
 
-# Taiwanischer Außenhandel und globale Lieferketten
+# Taiwans Außenhandel und globale Lieferketten
 
-Die Containerschiffe des Hafens Taipeh entladen täglich Tausende von Standardcontainern, die weltweit verschickt werden. In diesen scheinbar gewöhnlichen Metallkisten steckt das Geheimnis des taiwanesischen Wirtschaftswunders – von der Bekleidung und Spielzeug der 1960er Jahre bis zu den heutigen Halbleiterchips hat Taiwan durch seinen Außenhandel eine Schlüsselposition auf der internationalen Bühne eingenommen. Obwohl die Landfläche nur 36.000 Quadratkilometer beträgt, rangiert Taiwan mit einem Exportvolumen von 2023 weltweit als 16. größter Exporteur [^2] und hält in kritischen Bereichen wie Halbleitern und Informationstechnologie eine unverzichtbare Stellung.
+In den Containerterminals des Hafens von Taipeh werden täglich tausende Standardcontainer verladen und in die ganze Welt verschifft. In diesen scheinbar gewöhnlichen Eisenboxen liegt das Geheimnis des wirtschaftlichen Wunders von Taiwan verborgen – von der Textil- und Spielwarenindustrie der 1960er Jahre bis hin zu den heutigen Halbleiterchips. Dank des Außenhandels hat Taiwan eine Schlüsselrolle auf der internationalen Bühne eingenommen. Trotz einer Landfläche von nur 36.000 Quadratkilometern belegte Taiwan im Jahr 2023 nach dem Exportwert den 16. Platz unter den größten Exportwirtschaften der Welt[^2] und nimmt in kritischen Bereichen wie Halbleitern und Informations- und Kommunikationstechnologie (IKT) eine unersetzliche Stellung ein.
 
-> Das Gesamtvolumen des Außenhandels Taiwans im Jahr 2024 belief sich auf 869,4 Milliarden US-Dollar (Export 475 Mrd. USD, Import 394,4 Mrd. USD, gleicher Höchststand wie in den Vorjahren) [^1]. Das Handelsvolumen entspricht ungefähr der Größe des BIP und kennzeichnet eine typische exportorientierte Wirtschaft. Der Export nach China (einschließlich Hongkong) machte 31,7 % des Gesamtexports aus, während die Exporte in die USA mit 23,5 % erstmals die Marke von hundert Milliarden US-Dollar überschritten [^1], was Taiwans sensible Position im Dreieck zwischen den USA und China verdeutlicht.
+> Das gesamte Außenhandelsvolumen Taiwans erreichte im Jahr 2024 869,4 Milliarden US-Dollar (Exporte: 475 Milliarden US-Dollar, Importe: 394,4 Milliarden US-Dollar – beide Werte markierten historische Höchststände)[^1]. Das Gesamtvolumen von Exporten und Importen entspricht etwa der Größenordnung des BIP, was Taiwan zu einer typischen exportorientierten Volkswirtschaft macht. Davon entfielen 31,7 % der Exporte auf China (einschließlich Hongkong), während die Exporte in die USA 23,5 % ausmachten und zum ersten Mal die Marke von 100 Milliarden US-Dollar überschritten[^1]. Dies unterstreicht die sensible Position Taiwans im Dreiecksverhältnis zwischen den USA und China.
 
 ## Warum dies wichtig ist
 
-Der Außenhandel ist eine Überlebensstrategie für Taiwan. Auf dieser Insel ohne natürliche Ressourcen muss Taiwan durch Handel lebensnotwendige Güter und Energie beschaffen und gleichzeitig Wohlstand durch technologieintensive Produkte exportieren. Wenn sich globale Lieferketten aufgrund geopolitischer Spannungen neu ordnen, wird Taiwans strategische Bedeutung immer klarer – es ist sowohl ein technologischer Vorposten im Eindämmungsstrategie der USA gegen China als auch ein unverzichtbarer Technologieanbieter für China. Wie das Gleichgewicht in dieser Dreiecksbeziehung gehalten werden kann, hängt vom Lebensunterhalt von 23 Millionen Menschen ab.
+Der Außenhandel ist für Taiwan eine Überlebensstrategie. Auf einer Insel ohne natürliche Ressourcen muss Taiwan durch Handel lebensnotwendige Güter und Energie importieren und gleichzeitig technologisch anspruchsvolle Produkte exportieren, um Wohlstand zu generieren. Während sich die globalen Lieferketten aufgrund geopolitischer Verschiebungen neu ordnen, wird Taiwans strategische Bedeutung immer deutlicher: Es fungiert sowohl als technologischer Vorposten der USA zur Eindämmung Chinas als auch als unverzichtbarer Technologielieferant für China. Wie das Gleichgewicht in diesem Dreiecksverhältnis gewahrt werden kann, entscheidet über die Lebensgrundlage von 23 Millionen Menschen.
 
-## Die Entstehung einer exportorientierten Wirtschaft
+## Die Entstehung der exportorientierten Wirtschaft
 
-### 1960–1980: Strategie der Importsubstitution
+### 1960–1980: Strategie der Exportsubstitution
 
-**Die Grenzen der Importsubstitutionspolitik:**
-In den 1950er Jahren verfolgte Taiwan eine Politik der Importsubstitution, um die lokale Industrie zu schützen. Doch aufgrund des kleinen Binnenmarktes stieß man schnell an Entwicklungsengpässe.
+**Grenzen der Importsubstitution:**
+In den 1950er Jahren verfolgte Taiwan eine Politik der Importsubstitution, um die heimische Industrie zu schützen. Doch aufgrund des kleinen Binnenmarktes stieß diese Entwicklung schnell an ihre Grenzen.
 
-**Der Wandel zur Exportorientierung:**
-In den 1960er Jahren wurde die industrielle Entwicklung exportorientiert vorangetrieben:
+**Transformation zur Exportorientierung:**
+Ab den 1960er Jahren wurde die exportorientierte Industrialisierung vorangetrieben:
 
-Die Regierung gründete Sonderwirtschaftszonen, um ausländische Investitionen anzuziehen, und bot Steueranreize sowie billige Arbeitskräfte an. Gleichzeitig wurde eine Handelsförderungsorganisation (Taiwan Trade Development Association) eingerichtet, kombiniert mit einer Währungsabwertungsstrategie zur Steigerung der Exportwettbewerbsfähigkeit.
+Die Regierung errichtete Sonderwirtschaftszonen (Export Processing Zones), um ausländische Investitionen anzuziehen, und bot steuerliche Anreize sowie niedrige Lohnkosten, um Aufträge zu gewinnen. Gleichzeitig wurden Institutionen zur Handelsförderung (wie die Taiwan External Trade Development Council) gegründet, kombiniert mit einer Strategie der Währungsabwertung, um die Exportwettbewerbsfähigkeit zu steigern.
 
-**Die drei Hauptexportgüter:**
+**Drei Hauptexportsektoren:**
 
-1. **Textilien und Bekleidung:** Nutzung reichlicher Arbeitskräfte und technischer Grundlagen
-2. **Elektronikmontage:** Annahme von Aufträgen aus Europa und Amerika (OEM)
-3. **Kunststoffspielzeug:** arbeitsintensive Produkte mit geringer technologischer Schwelle
+1. **Textilien und Bekleidung:** Nutzung reichlich vorhandener Arbeitskräfte und technischer Grundlagen.
+2. **Elektronische Montage:** Übernahme von Aufträgen westlicher Hersteller (OEM).
+3. **Kunststoffspielwaren:** Arbeitsintensive Produkte mit niedriger technischer Barriere.
 
-**Schnelles Wachstum des Handels:** Im Jahr 1960 betrug der Exportwert nur 15,4 Millionen US-Dollar, im Jahr 1980 erreichte er 199 Millionen US-Dollar – ein Anstieg um das 121-fache in 20 Jahren. Die Exportabhängigkeit stieg von 11 % auf 52 %, was den erfolgreichen Wandel Taiwans zur exportorientierten Wirtschaft markierte.
+**Schnelles Handelswachstum:** Während der Exportwert 1960 nur 164 Millionen US-Dollar betrug, erreichte er 1980 bereits 19,9 Milliarden US-Dollar – ein Wachstum um das 121-fache in 20 Jahren. Die Exportabhängigkeit stieg im gleichen Zeitraum von 11 % auf 52 %, was den erfolgreichen Wandel Taiwans markierte.
 
 ### 1980–2000: Industrielle Aufwertung
 
-Angesichts des Niedrigkostenwettbewerbs durch Südkorea und Südostasien sah sich Taiwan gezwungen, in technologieintensive Industrien aufzuwerten:
+Angesichts des Preiswettbewerbs durch Südkorea und Südostasien war Taiwan gezwungen, in technologieintensive Industrien aufzusteigen:
 
-**Aufstieg der Hochtechnologieindustrie:**
-Die Gründung des Hsinchu Science Park im Jahr 1980 zog Halbleiter- und Informationstechnologien nach Taiwan und bildete ein Forschungs- und Produktionszentrum. Gleichzeitig wurden lokale technologische Talente gefördert und eine vollständige industrielle Clusterbildung etabliert.
+**Aufstieg der Technologiebranche:**
+Mit der Gründung des Hsinchu Science Park im Jahr 1980 siedelten sich Halbleiter- und IT-Unternehmen in Taiwan an. Dies schuf Forschungs- und Fertigungsknotenpunkte, förderte lokale Talente und etablierte starke industrielle Cluster-Effekte.
 
-**Das Auftragsfertigungsmodell (ODM/OEM):**
-Taiwanische Unternehmen entwickelten das einzigartige ODM/OEM-Modell: OEM bot reine Fertigungsdienstleistungen an; ODM integrierte Design und Herstellung, um Produkte individuell für internationale Marken zu entwickeln und so ein "One-Stop-Shop"-Ökosystem zu schaffen.
+**Das Modell der Auftragsfertigung:**
+Taiwanesische Unternehmen entwickelten ein einzigartiges ODM/OEM-Modell: OEM bietet reine Fertigungsdienstleistungen an; ODM integriert Design und Herstellung, um maßgeschneiderte Produkte für internationale Marken zu liefern, wodurch ein ganzheitliches Ökosystem der Auftragsfertigung entstand.
 
-**Veränderung der Exportstruktur:** Der Anteil traditioneller Textilien und Spielzeug nahm ab, während Informationselektronikprodukte zum Hauptexport wurden und die technologische Intensität signifikant zunahm.
+**Strukturwandel des Exports:** Der Anteil traditioneller Textilien und Spielwaren sank, während Informations- und Elektronikprodukte zum neuen Exportmotor wurden, was die technologische Intensität erheblich steigerte.
 
-### 2000 bis heute: Integration in globale Lieferketten
+### 2000–heute: Integration in globale Lieferketten
 
-**Die chinesische Investitionswelle:**
-Nach dem Jahr 2000 wanderten taiwanesische Unternehmen massenhaft nach China aus, um die billigen Arbeitskräfte und das Land zu nutzen, um europäische und amerikanische Marken zu bedienen. Dies führte zum charakteristischen Modell „Taiwan nimmt Aufträge an, China produziert“, was den schnellen Wachstum des Handels zwischen beiden Seiten antrieb.
+**Die Welle chinesischer Investitionen:**
+Nach dem Jahr 2000 expandierten taiwanesische Unternehmen massiv nach China, um die dortigen niedrigen Lohn- und Bodenkosten zu nutzen und westliche Marken vor Ort zu bedienen. Dies führte zum charakteristischen Modell „Auftrag aus Taiwan, Produktion in China“, was das Handelswachstum zwischen beiden Seiten beschleunigte.
 
-**Das Dreieckshandelsmodell:**
-Taiwan, China und Europa/Amerika bildeten eine enge dreieckige Handelsbeziehung:
+**Das Dreiecks handelsmodell:**
+Zwischen Taiwan, China sowie Europa und den USA entstand eine enge dreiseitige Handelsbeziehung:
 
-1. **Taiwan:** Technologische Forschung und Entwicklung, Produktion kritischer Komponenten, Handelszentrum
-2. **China:** Endmontage und Fertigung, Niedrigkostenproduktionsbasis
-3. **Europa/Amerika:** Markenmarketing, Endverbrauchermarkt
+1. **Taiwan**: Technologische Forschung, Produktion kritischer Komponenten, Handelszentrum.
+2. **China**: Endmontage und Fertigung, kostengünstige Produktionsbasis.
+3. **Europa/USA**: Markenmarketing und Endverbrauchermärkte.
 
 ## Taiwans Rolle in den globalen Lieferketten
 
-### Das Halbleiterreich
+### Das Halbleiter-Königreich
 
 **Der TSMC-Effekt:**
-TSMC (Taiwan Semiconductor Manufacturing Company) ist zum weltweit führenden Auftragsfertiger von Wafern geworden und hält einen Marktanteil von über 50 %:
+TSMC (Taiwan Semiconductor Manufacturing Company) hat sich zum weltweit führenden Auftragsfertiger für Wafer entwickelt und hält einen Marktanteil von über 50 %:
 
-- Beherrschung der fortschrittlichsten Prozesstechnologien (3 nm, 2 nm)
-- Hauptlieferant für Spitzenschips großer Unternehmen wie Apple, NVIDIA und AMD bei fortschrittlichen Prozessen
-- Antrieb der gesamten vorgelagerten und nachgelagerten Lieferkette
+- Beherrschung modernster Fertigungsprozesse (3nm, 2nm).
+- Hauptlieferant für fortschrittliche Chips an Branchenriesen wie Apple, NVIDIA und AMD.
+- Motor für die Entwicklung der gesamten Upstream- und Downstream-Lieferkette.
 
 **Das vollständige Halbleiter-Ökosystem:**
-Im Bereich des IC-Designs gibt es Designunternehmen wie MediaTek, Realtek und United Micro. Im Wafer-Foundry dominieren TSMC, UMC und Global Foundries; im Bereich der Verpackung und Testen (OSAT) sind ASE, Cypress und Lite-On tätig, während Zulieferer für Ausrüstung und Materialien wie Wistron, MediaTek und GlobalWafers die vorgelagerte Unterstützung bilden.
+Im Bereich des IC-Designs gibt es Unternehmen wie MediaTek, Realtek und Novatek; die Waferfertigung wird von TSMC, UMC und Vanguard International Semiconductor dominiert; der Bereich Packaging und Testing (OSAT) wird von ASE Group, Siliconware und Powertech Technology kontrolliert, während Ausrüster und Materiallieferanten wie Hanmin, Chung Hwa Semiconductor und GlobalWafers das Upstream-Segment stützen.
 
 **Strategische Bedeutung:**
-Halbleiter sind das Fundament der modernen Technologie; Taiwan kontrolliert weltweit:
+Halbleiter sind der Grundstein der modernen Technologie. Taiwan kontrolliert global:
 
-- Wafer-Foundry: Mit TSMC an der Spitze, wird der Gesamtmarktanteil Taiwans auf über 70 % geschätzt (2023–2024; allein TSMC erreicht 55–67 %) [^3]
-- Über 90 % der Kapazität für fortschrittliche Prozesse
-- Über 50 % der Verpackungs- und Testkapazität
+- **Wafer-Fertigung**: Angeführt von TSMC, wird der gesamte taiwanesische Marktanteil auf über 70 % geschätzt (2023–2024 lag allein TSMC bei 55–67 %)[^3].
+- **Fortschrittliche Fertigungskapazitäten**: Über 90 %.
+- **Packaging & Testing Kapazitäten**: Über 50 %.
 
-### Die Informationstechnologie-Wertschöpfungskette
+### Die IKT-Industriekette
 
-**Das Laptop-Fertigungsreich:**
-Taiwanische Marken und ausländische Unternehmen fertigen zusammen etwa 85–90 % des weltweiten Laptops (einschließlich chinesischer Auftragsfertiger, Daten von 2024) [^4]. Der direkte Produktionsanteil auf der Insel Taiwan ist stark gesunken:
+**Das Königreich der Laptop-Produktion:**
+Taiwanesische Marken und die Übersee-Produktion taiwanesischer Unternehmen übernehmen zusammen etwa 85–90 % der weltweiten Laptop-Auftragsfertigung (einschließlich chinesischer Fabriken taiwanesischer Firmen, Daten von 2024). Der Anteil der direkten Produktion auf der Insel Taiwan ist jedoch stark gesunken[^4]:
 
-- **Quanta Computer:** Hauptauftragnehmer für Apple MacBooks
-- **Inventec:** Auftragsfertigung für Lenovo und Dell Laptops
-- **Wistron:** Hersteller von ASUS- und Sony-Laptops
+- **Quanta Computer**: Hauptauftragnehmer für Apple MacBooks.
+- **Compal Electronics**: Fertigt Laptops für Lenovo und Dell.
+- **Pegatron**: Herstellung von Laptops für ASUS und Sony.
 
-**Server- und Cloud-Hardware:**
+**Server und Cloud-Equipment:**
 
-- Die meisten globalen Server werden von taiwanesischen Unternehmen entworfen und gefertigt.
-- Hauptlieferanten für Cloud-Diensteanbieter (Google, Amazon, Facebook).
-- Wichtige Hersteller von 5G-Grundausrüstung.
+- Die Mehrheit der weltweiten Server wird von taiwanesischen Unternehmen entworfen und gefertigt.
+- Hauptlieferant für Cloud-Dienstleister (Google, Amazon, Facebook).
+- Wichtiger Anbieter von 5G-Infrastruktur.
 
-**Schlüsselkomponenten:**
+**Kritische Komponenten:**
 
-- **Passive Bauelemente:** Kioxia, Wistron (unter den Top 3 weltweit)
-- **Stecker/Konnektoren:** Foxconn, Zensing (Hauptlieferanten für Apple)
-- **Leiterplatten (PCB):** Largan Precision Industry, Unimicron (technologisch führend)
+- **Passive Bauelemente**: Yageo, Walsin Microelectronics (unter den weltweit Top 3).
+- **Steckverbinder**: Foxconn, Zhengyi (wichtige Zulieferer für Apple).
+- **Leiterplatten (PCB)**: Zhen Ding, Unimicron (technologisch führend).
 
 ### Präzisionsmaschinen und Werkzeugmaschinen
 
-Im Jahr 2023 beliefen sich die Exporte von Werkzeugmaschinen Taiwans auf 2,6 Milliarden US-Dollar, ein Rückgang um 14 % gegenüber dem Vorjahr. Das globale Ranking sank auf den siebten Platz, hinter Deutschland, China, Japan, Italien, Südkorea und den USA (im Jahr 2021 war Taiwan noch auf Platz fünf) [^5]. Die Präzisionstechnik bleibt wettbewerbsfähig:
+Im Jahr 2023 beliefen sich die Exporte taiwanesischer Werkzeugmaschinen auf 2,6 Milliarden US-Dollar (ein Rückgang von 14 % gegenüber dem Vorjahr). Der weltweite Rang sank auf den siebten Platz, hinter Deutschland, China, Japan, Italien, Südkorea und den USA (2021 lag Taiwan noch auf Platz fünf)[^5]. Dennoch bleibt die Präzisionstechnik wettbewerbsfähig:
 
-- **Präzisionsbearbeitungsausrüstung für Smartphones:** Eigenbedarf der Lieferketten von TSMC und Apple.
-- **Automobilkomponenten:** Wistron, Dongyang Industrial.
-- **Fahrradindustrie:** Giant, Merida und die vorgelagerten/nachgelagerten Unternehmen.
+- **Präzisionsausrüstung für Mobiltelefone**: Unverzichtbar für die Lieferketten von TSMC und Apple.
+- **Automobilkomponenten**: HeDa Industrial, Tung Yang Industrial.
+- **Fahrradindustrie**: Giant, Merida sowie deren Zulieferer.
 
 ## Handelsbeziehungen zwischen beiden Seiten der Taiwanstraße
 
-### ECFA und Handel zwischen beiden Seiten
+### ECFA und der Handel zwischen beiden Seiten
 
 **Unterzeichnung des ECFA im Jahr 2010:**
-Das „Wirtschaftskooperationsabkommen zwischen beiden Seiten“ brachte konkrete Vorteile:
+Das „Economic Cooperation Framework Agreement“ (ECFA) brachte substantielle Vorteile:
 
-Die frühe Ernte des ECFA senkte Zölle für viele Produkte, was den Export Taiwans nach China beschleunigte und Märkte für Dienstleistungen öffnete, während gleichzeitig ein Rahmen zur Investitionssicherung geschaffen wurde.
+Die frühen Listen des ECFA senkten zahlreiche Zölle, was das Exportwachstum Taiwans nach China beschleunigte. Zudem wurden Märkte für Dienstleistungen geöffnet und Rahmenbedingungen für Investitionsschutz geschaffen.
 
 **Handelsdaten:**
 
-- Das Handelsvolumen zwischen beiden Seiten im Jahr 2023 (unterschiedliche statistische Grundlagen: Direkthandel des Zollamtes des Finanzministeriums ca. 223,9 Milliarden USD; eine andere Quelle schätzt es inklusive indirekter Geschäfte auf 284,7 Milliarden USD) [^7].
-- China ist der größte Handelspartner Taiwans.
-- Taiwan verzeichnete ein Handelsüberschuss mit China von etwa 80 Milliarden US-Dollar.
-- Die wichtigsten Exportgüter sind Halbleiter, Displays und Maschinen.
+- Handelsvolumen 2023 (Unterschiedliche statistische Erhebungen: Die direkte Statistik des Zolls der Finanzbehörde beläuft sich auf ca. 223,9 Milliarden US-Dollar; unter Einbeziehung des indirekten Handels liegt die Schätzung höher, eine andere Quelle nennt 284,7 Milliarden US-Dollar)[^7].
+- China ist Taiwans wichtigster Handelspartner.
+- Taiwan verzeichnet einen Handelsüberschuss gegenüber China von etwa 80 Milliarden US-Dollar.
+- Hauptexportgüter: Halbleiter, Panels, Maschinen und Anlagen.
 
 ### Investitionen und industrielle Verlagerung
 
-**Der Wandel der taiwanesischen Unternehmen:**
+**Der Weg der taiwanesischen Unternehmen nach China:**
 
-1. **1990er Jahre:** Verlagerung traditioneller Fertigungsindustrien (Textilien, Schuhe).
-2. **2000er Jahre:** Massiver Westward Shift der Elektronik- und Informationstechnologieindustrie.
-3. **2010er Jahre:** Beginn der Expansion von Dienstleistungen in den chinesischen Markt.
+1. **1990er Jahre**: Verlagerung der traditionellen Fertigung (Textilien, Schuhe).
+2. **2000er Jahre**: Massiver Vorstoß der Elektronik- und IT-Branche.
+3. **2010er Jahre**: Expansion des Dienstleistungssektors auf den chinesischen Markt.
 
-**Das Aufteilungsmuster der Industrie:** Taiwan übernimmt Forschung, Design, kritische Komponenten und Markenführung; China übernimmt die Fertigung, Montage, den Binnenmarkt und die Lieferkettenintegration, was zu einer hochgradig abhängigen vertikalen Arbeitsteilung führt.
+**Modell der industriellen Arbeitsteilung:** Taiwan ist für Forschung, Design, kritische Komponenten und Markenführung zuständig; China übernimmt die Fertigung, Montage, den Binnenmarkt und die Integration der Lieferketten, was zu einer hochgradig interdependenten vertikalen Arbeitsteilung führt.
 
-**Risiken und Herausforderungen:** Der Preis dieses Modells ist die übermäßige Abhängigkeit von einem einzigen Markt, begleitet von der Bedrohung durch Technologiediebstahl und dem zunehmenden geopolitischen Risiko.
+**Risiken und Herausforderungen**: Der Preis dieses Modells ist die übermäßige Abhängigkeit von einem einzelnen Markt, begleitet von der Gefahr des Technologietransfers und steigenden geopolitischen Risiken.
 
-## Auswirkungen des US-China-Handelskriegs
+## Auswirkungen des Handelskriegs zwischen den USA und China
 
-### Die Schockwelle des Technologiekrieges
+### Schock durch den Technologiekrieg
 
-**Die Huawei-Sanktionen:**
-Die Sanktionen der USA gegen chinesische Unternehmen wie Huawei beeinflussen die taiwanesischen Zulieferer:
+**Effekte des Huawei-Verbots:**
+Die Sanktionen der USA gegen chinesische Unternehmen wie Huawei beeinflussen auch taiwanesische Zulieferer:
 
-- TSMC hat die Auftragsfertigung für Huawei eingestellt.
-- Unternehmen wie MediaTek und UMC haben wichtige Kunden verloren.
-- Das Dilemma, sich einer Seite anschließen zu müssen.
+- TSMC stellte die Fertigung für Huawei ein.
+- Unternehmen wie MediaTek und Largan Microelectronic verloren wichtige Kunden.
+- Das Dilemma, sich zwischen den Mächten entscheiden zu müssen.
 
-**Der strategische Wettbewerb bei Halbleitern:**
-Die Subventionen des US-Chipsgesetzes lockten TSMC zur Errichtung von Fabriken in den USA an. China investiert gleichzeitig massiv in die eigenständige Halbleiterforschung. Taiwan ist dem Risiko der Technologiediebstahl zwischen diesen beiden Großmächten ausgesetzt.
+**Strategischer Halbleiterwettbewerb:** Der US „CHIPS Act“ lockt TSMC mit Subventionen dazu, Fabriken in den USA zu bauen, während China gleichzeitig seine Investitionen in die eigene Halbleiterforschung intensiviert. Taiwan steht im Spannungsfeld zwischen den beiden Mächten vor dem Risiko eines Technologietransfers.
 
-### Chancen durch die Neuausrichtung der Lieferketten
+### Chancen durch die Umstrukturierung der Lieferketten
 
-**Der Auftragswechsel-Effekt:**
-Der US-China-Handelskrieg führte zu einer Verlagerung von Bestellungen: US-Unternehmen kauften weniger in China ein, und Taiwan übernahm teilweise diese Aufträge. Die Bereiche Maschinenbau und Elektronik profitierten am deutlichsten.
+**Verlagerungseffekt (Order Shifting):** Der Handelskrieg führt zu neuen Auftragschancen: US-Unternehmen reduzieren ihre Einkäufe in China, wodurch Taiwan einen Teil der verlagerten Aufträge übernimmt. Besonders die Sektoren Maschinenbau und Elektronik profitieren davon.
 
-**Die "New Southbound"-Politik:**
-Die Regierung fördert die „New Southbound“-Strategie mit dem Ziel, Investitionen in ASEAN-Staaten (zehn Länder), Südasien (sechs Länder) sowie Australien und Neuseeland zu lenken. Gleichzeitig wird der Austausch von Talenten, technologischer Zusammenarbeit und Finanzinfrastruktur gefördert, um die Abhängigkeit von China zu verringern.
+**New Southbound Policy:** Die Regierung fördert die „New Southbound Policy“, um Investitionen in den zehn ASEAN-Staaten, sechs südasiatischen Ländern sowie in Australien und Neuseeland aufzubauen. Ziel ist es, die Abhängigkeit von China durch Talentaustausch, technologische Zusammenarbeit und finanzielle Kooperation bei der Infrastruktur zu verringern.
 
-**Nearshoring-Trend:**
-Unter dem Druck der Resilienz der Lieferketten diversifizieren multinationale Unternehmen ihre geografische Verteilung. Taiwan ist dank seines demokratischen Regierungssystems und seiner technologischen Zuverlässigkeit zu einem bevorzugten Standort für die Verlagerung von Produktionskapazitäten geworden.
+**Trend zum Nearshoring:** Unter dem Druck der Resilienz in den Lieferketten diversifizieren multinationale Konzerne ihre geografische Aufstellung. Taiwan ist aufgrund seiner demokratischen Governance und des technologischen Vertrauens ein bevorzugter Standort für die Verlagerung von Kapazitäten geworden.
 
-## Beteiligung an internationalen Handelsabkommen
+## Teilnahme an internationalen Handelsabkommen
 
-### Herausforderungen bei der FTA-Strategie
+### Herausforderungen bei FTA-Strategien
 
-**Einschränkungen durch politische Faktoren:**
-Aufgrund der „Ein-China“-Politik steht Taiwan vor Schwierigkeiten bei der Teilnahme an regionaler Wirtschaftsintegration:
+**Einschränkungen durch politische Faktoren:** Aufgrund der Ein-China-Politik steht Taiwan vor Schwierigkeiten bei der regionalen wirtschaftlichen Integration:
 
-- Teilnahme am RCEP (Regional Comprehensive Economic Partnership) ist nicht möglich.
-- Der Antrag auf CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) schreitet langsam voran.
-- Zweilaterale FTA-Verhandlungen sind blockiert.
+- Keine Teilnahme am RCEP (Regional Comprehensive Economic Partnership).
+- Langsame Fortschritte beim Beitritt zur CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership).
+- Blockierte Verhandlungen über bilaterale Freihandelsabkommen (FTA).
 
 **Bestehende Handelsabkommen:**
 
-- Aktive Freihandelsabkommen bestehen mit Panama (2004), Guatemala (2006), El Salvador und Honduras (2008) sowie Wirtschaftsvereinsabkommen mit Neuseeland (2013), Singapur (2014), Paraguay (2018), Swederland (2018) und Belize (2022) [^8]. Das FTA mit Nicaragua wurde nach dem Abbruch der diplomatischen Beziehungen durch Nicaragua im Jahr 2021 seit Juli 2022 nicht mehr angewendet [^9].
-- Verhandlungen über das TIFA (Trade and Investment Framework Agreement) mit den USA wurden wieder aufgenommen.
-- Die Förderung eines BIA (Bilateral Investment Agreement) mit der Europäischen Union wird vorangetrieben.
+- Aktuell in Kraft stehende FTAs mit Panama (2004), Guatemala (2006), El Salvador und Honduras (2008) sowie Wirtschaftskooperationsabkommen mit Neuseeland (2013), Singapur (2014), Paraguay (2018), Eswatini (2018) und Belize (2022)[^8]. Das FTA mit Nicaragua wurde nach dem Abbruch der diplomatischen Beziehungen durch Nicaragua im Jahr 2021 seit Juli 2022 nicht mehr angewendet[^9].
+- Wiederaufnahme der TIFA-Verhandlungen (Trade and Investment Framework Agreement) mit den USA.
+- Förderung eines BIA (Bilaterales Investitionsabkommen) mit der EU.
 
 ### Durchbrüche in der Wirtschaftsstrategie
 
-**Zusammenarbeit im digitalen Handel:**
-Taiwan hat ein Rahmenwerk für Technologiehandel und Investitionen mit den USA unterzeichnet und bekräftigt seinen Willen, dem DEPA (Digital Economy Partnership Agreement) beizutreten, und fördert die Entwicklung von digitalen Handelsregeln auf multilateraler Ebene.
+**Digitale Handelskooperation:** Taiwan hat ein Rahmenwerk für technologischen Handel und Investitionen mit den USA unterzeichnet und Interesse an einem Beitritt zur DEPA (Digital Economy Partnership Agreement) bekundet, um die Gestaltung digitaler Handelsregeln zu Taiwans Gunsten in multilateralen Foren voranzutreiben.
 
-**Lieferkettenzusammenarbeit:**
-Die „21st Century Trade Initiative“ zwischen Taiwan und den USA sowie das Rahmenwerk für Technologiehandel und Investitionen zwischen Taiwan und den USA bieten bilaterale institutionelle Rahmenbedingungen. Zudem wird eine multilaterale Zusammenarbeit mit Verbündeten zur Schaffung von Lieferketten für kritische Mineralien aufgebaut.
+**Lieferketten-Kooperation:** Die „U.S.-Taiwan Initiative on 21st-Century Trade“ und das Rahmenwerk für technologischen Handel bieten bilaterale institutionelle Strukturen sowie die Zusammenarbeit mit Verbündeten beim Aufbau multilateraler Lieferketten für kritische Mineralien.
 
-## Wandel der Handelsstruktur
+## Transformation der Handelsstruktur
 
-### Entwicklung der Exportgüter
+### Evolution der Exportgüter
 
-**1960er Jahre:** Textilien, Bekleidung, Kunststoffprodukte
-**1980er Jahre:** Informationselektronik, Maschinenbau
-**2000er Jahre:** Halbleiter, Displays, Laptops
-**2020er Jahre:** Fortschrittliche Halbleiter, 5G-Ausrüstung, E-Auto-Komponenten
+**1960er Jahre**: Textilien, Bekleidung, Kunststoffprodukte.
+**1980er Jahre**: Elektronikprodukte, Maschinen und Anlagen.
+**2000er Jahre**: Halbleiter, Panels, Laptops.
+**2020er Jahre**: Fortschrittliche Halbleiter, 5G-Ausrüstung, Komponenten für Elektrofahrzeuge.
 
-**Aktuelle Hauptexportgüter (2024, Klassifikation nach Finanzministerium):** [^1]
+**Wichtigste Exportgüter aktuell (2024, Klassifizierung der Finanzbehörde)[^1]:**
 
-1. **Elektronische Komponenten** (37,3 %, darunter integrierte Schaltkreise)
-2. **Informationstechnologie und Audioprodukte** (27,9 %, angetrieben durch KI-Server und Grafikkarten mit 59 % Wachstum)
-3. **Basismetalle und deren Produkte** (6,0 %)
-4. **Maschinen** (5,1 %)
-5. **Kunststoff und deren Produkte** (4,1 %)
+1. **Elektronische Bauelemente** (37,3 %, primär integrierte Schaltkreise).
+2. **IKT- und Audiovisuallprodukte** (27,9 %, getrieben durch KI-Server und Grafikkarten mit einem jährlichen Wachstum von 59 %).
+3. **Basismetalle und Erzeugnisse** (6,0 %).
+4. **Maschinen** (5,1 %).
+5. **Kunststoffe und Erzeugnisse** (4,1 %).
 
-### Wandel der Handelspartner
+### Veränderung der Handelspartner
 
-**Verteilung der Exportmärkte (2024):** [^1]
+**Verteilung der Exportmärkte (2024)[^1]:**
 
-1. **China (einschließlich Hongkong)** (150,6 Mrd. USD, 31,7 %)
-2. **USA** (111,4 Mrd. USD, 23,5 %)
-3. **ASEAN** (87,8 Mrd. USD, 18,5 %)
-4. **Europa** (38,6 Mrd. USD, 8,1 %)
-5. **Japan** (25,8 Mrd. USD, 5,4 %)
+1. **China (inkl. Hongkong)** (150,6 Mrd. US-Dollar, 31,7 %).
+2. **USA** (111,4 Mrd. US-Dollar, 23,5 %).
+3. **ASEAN** (87,8 Mrd. US-Dollar, 18,5 %).
+4. **Europa** (38,6 Mrd. US-Dollar, 8,1 %).
+5. **Japan** (25,8 Mrd. US-Dollar, 5,4 %).
 
-**Diversifizierungstrend:**
-Der Anteil der Exporte nach China (einschließlich Hongkong) sank von einem Höchststand von 42 % im Jahr 2021 auf 35,2 % im Jahr 2023 und 31,7 % im Jahr 2024 (Statistisches Amt des Finanzministeriums) [^1][^6]. Gleichzeitig wuchs der Export in die USA acht Jahre in Folge kontinuierlich, mit einem Wachstum von 46 % im Jahr 2024. Auch die Exporte nach ASEAN erreichten neue Höchststände und füllten die Lücke.
+**Diversifizierungstrend:** Der Anteil der Exporte nach China (inkl. Hongkong) sank von einem Höchststand von 42 % im Jahr 2021 auf 35,2 % im Jahr 2023 und 31,7 % im Jahr 2024 (Statistik der Finanzbehörde)[^1][^6]. Im gleichen Zeitraum verzeichneten die Exporte in die USA acht Jahre in Folge Wachstum (mit einem Anstieg von 46 % im Jahr 2024), und auch die Exporte nach ASEAN erreichten neue Höchststände, was die Lücken schloss.
 
 ## Zukünftige Herausforderungen und Chancen
 
 ### Geopolitische Risiken
 
-**Der Sino-US-Technologiekonflikt:**
-Die Kontrolle der Halbleitertechnologie wird jedes Jahr verschärft. Die Lagerbildung und die Divergenz bei den technologischen Standards beschleunigen sich, was Taiwan zu einer Neubewertung seiner Position zwingt.
+**Technologischer Konflikt USA-China:** Die Kontrolle von Halbleitertechnologien verschärft sich jährlich; eine Blockbildung der Lieferketten und Divergenzen bei Technologiestandards beschleunigen sich, was Taiwans Position unter Verhandlungsdruck setzt.
 
-**Auswirkungen der Situation in der Taiwanstraße:**
-Das Risiko für Investoren steigt; multinationale Unternehmen diversifizieren ihre Standorte schneller. Kosten für Versicherungen und Transport steigen ebenfalls – diese Kosten werden letztendlich auf die Wettbewerbsfähigkeit des taiwanesischen Exports umgelegt.
+**Auswirkungen der Lage in der Taiwanstraße**: Das Risikobewusstsein der Investoren steigt, was die geografische Diversifizierung durch internationale Unternehmen beschleunigt. Versicherungs- und Transportkosten steigen parallel dazu – diese Kosten werden letztlich die Exportwettbewerbsfähigkeit Taiwans beeinflussen.
 
-### Chancen durch industrielle Transformation
+### Chancen des industriellen Wandels
 
-Obwohl geopolitischer Druck Unsicherheit bringt, eröffnet er Taiwan drei Transformationskorridore: Energietechnologie, digitale Infrastruktur und Biotechnologie/Medizin. Taiwan verfügt bereits über eine Fertigungsbasis in diesen Bereichen; ob es die technologischen Mauern vertiefen kann, entscheidet über die Exportwettbewerbsfähigkeit der nächsten zehn Jahre.
+Obwohl geopolitischer Druck Unsicherheit bringt, eröffnet er Taiwan drei Transformationskorridore: Energietechnologie, digitale Infrastruktur und Biomedizin. Taiwan verfügt bereits über eine industrielle Basis in diesen Bereichen; ob es gelingt, technologische Barrieren zu vertiefen, wird die Exportwettbewerbsfähigkeit des nächsten Jahrzehnts bestimmen.
 
-**Der Trend zur Netto-Null-Emission:**
-Taiwan ist führend bei der weltweiten Marktanteile von Solarzellen und entwickelt Lieferketten für Offshore-Windenergie. Komponenten für Elektrofahrzeuge sind ein neuer Wachstumsbereich für Exporte.
+**Trend zur Netto-Null-Emission**: Taiwans Marktanteil bei Solarzellen gehört zu den weltweit führenden, die Lieferkette für Offshore-Windenergie formt sich gerade, und Komponenten für Elektrofahrzeuge werden zu einem neuen Exportwachstumspunkt.
 
-**Bedarf durch die digitale Transformation:**
-Der Ausbau der 5G-Infrastruktur erfordert Vernetzung und Edge Computing, während der Durchbruch in der KI-Rechenleistung direkt von den Fähigkeiten Taiwans bei der Entwicklung von KI-Chips profitiert.
+**Bedarf an digitaler Transformation**: Der Ausbau der 5G-Infrastruktur treibt die Nachfrage nach IoT (Internet of Things) und Edge Computing voran; das explosive Wachstum der KI-Rechenleistung kommt zudem den Designkapazitäten Taiwans für KI-Chips direkt zugute.
 
-**Die Biotechnologieindustrie:**
-COVID-19 verdeutlichte die Fähigkeiten Taiwans in der Impfstoffentwicklung und der Herstellung von Präzisionsmedizin-Geräten; digitale Gesundheitslösungen sind ein sich entwickelnder neuer Exportbereich.
+**Biomedizinische Industrie**: Die COVID-19-Pandemie hat Taiwans Fähigkeiten in der Impfstoffforschung und der Herstellung medizinischer Präzisionsgeräte unterstrichen; digitale Gesundheitslösungen sind eine neue, entstehende Exportkategorie.
 
 ### Aufbau resilienter Lieferketten
 
-Der Sino-US-Konflikt und das Risiko in der Taiwanstraße zwingen Unternehmen, die Konzentration ihrer Lieferketten neu zu bewerten. Die Strategie Taiwans ist zweigleisig: Vermeidung übermäßiger Abhängigkeit von einem einzigen Markt durch Diversifizierung der Bezugsquellen; Beibehaltung kritischer Technologien und Kapazitäten auf der Insel Taiwan, kombiniert mit strategischen Sicherheitsbeständen, um die Kontrolle über die Lieferkette zu wahren. Die Verbesserung der Sichtbarkeit der Lieferketten ist eine grundlegende Anforderung beider Strategien.
+Der Konflikt zwischen den USA und China sowie die Risiken in der Taiwanstraße zwingen Unternehmen dazu, die Konzentration ihrer Lieferketten neu zu bewerten. Taiwans Strategie verläuft auf zwei Gleisen: Nach außen hin wird eine übermäßige Abhängigkeit von einzelnen Märkten vermieden, indem vielfältige Quellen aufgebaut werden; nach innen hin bleiben kritische Technologien und Kapazitäten in Taiwan, ergänzt durch strategische Sicherheitsbestände, um die Autonomie der Industriekette zu wahren. Die Erhöhung der Transparenz in den Lieferketten ist eine grundlegende Infrastrukturanforderung für beide Wege.
 
 ## Fazit
 
-Die 60-jährige Exportgeschichte Taiwans zeigt den Wandel von Textilien und Spielzeug hin zur Auftragsfertigung und KI-Servern; jeder Wandel war eine aktive Entscheidung angesichts des Drucks. Angesichts der neuen Kaltkriegsordnung zwischen den USA und China muss Taiwan seine bestehenden technologischen Vorteile aufrechterhalten und gleichzeitig die nächste industrielle Periode planen.
+In der sechzigjährigen Geschichte des Außenhandels hat sich Taiwan von der Textil- und Spielwarenindustrie hin zur Waferfertigung und zu KI-Servern entwickelt; jede Transformation war eine aktive Entscheidung angesichts von Druck. In der neuen Ära eines Kalten Krieges zwischen den USA und China muss Taiwan seine technologischen Vorteile wahren und gleichzeitig die Positionierung für den nächsten Industriezyklus beschleunigen.
 
-Die Neuausrichtung der Lieferketten bringt nicht nur Risiken: Die konzentrierten Stärken Taiwans in der Auftragsfertigung von Halbleitern, Servern und Präzisionsmaschinen machen es für Unternehmen schwer, Taiwan zu umgehen. Der Wandel von einem arbeitsintensiven Export hin zu einem technologieintensiven Knotenpunkt der Lieferkette und die Diversifizierung der Märkte sind entscheidende Säulen zur Bewältigung geopolitischer Risiken.
+Die Umstrukturierung der Lieferketten bringt nicht nur Risiken: Die konzentrierten Stärken Taiwans in den Bereichen Waferfertigung, Servermontage und Präzisionsmaschinen machen es Unternehmen unmöglich, Taiwan einfach zu umgehen. Der Wandel der Handelsstruktur von arbeitsintensiven Exporten hin zu technologisch intensiven Knotenpunkten der Lieferkette sowie eine diversifizierte Marktstrategie sind die entscheidenden Säulen zur Bewältigung geopolitischer Risiken.
 
 ## Referenzen
 
-[^1]: [Statistisches Amt des Finanzministeriums – Überblick über den Außenhandel Taiwans im Jahr 2024](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Export 475 Mrd. USD, Import 394,4 Mrd. USD; Export nach China und Hongkong 150,6 Mrd. USD (31,7 %), USA 111,4 Mrd. USD (Wachstum von 46,1 %, erste Marke von hundert Milliarden), ASEAN 87,8 Mrd. USD, Europa 38,6 Mrd. USD, Japan 25,8 Mrd. USD; Tabelle der Klassifikation nach Finanzministerium.
+[^1]: [Statistikamt der Finanzbehörde — Überblick über den Außenhandel Taiwans im Jahr 113 (2024)](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exporte: 475 Mrd. US-Dollar, Importe: 394,4 Mrd. US-Dollar; Exporte nach China und Hongkong: 150,6 Mrd. US-Dollar (31,7 %), USA: 111,4 Mrd. US-Dollar (Anstieg um 46,1 %, erstmals über 100 Mrd.), ASEAN: 87,8 Mrd. US-Dollar, Europa: 38,6 Mrd. US-Dollar, Japan: 25,8 Mrd. US-Dollar; Tabelle der Anteile nach Warenkategorien.
 
-[^2]: [TechNews – Taiwan rangiert mit Exportwert 2023 auf Platz 16 weltweit](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Export im Jahr 2023 betrug 432,4 Milliarden US-Dollar und machte 1,8 % des weltweiten Handels aus; dies ist der dritte höchste Wert seit Beginn der Statistiken im Jahr 2001.
+[^2]: [TechNews — Taiwans Exportwert auf weltweitem Rang 16 im Jahr 2023](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Exportwert 2023: 432,4 Mrd. US-Dollar (1,8 % des Weltmarktes), Platz 16 weltweit, der dritthöchste Wert seit Beginn der statistischen Erfassung im Jahr 2001.
 
-[^3]: [TrendForce – Marktanteilsbericht für Waferfoundry 2023–2024](https://www.trendforce.com/) — Der einzelne Marktanteil von TSMC beträgt 55–67 %, der Gesamtmarktanteil Taiwans übersteigt 70 %.
+[^3]: [TrendForce — Bericht zum Marktanteil der Waferfertigung 2023–2024](https://www.trendforce.com/) — TSMC allein hält einen Marktanteil von 55–67 %, Taiwan insgesamt über 70 %.
 
-[^4]: [TrendForce – Ranking der Laptop-Auftragsfertigung für 2024](https://www.trendforce.com/) — Taiwanische Marken und ausländische Fabriken übernehmen zusammen etwa 85–90 % des weltweiten Laptops; der direkte Produktionsanteil auf der Insel Taiwan ist stark gesunken.
+[^4]: [TrendForce — Ranking der Laptop-Auftragsfertigung 2024](https://www.trendforce.com/) — Taiwanesische Marken und Übersee-Produktion taiwanesischer Firmen übernehmen ca. 85–90 % der weltweiten Fertigung; die direkte Produktion auf der Insel Taiwan ist stark gesunken.
 
-[^5]: [Industrieverband für Werkzeugmaschinen und Komponenten Taiwans – Daten über die Top 10 Konsumländer und Exportländer von Werkzeugmaschinen weltweit im Jahr 2023](https://www.tmba.org.tw/zh-TW/news/traditionandbusiness/1566) — Die Exporte von Werkzeugmaschinen Taiwans beliefen sich 2023 auf 2,6 Milliarden US-Dollar, ein Rückgang um 14 %, das globale Ranking ist der siebte Platz.
+[^5]: [Verband der Werkzeugmaschinen- und Komponentenindustrie Taiwans — Daten zu den Top 10 Verbrauchern und Exporteuren von Werkzeugmaschinen weltweit 2023](https://www.tmba.org.tw/zh-TW/news/traditionandbusiness/1566) — Exportwert 2023: 2,6 Mrd. US-Dollar (Rückgang um 14 %), weltweiter Rang 7.
 
-[^6]: [Statistisches Amt des Finanzministeriums – Überblick über den Außenhandel Taiwans im Jahr 2023](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Export betrug 432,4 Milliarden US-Dollar, Import 351,4 Milliarden USD; der Export nach China und Hongkong belief sich auf 152,2 Milliarden USD (Rückgang um 18,1 %).
+[^6]: [Statistikamt der Finanzbehörde — Überblick über den Außenhandel Taiwans im Jahr 112 (2023)](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Exporte: 432,4 Mrd. US-Dollar, Importe: 351,4 Mrd. US-Dollar; Exporte nach China und Hongkong: 152,2 Mrd. US-Dollar (Rückgang um 18,1 %).
 
-[^7]: [Kommission für über das Meer tratschen – Handelsstatistiken zwischen beiden Seiten](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Die Zahlen variieren je nach statistischer Grundlage (Direkthandel vs. inklusive indirekter Geschäfte); die Daten des Zollamtes des Finanzministeriums werden als maßgeblich angesehen.
+[^7]: [Hauptamt für chinesische Angelegenheiten (MAC) — Statistiken zu den Wirtschaftsbeziehungen zwischen beiden Seiten der Taiwanstraße](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Das Handelsvolumen variiert je nach statistischer Methode (direkter Handel vs. inklusive indirektem Handel); die Zahlen der Finanzbehörde werden als Referenz empfohlen.
 
-[^8]: [Taiwan ECA/FTA Portal](https://fta.trade.gov.tw/) — Ministerium für internationale Handelsangelegenheiten: Liste und Inkrafttreten von FTA/ECA Taiwans.
+[^8]: [ECA/FTA-Portal Taiwans](https://fta.trade.gov.tw/) — Handelsagentur des Wirtschaftsministeriums: Liste der in Kraft befindlichen FTAs/ECAs und deren Inkrafttreten.
 
-[^9]: [Liberty Times – Parlament beschließt Aussetzung des FTAs mit Nicaragua; Außenministerium und Wirtschaftsministerium: Geringe Auswirkungen auf den Handel mit Taiwan](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Die Seite beendete die Beziehungen einseitig im Dezember 2021; seit dem 1. Juli 2022 ist das Abkommen nicht mehr anwendbar.
+[^9]: [Liberty Times — Parlament verabschiedet Aussetzung des FTA mit Nicaragua; Außen- und Wirtschaftsministerium: Begrenzte Auswirkungen auf den Handel](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Nicaragua beendete die Beziehungen einseitig im Dezember 2021; die Anwendung wurde von taiwanesischer Seite zum 1. Juli 2022 eingestellt.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Taiwanische KMUs und unsichtbare Champions](/de/economy/taiwan-smes-and-hidden-champions)
+- [Taiwanesische KMUs und Hidden Champions](/de/economy/taiwan-smes-and-hidden-champions)
 - [Landwirtschaft und ländliche Erneuerung in Taiwan](/de/economy/taiwan-agriculture-and-rural-revitalization)
 - [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview)
-- [Taiwanesisches Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Globale Präsenz mit 900.000 Menschen in 24 Ländern ist das größte Experiment der grenzüberschreitenden Unternehmensführung Taiwans.
+- [Taiwanesische Unternehmen: Foxconn Precision](/de/economy/foxconn-precision-industry) — Globale Präsenz in 24 Ländern mit 900.000 Mitarbeitern, das größte Experimentierfeld für grenzüberschreitendes Management der taiwanesischen Fertigungsindustrie.

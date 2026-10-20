@@ -1,14 +1,14 @@
 ---
 title: 'História do Comércio Marítimo de Taiwan'
-description: 'Taiwan na Era dos Grandes Navegações: de centro de comércio internacional à ascensão e queda do reino pirata'
+description: 'Durante a Era dos Descobrimentos nos séculos XVI e XVII, esta ilha não era um pequeno enclave na periferia da Ásia Oriental, mas sim um importante centro comercial que ligava a China, o Japão e o Sudeste Asiático. A Companhia Holandesa das Índias Orientais construiu Fort Zeelandia em Tainan, importando seda, porcelana e chá da China, prata do Japão e especiarias e madeira do Sudeste Asiático para transbordo, sendo aclamada como a Amsterdã da Ásia Oriental. A Dinastia Zheng estabeleceu sua hegemonia marítima, escrevendo uma história de ascensão e queda que transformou um centro comercial em um reino de piratas.'
 date: 2026-03-20
 category: 'History'
 tags:
   [
     'comércio marítimo',
-    'era dos grandes navegações',
+    'Era dos Descobrimentos',
     'comércio internacional',
-    'piratas',
+    'pirataria',
     'cidades portuárias',
   ]
 subcategory: '史前與原住民'
@@ -20,10 +20,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T20:19:12+08:00'
+translatedAt: '2026-10-15T19:09:22.637828+00:00'
 ---
 
 # História do Comércio Marítimo de Taiwan

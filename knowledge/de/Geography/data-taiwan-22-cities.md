@@ -28,10 +28,10 @@ imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:446265901543dd85'
-sourceBodyHash: 'sha256:2daf1a831ec93084'
-translatedAt: '2026-09-09T14:15:07+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:426316f6a96d8460'
+sourceBodyHash: 'sha256:035cd9cc6b8c328a'
+translatedAt: '2026-10-15T02:59:02.521223+00:00'
 ---
 
 # Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation
@@ -50,65 +50,66 @@ Dieser Artikel verfolgt ein Ziel: Mit offiziellen Daten ein messbares, überprü
 
 > **30-Sekunden-Überblick:** Taiwans Bevölkerung Ende 2025 betrug 23.299.132 Menschen (etwa 23,3 Millionen) und ist seit 23 Monaten ständig kleiner geworden; Neugeborene sind zum ersten Mal unter 110.000 gefallen. Im selben Jahr wurde Taiwan offiziell eine „Überalterungsgesellschaft" — jeder fünfte Mensch ist über 65. Doch der nationale Durchschnitt verdeckt massive interne Unterschiede: Die höchste und niedrigste Bevölkerungsdichte unterscheiden sich um das 151-fache, die Bevölkerungsgröße um das 297-fache, der Grad der Überalterung um fast eine Generation. Menschen konzentrieren sich in sechs Großstädten; die Alterungsfront liegt nicht in urbanen Zentren sondern in peripheren und landwirtschaftlichen Bezirken. Das jüngste Gebiet wird von Taiwans Halbleiter-Cluster gestützt. Dies ist ein Taiwan mit großen inneren Unterschieden, der gemeinsam altert. [^2]
 
-## 70% der Menschen, 30% des Landes
+## Sieben Zehntel der Menschen, drei Zehntel des Landes
 
-Zunächst ein leicht übersehenes Faktum: Taiwanesen leben eigentlich sehr konzentriert.
+Sehen wir uns zunächst eine leicht übersehene Tatsache an: Die Menschen in Taiwan leben tatsächlich extrem konzentriert.
 
-Ende 2025 hatten die sechs Direktgeordneten Städte (Taipei, New Taipei, Taoyuan, Taichung, Tainan, Kaohsiung) zusammen 16.278.931 Menschen, das sind 69,87% der Gesamtbevölkerung. Mit anderen Worten: Fast sieben von zehn Taiwanesen leben in diesen sechs Großstädten. Doch das Gesamtland dieser sechs Großstädte macht nur 30,12% der Inselsfläche aus. 70% der Menschen, gepresst in 30% des Landes. Die restlichen 30% der Menschen verteilen sich auf die anderen 70%. So sieht Taiwans erstes großes Bevölkerungskonzentrationsmuster aus.
+Ende 2025 lebten in den sechs Sondergemeinden (Taipeh, Neu-Taipeh, Taoyuan, Taichung, Tainan, Kaohsiung) zusammen 16.278.931 Menschen, was 69,87 % der Gesamtbevölkerung Taiwans entsprach. Anders ausgedrückt: Von zehn Menschen in Taiwan leben fast sieben in den sechs Sondergemeinden. Doch die Fläche dieser sechs Sondergemeinden zusammen macht nur 30,12 % der Gesamtfläche Taiwans aus. Sieben Zehntel der Menschen drängen sich auf drei Zehntel des Landes. Die verbleibenden drei Zehntel verteilen sich auf die anderen sieben Zehntel der Fläche. Das ist die erste Struktur der Bevölkerungsverteilung in Taiwan.
 
 ```tw-stat
-23,3 Mio. | Gesamtbevölkerung Taiwans | Ende 2025, 23 Monate in Folge rückläufig
-20,06 % | Anteil der über 65-Jährigen | 2025 offiziell über der Schwelle zur superalternden Gesellschaft
-69,87 % | Anteil der sechs Sondermunizipien an der Gesamtbevölkerung | leben auf nur 30 % der Landesfläche
+23,30 Mio. | Gesamtbevölkerung Taiwans | Ende 2025, 23. Monat in Folge rückläufig
+20,06 % | Anteil der über 65-Jährigen | 2025 offiziell über die Schwelle zur Super-Aging-Gesellschaft hinaus
+69,87 % | Anteil der Sondergemeinden an der Gesamtbevölkerung | doch auf nur 30 % der Fläche
+Quelle: Innenministerium, Behörde für Haushaltsregistrierung, Bevölkerungsstatistik (Gesamtbevölkerung Ende 2025, Anteil der über 65-Jährigen, Anteil der Sondergemeinden) sowie Daten zur Umstrukturierung der Sondergemeinden[^1][^4]
 ```
 
-Dieses 70-30-Muster ist nicht natürlich entstanden — es hat einen klaren institutionellen Ausgangspunkt. Am 25. Dezember 2010 schrieb Taiwan seine Verwaltungskarte um: Taipei County wurde zur New Taipei City erhoben, Taichung Stadt und Kreis fusionierten, Tainan Stadt und Kreis fusionierten, Kaohsiung Stadt und Kreis fusionierten, plus die bisherige Taipei City — fünf Direktgeordnete Städte entstanden gleichzeitig. Vier Jahre später, am 25. Dezember 2014, wurde Taoyuan zur sechsten Direktgeordneten Stadt. In nur vier Jahren ging Taiwan von zwei zu sechs Großstädten über, und die Verteilung von Ressourcen, Budgets und Infrastruktur verschob sich dramatisch. [^4]
+Dieses Sieben-zu-Drei-Gefüge ist nicht natürlich entstanden; es hat einen klaren institutionellen Ausgangspunkt. Am 25. Dezember 2010 schrieb Taiwan seine Verwaltungsgliederung auf einen Schlag neu: Der Landkreis Taipeh wurde zur Sondergemeinde Neu-Taipeh aufgewertet, die Landkreise und Städte Taichung, Tainan und Kaohsiung wurden jeweils zusammengelegt, und zusammen mit der bereits bestehenden Stadt Taipeh entstanden gleichzeitig fünf Sondergemeinden. Vier Jahre später, am 25. Dezember 2014, wurde Taoyuan zur sechsten Sondergemeinde aufgewertet. In nur vier Jahren wandelte sich Taiwan von ursprünglich zwei Sondergemeinden zu sechs, und die Waage bei Ressourcen, Budgets und Bauvorhaben neigte sich entsprechend. [^4]
 
-Die Erhebung zur Direktgeordneten Stadt war nie nur eine Namenänderung. Direktgeordnete Städte erhalten deutlich höhere steuerliche Zuweisungen, Personalausstattung und Eigenmittel als reguläre Bezirke. Infrastruktur folgt der Ressourcenkonzentration; Arbeitsplätze entstehen dort, wo gebaut wird; junge Menschen ziehen dorthin. Die Institutionen ziehen die Linie vor, die Bevölkerung folgt. Das heute beobachtete Konzentrationsmuster in den sechs Großstädten ist in gewisser Weise die Frucht der Verwaltungsreform von 2010 nach anderthalb Jahrzehnten.
+Eine Aufwertung ist nie nur eine Namensänderung. Die Sondergemeinden erhalten Finanzausgleichsmittel, Personalstellen und eigene Finanzquellen, die weit über denen gewöhnlicher Landkreise und Städte liegen. Dorthin, wo Bauvorhaben hingehen, wachsen Arbeitsplätze, und dorthin ziehen junge Menschen. Das System zog zuerst eine Linie, die Bevölkerung folgte ihr. Die heutige Konzentration auf die sechs Sondergemeinden ist gewissermaßen die Frucht, die die Reform von 2010 gut ein Jahrzehnt später trug.
 
-Die Grafik unten zeigt deutlicher, „wo Taiwanesen wohnen". New Taipei City allein beherbergt 17,4% der nationalen Bevölkerung, Taichung 12,3%, Kaohsiung 11,7%, Taipei 10,5%, Taoyuan 10,1%, Tainan 7,9% — zusammen 70%. Die übrigen 16 Bezirke, verteilt von Nord bis zu den Inselgruppen, machen zusammen nur 30,1% aus.
+Die folgende Grafik zeigt noch deutlicher, „wo die Menschen in Taiwan leben“. Allein die Stadt Neu-Taipeh beherbergt 17,4 % der Gesamtbevölkerung, Taichung 12,3 %, Kaohsiung 11,7 %, Taipeh 10,5 %, Taoyuan 10,1 %, Tainan 7,9 % — die sechs Sondergemeinden zusammen kommen auf fast sieben Zehntel. Die übrigen 16 Landkreise und Städte, verteilt von Nord bis zu den Außeninseln, machen zusammen lediglich 30,1 % aus.
 
 ```tw-waffle
-Wo die Menschen in Taiwan leben (Anteil an der Gesamtbevölkerung, %)
-Neu-Taipeh | 17.4
-Taichung | 12.3
-Kaohsiung | 11.7
-Taipeh | 10.5
-Taoyuan | 10.1
-Tainan | 7.9
+Wo Taiwans Bevölkerung lebt (Anteil an Gesamtbevölkerung %)
+Neu-Taipeh | 17,4
+Taichung | 12,3
+Kaohsiung | 11,7
+Taipeh | 10,5
+Taoyuan | 10,1
+Tainan | 7,9
 Übrige 16 Landkreise und Städte | 30,1
-Quelle: Amt für Haushaltsregistrierung, Innenministerium, Ende 2025
+Quelle: Innenministerium, Behörde für Haushaltsregistrierung, Ende 2025
 ```
 
-Wenn Sie lange auf dieses Quadrat-Muster starren, stellt sich eine Frage: Wie lebt man in jenen 30%, die auf 70% des Landes verteilt sind? Die Antwort liegt in der Dichte.
+Blickt man etwas länger auf dieses Waffeldiagramm, stellt sich eine Frage: Wie lebt jener 30 %-Anteil, der auf sieben Zehnteln der Fläche verstreut ist? Die Antwort liegt in der Dichte.
 
-![臺北市信義區與南港一帶的高樓天際線，密集的住宅與商辦層層堆疊](/article-images/society/taipei-skyline-housing-2026.webp)
-_Taipeis Skyline. Der dichteste Bezirk Taiwans: 8.975 Menschen pro Quadratkilometer. Photo: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
+![Hochhaus-Skyline im Bezirk Xinyi und Nangang von Taipeh, dicht gestapelte Wohn- und Gewerbegebäude](/article-images/society/taipei-skyline-housing-2026.webp)
+_Die Skyline von Taipeh. Das am dichtesten besiedelte Gebiet Taiwans, mit 8.975 Menschen pro Quadratkilometer. Foto: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
 
-## Von Dichtesten zu Spärlichsten: 151-fach unterschiedlich
+## Vom dichtesten zum am dünnsten besiedelten – 151-facher Unterschied
 
-Bevölkerungskonzentration handelt von „wie viele Menschen"; Dichte handelt von „wie beengt". Letztere zeigt besser den Abstand zwischen zwei Taiwans.
+Bevölkerungskonzentration bedeutet „wie viele Menschen“, Dichte bedeutet „wie eng“. Letztere lässt den Abstand zwischen den beiden Taiwan stärker spüren.
 
-Taipei City mit 8.975 Menschen pro Quadratkilometer ist der dichteste Ort Taiwans. Die Enge Taipeis ist alltäglich: U-Bahn prall voll in der Hauptverkehrszeit, man muss zwei Ampelzyklen abwarten, die Häuser sind eng und hoch gebaut. Dicht dahinter Hsinchu City mit 4.376 Menschen pro Quadratkilometer — nicht mal die Hälfte von Taipei. Dann Keelung City mit 2.710. Nur unter diesen drei dichtesten Städten fällt die Dichte schon steil ab.
+Taipeh hat 8.975 Einwohner pro Quadratkilometer und ist damit der am dichtesten besiedelte Ort ganz Taiwans. Die Enge Taipehs ist Alltag: Die U-Bahn ist zur Hauptverkehrszeit vollgestopft, an roten Ampeln muss man zwei Zyklen warten, die Häuser werden hoch und schmal gebaut. Dahinter folgt Hsinchu mit 4.376 Einwohnern pro Quadratkilometer, nicht einmal die Hälfte Taipehs. Dann Keelung mit 2.710. Allein zwischen diesen drei dichtesten Städten fällt die Dichte bereits klippenartig ab.
 
 ```tw-bars
-Taipeh | 8,975 Einw./km²
-Hsinchu (Stadt) | 4,376 Einw./km²
-Keelung | 2,710 Einw./km²
-Landkreis Changhua | 1,126 Einw./km²
-Landkreis Hualien | 68 Einw./km²
-Landkreis Taitung | 59 Einw./km² | am dünnsten besiedelt
-Quelle: Amt für Haushaltsregistrierung, Innenministerium, Ende 2025
+Taipeh | 8.975 Einwohner/km²
+Hsinchu | 4.376 Einwohner/km²
+Keelung | 2.710 Einwohner/km²
+Changhua | 1.126 Einwohner/km²
+Hualien | 68 Einwohner/km²
+Taitung | 59 Einwohner/km² | am dünnsten besiedelt in ganz Taiwan
+Quelle: Innenministerium, Abteilung für Haushaltsregistrierung, Ende 2025
 ```
 
-Wenn man den Blick zum anderen Ende dieses Balkendiagramms lenkt, zeigt sich der wahre Unterschied. Changhua County mit 1.126 Menschen pro Quadratkilometer ist schon relativ dicht für einen Landwirtschaftsbezirk. Dann Hualien (花蓮縣) — Dichte sinkt auf 68. Ganz unten Taitung County mit nur 59 Menschen pro Quadratkilometer. Was Taipei in einem Quadratkilometer unterbringt, braucht Taitung 151 Quadratkilometer. Dies ist das 151-fache der Realität — wenn Sie von Xinyi nach Taitung fahren und zusehen, wie die Bevölkerung vor Ihrem Fenster ausdünnt.
+Wenn man den Blick ans andere Ende dieses Balkendiagramms richtet, wird der Unterschied erst richtig deutlich. Changhua mit 1.126 Einwohnern pro Quadratkilometer gilt unter den Agrarkreisen bereits als relativ dicht. In [Hualien](/de/geography/hualien-county/) fällt die Zahl auf 68. Ganz unten liegt Taitung mit nur noch 59 Einwohnern pro Quadratkilometer. Die Menschen, die in Taipeh auf einem Quadratkilometer Platz finden, bräuchten in Taitung 151 Quadratkilometer. Das ist das wahre Gesicht des 151-fachen Unterschieds – du fährst vom Bezirk Xinyi Richtung Taitung und siehst mit eigenen Augen, wie die Bevölkerung vor dem Fenster ausdünnt.
 
-Dahinter verbirgt sich auch eine geografische Tatsache. Hualien County, Taiwans größter Bezirk mit 4.628 Quadratkilometern, ist im Wesentlichen die Ostflanke der Zentralkordilliere. Großes Land, wenig Menschen, viele Berge — Hualien und Taitung sind von Natur aus dünn besiedelt. Kinmen County (連江縣), das Kleinste, hat nur 28,8 Quadratkilometer. Dichte ist halb Menschenwahl, halb von der Geografie vorgezeichnet.
+Dahinter steckt auch ein geografischer Fakt. Der flächengrößte Landkreis Taiwans ist Hualien mit 4.628 Quadratkilometern – fast die gesamte Ostflanke des Zentralgebirges. Großes Land, wenige Menschen, viele Berge: Die Dichte von Hualien und Taitung wird so ganz natürlich auf den niedrigsten Wert des ganzen Landes verdünnt. Der kleinste Landkreis [Lienchiang](/de/geography/lienchiang-county/) hingegen misst nur 28,8 Quadratkilometer. Bei der Dichte ist die eine Hälfte menschliche Entscheidung, die andere Hälfte vorgegebenes Terrain.
 
-Das häufige Argument, dass „hohe Bevölkerungsdichte" fortschrittlich und „niedrige Dichte" rückständig sei, hat die Kausalität verkehrt. Taitungs niedrige Dichte entsteht nicht aus mangelnder Entwicklung — sondern weil es an große Berge grenzt und zum Pazifik blickt, eine Geografie der natürlichen Spärlichkeit. In Hualiens „Leere" steckt der Taroko, die Ostküstenkordilliere, Taiwans am besten erhaltenes Hinterland-Landschaftsmosaik. Dichtzahlen sagen nur, wie beengt Menschen sind — sie sagen nicht, welchen Wert das Land hat. Ordnet man Taiwans 22 Bezirke vom Dichtesten zum Spärlichsten, sieht man eine Insel, die auf verschiedenen Terrains unterschiedliche Lebensweisen entwickelt.
+Die gängige Lesart setzt „hohe Bevölkerungsdichte“ oft gleich mit Fortschritt und „niedrige Dichte“ mit Rückständigkeit – dabei wird die Kausalität auf den Kopf gestellt. Taitungs niedrige Dichte liegt nicht daran, dass es sich nicht entwickeln könnte, sondern daran, dass es an große Berge grenzt, dem Pazifik zugewandt ist und von Natur aus dünn besiedelt ist. In Hualiens „Leere“ stecken Taroko, das Küstengebirge, Taiwans vollständigste Hinterlandlandschaft. Die Dichtezahlen sagen nur, wie eng es ist – nicht, welchen Wert jenes Land hat. Wenn man alle 22 Landkreise und kreisfreien Städte Taiwans zu einem Spektrum von dicht bis leer anordnet, sieht man eine Insel, die auf unterschiedlichem Terrain unterschiedliche Lebensweisen hervorgebracht hat.
 
-![台東池上伯朗大道，約 2.2 公里筆直的田園小路，兩側是開闊的稻田，沒有電線桿](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
-_Taitungs Bolang Boulevard in Chihshang. Taiwans spärlichster Bezirk mit 59 Menschen pro Quadratkilometer — ein 151-tel von Taipei. Photo: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg).\_
+![Berang Avenue in Chishang, Taitung: etwa 2,2 Kilometer gerader Feldweg, flankiert von offenen Reisfeldern, ohne Strommasten](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
+_Die Berang Avenue in Chishang, Taitung. Der am dünnsten besiedelte Landkreis derselben Insel: 59 Einwohner pro Quadratkilometer, ein Hunderteinundfünfzigstel Taipehs. Foto: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>).\_
 
 ## Riesen und Staubkörnchen
 
@@ -172,40 +173,41 @@ Hsinchu County 15,08% gegen Chiayi County 24,11% — ein Unterschied von 9 Proze
 
 Hier ein Mythos zu widerlegen: Viele glauben, Altern sei Spezialität von Land und Inseln, Großstädte mit Jugend und Chancen seien immun. Die Daten sagen Nein. Taipei City mit Altersquote 24,18% ist Taiwans höchste; Alterungsindex 202,06 auch unter den sechs Großstädten höchste. Diese wohlhabendste, ressourcenreichste Stadt Taiwans ist gleichzeitig die älteste der sechs. Der Grund liegt auf der Hand: Taipeis Immobilienpreise quetschen junge Familien nach New Taipei und Taoyuan zum Familiengründen, bleiben in der Innenstadt die Generation, die früh ankam und jetzt altert. Wohlhabenheit blockiert Alterung nicht — sie altert nur anders. Altern ist nicht Krankheit mancher Bezirke, es ist Taiwans gemeinsamer Zustand — nur unterschiedlich schnell.
 
-## Eine Insel, gemeinsam alternd
+## Eine Insel, die gemeinsam altert
 
-Zieht man den Blick vom Bezirk zur Nationalebene zurück, hat Taiwans Alterungs-Geschichte noch eine wichtige Dimension: Geschwindigkeit.
+Zieht man den Blick von den Landkreisen und Städten auf das ganze Land, hat Taiwans Alterungsgeschichte noch eine Dimension, die mehr Wachsamkeit verdient: die Geschwindigkeit.
 
-Taiwan altert nicht erst seit gestern. 1993 überschritt die Bevölkerung 65+ die 7%-Schwelle und trat die „Aging Society" ein. 2018 erreichte der Anteil 14,05% — „Aged Society". 2025 brach es über 20% — „Super-Aged Society". Diese drei Meilensteine klingen wie nur drei Jahreszahlen, aber embedded ist ein Hang nach unten, der schneller wird.
+Taiwan hat nicht erst jetzt begonnen zu altern. 1993 überschritt der Anteil der über 65-Jährigen an der Gesamtbevölkerung 7 % und Taiwan trat gemäß der internationalen Definition in eine „alternde Gesellschaft“ ein. 2018 erreichte dieser Wert 14,05 % und Taiwan gelangte in eine „alte Gesellschaft“. 2025 durchbrach er erneut die 20 %-Marke und Taiwan wurde zu einer „superalten Gesellschaft“. Diese drei Meilensteine mögen wie bloße Jahreszahlen wirken, doch in ihnen verbirgt sich ein Abhang, der immer schneller wird.
 
 ```tw-timeline
-1993 | Alternde Gesellschaft | über 7 % sind 65+, Taiwan beginnt zu altern
-2018 | Alte Gesellschaft | 14 % sind 65+, 25 Jahre nach der vorigen Schwelle
-2025 | Superalternde Gesellschaft | über 20 % sind 65+, diese Schwelle brauchte nur 7 Jahre
+1993 | alternde Gesellschaft | 65+ übersteigt 7 %, Taiwan beginnt zu altern
+2018 | alte Gesellschaft | 65+ erreicht 14 %, vom vorherigen Meilenstein 25 Jahre gebraucht
+2025 | superalte Gesellschaft | 65+ durchbricht 20 %, dieser Schritt dauerte nur 7 Jahre
+Quelle: Bevölkerungsstatistik des Innenministeriums und internationale Alterungsschwellen (1993 7 %, 2018 14,05 %, 2025 20 %) [^1]
 ```
 
-Betrachte die zwei Abstände auf diesem Zeitstrahl. Von 7% zu 14% brauchte Taiwan 25 Jahre; von 14% zu 20% nur 7 Jahre. Die zweite Strecke dauerte ein Drittel der Zeit. Taiwan altert, und immer schneller. Das ist global sehr steil — andere Länder hatten Jahrzehnte zur langsamen Anpassung von Langzeitpflege, Renten, Medizin; Taiwan wurde auf 7 Jahre gepresst, musste ein ganzes Alter-Versorgungssystem in einem engen Fenster aufbauen.
+Betrachten Sie die beiden Intervalle auf dieser Zeitachse. Vom Erreichen von 7 % auf 14 % benötigte Taiwan 25 Jahre; von 14 % auf 20 % hingegen nur 7 Jahre. Dieser letzte Abschnitt dauerte weniger als ein Drittel der Zeit des ersten. Taiwan altert, und zwar immer schneller. Das ist selbst im weltweiten Vergleich precipitous: Andere Länder hatten Jahrzehnte, um Pflegeversicherung, Rentensysteme und Gesundheitswesen schrittweise anzupassen; Taiwan wurde in nur sieben Jahren komprimiert und muss in einem sehr kurzen Fenster das gesamte System der Altenpflege aufbauen.
 
 ```tw-line
-Anstieg des Anteils der über 65-Jährigen landesweit (%)
-Jahr | Anteil 65+
-2000 | 8.6
-2010 | 10.7
-2020 | 16.1
-2025 | 20.06
+Anstieg des Anteils der über 65-Jährigen an der Gesamtbevölkerung (%)
+Jahr | 65+ Anteil
+2000 | 8,6
+2010 | 10,7
+2020 | 16,1
+2025 | 20,06
 Quelle: Innenministerium, Nationaler Entwicklungsrat
 ```
 
-Diese aufsteigende Kurve zeigt die Beschleunigung klarer. 2000 war der 65+ Anteil 8,6%, 2010 war es 10,7% — zehn Jahre nur knapp über 2 Punkte Zuwachs; aber 2010 bis 2020 schnellte die Quote von 10,7% auf 16,1%, dann 2025 auf 20,06%. Das Ende der Kurve ist deutlich steiler als der Anfang. Taiwans Alterungs-Kurve biegt nach oben.
+Diese aufsteigende Kurve macht die Beschleunigung noch deutlicher sichtbar. 2000 lag der Anteil der über 65-Jährigen bei 8,6 %, 2010 bei 10,7 % – in zehn Jahren stieg er um gut 2 Prozentpunkte; doch in den zehn Jahren von 2010 bis 2020 schnellte die Zahl von 10,7 % auf 16,1 % hoch, und erreichte 2025 bereits 20,06 %. Das Ende der Kurve ist deutlich steiler als ihr Anfang. Taiwans Alterungskurve biegt sich steil nach oben.
 
-Die Kehrseite der Alterung ist der Geburts-Kollaps. 2025 fielen Taiwans Neugeborene erstmals unter 110.000 — nur 107.812. Niedriger Geburtenrate und hohes Alter sind zwei Seiten einer Münze: oben mehr Alte, unten weniger Nachwuchs, die ganze Struktur neigt sich nach oben. Deshalb diese hohen Alterungsindizes der Bezirke: Senioren wachsen, Kinder schwinden.
+Die Kehrseite der Alterung ist der Einbruch bei den Geburten. 2025 fiel die Zahl der Neugeborenen in Taiwan erstmals unter 110.000 – auf lediglich 107.812. Wenige Kinder und viele Alte sind zwei Seiten derselben Medaille: Oben werden die Alten immer mehr, unten strömen immer weniger Kinder nach – die gesamte Bevölkerungsstruktur wird immer kopflastiger. Das erklärt auch, warum die Alterungsindizes der vorgenannten Landkreise und Städte so hoch sind: Die Alten werden mehr, die Kinder zu wenige.
 
-> **📝 Kuratoren-Notiz**
-> Leicht denkt man: „Bevölkerung sinkt" bedeutet „junge Menschen ziehn vom Land in die Stadt, also Land schrumpft, Stadt wächst" — als wäre es nur Umzug auf der Insel. Aber 2025 offenbaren die Daten etwas Tieferes: In jedem einzelnen Bezirk Taiwans — ob Land oder Stadt, ob groß oder klein — übersteigen Todesfälle bereits Geburten. Das ist nicht Frage, wohin Menschen fließen, sondern dass die ganze Insel nicht mehr Leben erschafft. Zu- und Umzug sind nur Umverteilung einer schon schrumpfenden Population, sie schaffen keine neue Menschen.
+> **📝 Kuratorennotiz**
+> Man versteht „Bevölkerungsrückgang“ leicht als „junge Leute ziehen vom Land in die Stadt, deshalb wird das Land weniger, die Stadt mehr“ – als sei es nur ein Umzug innerhalb der Insel. Doch die Daten von 2025 enthüllen etwas Grundlegenderes: In allen Landkreisen und Städten Taiwans ist der „natürliche Zuwachs“ negativ. Das heißt: In jedem einzelnen Landkreis und jeder Stadt Taiwans – ob städtisch oder ländlich, groß oder klein – übersteigen die Todesfälle die Geburten. Es geht nicht mehr darum, wohin Menschen strömen, sondern die gesamte Insel stirbt schneller, als sie geboren wird. Zuzug und Wegzug verteilen nur eine ohnehin schrumpfende Bevölkerung neu; sie schaffen keine neuen Menschen.
 
-Diese Tatsache verdient Bedenkzeit. 2025 wachsen nur noch vier Bezirke: Taoyuan, Hsinchu County, Taichung, Hsinchu City. Alle ihre Wachstum kommt von „natürlichem Zuwachs" — In-Migration aus anderen Bezirken. Sie saugen Menschen von anderen auf, erzeugen keine lokalen Geburten. Die übrigen 18 Bezirke zeigen alle Bevölkerungs-Verlust. Die steilsten Rückgänge: Kinmen, Kinmen County, Taipei City. Achtung: Auch die reichste Taipei City ist auf dieser Verlust-Liste. Wenn in jedem Bezirk Geburten unter Todesfällen liegen, stehen jene vier noch-wachsenden Bezirke nur auf anderen' Verlusten.
+Dieser Tatsache lohnt es sich, innezuhalten und sie klar zu durchdenken. 2025 wuchsen landesweit nur noch vier Landkreise und Städte: Taoyuan, Landkreis Hsinchu, Taichung, Hsinchu-Stadt. Und ihr Wachstum stammt vollständig aus dem „sozialen Zuwachs“ – also Zuzug von außen; sie ziehen Menschen aus anderen Landkreisen an, nicht durch eigene Geburten. Abgesehen von diesen vier schrumpfte die Bevölkerung in den übrigen 18 Landkreisen und Städten. Die stärksten Rückgänge verzeichneten die Landkreise Kinmen, Lienchiang und die Stadt Taipei – beachten Sie: Selbst die blühendste Stadt Taipei steht auf dieser Verliererliste. Wenn in jedem Winkel des Landes Geburten die Todesfälle nicht mehr ausgleichen, stehen jene vier noch wachsenden Landkreise und Städte eigentlich nur vorübergehend auf dem Verlust anderer.
 
-Deshalb die nationale Bevölkerung 23 Monate sinkt, auf 23.299.132 fällt. Das ist inselweite gleichzeitige Schrumpfung; jeder Bezirk schrumpft. Der Unterschied ist nur, ob In-Migration die Fassade noch stützt oder auch das fehlt.
+Deshalb sinkt die Gesamtbevölkerung seit 23 Monaten in Folge und fiel auf 23.299.132. Es ist ein synchroner Schrumpfprozess der ganzen Insel; jeder Landkreis und jede Stadt schrumpft. Der Unterschied liegt nur darin: Manche Orte stützen sich vorübergehend durch Zuzug, andere haben nicht einmal diesen Puffer.
 
 ## Das Porträt gezeichnet von Zahlen
 

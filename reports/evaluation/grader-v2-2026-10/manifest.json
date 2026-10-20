@@ -1,0 +1,259 @@
+{
+  "description": "第二版閱卷的題目清單。dev＝上一輪的六對（已被看過、題目設計參考過，只報告不判通過；EZ WAY 那對哲宇沒評過，不收）；heldout＝哲宇批評過、沒參與設計的版本，concerns＝事前對應到審稿單的題號；heldout_fixed＝其後修好的版本；control＝哲宇稱讚過的文章；植錯題見 mutations.json。",
+  "articles": [
+    {
+      "id": "dev-w1-lowwage-bad",
+      "set": "dev",
+      "pair": "w1-lowwage",
+      "side": "bad",
+      "path": "knowledge/Society/誰算低薪.md",
+      "commit": "01c023955",
+      "note": "9/18 定稿（哲宇 9/19 凌晨讀到的版本）",
+      "concerns": ["B2", "B4", "B3"]
+    },
+    {
+      "id": "dev-w1-lowwage-good",
+      "set": "dev",
+      "pair": "w1-lowwage",
+      "side": "good",
+      "path": "knowledge/Society/誰算低薪.md",
+      "commit": "3275156c1",
+      "note": "9/19 重做版"
+    },
+    {
+      "id": "dev-w2-oilprice-bad",
+      "set": "dev",
+      "pair": "w2-oilprice",
+      "side": "bad",
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "commit": "c1f1fa2ac",
+      "note": "9/18 定稿",
+      "concerns": ["B2", "B3"]
+    },
+    {
+      "id": "dev-w2-oilprice-good",
+      "set": "dev",
+      "pair": "w2-oilprice",
+      "side": "good",
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "commit": "e80217d19",
+      "note": "9/19 重做版"
+    },
+    {
+      "id": "dev-w3-goldenbell-bad",
+      "set": "dev",
+      "pair": "w3-goldenbell",
+      "side": "bad",
+      "path": "knowledge/Culture/金鐘獎.md",
+      "commit": "cc787f9f9",
+      "note": "9/18 定稿",
+      "concerns": ["B2", "B4"]
+    },
+    {
+      "id": "dev-w3-goldenbell-good",
+      "set": "dev",
+      "pair": "w3-goldenbell",
+      "side": "good",
+      "path": "knowledge/Culture/金鐘獎.md",
+      "commit": "866d4719d",
+      "note": "9/19 重做版"
+    },
+    {
+      "id": "dev-s1-stanshih-bad",
+      "set": "dev",
+      "pair": "s1-stanshih",
+      "side": "bad",
+      "path": "knowledge/People/施振榮.md",
+      "commit": "bf8cb4795",
+      "note": "v1 矛盾驅動版，2026-07-06 13:31",
+      "concerns": ["A1"]
+    },
+    {
+      "id": "dev-s1-stanshih-good",
+      "set": "dev",
+      "pair": "s1-stanshih",
+      "side": "good",
+      "path": "knowledge/People/施振榮.md",
+      "commit": "0ff00ba08",
+      "note": "v2 立體群像版，2026-07-06 14:51"
+    },
+    {
+      "id": "dev-s2-filmscore-bad",
+      "set": "dev",
+      "pair": "s2-filmscore",
+      "side": "bad",
+      "path": "knowledge/Music/台灣影視配樂.md",
+      "commit": "581108b19",
+      "note": "第二輪最終狀態，2026-06-01 15:19（讀者 callout 的版本）",
+      "concerns": ["B1"]
+    },
+    {
+      "id": "dev-s2-filmscore-good",
+      "set": "dev",
+      "pair": "s2-filmscore",
+      "side": "good",
+      "path": "knowledge/Music/台灣影視配樂.md",
+      "commit": "6dc4c2256",
+      "note": "第三輪最終狀態，2026-06-01 18:25（HEAD 正文同此）"
+    },
+    {
+      "id": "dev-s3-waawei-bad",
+      "set": "dev",
+      "pair": "s3-waawei",
+      "side": "bad",
+      "path": "knowledge/People/魏如萱.md",
+      "commit": "2cbb5a931",
+      "note": "v1（正文同 979d7133b，標題「卻被新聞畫面標成『民眾』」），2026-04-18 20:01，被批評當下的版本",
+      "concerns": ["A3", "B6"]
+    },
+    {
+      "id": "dev-s3-waawei-good",
+      "set": "dev",
+      "pair": "s3-waawei",
+      "side": "good",
+      "path": "knowledge/People/魏如萱.md",
+      "commit": "202cce082",
+      "note": "回爐重造後（Stage 2 全文重寫 55233ce49 ＋ description 修短），2026-04-18 22:17"
+    },
+    {
+      "id": "ctl-yanchangshou",
+      "set": "control",
+      "path": "knowledge/People/嚴長壽.md",
+      "commit": "9cef725ce",
+      "note": "哲宇稱讚過的範本，取現行版"
+    },
+    {
+      "id": "ctl-zhangxuan",
+      "set": "control",
+      "path": "knowledge/Music/張懸與安溥.md",
+      "commit": "c8d8d3ad4",
+      "note": "哲宇稱讚過的範本，取現行版"
+    },
+    {
+      "id": "ctl-fishowl",
+      "set": "control",
+      "path": "knowledge/Nature/黃魚鴞.md",
+      "commit": "21298a7ae",
+      "note": "哲宇稱讚過的範本，取現行版"
+    },
+    {
+      "id": "ctl-publichousing",
+      "set": "control",
+      "path": "knowledge/Society/國宅與居住正義.md",
+      "commit": "4ee896bcb",
+      "note": "哲宇稱讚過的範本，取現行版"
+    },
+    {
+      "id": "ho-huangchongren-r2",
+      "set": "heldout",
+      "path": "knowledge/People/黃崇仁.md",
+      "commit": "5eb27d93ed",
+      "concerns": ["B1", "B6", "A5"],
+      "note": "8/3 第二輪逐段指正：「有嗎？」「看不懂」「很 AI／後台洩漏」（reports/backstage-leak-round2-2026-08-03.md:24-40）"
+    },
+    {
+      "id": "ho-huangchongren-r2-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/People/黃崇仁.md",
+      "commit": "7d10556f01",
+      "of": "ho-huangchongren-r2",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-matsu",
+      "set": "heldout",
+      "path": "knowledge/Art/馬祖國際藝術島.md",
+      "commit": "1cf5c8dc55",
+      "concerns": ["B5", "C1"],
+      "note": "8/6「整篇寫得蠻混亂，也沒有好好立體的讓人了解馬祖藝術島」（LESSONS-INBOX:1441）"
+    },
+    {
+      "id": "ho-matsu-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/Art/馬祖國際藝術島.md",
+      "commit": "bd54f5647d",
+      "of": "ho-matsu",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-delivery",
+      "set": "heldout",
+      "path": "knowledge/Society/外送專法.md",
+      "commit": "e68ed7c6e9",
+      "concerns": ["C2"],
+      "note": "7/25「文段太長／閱讀順暢感掉了／後段幾乎沒有資訊圖表」（reports/design-prose-flow-station-2026-07-25.md:5）"
+    },
+    {
+      "id": "ho-delivery-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/Society/外送專法.md",
+      "commit": "957d295a45",
+      "of": "ho-delivery",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-algoart-a",
+      "set": "heldout",
+      "path": "knowledge/About/比國家還大的演算藝術.md",
+      "commit": "cb8ad2fd14",
+      "concerns": ["B1", "B6"],
+      "note": "8/19 第 A 輪：後台洩漏、43 處歐化（commit 3f3df7bd9b 內文）"
+    },
+    {
+      "id": "ho-algoart-a-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/About/比國家還大的演算藝術.md",
+      "commit": "3f3df7bd9b",
+      "of": "ho-algoart-a",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-algoart-c",
+      "set": "heldout",
+      "path": "knowledge/About/比國家還大的演算藝術.md",
+      "commit": "dff58ed30d",
+      "concerns": ["B1"],
+      "note": "8/19 第 C 輪「那這就不要寫我記錯來源了，砍掉」（diary 2026-08-19-154834:11）"
+    },
+    {
+      "id": "ho-algoart-c-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/About/比國家還大的演算藝術.md",
+      "commit": "e89738c1a4",
+      "of": "ho-algoart-c",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-tasa",
+      "set": "heldout",
+      "path": "knowledge/Technology/國家太空中心.md",
+      "commit": "a7dd61cd4",
+      "concerns": ["B5"],
+      "note": "6/4「原本的文章很棒但是還不夠立體跟完整，看完我還是沒有很具體的認識」（memory 2026-06-04-232402:9）"
+    },
+    {
+      "id": "ho-tasa-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/Technology/國家太空中心.md",
+      "commit": "f3baded5f",
+      "of": "ho-tasa",
+      "note": "其後修好的版本"
+    },
+    {
+      "id": "ho-tungsten",
+      "set": "heldout",
+      "path": "knowledge/Technology/台灣鎢供應鏈.md",
+      "commit": "b05f10a12",
+      "concerns": ["B6", "C2"],
+      "note": "7/26「全文順語感，有些段落饒口」與「帳本」量詞（memory 2026-07-26-202803:31,33）"
+    },
+    {
+      "id": "ho-tungsten-fixed",
+      "set": "heldout_fixed",
+      "path": "knowledge/Technology/台灣鎢供應鏈.md",
+      "commit": "aaf57372e",
+      "of": "ho-tungsten",
+      "note": "其後修好的版本"
+    }
+  ]
+}

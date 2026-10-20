@@ -1,6 +1,6 @@
 ---
-title: 'Ver Taiwán — Impresiones históricas de Taiwán'
-description: 'Desde la Era de los Descubrimientos hasta la contemporaneidad, cómo cada época y cada pueblo contempló esta isla'
+title: 'Ver Taiwán: Impresiones históricas de la isla'
+description: 'Desde la Era de los Descubrimientos hasta la actualidad, diversos grupos han contemplado esta isla de distintas maneras: los Atayal creen que los espíritus ancestrales dejaron su huella en la tierra, viendo los ríos y montañas como el cuerpo de sus antepasados y llamándose a sí mismos hijos de la tierra; por su parte, los Amis expresan su vínculo con el territorio mediante imágenes de arraigo. Esta colección de introducciones reúne leyendas transmitidas de generación en generación y memorias de la isla, entrelazando múltiples perspectivas de observación.'
 date: 2026-03-17
 tags: ['citas', 'historia', 'literatura', 'cultura']
 author: 'Taiwan.md Contributors'
@@ -8,12 +8,11 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
-translatedFrom: About/看見台灣引言集.md
-sourceCommitSha: 0f8fae0a
-sourceContentHash: sha256:4cbaa3c9a8d422dd
-sourceBodyHash: sha256:0d8842cfba541dc2
-translatedAt: 2026-05-26T21:07:27Z
-category: About
+translatedFrom: 'About/看見台灣引言集.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
+sourceBodyHash: 'sha256:0d8842cfba541dc2'
+translatedAt: '2026-10-15T22:04:53.359683+00:00'
 ---
 
 # Ver Taiwán — Impresiones históricas de Taiwán

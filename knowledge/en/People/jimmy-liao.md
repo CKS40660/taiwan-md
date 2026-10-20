@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: 'a3a2c2ab6'
-sourceContentHash: 'sha256:3a77d655efe88c48'
-sourceBodyHash: 'sha256:18242d925dc68ac7'
-translatedAt: '2026-10-13T07:44:38.596191+00:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:de4fd6732d209052'
+sourceBodyHash: 'sha256:301572e76bca4d98'
+translatedAt: '2026-10-15T01:37:44.121741+00:00'
 ---
 
 # Jimmy Liao: The Images Treated as Healing Were Brought Back from a Glass Tank by a Leukemia Survivor
@@ -121,37 +121,38 @@ That smiling fish also swam onto the screen. In 2006, _Fish with a Smile_ was ad
 
 > 🎙️ **Curator's Note**: If you place these four books side-by-side, you will find that the label "healing style" actually reverses cause and effect. The general understanding is "Jimmy Liao's drawings are cute, so they make people relax." But the order is exactly the opposite: readers feel healed because he first honestly walked into the darkest places—isolation, death, missed connections—and then walked out carrying a bit of light. Comfort is effective precisely because it is handed over by someone who has actually stayed in the glass tank. Lu Rong-chi said his works "have never been realism; they always carry a certain dreamy, surreal tone." That layer of dreaminess is a method of translation: turning an unbearable reality into a form that a person can continue to read.
 
-## Jimmy Liao Beyond the Page
+## Jimmy Liao Beyond the Pages
 
-Perhaps the most counterintuitive thing about Jimmy Liao is this: the most private illness, one person’s loneliness in a hospital room, eventually grew into a public language that could be infinitely reproduced and moved onto all kinds of stages.
+Perhaps the most counterintuitive aspect of Jimmy Liao's work lies here: a deeply private illness and the solitude of an individual in a hospital ward eventually grew into a public language that can be infinitely replicated and brought to various stages.
 
-Film was the first path, and there were four films in one burst. Turn Left, Turn Right, released in 2003, was co-directed by Hong Kong directors Johnnie To and Wai Ka-fai, starred Takeshi Kaneshiro and Gigi Leung, and was Warner Bros.’ first investment in a Chinese-language film. Stefanie Sun’s “Encounter” was its Mandarin theme song.[^21] Sound of Colors, also released that year, was directed by Joe Ma, produced by Wong Kar-wai, and scored by Lo Ta-yu.[^22] Starry Starry Night, released in 2011, was directed by Tom Lin, adapted from the 2009 picture book of the same title, and received four nominations at the 49th Golden Horse Awards.[^23] There was also one film that is easily overlooked: The Floating Landscape, released in 2003, directed by Carol Lai, selected for the official competition at the Venice Film Festival, with illustrations in the film drawn by Jimmy Liao himself.[^24]
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="Mayday “Starry Starry Night” official full MV (theme song for the film Starry Starry Night)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-Stage musicals were another path, and they formed a stable team: director Leon Dai? No, the director was Li Huan-hsiung, paired with musician Chen Chien-chi. From Sound of Colors in 2003, with Cheer Chen playing the blind girl, to The Lucky One in 2005, Turn Left, Turn Right at Taipei Arena in 2008, and Time Cinema in 2018, Jimmy Liao’s picture books were translated one by one into song and light.[^25] By 2025, even circus had arrived: The 100 Braveries of a Jimmy Boy, directed by Lin Hwai-min, was billed as Taiwan’s first repertory circus production.[^26]
-
-Beyond the theater, his images also seeped into the city itself. Six images from Sound of Colors hang on the platform of Taipei Metro’s Nangang Station. In 2014, Sinyi Realty turned The Moon Forgets into a real “Moon Bus” that ran on Xinyi Road Section 5.[^27] Television drama also took a share: Turn Left, Turn Right was remade in China in 2004 and Thailand in 2020, while Sound of Colors was adapted into a television drama in Taiwan in 2006.[^50] The same story about missing each other was restaged again and again with different actors and different languages.
-
-Loneliness also crossed languages. Jimmy Liao’s books have been translated into roughly 20 languages, with nearly 200 foreign-language editions.[^28] Starting in 2014, he was shortlisted nine times for the Astrid Lindgren Memorial Award (ALMA), known as the “Nobel Prize of children’s literature.” In 2020, Time Cinema won the special prize in the Cinema category at the BolognaRagazzi Award, where the jury called him “an undisputed master of his craft.”[^44] From 2019 to 2020, he held his first major solo exhibition in Europe at Museo ABC in Madrid, showing 22 works and 174 original pieces.[^45] Someone who worked in the language of Taiwan and drew for himself finally had Madrid audiences standing before the original manuscripts he drew after illness. His own explanation to international readers was understated: “A serious illness changed my way of thinking about many things”; “I merely drew the pictures in my heart.”[^46]
-
-He also did not stop. In 2023, eslite gallery held a Jimmy Liao solo exhibition, where he presented oil paintings for the first time.[^49] From advertising art director to picture-book author to someone picking up oil paint more than two decades later, that fish in the glass tank has kept changing the way it says the same thing.
+Film was the first path, and it arrived all at once with four works. The 2003 film _Turn Left, Turn Right_, co-directed by Johnnie To and Wai Ka-fai from Hong Kong and starring Takeshi Kaneshiro and Gigi Leung, was Warner Bros.' first investment in a Chinese-language film; Stefanie Sun's "Encounter" served as the Mandarin theme song. [^21] That same year, _Subway_ was directed by Ma Wei-hao and produced by Wong Kar-wai, with music by Lo Kin. [^22] In 2011, _Starry Starry Night_ was directed by Lin Shu-yu, adapted from the 2009 picture book of the same name, and received four nominations at the 49th Golden Horse Awards. [^23] There is also one easily overlooked: the 2003 film _Floating Landscape_, directed by Li Miao-xue, which was entered into the main competition at the Venice Film Festival; the illustrations in the film were hand-drawn by Jimmy Liao himself. [^24]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="Jimmy Liao Little Butterfly Little Cape mini animated series teaser (Jimmy Liao official channel)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="Mayday 〈Starry Starry Night〉 MV Official Full Version (Theme song for the film 《星空》)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-The entity that carried all this was Jimmy S.P.A., founded in 2000; in 2014, Jimmy Liao Studio took over work in film and television, exhibitions, and public art.[^29] A person who drew little people in a hospital room ultimately built a domain spanning film, musicals, circus, metro systems, and animation. The contrast worth remembering is this: the source of it all was an unshareable loneliness, separated from others by glass; the result was a language anyone could enter, see, and touch.
+Stage plays were another path, forming a stable creative team: director Li Huan-hsiung paired with musician Chen Chien-chi. From the 2003 _Subway_ (starring Cheer Chen as the blind girl) to the 2005 _The Lucky One_, the 2008 production of _Turn Left, Turn Right_ that first graced the Taipei Arena, and onto the 2018 _Time Cinema_, Jimmy Liao's picture books have been translated into song and light, play by play. [^25] By 2025, even circus arts have arrived: _The 100 Braveries of a Jimmy Boy_, directed by Lin Hwai-min, is touted as Taiwan's first circus residency show. [^26]
+
+Stepping out of the theater, his illustrations have seeped into the city itself. Six paintings from _Subway_ hang on the platforms of Taipei Metro's Nangang Station; in 2014, Sinyi Realty turned _The Moon Forgets_ into a real, drivable "Moon Bus" that traveled along Xinyi Road, Section 5. [^27] Television series have also taken a share: _Turn Left, Turn Right_ was remade in China (2004) and Thailand (2020), while _Subway_ was adapted into a TV series in Taiwan (2006). [^50] The same story of missed connections is replayed again and again, with different actors and different languages.
+
+Solitude has also crossed linguistic barriers. Jimmy Liao's books have been translated into approximately 20 languages, totaling nearly 200 foreign-language editions. [^28] Since 2014, he has been nominated nine times for the Astrid Lindgren Memorial Award (ALMA), often called the "Nobel Prize of Children's Literature." In 2020, with _Time Cinema_, he won the Ragazzi Award (Film Category) at the Bologna Book Fair, with judges calling him "an undisputed master of his craft." [^44] From 2019 to 2020, he held his first major European solo exhibition at Museo ABC in Madrid, showcasing 22 works and 174 original illustrations. [^45] A man who used the language of Taiwan to draw for himself eventually had audiences in Madrid standing before the original manuscripts drawn after his illness. His own explanation to international readers is modest: "A major illness changed my perspective on many things" and "I just drew those images in my heart." [^46]
+
+He has not stopped. In 2023, Eslite Gallery held a Jimmy Liao solo exhibition, featuring his oil paintings for the first time. [^49] From art director for advertisements to picture book author, and then picking up an oil brush over twenty years later—that fish in the glass bowl continues to tell the same story in different ways.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="Jimmy Liao 《小蝴蝶小披風》 Mini Animation Series Teaser (Jimmy Liao Official Channel)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Building upon all this is Jimmy S.P.A., established in 2000, followed by MOCE International in 2014, which took over film, television, exhibitions, and public art. [^29] A person who once drew little figures in a hospital ward eventually built an empire spanning film, musicals, circus, the metro, and animation. The poignant contrast worth remembering is this: the source of all this was a solitude that could not be shared, separated by glass; but its result is a language that anyone can walk into, see, and touch.
 
 ```tw-stat
-4 | Adapted films | Including a Venice Film Festival competition title
-4 | Li Huan-hsiung x Chen Chien-chi musicals | 2003-2018
-~20 | Translation languages | Nearly 200 foreign-language editions
+4 | Adapted films | Including Venice Film Festival competition entries
+| Musical plays (Li Huan-hsiung × Chen Chien-chi) | 2003–2018
+~20 | Translated languages | Nearly 200 foreign-language editions
+Source: Jimmy Liao official website (jimmyspa.com), NTCH OPENTIX, Wikipedia, and compiled data from film festivals and publishers
 ```
 
-> **Sources:** Compiled from Jimmy Liao’s official website (jimmyspa.com), National Theater & Concert Hall OPENTIX, Wikipedia, and materials from film festivals and publishers.
+> **Sources**: Jimmy Liao official website (jimmyspa.com), NTCH OPENTIX, Wikipedia, and compiled data from film festivals and publishers.
 
 ## Returning to Luodong
 

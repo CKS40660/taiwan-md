@@ -1,14 +1,14 @@
 ---
-title: 'Taiwanese Braised Pork Rice (Lurou Fan)'
-description: 'Von der Küche der Militärfamilien zum nationalen Gericht: Eine Erkundung des Nord-Süd-Konflikts und der kulturellen Identität rund um das taiwanische Braised Pork Rice.'
+title: 'Taiwanisches Lu Rou Fan (Geschmortes Schweinefleisch mit Reis)'
+description: 'Das Lu Rou Fan, das aus den Küchen der Militärdörfer zu einem nationalen Kultgericht aufstieg, ist ein zentraler Träger der kulinarischen Erinnerung des taiwanischen Volkes: Im Norden wird es Lu Rou Fan genannt, im Süden Rou Zao Fan. Die Zubereitung, die Schnitttechnik und die Würzung unterscheiden sich jeweils, wobei hinter dem Namensstreit zwischen Nord und Süd eine geschmackliche Differenzierung steht. Als der Michelin-Guide in der englischen Ausgabe von 2011 das Gericht fälschlicherweise als aus Shandong stammend bezeichnete, löste dies eine landesweite Bewegung zur Korrektur der Herkunft aus, was den Status dieses authentischen Volksessens endgültig festigte.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'Braised Pork Rice',
-    'Fleischsoßenreis',
-    'Militärfamilienküche',
-    'Nationalgericht',
+    'Lu Rou Fan',
+    'Rou Zao Fan',
+    'Militärdorf-Küche',
+    'Nationales Kultgericht',
     'Nord-Süd-Unterschiede',
   ]
 subcategory: '族群飲食'
@@ -17,14 +17,14 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 image: '/images/food/braised-pork-rice.jpg'
-imageAlt: 'Braised Pork Rice aus Taichung'
+imageAlt: 'Lu Rou Fan in Taichung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '30569f742'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:6170c025ca20811f'
 sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
-translatedAt: '2026-09-23T18:41:12+08:00'
+translatedAt: '2026-10-15T23:07:45.009761+00:00'
 ---
 
 # Taiwanese Braised Pork Rice

@@ -1,25 +1,33 @@
 ---
-title: '타이완의 쉐이크 음료 문화'
-description: '펄 밀크티에서 스페셜티 차에 이르기까지, 타이완 쉐이크 음료 문화의 부상과 세계적 확산'
+title: '대만 버블티 문화'
+description: '1980년대 버블티의 탄생을 시작으로, 손으로 직접 제조하는 음료(手搖飲)는 이 섬을 상징하는 가장 대표적인 생활 양식이 되었습니다. 길모퉁이의 50嵐, 상권의 貢茶, 전통적인 春水堂부터 트렌디한迷客夏에 이르기까지 다채로운 간판을 어디서나 볼 수 있습니다. 창의적인 차 음료로 글로벌 시장을 확장하며 대만 사람들의 삶의 질에 대한 추구, 혁신에 대한 열정, 그리고 공동의 기억을 기록하고 있습니다.'
 date: 2026-03-19
 category: 'Food'
-tags: ['음식', '쉐이크음료', '펄밀크티', '차음료', '문화수출', '브랜드국제화']
+tags:
+  [
+    '미식',
+    '버블티',
+    '버블티(珍珠奶茶)',
+    '차 음료',
+    '문화 수출',
+    '브랜드 국제화',
+  ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: '클래식 펄 밀크티 클로즈업 사진'
+imageAlt: '클래식한 버블티 근접 촬영'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-10-15T20:07:01.139419+00:00'
 ---
 
 # 타이완의 쉐이크 음료 문화

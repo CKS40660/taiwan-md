@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
 last_updated: 2026-10-14
-last_session: '2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -818,20 +818,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗：電子監控法源（刑事訴訟法 116-2）、全台配戴數、歷年脫逃案例回司法院／法務部原始資料
 - **Reference**: [風傳媒](https://www.storm.mg/article/11162361) / [聯合](https://udn.com/news/story/7315/9756089) / [關鍵評論](https://www.thenewslens.com/article/270134)
 
-### 全社會防衛韌性 NEW — 從《台灣全民安全指引》到第二屆國際論壇
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
-- **Angle-expires**: evergreen（2026-10-11 news-lens 補填：論壇已過，主題是制度與指引，寫的時候取最新一屆會議當開場）
-- **Notes**:
-  - 9/19 第二屆全社會防衛韌性國際論壇，近 500 位國內外代表，議題含軍民整合、網路安全、關鍵基礎設施、灰色地帶；新版《台灣全民安全指引》全台普發，首次明寫「任何投降訊息都是假訊息」
-  - 切角：把手冊當物件開場，對照瑞典、芬蘭、捷克（72 小時生存指南）、法國同類手冊，講台灣 2024 年起為什麼學北歐
-  - 敏感度：中（國安政策，走「政府做了什麼、國際怎麼做」紀實線）；站上有〈電網韌性〉〈認知作戰〉〈台灣國防與軍事現代化〉可 cross-link，缺政策骨架本身
-- **Reference**: [Newtalk 論壇](https://newtalk.tw/news/view/2026-09-16/1060113) / [遠見 全民安全指引](https://www.gvm.com.tw/article/125936) / [總統府 委員會](https://www.president.gov.tw/News/28987)
-
 ### 科技園區發展 EVOLVE — 龍科三期復活：一塊地的三次改案（158.59 → 89.6 → 104 公頃）
 
 - **Type**: `EVOLVE`
@@ -1012,20 +998,19 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度低；陷阱：新舊兩版敘事口吻不同，接回時要順稿不能只貼
 - **Reference**: PR #1391、`reports/maintainer/2026-08-18-pr-triage/batch-B.json`（update_delta 欄）、舊版 `350dac604:knowledge/Lifestyle/吉祥物.md`
 
-### 中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分、誰在長、立法院砍在哪、錢有沒有花掉
+### 中央政府總預算 EVOLVE — 補十年縱深、資料圖表與雙方具名的刪減理由
 
-- **Type**: `NEW`
+- **Type**: `EVOLVE`
 - **Category**: Politics
+- **Path**: knowledge/Politics/中央政府總預算.md
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-08-17 by 2026-08-17-173659-budget-page session（EVOLVE Mode 4 定案方案 D：/budget 頁講圖，文章講故事，走 REWRITE-PIPELINE 帶腳註、babel 翻 12 語）
+- **Requested**: 2026-10-20 by twmd-maintainer-manual（拆自 2026-08-17 budget-page session 的 NEW 條目「中央政府總預算十年」；貢獻者 tboydar 以 PR #1877 交了 114／115 兩個年度的骨架，已 merge 並歸檔 DONE-LOG）
 - **Notes**:
-  - 資料層現成：`src/data/ly-budget.json`（十一年度機關別／政事別／執行率／刪凍／事件，逐筆帶來源）＋ 四份研究報告 `reports/research/2026-08/ly-budget-research-{A,B,C,D}.md`（已過 agent-report-health）
-  - 立體群像：府會同黨九年刪減比例窄帶（1.0–1.25%）→ 114 年度 6.62% → 115 年度 1.58% 但三讀拖到 8/14；文化部媒宣費 4,738 萬連兩年歸零；國防 9,495 億 vs 政事別 5,488 億的口徑教學；執行率 97–98% 與分母故事
-  - 政治題：雙方具名並排（李遠／視盟 vs 張雅屏／在野付委條件），評價詞歸屬說話者，不裁決（MANIFESTO §自主權邊界）
-  - 缺口待補：原民會／客委會媒體費、憲法法庭、華視數字；卓榮泰不副署財劃法（2025-12-15）一手連結；115 年度三讀後機關別法定表（主計總處上架後重跑 builder）
-  - 文章內視覺化用 tw-line／tw-stack／tw-bars 模組（graph.md），不重造 /budget 的 SVG
-- **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D、§三 研究綜整
+  - 原條目未兌現：105–113 年度逐年數字（`src/data/ly-budget.json` 有十一年度資料與逐筆來源；投稿者查證時主計總處 dgbas 頁 TLS 失敗，可改用 ey.gov.tw 的總預算案／總決算 PDF）；府會同黨九年刪減比例窄帶 1.0–1.25% 對照 114 年度 6.6%；tw-line／tw-stack／tw-bars 模組（Politics 分類零模組是 LONGINGS 點名的缺口）；卓榮泰不副署財劃法（2025-12-15）一手連結
+  - 已由 2026-10-20 maintainer heal 補上：114 年度決算政事別九類（原稿國防與教科文對調、退休撫卹與補助及其他錯置、債務誤抄成歲入規費）、翁曉玲刪減理由、媒宣費三讀全刪結局、連回 /budget
+  - 政治題：雙方具名並排、評價詞歸屬說話者、不裁決；115 年度歲入三讀數字（中央社：增列 6,019 億）很反常，引用前先查清楚口徑
+- **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D；reports/research/2026-08/ly-budget-research-{A,B,C,D}.md
 
 ### 英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel 沒過 Stage 2.5 第二道
 
@@ -1044,21 +1029,21 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
 - **Reference**: `public/api/dashboard-analytics.json` §searchConsole7d.opportunities（lastUpdated 2026-08-15T08:17）
 
-### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
+### 支語誤判學 EVOLVE — 補其餘五型誤判、收編生命週期與反向流動
 
-- **Type**: `NEW`
+- **Type**: `EVOLVE`
 - **Category**: Culture
+- **Path**: knowledge/Culture/支語誤判學.md
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-08-04 by 哲宇拍板（session 支語研究，報告 §7.2 決策點「2 ok」）
+- **Requested**: 2026-10-20 by twmd-maintainer-manual（拆自 2026-08-04 哲宇拍板的 NEW 條目；貢獻者 tboydar 以 PR #1874 交了「官方資料自身不穩定」這一軸，已 merge 並歸檔 DONE-LOG）
 - **Notes**:
-  - 核心論點：「支語」認定極不穩定，比列黑名單更稀缺的是逐詞查證——六型誤判都有實據：(1) 日源詞被誤判（佛系／打call／課金→氪金）(2) 中國方言詞被當普通話原生（貓膩北京話／老鐵東北話／搭子江南話）(3) 港澳詞被誤認（電單車／士多啤梨；Threads 4,969 讚反串教材）(4) 台灣本有詞被誤扣（素質／估計／奇葩語意回流／窩心方言歧義）(5) 起源多方各執一詞（尊嘟假嘟三方認領／天花板查證矛盾）(6) 傳聞型查無實據（第一時間／給我+VP）
-  - 官方層素材：教育部對照表停在 1990 年代、當代熱詞 0 筆；「土豆」在《簡編本》與《重編本》各指一義自身矛盾；文化部長「文化不應該用減法」vs 社群糾察的落差
-  - 收編生命週期（輸入→抵抗→部分收編：接地氣／躺平／碰瓷連支語警察都認栽）＋反向流動（王世堅金句迴流／「甲甲」進百度百科／通路不對稱）可作段落
-  - 語氣鐵律：站查證與保存不站出征（MANIFESTO §13）；社群鐘擺正從糾察擺向反思糾察（何萬順「恐淪為新的國語運動」），文章要接住兩邊
-  - 互鏈：台灣華語的演化／台灣外來語與語言接觸（兩篇已有，本篇補「誤判學」缺口）；per-term 詞庫頁可反向鏈入
+  - 現稿只寫官方層（《重編國語辭典》「土豆」三釋義、《簡編本》兩岸對照表），原條目的六型誤判一型都還沒展開：(1) 日源詞被誤判（佛系／打call／課金→氪金）(2) 中國方言詞被當普通話原生（貓膩／老鐵／搭子）(3) 港澳詞被誤認（電單車／士多啤梨）(4) 台灣本有詞被誤扣（素質／估計／窩心）(5) 起源多方各執一詞（尊嘟假嘟／天花板）(6) 傳聞型查無實據（第一時間／給我+VP）
+  - 收編生命週期（接地氣／躺平／碰瓷）與反向流動（王世堅金句迴流／「甲甲」進百度百科）兩段也未寫
+  - 語氣鐵律照舊：站查證與保存不站出征（MANIFESTO §13），接住「糾察」與「反思糾察」兩邊
+  - 0 張靜態圖（warn），本輪一起補
 - **Reference**: [reports/terminology-zhiyu-deep-research-2026-08-04.md](../../reports/terminology-zhiyu-deep-research-2026-08-04.md) §3（六型誤判全清單＋證據 URL）
-- **Pre-research**: reports/research/2026-08/zhiyu-terminology-fleet-2026-08-04.json（30 切面 913 詞條 raw，誤判案例散在 disputed／hk-sg-confusion／official-policy／localized 四切面）
+- **Pre-research**: reports/research/2026-08/zhiyu-terminology-fleet-2026-08-04.json
 
 ### 張懸與安溥 EVOLVE — Google 長尾流量王，但現行版本仍有三道健康硬傷
 
@@ -1337,23 +1322,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - EVOLVE 方向：補足生平時序 + 認知作戰研究的具體著作/行動
 - **Reference**: 哲宇 directive 2026-06-14
 
-### 台灣媒體總史 NEW — 從清領報紙到自媒體時代
+### 台灣媒體總史 EVOLVE — 補廣播、電視、網路、自媒體四段（標題「到自媒體」尚未兌現）
 
-- **Type**: `NEW`（注意：既有 `Society/台灣媒體與新聞自由.md` 是新聞自由 framing，本 entry 是「媒體史」總覽 framing，兩篇互補不重複）
-- **Category**: Society（subcategory: 媒體史）
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/台灣媒體總史.md
 - **Priority**: `P0`
 - **Status**: `pending`
-- **Source**: 哲宇 directive 2026-05-17 230616-manual（P0 優先）
-- **Hook 候選**：從清領《台灣府城教會報》到 2026 podcast — 台灣媒體史 150 年的 5 個轉折
+- **Requested**: 2026-10-20 by twmd-maintainer-manual（拆自 2026-05-17 哲宇 directive 的 NEW 條目；貢獻者 tboydar 以 PR #1879 交了報紙史骨架，已 merge 並歸檔 DONE-LOG）
 - **Notes**:
-  - 既有 baseline audit（Stage 0 必跑）：`Society/台灣媒體與新聞自由.md`（新聞自由 framing 已存在）/ Music 條目有廣播電台脈絡 cross-link 機會 / Technology 條目有網路發展史
-  - **本篇 framing 差異**：不是「新聞自由」（已有），是**「媒體形式演化史」** — 報紙 / 廣播 / 電視 / 網路 / 自媒體 5 大階段
-  - 主題 anchors：(a) 清領 1885 教會報（《台灣府城教會報》最早報紙）→ (b) 日治時期 1898 台灣日日新報 + 台灣文化協會《台灣青年》《台灣民報》→ (c) 戰後三報禁 1949（中央 / 中時 / 聯合 vs 黨外雜誌）→ (d) 解嚴 1987 報禁解除 / 廣播電視自由化 1993 → (e) 網路時代 1995 蕃薯藤 / 2000 PTT / 2010s Facebook / 2020s podcast / 自媒體
-  - 必驗事實（高優先）：(a) 《台灣府城教會報》1885.7 創刊（巴克禮）vs 其他更早說法 (b) 1949 報禁起始年份 vs 解除年份 1988.1.1 (c) 黨外雜誌如《自由中國》（雷震，per History）/《八十年代》/《美麗島》(per 既有 History 條目) (d) 廣播電視自由化《廣電法》修法時點 (e) PTT 1995 創立（杜奕瑾，per 既有 People）(f) 主流媒體 vs 自媒體比例變化的可靠調查 source
-  - 政治敏感度高：黨外雜誌史 + 媒體被收購（旺中 / 中時 etc.）+ 紅媒爭議 需精準 framing per MAINTAINER §爭議處理
-  - cross-link：與 `Society/台灣媒體與新聞自由.md` 互補（雙向 cross-link）/ History 雷震 / 美麗島事件 / People 杜奕瑾 / Technology 網路發展史
-- **Reference**: 文化部國家文化資料庫 / 國家圖書館期刊 archive / 維基〈台灣媒體〉/《台灣媒體史》學術論著 / 台北市文獻會
-- **預估時間**：~180 min（150 年跨度 + 多 source + 政治敏感）
+  - 現稿五節都是報紙：清領教會報、日治官報與民報、報禁與黨外雜誌、解禁後市場化、信任度。原條目的廣播（1993 年起廣電自由化、地下電台）、電視（老三台到有線電視）、網路（1995 蕃薯藤、PTT 杜奕瑾）、自媒體與 podcast 四段都還沒寫，標題的「到自媒體」目前只靠最後一節一句話
+  - 信任度可補成時間序列：路透台灣頁 2021 31%／2022 27%／2023 28%／2024 33%／2025 30%（各年 reutersinstitute 台灣頁，2026-10-20 查核分身讀過，入文前親開）
+  - 維基〈台灣媒體〉條目有三處與一手來源不符（1987 同時解除報禁、1926 伊澤多喜男核准《臺灣民報》遷台、2022 路透 28%），本輪已改用一手來源；EVOLVE 時不要從該條目再抄回來
+  - 必驗：黨外雜誌名單、媒體併購（旺中）與紅媒爭議需精準 framing；cross-link 台灣電視產業史、鄭南榕、台灣媒體與新聞自由
+- **Reference**: 文化部國家文化資料庫 / 國家圖書館期刊 archive /《台灣媒體史》學術論著 / 台灣光華雜誌〈春來春又去──報禁解除20年〉
 
 ### 林央敏 NEW — 台語史詩《胭脂淚》9000 行 / 主權巴別塔核心
 

@@ -1,16 +1,16 @@
 ---
-title: "Taiwan's Hand-Shaken Beverage Culture"
-description: "From bubble milk tea to premium teas, the rise and global expansion of Taiwan's hand-shaken beverage culture"
+title: "Taiwan's Hand-Shaken Drink Culture"
+description: "Starting with the birth of bubble tea in the 1980s, hand-shaken drinks have become one of this island's most iconic lifestyle symbols: from corner shops like 50 Lan and commercial district staples like Gong Tea to traditional Chun Shui Tang and trendy Mixue, colorful signs can be seen everywhere. Expanding into global markets through creative tea beverages, this culture records the Taiwanese people's pursuit of quality of life, passion for innovation, and shared memories."
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'food',
-    'hand-shaken beverages',
-    'bubble milk tea',
-    'tea drinks',
-    'cultural export',
-    'brand internationalization',
+    'Food',
+    'Hand-shaken drinks',
+    'Bubble tea',
+    'Tea beverages',
+    'Cultural export',
+    'Brand internationalization',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
@@ -18,16 +18,16 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Close-up of classic bubble milk tea'
+imageAlt: 'A close-up of classic bubble tea'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:55+08:00'
+translatedAt: '2026-10-15T16:48:41.030017+00:00'
 ---
 
 # Taiwan's Hand-Shaken Beverage Culture

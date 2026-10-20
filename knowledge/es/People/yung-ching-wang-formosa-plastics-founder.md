@@ -1,20 +1,27 @@
 ---
-title: 'Wang Yung-ching: de la tienda de arroz a la batalla de veinte años por la Sexta Nafta, y el drama sucesorio tras su muerte'
-description: 'Nacido el 18 de enero de 1917 en Xindian, Taipéi, Wang Yung-ching dejó la escuela a los 15 años y pidió prestado dinero para abrir una tienda de arroz. En 1954 fundó Formosa Plastics. En 1973 propuso al gobierno la construcción de la Sexta Planta de Craqueo de Nafta (六輕), y tras casi veinte años de lucha finalmente obtuvo la aprobación; la producción en masa comenzó en 1998 en Mailiao, Yunlin. Falleció el 15 de octubre de 2008 en Estados Unidos, a los 92 años, dejando tras de sí una disputa familiar por la herencia que se prolongó durante más de una década.'
+title: 'Wang Yung-ching: Veinte años de lucha entre la tienda de arroz y Formosa Plastics, y el drama de la disputa de herencia tras su muerte'
+description: 'Nacido en 1917 en una familia agrícola pobre en Xindian, Taipei, dejó los estudios a los 15 años y pidió prestados 200 yenes a su padre para abrir la fábrica de arroz "Xin Gao". En 1954 fundó Formosa Plastics y más tarde fue conocido como el "Dios de la Gestión". En 1973 propuso al gobierno el proyecto de Formosa Plastics Sixth Naphtha Cracker; tras ser rechazado varias veces, no se rindió y luchó durante casi veinte años hasta obtener la aprobación, iniciando la producción masiva en Mailiao, Yunlin, en 1998. Falleció en Nueva York, Estados Unidos, el 15 de octubre de 2008 a los 92 años, y la disputa familiar por su herencia se prolongó hasta alrededor de 2022.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Tecnología y empresas',
+    'Grupo Formosa Plastics',
+    'Industria petroquímica',
+    'Formosa Sixth Naphtha Cracker',
+    'Empresario',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '台塑集團', '石化工業', '六輕', '企業家']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-05-28T05:08:34+08:00'
+translatedAt: '2026-10-15T20:33:08.862795+00:00'
 ---
 
 # Wang Yung-ching: de la tienda de arroz a la batalla de veinte años por la Sexta Nafta, y el drama sucesorio tras su muerte

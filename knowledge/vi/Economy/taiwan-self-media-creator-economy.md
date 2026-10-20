@@ -1,14 +1,14 @@
 ---
-title: 'Nền kinh tế sáng tạo của các nhà sáng tạo nội dung tự phát trên Đài Loan: Trận chiến mảnh ghép trên thị trường 23 triệu người'
-description: 'Thị trường chưa tới 1% quy mô của Mỹ nhưng số nền tảng vận hành gấp đôi — cách các nhà sáng tạo Đài Loan kiếm sống?'
+title: 'Nền kinh tế nhà sáng tạo nội dung tại Đài Loan: Chiến trường phân mảnh của 23 triệu dân'
+description: 'Thị trường quảng cáo KOL tại Đài Loan chưa bằng 1% quy mô của Mỹ, nhưng một nhà sáng tạo tầm trung phải vận hành gấp đôi số lượng nền tảng; việc kiếm tiền dựa vào tiếp thị liên kết thay vì đăng ký thuê bao.'
 date: 2026-03-29
 category: 'Economy'
 tags:
   [
-    'Tự phát',
-    'Nền kinh tế sáng tạo',
+    'Truyền thông tự thân',
+    'Kinh tế nhà sáng tạo',
     'KOL',
-    'Người nổi tiếng trên mạng',
+    'Người nổi tiếng mạng',
     'Tiếp thị liên kết',
   ]
 subcategory: '產業與經濟'
@@ -18,123 +18,123 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-09-23T09:26:35+08:00'
+translatedAt: '2026-10-15T12:42:53+08:00'
 ---
 
-> Thị trường quảng cáo của các nhà sáng tạo nội dung tại Đài Loan quy mô khoảng 210 triệu USD, chưa tới 1% so với Mỹ. Nhưng một nhà sáng tạo trung cấp tại Đài Loan thường vận hành đồng thời từ 5 đến 7 nền tảng — YouTube, IG, Facebook, Threads, Podcast, blog, LINE — gấp đôi so với đối thủ cấp bằng ở Mỹ. Thị trường nhỏ bé, nền tảng phân mảnh, biến đổi dựa trên tiếp thị liên kết thay vì mô hình đăng ký — đây là một trò chơi hoàn toàn khác biệt.
-
----
-
-## Câu chuyện một quản lý sản phẩm trở thành YouTuber
-
-Năm 2016, Theng Chiang-cheng (Weng Chiang-ching) từ chức vị quản lý sản phẩm laptop tại Micro-Star International (MSI) để chuyên tâm phát triển kênh YouTube mà anh bắt đầu "chơi đùa" cập nhật từ năm 2010. Lúc đó, kênh của anh mang tên Joeman, chưa tới 100.000 người đăng ký. Bạn bè đều cho rằng anh điên rồ. Tốt nghiệp ngành Kỹ thuật Điện tử tại Đại học Khoa học và Công nghệ Thượng Hải (National Chiao Tung University), kiếm tiền ổn định trong ngành công nghệ — anh vẫn chọn bỏ lại tất cả?
-
-Mười năm sau, kênh Joeman đã tiến gần tới 2,8 triệu người đăng ký, tích lũy hơn 118 triệu lượt xem, và đã đăng tải hơn 3.200 video. Series "Joe là để đối đầu" đã quay gần 300 tập, bao gồm mở hộp, đánh giá công nghệ 3C, và tranh tài ẩm thực — anh thực sự làm được mọi thứ. Apple mời anh đến Cupertino tham dự sự kiện ra mắt sản phẩm liên tiếp trong ba năm, trở thành một trong số ít YouTuber tại Đài Loan nhận được lờời mời.
-
-Nhưng chỉ nhìn vào số lượt đăng ký sẽ gây hiểu lầm. Joeman từng công khai chia sẻ rằng, chỉ riêng từ quảng cáo trên YouTube, anh kiếm được khoảng 5 triệu NDT (đồng Đài Loan) mỗi năm. Nghe có vẻ nhiều? Nhưng chi phí vận hành của studio mỗi tháng lên tới 1–1,5 triệu NDT, với đội ngũ lõi năm người làm việc toàn thời gian, bao gồm bảo hiểm xã hội và tiền thưởng cuối năm. Chỉ với AdSense, anh còn chưa thể bù đắp hết chi phí. Điều thực sự duy trì nguồn thu vượt 20 triệu NDT mỗi năm là sự hợp tác thương hiệu, sản phẩm thực phẩm đặc biệt hợp tác với 7-Eleven, khóa học đầu tư bất động sản, cùng với giao dịch cổ phiếu cá nhân của chính anh. Joeman đồng thời vận hành YouTube, Instagram (670.000 người theo dõi), Facebook (600.000), Threads (380.000), Twitch, ít nhất sáu nền tảng.
-
-Hành trình của Joeman tóm gọn lõi logic của nền kinh tế sáng tạo Đài Loan: ngay cả khi bạn đứng ở đỉnh tháp, nguồn thu duy nhất vẫn không đủ chi trả. Bạn phải chia ảnh hưởng của mình thành nhiều con đường sinh lời khác nhau, rồi hy vọng không có bất kỳ con đường nào đứt giữa chừng.
+> Quy mô thị trường quảng cáo người nổi tiếng (influencer) tại Đài Loan đạt khoảng 210 triệu USD, chưa tới 1% so với Hoa Kỳ. Tuy nhiên, một nhà sáng tạo tầm trung tại Đài Loan thường phải vận hành từ 5 đến 7 nền tảng cùng lúc — bao gồm YouTube, Instagram, Facebook, Threads, Podcast, Blog và LINE — con số này gần gấp đôi so với các nhà sáng tạo cùng phân khúc tại Mỹ. Với thị trường nhỏ hẹp, nền tảng phân mảnh và việc kiếm tiền phụ thuộc vào tiếp thị liên kết thay vì mô hình thu phí đăng ký, đây là một cuộc chơi với những quy tắc hoàn toàn khác biệt.
 
 ---
 
-## Thị trường nhỏ đến đâu? Một số liệu minh chứng
+## Câu chuyện về một quản lý sản phẩm trở thành YouTuber
 
-Hãy nhìn vào con số.
+Năm 2016, Ông Tuấn Minh (Weng Chun-ming) đã rời bỏ vị trí quản lý sản phẩm máy tính xách tay tại MSI để theo đuổi công việc toàn thời gian cho kênh YouTube mà ông đã bắt đầu làm vì sở thích từ năm 2010. Vào thời điểm đó, kênh của ông có tên là Joeman và lượng đăng ký chưa tới 100.000 người. Bạn bè đều nghĩ ông đã điên. Tốt nghiệp khoa Kỹ thuật Điện tử tại Đại học Giao thông (NCTU), đang có mức lương ổn định trong ngành công nghệ, vậy mà lại từ bỏ?
 
-Theo ước tính của Statista, chi tiêu cho thị trường quảng cáo của các nhà sáng tạo nội dung tại Đài Loan năm 2024 khoảng 214 triệu USD (khoảng 6,8 tỷ NDT), và dự kiến tăng lên 317 triệu USD vào năm 2029. Nghe có vẻ nhiều? Nhưng trong năm đó, thị trường toàn cầu đã vượt qua mức 33 tỷ USD, trong khi Đài Loan chỉ chiếm dưới 0,7%. Chỉ riêng giá trị thị trường nền kinh tế sáng tạo tại Mỹ đã đạt tới 50,9 tỷ USD, chiếm hơn 37% tổng toàn cầu.
+Mười năm sau, kênh của Joeman đã đạt gần 2,8 triệu người đăng ký, với tổng lượt xem vượt quá 1,18 tỷ lần và phát hành hơn 3.200 video. Series "Joe là để đối đầu" đã thực hiện gần 300 tập, bao gồm đập hộp, đánh giá đồ công nghệ (3C), đối đầu ẩm thực — ông hầu như thử sức ở mọi lĩnh vực. Apple đã liên tục mời ông bay đến Cupertino tham dự các buổi ra mắt sản phẩm trong ba năm liên tiếp, biến ông trở thành một trong số ít YouTuber tại Đài Loan nhận được lời mời này.
 
-Hãy thu hẹp góc quay. Dân số Đài Loan là 23,4 triệu người, với tỷ lệ thấm nhuần internet trên 95%. Mức độ thâm nhập của các nền tảng xã hội cũng rất ấn tược: tỷ lệ sử dụng LINE đạt 87%, Facebook đạt 73,8%, YouTube đạt 83,3%, Instagram có 11,3 triệu người dùng. Lượng truy cập của Threads tại Đài Loan còn chiếm tới 22% toàn cầu, vượt mức 14,8% của Mỹ.
+Tuy nhiên, nếu chỉ nhìn vào lượng đăng ký sẽ dễ gây ảo tưởng. Bản thân Joeman từng công khai chia sẻ rằng doanh thu quảng cáo từ YouTube mỗi năm chỉ khoảng 5 triệu Đài tệ. Nghe có vẻ nhiều? Nhưng chi phí vận hành studio của ông hàng tháng dao động từ 1 đến 1,5 triệu Đài tệ, bao gồm đội ngũ nòng cốt 5 người làm việc toàn thời gian cùng các khoản bảo hiểm và thưởng cuối năm. Nếu chỉ dựa vào AdSense, ông thậm chí còn không bù đắp nổi chi phí. Thứ thực sự giúp thu nhập hàng năm vượt ngưỡng 20 triệu Đài tệ chính là quảng cáo thương hiệu, thực phẩm liên kết với 7-ELEVEN, các khóa học đầu tư bất động sản và hoạt động giao dịch chứng khoán cá nhân. Ông vận hành đồng thời YouTube, Instagram (670.000), Facebook (600.000), Threads (380.000) và Twitch — ít nhất là sáu nền tảng.
 
-Dù có nhiều nền tảng, nhưng quỹ quảng cáo trên mỗi nền tảng vẫn còn hạn chế. Ngân sách marketing của các thương hiệu là cố định, nhưng các nhà sáng tạo phải hiện diện trên mỗi nền tảng để nhận được dự án.
-
----
-
-## Từ PChome Blog đến Threads: Ba thế hệ phát triển của hợp tác thương hiệu
-
-Lịch sử tự phát của Đài Loan có thể được chia thành ba giai đoạn.
-
-**Thời kỳ Blogger (2005–2015).** PChome Blog (Pixnet) là điểm khởi đầu. Các blogger chia sẻ ẩm thực viết bài đầy hình ảnh sinh động, dựa vào lưu lượng tìm kiếm dài hạn của Google để tích lũy độc giả. Cách biến đổi rất đơn giản: nhà sản xuất gửi sản phẩm, blogger viết bài, người đọc tìm thấy và đặt hàng. Các nền tảng như iChannels và Affiliates.One đã xây dựng cơ sở hạ tầng cho tiếp thị liên kết tại Đài Loan. PChome Blog vẫn là một trong những trang web được truy cập nhiều nhất tại Đài Loan, và hiệu quả của blog dài hạn vẫn cao nhất trong mọi hình thức tự phát. Lúc bấy giờ, không ai gọi họ là "KOL", mà gọi là "blogger".
-
-**Thời kỳ YouTuber (2015–2022).** Năm 2014, khi 4G ra mắt, tiêu thụ video bùng nổ. Cai A-ga (Tsai A-ga) bắt đầu từ video trên mạng, và trong vòng mười năm, lượng truy cập của anh tăng 55 lần. Số kênh có 1 triệu người đăng ký tăng từ 1 kênh năm 2013 lên hơn 160 kênh năm 2023; số kênh có hơn 100.000 người đăng ký tăng từ hơn 200 lên hơn 2.500 kênh. Tuy nhiên, thực tế là: CPM của YouTube tại Đài Loan (doanh thu cho mỗi 1.000 lượt xem) chỉ dao động từ 0,5 USD đến 3 USD, và một kênh chỉ có 300.000 lượt xem mỗi tháng thì chỉ bằng một vài ngàn đồng NDT từ quảng cáo. Hợp tác thương hiệu trở thành nền tảng sống thiết yếu.
-
-**Thời kỳ Phân mảnh (2022–nay).** IG Reels, Threads, TikTok, Podcast đang cạnh tranh giành sự chú ý. Một nhà sáng tạo "chăm chỉ phát triển" hiện nay phải quản lý video dài trên YouTube, YouTube Shorts, bài đăng trên IG, câu chuyện trên IG, bài viết văn bản trên Threads, nhóm Facebook, và một số người còn thêm Podcast và blog. Số lượng nền tảng gấp đôi so với các nhà sáng tạo ở Mỹ, vì khán giả tại Đài Loan bị phân tán — người trên 35 tuổi ở lại Facebook, thanh thiếu niên ở IG và Threads, thế hệ trung lưu xem YouTube, người đi làm nghe Podcast. Không có nền tảng nào có thể tiếp cận toàn bộ khán giả.
+Hành trình của Joeman đã cô đọng logic cốt lõi của nền kinh tế nhà sáng tạo tại Đài Loan: Ngay cả khi bạn đứng trên đỉnh kim tự tháp, một nguồn thu duy nhất vẫn không đủ để duy trì. Bạn phải chia nhỏ tầm ảnh hưởng thành nhiều lộ trình kiếm tiền khác nhau, và cầu nguyện rằng không có con đường nào bị đứt gãy cùng một lúc.
 
 ---
 
-## Tiếp thị liên kết mới là lực lượng chính: Cấu trúc sinh lời đặc trưng của Đài Loan
+## Thị trường nhỏ đến mức nào? Một bức tranh số liệu
 
-Ở phương Tây, nền kinh tế sáng tạo chủ yếu dựa vào mô hình đăng ký — Patreon, YouTube Membership, Substack. Nhưng ở Đài Loan, điều khác biệt hoàn toàn.
+Hãy nhìn vào các con số.
 
-Nền tảng tiếp thị liên kết lớn nhất tại Đài Loan là Affiliates.One với hơn 2.000 thương hiệu đối tác (Nike, Klook, KKday, Pinkoi...) và hơn 80.000 người tham gia. Nền tảng lâu đời khác là iChannels, chuyên sâu vào các kênh thương mại điện tử lớn như Đông Tâm Mua Sắm. Tỷ lệ hoa hồng phụ thuộc vào nhà bán hàng, thường dao động từ 3% đến 20%, bao gồm thương mại điện tử, du lịch, tài chính, và khóa học trực tuyến. Shopee cũng ra mắt chương trình tiếp thị liên kết riêng vào những năm 2020, cho phép các nhà sáng tạo chia sẻ doanh thu trực tiếp từ sàn giao dịch.
+Chi tiêu cho quảng cáo người nổi tiếng (Influencer Advertising) tại Đài Loan năm 2024 đạt khoảng 214 triệu USD (khoảng 6,8 tỷ Đài tệ). Theo dự báo của Statista, con số này sẽ tăng lên 317 triệu USD vào năm 2029. Nghe có vẻ lớn? Nhưng trong cùng năm đó, thị trường tiếp thị người nổi tiếng toàn cầu đã vượt qua 33 tỷ USD, trong khi Đài Loan chiếm chưa tới 0,7%. Chỉ riêng giá trị thị trường kinh tế nhà sáng tạo tại Mỹ đã đạt 50,9 tỷ USD, với Bắc Mỹ chiếm hơn 37% thị phần toàn cầu.
 
-Tại sao mô hình đăng ký lại không phổ biến tại Đài Loan? Có một số nguyên nhân cấu trúc. Người tiêu dùng tại Đài Loan thiếu hứng thú với "trả tiền để xem nội dung", và các sản phẩm thay thế miễn phí quá nhiều. Liên kết thẻ tín dụng với nền tảng nước ngoài (như Patreon) cũng gây rào cản. Dùng tiền để đăng ký Podcast Firstory, tổng số tiền thanh toán toàn quốc vượt 6 triệu NDT, nhưng doanh thu cho các nhà sáng tạo chỉ hơn 28 triệu — dù nghe có vẻ tăng trưởng, nhưng khi chia đều cho hàng ngàn nhà sáng tạo, con số vẫn rất nhỏ bé.
+Thu hẹp góc nhìn lại một chút. Dân số Đài Loan là 23,4 triệu người, với tỷ lệ thâm nhập internet vượt quá 95%. Tỷ lệ sử dụng các nền tảng mạng xã hội cũng đáng kinh ngạc: tỷ lệ sử dụng LINE đạt 87%, tỷ lệ tiếp cận quảng cáo Facebook là 73,8%, độ phủ YouTube là 83,3%, và số người dùng Instagram là 11,3 triệu. Lưu lượng truy cập của Threads tại Đài Loan thậm chí chiếm tới 22% toàn cầu, vượt qua cả mức 14,8% của Hoa Kỳ.
 
-Trong khi đó, mô hình "giúp các nhà bán hàng kiếm hoa hồng" của tiếp thị liên kết lại phù hợp hơn với Đài Loan. Các nhà sáng tạo không cần thuyết phục người hâm mộ trả tiền cho chính họ, mà chỉ cần giới thiệu một sản phẩm mà họ đã sẵn sàng mua. Nhà sáng tạo mẹ đẻ dưới thương hiệu PressPlay, chỉ với một vòng mua sắm nhóm, đã đạt doanh thu hàng chục triệu; trong số 9 nhà sáng tạo mà công ty hỗ trợ phát triển thương hiệu riêng, có hai thương hiệu đạt doanh thu hàng trăm triệu mỗi năm.
-
-Hợp tác thương hiệu cũng là nguồn thu chính. Năm 2026, mức phí hợp tác của KOL tại Đài Loan như sau: nano KOL (1.000–10.000 người theo dõi) khoảng 3.000–15.000 NDT mỗi bài; micro KOL (10.000–50.000 người theo dõi) khoảng 15.000–50.000 NDT mỗi bài; trung cấp (50.000–100.000 người theo dõi) khoảng 80.000–150.000 NDT mỗi video YouTube; và các KOL triệu người theo dõi thường có mức phí hợp tác vượt 500.000 NDT.
+Có rất nhiều nền tảng, nhưng ngân sách quảng cáo trên mỗi nền tảng lại có hạn. Ngân sách marketing của các thương hiệu là cố định, trong khi nhà sáng tạo buộc phải xuất hiện trên mọi nền tảng mới có thể nhận được hợp đồng.
 
 ---
 
-## Lợi thế phi ngờ nhận thức của micro KOL
+## Từ Pixnet đến Threads: Sự tiến hóa của quảng cáo qua ba thế hệ
 
-Các thương hiệu tại Đài Loan đang chuyển ngân sách từ các siêu ảo sáng tạo lớn sang các ảo sáng nhỏ — không chỉ để tiết kiệm chi phí, mà vì hiệu quả thực sự tốt hơn.
+Lịch sử truyền thông tự thân tại Đài Loan có thể chia thành ba giai đoạn chính.
 
-Trên Instagram, nano KOL (1.000–10.000 người theo dõi) chiếm hơn 65% tổng số tài khoản ảo sáng, với tỷ lệ tương tác trung bình đạt 2,53%. Tỷ lệ tham gia của micro KOL hoặc KOC (Key Opinion Consumer — người có quan điểm tiêu dùng) là 3–5 lần so với KOL lớn. Theo báo cáo Niên độ tin cậy quảng cáo của Nielsen, 88% người tiêu dùng toàn cầu tin tưởng nhất vào đề xuất từ người quen — và mối quan hệ giữa nano KOL và người theo dõi gần nhất với “người quen”.
+**Thời đại Blogger (2005-2015).** Pixnet là điểm khởi đầu. Các blogger ẩm thực viết những bài review kèm hình ảnh sinh động, tích lũy độc giả nhờ lưu lượng truy cập dài hạn từ tìm kiếm Google. Cách thức kiếm tiền rất đơn giản: nhãn hàng gửi sản phẩm, blogger viết bài, và độc giả tìm thấy rồi đặt hàng. Các nền tảng như iChannels và Affiliates.One đã xây dựng cơ sở hạ tầng cho tiếp thị liên kết tại Đài Loan trong giai đoạn này. Cho đến nay, Pixnet vẫn nằm trong top 10 website có lưu lượng truy cập lớn nhất Đài Loan; hiệu ứng đuôi dài (long-tail) của blog mang lại hiệu quả cao nhất trong tất cả các hình thức truyền thông tự thân. Thời đó, không ai gọi họ là "KOL", mọi người chỉ gọi là "Blogger".
 
-Trong một thị trường nhỏ bé như Đài Loan, hiệu ứng này được tăng cường. Một người quản lý cộng đồng leo núi với 3.000 người theo dõi, người đó có thể chính là những người bạn của bạn. Sức thuyết của một đôi giày leo núi mạnh hơn nhiều so với video mở hộp của một KOL triệu người theo dõi.
+**Thời đại YouTuber (2015-2022).** Năm 2014, khi mạng 4G ra mắt, việc tiêu thụ video bùng nổ. Thái A Ca (Tsai A-ga) nổi lên từ các video trên mạng, với sức ảnh hưởng tăng vọt 55 lần trong vòng một thập kỷ. Số lượng kênh đạt triệu sub đã tăng từ 1 kênh vào năm 2013 lên hơn 160 kênh vào năm 2023; các kênh trên 100.000 sub đã bùng nổ từ hơn 200 lên hơn 2.500 kênh. Nhưng thực tế là: chỉ số CPM (doanh thu mỗi một nghìn lượt xem) của YouTube tại Đài Loan chỉ dao động từ 0,5 đến 3 USD. Một kênh có 300.000 lượt xem mỗi tháng nếu chỉ dựa vào chia sẻ quảng cáo sẽ không nhận được nổi 10.000 Đài tệ. Quảng cáo thương hiệu trở thành phương tiện sinh tồn tất yếu.
 
-Các thương hiệu cũng điều chỉnh chiến lược. Trước đây, dựa vào một KOL lớn để "bán hàng một lần", giờ đây mô hình này đang bị thay thế bởi mạng lưới ảnh hưởng đa tầng: tầng trên cùng dùng KOL lớn để tạo sức lan tỏa, tầng giữa dùng micro KOL để xây dựng uy tín, và tầng dưới cùng dùng KOC thường xuyên để chuyển đổi. Toàn cầu, 43% các thương hiệu đã tập trung ngân sách vào hai cấp độ nano và micro. Vì thị trường nhỏ và mạng lưới chặt chẽ, chiến lược "kim tự tháp" này được thực hiện hoàn hảo tại Đài Loan.
-
----
-
-## Podcast: Âm thanh kinh tế đến muộn nhưng tăng trưởng nhanh
-
-Thị trường Podcast của Đài Loan khởi nghiệp trễ, nhưng tốc độ tăng trưởng rất nhanh.
-
-Các nền tảng nghe chính thức là Spotify, Apple Podcast và KKBOX. Phân bố địa lý rất tập trung: sáu thành phố lớn cộng với Hsinchu và Changhua chiếm gần 95% lượng nghe toàn quốc, trong khi thành phố Đài Bắc (Taipei) chiếm gần 70%. Điều này phản ánh đặc điểm của người nghe Podcast — những người đi làm trong khu vực đô thị, nhân viên văn phòng.
-
-Firstory, nền tảng cung cấp dịch vụ Podcast lớn nhất tại Đài Loan, ghi nhận doanh thu giao dịch quảng cáo động tăng 70% hàng năm, và tổng thu nhập của các nhà sáng tạo qua nền tảng vượt 3,8 triệu NDT. Các chương trình đăng ký cũng đang tăng lên, cung cấp nội dung độc quyền, phiên bản không quảng cáo, hoặc quyền nghe ưu tiên. KKBOX hàng năm tổ chức giải thưởng Podcast Hot Trends, bao gồm danh sách 100 nghệ sĩ hàng đầu, chương trình tốt nhất, và người dẫn chương trình tốt nhất, dần xây dựng hệ thống công nhận chuyên nghiệp cho cộng đồng Podcast tại Đài Loan.
-
-Vị trí đặc biệt của Podcast tại Đài Loan là "nơi trú ẩn cho nội dung sâu sắc". Khi YouTube và IG bị ách động bởi video ngắn và thuật toán, Podcast trở thành nơi các nhà sáng tạo có thể nói một cách chân thành về một chủ đề. Các chương trình về kiến thức, sự kiện thời sự, và tài chính cá nhân rất được yêu thích tại Đài Loan, phù hợp với thói quen tiêu dùng nội dung "học được điều gì đó" của khán giả.
-
-Nhiều YouTuber cũng coi Podcast như một mặt trận thứ hai. Cùng một nội dung, phiên bản YouTube thêm hình ảnh biên tập, phiên bản Podcast chỉ với âm thanh, có thể tận dụng hai lần. Chiến lược "tái chế nội dung" này rất phổ biến tại Đài Loan, vì chi phí sản xuất phải được giảm thiểu.
+**Thời đại phân mảnh (2022 đến nay).** IG Reels, Threads, TikTok và Podcast cùng lúc tranh giành sự chú ý. Một nhà sáng tạo "làm việc nghiêm túc" hiện nay phải vừa chăm sóc video dài trên YouTube, YouTube Shorts, bài đăng Instagram, Instagram Stories, văn bản trên Threads, hội nhóm Facebook, và một số người còn làm thêm cả Podcast lẫn Blog. Số lượng nền tảng gần gấp đôi so với các nhà sáng tạo tại Mỹ vì đối tượng khán giả tại Đài Loan bị phân tán — những người trên 35 tuổi ở lại Facebook, giới trẻ dùng Instagram và Threads, thế hệ trung gian xem YouTube, và những người đi làm thường nghe Podcast. Không có một nền tảng đơn lẻ nào có thể tiếp cận được toàn bộ công chúng.
 
 ---
 
-## Bản chất của con đường này
+## Tiếp thị liên kết mới là trụ cột: Cấu trúc kiếm tiền độc đáo của Đài Loan
 
-Khi tất cả những mảnh ghép trên được ghép lại với nhau, nền kinh tế sáng tạo của Đài Loan không phải là một ngành công nghiệp rực rỡ. Nó giống như một cuộc chiến đa tuyến kéo dài.
+Mô hình kiếm tiền chủ lưu của kinh tế nhà sáng tạo tại Âu Mỹ là thu phí đăng ký (subscription) — như Patreon, YouTube Membership hay Substack. Đài Loan thì khác.
 
-Một ngày điển hình của một nhà sáng tạo trung cấp: sáng đăng bài viết văn bản lên Threads để theo dõi sự kiện, trưa cắt video YouTube đã quay hôm qua, chiều trả lời câu hỏi trên IG và email từ nhà sản xuất hợp tác, tối ghi âm Podcast hoặc viết bài blog dài, trước khi ngủ kiểm tra dữ liệu chuyển đổi của tiếp thị liên kết. Mỗi nền tảng có thuật toán, định dạng nội dung, và thói quen khán giả khác nhau, nhưng tất cả đều cần được quản lý.
+Nền tảng tiếp thị liên kết lớn nhất Đài Loan là "Affiliates.One" sở hữu hơn 2.000 thương hiệu thương mại điện tử hợp tác (như Nike, Klook, KKday, Pinkoi...) và hơn 80.000 người quảng bá. Nền tảng lâu đời "iChannels" lại tập trung sâu vào các kênh thương mại điện tử lớn như Eastern Shopping. Tỷ lệ hoa hồng tùy thuộc vào nhà bán hàng, thường nằm trong khoảng từ 3% đến 20%, bao gồm các lĩnh vực thương mại điện tử, du lịch, tài chính và khóa học trực tuyến. Shopee cũng đã tung ra chương trình tiếp thị liên kết riêng vào những năm 2020, cho phép các nhà sáng tạo nhận hoa hồng trực tiếp từ doanh số bán hàng trên nền tảng.
 
-Cấu trúc thu nhập cũng rất phân mảnh. Quảng cáo trên YouTube chiếm một phần nhỏ, ba bốn hợp tác thương hiệu chiếm phần lớn, tiếp thị liên kết mang lại thu nhập thụ động, và thỉnh thoảng nhận một dự án mua sắm nhóm hoặc khóa học trực tuyến. Theo số liệu của PressPlay, nhà sáng tạo có nguồn thu đa dạng tăng trưởng trung bình 40% mỗi năm.
+Tại sao mô hình đăng ký thuê bao lại không hiệu quả tại Đài Loan? Có một vài nguyên nhân cấu trúc. Người tiêu dùng Đài Loan có ý muốn "trả tiền để xem nội dung" khá thấp do có quá nhiều sản phẩm thay thế miễn phí. Việc liên kết thẻ tín dụng với các nền tảng nước ngoài (như Patreon) cũng gây ra rào cản chi phí giao dịch. Mặc dù doanh thu đăng ký trả phí trên nền tảng Podcast Firstory đã vượt 6 triệu Đài tệ và tổng thu nhập của các nhà sáng tạo vượt quá 28 triệu Đài tệ — nghe có vẻ là sự tăng trưởng, nhưng khi chia cho hàng nghìn nhà sáng tạo, con số vẫn rất ít ỏi.
 
-Theo khảo sát của Rakuten Insight năm 2023, khoảng 75% người tham gia khảo sát tại Đài Loan theo dõi ít nhất một ảo sáng trên mạng xã hội, trong đó hơn một nửa cho biết từng mua hàng dựa trên đề xuất của ảo sáng. Tỷ lệ chuyển đổi này dẫn đầu khu vực Châu Á Thái Bình Dương. Người tiêu dùng tại Đài Loan rất tin tưởng vào đề xuất từ các nhà sáng tạo, nhưng tỷ lệ sẵn sàng trả tiền trực tiếp để hỗ trợ các nhà sáng tạo thì thấp. Mâu thuẫn này chính là nguyên nhân cốt lõi của nền kinh tế sáng tạo "bán hàng mạnh nhưng đăng ký yếu" tại Đài Loan.
+Ngược lại, mô hình tiếp thị liên kết "ăn hoa hồng khi bán giúp nhãn hàng" lại phù hợp với Đài Loan hơn. Nhà sáng tạo không cần thuyết phục người hâm mộ bỏ tiền túi cho chính mình, họ chỉ cần đề xuất một sản phẩm mà người hâm mộ vốn dĩ đã định mua. Các nhà sáng tạo thuộc nhóm nội dung dành cho nội trợ dưới trướng PressPlay có thể đạt doanh số vượt 10 triệu Đài tệ chỉ với một đợt mua chung (group buy); trong số 9 thương hiệu riêng do công ty này hỗ trợ phát triển, có hai thương hiệu đạt doanh thu hàng năm vượt mức 100 triệu Đài tệ.
 
-Một xu hướng đáng chú ý khác là sự chuyển đổi từ cá nhân sang doanh nghiệp. Joeman thành lập công ty giải trí quốc tế Thái Mỹ (Jiumei International Entertainment), và PressPlay đại diện cho hơn 55 nhóm sáng tạo (trong đó 10 là YouTuber triệu người theo dõi), với tổng lượt xem trên YouTube của các sáng tạo dưới sở hữu công ty vượt 5,7 tỷ lượt vào năm 2024. Khi các nhà sáng tạo cá nhân tiến hóa thành thương hiệu, và thương hiệu phát triển thành công ty, từ ngữ "ảo sáng" (influencer) thực sự không còn đủ để mô tả.
+Quảng cáo thương hiệu cũng là nguồn thu cốt lõi. Giá thị trường quảng cáo KOL tại Đài Loan năm 2026: Nano-influencer (1.000 - 10.000 followers) khoảng 3.000 đến 15.000 Đài tệ mỗi bài; Micro-influencer (10.000 - 50.000 followers) khoảng 15.000 đến 50.000 Đài tệ mỗi bài; tầm trung (50.000 - 100.000 followers) một video YouTube khoảng 80.000 đến 150.000 Đài tệ; và các hợp tác cấp triệu sub thường có chi phí vượt quá 500.000 Đài tệ.
 
-Quy mô của nền kinh tế sáng tạo Đài Loan sẽ không bao giờ bắt kịp với Mỹ — đây là giới hạn do dân số và ngôn ngữ quyết định. Nhưng thị trường này nuôi dưỡng một bộ kỹ năng sống đặc biệt: sự kết hợp đa dạng của các nguồn thu, sự phụ thuộc sâu sắc vào tiếp thị liên kết, việc áp dụng chính xác của ảnh hưởng nhỏ, và khả năng chuyển đổi nhanh chóng giữa các nền tảng phân mảnh. Trên thị trường 23 triệu người, sự linh hoạt của các nhà sáng tạo đã trở nên vô cùng xuất sắc nhất thế giới.
+---
+
+## Lợi thế ngược đời của các KOL siêu nhỏ
+
+Các thương hiệu tại Đài Loan đang chuyển dịch ngân sách từ những người nổi tiếng lớn sang những người nổi tiếng nhỏ hơn, đây không chỉ là để tiết kiệm tiền mà vì hiệu quả thực sự tốt hơn.
+
+Trên Instagram, nhóm Nano-influencer (1.000 - 10.000 followers) chiếm hơn 65% tổng số tài khoản người nổi tiếng, với tỷ lệ tương tác trung bình đạt 2,53%. Tỷ lệ tham gia của các Micro-influencer hoặc KOC (Key Opinion Consumer - Người tiêu dùng có sức ảnh hưởng) cao gấp 3 đến 5 lần so với các KOL lớn. Báo cáo về niềm tin quảng cáo của Nielsen cho thấy 88% người tiêu dùng toàn cầu tin tưởng nhất vào sự đề xuất từ những người quen — mà mối quan hệ giữa Nano-influencer và người theo dõi lại gần gũi nhất với khái niệm "người quen".
+
+Tại thị trường nhỏ như Đài Loan, hiệu ứng này càng được khuếch đại. Một người quản lý cộng đồng leo núi chỉ có 3.000 followers, độc giả của họ có thể chính là nhóm người mà bạn quen biết. Sức thuyết phục khi đề xuất một đôi giày leo núi vượt xa video đập hộp của một YouTuber triệu sub.
+
+Phía thương hiệu cũng đang điều chỉnh chiến lược. Mô hình cũ dựa vào một KOL lớn để "bán hàng một lần" đang được thay thế bằng mạng lưới ảnh hưởng đa tầng: tầng đỉnh dùng KOL lớn để tạo tiếng vang, tầng giữa dùng Micro-influencer để tạo uy tín (word-of-mouth), và tầng đáy dùng KOC bình thường để thúc đẩy chuyển đổi. 43% thương hiệu toàn cầu đã tập trung ngân sách vào hai phân khúc Nano và Micro. Tại Đài Loan, do thị trường nhỏ và các vòng kết nối khép kín, "chiến lược kim tự tháp" này thậm chí còn được thực hiện triệt để hơn.
+
+---
+
+## Podcast: Nền kinh tế âm thanh đến muộn nhưng tăng trưởng nhanh chóng
+
+Thị trường Podcast tại Đài Loan khởi đầu muộn nhưng có đường cong tăng trưởng rất dốc.
+
+Các nền tảng nghe chính là Spotify, Apple Podcast và KKBOX. Sự phân bổ địa lý cực kỳ tập trung: sáu đô thị lớn cộng với Tân Trúc và Chương Hóa chiếm gần 95% lượng nghe toàn quốc, riêng thành phố Đài Bắc đã chiếm gần 70%. Điều này phản ánh chân dung thính giả Podcast — chủ yếu là những người đi làm tại các khu đô thị và nhân viên văn phòng.
+
+Với tư cách là nền tảng lưu trữ Podcast lớn nhất Đài Loan, Firstory ghi nhận doanh thu giao dịch quảng cáo động tăng 70% mỗi năm, và tổng thu nhập của các nhà sáng tạo thông qua chia sẻ quảng cáo đã vượt 3,8 triệu Đài tệ. Các chương trình thu phí đăng ký cũng đang gia tăng, cung cấp nội dung độc quyền, phiên bản không quảng cáo hoặc quyền nghe trước. KKBOX hàng năm đều tổ chức bảng xếp hạng Podcast với các giải thưởng như Top 100 năm, Chương trình xuất sắc nhất, Người dẫn chương trình xuất sắc nhất, dần xây dựng nên một hệ thống công nhận chuyên nghiệp cho giới Podcast Đài Loan.
+
+Vị thế độc đáo của Podcast tại Đài Loan là "nơi trú ẩn của nội dung chuyên sâu". Khi YouTube và Instagram bị chi phối bởi video ngắn và thuật toán, Podcast trở thành nơi nhà sáng tạo có thể thực sự nói kỹ về một vấn đề. Các chương trình về kiến thức, thời sự và tài chính đặc biệt được ưa chuộng tại Đài Loan, phù hợp với thói quen tiêu dùng nội dung theo hướng "học hỏi được điều gì đó" của khán giả nơi đây.
+
+Nhiều YouTuber cũng coi Podcast là chiến trường thứ hai. Cùng một nội dung, phiên bản YouTube có thêm hình ảnh cắt ghép, còn phiên bản Podcast chỉ thuần âm thanh — một nội dung nhưng khai thác hai cách. Chiến lược "tái chế nội dung" này rất phổ biến tại Đài Loan vì nó giúp tối thiểu hóa chi phí sản xuất trên mỗi đơn vị nội dung.
+
+---
+
+## Diện mạo thực sự của con đường này
+
+Ghép tất cả những mảnh ghép trên lại, kinh tế nhà sáng tạo tại Đài Loan không phải là một ngành công nghiệp hào nhoáng. Nó giống như một cuộc chiến đa tuyến kéo dài.
+
+Một ngày điển hình của một nhà sáng tạo tầm trung: Buổi sáng đăng bài viết trên Threads để bắt kịp xu hướng; buổi trưa cắt ghép video YouTube quay từ hôm qua; buổi chiều tương tác với Instagram Stories và trả lời email của các nhãn hàng; buổi tối thu âm Podcast hoặc viết bài blog dài; trước khi ngủ kiểm tra dữ liệu chuyển đổi trên hệ thống tiếp thị liên kết. Mỗi nền tảng có thuật toán, định dạng nội dung và thói quen khán giả khác nhau, nhưng tất cả đều phải được chăm sóc.
+
+Cấu trúc thu nhập cũng rất phân mảnh. Chia sẻ quảng cáo YouTube chiếm một phần nhỏ, quảng cáo thương hiệu từ ba bốn nhãn hàng chiếm phần lớn, tiếp thị liên kết mang lại thu nhập thụ động, và đôi khi là nhận một đợt mua chung hoặc khóa học trực tuyến. Dữ liệu từ PressPlay cho thấy những nhà sáng tạo có nguồn thu đa dạng có tốc độ tăng trưởng thu nhập trung bình cao hơn 40%.
+
+Theo khảo sát của Rakuten Insight năm 2023, khoảng 75% người được hỏi tại Đài Loan theo dõi ít nhất một người nổi tiếng trên mạng xã hội, trong đó hơn một nửa cho biết họ từng mua sản phẩm do người nổi tiếng đề xuất. Tỷ lệ chuyển đổi này nằm trong nhóm dẫn đầu khu vực châu Á - Thái Bình Dương. Người tiêu dùng Đài Loan có mức độ tin tưởng cao vào các đề xuất của nhà sáng tạo, nhưng tỷ lệ sẵn sàng trả tiền trực tiếp để ủng hộ họ lại thấp. Sự mâu thuẫn này chính là nguyên nhân gốc rễ của tình trạng "bán hàng mạnh, đăng ký yếu" trong nền kinh tế nhà sáng tạo tại Đài Loan.
+
+Một xu hướng đáng chú ý khác là sự chuyên nghiệp hóa (công ty hóa) của các nhà sáng tạo. Joeman đã thành lập Jiumei International Entertainment; PressPlay đang quản lý hơn 55 nhóm nhà sáng tạo (trong đó có 10 YouTuber triệu sub), với tổng lượt xem YouTube của các nhà sáng tạo dưới trướng đạt hơn 5,7 tỷ lần vào năm 2024. Khi một cá nhân tiến hóa thành thương hiệu, và thương hiệu tiến hóa thành công ty, từ "người nổi tiếng" đã không còn đủ để mô tả họ nữa.
+
+Quy mô kinh tế nhà sáng tạo của Đài Loan sẽ không thể đuổi kịp Hoa Kỳ, đây là giới hạn do dân số và ngôn ngữ quyết định. Nhưng thị trường này đã nuôi dưỡng nên một bộ kỹ năng sinh tồn độc đáo: sự kết hợp đa dạng các nguồn thu, sự phụ thuộc sâu sắc vào tiếp thị liên kết, việc vận dụng chính xác tầm ảnh hưởng siêu nhỏ, và khả năng thực thi tốc độ cao giữa các nền tảng phân mảnh. Một thị trường của 23 triệu dân đã ép ra được những nhà sáng tạo linh hoạt nhất thế giới.
 
 ---
 
 ## Tài liệu tham khảo
 
-1. [Statista — Dự báo thị trường quảng cáo của các nhà sáng tạo nội dung tại Đài Loan](https://www.statista.com/outlook/dmo/digital-advertising/influencer-advertising/taiwan)：Dự báo quy mô thị trường quảng cáo của các nhà sáng tạo nội dung tại Đài Loan (khoảng 214 triệu USD vào năm 2024), tốc độ tăng trưởng hằng năm 8,17%
-2. [Thế Giới Đời Sống — Mẹ bỉm khoản một vòng mua sắm phá mấy triệu! Bốn bước biến ảnh hưởng thành doanh thu của PressPlay](https://www.cw.com.tw/article/5127947)：Mô hình kinh tế và doanh thu của các nhà sáng tạo dưới thương hiệu PressPlay
-3. [INSIDE — Phân tích đội ngũ Joeman: Từ kỹ sư Micro-Star đến YouTuber triệu người theo dõi](https://www.inside.com.tw/article/21273-joeman-youtuber-team)：Chi phí vận hành, cấu trúc đội ngũ và mô hình kinh tế của kênh Joeman
-4. [Firstory — Báo cáo xu hướng Podcast năm 2025](https://firstory.substack.com/p/echo-572025-podcast-podcast)：Dữ liệu nghe Podcast tại Đài Loan, doanh thu đăng ký và tăng trưởng chia sẻ quảng cáo
-5. [FIRST LINE — Biến động bản đồ mạng xã hội tại Đài Loan năm 2025](https://blog.firstline.cc/taiwan-2025-social-media-landscape/)：Tỷ lệ sử dụng LINE, IG, Facebook, Threads... và sự chênh lệch thế hệ
-6. [Kolr Radar — Những yếu tố then chốt cho chiến lược marketing của thương hiệu năm 2026](https://www.kolr.ai/trend-sharing/2026-influencer-marketing-trend/)：Xu hướng nano và micro KOL, phân bổ ngân sách của thương hiệu
-7. [Nhiệt độ mạng — Sự nổi lên và thất bại của các ảo sáng: 10 năm thay đổi](https://dailyview.tw/popular/detail/26567)：Hành trình tăng trưởng của các YouTuber triệu người theo dõi tại Đài Loan từ 1 lên tới 160
-8. [PRO360 — Bảng giá hợp tác YouTuber năm 2026](https://www.pro360.com.tw/price/youtube_advertorial)：Mức phí hợp tác của các cấp KOL khác nhau
-9. [Influencer Marketing Hub — Báo cáo chuẩn năm 2026](https://influencermarketinghub.com/influencer-marketing-benchmark-report/)：Thị trường marketing qua ảo sáng toàn cầu vượt 33 tỷ USD, xu hướng ngân sách của thương hiệu
+1. [Statista — Thị trường quảng cáo người nổi tiếng tại Đài Loan](https://www.statista.com/outlook/dmo/digital-advertising/influencer-advertising/taiwan): Dự báo quy mô thị trường quảng cáo người nổi tiếng Đài Loan (khoảng 214 triệu USD năm 2024), tốc độ tăng trưởng kép hàng năm là 8,17%
+2. [Magazine CommonWealth — Một đợt mua chung của blogger nội trợ đạt doanh số hàng chục triệu! 4 bước biến tầm ảnh hưởng của PressPlay thành tiền](https://www.cw.com.tw/article/5127947): Dữ liệu về mô hình kinh doanh và doanh số mua chung của các nhà sáng tạo thuộc PressPlay
+3. [INSIDE — Phân tích toàn diện đội ngũ Joeman: Từ kỹ sư MSI đến YouTuber triệu sub](https://www.inside.com.tw/article/21273-joeman-youtuber-team): Chi phí vận hành kênh, cơ cấu đội ngũ và mô hình kinh doanh của Joeman
+4. [Firstory — Báo cáo xu hướng Podcast năm 2025](https://firstory.substack.com/p/echo-572025-podcast-podcast): Dữ liệu lắng nghe thị trường Podcast Đài Loan, số tiền đăng ký và tăng trưởng chia sẻ quảng cáo
+5. [FIRST LINE — Sự thay đổi bản đồ mạng xã hội Đài Loan năm 2025](https://blog.firstline.cc/taiwan-2025-social-media-landscape/): Tỷ lệ sử dụng và sự khác biệt thế hệ giữa các nền tảng LINE, Instagram, Facebook, Threads tại Đài Loan
+6. [Kolr Influencer Radar — Điểm mấu chốt trong marketing thương hiệu năm 2026](https://www.kolr.ai/trend-sharing/2026-influencer-marketing-trend/): Xu hướng Nano và Micro-influencer, sự chuyển dịch ngân sách thương hiệu
+7. [DailyView — Sự trỗi dậy và sụp đổ của người nổi tiếng: 10 năm thay đổi của Internet](https://dailyview.tw/popular/detail/26567): Hành trình từ 1 lên 160 YouTuber triệu sub tại Đài Loan
+8. [PRO360 — Bảng giá quảng cáo YouTuber năm 2026](https://www.pro360.com.tw/price/youtube_advertorial): Mức giá quảng cáo cho các cấp độ KOL khác nhau
+9. [Influencer Marketing Hub — Benchmark Report 2026](https://influencermarketinghub.com/influencer-marketing-benchmark-report/): Quy mô thị trường tiếp thị người nổi thành toàn cầu vượt 33 tỷ USD, xu hướng ngân sách thương hiệu
 
 ---
 
 ## Đọc thêm
 
-- [Chương trình Mentorship AAMA Taipei](/vi/economy/aama-taipei-cradle-program)：Chương trình đào tạo hai năm một-một không đầu tư, không cổ phần, trong đó cựu sinh bao gồm người sáng lập nền tảng kinh tế sáng tạo Portaly — Lin Chih-wei, là một mạng lưới hỗ trợ khác của nền kinh tế sáng tạo tại Đài Loan
-- [Chương trình Khởi nghiệp Sáng tạo SLP Taipei](/vi/economy/slp-taipei-startup-leadership-program)：Chương trình đào tạo khởi nghiệp sáu tháng, trong đó đặc điểm cá nhân chiếm 50% quyền lựa lựa chọn, phản ánh logic "cá nhân trước công ty" của nền kinh tế sáng tạo
+- [AAMA Taipei Cradle Program](/vi/economy/aama-taipei-cradle-program): Chương trình cố vấn 1-1 trong hai năm không đầu tư, không chiếm cổ phần; cựu học viên bao gồm Lin Chi-wei (Lin Qi-wei), người sáng lập nền tảng kinh doanh nhà sáng tạo Portaly, là một mạng lưới hỗ trợ kiểu Đài Loan khác đứng sau kinh tế nhà sáng tạo.
+- [SLP Taipei Entrepreneurship Leadership Program](/vi/economy/slp-taipei-startup-leadership-program): Chương trình đào tạo khởi nghiệp 6 tháng với trọng số đặc điểm cá nhân chiếm một nửa tiêu chí tuyển chọn, tương ứng với logic "cá nhân đi trước công ty" của kinh tế nhà sáng tạo.

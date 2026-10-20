@@ -1,13 +1,13 @@
 ---
 title: 'Empresa de Taiwan: Chunghwa Telecom'
-description: 'A maior operadora de telecomunicações de Taiwan, do monopólio estatal ao líder da transformação digital'
+description: 'Reestruturada a partir da Direção Geral de Telecomunicações do Ministério dos Transportes, fundada em 1996 e privatizada em 2005, é a maior operadora de telecomunicações de Taiwan. Em 2024, registrou uma receita de NT$ 230,03 bilhões, valor de mercado de quase um trilhão de NT$ e cerca de 30.000 funcionários. Possui mais de 90% de participação no mercado de telefonia fixa e lidera o país com aproximadamente 12 milhões de usuários móveis; nos últimos anos, a líder do setor tem se voltado ativamente para três novos segmentos: nuvem, IDC (Data Center) e segurança cibernética, com crescimento anual superior a 50%, sendo uma infraestrutura fundamental que sustenta a resiliência digital de Taiwan.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
-    'Empresas',
-    'Telecomunicações',
+    'Economia',
+    'Empresa',
+    'Setor de Telecomunicações',
     'Transformação Digital',
     'Privatização de Empresas Estatais',
   ]
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4a4d66620'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
-translatedAt: '2026-08-04T06:39:01.170056+00:00'
+translatedAt: '2026-10-15T21:05:21.604482+00:00'
 ---
 
 > **Visão geral em 30 segundos**

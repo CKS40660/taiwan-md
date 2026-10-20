@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14701,
+  "totalArticles": 14859,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8977,
+  "totalTags": 8949,
   "categories": [
     {
       "name": "vi",
-      "count": 1130
+      "count": 1143
     },
     {
       "name": "es",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "ko",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "hi",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "fr",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "en",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "ja",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "de",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "ru",
-      "count": 1130
+      "count": 1143
     },
     {
       "name": "Technology",
@@ -46,27 +46,27 @@
     },
     {
       "name": "History",
-      "count": 87
+      "count": 89
     },
     {
       "name": "id",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "ar",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "pt",
-      "count": 1131
+      "count": 1143
     },
     {
       "name": "Politics",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Society",
-      "count": 118
+      "count": 120
     },
     {
       "name": "Food",
@@ -82,11 +82,11 @@
     },
     {
       "name": "People",
-      "count": 293
+      "count": 295
     },
     {
       "name": "Culture",
-      "count": 114
+      "count": 115
     },
     {
       "name": "Geography",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Economy",
-      "count": 79
+      "count": 80
     },
     {
       "name": "Nature",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Art",
-      "count": 48
+      "count": 51
     },
     {
       "name": "resources",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 67
+      "count": 61
     },
     {
       "name": "人物",
@@ -124,18 +124,18 @@
     },
     {
       "name": "企業",
-      "count": 55
+      "count": 53
     },
     {
       "name": "YouTuber",
       "count": 48
     },
     {
-      "name": "科技與企業",
+      "name": "ODM",
       "count": 36
     },
     {
-      "name": "ODM",
+      "name": "科技與企業",
       "count": 33
     },
     {
@@ -157,6 +157,10 @@
     {
       "name": "AI",
       "count": 26
+    },
+    {
+      "name": "原住民",
+      "count": 25
     },
     {
       "name": "飲食文化",
@@ -183,41 +187,37 @@
       "count": 24
     },
     {
-      "name": "原住民",
-      "count": 23
-    },
-    {
       "name": "音樂",
       "count": 23
     },
     {
-      "name": "客家",
-      "count": 23
+      "name": "奧運",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14701,
+    "zh-TW": 14859,
     "en": 0
   },
-  "lastUpdated": "2026-10-13T22:06:14.919Z",
-  "stars": 1210,
+  "lastUpdated": "2026-10-19T22:06:11.420Z",
+  "stars": 1218,
   "forks": 187,
-  "zhPages": 1129,
+  "zhPages": 1141,
   "languagePages": {
-    "zh-TW": 1129,
-    "en": 1131,
-    "ja": 1131,
-    "ko": 1131,
-    "es": 1131,
-    "fr": 1131,
-    "vi": 1130,
-    "id": 1131,
-    "pt": 1131,
-    "hi": 1131,
-    "ar": 1131,
-    "ru": 1130,
-    "de": 1131
+    "zh-TW": 1141,
+    "en": 1143,
+    "ja": 1143,
+    "ko": 1143,
+    "es": 1143,
+    "fr": 1143,
+    "vi": 1143,
+    "id": 1143,
+    "pt": 1143,
+    "hi": 1143,
+    "ar": 1143,
+    "ru": 1143,
+    "de": 1143
   },
-  "enPages": 1131,
-  "totalPages": 1129
+  "enPages": 1143,
+  "totalPages": 1141
 }

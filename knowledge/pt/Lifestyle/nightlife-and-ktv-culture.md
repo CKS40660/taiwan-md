@@ -1,19 +1,19 @@
 ---
-title: 'Vida noturna e cultura KTV'
-description: 'Das salas VIP de dinheiro até os restaurantes noturnos, uma ilha que não para de brilhar 24 horas'
+title: 'Vida Noturna e Cultura KTV'
+description: 'O KTV em salas privativas surgiu na década de 1990, com marcas como Cashbox, Holiday e Star Cine expandindo-se por todo o país. Com mais de 100 mil músicas e opções que vão desde luxuosas suítes presidenciais até salas econômicas e divertidas, o KTV tornou-se a principal escolha para entretenimento e reuniões sociais. No entanto, tragédias como o incêndio no Myth World KTV em 1992, que deixou 16 mortos, e o incêndio na unidade Cashbox de Linsen em 2020, com 6 vítimas, forçaram a sociedade a encarar seriamente a segurança de evacuação das salas privativas. A competição entre as grandes marcas e as reformas de segurança entrelaçam-se para formar a vida noturna da ilha.'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['Vida', 'Vida noturna', 'KTV', 'Restaurantes noturnos', 'Taiwan']
+tags: ['estilo de vida', 'vida noturna', 'KTV', 'gastronomia noturna', 'Taiwan']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-19T11:59:08+08:00'
+translatedAt: '2026-10-15T20:48:17.916110+00:00'
 ---
 
 # Vida noturna e cultura KTV

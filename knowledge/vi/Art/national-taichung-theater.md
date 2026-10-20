@@ -23,9 +23,9 @@ curation: 'incubating'
 readingTime: 25
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-29_National_Taichung_Theater.jpg'
 translatedFrom: 'Art/台中國家歌劇院.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f4906969467717b0'
-sourceBodyHash: 'sha256:672a8871e0fcfa50'
+sourceCommitSha: 'af787aed'
+sourceContentHash: 'sha256:a25bf1fc731da114'
+sourceBodyHash: 'sha256:25800b112b14f272'
 translatedAt: '2026-09-08T15:54:44+08:00'
 ---
 
@@ -95,8 +95,7 @@ Ngoài ba không gian trong nhà này, nhà hát còn bao gồm nhà hát ngoài
 Chúng tôi tổng hợp các mức giảm giá vé thành viên chính như sau, cho thấy cách nhà hát khuyến khích khán giả tham gia sâu sắc thông qua ưu đãi phân cấp:
 
 ```tw-bars
-title: Bảng so sánh giảm giá vé của các loại thành viên (Chương trình chủ đạo)
-axis: Tỷ lệ giảm (%)
+Thành viên hạng cao nhất chỉ trả 75% giá niêm yết, khán giả thường trả đủ (chương trình chủ đạo, % giá niêm yết)
 *Thành viên Vong Ngã | 75
 *Thẻ Overture | 80
 *Thẻ Công dân NTT | 80

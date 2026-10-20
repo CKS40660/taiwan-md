@@ -1,15 +1,15 @@
 ---
-title: 'Tsai Ming-liang: O Poeta do Cinema Lento'
-description: 'Vencedor do Leão de Ouro de Veneza, descendente de malaio e mestre da estética do cinema lento'
+title: 'Tsai Ming-liang'
+description: 'Diretor nascido em Sarawak, Malásia, em 1957, que se mudou para Taiwan em 1977 para estudar teatro. Estabeleceu seu estilo pessoal com "Rebels of the Neon God" em 1992 e, com "Vive L''Amour" em 1994, tornou-se o terceiro diretor de origem chinesa a vencer o Leão de Ouro em Veneza, após Hou Hsiao-hsien e Zhang Yimou. Através de planos longos, diálogos escassos e um ritmo lento, ele retrata a solidão e o isolamento dos habitantes urbanos, desenvolvendo uma estética única de "slow cinema" que vai de "Vive L''Amour" até a série "Walker".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Diretor',
     'Tsai Ming-liang',
-    'cinema lento',
+    'Slow Cinema',
     'Festival de Veneza',
-    'descendente de malaio',
+    'Chinês da Malásia',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:59+08:00'
+translatedAt: '2026-10-15T23:00:40.682749+00:00'
 ---
 
 # Tsai Ming-liang: O Poeta do Cinema Lento

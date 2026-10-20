@@ -23,9 +23,9 @@ curation: 'incubating'
 readingTime: 25
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-29_National_Taichung_Theater.jpg'
 translatedFrom: 'Art/台中國家歌劇院.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f4906969467717b0'
-sourceBodyHash: 'sha256:672a8871e0fcfa50'
+sourceCommitSha: 'af787aed'
+sourceContentHash: 'sha256:a25bf1fc731da114'
+sourceBodyHash: 'sha256:25800b112b14f272'
 translatedAt: '2026-09-08T00:42:49+08:00'
 ---
 
@@ -95,8 +95,7 @@ Para promover el acceso cultural equitativo y construir una comunidad de apoyo a
 Resumimos los principales descuentos de membresía para la compra de entradas, mostrando cómo el teatro utiliza descuentos escalonados para incentivar la participación profunda del público:
 
 ```tw-bars
-title: Comparación de descuentos de membresía del teatro (programas organizados)
-axis: Tasa de descuento (%)
+Los miembros del nivel más alto pagan el 75% del precio de lista; el público general, el precio completo (programas organizados, % del precio de lista)
 *Miembros Olvidados | 75
 *Tarjeta Preludio | 80
 *Tarjeta Ciudadana NTT | 80
@@ -110,13 +109,13 @@ Fuente: Sitio web oficial del Teatro Nacional, 2026
 
 El teatro ha establecido diversas categorías de membresía para diferentes grupos, con beneficios clave como los siguientes:
 
-| Categoría de membresía    | Condiciones de solicitud / tarifa anual       | Beneficios clave                                                               | Devolución en centros comerciales                                                |
-| :------------------------ | :-------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| **Tarjeta Preludio**      | Público general / solicitud en línea          | **20% de descuento** en programas organizados, derecho prioritario a la compra | 10% de descuento en centros comerciales asociados, puntos acumulables duplicados |
-| **Tarjeta Ciudadana NTT** | Residentes registrados en Taichung / 200 yuan | Disfrutar de **20% de descuento**, devolución a residentes locales             | 10% de descuento en alimentos y productos culturales                             |
-| **Tarjeta del Teatro**    | Público general / 350 yuan                    | Disfrutar de **10% de descuento**, elegibilidad de mejora al renovar           | Regalos exclusivos de cumpleaños, 10% de descuento en centros comerciales        |
-| **Miembros Olvidados**    | Defensores culturales profundos               | Disfrutar de **25% de descuento** y prioridad máxima                           | Sala VIP exclusiva, asientos prioritarios reservados                             |
-| **Miembros Jóvenes U23**  | Jóvenes menores de 23 años, entrada gratuita  | Precios especiales para jóvenes                                                | Fomentar que las nuevas generaciones entren al teatro                            |
+| Categoría de membresía    | Condiciones de solicitud / tarifa anual      | Beneficios clave                                                               | Devolución en centros comerciales                                                |
+| :------------------------ | :------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| **Tarjeta Preludio**      | Público general / solicitud en línea         | **20% de descuento** en programas organizados, derecho prioritario a la compra | 10% de descuento en centros comerciales asociados, puntos acumulables duplicados |
+| **Tarjeta Ciudadana NTT** | Residentes registrados en Taichung / NT$200  | Disfrutar de **20% de descuento**, devolución a residentes locales             | 10% de descuento en alimentos y productos culturales                             |
+| **Tarjeta del Teatro**    | Público general / NT$350                     | Disfrutar de **10% de descuento**, elegibilidad de mejora al renovar           | Regalos exclusivos de cumpleaños, 10% de descuento en centros comerciales        |
+| **Miembros Olvidados**    | Defensores culturales profundos              | Disfrutar de **25% de descuento** y prioridad máxima                           | Sala VIP exclusiva, asientos prioritarios reservados                             |
+| **Miembros Jóvenes U23**  | Jóvenes menores de 23 años, entrada gratuita | Precios especiales para jóvenes                                                | Fomentar que las nuevas generaciones entren al teatro                            |
 
 Además de las tarjetas de membresía exclusivas, el Teatro Nacional de Taichung también implementa completamente las políticas legales y de equidad cultural en sus programas organizados. Personas con discapacidades y sus acompañantes necesarios pueden obtener un **50% de descuento** al comprar entradas, y regularmente se organizan zonas de asientos gratuitos para personas con discapacidad disponibles para ser solicitadas en línea. Además, para fechas populares (como "Las tres hermanas advirtiendo"), se suelen lanzar códigos de descuento exclusivos para residentes de Taichung (como 15% de descuento), reduciendo significativamente la barrera para que el público acceda a representaciones artísticas de alta calidad.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cultura de sobremesas geladas de Taiwan'
-description: 'Do gelo de manga de Yujing à revolução do gelo de neve, explore a cultura única dos taiwaneses de comer gelo até no inverno'
+description: 'O amor dos taiwaneses por sobremesas geladas é raro no mundo, com lojas lotadas mesmo no inverno; esta cultura remonta à era colonial japonesa com a introdução da tecnologia de fabricação de gelo, passando pela popularização do gelo raspado após a guerra e o surgimento do gelo de neve nas décadas posteriores, Chen Xi de Taichung desenvolveu o gelo de feijão doce inspirado no shigōri japonês, o gelo de manga de Yujing ganhou fama internacional, chegando a impulsionar a indústria de pesca com refrigeração e fabricação de gelo, sendo uma história evolutiva com marcos temporais concretos e rastreáveis.'
 date: 2026-03-19
 category: 'Food'
 tags:
@@ -17,15 +17,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Gelo de manga de Taipé'
+imageAlt: 'Gelo de manga de Taipei'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T14:59:32+08:00'
+translatedAt: '2026-10-15T20:34:29.457181+00:00'
 ---
 
 # Cultura de sobremesas geladas de Taiwan

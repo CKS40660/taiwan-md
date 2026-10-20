@@ -1,19 +1,18 @@
 ---
-title: 'Seeing Taiwan — Historical Impressions of the Island'
-description: 'How different eras and peoples have seen this island, from the Age of Exploration to the contemporary period'
+title: 'Seeing Taiwan — Historical Impressions of Taiwan'
+description: 'From the Age of Exploration to the present day, various ethnic groups have gazed upon this island in different ways: the Atayal believe ancestral spirits left marks on the land, that mountains and rivers are the bodies of ancestors, calling themselves children of the earth; the Amis use the imagery of taking root to express their connection to the land. This collection of quotations compiles legends and island memories passed down through generations, weaving together multiple perspectives of seeing.'
 date: 2026-03-17
 tags: ['quotes', 'history', 'literature', 'culture']
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
-translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0a'
-sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
-sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-05-25T21:06:51Z'
-category: About
 lastVerified: 2026-03-19
 lastHumanReview: true
+translatedFrom: 'About/看見台灣引言集.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
+sourceBodyHash: 'sha256:0d8842cfba541dc2'
+translatedAt: '2026-10-15T21:32:17.877350+00:00'
 ---
 
 # Seeing Taiwan — Historical Impressions of the Island

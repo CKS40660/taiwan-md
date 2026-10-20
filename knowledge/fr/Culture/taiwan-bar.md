@@ -21,25 +21,26 @@ lastHumanReview: false
 readingTime: 25
 curation: 'incubating'
 translatedFrom: 'Culture/台灣吧.md'
-sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:ea660a4477ab8648'
-sourceBodyHash: 'sha256:ab22f8e268664ba4'
-translatedAt: '2026-08-04T18:03:12+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:6a706e4e63244fc1'
+sourceBodyHash: 'sha256:6123bc66f3f63048'
+translatedAt: '2026-10-15T04:23:36.147958+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
 > Taiwan Bar est le pionnier de la « médiation des connaissances » à Taïlamwan. Fondée en 2014 par Hsieh Cheng-hao, Hsiao Yu-chen et d'autres, sa première œuvre, _L'histoire animée de Taïwan_, a atteint le million de vues en un mois, transformant avec succès une histoire aride en une propriété intellectuelle (IP) populaire. Cependant, derrière ce contenu de haute qualité se cachent de lourdes pressions financières ; l'entreprise a connu une période de dette s'élevant à vingt millions de dollars taïwanais. Cette expérience de dix ans a finalement conduit à une transformation stratégique, passant d'une « société de production audiovisuelle » à une « marque d'éducation numérique », et tente, via _Beelu joue à Taïwan_ et la « Great Catch Academy », de devenir un phare de l'éducation numérique en Asie.
 
-## L'ouverture de l'histoire : passion et anxiété derrière le son « Deng ! »
+## Ouverture historique : la passion et l'anxiété derrière ce « son d'attente »
 
-Le 1er septembre 2014, dans un bureau de Taipei, quatre jeunes gens d'une moyenne d'âge inférieure à 30 ans fixaient avec impatience la barre de progression du téléchargement sur YouTube. Il s'agissait d'un film d'animation intitulé « Vendre de l'opium pour s'enrichir ? La politique de l'opium sous l'occupation japonaise ». Lorsque le son emblématique « Deng ! » retentit à la fin de la vidéo, ils ne s'attendaient pas à ce que cet ours noir de Taïwan, nommé Beelu (黑啤), déferle sur tout le pays au cours du mois suivant, créant un miracle de plus d'un million de vues [^1].
+Le 1er septembre 2014, dans un bureau de Taipei, quatre jeunes de moins de 30 ans en moyenne retenaient leur souffle en fixant la barre de progression de téléchargement sur YouTube. Il s'agissait d'une vidéo d'animation intitulée « Gagner gros en vendant de l'opium ? La politique de l'opium à l'époque de la colonisation japonaise ». Lorsque retentit à la fin de la vidéo cet effet sonore emblématique de « son d'attente », ils ne s'attendaient pas à ce que cet ours noir de Taïwan nommé « Beilu » (Beelu) déferle sur toute l'île au cours du mois suivant, réalisant le miracle de plus d'un million de vues [^1].
 
-L'équipe fondatrice de l'époque — Hsieh Cheng-hao (DJ Hauer), Hsiao Yu-chen, Chang Chia-chia et Lin Chen — apportait chacun son expertise en production musicale, enseignement de l'histoire, design visuel et création vidéo, pour tenter de répondre à une question centrale : **« Pourquoi les Taïwanais sont-ils si indifférents à leur propre histoire ? »** Leur réponse fut : **Parce que nous manquons d'un support qui « donne envie de continuer à regarder »**.
+L'équipe fondatrice de l'époque — Hsieh Cheng-hao (DJ Hauer), Hsiao Yu-chen, Chang Chia-chia et Lin Chen — apportait chacun son expertise en production musicale, enseignement de l'histoire, design visuel et création vidéo, pour tenter de répondre à une question centrale : **« Pourquoi les Taïwanais sont-ils si indifférents à leur propre histoire ? »** Leur réponse fut : **parce que nous manquons d'un support « qui donne envie de continuer à regarder »**.
 
 ```tw-stat
-10 00 000 | Vues mensuelles du 1er épisode de 《L'histoire animée de Taïwan》 | 2014
-4 | Membres de l'équipe fondatrice | Hsieh Cheng-hao, Hsiao Yu-chen, Chang Chia-chia, Lin Chen
-3 000 000 | Coût de production du documentaire *Découvrir l'Asie* | 2022
+1 million | Vues mensuelles du premier épisode de « Histoire animée de Taïwan » | 2014
+4 personnes | Membres de l'équipe fondatrice | Hsieh Cheng-hao, Hsiao Yu-chen, Chang Chia-chia, Lin Chen
+3 millions | Coût de production par épisode du documentaire « Déballage de l'Asie » | 2022
+Source : équipe fondatrice citée dans cet article, records de vues du premier épisode de « Histoire animée de Taïwan » et reportages sur les coûts de production des documentaires ultérieurs[^1][^2]
 ```
 
 ## Analyse approfondie de l'univers IP : métaphore culturelle des espèces endémiques de Taïwan et de l'organisation « Bi-xia »
@@ -60,19 +61,20 @@ Ces personnages ne sont pas créés uniquement pour le merchandising, ils porten
 
 📝 **Note du commissaire :** La gestion de l'IP de Taiwan Bar est une expérience de « symbiose sémantique » : les personnages sont des réceptacles contenant des connaissances denses qui seraient normalement filtrées par le grand public.
 
-## Stratégie de divergence des fondateurs : de « Taiwan Bar » à « STR Network », une évolution complémentaire
+## La stratégie de divergence des fondateurs : de « Taiwan Bar » à « STR Network », une évolution complémentaire
 
-Dans la courbe de croissance de Taiwan Bar, l'année 2018 a été un point de bascule crucial. Les fondateurs Hsieh Cheng-hao (DJ Hauer) et Hsiao Yu-chen ont opéré une divergence stratégique dans leurs domaines de contenu.
+Dans la courbe de croissance de Taiwan Bar, 2018 marque un tournant clé. Les fondateurs Hsieh Cheng-hao (DJ Hauer) et Hsiao Yu-chen ont opéré une division stratégique sur le segment des contenus.
 
-En 2018, Hsieh Cheng-hao a fondé « STR Network » (薩泰爾娛樂), transformant sa passion pour la comédie et la satire politique en émissions phénoménales telles que _Bonne Nuit, Born_ (博恩夜夜秀) et _Yan Shang_ (炎上) [^4]. Sa logique est celle du « trafic d'abord », tentant de bousculer les limites de la liberté d'expression à Taïwan via un modèle commercial extrême.
+En 2018, Hsieh Cheng-hao a fondé « STR Network » (薩泰爾娛樂), transformant sa passion pour la comédie et la satire politique en émissions phares telles que 《博恩夜夜秀》 et 《炎上》 [^4]. Sa logique était « le trafic d'abord », cherchant à bousculer les frontières du discours à Taïwan par un modèle commercial extrême.
 
-De son côté, Hsiao Yu-chen a choisi de prendre la direction de Taiwan Bar pour se concentrer sur « l'approfondissement éducatif ». Cette divergence n'était pas due à un désaccord idéologique, mais à une optimisation de l'allocation des ressources : **Hsieh Cheng-hao s'occupe d'élargir le marché du divertissement, tandis que Hsiao Yu-chen s'occupe de consolider la profondeur du contenu éducatif**.
+De son côté, Hsiao Yu-chen a choisi de prendre la direction générale de Taiwan Bar, s'orientant vers « l'approfondissement de l'éducation ». Cette division ne relève pas d'un désaccord idéologique, mais d'une optimisation de l'allocation des ressources : **Hsieh Cheng-hao est chargé d'élargir le marché du divertissement, tandis que Hsiao Yu-chen consolide la profondeur du contenu éducatif**.
 
 ```tw-versus
-STR Network (薩泰爾娛樂) | Taiwan Bar (台灣吧)
+STR Network | Taiwan Bar
 Piloté par le trafic (Traffic-Driven) | Piloté par la valeur (Value-Driven)
-Satire politique, shows comiques, billetterie en direct | Cours de culture numérique, matériel pour le programme 108, albums illustrés
-Œuvres majeures : 《Bonne Nuit, Born》, 《Yan Shang》 | Œuvres majeures : 《L'histoire animée de Ta</strong>Taiwan》, 《Beelu joue à Taïwan》
+Satire politique, spectacles comiques, billetterie en direct | Cours de littératie en ligne, matériel pédagogique du programme 108, albums illustrés
+Œuvres représentatives : 《博恩夜夜秀》、《炎上》 | Œuvres représentatives : 《動畫臺灣史》、《小黑啤玩臺灣》
+Source : reportages cités dans cet article sur la fondation de STR Network et le virage éducatif de Taiwan Bar [^2][^4]
 ```
 
 ## La leçon des vingt millions de dettes : une trajectoire périlleuse de la production audiovisuelle vers la transformation éducative

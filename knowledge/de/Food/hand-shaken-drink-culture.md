@@ -1,16 +1,16 @@
 ---
-title: 'Die Bubble-Tea-Kultur Taiwans'
-description: 'Vom Perlenmilchtee zum Gourmet-Tee: Der Aufstieg und die globale Expansion der taiwanesischen Bubble-Tea-Kultur'
+title: 'Die taiwanische Bubble-Tea-Kultur'
+description: 'Seit der Entstehung des Perlenmilchtees in den 1980er Jahren hat sich das handgemachte Teegetränk zum repräsentativsten Lebenssymbol dieser Insel entwickelt: von 50 Lan an der Straßenecke über Gong Cha in den Geschäftsvierteln und das traditionelle Chun Shui Tang bis hin zum modernen Mister চা. Überall sind farbenfrohe Schilder zu sehen. Mit kreativen Teegetränken wird der globale Markt erschlossen, was das Streben der Taiwaner nach Lebensqualität, ihre Leidenschaft für Innovationen und ihre gemeinsamen Erinnerungen widerspiegelt.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
     'Gastronomie',
     'Bubble Tea',
-    'Pearl Milk Tea',
+    'Perlenmilchtee',
     'Teegetränke',
-    'kultureller Export',
-    'Markeninternationalisierung',
+    'Kultureller Export',
+    'Internationalisierung von Marken',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:57+08:00'
+translatedAt: '2026-10-15T20:06:15.503840+00:00'
 ---
 
 # Die Bubble-Tea-Kultur Taiwans

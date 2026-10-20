@@ -1,14 +1,14 @@
 ---
-title: 'Die Entwicklung der Softwareindustrie in Taiwan'
-description: 'Vom Fertigungsdenken zur Softwareinnovation: Wie Taiwan sich im Halbleiterzeitalter neu positioniert hat'
+title: 'Entwicklung der taiwanesischen Softwareindustrie'
+description: 'Im Zeitalter der digitalen Wirtschaft wird der Mehrwert reiner Hardware-Produktion zunehmend unter Druck gesetzt; Software und Dienstleistungen werden zu den eigentlichen Wertschöpfern. Laut Daten des Statistikamtes des Wirtschaftsministeriums belief sich der Jahresumsatz im Bereich Computer- und Informationsdienstleistungen im Jahr 2023 auf etwa NT$570 Milliarden, was einem Anstieg von 8,9 % entspricht und einen neuen Rekord darstellt. Von der digitalen Transformation über Software-Dienstleistungen und KI-Anwendungen bis hin zur Spieleindustrie – Taiwan muss sich von einer „großen Fertigungsnation“ zu einer „großen Innovationsnation“ wandeln, wobei die Softwareindustrie das entscheidende Schlachtfeld dieser Transformation ist.'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
     'Softwareindustrie',
-    'Informationstechnologie',
-    'digitale Transformation',
-    'Start-ups',
+    'Informationsdienstleistungen',
+    'Digitale Transformation',
+    'Startups',
   ]
 subcategory: '數位與網路'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: '3e08bf82b'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:ef6914cecff85dfb'
 sourceBodyHash: 'sha256:6cc55941dd179c34'
-translatedAt: '2026-10-03T02:34:19+08:00'
+translatedAt: '2026-10-15T20:32:09.429733+00:00'
 ---
 
 # Die Entwicklung der Softwareindustrie in Taiwan

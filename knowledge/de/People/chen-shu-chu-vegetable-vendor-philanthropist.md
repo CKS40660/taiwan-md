@@ -1,126 +1,126 @@
 ---
-title: 'Chen Shu-chu: Eine Gemüsehändlerin aus Taitung, die fünfzig Jahre lang ihre Einnahmen aus dem Gemüseverkauf für Millionen-Spenden zur Wohltätigkeit verwendete'
-description: 'Eine Gemüsehändlerin aus Taitung, die über fünfzig Jahre lang ihre Einnahmen aus dem Gemüseverkauf spendete — in einer Summe von mehreren Millionen — und dabei sagte: „Ich bin einfach eine Gemüsehändlerin."'
+title: 'Chen Shu-chu: Das Leben einer Gemüsehändlerin aus Taitung, die über fünfzig Jahre lang Millionen spendete'
+description: 'Geboren 1950, Gemüsehändlerin am Zentralmarkt von Taitung. Nach dem Tod ihrer Mutter bei einer schwierigen Geburt verließ sie mit 13 Jahren die Schule, um Gemüse zu verkaufen. Über fünf Jahrzehnte hinweg spendete sie Ersparnisse in Millionenhöhe an Schulen, Waisenhäuser und Krankenhäuser. 2010 wurde sie von TIME als eine der einflussreichsten Personen der Welt ausgezeichnet, empfohlen durch Regisseur Ang Lee.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Personen',
-    'Philanthropie',
+    'Wohltätigkeit',
     'Taitung',
     'Gemüsehändlerin',
     'TIME Magazine',
-    'Ramon Magsaysay Award',
+    'Maggsaysay-Award',
     'Bildungsspenden',
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-09T14:15:07+08:00'
+translatedAt: '2026-10-16T00:53:31+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Chen Shu-chu wurde 1950 geboren und ist eine Gemüsehändlerin am Zentralmarkt von Taitung. Mit 13 Jahren verließ sie die Schule, nachdem ihre Mutter starb, und verkaufte Gemüse, um ihre Geschwister zu versorgen. In den nächsten fünfzig Jahren spendete sie mehrere Millionen Yuan an Schulen, Waisenhäuser und Krankenhäuser. 2010 wurde sie auf die Liste der hundert einflussreichsten Menschen der Welt des TIME Magazine aufgenommen — Filmregisseur Lee An schrieb persönlich eine Empfehlung für sie. Als sie zur Preisverleihung nach New York kam, sagte sie: „Ich bin einfach eine Gemüsehändlerin." [^1]
+> **30-Sekunden-Überblick:** Chen Shu-chu (_Chen Shuju_ 陳樹菊), geboren 1950, ist eine Gemüsehändlerin am Zentralmarkt von Taitung. Nachdem sie mit 13 Jahren die Schule verlassen musste, um nach dem Tod ihrer Mutter bei einer schwierigen Geburt Gemüse zu verkaufen, spendete sie in den folgenden fünfzig Jahren kumuliert Zehntausende NT$ an Schulen, Waisenhäuser und Krankenhäuser. 2010 wurde sie von TIME als eine der hundert einflussreichsten Personen der Welt gelistet, mit einer Empfehlung durch den Regisseur Ang Lee. Bei ihrer Preisverleihung in New York sagte sie: „Ich bin einfach nur eine Gemüsehändlerin.“[^1]
 
-## Mutter starb auf dem Weg ins Krankenhaus
+## Der Tod der Mutter auf dem Weg ins Krankenhaus
 
-1963, Taitung. Chens Mutter war mit ihrem siebten Kind schwanger und bekam Geburtskomplikationen. Die Familie konnte die von der Klinik verlangte Kaution nicht aufbringen. Auf dem Weg ins Krankenhaus starben die Mutter und das ungeborene Kind. [^2]
+Im Jahr 1963 in Taitung: Die Mutter von Chen Shu-chu erwartete ihr siebtes Kind, doch es kam zu einer schwierigen Geburt. Da die Familie die vom Krankenhaus geforderte Kaution nicht aufbringen konnte, verstarben die Mutter und das ungeborene Kind auf dem Weg ins Krankenhaus.[^2]
 
-Chen Shu-chu war in diesem Jahr 13 Jahre alt und hatte gerade die Renai-Grundschule in Taitung abgeschlossen. Sie setzte ihre Ausbildung nicht fort, sondern übernahm den Gemüsestand ihrer Mutter auf dem Markt und begann, vier Brüder und zwei Schwestern zu versorgen. [^3] Ein paar Jahre zuvor war ihr elfjähriger Bruder krank geworden — auch hier fehlte das Geld für einen Arzt, und erst nachdem ein Schullehrer eine Spendensammlung startete, konnte die medizinische Behandlung bezahlt werden. [^4]
+Damals war Chen Shu-chu 13 Jahre alt und hatte gerade die Ren'ai-Grundschule in Taitung abgeschlossen. Sie setzte ihre Ausbildung nicht fort, übernahm den Gemüsestand ihrer Mutter auf dem Markt und begann, ihre vier Brüder und zwei Schwestern zu versorgen.[^3] Einige Jahre zuvor war ihr 11-jähriger Bruder erkrankt; auch damals fehlte das Geld für einen Arzt, und erst durch eine Spendenaktion von Lehrern konnten die medizinischen Kosten gedeckt werden.[^4]
 
-So arm, dass selbst ein Arztbesuch nur mit fremder Hilfe möglich war — diese Erinnerung sollte später alle ihre Spenden antreiben.
+Die Armut, so dass man auf die Hilfe anderer angewiesen war, um einen Arzt aufzusuchen – diese Erinnerung wurde später zum Antrieb für all ihre Spenden.
 
-## Die Mathematik auf dem Gemüsestand
+## Mathematik am Gemüsestand
 
-Chens Gemüsestand befand sich am Zentralmarkt von Taitung. Sie kam jeden Morgen um vier Uhr an — sie war die erste, die ankam, und die letzte, die ging. Um pünktlich aufzuwachen, schlief sie auf dem Boden. Sie hatte nur einen freien Tag pro Jahr. [^4]
+Chen Shu-chus Stand befindet sich am Zentralmarkt von Taitung. Jeden Tag beginnt ihre Arbeit um vier Uhr morgens; sie ist die Erste, die kommt, und die Letzte, die geht. Um pünktlich aufzustehen, schlief sie auf dem Boden. Sie macht nur einen einzigen freien Tag im Jahr.[^4]
 
-Der Stand war nicht groß, aber hatte einen guten Platz — als der Markt gegründet wurde, bekam ihre Familie durch eine Auslosung einen der besten Plätze. Sie entwickelte ein Geschäftsmodell: Sie lieferte Gemüse an die Militärbasis auf Grüner Insel, weil es von Taitung aus direkter und günstiger war als von anderen Orten aus. [^4] Dies sicherte ihren Einnahmen, aber sie blieb eine Gemüsehändlerin mit entsprechenden Verdienst.
+Der Stand ist klein, aber die Lage ist gut – bei der ursprünglichen Verlosung der Marktstände erhielt ihre Familie einen vorteilhaften Platz. Später entwickelte sie ein Geschäftsmodell: Sie belieferte die Garnison auf der Grünen Insel (_Lüdao_), da der direkte Transport aus Taitung günstiger war als der Transport von außerhalb.[^4] Dies sicherte ihr ein stabiles Einkommen, das jedoch dennoch dem eines einfachen Gemüsehändlers entsprach.
 
-Ihr Geld sparte sie sich zusammen, Gemüse um Gemüse, ohne schnelle Gewinne oder Abkürzungen. Sie gab fast nichts für sich selbst aus — kein Essen auswärts, keine neuen Kleider, sie wohnte in einem alten Haus in der Nähe des Marktes. Das Ersparte verwendete sie auf andere Weise.
+Ihr Geld sparte sie mühsam Stück für Stück an; es gab keine schnellen Gewinne oder Abkürzungen. Sie gab fast nichts für sich selbst aus – sie aß nicht auswärts, kaufte keine neue Kleidung und lebte in einem alten Haus in der Nähe des Marktes. Das Ersparte hatte sie für andere Zwecke.
 
-## Chronologie der Spenden
+## Chronik der Spenden
 
-1993 starben ihr Vater und ihr zweiter Bruder. Chen Shu-chu spendete 1 Million Yuan an die Fo Guang Universität (ehemals Fo Guang Academy). Das war das erste Mal, dass sie ihre Ersparnisse entnahm. [^5]
+1993 verstarben ihr Vater und ihr zweiter Bruder nacheinander. Chen Shu-chu spendete 1 Million NT$ an das Fo Guang Shan College (heute Fo Guang University). Dies war das erste Mal, dass sie ihre Ersparnisse ausgab.[^5]
 
-Ab 1996 begann sie, jedes Jahr 36.000 Yuan an das Anisy-Waisenhaus in Taitung zu spenden und unternahm damit die Unterstützung von drei Waisenkindern. Später spendete sie auch 1 Million Yuan an diese Institution. [^6]
+Ab 1996 begann sie, jährlich 36.000 NT$ an das Anisof-Kinderheim in Taitung zu spenden und übernahm die Patenschaft für drei Kinder im Heim. Später spendete sie erneut 1 Million NT$ an diese Einrichtung.[^6]
 
-1997 spendete sie 1 Million Yuan an ihre Alma Mater, die Renai-Grundschule, um einen Fonds für Notfallhilfe-Stipendien einzurichten. 2005 spendete sie zusätzlich 4,5 Millionen Yuan für eine Bibliothek. [^7] Sie wählte ihre Alma Mater, weil ihre Schule ihr armen Bruder damals geholfen hatte. „Andere haben mir geholfen, daher muss ich es zurückgeben" — ihre Logik war immer so einfach. [^4]
+1997 spendete sie 1 Million NT$ an ihre ehemalige Grundschule, die Ren'ai-Grundschule, um einen Notfall-Stipendienfonds einzurichten. Im Jahr 2005 spendete sie weitere 4,5 Millionen NT$ für den Bau einer Bibliothek.[^7] Sie wählte ihre alte Schule, weil ihre Familie in ihrer Kindheit arm war und die Lehrer ihrem Bruder geholfen hatten. „Andere haben mir geholfen, also will ich es zurückgeben“ – ihre Logik war so direkt wie ihr Handeln.[^4]
 
-Bis 2010, als das TIME Magazine auf sie aufmerksam wurde, hatte sie insgesamt etwa 10 Millionen Yuan gespendet. [^1]
+Als sie 2010 von TIME bemerkt wurde, hatte sie bereits kumuliert fast 10 Millionen NT$ gespendet.[^1]
 
-Aber sie hörte nicht auf.
+Doch sie hörte nicht auf.
 
-2012 erhielt sie den Ramon Magsaysay Award auf den Philippinen (Asiens Friedensnobelpreis) mit einem Preisgeld von 50.000 US-Dollar. Sie spendete das gesamte Preisgeld an das MacKay Memorial Hospital in Taitung. [^8]
+2012 erhielt sie den philippinischen Maggsaysay-Award (den „Nobelpreis Asiens“) mit einem Preisgeld von 50.000 US-Dollar. Das gesamte Preisgeld spendete sie an das Taitung Mackay Memorial Hospital.[^8]
 
-Am 10. Oktober 2018 spendete sie zwei Versicherungspolicen im Wert von 16 Millionen Yuan und beauftragte das MacKay Memorial Hospital und das Taitung Christian Hospital, den „Chen Shu-chu Medical Hardship and Cancer Support Fund" zu errichten. [^9]
+Am 10. Oktober 2018 übergab sie zwei Lebensversicherungen im Gegenwert von 16 Millionen NT$ an das Taitung Mackay und das Taitung Christian Hospital, um den „Chen Shu-chu Fonds für medizinische Armut und Krebskranke“ zu gründen.[^9]
 
-Am 28. August 2021 — dem Todestag ihrer Mutter — spendete sie erneut 15 Millionen Yuan in Versicherungspolicen an die Regierung des Taitung County und wies an, dass damit ein „Maternity Assistance and Emergency Hardship Support Fund" gegründet werden sollte, speziell um wirtschaftlich bedürftigen Müttern zu helfen. [^10] Sie sagte bei einer Pressekonferenz mit tränenerstickter Stimme: „Nach 59 Jahren habe ich mir meinen Wunsch endlich erfüllen können." [^11]
+Am 28. August 2021 – dem Todestag ihrer Mutter – spendete sie weitere Versicherungsleistungen im Wert von 15 Millionen NT$ an die Regierung des Landkreises Taitung, um den „Fonds für Schwangerschaft und Notfallhilfe“ einzurichten, der speziell bedürftigen Schwangeren helfen soll.[^10] Auf einer Pressekonferenz sagte sie unter Tränen: „Nach 59 Jahren ist dieser Wunsch endlich erfüllt.“[^11]
 
-59 Jahre zuvor starb ihre Mutter auf dem Weg ins Krankenhaus.
+Vor 59 Jahren war ihre Mutter auf dem Weg ins Krankenhaus gestorben.
 
 ## Eine Gemüsehändlerin auf der Weltbühne
 
-Im April 2010 veröffentlichte das TIME Magazine seine Liste der hundert einflussreichsten Menschen der Welt. Chen Shu-chu wurde in der Kategorie „Helden" auf Platz acht aufgelistet — neben Präsident Obama und Pionieren der sauberen Energietechnik. [^1] Filmregisseur Lee An schrieb persönlich eine Empfehlung für sie. Im selben Jahr wählte das Forbes-Magazin sie als Philanthropie-Heldin Asiens aus. [^12] Das Reader's Digest verlieh ihr den vierten Asia Hero Award. [^5]
+Im April 2010 veröffentlichte TIME die Liste der einflussreichsten Personen der Welt; Chen Shu-chu wurde in der Kategorie „Helden“ auf Platz acht gelistet – neben Barack Obama und führenden Unternehmern im Bereich sauberer Energie.[^1] Der Regisseur Ang Lee schrieb persönlich eine Empfehlung für sie. Im selben Jahr wählte das Magazin _Forbes_ sie als eine der philanthropischen Heldinnen Asiens aus.[^12] Das _Reader's Digest_ verlieh ihr den vierten „Asian Hero Award“.[^5]
 
-Sie erfuhr von ihrer Auszeichnung, ohne zu wissen, was das TIME Magazine ist. Ihre Reise nach New York zur Preisverleihung war ihr erstes Mal im Ausland. Sie trug ihre normale Arbeitskleidung vom Gemüseverkauf und sagte zu den Reportern: „Ich bin einfach eine Gemüsehändlerin, ich weiß nicht, warum sie mich gewählt haben." [^1]
+Als sie über die Auszeichnung informiert wurde, wusste sie nicht einmal, was das TIME Magazine war. Die Reise nach New York zur Preisverleihung war ihr erster Auslandsaufenthalt. In ihrer gewohnten Kleidung als Gemüsehändlerin sagte sie zu den Reportern: „Ich bin nur eine Gemüsehändlerin und weiß nicht, warum man mich ausgewählt hat.“[^1]
 
-Diese Auszeichnungen änderten nichts an ihrer täglichen Routine. Sie kehrte nach Taitung zurück und war um vier Uhr morgens wie gewohnt auf ihrem Gemüsestand.
+Diese Ehrungen änderten nichts an ihrem Alltag. Zurück in Taitung stand sie wie gewohnt um vier Uhr morgens an ihrem Stand.
 
-2012 der Ramon Magsaysay Award, 2018 wurde der Asteroid 278986 nach ihr benannt [^5], 2025 erhielt sie einen Ehrendoktor der Taitung Universität [^13] — jedes Mal, wenn sie auf einer Bühne stand, um eine Auszeichnung entgegenzunehmen, kehrte sie so schnell wie möglich zu ihrem Gemüsestand zurück.
+Ob der Maggsaysay-Award 2012, die Benennung des Asteroiden 278986 nach ihr im Jahr 2018[^5] oder die Verleihung eines Ehrendoktortitels der National Taitung University im Jahr 2025[^13] – jedes Mal, wenn sie eine Bühne betrat, kehrte sie so schnell wie möglich an ihren Gemüsestand zurück.
 
-## Der Körper hielt nicht länger durch
+## Der Körper macht nicht mehr mit
 
-Im Februar 2018 kollabierte Chen Shu-chu vor ihrem Gemüsestand und wurde notfallmäßig operiert. [^5] Die Ärzte rieten ihr zu ruhen; sie lag einen Monat im Bett und wollte dann zurück zum Gemüseverkauf. Aber dieses Mal ließ ihr Körper das nicht zu — hinzu kam, dass auch ihr Bruder krank wurde und Pflege brauchte. 2018 zog sie sich endgültig aus dem Geschäft zurück. [^4]
+Im Februar 2018 brach Chen Shu-chu vor ihrem Stand zusammen und musste operiert werden.[^5] Die Ärzte rieten ihr zur Ruhe; sie lag einen Monat im Krankenhaus und wollte sofort wieder Gemüse verkaufen. Doch diesmal erlaubte es ihr Körper nicht – zudem musste sie sich um ihren kranken Bruder kümmern, weshalb sie 2018 offiziell ihren Stand aufgab.[^4]
 
-Der Gemüsestand, den sie über fünfzig Jahre lang betrieben hatte, wurde später zu einem Fleischstand.
+Nach über fünfzig Jahren des Gemüseverkaufs wurde der Stand später zu einem Fleischstand.
 
-Nach der Rente blieb sie in Taitung und kümmerte sich weiterhin um Menschen, die Hilfe brauchten. Die Spende von 15 Millionen Yuan 2021 erfolgte sogar nach ihrer Rente. Sie sagte: „Geld nimmt man nicht mit in die Wiege, und man nimmt es nicht mit ins Grab. Die Rente ist genug für mich — der Rest gehört denen, die ihn brauchen." [^10]
+Auch nach ihrem Ruhestand lebt sie weiterhin in Taitung und kümmert sich um Menschen in Not. Die Spende von 15 Millionen NT$ im Jahr 2021 erfolgte bereits nach ihrem Rückzug aus dem aktiven Verkauf. Sie sagt: „Geld nimmt man nicht mit ins Grab. Die staatliche Altersvorsorge reicht mir aus, den Rest gebe ich denjenigen, die ihn brauchen.“[^10]
 
 ## Eine einfache Rechnung
 
-Die Geschichte von Chen Shu-chu wird oft als „rührende gute Tat" verpackt, aber wenn man sie auseinandernimmt, ist es eigentlich eine Rechenaufgabe: Wenn eine Person über fünfzig Jahre jeden Tag ein wenig spart und dies konsequent durchhält, wie viel kann sie ansammeln?
+Die Geschichte von Chen Shu-chu wird oft als „herzerwärmende Wohltat“ verpackt, aber bei genauerer Betrachtung ist sie eigentlich eine Rechenaufgabe: Wenn ein Mensch jeden Tag ein kleines bisschen spart und dies fünfzig Jahre lang durchzieht, wie viel kann er ansammeln?
 
-Die Antwort ist: mehrere Millionen.
+Die Antwort lautet: Zehntausende von NT$.
 
-Die tiefere Frage ist: Warum tut eine Gemüsehändlerin diese Dinge? Ihre Antwort hat sich nie geändert — weil ihre Mutter in dem Jahr starb, als sie 13 Jahre alt war, auf dem Weg ins Krankenhaus, und sie nichts tun konnte. Fünfzig Jahre später hatte sie endlich die Kraft, sicherzustellen, dass die Mutter einer anderen Person nicht dieselbe Tragödie erleben würde. [^11]
+Die tiefere Frage ist jedoch: Warum sollte eine Gemüsehändlerin das tun? Ihre Antwort ist stets dieselbe geblieben – weil ihre Mutter mit 13 Jahren auf dem Weg ins Krankenhaus starb und sie damals nichts tun konnte. Fünfzig Jahre später hat sie endlich die Mittel, um sicherzustellen, dass den Müttern anderer dasselbe erspart bleibt.[^11]
 
-2025 verlieh ihr die Taitung Universität einen Ehrendoktor. Sie sagte in ihrer Ansprache: „Ich danke euch, dass ihr eine Straßenverkäuferin nicht verachtet habt." [^13]
+Im Jahr 2025 verlieh ihr die National Taitung University einen Ehrendoktortitel. Bei ihrer Rede sagte sie: „Vielen Dank, dass Sie mich nicht wegen meines kleinen Gemüsestandes am Straßenrand verachtet haben.“[^13]
 
-## Empfohlene Weiterliteratur
+## Weiterführende Literatur
 
-- [Taiwanesische Marktkultur und traditionelle Märkte](/de/lifestyle/taiwan-traditional-markets-and-market-culture) — Der Zentralmarkt von Taitung, an dem Chen Shu-chu fünfzig Jahre lang ihren Stand hatte, ist Teil dieses traditionellen Marktökosystems
-- [Taiwanesische Freiwilligenkultur und gemeinnützige Beteiligung](/de/society/volunteering-and-civic-charity-in-taiwan) — Von der Tzu-Chi-Stiftung der Nonne Cheng Yen bis zu Chen Shu-chus Gemüsestand: zwei Beispiele aus dem taiwanesischen zivilen Sektor
-- [Bildung in Taiwans ländlichen Gebieten](/de/society/taiwan-rural-education) — Chens Jahre der Spendensammlungen zeigen ein klares Muster: Bibliotheken, Schulen und Waisenhäuser, langjährig unterstützt
+- [Marktkultur in Taiwan und traditionelle Märkte](/de/lifestyle/taiwan-traditional-markets-and-market-culture) — Der Zentralmarkt von Taitung, an dem Chen Shu-chu fünfzig Jahre lang arbeitete, ist Teil dieses traditionellen Marktökosystems.
+- [Freiwilligenkultur und öffentliches Engagement in Taiwan](/de/society/volunteering-and-civic-charity-in-taiwan) — Von Meisterin Cheng Yen (Tzu Chi) bis zum Gemüsestand von Chen Shu-chu: zwei Beispiele für das zivile Wohltätigkeitswesen in Taiwan.
+- [Bildung in ländlichen Gebieten Taiwans](/de/society/taiwan-rural-education) — Der Hauptfluss der jahrelangen Spenden von Chen Shu-chu: langfristige Unterstützung für Bibliotheken, Schulen und Waisenhäuser.
 
 ## Referenzen
 
 [^1]: "The 2010 TIME 100 — Chen Shu-chu," _TIME Magazine_, 2010. https://content.time.com/time/specials/packages/article/0,28804,1984685_1984949_1985237,00.html
 
-[^2]: 〈陳樹菊〉，維基百科。Die Mutter starb an Geburtskomplikationen; die Familie konnte die erforderliche Kaution nicht aufbringen, und Mutter und Kind starben auf dem Weg ins Krankenhaus. https://zh.wikipedia.org/zh-tw/陳樹菊
+[^2]: 〈Chen Shu-chu〉, Wikipedia. Die Mutter verstarb aufgrund einer schwierigen Geburt und mangelnder Kaution auf dem Weg ins Krankenhaus. https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^3]: 〈陳樹菊 用一輩子的力氣還願〉，《遠見雜誌》。 https://www.gvm.com.tw/article/14164
+[^3]: 〈Chen Shu-chu: Mit der Kraft eines ganzen Lebens ein Versprechen einlösen〉, _Vision Magazine_. https://www.gvm.com.tw/article/14164
 
 [^4]: "Taiwan in Time: Donating millions from a vegetable stall," _Taipei Times_, 2023-08-27. https://www.taipeitimes.com/News/feat/archives/2023/08/27/2003805339
 
-[^5]: 〈陳樹菊〉，維基百科，「榮譽與獎項」段落。 https://zh.wikipedia.org/zh-tw/陳樹菊
+[^5]: 〈Chen Shu-chu〉, Wikipedia, Abschnitt „Ehrungen und Auszeichnungen“. https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^6]: 〈知恩感恩報恩 陳樹菊阿嬤行善布施超過千萬〉，地球佛國大家庭。Ab 1996 spendete sie jedes Jahr 36.000 Yuan, um drei Waisenkinder zu unterstützen. https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
+[^6]: 〈Dankbarkeit und Vergeltung: Großmutter Chen Shu-chu spendet über zehn Millionen durch Wohltätigkeit〉, Earth Buddha Family. Seit 1996 jährlich 36.000 NT$ für drei Kinder im Heim. https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
 
-[^7]: 〈菜販捐圖書館 續攢千萬助貧〉，Der Bericht zeigt, dass Chen Shu-chu 1 Million Yuan als Stipendium und 4,5 Millionen Yuan für eine Bibliothek an ihre Alma Mater, die Renai-Grundschule, spendete.
+[^7]: 〈Gemüsehändlerin spendet Bibliotheken und sammelt weiterhin Millionen zur Armutsbekämpfung〉, Bericht über die Spende von 1 Million NT$ für Stipendien und 4,5 Millionen NT$ für den Bau einer Bibliothek an ihrer ehemaligen Grundschule Ren'ai.
 
-[^8]: 〈陳樹菊〉，維基百科，「麥格塞塞獎」段落。Sie erhielt 2012 den Ramon Magsaysay Award mit einem Preisgeld von 50.000 US-Dollar, das sie vollständig an das MacKay Memorial Hospital in Taitung spendete. https://zh.wikipedia.org/zh-tw/陳樹菊
+[^8]: 〈Chen Shu-chu〉, Wikipedia, Abschnitt „Maggsaysay-Award“. Erhielt 2012 den Preis; das Preisgeld von 50.000 USD wurde vollständig an das Taitung Mackay gespendet. https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^9]: 〈陳樹菊再捐 1600 萬 保險受益人改為醫院〉，《自由時報》，2018-10-10。 https://news.ltn.com.tw/news/life/breakingnews/2576050
+[^9]: 〈Chen Shu-chu spendet weitere 16 Millionen, Begünstigte der Versicherung auf Krankenhaus geändert〉, _Liberty Times_, 2018-10-10. https://news.ltn.com.tw/news/life/breakingnews/2576050
 
-[^10]: 〈母忌日再捐 1500 萬元 陳樹菊：國民年金已夠用〉，中央社，2021-08-28。 https://www.cna.com.tw/news/ahel/202108280119.aspx
+[^10]: 〈Spende von 15 Millionen NT$ zum Todestag der Mutter: Chen Shu-chu sagt, die staatliche Altersvorsorge reiche aus〉, _CNA_, 2021-08-28. https://www.cna.com.tw/news/ahel/202108280119.aspx
 
-[^11]: 〈母親忌日捐 1500 萬元 陳樹菊哽咽：等了 59 年〉，Yahoo 新聞轉載。 https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
+[^11]: 〈Spende von 15 Millionen NT$ zum Todestag der Mutter; Chen Shu-chu unter Tränen: „59 Jahre habe ich gewartet“〉, Yahoo News Repost. https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
 
 [^12]: "48 Heroes of Philanthropy," _Forbes Asia_, 2010.
 
-[^13]: 〈獲頒台東大學名譽博士 陳樹菊：謝謝大家沒有嫌棄我路邊攤賣菜〉，《聯合新聞網》，2025-06-08。 https://udn.com/news/story/6928/8791319
+[^13]: 〈Verleihung des Ehrendoktortitels der National Taitung University an Chen Shu-chu: „Vielen Dank, dass Sie mich nicht wegen meines kleinen Gemüsestandes am Straßenrand verachtet haben“〉, _United News Agency_, 2025-06-08. https://udn.com/news/story/6928/8791319

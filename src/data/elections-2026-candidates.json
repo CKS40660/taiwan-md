@@ -1,0 +1,194 @@
+{
+  "$comment": "Display-name i18n for /elections/2026/candidates. Copied from elections-2026.template.astro areaI18n/partyI18n (party: only official/common translations; missing = show CEC Chinese wording).",
+  "areaI18n": {
+    "臺北市": {
+      "en": "Taipei City",
+      "ja": "台北市",
+      "ko": "타이베이시",
+      "fr": "Taipei",
+      "es": "Taipéi"
+    },
+    "新北市": {
+      "en": "New Taipei City",
+      "ja": "新北市",
+      "ko": "신베이시",
+      "fr": "Nouveau Taipei",
+      "es": "Nuevo Taipéi"
+    },
+    "桃園市": {
+      "en": "Taoyuan City",
+      "ja": "桃園市",
+      "ko": "타오위안시",
+      "fr": "Taoyuan",
+      "es": "Taoyuan"
+    },
+    "臺中市": {
+      "en": "Taichung City",
+      "ja": "台中市",
+      "ko": "타이중시",
+      "fr": "Taichung",
+      "es": "Taichung"
+    },
+    "臺南市": {
+      "en": "Tainan City",
+      "ja": "台南市",
+      "ko": "타이난시",
+      "fr": "Tainan",
+      "es": "Tainan"
+    },
+    "高雄市": {
+      "en": "Kaohsiung City",
+      "ja": "高雄市",
+      "ko": "가오슝시",
+      "fr": "Kaohsiung",
+      "es": "Kaohsiung"
+    },
+    "基隆市": {
+      "en": "Keelung City",
+      "ja": "基隆市",
+      "ko": "지룽시",
+      "fr": "Keelung",
+      "es": "Keelung"
+    },
+    "新竹市": {
+      "en": "Hsinchu City",
+      "ja": "新竹市",
+      "ko": "신주시",
+      "fr": "Ville de Hsinchu",
+      "es": "Ciudad de Hsinchu"
+    },
+    "嘉義市": {
+      "en": "Chiayi City",
+      "ja": "嘉義市",
+      "ko": "자이시",
+      "fr": "Ville de Chiayi",
+      "es": "Ciudad de Chiayi"
+    },
+    "新竹縣": {
+      "en": "Hsinchu County",
+      "ja": "新竹県",
+      "ko": "신주현",
+      "fr": "Comté de Hsinchu",
+      "es": "Condado de Hsinchu"
+    },
+    "苗栗縣": {
+      "en": "Miaoli County",
+      "ja": "苗栗県",
+      "ko": "먀오리현",
+      "fr": "Comté de Miaoli",
+      "es": "Condado de Miaoli"
+    },
+    "彰化縣": {
+      "en": "Changhua County",
+      "ja": "彰化県",
+      "ko": "장화현",
+      "fr": "Comté de Changhua",
+      "es": "Condado de Changhua"
+    },
+    "南投縣": {
+      "en": "Nantou County",
+      "ja": "南投県",
+      "ko": "난터우현",
+      "fr": "Comté de Nantou",
+      "es": "Condado de Nantou"
+    },
+    "雲林縣": {
+      "en": "Yunlin County",
+      "ja": "雲林県",
+      "ko": "윈린현",
+      "fr": "Comté de Yunlin",
+      "es": "Condado de Yunlin"
+    },
+    "嘉義縣": {
+      "en": "Chiayi County",
+      "ja": "嘉義県",
+      "ko": "자이현",
+      "fr": "Comté de Chiayi",
+      "es": "Condado de Chiayi"
+    },
+    "屏東縣": {
+      "en": "Pingtung County",
+      "ja": "屏東県",
+      "ko": "핑둥현",
+      "fr": "Comté de Pingtung",
+      "es": "Condado de Pingtung"
+    },
+    "宜蘭縣": {
+      "en": "Yilan County",
+      "ja": "宜蘭県",
+      "ko": "이란현",
+      "fr": "Comté de Yilan",
+      "es": "Condado de Yilan"
+    },
+    "花蓮縣": {
+      "en": "Hualien County",
+      "ja": "花蓮県",
+      "ko": "화롄현",
+      "fr": "Comté de Hualien",
+      "es": "Condado de Hualien"
+    },
+    "臺東縣": {
+      "en": "Taitung County",
+      "ja": "台東県",
+      "ko": "타이둥현",
+      "fr": "Comté de Taitung",
+      "es": "Condado de Taitung"
+    },
+    "澎湖縣": {
+      "en": "Penghu County",
+      "ja": "澎湖県",
+      "ko": "펑후현",
+      "fr": "Comté de Penghu",
+      "es": "Condado de Penghu"
+    },
+    "金門縣": {
+      "en": "Kinmen County",
+      "ja": "金門県",
+      "ko": "진먼현",
+      "fr": "Comté de Kinmen",
+      "es": "Condado de Kinmen"
+    },
+    "連江縣": {
+      "en": "Lienchiang County",
+      "ja": "連江県",
+      "ko": "롄장현",
+      "fr": "Comté de Lienchiang",
+      "es": "Condado de Lienchiang"
+    }
+  },
+  "partyI18n": {
+    "民主進步黨": {
+      "en": "Democratic Progressive Party",
+      "ja": "民主進歩党",
+      "ko": "민주진보당",
+      "fr": "Parti démocrate progressiste",
+      "es": "Partido Democrático Progresista"
+    },
+    "中國國民黨": {
+      "en": "Kuomintang",
+      "ja": "中国国民党",
+      "ko": "중국국민당",
+      "fr": "Kuomintang",
+      "es": "Kuomintang"
+    },
+    "無黨籍": {
+      "en": "Independent",
+      "ja": "無所属",
+      "ko": "무소속",
+      "fr": "Sans étiquette",
+      "es": "Independiente"
+    },
+    "台灣民眾黨": {
+      "en": "Taiwan People’s Party",
+      "ja": "台湾民衆党",
+      "ko": "대만민중당",
+      "fr": "Parti populaire taïwanais",
+      "es": "Partido Popular de Taiwán"
+    },
+    "台聯黨": {
+      "en": "Taiwan Solidarity Union",
+      "ja": "台湾団結連盟",
+      "ko": "대만단결연맹"
+    }
+  }
+}

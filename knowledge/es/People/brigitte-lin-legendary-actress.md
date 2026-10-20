@@ -1,15 +1,15 @@
 ---
-title: 'Lin Qingxia: de diosa artística a leyenda del wuxia'
-description: 'Reina de las películas de Qiong Yao que se transforma en un clásico del wuxia, leyenda de la pantalla china'
+title: 'Brigitte Lin (Lin Ching-hsia)'
+description: 'Nacida en 1954 en un complejo de viviendas militares de Taipéi, fue descubierta por el director Sung Tsun-shou en Ximending en 1972 para protagonizar "Window" (Chuāngwài), convirtiéndose en la musa de la era cinematográfica de Qiong Yao gracias a su imagen pura. Formó parejas icónicas en pantalla con Chin Han y Chin Hsiang-lin, marcando tendencia en moda y peinados; en 1992, redefinió el género de artes marciales con su legendaria interpretación de Dongfang Bubai.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Lin Qingxia',
+    'Brigitte Lin',
     'actriz',
-    'películas de Qiong Yao',
+    'cine de Qiong Yao',
     'Dongfang Bubai',
-    'cine chino',
+    'cine de habla china',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,142 +17,142 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceCommitSha: 'e53f17151'
+sourceContentHash: 'sha256:7e12cc4002fc2007'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-10T16:54:47+08:00'
+translatedAt: '2026-10-16T00:52:53+08:00'
 ---
 
-# Lin Qingxia: de diosa artística a leyenda del wuxia
+# Brigitte Lin (Lin Ching-hsia): De musa de la era literaria a leyenda de las artes marciales
 
-Lin Qingxia ha atravesado dos eras: la de las películas literarias de Qiong Yao y la de las películas de wuxia de Tsui Hark, siendo una de las actrices más representativas del cine chino. En la década de 1970, con su imagen tímida, se convirtió en la figura central de las películas de Qiong Yao; a finales de la década de 1980, logró una transformación exitosa, creando una imagen revolucionaria en "Dongfang Bubai". Su carrera testigo del oro del cine chino.
+Brigitte Lin ha trascendido dos eras: el cine romántico basado en las obras de Qiong Yao y el cine de artes marciales de Tsui Hark, consolidándose como una de las actrices más representativas de la cinematografía de habla china. En la década de 1970, fue la figura central del cine de Qiong Yao con su imagen de pureza, para lograr una transformación exitosa a finales de los 80, creando un personaje revolucionario en _Dongfang Bubai_. Su carrera es testimonio de la edad de oro del cine chino.
 
-## La ruta de estrellas de una chica de barrio militar
+## El camino al estrellato de una chica de los complejos militares
 
-Lin Qingxia nació el 3 de noviembre de 1954 en Taipéi, con raíces en Shandong. Su padre, Lin Weiliang, era militar; su madre, Luo Xiuyun, era ama de casa. Creció en un barrio militar, donde Lin Qingxia mostró desde pequeña una apariencia fresca y un carácter tranquilo.
+Brigitte Lin nació el 3 de noviembre de 1954 en Taipéi; sus antepasados procedían de Shandong. Su padre, Lin Wei-liang, era militar y su madre, Lo Hsiu-yun, ama de casa. Criada en el entorno de los _juncun_ (complejos de viviendas para familias militares), desde pequeña mostró una apariencia delicada y un temperamento tranquilo.
 
-En el instituto, asistió a la Escuela Secundaria femenina Jinling, donde fue una estudiante destacada en estudios y arte. En 1972, fue descubierta por el director Song Cunshou en Ximending, quien le invitó a protagonizar "Fuori dalla finestra", cuando ella estaba preparándose para los exámenes universitarios, sin preparación alguna para la industria del espectáculo.[^1]
+Durante su etapa escolar en la Escuela Secundaria Femenina Chinling, fue una estudiante ejemplar con un profundo interés por la literatura y el arte. En 1972, mientras se preparaba para los exámenes de ingreso a la universidad, fue descubierta en Ximending por el director Sung Tsun-shou, quien la invitó a protagonizar _Window_ (Chuāngwài) sin que ella tuviera preparación previa para la actuación. [^1]
 
-Con el apoyo de su madre, Lin Qingxia decidió intentar suerte en la actuación. Su primera película, "Fuori dalla finestra" (1973), adaptada de la novela de Qiong Yao, junto a Qin Han, sentó las bases de su posición en las películas literarias.[^2]
+Con el apoyo de su madre, Lin decidió probar suerte en el cine. Su primera película, _Window_ (1973), adaptada de una novela de Qiong Yao y protagonizada junto a Chin Han, sentó las bases de su estatus en el cine de corte literario. [^2]
 
-## La diosa artística de la era de Qiong Yao
+## La musa del cine de Qiong Yao
 
-El éxito de "Fuori dalla finestra" en 1972 marcó el inicio de la era de Qiong Yao de Lin Qingxia. En los diez años siguientes, protagonizó obras de Qiong Yao como "Volar nubes coloridas", "Mil y una conexiones del corazón" y "Pájaros en la niebla de la luna".
+El éxito de _Window_ en 1972 dio inicio a la era de Lin en las adaptaciones de Qiong Yao. Durante la década siguiente, protagonizó múltiples obras como _Floating Clouds_, _A Thousand Knots in My Heart_ y _Moonlight and Birds_.
 
-La imagen tímida de Lin Qingxia interpretó perfectamente las heroínas de Qiong Yao: inocentes, bondadosas y melancólicas. Su colaboración con Qin Han y Qin Xianglin formó la pareja icónica en la pantalla, popular entre todo el mundo hispanohablante.
+La imagen pura de Brigitte Lin interpretaba perfectamente a los personajes femeninos de Qiong Yao: inocentes, bondadosos y sentimentales. Sus colaboraciones con Chin Han y Chin Hsiang-lin crearon parejas icónicas en pantalla que cautivaron al mundo de habla china.
 
-En esa época, Lin Qingxia se convirtió en el ídolo de muchas jóvenes; su peinado y vestimenta se convirtieron en tendencias. Las películas de Qiong Yao también alcanzaron mayor influencia y éxito comercial gracias a sus actuaciones.
+En este periodo, Lin se convirtió en el ídolo de innumerables jóvenes; su peinado y vestimenta eran referentes de moda. Gracias a sus actuaciones, las películas de Qiong Yao alcanzaron una mayor influencia y éxito comercial.
 
-## Exploraciones artísticas en películas literarias
+## Diversidad en el cine literario
 
-Además de las películas de Qiong Yao, Lin Qingxia también exploró otros tipos de películas literarias. En 1979, colaboró con el director Li Xing en "Un barco en la tormenta", mostrando habilidades de actuación más maduras.
+Más allá de las obras de Qiong Yao, Lin exploró otros géneros literarios. En 1979, colaboró con el director Li Hang en _A Boat in the Ocean_, demostrando una madurez actoral superior.
 
-"Yo soy una nube" (1981) es una de sus obras representativas de Qiong Yao, con una escena de confrontación con Qin Han que es conmovedora. Esta obra demostró la profunda habilidad emocional de Lin Qingxia.
+_I Am a Cloud_ (1981) fue uno de sus trabajos más representativos de la era Qiong Yao, destacando por sus emotivas escenas junto a Chin Han, lo que evidenció su gran capacidad para el drama emocional.
 
-A principios de la década de 1980, Lin Qingxia comenzó a reflexionar sobre la transformación de su carrera. Se dio cuenta de que la única imagen de diosa artística podría limitar su espacio de desarrollo, y comenzó a buscar oportunidades de superación.
+A principios de los años 80, Lin comenzó a reflexionar sobre una transformación en su carrera, consciente de que la imagen única de "musa literaria" podría limitar su desarrollo, y empezó a buscar oportunidades para romper con ese molde.
 
-## Traslado a Hong Kong y colaboración con la nueva ola
+## El salto a Hong Kong y la Nueva Ola
 
-A mediados de la década de 1980, Lin Qingxia se trasladó al mercado cinematográfico de Hong Kong, una decisión que cambió completamente su carrera. El entorno diversificado y comercial de las películas de Hong Kong le brindó un mayor espacio de desarrollo.
+A mediados de los 80, Brigitte Lin se trasladó al mercado cinematográfico de Hong Kong, una decisión que cambió radicalmente su trayectoria. El entorno diverso y comercial de Hong Kong le ofreció un espacio de crecimiento mucho mayor.
 
-Colaboró con directores de la nueva ola de Hong Kong, intentando diferentes tipos de roles. Estas experiencias hicieron que su habilidad de actuación madurara, preparándola para los papeles de wuxia de Tsui Hark.
+Estableció colaboraciones con directores de la Nueva Ola de Hong Kong, probando distintos tipos de personajes. Estas experiencias maduraron su técnica, preparándola para los futuros papeles en el cine de artes marciales de Tsui Hark.
 
-Durante su estancia en Hong Kong, Lin Qingxia mantuvo un desarrollo dual entre Taiwán y Hong Kong, convirtiéndose en una de las pocas estrellas que podían cruzar ambos mercados. Su éxito sirvió de ejemplo para que actores taiwaneses se introdujeran en Hong Kong.
+Durante su estancia en Hong Kong, mantuvo su desarrollo tanto en Taiwán como en la isla, convirtiéndose en una de las pocas superestrellas capaces de cruzar ambos mercados. Su éxito sirvió de modelo para los actores taiwaneses que posteriormente buscaron triunfar en Hong Kong.
 
-## Clásico del wuxia: la actuación revolucionaria de "Dongfang Bubai"
+## Un clásico de artes marciales: La interpretación revolucionaria de _Dongfang Bubai_
 
-"Xiá​guó Jiānghú II: Dòng​fāng Bù​bài" (1992), dirigido por Tsui Hark, se convirtió en la obra maestra de la carrera de Lin Qingxia. En la película, interpreta a Dongfang Bubai, una figura con habilidades marciales sobrehumanas, revolucionando la percepción del público sobre ella.
+En 1992, _Swordsman II_ (笑傲江湖II東方不敗), dirigida por Tsui Hark, se convirtió en la cumbre de su carrera. Su interpretación de la poderosa Dongfang Bubai subvirtió por completo la imagen que el público tenía de ella.
 
-Dongfang Bubai es un personaje complejo: tanto un líder del mundo del wulin como un amante apasionado; posee una fuerza masculina pero también una belleza femenina. La actuación de Lin Qingxia es rica en capas, interpretando este personaje contradictorio con perfección.
+Dongfang Bubai era un personaje complejo: tanto un soberano del mundo de las artes marciales como un amante apasionado; poseía la autoridad de un hombre y la delicadeza de una mujer. La actuación de Lin fue rica en matices, interpretando esta dualidad con maestría.
 
-La frase "El sol nace en el este, solo yo soy invencible" se convirtió en un clásico, y la imagen de Lin Qingxia en rojo volando es inolvidable para el público. Este personaje no solo fue el cumbre de su habilidad de actuación, sino también un personaje clásico en la historia del cine chino.
+La frase «Al salir el sol por el este, solo yo soy invencible» se volvió legendaria, y su imagen con vestiduras rojas al viento quedó grabada en la memoria del público. Este papel no solo representó el apogeo de su talento, sino que se convirtió en un personaje clásico en la historia del cine chino.
 
 ## Colaboración creativa con Tsui Hark
 
-La colaboración de Lin Qingxia con el director Tsui Hark fue un punto de inflexión importante en su carrera. Tsui Hark es hábil para descubrir el potencial de los actores, y vio la esencia del wuxia y la posibilidad de actuación en Lin Qingxia.
+La alianza entre Brigitte Lin y el director Tsui Hark marcó un punto de inflexión vital. Tsui era experto en descubrir el potencial de sus actores, y vio en Lin una cualidad heroica y posibilidades interpretativas únicas para el género _wuxia_.
 
-Además de "Dongfang Bubai", también colaboraron en "El nuevo albergue de Longmen". La guía creativa de Tsui Hark permitió a Lin Qingxia descubrir una nueva faceta, completando exitosamente la transformación de diosa artística a estrella del wuxia.
+Además de _Dongfang Bubai_, colaboraron en obras como _New Dragon Gate Inn_. La dirección creativa de Tsui permitió que Lin descubriera nuevas facetas, completando con éxito su transición de musa literaria a estrella de las artes marciales.
 
-Estas colaboraciones tuvieron éxito tanto en taquilla como en críticas, demostrando la aciertada decisión de Lin Qingxia de transformarse. Ya no era solo la representante de las películas de Qiong Yao, sino una verdadera estrella de talento.
+Ambas colaboraciones fueron éxitos tanto de taquilla como de crítica, validando la dirección que había tomado su carrera. Dejó de ser solo la cara del cine de Qiong Yao para convertirse en una verdadera actriz de método y gran prestigio.
 
-## Diversidad de actuaciones en la década de 1990
+## Versatilidad en la década de 1990
 
-La década de 1990 fue la época más activa de Lin Qingxia, en la que intentó varios tipos de roles diferentes. Desde películas históricas de wuxia hasta películas dramáticas modernas, todas con actuaciones destacadas.
+Los años 90 fueron su etapa más activa, explorando una vasta gama de roles, desde dramas históricos hasta thrillers modernos.
 
-En "El nuevo albergue de Longmen", interpreta a Jinzhao Yu; en "Bosque de Chongqing", como asesina rubia; en "Este y aquel", como Murong Yan, cada personaje tiene su propio encanto. Lin Qingxia mostró un asombrosa gama de habilidades de actuación.
+Desde Jin Xiangyu en _New Dragon Gate Inn_, pasando por la asesina rubia en _Chungking Express_, hasta Murong Yan en _Ashes of Time_, cada personaje poseía un encanto único, demostrando un rango actoral sorprendente.
 
-Las películas de Wang Jiawei, "Bosque de Chongqing" y "Este y aquel", unieron a Lin Qingxia con el cine artístico, demostrando que no solo podía manejar películas comerciales, sino también obras de mayor valor artístico.
+Sus trabajos con Wong Kar-wai, como _Chungking Express_ y _Ashes of Time_, la vincularon al cine de autor, probando que no solo dominaba el cine comercial, sino también las obras de mayor complejidad artística.
 
-## Retiro del cine y nueva etapa de vida
+## Retiro y una nueva etapa vital
 
-En 1994, Lin Qingxia anunció su retiro del cine, decidiendo dedicar su vida a la familia. Esta decisión hizo que muchos fanáticos se sintieran triste, pero también entendieron su elección de vida.
+En 1994, Brigitte Lin anunció su retiro de la actuación para dedicarse a su vida familiar. Aunque la noticia causó pesar entre sus seguidores, estos comprendieron su elección personal.
 
-Después de retirarse, Lin Qingxia se casó con el comerciante Hong Li Yuan, con quien tuvo dos hijas. Cambió su enfoque a la vida familiar, apareciendo rara vez en público, lo que añadió un misterio adicional a su figura.
+Tras retirarse, se casó con el empresario Sing Lee (邢李原) y tuvo dos hijas. Centró su vida en su familia y redujo su presencia pública, lo que añadió un aura de misterio a su figura.
 
-Aunque se retiró, la influencia de Lin Qingxia no disminuyó. Sus clásicos siguen siendo retransmitidos por televisión, y una nueva generación de espectadores conoce su encanto a través de estas obras.
+A pesar de su retiro, su influencia no disminuyó. Sus obras clásicas siguen emitiéndose en televisión, permitiendo que nuevas generaciones descubran su carisma.
 
-## Nuevos intentos en la creación literaria
+## Nuevos intentos en la escritura
 
-Después de retirarse del cine, Lin Qingxia comenzó a intentar la creación literaria, publicando colecciones de ensayos como "Dentro y fuera de la ventana". Con su delicada prosa, registró reflexiones sobre la vida y experiencias personales.
+Tras dejar las pantallas, Lin comenzó a explorar la literatura, publicando libros de ensayos como _Inside and Outside the Window_ (窗裡窗外). Utilizó una prosa delicada para registrar sus reflexiones sobre la vida y sus experiencias personales.
 
-La creación literaria de Lin Qingxia fue reconocida por la comunidad literaria, demostrando que no solo era una excelente actriz, sino también una escritora talentosa. Esta diversidad de talentos genera más admiración por ella.
+Su faceta literaria fue reconocida por el ámbito intelectual, demostrando que era tanto una actriz excepcional como una escritora talentosa. Esta versatilidad aumentó el respeto de su público hacia ella.
 
-También compartió sus experiencias de actuación y reflexiones sobre la vida a través de la escritura, permitiendo a los fanáticos comprender más profundamente su mundo interior. Estas obras se convirtieron en valiosos materiales históricos del cine.
+A través de sus escritos, compartió vivencias de su carrera y pensamientos profundos, permitiendo a los fans conocer mejor su mundo interior. Estas obras se han convertido en valiosos documentos sobre su historia personal.
 
-## El significado especial de los regresos ocasionales
+## El significado de sus apariciones ocasionales
 
-Aunque se retiró oficialmente, Lin Qingxia ocasionalmente aparece en proyectos especiales. En 2013, hizo una aparición especial en "101 propuestas de matrimonio", lo que generó un fuerte interés de los fanáticos.
+Aunque oficialmente retirada, Lin ha regresado ocasionalmente para proyectos especiales. En 2013, realizó un cameo en _Love for a Lifetime_ (101次求婚), lo que generó una gran expectación entre sus seguidores.
 
-Aunque sus apariciones son breves, cada una se convierte en un tema de conversación. La capacidad de atracción e influencia de Lin Qingxia es evidente.
+A pesar de tener pocos minutos en pantalla, cada aparición se convierte en noticia. Esto demuestra el enorme poder de convocatoria y la influencia que aún mantiene.
 
-También participa en festivales de cine y ceremonias de entrega de premios, donde cada aparición causa sensación. La madurez del tiempo la ha hecho más elegante y atractiva.
+También participa ocasionalmente en festivales de cine y ceremonias de premios, donde su presencia siempre causa sensación. El paso del tiempo solo ha acentuado su elegancia.
 
-## Influencia trascendental a través de los años
+## Una influencia que trasciende eras
 
-La influencia de Lin Qingxia trasciende el ámbito del cine. Desde la imagen tímida de la era de Qiong Yao hasta el héroe valiente del wuxia, su trayectoria artística refleja los cambios de treinta años del cine chino.
+El impacto de Brigitte Lin va más allá del cine. Desde su imagen pura en la era de Qiong Yao hasta su papel de heroína épica en el género de artes marciales, su trayectoria refleja los cambios de treinta años del cine de habla china.
 
-Su belleza y carisma son admirados, y muchas estrellas emergentes son comparadas con ella. La "belleza estilo Lin Qingxia" se convierte en un estándar de comparación en la industria.
+Su belleza y porte son altamente admirados; innumerables actrices emergentes han sido comparadas con ella, siendo el término «belleza al estilo Brigitte Lin» un estándar en la industria.
 
-Directores de la nueva generación como Wang Jiawei la admiran profundamente, y sus obras son objeto de estudio por críticos y estudiosos del cine.
+Directores de nuevas generaciones, como Wong Kar-wai, han expresado su gran admiración por ella, y sus obras siguen siendo objeto de estudio para críticos y académicos del cine.
 
-## Inspiración para actrices femeninas
+## Inspiración para las actrices
 
-El éxito de la transformación de Lin Qingxia ofrece una importante lección para las actrices. Demuestra que las estrellas no necesitan limitarse a un solo estilo, sino que pueden intentar diferentes tipos de roles en distintas etapas.
+La exitosa transformación de Lin ha servido de inspiración para muchas actrices. Demostró que una estrella no tiene por qué limitarse a una sola imagen y puede explorar distintos tipos de personajes en diferentes etapas de su vida.
 
-Su dedicación y actitud profesional hacia los personajes también se convierten en un modelo a seguir para las nuevas actrices. Lin Qingxia mostró el espíritu profesional y la búsqueda artística que debe tener un actor.
+Su entrega a los papeles y su profesionalismo son modelos para las nuevas generaciones, mostrando el compromiso artístico que debe tener un actor.
 
-Muchas actrices contemporáneas expresan que se sienten inspiradas y motivadas por Lin Qingxia, quien ha establecido un importante referente para las actrices del cine chino.
+Muchas actrices contemporáneas han declarado estar influenciadas por ella, habiendo establecido un estándar fundamental para las mujeres en la industria cinematográfica de habla china.
 
-## Posición en la historia del cine chino
+## Su lugar en la historia del cine
 
-Lin Qingxia es considerada una de las actrices más importantes en la historia del cine chino. Sus obras abarcan películas literarias, wuxia y cine artístico, mostrando una asombrosa gama de habilidades de actuación.
+Brigitte Lin es considerada una de las actrices más importantes de la historia del cine de habla china. Sus obras abarcan géneros tan diversos como el drama literario, el _wuxia_ y el cine de autor, mostrando un rango actoral asombroso.
 
-Colaboró con directores importantes de distintas épocas, dejando muchas obras clásicas. Estas obras no solo tuvieron éxito comercial, sino también valor artístico significativo.
+Su colaboración con directores clave de distintas épocas ha dejado un legado de clásicos que no solo fueron éxitos comerciales, sino también piezas de gran valor artístico.
 
-Los estudiosos del cine creen que la carrera de Lin Qingxia refleja el desarrollo del cine chino, siendo un testigo y participante importante de la era dorada del cine chino.
+Los historiadores del cine consideran que su carrera refleja la evolución misma del cine chino; ella fue una testigo y protagonista esencial de su edad de oro.
 
-## Posición clásica eterna
+## Un estatus clásico y eterno
 
-Aunque se retiró hace muchos años, la posición de Lin Qingxia en el corazón de los fanáticos sigue siendo elevada. Sus imágenes clásicas y actuaciones memorables se convierten en un tesoro precioso del cine chino.
+Incluso tras años de retiro, el lugar de Brigitte Lin en el corazón de los cinéfilos permanece intacto. Sus imágenes icónicas y sus actuaciones memorables son un patrimonio invaluable del cine de habla china.
 
-Una nueva generación conoce su encanto a través de la revisualización de sus clásicos, demostrando que un buen artista puede trascender el tiempo. Lin Qingxia es un símbolo cultural del cine chino, inspirando a cada nueva generación de artistas.
+Que las nuevas generaciones descubran su encanto al volver a ver sus clásicos demuestra que una gran intérprete puede trascender el tiempo. Brigitte Lin es un símbolo cultural que sigue inspirando a cada nueva generación de cineastas.
 
-## Lecturas relacionadas
+## Lectura adicional
 
-- [San Mao](/es/people/san-mao)：guionista de "Rodar y rodar sobre la tierra", la persona que le dio a Lin Qingxia el premio de mejor actriz del Festival de Cine de Taipei
+- [San Mao](/es/people/san-mao): Guionista de _Red Dust_, la mujer que permitió a Lin ganar el premio a la Mejor Actriz en los Golden Horse Awards.
 
 ## Referencias
 
-- [Lin Qingxia — Taipei Film Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — lista de trabajos de la actriz
-- [Museo del cine de Hong Kong](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — información sobre trabajos de la época de Hong Kong
-- [Dongfang Bubai — Asociación de premios de cine de Hong Kong](https://www.hkfaa.com/) — evaluación de la obra clásica
+- [Brigitte Lin — Taiwan Cinema Net](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Lista de obras de la actriz
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Datos sobre sus obras durante su etapa en Hong Kong
+- [Dongfang Bubai — Asociación de los Hong Kong Film Awards](https://www.hkfaa.com/) — Valoración de su obra clásica
 
-[^1]: Wikipedia "Lin Qingxia": dirigido por Song Cunshou, quien invitó a Lin Qingxia a protagonizar "Fuori dalla finestra" (1973).https://zh.wikipedia.org/wiki/林青霞
+[^1]: Entrada de Wikipedia 〈Brigitte Lin〉: El director Sung Tsun-shou la invitó a protagonizar _Window_ (1973). https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: "Fuori dalla finestra" (1973), dirigido por Song Cunshou, fue el primer papel principal de Lin Qingxia, adaptado de la novela homónima de Qiong Yao. Datos de la Taipei Film Network:https://taiwancinema.bamid.gov.tw/
+[^2]: _Window_ (1973), dirigida por Sung Tsun-shou, fue el primer papel protagónico de Lin, adaptada de la novela homónima de Qiong Yao. Datos de obra en Taiwan Cinema Net: https://taiwancinema.bamid.gov.tw/
 
-[^3]: Lin Qingxia se casó con el comerciante hongkonés Hong Li Yuan el 29 de junio de 1994 y retiró del cine, según reportes en Wikipedia "Lin Qingxia" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: Lin se retiró del espectáculo tras casarse con el empresario de Hong Kong Sing Lee el 29 de junio de 1994; para más detalles, véase la entrada de Wikipedia sobre "Brigitte Lin" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
 
-[^4]: "Xiá​guó Jiānghú II: Dòng​fāng Bù​bài" (1992), dirigido por Tsui Hark, Lin Qingxia interpreta a Dongfang Bubai, colección del Museo del cine de Hong Kong.https://www.filmarchive.gov.hk/
+[^4]: _Swordsman II_ (1992), dirigida por Tsui Hark, con Brigitte Lin en el papel de Dongfang Bubai, colección del Hong Kong Film Archive. https://www.filmarchive.gov.hk/
 
-[^5]: Lin Qingxia escribió "Dentro y fuera de la ventana", Tianyi Libros, 2011. Este libro es su principal colección de ensayos, bien valorado por la comunidad literaria.<https://www.books.com.tw/products/0010512315>
+[^5]: Brigitte Lin, _Inside and Outside the Window_, Tiandi Books, 2011. Su principal colección de ensayos, recibida con elogios por la comunidad literaria. <https://www.books.com.tw/products/0010512315>

@@ -1,15 +1,15 @@
 ---
-title: 'Community and Li Culture in Taiwan'
-description: 'From grassroots democratic practice to social innovation in community building'
+title: 'Taiwanese Neighborhood and Village Culture'
+description: "Villages (Li) are the smallest cells of Taiwan's democratic society: village chiefs convene resident meetings, neighborhood leaders report door-to-door, and community colleges hold classes in nearby classrooms. This article starts from the grassroots neighborhood system, traces the history of the community building movement and community college experiments, and examines how civic participation has shifted from passive reception to active transformation, as well as how this grassroots network sustains Taiwan's social resilience."
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'li (neighborhood) system',
-    'community building',
-    'community university',
-    'civic participation',
-    'local autonomy',
+    'Neighborhood System',
+    'Community Building',
+    'Community College',
+    'Civic Participation',
+    'Local Self-Governance',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:35+08:00'
+translatedAt: '2026-10-15T19:27:29.903685+00:00'
 ---
 
 # Community and Li Culture in Taiwan

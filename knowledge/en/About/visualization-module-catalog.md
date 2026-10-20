@@ -257,7 +257,7 @@ Source: Ministry of the Interior, Department of Household Registration, late 202
 
 ```tw-iso
 How much public housing was built by the government in these 24 years?
-Unit: ● = 20,000 units
+單位：● = 20,000 units
 Government-built | 174,891 units | 1976–1999
 Total broad-definition public housing | Over 390,000 units | Until abolition in 2015
 Source: Executive Yuan press release on the abolition of the National Housing Act
@@ -269,7 +269,7 @@ Parliamentary seat composition has its own specialized chart: a semi-circular do
 
 ```tw-arc
 2024 Legislative Yuan Seats: No Party Holds Majority (113 seats)
-Majority: 57
+過半：57
 KMT | 52
 DPP | 51
 TPP | 8

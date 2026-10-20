@@ -1,15 +1,15 @@
 ---
 title: 'Gwei Lun-mei'
-description: 'Dari The Secrets We Cannot Tell hingga selebriti festival film internasional, bintang aktris berkualitas yang rendah hati'
+description: 'Lahir di desa militer Taipei pada tahun 1983, ia memulai karier aktingnya melalui peran Meng Ke-rou dalam "Blue Gate Crossing" setelah ditemukan oleh asisten sutradara Yi Chih-yen di kampus pada tahun 2002. Dari "Secret" hingga menjadi langganan festival film internasional, meskipun tampil rendah hati, ia tetap menjadi salah satu aktris film seni paling representatif di industri film Taiwan berkat kemampuan akting yang solid dan aura artistiknya.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Gwei Lun-mei',
     'Aktris',
-    'The Secrets We Cannot Tell',
+    'Secret',
     'Festival Film Internasional',
-    'Bakat Seni Peran',
+    'Aktor Karakter',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,134 +17,134 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:266bd954eeb032d3'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:34a9d268091c23c6'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-10-16T00:53:07+08:00'
 ---
 
-# Gwei Lun-mei: Aktris Berkualitas yang Rendah Hati dan Tangguh
+# Gwei Lun-mei: Aktris Karakter yang Rendah Hati dan Tangguh
 
-Gwei Lun-mei terkenal karena seni perannya yang alami tulus, dan gaya pribadi yang rendah hati. Dia adalah salah satu wajah dari generasi aktor Taiwan yang paling mendapat perhatian festival film internasional. Film debut tahun 2002, _Blue Gate Crossing_, menandai permulaan karier aktingnya. Tahun 2007, _The Secrets We Cannot Tell_ yang disutradarai oleh [Jay Chou](/id/people/jay-chou/) membuat namanya dikenal luas, dan karya-karya berikutnya seperti _About Love_ terus mendapat pengakuan dari Golden Horse Awards.[^2]
+Gwei Lun-mei dikenal karena kemampuan aktingnya yang alami dan tulus serta gaya pribadinya yang rendah hati, menjadikannya salah satu wajah dari generasi baru aktor Taiwan yang paling diperhatikan oleh festival film internasional. Pada tahun 2002, "Blue Gate Crossing" menjadi karya debutnya, dan pada tahun 2007, film "Secret" yang disutradarai oleh [Jay Chou](/id/people/jay-chou/) membuatnya dikenal luas. Sejak saat itu, karya-karyanya seperti "Girlfriend, Boyfriend" terus mendapatkan pengakuan dari Golden Horse Awards. [^2]
 
-## Gadis Eyuancun Memperoleh Pencerahan Seni
+## Inisiasi Artistik Gadis Desa Militer
 
-Gwei Lun-mei dilahirkan pada 25 Desember 1983 di Taipei. Ayahnya adalah seorang militer, dan ibunya adalah pegawai negeri, tumbuh besar di lingkungan eyuancun (komplek perumahan militer). Perhatian keluarga terhadap pendidikan dan nuansa budaya multikultural eyuancun telah menumbuhkan kepribadiannya yang pendiam dan introspektif.
+Gwei Lun-mei lahir pada 25 Desember 1983 di Taipei. Ayahnya adalah seorang tentara dan ibunya adalah seorang pegawai negeri; ia tumbuh dalam lingkungan desa militer (_juancun_). Penekanan keluarga terhadap pendidikan dan pengaruh budaya beragam di desa militer membentuk kepribadiannya yang tenang dan tertutup.
 
-Pada masa sekolah menengah, dia menuntut ilmu di Jungmei High School for Girls, dan memiliki minat yang kuat terhadap sastra dan seni, sering terlibat dalam kegiatan seni budaya sekolah. Karakter Gwei terasa segar dan istimewa, tetapi pada waktu itu dia tidak memiliki aspirasi yang jelas untuk menjadi seorang aktor.
+Saat menempuh pendidikan menengah di SMA Jingmei, Gwei Lun-mei memiliki minat yang besar terhadap sastra dan seni, serta sering berpartisipasi dalam kegiatan seni di sekolah. Meskipun memiliki aura yang segar dan elegan, ia tidak memiliki ambisi yang jelas untuk menjadi seorang aktor.
 
-Setelah lulus sekolah menengah atas, Gwei masuk ke Universitas Fu Jen untuk belajar hukum, awalnya merencanakan menempuh jalur akademis. Namun selama masa kuliah, kebetulan dia mendapat kesempatan untuk melakukan pertunjukan yang mengubah lintasan hidupnya.
+Setelah lulus SMA, ia melanjutkan studi di Departemen Hukum Universitas Fu Jen dan awalnya berencana menempuh jalur akademis. Namun, selama masa kuliah, sebuah kesempatan akting yang tidak terduga mengubah arah hidupnya.
 
-## Awal Karier Pertunjukan yang Tak Terduga
+## Titik Awal Karier yang Tak Terduga
 
-Masuk ke dunia hiburan Gwei Lun-mei adalah kebetulan semata. Pada tahun 2002, dia ditemukan oleh asisten sutradara dari sutradara Yi Chih-yen di kampus, dan diundang untuk audisi _Blue Gate Crossing_. Pada waktu itu, dia sama sekali tidak memiliki pengalaman dalam pertunjukan.
+Masuknya Gwei Lun-mei ke dunia hiburan murni karena kebetulan. Pada tahun 2002, ia ditemukan oleh asisten sutradara Yi Chih-yen di kampusnya dan diundang untuk mengikuti audisi "Blue Gate Crossing". Saat itu, ia sama sekali tidak memiliki pengalaman dalam berakting.
 
-_Blue Gate Crossing_ menceritakan tentang kebingungan emosional gadis remaja, dan Gwei memainkan peran Meng Ke-rou, seorang siswi yang pemalu dan peka. Dia menafsirkan karakter ini dengan cara yang sangat natural, menampilkan bakat pertunjukan yang menakjubkan.
+"Blue Gate Crossing" menggambarkan kebingungan emosional remaja perempuan; peran Meng Ke-rou yang dimainkan Gwei Lun-mei adalah seorang siswi yang introvert dan sensitif. Ia menafsirkan karakter ini dengan cara yang paling alami, menunjukkan bakat akting yang luar biasa.
 
-Film ini mendapat perhatian dari festival film internasional, dan pertunjukan Gwei mendapat pujian. Meskipun performa box office biasa saja, film ini membuka permulaan yang baik untuk karier aktingnya, dan juga membuat dunia film Taiwan memperhatikan wajah baru ini.
+Film ini menarik perhatian festival film internasional, dan penampilan Gwei Lun-mei mendapat pujian. Meskipun performa box office-nya biasa saja, hal ini memberikan awal yang baik bagi karier aktingnya dan membuat industri film Taiwan memperhatikan wajah baru ini.
 
-## Terobosan dalam The Secrets We Cannot Tell
+## Terobosan melalui "Secret"
 
-Tahun 2007, Gwei Lun-mei memainkan peran utama dalam _The Secrets We Cannot Tell_ yang disutradarai oleh [Jay Chou](/id/people/jay-chou/), sebuah titik balik penting dalam karier aktingnya. Dalam film ini, dia memainkan peran gadis misterius, Lu Xiao-yu, yang memiliki kisah cinta lintas waktu dengan Jay Chou.
+Pada tahun 2007, peran utama Gwei Lun-mei dalam film "Secret" yang disutradarai oleh [Jay Chou](/id/people/jay-chou/) menjadi titik balik penting dalam karier aktingnya. Dalam film tersebut, ia memerankan siswi misterius Lu Xiao-yu, yang terlibat dalam kisah cinta lintas ruang dan waktu dengan Jay Chou.
 
-Film ini menggabungkan elemen cinta, fantasi, dan musik, dan Gwei harus menafsirkan lapisan emosi yang kompleks. Pertunjukannya yang halus dan menyentuh hati, terutama adegan bermain piano, menampilkan bakat multifasetnya.
+Film ini menggabungkan elemen romansa, fantasi, dan musik, sehingga Gwei Lun-mei perlu menafsirkan lapisan emosi yang kompleks. Penampilannya halus dan menyentuh, terutama dalam adegan bermain piano yang menunjukkan bakat multifasetnya.
 
-_The Secrets We Cannot Tell_ mencapai kesuksesan komersial yang besar, dan Gwei menjadi terkenal. Namun dia tidak kehilangan arah karena kesuksesan ini, melainkan lebih fokus untuk meningkatkan keterampilan aktingnya.
+"Secret" meraih kesuksesan komersial yang besar, membuat nama Gwei Lun-mei meledak. Namun, ia tidak kehilangan arah karena popularitas tersebut, melainkan semakin fokus untuk meningkatkan kemampuan aktingnya.
 
-## Hubungan Guru-Murid dengan Edward Yang
+## Hubungan Guru dan Murid dengan Edward Yang
 
-Gwei Lun-mei pernah mendapat bimbingan dan kasih sayang dari sutradara almarhum [Edward Yang](/id/people/yang-dechang/). Edward Yang memiliki pengaruh penting pada perkembangan seni peran Gwei. Meskipun tidak ada kolaborasi resmi dalam pembuatan film, filosofi sinematik Edward Yang telah mempengaruhi konsep pertunjukan Gwei secara mendalam.
+Gwei Lun-mei pernah menerima bimbingan dan perhatian dari mendiang sutradara [Edward Yang](/id/people/yang-dechang/). Edward Yang memiliki pengaruh penting terhadap perkembangan kemampuan aktingnya. Meskipun tidak pernah bekerja sama secara resmi dalam sebuah film, filosofi sinematik Edward Yang sangat memengaruhi konsep aktingnya.
 
-Edward Yang percaya bahwa Gwei memiliki potensi untuk menjadi seorang aktor yang luar biasa, dan mendorong dirinya untuk fokus pada latihan seni peran, tanpa tergoda oleh ketenaran dan keuntungan materi. Ajaran-ajaran ini memiliki pengaruh yang mendalam pada sikap pemilihan naskah Gwei di kemudian hari.
+Edward Yang percaya bahwa Gwei Lun-mei memiliki potensi untuk menjadi aktor yang luar biasa, dan mendorongnya untuk fokus mengasah kemampuan akting tanpa tergoda oleh ketenaran atau kekayaan materi. Ajaran ini berdampak mendalam pada sikapnya dalam memilih peran di kemudian hari.
 
-Gwei telah berkali-kali menyatakan rasa terima kasih dan kenangan indah terhadap Edward Yang dalam berbagai wawancara, dan menganggapnya sebagai guru penting dalam perjalanan aktingnya. Ikatan hubungan guru-murid ini telah menjadi percakapan indah dalam industri film Taiwan.
+Gwei Lun-mei berulang kali mengungkapkan rasa terima kasih dan kerinduannya terhadap Edward Yang dalam berbagai wawancara, menganggapnya sebagai guru penting dalam perjalanan aktingnya. Hubungan guru-murid ini menjadi kisah yang indah di industri film Taiwan.
 
 ## Pengakuan dari Festival Film Internasional
 
-Karya-karya Gwei sering dipilih untuk festival film internasional, dan dia juga telah diundang berkali-kali untuk berfungsi sebagai juri festival film. Pengalaman-pengalaman ini telah membuka cakrawala internasional Gwei dan juga meningkatkan ketenaran sinema Taiwan di panggung internasional.
+Karya-karya Gwei Lun-mei sering terpilih dalam festival film internasional, dan ia juga beberapa kali diundang untuk menjadi juri festival. Pengalaman ini memperluas wawasan internasionalnya dan meningkatkan visibilitas film Taiwan di kancah dunia.
 
-_About Love_ tahun 2012 adalah salah satu karya pentingnya, berkolaborasi dengan Feng Xiao-yue dan Zhang Xiao-quan, menceritakan hubungan emosi yang rumit di antara tiga orang. Karya ini masuk dalam daftar berbagai festival film internasional dan mendapat sambutan positif.
+"Girlfriend, Boyfriend" pada tahun 2012 adalah salah satu karya pentingnya, bekerja sama dengan Feng Hsiao-yue dan Chang Hsiao-chuan, yang menggambarkan hubungan emosional yang kompleks di antara tiga orang. Karya ini masuk dalam berbagai festival internasional dan mendapat pujian.
 
-Dia juga berpartisipasi dalam karya-karya dari sutradara Hong Kong seperti Ann Hui, misalnya _The Apology King_. Pengalaman-pengalaman ini menunjukkan kemampuan adaptasinya dalam latar belakang budaya yang berbeda. Pengalaman kolaborasi lintas wilayah ini telah memperkaya catatan pertunjukan Gwei.
+Ia juga berpartisipasi dalam karya sutradara Hong Kong, Ann Hui, seperti "Moonlit Winter", yang menunjukkan kemampuannya untuk beradaptasi dalam latar budaya yang berbeda. Pengalaman kolaborasi lintas wilayah ini memperkaya pengalaman aktingnya.
 
-## Selera Unik dalam Pemilihan Naskah
+## Selera Unik dalam Memilih Peran
 
-Gwei Lun-mei menunjukkan selera yang unik dalam pemilihan naskah, dia lebih menyukai karya-karya yang memiliki kedalaman dan nilai artistik, jarang menerima peran dalam film komersial murni. Ketekunan ini membuat setiap karyanya memiliki jaminan mutu tertentu.
+Gwei Lun-mei menunjukkan selera yang unik dalam memilih peran; ia lebih menyukai karya yang memiliki kedalaman dan nilai artistik, serta jarang mengambil film yang murni komersial. Konsistensi ini menjamin kualitas dari setiap karyanya.
 
-Dia telah berkolaborasi dengan banyak sutradara Taiwan yang luar biasa, termasuk Chung Mong-hong, Zhang Tso-chi, dan Chen Zhe-yi. Kolaborasi-kolaborasi ini memungkinkan dia terlibat dengan berbagai gaya film dan metode pertunjukan.
+Ia bekerja sama dengan banyak sutradara berbakat Taiwan, termasuk Chung Mong-hong, Chang Tso-chi, dan Chen Yi-wen. Kolaborasi ini memungkinkannya bersentuhan dengan berbagai gaya film dan metode akting yang berbeda.
 
-Gwei percaya bahwa seorang aktor harus menantang dirinya sendiri, dan mencoba berbagai jenis peran. Setiap karya yang dia buat menunjukkan pertumbuhan dan terobosan dalam kemampuan aktingnya.
+Gwei Lun-mei percaya bahwa seorang aktor harus menantang diri sendiri dan mencoba berbagai jenis karakter. Dalam setiap karyanya, terlihat pertumbuhan dan terobosan dalam kemampuan aktingnya.
 
 ## Gaya Pribadi yang Rendah Hati
 
-Gwei Lun-mei terkenal karena kerendahhatiannya di dunia hiburan, jarang terlibat dalam berita gosip atau kegiatan promosi murahan. Dia fokus pada pertunjukan itu sendiri, tidak mengejar eksposur media dan keuntungan komersial.
+Di dunia hiburan, Gwei Lun-mei dikenal karena sikapnya yang rendah hati; ia jarang terlibat dalam berita gosip atau aktivitas sensasional. Ia fokus pada akting itu sendiri, tanpa mengejar eksposur media atau keuntungan komersial.
 
-Gaya rendah hati ini sangat langka di lingkungan hiburan saat ini, tetapi juga membuat dia memenangkan rasa hormat dari industri dan penonton. Dia berbicara melalui karyanya, bukan melalui kemasan luar.
+Gaya yang rendah hati ini cukup langka dalam lingkungan hiburan saat ini, namun hal tersebut membuatnya mendapatkan rasa hormat dari industri dan penonton. Ia membiarkan karyanya yang berbicara, bukan kemasan luar.
 
-Dalam wawancara, dia sering menekankan bahwa dirinya hanyalah orang biasa, tidak ada yang istimewa. Sikap kerendahhatian ini membuat dirinya lebih dekat dengan hati orang-orang.
+Dalam wawancara, ia sering menekankan bahwa dirinya hanyalah orang biasa tanpa sesuatu yang istimewa. Sikap rendah hati ini membuatnya terasa lebih dekat dengan masyarakat.
 
-## Peningkatan Berkelanjutan dalam Seni Peran
+## Peningkatan Kemampuan Akting yang Berkelanjutan
 
-Gwei Lun-mei selalu menempatkan peningkatan kemampuan pertunjukan di tempat pertama. Dia terus belajar teknik dan metode pertunjukan yang baru. Dia telah berpartisipasi dalam berbagai workshop pertunjukan, dan juga menanyakan saran dari aktor berpengalaman.
+Gwei Lun-mei selalu menempatkan peningkatan kemampuan akting sebagai prioritas utama; ia terus mempelajari teknik dan metode akting baru. Ia telah berpartisipasi dalam berbagai lokakarya akting dan juga belajar dari aktor senior.
 
-Dia sangat memperhatikan kontruksi batin dari sebuah karakter, percaya bahwa seorang aktor harus benar-benar memahami peran itu untuk dapat menampilkan pertunjukan yang autentik. Metode memperdalam karakter ini membuat pertunjukannya selalu penuh dengan daya bujuk.
+Ia sangat mementingkan konstruksi batin karakter, percaya bahwa seorang aktor harus benar-benar memahami karakter tersebut agar dapat menyajikan akting yang nyata. Metode pendalaman karakter ini membuat penampilannya selalu meyakinkan.
 
-Dalam beberapa tahun terakhir, dia juga mencoba pertunjukan di panggung teater, menantang bentuk pertunjukan yang berbeda. Pengalaman-pengalaman ini membuat seni perannya lebih komprehensif dan mendalam.
+Dalam beberapa tahun terakhir, ia juga mencoba teater panggung untuk menantang berbagai bentuk pertunjukan. Pengalaman ini membuat kemampuan aktingnya menjadi lebih menyeluruh dan mendalam.
 
-## Kontribusi terhadap Sinema Taiwan
+## Kontribusi terhadap Film Taiwan
 
-Gwei Lun-mei adalah representasi penting dari generasi aktor baru Taiwan. Kesuksesannya membuktikan bahwa Taiwan dapat menghasilkan aktor yang memiliki standar internasional. Dia telah memberikan kontribusi penting bagi promosi sinema Taiwan di panggung internasional.
+Gwei Lun-mei adalah representasi penting dari generasi baru aktor Taiwan; keberhasilannya membuktikan bahwa Taiwan dapat mencetak aktor dengan standar internasional. Ia telah memberikan kontribusi penting dalam mempromosikan film Taiwan di dunia internasional.
 
-Gaya pertunjukannya yang natural dan tulus mewakili ciri khas generasi aktor Taiwan yang baru. Cara pertunjukan ini berbeda dari pertunjukan dramatis tradisional, lebih dekat dengan keaslian kehidupan.
+Gaya aktingnya yang alami dan tulus mewakili karakteristik generasi baru aktor Taiwan. Gaya akting ini berbeda dari gaya teatrikal tradisional, karena lebih mendekati realitas kehidupan.
 
-Banyak aktor muda menggunakan Gwei Lun-mei sebagai model pembelajaran. Orientasi pemilihan naskahnya dan metode aktingnya memberikan jalan acuan yang konkret bagi generasi penerus.
+Banyak aktor muda menjadikan Gwei Lun-mei sebagai objek pembelajaran; orientasi pemilihan perannya dan metode aktingnya memberikan referensi konkret bagi para penerusnya.
 
 ## Kolaborasi Mendalam dengan Sutradara
 
-Gwei Lun-mei pandai membangun hubungan kreatif yang mendalam dengan sutradara. Dia akan terlibat dalam diskusi mendalam tentang pengaturan karakter dan arah pertunjukan. Cara kolaborasi ini membuat pertunjukannya menjadi lebih presisi dan berlapis.
+Gwei Lun-mei mahir dalam membangun hubungan kreatif yang mendalam dengan sutradara; ia akan berdiskusi secara mendalam mengenai pengaturan karakter dan arah akting. Model kolaborasi ini membuat penampilannya menjadi lebih presisi dan berlapis.
 
-Kolaborasi Gwei dengan sutradara Chung Mong-hong sangat sukses, salah satu karyanya yang perwakilan adalah _Senses of Cinema_ (2013).[^1] Karya ini menampilkan kemampuan adaptasinya dalam film genre thriller.
+Kolaborasinya dengan sutradara Chung Mong-hong sangat sukses, di mana "The Missing" (2013) adalah salah satu karya representatifnya. [^1] Karya ini menunjukkan kemampuannya dalam beradaptasi dengan genre thriller.
 
-Gwei percaya bahwa aktor dan sutradara adalah mitra kreatif yang memerlukan kepercayaan dan koordinasi saling. Dia selalu berusaha sepenuhnya untuk memenuhi kebutuhan kreatif sutradara, dan juga akan mengajukan ide-idenya sendiri.
+Gwei Lun-mei percaya bahwa aktor dan sutradara adalah mitra kreatif yang membutuhkan kepercayaan dan kerja sama satu sama lain. Ia selalu bekerja keras memenuhi kebutuhan kreatif sutradara, sembari tetap mengajukan ide-idenya sendiri.
 
-## Pemikiran tentang Seni Pertunjukan
+## Pemikiran tentang Seni Peran
 
-Gwei Lun-mei memiliki pemikiran yang mendalam tentang pertunjukan. Dia percaya bahwa pekerjaan aktor adalah menafsirkan kompleksitas kemanusiaan. Setiap karakter adalah individu yang unik, memerlukan perhatian dan pemahaman serta presentasi dengan cermat.
+Gwei Lun-mei memiliki pemikiran mendalam tentang akting; ia percaya bahwa tugas aktor adalah menafsirkan kompleksitas kemanusiaan. Setiap karakter adalah individu yang unik, yang perlu dipahami dan disajikan dengan sepenuh hati.
 
-Dia menekankan keaslian dalam pertunjukan, percaya bahwa penonton dapat merasakan keikhlasan aktor. Teknik memang penting, tetapi yang paling penting adalah ketulusan emosi.
+Ia menekankan keaslian dalam berakting, percaya bahwa penonton dapat merasakan ketulusan seorang aktor. Teknik memang penting, tetapi yang terpenting adalah kejujuran emosi.
 
-Gwei juga peduli dengan isu-isu sosial, dia berharap dapat menyampaikan nilai-nilai positif melalui karyanya. Dia percaya bahwa seni harus memiliki fungsi mendidik dan menginspirasi.
+Gwei Lun-mei juga memperhatikan isu-isu sosial; ia berharap dapat menyampaikan nilai-nilai positif melalui karya-karyanya. Ia percaya bahwa seni harus memiliki fungsi edukasi dan inspirasi.
 
-## Arah Pengembangan di Masa Depan
+## Arah Pengembangan Masa Depan
 
-Gwei Lun-mei menyatakan akan terus fokus pada peningkatan seni peran, berharap dapat menantang berbagai jenis peran yang berbeda. Dia juga mempertimbangkan untuk mencoba bekerja sebagai sutradara pada waktu yang tepat.
+Gwei Lun-mei menyatakan akan terus fokus pada peningkatan kemampuan aktingnya, dengan harapan dapat menantang lebih banyak jenis karakter yang berbeda. Ia juga mempertimbangkan untuk mencoba peran sebagai sutradara pada waktu yang tepat.
 
-Dia berharap dapat berkolaborasi dengan lebih banyak sutradara internasional yang luar biasa, dan menampilkan kemampuan aktor Taiwan kepada dunia. Pada saat yang sama, dia juga berharap dapat berkontribusi pada pengembangan sinema Taiwan.
+Ia berharap dapat bekerja sama dengan lebih banyak sutradara internasional berbakat untuk menunjukkan kekuatan aktor Taiwan kepada dunia. Pada saat yang sama, ia juga ingin berkontribusi bagi perkembangan film Taiwan.
 
-Sebagai representasi dari aktor berkualitas seni peran, Gwei Lun-mei percaya bahwa selama tetap berpegang pada mutu dan ketulusan, dia dapat menemukan tempat miliknya di industri ini. Pengalamannya membuktikan pentingnya berbisnis dengan sungguh-sungguh.
+Sebagai representasi dari aktor karakter, Gwei Lun-mei percaya bahwa selama ia mempertahankan kualitas dan ketulusan, ia akan menemukan tempatnya di industri ini. Pengalamannya membuktikan pentingnya bekerja dengan sepenuh hati.
 
 ## Keseimbangan Kehidupan Pribadi
 
-Gwei Lun-mei, di samping kesuksesan kariernya, juga memperhatikan mutu kehidupan pribadi. Dia menyukai membaca, bepergian, dan mempertahankan semangat dan rasa ingin tahu terhadap kehidupan.
+Di samping kesuksesan kariernya, Gwei Lun-mei juga memperhatikan kualitas kehidupan pribadinya. Ia suka membaca, bepergian, dan menjaga antusiasme serta rasa ingin tahu terhadap kehidupan.
 
-Dia percaya bahwa pengalaman kehidupan yang kaya adalah aset penting bagi seorang aktor, hanya dengan benar-benar mengalami kehidupan, barulah dapat menampilkan emosi yang autentik dalam pertunjukan.
+Ia percaya bahwa pengalaman hidup yang kaya adalah aset penting bagi seorang aktor; hanya dengan benar-benar mengalami kehidupan, seseorang dapat menyajikan emosi yang nyata dalam aktingnya.
 
-Filosofi hidup Gwei sederhana namun mendalam: lakukan hal yang kamu sukai, hargai orang-orang di sekitarmu, dan pertahankan niat awal. Sikap ini membuat dirinya tetap jernih dan murni di tengah lingkungan hiburan yang kompleks.
+Filosofi hidup Gwei Lun-mei sederhana namun mendalam: lakukan apa yang Anda sukai, hargai orang-orang di sekitar, dan pertahankan niat awal (_初心_). Sikap ini membuatnya tetap jernih dan murni di tengah lingkungan hiburan yang kompleks.
 
-Gwei Lun-mei telah membuktikan melalui karier aktingnya apa itu seorang aktor berkualitas seni peran sejati. Dia tidak mengejar promosi yang besar-besaran, tidak berpartisipasi dalam kompetisi yang tidak berarti, hanya diam-diam menjalankan tanggung jawab yang menjadi bagian dirinya. Kehadiran dirinya sendiri adalah aset berharga bagi sinema Taiwan, dan juga menjadi teladan bagi aktor muda yang belajar.
+Gwei Lun-mei telah membuktikan melalui karier aktingnya apa itu aktor karakter yang sebenarnya. Ia tidak mengejar promosi besar-besaran atau terlibat dalam kompetisi yang sia-sia, melainkan hanya melakukan tugasnya dengan tenang. Keberadaannya sendiri adalah aset berharga bagi film Taiwan dan merupakan teladan bagi para aktor muda.
 
 ## Referensi
 
-- [Gwei Lun-mei — Taiwan Cinema Website](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Daftar karya aktor
-- [Golden Horse Awards Pemenang Sepanjang Masa](https://www.goldenhorse.org.tw/) — Catatan penghargaan
-- [Pengembangan Internasional Aktor Taiwan — Biro Industri Film, Televisi dan Musik Populer, Kementerian Budaya](https://www.bamid.gov.tw/) — Data kolaborasi internasional
+- [Gwei Lun-mei — Taiwan Movie Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Daftar karya aktor
+- [Daftar Pemenang dan Nominasi Golden Horse Awards](https://www.goldenhorse.org.tw/) — Catatan penghargaan
+- [Perkembangan Internasional Aktor Taiwan — Biro Industri Film, Televisi, dan Musik Populer Kementerian Kebudayaan](https://www.bamid.gov.tw/) — Data kolaborasi internasional
 
-[^1]: Wikipedia entry _Senses of Cinema_: _Senses of Cinema_ (2013), sutradara Chung Mong-hong, dibintangi oleh Gwei Lun-mei dan Zhang Xiao-quan. https://zh.wikipedia.org/wiki/失魂
+[^1]: Entri Wikipedia 〈The Missing〉: "The Missing" (2013), sutradara Chung Mong-hong, dibintangi oleh Gwei Lun-mei dan Chang Hsiao-chuan. https://zh.wikipedia.org/wiki/失魂
 
-[^2]: Wikipedia entry _Gwei Lun-mei_, daftar karya film termasuk _Blue Gate Crossing_, _The Secrets We Cannot Tell_, _About Love_. https://zh.wikipedia.org/wiki/桂綸鎂
+[^2]: Entri Wikipedia 〈Gwei Lun-mei〉, mencantumkan catatan karya seperti "Blue Gate Crossing", "Secret", "Girlfriend, Boyfriend", dan lainnya. https://zh.wikipedia.org/wiki/桂綸鎂
 
-[^3]: _Blue Gate Crossing_ (2002), sutradara Yi Chih-yen, dibintangi oleh Gwei Lun-mei dan Chen Po-lin, dipresentasikan di berbagai festival film internasional. Data Taiwan Cinema Website: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+[^3]: "Blue Gate Crossing" (2002), sutradara Yi Chih-yen, dibintangi oleh Gwei Lun-mei dan Chen Po-lin, diputar di berbagai festival internasional. Data Taiwan Movie Network: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
 
-[^4]: _About Love_ (2012), sutradara Yang Ya-che, dinominasikan untuk Penghargaan Aktris Terbaik di Golden Horse Awards ke-49. Official Golden Horse Awards website: https://www.goldenhorse.org.tw/
+[^4]: "Girlfriend, Boyfriend" (2012), sutradara Yang Ya-che, masuk nominasi Aktris Terbaik Golden Horse Awards ke-49. Situs resmi Golden Horse Awards: https://www.goldenhorse.org.tw/
 
-[^5]: _The Apology King_ (2017), sutradara Ann Hui, Gwei Lun-mei berpartisipasi dalam pertunjukan, menunjukkan kolaborasi lintas wilayah. Hong Kong Film Archive Collection: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>
+[^5]: "Moonlit Winter" (2017), sutradara Ann Hui, melibatkan partisipasi Gwei Lun-mei, menunjukkan kolaborasi lintas wilayah. Koleksi Arsip Film Hong Kong: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

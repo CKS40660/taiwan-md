@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'c0f587606'
-sourceContentHash: 'sha256:322fadf3d54cf027'
-sourceBodyHash: 'sha256:5a14ed890fa46c36'
-translatedAt: '2026-09-11T17:26:58+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:b9213e8245304093'
+sourceBodyHash: 'sha256:d67040679486fd02'
+translatedAt: '2026-10-15T03:57:35.679322+00:00'
 ---
 
 On August 11, 2024 (Taiwan time), on the red clay of the Roland Garros stadium in Paris, as the bell rang for the women's 57 kg gold medal bout, Taiwanese athlete Lin Yu-ting defeated Polish fighter Julia Szeremeta with a decisive 5-0 victory[^1][^2]. After the match, just as she had done following her loss at the Tokyo Olympics, she once again hoisted her coach of fifteen years, Zeng Ziqiang, onto her back. This moment not only fulfilled the long-held dream of the teacher and student but also secured Taiwan's first-ever Olympic boxing gold medal[^3][^5]. However, the weight of this gold medal far exceeded the physical limits of the medal itself—more than a month before it was awarded, Lin Yu-ting was forced to stand at the forefront of global public opinion, bearing a tidal wave of gender-based skepticism and transnational cyber-hunting[^5].
@@ -36,14 +36,15 @@ On August 11, 2024 (Taiwan time), on the red clay of the Roland Garros stadium i
 
 Tracing Lin Yu-ting's growth trajectory, boxing was initially not born out of a romantic longing for sport, but rather an instinctual act of self-defense. The shadow of domestic violence in her childhood made her experience the cruelty and helplessness of reality at a very young age. She has often stated in interviews: "When I was little, my father often hit my mother, so I joined the boxing team, hoping I could use my own strength to protect my mother."[^9][^10]. Fragments of family conflict became the anxiety of her youth, and the makeshift boxing team in the basement of Yingge Junior High School in New Taipei City became her sanctuary for escaping reality and forging her will[^11].
 
-## The Grassroots Boxing Revolution in a Makeshift Venue
+## Grassroots Boxing Revolution in Adversity
 
-The training environment at the time was extremely rudimentary, lacking top-tier protective gear and medical teams, consisting only of rough punching bags, weathered walls, and day-after-day sweat. It was here that she met the coach who would change her life, Zeng Ziqiang[^7][^8]. Zeng Ziqiang saw the unyielding stubbornness in the eyes of this thin girl, and the two established a close bond akin to father and daughter, as well as teacher and friend, launching a grassroots boxing revolution in Taiwan that would last over a decade[^7][^8].
+The training environment at the time was extremely rudimentary, with no top-tier protective gear or medical team, only rough sandbags, mottled walls, and day after day of sweat. It was here that she met Coach Zeng Ziqiang, who would change her life[^7][^8]. Zeng Ziqiang saw the unyielding stubbornness in this frail girl's eyes, and the two built a close bond like father and daughter, both teacher and friend, embarking on a grassroots boxing revolution in Taiwan that lasted over a decade[^7][^8].
 
 ```tw-stat
-5 : 0 | Paris Gold Medal Bout Score | Decisive victory over opponents (four wins)
-15 years | Years of Teacher-Student Companionship | Coach Zeng Ziqiang accompanied her all the way
-1st | Historical Status Record | Taiwan's first-ever Olympic boxing gold medal
+5：0 | Paris Gold Medal Match Score | Overwhelming Victory Over Opponents (Four Wins in Four Matches)
+15 年 | Years of Teacher-Student Companionship | Coach Zeng Ziqiang Accompanied Throughout
+1st | Historical Status Record | First Boxing Gold Medal in Taiwan's Olympic History
+Source: Paris Olympics Event Reports and Interviews with Coach Zeng Ziqiang and Lin Yu-ting Herself (See Previous Section Footnotes)[^1][^2][^7][^8][^9]
 ```
 
 ## "We Must Also Become Our Own Magicians": The Philosophical Resonance of Teacher and Student
@@ -76,13 +77,13 @@ Facing the immense psychological pressure after the Tokyo Olympics defeat, Coach
 
 ## The Unprovoked Storm at the New Delhi World Championships and the Institutional Trap
 
-Just as she adjusted her mindset and returned to the world's top ranking, a greater test quietly descended during the 2023 New Delhi World Championships. At that time, she was unexpectedly disqualified from the bronze medal match by the International Boxing Association (IBA) on the grounds of unknown "biochemical index abnormalities"[^3][^4][^17]. This decision lacked transparent scientific basis and due appeal channels, planting the seeds for subsequent controversies in the international sports arena.
+Just as she was adjusting her mindset and returning to world No. 1, a greater test quietly descended at the 2023 New Delhi World Championships. At that time, she was stripped of her bronze medal eligibility without warning by the International Boxing Association (IBA) on the grounds of unspecified "abnormal biochemical indicators"[^3][^4][^17]. This decision lacked transparent scientific basis and proper appeal channels, planting the seeds for subsequent international sports controversy.
 
 ```tw-timeline
-2021 | Tokyo Olympics Defeat | Made her debut at the highest hall, stopped unexpectedly in the first round, carried her coach on her back after the match, and promised to return to the peak.
-2023 | World Championships Gender Storm | Deprived of the bronze medal by IBA due to abnormal biochemical tests, suffering the greatest institutional setback of her sports career.
-2024 | Paris Olympics Summit | Withstood the pressure of global transnational cyber-hunting, swept to gold with four 5-0 victories, completing the historical grand slam.
-2026 | World Boxing Recognition | After a year and a half of appeals, the World Boxing Alliance officially recognized her eligibility, clearing her name.
+2021 | Tokyo Olympics Setback | First appearance at the highest stage ended unexpectedly in the first round; afterward she carried her coach on her back and vowed to return to the summit.
+2023 | World Championships Gender Storm | Stripped of bronze medal by IBA citing abnormal biochemical test, suffered the greatest institutional setback of her athletic career.
+2026 | World Boxing Recognition | After year-and-a-half of appeals, World Boxing officially recognized her eligibility, vindicating her.
+Source: Tokyo Olympics, IBA bronze medal revocation controversy, and 2026 World Boxing recognition reports cited in this article[^3][^4][^15][^17]
 ```
 
 ## A Victim of Power Struggles in International Sports Governance and Scientific Interpretation

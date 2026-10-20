@@ -1,20 +1,27 @@
 ---
-title: 'Wang Yung-ching : du rizier à la bataille de vingt ans pour la Sixième Raffinerie, puis le feuilleton de la succession'
-description: "Né le 18 janvier 1917 à Xindian, Taipei, Wang Yung-ching quitte l'école à 15 ans et emprunte pour ouvrir un commerce de riz. En 1954, il fonde Formosa Plastics. En 1973, il soumet au gouvernement le projet de la Sixième Raffinerie de craquage léger (六輕), qui n'est approuvé qu'après près de vingt ans de lutte, pour une production en série lancée en 1998 à Mailiao, dans le comté de Yunlin. Il meurt le 15 octobre 2008 aux États-Unis, à l'âge de 92 ans, laissant derrière lui un conflit successoral familial qui s'étend sur plus d'une décennie."
+title: 'Wang Yung-ching : de la rizière au Sixième Craqueur, vingt ans de combat, et le grand drame successoral après sa mort'
+description: "Né en 1917 dans une famille paysanne pauvre de Xindian, Taipei, il quitte l'école à 15 ans, emprunte 200 yens japonais à son père pour ouvrir la « Nouvelle usine de riz Takao », fonde Taiwan Plastic en 1954, et sera plus tard surnommé le « Dieu de la gestion ». En 1973, il propose le Sixième Craqueur au gouvernement, essuie plusieurs refus mais ne renonce pas, se battant près de vingt ans avant d'obtenir l'approbation ; la production de masse débute officiellement en 1998 à Mailiao, Yunlin. Il décède le 15 octobre 2008 à New York, aux États-Unis, à l'âge de 92 ans ; le conflit successoral familial qui s'ensuit s'éternise jusqu'aux alentours de 2022."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technologie et entreprise',
+    'Groupe Formosa Plastics',
+    'Industrie pétrochimique',
+    'Sixième Craqueur',
+    'Entrepreneur',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '台塑集團', '石化工業', '六輕', '企業家']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-05-28T05:08:35+08:00'
+translatedAt: '2026-10-15T19:45:24.179410+00:00'
 ---
 
 # Wang Yung-ching : du rizier à la bataille de vingt ans pour la Sixième Raffinerie, puis le feuilleton de la succession

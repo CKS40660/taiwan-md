@@ -1,14 +1,14 @@
 ---
-title: 'Wang Yung-ching: Dari Toko Beras ke Naphtha Cracker Keenam, Pertempuran Dua Puluh Tahun dan Drama Warisan Keluarga'
-description: 'Dilahirkan 18 Januari 1917 di Hsintien, Taipei, Wang Yung-ching berhenti sekolah pada usia 15 tahun dan meminjam 200 yen Jepang untuk membuka toko beras. Mendirikan Taiwan Plastics pada tahun 1954. Tahun 1973 mengajukan proposal Naphtha Cracker Keenam (Liuqing) kepada pemerintah, setelah pertempuran hampir dua puluh tahun akhirnya mendapat persetujuan, mulai produksi massal pada 1998 di Mailiao, Yunlin. Meninggal 15 Oktober 2008 di Amerika Serikat pada usia 92 tahun, meninggalkan sengketa warisan keluarga yang berlangsung lebih dari satu dekade.'
+title: 'Wang Yung-ching: Perjuangan Dua Dekade Toko Beras dan Formosa Plastics, Serta Drama Perebutan Warisan Setelah Kematiannya'
+description: 'Lahir pada tahun 1917 dari keluarga petani miskin di Xindian, Taipei, ia putus sekolah pada usia 15 tahun dan meminjam NT$200 dari ayahnya untuk mendirikan "Xin Gao Rice Mill". Pada tahun 1954, ia mendirikan Taiwan Plastics, yang kemudian dijuluki sebagai "Dewa Manajemen". Pada tahun 1973, ia mengajukan proposal Formosa Plastics (Sixth Naphtha Cracker) kepada pemerintah; meski ditolak berkali-kali, ia tidak menyerah dan berjuang selama hampir dua puluh tahun sebelum akhirnya disetujui, hingga produksi massal resmi dimulai di Mailiao, Yunlin pada tahun 1998. Ia wafat di New York, Amerika Serikat, pada 15 Oktober 2008 pada usia 92 tahun, meninggalkan sengketa perebutan warisan keluarga yang berlanjut hingga sekitar tahun 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Teknologi dan Bisnis',
-    'Grup Formosa Plastics',
+    'Teknologi dan Perusahaan',
+    'Formosa Plastics Group',
     'Industri Petrokimia',
-    'Naphtha Cracker Keenam',
+    'Formosa Plastics Sixth Naphtha Cracker',
     'Pengusaha',
   ]
 subcategory: '科技與企業'
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '1e180a591'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-10-15T22:05:35.966959+00:00'
 ---
 
 # Wang Yung-ching: Dari Toko Beras ke Naphtha Cracker Keenam, Pertempuran Dua Puluh Tahun dan Drama Warisan Keluarga

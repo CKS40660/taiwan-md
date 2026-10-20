@@ -1,17 +1,17 @@
 ---
-title: 'A Cultura de Alimentos Fermentados e Conservados de Taiwan'
-description: 'Do tofu fétido ao *dòufǔrǔ* (levedura de tofu), uma exploração das tradições únicas de fermentação e conservação de Taiwan'
+title: 'Alimentos Fermentados e Cultura de Conservação em Taiwan'
+description: 'Fundindo técnicas Minnan, Hakka, indígenas e japonesas, a cultura de alimentos fermentados e conservados de Taiwan desenvolveu um sistema de sabores único: do tofu fedorento nas ruas ao tofu fermentado caseiro, dos vegetais em conserva ao arroz fermentado, por trás desses alimentos aparentemente simples escondem-se profundos princípios científicos e heranças culturais. Os alimentos fermentados são tanto parte da indústria alimentícia quanto uma ponte cultural que conecta a memória étnica à vida moderna, registrando a sabedoria gastronômica da ilha.'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
     'alimentos fermentados',
-    'cultura da conservação',
-    'tofu fétido',
-    'dòufǔrǔ',
-    'picles',
+    'cultura de conservação',
+    'tofu fedorento',
+    'tofu fermentado',
+    'kimchi',
     'técnicas tradicionais',
-    'microbiologia',
+    'microorganismos',
   ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Tofu fétido de Xizhen'
+imageAlt: 'Tofu fedorento em Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:49+08:00'
+translatedAt: '2026-10-15T22:05:50.633293+00:00'
 ---
 
 # A Cultura de Alimentos Fermentados e Conservados de Taiwan

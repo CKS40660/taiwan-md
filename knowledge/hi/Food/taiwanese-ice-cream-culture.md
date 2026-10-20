@@ -1,31 +1,25 @@
 ---
-title: 'ताइवान का बर्फ़ की ख़ुशबू संस्कृति'
-description: 'मामगो राइस-बर्फ़ से लेकर स्नो-फ़्लेक बर्फ़ क्रांति तक, ताइवान के लोगों के दिसम्बर में भी बर्फ़ खाने की अनूठी संस्कृति की खोज'
+title: 'ताइवान की बर्फ़ीले व्यंजनों की संस्कृति'
+description: "बर्फ़ीले व्यंजनों के प्रति ताइवानियों का प्रेम दुनिया में दुर्लभ है, यहाँ सर्दियों में भी लोगों की भारी भीड़ उमड़ती है; इस संस्कृति की जड़ें जापानी शासन काल के दौरान बर्फ़ बनाने की तकनीक के आगमन तक जाती हैं। युद्ध के बाद बर्फ़ को छीलकर बनाए जाने वाले व्यंजनों (shaved ice) की लोकप्रियता और फिर 'स्नो फ्लेक आइस' (snow ice) के आगमन के साथ इसका विकास हुआ। ताइचुंग के चेन शी ने जापान के चार-फल वाली बर्फ़ (four-fruit ice) से प्रेरणा लेकर 'हनी बीन आइस' विकसित किया, जबकि युजिंग के आम वाले बर्फ़ीले व्यंजन (mango ice) ने अंतरराष्ट्रीय स्तर पर प्रसिद्धि पाई, जिसने यहाँ तक कि बर्फ़ बनाने और रेफ्रिजरेशन आधारित मत्स्य पालन उद्योग को भी बढ़ावा दिया। यह एक ऐसा विकासवादी इतिहास है जिसके विशिष्ट कालक्रम का पता लगाया जा सकता है।"
 date: 2026-03-19
 category: 'Food'
 tags:
-  [
-    'बर्फ़ की ख़ुशबू',
-    'मामगो राइस-बर्फ़',
-    'स्नो-फ़्लेक बर्फ़',
-    'चूड़ा बर्फ़',
-    'आईसीसी मॉन्स्टर',
-  ]
+  ['बर्फ़ीले व्यंजन', 'मैंगो आइस', 'स्नो फ्लेक आइस', 'शेव्ड आइस', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'ताइपे का मामगो राइस-बर्फ़'
+imageAlt: 'ताइपे में मैंगो आइस'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T18:16:27+08:00'
+translatedAt: '2026-10-15T17:28:31.640826+00:00'
 ---
 
 # ताइवान का बर्फ़ की ख़ुशबू संस्कृति

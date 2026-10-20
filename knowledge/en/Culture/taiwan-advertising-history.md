@@ -2,9 +2,7 @@
 title: 'Taiwan Advertising History: The Product Is Forgotten, But We Still Hum the Jingle'
 description: "In 1968, the Tatung electric cooker's jingle sounded on television. Half a century later, people in Taiwan can still continue with 'Tatung, Tatung, domestic goods are good,' yet almost no one remembers that the melody was originally Sanyo's. From the print advertisements of the Japanese colonial-era Taiwan Nichinichi Shinpō, to the martial-law decades when only three television stations bound the whole country's attention to the same channels, and then to 2016, when digital advertising spending surpassed television, Taiwan's most remembered advertisements often leave the products they sold forgotten, while preserving the sound of an entire era."
 date: 2026-06-14
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '大眾文化'
 tags:
   [
     'Taiwan advertising',
@@ -13,19 +11,22 @@ tags:
     'Wu Nien-jen',
     'collective memory',
   ]
-readingTime: 14
+subcategory: '大眾文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/台灣廣告史.md'
-sourceCommitSha: 'f7484ebea'
-sourceContentHash: 'sha256:faa63331d7b3eae1'
-sourceBodyHash: 'sha256:296b2f47a01a03eb'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 14
+researchReport: 'reports/research/2026-06/台灣廣告史.md'
 image: '/article-images/culture/tatung-cooker-100th-2019.webp'
 imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_Cooker_20190706.jpg'
+translatedFrom: 'Culture/台灣廣告史.md'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:f7212df28a7408b1'
+sourceBodyHash: 'sha256:5f193ab0cecd9e8d'
+translatedAt: '2026-10-15T00:56:39.993594+00:00'
 ---
 
 > **30-second overview:** The advertising memories shared by people in Taiwan are almost all lines you cannot help but finish, or melodies you can hum even when you no longer remember what they were selling: “Fuqi la!”; “Only fresh enough dares to speak loudly”; “Tatung, Tatung, domestic goods are good.” This capacity for “all of Taiwan to remember in sync” depended on an era with no real alternatives, when only three television stations existed: TTV (1962), CTV (1969), and CTS (1971). They bound an entire generation’s attention to the same channels. After two ruptures, the Cable Radio and Television Act took effect in 1993, and digital advertising spending first surpassed television in 2016. The age of nationwide advertising was over.
@@ -110,35 +111,36 @@ This is one of the periods in Taiwan advertising most admired by intellectuals. 
 
 Ideology Advertising also ran into its other side: gender. In 1996 and 1997, the slimming and beauty company Mary Kay Bodyline won the Advertising Golden Sentence Award two years in a row with “Trust me, you can make it!”[^33] But in a 2008 study, communication scholar Chyong-Ling Lin pointed out that Taiwan print advertising favored images of classical beauties and girls next door, and that these images connected with and reinforced conservative Confucian beliefs.[^34] The encouraging phrase “Trust me” presupposed that women’s bodies needed to be corrected, slimmed, and remade. Women’s groups later summarized the common scripts of such advertisements: the people managing household chores are almost always women, and fathers are always the breadwinners.[^35] Advertising does not merely reflect society’s gender order; it also helps produce that order.
 
-## A Song No One Remembers Was Selling Anything
+## A Song Where No One Remembers What Is Being Sold
 
-Advertising people write lines, but what often lives longest is melody.
+Advertisers write lines, but what truly lives on is often the melody.
 
-One key turning point in Taiwan advertising history was that advertising songs, in reverse, made singers famous. HeySong Sarsaparilla’s television advertising began with the 1974 “Desert Shadow” commercial.[^36] In 1988, Tom Chang’s “My Future Is Not a Dream” became its advertising song, the first time in Taiwan that a singer became famous through a commercial song.[^37] Later, HeySong Sarsaparilla’s advertising songs strung together a timeline of Taiwan popular music: Oriental Express in 1991, Ukulele in 1992, Phil Chang in 1994, and all the way to Mayday’s “Song of Laughter and Forgetting” in 2008.[^38] One can of soda sang out more than 30 years of Taiwan’s sonic history.
+A key turning point in Taiwan's advertising history was when jingles began to make singers famous. Heysong Sarsaparilla's television advertisements began with the 1974 "Desert Shadow" episode[^36]; by 1988, Chang Yu-sheng's "My Future is Not a Dream" became an advertising song, marking the first time in Taiwan that an advertisement helped launch a singer's career[^37]. Later, Heysong Sarsaparilla's jingles strung together a timeline of Taiwanese popular music: Oriental Express in 1991, Scopili in 1992, Chang Yu in 1994, all the way to Mayday's "Laughing Song" in 2008[^38]. A single can of soda sang through over thirty years of Taiwan's sonic history.
 
-![A Taiwan-made Tatung electric cooker, in its traditional green body. Since the 1960s it has entered household kitchens across Taiwan, and it is the domestic product whose Tatung advertising song has been sung for decades.](/article-images/culture/tatung-cooker-green.webp)
-_Tatung electric cooker. The 1968 “Tatung Song” was singing about this cooker. Half a century later, the melody has outlived any single electric cooker. Photo: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
+![A Taiwan-made Tatung rice cooker with a traditional green body; having entered Taiwanese kitchens since the 1960s, it is the domestic product featured in the Tatung advertising song that has been sung for decades](/article-images/culture/tatung-cooker-green.webp)
+_A Tatung rice cooker. The 1968 song "Song of Tatung" was about this very machine; half a century later, the melody has outlived any single rice cooker. Photo: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
 
-Return to the Tatung song from the opening. Its story is the strongest reversal in this article. According to reporting on a court judgment, the Tatung Song was completed by Li Shou-cheng in February 1968, the 57th year of the Republic of China calendar, and the full song had 56 characters.[^39] But the lyricist listed in the registration, Wang An-chung, was only a name on paper. The real lyricist was Tatung’s former chairman Lin Ting-sheng; because he did not want to become known for it, he borrowed someone else’s name.[^40] And the song was originally a Sanyo advertising tune; it became Tatung only because of copyright issues.[^41] Later, Li Shou-cheng sued over copyright, but because the law at the time followed a registration-based system, he lost.[^42]
+Returning to that Tatung song at the beginning—its story provides the strongest twist in this article. According to reports on the court judgment, "Song of Tatung" was completed by Li Shou-cheng in February of ROC year 57 (1968), consisting of fifty-six words in total[^39]. However, the lyricist listed in the registration, Wang An-chong, was merely a placeholder; the actual author was the former chairman of Tatung, Lin Ting-sheng; he did not want to be famous, so he used someone else's name[^40]. Furthermore, the song was originally an advertisement for Sanyo, and was changed to Tatung only due to copyright issues[^41]. Later, Li Shou-cheng sued for copyright, but lost because of the registration system in place at that time[^42].
 
-> **📝 Curator’s Note**
-> The reversal in the Tatung song is moving because it turns the whole concept of “advertising author” inside out. The composer went to court and lost. The chairman who actually wrote the lyrics deliberately hid his name. Even the melody had been moved over from another brand. A song that entered the memories of tens of millions of people has no clear author who wanted to be remembered. This is precisely the core of this article: Taiwan’s most remembered advertisements belong, as memories, to the whole island, but their authors are often absent or forgotten. The product is forgotten, the author is forgotten, and only the sound remains.
+> **📝 Curator's Note**
+> The twist in the Tatung song is moving because it completely upends the concept of an "advertising author." The composer sued and lost; the actual lyricist, the chairman, deliberately remained anonymous; even the melody was borrowed from another brand. A song that has entered the memories of tens of millions has no clear author who wishes to be remembered. This is exactly the core of this article: Taiwan's most remembered advertisements belong to the memory of the whole island, yet the authors are often absent or forgotten—the product is forgotten, the author is forgotten, and only the sound remains.
 
-The Advertising Golden Sentence Award, organized by Brain Magazine beginning in 1994, happened to pin the golden tail end of this nationwide advertising era into specimens year by year. In 1994, the winner was Maxwell House Coffee’s “Good things are shared with good friends.” In 1995, it was Solvil et Titus watches’ “I don’t care about forever; I only care that I once had it.” In 1996 and 1997, it was Mary Kay Bodyline’s “Trust me, you can make it!” In 1998, it was Kirin Beer Taiwan’s “Drink it dry!” In 1999, it was CTBC’s “We are family.”[^43]
+The Advertising Catchphrase Golden Sentence Award, organized by _Brain_ magazine since 1994, effectively pinned down this golden tail of mass-market advertising year after year as specimens. In 1994, it was Maxwell House Coffee's "Good things are meant to be shared with good friends"; in 1995, it was Timex's "I don't care about eternity, I only care about what we once had"; from 1996 to 1997, it was Mido's "Trust me, you can make it!"; in 1998, it was Taiwan Kirin Beer's "Hū-kan-la!" (Bottoms up!); and in 1999, it was CTBC Bank's "We are family"[^43].
 
 ```tw-stat
-1962–1994 | The old three stations oligopolize the television market | Starting in 1994, cable channels combined surpassed the three stations
-1979 | Television penetration exceeds 90 percent | The number of color television sets surpasses black-and-white sets for the first time
-99% | Kirin Beer brand awareness | Peak of the 1998 “Drink it dry” wave
+1962–1994 | Oligopoly of the "Three Big Stations" TV market | Cable channels collectively surpassed the three stations starting in 1994
+1979 | TV penetration reached over 90% | Number of color TVs surpassed B&W TVs for the first time
+99% | Kirin Beer brand awareness | Peak of the "Hū-kan-la!" craze in 1998
+Source: Statistics on the Three Big Stations and TV penetration cited in this text, as well as the Golden Sentence Award list and reports on the Kirin Beer "Hū-kan-la!" craze[^43][^45]
 ```
 
-Hidden inside this Golden Sentence Award list is a very Taiwan story. The 1995 winner, “I don’t care about forever; I only care that I once had it,” was actually a Hong Kong advertisement for Solvil et Titus, with copy written by Lo Yuen-yee.[^44] A Hong Kong advertisement won Taiwan’s Golden Sentence Award, showing that memories of Chinese-language advertising circulated across regions in that era. Kirin Beer’s “Drink it dry” was even more of a chain reaction: in 1996, Hou Hsiao-hsien directed the first beer commercial of his life, with Wu Nien-jen as endorser; in 1997, the commercial’s theme song “Wandering to Tamsui” became the top KTV request; by 1998, “Drink it dry” had become a nationwide catchphrase, and brand awareness surged to 99 percent.[^45]
+Hidden within this list of golden sentences is a very Taiwanese story. The 1995 winner, "I don't care about eternity, I only care about what we once had," was actually an advertisement for Timex Hong Kong, with copy written by Lo Wan-yi[^44]—a Hong Kong advertisement winning a Taiwanese Golden Sentence Award illustrates how the memory of Sinophone advertising flowed across regions during that era. Meanwhile, Kirin Beer's "Hū-kan-la!" was a chain reaction: in 1996, Hou Hsiao-hsien directed his first beer commercial, endorsed by Wu Nien-jen; in 1997, the theme song "Wandering to Tamsui" became the most requested song at KTVs; and by 1998, "Hū-kan-la!" had become a national catchphrase, driving brand awareness to ninety-nine percent[^45].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Tom Chang, “My Future Is Not a Dream,” 1988 HeySong Sarsaparilla advertising song" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Chang Yu-sheng 〈My Future is Not a Dream〉 1988 Heysong Sarsaparilla advertising song" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Tom Chang’s “My Future Is Not a Dream,” the advertising song for HeySong Sarsaparilla’s 1988 “Modern Hero” commercial, marked the first time in Taiwan that a singer was made famous by an advertisement. Rock Records official channel._
+_Chang Yu-sheng's "My Future is Not a Dream," the advertising song for Heysong Sarsaparilla's 1988 "Modern Hero" campaign, marking the first time in Taiwan that an advertisement made a singer famous. Rock Records Official._
 
 ## Mr. PX Mart and the Advertisements That Made People Cry
 

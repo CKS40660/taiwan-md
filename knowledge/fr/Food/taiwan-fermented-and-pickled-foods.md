@@ -1,14 +1,14 @@
 ---
-title: 'Les aliments fermentés et la culture de conservation à Taïwan'
-description: 'De la tofu stinky (chòu dòufu) au *dòufǔrǔ*, une exploration des traditions uniques de fermentation et de conservation à Taïwan'
+title: 'Aliments fermentés et culture de la conservation en Taïwan'
+description: "Fusionnant les techniques Hokkien, Hakka, autochtones et japonaises, la culture des aliments fermentés et de la conservation à Taïwan a développé un système de saveurs unique : du tofu puant des rues aux fermentations de soja artisanales, des légumes saumurés au vin de riz, ces aliments en apparence simples cachent des principes scientifiques profonds et un héritage culturel. Les aliments fermentés constituent à la fois un segment de l'industrie agroalimentaire et un pont culturel reliant la mémoire des communautés à la vie moderne, témoignant de la sagesse culinaire de l'île."
 date: 2026-03-18
 category: 'Food'
 tags:
   [
     'aliments fermentés',
-    'culture de conservation',
-    'chòu dòufu',
-    'dòufǔrǔ',
+    'culture de la conservation',
+    'tofu puant',
+    'tofu fermenté',
     'kimchi',
     'techniques traditionnelles',
     'microbiologie',
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Chòu dòufu (tofu stinky) de Xizhen'
+imageAlt: 'Tofu puant à Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T20:47:46.989427+00:00'
 ---
 
 # Les aliments fermentés et la culture de conservation à Taïwan

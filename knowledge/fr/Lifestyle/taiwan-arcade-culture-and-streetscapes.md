@@ -1,9 +1,9 @@
 ---
-title: 'Culture des arcades (qilou) et paysages urbains de Taïwan'
-description: 'Des corridors de vie protégeant des intempéries, entre souvenirs de rue taïwanais mêlant scooters, étals de marché et chaleur humaine.'
+title: 'Culture des arcades et paysages urbains de Taïwan'
+description: "Les arcades de Taïwan (qilou) sont une forme architecturale promue durant la période coloniale japonaise vers 1900, fusionnant l'architecture coloniale des mers du Sud avec les besoins locaux : la conception avec un deuxième étage en surplomb et un rez-de-chaussée ouvert crée un espace semi-public accueillant étals de marché, stationnement de scooters et interactions sociales de voisinage. S'abriter de la pluie, acheter un poulet frit après l'école ou discuter sous les arcades lors des nuits d'été — ce couloir protectif porte la mémoire collective du mode de vie taïwanais."
 date: 2026-03-20
 category: 'Lifestyle'
-tags: ['Art de vivre', 'qilu', 'paysage urbain', 'culture urbaine']
+tags: ['Mode de vie', 'Arcade', 'Paysage urbain', 'Culture urbaine']
 subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: false
@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
-translatedAt: '2026-08-04T12:41:09+08:00'
+translatedAt: '2026-10-15T18:33:04.552935+00:00'
 ---
 
 > **Résumé en 30 secondes :** Les _qilu_ (arcades) de Taïwan sont une forme architecturale promue dès 1900, durant la période coloniale japonaise, combinant l'architecture coloniale d'Asie du Sud-Est et les besoins locaux. La conception, avec un étage supérieur en surplomb et un rez-de-chaussée ouvert, crée un espace semi-public qui accueille la culture des étals, le stationnement des scooters et les interactions sociales de voisinage, devenant ainsi l'un des paysages urbains les plus chaleureux de Taïwan.

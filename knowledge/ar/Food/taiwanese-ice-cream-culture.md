@@ -1,24 +1,25 @@
 ---
 title: 'ثقافة الحلويات المثلجة في تايوان'
-description: 'من آيس مانجو يوجينغ إلى ثورة الثلج المبشور، استكشاف ثقافة التايوانيين الفريدة في تناول المثلجات حتى في الشتاء'
+description: 'يتمتع التايوانيون بشغف بالحلويات المثلجة لا مثيل له في العالم، حيث تظل الأماكن مكتظة بالزبائن حتى في فصل الشتاء. يمكن إرجاع جذور هذه الثقافة إلى فترة الحكم الياباني مع إدخال تقنيات صنع الثلج، مروراً بانتشار ثلج المبراش (Shaved Ice) بعد الحرب، وظهور ثلج رقائق الثلج (Snowflake Ice). وقد طور تشين شي في تايتشونغ "ثلج الفاصوليا الحلوة" مستلهماً من ثلج الفواكه الأربعة الياباني، كما اشتهر ثلج المانجو في يوجين عالمياً، مما ساهم حتى في دفع عجلة صناعة الثلج وتبريد قطاع الصيد؛ إنها قصة تطور ذات محطات زمنية محددة.'
 date: 2026-03-19
 category: 'Food'
-tags: ['حلويات مثلجة', 'آيس مانجو', 'ثلج مبشور', 'آيس مبشور', 'ICE MONSTER']
+tags:
+  ['حلويات مثلجة', 'ثلج المانجو', 'ثلج رقائق الثلج', 'ثلج مبراش', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'آيس مانجو تايبيه'
+imageAlt: 'ثلج المانجو في تايبيه'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T16:00:52+08:00'
+translatedAt: '2026-10-15T23:38:59.469504+00:00'
 ---
 
 # ثقافة الحلويات المثلجة في تايوان

@@ -1,15 +1,15 @@
 ---
-title: 'Cultura comunitaria y vecinal en Taiwán'
-description: 'Desde la práctica democrática de base hasta la innovación social en la movilización comunitaria'
+title: 'Cultura comunitaria y de barrios en Taiwán'
+description: 'El barrio es la célula más pequeña de la sociedad democrática de Taiwán: el jefe de barrio convoca a los residentes a reuniones, el jefe de vecindario informa puerta a puerta, y en el aula de al lado la universidad comunitaria está en clase. Este artículo parte del sistema de barrios y vecindarios a nivel más básico, recorre el movimiento de construcción comunitaria y los experimentos de las universidades comunitarias, observa cómo la participación ciudadana pasa de la aceptación pasiva a la transformación activa, y cómo esta red de base sostiene la resiliencia social de Taiwán.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Sistema de barrio (líder de barrio y vecino)',
-    'movilización comunitaria',
-    'universidades comunitarias',
-    'participación cívica',
-    'autonomía local',
+    'Sistema de barrios y vecindarios',
+    'Construcción comunitaria',
+    'Universidad comunitaria',
+    'Participación ciudadana',
+    'Autonomía local',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '074dffac2'
+sourceCommitSha: '9be0c5314'
 sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T19:43:48.891900+00:00'
 ---
 
 # Cultura comunitaria y vecinal en Taiwán

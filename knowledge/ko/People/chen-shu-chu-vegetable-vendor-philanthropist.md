@@ -1,21 +1,20 @@
 ---
-title: '천수쥐: 타이둥의 채소 장수, 오십 년 치 채소 돈으로 수천만을 기부한 자선 인생'
-description: '타이둥의 채소 상인, 오십 년 치 채소 판 돈으로 수천만 원을 기부하고도 "저는 그냥 채소 장수예요"라고 말한 사람'
+title: '천수주: 타이둥의 채소 장수, 50년 채소 장사 수익 수천만 NT$를 기부한 자선적 삶'
+description: '1950년생, 타이둥 중앙시장의 채소 장수. 13세 때 어머니가 난산으로 돌아가시자, 그녀는 학업을 중단하고 채소 장사를 시작했다. 이후 50여 년간 채소 장사 수익을 한 푼 두 푼 학교, 고아원, 병원에 기부해 누적 NT$ 수천만에 달했다. 2010년 《타임》지 선정 세계 100대 영향력 인물에 올랐으며, 영화감독 이안이 직접 글을 써 추천했고, 이후 막사이사이상을 수상했다. 그녀는 자신이 "단지 채소 파는 사람일 뿐"이라고 말했다.'
 date: 2026-03-19
-tags:
-  ['인물', '자선', '타이둥', '채소 상인', '타임지', '막사이사이상', '교육 기부']
-subcategory: '慈善與社會'
 category: 'People'
+tags:
+  ['인물', '자선', '타이둥', '채소 장수', '타임지', '막사이사이상', '교육 기부']
+subcategory: '社會與公益'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
-translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a'
-sourceContentHash: 'sha256:2acd1adc35abda8a'
-sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-05-17T06:30:00Z'
 lastVerified: 2026-05-16
 lastHumanReview: true
+translatedFrom: 'People/陳樹菊.md'
+sourceCommitSha: 'c8d8d3ad4'
+sourceContentHash: 'sha256:2acd1adc35abda8a'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
+translatedAt: '2026-10-15T19:05:11.922302+00:00'
 ---
 
 > 📝 **30초 요약:** 천수쥐(陳樹菊), 1950년 출생, 타이둥 중앙시장의 채소 장수. 열세 살에 어머니의 난산으로 인한 죽음을 목격한 후 학교를 그만두고 채소를 팔기 시작했다. 이후 오십 년 넘는 세월 동안 학교, 고아원, 병원에 수천만 원을 기부했다. 2010년 《타임》지 세계 100대 영향력 있는 인물에 선정됐고, 영화감독 이안(李安)이 직접 추천사를 썼다. 뉴욕 시상식에서 그녀가 한 말: "저는 그냥 채소 장수예요."[^1]

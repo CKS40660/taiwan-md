@@ -1,0 +1,86 @@
+{
+  "cr-01": {
+    "reader": "opus",
+    "pair": "w1-lowwage",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-01.txt",
+    "chars": 33350
+  },
+  "cr-02": {
+    "reader": "sonnet",
+    "pair": "s4-ezway",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-02.txt",
+    "chars": 2279
+  },
+  "cr-03": {
+    "reader": "opus",
+    "pair": "w3-goldenbell",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-03.txt",
+    "chars": 48901
+  },
+  "cr-04": {
+    "reader": "sonnet",
+    "pair": "s3-waawei",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-04.txt",
+    "chars": 23351
+  },
+  "cr-05": {
+    "reader": "sonnet",
+    "pair": "s1-stanshih",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-05.txt",
+    "chars": 41861
+  },
+  "cr-06": {
+    "reader": "sonnet",
+    "pair": "w2-oilprice",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-06.txt",
+    "chars": 45690
+  },
+  "cr-07": {
+    "reader": "opus",
+    "pair": "s4-ezway",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-07.txt",
+    "chars": 2279
+  },
+  "cr-08": {
+    "reader": "sonnet",
+    "pair": "s2-filmscore",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-08.txt",
+    "chars": 30508
+  },
+  "cr-09": {
+    "reader": "opus",
+    "pair": "s3-waawei",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-09.txt",
+    "chars": 23351
+  },
+  "cr-10": {
+    "reader": "sonnet",
+    "pair": "w3-goldenbell",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-10.txt",
+    "chars": 48901
+  },
+  "cr-11": {
+    "reader": "opus",
+    "pair": "s1-stanshih",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-11.txt",
+    "chars": 41861
+  },
+  "cr-12": {
+    "reader": "sonnet",
+    "pair": "w1-lowwage",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-12.txt",
+    "chars": 33350
+  },
+  "cr-13": {
+    "reader": "opus",
+    "pair": "w2-oilprice",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-13.txt",
+    "chars": 45690
+  },
+  "cr-14": {
+    "reader": "opus",
+    "pair": "s2-filmscore",
+    "path": "/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md--claude-worktrees-modest-ritchie-2506cb/fbc5be33-e640-40b1-8aaa-93233ff9a197/scratchpad/cr/cr-14.txt",
+    "chars": 30508
+  }
+}

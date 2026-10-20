@@ -1,15 +1,15 @@
 ---
-title: 'Brigitte Lin'
-description: 'Von der Königin der Qiong-Yao-Filme zur Martial-Arts-Legende – die legendäre Schauspielerin der chinesischsprachigen Filmwelt'
+title: 'Brigitte Lin: Von der Filmgöttin der Qiongyao-Ära zur Wuxia-Legende'
+description: 'Die 1954 in einem Taipeher Militärdorf Geborene wurde 1972 im Ximending vom Regisseur Sung Tsun-shou für die Hauptrolle in Qiongyaos «Fenster nach draussen» entdeckt und wurde mit ihrem reinen Image zur Göttin der Qiongyao-Filme; an der Seite von Chin Han und Chin Hsiang-lin bildete sie das klassische Leinwandpaar, das die gesamte chinesischsprachige Welt begeisterte, wobei Frisur und Kleidung zu Modeikonen wurden; 1992 schuf sie mit der in Rot tanzenden Figur der Dongfang Bubai einen Wuxia-Klassiker, der die literarische und die Kampfkunst-Ära überspannte.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Brigitte Lin',
     'Schauspielerin',
-    'Qiong-Yao-Film',
+    'Qiongyao-Film',
     'Dongfang Bubai',
-    'Chinesischsprachiger Film',
+    'chinesischsprachiger Film',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,142 +17,142 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceCommitSha: 'e53f17151'
+sourceContentHash: 'sha256:7e12cc4002fc2007'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-10T08:08:26.089993+00:00'
+translatedAt: '2026-10-16T00:53:31+08:00'
 ---
 
-# Brigitte Lin: Von der Liebesfilm-Göttin zur Martial-Arts-Legende
+# Brigitte Lin: Von der Filmgöttin der Qiongyao-Ära zur Wuxia-Legende
 
-Brigitte Lin überspannt zwei Epochen – die Qiong-Yao-Liebesfilme und Tsui Harks Wuxia-Filme – und gehört zu den repräsentativsten Schauspielerinnen der chinesischsprachigen Leinwand. In den 1970er-Jahren wurde sie mit ihrem reinen Image zur Schlüsselfigur der Qiong-Yao-Filme, Ende der 1980er-Jahre gelang ihr die Wandlung, und in „Dongfang Bubai“ schuf sie eine subversive Rolle. Ihre Karriere ist Zeuge des goldenen Zeitalters des chinesischsprachigen Films.
+Brigitte Lin überspannt die beiden Epochen der Qiongyao-Literaturfilme und der Tsui-Hark-Wuxia-Filme und ist eine der repräsentativsten Schauspielerinnen des chinesischsprachigen Kinos. In den 1970er Jahren wurde sie mit ihrem reinen Image zur zentralen Figur der Qiongyao-Filme, Ende der 1980er Jahre gelang ihr die erfolgreiche Transformation, und in «The Swordsman II» schuf sie ein subversives Rollenbild. Ihre Schauspielkarriere zeugt vom goldenen Zeitalter des chinesischsprachigen Films.
 
-## Der Weg eines Mädchens aus der Militärsiedlung zum Star
+## Der Weg vom Militärdorf-Mädchen zum Star
 
-Brigitte Lin wurde am 3. November 1954 in Taipeh geboren; ihre Ahnen stammen aus Shandong. Vater Lin Wei-liang war Soldat, Mutter Luo Xiu-yun Hausfrau. Aufgewachsen in einer Militärsiedlung zeigte Lin schon früh ein feines, elegantes Äußeres und eine stille Ausstrahlung.
+Brigitte Lin wurde am 3. November 1954 in Taipeh geboren, ihre Vorfahren stammen aus Shandong. Ihr Vater Lin Wei-liang war Militärangehöriger, ihre Mutter Lo Hsiu-yun Hausfrau. In der Umgebung eines Militärdorfs aufwachsen, zeigte Lin schon als Kind ein klares, unkonventionelles Erscheinungsbild und ein stilles Wesen.
 
-Sie besuchte die chinesische Oberschule Jinling, war eine musterschülerin mit guten Leistungen und großem Interesse an Literatur und Kunst. 1972 wurde sie in Ximending vom Regisseur Sung Tsun-shou entdeckt, der sie für die Hauptrolle in „Jenseits des Fensters“ (窗外) einlud – damals bereitete sie sich gerade auf die Universitätsprüfung vor und hatte keinerlei Gedanken an eine Schauspielkarriere.[^1]
+Sie besuchte die Jinling-Mädchenschule, war eine musterhafte Schülerin mit grossem Interesse an Literatur und Kunst. 1972 wurde sie im Ximending vom Regisseur Sung Tsun-shou entdeckt und für «Fenster nach draussen» engagiert, gerade als sie sich auf die gemeinsame Hochschulaufnahmeprüfung vorbereitete, ohne jede Vorbereitung auf eine Schauspielkarriere. [^1]
 
-Mit Unterstützung ihrer Mutter entschied sich Brigitte Lin, einen Filmversuch zu wagen. Ihr erster Film „Jenseits des Fensters“ (1973) basiert auf einem Roman von Qiong Yao und entstand mit Chin Han; er legte den Grundstein für ihren Platz im Liebesfilm.[^2]
+Mit der Unterstützung ihrer Mutter entschied sich Lin, das Filmschauspiel zu versuchen. Ihr erster Film «Fenster nach draussen» (1973) nach dem Roman von Qiongyao, an der Seite von Chin Han, begründete ihren Status im Literaturfilm. [^2]
 
-## Die Liebesfilm-Göttin der Qiong-Yao-Ära
+## Die Filmgöttin der Qiongyao-Ära
 
-Der Erfolg von „Jenseits des Fensters“ 1972 eröffnete Brigitte Lins Qiong-Yao-Ära. Im folgenden Jahrzehnt spielte sie in Dutzenden Qiong-Yao-Werken wie „Caiyun Fei“, „Xin You Qianqian Jie“ und „Yue Menglong Niao Menglong“ die Hauptrolle.
+Der Erfolg von «Fenster nach draussen» 1972 eröffnete Brigitte Lins Qiongyao-Ära. In den folgenden zehn Jahren spielte sie in zahlreichen Qiongyao-Werken wie «Die fliegenden Rosaroten Wolken», «Tausend Knoten im Herzen» und «Der neblige Mond, der neblige Vogel» die Hauptrolle.
 
-Ihr reines Image verkörperte perfekt die weiblichen Figuren, die Qiong Yao schuf: unschuldig, gütig, melancholisch. Ihre Zusammenarbeit mit Chin Han und Charlie Chin bildete klassische Leinwand-Pärchen, die die gesamte chinesischsprachige Welt begeisterten.
+Brigitte Lins reines Image verkörperte perfekt die Frauenfiguren aus Qiongyaos Feder: unschuldig, gutmütig, melancholisch. Ihre Zusammenarbeit mit Chin Han und Chin Hsiang-lin bildete das klassische Leinwandpaar, das die gesamte chinesischsprachige Welt begeisterte.
 
-In dieser Zeit wurde Brigitte Lin zum Idol unzähliger Mädchen; ihre Frisur und Kleidung wurden zu Modeindikatoren. Auch die Qiong-Yao-Filme gewannen durch ihr Spiel an Einfluss und kommerziellem Erfolg.
+In dieser Zeit wurde Brigitte Lin zum Idol unzähliger junger Mädchen, ihre Frisuren und Kleidung wurden zu Modevorbildern. Die Qiongyao-Filme erlangten durch ihre Darstellung grössere Wirkung und kommerziellen Erfolg.
 
-## Vielfältige Versuche im Liebesfilm
+## Vielfältige Versuche im Literaturfilm
 
-Neben den Qiong-Yao-Filmen probierte Brigitte Lin auch andere Arten von Liebesfilmen. 1979 arbeitete sie mit Regisseur Li Hsing an „Ein Boot im Meer“ (汪洋中的一條船) und zeigte ein reiferes Schauspiel.
+Neben den Qiongyao-Filmen versuchte sich Brigitte Lin auch an anderen Arten von Literaturfilmen. 1979 arbeitete sie mit Regisseur Li Hsing an «Eine Schiff im Ozean» zusammen und zeigte eine reifere Schauspielkunst.
 
-1981 gehörte „Ich bin eine Wolke“ (我是一片雲) zu ihren repräsentativsten Qiong-Yao-Werken; die Szenen gegen Chin Han waren tief bewegend. Dieses Werk zeigt Lins tiefe Meisterschaft in Gefühlsszenen.
+«Ich bin eine Wolke» (1981) ist eines ihrer repräsentativen Qiongyao-Werke, die Gegnerszenen mit Chin Han sind tief berührend. Dieses Werk zeigte Brigitte Lins tiefe Könnerschaft im emotionalen Schauspiel.
 
-Anfang der 1980er-Jahre begann Brigitte Lin über die Neuausrichtung ihrer Karriere nachzudenken. Sie erkannte, dass das eindimensionale Liebesfilm-Göttin-Image ihren Entfaltungsspielraum einschränken könnte, und suchte nach Gelegenheiten für den Durchbruch.
+Anfang der 1980er Jahre begann Brigitte Lin, über eine Transformation ihrer Schauspielkarriere nachzudenken. Sie erkannte, dass das einseitige Image der Filmgöttin ihren Entwicklungsspielraum einschränken könnte, und suchte nach Durchbruchsmöglichkeiten.
 
-## Der Wechsel nach Hongkong und die Zusammenarbeit mit der Neuen Welle
+## Wechsel nach Hongkong und Zusammenarbeit mit der New Wave
 
-Mitte der 1980er-Jahre wechselte Brigitte Lin zum Hongkonger Filmmarkt – eine Entscheidung, die ihre Karriere grundlegend veränderte. Das vielfältige und kommerzialisierte Umfeld des Hongkonger Films bot ihr größeren Entfaltungsspielraum.
+Mitte der 1980er Jahre wechselte Brigitte Lin auf den Hongkonger Filmmarkt, eine Entscheidung, die ihre Schauspielkarriere grundlegend veränderte. Die Vielfalt und Kommerzialisierung des Hongkonger Films boten ihr grössere Entfaltungsmöglichkeiten.
 
-Sie baute Kooperationen mit Regisseuren der Hongkonger Neuen Welle auf und erprobte unterschiedliche Rollentypen. Diese Erfahrungen reiften ihre Schauspielkunst und bereiteten sie auf die späteren Tsui-Hark-Wuxia-Filme vor.
+Sie knüpfte Kooperationen mit Regisseuren der Hongkonger New Wave und probierte verschiedene Rollentypen aus. Diese Erfahrungen liessen ihre Schauspielkunst reifen und bereiteten sie auf die späteren Tsui-Hark-Wuxia-Filme vor.
 
-Während der Hongkonger Zeit blieb Lin auf beiden Märkten – Taiwan und Hongkong – aktiv und wurde zu einer der wenigen Stars, die beide Märkte überspannten. Ihr Erfolg wurde zum Vorbild für spätere taiwanesische Schauspieler, die nach Hongkong gingen.
+Während ihrer Hongkonger Zeit blieb Brigitte Lin in Taipeh und Hongkong aktiv und wurde zu den wenigen Superstars, die beide Märkte überspannen konnten. Ihr Erfolg wurde zum Vorbild für spätere taiwanesische Schauspieler, die nach Hongkong gingen.
 
-## Wuxia-Klassiker: Die subversive Rolle in „Dongfang Bubai“
+## Wuxia-Klassiker: Die subversive Darstellung in «The Swordsman II»
 
-1992 wurde Tsui Harks „Swordsman II: Dongfang Bubai“ (笑傲江湖II東方不敗) zum Höhepunkt von Brigitte Lins Karriere. Sie spielte den kampfgewaltigen Dongfang Bubai – eine Rolle, die das bisherige Bild der Zuschauer von ihr auf den Kopf stellte.
+Tsui Harks «The Swordsman II» (1992) wurde zum Gipfelwerk von Brigitte Lins Schauspielkarriere. Sie verkörperte darin die Dongfang Bubai, eine die Kampfkunst beherrschende Figur, die das bisherige Publikumsbild von ihr auf den Kopf stellte.
 
-Dongfang Bubai ist eine komplexe Figur: zugleich Herrscher der Martial-Arts-Welt und tief verliebter Liebhaber; männliche Durchsetzungskraft und weibliche Anmut zugleich. Brigitte Lins Spiel ist vielschichtig und bringt diese widersprüchliche Figur auf den Punkt.
+Dongfang Bubai ist eine komplexe Figur: sowohl Kampfkunst-Tyrannin als auch tief empfindende Geliebte; sowohl männliche Dominanz als auch weibliche Anmut. Brigitte Lins Darstellung ist vielschichtig und interpretiert diese widersprüchliche Figur meisterhaft.
 
-Der Satz „Im Osten geht die Sonne auf, nur ich bin unbesiegbar“ wurde zum Klassiker; Lins Bild mit fliegendem Rotgewand brannte sich ins Gedächtnis der Zuschauer. Diese Rolle ist nicht nur der Höhepunkt ihrer Schauspielkunst, sondern auch eine klassische Figur der chinesischsprachigen Filmgeschichte.
+«Die Sonne geht im Osten auf, nur ich bin unbesiegbar» wurde zum klassischen Zitat, das Bild von Brigitte Lin im roten Kleid, tanzend, brannte sich tief in die Herzen der Zuschauer ein. Diese Rolle ist nicht nur der Höhepunkt ihrer Schauspielkunst, sondern wurde zur klassischen Figur der chinesischsprachigen Filmgeschichte.
 
-## Die kreative Zusammenarbeit mit Tsui Hark
+## Kreative Zusammenarbeit mit Tsui Hark
 
-Die Zusammenarbeit mit Regisseur Tsui Hark war eine entscheidende Wende in Brigitte Lins Karriere. Tsui versteht es, das Potenzial von Schauspielern hervorzulocken; er erkannte Lins Wuxia-Aura und ihre schauspielerischen Möglichkeiten.
+Die Zusammenarbeit mit Regisseur Tsui Hark war der wichtige Wendepunkt in Brigitte Lins Schauspielkarriere. Tsui Hark versteht es, das Potenzial von Schauspielern zu entdecken, er sah die Wuxia-Ausstrahlung und die darstellerischen Möglichkeiten in Brigitte Lin.
 
-Neben „Dongfang Bubai“ arbeiteten die beiden auch an Werken wie „Drachenhöhle“ (新龍門客棧) zusammen. Tsuis kreative Regie ließ Lin eine neue Seite an sich entdecken und die Wandlung von der Liebesfilm-Göttin zum Wuxia-Superstar gelingen.
+Neben «The Swordsman II» arbeiteten beide auch an «New Dragon Gate Inn» zusammen. Tsui Harks kreative Regie liess Brigitte Lin neue Facetten an sich entdecken und vollzog die erfolgreiche Transformation von der Filmgöttin zum Wuxia-Superstar.
 
-Diese gemeinsamen Werke waren künstlerisch wie kommerziell erfolgreich und bestätigten die Richtigkeit von Lins Wandel. Sie war nicht mehr nur die Repräsentantin der Qiong-Yao-Filme, sondern ein wahrer Schauspiel-Star.
+Diese Kooperationswerke waren sowohl an der Kinokasse als auch in der Kritik erfolgreich und bewiesen die Richtigkeit von Brigitte Lins Transformation. Sie war nicht mehr nur die Repräsentantin der Qiongyao-Filme, sondern ein echter Charakterdarsteller-Star.
 
-## Vielfältiges Spiel in den 1990er-Jahren
+## Vielfältige Darstellungen in den 1990er Jahren
 
-Die 1990er-Jahre waren Brigitte Lins aktivste Zeit; sie erprobte die unterschiedlichsten Rollentypen – vom historischen Wuxia bis zum modernen Drama.
+Die 1990er Jahre waren Brigitte Lins aktivste Phase, sie probierte verschiedenste Rollentypen aus. Von historischen Wuxia- bis zu modernen Dramen zeigte sie jeweils brillante Leistungen.
 
-In „Drachenhöhle“ (新龍門客棧) als Jin Xiangyu, in „Chungking Express“ (重慶森林) als Killerin mit blondem Haar, in „Ashes of Time“ (東邪西毒) als Murong Yan – jede Figur hat ihren eigenen Reiz. Brigitte Lin zeigte eine erstaunliche schauspielerische Bandbreite.
+Ob als Jin Xiangyu in «New Dragon Gate Inn», als blonde Killerin in «Chungking Express» oder als Murong Yan in «Ashes of Time» – jede Figur besitzt einen einzigartigen Reiz. Brigitte Lin zeigte ein erstaunliches schauspielerisches Spektrum.
 
-Wong Kar-wais „Chungking Express“ und „Ashes of Time“ verbanden Lin mit dem Arthouse-Kino und bewiesen, dass sie nicht nur im Kommerzfilm bestehen kann, sondern auch anspruchsvollere Werke meistert.
+Wong Kar-wais «Chungking Express» und «Ashes of Time» brachten Brigitte Lin mit dem Kunstfilm in Berührung und bewiesen, dass sie nicht nur kommerzielle Filme meisterte, sondern auch anspruchsvollere künstlerische Werke tragen konnte.
 
-## Rückzug von der Leinwand und ein neuer Lebensabschnitt
+## Rückzug und neuer Lebensabschnitt
 
-1994 verkündete Brigitte Lin ihren Rückzug von der Leinwand und entschied sich für ein Leben im Kreis der Familie. Diese Entscheidung betrübte zahllose Fans, die ihre Lebenswahl gleichwohl akzeptierten.
+1994 verkündete Brigitte Lin ihren Rückzug aus dem Filmgeschäft, um sich ganz dem Familienleben zu widmen. Diese Entscheidung liess unzählige Fans bedauern, doch man respektierte ihre Lebensentscheidung.
 
-Nach dem Rückzug heiratete Lin den Geschäftsmann Michael Ying, mit dem sie zwei Töchter hat. Sie verlegte ihren Lebensmittelpunkt auf die Familie, zeigte sich selten in der Öffentlichkeit – was ihren geheimnisvollen Reiz noch verstärkte.
+Nach ihrem Rückzug heiratete Brigitte Lin den Geschäftsmann Henry Hsu und bekam zwei Töchter. Sie verlagerte ihren Lebensmittelpunkt auf die Familie, trat selten öffentlich auf, was ihrer Aura zusätzlichen Mysterien hinzufügte.
 
-Trotz des Rückzugs blieb Lins Einfluss ungebrochen. Ihre klassischen Werke laufen weiter im Fernsehen, und auch die neue Zuschauergeneration erlebt über diese Filme ihren Reiz.
+Obwohl sie sich zurückzog, liess Brigitte Lins Einflusskraft nicht nach. Ihre Klassiker laufen weiterhin im Fernsehen, und neue Generationen von Zuschauern lernen ihren Charme durch diese Werke kennen.
 
-## Ein neuer Versuch: das Schreiben
+## Neuer Versuch als Schriftstellerin
 
-Nach dem Rückzug begann Brigitte Lin, literarisch zu schreiben und veröffentlichte Essaysammlungen wie „Von jenseits des Fensters“ (窗裡窗外). Mit feiner Feder hielt sie Lebensweisheit und Lebenserfahrung fest.
+Nach ihrem Rückzug begann Brigitte Lin mit schriftstellerischer Arbeit und veröffentlichte Essay-Sammlungen wie «Drinnen und draussen vom Fenster». Mit feiner Feder zeichnet sie Lebenserfahrungen und -erfahrungen auf.
 
-Ihre literarischen Arbeiten fanden Anerkennung in der Literaturwelt und bewiesen, dass sie nicht nur eine herausragende Schauspielerin, sondern auch eine begabte Schriftstellerin ist. Diese Vielfalt an Talenten macht sie noch bewundernswerter.
+Brigitte Lins schriftstellerisches Schaffen fand Anerkennung in der Literaturszene und bewies, dass sie nicht nur eine hervorragende Schauspielerin, sondern auch eine talentierte Schriftstellerin ist. Diese vielseitige Begabung lässt einen sie noch mehr bewundern.
 
-Über die Texte teilte sie auch Bühnenerfahrungen und Lebensgedanken und ließ Fans tiefer in ihre innere Welt blicken. Diese Werke wurden zu wertvollen Film-Dokumenten.
+Sie teilt durch Texte auch Schauspiel-Erfahrungen und Lebensgedanken, lässt Fans tiefer in ihre innere Welt blicken. Diese Werke wurden zu wertvollen Filmgeschichts-Dokumenten.
 
-## Die besondere Bedeutung gelegentlicher Rückkehr
+## Gelegentliche Comebacks von besonderer Bedeutung
 
-Auch nach dem offiziellen Rückzug kehrte Brigitte Lin für besondere Projekte gelegentlich vor die Kamera zurück. 2013 wirkte sie in „101 Proposals“ (101次求婚) mit einem Gastauftritt mit – sehr zum Entzücken der Fans.
+Obwohl sie offiziell zurückgetreten war, kehrte Brigitte Lin gelegentlich für spezielle Projekte zurück. 2013 hatte sie einen Cameo-Auftritt in «101. Heiratsantrag», der bei Fans grosse Begeisterung auslöste.
 
-Diese Wiederkunftsauftritte sind zwar klein, werden aber jedes Mal zum Gesprächsthema. Lins Zugkraft und Einfluss sind daran ablesbar.
+Diese Comeback-Auftritte mögen klein sein, doch jedes Mal wurden sie zum Gesprächsthema. Brigitte Lins Zugkraft und Einflusskraft sind evident.
 
-Sie nimmt auch an Filmfestivals und Preisverleihungen teil; bei jedem Auftritt sorgt sie für Aufsehen. Die Jahre haben sie noch eleganter gemacht.
+Sie nimmt auch an Filmfestivals und Preisverleihungen teil, jedes Erscheinen sorgt für Aufsehen. Die Reife der Jahre liess sie noch eleganter und berührender wirken.
 
-## Einfluss über die Zeiten hinweg
+## Einfluss, der Epochen überspannt
 
-Brigitte Lins Einfluss reicht über die reine Schauspielerei hinaus. Vom reinen Image der Qiong-Yao-Ära bis zur Heldin der Wuxia-Ära – ihr Werdegang spiegelt dreißig Jahre Wandel des chinesischsprachigen Films wider.
+Brigitte Lins Einfluss reicht weit über den reinen Filmbereich hinaus. Vom reinen Image der Qiongyao-Ära zur heldenhaften Frau der Wuxia-Ära – ihre Schauspielkarriere korrespondiert mit dem Wandel des chinesischsprachigen Films über dreissig Jahre.
 
-Ihre Schönheit und Ausstrahlung werden über alle Maßen geschätzt; zahllose Nachwuchsschauspielerinnen werden an ihr gemessen. Die „Brigitte-Lin-Schönheit“ ist zum geläufigen Vergleichsmaßstab der Branche geworden.
+Ihre Schönheit und Ausstrahlung werden hoch geschätzt, unzählige Nachwuchstalente werden mit ihr verglichen. «Brigitte-Lin-Schönheit» wurde zum branchenüblichen Vergleichsmassstab.
 
-Auch neue Regisseure wie Wong Kar-wai schätzen Brigitte Lin sehr; ihre Werke werden von Filmkritikern und Filmwissenschaftlern untersucht.
+Neue Generationen von Regisseuren wie Wong Kar-wai zollen Brigitte Lin höchsten Respekt, ihre Werke wurden zu Forschungsobjekten von Filmkritikern und -wissenschaftlern.
 
 ## Inspiration für Schauspielerinnen
 
-Brigitte Lins gelungene Wandlung ist eine wichtige Inspiration für Schauspielerinnen. Sie bewies, dass sich Schauspielerinnen nicht auf ein einziges Image festlegen müssen, sondern in verschiedenen Phasen unterschiedliche Rollentypen ausprobieren können.
+Brigitte Lins erfolgreiche Transformation bietet wichtige Inspiration für Schauspielerinnen. Sie bewies, dass weibliche Stars nicht auf ein einziges Image festgelegt sein müssen, sondern in verschiedenen Phasen unterschiedliche Rollentypen ausprobieren können.
 
-Ihr Einsatz für ihre Rollen und ihre Professionalität sind zum Vorbild der nächsten Generation geworden. Lin verkörperte den Berufsethos und künstlerischen Anspruch, den Schauspieler haben sollten.
+Ihr Engagement für Rollen und ihre professionelle Haltung wurden zum Vorbild für nachfolgende Generationen. Brigitte Lin zeigte den Berufsethos und den künstlerischen Anspruch, den ein Schauspieler haben sollte.
 
-Viele zeitgenössische Schauspielerinnen erklären, von Brigitte Lin beeinflusst und inspiriert worden zu sein; sie setzte für die Schauspielerinnen der chinesischsprachigen Leinwand einen wichtigen Maßstab.
+Viele zeitgenössische weibliche Stars geben an, von Brigitte Lin beeinflusst und inspiriert worden zu sein; sie setzte einen wichtigen Massstab für Schauspielerinnen im chinesischsprachigen Film.
 
-## Ihr Platz in der chinesischsprachigen Filmgeschichte
+## Stellung in der chinesischsprachigen Filmgeschichte
 
-Brigitte Lin gilt als eine der wichtigsten Schauspielerinnen der chinesischsprachigen Filmgeschichte. Ihr Werk spannt sich von Liebesfilm, Wuxia-Film bis Arthouse-Film über verschiedene Genres und zeigt eine verblüffende schauspielerische Bandbreite.
+Brigitte Lin gilt als eine der wichtigsten weiblichen Stars der chinesischsprachigen Filmgeschichte. Ihr Werk überspannt Literaturfilm, Wuxia-Film, Kunstfilm und andere Genres und zeigt ein erstaunliches schauspielerisches Spektrum.
 
-Sie arbeitete mit bedeutenden Regisseuren verschiedener Epochen zusammen und hinterließ viele klassische Werke. Sie waren nicht nur kommerziell erfolgreich, sondern haben auch großen künstlerischen Wert.
+Sie arbeitete mit wichtigen Regisseuren verschiedener Epochen zusammen und hinterliess zahlreiche Klassiker. Diese Werke waren nicht nur kommerziell erfolgreich, sondern besitzen auch wichtigen künstlerischen Wert.
 
-Filmhistoriker sehen in Brigitte Lins Karriere einen Spiegel der Entwicklung des chinesischsprachigen Films; sie ist eine wichtige Zeugin und Beteiligte des goldenen Zeitalters des chinesischsprachigen Films.
+Filmhistoriker sind der Ansicht, dass Brigitte Lins Schauspielkarriere die Entwicklungsgeschichte des chinesischsprachigen Films widerspiegelt; sie ist wichtige Zeugin und Teilnehmerin des goldenen Zeitalters des chinesischsprachigen Films.
 
-## Ein ewiger Klassiker
+## Ewiger Klassiker-Status
 
-Auch Jahre nach dem Rückzug bleibt Lins Platz in den Herzen der Fans unangefochten erhöht. Ihre klassischen Bilder und großartigen Auftritte sind ein kostbares Erbe des chinesischsprachigen Films.
+Auch Jahre nach ihrem Rückzug bleibt Brigitte Lins Status in den Herzen der Fans erhaben. Ihre klassischen Bilder und brillanten Darstellungen sind zum wertvollen Erbe des chinesischsprachigen Films geworden.
 
-Die jüngere Generation lernt ihren Reiz über die alten Klassiker kennen – ein Beleg, dass herausragende Darsteller die Zeiten überdauern. Brigitte Lin ist ein kulturelles Symbol der chinesischsprachigen Leinwand, das jede nachfolgende Generation von Filmschaffenden inspiriert.
+Die junge Generation lernt ihren Charme durch das Wiedersehen ihrer Klassiker kennen, was beweist, dass hervorragende Darsteller Epochen überspannen können. Brigitte Lin ist das kulturelle Symbol des chinesischsprachigen Films und inspiriert jede nachfolgende Generation von Filmschaffenden.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Sanmao](/de/people/san-mao): Drehbuchautorin von „Rotes Staubmeer“ (滾滾紅塵), die Brigitte Lin den Golden Horse Award als beste Hauptdarstellerin einbrachte
+- [Sanmao](/de/people/san-mao): Drehbuchautorin von «Rote Staubwogen», die Brigitte Lin zur Goldenen-Pferd-Best actress machte
 
 ## Referenzen
 
-- [Brigitte Lin – Taiwan Film Institute](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) – Werkliste der Schauspielerin
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) – Werkinformationen aus der Hongkonger Zeit
-- [Dongfang Bubai – Hong Kong Film Awards Association](https://www.hkfaa.com/) – Bewertung klassischer Werke
+- [Brigitte Lin — Taiwan Film Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Schauspieler-Werkliste
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Materialien zur Hongkonger Periode
+- [Dongfang Bubai — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Bewertung des Klassikers
 
-[^1]: Wikipedia-Artikel „Brigitte Lin“: Sung Tsun-shou war der Regisseur, der sie für die Hauptrolle in „Jenseits des Fensters“ (1973) einlud. https://zh.wikipedia.org/wiki/林青霞
+[^1]: Wikipedia-Eintrag «Brigitte Lin»: Sung Tsun-shou als Regisseur, lud sie für «Fenster nach draussen» (1973) ein.https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: „Jenseits des Fensters“ (1973), Regie Sung Tsun-shou, Brigitte Lins erste Hauptrolle, nach dem gleichnamigen Roman von Qiong Yao. Werkdaten des Taiwan Film Institute: https://taiwancinema.bamid.gov.tw/
+[^2]: «Fenster nach draussen» (1973), Regie: Sung Tsun-shou, Brigitte Lins erste Hauptrolle, adaptiert aus Qiongyaos gleichnamigem Roman. Taiwan Film Network Werkdaten:https://taiwancinema.bamid.gov.tw/
 
-[^3]: Nach der Hochzeit mit dem Hongkonger Geschäftsmann Michael Ying am 29. Juni 1994 zog sich Brigitte Lin schrittweise aus der Unterhaltungsbranche zurück; siehe Wikipedia-Artikel „Brigitte Lin“ <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: Brigitte Lin heiratete am 29. Juni 1994 den Hongkonger Geschäftsmann Henry Hsu und zog sich anschliessend aus dem Showbusiness zurück, siehe Wikipedia-Eintrag «Brigitte Lin» <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
 
-[^4]: „Swordsman II: Dongfang Bubai“ (1992), Regie Tsui Hark, Brigitte Lin als Dongfang Bubai, Archiv des Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+[^4]: «The Swordsman II» (1992), Regie: Tsui Hark, Brigitte Lin als Dongfang Bubai, Sammlung Hong Kong Film Archive.https://www.filmarchive.gov.hk/
 
-[^5]: Brigitte Lin, „Von jenseits des Fensters“ (窗裡窗外), Tiandi Bücher, 2011. Das Buch ist ihre wichtigste Essaysammlung und erhielt positive literarische Bewertungen. <https://www.books.com.tw/products/0010512315>
+[^5]: Brigitte Lin (Autorin) «Drinnen und draussen vom Fenster», Cosmax Publishing, 2011. Das Buch ist ihre wichtigste Essay-Sammlung, erhielt positive literarische Kritiken.<https://www.books.com.tw/products/0010512315>

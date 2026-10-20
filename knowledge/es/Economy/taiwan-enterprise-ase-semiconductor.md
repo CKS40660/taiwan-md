@@ -1,15 +1,15 @@
 ---
-title: 'Empresas de Taiwán: ASE Group (日月光半導體)'
-description: 'La mayor empresa de encapsulado y pruebas del mundo: ¿por qué el dueño de una constructora decidió cambiar al sector de los semiconductores?'
+title: 'Empresas de Taiwán: ASE Group'
+description: 'En 1984, Zhang Yao-hong y su madre y hermano, provenientes del sector de la construcción, invirtieron sus fondos en el empaquetado y prueba de semiconductores, fundando ASE en Nanzi, Kaohsiung. En 1989 se convirtió en la primera empresa de empaquetado y prueba que cotizó en bolsa en Taiwán. En 1998, adquirió la surcoreana K&S para crear un servicio integral de «empaquetado + prueba». 40 años después, con unos ingresos de 10.100 millones de dólares en 2024 y una cuota de mercado mundial cercana al 45%, se ha consolidado como el líder del sector, convirtiéndose en el campeón invisible que se encarga de «vestir» los chips y realizarles sus «chequeos médicos».'
 date: 2026-03-21
 category: 'Economy'
 tags:
   [
     'Economía',
-    'Empresas',
+    'Empresa',
     'Industria de semiconductores',
-    'Encapsulado y pruebas',
-    'Manufactura tecnológica',
+    'Empaquetado y prueba',
+    'Fabricación tecnológica',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
-translatedAt: '2026-08-04T12:03:21+08:00'
+translatedAt: '2026-10-16T03:27:15.214603+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1984, Chang Yao-hung-ying (張姚宏影) y su hijo se aventuraron en el sector del encapsulado y pruebas de semiconductores, dejando atrás su negocio de la construcción para fundar ASE Group. 40 años después, se ha convertido en la mayor empresa de encapsulado y pruebas del mundo, con unos ingresos de 10.100 millones de USD en 2024 y una cuota de mercado global cercana al 45%. Cada iPhone y cada ordenador portátil podrían utilizar tecnología de ASE; es el campeón invisible que permite que los chips "vistan su armadura" y pasen por un "chequeo médico".

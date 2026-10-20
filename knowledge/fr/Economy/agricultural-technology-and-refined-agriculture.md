@@ -1,15 +1,15 @@
 ---
 title: 'Technologie agricole et agriculture de précision'
-description: "Comment Taïwan est passé de l'agriculture traditionnelle à l'agriculture de précision de haute technologie, créant un miracle agricole"
+description: "Avec moins de 10 000 km², Taïwan a développé des produits d'exception comme l'orchidée ou le thé de haute montagne grâce à l'amélioration variétale, passant de la main-d'œuvre à l'agriculture intelligente."
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'agriculture de précision',
-    'technologie agricole',
-    'orchidées',
-    'atémoya',
-    'agriculture intelligente',
+    'Agriculture de précision',
+    'Technologie agricole',
+    'Orchidée',
+    "Sucre de l'ananas (Annona)",
+    'Agriculture intelligente',
   ]
 subcategory: '農業經濟'
 author: 'Taiwan.md'
@@ -18,170 +18,170 @@ featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: '83cd5d0f3'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:5226e0cd696e818f'
 sourceBodyHash: 'sha256:3697d708565efd02'
-translatedAt: '2026-09-21T00:58:28+08:00'
+translatedAt: '2026-10-15T20:17:58+08:00'
 ---
 
 # Technologie agricole et agriculture de précision
 
 ## Aperçu en 30 secondes
 
-Avec moins de 40 000 kilomètres carrés de terres, Taïwan a créé un miracle agricole qui étonne le monde. Depuis le « père du riz Ponlai » Iso Eikichi, l'agriculture taïwanaise n'a cessé d'innover, développant des produits agricoles de précision tels que les orchidées, l'atémoya, le thé de haute montagne, qui occupent une position clé sur les marchés internationaux. En combinant l'Internet des objets, l'IA et autres nouvelles technologies, Taïwan s'engage résolument dans l'ère de l'« agriculture intelligente 4.0 ».
+Avec une superficie de moins de 40 000 km², Taïwan a réalisé un miracle agricole qui impressionne le monde. Depuis l'ère de l'« père du riz de Penglai », Iso Eikichi, l'agriculture taïwanaise n'a cessé d'innover, développant des produits de précision tels que les orchidées, le _fènglí shìjiā_ (sucre de l'ananas) et le thé de haute montagne, occupant ainsi une place clé sur le marché international. En intégrant les nouvelles technologies comme l'Internet des objets (IoT) et l'IA, Taïwan entre dans l'ère de l'« Agriculture intelligente 4.0 ».
 
-Mots-clés : agriculture de précision, agriculture intelligente, royaume des orchidées, atémoya, technologie agricole, amélioration variétale
+Mots-clés : agriculture de précision, agriculture intelligente, royaume de l'orchidée, _fènglí shìjiā_, technologie agricole, amélioration variétale
 
-## Pourquoi c'est important
+## Pourquoi est-ce important ?
 
-Dans un État insulaire à la superficie limitée, Taïwan doit substituer le « précis » à l'« extensif », la « technologie » à la « main-d'œuvre ». L'agriculture n'est plus seulement un secteur primaire, mais une industrie de sixième niveau combinant technologie, industries culturelles et créatives, et tourisme. Le succès de l'agriculture de précision taïwanaise prouve qu'un petit pays peut aussi trouver un positionnement unique dans la concurrence agricole mondiale.
+Sur une île à la superficie limitée, Taïwan doit remplacer l'« extensif » par le « précis » et la « force de travail » par la « technologie ». L'agriculture n'est plus seulement un secteur primaire, mais devient une industrie à six niveaux combinant technologie, culture créative et tourisme. Le succès de l'agriculture de précision taïwanaise prouve qu'un petit pays peut trouver sa place unique dans la compétition agricole mondiale.
 
-Pour Taïwan, l'agriculture de précision représente la maximisation de l'efficacité foncière (créer un maximum de valeur sur des terres limitées) et un modèle d'innovation technologique (systématisation scientifique de la sélection à la culture).
+Pour Taïwan, l'agriculture de précision représente la maximisation de l'efficacité des terres (créer une valeur maximale sur un espace limité) et un modèle d'innovation technique (une systématisation technologique allant de la sélection des semences à la culture).
 
-- **Avantage concurrentiel international** : établir une position irremplaçable sur des produits agricoles spécifiques
-- **Modèle de développement durable** : une voie de développement agricole respectueuse de l'environnement, efficace et à haute valeur ajoutée
+- **Avantage compétitif international** : Établir une position irremplaçable pour certains produits spécifiques.
+- **Modèle de développement durable** : Un parcours agricole écologique, efficace et à haute valeur ajoutée.
 
-## Parcours de la transformation agricole taïwanaise
+## Le processus de transformation de l'agriculture taïwanaise
 
-### Ère de l'agriculture traditionnelle (1950-1980)
+### L'ère de l'agriculture traditionnelle (1950-1980)
 
-Au début de l'après-guerre, l'agriculture taïwanaise visait l'autosuffisance alimentaire. La politique « la terre à celui qui la cultive » a libéré la productivité rurale, accompagnée de la promotion de variétés de riz à haut rendement (révolution verte) et de l'utilisation massive d'engrais chimiques.
+Au début de l'après-guerre, l'objectif de l'agriculture taïwanaise était l'autosuffisance alimentaire. La politique « la terre aux cultivateurs » a libéré la productivité rurale, accompagnée par la promotion de variétés de riz à haut rendement (révolution verte) et l'utilisation massive d'engrais chimiques.
 
-- **Gains de devises** : exportations de riz, sucre, thé et autres produits agricoles pour gagner des devises
+- **Génération de devises étrangères** : L'exportation de produits comme le riz, le sucre et le thé permettait de gagner des devises.
 
-Cette phase privilégiait l'augmentation de la « quantité », mais négligeait la « qualité ».
+Cette phase privilégiait la « quantité » au détriment de la « qualité ».
 
-### Débuts de l'agriculture de précision (1980-2000)
+### Début de l'agriculture de précision (1980-2000)
 
-Dans les années 1980, Taïwan a lancé la politique d'« agriculture de précision ». Les stations d'expérimentation agricole ont sélectionné de nouvelles variétés de qualité, et l'agriculture sous serres et filets s'est développée rapidement.
+Dans les années 1980, Taïwan a commencé à promouvoir la politique d'« agriculture de précision ». L'Institut de recherche agricole a développé de nouvelles variétés de haute qualité, et l'agriculture sous serre ou sous filet s'est rapidement développée.
 
-- **Amélioration de la qualité** : passage de la recherche de rendement à la recherche de qualité
-- **Construction de marques** : « Orchidées de Taïwan », « Thé de Taïwan » et autres marques ont acquis une réputation sur les principaux marchés d'exportation
+- **Amélioration de la qualité** : Passage de la recherche de rendement à la recherche de qualité.
+- **Création de marques** : Des marques telles que « Orchidée de Taïwan » ou « Thé de Taïwan » ont établi leur réputation sur les principaux marchés d'exportation.
 
-Le tournant clé a été la prise de conscience que Taïwan ne pouvait pas rivaliser sur les produits agricoles à bas prix et devait emprunter la voie de la haute valeur ajoutée.
+Le tournant majeur fut la prise de conscience que Taïwan ne pouvait pas rivaliser sur les produits agricoles à bas prix et devait s'orienter vers la haute valeur ajoutée.
 
-### Essor de l'agriculture technologique (2000-2010)
+### L'essor de l'agriculture technologique (2000-2010)
 
-Après l'adhésion à l'OMC, l'agriculture taïwanaise a fait face à la pression de la concurrence internationale. La sélection moléculaire, la culture de tissus et autres biotechnologies ont été largement appliquées, les technologies GPS et SIG introduites dans la gestion des champs.
+Après l'adhésion à l'OMC, l'agriculture taïwanaise a fait face à la pression de la concurrence internationale. Les biotechnologies comme la sélection moléculaire et la culture de tissus ont été largement appliquées, tandis que les technologies GPS et SIG ont été introduites dans la gestion des terres agricoles.
 
-- **Logistique de la chaîne du froid** : développement de technologies de conservation, prolongation de la durée de conservation des produits agricoles
-- **Agriculture biologique** : réponse à la demande des consommateurs pour la sécurité alimentaire
+- **Logistique de la chaîne du froid** : Développement de techniques de conservation pour prolonger la durée de vie des produits.
+- **Agriculture biologique** : Réponse aux besoins des consommateurs en matière de sécurité alimentaire.
 
-### Ère de l'agriculture intelligente (2010 à nos jours)
+### L'ère de l'agriculture intelligente (2010 à aujourd'hui)
 
-Avec la maturation des technologies IoT et IA, Taïwan promeut l'« agriculture intelligente 4.0 ». Des capteurs collectent les données environnementales, l'IA analyse les conditions optimales de culture, robots et drones réduisent les besoins en main-d'œuvre.
+Avec la maturité de l'IoT et de l'IA, Taïwan promeut l'« Agriculture intelligente 4.0 ». Les capteurs collectent des données environnementales, l'IA analyse les conditions de culture optimales, et les robots ainsi que les drones réduisent le besoin de main-d'œuvre.
 
-- **Traçabilité par blockchain** : établissement d'un système de suivi de la sécurité alimentaire de la plantation à la consommation
-- **Agriculture circulaire** : valorisation des déchets, établissement d'un modèle de production durable
+- **Traçabilité par blockchain** : Mise en place d'un système de suivi de la sécurité alimentaire, de la plantation à la consommation.
+- **Agriculture circulaire** : Valorisation des déchets pour établir un modèle de production durable.
 
 ## Cas de réussite de l'agriculture de précision
 
-### Royaume des orchidées : l'industrie taïwanaise de l'orchidée
+### Le royaume de l'orchidée : l'industrie de l'orchidée à Taïwan
 
-Taïwan jouit de la réputation de « royaume des orchidées » et est l'un des plus importants pays producteurs et exportateurs d'orchidées au monde :
+Taïwan est surnommée le « royaume de l'orchidée » et figure parmi les plus importants producteurs et exportateurs mondiaux :
 
-**Échelle de l'industrie** : En 2023, la valeur totale des exportations d'orchidées a atteint 197,68 millions de dollars US (environ 6 milliards de dollars taïwanais), dont 159,38 millions pour les phalaenopsis, soit 80 %. Les cinq premiers marchés sont, dans l'ordre, les États-Unis, le Japon, le Viêt Nam, les Pays-Bas et le Canada[^1]. Le marché mondial des phalaenopsis provient à environ 30 % de Taïwan ; les Pays-Bas ont remplacé Taïwan comme premier producteur avec environ 50 % de parts de marché depuis 2014[^8].
+**Échelle industrielle** : En 2023, la valeur totale des exportations d'orchidées s'élevait à 197,68 millions de dollars US (environ NT$ 6 milliards), dont 159,38 millions de dollars US pour les _phalaenopsis_ (orchidées papillons), soit 80 %. Les cinq principaux marchés sont respectivement les États-Unis, le Japon, le Vietnam, les Pays-Bas et le Canada[^1]. Environ 30 % du marché mondial des _phalaenopsis_ provient de Taïwan, bien que les Pays-Bas soient devenus premiers depuis 2014 avec environ 50 % de parts de marché[^8].
 
-**Avantages technologiques** : La technologie de culture de tissus soutient la multiplication massive de plants de qualité, l'hybridation crée de nouvelles variétés dotées de droits de propriété intellectuelle propres, un contrôle environnemental précis (température, humidité, luminosité) associé à des processus de production standardisés garantit une qualité constante.
+**Avantages techniques** : La culture de tissus permet une reproduction massive de semences de haute qualité ; la sélection par hybridation crée de nouvelles variétés protégées par des droits de propriété intellectuelle ; le contrôle environnemental précis (température, humidité, luminosité) associé à des processus de production standardisés garantit une qualité constante.
 
-**Compétitivité internationale** : La part de marché des phalaenopsis taïwanais sur le marché américain des importations est passée de 48 % en 2005 à 68 % en 2010[^9]. Le Viêt Nam est le troisième marché d'exportation en 2023, et des entreprises taïwanaises y ont également établi des usines[^1].
+**Compétitivité internationale** : La part de marché des _phalaenopsis_ taïwanais dans les importations américaines est passée de 48 % en 2005 à 68 % en 2010[^9]. Le Vietnam est le troisième marché d'exportation en 2023, et des entreprises taïwanaises y ont établi des usines de production[^1].
 
 **Clés du succès**
-La Station d'amélioration agricole de Tainan du Ministère de l'agriculture assume depuis longtemps la recherche variétale et l'accompagnement de l'industrie des orchidées[^2], couvrant toute la chaîne industrielle de la collecte et conservation des orchidées indigènes à l'hybridation, la culture de tissus, les techniques de culture, jusqu'à l'exportation. Côté canaux d'exportation, le Parc de biotechnologie des orchidées de Taïwan à Houbi, Tainan, est une place forte pour l'exportation des phalaenopsis ; les plants sont expédiés par chaîne du froid aérienne, ce qui dynamise aussi le système de fret aérien taïwanais et l'entreposage frigorifique pour fleurs.
+La station d'amélioration agricole de la région de Tainan du Ministère de l'Agriculture assure depuis longtemps la recherche sur les variétés et l'assistance à l'industrie[^2], couvrant toute la chaîne, de la collecte des orchidées sauvages à l'hybridation, la culture de tissus et les techniques de culture jusqu'à l'exportation. Concernant les canaux d'exportation, le parc biotechnologique de l'orchidée de Taïwan à Houbi (Tainan) est un centre névralgique pour l'exportation des _phalaenopsis_. Les semences sont transportées par chaîne du froid aérienne, ce qui stimule également le système de fret aérien et le stockage frigorifique floral de Taïwan.
 
-### Atémoya : la nouvelle star de l'agriculture taïwanaise
+### Le _fènglí shìjiā_ : la nouvelle star de l'agriculture taïwanaise
 
-L'atémoya n'est pas une variété taïwanaise, mais c'est un exemple où la technologie de culture taïwanaise a transformé une variété étrangère en une industrie :
+Bien que le _fènglí shìjiā_ (sucre de l'ananas) ne soit pas une variété originaire de Taïwan, il illustre comment les techniques de culture locales ont transformé une espèce introduite en une véritable industrie :
 
-**Caractéristiques variétales** : L'atémoya est un hybride entre le corossolier (cherimoya) et le pomme-cannelle (sugar apple). La variété principale cultivée à Taïwan, Gefner, a été introduite d'Israël pour essai en 1965, mais ce n'est qu'après que la Station d'amélioration agricole de Taitung a mis au point une technique de taille permettant une fructification hivernale qu'une industrie s'est formée à partir de 1997[^4]. Chair dense, taux de sucre élevé (environ 20-25 degrés Brix), parfum rappelant l'ananas d'où son nom, peu sujette à l'éclatement, supporte bien le transport.
+**Caractéristiques de la variété** : Le _fènglí shìjiā_ est un hybride entre l'_annona reticulata_ (custard apple) et l'_annona muricata_ (soursop). La principale variété cultivée à Taïwan, la 'Gefner', a été introduite d'Israël pour des essais en 1965. Ce n'est qu'à partir de 1997 que l'industrie s'est formée, grâce aux techniques de taille de la station d'amélioration agricole de Taitung permettant d'obtenir des fruits en hiver[^4]. La chair est dense, très sucrée (environ 20-25 degrés Brix) et possède un parfum d'ananas qui lui donne son nom ; le fruit ne se fend pas facilement et résiste bien au transport.
 
-**Données de l'industrie** : La zone de production principale est le comté de Taitung, dont la surface de récolte représente 99 % du total national. La surface cultivée est passée de 2 951 hectares en 2021 à 2 454 hectares en 2025, avec une production 2025 d'environ 11 000 tonnes. Avant l'interdiction de 2021, 95 % du marché d'exportation était concentré en Chine[^4].
+**Données industrielles** : La principale zone de production est le comté de Taitung, qui représente 99 % des surfaces cultivées à Taïwan. La surface cultivée est passée de 2 951 hectares en 2021 à 2 454 hectares en 2025, avec une production d'environ 11 000 tonnes en 2025. Avant l'interdiction de 2021, 95 % du marché d'exportation était concentré en Chine[^4].
 
-**Percées technologiques** : La technique de greffage permet une récolte l'année suivant le greffage ; la technologie de régulation de la période de production prolonge la récolte de décembre à avril de l'année suivante ; les standards de calibrage et d'emballage garantissent la qualité à l'exportation, les technologies de conservation post-récolte prolongent la fraîcheur.
+**Percées techniques** : Les techniques de greffage permettent une récolte dès l'année suivant le greffage ; la régulation des périodes de production permet d'étendre la saison de récolte de décembre à avril ; le conditionnement standardisé garantit la qualité à l'exportation, et les technologies de stockage post-récolte prolongent la fraîcheur.
 
 **Défis et opportunités**
-La Chine a imposé un embargo total sur l'atémoya taïwanais en septembre 2021, n'autorisant en 2023 que 25 vergers et 3 stations de conditionnement sous permis spécial, puis annulant en 2024 le tarif zéro pour imposer 29 %. Le Ministère de l'agriculture encourage depuis 2021 la reconversion et la transformation avec une subvention de 150 000 à 200 000 dollars taïwanais par hectare ; plus de 200 hectares ont déjà été reconvertis. En 2025, les fruits destinés à la transformation ont dépassé 600 tonnes, et la part du marché intérieur a dépassé 50 % pour la première fois[^4]. Cette transformation forcée confronte directement l'industrie de l'atémoya au problème structurel de la dépendance à un marché unique.
+En septembre 2021, la Chine a imposé une interdiction totale sur le _fènglí shìjiā_ taïwanais. En 2023, elle n'a autorisé l'importation que de 25 vergers et 3 centres d'emballage, avant de supprimer les droits de douane zéro en 2024 pour les remplacer par un taux de 29 %. Depuis 2021, le Ministère de l'Agriculture encourage la conversion des cultures avec une prime allant de NT$ 150 000 à NT$ 200 000 par hectare ; plus de deux cents hectares ont déjà été convertis, et la transformation industrielle est encouragée. En 2025, plus de 600 tonnes de fruits destinés à la transformation ont été produites, le marché intérieur dépassant pour la première fois les 50 %[^4]. Cette transition forcée a confronté l'industrie directement au problème de la dépendance à un marché unique.
 
-### Thé oolong de haute montagne : le miracle créé par l'environnement géographique
+### Thé Oolong de haute montagne : un miracle géographique
 
-Le thé de haute montagne taïwanais est le représentant typique de l'agriculture de précision :
+Le thé de haute montagne taïwanais est un exemple typique d'agriculture de précision :
 
-**Avantages géographiques** : Environnement de haute montagne au-dessus de 1 000 mètres d'altitude, grand écart de température jour-nuit (favorable à l'accumulation de nutriments dans les feuilles de thé), brumes persistantes offrant un ombrage naturel, sols bien drainés ; ces quatre conditions conjuguées créent la qualité unique du thé oolong de haute montagne.
+**Avantages géographiques** : L'altitude supérieure à 1 000 mètres, les grands écarts de température entre le jour et la nuit (favorisant l'accumulation de nutriments dans les feuilles), l'ombrage naturel par la brume et un sol bien drainé sont quatre conditions qui créent la qualité unique du thé Oolong de haute montagne.
 
-**Caractéristiques de qualité** : Liqueur parfumée et douce en retour, saveurs riches, feuilles épaisses supportant de multiples infusions, chaque zone de production et chaque sommet possède son « qi yun » (caractère distinctif) marqué, et de nombreux prix dans les concours internationaux de thé.
+**Caractéristiques de qualité** : Une infusion parfumée avec une rétro-olfaction sucrée, des couches de saveurs riches, des feuilles épaisses qui résistent aux infusions successives, et un "esprit" (_qìyùn_) propre à chaque sommet de production. Ce thé a remporté de nombreux prix dans des compétitions internationales.
 
-**Zones de production renommées** : La zone de thé d'Alishan (altitude 1 000-1 700 m, réputée pour son thé Zhulu) et la zone de thé de Lishan (altitude 2 000 m et plus, plus haute zone de thé de Taïwan) sont les deux zones phares ; la zone de thé de Shanlinxi, enveloppée de brumes toute l'année, produit un thé doux et sucré ; la zone de thé de Dayuling (altitude 2 200-2 600 m), production rare mais qualité exceptionnelle, est en rupture de stock à chaque saison d'achat.
+**Zones de production célèbres** : La région d'Alishan (1 000-1 700 m, célèbre pour son thé _zhūlù_) et la région de Lishan (plus de 2 000 m, la plus haute zone théicole de Taïwan) sont les deux zones phares. La région de Shanlinxi est perpétuellement embrumée, offrant un thé d'une grande douceur ; la région de Dayuling (2 200-2 600 m) produit peu, mais d'une qualité exceptionnelle, très demandée lors des saisons d'achat.
 
-## Applications des technologies de l'agriculture intelligente
+## Applications des technologies d'agriculture intelligente
 
-### Technologies de l'agriculture de précision
+### Technologies d'agriculture de précision
 
-Trois modules technologiques de base de l'agriculture de précision se soutiennent mutuellement : les systèmes de surveillance environnementale maîtrisent en temps réel la température et l'humidité du sol, le pH, la conductivité électrique et les données météorologiques, fournissant une alerte précoce aux maladies et ravageurs ; les systèmes d'irrigation automatisés ajustent le volume d'eau selon l'humidité du sol, les systèmes intégrés eau-engrais fertilisent avec précision, augmentant l'efficacité de l'eau de 30-50 % et réduisant les coûts de main-d'œuvre de 60 % ; les systèmes d'historique de production enregistrent par blockchain l'information complète de la plantation à la récolte, le consommateur scanne un QR Code pour la consulter.
+Trois modules technologiques de base se soutiennent mutuellement : les systèmes de surveillance environnementale permettent de suivre en temps réel l'humidité du sol, le pH, l'EC et les données météorologiques pour une alerte précoce contre les ravageurs ; les systèmes d'irrigation automatisés ajustent l'apport en eau selon l'humidité du sol, tandis que les systèmes fertirrigation permettent un apport précis de nutriments, augmentant l'efficacité de l'eau de 30 à 50 % et réduisant les coûts de main-d'œuvre de 60 % ; enfin, les systèmes de traçabilité utilisent la blockchain pour enregistrer toutes les informations de la plantation à la récolte, consultables par le consommateur via un QR Code.
 
-### Applications de l'intelligence artificielle
+### Applications de l'intelligence artificielle (IA)
 
-Les principaux scénarios d'application de l'IA en agriculture incluent : drones équipés de caméras multispectrales surveillant la croissance des cultures, l'IA analysant les maladies des plantes avec une précision de 95 % et plus, le tri automatisé de la qualité améliorant l'efficacité ; côté analyse prédictive, l'IA combine les données météorologiques historiques pour prédire les moments optimaux de culture, les prix du marché et les probabilités d'apparition des maladies et ravageurs ; les systèmes intelligents d'aide à la décision intègrent les données des capteurs pour fournir des recommandations culturales, réguler l'environnement des serres, réduisant globalement les coûts de production de 20-30 %.
+Les principaux scénarios d'application de l'IA incluent : l'utilisation de drones équipés de caméras multispectrales pour surveiller la croissance des cultures (l'IA analyse les maladies avec une précision supérieure à 95 %) et l'automatisation du tri qualitatif ; l'analyse prédictive combinant données météorologiques historiques pour déterminer le moment optimal de culture, les prix du marché et les probabilités d'apparition de ravageurs ; et les systèmes d'aide à la décision intégrant les données des capteurs pour suggérer des méthodes de culture ou réguler l'environnement des serres, réduisant globalement les coûts de production de 20 à 30 %.
 
-### Automatisation des machines agricoles et drones de protection des cultures
+### Automatisation des machines agricoles et protection par drones
 
-Les drones pulvérisateurs n'ont acquis une existence légale à Taïwan qu'après l'entrée en vigueur du chapitre spécial sur les drones radiocommandés de la loi sur l'aviation civile en mars 2020 : les opérateurs doivent détenir simultanément le certificat professionnel d'exploitation de l'Administration de l'aviation civile et l'enregistrement de technicien de pulvérisation de pesticides du Bureau de la prévention et de l'inspection ; en juillet 2020, seulement 227 personnes dans tout Taïwan détenaient les deux certificats, et 5 entreprises de pulvérisation avaient passé l'examen[^5]. Par la suite, le Ministère de l'agriculture a intégré les drones pulvérisateurs dans les « subventions pour machines agricoles économes en main-d'œuvre, efficaces et séquestrant le carbone » ; à partir de 2025, les entreprises de pulvérisation légales doivent arborer un drapeau d'identification lors des opérations[^10]. Autrefois, deux personnes mettaient une journée pour pulvériser une jia (0,9699 hectare) ; aujourd'hui, une seule personne aux commandes d'un drone de protection termine en une demi-journée, et peut opérer en terrain montagneux et dans les zones agricoles reculées, comblant le manque de main-d'œuvre. Les robots de récolte de fruits et légumes sont encore en phase de validation sur le terrain.
+Les drones d'épandage n'ont acquis un statut légal en Taïwan qu'après l'entrée en vigueur du chapitre sur les drones télécommandés dans la loi sur l'aviation civile en mars 2020 : l'opérateur doit détenir à la fois un certificat de pilotage professionnel de la CAA et un enregistrement de technicien d'épandage auprès de l'agence de prévention des maladies animales et végétales. En juillet 2020, seuls 227 personnes possédaient les deux certifications, et seulement 5 prestataires avaient été approuvés[^5]. Par la suite, le Ministère de l'Agriculture a intégré les drones d'épandage dans les subventions pour « machines agricoles à haute efficacité et faible main-d'œuvre », et dès 2025, les prestataires légaux devront arborer un drapeau lors de leurs opérations[^10]. Auparavant, il fallait deux personnes pour traiter un hectare en une journée ; aujourd'hui, une seule personne peut terminer la tâche en une demi-journée avec un drone, tout en accédant aux pentes montagneuses et aux terres reculées, comblant ainsi le manque de main-d'œuvre. Les robots de récolte de fruits et légumes sont encore en phase de test sur le terrain.
 
 ## Politiques et soutien gouvernementaux
 
-### Plan Agriculture intelligente 4.0
+### Programme Agriculture Intelligente 4.0
 
-Le Conseil de l'agriculture a présenté en 2016 le « Plan de promotion de l'agriculture intelligente 4.0 », exécuté de 2017 à 2020 :
+Le Conseil des exploitations agricoles (anciennement COA) a proposé en 2016 un plan de promotion pour l'« Agriculture intelligente 4.0 », exécuté entre 2017 et 2020 :
 
-**Objectifs du plan** : Sélection de dix industries phares — phalaenopsis, plants, champignons, riziculture, installations agricoles, aquaculture, volaille (palmipèdes), produits agricoles tracés, lait, produits de la pêche maritime — pour réduire les besoins en main-d'œuvre et augmenter l'efficacité de production par la production intelligente et les services numériques, et mise en place de trois groupes de promotion technique : production intelligente et aides homme-machine, systèmes experts de technologie agricole, services numériques et échange de données de traçabilité[^3].
+**Objectifs du programme** : Sélectionner dix industries pilotes (orchidées _phalaenopsis_, semences, champignons, riziculture, installations agricoles, aquaculture, volailles/canards, produits traçables, lait cru, pêche maritime) pour réduire les besoins en main-d'œuvre et augmenter l'efficacité par la production intelligente et les services numériques. Trois groupes de promotion technique ont été créés : production intelligente et aides mécaniques homme-machine, systèmes experts en technologie agricole, et services numériques et échange de données de traçabilité[^3].
 
-**Points forts** : Le plan part de la production intelligente (capteurs, équipements automatisés) et des services numériques (plateforme cloud agricole), pour s'étendre à la finance agricole (amélioration du financement par les mégadonnées) et à la coopération transversale (intégration de l'industrie TIC et de l'agriculture).
+**Points clés** : Le programme part de la production intelligente (capteurs, équipements automatisés) et des services numériques (plateformes cloud agricoles) pour s'étendre à la finance agricole (utilisation du Big Data pour améliorer le financement) et à la coopération intersectorielle (intégration des industries TIC et de l'agriculture).
 
-### Plan de promotion de l'innovation pour la nouvelle agriculture
+### Plan de promotion de l'innovation agricole
 
-L'Exécutif Yuan promeut depuis 2017 le « Plan de promotion de l'innovation pour la nouvelle agriculture » (2017-2020), trois axes majeurs : établir un nouveau paradigme agricole, construire un système de sécurité agricole, renforcer la capacité de commercialisation agricole, avec dix politiques clés ; la version 2.0 pour 2021-2024 recentre sur trois axes : améliorer le système de bien-être des agriculteurs, consolider l'environnement de base, renforcer la compétitivité industrielle[^11].
+Depuis 2017, l'Exécutif promeut le « Plan de promotion de l'innovation agricole » (2017-2020) autour de trois axes : établir un nouveau modèle agricole, construire un système de sécurité agricole et améliorer les capacités de marketing agricole. La version 2.0 (2021-2024) s'est concentrée sur l'amélioration du système de bien-être des agriculteurs, la consolidation de l'environnement de base et le renforcement de la compétitivité industrielle[^11].
 
-### Loi de promotion de l'agriculture biologique
+### Loi sur la promotion de l'agriculture biologique
 
-La « Loi de promotion de l'agriculture biologique » a été promulguée en mai 2018 et entrée en vigueur en mai 2019, intégrant l'agriculture respectueuse de l'environnement dans l'accompagnement, établissant des zones de promotion de l'agriculture biologique, offrant des subventions de certification et de promotion commerciale. L'objectif de 15 000 hectares d'agriculture biologique et respectueuse de l'environnement fixé par le plan pour la nouvelle agriculture a atteint 15 754 hectares à fin 2020[^11].
+Promulguée en mai 2018 et entrée en vigueur en mai 2019, cette loi inclut également l'accompagnement pour les pratiques de culture respectueuses de l'environnement et établit des zones de promotion de l'agriculture biologique, tout en offrant des subventions pour la certification et le marketing. L'objectif de 15 000 hectares de cultures biologiques et respectueuses de l'environnement fixé par le plan d'innovation a été atteint avec 15 754 hectares à la fin de 2020[^11].
 
-## Défis et développement futur
+## Défis et développements futurs
 
 ### Principaux défis
 
-L'agriculture de précision taïwanaise fait face à quatre défis structurels. Côté climat : augmentation de la fréquence des événements climatiques extrêmes, modification des schémas des maladies et ravageurs, nécessitant des variétés résistantes et des systèmes d'alerte aux catastrophes. Côté main-d'œuvre : selon le recensement agricole, forestier, piscicole et pastoral de 2020, l'âge moyen des gestionnaires d'exploitations agricoles et pastorales est de 64,4 ans, en hausse de 0,9 an par rapport à cinq ans plus tôt[^12], la proportion de jeunes entrant dans l'agriculture est faible, la transmission technique fait face à une rupture générationnelle. Côté marché : intensification de la concurrence à bas prix d'Asie du Sud-Est, montée du protectionnisme commercial, l'avantage de différenciation reste à renforcer. Côté environnement : la pression de la décarbonation exige que l'agriculture réduise l'utilisation d'engrais et de pesticides, développe des modèles d'agriculture circulaire.
+L'agriculture de précision taïwanaise fait face à quatre défis structurels. **Climat** : l'augmentation de la fréquence des phénomènes météorologiques extrêmes et le changement des modèles de ravageurs nécessitent des variétés résistantes et des systèmes d'alerte précoce. **Main-d'œuvre** : selon le recensement agricole, forestier et halieutique de 2020, l'âge moyen des gestionnaires d'exploitations est de 64,4 ans, soit une augmentation de 0,9 an par rapport à cinq ans auparavant[^12], avec un faible taux de jeunes agriculteurs, menaçant la transmission technique. **Marché** : la concurrence accrue des produits à bas prix d'Asie du Sud-Est et la montée du protectionnisme commercial exigent de renforcer l'avantage de la différenciation. **Environnement** : la pression pour la décarbonation exige une réduction de l'usage des engrais chimiques et pesticides au profit de modèles circulaires.
 
-### Orientations de développement futur
+### Orientations futures
 
-La prochaine étape de l'agriculture de précision est la généralisation des technologies de capteurs, l'itération des analyses par IA et l'atteinte d'opérations sans personnel sur certaines parcelles. Les applications biotechnologiques s'axent sur la sélection par édition génique, les biopesticides de substitution, l'amélioration des sols par probiotiques et la commercialisation des usines à plantes. La direction de l'économie circulaire inclut la valorisation des déchets agricoles, les protéines alternatives comme les protéines d'insectes et le commerce des crédits carbone agricoles. La coopération internationale vise l'exportation de technologies agricoles vers l'Asie du Sud-Est et l'Afrique, le développement de l'industrie des services technologiques agricoles, l'établissement de bases de production agricole à l'étranger.
+La prochaine étape de l'agriculture de précision est la démocratisation des capteurs, l'itération de l'analyse par IA et l'automatisation complète de certains domaines. En biotechnologie, les axes principaux sont l'édition génomique pour la sélection, le remplacement des pesticides par la lutte biologique, l'amélioration des sols par les probiotiques et la commercialisation des usines végétales (_plant factories_). Dans l'économie circulaire, cela inclut la valorisation des déchets agricoles, les protéines alternatives (comme les protéines d'insectes) et le marché des crédits carbone agricoles. La coopération internationale se concentrera sur l'exportation de technologies vers l'Asie du Sud-Est et l'Afrique, développant ainsi le secteur des services technologiques agricoles et établissant des bases de production à l'étranger.
 
-## Influence internationale et vision future
+## Influence internationale et vision d'avenir
 
-L'influence internationale de l'agriculture de précision taïwanaise s'exerce principalement par l'exportation de technologies : des entreprises d'orchidées établissent des usines de production au Viêt Nam, des équipes techniques agricoles sont détachées longuement dans les pays alliés. Côté marques, « Orchidées de Taïwan » sur le marché haut de gamme américain, « Thé de Taïwan » sur les marchés de consommation haut de gamme japonais et d'Asie du Sud-Est ont tous deux établi une prime de qualité claire.
+L'influence internationale de Taïwan s'exprime principalement par l'exportation de technologies : les producteurs d'orchidées installent des usines au Vietnam, et des missions techniques agricoles sont envoyées chaque année dans les pays alliés. Sur le plan de la marque, « Orchidée de Taïwan » bénéficie d'une prime de qualité sur le marché haut de gamme américain, tandis que le « Thé de Taïwan » s'est imposé sur les marchés de consommation premium au Japon et en Asie du Sud-Est.
 
-Le parcours de transformation de l'agriculture taïwanaise — de la sélection du riz Ponlai dans les années 1920 à la reconnaissance d'images par IA pour les maladies et ravageurs aujourd'hui — est en essence une élévation systématique des barrières technologiques. Les phalaenopsis occupant près de 70 % du marché américain des importations, une variété israélienne devenue grâce à la technique de taille de Taitung une industrie concentrée à 99 % à Taitung : ces deux faits illustrent le sens concret de « précision » dans le contexte agricole taïwanais : une position de marché protégée par des fossés, et non une simple revendication de qualité.
+Le parcours de transformation de l'agriculture taïwanaise — de la sélection du riz de Penglai dans les années 1920 à la reconnaissance des maladies par IA aujourd'hui — est essentiellement une élévation systématique des barrières technologiques. Le fait que les _phalaenopsis_ occupent près de 70 % du marché d'importation américain, ou qu'une variété israélienne devienne une industrie concentrée à 99 % à Taitung grâce aux techniques de taille locales, illustre la signification concrète de « précision » dans le contexte taïwanais : il s'agit de posséder une position de marché protégée par des barrières technologiques, et non d'une simple étiquette de qualité.
 
 ## Références
 
-[^1]: [E-report agricole — Les orchidées de Taïwan éblouissent le monde](https://epost.moa.gov.tw/theme_data.php?theme=epost&sub_theme=photo&id=980) — Ministère de l'agriculture : valeur totale des exportations d'orchidées 2023 de 197,68 millions USD, phalaenopsis 159,38 millions USD soit 80,63 %, cinq premiers marchés États-Unis, Japon, Viêt Nam, Pays-Bas, Canada
+[^1]: [Agriculture E-News — L'orchidée taïwanaise impressionne le monde](https://epost.moa.gov.tw/theme_data.php?theme=epost&sub_theme=photo&id=980) — Ministère de l'Agriculture : En 2023, la valeur des exportations d'orchidées était de 197,68 millions USD, dont 159,38 millions pour les _phalaenopsis_ (80,63 %). Les cinq principaux marchés : États-Unis, Japon, Vietnam, Pays-Bas, Canada.
 
-[^2]: [Station d'amélioration agricole de Tainan du Ministère de l'agriculture](https://www.tndais.gov.tw/) — Résultats de recherche variétale et d'accompagnement industriel des orchidées de la station de Tainan
+[^2]: [Station d'amélioration agricole de la région de Tainan du Ministère de l'Agriculture](https://www.tndais.gov.tw/) — Résultats de la recherche sur les variétés et l'assistance à l'industrie de l'orchidée à Tainan.
 
-[^3]: [Ministère de l'agriculture — Vers l'ère 4.0 de l'agriculture taïwanaise par la technologie intelligente](https://www.moa.gov.tw/ws.php?id=2505139) — Explication de politique du Conseil de l'agriculture juillet 2016 : dix industries phares et trois groupes de promotion technique
+[^3]: [Ministère de l'Agriculture — Vers l'ère de l'agriculture 4.0 grâce aux technologies intelligentes](https://www.moa.gov.tw/ws.php?id=2505139) — Explication de la politique du COA en juillet 2016 : dix industries pilotes et trois groupes de promotion technique.
 
-[^4]: [Liberty Times — Production chinoise massive effondrant les prix, Ministère de l'agriculture encourage transformation et reconversion de l'atémoya taïwanais](https://news.ltn.com.tw/news/life/breakingnews/5478936) — 2026-06-21 : embargo sept. 2021, 2023 permis pour 25 vergers 3 stations conditionnement, 2024 taxe 29 %, surface 2 951→2 454 ha, production 2025 ~11 000 t ; origine variétale voir aussi [Apple Daily — L'atémoya n'est pas une variété taïwanaise d'origine](https://news.nextapple.com/life/20260620/6A64E1428D5879D49DE96742F072D5AD) : 1965 introduction Gefner depuis Israël, 1997 formation industrie, Taitung 99 %
+[^4]: [Liberty Times — La Chine produit massivement et les prix s'effondrent ; le Ministère de l'Agriculture encourage la transformation et la conversion des cultures pour le _fènglí shìjiā_ taïwanais](https://news.ltn.com.tw/news/life/breakingnews/5478936) — 21-06-2026 : Interdiction en sept. 2021, autorisation de 25 vergers et 3 centres d'emballage en 2023, taxe de 29 % en 2024, surface passée de 2 951 à 2 454 ha, production de ~11 000 tonnes en 2025 ; voir aussi [YiPing News — Le _fènglí shìjiā_ n'est pas une variété originaire de Taïwan](https://news.nextapple.com/life/20260620/6A64E1428D5879D49DE96742F072D5AD) : introduction de la 'Gefner' d'Israël en 1965, industrie formée dès 1997, 99 % à Taitung.
 
-[^5]: [Bureau de la prévention et de l'inspection vétérinaire et phytosanitaire du Ministère de l'agriculture — Pulvérisation de pesticides par drone, la sécurité et l'efficacité priment, veuillez respecter la réglementation](https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=17441) — 2020-07-28 : 227 personnes double certificat, 5 entreprises pulvérisation validées
+[^5]: [Agence de prévention des maladies animales et végétales du Ministère de l'Agriculture — L'épandage par drone doit être sûr et efficace conformément à la loi](https://www.aphia.gov.tw/theme_data.php?theme=NewInfoListWS&id=17441) — 28-07-2020 : 227 personnes avec double certification, 5 prestataires approuvés.
 
-[^6]: [Institut de recherche en technologie agricole — Analyse stratégique du développement de l'agriculture de précision](https://www.atri.org.tw/) — Analyse des stratégies techniques et d'industrialisation de l'agriculture de précision
+[^6]: [Academia of Agricultural Research — Analyse des stratégies de développement de l'agriculture de précision](https://www.atri.org.tw/) — Analyse des stratégies technologiques et d'industrialisation.
 
-[^7]: [Station d'amélioration du thé et des cultures de boissons — Industrie du thé de haute montagne taïwanais](https://www.tbrs.gov.tw/) — Amélioration variétale du thé taïwanais et données de l'industrie du thé de haute montagne
+[^7]: [Station d'amélioration des cultures de thé et de boissons — L'industrie du thé de haute montagne à Taïwan](https://www.tbrs.gov.tw/) — Données sur l'amélioration variétale et l'industrie du thé de haute montagne.
 
-[^8]: [The News Lens — Guerre commerciale 04 » Les phalaenopsis zone sinistrée](https://www.newsmarket.com.tw/blog/220389/) — Marché mondial phalaenopsis Taïwan ~30 %, Pays-Bas ~50 %, Pays-Bas premiers depuis 2014
+[^8]: [Upstream News — Guerre commerciale 04 : Les _phalaenopsis_ sont durement touchés](https://www.newsmarket.com.tw/blog/220389/) — Taïwan détient environ 30 % du marché mondial des _phalaenopsis_, les Pays-Bas environ 50 %, ces derniers étant premiers depuis 2014.
 
-[^9]: [Ministère de l'agriculture — Les phalaenopsis taïwanais s'envolent vers le monde, exportations multipliées par 4 en près de dix ans](https://www.moa.gov.tw/ws.php?id=2445793) — Part de marché importations US passée de 48 % en 2005 à 68 % en 2010
+[^9]: [Ministère de l'Agriculture — Les _phalaenopsis_ taïwanais s'envolent vers le monde, exportations multipliées par 4 en dix ans](https://www.moa.gov.tw/ws.php?id=2445793) — Part de marché aux États-Unis passée de 48 % en 2005 à 68 % en 2010.
 
-[^10]: [FoodNext — L'agriculture intelligente décolle ! Les drones de protection deviennent la nouvelle force agricole](https://www.foodnext.net/issue/paper/6091134226) — 2025-12-10 : système double certificat, nouvelle règle drapeau 2025 entreprises pulvérisation légales, une jia main-d'œuvre deux personnes un jour vs drone une personne demi-journée
+[^10]: [ShiLi — L'agriculture intelligente décolle ! Les drones d'épandage deviennent une nouvelle force agricole](https://www.foodnext.net/issue/paper/6091134226) — 10-12-2025 : Système de double certification, nouvelle règle sur le port du drapeau pour les prestataires en 2025 ; comparaison entre deux personnes/jour par hectare et un opérateur/demi-journée avec drone.
 
-[^11]: [Exécutif Yuan — Plan de promotion de l'innovation pour la nouvelle agriculture](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/d67af8eb-ab85-4e7f-b090-b72f2a1fbf17) — Lancé 2017, version 2.0 2021-2024 trois axes ; fin 2020 surface bio + respectueuse environnement total 15 754 ha
+[^11]: [Exécutif — Plan de promotion de l'innovation agricole](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/d67af8eb-ab85-4e7f-b090-b72f2a1fbf17) — Lancé en 2017, version 2.0 (2021-2024) ; fin 2020, les surfaces biologiques et respectueuses totalisaient 15 754 ha.
 
-[^12]: [Direction générale de la comptabilité, de la statistique et du budget de l'Exécutif Yuan — Résultats préliminaires du recensement agricole, forestier, piscicole et pastoral 2020](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Âge moyen gestionnaires exploitations agricoles pastorales 64,4 ans, +0,9 an vs 2015
+[^12]: [DGS de l'Exécutif — Résultats préliminaires du recensement agricole, forestier et halieutique de 2020](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Âge moyen des gestionnaires d'exploitations : 64,4 ans, soit +0,9 an par rapport à 2015.

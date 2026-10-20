@@ -1,27 +1,27 @@
 ---
-title: 'Protección ambiental y desarrollo sostenible'
-description: 'De la isla de las chimeneas al cero neto en Taiwán: el despertar de 40 años de movimiento ecologista'
+title: 'Medio ambiente y desarrollo sostenible'
+description: "Desde la década de 1980, cuando era conocida como la 'isla de las chimeneas' bajo el modelo de 'contaminar primero, limpiar después', pasando por el movimiento contra DuPont en Lukang en 1986 que despertó la conciencia ecológica en Taiwán, y la institucionalización con la creación de la Administración de Protección Ambiental en 1988; hasta la transición energética tras el desastre nuclear de Fukushima en 2011 y el compromiso de alcanzar las cero emisiones netas para 2050 en 2022: Taiwán ha despertado tras pagar el precio de ver el río Love oscurecerse y superar los límites de PM2.5 durante 40 años. Actualmente, la tasa de reciclaje alcanza el 60,1% y más de 200 empresas se han comprometido con objetivos científicos de reducción de carbono."
 date: 2026-03-21
+category: 'Society'
 tags:
   [
-    'protección ambiental',
+    'medio ambiente',
     'desarrollo sostenible',
-    'cero neto',
+    'emisiones netas cero',
     'economía circular',
     'cambio climático',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: Society/環保與永續發展.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+translatedFrom: 'Society/環保與永續發展.md'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: 2026-05-02T01:17:17+08:00
+translatedAt: '2026-10-15T20:36:40.059617+00:00'
 ---
 
 # Protección ambiental y desarrollo sostenible: el despertar verde de una isla

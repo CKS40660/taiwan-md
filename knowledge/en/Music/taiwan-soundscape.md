@@ -1,219 +1,219 @@
 ---
-title: 'The Soundscape of Taiwan'
-description: "From 'Für Elise' played by garbage trucks to the Bunun Pasibutbut eight-part harmony — understanding Taiwan through its ears"
+title: "Taiwan's Soundscape"
+description: "From garbage truck melodies to temple percussion and Bunun polyphony, every sound is a living cultural code; with the world's highest scooter density creating a unique urban symphony, Taiwan's sounds record its history, memory, and identity."
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '傳統音樂'
 tags:
   [
-    'soundscape',
     'soundscape',
     'garbage truck music',
     'temple fairs',
     'indigenous music',
-    'Beiguan and Nanguan',
+    'Beiguan',
+    'Nanguan',
     'street sounds',
   ]
-readingTime: 10
+subcategory: '傳統音樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+readingTime: 10
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'bc6743fde'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:e4fcea6f40bc1371'
 sourceBodyHash: 'sha256:f8c06621cad90a0b'
-translatedAt: '2026-07-24T10:40:41+08:00'
+translatedAt: '2026-10-15T15:59:43+08:00'
 ---
 
-# The Soundscape of Taiwan
+# Taiwan's Soundscape
 
 ## 30-Second Overview
 
-Close your eyes: can you hear Taiwan? At 6:30 PM, the melody of _Für Elise_ drifts down the alley as the garbage truck approaches; residents emerge one by one with their trash bags. Late at night, the drums and gongs of Beiguan resound at the temple entrance, while neon lights on electronic flower cars flicker before the statues of deities. In the mountains, the Bunun people sing the Pasibutbut in eight-part harmony to pray for a bountiful millet harvest—one of the oldest forms of polyphonic singing known to humanity.
+Close your eyes. Can you hear Taiwan? At 6:30 PM, the melody of _A Maiden's Prayer_ drifts from a passing garbage truck, and people in the alley emerge one after another with trash bags. Late at night, the thunderous percussion of _Beiguan_ (northern ritual music) echoes from a temple entrance, while neon lights from electronic floats flicker before the deities. In the mountains, the Bunun people offer their _Pasibutbut_ (eight-part polyphonic singing) to the gods to pray for a bountiful millet harvest—one of the oldest known forms of polyphonic singing in humanity.
 
-Taiwan’s soundscape is not merely background noise; it is a living cultural code. Every sound carries history, memory, and identity.
+Taiwan's sounds are not merely background noise; they are a living set of cultural codes. Every sound carries history, memory, and identity.
 
 **Key Sounds:**
 
-- 🚛 Garbage truck music: A unique urban sonic ritual found nowhere else in the world
-- 🏯 Temple fair music: Beiguan, Nanguan, and the drum ensembles of the Bajiajiang (Eight Generals)
-- 🏔️ Indigenous polyphony: The Bunun Pasibutbut (four-part choir producing eight-part harmonics)
-- 🛵 The Sea of Scooters: A symphony of engines from the world’s highest density of motor scooters
-- 🌙 Night market hawking: A soundscape of the people’s economy
+- 🚛 **Garbage Truck Music**: A unique urban ritual found nowhere else in the world
+- 🏯 **Temple Fair Music**: _Beiguan_, _Nanguan_, and the drumming of _Ba Jia Jiang_ (Eight Generals)
+- 🏔️ **Indigenous Polyphony**: Bunun _Pasibutbut_ (four-part singing producing eight natural overtones)
+- 🛵 **Sea of Scooters**: An engine symphony from the world's highest scooter density
+- 🌙 **Night Market Cries**: The sonic theater of the grassroots economy
 
 ## Why It Matters
 
-Every city has its own sonic fingerprint. New York has the screech of subway trains and taxi horns; Tokyo has the departure melodies of train stations and the door chimes of convenience stores. But Taiwan’s soundscape has a unique characteristic: **it simultaneously contains the ancient chants of the Austronesian peoples, the temple drums of Han immigrants, the school song traditions left from the Japanese colonial era, and the creative sounds of modern urban life.**
+Every city has its own sonic fingerprint. New York has the screech of subways and taxi horns; Tokyo has station departure melodies and convenience store chimes. But Taiwan's soundscape possesses a unique quality: **it simultaneously encompasses the ancient chants of Austronesian peoples, the temple percussion of Han immigrants, the school song traditions left from the Japanese colonial period, and the creative sounds of modern urban life.**
 
-This is not a single layer of sound, but 400 years of sonic archaeology.
+This is not just one layer of sound; it is four hundred years of sonic archaeology.
 
-Understanding Taiwan’s soundscape is listening to Taiwan’s history. And these sounds are disappearing: some swallowed by urbanization, others lost due to cultural断层 (gaps). Recording them is not just cultural preservation; it is a rescue mission.
-
----
-
-## The Sonic Code of Urban Daily Life
-
-### Garbage Truck Music: The World’s Most Civilized Way to Take Out the Trash
-
-**A Global Exclusive: Collecting Trash to Classical Music**
-
-The two classic melodies played by Taiwan’s garbage trucks are DNA-level memories for every Taiwanese:
-
-1. **_Für Elise_** — Beethoven’s most well-known piano piece, primarily used by garbage trucks in Northern and Central Taiwan.
-2. **_A Maiden's Prayer_** — A 1856 piano salon piece by Polish composer Tekla Bądarzewska, mostly played by garbage trucks in Southern Taiwan.
-
-Interestingly, where you live in Taiwan determines which melody you hear: this may be the only case in the world where classical music delineates regional identity. Northerners find _A Maiden's Prayer_ strange; Southerners are startled by _Für Elise_.
-
-Since Taipei implemented the "Garbage Does Not Land" (垃圾不落地) policy in 1997, the music of garbage trucks has become a collective memory. This is more than just trash collection: it is a daily micro-ritual of the community, where neighbors meet at the alley entrance, exchange gossip, and dispose of trash.
-
-**Why Classical Music?** When the Environmental Protection Agency selected the tracks in the 1980s, the criteria were that the music needed to be "easily recognizable, not unpleasant, and have a long transmission distance." Classical piano pieces fit perfectly: simple melodies, strong frequency penetration, and no copyright issues.
-
-**International Perspective:** This is likely the most filmed urban spectacle by foreign YouTubers. "You use classical music to collect trash?" — Yes, and the entire population finds it perfectly normal. [^1]
-
-### The Sea of Scooters: A Symphony of 14 Million Engines
-
-Taiwan has over 14 million registered motor scooters, the highest density in the world. The moment the traffic light turns green, the sound of dozens of scooters accelerating simultaneously is the daily soundtrack for every commuter.
-
-This sound is changing: the普及 (popularization) of electric scooters (such as Gogoro) has made cities slightly quieter, but that collective "hummm" of starting engines may become a nostalgic sound memory within a decade.
-
-### Election War Vehicles: The Decibels of Democracy
-
-During every election season, propaganda vehicles carrying giant loudspeakers weave through streets and alleys, repeating candidates' names and numbers at maximum volume. This is arguably the loudest practice of democracy in the world.
-
-Taiwanese people have mixed feelings about this: it is incredibly noisy, but it is also the most direct expression of freedom of speech. During the Martial Law era, you could even be arrested for posting a simple poster.
+To understand Taiwan's soundscape is to walk through its history using your ears. And these sounds are disappearing: some are being swallowed by urbanization, while others are lost due to cultural fractures. Recording them is not just cultural preservation—it is a rescue mission.
 
 ---
 
-## Sacred Sounds: Temple Fairs and Religion
+## Sonic Codes of Urban Daily Life
 
-### Beiguan: The Rock and Roll of the Temple Entrance
+### Garbage Truck Music: The World's Most Civilized Way to Dispose of Trash
 
-Beiguan is the most common traditional music at Taiwan’s temple fairs. It is loud, rhythmically intense, and emotionally charged. If the definition of rock and roll is "expressing the strongest emotions at the highest volume," then Beiguan is Taiwan’s oldest rock music. Beiguan includes instrumental music (Pai-tzu and Xian-pu) and vocal music (opera and fine tunes). The lyrics of the vocal music use a "Standard Official Speech" (Zhengyin Guan-hua)—not Taiwanese Hokkien, but a system of classical Mandarin.
+**A Global Exclusive: Collecting Trash with Classical Music**
 
-**Historical Context:** Beiguan was introduced to Taiwan during the Qianlong and Jiaqing reigns of the Qing Dynasty, named in contrast to Nanguan (Southern Music) from Quanzhou. Interestingly, its vocal origins trace back to the Pujiang Luantan of Zhejiang and the Xiqin Opera of Guangdong, rather than directly from Fujian: Fujian today does not even have a theatrical genre identical to Beiguan. In Taiwan, Beiguan developed into two major schools: "Xipi" and "Fulu" (corresponding to "Xuan" and "Yuan" in local guilds). Rivalry between the two schools (Pin Guan) sometimes escalated into械斗 (armed conflicts): in Taiwan, disputes over musical taste could be bloody.
+The two classic pieces played by garbage trucks in Taiwan are part of every Taiwanese person's DNA-level memory:
 
-**Modern Situation:** Beiguan faces a severe inheritance crisis. Young people find it too noisy and too rustic, and the number of learners is dropping sharply. Ironically, international ethnomusicologists are amazed by the complexity of Beiguan’s banqiang system and qupai structure: it shares the same roots as Peking Opera’s Xipi and Erhuang, earning it the nickname "the cousin of Peking Opera in the countryside."
+1. **"Für Elise"** — Beethoven's most famous piano miniature; primarily used by garbage trucks in Northern and Central Taiwan.
+2. **_A Maiden's Prayer_** — An 1856 piano salon piece by Polish composer Tekla Bądarzewska; mostly played by garbage trucks in Southern Taiwan.
 
-### Nanguan (Xian-guan / Southern Music): The Oldest Chamber Music in the East
+Interestingly, where you live in Taiwan determines which tune you hear: this may be the only case in the world where classical music defines regional identity. A Northerner hearing _A Maiden's Prayer_ would find it strange, and a Southerner might pause upon hearing "Für Elise."
 
-In sharp contrast to the violence of Beiguan, Nanguan is delicate, elegant, and slow-paced. Originally called "Xian-guan" (String Music), it originated in Quanzhou and was brought to Taiwan with Minnan immigrants. A typical "Shang Si Guan" (Upper Four Pipes) ensemble consists of: the horizontally held pipa, sanxian, dongxiao (preserving the Tang Dynasty’s chi-ba-inch specification of the shakuhachi), erxian, and clappers. In 2009, it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity under the name "Nanyin." [^5]
+Since Taipei City implemented its "trash not on the ground" policy in 1997, garbage truck music has become a collective memory for Taiwanese people. This is more than just waste collection; it is a daily community micro-ritual: neighbors meet at the alley entrance, exchange gossip, and take out their trash.
 
-**Sonic Characteristics:** Nanguan’s melody lines are extremely long; a single phrase can stretch for several minutes. During performance, "silks wipe forward" (si mo jiang lai)—starting with string instruments (pipa plucking), followed by the bamboo winds (dongxiao) melting in. Each part complements the others while remaining distinct. This is music that requires quiet listening: in an age of scarce attention, Nanguan’s first lesson is to "slow down."
+**Why classical music?** When the Environmental Protection Administration selected the tracks in the 1980s, they considered that the music needed to be "easily recognizable, non-obtrusive, and capable of traveling long distances." Classical piano pieces fit perfectly: simple melodies, high frequency penetration, and no copyright issues.
 
-**Cultural Roots:** Nanguan preserves the customs of the Han and Wei dynasties. Its ensemble structure traces back to the Han Dynasty’s Xianghe Ge ("silks and bamboo harmonize, the beat-keeper sings"). Its instrument types and musical structures are closely related to the grand tunes of the Tang and Song dynasties, earning it the title of "living musical fossil" and the reputation of "clear tones for a thousand years." In Taiwan, Lugang is the most important stronghold for Nanguan.
+**International Perception:** This is perhaps Taiwan's most frequently filmed urban oddity by foreign YouTubers. "You use classical music to collect trash?" — Yes, and the entire nation thinks it's perfectly normal. [^1]
 
-**Unique Feature:** The Nanguan pipa still uses the Tang Dynasty’s horizontal playing method, while other genres have long switched to vertical playing. This single posture is a time capsule of a thousand years.
+### Sea of Scooters: A Symphony of 14 Million Engines
 
-### Electronic Flower Cars: The Collision of the Sacred and the Secular
+With over 14 million registered scooters, Taiwan has the highest density in the world. The moment a red light turns green, the simultaneous roar of dozens of engines is the daily soundtrack for every Taiwanese commuter.
 
-This is Taiwan’s most magical realist soundscape: on flower cars for funerals or temple fairs, pole dancers perform under neon lights while electronic synthesizers play music mixing Taiwanese songs, electronic dance music, and Buddhist sutras.
+This sound is changing: the proliferation of electric scooters (such as Gogoro) has made cities slightly quieter, but that collective "vroom—" at takeoff may become a nostalgic sonic memory within a decade.
 
-**Cultural Logic:** It may seem absurd, but there is a serious folk logic behind it: "Lively" is for the gods to see, and it is also the last party for the deceased. "Send him off with grandeur."
+### Election Vehicles: The Decibels of Democracy
 
-**International Attention:** Electronic flower cars have been featured in special reports by international media such as the BBC and Vice, regarded as the most unique visual and auditory spectacle of Taiwan’s folk culture.
+During election seasons, campaign vehicles equipped with massive loudspeakers weave through streets and alleys, repeatedly blasting candidates' names and numbers at maximum volume. This is perhaps the loudest practice of democracy in the world.
 
-### The Layers of Sound in Sutras and Rituals
-
-The morning and evening lessons in Buddhist temples, the chanting of Daoist sutras, and the drum ensembles during Mazu processions: religious sound is the deepest layer of Taiwan’s soundscape. In the city, you might simultaneously hear church bells, temple wooden fish, and the call to prayer from a mosque. This is Taiwan’s religious diversity, manifested through sound.
+Taiwanese people have a love-hate relationship with this: it is incredibly noisy, but it is also the most direct manifestation of freedom of speech. During the martial law era, even posting a poster could lead to arrest.
 
 ---
 
-## Indigenous Sounds: Memories of the Land
+## Sacred Sounds: Temples and Religion
 
-### The Bunun Pasibutbut (Prayer for Millet Harvest): The Misnamed "Eight-Part Harmony"
+### Beiguan: The Rock Music of Temple Entrances
 
-The Bunun Pasibutbut is often called "Eight-Part Harmony," but this name is a beautiful misunderstanding: it is actually a **four-part choir** (mabungbung, maidadu, mandaza, mahosngas) that produces rich **natural harmonics** through reinforced chest resonance and throat singing, creating an eight-part effect on a spectrogram. It is not eight people singing eight parts; it is four parts singing a physical miracle.
+_Beiguan_ (Northern Pipe) is the most common traditional music at Taiwanese temple fairs, characterized by high volume, intense rhythms, and extreme emotional tension. If rock music is defined as "expressing the strongest emotions at the highest volume," then _Beiguan_ is Taiwan's oldest rock music. It includes instrumental parts (_paizi_, _xianpu_) and vocal music (_xiqu_, _xiqu_), which uses a form of "standardized Mandarin"—not Taiwanese, but a Mandarin system with ancient rhythmic qualities.
 
-In 1952, Japanese musicologist Takao Kurosawa submitted a recording of this song to UNESCO, shocking the international ethnomusicology community. [^2]
+**Historical Context:** _Beiguan_ was introduced to Taiwan during the Qianlong and Jiaqing reigns of the Qing Dynasty, named in contrast to _Nanguan_ (Southern Pipe) which came from Quanzhou. Interestingly, its vocal origins can be traced back to the _Luan Tan_ of Pujiang, Zhejiang, and the _Guangdong Qinxi_ opera, rather than directly from Fujian; today, one cannot find an opera genre in Fujian identical to _Beiguan_. In Taiwan, _Beiguan_ developed two major schools, _Xipi_ and _Fulu_ (corresponding to the "Xuan" and "Yuan" halls in traditional troupes). Rivalries between these schools (_pin guan_) sometimes escalated into violent clashes: in Taiwan, disputes over musical taste can lead to bloodshed.
 
-**Sonic Characteristics:** Six to twelve men (in even numbers) hold hands in a circle, rising from low to high pitches using the vowels "o," "e," "a," and "i." There is no conductor, no sheet music: harmony is achieved purely through mutual listening and the blending of sounds. When the harmonics align, you hear a number of parts exceeding the number of singers: this is one of the most mysterious acoustic phenomena achievable by the human voice.
+**Modern Situation:** _Beiguan_ faces a serious crisis of succession. Young people often find it too loud or "uncultured," leading to a sharp decline in students. Ironically, international ethnomusicologists marvel at the complex _banqiang_ (rhythmic pattern) system and melodic structures of _Beiguan_: it shares roots with the _Xipi_ and _Erhuang_ of Peking Opera, earning it the nickname "Peking Opera's rural cousin."
 
-**Cultural Significance:** Pasibutbut is a ritual to communicate with the sky god Dihanin, sung only during the millet harvest season from January to March. The more harmonious the singing, the happier the sky god, and the more abundant the millet harvest. It is currently only passed down in the Lanyu (Lanyu) and Junyu (Junyu) groups of the Bunun people; not all Bunun tribes sing it.
+### Nanguan: The Oldest Chamber Music in the East
 
-**Origin Legend:** Tribe members heard the resonance of hollow giant trees and wild bees, the echo of waterfalls, or the wind in pine forests and bamboo groves during hunting trips, believing it to be a blessing from the sky god. They imitated these sounds to create the song. Different tribes have different origin stories, but all point to the same thing: this song comes from the sounds of nature.
+In stark contrast to the violence of _Beiguan_, _Nanguan_ is delicate, elegant, and slow-paced. Originally called _Xian-guan_, it originated in Quanzhou and was brought to Taiwan by Minnan immigrants. A typical _Shangsi-guan_ (upper four instruments) ensemble consists of: a horizontally held _pipa_ (lute), _sanxian_ (three-stringed lute), _dongxiao_ (vertical flute, retaining the Tang Dynasty _shakuachi_ specification of 18 inches), _erxian_ (two-stringed fiddle), and _paiban_ (clappers). In 2009, it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity under the name _Nanyin_. [^5]
 
-### The Amis: Song and Dance of the Paddy Harvest Festival
+**Sonic Characteristics:** The melodic lines in _Nanguan_ are extremely long; a single phrase can stretch for several minutes. During performance, there is a sense of "silk and bamboo intertwining"—the strings (_pipa_) initiate the sound, followed by the breathy tones of the flute (_dongxiao_), with each part following one another while remaining distinct. It is music that requires you to sit still and listen: in an era of scarce attention, the first thing _Nanguan_ teaches you is to "slow down."
 
-The Amis Paddy Harvest Festival (Ilisin) is one of the largest celebrations of Taiwan’s indigenous peoples. Over several days of song and dance, the "antiphonal singing" between the lead singer and the group demonstrates the dynamic relationship between the collective and the individual.
+**Cultural Roots:** _Nanguan_ preserves the stylistic remnants of the Han and Wei dynasties. Its ensemble structure traces back to the _Xianghe_ songs of the Han Dynasty ("Silk and bamboo harmonize, as the player sings"). Scholars call it a "living musical fossil," praised for its "thousand-year clear tones." In Taiwan, Lukang is the most important stronghold for _Nanguan_.
 
-**Sonic Characteristics:** The lead singer improvises, and the group responds. Lyrics can be improvised, while melodies are relatively fixed. This singing style is also common in African music: the similarities between Austronesian and African music remain a research topic in ethnomusicology.
+**Uniqueness:** To this day, the _Nanguan pipa_ maintains the Tang Dynasty style of horizontal playing, whereas pipas in other genres transitioned to vertical playing long ago. This single posture serves as a thousand-year time capsule.
 
-### The Paiwan and Rukai: Double-Pipe Nose Flutes
+### Electronic Floats: The Collision of Sacred and Profane
 
-The double-pipe nose flute (lalingedan) of the Paiwan and Rukai peoples is one of the few instruments in the world played through the nose. One pipe plays the melody, the other plays a continuous drone, creating a unique acoustic effect.
+This is Taiwan's most magical-realist soundscape: on funeral or temple fair floats, dancers perform under neon lights while electronic synthesizers play music that blends Taiwanese pop, EDM, and Buddhist sutras.
 
-**Cultural Context:** In Paiwan tradition, the nose flute is an instrument exclusive to nobles, closely linked to the class system. It is used in important occasions such as weddings and funerals; the player’s breath is considered an extension of the soul.
+**Cultural Logic:** It may look absurd, but there is a serious folk logic behind it: the "liveliness" (_renao_) is for the gods to see, and it serves as the final party for the deceased. "Send them off with grandeur."
 
-### The Tao (Yami): Clapping Songs and the Ocean
+**International Attention:** Electronic floats have been featured in reports by international media such as the BBC and Vice, viewed as one of Taiwan's most unique visual and auditory spectacles of folk culture.
 
-The Tao people of Orchid Island (Lanyu) are Taiwan’s only maritime indigenous group. Their music is inseparable from the ocean. Clapping songs during the flying fish season and work songs during boat building all echo the rhythm of the sea.
+### Layers of Chanting and Rituals
 
-Writer Shiman Lanbao said: "The memory of the waves is longer than that of humans." The music of the Tao people is the sonic version of this statement.
+The morning and evening services of Buddhist temples, the chanting of Taoist rituals, and the percussion of _Mazu_ pilgrimages: religious sounds form the deepest layer of Taiwan's soundscape. In the city, you might simultaneously hear church bells, temple wooden fish (_muyu_), and the call to prayer from a mosque: this is Taiwan's religious diversity expressed through sound.
+
+---
+
+## Indigenous Sounds: Memories of the Earth
+
+### Bunun _Pasibutbut_ (Millet Harvest Prayer): The Misnomer "Eight-Part Harmony"
+
+The Bunun _Pasibutbut_ is often called "eight-part harmony," but this name is actually a beautiful misunderstanding: it is actually **four-part singing** (_mabungbung_, _maidadu_, _mandaza_, _mahosngas_). By emphasizing chest resonance and throat singing, they produce rich **natural overtones**, which appear as eight parts on a spectrogram. It is not eight people singing eight parts, but four parts producing a physical miracle.
+
+In 1952, Japanese musicologist Takao Kurosawa submitted a recording of this song to UNESCO, shocking the international ethnomusicological community. [^2]
+
+**Sonic Characteristics:** Six to twelve men (always an even number) form a circle, holding hands, and ascend from low tones using the vowels "o," "e," "a," and "i." There is no conductor and no sheet music: they rely purely on listening to one another to achieve harmony within the blending sounds. When the overtones align perfectly, you hear more parts than there are singers: it is one of the most mysterious acoustic phenomena achievable by the human voice.
+
+**Cultural Significance:** _Pasibutbut_ is a ritual to communicate with the god _Dihanin_, performed only during the millet harvest season from January to March. The more harmonious the singing, the happier the god, and the more bountiful the millet harvest will be. Currently, it is only practiced by the Lushe and Qunshe Bunun communities, not all Bunun tribes.
+
+**Origin Legend:** Tribesmen heard the resonance of hollow trees and wild bees, the echoes of waterfalls, or the wind in pine forests during hunts, believing these were blessings from the gods; they imitated these sounds to create the song. Different tribes have different origin stories, but they all point to one thing: this song comes from the sounds of nature.
+
+### Amis: Songs and Dances of the Harvest Festival
+
+The Amis _Ilisin_ (Harvest Festival) is one of the grandest celebrations among Taiwan's indigenous peoples. During several days of continuous singing and dancing, the "antiphonal singing" between the leader and the group demonstrates the dynamic relationship between the individual and the collective.
+
+**Sonic Characteristics:** The leader sings improvisations, and the group responds. Lyrics can be improvised, while melodies remain relatively fixed. This style is also common in African music; the similarities between Austronesian and African music remain a subject of ethnomusicological research.
+
+### Paiwan and Rukai: Double-Pipe Nose Flutes
+
+The double-pipe nose flute (_lalingedan_) of the Paiwan and Rukai peoples is one of the few instruments in the world played with the nose. One pipe plays the melody, while the other provides a continuous drone, creating a unique acoustic effect.
+
+**Cultural Context:** In Paiwan tradition, the nose flute is an instrument exclusive to the nobility, closely tied to the social hierarchy. It is used in important occasions such as weddings and funerals, where the player's breath is seen as an extension of the soul.
+
+### Tao: Hand-Clapping Songs and the Ocean
+
+The Tao people of Lanyu are Taiwan's only maritime indigenous group; their music is inseparable from the sea. The hand-clapping songs during the flying fish season and the work songs used when building canoes all echo the rhythms of the ocean.
+
+Writer Hsia Man-lan po-an once said, "The memory of the waves lasts longer than humans." Tao music is the sonic version of that sentiment.
 
 ---
 
 ## Sounds of Nature
 
-### Spring Thunder and Plum Rain
+### Spring Thunder and the Plum Rain
 
-Taiwan’s climate has distinct seasonal sounds: the first thunder of spring, the heavy rain of the plum rain season beating on tin roofs, and the eerie silence of a few seconds before summer afternoon thunderstorms. Anyone who has lived in a house with a tin roof in Taiwan knows: the sound of rain can be so loud that you cannot hear what your neighbor is saying.
+Taiwan's climate has a distinct seasonal sense in its sounds: the first thunder of spring, the torrential rain of the plum rain season hitting corrugated iron roofs, and the eerie silence seconds before a summer afternoon thunderstorm. Anyone who has lived under a tin roof knows: the sound of rain can be loud enough to drown out your neighbor's conversation.
 
-### Cicada Songs
+### Cicadas
 
-Taiwan has over 60 species of cicadas. Summer cicada songs can reach 90 decibels—the volume of a vacuum cleaner. Different altitudes host different cicada species, forming a vertical spectrum of sound: the Formosan cicada at low altitudes, the Takasago cicada at mid-altitudes, and the Ezo cicada at high altitudes, each with its own timbre and rhythm.
+Taiwan has over 60 species of cicadas. Their summer drone can reach 90 decibels—equivalent to the volume of a vacuum cleaner. Different altitudes host different species, forming a vertical spectrum of sound: the Taiwan Black Cicada in the plains, the Taiwan High Mountain Cicada at mid-altitudes, and the Ezo Cicada at high altitudes, each with distinct timbres and rhythms.
 
-### Sounds of Taiwan Endemic Species
+### Sounds of Endemic Species
 
-The song of the Taiwan bush robin is widely regarded as one of the most beautiful bird songs in Taiwan. The dog-like barking of the Formosan muntjac often startles hikers. In the mountain forests at night, the calls of owls and frogs intertwine, constituting the unique nocturnal soundscape of Taiwan’s mountains.
-
----
-
-## Sounds Disappearing
-
-### The Whistle of the Knife Sharpeners
-
-Riding bicycles and pressing special whistles to hawk "Sharpen—Scissors—" along the streets, knife sharpeners were once one of the most familiar sounds in Taiwan’s alleys. With modernization, this sound is nearing extinction.
-
-### The Hawking Broadcasts of Hardware Stores
-
-Hardware store hawking broadcasts recorded in Taiwanese Hokkien ("Come, come, storewide sale...") were once the background sound of Taiwan’s towns and streets. Today, they are only heard in some traditional markets and rural areas.
-
-### The Sounds of the Radio Era
-
-Before the popularization of television, radios were the sonic center of Taiwanese households. Taiwanese Hokkien radio dramas, opera broadcasts, and puppet show dubbing shaped the auditory memory of an entire generation; today, they exist only in the memories of the elderly.
-
-### The Loss of Taiwanese Hokkien Tones
-
-Taiwanese Hokkien has eight tones (seven actually used), making it one of the daily languages with the richest tonal systems in the world. But with the promotion of Mandarin education, the Taiwanese Hokkien proficiency of younger generations is dropping sharply. When a language disappears, it is not just vocabulary that is lost, but the unique sonic texture and musicality of that language—the inflection and cadence of Taiwanese Hokkien is itself a melody.
+The song of the Taiwan Laughingthrush is widely regarded as one of the most beautiful bird songs in Taiwan. The bark of the Formosan Serow often startles hikers. In the mountain forests at night, the calls of owls intertwine with frog croaks to form a unique nocturnal soundscape.
 
 ---
 
-## 🚇 The MRT Soundscape Project
+## Vanishing Sounds
 
-In 2018, Dahe Music conducted a unique field recording along the Taipei MRT lines: the "MRT Soundscape Project." They recorded the most representative daily sounds near every station along the MRT network. These 8-second audio clips are like a map of Taipei walked through the ears.
+### The Knife Grinder's Horn
 
-> **📝 Curator’s Note:** Every MRT station has its own sonic DNA. The chanting and divination at Xingtian Temple, the buzzing of tattoo machines in Ximending, the hawking of New Year goods in Dihua Street—these are not "noise"; they are evidence of a living city.
+The knife grinder, riding a bicycle and ringing a special horn while shouting "Grind—scissors—" through the streets, was once one of the most familiar sounds in Taiwanese alleys. With modernization, this sound has nearly vanished.
 
-**🎧 Listen: Taipei MRT Soundscape (Recorded by Dahe Music, March 2018)**
+### Hardware Store Broadcasts
 
-| Station / Location                   | Sound                          | Listen                                                                                                                                               |
-| ------------------------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Xingtian Temple                      | Worship (divination, chanting) | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio>                    |
-| Ximending                            | Tattoo Parlor                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio>                    |
-| Dihua Street                         | Buying New Year Goods          | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio>       |
-| Taipei 101                           | New Year Countdown             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio>              |
-| Chiang Kai-shek Memorial Hall        | Pigeons Flying                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio>           |
-| Chiang Kai-shek Memorial Hall        | Tourists Taking Photos         | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-camera-shutters.mp3" type="audio/mpeg"></audio>          |
-| Daan Forest Park                     | Watching Ducks                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio>                     |
-| Dahu Park                            | Lake Water Sounds              | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dahu-park-lake-water.mp3" type="audio/mpeg"></audio>                       |
-| Xiaobitan                            | Birdwatching                   | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xiaobitan-birdsong.mp3" type="audio/mpeg"></audio>                         |
-| Tamsui                               | Buying Squid                   | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio>                        |
-| Miramar                              | Watching Movies                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-miramar-cinema.mp3" type="audio/mpeg"></audio>                             |
-| Sanmin Bookstore                     | Page Flipping                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio>             |
-| Beimen Post Office                   | Mailing Letters                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-beimen-post-office-mailing.mp3" type="audio/mpeg"></audio>                 |
-| Zhongshan Station                    | Power Drill Sounds             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-station-power-drill.mp3" type="audio/mpeg"></audio>              |
-| Zhongshan Junior High School Station | Announcements                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-junior-high-station-announcement.mp3" type="audio/mpeg"></audio> |
+Hardware store announcements recorded in Taiwanese ("Come, come, everything on sale...") were once the background noise of Taiwan's towns and villages. Now, they can only be heard in some traditional markets and rural areas.
+
+### The Radio Era
+
+Before television became ubiquitous, the radio was the sonic center of the Taiwanese household. Taiwanese-language radio dramas, _Gezaixi_ (Taiwanese Opera) broadcasts, and _Potehi_ (glove puppetry) dubbing—these sounds shaped the auditory memory of an entire generation and now exist only in the memories of the elderly.
+
+### The Loss of Tâi-gí Tones
+
+Tâi-gí (Taiwanese Hokkien) has eight tones (seven used in practice), making it one of the most tonally rich daily languages in the world. However, with the promotion of Mandarin education, the proficiency of younger generations in Tâi-gí has declined sharply. When a language disappears, it is not just vocabulary that is lost, but also the unique sonic texture and musicality—the inflections of Tâi-gí are themselves a melody.
+
+---
+
+## 🚇 MRT Soundscape Project
+
+In 2018, Dahe Music conducted a unique field recording project along the Taipei MRT lines: the "MRT Soundscape Project." Following the MRT network, they recorded the most representative sounds of life near every station. These 8-second snippets serve as an auditory map of Taipei.
+
+> **📝 Curator's Note:** Every MRT station has its own sonic DNA. The chanting and _jiaobei_ (moon blocks) at Xingtian Temple, the buzz of tattoo machines in Ximending, the Lunar New Year shopping cries in Dihua Street—these are not "noise"; they are evidence of a living city.
+
+**🎧 Listen: Taipei MRT Soundscape (Recorded March 2018 by Dahe Music)**
+
+| Station / Location            | Sound                       | Listen                                                                                                                                               |
+| :---------------------------- | :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Xingtian Temple               | Worship (Jiaobei, Chanting) | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio>                    |
+| Ximending                     | Tattoo Parlor               | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio>                    |
+| Dihua Street                  | Lunar New Year Shopping     | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio>       |
+| Taipei 101                    | New Year's Countdown        | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio>              |
+| Chiang Kai-shek Memorial Hall | Pigeons Flying              | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio>           |
+| Chiang Kai-shek Memorial Hall | Tourists Taking Photos      | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-camera-shutters.mp3" type="audio/mpeg"></audio>          |
+| Daan Forest Park              | Ducks                       | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio>                     |
+| Dahu Park                     | Lake Water                  | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dahu-park-lake-water.mp3" type="audio/mpeg"></audio>                       |
+| Xiaobitan                     | Birdsong                    | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xiaobitan-birdsong.mp3" type="audio/mpeg"></audio>                         |
+| Tamsui                        | Buying Squid                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio>                        |
+| Miramar                       | Cinema                      | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-miramar-cinema.mp3" type="audio/mpeg"></audio>                             |
+| Sanmin Bookstore              | Page Flipping               | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio>             |
+| Beimen Post Office            | Mailing Letters             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-beimen-post-office-mailing.mp3" type="audio/mpeg"></audio>                 |
+| Zhongshan Station             | Power Drill                 | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-station-power-drill.mp3" type="audio/mpeg"></audio>              |
+| Zhongshan Junior High Station | Announcement                | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-zhongshan-junior-high-station-announcement.mp3" type="audio/mpeg"></audio> |
 
 ---
 
@@ -221,54 +221,54 @@ In 2018, Dahe Music conducted a unique field recording along the Taipei MRT line
 
 ### Sound Art
 
-Taiwan has a vibrant sound art scene. Platforms such as C-LAB (Taiwan Contemporary Culture Experiment Center), Local Experiment, and the Lacking Sound Festival (Shi Sheng Ji) continuously promote the creation and performance of sound art. [^3] Artists such as Wang Fu-rui, Yao Zhong-han, and Zhang Yong-da transform Taiwan’s environmental sounds into contemporary artistic language.
+Taiwan has an active sound art scene. Platforms such as C-LAB (Experimental Center for Contemporary Culture), local experimental spaces, and the Lacking Sound Festival continuously promote the creation and performance of sound art. [^3] Works by artists like Wang Fu-rui, Yao Chung-han, and Chang Yung-ta transform Taiwan's environmental sounds into contemporary artistic language.
 
 ### Field Recording
 
-More and more sound workers are investing in field recordings of Taiwan, documenting disappearing sounds. From high mountain forests to coastal intertidal zones, from old markets to industrial zones—these recordings are not just archives; they are auditory cultural assets. [^4]
+An increasing number of sound workers are engaging in field recording across Taiwan to document vanishing sounds. From high mountain forests to coastal intertidal zones, and from old markets to industrial districts—these recordings are not just files; they are auditory cultural assets. [^4]
 
 ### Interactive Sound Installations
 
-Taiwan’s new media artists have shown outstanding performance in the field of interactive sound installations. Combining sensors, real-time computing, and spatial audio, they transform the audience’s body movements into sound experiences—making "listening" a whole-body participatory event.
+Taiwanese new media artists excel in the field of interactive sound installations. By combining sensors, real-time computing, and spatial audio, they transform the audience's physical movements into a sonic experience—making "listening" a full-body engagement.
 
 ### Soundscape Preservation Projects
 
-The Taiwan Soundscape Association, integrating resources from the Ministry of Culture, continues to promote the recording and preservation of "endangered soundscapes." The hawking sounds of traditional markets, the drum music of temple fairs, and the machine sounds of老字号 (time-honored) handicraft industries—sounds disappearing due to urban renewal or industrial decline—are preserved through field recordings.
+Through the integration of resources from the Taiwan Soundscape Association and the Ministry of Culture, efforts continue to record and preserve "endangered soundscapes." The cries of traditional markets, temple fair percussion, and the machinery of old-fashioned handicrafts—sounds disappearing due to urban renewal or industrial decline—are preserved through field recording.
 
 ---
 
-## Surprising Facts
+## Amazing Facts
 
-- 🔢 **Garbage Truck Music is Globally Unique**: Taiwan is the only country in the world that uses classical music to remind residents to take out the trash. The two melodies have been used for over 25 years, becoming the most powerful trigger for national collective memory.
-- 🔢 **"Eight-Part Harmony" is Actually Four Parts**: The Bunun Pasibutbut is a four-part choir producing an eight-part effect through natural harmonics. Shocked the international musicology community after Takao Kurosawa submitted it to UNESCO in 1952.
-- 🔢 **Nanguan is a Living Fossil**: Preserving musical elements from the Tang and Song dynasties, it is one of the oldest existing chamber music traditions in East Asia, inscribed on the UNESCO Intangible Cultural Heritage list in 2009.
-- 🔢 **Taiwanese Cicada Songs Reach 90 Decibels**: The volume of summer cicadas is equivalent to a vacuum cleaner. Over 60 species of cicadas constitute one of the world’s highest-density cicada soundscapes.
-- 🔢 **Taiwanese Hokkien Has Seven Tones**: It is one of the daily languages with the richest tonal systems in the world. Changing any tone changes the meaning of the word; the language itself is music.
-- 🔢 **The Drum Sounds of Mazu Processions**: During the annual白沙屯 (Baishatun) Mazu徒步進香 (walking pilgrimage), up to 100,000 people can be mobilized. Wherever the procession goes, the sound of firecrackers and drums stretches for kilometers. This is Taiwan’s largest-scale mobile soundscape event.
-- 🔢 **The Sound Layers of Taiwan’s Night Markets**: A night market has an average background noise of 80-90 decibels—sizzling oil pans, hawking voices, electronic sound effects from game stalls—the night market soundscape is the most dense sound package of Taiwan’s people’s life.
-- 🔢 **C-LAB Lacking Sound Festival**: The Lacking Sound Festival (Shi Sheng Ji) at Taipei Kongzong is one of Asia’s most important experimental sound art festivals. It attracts international sound artists to Taiwan annually, making Taiwan a key node in Asian sound art.
+- 🔢 **Global Exclusive Garbage Music**: Taiwan is the only country in the world that uses classical music to remind residents to take out their trash; these two tunes have been used for over 25 years, becoming a powerful trigger for national collective memory.
+- 🔢 **"Eight-Part Harmony" is Actually Four**: The Bunun _Pasibutbut_ is four-part singing that produces an eight-part effect through natural overtones; it shocked the international musicology community after being submitted to UNESCO in 1952.
+- 🔢 **Nanguan is a Living Fossil**: Preserving musical elements from the Tang and Song dynasties, it is one of the oldest surviving chamber music traditions in East Asia and was listed as a UNESCO Intangible Cultural Heritage in 2009.
+- 🔢 **Taiwanese Cicadas Reach 90 Decibels**: The volume of summer cicadas is equivalent to a vacuum cleaner; over 60 species form one of the world's densest cicada soundscapes.
+- 🔢 **Tâi-gí Has Seven Tones**: It is one of the world's most tonally rich daily languages; changing a single tone changes the meaning, making the language itself musical.
+- 🔢 **Mazu Pilgrimage Percussion**: The annual Baishatun Mazu walking pilgrimage can mobilize over 100,000 people; the sound of firecrackers and drums follows the procession for kilometers, creating Taiwan's largest mobile soundscape event.
+- 🔢 **Night Market Sonic Layers**: An average night market has a background noise of 80–90 decibels—bubbling oil, vendor cries, and electronic sounds from game stalls—making the night market soundscape a dense "compressed file" of Taiwanese grassroots life.
+- 🔢 **C-LAB Lacking Sound Festival**: The Lacking Sound Festival at Taipei's C-LAB is one of Asia's most important experimental sound art festivals, attracting international artists annually and making Taiwan a key node for Asian sound art.
 
 ---
 
 **Further Reading**:
 
-- [Taiwan Soundscape](/en/culture/taiwan-soundscape) — Sister article: The same sounds, re-asked from the perspective of "how we listen," co-created by soundscape researchers.
-- [🎧 Taiwan Soundscape Recording Project](/soundscape) — The audio version of this article: 21 field recordings of garbage trucks, temple fairs, MRT, and natural sounds available online. Welcome to contribute your recordings.
-- [Wang Fu-rui](/en/people/fujui-wang) — Founded Taiwan’s first experimental music label, NOISE, in 1993. The source of the lineage mentioned in the "Sound Art" section: Wang Fu-rui, Yao Zhong-han, and Zhang Yong-da.
-- [Traditional Music of Taiwan’s Indigenous Peoples](/en/music/indigenous-music-traditions) — The Bunun eight-part harmony, Paiwan mouth organs, and other traditional sounds are the oldest layer of Taiwan’s soundscape.
-- [Taiwan KTV Culture](/en/music/ktv-culture) — From show venues to private rooms, KTV is one of the most common artificial sound sources in Taiwan’s nightscape. The singing voices of five people in a private room leaking out constitute a unique sonic fingerprint of Taiwan’s nights.
-- [Development of Taiwan Hip-Hop and Rap](/en/music/taiwan-hip-hop-and-rap) — From urban basements to the KKBOX charts, the sonic texture of rap has changed the soundscape layers of Taiwan’s popular music.
+- [Taiwan Soundscape](/en/culture/taiwan-soundscape) — A sister piece: the same sounds, re-examined from the perspective of "how we listen," co-created with soundscape researchers.
+- [🎧 Taiwan Soundscape Recording Project](/soundscape) — The audio version of this article: 21 field recordings including garbage trucks, temples, MRT, and nature available for online listening; feel free to contribute your own recordings.
+- [Wang Fu-rui](/en/people/fujui-wang) — Founder of NOISE, Taiwan's first experimental music label in 1993; the source of the lineage of Wang Fu-rui, Yao Chung-han, and Chang Yung-ta mentioned in the "Sound Art" section.
+- [Indigenous Music Traditions of Taiwan](/en/music/indigenous-music-traditions) — Traditional sounds like Bunun polyphony and Paiwan mouth harps represent the oldest layer of Taiwan's soundscape.
+- [Taiwan KTV Culture](/en/music/ktv-culture) — From show bars to private rooms, KTV is one of the most common man-made sources of Taiwan's nocturnal soundscape; the sound of five people singing loudly in a room forms a unique sonic fingerprint of Taiwanese nights.
+- [Development of Taiwan Hip-Hop and Rap](/en/music/taiwan-hip-hop-and-rap) — From urban basements to KKBOX charts, the sonic texture of rap has changed the layers of Taiwan's pop music soundscape.
 
 ---
 
 ## References
 
-[^1]: [Classic FM: Beethoven's 'Für Elise' calls Taiwanese residents to take out the trash](https://www.classicfm.com/composers/beethoven/fur-elise-calls-taiwanese-trash/) — International media observation on Taiwan’s garbage trucks playing classical music
+[^1]: [Classic FM: Beethoven's 'Für Elise' calls Taiwanese residents to take out the trash](https://www.classicfm.com/composers/beethoven/fur-elise-calls-taiwanese-trash/) — International media observation regarding Taiwan's garbage trucks playing classical music.
 
-[^2]: [Ministry of Culture: Taiwan Indigenous Music Database](https://music.apc.gov.tw/) — The indigenous music collection database established by Taiwan’s Ministry of Culture
+[^2]: [Ministry of Culture: Taiwan Indigenous Music Database](https://music.apc.gov.tw/) — An indigenous music archive established by Taiwan's Ministry of Culture.
 
-[^3]: [C-LAB Taiwan Contemporary Culture Experiment Center](https://clab.org.tw/) — A contemporary art and sound experiment platform located at Taipei Kongzong
+[^3]: [C-LAB Experimental Center for Contemporary Culture](https://clab.org.tw/) — A contemporary art and sound experimental platform located in the former Taipei Air Force Depot.
 
-[^4]: [Taiwan Soundscape Association](https://www.soundscape.org.tw/) — A civil organization dedicated to the research and preservation of Taiwan’s sound environment
+[^4]: [Taiwan Soundscape Association](https://www.soundscape.org.tw/) — A non-governmental organization dedicated to the research and preservation of Taiwan's sonic environment.
 
-[^5]: [UNESCO: Nanyin (Southern Music) — Intangible Cultural Heritage of Humanity](https://ich.unesco.org/en/RL/nanyin-00199) — The UNESCO page inscribing Nanyin as Intangible Cultural Heritage in 2009
+[^5]: [UNESCO: Nanguan (Nanyin) — Intangible Cultural Heritage of Humanity](https://ich.unesco.org/en/RL/nanyin-00199) — The UNESCO page for Nanguan, inscribed in 2009.

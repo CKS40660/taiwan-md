@@ -1,27 +1,27 @@
 ---
 title: 'Jam Hsiao'
-description: "Dari 'Raja Kick-off' ke Raja Anugerah Emas, Suara Taiwan yang Menciptakan Legenda 'Dewa Hujan'"
-date: '2026-03-23'
-author: 'Taiwan.md'
+description: 'Pada tahun 2007, seorang penyanyi kafe dijadwalkan untuk berpartisipasi dalam kompetisi tantangan di ajang "Super Star Avenue". Tiga penampilannya berhasil mencetak rekor rating tertinggi, yang sejak saat itu mengubah peta musik Mandarin. Ia adalah artis pertama yang memenangkan gelar Best Male Mandarin Singer di Golden Melody Awards sebagai peserta tantangan, dan juga pria yang selalu diikuti hujan setiap kali tampil, sehingga dijuluki sebagai "Dewa Hujan" oleh seluruh Taiwan. Melalui suara dan daya tarik publiknya, ia menuliskan legenda dari seorang penantang tangguh menjadi raja musik.'
+date: 2026-03-23
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Musik',
     'Musik Pop',
     'Jazz',
     'Super Star Avenue',
-    'Anugerah Emas',
+    'Golden Melody Awards',
     'Dewa Hujan',
   ]
-lastVerified: '2026-03-23'
-lastHumanReview: 'true'
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-23
+lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
-translatedAt: '2026-07-24T20:15:16+08:00'
+translatedAt: '2026-10-15T23:00:30.074783+00:00'
 ---
 
 # Jam Hsiao: Legenda Suara Taiwan yang Paling Tidak Terduga

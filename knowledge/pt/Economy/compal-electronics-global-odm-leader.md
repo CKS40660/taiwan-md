@@ -1,6 +1,6 @@
 ---
 title: 'Compal Electronics'
-description: 'Segunda maior fabricante de notebooks por encomenda do mundo, importante impulsionadora da indústria ODM de Taiwan'
+description: 'Fundada em 1984 e parte do grupo Kinpo, a Compal Electronics é uma grande fabricante ODM de Taiwan; mais de 80% dos laptops do mundo vêm de fábricas de Taiwan, e a Compal detém cerca de 20-25% de participação de mercado, consolidando-se como a segunda maior fabricante de laptops do mundo. Ao abrir um laptop com a marca Dell, Lenovo ou Acer, há grande chance de ter sido projetado e fabricado pela Compal — ela evoluiu de OEM para ODM e hoje atua em IA, 5G e veículos elétricos, testemunhando a transformação da indústria de manufatura de Taiwan, de fabricação por encomenda para design.'
 date: 2026-03-20
 category: 'Economy'
 tags: ['Economia', 'Empresa', 'Fabricação eletrônica por encomenda', 'ODM']
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:7ecd07bcd9b5c842'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:42e5977dc5bcc26b'
 sourceBodyHash: 'sha256:aead7a66c3b88ec5'
-translatedAt: '2026-07-29T16:27:10.665865+00:00'
+translatedAt: '2026-10-15T20:01:50.677383+00:00'
 ---
 
 # Compal Electronics: o gigante ODM invisível ao mundo
@@ -209,12 +209,12 @@ Desde a sua fundação em 1984 até hoje, a Compal atravessou a onda de populari
 
 ## Referências
 
-[^1]: [Compal Electronics — Índice Mundial de Design iF 2025](https://www.compal.com/) — A Compal ficou em 10º lugar no ranking global de competitividade inovadora do iF World Design Index 2025, destacando-se entre mais de 10.000 empresas participantes.
+[^1]: [Compal Electronics — Índice Mundial de Design iF 2025](https://www.compal.com/) — A Compal ficou em 10º lugar no ranking global de competitividade inovadora de empresas do Índice Mundial de Design iF 2025, destacando-se entre mais de 10.000 empresas participantes.
 
 [^2]: [Wikipédia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Formação de Hsu Sheng-hsiung: Departamento de Literatura Chinesa da Universidade Normal Nacional de Taiwan, posteriormente tornou-se presidente da Compal Electronics.
 
-[^3]: [Economic Daily News — Compal, a 'ação depósito a prazo'](https://money.udn.com/) — A Compal Electronics distribui dividendos há 33 anos consecutivos, com pagamentos estáveis, sendo conhecida como 'ação depósito a prazo'.
+[^3]: [Economic Daily News — Compal, a 'ação depósito a prazo'](https://money.udn.com/) — A Compal Electronics distribuiu dividendos por 33 anos consecutivos, com pagamentos estáveis, sendo conhecida como 'ação depósito a prazo'.
 
 [^4]: [Wikipédia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — A Compal Electronics é o segundo maior fabricante ODM de notebooks do mundo, com participação de mercado de cerca de 20-25%.
 
-[^5]: [Site Oficial da Compal Electronics](https://www.compal.com/) — A Compal Electronics Industrial Co., Ltd. foi fundada em 1984, tem código de ação 2324 e sede em Taipei.
+[^5]: [Site oficial da Compal Electronics](https://www.compal.com/) — A Compal Electronics Industrial Co., Ltd. foi fundada em 1984, código de ação 2324, sede em Taipei.

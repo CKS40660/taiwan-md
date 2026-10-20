@@ -1,27 +1,27 @@
 ---
 title: 'Jam Hsiao'
-description: "Do 'rei do desafio' ao rei do Golden Melody, uma voz de Taiwan que criou a lenda do 'Deus da Chuva'"
-date: '2026-03-23'
-author: 'Taiwan.md'
+description: 'Em 2007, um cantor de bares foi escalado para participar das rodadas de desafio do programa "Super Star Avenue". Com três apresentações que bateram recordes de audiência, ele redefiniu o cenário da música Mandopop. Ele foi o primeiro artista a conquistar o título de Rei do Álbum do Ano no Golden Melody Awards como um competidor desafiante, e também é o homem conhecido em toda Taiwan como o "Deus da Chuva", pois sempre chove durante suas apresentações. Com sua voz e carisma, ele escreveu uma lenda que vai de um desafiante temido a um rei da música.'
+date: 2026-03-23
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Música',
     'Música Pop',
     'Jazz',
     'Super Star Avenue',
-    'Golden Melody',
+    'Golden Melody Awards',
     'Deus da Chuva',
   ]
-lastVerified: '2026-03-23'
-lastHumanReview: 'true'
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-23
+lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
-translatedAt: '2026-07-24T23:02:19+08:00'
+translatedAt: '2026-10-15T20:41:09.934253+00:00'
 ---
 
 # Jam Hsiao: a voz mais imprevisível de Taiwan

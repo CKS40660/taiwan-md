@@ -2,9 +2,7 @@
 title: 'Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”'
 description: 'In the days when offices still relied on MSN to communicate, office workers who did not dare speak up to their bosses changed their profile pictures to a naked bald figure with one curled hair on its head, letting it shout “I want to get off work” for them. Hu Chia-wei, who drew it, went from a design assistant earning NT$9,000 a month to, by accident, the creator of Taiwan’s first blog to surpass 100 million views and the founding figure of illustrated online writing. The bald figure stays forever innocent and ageless, but the person who drew it grows up; so she let the character exit together with her and “become a historical figure.”'
 date: 2026-06-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Wanwan',
@@ -14,15 +12,19 @@ tags:
     'MSN Era',
     'Internet Culture',
   ]
-readingTime: 13
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
-featured: false
+readingTime: 13
+researchReport: '彎彎'
+relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-06-30T00:37:51+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T02:36:03.741349+00:00'
 ---
 
 # Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”
@@ -112,27 +114,28 @@ What carried this commercial path into the next era was LINE stickers. On Decemb
 
 > 📝 **Curator’s note:** Listing magnets, books, commercials, films, and stickers can easily read like “an entertainer’s endorsement record.” But underneath that list was a quieter proposition being tested: before Wanwan, Taiwan’s default social imagination of “drawing” probably still stopped at “hobby,” “talent,” or “something very hard to make a living from.” What she did was overturn that assumption for everyone to see: a design assistant who had not gone to university and had run errands on construction sites could support herself simply by drawing her everyday life, and even help sustain a publishing genre along the way. For everyone who later wanted to make a living from creative work, she first answered half of the most practical question: “Will this road leave me starving?”
 
-## From MSN to WEBTOON: She Spanned Every Platform Generation
+## From MSN to WEBTOON: Spanning Every Platform Generation
 
-When you lay out Wanwan’s twenty years, one thing becomes clear that very few creators have achieved: she stood at the entrance of almost every platform generation for illustrated content in Taiwan.
+Looking at Wanwan's twenty-year career in a single view, one discovers something few creators have achieved: she has stood at the entrance of almost every graphic and text platform in Taiwan.
 
 ```tw-timeline
-2002 | MSN profile pictures | In an era before stickers, the bald figure spoke for office workers
-2004 | Wretch breaks records | She “tried out” blogging while chasing Giddens Ko and unexpectedly became the founder of illustrated online writing
-2013 | LINE stickers released the same day as cherng’s | From the blog era into the paid licensing era of mobile messaging apps
-2020 | A gentle exit for the character | “The old Wanwan is already dead,” letting the character grow up together with her
+2002 | MSN Avatars | In the era before stickers, her bald character spoke for office workers
+2004 | Record-breaking on Wretch | "Casually trying out" blogs to follow Chi Fu, she accidentally became a pioneer of graphic content
+2013 | LINE Stickers & cherng on the same day | Transitioning from the blog era to the paid licensing era of mobile messaging apps
+2020 | A gentle exit for the character | "The old Wanwan is dead," allowing the character to grow up alongside her
+Source: Blog, publishing, and platform licensing reports cited in this article (100 million views milestone, convenience store magnets, first wave of LINE stickers) [^6][^7][^10][^15]
 ```
 
-First came MSN profile pictures, around 2002. Then came the golden age of blogs on Wretch and PIXNET, beginning in 2004; then the rise of Facebook fan pages, the paid era of LINE stickers, and later the vertically scrolling, algorithm-driven worlds of WEBTOON and Instagram. LINE WEBTOON called her a “senior figure in the illustrated-content world.”[^16] In 2014, _Business Weekly_ published an article titled “Bye-bye, Wanwan? If You Don’t Know Them, You’re Outdated! The Top 10 Latest Viral Online Illustrators.”[^17] The title used “Bye-bye, Wanwan?” as its framing question to introduce rising figures such as Duncan, Bye Bye Chu Chu, and cherng. In other words, when the media wanted to explain who the “new generation” was, they first had to use Wanwan as the point of origin. She was the “before.”
+It began with MSN avatars (around 2002), followed by the golden age of Wretch and Pixnet blogs (from 2004 onwards), then the rise of Facebook Fan Pages, the paid era of LINE stickers, and later, the vertical-scrolling, algorithm-driven worlds of WEBTOON and Instagram. The LINE WEBTOON platform refers to her as a "senior figure in the graphic and text industry" [^16]. In 2014, _Business Weekly_ published an article titled 〈Bye-bye, Wanwan? If You Don’t Know Them, You’re Outdated! The Top 10 Latest Viral Online Illustrators〉[^17]; the title used "Bye-bye, Wanwan?" as a rhetorical question to introduce rising stars like Duncan, Bye-bye Chiu-chiu, and cherng. In other words, when the media wants to introduce who the "new generation" is, they must first use Wanwan as the origin point. She is that "before."
 
-![Wanwan LINE sticker, “I love my job”](/article-images/people/wanwan-line-sticker.webp)
-_From MSN profile pictures to LINE stickers, the bald figure changed platforms, but the line was still the same irony: “I love my job.”[^24] — Fair use: work by Wanwan (LINE sticker)_
+![Wanwan LINE Sticker "I Love My Job"](/article-images/people/wanwan-line-sticker.webp)
+_From MSN avatars to LINE stickers, the bald character has changed platforms, but the line remains the same sarcastic phrase: "I love my job" [^24]. — Fair use: Wanwan's work (LINE sticker)_
 
-For this platform transformation across twenty years, Wanwan herself once gave the best analogy I have seen. She compared the difference between the blog era and the social-media era: “Blogs used to be very much like a library. Once you built it and organized your collections and works, everyone would rush in to see your work. Now it feels like handing out flyers. You have to hand them out one by one, and then see whether people accept them.”[^18] She continued: “So I think creators now have many opportunities, but it is also harder.”[^18]
+Regarding this twenty-year transition across platforms, Wanwan herself once provided the best metaphor I have ever heard. She compared the difference between the blog era and the social media era: "In the past, a blog was like a library; you built it, organized your collection and works, and people would flock to see them. Now, it's more like handing out flyers—you have to hand them out one by one, and then you have to see if anyone actually takes them." [^18] She continued: "So I feel that although there are many opportunities for creators now, it is also harder work." [^18]
 
-The analogy is precise because she stood at both ends. She built that “library” where, once it was built, people came on their own: the golden age of blogs, when 100 million views rolled in by themselves. She also lived into the algorithmic age in which one must “hand out flyers” one by one. Only someone who had crossed both eras could make a comparison with that kind of lived warmth.
+This metaphor is accurate because she has stood at both ends. She built that "library" where people came on their own once it was finished—that was the golden age of blogs, an era when 100 million views rolled in organically. She has also lived to see the algorithmic era where one must "hand out flyers one by one." Only someone who has spanned two eras can offer such a warm, lived-in comparison.
 
-> 📝 **Curator’s note:** The common phrasing often places Wanwan among “the tears of the Wretch era,” as if she were a name eliminated by the times and left in the past. But that frame gets the cause and effect backward. She was not someone trapped by a single platform and sunk along with it. Quite the opposite: she was one of the few who still stood at the entrance every time platforms changed dynasties — MSN, Wretch, LINE, WEBTOON; she missed none of them. What truly allowed her and the symbol of “Wanwan” to slowly pull apart was that she herself moved into another life stage: from an office worker in her twenties into a mother. Platforms become outdated, but the decision to let the character exit was one she actively made.
+> 📝 **Curator's Note**: The common narrative often categorizes Wanwan as part of the "tears of the Wretch era," as if she were a name left behind or discarded by time. But this framework reverses cause and effect. She is not someone trapped by a single platform or sinking along with it; quite the opposite, she is one of the few people who remains at the entrance every time a platform undergoes a regime change—MSN, Wretch, LINE, WEBTOON—she has missed none of them. What truly caused her to gradually distance herself from the symbol "Wanwan" was actually her own personal transition: moving from an office worker in her twenties to becoming a mother. Platforms become obsolete, but the decision to let a character exit is one made actively by the person behind it.
 
 ## The Character Does Not Age; the Person Who Draws It Does
 

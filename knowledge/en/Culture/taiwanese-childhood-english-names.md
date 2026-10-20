@@ -2,9 +2,7 @@
 title: 'Taiwanese Childhood English Names: Mary, Kevin, and the Naming Authority of Cram-School Teachers'
 description: 'From turning pages in a cram school to passport romanization to the Starbucks counter, that name was never one you chose. A history of naming that runs from Hess in 1983 and Sesame Street English''s 1987 slogan, "NO CHINESE, ENGLISH PLEASE," through the Legislative Yuan''s 2024 amendment allowing Indigenous names to appear alone, bringing the question back to that 30-second pause.'
 date: 2026-06-17
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '語言與命名'
 tags:
   [
     'English names',
@@ -16,16 +14,58 @@ tags:
     'Indigenous name rectification',
     'soshi-kaimei',
   ]
+subcategory: '語言與命名'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 18
+featured: true
 lastVerified: 2026-06-17
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/台灣人小時候的英文名字.md'
+viewpoint_formed: true
+verification:
+  high_confidence:
+    [
+      '何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987',
+      'NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）',
+      'Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000',
+      '護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」',
+      '2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言',
+      '通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效',
+      '香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）',
+      '創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）',
+      '1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配',
+      'Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者',
+      '鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回',
+      '統一星巴克 1998/3/28 天母西路首店',
+    ]
+  single_source:
+    [
+      "吉的堡 1986 創立 + 1988 自研 Chevady's World 教材（babyeduhub 二手）",
+      'aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）',
+      'PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案',
+      'Anne Chang Medium 個人散文（端正坐姿）',
+    ]
+  unverified:
+    [
+      '1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」',
+      'Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」',
+      '一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）',
+    ]
+rationale:
+  whats_excluded:
+    [
+      '韓國 hagwon 系統性指派英文名（無證據，韓國 driver 是洗禮名 + 全球化）',
+      '星巴克英文名點餐「全民日常」（限都市年輕族群）',
+      'Mary / Kevin 統計顯示 X%（無 N=1200 級台灣資料）',
+      'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
+      '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
+    ]
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'cfce444ae'
-sourceContentHash: 'sha256:5ec68902a1c50e0d'
-sourceBodyHash: 'sha256:efeadcec0add04bc'
-translatedAt: '2026-06-18T00:36:09+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceBodyHash: 'sha256:9aed0f1a904887ba'
+translatedAt: '2026-10-14T23:34:00.761597+00:00'
 ---
 
 # Taiwanese Childhood English Names: Mary, Kevin, and the Naming Authority of Cram-School Teachers
@@ -49,32 +89,34 @@ A 2019 recollection on PTT’s StupidClown board records that the author, kriss,
 
 The most complete academic paper to date on English-name practices among Taiwanese youth is “Going by an English Name,” published by Barešová and Pikhart in _MDPI Social Sciences_ in 2020, with a sample of 76 Taiwanese young people aged 18 to 41 (61 women and 15 men)[^5]. The paper states directly: “**the majority received their first English name from their first teacher of English at an educational institution**”; most respondents’ first English name came from their first English teacher[^5]. The paper also records an age-cohort detail: among respondents under 30, most received their name between ages 8 and 11; among those 31 and older, most received it between ages 12 and 13. Children’s English classes pushed the threshold for “getting an English name” earlier generation by generation.
 
-## NO CHINESE, ENGLISH PLEASE: Four Children’s English Chains That Erupted Within Three Years
+## Four Children's English Chains That Exploded Within Three Years
 
-Behind the scene of the teacher looking at the list was infrastructure built by four cram schools.
+The scene where the teacher looks at the name list was backed by the physical infrastructure of four major cram school chains.
 
 ```tw-timeline
-1983 | Hess begins | Karen Hess and her husband Joseph Chu founded it in Taipei, emphasizing an all-English environment
-1986 | Kid Castle and Giraffe both appear | Kid Castle in Taipei and Giraffe in Zhongli each opened their first branch
-1987 | Sesame Street English enters | Introduced as a licensed American brand, it proclaimed “NO CHINESE, ENGLISH PLEASE”
-1999 | English becomes required in elementary school | The Ministry of Education implemented the Grade 1-9 Curriculum, and English names moved from cram-school ritual into school records
+1983 | Karen Hess Founded | Established in Taipei by Karen Hess and Joseph Chu, focusing on an all-English environment
+1986 | Kid's Castle + Giraffe English Debut | Kid's Castle opened its first branch in Taipei; Giraffe English in Zhongli
+1987 | Sesame Street English Enters | Introduced as a licensed brand from the US, using the slogan "NO CHINESE, ENGLISH PLEASE"
+1999 | Mandatory Primary School English | Implementation of the nine-year compulsory education by the Ministry of Education; English names upgraded from cram school rituals to official school records
+Source: Evolution of the four children's English brands cited in this article (Karen Hess, Kid's Castle, Giraffe English, Sesame Street) and 1999 primary school English policy data[^6][^7][^8][^9]
 ```
 
-Hess was established in 1983 by Karen Hess herself and her husband Joseph Chu[^6]. In 1987, the group expanded to form a research and development team of local and foreign teachers; in 1990, it opened the first Hess Bookstore. Kid Castle was founded in 1986 and launched its first in-house children’s English materials, _Chevady’s World_, in 1988[^7]. Giraffe English also began in 1986, opened its first “children and youth English teaching center” in 1987, and put English programs on TTV and CTS in 1989[^8]. Sesame Street English established its Taiwan headquarters in 1987 as an imported licensed brand. A 2025 _CommonWealth Magazine_ interview recorded the slogan it proclaimed that year: “**NO CHINESE, ENGLISH PLEASE**”; by 2025, it had accumulated 103 branches and 500,000 students[^9].
+Karen Hess was formed in 1983 by founders Karen Hess and Joseph Chu[^6]. In 1987, the group expanded to include a research and development team of local and foreign teachers, and in 1990, they opened the first Karen Hess bookstore. Kid's Castle was founded in 1986 and launched its own first-generation children's English teaching material, _Chevady's World_, in 1988[^7]. Giraffe English also started in 1986, opening its first "Early Childhood English Teaching Center" in 1987; by 1989, its English programs were airing on TTV and CTS[^8]. Sesame Street English established its Taiwan headquarters in 1987 as a licensed brand. A 2025 interview by _CommonWealth Magazine_ recorded the slogan it used back then: "**NO CHINESE, ENGLISH PLEASE**"; by 2025, it had accumulated 103 branches and 500,000 students[^9].
 
-Here is one time point that is often misremembered: Sesame Street English landing in Taiwan in 1987 does not mean Sesame Workshop personally designed the materials. Sesame Workshop’s global Sesame English ESL line was not launched until 1999. From 1987 to 1999 in Taiwan, what operated was a licensed brand plus locally compiled materials produced by a Taiwan-based team[^10]. The memory that “Big Bird taught me English in childhood” is real; the memory that “the American headquarters was designing your materials in 1987” is retrofitted.
+As a side note, there is a frequently misremembered timeline: Sesame Street English landing in Taiwan in 1987 does not mean that Sesame Workshop personally designed the teaching materials. Sesame Workshop's global _Sesame English_ ESL curriculum line was not launched until 1999; between 1987 and 1999, Taiwan operated on a hybrid of the licensed brand name and materials compiled by local teams[^10]. The memory that "Big Bird taught me English in my childhood" is true, but the memory that "the US headquarters was designing your curriculum in 1987" is a retrospective fabrication.
 
-> ⚠️ **Common Misremembering**
-> The claim “I grew up using materials designed by Sesame Workshop’s U.S. headquarters” is almost certainly untrue. Between 1987 and 1999, Sesame Street English in Taiwan ran on a hybrid mechanism of licensed branding plus locally compiled materials. Sesame Workshop’s global Sesame English ESL line did not launch its first ESL materials until 1999. The Big Bird posters were real; the textbook content was not.
+> ⚠️ **Common Misconception**
+> The claim "I grew up using materials designed by the Sesame Workshop US headquarters" is likely incorrect in 90% of cases. Between 1987 and 1999, Sesame Street English in Taiwan operated via a hybrid mechanism of licensed branding and locally compiled materials. It wasn't until 1999 that Sesame Workshop launched its first batch of the global _Sesame English_ ESL line. The Big Bird posters from those years were real, but the curriculum content was not.
 
 ```tw-versus
-Four Major Children’s English Chains, 1983-1987 | National Naming History in the Same Period
-Hess 1983 / Kid Castle 1986 / Giraffe 1986 / Sesame Street English 1987 | Martial law lifted 1987 / family visits to China opened 1987 / passports became more widespread
-Four chains founded in dense succession within three years | The country had just opened the gate to overseas travel
-Teaching sites shouted “ENGLISH PLEASE” | Public agencies were still arguing over what to write in the passport name field
+Four Major Children's English Chains (1983–1987) | Contemporary National History
+Karen Hess 1983 / Kid's Castle 1986 / Giraffe English 1986 / Sesame Street 1987 | Lifting of Martial Law 1987 / Opening of Visiting Relatives to China 1987 / Popularization of Passports
+Four chains established intensively within three years | The nation had just opened its gates to the world
+Classrooms shouting "ENGLISH PLEASE" | Debates still raging over what to write in official passport fields
+Source: Timeline of children's English brand establishments, and historical records regarding the lifting of martial law, visiting relatives to China, and the passport romanization system[^6][^9][^21]
 ```
 
-The eruption of four children’s English chains within three years coincided with the lifting of martial law in 1987, the opening of family visits to China, and the wider use of passports. The state had just opened the gate to overseas travel, and civil society began preparing a “name for crossing out” for its children first. This civil action moved faster than the public sector; at the time, the official standard for “how Chinese names should become Roman letters” in passport fields would not settle for another 15 years.
+The explosion of these four children's English chains within three years occurred during the same era as the 1987 lifting of martial law, the opening of visits to relatives in mainland China, and the popularization of passports. Just as the nation was opening its gates to the world, the private sector had already begun preparing "international-ready" names for their children. This grassroots movement moved faster than the public sector; it would take another 15 years of debate before official standards for how Chinese names should be romanized in passport fields finally settled.
 
 ## Textbook Character Lists as SSOT: Peter and Mary in Longman Textbooks
 
@@ -148,61 +190,64 @@ The workplace layer has also been institutionalized. A post on Dcard’s tech_jo
 > 📝 **Curator’s Note**
 > The childhood English name was assigned. The adult romanized name is locked in by law. In between is a period when you think you have naming authority: you think you chose Kevin, and you also think you chose Kevin as your LinkedIn account. But in reality, the line on the passport has determined since the year you were born what customs will ask you in adulthood. The act of naming never truly returned to your hands; only the person asking the question changed.
 
-## Adding a Passport Alias Is NT$1,300 Cheaper Than Changing Your Name
+## Adding a Passport Foreign Alias is NT$1,300 Cheaper Than Changing Your Name
 
-When Kevin and Chia-hao do not reconcile on the passport, the first solution most people think of is “change the passport.” In practice, that solution does not work well, but there is a cheaper way out.
+When Kevin and Chia-hao don't match on a passport, most people's first instinct is to "change the passport." In practice, this solution is difficult to execute, but there is a cheaper alternative.
 
-Article 14, Subparagraph 5, Item 1 of the Enforcement Rules of the Passport Act is strict: where “the romanized foreign-language name does not match the national-language pronunciation of the Chinese name. **Changes under this item shall be limited to one time**”[^27]. In other words, you get one lifetime chance to change the passport foreign-language name on the grounds that “the transliteration is wrong.” After that, there is no second chance.
+Article 14, Subparagraph 5, Item 1 of the Enforcement Rules of the Passport Act is quite rigid: "The transliterated foreign name does not match the pronunciation of the national language of the Chinese name. **Changes made on this basis are limited to one occurrence**" [^27]. This means you only get one chance in your lifetime to change your passport's foreign name based on the reason that "the transliteration is incorrect"; once it's done, there is no second chance.
 
-But Article 14-1 of the same enforcement rules opens another window: the Foreign Alias. The rule states that “after the change, the original foreign-language name shall be listed as an alias, but may be omitted when the passport is next renewed or replaced,” and that “where a second foreign-language alias already exists, one shall be chosen for entry upon the next renewal or replacement, and **a second foreign-language alias may not be added again**”[^28]. In practice, you can keep the official passport name LIN, CHIA-HAO while also adding “Kevin Lin” as a foreign-language alias, with both printed on the same page. The application fee is NT$1,300; standard processing takes 10 working days, rush processing three days[^28].
+However, Article 14-1 of the same Enforcement Rules opens another window: a Foreign Alias. The rule states: "After the change, the original foreign name shall be listed as an alias, but this may be omitted when renewing or reissuing the passport next time"; "If a second foreign alias already exists, one may be selected for recording during the next renewal or reissue, and **a second foreign alias may not be added**" [^28]. In practical terms, you can keep your official passport name as LIN, CHIA-HAO while simultaneously adding "Kevin Lin" as a foreign alias, with both printed on the same page. The application fee is NT$1,300, with a standard processing time of 10 working days or 3 days for expedited service [^28].
 
-aithley.com gives a blunt cost assessment of this path: “**Unless the passport romanization issue has truly caused practical professional or legal trouble, the cost of changing a 10-year brand is usually higher than the benefit**”; “keep the existing English name while applying to have it registered as a **passport English alias**, allowing the two to coexist”[^22]. In other words, instead of changing a Kevin that has been used for 10 years, add it into the passport and let customs see “LIN, CHIA-HAO (aka Kevin Lin).” Identity alignment is completed in three seconds.
+Aithley.com provided a blunt cost assessment regarding this path: "**Unless passport spelling issues cause actual professional or legal difficulties, the cost of changing a 10-year brand is usually higher than the benefit**"; "Keep your existing English name and simultaneously apply for it as a **passport foreign alias**, allowing both to coexist" [^22]. In other words, rather than changing a "Kevin" you have used for 10 years, it is better to add it to your passport so that customs sees "LIN, CHIA-HAO (aka Kevin Lin)," resolving identity alignment in three seconds.
 
 ```tw-stat
-NT$1,300 | Add a foreign-language alias | One application, two names may be entered
-NT$0 extra | Lifetime quota for changing passport romanization | Limited to one time; once used, it is locked
-3 working days | Rush pickup | Standard processing is 10 working days
+NT$1,300 | Add Foreign Alias | One-time application; can list two names
+NT$0 Extra | Name Change Quota | Limited to one time; once used, it is locked
+3 Working Days | Expedited Pickup | Standard is 10 working days
+Source: Enforcement Rules of the Passport Act, Article 14-1 (Foreign Alias) and practical cost assessment [^22][^28]
 ```
 
-Taiwanese society gave a demonstration of name changing in 2021. That year, a sushi chain promotion let people named “salmon” eat free salmon; 331 people went to household registration offices to change their names, an episode known as the “Salmon Chaos”[^29]. The response from Chang Wan-yi, director of the Department of Household Registration at the Ministry of the Interior, later became a famous line: “**Once you use up your name-change quota, you really will be true to the name ‘salmon’**”[^30]. Under Article 9 of the Name Act, each person may change their name three times in a lifetime. A follow-up four years later found that of the 331 “salmons,” **80% had already changed back to their original names, while 20% were still living under salmon names**; records of changed names remain permanently in household registration files[^29].
+Taiwanese society demonstrated the weight of changing names once in 2021. That year, a sushi restaurant promotion offered free salmon to anyone who changed their name to "Salmon," leading 331 people to visit household registration offices to change their names—an event known in history as the "Salmon Chaos" [^29]. The response from Chang Wan-yi, Director of the Household Registration Administration of the Ministry of the Interior, later became a famous quip: "**Once you use up your name-change quota, you are truly stuck with that 'salmon' (reality/fate)**" [^30]. According to Article 9 of the _Name Act_, each person can change their name three times in their lifetime. A follow-up four years later showed that among those 331 "salmons," **80% had changed back to their original names, while 20% were still living with "salmon" as their name**, and the record of the changed name remains permanently in household registration files [^29].
 
-A passport foreign-language name and the Chinese name on a national ID card are two separate lines. The former is “limited to one time”; the latter is “limited to three times.” But both teach the same lesson: in Taiwan, once a name is written on official documents, it carries weight, and turning back has a cost. So the cheaper route, adding an alias for NT$1,300, is in fact an institutional compromise. It says: “You do not have to change that Kevin assigned to you in childhood; we will let it coexist with the romanized name on the same page.”
+A passport's foreign name and a national ID's Chinese name are two independent tracks: the former is "limited to one occurrence," while the latter is "limited to three occurrences." But both tracks teach the same lesson: in Taiwan, once a name is written on official documents, it carries weight, and changing it comes at a price. Therefore, that cheaper path—adding an alias for NT$1,300—is actually a systemic compromise. It says, "That 'Kevin' assigned to you in childhood doesn't need to be changed; we will let it coexist with your transliterated name on the same page."
 
-## Kolas’s Father’s Japanese Name: Indigenous Peoples Were Named Three Times
+## Kolas's Father's Japanese Name: Indigenous People Named Three Times
 
-So far, this naming history has centered on Han Taiwanese. But some people in Taiwan were named three times, and those three instances were not a soft cultural structure. The state acted directly.
+So far, the protagonists of this history of naming have all been Han Chinese. But some people in Taiwan have been named three times—and those three times were not soft cultural structures, but direct actions by the state.
 
 ```tw-versus
-Soshi-kaimei, 1940-1945 | ROC Sinicization, 1946 | Children’s English Names, from the 1980s
-Actor: Japanese Empire | Actor: Republic of China government | Actor: parents + cram-school teachers
-Target: all Taiwan | Target: everyone, especially Indigenous peoples | Target: preschool through elementary-school children
-Degree of coercion: permit system, 2.06% changed | Degree of coercion: three-month deadline, 100% | Degree of coercion: voluntary, default in children’s English classes
-Name location: legal household registration | Name location: legal household registration | Name location: classroom nickname forever
-Abolition: changed back from 1945/12/15 | AboIition: traditional names restorable from 1995 | Never abolished
+Soshi Kaimei (1940–1945) | ROC Sinicization (1946) | English Names in Children's English Classes (from 1980s)
+Agent: Empire of Japan | Agent: ROC Government | Agent: Parents + Cram-school teachers
+Target: All of Taiwan | Target: Everyone (especially Indigenous peoples) | Target: Preschool to primary school
+Degree of Coercion: Permit system, 2.06% changed | Degree of Coercion: 100% within a 3-month deadline | Degree of Coercion: Voluntary; default in English classes
+Name Location: Legal household registration | Name Location: Legal household registration | Name Location: Permanent classroom nickname
+Abolished: Reverted on 1945/12/15 | Abolished: Traditional names can be restored from 1995 | Never abolished
+Sources: Kōminka Movement Soshi Kaimei, the 1946 "Regulations for the Restoration of Original Names by the People of Taiwan Province," and historical materials on the Indigenous Name Rectification Movement cited in this text[^33][^34]
 ```
 
-On February 11, 1940, an auspicious day in Imperial Year 2600, the Government-General of Taiwan issued Ordinance No. 19 amending the household registration rules and launching _soshi-kaimei_, the creation of family names and changing of given names. Wikipedia’s entry on the Kōminka Movement summarizes the figures: “By the end of 1941, around 1% of the total population of Taiwan had changed their names. From 1940 to 1943, the number of people who changed their names totaled 126,000. With Taiwan’s total population in 1943 at around 6.13 million, those who changed their names accounted for about **2.06%** of the population”[^31]. By comparison, the Japanese _Sankei Shimbun_ culture editor Yoshihiro Kita summarized the contemporaneous figure for Korea as: “Korea, **80%** ‘soshi-kaimei’; Taiwan, **a few percent** ‘name changing’”[^32]. Taiwan at 2% and Korea at 80% differed not in willingness but in institutional design. Taiwan used a “permit system + conditional review” (a household had to use Japanese regularly and display imperial-subject qualities); Korea used “voluntary reporting,” but those who refused were excluded from food rations, public office, and were prioritized for forced-labor conscription[^31].
+On February 11, 1940 (an auspicious day in the 2600th year of the Imperial Calendar), the Governor-General of Taiwan issued an amendment to the "Household Registration Rules" via Government Ordinance No. 19, launching _soshi kaimei_ (the practice of changing one's surname to a Japanese one). The Wikipedia entry for "Kōminka Movement" summarizes the figures: "By the end of 1941, about 1% of the population in Taiwan had changed their names. From 1940 to 1943, a total of 126,000 people changed their names. With Taiwan's total population being approximately 6.13 million in 1943, the number of people who changed their names accounted for about **2.06%** of the total population"[^31]. Comparing this to contemporary figures from Korea, research by Kita Yoshihiro, an editorial committee member of the Nikkei Newspaper's culture department, notes: "Korea: **80%** underwent _soshi kaimei_; Taiwan: **a few percent** changed their names"[^32]. The difference between Taiwan's 2% and Korea's 80% was not a matter of willingness, but institutional design. In Taiwan, it was a "permit system + conditional review" (requiring Japanese-speaking households + an "Imperial subject" temperament), whereas in Korea, it was "voluntary declaration, but those who refused were excluded from food rations, public office, and priority for forced labor"[^31].
 
-The war ended in 1945. On May 21, 1946, the Nationalist government promulgated the _Amended Measures for the People of Taiwan Province to Restore Their Original Names_, requiring everyone in Taiwan to change Japanese names from the Japanese colonial period back into Chinese names within three months[^33]. For families under Japanese rule, this was a matter of refilling Chinese characters; for Indigenous peoples, it was linguistic destruction, because their traditional names had no corresponding Chinese characters. Relevant research at Academia Sinica’s Institute of Ethnology records:
+After the war ended in 1945, on May 21, 1946, the Nationalist Government announced the "Regulations for the Restoration of Original Names by the People of Taiwan Province," requiring everyone in Taiwan to change their Japanese names from the colonial period back to Chinese names within three months[^33]. For families who had lived under Japanese rule, this was merely a matter of filling in Han characters; for Indigenous peoples, it was an act of linguistic genocide, as their traditional names had no corresponding Han characters. Relevant research records from the Institute of Ethnology at Academia Sinica state:
 
-> **✦** “Under the pressure of completing the process within three months... household registration offices used **Mandarin dictionaries and other general dictionaries to randomly assign names to Indigenous people**... situations arose in which entire tribes or villages were assigned names collectively in order to facilitate registration.”[^34]
+> **✦** "Under the pressure of completing [the process] within three months... household registration offices would **arbitrarily assign names to Indigenous people using the Mandarin dictionary and other common dictionaries**... leading to situations where entire settlements or villages were assigned names collectively to facilitate registration."[^34]
 
-From the 1950s onward, large numbers of Indigenous people received new surnames such as “**Kao**” (referring to the “high mountain peoples”), “**Pan**” (a water radical added to the character for “barbarian”), “**Tang**” (river imagery), “**Yang**” (a tall tree), and “**Wu**” (a goddess or shaman). People of the same clan, because they had been assigned to different household registration offices, might receive different Han surnames, “**causing situations in Indigenous society where members of the same clan and even family had different Han surnames**”[^34]. The consequences extended all the way to later cases of relatives marrying without knowing their kinship[^34].
+Starting in the 1950s, many Indigenous people began appearing with new surnames such as "**Gao**" (referring to mountain peoples), "**Pan**" (the water radical plus the character for 'barbarian'), "**Tang**" (evoking imagery of rivers), "**Yang**" (meaning tall trees), and "**Wu**" (meaning goddess/shaman). Because members of the same clan might be sent to different household registration offices, they could be assigned different Han surnames, "**leading to situations in Indigenous society where members of the same clan or family had different Han surnames**"[^34]. The consequences extended through generations, leading to cases of consanguineous marriage occurring without the descendants' knowledge[^34].
 
-The name rectification movement began in the 1980s and advanced every few years:
+The Name Rectification Movement began in the 1980s, advancing step by step every few years:
 
 ```tw-timeline
-1994/8/1 | “Mountain compatriots” → Indigenous peoples | Constitutional amendment passed by the National Assembly on 7/28 and promulgated by Lee Teng-hui
-1995 | Traditional names could be restored, in Chinese characters | Name Act amended
-2001 | Romanization could be listed alongside Chinese characters | Chinese characters + Roman letters used together
-2003 | Traditional names and Han surnames could both add romanization | Third wave of loosening
-2024/5/14 | Indigenous names could appear alone, in Roman letters only | Legislative Yuan passed the Name Act amendment on third reading
+1994/8/1 | "Mountain Compatriots" → Indigenous Peoples | Constitutional amendment passed by National Assembly on 7/28; announced by Lee Teng-hui
+1995 | Traditional names (Han characters) can be restored | Amendment to the Names Act
+2001 | Romanized spelling can be used alongside | Use of Han characters + Romanization
+2003 | Both traditional names and Han surnames can add Romanization | Third wave of deregulation
+2024/5/14 | Tribal names (pure Romanization) can be listed alone | Legislative Yuan passed the amendment to the Names Act on third reading
+Sources: Historical amendments to the Names Act and reports on the Indigenous Name Rectification Movement[^1][^2][^35]
 ```
 
-On May 14, 2024, the Legislative Yuan passed a Name Act amendment on third reading, allowing Indigenous names to appear alone on national ID cards in Roman letters without accompanying Chinese characters[^35]. That same year, Kolas Yotaka became, under the new law, **the first person in Taiwan whose national ID card fully removed Chinese characters**[^1]. In a 2018 interview with the _China Times_, she mentioned her name: “**Yotaka is my father’s Japanese name**,” the night hawk, きよたか[^2]. The Indigenous name Kolas Yotaka, carried by an Amis daughter, bears the Japanese sound registered for her father in the household records during the kōminka period. Three layers of naming history are stacked on the same ID card: Japanese colonial name → Sinicized name → name rectification.
+The amendment to the Names Act, which passed its third reading in the Legislative Yuan on May 14, 2024, allows Indigenous people to list only their tribal name (in pure Romanization) on their ID cards, without the need for accompanying Han characters[^35]. In the same year, Kolas Yotaka became the **first person in Taiwan to have an ID card completely devoid of Han characters** under the new law[^1]. In a 2018 interview with _China Times_, she mentioned her name: "**Yotaka is my father's Japanese name**," meaning night hawk, _kiyotaka_[^2]. The tribal name of this Amis daughter, Kolas Yotaka, carries the Japanese sound that her father was registered with during the Kōminka period. Three layers of naming history are superimposed on a single ID card: Colonial name $\rightarrow$ Sinicized name $\rightarrow$ Rectified name.
 
-> ⚠️ **Do Not Write This Line as an Equal Sign**
-> Han Taiwanese children being named Mary in cram school and Indigenous people being randomly assigned Han surnames by the state using dictionaries can be structurally connected, but **must not be equated**. The former is a soft cultural structure plus parental choice under globalization; most parents actively sent their children into children’s English classes. The latter is state violence: a three-month deadline, dictionaries flipped at random, the rupture of clan systems across an entire generation. Both are indeed cases of “naming authority being handed over,” but the weight of that transfer is different, and so is the cost of return. The comparison table names the structural feature of “not being able to name oneself,” not an equivalence between the two events.
+> ⚠️ **This line is not an equation**
+> While there is a structural connection between a Han Chinese child being named "Mary" at a cram school and an Indigenous person having a Han surname arbitrarily assigned by the state using a dictionary, **you must not equate them**. The former is a soft cultural structure combined with parental choice under globalization (most parents actively enroll their children in English classes); the latter is state violence—it was a three-month deadline, it was the arbitrary flipping of dictionaries, and it was the fracturing of clans across an entire generation. While both involve the "surrender of naming rights," the weight of that surrender and the cost of reclaiming it are fundamentally different. The comparison table lists the structural characteristic of "not being able to name oneself"; it does not suggest the two phenomena are interchangeable.
 
 ## From Cram-School Teachers to the SSA Top Names List
 

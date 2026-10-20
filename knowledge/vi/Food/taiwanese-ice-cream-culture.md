@@ -1,24 +1,24 @@
 ---
-title: 'Văn hóa món lạnh Đài Loan'
-description: 'Từ xoài bào Ngọc Kính đến cuộc cách mạng băng tuyết, khám phá văn hóa độc đáo của người Đài Loan ăn món lạnh ngay cả vào mùa đông'
+title: 'Văn hóa đồ lạnh tại Đài Loan'
+description: 'Sự yêu thích của người Đài Loan đối với các món đồ lạnh là hiếm thấy trên thế giới, ngay cả vào mùa đông các cửa hàng vẫn luôn tấp nập khách ra vào. Nền văn hóa này có thể bắt nguồn từ việc du nhập kỹ thuật làm đá trong thời kỳ Nhật thuộc, trải qua quá trình phổ biến của đá bào sau chiến tranh và sự xuất hiện của tuyết hoa băng (snow ice) theo thời đại. Tại Đài Trung, Trần Khê đã tham khảo món bốn loại trái cây của Nhật Bản để phát triển nên món đá đậu ngọt (honey bean ice), trong khi đá xoài Ngọc Tỉnh đã vang danh khắp thế giới, thậm chí còn thúc đẩy ngành ngư nghiệp làm lạnh và bảo quản đá; đây là một lịch sử tiến hóa với những cột mốc thời gian cụ thể có thể truy nguyên.'
 date: 2026-03-19
 category: 'Food'
-tags: ['món lạnh', 'xoài bào', 'băng tuyết', 'xu xê', 'ICE MONSTER']
+tags: ['đồ lạnh', 'đá xoài', 'tuyết hoa băng', 'đá bào', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Xoài bào Taipei'
+imageAlt: 'Đá xoài tại Đài Bắc'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T07:41:58.957821+00:00'
+translatedAt: '2026-10-15T23:42:03.539638+00:00'
 ---
 
 # Văn hóa đồ lạnh của Đài Loan

@@ -1,16 +1,16 @@
 ---
-title: 'Gerakan Sosial dan Partisipasi Sipil'
-description: 'Dari bunga muda liar hingga bunga matahari, bagaimana Taiwan melalui gerakan sosial untuk merealisasikan demokrasi dan mendorong kemajuan sosial'
+title: 'Gerakan Sosial dan Partisipasi Warga'
+description: 'Dari gerakan pencabutan darurat militer, Gerakan Mahasiswa Wild Lily, hingga Gerakan Matahari Bunga dan legalisasi pernikahan sesama jenis, masyarakat Taiwan terus mendorong demokratisasi melalui cara yang damai, rasional, dan berkelanjutan antar generasi; aksi-aksi ini mencakup berbagai bidang seperti politik, lingkungan hidup, tenaga kerja, dan gender, yang sebagian besar dilakukan secara damai, meskipun ada pula konflik sengit seperti dalam gerakan petani, yang semuanya meninggalkan jejak institusional nyata dalam proses demokrasi.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'gerakan sosial',
-    'partisipasi sipil',
-    'demokrasi',
-    'gerakan bunga muda liar',
-    'gerakan bunga matahari',
-    'reformasi sosial',
+    'Gerakan Sosial',
+    'Partisipasi Warga',
+    'Demokrasi',
+    'Gerakan Mahasiswa Wild Lily',
+    'Gerakan Matahari Bunga',
+    'Reformasi Sosial',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '568d157c8'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-02T07:53:56+08:00'
+translatedAt: '2026-10-15T20:18:09.757562+00:00'
 ---
 
 # Gerakan Sosial dan Partisipasi Sipil

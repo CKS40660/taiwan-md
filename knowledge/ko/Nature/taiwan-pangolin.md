@@ -1,20 +1,20 @@
 ---
 title: '대만 천산갑'
-description: '전 세계에서 가장 많이 밀거래되는 포유류, 대만에서 안전한 보금자리를 찾다'
+description: '전 세계에서 밀매가 가장 많이 이루어지는 포유류인 천산갑이지만, 대만의 아종은 대만에서 안전한 보금자리를 찾았습니다. 아시아의 다른 지역에 서식하는 친척들이 밀매로 인해 멸종 위기에 처해 있는 반면, 대만은 엄격한 법적 보호, 서식지 유지 및 과학적 연구, 그리고 인공 번식을 통해 개체 수를 안정시키고 심지어 회복시킴으로써 종의 멸종이 피할 수 없는 운명이 아님을 전 세계에 보여주는 보기 드문 보전 성공 사례가 되었습니다.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
+tags: ['천산갑', '보전', '멸종 위기종', '밀매', '타이베이 동물원', '생태']
 subcategory: '野生動物'
-tags: ['천산갑', '보전', '멸종위기종', '밀거래', '타이베이 동물원', '생태']
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: Nature/台灣穿山甲.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:bc4a8eee501f028c
-sourceBodyHash: sha256:059668decdeffa13
-translatedAt: 2026-05-15T15:39:39+08:00
+translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
+sourceBodyHash: 'sha256:059668decdeffa13'
+translatedAt: '2026-10-15T23:05:59.122354+00:00'
 ---
 
 # 대만 천산갑
@@ -101,11 +101,11 @@ translatedAt: 2026-05-15T15:39:39+08:00
 
 ## 참고 문헌
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — 2016년 CoP17 결의에 의한 부록 1 상향 조정 확인, 2017년 1월 2일부터 공식 발효.
+[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — 2016년 CoP17 결의에 따라 부속서 I로 등재되었으며, 2017년 1월 2일부터 공식 발효됨을 확인.
 
-[^2]: [IUCN 적색 목록: 중국 천산갑](https://www.iucnredlist.org/species/12764/123589684) — 중국 천산갑 생태 습성 및 먹이 수요 문헌 (개미 섭취량 추정치는 연구마다 차이가 있음).
+[^2]: [IUCN 적색 목록: 중국천산갑](https://www.iucnredlist.org/species/12764/123589684) — 중국천산갑의 생태적 습성 및 먹이 요구량에 관한 문헌(개미 섭취량 추정치는 연구마다 차이가 있음).
 
-[^3]: [핑둥과기대학 야생동물보전연구소](https://www.npust.edu.tw/) — 쑨징민(孫敬민) 및 연구팀의 천산갑 포획·방사 연구 배경.
+[^3]: [핑둥과기대학 야생동물보호연구소](https://www.npust.edu.tw/) — 순징민(孫敬閔) 및 연구팀의 천산갑 방사 연구 배경.
 
 [^4]: [대만 생물다양성 네트워크](https://www.tbn.org.tw/) — 대만 천산갑 분포 및 시민 과학 보고 데이터베이스.
 

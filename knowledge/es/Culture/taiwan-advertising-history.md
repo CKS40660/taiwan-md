@@ -2,9 +2,7 @@
 title: 'Historia de la publicidad en Taiwán: se olvida lo vendido, pero aún se tararea la canción publicitaria'
 description: 'En 1968, la canción publicitaria de la olla eléctrica Tatung sonó en televisión; medio siglo después, la gente en Taiwán todavía puede continuar con “Tatung, Tatung, los productos nacionales son buenos”, aunque casi nadie recuerda que originalmente era una melodía de Sanyo. Desde los anuncios impresos de Taiwan Nichi Nichi Shimpo durante el periodo japonés, pasando por la época de la ley marcial en que sólo tres canales concentraban la atención de toda la isla en la misma señal, hasta 2016, cuando la inversión en publicidad digital superó a la televisiva: los anuncios más recordados de Taiwán suelen dejar en el olvido el producto que vendían, pero conservan el sonido de toda una época.'
 date: 2026-06-14
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '大眾文化'
 tags:
   [
     'publicidad taiwanesa',
@@ -13,19 +11,22 @@ tags:
     'Wu Nien-jen',
     'memoria colectiva',
   ]
-readingTime: 14
+subcategory: '大眾文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/台灣廣告史.md'
-sourceCommitSha: 'f7484ebea'
-sourceContentHash: 'sha256:faa63331d7b3eae1'
-sourceBodyHash: 'sha256:296b2f47a01a03eb'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 14
+researchReport: 'reports/research/2026-06/台灣廣告史.md'
 image: '/article-images/culture/tatung-cooker-100th-2019.webp'
 imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tatung_100th_Anniversary_Cooker_20190706.jpg'
+translatedFrom: 'Culture/台灣廣告史.md'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:f7212df28a7408b1'
+sourceBodyHash: 'sha256:5f193ab0cecd9e8d'
+translatedAt: '2026-10-14T23:43:26.923880+00:00'
 ---
 
 > **Resumen en 30 segundos:** La memoria publicitaria compartida por la gente de Taiwán casi siempre consiste en una frase que no puedes evitar continuar, o una melodía que sabes tararear aunque no recuerdes qué vendía: “¡Fuqi la!”, “sólo lo fresco se atreve a hablar fuerte”, “Tatung, Tatung, los productos nacionales son buenos”. Esa capacidad de “recordar al mismo tiempo en todo Taiwán” dependía de una época sin alternativas, con sólo tres canales de televisión: TTV (1962), CTV (1969) y CTS (1971), que ataban la atención de toda una generación a una misma señal. Tras dos rupturas, la entrada en vigor de la Ley de Televisión por Cable en 1993 y el primer año en que la inversión en publicidad digital superó a la televisiva en 2016, terminó la era de la publicidad nacional compartida.
@@ -110,35 +111,36 @@ Este es uno de los tramos más admirados por los intelectuales en la historia de
 
 Ideology Advertising también chocó con su otra cara: el género. Las campañas de adelgazamiento y belleza de Mermaid ganaron en 1996 y 1997 el Premio a la Frase Publicitaria con “Trust me, you can make it!”[^33]. Pero un estudio de 2008 de la investigadora en comunicación Chyong-Ling Lin señaló que la publicidad impresa taiwanesa prefería las imágenes de la belleza clásica y de la chica de al lado, imágenes que se conectaban con creencias confucianas conservadoras y las reforzaban[^34]. Esa frase de aliento, “Trust me”, presupone que el cuerpo de las mujeres necesita ser corregido, adelgazado, transformado. Más tarde, grupos de mujeres sistematizaron el guion común de este tipo de publicidad: quienes se ocupan del trabajo doméstico son casi siempre mujeres, y el padre siempre aparece como quien gana dinero para mantener a la familia[^35]. La publicidad no sólo refleja el orden de género de la sociedad; también participa en producirlo.
 
-## Una canción de la que nadie recuerda qué vendía
+## Una canción que nadie recuerda qué vendía
 
-Los publicistas escriben líneas, pero lo que suele vivir más tiempo es la melodía.
+Los publicistas escriben diálogos, pero lo que más perdura suele ser la melodía.
 
-Un giro clave en la historia de la publicidad taiwanesa fue cuando una canción publicitaria, a la inversa, lanzó a la fama a un cantante. Los anuncios televisivos de HeySong Sarsaparilla comenzaron en 1974 con “La sombra en el desierto”[^36]; en 1988, “Mi futuro no es un sueño”, cantada por Chang Yu-sheng, se convirtió en canción publicitaria. Fue la primera vez en Taiwán que una canción de anuncio hizo famoso a un cantante[^37]. Después, las canciones publicitarias de HeySong Sarsaparilla trazaron toda una línea temporal de la música popular taiwanesa: Oriental Express en 1991, Ukulele en 1992, Phil Chang en 1994, hasta “Contentment” de Mayday en 2008[^38]. Una lata de refresco cantó más de treinta años de historia sonora taiwanesa.
+Un punto de inflexión clave en la historia de la publicidad taiwanesa fue cuando una canción publicitaria acabó catapultando a un cantante a la fama. Los anuncios de televisión de HeySong Sarsaparilla comenzaron en 1974 con el episodio «Sombra en el desierto»[^36]; para 1988, «Mi futuro no es un sueño» (我的未來不是夢) interpretada por Chang Yu-sheng se convirtió en el jingle, marcando la primera vez en Taiwán que una canción publicitaria lanzaba a un cantante al estrellato[^37]. Posteriormente, los jingles de HeySong Sarsaparilla hilvanaron toda una línea temporal del pop taiwanés: 1991 The City Cats (東方快車), 1992 U-KISS (優客李林), 1994 Phil Chang (張宇), hasta 2008 con «Canción del olvido risueño» (笑忘歌) de Mayday (五月天)[^38]. Una lata de refresco cantó más de treinta años de historia sonora de Taiwán.
 
-![Olla eléctrica Tatung fabricada en Taiwán, con cuerpo verde tradicional; desde la década de 1960 entró en las cocinas de los hogares taiwaneses y fue el producto nacional cuya canción publicitaria se cantó durante décadas](/article-images/culture/tatung-cooker-green.webp)
-_Olla eléctrica Tatung. Aquella “Canción de Tatung” de 1968 cantaba sobre ella; medio siglo después, la melodía ha vivido más que cualquier olla eléctrica. Foto: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
+![La olla eléctrica Tatung fabricada en Taiwán, de tradicional color verde, entró en las cocinas taiwanesas en los años 60; es ese electrodoméstico nacional que la canción de Tatung ha cantado durante décadas](/article-images/culture/tatung-cooker-green.webp)
+_La olla eléctrica Tatung. La «Canción de Tatung» de 1968 cantaba de ella; medio siglo después, la melodía vive más que cualquier olla. Foto: Thankqall, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Tatung_Cooker_Green.jpg)._
 
-Volvamos a la canción de Tatung del comienzo. Su historia contiene el giro más fuerte de este artículo. Según reportes sobre un fallo judicial, la “Canción de Tatung” fue terminada por Lee Shou-cheng en febrero del año 57 de la República de China (1968), y la pieza completa tenía cincuenta y seis caracteres[^39]. Pero el letrista registrado, Wang An-chung, era sólo un nombre prestado: quien escribió realmente la letra fue Lin Ting-sheng, expresidente de Tatung; como no quería hacerse famoso, tomó prestado el nombre de otra persona[^40]. Y al principio esa canción ni siquiera era de Tatung, sino una canción publicitaria de Sanyo, modificada por problemas de derechos de autor[^41]. Más tarde, Lee Shou-cheng demandó por derechos de autor, pero perdió porque en aquella época regía un sistema basado en el registro[^42].
+Volvamos a la canción de Tatung con la que abre el artículo. Su historia es el giro más fuerte de este texto. Según los informes de la sentencia judicial, la «Canción de Tatung» fue completada por Li Shou-cheng en febrero de 1968 (año 57 de la República de China), con una letra de cincuenta y seis caracteres[^39]. Sin embargo, el letrista registrado, Wang An-chong, solo figuraba de nombre prestado; el verdadero autor de la letra fue el propio Lin Ting-sheng, expresidente de Tatung, quien no quería fama y pidió prestado el nombre de otro[^40]. Además, la canción fue originalmente un jingle de Sanyo, y solo pasó a ser de Tatung por problemas de derechos de autor[^41]. Más tarde, Li Shou-cheng demandó por derechos de autor, pero perdió porque en aquella época regía el sistema de registro[^42].
 
-> **📝 Nota curatorial**
-> El giro de la canción de Tatung conmueve porque revuelve por completo el concepto de “autor publicitario”. El compositor llevó el caso a tribunales y perdió; el presidente que escribió realmente la letra ocultó deliberadamente su identidad; incluso la melodía fue trasladada desde otra marca. Una canción que entró en la memoria de decenas de millones de personas no tiene un autor claro que quisiera ser recordado. Esto es precisamente el núcleo de este artículo: en los anuncios más recordados de Taiwán, la memoria pertenece a toda la isla, pero el autor suele estar ausente o quedar olvidado. El producto se olvida, el autor se olvida, sólo queda el sonido.
+> **📝 Nota del curador**
+> El giro de la canción de Tatung conmueve porque da la vuelta por completo al concepto de «autor publicitario». El compositor llevó el caso a los tribunales y perdió; el verdadero letrista, el presidente de la compañía, se escondió deliberadamente en el anonimato; hasta la melodía venía de otra marca. Una canción grabada en la memoria de decenas de millones de personas no tiene un autor claro que deseara ser recordado. Esto es precisamente el núcleo de este artículo: los anuncios más recordados de Taiwán pertenecen a la memoria colectiva de la isla, mientras sus autores suelen estar ausentes u olvidados —el producto se olvida, el autor se olvida, solo queda el sonido.
 
-El Premio a la Frase Publicitaria fue organizado por Brain Magazine desde 1994, justo a tiempo para fijar, año tras año, la cola dorada de aquella etapa de publicidad nacional compartida. En 1994 ganó Maxwell House Coffee con “Las cosas buenas se comparten con los buenos amigos”; en 1995, los relojes Solvil et Titus con “No importa que dure para siempre, sólo importa haberlo tenido”; de 1996 a 1997, Mermaid con “Trust me, you can make it!”; en 1998, Kirin Beer Taiwan con “¡Hoo-ta la!”; en 1999, CTBC con “We are family”[^43].
+El Premio a la Frase Publicitaria, organizado por la revista Brain Magazine desde 1994, fue clavando año a año como especímenes la cola dorada de esa era de publicidad masiva. 1994 correspondió a Maxwell House Coffee con «Las cosas buenas se comparten con buenos amigos»; 1995 a Tissot con «No importa la eternidad, solo importa haber poseído»; 1996-1997 a Miden con «Trust me, you can make it!»; 1998 a la Cerveza Kirin de Taiwán con «¡Hù-kian-lah!»; 1999 a Chinatrust con «We are family»[^43].
 
 ```tw-stat
-1962–1994 | Los tres canales clásicos oligopolizan el mercado televisivo | Desde 1994, el conjunto de canales de cable supera a los tres canales
-1979 | La penetración televisiva supera 90% | Los televisores a color superan por primera vez a los de blanco y negro
-99% | Reconocimiento de marca de Kirin Beer | Auge de la moda “hoo-ta la” en 1998
+1962–1994 | Los tres canales veteranos oligopolizan el mercado televisivo | Desde 1994 la suma de canales de cable supera a los tres canales
+1979 | Tasa de penetración televisiva supera el 90% | La cantidad de televisores a color supera por primera vez a los de blanco y negro
+99% | Conocimiento de marca de Cerveza Kirin | Cénit de la moda «Hù-kian-lah» en 1998
+Fuente: estadísticas de los tres canales veteranos y penetración televisiva citadas en este artículo, así como la lista del Premio a la Frase Publicitaria y reportajes sobre la moda «Hù-kian-lah» de Cerveza Kirin[^43][^45]
 ```
 
-En esta lista de premios se esconde una historia muy taiwanesa. La frase ganadora de 1995, “No importa que dure para siempre, sólo importa haberlo tenido”, era en realidad un anuncio de la marca hongkonesa de relojes Solvil et Titus, con texto de Lo Wan-yee[^44]. Un anuncio de Hong Kong ganó un premio taiwanés a la frase publicitaria, lo que muestra que la memoria de la publicidad en chino circulaba entre regiones en aquella época. Y el “hoo-ta la” de Kirin Beer fue, además, una reacción en cadena: en 1996, Hou Hsiao-hsien dirigió su primer anuncio de cerveza, protagonizado por Wu Nien-jen; en 1997, la canción del anuncio, “Deambulando hasta Tamsui”, llegó al primer lugar de pedidos en KTV; en 1998, “hoo-ta la” se convirtió en frase popular nacional y el reconocimiento de marca llegó a 99%[^45].
+Esta lista de frases premiadas esconde una historia muy taiwanesa. El eslogan ganador de 1995, «No importa la eternidad, solo importa haber poseído», era en realidad un anuncio de Tissot para Hong Kong, con texto de Lu Wan-yi[^44] —un anuncio hongkonés que se llevó el premio taiwanés, prueba de que en aquella época la memoria publicitaria en chino fluía sin fronteras. Y el «Hù-kian-lah» de Cerveza Kirin desató una reacción en cadena: en 1996 Hou Hsiao-hsien dirigió su primer anuncio de cerveza, protagonizado por Wu Nien-jen; en 1997 la canción temática «Vagando hasta Tamsui» (流浪到淡水) se convirtió en la más pedida en los KTV; para 1998 «Hù-kian-lah» era ya un modismo nacional y el conocimiento de marca alcanzó el 99 %[^45].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="Chang Yu-sheng, “Mi futuro no es un sueño”, canción publicitaria de HeySong Sarsaparilla de 1988" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/lTxZmhAoSGU" title="張雨生〈我的未來不是夢〉1988 黑松沙士廣告曲" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Chang Yu-sheng, “Mi futuro no es un sueño”, canción publicitaria del anuncio “Héroe moderno” de HeySong Sarsaparilla en 1988; fue la primera vez en Taiwán que un anuncio lanzó a un cantante a la fama. Canal oficial de Rock Records._
+_«Mi futuro no es un sueño» de Chang Yu-sheng, jingle del episodio «Héroe moderno» de HeySong Sarsaparilla de 1988, la primera vez en Taiwán que un anuncio lanza a un cantante a la fama. Rock Records oficial._
 
 ## El señor PX Mart y los anuncios que hacen llorar
 

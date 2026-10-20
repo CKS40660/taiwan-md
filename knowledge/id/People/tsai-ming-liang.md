@@ -1,15 +1,15 @@
 ---
-title: 'Tsai Ming-liang: Penyair Sinema Lambat'
-description: 'Pemenang Golden Lion Venice, orang Tionghoa Malaysia, maestro estetika sinema lambat'
+title: 'Tsai Ming-liang'
+description: 'Sutradara yang lahir di Sarawak, Malaysia pada tahun 1957 dan datang ke Taiwan untuk belajar teater pada tahun 1977. Ia menetapkan gaya pribadinya melalui "Rebels of the Neon God" pada tahun 1992, dan pada tahun 1994, "Vive L''Amour" memenangkan Golden Lion di Festival Film Venesia, menjadikannya sutradara Tionghoa ketiga yang menerima penghargaan tersebut setelah Hou Hsiao-hsien dan Zhang Yimou. Melalui pengambilan gambar long take, dialog yang minim, serta tempo yang lambat, ia menggambarkan kesepian dan keterasingan masyarakat urban, mengembangkan estetika "slow cinema" yang unik mulai dari "Vive L''Amur" hingga seri Walker.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Sutradara',
     'Tsai Ming-liang',
-    'sinema lambat',
+    'Slow Cinema',
     'Festival Film Venesia',
-    'orang Tionghoa Malaysia',
+    'Tionghoa Malaysia',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-10-15T18:36:17.568262+00:00'
 ---
 
 # Tsai Ming-liang: Penyair Sinema Lambat

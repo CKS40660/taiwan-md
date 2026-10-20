@@ -1,103 +1,103 @@
 ---
 title: 'Vida nocturna y cultura KTV'
-description: 'Desde las salas privadas de KTV hasta los comedores nocturnos, una isla que nunca cierra'
+description: 'El KTV en salas privadas surgió en la década de 1990 con marcas como Cashbox y Holiday; tras tragedias de incendios, la seguridad se ha vuelto prioritaria en la vida nocturna de Taiwán.'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['Vida', 'Vida nocturna', 'KTV', 'Comedores nocturnos', 'Taiwán']
+tags: ['Vida', 'Vida nocturna', 'KTV', 'Restaurantes nocturnos', 'Taiwán']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-19T11:59:04+08:00'
+translatedAt: '2026-10-16T00:52:53+08:00'
 ---
 
 # Vida nocturna y cultura KTV
 
-> **30 秒概覽：** La vida nocturna en Taiwán se sustenta en tres pilares: salas de KTV, comedores nocturnos y mercados nocturnos, con un servicio disponible las 24 horas que impulsa el ritmo de la "isla que nunca duerme". La cultura de salas de KTV se popularizó en la década de 1990 y se convirtió en una forma de reunión para todos; el incendio en la sucursal Lin-sen de Cashbox en Taipéi en 2020 causó 6 fallecidos, lo que llevó a las autoridades a inspeccionar todas las salas de KTV en la isla.
+> **Resumen en 30 segundos:** La vida nocturna de Taiwán se sustenta en tres pilares: las salas de KTV, los restaurantes nocturnos (_shēnyè shítáng_) y los mercados nocturnos, con servicios de conveniencia las 24 horas que mantienen el ritmo de la «isla que nunca duerme». Tras la popularización del KTV en salas privadas en los años 90, este se convirtió en la forma de reunión preferida; sin embargo, el incendio en la tienda Cashbox Linsen de Taipéi en 2020, que causó 6 muertes, impulsó inspecciones de seguridad en todo el país.
 
-Cuando la noche cae en Taiwán, la isla asume otro rostro. Las luces de neón iluminan las calles, las salas de KTV resuenan con risas y canciones, los comedores nocturnos mantienen sus luces encendidas y los letreros de apertura 24 horas destacan especialmente en la oscuridad. Las cenas después del trabajo, las celebraciones tras los exámenes y las conversaciones nocturnas entre amigos encuentran su escenario ideal en la noche.
+Cuando cae la noche en Taiwán, la isla muestra un rostro diferente. Las luces de neón iluminan las calles, de las salas de KTV emanan risas y cantos, los restaurantes nocturnos permanecen resplandecientes y los letreros de 24 horas destacan en la oscuridad. Desde cenas tras el trabajo hasta celebraciones estudiantiles o charlas profundas entre amigos, la noche ofrece el escenario perfecto para cada ocasión.
 
-## Cultura KTV: un universo paralelo dentro de las salas
+## Cultura KTV: Un universo paralelo en una sala privada
 
-El KTV (karaoke TV) es el núcleo de la vida nocturna en Taiwán. Tras el auge de las salas de KTV en la década de 1990, marcas como Cashbox, Holiday y Star Point se expandieron, acompañando a los taiwaneses en innumerables momentos de reunión. Al abrir la puerta de una sala de KTV, uno entra en un espacio aislado del mundo exterior; frente al micrófono, las diferencias de profesión y edad se desvanecen momentáneamente.
+El KTV (Karaoke TV) es el núcleo de la vida nocturna en Taiwán. Tras el auge del modelo de salas privadas en la década de 1990, marcas como Cashbox (錢櫃), Holiday (好樂迪) y Star Jelly (星聚點) se expandieron por todo el país, acompañando a los taiwaneses en innumerables reuniones. Al abrir la puerta de una sala de KTV, se entra en un espacio relativamente aislado del mundo exterior donde, frente al micrófono, las diferencias de profesión y edad quedan temporalmente en segundo plano.
 
-Taiwán destaca por su alta densidad de salas de KTV, y solo en Taipéi hay cientos, desde grandes cadenas hasta pequeñas tiendas independientes. Desde las salas presidenciales de lujo hasta las salas económicas, los precios asequibles convierten el KTV en un entretenimiento para todos; una sala para 10 personas cuesta entre 1,500 y 2,500 yuan en días laborables por 3 horas (incluyendo bebidas mínimas), y las membresías de grandes cadenas o horas pico reducidas ofrecen mayores descuentos. Las pantallas táctiles de selección de canciones ofrecen más de 100,000 canciones, incluyendo mandarín, taiwán, inglés y coreano, satisfaciendo las necesidades de distintas generaciones. [^1]
+La densidad de locales KTV en Taiwán es de las más altas del mundo; solo en la ciudad de Taipéi existen cientos de establecimientos, desde grandes cadenas hasta pequeños locales independientes. Gracias a su variedad de precios, desde lujosas salas «presidenciales» hasta opciones económicas para grupos, el KTV es un entretenimiento para todos. Una sala para 10 personas puede costar entre NT$1,500 y NT$2,500 por 3 horas en días laborables (incluyendo consumo mínimo de alimentos y bebidas), siendo aún más asequible con los programas de membresía o en horarios de baja demanda. Las pantallas táctiles ofrecen más de 100,000 canciones, incluyendo repertorios en mandarín, taiwanés, inglés, japonés y coreano, satisfaciendo a todas las generaciones. [^1]
 
-Celebraciones de cumpleaños, cenas de fin de año de empresas, reuniones de compañeros y citas románticas: el KTV es el lugar de reunión preferido para todo tipo de ocasiones en Taiwán. La atmósfera privada de las salas permite relajarse y expresarse libremente. El jefe estricto de lo normal se convierte en un bailarín entusiasta dentro de la sala, y el colega tímido se transforma en un experto en el micrófono; este contraste es precisamente lo que mantiene viva la cultura KTV.
+Ya sea para celebrar un cumpleaños, una cena de fin de año de la empresa, reuniones de antiguos alumnos o citas románticas, el KTV es el lugar predilecto. La atmósfera privada permite a las personas relajarse y expresarse libremente; ver a un jefe habitualmente serio bailando o a un colega introvertido convirtiéndose en un experto del micrófono es parte del encanto que mantiene viva esta cultura.
 
-## Cashbox y Holiday: competencia entre dos gigantes y accidentes
+## Cashbox y Holiday: Competencia de gigantes y accidentes de seguridad
 
-Cashbox (Cashbox) y Holiday (Holiday) son los dos gigantes del KTV en Taiwán, y su competencia durante décadas ha impulsado la mejora de equipos de sonido, diseño de salas y servicios de alimentos y bebidas. Cashbox se distingue por su posicionamiento de alta gama y su enfoque en clientes de relaciones comerciales; Holiday sigue una línea asequible y popular entre los estudiantes.
+Cashbox (錢櫃) y Holiday (好樂迪) son los dos líderes indiscutibles del KTV en Taiwán. Décadas de competencia han impulsado la mejora en equipos de sonido, diseño de salas y servicios gastronómicos. Cashbox es conocido por su posicionamiento de alta gama, enfocado principalmente en el sector empresarial, mientras que Holiday sigue una línea más económica y popular, muy querida por los estudiantes.
 
-Poco después del auge de las salas de KTV, se pagó un precio elevado. **En noviembre de 1992, el KTV "Mundo de los Sueños" en la calle Fushun en Taipéi fue incendiado, matando a 16 personas**, uno de los incendios con mayor número de víctimas en la historia del KTV en Taiwán, y también marcó la primera vez que el problema de escape en espacios cerrados fue tomado en serio por toda la sociedad. [^2]
+Sin embargo, el auge del KTV en salas privadas tuvo un costo trágico. **En noviembre de 1992, el "Myth World KTV" en la calle Fushun de Taipéi fue incendiado deliberadamente, resultando en 16 víctimas mortales**. Fue uno de los incendios más devastadores en la historia del KTV taiwanés y obligó a la sociedad a enfrentar por primera vez los problemas de evacuación en espacios cerrados como las salas privadas. [^2]
 
-Ambos gigantes han intentado fusionarse repetidamente. **En agosto de 2019, la Comisión de Competencia Justa prohibió por cuarta vez la fusión de Cashbox y Holiday**, argumentando que ambas eran competidores directos, y que tras la fusión su cuota de mercado alcanzaría el 45%, lo cual tendría un impacto negativo en la competencia que supera al beneficio económico total; Cashbox presentó un recurso administrativo, y en noviembre de 2020 el Tribunal Administrativo de Taipéi falló en contra de Cashbox. [^4] El mercado KTV en Taiwán sigue manteniendo dos gigantes en pie, en lugar de un solo grupo dominante.
+Ambas cadenas han intentado fusionarse en varias ocasiones. **En agosto de 2019, la Comisión de Comercio Justo prohibió por cuarta vez la fusión entre Cashbox y Holiday**, argumentando que ambos son los principales competidores entre sí y que una unión alcanzaría una cuota de mercado del 45%, lo que limitaría la competencia más de lo que beneficiaría a la economía. Cashbox interpuso un recurso administrativo, pero en noviembre de 2020 el Tribunal Administrativo Superior de Taipéi falló en su contra. [^4] El mercado mantiene hasta hoy esta estructura de dos grandes competidores en lugar de un monopolio.
 
-El 26 de abril de 2020, el KTV Cashbox Lin-sen en la calle Lin-sen norte de Taipéi sufrió un incendio que causó 6 muertos y decenas de heridos; la causa fue un cargador de batería en el almacén, y el sistema de alerta de incendios estaba desactivado. Al día siguiente, el gobierno municipal de Taipéi inspeccionó otras sucursales de Cashbox, y cuatro tiendas con equipos de extinción defectuosos fueron ordenadas a cerrar para reformas; Cashbox cerró temporalmente todas sus tiendas en la isla durante una semana. [^5]
+El 26 de abril de 2020, se produjo un incendio en la tienda Cashbox Linsen en la calle Linsen North Road, en Taipéi, que causó 6 muertes y decenas de heridos. La causa fue una batería cargándose en un almacén mientras el sistema de alerta contra incendios estaba desactivado. Al día siguiente, el gobierno municipal de Taipéi realizó inspecciones conjuntas en otras sucursales de Cashbox, ordenando el cierre temporal de cuatro locales por equipos de seguridad inadecuados y suspendiendo las operaciones de todas las tiendas de la cadena en Taiwán durante una semana. [^5]
 
-**Durante el nivel 3 de alerta de COVID-19 en 2021** (mayo-julio), el gobierno prohibió estrictamente el funcionamiento de KTV, bares y discotecas, y la industria KTV en Taiwán enfrentó por primera vez en su historia cierres forzados por varias semanas. Muchos operadores enfrentaron tensiones en sus cadenas de suministro, y algunas pequeñas y medianas salas de KTV no reabrieron después de la pandemia. La pandemia aceleró la concentración del mercado KTV: las grandes cadenas lograron sobrevivir gracias a sistemas de reservas en línea y salas sofisticadas, con una tasa de supervivencia claramente superior a las tiendas independientes.
+Durante el **periodo de alerta nivel 3 por COVID-19** (mayo a julio de 2021), el gobierno prohibió la actividad de KTV, bares y discotecas, enfrentando la industria a su primera interrupción forzada de varias semanas. Muchos operadores sufrieron crisis de liquidez y algunos locales medianos y pequeños no volvieron a abrir tras la pandemia. La crisis aceleró la concentración del mercado: las grandes cadenas sobrevivieron gracias a sus sistemas de reserva en línea y salas sofisticadas, mostrando una tasa de supervivencia mucho mayor que los locales independientes.
 
-## Comedores nocturnos: la cultura taiwanesa de izakaya
+## Restaurantes nocturnos: La cultura de las _izakayas_ al estilo taiwanés
 
-Cuando el estilo de izakaya japonés se encuentra con la cultura de comida caliente taiwanesa, da lugar a un tipo único de comedor nocturno. Estos establecimientos suelen estar abiertos hasta la madrugada, ofreciendo comida caliente, bocadillos y cerveza, convirtiéndose en lugares de reunión para trabajadores nocturnos y amantes de la noche. En las zonas comerciales de la Universidad Normal de Taipéi y la zona de Gongguan, así como en los alrededores del mercado nocturno Ruifeng en Kaohsiung, hay aglomeraciones densas de comedores nocturnos.
+Cuando el estilo de las _izakayas_ japonesas se fusiona con la cultura del _rechaos_ (salteados taiwaneses), nace una forma única de restaurante nocturno taiwanés. Estos locales suelen abrir hasta el amanecer, ofreciendo salteados, aperitivos y cerveza, siendo puntos de encuentro para trabajadores y trasnochadores. Zonas como el distrito universitario de Shida en Taipéi, Guanyin o los alrededores del mercado nocturno de Ruifeng en Kaohsiung cuentan con densos núcleos de estos establecimientos.
 
-Mesas de madera, luces tenues, cerveza fría y pollo salado caliente son el equipamiento estándar de los comedores nocturnos en Taiwán. Platos como pollo con tres copas, pollo Kung Pao, pepinos frescos con ajo y cerdo con ajo son especialmente populares en la noche, acompañados de una botella de cerveza taiwanesa que relaja el agotamiento del día.
+Mesas de madera, luz tenue, cerveza taiwanesa bien fría y pollo frito (_yansuji_) caliente son el equipo estándar. Platos caseros como el pollo en tres tazas, pollo Kung Pao, pepino aliñado o carne de cerdo con ajo son especialmente populares de madrugada, acompañados de una cerveza para aliviar el cansancio del día.
 
-La atmósfera de los comedores nocturnos taiwaneses difiere de la formalidad de las izakayas japonesas, y se asemeja más al estilo relajado y apasionado de la interacción social taiwanesa. No es inusual que desconocidos conversen, y una mesa grande puede albergar simultáneamente a diferentes grupos de bebida; esta flexibilidad del espacio compartido convierte a los comedores nocturnos en lugares que combinan tanto la socialización como la alimentación.
+A diferencia de la formalidad de las _izakayas_ japonesas, el ambiente es más relajado y apasionado, reflejando el estilo social espontáneo de los taiwaneses. No es raro entablar conversación con desconocidos; en una misma mesa grande pueden coincidir distintos grupos, permitiendo que estos espacios funcionen tanto para la alimentación como para la interacción social.
 
-## Discotecas y bares: el pulso de la ciudad nocturna
+## Discotecas y bares: El pulso de la noche urbana
 
-La zona de Xinyi en Taipéi concentra las discotecas más famosas de Taiwán. Música electrónica, espectáculos de luces y pista de baile forman la escena más vibrante de la noche urbana, y los fines de semana la multitud fluye desde la noche hasta la madrugada. La cultura de discotecas en Taiwán ha sido profundamente influenciada por Occidente, pero el fenómeno de DJs que reproducen versiones electrónicas de canciones pop en chino y jóvenes locales que interpretan con estilo taiwanés le da un carácter local.
+El distrito de Xinyi en Taipéi concentra las discotecas más famosas de Taiwán. La música electrónica, los espectáculos de luces y las pistas de baile forman el escenario más vibrante, con multitudes que suelen extenderse desde la medianoche hasta el amanecer. Aunque la cultura de discoteca está influenciada por Occidente, el hecho de que los DJs mezclen versiones electrónicas de pop en chino o que los jóvenes locales interpreten la música a su estilo le otorga un carácter local único.
 
-La cultura de bares es aún más diversa. Bares de cócteles artesanales, bares deportivos, tiendas especializadas en whisky y jardines de cerveza atraen a diferentes grupos. La zona de Tongshan en el distrito de Zhongshan en Taipéi conserva un fuerte estilo japonés, y es una de las áreas históricas con mayor densidad de bares y restaurantes en Taipéi, popular entre profesionales y turistas japoneses.
+La cultura de los bares es más diversa: bares de coctelería de autor, bares deportivos, tiendas especializadas en whisky y jardines de cerveza atraen a distintos públicos. La zona de Bar Street (Tiaotong) en el distrito de Zhongshan, en Taipéi, conserva un fuerte aire japonés y es una de las áreas de consumo de alcohol más antiguas de la ciudad, con una alta densidad de bares y restaurantes muy apreciada por profesionales y turistas japoneses.
 
-La cultura de cócteles ha crecido rápidamente en Taiwán en los últimos años, y varios bares en Taipéi han sido incluidos en las listas globales de los 100 mejores bares, impulsando la profesionalización de los barmanes y la popularización del conocimiento sobre bebidas. Las tendencias de cervezas artesanales y vinos naturales también han irrumpido en la escena nocturna taiwanesa, haciendo más variadas las opciones de bebida.
+La cultura de la coctelería ha crecido rápidamente; varios bares de Taipéi han entrado en las listas de los mejores cien del mundo, profesionalizando la figura del bartender. Además, la tendencia de la cerveza artesanal y el vino natural se ha integrado en la vida nocturna, diversificando aún más las opciones.
 
-## Cultura de apertura 24 horas: infraestructura de la ciudad que nunca duerme
+## Cultura de 24 horas: La infraestructura de la ciudad que no duerme
 
-La cultura de apertura las 24 horas en Taiwán proporciona el soporte práctico para la vida nocturna. Las tiendas de conveniencia, farmacias, gimnasios e incluso algunas librerías ofrecen servicios las 24 horas, permitiendo a las personas vivir al ritmo que deseen.
+La cultura de los servicios 24 horas proporciona el soporte real a la vida nocturna. Tiendas de conveniencia, farmacias, gimnasios e incluso algunas librerías ofrecen servicios ininterrumpidos, permitiendo a las personas vivir según su propio ritmo.
 
-La librería Eslite en la calle Dunnan ha estado abierta las 24 horas desde 1999, ocupando un lugar icónico entre los amantes de la noche en Taipéi, y es un caso comúnmente citado por los medios extranjeros al reportar sobre la cultura nocturna en Taiwán. Cerró sus puertas al finalizar mayo de 2020 debido a la expiración del contrato, y la librería 24 horas fue sucedida por la sucursal de Eslite en Xinyi, que también cerró en diciembre de 2023, y posteriormente fue reemplazada por la sucursal de Eslite en Songshan, manteniendo la lectura como una opción dentro de la vida nocturna en Taiwán. [^3]
+La librería Eslite de Dunnan fue un icono de la cultura nocturna en Taipéi al operar 24 horas desde 1999, siendo un caso recurrente en medios extranjeros para ilustrar la vida nocturna de Taiwán. Tras cerrar a finales de mayo de 2020 por el fin de su contrato, el relevo de las librerías 24 horas pasó primero a la tienda Eslite Xinyi y, tras el cierre de esta a finales de 2023, fue continuado por la tienda Eslite Songyan, manteniendo la lectura como una opción nocturna. [^3]
 
-El auge de los gimnasios 24 horas ha proporcionado lugares estables para hacer ejercicio en la noche, y algunos trabajadores suelen disfrutar del ambiente tranquilo del gimnasio nocturno. Este ritmo de vida distribuido en diferentes momentos del día es una estrategia de adaptación natural derivada de la alta densidad de vida urbana en Taiwán, y también es la base infraestructural detrás del concepto de "isla que nunca duerme".
+El auge de los gimnasios 24 horas ha permitido que el ejercicio nocturno tenga lugares estables, siendo común que trabajadores disfruten del ambiente tranquilo de madrugada. Este ritmo de vida distribuido en diferentes horarios es una estrategia de adaptación natural a la densidad urbana de Taiwán y constituye la infraestructura básica de lo que se denomina la «isla que nunca duerme».
 
-## Mercados nocturnos: el escenario principal de la vida nocturna popular
+## Mercados nocturnos: El escenario principal de la vida popular
 
-Los mercados nocturnos son la forma más popular de vida nocturna en Taiwán. El mercado nocturno Shilin, el mercado nocturno Ningxia, el mercado nocturno Fengjia y el mercado nocturno Liuhe cada uno tienen su propio carácter y comidas típicas. Familias de tres generaciones, parejas y grupos de amigos se reúnen en los mercados nocturnos para disfrutar, convirtiéndolos en espacios sociales compartidos por todas las edades en Taiwán.
+Los mercados nocturnos son la forma más arraigada de vida nocturna en Taiwán. Shilin, Ningxia, Fengjia o Liuhe; cada mercado tiene su propia personalidad y especialidades gastronómicas. Familias multigeneracionales, parejas y grupos de amigos encuentran su propio entretenimiento, convirtiendo estos mercados en espacios sociales compartidos por todas las edades.
 
-El horario de los mercados nocturnos suele extenderse desde la tarde hasta la noche, adaptándose al ritmo de vida taiwanés. Juegos tradicionales, puestos de artículos y actuaciones callejeras convierten a los mercados nocturnos en lugares que combinan comida, compras y entretenimiento. Para los turistas extranjeros, los mercados nocturnos también son la puerta de entrada más directa para conocer la cultura popular de comida taiwanesa, y casi todas las guías de viaje de Taiwán los incluyen.
+Su horario suele ir desde el atardecer hasta la madrugada, encajando con el ritmo de vida local. Los juegos, los puestos de productos y las actuaciones callejeras hacen que sean lugares de comida, compras y ocio. Para los turistas extranjeros, son la puerta de entrada más directa a la cultura gastronómica popular, apareciendo en casi todas las guías de viaje.
 
-Los mercados nocturnos de diferentes regiones tienen formas distintas. El mercado nocturno Ningxia en Taipéi es conocido por sus bocadillos tradicionales taiwaneses; el mercado nocturno Fengjia en Taichung destaca por sus bocadillos innovadores y puestos populares; el mercado nocturno Liuhe en Kaohsiung sigue una ruta turística, cada uno con proporciones fijas de clientes locales y turistas, reflejando las múltiples facetas de la cultura popular de comida en Taiwán. [^6]
+Las formas varían según la región: el mercado de Ningxia en Taipéi destaca por sus aperitivos tradicionales; el de Fengjia en Taichung por su comida creativa y puestos populares; y el de Liuhe en Kaohsiung tiene un enfoque más turístico. Todos ellos forman diversas facetas de la cultura culinaria popular de Taiwán. [^6]
 
 ## Evolución y desafíos de la vida nocturna
 
-La vida nocturna en Taiwán muestra diferencias marcadas entre generaciones: los mayores prefieren karaoke y comedores nocturnos, los de mediana edad tienden hacia restaurantes de alta gama o bares de whisky, y los jóvenes se inclinan por discotecas, bares de cócteles y restaurantes temáticos. Durante la pandemia, formatos como KTV en línea y cócteles en casa llenaron brevemente el vacío de reuniones presenciales; desde 2021, con la relajación de las restricciones, los lugares físicos han recuperado gradualmente su popularidad.
+Existen diferencias generacionales claras: los mayores prefieren el karaoke y los restaurantes nocturnos; la generación media tiende hacia restaurantes de alta gama o bares de whisky; mientras que los jóvenes se apasionan por las discotecas, la coctelería y los restaurantes temáticos. Durante la pandemia, el KTV en línea y la coctelería en casa llenaron temporalmente el vacío, pero tras la relajación de las restricciones en 2021, los locales físicos han recuperado su popularidad.
 
-La popularización de plataformas de entrega de comida ha ampliado las opciones de comida nocturna, y sin salir de casa se pueden disfrutar bocadillos de mercado nocturno o comida caliente. Los servicios de transporte en coche han hecho más seguro viajar de noche, y la ubicación por GPS y los pagos electrónicos han reducido las preocupaciones de desplazarse de noche. Estos servicios complementarios han impulsado conjuntamente la evolución del ecosistema de vida nocturna en Taiwán.
+La popularización de las plataformas de entrega a domicilio ha diversificado las opciones de comida nocturna sin necesidad de salir de casa. Los servicios de transporte privado han hecho que desplazarse de noche sea más seguro, y el uso de GPS y pagos electrónicos ha reducido la preocupación por los traslados nocturnos.
 
-También se discute la sostenibilidad de la economía nocturna. Los mercados nocturnos turísticos concentrados generan problemas de basura y ruido, y las preocupaciones de seguridad en edificios antiguos de KTV necesitan actualizaciones normativas, y las condiciones laborales de los trabajadores nocturnos también son objeto de atención. La riqueza de la vida nocturna en Taiwán se basa en el enorme soporte de personal de servicios nocturnos, un hecho estructural fácilmente pasado por alto detrás de la imagen de "isla que nunca duerme".
+También se debate sobre la sostenibilidad de la economía nocturna. La excesiva concentración de mercados turísticos genera problemas de basura y ruido; existen dudas sobre la seguridad en edificios de KTV antiguos que requieren nuevas normativas, y las condiciones laborales de quienes trabajan de noche también están bajo la lupa. La riqueza de la vida nocturna de Taiwán se apoya en una enorme fuerza laboral de servicios nocturnos, un hecho estructural que suele pasarse por alto tras la imagen de la «isla que nunca duerme».
 
 ## Referencias
 
-[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Origen del KTV y visión general del desarrollo de la industria de salas de KTV en Taiwán.
+[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Origen del KTV y resumen del desarrollo de la industria de salas privadas en Taiwán.
 
-[^2]: [Tang Mingxiong — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%8A%98%E9%9B%84) — Incendio del 21 de noviembre de 1992 en el KTV "Mundo de los Sueños" en la calle Fushun en Taipéi, 16 personas fallecidas.
+[^2]: [Tang Ming-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%8A%98%E9%9B%84) — Incendio provocado en el "Myth World KTV" en la calle Fushun, Taipéi, el 21 de noviembre de 1992, con 16 víctimas mortales.
 
-[^3]: [Librería Eslite — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Historia de la librería Eslite: la sucursal Dunnan abrió las 24 horas desde 1999, cerró el 31 de mayo de 2020, la librería 24 horas fue sucedida por la sucursal de Xinyi, y en diciembre de 2023 fue reemplazada por la sucursal de Songshan.
+[^3]: [Eslite Bookstore — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Historia de Eslite: la tienda Dunnan operó 24 horas desde 1999 hasta el 31 de mayo de 2020; el servicio fue asumido por la tienda Xinyi y, tras su cierre en diciembre de 2023, por la tienda Songyan.
 
-[^4]: [La Comisión de Competencia Justa prohibió por cuarta vez la fusión de Holiday y Cashbox — Far Eastern Magazine](https://www.gvm.com.tw/article/67870) — En agosto de 2019, la Comisión de Competencia Justa prohibió por cuarta vez la fusión, con tres razones principales y "la cuota de mercado alcanzando el 45% tras la fusión"; véase también [Cashbox pierde el recurso contra la Comisión de Competencia Justa — Central Daily News](https://www.cna.com.tw/news/firstnews/202011260308.aspx), el 26 de noviembre de 2020, el Tribunal Administrativo de Taipéi falló en contra de Cashbox.
+[^4]: [La Comisión de Comercio Justo prohíbe por cuarta vez la fusión de Holiday y Cashbox por tres razones — Vision Magazine](https://www.gvm.com.tw/article/67870) — Detalles sobre la prohibición de agosto de 2019 y la cuota de mercado del 45%; véase también [Cashbox pierde juicio contra la Comisión tras prohibirse su unión con Holiday — CNA](https://www.cna.com.tw/news/firstnews/202011260308.aspx), fallo del Tribunal Administrativo Superior de Taipéi el 26 de noviembre de 2020.
 
-[^5]: [Incendio en el KTV Cashbox Lin-sen en Taipéi — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E9%8C%A2%E6%AB%83%E5%A4%A7%E7%81%AB) — Incendio del 26 de abril de 2020 en el KTV Cashbox Lin-sen: 6 muertos, 72 heridos, incendio causado por carga de batería, sistema de alerta desactivado, inspección conjunta del día siguiente de cuatro tiendas ordenadas a cerrar para reformas.
+[^5]: [Incendio en Cashbox Linsen, Taipéi — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E9%8C%A2%E6%AB%83%E5%A4%A7%E7%81%AB) — Incendio en la tienda Cashbox Linsen el 26 de abril de 2020: 6 muertos y 72 heridos; causado por una batería cargándose con el sistema de alerta desactivado.
 
-[^6]: [Mercados nocturnos en Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Distribución de mercados nocturnos principales en Taiwán, características culturales y presentación de mercados representativos, incluyendo Ningxia, Fengjia y Liuhe.
+[^6]: [Mercados nocturnos de Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Distribución, características culturales e introducción a los principales mercados como Ningxia, Fengjia y Liuhe.
 
-## Lecturas relacionadas
+## Lecturas adicionales
 
-- [Sistema de transporte en Taiwán](/es/lifestyle/transportation-system) — Cómo el transporte nocturno sustenta la cultura de vida nocturna
-- [Cultura de tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Relación entre tiendas 24 horas y la cultura de la ciudad que nunca duerme
-- [Religión en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Mercados nocturnos tradicionales y celebraciones festivas nocturnas
+- [Sistema de transporte en Taiwán](/es/lifestyle/transportation-system) — Cómo el transporte nocturno sostiene la cultura de la vida nocturna.
+- [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — La relación entre las tiendas 24 horas y la cultura de la ciudad que no duerme.
+- [Religión y creencias en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Festivales nocturnos y vida nocturna en las celebraciones tradicionales.

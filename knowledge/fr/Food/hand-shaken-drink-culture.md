@@ -1,16 +1,16 @@
 ---
-title: 'La culture des boissons secouées à la main de Taïwan'
-description: "Du bubble tea aux thés de spécialité, l'essor et l'expansion mondiale de la culture des boissons secouées à la main de Taïwan"
+title: 'La culture des boissons à emporter à Taïwan'
+description: "Depuis la naissance du thé aux perles dans les années 1980, les boissons à emporter sont devenues l'un des symboles de vie les plus représentatifs de l'île : de 50 Lan au coin de la rue à Gong Tea dans les zones commerciales, en passant par le traditionnel Chun Shui Tang ou le moderne Mixue, leurs enseignes colorées sont omniprésentes. À travers l'expansion mondiale de leurs thés créatifs, ils témoignent de la quête des Taïwanais pour la qualité de vie, de leur passion pour l'innovation et de leur mémoire collective."
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'Gastronomie',
-    'Boissons secouées à la main',
-    'Bubble tea',
-    'Boissons au thé',
-    'Exportation culturelle',
-    'Internationalisation de la marque',
+    'gastronomie',
+    'boissons à emporter',
+    'thé aux perles',
+    'boisson au thé',
+    'exportation culturelle',
+    'internationalisation des marques',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
@@ -18,16 +18,16 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Gros plan sur un bubble tea classique'
+imageAlt: 'Gros plan sur un thé aux perles classique'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-02T19:22:41.255701+00:00'
+translatedAt: '2026-10-15T19:26:38.134636+00:00'
 ---
 
 # Culture du thé secoué à la main à Taïwan

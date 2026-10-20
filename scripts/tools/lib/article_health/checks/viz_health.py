@@ -122,8 +122,62 @@ _TW_ARTICLE_CATS = {
     "politics": "Politics",
 }
 
-# 來源列：來源：… / 資料來源：… / source: …（中英冒號）
-_SRC_RE = re.compile(r"(?:資料來源|來源|source)\s*[:：]\s*\S", re.IGNORECASE)
+# 來源列：標籤清單從 renderer 的 VIZ_STRINGS.srcPrefix + _SRC_EXTRA_LABELS 推導，
+# 不在本檔維護第二份語言清單（跟 _known_modules() 同一個 SSOT 原則）。
+# 2026-10-16：原本這裡寫死 `資料來源|來源|source` 三個中英標籤——正是
+# article-render.ts §_buildSrcLineRe 的註解明文拒絕維護的那份「第二份清單」，
+# 在檢查器這一側又長了一次。A/B/C 三項只跑 zh-TW SSOT 所以它一直沒出事；新增的
+# D2（全語系跑）第一次掃全庫就被它絆到：488 個檔案的 `Fonte:`／`Quelle:`／
+# `Fuente:` 來源列被當成不合法的冒號鍵列。尺先驗再用（REFLEXES #99）。
+_SRC_EXTRA_LABELS_RE = re.compile(r"^\s*'([^']+)',?\s*$", re.MULTILINE)
+_SRC_PREFIX_RE = re.compile(r"srcPrefix:\s*'([^']+)'")
+_MIN_EXPECTED_SRC_LABELS = 12  # 低於此數＝解析壞了，不是語言真的變少
+
+
+@lru_cache(maxsize=1)
+def _src_labels() -> tuple[str, ...]:
+    """從 renderer 解析來源列標籤（srcPrefix 各語 + 複數形 extra labels）。
+
+    解析不出來回傳 ()，呼叫端退回最小中英集合並 fail loud（不靜默放行）。
+    """
+    try:
+        src = _RENDERER_PATH.read_text(encoding="utf-8")
+    except OSError:
+        return ()
+    labels = {
+        re.sub(r"[:：]\s*$", "", m).strip().lower()
+        for m in _SRC_PREFIX_RE.findall(src)
+    }
+    block = re.search(r"_SRC_EXTRA_LABELS\s*=\s*\[(.*?)\]", src, re.DOTALL)
+    if block:
+        labels |= {
+            m.strip().lower() for m in _SRC_EXTRA_LABELS_RE.findall(block.group(1))
+        }
+    labels.discard("")
+    if len(labels) < _MIN_EXPECTED_SRC_LABELS:
+        return ()
+    # 長的先試，免得 `nguồn` 先吃掉 `nguồn dữ liệu`
+    return tuple(sorted(labels, key=len, reverse=True))
+
+
+@lru_cache(maxsize=1)
+def _src_re() -> re.Pattern[str]:
+    labels = _src_labels() or ("資料來源", "來源", "source")
+    alt = "|".join(re.escape(l) for l in labels)
+    return re.compile(rf"^(?:{alt})\s*[:：]\s*\S", re.IGNORECASE)
+
+
+class _SrcReProxy:
+    """讓既有的 `_SRC_RE.search(...)` 呼叫點不用全部改寫。"""
+
+    def search(self, s: str):
+        return _src_re().search(s)
+
+    def match(self, s: str):
+        return _src_re().match(s)
+
+
+_SRC_RE = _SrcReProxy()
 
 # AI-blind 指示語：如上圖 / 見下圖 / 如圖所示 / 上圖所示 / 下圖顯示 …
 _AIBLIND_RE = re.compile(
@@ -133,6 +187,34 @@ _AIBLIND_RE = re.compile(
 
 # config 列：單位：… / 過半：… / 欄：… / 基準：… / 基準線：…（v2.0 共通約定）
 _CONFIG_RE = re.compile(r"^(?:單位|過半|欄|基準線?)\s*[:：]")
+
+# 冒號鍵列：graph.md §四 沒有定義 `title:` / `axis:` 這種 YAML 風格的鍵。作者
+# （或模型）以為圖表模組吃鍵值對，而 renderer 把第一列當標題、其餘不含 `|` 的列
+# 當資料列 → 標題印出字面的 `title:`，`axis:` 變成一條長度 0 的幽靈條。
+# 刻意寫成白名單而非「任何 latin 冒號開頭」：後者在全庫實測有 ~40% 假陽性，命中的
+# 是合法的帶冒號標題句（`Taiwan: Seventy-five years without a break…`）。
+# 假陽性家族寧缺勿濫（MANIFESTO §14）。
+_BOGUS_KEY_RE = re.compile(
+    r"^(title|axis|label|legend|caption|subtitle|xlabel|ylabel|x|y|data|type|values?"
+    r"|unit_label|axis_label)\s*[:：]\s*\S",
+    re.IGNORECASE,
+)
+
+# config 鍵被翻譯掉：`單位：` / `過半：` / `欄：` / `基準：` 是語法不是文字欄
+# （跟模組名同一類），renderer 只認中文那四個。翻成 `Unit:` / `Einheit:` 之後
+# renderer 認不得 → 該模組掉了它的 config，那一列還變成幽靈資料列。
+# 2026-10-16 全庫實測：只有 2 篇中文母稿用 config 鍵，其中〈視覺化模組型錄〉的
+# 12 個譯本全部把鍵翻掉了——對外解釋視覺化系統的那一頁，自己的視覺化是壞的。
+_TRANSLATED_CONFIG_RE = re.compile(
+    r"^(Unit|Unidad|Unidade|Unité|Einheit|Satuan|Единица|Đơn vị|単位|단위|इकाई"
+    r"|(?:ال)?وحدة"
+    r"|Majority|Mayoría|Maioria|Majorité|Mehrheit|Mayoritas|Большинство|Đa số|과반"
+    r"|Quá nửa|過半数|बहुमत|(?:ال)?أغلبية"
+    r"|Column|Columna|Coluna|Colonne|Spalte|Kolom|Столбец|Cột|列|열|स्तंभ|عمود"
+    r"|Baseline|Línea base|Linha de base|Ligne de base|Basislinie|Garis dasar"
+    r"|Базовая линия|Đường cơ sở|基準線|기준선|आधार रेखा|خط الأساس)\s*[:：]\s*\S",
+    re.IGNORECASE,
+)
 
 # tw-multiples 群組分隔列
 _MULTIPLES_SEP_RE = re.compile(r"^---\s*", re.MULTILINE)
@@ -327,6 +409,65 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                     "``` 區塊內加一列 `來源：…`，會自動渲染成模組下方的來源 caption。"
                 ),
             )
+
+    # ── D2. 冒號鍵列（全語系跑，2026-10-16 twmd-maintainer-daily 新增）────────
+    # graph.md §四 的標題是「第一列不含 `|`」，config 列只有中文那幾個鍵
+    # （單位／基準／過半／欄）。寫成 `title:` / `axis:` 的 YAML 風格鍵沒有任何
+    # 一道閘門在看，而 renderer 對它們的處置是：第一列照樣當標題（於是讀者看到
+    # 字面的 `title:`），第二列落進資料列（`axis: 折扣率 (%)` 沒有 `|`，數值
+    # 解析成 0 → 一條長度 0 的幽靈條，標籤就是那串鍵）。
+    # 誕生：〈台中國家歌劇院〉的 tw-bars 從中文母稿帶著 `title:` + `axis:` 兩列
+    # 出生，被忠實翻進 12 個語言，13 個檔案全部 viz-health warn=0 通過；抓到它
+    # 的是投稿者 dreamline2 讀韓文版時發現折扣數字也錯了（PR #1857）。
+    for m in _FENCE_RE.finditer(body):
+        lang = m.group(1)
+        if lang not in _DATA_MODULES:
+            continue
+        content_start_line = body[: m.start(2)].count("\n") + 1
+        for idx, raw in enumerate(m.group(2).split("\n")):
+            line = raw.strip()
+            if not line or "|" in line:
+                continue
+            if _SRC_RE.search(line) or _CONFIG_RE.match(line):
+                continue
+            km = _BOGUS_KEY_RE.match(line)
+            if km:
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=DEFAULT_SEVERITY,
+                    message=(
+                        f"`{km.group(1)}:` 不是 graph.md §四 定義的鍵 — 模組標題是"
+                        f"「第一列不含 `|`」，所以這一列會被字面渲染（當標題就印出 "
+                        f"`{km.group(1)}:`，當資料列就變成一條長度 0 的幽靈條）。"
+                    ),
+                    line=content_start_line + idx,
+                    snippet=line[:90],
+                    editorial_ref=EDITORIAL_REF_NAME,
+                    fix_suggestion=(
+                        "標題直接寫成一句斷言（不含 `|`、放在第一列，不要加 "
+                        "`title:`）；軸的單位寫進標題句，或改用 graph.md §四 的 "
+                        "config 列（`單位：`／`基準：`／`過半：`／`欄：`）。"
+                    ),
+                )
+                continue
+            cm = _TRANSLATED_CONFIG_RE.match(line)
+            if cm:
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=DEFAULT_SEVERITY,
+                    message=(
+                        f"config 鍵 `{cm.group(1)}:` 被翻譯了 — `單位：`／`過半：`／"
+                        f"`欄：`／`基準：` 屬於語法不是文字欄，renderer 只認中文那四個。"
+                        f"翻掉之後這個模組掉了它的 config，這一列還會變成幽靈資料列。"
+                    ),
+                    line=content_start_line + idx,
+                    snippet=line[:90],
+                    editorial_ref=EDITORIAL_REF_NAME,
+                    fix_suggestion=(
+                        "鍵保留中文原樣（`單位：`／`過半：`／`欄：`／`基準：`），只翻"
+                        "冒號後面的值 — 鍵本身不會被渲染出來，讀者看到的是值。"
+                    ),
+                )
 
     # ── B. 「如上圖／如下圖」AI-blind 指示語 ─────────────────────────────
     masked = target.body_without_protected()

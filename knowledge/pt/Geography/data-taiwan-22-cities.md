@@ -28,10 +28,10 @@ imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:446265901543dd85'
-sourceBodyHash: 'sha256:2daf1a831ec93084'
-translatedAt: '2026-09-23T04:15:45+08:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:426316f6a96d8460'
+sourceBodyHash: 'sha256:035cd9cc6b8c328a'
+translatedAt: '2026-10-15T03:20:05.142255+00:00'
 ---
 
 # Olhando Taiwan por dados: 22 condados e cidades — a diferença entre o mais superlotado e o mais vazio é de 151 vezes; entre o mais velho e o mais jovem, quase uma geração
@@ -50,65 +50,66 @@ Este artigo pretende fazer uma coisa: com dados oficiais, desenhar um retrato co
 
 > **30 segundos de resumo:** No final de 2025, a população total de Taiwan era de 23.299.132 pessoas (cerca de 23,3 milhões), já em declínio por 23 meses consecutivos, com o número de recém-nascidos caindo pela primeira vez abaixo de 110.000. No mesmo ano, Taiwan oficialmente entrou na "sociedade superenvelecida", com uma em cada cinco pessoas com mais de 65 anos. Mas a média nacional esconde grandes disparidades internas: a diferença entre os condados com maior e menor densidade populacional é de 151 vezes; a diferença entre os maiores e menores em termos de população é de 297 vezes; a diferença entre os mais envelhecidos e mais jovens é de quase uma geração. As pessoas se concentram nas seis grandes cidades; a fronteira do envelhecimento não está nas cidades, mas no leste, ilhas e condados rurais; o lugar mais jovem é o condado de Hsinchu, sustentado pelo parque tecnológico. Esta é uma Taiwan dividida e envelhecendo.
 
-## 70% da população, 30% do território
+## Setenta por cento das pessoas, trinta por cento da terra
 
-Primeiro, um fato fácil de ignorar: os taiwaneses realmente vivem muito concentrados.
+Primeiro, observe um fato que é facilmente ignorado: os taiwaneses vivem de forma extremamente concentrada.
 
-No final de 2025, as seis cidades administrativas (Taipei, Nova Taipei, Taoyuan, Taichung, Tainan, Kaohsiung) juntas abrigavam 16.278.931 pessoas, representando 69,87% da população total do país. Em outras palavras, de cada dez taiwaneses, quase sete moram nas seis grandes cidades. Mas essas seis cidades ocupam apenas 30,12% da área total do país. Setenta por cento da população apertada em 30% do território. Os outros 30% da população estão espalhados por outros 70% do território. Esta é a primeira estrutura da distribuição populacional de Taiwan.
+No final de 2025, as seis cidades especiais (Taipé, Nova Taipei, Taoyuan, Taichung, Tainan e Kaohsiung) totalizavam 16.278.931 habitantes, o que representa 69,87% da população total de Taiwan. Em outras palavras, quase sete em cada dez taiwaneses vivem nessas seis cidades. No entanto, a área terrestre dessas seis cidades somadas ocupa apenas 30,12% do território de Taiwan. Setenta por cento das pessoas estão espremidas em trinta por cento da terra. Os outros trinta por cento da população estão espalhados pelos restantes setenta por cento do território. Esta é a primeira estrutura da distribuição populacional de Taiwan.
 
 ```tw-stat
-23,3 milhões | População total do país | No final de 2025, em declínio por 23 meses consecutivos
-20,06% | Proporção de pessoas com 65 anos ou mais | Em 2025, oficialmente ultrapassou o limiar de sociedade superenvelecida
-69,87% | Proporção da população das seis grandes cidades | Mas habitam apenas 30% do território
+23,3 milhões | População total de Taiwan | No final de 2025, em queda há 23 meses consecutivos
+20,06% | Proporção da população com 65 anos ou mais | Em 2025, ultrapassou oficialmente o limiar da sociedade superenvelhecida
+69,87% | Proporção da população nas seis cidades especiais | Mas vivem em apenas 30% do território
+Fonte: Estatísticas Populacionais do Departamento de Registro Civil do Ministério do Interior (população total no final de 2025, proporção de pessoas com 65 anos ou mais, proporção populacional das seis cidades especiais) e dados sobre a reforma administrativa das cidades especiais[^1][^4]
 ```
 
-Este padrão de sete para três não surgiu naturalmente; tem um ponto de partida institucional claro. Em 25 de dezembro de 2010, Taiwan reorganizou seu território administrativo: o condado de Taipei foi elevado à categoria de Nova Taipei; os condados e cidades de Taichung, Tainan e Kaohsiung foram fundidos; junto com a antiga cidade de Taipei, cinco cidades administrativas foram criadas ao mesmo tempo. Em dezembro de 2014, Taoyuan foi elevada à sexta cidade administrativa. Em apenas quatro anos, Taiwan passou de duas cidades administrativas para seis, e a balança de recursos, orçamentos e construção também se inclinou.
+Este cenário de sete para três não se formou naturalmente; ele tem um ponto de partida institucional claro. Em 25 de dezembro de 2010, Taiwan reestruturou seu mapa administrativo de uma só vez: o condado de Taipei foi elevado a Nova Taipei, os condados e cidades de Taichung, Tainan e Kaohsiung foram fundidos e, somando-se à cidade de Taipei original, cinco cidades especiais nasceram simultaneamente. Quatro anos depois, em 25 de dezembro de 2014, Taoyuan foi elevada à categoria de sexta cidade especial. Em apenas quatro anos, Taiwan passou de duas para seis cidades especiais, e a balança de recursos, orçamento e infraestrutura inclinou-se junto com essa mudança. [^4]
 
-A elevação nunca foi apenas uma mudança de nome. As cidades administrativas recebem mais fundos de distribuição centralizados, mais quadros de pessoal e mais autonomia fiscal — muito mais do que os condados comuns. Onde há construção, há empregos; onde há empregos, os jovens se mudam. O sistema traçou uma linha primeiro, e a população fluíu ao longo dessa linha. O que vemos hoje — a concentração nas seis grandes cidades — é, em certa medida, o fruto dessa reforma administrativa de 2010, alguns anos depois.
+Uma elevação de status nunca é apenas uma mudança de nome. As transferências governamentais, o quadro de pessoal e as receitas fiscais próprias que uma cidade especial recebe são muito superiores aos de um condado ou cidade comum. Para onde a infraestrutura vai, as oportunidades de trabalho crescem; para onde elas vão, os jovens se mudam. O sistema traçou uma linha primeiro, e a população fluiu ao longo dela. A concentração nas seis cidades especiais que vemos hoje é, de certa forma, o fruto colhido mais de uma década após a reforma de 2010.
 
-O gráfico abaixo mostra com mais clareza "onde os taiwaneses moram". Uma única cidade — Nova Taipei — abriga 17,4% da população nacional; Taichung tem 12,3%; Kaohsiung 11,7%; Taipei 10,5%; Taoyuan 10,1%; Tainan 7,9% — juntas, as seis cidades chegam perto de 70%. As outras 16 cidades e condados, espalhados de norte a sul, das ilhas, somam apenas 30,1%.
+O gráfico abaixo detalha com mais clareza "onde os taiwaneses vivem". Apenas a cidade de Nova Taipei abriga 17,4% da população nacional; Taichung tem 12,3%, Kaohsiung 11,7%, Taipé 10,5%, Taoyuan 10,1% e Tainan 7,9% — as seis cidades especiais somadas chegam perto de 70%. Já os outros 16 condados e cidades espalhados por todo o país, do norte até as ilhas remotas, somam apenas 30,1%.
 
 ```tw-waffle
-Onde os taiwaneses moram (porcentagem da população nacional)
+Onde vivem os taiwaneses (% da população nacional)
 Nova Taipei | 17.4
 Taichung | 12.3
 Kaohsiung | 11.7
-Taipei | 10.5
+Taipé | 10.5
 Taoyuan | 10.1
 Tainan | 7.9
-Outras 16 cidades e condados | 30.1
-Fonte: Ministério do Interior, Departamento de Registro Civil, final de 2025
+Outros 16 condados/cidades | 30.1
+Fonte: Departamento de Registro Civil do Ministério do Interior, final de 2025
 ```
 
-Olhe por mais tempo para essa grade, e você se perguntará: como é a vida daqueles 30% que vivem em 70% do território? A resposta está na densidade.
+Se você observar este gráfico de quadrantes por um tempo, surgirá uma questão: que tipo de vida levam aquelas pessoas que compõem os 30% espalhados pelos 70% de território? A resposta está na densidade.
 
-![Horizonte da cidade de Taipei, Zona da Xinyi e Nan'gang, com arranha-céus de residências e escritórios empilhados](/article-images/society/taipei-skyline-housing-2026.webp)
-_A horizonte de Taipei. A cidade mais superlotada do país, com 8.975 pessoas por km². Foto: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
+![Skyline de arranha-céus nas áreas de Xinyi e Nangang, em Taipé, com residências e escritórios comerciais densamente empilhados](/article-images/society/taipei-skyline-housing-2026.webp)
+_O skyline de Taipé. O condado mais denso de Taiwan, com 8.975 pessoas por quilômetro quadrado. Photo: Heeheemalu, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg)._
 
-## Da mais superlotada à mais vazia, a diferença é de 151 vezes
+## Do mais denso ao mais vazio: uma diferença de 151 vezes
 
-A concentração populacional trata de "quantas pessoas"; a densidade trata de "quão apertado". O segundo é mais capaz de fazer você sentir a distância entre os dois Taiwans.
+Quando falamos de concentração populacional, referimo-nos a "quantas pessoas" existem; quando falamos de densidade, referimo-nos a "quão apertado" é o espaço. Esta última dimensão é o que realmente permite sentir a distância entre os dois lados de Taiwan.
 
-Taipei tem 8.975 pessoas por km², a cidade mais superlotada do país. A superlotação é parte da vida cotidiana em Taipei: o metrô lotado nos horários de pico, semáforos com longas esperas, prédios altos e estreitos. Logo depois vem Hsinchu, com 4.376 pessoas por km² — nem chega à metade de Taipei. Depois, Keelung, com 2.710. Apenas essas três cidades mais superlotadas já mostram uma queda abrupta na densidade.
+A cidade de Taipé possui 8.975 pessoas por quilômetro quadrado, sendo o lugar mais denso de todo o país. A lotação em Taipé é parte do cotidiano: o metrô (MRT) fica superlotado nos horários de pico, os semáforos exigem esperas prolongadas e as casas são construídas altas e estreitas. Logo em seguida, a cidade de Hsinchu possui 4.376 pessoas por quilômetro quadrado, menos da metade de Taipé. Depois vem a cidade de Keelung, com 2.710 pessoas. Somente entre essas três cidades mais densas, já se nota uma queda abrupta na densidade.
 
 ```tw-bars
-Taipei | 8.975 pessoas/km²
+Taipé | 8.975 pessoas/km²
 Hsinchu | 4.376 pessoas/km²
 Keelung | 2.710 pessoas/km²
 Changhua | 1.126 pessoas/km²
 Hualien | 68 pessoas/km²
-Taitung | 59 pessoas/km² | A cidade mais vazia do país
+Taitung | 59 pessoas/km² | O mais vazio de Taiwan
 Fonte: Ministério do Interior, Departamento de Registro Civil, final de 2025
 ```
 
-Mova a atenção para o outro extremo desse gráfico de barras, e a diferença realmente se torna visível. Changhua tem 1.126 pessoas por km², o que é relativamente denso para um condado agrícola. Chegamos ao [condado de Hualien](/pt/geography/hualien-county/), onde o número cai para 68. No fundo, o condado de Taitung, com apenas 59 pessoas por km². A quantidade de pessoas que cabem em 1 km² em Taipei é equivalente à que cabem em 151 km² em Taitung. Esta é a realidade por trás da diferença de 151 vezes — você dirigindo da Zona da Xinyi até Taitung, vendo a densidade populacional diminuindo à frente dos seus olhos.
+Ao deslocar o olhar para o outro extremo deste gráfico de barras, a disparidade torna-se realmente evidente. O condado de Changhua, com 1.126 pessoas por quilômetro quadrado, já é considerado relativamente denso para um condado agrícola. Ao chegar em [Hualien](/pt/geography/hualien-county/), o número cai para 68 pessoas. Na base da lista, o condado de Taitung tem apenas 59 pessoas por quilômetro quadrado. A quantidade de pessoas que cabe em um único quilômetro quadrado de Taipé equivale ao que caberia em 151 quilômetros quadrados de Taitung. Esta é a face real da diferença de 151 vezes — você dirige do distrito de Xinyi em direção a Taitung e vê, com seus próprios olhos, a população rarefeita pela janela.
 
-Aqui também há um fato geográfico por trás. O maior condado da ilha é Hualien, com 4.628 km², quase toda a cordilheira central do leste. Grande área, pouca gente, muitas montanhas — naturalmente, Hualien e Taitung têm a menor densidade populacional. O menor condado, [Kinmen](/pt/geography/lienchiang-county/), tem apenas 28,8 km². A densidade populacional depende metade da escolha das pessoas e metade do relevo natural.
+Há um fato geográfico sustentando isso. O condado com a maior área de Taiwan é Hualien, com 4.628 quilômetros quadrados, abrangendo quase todo o lado leste da Cordilheira Central. Com grande extensão territorial, pouca gente e muitas montanhas, a densidade de Hualien e Taitung é naturalmente diluída para os níveis mais baixos do país. Já o menor, o [condado de Lienchiang](/pt/geography/lienchiang-county/), possui apenas 28,8 quilômetros quadrados. A questão da densidade é metade uma escolha humana e metade determinada pelo terreno.
 
-A definição comum tende a tratar "alta densidade populacional" como progresso e "baixa densidade" como subdesenvolvimento, mas essa correspondência inverte a causalidade. A baixa densidade de Taitung não é porque ele não conseguiu se desenvolver; é porque ele tem as montanhas nas costas e o Oceano Pacífico à frente, uma condição geográfica natural de baixa densidade. O "vazio" de Hualien contém o parque nacional de Taroko, a cordilheira costeira e a paisagem montanhosa mais completa de Taiwan. O número de densidade populacional apenas diz se as pessoas estão apertadas; não diz o valor da terra. Colocando os 22 condados da ilha em uma escala do mais superlotado ao mais vazio, você vê como diferentes formas de vida crescem em diferentes terrenos da ilha.
+É comum associar diretamente "alta densidade populacional" ao progresso e "baixa densidade" ao atraso, mas essa relação inverte a causalidade. A baixa densidade de Taitung não ocorre porque ela não consegue se desenvolver, mas sim porque está encostada nas montanhas e voltada para o Oceano Pacífico, possuindo condições geográficas natas de vastidão e pouca gente. O "vazio" de Hualien abriga Taroko, a Cordilheira Costeira e as paisagens montanhosas mais completas da parte posterior de Taiwan. Os números de densidade apenas dizem se o lugar é apertado ou não; eles não dizem nada sobre o valor daquela terra. Ao organizar os 22 condados e cidades de Taiwan em um espectro que vai do denso ao vazio, o que você vê é uma ilha desenvolvendo diferentes modos de vida conforme a sua topografia.
 
-![Avenida de Boerlan em Taitung, cerca de 2,2 km de estrada rural reta, com arrozais abertos dos dois lados, sem postes](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
-_A avenida de Boerlan em Taitung. O condado mais vazio do país, com 59 pessoas por km² — um centésimo e cinquenta e um de Taipei. Foto: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg).\_
+![Estrada de Chihshang, Taitung: uma estrada rural reta de cerca de 2,2 km, ladeada por campos de arroz abertos e sem postes de eletricidade](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg/1280px-29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_%2828896712393%29.jpg)
+_A Estrada de Chihshang em Taitung. O condado mais vazio da mesma ilha tem apenas 59 pessoas por quilômetro quadrado, sendo um centésimo e cinquenta e um avos de Taipé. Photo: Sinchen.Lin, CC BY 2.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>).\_
 
 ## Gigantes e partículas
 
@@ -172,40 +173,41 @@ Hsinchu (condado) com 15,08% versus Chiayi (condado) com 24,11% — a diferença
 
 Aqui, precisamos corrigir um equívoco comum: muitos acreditam que o envelhecimento é exclusividade do interior e ilhas, e que as grandes cidades, com mais jovens e oportunidades, deveriam ser imunes ao envelhecimento. Os dados dizem que não. A cidade de Taipei tem uma taxa de envelhecimento de 24,18%, a mais alta do país; seu índice de envelhecimento de 202,06 também é o mais alto entre as seis grandes cidades. A cidade mais próspera e com mais recursos de Taiwan é, ao mesmo tempo, a mais envelhecida entre as seis grandes cidades. A razão é simples: os preços imobiliários em Taipei são altos, e jovens casais são empurrados para Nova Taipei e Taoyuan para ter filhos; quem permanece na cidade são os que se estabeleceram cedo e agora estão envelhecendo. A prosperidade urbana não impede o envelhecimento — apenas o faz de outra forma. O envelhecimento não é uma doença de alguns condados; é a condição comum de toda a ilha, apenas com ritmos diferentes.
 
-## Uma ilha, envelhecendo juntos
+## Uma ilha, envelhecendo junta
 
-Ao afastar o foco dos condados para o país como um todo, a história do envelhecimento de Taiwan tem outra dimensão preocupante: a velocidade.
+Ao afastar o foco dos condados e cidades para o nível nacional, a história do envelhecimento em Taiwan revela uma dimensão ainda mais alarmante: a velocidade.
 
-Taiwan não começou a envelhecer agora. Em 1993, a proporção nacional de pessoas com 65 anos ou mais ultrapassou 7%, entrando na definição internacional de "sociedade envelhecida". Em 2018, esse número chegou a 14,05%, entrando na fase de "sociedade envelhecida". Em 2025, ultrapassou 20%, tornando-se "sociedade superenvelecida". Esses três marcos parecem apenas três datas, mas escondem uma curva de descida acelerada.
+Taiwan não começou a envelhecer agora. Em 1993, a proporção da população com 65 anos ou mais ultrapassou 7%, entrando na fase de "sociedade em processo de envelhecimento", de acordo com as definições internacionais. Em 2018, esse número atingiu 14,05%, entrando na "sociedade envelhecida". Em 2025, ultrapassou novamente os 20%, tornando-se uma "sociedade superenvelhecida". Esses três marcos parecem ser apenas anos distintos, mas escondem uma descida cada vez mais acelerada.
 
 ```tw-timeline
-1993 | Sociedade envelhecida | 65+ ultrapassou 7%, Taiwan começou a envelhecer
-2018 | Sociedade envelhecida | 65+ atingiu 14%, 25 anos após o primeiro marco
-2025 | Sociedade superenvelecida | 65+ ultrapassou 20%, apenas 7 anos após o segundo marco
+1993 | Sociedade em processo de envelhecimento | 65+ acima de 7%, Taiwan começa a envelhecer
+2018 | Sociedade envelhecida | 65+ atinge 14%, 25 anos após o estágio anterior
+2025 | Sociedade superenvelhecida | 65+ ultrapassa 20%, esta etapa levou apenas 7 anos
+Fonte: Estatísticas populacionais do Ministério do Interior e definições internacionais de envelhecimento (7% em 1993, 14,05% em 2018, 20% em 2025) [^1]
 ```
 
-Observe os intervalos entre esses marcos. De 7% a 14%, Taiwan levou 25 anos; mas de 14% a 20%, apenas 7 anos. Essa última etapa foi percorrida em menos de um terço do tempo da anterior. Taiwan está envelhecendo, e cada vez mais rápido. Esse ritmo é rápido em comparação com outros países, que levam décadas para ajustar sistemas de cuidados, previdência e saúde. Taiwan foi comprimido em sete anos, precisando construir todo um sistema de cuidados para idosos em uma janela curta.
+Observe os intervalos entre esses pontos na linha do tempo. De 7% para 14%, Taiwan levou 25 anos; mas de 14% para 20%, levaram apenas 7 anos. Este último trecho consumiu menos de um terço do tempo do anterior. Taiwan está envelhecendo, e cada vez mais rápido. Isso é considerado abrupto mesmo em comparação com outros países; enquanto outras nações têm décadas para ajustar gradualmente seus sistemas de cuidados de longa duração, pensões e saúde, Taiwan foi comprimida em apenas sete anos, tendo que construir todo um sistema de assistência à terceira idade dentro de uma janela de tempo curtíssima.
 
 ```tw-line
-Proporção nacional de pessoas com 65 anos ou mais (em %)
-Ano | Proporção de 65+
-2000 | 8.6
-2010 | 10.7
-2020 | 16.1
-2025 | 20.06
+Aumento da proporção da população com 65 anos ou mais ( %)
+Ano | Proporção 65+
+2000 | 8,6
+2010 | 10,7
+2020 | 16,1
+2025 | 20,06
 Fonte: Ministério do Interior, Conselho Nacional de Desenvolvimento
 ```
 
-Essa linha ascendente torna a aceleração mais clara. Em 2000, a proporção nacional de pessoas com 65 anos ou mais era de 8,6%; em 2010, 10,7% — uma década para subir cerca de dois pontos percentuais. Mas entre 2010 e 2020, o número saltou de 10,7% para 16,1%, e até 2025, chegou a 20,06%. A inclinação da linha no final é claramente mais íngreme que no início. A curva de envelhecimento de Taiwan está se tornando mais íngreme.
+Esta linha ascendente torna a aceleração ainda mais clara. Em 2000, a proporção nacional de pessoas com 65 anos ou mais era de 8,6%; em 2010, era de 10,7% — um aumento de pouco mais de 2 pontos percentuais em dez anos. No entanto, nos dez anos entre 2010 e 2020, o número saltou de 10,7% para 16,1%, chegando a 20,06% em 2025. O final da linha é visivelmente mais íngreme que o início. A curva de envelhecimento de Taiwan está se curvando para cima.
 
-O outro lado do envelhecimento é o colapso do nascimento. Em 2025, o número de recém-nascidos em Taiwan caiu pela primeira vez abaixo de 110.000, com apenas 107.812 bebês. Declínio da natalidade e envelhecimento são duas faces da mesma moeda: mais idosos no topo, menos crianças chegando, e a estrutura populacional se torna cada vez mais desequilibrada. É por isso que os índices de envelhecimento dos condados são tão altos: mais idosos no topo, menos crianças na base.
+O outro lado do envelhecimento é o colapso na base das nascimentos. Em 2025, o número de recém-nascidos em Taiwan caiu abaixo de 110 mil pela primeira vez, registrando apenas 107.812 bebês. A baixa natalidade e o envelhecimento populacional são dois lados da mesma moeda: quanto mais idosos há no topo, menos crianças entram pela base, tornando a estrutura populacional cada vez mais desequilibrada. É por isso que os índices de envelhecimento daqueles condados mencionados anteriormente são tão altos: há mais idosos no topo e pouquíssimas crianças na base.
 
-> **📝 Nota do curador**
-> Costumamos entender "diminuição da população" como "jovens migrando do interior para as cidades, então o interior diminui e as cidades aumentam", como se fosse apenas uma mudança de moradia dentro da ilha. Mas os dados de 2025 revelam algo mais fundamental: em todos os 22 condados, o "aumento natural" é negativo. Ou seja, em Taiwan, em cada condado, sem distinção de cidade ou campo, de grande ou pequeno, as mortes já superam os nascimentos. Isso já não é uma questão de para onde as pessoas estão migrando; é a própria ilha que está morrendo mais do que nasce. A migração apenas redistribui a população que já está diminuindo; não cria nenhuma nova vida.
+> **📝 Nota do Curador**
+> É fácil interpretar a "diminuição populacional" como "jovens mudando do campo para as cidades, logo o campo diminui e a cidade aumenta", como se fosse apenas uma mudança interna de residência. Mas os dados de 2025 revelam algo muito mais fundamental: o "crescimento natural" em todos os condados e cidades de Taiwan é negativo. Ou seja, em cada condado ou cidade de Taiwan, independentemente de ser urbano ou rural, grande ou pequeno, o número de mortes superou o de nascimentos. Isso não é mais uma questão de fluxo migratório; é a ilha inteira em um processo de retração vital. A migração apenas redistribui uma população que já está encolhendo; ela não cria pessoas novas.
 
-Esse fato merece reflexão. Em 2025, apenas quatro condados ainda estavam crescendo: Taoyuan, Hsinchu (condado), Taichung e Hsinchu (cidade). E seu crescimento vem inteiro do "aumento social", ou seja, migração de pessoas de outros condados — não de nascimentos próprios. Além desses quatro, os outros 18 condados estão todos em declínio. Os que mais declíncios são Kinmen, Matsu e Taipei — note que até a cidade mais próspera, Taipei, aparece nessa lista de perda. Quando cada canto da ilha tem mais mortes que nascimentos, esses quatro condados que ainda crescem são apenas temporariamente sustentados pelo declínio dos outros.
+Este fato merece uma reflexão profunda. Em 2025, restam apenas quatro condados e cidades com crescimento populacional em Taiwan: Taoyuan, condado de Hsinchu, Taichung e a cidade de Hsinchu. E o crescimento deles provém inteiramente do "crescimento social", ou seja, da migração de pessoas de outras regiões — eles sobrevivem atraindo habitantes de outros condados, não pelo próprio nascimento. Exceto por esses quatro, a população de todos os outros 18 condados e cidades diminuiu. Entre os que registraram as maiores quedas estão o condado de Kinmen, o condado de Lienchiang e Taipei. Note que até a próspera Taipei está nesta lista de perdas. Quando os nascimentos em cada canto do país não conseguem compensar as mortes, esses quatro condados que ainda crescem estão, na verdade, apenas apoiados temporariamente sobre a perda alheia.
 
-É por isso que a população total caiu por 23 meses consecutivos, atingindo 23.299.132 pessoas. É uma contração sincronizada de toda a ilha; cada condado está encolhendo. A diferença é que alguns conseguem se manter com a entrada de pessoas de outros lugares, enquanto outros nem isso.
+É por isso que a população total diminuiu consecutivamente por 23 meses, caindo para 23.299.132 pessoas. É uma contração sincronizada de toda a ilha; cada condado está encolhendo. A diferença é que alguns lugares conseguem manter as aparências temporariamente graças à migração, enquanto outros não possuem sequer esse amortecedor.
 
 ## O retrato desenhado pelos dados
 

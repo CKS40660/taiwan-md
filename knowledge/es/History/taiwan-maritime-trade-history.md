@@ -1,14 +1,14 @@
 ---
 title: 'Historia del comercio marítimo de Taiwán'
-description: 'La era de los descubrimientos en Taiwán: la leyenda de auge y caída, de centro comercial internacional a reino pirata'
+description: 'Durante la Era de los Descubrimientos en los siglos XVI y XVII, esta isla no era un pequeño rincón remoto de Asia Oriental, sino un importante centro comercial que conectaba China, Japón y el Sudeste Asiático. La Compañía Neerlandesa de las Indias Orientales construyó Fort Zeelandia en Tainan; importaba seda, porcelana y té de China, obtenía lingotes de plata de Japón y actuaba como punto de transbordo para especias y madera provenientes del Sudeste Asiático, siendo apodada la Ámsterdam de Asia Oriental. Por su parte, la dinastía Zheng estableció una hegemonía marítima, escribiendo una historia de auge y caída que transformó un centro comercial en un reino de piratas.'
 date: 2026-03-20
 category: 'History'
 tags:
   [
     'comercio marítimo',
-    'era de los descubrimientos',
+    'Era de los Descubrimientos',
     'comercio internacional',
-    'piratería',
+    'piratas',
     'ciudades portuarias',
   ]
 subcategory: '史前與原住民'
@@ -20,10 +20,10 @@ difficulty: 'beginner'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-08-04T16:32:38+08:00'
+translatedAt: '2026-10-15T19:12:31.859042+00:00'
 ---
 
 # Historia del comercio marítimo de Taiwán

@@ -1,0 +1,7 @@
+{
+  "description": "機械基準線選邊規則（跑任何讀數之前寫定）：四個讀數都是越低越好。每個讀數投票給較低的那一版，相等不投。多數決選邊；二比二時看 prose-health score；再相等記為不選，命中數算 0.5（等同擲硬幣的期望值）。讀數一律取 raw/ 的原檔（文章在該 commit 的完整原樣），opening-readability 量前 4 段（工具預設）。",
+  "opening_keys": ["num_per_100", "avg_sentence", "qualifiers"],
+  "prose_health": "article-health.py --check=prose-health --output json 的 info 行 'prose-health score: N'",
+  "lower_is_better": true,
+  "tie_policy": "2-2 → prose_health_score 低者；仍相等 → tie，hit=0.5"
+}

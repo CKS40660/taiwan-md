@@ -1,14 +1,14 @@
 ---
-title: 'Nông nghiệp công nghệ và nông nghiệp cao đẳng'
-description: 'Đài Loan cách mạng chuyển đổi từ nông nghiệp truyền thống sang nông nghiệp cao đẳng công nghệ, tạo ra phép màu nông nghiệp'
+title: 'Công nghệ nông nghiệp và nông nghiệp tinh vi'
+description: 'Với diện tích đất chưa đầy 10.000 km², Đài Loan từ thời cha đẻ lúa Penglai là Iso Eikichi đã tiến hành cải tạo giống cây trồng lâu dài, phát triển ra các sản phẩm nông nghiệp tinh vi như lan hoa, na sữa (atemoya), trà cao núi, chiếm vị trí quan trọng trên thị trường quốc tế; ngành nông nghiệp và chuỗi giá trị nông thực phẩm hơn nữa tạo ra việc làm rộng lớn, nay kết hợp các công nghệ mới như Internet vạn vật (IoT) chuyển hướng sang nông nghiệp thông minh, thay thế nông nghiệp thô sơ bằng nông nghiệp tinh vi, thay thế lao động bằng công nghệ, khẳng định vị thế độc đáo của quốc gia nhỏ trong cạnh tranh nông nghiệp toàn cầu.'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'Nông nghiệp cao đẳng',
-    'Nông nghiệp công nghệ',
+    'Nông nghiệp tinh vi',
+    'Công nghệ nông nghiệp',
     'Lan hoa',
-    'Thơm lêo',
+    'Na sữa (atemoya)',
     'Nông nghiệp thông minh',
   ]
 subcategory: '農業經濟'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: '83cd5d0f3'
+sourceCommitSha: 'bfe3c4861'
 sourceContentHash: 'sha256:5226e0cd696e818f'
 sourceBodyHash: 'sha256:3697d708565efd02'
-translatedAt: '2026-09-21T00:58:30+08:00'
+translatedAt: '2026-10-15T22:42:10.158675+00:00'
 ---
 
 # Nông nghiệp công nghệ và nông nghiệp cao đẳng

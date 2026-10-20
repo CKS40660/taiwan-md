@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T22:06:11.929Z",
+  "lastUpdated": "2026-10-19T22:06:11.313Z",
   "totals": {
     "contributors": 78,
     "activeWindow": "last 30d"
@@ -7,15 +7,15 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10113,
+      "commits": 10179,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-10 23:49:38 +0800",
+      "lastCommitAt": "2026-10-18 13:47:44 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 1759,
-        "system": 5155,
+        "system": 5168,
         "translation": 2456
       }
     },
@@ -34,8 +34,22 @@
       }
     },
     {
+      "login": "tboydar",
+      "commits": 140,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "firstCommitAt": "2026-03-23 22:51:19 +0800",
+      "lastCommitAt": "2026-10-18 23:41:23 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 57,
+        "system": 9,
+        "translation": 88
+      }
+    },
+    {
       "login": "aminzai",
-      "commits": 108,
+      "commits": 116,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -45,20 +59,6 @@
         "content": 0,
         "system": 0,
         "translation": 0
-      }
-    },
-    {
-      "login": "tboydar",
-      "commits": 104,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-12 19:35:20 +0800",
-      "primaryArea": "translation",
-      "breakdown": {
-        "content": 22,
-        "system": 8,
-        "translation": 88
       }
     },
     {
@@ -302,18 +302,18 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "aminzai",
-      "name": "aminzai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
-      "types": ["💻"]
-    },
-    {
       "login": "tboydar",
       "name": "Dar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "types": ["💻", "🖋️", "🌍"]
+    },
+    {
+      "login": "aminzai",
+      "name": "aminzai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "types": ["💻"]
     },
     {
       "login": "Link1515",
@@ -909,15 +909,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10113,
+      "commits": 10179,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-10 23:49:38 +0800",
+      "lastCommitAt": "2026-10-18 13:47:44 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 1759,
-        "system": 5155,
+        "system": 5168,
         "translation": 2456
       }
     },
@@ -981,15 +981,15 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 104,
+      "commits": 140,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-12 19:35:20 +0800",
+      "lastCommitAt": "2026-10-18 23:41:23 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 22,
-        "system": 8,
+        "content": 57,
+        "system": 9,
         "translation": 88
       }
     },
@@ -1050,7 +1050,7 @@
       }
     }
   ],
-  "weeklyActive": 3,
-  "monthlyActive": 4,
+  "weeklyActive": 2,
+  "monthlyActive": 3,
   "recentlyJoined": []
 }

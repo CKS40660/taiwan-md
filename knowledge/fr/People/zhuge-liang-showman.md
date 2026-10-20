@@ -1,26 +1,26 @@
 ---
-title: 'Chu Ke-liang'
-description: 'Figure de la culture des spectacles de variété à Taïwan, acteur comique populaire, mort en 2017'
+title: 'Zhu Ge Liang'
+description: "De son vrai nom Hsieh Hsin-ta, né en 1946 à Zuoying, Kaohsiung. Son père était forgeron et sa mère marchande de légumes. Il a quitté l'école après le primaire pour devenir apprenti de l'opéra gézaï à l'âge de 15 ans. Dans les années 1960, il s'est fait connaître en imitant des stars dans les marchés de nuit. Avec l'essor économique de Taïwan dans les années 1970 et la demande croissante de divertissements nocturnes, la culture des spectacles de variétés a émergé. Il a fusionné l'opéra traditionnel, le conte populaire et des éléments pop pour créer son « humour style Zhu », utilisant l'improvisation et les rimes en taïwanais pour porter le langage populaire sur les plateaux de télévision. Il est décédé en mai 2017 d'un cancer du côlon."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
-    'Chu Ke-liang',
-    'spectacles de variété',
+    'Zhu Ge Liang',
+    'spectacle de variétés',
     'comédie',
-    'émissions de variétés',
+    'divertissement',
     'taïwanais',
   ]
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-10-15T23:00:09.184658+00:00'
 ---
 
 # Chu Ke-liang : le roi populaire de la culture des spectacles de variété taïwanais
@@ -137,12 +137,12 @@ Des linguistes ont analysé la structure de l’humour à la Chu et en ont déga
 
 ## Références
 
-[^1]: Entrée Wikipédia « 豬哥亮 », https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, lieu de naissance : district de Zuoying, Kaohsiung
+[^1]: Article Wikipédia « Zhu Ge Liang », https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, lieu de naissance : district de Zuoying, ville de Kaohsiung
 
-[^2]: _Liberty Times_, « 豬哥亮告別式 萬人送行 », https://news.ltn.com.tw/, 21 mai 2017
+[^2]: Liberty Times « Les funérailles de Zhu Ge Liang, 10 000 personnes pour un dernier adieu », https://news.ltn.com.tw/, 21 mai 2017
 
-[^3]: Base de données télévisuelle de Taïwan, https://tv.nccu.edu.tw/, archives de l’émission _Zhuge Huishe_
+[^3]: Taiwan TV Database, https://tv.nccu.edu.tw/, archives de l'émission « Zhu Ge Hui She »
 
-[^4]: Central News Agency, « 大尾鱸鰻票房逾3億 », https://www.cna.com.tw/, article de février 2013 sur le box-office
+[^4]: Central News Agency « Le box-office de Big Fish & Begonia dépasse les NT$300 millions », https://www.cna.com.tw/, rapport sur le box-office de février 2013
 
-[^5]: _United Daily News_, « 豬哥亮5月15日病逝 享年70歲 », https://udn.com/, 15 mai 2017
+[^5]: udn news « Zhu Ge Liang est décédé le 15 mai à l'âge de 70 ans », https://udn.com/, 15 mai 2017

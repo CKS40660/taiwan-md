@@ -1,14 +1,14 @@
 ---
-title: 'Doanh nghiệp Đài Loan: Cathay Financial Holdings'
-description: 'Công ty kiểm soát tài chính lớn nhất Đài Loan, đế chế tài chính do tập đoàn Lâm Viên xây dựng'
+title: 'Doanh nghiệp Đài Loan: Tập đoàn tài chính Quốc Thái (Cathay Financial Holding)'
+description: 'Tập đoàn tài chính lớn nhất Đài Loan: tổng tài sản NT$12 ngàn tỷ, dưới trướng có Cathay Life (Quốc Thái Nhân Thọ), Ngân hàng Cathay United (Quốc Thái Thế Hoa) và Cathay Century (Quốc Thái Sản hiểm). Tháng 11/2025 lợi nhuận đơn tháng đạt NT$14,62 tỷ, liên tiếp hai tháng dẫn đầu lợi nhuận. Đây là công ty bảo hiểm nhân thọ tư nhân đầu tiên tại Đài Loan, cũng là một trong những đơn vị sớm nhất thiết lập cấu trúc tập đoàn tài chính. Bài viết này xem xét cách Tập đoàn Lâm Viên nối liền bảo hiểm, ngân hàng và đầu tư thành một chuỗi liên tục.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
+    'Kinh tế',
     'Doanh nghiệp',
     'Ngành tài chính',
-    'Công ty kiểm soát tài chính',
+    'Tập đoàn tài chính',
     'Ngân hàng',
     'Bảo hiểm',
   ]
@@ -19,161 +19,160 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '24efd20f'
-sourceContentHash: 'sha256:90d80b3144435ec6ca0fc076d0e3d74f56679ac5b563e2ec778fe4b72dfdd926'
-sourceBodyHash: 'sha256:f5557a816c339738ccbdaf8a3cf00808465224cf49675edde4b29b36362cbd94'
-translatedAt: 2026-07-31T15:54:44Z
-imageAlt: 'Trụ sở Cathay Financial Holdings tại Đài Bắc'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:135918b4f99e7ae7'
+sourceBodyHash: 'sha256:ebc33c96c44483b0'
+translatedAt: '2026-10-15T17:14:33.976460+00:00'
 ---
 
-> **Tổng quan 30 giây**
+> **Tóm tắt 30 giây**
 >
-> Cathay Financial Holdings là công ty kiểm soát tài chính lớn nhất Đài Loan, với tổng tài sản lên tới 12 triệu tỷ đồng Đài (New Taiwan Dollar), sở hữu các công ty con như Bảo hiểm Nhân thọ Cathay, Ngân hàng Cathay United, Công ty bảo hiểm tổng hợp Cathay và các công ty khác. Trong tháng 11 năm 2025, công ty đạt lợi nhuận hơn 14,62 tỷ đồng Đài, giành chiếc vương miện "doanh nghiệp lãi suất cao nhất" trong hai tháng liên tiếp. Từ năm 1962 khi các anh em Thái Vạn Xuân và Thái Vạn Lâm thành lập Bảo hiểm Nhân thọ Cathay, công ty đã phát triển thành một đế chế tài chính bao trùm bảo hiểm, ngân hàng, chứng khoán và quỹ đầu tư, trở thành một nhân tố quan trọng trong lịch sử phát triển ngành tài chính Đài Loan.
+> Cathay Financial Holdings là công ty nắm giữ tài chính lớn nhất Đài Loan, tổng tài sản lên tới 12 nghìn tỷ NT$, sở hữu các công ty con như Cathay Life, Cathay United Bank, Cathay Century Insurance, v.v. Tháng 11/2025, lợi nhuận đơn tháng đạt 146,2 tỷ NT$, liên tục hai tháng giành ngôi vua lợi nhuận. Từ khi anh em Thái Vạn Xuân (Tsai Wan-chun) và Thái Vạn Lâm (Tsai Wan-lin) thành lập Cathay Life năm 1962, tập đoàn phát triển thành một đế chế tài chính trải dài bảo hiểm, ngân hàng, chứng khoán, đầu tư, trở thành lực lượng đẩy mạnh quan trọng trong lịch sử phát triển ngành tài chính Đài Loan.
 
-## Tại sao điều này lại quan trọng
+## Tại sao quan trọng
 
-Tầm quan trọng của Cathay Financial Holdings không chỉ nằm ở quy mô của nó, mà còn ở tác động sâu sắc đối với ngành tài chính Đài Loan. Đây là công ty bảo hiểm nhân thọ tư nhân đầu tiên của Đài Loan, đã khai mở con đường cho ngành bảo hiểm. Nó cũng là một trong những công ty đầu tiên thành lập cơ cấu công ty kiểm soát tài chính, dẫn dắt xu hướng tổng hợp trong ngành tài chính Đài Loan.
+Tầm quan trọng của Cathay Financial Holdings không chỉ nằm ở quy mô, mà còn ở tác động sâu rộng của nó đối với ngành tài chính Đài Loan. Đây là công ty bảo hiểm nhân thọ tư nhân đầu tiên tại Đài Loan, khai phá đường cho ngành bảo hiểm Đài Loan; đồng thời cũng là một trong những đơn vị sớm nhất thiết lập cấu trúc công ty nắm giữ tài chính, dẫn dắt xu hướng hợp nhất ngành tài chính Đài Loan.
 
-Trong quá trình tự do hóa tài chính Đài Loan, Cathay Financial Holdings đóng vai trò then chốt. Từ việc khởi đầu với bảo hiểm, đến bước vào ngành ngân hàng và chứng khoán, Cathay đã xây dựng một hệ thống dịch vụ tài chính bao trùm bảo hiểm, ngân hàng và đầu tư. Đối với những người dân bình thường, Cathay có thể là công ty bảo hiểm đầu tiên họ tiếp xúc với, hoặc có thể là ngân hàng chính mà họ sử dụng.
+Trong quá trình tự do hóa tài chính tại Đài Loan, Cathay Financial Holdings đóng vai trò then chốt. Khởi nghiệp từ bảo hiểm nhân thọ, mở rộng sang ngân hàng, chứng khoán, Cathay đã xây dựng hệ thống dịch vụ tài chính bao gồm bảo hiểm, ngân hàng, đầu tư. Đối với người dân phổ thông, Cathay có thể là công ty bảo hiểm đầu tiên họ tiếp xúc, cũng có thể là ngân hàng chính mà họ sử dụng.
 
-Cathay Financial Holdings đại diện cho sức mạnh của ngành tài chính bản địa Đài Loan. Trong bối cảnh cạnh tranh với các ngân hàng nước ngoài, Cathay có thể duy trì vị thế hàng đầu, chứng minh rằng ngành tài chính Đài Loan sở hữu sức cạnh tranh quốc tế.
+Cathay Financial Holdings đại diện cho thực lực ngành tài chính bản địa Đài Loan. Trong môi trường cạnh tranh với nhiều ngân hàng ngoại tài, Cathay vẫn duy trì vị thế dẫn đầu, chứng minh ngành tài chính Đài Loan có khả năng cạnh tranh quốc tế.
 
 ## Tổng quan doanh nghiệp
 
-Công ty kiểm soát tài chính Cathay thành lập năm 2001, là công ty kiểm soát tài chính đầu tiên được thành lập sau khi Luật Công ty kiểm soát tài chính Đài Loan được thông qua[^5]. Tập đoàn bắt đầu từ ngành bảo hiểm, hiện nay các công ty con chính bao gồm Bảo hiểm Nhân thọ Cathay, Ngân hàng Cathay United, Công ty bảo hiểm tổng hợp Cathay, Công ty chứng khoán Cathay, Công ty tín thác đầu tư Cathay, Công ty tư vấn đầu tư Cathay, v.v.
+Công ty Nắm giữ Tài chính Quốc Thái (Cathay Financial Holdings) thành lập năm 2001, là công ty nắm giữ tài chính đầu tiên thành lập sau khi Luật Công ty Nắm giữ Tài chính của Đài Loan được thông qua[^5]. Tập đoàn khởi nghiệp từ ngành bảo hiểm, hiện nay các công ty con chính bao gồm Cathay Life, Cathay United Bank, Cathay Century Insurance, Cathay Securities, Cathay Securities Investment Trust, Cathay Securities Investment Consulting, v.v.
 
-Lợi thế cạnh tranh cốt lõi của Cathay Financial Holdings nằm ở "Dịch vụ tài chính tổng hợp". Khách hàng có thể thưởng thức dịch vụ tài chính toàn diện từ bảo hiểm, ngân hàng, đầu tư cho tới tư vấn tài chính trong hệ thống Cathay. Mô hình bán chéo này không chỉ nâng cao độ trung thành của khách hàng, mà còn giảm đáng kể chi phí thu hút khách hàng.
+Sức cạnh tranh cốt lõi của Cathay Financial Holdings nằm ở 「Dịch vụ tài chính toàn diện」. Khách hàng có thể tận hưởng dịch vụ tài chính một cửa từ bảo hiểm, ngân hàng, đầu tư đến quản lý tài sản trong hệ sinh thái Cathay. Mô hình bán chéo này không chỉ tăng cường sự gắn kết của khách hàng, mà còn làm giảm đáng kể chi phí thu hút khách hàng mới.
 
-Chiến lược kinh doanh của tập đoàn tập trung vào "Chuyển đổi kỹ thuật số" và "Tài chính bền vững". Thông qua đổi mới công nghệ để nâng cao hiệu quả dịch vụ, thúc đẩy đầu tư ESG và tài chính xanh, hi vọng trở thành một tổ chức tài chính bền vững hàng đầu Châu Á.
+Chiến lược kinh doanh của tập đoàn tập trung vào 「Chuyển đổi số」 và 「Tài chính bền vững」. Thông qua đổi mới công nghệ nâng cao hiệu quả dịch vụ, thúc đẩy đầu tư ESG và tài chính xanh, với mục tiêu trở thành tổ chức tài chính bền vững hàng đầu tại Á Châu.
 
-## Những sự kiện quan trọng (nói chuyện qua con số)
+## Thực tế then chốt (Nói bằng con số)
 
-Một số con số của Cathay Financial Holdings, giải thích vị thế của nó trong ngành tài chính Đài Loan: 12 triệu tỷ đồng Đài tổng tài sản xếp hàng đầu các công ty kiểm soát tài chính toàn Đài Loan, thị phần bảo hiểm nhân thọ của Bảo hiểm Cathay xếp thứ nhất, lợi nhuận đơn tháng tháng 11 năm 2025 là 14,62 tỷ đồng Đài giành chiếc vương miện "doanh nghiệp lãi suất cao nhất".
+Vài con số của Quốc Thái Kim Khống cho thấy vị thế của nó trong ngành tài chính Đài Loan: tổng tài sản 12 nghìn tỷ NT$ đứng đầu các tập đoàn tài chính toàn Đài Loan, Quốc Thái Nhân Thọ chiếm thị phần số 1 bảo hiểm nhân thọ, tháng 11/2025 lợi nhuận đơn tháng 146,2 tỷ NT$ giành vị "vua lợi nhuận".
 
-Những con số này là kết quả của sáu mươi năm trở lên tích lũy. Từ năm 1962 với bước đầu là bảo hiểm, đến năm 2003 sáp nhập ngân hàng, rồi đến năm 2016 ra mắt thương hiệu ngân hàng kỹ thuật số KOKO, mỗi điểm chuyển tại Cathay đều để lại dấu ấn chỉ báo trong ngành tài chính Đài Loan.
+Những con số này là kết quả tích lũy hơn 60 năm. Từ khởi đầu bảo hiểm nhân thọ năm 1962, đến sáp nhập ngân hàng năm 2003, rồi ra mắt thương hiệu số KOKO năm 2016, mỗi bước ngoặt của Quốc Thái đều để lại dấu ấn mốc trong ngành tài chính Đài Loan.
 
-Tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) duy trì ở mức 10-12%, thuộc nhóm hàng đầu ngành trong thời đại lãi suất thấp, thể hiện hiệu quả của phân bổ tài sản và kiểm soát chi phí.
+ROE tổng thể duy trì ở mức 10-12%, trong thời đại lãi suất thấp thuộc nhóm dẫn đầu ngành, phản ánh hiệu quả của phân bổ tài sản và kiểm soát chi phí.
 
 **Quy mô tập đoàn**:
 
-- Tổng tài sản: 12 triệu tỷ đồng Đài, công ty kiểm soát tài chính lớn nhất Đài Loan[^2]
-- Vốn hóa thị trường: khoảng 700 tỷ đồng Đài (ước tính tháng 3 năm 2026)
-- Số lượng nhân viên: khoảng 50.000 người (bao gồm các chi nhánh nước ngoài)
+- Tổng tài sản: NT$12 nghìn tỷ, tập đoàn tài chính lớn nhất Đài Loan về quy mô[^2]
+- Giá trị thị trường: khoảng NT$700 tỷ (ước tính tháng 3/2026)
+- Số nhân viên: khoảng 50.000 người (kể cả các điểm ở nước ngoài)
 
-**Hiệu suất lợi nhuận**:
+**Biểu hiện lợi nhuận**:
 
-- Tháng 11 năm 2025 lợi nhuận ròng sau thuế: 14,62 tỷ đồng Đài, giành chiếc vương miện "doanh nghiệp lãi suất cao nhất" trong hai tháng liên tiếp[^3]
-- Lợi nhuận tích lũy trong 11 tháng năm 2025: ước tính khoảng 140 tỷ đồng Đài
-- ROE (Tỷ suất lợi nhuận trên vốn chủ sở hữu): khoảng 10-12%
+- Lợi nhuận thuần sau thuế đơn tháng 11/2025: NT$14,62 tỷ, liên tiếp 2 tháng giành "vua lợi nhuận"[^3]
+- Lợi nhuận tích lũy 11 tháng đầu năm 2025: ước tính khoảng NT$140 tỷ
+- ROE (Tỷ suất sinh lời trên vốn chủ sở hữu): khoảng 10-12%
 
 **Vị thế thị trường**:
 
-- Bảo hiểm nhân thọ: Bảo hiểm Nhân thọ Cathay là công ty bảo hiểm nhân thọ bản địa có thị phần đứng đầu Đài Loan
-- Ngân hàng: Ngân hàng Cathay United là ngân hàng tư nhân thứ ba lớn nhất Đài Loan
-- Bảo hiểm tổng hợp: Công ty bảo hiểm tổng hợp Cathay là một trong ba công ty bảo hiểm tổng hợp lớn nhất Đài Loan
-- Toàn bộ: Viện nghiên cứu đào tạo tài chính Đài Loan gọi đây là "tập đoàn ngân hàng khu vực châu Á quan trọng"
+- Bảo hiểm nhân thọ: Quốc Thái Nhân Thọ là công ty bảo hiểm nhân thọ bản địa có thị phần số 1 Đài Loan
+- Ngân hàng: Ngân hàng Quốc Thái Thế Hoa là ngân hàng tư nhân lớn thứ ba Đài Loan
+- Bảo hiểm phi nhân thọ: Quốc Thái Bảo Hiểm Phi Nhân Thọ nằm trong top 3 công ty bảo hiểm phi nhân thọ Đài Loan
+- Tổng thể: Viện Nghiên cứu và Đào tạo Tài chính Đài Loan gọi là "Tập đoàn ngân hàng trọng điểm khu vực châu Á"
 
-**Thành tựu chuyển đổi kỹ thuật số**:
+**Thành quả chuyển đổi số**:
 
-- Ứng dụng Ngân hàng Cathay United được tải xuống hơn 5 triệu lần
-- Số lượng tài khoản kỹ thuật số tăng hàng năm
-- Hệ thống trợ lý khách hàng AI xử lý tỷ lệ trên 60% các thắc mắc khách hàng
+- Lượt tải App Ngân hàng Quốc Thái Thế Hoa vượt 5 triệu
+- Số lượng mở tài khoản số tăng trưởng hàng năm
+- Hệ thống chăm sóc khách hàng AI xử lý trên 60% truy vấn của khách hàng
 
-**Bố trí quốc tế**:
+**Bố cục quốc tế**:
 
-- Có các chi nhánh tại Trung Quốc đại lục, Hồng Kông, Singapore, Việt Nam, Indonesia, v.v.
-- Sở hữu vị thế quan trọng trên thị trường Trung Quốc, hợp tác với các công ty địa phương để kinh doanh
+- Có điểm tại Trung Quốc đại lục, Hồng Kông, Singapore, Việt Nam, Indonesia, v.v.
+- Có vị thế quan trọng tại thị trường Trung Quốc, hợp tác kinh doanh với các đối tác địa phương
 
-## Quá trình phát triển: Từ tiên phong bảo hiểm đến nhà lãnh đạo công ty kiểm soát tài chính
+## Lịch trình phát triển: Từ người tiên phong bảo hiểm nhân thọ đến đầu tàu tập đoàn nắm giữ tài chính
 
-**Giai đoạn khởi nghiệp (1962-1980)**:
-Năm 1962, Thái Vạn Xuân (anh trai) và Thái Vạn Lâm cùng nhau thành lập "Công ty Bảo hiểm Nhân thọ Cathay"[^1], đây là công ty bảo hiểm nhân thọ tư nhân đầu tiên của Đài Loan. Lựa chọn tên "Cathay" (國泰), hàm ý "quốc vận xứng thái", phản ánh niềm tin của những người sáng lập đối với sự phát triển tương lai của Đài Loan. Thái Vạn Tài là em trai thứ tư, sau này thành lập tập đoàn Fubon; Thái Thần Châu là con trai của Thái Vạn Xuân (thế hệ tiếp theo), không phải người sáng lập cùng.
+**Khởi nghiệp (1962-1980)**:
+Năm 1962, Thái Vạn Xuân (anh cả) cùng Thái Vạn Lâm cùng thành lập «Công ty Bảo hiểm Nhân thọ Quốc Thái»[^1], đây là công ty bảo hiểm nhân thọ tư nhân đầu tiên tại Đài Loan. Việc chọn tên «Quốc Thái» mang ý nghĩa «Quốc vận hưng vượng, thái bình», phản ánh niềm tin của người sáng lập vào tương lai phát triển của Đài Loan. Thái Vạn Tài là anh em thứ tư, sau này tự lập thành lập Tập đoàn Fubon; Thái Thần Châu là con trai của Thái Vạn Xuân (thế hệ sau), không phải người sáng lập cùng.
 
-Giai đoạn khởi nghiệp phải đối mặt với nhiều thách thức. Lúc bấy giờ, người dân Đài Loan chưa có nhiều hiểu biết về bảo hiểm, khó khăn trong phát triển kinh doanh. Thái Vạn Tài sử dụng "chiến thuật biển người", đào tạo một lượng lớn nhân viên bán hàng, đi khắp Đài Loan để quảng bá khái niệm bảo hiểm. Cách kinh doanh "chân thực, chân chính" này, để kinh doanh bảo hiểm của Cathay thấm nhuần vào xã hội tầng lớp.
+Giai đoạn khởi nghiệp đối mặt nhiều thách thức. Lúc bấy giờ người dân Đài Loan nhận thức về bảo hiểm còn hạn chế, việc triển khai kinh doanh gặp khó khăn. Thái Vạn Tài áp dụng «chiến thuật biển người», đào tạo số lượng lớn nhân viên kinh doanh, đi khắp các vùng miền Đài Loan phổ biến khái niệm bảo hiểm. Cách quản trị «bước chân vững chắc» này khiến nghiệp vụ bảo hiểm của Quốc Thái thâm nhập vào cơ sở xã hội.
 
-Những năm 1970 kinh tế Đài Loan cất cánh, thu nhập của người dân tăng, nhu cầu về bảo hiểm bắt đầu gia tăng. Cathay nắm bắt cơ hội để mở rộng nhanh chóng, thiết lập mạng lưới dịch vụ khắp Đài Loan.
+Những năm 1970, kinh tế Đài Loan khởi động, thu nhập người dân tăng cao, nhu cầu bảo hiểm bắt đầu gia tăng. Quốc Thái nắm bắt cơ hội mở rộng nhanh chóng, thiết lập mạng lưới dịch vụ phủ khắp toàn Đài.
 
-**Giai đoạn đa dạng hóa (1980-2000)**:
-Những năm 1980, Cathay bắt đầu kinh doanh đa dạng hóa. Năm 1981 thành lập Công ty xây dựng Cathay, bước vào ngành bất động sản; năm 1987 thành lập Công ty chứng khoán Cathay, bước vào thị trường vốn; những năm 1990 tiếp tục bước vào ngành truyền thông, mua lại các tài sản truyền thông như Báo chiều China Times.
+**Đa dạng hóa (1980-2000)**:
+Những năm 1980, Quốc Thái bắt đầu kinh doanh đa dạng. Năm 1981 thành lập Quốc Thái Xây dựng, tham gia ngành bất động sản; năm 1987 thành lập Quốc Thái Chứng khoán, gia nhập thị trường vốn; những năm 1990 hơn nữa tham gia ngành truyền thông, mua lại Trung Thời Cảnh báo và các tài sản truyền thông khác.
 
-Trong giai đoạn này, Cathay hình thành cơ cấu "tập đoàn Lâm Viên", kinh doanh bao trùm tài chính, xây dựng, truyền thông và những lĩnh vực khác. Thái Vạn Lâm được tôn kính là "bậc thầy của ngành bảo hiểm Đài Loan", Cathay trở thành một trong những tập đoàn doanh nghiệp có ảnh hưởng lớn nhất Đài Loan.
+Giai đoạn này Quốc Thái hình thành kiến trúc «Tập đoàn Lâm Viên», kinh doanh ngang dọc tài chính, xây dựng, truyền thông等领域. Thái Vạn Lâm được tôn vinh là «Thái đấu của ngành bảo hiểm Đài Loan», Quốc Thái trở thành một trong những tập đoàn doanh nghiệp có ảnh hưởng nhất tại Đài Loan.
 
-Năm 1992, Bảo hiểm Nhân thọ Cathay và Công ty bảo hiểm nhân thọ Metropolitan của Hoa Kỳ hợp tác thành lập "Bảo hiểm Nhân thọ Cathay Metropolitan", đây là trường hợp hợp tác quốc tế đầu tiên của ngành bảo hiểm Đài Loan, tượng trưng cho sự bắt đầu quốc tế hóa của Cathay.
+Năm 1992, Quốc Thái Nhân thọ hợp tác với Metropolitan Life (Mỹ) thành lập «Quốc Thái Đại Đô Hội Nhân thọ», đây là trường hợp hợp tác quốc tế đầu tiên của ngành bảo hiểm Đài Loan, đánh dấu khởi đầu quá trình quốc tế hóa của Quốc Thái.
 
-**Thời đại công ty kiểm soát tài chính (2001-2010)**:
-Năm 2001 Luật Công ty kiểm soát tài chính được thông qua, Cathay ngay lập tức nộp đơn thành lập công ty kiểm soát tài chính, trở thành công ty kiểm soát tài chính đầu tiên của Đài Loan. Quyết định này thể hiện tính tầm nhìn xa và năng lực thực hiện của Cathay.
+**Thời đại công ty nắm giữ tài chính (2001-2010)**:
+Năm 2001 Luật Công ty nắm giữ tài chính được thông qua, Quốc Thái ngay lập tức xin thành lập công ty nắm giữ tài chính, trở thành công ty nắm giữ tài chính đầu tiên tại Đài Loan. Quyết định này thể hiện tầm nhìn xa và lực thi hành của Quốc Thái.
 
-Sau khi thành lập công ty kiểm soát tài chính, Cathay tiến hành tổng hợp hệ thống các sự nghiệp tài chính. Năm 2003 sáp nhập Công ty tín thác Cathay và Ngân hàng Cathay United, thành lập "Ngân hàng Cathay United", bước chính thức vào ngành ngân hàng. Vụ sáp nhập này làm cho bản đồ dịch vụ tài chính của Cathay trở nên hoàn thiện hơn.
+Sau khi thành lập công ty nắm giữ tài chính, Quốc Thái hệ thống hóa tích hợp các nghiệp vụ tài chính dưới trướng. Năm 2003 sáp nhập Quốc Thái Thìn託 và Ngân hàng Thế Hoa, thành lập «Ngân hàng Quốc Thái Thế Hoa», chính thức tham gia ngành ngân hàng. Vụ sáp nhập này làm cho bản đồ dịch vụ tài chính của Quốc Thái thêm hoàn chỉnh.
 
-Năm 2007 khủng hoảng tài chính toàn cầu bùng nổ, nhưng Cathay vì chiến lược đầu tư bảo thủ, chịu tác động tương đối nhẹ. Thay vào đó, tận dụng lúc các đối thủ cạnh tranh yếu đi để mở rộng thị phần.
+Năm 2007 bùng nổ khủng hoảng tài chính toàn cầu, nhưng nhờ chiến lược đầu tư bảo thủ, Quốc Thái bị ảnh hưởng nhẹ hơn so với đối thủ. Ngược lại, tận dụng lúc đối thủ suy yếu, Quốc Thái mở rộng tỷ trọng thị phần.
 
-**Giai đoạn chuyển đổi (2010-hiện nay)**:
-Sau 2010, ngành tài chính Đài Loan bước vào thời kỳ lãi suất thấp, sự tăng trưởng của kinh doanh truyền thống chậm lại. Cathay bắt đầu thúc đẩy chuyển đổi kỹ thuật số, đầu tư vào công nghệ tài chính.
+**Thời kỳ chuyển型 (2010-nay)**:
+Sau năm 2010, ngành tài chính Đài Loan bước vào thời đại lãi suất thấp, tăng trưởng nghiệp vụ truyền thống chậm lại. Quốc Thái bắt đầu thúc đẩy chuyển đổi số, đầu tư công nghệ tài chính.
 
-Năm 2016 Ngân hàng Cathay United ra mắt thương hiệu ngân hàng kỹ thuật số "KOKO", hướng tới đối tượng khách hàng trẻ. Thông qua trải nghiệm kỹ thuật số sáng tạo và tiếp thị mạng xã hội, KOKO đã thành công xâm nhập vào thị trường trẻ, trở thành điểm chuẩn của tài chính kỹ thuật số Đài Loan.
+Năm 2016 Ngân hàng Quốc Thái Thế Hoa tung ra thương hiệu ngân hàng số «KOKO», nhắm đến khách hàng trẻ. Nhờ trải nghiệm số đổi mới và marketing cộng đồng, KOKO thành công xâm nhập thị trường trẻ, trở thành tiêu chuẩn của tài chính số tại Đài Loan.
 
-Những năm gần đây Cathay thúc đẩy tài chính bền vững, cam kết đạt được lợi suất ròng bằng không của danh mục đầu tư vào năm 2050. Năm 2021 phát hành các trái phiếu liên quan phát triển bền vững, thúc đẩy phát triển tài chính xanh của Đài Loan.
+Gần đây Quốc Thái thúc đẩy tài chính bền vững, cam kết năm 2050 đạt phát thải ròng bằng không cho danh mục đầu tư. Năm 2021 phát hành trái phiếu liên quan đến phát triển bền vững, thúc đẩy phát triển tài chính xanh tại Đài Loan.
 
-## Ảnh hưởng toàn cầu: Đại diện ngành tài chính Đài Loan
+## Sức ảnh hưởng toàn cầu: Đại diện của ngành tài chính Đài Loan
 
-**Nhà sáng tạo ngành bảo hiểm**:
-Bảo hiểm Nhân thọ Cathay không chỉ là công ty bảo hiểm nhân thọ tư nhân đầu tiên Đài Loan, mà còn là nhà sáng tạo nhiều sản phẩm bảo hiểm và mô hình dịch vụ. Từ bảo hiểm tiết kiệm sơ khai cho tới các chính sách đầu tư gần đây, Cathay luôn có khả năng nhanh chóng ra mắt các sản phẩm phù hợp với nhu cầu thị trường.
+**Nhà đổi mới ngành bảo hiểm**:
+Cathay Life không chỉ là công ty bảo hiểm nhân thọ tư nhân đầu tiên của Đài Loan, mà còn là nhà đổi mới của nhiều sản phẩm và mô hình dịch vụ bảo hiểm. Từ bảo hiểm tiết kiệm sớm đến các bảo đơn đầu tư gần đây, Cathay luôn có thể nhanh chóng tung ra các sản phẩm đáp ứng nhu cầu thị trường.
 
-Hệ thống đào tạo nhân viên bán hàng của nó được ngành tôn sùng như một mô hình điển hình, đã đào tạo hàng chục nghìn nhân viên ngành bảo hiểm. Những người tài năng này không chỉ phát triển rực rỡ tại Cathay, mà còn lan tỏa khắp toàn bộ ngành bảo hiểm, thúc đẩy sự phát triển chuyên nghiệp của ngành bảo hiểm Đài Loan.
+Hệ thống đào tạo nhân viên kinh doanh của nó được ngành công nghiệp tôn vinh là tiêu chuẩn, đã đào tạo hàng chục ngàn nhân viên ngành bảo hiểm. Những nhân tài này không chỉ cống hiến tại Cathay, mà còn phân tán khắp ngành bảo hiểm, thúc đẩy sự phát triển chuyên nghiệp của ngành bảo hiểm Đài Loan.
 
-**Nhà lãnh đạo tài chính kỹ thuật số**:
-Cathay khởi đầu sớm hơn trong chuyển đổi kỹ thuật số, kết quả cũng tương đối nổi bật. Sự thành công của ngân hàng kỹ thuật số KOKO, chứng minh rằng các tổ chức tài chính truyền thống cũng có thể tìm thấy động lực tăng trưởng mới trong thời đại kỹ thuật số.
+**Nhà lãnh đạo tài chính số**:
+Cathay bắt đầu chuyển đổi số sớm và đạt được kết quả tương đối nổi bật. Sự thành công của Ngân hàng số KOKO chứng minh các tổ chức tài chính truyền thống cũng có thể tìm thấy động lực tăng trưởng mới trong kỷ nguyên số.
 
-Ứng dụng AI của nó cũng đi đầu, từ trợ lý khách hàng thông minh cho tới đánh giá tín dụng, từ lời khuyên đầu tư cho tới quản lý rủi ro, công nghệ AI được áp dụng rộng rãi trong nhiều dịch vụ tài chính khác nhau. Những kinh nghiệm sáng tạo này cung cấp tài liệu tham khảo quan trọng cho chuyển đổi kỹ thuật số của ngành tài chính Đài Loan.
+Các ứng dụng AI của nó cũng đi ở tiền phong, từ dịch vụ khách hàng thông minh đến đánh giá tín dụng, từ tư vấn đầu tư đến quản trị rủi ro, công nghệ AI được ứng dụng rộng rãi trong nhiều dịch vụ tài chính. Những kinh nghiệm đổi mới này cung cấp tham khảo quan trọng cho quá trình chuyển đổi số của ngành tài chính Đài Loan.
 
 **Nhà thúc đẩy tài chính bền vững**:
-Cathay là một trong những người tiên phong của tài chính bền vững Đài Loan. Nó đã kết hợp xem xét ESG vào các quyết định đầu tư, chủ động ra mắt các sản phẩm tài chính xanh, hỗ trợ phát triển bền vững của Đài Loan.
+Cathay là tiền phong của tài chính bền vững tại Đài Loan. Nó đưa các yếu tố ESG vào quyết định đầu tư, chủ động tung ra các sản phẩm tài chính xanh, hỗ trợ phát triển bền vững của Đài Loan.
 
-Năm 2021 Bảo hiểm Nhân thọ Cathay công bố không bổ sung thêm các khoản đầu tư liên quan nhiên liệu đốt, trở thành công ty bảo hiểm đầu tiên của Đài Loan đưa ra cam kết này[^4]. Quyết định này có ý nghĩa tượng trưng quan trọng đối với chuyển đổi năng lượng của Đài Loan.
+Năm 2021, Cathay Life tuyên bố không còn đầu tư mới vào các dự án liên quan đến than đá, trở thành công ty bảo hiểm đầu tiên tại Đài Loan cam kết điều này[^4]. Quyết định này có ý nghĩa biểu tượng quan trọng đối với quá trình chuyển đổi năng lượng của Đài Loan.
 
 ## Thách thức và triển vọng
 
-**Thách thức môi trường lãi suất thấp**:
-Môi trường lãi suất thấp kéo dài gây ra thách thức nghiêm trọng đối với ngành bảo hiểm nhân thọ. Kinh doanh bảo hiểm tiết kiệm truyền thống của Bảo hiểm Cathay chịu tác động, phải điều chỉnh cơ cấu sản phẩm, mở rộng độ rộng bộ sưu tập hàng hóa.
+**Thách thức từ môi trường lãi suất thấp**:
+Môi trường lãi suất thấp kéo dài gây ra thách thức nghiêm trọng cho ngành bảo hiểm nhân thọ. Nghiệp vụ bảo hiểm tiết kiệm truyền thống của Quốc Thái Nhân Thọ chịu tác động, buộc phải điều chỉnh cấu trúc sản phẩm, mở rộng chiều rộng tổ hợp sản phẩm.
 
-Đồng thời, kinh doanh ngân hàng chịu sự nén ép của chênh lệch lãi suất, Ngân hàng Cathay United phải tăng tỷ lệ thu nhập phí, và giảm chi phí vận hành thông qua kỹ thuật số.
+Đồng thời, chênh lệch lãi suất của nghiệp vụ ngân hàng cũng bị ép hẹp, Quốc Thái Thế Hoa phải tăng tỷ trọng thu nhập từ phí dịch vụ, và thông qua số hóa giảm chi phí vận hành.
 
-**Sự thích nghi của thay đổi quy định**:
-Ngành tài chính là ngành chịu quản lý cao độ, thay đổi quy định có tác động rất lớn đến kinh doanh. Từ hệ thống vốn dựa trên rủi ro (RBC) của ngành bảo hiểm cho tới Hiệp định Basel của ngành ngân hàng, Cathay phải đầu tư vào quản lý tuân thủ.
+**Thích ứng với thay đổi pháp lý**:
+Ngành tài chính là ngành bị quản lý chặt chẽ, thay đổi pháp lý ảnh hưởng lớn đến hoạt động. Từ chế độ RBC (Vốn dựa trên rủi ro) của ngành bảo hiểm đến các Hiệp định Basel của ngành ngân hàng, Quốc Thái phải đầu tư vào quản trị tuân thủ.
 
-Các quy định tài chính bền vững trở nên kỳ kèo hơn, Cathay cần phải thiết lập một hệ thống đánh giá và báo cáo ESG hoàn thiện.
+Các quy định về tài chính bền vững ngày càng chặt chẽ, Quốc Thái cần xây dựng hệ thống đánh giá và báo cáo ESG hoàn chỉnh.
 
-**Cạnh tranh kỹ thuật số gia tăng**:
-Sự nổi lên của các nhà kinh doanh FinTech và các ngân hàng trực tuyến thuần túy, gây áp lực cạnh tranh đối với các tổ chức tài chính truyền thống. Mặc dù Cathay có hiệu suất không tệ trong chuyển đổi kỹ thuật số, nhưng vẫn cần ra mắt các chức năng mới để duy trì lợi thế cạnh tranh.
+**Cạnh tranh số hóa gay gắt**:
+Sự trỗi dậy của các doanh nghiệp FinTech và ngân hàng số thuần túy tạo ra áp lực cạnh tranh đối với các tổ chức tài chính truyền thống. Dù Quốc Thái biểu hiện khá tốt trong chuyển đổi số, nhưng vẫn cần tung ra các tính năng mới để duy trì lợi thế cạnh tranh.
 
-Nhóm khách hàng trẻ ngày càng coi trọng trải nghiệm kỹ thuật số, Cathay phải nâng cao sự tiện lợi và sáng tạo của dịch vụ kỹ thuật số.
+Khách hàng trẻ ngày càng coi trọng trải nghiệm số, Quốc Thái phải nâng cao tính tiện lợi và đổi mới của dịch vụ số.
 
 **Rủi ro địa chính trị**:
-Cathay có kinh doanh quan trọng ở Trung Quốc đại lục, sự thay đổi của quan hệ Hoa Kỳ-Trung Quốc có thể ảnh hưởng đến bố trí quốc tế của nó. Làm cách nào để duy trì sự ổn định kinh doanh trong môi trường địa chính trị phức tạp, là một thách thức quan trọng.
+Quốc Thái có nghiệp vụ quan trọng tại Trung Quốc đại lục, biến động quan hệ Mỹ–Trung có thể ảnh hưởng đến bố cục quốc tế của mình. Làm thế nào để duy trì ổn định kinh doanh trong môi trường địa chính trị phức tạp là thách thức quan trọng.
 
 **Triển vọng tương lai**:
-Đối mặt với những thách thức, Cathay Financial Holdings đưa ra một số hướng chiến lược quan trọng:
+Đối mặt với thách thức, Quốc Thái Kim Khống đề ra một số hướng chiến lược quan trọng:
 
-1. **Nâng cao chuyển đổi kỹ thuật số**: Tiếp tục đầu tư vào công nghệ tài chính, nâng cao chất lượng dịch vụ kỹ thuật số, phát triển các sản phẩm kỹ thuật số mới
-2. **Tăng cường quản lý tài sản**: Trong môi trường lãi suất thấp, quản lý tài sản trở thành một nguồn lợi nhuận quan trọng
-3. **Thúc đẩy tài chính bền vững**: Tích hợp ý tưởng ESG vào tất cả các kinh doanh, trở thành nhà lãnh đạo tài chính bền vững
-4. **Tối ưu hóa trải nghiệm khách hàng**: Thông qua dữ liệu lớn và công nghệ AI, cung cấp dịch vụ tài chính cá nhân hóa hơn
-5. **Đánh giá cẩn trọng bố trí quốc tế**: Trong bối cảnh rủi ro địa chính trị, đánh giá kỹ lưỡng hơn các cơ hội đầu tư nước ngoài
+1. **Sâu hóa chuyển đổi số**: Tiếp tục đầu tư công nghệ tài chính, nâng cao chất lượng dịch vụ số, phát triển sản phẩm số mới
+2. **Tăng cường quản trị tài sản**: Trong môi trường lãi suất thấp, quản trị tài sản trở thành nguồn lợi nhuận quan trọng
+3. **Thúc đẩy tài chính bền vững**: Dung nhập tư duy ESG vào mọi hoạt động kinh doanh, trở thành người dẫn đường tài chính bền vững
+4. **Tối ưu trải nghiệm khách hàng**: Thông qua dữ liệu lớn và công nghệ AI, cung cấp dịch vụ tài chính cá nhân hóa hơn
+5. **Bố cục quốc tế thận trọng**: Dưới rủi ro địa chính trị, đánh giá cẩn trọng hơn các cơ hội đầu tư hải ngoại
 
-Sự thành công của Cathay Financial Holdings, không chỉ là thành tựu của một doanh nghiệp, mà còn đại diện cho sức mạnh ngành tài chính Đài Loan. Trong thời đại ngành tài chính toàn cầu thay đổi nhanh chóng, liệu Cathay có thể tìm được động lực lợi nhuận mới, thích nghi với sự thay đổi, sẽ ảnh hưởng đến sức cạnh tranh quốc tế của ngành tài chính Đài Loan.
+Thành công của Quốc Thái Kim Khống không chỉ là thành tựu của một doanh nghiệp, mà còn đại diện cho thực lực ngành tài chính Đài Loan. Trong kỷ nguyên ngành tài chính toàn cầu thay đổi nhanh chóng, Quốc Thái có tìm được động lực lợi nhuận mới, có thích ứng được với biến đổi hay không, sẽ ảnh hưởng đến năng lực cạnh tranh quốc tế của ngành tài chính Đài Loan.
 
-Từ công ty bảo hiểm được thành lập bởi các anh em Thái Vạn Xuân và Thái Vạn Lâm, cho tới ngày nay là một đế chế tài chính, câu chuyện của Cathay đã chứng kiến con đường phát triển của ngành tài chính Đài Loan. Trong thời đại mới, Cathay đang nỗ lực chuyển đổi từ "nhà cung cấp dịch vụ tài chính truyền thống" thành "nhà lãnh đạo tài chính bền vững kỹ thuật số", sự thành bại của quá trình chuyển đổi này, sẽ cung cấp bài học quan trọng cho tương lai ngành tài chính Đài Loan.
+Từ công ty bảo hiểm nhân thọ do anh em Thái Vạn Xuân, Thái Vạn Lâm sáng lập, đến đế chế tài chính ngày nay, câu chuyện của Quốc Thái chứng kiến quỹ đạo phát triển của ngành tài chính Đài Loan. Trong kỷ nguyên mới, Quốc Thái đang nỗ lực chuyển型 từ "doanh nghiệp tài chính truyền thống" thành "người dẫn đường tài chính số và bền vững", thành bại của cuộc chuyển型 này sẽ cung cấp启示 quan trọng cho tương lai ngành tài chính Đài Loan.
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia — Thái Vạn Lâm](https://zh.wikipedia.org/wiki/蔡萬霖) — Thái Vạn Lâm (1924-2004) là người sáng lập cùng Bảo hiểm Nhân thọ Cathay; Thái Vạn Xuân (anh trai) và Thái Vạn Lâm thành lập vào năm 1962, Thái Vạn Tài là em trai thứ tư thành lập tập đoàn Fubon khác
+[^1]: [Wikipedia — Thái Vạn Lâm](https://zh.wikipedia.org/wiki/蔡萬霖) — Thái Vạn Lâm (1924-2004) là đồng sáng lập Cathay Life; Thái Vạn Xuân (anh cả) cùng Thái Vạn Lâm thành lập năm 1962, Thái Vạn Tài là em út tự thành lập tập đoàn Fubon
 
-[^2]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Tổng tài sản của Cathay Financial Holdings là 12 triệu tỷ đồng Đài (cập nhật tháng 7 năm 2025), là công ty kiểm soát tài chính lớn nhất Đài Loan
+[^2]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Tổng tài sản Cathay Financial Holdings đạt 12 nghìn tỷ NT$ (cập nhật tháng 7/2025), là công ty nắm giữ tài chính lớn nhất Taiwan
 
-[^3]: [Wantgoo - Tháng 12 năm 2025 — Bảng xếp hạng lợi nhuận 13 công ty kiểm soát tài chính](https://www.cnyes.com/) — Lợi nhuận ròng sau thuế tháng 11 năm 2025 của Cathay Financial Holdings là 14,62 tỷ đồng Đài, giành chiếc vương miện "doanh nghiệp lãi suất cao nhất" trong hai tháng liên tiếp
+[^3]: [Cnyes 12/2025 — Bảng xếp hạng lợi nhuận 13 công ty nắm giữ tài chính](https://www.cnyes.com/) — Cathay Financial Holdings tháng 11/2025 thuần lợi sau thuế đơn tháng 146,2 tỷ NT$, liên tiếp hai tháng dẫn đầu lợi nhuận
 
-[^4]: [Báo cáo ESG Cathay Financial Holdings — Cam kết tài chính bền vững](https://www.cathayholdings.com/) — Bảo hiểm Nhân thọ Cathay công bố năm 2021 không bổ sung thêm các khoản đầu tư liên quan nhiên liệu đốt, là công ty bảo hiểm đầu tiên của Đài Loan đưa ra cam kết này
+[^4]: [Báo cáo ESG Cathay Financial Holdings — Cam kết tài chính bền vững](https://www.cathayholdings.com/) — Cathay Life năm 2021 tuyên bố không còn đầu tư mới liên quan than đá, là nhà bảo hiểm đầu tiên tại Taiwan cam kết này
 
-[^5]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings thành lập năm 2001, là công ty kiểm soát tài chính đầu tiên được thành lập sau khi Luật Công ty kiểm soát tài chính được thông qua
+[^5]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings thành lập năm 2001, là công ty nắm giữ tài chính đầu tiên tại Taiwan sau khi Luật Công ty nắm giữ tài chính được thông qua

@@ -27,10 +27,10 @@ readingTime: 12
 image: '/article-images/people/jimmy-liao-square-yilan-2016.webp'
 imageCredit: '迷惘的人生 / Wikimedia Commons / CC BY-SA 2.0'
 translatedFrom: 'People/幾米.md'
-sourceCommitSha: 'a3a2c2ab6'
-sourceContentHash: 'sha256:3a77d655efe88c48'
-sourceBodyHash: 'sha256:18242d925dc68ac7'
-translatedAt: '2026-10-13T07:13:14.487981+00:00'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:de4fd6732d209052'
+sourceBodyHash: 'sha256:301572e76bca4d98'
+translatedAt: '2026-10-15T00:21:37.475731+00:00'
 ---
 
 # Jimmy Liao: esas imágenes tomadas por terapéuticas las trajo de una pecera un sobreviviente de leucemia
@@ -121,37 +121,38 @@ Ese pez sonriente también llegó a la pantalla. En 2006, 《微笑的魚》 fue
 
 > 🎙️ **Nota del curador**: Al poner estos cuatro libros juntos, se nota que la etiqueta de «estilo sanador» (healing) en realidad invierte la causalidad. La comprensión general es: «Los dibujos de Jimmy Liao son lindos, por eso relajan». Pero el orden es exactamente el opuesto: los lectores se sienten sanados porque él primero entró honestamente en los lugares más oscuros —el aislamiento, la muerte, la pérdida— para luego salir con un poco de luz. El consuelo es efectivo precisamente porque proviene de alguien que realmente ha estado dentro de la pecera de cristal. Lu Rong-chi dice que su obra «nunca ha sido realista, siempre tiene un tono algo onírico y surrealista». Esa capa de ensueño es una técnica de traducción: convertir una realidad insoportable en una forma que el ser humano pueda seguir leyendo.
 
-## Jimmy Liao fuera de la página
+## Los diversos matices de Jimmy Liao
 
-Tal vez lo más contraintuitivo de Jimmy Liao esté aquí: una enfermedad profundamente privada, la soledad de una persona en una habitación de hospital, terminó convirtiéndose en un lenguaje público que puede reproducirse indefinidamente y trasladarse a toda clase de escenarios.
+Lo más contraintuitivo de Jimmy Liao reside, quizás, en esto: una enfermedad profundamente privada y la soledad de un hombre en una habitación de hospital terminaron convirtiéndose en un lenguaje público que puede ser replicado infinitamente y trasladado a diversos escenarios.
 
-El cine fue el primer camino, y llegó con cuatro películas casi de golpe. Turn Left, Turn Right, de 2003, fue codirigida por los hongkoneses Johnnie To y Wai Ka-fai, protagonizada por Takeshi Kaneshiro y Gigi Leung, y fue la primera película en lengua china financiada por Warner Bros.; "Encounter", de Stefanie Sun, fue el tema principal en mandarín.[^21] Ese mismo año, The Sound of Colors fue dirigida por Joe Ma, producida por Wong Kar-wai, con música de Lo Kin.[^22] Starry Starry Night, de 2011, fue dirigida por Tom Shu-yu Lin, adaptada del álbum ilustrado homónimo de 2009, y recibió cuatro nominaciones en la 49.ª edición de los Golden Horse Awards.[^23] Hay además una película que suele pasarse por alto: The Floating Landscape, de 2003, dirigida por Carol Lai, seleccionada para la competencia oficial del Festival de Venecia, con ilustraciones realizadas por el propio Jimmy Liao.[^24]
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="MV oficial completo de Mayday, “Starry Starry Night” (tema de la película Starry Starry Night)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-El teatro musical fue otro camino, y allí se formó un equipo estable: el director Li Huan-hsiung junto con el músico Chen Chien-chi. Desde The Sound of Colors, de 2003, con Cheer Chen como la chica ciega, hasta The Lucky One, de 2005; Turn Left, Turn Right, que en 2008 llegó por primera vez al Taipei Arena; y The Cinema of Time, de 2018, los álbumes ilustrados de Jimmy Liao fueron traducidos uno a uno en canciones y luz.[^25] Para 2025, incluso el circo había llegado: Jimmy's 100 Braves, dirigido por Lin Hwai-min, fue presentado como la primera producción circense residente de Taiwán.[^26]
-
-Fuera del teatro, sus imágenes también se filtraron en la ciudad misma. En los andenes de la estación Nangang del metro de Taipéi cuelgan seis imágenes de The Sound of Colors; en 2014, Sinyi Realty convirtió The Moon Forgets en un verdadero "autobús lunar" que circula por la sección 5 de Xinyi Road.[^27] Las series de televisión también quisieron una parte: Turn Left, Turn Right fue adaptada en China en 2004 y en Tailandia en 2020, mientras The Sound of Colors se convirtió en una serie en Taiwán en 2006.[^50] La misma historia sobre oportunidades perdidas volvió a escenificarse una y otra vez con distintos actores y en distintos idiomas.
-
-La soledad también cruzó lenguas. Los libros de Jimmy Liao han sido traducidos a unas 20 lenguas, con cerca de 200 ediciones extranjeras.[^28] Desde 2014 fue nominado nueve veces al Premio Memorial Astrid Lindgren (ALMA), conocido como el "Nobel de la literatura infantil"; en 2020, The Cinema of Time obtuvo la mención especial de la categoría cine del BolognaRagazzi Award, y el jurado lo llamó "un maestro indiscutible" (an undisputed master of his craft).[^44] Entre 2019 y 2020, celebró en el Museo ABC de Madrid su primera gran exposición individual en Europa, con 22 obras y 174 originales.[^45] Alguien que dibujaba para sí mismo en el lenguaje de Taiwán terminó haciendo que el público madrileño se plantara frente a los originales que había creado después de enfermar. Su explicación a los lectores internacionales fue sobria: "Una enfermedad grave cambió mi manera de pensar sobre muchas cosas"; "simplemente dibujé las imágenes que tenía en el corazón".[^46]
-
-Tampoco se detuvo. En 2023, Eslite Gallery organizó una exposición individual de Jimmy Liao en la que presentó por primera vez sus pinturas al óleo.[^49] De director de arte publicitario a autor de álbumes ilustrados, y más de veinte años después con un pincel de óleo en la mano, aquel pez de la pecera ha seguido diciendo lo mismo de distintas maneras.
+El cine fue el primer camino, y lo hizo con cuatro obras de golpe. En 2003, 《向左走·向右走》 (Turn Left, Turn Right), codirigida por los hongkoneses Johnnie To y Wai Ka-fai y protagonizada por Takeshi Kaneshiro y Gigi Leung, fue la primera película en chino en recibir inversión de Warner Bros.; el tema principal en mandarín fue 〈遇見〉 de Stefanie Sun. [^21] Ese mismo año se estrenó 《地下鐵》 (Subway), dirigida por Ma Wei-hao y producida por Wong Kar-wai, con música de Lo Kin. [^22] En 2011, 《星空》 (Starry Starry Night), dirigida por Lin Shu-yu y adaptada del álbum ilustrado homónimo de 2009, fue nominada a cuatro premios en la 49.ª edición de los Golden Horse Awards. [^23] Hay otra obra que suele pasarse por alto: 《戀之風景》 (Floating Landscape), estrenada en 2003 y dirigida por Li Miao-xue, que compitió en la sección oficial del Festival de Venecia con ilustraciones dibujadas por el propio Jimmy Liao. [^24]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="Tráiler de la miniserie animada de Jimmy Liao Little Butterfly, Little Cape (canal oficial de Jimmy Liao)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RTUwaCImChM" title="五月天〈星空〉MV 官方完整版（電影《星空》主題曲）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-La estructura que sostiene todo esto es Jimmy S.P.A., fundada en 2000; en 2014, Jimmy S.C. asumió los proyectos audiovisuales, de exposiciones y de arte público.[^29] Una persona que dibujaba personitas en una habitación de hospital terminó construyendo un territorio que atraviesa cine, musicales, circo, metro y animación. Vale la pena recordar el contraste: el origen de todo esto fue una soledad que no podía compartirse, separada por un vidrio; su resultado fue un lenguaje en el que cualquiera puede entrar, ver y tocar.
+El teatro musical fue otro camino, y para ello formó un equipo de trabajo estable: el director Li Huan-hsiung junto al músico Chen Chien-chi. Desde 《地下鐵》 en 2003 (con Cheer Chen interpretando a la chica ciega), pasando por 《幸運兒》 en 2005 y el estreno en el Taipei Arena de 《向左走·向右走》 en 2008, hasta llegar a 《時光電影院》 en 2018, los álbumes ilustrados de Jimmy Liao se han transformado, obra tras obra, en canciones y luces. [^25] Para 2025, incluso el circo ha llegado con 《幾米男孩的 100 次勇敢》 (Jimmy's 100 Braves), dirigido por Lin Hwai-min, que se presenta como la primera obra de circo de temática musical en Taiwán. [^26]
+
+Más allá de los teatros, sus ilustraciones han permeado la propia ciudad. En el andén de la estación Nangang del metro de Taipéi cuelgan seis pinturas de 《地下鐵》; en 2014, la inmobiliaria Sinyi convirtió 《月亮忘記了》 (The Moon Forgets) en un auténtico «Autobús Lunar» que circulaba por la quinta sección de la calle Sinyi. [^27] Las series de televisión también han participado: 《向左走·向右走》 fue adaptada tanto en China continental (2004) como en Tailandia (2020), mientras que 《地下鐵》 se convirtió en una serie de televisión en Taiwán (2006). [^50] La misma historia sobre las oportunidades perdidas, con diferentes actores y diferentes idiomas, se representa una y otra vez.
+
+La soledad también ha trascendido las barreras lingüísticas. Los libros de Jimmy Liao se han traducido a unos 20 idiomas, sumando casi 200 ediciones en lenguas extranjeras. [^28] Desde 2014, ha sido nominado consecutivamente nueve veces al Premio Astrid Lindgren Memorial (ALMA), considerado el «Nobel de la literatura infantil»; en 2020, con 《時光電影院》, recibió el Premio Ragazzi en la categoría de cine de la Feria del Libro de Bolonia, y el jurado lo calificó como «un maestro indiscutible de su oficio» (an undisputed master of his craft). [^44] Entre 2019 y 2020, celebró su primera gran exposición individual en Europa en el Museo ABC de Madrid, donde presentó 22 obras y 174 originales. [^45] Alguien que usó el lenguaje de Taiwán para dibujarse a sí mismo, terminó logrando que el público de Madrid se detuviera ante los originales de sus dibujos realizados tras su enfermedad. Su propia explicación sobre su impacto internacional es modesta: «Una gran enfermedad cambió mi perspectiva sobre muchas cosas» y «simplemente dibujo las imágenes que tengo en mi corazón». [^46]
+
+Y no se ha detenido. En 2023, la Eslite Gallery organizó una exposición individual de Jimmy Liao donde presentó sus pinturas al óleo por primera vez. [^49] De director de arte publicitario y autor de álbumes ilustrados a tomar el pincel para el óleo más de veinte años después; ese pez en la pecera sigue encontrando diferentes formas de decir lo mismo.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/IZOXIQnQT5k" title="幾米《小蝴蝶小披風》迷你動畫影集前導（幾米官方頻道）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Como continuación de todo esto se encuentra Jimmy S.P.A., fundada en el año 2000, y en 2014, Moce International asumió la gestión de cine, televisión, exposiciones y arte público. [^29] Alguien que dibujaba figuras pequeñas en una habitación de hospital terminó construyendo un imperio que abarca el cine, los musicales, el circo, el metro y la animación. El contraste que merece recordarse es este: el origen de todo fue una soledad infranqueable tras un cristal; su resultado es un lenguaje en el que cualquiera puede entrar, ver y tocar.
 
 ```tw-stat
-4 | Películas adaptadas | Incluida una cinta en competencia en Venecia
-4 | Musicales de Li Huan-hsiung × Chen Chien-chi | 2003-2018
-~20 | Lenguas de traducción | Cerca de 200 ediciones extranjeras
+4 | Películas adaptadas | Incluye cine en competición en Venecia
+| 黎煥雄×陳建騏 musicales | 2003–2018
+~20 | Idiomas de traducción | Casi 200 ediciones en lenguas extranjeras
+Fuente: Sitio oficial de Jimmy Liao (jimmyspa.com), OPENTIX del National Theater and Concert Hall, Wikipedia y recopilación de datos de festivales y editoriales.
 ```
 
-> **Fuente**: sitio oficial de Jimmy Liao (jimmyspa.com), OPENTIX del National Theater and Concert Hall, Wikipedia y datos reunidos de festivales y editoriales.
+> **Fuentes**: Sitio oficial de Jimmy Liao (jimmyspa.com), OPENTIX del National Theater and Concert Hall, Wikipedia, y recopilación de datos de festivales y editoriales.
 
 ## Regreso a Luodong
 

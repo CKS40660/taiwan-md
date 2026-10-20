@@ -1,15 +1,15 @@
 ---
-title: 'Fan Tuan: Dari "Obat Tidur" Pagi Hari hingga "Burrito Versi Taiwan" yang Meledak di Eropa dan Amerika'
-description: 'Dari budaya makanan ketan masa Dinasti Qing hingga evolusi lintas laut Zifan khas Jiangnan, Fan Tuan khas Taiwan dengan "You Tiao Tua" dan teknik "meremas tangan" yang khas menjadi jiwa sarapan Taiwan. Artikel ini menganalisis secara mendalam prasejarahnya, kerajinan pembuatan, inovasi rasa modern, serta budaya "pusing karena karbohidrat" yang memicu perdebatan internasional.'
+title: 'Fan Tuan: Dari "Obat Tidur" di Pagi Hari hingga Menjadi "Burrito Versi Taiwan" yang Viral di Barat'
+description: 'Dari budaya makanan ketan Dinasti Qing hingga evolusi lintas selat dari Ci Fan, Fan Tuan gaya Taiwan menjadi jiwa sarapan Taiwan dengan keunikan "You Tiao Tua" dan teknik "remasan tangan". Artikel ini menganalisis sejarah, proses pembuatan, inovasi rasa modern, serta fenomena "budaya pusing karbohidrat" yang viral secara internasional.'
 date: 2026-06-28
 category: 'Food'
 tags:
   [
     'Fan Tuan',
     'Sarapan Taiwan',
-    'Zifan',
-    'Makanan Pinggir Jalan',
-    'Budaya Makanan',
+    'Ci Fan',
+    'Jajanan Kaki Lima',
+    'Budaya Kuliner',
     'Pusing Karbohidrat',
     'Makanan Ketan',
   ]
@@ -21,132 +21,133 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Food/飯糰.md'
-sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:c0f8cc644aeae280'
-sourceBodyHash: 'sha256:fd7a2d45f0c2514e'
-translatedAt: '2026-08-04T17:42:35+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:e9a6e5affb601108'
+sourceBodyHash: 'sha256:b9d952385b4be9e2'
+translatedAt: '2026-10-15T01:07:22+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Fan Tuan adalah keberadaan "berat" dalam budaya sarapan Taiwan. Asalnya dari "Zifan" khas Jiangnan, lalu mengakar di Taiwan, berevolusi menjadi bentuk unik berupa nasi ketan panas yang membungkus you tiao renyah, cai pu gurih, dan rou song. Bola karbohidrat ini yang dicibir orang Taiwan sebagai "obat tidur", belakangan ini bahkan meledak di komunitas TikTok AS dengan nama "Taiwanese Burrito", menjadi Taiwan Terbaru yang mempesona.
+> **Ringkasan 30 Detik:** Fan Tuan adalah elemen "berbobot" dalam budaya sarapan Taiwan. Berasal dari "Ci Fan" di wilayah Jiangnan, makanan ini kemudian berakar di Taiwan dan berevolusi menjadi bentuk unik berupa ketan hangat yang membungkus You Tiao (cakwe) yang renyah, acar lobak asin (caifu), dan abon daging (rousong). Bom karbohidrat yang sering dijuluki orang Taiwan sebagai "obat tidur" ini baru-baru ini menyapu komunitas TikTok di Amerika Serikat dengan nama "Taiwanese Burrito", menjadi kebanggaan baru bagi Taiwan.
 
-Dekade 1950 di pinggir jalan Taiwan, udara pagi mulai berbau harum nasi ketan yang dikukus di tong kayu. Bau harum itu bukan asli Taiwan, melainkan dibawa oleh kenangan "Zifan" para pendatang Jiangnan yang ikut Pemerintah Nasionalis pindah ke Taiwan [^1]. Di era kekurangan bahan, satu bola Fan Tuan yang padat adalah sumber tenaga bagi buruh dan pelajar untuk bertahan seharian.
+Di jalanan Taiwan pada tahun 1950-an, aroma ketan yang dikukus dalam bak kayu mulai tercium di udara pagi. Aroma ini bukanlah asli dari tanah Taiwan, melainkan memori tentang "Ci Fan" yang dibawa oleh imigran Jiangnan bersama perpindahan Pemerintah Nasional ke Taiwan [^1]. Di era ketika sumber daya masih terbatas, satu buah Fan Tuan yang padat menjadi sumber energi bagi pekerja dan pelajar untuk bertahan melewati seluruh pagi.
 
-### Prasejarah: Akar Lokal Makanan Ketan
+### Latar Belakang Sejarah: Akar Lokal Makanan Ketan
 
-Sebelum istilah "Fan Tuan khas Taiwan" muncul, Taiwan sudah memiliki akar budaya makanan ketan yang dalam.
+Sebelum istilah "Fan Tuan gaya Taiwan" muncul, Taiwan telah memiliki fondasi budaya makanan ketan yang mendalam.
 
-- **Dinasti Qing dan Masyarakat Han**: Di masa Dinasti Qing, tangyuan, zongzi, dan ang ku kue terbuat ketan adalah hidangan wajib pada perayaan dan kehidupan sehari-hari [^15]. Preferensi kolektif terhadap "tekstur lengket" ini telah mengamplas selamat merah selera untuk popularitas Fan Tuan kemudian.
-- **"Zongzi Pegunungan" Masyarakat Asli**: Makanan tradisional suku Paiwan dan Rukai, "A-bai" dan "Cinavu", sama-sama berbasis ketan atau bajra, membungkus daging babi dan dibungkus daun Physalis angulata dan daun Alpinia zerumbet [^16]. Meskipun bentuknya berbeda dengan Fan Tuan masa kini, konsep "makanan nasi dibungkus daun" yang praktis sudah ada di tanah Taiwan sejak ratusan tahun.
+- **Dinasti Qing dan Masyarakat Han**: Dalam perayaan dan kehidupan sehari-hari di Taiwan pada masa Dinasti Qing, makanan berbahan ketan seperti Tangyuan, Zongzi, dan Ang Ku Kueh adalah hidangan wajib [^15]. Preferensi kolektif terhadap "tekstur lengket" ini telah mempersiapkan jalan bagi popularitas Fan Tuan di kemudian hari.
+- **"Zongzi Pegunungan" Masyarakat Adat**: Makanan tradisional suku Paiwan dan Rukai, yaitu "A-bai" dan "Cinavu", juga menggunakan ketan atau milet sebagai dasar, dibungkus dengan daging babi serta daun Physalis dan daun Alpinia [^16]. Meskipun bentuknya berbeda dengan Fan Tuan saat ini, konsep kepraktisan "makanan beras yang dibungkus daun" telah ada di tanah Taiwan selama berabad-abad.
 
 ```tw-versus
-Zifan Jiangnan | Fan Tuan Khas Taiwan | Onigiri Khas Jepang
-Cenderung manis atau hanya you tiao | Pasti asin, isian beragam | Utama dingin, rasa ringan
-Bentuk silinder atau batang panjang | Bulat memanjang, diremas padat | Segitiga atau bulat
-Ketan murni | Campuran ketan panjang & ketan hitam | Utama beras japonica
+Ci Fan Jiangnan | Fan Tuan gaya Taiwan | Onigiri Jepang
+Mayoritas rasa manis atau hanya You Tiao | Pasti rasa asin, isian beragam | Utama disajikan dingin, rasa ringan
+Bentuk silinder atau memanjang | Bentuk oval, dipadatkan dengan remasan | Segitiga atau bulat
+Utama ketan | Ketan panjang dicampur beras ketan hitam | Utama beras Ponlai
+Sumber: Mengutip memori imigrasi Ci Fan Jiangnan dan sejarah budaya makanan ketan Taiwan (Masyarakat Han Dinasti Qing, Zongzi Pegunungan Masyarakat Adat) [^1][^15][^16]
 ```
 
-### Isian Jiwa: Kenapa Harus "You Tiao Tua"?
+### Isian Jiwa: Mengapa Harus "You Tiao Tua"?
 
-Satu Fan Tuan layak, nasinya mesti pakai ketan panjang, dan paling bagus dikukus di tong kayu, agar butiran nasi tetap Q (kenyal) dan lembab [^6]. Sementara "jiwa" isiannya adalah you tiao. Gerai Fan Tuan berpengalaman pakai "You Tiao Tua", yaitu you tiao yang digoreng dua kali, teksturnya sangat renyah, sehingga meski dibungkus di dalam nasi panas, tetap bisa menjaga kerenyahan saat digigit, membentuk kontras tajam dengan nasi ketan yang lengket [^7].
+Sebuah Fan Tuan gaya Taiwan yang berkualitas harus menggunakan beras ketan panjang, dan sebaiknya dikukus di dalam bak kayu untuk menjaga kekenyalan dan kelembapan butiran nasinya [^6]. Sedangkan "jiwa" dari isiannya adalah You Tiao. Penjual Fan Tuan berpengalaman akan menggunakan "You Tiao Tua", yaitu cakwe yang telah digoreng dua kali sehingga teksturnya sangat renyah. Dengan demikian, meskipun dibungkus dalam nasi ketan yang panas, ia tetap mempertahankan kerenyahan saat digigit, menciptakan kontras yang tajam dengan nasi ketan yang lengket [^7].
 
-Selain you tiao, kerenyahan cai pu, harum kering rou song, dan asam pedas cai pu yang memotong kelengketan, membentuk semesta rasa mini.
+Selain You Tiao, kerenyahan acar lobak asin (caifu), aroma gurih abon daging (rousong), dan kesegaran sayur asin (suancai) membentuk sebuah alam semesta rasa yang mikro.
 
 ```tw-bars
-You Tiao | 95 | Tulang punggung Fan Tuan, mesti digoreng dua kali (You Tiao Tua)
-Rou Song | 88 | Sumber rasa umami, bisa menyerap minyak berlebih
-Cai Pu | 82 | Memberikan sensasi renyah dikunyah & harum asin fermentasi
-Telur Luwak | 75 | Menambah tekstur lembut & protein
-Cai Pu (asin) | 68 | Kunci memotong kelengketan, berbau manis sedikit
-Sumber: Survei Komunitas Sarapan Taiwan, 2022
+You Tiao | 95 | Kerangka jiwa Fan Tuan, harus You Tiao Tua goreng dua kali
+Rousong | 88 | Sumber rasa gurih, dapat menyerap kelebihan minyak
+Caifu | 82 | Memberikan sensasi kunyahan renyah dan aroma asin fermentasi
+Telur Kecap | 75 | Menambah tekstur lembut dan protein
+Suancai | 68 | Kunci penghilang rasa enek, dengan sedikit rasa manis
+Sumber: Survei komunitas sarapan Taiwan, 2022
 ```
 
-### Kerajinan Pembuatan: Suhu & Kekuatan di Antara Jari
+### Proses Pembuatan: Kehangatan dan Kekuatan dalam Remasan Tangan
 
-Membuat satu Fan Tuan sempurna, bukan sekadar "meremas nasi jadi bola".
+Membuat Fan Tuan yang sempurna tidak sesederhana "meremas nasi menjadi bola".
 
-1.  **Penanganan Ketan**: Ketan panjang direndam 2-4 jam, saat dikukus butiran nasi "ditusuk lubang" agar matang merata. Ahli senior tambah sedikit minyak babi atau minyak sayur, agar butiran nasi berkilau dan tidak lengket di tangan [^17].
-2.  **Kontrol Suhu**: Nasi mesti dipertahankan di kisaran 60-70°C. Terlalu panas you tiao jadi lembek, terlalu dingin butiran nasi kehilangan kelekatannya.
-3.  **Teknik Meremas**: Setelah nasi diratakan, lapis berurutan rou song, cai pu, cai pu asin, terakhir you tiao. Saat meremas, gunakan kekuatan purlicue telapak tangan, tekan dari kedua sisi ke tengah, memastikan struktur padat tapi butiran nasi tidak hancur.
-4.  **Pencegahan Gagal**: Kalau nasi terlalu basah, Fan Tuan jadi "bubur"; kalau kekuatan remas kurang, makan setengah jalan hancur berantakan. Inilah perbedaan terbesar antara "buatan tangan" dan "produksi pabrik".
+1.  **Pengolahan Ketan**: Beras ketan panjang perlu direndam selama 2-4 jam, dan saat dikukus perlu dibuat "lubang" di tengahnya untuk memastikan panas merata. Pengrajin berpengalaman akan menambahkan sedikit lemak babi atau minyak sayur agar butiran nasi tampak berkilau dan tidak lengket di tangan [^17].
+2.  **Kontrol Suhu**: Nasi harus dijaga pada suhu sekitar 60-70°C. Jika terlalu panas, You Tiao akan menjadi lembek; jika terlalu dingin, butiran nasi akan kehilangan kelengketannya.
+3.  **Teknik Meremas**: Setelah nasi dibentangkan, isian diletakkan secara berurutan: abon daging, acar lobak asin, sayur asin, dan terakhir You Tiao. Saat meremas, kekuatan harus digunakan dari pangkal ibu jari telapak tangan, menekan dari kedua sisi ke arah tengah untuk memastikan struktur yang padat namun butiran nasi tidak hancur.
+4.  **Pencegahan Kegagalan**: Jika kadar air nasi terlalu banyak, Fan Tuan akan menjadi "lembek"; jika tekanan remasan kurang, ia akan hancur di tengah jalan saat dimakan. Inilah perbedaan terbesar antara "buatan tangan" dan "produksi pabrik".
 
-### Khas Daerah: Dari Kecap Yilan hingga Beras Sushi Taichung
+### Batasan Regional: Dari Kecap Yilan hingga Beras Sushi Taichung
 
-- **Aliran Kecap Yilan**: Di Yilan, Fan Tuan wajib isi telur ceplok "matang pas", dan lapisan luar nasi ketan disiram kecap asin manis atau minyak pedas. Bagi orang Yilan, Fan Tuan tanpa kecap seperti kurang satu rasa [^3].
-- **Aliran Beras Sushi Taichung**: Gerai terkenal Taichung seperti "Ben Wan Fan Tuan", karena pelanggan banyak pendaki gunung, khusus pakai beras sushi (beras putih) yang tetap enak dingin, memecahkan masalah ketan yang keras kalau lama diletakkan [^6].
+- **派 (派) Kecap Yilan**: Di Yilan, Fan Tuan harus dibungkus dengan telur mata sapi yang digoreng sempurna, lalu disiram kecap asin manis atau minyak cabai di bagian luar nasi ketan. Bagi orang Yilan, Fan Tuan tanpa kecap terasa seperti ada rasa yang hilang [^3].
+- **派 (派) Beras Sushi Taichung**: Toko terkenal di Taichung seperti "Honmaru Fan Tuan" dan lainnya, karena target pelanggannya mencakup banyak pendaki gunung, secara khusus menggunakan beras sushi (beras putih) yang tetap enak meskipun sudah dingin, guna mengatasi masalah nasi ketan yang mengeras jika dibiarkan lama [^6].
 
-### Evolusi Modern: Dari "Onigiri" ke Kreatif Vegetarian
+### Evolusi Modern: Dari "Onigiri" ke Vegetarian Kreatif
 
-1994, 7-Eleven Taiwan bawa masuk "Onigiri" khas Jepang, "Revolusi 18 Derajat C" ini mengubah total kebiasaan konsumsi Fan Tuan orang Taiwan [^1]. Fan Tuan modern kini berkembang ke arah keberagaman & kesehatan:
+Pada tahun 1994, Seven-Eleven memperkenalkan "Onigiri" gaya Jepang, sebuah "revolusi suhu 18°C" yang sepenuhnya mengubah kebiasaan konsumsi Fan Tuan masyarakat Taiwan [^1]. Fan Tuan modern kini berkembang menuju diversifikasi dan kesehatan:
 
-- **Rasa Kreatif**: Steak lada hitam, katsu keju, kimchi Korea, bahkan muncul "Fan Tuan Ayam Goreng".
-- **Pilihan Sehat**: Ketan hitam, beras lima biji ganti ketan putih murni, tambah kacang-kacangan, edamame, dll tinggi serat.
-- **Tren Vegetarian**: Seperti "Tian Shu" di Taoyuan, mengembangkan "Fan Tuan Ayam Vegetarian" yang disukai non-vegetarian, mendorong Fan Tuan ke panggung mode vegetarian [^18].
+- **Rasa Kreatif**: Steak lada hitam, babi goreng keju, kimchi Korea, bahkan muncul "Fan Tuan Ayam Goreng".
+- **Pilihan Sehat**: Beras ketan hitam dan beras lima biji menggantikan ketan putih murni, serta penambahan bahan tinggi serat seperti kacang-kacangan dan edamame.
+- **Tren Vegetarian**: Seperti toko "Tian Shu" di Taoyuan, mereka mengembangkan "Fan Tuan Ayam Goreng Sayur" yang bahkan disukai oleh pemakan daging, mendorong Fan Tuan ke arah tren vegetarian [^18].
 
-### Analisis Data "Obat Tidur" & Budaya "Pusing Karbohidrat"
+### Analisis Data "Obat Tidur" dan "Budaya Pusing Karbohidrat"
 
-Di komunitas maya Taiwan, Fan Tuan sering dicibir "Obat Tidur Terkuat".
+Dalam komunitas internet Taiwan, Fan Tuan sering dijuluki sebagai "obat tidur terkuat".
 
 ```tw-heatmap
-Jenis Fan Tuan | Kalori (kkal) | Karbo (g) | Lemak (g) | Indeks Glikemik (GI)
+Jenis Fan Tuan | Kalori (kcal) | Karbohidrat (g) | Lemak (g) | Indeks Glikemik (GI)
 Fan Tuan Tradisional | 650 | 85 | 28 | Tinggi
-Fan Tuan Ketan Hitam | 580 | 78 | 22 | Sedang Tinggi
-Onigiri (Tuna) | 200 | 38 | 3 | Sedang
-Sumber: Data Ahli Gizi, 2026
+Fan Tuan Ketan Hitam | 580 | 78 | 22 | Menengah-Tinggi
+Onigiri (Tuna) | 200 | 38 | 3 | Menengah
+Sumber: Olahan data ahli gizi, 2026
 ```
 
-Karena Fan Tuan gabungan ketan GI tinggi + you tiao & rou song berlemak tinggi, setelah makan gula darah melonjak drastis, memicu insulin keluar masif, lalu menimbulkan rasa ngantuk hebat [^10].
+Karena Fan Tuan menggabungkan ketan dengan GI tinggi serta You Tiao dan abon daging yang tinggi lemak, kadar gula darah akan melonjak cepat setelah dikonsumsi, memicu sekresi insulin dalam jumlah besar, yang kemudian menyebabkan rasa kantuk yang kuat [^10].
 
-📝 **Saran Ahli Gizi**: Mau hindar "pusing karbo", bisa pilih versi ketan hitam, dan minta bos "you tiao setengah, tambah satu telur", temani susu kedelai tanpa gula untuk seimbangkan kecepatan naik gula darah [^11].
+📝 **Saran Ahli Gizi**: Jika ingin menghindari "pusing karbohidrat", Anda dapat memilih versi ketan hitam, dan mintalah penjual untuk "mengurangi setengah porsi You Tiao, tambah satu telur", serta dampingi dengan susu kedelai tanpa gula untuk menyeimbangkan kecepatan kenaikan gula darah [^11].
 
-### Di Panggung Internasional: "Taiwanese Burrito"
+### "Taiwanese Burrito" di Panggung Internasional
 
-2026, Fan Tuan khas Taiwan meledak di Williamsburg dan kawasan kumpul anak kreatif AS. Gerai sarapan Taiwan **Egg & Soy** (di 296 Bedford Ave), Brooklyn, bawa Fan Tuan ketan hitam ke panggung utama AS [^12]. Di New York, satu Fan Tuan dijual ~10,95 USD (sekitar NT$350), tetap bikin KOL asing mau antre ziarah [^13].
+Pada tahun 2026, Fan Tuan gaya Taiwan menjadi viral di tempat-tempat berkumpulnya kaum hipster seperti Williamsburg di Amerika Serikat. Toko sarapan Taiwan bernama **Egg & Soy** yang berlokasi di Brooklyn (di 296 Bedford Ave), membawa Fan Tuan ketan hitam ke dalam pandangan arus utama Amerika [^12]. Di New York, satu buah Fan Tuan dijual seharga sekitar USD 10,95 (sekitar NT$350), namun tetap membuat para KOL asing rela mengantre untuk mencicipinya [^13].
 
 ```tw-stat
 10.95 USD | Harga satuan Fan Tuan Egg & Soy New York | Sekitar NT$350
-320 TWD | Rata-rata belanja pelanggan gerai sarapan Taiwan di AS | Lebih 6 kali lipat Taiwan
-10/10 | Nilai KOL TikTok AS | Rasa kenyang tinggi & tekstur unik
-Sumber: Data Grubhub & TikTok
+320 TWD | Rata-rata harga per pelanggan toko sarapan Taiwan di AS | Lebih dari 6 kali lipat Taiwan
+10/10 | Skor influencer TikTok Amerika | Rasa kenyang tinggi dan tekstur unik
+Sumber: Olahan data Grubhub & TikTok
 ```
 
-📝 Catatan Kurator: Saat Fan Tuan dari tong kayu pinggir jalan melangkah ke kafe anak kreatif New York, yang berubah adalah kulitnya, yang tak berubah adalah rasa "tenang" yang bikin orang merasa kokoh dalam sekejap. Bola karbohidrat ini, dengan cara paling lembut, menaklukkan perut dunia.
+📝 Catatan Kurator: Ketika Fan Tuan berpindah dari bak kayu di pinggir jalan menuju kafe hipster di New York, yang berubah adalah kemasannya, namun yang tidak berubah adalah rasa kenyang yang memberikan perasaan "mantap" seketika. Bom karbohidrat ini sedang menaklukkan perut dunia dengan cara yang paling lembut.
 
 ---
 
 ## Referensi
 
-[^1]: [Sejarah Evolusi Fan Tuan Ketan Tradisional Taiwan](https://www.facebook.com/groups/1974693462806123/posts/4347818218826957/) — Pos Publik Facebook
+[^1]: [Evolusi Sejarah Fan Tuan Ketan Tradisional Taiwan](https://www.facebook.com/groups/1974693462806123/posts/4347818218826957/) — Postingan publik Facebook
 
-[^2]: [Dari Evolusi Onigiri Era Yayoi: Renungan Masakan Jepang & Masakan Taiwan](https://crossing.cw.com.tw/article/11155) — Lihat detail di tautan asli untuk data tambahan
+[^2]: [Bermula dari Evolusi Onigiri Zaman Yayoi: Belajar dari Masakan Jepang dan Masakan Taiwan](https://crossing.cw.com.tw/article/11155) — Lihat detail tambahan dalam tautan asli
 
-[^3]: [Fan Tuan Taiwan Meledak Dibuah Orang Asing! 2 Keunggulan Kalahkan Xiao Long Bao](https://city.gvm.com.tw/article/107299) — Lihat detail di tautan asli untuk data tambahan
+[^3]: [Fan Tuan Taiwan Viral Mendadak, Jadi Pilihan Orang Asing! 2 Keunggulan Melampaui Xiao Long Bao](https://city.gvm.com.tw/article/107299) — Lihat detail tambahan dalam tautan asli
 
-[^4]: [Makanan Taiwan yang Meledak di Eropa-Amerika! Prasejarah & Masa Kini Fan Tuan Khas Taiwan](https://www.gq.com.tw/article/%E5%8F%B0%E5%BC%8F%E9%A3%AF%E7%B3%B0) — Lihat detail di tautan asli untuk data tambahan
+[^4]: [Kuliner Taiwan yang Viral di Barat! Tentang Masa Lalu dan Masa Kini Fan Tuan gaya Taiwan](https://www.gq.com.tw/article/%E5%8F%B0%E5%BC%8F%E9%A3%AF%E7%B3%B0) — Lihat detail tambahan dalam tautan asli
 
-[^5]: [Zifan: Wikipedia, Ensiklopedia Bebas](https://zh.wikipedia.org/zh-hant/%E7%B2%A2%E9%A5%AD%E5%9B%A2) — Entri Wikipedia
+[^5]: [Ci Fan Tuan: Wikipedia, Ensiklopedia Bebas](https://zh.wikipedia.org/zh-hant/%E7%B2%A2%E9%A5%AD%E5%9B%A2) — Entri Wikipedia
 
-[^6]: [Rekomendasi Kedai Favoritmu! Atlas Fan Tuan Taiwan](https://homeruntaiwan.com/detail/article/3172) — Lihat detail di tautan asli untuk data tambahan
+[^6]: [Rekomendasikan Toko Favoritmu! Ilustrasi Fan Tuan Taiwan](https://homeruntaiwan.com/detail/article/3172) — Lihat detail tambahan dalam tautan asli
 
-[^7]: [Kurang Satu Rasa Sudah Bed? Survei Isian Kunci Fan Tuan Khas Taiwan](https://www.youtube.com/watch?v=6VclUL0BXoU) — Catatan Video YouTube
+[^7]: [Kurang Satu Rasa Jadi Tidak Pas? Survei Isian Kunci Fan Tuan gaya Taiwan](https://www.youtube.com/watch?v=6VclUL0BXoU) — Rekaman video YouTube
 
-[^8]: [Fan Tuan Khas Taiwan Meledak di AS! Rekomendasi 3 Kedai Legendaris Wajib Makan](https://style.udn.com/style/story/11350/9553911) — Liputan UDN
+[^8]: [Fan Tuan gaya Taiwan Viral di Amerika! Rekomendasi 3 Toko Fan Tuan Tradisional yang Wajib Dicoba](https://style.udn.com/style/story/11350/9553911) — Laporan UDN
 
-[^9]: [Fan Tuan Ketan Hitam Meledak di TikTok, Satu Bola Dijual NT$320 di AS](https://www.instagram.com/p/DY12SGkjgyx/) — Lihat detail di tautan asli untuk data tambahan
+[^9]: [Fan Tuan Ketan Hitam Viral di TikTok, Satu Buah Terjual NT$320 di Amerika](https://www.instagram.com/p/DY12SGkjgyx/) — Lihat detail tambahan dalam tautan asli
 
-[^10]: [Fan Tuan Khas Tiongkok Bisa Dibilang Obat Bantu Tidur Terkuat! Kenapa Makan Jadi Ngantuk?](https://www.lexcellence.com.tw/threads-foodcoma-260203/) — Lihat detail di tautan asli untuk data tambahan
+[^10]: [Fan Tuan gaya Tiongkok Bisa Menjadi Obat Tidur Terkuat! Mengapa Setelah Makan Jadi Ingin Tidur?](https://www.lexcellence.com.tw/threads-foodcoma-260203/) — Lihat detail tambahan dalam tautan asli
 
-[^11]: [Fan Tuan Ketan Hitam Meledak di AS! Ahli Gizi Ungkap Kebenaran "Pusing Karbo"](https://health.gvm.com.tw/article/130088) — Lihat detail di tautan asli untuk data tambahan
+[^11]: [Fan Tuan Ketan Hitam Viral di Amerika! Ahli Gizi Ungkap Kebenaran "Pusing Karbohidrat"](https://health.gvm.com.tw/article/130088) — Lihat detail tambahan dalam tautan asli
 
-[^12]: [Egg & Soy: Kafe Sarapan Taiwan di Williamsburg](https://www.theinfatuation.com/new-york/reviews/egg-and-soy) — Lihat detail di tautan asli untuk data tambahan
+[^12]: [Egg & Soy: Taiwanese Breakfast Cafe in Williamsburg](https://www.theinfatuation.com/new-york/reviews/egg-and-soy) — Lihat detail tambahan dalam tautan asli
 
-[^13]: [Gerai Sarapan Taiwan Pertama di New York: Uji Coba Nyata Egg & Soy](https://www.instagram.com/reel/DYhWLiHgTGN/) — Lihat detail di tautan asli untuk data tambahan
+[^13]: [Toko Spesialis Sarapan Taiwan Pertama di New York: Ulasan Egg & Soy](https://www.instagram.com/reel/DYhWLiHgTGN/) — Lihat detail tambahan dalam tautan asli
 
-[^14]: [Eksplorasi Luar Biasa: Kisah Juru Masak Fan Tuan Bu Liu](https://www.youtube.com/watch?v=Vjxa8zrVvgc) — Catatan Video YouTube
+[^14]: [Eksplorasi Luar Biasa: Kisah Pengrajin Fan Tuan Ibu Liu](https://www.youtube.com/watch?v=Vjxa8zrVvgc) — Rekaman video YouTube
 
-[^15]: [Budaya Makanan Taiwan Dinasti Qing: Makanan Perayaan Terbuat Ketan](https://www.facebook.com/GeneralHistoryofTaiwan/videos/26574771368863652/) — Pos Publik Facebook
+[^15]: [Budaya Kuliner Taiwan Dinasti Qing: Hidangan Perayaan dari Ketan](https://www.facebook.com/GeneralHistoryofTaiwan/videos/26574771368863652/) — Postingan publik Facebook
 
-[^16]: [A-bai & Cinavu Masyarakat Asli: Kebijaksanaan Makanan Nasi Bungkus Daun](https://vocus.cc/article/60ff6237fd89780001bd966c) — Lihat detail di tautan asli untuk data tambahan
+[^16]: [A-bai dan Cinavu Masyarakat Adat: Kebijaksanaan Makanan Beras yang Dibungkus Daun](https://vocus.cc/article/60ff6237fd89780001bd966c) — Lihat detail tambahan dalam tautan asli
 
-[^17]: [Trik Pembuatan Fan Tuan Kuno: Rendam & Kukus Ketan](https://caroleasylife.blogspot.com/2008/05/blog-post_3.html) — Lihat detail di tautan asli untuk data tambahan
+[^17]: [Teknik Pembuatan Fan Tuan Rasa Tradisional: Perendaman dan Pengukusan Ketan](https://caroleasylife.blogspot.com/2008/05/blog-post_3.html) — Lihat detail tambahan dalam tautan asli
 
-[^18]: [Tian Shu Taoyuan: Tren Fan Tuan Vegetarian Inovatif Modern](https://www.instagram.com/reel/DQrCFryEtjq/) — Lihat detail di tautan asli untuk data tambahan
+[^18]: [Tian Shu Taoyuan: Tren Fan Tuan Vegetarian Inovatif Modern](https://www.instagram.com/reel/DQrCFryEtjq/) — Lihat detail tambahan dalam tautan asli

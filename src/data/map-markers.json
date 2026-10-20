@@ -84,7 +84,7 @@
     "region": "north",
     "link": "/art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
     "lang": "zh-TW",
-    "desc": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
+    "desc": "排灣族的石板屋、森山松之助留下的紅磚廳舍、王大閎為現代建築奠基的線條，到黃聲遠在宜蘭稻田間蓋起沒有圍牆的公共建築。四百年來原住民、荷蘭人、日本人與漢人的營造智慧在這座島上碰撞，威尼斯建築雙年展曾以「在全球化中堅持地方性」形容這種混血特質。",
     "city": "台北"
   },
   {
@@ -128,7 +128,7 @@
     "region": "south",
     "link": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
     "lang": "zh-TW",
-    "desc": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
+    "desc": "台灣當代雕塑從傳統木雕發展而來，經歷黃土水奠定現代基礎、楊英風建立當代語彙、朱銘將東方精神融入國際視野三個世代；從現代雕塑運動起，藝術家在材料、主題與空間上屢有突破，朱銘美術館與戶外雕塑公園遍布全台，新世代持續推動多元發展，在國際展覽累積能見度與收藏認可。",
     "city": "台南"
   },
   {
@@ -174,6 +174,17 @@
     "lang": "zh-TW",
     "desc": "1945 年 8 月，葉石濤 20 歲從日本陸軍退伍回到台南，打開稿紙一個中文字都寫不出來。這張白紙要等他 42 年。中間是失語、入獄、論戰、學會迂迴。1987 年 2 月，他出了一本 232 頁的書，書名只有「台灣」兩個字。",
     "city": "台東"
+  },
+  {
+    "title": "戰後台灣現代主義建築群像：從 1967 年那份得獎名單說起",
+    "lat": 25.032234,
+    "lng": 121.557168,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E4%B8%BB%E7%BE%A9%E5%BB%BA%E7%AF%89%E7%BE%A4%E5%83%8F",
+    "lang": "zh-TW",
+    "desc": "1967 年 4 月 30 日，第一屆建築金鼎獎把楊卓成的宮殿式地標與王大閎、陳其寬、修澤蘭的現代主義作品放進同一份名單。這份名單說明戰後台灣建築不是一條路線取代另一條，而是兩條路線同時在蓋。王大閎用一棟自宅做實驗，陳其寬在東海創了台灣第一個建築系，修澤蘭十三個月蓋完中山樓，漢寶德把建築變成可以教也可以展的知識，王秋華則從圖書館開始改變公共建築的想像。",
+    "city": "台北"
   },
   {
     "title": "數位荒原：一個沒商業模式的網路藝評平台怎麼活了 12 年",
@@ -650,13 +661,13 @@
   },
   {
     "title": "台灣文化創意園區發展",
-    "lat": 22.62131,
-    "lng": 120.295029,
+    "lat": 22.61431,
+    "lng": 120.276029,
     "category": "culture",
     "region": "south",
     "link": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
     "lang": "zh-TW",
-    "desc": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
+    "desc": "台灣的文創園區起源於年代的舊建築活化，以華山、松山文創園區與駁二藝術特區為代表，將廢棄酒廠、菸廠等工業設施轉型為創意產業聚落；政府推動文創產業發展計畫並立法，提供法制支持，從廢棄廠房蛻變為國際知名文化地標，兼具城市再生與產業升級的雙重意義。",
     "city": "高雄"
   },
   {
@@ -755,7 +766,7 @@
     "region": "north",
     "link": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從地下塗鴉到合法彩繪，城市牆面如何成為台灣藝術家的創作舞台",
+    "desc": "台灣街頭藝術自解嚴後隨嘻哈文化傳入，從西門町深夜噴漆的地下場景，到退伍軍人黃永阜在台中軍眷村牆面彩繪催生的彩虹村模式，高雄駁二等文創空間陸續提供合法舞台，政府邀請藝術家進駐園區，將近三十年的演進折射出社會開放與城市空間再定義的軌跡。",
     "city": "台北"
   },
   {
@@ -1360,7 +1371,7 @@
     "region": "north",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%BB%81%E5%AF%B6%E9%9B%BB%E8%85%A6",
     "lang": "zh-TW",
-    "desc": "全球第二大筆電代工龍頭，台灣ODM產業的重要推手",
+    "desc": "1984年成立、隸屬金仁寶集團的台灣ODM大廠，全球逾80%的筆電出自台灣代工廠，仁寶以約20-25%市占率穩居全球第二大筆電代工龍頭；當你打開標示Dell、Lenovo或Acer的筆電，很可能正是仁寶設計製造——它從OEM逐步進化到ODM，如今跨足AI、5G與電動車等新興應用，完整見證台灣製造業從代工到設計的轉型軌跡。",
     "city": "台北"
   },
   {
@@ -1371,7 +1382,7 @@
     "region": "central",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98",
     "lang": "zh-TW",
-    "desc": "台灣經營之神王永慶打造的石化王國，台塑四寶的製造傳奇",
+    "desc": "由「台灣經營之神」王永慶於1954年創立，是台灣最大的石化工業集團：從最初的一座小型PVC塑膠工廠起家，如今發展成含台塑、南亞、台化與台塑化「台塑四寶」的產業帝國，員工超過10萬人、年營收合計約3兆新台幣，橫跨石化、塑膠、纖維與電子材料等領域，是台灣工業化進程的重要推手。",
     "city": "雲林"
   },
   {
@@ -1437,7 +1448,7 @@
     "region": "north",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6",
     "lang": "zh-TW",
-    "desc": "從工廠火災到全球筆電王，林百里如何建造AI時代的新帝國？",
+    "desc": "1987年一場工廠火災，讓林百里辭職離開金寶電子；隔年他在台北士林以三千萬資本創立廣達，36年後這家公司成為全球最大筆電代工廠，2023年營收達1.08兆元，全球每三台筆電就有一台出自廣達。AI時代來臨，廣達再次華麗轉身，成為NVIDIA最重要的伺服器組裝夥伴。",
     "city": "台北"
   },
   {
@@ -1448,7 +1459,7 @@
     "region": "south",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94",
     "lang": "zh-TW",
-    "desc": "全球第一大封測廠，建設公司老闆為何轉戰半導體？",
+    "desc": "1984年，做建設起家的張姚宏影母子三人把資金轉進半導體封測，在高雄楠梓創立日月光，1989年成為台灣第一家上市的封測公司，1998年併購韓國K&S開創「封裝＋測試」一站式服務；40年後以2024年營收101億美元、全球市占率近45%登上封測龍頭，成為讓晶片穿上衣服、做好體檢的隱形冠軍。",
     "city": "高雄"
   },
   {
@@ -1470,7 +1481,7 @@
     "region": "north",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80",
     "lang": "zh-TW",
-    "desc": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
+    "desc": "1983年由三位前惠普工程師創辦的工業電腦公司，如今已是全球工業電腦的龍頭企業，專注工業物聯網與邊緣運算解決方案，據點遍及全球27國、員工近九千人；從最初的工業電腦製造商，轉型為「智能地球的推手」，為製造、醫療、交通、零售等場域提供數位轉型的核心技術。",
     "city": "台北"
   },
   {
@@ -1548,6 +1559,17 @@
     "link": "/economy/%E5%8F%B0%E7%81%A3%E5%95%A4%E9%85%92",
     "lang": "zh-TW",
     "desc": "一瓶台灣啤酒曾經不是普通商品。它從 1919 年的高砂麥酒、戰後的菸酒公賣局、建國啤酒廠保存的酵母與 2002 年的市場自由化一路走來。今天便利商店冰櫃裡的金牌瓶，仍裝著國家財政、城市勞動、物流技術與消費記憶。沿著瓶身、發酵槽、回收玻璃瓶、配送車與熱炒店餐桌回看，才能理解一個品牌如何從制度特權轉成競爭市場裡的日常信任。",
+    "city": "台北"
+  },
+  {
+    "title": "台灣外貿與全球供應鏈",
+    "lat": 25.032935,
+    "lng": 121.571904,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
+    "lang": "zh-TW",
+    "desc": "從年代的成衣玩具到今日半導體晶片，台北港的貨櫃日夜裝卸著台灣經濟奇蹟；這座島嶼以出口值名列全球前幾大經濟體，在半導體與資通訊產品掌握關鍵地位，對美出口首破千億美元、對中出口佔比高，深刻凸顯它在美中三角關係中的微妙位置。",
     "city": "台北"
   },
   {
@@ -1635,7 +1657,7 @@
     "region": "north",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
     "lang": "zh-TW",
-    "desc": "市場不到美國 1%，平台卻多一倍——台灣創作者怎麼活下來的？",
+    "desc": "台灣網紅廣告市場規模不到美國的百分之一，單一中型創作者卻同時經營近雙倍數量的平台，變現靠聯盟行銷而非訂閱制；從科技業產品經理轉職的頻道主翁雋明以開箱、評測紅遍網路，演繹市場極小、平台極碎下，創作者如何用另一套規則存活下來。",
     "city": "台北"
   },
   {
@@ -1657,7 +1679,7 @@
     "region": "central",
     "link": "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E8%88%87%E8%BE%B2%E6%9D%91%E5%86%8D%E7%94%9F",
     "lang": "zh-TW",
-    "desc": "從稻米王國到精緻農業：台灣農業轉型與農村社區重生的故事",
+    "desc": "從日治時期的蓬萊米育種、戰後的土地改革，到今日的精緻農業與農食鏈經濟，這座島嶼的農業從量產稻米王國蛻變為創意與永續並存的新典範，返鄉青年以手機直播結合產地直送讓消費者下單預購，使流失人口的農村村落重生為文化與生態的重要根基。",
     "city": "雲林"
   },
   {
@@ -1778,7 +1800,7 @@
     "region": "south",
     "link": "/economy/%E8%BE%B2%E6%A5%AD%E7%A7%91%E6%8A%80%E8%88%87%E7%B2%BE%E7%B7%BB%E8%BE%B2%E6%A5%AD",
     "lang": "zh-TW",
-    "desc": "台灣如何從傳統農業轉型為高科技精緻農業，創造農業奇蹟",
+    "desc": "以不到萬平方公里的土地，台灣從蓬萊米之父磯永吉以降長期品種改良，發展出蘭花、鳳梨釋迦、高山茶等精緻農產品，在國際市場占有關鍵地位，農業與農食鏈更撑起廣大就業，如今結合物聯網等新科技走向智慧農業，以精緻取代粗放、科技取代勞力，驗證小國在全球農業競爭中的獨特定位。",
     "city": "台南"
   },
   {
@@ -1855,7 +1877,7 @@
     "region": "central",
     "link": "/food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從玉井芒果冰到雪花冰革命，探索台灣人冬天也要吃冰的獨特文化",
+    "desc": "台灣人對冰品的熱愛世界少有，冬天依然高朋滿座；這項文化可追溯至日治時期製冰技術引進，歷經戰後剉冰普及與年代雪花冰出現，台中陳溪參考日本四果冰發展出蜜豆冰，玉井芒果冰揚名海外，甚至帶動製冰冷藏漁業，是一條有具體時間節點可追溯的演變史。",
     "city": "台中"
   },
   {
@@ -1899,7 +1921,7 @@
     "region": "south",
     "link": "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從珍珠奶茶到精品茶飲，台灣手搖飲文化的崛起與全球擴張",
+    "desc": "從1980年代珍珠奶茶的誕生開始，手搖飲成為這座島嶼最具代表性的生活符號：街角的50嵐、商圈的貢茶、傳統的春水堂，到新潮的迷客夏，色彩繽紛的招牌隨處可見。以創意茶飲拓展全球市場，記錄著台灣人對生活品質的追求、對創新的熱情與共同記憶。",
     "city": "高雄"
   },
   {
@@ -1965,7 +1987,7 @@
     "region": "north",
     "link": "/food/%E5%8F%B0%E7%81%A3%E6%BB%B7%E8%82%89%E9%A3%AF",
     "lang": "zh-TW",
-    "desc": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
+    "desc": "從眷村廚房走向國民美食的滷肉飯，是台灣庶民飲食記憶的核心載體：北部叫滷肉飯、南部叫肉燥飯，做法刀工調味各有不同，一場關於名字的南北戰爭背後是料理工藝的分流。2011年米其林指南英文版誤譯其為山東起源，引發全民正名行動，道地庶民美食的地位自此定論。",
     "city": "台北"
   },
   {
@@ -2284,7 +2306,7 @@
     "region": "north",
     "link": "/food/%E7%89%9B%E8%82%89%E9%BA%B5",
     "lang": "zh-TW",
-    "desc": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
+    "desc": "從農業社會「牛是幫手、毋食牛」的飲食禁忌，到戰後外省移民以各省烹調工藝交融出紅燒、清燉、番茄等流派，一碗國民麵食承載省籍交融與味覺記憶，近年透過專屬美食節與國際名單推薦，這碗麵從街頭小吃躍上全球美食舞台，成為台灣飲食文化多元包容精神的閃亮明星。",
     "city": "台北"
   },
   {
@@ -2790,7 +2812,7 @@
     "region": "north",
     "link": "/geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
     "lang": "zh-TW",
-    "desc": "從缺水危機到水庫淤積，台灣水資源的挑戰與南北分配不均的困境",
+    "desc": "在年降雨量豐沛的雨島之上，水資源卻因降雨集中在颱風季節且雨影區明顯而常感吃緊；從石門、曾文到翡翠、南化，水庫系統承載萬人用水命脈，梅雨不來與颱風避開讓水情成為年度關鍵字，南北分配不均疊加淤積問題，嚴峻考驗這座島嶼的用水未來。",
     "city": "台北"
   },
   {
@@ -3652,6 +3674,17 @@
     "city": "嘉義"
   },
   {
+    "title": "台灣古蹟保存運動史：從林安泰古厝被拆開始的三條路線",
+    "lat": 25.032586,
+    "lng": 121.571166,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E5%8F%B0%E7%81%A3%E5%8F%A4%E8%B9%9F%E4%BF%9D%E5%AD%98%E9%81%8B%E5%8B%95%E5%8F%B2",
+    "lang": "zh-TW",
+    "desc": "1978 年 6 月 26 日，台北市大安區的林安泰古厝在鞭炮與香煙中開始拆除，建築師李重耀帶著工人用草繩、粉筆和七十張工程圖，把一棟兩百年的四合院拆成三萬八千塊磚石與二十四萬片瓦。這場拆遷直接催出 1982 年的《文化資產保存法》。此後保存運動分成三條路線：樂生療養院把古蹟與居住權綁在一起，台北市的老房子文化運動則把修復交給市場，成果與爭議同時出現。",
+    "city": "台北"
+  },
+  {
     "title": "聲音沒有地址：台灣廣播如何從國家喇叭變成地方的公共空間",
     "lat": 25.025172,
     "lng": 121.559226,
@@ -3692,7 +3725,7 @@
     "region": "south",
     "link": "/history/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E8%B2%BF%E6%98%93%E5%8F%B2",
     "lang": "zh-TW",
-    "desc": "大航海時代的台灣，從國際貿易中心到海盜王國的興衰傳奇",
+    "desc": "16、17世紀大航海時代，這座島嶼不是東亞邊陲小島，而是連結中國、日本與東南亞的重要貿易樞紐：荷蘭東印度公司在台南建熱蘭遮城，從中國進口生絲瓷器茶葉、自日本得銀錠、由東南亞運來香料木材在此轉運，被譽為東亞的阿姆斯特丹；鄭氏王朝更締造海上霸權，寫下從貿易樞紐到海盜王國的興衰史。",
     "city": "台南"
   },
   {
@@ -3736,7 +3769,7 @@
     "region": "north",
     "link": "/history/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
     "lang": "zh-TW",
-    "desc": "從緬甸孤軍到竹籬笆王國，120萬大遷徙如何重新定義「家」",
+    "desc": "年起國民政府為安置隨軍眷屬興建眷村，竹籬笆、黃泥巴與鐵皮搭起一戶不到坪的臨時家園；桃園忠貞新村收容自緬北撤台的孤軍眷屬，這群人在中緬邊境打了將近四年游擊才輾轉來台，承載流亡與定居、故鄉與他鄉的辯證，最終從竹籬笆演變為國宅，成為台灣多元文化的重要基因。",
     "city": "桃園"
   },
   {
@@ -3958,6 +3991,17 @@
     "lang": "zh-TW",
     "desc": "1786 年底起於中部的林爽文事件，不只是一場被清廷稱為平定的民變，也迫使帝國改變臺灣的港口、屯丁與築城政策。",
     "city": "彰化"
+  },
+  {
+    "title": "森山松之助：用三座州廳與一座法院，替台灣畫出官方的臉",
+    "lat": 25.033132,
+    "lng": 121.560383,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E6%A3%AE%E5%B1%B1%E6%9D%BE%E4%B9%8B%E5%8A%A9%E8%88%87%E6%97%A5%E6%B2%BB%E5%B7%9E%E5%BB%B3%E5%BB%BA%E7%AF%89",
+    "lang": "zh-TW",
+    "desc": "1906 年，一位大阪望族出身的東京帝大畢業生來台擔任囑託，設計了全日本帝國第一座全鋼筋混凝土建築。此後十五年，森山松之助接連完成台北州廳、台中州廳、台南州廳、台南法院、專賣局、鐵道部與台灣總督府。他處理不對稱基地、複合柱式與雙動線的手法，讓殖民政府的權力有了具體形狀，也留下今天監察院、台中州廳與國立台灣文學館所在的三棟紅磚廳舍。",
+    "city": "台北"
   },
   {
     "title": "民主化",
@@ -4297,7 +4341,7 @@
     "region": "north",
     "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
     "lang": "zh-TW",
-    "desc": "從清晨太極到夜間散步——台灣公園作為跨世代社交場域的文化觀察",
+    "desc": "清晨的大安森林公園裡，長者跟著國樂打太極、練外丹功，午後家長帶孩子嬉戲，傍晚上班族下班散步，深夜屬於遛狗的人與需要安靜的靈魂；同一座公園在不同時段輪替登場，構成跨世代交錯使用的社交場域，也映照出台北都會日常的節奏與溫度。",
     "city": "台北"
   },
   {
@@ -4429,7 +4473,7 @@
     "region": "north",
     "link": "/lifestyle/%E5%8F%B0%E7%81%A3%E9%A8%8E%E6%A8%93%E6%96%87%E5%8C%96%E8%88%87%E8%A1%97%E6%99%AF",
     "lang": "zh-TW",
-    "desc": "遮風避雨的生活廊道，機車、攤販與人情味交織的台灣街頭記憶",
+    "desc": "台灣騎樓是1900年日治時期推廣的建築形式，融合南洋殖民建築與在地需求：二樓突出、一樓開放的設計創造了半公共空間，容納攤販、機車停車與鄰里社交多重功能。下雨天躲雨、放學買雞排、夏夜在騎樓聊天——這條遮風避雨的廊道，承載台灣人共同的生活記憶。",
     "city": "台北"
   },
   {
@@ -4473,7 +4517,7 @@
     "region": "north",
     "link": "/lifestyle/%E5%A4%9C%E7%94%9F%E6%B4%BB%E8%88%87KTV%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從錢櫃包廂到深夜食堂，24 小時不打烊的島嶼夜生活",
+    "desc": "包廂式KTV在1990年代興起，錢櫃、好樂迪、星聚點等品牌開枝散葉，超過10萬首歌、從豪華總統包廂到平價歡樂包，讓KTV成為全民娛樂與聚會首選；但1992年神話世界KTV縱火16死、2020年錢櫃林森店火災6死，兩起憾事逼全社會正視包廂逃生安全，雙雄競爭與安全改革交織成島嶼夜生活。",
     "city": "台北"
   },
   {
@@ -4528,7 +4572,7 @@
     "region": "east",
     "link": "/lifestyle/%E6%BA%AB%E6%B3%89%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從軍事療養到世界三大泥泉：台灣意外成為溫泉王國的故事",
+    "desc": "台灣溫泉源自日治時期軍事醫療需求，從北投天狗庵的偶然發現，演化為密度冠絕全球的溫泉聚落，關子嶺泥質溫泉與綠島海底溫泉更是世界僅有的地質奇蹟，這座島嶼融合日式療癒傳統與本土社交文化，交織出戰爭與療癒意外而生的文明故事。",
     "city": "台東"
   },
   {
@@ -4693,7 +4737,7 @@
     "region": "north",
     "link": "/music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
     "lang": "zh-TW",
-    "desc": "從垃圾車的致愛麗絲到布農族八部合音——用耳朵認識台灣",
+    "desc": "從垃圾車傳出的旋律到廟口北管鑼鼓，從布農族八部合音到夜市叫賣，每一種聲響都是活的文化密碼；這裡的機車密度全球最高，引擎聲組成獨特交響曲，廟會音樂、原住民複音與庶民消費的聲音劇場層層疊疊，拼出獨一無二的城市指紋，記錄著歷史、記憶與身份認同。",
     "city": "台北"
   },
   {
@@ -4781,7 +4825,7 @@
     "region": "central",
     "link": "/music/%E5%BC%B5%E6%87%B8%E8%88%87%E5%AE%89%E6%BA%A5",
     "lang": "zh-TW",
-    "desc": "13 歲寫出〈寶貝〉，32 歲因一面旗子被中國封殺，34 歲親手殺死自己的藝名。焦安溥用兩段人生回答了一個台灣人都在問的問題：你到底站哪邊？",
+    "desc": "焦安溥 13 歲寫出〈寶貝〉，以藝名「張懸」成為台灣獨立音樂的代表聲音。2013 年她在英國演唱會上舉起中華民國國旗，被中國市場封殺；2015 年她主動告別藝名，消失三年後以本名「安溥」復出，2022 年交出《9522》。從女巫店只有兩桌客人的年代走到今天，她的兩段人生回答的是同一個關於名字與立場的難題。",
     "city": "南投"
   },
   {
@@ -4924,7 +4968,7 @@
     "region": "central",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
     "lang": "zh-TW",
-    "desc": "一趟從海平面到玉山頂峰的垂直旅行，穿越地球上最密集的森林光譜",
+    "desc": "在極短水平距離內，這座島嶼從海平面攀升至玉山之巔，濃縮出從熱帶到亞北極的完整林相，木麻黃、千年檜木與玉山圓柏各據一方；高覆蓋率是全球平均值的兩倍，卻幾乎全擠在垂直山壁上，年年承受颱風、地震與暴雨的考驗，是全球密度最高也最脆弱的森林之一。",
     "city": "南投"
   },
   {
@@ -5056,7 +5100,7 @@
     "region": "central",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%9F%B3%E8%99%8E%E4%BF%9D%E8%82%B2",
     "lang": "zh-TW",
-    "desc": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
+    "desc": "雲豹滅絕後，全島最後的原生貓科只剩這隻淺山幽靈；牠不住深山，棲息在苗栗、南投、台中低海拔淺山地帶，馬路車禍、棲地被工廠覆蓋、雞隻屢遭偷獵與流浪犬環伺，估計數量不到五百隻且持續下滑，已被列為一級瀕臨絕種保育類野生動物，是台灣發展與保育最尖銳的正面對決。",
     "city": "苗栗"
   },
   {
@@ -5067,7 +5111,7 @@
     "region": "north",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
     "lang": "zh-TW",
-    "desc": "全世界被走私最多的哺乳動物，在台灣找到了一個安全的家",
+    "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群穩定甚至回升，成為少見的保育成功案例，讓世界看見物種滅絕並非命定。",
     "city": "台北"
   },
   {
@@ -6288,7 +6332,7 @@
     "region": "north",
     "link": "/people/%E7%8E%8B%E6%B0%B8%E6%85%B6",
     "lang": "zh-TW",
-    "desc": "1917年1月18日生於台北新店，王永慶15歲輟學借錢開米店，1954年創立台灣塑膠。1973年向政府提案六輕，奮戰近二十年後方獲批，1998年雲林麥寮正式量產。2008年10月15日於美國逝世，享壽92歲，身後留下跨越十餘年的家族爭產糾紛。",
+    "desc": "1917 年生於台北新店的貧困農家，15 歲輟學、向父親借來 200 元日幣開設「新高製米所」，1954 年創立台灣塑膠，日後被稱為「經營之神」。1973 年他向政府提案六輕，遭多次拒絕仍不放棄，奮戰近二十年才獲批准，1998 年在雲林麥寮正式量產。2008 年 10 月 15 日他在美國紐約逝世，享壽 92 歲，身後那場家族爭產糾紛延燒到 2022 年前後。",
     "city": "台北"
   },
   {
@@ -6706,7 +6750,7 @@
     "region": "south",
     "link": "/people/%E8%B1%AC%E5%93%A5%E4%BA%AE",
     "lang": "zh-TW",
-    "desc": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
+    "desc": "本名謝新達，1946 年生於高雄左營，父親打鐵、母親賣菜，小學畢業後輟學，15 歲拜師學歌仔戲。1960 年代他在夜市模仿歌星起家，1970 年代台灣經濟起飛、夜間娛樂需求增加，秀場文化應運而生，他把傳統戲曲、民間說唱與流行元素揉成「豬式幽默」，用台語即興押韻把庶民語言帶上電視綜藝。2017 年 5 月，他因大腸癌逝世。",
     "city": "高雄"
   },
   {
@@ -7069,7 +7113,7 @@
     "region": "east",
     "link": "/people/%E9%99%B3%E6%A8%B9%E8%8F%8A",
     "lang": "zh-TW",
-    "desc": "一個台東菜販，用五十年的菜錢捐了數千萬，卻說自己「就是一個賣菜的」",
+    "desc": "1950 年生，台東中央市場的菜販。13 歲那年母親難產過世，她輟學開始賣菜，此後五十多年把菜錢一筆一筆捐給學校、孤兒院和醫院，累計數千萬元。2010 年她登上《時代》雜誌全球百大影響力人物，由導演李安親自撰文推薦，後來又獲麥格塞塞獎。她說自己「就是一個賣菜的」。",
     "city": "台東"
   },
   {
@@ -7302,6 +7346,17 @@
     "lang": "zh-TW",
     "desc": "1977 年中壢事件的關鍵時刻，她站在警局門口勸群眾不要衝動——這位 58 歲的留日藥師，後來當選四屆省議員、民進黨創黨元老，卻在歷史敘事中長期被忽略。",
     "city": "桃園"
+  },
+  {
+    "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
+    "lat": 24.74865,
+    "lng": 121.751355,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E9%BB%83%E8%81%B2%E9%81%A0",
+    "lang": "zh-TW",
+    "desc": "1994 年，一個台北出生的耶魯建築碩士搬到宜蘭，此後三十年只做一件事：把整座城市當成一個慢慢修的工地。他推動的「維管束計劃」拆掉圍牆、把被填埋的護城河重新打開，讓公共建築與街道之間沒有清楚的邊界。羅東文化工場花了十四年才蓋成，跨過兩次政黨輪替。2017 年，田中央工作群成為第一個獲邀到歐洲巡迴展出的台灣建築團隊，他本人則拿到該年首次頒給外國人的日本「吉阪隆正賞」。",
+    "city": "宜蘭"
   },
   {
     "title": "齊柏林",
@@ -7762,7 +7817,7 @@
     "region": "north",
     "link": "/society/%E5%8F%B0%E7%81%A3%E7%A4%BE%E5%8D%80%E8%88%87%E9%87%8C%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從最基層的民主實踐到社區營造的社會創新",
+    "desc": "里是台灣民主社會最小的細胞：里長召集居民開會、鄰長逐鄰回報，隔壁教室的社區大學在上課。這篇從最基層的里鄰制度談起，走過社區營造運動與社區大學的實驗，看公民參與怎麼從被動接受轉為主動改造，以及這套基層網絡如何撐起台灣的社會韌性。",
     "city": "台北"
   },
   {
@@ -7839,7 +7894,7 @@
     "region": "north",
     "link": "/society/%E5%8F%B0%E7%81%A3%E9%95%B7%E6%9C%9F%E7%85%A7%E9%A1%A7%E5%88%B6%E5%BA%A6%E7%99%BC%E5%B1%95",
     "lang": "zh-TW",
-    "desc": "全世界最先進的長照制度，卻同時存在著最大的隱形照顧體系",
+    "desc": "台灣靠制度設計打造出亞洲最先進的長照體系，官方每年投入鉅額預算服務廣大民眾；但與此同時，數十萬名外籍家庭看護工在家戶裡默默撐起規模更大的隱形照顧網絡，兩套平行體系幾乎不相往來，交織出制度設計、社會價值與現實妥協的深刻矛盾故事。",
     "city": "台北"
   },
   {
@@ -8004,7 +8059,7 @@
     "region": "north",
     "link": "/society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從聯考制度到十二年國教，台灣教育如何在競爭與多元之間尋求平衡",
+    "desc": "台灣教育以高度競爭的升學文化著稱，從九年國民義務教育延伸為十二年國教；體系分普通與技職雙軌，但社會仍偏重學術成就造成激烈競爭，近年改革強調多元發展與適性揚才，如何在競爭與多元、菁英與普及之間取得平衡，仍是這個社會面臨的核心挑戰。",
     "city": "台北"
   },
   {
@@ -8059,7 +8114,7 @@
     "region": "central",
     "link": "/society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
     "lang": "zh-TW",
-    "desc": "從煙囪之島到淨零台灣：40年環保運動的覺醒之路",
+    "desc": "從1980年代「先污染、後治理」的煙囪之島，到1986年鹿港反杜邦運動點燃台灣環保意識、1988年環保署成立走向制度化，再到2011年福島核災後的能源轉型、2022年宣示2050淨零排放：台灣用40年從愛河變黑、PM2.5超標的代價中覺醒，如今資源回收率達60.1%，超過200家企業承諾科學減碳目標。",
     "city": "彰化"
   },
   {
@@ -8092,7 +8147,7 @@
     "region": "central",
     "link": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
     "lang": "zh-TW",
-    "desc": "從野百合到太陽花，台灣如何透過社會運動實踐民主與推動社會進步",
+    "desc": "從解嚴運動、野百合學運到太陽花運動與同性婚姻合法化，台灣社會以和平理性、世代傳承的方式持續推動民主化；這些行動跨越政治、環保、勞工與性別等多元領域，多數以和平進行，也有如農民運動那般的激烈衝突，在民主進程留下具體制度痕跡。",
     "city": "彰化"
   },
   {
@@ -8171,6 +8226,17 @@
     "lang": "zh-TW",
     "desc": "台灣賽鴿把幼鴿海翔、鴿舍技術、私人鴿會、產業鏈與下注放進同一套規則。這套制度用高風險製造人人有機會的公平想像，卻也把迷途、失聯與賽後棄養的代價交給第一次上場的幼鴿，留下動物福利、公共治理、地方社會與責任追蹤的難題。",
     "city": "基隆"
+  },
+  {
+    "title": "都市更新爭議：文林苑之後，台灣怎麼處理「不同意戶」",
+    "lat": 25.039783,
+    "lng": 121.557392,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E9%83%BD%E5%B8%82%E6%9B%B4%E6%96%B0%E7%88%AD%E8%AD%B0",
+    "lang": "zh-TW",
+    "desc": "2012 年 3 月 28 日，台北市政府在士林文林苑執行代為拆除，王家兩戶合法房屋在數百名聲援者面前倒下，成為台灣都更史上最大爭議。十一次訴願訴訟王家輸了十次，法院認定王家土地是未臨建築線的袋地、無法單獨改建；大法官則在 2013 年的釋字 709 號宣告都更條例的概要審議與聽證程序違憲。案件最後以和解收場，但「多數決能不能處分少數人的財產」這個問題至今沒有標準答案。",
+    "city": "台北"
   },
   {
     "title": "野百合學運",
@@ -8877,17 +8943,6 @@
     "city": "台東"
   },
   {
-    "title": "خزانات تايوان وإدارة الموارد المائية",
-    "lat": 24.800529,
-    "lng": 120.975114,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/taiwan-reservoirs-and-water-resource-management",
-    "lang": "zh-TW",
-    "desc": "من أزمة شح المياه إلى ترسب الخزانات، تحديات موارد تايوان المائية ومأزق التوزيع غير المتكافئ بين الشمال والجنوب",
-    "city": "新竹"
-  },
-  {
     "title": "شارع يونغكانغ: حيث سكن الأساتذة اليابانيون، ولجأ إليه الوافدون من البر الرئيسي، وهو الآن تايبيه السياح اليابانيين والكوريين",
     "lat": 25.025406,
     "lng": 121.561415,
@@ -8954,17 +9009,6 @@
     "city": "台南"
   },
   {
-    "title": "نظام الحافلات في تايوان: من سيخدم أولئك الذين لا يملكون مقودًا بعد رحيل خط باينغشو؟",
-    "lat": 25.026076,
-    "lng": 121.568918,
-    "category": "lifestyle",
-    "region": "north",
-    "link": "/lifestyle/taiwan-bus-system",
-    "lang": "zh-TW",
-    "desc": "في صباح يوم 15 سبتمبر 2024، في محطة قطار تونغ لاه، انتظر أكثر من 30 شخصًا، بدءًا من أطفال الروضة وصولاً إلى كبار السن البالغين من العمر 90 عامًا، آخر حافلة تابعة لشركة باينغشو رقم 5658. من أول خط مشترك في تايبيه عام 1977، إلى منطقة نائية لا يتبقى فيها سوى رحلتين يوميًا، ومتوسط عمر السائق 51 عامًا، وزيادة شبه سبعينية في استخدام بطاقة TPASS في هوانغلين، كانت الحافلات دائمًا تنقل الأشخاص الذين ليس لديهم خيار: الشباب الطلاب، وكبار السن الذين لا يقودون سيارات، والأسر التي ليس لديها مركبات، وهذه الفئة يتم استنزافها واحداً تلو الآخر.",
-    "city": "台北"
-  },
-  {
     "title": "أشجار الطرق في تايوان: طريق سُميت باسم شجرة، وقرار لم ينته منذ مائة عام",
     "lat": 25.03009,
     "lng": 121.561844,
@@ -8974,6 +9018,17 @@
     "lang": "zh-TW",
     "desc": "في العنوان 292 من الجزء الثاني من شارع تشيا شونغ في مدينة تشانغهوا، تم أخذ رقم الباب من شجرة تشيا شونغ القديمة التي يختلف الناس حول عمرها — فالطريق تكيفت مع الشجرة، وليس العكس. من نظرية الزراعة لتاشيرو ياسوساداي عام 1898، إلى أشجار السبورة السوداء التي تم زراعتها بكثرة في الثمانينيات، إلى أكثر من ستة آلاف شخص وقعوا عريضة في عام 2026 يطالبون بحظر التقليم الجذري، اتخذ كل جيل من التايوانيين قرارات بشأن الأشجار في الشارع. لكن دليل التقليم الذي ينص على \"حظر كامل\"، لا يزال حتى اليوم مجرد \"مرجع للاستخدام من قبل الوكالات المختلفة\".",
     "city": "台北"
+  },
+  {
+    "title": "سيف السماء في منبع نهر دا آن: أعلى شجرة في شرق آسيا، مختبئة في مكان لم نصل إليه منذ سبعمائة عام",
+    "lat": 24.565822,
+    "lng": 120.827277,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "في رأس السنة القمرية 2023، سلك فريق \"باحثو الشجر\" مجرى النهر سبعة أيام، وفي وادٍ عميق عند منبع نهر دا آن يكاد لا يصل إليه أحد، دلّوا شريط قياس من تاج شجرة تايوانيا — 84.1 متراً، أعلى شجرة في شرق آسيا. إنها أعلى بـ 4.6 أمتار من تنبؤات الليدار. جزيرة تتعرض للأعاصير سنوياً، وتنهض فيها الانهيارات والفيضانات، لا ينبغي منطقياً أن تحتفظ بحياة بهذا الارتفاع؛ لكنها نجت بفضل نموها في وادٍ لا يصل إليه البشر، ففلتت من قطع الأشجار الكبرى وصمدت سبعمائة عام. وهذه \"الاستحالة في الوصول\" نفسها هي التي أبقتها حية، وأجبرتنا على مسح الجزيرة بأكملها بالليدار لنراها لأول مرة هذا العام.",
+    "city": "苗栗"
   },
   {
     "title": "قمة البحر والجبل في الجزيرة: البيئة والمناظر الطبيعية للمتنزهات الوطنية في تايوان",
@@ -9073,17 +9128,6 @@
     "lang": "zh-TW",
     "desc": "وُلد لياو تيان-دينغ (廖添丁) في تشينغشوي (清水) عام 1883، وتوفي في بالي (八里) عام 1909. دوّنت الأرشيف الرسمية سرقاته وجرائم القتل، بينما أعادت الصحف وكتب «كوآ-آ-تشيه» والمعابد والألعاب صياغته بطلًا شعبيًا نبيلًا.",
     "city": "台北"
-  },
-  {
-    "title": "مونا رودو: البطل المقاوم لليابان الذي صورته العملة الذهبية بقيمة 20 يورو، والعالم الذي لا يحتوي على الصين ولا اليابان",
-    "lat": 24.152124,
-    "lng": 121.614789,
-    "category": "people",
-    "region": "east",
-    "link": "/people/mona-rudao",
-    "lang": "zh-TW",
-    "desc": "في عام 2001، قرر بنك تايوان المركزي إطراء وجه البطل المقاوم لليابان مونا رودو على عملة بقيمة 20 يورو. ومع ذلك، لم يتمكى مصنع العملات من العثور على أي صورة له في جميع الوثائق الوطنية، حتى تم استخراجها أخيرًا من مجلة يابانية. منذ الصباح الباكر لحركة ووشيا عام 1930 حتى بقايا تم استخدامها كعينة أنثروبولوجية لمدة أربعين عامًا، كانت هناك ثلاثة أنظمة سياسية تحتاجه كل واحدة على حدة. ولكن العالم الذي كان يدافع حقًا عنه، ذلك العالم الذي يحتوي على جسر القوس قزح والخطوط المزخرفة والثقافة غايا، لم يكن له أبدًا علاقة بالصين ولا اليابان.",
-    "city": "花蓮"
   },
   {
     "title": "شين بو يانغ: درس الحرب المعرفية الصينية، فأظهرته الصين على خريطة الأقمار الصناعية",
@@ -9381,6 +9425,17 @@
     "lang": "zh-TW",
     "desc": "Die Hausnummer 292, Abschnitt 2, Qiedong-Straße in Changhua-Stadt stammt von einem alten Qiedong-Baum, dessen Alter umstritten ist – die Straße passt sich dem Baum an, nicht der Baum der Straße. Von Tashiro Anteis Baumpflanztheorie 1898 über das massenhafte Pflanzen von Schwarzbretterbäumen in den 1980er-Jahren bis hin zur Petition von über 6000 Menschen 2026, die ein Verbot von Kappungsschnitten forderte – jede Generation Taiwanese hat Entscheidungen für die Straßenbäume getroffen. Doch jene Schnitt-Richtlinie mit der Formulierung „grundsätzlich verboten“ ist bis heute lediglich „zur Referenz und Anwendung durch die jeweiligen Behörden“.",
     "city": "台北"
+  },
+  {
+    "title": "Das „Yitian-Schwert“ des Da'an-Flusses: Ostasiens höchster Baum, verborgen an einem Ort, den wir 700 Jahre lang nicht erreichen konnten",
+    "lat": 24.559514,
+    "lng": 120.828223,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Während des chinesischen Neujahrsfestes 2023 suchte das Team „Tree Hunters“ sieben Tage lang entlang eines Flusses, bis sie in einem fast unerreichbaren tiefen Tal am Oberlauf des Da'an-Flusses ein Maßband vom Kronendach einer Taiwan-Zeder herabließen – 84,1 Meter, der höchste Baum Ostasiens. Er ist 4,6 Meter höher als die Vorhersagen von LiDAR-Scans vermuten ließen. Eine Insel, die jedes Jahr von Taifunen heimgesucht wird und mit Erdrutschen sowie Überschwemmungen zu kämpfen hat, sollte theoretisch nicht in der Lage sein, ein Leben dieser Höhe zu erhalten; doch gerade weil er in einem unzugänglichen Flusstal wächst, entging er der großflächigen Abholzung und überdauerte 700 Jahre. Dieselbe Unzugänglichkeit hat ihn am Leben erhalten und dazu geführt, dass wir ihn erst dieses Jahr zum ersten Mal entdeckten, nachdem wir die gesamte Insel mit Laserscannern erfasst hatten.",
+    "city": "苗栗"
   },
   {
     "title": "Die Hochgebiete Taiwans und die glazialen Relikte",
@@ -9691,6 +9746,17 @@
     "city": "台北"
   },
   {
+    "title": "The Heaven-Slaying Sword of Da'an River: East Asia's Tallest Tree, Hidden for 700 Years in a Place We Cannot Reach",
+    "lat": 24.56028,
+    "lng": 120.827566,
+    "category": "nature",
+    "region": "central",
+    "link": "/en/nature/daan-river-yitian-sword",
+    "lang": "en",
+    "desc": "During the 2023 Lunar New Year, the 'Tree Hunters' team spent seven days trekking upstream. In a remote canyon at the headwaters of the Da'an River, almost inaccessible to humans, they lowered a measuring tape from the canopy of a Taiwan Red Cypress—84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR predictions had suggested. On an island plagued by annual typhoons, landslides, and floods, such height should not be able to survive; yet, because it grew in a canyon unreachable by humans, it escaped large-scale logging and endured for seven hundred years. This same 'unreachability' allowed it to survive, and it was only after we scanned the entire island with lasers that we finally discovered it this year.",
+    "city": "苗栗"
+  },
+  {
     "title": "Chung Chao-cheng: A Man Who Never Finished a College Degree, Yet Wrote the Long River of the Taiwanese People",
     "lat": 24.995026,
     "lng": 121.303286,
@@ -9843,17 +9909,6 @@
     "lang": "zh-TW",
     "desc": "En la década de 1820, la familia Hu lanzó el primer farol de cielo en Shifenliao como señal de paz y seguridad. Doscientos años después, en el Festival de los Faroles de 2019, voluntarios estadounidenses recogieron 326 kilogramos de restos de faroles en las vías del tren de Pingxi en apenas dos horas. Unos ganan, otros pierden, otros limpian: el presidente de la Asociación de Faroles de Cielo se apellida Hu, y la víctima cuya casa se quemó también se apellida Hu. La vendedora de 88 años del casco antiguo, mamá Tsai, y Chen Chien-chih de la Alianza para la Protección del Río Keelung beben del mismo río. En 2025 se aprobó en tercera lectura la ordenanza autónoma. La gente de Pingxi está probando el cuarto camino: la transformación del festival.",
     "city": "新北"
-  },
-  {
-    "title": "Arte callejero y cultura del graffiti en Taiwán",
-    "lat": 25.034719,
-    "lng": 121.5707,
-    "category": "culture",
-    "region": "north",
-    "link": "/culture/taiwan-street-art-and-graffiti-culture",
-    "lang": "zh-TW",
-    "desc": "Desde el graffiti clandestino hasta la pintura mural legal, cómo las paredes de la ciudad se convierten en el escenario creativo de los artistas taiwaneses",
-    "city": "台北"
   },
   {
     "title": "Teatro de sombras taiwanés: del 'nido del teatro de sombras' de Mituo al 'Sarukani Gassen' del kominka",
@@ -10118,6 +10173,17 @@
     "lang": "zh-TW",
     "desc": "Taiwán, con solo el 0.025% de la superficie global, alberga más de 50,000 especies y tiene una cobertura forestal del 60.71%, clasificada en el puesto 33 mundial.",
     "city": "南投"
+  },
+  {
+    "title": "La Espada Yitian del Río Daan: el árbol más alto de Asia Oriental, oculto durante 700 años en un lugar inaccesible para nosotros",
+    "lat": 24.565211,
+    "lng": 120.820014,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
+    "city": "苗栗"
   },
   {
     "title": "Chen Cheng-po",
@@ -10527,6 +10593,17 @@
     "city": "桃園"
   },
   {
+    "title": "L'Épée de Jian du fleuve Da'an : l'arbre le plus haut d'Asie de l'Est, caché là où nous ne pouvons accéder depuis sept cents ans",
+    "lat": 24.564007,
+    "lng": 120.827638,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Lors du Nouvel An lunaire 2023, l'équipe des « Chercheurs d'arbres » a remonté le cours de la rivière pendant sept jours pour mesurer, dans une vallée profonde et presque inaccessible à la source du fleuve Da'an, la canopée d'un Taiwan cypress : 84,1 mètres, l'arbre le plus haut d'Asie de l'Est. Il dépasse de 4,6 mètres les prédictions du LiDAR laser. Sur une île frappée chaque année par des typhons, sujette aux glissements de terrain et aux inondations, une telle hauteur de vie ne devrait théoriquement pas subsister ; mais c'est précisément parce qu'il pousse dans une vallée inaccessible à l'homme qu'il a échappé à la déforestation massive et survécu pendant sept cents ans. Cette même « inaccessibilité » lui a permis de survivre, et ce n'est que grâce au balayage laser de toute l'île que nous avons pu le découvrir pour la première fois cette année.",
+    "city": "苗栗"
+  },
+  {
     "title": "Loutres de Taïwan : survie insulaire de la loutre d'Eurasie à Kinmen et disparition silencieuse sur l'île principale",
     "lat": 24.455013,
     "lng": 118.378908,
@@ -10703,14 +10780,14 @@
     "city": "台中"
   },
   {
-    "title": "ताइवान की कंपनी: एएसई टेक्नोलॉजी (日月光半導體)",
+    "title": "ताइवान के उद्यम: एएसएमकेएस (ASE Group)",
     "lat": 22.626122,
     "lng": 120.299461,
     "category": "economy",
     "region": "south",
     "link": "/economy/taiwan-enterprise-ase-semiconductor",
     "lang": "zh-TW",
-    "desc": "वैश्विक स्तर पर सबसे बड़ी पैकेजिंग और टेस्टिंग फाउंड्री, एक निर्माण कंपनी के मालिक ने सेमीकंडक्टर क्षेत्र में कदम क्यों रखा?",
+    "desc": "1984 में, निर्माण क्षेत्र से शुरुआत करने वाले झांग याओहोंग ने अपनी माँ और बेटे के साथ मिलकर अपना निवेश सेमीकंडक्टर पैकेजिंग और परीक्षण में लगाया और काऊशुंग के नानज़ी में एएसएमकेएस की स्थापना की। 1989 में यह ताइवान की पहली सूचीबद्ध पैकेजिंग और परीक्षण कंपनी बनी, और 1998 में इसने दक्षिण कोरियाई K&S का अधिग्रहण करके 'पैकेजिंग + परीक्षण' की वन-स्टॉप सेवा शुरू की। 40 साल बाद, 2024 के राजस्व के साथ 10.1 बिलियन अमेरिकी डॉलर और लगभग 45% वैश्विक बाजार हिस्सेदारी के साथ, यह पैकेजिंग और परीक्षण क्षेत्र में अग्रणी बन गई है, जो चिप्स को 'कपड़े पहनाने' और उनका 'स्वास्थ्य परीक्षण' करने वाले एक अदृश्य चैंपियन के रूप में उभरी है।",
     "city": "高雄"
   },
   {
@@ -11000,17 +11077,6 @@
     "city": "台北"
   },
   {
-    "title": "ताइवान का समुद्री व्यापार इतिहास",
-    "lat": 25.126222,
-    "lng": 121.742886,
-    "category": "history",
-    "region": "north",
-    "link": "/history/taiwan-maritime-trade-history",
-    "lang": "zh-TW",
-    "desc": "बड़े नौपरिवहन युग का ताइवान, अंतरराष्ट्रीय व्यापार केंद्र से समुद्री डाकू साम्राज्य के उत्थान-पतन की गाथा",
-    "city": "基隆"
-  },
-  {
     "title": "ताइवान सीमा शुल्क घोषणा और EZ WAY: \"घोषणा सही है\" दबाते ही आपने किसे अधिकार सौंपा",
     "lat": 24.9933,
     "lng": 121.308314,
@@ -11053,6 +11119,17 @@
     "lang": "zh-TW",
     "desc": "चांगहुआ शहर के काशू रोड सेगमेंट 2, नंबर 292 में, दरवाजे का नंबर एक पुराने काशू पेड़ के नाम पर रखा गया है जिसकी उम्र के बारे में अलग-अलग मत हैं — सड़क पेड़ के अनुसार बनाई गई, पेड़ पेड़ के अनुसार नहीं। 1898 में ताशिरो यासुसदा के वृक्षारोपण सिद्धांत से लेकर, 1980 के दशक में जंगली तरीके से लगाए गए ब्लैकबोर्ड पेड़ों तक, और 2026 में छह हजार से अधिक लोगों द्वारा सिर काटने वाली छंटाई पर प्रतिबंध लगाने की मांग करने वाली याचिका तक, ताइवान की हर पीढ़ी ने सड़क के पेड़ों के बारे में फैसले लिए हैं। बस यह है कि \"पूर्ण रूप से प्रतिबंधित\" लिखी गई छंटाई की मार्गदर्शिका आज भी केवल \"विभिन्न एजेंसियों के संदर्भ और उपयोग के लिए\" है।",
     "city": "台北"
+  },
+  {
+    "title": "दाआनक्सी की आकाश-चोटी वाली तलवार: पूर्व एशिया का सबसे ऊँचा पेड़, जो सात सौ वर्षों से दुर्गम स्थान पर छिपा है",
+    "lat": 24.554186,
+    "lng": 120.82424,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "2023 के चंद्र नव वर्ष में, 'पेड़ खोजने वाले' दल ने सात दिनों तक नाले में ट्रेकिंग की और दाआनक्सी के उद्गम स्थल पर एक ऐसी गहरी घाटी में एक टैईवान देवदार का पेड़ पाया जहाँ शायद ही कोई पहुँच पाता हो—उसकी ऊँचाई 84.1 मीटर थी, जो पूर्व एशिया का सबसे ऊँचा पेड़ है। यह लेजर रेंजिंग की भविष्यवाणी से 4.6 मीटर अधिक था। एक ऐसा द्वीप जो हर साल तूफान और बाढ़ झेलता है, उसे इस तरह की ऊँचाई वाली जीवनरेखा नहीं रखनी चाहिए; लेकिन यह इसलिए बच पाया क्योंकि यह मानव पहुँच से दूर नाले में उगता रहा और सात सौ वर्षों तक टिका रहा। इसी 'दुर्गमता' ने इसे जीवित रखा, और इसने हमें पूरे द्वीप को लेजर स्कैन करने के लिए प्रेरित किया, जिससे हम इस वर्ष पहली बार इसका पता लगा पाए।",
+    "city": "苗栗"
   },
   {
     "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
@@ -11176,14 +11253,14 @@
     "city": "高雄"
   },
   {
-    "title": "राष्ट्रीय आवास और आवासीय न्याय: सरकार द्वारा बनाए गए सस्ते घर, अंततः किसकी संपत्ति सीढ़ी को पोषित करते हैं",
+    "title": "राष्ट्रीय आवास और आवास न्याय: सरकार द्वारा बनाए गए सस्ते घर, अंततः किसकी संपत्ति की सीढ़ी को पोषित करते हैं",
     "lat": 25.025601,
     "lng": 121.559633,
     "category": "society",
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "1985 में सफल राष्ट्रीय आवास का एक पिंग 67,000 का था, फिर भी कोई खरीदार नहीं था; बुजुर्ग गांव प्रमुख ने 400,000 डाउन पेमेंट जुटाकर खरीदा। चालीस साल बाद उसी पते का मूल्य एक पिंग दस लाख के करीब पहुंच गया। राष्ट्रीय आवास मूल रूप से \"लोगों को घर खरीदने में मदद करने\" का उपकरण था, लेकिन इसने कभी मूल्यवृद्धि वसूली का फाटक नहीं लगाया; सार्वजनिक सब्सिडी अंततः शुरुआती खरीदारों की निजी संपत्ति बन गई। 2026 में ताओयुआन ने उस फाटक को वापस लगा दिया, जो राष्ट्रीय आवास के लिए माफी मांगने के बराबर है।",
+    "desc": "1985 में चेंगगोंग राष्ट्रीय आवास NT$670,000 प्रति पिंग पर भी नहीं बिका, बुजुर्ग गांव प्रमुख ने NT$400,000 डाउन पेमेंट जुटाकर खरीदा; चालीस साल बाद उसी पते की कीमत प्रति पिंग NT$1 मिलियन के करीब पहुंच गई। राष्ट्रीय आवास मूल रूप से \"लोगों को घर खरीदने लायक बनाने\" का साधन था, लेकिन इसमें कभी मूल्यवृद्धि वापसी का फाटक नहीं लगाया गया, सार्वजनिक सब्सिडी अंततः शुरुआती खरीदारों की निजी संपत्ति बन गई। 2026 में ताओयुआन ने वह फाटक वापस लगा दिया, जो राष्ट्रीय आवास के लिए माफी मांगने के बराबर है।",
     "city": "台北"
   },
   {
@@ -11561,6 +11638,17 @@
     "city": "高雄"
   },
   {
+    "title": "Pedang Yitian Sungai Daan: Pohon Tertinggi di Asia Timur, Tersembunyi di Tempat yang Tak Bisa Kita Capai Selama Tujuh Ratus Tahun",
+    "lat": 24.55984,
+    "lng": 120.818002,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "Pada perayaan Tahun Baru Imlek 2023, tim \"Pencari Pohon\" menelusuri sungai selama tujuh hari, di hulu Sungai Daan di sebuah lembah dalam yang hampir tidak bisa dijangkau orang, mereka menurunkan pita ukur dari mahkota seorang pohon cemara Taiwan — 84,1 meter, pohon tertinggi di Asia Timur. Ia lebih tinggi 4,6 meter dari prediksi LiDAR. Sebuah pulau yang setiap tahun dilanda badai taiup, longsor, dan banjir, seharusnya tidak mampu mempertahankan kehidupan setinggi ini; tetapi justru karena tumbuh di lembah yang tidak bisa dijangkau manusia, ia luput dari penebangan massal dan bertahan selama tujuh ratus tahun. Keterjangkauan yang sama yang membuatnya selamat, juga membuat kita harus memindai seluruh pulau dengan laser, baru tahun ini kita melihatnya untuk pertama kalinya.",
+    "city": "苗栗"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.166865,
     "lng": 121.435926,
@@ -11638,14 +11726,14 @@
     "city": "高雄"
   },
   {
-    "title": "Perumahan Nasional dan Keadilan Hunian: Rumah Murah yang Dibangun Pemerintah, Akhirnya Menciptakan Tangga Aset bagi Siapa",
+    "title": "Perumahan Nasional dan Keadilan Hunian: Rumah Terjangkau yang Dibangun Pemerintah, Akhirnya Menjadi Eskalator Aset Bagi Siapa?",
     "lat": 25.033085,
     "lng": 121.564716,
     "category": "society",
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "Pada tahun 1985, Perumahan Nasional Chenggong dijual 67.000 per ping namun tak ada pembeli; seorang ketua RT tua mengumpulkan 400.000 uang muka untuk membelinya. Empat puluh tahun kemudian, alamat yang sama mendekati 1 juta per ping. Perumahan nasional seharusnya menjadi alat \"membantu rakyat mampu beli rumah\", tetapi tidak pernah memasang gerbang pemulihan nilai tambah, sehingga subsidi publik akhirnya menjadi aset pribadi pembeli awal. Tahun 2026, Taoyuan memasang kembali gerbang itu, setara dengan meminta maaf atas perumahan nasional.",
+    "desc": "Pada tahun 1985, perumahan nasional Chenggong dijual NT$67,000 per ping namun tak ada pembeli; seorang ketua RT tua mengumpulkan NT$400,000 sebagai uang muka untuk membelinya; empat puluh tahun kemudian alamat yang sama mendekati NT$1,000,000 per ping. Perumahan nasional seharusnya adalah alat untuk 'membantu rakyat mampu membeli rumah', tetapi tidak pernah dilengkapi gerbang pemulihan nilai tambah, sehingga subsidi publik akhirnya menjadi aset pribadi pembeli awal. Pada 2026, Taoyuan memasang kembali gerbang tersebut, setara dengan mengakui kesalahan perumahan nasional.",
     "city": "台北"
   },
   {
@@ -11766,7 +11854,7 @@
     "region": "south",
     "link": "/ja/art/development-of-contemporary-taiwanese-sculpture",
     "lang": "ja",
-    "desc": "楊英風（よう・えいふう）、朱銘（ちゅう・めい）から新世代まで、台湾の彫刻芸術の変遷軌跡と創作精神を探る",
+    "desc": "台湾の現代彫刻は伝統的な木彫から発展し、黄土水が現代の基礎を築き、楊英風が現代彫刻の語彙を確立し、朱銘が東洋の精神を国際的視野に融合させた三世代を経てきた。現代彫刻運動以降、芸術家たちは素材・主題・空間において相次いでブレイクスルーを果たし、朱銘美術館や屋外彫刻公園が全土に広がり、新世代が多様な発展を推進し、国際展覧会で知名度と収蔵評価を積み重ねている。",
     "city": "台南"
   },
   {
@@ -11913,6 +12001,17 @@
     "city": "宜蘭"
   },
   {
+    "title": "戦後台湾のモダニズム建築群像：1967年あの受賞名単から語る",
+    "lat": 25.026339,
+    "lng": 121.558585,
+    "category": "art",
+    "region": "north",
+    "link": "/ja/art/postwar-taiwan-modernist-architects",
+    "lang": "ja",
+    "desc": "1967年4月30日、第1回建築金鼎獎が楊卓成の宮殿様式のランドマークと、王大閎・陳其寬・修澤蘭のモダニズム作品を同じ名単に収めた。この名単は、戦後台湾の建築が一本の路線が別の路線に取って代わったのではなく、二つの路線が同時に建てられていたことを示している。王大閎は自邸一棟で実験し、陳其寬は東海大学で台湾初の建築学科を創設し、修澤蘭は13ヶ月で中山樓を完成させ、漢寶德は建築を教え、書き、展示できる知識へと変え、王秋華は図書館から公共建築の想像力を変えていった。",
+    "city": "台北"
+  },
+  {
     "title": "戦後台湾文学：言えなかったことから、言い方を学ぶまで（1945-1987）",
     "lat": 23.005159,
     "lng": 120.23458,
@@ -11957,14 +12056,14 @@
     "city": "台中"
   },
   {
-    "title": "台湾建築",
+    "title": "台湾の建築",
     "lat": 25.026622,
     "lng": 121.569543,
     "category": "art",
     "region": "north",
     "link": "/ja/art/taiwanese-architecture",
     "lang": "ja",
-    "desc": "石板屋から摩天楼へ：一島の建築時空旅行",
+    "desc": "パイワン族の石板屋、森山松之助が残した赤レンガの庁舎、王大閎（おう・たいこう）が現代建築の礎を築いたライン、そして宜蘭の田園に黄声遠（こう・せいえん）が建てた壁のない公共建築。400年にわたり、原住民、オランダ人、日本人、漢人の造営の知恵がこの島で衝突し、ヴェネチア・ビエンナーレは、その混血的な特性を「グローバル化の中で地方性を堅持する」と表現した。",
     "city": "台北"
   },
   {
@@ -11979,14 +12078,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた蘇った映画史",
+    "title": "台湾国産映画：銀幕の傍らで語る人、そして死んでまた生き返った映画史",
     "lat": 25.039673,
     "lng": 121.55789,
     "category": "art",
     "region": "north",
     "link": "/ja/art/taiwanese-cinema",
     "lang": "ja",
-    "desc": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を当てた。90年後、『海角七号』が5つの言語を一緒に銀幕へ呼び戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが、息の根を止められた。新映画がヴェネツィアで金獅賞を獲ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではない。何度も死を宣告され、そのたびに蘇ってきた歴史だ。",
+    "desc": "1930年、劇場で弁士が銀幕の傍らに立ち、台湾語で無声映画に即興で台詞を付けた。90年後、『海角七号』が5つの言語を一緒に銀幕に戻した。台湾語映画はかつて世界第3位の劇映画製作国だったが扼殺され、新映画がヴェネツィアで金獅賞を取ったあの頃、劇場での国産映画興行収入はわずか0.36%まで落ち込んだ。国産映画は「酷いものから良いものへ」という一直線ではなく、繰り返し死を宣告されながら蘇ってきた歴史だ。",
     "city": "台北"
   },
   {
@@ -12551,14 +12650,14 @@
     "city": "台南"
   },
   {
-    "title": "台湾の文化創意園区の発展",
+    "title": "台湾の文化創意産業パーク（文創園区）の発展",
     "lat": 22.623816,
     "lng": 120.296609,
     "category": "culture",
     "region": "south",
     "link": "/ja/culture/taiwan-cultural-creative-park-development",
     "lang": "ja",
-    "desc": "旧建築の活性化からクリエイティブ集落へ、台湾の文化創意園区の発展過程とイノベーションモデル",
+    "desc": "台湾の文創園区は、華山1914文化創意産業園区、松山文創園区、駁二芸術特区に代表される旧建築の活用から始まりました。廃止された酒造や煙草工場などの工業施設をクリエイティブ産業の拠点へと転換し、都市再生と産業アップグレードの両立を実現しています。",
     "city": "高雄"
   },
   {
@@ -12734,7 +12833,7 @@
     "region": "north",
     "link": "/ja/culture/taiwan-street-art-and-graffiti-culture",
     "lang": "ja",
-    "desc": "アンダーグラウンドのグラフィティから合法な壁画まで、都市の壁が台湾のアーティストたちの創作の舞台になるまで",
+    "desc": "台湾のストリートアートは、解厳後にヒップホップ文化とともに伝わり、西門町の深夜のスプレーアートによるアンダーグラウンドシーンから、退役軍人の黄永阜が台中の軍眷村の壁面に彩色画を描いて生み出した「レインボービレッジ」のモデル、さらに高雄の駁二芸術特区などの文化創造空間が相次いで合法的な活動の場を提供し、政府がアーティストを園区に招き入れるに至るまで、約30年にわたる進化が社会の開放と都市空間の再定義の軌跡を反映しています。",
     "city": "台北"
   },
   {
@@ -12782,14 +12881,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾人が子どもの頃にもらった英語名：Mary、Kevin と補習班教師の命名権",
+    "title": "台湾人の子供時代の英語名：メアリー、ケビンと塾の先生の命名権",
     "lat": 25.029998,
     "lng": 121.562746,
     "category": "culture",
     "region": "north",
     "link": "/ja/culture/taiwanese-childhood-english-names",
     "lang": "ja",
-    "desc": "補習班でページをめくる時間から、パスポートのローマ字表記、スターバックスのカウンターまで、その名前は一度も自分で選んだものではありませんでした。1983 年の何嘉仁、1987 年の芝麻街美語による「NO CHINESE, ENGLISH PLEASE」から、2024 年に立法院が法改正し族名の単独記載を認めるまでの命名史をたどり、問題をあの 30 秒の沈黙へと戻します。",
+    "desc": "塾でページをめくるところからパスポートのローマ字表記、スターバックスのカウンターまで、その名前は決してあなたが選んだものではありません。1983年の何嘉仁、1987年のセサミストリート英語の「NO CHINESE, ENGLISH PLEASE」から2024年の立法院法改正で単独民族名の記載が認められるまでの命名の歴史が、あの30秒の沈黙に問題を還元します。",
     "city": "台北"
   },
   {
@@ -12936,6 +13035,17 @@
     "city": "台北"
   },
   {
+    "title": "農業テクノロジーと精密農業",
+    "lat": 22.997835,
+    "lng": 120.22054,
+    "category": "economy",
+    "region": "south",
+    "link": "/ja/economy/agricultural-technology-and-refined-agriculture",
+    "lang": "ja",
+    "desc": "1万平方キロメートルに満たない土地ながら、台湾は「蓬萊米（ほうらいまい）の父」磯永吉氏以来の品種改良を通じて、蘭、パイナップル・シュガーアップル、高山茶などの精密な農産物を発展させ、国際市場で重要な地位を築いてきました。農業と食のサプライチェーンは広大な雇用を支えており、現在はIoTなどの新技術を融合させたスマート農業へと進化し、「粗放」から「精密」へ、「労働力」から「テクノロジー」への転換を図ることで、小国が世界の農業競争において独自のポジションを確立していることを証明しています。",
+    "city": "台南"
+  },
+  {
     "title": "奇美実業：許文龍のアクリル王国と博物館の夢",
     "lat": 22.934928,
     "lng": 120.231143,
@@ -12958,14 +13068,14 @@
     "city": "台北"
   },
   {
-    "title": "仁宝電脳",
+    "title": "仁寶電腦（コンパル・エレクトロニクス）",
     "lat": 25.036857,
     "lng": 121.562318,
     "category": "economy",
     "region": "north",
     "link": "/ja/economy/compal-electronics-global-odm-leader",
     "lang": "ja",
-    "desc": "世界第2位のノートPC受託製造大手であり、台湾ODM産業の重要な推進役",
+    "desc": "1984年設立、金仁寶（コンパル）グループに属する台湾のODM大手。世界のノートPCの80%以上が台湾の受託メーカーによるものであり、仁寶は約20〜25%のシェアを誇る世界第2位のノートPC ODMリーダーです。Dell、Lenovo、AcerなどのノートPCは、仁寶が設計・製造している可能性が非常に高いといえます。OEMからODMへと進化を遂げ、現在はAI、5G、電気自動車（EV）などの新興分野へも進出しており、台湾製造業が受託製造から設計へと変貌を遂げた軌跡を象徴する企業です。",
     "city": "台北"
   },
   {
@@ -13009,7 +13119,7 @@
     "region": "central",
     "link": "/ja/economy/formosa-plastics-group",
     "lang": "ja",
-    "desc": "台湾の経営の神様、王永慶が築いた石油化学王国、台塑四宝の製造伝説",
+    "desc": "「台湾経営の神」王永慶（ワン・ヨンチン）が1954年に設立した、台湾最大の石油化学工業グループ。PVC工場から始まり、現在は「台塑四宝」と呼ばれる産業帝国へと成長し、従業員10万人超、年間総売上高は約3兆新台湾ドルに達する。",
     "city": "雲林"
   },
   {
@@ -13119,7 +13229,7 @@
     "region": "central",
     "link": "/ja/economy/taiwan-agriculture-and-rural-revitalization",
     "lang": "ja",
-    "desc": "稲作王国から精密農業へ：台湾の農業変革と農村コミュニティ再建の物語",
+    "desc": "日本統治時代の蓬莱米（ほうらいまい）育種から戦後の土地改革、そして今日の精緻農業と農食チェーン経済まで。台湾の農業は「米の大量生産王国」から、創造性と持続可能性が共存する新たなモデルへと変貌を遂げました。帰郷した若者たちがライブ配信を活用して産地直送を実現し、人口流出に悩んだ農村は、文化と生態系の重要な基盤として再生しています。",
     "city": "雲林"
   },
   {
@@ -13167,14 +13277,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾企業：日月光半導体",
+    "title": "台湾企業：ASEグループ（日月光半導体）",
     "lat": 22.627399,
     "lng": 120.300625,
     "category": "economy",
     "region": "south",
     "link": "/ja/economy/taiwan-enterprise-ase-semiconductor",
     "lang": "ja",
-    "desc": "世界最大の封装・テスト企業、建設会社のオーナーがなぜ半導体に転身したのか？",
+    "desc": "1984年、建設業からスタートした張姚宏氏は、母子3人で資金を半導体封止・テスト分野へと転換し、高雄市楠梓区に日月光（ASE）を設立しました。1989年には台湾初の封止・テスト上場企業となり、1998年には韓国のK&Sを買収して「パッケージング＋テスト」の一貫サービスを開始しました。40年後、2024年の売上高は101億米ドル、世界シェアは約45%に達し、封止・テスト分野のリーダーとして君臨しています。チップに服を着せ、健康診断を行う「隠れたチャンピオン」です。",
     "city": "高雄"
   },
   {
@@ -13208,6 +13318,17 @@
     "link": "/ja/economy/taiwan-fintech-development",
     "lang": "ja",
     "desc": "ウォール街出身の若者が台湾でモバイル決済を立ち上げ、9年後、会社は差し押さえられ口座残高は1000元未満に――これは一人の物語ではなく、「開放」と「制御不能」の間で揺れ動く島国のフィンテック10年の記録です。",
+    "city": "台北"
+  },
+  {
+    "title": "台湾の外貿とグローバルサプライチェーン",
+    "lat": 25.036138,
+    "lng": 121.572176,
+    "category": "economy",
+    "region": "north",
+    "link": "/ja/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "lang": "ja",
+    "desc": "1960年代の縫製品・玩具から今日の半導体チップまで、台北港のコンテナが昼夜を問わず積み下ろし、台湾の経済奇跡を支えています。この島は輸出額で世界有数の経済体にランクインし、半導体と情報通信製品で不可欠な地位を占め、対米輸出が初めて1,000億ドルを突破、対中輸出比率も高く、米中台の三角関係における微妙な立場を鮮明に浮き彫りにしています。",
     "city": "台北"
   },
   {
@@ -13266,14 +13387,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "台湾の自媒体クリエイター経済：2,300万人の断片化戦場",
+    "title": "台湾の自媒体クリエイター経済：2,300万人が織りなす断片化された戦場",
     "lat": 25.026643,
     "lng": 121.567993,
     "category": "economy",
     "region": "north",
     "link": "/ja/economy/taiwan-self-media-creator-economy",
     "lang": "ja",
-    "desc": "市場規模は米国に1%未満、プラットフォームは倍以上――台湾のクリエイターはいかに生き残っているのか？",
+    "desc": "台湾のインフルエンサー広告市場は米国の1%にも満たないが、中規模クリエイターは米国より約2倍のプラットフォームを運営し、サブスクではなくアフィリエイトで収益化している。テック企業のPMから転身した翁雋明（オング・ジュンミン／Joeman）の事例から、極小市場と断片化したプラットフォームの中で生き抜くための独自のルールを紐解く。",
     "city": "台北"
   },
   {
@@ -13343,14 +13464,14 @@
     "city": "新北"
   },
   {
-    "title": "台湾企業：広達電脳",
+    "title": "台湾企業：Quanta Computer（廣達電腦）",
     "lat": 25.03664,
     "lng": 121.562403,
     "category": "economy",
     "region": "north",
     "link": "/ja/economy/taiwanese-companies-quanta-computer",
     "lang": "ja",
-    "desc": "工場火災から世界のノートPC王へ、林百里はいかにAI時代の新たな帝国を築いたか？",
+    "desc": "1987年の工場火災を機に林百里（リン・ハイリー）氏は金寶電子（Compeq）を去り、翌年台北市士林にて3,000万台湾ドルの資本で廣達を設立しました。36年後、同社は世界最大のノートPC受託製造メーカーへと成長し、2023年の売上高は1.08兆台湾ドルに達しています。世界で販売されるノートPCの3台に1台が廣達製です。AI時代の到来により、廣達は再び劇的な変貌を遂げ、NVIDIAにとって最も重要なサーバー組立パートナーとなりました。",
     "city": "台北"
   },
   {
@@ -13471,7 +13592,7 @@
     "region": "north",
     "link": "/ja/food/beef-noodle-soup",
     "lang": "ja",
-    "desc": "外省移民の郷愁から台湾の国民食へ──牛肉麺の文化融合と世界への広がり",
+    "desc": "農業社会における「牛は働き手、食べず」という食のタブーから、戦後外省移民が各省の調理技法を融合させ紅焼・清燉・トマトなどの流派を生み出すまで、一杯の国民的麺料理が省籍融合と味覚の記憶を担い、近年は専門のグルメフェスや国際的なリスト選出を経て、この一杯が屋台グルメから世界の美食舞台へと躍り出て、台湾の食文化の多様で包容力ある精神の輝くスターとなった。",
     "city": "台北"
   },
   {
@@ -13486,14 +13607,14 @@
     "city": "台南"
   },
   {
-    "title": "台湾魯肉飯（ルーローファン）",
+    "title": "台湾のルーローハン（滷肉飯）",
     "lat": 25.035812,
     "lng": 121.561032,
     "category": "food",
     "region": "north",
     "link": "/ja/food/braised-pork-rice",
     "lang": "ja",
-    "desc": "眷村のキッチンから国民的コンフォートフードへ、魯肉飯の「南北論争」と文化的アイデンティティを探る",
+    "desc": "眷村（クンチュン）の台所から国民食へと発展したルーローハンは、台湾庶民の食の記憶を象徴する存在です。北部では「ルーローハン」、南部では「ロウツァオファン」と呼ばれ、調理法や切り方、味付けも異なります。2011年にミシュランガイド英語版が山東料理起源と誤訳したことで正名運動が巻き起こり、その地位は不動のものとなりました。",
     "city": "台北"
   },
   {
@@ -13640,14 +13761,14 @@
     "city": "新竹"
   },
   {
-    "title": "台湾の手搖飲文化",
+    "title": "台湾の手作りドリンク文化",
     "lat": 22.634543,
     "lng": 120.299151,
     "category": "food",
     "region": "south",
     "link": "/ja/food/hand-shaken-drink-culture",
     "lang": "ja",
-    "desc": "珍珠奶茶から精品茶飲まで、台湾手搖飲文化の台頭とグローバル展開",
+    "desc": "1980年代にタピオカミルクティーが誕生して以来、手作りドリンクはこの島を代表する生活のシンボルとなりました。街角の「50嵐（フィフティ・ラン）」、商業施設の「貢茶（ゴンチャ）」、伝統の「春水堂（チュンスイタン）」、そして新しいトレンドの「迷客夏（ミークーシャ）」まで、色とりどりの看板が至る所に見られます。創造的な茶飲料で世界市場を開拓し、台湾の人々の生活の質への追求、革新への情熱、そして共通の記憶を記録しています。",
     "city": "高雄"
   },
   {
@@ -13805,14 +13926,14 @@
     "city": "台南"
   },
   {
-    "title": "飯糰：朝の「安眠薬」から欧米で爆発的人気の「台湾版ブリトー」へ",
+    "title": "飯糰：朝の「安眠薬」から欧米で爆発的人気となった「台湾版ブリトー」へ",
     "lat": 24.753243,
     "lng": 121.754712,
     "category": "food",
     "region": "north",
     "link": "/ja/food/rice-ball",
     "lang": "ja",
-    "desc": "清代の糯米食文化から江南の粢飯が海を越えて変遷し、独自の「老油條（二度揚げ油条）」と「手捏（手作り）」製法で台湾朝食の魂となった台式飯糰。その歴史的前史、製造技法、現代の創作フレーバー、そして国際的な議論を呼ぶ「暈炭（炭水化物過多による眠気）文化」を深く解説します。",
+    "desc": "清代の糯米食文化から江南の粢飯が海を越えて変遷し、台湾式飯糰は独自の「老油条（二度揚げ油条）」と「手捏（手で握る）製法」により台湾朝食の魂となった。本稿ではその歴史的前史、製造技法、現代的な創作フレーバー、そして国際的に議論を呼ぶ「暈炭（炭水化物過多による眠気）文化」を深く解説する。",
     "city": "宜蘭"
   },
   {
@@ -13926,14 +14047,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾の屋外宴席：豪雨の中でも開かれる武の舞台と、収束しつつある人・神・鬼の三界",
+    "title": "台湾のバンテー（辦桌）：豪雨の中でも宴を続ける武勇伝と、消えゆく儀礼の体系",
     "lat": 22.629423,
     "lng": 120.294922,
     "category": "food",
     "region": "south",
     "link": "/ja/food/taiwan-banquet-culture",
     "lang": "ja",
-    "desc": "120卓の屋外宴席。夕立の暴雨で膝下まで水没し、鱒魚が十数匹も逃げ去る。総舗師の汪義勇は袖を捲って水に入り魚を捕り、最終的に1匹不足するのみ。三百年にわたり、主催者が中止を告げなければ宴席は開かれる。現在、この技は分岐している：料理は五星ホテルやミシュラン、海外へと進出しているが、全村が動員され、総舗師が民俗顧問として人・神・鬼の三界を横断する儀式の知識は、後継者不在の中で静かに失われている。",
+    "desc": "120卓に及ぶバンテー。夕方の豪雨で足元まで水が浸かり、鱒魚が十数匹も泳ぎ回る中、料理長（総鋪師）の汪義勇は袖をまくり上げて魚を捕まえ、最後の一匹を除いて全て揃えた。300年もの間、バンテーとはそういうものだ。主催者が中止を告げない限り、宴は続けられる。現在、この技術は二極化している。料理は五つ星ホテルやミシュランへと進出し、海外へも広がっているが、村全体で執り行う神仏をも巻き込んだ儀礼の知識は、後継者不在の中で静かに失われつつある。",
     "city": "高雄"
   },
   {
@@ -14091,14 +14212,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の氷菓文化",
+    "title": "台湾の氷菓子文化",
     "lat": 25.035793,
     "lng": 121.567326,
     "category": "food",
     "region": "north",
     "link": "/ja/food/taiwanese-ice-cream-culture",
     "lang": "ja",
-    "desc": "玉井のマンゴー氷から雪花氷の革命まで、台湾人が冬でも氷を食べる特異な文化を探る",
+    "desc": "台湾人の氷菓子に対する愛着は世界でも類を見ないほどで、冬でも多くの客で賑わいます。この文化は、日本統治時代に製氷技術が導入されたことにまで遡ることができます。戦後の削り氷（剉冰）の普及や、その後の雪花氷（スノーアイス）の登場を経て、台中では陳溪氏が日本の四果氷を参考に蜜豆氷を発展させ、玉井のマンゴー氷は海外でも名を馳せました。さらには製氷・冷蔵技術による漁業の発展をもたらすなど、具体的な歴史的節目を辿ることができる進化の歴史を持っています。",
     "city": "台北"
   },
   {
@@ -14333,14 +14454,14 @@
     "city": "台北"
   },
   {
-    "title": "データで見る台湾の22市：最も過密な場所と最も閑散な場所は151倍差、最も高齢な場所と最も若い場所は世代違い",
+    "title": "データで見る台湾22県市：最も混雑する場所と最も空虚な場所では151倍の差、最も高齢な場所と最も若い場所では一世代の差",
     "lat": 25.027311,
     "lng": 121.557108,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/data-taiwan-22-cities",
     "lang": "ja",
-    "desc": "同じ島でありながら、人口密度が最も高い台北市の1平方キロメートルあたり8,975人に対し、最も低い台東県はわずか59人と、151倍もの差があります。人口最多の新北市（404万人）と最少の連江県（1.36万人）では297倍の差があり、最も若い新竹県の高齢化率が15.08%であるのに対し、最も高齢な嘉義県は24.11%であり、ほぼ世代の違いがあります。内政部戸政司による2025年末の公式データを用いて、島全体を測定可能な肖像として描きました。",
+    "desc": "同じ島でありながら、人口密度が最も高い台北市は1平方キロメートルあたり8,975人、最も低い台東県はわずか59人と、151倍もの開きがあります。人口最多の新北市は404万人、最少の連江県は1.36万人で297倍の差。最も若い新竹県の高齢化率は15.08%、最も高齢な嘉義県は24.11%と、一世代近い差があります。内政部戸政司の2025年末の公式データを用い、島全体の姿を数値で描き出します。",
     "city": "台北"
   },
   {
@@ -14846,7 +14967,7 @@
     "region": "north",
     "link": "/ja/geography/taiwan-reservoirs-and-water-resource-management",
     "lang": "ja",
-    "desc": "水不足の危機からダムの堆積問題まで、台湾の水資源における課題と南北の分配不均の困難",
+    "desc": "年間降水量が多い「雨の島」でありながら、台風シーズンの集中豪雨や雨影地域の影響により、水資源は常に逼迫しています。石門ダムから曾文ダム、翡翠ダム、南化ダムに至るまで、ダムシステムは2300万人の命脈を支えていますが、梅雨の不作や台風の回避、南北の不均衡な分配、堆積問題などが、この島の水の未来を厳しく問い直しています。",
     "city": "新北"
   },
   {
@@ -15169,14 +15290,14 @@
     "city": "花蓮"
   },
   {
-    "title": "青と緑を越える四つの物差し：一枚の田から一枚の健保カードまで、台湾で自らの政治を越えて生き残った政策",
+    "title": "藍緑（国民党・民進党）以外の4つの尺度：一塊の田から一枚の健康保険証まで、台湾における政争を超越した政策たち",
     "lat": 24.144444,
     "lng": 120.673438,
     "category": "history",
     "region": "central",
     "link": "/ja/history/bipartisan-good-policy",
     "lang": "ja",
-    "desc": "ある読者は、青と緑が食卓で罵り合う光景にうんざりし、本当に台湾にとってよかったことを記憶したいと考えました。そこで私たちは、過去七十年の十一の政策を取り上げました。権威主義体制が農地を強制徴収した土地改革、戒厳令解除、全民健康保険から、今なお議論が続く同性婚と前瞻基礎建設までです。あえて青と緑の物差しでは測らず、民生、民主、民権、主権という四つの物差しで見直しました。結論は少し直感に反します。自らの党派的出自を越えて生き残った政策は、生まれたその日にこそ、最も激しく争われていたことが多いのです。",
+    "desc": "藍緑両陣営の罵り合いに疲れ、台湾にとって本当に良い出来事を記憶したいと願う読者がいます。そこで私たちは、過去70年間の11の政策を紐解きました。権威主義下での農地の強制徴収を伴う土地改革、解厳、国民健康保険から、今なお議論が続く同性婚や前瞻インフラ計画まで。あえて藍緑の尺度ではなく、民生、民主、民権、主権という4つの尺度を用いて検証します。結論は少し直感に反するものです。党派の出自を超えて生き残った政策は、その誕生の日こそが最も激しく争われたものでした。",
     "city": "台中"
   },
   {
@@ -15321,6 +15442,17 @@
     "lang": "ja",
     "desc": "1786 年末に中部で勃発した林爽文事件は、清廷が「平定」と呼んだ一民変にとどまらず、帝国に台湾の港口、屯丁、築城政策を変更させた。",
     "city": "彰化"
+  },
+  {
+    "title": "森山松之助：三つの州庁舎と一つの裁判所で、台湾に官方の顔を描く",
+    "lat": 25.034264,
+    "lng": 121.562974,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/moriyama-matsunosuke-prefectural-halls",
+    "lang": "ja",
+    "desc": "1906年、大阪の名門出身で東京帝国大学を卒業した一人の建築家が台湾に赴任し、日本帝国全域で初めての全鉄筋コンクリート造建築を設計しました。その後15年間、森山松之助は台北州庁舎、台中州庁舎、台南州庁舎、台南裁判所、専売局、鉄道部、台湾総督府を次々と完成させました。非対称の敷地、複合柱式、双動線の手法により、植民地政府の権力に具体的な形を与え、今日の監察院、台中州庁舎、国立台湾文学館の所在地となった三棟の赤煉瓦庁舎を遺しました。",
+    "city": "台北"
   },
   {
     "title": "「牡丹社事件：石門峡谷における文明の衝突と主権意識の覚醒」",
@@ -15576,6 +15708,17 @@
     "city": "嘉義"
   },
   {
+    "title": "台湾古蹟保存運動史：林安泰古厝の解体から始まる三つの路線",
+    "lat": 25.04087,
+    "lng": 121.566156,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/taiwan-heritage-preservation-movement",
+    "lang": "ja",
+    "desc": "1978年6月26日、台北市大安区の林安泰古厝が敦化南路拡幅工事のため解体された。建築家李重耀（りじゅうよう）が草縄、チョーク番号、70枚の工程図を用いて、200年の四合院を38,000個のレンガと240,000枚の瓦に分解した。この解体は直接的に1982年の《文化資産保存法》の制定を促した。その後、保存運動は三つの路線に分かれた：楽生療養院は古蹟と居住権を結びつけ、台北市の老房子文化運動は修復を市場に委ねた。成果と論争が同時に生じている。",
+    "city": "台北"
+  },
+  {
     "title": "台湾のマラリア根絶：連日清と蚊を管理に組み込んだ公衆衛生工学",
     "lat": 25.038155,
     "lng": 121.569994,
@@ -15594,19 +15737,19 @@
     "region": "south",
     "link": "/ja/history/taiwan-maritime-trade-history",
     "lang": "ja",
-    "desc": "大航海時代の台湾、国際貿易中心から海賊王国への興亡の伝説",
+    "desc": "16、17世紀の大航海時代、この島は東アジアの辺境の小島ではなく、中国、日本、そして東南アジアを結ぶ重要な貿易拠点でした。オランダ東インド会社は台南にゼーランディア城を築き、中国からは生糸、磁器、茶を輸入し、日本からは銀塊を、東南アジアからは香料や木材を運び込み、ここを中継地として利用しました。その姿は「東アジアのアムステルダム」と称えられました。また、鄭氏王朝は海上覇権を確立し、貿易拠点から海賊王国へと変遷していく興亡の歴史を刻みました。",
     "city": "台南"
   },
   {
     "title": "台湾の眷村（けんそん）の歴史",
-    "lat": 24.990907,
-    "lng": 121.303851,
+    "lat": 24.143658,
+    "lng": 120.673273,
     "category": "history",
-    "region": "north",
+    "region": "central",
     "link": "/ja/history/taiwan-military-dependents-villages-history",
     "lang": "ja",
-    "desc": "ミャンマーからの孤軍から竹垣国家へ、120万人の大移動はいかに「家」を再定義したか",
-    "city": "桃園"
+    "desc": "国民政府が軍の家族を安置するために建設した眷村。竹垣や泥、トタンで作られたわずか数坪の仮住まいから、桃園の忠貞新村のように、ミャンマー北部から撤退してきた孤軍の家族を受け入れた場所まで、流亡と定住、故郷と他郷の狭間で台湾の多様な文化の遺伝子となった歴史を辿ります。",
+    "city": "台中"
   },
   {
     "title": "台湾と北朝鮮：第四の輸出先からシャドーフリートまでのグレーな対峙",
@@ -15847,7 +15990,7 @@
     "region": "north",
     "link": "/ja/lifestyle/hot-spring-culture",
     "lang": "ja",
-    "desc": "軍事療養から世界三大泥泉へ：台湾が意外にも温泉王国になった物語",
+    "desc": "台湾の温泉は日本統治時代の軍事医療ニーズから始まり、北投（ペイトウ）の「天狗庵」での偶然の発見を経て、世界屈指の密度を誇る温泉集落へと進化しました。関子嶺（グアンズーリン）の泥質温泉や緑島（リュウダオ）の海底温泉は世界でも稀な地質学的奇跡であり、日本の癒やしの伝統と現地の社交文化が融合した、戦争と癒やしから生まれた文明の物語がここにあります。",
     "city": "台北"
   },
   {
@@ -15895,14 +16038,14 @@
     "city": "高雄"
   },
   {
-    "title": "ナイトライフとKTV文化",
+    "title": "夜の文化とKTV（カラオケ）文化",
     "lat": 25.035882,
     "lng": 121.55873,
     "category": "lifestyle",
     "region": "north",
     "link": "/ja/lifestyle/nightlife-and-ktv-culture",
     "lang": "ja",
-    "desc": "銭櫃の個室から深夜食堂まで、24時間眠らない島の夜の営み",
+    "desc": "1990年代に台頭した個室式KTVは、CashboxやHolidayなどのブランドが拡大し、10万曲以上のラインナップと多様なルームタイプで国民的娯楽となりました。しかし、1992年の神話世界KTV放火事件や2020年のCashbox林森店火災といった悲劇を経て、社会全体で個室内の避難安全が問われることとなりました。",
     "city": "台北"
   },
   {
@@ -15928,14 +16071,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の騎樓文化と街並み",
+    "title": "台湾のアーケード文化と街並み",
     "lat": 25.039663,
     "lng": 121.559735,
     "category": "lifestyle",
     "region": "north",
     "link": "/ja/lifestyle/taiwan-arcade-culture-and-streetscapes",
     "lang": "ja",
-    "desc": "風雨をしのぐ生活の回廊、バイク、屋台、人情が織りなす台湾の街頭記憶",
+    "desc": "台湾のアーケード（騎樓）は、1900年（明治33年）の日本統治時代に普及した建築形式で、南洋植民地建築と現地のニーズが融合しています。2階が突き出し、1階が開放された設計により、半公共的な空間が生まれ、屋台、バイク駐車、近隣住民の交流など多機能を担っています。雨宿り、放学後のフライドチキン購入、夏の夜にアーケードで語らう——この風雨をしのぐ回廊は、台湾の人々の共通の生活記憶を担っています。",
     "city": "台北"
   },
   {
@@ -15994,14 +16137,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾の公園と日常の余暇",
+    "title": "台湾の公園と日常のレジャー",
     "lat": 25.040395,
     "lng": 121.563175,
     "category": "lifestyle",
     "region": "north",
     "link": "/ja/lifestyle/taiwan-parks-and-everyday-leisure",
     "lang": "ja",
-    "desc": "早朝の太極拳から夜の散歩まで 世代を超えた交流の場としての台湾の公園についての文化的考察",
+    "desc": "早朝の大安森林公園では、高齢者たちが国楽に合わせて太極拳や外丹功に励み、午後は親たちが子供を連れて遊び、夕方は会社員が仕事帰りに散歩を楽しみ、深夜は犬の散歩をする人や静寂を求める人たちの時間となります。同じ公園が時間帯によって役割を変えながら登場することで、世代を超えて交差する社交の場となり、台北の都市生活における日常のリズムと温もりを映し出しています。",
     "city": "台北"
   },
   {
@@ -16190,6 +16333,17 @@
     "lang": "ja",
     "desc": "1999年、福茂唱片は《周蕙精選》を発売し、ジャケットには本人の顔の代わりに「蕙兒」という漫画の人形を用いました。〈約定〉はあらゆるKTV（カラオケボックス）に入り、25年を歩みましたが、彼女本人は歌より一歩遅れて認識され続けました。福茂での5枚からBMGでの雪蔵、群石、華研を経て、2025年には自らプロデューサーを務めDiscoへ踏み込むまで、12枚のアルバムで26年を歩んできました。2026年4月25日、彼女は初めて台北アリーナの舞台に立ちましたが、コンサート終盤に声帯萎縮を公表し、「これが皆さんに歌を聴いていただく最後になるのかは分かりません」と語りました。",
     "city": "台北"
+  },
+  {
+    "title": "張懸から安溥へ——二つの名前、同じ問い",
+    "lat": 23.475039,
+    "lng": 120.95798,
+    "category": "music",
+    "region": "central",
+    "link": "/ja/music/deserts-chang-and-anpu",
+    "lang": "ja",
+    "desc": "焦安溥が13歳で「宝貝（ベイビー）」を書き、芸名「張懸（チョン・シュエン）」として台湾インディーズ音楽の代表的な声となった。2013年、英国でのコンサートで中華民国国旗を掲げ、中国市場から締め出された。2015年、自ら芸名を手放し、3年の沈黙を経て本名「安溥（アン・プー）」で復帰、2022年に『9522』を発表した。「女巫店（ウィッチ・ストア）」に客がわずか2組しかいなかった時代から今日まで、彼女の二つの人生が答え続けてきたのは、名前とスタンスに関する同じ難問である。",
+    "city": "南投"
   },
   {
     "title": "大象體操：歌を歌わないのに音楽が聞こえる台湾のトリオ",
@@ -16390,14 +16544,14 @@
     "city": "台北"
   },
   {
-    "title": "「台灣のサウンドスケープ」",
+    "title": "台湾のサウンドスケープ",
     "lat": 25.035741,
     "lng": 121.569899,
     "category": "music",
     "region": "north",
     "link": "/ja/music/taiwan-soundscape",
     "lang": "ja",
-    "desc": "ゴミ収集車の『エリーゼのために』からブヌン族の八部合唱へ――耳で台湾を知る",
+    "desc": "ゴミ収集車のメロディから廟口の北管・南管、ブヌン族の八部合音から夜市の呼び込みまで、あらゆる響きが生きている文化コードです。世界最高密度のスクーターのエンジン音が奏でる交響曲、廟会音楽、先住民のポリフォニー、庶民の消費音が重なり合い、歴史、記憶、アイデンティティを記録する唯一無二の都市の指紋を描き出します。",
     "city": "台北"
   },
   {
@@ -16456,15 +16610,15 @@
     "city": "花蓮"
   },
   {
-    "title": "大安渓の倚天剣：東アジア最高峰の樹、人が辿り着けない場所に700年間隠れ続けてきた",
-    "lat": 23.509075,
-    "lng": 120.699813,
+    "title": "大安渓の倚天剣：東アジア最高峰の樹、人が立ち入れぬ場所に700年間隠れ続けてきたもの",
+    "lat": 24.560539,
+    "lng": 120.813791,
     "category": "nature",
-    "region": "south",
+    "region": "central",
     "link": "/ja/nature/daan-river-yitian-sword",
     "lang": "ja",
-    "desc": "2023年の旧正月、樹木を探すチームが7日間にわたる遡上調査を行い、大安渓の源流にある、ほとんど人が立ち入ることのできない深い谷で、台湾杉の樹冠からメジャーを垂らしました。その長さは84.1メートル、東アジアで最も高い樹でした。これはレーザーLiDARによる予測よりも4.6メートルも高い数値です。毎年台風に見舞われ、崩落や浸水の危険がある島において、本来このような高さの生命が存続することは考えにくいことです。しかし、人が辿り着けない渓谷に生えていたからこそ、大規模な伐採を逃れ、700年もの間生き抜いてきました。その「辿り着けなさ」が、この樹を生き残らせると同時に、私たちが島全体をレーザーでスキャンしたことで、今年初めてその姿を捉えることを可能にしたのです。",
-    "city": "嘉義"
+    "desc": "2023年の旧正月、樹木を探すチームが7日間にわたる遡上調査を行い、大安渓の源流にある、ほとんど人が到達できない深い谷で、台湾杉の樹冠からメジャーを垂らしました。その長さは84.1メートル、東アジアで最も高い樹でした。これはレーザーLiDARによる予測よりも4.6メートルも高い数値です。毎年台風に見舞われ、崩落や浸水の危険がある島において、本来このような高さの生命が存続することは考えにくいことです。しかし、人が立ち入れない渓谷に位置していたからこそ、大規模な伐採を逃れ、700年もの歳月を生き抜いてきました。その「到達不能」という性質が、この樹を生き残らせると同時に、島全体をレーザーでスキャンしたことで、今年初めて私たちの目に触れることとなったのです。",
+    "city": "苗栗"
   },
   {
     "title": "固有種",
@@ -16643,14 +16797,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾カササギ：都市のジャングルに生きる青い家族、そして百年越えの遺伝子防衛戦",
+    "title": "タイワンアオカケス：都市のジャングルに生きる青いギャング、そして百年を超える遺伝子防衛戦",
     "lat": 25.035344,
     "lng": 121.56048,
     "category": "nature",
     "region": "north",
     "link": "/ja/nature/taiwan-blue-magpie",
     "lang": "ja",
-    "desc": "2007年に18万票を獲得して国鳥の座を勝ち取ったこの山林の宝石は、「集団で仕掛ける」強靭な家族でもあります。1862年に博物学者スウィンホーが採集した最初の標本から、今日では都市部で猫の餌を奪い取るまで適応したこの鳥は、97%という「ヘルパー制」の繁殖形態で競争を勝ち抜いています。生存、家族の結束、遺伝子防衛戦、そして人と鳥が共存する知恵の島の物語。",
+    "desc": "2007年に18万票を獲得して国鳥の座を射止めたこの山林の宝石は、実は「集団喧嘩」をする強靭な家族です。台湾固有種であり、1862年にスウィンホーが採集した最初の標本から、今日では都市公園でキャットフードを奪うまでに至っています。その勝因は、巣の周りで助けるヘルパーが97%に達する協力繁殖にあります。そしてこの百余年間、彼らは中国産のアカハシカケスとの遺伝的境界線を守り続けてきました。これは生存、家族の凝集力、遺伝子防衛戦、そしてヒトと鳥の共存の知恵を描いた島の物語です。",
     "city": "台北"
   },
   {
@@ -16672,7 +16826,7 @@
     "region": "central",
     "link": "/ja/nature/taiwan-forest-ecosystems",
     "lang": "ja",
-    "desc": "海抜ゼロメートルから玉山（ユーシャン）の頂上まで、地球上で最も密度の高い森林スペクトルを巡る垂直の旅",
+    "desc": "極めて短い水平距離の中で、海抜ゼロメートルから玉山（ユーシャン）の頂へと登り詰めるこの島は、熱帯から亜北極に至る完全な森林相を凝縮しています。モクマオウ、千年のヒノキ、そして玉山円柏がそれぞれ独自の場所を占め、その森林被覆率は世界平均の2倍に達しますが、そのほとんどが垂直な山壁に密集しており、毎年台風や地震、豪雨の試練にさらされる、世界で最も密度が高く、かつ脆弱な森林の一つです。",
     "city": "南投"
   },
   {
@@ -16749,7 +16903,7 @@
     "region": "north",
     "link": "/ja/nature/taiwan-pangolin",
     "lang": "ja",
-    "desc": "世界で最も密輸されている哺乳類が、台湾で安全な住処を見つけました",
+    "desc": "世界で最も密輸されている哺乳類動物であるセンザンコウの台湾亜種は、台湾で安全な家を見つけました。アジアの他の地域の仲間が密輸によって絶滅の危機に瀕しているとき、台湾は厳格な法的保護、生息地の維持、科学的研究、さらに人工繁殖によって、個体群を安定させ、さらに増加させることに成功し、珍しい保全成功事例となり、世界に種の絶滅が運命ではないことを示しました。",
     "city": "台北"
   },
   {
@@ -16775,14 +16929,14 @@
     "city": "花蓮"
   },
   {
-    "title": "台湾における石虎保全",
+    "title": "台湾スナネコ（シコ）の保護",
     "lat": 24.559729,
     "lng": 120.820106,
     "category": "nature",
     "region": "central",
     "link": "/ja/nature/taiwanese-leopard-cat-conservation",
     "lang": "ja",
-    "desc": "台湾全土で生息数が500匹未満の幽霊猫――最後の在来ネコ科動物が絶滅の淵に立たされている現状",
+    "desc": "雲豹が絶滅した後、島内に残された最後の在来種のネコ科動物は、この浅い山の幽霊のような存在です。彼らは深い山ではなく、苗栗、南投、台中の低標高な浅い山地帯に生息しています。交通事故、工場の建設による生息地の喪失、鶏の密猟、そして野良犬の脅威にさらされており、推定個体数は500頭未満で減少傾向にあります。すでに一級の絶滅危惧種として指定されており、台湾における発展と保護が真っ向から対立する象徴的な存在となっています。",
     "city": "苗栗"
   },
   {
@@ -17094,14 +17248,14 @@
     "city": "台南"
   },
   {
-    "title": "陳樹菊：台東の八百屋が50年間の売上で数千万円を寄付した慈善の生涯",
+    "title": "陳樹菊（チェン・シュージュ）：台東の野菜売りが50年間の稼ぎで数千万元を寄付した慈善の人生",
     "lat": 22.751824,
     "lng": 121.150495,
     "category": "people",
     "region": "east",
     "link": "/ja/people/chen-shu-chu-vegetable-vendor-philanthropist",
     "lang": "ja",
-    "desc": "台東の八百屋が50年間の売上で数千万円を寄付しながら、「自分はただの野菜売りだ」と語った",
+    "desc": "1950年生まれ、台東中央市場の野菜売り。13歳の時に母親を難産で亡くし、学業を中断して野菜売りとなった。その後50年以上にわたり、野菜の売り上げを少しずつ学校、孤児院、病院へと寄付し続け、累計額は数千万元に達する。2010年には『TIME』誌の「世界で最も影響力のある100人」に選出され、映画監督の李安（リー・アン）氏からも推薦を受けた。彼女は自らを「ただの野菜売りです」と語る。",
     "city": "台東"
   },
   {
@@ -17215,14 +17369,14 @@
     "city": "新竹"
   },
   {
-    "title": "紀懐新：AIに「一歩ずつ考える」ことを教え、認知心理学を機械に持ち込んだ台湾人",
+    "title": "紀懐新：AIに「一歩ずつ考える」ことを教えた台湾人、認知心理学をマシンへと応用する",
     "lat": 25.165343,
     "lng": 121.447001,
     "category": "people",
     "region": "north",
     "link": "/ja/people/chi-huai-hsin",
     "lang": "ja",
-    "desc": "紀懐新はGoogle DeepMindの研究担当副社長であり、AIに「一歩ずつ推論する」ことを学ばせた思考連鎖論文の共著者でもあります。淡水で育ったこの台湾人は、認知心理学における「人はどのように学ぶのか」という概念（Piagetのスキーマ理論）を、機械に推論を教える方法へと変えました。そしてAIを変えたこの突破口にかかった費用は約5000米ドルにすぎませんでした。なぜなら、それはそもそも計算力で解ける問題ではなかったからです。",
+    "desc": "紀懐新（Ed Chi）氏はGoogle DeepMindの研究副社長であり、AIに「一歩ずつ推論する」方法を学習させる「Chain of Thought（思考の連鎖）」論文の共同著者です。淡水で育ったこの台湾人は、認知心理学における「人間がいかに学ぶか」という概念（ピアジェのスキーマ理論）を、マシンに推論を教える手法へと昇華させました。そして、AIを変革したこの突破口にかかった費用はわずか約5,000米ドルほどでした。なぜなら、それは計算能力だけで解決できる問題ではなかったからです。",
     "city": "新北"
   },
   {
@@ -17666,6 +17820,17 @@
     "city": "金門"
   },
   {
+    "title": "黄声遠：宜蘭を時間をかけて修繕する都市として、壁のない建築を建てる",
+    "lat": 24.746825,
+    "lng": 121.760432,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/huang-sheng-yuan",
+    "lang": "ja",
+    "desc": "1994年、台北生まれのイェール大学建築修士が宜蘭に移住し、その後30年間、ただ一つのことに取り組んだ。都市全体を時間をかけて修繕する工事現場と見なし、「維管束計画」を推進して壁を取り壊し、埋め立てられた護城河を再び開き、公共建築と街路の間に明確な境界がない空間を実現した。羅東文化工場は14年をかけて完成し、二度の政権交代を経た。2017年、田中央工作群は台湾建築チームとして初めてヨーロッパ巡回展示に招待され、黄声遠本人も同年、日本の「吉阪隆正賞」を外国人として初めて受賞した。",
+    "city": "宜蘭"
+  },
+  {
     "title": "黄土水：失踪から帰ってきた一体の台湾近代彫刻",
     "lat": 22.619103,
     "lng": 120.297095,
@@ -17765,14 +17930,14 @@
     "city": "新北"
   },
   {
-    "title": "幾米：癒やし系として受け止められてきたあの絵たちは、一人の血液がんサバイバーがガラス張りの無菌室から持ち帰ったものだ",
+    "title": "ジム・ミィ：癒やし系とされるあの絵たちは、白血病の生存者がガラス越しに持ち帰ったもの",
     "lat": 24.755269,
     "lng": 121.752323,
     "category": "people",
     "region": "north",
     "link": "/ja/people/jimmy-liao",
     "lang": "ja",
-    "desc": "1995年、37歳の広告美術監督だった廖福彬は急性骨髄性白血病と診断され、無菌室でガラス越しに友人たちに手を振った。退院後、彼がかつて仕事で描いていた「小さな人々」が命を宿し、『微笑みの魚』『月が忘れたこと』『左へ行く、右へ行く』『地下鉄』を描き始めた。台湾人が覚える「癒やし」「文学青年」「宜蘭羅東幾米広場」の裏側には、地獄を経験した一人の男がおり、死と孤独を読み取れる形に翻訳し、後に映画、ミュージカル、サーカス、公共芸術へと広がる版図を築き、2026年には香港で25周年記念展を開催し続けている。",
+    "desc": "1995年、当時37歳のアートディレクターであった廖福彬は急性骨髄性白血病と診断され、無菌室のガラス越しに友人に手を振りました。退院後、もともと生計を立てるために描いていた「小さな人々」が命を宿し、『微笑む魚』『月が忘れたこと』『左へ行く・右へ行く』『地下鉄』といった作品を描き始めました。台湾の人々が記憶する癒やし、文青（カルチャー志向）、宜蘭県羅東のジム・ミィ広場の背景には、地獄を経験した一人の人間が、死と孤独を読み解ける形へと翻訳した物語があります。その活動は後に映画、ミュージカル、サーカス、パブリックアートへと広がり、2026年には香港で25周年特別展も開催されます。",
     "city": "宜蘭"
   },
   {
@@ -18612,14 +18777,14 @@
     "city": "台北"
   },
   {
-    "title": "蔡明亮（さい・めいりょう／ツァイ・ミンリャン）",
+    "title": "蔡明亮（ツァイ・ミンリャン）",
     "lat": 25.033353,
     "lng": 121.568607,
     "category": "people",
     "region": "north",
     "link": "/ja/people/tsai-ming-liang",
     "lang": "ja",
-    "desc": "ベネチア国際映画祭金獅賞受賞者、マレーシア華人、スロー・シネマ美学の巨匠",
+    "desc": "1957年にマレーシアのサラワクで生まれ、1977年に台湾へ渡り演劇を学んだ映画監督です。1992年に『青少年哪吒』で独自のスタイルを確立し、1994年には『愛情萬歲』でヴェネツィア国際映画祭の金獅子賞を受賞しました。これは侯孝賢、張藝謀に続く3人目の華人監督による受賞となりました。極端に長い長回し、最小限の台詞、そして緩やかなテンポを通じて、都会の人々の孤独と疎外感を描き出し、『愛情萬歲』から『歩行者シリーズ』に至るまで、独自の「スロー・シネマ」美学を確立しています。",
     "city": "台北"
   },
   {
@@ -18678,14 +18843,14 @@
     "city": "花蓮"
   },
   {
-    "title": "王大閎：バウハウスの精神を台湾に持ち込み、現代建築で東方の魂を見つめた建築詩人",
+    "title": "王大閎：バウハウスの精神を台湾へ、モダニズム建築で東方の魂を凝視した建築詩人",
     "lat": 25.029752,
     "lng": 121.558159,
     "category": "people",
     "region": "north",
     "link": "/ja/people/wang-da-hong-architect",
     "lang": "ja",
-    "desc": "1965年、国父紀念館の設計コンペで入選し、バウハウスの巨匠グロピウスに師事した王大閎は、一生を台湾で捧げ、伝統と現代の張力に答えを探し求めた。彼の建築は極めて簡素で規律正しいが、軒先の反り上がりと黒壁白瓦の中に、戦後台湾に最も優雅なモダニズムの詩篇を刻んだ。",
+    "desc": "1965年国父記念館設計コンペで頭角を現し、バウハウス創始者グロピウスに師事した王大閎が、生涯をかけて台湾で伝統と現代の緊張関係に向き合った：その建築は極めて簡素で自律的でありながら、軒先の反り上がりと黒壁白瓦の中に、戦後台湾により優雅なモダニズムの詩篇を刻んだ。",
     "city": "台北"
   },
   {
@@ -18876,14 +19041,14 @@
     "city": "新北"
   },
   {
-    "title": "王永慶：米店から六軽への二十年の奮戦、そして死後の遺産争奪劇",
+    "title": "王永慶：米屋、第六ナフサクラッカー20年間の奮闘、死後の遺産争い劇",
     "lat": 25.03489,
     "lng": 121.564088,
     "category": "people",
     "region": "north",
     "link": "/ja/people/yung-ching-wang-formosa-plastics-founder",
     "lang": "ja",
-    "desc": "1917年1月18日、台北新店に生まれた王永慶は、15歳で中退し借金して米店を開業、1954年に台湾プラスチックを設立した。1973年に政府に六軽（第六ナフサクラッカー）の建設を提案し、約二十年の奮戦を経て認可され、1998年に雲林県麦寮で本格量産を開始した。2008年10月15日に米国にて逝去、享年92歳。死後、十年以上にわたる家族間の遺産争いが残された。",
+    "desc": "1917年、台北の新店の貧しい農家に生まれました。15歳で中退し、父から借りた200円で「新高製米所」を開設しました。1954年に台湾塑膠工業（後の台塑グループ）を創立しました。後に「経営の神様」と呼ばれるようになりました。1973年、政府に第六ナフサクラッカー建設計画を提案しました。何度も拒否されましたが、諦めませんでした。約20年にわたる奮闘の末、ようやく承認を得ました。1998年、雲林県麥寮郷で正式に量産を開始しました。2008年10月15日、アメリカのニューヨークで死去しました。享年92歳。死後、家族間の遺産相続をめぐる争いが2022年頃まで続きました。",
     "city": "台北"
   },
   {
@@ -18909,14 +19074,14 @@
     "city": "高雄"
   },
   {
-    "title": "猪哥亮",
+    "title": "猪哥亮（チュー・ゴーリャン）",
     "lat": 22.633565,
     "lng": 120.301175,
     "category": "people",
     "region": "south",
     "link": "/ja/people/zhuge-liang-showman",
     "lang": "ja",
-    "desc": "台湾のショー文化を代表する国民的コメディアン、2017年に逝去",
+    "desc": "本名は謝新達。1946年に高雄市左営区で生まれました。父は鍛冶屋、母は野菜売りでした。小学校卒業後に退学し、15歳で歌仔戯（台湾の伝統演劇）の師匠に弟子入りしました。1960年代には夜市で歌手の真似をすることから頭角を現し、1970年代に台湾の経済が急成長して夜間の娯楽需要が増えると、ショービジネス文化が誕生しました。彼は伝統的な戯曲や民俗芸能の語り、そして流行の要素を融合させた「猪式ユーモア」を生み出し、台湾語による即興の韻踏みを通じて、庶民の言葉をテレビのバラエティ番組へと押し上げました。2017年5月、大腸がんのため逝去しました。",
     "city": "高雄"
   },
   {
@@ -19169,7 +19334,7 @@
     "region": "north",
     "link": "/ja/society/education-system-and-admissions-culture",
     "lang": "ja",
-    "desc": "聯考制度から十二年國民基本教育まで、台湾の教育が競争と多様性の間でどのようにバランスをとってきたか",
+    "desc": "台湾の教育は激しい進学競争で知られ、9年間の義務教育から12年間の国民基本教育へと拡大しました。普通教育と技能教育の二軌制ですが、依然として学術的成就が重視される社会構造となっており、競争と多様性、エリート教育と普及のバランスをどう取るかが現在の核心的な課題です。",
     "city": "台北"
   },
   {
@@ -19184,14 +19349,14 @@
     "city": "台北"
   },
   {
-    "title": "環境保全と持続可能な開発",
+    "title": "環境保護と持続可能な開発",
     "lat": 24.059856,
     "lng": 120.434153,
     "category": "society",
     "region": "central",
     "link": "/ja/society/environmental-awakening-and-net-zero-transition",
     "lang": "ja",
-    "desc": "煙突の島からネットゼロ台湾へ：40年間の環境運動の覚醒の道",
+    "desc": "1980年代の「汚染させてから対策する」煙突の島から、1986年の鹿港におけるデュポン反対運動による環境意識の高まり、1988年の環境保護署設立による制度化、そして2011年の福島第一原発事故後のエネルギー転換や2022年の2050年ネットゼロ排出宣言へ。台湾は、愛河の汚染やPM2.5の基準超過といった40年にわたる代償を経て目覚め、現在では資源回収率が60.1%に達し、200社以上の企業が科学的根拠に基づいた炭素削減目標を約束しています。",
     "city": "彰化"
   },
   {
@@ -19272,14 +19437,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾の長期介護制度の発展",
+    "title": "台湾の長期ケア制度の発展",
     "lat": 25.038578,
     "lng": 121.564343,
     "category": "society",
     "region": "north",
     "link": "/ja/society/long-term-care-system-development",
     "lang": "ja",
-    "desc": "世界で最も先進的な介護制度でありながら、同時に最大の見えない介護体系が存在する",
+    "desc": "台湾は制度設計によりアジアで最も先進的な介護体系を構築し、政府は毎年多額の予算を投入して広範な市民にサービスを提供しています。しかし同時に、数十万人の外国人家庭ヘルパーが各家庭で目に見えない巨大なケアネットワークを支えており、これら2つの並行する体系はほとんど交流がなく、制度設計、社会的価値、そして現実的な妥協が交錯する深刻な矛盾の物語を描き出しています。",
     "city": "台北"
   },
   {
@@ -19394,14 +19559,14 @@
   },
   {
     "title": "社会運動と市民参加",
-    "lat": 24.995886,
-    "lng": 121.298873,
+    "lat": 24.055819,
+    "lng": 120.442634,
     "category": "society",
-    "region": "north",
+    "region": "central",
     "link": "/ja/society/social-movements-and-civic-participation",
     "lang": "ja",
-    "desc": "野百合から太陽花まで：台湾が社会運動を通じて民主主義を実践し社会を進歩させた方法",
-    "city": "桃園"
+    "desc": "戒厳令解除運動から野百合学運、太陽花運動、同性婚の合法化に至るまで、台湾社会は平和的かつ理性的な方法で世代を超えて民主化を推進してきました。これらの活動は政治、環境、労働、ジェンダーなど多岐にわたる分野に及び、多くは平和的に行われましたが、農民運動のような激しい衝突を経て民主化のプロセスに具体的な制度的痕跡を残してきました。",
+    "city": "彰化"
   },
   {
     "title": "台湾の野良動物文化：『十二夜』からベンガルヤマネコの死まで、動物保護と野生動物保全のトロッコ問題",
@@ -19434,6 +19599,17 @@
     "link": "/ja/society/taipei-smoking-room",
     "lang": "ja",
     "desc": "2026年5月7日、西門MRT6番出口の脇に一つの透明な箱が立ちました。台湾初の屋外負圧式喫煙室です。扉を開けると、風は中へ吸い込まれ、外へは出ていきません。台北は無煙都市を目指しながら、まず街頭にたばこを吸うためのガラスの家を建てました。嚴道が肺葉を切除した1984年から、屋内の受動喫煙が3.2%まで下がり、扉の外ではなお半分近くが残る現在まで。この箱の中には、一本の合法なたばこと、この都市がまだ話し終えていない公共空間をめぐる契約が収まっています。",
+    "city": "台北"
+  },
+  {
+    "title": "台湾とアジア大会：名古屋で誕生した名前、47年後に再び名古屋へ",
+    "lat": 25.040645,
+    "lng": 121.566999,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/taiwan-asian-games",
+    "lang": "ja",
+    "desc": "2026年10月4日の名古屋アジア大会閉幕式で、中華隊は金5、銀17、銅33を獲得し、メダル獲得数で15位となりました。開幕式では中華オリンピック委員会の旗を掲げ、表彰式では国旗歌のメロディーが流れました。この取り決めは1979年10月に国際オリンピック委員会が名古屋で決議したものです。台湾は1954年マニラアジア大会に初参加し2つの金メダルを獲得しましたが、1973年に会籍を38対13で除外され、20年間の欠席を経て1990年北京アジア大会でこの名前で復帰しました。",
     "city": "台北"
   },
   {
@@ -19580,14 +19756,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾のコミュニティと里文化",
+    "title": "台湾のコミュニティと里（リ）文化",
     "lat": 25.037047,
     "lng": 121.567694,
     "category": "society",
     "region": "north",
     "link": "/ja/society/taiwan-neighborhood-and-li-culture",
     "lang": "ja",
-    "desc": "最も基層の民主的実践からコミュニティづくりの社会的イノベーションへ",
+    "desc": "「里」は台湾の民主社会における最小の細胞です。里長が住民を集めて会議を開き、隣組長が戸別訪問で報告を行い、隣の教室ではコミュニティ大学が開講されています。この記事では、最も基礎的な里・隣制度から始まり、コミュニティ形成運動やコミュニティ大学の試みを経て、市民参加がいかに受動的なものから能動的な変革へと進化したのか、そしてこの草の根ネットワークがいかに台湾の社会的なレジリエンスを支えているのかを紐解きます。",
     "city": "台北"
   },
   {
@@ -19764,6 +19940,17 @@
     "link": "/ja/society/united-front-tour-groups",
     "lang": "ja",
     "desc": "2024年6月、波特王が中共による台湾インフルエンサー10組招待計画を暴露し、台湾社会に「統戦団」新世代の操作への深い不安を引き起こした。格安の現地招待から百万フォロワー創作者の中国渡航まで、この両岸認知博弈の核心は台湾人に中国が良いと信じさせることではなく、台湾を自ら陣脚を乱させることにある。",
+    "city": "台北"
+  },
+  {
+    "title": "都市更新をめぐる紛争：文林苑事件を経て、台湾は「不同意戸」にどう向き合うのか",
+    "lat": 25.035642,
+    "lng": 121.562804,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/urban-renewal-controversy",
+    "lang": "ja",
+    "desc": "2012年3月28日、台北市政府による士林文林苑の強制撤去が行われ、王家の2戸が数百人の支持者の前で倒壊したことは、台湾の都市更新史上最大の紛争となった。11回の訴訟のうち王家は10回敗訴し、裁判所は王家の土地を建築線に接しない「袋地（行き止まりの土地）」と認定。2013年には大法官が釈字第709号により都市更新条例の一部違憲判決を下した。事件は和解で終結したが、「多数決によって少数の財産を処分できるのか」という問いには、今なお明確な答えがない。",
     "city": "台北"
   },
   {
@@ -20328,17 +20515,6 @@
     "city": "彰化"
   },
   {
-    "title": "타이완 거리 예술과 그래피티 문화",
-    "lat": 22.618561,
-    "lng": 120.281127,
-    "category": "culture",
-    "region": "south",
-    "link": "/ko/culture/taiwan-street-art-and-graffiti-culture",
-    "lang": "ko",
-    "desc": "지하 그래피티에서 합법적 벽화까지, 도시의 벽면이 타이완 예술가의 창작 무대가 되기까지",
-    "city": "高雄"
-  },
-  {
     "title": "황금시대의 여운: 맹신호부터 플라스틱 컵까지, 대만의 차가 바꾼 100년의 용기",
     "lat": 23.752878,
     "lng": 120.688986,
@@ -20381,6 +20557,17 @@
     "lang": "ko",
     "desc": "1964년 대만대학 상학계 학생 3명이 50만 위안으로 삼상행(三商行)을 설립해 수공예품 수출로 시작했다. 60년 후 이 기업은 미련사(美廉社), 삼상차오푸(三商巧福), 전가복(全家福), 삼상수명(三商壽)으로 성장했으며, 타이완인의 일상에서 이低调한 기업집단을 피할 수 없는 경우가 많다.",
     "city": "南投"
+  },
+  {
+    "title": "타이완 자매체 창작자 경제: 2,300만 명의 파편화된 전장",
+    "lat": 25.029509,
+    "lng": 121.568065,
+    "category": "economy",
+    "region": "north",
+    "link": "/ko/economy/taiwan-self-media-creator-economy",
+    "lang": "ko",
+    "desc": "타이완 인플루언서 광고 시장 규모가 미국의 1% 미만인 가운데, 중형 창작자 한 명이 미국 동급 창작자의 약 2배에 달하는 플랫폼을 동시에 운영하며, 수익화는 구독제가 아닌 제휴 마케팅에 의존한다. 기술 기업 제품 관리자에서 전업 유튜버로 전향한 옹쥔밍(翁雋明)이 개봉기와 리뷰로 인기를 끌며, 시장 규모가 작고 플랫폼이 극도로 파편화된 환경에서 창작자가 또 다른 생존 규칙으로 살아남는 과정을 보여준다.",
+    "city": "台北"
   },
   {
     "title": "중리: 타이완 타오위안시 안의 또 다른 도시, 왜 중리가 타오위안이 아니라고 하는가?",
@@ -20823,6 +21010,17 @@
     "city": "台北"
   },
   {
+    "title": "대안시 이천검: 동아시아에서 가장 높은 나무, 우리가 닿을 수 없는 곳에 700년간 숨어 있다",
+    "lat": 24.558502,
+    "lng": 120.816599,
+    "category": "nature",
+    "region": "central",
+    "link": "/ko/nature/daan-river-yitian-sword",
+    "lang": "ko",
+    "desc": "2023년 음력 설날, '나무 찾는 사람들' 팀이 계곡을 거슬러 7일간 올라 대안시 발원지 인근, 좀처럼 사람의 발길이 닿지 않는 깊은 골짜기에서 한 대만삼나무의 나무 꼭대기에서 줄자를 내려뜨렸다 — 84.1미터, 동아시아 최고(最高)의 나무. 이 나무는 라이더(LiDAR) 예측보다 4.6미터 더 높았다. 매년 태풍이 불고, 산사태와 홍수가 잦은 섬, 마땅히 이런 높이의 생명을 간직할 수 없는 섬이지만, 바로 인간이 닿을 수 없는 계곡에 자랐기에 대벌채를 피하고 700년을 버텼다. 똑같은 '닿을 수 없음'이 그것을 살게도 했지만, 우리가 섬 전체를 라이더로 스캔하고 나서야 올해 비로소 그것을 볼 수 있게 했다.",
+    "city": "苗栗"
+  },
+  {
     "title": "타이완의 산림 생태계",
     "lat": 23.465347,
     "lng": 120.954648,
@@ -20830,7 +21028,7 @@
     "region": "central",
     "link": "/ko/nature/taiwan-forest-ecosystems",
     "lang": "ko",
-    "desc": "해수면부터 위산(玉山) 정상까지 이어지는 수직 여행, 지구상에서 가장 밀도 높은 산림 스펙트럼을 가로지르다",
+    "desc": "매우 짧은 수평 거리 내에서 해수면부터 위산(玉山) 정상까지 치솟으며 열대에서 아북극에 이르는 완전한 임상(林相)을 응축하고 있다. 목황(木麻黃), 천년 히노끼, 위산원백(玉山圓柏)이 각자의 영역을 차지하며, 높은 피복률은 세계 평균의 두 배에 달하지만 대부분 가파른 수직 절벽에 밀집해 있어 태풍, 지진, 폭우를 매년 견뎌내는 세계에서 가장 밀도가 높으면서도 취약한 산림 중 하나이다.",
     "city": "南投"
   },
   {
@@ -20865,6 +21063,17 @@
     "lang": "ko",
     "desc": "푸젠 통일전선단의 중앙TV 《신문련보》에서 영감을 얻은 것에서부터 23세에 화에(華視) 최연소 정오 뉴스 앵커로 발탁된 것, 그리고 121만 구독 채널을 자발적으로 중단한 것까지, 천자견은 「시망막」이라는 이름으로 8년간의 권위 해체 행동을 완성했다. 2023년 이후 공영방송(公視) 아동·청소년 프로그램으로 전환하여 《안녕! 질문 있습니다?》(금종59 후보)와 《성인고등학교 탐정사무소》 S1·S2(금종60 청소년 프로그램 후보)를 진행했으며, 2026년부터 반려견 유자(柚子)와 도쿄에서 1년간 체류하면서 IG와 개인 유튜브에서 「Retina News」와 극단적 셀러리(香菜) 혐오의 일상을 공유하고 있다.",
     "city": "南投"
+  },
+  {
+    "title": "지화이신: AI에게 ‘한 걸음씩 생각하기’를 가르친 타이완인, 인지심리학을 기계 안으로 옮기다",
+    "lat": 25.176316,
+    "lng": 121.437502,
+    "category": "people",
+    "region": "north",
+    "link": "/ko/people/chi-huai-hsin",
+    "lang": "ko",
+    "desc": "지화이신은 Google DeepMind 연구 부사장이자, AI가 ‘한 걸음씩 추론하기’를 배우게 한 사고의 연쇄 논문의 공동 저자이다. 단수이에서 자란 이 타이완인은 인지심리학에서 말하는 ‘인간은 어떻게 학습하는가’라는 개념, 곧 피아제의 도식 이론을 기계에 추론을 가르치는 방법으로 바꾸었다. 그리고 AI를 바꾼 이 돌파구에는 약 5천 달러밖에 들지 않았다. 애초에 그것은 연산력으로 해결할 수 있는 문제가 아니었기 때문이다.",
+    "city": "新北"
   },
   {
     "title": "허팡이: 이란 1971, 그람 무용수단 수석에서 2024 금마 주시각 무용수까지",
@@ -21395,6 +21604,17 @@
     "city": "桃園"
   },
   {
+    "title": "A Espada Yitian do Rio Da'an: A árvore mais alta da Ásia Oriental, escondida por setecentos anos onde não podemos chegar",
+    "lat": 24.567622,
+    "lng": 120.81503,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "No Ano Novo Lunar de 2023, a equipe 'Buscadores de Árvores' percorreu o curso do rio durante sete dias e, em um vale profundo e quase inacessível na nascente do Rio Da'an, deixou uma fita métrica cair da copa de uma Taiwan Cypress — alcançando 84,1 metros, a árvore mais alta da Ásia Oriental. Ela superou as previsões do LiDAR em 4,6 metros. Em uma ilha que enfrenta tufões anuais e riscos constantes de deslizamentos e inundações, não deveria ser possível manter tamanha altura de vida; mas é justamente por crescer em um vale onde os humanos não chegam que ela escapou do desmatamento em larga escala e sobreviveu por setecentos anos. Esse mesmo isolamento que permitiu sua sobrevivência foi o que nos impediu de vê-la, até que o escaneamento a laser de toda a ilha nos permitisse encontrá-la pela primeira vez este ano.",
+    "city": "苗栗"
+  },
+  {
     "title": "Coruja-pescadora-taiwanesa: seis quilómetros de rio para um casal, a rapina noturna no wu-hsin-shih (烏心石) a 1.800 metros",
     "lat": 24.163283,
     "lng": 121.613709,
@@ -21492,17 +21712,6 @@
     "lang": "zh-TW",
     "desc": "От процветания портов в эпоху Цинь до барочных лавок периода японского правления, исторические улицы Тайваня — это история народа, написанная кирпичом и черепицей",
     "city": "彰化"
-  },
-  {
-    "title": "Уличное искусство и граффити-культура Тайваня",
-    "lat": 25.040864,
-    "lng": 121.557986,
-    "category": "culture",
-    "region": "north",
-    "link": "/culture/taiwan-street-art-and-graffiti-culture",
-    "lang": "zh-TW",
-    "desc": "От подпольного граффити до легального рисования: как городские стены стали площадкой для творчества тайваньских художников",
-    "city": "台北"
   },
   {
     "title": "Эхо золотого века: от чайника Мэнциня к пластиковому стакану, 150 лет смены сосудов тайваньского чая",
@@ -21692,6 +21901,17 @@
     "city": "台北"
   },
   {
+    "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
+    "lat": 24.142714,
+    "lng": 120.681773,
+    "category": "history",
+    "region": "central",
+    "link": "/history/moriyama-matsunosuke-prefectural-halls",
+    "lang": "zh-TW",
+    "desc": "В 1906 году выпускник Токийского императорского университета из осакской аристократической семьи приехал на Тайвань консультантом и спроектировал первое в Японской империи здание из полностью железобетонного каркаса. За следующие пятнадцать лет Морияма Матносукэ последовательно завершил здания префектур Тайбэя, Тайчжуна и Тайнаня, суд Тайнаня, управление монополий, железнодорожное управление и здание генерал-губернатора Тайваня. Его методы работы с асимметричными участками, сложными ордерами и двойными циркуляциями придали конкретную форму власти колониального правительства и оставили три красно-кирпичных здания, где сегодня располагаются Контрольный юань, здание префектуры Тайчжуна и Национальный музей тайваньской литературы.",
+    "city": "台中"
+  },
+  {
     "title": "Порт Тайчжун: как один камень оттолкнул Уци от моря и переписал береговую линию",
     "lat": 24.142051,
     "lng": 120.667047,
@@ -21745,6 +21965,17 @@
     "lang": "zh-TW",
     "desc": "Адрес 292 на втором отрезке улицы Цзядун в городе Чжанхуа — номер дома назван в честь старого дерева цзядун с неясным возрастом. Дорога приспосабливалась к дереву, а не дерево к дороге. От теории посадки деревьев Ясудая Ясудзи в 1898 году, через массовые посадки чёрного дерева в 1980-х годах, до петиции более шести тысяч человек в 2026 году с требованием запретить обрезку «на пень» — каждое поколение тайванцев принимало решения о деревьях на улицах. Только вот руководство по обрезке с надписью «полностью запрещено» до сих пор остаётся просто «справочным материалом для использования органами власти».",
     "city": "台北"
+  },
+  {
+    "title": "Дааньси Итяньцзянь: самое высокое дерево Восточной Азии, скрытое в месте, куда мы не можем попасть, уже семьсот лет",
+    "lat": 24.557016,
+    "lng": 120.813473,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
+    "lang": "zh-TW",
+    "desc": "На лунный Новый год 2023 года команда «Ищущие деревья» провела семь дней, поднимаясь по ручью, и в глубоком ущелье у истока реки Дааньси, куда почти никто не может попасть, спустила рулет с вершины одной тайваньской сугги — 84,1 метра, самое высокое дерево Восточной Азии. Оно оказалось на 4,6 метра выше прогноза лидарной съемки. Остров, который ежегодно поражают тайфуны, где происходят обвалы и наводнения, по идее не должен сохранять жизнь такой высоты; но именно потому, что оно растет в ущелье, недоступном для людей, ему удалось избежать массовой вырубки и пережить семьсот лет. Та же самая «недоступность» и спасла его, и заставила нас сканировать лидаром весь остров, чтобы только в этом году впервые увидеть его.",
+    "city": "苗栗"
   },
   {
     "title": "Чжэнь Чжонь: трех раз избран в Совет города Каосинга, два срока заканчиваются в законодательных актах",
@@ -22165,15 +22396,15 @@
     "city": "桃園"
   },
   {
-    "title": "Bướm xanh Đài Loan: Tầng nhiều thành thị trong rừng nguyen sinh, chiến tranh bảo vệ gen kéo dài hàng trăm năm",
-    "lat": 25.025239,
-    "lng": 121.557032,
+    "title": "Ỷ Thiên Kiếm bên dòng Đại An Khê: Cây cao nhất Đông Á ẩn mình suốt 700 năm nơi con người không thể chạm tới",
+    "lat": 24.566661,
+    "lng": 120.823402,
     "category": "nature",
-    "region": "north",
-    "link": "/nature/taiwan-blue-magpie",
+    "region": "central",
+    "link": "/nature/daan-river-yitian-sword",
     "lang": "zh-TW",
-    "desc": "Năm 2007 chiếm 180.000 phiếu giành vị trí chim quốc gia, những viên ngọc rừng này lại là tầng nhiều \"băng đảng\" biết \"đánh đấu đoàn\". Từ mẫu mẫu đầu tiên thu thập năm 1862 bởi Robert Swinhoe, đến hiện nay thích ứng ăn thịt cáo trong thành thị, họ chiếm 97% lãng chạn bảo vệ bằng cách cạnh tranh. Đây là câu chuyện về sinh tồn, sức mạnh gia đình, chiến tranh bảo vệ gen và trí tuệ cùng sinh sống với con người trên bờ biển Đài Loan.",
-    "city": "台北"
+    "desc": "Vào dịp Tết Nguyên Đán năm 2023, đội ngũ Tìm Cây đã thực hiện chuyến ngược dòng suối kéo dài bảy ngày. Tại một thung lũng sâu gần như không dấu chân người ở thượng nguồn sông Đại An Khê, họ đã thả thước dây từ ngọn của một cây Thần mộc Đài Loan xuống — đạt tới 84,1 mét, trở thành cây cao nhất Đông Á. Con số này cao hơn 4,6 mét so với dự đoán của công nghệ LiDAR. Trên một hòn đảo vốn thường xuyên chịu bão lũ và sạt lở, lẽ ra không thể duy trì được sự sống ở độ cao như vậy; nhưng chính nhờ sinh trưởng tại thung lũng nơi con người không thể tiếp cận, nó mới tránh được nạn khai thác gỗ quy mô lớn và trụ vững suốt 700 năm qua. Chính sự \"không thể chạm tới\" ấy vừa giúp nó tồn tại, vừa khiến chúng ta phải dùng tia laser quét qua toàn bộ hòn đảo mới có thể lần đầu tiên nhìn thấy nó trong năm nay.",
+    "city": "苗栗"
   },
   {
     "title": "Lưu Minh Truyền: Thắp sáng ngọn đèn đầu tiên của Đài Loan, tiên phong hiện đại hoá trong quyền lực và tranh cãi",

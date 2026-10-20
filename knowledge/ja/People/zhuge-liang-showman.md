@@ -1,19 +1,19 @@
 ---
-title: '猪哥亮'
-description: '台湾のショー文化を代表する国民的コメディアン、2017年に逝去'
+title: '猪哥亮（チュー・ゴーリャン）'
+description: '本名は謝新達。1946年に高雄市左営区で生まれました。父は鍛冶屋、母は野菜売りでした。小学校卒業後に退学し、15歳で歌仔戯（台湾の伝統演劇）の師匠に弟子入りしました。1960年代には夜市で歌手の真似をすることから頭角を現し、1970年代に台湾の経済が急成長して夜間の娯楽需要が増えると、ショービジネス文化が誕生しました。彼は伝統的な戯曲や民俗芸能の語り、そして流行の要素を融合させた「猪式ユーモア」を生み出し、台湾語による即興の韻踏みを通じて、庶民の言葉をテレビのバラエティ番組へと押し上げました。2017年5月、大腸がんのため逝去しました。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['猪哥亮', 'ショービジネス', 'コメディ', 'バラエティ', '台湾語']
 subcategory: '數位與媒體'
-tags: ['猪哥亮', 'ショー', 'コメディ', 'バラエティ', '台湾語']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-10-15T23:33:54.497985+00:00'
 ---
 
 # 猪哥亮：台湾ショー文化の国民的スーパースター
@@ -130,12 +130,12 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 参考文献
 
-[^1]: Wikipedia「猪哥亮」項目、https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE、出生地：高雄市左営区
+[^1]: Wikipedia「猪哥亮」の項目、https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE、出生地：高雄市左営区
 
-[^2]: 自由時報〈猪哥亮告別式 万人送行〉、https://news.ltn.com.tw/、2017年5月21日
+[^2]: 自由時報〈猪哥亮の告別式、1万人が見送り〉、https://news.ltn.com.tw/、2017年5月21日
 
 [^3]: 台湾テレビデータベース、https://tv.nccu.edu.tw/、『猪哥会社』番組記録
 
-[^4]: 中央社〈大尾鱸鰻興行収入3億超〉、https://www.cna.com.tw/、2013年2月興行収入報道
+[^4]: 中央社〈『大尾鱸鰻』の興行収入が3億元を超える〉、https://www.cna.com.tw/、2013年2月の興行収入報道
 
-[^5]: 聯合新聞網〈猪哥亮5月15日逝去 享年70歳〉、https://udn.com/、2017年5月15日
+[^5]: 聯合新聞網〈猪哥亮が5月15日に病死、享年70歳〉、https://udn.com/、2017年5月15日

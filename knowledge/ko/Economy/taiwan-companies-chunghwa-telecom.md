@@ -1,6 +1,6 @@
 ---
-title: '대만 기업: 중화텔레콤'
-description: '대만 최대 통신사업자, 국영 독점에서 디지털 전환의 선도자로'
+title: '대만 기업: 중화전신 (Chunghwa Telecom)'
+description: '교통부 통신총국에서 개편되어 1996년 설립되었으며, 2005년 민영화가 완료된 대만 최대의 통신 사업자입니다. 2024년 매출액은 NT$2,300.3억이며 시가총액은 약 1조 대만 달러에 달하고 직원은 약 3만 명입니다. 유선전화 시장 점유율 90% 이상, 모바일 사용자 약 1,200만 명으로 대만 내 1위를 차지하고 있습니다. 통신 업계의 선두주자로서 최근 클라우드, IDC(데이터 센터), 정보 보안이라는 세 가지 신흥 사업으로 적극 전환하여 매년 50% 이상의 성장세를 보이고 있으며, 대만의 디지털 회복력을 뒷받침하는 핵심 기반 시설입니다.'
 date: 2026-03-20
 category: 'Economy'
 tags: ['경제', '기업', '통신업', '디지털 전환', '국영기업 민영화']
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4a4d66620'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
-translatedAt: '2026-08-04T04:57:05.758634+00:00'
+translatedAt: '2026-10-15T20:57:40.238351+00:00'
 ---
 
 > **30초 개요**

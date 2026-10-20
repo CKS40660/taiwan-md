@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-07T18:50:37.961544+00:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:31:10.018362+00:00'
 ---
 
 > **Résumé en 30 secondes :**
@@ -36,25 +36,26 @@ En 2018, lors d'une interview à l'âge de 19 ans, Zun n'a pas présenté ses un
 
 Ces deux phrases, même après plusieurs années, sont très représentatives de Zun : d'un côté, minimiser ses accomplissements, et de l'autre, admettre honnêtement que plus la caméra est large, plus l'espace de liberté devient restreint. Des sessions de jeux dans sa chambre de seconde aux deux chaînes à un million d'abonnés, en passant par sa nouvelle maison et sa compagne, les archives publiques de quatorze années permettent au public de voir une chaîne grandir, et son créateur mûrir.
 
-## Un élève de seconde transforme sa chambre en studio
+## Un élève de deuxième année de collège transforme sa chambre en studio
 
-Les rapports de 2018 indiquent que Zun a commencé à filmer dès la classe de seconde, initialement pour du _gameplay_. Par la suite, sentant que ce format s'essoufflant, et influencé par les YouTubeurs japonais, il s'est tourné vers l'expérimental, le déballage et les légendes urbaines. En août de cette année-là, sa chaîne principale « Ren sheng fei zhai x Zun » (人生肥宅x尊) comptait déjà 1,2 million d'abonnés ; à 19 ans, il était présenté comme le plus jeune YouTubeur taïwanais à avoir atteint le million.[^1]
+Les rapports de 2018 indiquent que Zun a commencé à filmer dès sa deuxième année de collège (_guó'èr_), s'essayant d'abord au _gaming_ (streaming de jeux vidéo). Sentant plus tard que ce format ne pouvait plus perdurer, et influencé par les YouTubeurs japonais, il s'est tourné vers des thématiques expérimentales, l'unboxing et les légendes urbaines. En août de cette année-là, sa chaîne principale « 人生肥宅x尊 » comptait déjà 1,2 million d'abonnés ; à 19 ans, il était alors considéré comme le plus jeune YouTubeur à un million d'abonnés de Taïwan. [^1]
 
-Ce point de départ est crucial car, par la suite, Zun a souvent ressorti ses anciennes vidéos pour s'en moquer, utilisant sa maladresse et ses imitations passées comme ressort comique.[^2] Sa jeunesse n'a pas été formatée en un CV impeccable, mais se retrouve par fragments — archives anciennes et rétrospectives — réinjectée dans ses nouvelles vidéos. Les archives de quatorlie années offrent ainsi un point d'ancrage visible de ses débuts.
+Ce point de départ est crucial car, par la suite, Zun n'hésitera pas à ressortir publiquement ses premières vidéos pour rire de ses propres imitations et de son manque de maturité technique. [^2] Sa jeunesse ne s'est pas transformée en un CV impeccable ; elle se manifeste plutôt par des « dossiers noirs » (_dark history_), des images d'archives et des rétrospectives qui reviennent sans cesse dans ses nouvelles vidéos. Ainsi, les archives couvrant quatorze années calendaires disposent d'un point de départ visible dès ses débuts.
 
-![Zun tenant une image d'une ancienne vidéo dans la miniature d'une vidéo rétrospective officielle](/article-images/people/zun-old-video-review-2017.webp)
+![Zun tenant une image de ses anciennes vidéos dans la miniature d'une vidéo officielle de rétrospective de son « dark history »](/article-images/people/zun-old-video-review-2017.webp)
 
-Lorsque lui-même rediffuse ses premières vidéos, leur usage change. Lors du premier téléchargement, elles visaient à attirer l'audience. Des années plus tard, elles deviennent le support de son propre commentaire sur son passé. Le spectateur est témoin de deux époques : le jeune garçon peu expérimenté à l'écran, et le créateur hors champ qui sait déjà quels moments sont embarrassants ou quelles imitations sont trop flagrantes. Cette introspection est plus humaine qu'une simple chronologie, car le changement est ancré dans le ton et les réactions.
+Lorsque Zun rediffuse lui-même ses premières vidéos, leur fonction change. Lors de leur premier téléchargement, elles étaient des œuvres destinées à attirer un public. Des années plus tard, elles deviennent le support sur lequel l'actuel Zun commente son propre passé. Le spectateur est alors témoin de deux époques simultanées : le jeune adolescent encore maladroit à l'écran, et le créateur hors champ qui sait déjà quels moments sont gênants ou quelles imitations sont trop flagrantes. Cette introspection possède plus de chaleur qu'une simple chronologie de jalons, car le changement est directement perceptible dans son ton et ses réactions.
 
-L'interview de 2018 est elle-même une tranche de vie. Elle confirme son passage du jeu à l'expérimental dès la seconde, et note ses 1,2 million d'abonnés à 19 ans, mais elle ne peut reconstituer l'intégralité de son parcours plus précoce. Une fois les anciennes vidéos privées ou éparpillées, ses rétrospectives deviennent les rares annotations disponibles. Cet article conserve cette incomplétude : nous savons qu'il a commencé tôt et nous voyons qu'il se moque de sa maladresse, sans pour autant combler les vides sur sa toute première vidéo, son matériel ou le soutien familial.
+L'interview de 2018 constitue en soi une tranche de vie. Elle confirme que Zun filme depuis la deuxième année de collège et qu'il est passé du jeu vidéo à l'expérimentation ; elle note également ses 19 ans et ses 1,2 million d'abonnés, mais elle ne peut combler les lacunes de son parcours pour les années antérieures. Une fois les anciennes vidéos privées ou éparpillées, les vidéos de rétrospective deviennent les rares annotations personnelles encore visibles. Cet article préserve cette incomplétude : nous savons qu'il a commencé très tôt et nous voyons comment il revient sur ses débuts avec dérision, mais nous ne cherchons pas à combler artificiellement l'absence de sa toute première vidéo, de son équipement ou du soutien familial.
 
 ```tw-stat
-Classe de seconde | Début des uploads de gameplay | Vers 201ass
-19 ans | Plus jeune YouTubeur à 1M d'abonnés à l'époque | Reportage de 2018
-2 chaînes | Principale et secondaire dépassant le million | Fin 2024
+2e année de collège | Début du streaming de jeux | Vers 2012
+19 ans | Le plus jeune YouTubeur à un million d'abonnés de Taïwan | Rapports de 2018
+2 chaînes | Chaîne principale et secondaire dépassant le million | Fin 2024
+Source : Interviews médiatiques de 2018 (début en 2e année de collège, 1,2 million d'abonnés à 19 ans) et rapports ultérieurs sur les statistiques des chaînes[^1][^2]
 ```
 
-📝 Note du curateur : Zun admet lui-même que « commencer tôt » a apporté un avantage de plateforme. Pour le lecteur, ce début précoce ajoute une dimension supplémentaire : chaque rétrospective permet de retrouver les images laissées par l'enfant de seconde.
+📝 Note du conservateur : Zun admet lui-même que commencer « tôt » a généré un avantage sur la plateforme. Pour le lecteur, ce début précoce revêt une dimension supplémentaire : chaque rétrospective permet de retrouver les images d'époque laissées par l'élève de deuxième année de collège.
 
 ## Le million d'abonnés : échanger la liberté contre un fardeau
 
@@ -72,28 +73,29 @@ Le fait pour un créateur de doubler des images fournies par une marque n'équiv
 
 Cet événement ne peut se résumer à la « chute de l'image de pureté ». Il démontre concr'ètement que le jeune homme qui, en 2018, disait vivre des vues et peu de partenariats, est capable de commettre des erreurs commerciales une fois sa chaîne devenue un travail à long terme. La réponse de Zun n'a pas effacé l'erreur, mais elle a au moins placé la responsabilité sur lui-même plutôt que de la rejeter uniquement sur le fournisseur.
 
-## Après le crime de son frère, Zun définit sa position
+## Après le crime de son frère, Zun répond sur sa propre position
 
-L'épreuve la plus difficile est survenue dès 2021. Le frère de Zun, Chu Yu-chen (également connu sous le nom de YouTubeur Xiaoyu), a été poursuivi pour la production et la vente de vidéos pornographiques utilisant des _deepfakes_. L'affaire comptait 119 victimes, avec un profit criminel dépassant les 10 millions de dollars taïwanais. En 2024, la Cour suprême a confirmé le verdict de seconde instance, prévoyant une peine de 5 ans de prison ferme (partie non convertible en amende) et 1 an et 8 mois dont la peine peut être convertie en amende.[^4]
+Une étape plus difficile est survenue dès 2021. Le frère de Zun, Chu Yu-chen, également connu sous le nom du YouTubeur Xiaoyu, a fait l'objet d'une enquête pour avoir produit et vendu des vidéos pornographiques utilisant des _deepfakes_. L'affaire a impliqué un total de 119 victimes, pour un profit criminel dépassant les NT$10 millions. En 2024, la Cour suprême a confirmé le jugement de deuxième instance, stipulant que la partie ne pouvant être convertie en amende devait faire l'objet d'une peine de prison de 5 ans, complétée par une peine de 1 an et 8 mois convertible en amende. [^4]
 
-Il ne s'agit pas d'une simple « polémique d'influenceur ». Le verdict a établi que Xiaoyu et son assistant avaient synthétisé les traits de visages de personnalités publiques sur des contenus pornographiques pour un accès payant. La cour de seconde instance a souligné qu'une fois les images diffusées sur Internet, il est difficile de les effacer totalement, et que la dignité, la réputation et le préjudice moral des victimes sont difficiles à réparer. Sur les 119 personnes, 83 ont porté plainte pour atteinte à la réputation, tandis que 36 n'ont pas déposé de plainte.[^4] Ces chiffres sont présentés ici car aucun membre de la famille ne pourra jamais remplacer les victimes.
+Il ne s'agit pas d'une simple « polémique d'influenceur » abstraite. Le jugement a établi qu'Xiaoyu et son assistant avaient synthétisé les traits du visage de personnalités publiques dans des vidéos pornographiques pour proposer un accès payant. La cour d'appel a souligné qu'une fois diffusées, les images sur Internet sont difficiles à éliminer totalement, et que la dignité, la réputation et le préjudice moral des victimes sont difficilement réparables. Sur les 119 personnes, 83 ont porté plainte pour atteinte à la réputation, tandis que 36 autres n'ont pas déposé de plainte. [^4] Si ces chiffres sont mis en avant, c'est parce qu'aucun membre de la famille ne pourra, par la suite, se substituer à la place des victimes.
 
-Après l'exposition de l'affaire, Zun a déclaré via ses _stories_ Instagram que Xiaoyu n'avait jamais mentionné ses activités à sa famille. Il a présenté ses excuses aux victimes et a affirmé qu'il ne rompra pas les liens fraternels. Sa dernière phrase était : « Trop de choses se sont produites d'un coup, je suis vraiment épuisé. »[^5]
+Après l'exposition de l'affaire, Zun a déclaré dans une story Instagram que Xiaoyu n'avait jamais mentionné la nature de ses activités à sa famille. Il a présenté ses excuses aux victimes et a précisé qu'il ne romprait pas les liens fraternels. Sa dernière phrase était : « Trop de choses sont arrivées d'un coup, je suis vraiment épuisé. » [^5]
 
-Dans cette même réponse publique, il a précisé que son frère devait assumer ses actes et qu'il n'y avait aucune raison de le protéger, laissant la suite à la justice.[^5] Cette nuance est plus précise que de parler de « rupture » ou de « maintien » du lien. Zun n'a pas le pouvoir de décider de la peine de son frère, et une simple déclaration ne peut effacer un lien de parenté. Ce qu'il a pu faire, c'est admettre son ignorance préalable, s'excuser auprès des victimes et laisser la responsabilité criminelle aux acteurs et à la justice.
+Dans cette même réponse publique, il a affirmé que si son frère avait commis une erreur, celui-ci devait en assumer seul la responsabilité, sans qu'il n'y ait lieu de le protéger, laissant la suite au verdict de la justice. [^5] Cette nuance exprime mieux ses limites que les termes de « rupture » ou de « non-rupture ». Zun n'a pas le pouvoir de décider de la peine pénale de son frère, et il est impossible d'effacer un lien de parenté par une simple déclaration. Tout ce qu'il peut faire est de reconnaître qu'il n'était pas au courant auparavant, de présenter ses excuses aux victimes, puis de renvoyer la responsabilité criminelle à l'auteur des faits et à la procédure judiciaire.
 
-Cette réponse, initialement publiée en _story_ Instagram, disparaît normalement après vingt-quatre heures. Si le contenu est encore traçable aujourd'hui, c'est parce que les médias ont préservé les captures d'écran et le texte ce jour-là. Cela révèle aussi la fragilité des « archives publiques » : une vidéo YouTube peut rester en ligne longtemps, mais les _stories_, commentaires et chiffres de plateforme peuvent s'effacer ou fluctuer. Par conséquent, cet article ne cite que les mots réellement préservés par les médias, sans transformer les résumés ultérieurs en une confession embellie.
+Cette réponse était initialement publiée en story Instagram, un format qui disparaît généralement après vingt-quatre heures. Si le contenu est encore traçable aujourd'hui, c'est parce que les médias de l'époque ont conservé des captures d'écran et le texte. Cela révèle également la fragilité des « archives publiques » : une vidéo YouTube peut rester en ligne durablement, tandis que les stories, les commentaires et les statistiques des plateformes peuvent disparaître ou changer. Par conséquent, cet article ne cite que les mots précisément conservés par les médias ce jour-là, sans retravailler les résumés circulant ultérieurement pour en faire une confession plus esthétique.
 
-La responsabilité criminelle appartient à Xiaoyu ; Zun n'est pas l'auteur de l'acte. Choisir de ne pas nier le lien fraternel ne signifie pas défendre le crime. La force de ses propos réside dans le fait qu'ils n'offrent pas de réponse propre ou plaisante : on peut condamner les actes d'un proche tout en admettant que le sang ne s'efface pas par une déclaration.
+La responsabilité criminelle appartient à Xiaoyu ; Zun n'est pas l'auteur de l'affaire. Le fait que Zun choisisse de ne pas nier leur lien fraternel ne signifie pas qu'il défend le crime. Si ses mots de l'époque sont restés marquants, c'est précisément parce qu'ils n'offraient pas de réponse propre ou plaisante : on peut condamner les actes d'un membre de sa famille tout en admettant que le lien du sang ne s'efface pas par une déclaration.
 
-Dans la section précédente, Zun devait répondre de ses décisions commerciales. Ici, il répond de sa position de membre d'une famille, sans pouvoir assumer la peine criminelle à la place de son frère. Les archives publiques arrivent ici à un stade qui dépasse le simple espace d'expérimentation de l'adolescence. Alors que sa compagne et son domicile réapparaissent plus tard, la responsabilité et le quotidien coexistent dans cette même vie adulte.
+Dans le paragraphe précédent, Zun devait assumer son jugement concernant ses partenariats commerciaux. Dans celui-ci, il répond sur la position de la famille, sans pouvoir assumer la responsabilité pénale à la place de son frère. Les archives publiques en arrivent là : elles quittent l'espace pur et simple des jeux d'adolescent. Plus tard, avec l'apparition de sa compagne et de son nouveau domicile, la responsabilité et le quotidien coexistent au sein de cette même vie d'adulte.
 
 ```tw-timeline
-2018 | Chaîne principale à 1M d'abonnés | 19 ans, présenté comme le plus jeune de Taïwan
-2021 | Affaire du frère révélée | Zun s'excuse auprès des victimes, affirme ne pas rompre le lien familial
-202rag | Erreur partenariat Pocket Troops | Avoue une acceptation négligente et un manque de contrôle
-2024 | Chaîne secondaire à 1M d'abonnés | Deux lignes de contenu distinctes dépassent le million
-2025 | La caméra entre dans la nouvelle maison | La chaîne passe de l'expérimentation adolescente au quotidien adulte
+2018 | La chaîne principale dépasse le million | À 19 ans, présenté par les médias comme le plus jeune de Taïwan à l'époque
+2021 | Exposition de l'affaire du frère | Zun présente ses excuses aux victimes et affirme ne pas rompre les liens du sang
+2023 | Erreur de partenariat Pocket Troops | Reconnaissance d'une acceptation négligente et d'un défaut de vérification
+2024 | La chaîne secondaire dépasse le million | Les deux lignes de contenu, aux tons différents, atteignent le million d'abonnés
+2025 | L'objectif se tourne vers la nouvelle maison | La chaîne passe des expérimentations de jeunesse au quotidien d'adulte
+Source : Rapports et jugements de justice cités dans cet article (jalon des abonnements 2018, affaire de 2021, controverse de partenariat 2023, million sur la chaîne secondaire en 2024) [^1][^3][^4][^5]
 ```
 
 ## La vie commence à travers différentes chaînes

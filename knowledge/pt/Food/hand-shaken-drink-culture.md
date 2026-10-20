@@ -1,16 +1,16 @@
 ---
-title: 'A cultura do chá balançado (hand-shaken) de Taiwan'
-description: 'Do chá com pérolas à bebidas premium, o ascenso e a expansão global da cultura do chá balançado de Taiwan'
+title: 'Cultura das bebidas agitadas à mão de Taiwan'
+description: 'Desde o nascimento do chá de leite com pérolas na década de 1980, as bebidas agitadas à mão tornaram-se o símbolo de vida mais representativo desta ilha: desde o 50 Lan nas esquinas, o Gong Cha nos centros comerciais, o tradicional Chun Shui Tang, até ao moderno Milkcsha, letreiros coloridos podem ser vistos em todo lugar. Através de bebidas de chá criativas que se expandem para o mercado global, regista a busca dos taiwaneses por qualidade de vida, a paixão pela inovação e memórias compartilhadas.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'gastronomia',
-    'chá balançado',
-    'chá com pérolas',
-    'bebidas',
-    'exportação cultural',
-    'internacionalização de marcas',
+    'Gastronomia',
+    'Bebidas agitadas à mão',
+    'Chá de leite com pérolas',
+    'Bebidas de chá',
+    'Exportação cultural',
+    'Internacionalização de marcas',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
@@ -18,16 +18,16 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Retrato clássico de chá com pérolas'
+imageAlt: 'Close-up de um clássico chá de leite com pérolas'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:57+08:00'
+translatedAt: '2026-10-15T19:33:48.463315+00:00'
 ---
 
 # A cultura do chá balançado de Taiwan

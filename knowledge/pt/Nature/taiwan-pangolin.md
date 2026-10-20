@@ -1,28 +1,28 @@
 ---
 title: 'Pangolim de Taiwan'
-description: 'O mamífero mais traficado do mundo encontrou um lar seguro em Taiwan'
+description: 'O mamífero mais traficado do mundo, a subespécie de pangolim de Taiwan encontrou um lar seguro na ilha: enquanto seus parentes em outras partes da Ásia enfrentam a extinção devido ao tráfico, Taiwan, por meio de leis rigorosas, manutenção de habitat e pesquisa científica, além da reprodução assistida, conseguiu estabilizar e até aumentar sua população. Este é um raro caso de sucesso de conservação que mostra ao mundo que a extinção de uma espécie não é inevitável.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '野生動物'
 tags:
   [
-    'Pangolim',
-    'Conservação',
-    'Espécies ameaçadas',
-    'Tráfico',
-    'Zoológico de Taipé',
-    'Ecologia',
+    'pangolim',
+    'conservação',
+    'espécie em perigo',
+    'tráfico',
+    'Zoológico de Taipei',
+    'ecologia',
   ]
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:bc4a8eee501f028c'
+sourceCommitSha: '890c5095e'
+sourceContentHash: 'sha256:acaac66b2f5101f5'
 sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-07-26T02:07:21+08:00'
+translatedAt: '2026-10-15T23:07:01.388874+00:00'
 ---
 
 # Pangolim de Taiwan
@@ -109,15 +109,15 @@ A história do pangolim de Taiwan, numa era de perda acelerada de biodiversidade
 
 ## Referências
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirma a decisão da CoP17 de 2016 de elevar ao Apêndice I, com entrada em vigor a 2 de janeiro de 2017.
+[^1]: [Decisão CITES CoP17 sobre Pangolins｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirma a decisão da CoP17 de 2016 de elevar o status para o Apêndice I, entrando em vigor oficialmente em 2 de janeiro de 2017.
 
-[^2]: [IUCN Red List: Chinese Pangolin](https://www.iucnredlist.org/species/12764/123589684) — Literatura sobre ecologia, hábitos e necessidades alimentares do pangolim-chinês (as estimativas de consumo de formigas variam entre estudos).
+[^2]: [Lista Vermelha da IUCN: Pangolim-chinês](https://www.iucnredlist.org/species/12764/123589684) — Literatura sobre os hábitos ecológicos e necessidades alimentares do pangolim-chinês (existem variações entre os estudos sobre a estimativa de consumo de formigas).
 
-[^3]: [Instituto de Conservação da Vida Selvagem da Universidade de Ciência e Tecnologia de Pingtung](https://www.npust.edu.tw/) — Contexto da pesquisa de reabilitação e soltura do pangolim por Sun Ching-min e sua equipe.
+[^3]: [Instituto de Conservação de Vida Selvagem da Universidade de Ciência e Tecnologia de Pingtung](https://www.npust.edu.tw/) — Contexto do estudo de reintrodução de pangolins realizado por Sun Jing-min e sua equipe de pesquisa.
 
-[^4]: [Rede de Biodiversidade de Taiwan](https://www.tbn.org.tw/) — Distribuição do pangolim de Taiwan e banco de dados de ciência cidadã.
+[^4]: [Rede de Biodiversidade de Taiwan](https://www.tbn.org.tw/) — Banco de dados sobre a distribuição de pangolins em Taiwan e relatórios de ciência cidadã.
 
-[^5]: [Pesquisa de Conservação do Zoológico Municipal de Taipé](https://www.zoo.gov.taipei/) — Técnicas de reprodução em cativeiro e resultados de conservação do pangolim.
+[^5]: [Pesquisa de Conservação do Zoológico de Taipei](https://www.zoo.gov.taipei/) — Técnicas de reprodução artificial e resultados de conservação de pangolins.
 
 ## Leitura complementar
 

@@ -21,10 +21,10 @@ readingTime: 13
 researchReport: '彎彎'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-09-17T06:43:41+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T02:14:49.089324+00:00'
 ---
 
 # Wanwan: Si Kepala Botak yang Memberi Wajah pada Generasi Pekerja Kantoran, dan Hu Jiawei yang "Menjadikannya Tokoh Sejarah"
@@ -116,25 +116,26 @@ Dan yang membawa jalur komersial ini ke era berikutnya adalah stiker LINE. Pada 
 
 ## Dari MSN ke WEBTOON: Ia Melintasi Setiap Generasi Platform
 
-Jika kita melihat dua puluh tahun Wanwan secara keseluruhan, kita menemukan sesuatu yang jarang dilakukan oleh seorang kreator: ia hampir berdiri di pintu masuk setiap platform visual Taiwan.
+Jika melihat dua puluh tahun perjalanan Wanwan secara menyeluruh, akan terlihat sesuatu yang jarang bisa dicapai oleh kreator lain: ia hampir telah berdiri di pintu masuk setiap platform gambar dan teks di Taiwan.
 
 ```tw-timeline
-2002 | Foto Profil MSN | Di era tanpa stiker, sosok botak mengekspresikan diri bagi pekerja kantoran
-2004 | Rekor Situs Anonim | Secara kebetulan menjadi pionir visual saat "mencoba menggunakan" blog untuk mengikuti Jiu Ba Dao
-2013 | Stiker LINE dan cherng pada hari yang sama | Beralih dari era blog ke era lisensi berbayar perangkat lunak komunikasi ponsel
-2020 | Karakter Pensiun dengan Lembut | "Wanwan yang dulu sudah mati," membiarkan karakter tumbuh bersama dirinya
+2002 | Foto Profil MSN | Di era sebelum adanya stiker, karakter berkepala botak ini mewakili perasaan para pekerja kantoran
+2004 | Rekor di Wretch | "Mencoba" blog demi mengejar Jiu Ba Dao, secara tak terduga menjadi pelopor konten gambar dan teks
+2013 | Stiker LINE dan cherng di hari yang sama | Melangkah dari era blog menuju era lisensi berbayar aplikasi pesan seluler
+2020 | Karakter pensiun dengan lembut | "Wanwan yang dulu sudah mati", membiarkan karakternya tumbuh dewasa bersama dirinya sendiri
+Sumber: Kutipan dari laporan blog, penerbitan, dan lisensi platform dalam artikel ini (pencapaian 100 juta tampilan, magnet minimarket, gelombang pertama stiker LINE) [^6][^7][^10][^15]
 ```
 
-Awalnya adalah foto profil MSN (sekitar tahun 2002), kemudian masa kejayaan blog di Situs Anonim dan Pigpaibang (mulai tahun 2004), lalu kebangkitan halaman penggemar Facebook, era stiker berbayar LINE, hingga akhirnya WEBTOON dan Instagram yang digulir secara vertikal dan didorong oleh algoritma. Platform LINE WEBTOON menyebutnya "senior besar di dunia visual"[^16]. Pada tahun 2014, majalah _Commercial Weekly_ menerbitkan 〈Wanwan Sudah Mati? Tidak Tahu Berarti Ketinggalan! 10 Ilustrator Internet Paling Populer Terbaru〉[^17], dan judul ini menggunakan pertanyaan "Wanwan sudah mati?" untuk memperkenalkan bintang-bintang baru seperti Duncan, Bai Bai Jiu Jiu, dan cherng. Dengan kata lain, ketika media ingin memperkenalkan siapa "generasi baru," mereka harus mengambil Wanwan sebagai titik nol koordinat. Dia adalah yang "sebelumnya."
+Awalnya adalah foto profil MSN (sekitar tahun 2002), diikuti oleh masa kejayaan blog di Wretch dan Pixnet (mulai tahun 2004), kemudian kebangkitan Halaman Penggemar Facebook, era berbayar stiker LINE, hingga akhirnya mencapai WEBTOON dan Instagram yang berbasis gulir vertikal dan digerakkan oleh algoritma. Platform LINE WEBTOON menyebutnya sebagai "senior besar di dunia gambar dan teks" [^16]. Pada tahun 2014, _Commercial Weekly_ membuat sebuah artikel berjudul 〈Wanwan Bāibāi? Jika Tidak Tahu, Anda Akan Ketinggalan! 10 Ilustrator Internet Terbaru yang Sedang Viral〉[^17]. Judul ini menggunakan "Wanwan Bāibāi?" sebagai pertanyaan untuk memperkenalkan pendatang baru seperti Duncan, Bāibāi Jiūjiū, cherng, dan lainnya. Dengan kata lain, ketika media ingin memperkenalkan siapa "generasi baru", mereka harus menjadikan Wanwan sebagai titik koordinatnya. Dialah sosok "sebelumnya" itu.
 
 ![Stiker LINE Wanwan "Saya Cinta Pekerjaan Saya"](/article-images/people/wanwan-line-sticker.webp)
-_Dari foto profil MSN ke stiker LINE, sosok botak berganti platform, tetapi dialognya tetap sarkasme yang sama: "Saya cinta pekerjaan saya."[^24]. — Penggunaan wajar: Karya Wanwan (Stiker LINE)_
+_Dari foto profil MSN hingga stiker LINE, meskipun karakter berkepala botak ini berganti platform, kalimat sarkasnya tetap sama: "Saya cinta pekerjaan saya" [^24]. — Fair use: Karya Wanwan (stiker LINE)_
 
-Mengenai perubahan platform selama dua puluh tahun ini, Wanwan memberikan perumpamaan terbaik yang pernah ia berikan. Ia membandingkan era blog dan era media sosial: "Dulu blog seperti perpustakaan; Anda membangunnya, mengatur koleksi dan karya Anda, dan semua orang akan datang untuk melihat karya Anda. Sekarang sepertinya menyebarkan selebaran; Anda harus mengirimkannya satu per satu, dan kemudian Anda harus melihat apakah orang menerimanya."[^18] Ia melanjutkan: "Jadi saya pikir kreator saat ini meskipun memiliki banyak peluang, juga lebih sulit."[^18]
+Mengenai perubahan platform yang melintasi dua dekade ini, Wanwan sendiri pernah memberikan metafora terbaik yang pernah saya dengar. Ia membandingkan perbedaan antara era blog dan era media sosial: "Dulu blog itu seperti perpustakaan; setelah Anda membangunnya dan merapikan koleksi serta karya Anda, orang-orang akan berbondong-bondong datang untuk melihatnya. Sekarang rasanya seperti membagikan selebaran; Anda harus membagikannya satu per satu, lalu harus melihat apakah orang-orang mau menerimanya atau tidak." [^18] Ia melanjutkan: "Jadi menurut saya, meskipun kreator saat ini memiliki banyak peluang, tetapi juga terasa lebih berat." [^18]
 
-Perumpamaan ini akurat karena ia berdiri di kedua sisi. Ia membangun perpustakaan yang "datang sendiri"—itu adalah era emas blog, era ketika seratus juta tampilan datang dengan sendirinya. Dia juga hidup di era algoritma "harus mengirim selebaran satu per satu." Hanya seseorang yang melintasi dua era yang dapat memberikan perbandingan yang hangat ini.
+Metafora ini akurat karena ia telah berdiri di kedua sisi. Ia pernah membangun "perpustakaan" di mana orang akan datang sendiri setelah bangunan itu selesai—itu adalah masa keemasan blog, era di mana 100 juta tampilan datang dengan sendirinya. Ia juga bertahan hingga era algoritma di mana seseorang "harus membagikan selebaran satu per satu". Hanya seseorang yang melintasi dua era yang dapat memberikan perbandingan yang terasa begitu nyata dan manusiawi seperti ini.
 
-> 📝 **Catatan Kurator**: Narasi umum sering menempatkan Wanwan sebagai "air mata dari era situs anonim," seolah-olah ia adalah nama yang ditinggalkan oleh zaman. Tetapi kerangka ini membalikkan sebab dan akibat. Ia bukanlah seseorang yang terperangkap oleh platform tertentu dan tenggelam bersamanya; sebaliknya, ia adalah salah satu dari sedikit orang yang selalu berada di pintu masuk setiap pergantian dinasti platform—MSN, Anonim, LINE, WEBTOON, tidak ada yang absen. Yang benar-benar menjauhkan dia dari simbol "Wanwan" secara perlahan adalah ketika dirinya berubah tahap: dari pekerja kantoran berusia dua puluhan menjadi seorang ibu. Platform bisa usang, tetapi keputusan untuk membiarkan karakter pensiun adalah tindakan sukarela manusia.
+> 📝 **Catatan Kurator**: Pandangan umum sering kali menggolongkan Wanwan ke dalam "air mata era Wretch", seolah-olah ia adalah nama yang telah ditinggalkan oleh zaman dan tertinggal di masa lalu. Namun, kerangka berpikir ini membalikkan sebab-akibatnya. Ia bukanlah orang yang terjebak oleh suatu platform dan tenggelam bersamanya; sebaliknya, ia adalah segelintir orang yang tetap berdiri di pintu masuk setiap kali platform berganti generasi—MSN, Wretch, LINE, WEBTOON, tidak ada satu pun yang terlewatkan. Hal yang sebenarnya membuat dirinya perlahan menjauh dari simbol "Wanwan" adalah karena ia sendiri telah memasuki fase kehidupan yang baru: dari seorang pekerja kantoran berusia dua puluhan, menjadi seorang ibu. Platform bisa menjadi usang, tetapi keputusan untuk membiarkan karakter tersebut pensiun adalah keputusan aktif dari sang manusia itu sendiri.
 
 ## Karakter Tidak Akan Menjadi Tua, Sang Seniman yang Menggambarnya Akan Tumbuh
 

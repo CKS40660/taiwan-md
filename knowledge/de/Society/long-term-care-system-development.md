@@ -1,15 +1,15 @@
 ---
-title: 'Die Entwicklung des Pflege- und Betreuungssystems in Taiwan'
-description: 'Das weltweit fortschrittlichste Pflegesystem weist gleichzeitig ein größtes unsichtbares Versorgungssystem auf. Ein Bericht über systemische Widersprüche zwischen staatlicher Leistung und privater Fremdbetreuung.'
+title: 'Entwicklung des langfristigen Pflegesystems in Taiwan'
+description: 'Taiwan hat durch systemische Gestaltung eines der fortschrittlichsten Langzeitpflegesysteme Asiens geschaffen, wobei der Staat jährlich enorme Budgets für die breite Bevölkerung bereitstellt. Gleichzeitig stützen Hunderttausende ausländische Haushaltshilfen im Stillen ein noch größeres, unsichtbares Pflegenetzwerk in den Privathaushalten. Diese zwei parallelen Systeme interagieren kaum miteinander und weben eine tiefgründige Geschichte voller Widersprüche zwischen Systemdesign, gesellschaftlichen Werten und realen Kompromissen.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
     'Langzeitpflege',
-    'Überalterung',
-    'ausländisches Pflegepersonal',
-    'Langzeitpflege 2.0',
-    'Systemwiderspruch',
+    'Alternde Gesellschaft',
+    'Ausländische Pflegekräfte',
+    'Long-term Care 2.0',
+    'Systemkonflikte',
   ]
 subcategory: '社會福利'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:c735ef0db3cd23ac'
 sourceBodyHash: 'sha256:738376ef61832978'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-10-15T20:25:08.181878+00:00'
 ---
 
 # Die Entwicklung des Pflege- und Betreuungssystems in Taiwan

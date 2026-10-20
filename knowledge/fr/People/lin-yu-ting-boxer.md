@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 readingTime: 25
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'c0f587606'
-sourceContentHash: 'sha256:322fadf3d54cf027'
-sourceBodyHash: 'sha256:5a14ed890fa46c36'
-translatedAt: '2026-09-15T19:45:26+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:b9213e8245304093'
+sourceBodyHash: 'sha256:d67040679486fd02'
+translatedAt: '2026-10-15T03:50:12.753364+00:00'
 ---
 
 Le 11 août 2024 (heure de Taïwan), sur la terre battue de Roland Garros à Paris, lorsque les cloches du combat pour l'or féminin de 57 kg ont sonné, l'athlète taïwanaise Lin Yu-ting a remporté une victoire absolue par cinq à zéro contre la Polonaise Julia Szeremeta [^1][^2]. Comme après sa défaite aux Jeux Olympiques de Tokyo, elle a de nouveau porté haut son entraîneur Tseng Tzu-chiang, qui l'a accompagnée pendant quinze ans. Cette scène non seulement réalisait le souhait des deux maîtres et élèves depuis des années, mais permettait également à Taïwan d'obtenir sa première médaille d'or en boxe dans l'histoire olympique [^3][^5]. Cependant, le poids de cette médaille dépassait largement les limites physiques du métal lui-même — au cours du mois précédant son arrivée, Lin Yu-ting a été forcée de se tenir au centre des tempêtes de l'opinion mondiale, subissant une remise en question massive concernant son genre et un harcèlement transnational sur Internet [^5].
@@ -36,14 +36,15 @@ Le 11 août 2024 (heure de Taïwan), sur la terre battue de Roland Garros à Par
 
 En remontant le parcours de Lin Yu-ting, la boxe n'est pas née d'une rêverie romantique pour le sport, mais plutôt d'un instinct de défense. L'ombre de la violence familiale dans son enfance l'a fait ressentir tôt la cruauté et l'impuissance du réel. Elle a souvent témoigné lors d'interviews : « Quand j'étais petite, mon père battait ma mère, alors j'ai rejoint l'équipe de boxe en espérant pouvoir protéger ma mère avec ma propre force. » [^9][^10]. Les fragments des conflits familiaux sont devenus son anxiété durant sa jeunesse, et le club de boxe au sous-sol du collège d'Yingge à Taipei est devenu son refuge pour échapper à la réalité et forger sa volonté [^11].
 
-## La révolution de la boxe de base dans une salle précaire
+## Révolution de la boxe de base dans des conditions adverses
 
-L'environnement d'entraînement était extrêmement rudimentaire : sans équipements de protection de haut niveau ni équipe médicale, seulement des sacs de frappe grossiers, des murs délavés et la sueur jour après jour. C'est ici qu'elle a rencontré Tseng Tzu-chiang [^7][^8], l'entraîneur qui allait changer sa vie. Tseng Tzu-chiang a perçu dans les yeux de cette jeune fille maigre une obstination indomptable, et ils ont établi un lien étroit, à la fois paternel, maternel, maître et ami, menant une révolution de la boxe de base à Taïwan qui s'est étendue sur plus d'une décennie [^7][^8].
+L'environnement d'entraînement de l'époque était extrêmement rudimentaire, sans équipement de protection de haut niveau ni équipe médicale, seulement des sacs de frappe grossiers, des murs écaillés et la sueur quotidienne. C'est précisément ici qu'elle a rencontré l'entraîneur qui allait changer sa vie, Tseng Tzu-chiang[^7][^8]. Tseng Tzu-chiang a décelé dans les yeux de cette fille frêle une obstination à ne pas accepter la défaite ; tous deux ont dès lors tissé un lien étroit, à la fois filial et amical, de maître et d'élève, et ont engagé une révolution de la boxe de base à Taïwan qui a duré plus d'une décennie[^7][^8].
 
 ```tw-stat
-5 : 0 | Score du combat pour l'or de Paris | Victoire écrasante contre l'adversaire (victoires en quatre rounds)
-15 ans | Années passées avec le maître et la disciple | L'entraîneur Tseng Tzu-chiang a toujours été présent
-1er | Record historique | Première médaille d'or en boxe dans l'histoire olympique de Taïwan
+5：0 | Score de la finale pour l'or à Paris | Victoire écrasante sur l'adversaire (quatre victoires sur quatre)
+15 ans | Années de compagnonnage maître-élève | L'entraîneur Tseng Tzu-chiang présent tout au long
+1re | Record historique | Première médaille d'or olympique de boxe dans l'histoire de Taïwan
+Source : Reportages des JO de Paris et entretiens avec l'entraîneur Tseng Tzu-chiang et Lin Yu-ting elle-même (voir notes de la section précédente)[^1][^2][^7][^8][^9]
 ```
 
 ## « Nous aussi, nous voulons être nos propres magiciens » : La résonance philosophique du maître et de la disciple
@@ -74,15 +75,16 @@ Cependant, le parcours d'une athlète n'est jamais sans heurts. Aux Jeux Olympiq
 
 Face à la pression psychologique immense après la défaite de Tokyo, l'entraîneur Tseng Tzu-chiang a rapidement sollicité l'aide d'un psychologue du sport (comme Hong Zi-feng) [^6][^16]. Lin Yu-ting a appris la « méthode de transfert des points douloureux », transformant la colère de la défaite en soutien à ses coéquipiers et une reconstruction obsessionnelle des détails techniques [^40]. Cette trempe de résilience psychologique lui a permis de rester calme au milieu de la tempête mondiale des Jeux Olympiques de Paris.
 
-## La tempête injustifiée du Championnat du Monde de New Delhi et le piège systémique
+## La tempête infondée des Championnats du monde de New Delhi et les pièges du système
 
-Alors qu'elle ajustait son état d'esprit pour revenir au sommet mondial, un plus grand test est survenu discrètement lors du Championnat du Monde de New Delhi en 2023. À ce moment-là, elle a été disqualifiée de la médaille de bronze par l'International Boxing Association (IBA) sous prétexte d'un « indice biochimique anormal » sans avertissement [^3][^4][^17]. Cette décision manquait de fondement scientifique transparent et de voies de recours légitimes, semant les graines des controverses ultérieures dans le monde du sport international.
+Alors qu'elle ajustait son état d'esprit et retrouvait la première place mondiale, une épreuve plus grande encore survint discrètement lors des Championnats du monde 2023 de New Delhi. À cette occasion, elle se vit retirer sans préavis sa qualification pour la médaille de bronze par l'Association internationale de boxe (IBA) au motif d'un « indice biochimique anormal » non précisé[^3][^4][^17]. Cette décision, dépourvue de fondement scientifique transparent et de voies de recours régulières, a semé les graines des controverses ultérieures dans le monde sportif international.
 
 ```tw-timeline
-2021 | Défaite aux JO de Tokyo | Première apparition sur le podium interrompue au premier tour ; elle porte son entraîneur et promet un retour au sommet.
-2023 | Tempête genre au Championnat du Monde | Se voit retirer la médaille de bronze par l'IBA en raison d'une anomalie des tests biochimiques, subissant sa plus grande défaite systémique.
-2024 | Apogée aux JO de Paris | Résiste à la chasse aux sorcières médiatique transnationale et remporte l'or en quatre victoires par cinq à zéro, réalisant un grand parcours historique.
-2026 | Reconnaissance par World Boxing | Après un an et demi de recours contre les controverses sur le genre, l'organisation mondiale de boxe « World Boxing » la reconnaît officiellement pour participer, lui rendant sa réputation.
+2021 | Revers aux Jeux de Tokyo | Première apparition au plus haut niveau, élimination surprise dès le premier tour ; après la compétition, elle porta son entraîneur sur son dos et promit de revenir au sommet.
+2023 | Tempête de genre aux Championnats du monde | Dépossédée de sa médaille de bronze par l'IBA au motif d'un test biochimique anormal, elle subit le plus grand revers institutionnel de sa carrière sportive.
+2024 | Sacre aux Jeux de Paris | Résistant à la pression d'une chasse aux sorcières médiatique mondiale, elle remporta l'or en balayant ses quatre adversaires 5-0, réalisant le Grand Chelem historique.
+2026 | Reconnaissance par World Boxing | Après un an et demi de recours, la World Boxing reconnut officiellement son éligibilité, lui rendant son honneur.
+Source : rapports sur les Jeux de Tokyo, la controverse du retrait de la médaille de bronze par l'IBA et la reconnaissance par World Boxing en 2026 cités dans le présent article[^3][^4][^15][^17]
 ```
 
 ## Victime du combat pour le pouvoir dans le système sportif international et explication scientifique

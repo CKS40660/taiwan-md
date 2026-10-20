@@ -1,28 +1,28 @@
 ---
-title: 'Chen Shu-chu: A Taitung Vegetable Vendor Who Donated Tens of Millions from Fifty Years of Market Earnings'
-description: 'A Taitung vegetable vendor who donated tens of millions from fifty years of market earnings, yet said "I''m just a vegetable seller"'
+title: 'Chen Shu-chu: A Taitung vegetable vendor who donated tens of millions over fifty years of vegetable earnings, a charitable life'
+description: "Born in 1950, a vegetable vendor at Taitung Central Market. At age 13, her mother died in childbirth; she dropped out of school and began selling vegetables. For over fifty years since, she donated her vegetable earnings bit by bit to schools, orphanages, and hospitals, totaling tens of millions of New Taiwan dollars. In 2010, she was named one of Time magazine's 100 most influential people worldwide, with director Ang Lee personally writing the recommendation; she later received the Ramon Magsaysay Award. She says she is 'just a vegetable seller.'"
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'People',
-    'Philanthropy',
+    'Figures',
+    'Charity',
     'Taitung',
-    'Vegetable Vendor',
-    'TIME Magazine',
+    'Vegetable vendor',
+    'Time magazine',
     'Ramon Magsaysay Award',
-    'Educational Donations',
+    'Education donations',
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-10T18:19:02+08:00'
+translatedAt: '2026-10-15T19:03:22.264031+00:00'
 ---
 
 > **30-Second Overview:** Chen Shu-chu, born 1950, vegetable vendor at Taitung Central Market. At age 13 she dropped out of school to sell vegetables after her mother died in childbirth; over the next fifty-plus years she cumulatively donated tens of millions of dollars to schools, orphanages, and hospitals. In 2010 she appeared on TIME Magazine's list of the 100 Most Influential People in the World, with director Ang Lee writing her citation. When she went to New York to accept the award, she said: "I'm just a vegetable vendor." [^1]

@@ -1,19 +1,19 @@
 ---
 title: 'Nightlife and KTV Culture'
-description: "From Cashbox booths to late-night diners, the island's 24-hour nightlife never sleeps"
+description: "Private room-style KTV rose to prominence in the 1990s, with brands like Cashbox, Holiday KTV, and Star Cine spreading across the country. Offering over 100,000 songs and ranging from luxurious presidential suites to budget-friendly fun rooms, KTV became the top choice for public entertainment and social gatherings. However, tragic incidents—such as the 1992 Myth World KTV arson that killed 16 people and the 2020 Cashbox Linsen Store fire that killed 6—forced society to confront the safety of private room escapes. The interplay between fierce competition among industry giants and subsequent safety reforms defines the island's nightlife."
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['Lifestyle', 'Nightlife', 'KTV', 'Late-night Diner', 'Taiwan']
+tags: ['Lifestyle', 'Nightlife', 'KTV', 'Late-night Dining', 'Taiwan']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-19T11:59:01+08:00'
+translatedAt: '2026-10-15T20:36:08.290090+00:00'
 ---
 
 # Nightlife and KTV Culture

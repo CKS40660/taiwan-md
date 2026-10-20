@@ -1,15 +1,15 @@
 ---
-title: 'Tsai Ming-liang : Le poète du cinéma lent'
-description: "Lauréat de l'Or du Lion de Venise, cinéaste sino-malaisien, maître de l'esthétique du slow cinema"
+title: 'Tsai Ming-liang'
+description: "Né en 1947 en Malaisie (Sarawak) et arrivé à Taïwan en 1977 pour étudier le théâtre, ce réalisateur a affirmé son style personnel avec « Rebel de la Sexitude » en 1992. En 1994, son film « Vive l'amour ! » lui a valu le Lion d'or à la Mostra de Venise, faisant de lui le troisième réalisateur chinois, après Hou Hsiao-hsien et Zhang Yimou, à recevoir ce prix. À travers des plans-séquences extrêmement longs, peu de dialogues et un rythme lent, il explore la solitude et l'aliénation des citadins, développant une esthétique unique du « slow cinema » depuis « Vive l'amour ! » jusqu'à sa série « Walker »."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Réalisateur',
+    'réalisateur',
     'Tsai Ming-liang',
-    'Slow Cinema',
+    'slow cinema',
     'Festival de Venise',
-    'Sino-malaisien',
+    'Chinois de Malaisie',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '112856faf'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:9ed1f7923fa72bf2'
 sourceBodyHash: 'sha256:0c0888dfd516b33c'
-translatedAt: '2026-10-04T00:51:58+08:00'
+translatedAt: '2026-10-15T22:05:06.712510+00:00'
 ---
 
 # Tsai Ming-liang : Le poète du cinéma lent

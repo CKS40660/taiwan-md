@@ -1,28 +1,28 @@
 ---
-title: 'Taiwanese Enterprise: Cathay Financial Holdings'
-description: "Taiwan's largest financial holding group, a financial empire built by the Lin Yuan Group"
+title: 'Taiwanese Enterprise: Cathay Financial Holding'
+description: "Taiwan's largest financial holding company with total assets of NT$12 trillion. Its subsidiaries include Cathay Life, Cathay United Bank, and Cathay Property & Casualty. In November 2025, it recorded a monthly profit of NT$14.62 billion, securing the top profit spot for two consecutive months. As Taiwan's first private life insurance company and one of the earliest to establish a financial holding structure, this article explores how the Lin Yuan Group integrates insurance, banking, and investment into a seamless value chain."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economy',
     'Enterprise',
-    'Financial Industry',
-    'Financial Holding Company',
+    'Financial Services',
+    'Financial Holding',
     'Banking',
     'Insurance',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:4749f0faadb8e7bf'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:135918b4f99e7ae7'
 sourceBodyHash: 'sha256:ebc33c96c44483b0'
-translatedAt: '2026-05-15T13:52:05+08:00'
+translatedAt: '2026-10-15T20:32:46.610820+00:00'
 ---
 
 > **30-Second Overview**
@@ -167,12 +167,12 @@ From the life insurance company founded by brothers Tsai Wan-chun and Tsai Wan-l
 
 ## References
 
-[^1]: [Wikipedia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924-2004) was a co-founder of Cathay Life Insurance; Tsai Wan-chun (the eldest brother) and Tsai Wan-lin jointly founded it in 1962, while Tsai Wan-tsai, the fourth brother, separately founded the Fubon Group
+[^1]: [Wikipedia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924–2004) was a co-founder of Cathay Life Insurance; Tsai Wan-lin and his elder brother Tsai Wan-chun co-founded the company in 1962, while their fourth brother, Tsai Wan-cai, founded the Fubon Group.
 
-[^2]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings has total assets of NT$12 trillion (updated July 2025), making it Taiwan's largest financial holding company
+[^2]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings has total assets of NT$12 trillion (updated July 2025), making it the largest financial holding company in Taiwan.
 
-[^3]: [Cnyes, December 2025 — Profit Ranking of 13 Financial Holding Companies](https://www.cnyes.com/) — Cathay Financial Holdings posted monthly net income after tax of NT$14.62 billion in November 2025, taking the top profit spot for the second consecutive month
+[^3]: [鉅亨網 (Anue) December 2025 — Profit Rankings of 13 Financial Holding Companies](https://www.cnyes.com/) — Cathay Financial Holdings recorded a monthly after-tax net profit of NT$14.62 billion in November 2025, securing the top profit spot for two consecutive months.
 
-[^4]: [Cathay Financial Holdings ESG Report — Sustainable Finance Commitment](https://www.cathayholdings.com/) — In 2021, Cathay Life Insurance announced that it would no longer add new coal-related investments, becoming the first insurance company in Taiwan to make this commitment
+[^4]: [Cathay Financial Holdings ESG Report — Sustainable Finance Commitment](https://www.cathayholdings.com/) — In 2021, Cathay Life Insurance announced it would no longer make new investments related to coal-fired power, becoming the first insurance provider in Taiwan to make such a commitment.
 
-[^5]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings was established in 2001 and was the first financial holding company founded after Taiwan's Financial Holding Company Act was passed
+[^5]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings was established in 2001 and was the first financial holding company in Taiwan following the passage of the Financial Holding Company Act.

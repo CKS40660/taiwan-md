@@ -1,16 +1,16 @@
 ---
-title: 'Movimentos sociais e participação cidadã'
-description: 'Desde o movimento estudantil de julho-negro até a flor de maio, como Taiwan realiza a democracia e promove o progresso social por meio de movimentos sociais'
+title: 'Movimentos Sociais e Participação Cidadã'
+description: 'De movimentos pelo fim da lei marcial ao Movimento Wild Lily, passando pelo Movimento de Girassol e a legalização do casamento homoafetivo, a sociedade de Taiwan impulsiona a democratização de forma pacífica, racional e intergeracional.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Movimentos sociais',
-    'Participação cidadã',
+    'Movimentos Sociais',
+    'Participação Cidadã',
     'Democracia',
-    'Movimento estudantil de julho-negro',
-    'Movimento flor de maio',
-    'Reformas sociais',
+    'Movimento Wild Lily',
+    'Movimento de Girassol',
+    'Reforma Social',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
@@ -20,309 +20,308 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: '568d157c8'
+sourceCommitSha: '2ad8c8cc2'
 sourceContentHash: 'sha256:24458700fa1db004'
 sourceBodyHash: 'sha256:34f23befdc556790'
-translatedAt: '2026-10-02T05:15:36+08:00'
+translatedAt: '2026-10-15T12:42:59+08:00'
 ---
 
-# Movimentos sociais e participação cidadã
+# Movimentos Sociais e Participação Cidadã
 
-## Visão geral em 30 segundos
+## Visão Geral em 30 Segundos
 
-Taiwan é uma sociedade com grande atividade de movimentos sociais. Desde o movimento de despenalização (1980), o movimento estudantil de julho-negro (1990), o movimento flor de maio (2014) até a legalização do casamento entre pessoas do mesmo sexo (2019), os movimentos sociais sempre foram uma força-chave para a democratização e o progresso social de Taiwan. Os movimentos sociais de Taiwan são caracterizados por serem pacíficos, racionais, transmitidos entre gerações e abranger amplos temas, refletindo a maturidade e vitalidade da sociedade civil.
+Taiwan é uma sociedade com movimentos sociais ativos. Desde o movimento pelo fim da lei marcial na década de 1980, o Movimento Wild Lily (野百合學運) em 1990, o Movimento de Girassol (太陽花運動) em 2014, até a legalização do casamento homoafetivo em 2019, os movimentos sociais têm sido forças fundamentais para a democratização e o progresso social de Taiwan. Os movimentos em Taiwan caracterizam-se por serem pacíficos, racionais, intergeracionais e abrangentes, demonstrando a maturidade e a vitalidade da sociedade civil.
 
-Esses movimentos abrangem diferentes áreas como política, meio ambiente, trabalho, gênero, etc., aparecendo em diferentes formas em diferentes épocas, mas deixando marcas concretas no processo democrático de Taiwan.
+Esses movimentos atravessam diversas áreas, como política, meio ambiente, trabalho e gênero, surgindo sob diferentes formas em diferentes décadas, mas todos deixando marcas institucionais concretas no processo democrático de Taiwan.
 
-A maioria dos grandes movimentos sociais de Taiwan se desenrola de forma pacífica, mas há exceções: o movimento camponês de 520 em 1988 terminou com intensos confrontos entre a polícia e os manifestantes, resultando na prisão de mais de 130 pessoas[^7]。
+A maioria dos grandes movimentos sociais em Taiwan ocorre de forma pacífica, mas há exceções: o Movimento dos Agricultores de 20 de maio de 1988 terminou com intensos confrontos entre polícia e civis, resultando na prisão de mais de 130 pessoas[^7].
 
-**Movimentos-chave：** Movimento estudantil de julho-negro（1990）、Movimento flor de maio（2014）、Movimento pelos direitos de casamento、Movimento ambiental、Movimento trabalhista
+**Movimentos-chave:** Movimento Wild Lily (1990), Movimento de Girassol (2014), Movimento pelos Direitos de Casamento, Movimento Ambiental, Movimento Trabalhista.
 
 ## Por que é importante
 
-A experiência dos movimentos sociais de Taiwan demonstra diferentes formas de participação política da sociedade civil em uma sociedade democrática. Diferentemente dos países democráticos ocidentais já consolidados, os movimentos sociais de Taiwan desenvolveram-se gradualmente durante o processo de democratização — são ao mesmo tempo fruto da democratização e força motriz para aprofundá-la.
+A experiência dos movimentos sociais em Taiwan demonstra diferentes caminhos para a participação política dos cidadãos em uma sociedade democrática. Diferente das democracias maduras do Ocidente, os movimentos sociais em Taiwan desenvolveram-se gradualmente durante o próprio processo de democratização, sendo tanto um produto da democracia quanto o motor para o seu aprofundamento.
 
-Para a comunidade internacional, a experiência dos movimentos sociais de Taiwan oferece um caso concreto de "como realizar a transição democrática no contexto do Leste Asiático". Especialmente como promover reformas políticas mantendo a estabilidade social, e como a sociedade civil supervisiona o governo por meio da participação. Não há uma resposta pronta em livros didáticos; o próprio processo de exploração de Taiwan é o caso.
+Para a comunidade internacional, a experiência de Taiwan oferece um caso concreto de "como realizar a transição democrática no contexto do Leste Asiático". Especialmente sobre como promover reformas políticas mantendo a estabilidade social e como supervisionar o governo por meio da participação cidadã. Não há uma resposta pronta nos livros didáticos; o próprio processo de exploração de Taiwan é o caso de estudo.
 
-Em um contexto global de ameaças de desinformação e retrocesso democrático, a resiliência da sociedade civil de Taiwan também tem atraído a atenção de pesquisadores internacionais.
+Em meio à onda global de desinformação e retrocesso democrático, a resiliência da sociedade civil de Taiwan também tem atraído a atenção de pesquisadores internacionais.
 
-## Contexto histórico e fases de desenvolvimento
+## Contexto Histórico e Fases de Desenvolvimento
 
-### Movimentos de oposição durante o período autoritário（1949-1987）
+### Movimentos de Oposição no Período Autoritário (1949-1987)
 
-Durante o período de restrição (martírio), embora o espaço político fosse limitado em Taiwan, ainda ocorreram algumas atividades de protesto dispersas：
+Durante o período da lei marcial, embora o espaço político fosse restrito, ainda ocorriam protestos esporádicos:
 
-**Primeiros protestos：**
+**Resistência Inicial:**
 
-- **Incidente Zhongli（1977）：** Protesto popular motivado por fraudes eleitorais
-- **Incidente Beleza da Ilha（1979）：** Em 10 de dezembro de 1979, figuras não ligadas ao partido realizaram uma reunião política em Kaohsiung, que foi reprimida pela polícia e exército, resultando na prisão de muitos defensores da democracia
-- **Movimento estudantil pela democracia universitária：** Estudantes universitários lutando por autonomia e liberdade de expressão
+- **Incidente de Zhongli (1977):** Protestos populares causados por fraudes eleitorais.
+- **Incidente de Formosa (美麗島事件, 1979):** Em 10 de dezembro de 1979, figuras da oposição realizaram uma reunião política em Kaohsiung, que foi reprimida pelas forças militares e policiais, levando à prisão de um grande número de ativistas democráticos.
+- **Movimentos Democráticos Estudantis:** Estudantes universitários lutando por autonomia e liberdade de expressão.
 
-Esses movimentos acumularam experiências organizacionais e energia social para a posterior democratização.
+Esses movimentos acumularam experiência organizacional e energia social para a futura democratização.
 
-### Explosão dos movimentos sociais antes e depois da despenalização（1986-1990）
+### Explosão de Movimentos Sociais no Pós-Lei Marcial (1986-1990)
 
-Antes e depois da despenalização, a energia social reprimida foi liberada gradualmente, e movimentos de protesto em várias temáticas surgiram sucessivamente：
+Com o fim da lei marcial, a energia social reprimida explodiu sucessivamente, com movimentos surgindo em diversas pautas:
 
-**Movimento ambiental：**
+**Movimento Ambiental:**
 
-- **Movimento anti-DuPont（1986-1987）：** Moradores de Lukang, Changhua, protestavam contra a instalação da fábrica da empresa norte-americana DuPont; a empresa anunciou em março de 1987 o cancelamento do plano[^4]
-- **Movimento anti-nuclear：** Exigia a suspensão da construção da usina nuclear quatro
+- **Movimento Anti-DuPont (1986-1987):** Residentes de Lukang, em Changhua, opuseram-se à instalação de uma fábrica pela empresa americana DuPont; a DuPont anunciou o cancelamento do plano em março de 1987[^4].
+- **Movimento Antinuclear:** Exigência para interromper a construção da Usina Nuclear de Chaozhou (Nuke 4).
 
-**Movimento trabalhista：**
+**Movimento Trabalhista:**
 
-- **Greve dos ônibus de Taoyuan（1988）：** Em fevereiro, a greve do sindicato dos ônibus de Taoyuan desencadeou uma onda de organização sindical e greves em várias cidades[^6]
-- **Direitos dos trabalhadores：** Exigia direitos fundamentais de organização sindical e garantias de trabalho
+- **Greve da Taoyuan Bus (1988):** Em fevereiro, a greve do sindicato dos trabalhadores da Taoyuan Bus desencadeou uma onda de formação de sindicatos e greves entre trabalhadores de transporte em várias regiões[^6].
+- **Direitos Trabalhistas:** Luta pelo direito de organização e garantias laborais.
 
-**Movimento camponês：**
+**Movimento dos Agricultores:**
 
-- **Movimento camponês de 520（1988）：** Mais de 5.000 camponeses de várias regiões foram a Taiwan para protestar; mais de 130 pessoas foram presas[^7]
-- **Oposição à abertura de importações de produtos agrícolas dos EUA：** Os EUA exigiam a abertura das importações de laranjas, perus e outros produtos agrícolas[^7]
+- **Movimento dos Agricultores de 20 de maio (1988):** Mais de 5.000 agricultores de várias regiões marcharam para o norte em protesto, resultando na prisão de mais de 130 pessoas[^7].
+- **Oposição à abertura da importação de produtos agrícolas dos EUA:** Na época, os EUA exigiam a abertura para a importação de citrinos, perus e outros produtos[^7].
 
-## Casos importantes de movimentos sociais
+## Casos Importantes de Movimentos Sociais
 
-### Movimento estudantil de julho-negro（março de 1990）
+### Movimento Wild Lily (Março de 1990)
 
-**Contexto：** Eleições em massa no Congresso Nacional e reformas do sistema político
-**Escala：** Aproximadamente 5.000 a 6.000 estudantes universitários participaram（pico）
-**Local：** Praça do Memorial Nacional Zhongzheng（hoje Praça da Liberdade）
+**Contexto:** Grandes reformas no sistema político e eleições para o Legislativo.
+**Escala:** Aproximadamente 5.000 a 6.000 estudantes universitários participaram (no auge).
+**Local:** Praça do Memorial Hall de Chiang Kai-shek (hoje Praça da Liberdade).
 
-O movimento estudantil de julho-negro foi a maior ação de protesto estudantil desde a transferência do governo para Taiwan, tendo grande impacto na democratização política.[^1]
+O Movimento Wild Lily foi o maior protesto estudantil desde a transferência do governo para Taiwan, exercendo grande influência na democratização política.[^1]
 
-**Quatro demandas principais：**
+**As Quatro Reivindicações Principais:**
 
-1. Dissolução do Congresso Nacional
-2. Abolição das disposições provisórias
-3. Convocação de uma conferência nacional sobre a questão
-4. Cronograma de reformas democráticas do sistema político
+1. Dissolução da Assembleia Nacional.
+2. Revogação das disposições temporárias.
+3. Convocação de uma conferência nacional sobre os princípios do Estado.
+4. Um cronograma para a reforma democrática do sistema político.
 
-**Características do movimento：**
+**Características do Movimento:**
 
-- **Paz e racionalidade：** Ênfase na protesto não violento e manutenção da ordem no local
-- **Estratégia de mídia：** Boa utilização da mídia para disseminar as demandas
-- **Aliança interestadual：** Ação conjunta de estudantes universitários em todo o país
-- **Participação de intelectuais：** Professores e pesquisadores apoiaram publicamente
+- **Pacífico e Racional:** Ênfase na resistência não violenta e manutenção da ordem no local.
+- **Estratégia de Mídia:** Uso eficaz dos meios de comunicação para disseminar as reivindicações.
+- **Aliança Interuniversitária:** Ação conjunta de estudantes universitários de todo o país.
+- **Participação Intelectual:** Apoio público de professores e acadêmicos.
 
-**Significado histórico：**
-O movimento estudantil de julho-negro promoveu diretamente reformas no sistema político e acelerou o processo de democratização de Taiwan. Após o fim do movimento, o governo prometeu promover reformas, o Congresso Nacional realizou eleições em massa, e o sistema de eleição direta do presidente foi estabelecido sucessivamente.
+**Significado Histórico:**
+O Movimento Wild Lily impulsionou diretamente a reforma do sistema político, acelerando o processo de democratização de Taiwan. Após o movimento, o governo comprometeu-se com as reformas, o Legislativo passou por eleições em larga escala e instituições democráticas, como a eleição direta para presidente, foram estabelecidas sucessivamente.
 
-### Movimento flor de maio（março de 2014）
+### Movimento de Girassol (Março de 2014)
 
-**Contexto：** Oposição à opacidade na negociação do acordo de comércio de serviços
-**Escala：** Em 30 de março, a concentração na avenida principal teve estimativas da organização de cerca de 500.000 pessoas e da polícia de cerca de 116.000 pessoas[^2]
-**Local：** Salão do Legislativo, Gabinete Executivo, Praça da Liberdade
+**Contexto:** Oposição à falta de transparência no Acordo de Comércio de Serviços entre Taiwan e a China (CSSTA).
+**Escala:** No comício na Ketagalan Boulevard em 30 de março, os organizadores estimaram cerca de 500.000 pessoas, enquanto a polícia estimou cerca de 116.000[^2].
+**Local:** Plenário do Legislativo, Executivo e Praça da Liberdade.
 
-O movimento flor de maio refletiu a preocupação da nova geração com a qualidade da democracia e a identidade de Taiwan.
+O Movimento de Girassol demonstrou a preocupação das novas gerações com a qualidade da democracia e a identidade de Taiwan.
 
-**Demandas centrais：**
+**Reivindicações Centrais:**
 
-1. Rejeição do acordo de comércio de serviços
-2. Elaboração de uma lei de supervisão entre os dois lados do estreito
-3. Primeiro legislar, depois examinar
-4. Convocação de uma assembleia cidadã constitucional[^8]
+1. Retorno do Acordo de Comércio de Serviços.
+2. Elaboração de uma lei de supervisão para as relações entre os dois lados do estreito.
+3. Legislar antes de revisar o acordo.
+4. Convocação de uma conferência constitucional cidadã[^8].
 
-**Características do movimento：**
+**Características do Movimento:**
 
-- **Ocupação do Legislativo：** Primeira ação de ocupação do prédio do legislativo
-- **Mobilização digital：** Plena utilização de mídia social e transmissão ao vivo
-- **Participação geracional：** Principalmente estudantes universitários, com apoio de várias gerações
-- **Atenção internacional：** Ampla cobertura da mídia internacional
+- **Ocupação do Legislativo:** A primeira ação de ocupação do plenário parlamentar.
+- **Mobilização Digital:** Uso pleno de redes sociais e transmissões ao vivo (_live streaming_).
+- **Participação Geracional:** Protagonismo estudantil com apoio de diversas gerações.
+- **Atenção Internacional:** Ampla cobertura pela mídia internacional.
 
-**Impacto social：**
+**Impacto Social:**
 
-- **Impacto político：** Influenciou as eleições locais de 2014 e a eleição presidencial de 2016
-- **Consciência cívica：** Aumentou a participação política dos jovens
-- **Aprofundamento da democracia：** Promoveu a transparência das informações governamentais e a participação cidadã institucionalizada
+- **Impacto Político:** Influenciou as eleições locais de 2014 e a eleição presidencial de 2016.
+- **Consciência Cidadã:** Elevou a participação política das gerações mais jovens.
+- **Aprofundamento Democrático:** Impulsionou a transparência governamental e sistemas de participação cidadã.
 
-### Movimento pelos direitos de casamento（2013-2019）
+### Movimento pelos Direitos de Casamento (2013-2019)
 
-**Tema：** Legalização do casamento entre pessoas do mesmo sexo
-**Eventos-chave：** Decisão do tribunal supremo, plebiscito, legislação
+**Pauta:** Luta pela legalização do casamento homoafetivo.
+**Eventos Chave:** Decisões do Tribunal Constitucional, referendo e legislação.
 
-O movimento pelos direitos de casamento em Taiwan passou por anos de esforço e, finalmente, em 2019, tornou-se a primeira região da Ásia a legalizar o casamento entre pessoas do mesmo sexo.
+Após anos de esforço, o movimento pelos direitos de casamento em Taiwan resultou na transformação da região no primeiro lugar da Ásia a legalizar o casamento entre pessoas do mesmo sexo, em 2019.
 
-**Processo do movimento：**
+**Trajetória do Movimento:**
+Em 2013, legisladores propuseram projetos de lei para a igualdade matrimonial. Em dezembro de 2016, os organizadores estimaram que entre 200.000 e 250.000 pessoas marcharam na Ketagalan Boulevard em apoio ao casamento homoafetivo[^9], colocando o tema no centro do debate nacional. Em 2017, a Interpretação nº 748 do Tribunal Constitucional declarou as leis vigentes inconstitucionais[^5], criando a base jurídica para a legislação.
 
-Em 2013, um deputado apresentou um projeto de lei sobre direitos de casamento; em dezembro de 2016, a organização estimou que 200.000 a 250.000 pessoas compareceram à avenida principal para apoiar o casamento entre pessoas do mesmo sexo[^9], levando o tema ao centro das atenções nacionais. Em 2017, o tribunal supremo emitiu a interpretação constitucional 748, declarando a legalidade atual inconstitucional[^5], criando uma base constitucional para a legislação.
+- **2018:** O lado favorável ao casamento homoafetivo foi derrotado em um referendo.
+- **2019:** Aprovação da "Lei de Execução da Interpretação nº 748 do Tribunal Judicial".
 
-- **2018：** O plebiscito rejeitou a posição favorável ao casamento entre pessoas do mesmo sexo
-- **2019：** A lei de implementação da interpretação constitucional 748 foi aprovada
+**Estratégias do Movimento:**
 
-**Estratégias do movimento：**
+- **Via Jurídica:** Através de legislação e recursos judiciais.
+- **Educação Social:** Comunicação e educação social de longo prazo.
+- **Conexão Internacional:** Cooperação com organizações internacionais de direitos humanos.
+- **Diversidade de Vozes:** União de apoiadores de diferentes origens.
 
-- **Caminho legal：** Por meio da legislação e recursos judiciais
-- **Educação social：** Comunicação e educação social de longo prazo
-- **Conexões internacionais：** Colaboração com organizações internacionais de direitos humanos
-- **Vozes diversificadas：** Integração de apoiadores de diferentes backgrounds
+**Significado Histórico:**
+Taiwan tornou-se a primeira região da Ásia a legalizar o casamento homoafetivo, demonstrando os valores progressistas e a proteção dos direitos humanos na sociedade taiwanesa.[^3]
 
-**Significado histórico：**
-Taiwan tornou-se a primeira região da Ásia a legalizar o casamento entre pessoas do mesmo sexo, demonstrando os valores progressistas e de proteção dos direitos humanos de Taiwan.[^3]
+## O Desenvolvimento do Movimento Ambiental
 
-## Desenvolvimento do movimento ambiental
+O movimento ambiental em Taiwan começou com as lutas contra a poluição na década de 1980 e expandiu-se rapidamente após o fim da lei marcial, tornando-se uma força cidadã que abrange conservação, antinuclearismo e questões climáticas.
 
-O movimento ambiental de Taiwan começou com protestos contra abusos no início dos anos 1980 e expandiu-se rapidamente após a despenalização para abranger temas como conservação, energia nuclear e mudanças climáticas.
+### Movimentos Ambientais Iniciais (Décadas de 1980-1990)
 
-### Primeiros movimentos ambientais（1980-1990）
+A partir de meados da década de 1980, as questões ambientais tornaram-se um dos primeiros campos de resistência da sociedade civil em Taiwan. Em 1986, os residentes de Lukang, em Changhua, iniciaram o movimento anti-DuPont; a DuPont anunciou o cancelamento do plano de fábrica em março de 1987, tornando este o primeiro caso em Taiwan onde uma luta ambiental levou uma empresa estrangeira a encerrar um plano de investimento[^4]. O movimento antinuclear também avançou no mesmo período. No final da década de 1990, o movimento para salvar as florestas de Hinoki (cipreste) realizou sua primeira marcha nas ruas em dezembro de 1998, levando a conservação florestal para o espaço público[^10].
 
-A partir da metade dos anos 1980, o meio ambiente tornou-se um dos primeiros campos em que a sociedade civil de Taiwan se mobilizou. Em 1986, moradores de Lukang, Changhua, lançaram o movimento anti-DuPont; a empresa anunciou em 12 de março de 1987 o cancelamento do plano de instalação da fábrica em Lukang, tornando-se o primeiro caso de protesto ambiental em Taiwan que levou uma empresa estrangeira a cancelar o investimento[^4]。O movimento anti-nuclear continuou nesse período. No final dos anos 1990, o movimento de preservação da floresta de Qilan realizou sua primeira manifestação nas ruas em 27 de dezembro de 1998[^10]。
+### Movimento Ambiental Moderno
 
-### Movimentos ambientais contemporâneos
+O foco do movimento ambiental contemporâneo mudou da luta contra a poluição para as mudanças climáticas, transição energética e justiça ambiental. Os debates sobre energias renováveis e políticas elétricas de 2025 também carregam marcas de participação de movimentos cidadãos.
 
-O foco dos movimentos ambientais contemporâneos mudou da proteção contra abusos para mudanças climáticas, transformação energética e justiça ambiental. As discussões sobre energia renovável e políticas energéticas em 2025 também refletem a participação da sociedade civil nos movimentos.
+## Movimento Trabalhista e Direitos Sociais
 
-## Movimento trabalhista e direitos sociais
+As questões trabalhistas foram um dos primeiros campos de mobilização da sociedade civil após o fim da lei marcial, com demandas que variaram desde o direito básico de organização até garantias de jornada de trabalho e salário mínimo, cobrindo as necessidades de diferentes gerações de trabalhadores.
 
-A questão laboral foi um dos primeiros campos em que a sociedade civil de Taiwan se mobilizou após a despenalização, com demandas que vão desde direitos fundamentais de organização sindical até proteções de horas de trabalho e salário mínimo, abrangendo as necessidades de trabalhadores de diferentes gerações.
+A implementação efetiva da organização sindical e do direito de greve só obteve suporte legal após as ondas de protestos das décadas de 1980 e 1990.
 
-A implementação prática da organização sindical e direito de greve só foi amplamente suportada legalmente após a onda de protestos nos anos 1980-1990.
+### Movimento pelos Direitos Trabalhistas
 
-### Movimento pelos direitos dos trabalhadores
+O movimento trabalhista em Taiwan partiu da luta pelo direito mais básico de organização, acumulando energia no final da década de 1980; a greve da Taoyuan Bus em 1988 impulsionou trabalhadores de transporte em várias regiões a formarem sindicatos[^6]. Casos como trabalhadores de fábricas fechadas lutando por indenizações e aposentadorias, a greve de 101 dias do Sindicato Têxtil Hualong em 2012 devido ao acúmulo de salários não pagos pela empresa[^6], e as greves de comissários de bordo na indústria aérea após 2016, são exemplos importantes do impacto concreto deixado pelo movimento trabalhista. A reforma da jornada de trabalho foi um embate de longo prazo: em dezembro de 2016, a Lei de Padrões Trabalhistas foi aprovada na terceira leitura, implementando o sistema de "um dia de folga por semana e um descanso adicional"; em janeiro de 2018, a lei foi revisada novamente para flexibilizar o limite de horas extras mensais e os intervalos de turnos[^11].
 
-O movimento trabalhista de Taiwan partiu da luta por direitos fundamentais de organização sindical; a partir do final dos anos 1980, começou a acumular força, e a greve dos ônibus de Taoyuan em 1988 impulsionou a organização de sindicatos de ônibus em várias cidades[^6]。Os trabalhadores demitidos lutaram por indenizações e fundos de aposentadoria; a greve do sindicato têxtil Farlong em 2012 por 101 dias devido ao acúmulo de salários não pagos pela empresa[^6]；e as greves de tripulantes de cabine aérea após 2016 também são casos importantes que deixaram impactos concretos no movimento trabalhista. A reforma das horas de trabalho tem sido uma luta de longa duração: em 6 de dezembro de 2016, a lei laboral foi aprovada em três leituras, e o sistema de folga semanal foi implementado; em 10 de janeiro de 2018, a lei foi novamente modificada, relaxando o limite máximo de horas extras mensais e reduzindo o intervalo entre turnos de trabalho[^11]。
+### Movimentos Trabalhistas Importantes
 
-### Movimentos trabalhistas importantes
+- **Greve da Hualong (2012):** Trabalhadores têxteis em greve por 101 dias devido a salários atrasados.
+- **Movimento de Trabalhadores de Fábricas Fechadas:** Luta por indenizações e aposentadorias.
+- **Greves de Comissários de Bordo:** Luta pela melhoria das condições de trabalho.
 
-- **Greve Farlong（2012）：** Trabalhadores têxteis grevaram por 101 dias devido a salários não pagos
-- **Movimento de trabalhadores demitidos：** Luta por indenizações e fundos de aposentadoria
-- **Greve de tripulantes de cabine aérea：** Luta por melhorias nas condições de trabalho
+## Características e Modelos dos Movimentos Sociais
 
-## Características e modelos dos movimentos sociais
+### Características dos Movimentos Sociais em Taiwan
 
-### Características dos movimentos sociais de Taiwan
+**1. Pacífico e Racional**
+A maioria dos movimentos sociais em Taiwan adota formas de protesto pacíficas, com poucos confrontos violentos intensos. Os participantes valorizam o "discurso racional" e a "expressão pacífica", uma cultura que ajuda a manter a estabilidade social.
 
-**1. Paz e racionalidade**
-Os movimentos sociais de Taiwan geralmente adotam formas de protesto pacífico, com poucos casos de conflitos violentos. Os participantes valorizam "argumentos racionais" e "expressão pacífica", e essa cultura ajuda a manter a estabilidade social.
+**2. Transmissão Intergeracional**
+Da geração Wild Lily à geração de Girassol, os movimentos sociais em Taiwan apresentam uma clara característica de sucessão geracional. A experiência e as ideias dos ativistas mais velhos são transmitidas às gerações mais jovens, criando uma continuidade na cultura de movimento.
 
-**2. Transmissão entre gerações**
-Do movimento estudantil de julho-negro ao movimento flor de maio, os movimentos sociais de Taiwan mostram claramente características de transmissão entre gerações. As experiências e ideias dos movimentos anteriores são transmitidas para a nova geração, formando uma cultura contínua de movimento.
+**3. Diversidade de Pautas**
+Os movimentos abrangem política, meio ambiente, trabalho, gênero, direitos humanos e outros temas, refletindo as diversas necessidades e preocupações da sociedade civil.
 
-**3. Diversificação de temas**
-Os movimentos sociais de Taiwan abrangem política, meio ambiente, trabalho, gênero, direitos humanos e outros temas, refletindo as diversas necessidades e preocupações da sociedade civil.
+**4. Características da Era Digital**
+Os movimentos das novas gerações utilizam plenamente a internet e as redes sociais para mobilização, comunicação e debate, demonstrando as características dos movimentos na era digital.
 
-**4. Características da era digital**
-Os movimentos sociais da nova geração fazem pleno uso da internet e mídia social para mobilização, comunicação e argumentação, refletindo as características dos movimentos na era digital.
+### Modelos de Organização e Estratégias de Mobilização
 
-### Modelos organizacionais e estratégias de mobilização
+**Papel das ONGs:** Organizações não governamentais sustentam o poder das pautas por meio de advocacia profissional e gestão de longo prazo.
+**Organizações Estudantis:** Clubes universitários são a base fundamental de muitos movimentos sociais.
+**Alianças Intersetoriais:** Diferentes grupos formam coalizões para pautas específicas.
+**Estratégia de Mídia:** Uso eficaz da mídia tradicional e novas mídias para disseminar mensagens.
 
-**Papel das ONGs：** Organizações não governamentais mantêm energia nos temas por meio de advocacia profissional e operação de longo prazo
-**Organizações estudantis：** Grupos estudantis universitários são a base fundamental de muitos movimentos sociais
-**Alianças interdisciplinares：** Diferentes grupos formam alianças para temas específicos
-**Estratégia de mídia：** Boa utilização de mídia tradicional e nova mídia para disseminar informações
+## Relação entre Movimentos Sociais e Política
 
-## Relação entre movimentos sociais e política
+Existe uma relação simbiótica sutil entre os movimentos sociais em Taiwan e a política eleitoral: os movimentos criam pressão sobre as pautas, os partidos absorvem votos e o sistema se ajusta consequentemente.
 
-Existe uma relação complexa de coexistência entre os movimentos sociais e a política eleitoral em Taiwan: os movimentos criam pressão de temas, os partidos políticos absorvem votos, e o sistema institucional se ajusta.
+### Impacto na Política
 
-### Impacto na política
+O impacto dos movimentos sociais na política de Taiwan não é apenas um clamor passageiro nas ruas, mas algo que se transforma repetidamente em resultados concretos na legislação e nas eleições. As eleições locais de 2014 após o Movimento de Girassol e a mobilização de lados opostos no referendo sobre direitos de casamento mostram claramente como os movimentos sociais influenciam as estratégias partidárias e a estrutura de votos.
 
-O impacto dos movimentos sociais na política de Taiwan não é apenas uma onda passageira de ruído nas ruas, mas se transforma repetidamente em resultados concretos em legislação e eleições. As eleições locais de 2014 após o movimento flor de maio e o plebiscito sobre direitos de casamento mostram claramente como os movimentos sociais movem a estratégia dos partidos políticos e a estrutura eleitoral.
+### Participação Institucionalizada
 
-### Participação institucionalizada
+A participação cidadã tem se tornado progressivamente institucionalizada. O governo realiza audiências públicas antes de decisões políticas importantes, e o sistema de referendo permite que os cidadãos votem diretamente sobre temas específicos. Embora esses mecanismos não sejam perfeitos, eles fornecem canais formais para que os movimentos de rua entrem no sistema.
 
-A participação cidadã tem se tornado gradualmente institucionalizada. O governo realiza audiências públicas antes de decisões importantes sobre políticas, e o sistema de plebiscito também permite que os cidadãos votem diretamente em temas específicos. Embora esses mecanismos não sejam perfeitos, eles fornecem canais oficiais para que os movimentos de rua entrem no sistema.
-
-## Maturidade da sociedade civil
+## Maturação da Sociedade Civil
 
 ### Desenvolvimento das ONGs
 
-Taiwan possui uma rede ativa de organizações não governamentais, abrangendo temas como direitos humanos, meio ambiente, gênero e trabalho. Organizações como a Comissão de Direitos Humanos de Taiwan, a Fundação de Reforma Judiciária Civil, a Aliança Verde por Ações Cívicas, a Fundação de Conhecimento Feminino, o Serviço de Consulta de Taiwan para Pessoas LGBTQ+ e a Linha de Frente dos Trabalhadores de Taiwan estabelecem energia de advocacia de longo prazo em seus respectivos campos, formando a base organizacional que sustenta os movimentos sociais.
+Taiwan possui uma rede ativa de organizações não governamentais que cobrem áreas como direitos humanos, meio ambiente, gênero e trabalho. Organizações como a Taiwan Association for Human Rights, a Foundation for Judicial Reform, o Green Citizens' Action Alliance, a Women's Foundation, a Taiwan Alliance to Promote Sexual Rights e a Taiwan Labor Front estabelecem energia de advocacia de longo prazo em seus campos específicos, servindo como base organizacional para os movimentos sociais.
 
-### Cultura de participação cidadã
+### Cultura de Participação Cidadã
 
-As formas de participação cidadã em Taiwan vão além de protestos nas ruas. Cultura de voluntariado, empresas sociais, crowdfunding e plataformas de discussão política online (como vTaiwan) constroem um ecossistema de participação cidadã na era digital, permitindo que mais pessoas encontrem suas posições tanto dentro quanto fora do sistema institucional.
+As formas de participação cidadã em Taiwan ultrapassaram o protesto de rua. A cultura de voluntariado, empresas sociais, financiamento coletivo (_crowdfunding_) e plataformas de discussão de políticas online (como o vTaiwan) compõem um ecossistema de participação digital, permitindo que mais pessoas encontrem espaços para agir dentro e fora do sistema.
 
-## Desafios e reflexões
+## Desafios e Reflexões
 
-A vitalidade da sociedade civil de Taiwan é evidente, mas também enfrenta alguns dilemas estruturais que merecem atenção séria.
+A vitalidade da sociedade civil de Taiwan é evidente, mas ela também enfrenta dilemas estruturais que merecem atenção séria.
 
-### Desafios atuais
+### Desafios Atuais
 
-A proliferação de desinformação e o efeito de bolha de confirmação tornam as discussões de temas cada vez mais polarizadas; diferentes gerações têm visões claras sobre "como participar corretamente"; e a polarização política entre partidos azuis e verdes faz com que alguns movimentos sociais sejam forçados a escolher lados, dificultando a manutenção de uma postura não partidária. Como manter a independência dos movimentos cívicos na interseção da política partidária é um desafio contínuo enfrentado pela sociedade civil de Taiwan.
+A inundação de desinformação e o efeito de "bolhas de eco" tendem a polarizar os debates. Há divergências claras entre gerações sobre "qual é a forma correta de participar", e as barreiras políticas entre o azul (KMT) e o verde (DPP) muitas vezes forçam certos movimentos sociais a escolher lados, dificultando a manutenção de uma posição suprapartidária. Como manter a independência dos movimentos cidadãos em meio à política partidária é um desafio contínuo para a sociedade civil de Taiwan.
 
-### Desenvolvimento futuro
+### Desenvolvimento Futuro
 
-Plataformas de participação digital, alianças estratégicas interdisciplinares e conexões com a sociedade civil internacional são possíveis direções de desenvolvimento dos movimentos sociais de Taiwan. Como equilibrar a inovação institucional e a mobilização de rua ainda está em exploração.
+Plataformas de participação digital, alianças estratégicas entre diferentes pautas e a conexão com a sociedade civil internacional são direções possíveis para o futuro dos movimentos sociais em Taiwan. O equilíbrio entre inovação institucional e mobilização de rua ainda está sendo explorado.
 
-## Comparação internacional e características
+## Comparação Internacional e Singularidades
 
 ### Contexto do Leste Asiático
 
-Em comparação com os movimentos sociais introspectivos do Japão ou os protestos radicalizados da Coreia do Sul, os movimentos sociais de Taiwan apresentam características racionais, pacíficas e eficazes.
+Em comparação com os movimentos sociais mais introspectivos do Japão ou as protestos mais radicalizados da Coreia do Sul, os movimentos em Taiwan apresentam características de racionalidade e moderação, mas com resultados visíveis.
 
-### Experiência de democratização
+### Experiência de Democratização
 
-A experiência dos movimentos sociais de Taiwan oferece um caso importante de "transição democrática gradual", mostrando como realizar reformas políticas mantendo a estabilidade social.
+A experiência de Taiwan oferece um caso importante de "transição democrática gradual", demonstrando como realizar reformas políticas mantendo a estabilidade social.
 
-### Impacto em Hong Kong
+### Influência sobre Hong Kong
 
-A experiência dos movimentos sociais de Taiwan teve grande impacto nos movimentos de ocupação de Central em Hong Kong e no movimento do guarda-chuva, demonstrando a possibilidade de praticar a democracia na sociedade chinesa.
+A experiência dos movimentos sociais em Taiwan teve uma influência significativa em eventos como o Occupy Central e o Movimento de Guarda-chuva em Hong Kong, demonstrando as possibilidades de prática democrática na sociedade chinesa.
 
-## Significado cultural dos movimentos sociais
+## Significado Cultural dos Movimentos Sociais
 
-### Desenvolvimento da consciência cívica
+### Cultivo da Consciência Cidadã
 
-Os movimentos sociais são uma importante via de educação cívica; ao participar de movimentos, os cidadãos aprendem valores democráticos, participação pública e responsabilidade social.
+Os movimentos sociais são um meio importante de educação cívica; através da participação, os cidadãos aprendem valores democráticos, engajamento público e responsabilidade social.
 
-### Debates sobre valores sociais
+### Debate de Valores Sociais
 
-Os movimentos sociais promovem discussões e reflexões sobre diferentes valores sociais, impulsionando a atualização e progresso dos valores sociais.
+Os movimentos promovem a discussão e reflexão da sociedade sobre diferentes valores, impulsionando a atualização e o progresso dos valores sociais.
 
-### Aprofundamento da cultura democrática
+### Aprofundamento da Cultura Democrática
 
-Por meio dos movimentos sociais, a sociedade de Taiwan formou uma cultura democrática de "respeito mútuo", "argumentação racional" e "expressão pacífica".
+Através dos movimentos sociais, a sociedade de Taiwan moldou uma cultura democrática de "respeito à diversidade", "debate racional" e "expressão pacífica".
 
-## Lições para observadores estrangeiros
+## Lições para Observadores Estrangeiros
 
-### Diversidade na prática democrática
+### Diversidade na Prática Democrática
 
-A experiência de Taiwan mostra que a prática democrática pode ter diferentes formas e caminhos, não precisando seguir completamente o modelo ocidental.
+A experiência de Taiwan mostra que a prática democrática pode ter diferentes formas e caminhos, não precisando imitar completamente o modelo ocidental.
 
-### Função positiva dos movimentos sociais
+### Funções Positivas dos Movimentos Sociais
 
-Em sociedades democráticas maduras, os movimentos sociais são uma forma saudável de participação política, permitindo que o sistema democrático se auto-corrija e aprofunde.
+Em uma sociedade democrática madura, os movimentos sociais são uma forma saudável de participação política, permitindo que o sistema democrático se autocorrige e se aprofunde.
 
-### Importância da sociedade civil
+### Importância da Sociedade Civil
 
-Uma sociedade civil forte é a base fundamental para a consolidação da democracia, exigindo longo cultivo cultural e apoio institucional.
+Uma sociedade civil forte é a base fundamental para a consolidação da democracia, exigindo cultivo cultural e suporte institucional de longo prazo.
 
-## Reflexões adicionais
+## Reflexão Adicional
 
-A experiência dos movimentos sociais de Taiwan mostra como uma sociedade pode realizar a auto-reformulação e progresso por meio da participação cidadã. Essa experiência tem profundo valor de referência para entender o funcionamento dos mecanismos da sociedade democrática moderna e como buscar consenso em sociedades multiculturais.
+A experiência dos movimentos sociais em Taiwan demonstra como uma sociedade pode alcançar autorreforma e progresso por meio da participação cidadã. Essa experiência tem um significado profundo para entender o funcionamento das sociedades democráticas modernas e como buscar consenso em sociedades diversas.
 
-No futuro, os movimentos sociais de Taiwan enfrentarão novos desafios na era digital, globalização e polarização política; como manter a persuasividade e legitimidade dos movimentos em um ambiente em mudança é algo a ser observado a longo prazo.
+No futuro, os movimentos sociais de Taiwan enfrentarão novos desafios como a era digital, a globalização e a polarização política; como manter a persuasão e a legitimidade dos movimentos em um ambiente em mudança merece observação contínua.
 
-**Leituras recomendadas**：
+**Leituras Complementares:**
 
-- [Reporter: Como transformar a investigação jornalística de um item de venda em bem público em uma década](/pt/society/the-reporter-investigative-journalism) — Como Taiwan usou cobranças mensais de estranhos para transformar a investigação jornalística de um item de venda de mídia comercial em bem público desde 2015
-- [Justfont e o desenvolvimento da tipografia de Taiwan: Da história de 25 anos da Kingsoft ao minuto 76 de Jinhsuan](/pt/technology/justfont-and-taiwan-typography) — Outro caso de crowdfunding reescrevendo a percepção cultural no mesmo ano, ampliando a narrativa da sociedade civil a partir da perspectiva da infraestrutura tipográfica
-- [Cabo submarino: Visível sobre o escudo de silício, invisível sobre as linhas de energia](/pt/technology/submarine-cables-taiwan-lifeline) — A legislação das sete leis de cabos submarinos, a plataforma de defesa de Pingtung e o caso judicial de Hongtong 58 mostram como a pressão da sociedade civil impulsiona a legislação de bases de segurança nacional
-- [Grande revogação](/pt/history/great-recall-movement-2024) — Do movimento de apoio ao movimento de revogação, a imagem de mobilização geracional e a energia de rua da maior onda de revogação da história em 2025
+- [Repórter: Dez anos salvando o jornalismo investigativo de item comercial para bem público](/pt/society/the-reporter-investigative-journalism) — Desde 2015, a sociedade civil de Taiwan utiliza doações mensais de estranhos para transformar o jornalismo investigativo de um produto de mídia comercial em um bem público.
+- [justfont e o desenvolvimento das fontes em Taiwan: Uma pequena história tipográfica da era Huakang aos 76 minutos de Jinxuan](/pt/technology/justfont-and-taiwan-typography) — Outro caso de como o financiamento coletivo alterou a percepção cultural, estendendo a narrativa da sociedade civil sob a ótica da infraestrutura tipográfica.
+- [Cabos Submarinos: Visíveis no Escudo de Silício, invisíveis nas veias vitais](/pt/technology/submarine-cables-taiwan-lifeline) — A legislação sobre cabos submarinos, a plataforma de defesa em Pingtung e o caso judicial nº 58 da Hong Tai demonstram como a pressão da sociedade civil impulsiona a legislação de infraestrutura de segurança nacional.
+- [Grandes Revogações (大罷免)](/pt/history/great-recall-movement-2024) — Do movimento "Bluebird" às campanhas de revogação, a imagem da mobilização geracional e a tradução institucional da energia das ruas na maior onda de revogações da história em 2025.
 
-[^1]: [Wikipedia: Movimento estudantil de julho-negro](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — De 16 a 22 de março de 1990, cerca de 6.000 estudantes universitários fizeram uma greve sentada na Praça do Memorial Nacional Zhongzheng（hoje Praça da Liberdade）, sendo a maior ação de protesto estudantil desde a transferência do governo para Taiwan
+[^1]: [Wikipédia: Movimento Wild Lily](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — De 16 a 22 de março de 1990, cerca de 6.000 estudantes realizaram um protesto sentado na Praça do Memorial Hall de Chiang Kai-shek (hoje Praça da Liberdade), o maior protesto estudantil desde a transferência do governo para Taiwan.
 
-[^2]: [Wikipedia: Marcha 330 contra o acordo de serviços](https://zh.wikipedia.org/zh-tw/330%E5%8F%8D%E6%9C%8D%E8%B2%BF%E9%81%8A%E8%A1%8C) — Em 30 de março de 2014, a concentração na avenida principal teve estimativas da organização de 500.000 pessoas e da Direção de Segurança Pública do Ministério do Interior de 116.000 pessoas
+[^2]: [Wikipédia: Marcha de 30 de março contra o acordo comercial](https://zh.wikipedia.org/zh-tw/330%E5%8F%8D%E6%9C%8D%E8%B2%BF%E9%81%8A%E8%A1%8C) — Comício na Ketagalan Boulevard em 30 de março de 2014; organizadores estimaram 500.000 pessoas, enquanto o Departamento de Polícia do Ministério do Interior estimou 116.000.
 
-[^3]: [Lei de implementação da interpretação constitucional 748 do Tribunal Judicial](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008) — Página do texto legal do banco de dados nacionais de leis
+[^3]: [Lei de Execução da Interpretação nº 748 do Tribunal Judicial](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008) — Página de texto do banco de dados de regulamentações nacionais.
 
-[^4]: [Wikipedia: Incidente anti-DuPont em Lukang](https://zh.wikipedia.org/zh-tw/%E9%B9%BF%E6%B8%AF%E5%B1%85%E6%B0%91%E5%8F%8D%E6%9D%9C%E9%82%A6%E8%A8%AD%E5%BB%A0%E4%BA%8B%E4%BB%B6) — A DuPont anunciou em 12 de março de 1987 o cancelamento do plano de instalação da fábrica em Lukang, sendo o primeiro caso de protesto ambiental em Taiwan que levou uma empresa estrangeira a cancelar o investimento
+[^4]: [Wikipédia: Incidente dos residentes de Lukang contra a DuPont](https://zh.wikipedia.org/zh-tw/%E9%B9%BF%E6%B8%AF%E5%B1%85%E6%B0%91%E5%8F%8D%E6%9D%9C%E9%82%A6%E8%A8%AD%E5%BB%A0%E4%BA%8B%E4%BB%B6) — A DuPont anunciou o cancelamento do plano de fábrica em Lukang em 12 de março de 1987, sendo o primeiro caso em Taiwan onde uma luta ambiental levou uma empresa estrangeira a encerrar um plano de investimento.
 
-[^5]: [Interpretação constitucional 748 do Tribunal Judicial](https://cons.judicial.gov.tw/docdata.aspx?fid=5297&id=168051) — Texto integral da interpretação do tribunal constitucional, publicada em 24 de maio de 2017
+[^5]: [Interpretação nº 748 do Tribunal Judicial](https://cons.judicial.gov.tw/docdata.aspx?fid=5297&id=168051) — Página com o texto completo da interpretação do Tribunal Constitucional, publicada em 24 de maio de 2017.
 
-[^6]: [Wikipedia: Movimento trabalhista de Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95) — Em 14 de fevereiro de 1988, a greve do sindicato dos ônibus de Taoyuan desencadeou ondas de organização sindical e greves em várias cidades; em junho de 2012, o sindicato têxtil Farlong grevou por 101 dias devido ao acúmulo de salários não pagos pela empresa
+[^6]: [Wikipédia: Movimento Trabalhista de Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95) — Em 14 de fevereiro de 1988, a greve do sindicato da Taoyuan Bus desencadeou uma onda de sindicatos e greves em várias regiões; em junho de 2012, o Sindicato Têxtil Hualong realizou uma greve de 101 dias devido ao acúmulo de salários.
 
-[^7]: [Central News Agency: Trinta anos do movimento camponês de 520](https://www.cna.com.tw/news/firstnews/201805180033.aspx) — Noticiado em maio de 2018: os EUA exigiam a abertura das importações de laranjas, perus e outros produtos agrícolas; mais de 5.000 camponeses de várias regiões foram a Taiwan para protestar, mais de 130 pessoas foram presas
+[^7]: [CNA: Trinta anos do Movimento dos Agricultores de 20 de maio](https://www.cna.com.tw/news/firstnews/201805180033.aspx) — Reportagem de maio de 2018: os EUA exigiram a abertura para importação de citrinos, perus e outros produtos; mais de 5.000 agricultores marcharam para o norte em protesto, resultando na prisão de mais de 130 pessoas.
 
-[^8]: [United Daily News: Um ano depois, o que o movimento flor de maio mudou](https://udn.com/upf/newmedia/2015_data/20150318_sunflower_08/) — Quatro demandas do movimento estudantil: rejeitar o acordo de serviços, elaborar uma lei de supervisão entre os dois lados do estreito, primeiro legislar depois examinar, convocar uma assembleia cidadã constitucional
+[^8]: [United Daily News: Um ano depois, o que o Movimento de Girassol mudou?](https://udn.com/upf/newmedia/2015_data/20150318_sunflower_08/) — As quatro reivindicações do movimento: retorno do acordo comercial, elaboração de lei de supervisão para as relações entre os dois lados do estreito, legislar antes de revisar e convocação de conferência constitucional cidadã.
 
-[^9]: [New Headline: 250.000 pessoas compareceram à avenida principal para apoiar o casamento entre pessoas do mesmo sexo](https://newtalk.tw/news/view/2016-12-10/79948) — Em 10 de dezembro de 2016, o concerto pelos direitos de casamento estimou que 200.000 a 250.000 pessoas compareceram
+[^9]: [Newtalk: 250.000 pessoas na Ketagalan Boulevard em apoio ao casamento homoafetivo](https://newtalk.tw/news/view/2016-12-10/79948) — Concerto pela igualdade matrimonial em 10 de dezembro de 2016; organizadores afirmaram que entre 200.000 e 250.000 pessoas compareceram.
 
-[^10]: [TV pública: Nossa ilha: Qilan através dos séculos](https://ourisland.pts.org.tw/content/4004) — Em 27 de dezembro de 1998, o movimento de preservação da floresta de Qilan realizou sua primeira manifestação nas ruas; em dezembro de 1999 e dezembro de 2000, realizou novas manifestações
+[^10]: [PTS Our Island: Hinoki através dos séculos](https://ourisland.pts.org.tw/content/4004) — A primeira marcha para salvar as florestas de Hinoki ocorreu em 27 de dezembro de 1998, com novas marchas em dezembro de 1999 e dezembro de 2000.
 
-[^11]: [Wikipedia: Folga semanal](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E4%BE%8B%E4%B8%80%E4%BC%91) — Em 6 de dezembro de 2016, a lei laboral foi aprovada em três leituras; em 10 de janeiro de 2018, a lei foi novamente modificada, ajustando o limite máximo de horas extras mensais para 54 horas e permitindo que o intervalo entre turnos de trabalho fosse reduzido para 8 horas
+[^11]: [Wikipédia: Sistema de um descanso adicional](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E4%BE%8B%E4%B8%80%E4%BC%91) — A Lei de Padrões Trabalhistas foi aprovada na terceira leitura em 6 de dezembro de 2016; revisada novamente em 10 de janeiro de 2018, alterando o limite de horas extras para 54 horas mensais e permitindo intervalos de turno de 8 horas.
 
 ## Referências
 
-- He Mingxiu《[Introdução aos movimentos sociais](https://www.books.com.tw/products/0010294565)》
-- Xiao Xinhuang, Gu Zhonghua, eds.《[Reiniciando os movimentos sociais de Taiwan](https://www.books.com.tw/products/0010479654)》, Junte, 2010
-- He Rongsheng《[Geração estudantil: De julho-negro a flor de maio](https://www.books.com.tw/products/0010642379)》（edição ampliamente revisada）, Editora do Tempo, 2014
-- Sites oficiais de várias organizações de movimento social e documentários relacionados
+- He, Ming-hsiu, _[Introdução aos Movimentos Sociais](https://www.books.com.tw/products/0010294565)_.
+- Hsiao, Hsin-huang; Ku, Chung-hua (Eds.), _[O Recomeço dos Movimentos Sociais de Taiwan](https://www.books.com.tw/products/0010479654)_, Ju Liu, 2010.
+- He, Rong-hsing, _[Geração do Movimento Estudantil: De Wild Lily a Girassol](https://www.books.com.tw/products/0010642379)_ (Nova Edição Ampliada), Shih Bao Publishing, 2014.
+- Sites oficiais de vários grupos de movimentos sociais e documentários relacionados.

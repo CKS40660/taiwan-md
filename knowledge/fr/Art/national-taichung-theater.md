@@ -23,9 +23,9 @@ curation: 'incubating'
 readingTime: 25
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-29_National_Taichung_Theater.jpg'
 translatedFrom: 'Art/台中國家歌劇院.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:f4906969467717b0'
-sourceBodyHash: 'sha256:672a8871e0fcfa50'
+sourceCommitSha: 'af787aed'
+sourceContentHash: 'sha256:a25bf1fc731da114'
+sourceBodyHash: 'sha256:25800b112b14f272'
 translatedAt: '2026-09-08T00:42:50+08:00'
 ---
 
@@ -95,8 +95,7 @@ Afin de mettre en œuvre l'égalité culturelle et de créer une communauté de 
 Nous présentons ci-dessous les principales réductions tarifaires pour les membres, montrant comment le théâtre encourage l'engagement profond du public grâce à une structure échelonnée :
 
 ```tw-bars
-title: Comparaison des Réductions Tarifaires par Type de Membre (Spectacle Principal)
-axis: Taux de Réduction (%)
+Les membres du niveau le plus élevé paient 75% du prix affiché, le grand public le plein tarif (spectacles principaux, % du prix affiché)
 *Membre Wango | 75
 *Carte Prologue | 80
 *Carte Citoyen NTT | 80
@@ -110,15 +109,15 @@ Source : Site officiel du Théâtre National, 2026
 
 Le théâtre a établi divers types de cartes membres pour différents groupes, avec les avantages clés suivants :
 
-| Catégorie de Membre   | Conditions d'Adhésion / Frais Annuels  | Avantage Principal                                                  | Récompense Commerciale                                |
-| :-------------------- | :------------------------------------- | :------------------------------------------------------------------ | :---------------------------------------------------- |
-| **Carte Prologue**    | Grand public / Inscription en ligne    | Spectacle principal à **80%**, droit de pré-réservation prioritaire | 90% chez les partenaires, double points               |
-| **Carte Citoyen NTT** | Résident de Taïtung / 200 NTD          | Réduction de **80%**, bénéfice pour les résidents locaux            | 90% sur la restauration et la culture                 |
-| **Carte Théâtre**     | Grand public / 350 NTD                 | Réduction de **90%**, possibilité d'avancement au renouvellement    | Cadeau d'anniversaire dédié, 90% chez les partenaires |
-| **Membre Wango**      | Soutien culturel profond               | Réduction de **75%** et priorité maximale                           | Salon VIP dédié, réservation prioritaire              |
-| **Membre Jeune U23**  | Jeunes de moins de 23 ans gratuitement | Tarif spécial pour la jeunesse                                      | Encourager les jeunes à fréquenter le théâtre         |
+| Catégorie de Membre   | Conditions d'Adhésion / Frais Annuels  | Avantage Principal                                                                                 | Récompense Commerciale                                 |
+| :-------------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| **Carte Prologue**    | Grand public / Inscription en ligne    | Spectacle principal à **-20%** (80% du prix affiché à payer), droit de pré-réservation prioritaire | -10% chez les partenaires, double points               |
+| **Carte Citoyen NTT** | Résident de Taïtung / 200 NTD          | Réduction de **20%** (80% du prix affiché à payer), bénéfice pour les résidents locaux             | -10% sur la restauration et la culture                 |
+| **Carte Théâtre**     | Grand public / 350 NTD                 | Réduction de **10%** (90% du prix affiché à payer), possibilité d'avancement au renouvellement     | Cadeau d'anniversaire dédié, -10% chez les partenaires |
+| **Membre Wango**      | Soutien culturel profond               | Réduction de **25%** (75% du prix affiché à payer) et priorité maximale                            | Salon VIP dédié, réservation prioritaire               |
+| **Membre Jeune U23**  | Jeunes de moins de 23 ans gratuitement | Tarif spécial pour la jeunesse                                                                     | Encourager les jeunes à fréquenter le théâtre          |
 
-En plus des cartes membres dédiées, le Théâtre National de Taïwan applique également pleinement les politiques réglementaires et d'égalité culturelle lors de ses spectacles. Les personnes handicapées et leur accompagnateur nécessaire bénéficient d'une réduction de **50%**, et des zones réservées pour les personnes handicapées sont régulièrement proposées en ligne. De plus, des codes de réduction spécifiques à la communauté locale de Taïtung (comme le 85%) sont souvent proposés pour les périodes populaires (comme _Les Trois Sœurs qui Conseillent_), abaissant considérablement le seuil d'accès au public aux arts de haute qualité.
+En plus des cartes membres dédiées, le Théâtre National de Taïwan applique également pleinement les politiques réglementaires et d'égalité culturelle lors de ses spectacles. Les personnes handicapées et leur accompagnateur nécessaire bénéficient d'une réduction de **50%**, et des zones réservées pour les personnes handicapées sont régulièrement proposées en ligne. De plus, des codes de réduction spécifiques à la communauté locale de Taïtung (comme -15%) sont souvent proposés pour les périodes populaires (comme _Les Trois Sœurs qui Conseillent_), abaissant considérablement le seuil d'accès au public aux arts de haute qualité.
 
 ![Vue nocturne du Théâtre National de Taïwan, la fluidité des murs courbes et l'espace extérieur mis en valeur par l'éclairage](https://upload.wikimedia.org/wikipedia/commons/2/2f/National_Taichung_Theater_at_night_20210914.jpg)
 

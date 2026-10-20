@@ -1558,9 +1558,16 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 兩次算力）——除非這篇已經被拒絕過 PATCH_REJECT_ESCALATE 次（見下方
     # patch_reject_count），代表反覆卡在同一個章節重試迴圈，這時跳過 patch
     # 直接走整篇重翻（v1.53 診斷：ja/金瓜石連續 13 次同型 patch-reject 死鎖）。
+    #
+    # metadata-stale 也先試 patch（2026-10-16 babel-nightly）：它的定義是 bodyHash
+    # 沒變，變的是 frontmatter 與 trailer。原本只放 stale 進來，metadata-stale 一律
+    # 整篇重翻——10-15 一批 description 改寫讓十二語累積 356 份，每份 ~145 秒、
+    # 正文還要冒一次整篇換詞的險（10-03 社區→社協）。patch-translate 對這類只重翻
+    # frontmatter、章節 byte-identical（en/手搖飲實測 57 秒，verify-batch 0 錯）；
+    # 舊譯文帶債或 sha 不可解析時照樣 exit 2 回整篇路徑。
     proc: subprocess.CompletedProcess | None = None
     engine_label = engine
-    if status == "stale" and not no_patch:
+    if status in ("stale", "metadata-stale") and not no_patch:
         reject_count = patch_reject_count(lang, zh_path)
         inherited = [] if reject_count >= PATCH_REJECT_ESCALATE else inherited_gate_defects(zh_path, trans_path)
         if reject_count >= PATCH_REJECT_ESCALATE:
@@ -2051,12 +2058,14 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
 
 
 TOPUP_PER_LANG = 10   # 每次補貨每語言最多排進幾篇（小批：讓剛完成的檔下輪 status 重算後再進場）
+PARKED_POLL_S = 600   # 補不到貨、別的 worker 還在做時，停在場邊多久回來看一次（同 --idle-sleep 預設）
 
 
 def topup_queue(worker: Worker, queue: TaskQueue, state: RunState, langs: list, args,
                 run_dir: Path, round_num: int, slug_map_path: Path, seen_missing_slug: set,
                 log: Logger, exclusions: set | None = None,
-                guard: ContributorGuard | None = None, slug_map: dict | None = None) -> bool:
+                guard: ContributorGuard | None = None, slug_map: dict | None = None,
+                quiet: bool = False) -> bool:
     """輪中補貨：worker 在本輪佇列裡再也 claim 不到東西時，替它從 backlog 撈一批
     它接得了的語言，直接 extend 進同一個佇列。回 True = 補到了，worker 續跑；
     False = 這個 worker 能接的語言在全庫 backlog 裡都沒東西了，照舊退出等輪次結束。
@@ -2104,6 +2113,8 @@ def topup_queue(worker: Worker, queue: TaskQueue, state: RunState, langs: list, 
             if groups:
                 per_lang[lang] = groups
         if not per_lang:
+            if quiet:   # 停在場邊的 worker 每次回來看都撲空時不重複印（見 worker_loop）
+                return False
             log(f"💤 worker={worker.label} 本輪已無可接任務，backlog 裡它能接的語言"
                 f"（{','.join(eligible_langs)}）也沒有新貨——退出等輪次結束")
             return False
@@ -2123,6 +2134,7 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
                  no_noop_bump: bool = False, excl_cache: Optional["ExclusionCache"] = None,
                  topup=None) -> None:
     task_filter = make_task_filter(worker, state, report, log, excl_cache)
+    parked_since = None
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -2132,12 +2144,32 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
             # 2026-09-21：空手不直接退出，先向 backlog 補貨（見 topup_queue）。
             if topup is not None:
                 try:
-                    if topup(worker, queue):
+                    if topup(worker, queue, quiet=parked_since is not None):
+                        parked_since = None
                         continue
                 except Exception as e:  # noqa: BLE001
                     # 補貨壞掉不能讓 worker 執行緒靜默消失（#38 (f)）：記一行、照舊退出本輪。
                     log(f"⚠️  top-up 例外（worker={worker.label}，退出本輪）：{e}")
+                    return
+            # 2026-10-15：補不到貨也先別退出——別的 worker 還在做，就代表這一輪還沒完，
+            # 它之後的補貨會把新貨放進同一個佇列，而已經 return 的執行緒再也看不到。
+            # 實撞（run 74687）：地端 gemma 10-14 早上補貨撲空退場，三小時後 nemo 補進
+            # 十二語各十篇 stale，此後十三小時全由一個每篇 20–50 分鐘的雲端 worker 獨磨，
+            # GPU 空著；輪次因為 nemo 每次空手都能再補到貨而一直沒結束。
+            if topup is not None and worker.tier == "normal":
+                with state.lock:
+                    others_busy = len(state.in_flight)
+                if others_busy:
+                    if parked_since is None:
+                        parked_since = time.monotonic()
+                        log(f"⏸  worker={worker.label} 先停在場邊：別的 worker 還有 {others_busy} 篇在做，"
+                            f"每 {PARKED_POLL_S // 60} 分鐘回來看一次佇列與 backlog")
+                    time.sleep(PARKED_POLL_S)
+                    continue
             return
+        if parked_since is not None:
+            log(f"▶️  worker={worker.label} 回場（停了 {int((time.monotonic() - parked_since) // 60)} 分鐘）")
+            parked_since = None
         lang, group_path, zh_path = task
         with state.lock:
             state.in_flight.add(f"{lang}:{zh_path}")
@@ -2479,10 +2511,10 @@ def main() -> None:
             state.topup_seq = 0
         _rn, _langs, _excl = round_num, list(langs), exclusions
 
-        def _topup(w, q):
+        def _topup(w, q, quiet=False):
             return topup_queue(w, q, state, _langs, args, run_dir, _rn, slug_map_path,
                                seen_missing_slug, log, exclusions=_excl,
-                               guard=guard, slug_map=slug_map)
+                               guard=guard, slug_map=slug_map, quiet=quiet)
 
         with ThreadPoolExecutor(max_workers=len(workers)) as pool:
             futures = [

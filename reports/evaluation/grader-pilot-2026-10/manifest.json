@@ -1,0 +1,61 @@
+{
+  "description": "§8.0 配對清單。bad＝當初被點名、被取代的那一版；good＝取代它的那一版。label_tier 見 PREREGISTRATION.md §3。",
+  "pairs": [
+    {
+      "id": "w1-lowwage",
+      "scored": false,
+      "topic": "誰算低薪",
+      "label_tier": "A",
+      "bad": {"commit": "01c023955", "path": "knowledge/Society/誰算低薪.md", "note": "9/18 定稿（哲宇 9/19 凌晨讀到的版本）"},
+      "good": {"commit": "3275156c1", "path": "knowledge/Society/誰算低薪.md", "note": "9/19 重做版"}
+    },
+    {
+      "id": "w2-oilprice",
+      "scored": false,
+      "topic": "台灣油價機制與中油",
+      "label_tier": "A",
+      "bad": {"commit": "c1f1fa2ac", "path": "knowledge/Economy/台灣油價機制與中油.md", "note": "9/18 定稿"},
+      "good": {"commit": "e80217d19", "path": "knowledge/Economy/台灣油價機制與中油.md", "note": "9/19 重做版"}
+    },
+    {
+      "id": "w3-goldenbell",
+      "scored": false,
+      "topic": "金鐘獎",
+      "label_tier": "A",
+      "bad": {"commit": "cc787f9f9", "path": "knowledge/Culture/金鐘獎.md", "note": "9/18 定稿"},
+      "good": {"commit": "866d4719d", "path": "knowledge/Culture/金鐘獎.md", "note": "9/19 重做版"}
+    },
+    {
+      "id": "s1-stanshih",
+      "scored": true,
+      "topic": "施振榮",
+      "label_tier": "A-",
+      "bad": {"commit": "bf8cb4795", "path": "knowledge/People/施振榮.md", "note": "v1 矛盾驅動版，2026-07-06 13:31"},
+      "good": {"commit": "0ff00ba08", "path": "knowledge/People/施振榮.md", "note": "v2 立體群像版，2026-07-06 14:51"}
+    },
+    {
+      "id": "s2-filmscore",
+      "scored": true,
+      "topic": "台灣影視配樂",
+      "label_tier": "B",
+      "bad": {"commit": "581108b19", "path": "knowledge/Music/台灣影視配樂.md", "note": "第二輪最終狀態，2026-06-01 15:19（讀者 callout 的版本）"},
+      "good": {"commit": "6dc4c2256", "path": "knowledge/Music/台灣影視配樂.md", "note": "第三輪最終狀態，2026-06-01 18:25（HEAD 正文同此）"}
+    },
+    {
+      "id": "s3-waawei",
+      "scored": true,
+      "topic": "魏如萱",
+      "label_tier": "A-",
+      "bad": {"commit": "2cbb5a931", "path": "knowledge/People/魏如萱.md", "note": "v1（正文同 979d7133b，標題「卻被新聞畫面標成『民眾』」），2026-04-18 20:01，被批評當下的版本"},
+      "good": {"commit": "202cce082", "path": "knowledge/People/魏如萱.md", "note": "回爐重造後（Stage 2 全文重寫 55233ce49 ＋ description 修短），2026-04-18 22:17"}
+    },
+    {
+      "id": "s4-ezway",
+      "scored": true,
+      "topic": "台灣海關報關制度與 EZ WAY（單一節）",
+      "label_tier": "C",
+      "bad": {"file": "reports/rewrite-guide/ezway-section/original.md", "strip_leading_lines": ["# 原稿局部快照（不代表事實已驗證）\n"], "note": "線上原節〈官方開記者會，其他人只剩「據轉述」〉，與 knowledge 現行該節逐字相同"},
+      "good": {"file": "reports/rewrite-guide/ezway-section/draft-v3.md", "note": "Rewrite Guide 第三版試稿（2026-09-07，未上線）"}
+    }
+  ]
+}

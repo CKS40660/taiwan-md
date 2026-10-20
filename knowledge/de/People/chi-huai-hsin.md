@@ -21,16 +21,20 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/紀懷新.md'
 image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 sporeLinks:
-  [
-    "{'id': 152, 'platform': 'threads', 'date': '2026-06-27', 'url': 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'}",
-    "{'id': 153, 'platform': 'x', 'date': '2026-06-27', 'url': 'https://x.com/taiwandotmd/status/2070809073143144717'}",
-  ]
+  - id: 152
+    platform: 'threads'
+    date: '2026-06-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV'
+  - id: 153
+    platform: 'x'
+    date: '2026-06-27'
+    url: 'https://x.com/taiwandotmd/status/2070809073143144717'
 relatedDiary: ['2026-06-27-180207-manual']
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '95f42de83'
-sourceContentHash: 'sha256:53560e337a2fa524'
-sourceBodyHash: 'sha256:826517ecee263b74'
-translatedAt: '2026-09-12T09:12:49+08:00'
+sourceCommitSha: '7e660a586'
+sourceContentHash: 'sha256:11f4b1d06ffc2776'
+sourceBodyHash: 'sha256:a42a37a855f0ab8b'
+translatedAt: '2026-10-15T01:58:06.011425+00:00'
 ---
 
 Während die ganze Welt mit hunderten Millionen Dollar Rechenleistung der KI hinterherjagte, veränderte ein Paper die Art, wie Maschinen schließen – für etwa fünftausend Dollar.
@@ -108,31 +112,32 @@ Quellen: Wikipedia-Einträge der Wissenschaftler, arXiv 2201.11903
 
 ## Nicht mehr Daten, sondern menschlicher
 
-2011 verließ er PARC Richtung Google. Der Grund war pragmatisch: „Nur Forschung reicht nicht, man muss auch angewandte Dinge machen.“ Das PARC-Modell – „Grundlagenforschung sehr tief, aber nicht in Produkte umsetzbar“ – hatte er gesehen.
+Im Jahr 2011 verließ er Palo Alto und wechselte zu Google. Der Grund war pragmatisch: „Nur Forschung reicht nicht aus, man muss auch Anwendungen entwickeln.“ Er hatte das Muster beobachtet, bei dem die „Grundlagenforschung zwar sehr tief geht, sich aber nicht in Produkte verwandeln lässt“.
 
-Bei Google machte er erst Web-Datenanalyse, 2015–2017 baute er das neuronale Empfehlungssystem von YouTube neu auf, 2017 wurde er Principal Scientist von Google Brain mit 70 Leuten, 2021 Distinguished Scientist mit 120 Leuten, später Forschungs-Vizepräsident von DeepMind[^6]. Hinter der Titelserie steckt dieselbe methodische DNA: Information Foraging modelliert „wie Menschen Dinge finden“, Empfehlungssysteme modellieren „was Menschen sehen wollen“, Chain of Thought wird zu „wie Menschen schließen“. Von der menschlichen Kognition Schritt für Schritt zur Maschine.
+Bei Google begann er mit der Analyse von Internetdaten. Von 2015 bis 2017 leitete er ein Team beim Neuaufbau des neuronalen Empfehlungssystems von YouTube. 2017 wurde er Chief Scientist bei Google Brain und leitete ein siebzigköpfiges Team; 2021 wurde er zum Distinguished Scientist befördert und führte bis zu einhundertzwanzig Mitarbeiter, bevor er schließlich Research Vice President bei DeepMind wurde[^6]. Hinter dieser Reihe von Titeln verbirgt sich eigentlich die Erweiterung derselben methodischen DNA: Informationssuche ist das Modell dafür, „wie Menschen Dinge finden“; Empfehlungssysteme sind das Modell dafür, „was Menschen sehen wollen“; und beim Chain-of-Thought (Gedankenkette) wird es zum Modell dafür, „wie Menschen schlussfolgern“. Von der menschlichen Kognition direkt hin zur Maschine.
 
-Der Wendepunkt von Chain of Thought kam aus Unzufriedenheit mit dem damaligen Mainstream des Machine Learning. „Warum braucht man so viele Daten, damit die Maschine wirklich lernt?“ Er begann zu fragen: „Kann man kognitive Psychologie nutzen, um Maschinen das Lernen beizubringen?“[^7]
+Der Wendepunkt zum Chain-of-Thought entstand aus seiner Unzufriedenheit mit dem damaligen Mainstream des maschinellen Lernens. „Warum braucht diese Maschine so viele Daten, um wirklich lernen zu können?“, fragte er sich. „Könnte man nicht Methoden der kognitiven Psychologie nutzen, um Maschinen das Lernen beizubringen?“[^7]
 
-Also kehrte er zu jenem Konzept zurück. „Diese Idee stammt eigentlich aus den 60ern, 70ern, heißt Schema-Theorie. Sie besagt im Kern: Wenn ein Mensch ein Problem mit einem Template lösen kann, können wir vielleicht dieselbe Methode nutzen, um Maschinen das Lernen beizubringen. Chain of Thought beginnt genau damit.“ Der Interviewer hakte nach, ob es Piagets Schemata seien, er antwortete: „Ja, genau Piagets Schema-Idee. Das habe ich in der High School, im College gelernt, weil ich meiner Mutter bei ihrer pädagogisch-psychologischen Doktorarbeit half – und so fügten sich diese Dinge später zusammen.“[^8]
+So kehrte er zu einem alten Konzept zurück. „Diese Idee stammt im Grunde aus den 60er und 70er Jahren, sie heißt Schematheorie. Im Wesentlichen bedeutet es: Wenn ein Mensch ein Problem mithilfe eines Templates lösen kann, dann können wir vielleicht auch diese Methode nutzen, um Maschinen das Lernen beizubringen. Chain-of-Thought ist also eigentlich eine Weiterentwicklung dieser Idee.“ Auf die Nachfrage des Interviewers, ob es sich um Piagets Schemata handele, antwortete er: „Ja, genau, die Idee der Piaget-Schemata. Das habe ich eigentlich schon in der High School und während des Studiums gelernt, als ich meiner Mutter bei ihrer Dissertation im Bereich der Pädagogischen Psychologie geholfen habe. Später sind diese Dinge dann langsam miteinander verknüpft worden.“[^8]
 
-Der Same auf dem Schreibtisch keimte.
+Der Samen auf dem Schreibtisch war aufgegangen.
 
-![Chain-of-Thought Paper Figure 1: Links Standard-Prompt antwortet falsch, rechts Chain-of-Thought-Prompt schreibt erst Schlussfolgerungsschritte (blau markiert) dann richtige Antwort](/article-images/people/chain-of-thought-figure1.webp)
+![Chain-of-Thought-Paper Figure 1: Links führt ein Standard-Prompt zu einer falschen Antwort, rechts führt ein Chain-of-Thought-Prompt (blau markiert) dazu, dass zuerst die logischen Schritte aufgeschrieben werden, bevor die richtige Antwort gegeben wird](/article-images/people/chain-of-thought-figure1.webp)
 
-_Das berühmteste Bild aus dem Chain-of-Thought-Paper: Links normale Abfrage, Modell rechnet falsch; rechts nur im Beispiel ein Stück Schlussfolgerungsprozess dazu (blau markiert), Modell antwortet richtig. Der Unterschied liegt nicht in Rechenleistung, sondern darin, ob man „die Gedanken Schritt für Schritt aufschreibt“. Bild aus Wei et al., 2022._
+_Die berühmteste Abbildung aus dem Chain-of-Thought-Paper: Links wird eine Frage auf herkömmliche Weise gestellt und das Modell rechnet falsch; rechts wird im Beispiel lediglich ein zusätzlicher Gedankengang (der blau hinterlegte Abschnitt) hinzugefügt, woraufhin das Modell die richtige Antwort gibt. Der Unterschied liegt nicht in der Rechenleistung, sondern darin, „Gedanken Schritt für Schritt aufzuschreiben“. Die Grafik stammt aus Wei et al., 2022._
 
-Und es kostete fast nichts. „Wisst ihr, wie viel Rechenleistung wir insgesamt nutzten? Etwa fünftausend Dollar. Weil das Problem nicht mit Rechenleistung lösbar war, sondern ein anderer Denkmodus ist. Als wir die Forschung machten, hatten wir anfangs praktisch kein Budget, wir dachten es einfach aus.“[^1]
+Und es hat fast kein Geld gekostet. „Wissen Sie, wie viel Rechenleistung wir insgesamt verbraucht haben? Das waren etwa 5.000 US-Dollar an Rechenleistung. Denn das Problem war nicht durch schiere Rechenkraft zu lösen, sondern es handelte sich um ein anderes Denkmodell. Als wir diese Forschung begannen, hatten wir anfangs praktisch kein Budget; es war etwas, das wir uns einfach so ausgedacht haben.“[^1]
 
 ```tw-versus
-Mainstream-KI-Route | Chain-of-Thought-Weg
-Größere Modelle, mehr Parameter | Kein Neutraining des Modells nötig
-Mehr Daten füttern | Ein paar Zeilen Lösungsweg in Beispiele
-Hunderte Millionen Dollar Rechen-Rüstung | Etwa fünftausend Dollar
-Gewaltsame Skalierung | Leihe aus kognitiver Psychologie: wie Menschen lernen
+Mainstream-KI-Ansatz | Der Weg des Chain-of-Thought
+Größere Modelle, mehr Parameter | Kein erneutes Training des Modells nötig
+Mehr Daten füttern | Ein paar Zeilen Lösungsweg im Beispiel hinzufügen
+Rechenleistung im Wert von Hunderten Millionen USD | Etwa 5.000 US-Dollar
+Gewalt durch Skalierung | Ausleihen der kognitiven Psychologie (wie Menschen lernen)
+Quelle: Interview mit Chi Hsiao-hsin in VK EP122 (Chain-of-Thought-Paper erforderte ca. 5.000 USD Rechenleistung und nutzt Methoden der kognitiven Psychologie, um Maschinen zu lehren) sowie Berichte über seinen Forschungsweg[^1][^6][^7]
 ```
 
-Genau das will dieser Artikel sagen: Der Schlüssel, KI das Schließen beizubringen, ist nicht mehr Rechenleistung, sondern mehr Menschlichkeit – und diese „Menschlichkeit“ wuchs in der pädagogisch-psychologischen Doktorarbeit, die ein Tamsui-Junge für seine Mutter schrieb.
+Dies ist genau die Kernbotschaft dieses Artikels: Der Schlüssel, KI das logische Schlussfolgern beizubringen, liegt nicht in mehr Rechenleistung, sondern darin, menschlicher zu werden – und dieses „Menschlichere“ entsprang einer pädagogisch-psychologischen Dissertation, bei deren Erstellung ein Junge aus Tamsui seiner Mutter half.
 
 ## Er sagte zu seinem Mitarbeiter: Nicht jene Methode, versuch Schemata
 
@@ -171,27 +176,28 @@ _Ed H. Chi in Sai Chai Sidechat E350 über Smart Glasses, AGIs „Oma-Standard�
 
 Im Interview zog er eine mit Project Astra bestückte Smart-Glasses-Prototyp aus der Tasche, sagte, das „sollte“ Taiwans erste sein. Er sprach über Taiwans größte Chancen. Hardware ist ein Teil: „Taiwan bei Halbleitern, besonders Fertigung, hat eine kaum erschütterbare Position.“ Dann drehte er: „Wenn Taiwan Hardware und Software gut integriert, die Fähigkeiten großer Sprachmodelle nutzt, ist das definitiv eine große Chance.“[^14]
 
-## Taiwan kennt den Chip, nicht dieses Gehirn
+## Taiwan erkennt die Chips, aber nicht dieses Gehirn
 
-Hier kommt man an einer Frage nicht vorbei: Zählt er als Taiwanese?
+An dieser Stelle stellt sich eine unvermeidliche Frage: Zählt er als Taiwanese?
 
-Fakten: Mit ~15 verließ er Taiwan, High School, College, Grad School alles in USA, ganze Karriere im Silicon Valley. Er ist Taiwanese American – in Taiwan geboren, in USA groß und gemacht geworden. Wenn jemand sagt „Taiwanesische Ehre“ sei Konsum eines längst Ausgewanderten, ist der Vorwurf nicht haltlos.
+Die Fakten liegen auf dem Tisch: Er verließ Taiwan im Alter von etwa 15 Jahren; seine gesamte Ausbildung – von der High School über das Bachelor- bis zum Masterstudium – absolvierte er in den USA, und seine gesamte berufliche Laufbahn fand im Silicon Valley statt. Er ist ein Taiwanese American – jemand, der in Taiwan geboren wurde und in den USA zu Erfolg gelangte. Wenn jemand behauptet, dass der Titel „Glanzstück Taiwans“ nur dazu dient, das Image eines längst emigrierten Menschen zu vermarkten, so ist dieser Zweifel nicht ganz unbegründet.
 
-Aber die andere Waagschale hat auch Gewicht. Er gibt Interviews auf Chinesisch, sagt aktiv „in Tamsui geboren, in Taiwan aufgewachsen“, scheut nicht. Er hält kontinuierlich Vorträge in Taiwan – Shida, Chung Hsing, Yang Ming Chiao Tung haben seine Spuren. Er hat konkrete Beobachtungen zu Taiwans Langzeitpflege, Halbleiterstatus, KI-Startup-Ökosystem, nennt sogar, dass bereits ~15.000 Nutzer in Taiwan DeepMinds Protein-Strukturvorhersage-Tool nutzen.
+Doch auf der anderen Seite der Waagschale stehen ebenso reale Fakten. Er gibt Interviews auf Chinesisch und betont proaktiv, dass er „in Tamsui geboren und in Taiwan aufgewachsen“ sei, ohne dies zu beschönigen. Er hält regelmäßig Vorträge in Taiwan – seine Spuren finden sich an der NTNU, der Chung Hsing University und der NYCU. Er hat konkrete Beobachtungen zur Herausforderung der Langzeitpflege in Taiwan, zur Stellung der Halbleiterindustrie und zum KI-Startup-Ökosystem gemacht; er verwies sogar darauf, dass in Taiwan bereits etwa 15.000 Nutzer das Werkzeug von DeepMind zur Vorhersage von Proteinstrukturen verwenden.
 
-Am treffendsten für seine „drin und doch draußen“-Position ist, was er taiwanesischen Forschern sagte: „Diese Forschung, ich komm seit so vielen Jahren nach Taiwan zurück, jedes Mal rede ich drüber, aber ich seh nicht, dass taiwanesische Forscher … da viel machen. Braucht nicht viele Chips.“[^15]
+Am besten beschreibt seine Position als jemand, der „sowohl drinnen als auch draußen“ ist, eine Aussage, die er gegenüber taiwanischen Forschern machte: „Was diesen Forschungsbereich betrifft, so habe ich bei jedem meiner Besuche in Taiwan in den letzten Jahren darauf hingewiesen, aber ich habe keine taiwanischen Forscher gesehen, die ... in diesem Bereich viel unternehmen. Es ist Forschung, die man auch mit nicht allzu vielen Chips betreiben kann.“[^15]
 
-In diesem Satz ziehen zwei Identitäten. „Zurück nach Taiwan kommen“ spricht jemand, der sich zugehörig fühlt; „jedes Mal rede ich, aber keiner macht’s“ trägt die Distanz eines Außenseiters – wie jemand, der lange weg war, zurückkommt, eine Ecke im Haus sieht, die niemand aufräumt, sich sorgt, aber keine Kraft hat. Ob er „Taiwanesische Ehre“ ist, entscheidet dieser Artikel nicht. Fakten liegen vor, urteilen Sie selbst.
+In diesem Satz ringen zwei Identitäten miteinander. Er spricht davon, „nach Taiwan zurückzukehren“, was ihn als jemanden ausweist, der sich selbst hier zugehörig fühlt; doch das „jedes Mal darauf hingewiesen, aber niemand tut es“ trägt eine gewisse Distanz eines Außenstehenden in sich – wie jemand, der lange weg war und nach Hause kommt, um festzustellen, dass eine Ecke des Hauses immer noch ungeordnet ist; er ist besorgt, kann aber nicht wirklich eingreifen. Ob er als „Glanzstück Taiwans“ gilt, lässt dieser Artikel offen. Die Fakten liegen vor Ihnen – entscheiden Sie selbst.
 
 > 📊 **Er in Zahlen**
 
 ```tw-stat
-ca. 5.000 USD | Rechenleistung für Chain-of-Thought-Paper | Kontrast: Industrie hunderte Millionen
-ca. 114.000 | Google Scholar Gesamtzitationen | Davon 82 % nach 2021
-13 % → 83 % | OpenAI o1 Genauigkeit bei Math-Olympiade | o1 explizit auf Chain of Thought aufgebaut
+ca. US$ 5.000 | Rechenleistung für Chain-of-Thought-Paper | im Vergleich zu Hunderten Millionen US$ an Branchen-Aufrüstung
+ca. 114.000 | Gesamtzahl der Google Scholar Zitate | davon 82 % nach 2021
+13 % → 83 % | Genauigkeit von OpenAI o1 bei Mathematik-Olympiade-Aufgaben | o1 basiert explizit auf Chain of Thought
+Quelle: Interview mit Ji Huaixin (VK EP122), Google Scholar Zitatstatistik, OpenAI o1 System Card (arXiv 2412.16720)
 ```
 
-_Quellen: Ed H. Chi VK EP122 Interview, Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
+_Quelle: Interview mit Ji Huaixin (VK EP122), Google Scholar, OpenAI o1 System Card (arXiv 2412.16720)_
 
 ## Den Schluss zeigen – transparenter oder nur besser begründen
 

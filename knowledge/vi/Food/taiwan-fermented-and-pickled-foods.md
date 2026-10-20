@@ -1,15 +1,15 @@
 ---
-title: 'Văn hóa thực phẩm lên men và đồ muối của Đài Loan'
-description: 'Từ đậu phụ thối đến sữa đậu nành, khám phá truyền thống kỹ thuật lên men và văn hóa bảo quản độc đáo của Đài Loan'
+title: 'Thực phẩm lên men và văn hóa muối chua tại Đài Loan'
+description: 'Sự kết hợp giữa các kỹ thuật của người Mân Nam, người Khách Gia, người bản địa và Nhật Bản đã giúp văn hóa thực phẩm lên men và muối chua của Đài Loan phát triển một hệ thống hương vị độc đáo: từ đậu phụ thối nơi góc phố đến chao đậu phụ trong mỗi gia đình, từ dưa muối đến rượu nếp; đằng sau những thực phẩm tưởng chừng bình dị này là các nguyên lý khoa học sâu sắc và sự kế thừa văn hóa. Thực phẩm lên men vừa là một phần của ngành công nghiệp thực phẩm, vừa là cầu nối văn hóa kết nối ký ức dân tộc với đời sống hiện đại, ghi lại trí tuệ ẩm thực của hòn đảo.'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
     'thực phẩm lên men',
-    'văn hóa đồ muối',
+    'văn hóa muối chua',
     'đậu phụ thối',
-    'sữa đậu nành',
-    'dưa muối',
+    'chao đậu phụ',
+    'kim chi',
     'kỹ thuật truyền thống',
     'vi sinh vật',
   ]
@@ -26,10 +26,10 @@ imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T17:24:53.708062+00:00'
 ---
 
 # Văn hóa thực phẩm lên men và đồ muối của Đài Loan

@@ -21,10 +21,10 @@ readingTime: 13
 researchReport: '彎彎'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '7b817df18'
-sourceContentHash: 'sha256:c76ceb95afe3d363'
-sourceBodyHash: 'sha256:95ff72d4c67126fd'
-translatedAt: '2026-09-22T17:41:10+08:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:badc44913c40a806'
+sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
+translatedAt: '2026-10-15T02:35:20.247138+00:00'
 ---
 
 # Wānwān: Die kahloppige Figur, die der Generation der Angestellten ein Gesicht gab, und Hu Jiawei, die sie „zu einer historischen Persönlichkeit“ gemacht hat
@@ -114,27 +114,28 @@ Und wer diese kommerzielle Bahn in eine neue Ära führte, waren LINE-Sticker. A
 
 > 📝 **Kuratorische Anmerkung**: Wenn man Magnete, Bücher, Werbung, Filme und Sticker auflistet, liest man leicht eine „Erfolgsbilanz eines Künstlers“. Aber was unter dieser Liste verborgen ist, ist ein ruhigeres Thema, das überprüft wird: Vor Wānwān war die vorherrschende Vorstellung in der taiwanesischen Gesellschaft über „Zeichnen“ wahrscheinlich noch auf „Hobby“, „Talent“ oder „schwer zu leben“ beschränkt. Sie hat diese Annahme für alle entlarvt: Ein Designassistent, der kein Studium absolvierte und auf Baustellen herumrollte, konnte nur durch das Zeichnen seines Alltags selbst versorgen und gleichzeitig eine ganze Buchgattung am Laufen halten. Sie beantwortete für alle nachfolgenden Kreativen die realistischste Frage: „Wird dieser Weg hungern?“
 
-## Von MSN zu WEBTOON: Sie überspannte jede Plattform-Generation
+## Von MSN zu WEBTOON: Sie hat jede Generation der Plattformen durchlaufen
 
-Wenn man Wānwāns zwanzig Jahre betrachtet, merkt man etwas, das nur wenige Kreative schaffen konnten: Sie stand fast an der Schwelle jeder taiwanesischen Grafik- und Textplattform.
+Betrachtet man Wānwāns zwanzigjährige Karriere in ihrer Gesamtheit, wird eine Leistung sichtbar, die nur wenige Kreative erbringen können: Sie stand praktisch an den Einfallstoren jeder grafischen und textbasierten Plattform in Taiwan.
 
 ```tw-timeline
-2002 | MSN Firmenlogo | In einer Ära ohne Sticker sprach die kahle Figur für Angestellte
-2004 | Unnamed BBS Rekord | „Zufällig“ als Pionierin der Grafik und des Textes, um Jiu Ba Dao zu verfolgen
-2013 | LINE-Sticker mit cherng am selben Tag | Vom Blog-Zeitalter zur Ära der kostenpflichtigen Lizenzierung in mobilen Kommunikationssoftware
-2020 | Sanftes Abschiednehmen der Figur | „Die alte Wānwān ist gestorben“, die Figur reift gemeinsam mit ihr aus
+2002 | MSN-Profilbilder | In der Ära vor den Stickern drückte die Glatze die Gefühle von Büroangestellten aus
+2004 | Rekorde auf Wumings (Wuming Xiaozhan) | Um Blogs „beiläufig zu testen“, während sie Jiu Badao folgte, wurde sie unerwartet zur Pionierin für Text-Bild-Inhalte
+2013 | LINE-Sticker und cherng am selben Tag | Der Übergang von der Blog-Ära in die Ära der kostenpflichtigen Lizenzen für mobile Messenger-Apps
+2020 | Sanfter Rückzug der Figur | „Das alte Wānwān ist gestorben“ – sie ließ die Figur gemeinsam mit sich selbst erwachsen
+Quelle: In diesem Artikel zitierte Blog-, Verlags- und Plattformlizenzberichte (Meilenstein von 100 Millionen Aufrufen, Convenience-Store-Magneten, erste Welle der LINE-Sticker) [^6][^7][^10][^15]
 ```
 
-Zuerst waren es MSN-Firmenlogos (um 2002), dann die Blütezeit von Blogs auf Unnamed BBS und Pihke Bang (ab 2004), gefolgt vom Aufstieg der Facebook-Seiten, dem kostenpflichtigen Zeitalter der LINE-Sticker und später WEBTOON und Instagram mit vertikaler Scrollung und Algorithmussteuerung. Die Plattform LINE WEBTOON nannte sie „eine große Veteranin der Grafik und des Textes“ [^16]. Im Jahr 2014 veröffentlichte _Business Weekly_ einen Artikel mit dem Titel _Wānwān ist vorbei? Wenn du es nicht weißt, bist du veraltet! 10 neueste populäre Internetillustratoren_ [^17], der Duncan, Bāibai Jiūjiū und cherng als Nachfolger vorstellte. Mit anderen Worten: Wenn die Medien „die neue Generation“ vorstellen wollten, mussten sie zuerst Wānwān als Koordinatenursprung nehmen. Sie war das „Vorher“.
+Es begann mit MSN-Profilbildern (um 2002), gefolgt vom goldenen Zeitalter der Blogs auf Plattformen wie Wuming Xiaozhan und Pihke Bang (ab 2004). Danach folgten der Aufstieg von Facebook-Fanpages, die Ära der kostenpflichtigen LINE-Sticker und schließlich das vertikale Scrollen und algorithmengesteuerte Zeitalter von WEBTOON und Instagram. Die Plattform LINE WEBTOON bezeichnet sie als „Großveteranin der Text-Bild-Welt“ [^16]. Im Jahr 2014 veröffentlichte das _Business Weekly_ den Artikel 〈Wānwān Bāibāi? Wer es nicht weiß, ist bereits veraltet! Die 10 aktuellsten Internet-Illustratoren〉[^17]. Der Titel nutzt „Wānwān Bāibāi?“ als rhetorische Frage, um Nachwuchstalente wie Duncan, Bāibāi Jiūjiū und cherng einzuführen. Mit anderen Worten: Wenn die Medien vorstellen wollen, wer die „neue Generation“ ist, müssen sie Wānwān zuerst als Koordinatenursprung nutzen. Sie ist das „Davor“.
 
-![Wānwān LINE Sticker „Ich liebe meinen Job“](/article-images/people/wanwan-line-sticker.webp)
-_Von MSN-Firmenlogo zu LINE-Sticker: Die kahle Figur wechselte die Plattform, aber der Sarkasmus blieb derselbe: „Ich liebe meinen Job“ [^24]. — Fair use: Wānwān-Werk (LINE Sticker)_
+![Wānwān LINE-Sticker „Ich liebe meinen Job“](/article-images/people/wanwan-line-sticker.webp)
+_Vom MSN-Profilbild zum LINE-Sticker: Die Glatze hat die Plattform gewechselt, aber der Satz bleibt derselbe ironische Spruch: „Ich liebe meinen Job“ [^24]. — Fair use: Werk von Wānwān (LINE-Sticker)_
 
-Zu diesem zwanzigjährigen Plattformwechsel gab Wānwān selbst eine ihrer besten Metaphern. Sie verglich das Blog-Zeitalter mit dem Social-Media-Zeitalter: „Der Blog war wie eine Bibliothek, die man baut und organisiert, und dann kommen alle zu deinem Werk. Jetzt ist es wie ein Flyer verteilen; du musst sie einzeln verteilen und sehen, ob sie angenommen werden.“ [^18] Sie fuhr fort: „Deshalb denke ich, dass heutige Kreative zwar viele Chancen haben, aber auch härter arbeiten müssen.“ [^18]
+In Bezug auf diesen zwanzigjährigen Wandel der Plattformen lieferte Wānwān selbst eine der besten Metaphern, die ich je gehört habe. Sie verglich den Unterschied zwischen der Blog-Ära und dem Social-Media-Zeitalter: „Früher war ein Blog wie eine Bibliothek; wenn man sie gebaut und seine Sammlung sowie Werke ordentlich sortiert hatte, strömten die Leute zusammen, um sie anzusehen. Heute ist es eher so, als würde man Flyer verteilen – man muss sie einzeln verteilen und dann hoffen, dass auch jemand welche annimmt.“ [^18] Sie fügte hinzu: „Deshalb denke ich, dass es für heutige Kreative zwar viele Chancen gibt, aber auch anstrengender ist.“ [^18]
 
-Diese Metapher war zutreffend, weil sie beide Seiten kannte. Sie hatte die Bibliothek gebaut – das Goldene Zeitalter des Blogs, in dem hundert Millionen Besucher von selbst kamen. Und sie lebte im Algorithmus-Zeitalter, in dem man „Flyer verteilen musste“. Nur jemand, der zwei Epochen durchlebte, konnte diesen warmen Vergleich ziehen.
+Diese Metapher ist deshalb so treffend, weil sie an beiden Enden stand. Sie hat jene „Bibliothek“ gebaut, in die die Leute von selbst kamen – das war das goldene Zeitalter der Blogs, eine Zeit, in der die 100 Millionen Aufrufe organisch zustande kamen. Und sie hat auch das algorithmische Zeitalter überlebt, in dem man „Flyer einzeln verteilen muss“. Nur jemand, der zwei Ären durchlaufen hat, kann einen so lebendigen Vergleich ziehen.
 
-> 📝 **Kuratorische Anmerkung**: Die gängige Erzählung neigt dazu, Wānwān als „Träne der Unnamed BBS-Ära“ abzutun, als wäre sie ein Name, der von der Zeit verdrängt wurde und in der Vergangenheit blieb. Aber dieser Rahmen kehrt die Kausalität um. Sie ist nicht jemand, der von einer Plattform gefangen war und mit ihr versank; ganz im Gegenteil, sie stand bei jedem Wandel der Plattform am Eingang – MSN, Unnamed, LINE, WEBTOON, keiner fehlte. Was sie wirklich langsam von dem Symbol „Wānwān“ entfernte, war die Phase ihrer Person: vom Angestellten in ihren Zwanzigern zur Mutter. Die Plattformen veralten, aber die Entscheidung, die Figur aussteigen zu lassen, wurde bewusst getroffen.
+> 📝 **Anmerkung des Kurators**: In gängigen Erzählungen wird Wānwān oft als „Träne der Wuming-Xiaozhan-Ära“ bezeichnet, als wäre sie ein Name, der vom Zeitgeist überholt wurde und in der Vergangenheit zurückblieb. Doch dieser Rahmen vertauscht Ursache und Wirkung. Sie ist nicht jemand, der von einer Plattform gefangen gehalten wurde oder mit ihr unterging; im Gegenteil, sie gehört zu den wenigen, die bei jedem Generationenwechsel der Plattformen immer noch am Eingang standen – MSN, Wuming, LINE, WEBTOON, keine einzige verpasst. Was sie tatsächlich dazu brachte, sich langsam von der Ikone „Wānwān“ zu distanzieren, war ihr eigener Lebensabschnitt: vom Büroangestellten in ihren Zwanzigern hin zur Mutter. Plattformen werden veraltet, aber die Entscheidung, eine Figur aus dem Rampenlicht zu nehmen, ist eine aktive menschliche Entscheidung.
 
 ## Die Figur wird nicht alt, der Zeichner reift
 

@@ -1,28 +1,28 @@
 ---
-title: 'Chen Shu-chu : une vendeuse de légumes de Taidong, dont la vie caritative a généré des dizaines de millions en cinquante ans'
-description: "Une vendeuse de légumes de Taidong qui a donné des dizaines de millions avec l'argent de ses légumes pendant cinquante ans, mais qui se décrit comme « juste une vendeuse »."
+title: 'Chen Shu-chu : une marchande de légumes de Taitung qui a fait don de plusieurs dizaines de millions de NT$ sur cinquante ans'
+description: "Née en 1950, elle est marchande de légumes au marché central de Taitung. À l'âge de 13 ans, sa mère est décédée lors d'un accouchement difficile ; elle a alors quitté l'école pour vendre des légumes. Depuis plus de cinquante ans, elle donne ses revenus de vendeuse, petit à petit, à des écoles, des orphelinats et des hôpitaux, accumulant des dons de plusieurs dizaines de millions de NT$. En 2010, elle a figuré dans le classement des 100 personnalités les plus influentes du magazine TIME, recommandée personnellement par le réalisateur Ang Lee, avant de recevoir le prix Magsee. Elle dit d'elle-même : « Je ne suis qu'une vendeuse de légumes »."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Personnage',
-    'charité',
-    'Taidong',
-    'vendeuse de légumes',
-    "magazine d'époque",
-    'prix Magseese',
-    'don éducatif',
+    'Personnalité',
+    'Charité',
+    'Taitung',
+    'Marchande de légumes',
+    'Magazine TIME',
+    'Prix Magsee',
+    "Dons pour l'éducation",
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-10T18:19:10+08:00'
+translatedAt: '2026-10-15T23:21:37.110406+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Chen Shu-chu (陳樹菊), née en 1950, est une vendeuse au marché central de Taidong. À l'âge de 13 ans, elle a dû abandonner ses études pour vendre des légumes après la mort de sa mère lors d'un accouchement difficile. Au cours des cinquante années suivantes, elle a donné plusieurs dizaines de millions aux écoles, orphelinats et hôpitaux. En 2010, elle a été l'une des cent personnalités influentes du monde dans le magazine _Time_, recommandée par le réalisateur Ang Lee. Lorsqu'elle a reçu son prix à New York, elle a déclaré : « Je ne suis qu'une vendeuse de légumes. »[^1]

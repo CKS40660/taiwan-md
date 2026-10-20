@@ -1,28 +1,28 @@
 ---
-title: 'Chen Shu-chu: uma vendedora de legumes de Taitung, que doou dezenas de milhões com o dinheiro de cinquenta anos de venda de hortaliças'
-description: 'Uma vendedora de legumes de Taitung, que doou dezenas de milhões com o dinheiro de cinquenta anos de venda, mas diz ser "apenas uma vendedora de legumes"'
+title: 'Chen Shu-chu: Uma vendedora de vegetais de Taitung que doou dezenas de milhões ao longo de cinquenta anos em uma vida de caridade'
+description: 'Nascida em 1950, é uma vendedora de vegetais no Mercado Central de Taitung. Aos 13 anos, sua mãe faleceu devido a complicações no parto; ela abandonou os estudos para começar a vender vegetais e, desde então, por mais de cinquenta anos, doou cada centavo de seus lucros para escolas, orfanatos e hospitais, acumulando dezenas de milhões de NT$. Em 2010, foi incluída na lista das 100 pessoas mais influentes da revista Time, com uma recomendação escrita pelo diretor Ang Lee, e posteriormente recebeu o Prêmio Magsee. Ela diz que é "apenas uma vendedora de vegetais".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Personalidades',
-    'Filantropia',
+    'Caridade',
     'Taitung',
-    'Vendedora de legumes',
+    'Vendedora de vegetais',
     'Revista Time',
-    'Prêmio Ramon Magsaysay',
+    'Prêmio Magsee',
     'Doações para educação',
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-09T15:32:34+08:00'
+translatedAt: '2026-10-15T18:53:59.220423+00:00'
 ---
 
 > **Resumo em 30 segundos:** Chen Shu-chu, nascida em 1950, vendedora de legumes no Mercado Central de Taitung. Aos 13 anos, abandonou a escola para vender legumes após a morte da mãe em trabalho de parto; nos mais de cinquenta anos seguintes, doou cumulativamente dezenas de milhões para escolas, orfanatos e hospitais. Em 2010, figurou na lista das 100 pessoas mais influentes do mundo da revista _Time_, com recomendação escrita pelo diretor Ang Lee. Ao receber o prêmio em Nova York, disse: "Sou apenas uma vendedora de legumes."[^1]

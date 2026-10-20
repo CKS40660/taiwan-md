@@ -1,9 +1,9 @@
 ---
 title: '어드밴텍'
-description: '대만에서 출발한 글로벌 산업용 컴퓨터 선도 기업이자 IoT 지능형 시스템의 선구자'
+description: "1983년 세 명의 전 HP 엔지니어가 설립한 산업용 컴퓨터 기업으로, 현재 글로벌 산업용 컴퓨터 선도 기업으로 성장했으며, 산업용 사물인터넷(IoT) 및 엣지 컴퓨팅 솔루션에 주력하고 있습니다. 전 세계 27개국에 거점을 두고 있으며 직원 수는 약 9천 명에 달합니다. 초기 산업용 컴퓨터 제조업체에서 '지능형 지구의 추동자'로 전환하여 제조, 의료, 교통, 소매 등 다양한 분야에 디지털 전환의 핵심 기술을 제공하고 있습니다."
 date: 2026-03-20
 category: 'Economy'
-tags: ['경제', '기업', '산업용 컴퓨터', 'IoT']
+tags: ['경제', '기업', '산업용 컴퓨터', '사물인터넷']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:56:16.564306+00:00'
+translatedAt: '2026-10-15T21:33:30.888504+00:00'
 ---
 
 > **30초 개요**

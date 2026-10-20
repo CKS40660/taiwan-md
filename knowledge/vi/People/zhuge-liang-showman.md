@@ -1,19 +1,19 @@
 ---
-title: 'Trư Ca Lượng'
-description: 'Đại diện văn hóa sân khấu ca kịch Đài Loan, diễn viên hài quốc dân, qua đời năm 2017'
+title: 'Trư Ca Lương'
+description: 'Tên thật là Tạ Tân Đạt, sinh năm 1946 tại Tả Vinh, Cao Hùng. Cha làm thợ rèn, mẹ bán rau. Sau khi tốt nghiệp tiểu học thì bỏ học, 15 tuổi làm đệ tử học kịch Ca Tử. Thập niên 1960, anh khởi nghiệp bằng cách bắt chước các ca sĩ ở chợ đêm. Thập niên 1970, kinh tế Taiwan cất cánh, nhu cầu giải trí ban đêm tăng lên, văn hóa sưu tràng ứng vận mà sinh. Anh dung hợp kịch truyền thống, thuyết ca dân gian và yếu tố phổ biến thành «hài hước kiểu Trư», dùng tiếng Đài Loan viết thơ tức thì để đưa ngôn ngữ bình dân lên các chương trình tổng nghệ truyền hình. Tháng 5 năm 2017, anh qua đời vì ung thư đại tràng.'
 date: 2026-03-19
 category: 'People'
-tags: ['Trư Ca Lượng', 'sân khấu ca kịch', 'hài kịch', 'tạp kỹ', 'tiếng Đài']
+tags: ['Trư Ca Lương', 'Sưu tràng', 'Kịch hài', 'Tổng nghệ', 'Tiếng Đài Loan']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'f712b724'
-sourceContentHash: 'sha256:9339a35ccebb0ba3'
+sourceCommitSha: '9be0c5314'
+sourceContentHash: 'sha256:d55c93f02208554f'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-07-31T16:01:07Z'
+translatedAt: '2026-10-16T00:07:03.105995+00:00'
 ---
 
 # Trư Ca Lượng: Vua sân khấu ca kịch quốc dân của Đài Loan
@@ -130,12 +130,12 @@ Các nhà ngôn ngữ học phân tích cấu trúc của khiếu hài kiểu Tr
 
 ## Tài liệu tham khảo
 
-[^1]: Mục từ "豬哥亮" trên Wikipedia tiếng Trung, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, nơi sinh: quận Tả Doanh, thành phố Cao Hùng
+[^1]: Bài mục «Trư Ca Lương» trên Wikipedia, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, nơi sinh: Quận Tả Vinh, Thành phố Cao Hsiung.
 
-[^2]: Liberty Times, "Lễ tang Trư Ca Lượng: Vạn người tiễn đưa", https://news.ltn.com.tw/, ngày 21 tháng 5 năm 2017
+[^2]: Báo Tự Do «Lễ tiễn biệt Trư Ca Lương, vạn người tiễn đưa», https://news.ltn.com.tw/, ngày 21 tháng 5 năm 2017.
 
-[^3]: Cơ sở dữ liệu truyền hình Đài Loan, https://tv.nccu.edu.tw/, hồ sơ chương trình _Trư Ca Hội Xã_
+[^3]: Cơ sở dữ liệu truyền hình Đài Loan, https://tv.nccu.edu.tw/, bản ghi chương trình «Hội xã Trư Ca».
 
-[^4]: CNA (Central News Agency), "Đại Vĩ Lô Man thu hơn 300 triệu Đài tệ", https://www.cna.com.tw/, báo cáo doanh thu phòng vé tháng 2 năm 2013
+[^4]: Thông tấn xã Trung ương «Doanh thu vé 'Đuôi lớn cá chẽ' vượt 3 tỷ NT$», https://www.cna.com.tw/, báo cáo doanh thu vé tháng 2 năm 2013.
 
-[^5]: UDN (United Daily News), "Trư Ca Lượng qua đời ngày 15/5, hưởng thọ 70 tuổi", https://udn.com/, ngày 15 tháng 5 năm 2017
+[^5]: Mạng lưới tin tức Liên hợp «Trư Ca Lương qua đời ngày 15 tháng 5, hưởng thọ 70 tuổi», https://udn.com/, ngày 15 tháng 5 năm 2017.

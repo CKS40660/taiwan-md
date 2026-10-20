@@ -1,0 +1,3 @@
+# 植錯篇與其閱卷輸出含植入文字，只留本機（見 mutations.json 說明）
+view/mut-*.md
+out/mutant/

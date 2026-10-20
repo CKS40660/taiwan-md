@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:6c850ed56b9fd45a'
-sourceBodyHash: 'sha256:f9ebc993a34e1749'
-translatedAt: '2026-09-07T18:34:25.768274+00:00'
+sourceCommitSha: 'ad1003d60'
+sourceContentHash: 'sha256:741e9553e6d863d3'
+sourceBodyHash: 'sha256:e3564c2899c65b1e'
+translatedAt: '2026-10-15T03:32:33.571743+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
@@ -36,25 +36,26 @@ Pada tahun 2018, Resun yang berusia 19 tahun tidak menganggap 1 juta pelanggan s
 
 Dua kalimat ini, meski telah berlalu bertahun-tahun, masih sangat mirip dengan Resun: di satu sisi ia meremehkan prestasinya, di sisi lain ia dengan jujur mengakui bahwa semakin besar kamera, ruang untuk bergerak dengan bebas justru semakin kecil. Dari siaran permainan video di kamar siswa SMP, hingga dua saluran berpelanggan satu juta, rumah baru, dan pacar, catatan publik yang melintasi empat belas tahun kalender memungkinkan penonton melihat saluran yang membesar, dan juga melihat pemilik saluran tersebut tumbuh dewasa secara perlahan.
 
-## Seorang Siswa SMP Mengubah Kamar Menjadi Studio Perekaman
+## Seorang Siswa Kelas 2 SMP Mengubah Kamarnya Menjadi Studio
 
-Laporan tahun 2018 mencatat bahwa Resun mulai merekam video sejak kelas dua SMP, awalnya membuat siaran permainan video. Kemudian merasa bentuk asli tidak bisa dilanjutkan, terpengaruh oleh YouTuber Jepang, ia beralih ke materi seperti eksperimen, unboxing, dan legenda urban. Pada bulan Agustus tahun itu, saluran utamanya "Ren Sheng Fei Zhai x Resun" (Orang Malas Hidup x Resun) telah memiliki 1,2 juta pelanggan; ia yang berusia 19 tahun disebut sebagai YouTuber berpelanggan satu juta termuda di Taiwan saat itu. [^1]
+Laporan tahun 2018 mencatat bahwa Resun mulai membuat video sejak kelas 2 SMP, awalnya dengan konten _gameplay_. Kemudian, karena merasa format tersebut tidak bisa dilanjutkan, ia terinspirasi oleh YouTuber Jepang dan beralih ke tema eksperimen, unboxing, serta legenda urban. Pada Agustus tahun itu, saluran utamanya 「人生肥宅x尊」 telah memiliki 1,2 juta pelanggan, dan di usia 19 tahun, ia dijuluki sebagai YouTuber dengan satu juta pelanggan termuda di Taiwan saat itu. [^1]
 
-Titik awal ini penting karena Resun kemudian masih akan secara terbuka membuka video-video awal, menjadikan imitasi dan ketidakkakuannya sebagai bahan tertawaan. [^2] Masa remaja tidak diurutkan menjadi sebuah CV yang indah, melainkan sebagai sejarah hitam, gambar lama, dan peninjauan ulang kemudian, kembali masuk ke dalam video baru berulang kali. Catatan yang melintasi empat belas tahun kalender ini karenanya memiliki titik awal yang terlihat secara awal.
+Titik awal ini penting karena Resun nantinya sering secara terbuka memutar kembali video-video lamanya, menjadikan imitasi diri sendiri yang masih mentah sebagai bahan lelucon. [^2] Masa remajanya tidak disusun menjadi sebuah resume yang rapi, melainkan hadir melalui "sejarah hitam", cuplikan lama, dan tinjauan ulang di kemudian hari yang berulang kali muncul dalam video-video barunya. Rekaman yang melintasi empat belas tahun kalender ini pun memiliki titik awal yang dapat terlihat sejak dini.
 
-![Resun memegang gambar video awal dalam thumbnail video回顾 sejarah hitam resmi](/article-images/people/zun-old-video-review-2017.webp)
+![Resun memegang cuplikan video lamanya dalam thumbnail video ulasan sejarah hitam resmi](/article-images/people/zun-old-video-review-2017.webp)
 
-Ketika video-video awal diputar ulang oleh dirinya sendiri, konten juga berubah fungsi. Saat diunggah pertama kali, mereka adalah karya yang ingin menarik penonton. Muncul kembali bertahun-tahun kemudian, mereka menjadi materi bagi Resun masa kini untuk mengomentari dirinya sendiri di masa lalu. Penonton melihat dua waktu secara bersamaan: remaja di dalam gambar yang belum terampil, dan kreator di luar gambar yang sudah tahu bagian mana yang canggung, mana yang imitasinya terlalu jelas. Peninjauan ulang diri ini lebih hangat daripada garis waktu tonggak sejarah, karena perubahan langsung tersisa dalam nada dan reaksi.
+Saat ia memutar kembali video-video lamanya, konten tersebut juga mengalami perubahan fungsi. Saat pertama kali diunggah, video-video itu adalah karya untuk menarik penonton. Bertahun-tahun kemudian saat muncul kembali, video tersebut menjadi sarana bagi Resun yang sekarang untuk mengomentari materi masa lalunya sendiri. Penonton melihat dua garis waktu sekaligus: remaja yang belum mahir di dalam layar, dan kreator di luar layar yang sudah tahu bagian mana yang canggung atau imitasi mana yang terlalu kentara. Tinjauan diri seperti ini terasa lebih hangat daripada sekadar lini masa pencapaian, karena perubahan tersebut tertinggal langsung dalam nada bicara dan reaksinya.
 
-Wawancara tahun 2018 itu sendiri juga merupakan irisan waktu. Ia dapat mengonfirmasi Resun mulai merekam sejak kelas dua SMP, beralih dari permainan ke eksperimen, dan mencatat usia sembilan belas tahun serta 1,2 juta pelanggan, namun tidak dapat mengisi CV lengkap untuk setiap tahun sebelumnya. Setelah video lama dikunci atau berserakan, video peninjauan ulang kemudian menjadi salah satu dari sedikit catatan diri yang masih terlihat. Artikel ini mempertahankan ketidaklengkapan itu: kami tahu ia mulai sangat awal, dan dapat melihatnya menertawakan ketidakkakuannya kembali, namun tidak mengisi video pertama, peralatan, atau dukungan keluarga yang tidak ditemukan menjadi sebuah adegan.
+Wawancara tahun 2018 itu sendiri merupakan sebuah potongan waktu. Ia dapat mengonfirmasi bahwa Resun mulai merekam sejak kelas 2 SMP dan beralih dari _game_ ke eksperimen, serta mencatat usia sembilan belas tahun dengan 1,2 juta pelanggan, namun ia tidak bisa melengkapi resume secara utuh untuk setiap tahun sebelumnya. Setelah video lama dikunci atau tersebar, video ulasan di kemudian hari menjadi sedikit dari sekian banyak anotasi diri yang masih dapat dilihat. Artikel ini mempertahankan ketidaklengkapan tersebut: kita tahu dia memulai sangat awal, dan kita bisa melihatnya menertawakan kekurangannya, namun kami tidak mengisi celah tentang video pertama yang hilang, peralatan, atau dukungan keluarga sebagai sebuah latar belakang cerita.
 
 ```tw-stat
-Kelas 2 SMP | Mulai mengunggah siaran permainan video | Sekitar tahun 2012
-Usia 19 | YouTuber berpelanggan satu juta termuda di Taiwan saat itu | Laporan tahun 2018
-2 | Saluran utama dan samping melampaui satu juta | Akhir tahun 2024
+Kelas 2 SMP | Mulai mengunggah gameplay | Sekitar tahun 2012
+19 Tahun | YouTuber satu juta pelanggan termuda di Taiwan saat itu | Laporan tahun 2018
+2 Saluran | Baik saluran utama maupun sekunder telah menembus satu juta | Akhir tahun 2024
+Sumber: Wawancara media tahun 2018 (mulai merekam sejak kelas 2 SMP, 1,2 juta pelanggan di usia 19 tahun) dan laporan catatan saluran berikutnya[^1][^2]
 ```
 
-📝 Catatan Kurator: Resun sendiri mengakui bahwa "awal" membawa keuntungan platform. Bagi pembaca, memulai lebih awal memiliki makna tambahan: setiap peninjauan ulang kemudian dapat menemukan gambar lama yang ditinggalkan oleh siswa SMP tersebut.
+📝 Catatan Kurator: Resun sendiri mengakui bahwa memulai "lebih awal" memberikan keuntungan platform. Bagi pembaca, memulai lebih awal juga memiliki makna tambahan: setiap kali ia melakukan tinjauan ulang di kemudian hari, mereka dapat menemukan cuplikan lama yang ditinggalkan oleh siswa kelas 2 SMP tersebut.
 
 ## Pelanggan Satu Juta Menukar Kebebasan dengan Sebuah Beban
 
@@ -72,28 +73,29 @@ Kreator mengisi suara gambar yang disediakan oleh produsen, secara inherent tida
 
 Ini bukan peristiwa yang dapat dilewati dengan empat kata "runtuhnya citra Arus Jernih". Ini secara konkret menunjukkan bahwa pemuda tahun 2018 yang masih mengatakan pendapatan utamanya berasal dari tontonan, jarang melakukan afiliasi saat itu, setelah saluran menjadi pekerjaan jangka panjang, sama-sama mungkin membuat penilaian komersial yang terburu-buru. Tanggapan Resun tidak membuat kesalahan menghilang, setidaknya menempatkan tanggung jawab kembali pada dirinya sendiri, bukan hanya menyalahkan produsen.
 
-## Setelah Kakak Melakukan Kejahatan, Resun Menjawab Posisi Dirinya
+## Setelah Kakaknya Melakukan Kejahatan, Resun Menjawab Posisinya
 
-Ujian yang lebih sulit terjadi lebih awal pada tahun 2021. Kakak Resun, Zhu Yu-chin (Zhu Yuchen), yaitu YouTuber Xiao Yu, diselidikan karena membuat dan menjual video pornografi Deepfake face-swap. Kasus ini memiliki 119 korban, pendapatan kejahatan melebihi 10 juta NTD. Pada tahun 2024, Mahkamah Agung mempertahankan putusan banding kedua; bagian yang tidak dapat diganti dengan denda harus menjalani hukuman penjara 5 tahun,另有 1 tahun 8 bulan dapat diganti dengan denda. [^4]
+Tantangan yang lebih sulit terjadi pada tahun 2021. Kakak Resun, Zhu Yu-chen, yang juga merupakan YouTuber Xiao Yu, diselidiki karena memproduksi dan menjual video porno menggunakan teknologi _deepfake_. Kasus ini melibatkan total 119 korban, dengan hasil kejahatan melebihi NT$10 juta. Pada tahun 2024, Mahkamah Agung mempertahankan putusan pengadilan tingkat kedua, di mana bagian yang tidak dapat diganti dengan denda harus menjalani hukuman penjara selama 5 tahun, ditambah dengan 1 tahun 8 bulan yang dapat diganti dengan denda. [^4]
 
-Ini bukan "badang selebritas internet" yang abstrak. Putusan mengakui bahwa Xiao Yu dan asistennya menggabungkan fitur wajah figur publik ke dalam video pornografi, menyediakan untuk ditonton dengan bayaran. Pengadilan banding kedua menunjukkan bahwa setelah gambar jaringan beredar, sulit dihilangkan sepenuhnya, martabat, reputasi, dan kerusakan mental korban juga sulit dipulihkan. Dari 119 orang, 83 orang mengajukan gugatan atas fitnah,另 36 orang tidak mengajukan gugatan. [^4] Menempatkan angka-angka ini di depan, karena keluarga tidak dapat menggantikan posisi korban di masa depan.
+Ini bukanlah sekadar "skandal selebritas internet" yang abstrak. Putusan pengadilan menetapkan bahwa Xiao Yu dan asistennya menggabungkan fitur wajah tokoh publik ke dalam video porno untuk menyediakan layanan tontonan berbayar. Pengadilan tingkat kedua menunjukkan bahwa setelah gambar tersebar di internet, sangat sulit untuk menghapusnya sepenuhnya, sehingga martabat, reputasi, dan kerugian mental para korban pun sulit untuk dipulihkan. Dari 119 orang tersebut, 83 orang mengajukan gugatan pencemaran nama baik, sementara 36 lainnya tidak menuntut. [^4] Angka-angka ini diletakkan di depan karena anggota keluarga mana pun di kemudian hari tidak dapat menggantikan posisi para korban.
 
-Setelah kasus terungkap, Resun menyatakan di Instagram Stories bahwa Xiao Yu tidak pernah memberi tahu keluarga apa yang dilakukannya. Ia meminta maaf kepada korban, dan menyatakan tidak akan memotong hubungan saudara. Kalimat terakhirnya adalah: "Terjadi terlalu banyak hal sekaligus, saya benar-benar lelah." [^5]
+Setelah kasus ini terungkap, Resun menyatakan melalui Instagram Stories bahwa Xiao Yu tidak pernah memberi tahu keluarganya tentang apa yang ia lakukan. Ia meminta maaf kepada para korban dan juga menyatakan bahwa ia tidak akan memutuskan hubungan persaudaraan. Kalimat terakhirnya adalah: "Terlalu banyak hal yang terjadi sekaligus, saya benar-benar lelah." [^5]
 
-Dalam tanggapan publik yang sama, ia mengatakan bahwa kakak melakukan kesalahan harus menanggung sendiri, tidak ada yang perlu dilindungi, selanjutnya diserahkan kepada putusan hukum. [^5] Makna ini lebih dapat menjelaskan batasannya daripada "memotong" atau "tidak memotong". Resun tidak memiliki wewenang menentukan tanggung jawab pidana untuk kakaknya, dan tidak mungkin hanya mengandalkan satu pernyataan untuk menghilangkan hubungan kekerabatan. Yang dapat dilakukannya adalah mengakui bahwa ia tidak tahu sebelumnya, meminta maaf kepada korban, dan menyerahkan tanggung jawab kejahatan kembali kepada pelaku dan prosedur peradilan.
+Dalam tanggapan publik yang sama, ia mengatakan bahwa jika kakaknya melakukan kesalahan, maka ia harus menanggungnya sendiri, tidak ada gunanya membela, dan selanjutnya diserahkan kepada keputusan hukum. [^5] Makna ini lebih menjelaskan batasannya daripada sekadar kata "memutuskan hubungan" atau "tidak memutuskan hubungan". Resun tidak memiliki wewenang untuk menentukan hukuman bagi kakaknya, dan tidak mungkin menghapus hubungan kekeluargaan hanya dengan sebuah pernyataan. Yang bisa ia lakukan adalah mengakui bahwa ia tidak tahu sebelumnya, meminta maaf kepada para korban, lalu mengembalikan tanggung jawab kriminal kepada pelaku dan proses hukum.
 
-Tanggapan ini awalnya ditempatkan di Instagram Stories, biasanya menghilang setelah dua puluh empat jam. Kontennya masih dapat dilacak hari ini karena berita pada hari yang sama menyimpan screenshot dan teks. Ini juga mengungkapkan kerapuhan "catatan publik": video YouTube mungkin tetap online dalam jangka panjang, namun Stories, komentar, dan angka platform akan menghilang atau berubah. Oleh karena itu, artikel ini hanya mengutip kalimat yang disimpan secara akurat oleh media pada hari tersebut, tidak memproses ulang ringkasan yang beredar kemudian menjadi pengakuan yang lebih indah.
+Tanggapan ini awalnya diunggah di Instagram Stories, yang biasanya akan hilang setelah dua puluh empat jam. Konten tersebut masih dapat ditelusuri hari ini karena media pada hari yang sama menyimpan tangkapan layar dan teksnya. Hal ini juga mengungkap kerapuhan "catatan publik": video YouTube mungkin tetap daring dalam jangka panjang, namun Stories, komentar, dan angka-angka di platform dapat hilang atau berubah. Oleh karena itu, artikel ini hanya mengutip kata-kata yang memang disimpan oleh media pada hari tersebut, dan tidak mengolah kembali ringkasan yang beredar kemudian menjadi pengakuan yang lebih indah.
 
-Tanggung jawab kejahatan milik Xiao Yu, Resun bukan pelaku kasus. Resun memilih untuk tidak menyangkal hubungan saudara, tidak berarti membela kejahatan. Teksnya saat itu menjadi tak terlupakan justru karena tidak memberikan jawaban yang bersih dan menyenangkan: seseorang dapat mengutuk apa yang dilakukan keluarga, sambil mengakui bahwa darah tidak akan hilang karena pernyataan.
+Tanggung jawab kriminal adalah milik Xiao Yu; Resun bukanlah pelaku dalam kasus ini. Pilihan Resun untuk tidak menyangkal hubungan persaudaraan tidak berarti ia membela kejahatan tersebut. Alasan mengapa kata-katanya saat itu sulit dilupakan adalah karena ia tidak memberikan jawaban yang bersih atau menyenangkan: seseorang dapat mengecam apa yang dilakukan keluarganya, sekaligus mengakui bahwa ikatan darah tidak akan hilang hanya karena sebuah pernyataan.
 
-Di paragraf sebelumnya, Resun harus bertanggung jawab atas penilaian afiliasinya sendiri. Di paragraf ini, ia dapat menjawab posisi sebagai anggota keluarga, tidak dapat menggantikan kakaknya menanggung tanggung jawab pidana. Catatan publik sampai di sini, telah meninggalkan ruang murni permainan remaja. Pasangan dan tempat tinggal muncul kembali kemudian, tanggung jawab dan hari-hari biasa tetap berdampingan dalam kehidupan dewasa yang sama.
+Pada bagian sebelumnya, Resun perlu bertanggung jawab atas penilaiannya terhadap kerja sama iklan (_endorsement_). Pada bagian ini, yang bisa ia jawab adalah posisi sebagai anggota keluarga; ia tidak bisa menggantikan kakaknya untuk menanggung hukuman pidana. Catatan publik telah sampai pada titik di mana ia telah meninggalkan ruang sederhana dari masa remaja yang penuh eksperimen. Dengan kemunculan kembali pasangan dan tempat tinggal barunya, tanggung jawab dan kehidupan sehari-hari tetap berdampingan dalam fase kehidupan dewasa yang sama.
 
 ```tw-timeline
-2018 | Saluran utama melampaui satu juta | Usia 19, media menyebut termuda di Taiwan saat itu
-2021 | Kasus kakak terungkap | Resun meminta maaf kepada korban, secara eksplisit tidak memotong darah
-2023 | Kesalahan afiliasi Pocket Empire | Mengakui penerimaan terburu-buru dan kelalaian pengawasan
-2024 | Saluran samping melampaui satu juta | Dua garis konten dengan nada berbeda telah melampaui satu juta
-2025 | Kamera masuk ke rumah baru | Saluran dari eksperimen remaja meluas ke kehidupan dewasa
+2018 | Saluran utama melampaui satu juta | Usia 19 tahun, media menyebutnya sebagai yang termuda di Taiwan saat itu
+2021 | Kasus kakak terungkap | Resun meminta maaf kepada korban, menyatakan tidak akan memutuskan hubungan darah
+2023 | Kesalahan iklan Pocket Empire | Mengakui kecerobohan dalam menerima proyek dan kelalaian pengawasan
+2024 | Saluran kedua melampaui satu juta | Dua lini konten dengan nuansa berbeda sama-sama mencapai satu juta pelanggan
+2025 | Kamera beralih ke rumah baru | Saluran berkembang dari eksperimen masa remaja menuju keseharian dewasa
+Sumber: Kutipan laporan tahunan dan putusan pengadilan dalam artikel ini (Milestone langganan 2018, Kasus 2021, Kontroversi iklan 2023, Satu juta saluran kedua 2024) [^1][^3][^4][^5]
 ```
 
 ## Kehidupan Mulai Menembus Saluran yang Berbeda

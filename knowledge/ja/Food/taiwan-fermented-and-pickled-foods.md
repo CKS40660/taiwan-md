@@ -1,10 +1,18 @@
 ---
-title: '台湾の発酵食品と醃製文化'
-description: 'から臭豆腐到豆腐乳まで、台湾独特の発酵技術と醃製文化の伝統を探る'
+title: '台湾の発酵食品と漬物文化'
+description: '閩南、客家、先住民族、そして日本式の技術が融合した台湾の発酵食品と漬物文化は、独自の風味体系を発展させてきました。街角で親しまれる臭豆腐から家庭で作られる豆腐乳、漬物から酒醸に至るまで、一見ありふれたこれらの食品の背後には、深い科学的原理と文化の継承が隠されています。発酵食品は食品産業の一環であると同時に、民族の記憶と現代生活をつなぐ文化の架け橋であり、この島の食の知恵を記録しています。'
 date: 2026-03-18
 category: 'Food'
 tags:
-  ['発酵食品', '醃製文化', '臭豆腐', '豆腐乳', 'キムチ', '伝統技術', '微生物']
+  [
+    '発酵食品',
+    '漬物文化',
+    '臭豆腐',
+    '豆腐乳',
+    'キムチ・漬物',
+    '伝統技術',
+    '微生物',
+  ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
@@ -13,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'シナジン臭豆腐'
+imageAlt: '西鎮の臭豆腐'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-15T22:04:29.740811+00:00'
 ---
 
 # 台湾の発酵食品と醃製文化

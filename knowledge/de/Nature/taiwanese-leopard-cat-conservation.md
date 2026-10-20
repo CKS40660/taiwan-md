@@ -1,13 +1,13 @@
 ---
-title: 'Schutz des malaiischen Leoparden in Taiwan'
-description: 'Der Geistkatze, von weniger als 500 Exemplaren in ganz Taiwan, am Rande des Verschwindens – die letzte einheimische Katze'
+title: 'Schutz des Taiwan-Leopardenkatzen'
+description: 'Nach dem Aussterben der Nebelparder bleibt die Taiwan-Leopardenkatze die letzte heimische Felide; sie lebt in den Hügeln von Miaoli, Nantou und Taichung und ist durch Straßenunfälle und Lebensraumverlust stark gefährdet.'
 date: 2026-03-18
 category: 'Nature'
 tags:
   [
-    'malaiischer Leopard',
-    'Schutz',
-    'Verkehrstod',
+    'Taiwan-Leopardenkatze',
+    'Naturschutz',
+    'Straßenunfall',
     'Lebensraum',
     'Miaoli',
     'gefährdete Arten',
@@ -20,184 +20,184 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: '825528805'
+sourceCommitSha: '0471d07ff'
 sourceContentHash: 'sha256:53a697c302d622a3'
 sourceBodyHash: 'sha256:7ed841e26f0abf1f'
-translatedAt: '2026-10-02T09:54:54+08:00'
+translatedAt: '2026-10-15T15:59:57+08:00'
 ---
 
-# Schutz des malaiischen Leoparden in Taiwan
+# Schutz der Taiwan-Leopardenkatze
 
-## Kurzübersicht
+## 30-Sekunden-Überblick
 
-Taiwan hatte einst den Nebelparden (Clouded Leopard), der 2013 offiziell als ausgestorben erklärt wurde. Die letzte einheimische Katze auf Taiwan ist nun der **malaiische Leopard** (_Prionailurus bengalensis_). Es wird geschätzt, dass weniger als 500 Exemplare in ganz Taiwan leben, und die Zahl nimmt weiter ab. Dies ist keine statische Zahl, sondern eine kontinuierlich fallende Linie.
+In Taiwan gab es einst Nebelparder, doch diese wurden 2013 offiziell für ausgestorben erklärt. Heute ist die letzte heimische Felide (Raubkatze) Taiwans nur noch eine einzige Art – die **Taiwan-Leopardenkatze** (_Prionailurus bengalensis_). Man schätzt, dass es in ganz Taiwan weniger als 500 Tiere gibt, und die Zahl sinkt stetig. Dies ist keine statische Zahl, sondern eine fallende Linie.
 
-Wenn wir nichts unternehmen, könnte die nächste Art, die aussterben kündigt, bereits in dieser Generation sein.
+Wenn wir nichts unternehmen, könnte das nächste ausgestorbene Tier noch in dieser Generation verkündet werden.
 
-Er lebt nicht tief im Gebirge. Er lebt in den niedrigeren Bergregionen von Miaoli, Nantou und Taichung – dort, wo der menschliche Entwicklungsdruck am größten ist. Wenn er über die Straße läuft, wird er vom Verkehr getötet; sein Jagdgebiet wird zu einer Fabrik umgebaut; die Hühner, die er fängt, machen die Bauern wütend; selbst streunende Hunde töten ihn. Die Geschichte des malaiischen Leoparden ist der schärfste Konflikt zwischen „Entwicklung“ und „Schutz“ in Taiwan.
+Sie lebt nicht in tiefen Bergen. Ihr Lebensraum sind die niedrig gelegenen Hügelgebiete von Miaoli, Nantou und Taichung – genau jene Gebiete, die durch menschliche Erschließung am stärksten unter Druck stehen. Sie wird beim Überqueren von Straßen von Autos erfasst, ihre Jagdgründe werden durch Fabriken versiegelt, ihr Beutetiere (wie Hühner) führen zu Konflikten mit Landwirten, und sogar streunende Hunde greifen sie an. Die Geschichte der Taiwan-Leopardenkatze ist der schärfste direkte Konflikt zwischen „Entwicklung“ und „Naturschutz“ in Taiwan.
 
-**Wichtige Daten:**
+**Eckdaten:**
 
-- Geschätzte Anzahl auf Taiwan: **weniger als 500**
-- Hauptlebensräume: niedrige Bergregionen von Miaoli, Nantou, Taichung
-- Verkehrstodmeldungen (2017–2023): über **130**
-- Der malaiische Leopard ist in Taiwan als **Wildtier der ersten Schutzklasse** eingestuft.
-- Er ist die einzige noch existierende einheimische Katze auf Taiwan.
-
----
-
-## Warum es wichtig ist
-
-Der malaiische Leopard ist nicht nur wegen seiner Art wichtig. Er ist eine **Indikatorart für das leicht bergige Ökosystem**. Wenn der malaiische Leopard gut lebt, bedeutet dies, dass die gesamte leichte Bergumgebung (Frösche, Mäuse, Vögel, Insekten auf den Feldern) gesund ist. Das Verschwinden des malaiischen Leoparden bedeutet, dass die gesamte Nahrungskette unterbrochen ist.
-
-Die tiefere Bedeutung liegt darin: Der Lebensraum des malaiischen Leoparden ist kein unbewohnter Wildnis, sondern der Hinterhof der Menschen. Den Schutz des malaiischen Leoparden zu fordern, ist, eine Frage zu stellen, auf die niemand antworten will – **Sind wir bereit, ein Stück Land für andere Arten vor unserer eigenen Haustür zu lassen?**
-
-Unsere alltäglichen Entscheidungen beeinflussen direkt sein Überleben, von der Gestaltung lokaler Straßen bis zur landwirtschaftlichen Bewirtschaftung.
-
-Der Lebensraum des malaiischen Leoparden ist genau dort, wo der menschliche Entwicklungsdruck am größten ist; seine Lage stellt die härteste Prüfung für den Naturschutz in Taiwan dar.
+- Geschätzte Population in ganz Taiwan: **weniger als 500 Tiere**
+- Hauptlebensraum: Niedrig gelegene Hügel in Miaoli, Nantou und Taichung
+- Gemeldete Straßenunfälle (2017–2023): über **130 Tiere**
+- Einstufung: **Stark gefährdete Wildtierart der ersten Kategorie** in Taiwan
+- Die einzige verbliebene heimische Felide Taiwans
 
 ---
 
-## Die Geistkatze: Sie haben sie vielleicht nie gesehen
+## Warum sie wichtig ist
 
-### Kein Hauskatzen-Typ, kein Leopard
+Die Bedeutung der Taiwan-Leopardenkatze geht über ihre bloße Existenz als Katze hinaus. Sie ist eine **Indikatorart für das Ökosystem der Hügelgebiete**. Ein gesundes Vorkommen der Leopardenkatze bedeutet, dass die gesamte Umgebung (Frösche, Nagetiere, Vögel und Insekten auf den Feldern) intakt ist. Verschwindet sie, ist dies ein Zeichen dafür, dass die gesamte Nahrungskette unterbrochen ist.
 
-Der malaiische Leopard (_Prionailurus bengalensis_) gehört zur Gattung der Leopardenkatzen, aber er hat nichts mit dem afrikanischen oder asiatischen Leopard zu tun. Er ist ungefähr so groß wie eine Hauskatze, etwa 3 bis 6 Kilogramm schwer.
+Die tiefere Bedeutung liegt darin: Der Lebensraum der Leopardenkatze ist keine unberührte Wildnis, sondern das „Hinterhof-Gebiet“ des Menschen. Den Schutz dieser Katze zu fordern, bedeutet, eine Frage zu stellen, die niemand beantworten möchte: **Sind wir bereit, vor unserer eigenen Haustür ein Stück Land für andere Arten zu reservieren?**
 
-Wie erkennt man ihn? Das auffälligste Merkmal sind die **zwei weißen Streifen auf der Stirn**, die von der Nase bis zur Stirn reichen. Hinter dem Ohr gibt es deutliche weiße Flecken (Scheinaugenflecken). Sein ganzer Körper ist mit schwarzen Punkten bedeckt, nicht mit Streifen.
+Unsere täglichen Entscheidungen – von der Gestaltung lokaler Straßen bis hin zur Art der landwirtschaftlichen Bewirtschaftung – beeinflussen direkt ihr Überleben.
 
-Der malaiische Leopard ist ein nachtaktives Tier mit einem großen Aktivitätsradius (ein Männchen kann 5–10 Quadratkilometer abdecken) und lebt allein. Deshalb wird er „Geistkatze“ genannt – er lebt in der Nähe deines Hauses, aber du hast ihn wahrscheinlich nie gesehen.
-
-### Die leichte Bergregion ist sein Zuhause und sein Grab
-
-Der malaiische Leopard lebt nicht in Hochgebirgsparks. Er lebt in den leicht bergigen Regionen unter 800 Metern Höhe, dort wo Ackerland, Obstgärten, Bambuswälder und Sekundärwälder aufeinandertreffen.
-
-Die Besonderheit dieser Gebiete ist: **sie sind nah am Menschen**. Die Felderstraßen von Tongxiao, Houlong, Xihu und Tucao in Miaoli, Zhonglia und Jiji in Nantou, oder Xinsha und Heping in Taichung – die kleinen Wege zwischen den Feldern, die Ränder der Obstgärten, die Gewässerkorridore dieser Gemeinden sind die Lebensräume des malaiischen Leoparden und gleichzeitig die Orte mit der dichtesten Entwicklung von Straßenbau, Landwirtschaftserweiterung und Fabrikbau.
+Der Lebensraum der Taiwan-Leopardenkatze konzentriert sich genau dort, wo der menschliche Erschließungsdruck am höchsten ist; ihre Lage ist die schwerste Prüfung für die Naturschutzarbeit in Taiwan.
 
 ---
 
-## Vier Todesarten
+## Die Geisterkatze: Die Sie vielleicht nie sehen werden
 
-### I. Verkehrstod: Die leiseste Massaker
+### Keine Hauskatze, kein Leopard
 
-In den Schutzkreisen Taiwans gibt es einen Begriff, bei dem man kalt wird: **Verkehrstod** (路殺). Der malaiische Leopard ist ein nachtaktives Tier; nachts überquert er Straßen auf der Suche nach Nahrung, Partnern oder zur Territorienkontrolle. Die Landstraßen in Miaoli und Nantou verfügen weder über Wildtierdurchlässe noch Geschwindigkeitsreduzierungen oder irgendeine andere für wilde Tiere vorgesehene Gestaltung.
+Die Taiwan-Leopardenkatze (_Prionailurus bengalensis_) wird wissenschaftlich auch als Bengalkatze bezeichnet, hat aber nichts mit einem Leoparden zu tun. Sie ist etwa so groß wie eine Hauskatze und wiegt zwischen 3 und 6 Kilogramm.
 
-Sobald die Scheinwerfer leuchten, reflektieren die Augen des malaiischen Leoparden – und dann...
+Woran erkennt man sie? Das deutlichste Merkmal sind **zwei weiße Längsstreifen auf der Stirn**, die von der Nase zum Scheitel verlaufen. Hinter den Ohren befinden sich markante weiße Flecken (Scheinflecken). Ihr Körper ist mit schwarzen Rundflecken bedeckt, nicht mit Streifen.
 
-Die Sonderberichterstattung von Wowa trug den herzzerreißenden Titel: „Plopp! Und ich werde zu Trockenfleisch.“
+Sie ist ein nachtaktives Tier mit einem großen Revier (Männchen können 5–10 km² abdecken) und lebt meist solitär. Deshalb wird sie auch „Geisterkatze“ genannt – sie lebt in Ihrer Nähe, aber Sie werden sie wahrscheinlich Ihr Leben lang nicht zu Gesicht bekommen.
 
-Zwischen 2017 und 2023 wurden über 130 Verkehrstode des malaiischen Leoparden registriert. [^2] Die, die nicht gefunden wurden, weiß niemand.
+### Die Hügel sind ihr Zuhause und ihr Friedhof
 
-Der Malaiische Leopard-Forscher Lin Yu-hsiu verfolgte einen malaiischen Leopard namens „Xiao Cao“. Er wurde **zweimal** von Autos angefahren, aber beide Male überlebte er. Lin Yu-hsiu sagte: „Xiao Cao hat sich zweimal durch Autounfälle gerettet; wenn wir nichts für den malaiischen Leopard tun, opfern wir seine Selbsthilfe.“
+Die Taiwan-Leopardenkatze lebt nicht in Hochgebirgsnationalparks. Sie besiedelt die Hügel unterhalb von 800 Metern Meereshöhe – Gebiete, in denen Ackerland, Obstplantagen, Bambuswälder und Sekundärwälder ineinander übergehen.
 
-### II. Lebensraumverlust: Das Zuhause wurde abgerissen
-
-Miaoli ist der Landkreis mit der höchsten Dichte und der besten Kontinuität des Lebensraums für den malaiischen Leopard. Aber Miaoli ist auch einer der Orte in Taiwan, an denen die Entwicklungskonflikte am häufigsten sind.
-
-Im Jahr 2019 wurde der von der Regierung von Miaoli vorgelegte „Autonome Verordnung zum Schutz des malaiischen Leoparden“ vom Kreistag **zweimal abgelehnt**. Der Grund war „Beeinflussung der lokalen Entwicklung“. Ein Landkreis, der sich als „malaiische Leopard-Metropole“ bezeichnet, konnte nicht einmal eine Vorschrift zum Schutz des malaiischen Leoparden durchbringen.
-
-Das ist das absurde Theater des Naturschutzes in Taiwan: Man nutzt den Namen des malaiischen Leoparden für den Tourismusmarketing, druckt ihn auf Maskottchen und malt ihn auf Busse – aber wenn es darum geht, den malaiischen Leopard zu schützen, wird er unwichtig.
-
-### III. Hundetod: Die am wenigsten beachtete Bedrohung
-
-Dies ist die peinlichste Realität für die Tierschutzbewegung in Taiwan: **Streunende Hunde töten den malaiischen Leopard.**
-
-Die Bilder von der Wildkamera zeigen immer mehr: Herumstreunende Rudel tauchen im Lebensraum des malaiischen Leoparden auf, jagen, angreifen und töten ihn. Wowa hat eine ganze Sonderberichterstattung über „Hundetod des malaiischen Leoparden“ gemacht; die Daten zeigen, dass Hundetod neben Verkehrstod die zweitgrößte dokumentierte Todesursache ist.
-
-Das Bissen ist nur die halbe Bedrohung. Streunende Hunde und Katzen bringen Krankheiten in die leichte Bergregion, und malaiische Leoparden, die infiziert sind, haben schlechtere Überlebenschancen auf der Straße. Daher sind Hundetod und Verkehrstod zahlenmäßig nicht unabhängig. Diese Kausalkette, die Virusuntersuchungsdaten von PINGKE University und die damit verbundene Debatte um Tötungsprogramme werden in [Taiwanese Streunertierkultur](/de/society/stray-animal-culture) vollständig diskutiert.
-
-Dies bringt die Tierschutzorganisationen und Ökologen Taiwans in eine äußerst peinliche Lage. Diejenigen, die streunende Hunde schützen, sagen „keine Abschuss“, während diejenigen, die den malaiischen Leopard schützen, sagen „ohne Streuner sterben die Leoparden wirklich aus“.
-
-Beide Seiten schützen Tiere, aber die Tiere töten sich gegenseitig.
-
-Diese Debatte hat bisher keine Antwort, zwingt Taiwan jedoch dazu, eine Tatsache anzuerkennen: **„Tiere lieben“ ist keine einfache Haltung; sie ist voller Widersprüche und Kompromisse.**
-
-### IV. Gift und Fallen
-
-Der malaiische Leopard frisst Hühner. Für die Bauern in den leicht bergigen Regionen sind Eingriffe in die Hühnerställe durch den malaiischen Leopard ein echter wirtschaftlicher Verlust. Einige Bauern reagieren direkt: mit Giften.
-
-Außerdem gibt es in Berggebieten noch heimlich Fallen, obwohl sie 2020 offiziell verboten wurden. Der malaiische Leopard gerät in eine Falle und erleidet entweder einen Gliedmaßenbruch oder stirbt durch Hunger, weil er nichts mehr fressen kann.
+Diese Orte zeichnen sich durch eine Besonderheit aus: **Sie sind sehr nah am Menschen**. In den Gemeinden Tongxiao, Houlong, Xihu und Tongluo (Miaoli), Zhongliao und Jiji (Nantou) sowie Xinshe und Heping (Taichung) bilden Feldwege, Obstgartenränder und Bachläufe ihre Lebensräume – gleichzeitig sind dies die Gebiete mit der höchsten Dichte an Straßenbau, landwirtschaftlicher Expansion und Fabrikansiedlungen.
 
 ---
 
-## Das Licht des Schutzes: Es gibt Wächter
+## Vier Arten des Todes
 
-### Ökosystemleistungen für den malaiischen Leopard
+### 1. Straßenunfälle: Das lautlose Massaker
 
-„Du darfst meine Hühner nicht nehmen, sonst vergiftet ich dich“ – diese Logik ist klar, aber man kann dem malaiischen Leopard nicht menschliche Sprache lehren. Daher hat die Regierung einen anderen Ansatz: **den Bauern Geld geben**.
+In den Naturschutzkreisen Taiwans gibt es einen Begriff, der Gänsehaut verursacht: **Roadkill (路殺)**. Da die Taiwan-Leopardenkatze nachtaktiv ist, überquert sie nachts Straßen, um zu jagen, Partner zu finden oder ihr Revier zu kontrollieren. Die Landstraßen in Miaoli und Nantou verfügen jedoch weder über Wildtierkorridore noch über Geschwindigkeitsbegrenzungen oder Designelemente, die auf Wildtiere Rücksicht nehmen.
 
-Seit 2021 fördert das Ministerium für Landwirtschaft das „Ökosystemleistungen-Programm für den malaiischen Leopard“. [^3] Wenn Bauern in der Lebensraumzone des malaiischen Leoparden umweltfreundlich wirtschaften (kein Gift, keine Fallen verwenden), erhalten sie bis zu 20.000 NT$ pro Hektar. Wenn die Wildkamera einen malaiischen Leopard auf Ihrem Land erfasst, gibt es noch 10.000 NT$ mehr.
+Sobald das Scheinwerferlicht aufleuchtet, reflektieren ihre Augen, und dann –
 
-Dies ist keine Wohltätigkeit. Dies ist **die Umwandlung der Bauern in Verbündete statt Feinde des Naturschutzes**.
+Das Magazin _Wowo_ nutzte für ein Roadkill-Special einen herzzerreißenden Titel: „Patsch! Und dann wurde ich zu Trockenfleisch“.
 
-Seit der Einführung haben Hunderte von Bauern teilgenommen. Ein Bauer sagte: „Früher habe ich den malaiischen Leopard gesehen und wollte ihn beschimpfen; jetzt fotografiere ich ihn mit dem Handy, weil das Geld bringt.“
+Zwischen 2017 und 2023 wurden über 130 Todesfälle durch Straßenunfälle dokumentiert. [^2] Wie viele Tiere unbemerkt starben, weiß niemand.
 
-### Ökologische Korridore und Wildtierdurchlässe
+Die Forscherin Lin Yu-hsiu verfolgte eine Katze namens „Xiao Cao“. Diese wurde bereits **zweimal** von Autos erfasst und überlebte beide Male. Lin sagte: „Xiao Cao hat es zweimal geschafft, sich nach einem Unfall selbst zu retten. Wenn wir nicht etwas für die Leopardenkatzen tun, wäre das ein Opfer ihrer eigenen Überlebenskraft.“
 
-Als Reaktion auf den Verkehrstod haben einige Abschnitte der Straßen in Miaoli und Nantou **Wildtierdurchlässe** eingerichtet. Unterhalb der Autobahnen wurden Tunnel oder Durchgänge gebaut, damit der malaiische Leopard sicher passieren kann.
+### 2. Lebensraumverlust: Das zerstörte Zuhause
 
-Sind diese Durchlässe nützlich? Die Wildkamera hat Bilder gezeigt, wie der malaiische Leopard die Durchlässe nutzt. Ja, aber nicht genug. Der Straßennetz in Miaoli ist noch ein Mangel an Abschnitten mit Wildtierdurchlässen.
+Miaoli ist der Landkreis mit der höchsten Populationsdichte und der besten Habitatkontinuität. Doch Miaoli ist auch einer der Orte in Taiwan, an denen Erschließungskonflikte am häufigsten auftreten.
 
-### Berühmte Leoparden
+Im Jahr 2019 wurde ein von der Regierung des Landkreises Miaoli vorgeschlagener „Autonomie-Beschluss zum Schutz der Taiwan-Leopardenkatze“ vom Kreistag **zweimal abgelehnt**. Die Begründung lautete: „Beeinträchtigung der lokalen Entwicklung“. Ein Landkreis, der sich selbst als „Hauptstadt der Leopardenkatzen“ bezeichnet, konnte nicht einmal eine Verordnung zu deren Schutz verabschieden.
 
-Naturschutz braucht Geschichten und Protagonisten. **Jibao**, ein im Tierheim von Taichung geretteter malaiischer Leopard, wurde aufgrund seines freundlichen Charakters zu einem Star des Naturschutzes geworden. Er hat vielen Menschen gezeigt, die sich sonst nicht für den malaiischen Leopard interessieren würden, zum ersten Mal, dass es diese Tiere in Taiwan gibt.
+Dies ist das absurde Theater des Naturschutzes in Taiwan: Man nutzt den Namen der Katze für Tourismusmarketing, druckt sie auf Maskottchen und malt sie auf Busse – aber sobald der Schutz der Katze die wirtschaftliche Entwicklung einschränkt, ist sie nicht mehr wichtig.
 
-**Ahu**, ein malaiischer Leopard vom Institut für Biodiversität (IBD) des Ministeriums für Landwirtschaft, nahm an einem Zuchtprogramm teil. [^4] Jedes geborene Jungtier ist eine Nachricht.
+### 3. Angriffe durch Hunde: Die unterschätzte Bedrohung
 
-Die Existenz dieser berühmten Leoparden ist widersprüchlich – sie sind nah am Menschen, weil sie in freier Wildbahn nicht mehr überleben können.
+Dies ist das unangenehme Thema, dem die Tierschutzorganisationen in Taiwan am liebsten ausweichen: **Streunende Hunde töten die Taiwan-Leopardenkatzen**.
+
+Auf Wildkameras sind immer häufiger Aufnahmen zu sehen, die zeigen, wie streunende Hundepacken in die Lebensräume der Katzen eindringen, sie jagen, angreifen und töten. _Wowo_ erstellte ein Dossier über „Hundekills“, das zeigt, dass Angriffe durch Hunde nach Straßenunfällen die zweitgrößte dokumentierte Todesursache darstellen.
+
+Das Töten ist nur die halbe Gefahr. Streunende Hunde und Katzen bringen zudem Infektionskrankheiten in die Hügelgebiete. Infizierte Leopardenkatzen haben zudem eine geringere Überlebenschance auf Straßen, weshalb Hundekills und Straßenunfälle statistisch miteinander verknüpft sind. Die Details zu dieser Kausalkette, den Virusuntersuchungen der National Kaohsiung University of Science and Technology sowie die Debatte über die Politik zur Eliminierung streunender Tiere finden sich in [Taiwanische Streuner-Kultur](/de/society/stray-animal-culture).
+
+Dies bringt Tierschützer und Ökologen in eine extrem schwierige Lage. Diejenigen, die Streuner schützen wollen, sagen: „Man darf sie nicht töten“; diejenigen, die die Leopardenkatze schützen wollen, sagen: „Wenn wir die streunenden Hunde nicht kontrollieren, wird die Katze wirklich aussterben“.
+
+Beide Seiten wollen Tiere schützen, doch die Tiere töten sich gegenseitig.
+
+Diese Debatte hat bis heute keine Lösung, aber sie zwingt die Gesellschaft Taiwans zu der Erkenntnis: **„Tierliebe“ ist keine einfache Position; sie ist voller Widersprüche und schwieriger Abwägungen.**
+
+### 4. Vergiftung und Fallen
+
+Leopardenkatzen fressen Hühner. Für Landwirte in den Hügelgebieten stellt das Eindringen der Katzen in Hühnerställe einen realen wirtschaftlichen Verlust dar. Manche reagieren darauf direkt: mit Gift.
+
+Zudem existieren in Bergregionen trotz des offiziellen Verbots seit 2020 immer noch heimlich Schlingenfallen. Eine Katze, die in eine Falle gerät, verliert im besten Fall eine Zehe oder stirbt im schlimmsten Fall an Hunger, weil sie nicht mehr jagen kann.
 
 ---
 
-## Autonome Verordnung zum Schutz des malaiischen Leoparden: Ein Spiegel der lokalen Politik
+## Ein Lichtblick: Menschen, die Wache halten
 
-Der Kreistag von Miaoli im Jahr 2019 war ein absurdes Kapitel in der Geschichte des Naturschutzes Taiwans. Nach jahrelanger Förderung durch Wissenschaftler und Tierschutzgruppen legte die Regierung von Miaoli schließlich den Entwurf der „Autonomen Verordnung zum Schutz des malaiischen Leoparden“ vor. Der Inhalt war nicht radikal: Er verlangte lediglich, dass bei Entwicklungsprojekten in der Lebensraumzone des malaiischen Leoparden eine ökologische Bewertung durchgeführt werden muss. Der Kreistag lehnte es das erste Mal ab, es wurde überarbeitet und erneut abgelehnt.
+### Ökologische Entschädigungen
 
-Die Gründe der Abgeordneten waren unter anderem: „Der malaiische Leopard ist ein geschütztes Tier; die Zentralregierung kümmert sich bereits darum“, „es würde die lokale Entwicklung behindern“ oder „die Bauern arbeiten schon hart genug“.
+„Du nimmst mir keine Hühner weg, dann vergifte ich dich nicht“ – diese Logik ist klar, aber man kann die Katze nicht bitten, menschliche Sprache zu verstehen. Deshalb hat die Regierung einen anderen Ansatz gewählt: **Geldzahlungen an Landwirte**.
 
-Diese Argumente klingen vernünftig, aber übersetzt bedeutet es: Der malaiische Leopard darf keinen Weg versperren.
+Seit 2021 fördert das Landwirtschaftsministerium das „Ökologische Entschädigungsprogramm für Taiwan-Leopardenkatzen“. [^3] Wenn Landwirte in den Lebensräumen der Katzen auf tierfreundliche Methoden setzen (kein Gift, keine Fallen), erhalten sie eine Subvention von bis zu NT$20.000 pro Hektar. Wird auf ihrem Land eine Katze per Kamera erfasst, gibt es zusätzlich NT$10.000.
 
-Überall in Miaoli gibt es Bilder des malaiischen Leoparden: an Bushaltestellen, auf Müllwagen, in Reiseführern. Der malaiische Leopard ist das Maskottchen von Miaoli, aber er darf kein Nachbar sein.
+Das ist keine Wohltätigkeit. Es geht darum, **Landwirte zu Verbündeten des Naturschutzes statt zu Feinden zu machen**.
 
-Schließlich wurde die erste autonome Verordnung zum Schutz des malaiischen Leoparden in ganz Taiwan am 10. Dezember 2019 vom Kreistag von Miaoli in drei Lesungen angenommen. [^1] Aber dieser Prozess selbst ist ein klassisches Beispiel für die große Kluft zwischen „mündlichem Naturschutz“ und „tatsächlichem Handeln“ in Taiwan.
+Seit der Einführung haben sich bereits hunderte Betriebe angeschlossen. Ein Landwirt sagte: „Früher wollte ich die Katze nur beschimpfen, wenn ich sie sah. Jetzt nehme ich das Handy heraus und mache ein Foto, denn ein Foto bringt Geld.“
+
+### Ökologische Korridore und Wildtierpassagen
+
+Um das Problem der Straßenunfälle anzugehen, wurden in Teilen von Miaoli und Nantou **Wildtierpassagen** errichtet – Tunnel oder Durchlässe unter den Straßen, die es den Katzen ermöglichen, sicher zu überqueren.
+
+Helfen diese Passagen? Wildkameras haben Aufnahmen gezeigt, wie Katzen diese Wege nutzen. Sie helfen, aber es sind nicht genug. Im gesamten Straßennetz von Miaoli sind die Abschnitte mit Wildtierpassagen immer noch in der Minderheit.
+
+### Star-Katzen
+
+Naturschutz braucht Geschichten und Protagonisten. **Jibao**, eine gerettete Leopardenkatze aus dem Tierheim Houli (Taichung), wurde durch ihr zutrauliches Wesen zu einem Star der Naturschutzbildung. Sie hat vielen Menschen, die sich nie für die Art interessiert hätten, zum ersten Mal gezeigt, dass es dieses Tier in Taiwan gibt.
+
+**A-Hu**, eine Katze des Biodiversity Research Institute des Landwirtschaftsministeriums, nimmt an Programmen zur künstlichen Zucht teil. [^4] Jede Geburt einer gezüchteten Leopardenkatze ist eine Nachricht.
+
+Die Existenz dieser „Star-Katzen“ ist paradox: Sie sind nur deshalb in der Nähe von Menschen, weil sie in der Wildnis nicht mehr überleben könnten.
+
+---
+
+## Der Autonomie-Beschluss: Ein Spiegelbild der Lokalpolitik
+
+Das Jahr 2019 im Kreistag von Miaoli war einer der absurdesten Momente in der Geschichte des taiwanesischen Naturschutzes. Nach jahrelangem Druck durch Ökologen und Naturschutzgruppen legte die Regierung des Landkreises Miaoli den Entwurf für den „Autonomie-Beschluss zum Schutz der Taiwan-Leopardenkatze“ vor. Die Inhalte waren nicht radikal: Sie forderten lediglich, dass Entwicklungsprojekte in den Lebensräumen der Katzen eine ökologische Bewertung durchlaufen müssen. Der Kreistag lehnte den Entwurf beim ersten Mal ab; nach einer Überarbeitung wurde er ein zweites Mal abgelehnt.
+
+Die Argumente der Abgeordneten lauteten unter anderem: „Die Leopardenkatze ist eine geschützte Art, das Zentralgesetz regelt das bereits, der Landkreis braucht keine eigene Gesetzgebung“, „Es würde die Entwicklung des Landkreises behindern“ oder „Die Landwirte haben schon genug zu kämpfen“.
+
+Diese Argumente klingen vernünftig, bedeuten aber übersetzt: Die Leopardenkatze darf den Fortschritt nicht aufhalten.
+
+In den Straßen von Miaoli findet man überall Motive der Katze: an Bushaltestellen, auf Müllwagen und in Tourismusbroschüren. Die Taiwan-Leopardenkatze ist das Maskottchen von Miaoli, aber sie darf dort kein Nachbar sein.
+
+Schließlich wurde unter dem Druck der Öffentlichkeit am 10. Dezember 2019 der erste Autonomie-Beschluss zum Schutz der Taiwan-Leopardenkatze Taiwans in drei Lesungen verabschiedet. [^1] Doch dieser Prozess selbst ist zu einem klassischen Beispiel für die riesige Kluft zwischen „symbolischem Naturschutz“ und „tatsächlichem Handeln“ in Taiwan geworden.
 
 ---
 
 ## Erstaunliche Fakten
 
-Diese Details mögen wie kalte Fakten klingen, aber jeder Punkt weist auf dieselbe Realität hin: Der malaiische Leopard ist zu nah am menschlichen Leben.
+Diese Details wirken wie unnützes Wissen, aber jeder Punkt weist auf dieselbe Realität hin: Die Taiwan-Leopardenkatze lebt zu nah am Menschen.
 
-🐆 Der offizielle wissenschaftliche Name des malaiischen Leoparden ist **Leopardkatze** (_Prionailurus bengalensis_), aber er hat keine direkte Verwandtschaft mit dem afrikanischen oder asiatischen Leopard. 👀 Die Nachtsichtfähigkeit des malaiischen Leoparden beträgt das **6-fache** der eines Menschen, was erklärt, warum er nachts besonders leicht von Scheinwerfern „festgehalten“ wird. 🏠 Ein Männchen kann einen Aktivitätsradius von **5–10 Quadratkilometern** abdecken, was dem gesamten Daan-Bezirk in Taipeh entspricht.
+🐆 Der wissenschaftliche Name ist **Leopard Cat**, sie ist jedoch nicht mit dem Leoparden verwandt. 👀 Ihr Nachtsichtvermögen ist **sechsmal besser** als das des Menschen, wesraz sie nachts auf Straßen besonders leicht durch Scheinwerfer „festgehalten“ wird. 🏠 Das Revier eines Männchens kann bis zu **5–10 km²** umfassen, was etwa der Größe des Distrikts Da'an in Taipeh entspricht.
 
-☠️ Taiwan hatte einst den Nebelparden (_Neofelis nebulosa_), der 2013 offiziell als **in freier Wildbahn ausgestorben** erklärt wurde. 💰 Die „Belohnungs“-Fotos von Bauern im malaiischen Leopard-Ökosystemprogramm sind zu beliebten Inhalten in sozialen Medien geworden. 🐕 Bei Fällen des Hundetods waren die Angreifer oft **Rudeltiere** (drei oder mehr), und nicht einzelne streunende Hunde. 🗳️ Die autonome Verordnung zum Schutz des malaiischen Leoparden wurde vom Kreistag von Miaoli erst nach zwei Ablehnungen in drei Lesungen angenommen – aber gleichzeitig wird der malaiische Leopard als Tourismusmaskottchen verwendet. 📸 Das Wildkamera-Netzwerk des Instituts für Biodiversität (IBD) ist die systematischste Methode zur Verfolgung der Dynamik der malaiischen Leopardenpopulation – aber es deckt noch nicht mehr als die Hälfte ihres Lebensraumes ab.
+☠️ In Taiwan gab es Nebelparder (_Neofelis nebulosa_), die jedoch 2013 offiziell für **in freier Wildbahn ausgestorben** erklärt wurden. 💰 Im Rahmen des Entschädigungsprogramms sind Fotos von Landwirten, die eine Katze zeigen, ungewollt zu populären Inhalten in den sozialen Medien geworden. 🐕 Bei den dokumentierten Hundekills handelt es sich meist um **Hundepacken** (3 oder mehr Tiere) und nicht um einzelne Streuner. 🗳️ Der Autonomie-Beschluss in Miaoli wurde erst nach **zwei Ablehnungen** im dritten Anlauf verabschiedet – während der Landkreis die Katze gleichzeitig als Tourismusmaskottchen nutzt. 📸 Das Wildkamera-Netzwerk des Biodiversity Research Institute ist das systematischste Mittel zur Verfolgung der Population, deckt aber weniger als die Hälfte des Lebensraums ab.
 
 ---
 
 ## Die letzten fünfhundert
 
-Als Taiwan den Nebelparden verlor, gab es niemanden, der Abschied nehmen konnte. Beim malaiischen Leopard ist es anders; er lebt noch, und es sind weniger als 500 Exemplare übrig. Er läuft am Rand eines Obstgartens in Miaoli, jagt im Bambuswald von Nantou, neben einer Straße, die Sie täglich befahren, und wartet auf eine sichere Überquerung.
+Als Taiwan den Nebelparder verlor, hatte niemand Zeit, sich zu verabschieden. Bei der Taiwan-Leopardenkatze ist das anders: Sie ist noch da, es gibt noch weniger als fünfhundert von ihr. Sie streift durch die Obstgärten von Miaoli, jagt in den Bambuswäldern von Nantou und wartet an einer Straße, an der Sie jeden Tag pendeln, auf eine sichere Überquerung.
 
-Die Menschen, die den malaiischen Leopard schützen, sagen oft: „Wenn wir diese Generation versagen, wird die nächste Generation den malaiischen Leopard nur noch in einem Präpariermuseum sehen.“
+Naturschützer sagen oft: „Wenn wir diese Generation vermasseln, wird die nächste Generation die Taiwan-Leopardenkatze nur noch in Museumsvitrinen sehen.“
 
-Das ist keine billige Abschreckung. Das ist Mathematik. Weniger als 500 Tiere, mehr als zwei Dutzend Verkehrstode pro Jahr, Lebensräume werden Stück für Stück zerstückelt und erodiert, das Risiko der Inzucht steigt stetig an.
+Das ist keine Panikmache. Das ist Mathematik. Weniger als fünfhundert Tiere, jedes Jahr über zwanzig Straßenunfälle, Lebensräume werden Stück für Stück zerschnitten und das Risiko der Inzucht steigt.
 
-Die Menschen in Taiwan mögen sagen: „Wer betet, wird gesegnet.“ Aber der malaiische Leopard betet nicht. Er überquert weiterhin nachts Straßen ohne Wildtierdurchlässe und wartet auf sein Glück.
+Die Menschen in Taiwan sagen oft: „Wer betet, dem wird geholfen“. Aber die Taiwan-Leopardenkatze betet nicht. Sie wird weiterhin nachts diese Straßen ohne Wildtierpassagen überqueren – und auf ihr Glück hoffen.
 
 ---
 
 ## Referenzen
 
-[^1]: [Autonome Verordnung zum Schutz des malaiischen Leoparden in Miaoli - Umweltinformationszentrum](https://e-info.org.tw/node/221882) — Bestätigt die Annahme der autonomen Verordnung von Miaoli am 10. Dezember 2019.
+[^1]: [Miaoli Autonomie-Beschluss zum Schutz der Taiwan-Leopardenkatze - Environmental Information Center](https://e-info.org.tw/node/221882) — Bestätigt die Verabschiedung des Beschlusses am 10. Dezember 2019.
 
-[^2]: [Wowa: Plopp! Und ich werde zu Trockenfleisch – Verkehrstod-Sonderbericht](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistik des Verkehrstods des malaiischen Leoparden (2017–2023).
+[^2]: [Wowo: Patsch! Und dann wurde ich zu Trockenfleisch – Roadkill-Special](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiken über Straßenunfälle der Taiwan-Leopardenkatze (2017–2023).
 
-[^3]: [Ökosystemleistungen-Programm für den malaiischen Leopard des Ministeriums für Landwirtschaft](https://www.moa.gov.tw/) — Beschreibung des Subventionsprogramms für umweltfreundliche Landwirtschaft.
+[^3]: [Ökologisches Entschädigungsprogramm für Taiwan-Leopardenkatzen des Landwirtschaftsministeriums](https://www.moa.gov.tw/) — Erläuterungen zum Förderprogramm für tierfreundliche Landwirtschaft.
 
-[^4]: [Institut für Biodiversität (IBD) des Ministeriums für Landwirtschaft](https://www.tbri.gov.tw/) — Zuchtprogramm und Forschung zum malaiischen Leopard.
+[^4]: [Biodiversity Research Institute des Landwirtschaftsministeriums](https://www.tbri.gov.tw/) — Forschung zu Zuchtprogrammen und Naturschutz der Taiwan-Leopardenkatze.
 
-[^5]: [Wowa: Vor dem Aussterben – Sonderbericht über den malaiischen Leopard in Taiwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Umfassender Bericht über die Situation des malaiischen Leoparden in Taiwan.
+[^5]: [Wowo: Vor dem Aussterben – Dossier über die Taiwan-Leopardenkatze](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Umfassender Bericht über den aktuellen Stand des Schutzes.
 
-Weiterführende Lektüre:
+Weiterführende Literatur:
 
-- [Wowa: Die unterschätzte Bedrohung – Hundetod des malaiischen Leoparden](https://wuo-wuo.com/topics/widlife/dogkill) — Dokumentation von Fällen des Hundetods des malaiischen Leoparden.
-- [Amt für Forstwirtschaft und Naturschutz des Ministeriums für Landwirtschaft](https://www.forest.gov.tw/) — Schutzpolitik für den Lebensraum des malaiischen Leoparden.
-- [Malaiischer Leopard-Botschafter – Ahu-Familie](https://www.facebook.com/LeopardCatTaiwan/) — Aktuelle Berichte über die Zuchtprogramme des IBD.
+- [Wowo: Die unterschätzte Bedrohung – Hundekills bei Leopardenkatzen](https://wuo-wuo.com/topics/widlife/dogkill) — Dokumentation von Angriffen durch Hunde.
+- [Forstwirtschafts- und Naturschutzbehörde des Landwirtschaftsministeriums](https://www.forest.gov.tw/) — Politiken zum Schutz der Lebensräume.
+- [Botschafter für den Schutz der Taiwan-Leopardenkatze – A-Hu Familie](https://www.facebook.com/LeopardCatTaiwan/) — Aktueller Stand der künstlichen Zucht beim Biodiversity Research Institute.

@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'cc6f9d9b3'
-sourceContentHash: 'sha256:4eec1818bd85149d'
-sourceBodyHash: 'sha256:9c00635e5ed9da36'
-translatedAt: '2026-09-24T09:46:57.965456+00:00'
+sourceCommitSha: 'b07b48849'
+sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceBodyHash: 'sha256:d018fcf42d34d25c'
+translatedAt: '2026-10-14T20:41:23.694580+00:00'
 ---
 
 # Taiwanische Filme: Die Sprecher neben dem Film und eine filmische Geschichte des Sterbens und Wiederaufstehens
@@ -80,37 +80,37 @@ Sie wurden durch Politik und nicht durch das Publikum erstickt. Die Änderung de
 
 1969 übertrafen Mandarin-Filme erstmals die Taigi-Produktion[^15]. Der letzte Taigi-Film war 《陳三五娘》 mit Yang Li-hua im Jahr 1981[^16]. Erst in den 1990er Jahren begannen Forscher, diese Geschichte zu retten; erst 2017 veranstaltete die King's College London die erste englischsprachige akademische Konferenz, die sich speziell mit Taigi-Filmen befasste[^17]. Eine einst drittgrößte Spielfilmindustrie brauchte dreißig Jahre nach ihrem Tod und eine halbe Weltreise, bis jemand sie ernsthaft als Geschichte erforschte.
 
-## Gesund, realistisch und tabuisiert
+## Gesund, realistisch und unantastbar
 
-Während die Taigi-Filme verschwanden, übernahm eine andere Sprache die Leinwand.
+Mit dem Rückzug der taiwanesischen Dialektfilme übernahm eine andere Sprache die Leinwand.
 
-Im September 1954 wurden die Agricultural Education Company und Taiwan Film Company fusioniert und bildeten die Central Motion Picture Corporation (Zhongying), die mit US-Hilfsausrüstung [^18] arbeitete. Die Mandarin-Filme erhielten eine industrielle Grundlage, deren Ausrichtung von der Politik bestimmt wurde. Im Jahr 1963 übernahm Gong Hong als Generalmanager von Zhongying und führte eine Linie namens „Gesunde Realität“ ein. Er gab eine sehr präzise Definition: „Gesund ist Erziehung, Realismus ist das Landleben“ [^19].
+Im September 1954 fusionierten die Agricultural Education Company und die Taiwan Film Company zur Central Motion Picture Corporation (CMPC; 中影), wobei Ausrüstung aus US-Hilfsgeldern verwendet wurde[^18]. Die Mandarin-Filme erhielten so eine industrielle Basis, doch ihre Ausrichtung wurde durch politische Vorgaben bestimmt. 1963 übernahm Kung Hung den Posten des Generaldirektors der CMPC und führte eine Linie ein, die als „gesund und realistisch“ bezeichnet wurde. Er gab ihr eine sehr präzise Definition: „Gesund bedeutet Erziehung, Realismus bedeutet das Landleben“[^19].
 
-Diese sechs Zeichen verdienen einen Moment der Betrachtung. Sie besagen: Der Film muss realistisch sein, aber nur in dem sauberen Sinne des ländlichen Lebens, das die Menschen erziehen kann, nicht die Schattenseiten der Gesellschaft oder echte Konflikte. „Die Ozean-Frau“ (蚵女) von 1964 ist ein repräsentatives Werk dieser Linie; sie war der erste farbige Kinofilm im Querformat, den Zhongying selbst produzierte (Achtung: nicht der „erste farbige Film Taiwans“), und wurde unter der gemeinsamen Regie von Li Jia und Li Xing gedreht. Er gewann den besten Spielfilm beim 11. Asiatischen Filmfestival [^20]. Der folgende Film, „Die Entenhalterin“, setzte diese Linie fort.
+Diese sechs Worte verdienen einen Moment der Betrachtung. Sie besagten: Filme sollten zwar realistisch sein, aber nur in Form eines sauberen, moralisch erziehenden Realismus des ländlichen Raums – nicht die Schattenseiten der Gesellschaft oder echte Konflikte. Der Film 《蚵女》 (Oyster Girl) aus dem Jahr 1964 war das Paradebeispiel dieser Linie; es war der erste selbstproduzierte Farb-Breitbildfilm der CMPC (zu beachten: nicht der „erste Farbfilm Taiwans“), unter der gemeinsamen Regie von Li Chia und Li Hsing, und gewann zudem den besten Spielfilm beim 11. Asian Film Festival[^20]. Im folgenden Jahr setzte 《養鴨人家》 (Duck Farmer) diesen Weg fort.
 
-Neben der „Gesunden Realität“ arbeiteten in den 1960er und 70er Jahren noch drei Kräfte bei den Mandarin-Filmen gleichzeitig.
+Neben dem „gesunden Realismus“ gab es in den 1960er und 70er Jahren drei weitere Kräfte, die im Bereich der Mandarin-Filme gleichzeitig wirkten.
 
-Eine war die literarische Filmströmung von Qiong Yao. Ab „Die Cousine des Waisenjungen“ (婉君表妹) im Jahr 1965, der von Li Xing inszeniert wurde, wurden in fünf Jahren etwa fünfundzwanzig Filme gedreht und eine ganze Reihe von Stars berühmt [^21]. Die berühmtesten waren „Er Qin Er Lin“: Qin Han, Qin Xianglin, Lin Qingxia und Lin Fengjiao. Lin Qingxia debütierte 1973 mit „Durch das Fenster“ (窗外) und wurde später zu einer Legende der chinesischen Filmindustrie; Lin Fengjiao gewann 1979 den Goldenen Lotus als beste Schauspielerin [^22]. Die Tränen von Qiong Yao waren die Jugend vieler Menschen dieser Ära.
+Die erste Kraft waren die literarischen Filme von Chiung Yao. Beginnend mit Li Hings Regiearbeit 《婉君表妹》 (Wanjun's Cousin) im Jahr 1965 wurden innerhalb von fünf Jahren etwa 25 Filme produziert, die eine ganze Generation von Stars hervorbrachten[^21]. Am bekanntesten war das Quartett „Zwei Qin und zwei Lin“: Qin Han, Qin Xianglin, Brigitte Lin und Lin Feng-chiao. Brigitte Lin debütierte 1973 mit 《窗外》 (Outside the Window) und wurde später zur Legende der chinesischsprachigen Filmwelt; Lin Feng-chiao gewann 1979 den Golden Horse Award als beste Hauptdarstellerin[^22]. Die Tränen von Chiung Yao bildeten die gemeinsame Jugend vieler Menschen jener Ära.
 
 ```tw-timeline
-1925 | 《Wer ist schuld?》 (誰之過) | Der erste Spielfilm, der von Taiwanesen produziert wurde, veröffentlicht vom Taiwan Film Research Society
-1956 | 《Xue Pinggui und Wang Baoshu》 (薛平貴與王寶釧) | Startete den Taigi-Filmfieber; Taiwan war einmal das drittgrößte Spielfilmproduktionsland der Welt
-1963 | Linie der „Gesunden Realität“ | Gong Hong definiert: „Gesund ist Erziehung, Realismus ist das Landleben“
-1967 | 《Dragon Gate Inn》 (龍門客棧) | Hu Jinquan eröffnete die zehnjährige Wuxia-Ära und gewann den größten Kassenschlager des Jahres
-1982 | 《Die Geschichte der Zeit》 (光陰的故事) | Beginn der Taiwan New Cinema Bewegung
-1989 | 《Tragische Stadt》 (悲情城市) | Goldene Löwe von Venedig, der erste große Preis eines der drei großen Filmfestivals für Taiwan
-2008 | 《Sieben Küstenstellen》 (海角七號) | Fünf Sprachen; der lokale Marktanteil stieg von 0,36 % auf 12,09 %
-2018 | 55. Goldenes Lotus Festival | Fu Yu's Rede löste Streit zwischen den beiden Seiten aus; China boykottierte im Folgejahr
-Quelle: National Center for Film and Audiovisual Culture (TFAI), offizielle Aufzeichnungen der jeweiligen Filmfestivals
+1925 | 《誰之過》 | Der erste in Taiwan produzierte Spielfilm, von der Taiwan Film Research Association.
+1956 | 《薛平貴與王寶釧》 | Auslöser des Booms der Dialektfilme; Taiwan war zeitweise der drittgrößte Produzent von Spielfilmen weltweit.
+1963 | Linie des gesunden Realismus | Kung Hung definiert: „Gesund bedeutet Erziehung, Realismus bedeutet das Landleben“.
+1967 | 《龍門客棧》 | King Hu leitet das Jahrzehnt der Wuxia-Filme ein; Jahresboxoffice-Sieger.
+1982 | 《光陰的故事》 | Ausgangspunkt der Taiwan New Cinema Bewegung.
+1989 | 《悲情城市》 | Goldener Löwe in Venedig, der erste große Preis eines der drei wichtigsten internationalen Filmfestivals für Taiwan.
+2008 | 《海角七號》 | In fünf Sprachen; der lokale Marktanteil sprang von 0,36 % auf 12,09 %.
+2018 | 55. Golden Horse Awards | Eine Rede von Fu Yu löste Kontroversen zwischen beiden Seiten des Kanals aus; China kündigte im Folgejahr einen Boykott an.
+Quelle: Taiwan Film and Audiovisual Culture Center (TFAI), offizielle Aufzeichnungen der Filmfestivals.
 ```
 
-Die zweite Kraft war das Wuxia-Genre. Im Jahr 1967 wurde Hu Jinquans „Dragon Gate Inn“ zum größten Kassenschlager Taiwans und leitete einen zehnjährigen Trend des Wuxia-Kinos ein [^23]. Hu Jinquan verkaufte nicht nur Karten; er machte Wuxia zu einer Ästhetik. Im Jahr 1975 gewann sein Film „Die Kriegerin“ (俠女) den großen Preis des Technischen Komitees beim 28. Filmfestival von Cannes, was der zweite chinesische Film war, der in Cannes ausgezeichnet wurde, nach Li Han-hsiangs „Yang Guifei“ im Jahr 1962 [^24]. Ein Detail verdeutlicht die Lage des taiwanesischen Films zu dieser Zeit: „Die Kriegerin“ wurde auf Einladung französischer Kritiker unter dem Namen „Hongkong“ gezeigt, nicht von der taiwanischen Regierung empfohlen [^24]. Hu Jinquans Sprache des Wuxia mit Bambuswäldern, Leerraum und Rhythmus beeinflusste später Tsui Hark und Ang Lee; die Bambusszene in „Crouching Tiger, Hidden Dragon“ ist eine Hommage an ihn [^25].
+Die zweite Kraft war das Wuxia-Genre: 1967 wurde King Hus 《龍門客棧》 (Dragon Inn) zum Jahressieger an den Kinokassen in Taiwan und leitete eine zehnjährige Wuxia-Welle ein[^23]. King Hu lieferte nicht nur kommerziellen Erfolg, sondern erhob das Wuxia-Genre zu einer Ästhetik. 1975 gewann sein Film 《俠女》 (A Touch of Zen) den Preis des Technischen Komitees beim 28. Filmfestival von Cannes. Dies war der zweite chinesischsprachige Film nach Li Han-hyangs 《楊貴妃》 (The Palace of Eternal Life) im Jahr 1962, der in Cannes ausgezeichnet wurde[^24]. Ein Detail verdeutlicht die damalige Lage des taiwanesischen Films: 《俠女》 nahm auf Einladung französischer Kritiker unter dem Namen „Hongkong“ am Festival teil und wurde nicht von der taiwanesischen Regierung empfohlen[^24]. King Hus Wuxia-Sprache aus Bambuswäldern, Leere und Rhythmus beeinflusste später Regisseure wie Tsui Hark und Ang Lee; die Bambusszenen in 《臥虎藏龍》 (Crouching Tiger, Hidden Dragon) sind eine Hommage an ihn[^25].
 
-Die dritte Kraft war der politisch-propagandistische Patriotismusfilm. Im Jahr 1971 trat die Republik China aus den Vereinten Nationen zurück, was zu Unruhe führte. Eine Antwort der Regierung, wie TFAI es beschreibt, war die Produktion von Filmen „zur Stabilisierung der Volksseele und zur Verherrlichung der Regierung“ [^26]. „Die Helden ewig“ (英烈千秋) von 1974 wurde von den politischen Militärberatern Wang Sheng initiiert, von Ding Shanxi inszeniert und mit Ke Chunxiong als Hauptdarsteller realisiert, gefolgt von „Die Tausend tapferen Soldaten“ (八百壯士) im Jahr 1976 und „Der Held der Brücke“ (筧橋英烈傳) im Jahr 1977 [^27]. In vielen Erinnerungen sind diese Filme mit „Schulbesuch in voller Sitzung“ verbunden; aber ehrlich gesagt, gibt es keine Primärquellen, die den „erzwungenen Schulbesuch“ belegen können. Was gesichert ist, ist, dass sie oft im Fernsehen während Feiertagen wiederholt wurden [^28].
+Die dritte Kraft waren die patriotischen Propagandafilme: Als die Republik China 1971 aus den Vereinten Nationen austrat, herrschte politische Instabilität. Eine Reaktion der Regierung war – nach Worten des TFAI – das Drehen von Filmen „um die Volksseele zu stabilisieren und das Handeln der Regierung zu propagieren“[^26]. Dazu gehörten Filme wie 《英烈千秋》 (The Eternal Hero) aus dem Jahr 1974, vorangetrieben durch den Militärberater Wang Sheng, unter der Regie von Ting Shan-hsi und mit Ke Chun-hsiung in der Hauptrolle, gefolgt von 《八百壯士》 (The Eighty Heroes) im Jahr 1976 und 《筧橋英烈傳》 (The Heroic Legend of Chien-chiao) im Jahr 1977[^27]. In der Erinnerung vieler Menschen sind diese Filme untrennbar mit „Schulausflügen ins Kino“ verbunden; ehrlich gesagt lassen sich jedoch keine Primärquellen finden, die belegen, dass Schulen dazu gezwungen wurden, ganze Säle zu mieten. Sicher ist nur, dass sie oft an Feiertagen im Fernsehen wiederholt wurden[^28].
 
-> 📝 **Kuratorische Anmerkung**: Wenn man von Taigi-Filmen über die „Gesunde Realität“ zu den patriotischen Filmen blickt und fragt, was auf der Leinwand gesagt werden durfte, merkt man, dass die Geschichte des chinesischen Films immer dieselbe Frage beantwortet hat – nur die Antwort wurde von der Politik und nicht vom Publikum oder den Schöpfern geschrieben. Das Problem der Taigi-Filme war „Man durfte diese Sprache nicht benutzen, um gut zu filmen“, das Problem der „Gesunden Realität“ war „Man durfte nur diesen Typus von Wahrheit schreiben“, und das Problem der patriotischen Filme war „Wozu dient ein Film überhaupt?“. Diese drei Tore – Sprache, Thema, Zweck – wurden nacheinander geöffnet.
+> 📝 **Kuratorische Notiz**: Vom Dialektfilm über den gesunden Realismus bis hin zum patriotischen Film – betrachtet man die Frage „Was darf auf der Leinwand erzählt werden?“ als roten Faden, erkennt man, dass die Geschichte des heimischen Films eigentlich immer dieselbe Frage beantwortet hat. Nur wurden die Antworten von der Politik vorgegeben und nicht vom Publikum oder den Schöpfern selbst. Das Problem der Dialektfilme war: „Man durfte diese Sprache nicht für ordentliche Filme nutzen“. Beim gesunden Realismus war es: „Man durfte nur diese eine Art von Wahrheit zeigen“. Bei den patriotischen Filmen war die Frage: „Wozu ist Film eigentlich da?“. Sprache, Thema und Zweck – drei Tore, die abwechselnd geschlossen wurden.
 
-Es ist erwähnenswert, dass die Herkunft des Wortes „Golden Lotus“ (金馬) selbst eine Geschichte erzählt. 1957 gab es einmal ein Taigi-Filmfestival unter dem Namen „Goldener Lotus“, das nur einmal stattfand [^29]. Im Jahr 1962 gründete die Nachrichtenagentur den offiziellen Goldenen Lotus, der nominell nur für Mandarin-Filme verliehen wurde; die Verleihung fand sogar gezielt rund um den Geburtstag von Chiang Kai-shek statt [^29]. Derselbe Name gehörte zuerst den Taigi-Filmen und wurde dann für die Mandarin-Filme übernommen – dies ist selbst eine kleine Fußnote der sprachlichen Politik dieser Ära.
+Erwähnenswert ist auch die Herkunft des Begriffs „Golden Horse“ (金馬). Im Jahr 1957 wurde unter diesem Namen einmalig ein Dialektfilm-Festival von privater Seite veranstaltet[^29]. 1962 gründete das Bureau of Information die offiziellen Golden Horse Awards, die nominell nur Mandarin-Filmen vorbehalten waren. Die Zeremonie wurde zudem bewusst so gelegt, dass sie um den Geburtstag von Chiang Kai-shek herum stattfand[^29]. Derselbe Name gehörte erst den Dialektfilmen und wurde dann der Mandarin-Filmwelt einverleibt – dies ist ein kleines sprachpolitisches Zeugnis jener Ära.
 
 ## Der abgebrochene Apfel
 
@@ -145,39 +145,40 @@ Der dritte ist Tsai Ming-liang. Ab „Nezha des Jugendlichen“ (青少年哪吒
 
 Auch über die Stellung dieser drei Regisseure in der Filmgeschichte gibt es eine verbreitete falsche Darstellung, die korrigiert werden muss. Die Behauptung, „drei taiwanesische Filme seien in den 100 besten Filmen von _Cahiers du Cinéma_ (Frankreich) vertreten“, ist falsch. Eine Überprüfung der Liste von _Cahiers du Cinéma_ aus dem Jahr 2008 ergab keine taiwanesischen Filme [^44]. Diejenigen, die das taiwanesische Kino tatsächlich in ihre Listen aufgenommen haben, sind die Briten von _Sight & Sound_, deren Top 100 aus dem Jahr 2022 Yang De-changs „Der Mordfall des Jugendlichen in Guling Street“ an Platz 78 und „Yi Yi“ an Platz 90 platzierten [^45].
 
-## Gewinner, aber niemand schaut zu
+## Preise gewonnen, aber niemand sieht sie
 
-Dies ist der unlogischste Wendepunkt in der Geschichte des nationalen Films und der Punkt, an dem am leichtesten „Giftgosseln“ (negative Spekulation) verbreitet wird.
+Dies ist die kontraintuitivste Wendung in der Geschichte des taiwanesischen Films und auch der Punkt, an dem man am leichtesten in die Falle von „toxischem Optimismus“ tappt.
 
-Der neue Film gewann in Europa den Goldenen Löwen und den besten Regisseur; der taiwanische Film wurde zum ersten Mal weltweit gesehen. Doch im selben Zeitraum starben die nationalen Filme in den taiwanesischen Kinos. Ab 1996 sank die jährliche Produktion lokaler Filme auf 15 bis 20, und der Marktanteil lag nur noch bei eins bis zwei Prozent [^46]. Der Tiefpunkt war 2003: In diesem Jahr wurden in ganz Taiwan nur etwa 15 nationale Filme gedreht, mit einem Gesamtumsatz von ungefähr 15 Millionen NT$, was 0,36 % des gesamten Kassenerfolgs ausmacht und weniger als ein Prozent beträgt [^47].
+Mit dem Gewinn des Goldenen Löwen und der Auszeichnung als Bester Regisseur in Europa wurde der taiwanesische Film zum ersten Mal weltweit wahrgenommen. Doch zur gleichen Zeit starben die heimischen Produktionen in den Kinos Taiwans. Ab 1996 sank die jährliche Produktion lokaler Filme auf nur noch 15 bis 20 Werke, während ihr Marktanteil auf lediglich ein bis zwei Prozent schrumpfte[^46]. Der Tiefpunkt wurde im Jahr 2003 erreicht: In diesem Jahr wurden in ganz Taiwan nur etwa 15 lokale Filme gedreht, mit einem Gesamtkassenumsatz von etwa NT$15 Millionen, was nur 0,36 % des gesamten taiwanesischen Box Office entsprach – also weniger als ein Prozent[^47].
 
 ```tw-bars
-Tiefpunkt 2003 | 0.36 | Nur ca. 15 nationale Filme in ganz Taiwan
-Langsame Erholung 2006 | 1.62
-Haijiao Nr. 7 2008 | 12.09 | Anstieg um über das Dreifache
-Seidukubarai 2011 | 17.46 | Historischer Höhepunkt zu dieser Zeit
-Jüngere Jahre 2024 | 10
-Quelle: Taiwan Guanghua Magazine, TFAI Statistik (Marktanteil lokaler Filme %)
+2003 Tiefpunkt | 0,36 | Nur ca. 15 lokale Filme in ganz Taiwan
+2006 Langsame Erholung | 1,62
+2008 Cape No. 7 | 12,09 | Anstieg um mehr als das 30-fache
+2011 Seediq Bale | 17,46 | Damaliger historischer Höchststand
+2024 Jüngste Jahre | 10
+Quelle: Taiwan Guanghua Magazine, TFAI-Statistiken (Marktanteil lokaler Filme in %)
 ```
 
-0,36 %. Man liest diese Zahl vor: Bei hundert Menschen, die ins Kino gehen, sieht nicht einer einen nationalen Film. Und in diesen Jahren glänzten Namen wie Hou Hsiao-hsien, Yang De-chang und Tsai Ming-liang in Cannes und Venedig. Ein Film einer Insel blüht außerhalb der Mauern, aber verwelkt innerhalb der Mauern.
+0,36 %. Man muss sich diese Zahl vor Augen führen: Von hundert Menschen, die ein Kino betreten, geht nicht einmal einer, um einen lokalen Film zu sehen. Und währenddessen erstrahlten die Namen von Hou Hsiao-hsien, Yang De-chang und Tsai Ming-liang in Cannes und Venedig. Die Filme einer Insel blühten außerhalb der Mauern auf, während sie innerhalb der Mauern verwelkten.
 
-Aus diesem Grund entstand eine Behauptung unter der Bevölkerung, die sehr populär war: „Es ist alles wegen des Neuen Films. Diese künstlerischen Filme sind langweilig und unverständlich, sie vertreiben das Publikum, deshalb sterben die nationalen Filme.“
+In der Bevölkerung entstand daraufhin eine Theorie, die sehr griffig formuliert wurde: „Das ist alles die Schuld der New Cinema-Bewegung. Diese Arthouse-Filme sind so langatmig und unverständlich, dass sie das Publikum vertrieben haben – deshalb stirbt der heimische Film.“
 
-Diese Behauptung muss ernst genommen werden, denn dahinter steckt ein echter Groll; viele Menschen gingen tatsächlich ins Kino, verstanden nichts oder schliefen ein, und gingen danach nie wieder in ein Kino. Aber den Niedergang der nationalen Filme allein dem Neuen Film zuzuschreiben, ist eine Komplexität eines mehrfach bedingten Zusammenbruchs auf einen Sündenbock zu reduzieren.
+Diese Aussage muss ernst genommen werden, denn hinter ihr steht echter Groll; viele Menschen gingen tatsächlich ins Kino, verstanden nichts oder schliefen ein und kehrten danach nie wieder zurück, um lokale Filme zu sehen. Doch den gesamten Niedergang des heimischen Films allein der New Cinema-Bewegung zuzuschreiben, bedeutet, einen vielschichtigen Zusammenbruch auf einen einzigen Sündenbock zu reduzieren.
 
-Es darf nicht ignoriert werden, dass der Neue Film tatsächlich die Sehgewohnheiten einiger Zuschauer von den Mainstream-Kommerziellen distanziert hat. Aber der Kollaps der nationalen Filme zwischen 1990 und 2000 wurde durch strukturellere Faktoren beeinflusst: Hollywood-Blockbuster stürmten Taiwan, die Importquoten für ausländische Filme wurden nach dem Beitritt Taiwans zur WTO gelockert, Kassetten und Fernsehen veränderten die Art und Weise, wie die Leute Filme sahen, lokale Investitionen zogen massiv aus der Filmindustrie ab, und die Kinoverteilung wurde von importierten Filmen dominiert [^48]. Eine Industrie wurde durch diese ganze Kombination zusammengepresst, nicht durch ein paar preisgekrönte Kunstfilme vertrieben.
+Es ist unbestreitbar, dass die New Cinema-Filme bei einem Teil des Publikums eine Distanz zu den Sehgewohnheiten der Mainstream-Blockbuster schufen. Doch der Zusammenbruch des heimischen Films in den 1990er und 2000er Jahren hatte gleichzeitig strukturelle Ursachen: Hollywood-Blockbuster eroberten Taiwan flächendeckend, nach dem Beitritt Taiwans zur WTO wurden die Importquoten für ausländische Filme gelockert, Videokassetten und Kabelfernsehen veränderten die Art und Weise, wie Menschen Filme konsumierten, lokales Kapital zog sich massiv aus der Filmindustrie zurück, und auch die Kinokanäle wurden von Importfilmen dominiert[^48]. Eine ganze Branche wurde durch dieses gesamte Paket erdrückt, nicht durch ein paar preisgekrönte Arthouse-Filme vertrieben.
 
-> 📝 **Kuratorentipp**: Die Behauptung „Der Neue Film hat den nationalen Film getötet“ ist faszinierend, weil sie einen komplexen Markt-Kollaps in eine Geschichte mit Gesichtern verwandelt – es gibt Schurken (die unverständlichen Regisseure) und Opfer (das unverständliche Publikum). Aber die Wahrheit hat meist kein Gesicht. Hou Hsiao-hsien und Yang De-chang als Hauptschuldige für den Niedergang des nationalen Films zu sehen, bedeutet, eine Gruppe von Schöpfern für den Zusammenbruch des gesamten Industriesystems verantwortlich zu machen. Ihr Preis war jedoch eine andere: Sie erhielten weltweite Auszeichnungen, aber keinen lokalen Zuschauern – Ruhm und Markt waren in diesen zehn Jahren zwei völlig getrennte Dinge.
+> 📝 **Kuratorische Notiz**: Die Behauptung „New Cinema hat den heimischen Film getötet“ ist deshalb so verlockend, weil sie einen komplexen Marktzusammenbruch in eine Geschichte mit Gesichtern verwandelt – es gibt Bösewichte (die unverständlichen Regisseure) und Opfer (das verwirrte Publikum). Doch die Wahrheit hat meist kein Gesicht. Hou Hsiao-hsien und Yang De-chang als Hauptverantwortliche für den Niedergang des heimischen Films zu betrachten, hieße, von einer Gruppe von Kreativen zu verlangen, für den Kollaps eines gesamten industriellen Ökosystems verantwortlich zu sein. Ihr Preis war in Wahrheit ein anderer: Sie gewannen Weltklasse-Preise, konnten damit aber kein heimisches Publikum gewinnen – Ehre und Markt waren in jenen zehn Jahren zwei völlig entkoppelte Dinge.
 
-Dies ist der zweite Tod des nationalen Films. Die Taigi-Filme wurden durch Politik erstickt; dieses Mal wurden sie vom Markt ertränkt. Der Unterschied liegt darin: die Art des Todes war anders, und auch der Mechanismus der Wiederbelebung wird unterschiedlich sein. Die Taigi-Filme sind nie wieder zurückgekehrt, aber diesmal wartet jemand auf eine Methode, um das Publikum wieder ins Kino zu locken.
+Dies war der zweite Tod des heimischen Films. Die Filme in taiwanesischen Dialekten wurden durch politische Maßnahmen erstickt; dieses Mal wurden sie vom Markt ertränkt. Der Unterschied liegt darin: Da die Todesursachen unterschiedlich sind, wird auch der Mechanismus der Wiederauferstehung ein anderer sein. Die Dialektfilme kehrten nie zurück, aber diesmal wartet jemand auf eine Methode, das Publikum wieder zurück ins Kino zu holen.
 
 ```tw-versus
-Ruhm auf Festivals | Realität im Kino
-Tragische Stadt 1989 Goldener Löwe in Venedig | Jährliche Produktion nationaler Filme sank in dieser Zeit auf 15–20
-Yi Yi 2000 Bester Regisseur in Cannes | Lokaler Marktanteil 0,36 % im Jahr 2003
-Yang De-chang mit zwei Filmen unter den hundert größten | „Nationalfilm = Kassenschaden“ wurde zu einer Volksmeinung
+Glanz der Filmfestivals | Realität der Kinos
+A City of Sadness 1989 Goldener Löwe in Venedig | Jährliche Produktion lokaler Filme sank zeitgleich auf 15–20 Werke
+Yi Yi 2000 Bester Regisseur in Cannes | Lokaler Marktanteil 2003 bei 0,36 %
+Zwei Filme von Yang De-chang in den Top 100 der Filmgeschichte | „Heimischer Film = Gift für das Box Office“ als Volksmund geprägt
 Blühen außerhalb der Mauern | Verwelken innerhalb der Mauern
+Quelle: Drei große Festival-Aufzeichnungen (Goldener Löwe Venedig, Bester Regisseur Cannes, Top 100 der Filmgeschichte) + Statistiken zur Produktion und zum Box Office lokaler Filme (Produktion von 15–20 Werken ab 1996, Marktanteil in Taiwan 2003 bei 0,36 %) [^46][^47][^48]
 ```
 
 ## Um auf die Weltbühne zu gelangen, muss man zuerst seine Insel verlassen

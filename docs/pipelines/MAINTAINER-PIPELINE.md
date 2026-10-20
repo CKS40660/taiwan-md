@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow / §1d 審庫存（review-stock 預審 + verified 第二條路徑）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.17'
-last_updated: 2026-10-10
-last_session: '2026-10-10-review-stock-birth（§1d 審庫存：OBSERVER-QUEUE #86 哲宇選 A，twmd-review-stock routine 的 canonical——選篇儀器 / FACTCHECK Quick + 冷讀席 pointer / 查證單 schema / preReview 與 verifiedVia 兩個 provenance 欄位 / N=3 讀者複核轉正判準）'
+current_version: 'v2.18'
+last_updated: 2026-10-20
+last_session: '2026-10-20-twmd-maintainer-manual（§人物文章知名度門檻 補「選舉年現任／候選政治人物」判例：OBSERVER-QUEUE #104 哲宇選 B）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -665,6 +665,16 @@ git checkout pr/N && python3 scripts/tools/....
 ❌ 拒絕：純網紅（IG 粉絲多但無維基無報導）→ 建議在相關產業文章中提到 / 司法進行中的人物 → 暫緩等結案。
 
 **判例：自媒體時代表演者的門檻明文化（哲宇 2026-09-05 拍板）**：「主流媒體報導」排除三種來源型態——平台目錄頁（Spotify、KKBOX 這類收錄頁不算報導）、投稿人自營頻道（YouTube、IG、FB、Threads）、以及單純以表演者身分上節目的紀錄。查維基百科條目存否要直接打 API（`https://zh.wikipedia.org/w/api.php?action=query&titles=<姓名>&format=json`），不能用腳註裡有沒有 `wikipedia.org` 字樣推斷，commons 圖片檔會讓判斷誤判成「有條目」。維基本人條目與 2 則以上獨立第三方報導兩項皆無，不收獨立人物條目；可查證的部分可以併入相關產業或表演藝術條目。此判準源自五個同型案例：KENJI（PR #1365，2026-08-16）、黑貓老師與 Cheap（PR #1395／#1401，2026-08-18）、蔡黑皮（PR #1471，2026-08-20）、三度C（PR #1525，2026-08-21）。
+
+**判例：選舉年的現任／候選政治人物頁（哲宇 2026-10-20 拍板，[OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) #104 選 B）**：現任公職人物頁照上面的知名度門檻收，不因選舉年暫停收件；候選人這個身分，則交給選舉專頁同一批對稱處理。「選舉年內」指這個人參選那一屆投票日所在的年度，一直到就職日為止。期間收進來的頁面守五條：
+
+1. `featured: false`＋`curation: incubating`，不進首頁精選。
+2. 腳註照政治題加嚴：走 [REWRITE-PIPELINE-SINGLE](REWRITE-PIPELINE-SINGLE.md) Step 3.3 的 FACTCHECK Full Mode，每個具體事實（數字、日期、引語、爭議經過）都要有可開的腳註；爭議段至少要有立場不同的兩個可靠來源，社群貼文、粉專、短影音不能單獨撐起一段（紅旗 #9／#12）。
+3. 不做候選人之間的比較敘事。人物頁寫這個人自己的經歷、施政與爭議，不寫他跟同選區對手誰好誰壞，也不把選戰攻防當主軸；參選本身只留一句事實並連到選舉專頁。
+4. 候選人身分的對稱處理在選舉專頁做：/elections/2026 每位候選人都有同樣大小的「讀條目／＋一起寫」入口，條目有無只反映編寫進度。人物頁收進來後，在 `src/data/elections-2026.json` 該候選人補 `article` 欄位就好，不另做排序或標記。
+5. 脊椎是公共角色與施政，爭議是其中一面（[MANIFESTO §13 立體地愛](../semiont/MANIFESTO.md)、EDITORIAL「政治人物要多面觀點」）。失言、迷因、網路梗不當主軸，也不湊成清單。
+
+誕生案例：〈蔣萬安〉（PR #1829，2026-10-14，投稿者 idlccp1984 自述草稿、請維護者照站上格式改）。草稿骨架是一份爭議清單，含一節選戰攻防與政黨粉專來源，照本判準走 REWRITE 重寫後才合併。
 
 ### Step 2.1.1: [Content] issue digest sub-flow（v2.3 新增 canonical）
 
@@ -1513,6 +1523,18 @@ python3 scripts/tools/verify_internal_links.py
 
 ⛔ **不要自己手跑 `pgrep -f 'astro build'` 代替那道檢查**（2026-10-03 maintainer-am 刪掉本段原本就寫著的那句）：那個 pattern 會命中「正在等 build 結束」的等待迴圈自己——`until ! pgrep -f 'astro build'; do sleep 15; done` 的命令列裡就有 `astro build` 這幾個字，所以它永遠等得到自己、永遠不結束。本班開場實測：裸 `pgrep -f 'astro build'` 命中 9 個程序，其中 7 個是前幾班留下的這種不死迴圈（3 個已經活了快兩天），真正的 build 只有 2 個；尺自己那把 `(^|[\s/])astro(\.m?js)?\s+build\b` 命中 2 個，完全正確（引號與 `.*` 都不是 `[\s/]`，所以不自我命中）。**手跑那句的代價剛好是這段話要防的反面**：它回報「build 在跑」，當班照字面讀就會 skip 斷鏈 audit——跟 09-28〜09-30 連三輪 skip 同一個症狀、不同的成因。要等 build 就用不自我命中的寫法（`pgrep -f 'astro[ ]build'`），要判能不能讀就直接跑尺看它回 `BUILDING` 還是給讀數。LESSONS `wait-loop-polls-for-a-pattern-its-own-command-line-contains`。
 
+⚠️ **在隔離 worktree 裡跑這支尺，先補兩個 gitignored 衍生檔**（2026-10-15 twmd-maintainer-daily）：上一段說「這條路不會重算 `public/api/*` 與 `src/data/*`」，那句話在**主工作樹**成立（那些檔 06:00 由 data-refresh 產出、就躺在那裡）。新開的 worktree 沒有它們，而 `src/pages/fork-graph.astro` 直接 `import '../data/fork-graph.json'`，所以 `npm run sync:build` 在 build 第 663ms 就死在 `UNRESOLVED_IMPORT`，連 `dist/` 都不會生出來。接著 `verify_internal_links.py` 會回 **NOT-MEASURED（掃到 0 頁 0 連結）並明寫「這不是通過」**——尺的 fail-loud 正確，但當班很容易把它讀成「worktree 不能跑斷鏈掃描」然後 skip。
+
+```bash
+# worktree 內，從主工作樹補兩個 gitignored 衍生檔（唯讀主樹，不動它）
+cp <main-tree>/src/data/fork-graph.json <main-tree>/src/data/git-info.json src/data/
+npm run sync:build && python3 scripts/tools/verify_internal_links.py
+```
+
+缺的就是這兩個（`git-info.json` 由 prebuild 的 git pass 產出、`fork-graph.json` 由 fork-census 產出，兩個都在 `.gitignore` 裡）。**不要為此改回 `npm run build`**，那會把 `prebuild:status` 的共用檔競用帶回來，也就是上一段整段要避開的東西。
+
+---
+
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 
 當 cycle 出現以下訊號 → append [LESSONS-INBOX.md §未消化清單](../semiont/LESSONS-INBOX.md)：
@@ -1680,6 +1702,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.18**（2026-10-20 twmd-maintainer-manual）— §人物文章知名度門檻 補「選舉年現任／候選政治人物」判例（OBSERVER-QUEUE #104 哲宇選 B）：現任公職照常收，候選人身分交給選舉專頁對稱處理；選舉年內 incubating、FACTCHECK Full、不做候選人比較敘事、脊椎是公共角色。誕生案例 PR #1829〈蔣萬安〉
 - **v2.16**（2026-10-08 twmd-maintainer-daily，第二波）— Step 3.0 補〈認領的同一口氣把留言串讀掉〉＋ `reserved-for-observer` label：**授權不住在檔案裡，住在對話裡**。本班對 #1782／#1784 跑完十條紅旗／ratio／腳註與 URL 對賬／frontmatter passthrough 全過然後合併，而兩班前已判定那是保留給哲宇的策展決定、OBSERVER-QUEUE #67 標 🔒紅線不適用 default-action。已還原 `cb2e23f78`，PR 維持 MERGED。§Step 2.3.1 的觸發條件是「已判定命中邊界」，而命中訊號只住在留言串；§Step 2.4 的觸發是「回應之前」不是「動手之前」。LESSONS `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`
 - **v2.16**（2026-10-08 twmd-maintainer-daily）— Step 1.5c〈紅在 `npm audit` 時一次看完四道〉＋ [`npm-audit-sweep.sh`](../../scripts/tools/npm-audit-sweep.sh)：contracts job 的四道 audit 用 `&&` 串著，第一道紅了後面三道不跑，於是修第一個看到的只是把紅燈推到下一格（10-02 那班踩過）。路徑從 workflow 解析不寫死，每條公告附「修補在不在小版本內」的判斷，量不到的路徑印 UNKNOWN 而不是算進全綠。LESSONS `external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act` 候選機械化 (a) 落地（vc=3：09-30／10-02／10-08）
 - **v2.15**（2026-10-01 twmd-maintainer-am）— Step 4.1 補〈斷鏈 audit 要 fresh dist〉：連三輪 skip 的理由「build 會撞 babel 共用檔」只對 `npm run build` 成立，競用來自 `prebuild:status`，改走 `npm run sync:build`（無 pre/post hook）在 babel 滿載時實測零碰撞；同時補「build 還在跑時別讀那支尺」（半成品 dist 的 mtime 是現在，staleness guard 放行而分母崩成 1）。另更正 Step 3.4 紅旗 8 的 canonical 14 類清單：原列 `Language`（無此目錄）、漏 `Politics`（18 篇），改以 `categoryConfig.ts` 的 key 為準

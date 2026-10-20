@@ -1,17 +1,17 @@
 ---
-title: 'Fermentierte Lebensmittel und Konservierungskultur Taiwans'
-description: 'Von Stinktofu bis Tofu-Jiu: Eine Erkundung der einzigartigen Fermentationstechniken und Traditionen von Taiwan'
+title: 'Taiwans fermentierte Lebensmittel und Einmachkultur'
+description: 'Durch die Verschmelzung von minnanischen, hakkaistischen, indigenen und japanischen Techniken hat Taiwan ein einzigartiges Geschmackssystem in der Fermentation und Konservierung entwickelt: Von Stinky Tofu in den Gassen bis hin zu fermentierter Tofupaste in jedem Haushalt, von eingelegtem Gemüse bis hin zu fermentiertem Reiswein – hinter diesen scheinbar einfachen Lebensmitteln verbergen sich tiefgreifende wissenschaftliche Prinzipien und kulturelles Erbe. Fermentierte Lebensmittel sind sowohl Teil der Lebensmittelindustrie als auch eine kulturelle Brücke, die das kollektive Gedächtnis verschiedener Bevölkerungsgruppen mit dem modernen Leben verbindet und die kulinarische Weisheit der Insel dokumentiert.'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
-    'fermentiert',
-    'konservierungskultur',
-    'stinktofu',
-    'tofujiu',
-    'kimchi',
-    'traditionelletechniken',
-    'mikroorganismen',
+    'fermentierte Lebensmittel',
+    'Einmachkultur',
+    'Stinky Tofu',
+    'Tofupaste',
+    'Kimchi/eingelegtes Gemüse',
+    'traditionelle Techniken',
+    'Mikroorganismen',
   ]
 subcategory: '食材與調味'
 author: 'Taiwan.md'
@@ -21,15 +21,15 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Stinktofu aus Xizhen'
+imageAlt: 'Stinky Tofu in Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'ef4290a8c'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:23e913cfb87f7989'
 sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
-translatedAt: '2026-10-02T00:52:49+08:00'
+translatedAt: '2026-10-15T22:01:00.746227+00:00'
 ---
 
 # Fermentierte Lebensmittel und Konservierungskultur Taiwans

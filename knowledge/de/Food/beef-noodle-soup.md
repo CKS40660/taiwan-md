@@ -1,15 +1,15 @@
 ---
-title: 'Niurou Mian (Rindfleischnudeln)'
-description: 'Von der Heimweh-Kulinarik der auswärtigen Einwanderer zum nationalen Gericht Taiwans: Die kulturelle Verschmelzung und der globale Duft von Niurou Mian'
+title: 'Rindfleischsuppe (Niu Rou Mian)'
+description: 'Von den Ernährungstabus der Agrargesellschaft, in der Rinder als Helfer galten und nicht gegessen wurden, bis hin zur Verschmelzung verschiedener regionaler Kochtechniken durch die Einwanderer aus den Provinzen nach dem Krieg – daraus entstanden Stile wie braun geschmort, klar gekocht oder mit Tomaten. Eine Schüssel dieser Nationalnudelsuppe trägt die Geschichte der kulturellen Integration und kulinarischer Erinnerungen in sich. In den letzten Jahren hat sie durch spezielle Food-Festivals und internationale Empfehlungen den Sprung vom Streetfood auf die globale Gastronomiebühne geschafft und ist zu einem glänzenden Symbol für den vielfältigen und inklusiven Geist der taiwanischen Esskultur geworden.'
 date: 2026-03-17
 category: 'Food'
 tags:
   [
-    'Gastronomie',
-    'Niurou Mian',
-    'Außerhalb-Küche',
-    'Kulturelle Verschmelzung',
-    'Taipei International Beef Noodle Festival',
+    'Kulinarik',
+    'Rindfleischsuppe',
+    'Waisheng-Küche',
+    'Kulturelle Fusion',
+    'Taipeh Rindfleischsuppe-Festival',
     'Michelin',
   ]
 subcategory: '經典小吃'
@@ -18,13 +18,13 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 image: '/images/wiki/5be514264de6.jpg'
-imageAlt: 'Niurou Mian aus Taiwan'
+imageAlt: 'Taiwanische Rindfleischsuppe'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
-sourceCommitSha: '271c50fbe'
+sourceCommitSha: 'd8b2faceb'
 sourceContentHash: 'sha256:0f8567c72fce22ef'
 sourceBodyHash: 'sha256:31e72a4ea39ea451'
-translatedAt: '2026-09-22T04:48:32+08:00'
+translatedAt: '2026-10-15T20:14:11.515091+00:00'
 ---
 
 # 牛肉麵

@@ -103,3 +103,76 @@ def test_taskqueue_extend_is_claimable():
     queue.extend([("ja", Path("g.json"), "A.md")])
     assert queue.claim("w", {}) == ("ja", Path("g.json"), "A.md")
     assert queue.claim("w", {}) is None
+
+
+def _stub_loop(monkeypatch):
+    done = []
+
+    def fake_process(worker, lang, group_path, zh_path, state, *a, **k):
+        done.append((worker.label, lang, zh_path))
+        state.in_flight.discard(f"{lang}:{zh_path}")   # 真的 process_task 收尾時會清
+    monkeypatch.setattr(MODULE, "make_task_filter", lambda *a, **k: None)
+    monkeypatch.setattr(MODULE, "wait_if_frozen", lambda *a, **k: None)
+    monkeypatch.setattr(MODULE, "flush_stale_pending", lambda *a, **k: [])
+    monkeypatch.setattr(MODULE, "process_task", fake_process)
+    return done
+
+
+def test_idle_worker_parks_and_rejoins_when_another_worker_tops_up_later(monkeypatch):
+    """2026-10-15 run 74687：地端 worker 補貨撲空就 return，三小時後雲端 worker 補進的
+    十二語 stale 只剩它一個慢慢磨。別的 worker 還在做 = 這一輪還沒完，要停在場邊等。"""
+    done = _stub_loop(monkeypatch)
+    state = MODULE.RunState()
+    state.in_flight = {"ja:Other.md"}            # 另一個 worker 正在做
+    queue = MODULE.TaskQueue([])
+    quiet_flags = []
+
+    def topup(w, q, quiet=False):
+        quiet_flags.append(quiet)
+        return False
+
+    sleeps = []
+
+    def fake_sleep(s):
+        sleeps.append(s)
+        if len(sleeps) == 1:                     # 停在場邊時，別人補進一篇然後收工
+            queue.extend([("ko", Path("g.json"), "New.md")])
+            state.in_flight.clear()
+
+    monkeypatch.setattr(MODULE.time, "sleep", fake_sleep)
+    logs = []
+    MODULE.worker_loop(_worker("gemma"), [], queue, state, None, None, True, 10,
+                       logs.append, topup=topup)
+
+    assert done == [("gemma", "ko", "New.md")]   # 回場接到後補的貨
+    assert sleeps == [MODULE.PARKED_POLL_S]
+    assert quiet_flags == [False, False]         # 回場做完一篇，下一次撲空不算還在停
+    assert any("先停在場邊" in l for l in logs) and any("回場" in l for l in logs)
+
+
+def test_idle_worker_exits_when_nobody_else_is_working(monkeypatch):
+    done = _stub_loop(monkeypatch)
+    state = MODULE.RunState()
+    queue = MODULE.TaskQueue([])
+    monkeypatch.setattr(MODULE.time, "sleep", lambda s: (_ for _ in ()).throw(AssertionError("不該等")))
+    MODULE.worker_loop(_worker("gemma"), [], queue, state, None, None, True, 10,
+                       lambda m: None, topup=lambda w, q, quiet=False: False)
+    assert done == []
+
+
+def test_restricted_tier_worker_does_not_park(monkeypatch):
+    _stub_loop(monkeypatch)
+    state = MODULE.RunState()
+    state.in_flight = {"ja:Other.md"}
+    monkeypatch.setattr(MODULE.time, "sleep", lambda s: (_ for _ in ()).throw(AssertionError("不該等")))
+    MODULE.worker_loop(_worker("haiku", tier="tier6"), [], MODULE.TaskQueue([]), state, None, None,
+                       True, 10, lambda m: None, topup=lambda w, q, quiet=False: False)
+
+
+def test_topup_quiet_suppresses_repeat_empty_log(monkeypatch, tmp_path):
+    _stub_pipeline(monkeypatch, {}, tmp_path)
+    logs = []
+    assert MODULE.topup_queue(_worker("gemma"), MODULE.TaskQueue([]), MODULE.RunState(), ["ja"],
+                              _args(), tmp_path, 1, tmp_path / "s.json", set(), logs.append,
+                              quiet=True) is False
+    assert logs == []

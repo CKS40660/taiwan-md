@@ -8,6 +8,7 @@
 import { Hono } from 'hono';
 import { existsSync, mkdirSync, readFileSync } from 'node:fs';
 import { config } from './config.ts';
+import { originGuard } from './http/origin-guard.ts';
 import { logger } from './logger.ts';
 import { getDb, closeDb } from './db/client.ts';
 import {
@@ -93,25 +94,9 @@ if (!config.disableCron) {
 // Health monitor still runs (read-only checks) — paused only affects spawning.
 startHealthMonitor();
 
-app.use('*', async (c, next) => {
-  const origin = c.req.header('origin');
-  // UI may be opened as localhost OR 127.0.0.1 (astro.config host: 127.0.0.1).
-  // Browsers treat them as different origins — allow both local forms only.
-  const localOrigin =
-    origin?.startsWith('http://localhost:') ||
-    origin?.startsWith('http://127.0.0.1:');
-  if (origin && localOrigin) {
-    c.header('Access-Control-Allow-Origin', origin);
-    c.header(
-      'Access-Control-Allow-Methods',
-      'GET, POST, PATCH, PUT, DELETE, OPTIONS',
-    );
-    c.header('Access-Control-Allow-Headers', 'Content-Type');
-  }
-  if (c.req.method === 'OPTIONS') return c.body(null, 204);
-  await next();
-  return;
-});
+// CORS for the local UI + refuse state-changing requests from foreign browser
+// origins (CORS alone does not stop a no-cors POST from being sent).
+app.use('*', originGuard);
 
 app.get('/api/health', (c) => {
   let dbOk = true;
@@ -598,6 +583,7 @@ app.post('/api/webhook/github', async (c) => {
 });
 
 const server = Bun.serve({
+  hostname: config.host,
   port: config.port,
   fetch: app.fetch,
 });

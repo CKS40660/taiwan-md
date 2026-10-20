@@ -1,6 +1,6 @@
 ---
-title: 'Xiao Jing-teng: Von der „Kampf-Dämon“-Figur zum Golden Melody King – Eine taiwanesische Stimme, die Legenden schafft'
-description: 'Von einem Straßenmusiker zu einer Ikone des Popgenres: Die Geschichte von Xiao Jing-teng und dem Mythos vom „Regengott“'
+title: 'Jam Hsiao (蕭敬騰)'
+description: 'Im Jahr 2007 wurde ein Restaurant-Sänger für die „Challenge“-Runde von „Super Star Avenue“ ausgewählt; seine drei Auftritte brachten Rekordquoten und veränderten die Mandopop-Szene. Er war der erste Künstler, der als Herausforderer den Golden Melody Award als bester männlicher Sänger gewann, und ist der Mann, der in Taiwan als „Regengott“ bekannt ist, da es bei jedem seiner Auftritte regnet.'
 date: 2026-03-23
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Musik',
     'Popmusik',
     'Jazz',
-    'Super Star Line',
-    'Golden Melody Award',
+    'Super Star Avenue',
+    'Golden Melody Awards',
     'Regengott',
   ]
 subcategory: '音樂與表演'
@@ -18,115 +18,116 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-10-15T20:18:07+08:00'
 ---
 
-# Xiao Jing-teng: Die unberechenbarste Stimme Taiwans
+# Jam Hsiao: Die unvorhersehbarste Stimmlegende Taiwans
 
-> **30-Sekunden-Zusammenfassung:** Im Jahr 2007 nahm ein Restaurantmusiker an der zweiten Staffel von „Super Star Line“ teil. Er wurde stattdessen in den ersten Kampfwettbewerb platziert und schuf mit drei Auftritten einen neuen Rekord, wodurch er die chinesische Musikszene neu definierte. Er ist der erste Künstler, der als Teilnehmer eines Kampfwettbewerbs den Golden Melody Award gewann – und der Mann, der bei jedem Auftritt Regen brachte und von ganz Taiwan „Regengott“ genannt wurde.
+> **30-Sekunden-Überblick:** Im Jahr 2007 wurde ein ursprünglich für die zweite Staffel von „Super Star Avenue“ angemeldeter Restaurant-Sänger dazu arrangiert, an der ersten „Challenge“-Runde teilzunehmen. Mit drei Auftritten erzielte er Rekordquoten und schrieb damit die Geschichte der Mandopop-Szene neu. Er war der erste Künstler, der als Herausforderer den Titel des Golden Melody Song King gewann, und ist jener Mann, der in ganz Taiwan als „Regengott“ bezeichnet wird, weil es bei jedem seiner Auftritte regnet.
 
-An einem Samstagabend im Mai 2007 erlebten die Zuschauer vor dem Fernseher ein dramatisches Ereignis in der chinesischen Musikszene: Ein unbekannter Sänger namens Xiao Jing-teng besiegte den damals favorisierten Teilnehmer Yang Zongwei mit einem Song, „Xin Bu Liao Qing“. Diese Folge von „Super Star Line“ erreichte einen Einschaltquotenrekord von 4,06 %, und ganz Taiwan fragte: „Wer ist dieser Mann?“
+An einem Samstagabend im Mai 2007 wurden die Zuschauer vor den Fernsehern Zeugen einer der dramatischsten Szenen in der Geschichte der Mandopop-Musik: Ein Amateur-Sänger namens Jam Hsiao (蕭敬騰) besiegte mit dem Lied „Xin Bu Liao Qing“ (新不了情) den damals am stärksten favorisierten Teilnehmer Yang Zong-wei (楊宗緯). Diese Folge von „Super Star Avenue“ erreichte eine Einschaltquote von 4,06 %, und ganz Taiwan fragte sich: „Wer ist dieser Mensch?“
 
-Sechzehn Jahre später blickt man zurück auf den 21-jährigen jungen Mann, der auf der Bühne bis zur Erschöpfung sang. Er wurde zum Schöpfer des Mythos vom Golden Melody King und dem Regengott – einer Stimme, die sich weigerte, in Schubladen zu passen.
+Rückblickend, sechzehn Jahre später, ist der 21-jährige junge Mann, der auf der Bühne bis zur Erschöpfung sang, zu einem Golden Melody Song King, zum Schöpfer der Legende des „Regengottes“ und zur unberechenbarsten Stimme der Mandopop-Welt geworden.
 
-## Die Geburt des Kampf-Dämons
+## Die Geburt des „Challenge-Königs“
 
-**Xiao Jing-teng wurde am 30. März 1987 in Hualien geboren.** Schon während der Highschool begann er, auf den Straßen von Ximending aufzutreten, und war mit 17 Jahren bereits ein Restaurantmusiker – diese Erfahrung als „Underdog“ bildete die Grundlage für seine unschlagbare Live-Performance.
+**Jam Hsiao wurde am 30. März 1987 in Hualien geboren.** Während seiner Highschool-Zeit begann er, auf den Straßen von Ximending aufzutreten, und war bereits mit 17 Jahren als Restaurant-Sänger tätig – diese bodenständige Erfahrung bildete das Fundament für seine später unschlagbare Live-Performance.
 
-Im Jahr 2007 sollte Xiao Jing-teng an der zweiten Staffel von „Super Star Line“ teilnehmen, wurde aber vom Produzententeam in den ersten Kampfwettbewerb eingestuft. Die Macher hatten damals wahrscheinlich nicht erwartet, dass diese Zuweisung zu dem erfolgreichsten Zufall in der Fernsehgeschichte Taiwans werden würde.
+Im Jahr 2007 wollte Jam Hsiao eigentlich an der zweiten Staffel von „Super Star Avenue“ teilnehmen, wurde jedoch von der Produktion für das „Challenge“-Segment der ersten Staffel eingeplant. Die Produzenten ahnten damals wohl nicht, dass diese Entscheidung zu einem der erfolgreichsten Zufälle in der Fernsehgeschichte Taiwans werden würde.
 
 > **📝 Notiz des Kurators**
-> Der Kampfwettbewerb war ursprünglich gedacht, um die Spannung der Sendung zu erhöhen, aber Xiao Jing-teng machte diesen Abschnitt zum Hauptthema. Er bewies, dass manchmal die aufregendsten Geschichten von Menschen stammen, die „nicht im Plan waren“.
+> Das Challenge-Format war ursprünglich dazu gedacht, die Spannung der Sendung zu erhöhen, doch das Erscheinen von Jam Hsiao machte dieses Segment zur Hauptattraktion. Er bewies, dass die spannendsten Geschichten manchmal von denjenigen kommen, die „nicht im Plan vorgesehen“ waren.
 
-**Beim ersten Kampf gewann Xiao Jing-teng. Beim zweiten Sieg erneut, wobei die Einschaltquoten 4,06 % erreichten.** Obwohl er beim dritten Mal verlor, hatte dieser „inoffizielle Teilnehmer“ in nur einer Nacht Berühmtheit erlangt und wurde 2007 als eine der zehn Top-Persönlichkeiten von Yahoo! Taiwan und auf der Google Trending Keywords Celebrity List zum Zweitplatzierten genannt.
+**Beim ersten Challenge-Auftritt gewann Jam Hsiao. Bei der zweiten Herausforderung siegte er erneut und trieb die Einschaltquote auf 4,06 %.** Obwohl er beim dritten Mal unterlag, machten diese drei Auftritte den „inoffiziellen Teilnehmer“ über Nacht zum Star. Er erreichte Platz 3 der Top 10 der Nachrichtenfiguren des Jahres 2007 bei Yahoo! Kimo Taiwan und Platz 2 der Liste der Film- und Fernsehberühmtheiten bei den Google-Trend-Keywords.
 
-Was noch wichtiger war: Sein Duell mit Yang Zongwei brachte Cao Ge’s „Betrayal“ wieder in den Rampen, was zu dieser Zeit ein beliebtes Lied in Taiwan wurde. **Ein Teilnehmer eines Kampfwettbewerbs veränderte nicht nur sein eigenes Schicksal, sondern belebte auch einen Klassiker.**
+Noch wichtiger war, dass sein Duell mit Yang Zong-wei das Lied „Bei Pan“ (背叛) von Gary Chaw (曹格) wieder populär machte, welches in dieser Zeit zu einem der bekanntesten Lieder in Taiwan wurde. **Ein Herausforderer veränderte nicht nur sein eigenes Schicksal, sondern machte auch ein klassisches Lied wieder zum Hit.**
 
-## Musikalisches Talent: Vom Debüt zum Superstar
+## Musikalisches Talent mit Star-Status ab dem Debüt
 
-Warner Music erkannte das Potenzial dieser Stimme. **Im Jahr 2008 unterschrieb Xiao Jing-teng bei Warner Music Taiwan und veröffentlichte sein Debütalbum mit demselben Namen, „Xiao Jing-teng“.** Die Singles „The Prince’s New Clothes“ und „Collection“ wurden sofort zu Hits und bewiesen seine explosive Kraft auch im Popgenre.
+Warner Music erkannte offensichtlich das Potenzial dieser Stimme. **Im Jahr 2008 unterzeichnete Jam Hsiao einen Vertrag mit Warner Music Taiwan und veröffentlichte sein selbstbetiteltes Debütalbum „Jam Hsiao“.** Lieder wie „The Prince's New Clothes“ (王子的新衣) und „Collection“ (收藏) wurden sofort zu Hits und bewiesen seine enorme Kraft im Popbereich.
 
-Was ihn jedoch wirklich beeindruckte, war seine Fähigkeit, verschiedene Musikstile zu beherrschen. Von Poprock bis Jazz Blues, von langsamen Balladen bis elektronischer Tanzmusik – Xiao Jing-tengs Stimme wechselte wie ein Chamäleon mühelos zwischen den Stilen. **Diese vielseitige musikalische Kompetenz ist in der chinesischen Musikszene äußerst selten und war entscheidend für seine anhaltende Wettbewerbsfähigkeit.**
+Was jedoch wirklich beeindruckte, war seine Fähigkeit, verschiedene Musikstile zu beherrschen. Von Pop-Rock bis Jazz-Blues, von Balladen bis hin zu Electronic Dance Music – Jam Hssoas Stimme wechselt wie ein Chamäleon frei zwischen den Genres. **Diese vielseitige musikalische Kompetenz ist unter Mandopop-Sängern äußerst selten und der Schlüssel zu seiner anhaltenden Wettbewerbsfähigkeit.**
 
-Seine Liebe und sein Verständnis für Jazz waren besonders bemerkenswert. In der chinesischen Popmusik gibt es wenige Künstler, die Jazz so tiefgründig erforschen und eigene „Jazz Soul“-Alben veröffentlichen wie Xiao Jing-teng. Diese Werke erweiterten das musikalische Spektrum des Jazz in der chinesischen Musikszene.
+Besonders beeindruckend war seine Liebe und sein Verständnis für Jazz. Unter den populären Mandopop-Sängern gibt es nur wenige, die Jazz so tiefgehend erkunden wie Jam Hsiao und sogar eine spezielle „Jazz Soul“-Albumreihe veröffentlicht haben. Diese Werke erweiterten den musikalischen Horizont der Mandopop-Szene in Bezug auf Jazz.
 
-## Die Etablierung als Golden Melody King
+## Die Etablierung als Golden Melody Song King
 
-**Am 6. Juli 2013 fand die 24. Golden Melody Awards statt.** Als Jay Chou den Namen „Xiao Jing-teng“ nannte, wurden die Augen dieses ehemaligen Kampfteilnehmers groß und er wurde so nervös, dass seine Sprache ins Stocken geriet.
+**Am 6. Juli 2013 fand die 24. Verleihung der Golden Melody Awards statt.** Als Jolin Tsai (蔡依林) den Namen „Jam Hsiao“ aussprach, riss dieser ehemalige Herausforderer die Augen weit auf und war so nervös, dass er beim Sprechen stockte.
 
-„Danke für den Golden Melody Award, danke an die Jury, und allen Freunden, die mich unterstützt haben – ich liebe euch.“ Xiao Jing-teng war auf der Bühne so emotional, dass er kaum sprechen konnte. Im Publikum klatschte Jay Chou zwar nicht als Gewinner, aber glücklich für seinen Freund.
+„Danke an die Golden Melody Awards, danke an die Jury, ah, und danke an alle Freunde, die mich immer unterstützt haben, ich liebe euch.“ Jam Hsiao war auf der Bühne so bewegt, dass er kaum zusammenhängende Sätze bilden konnte; Jay Chou (周杰倫), der selbst nicht gewonnen hatte, applaudierte seinem Freund dennoch voller Freude.
 
-**Mit seinem vierten Album „It’s all about LOVE“ besiegte Xiao Jing-teng starke Konkurrenten wie Lin Yu-jia, Jay Chou, Song Nianyu und Fang Datong und gewann den Preis für den besten chinesischen Sänger.** Noch historischer war es, dass er der erste Künstler war, der den Golden Melody Award als Teilnehmer eines Kampfwettbewerbs gewonnen hatte.
+**Mit seinem vierten Album „It's All About LOVE“ (以愛之名) besiegte Jam Hsiao starke Konkurrenten wie Lin You-jia (林宥嘉), Jay Chou, Song Nian-yu (宋念宇) und Khalil Fong (方大同) und gewann den Preis als bester männlicher Sänger in Mandarin.** Von historischer Bedeutung ist zudem, dass er der erste Künstler war, der als Teilnehmer der „Super Star Avenue“-Challenge einen Golden Melody Award gewann.
 
-Dieser Preis bestätigte nicht nur seine musikalische Leistung, sondern symbolisierte auch die Anerkennung des chinesischen Musikgenres für vielfältige Stilrichtungen. Xiao Jing-tengs Erfolg öffnete eine Tür für Sänger, die nicht dem Mainstream folgten.
+Diese Auszeichnung war nicht nur eine Anerkennung seiner musikalischen Leistung, sondern symbolisierte auch die Akzeptanz vielfältiger Musikstile in der Mandopop-Welt. Jam Hssoas Erfolg öffnete die Tür für Sänger, die keinen rein mainstream-orientierten Weg einschlagen.
 
-## Die Geburt des Regengotts-Mythos
+## Die Legende des „Regengottes“
 
-Wenn der Golden Melody Award seinen Platz in der Musikwelt festigte, machte ihn der Spitzname „Regengott“ zu einem Teil der taiwanesischen Popkultur.
+Während die Golden Melody Awards seinen Status in der Musikwelt festigten, machte ihn der Titel „Regengott“ zu einem Teil der Popkultur Taiwans.
 
-**Der Ursprung des Mythos vom „Regengott“ liegt am 21. Juli 2012.** Xiao Jing-teng gab in Peking im Wukesong Stadium ein Konzert. Aufgeregt kündigte er einen Tag vorher auf Weibo seinen Fans an: „Freunde aus Peking, wir sehen uns morgen um halb acht in Wukesong, bitte kommen Sie frühzeitig.“
+**Der Ursprung der „Regengott“-Legende liegt am 21. Juli 2012.** Jam Hsiao hielt ein Konzert im Wukesong Arena in Peking ab. In seiner Vorfreude rief er bereits einen Tag zuvor auf Weibo seine Fans auf: „Freunde in Peking, wir sehen uns morgen um halb acht im Wukesong, bitte kommt frühzeitig raus.“
 
-Er ahnte nicht, dass er eine Prophezeiung erfüllt hätte. **An diesem Tag gab es den stärksten Niederschlag seit der Hochwassergefahr; die Niederschlagsintensität war ein Extremereignis, das einmal in 61 Jahren vorkam, und die Stadt verwandelte sich fast in einen See.** Das Konzert wurde dadurch beeinflusst, aber die Fans bemerkten eine interessante Fügung: Wo Xiao Jing-teng auftrat, regnete es immer.
+Er ahnte wohl nicht, dass seine Worte wahr werden würden. **An jenem Tag verzeichnete Peking die stärksten Niederschläge seit Beginn der Regenzeit; die Intensität des Regens entsprach einem extremen Unwetter, das statistisch einmal in 61 Jahren vorkommt, wodurch die Stadt fast in ein Meer verwandelte sich.** Das Konzert wurde dadurch beeinträchtigt, doch die Fans bemerkten eine interessante Koinzidenz: Überall dort, wo Jam Hsiao auftrat, regnete es.
 
-Die folgenden Auftritte verstärkten diesen „Mythos“. Ein Konzert in Tianjin musste wegen zu starkem Regen verschoben werden, und andere Städte erlebten ebenfalls häufig Regentage. Die Netizen begannen, Xiao Jing-teng als „Regengott“ zu verspotten; dieser Spitzname entwickelte sich von einem Internetwitz zu seinem offiziellen Label.
+Spätere Auftritte verstärkten diesen „Mythos“. Ein Konzert in Tianjin musste wegen des starken Regens verschoben werden, und auch in anderen Städten kam es häufig zu Regen bei seinen Shows. Internetnutzer begannen, Jam Hsiao scherzhaft als „Regengott“ zu bezeichnen, und dieser Titel entwickelte sich von einem Internet-Witz zu seinem offiziellen Markenzeichen.
 
-> **💡 Wussten Sie**
-> Xiao Jing-teng hatte einmal scherzhaft gesagt, er wolle in eine trockene Region Afrikas gastieren: „Wenn es regnet, denke ich, die Landwirtschaft vor Ort wäre glücklich.“
+> **💡 Wussten Sie schon?**
+> Jam Hsiao scherzte einmal darüber, gerne in trockenen Regionen Afrikas Konzerte zu geben:
+> „Wenn es regnen sollte, würde ich denken, dass die dortige Landwirtschaft sehr glücklich wäre.“
 
-Xiao Jing-teng selbst äußerte sich von der anfänglichen Verwirrung über diesen Spitznamen bis zur späteren Annahme: „Ich mache diesen Witz seit zehn Jahren und bin nicht müde; ich kann auch keine Lüge erfinden.“ Für ihn war „Regengott“ mehr als nur ein Zufall; es wurde zu einer einzigartigen Verbindung zwischen ihm und seinen Fans.
+Jam Hsiao selbst reagierte auf den Titel – von anfänglicher Verwirrung bis hin zur späteren Akzeptanz: „Dieser Witz ist auch nach zehn Jahren noch nicht alt geworden, und ich kann mir keine neuen Ausreden mehr ausdenken.“ Für ihn ist der „Regengott“ nicht nur ein Zufall, sondern eine einzigartige Verbindung zu seinen Fans.
 
-## Die Lions Choir und der Crossover-Durchbruch
+## Lion Group und grenzüberschreitende Durchbrüche
 
-**Im Winter 2015 lud Xiao Jing-teng die Bandmitglieder, mit denen er fünf Jahre lang zusammengearbeitet hatte – Li Q und Zou Qiang –, und später den Schlagzeuger A Ju aus dem Casting seines Labels ein, um die „Lions Choir“ zu gründen.** Der Name stammt vom Refrain eines Demo-Songs, der an „Lion“ klang.
+**Im Winter 2015 lud Jam Hsiao seine seit fünf Jahren mit ihm zusammenarbeitenden Konzertmusiker Li Q (力Q) und Zou Qiang (鄒強) ein, eine Band zu gründen, der später auch der Schlagzeuger A-Ju (阿矩) aus dem Agentur-Audition hinzugefügt wurde, woraus die „Lion Group“ entstand.** Der Bandname leitet sich von der Melodie des Refrains eines ihrer Demo-Songs ab, die wie das englische Wort „Lion“ klingt.
 
-**Im Januar 2017 trat die Lions Choir als Debütkünstler bei Hunan TV’s „Singer 2017“ auf.** Dies war ein weiterer Höhepunkt in Xiao Jing-tengs musikalischer Karriere – nicht mehr nur als Solist, sondern als Bandleader. Nach intensivem Wettbewerb erreichte die Lions Choir am 15. April den dritten Platz.
+**Im Januar 2017 nahm die Lion Group als Erstbesetzung an der Show „Singer 2017“ des Hunan TV teil.** Dies war ein weiterer Höhepunkt in Jam Hssoas Karriere – nicht mehr nur als Solosänger, sondern als Frontmann einer Band. Nach einem intensiven Wettbewerb belegte die Lion Group am 15. April den dritten Platz im Finale.
 
-Diese Teilnahme enthüllte eine andere Seite von Xiao Jing-teng: Neben seiner technisch versierten Rolle als Sänger konnte er ein Team leiten und auf der Bühne chemische Reaktionen auslösen. Der Erfolg der Lions Choir bewies, dass seine musikalische Vision über die individuelle Performance hinausging und zu komplexerer musikalischer Komposition und Teamarbeit führte.
+Dieser Wettbewerb enthüllte eine andere Seite von Jam Hsiao: Neben seiner Rolle als technisch versierter Vocalist war er auch ein Bandleader, der sein Team führen und auf der Bühne eine besondere Chemie erzeugen konnte. Der Erfolg der Lion Group bewies, dass seine musikalische Vision über das Solo-Auftreten hinausging und hin zu komplexeren Arrangements und Teamarbeit führte.
 
 ## Ein vielseitiges Künstlerleben
 
-Neben seiner Musik war Xiao Jing-teng auch aktiv in Film und Fernsehen involviert. **Im Jahr 2011 wirkte er in dem Film „Killer Ouyang Penzai“ mit, und erhielt für dieses Werk den Hong Kong Film Award als bester neuer Schauspieler**, wodurch er zu einem Künstler wurde, der sowohl im Kino als auch in der Musik tätig war.
+Neben seiner Musikkarriere engagierte sich Jam Hsiao auch aktiv in Film- und Fernsehproduktionen sowie in Varieté-Shows. **Im Jahr 2011 spielte er in dem Film „Killer Ouyang Penzai“ (殺手歐陽盆栽) mit und gewann dafür den Hong Kong Film Award als bester Newcomer,** was ihn zu einem Künstler machte, der sowohl in der Musik als auch im Film erfolgreich war.
 
-**Von 2013 bis 2015 war Xiao Jing-teng drei Jahre lang Mentor bei „The Most Beautiful Harmony“ von Beijing TV und führte seine Schüler durch dreimaligen Gesamtsieg.** Dieser Rekord ist bis heute unerreicht und beweist, dass er nicht nur singen, sondern auch andere lehren konnte.
+**Von 2013 bis 2015 nahm Jam Hsiao drei Jahre in Folge als Mentor an der Sendung „The Most Beautiful Harmony“ (最美和聲) des Beijing TV teil, wobei seine Schüler drei aufeinanderfolgende Saisons lang den Gesamtsieg errangen.** Dieser Rekord ist bis heute ungeschlagen und beweist, dass er nicht nur singen, sondern auch anderen das Singen lehren kann.
 
-Er war zudem ein festes Mitglied der Jury von „Masked Singer“ und Mentor bei verschiedenen Musikfestivals. Diese Crossover-Teilnahmen brachten ihn einem breiteren Publikum näher und machten seine Anziehungskraft außerhalb der Musik bekannt.
+Er war zudem ein festes Mitglied der Jury von „Masked Singer“ sowie Mentor in verschiedenen Musikprogrammen. Diese grenzüberschreitenden Aktivitäten ermöglichten ihm den Kontakt zu einem breiteren Publikum und ließen mehr Menschen seinen Charme abseits der Musik kennenlernen.
 
-## Geschäftliche Reichweite und Kontroversen
+## Geschäftsimperium und Kontroversen
 
-Abseits seiner Musik war Xiao Jing-teng auch aktiv in Gastronomie investiert. **Im Jahr 2021 investierte er 150 Millionen Yuan als Markenmanager für die chinesische Lebensmittelmarke „Fu Mianmian“**, wobei der Eröffnungsladen in Chengdu große Menschenschlangen anzog.
+Neben seiner Musikkarriere investierte Jam Hsiao auch aktiv in die Gastronomie. **Im Jahr 2021 investierte er NT$150 Millionen, um als Markenverantwortlicher für die chinesische Gastronomiemarke „Fu Mian Mian“ (傅麵麵) tätig zu sein;** bei der Eröffnung des ersten Ladens in Chengdu bildeten sich lange Schlangen von Fans.
 
-Neben Trockennudeln investierte er auch in Teehäuser und japanisches Essen. Obwohl er während der Pandemie Schwierigkeiten mit dem Geschäft hatte und einmal überlegte, Verluste zu begrenzen, blieb Xiao Jing-teng an seinen Nebenprojekten interessiert. Sein Manager Summer sagte: „Selbst so ist Lao Xiao sehr interessiert an Investitionen.“
+Neben Trockennudeln investierte er auch in Tee-Shops und japanische Küche. Obwohl er während der Pandemie mit betrieblichen Schwierigkeiten konfrontiert war und sogar kurzzeitig über einen Stop-Loss nachdachte, behielt Jam Hsiao weiterhin Interesse an seinen Nebeninvestitionen. Seine Managerin Summer sagte einmal: „Selbst unter diesen Umständen hat Old Xiao immer noch großes Interesse an Investitionen.“
 
-Die politischen Veränderungen zwischen den beiden Seiten der Taiwanstraße brachten ihm jedoch auch Herausforderungen in seiner Crossover-Karriere. Im Jahr 2022 geriet er aufgrund einer Reihe von Äußerungen über die „Heimatnation“ in Kritik einiger Netizen auf beiden Seiten, was ihn dazu brachte, seine Hilflosigkeit als Künstler in einem politisch sensiblen Umfeld zu beklagen.
+Jedoch brachten auch die Veränderungen der politischen Lage zwischen beiden Seiten der Taiwanstraße Herausforderungen für seine grenzüberschreitende Entwicklung mit sich. Im Jahr 2022 geriet Jam Hsiao aufgrund einer Reihe von Äußerungen über das „Mutterland“ sowohl in Taiwan als auch auf dem chinesischen Festland in die Kritik einiger Internetnutzer, was ihn über die Hilflosigkeit von Entertainern in einem politisch sensiblen Umfeld nachdenken ließ.
 
-## Internationale Touren und kultureller Export
+## Internationale Tourneen und kultureller Export
 
-Als eine der Repräsentanten der taiwanesischen Popmusik trug Xiao Jing-teng aktiv dazu bei, die chinesische Musik auf die internationale Bühne zu bringen. **Während der Fußballweltmeisterschaft in Brasilien 2014 wurde er zum Botschafter für Taiwan ausgewählt, und sein Lied „Let Go“ war das Abschlusslied der Weltmeisterschaftsübertragung Taiwans.**
+Als eine der Repräsentanten der taiwanesischen Popmusik trieb Jam Hsiao auch den internationalen Export der Mandopop-Musik voran. **Während der Fußball-Weltmeisterschaft in Brasilien 2014 wurde er als Botschafter für die Region Taiwan ausgewählt, und sein Lied „Let Go“ wurde zum Abspannlied der Weltmeisterschaftsübertragungen in Taiwan.**
 
-**Im Jahr 2018 startete er die Welttournee „Mr. Entertainment“,** mit Auftritten in südostasiatischen Ländern wie Malaysia und Singapur. Diese Shows bestätigten seinen Bühnenzauber, der Sprachgrenzen überwand.
+**Im Jahr 2018 startete er seine „Mr. Entertainment“ Welttournee,** die sie durch Malaysia, Singapur und andere südostasiatische Länder führte. Diese Auftritte bestätigten seinen Bühnencharme, der Sprachbarrieren überwindet.
 
-**Im Jahr 2024 veranstaltete Xiao Jing-teng die Tournee „Wild“ (Yěshēng),** deren Thema die Kernqualität seiner musikalischen Karriere widerspiegelt: Natürlichkeit, Authentizität, Unberechenbarkeit. Von Shanghai bis Chengdu war jeder Auftritt ein „lebendiges musikalisches Fest“.
+**Im Jahr 2024 veröffentlichte Jam Hsiao die „Wild“ (野生) Tournee,** deren Thema seine zentralen musikalischen Eigenschaften widerspiegelt: natürlich, authentisch und unvorhersehbar. Von Shanghai bis Chengdu war jede Show ein „lebendiges Musikfest“.
 
-## Musikalische Philosophie und künstlerische Integrität
+## Musikalische Philosophie und künstlerische Beständigkeit
 
-In seinen sechzehn Jahren in der Musik hat Xiao Jing-teng stets an einer Überzeugung festgehalten: **Musik sollte rein sein und nicht zu sehr durch kommerzielle Erwägungen eingeschränkt werden.** Er folgte nicht blind den Markttrends, sondern verteidigte seinen eigenen Stil – diese Haltung verleiht seinen Werken eine einzigartige persönliche Note.
+In seiner sechzehnjährigen Musikkarriere hat Jam Hsiao stets an einem Glauben festgehalten: **Musik sollte rein sein und nicht übermäßig durch kommerzielle Erwägungen eingeschränkt werden.** Er folgt nicht blind den Markttrends, sondern beharrt auf seinem eigenen Stil, was seinen Werken eine einzigartige persönliche Note verleiht.
 
-Er sagte einmal: „Jeder definiert seine ‚Komfortzone‘ anders. In der Musik suche ich immer nach einem Gleichgewicht – etwas, das für mich und für die Zuhörer angenehm ist.“ Dieser Satz fasst seine kreative Philosophie gut zusammen: den eigenen Platz zwischen künstlerischer Qualität und Kommerzialität zu finden.
+Er sagte einmal: „Jeder definiert die ‚Komfortzone‘ anders. In der Musik suche ich ständig nach einem Gleichgewicht – etwas, das für mich selbst angenehm ist und auch für das Publikum.“ Dieser Satz fasst seine kreative Philosophie gut zusammen: seinen Platz zwischen Kunst und Kommerz zu finden.
 
-Von Straßenkünstler bis zum Kampf-Dämon, vom Golden Melody King zum Regengott-Mythos – Xiao Jing-teng bewies mit seiner einzigartigen Stimme und seinem unvorhersehbaren Lebensweg die Vielfalt und Inklusivität der taiwanesischen Popmusik. Er ist das beste Beispiel für die „unerwartete Schönheit“ in der chinesischen Musikszene.
+Vom Straßenkünstler über den „Challenge-König“ bis hin zum Golden Melody Song King und der Legende des „Regengottes“ – Jam Hsiao hat mit seiner einzigartigen Stimme und seinem unvorhersehbaren Lebensweg die Vielfalt und Inklusivität der taiwanesischen Popmusik bewiesen. Er ist der beste Repräsentant für die „Schönheit des Unerwarteten“ in der Mandopop-Welt.
 
-**In einer immer formalisierteren Musikindustrie erinnert uns Xiao Jing-teng daran: Die besten Stimmen stammen oft von Seelen, die nicht vorhersehbar sind.**
+**In einer zunehmend formelhaften Musikindustrie erinnert uns Jam Hsiao daran: Die besten Stimmen stammen oft von jenen Seelen, die sich nicht vorhersagen lassen.**
 
 ## Referenzen
 
-- [Wikipedia: Xiao Jing-teng](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Detaillierte Biografie und Werkliste
-- [National Cultural Memory Bank: 24. Golden Melody Awards – Xiao Jing-teng gewinnt den Preis für den besten chinesischen Sänger](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507328) — Gewinnerbilanz des Golden Melody Award
-- [CCTV News: Xiao Jing-teng, Jolin gewinnen den Preis für das beste Lied beim Golden Melody Award](https://news.pts.org.tw/article/244506) — Berichterstattung über die Golden Melody Awards 2013
-- [Wikipedia: Super Star Line Staffel 1](<https://zh.wikipedia.org/zh-tw/%E8%B6%85%E7%B4%9A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_(%E7%AC%AC%E4%B8%80%E5%B1%86)>) — Historische Aufzeichnungen des Kampfwettbewerbs
-- [Wikipedia: Lions LION](https://zh-yue.wikipedia.org/wiki/%E7%8D%85%E5%AD%90LION) — Informationen zur Gründung der Band und Teilnahme an Singer 2017
-- [ETtoday: Xiao Jing-tengs weiteres Nebengeschäft – Investition von 150 Millionen Yuan in ein Restaurant](https://star.ettoday.net/news/1962443) — Berichterstattung über die Gastronomieinvestitionen
-- [Top 10 of Asia: Taiwan's King of Golden Melody](https://www.top10asia.org/feature-story/taiwans-king-of-golden-melody/) — Internationale Vorstellung von Xiao Jing-teng
-- [Global Times: Jam Hsiao veröffentlicht neues Album](https://www.globaltimes.cn/page/202312/1304297.shtml) — Internationale Berichterstattung über das neue Album im Jahr 2023
+- [Wikipedia: Jam Hsiao](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Detaillierte Biografie und Werkliste
+- [National Cultural Memory Archive: 24. Golden Melody Awards – Jam Hsiao als bester Mandarin-Sänger gekürt](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507328) — Aufzeichnungen der Golden Melody Awards
+- [PTS News: Jam Hsiao als Golden Melody Song King, Jolin gewinnt Song des Jahres](https://news.pts.org.tw/article/244506) — Bericht über die Golden Melody Awards 2013
+- [Wikipedia: Die erste Staffel von Super Star Avenue](<https://zh.wikipedia.org/zh-tw/%E8%B6%85%E7%B4%9A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_(%E7%AC%AC%E4%B8%80%E5%B1%86)>) — Historische Aufzeichnungen der Challenge-Runden
+- [Wikipedia: LION](https://zh-yue.wikipedia.org/wiki/%E7%8D%85%E5%AD%90LION) — Informationen zur Gründung der Band und zur Teilnahme an Singer 2017
+- [ETtoday: Jam Hssoas Nebenbeschäftigung wächst weiter – Investition von NT$150 Millionen in Ladenöffnung](https://star.ettoday.net/news/1962443) — Bericht über Investitionen in die Gastronomie
+- [Top 10 of Asia: Taiwan's King of Golden Melody](https://www.top10asia.org/feature-story/taiwans-king-of-golden-melody/) — Internationale Einführung zu Jam Hsiao
+- [Global Times: Jam Hsiao releases new album](https://www.globaltimes.cn/page/202312/1304297.shtml) — Internationale Berichterstattung über das neue Album 2023

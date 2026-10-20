@@ -1,7 +1,8 @@
 ---
-title: 'Los embalses y la gestión de los recursos hídricos de Taiwán'
-description: 'Desde las crisis de escasez de agua hasta la sedimentación de los embalses: los desafíos de los recursos hídricos de Taiwán y la distribución desigual entre el norte y el sur'
+title: 'Embalses de Taiwán y gestión de los recursos hídricos'
+description: 'En esta isla de abundantes lluvias, el agua suele escasear debido a la concentración de precipitaciones en la temporada de tifones y la existencia de zonas de sombra pluviométrica; desde los embalses de Shimen y Zengwen hasta los de Feicui y Nanhua, el sistema sostiene la vida de millones de personas.'
 date: 2026-03-20
+category: 'Geography'
 tags:
   [
     'recursos hídricos',
@@ -12,239 +13,226 @@ tags:
   ]
 subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 11
-category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+difficulty: 'beginner'
+readingTime: 11
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
-translatedAt: '2026-05-01T20:54:23+08:00'
+translatedAt: '2026-10-15T15:59:47+08:00'
 ---
 
-# Los embalses y la gestión de los recursos hídricos de Taiwán
+# Embalses de Taiwán y gestión de los recursos hídricos
 
-En esta «isla de la lluvia», con una precipitación anual de 2500 milímetros, los recursos hídricos a menudo resultan insuficientes. Cuando la lluvia del mes de mayo no llega en primavera y los tifones esquivan la isla en verano, la «tensión hídrica» se convierte en la palabra clave anual de Taiwán. Desde el embalse de Shimen hasta el de Zengwen, desde el de Feicui hasta el de Nanhua, el sistema de embalses de Taiwán sostiene el sustento hídrico de 23 millones de personas.
+En esta «isla de lluvia» con una precipitación anual de 2500 mm, los recursos hídricos suelen ser insuficientes. La falta de lluvias durante la primavera del monzón Meiyu y el paso de los tifones en verano hacen que «escasez de agua» sea una palabra clave anual en Taiwán. Desde el embalse de Shimen hasta el de Zengwen, y desde el de Feicui hasta el de Nanhua, el sistema de embalses de Taiwán sostiene la vida de 23 millones de personas.
 
-## Las condiciones naturales de los recursos hídricos de Taiwán
+## Condiciones naturales de los recursos hídricos en Taiwán
 
 ### Precipitaciones abundantes pero desiguales
 
-Taiwán se encuentra en la zona de clima monzónico subtropical, con una precipitación media anual de aproximadamente 2500 milímetros, 2,6 veces el promedio mundial. Sin embargo, esta cifra es engañosa, ya que las lluvias son extremadamente desiguales tanto en el tiempo como en el espacio.
+Taiwán se encuentra en una zona de clima monzónico subtropical, con una precipitación media anual de unos 2500 mm, lo que representa 2,6 veces la media mundial. Sin embargo, esta cifra es engañosa, ya que las lluvias son extremadamente irregulares tanto en el tiempo como en el espacio.
 
-En términos temporales, alrededor del 80 % de las precipitaciones de Taiwán se concentran en la temporada de lluvias, de mayo a octubre, siendo las lluvias de la temporada de tifones las más intensas. Un tifón de tamaño medio puede aportar más de 1000 milímetros de lluvia, pero esta agua suele llegar de forma rápida y violenta, y la mayor parte fluye directamente al mar sin poder ser utilizada de forma eficaz.
+Temporalmente, aproximadamente el 80 % de las precipitaciones en Taiwán se concentran en la estación húmeda de mayo a octubre, siendo la temporada de tifones la más intensa. Un tifón de tamaño medio puede aportar más de 1000 mm de lluvia, pero estas precipitaciones suelen ser repentinas y violentas, y la mayor parte fluye directamente hacia el océano sin poder aprovecharse eficazmente.
 
-En términos espaciales, la precipitación anual en el este de Taiwán puede superar los 4000 milímetros, mientras que en el suroeste puede ser inferior a 1500 milímetros. El efecto de barrera de la cordillera central genera una zona de sombra pluviométrica significativa. Llanuras agrícolas importantes como la llanura de Chianan y la llanura de Kaohsiung se encuentran precisamente en el suroeste, relativamente seco, donde la demanda de agua es alta pero el suministro natural es insuficiente.
+Espacialmente, la precipitación anual en el este de Taiwán puede superar los 4000 mm, mientras que en el suroeste puede ser inferior a 1500 mm. El efecto de barrera de la Cordillera Central crea zonas de sombra pluviométrica muy marcadas. Las principales regiones agrícolas, como las llanuras de Chianan y Kaohsiung, se encuentran precisamente en el suroeste, una zona relativamente seca con una gran demanda de agua pero un suministro natural insuficiente.
 
-### Influencia del terreno en los recursos hídricos
+### La influencia del relieve en los recursos hídricos
 
-Taiwán tiene montañas altas y laderas empinadas, con ríos cortos: la distancia media desde la cordillera central hasta la costa es inferior a 100 kilómetros. Esta característica topográfica hace que el agua de lluvia fluya rápidamente al mar, con una capacidad de regulación natural muy limitada.
+Taiwán posee un relieve montañoso y escarpado con ríos cortos; la distancia media desde la Cordillera Central hasta la costa es inferior a 100 km. Esta característica topográfica provoca que el agua de lluvia fluya rápidamente hacia el mar, lo que resulta en una capacidad de regulación natural muy baja.
 
-Los ríos al oeste de la cordillera central, como el río Zhuoshui, el río Gaoping y el río Zengwen, aunque tienen cuencas hidrográficas relativamente grandes, presentan variaciones extremas de caudal entre la estación seca y la de lluvias debido a la fuerte pendiente del terreno. En la temporada de lluvias pueden producirse graves inundaciones, mientras que en la estación seca pueden quedar completamente secos.
+Los ríos al oeste de la Cordillera Central, como los de los ríos Zhuoshui, Gaoping y Zengwen, aunque tienen cuencas extensas, presentan variaciones extremas de caudal debido a la pendiente del terreno. Durante la estación húmeda pueden producirse inundaciones graves, mientras que en la estación seca el cauce puede secarse por completo.
 
-Las condiciones geológicas también afectan el aprovechamiento de los recursos hídricos. La llanura occidental está compuesta principalmente por capas aluviales, con abundantes aguas subterráneas pero propensas al hundimiento por sobreexplotación; el este está formado mayoritariamente por roca dura, con dificultad para almacenar agua pero de mejor calidad; el sur presenta formaciones calizas que facilitan la creación de sistemas de aguas subterráneas pero también son vulnerables a la contaminación.
+Las condiciones geológicas también influyen en el uso del agua. Las llanuras occidentales consisten principalmente en capas aluviales, con aguas subterráneas abundantes pero propensas a la sobreexplotación y al hundimiento del terreno; el este está compuesto mayoritariamente por rocas duras, que no retienen bien el agua pero ofrecen una mejor calidad; el sur presenta terrenos de piedra caliza, que facilitan la formación de sistemas de aguas subterráneas pero también son susceptibles a la contaminación.
 
 ## Historia del desarrollo de los embalses en Taiwán
 
-### Período colonial japonés: el inicio de la hidráulica moderna
+### Periodo de ocupación japonesa: El inicio de la hidráulica moderna
 
-La construcción moderna de embalses en Taiwán comenzó durante el período colonial japonés. El embalse de WushanTou, completado en 1930, fue el primer gran embalse, diseñado y construido por Hatta Yoichi, destinado principalmente al riego del sistema de canales de Chianan. La tecnología de construcción de este embalse fue bastante avanzada para su época, empleando una presa de tierra y roca de relleno semihidráulico, con una capacidad de almacenamiento de 150 millones de metros cúbicos.
+La construcción de embalses modernos en Taiwán comenzó durante el periodo de ocupación japonesa. El embalse de Wushantou, terminado en 1930, fue el primer gran embalse, diseñado y construido por Yataro Hatta para suministrar agua de riego al canal de Chianan. La técnica de construcción era avanzada para la época, utilizando un dique de tierra y piedra de relleno semi-hidráulico con una capacidad de almacenamiento de 150 millones de metros cúbicos.
 
-El éxito del embalse de WushanTou transformó la llanura de Chianan de tierras dependientes de la lluvia en tierras fértiles, aumentando significativamente la producción de arroz. Este proyecto también sentó las bases técnicas para la construcción hidráulica en Taiwán y formó talento local en ingeniería hidráulica.
+El éxito de Wushantou permitió que la llanura de Chianan pasara de depender de la suerte climática a ser una tierra fértil, aumentando drásticamente la producción de arroz. Esta obra también estableció las bases técnicas para la infraestructura hidráulica de Taiwán y formó al talento local en esta materia.
 
-Durante el período colonial japonés también se construyó el embalse del lago Sun Moon, pero su propósito principal era la generación de electricidad, no el suministro de agua. Este embalse aprovechó el terreno natural del lago Sun Moon para construir una central hidroeléctrica, convirtiéndose en una base fundamental para el desarrollo eléctrico de Taiwán.
+Durante este periodo también se construyó el embalse del Lago del Sol y la Luna, aunque su objetivo principal era la generación hidroeléctrica más que el suministro de agua. Este embalse aprovechó la topografía natural para construir centrales eléctricas, convirtiéndose en un pilar fundamental para el desarrollo energético de Taiwán.
 
-### Período de reconstrucción de posguerra: atención al agua potable
+### Periodo de reconstrucción tras la guerra: El enfoque en el uso civil
 
-Tras la guerra, la población de Taiwán creció rápidamente y el grado de urbanización aumentó, lo que provocó un incremento urgente de la demanda de agua potable. El gobierno comenzó a planificar y construir embalses destinados principalmente al suministro de agua.
+Tras la guerra, la población de Taiwán creció rápidamente y la urbanización aumentó, disparando la demanda de agua para uso doméstico. El gobierno comenzó a planificar embalses cuyo objetivo principal fuera el suministro de agua potable.
 
-En 1964 se completó el embalse de Shimen, el primer gran embalse multipropósito de la posguerra en Taiwán. Este embalse cumplía simultáneamente funciones de suministro de agua, generación de electricidad, control de inundaciones y turismo, convirtiéndose en un modelo para la construcción de embalses en Taiwán. El embalse de Shimen suministra agua principalmente a Taoyuan y parte de la ciudad de Nueva Taipéi, contribuyendo de manera decisiva al desarrollo del norte de Taiwán.
+En 1964 se terminó el embalse de Shimen, el primer gran embalse multiuso de Taiwán tras la guerra. Este embalse cumple funciones de suministro, generación eléctrica, control de inundaciones y turismo, convirtiéndose en un modelo para la construcción de infraques en la isla. El embalse de Shimen suministra agua principalmente a Taoyuan y partes de Nuevo Taipéi, siendo crucial para el desarrollo del norte de Taiwán.
 
-El embalse de Feicui comenzó a planificarse en 1973 y se completó en 1987. Fue construido exclusivamente para abastecer de agua al área de Taipéi, con un control estricto de la cuenca de captación para garantizar una excelente calidad del agua. El éxito del embalse de Feicui convirtió a Taipéi en la única ciudad de Taiwán que nunca ha sufrido escasez de agua.
+El embalse de Feicui se planificó en 1973 y se terminó en 1987. Fue construido específicamente para abastecer la zona de Taipéi, aplicando un estricto control de su zona de captación para garantizar una excelente calidad del agua. El éxito de Feicui ha permitido que Taipéi sea la única gran metrópolis de Taiwán que no sufre escasez de agua.
 
-### Décadas de 1980-1990: período de gran expansión
+### Décadas de 1980 y 1990: La era de las grandes obras
 
-En la década de 1980, la economía de Taiwán despegó y la demanda de agua industrial aumentó considerablemente, lo que llevó al gobierno a construir embalses a gran escala. En este período se completaron embalses importantes como Zengwen, Deji y Wushe.
+En la década de 1980, con el despegue económico de Taiwán, la demanda de agua industrial aumentó enormemente, lo que llevó al gobierno a construir embalses a gran escala. Durante este periodo se completaron proyectos importantes como los embalses de Zengwen, Degui y Wushe.
 
-El embalse de Zengwen se completó en 1973 y es el embalse más grande de Taiwán, con una capacidad de almacenamiento de 700 millones de metros cúbicos. Suministra agua principalmente para uso agrícola e industrial en la región de Chianan, desempeñando un papel clave en el desarrollo del sur de Taiwán.
+El embalse de Zengwen, terminado en 1973, es el más grande de Taiwán con una capacidad de 700 millones de metros cúbicos. Suministra principalmente agua para la agricultura y la industria de la región de Chianan, desempeñando un papel clave en el desarrollo del sur de Taiwán.
 
-El embalse de Deji, ubicado en el curso superior del río Dajia, se completó en 1974 y suministra agua principalmente a la región de Taichung. Este embalse de alta montaña, situado a más de 1000 metros sobre el nivel del mar, tiene una excelente calidad del agua, pero enfrenta problemas de sedimentación causados por los tifones y las lluvias torrenciales.
+El embalse de Degui, situado en la parte alta del río Dajia, se terminó en 1974 para abastecer a Taichung. Este embalse de alta montaña, situado a más de 1000 metros sobre el nivel del mar, ofrece agua de gran calidad, pero enfrenta problemas de sedimentación causados por las lluvias torrenciales de los tifones.
 
-### Desarrollo reciente: el auge de la conciencia ambiental
+### Desarrollo reciente: El auge de la conciencia ambiental
 
-A partir de la década de 1990, la conciencia ambiental cobró mayor relevancia y la construcción de nuevos embalses enfrentó más resistencia. Proyectos como el embalse de Meinong y el lago artificial de Jiyang fueron suspendidos debido a controversias ambientales. La sociedad civil comenzó a cuestionar la necesidad y el costo ambiental de los grandes embalses.
+A partir de la década de 1990, con el aumento de la conciencia ecológica, la construcción de nuevos embalses encontró mayor resistencia. Proyectos como los embalses de Meinong o el lago artificial de Jiyang se detuvieron debido a controversias ambientales. La sociedad civil comenzó a cuestionar la necesidad y el coste ecológico de las grandes represas.
 
-En los últimos años, la construcción de embalses se ha centrado en proyectos de mediana y pequeña escala, como el embalse de HushanShui y la renovación del embalse de Agongdian. Al mismo tiempo, el gobierno ha comenzado a dar mayor importancia al mantenimiento y la gestión de los embalses existentes, impulsando trabajos de dragado y renovación de infraestructuras.
+En años recientes, la construcción de embalses se ha centrado en proyectos medianos y pequeños, como el embalse de Hushan o la renovación del embalse de Agongdian. Al mismo tiempo, el gobierno ha empezado a priorizar el mantenimiento de los existentes, promoviendo la limpieza de sedimentos y la actualización de instalaciones.
 
 ## Introducción a los principales sistemas de embalses
 
 ### Sistema de recursos hídricos del norte
 
-El **embalse de Feicui** es la fuente de agua más importante del área metropolitana de Taipéi y uno de los embalses mejor gestionados de Taiwán. El desarrollo en la cuenca de captación está estrictamente controlado, manteniendo una excelente calidad del agua de forma sostenida. El embalse cuenta con instalaciones de toma de agua de doble nivel, lo que permite seleccionar la capa de extracción según las condiciones de calidad del agua, garantizando la calidad del suministro.
+El **embalse de Feicui** es la fuente de agua más importante para el área metropolitana de Taipéi y uno de los mejor gestionados de Taiwán. El desarrollo dentro de su zona de captación está estrictamente controlado, manteniendo una calidad de agua excelente. Utiliza instalaciones de captación de doble capa que permiten elegir el nivel según la calidad del agua, asegurando la pureza del suministro.
 
-El **embalse de Shimen** abastece a Taoyuan y parte de la ciudad de Nueva Taipéi, siendo una fuente de agua fundamental en el norte de Taiwán. Sin embargo, este embalse enfrenta graves problemas de sedimentación, y su capacidad efectiva de almacenamiento ha disminuido año tras año. El gobierno está impulsando un plan de renovación del embalse de Shimen, que incluye dragado y elevación del cuerpo de la presa, entre otras obras.
+El **embalse de Shimen** abastece a Taoyuan y partes de Nuevo Taipéi, siendo vital para el norte. Sin embargo, enfrenta graves problemas de sedimentación, lo que reduce su capacidad efectiva cada año. El gobierno está impulsando un plan de renovación que incluye la limpieza de lodos y el aumento de la altura del dique.
 
-Embalses de mediana y pequeña escala como el **embalse de XinshanShui** y el **embalse de Chengfu** cumplen funciones de suministro complementario. Aunque su tamaño no es grande, pueden desempeñar un papel crucial durante la estación seca.
+Embalses medianos y pequeños como los de **Xinshan** o **Chengfu** cumplen funciones de suministro complementario. Aunque no son de gran escala, desempeñan un papel crucial durante las estaciones secas.
 
 ### Sistema de recursos hídricos del centro
 
-El **embalse de Deji**, situado en el curso superior del río Dajia, es la principal fuente de agua de la región de Taichung. La calidad del agua de este embalse de alta montaña es excelente, pero la fragilidad geológica de su cuenca de captación provoca que los tifones y las lluvias torrenciales arrastren grandes cantidades de sedimentos, causando graves problemas de acumulación.
+El **embalse de Degui**, en el curso alto del río Dajia, es la principal fuente para Taichung. A pesar de su excelente calidad de agua, la fragilidad geológica de su zona de captación provoca que los tifones arrastren grandes cantidades de sedimentos, agravando la colmatación.
 
-El **embalse de Liyutan**, que abastece a la región de Miaoli, emplea un diseño de embalse fuera del cauce principal, evitando así los problemas de sedimentación del río principal. Este concepto de diseño se ha aplicado posteriormente a otros embalses de nueva construcción.
+El **embalse de Liyu** suministra agua a la región de Miaoli; utiliza un diseño de embalse de fuera de cauce para evitar la sedimentación del río principal, concepto que luego se aplicó en otras construcciones.
 
-El **embalse de HushanShui** es el gran embalse más recientemente completado en Taiwán, entrando en operación en 2016, y suministra agua principalmente a la región de Yunlin. Este embalse cuenta con un diseño moderno, equipado con sistemas de monitoreo avanzados y medidas de protección ambiental.
+El **embalse de Hushan** es el más reciente gran embalse de Taiwán, operativo desde 2016, destinado principalmente al suministro de Yunlin. Cuenta con un diseño moderno, sistemas de monitoreo avanzados y medidas de protección ambiental.
 
 ### Sistema de recursos hídricos del sur
 
-El **embalse de Zengwen** es el embalse más grande de Taiwán y opera en conjunto con el embalse de WushanTou, formando el sistema de embalses Zengwen-WushanTou. Este sistema es la principal fuente de agua para uso agrícola y doméstico en la región de Chianan, con una superficie de riego de 150 000 hectáreas.
+El **embalse de Zengwen** es el mayor de la isla y opera en conjunto con el embalse de Wushantou, formando el sistema Zengwen-Wushantou. Es la fuente principal para la agricultura y el uso civil en Chianan, cubriendo una superficie de riego de 150,000 hectáreas.
 
-El **embalse de Nanhua** suministra agua a parte de las regiones de Tainan y Kaohsiung, y adopta conceptos de diseño más modernos con buenas medidas de protección de la calidad del agua. Sin embargo, el área de captación de este embalse es relativamente pequeña, lo que limita su capacidad de suministro.
+El **embalse de Nanhua** abastece a partes de Tainan y Kaohsiung con un diseño más moderno y buenas medidas de protección de calidad. No obstante, su zona de captación es relativamente pequeña, lo que limita su capacidad de suministro.
 
-El **embalse de Agongdian** es la primera presa de tierra y roca de Taiwán, con una larga historia pero infraestructuras envejecidas. En los últimos años se ha llevado a cabo una renovación y reconstrucción para mejorar su capacidad de suministro y su seguridad.
+El **embalse de Agongdian** es el primer dique de tierra y piedra de Taiwán; tiene una larga historia pero sus instalaciones son antiguas, por lo que se están realizando renovaciones para mejorar la seguridad y capacidad.
 
-La **presa de derivación del río Gaoping**, aunque no es un embalse, es una instalación de suministro de agua importante para la región de Kaohsiung. Al elevar el nivel del agua mediante la presa de derivación, se incrementa la estabilidad de la captación.
+Aunque no es un embalse, la **presa de derivación del río Gaoping** es una infraestructura hídrica esencial para Kaohsiung, elevando el nivel del agua para aumentar la estabilidad en la captación.
 
-## Los desafíos de la gestión de los recursos hídricos
+## Desafíos en la gestión de los recursos hídricos
 
-### El problema de la sedimentación: la enfermedad crónica de los embalses
+### Sedimentación: La enfermedad crónica de los embalses
 
-Los embalses de Taiwán enfrentan de manera generalizada graves problemas de sedimentación. Debido a la fragilidad geológica de las cuencas de captación, los tifones y las lluvias torrenciales arrastran grandes cantidades de tierra y roca que se acumulan en los embalses, reduciendo su capacidad de almacenamiento.
+Los embalses de Taiwán sufren de forma generalizada la sedimentación. Debido a la fragilidad geológica de las cuencas, las lluvias torrenciales arrastran sedimentos que se acumulan en el fondo, reduciendo la capacidad de almacenamiento.
 
-La sedimentación del embalse de Shimen es la más grave: su capacidad efectiva de almacenamiento ha disminuido de los 200 millones de metros cúbicos de diseño original a 170 millones. La tasa de sedimentación del embalse de Deji alcanza el 47 %, afectando gravemente su capacidad de suministro.
+El caso más grave es el de Shimen, cuya capacidad efectiva ha bajado de los 200 millones de m³ originales a 170 millones de m³. En Degui, la tasa de sedimentación alcanza el 47 %, afectando seriamente el suministro.
 
-El dragado es el principal método para combatir la sedimentación, pero es costoso y de eficacia limitada. En los últimos años, el gobierno ha impulsado el «Plan de Fortalecimiento de la Conservación y Gestión de las Cuencas de Captación de Embalses», con el objetivo de reducir la entrada de sedimentos desde su origen. Al mismo tiempo, se están desarrollando nuevas tecnologías de dragado, como el desarenado hidráulico y el dragado mecánico terrestre.
+La limpieza de lodos es el método principal, pero es costoso y tiene efectos limitados. El gobierno promueve planes de conservación en las cuencas para reducir la entrada de sedimentos desde el origen, además de investigar nuevas técnicas como la evacuación hidráulica de arena o la excavación terrestre.
 
-### Protección de la calidad del agua: el dilema entre desarrollo y conservación
+### Protección de la calidad del agua: El dilema entre desarrollo y conservación
 
-La protección de la calidad del agua en las cuencas de captación de los embalses es un desafío permanente. Las actividades agrícolas, ganaderas, turísticas y de otro tipo dentro de las cuencas pueden afectar la calidad del agua. El gobierno debe encontrar un equilibrio entre el desarrollo económico y la protección de la calidad del agua.
+La protección de la calidad del agua en las zonas de captación es un reto constante. Las actividades agrícolas, ganaderas y turísticas pueden impactar el recurso. El gobierno debe equilibrar el desarrollo económico con la preservación ambiental.
 
-La gestión del embalse de Feicui es la más estricta: el desarrollo está prohibido dentro de la cuenca de captación e incluso se restringe el acceso de visitantes. Este control riguroso garantiza una excelente calidad del agua, pero también limita el desarrollo local.
+La gestión de Feicui es la más estricta: se prohíbe el desarrollo y se limita incluso el acceso de turistas para asegurar la pureza del agua. Esto garantiza la calidad, pero restringe el desarrollo local.
 
-El control de las cuencas de captación de otros embalses es relativamente más flexible, lo que genera una mayor presión por contaminación. La cuenca de captación del embalse de Zengwen alberga actividades agrícolas, turísticas y de otro tipo, lo que hace más compleja la gestión de la calidad del agua. El gobierno está promoviendo técnicas de ingeniería ecológica y medidas de reducción de la contaminación, buscando conciliar el desarrollo y la conservación.
+En otros embalses, el control es más laxo y enfrentan mayor presión contaminante. En Zengwen, la presencia de agricultura y turismo hace que la gestión sea compleja; el gobierno aplica métodos ecológicos y medidas de reducción de contaminación para intentar conciliar ambos intereses.
 
-### Los nuevos desafíos del cambio climático
+### Nuevos retos del cambio climático
 
-El cambio climático plantea nuevos desafíos para la gestión de los recursos hídricos en Taiwán. Los patrones de precipitación están cambiando, los eventos climáticos extremos son cada vez más frecuentes y los métodos tradicionales de planificación de recursos hídricos pueden dejar de ser adecuados.
+El cambio climático plantea nuevos desafíos. Los patrones de lluvia han cambiado y los eventos climáticos extremos han aumentado, lo que podría invalidar los métodos tradicionales de planificación.
 
-En los últimos años, Taiwán ha experimentado con frecuencia el fenómeno de la «ausencia de lluvias primaverales», con una reducción de las precipitaciones durante la temporada de lluvias de mayo, lo que impide que los embalses se recarguen eficazmente. La sequía histórica de 2021 hizo que las tasas de almacenamiento de varios embalses cayeran a mínimos históricos, poniendo de manifiesto la amenaza del cambio climático.
+Recientemente, Taiwán ha experimentado el fenómeno de la «ausencia de lluvias primaverales», donde la reducción de las lluvias del monzón Meiyu impide que los embalses se llenen eficazmente. La gran sequía de 2021, con niveles de almacenamiento en mínimos históricos, subrayó esta amenaza.
 
-Los cambios en las trayectorias de los tifones también afectan a los recursos hídricos. Los tifones que solían traer abundantes lluvias a Taiwán en los últimos años a menudo pasan de largo, reduciendo la recarga por precipitación. Incluso cuando un tifón llega, su intensidad puede ser tan extrema que el agua llega demasiado rápido y violentamente para poder ser utilizada de forma eficaz.
+El cambio en la trayectoria de los tifones también afecta el suministro. Tifones que antes traían lluvias abundantes ahora suelen pasar de largo, reduciendo la recarga hídrica. Incluso cuando impactan, su intensidad puede ser tan extrema que el agua llega con demasiada fuerza y rapidez para ser captada eficazmente.
 
-## Desigualdad regional de recursos hídricos y distribución
+## Desigualdad regional y distribución del agua
 
-### La brecha norte-sur: un contraste entre exceso y escasez
+### Brecha norte-sur: El contraste entre abundancia y escasez
 
-La distribución de los recursos hídricos en Taiwán es extremadamente desigual, generando una marcada brecha entre el norte y el sur. El norte cuenta con grandes embalses como Feicui y Shimen, con fuentes de agua relativamente abundantes; el sur, aunque dispone de embalses grandes como Zengwen, enfrenta una mayor presión de demanda de agua.
+La distribución del agua en Taiwán es muy desigual. El norte cuenta con grandes embalses como Feicui y Shimen, con suministros relativamente suficientes; el sur, aunque tiene el gran Zengwen, enfrenta una presión de demanda mucho mayor.
 
-El área metropolitana de Taipéi, gracias a las abundantes fuentes de agua del embalse de Feicui, casi nunca ha enfrentado crisis de escasez. Incluso durante la grave sequía de 2021, la región de Taipéi pudo mantener un suministro normal de agua. En cambio, las regiones centro y sur enfrentan con frecuencia tensiones hídricas.
+El área metropolitana de Taipéi casi nunca ha enfrentado crisis de escasez gracias al caudal de Feicui; incluso en la sequía de 2021, pudo mantener el suministro normal. En contraste, las regiones del centro y sur sufren con frecuencia por la falta de agua.
 
-Esta brecha no se debe únicamente a las condiciones naturales, sino también al desarrollo histórico. El norte, por su importancia política, ha recibido más inversión en infraestructura hidráulica; el sur, aunque agrícolamente desarrollado, cuenta con instalaciones hidráulicas relativamente insuficientes.
+Esta brecha no solo se debe a la naturaleza, sino también al desarrollo histórico: el norte ha recibido más inversión en infraestructura hidráulica debido a su importancia política, mientras que el sur, pese a su potencia agrícola, tiene instalaciones proporcionalmente insuficientes.
 
-### Competencia entre uso agrícola y uso doméstico del agua
+### Competencia entre uso agrícola y uso civil
 
-El uso agrícola del agua en Taiwán representa más del 70 % del consumo total, pero la producción agrícola supone menos del 2 % del PIB. Con la transformación de la estructura económica, la presión por reasignar agua agrícola hacia usos domésticos e industriales aumenta día a día.
+La agricultura consume más del 70 % del agua total de Taiwán, aunque su valor en el PIB es inferior al 2 %. Con la transformación económica, la presión para desviar agua de la agricultura hacia los sectores civil e industrial es creciente.
 
-La distribución de los recursos hídricos en la región de Chianan es la más compleja. El sistema de embalses Zengwen-WushanTou sirve principalmente al riego agrícola, pero los parques industriales como el Parque Científico de Tainan también requieren grandes cantidades de agua. Satisfacer las diferentes demandas con recursos hídricos limitados es un desafío importante para las autoridades de gestión.
+La distribución en Chianan es la más compleja. El sistema Zengwen-Wushantou sirve principalmente al riego, pero zonas industriales como el Parque Científico de Tainan también requieren grandes volúmenes. Satisfacer estas demandas contrapuestas con recursos limitados es un reto mayúsculo.
 
-El gobierno ha impulsado políticas de reasignación de agua agrícola, animando a los agricultores a reducir el riego durante la estación seca y transferir los recursos hídricos al uso doméstico e industrial. Sin embargo, esta medida también ha provocado protestas de los agricultores, que consideran que afecta al desarrollo agrícola.
+El gobierno promueve políticas de transferencia de agua agrícola, incentivando a los agricultores a reducir el riego en épocas secas para priorizar el uso civil e industrial, lo que ha generado protestas por temor al impacto en la producción.
 
-### Desafíos técnicos de la transferencia interregional de agua
+### Desafíos técnicos del trasvase interregional
 
-Para abordar el problema de la distribución desigual de los recursos hídricos entre regiones, el gobierno ha planificado varios proyectos de transferencia interregional de agua. Sin embargo, la compleja topografía de Taiwán plantea grandes desafíos técnicos para la transferencia de agua entre regiones.
+Para mitigar la desigualdad regional, se han planificado proyectos de trasvase. Sin embargo, la compleja topografía de Taiwán presenta grandes obstáculos técnicos.
 
-El plan «Sur-Norte», que pretendía transferir recursos hídricos del sur al norte, fue suspendido temporalmente debido a su alto costo y dificultades técnicas. El proyecto «Este-Oeste», que busca aprovechar las abundantes lluvias del este para complementar la demanda de agua del oeste, enfrenta igualmente obstáculos topográficos.
+El proyecto «Agua del Sur para el Norte» busca trasladar recursos hacia el norte, pero está pausado por su alto coste y dificultad técnica. El proyecto «Agua del Este para el Oeste» pretende usar las abundantes lluvias del este para abastecer al oeste, enfrentando también barreras geográficas.
 
-Actualmente, lo más viable es la distribución regional a corta distancia, como la distribución conjunta entre Taipéi y Nueva Taipéi, o el apoyo entre Taoyuan y Hsinchu. Aunque estas medidas son de escala limitada, pueden resultar eficaces en situaciones de emergencia.
+Actualmente, lo más viable son los trasvases regionales de corta distancia, como la coordinación entre Taipéi y Nuevo Taipéi, o el apoyo entre Taoyuan y Hsinchu. Aunque su escala es menor, son vitales en emergencias.
 
-## Desarrollo de fuentes de agua alternativas
+## Desarrollo de fuentes alternativas
 
-### Desalinización de agua de mar: obtener agua del mar
+### Desalinización: Obtener agua del mar
 
-Ante la insuficiencia de recursos hídricos, la desalinización de agua de mar se ha convertido en una alternativa importante. Taiwán, rodeado de mar por los cuatro costados, tiene la ventaja de que la desalinización ofrece un suministro estable e independiente de las condiciones climáticas.
+Ante la escasez, la desalinización es una opción clave. Al estar rodeada de mar, Taiwán tiene la ventaja de contar con una fuente estable que no depende del clima.
 
-Actualmente, Taiwán cuenta con varias plantas desalinizadoras en funcionamiento, incluidas las islas periféricas como Penghu, Kinmen y Matsu, así como lugares como Yongkang en Tainan y Hsinchu. Estas instalaciones utilizan principalmente tecnología de ósmosis inversa, y los costos de desalinización siguen disminuyendo.
+Ya existen plantas operativas en islas como Penghu, Kinmen y Matsu, así como en Yongkang (Tainan) y Hsinchu. Utilizan principalmente tecnología de ósmosis inversa, y sus costes siguen descendiendo.
 
-Sin embargo, la desalinización también tiene sus limitaciones. El consumo energético es elevado: se necesitan entre 3 y 5 kWh para producir una tonelada de agua dulce; las salmueras de alta concentración vertidas pueden afectar el medio marino; los costos de mantenimiento de las instalaciones son altos y requieren conocimientos técnicos especializados. El futuro desarrollo a gran escala de la desalinización dependerá de la capacidad para superar estos desafíos.
+No obstante, tiene limitaciones: un alto consumo energético (3-5 kWh por tonelada), la gestión del vertido de salmuera para no dañar el ecosistema marino y los altos costes de mantenimiento que requieren personal especializado.
 
-### Reutilización de aguas regeneradas: la práctica de la economía circular
+### Uso de agua regenerada: Economía circular
 
-Las aguas regeneradas son aguas residuales tratadas para su reutilización, constituyendo un medio importante de aprovechamiento cíclico de los recursos hídricos. En Taiwán, las aguas regeneradas se utilizan principalmente para refrigeración industrial, riego de jardinería, descarga de inodoros y otros usos.
+El agua regenerada consiste en reutilizar aguas residuales tratadas. En Taiwán, se emplea principalmente para refrigeración industrial, riego de paisajes y descargas de sanitarios.
 
-El Parque Científico de Hsinchu ha sido pionero en la reutilización de aguas regeneradas, construyendo una planta de tratamiento ya en la década de 1990 para suministrar agua a las empresas del parque. Esta experiencia exitosa se ha extendido posteriormente a otros parques científicos.
+El Parque Científico de Hsinchu es pionero, habiendo construido plantas de agua regenerada desde los años 90 para sus empresas. Este modelo se ha extendido a otros parques tecnológicos.
 
-La promoción de aguas regeneradas para uso doméstico es más difícil, principalmente por problemas de aceptación social. Aunque la calidad de las aguas regeneradas tratadas es excelente, la mayoría de la población aún tiene reticencias psicológicas. El gobierno está llevando a cabo campañas educativas sobre aguas regeneradas, buscando cambiar la percepción pública.
+La reutilización para uso civil es más difícil debido a la percepción pública. Aunque el agua tratada tiene buena calidad, existe una barrera psicológica; por ello, el gobierno realiza campañas educativas para cambiar esta mentalidad.
 
-### Captación de agua de lluvia: sabiduría de aprovechamiento local
+### Captación de lluvia: Sabiduría local
 
-La captación de agua de lluvia es un método antiguo pero eficaz de aprovechamiento de recursos hídricos. En Taiwán, con un alto grado de urbanización, la captación de agua de lluvia no solo puede incrementar las fuentes de agua, sino también reducir el riesgo de inundaciones urbanas.
+La captación de agua de lluvia es un método antiguo pero eficaz. En una Taiwán altamente urbanizada, esto no solo aumenta la oferta de agua, sino que reduce el riesgo de inundaciones urbanas.
 
-El gobierno ha promovido los «Estándares para la Instalación de Sistemas de Captación de Agua de Lluvia en Edificios», exigiendo que las nuevas construcciones cuenten con sistemas de captación de agua de lluvia. Estos sistemas pueden recoger agua del tejado para usos como riego y limpieza.
-
-Los sistemas comunitarios de captación de agua de lluvia también se están extendiendo gradualmente. Mediante la instalación de grandes depósitos de almacenamiento, comunidades enteras pueden compartir los recursos de agua de lluvia. Este enfoque es especialmente adecuado para las condiciones climáticas de Taiwán, donde las lluvias son abundantes pero distribuidas de forma desigual.
+El gobierno promueve estándares para que los nuevos edificios instalen sistemas de recogida de agua de lluvia para riego o limpieza. También se están extendiendo sistemas comunitarios donde toda una zona utiliza colectivamente la captación pluvial, algo ideal para el clima de lluvias intensas pero irregulares de la isla.
 
 ## El futuro de la gestión inteligente del agua
 
 ### Aplicación de tecnología IoT
 
-La tecnología del Internet de las Cosas (IoT) ha traído cambios revolucionarios a la gestión de los recursos hídricos. Mediante la instalación de sensores en embalses, redes de distribución y puntos de consumo, es posible monitorear en tiempo real datos como niveles de agua, calidad del agua y caudales, logrando una gestión precisa.
+El Internet de las Cosas (IoT) está revolucionando la gestión hídrica. Mediante sensores en embalses, redes de tuberías y puntos de consumo, es posible monitorizar niveles, calidad y caudales en tiempo real para una gestión de precisión.
 
-La Compañía de Agua de Taiwán está impulsando el plan «Red Inteligente de Agua», utilizando tecnologías como contadores inteligentes, monitoreo de presión y detección de fugas para mejorar la eficiencia del suministro. Estas tecnologías permiten detectar problemas de fugas de forma temprana, reduciendo el desperdicio de recursos hídricos.
+La Compañía de Agua de Taiwán impulsa el proyecto «Red de Agua Inteligente», utilizando contadores inteligentes y detección de fugas por presión para mejorar la eficiencia y reducir el desperdicio.
 
-La gestión de embalses también ha incorporado tecnología IoT. Mediante sistemas de monitoreo meteorológico, alerta de niveles de agua y operación automatizada, es posible realizar una distribución más precisa de los recursos hídricos. La aplicación de tecnología de inteligencia artificial permite predecir la demanda de agua y optimizar las estrategias de suministro.
+La gestión de embalses también integra IoT con monitorización meteorológica y alertas automáticas. El uso de Inteligencia Artificial permitirá predecir la demanda y optimizar las estrategias de suministro.
 
-### Tecnología de gemelo digital
+### Tecnología de Gemelos Digitales (Digital Twin)
 
-La tecnología de gemelo digital (Digital Twin) replica las instalaciones hidráulicas físicas en un espacio virtual, permitiendo simular diversos escenarios y evaluar los efectos de diferentes estrategias.
+La tecnología de gemelos digitales recrea infraestructuras físicas en un espacio virtual para simular escenarios y evaluar estrategias.
 
-Esta tecnología es especialmente adecuada para la gestión de la operación de embalses. Mediante la creación de un modelo digital del embalse, es posible simular los cambios de nivel de agua bajo diferentes escenarios de precipitación y formular estrategias operativas óptimas. También permite evaluar los efectos de proyectos de mejora de ingeniería, reduciendo los riesgos de la construcción real.
+Esto es ideal para la gestión de embalses, permitiendo modelar cómo cambiaría el nivel del agua ante distintos patrones de lluvia o evaluar el impacto de obras de mejora antes de ejecutarlas, reduciendo riesgos. También se aplica a las redes de tuberías para simular cambios de presión y fugas.
 
-La gestión de redes de distribución también puede aplicar la tecnología de gemelo digital. La creación de un modelo digital completo de la red permite simular cambios de presión, impactos de fugas y otros factores, ayudando a formular planes de mantenimiento.
+### Predicción mediante Inteligencia Artificial
 
-### Predicción mediante inteligencia artificial
+La IA tiene un gran potencial en la predicción hídrica. Analizando datos meteorológicos e históricos de consumo, puede prever con exactitud la lluvia y la demanda futura.
 
-La inteligencia artificial muestra un gran potencial en la predicción de recursos hídricos. Mediante el análisis de datos meteorológicos históricos, datos de consumo de agua y otros, es posible predecir con mayor precipitación las precipitaciones, la demanda de agua y otros indicadores clave.
+En el corto plazo, ayuda a gestionar el suministro diario; a largo plazo, permite planificar infraestructuras ante el cambio climático. La IA es crucial para las alertas tempranas de sequías o lluvias torrenciales, ganando tiempo vital para la respuesta de emergencia.
 
-En el ámbito de la predicción a corto plazo, la IA puede predecir la demanda de agua para los próximos días, ayudando a distribuir las fuentes de suministro. La predicción a largo plazo permite evaluar los impactos del cambio climático y planificar futuras infraestructuras hidráulicas.
+## Experiencia internacional y aprendizaje para Taiwán
 
-La alerta temprana de eventos extremos es una aplicación importante de la IA. Mediante el análisis de datos meteorológicos, es posible alertar con antelación sobre sequías o lluvias torrenciales, ganando tiempo de respuesta. Esto es especialmente importante para regiones como Taiwán, donde los cambios climáticos son drásticos.
+### La estrategia de las cuatro fuentes de Singapur
 
-## Experiencia internacional y lecciones para Taiwán
+Singapur es un modelo de éxito cuya «estrategia de las cuatro fuentes» merece ser estudiada: fuentes locales, importación, agua regenerada y desalinización.
 
-### La estrategia de las «cuatro fuentes de agua» de Singapur
+Su tecnología de agua regenerada es tan avanzada que el agua puede ser potable directamente. Mediante la marca «NEWater», lograron cambiar la percepción pública, una lección valiosa para Taiwán. En desalinización, su uso de tecnologías de membrana avanzadas ha reducido costes y energía.
 
-Singapur es un modelo de éxito en la gestión de recursos hídricos, y su «estrategia de las cuatro fuentes de agua» merece ser estudiada por Taiwán. Las cuatro fuentes incluyen agua de captación local, agua importada, agua regenerada y agua desalinizada, garantizando la seguridad del suministro.
+### Agricultura de ahorro de agua en Israel
 
-La tecnología de agua regenerada de Singapur es especialmente avanzada: la calidad del agua regenerada es tan alta que incluso puede beberse directamente. El gobierno ha logrado cambiar la percepción pública sobre el agua regenerada mediante la creación de la marca «NEWater». Esta experiencia es muy inspiradora para la promoción del agua regenerada en Taiwán.
+Israel ha desarrollado técnicas avanzadas como el riego por goteo y la fertirrigación, transformando desiertos en oasis. Aunque Taiwán no es una zona árida, la magnitud de su consumo agrícola hace que estas tecnologías sean igualmente vitales. El gobierno impulsa la agricultura inteligente para mejorar la eficiencia del uso del agua.
 
-En cuanto a la desalinización, Singapur ha mejorado continuamente la tecnología, reduciendo costos y consumo energético. Sus plantas desalinizadoras emplean la tecnología de membrana más avanzada, con una eficiencia notablemente mejorada. Taiwán puede tomar como referencia su experiencia técnica y de gestión.
+La política de precios de Israel también es un referente: el uso de tarifas escalonadas incentiva el ahorro y penaliza el exceso de consumo mediante impuestos, un mecanismo de mercado a menudo más eficaz que la regulación administrativa.
 
-### La agricultura de ahorro de agua de Israel
+## Un futuro sostenible para los recursos hídricos en Taiwán
 
-Israel ha desarrollado tecnologías avanzadas de agricultura de ahorro de agua en regiones áridas, incluyendo riego por goteo, microaspersión e integración de agua y fertilizantes. Estas tecnologías han aumentado enormemente la eficiencia en el uso de los recursos hídricos, transformando el desierto en tierra fértil.
+Ante el cambio climático y el crecimiento poblacional, Taiwán debe construir un sistema de gestión más sostenible mediante el esfuerzo conjunto de gobierno, empresas y ciudadanos.
 
-Aunque Taiwán no es una región árida, el consumo agrícola de agua es enorme y las tecnologías de ahorro agrícola son igualmente importantes. El gobierno está promoviendo la agricultura inteligente, incluyendo tecnologías como riego de precisión y monitoreo del suelo, con el objetivo de mejorar la eficiencia del uso agrícola del agua.
+En lo técnico, es necesario seguir desarrollando la desalinización, el agua regenerada y la gestión inteligente, además de mejorar las infraestructuras existentes (limpieza de lodos y renovación de redes).
 
-La política de tarifas de agua de Israel también merece ser tomada como referencia. Mediante tarifas escalonadas, se fomenta el ahorro de agua; el uso excesivo se grava con impuestos elevados, desincentivando el desperdicio. Este mecanismo de mercado es más eficaz que el control administrativo.
+En lo institucional, se requiere un mecanismo de precios que refleje el coste real del agua y un sistema de derechos de agua que permita una distribución eficiente entre usos.
 
-## El futuro sostenible de los recursos hídricos de Taiwán
-
-Ante los desafíos del cambio climático y el crecimiento demográfico, Taiwán debe establecer un sistema de gestión de recursos hídricos más sostenible. Esto requiere el esfuerzo conjunto del gobierno, las empresas y la ciudadanía.
-
-En el plano tecnológico, es necesario seguir desarrollando tecnologías de agua regenerada, desalinización, gestión inteligente y otras, mejorando la eficiencia en el uso de los recursos hídricos. Al mismo tiempo, se deben mejorar las infraestructuras existentes, incluyendo dragado de embalses y renovación de redes de distribución.
-
-En el plano institucional, se debe establecer un mecanismo de tarifas de agua más razonable que refleje el costo real de los recursos hídricos. Asimismo, se debe perfeccionar el sistema de derechos de agua para permitir una distribución efectiva entre los diferentes usos.
-
-En el plano social, se debe reforzar la educación ciudadana sobre el ahorro de agua, fomentando una cultura de consumo responsable. Las empresas también deben asumir su responsabilidad social, adoptando tecnologías de ahorro de agua y reduciendo el desperdicio.
-
-El agua es la fuente de la vida y la base del desarrollo económico. En esta hermosa isla, debemos valorar cada gota de agua y gestionar los recursos hídricos de forma inteligente, garantizando que las generaciones futuras también puedan disfrutar de fuentes de agua abundantes y limpias. Esta no es solo responsabilidad del gobierno, sino también una misión de cada persona.
+En lo social, es vital fortalecer la educación sobre el ahorro de agua. El agua es la fuente de la vida y la base del desarrollo económico; en esta hermosa isla, debemos valorar cada gota para asegurar que las generaciones futuras también disfruten de fuentes de agua limpias y suficientes. No es solo responsabilidad del gobierno, sino una misión de todos.
 
 ---
 
 Lecturas complementarias:
 
-- [Sistema fluvial y características hidrológicas de Taiwán](/es/geography/taiwan-river-systems-and-hydrology)
+- [Sistemas fluviales de Taiwán y características hidrológicas](/es/geography/taiwan-river-systems-and-hydrology)
 - [Clima](/es/geography/climate)
 - [Movimiento de placas y actividad sísmica en Taiwán](/es/geography/tectonic-plates-and-seismic-activity)

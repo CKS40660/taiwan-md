@@ -1,18 +1,18 @@
 ---
 title: '台湾を見る — 歴史における台湾の印象'
-description: '大航海時代から現代まで、各時代各民族がこの島をどのように見てきたか'
+description: '大航海時代から現代に至るまで、様々な民族がそれぞれの方法でこの島を見つめてきました。タイヤル族は祖霊が土地に痕跡を残し、山川や河川がすべて祖先の身体であり、自らを大地の子どもと呼んでいます。アミ族は根付くイメージで土地とのつながりを表現しています。この引言集は世代を超えて伝わる伝説と島の記憶を収集し、多様な視点を織りなしています。'
 date: 2026-03-17
-tags: ['quotes', 'history', 'literature', 'culture']
+tags: ['引用', '歴史', '文学', '文化']
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-09-23T08:41:06+08:00'
+translatedAt: '2026-10-15T21:42:46.662674+00:00'
 ---
 
 # 台湾を見る — 歴史における台湾の印象

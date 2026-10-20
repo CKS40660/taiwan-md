@@ -1,25 +1,33 @@
 ---
-title: '台湾の手搖飲文化'
-description: '珍珠奶茶から精品茶飲まで、台湾手搖飲文化の台頭とグローバル展開'
+title: '台湾の手作りドリンク文化'
+description: '1980年代にタピオカミルクティーが誕生して以来、手作りドリンクはこの島を代表する生活のシンボルとなりました。街角の「50嵐（フィフティ・ラン）」、商業施設の「貢茶（ゴンチャ）」、伝統の「春水堂（チュンスイタン）」、そして新しいトレンドの「迷客夏（ミークーシャ）」まで、色とりどりの看板が至る所に見られます。創造的な茶飲料で世界市場を開拓し、台湾の人々の生活の質への追求、革新への情熱、そして共通の記憶を記録しています。'
 date: 2026-03-19
 category: 'Food'
-tags: ['料理', '手搖飲', '珍珠奶茶', '茶飲', '文化輸出', 'ブランド国際化']
+tags:
+  [
+    'グルメ',
+    '手作りドリンク',
+    'タピオカミルクティー',
+    '茶飲料',
+    '文化輸出',
+    'ブランドの国際化',
+  ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'クラシック珍珠奶茶の特写'
+imageAlt: 'クラシックなタピオカミルクティーのクローズアップ'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'be862e364'
+sourceCommitSha: 'a520d024d'
 sourceContentHash: 'sha256:a47269dba2b81fb2'
 sourceBodyHash: 'sha256:c5ee37f744247683'
-translatedAt: '2026-10-03T00:56:56+08:00'
+translatedAt: '2026-10-15T19:43:29.591256+00:00'
 ---
 
 # 台湾の手搖飲文化

@@ -1,6 +1,6 @@
 ---
-title: 'Perusahaan Taiwan: Realtek Semikonduktor'
-description: 'Tujuh insinyur memulai usaha dengan 2 juta, membuat kepiting kecil merayapi setiap komputer di dunia — sebuah kisah legendaris'
+title: 'Perusahaan Taiwan: Realtek Semiconductor'
+description: 'Tujuh insinyur yang bekerja di perusahaan asing mendirikan bisnis di Kawasan Sains Hsinchu dengan modal puluhan ribu dolar, menggunakan kepiting sebagai logo, dan meluncurkan chip jaringan pertama hasil riset mandiri Taiwan; kini perusahaan desain ini menempati peringkat ketiga terbesar di Taiwan.'
 date: 2026-03-20
 category: 'Economy'
 tags: ['Ekonomi', 'Perusahaan', 'Semikonduktor', 'Desain IC']
@@ -10,105 +10,105 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:4a3e5b2147abfd30'
+sourceCommitSha: '57cdd3ae4'
+sourceContentHash: 'sha256:bc61864ded99ef44'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-08-10T03:52:05.370602+00:00'
+translatedAt: '2026-10-15T12:42:56+08:00'
 ---
 
-> **Ringkasan 30 detik:** Pada 1987, tujuh insinyur mendirikan Realtek Semiconductor dengan modal 2 juta yuan di Taman Sains Hsinchu, menggunakan kepiting sebagai merek dagang, dan pada 1991 meluncurkan chip jaringan pertama Taiwan yang dikembangkan secara mandiri. Pada 2024, pendapatan konsolidasi sekitar 113,4 miliar yuan, menjadikannya perusahaan desain IC ketiga terbesar Taiwan, dan hampir setiap komputer di dunia kemungkinan menyimpan sebuah "Kepiting Realtek".
+> **Ringkasan 30 Detik:** Pada tahun 1987, tujuh insinyur mendirikan Realtek Semiconductor di Kawasan Sains Hsinchu dengan modal NT$2 juta. Menggunakan kepiting sebagai logo, mereka meluncurkan chip jaringan pertama hasil riset mandiri Taiwan pada tahun 1991. Pada tahun 2024, pendapatan gabungannya mencapai sekitar NT$113,4 miliar, menjadikannya perusahaan desain IC terbesar ketiga di Taiwan. Di setiap komputer di seluruh dunia, kemungkinan besar terdapat "kepiting Realtek" yang tersembunyi di dalamnya.
 
-Jika Anda pernah menggunakan komputer, Anda kemungkinan besar telah berinteraksi dengan seekor kepiting. Merek dagang kepiting ini milik Realtek Semiconductor, perusahaan desain IC ketiga terbesar Taiwan, dengan produk utama meliputi pengontrol jaringan, chip audio, dan chip kontrol tampilan, yang terintegrasi secara luas ke dalam motherboard, router, televisi, dan perangkat akhir lainnya di seluruh dunia.
+Jika Anda pernah menggunakan komputer, kemungkinan besar Anda pernah berurusan dengan seekor kepiting. Logo kepiting ini adalah milik Realtek Semiconductor (瑞昱半導體), perusahaan desain IC terbesar ketiga di Taiwan, dengan produk utama mencakup pengontrol jaringan, chip audio, dan chip kontrol tampilan yang terintegrasi luas pada perangkat akhir seperti motherboard, router, dan televisi di seluruh dunia.
 
-## Taruhan 2 Juta Yuan dari Tujuh Pendekar
+## Taruhan NT$2 Juta dari Tujuh Pendekar
 
-Pada 1987, Taiwan baru saja mengakhiri hukum darurat, ekonominya sedang melesat, dan Taman Sains Hsinchu baru berdiri beberapa tahun. Tujuh insinyur yang bekerja di perusahaan asing berkumpul, mendiskusikan sebuah ide berani: bisakah kita membuat chip sendiri?
+Pada tahun 1987, Taiwan baru saja mengakhiri masa darurat militer, ekonomi sedang melesat, dan Kawasan Sains Hsinchu (新竹科學園區) baru berdiri beberapa tahun. Tujuh insinyur yang bekerja di perusahaan asing berkumpul untuk mendiskusikan sebuah ide berani: Bisakah kita membuat chip sendiri?
 
-Saat itu industri teknologi Taiwan masih dalam tahap perakitan OEM, mendesain chip sendiri kedengarannya seperti khayalan. Namun tujuh insinyur ini percaya bahwa insinyur Taiwan memiliki kemampuan tersebut.
+Saat itu, industri teknologi Taiwan masih dalam tahap manufaktur kontrak (OEM/assembly), sehingga ide merancang chip sendiri terdengar seperti dongeng. Namun, ketujuh insinyur ini percaya bahwa insinyur Taiwan memiliki kemampuan tersebut.
 
-Mereka mengumpulkan 2 juta yuan dan mendirikan Realtek Semiconductor pada 21 Oktober 1987.[^1] Nama perusahaan dalam bahasa Inggris adalah Realtek.
+Mereka mengumpulkan dana sebesar NT$2 juta dan mendirikan Realtek Semiconductor pada 21 Oktober 1987. [^1] Nama bahasa Inggris perusahaan ini adalah Realtek.
 
-Memilih kepiting sebagai merek dagang memiliki alasan menarik: kepiting meski kecil, memiliki daya adaptasi yang kuat, dan dapat bertahan di berbagai lingkungan. Inilah harapan mereka untuk perusahaan—menemukan jalan kelangsungan hidup sendiri di industri teknologi yang kompetitif.
+Ada alasan menarik di balik pemilihan kepiting sebagai logo: meskipun kecil, kepiting memiliki daya adaptasi yang kuat dan dapat bertahan hidup di berbagai lingkungan. Inilah harapan mereka terhadap perusahaan—menemukan jalan untuk bertahan hidup di tengah industri teknologi yang sangat kompetitif.
 
 ## Kelahiran Kepiting Pertama
 
-Awal pendirian tidak berjalan lancar. Tujuh insinyur berdesakan di sebuah kantor kecil, tanpa klien, dan belum memiliki produk, bertahan dengan dana sendiri.
+Awal masa merintis tidaklah berjalan mulus. Ketujuh insinyur tersebut berdesakan di sebuah kantor kecil, tanpa pelanggan, dan belum memiliki produk, sehingga hanya mengandalkan modal sendiri untuk tetap beroperasi.
 
-Titik balik muncul pada 1991. Saat itu industri komputer Taiwan berkembang pesat, namun chip jaringan harus dibeli dari produsen Amerika atau Jepang, tidak hanya mahal, tetapi juga sering menghadapi masalah dukungan teknis yang tidak memadai.
+Titik balik muncul pada tahun 1991. Saat itu industri komputer Taiwan sedang berkembang pesat, namun chip jaringan harus dibeli dari vendor Amerika Serikat atau Jepang, yang tidak hanya mahal tetapi juga sering menghadapi masalah kurangnya dukungan teknis.
 
-Tim Realtek melihat peluang ini dan memutuskan mengembangkan pengontrol Ethernet pertama Taiwan yang dirancang secara mandiri. Setelah dua tahun penelitian dan pengembangan, RTL8002 lahir—ini adalah chip jaringan pertama Taiwan dengan hak kekayaan intelektual yang sepenuhnya mandiri.
+Tim Realtek melihat peluang ini dan memutuskan untuk mengembangkan pengontrol Ethernet pertama yang dirancang secara mandiri di Taiwan. Setelah dua tahun penelitian dan pengembangan, RTL8002 lahir—ini adalah chip jaringan pertama di Taiwan dengan hak kekayaan intelektual yang sepenuhnya mandiri.
 
-Signifikansi chip ini melampaui teknologi itu sendiri. Ia membuktikan bahwa insinyur Taiwan mampu merancang produk kelas dunia dari nol, dan melangkahkan langkah krusial bagi industri teknologi Taiwan dari "manufaktur OEM" menuju "penelitian dan pengembangan mandiri".
+Makna chip ini melampaui aspek teknis semata. Ia membuktikan bahwa insinyur Taiwan mampu merancang produk kelas dunia dari nol, serta menjadi langkah kunci bagi industri teknologi Taiwan untuk beralih dari "manufaktur kontrak" menuju "riset dan pengembangan mandiri".
 
-## Kisah Era Kartu Kepiting
+## Kenangan Era "Kartu Kepiting"
 
-Pada pertengahan 1990-an, komputer pribadi mulai menyebar, dan internet pun berangsur-angsur memasuki rumah tangga Taiwan. Saat itu untuk menghubungkan komputer ke internet, perlu memasang "kartu jaringan"—biasanya papan sirkuit berwarna hijau dengan berbagai chip dan konektor.
+Pada pertengahan 1990-an, komputer pribadi mulai umum digunakan, dan internet secara bertahap memasuki rumah-rumah di Taiwan. Saat itu, untuk menghubungkan komputer ke internet, diperlukan pemasangan sebuah "kartu jaringan"—biasanya berupa papan sirkuit hijau dengan berbagai chip dan konektor di atasnya.
 
-Kartu jaringan Realtek karena merek dagangnya berupa kepiting, dijuluki "Kartu Kepiting" oleh para penggemar komputer Taiwan. Julukan ini kemudian menjadi simbol nostalgia, mewakili masa-masa awal perkembangan internet Taiwan.
+Karena logonya adalah kepiting, kartu jaringan Realtek dijuluki oleh para pemain komputer di Taiwan sebagai "Kartu Kepiting" (螃蟹卡). Sebutan ini kemudian menjadi simbol nostalgia yang mewakili masa-masa awal perkembangan internet di Taiwan.
 
-Lebih penting lagi, Realtek menurunkan harga kartu jaringan dari ribuan yuan (produk produsen AS) menjadi ratusan yuan, memungkinkan lebih banyak orang Taiwan membeli komputer dan menggunakan internet. "Demokratisasi teknologi" kemudian menjadi posisi konsisten industri desain IC Taiwan.
+Yang lebih penting, Realtek berhasil menekan harga kartu jaringan dari ribuan dolar (harga vendor AS) menjadi hanya ratusan dolar, sehingga lebih banyak orang Taiwan mampu membeli komputer dan menggunakan internet. "Demokratisasi teknologi" kemudian menjadi posisi konsisten bagi industri desain IC di Taiwan.
 
-## Melintasi dari Kartu Jaringan ke Kartu Suara
+## Ekspansi dari Kartu Jaringan ke Kartu Suara
 
-Berhasil memasuki pasar kartu jaringan, Realtek tidak puas pada status quo. Pada akhir 1990-an, mereka mulai memasuki bidang chip audio.
+Setelah berhasil menembus pasar kartu jaringan, Realtek tidak merasa puas. Pada akhir 1990-an, mereka mulai merambah ke bidang chip audio.
 
-Keputusan ini tampak melenceng, sebenarnya memiliki logikanya. Transmisi jaringan dan pemrosesan audio keduanya melibatkan teknologi pemrosesan sinyal, dan fondasi teknis yang dikumpulkan Realtek di chip jaringan tepat dapat diterapkan ke bidang audio.
+Keputusan ini mungkin terlihat tidak nyambung, namun sebenarnya memiliki logika. Transmisi jaringan dan pemrosesan audio sama-sama melibatkan teknologi pemrosesan sinyal; fondasi teknis yang dikumpulkan Realtek pada chip jaringan dapat diterapkan secara tepat di bidang audio.
 
-Chip audio Realtek dengan cepat memasuki rantai pasokan berbagai produsen motherboard besar. Produsen motherboard besar Taiwan seperti ASUS, Gigabyte, dan MSI mulai mengintegrasikan solusi audio Realtek ke dalam produk mereka.
+Chip audio Realtek dengan cepat masuk ke dalam rantai pasokan produsen motherboard besar. Perusahaan motherboard raksasa Taiwan seperti ASUS, Gigabyte, dan MSI mulai mengintegrasikan solusi audio Realtek ke dalam produk mereka.
 
-Sampai 2000-an, Realtek telah menjadi salah satu pemasok utama chip audio PC global. Hampir setiap komputer rakitan memiliki chip Realtek yang beroperasi.
+Memasuki tahun 2000-an, Realtek telah menjadi salah satu pemasok utama chip audio PC global. Hampir setiap komputer rakitan memiliki chip Realtek yang bekerja di dalamnya.
 
-## Kepiting Kecil yang Ada di Mana-Mana
+## Kepiting Kecil yang Ada di Mana-mana
 
-Realtek hari ini sudah bukan lagi perusahaan kecil tujuh orang seperti dulu. Per 2024, pendapatan konsolidasi perusahaan sekitar 113,4 miliar yuan (naik 19,1% year-on-year), karyawan lebih dari 6.000 orang, menjadikannya perusahaan desain IC ketiga terbesar Taiwan.[^2]
+Realtek hari ini bukanlah perusahaan kecil berisi tujuh orang seperti dahulu. Hingga tahun 2024, pendapatan gabungan perusahaan mencapai sekitar NT$113,4 miliar (naik 19,1% secara tahunan), dengan lebih dari 6.000 karyawan, menjadikannya perusahaan desain IC terbesar ketiga di Taiwan. [^2]
 
-Namun yang lebih mengesankan adalah tingkat penetrasi produk Realtek. Dari router rumah tangga hingga laptop, dari smart TV hingga pengendali industri, chip Realtek hampir ada di mana-mana. Perangkat akhir dengan chip Realtek tersebar global, mencakup pasar peralatan rumah tangga, komersial, dan industri.
+Namun yang lebih mengesankan adalah penetrasi produk Realtek. Dari router rumahan hingga laptop, dari smart TV hingga pengontrol industri, chip Realtek hampir ada di mana-mana. Perangkat akhir yang menggunakan chip Realtek tersebar di seluruh dunia, mencakup berbagai pasar seperti peralatan rumah tangga, komersial, dan industri.
 
-Keberhasilan ini berasal dari "strategi platform" Realtek: teknologi inti yang mereka rancang dapat melintasi berbagai lini produk, satu arsitektur pemrosesan sinyal, menurunkan chip jaringan, chip audio, chip kontrol tampilan, dan aplikasi berbeda lainnya. Satu teknologi inti, dapat menurunkan chip jaringan, chip audio, chip kontrol tampilan, dan produk berbeda lainnya.
+Kesuksesan ini berasal dari "strategi platform" Realtek: teknologi inti yang mereka desain dapat melintasi berbagai lini produk; satu arsitektur pemrosesan sinyal dapat diturunkan menjadi berbagai aplikasi seperti chip jaringan, chip audio, dan chip kontrol tampilan.
 
-## Era Baru Perang WiFi
+## Medan Perang Baru di Era WiFi
 
-2010-an, seiring dengan penyebaran smartphone dan bangkitnya Internet of Things (IoT), jaringan nirkabel menjadi medan perang baru. Realtek sekali lagi menunjukkan kemampuan adaptasinya, melangkah dari jaringan berkabel ke bidang jaringan nirkabel.
+Pada tahun 2010-an, seiring dengan populernya ponsel pintar dan bangkitnya Internet of Things (IoT), jaringan nirkabel menjadi medan perang baru. Realtek sekali lagi menunjukkan kemampuan adaptasinya, merambah dari jaringan kabel ke bidang jaringan nirkabel.
 
-Chip WiFi yang mereka kembangkan digunakan secara luas pada router, perangkat rumah pintar, peralatan industri, dan produk lainnya. Dari WiFi 4, WiFi 5 hingga WiFi 6, hingga solusi WiFi 7 yang diluncurkan pada pertengahan 2020-an, Realtek mempertahankan pangsa pasar di setiap periode transisi standar nirkabel. [^4]
+Chip WiFi yang mereka kembangkan digunakan secara luas pada produk seperti router, peralatan rumah tangga pintar, dan perangkat industri. Dari WiFi 4, WiFi 5, hingga WiFi 6, dan kemudian solusi WiFi 7 yang diluncurkan pada pertengahan 2020-an, Realtek berhasil mempertahankan pangsa pasar di setiap periode pergantian standar nirkabel. [^4]
 
-Kode saham Realtek 2379, tercatat di Bursa Efek Taiwan pada 1998, ketua dewan direksi saat ini adalah **Chiu Shun-chien**, dan direktur utama saat ini adalah **Yeh Po-jen**. [^3]
+Kode saham Realtek adalah 2379, melantai di Bursa Efek Taiwan pada tahun 1998. Ketua Dewan Komisaris saat ini adalah **Chiu Shun-chien** (邱順建), dan General Manager saat ini adalah **Yeh Po-jen** (葉博任). [^3]
 
 ### Tata Letak Baru AI PC dan Ethernet Otomotif
 
-Mulai 2020-an, Realtek secara aktif menata letak di tiga pasar baru: (1) **AI PC** — seiring dengan penyebaran spesifikasi Microsoft Copilot+ PC, chip Wi-Fi 7 dan Ethernet kecepatan tinggi Realtek menjadi komponen konektivitas dasar platform AI PC; (2) **Ethernet Otomotif** — kendaraan otonom dan komunikasi dalam kendaraan memerlukan jaringan dalam kendaraan berbandwidth tinggi dan latensi rendah, Realtek memasok chip berkualitas otomotif 100BASE-T1 / 1000BASE-T1 ke rantai pasokan ADAS; (3) **BIS (Broad IoT Solutions)** — lini chip pengendali terintegrasi untuk aplikasi seperti kontrol industri, rumah pintar, dan manajemen energi, memperluas pangsa pasar non-PC. [^4]
+Sejak era 2020-an, Realtek secara agresif menata tiga pasar baru: (1) **AI PC** — seiring populernya spesifikasi Microsoft Copilot+ PC, chip Wi-Fi 7 dan Ethernet berkecepatan tinggi milik Realtek menjadi komponen konektivitas dasar bagi platform AI PC; (2) **Ethernet Otomotif** — mengemudi otonom dan komunikasi kendaraan membutuhkan jaringan dalam mobil dengan bandwidth tinggi dan latensi rendah, sehingga Realtek masuk ke rantai pasokan ADAS dengan chip kelas otomotif 100BASE-T1 / 1000BASE-T1; (3) **BIS (Broad IoT Solutions)** — lini chip pengontrol terintegrasi untuk aplikasi seperti kontrol industri, rumah pintar, dan manajemen energi guna memperluas pangsa pasar non-PC. [^4]
 
-**RTL8002** yang diluncurkan Realtek pada 1991, adalah pengendali Ethernet pertama Taiwan dengan hak kekayaan intelektual sepenuhnya mandiri, menentukan titik awal jalur teknologi chip jaringan perusahaan. [^1]
+**RTL8002** yang diluncurkan Realtek pada tahun 1991 adalah pengontrol Ethernet pertama di Taiwan dengan hak kekayaan intelektual yang sepenuhnya mandiri, yang meletakkan titik awal bagi jalur teknologi chip jaringan perusahaan. [^1]
 
-## Tantangan di Bawah Perang Teknologi Tiongkok–AS
+## Tantangan di Bawah Perang Teknologi AS-Tiongkok
 
-Belakangan ini, persaingan teknologi antara Tiongkok dan AS semakin tajam, semikonduktor menjadi bahan strategis. Sebagai pemasok chip jaringan global yang penting, Realtek juga menghadapi tantangan baru.
+Dalam beberapa tahun terakhir, persaingan teknologi antara Amerika Serikat dan Tiongkok semakin meningkat, menjadikan semikonduktor sebagai komoditas strategis. Sebagai pemasok chip jaringan global yang penting, Realtek juga menghadapi tantangan baru.
 
-Di satu sisi, pasar Tiongkok sangat penting bagi Realtek, sejumlah besar router, TV box, dan perangkat rumah pintar menggunakan chip Realtek. Di sisi lain, kebijakan kontrol ekspor AS mungkin memengaruhi penjualan Realtek ke klien Tiongkok tertentu.
+Di satu sisi, pasar Tiongkok sangat penting bagi Realtek; sejumlah besar router, TV box, dan peralatan rumah tangga pintar menggunakan chip Realtek. Di sisi lain, kebijakan kontrol ekspor Amerika Serikat dapat memengaruhi penjualan Realtek kepada pelanggan tertentu di Tiongkok.
 
-Namun strategi respons Realtek tetap kembali ke asal: fokus pada inovasi teknologi. Mereka percaya, selama terus menyediakan solusi teknologi terbaik, mereka akan menemukan ruang kelangsungan hidup di lingkungan geopolitik yang kompleks.
+Namun, strategi respons Realtek tetap kembali ke niat awal: fokus pada inovasi teknologi. Mereka percaya bahwa selama mereka terus menyediakan solusi teknologi terbaik, mereka akan dapat menemukan ruang untuk bertahan dalam lingkungan geopolitik yang kompleks.
 
-## Kerajaan Ketam 35 Tahun Kemudian
+## Kerajaan Kepiting Setelah 35 Tahun
 
-Dari 1987 hingga 2024, Realtek telah berjalan 37 tahun. Dari tujuh pendiri ("tujuh pendekar pedang"), sebagian sudah pensiun, sebagian pindah ke perusahaan lain, tetapi Kerajaan Ketam yang mereka bangun terus berkembang pesat.
+Dari tahun 1987 hingga 2024, Realtek telah menempuh perjalanan selama 37 tahun. Beberapa dari tujuh pendekar lama telah pensiun, dan beberapa pindah ke perusahaan lain, tetapi "Kerajaan Kepiting" yang mereka dirikan terus tumbuh dengan pesat.
 
-Realtek hari ini bukan hanya perusahaan desain chip, melainkan sebuah platform teknologi. Chip mereka memungkinkan perangkat di seluruh dunia untuk terhubung ke jaringan, memutar audio, dan menampilkan video. Meskipun konsumen mungkin tidak mengetahui nama Realtek, hampir semua orang mendapat manfaat dari teknologi Realtek.
+Realtek hari ini bukan sekadar perusahaan desain chip, melainkan sebuah platform teknologi. Chip mereka memungkinkan perangkat di seluruh dunia untuk terhubung ke internet, memutar audio, dan menampilkan gambar. Meskipun konsumen mungkin tidak mengetahui nama Realtek, hampir semua orang mendapat manfaat dari teknologi mereka.
 
-Didirikan oleh tujuh insinyur pada 1987, 37 tahun kemudian chip Realtek telah terintegrasi ke dalam miliaran perangkat akhir global, menjadi salah satu kasus konkret industri desain IC Taiwan bergerak dari era foundry ke jalur R&D mandiri.
+Didirikan oleh tujuh insinyur pada tahun 1987, setelah 37 tahun, chip Realtek telah terintegrasi ke dalam ratusan juta perangkat akhir di seluruh dunia, menjadikannya salah satu contoh nyata dari jalur industri desain IC Taiwan yang bergerak dari era manufaktur kontrak menuju riset dan pengembangan mandiri.
 
 ## Referensi
 
+[^1]: [Laporan Tahunan Realtek Semiconductor 2024 | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Mengonfirmasi pendapatan gabungan tahun penuh 2024 sekitar NT$113,4 miliar (naik 19,1%); 7 pendiri mendirikan perusahaan pada 21 Oktober 1987.
+
+[^2]: [Market Observation Post: Realtek Semiconductor](https://mops.twse.com.tw/) — Data dasar listing 2379, laporan keuangan tahunan.
+
+[^3]: [Bursa Efek Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Mengonfirmasi kode saham 2379, listing tahun 1998, Chiu Shun-chien sebagai Ketua Dewan Komisaris saat ini.
+
+[^4]: [Lini Produk Situs Resmi Realtek](https://www.realtek.com/) — Penjelasan lini produk chip WiFi 6/7.
+
+[^5]: [TechNews: Sejarah Realtek Semiconductor](https://technews.tw/) — Laporan latar belakang industri mengenai perkembangan Realtek dari chip jaringan hingga ekspansi IC multimedia.
+
 **Bacaan Lanjutan**
 
-- [科技新報：瑞昱半導體發展歷程](https://technews.tw/)
-- [電子時報：台灣IC設計產業報告](https://www.digitimes.com.tw/)
-
-[^1]: [Laporan Tahunan 2024 Realtek Semiconductor｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Mengonfirmasi pendapatan konsolidasi tahun 2024 sebesar sekitar 113,4 miliar yuan (naik 19,1% YoY); didirikan oleh 7 pendiri pada 21 Oktober 1987.
-
-[^2]: [Stasiun Observasi Informasi Publik: Realtek Semiconductor](https://mops.twse.com.tw/) — Informasi dasar listing 2379, laporan keuangan tahunan.
-
-[^3]: [Bursa Efek Taiwan: 2379 Realtek](https://www.twse.com.tw/) — Mengonfirmasi kode saham 2379, listing 1998, Chiu Sun-chien sebagai Komisaris Utama saat ini.
-
-[^4]: [Lini Produk Situs Web Resmi Realtek](https://www.realtek.com/) — Penjelasan lini produk chip WiFi 6/7.
-
-[^5]: [TechNews: Perjalanan Realtek Semiconductor](https://technews.tw/) — Laporan latar belakang industri tentang Realtek Semiconductor dari memulai bisnis chip jaringan hingga ekspansi IC multimedia.
+- [TechNews: Proses Perkembangan Realtek Semiconductor](https://technews.tw/)
+- [Electronic Times: Laporan Industri Desain IC Taiwan](https://www.digitimes.com.tw/)

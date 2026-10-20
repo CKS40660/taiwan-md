@@ -1,14 +1,14 @@
 ---
-title: 'Perkembangan Sistem Perawatan Jangka Panjang Taiwan'
-description: 'Sistem perawatan jangka panjang paling maju di dunia, namun pada saat yang sama memiliki sistem perawatan tersembunyi terbesar'
+title: 'Perkembangan Sistem Perawatan Jangka Panjang di Taiwan'
+description: 'Taiwan membangun sistem perawatan jangka panjang tercanggih di Asia melalui desain kebijakan, namun ratusan ribu perawat asing membentuk jaringan perawatan tak kasat mata yang berjalan paralel tanpa integrasi.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
     'Perawatan Jangka Panjang',
-    'Penuaan',
+    'Penuaan Penduduk',
     'Perawat Asing',
-    'Perawatan Jangka Panjang 2.0',
+    'Long-term Care 2.0',
     'Kontradiksi Sistem',
   ]
 subcategory: '社會福利'
@@ -18,162 +18,162 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:318f46e5efc6bda8'
+sourceCommitSha: '0471d07ff'
+sourceContentHash: 'sha256:c735ef0db3cd23ac'
 sourceBodyHash: 'sha256:738376ef61832978'
-translatedAt: '2026-09-23T03:37:33.620128+00:00'
+translatedAt: '2026-10-16T00:53:07+08:00'
 ---
 
-# Perkembangan Sistem Perawatan Jangka Panjang Taiwan
+# Perkembangan Sistem Perawatan Jangka Panjang di Taiwan
 
-> **Ringkasan 30 detik:** Taiwan memiliki sistem perawatan jangka panjang paling lengkap di Asia, Perawatan Jangka Panjang 2.0 melayani 360.000 orang, dengan tingkat kepuasan mencapai 85%. Namun pada saat yang sama, 214.000 pekerja perawatan asing diam-diam menopang sistem perawatan lain yang lebih besar. Ini adalah kisah tentang desain sistem, nilai sosial, dan kompromi realitas.
+> **Ringkasan 30 Detik:** Taiwan memiliki sistem perawatan jangka panjang paling lengkap di Asia, dengan layanan Long-term Care (LTC) 2.0 melayani 360.000 orang dan tingkat kepuasan mencapai 85%. Namun, pada saat yang sama, terdapat 214.000 perawat asing yang secara diam-diam menopang sistem perawatan lain yang lebih besar. Ini adalah kisah tentang desain kebijakan, nilai sosial, dan kompromi realitas.
 
-Pada 2017, pemerintah Tsai Ing-wen meluncurkan Perawatan Jangka Panjang 2.0, berjanji membangun "sistem layanan perawatan jangka panjang yang berkelanjutan dan universal". Tahun yang sama, jumlah pekerja perawatan rumah tangga asing yang dipekerjakan di Taiwan pertama kali melebihi 200.000 orang.
+Pada tahun 2017, pemerintahan Tsai Ing-wen meluncurkan LTC 2.0, dengan tujuan membangun "sistem layanan perawatan jangka panjang yang berkelanjutan dan inklusif". Di tahun yang sama, jumlah perawat keluarga asing yang dipekerjakan di Taiwan untuk pertama kalinya menembus angka 200.000 orang.
 
-Ini bukan kebetulan, ini adalah kontradiksi terbesar sistem perawatan jangka panjang Taiwan: di satu sisi adalah sistem resmi dengan anggaran 650 miliar per tahun dari pemerintah, di sisi lain adalah sistem tersembunyi 214.000 keluarga yang masing-masing mempekerjakan pekerja perawatan asing. Yang pertama melayani 360.000 orang, yang kedua melayani sekitar 210.000 orang—dua dunia perawatan paralel yang hampir tidak berinteraksi.
+Ini bukan kebetulan; ini adalah kontradiksi terbesar dalam sistem perawatan jangka panjang Taiwan: di satu sisi terdapat sistem resmi pemerintah dengan anggaran tahunan sebesar NT$65 miliar, dan di sisi lain terdapat sistem tak kasat mata dari 214.000 keluarga yang masing-masing mempekerjakan perawat asing. Yang pertama melayani 360.000 orang, sementara yang kedua melayani sekitar 210.000 orang—dua dunia perawatan paralel yang hampir tidak saling berinteraksi.
 
 > **📝 Catatan Kurator**
-> Hal paling anti-intuisi dari kebijakan perawatan jangka panjang Taiwan: kita di satu sisi membangun sistem perawatan jangka panjang kelas dunia, di sisi lain menciptakan masyarakat yang paling bergantung pada pekerja perawatan asing di seluruh dunia.
+> Hal yang paling kontra-intuitif dari kebijakan LTC Taiwan: di satu sisi kita membangun sistem perawatan kelas dunia, namun di sisi lain kita membentuk masyarakat yang paling bergantung pada perawat asing di seluruh dunia.
 
-## Kelahiran Sistem: Berlari Sebelum Masuk Era Super-Lansia
+## Kelahiran Sistem: Berlari Sebelum Menjadi Super-Aged
 
-Pada tahun 1993, proporsi penduduk Taiwan berusia 65 tahun ke atas mencapai 7%, secara resmi memasuki masyarakat penuaan. Namun respons para politisi sangat lambat—baru pada tahun 2007, 14 tahun setelah penuaan, "Rencana Sepuluh Tahun Perawatan Jangka Panjang" baru resmi diluncurkan.
+Pada tahun 1993, proporsi populasi berusia di atas 65 tahun di Taiwan mencapai 7%, menandai dimulainya status masyarakat menua (aging society). Namun, respons para politisi sangat lambat—baru pada tahun 2007, yakni 14 tahun setelah proses penuaan dimulai, "Rencana Sepuluh Tahun Perawatan Jangka Panjang" resmi diluncurkan.
 
-Rencana terlambat ini sejak awal tidak dipercaya. Anggaran 10 tahun sebesar 817 miliar yuan, terlihat banyak, tapi rata-rata per tahun hanya 80 miliar—belum mencapai 2% dari anggaran Jaminan Kesehatan saat itu. Lebih buruk lagi, sasaran layanan hanya sekitar 20.000 orang, dengan tingkat cakupan hanya 1,5%.
+Rencana yang terlambat ini sejak awal tidak dipandang optimis. Anggaran NT$81,7 miliar untuk 10 tahun terlihat besar, tetapi rata-rata hanya NT$8 miliar per tahun—kurang dari 2% dari anggaran asuransi kesehatan (NHI) saat itu. Lebih buruk lagi, target layanannya hanya sekitar 20.000 orang, dengan cakupan hanya 1,5%.
 
-Pada Pemilu Presiden 2016, perawatan jangka panjang menjadi isu yang tidak bisa dihindari oleh ketiga pasangan calon. Tsai Ing-wen berjanji mengupgrade menjadi "Perawatan Jangka Panjang 2.0", anggaran berubah dari penjadwalan tahunan menjadi dana khusus pajak rokok, sekali gus dinaikkan menjadi lebih dari 30 miliar per tahun.
+Pada pemilihan presiden 2016, perawatan jangka panjang menjadi isu yang tidak berani dihindari oleh ketiga kandidat. Tsai Ing-wen menjanjikan peningkatan menjadi "LTC 2.0", dengan anggaran yang dialihkan dari pajak rokok untuk penggunaan khusus, meningkatkan anggaran tahunan menjadi lebih dari NT$30 miliar.
 
 > **⚠️ Pandangan Kontroversial**
-> Kritik kalangan medis: Dana asuransi perawatan jangka panjang Jepang dari pajak dan premi asuransi masing-masing setengah saja sudah sangat tidak mencukupi, Taiwan hanya mengandalkan pajak, keberlanjutan fiskal mengkhawatirkan.
+> Kritik dari dunia medis: Di Jepang, sumber pendanaan asuransi perawatan jangka panjang yang terbagi antara pajak dan premi asuransi keduanya sangat tidak mencukupi; Taiwan hanya mengandalkan pajak, sehingga keberlanjutan fiskalnya mengkhawatirkan.
 
-| 29 ribu orang tahun 2017                                           | 360 ribu orang tahun 2024                         |
-| ------------------------------------------------------------------ | ------------------------------------------------- |
-| Jumlah penerima layanan tahun pertama Perawatan Jangka Panjang 2.0 | Jumlah penerima layanan saat ini (tumbuh 12 kali) |
+| 29.000 orang pada 2017               | 360.000 orang pada 2024                                    |
+| :----------------------------------- | :--------------------------------------------------------- |
+| Jumlah layanan tahun pertama LTC 2.0 | Jumlah orang yang dilayani saat ini (tumbuh 12 kali lipat) |
 
-Namun angka-angkanya menarik, realitanya suram.
+Namun, angka-angka tersebut terlihat indah, sementara realitasnya sangat pahit.
 
-## Era Kekurangan Tenaga Kerja Masif: 7 Tenaga Perawatan Rumah Tangga Menggabungkan Shift untuk Merawat 1 Orang
+## Era Kelangkaan Tenaga Kerja: 7 Perawat Komunitas untuk 1 Pasien
 
-「Tidak bisa menemukan orang」adalah titik sakit terbesar sistem perawatan jangka panjang. Ketua Umum Aliansi Strategi Layanan Rumah Tangga Taiwan, Tu Hsin-ning, menegaskan bahwa skala tenaga kerja unit perawatan rumah tangga mengalami keruntuhan struktural: pada 2016, seluruh Taiwan memiliki 186 unit perawatan rumah tangga, dengan rata-rata 47,9 tenaga perawatan per unit; menjelang 2024, jumlah unit meningkat menjadi 2.235, tetapi rata-rata per unit hanya 24,3 orang.
+"Tidak bisa menemukan orang" adalah titik lemah terbesar dalam sistem LTC. Tu Hsin-ning, Ketua Aliansi Strategis Layanan Perawatan di Rumah Taiwan, menunjukkan bahwa skala tenaga kerja unit layanan komunitas mengalami keruntuhan struktural: pada tahun 2016 terdapat 186 unit layanan di seluruh Taiwan dengan rata-rata 47,9 perawat per unit; namun pada tahun 2024, jumlah unit meningkat menjadi 2.235, tetapi rata-rata hanya 24,3 orang per unit.
 
-Unit bertambah, tenaga kerja tersebar, hasilnya tidak bisa menjadwalkan dengan fleksibel. Manajer Kasus Chen Wan-yu dari Lembaga Perawatan Jangka Panjang Rumah Tangga Junwei Kota Taipei pernah mengalami situasi paling ekstrem: satu kasus memerlukan 7 tenaga perawatan rumah tangga bergantian merawat, terkadang dalam satu hari pada jam berbeda datang tenaga perawatan yang berbeda — satu untuk mandi, satu untuk berjalan-jalan, satu untuk mengubah posisi.
+Unit bertambah banyak, tenaga kerja tersebar, hasilnya adalah ketidakmampuan untuk mengatur jadwal secara fleksibel. Chen Wan-yu, seorang manajer kasus di lembaga perawatan rumah Junwei di Taipei, mengalami situasi yang paling ekstrem: seorang pasien membutuhkan 7 perawat komunitas secara bergantian, terkadang dalam satu hari datang perawat yang berbeda pada waktu yang berbeda—satu untuk mandi, satu untuk jalan-jalan, dan satu untuk mengatur posisi duduk.
 
-> **💡 Tahukah Anda**
-> Perawatan rumah tangga malam hampir tidak bisa menemukan orang. Bahkan pemerintah memberikan tunjangan malam 385 yuan, tenaga perawatan rumah tangga yang bersedia bekerja malam tetap sangat sedikit. Pengasuh keluarga pekerja kantoran pulang kerja, sulit 「menarik napas sejenak」。
+> **💡 Tahukah Anda?**
+> Layanan perawatan malam hari hampir mustahil ditemukan. Meskipun pemerintah menyediakan tunjangan malam sebesar NT$385, jumlah perawat yang bersedia bekerja di malam hari tetap sangat sedikit. Para pengasuh dari keluarga pekerja kantoran sulit untuk "mengambil napas" setelah pulang ke rumah.
 
-Lebih serius lagi adalah keluarnya massal manajer kasus di tengah rantai tenaga kerja. Kementerian Kesehatan dan Kesejahteraan menetapkan batas beban setiap manajer kasus maksimal 120 kasus, tetapi praktiknya sering melebihi 150 kasus. Manajer Kasus Senior Shih Sheng-mao dari Persatuan Silang Merah Kota Taipei berkata: 「Pekerja sosial lansia yang tinggal sendirian bisa menangani 30-60 kasus layanan mendalam, 150 kasus sama sekali tidak bisa melakukan perawatan holistik。」
+Lebih serius lagi adalah hilangnya manajer kasus dalam rantai tenaga kerja menengah. Kementerian Kesehatan dan Kesejahteraan (MOHW) menetapkan batas maksimal 120 kasus per manajer kasus, namun pada kenyataannya sering kali melebihi 150 kasus. Shi Sheng-mao, manajer kasus senior di Yayasan Hongxin Taipei, mengatakan: "Pekerja sosial untuk lansia yang tinggal sendiri dapat memberikan layanan mendalam untuk 30-60 kasus, tetapi dengan 150 kasus, perawatan holistik mustahil dilakukan."
 
-Di dunia perawatan jangka panjang beredar humor hitam: 「Masa depan perawatan jangka panjang kita, hanya bisa mengandalkan dua jenis orang — orang asing dan robot!」
+Ada humor gelap yang populer di dunia LTC: "Ke depannya, perawatan kita hanya bisa mengandalkan dua jenis orang—orang asing dan robot!"
 
-## Separuh Lain yang Tak Terlihat: Dunia Paralel yang Ditopang 240 Ribu Perawat Asing
+## Sisi Lain yang Tak Kasat Mata: 240.000 Perawat Asing Menopang Dunia Paralel
 
-Saat Perawatan Jangka Panjang 2.0 mencuri perhatian di media, sistem perawatan lain yang lebih besar diam-diam berkembang pesat.
+Saat LTC 2.0 bersinar di media, sistem perawatan lain yang jauh lebih besar sedang tumbuh secara diam-diam.
 
-Pada 1992, Taiwan membuka kesempatan untuk pekerja perawatan rumah tangga asing, saat itu hanya 306 orang. Pada 2024, angka ini mencapai 214.514 orang—di antaranya 80% berasal dari Indonesia, 10,8% dari Filipina, dan 8,9% dari Vietnam. Jika mereka berdiri berjajar, barisan tersebut bisa menjangkau dari Taipei hingga Kaohsiung.
+Taiwan membuka kesempatan bagi perawat keluarga asing pada tahun 1992, yang saat itu hanya berjumlah 306 orang. Pada tahun 2024, angka ini mencapai 214.514 orang—di mana 80% berasal dari Indonesia, 10,8% dari Filipina, dan 8,9% dari Vietnam. Jika mereka berbaris, barisan itu bisa membentang dari Taipei hingga Kaohsiung.
 
 > **📊 Sumber Data**
-> Berdasarkan statistik Kementerian Tenaga Kerja, per Maret 2024, Taiwan memiliki 910 ribu orang berusia 80 tahun ke atas, di antaranya 41,7% memiliki tingkat kecacatan tertentu.
+> Menurut statistik Kementerian Tenaga Kerja, per Maret 2024, penduduk Taiwan berusia di atas 80 tahun berjumlah 910.000 orang, di mana 41,7% memiliki tingkat disabilitas tertentu.
 
-214 ribu keluarga perawatan asing ini membentuk dunia perawatan yang sepenuhnya paralel dengan Perawatan Jangka Panjang 2.0. Mempekerjakan seorang perawat asing memerlukan biaya sekitar 30.000 Yuan per bulan, menyediakan perawatan 24 jam; sedangkan Perawatan Jangka Panjang 2.0 hanya memberikan subsidi maksimal 32.340 Yuan per bulan untuk penderita kecacatan berat, dengan jam layanan yang terbatas.
+214.000 keluarga dengan perawat asing ini membentuk dunia perawatan yang sepenuhnya paralel dengan LTC 2.0. Biaya mempekerjakan satu perawat asing sekitar NT$30.000 per bulan untuk perawatan 24 jam; sebagai perbandingan, subsidi bulanan tertinggi bagi penderita disabilitas berat dalam LTC 2.0 hanya NT$32.340, dan itu pun dengan jam layanan yang terbatas.
 
-Yang lebih krusial, kedua sistem ini hampir tidak saling terkait. Berdasarkan peraturan berlaku, keluarga yang mempekerjakan perawat asing secara prinsip tidak dapat mengajukan layanan Perawatan Jangka Panjang 2.0 (kecuali alat bantu dan perbaikan lingkungan rumah bebas hambatan). Klausul pengecualian ini menjadikan 210 ribu keluarga sebagai pulau terisolasi dalam sistem.
+Yang lebih krusial adalah kedua sistem ini hampir tidak berinteraksi. Berdasarkan peraturan yang berlaku, keluarga yang mempekerjakan perawat asing pada prinsipnya tidak dapat mengajukan layanan LTC 2.0 (kecuali untuk alat bantu dan perbaikan lingkungan rumah tanpa hambatan). Klausul pengecualian ini membuat 210.000 keluarga menjadi "pulau terisolasi" dalam sistem.
 
 > **⚠️ Pandangan Kontroversial**
-> Mulai 2026, Perawatan Jangka Panjang 3.0 akan mencakup keluarga perawat asing untuk menggunakan layanan perawatan komunitas, namun Kementerian Kesehatan dan Kesejahteraan khawatir hal ini bisa menyebabkan permintaan pekerja migran melonjak 160 ribu orang, menimbulkan ketidakseimbangan penawaran dan permintaan.
+> Mulai tahun 2026, LTC 3.0 akan memasukkan keluarga dengan perawat asing untuk menggunakan layanan perawatan komunitas, namun MOHW khawatir hal ini dapat menyebabkan lonjakan permintaan pekerja migran sebanyak 160.000 orang, sehingga menciptakan ketidakseimbangan antara penawaran dan permintaan.
 
-## 24 Jam vs 8 Jam: Pertarungan Dua Filsafat Perawatan
+## 24 Jam vs 8 Jam: Duel Dua Filosofi Perawatan
 
-Mengapa keluarga Taiwan rela mengeluarkan 30.000 untuk mempekerjakan perawat asing, tetapi tidak menggunakan Long-term Care 2.0?
+Mengapa keluarga di Taiwan lebih memilih menghabiskan NT$30.000 untuk mempekerjakan perawat asing daripada menggunakan LTC 2.0?
 
-Lian Jin-ying di Hualien sedang merawat ibunya yang berusia 98 tahun dan menderita demensia, sambil juga merawat suaminya yang berusia 76 tahun. Dia berkata: "Perawat long-term care (petugas layanan rumah) hanya datang 2 jam setiap hari, saya harus memanfaatkan waktu ini untuk buru-buru pulang memasak untuk suami, harus pulang sebelum pukul 1 siang. Malam hari pada dasarnya tidak bisa menemukan siapa pun."
+Lian Jin-ying di Hualien sedang merawat ibunya yang berusia 98 tahun dengan demensia, sekaligus merawat suaminya yang berusia 76 tahun. Ia berkata: "Perawat LTC (layanan komunitas) hanya datang 2 jam sehari, saya harus menggunakan waktu itu untuk segera pulang memasak untuk suami, dan sebelum jam 1 siang saya harus sudah kembali. Pada malam hari, hampir tidak ada orang yang bisa dicari."
 
-Ini adalah perbedaan fundamental antara dua sistem: Long-term Care 2.0 menyediakan "perawatan profesional bertahap", sedangkan perawat asing menyediakan "pendampingan hidup seharian penuh". Yang pertama memenuhi standar internasional perawatan profesional, yang kedua memenuhi kebutuhan aktual keluarga Asia Timur.
+Inilah perbedaan mendasar antara kedua sistem tersebut: LTC 2.0 menyediakan "perawatan profesional berbasis sesi", sedangkan perawat asing menyediakan "pendampingan hidup 24 jam". Yang pertama memenuhi standar internasional perawatan profesional, sementara yang kedua memenuhi kebutuhan praktis keluarga di Asia Timur.
 
 > **📝 Catatan Kurator**
-> Pilihan model perawatan Taiwan sebenarnya adalah perjuangan antara dua sistem nilai: "profesionalisasi, berbasis komunitas" bergaya Norden vs "berbasis keluarga, holistik" bergaya Asia Timur.
+> Pilihan model perawatan di Taiwan sebenarnya adalah perjuangan antara dua nilai: model "profesional dan berbasis komunitas" ala Nordik vs model "berbasis keluarga dan holistik" ala Asia Timur.
 
-Peneliti dari Universitas Nasional Singapura, Lynn Yu Ling Ng, setelah membandingkan model perawatan Taiwan dan Singapura menemukan: perawat asing Taiwan lebih seperti "pendamping pengasuh keluarga", bukan "pengganti pengasuh keluarga". Hal ini berasal dari ambang aplikasi ketat Taiwan — harus lulus penilaian medis baru bisa mempekerjakan, memaksa majikan Taiwan belajar keterampilan perawatan dasar, sehingga bahkan setelah mempekerjakan perawat asing mereka tetap terus terlibat dalam pekerjaan perawatan.
+Lynn Yu Ling Ng, seorang akademisi dari National University of Singapore, menemukan setelah membandingkan model perawatan Taiwan dan Singapura: perawat asing di Taiwan lebih berfungsi sebagai "pendamping pengasuh keluarga", bukan "pengganti pengasuh keluarga". Hal ini disebabkan oleh ambang batas pengajuan yang ketat di Taiwan—seseorang harus melalui evaluasi medis sebelum dapat mempekerjakan mereka, yang memaksa pemberi kerja di Taiwan untuk mempelajari keterampilan perawatan dasar, sehingga meskipun mempekerjakan perawat asing, mereka tetap terus berpartisipasi dalam pekerjaan perawatan.
 
-Sebaliknya, layanan perawatan profesional Long-term Care 2.0 sering tidak hadir pada jam-jam yang paling dibutuhkan. Petugas layanan rumah Wei Li-hu adalah salah sedikit petugas yang khusus menangani shift malam, dia berkata: "Sebagian besar orang tetap tidak mau bekerja malam, meskipun ada tunjangan 385."
+Sebaliknya, layanan perawatan profesional LTC 2.0 sering kali absen pada waktu-waktu yang paling dibutuhkan. Wei Li-hu, seorang perawat komunitas, adalah salah dari sedikit orang yang khusus bekerja di sesi malam, ia berkata: "Kebanyakan orang tetap tidak bersedia bekerja di malam hari, meskipun ada tunjangan NT$385."
 
-## Martabat di Atas Line Produksi: Saat Perawatan Menjadi Kejar-Kejaran
+## Martabat dalam Lini Produksi: Ketika Perawatan Menjadi Kejar Tayang
 
-Kekurangan tenaga kerja tidak hanya menyulitkan penjadwalan, lebih dari itu mengorbankan kualitas perawatan.
+Biaya dari kekurangan tenaga kerja bukan hanya kesulitan pengaturan jadwal, tetapi juga kompromi pada kualitas perawatan.
 
-Pekerja sosial institusi penginapan Chang Kai-chieh (nama samaran) mengamati: bahkan layanan dasar seperti mandi telah beroperasi seperti line produksi. 「Jam 8 pagi mandi, musim dingin 10-an derajat, harus bangun dari selimut hangat untuk mandi. Penghuni berbaris di luar pintu kamar mandi, 3 orang petugas perawatan bagi tugas: satu melepas pakaian, satu menopang tubuh, satu menyiram.」
+Zhang Kai-jie (nama samaran), seorang pekerja sosial di lembaga hunian, mengamati bahwa layanan dasar seperti mandi telah berubah menjadi operasi lini produksi. "Mandi jam 8 pagi, saat musim dingin suhu mencapai belasan derajat, mereka harus bangun dari selimut hangat untuk mandi. Para penghuni berbaris di depan pintu kamar mandi, dengan 3 perawat yang berbagi tugas: satu melepas pakaian, satu memapah tubuh, dan satu menyiram air."
 
-Asisten profesor Institute of Health and Welfare, Yang Ming Chiao Tung University, Li Shao-fen, menyebut fenomena ini sebagai 「perawatan kejar-kejar」——pekerja perawatan hanya bisa hari demi hari membius indera, mencari cara menyelesaikan tugas kerja, kelembagaan perawatan dibatasi, risiko ditanggung penghuni.
+Asisten Profesor Li Shao-fen dari Institut Kesehatan Masyarakat, National Yang Ming Chiao Tung University, menyebut fenomena ini sebagai "perawatan kejar tayang"—pekerja perawatan hanya bisa bekerja dengan indra yang mati rasa hari demi hari demi menyelesaikan tugas kerja; agensi dalam perawatan menjadi terbatas, dan risiko ditanggung oleh penghuni.
 
-> **💡 Tahukah Anda**
-> Sebagian besar penghuni institusi penginapan musim dingin hanya mandi dua kali seminggu, karena kekurangan tenaga kerja tidak dapat memberikan layanan pada waktu yang tepat.
+> **💡 Tahukah Anda?**
+> Mayoritas penghuni lembaga hunian hanya mandi dua kali seminggu di musim dingin karena kurangnya tenaga kerja untuk menyediakan layanan pada waktu yang tepat.
 
-Petugas perawatan yang pernah bekerja di institusi penginapan, Hsiao Shih (nama samaran), berkata: 「Setiap hari musim mandi harus mandikan 10-an tempat tidur, setiap dua sampai tiga jam satu putaran, tidak henti membersihkan, memberi makan, mandikan, sangat seperti line produksi, sangat tergesa-gesa. Setelah mandikan saya sudah keringat bercucuran.」
+Xiao-shi (nama samaran), seorang perawat yang pernah bekerja di lembaga hunian, berkata: "Saat sesi mandi, setiap hari harus menangani sekitar 10 tempat tidur, satu putaran setiap dua atau tiga jam; terus-menerus membersihkan, menyuapi, dan memandikan, sangat terasa seperti lini produksi dan terburu-buru. Setelah selesai, saya sudah bersimbah keringat."
 
-Model perawatan 「efisiensi utama」 ini, justru menjadi salah satu alasan keluarga Taiwan memilih perawat asing: di rumah, setidaknya masih bisa mempertahankan martabat dasar.
+Model perawatan yang "mengutamakan efisiensi" inilah yang menjadi salah satu alasan keluarga di Taiwan memilih perawat asing: setidaknya di rumah, mereka masih bisa mempertahankan martabat dasar.
 
 ## Perspektif Internasional: Keunikan Model Taiwan
 
-Sistem perawatan dual-track Taiwan unik di tingkat internasional.
+Sistem perawatan ganda Taiwan sangat unik di dunia internasional.
 
-Jerman mendirikan asuransi perawatan jangka panjang pada 1994, mengadopsi model "pilih antara uang tunai atau layanan" — bisa memilih menerima uang tunai untuk mengatur perawatan sendiri, atau menerima layanan profesional. Asuransi perawatan Jepang berpusat pada pusat layanan terintegrasi komunitas, menegaskan integrasi perawatan medis, perawatan, dan perumahan. Belanda telah mendirikan asuransi perawatan jangka panjang sejak 1968, dan kini menyediakan layanan terstandarisasi melalui sistem "paket perawatan".
+Jerman mendirikan asuransi perawatan jangka panjang pada tahun 1994 dengan model "pilih salah satu antara tunjangan tunai atau layanan"—Anda dapat memilih menerima uang tunai untuk mengatur perawatan sendiri, atau menerima layanan profesional. Asuransi _kaigo_ Jepang berpusat pada pusat layanan terintegrasi komunitas, menekankan integrasi medis, perawatan, dan perumahan. Belanda telah mendirikan asuransi perawatan jangka panjang sejak 1968, yang sekarang menyediakan layanan standar melalui sistem "paket perawatan".
 
-Namun tidak ada negara seperti Taiwan: menjalankan dua sistem perawatan berskala setara dan saling tidak kompatibel secara bersamaan.
+Namun, tidak ada negara yang seperti Taiwan: menjalankan dua sistem perawatan dengan skala yang setara namun tidak saling kompatibel secara bersamaan.
 
 > **📝 Catatan Kurator**
-> Kontradiksi sistem perawatan jangka panjang Taiwan mencerminkan perjuangan masyarakat Asia Timur dalam proses modernisasi: apakah kita menginginkan model Skandinavia yang profesional, atau model keluarga yang humanis? Jawabannya keduanya diinginkan, tapi keduanya tidak dikelola dengan baik.
+> Kontradiksi dalam sistem LTC Taiwan mencerminkan perjuangan masyarakat Asia Timur dalam proses modernisasi: apakah kita menginginkan model Nordik yang profesional, atau model keluarga yang manusiawi? Jawabannya adalah keduanya, tetapi keduanya belum dilakukan dengan baik.
 
-Sarjana Singapura Liang Li-fang menyatakan: "Perawat asing Taiwan tidak pernah bertujuan menggantikan peran keluarga, melainkan melengkapi kekurangan keluarga dalam perawatan. Ini sesuai dengan ekspektasi budaya Konfusius terhadap tanggung jawab keluarga."
+Akademisi Singapura, Liang Li-fang, menunjukkan: "Perawat asing di Taiwan tidak pernah dimaksudkan untuk menggantikan peran keluarga, melainkan untuk melengkapi kekurangan keluarga dalam hal perawatan. Ini sesuai dengan ekspektasi budaya Konfusianisme terhadap tanggung jawab keluarga."
 
-Namun biaya model ini adalah fragmentasi sistem. 210.000 keluarga yang mempekerjakan perawat asing tidak dapat menikmati sumber daya komunitas, layanan istirahat, dan dukungan alat bantu Long-term Care 2.0. Mereka hidup di luar pandangan sistem, harus bertahan sendiri.
+Namun, harga dari model ini adalah fragmentasi sistem. 210.000 keluarga yang mempekerjakan perawat asing tidak dapat menikmati sumber daya komunitas, layanan istirahat (_respite care_), maupun dukungan alat bantu dari LTC 2.0. Mereka hidup di luar jangkauan pandangan sistem, berjuang sendiri.
 
-## Tiga Panah Penyelamatan: Bagaimana Pemerintah Merespons Krisis Kekurangan Tenaga Kerja
+## Tiga Anak Panah Penyelamatan: Bagaimana Pemerintah Merespons Kelangkaan Tenaga Kerja
 
-Menghadapi krisis tenaga kerja perawatan lanjut usia, Kementerian Kesehatan dan Kesejahteraan meluncurkan tiga kebijakan utama:
+Menghadapi krisis tenaga kerja LTC, MOHW meluncurkan tiga "anak panah" kebijakan:
 
-**Panah Pertama: Program Percobaan Layanan Perawatan Pendampingan Multidimensi**
-Mengizinkan masyarakat membeli layanan perawatan sementara, jangka pendek secara mandiri. Tiga bulan setelah diluncurkan pada 2025, 15 kabupaten/kota telah melayani 485 orang, menunjukkan adanya permintaan nyata.
+**Anak Panah Pertama: Proyek Percontohan Layanan Pendampingan Perawatan yang Beragam**
+Memungkinkan masyarakat membeli layanan perawatan sementara dan jangka pendek dengan biaya sendiri. Setelah diluncurkan selama 3 bulan pada tahun 2025, sebanyak 15 kabupaten/kota telah melayani total 485 orang, menunjukkan adanya permintaan nyata.
 
-**Panah Kedua: Program Rekrutmen dan Retensi Kelas Internasional Kerja Sama Industri-Pendidikan**
-Merekrut mahasiswa Vietnam dan Indonesia untuk program diploma dua tahun perawatan lanjut usia, dengan kontrak ikatan kerja 3 tahun setelah lulus. Angkatan pertama 22 orang sudah dipesan penuh oleh industri, angkatan kedua akan diperluas menjadi 40 orang.
+**Anak Panah Kedua: Proyek Rekrutmen dan Retensi Talenta Internasional melalui Kerja Sama Industri-Akademisi**
+Merekrut mahasiswa dari Vietnam dan Indonesia untuk menempuh pendidikan teknis tingkat dua di bidang LTC, dengan ikatan kontrak selama 3 tahun setelah lulus. Dari 22 orang angkatan pertama, semuanya telah dipesan oleh industri; angkatan kedua akan diperluas menjadi 40 orang.
 
-**Panah Ketiga: Membuka Peluang untuk Tenaga Teknis Menengah Asing**
-Perawat asing yang telah bekerja 6 tahun ke atas, dengan gaji bulanan mencapai 29.000 dolar Taiwan baru, dapat beralih menjadi "tenaga teknis menengah", tidak lagi dibatasi oleh batas masa kerja. Per Februari 2024, sudah 15.000 orang memperoleh kualifikasi ini.
+**Anak Panah Ketiga: Pembukaan Peluang bagi Tenaga Teknis Asing Tingkat Menengah**
+Perawat asing yang telah bekerja selama lebih dari 6 tahun dengan gaji bulanan mencapai NT$29.000 dapat beralih menjadi "tenaga teknis tingkat menengah" tanpa batasan masa kerja. Hingga Februari 2024, sudah ada 15.000 orang yang memperoleh kualifikasi ini.
 
 > **⚠️ Pandangan Kontroversial**
-> Tiga panah terlihat banyak, tetapi 22 mahasiswa Vietnam dibandingkan kebutuhan ratusan ribu tenaga kerja, dikritik sebagai "terlalu sedikit untuk mengatasi masalah besar". Solusi sebenarnya mungkin adalah meningkatkan status sosial dan tingkat gaji layanan perawatan.
+> Tiga anak panah tersebut terlihat banyak, tetapi dibandingkan dengan kebutuhan tenaga kerja ratusan ribu orang, 22 mahasiswa Vietnam dikritik sebagai "hanya setetes air di padang pasir". Solusi sebenarnya mungkin adalah meningkatkan status sosial dan tingkat gaji layanan perawatan.
 
-## Taruhan Long-term Care 3.0: Integrasi atau Lebih Terpecah?
+## Taruhan LTC 3.0: Integrasi atau Semakin Terpecah?
 
-Mulai 2026, Long-term Care 3.0 akan dilaksanakan bertahap, perubahan terbesarnya adalah memasukkan keluarga dengan perawat asing untuk menggunakan layanan komunitas. Apakah kebijakan ini akan menyelesaikan kontradiksi sistem dual-track, atau justru membuat masalah lebih kompleks?
+Mulai tahun 2026, LTC 3.0 akan diluncurkan secara bertahap, dengan perubahan terbesar adalah memasukkan keluarga dengan perawat asing untuk menggunakan layanan komunitas. Apakah kebijakan ini akan menyelesaikan kontradiksi sistem ganda, atau justru membuat masalah menjadi lebih kompleks?
 
-Wakil Menteri Kesehatan dan Kesejahteraan Lu Chien-te berkata: "Tenaga kerja asing adalah tenaga kerja pelengkap, pekerja lokal tidak mau melakukannya, jadi orang asing yang datang melakukannya." Namun realitanya, 214.000 perawat asing sudah bukan lagi "pelengkap", melainkan tulang punggung sistem perawatan jangka panjang Taiwan.
+Wakil Menteri MOHW, Lu Chien-te, mengatakan: "Pekerja migran adalah tenaga kerja tambahan; jika tenaga kerja lokal tidak bersedia melakukannya, maka orang asing yang melakukannya." Namun realitasnya, 214.000 perawat asing bukan lagi sekadar "tambahan", melainkan pilar utama dalam sistem perawatan jangka panjang Taiwan.
 
-Jika Long-term Care 3.0 berhasil mengintegrasikan kedua sistem, Taiwan mungkin menciptakan "model perawatan campuran" yang unik di dunia — menggabungkan standar kualitas layanan profesional dengan kehangatan kemanusiaan perawatan keluarga.
+Jika LTC 3.0 berhasil mengintegrasikan kedua sistem, Taiwan mungkin dapat menciptakan "model perawatan campuran" yang unik di dunia—menggabungkan standar kualitas layanan profesional dengan kehangatan manusiawi dari perawatan keluarga.
 
-Jika gagal, Taiwan mungkin menghadapi pecah belah sistem yang lebih parah: keluarga kaya yang mempekerjakan perawat asing menikmati layanan ganda, keluarga miskin hanya bisa mengantre menunggu sumber daya pemerintah, kesenjangan kelas diperluas pada saat kebutuhan perawatan paling mendesak.
+Jika gagal, Taiwan mungkin menghadapi perpecahan sistem yang lebih parah: keluarga kaya yang mampu mempekerjakan perawat asing akan menikmati layanan ganda, sementara keluarga miskin hanya bisa mengantre menunggu sumber daya pemerintah; kesenjangan kelas akan diperbesar pada saat kebutuhan perawatan sedang mendesak.
 
 > **📝 Catatan Kurator**
-> Masa depan sistem perawatan jangka panjang Taiwan, sebenarnya menjawab pertanyaan yang lebih mendalam: Masyarakat seperti apa yang kita inginkan? Masyarakat profesional yang mengutamakan efisiensi, atau masyarakat kemanusiaan yang mengutamakan kehangatan?
+> Masa depan sistem LTC Taiwan sebenarnya adalah menjawab pertanyaan yang lebih dalam: Masyarakat seperti apa yang kita inginkan? Masyarakat profesional yang mengutamakan efisiensi, atau masyarakat humanis yang mengutamakan kehangatan?
 
 ## Epilog: Dua Cara Mencintai
 
-Kakek berusia 86 tahun dari Tainan, Tong Fu-chien, menderita penyakit ginjal dan demensia. Pengasuh asal Indonesia-nya, Astuti, setiap hari memblender tahu dan mee sua untuknya, karena 「阿公咬不動，但喜歡吃麵條」。Astuti berkata kakek itu 「yi ji bang」（一級棒）， dan anak laki-laki kakek berkata Astuti seperti 「另一個女兒」。
+Tong Fu-chien (童福謙), seorang kakek berusia 86 tahun di Tainan, menderita penyakit ginjal dan demensia. Perawat Indonesianya, Astuti, setiap hari menghaluskannya tahu dan mi karena "Kakek tidak bisa mengunyah keras, tapi suka makan mi". Astuti mengatakan Kakek adalah "_yi ji bang_" (luar biasa), sementara putra Kakek mengatakan Astuti sudah seperti "putri sendiri".
 
-Di sisi lain, Lien Chin-ying berusia 69 tahun dari Hualien, merawat ibunya yang berusia 98 tahun dan menderita demensia. Ia memanfaatkan tenaga pelayanan rumah dari Long-term Care 2.0 untuk membantu memasak, tetapi malam hari ia tetap harus tidur di lantai kamar ibunya. Ia berkata: 「這是我的娘啊！我不能不顧。」
+Di sisi lain, Lian Jin-ying yang berusia 69 tahun di Hualien merawat ibunya yang berusia 98 tahun dengan demensia. Ia menggunakan perawat komunitas LTC 2.0 untuk membantu menyiapkan makanan, tetapi pada malam hari ia tetap harus tidur di lantai di kamar ibunya. Ia berkata: "Ini adalah ibu saya! Saya tidak bisa mengabaikannya."
 
-Kedua cerita ini mewakili dua pemahaman masyarakat Taiwan tentang 「照顧」: satu adalah pembelian layanan dengan pembagian profesional dan kualitas terkontrol; yang lain adalah ekstensi keluarga yang melibatkan pendampingan utuh dan simbiosis emosional.
+Kedua cerita ini mewakili dua pemahaman masyarakat Taiwan tentang "perawatan": satu adalah pembelian layanan dengan pembagian kerja profesional dan kualitas yang terkendali; yang lainnya adalah pendampingan holistik dan perluasan keluarga yang berbasis ikatan emosional.
 
-Pengembangan sistem Long-term Care Taiwan justru mencari keseimbangan di antara dua cara mencintai ini. Kita masih belajar bagaimana mempertahankan kehangatan kemanusiaan sambil memastikan kualitas profesional; bagaimana mengejar efisiensi sambil tidak melupakan bahwa esensi perawatan adalah koneksi antara manusia.
+Perkembangan sistem LTC Taiwan adalah upaya mencari keseimbangan di antara kedua cara mencintai ini. Kita masih belajar bagaimana memastikan kualitas profesional sambil tetap menjaga kehangatan manusiawi; bagaimana mengejar efisiensi tanpa melupakan bahwa esensi dari perawatan adalah hubungan antarmanusia.
 
-Proses pembelajaran ini akan berlanjut lama. Tapi setidaknya, kita sudah memulainya.
+Proses pembelajaran ini akan berlangsung lama. Namun setidaknya, kita sudah memulainya.
 
 ## Referensi
 
-- [The Reporter: Di Era Kekurangan Tenaga Kerja Masif, Siapa yang Menopang Long-term Care 3.0?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage)
-- [海峽時報: Taiwan is hiring more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html)
-- [愛長照: Mengacu pada Sistem Long-term Care Tujuh Negara Seperti Belanda, Jerman, Austria](https://www.ilong-termcare.com/articles/2pK)
-- [Kementerian Kesehatan dan Kesejahteraan: Khusus Long-term Care](https://1966.gov.tw/)
-- [Laporan Proyeksi Penduduk Komisi Pembangunan Nasional](https://pop-proj.ndc.gov.tw/)
-- [Layanan Perekrutan Tenaga Kerja Asing Kementerian Tenaga Kerja](https://www.wda.gov.tw/)
+- [Reporter: Di era kelangkaan tenaga kerja, siapa yang menopang LTC 3.0?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage)
+- [Hai Xia Times: Taiwan is hiring more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html)
+- [Ai Chang Zhao: Belajar dari sistem perawatan tujuh negara seperti Belanda, Jerman, dan Austria](https://www.ilong-termcare.com/articles/2pK)
+- [Zona Khusus Perawatan Jangka Panjang Kementerian Kesehatan dan Kesejahteraan](https://1966.gov.tw/)
+- [Laporan Estimasi Populasi Dewan Pengembangan Nasional](https://pop-proj.ndc.gov.tw/)
+- [Situs Layanan Pekerjaan Orang Asing Kementerian Tenaga Kerja](https://www.wda.gov.tw/)
 - [Taiwan News: Taiwan on track to be super-aged society](https://www.taiwannews.com.tw/news/5954295)
-- [海峽時報: Taiwan further eases curbs on foreign caregivers](https://www.straitstimes.com/asia/se-asia/faster-ageing-taiwan-further-eases-curbs-on-foreign-caregivers)
+- [Hai Xia Times: Taiwan further eases curbs on foreign caregivers](https://www.straitstimes.com/asia/se-asia/faster-ageing-taiwan-further-eases-curbs-on-foreign-caregivers)

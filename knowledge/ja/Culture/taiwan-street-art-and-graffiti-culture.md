@@ -1,26 +1,20 @@
 ---
 title: '台湾のストリートアートとグラフィティ文化'
-description: 'アンダーグラウンドのグラフィティから合法な壁画まで、都市の壁が台湾のアーティストたちの創作の舞台になるまで'
+description: '台湾のストリートアートは、解厳後にヒップホップ文化とともに伝わり、西門町の深夜のスプレーアートによるアンダーグラウンドシーンから、退役軍人の黄永阜が台中の軍眷村の壁面に彩色画を描いて生み出した「レインボービレッジ」のモデル、さらに高雄の駁二芸術特区などの文化創造空間が相次いで合法的な活動の場を提供し、政府がアーティストを園区に招き入れるに至るまで、約30年にわたる進化が社会の開放と都市空間の再定義の軌跡を反映しています。'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
-  [
-    'ストリートアート',
-    'グラフィティ',
-    '都市文化',
-    'パブリックアート',
-    'サブカルチャー',
-  ]
+  ['ストリートアート', 'グラフィティ', '都市文化', '公共芸術', 'サブカルチャー']
+subcategory: '藝術園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '18157ab5d'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:9d5872fcc273adaa'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-10-15T23:57:56.275953+00:00'
 ---
 
 # 台湾のストリートアートとグラフィティ文化

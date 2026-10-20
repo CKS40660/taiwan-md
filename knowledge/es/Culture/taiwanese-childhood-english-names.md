@@ -2,9 +2,7 @@
 title: 'Los nombres ingleses de la infancia taiwanesa: Mary, Kevin y el derecho a nombrar de los profesores de academias privadas'
 description: 'Desde pasar páginas en una academia privada hasta la romanización del pasaporte y el mostrador de Starbucks, ese nombre nunca lo elegiste tú. Una historia de nombres que va de Hess en 1983 y el “NO CHINESE, ENGLISH PLEASE” de Sesame Street English en 1987 hasta la reforma legislativa de 2024 que permitió registrar solo el nombre indígena, y devuelve la pregunta a aquella pausa de 30 segundos.'
 date: 2026-06-17
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '語言與命名'
 tags:
   [
     'nombres ingleses',
@@ -16,16 +14,58 @@ tags:
     'rectificación de nombres indígenas',
     'sōshi-kaimei',
   ]
+subcategory: '語言與命名'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 18
+featured: true
 lastVerified: 2026-06-17
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/台灣人小時候的英文名字.md'
+viewpoint_formed: true
+verification:
+  high_confidence:
+    [
+      '何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987',
+      'NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）',
+      'Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000',
+      '護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」',
+      '2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言',
+      '通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效',
+      '香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）',
+      '創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）',
+      '1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配',
+      'Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者',
+      '鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回',
+      '統一星巴克 1998/3/28 天母西路首店',
+    ]
+  single_source:
+    [
+      "吉的堡 1986 創立 + 1988 自研 Chevady's World 教材（babyeduhub 二手）",
+      'aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）',
+      'PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案',
+      'Anne Chang Medium 個人散文（端正坐姿）',
+    ]
+  unverified:
+    [
+      '1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」',
+      'Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」',
+      '一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）',
+    ]
+rationale:
+  whats_excluded:
+    [
+      '韓國 hagwon 系統性指派英文名（無證據，韓國 driver 是洗禮名 + 全球化）',
+      '星巴克英文名點餐「全民日常」（限都市年輕族群）',
+      'Mary / Kevin 統計顯示 X%（無 N=1200 級台灣資料）',
+      'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
+      '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
+    ]
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
-sourceCommitSha: 'cfce444ae'
-sourceContentHash: 'sha256:5ec68902a1c50e0d'
-sourceBodyHash: 'sha256:efeadcec0add04bc'
-translatedAt: '2026-06-18T00:36:09+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: 'd525e99ee'
+sourceContentHash: 'sha256:679c9b463da5abd3'
+sourceBodyHash: 'sha256:9aed0f1a904887ba'
+translatedAt: '2026-10-14T21:02:33.691152+00:00'
 ---
 
 # Los nombres ingleses de la infancia taiwanesa: Mary, Kevin y el derecho a nombrar de los profesores de academias privadas
@@ -49,32 +89,34 @@ En el foro StupidClown de PTT hay un recuerdo de 2019. El autor, kriss, fue envi
 
 El estudio académico más completo hasta ahora sobre las prácticas de adopción de nombres ingleses entre jóvenes taiwaneses es “Going by an English Name”, de Barešová y Pikhart, publicado en 2020 en _MDPI Social Sciences_, con una muestra de 76 jóvenes taiwaneses de 18 a 41 años (61 mujeres y 15 hombres)[^5]. El artículo lo dice con claridad: “**the majority received their first English name from their first teacher of English at an educational institution**”; la mayoría de los entrevistados recibió su primer nombre inglés de su primer profesor de inglés[^5]. El artículo también registra un detalle por edad: la mayoría de los encuestados menores de 30 años recibió el nombre entre los 8 y los 11 años; entre los mayores de 31, la mayoría lo recibió entre los 12 y los 13. Las clases de inglés infantil fueron adelantando, generación tras generación, el umbral de “recibir un nombre inglés”.
 
-## NO CHINESE, ENGLISH PLEASE: cuatro cadenas de inglés infantil surgidas en tres años
+## NO CHINESE, ENGLISH PLEASE: Las cuatro cadenas de inglés infantil que estallaron en tres años
 
-Detrás de la escena de la profesora mirando la lista había una infraestructura sostenida por cuatro academias privadas.
+La escena del profesor revisando la lista tiene detrás una infraestructura sostenida por cuatro academias de refuerzo.
 
 ```tw-timeline
-1983 | Nace Hess | La pareja formada por Karen Hess y Joseph Chu funda la empresa en Taipéi, con énfasis en un entorno totalmente en inglés
-1986 | Kid Castle y Giraffe aparecen el mismo año | Kid Castle en Taipéi y Giraffe en Zhongli abren sus primeras sedes
-1987 | Entra Sesame Street English | Llega como marca licenciada desde Estados Unidos y lanza “NO CHINESE, ENGLISH PLEASE”
-1999 | Inglés obligatorio en primaria | El Ministerio de Educación implementa el currículo de nueve años; el nombre inglés pasa de ritual de academia a registro escolar
+1983 | El inicio de Karen Hess | Fundada en Taipéi por los esposos Karen Hess y Joseph Chu, centrada en un entorno totalmente en inglés
+1986 | Gi-de-bao y Giraffe nacen el mismo año | Gi-de-bao abrió su primera sede en Taipéi y Giraffe la suya en Zhongli
+1987 | Entrada de Sesame Street English | Marca licenciada desde EE. UU., con el lema «NO CHINESE, ENGLISH PLEASE»
+1999 | El inglés se vuelve obligatorio en primaria | Implementación del sistema de nueve años de educación obligatoria por parte del Ministerio de Educación; los nombres en inglés pasan de ser un ritual de academia a constar en los registros escolares
+Fuente: Evolución de las cuatro marcas de inglés infantil citadas (Karen Hess, Gi-de-bao, Giraffe, Sesame Street) y datos sobre la política de inglés obligatorio en primaria de 1999[^6][^7][^8][^9]
 ```
 
-Hess se formó en 1983; sus fundadores fueron Karen Hess (la propia Ho Chia-jen) y su esposo Joseph Chu[^6]. En 1987, el grupo creó un equipo de desarrollo con docentes taiwaneses y extranjeros; en 1990 abrió la primera librería Hess. Kid Castle se fundó en 1986 y en 1988 lanzó su primera generación de materiales propios de inglés infantil, _Chevady's World_[^7]. Giraffe English también nació en 1986; en 1987 abrió su primer “centro de enseñanza de inglés para niños pequeños y en edad escolar”, y en 1989 su programa de inglés se emitió en TTV y CTS[^8]. Sesame Street English estableció su sede en Taiwán en 1987 como marca licenciada importada. Una entrevista de _CommonWealth Magazine_ de 2025 registró el lema que lanzó entonces: “**NO CHINESE, ENGLISH PLEASE**”; para 2025 acumulaba 103 sedes y 500.000 estudiantes[^9].
+Karen Hess se consolidó en 1983, fundada por los esposos Karen Hess (la propia fundadora) y Joseph Chu[^6]. En 1987, el grupo expandió su equipo de investigación y desarrollo con profesores locales y extranjeros, y en 1990 abrió la primera librería Karen Hess. Gi-de-bao fue fundada en 1986 y en 1988 lanzó su primer material didáctico propio para niños, 《Chevady's World》[^7]. Giraffe English también comenzó en 1986; en 1987 abrió su primer «Centro de enseñanza de inglés para niños y preescolares» y en 1989 sus programas de inglés se emitieron en TTV y CTS[^8]. Sesame Street English estableció su sede en Taiwán en 1987 como una marca bajo licencia; una entrevista de _CommonWealth Magazine_ en 2025 registró el lema que utilizaban en aquel entonces: «**NO CHINESE, ENGLISH PLEASE**», acumulando para 2025 un total de 103 sucursales y 500.000 estudiantes[^9].
 
-De paso, conviene corregir una fecha que suele recordarse mal: que Sesame Street English aterrizara en Taiwán en 1987 no significa que Sesame Workshop diseñara personalmente sus materiales. La línea global de materiales ESL _Sesame English_ de Sesame Workshop no se lanzó hasta 1999; entre 1987 y 1999, en Taiwán funcionó una combinación de marca licenciada y materiales redactados por equipos locales[^10]. El recuerdo de “Big Bird me enseñó inglés en la infancia” es real; el recuerdo de que “la sede estadounidense ya diseñaba los materiales para ti en 1987” es una reconstrucción posterior.
+Cabe mencionar un dato temporal que suele confundirse: que Sesame Street English llegara a Taiwán en 1987 no significa que Sesame Workshop diseñara personalmente el material didáctico. La línea global de materiales ESL _Sesame English_ de Sesame Workshop no se lanzó hasta 1999; entre 1987 y 1999, lo que funcionaba en Taiwán era una combinación de la marca licenciada con materiales elaborados por equipos locales[^10]. El recuerdo de «Big Bird me enseñó inglés durante mi infancia» es real, pero el recuerdo de «la sede central en EE. UU. ya estaba diseñando tus materiales en 1987» es un mito posterior.
 
-> ⚠️ **Error frecuente**
-> La frase “de niño me formé con materiales diseñados por la sede estadounidense de Sesame Workshop” es, en nueve de cada diez casos, insostenible. Entre 1987 y 1999, Sesame Street English en Taiwán funcionó mediante una marca licenciada y materiales locales. La línea global ESL _Sesame English_ de Sesame Workshop lanzó su primera tanda de materiales ESL recién en 1999. Los carteles de Big Bird eran reales; el contenido de los manuales, no necesariamente.
+> ⚠️ **Error común**
+> La frase «Crecí con materiales diseñados por la sede central de Sesame Workshop en EE. UU.» es incorrecta en el 90 % de los casos. Entre 1987 y 1999, Sesame Street English en Taiwán operaba bajo un modelo híbrido de marca licenciada + materiales de autoría local. La línea global _Sesame English_ ESL de Sesame Workshop lanzó su primera tanda de materiales ESL en 1999; los pósteres de Big Bird de aquella época eran reales, pero el contenido de los libros no lo era.
 
 ```tw-versus
-Cuatro grandes cadenas de inglés infantil, 1983-1987 | Historia estatal de los nombres en el mismo período
-Hess 1983 / Kid Castle 1986 / Giraffe 1986 / Sesame Street English 1987 | Levantamiento de la ley marcial 1987 / autorización de visitas familiares a China 1987 / masificación del pasaporte
-Cuatro cadenas se fundan densamente en tres años | El país acababa de abrir la puerta para salir al extranjero
-En el aula se grita “ENGLISH PLEASE” | El Estado aún discutía qué escribir en el campo del pasaporte
+Las cuatro grandes cadenas de inglés infantil (1983-1987) | Historia de la denominación nacional contemporánea
+Karen Hess 1983 / Gi-de-bao 1986 / Giraffe 1986 / Sesame Street 1987 | Fin de la ley marcial 1987 / Apertura de visitas familiares a China continental 1987 / Popularización del pasaporte
+Cuatro fundaciones intensivas en tres años | El país acababa de abrir sus fronteras al exterior
+En las aulas gritaban «ENGLISH PLEASE» | Aún se debatía qué escribir en el apartado de nombres de los pasaportes oficiales
+Fuente: Cronología de la fundación de marcas de inglés infantil, así como registros históricos sobre el fin de la ley marcial, la apertura de visitas familiares y el sistema de romanización de pasaportes[^6][^9][^21]
 ```
 
-La explosión de esas cuatro cadenas de inglés infantil en tres años coincide con el levantamiento de la ley marcial en 1987, la autorización de visitas familiares a China y la masificación del pasaporte. El país acababa de abrir la puerta para salir al extranjero, y la sociedad civil empezó antes que el Estado a preparar para sus hijos un nombre “útil al cruzar”. Ese gesto civil fue más rápido que el sector público: el estándar oficial para convertir el nombre chino del pasaporte en letras latinas tardaría otros 15 años en asentarse.
+El estallido de estas cuatro cadenas de inglés infantil en un periodo de tres años coincide con el fin de la ley marcial en 1987, la apertura de las visitas familiares a China continental y la popularización del uso del pasaporte. Justo cuando el país empezaba a abrir sus fronteras al mundo, la sociedad civil ya estaba preparando nombres para sus hijos que pudieran «servir al salir fuera». Esta iniciativa privada fue más rápida que la administración pública; en aquel entonces, el estándar oficial sobre «cómo convertir los nombres chinos a caracteres romanos» en los pasaportes tardaría otros 15 años en resolverse definitivamente.
 
 ## La lista de personajes del material como SSOT: Peter y Mary en los manuales Longman
 
@@ -148,61 +190,64 @@ La capa laboral también se ha institucionalizado. Un post en el foro tech_job d
 > 📝 **Nota del curador**
 > El nombre inglés de la infancia fue asignado; el nombre romanizado de la adultez está bloqueado por la ley. Entre ambos hay un período en que crees tener derecho a nombrarte: crees que elegiste Kevin, y también crees que elegiste una cuenta de LinkedIn llamada Kevin. Pero, en realidad, la línea del pasaporte decidió desde el año de tu nacimiento qué te preguntaría la aduana cuando fueras adulto. El acto de nombrar nunca volvió de verdad a tus manos; solo cambió de interlocutor.
 
-## Añadir un alias extranjero al pasaporte cuesta NT$1.300 menos que cambiar el nombre
+## Añadir un alias al pasaporte: más barato que cambiar de nombre (NT$1,300)
 
-Cuando Kevin y Chia-hao no cuadran en el pasaporte, la primera solución que se le ocurre a la mayoría es “cambiar el pasaporte”. En la práctica, esa vía no funciona bien, pero hay una salida más barata.
+Cuando los nombres de Kevin y Chia-hao no coinciden en el pasaporte, la primera solución que le viene a la mayoría es «cambiar el pasaporte». En la práctica, esta opción no funciona, pero existe una alternativa más económica.
 
-El artículo 14, inciso 5, subinciso 1, de las Reglas de Aplicación de la Ley de Pasaportes es rígido: “Cuando el nombre extranjero transliterado no concuerde con la pronunciación del nombre chino en las lenguas nacionales. **El cambio por esta razón se limita a una sola vez**”[^27]. Es decir, en toda tu vida puedes cambiar una vez el nombre extranjero del pasaporte con base en la razón “la transliteración no coincide”; después ya no hay una segunda oportunidad.
+El artículo 14, inciso 5, punto 1 de los Reglamentos de Aplicación de la Ley de Pasaportes es muy estricto: «Cuando el nombre extranjero transliterado no coincida con la pronunciación en el idioma nacional del nombre en chino, **el cambio se permitirá una sola vez**»[^27]. Es decir, en toda tu vida solo puedes cambiar el nombre extranjero del pasaporte una vez bajo el argumento de que «la transliteración es incorrecta»; una vez hecho, no habrá una segunda oportunidad.
 
-Pero el artículo 14-1 de las mismas reglas abre otra ventana: el alias extranjero (_Foreign Alias_). La norma dice que “después del cambio, el nombre extranjero original deberá figurar como alias, aunque podrá omitirse en la siguiente renovación o reposición del pasaporte”; y que, “si ya existe un segundo alias extranjero, en la siguiente renovación o reposición se elegirá uno para registrarlo y **no podrá añadirse un segundo alias extranjero adicional**”[^28]. En la práctica, puedes conservar el nombre oficial del pasaporte, LIN, CHIA-HAO, y añadir al mismo tiempo “Kevin Lin” como alias extranjero, ambos impresos en la misma página. La tasa es de NT$1.300, el trámite normal toma 10 días hábiles y el urgente 3 días[^28].
+Sin embargo, el artículo 14-1 de los mismos reglamentos abre otra ventana: el alias extranjero (_Foreign Alias_). La norma establece que «tras el cambio, el nombre extranjero original figurará como alias, pero podrá omitirse en la próxima renovación o reemisión del pasaporte» y que «si ya existe un segundo alias extranjero, se elegirá uno de ellos para su registro en la próxima renovación, **y no se podrá añadir un segundo alias extranjero**»[^28]. En la práctica, puedes mantener tu nombre oficial en el pasaporte como LIN, CHIA-HAO y, al mismo tiempo, añadir «Kevin Lin» como alias extranjero; ambos aparecerán impresos en la misma página. La tasa de solicitud es de NT$1,300, con un plazo general de 10 días hábiles o 3 días para el servicio urgente[^28].
 
-aithley.com evalúa esa ruta con costos muy directos: “**A menos que el problema de romanización del pasaporte haya causado de verdad dificultades profesionales o legales, cambiar una marca usada durante 10 años suele costar más que lo que aporta**”; “conservar el nombre inglés actual y solicitarlo al mismo tiempo como **alias inglés en el pasaporte**, para que ambos coexistan”[^22]. Dicho de otro modo, en vez de cambiar un Kevin usado durante 10 años, conviene añadirlo al pasaporte para que la aduana vea “LIN, CHIA-HAO (aka Kevin Lin)” y la identidad quede alineada en tres segundos.
+aithley.com ofrece una evaluación de costes muy directa sobre esta vía: «**A menos que el problema de la romanización del pasaporte cause problemas profesionales o legales reales, el coste de cambiar una "marca" de 10 años suele ser superior al beneficio**» y sugiere «mantener el nombre en inglés actual y solicitarlo simultáneamente como **alias extranjero en el pasaporte** para que ambos coexistan»[^22]. En otras palabras, en lugar de cambiar un «Kevin» que has usado durante 10 años, es mejor añadirlo al pasaporte para que la aduana vea «LIN, CHIA-HAO (aka Kevin Lin)», resolviendo la discrepancia de identidad en tres segundos.
 
 ```tw-stat
-NT$1.300 | Añadir alias extranjero | Una solicitud, pueden figurar dos nombres
-NT$0 adicional | Cupo vitalicio de cambio de nombre | Limitado a una vez; al usarlo queda cerrado
-3 días hábiles | Retiro urgente | Normal: 10 días hábiles
+NT$1,300 | Añadir alias extranjero | Una sola solicitud; permite dos nombres
+NT$0 extra | Cupo de cambio de nombre | Limitado a una vez; se bloquea tras el uso
+3 días hábiles | Recogida urgente | 10 días hábiles en régimen general
+Fuente: Reglamentos de Aplicación de la Ley de Pasaportes, art. 14-1 (Alias extranjero) y evaluación de costes prácticos[^22][^28]
 ```
 
-La sociedad taiwanesa hizo una demostración de cambios de nombre en 2021. Ese año, una promoción de una cadena de sushi ofrecía salmón gratis a quienes cambiaran su nombre a “salmón”; 331 personas acudieron a las oficinas de registro civil para hacerlo. El episodio pasó a llamarse la “rebelión del salmón”[^29]. La respuesta de Chang Wan-yi, directora del Departamento de Registro Civil del Ministerio del Interior, se volvió una frase célebre: “**Una vez agotado el cupo de cambio de nombre, de verdad harás honor al nombre ‘salmón’**”[^30]. Según el artículo 9 de la Ley de Nombres, cada persona puede cambiar su nombre tres veces en la vida. Cuatro años después, un seguimiento mostró que, de los 331 “salmones”, **80% ya había vuelto a su nombre original y 20% seguía viviendo con salmón en el nombre**; los registros de cambios permanecen para siempre en los archivos del registro civil[^29].
+La sociedad taiwanesa ya dio una muestra de lo que implica cambiar de nombre en 2021. Ese año, un restaurante de sushi lanzó una promoción para que quienes cambiaran su nombre a «Salmón» (_鮭魚_) comieran salmón gratis; 331 personas acudieron a las oficinas de registro civil para cambiar su nombre, un evento conocido históricamente como la «Rebelión del Salmón»[^29]. La respuesta de Chang Wan-yi, directora de la Administración de Registro Civil del Ministerio del Interior, se convirtió en una frase célebre: «**Una vez agotado el cupo de cambio de nombre, te quedarás con un nombre que es literalmente "salmón" (un juego de palabras con "irreal/absurdo")**»[^30]. Según el artículo 9 de la 《Ley de Nombres》, cada persona puede cambiar su nombre tres veces en la vida. Un seguimiento realizado cuatro años después reveló que, de esos 331 «salmones», el **80% ya había vuelto a su nombre original, mientras que el 20% seguía viviendo con el nombre de salmón**; los registros de los nombres cambiados permanecen para siempre en los archivos del registro civil[^29].
 
-El nombre extranjero del pasaporte y el nombre chino de la cédula de identidad siguen dos líneas independientes: el primero está “limitado a una vez”; el segundo, “limitado a tres veces”. Pero ambas enseñan lo mismo: en Taiwán, cuando un nombre entra en un documento oficial adquiere peso, y volver atrás tiene costo. Por eso la vía más barata, añadir un alias por NT$1.300, es en realidad un compromiso institucional. Dice: “Ese Kevin que te asignaron en la infancia no tiene que cambiarse; permitiremos que coexista con tu nombre romanizado en la misma página”.
+El nombre extranjero del pasaporte y el nombre en chino del documento de identidad son dos líneas independientes: la primera está «limitada a una vez» y la segunda «limitada a tres veces». Pero ambas enseñan lo mismo: en Taiwán, una vez que un nombre se escribe en un documento oficial, adquiere peso, y cambiarlo tiene un precio. Por eso, esa vía más barata de añadir un alias por NT$1,300 es, en realidad, una especie de compromiso del sistema. Te dice: «Ese Kevin que te asignaron en la infancia no tiene por qué ser cambiado; permitiremos que coexista con tu nombre romanizado en la misma página».
 
-## El nombre japonés del padre de Kolas: pueblos indígenas nombrados tres veces
+## El nombre japonés del padre de Kolas: los pueblos indígenas fueron nombrados tres veces
 
-Hasta aquí, la historia de nombres que hemos contado tiene protagonistas han. Pero en Taiwán hubo personas nombradas tres veces, y esas tres no fueron estructuras culturales suaves: fue el Estado actuando directamente.
+Hasta ahora, en esta historia de la nomenclatura, los protagonistas han sido los han. Pero hay personas en Taiwán que han sido nombradas tres veces, y esas tres veces no fueron producto de una estructura cultural suave, sino de una intervención directa del Estado.
 
 ```tw-versus
-Sōshi-kaimei 1940-1945 | Sinización del gobierno nacionalista 1946 | Nombres ingleses en clases infantiles desde los años 1980
-Agente: Imperio japonés | Agente: Gobierno de la República de China (Taiwán) | Agente: padres + profesores de academias privadas
-Objeto: Todo Taiwán | Objeto: toda la población, especialmente los pueblos indígenas | Objeto: de preescolar a primaria
-Grado de coerción: sistema de permiso; 2,06% cambió | Grado de coerción: plazo de 3 meses; 100% | Grado de coerción: voluntario, valor por defecto de la clase
-Lugar del nombre: registro civil legal | Lugar del nombre: registro civil legal | Lugar del nombre: apodo de aula permanente
-Abolición: vuelta atrás el 1945/12/15 | A partir de 1995 se permite recuperar nombres tradicionales | Nunca abolido
+Sōshi Kaimei (cambio de apellido) 1940-1945 | Sinización del KMT 1946 | Nombres en inglés de clases infantiles desde 1980s
+Agente: Imperio japonés | Agente: Gobierno de la República de China (Taiwán) | Agente: Padres + profesores de academias
+Objetivo: Todo Taiwán | Objetivo: Todos (especialmente indígenas) | Objetivo: Edad preescolar a primaria
+Nivel de obligatoriedad: Sistema de permisos (2.06% cambiado) | Nivel de obligatoriedad: Plazo de 3 meses (100%) | Nivel de obligatoriedad: Voluntario, por defecto en clases infantiles
+Ubicación del nombre: Registro civil legal | Ubicación del nombre: Registro civil legal | Ubicación del nombre: Apodo eterno en clase
+Abolición: Revertido el 15/12/1945 | Abolición: Desde 1995 se pueden recuperar nombres tradicionales | Nunca se ha abolido
+Fuentes: Datos sobre el movimiento de Kōminka y Sōshi Kaimei, la «Norma para la recuperación de los nombres originales de los habitantes de la provincia de Taiwán» de 1946 y materiales históricos del movimiento de reivindicación de los pueblos indígenas citados en este texto[^33][^34]
 ```
 
-El 11 de febrero de 1940, día auspicioso del año imperial 2600, la Oficina del Gobernador General de Taiwán emitió la Orden n.º 19 para modificar las Reglas de Registro Familiar e iniciar el _sōshi-kaimei_, la creación de apellidos y cambios de nombre al estilo japonés. La entrada de Wikipedia sobre el movimiento de japonización resume las cifras: “A fines de 1941, alrededor de 1% de la población total de Taiwán había cambiado su nombre. Entre 1940 y 1943, el número acumulado de personas que cambiaron de nombre fue de 126.000. Sobre una población total de Taiwán de unos 6,13 millones en 1943, las personas que cambiaron de nombre representaban aproximadamente **2,06%**”[^31]. En comparación con Corea en el mismo período, el editor cultural del periódico japonés _Sankei Shimbun_, Yoshihiro Kita, lo resumió así: “Corea, **80%** de ‘sōshi-kaimei’; Taiwán, **unos pocos puntos porcentuales** de ‘cambio de nombres’”[^32]. Taiwán 2%, Corea 80%: la diferencia no estaba en la voluntad, sino en el diseño institucional. En Taiwán era un “sistema de permiso + revisión de condiciones” (uso cotidiano del japonés en la familia y disposición imperializada); en Corea era “declaración voluntaria”, pero quienes se negaban eran excluidos de raciones, cargos públicos y quedaban primero en la lista de reclutamiento para trabajos forzados[^31].
+El 11 de febrero de 1940 (un día auspicioso según el calendario solar del año 2600 de la era imperial), el Gobierno General de Taiwán publicó la enmienda a las «Reglas de Registro de Población» mediante el Decreto n.º 19, iniciando el proceso de _Sōshi Kaimei_ (cambio de nombre y apellido al estilo japonés). La entrada de Wikipedia sobre el «Movimiento de Kōminka» resume las cifras: «A finales de 1941, aproximadamente el 1% de la población de Taiwán había cambiado su nombre y apellido. Entre 1940 y 1943, un total de 126,000 personas cambiaron sus nombres. Considerando que la población total de Taiwán en 1943 era de unos 6.13 millones, el número de personas que cambiaron su nombre representaba aproximadamente el **2.06%** del total»[^31]. En contraste con las cifras de la Corea de la época, Yoshihiro Kita, editor del departamento cultural del Nikkei, resumió: «Corea: el **80%** realizó _Sōshi Kaimei_; Taiwán: solo unos **pocos puntos porcentuales** cambiaron sus nombres»[^32]. La diferencia entre el 2% de Taiwán y el 80% de Corea no radicaba en la voluntad, sino en el diseño del sistema. En Taiwán era un «sistema de permisos + revisión de condiciones» (requerir un hogar que usara japonés habitualmente + espíritu de súbdito imperial), mientras que en Corea era una «declaración voluntaria, pero quienes se negaban eran excluidos de las raciones de alimentos, de los cargos públicos y eran seleccionados prioritariamente para trabajos forzados»[^31].
 
-Terminada la guerra en 1945, el 21 de mayo de 1946 el gobierno nacionalista promulgó las _Medidas revisadas para que el pueblo de la provincia de Taiwán recupere sus nombres originales_, que obligaban a todos los habitantes de Taiwán a cambiar sus nombres japoneses del período colonial por nombres chinos en un plazo de tres meses[^33]. Para las familias del período japonés, esto fue rellenar caracteres chinos; para los pueblos indígenas fue una extinción lingüística, porque sus nombres tradicionales no tenían equivalentes en caracteres chinos. Investigaciones relacionadas del Instituto de Etnología de Academia Sinica registran:
+Tras el fin de la guerra en 1945, el 21 de mayo de 1946, el Gobierno Nacional promulgó la «Norma para la recuperación de los nombres originales de los habitantes de la provincia de Taiwán», exigiendo que todos los habitantes de Taiwán cambiaran sus nombres japoneses del periodo colonial por nombres chinos en un plazo de tres meses[^33]. Para las familias que ya usaban caracteres chinos durante el dominio japonés, esto fue solo rellenar con los mismos caracteres; para los pueblos indígenas, fue un genocidio lingüístico, ya que sus nombres tradicionales no tenían una correspondencia directa en caracteres chinos. Investigaciones del Instituto de Etnología de la Academia Sinica registran lo siguiente:
 
-> **✦** “Bajo la presión de completar el proceso en tres meses... las oficinas de registro civil usaron **diccionarios del idioma nacional y otros diccionarios comunes para asignar nombres de forma arbitraria a los pueblos indígenas**... llegaron a reunir a aldeas o comunidades enteras para distribuir nombres y facilitar el registro”[^34].
+> **✦** «Bajo la presión de completar el proceso en tres meses... las oficinas de registro civil **asignaron nombres a los indígenas de forma arbitraria utilizando diccionarios comunes, como el Diccionario de Lengua Nacional (Guoyu)...** surgiendo situaciones en las que se asignaban nombres a comunidades o aldeas enteras de forma colectiva para facilitar el registro».[^34]
 
-Desde la década de 1950 aparecieron en gran número nuevos apellidos indígenas como **Kao** (por “pueblos de la montaña”), **Pan** (el radical de agua añadido a “fan”), **Tang** (imagen de río), **Yang** (árbol alto) y **Wu** (chamán o diosa). Personas del mismo clan, al ser enviadas a distintas oficinas de registro civil, podían recibir distintos apellidos chinos, “**lo que provocó en las sociedades indígenas situaciones en que miembros del mismo clan e incluso de la misma familia tenían distintos apellidos chinos**”[^34]. Las consecuencias llegaron hasta casos posteriores de matrimonios entre parientes sin saberlo[^34].
+A partir de la década de 1950, aparecieron numerosos apellidos chinos nuevos entre los pueblos indígenas: «**Gao**» (referente a los pueblos de las montañas), «**Pan**» (el radical de agua más el carácter _fan_ 番), «**Tang**» (con connotación de río), «**Yang**» (árbol alto) y «**Wu**» (diosa). Debido a que miembros de un mismo clan eran enviados a diferentes oficinas de registro civil, podían recibir distintos apellidos chinos, «**lo que provocó que en la sociedad indígena existieran personas del mismo clan o familiares con diferentes apellidos chinos**»[^34]. Las consecuencias se extendieron hasta casos de matrimonios entre parientes sin que las generaciones posteriores lo supieran[^34].
 
-El movimiento de rectificación de nombres comenzó en la década de 1980 y avanzó cada pocos años:
+El movimiento de reivindicación de nombres comenzó en la década de 1980 y ha avanzado paso a paso cada pocos años:
 
 ```tw-timeline
-1994/8/1 | De “compatriotas de montaña” a “pueblos indígenas” | Reforma constitucional aprobada por la Asamblea Nacional el 7/28 y promulgada por Lee Teng-hui
-1995 | Se permite recuperar nombres tradicionales en caracteres chinos | Reforma de la Ley de Nombres
-2001 | Se permite añadir romanización en paralelo | Uso conjunto de caracteres chinos y letras latinas
-2003 | Tanto los nombres tradicionales como los apellidos chinos pueden añadir romanización | Tercera flexibilización
-2024/5/14 | Se permite registrar solo el nombre indígena en letras latinas | La Legislatura aprueba en tercera lectura la reforma de la Ley de Nombres
+01/08/1994 | De "personas de origen japonés" (Sanpō) → Pueblos indígenas | Enmienda constitucional aprobada por la Asamblea Nacional el 28/7, anunciada por Lee Teng-hui
+1995 | Recuperación de nombres tradicionales (caracteres chinos) | Reforma de la Ley de Nombres
+2001 | Posibilidad de usar romanización paralela | Uso conjunto de caracteres chinos y alfabeto romano
+2003 | Nombres tradicionales + apellidos chinos pueden añadir romanización | Tercera fase de flexibilización
+14/05/2024 | Posibilidad de listar solo el nombre tribal (solo romanización) | La Legislatura aprueba en tercera lectura la enmienda a la 《Ley de Nombres》
+Fuentes: Reformas sucesivas de la Ley de Nombres y reportajes sobre el movimiento de reivindicación de los pueblos indígenas[^1][^2][^35]
 ```
 
-La reforma de la Ley de Nombres aprobada en tercera lectura por la Legislatura el 14 de mayo de 2024 permitió que las cédulas de identidad de personas indígenas registren únicamente el nombre indígena en letras latinas, sin necesidad de adjuntar caracteres chinos[^35]. Ese mismo año, Kolas Yotaka se convirtió, al amparo de la nueva ley, en **la primera persona de Taiwán cuya cédula eliminó por completo los caracteres chinos**[^1]. En 2018, en una entrevista con _China Times_, había hablado de su nombre: “**Yotaka es el nombre japonés de mi padre**”, nighthawk, きよたか[^2]. El nombre indígena de una hija amis, Kolas Yotaka, carga el sonido japonés que fue registrado para su padre en el hogar durante la japonización. Tres capas de historia nominal superpuestas en una misma cédula: nombre del período japonés → nombre sinizado → rectificación del nombre.
+La enmienda a la 《Ley de Nombres》 aprobada por la Legislatura el 14 de mayo de 2024 permite que los pueblos indígenas incluyan únicamente su nombre tribal (en pura romanización) en su documento de identidad, sin necesidad de adjuntar caracteres chinos[^35]. Ese mismo año, Kolas Yotaka se convirtió en **la primera persona en Taiwán con un documento de identidad completamente libre de caracteres chinos** gracias a la nueva ley[^1]. En una entrevista concedida a _China Times_ en 2018, mencionó su nombre: «**Yotaka es el nombre japonés de mi padre**», que significa halcón nocturno (きよたか)[^2]. El nombre tribal de esta hija del pueblo Amis, Kolas Yotaka, porta la fonética japonesa con la que su padre fue registrado en el censo durante la era de la Kōminka. Tres capas de historia de la nomenclatura se superponen en un mismo documento de identidad: nombre del periodo colonial → nombre sinizado → nombre reivindicado.
 
-> ⚠️ **Esta línea no se escribe como equivalencia**
-> Que a un niño han le pongan Mary en una academia privada y que el Estado asigne al azar apellidos chinos a pueblos indígenas usando un diccionario **pueden conectarse estructuralmente, pero no equipararse**. Lo primero es una estructura cultural suave más la elección parental bajo la globalización (la mayoría de los padres llevaba activamente a sus hijos a clases de inglés infantil); lo segundo es violencia estatal: un plazo de tres meses, diccionarios abiertos al azar y la ruptura de clanes de toda una generación. Es correcto decir que en ambos casos “se cedió el derecho a nombrar”, pero el peso de esa cesión no es el mismo, y tampoco el costo de volver atrás. La tabla compara la característica estructural común de “no poder nombrarse a sí mismo”, no dice que ambos hechos sean intercambiables.
+> ⚠️ **Esta línea no debe escribirse como una igualdad**
+> Que un niño han reciba el nombre de Mary en una academia y que a un indígena se le asigne un apellido chino al azar mediante un diccionario por parte del Estado, **es una conexión estructural, pero está prohibido tratarlos como iguales**. Lo primero es una estructura cultural suave sumada a la elección de los padres bajo la globalización (la mayoría de los padres llevan activamente a sus hijos a estas clases), lo segundo es violencia estatal: es un plazo de tres meses, es el uso arbitrario de diccionarios y es la ruptura de los clanes de toda una generación. Es cierto que en ambos casos se «cede el derecho al nombre», pero el peso de esa cesión y el coste de revertirla son totalmente distintos. La tabla comparativa muestra la característica estructural de «no poder nombrarse a sí mismo», no pretende decir que ambos procesos sean intercambiables.
 
 ## Del profesor de academia a la lista de nombres principales de la SSA
 

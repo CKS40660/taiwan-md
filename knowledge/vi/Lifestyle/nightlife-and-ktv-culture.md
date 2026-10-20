@@ -1,19 +1,19 @@
 ---
-title: 'Văn hóa đêm và KTV: Từ phòng riêng đến quán ăn khuya, cuộc sống không ngủ 24 giờ của hòn đảo'
-description: 'Từ các phòng karaoke sang những quán ăn khuya, nhịp sống không ngừng nghỉ 24 giờ của hòn đảo.'
+title: 'Đời sống về đêm và văn hóa KTV'
+description: 'Mô hình KTV phòng riêng bùng nổ vào những năm 1990 với sự lan tỏa mạnh mẽ của các thương hiệu như Cashbox, Holiday và Star Cineplex. Với kho tàng hơn 100.000 bài hát cùng nhiều lựa chọn từ phòng Tổng thống sang trọng đến phòng giải trí bình dân, KTV đã trở thành lựa chọn hàng đầu cho các hoạt động vui chơi và tụ tập của mọi tầng lớp nhân dân. Tuy nhiên, những thảm kịch như vụ hỏa hoạn tại KTV Myth World năm 1992 khiến 16 người tử vong và vụ cháy tại Cashbox chi nhánh Lâm Sâm năm 2020 khiến 6 người thiệt mạng đã buộc toàn xã hội phải nhìn nhận nghiêm túc về an toàn thoát hiểm trong phòng kín. Sự cạnh tranh giữa các ông lớn cùng những cải cách về an toàn đã đan xen tạo nên diện mạo đời sống về đêm tại hòn đảo này.'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['Đời sống', 'Đêm', 'KTV', 'Quán ăn khuya', 'Đài Loan']
+tags: ['Đời sống', 'Đời sống về đêm', 'KTV', 'Ẩm thực đêm', 'Đài Loan']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '228056aba'
+sourceCommitSha: 'ad792c900'
 sourceContentHash: 'sha256:b34cbc0681b4b3a1'
 sourceBodyHash: 'sha256:4439d8751309731f'
-translatedAt: '2026-09-20T00:52:41+08:00'
+translatedAt: '2026-10-15T17:18:28.226642+00:00'
 ---
 
 # Văn hóa đêm và KTV

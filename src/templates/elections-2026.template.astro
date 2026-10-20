@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getLangFromUrl } from '../i18n/utils';
+import electionsDataRaw from '../data/elections-2026.json';
 
 type ElectionCopy = {
   meta: {
@@ -112,21 +113,18 @@ const accents = [
 const officialResourceUrls = {
   cec: 'https://web.cec.gov.tw/',
   politicalDonations: 'https://ardata.cy.gov.tw/',
-  councils: 'https://councils.g0v.tw/',
   moneyFlow: 'https://g0v-money-flow.github.io/elections/',
   tfc: 'https://tfc-taiwan.org.tw/',
   cofacts: 'https://cofacts.tw/',
 };
 
-const electionCopy: Record<
-  'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es',
-  ElectionCopy
-> = {
+// 只有部分語言有完整文案，其他語言退回 en（鍵是語言代碼）
+const electionCopy: Record<string, ElectionCopy> = {
   'zh-TW': {
     meta: {
-      title: '2026 九合一選舉 · Taiwan.md',
+      title: '2026 九合一選舉：11/28 投票日、縣市長候選人、怎麼投票',
       description:
-        '2026 年 11 月 28 日，台灣同日投票九種職位。Taiwan.md 不報導選戰，記錄制度怎麼長、權力怎麼結構、為什麼民主基礎建設不只是投票。',
+        '2026 九合一選舉在 11 月 28 日（週六）上午 8 點到下午 4 點投票。這頁整理 22 個縣市長選區、81 位候選人的名單，告訴你投票要帶國民身分證、去哪裡投，也說明同一天舉行的全國性公投第 22 案。每項資料都附中選會或法規來源，不放民調、不背書任何候選人。',
     },
     hero: {
       eyebrow: '🗳️ 中華民國 115 年地方公職人員選舉',
@@ -143,7 +141,7 @@ const electionCopy: Record<
     role: {
       title: 'Taiwan.md 在這場選舉的角色',
       p1: '我們不報導選戰、不做即時新聞、不發布民調、不背書任何候選人。',
-      p2: '我們做的是：把這場選舉放回三十年的民主基礎建設裡看 —— 九種職位怎麼來、政治獻金怎麼透明、村里長為什麼有 7,748 個、中選會制度為什麼這樣設計、罷免跟公投怎麼運作。',
+      p2: '我們做的是：把這場選舉放回三十年的民主基礎建設裡看 —— 九種職位怎麼來、政治獻金怎麼透明、村里長為什麼有 7,780 個、中選會制度為什麼這樣設計、罷免跟公投怎麼運作。',
       p3: '選舉是民主的尾端動作。它依賴的整套制度、公民監督工具、資訊基礎建設，那才是真正撐起民主的東西。',
       p4: '這個專區會持續記錄這套基礎建設怎麼長、誰在維護它、什麼時候會壞掉。',
       primaryCta: '閱讀完整策展：政治 Hub →',
@@ -152,8 +150,9 @@ const electionCopy: Record<
     offices: {
       title: '九種職位同日投票',
       intro:
-        '「九合一」不是九場選舉的合稱，是九種職位同日投票。從直轄市長到村里長，從議員到原住民族區長 —— 一張選票背後是台灣 1994 年民選以來最完整的地方自治體系。',
-      sourceNote: '職位數量為 2026 選舉預估值（依中選會 2026-08-20 公告為準）',
+        '「九合一」指九種地方公職在同一天投票：從直轄市長、縣市長到村里長，從議員、代表到原住民區長。',
+      sourceNote:
+        '直轄市長、縣（市）長與兩類議員名額依中選會 2026-08-20 選舉公告（中選務字第 1153150253 號）；其餘五類依中選會 2026-09-07 新聞稿。九類合計選出 11,051 人。',
       items: [
         {
           name: '直轄市長',
@@ -163,7 +162,7 @@ const electionCopy: Record<
         },
         {
           name: '直轄市議員',
-          count: 380,
+          count: 381,
           desc: '六都議會代表（席次依縣市調整）',
           accent: accents[1],
         },
@@ -175,7 +174,7 @@ const electionCopy: Record<
         },
         {
           name: '縣（市）議員',
-          count: 532,
+          count: 538,
           desc: '縣市議會代表',
           accent: accents[3],
         },
@@ -205,7 +204,7 @@ const electionCopy: Record<
         },
         {
           name: '村（里）長',
-          count: 7748,
+          count: 7780,
           desc: '最基層的民選職位（比 7-Eleven 還多）',
           accent: accents[8],
         },
@@ -243,26 +242,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '選務時程',
-          desc: '法定時程已上線（見上方）；投票時間隨 8/20 選舉公告更新',
+          title: '選務時程與投票須知',
+          desc: '從中選會決定投票日到 12 月 25 日新任就職，法定步驟照日期排好，每一筆都附出處。',
           eta: '已上線',
         },
         {
           icon: '👥',
-          title: '候選人 directory',
-          desc: '22 縣市候選人對稱呈現（無民調、按筆畫排序）',
-          eta: '2026/09 登記後',
+          title: '縣市長候選人名冊',
+          desc: '可以用姓名、選區或政黨搜尋候選人，也整理了各選區候選人數與各政黨推薦人數。',
+          eta: '已上線',
         },
         {
           icon: '💰',
           title: '政治獻金透明度',
-          desc: '接監察院平臺 + g0v 選舉金流',
-          eta: '2026/10 起',
+          desc: '誰可以捐、一年能捐多少、什麼時候能收、選後去哪裡查。只寫規則，不寫任何候選人的金額。',
+          eta: '規劃中',
         },
         {
           icon: '🔮',
           title: '多視角觀點',
-          desc: '以多個制度與社會角度整理選制改革、兩岸關係與民主韌性議題',
+          desc: '整理投票制度、境外介入與資訊操作、查核與監票三組議題的不同說法，每種說法都附原文出處。',
           eta: '逐步上線',
         },
       ],
@@ -334,12 +333,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'g0v 縣市長／議員投票指南',
-          url: officialResourceUrls.councils,
-          desc: '公民科技社群維護的投票指南',
-          icon: '🗳️',
-        },
-        {
           name: 'g0v 選舉金流',
           url: officialResourceUrls.moneyFlow,
           desc: '政治獻金視覺化',
@@ -361,26 +354,27 @@ const electionCopy: Record<
     },
     verify: {
       title: '如何驗證 Taiwan.md 訊息？',
-      domainPrefix: '認準 domain：',
+      domainPrefix: '認準網址：',
       domainSuffix:
         '。其他相似網址（taiwand.md / taiwan-md.com 等）不是 Taiwan.md。',
-      gitLog: '每篇文章都有公開 git log + footnote primary source。',
-      attribution:
-        '所有外部資料（中選會 / 監察院 / g0v）都附 source attribution + last-fetched timestamp。',
+      gitLog: '每篇文章都公開修改紀錄，並用註腳標明一手來源。',
+      attribution: '外部資料（中選會、監察院、g0v）都標明出處與取得日期。',
       factCheckPrefix: '選舉相關訊息若有疑慮，先查',
       factCheckJoin: '或',
       factCheckSuffix: '。',
       mvp: '本頁於 2026-05-27 上線，後續內容持續補齊。',
-      roadmap: '完整選務時程、候選人、政治獻金與多視角子頁面持續上線中。',
+      roadmap:
+        '候選人名冊、投票須知、選務時程與政治獻金已上線；多視角觀點製作中。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '不報導選戰，記錄民主基礎建設',
     },
   },
   en: {
     meta: {
-      title: '2026 Local Elections · Taiwan.md',
+      title:
+        '2026 Taiwan Local Elections: Nov 28 Voting Day, Mayoral Candidates, How to Vote',
       description:
-        'On November 28, 2026, Taiwan votes for nine local offices on the same day. Taiwan.md does not cover campaigns, polls, or endorsements; it documents the democratic infrastructure behind the election.',
+        'Taiwan votes Saturday, November 28, 2026, 8 a.m. to 4 p.m. Candidates in 22 mayoral races, what to bring (your National ID card), and the same-day referendum.',
     },
     hero: {
       eyebrow:
@@ -399,7 +393,7 @@ const electionCopy: Record<
     role: {
       title: "Taiwan.md's role in this election",
       p1: 'We do not report campaign news, publish polls, or endorse candidates.',
-      p2: 'We place this election back inside three decades of democratic infrastructure: how the nine offices work, how political donations become transparent, why Taiwan has 7,748 village and borough chiefs, how the Central Election Commission is structured, and how recalls and referendums operate.',
+      p2: 'We place this election back inside three decades of democratic infrastructure: how the nine offices work, how political donations become transparent, why Taiwan has 7,780 village and borough chiefs, how the Central Election Commission is structured, and how recalls and referendums operate.',
       p3: 'Voting is the last-mile action of democracy. The institutions, civic oversight tools, and information infrastructure underneath it are what keep democracy standing.',
       p4: 'This section keeps documenting how that infrastructure grows, who maintains it, and where it can break.',
       primaryCta: 'Read the full curation: Politics Hub →',
@@ -408,9 +402,9 @@ const electionCopy: Record<
     offices: {
       title: 'Nine offices vote on the same day',
       intro:
-        'The phrase "nine-in-one" does not mean nine separate elections. It means nine categories of local office vote on the same day. From mayors to village chiefs, from councilors to Indigenous district offices, each ballot sits inside Taiwan’s local self-government system built since direct local elections in 1994.',
+        '“Nine-in-one” means nine categories of local office are elected on the same day: from special municipality and county mayors down to village chiefs, and from councilors and representatives to Indigenous district offices.',
       sourceNote:
-        'Office counts are 2026 estimates and should follow the Central Election Commission announcement on 2026-08-20.',
+        'Seats for special municipality mayors, county and city mayors, and both types of councilors follow the CEC election announcement of 2026-08-20; the other five categories follow the CEC press release of 2026-09-07. Across all nine categories, 11,051 officials will be elected.',
       items: [
         {
           name: 'Special municipality mayors',
@@ -420,7 +414,7 @@ const electionCopy: Record<
         },
         {
           name: 'Special municipality councilors',
-          count: 380,
+          count: 381,
           desc: 'Council representatives in the six municipalities; seats vary by city',
           accent: accents[1],
         },
@@ -432,7 +426,7 @@ const electionCopy: Record<
         },
         {
           name: 'County and city councilors',
-          count: 532,
+          count: 538,
           desc: 'Representatives in county and city councils',
           accent: accents[3],
         },
@@ -462,7 +456,7 @@ const electionCopy: Record<
         },
         {
           name: 'Village and borough chiefs',
-          count: 7748,
+          count: 7780,
           desc: 'Taiwan’s most local elected offices',
           accent: accents[8],
         },
@@ -518,26 +512,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Election timeline',
-          desc: 'Statutory schedule is live above; voting hours follow the Aug 20 announcement',
+          title: 'Election timeline & voting guide',
+          desc: 'Every legal step from the day the CEC set the election date to the December 25 inauguration, in date order, each with a source.',
           eta: 'Live',
         },
         {
           icon: '👥',
-          title: 'Candidate directory',
-          desc: 'Symmetric presentation across 22 cities and counties, without polling or rankings',
-          eta: 'After 2026/09 registration',
+          title: 'Mayoral candidate directory',
+          desc: 'Search candidates by name, race or party, with the number of candidates in each race and the number each party nominated.',
+          eta: 'Live',
         },
         {
           icon: '💰',
           title: 'Political donation transparency',
-          desc: 'Links to the Control Yuan platform and g0v election money-flow tools',
-          eta: 'From 2026/10',
+          desc: 'Who may give, how much per year, when money can be accepted and where to look it up after the vote. Rules only, no candidate figures.',
+          eta: 'Planned',
         },
         {
           icon: '🔮',
           title: 'Multi-perspective views',
-          desc: 'Institutional and civic lenses on electoral reform, cross-strait relations, and democratic resilience',
+          desc: 'Different views on three sets of issues: how voting works, foreign interference and information operations, and fact-checking and vote monitoring, each quoted with its source.',
           eta: 'Rolling updates',
         },
       ],
@@ -566,13 +560,13 @@ const electionCopy: Record<
           badge: 'History',
         },
         {
-          href: '/en/history/taiwan-democratization-history',
+          href: '/en/history/taiwan-democratization',
           title: "Taiwan's Democratic Transition",
           desc: 'Institutional evolution from authoritarian rule to direct elections',
           badge: 'History',
         },
         {
-          href: '/en/history/taiwan-democratization',
+          href: '/en/history/taiwan-democratization-history',
           title: 'Democratization',
           desc: 'From lifting martial law in 1987 to direct presidential elections in 1996',
           badge: 'History',
@@ -609,12 +603,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'g0v City/County Mayor and Councilor Voting Guide',
-          url: officialResourceUrls.councils,
-          desc: 'Voting guide maintained by Taiwan’s civic tech community',
-          icon: '🗳️',
-        },
-        {
           name: 'g0v Election Money Flow',
           url: officialResourceUrls.moneyFlow,
           desc: 'Political donation visualization',
@@ -647,7 +635,7 @@ const electionCopy: Record<
       factCheckSuffix: 'first.',
       mvp: 'This page went live on 2026-05-27, with additional coverage continuing to be added.',
       roadmap:
-        'Full election timeline, candidate, political donation, and multi-perspective subpages will continue to roll out.',
+        'The candidate directory, voting guide, election timeline and political donation pages are live. The multi-perspective page is in progress.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'not campaign coverage, but a record of democratic infrastructure',
@@ -655,9 +643,9 @@ const electionCopy: Record<
   },
   ja: {
     meta: {
-      title: '2026 統一地方選挙 · Taiwan.md',
+      title: '2026 台湾統一地方選挙：11/28 投票日・県市長候補者・投票の方法',
       description:
-        '2026年11月28日、台湾では九つの地方公職を同日に選ぶ選挙が行われます。Taiwan.md は選挙戦報道や世論調査、候補者支持ではなく、その背後にある民主主義の基盤を記録します。',
+        '2026年11月28日（土）午前8時から午後4時まで投票。22の県市長選挙区の候補者一覧、投票に持っていくもの（国民身分証）と投票所のルール、同じ日に行われる全国公民投票第22案を、中央選挙委員会の出典つきでまとめました。世論調査は載せていません。',
     },
     hero: {
       eyebrow: '🗳️ 中華民国 2026年地方公職人員選挙',
@@ -674,7 +662,7 @@ const electionCopy: Record<
     role: {
       title: 'この選挙における Taiwan.md の役割',
       p1: '私たちは選挙戦ニュースを報じず、世論調査を出さず、候補者を支持しません。',
-      p2: '私たちが行うのは、この選挙を30年にわたる民主主義の基盤の中に位置づけることです。九つの公職はどのように成り立つのか、政治献金はどう透明化されるのか、なぜ村里長が7,748人いるのか、中央選挙委員会の制度はどう設計されているのか、リコールと国民投票はどう機能するのか。',
+      p2: '私たちが行うのは、この選挙を30年にわたる民主主義の基盤の中に位置づけることです。九つの公職はどのように成り立つのか、政治献金はどう透明化されるのか、なぜ村里長が7,780人いるのか、中央選挙委員会の制度はどう設計されているのか、リコールと国民投票はどう機能するのか。',
       p3: '投票は民主主義の末端の動作です。その下にある制度、市民監視の道具、情報基盤こそが、民主主義を支えています。',
       p4: 'このセクションでは、その基盤がどのように育ち、誰が維持し、どこで壊れうるのかを記録し続けます。',
       primaryCta: '完全なキュレーションを読む：政治 Hub →',
@@ -683,9 +671,9 @@ const electionCopy: Record<
     offices: {
       title: '九つの公職を同日に投票',
       intro:
-        '「九合一」は九つの別々の選挙という意味ではなく、九種類の地方公職を同日に投票するという意味です。直轄市長から村里長、議員から原住民族区の公職まで、一枚の投票用紙の背後には、1994年以来築かれてきた台湾の地方自治制度があります。',
+        '「九合一」とは、九種類の地方公職を同じ日に選ぶことです。直轄市長・県市長から村里長まで、議員・代表から原住民族区の公職まで含まれます。',
       sourceNote:
-        '公職数は2026年選挙の推定値であり、2026-08-20の中央選挙委員会公告に従います。',
+        '直轄市長・県市長と2種類の議員の定数は2026-08-20の中央選挙委員会の選挙公告、残る5種類は2026-09-07の同委員会のプレスリリースによります。9種類の合計は11,051人です。',
       items: [
         {
           name: '直轄市長',
@@ -695,7 +683,7 @@ const electionCopy: Record<
         },
         {
           name: '直轄市議員',
-          count: 380,
+          count: 381,
           desc: '六都の議会代表。議席数は都市により異なる',
           accent: accents[1],
         },
@@ -707,7 +695,7 @@ const electionCopy: Record<
         },
         {
           name: '県・市議員',
-          count: 532,
+          count: 538,
           desc: '県市議会の代表',
           accent: accents[3],
         },
@@ -737,7 +725,7 @@ const electionCopy: Record<
         },
         {
           name: '村里長',
-          count: 7748,
+          count: 7780,
           desc: '台湾で最も基層にある民選公職',
           accent: accents[8],
         },
@@ -780,26 +768,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '選務日程',
-          desc: '法定日程は上に掲載済み。投票時間は8/20の選挙公告で更新',
+          title: '選務日程と投票ガイド',
+          desc: '投票日の決定から12月25日の就任まで、法定の手順を日付順に並べ、すべてに出典を付けています。',
           eta: '公開済み',
         },
         {
           icon: '👥',
-          title: '候補者ディレクトリ',
-          desc: '22県市の候補者を対称的に表示（世論調査・ランキングなし）',
-          eta: '2026年9月登録後',
+          title: '県市長候補者一覧',
+          desc: '候補者を氏名・選挙区・政党で検索でき、選挙区ごとの人数と政党ごとの推薦人数もまとめています。',
+          eta: '公開済み',
         },
         {
           icon: '💰',
           title: '政治献金の透明性',
-          desc: '監察院プラットフォームと g0v 選挙資金フローへの接続',
-          eta: '2026年10月以降',
+          desc: '誰が寄付できるか、年間いくらまでか、いつ受け取れるか、選挙後にどこで調べられるか。規則だけを扱い、候補者ごとの金額は載せません。',
+          eta: '準備中',
         },
         {
           icon: '🔮',
           title: '複数視点からの整理',
-          desc: '選挙制度改革、両岸関係、民主主義のレジリエンスを制度と市民の視点で整理',
+          desc: '投票制度、外国からの介入と情報操作、ファクトチェックと開票監視の三つのテーマについて、さまざまな主張を出典付きで整理します。',
           eta: '順次公開',
         },
       ],
@@ -834,7 +822,7 @@ const electionCopy: Record<
           badge: 'History',
         },
         {
-          href: '/ja/history/democratization',
+          href: '/ja/history/taiwan-democratization-history',
           title: '民主化',
           desc: '1987年の戒厳解除から1996年の総統直接選挙まで',
           badge: 'History',
@@ -871,12 +859,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'g0v 県市長・議員投票ガイド',
-          url: officialResourceUrls.councils,
-          desc: '市民技術コミュニティが維持する投票ガイド',
-          icon: '🗳️',
-        },
-        {
           name: 'g0v 選挙資金フロー',
           url: officialResourceUrls.moneyFlow,
           desc: '政治献金の可視化',
@@ -901,7 +883,7 @@ const electionCopy: Record<
       domainPrefix: '公式ドメインを確認してください：',
       domainSuffix:
         '。taiwand.md や taiwan-md.com などの類似ドメインは Taiwan.md ではありません。',
-      gitLog: '各記事には公開 git log と一次資料の脚注があります。',
+      gitLog: '各記事は修正履歴を公開し、一次資料を脚注で示しています。',
       attribution:
         '中選会、監察院、g0v などの外部データには、出典と最終取得時刻を明記します。',
       factCheckPrefix: '選挙関連情報に疑問がある場合は、まず',
@@ -909,16 +891,16 @@ const electionCopy: Record<
       factCheckSuffix: 'を確認してください。',
       mvp: 'このページは2026-05-27に公開され、今後も内容を追加していきます。',
       roadmap:
-        '選務日程、候補者、政治献金、複数視点のサブページは順次公開されます。',
+        '候補者一覧、投票ガイド、選挙日程、政治献金のページは公開済みです。複数視点のページは制作中です。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '選挙戦報道ではなく、民主主義の基盤を記録する',
     },
   },
   ko: {
     meta: {
-      title: '2026 지방선거 · Taiwan.md',
+      title: '2026 대만 지방선거: 11/28 투표일, 시장·현장 후보, 투표 방법',
       description:
-        '2026년 11월 28일, 대만은 아홉 종류의 지방 공직을 같은 날 선출합니다. Taiwan.md는 선거 보도, 여론조사, 후보 지지를 하지 않고 그 뒤의 민주주의 인프라를 기록합니다.',
+        '2026년 11월 28일(토) 오전 8시~오후 4시, 대만은 아홉 종류의 지방 공직을 같은 날 선출하고 원전 국민투표도 함께 치릅니다. 22개 시·현장 선거구 후보 명단과 투표 방법을 정리했습니다. 여론조사나 후보 지지는 하지 않습니다.',
     },
     hero: {
       eyebrow: '🗳️ 중화민국 2026년 지방공직자 선거',
@@ -936,7 +918,7 @@ const electionCopy: Record<
     role: {
       title: '이 선거에서 Taiwan.md의 역할',
       p1: '우리는 선거전 뉴스를 보도하지 않고, 여론조사를 발표하지 않으며, 어떤 후보도 지지하지 않습니다.',
-      p2: '우리가 하는 일은 이 선거를 30년에 걸친 민주주의 인프라 안에 다시 놓고 보는 것입니다. 아홉 공직은 어떻게 구성되는지, 정치자금은 어떻게 투명해지는지, 왜 촌리장이 7,748명인지, 중앙선거위원회 제도는 어떻게 설계되었는지, 소환과 국민투표는 어떻게 작동하는지 기록합니다.',
+      p2: '우리가 하는 일은 이 선거를 30년에 걸친 민주주의 인프라 안에 다시 놓고 보는 것입니다. 아홉 공직은 어떻게 구성되는지, 정치자금은 어떻게 투명해지는지, 왜 촌리장이 7,780명인지, 중앙선거위원회 제도는 어떻게 설계되었는지, 소환과 국민투표는 어떻게 작동하는지 기록합니다.',
       p3: '투표는 민주주의의 마지막 동작입니다. 그 아래의 제도, 시민 감시 도구, 정보 인프라가 민주주의를 실제로 지탱합니다.',
       p4: '이 섹션은 그 인프라가 어떻게 자라고, 누가 유지하며, 어디서 고장날 수 있는지를 계속 기록합니다.',
       primaryCta: '전체 큐레이션 읽기: Politics Hub →',
@@ -945,9 +927,9 @@ const electionCopy: Record<
     offices: {
       title: '아홉 종류의 공직을 같은 날 선출',
       intro:
-        '"구합일"은 아홉 번의 별도 선거가 아니라 아홉 종류의 지방 공직을 같은 날 투표한다는 뜻입니다. 직할시장부터 촌리장까지, 의원부터 원주민구 공직까지, 한 장의 투표용지 뒤에는 1994년 이후 구축된 대만의 지방자치 체계가 있습니다.',
+        '‘구합일’은 아홉 종류의 지방 공직을 같은 날 뽑는다는 뜻입니다. 직할시장·현시장부터 촌리장까지, 의원·대표부터 원주민구 공직까지 포함됩니다.',
       sourceNote:
-        '공직 수는 2026년 선거 예상치이며, 2026-08-20 중앙선거위원회 공고를 기준으로 합니다.',
+        '직할시장, 현·시장, 두 종류 의원의 정수는 2026-08-20 중앙선거위원회 선거 공고, 나머지 다섯 종류는 2026-09-07 중앙선거위원회 보도자료에 따릅니다. 아홉 종류를 합쳐 11,051명을 선출합니다.',
       items: [
         {
           name: '직할시장',
@@ -957,7 +939,7 @@ const electionCopy: Record<
         },
         {
           name: '직할시의원',
-          count: 380,
+          count: 381,
           desc: '6개 직할시 의회의 대표. 의석 수는 도시별로 조정',
           accent: accents[1],
         },
@@ -969,7 +951,7 @@ const electionCopy: Record<
         },
         {
           name: '현·시의원',
-          count: 532,
+          count: 538,
           desc: '현·시 의회의 대표',
           accent: accents[3],
         },
@@ -999,7 +981,7 @@ const electionCopy: Record<
         },
         {
           name: '촌리장',
-          count: 7748,
+          count: 7780,
           desc: '가장 기초 단위의 민선 공직',
           accent: accents[8],
         },
@@ -1042,26 +1024,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: '선거 일정',
-          desc: '법정 일정은 위에 게시됨. 투표 시간은 8/20 선거 공고로 업데이트',
+          title: '선거 일정과 투표 안내',
+          desc: '중앙선거위원회가 투표일을 정한 날부터 12월 25일 취임까지, 법정 절차를 날짜순으로 정리하고 모두 출처를 달았습니다.',
           eta: '공개됨',
         },
         {
           icon: '👥',
-          title: '후보자 디렉터리',
-          desc: '22개 현시 후보자를 대칭적으로 표시(여론조사·순위 없음)',
-          eta: '2026년 9월 등록 후',
+          title: '현·시장 후보자 명부',
+          desc: '이름, 선거구, 정당으로 후보자를 검색할 수 있고, 선거구별 후보 수와 정당별 추천 인원도 정리했습니다.',
+          eta: '공개됨',
         },
         {
           icon: '💰',
           title: '정치자금 투명성',
-          desc: '감찰원 플랫폼과 g0v 선거 자금 흐름 도구 연결',
-          eta: '2026년 10월부터',
+          desc: '누가 기부할 수 있는지, 1년에 얼마까지인지, 언제 받을 수 있는지, 선거 후 어디서 확인하는지. 규칙만 다루고 후보별 금액은 싣지 않습니다.',
+          eta: '준비 중',
         },
         {
           icon: '🔮',
           title: '다중 관점 정리',
-          desc: '선거제도 개혁, 양안관계, 민주주의 회복력을 제도와 시민의 관점에서 정리',
+          desc: '투표 제도, 해외 개입과 정보 조작, 팩트체크와 개표 감시라는 세 가지 주제의 여러 주장을 원문 출처와 함께 정리합니다.',
           eta: '순차 공개',
         },
       ],
@@ -1090,13 +1072,13 @@ const electionCopy: Record<
           badge: 'History',
         },
         {
-          href: '/ko/history/taiwan-democratization-history',
+          href: '/ko/history/taiwan-democratization',
           title: '대만 민주화 전환',
           desc: '권위주의에서 민선 제도로 이어진 제도 진화',
           badge: 'History',
         },
         {
-          href: '/ko/history/taiwan-democratization',
+          href: '/ko/history/taiwan-democratization-history',
           title: '민주화',
           desc: '1987년 계엄 해제부터 1996년 총통 직선제까지',
           badge: 'History',
@@ -1133,12 +1115,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'g0v 현시장·의원 투표 가이드',
-          url: officialResourceUrls.councils,
-          desc: '시민 기술 커뮤니티가 유지하는 투표 가이드',
-          icon: '🗳️',
-        },
-        {
           name: 'g0v 선거 자금 흐름',
           url: officialResourceUrls.moneyFlow,
           desc: '정치헌금 시각화',
@@ -1163,7 +1139,7 @@ const electionCopy: Record<
       domainPrefix: '공식 도메인을 확인하세요:',
       domainSuffix:
         '. taiwand.md / taiwan-md.com 같은 유사 도메인은 Taiwan.md가 아닙니다.',
-      gitLog: '각 글에는 공개 git log와 1차 출처 각주가 있습니다.',
+      gitLog: '모든 글은 수정 기록을 공개하고, 각주로 1차 출처를 밝힙니다.',
       attribution:
         '중앙선거위원회, 감찰원, g0v 등 외부 데이터에는 출처와 최종 수집 시각을 표시합니다.',
       factCheckPrefix: '선거 관련 정보가 의심스럽다면 먼저',
@@ -1171,16 +1147,17 @@ const electionCopy: Record<
       factCheckSuffix: '를 확인하세요.',
       mvp: '이 페이지는 2026-05-27에 공개되었으며, 추가 내용은 계속 보강됩니다.',
       roadmap:
-        '선거 일정, 후보자, 정치자금, 다중 관점 하위 페이지는 계속 공개될 예정입니다.',
+        '후보자 명부, 투표 안내, 선거 일정, 정치자금 페이지가 공개되었습니다. 다중 관점 페이지는 제작 중입니다.',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '선거전 보도가 아니라 민주주의 인프라를 기록합니다',
     },
   },
   fr: {
     meta: {
-      title: 'Élections locales 2026 · Taiwan.md',
+      title:
+        'Élections locales 2026 à Taïwan : vote le 28/11, candidats aux mairies, comment voter',
       description:
-        'Le 28 novembre 2026, Taïwan élit neuf catégories de fonctions locales le même jour. Taiwan.md ne couvre ni la campagne, ni les sondages : il documente l’infrastructure démocratique derrière l’élection.',
+        'Le samedi 28 novembre 2026, de 8 h à 16 h, Taïwan élit neuf catégories de fonctions locales et tient le même jour un référendum sur le nucléaire. Liste des candidats dans les 22 circonscriptions de maires et de magistrats, et mode d’emploi du vote. Ni sondages ni soutien à un candidat.',
     },
     hero: {
       eyebrow:
@@ -1199,7 +1176,7 @@ const electionCopy: Record<
     role: {
       title: 'Le rôle de Taiwan.md dans cette élection',
       p1: 'Nous ne couvrons pas la campagne, ne publions pas de sondages et ne soutenons aucun candidat.',
-      p2: 'Nous replaçons cette élection dans trois décennies d’infrastructure démocratique : comment fonctionnent les neuf fonctions élues, comment les dons politiques deviennent transparents, pourquoi Taïwan compte 7 748 chefs de village et de quartier, comment est structurée la Commission électorale centrale, et comment fonctionnent les révocations et les référendums.',
+      p2: 'Nous replaçons cette élection dans trois décennies d’infrastructure démocratique : comment fonctionnent les neuf fonctions élues, comment les dons politiques deviennent transparents, pourquoi Taïwan compte 7 780 chefs de village et de quartier, comment est structurée la Commission électorale centrale, et comment fonctionnent les révocations et les référendums.',
       p3: 'Voter est le dernier geste de la démocratie. Les institutions, les outils de contrôle citoyen et l’infrastructure informationnelle qui le soutiennent sont ce qui fait tenir la démocratie debout.',
       p4: 'Cette section continue de documenter comment cette infrastructure grandit, qui l’entretient et où elle peut se briser.',
       primaryCta: 'Lire la curation complète : Politics Hub →',
@@ -1208,9 +1185,9 @@ const electionCopy: Record<
     offices: {
       title: 'Neuf fonctions élues le même jour',
       intro:
-        '« Neuf-en-un » ne signifie pas neuf élections séparées : neuf catégories de fonctions locales sont élues le même jour. Des maires aux chefs de village, des conseillers aux districts autochtones, chaque bulletin s’inscrit dans le système d’autonomie locale que Taïwan construit depuis les premières élections locales directes de 1994.',
+        '« Neuf-en-un » signifie que neuf catégories de fonctions locales sont élues le même jour : des maires des municipalités spéciales et des comtés jusqu’aux chefs de village, des conseillers et représentants jusqu’aux fonctions des districts autochtones.',
       sourceNote:
-        'Les effectifs sont des estimations pour 2026 et suivront l’annonce de la Commission électorale centrale du 20/08/2026.',
+        'Les sièges des maires des municipalités spéciales, des chefs de comté et maires de ville, et des deux types de conseillers suivent l’annonce électorale de la CEC du 20/08/2026 ; les cinq autres catégories suivent le communiqué de la CEC du 07/09/2026. Au total, les neuf catégories éliront 11 051 personnes.',
       items: [
         {
           name: 'Maires des municipalités spéciales',
@@ -1220,7 +1197,7 @@ const electionCopy: Record<
         },
         {
           name: 'Conseillers des municipalités spéciales',
-          count: 380,
+          count: 381,
           desc: 'Représentants des conseils des six municipalités ; sièges variables selon la ville',
           accent: accents[1],
         },
@@ -1232,7 +1209,7 @@ const electionCopy: Record<
         },
         {
           name: 'Conseillers de comté et de ville',
-          count: 532,
+          count: 538,
           desc: 'Représentants des conseils de comté et de ville',
           accent: accents[3],
         },
@@ -1262,7 +1239,7 @@ const electionCopy: Record<
         },
         {
           name: 'Chefs de village et de quartier',
-          count: 7748,
+          count: 7780,
           desc: 'Les fonctions élues les plus locales de Taïwan',
           accent: accents[8],
         },
@@ -1322,26 +1299,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Calendrier électoral',
-          desc: 'Calendrier légal ci-dessus ; horaires de vote après l’annonce du 20/08',
+          title: 'Calendrier et guide du vote',
+          desc: 'Chaque étape légale, du jour où la CEC a fixé la date du scrutin à l’entrée en fonction du 25 décembre, par ordre chronologique et avec sa source.',
           eta: 'En ligne',
         },
         {
           icon: '👥',
           title: 'Répertoire des candidats',
-          desc: 'Présentation symétrique dans les 22 villes et comtés, sans sondages ni classements',
-          eta: 'Après l’enregistrement de septembre 2026',
+          desc: 'Recherche des candidats par nom, circonscription ou parti, avec le nombre de candidats par circonscription et par parti.',
+          eta: 'En ligne',
         },
         {
           icon: '💰',
           title: 'Transparence des dons politiques',
-          desc: 'Liens vers la plateforme du Yuan de contrôle et les outils g0v',
-          eta: 'À partir d’octobre 2026',
+          desc: 'Qui peut donner, combien par an, quand les dons sont permis et où les consulter après le vote. Les règles seulement, aucun montant par candidat.',
+          eta: 'En préparation',
         },
         {
           icon: '🔮',
           title: 'Perspectives multiples',
-          desc: 'Réforme électorale, relations inter-détroit et résilience démocratique sous des angles institutionnels et citoyens',
+          desc: 'Les différents points de vue sur trois thèmes : le mode de scrutin, l’ingérence étrangère et la manipulation de l’information, la vérification des faits et la surveillance du dépouillement, chacun cité avec sa source.',
           eta: 'Publication progressive',
         },
       ],
@@ -1370,13 +1347,13 @@ const electionCopy: Record<
           badge: 'History',
         },
         {
-          href: '/fr/history/taiwan-democratization-history',
+          href: '/fr/history/taiwan-democratization',
           title: 'La transition démocratique de Taïwan',
           desc: 'L’évolution institutionnelle du régime autoritaire aux élections directes',
           badge: 'History',
         },
         {
-          href: '/fr/history/taiwan-democratization',
+          href: '/fr/history/taiwan-democratization-history',
           title: 'Démocratisation',
           desc: 'De la levée de la loi martiale en 1987 à l’élection présidentielle directe de 1996',
           badge: 'History',
@@ -1413,12 +1390,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'Guide de vote g0v (maires et conseillers)',
-          url: officialResourceUrls.councils,
-          desc: 'Guide de vote maintenu par la communauté civic tech taïwanaise',
-          icon: '🗳️',
-        },
-        {
           name: 'Flux financiers électoraux g0v',
           url: officialResourceUrls.moneyFlow,
           desc: 'Visualisation des dons politiques',
@@ -1444,7 +1415,7 @@ const electionCopy: Record<
       domainSuffix:
         '. Les domaines similaires comme taiwand.md ou taiwan-md.com ne sont pas Taiwan.md.',
       gitLog:
-        'Chaque article possède un journal git public et des notes de bas de page renvoyant aux sources primaires.',
+        'Chaque article publie son historique de modifications et cite ses sources primaires en notes de bas de page.',
       attribution:
         'Les données externes (CEC, Yuan de contrôle, g0v) portent leur attribution et l’horodatage de leur dernière collecte.',
       factCheckPrefix:
@@ -1453,7 +1424,7 @@ const electionCopy: Record<
       factCheckSuffix: '.',
       mvp: 'Cette page est en ligne depuis le 27/05/2026 et continue d’être enrichie.',
       roadmap:
-        'Le calendrier électoral complet, les candidats, les dons politiques et les sous-pages multi-perspectives arrivent progressivement.',
+        'Le répertoire des candidats, le guide du vote, le calendrier électoral et la page sur les dons politiques sont en ligne ; la page des perspectives multiples est en préparation.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'pas de couverture de campagne, mais une trace de l’infrastructure démocratique',
@@ -1461,9 +1432,10 @@ const electionCopy: Record<
   },
   es: {
     meta: {
-      title: 'Elecciones locales 2026 · Taiwan.md',
+      title:
+        'Elecciones locales 2026 en Taiwán: votación el 28/11, candidatos a alcaldía, cómo votar',
       description:
-        'El 28 de noviembre de 2026, Taiwán elige nueve tipos de cargos locales el mismo día. Taiwan.md no cubre campañas ni encuestas: documenta la infraestructura democrática detrás de la elección.',
+        'El sábado 28 de noviembre de 2026, de 8:00 a 16:00, Taiwán elige nueve tipos de cargos locales y celebra el mismo día un referéndum sobre la energía nuclear. Candidatos en las 22 circunscripciones de alcaldes y magistrados, y cómo votar. Sin encuestas ni apoyo a candidatos.',
     },
     hero: {
       eyebrow:
@@ -1482,7 +1454,7 @@ const electionCopy: Record<
     role: {
       title: 'El papel de Taiwan.md en esta elección',
       p1: 'No cubrimos noticias de campaña, no publicamos encuestas ni respaldamos candidatos.',
-      p2: 'Colocamos esta elección dentro de tres décadas de infraestructura democrática: cómo funcionan los nueve cargos, cómo se hacen transparentes las donaciones políticas, por qué Taiwán tiene 7.748 jefes de aldea y barrio, cómo está estructurada la Comisión Electoral Central y cómo operan las revocatorias y los referendos.',
+      p2: 'Colocamos esta elección dentro de tres décadas de infraestructura democrática: cómo funcionan los nueve cargos, cómo se hacen transparentes las donaciones políticas, por qué Taiwán tiene 7.780 jefes de aldea y barrio, cómo está estructurada la Comisión Electoral Central y cómo operan las revocatorias y los referendos.',
       p3: 'Votar es el último gesto de la democracia. Las instituciones, las herramientas de supervisión ciudadana y la infraestructura de información que lo sostienen son lo que mantiene en pie la democracia.',
       p4: 'Esta sección sigue documentando cómo crece esa infraestructura, quién la mantiene y dónde puede romperse.',
       primaryCta: 'Leer la curaduría completa: Politics Hub →',
@@ -1491,9 +1463,9 @@ const electionCopy: Record<
     offices: {
       title: 'Nueve cargos se votan el mismo día',
       intro:
-        '«Nueve en uno» no significa nueve elecciones separadas, sino nueve tipos de cargos locales votados el mismo día. De alcaldes a jefes de aldea, de concejales a distritos indígenas, cada papeleta se inscribe en el sistema de autogobierno local que Taiwán construye desde las primeras elecciones locales directas de 1994.',
+        '«Nueve en uno» significa que nueve tipos de cargos locales se eligen el mismo día: desde alcaldes de municipios especiales y condados hasta jefes de aldea, y desde concejales y representantes hasta cargos de los distritos indígenas.',
       sourceNote:
-        'Las cifras son estimaciones para 2026 y seguirán el anuncio de la Comisión Electoral Central del 20/08/2026.',
+        'Los escaños de alcaldes de municipios especiales, jefes de condado y alcaldes de ciudad, y de los dos tipos de concejales siguen el anuncio electoral de la CEC del 20/08/2026; las otras cinco categorías siguen el comunicado de la CEC del 07/09/2026. En total, las nueve categorías elegirán a 11.051 personas.',
       items: [
         {
           name: 'Alcaldes de municipios especiales',
@@ -1503,7 +1475,7 @@ const electionCopy: Record<
         },
         {
           name: 'Concejales de municipios especiales',
-          count: 380,
+          count: 381,
           desc: 'Representantes de los concejos de los seis municipios; escaños según la ciudad',
           accent: accents[1],
         },
@@ -1515,7 +1487,7 @@ const electionCopy: Record<
         },
         {
           name: 'Concejales de condado y ciudad',
-          count: 532,
+          count: 538,
           desc: 'Representantes de los concejos de condado y ciudad',
           accent: accents[3],
         },
@@ -1545,7 +1517,7 @@ const electionCopy: Record<
         },
         {
           name: 'Jefes de aldea y barrio',
-          count: 7748,
+          count: 7780,
           desc: 'Los cargos electos más locales de Taiwán',
           accent: accents[8],
         },
@@ -1601,26 +1573,26 @@ const electionCopy: Record<
       items: [
         {
           icon: '📅',
-          title: 'Calendario electoral',
-          desc: 'Calendario legal arriba; horarios de votación tras el anuncio del 20/08',
+          title: 'Calendario y guía de votación',
+          desc: 'Cada paso legal, desde el día en que la CEC fijó la fecha hasta la toma de posesión del 25 de diciembre, en orden cronológico y con su fuente.',
           eta: 'En línea',
         },
         {
           icon: '👥',
           title: 'Directorio de candidatos',
-          desc: 'Presentación simétrica en las 22 ciudades y condados, sin encuestas ni rankings',
-          eta: 'Tras el registro de septiembre de 2026',
+          desc: 'Búsqueda de candidaturas por nombre, contienda o partido, con el número de candidaturas por contienda y por partido.',
+          eta: 'En línea',
         },
         {
           icon: '💰',
           title: 'Transparencia de donaciones políticas',
-          desc: 'Enlaces a la plataforma del Yuan de Control y a las herramientas g0v',
-          eta: 'Desde octubre de 2026',
+          desc: 'Quién puede donar, cuánto al año, cuándo se pueden recibir donaciones y dónde consultarlas después de la votación. Solo las reglas, ninguna cifra por candidatura.',
+          eta: 'En preparación',
         },
         {
           icon: '🔮',
           title: 'Perspectivas múltiples',
-          desc: 'Reforma electoral, relaciones a través del Estrecho y resiliencia democrática desde ángulos institucionales y ciudadanos',
+          desc: 'Los distintos puntos de vista sobre tres temas: el sistema de votación, la injerencia extranjera y la manipulación informativa, y la verificación de datos y la vigilancia del escrutinio, cada uno citado con su fuente.',
           eta: 'Publicación progresiva',
         },
       ],
@@ -1649,13 +1621,13 @@ const electionCopy: Record<
           badge: 'History',
         },
         {
-          href: '/es/history/taiwan-democratization-history',
+          href: '/es/history/taiwan-democratization',
           title: 'La transición democrática de Taiwán',
           desc: 'Evolución institucional del régimen autoritario a las elecciones directas',
           badge: 'History',
         },
         {
-          href: '/es/history/taiwan-democratization',
+          href: '/es/history/taiwan-democratization-history',
           title: 'Democratización',
           desc: 'Del fin de la ley marcial en 1987 a la elección presidencial directa de 1996',
           badge: 'History',
@@ -1692,12 +1664,6 @@ const electionCopy: Record<
           icon: '💰',
         },
         {
-          name: 'Guía de voto g0v (alcaldes y concejales)',
-          url: officialResourceUrls.councils,
-          desc: 'Guía de voto mantenida por la comunidad cívico-tecnológica de Taiwán',
-          icon: '🗳️',
-        },
-        {
           name: 'Flujo de dinero electoral g0v',
           url: officialResourceUrls.moneyFlow,
           desc: 'Visualización de donaciones políticas',
@@ -1723,7 +1689,7 @@ const electionCopy: Record<
       domainSuffix:
         '. Dominios similares como taiwand.md o taiwan-md.com no son Taiwan.md.',
       gitLog:
-        'Cada artículo tiene un registro git público y notas al pie con fuentes primarias.',
+        'Cada artículo publica su historial de cambios y cita sus fuentes primarias en notas al pie.',
       attribution:
         'Los datos externos (CEC, Yuan de Control, g0v) llevan su atribución y la marca de tiempo de su última recolección.',
       factCheckPrefix:
@@ -1732,7 +1698,7 @@ const electionCopy: Record<
       factCheckSuffix: '.',
       mvp: 'Esta página está en línea desde el 27/05/2026 y sigue ampliándose.',
       roadmap:
-        'El calendario electoral completo, los candidatos, las donaciones políticas y las subpáginas multiperspectiva se irán publicando.',
+        'El directorio de candidatos, la guía de votación, el calendario electoral y la página de donaciones políticas ya están en línea; la página de perspectivas múltiples está en preparación.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'no cobertura de campaña, sino un registro de la infraestructura democrática',
@@ -1740,7 +1706,1318 @@ const electionCopy: Record<
   },
 };
 
+// ─────────────────────────────────────────────────────────────────────
+// 2026-10 升級：縣市長候選人、怎麼投票、同日公投、快速導覽、JSON-LD。
+// 事實只來自 src/data/elections-2026.json（研究檔：
+// reports/research/2026-10/elections-2026/{candidates,voting-info}.json）。
+// 新增介面文案集中在 upgradeCopy（zh-TW/en/ja/ko/fr/es），其他語言退回 en。
+// 候選人呈現完全對稱：同樣欄位、同樣大小、不用政黨色、不標領先。
+// ─────────────────────────────────────────────────────────────────────
+
+// 有新區塊文案的語言代碼；沒有的退回 en
+type UpLang = string;
+
+type LinkKind =
+  | 'announcement'
+  | 'law'
+  | 'idRules'
+  | 'pollingPlaces'
+  | 'bulletin'
+  | 'schedule'
+  | 'referendumNotice'
+  | 'referendumBulletin';
+
+// article：這位候選人在 Taiwan.md 有人物條目時才有（zh 是中文檔名，slug 是
+// 其他 12 語的網址）。只放主 session 逐篇核對過是同一人的條目。
+type Candidate = {
+  name: string;
+  party: string;
+  incumbent: boolean;
+  number: number | null;
+  registeredOn: string;
+  source: string;
+  incumbentSource?: string;
+  article?: { zh: string; slug: string };
+};
+
+type ElectionsData = {
+  lastVerified: string;
+  election: {
+    date: string;
+    startDate: string;
+    endDate: string;
+    organizer: string;
+    source: string;
+  };
+  sources: Record<string, string>;
+  offices: Array<{
+    key: string;
+    type: string;
+    seats: number | null;
+    source: string;
+    sourceFile?: string;
+  }>;
+  totalElected: { count: number; source: string };
+  races: Array<{
+    area: string;
+    office: string;
+    group: 'municipal' | 'county';
+    seats: number;
+    source: string;
+    rosterSource: string;
+    candidates: Candidate[];
+  }>;
+  votingInfo: Array<
+    { id: string; links: Array<{ kind: LinkKind; url: string }> } & Record<
+      UpLang,
+      { q: string; a: string }
+    >
+  >;
+  referendum: {
+    case: number;
+    date: string;
+    hours: string;
+    question: string;
+    proposedBy: string;
+    establishedOn: string;
+    votingAge: number;
+    localElectionVotingAge: number;
+    threshold: string;
+    presentations: { count: number; firstDate: string };
+    sources: Array<{ kind: LinkKind; url: string }>;
+  };
+};
+
+const electionsData = electionsDataRaw as unknown as ElectionsData;
+
+type UpgradeCopy = {
+  nav: {
+    label: string;
+    candidates: string;
+    howToVote: string;
+    referendum: string;
+    timeline: string;
+    offices: string;
+    subpages: string;
+    about: string;
+  };
+  // 開場：三個重點事實（內容都出自 votingInfo 的 when／bring／where）、
+  // 倒數卡裡的選務進度。titleGap 是 H1「九合一」與後字之間要不要空格。
+  hero: {
+    titleGap: string;
+    factsLabel: string;
+    facts: Array<{
+      icon: 'clock' | 'id' | 'pin';
+      label: string;
+      value: string;
+    }>;
+    progressLabel: string;
+    progressCount: string;
+    timelineLink: string;
+  };
+  offices: {
+    approxPrefix: string;
+    estimateLabel: string;
+    totalPrefix: string;
+    totalSuffix: string;
+    totalSource: string;
+  };
+  timeline: { fullLink: string };
+  subpages: { title: string; subtitle: string; live: string; wip: string };
+  further: { title: string };
+  about: { title: string };
+  candidates: {
+    metaLine: string;
+    metaLineNumbered: string;
+    orderNote: string;
+    incumbentPrefix: string;
+    incumbentLinkText: string;
+    incumbentSuffix: string;
+    rosterShort: string;
+    jumpLabel: string;
+    raceCount: string;
+    readArticle: string;
+    readArticleAria: string;
+    contribute: string;
+    contributeAria: string;
+    invite: {
+      title: string;
+      body: string;
+      contributeCta: string;
+      proposeCta: string;
+    };
+    title: string;
+    intro: string;
+    note: string;
+    noteNumbered: string;
+    dataDate: string;
+    filterLabel: string;
+    filterAll: string;
+    filterMunicipal: string;
+    filterCounty: string;
+    groupMunicipal: string;
+    groupCounty: string;
+    groupCount: string;
+    candidateCount: string;
+    numberLabel: string;
+    incumbent: string;
+    incumbentNote: string;
+    sourceLabel: string;
+    rosterLink: string;
+    qualifiedLink: string;
+    listSep: string;
+  };
+  howToVote: { title: string; intro: string; sourceLabel: string };
+  referendum: {
+    eyebrow: string;
+    title: string;
+    lead: string;
+    questionLabel: string;
+    translationLabel: string | null;
+    translation: string | null;
+    facts: Array<{ label: string; text: string }>;
+    neutral: string;
+    sourceLabel: string;
+  };
+  links: Record<LinkKind, string>;
+  lastUpdated: string;
+  jsonLd: {
+    eventName: string;
+    eventDescription: string;
+    location: string;
+    organizer: string;
+  };
+};
+
+const upgradeCopy: Record<UpLang, UpgradeCopy> = {
+  'zh-TW': {
+    nav: {
+      label: '頁內導覽',
+      candidates: '候選人',
+      howToVote: '怎麼投票',
+      referendum: '同日公投',
+      timeline: '選務時程',
+      offices: '九種職位',
+      subpages: '專區頁面',
+      about: '關於本專區',
+    },
+    hero: {
+      titleGap: '',
+      factsLabel: '投票日重點',
+      facts: [
+        {
+          icon: 'clock',
+          label: '投票時間',
+          value: '11/28（六）上午 8 點到下午 4 點',
+        },
+        {
+          icon: 'id',
+          label: '要帶什麼',
+          value: '國民身分證（印章不一定要帶）',
+        },
+        {
+          icon: 'pin',
+          label: '去哪裡投',
+          value: '戶籍地的投票所',
+        },
+      ],
+      progressLabel: '選務進度',
+      progressCount: '已完成 {done}／{total} 項',
+      timelineLink: '看時程',
+    },
+    offices: {
+      approxPrefix: '約 ',
+      estimateLabel: '預估',
+      totalPrefix: '合計選出',
+      totalSuffix: '人',
+      totalSource: '中選會新聞稿',
+    },
+    timeline: { fullLink: '看完整選務時程' },
+    subpages: {
+      title: '專區頁面',
+      subtitle: '同一場選舉的四個面向，各自一頁。',
+      live: '已上線',
+      wip: '製作中',
+    },
+    further: { title: '延伸閱讀與公民工具' },
+    about: { title: '關於本專區' },
+    candidates: {
+      metaLine: '依中選會審定名單・號次 10/23 抽籤後更新・資料日期 {date}',
+      metaLineNumbered: '依中選會審定名單・依號次排列・資料日期 {date}',
+      orderNote: '號次抽籤前，同一選區依登記日期先後排列。',
+      incumbentPrefix: '；「現任」標示依',
+      incumbentLinkText: '中央社整理',
+      incumbentSuffix: '',
+      rosterShort: '登記名冊',
+      jumpLabel: '跳到縣市',
+      raceCount: '{n} 位',
+      readArticle: '讀條目',
+      readArticleAria: '讀{name}的條目',
+      contribute: '一起寫',
+      contributeAria: '一起寫{name}的條目',
+      invite: {
+        title: '還沒有條目的候選人，歡迎一起寫',
+        body: '{total} 位候選人目前只有 {linked} 位有 Taiwan.md 條目。條目有沒有，反映的是編寫進度，跟立場或重要性無關。Taiwan.md 是開源的台灣知識庫，任何人都可以提案、撰寫、補充來源或修正錯誤。',
+        contributeCta: '看怎麼參與 →',
+        proposeCta: '在 GitHub 提案新條目 ↗',
+      },
+      title: '縣市長候選人',
+      intro:
+        '{races} 個縣市長選區、{count} 位候選人。每位候選人都用同樣的格式呈現，不放民調，也不標示誰領先。',
+      note: '依中選會審定名單；號次 10/23 抽籤後更新。抽籤前依登記日期先後排列。',
+      noteNumbered: '依中選會審定名單，依號次排列。',
+      dataDate: '資料日期：',
+      filterLabel: '依職位篩選',
+      filterAll: '全部',
+      filterMunicipal: '直轄市長',
+      filterCounty: '縣市長',
+      groupMunicipal: '直轄市長',
+      groupCounty: '縣市長',
+      groupCount: '{n} 個選區',
+      candidateCount: '{n} 位候選人',
+      numberLabel: '{n} 號',
+      incumbent: '現任',
+      incumbentNote: '現任標示依中央社整理',
+      sourceLabel: '來源：',
+      rosterLink: '中選會登記名冊',
+      qualifiedLink: '中選會審定新聞稿',
+      listSep: '、',
+    },
+    howToVote: {
+      title: '怎麼投票',
+      intro: '投票日前最常被問到的幾件事，每個答案都附官方來源。',
+      sourceLabel: '官方來源：',
+    },
+    referendum: {
+      eyebrow: '同日公投',
+      title: '同一天還有全國性公投第 22 案',
+      lead: '全國性公民投票案第 22 案和地方選舉同一天、同一時段投票，也就是 11 月 28 日上午 8 點到下午 4 點。',
+      questionLabel: '公投主文（中選會公告原文）',
+      translationLabel: null,
+      translation: null,
+      facts: [
+        {
+          label: '提案',
+          text: '由立法院提出，中選會在 2026 年 8 月 28 日決議成案。',
+        },
+        {
+          label: '投票年齡',
+          text: '公投年滿 18 歲就能投；地方選舉要年滿 20 歲，兩者的年齡門檻不同。',
+        },
+        {
+          label: '通過門檻',
+          text: '有效同意票多於不同意票，而且有效同意票達到投票權人總數的四分之一。',
+        },
+        {
+          label: '意見發表會',
+          text: '中選會辦 5 場意見發表會或辯論會，第一場在 11 月 12 日。',
+        },
+      ],
+      neutral:
+        '這張卡只整理投票程序，不呈現任何一方的論點。官方資料請看中選會公告與公投公報網站。',
+      sourceLabel: '官方來源：',
+    },
+    links: {
+      announcement: '中選會選舉公告',
+      law: '公職人員選舉罷免法',
+      idRules: '防範選舉人重複投票或冒領選舉票辦法',
+      pollingPlaces: '中選會投票所公告',
+      bulletin: '選舉及公民投票公報網站',
+      schedule: '中選會選舉工作進度表',
+      referendumNotice: '中選會公投案公告',
+      referendumBulletin: '公投公報網站',
+    },
+    lastUpdated: '最後更新：',
+    jsonLd: {
+      eventName: '2026 地方公職人員選舉（九合一）投票日',
+      eventDescription:
+        '全台同日投票選出九種地方公職，並同時舉行全國性公民投票案第 22 案的投票。',
+      location: '臺灣',
+      organizer: '中央選舉委員會',
+    },
+  },
+  en: {
+    nav: {
+      label: 'On this page',
+      candidates: 'Candidates',
+      howToVote: 'How to vote',
+      referendum: 'Referendum',
+      timeline: 'Timeline',
+      offices: 'Nine offices',
+      subpages: 'Pages',
+      about: 'About',
+    },
+    hero: {
+      titleGap: ' ',
+      factsLabel: 'Voting day essentials',
+      facts: [
+        {
+          icon: 'clock',
+          label: 'Voting hours',
+          value: 'Sat, Nov 28, 8 a.m. to 4 p.m.',
+        },
+        {
+          icon: 'id',
+          label: 'What to bring',
+          value: 'Your National ID card (a personal seal is optional)',
+        },
+        {
+          icon: 'pin',
+          label: 'Where to vote',
+          value: 'The polling station for your household registration address',
+        },
+      ],
+      progressLabel: 'Election timeline',
+      progressCount: '{done} of {total} steps done',
+      timelineLink: 'See the timeline',
+    },
+    offices: {
+      approxPrefix: '~',
+      estimateLabel: 'Estimate',
+      totalPrefix: 'In total',
+      totalSuffix: 'officials elected',
+      totalSource: 'CEC press release',
+    },
+    timeline: { fullLink: 'See the full election timeline' },
+    subpages: {
+      title: 'Pages in this guide',
+      subtitle: 'Four sides of the same election, each on its own page.',
+      live: 'Live',
+      wip: 'In progress',
+    },
+    further: { title: 'Further reading and civic tools' },
+    about: { title: 'About this guide' },
+    candidates: {
+      metaLine:
+        'CEC-approved list · ballot numbers added after the Oct 23 draw · data as of {date}',
+      metaLineNumbered:
+        'CEC-approved list · ordered by ballot number · data as of {date}',
+      orderNote:
+        'Until the ballot-number draw, candidates in each race are listed by registration date.',
+      incumbentPrefix: '; “Incumbent” labels follow ',
+      incumbentLinkText: 'Central News Agency (CNA) reporting',
+      incumbentSuffix: '',
+      rosterShort: 'Registration roster',
+      jumpLabel: 'Jump to',
+      raceCount: '{n} candidates',
+      readArticle: 'Read article',
+      readArticleAria: 'Read the article on {name}',
+      contribute: 'Help write',
+      contributeAria: 'Help write an article on {name}',
+      invite: {
+        title: 'Help write the missing candidate articles',
+        body: 'Only {linked} of the {total} candidates have a Taiwan.md article so far. Whether an article exists reflects how far the writing has come, not a candidate’s politics or importance. Taiwan.md is an open-source knowledge base about Taiwan, and anyone can propose an article, write one, add sources or fix mistakes.',
+        contributeCta: 'See how to contribute →',
+        proposeCta: 'Propose a new article on GitHub ↗',
+      },
+      title: 'Candidates for mayor and county magistrate',
+      intro:
+        '{races} races, {count} candidates. Every candidate is shown in the same format, with no polls and no indication of who is ahead.',
+      note: 'Based on the CEC’s approved candidate list. Ballot numbers will be added after the draw on October 23; until then, candidates are listed by registration date.',
+      noteNumbered:
+        'Based on the CEC’s approved candidate list, ordered by ballot number.',
+      dataDate: 'Data as of ',
+      filterLabel: 'Filter by office',
+      filterAll: 'All',
+      filterMunicipal: 'Special municipalities',
+      filterCounty: 'Counties & cities',
+      groupMunicipal: 'Special municipality mayors',
+      groupCounty: 'County magistrates and city mayors',
+      groupCount: '{n} races',
+      candidateCount: '{n} candidates',
+      numberLabel: 'No. {n}',
+      incumbent: 'Incumbent',
+      incumbentNote:
+        'Incumbent labels follow Central News Agency (CNA) reporting',
+      sourceLabel: 'Sources: ',
+      rosterLink: 'CEC registration roster',
+      qualifiedLink: 'CEC approval notice',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'How to vote',
+      intro:
+        'The questions people ask most before voting day, each answered with an official source.',
+      sourceLabel: 'Official source: ',
+    },
+    referendum: {
+      eyebrow: 'Same-day referendum',
+      title: 'National Referendum Case No. 22 is on the same day',
+      lead: 'National Referendum Case No. 22 is voted on the same day and during the same hours as the local elections: November 28, from 8 a.m. to 4 p.m.',
+      questionLabel: 'Ballot question (official Chinese text from the CEC)',
+      translationLabel: 'Unofficial translation by Taiwan.md',
+      translation:
+        'Do you support the government using “nuclear power” to revitalize the economy, so as to abolish the “nuclear-free homeland” energy policy?',
+      facts: [
+        {
+          label: 'Proposed by',
+          text: 'The Legislative Yuan. The CEC formally established the case on August 28, 2026.',
+        },
+        {
+          label: 'Voting age',
+          text: 'Age 18 for the referendum and age 20 for the local elections. The two age thresholds are different.',
+        },
+        {
+          label: 'Passing threshold',
+          text: 'Valid yes votes must outnumber no votes, and valid yes votes must reach one quarter of all eligible voters.',
+        },
+        {
+          label: 'Public presentations',
+          text: 'The CEC holds five opinion presentations or debates, the first on November 12.',
+        },
+      ],
+      neutral:
+        'This card covers the voting procedure only and does not present either side’s arguments. For official materials, see the CEC notice and the referendum bulletin site.',
+      sourceLabel: 'Official sources: ',
+    },
+    links: {
+      announcement: 'CEC election announcement',
+      law: 'Civil Servants Election and Recall Act',
+      idRules: 'CEC rules against duplicate voting and ballot fraud',
+      pollingPlaces: 'CEC polling station notice',
+      bulletin: 'CEC election and referendum bulletin site',
+      schedule: 'CEC election work schedule',
+      referendumNotice: 'CEC referendum notice',
+      referendumBulletin: 'Referendum bulletin site',
+    },
+    lastUpdated: ' Last updated: ',
+    jsonLd: {
+      eventName: '2026 Taiwan local elections voting day',
+      eventDescription:
+        'Taiwan votes for nine categories of local office on the same day, together with National Referendum Case No. 22.',
+      location: 'Taiwan',
+      organizer: 'Central Election Commission',
+    },
+  },
+  ja: {
+    nav: {
+      label: 'このページの内容',
+      candidates: '候補者',
+      howToVote: '投票の方法',
+      referendum: '公民投票',
+      timeline: '選挙日程',
+      offices: '九つの公職',
+      subpages: '個別ページ',
+      about: 'このページについて',
+    },
+    hero: {
+      titleGap: '',
+      factsLabel: '投票日のポイント',
+      facts: [
+        {
+          icon: 'clock',
+          label: '投票時間',
+          value: '11/28（土）午前8時から午後4時まで',
+        },
+        {
+          icon: 'id',
+          label: '持ち物',
+          value: '国民身分証（印鑑はなくても可）',
+        },
+        {
+          icon: 'pin',
+          label: '投票場所',
+          value: '戸籍地の投票所',
+        },
+      ],
+      progressLabel: '選挙日程の進み具合',
+      progressCount: '全{total}項目のうち{done}項目が完了',
+      timelineLink: '日程を見る',
+    },
+    offices: {
+      approxPrefix: '約',
+      estimateLabel: '推定',
+      totalPrefix: '選ばれるのは合計',
+      totalSuffix: '人',
+      totalSource: '中央選挙委員会プレスリリース',
+    },
+    timeline: { fullLink: '選挙日程をすべて見る' },
+    subpages: {
+      title: '個別ページ',
+      subtitle:
+        '同じ選挙の四つの側面を、それぞれ一つのページにまとめています。',
+      live: '公開中',
+      wip: '制作中',
+    },
+    further: { title: '関連記事と市民ツール' },
+    about: { title: 'この特設ページについて' },
+    candidates: {
+      metaLine:
+        '中央選挙委員会の審定名簿・番号は10/23の抽選後に更新・データ日付 {date}',
+      metaLineNumbered: '中央選挙委員会の審定名簿・番号順・データ日付 {date}',
+      orderNote: '番号の抽選までは、選挙区ごとに登録日順で並べています。',
+      incumbentPrefix: '。「現職」の表示は',
+      incumbentLinkText: '中央通訊社（CNA）の整理',
+      incumbentSuffix: 'による',
+      rosterShort: '登録名簿',
+      jumpLabel: '選挙区へ移動',
+      raceCount: '{n}人',
+      readArticle: '記事を読む',
+      readArticleAria: '{name}の記事を読む',
+      contribute: '一緒に書く',
+      contributeAria: '{name}の記事を一緒に書く',
+      invite: {
+        title: 'まだ記事のない候補者について、一緒に書きませんか',
+        body: '候補者{total}人のうち、Taiwan.md に記事があるのは今のところ{linked}人だけです。記事があるかどうかは執筆の進み具合によるもので、立場や重要性とは関係ありません。Taiwan.md はオープンソースの台湾ナレッジベースで、誰でも記事の提案や執筆、出典の追加、誤りの修正ができます。',
+        contributeCta: '参加のしかたを見る →',
+        proposeCta: 'GitHub で新しい記事を提案 ↗',
+      },
+      title: '県市長候補者',
+      intro:
+        '県市長選挙{races}区、候補者{count}人。すべての候補者を同じ形式で表示し、世論調査や優劣の表示はしません。',
+      note: '中央選挙委員会の審定名簿に基づきます。番号は10/23の抽選後に更新し、抽選までは登録日順に並べています。',
+      noteNumbered: '中央選挙委員会の審定名簿に基づき、番号順に並べています。',
+      dataDate: 'データ日付：',
+      filterLabel: '職位で絞り込む',
+      filterAll: 'すべて',
+      filterMunicipal: '直轄市長',
+      filterCounty: '県市長',
+      groupMunicipal: '直轄市長',
+      groupCounty: '県市長',
+      groupCount: '{n}選挙区',
+      candidateCount: '候補者{n}人',
+      numberLabel: '{n}番',
+      incumbent: '現職',
+      incumbentNote: '現職の表示は中央通訊社（CNA）の整理による',
+      sourceLabel: '出典：',
+      rosterLink: '中央選挙委員会 登録名簿',
+      qualifiedLink: '中央選挙委員会 審定発表',
+      listSep: '、',
+    },
+    howToVote: {
+      title: '投票の方法',
+      intro: '投票日前によく聞かれることを、公式の出典つきでまとめました。',
+      sourceLabel: '公式出典：',
+    },
+    referendum: {
+      eyebrow: '同日の公民投票',
+      title: '同じ日に全国公民投票第22案も',
+      lead: '全国公民投票第22案は、地方選挙と同じ日・同じ時間帯（11月28日午前8時から午後4時まで）に投票が行われます。',
+      questionLabel: '設問（中央選挙委員会公告の原文）',
+      translationLabel: 'Taiwan.md による非公式訳',
+      translation:
+        'あなたは、政府が『原子力発電』を用いて経済を振興し、『非核家園』のエネルギー政策を廃止することを支持しますか？',
+      facts: [
+        {
+          label: '提出',
+          text: '立法院が提出し、中央選挙委員会が2026年8月28日に成立を決定しました。',
+        },
+        {
+          label: '投票年齢',
+          text: '公民投票は満18歳から、地方選挙は満20歳から投票できます。年齢要件が異なります。',
+        },
+        {
+          label: '成立要件',
+          text: '有効な賛成票が反対票を上回り、かつ有効な賛成票が投票権者総数の4分の1に達することが必要です。',
+        },
+        {
+          label: '意見発表会',
+          text: '中央選挙委員会は意見発表会または討論会を5回開き、初回は11月12日です。',
+        },
+      ],
+      neutral:
+        'このカードは投票手続きだけを整理し、賛否いずれの主張も扱いません。公式資料は中央選挙委員会の公告と公民投票公報サイトをご覧ください。',
+      sourceLabel: '公式出典：',
+    },
+    links: {
+      announcement: '中央選挙委員会 選挙公告',
+      law: '公職人員選挙罷免法',
+      idRules: '重複投票・投票用紙不正受領の防止規則',
+      pollingPlaces: '中央選挙委員会 投票所公告',
+      bulletin: '選挙・公民投票公報サイト',
+      schedule: '中央選挙委員会 選挙事務日程',
+      referendumNotice: '中央選挙委員会 公民投票案公告',
+      referendumBulletin: '公民投票公報サイト',
+    },
+    lastUpdated: '最終更新：',
+    jsonLd: {
+      eventName: '2026年 台湾統一地方選挙 投票日',
+      eventDescription:
+        '台湾全土で九種類の地方公職を同日に選び、全国公民投票第22案の投票も同時に行われます。',
+      location: '台湾',
+      organizer: '中央選挙委員会',
+    },
+  },
+  ko: {
+    nav: {
+      label: '이 페이지 바로가기',
+      candidates: '후보자',
+      howToVote: '투표 방법',
+      referendum: '국민투표',
+      timeline: '선거 일정',
+      offices: '아홉 공직',
+      subpages: '세부 페이지',
+      about: '이 페이지 소개',
+    },
+    hero: {
+      titleGap: '',
+      factsLabel: '투표일 핵심 정보',
+      facts: [
+        {
+          icon: 'clock',
+          label: '투표 시간',
+          value: '11/28(토) 오전 8시~오후 4시',
+        },
+        {
+          icon: 'id',
+          label: '준비물',
+          value: '국민신분증(도장은 필수 아님)',
+        },
+        {
+          icon: 'pin',
+          label: '투표 장소',
+          value: '호적지의 투표소',
+        },
+      ],
+      progressLabel: '선거 일정 진행',
+      progressCount: '{total}단계 중 {done}단계 완료',
+      timelineLink: '일정 보기',
+    },
+    offices: {
+      approxPrefix: '약 ',
+      estimateLabel: '추정',
+      totalPrefix: '모두',
+      totalSuffix: '명 선출',
+      totalSource: '중앙선거위원회 보도자료',
+    },
+    timeline: { fullLink: '전체 선거 일정 보기' },
+    subpages: {
+      title: '세부 페이지',
+      subtitle: '같은 선거의 네 가지 면을 각각 한 페이지에 담았습니다.',
+      live: '공개 중',
+      wip: '제작 중',
+    },
+    further: { title: '더 읽을거리와 시민 도구' },
+    about: { title: '이 특집 페이지에 대하여' },
+    candidates: {
+      metaLine:
+        '중앙선거위원회 심사 확정 명단 · 기호는 10/23 추첨 후 업데이트 · 자료 기준일 {date}',
+      metaLineNumbered:
+        '중앙선거위원회 심사 확정 명단 · 기호 순 · 자료 기준일 {date}',
+      orderNote: '기호 추첨 전까지는 선거구별로 등록일 순으로 배열합니다.',
+      incumbentPrefix: '; ‘현직’ 표시는 ',
+      incumbentLinkText: '중앙통신사(CNA) 정리',
+      incumbentSuffix: ' 기준',
+      rosterShort: '등록 명부',
+      jumpLabel: '선거구로 이동',
+      raceCount: '{n}명',
+      readArticle: '항목 읽기',
+      readArticleAria: '{name} 항목 읽기',
+      contribute: '함께 쓰기',
+      contributeAria: '{name} 항목 함께 쓰기',
+      invite: {
+        title: '아직 항목이 없는 후보자, 함께 써 주세요',
+        body: '후보자 {total}명 가운데 Taiwan.md 항목이 있는 사람은 아직 {linked}명뿐입니다. 항목이 있고 없고는 집필 진행 상황을 반영할 뿐, 정치 성향이나 중요도와는 관계없습니다. Taiwan.md는 오픈소스 대만 지식 베이스로, 누구나 항목을 제안하고 쓰고, 출처를 보태거나 오류를 고칠 수 있습니다.',
+        contributeCta: '참여 방법 보기 →',
+        proposeCta: 'GitHub에서 새 항목 제안 ↗',
+      },
+      title: '현·시장 후보자',
+      intro:
+        '현·시장 선거구 {races}곳, 후보 {count}명. 모든 후보를 같은 형식으로 표시하며, 여론조사나 우세 표시는 넣지 않습니다.',
+      note: '중앙선거위원회 심사 확정 명단 기준입니다. 기호는 10/23 추첨 후 업데이트하며, 추첨 전까지는 등록일 순으로 배열합니다.',
+      noteNumbered:
+        '중앙선거위원회 심사 확정 명단 기준이며, 기호 순으로 배열합니다.',
+      dataDate: '자료 기준일: ',
+      filterLabel: '직위별 보기',
+      filterAll: '전체',
+      filterMunicipal: '직할시장',
+      filterCounty: '현·시장',
+      groupMunicipal: '직할시장',
+      groupCounty: '현·시장',
+      groupCount: '선거구 {n}곳',
+      candidateCount: '후보 {n}명',
+      numberLabel: '기호 {n}번',
+      incumbent: '현직',
+      incumbentNote: '현직 표시는 중앙통신사(CNA) 정리 기준',
+      sourceLabel: '출처: ',
+      rosterLink: '중앙선거위원회 등록 명부',
+      qualifiedLink: '중앙선거위원회 심사 확정 발표',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: '투표 방법',
+      intro: '투표일 전에 가장 많이 묻는 질문을 공식 출처와 함께 정리했습니다.',
+      sourceLabel: '공식 출처: ',
+    },
+    referendum: {
+      eyebrow: '같은 날 국민투표',
+      title: '같은 날 전국 국민투표 제22안도 진행됩니다',
+      lead: '전국 국민투표 제22안은 지방선거와 같은 날, 같은 시간(11월 28일 오전 8시부터 오후 4시까지)에 투표합니다.',
+      questionLabel: '투표 문안(중앙선거위원회 공고 원문)',
+      translationLabel: 'Taiwan.md 비공식 번역',
+      translation:
+        '귀하는 정부가 ‘원자력 발전’을 활용해 경제를 진흥하여 ‘비핵가원(非核家園)’ 에너지 정책을 폐지하는 것을 지지합니까?',
+      facts: [
+        {
+          label: '발의',
+          text: '입법원이 발의했고, 중앙선거위원회가 2026년 8월 28일 성립을 의결했습니다.',
+        },
+        {
+          label: '투표 연령',
+          text: '국민투표는 만 18세부터, 지방선거는 만 20세부터 투표할 수 있습니다. 두 연령 기준이 다릅니다.',
+        },
+        {
+          label: '통과 요건',
+          text: '유효 찬성표가 반대표보다 많고, 유효 찬성표가 투표권자 총수의 4분의 1 이상이어야 합니다.',
+        },
+        {
+          label: '의견 발표회',
+          text: '중앙선거위원회는 의견 발표회 또는 토론회를 5회 열며, 첫 회는 11월 12일입니다.',
+        },
+      ],
+      neutral:
+        '이 카드는 투표 절차만 정리하며 어느 쪽의 주장도 다루지 않습니다. 공식 자료는 중앙선거위원회 공고와 국민투표 공보 사이트를 참고하세요.',
+      sourceLabel: '공식 출처: ',
+    },
+    links: {
+      announcement: '중앙선거위원회 선거 공고',
+      law: '공직인원 선거파면법',
+      idRules: '중복 투표·투표용지 부정 수령 방지 규정',
+      pollingPlaces: '중앙선거위원회 투표소 공고',
+      bulletin: '선거·국민투표 공보 사이트',
+      schedule: '중앙선거위원회 선거 업무 일정',
+      referendumNotice: '중앙선거위원회 국민투표안 공고',
+      referendumBulletin: '국민투표 공보 사이트',
+    },
+    lastUpdated: ' 최종 업데이트: ',
+    jsonLd: {
+      eventName: '2026 대만 지방선거 투표일',
+      eventDescription:
+        '대만 전역에서 아홉 종류의 지방 공직을 같은 날 선출하며, 전국 국민투표 제22안 투표도 함께 진행됩니다.',
+      location: '대만',
+      organizer: '중앙선거위원회',
+    },
+  },
+  fr: {
+    nav: {
+      label: 'Sur cette page',
+      candidates: 'Candidats',
+      howToVote: 'Comment voter',
+      referendum: 'Référendum',
+      timeline: 'Calendrier',
+      offices: 'Neuf fonctions',
+      subpages: 'Pages dédiées',
+      about: 'À propos',
+    },
+    hero: {
+      titleGap: ' ',
+      factsLabel: 'L’essentiel du jour du vote',
+      facts: [
+        {
+          icon: 'clock',
+          label: 'Horaires',
+          value: 'Samedi 28/11, de 8 h à 16 h',
+        },
+        {
+          icon: 'id',
+          label: 'À apporter',
+          value: 'Votre carte d’identité nationale (le sceau est facultatif)',
+        },
+        {
+          icon: 'pin',
+          label: 'Où voter',
+          value:
+            'Le bureau de vote rattaché à l’adresse d’enregistrement de votre ménage',
+        },
+      ],
+      progressLabel: 'Avancement du calendrier',
+      progressCount: '{done} étapes sur {total} terminées',
+      timelineLink: 'Voir le calendrier',
+    },
+    offices: {
+      approxPrefix: 'env. ',
+      estimateLabel: 'Estimation',
+      totalPrefix: 'Au total,',
+      totalSuffix: 'élus',
+      totalSource: 'communiqué de la CEC',
+    },
+    timeline: { fullLink: 'Voir le calendrier complet' },
+    subpages: {
+      title: 'Pages dédiées',
+      subtitle:
+        'Quatre facettes d’une même élection, chacune sur sa propre page.',
+      live: 'En ligne',
+      wip: 'En préparation',
+    },
+    further: { title: 'Pour aller plus loin et outils civiques' },
+    about: { title: 'À propos de cette page' },
+    candidates: {
+      metaLine:
+        'Liste validée par la CEC · numéros ajoutés après le tirage du 23/10 · données au {date}',
+      metaLineNumbered:
+        'Liste validée par la CEC · par numéro de bulletin · données au {date}',
+      orderNote:
+        'Jusqu’au tirage des numéros, les candidats de chaque circonscription sont classés par date d’enregistrement.',
+      incumbentPrefix: ' ; mention « en poste » selon ',
+      incumbentLinkText: 'l’agence CNA',
+      incumbentSuffix: '',
+      rosterShort: 'Registre des candidatures',
+      jumpLabel: 'Aller à',
+      raceCount: '{n} candidats',
+      readArticle: 'Lire l’article',
+      readArticleAria: 'Lire l’article sur {name}',
+      contribute: 'Contribuer',
+      contributeAria: 'Contribuer à un article sur {name}',
+      invite: {
+        title: 'Aidez à écrire les articles qui manquent',
+        body: 'Sur {total} candidats, seuls {linked} ont pour l’instant un article sur Taiwan.md. La présence d’un article reflète l’avancement de la rédaction, pas l’orientation politique ni l’importance d’un candidat. Taiwan.md est une base de connaissances open source sur Taïwan : chacun peut proposer un article, le rédiger, ajouter des sources ou corriger des erreurs.',
+        contributeCta: 'Voir comment contribuer →',
+        proposeCta: 'Proposer un article sur GitHub ↗',
+      },
+      title: 'Candidats aux mairies et aux comtés',
+      intro:
+        '{races} circonscriptions, {count} candidats. Chaque candidat est présenté dans le même format, sans sondage ni indication de qui mène.',
+      note: 'D’après la liste validée par la CEC. Les numéros seront ajoutés après le tirage du 23 octobre ; d’ici là, les candidats sont classés par date d’enregistrement.',
+      noteNumbered:
+        'D’après la liste validée par la CEC, classés par numéro de bulletin.',
+      dataDate: 'Données au ',
+      filterLabel: 'Filtrer par fonction',
+      filterAll: 'Tous',
+      filterMunicipal: 'Municipalités spéciales',
+      filterCounty: 'Comtés et villes',
+      groupMunicipal: 'Maires des municipalités spéciales',
+      groupCounty: 'Chefs de comté et maires de ville',
+      groupCount: '{n} circonscriptions',
+      candidateCount: '{n} candidats',
+      numberLabel: 'n° {n}',
+      incumbent: 'En poste',
+      incumbentNote: 'Mention « en poste » selon l’agence CNA',
+      sourceLabel: 'Sources : ',
+      rosterLink: 'registre des candidatures de la CEC',
+      qualifiedLink: 'communiqué de validation de la CEC',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'Comment voter',
+      intro:
+        'Les questions les plus fréquentes avant le scrutin, chacune avec sa source officielle.',
+      sourceLabel: 'Source officielle : ',
+    },
+    referendum: {
+      eyebrow: 'Référendum le même jour',
+      title: 'Le référendum national n° 22 a lieu le même jour',
+      lead: 'Le référendum national n° 22 est voté le même jour et aux mêmes horaires que les élections locales, le 28 novembre de 8 h à 16 h.',
+      questionLabel:
+        'Question soumise au vote (texte chinois officiel de la CEC)',
+      translationLabel: 'Traduction non officielle de Taiwan.md',
+      translation:
+        'Soutenez-vous l’utilisation de « l’énergie nucléaire » par le gouvernement pour relancer l’économie, afin d’abolir la politique énergétique du « foyer sans nucléaire » ?',
+      facts: [
+        {
+          label: 'Proposé par',
+          text: 'Le Yuan législatif. La CEC a validé le dossier le 28 août 2026.',
+        },
+        {
+          label: 'Âge de vote',
+          text: '18 ans pour le référendum, 20 ans pour les élections locales. Les deux seuils d’âge sont différents.',
+        },
+        {
+          label: 'Seuil d’adoption',
+          text: 'Les votes valides « oui » doivent dépasser les « non » et atteindre un quart de l’ensemble des personnes ayant le droit de vote.',
+        },
+        {
+          label: 'Présentations publiques',
+          text: 'La CEC organise cinq présentations ou débats, le premier le 12 novembre.',
+        },
+      ],
+      neutral:
+        'Cette carte présente uniquement la procédure de vote et ne reprend les arguments d’aucun camp. Pour les documents officiels, consultez l’avis de la CEC et le site des bulletins référendaires.',
+      sourceLabel: 'Sources officielles : ',
+    },
+    links: {
+      announcement: 'annonce électorale de la CEC',
+      law: 'loi sur l’élection et la révocation des agents publics',
+      idRules: 'règlement contre le double vote et le retrait frauduleux',
+      pollingPlaces: 'avis de la CEC sur les bureaux de vote',
+      bulletin: 'site des bulletins électoraux et référendaires',
+      schedule: 'calendrier des opérations de la CEC',
+      referendumNotice: 'avis de la CEC sur le référendum',
+      referendumBulletin: 'site des bulletins référendaires',
+    },
+    lastUpdated: ' Dernière mise à jour : ',
+    jsonLd: {
+      eventName: 'Jour du scrutin des élections locales 2026 à Taïwan',
+      eventDescription:
+        'Taïwan élit neuf catégories de fonctions locales le même jour, en même temps que le référendum national n° 22.',
+      location: 'Taïwan',
+      organizer: 'Commission électorale centrale',
+    },
+  },
+  es: {
+    nav: {
+      label: 'En esta página',
+      candidates: 'Candidaturas',
+      howToVote: 'Cómo votar',
+      referendum: 'Referéndum',
+      timeline: 'Calendario',
+      offices: 'Nueve cargos',
+      subpages: 'Páginas',
+      about: 'Acerca de',
+    },
+    hero: {
+      titleGap: ' ',
+      factsLabel: 'Lo esencial del día de votación',
+      facts: [
+        {
+          icon: 'clock',
+          label: 'Horario',
+          value: 'Sábado 28/11, de 8:00 a 16:00',
+        },
+        {
+          icon: 'id',
+          label: 'Qué llevar',
+          value: 'Tu documento nacional de identidad (el sello es opcional)',
+        },
+        {
+          icon: 'pin',
+          label: 'Dónde votar',
+          value:
+            'El colegio electoral del domicilio donde está registrado tu hogar',
+        },
+      ],
+      progressLabel: 'Avance del calendario',
+      progressCount: '{done} de {total} pasos completados',
+      timelineLink: 'Ver el calendario',
+    },
+    offices: {
+      approxPrefix: 'aprox. ',
+      estimateLabel: 'Estimación',
+      totalPrefix: 'En total,',
+      totalSuffix: 'cargos electos',
+      totalSource: 'comunicado de la CEC',
+    },
+    timeline: { fullLink: 'Ver el calendario completo' },
+    subpages: {
+      title: 'Páginas del especial',
+      subtitle:
+        'Cuatro aspectos de la misma elección, cada uno en su propia página.',
+      live: 'En línea',
+      wip: 'En preparación',
+    },
+    further: { title: 'Lecturas y herramientas cívicas' },
+    about: { title: 'Acerca de este especial' },
+    candidates: {
+      metaLine:
+        'Lista aprobada por la CEC · números tras el sorteo del 23/10 · datos al {date}',
+      metaLineNumbered:
+        'Lista aprobada por la CEC · por número de papeleta · datos al {date}',
+      orderNote:
+        'Hasta el sorteo de números, las candidaturas de cada contienda se ordenan por fecha de registro.',
+      incumbentPrefix: '; indicación «en el cargo» según ',
+      incumbentLinkText: 'la agencia CNA',
+      incumbentSuffix: '',
+      rosterShort: 'Registro de candidaturas',
+      jumpLabel: 'Ir a',
+      raceCount: '{n} candidaturas',
+      readArticle: 'Leer artículo',
+      readArticleAria: 'Leer el artículo sobre {name}',
+      contribute: 'Ayudar a escribir',
+      contributeAria: 'Ayudar a escribir un artículo sobre {name}',
+      invite: {
+        title: 'Ayuda a escribir los artículos que faltan',
+        body: 'De {total} candidaturas, solo {linked} tienen por ahora un artículo en Taiwan.md. Que exista o no un artículo refleja el avance de la redacción, no la orientación política ni la importancia de nadie. Taiwan.md es una base de conocimiento de código abierto sobre Taiwán: cualquiera puede proponer un artículo, escribirlo, añadir fuentes o corregir errores.',
+        contributeCta: 'Ver cómo contribuir →',
+        proposeCta: 'Proponer un artículo en GitHub ↗',
+      },
+      title: 'Candidaturas a alcaldías y jefaturas de condado',
+      intro:
+        '{races} contiendas, {count} candidatos. Cada candidatura se presenta con el mismo formato, sin encuestas ni indicación de quién va por delante.',
+      note: 'Según la lista aprobada por la CEC. Los números se añadirán tras el sorteo del 23 de octubre; hasta entonces, el orden es por fecha de registro.',
+      noteNumbered:
+        'Según la lista aprobada por la CEC, ordenada por número de papeleta.',
+      dataDate: 'Datos al ',
+      filterLabel: 'Filtrar por cargo',
+      filterAll: 'Todos',
+      filterMunicipal: 'Municipios especiales',
+      filterCounty: 'Condados y ciudades',
+      groupMunicipal: 'Alcaldes de municipios especiales',
+      groupCounty: 'Jefes de condado y alcaldes de ciudad',
+      groupCount: '{n} contiendas',
+      candidateCount: '{n} candidatos',
+      numberLabel: 'n.º {n}',
+      incumbent: 'En el cargo',
+      incumbentNote: 'Indicación «en el cargo» según la agencia CNA',
+      sourceLabel: 'Fuentes: ',
+      rosterLink: 'registro de candidaturas de la CEC',
+      qualifiedLink: 'comunicado de aprobación de la CEC',
+      listSep: ', ',
+    },
+    howToVote: {
+      title: 'Cómo votar',
+      intro:
+        'Las preguntas más frecuentes antes de la votación, cada una con su fuente oficial.',
+      sourceLabel: 'Fuente oficial: ',
+    },
+    referendum: {
+      eyebrow: 'Referéndum el mismo día',
+      title: 'El referéndum nacional n.º 22 se vota el mismo día',
+      lead: 'El referéndum nacional n.º 22 se vota el mismo día y en el mismo horario que las elecciones locales: el 28 de noviembre, de 8:00 a 16:00.',
+      questionLabel:
+        'Pregunta sometida a votación (texto chino oficial de la CEC)',
+      translationLabel: 'Traducción no oficial de Taiwan.md',
+      translation:
+        '¿Apoya que el gobierno utilice la «energía nuclear» para reactivar la economía, a fin de abolir la política energética de «hogar sin energía nuclear»?',
+      facts: [
+        {
+          label: 'Propuesto por',
+          text: 'El Yuan Legislativo. La CEC aprobó formalmente el caso el 28 de agosto de 2026.',
+        },
+        {
+          label: 'Edad para votar',
+          text: '18 años para el referéndum y 20 años para las elecciones locales. Los dos umbrales de edad son distintos.',
+        },
+        {
+          label: 'Umbral de aprobación',
+          text: 'Los votos válidos a favor deben superar a los votos en contra y alcanzar una cuarta parte del total de personas con derecho a voto.',
+        },
+        {
+          label: 'Presentaciones públicas',
+          text: 'La CEC organiza cinco presentaciones de opiniones o debates; el primero es el 12 de noviembre.',
+        },
+      ],
+      neutral:
+        'Esta tarjeta recoge solo el procedimiento de votación y no presenta los argumentos de ninguna de las partes. Para los materiales oficiales, consulta el aviso de la CEC y el sitio de boletines de referéndum.',
+      sourceLabel: 'Fuentes oficiales: ',
+    },
+    links: {
+      announcement: 'anuncio electoral de la CEC',
+      law: 'Ley de Elección y Revocación de Funcionarios Públicos',
+      idRules:
+        'reglamento contra el voto duplicado y el retiro fraudulento de papeletas',
+      pollingPlaces: 'aviso de la CEC sobre colegios electorales',
+      bulletin: 'sitio de boletines electorales y de referéndum',
+      schedule: 'calendario de trabajo de la CEC',
+      referendumNotice: 'aviso de la CEC sobre el referéndum',
+      referendumBulletin: 'sitio de boletines de referéndum',
+    },
+    lastUpdated: ' Última actualización: ',
+    jsonLd: {
+      eventName:
+        'Jornada de votación de las elecciones locales de 2026 en Taiwán',
+      eventDescription:
+        'Taiwán elige nueve tipos de cargos locales el mismo día, junto con el referéndum nacional n.º 22.',
+      location: 'Taiwán',
+      organizer: 'Comisión Electoral Central',
+    },
+  },
+};
+
+// 選區名稱：卡片標題用當前語言，非中文頁另附中選會原字（小字）。
+const areaI18n: Record<string, Record<Exclude<UpLang, 'zh-TW'>, string>> = {
+  臺北市: {
+    en: 'Taipei City',
+    ja: '台北市',
+    ko: '타이베이시',
+    fr: 'Taipei',
+    es: 'Taipéi',
+  },
+  新北市: {
+    en: 'New Taipei City',
+    ja: '新北市',
+    ko: '신베이시',
+    fr: 'Nouveau Taipei',
+    es: 'Nuevo Taipéi',
+  },
+  桃園市: {
+    en: 'Taoyuan City',
+    ja: '桃園市',
+    ko: '타오위안시',
+    fr: 'Taoyuan',
+    es: 'Taoyuan',
+  },
+  臺中市: {
+    en: 'Taichung City',
+    ja: '台中市',
+    ko: '타이중시',
+    fr: 'Taichung',
+    es: 'Taichung',
+  },
+  臺南市: {
+    en: 'Tainan City',
+    ja: '台南市',
+    ko: '타이난시',
+    fr: 'Tainan',
+    es: 'Tainan',
+  },
+  高雄市: {
+    en: 'Kaohsiung City',
+    ja: '高雄市',
+    ko: '가오슝시',
+    fr: 'Kaohsiung',
+    es: 'Kaohsiung',
+  },
+  基隆市: {
+    en: 'Keelung City',
+    ja: '基隆市',
+    ko: '지룽시',
+    fr: 'Keelung',
+    es: 'Keelung',
+  },
+  新竹市: {
+    en: 'Hsinchu City',
+    ja: '新竹市',
+    ko: '신주시',
+    fr: 'Ville de Hsinchu',
+    es: 'Ciudad de Hsinchu',
+  },
+  嘉義市: {
+    en: 'Chiayi City',
+    ja: '嘉義市',
+    ko: '자이시',
+    fr: 'Ville de Chiayi',
+    es: 'Ciudad de Chiayi',
+  },
+  新竹縣: {
+    en: 'Hsinchu County',
+    ja: '新竹県',
+    ko: '신주현',
+    fr: 'Comté de Hsinchu',
+    es: 'Condado de Hsinchu',
+  },
+  苗栗縣: {
+    en: 'Miaoli County',
+    ja: '苗栗県',
+    ko: '먀오리현',
+    fr: 'Comté de Miaoli',
+    es: 'Condado de Miaoli',
+  },
+  彰化縣: {
+    en: 'Changhua County',
+    ja: '彰化県',
+    ko: '장화현',
+    fr: 'Comté de Changhua',
+    es: 'Condado de Changhua',
+  },
+  南投縣: {
+    en: 'Nantou County',
+    ja: '南投県',
+    ko: '난터우현',
+    fr: 'Comté de Nantou',
+    es: 'Condado de Nantou',
+  },
+  雲林縣: {
+    en: 'Yunlin County',
+    ja: '雲林県',
+    ko: '윈린현',
+    fr: 'Comté de Yunlin',
+    es: 'Condado de Yunlin',
+  },
+  嘉義縣: {
+    en: 'Chiayi County',
+    ja: '嘉義県',
+    ko: '자이현',
+    fr: 'Comté de Chiayi',
+    es: 'Condado de Chiayi',
+  },
+  屏東縣: {
+    en: 'Pingtung County',
+    ja: '屏東県',
+    ko: '핑둥현',
+    fr: 'Comté de Pingtung',
+    es: 'Condado de Pingtung',
+  },
+  宜蘭縣: {
+    en: 'Yilan County',
+    ja: '宜蘭県',
+    ko: '이란현',
+    fr: 'Comté de Yilan',
+    es: 'Condado de Yilan',
+  },
+  花蓮縣: {
+    en: 'Hualien County',
+    ja: '花蓮県',
+    ko: '화롄현',
+    fr: 'Comté de Hualien',
+    es: 'Condado de Hualien',
+  },
+  臺東縣: {
+    en: 'Taitung County',
+    ja: '台東県',
+    ko: '타이둥현',
+    fr: 'Comté de Taitung',
+    es: 'Condado de Taitung',
+  },
+  澎湖縣: {
+    en: 'Penghu County',
+    ja: '澎湖県',
+    ko: '펑후현',
+    fr: 'Comté de Penghu',
+    es: 'Condado de Penghu',
+  },
+  金門縣: {
+    en: 'Kinmen County',
+    ja: '金門県',
+    ko: '진먼현',
+    fr: 'Comté de Kinmen',
+    es: 'Condado de Kinmen',
+  },
+  連江縣: {
+    en: 'Lienchiang County',
+    ja: '連江県',
+    ko: '롄장현',
+    fr: 'Comté de Lienchiang',
+    es: 'Condado de Lienchiang',
+  },
+};
+
+// 政黨名稱對照：只收確定的官方或通行譯名；沒有的語言退回 en，
+// 連 en 都沒有（不確定官方英文名）就照中選會原字顯示中文。
+const partyI18n: Record<
+  string,
+  Partial<Record<Exclude<UpLang, 'zh-TW'>, string>>
+> = {
+  民主進步黨: {
+    en: 'Democratic Progressive Party',
+    ja: '民主進歩党',
+    ko: '민주진보당',
+    fr: 'Parti démocrate progressiste',
+    es: 'Partido Democrático Progresista',
+  },
+  中國國民黨: {
+    en: 'Kuomintang',
+    ja: '中国国民党',
+    ko: '중국국민당',
+    fr: 'Kuomintang',
+    es: 'Kuomintang',
+  },
+  台灣民眾黨: {
+    en: 'Taiwan People’s Party',
+    ja: '台湾民衆党',
+    ko: '대만민중당',
+    fr: 'Parti populaire taïwanais',
+    es: 'Partido Popular de Taiwán',
+  },
+  時代力量: { en: 'New Power Party', ja: '時代力量' },
+  台灣基進: { en: 'Taiwan Statebuilding Party', ja: '台湾基進' },
+  台灣綠黨: { en: 'Green Party Taiwan', ja: '台湾緑党' },
+  台聯黨: {
+    en: 'Taiwan Solidarity Union',
+    ja: '台湾団結連盟',
+    ko: '대만단결연맹',
+  },
+  無黨籍: {
+    en: 'Independent',
+    ja: '無所属',
+    ko: '무소속',
+    fr: 'Sans étiquette',
+    es: 'Independiente',
+  },
+};
+
 const lang = getLangFromUrl(Astro.url);
+// roadmap 四張卡依序連到四個子頁（各語言 roadmap.items 順序相同）
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const roadmapSlugs = ['timeline', 'candidates', 'donations', 'perspectives'];
+// 已經做好的子頁：卡片整張是連結；不在集合裡的卡片顯示「製作中」、不連結。
+const liveSubpages = new Set(['timeline', 'candidates', 'donations']);
+const roadmapCta: Record<string, string> = {
+  'zh-TW': '看完整內容',
+  en: 'Open the full page',
+  ja: '詳しく見る',
+  ko: '자세히 보기',
+  fr: 'Voir la page complète',
+  es: 'Ver la página completa',
+};
 const copy = electionCopy[lang as keyof typeof electionCopy] ?? electionCopy.en;
 const pageTitle = copy.meta.title;
 const pageDescription = copy.meta.description;
@@ -1761,6 +3038,274 @@ const todayIso = new Date(now.getTime() + 8 * 60 * 60 * 1000)
 const nextMilestoneIdx = copy.timeline.items.findIndex(
   (m) => m.iso >= todayIso,
 );
+const nextMilestone =
+  nextMilestoneIdx >= 0 ? copy.timeline.items[nextMilestoneIdx] : null;
+
+// ── 2026-10 升級：衍生值 ──────────────────────────────────────────────
+const upLang: UpLang = lang in upgradeCopy ? (lang as UpLang) : 'en';
+const up = upgradeCopy[upLang];
+const isZh = upLang === 'zh-TW';
+const fill = (tpl: string, vars: Record<string, string | number>) =>
+  tpl.replace(/\{(\w+)\}/g, (_, k: string) => String(vars[k] ?? ''));
+
+// 九種職位：中選會公告有分項的用正式名額，其餘保留原數字並標「預估」。
+// data.offices 與 copy.offices.items 同序（直轄市長 → 村里長）。
+const officeRows = copy.offices.items.map((e, i) => {
+  const seats = electionsData.offices[i]?.seats;
+  return seats == null
+    ? { ...e, estimate: true }
+    : { ...e, count: seats, estimate: false };
+});
+
+const areaLabel = (area: string) =>
+  isZh ? area : (areaI18n[area]?.[upLang as Exclude<UpLang, 'zh-TW'>] ?? area);
+const partyLabel = (party: string) => {
+  if (isZh) return party;
+  const names = partyI18n[party];
+  return names?.[upLang as Exclude<UpLang, 'zh-TW'>] ?? names?.en ?? party;
+};
+
+type Race = ElectionsData['races'][number];
+// 號次全部抽出後依號次排序；抽籤前保持研究檔順序（登記日期先後）。
+const isNumbered = (r: Race) => r.candidates.every((c) => c.number != null);
+const orderedCandidates = (r: Race) =>
+  isNumbered(r)
+    ? [...r.candidates].sort((a, b) => (a.number ?? 0) - (b.number ?? 0))
+    : r.candidates;
+const allNumbered = electionsData.races.every(isNumbered);
+const totalCandidates = electionsData.races.reduce(
+  (n, r) => n + r.candidates.length,
+  0,
+);
+const raceGroups = [
+  {
+    key: 'municipal' as const,
+    label: up.candidates.groupMunicipal,
+    races: electionsData.races.filter((r) => r.group === 'municipal'),
+  },
+  {
+    key: 'county' as const,
+    label: up.candidates.groupCounty,
+    races: electionsData.races.filter((r) => r.group === 'county'),
+  },
+];
+// 卡片錨點 race-{index} 用資料檔裡的順序；每組的登記名冊 PDF 只列一次。
+const raceIndex = (r: Race) => electionsData.races.indexOf(r);
+const groupRosters = (races: Race[]) => [
+  ...new Set(races.map((r) => r.rosterSource)),
+];
+
+// ── 2026-10 改版：開場、條目連結、數字格式 ──────────────────────────────
+// eyebrow 文案前面帶 emoji，開場不放 emoji，顯示時去掉（不動原字串）。
+const heroEyebrow = copy.hero.eyebrow.replace(
+  /^\p{Extended_Pictographic}️?\s*/u,
+  '',
+);
+const doneSteps = copy.timeline.items.filter((m) => m.iso < todayIso).length;
+const totalSteps = copy.timeline.items.length;
+const progressPct = Math.round((doneSteps / totalSteps) * 100);
+
+// fr／es 的千位分隔跟英文不同（法文的逗號是小數點）
+const numLocale =
+  upLang === 'fr' ? 'fr-FR' : upLang === 'es' ? 'es-ES' : 'en-US';
+const fmt = (n: number) => n.toLocaleString(numLocale);
+
+// 候選人條目：有條目的連到人物頁，沒有的邀請一起寫。兩種動作同樣大小。
+const articleHref = (a: { zh: string; slug: string }) =>
+  lang === 'zh-TW'
+    ? `/people/${encodeURIComponent(a.zh)}/`
+    : `/${lang}/people/${a.slug}/`;
+const contributeHref = `${langPrefix}/contribute/`;
+const proposeHref =
+  'https://github.com/frank890417/taiwan-md/issues/new?template=article-proposal.yml';
+const linkedCandidates = electionsData.races.reduce(
+  (n, r) => n + r.candidates.filter((c) => c.article).length,
+  0,
+);
+
+// 驗證區的兩個事實查核站：用網址找名稱，不靠清單索引（清單增刪不會錯位）。
+const tfcName =
+  copy.resources.items.find((r) => r.url.includes('tfc-taiwan'))?.name ?? '';
+const cofactsName =
+  copy.resources.items.find((r) => r.url.includes('cofacts'))?.name ?? '';
+
+// 線條圖示（24px、stroke 1.75），開場三個事實與專區四張卡共用。
+const iconPaths: Record<string, string[]> = {
+  clock: ['M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Z', 'M12 7.5V12l3 2'],
+  id: [
+    'M3.5 6h17a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1Z',
+    'M8.5 12.25a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5Z',
+    'M5.75 15.5c.45-1.3 1.5-2 2.75-2s2.3.7 2.75 2',
+    'M14 10h4.5',
+    'M14 13.5h3',
+  ],
+  pin: [
+    'M12 21c-3.5-3.6-7-7.3-7-11a7 7 0 0 1 14 0c0 3.7-3.5 7.4-7 11Z',
+    'M12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z',
+  ],
+  timeline: [
+    'M4.5 5.5h15a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-15a1 1 0 0 1-1-1v-13a1 1 0 0 1 1-1Z',
+    'M3.5 9.5h17',
+    'M8 3.5v4',
+    'M16 3.5v4',
+    'M7.5 13h2',
+    'M11 13h2',
+    'M14.5 13h2',
+    'M7.5 16.5h2',
+    'M11 16.5h2',
+  ],
+  candidates: [
+    'M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z',
+    'M2.5 20c.6-3.4 3.2-5.5 6.5-5.5s5.9 2.1 6.5 5.5',
+    'M15.5 4.3a3.5 3.5 0 0 1 0 6.4',
+    'M17.5 14.8c2.2.6 3.6 2.5 4 5.2',
+  ],
+  donations: [
+    'M5 4.5A1.5 1.5 0 0 1 6.5 3H19v15H6.5A1.5 1.5 0 0 0 5 19.5v-15Z',
+    'M5 19.5A1.5 1.5 0 0 0 6.5 21H19v-3',
+    'M9 7.5h6',
+    'M9 11h4',
+  ],
+  perspectives: [
+    'M4 4.5h10A1.5 1.5 0 0 1 15.5 6v5.5A1.5 1.5 0 0 1 14 13H8.5L5 16v-3H4a1.5 1.5 0 0 1-1.5-1.5V6A1.5 1.5 0 0 1 4 4.5Z',
+    'M18 8.5h1.5A1.5 1.5 0 0 1 21 10v5.5a1.5 1.5 0 0 1-1.5 1.5H19v3l-3.5-3H11a1.5 1.5 0 0 1-1.5-1.5V15',
+  ],
+};
+
+const faqItems = electionsData.votingInfo.map((v) => ({
+  id: v.id,
+  links: v.links,
+  ...(v[upLang] ?? v.en),
+}));
+const referendum = electionsData.referendum;
+
+// JSON-LD：Event（投票日）＋ FAQPage（怎麼投票，用當前語言）。
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? Astro.url).toString();
+const toJsonLd = (data: unknown) =>
+  JSON.stringify(data).replace(/</g, '\\u003c');
+const eventJsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'Event',
+  name: up.jsonLd.eventName,
+  description: up.jsonLd.eventDescription,
+  startDate: electionsData.election.startDate,
+  endDate: electionsData.election.endDate,
+  eventStatus: 'https://schema.org/EventScheduled',
+  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+  inLanguage: upLang,
+  url: pageUrl,
+  location: {
+    '@type': 'Place',
+    name: up.jsonLd.location,
+    address: { '@type': 'PostalAddress', addressCountry: 'TW' },
+  },
+  organizer: {
+    '@type': 'GovernmentOrganization',
+    name: up.jsonLd.organizer,
+    url: 'https://web.cec.gov.tw/',
+  },
+});
+const faqJsonLd = toJsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  inLanguage: upLang,
+  url: pageUrl,
+  mainEntity: faqItems.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+});
+
+// 章節導覽：七個段落（07 延伸閱讀不列，避免導覽過長）
+const navItems = [
+  { id: 'candidates', label: up.nav.candidates },
+  { id: 'how-to-vote', label: up.nav.howToVote },
+  { id: 'referendum', label: up.nav.referendum },
+  { id: 'timeline', label: up.nav.timeline },
+  { id: 'offices', label: up.nav.offices },
+  { id: 'subpages', label: up.nav.subpages },
+  { id: 'about', label: up.nav.about },
+];
+const candFilters = [
+  { key: 'all', label: up.candidates.filterAll },
+  { key: 'municipal', label: up.candidates.filterMunicipal },
+  { key: 'county', label: up.candidates.filterCounty },
+];
+// 資料日期不在連字號斷行：把 {date} 前後拆開，日期包進 <time>
+const metaParts = (
+  allNumbered ? up.candidates.metaLineNumbered : up.candidates.metaLine
+).split('{date}');
+// 中文與日文句子之間不加空格，其他語言加
+const sentenceGap = isZh || upLang === 'ja' ? '' : ' ';
+// 候選人段落的來源只寫一次：審定新聞稿、現任標示（中央社）都從資料檔收集
+const qualifiedSources = [...new Set(electionsData.races.map((r) => r.source))];
+const incumbentSources = [
+  ...new Set(
+    electionsData.races.flatMap((r) =>
+      r.candidates.flatMap((c) =>
+        c.incumbent && c.incumbentSource ? [c.incumbentSource] : [],
+      ),
+    ),
+  ),
+];
+
+// 來源連結列（「來源：A、B」）先組成 HTML 字串再 set:html：寫成 JSX 時，
+// prettier 會在連結兩側換行，Astro 把換行輸出成空格，中文句子裡很顯眼。
+// 所有文字與網址都先跳脫。樣式用 :global(.el-inline-link)。
+const escHtml = (t: string) =>
+  t
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+const sourceLinks = (
+  links: Array<{ url: string; label: string }>,
+  extraClass = '',
+) =>
+  links
+    .map(
+      (l) =>
+        `<a href="${escHtml(l.url)}" target="_blank" rel="noopener noreferrer" class="el-inline-link${extraClass ? ` ${extraClass}` : ''}">${escHtml(l.label)}</a>`,
+    )
+    .join(escHtml(up.candidates.listSep));
+const candSourceHtml =
+  escHtml(up.candidates.sourceLabel) +
+  sourceLinks(
+    qualifiedSources.map((url) => ({
+      url,
+      label: up.candidates.qualifiedLink,
+    })),
+  ) +
+  (incumbentSources.length > 0
+    ? escHtml(up.candidates.incumbentPrefix) +
+      sourceLinks(
+        incumbentSources.map((url) => ({
+          url,
+          label: up.candidates.incumbentLinkText,
+        })),
+      ) +
+      escHtml(up.candidates.incumbentSuffix)
+    : '');
+const rosterHtml = (races: Race[]) =>
+  sourceLinks(
+    groupRosters(races).map((url) => ({
+      url,
+      label: up.candidates.rosterShort,
+    })),
+  );
+const faqSourceHtml = (links: Array<{ kind: LinkKind; url: string }>) =>
+  escHtml(up.howToVote.sourceLabel) +
+  sourceLinks(links.map((l) => ({ url: l.url, label: up.links[l.kind] })));
+const referendumSourceHtml =
+  escHtml(up.referendum.sourceLabel) +
+  sourceLinks(
+    electionsData.referendum.sources.map((l) => ({
+      url: l.url,
+      label: up.links[l.kind],
+    })),
+    'el-inline-link--slate',
+  );
 ---
 
 <Layout
@@ -1769,440 +3314,2233 @@ const nextMilestoneIdx = copy.timeline.items.findIndex(
   description={pageDescription}
   readerSettings
 >
-  <main class="elections-2026">
-    <!-- Hero -->
-    <section
-      class="hero relative overflow-hidden border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
-    >
-      <div class="relative mx-auto max-w-[920px] px-6 py-20 md:py-28">
-        <div
-          class="mb-4 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
-        >
-          {copy.hero.eyebrow}
+  <div class="elections-2026">
+    <!-- 00 開場：投票日三件事＋倒數與選務進度 -->
+    <section class="el-hero" aria-labelledby="el-title">
+      <div class="el-wrap el-hero-grid">
+        <div class="el-hero-main">
+          <p class="el-eyebrow">{heroEyebrow}</p>
+          <h1 id="el-title" class="el-h1">
+            {copy.hero.titlePrefix}{' '}<span class="el-h1-em"
+              >{copy.hero.titleEmphasis}</span
+            >{up.hero.titleGap}{copy.hero.titleSuffix}
+          </h1>
+          <p class="el-hero-sub">{copy.hero.subtitle}</p>
+          <ul class="el-facts el-reset" aria-label={up.hero.factsLabel}>
+            {
+              up.hero.facts.map((f) => (
+                <li class="el-fact">
+                  <svg class="el-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    {iconPaths[f.icon].map((d) => (
+                      <path d={d} />
+                    ))}
+                  </svg>
+                  <div>
+                    <p class="el-fact-label">{f.label}</p>
+                    <p class="el-fact-value">{f.value}</p>
+                  </div>
+                </li>
+              ))
+            }
+          </ul>
         </div>
 
-        <h1
-          class="hero-title mb-6 text-center text-[2.5rem] font-bold leading-[1.15] text-[#1f2937] md:text-[3.5rem]"
-          style="font-family: 'jf-lanyangming', 'rixingsong-semibold', 'Noto Serif TC', 'Source Han Serif TC', serif;"
-        >
-          {copy.hero.titlePrefix}
-          <span class="text-[#7c2d12]">{copy.hero.titleEmphasis}</span>
-          {copy.hero.titleSuffix}
-        </h1>
-
-        <p class="mb-10 text-center text-lg italic text-[#52525b] md:text-xl">
-          {copy.hero.subtitle}
-        </p>
-
-        {
-          isUpcoming && (
-            <div class="mx-auto flex max-w-[420px] flex-col items-center gap-3 rounded-2xl border-[1.5px] border-[#7c2d12]/20 bg-white/70 px-10 py-8 shadow-[0_4px_20px_rgba(124,45,18,0.08)] backdrop-blur-sm">
-              <div class="text-xs uppercase tracking-[0.2em] text-[#92400e]">
-                {copy.hero.countdownLabel}
+        <aside class="el-count" aria-label={copy.hero.countdownLabel}>
+          {
+            isUpcoming && (
+              <>
+                <p class="el-count-label">{copy.hero.countdownLabel}</p>
+                <p class="el-count-num">
+                  <span class="el-count-days">{daysUntil}</span>
+                  <span class="el-count-unit">{copy.hero.dayUnit}</span>
+                </p>
+                <p class="el-count-date">{copy.hero.dateLabel}</p>
+              </>
+            )
+          }
+          {
+            isRecent && (
+              <>
+                <p class="el-count-recent">{copy.hero.recentTitle}</p>
+                <p class="el-count-date">{copy.hero.recentSubtitle}</p>
+              </>
+            )
+          }
+          {
+            !isUpcoming && !isRecent && (
+              <p class="el-count-date">{copy.hero.dateLabel}</p>
+            )
+          }
+          {
+            nextMilestone && (
+              <div class="el-count-next">
+                <p class="el-count-next-label">{copy.timeline.nextLabel}</p>
+                <p class="el-count-next-body">
+                  <span class="el-count-next-date">{nextMilestone.date}</span>
+                  {nextMilestone.label}
+                </p>
               </div>
-              <div class="flex items-baseline gap-2">
-                <span class="text-7xl font-bold text-[#7c2d12] md:text-8xl">
-                  {daysUntil}
-                </span>
-                <span class="text-2xl text-[#92400e]">{copy.hero.dayUnit}</span>
-              </div>
-              <div class="text-sm text-[#78716c]">{copy.hero.dateLabel}</div>
+            )
+          }
+          <div class="el-progress">
+            <div class="el-progress-head">
+              <p class="el-progress-label">{up.hero.progressLabel}</p>
+              <a href="#timeline" class="el-progress-link"
+                >{up.hero.timelineLink} <span aria-hidden="true">→</span></a
+              >
             </div>
-          )
-        }
-
-        {
-          isRecent && (
-            <div class="mx-auto max-w-[420px] rounded-2xl border-[1.5px] border-[#7c2d12]/30 bg-white/80 px-10 py-8 text-center shadow-[0_4px_20px_rgba(124,45,18,0.08)]">
-              <div class="text-2xl font-bold text-[#7c2d12]">
-                {copy.hero.recentTitle}
-              </div>
-              <div class="mt-2 text-base text-[#78716c]">
-                {copy.hero.recentSubtitle}
-              </div>
+            <div class="el-progress-bar" aria-hidden="true">
+              <span style={`width: ${progressPct}%`}></span>
             </div>
-          )
-        }
+            <p class="el-progress-count">
+              {
+                fill(up.hero.progressCount, {
+                  done: doneSteps,
+                  total: totalSteps,
+                })
+              }
+            </p>
+          </div>
+        </aside>
       </div>
     </section>
 
-    <!-- Role -->
-    <section class="bg-[#fdfaf2] py-16 md:py-20">
-      <div class="mx-auto max-w-[760px] px-6">
-        <h2
-          class="mb-8 text-center text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
-          style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-        >
-          {copy.role.title}
-        </h2>
+    <!-- 章節導覽（sticky，貼在站台表頭下方） -->
+    <nav class="el-nav" aria-label={up.nav.label} data-el-nav>
+      <div class="el-wrap">
+        <div class="el-nav-scroll" data-el-nav-scroll>
+          <ul class="el-nav-list el-reset">
+            {
+              navItems.map((n) => (
+                <li>
+                  <a href={`#${n.id}`} class="el-nav-link" data-nav-id={n.id}>
+                    {n.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-        <div
-          class="rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white/60 p-8 md:p-12"
-        >
-          <p class="mb-5 text-lg leading-[1.85] text-[#374151]">
-            {copy.role.p1}
+    <!-- 01 縣市長候選人（中選會審定名單；對稱呈現、無政黨色） -->
+    <section
+      id="candidates"
+      class="el-section anchor-section"
+      aria-labelledby="h-candidates"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">01</p>
+        <div class="el-sec-head">
+          <h2 id="h-candidates" class="el-h2">{up.candidates.title}</h2>
+          <p class="el-sec-desc">
+            {
+              fill(up.candidates.intro, {
+                races: electionsData.races.length,
+                count: totalCandidates,
+              })
+            }{!allNumbered && sentenceGap + up.candidates.orderNote}
           </p>
-          <p class="mb-5 text-base leading-[1.85] text-[#52525b]">
-            {copy.role.p2}
+          <p class="el-sec-meta">
+            {metaParts[0]}<time
+              datetime={electionsData.lastVerified}
+              class="el-nowrap">{electionsData.lastVerified}</time
+            >{metaParts[1]}
           </p>
-          <p class="mb-5 text-base leading-[1.85] text-[#52525b]">
-            {copy.role.p3}
-          </p>
-          <p class="text-base leading-[1.85] text-[#52525b]">{copy.role.p4}</p>
+          <p class="el-source-line" set:html={candSourceHtml} />
+        </div>
 
-          <div class="mt-8 flex flex-wrap gap-3">
-            <a
-              href={copy.related.articles[0].href}
-              class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[#7c2d12]/25 bg-[#fef2ec] px-5 py-2.5 text-sm font-semibold text-[#7c2d12] no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/50 hover:bg-[#fce7d6] hover:shadow-[0_2px_8px_rgba(124,45,18,0.12)]"
-            >
-              {copy.role.primaryCta}
-            </a>
-            <a
-              href={copy.related.articles[2].href}
-              class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[#d1d5db] bg-[#f8fafc] px-5 py-2.5 text-sm font-semibold text-[#374151] no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#9ca3af] hover:bg-[#f1f5f9]"
-            >
-              {copy.role.secondaryCta}
-            </a>
+        <div class="el-cand-tools">
+          <div
+            class="el-seg"
+            role="group"
+            aria-label={up.candidates.filterLabel}
+            data-cand-filter
+            hidden
+          >
+            {
+              candFilters.map((f, i) => (
+                <button
+                  type="button"
+                  data-filter={f.key}
+                  aria-pressed={i === 0 ? 'true' : 'false'}
+                  class="el-seg-btn"
+                >
+                  {f.label}
+                </button>
+              ))
+            }
+          </div>
+          <div class="el-jump">
+            <p class="el-jump-label" id="el-jump-label">
+              {up.candidates.jumpLabel}
+            </p>
+            <ul class="el-jump-list el-reset" aria-labelledby="el-jump-label">
+              {
+                electionsData.races.map((r, i) => (
+                  <li data-jump-group={r.group}>
+                    <a href={`#race-${i}`} class="el-jump-link">
+                      {areaLabel(r.area)}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
           </div>
         </div>
+
+        {
+          raceGroups.map((g) => (
+            <div class="el-group" data-cand-group={g.key}>
+              <div class="el-group-head">
+                <h3 class="el-h3">
+                  {g.label}
+                  <span class="el-group-count">
+                    {fill(up.candidates.groupCount, { n: g.races.length })}
+                  </span>
+                </h3>
+                <p class="el-group-src" set:html={rosterHtml(g.races)} />
+              </div>
+              <div class="el-races">
+                {g.races.map((race) => (
+                  <article id={`race-${raceIndex(race)}`} class="el-race">
+                    <header class="el-race-head">
+                      <h4 class="el-race-name">
+                        {areaLabel(race.area)}
+                        {!isZh && (
+                          <span class="el-race-orig" lang="zh-Hant">
+                            {race.area}
+                          </span>
+                        )}
+                      </h4>
+                      <span class="el-race-count">
+                        {fill(up.candidates.raceCount, {
+                          n: race.candidates.length,
+                        })}
+                      </span>
+                    </header>
+                    <ul class="el-cands el-reset">
+                      {orderedCandidates(race).map((c) => (
+                        <li class="el-cand">
+                          <span class="el-cand-info">
+                            {c.number != null && (
+                              <span class="el-cand-no">
+                                {fill(up.candidates.numberLabel, {
+                                  n: c.number,
+                                })}
+                              </span>
+                            )}
+                            <span
+                              class="el-cand-name"
+                              lang={isZh ? undefined : 'zh-Hant'}
+                            >
+                              {c.name}
+                            </span>
+                            <span
+                              class="el-cand-party"
+                              lang={
+                                isZh || partyLabel(c.party) !== c.party
+                                  ? undefined
+                                  : 'zh-Hant'
+                              }
+                            >
+                              {partyLabel(c.party)}
+                            </span>
+                            {c.incumbent && (
+                              <span class="el-tag">
+                                {up.candidates.incumbent}
+                              </span>
+                            )}
+                          </span>
+                          {c.article ? (
+                            <a
+                              href={articleHref(c.article)}
+                              class="el-cand-act is-article"
+                              aria-label={fill(up.candidates.readArticleAria, {
+                                name: c.name,
+                              })}
+                            >
+                              {up.candidates.readArticle}
+                              <span aria-hidden="true">→</span>
+                            </a>
+                          ) : (
+                            <a
+                              href={contributeHref}
+                              class="el-cand-act is-contribute"
+                              aria-label={fill(up.candidates.contributeAria, {
+                                name: c.name,
+                              })}
+                            >
+                              <span aria-hidden="true">＋</span>
+                              {up.candidates.contribute}
+                            </a>
+                          )}
+                        </li>
+                      ))}
+                    </ul>
+                  </article>
+                ))}
+              </div>
+            </div>
+          ))
+        }
+
+        <aside class="el-invite" aria-labelledby="h-invite">
+          <h3 id="h-invite" class="el-invite-title">
+            {up.candidates.invite.title}
+          </h3>
+          <p class="el-invite-body">
+            {
+              fill(up.candidates.invite.body, {
+                total: totalCandidates,
+                linked: linkedCandidates,
+              })
+            }
+          </p>
+          <div class="el-btns">
+            <a href={contributeHref} class="el-btn el-btn-primary">
+              {up.candidates.invite.contributeCta}
+            </a>
+            <a
+              href={proposeHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="el-btn el-btn-ghost"
+            >
+              {up.candidates.invite.proposeCta}
+            </a>
+          </div>
+        </aside>
       </div>
     </section>
 
-    <!-- Offices -->
-    <section class="bg-white py-16 md:py-24">
-      <div class="mx-auto max-w-[1080px] px-6">
-        <div class="mb-12 text-center">
-          <h2
-            class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
-            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-          >
-            {copy.offices.title}
-          </h2>
-          <p
-            class="mx-auto max-w-[640px] text-base leading-[1.75] text-[#52525b]"
-          >
-            {copy.offices.intro}
-          </p>
+    <!-- 02 怎麼投票（七題全部展開） -->
+    <section
+      id="how-to-vote"
+      class="el-section anchor-section"
+      aria-labelledby="h-vote"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">02</p>
+        <div class="el-sec-head">
+          <h2 id="h-vote" class="el-h2">{up.howToVote.title}</h2>
+          <p class="el-sec-desc">{up.howToVote.intro}</p>
         </div>
-
-        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="el-faqs">
           {
-            copy.offices.items.map((e) => (
-              <div class="group rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 transition-all duration-[200ms] hover:-translate-y-1 hover:border-[#d1d5db] hover:shadow-[0_8px_24px_rgba(0,0,0,0.06)]">
-                <div class="mb-3 flex items-baseline justify-between gap-3">
-                  <h3
-                    class="text-lg font-semibold text-[#1f2937]"
-                    style="font-family: 'Noto Serif TC', serif;"
-                  >
-                    {e.name}
-                  </h3>
-                  <span
-                    class="text-3xl font-bold tabular-nums"
-                    style={`color: ${e.accent}`}
-                  >
-                    {e.count.toLocaleString()}
-                  </span>
-                </div>
-                <p class="text-sm leading-[1.65] text-[#6b7280]">{e.desc}</p>
-              </div>
+            faqItems.map((f, i) => (
+              <article id={`vote-${f.id}`} class="el-faq">
+                <p class="el-faq-no" aria-hidden="true">
+                  Q{i + 1}
+                </p>
+                <h3 class="el-faq-q">{f.q}</h3>
+                <p class="el-faq-a">{f.a}</p>
+                <p class="el-faq-src" set:html={faqSourceHtml(f.links)} />
+              </article>
             ))
           }
         </div>
-
-        <p class="mt-8 text-center text-xs italic text-[#9ca3af]">
-          {copy.offices.sourceNote}
-        </p>
       </div>
     </section>
 
-    <!-- 選務時程（中選會第 622 次委員會議決議） -->
-    <section class="bg-white py-16 md:py-20">
-      <div class="mx-auto max-w-[760px] px-6">
-        <div class="mb-10 text-center">
-          <h2
-            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[1.875rem]"
-            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-          >
-            {copy.timeline.title}
-          </h2>
-          <p class="text-sm text-[#78716c]">{copy.timeline.subtitle}</p>
+    <!-- 03 同日公投：另一張票，石板灰底；完全中立，只列程序事實 -->
+    <section
+      id="referendum"
+      class="el-section el-section--slate anchor-section"
+      aria-labelledby="h-referendum"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">03</p>
+        <div class="el-ref-grid">
+          <div>
+            <p class="el-kicker">{up.referendum.eyebrow}</p>
+            <h2 id="h-referendum" class="el-h2">{up.referendum.title}</h2>
+            <p class="el-sec-desc">{up.referendum.lead}</p>
+            <figure class="el-ref-q">
+              <figcaption class="el-ref-q-label">
+                {up.referendum.questionLabel}
+              </figcaption>
+              <p class="el-ref-text" lang="zh-Hant">
+                「{referendum.question}」
+              </p>
+              {
+                up.referendum.translation && (
+                  <div class="el-ref-tr">
+                    <p class="el-ref-tr-label">
+                      {up.referendum.translationLabel}
+                    </p>
+                    <p class="el-ref-tr-text">{up.referendum.translation}</p>
+                  </div>
+                )
+              }
+            </figure>
+          </div>
+          <dl class="el-ref-facts">
+            {
+              up.referendum.facts.map((fact) => (
+                <div class="el-ref-fact">
+                  <dt>{fact.label}</dt>
+                  <dd>{fact.text}</dd>
+                </div>
+              ))
+            }
+          </dl>
         </div>
+        <div class="el-ref-foot">
+          <p>{up.referendum.neutral}</p>
+          <p set:html={referendumSourceHtml} />
+        </div>
+      </div>
+    </section>
 
-        <ol class="relative border-l-[1.5px] border-[#e7d9b8] pl-6">
+    <!-- 04 選務時程（中選會第 622 次委員會議決議） -->
+    <section
+      id="timeline"
+      class="el-section anchor-section"
+      aria-labelledby="h-timeline"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">04</p>
+        <div class="el-sec-head">
+          <h2 id="h-timeline" class="el-h2">{copy.timeline.title}</h2>
+          <p class="el-sec-desc">{copy.timeline.subtitle}</p>
+        </div>
+        <ol class="el-steps">
           {
             copy.timeline.items.map((m, i) => {
               const isDone = m.iso < todayIso;
               const isNext = i === nextMilestoneIdx;
+              const state = isDone ? 'is-done' : isNext ? 'is-next' : 'is-todo';
               return (
-                <li class="relative mb-6 last:mb-0">
-                  <span
-                    class={`absolute -left-[31px] top-1 block h-2.5 w-2.5 rounded-full border-2 ${
-                      isDone
-                        ? 'border-[#15803d] bg-[#15803d]'
-                        : isNext
-                          ? 'border-[#7c2d12] bg-[#fef2ec]'
-                          : 'border-[#d1d5db] bg-white'
-                    }`}
-                  />
-                  <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-                    <span
-                      class={`font-mono text-sm tabular-nums ${
-                        isDone
-                          ? 'text-[#15803d]'
-                          : isNext
-                            ? 'font-semibold text-[#7c2d12]'
-                            : 'text-[#6b7280]'
-                      }`}
-                    >
-                      {m.date}
-                    </span>
-                    <span
-                      class={`text-base ${
-                        isDone
-                          ? 'text-[#6b7280]'
-                          : isNext
-                            ? 'font-semibold text-[#1f2937]'
-                            : 'text-[#374151]'
-                      }`}
-                    >
-                      {m.label}
-                    </span>
+                <li
+                  class={`el-step ${state}`}
+                  aria-current={isNext ? 'step' : undefined}
+                >
+                  <span class="el-step-date">{m.date}</span>
+                  <span class="el-step-dot" aria-hidden="true" />
+                  <span class="el-step-label">
+                    {m.label}
                     {isDone && (
-                      <span class="rounded-full bg-[#f0fdf4] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#15803d]">
-                        ✓ {copy.timeline.doneLabel}
-                      </span>
+                      <span class="el-sr">（{copy.timeline.doneLabel}）</span>
                     )}
-                    {isNext && (
-                      <span class="rounded-full bg-[#fef3c7] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#92400e]">
-                        {copy.timeline.nextLabel}
-                      </span>
-                    )}
-                  </div>
+                  </span>
+                  {isNext && (
+                    <span class="el-step-badge">{copy.timeline.nextLabel}</span>
+                  )}
                 </li>
               );
             })
           }
         </ol>
+        <div class="el-steps-foot">
+          <a
+            href={`${langPrefix}/elections/2026/timeline/`}
+            class="el-more-link"
+          >
+            {up.timeline.fullLink}
+            <span aria-hidden="true">→</span>
+          </a>
+          <p class="el-note">{copy.timeline.sourceNote}</p>
+        </div>
+      </div>
+    </section>
 
-        <p class="mt-8 text-center text-xs italic text-[#9ca3af]">
-          {copy.timeline.sourceNote}
+    <!-- 05 九種職位（正式名額；數字全部用主文字色） -->
+    <section
+      id="offices"
+      class="el-section anchor-section"
+      aria-labelledby="h-offices"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">05</p>
+        <div class="el-sec-head">
+          <h2 id="h-offices" class="el-h2">{copy.offices.title}</h2>
+          <p class="el-sec-desc">{copy.offices.intro}</p>
+        </div>
+        <p class="el-total">
+          <span class="el-total-label">{up.offices.totalPrefix}</span>
+          <span class="el-total-num">
+            {fmt(electionsData.totalElected.count)}
+          </span>
+          <span class="el-total-unit">{up.offices.totalSuffix}</span>
+          <a
+            href={electionsData.totalElected.source}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="el-inline-link el-total-src">{up.offices.totalSource}</a
+          >
+        </p>
+        <ul class="el-offices el-reset">
+          {
+            officeRows.map((e) => (
+              <li class="el-office">
+                <h3 class="el-office-name">{e.name}</h3>
+                <p class="el-office-count">
+                  {e.estimate && (
+                    <span class="el-office-approx">
+                      {up.offices.approxPrefix}
+                    </span>
+                  )}
+                  {fmt(e.count)}
+                </p>
+                <p class="el-office-desc">
+                  {e.desc}
+                  {e.estimate && (
+                    <span class="el-tag el-tag--inline">
+                      {up.offices.estimateLabel}
+                    </span>
+                  )}
+                </p>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="el-note el-note--after">{copy.offices.sourceNote}</p>
+      </div>
+    </section>
+
+    <!-- 06 專區頁面（四個子頁；已上線的整張卡是連結） -->
+    <section
+      id="subpages"
+      class="el-section anchor-section"
+      aria-labelledby="h-subpages"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">06</p>
+        <div class="el-sec-head">
+          <h2 id="h-subpages" class="el-h2">{up.subpages.title}</h2>
+          <p class="el-sec-desc">{up.subpages.subtitle}</p>
+        </div>
+        <ul class="el-pages el-reset">
+          {
+            copy.roadmap.items.map((item, i) => {
+              const slug = roadmapSlugs[i];
+              const live = liveSubpages.has(slug);
+              return (
+                <li>
+                  {live ? (
+                    <a
+                      href={`${langPrefix}/elections/2026/${slug}/`}
+                      class="el-page is-live"
+                    >
+                      <span class="el-page-top">
+                        <svg
+                          class="el-icon el-page-icon"
+                          viewBox="0 0 24 24"
+                          aria-hidden="true"
+                        >
+                          {iconPaths[slug].map((d) => (
+                            <path d={d} />
+                          ))}
+                        </svg>
+                        <span class="el-status is-live">
+                          {up.subpages.live}
+                        </span>
+                      </span>
+                      <span class="el-page-title">{item.title}</span>
+                      <span class="el-page-desc">{item.desc}</span>
+                      <span class="el-page-cta">
+                        {roadmapCta[upLang] ?? roadmapCta.en}{' '}
+                        <span aria-hidden="true">→</span>
+                      </span>
+                    </a>
+                  ) : (
+                    <div class="el-page is-wip">
+                      <span class="el-page-top">
+                        <svg
+                          class="el-icon el-page-icon"
+                          viewBox="0 0 24 24"
+                          aria-hidden="true"
+                        >
+                          {iconPaths[slug].map((d) => (
+                            <path d={d} />
+                          ))}
+                        </svg>
+                        <span class="el-status is-wip">{up.subpages.wip}</span>
+                      </span>
+                      <span class="el-page-title">{item.title}</span>
+                      <span class="el-page-desc">{item.desc}</span>
+                    </div>
+                  )}
+                </li>
+              );
+            })
+          }
+        </ul>
+      </div>
+    </section>
+
+    <!-- 07 延伸閱讀與公民工具 -->
+    <section
+      id="further"
+      class="el-section anchor-section"
+      aria-labelledby="h-further"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">07</p>
+        <div class="el-sec-head">
+          <h2 id="h-further" class="el-h2">{up.further.title}</h2>
+        </div>
+        <div class="el-further">
+          <div>
+            <h3 class="el-col-title">{copy.related.title}</h3>
+            <p class="el-col-intro">{copy.related.intro}</p>
+            <ul class="el-list el-reset">
+              {
+                copy.related.articles.map((a) => (
+                  <li>
+                    <a href={a.href} class="el-list-link">
+                      <span class="el-list-title">{a.title}</span>
+                      <span class="el-list-desc">{a.desc}</span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+          <div>
+            <h3 class="el-col-title">{copy.resources.title}</h3>
+            <p class="el-col-intro">{copy.resources.intro}</p>
+            <ul class="el-list el-reset">
+              {
+                copy.resources.items.map((r) => (
+                  <li>
+                    <a
+                      href={r.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="el-list-link no-external-icon"
+                    >
+                      <span class="el-list-title">
+                        {r.name}
+                        <span class="el-ext" aria-hidden="true">
+                          ↗
+                        </span>
+                      </span>
+                      <span class="el-list-desc">{r.desc}</span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 08 關於本專區：Taiwan.md 的角色＋怎麼驗證 -->
+    <section
+      id="about"
+      class="el-section el-section--about anchor-section"
+      aria-labelledby="h-about"
+    >
+      <div class="el-wrap">
+        <p class="el-sec-no" aria-hidden="true">08</p>
+        <div class="el-sec-head">
+          <h2 id="h-about" class="el-h2">{up.about.title}</h2>
+        </div>
+        <div class="el-about-grid">
+          <div>
+            <h3 class="el-col-title">{copy.role.title}</h3>
+            <p class="el-lead">{copy.role.p1}</p>
+            <p class="el-about-p">{copy.role.p2}</p>
+            <p class="el-about-p">{copy.role.p3}</p>
+            <p class="el-about-p">{copy.role.p4}</p>
+            <div class="el-btns">
+              <a
+                href={copy.related.articles[0].href}
+                class="el-btn el-btn-primary"
+              >
+                {copy.role.primaryCta}
+              </a>
+              <a
+                href={copy.related.articles[2].href}
+                class="el-btn el-btn-ghost"
+              >
+                {copy.role.secondaryCta}
+              </a>
+            </div>
+          </div>
+          <div class="el-verify">
+            <h3 class="el-col-title">{copy.verify.title}</h3>
+            <ul class="el-checks el-reset">
+              <li>
+                {copy.verify.domainPrefix}
+                <a href="https://taiwan.md/" class="el-inline-link el-domain"
+                  >https://taiwan.md/</a
+                >{copy.verify.domainSuffix}
+              </li>
+              <li>{copy.verify.gitLog}</li>
+              <li>{copy.verify.attribution}</li>
+              <li>
+                {copy.verify.factCheckPrefix}{' '}
+                <a
+                  href="https://tfc-taiwan.org.tw/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="el-inline-link">{tfcName}</a
+                >{' '}
+                {copy.verify.factCheckJoin}{' '}
+                <a
+                  href="https://cofacts.tw/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="el-inline-link">{cofactsName}</a
+                >{copy.verify.factCheckSuffix}
+              </li>
+            </ul>
+            <div class="el-about-meta">
+              <p>
+                {copy.verify.mvp}{up.lastUpdated}<time
+                  datetime={electionsData.lastVerified}
+                  >{electionsData.lastVerified}</time
+                >
+              </p>
+              <p>{copy.verify.roadmap}</p>
+            </div>
+          </div>
+        </div>
+        <p class="el-tagline">
+          {copy.verify.footerPrefix}
+          {copy.verify.footerEmphasis}
         </p>
       </div>
     </section>
+  </div>
 
-    <!-- 持續更新中 (M3-M5 占位) -->
-    <section class="bg-[#fdfaf2] py-16 md:py-20">
-      <div class="mx-auto max-w-[1080px] px-6">
-        <div class="mb-10 text-center">
-          <h2
-            class="mb-3 text-[1.5rem] font-light text-[#1f2937] md:text-[1.875rem]"
-            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-          >
-            {copy.roadmap.title}
-          </h2>
-          <p class="text-sm text-[#78716c]">{copy.roadmap.subtitle}</p>
-        </div>
-
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {
-            copy.roadmap.items.map((item) => (
-              <div class="rounded-xl border-[1.5px] border-dashed border-[#d4c5a0] bg-white/60 p-5">
-                <div class="mb-2 text-2xl">{item.icon}</div>
-                <h3 class="mb-1.5 text-base font-semibold text-[#1f2937]">
-                  {item.title}
-                </h3>
-                <p class="mb-3 text-xs leading-[1.6] text-[#6b7280]">
-                  {item.desc}
-                </p>
-                <span class="inline-block rounded-full bg-[#fef3c7] px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#92400e]">
-                  {item.eta}
-                </span>
-              </div>
-            ))
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- 既有策展層 -->
-    <section class="bg-white py-16 md:py-24">
-      <div class="mx-auto max-w-[1080px] px-6">
-        <div class="mb-12 text-center">
-          <h2
-            class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
-            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-          >
-            {copy.related.title}
-          </h2>
-          <p
-            class="mx-auto max-w-[640px] text-base leading-[1.75] text-[#52525b]"
-          >
-            {copy.related.intro}
-          </p>
-        </div>
-
-        <div class="grid gap-4 sm:grid-cols-2">
-          {
-            copy.related.articles.map((a) => (
-              <a
-                href={a.href}
-                class="group block rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#7c2d12]/30 hover:bg-[#fef9ed] hover:shadow-[0_4px_16px_rgba(124,45,18,0.06)]"
-              >
-                <div class="mb-2 flex items-start justify-between gap-3">
-                  <h3
-                    class="text-lg font-semibold text-[#1f2937] group-hover:text-[#7c2d12]"
-                    style="font-family: 'Noto Serif TC', serif;"
-                  >
-                    {a.title}
-                  </h3>
-                  <span class="shrink-0 rounded-full border border-[#d1d5db] bg-[#f8fafc] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#6b7280]">
-                    {a.badge}
-                  </span>
-                </div>
-                <p class="text-sm leading-[1.65] text-[#6b7280]">{a.desc}</p>
-              </a>
-            ))
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- 公民工具 -->
-    <section class="bg-[#fdfaf2] py-16 md:py-24">
-      <div class="mx-auto max-w-[1080px] px-6">
-        <div class="mb-12 text-center">
-          <h2
-            class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
-            style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-          >
-            {copy.resources.title}
-          </h2>
-          <p
-            class="mx-auto max-w-[640px] text-base leading-[1.75] text-[#52525b]"
-          >
-            {copy.resources.intro}
-          </p>
-        </div>
-
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {
-            copy.resources.items.map((r) => (
-              <a
-                href={r.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="group block rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-6 no-underline transition-all duration-[200ms] hover:-translate-y-px hover:border-[#2d5016]/30 hover:bg-[#f0fdf4] hover:shadow-[0_4px_16px_rgba(45,80,22,0.08)]"
-              >
-                <div class="mb-2 flex items-start justify-between gap-3">
-                  <div class="flex items-center gap-2">
-                    <span class="text-xl">{r.icon}</span>
-                    <h3 class="text-base font-semibold text-[#1f2937] group-hover:text-[#2d5016]">
-                      {r.name}
-                    </h3>
-                  </div>
-                  <span class="text-sm text-[#9ca3af] group-hover:text-[#2d5016]">
-                    ↗
-                  </span>
-                </div>
-                <p class="text-xs leading-[1.65] text-[#6b7280]">{r.desc}</p>
-              </a>
-            ))
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- Footer attribution -->
-    <section class="bg-[#1f2937] py-16 text-[#f4f0ea]">
-      <div class="mx-auto max-w-[760px] px-6">
-        <h3
-          class="mb-6 text-center text-xl font-semibold text-[#fbf3df]"
-          style="font-family: 'Noto Serif TC', serif;"
-        >
-          {copy.verify.title}
-        </h3>
-        <ul class="space-y-3 text-sm leading-[1.75] text-[#d1d5db]">
-          <li class="flex gap-3">
-            <span class="text-[#4fd1b0]">→</span>
-            <span>
-              {copy.verify.domainPrefix}
-              <a
-                href="https://taiwan.md/"
-                class="font-mono text-[#fbbf24] underline decoration-[#fbbf24]/40 underline-offset-2 hover:text-[#fcd34d]"
-                >https://taiwan.md/</a
-              >{copy.verify.domainSuffix}
-            </span>
-          </li>
-          <li class="flex gap-3">
-            <span class="text-[#4fd1b0]">→</span>
-            <span>{copy.verify.gitLog}</span>
-          </li>
-          <li class="flex gap-3">
-            <span class="text-[#4fd1b0]">→</span>
-            <span>{copy.verify.attribution}</span>
-          </li>
-          <li class="flex gap-3">
-            <span class="text-[#4fd1b0]">→</span>
-            <span>
-              {copy.verify.factCheckPrefix}
-              {' '}
-              <a
-                href="https://tfc-taiwan.org.tw/"
-                target="_blank"
-                class="text-[#fbbf24] underline decoration-[#fbbf24]/40 underline-offset-2 hover:text-[#fcd34d]"
-                >{copy.resources.items[4].name}</a
-              >
-              {' '}
-              {copy.verify.factCheckJoin}
-              {' '}
-              <a
-                href="https://cofacts.tw/"
-                target="_blank"
-                class="text-[#fbbf24] underline decoration-[#fbbf24]/40 underline-offset-2 hover:text-[#fcd34d]"
-                >{copy.resources.items[5].name}</a
-              >{copy.verify.factCheckSuffix}
-            </span>
-          </li>
-        </ul>
-
-        <div
-          class="mt-10 border-t border-[#374151] pt-6 text-center text-xs text-[#9ca3af]"
-        >
-          <p>{copy.verify.mvp}</p>
-          <p class="mt-1">{copy.verify.roadmap}</p>
-          <p class="mt-4 text-base text-[#f4f0ea]">
-            {copy.verify.footerPrefix}
-            <span class="italic">{copy.verify.footerEmphasis}</span>
-          </p>
-        </div>
-      </div>
-    </section>
-  </main>
+  <script is:inline type="application/ld+json" set:html={eventJsonLd} />
+  <script is:inline type="application/ld+json" set:html={faqJsonLd} />
 </Layout>
 
+<script>
+  // 1. 候選人篩選：沒有 JS 時按鈕維持 hidden，兩組與 22 個縣市標籤全部顯示。
+  const filter = document.querySelector<HTMLElement>('[data-cand-filter]');
+  if (filter) {
+    filter.hidden = false;
+    const groups = document.querySelectorAll<HTMLElement>('[data-cand-group]');
+    const jumps = document.querySelectorAll<HTMLElement>('[data-jump-group]');
+    const buttons = filter.querySelectorAll<HTMLButtonElement>(
+      'button[data-filter]',
+    );
+    filter.addEventListener('click', (event) => {
+      const target = event.target as HTMLElement | null;
+      const btn = target?.closest<HTMLButtonElement>('button[data-filter]');
+      if (!btn) return;
+      const key = btn.dataset.filter;
+      buttons.forEach((b) =>
+        b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'),
+      );
+      const shown = (group?: string) => key === 'all' || group === key;
+      groups.forEach((g) => {
+        g.hidden = !shown(g.dataset.candGroup);
+      });
+      jumps.forEach((j) => {
+        j.hidden = !shown(j.dataset.jumpGroup);
+      });
+    });
+  }
+
+  // 2. 章節導覽：跟著站台表頭（含語言橫幅）的實際高度貼齊；
+  //    IntersectionObserver 標出目前段落；手機橫向捲動時只動導覽本身的
+  //    scrollLeft（不用 scrollIntoView，避免整頁上下跳）。
+  const nav = document.querySelector<HTMLElement>('[data-el-nav]');
+  if (nav) {
+    const scroller = nav.querySelector<HTMLElement>('[data-el-nav-scroll]');
+    const links = Array.from(
+      nav.querySelectorAll<HTMLAnchorElement>('a[data-nav-id]'),
+    );
+    const sections = links
+      .map((l) => document.getElementById(l.dataset.navId ?? ''))
+      .filter((s): s is HTMLElement => s !== null);
+
+    const headerBox = document.getElementById('header-container');
+    const syncTop = () => {
+      if (!headerBox) return;
+      const bottom = Math.round(headerBox.getBoundingClientRect().bottom);
+      if (bottom > 0) nav.style.setProperty('--el-nav-top', `${bottom}px`);
+    };
+    syncTop();
+    if (headerBox && typeof ResizeObserver !== 'undefined') {
+      new ResizeObserver(syncTop).observe(headerBox);
+    }
+    window.addEventListener('resize', syncTop, { passive: true });
+
+    const reduceMotion = window.matchMedia(
+      '(prefers-reduced-motion: reduce)',
+    ).matches;
+    let current: string | null = null;
+    const setCurrent = (id: string | null) => {
+      if (id === current) return;
+      current = id;
+      links.forEach((l) => {
+        if (l.dataset.navId === id) l.setAttribute('aria-current', 'true');
+        else l.removeAttribute('aria-current');
+      });
+      const active = links.find((l) => l.dataset.navId === id);
+      if (active && scroller && scroller.scrollWidth > scroller.clientWidth) {
+        const left =
+          active.offsetLeft - (scroller.clientWidth - active.offsetWidth) / 2;
+        scroller.scrollTo({
+          left: Math.max(0, left),
+          behavior: reduceMotion ? 'auto' : 'smooth',
+        });
+      }
+    };
+
+    if ('IntersectionObserver' in window && sections.length > 0) {
+      const headerBottom = headerBox?.getBoundingClientRect().bottom ?? 56;
+      const bandTop = Math.round(headerBottom + nav.offsetHeight + 24);
+      const visible = new Set<string>();
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) => {
+            if (e.isIntersecting) visible.add(e.target.id);
+            else visible.delete(e.target.id);
+          });
+          const first = sections.find((s) => visible.has(s.id));
+          if (first) setCurrent(first.id);
+          else if (sections[0].getBoundingClientRect().top > 0)
+            setCurrent(null);
+        },
+        // 觀察帶的上緣＝表頭＋導覽＋24px，比錨點落點（約 120px）再低一點，
+        // 點導覽跳過去時，上一段的底邊已經離開觀察帶。
+        { rootMargin: `-${bandTop}px 0px -55% 0px` },
+      );
+      sections.forEach((s) => observer.observe(s));
+    }
+  }
+</script>
+
 <style>
-  .elections-2026 .hero-title {
-    letter-spacing: -0.02em;
+  /* ── 2026-10 改版：一套安靜的選民指南版面 ─────────────────────────────
+   * 全部規則都在 .elections-2026 範圍內（Astro scoped）。這裡的規則不在
+   * @layer 裡，會蓋過 global.css @layer base 的連結底線與清單樣式，所以
+   * 每種連結都自己寫 color／border-bottom。字體：標題用襯線（字重 600／700，
+   * 不用 light），介面字用 --font-interface；全頁沒有斜體。 */
+  .elections-2026 {
+    --el-bg: #faf7f0;
+    --el-card: #fff;
+    --el-border: #e7dfcc;
+    --el-rule: #efe8d8;
+    --el-ink: #1c1917;
+    --el-ink-2: #57534e;
+    /* 規格的淡色 #78716c 在 #faf7f0 上只有 4.48:1，微調到 4.97:1 */
+    --el-ink-3: #716a65;
+    --el-accent: #7c2d12;
+    --el-accent-soft: #fbefe6;
+    --el-done: #3f6212;
+    --el-slate: #f1f2f4;
+    --el-about: #f3ecdc;
+    --el-serif: 'jf-lanyangming', var(--font-title, 'Noto Serif TC'), serif;
+    --el-sans: var(--font-interface, 'Noto Sans TC'), sans-serif;
+    --el-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+    background: var(--el-bg);
+    color: var(--el-ink);
+    font-size: 16px;
+    line-height: 1.8;
+    font-style: normal;
   }
-  .elections-2026 h2 {
-    letter-spacing: -0.01em;
+  .elections-2026 [hidden] {
+    display: none !important;
   }
-  /* Soft top blur for hero — subtle texture */
-  .hero::before {
+  /* html 已有 scroll-padding-top（表頭高＋16px，見 global.css），兩者相加：
+   * 段落落在約 120px（表頭 56＋導覽 48＋留白），卡片再多留一點。 */
+  .elections-2026 .anchor-section {
+    scroll-margin-top: 48px;
+  }
+  .el-nowrap {
+    white-space: nowrap;
+  }
+  .el-reset {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .el-sr {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .el-wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .el-icon {
+    width: 24px;
+    height: 24px;
+    flex: none;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.75;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  /* ── 連結（每種都蓋掉 base 的 border-bottom 底線） ── */
+  .elections-2026 :global(.el-inline-link) {
+    color: var(--el-accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(124, 45, 18, 0.3);
+    padding-bottom: 0;
+  }
+  .elections-2026 :global(.el-inline-link:hover) {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+  .elections-2026 :global(.el-inline-link--slate) {
+    color: #334155;
+    border-bottom-color: rgba(51, 65, 85, 0.35);
+  }
+  .elections-2026 :global(.el-inline-link--slate:hover) {
+    color: #1e293b;
+    border-bottom-color: #1e293b;
+  }
+
+  /* ── 00 開場 ── */
+  .el-hero {
+    position: relative;
+    padding: 40px 0 48px;
+  }
+  .el-hero::before {
     content: '';
     position: absolute;
     inset: 0;
+    pointer-events: none;
     background-image:
       radial-gradient(
-        circle at 20% 30%,
+        circle at 15% 25%,
         rgba(124, 45, 18, 0.05) 0%,
-        transparent 50%
+        transparent 45%
       ),
       radial-gradient(
-        circle at 80% 70%,
+        circle at 85% 75%,
         rgba(146, 64, 14, 0.04) 0%,
-        transparent 50%
+        transparent 45%
       );
-    pointer-events: none;
+  }
+  .el-hero-grid {
+    position: relative;
+    display: grid;
+    gap: 28px;
+    align-items: center;
+  }
+  .el-eyebrow {
+    margin: 0 0 12px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--el-accent);
+  }
+  .el-h1 {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: var(--el-ink);
+  }
+  .el-h1-em {
+    color: var(--el-accent);
+  }
+  .el-hero-sub {
+    margin: 14px 0 0;
+    max-width: 36em;
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .el-facts {
+    margin-top: 28px;
+    display: grid;
+    gap: 10px;
+  }
+  .el-fact {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 14px 16px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+  }
+  .el-fact .el-icon {
+    color: var(--el-accent);
+    margin-top: 2px;
+  }
+  .el-fact-label {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--el-ink-3);
+  }
+  .el-fact-value {
+    margin: 2px 0 0;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.55;
+    color: var(--el-ink);
+  }
+
+  .el-count {
+    padding: 24px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 16px;
+    box-shadow:
+      0 1px 2px rgba(28, 25, 23, 0.04),
+      0 10px 28px rgba(124, 45, 18, 0.06);
+  }
+  .el-count-label {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: var(--el-ink-2);
+  }
+  .el-count-num {
+    margin: 6px 0 0;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    color: var(--el-accent);
+  }
+  .el-count-days {
+    font-family: var(--el-serif);
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+  }
+  .el-count-unit {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .el-count-date {
+    margin: 10px 0 0;
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-count-recent {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--el-accent);
+  }
+  .el-count-next {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-count-next-label,
+  .el-progress-label {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--el-ink-3);
+  }
+  .el-count-next-body {
+    margin: 2px 0 0;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.6;
+    color: var(--el-ink);
+  }
+  .el-count-next-date {
+    margin-inline-end: 8px;
+    color: var(--el-accent);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-progress {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-progress-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+  }
+  .el-progress-link {
+    flex: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-accent);
+    border-bottom: 1px solid transparent;
+    padding-bottom: 0;
+  }
+  .el-progress-link:hover {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+  .el-progress-bar {
+    margin-top: 8px;
+    height: 6px;
+    border-radius: 999px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .el-progress-bar > span {
+    display: block;
+    height: 100%;
+    border-radius: inherit;
+    background: var(--el-done);
+  }
+  .el-progress-count {
+    margin: 6px 0 0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ── 章節導覽 ── */
+  .el-nav {
+    position: sticky;
+    top: var(--el-nav-top, var(--header-h, 56px));
+    z-index: 30;
+    background: rgba(250, 247, 240, 0.92);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    border-top: 1px solid var(--el-rule);
+    border-bottom: 1px solid var(--el-border);
+    font-family: var(--el-sans);
+  }
+  .el-nav-scroll {
+    position: relative;
+    overflow-x: auto;
+    margin: 0 -20px;
+    padding: 0 20px;
+    scroll-snap-type: x proximity;
+    scroll-padding-inline: 20px;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .el-nav-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  .el-nav-list {
+    display: flex;
+    gap: 4px;
+    height: 48px;
+    white-space: nowrap;
+  }
+  .el-nav-list > li {
+    display: flex;
+    flex: none;
+    scroll-snap-align: start;
+  }
+  .el-nav-link {
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    margin-bottom: -1px;
+    font-family: var(--el-sans);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    color: var(--el-ink-2);
+    border-bottom: 2px solid transparent;
+    transition:
+      color 0.15s,
+      border-color 0.15s;
+  }
+  .el-nav-link:hover {
+    color: var(--el-ink);
+    border-bottom-color: var(--el-border);
+  }
+  .el-nav-link[aria-current='true'] {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+
+  /* ── 段落通用 ── */
+  .el-section {
+    padding: 56px 0;
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-section--slate {
+    background: var(--el-slate);
+    border-top-color: #e2e5ea;
+  }
+  .el-section--about {
+    background: var(--el-about);
+    border-top-color: var(--el-border);
+  }
+  .el-sec-no {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 0 0 18px;
+    font-family: var(--el-mono);
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 0.08em;
+    color: var(--el-accent);
+  }
+  .el-sec-no::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--el-border);
+  }
+  .el-section--slate .el-sec-no::after {
+    background: #d9dde3;
+  }
+  .el-sec-head {
+    margin-bottom: 28px;
+  }
+  .el-h2 {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    color: var(--el-ink);
+  }
+  .el-sec-desc {
+    margin: 12px 0 0;
+    max-width: 640px;
+    font-size: 16px;
+    line-height: 1.8;
+    color: var(--el-ink-2);
+  }
+  .el-sec-meta {
+    margin: 10px 0 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-source-line {
+    margin: 4px 0 0;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .el-h3,
+  .el-col-title {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--el-ink);
+  }
+  .el-note {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--el-ink-3);
+  }
+  .el-note--after {
+    margin-top: 24px;
+  }
+  .el-tag {
+    display: inline-block;
+    padding: 0 6px;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--el-ink-2);
+    border: 1px solid #d6cdb8;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .el-tag--inline {
+    margin-inline-start: 6px;
+    vertical-align: 1px;
+  }
+  .el-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  .el-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 9px 16px;
+    font-family: var(--el-sans);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    border-radius: 8px;
+    text-decoration: none;
+    transition:
+      background-color 0.15s,
+      border-color 0.15s,
+      color 0.15s;
+  }
+  .el-btn-primary {
+    color: #fff;
+    background: var(--el-accent);
+    border: 1px solid var(--el-accent);
+  }
+  .el-btn-primary:hover {
+    color: #fff;
+    background: #67250e;
+    border-color: #67250e;
+  }
+  .el-btn-ghost {
+    color: var(--el-ink);
+    background: var(--el-card);
+    border: 1px solid #d6cdb8;
+  }
+  .el-btn-ghost:hover {
+    color: var(--el-accent);
+    border-color: var(--el-accent);
+  }
+
+  /* ── 01 候選人 ── */
+  .el-cand-tools {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin: 0 0 32px;
+    padding: 16px 0;
+    border-top: 1px solid var(--el-rule);
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .el-seg:not([hidden]) {
+    display: inline-flex;
+    align-self: flex-start;
+    gap: 2px;
+    padding: 3px;
+    background: #f1ebde;
+    border: 1px solid var(--el-border);
+    border-radius: 10px;
+  }
+  .el-seg-btn {
+    padding: 6px 14px;
+    font-family: var(--el-sans);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: var(--el-ink-2);
+    background: transparent;
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    transition:
+      background-color 0.15s,
+      color 0.15s;
+  }
+  .el-seg-btn:hover {
+    color: var(--el-ink);
+  }
+  .el-seg-btn[aria-pressed='true'] {
+    color: var(--el-ink);
+    background: var(--el-card);
+    box-shadow:
+      0 0 0 1px var(--el-border),
+      0 1px 2px rgba(28, 25, 23, 0.08);
+  }
+  .el-jump {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-width: 0;
+  }
+  .el-jump-label {
+    flex: none;
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-3);
+    white-space: nowrap;
+  }
+  .el-jump-list {
+    display: flex;
+    gap: 6px;
+    margin: 0 -20px;
+    padding: 2px 20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .el-jump-list::-webkit-scrollbar {
+    display: none;
+  }
+  .el-jump-list > li {
+    flex: none;
+  }
+  .el-jump-link {
+    display: inline-block;
+    padding: 2px 10px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-2);
+    white-space: nowrap;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 999px;
+    transition:
+      color 0.15s,
+      border-color 0.15s;
+  }
+  .el-jump-link:hover {
+    color: var(--el-accent);
+    border-color: rgba(124, 45, 18, 0.45);
+  }
+  .el-group + .el-group {
+    margin-top: 40px;
+  }
+  .el-group-head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 6px 16px;
+    margin-bottom: 16px;
+  }
+  .el-group-count {
+    margin-inline-start: 10px;
+    font-family: var(--el-sans);
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--el-ink-3);
+  }
+  .el-group-src {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.6;
+  }
+  .el-races {
+    columns: 1;
+    column-gap: 16px;
+  }
+  .el-race {
+    display: inline-block;
+    width: 100%;
+    margin: 0 0 16px;
+    padding: 16px 18px 6px;
+    break-inside: avoid;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+    scroll-margin-top: 64px;
+  }
+  .el-race:target {
+    border-color: var(--el-accent);
+    box-shadow: 0 0 0 3px var(--el-accent-soft);
+  }
+  .el-race-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .el-race-name {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--el-ink);
+  }
+  .el-race-orig {
+    margin-inline-start: 6px;
+    font-family: var(--el-sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--el-ink-3);
+  }
+  .el-race-count {
+    flex: none;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-cand {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    padding: 10px 0;
+  }
+  .el-cand + .el-cand {
+    border-top: 1px solid var(--el-rule);
+  }
+  .el-cand-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 2px 8px;
+    min-width: 0;
+  }
+  .el-cand-no {
+    font-family: var(--el-mono);
+    font-size: 13px;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-cand-name {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-ink);
+    overflow-wrap: anywhere;
+  }
+  .el-cand-party {
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--el-ink-2);
+  }
+  /* 條目動作：兩種同樣大小、同樣位置；只有顏色與底線樣式不同 */
+  .el-cand-act {
+    flex: none;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5;
+    white-space: nowrap;
+    padding-bottom: 1px;
+    transition:
+      color 0.15s,
+      border-color 0.15s;
+  }
+  .el-cand-act.is-article {
+    color: var(--el-accent);
+    border-bottom: 1px solid rgba(124, 45, 18, 0.35);
+  }
+  .el-cand-act.is-article:hover {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+  .el-cand-act.is-contribute {
+    color: var(--el-ink-2);
+    border-bottom: 1px dashed #a8a29e;
+  }
+  .el-cand-act.is-contribute:hover {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+  .el-invite {
+    margin-top: 24px;
+    padding: 24px;
+    background: var(--el-card);
+    border: 1.5px dashed rgba(124, 45, 18, 0.45);
+    border-radius: 14px;
+  }
+  .el-invite-title {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--el-ink);
+  }
+  .el-invite-body {
+    margin: 10px 0 0;
+    max-width: 720px;
+    font-size: 15px;
+    line-height: 1.8;
+    color: var(--el-ink-2);
+  }
+
+  /* ── 02 怎麼投票 ── */
+  .el-faqs {
+    display: grid;
+    gap: 16px;
+  }
+  .el-faq {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+    scroll-margin-top: 64px;
+  }
+  .el-faq-no {
+    margin: 0;
+    font-family: var(--el-mono);
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: 0.06em;
+    color: var(--el-accent);
+  }
+  .el-faq-q {
+    margin: 6px 0 0;
+    font-family: var(--el-sans);
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0;
+    color: var(--el-ink);
+  }
+  .el-faq-a {
+    margin: 8px 0 0;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #44403c;
+  }
+  .el-faq-src {
+    margin: auto 0 0;
+    padding-top: 14px;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--el-ink-3);
+  }
+
+  /* ── 03 同日公投 ── */
+  .el-ref-grid {
+    display: grid;
+    gap: 32px;
+  }
+  .el-kicker {
+    margin: 0 0 8px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #475569;
+  }
+  .el-ref-q {
+    margin: 24px 0 0;
+    padding: 20px 22px;
+    background: #fff;
+    border: 1px solid #dfe2e7;
+    border-left: 3px solid #64748b;
+    border-radius: 4px 12px 12px 4px;
+  }
+  .el-ref-q-label,
+  .el-ref-tr-label {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #5b6472;
+  }
+  .el-ref-text {
+    margin: 8px 0 0;
+    font-family: var(--el-serif);
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.65;
+    color: var(--el-ink);
+  }
+  .el-ref-tr {
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid #eceef1;
+  }
+  .el-ref-tr-text {
+    margin: 4px 0 0;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #374151;
+  }
+  .el-ref-facts {
+    margin: 0;
+    padding: 4px 20px;
+    background: #fff;
+    border: 1px solid #dfe2e7;
+    border-radius: 12px;
+  }
+  .el-ref-fact {
+    padding: 14px 0;
+  }
+  .el-ref-fact + .el-ref-fact {
+    border-top: 1px solid #eceef1;
+  }
+  .el-ref-fact dt {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #475569;
+  }
+  .el-ref-fact dd {
+    margin: 4px 0 0;
+    font-size: 15px;
+    line-height: 1.75;
+    color: var(--el-ink);
+  }
+  .el-ref-foot {
+    margin-top: 32px;
+    padding-top: 18px;
+    border-top: 1px solid #d9dde3;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #4b5563;
+  }
+  .el-ref-foot p {
+    margin: 0;
+  }
+  .el-ref-foot p + p {
+    margin-top: 6px;
+  }
+
+  /* ── 04 選務時程：手機／平板直式，桌機橫向步驟條 ── */
+  .el-steps {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .el-step {
+    position: relative;
+    padding: 0 0 22px 30px;
+  }
+  .el-step:last-child {
+    padding-bottom: 0;
+  }
+  .el-step::before {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 20px;
+    bottom: -2px;
+    width: 2px;
+    background: var(--el-border);
+  }
+  .el-step:last-child::before {
+    display: none;
+  }
+  .el-step.is-done::before {
+    background: var(--el-done);
+  }
+  .el-step-dot {
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 14px;
+    height: 14px;
+    box-sizing: border-box;
+    border: 2px solid #cfc6b3;
+    border-radius: 50%;
+    background: var(--el-bg);
+  }
+  .is-done .el-step-dot {
+    background: var(--el-done);
+    border-color: var(--el-done);
+  }
+  .is-next .el-step-dot {
+    background: var(--el-card);
+    border-color: var(--el-accent);
+    box-shadow: 0 0 0 4px var(--el-accent-soft);
+  }
+  .el-step-date {
+    display: block;
+    font-family: var(--el-mono);
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .is-done .el-step-date {
+    color: var(--el-done);
+  }
+  .is-next .el-step-date {
+    color: var(--el-accent);
+    font-weight: 600;
+  }
+  .el-step-label {
+    display: block;
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--el-ink-2);
+  }
+  .is-next .el-step-label {
+    font-weight: 600;
+    color: var(--el-ink);
+  }
+  .el-step-badge {
+    display: inline-block;
+    margin-top: 4px;
+    padding: 1px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.6;
+    color: var(--el-accent);
+    background: var(--el-accent-soft);
+    border-radius: 999px;
+  }
+  .el-steps-foot {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    margin-top: 36px;
+  }
+  .el-more-link {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-accent);
+    border-bottom: 1px solid rgba(124, 45, 18, 0.3);
+    padding-bottom: 1px;
+  }
+  .el-more-link:hover {
+    color: var(--el-accent);
+    border-bottom-color: var(--el-accent);
+  }
+
+  /* ── 05 九種職位 ── */
+  .el-total {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
+    margin: 0 0 24px;
+    padding: 18px 0;
+    border-top: 1px solid var(--el-rule);
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .el-total-label,
+  .el-total-unit {
+    font-size: 16px;
+    color: var(--el-ink-2);
+  }
+  .el-total-num {
+    font-family: var(--el-serif);
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+    color: var(--el-accent);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-total-src {
+    margin-inline-start: auto;
+    font-size: 13px;
+  }
+  .el-offices {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .el-office {
+    padding: 16px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+  }
+  .el-office-name {
+    margin: 0;
+    font-family: var(--el-sans);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.45;
+    letter-spacing: 0;
+    color: var(--el-ink);
+  }
+  .el-office-count {
+    margin: 6px 0 0;
+    font-family: var(--el-sans);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--el-ink);
+    font-variant-numeric: tabular-nums;
+  }
+  .el-office-approx {
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .el-office-desc {
+    margin: 6px 0 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-2);
+  }
+
+  /* ── 06 專區頁面 ── */
+  .el-pages {
+    display: grid;
+    gap: 16px;
+  }
+  .el-pages > li {
+    display: flex;
+  }
+  .el-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    color: var(--el-ink);
+    text-decoration: none;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+  }
+  a.el-page {
+    transition:
+      border-color 0.15s,
+      box-shadow 0.15s;
+  }
+  a.el-page:hover {
+    color: var(--el-ink);
+    border-color: rgba(124, 45, 18, 0.45);
+    box-shadow: 0 8px 24px rgba(124, 45, 18, 0.07);
+  }
+  .el-page.is-wip {
+    background: rgba(255, 255, 255, 0.55);
+  }
+  .el-page-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+  }
+  .el-page-icon {
+    color: var(--el-accent);
+  }
+  .is-wip .el-page-icon {
+    color: var(--el-ink-3);
+  }
+  .el-status {
+    padding: 1px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.6;
+    border-radius: 999px;
+  }
+  .el-status.is-live {
+    color: var(--el-done);
+    background: #eef3e2;
+  }
+  .el-status.is-wip {
+    color: var(--el-ink-2);
+    background: #f1ebde;
+  }
+  .el-page-title {
+    display: block;
+    font-family: var(--el-sans);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-ink);
+    transition: color 0.15s;
+  }
+  a.el-page:hover .el-page-title {
+    color: var(--el-accent);
+  }
+  .el-page-desc {
+    display: block;
+    margin-top: 6px;
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .el-page-cta {
+    margin-top: auto;
+    padding-top: 14px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-accent);
+  }
+
+  /* ── 07 延伸閱讀與公民工具 ── */
+  .el-further {
+    display: grid;
+    gap: 40px;
+  }
+  .el-col-intro {
+    margin: 8px 0 0;
+    font-size: 15px;
+    line-height: 1.75;
+    color: var(--el-ink-2);
+  }
+  .el-list {
+    margin-top: 16px;
+    border-top: 1px solid var(--el-border);
+  }
+  .el-list > li {
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .el-list-link {
+    display: block;
+    padding: 14px 0;
+    color: var(--el-ink);
+    border-bottom: 0;
+  }
+  .el-list-link:hover {
+    color: var(--el-ink);
+  }
+  .el-list-title {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--el-ink);
+    transition: color 0.15s;
+  }
+  .el-list-link:hover .el-list-title {
+    color: var(--el-accent);
+  }
+  .el-ext {
+    margin-inline-start: 4px;
+    font-weight: 400;
+    color: var(--el-ink-3);
+  }
+  .el-list-desc {
+    display: block;
+    margin-top: 2px;
+    font-size: 14px;
+    line-height: 1.65;
+    color: var(--el-ink-2);
+  }
+
+  /* ── 08 關於本專區 ── */
+  .el-about-grid {
+    display: grid;
+    gap: 36px;
+  }
+  .el-lead {
+    margin: 12px 0 0;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.75;
+    color: var(--el-ink);
+  }
+  .el-about-p {
+    margin: 14px 0 0;
+    font-size: 16px;
+    line-height: 1.85;
+    color: #44403c;
+  }
+  .el-verify {
+    align-self: start;
+    padding: 22px 24px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid var(--el-border);
+    border-radius: 12px;
+  }
+  .el-checks {
+    margin-top: 6px;
+  }
+  .el-checks > li {
+    position: relative;
+    margin-top: 10px;
+    padding-left: 18px;
+    font-size: 15px;
+    line-height: 1.75;
+    color: #44403c;
+  }
+  .el-checks > li::before {
+    content: '';
+    position: absolute;
+    left: 2px;
+    top: 0.72em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--el-accent);
+  }
+  .el-domain {
+    font-family: var(--el-mono);
+    font-size: 14px;
+  }
+  .el-about-meta {
+    margin-top: 20px;
+    padding-top: 14px;
+    border-top: 1px solid var(--el-border);
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .el-about-meta p {
+    margin: 0;
+  }
+  .el-about-meta p + p {
+    margin-top: 4px;
+  }
+  .el-tagline {
+    margin: 48px 0 0;
+    padding-top: 20px;
+    border-top: 1px solid var(--el-border);
+    font-size: 14px;
+    line-height: 1.7;
+    text-align: center;
+    color: var(--el-ink-2);
+  }
+
+  /* ── 斷點 ── */
+  @media (min-width: 640px) {
+    .el-facts {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .el-fact {
+      flex-direction: column;
+      gap: 10px;
+    }
+    .el-races {
+      columns: 2;
+    }
+    .el-pages {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (min-width: 768px) {
+    .el-wrap {
+      padding: 0 32px;
+    }
+    .el-nav-scroll {
+      margin: 0 -32px;
+      padding: 0 32px;
+      scroll-padding-inline: 32px;
+    }
+    .el-hero {
+      padding: 56px 0 64px;
+    }
+    .el-h1 {
+      font-size: 56px;
+    }
+    .el-count {
+      padding: 28px 32px;
+    }
+    .el-section {
+      padding: 80px 0;
+    }
+    .el-sec-head {
+      margin-bottom: 36px;
+    }
+    .el-h2 {
+      font-size: 34px;
+    }
+    .el-jump {
+      flex-direction: row;
+      align-items: baseline;
+      gap: 12px;
+    }
+    .el-jump-list {
+      flex-wrap: wrap;
+      margin: 0;
+      padding: 0;
+      overflow: visible;
+    }
+    .el-race {
+      padding: 18px 20px 8px;
+    }
+    .el-invite {
+      padding: 28px 32px;
+    }
+    .el-faqs {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .el-faq {
+      padding: 22px 24px;
+    }
+    .el-ref-q {
+      padding: 24px 28px;
+    }
+    .el-ref-text {
+      font-size: 24px;
+    }
+    .el-total-num {
+      font-size: 52px;
+    }
+    .el-offices {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+    .el-office {
+      padding: 18px 20px;
+    }
+    .el-office-count {
+      font-size: 28px;
+    }
+  }
+  @media (min-width: 1024px) {
+    .el-hero-grid {
+      grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+      gap: 56px;
+    }
+    .el-races {
+      columns: 3;
+    }
+    .el-ref-grid {
+      grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+      gap: 56px;
+      align-items: start;
+    }
+    .el-pages {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+    .el-further {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 56px;
+    }
+    .el-about-grid {
+      grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+      gap: 64px;
+    }
+
+    /* 時程橫向步驟條：八個節點平均分布，日期在上、事件在下 */
+    .el-steps {
+      display: grid;
+      grid-template-columns: repeat(8, minmax(0, 1fr));
+    }
+    .el-step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 6px;
+      text-align: center;
+    }
+    .el-step-date {
+      order: 1;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      height: 42px;
+    }
+    .el-step-dot {
+      order: 2;
+      position: relative;
+      left: auto;
+      top: auto;
+      z-index: 1;
+      flex: none;
+      margin: 10px 0 12px;
+    }
+    .el-step-label {
+      order: 3;
+      font-size: 14px;
+      line-height: 1.55;
+    }
+    .el-step-badge {
+      order: 4;
+      margin-top: 8px;
+    }
+    /* 線段：從本節點中心連到下一個節點中心（已完成的那段用墨綠） */
+    .el-step::before {
+      left: 50%;
+      top: 58px;
+      bottom: auto;
+      width: 100%;
+      height: 2px;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .elections-2026 *,
+    .elections-2026 *::before {
+      transition: none !important;
+    }
   }
 </style>

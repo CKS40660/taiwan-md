@@ -1,15 +1,15 @@
 ---
-title: 'Lin Qing-xia: de la déesse artistique au mythe du wuxia'
-description: 'Reine des films de Qiong Yao, reconversion en classique du wuxia, légende de la scène chinoise'
+title: 'Brigitte Lin'
+description: "Née en 1954 dans un village militaire de Taipei, elle fut la muse de l'ère des films de Qiong Yao grâce à sa pureté, avant de devenir une légende du cinéma de *wuxia* avec son rôle iconique d'Orient Invincible."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Lin Qing-xia',
-    'actrice',
-    'films de Qiong Yao',
-    'Dongfang Bubai',
-    'cinéma chinois',
+    'Brigitte Lin',
+    'Actrice',
+    'Cinéma de Qiong Yao',
+    'Orient Invincible',
+    'Cinéma sinophone',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,142 +17,142 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:d90dfbfec4a44a23'
+sourceCommitSha: 'e53f17151'
+sourceContentHash: 'sha256:7e12cc4002fc2007'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-10T12:07:02+08:00'
+translatedAt: '2026-10-16T00:52:57+08:00'
 ---
 
-# Lin Qing-xia: de la déesse artistique au mythe du wuxia
+# Brigitte Lin : de la muse romantique à la légende du wuxia
 
-Lin Qing-xia a traversé deux époques, celle des films artistiques de Qiong Yao et celle des films de wuxia de Xu Ke, et figure parmi les actrices les plus emblématiques du cinéma chinois. Elle s'est fait connaître dans les années 1970 avec une image de pureté, devenant l'icône centrale des films de Qiong Yao. À la fin des années 1980, elle a réussi à se réinventer, créant un rôle révolutionnaire dans _Dongfang Bubai_. Sa carrière témoigne de l'âge d'or du cinéma chinois.
+Brigitte Lin (Lin Ching-hsia) a traversé deux époques majeures, celle des films romantiques de Qiong Yao et celle des films de _wuxia_ (arts martiaux) de Tsui Hark, s'imposant comme l'une des actrices les plus emblématiques du cinéma sinophone. Figure centrale des films de Qiong Yao dans les années 1970 grâce à son image de pureté, elle a réussi une transition magistrale à la fin des années 1980 en créant un personnage révolutionnaire dans _Swordsman II_ (Orient Invincible). Sa carrière témoigne de l'âge d'or du cinéma sinophone.
 
-## Le chemin de l'étoile dans les quartiers d'officiers
+## Le parcours d'une jeune fille des villages militaires
 
-Lin Qing-xia est née le 3 novembre 1954 à Taïwan, d'origine Shandong. Son père, Lin Wei-liang, était militaire, et sa mère, Luo Xiu-yun, était une femme de ménage. Élevée dans un quartier d'officiers, Lin Qing-xia a montré dès son enfance un visage éloquent et un tempérament calme.
+Brigitte Lin est née le 3 novembre 1954 à Taipei, ses ancêtres étant originaires du Shandong. Son père, Lin Wei-liang, était militaire et sa mère, Luo Xiu-yun, femme au foyer. Ayant grandi dans l'environnement des _juancun_ (villages militaires), elle a manifesté dès son plus jeune âge une beauté délicate et un tempérament calme.
 
-Au lycée, à l'École normale féminine de Jinling, elle était une élève modèle, passionnée de littérature et d'art. En 1972, elle a été repérée par le réalisateur Song Cun-shou dans le quartier de Ximending, qui l'a invitée à interpréter le rôle principal dans _Dehors la fenêtre_. À cette époque, elle préparait ses examens universitaires et n'avait aucune expérience dans le monde du spectacle.[^1]
+Élève exemplaire au lycée de filles Jinling, elle portait un vif intérêt à la littérature et aux arts. En 1972, elle fut repérée dans le quartier de Ximending par le réalisateur Song Cun-shou, qui l'invita à jouer dans _Fenêtre sur l'extérieur_ (_Chuang wai_), alors qu'elle se préparait pour les examens d'entrée à l'université et n'envisageait aucune carrière artistique. [^1]
 
-Soutenue par sa mère, Lin Qing-xia a décidé d'essayer sa chance dans le cinéma. Son premier film, _Dehors la fenêtre_ (1973), adapté du roman de Qiong Yao, tourné avec Qin Han, a posé les bases de sa carrière dans le cinéma artistique.[^2]
+Avec le soutien de sa mère, elle décida de tenter l'aventure cinématographique. Son premier film, _Fenêtre sur l'extérieur_ (1973), adapté d'un roman de Qiong Yao et réalisé en collaboration avec Qin Han, assura ses débuts dans le cinéma romantique. [^2]
 
-## La déesse artistique de l'ère Qiong Yao
+## La muse de l'ère des films de Qiong Yao
 
-Le succès de _Dehors la fenêtre_ en 1972 a marqué le début de l'ère Qiong Yao de Lin Qing-xia. Au cours des dix années suivantes, elle a interprété des rôles dans _Les Nuages vont s'envoler_, _Les Liens d'affection dans le cœur_, _Les Oiseaux chantent la nuit_, et d'autres œuvres de Qiong Yao.
+Le succès de _Fenêtre sur l'extérieur_ en 1972 marqua le début de l'ère Brigitte Lin au sein des productions de Qiong Yao. Durant la décennie suivante, elle主演a de nombreuses œuvres de l'autrice, telles que _Les Nuages colorés_ ou _Le cœur aux mille nœuds_.
 
-L'image de pureté de Lin Qing-xia incarnait parfaitement les personnages féminins de Qiong Yao : innocents, bons, mélancoliques. Sa collaboration avec Qin Han et Qin Xiang-lin a formé un couple iconique à l'écran, populaire dans tout le monde chinois.
+L'image de pureté de Brigitte Lin incarnait parfaitement les personnages féminins de Qiong Yao : innocents, bienveillants et mélancoliques. Ses collaborations avec Qin Han et Qin Xiang-lin formèrent des duos à l'écran devenus légendaires dans tout le monde sinophone.
 
-À cette époque, Lin Qing-xia est devenue l'icône de nombreuses jeunes filles, sa coiffure et ses vêtements devenant des tendances. Les films de Qiong Yao ont également gagné en influence et en succès commercial grâce à ses performances.
+Durant cette période, elle devint l'idole d'innombrables jeunes filles ; sa coiffure et son style vestimentaire dictaient les tendances de la mode. Les films de Qiong Yao connurent un succès commercial et une influence décuplés grâce à sa présence à l'écran.
 
-## Expérimentations artistiques dans le cinéma de genre
+## Diversification dans le cinéma romantique
 
-En dehors des films de Qiong Yao, Lin Qing-xia a également essayé d'autres types de films artistiques. En 1979, elle a collaboré avec le réalisateur Li Xing dans _Un bateau dans la mer agitée_, montrant une maturité accrue dans sa prestation.
+Au-delà des œuvres de Qiong Yao, Brigitte Lin explora d'autres genres dramatiques. En 1979, elle collabora avec le réalisateur Li Xing dans _Un bateau dans l'océan_, démontrant une maturité d'actrice accrue.
 
-_Je suis une nuée de nuages_ (1981) est l'un des chefs-d'œuvre de l'ère Qiong Yao de Lin Qing-xia, avec une scène de confrontation émouvante avec Qin Han. Cette œuvre démontre la profondeur émotionnelle de Lin Qing-xia.
+_Je suis un nuage_ (1981), l'un de ses chefs-d'œuvre de l'époque Qiong Yao, offrit des scènes poignantes avec Qin Han, illustrant sa profonde maîtrise du jeu émotionnel.
 
-Au début des années 1980, Lin Qing-xia a commencé à réfléchir à une reconversion professionnelle. Elle a réalisé qu'une image unique de déesse artistique pourrait limiter ses opportunités, et a cherché activement des défis nouveaux.
+Au début des années 1980, elle commença à réfléchir à une transition de carrière, consciente que son image unique de « muse romantique » pourrait limiter son évolution artistique.
 
-## Transition vers le cinéma hongkongais et collaboration avec la nouvelle vague
+## Transition vers Hong Kong et la Nouvelle Vague
 
-À la mi-des années 1980, Lin Qing-xia s'est tournée vers le marché du cinéma hongkongais, une décision qui a complètement transformé sa carrière. L'environnement diversifié et commercial du cinéma hongkongais a offert de nouvelles opportunités de développement.
+Au milieu des années 1980, Brigitte Lin se tourna vers le marché cinématographique de Hong Kong, une décision qui changea radicalement sa carrière. L'environnement diversifié et commercial de Hong Kong lui offrit un espace de développement bien plus vaste.
 
-Elle a collaboré avec des réalisateurs de la nouvelle vague hongkongaise, essayant des rôles de différents genres. Ces expériences ont mûri son art, la préparant pour les prochains défis dans les films de wuxia de Xu Ke.
+Elle établit des collaborations avec les réalisateurs de la Nouvelle Vague de Hong Kong, expérimentant des rôles variés. Ces expériences affinèrent son jeu, la préparant à incarner les personnages épiques des films de _wuxia_ de Tsui Hark.
 
-Pendant sa période à Hong Kong, Lin Qing-xia a développé sa carrière à la fois à Taïwan et à Hong Kong, devenant l'une des rares stars capables de rayonner sur les deux marchés. Son succès a fourni un modèle pour les acteurs taïwanais souhaitant pénétrer le marché hongkongais.
+Durant cette période de transition, elle maintint une présence active tant à Taïwan qu'à Hong Kong, devenant l'une des rares superstars capables de conquérir ces deux marchés. Son succès servit de modèle aux acteurs taïwanais souhaitant s'imposer à Hong Kong.
 
-## Le classique du wuxia : la performance révolutionnaire dans _Dongfang Bubai_
+## Un classique du wuxia : la performance subversive d'Orient Invincible
 
-_Le Légendaire Swordsman 2 : Dongfang Bubai_ (1992), réalisé par Xu Ke, est le sommet de la carrière de Lin Qing-xia. Elle interprète le rôle de Dongfang Bubai, un maître martial-arts légendaire, un rôle qui bouleverse les attentes du public.
+En 1992, _Swordsman II_ (笑傲江湖II東方不敗), réalisé par Tsui Hark, marqua l'apogée de sa carrière. Elle y interpréta le personnage surpuissant d'Orient Invincible (_Dongfang Bubai_), un rôle qui bouleversa l'image que le public se faisait d'elle.
 
-Dongfang Bubai est un personnage complexe : chef des mers et amoureux passionné, à la fois puissant et féminin. Lin Qing-xia incarne ce rôle contradictoire avec une richesse d'interprétation remarquable.
+Orient Invincible est un personnage complexe : à la fois maître des arts martiaux et amant passionné, alliant la puissance masculine à la grâce féminine. La performance de Brigitte Lin fut d'une grande richesse, interprétant avec brio les contradictions du rôle.
 
-La phrase culte « Le soleil se lève dans l'est, je suis le seul invincible » est devenue un classique, et l'image de Lin Qing-xia dansant enroulée dans une robe rouge est gravée dans les mémoires. Ce rôle n'est pas seulement le summum de sa carrière artistique, mais aussi un classique de l'histoire du cinéma chinois.
+La réplique « Le soleil se lève à l'Orient, seul moi ne suis pas vaincu » est devenue culte, et l'image de Brigitte Lin flottant dans ses vêtements rouges resta gravée dans la mémoire collective. Ce rôle représente non seulement un sommet de sa carrière, mais aussi un personnage classique de l'histoire du cinéma sinophone.
 
-## Collaboration créative avec Xu Ke
+## Collaboration créative avec Tsui Hark
 
-La collaboration entre Lin Qing-xia et le réalisateur Xu Ke a été un tournant décisif dans sa carrière. Xu Ke savait révéler le potentiel des acteurs, et il a reconnu chez Lin Qing-xia une essence de wuxia et une capacité de performance.
+La collaboration entre Brigitte Lin et le réalisateur Tsui Hark fut un tournant majeur. Tsui Hark, expert pour déceler le potentiel de ses acteurs, vit en elle une essence guerrière et des possibilités de jeu inédites.
 
-En plus de _Dongfang Bubai_, ils ont travaillé ensemble dans _Le Nouveau Guess Who's Under the Door_, entre autres. Les conseils créatifs de Xu Ke ont permis à Lin Qing-xia de découvrir une nouvelle dimension, réussissant ainsi sa transition de déesse artistique à star de wuxia.
+Outre _Swordsman II_, le duo collabora sur d'autres œuvres comme _New Dragon Gate Inn_. La direction créative de Tsui Hark permit à Brigitte Lin de découvrir de nouvelles facettes d'elle-même, réussissant sa mutation de muse romantique en superstar du _wuxia_.
 
-Ces collaborations ont connu le succès tant au niveau des recettes que de la réputation, confirmant la pertinence de la reconversion de Lin Qing-xia. Elle n'était plus seulement l'icône des films de Qiong Yao, mais une véritable star de talent.
+Ces collaborations furent des succès tant critiques que commerciaux, prouvant la pertinence de sa transition. Elle n'était plus seulement l'égérie de Qiong Yao, mais une véritable actrice de talent.
 
-## Diversité artistique dans les années 1990
+## Une expression plurielle dans les années 1990
 
-Les années 1990 ont été la période la plus active de la carrière de Lin Qing-xia, où elle a essayé des rôles de tous genres. Du wuxia historique aux drames modernes, chaque prestation a été remarquable.
+Les années 1990 furent sa période la plus prolifique, où elle explora une vaste gamme de rôles, des films historiques aux drames modernes.
 
-Dans _Le Nouveau Guess Who's Under the Door_, elle incarne Jinzhao, dans _Forêt de Chongqing_, un tueur à cheveux blonds, et dans _Eastern Condor, Western Condor_, Murong Yan, chaque rôle a son propre charme. Lin Qing-xia a démontré une étonnante polyvalence artistique.
+Qu'il s'agisse de Jin Xiangyu dans _New Dragon Gate Inn_, de l'assassin blonde dans _Chungking Express_ ou de Murong Yan dans _Ashes of Time_, chaque personnage possédait un charme unique, témoignant d'une amplitude de jeu impressionnante.
 
-Les films de Wong Kar-wai, _Forêt de Chongqing_ et _Eastern Condor, Western Condor_, ont lié Lin Qing-xia à la scène artistique, prouvant qu'elle pouvait non seulement réussir dans les blockbusters commerciaux, mais aussi maîtriser des œuvres à plus grande valeur artistique.
+Ses rôles dans les films de Wong Kar-wai (_Chungking Express_, _Ashes of Time_) l'associèrent au cinéma d'auteur, prouvant qu'elle pouvait exceller aussi bien dans le cinéma commercial que dans des œuvres hautement artistiques.
 
-## Retraite et nouvelle phase de vie
+## Retrait de la scène et nouvelle étape de vie
 
-En 1994, Lin Qing-xia a annoncé sa retraite, choisissant de se consacrer pleinement à la vie familiale. Cette décision a laissé des millions de fans émus, mais tout le monde a compris son choix de vie.
+En 1994, Brigitte Lin annonça son retrait du cinéma pour se consacrer à sa vie familiale. Si cette décision fut regrettable pour de nombreux fans, elle fut comprise comme un choix de vie personnel.
 
-Après sa retraite, Lin Qing-xia a épousé le marchand Xing Li Yuan, avec qui elle a eu deux filles. Elle a recentré sa vie sur la famille, apparaissant rarement en public, ce qui a ajouté à son mystère.
+Après avoir quitté les plateaux, elle épousa l'homme d'affaires Sing Lee-yuan et eut deux filles. Se concentrant sur son foyer, elle s'éloigna des médias, ce qui renforça son aura de mystère.
 
-Bien qu'elle ait pris sa retraite, l'influence de Lin Qing-xia n'a pas diminué. Ses œuvres classiques continuent d'être diffusées à la télévision, et de nouvelles générations de spectateurs la découvrent à travers ces œuvres.
+Malgré son retrait, son influence ne faiblit pas. Ses œuvres classiques continuent d'être diffusées à la télévision, permettant aux nouvelles générations de découvrir son charisme.
 
-## Nouvelles tentatives dans l'écriture
+## Tentatives de création littéraire
 
-Après sa retraite, Lin Qing-xia a commencé à expérimenter l'écriture, publiant des recueils de nouvelles comme _Entre fenêtres_. Elle a utilisé son style subtil pour documenter ses réflexions sur la vie et ses expériences.
+Après sa retraite, elle se tourna vers l'écriture, publiant notamment le recueil d'essais _Fenêtres intérieures et extérieures_ (_Chuang li chuang wai_). Elle y utilise une plume délicate pour consigner ses réflexions sur la vie.
 
-La création littéraire de Lin Qing-xia a reçu l'approbation du milieu littéraire, prouvant qu'elle n'était pas seulement une excellente actrice, mais aussi une auteure talentueuse. Cette polyvalence artistique a suscité encore plus d'estime envers elle.
+Ses écrits ont été salués par le monde littéraire, confirmant qu'elle était non seulement une actrice d'exception, mais aussi une écrivaine talentueuse. Cette polyvalence force l'admiration.
 
-Elle a également partagé ses expériences professionnelles et ses réflexions sur la vie par l'écrit, permettant aux fans de mieux comprendre son monde intérieur. Ces œuvres sont devenues des documents précieux de l'histoire du cinéma.
+À travers ses textes, elle partage son expérience du métier et ses pensées, offrant aux fans un aperçu plus profond de son univers intérieur. Ces ouvrages constituent également des documents précieux sur l'histoire du cinéma.
 
-## Le sens particulier des retours occasionnels
+## La signification particulière de ses apparitions occasionnelles
 
-Bien qu'elle ait officiellement pris sa retraite, Lin Qing-xia fait occasionnellement des apparitions pour des projets spéciaux. En 2013, elle a fait une apparition spéciale dans _101 propositions_, suscitant un vif intérêt des fans.
+Bien qu'officiellement retraitée, Brigitte Lin revient parfois pour des projets spéciaux. En 2013, sa courte apparition dans _101 Times Marriage_ suscita un immense intérêt de la part des fans.
 
-Bien que ces retours soient rares, chacun devient un événement médiatique. L'attrait et l'influence de Lin Qing-xia sont évidents.
+Ces retours, bien que brefs, font systématiquement l'objet d'une attention médiatique, illustrant son pouvoir d'attraction et son influence persistante.
 
-Elle a également participé à des festivals de cinéma et à des cérémonies de remise de prix, chaque apparition provoquant une grande émotion. L'expérience des années a rendu Lin Qing-xia plus gracieuse et captivante.
+Elle participe également ponctuellement à des festivals de cinéma ou des cérémonies de remise de prix, où chaque apparition fait sensation. Le passage du temps semble n'avoir fait qu'accroître son élégance.
 
-## Influence à travers les époques
+## Une influence qui traverse les époques
 
-L'influence de Lin Qing-xia dépasse le cadre du cinéma. De l'innocence de l'ère Qiong Yao aux héros guerriers de l'ère du wuxia, sa carrière reflète les trente ans de transformation du cinéma chinois.
+L'influence de Brigitte Lin dépasse le simple cadre cinématographique. De l'image d'innocence de l'ère Qiong Yao à celle de l'héroïne guerrière de l'ère _wuxia_, son parcours reflète les mutations du cinéma sinophone sur trois décennies.
 
-Sa beauté et son charme sont admirés, de nombreuses nouvelles vedettes sont comparées à elle. Le « charme de Lin Qing-xia » est devenu un critère de comparaison courant dans l'industrie.
+Sa beauté et son aura sont si respectées que de nombreuses jeunes actrices sont comparées à elle ; le terme « beauté à la Brigitte Lin » est devenu une référence dans l'industrie.
 
-Les nouveaux réalisateurs comme Wong Kar-wai lui rendent hommage, et ses œuvres sont devenues des objets d'étude pour les critiques et les spécialistes du cinéma.
+De nouveaux réalisateurs, tels que Wong Kar-wai, lui vouent un immense respect, et ses œuvres font l'objet d'études par les critiques et les chercheurs en cinéma.
 
-## Inspiration pour les actrices féminines
+## Une source d'inspiration pour les actrices
 
-La réussite de la reconversion de Lin Qing-xia a fourni une leçon précieuse aux actrices féminines. Elle a prouvé qu'une actrice n'avait pas à se limiter à un seul type d'image, pouvant essayer des rôles différents à chaque étape de sa carrière.
+La transition réussie de Brigitte Lin est une leçon pour les actrices. Elle a prouvé qu'une star n'est pas prisonnière d'une image unique et peut explorer des rôles variés à chaque étape de sa carrière.
 
-Son engagement envers les rôles et son attitude professionnelle sont devenus des modèles à suivre pour les générations futures. Lin Qing-xia a démontré l'esprit professionnel et la quête artistique d'un acteur.
+Son investissement dans ses rôles et son professionnalisme servent de modèle aux générations suivantes, illustrant la dévotion artistique que doit posséder un acteur.
 
-De nombreuses actrices contemporaines ont déclaré être influencées et inspirées par Lin Qing-xia, qui a établi un modèle important pour les actrices du cinéma chinois.
+De nombreuses actrices contemporaines affirment avoir été inspirées par elle, faisant d'elle une figure de proue pour les femmes du cinéma sinophone.
 
-## Place dans l'histoire du cinéma chinois
+## Sa place dans l'histoire du cinéma sinophone
 
-Lin Qing-xia est considérée comme l'une des actrices les plus importantes de l'histoire du cinéma chinois. Ses œuvres couvrent les films artistiques, les films de wuxia, le cinéma d'art, etc., montrant une étonnante gamme de talents.
+Brigitte Lin est considérée comme l'une des actrices les plus importantes de l'histoire du cinéma sinophone. Son œuvre, couvrant le drame romantique, le _wuxia_ et le cinéma d'auteur, démontre une polyvalence exceptionnelle.
 
-Elle a collaboré avec des réalisateurs importants de différentes époques, laissant de nombreuses œuvres classiques. Ces œuvres ont non seulement connu le succès commercial, mais ont également une grande valeur artistique.
+En collaborant avec les grands réalisateurs de différentes époques, elle a laissé un héritage de classiques qui allient succès commercial et valeur artistique.
 
-Les historiens du cinéma estiment que la carrière de Lin Qing-xia reflète le développement du cinéma chinois, et qu'elle est un témoin et un participant important de l'âge d'or du cinéma chinois.
+Les historiens du cinéma considèrent sa carrière comme un miroir de l'évolution du cinéma sinophone ; elle fut à la fois témoin et actrice majeure de son âge d'or.
 
-## Statut éternel de classique
+## Un statut de classique éternel
 
-Même après des années de retraite, la position de Lin Qing-xia dans le cœur des fans reste élevée. Ses images classiques et ses performances remarquables sont devenues un trésor précieux du cinéma chinois.
+Même après des années de retrait, la place de Brigitte Lin dans le cœur des cinéphiles demeure sacrée. Ses images iconiques et ses performances magistrales constituent un patrimoine précieux du cinéma sinophone.
 
-Les jeunes générations découvrent son charme en revoyant ses œuvres classiques, montrant que de bons artistes peuvent transcender le temps. Lin Qing-xia est un symbole culturel du cinéma chinois, inspirant chaque nouvelle génération d'artistes.
+Le fait que les jeunes générations redécouvrent son charme à travers ses anciens films prouve qu'un grand interprète peut transcender les époques. Brigitte Lin est un symbole culturel du cinéma sinophone, inspirant chaque nouvelle génération de cinéastes.
 
 ## Lectures complémentaires
 
-- [San Mao](/fr/people/san-mao) : scénariste de _La Vie en rouge_, celle qui a fait gagner Lin Qing-xia l'award du meilleur acteur au Festival du film taïwanais
+- [San Mao](/fr/people/san-mao) : Scénariste de _Red Dust_, elle est celle qui a permis à Brigitte Lin de remporter le Golden Horse pour son meilleur rôle féminin.
 
-## Sources
+## Références
 
-- [Lin Qing-xia — Site du cinéma taïwanais](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — liste des œuvres de l'actrice
-- [Musée du cinéma hongkongais](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — données sur les œuvres de l'époque hongkongaise
-- [Dongfang Bubai — Association des prix du cinéma hongkongais](https://www.hkfaa.com/) — évaluations des œuvres classiques
+- [Brigitte Lin — Taiwan Cinema Online](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Filmographie de l'actrice
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Archives des œuvres de la période hongkongaise
+- [Orient Invincible — Association du Hong Kong Film Awards](https://www.hkfaa.com/) — Évaluation de l'œuvre classique
 
-[^1]: Wikipédia « Lin Qing-xia » : réalisé par Song Cun-shou, invitant Lin Qing-xia à interpréter le rôle principal dans _Dehors la fenêtre_ (1973).https://zh.wikipedia.org/wiki/林青霞
+[^1]: Article Wikipédia « Brigitte Lin » : Le réalisateur Song Cun-shou l'a invitée à jouer dans _Fenêtre sur l'extérieur_ (1973). https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: _Dehors la fenêtre_ (1973), réalisé par Song Cun-shou, première performance principale de Lin Qing-xia, adapté du roman de Qiong Yao. Données du site du cinéma taïwanais :https://taiwancinema.bamid.gov.tw/
+[^2]: _Fenêtre sur l'extérieur_ (1973) est réalisé par Song Cun-shou, premier rôle principal de Brigitte Lin, adapté du roman éponyme de Qiong Yao. Données de Taiwan Cinema Online : https://taiwancinema.bamid.gov.tw/
 
-[^3]: Lin Qing-xia s'est mariée avec le marchand hongkongais Xing Li Yuan le 29 juin 1994, puis a quitté la scène artistique, des rapports pertinents disponibles dans l'article Wikipédia « Lin Qing-xia » <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: Brigitte Lin s'est retirée du monde du spectacle après son mariage avec l'homme d'affaires hongkongais Sing Lee-yuan le 29 juin 1994, voir les rapports connexes sur l'article Wikipédia « Brigitte Lin » <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
 
-[^4]: _Le Légendaire Swordsman 2 : Dongfang Bubai_ (1992), réalisé par Xu Ke, Lin Qing-xia interprète Dongfang Bubai, collection du Musée du cinéma hongkongais.https://www.filmarchive.gov.hk/
+[^4]: _Swordsman II_ (1992), réalisé par Tsui Hark, Brigitte Lin interprète Orient Invincible, collection du Hong Kong Film Archive. https://www.filmarchive.gov.hk/
 
-[^5]: Lin Qing-xia a écrit _Entre fenêtres_, éditions Tian Di, 2011. Cet ouvrage est son principal recueil de nouvelles, bien accueilli par le milieu littéraire.<https://www.books.com.tw/products/0010512315>
+[^5]: Brigitte Lin, _Fenêtres intérieures et extérieures_, Tiandi Books, 2011. Ce livre est son principal recueil d'essais, ayant reçu des critiques positives de la part du milieu littéraire. <https://www.books.com.tw/products/0010512315>

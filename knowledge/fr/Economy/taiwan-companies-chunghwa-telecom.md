@@ -1,15 +1,15 @@
 ---
 title: 'Entreprise taïwanaise : Chunghwa Telecom'
-description: 'Le plus grand opérateur de télécommunications de Taïwan, de monopole public à chef de file de la transformation numérique'
+description: "Anciennement issue de la Direction générale des télécommunications du ministère des Transports, cette entreprise fondée en 1996 et privatisée en 2005 est le plus grand opérateur de télécommunications de Taïwan. Avec un chiffre d'affaires de NT$ 230,03 milliards en 2024, une capitalisation boursière proche du billion de NT$ et environ 30 000 employés, elle détient plus de 90 % de parts de marché sur la téléphonie fixe et compte environ 12 millions d'abonnés mobiles, se classant ainsi au premier rang de l'île. Le leader des télécommunications s'est activement tourné ces dernières années vers trois nouveaux secteurs : le cloud, l'IDC (centres de données) et la cybersécurité, enregistrant une croissance annuelle de plus de 50 % par secteur. C'est une infrastructure clé soutenant la résilience numérique de Taïwan."
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
     'Économie',
-    'Entreprises',
+    'Entreprise',
     'Télécommunications',
     'Transformation numérique',
-    'Privatisation des entreprises publiques',
+    "Privatisation des entreprises d'État",
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4a4d66620'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:dd196b4a3bebe6fe'
 sourceBodyHash: 'sha256:85923df8ecf92741'
-translatedAt: '2026-08-04T04:55:53.783289+00:00'
+translatedAt: '2026-10-15T20:36:51.770700+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes**

@@ -1,30 +1,30 @@
 ---
-title: 'Le riz au porc braisé de Taïwan'
-description: "Des cuisines des villages militaires à la cuisine nationale, explorez la guerre Nord-Sud et l'identité culturelle du riz au porc braisé taïwanais"
+title: 'Lu Rou Fan (Riz au porc braisé taïwanais)'
+description: "Passant des cuisines des villages de militaires à celui de plat national, le Lu Rou Fan est le vecteur central de la mémoire culinaire populaire à Taïwan : appelé Lu Rou Fan au nord et Rou Zao Fan au sud, les méthodes de découpe et d'assaisonnement diffèrent, révélant une divergence artisanale derrière cette « guerre des noms » entre le nord et le sud. En 2011, une erreur de traduction dans la version anglaise du Guide Michelin l'attribuant à une origine du Shandong a déclenché un mouvement national pour rétablir sa véritable identité, consolidant ainsi le statut de ce plat populaire authentique."
 date: 2026-03-19
+category: 'Food'
 tags:
   [
-    'riz au porc braisé',
-    'riz au porc haché',
-    'cuisine des villages militaires',
-    'cuisine nationale',
-    'différences Nord-Sud',
+    'Lu Rou Fan',
+    'Rou Zao Fan',
+    'Cuisine des villages militaires',
+    'Plat national',
+    'Différences nord-sud',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-category: 'Food'
 lastVerified: 2026-05-16
 lastHumanReview: true
 image: '/images/food/braised-pork-rice.jpg'
-imageAlt: 'Riz au porc braisé à Taichung'
+imageAlt: 'Lu Rou Fan à Taichung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+readingTime: 8
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '30569f74'
+sourceCommitSha: 'dba1a13f6'
 sourceContentHash: 'sha256:6170c025ca20811f'
 sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
-translatedAt: '2026-05-17T05:33:00Z'
+translatedAt: '2026-10-15T23:09:04.836890+00:00'
 ---
 
 # Le riz au porc braisé de Taïwan

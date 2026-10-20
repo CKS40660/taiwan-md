@@ -1,14 +1,14 @@
 ---
 title: 'Hệ thống giáo dục và văn hóa thi cử'
-description: 'Từ chế độ liên khóa đến mười hai năm giáo dục phổ thông, giáo dục Đài Loan như thế nào tìm kiếm sự cân bằng giữa cạnh tranh và đa dạng'
+description: 'Giáo dục Đài Loan nổi tiếng với văn hóa thi cử cạnh tranh cao, kéo dài từ chín năm giáo dục bắt buộc đến mười hai năm giáo dục phổ thông; hệ thống được chia thành hai nhánh là giáo dục học thuật và giáo dục nghề nghiệp, nhưng xã hội vẫn thiên trọng thành tựu học thuật dẫn đến sự cạnh tranh khốc liệt. Những cải cách gần đây nhấn mạnh vào sự phát triển đa dạng và phát huy năng lực phù hợp, việc làm thế nào để đạt được sự cân bằng giữa cạnh tranh và đa dạng, giữa tinh hoa và phổ cập, vẫn là thách thức cốt lõi mà xã hội này đang đối mặt.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'Giáo dục',
     'Thi cử',
-    'Mười hai năm giáo dục phổ thông',
-    'Giáo dục kỹ thuật nghề nghiệp',
+    'Giáo dục phổ thông 12 năm',
+    'Giáo dục nghề nghiệp',
     'Cải cách giáo dục',
     'Văn hóa cạnh tranh',
   ]
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/教育制度與升學文化.md'
-sourceCommitSha: '0f71fb1c5'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:ede91c7ee7539592'
 sourceBodyHash: 'sha256:24778da06af3ffc5'
-translatedAt: '2026-10-01T18:06:18.559985+00:00'
+translatedAt: '2026-10-15T23:00:19.453501+00:00'
 ---
 
 # Hệ thống giáo dục và văn hóa thi cử

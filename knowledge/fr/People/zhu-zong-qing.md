@@ -1,128 +1,127 @@
 ---
-title: 'Chu Chung-ching — Le pionnier des percussions à Taïwan'
-description: 'Revenu de Vienne avec un diplôme en poche, il a transformé en quarante ans une discipline confidentielle en art populaire ancré dans toute la société taïwanaise'
+title: 'Chu Tsung-ching'
+description: "Percussionniste revenu de l'Académie de musique de Vienne, il a mis quarante ans à faire entrer cet art de niche dans le paysage musical dominant de Taïwan ; fondateur du premier ensemble de percussion professionnel et d'un système éducatif complet, il a enraciné le rythme dans la société, de l'éveil musical des enfants aux grandes salles de concert."
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    personnalité,
-    Chu Chung-ching,
-    musicien,
-    percussions,
-    éducation,
-    arts de la scène,
+    'Personnalité',
+    'Chu Tsung-ching',
+    'Musicien',
+    'Percussion',
+    'Éducation',
+    'Arts de la scène',
   ]
 subcategory: '藝術與設計'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
 lastVerified: 2026-03-21
+lastHumanReview: true
 translatedFrom: 'People/朱宗慶.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'afc244ca1'
 sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
-translatedAt: '2026-04-14T19:15:12+08:00'
-lastHumanReview: true
+translatedAt: '2026-10-15T12:42:49+08:00'
 ---
 
-# Chu Chung-ching
+# Chu Tsung-ching
 
-> **En 30 secondes :** Né en 1954, Chu Chung-ching obtient en 1982 son diplôme d'interprète en percussions à l'Académie de musique de Vienne. En 1986, il fonde le premier ensemble de percussions professionnel de Taïwan, puis bâtit en 1991 un système d'enseignement complet. En quarante ans, il a fait passer les percussions de la périphérie des salles de concert au grand public. Lauréat du Prix national des arts en 2000, il est universellement surnommé « le père des percussions taïwanaises ».
+> **Aperçu en 30 secondes :** Né en 1954, Chu Tsung-ching a obtenu son diplôme de percussionniste à l'Académie de musique de Vienne en 1982. En 1986, il fonde le premier ensemble de percussion professionnel de Taïwan et établit un système d'enseignement complet en 1991. En 40 ans, il a fait passer la percussion de la marge des salles de concert au courant dominant. Lauréat du Prix national des arts en 2000, il est considéré comme le « père de la percussion à Taïwan ».
 
-En 1982, Chu Chung-ching, 28 ans, quitte l'Académie de musique de Vienne avec son diplôme d'interprète en percussions. À cette époque, le mot « percussion » n'évoquait presque rien pour la plupart des Taïwanais, et l'idée d'un ensemble entièrement dédié à cet art semblait une fantaisie. Pourtant, Chu avait une vision précise : construire à Taïwan un écosystème complet autour des percussions, afin que cet art vibrant et rythmique puisse s'y enraciner et s'y épanouir.
+Dans l'été 1982, Chu Tsung-ching, âgé de 28 ans, est diplômé de l'Académie de musique de Vienne en Autriche, muni de son tout nouveau diplôme de percussionniste. À cette époque, pour la plupart des gens à Taïwan, le terme « percussion » était encore étranger, et l'idée d'un ensemble professionnel de percussions était impensable. Mais Chu Tsung-ching avait une vision claire : établir un système complet de percussion à Taïwan afin que cette forme d'art, pleine de rythme et de vitalité, puisse s'y enraciner.
 
-Quarante ans plus tard, Taïwan est devenu l'un des principaux pôles de développement des percussions en Asie. Des scènes professionnelles aux cours d'éveil musical pour jeunes enfants, des grandes salles aux établissements scolaires, les percussions se sont profondément intégrées à la culture musicale taïwanaise. Tout commence avec ce jeune musicien qui a choisi, un jour, de rentrer au pays pour entreprendre sa mission.
+Quarante ans plus tard, Taïwan est devenue un centre majeur pour le développement de la percussion en Asie. Des concerts professionnels à l'éveil musical des jeunes enfants, des salles de concert aux campus scolaires, la percussion est profondément intégrée à la culture musicale taïwanaise. Tout cela trouve son origine chez ce jeune musicien qui décida de revenir s'installer à Taïwan pour entreprendre.
 
-## L'éveil musical à Vienne
+## Éveil musical et études à Vienne
 
-Chu Chung-ching est né en 1954. Sa passion pour la musique se manifeste dès l'enfance. Quand il entre à l'École nationale des arts (aujourd'hui Université nationale des arts de Taïwan) dans les années 1970, il y étudie d'abord le piano — mais une rencontre fortuite avec les percussions change tout. La richesse et la diversité de cette famille d'instruments le captivent immédiatement.
+Né en 1954, Chu Tsung-ching a manifesté un vif intérêt pour la musique dès son plus jeune âge. Lorsqu'il intègre le département de musique du National College of Arts (actuelle Université nationale des arts de Taïwan) dans les années 1970, il étudie initialement le piano. Cependant, une rencontre fortuite avec la percussion le séduit immédiatement par la richesse et la diversité de cette famille d'instruments.
 
-Les percussions étaient alors un domaine extrêmement marginal à Taïwan : pas d'enseignants qualifiés, pas de méthodes structurées, pas de débouchés professionnels. Pourtant, la variété expressive de ces instruments fascine Chu — de la noblesse des timbales à la clarté du xylophone, en passant par la singularité des instruments à percussion du monde entier, chacun possédait une couleur sonore et un potentiel expressif uniques.
+À l'époque, la percussion était un domaine extrêmement marginal à Taïwan. Il n'y avait ni professeurs spécialisés, ni matériel pédagogique systématique, et encore moins d'opportunités de concerts professionnels. Mais Chu Tsung-ching fut profondément marqué par la diversité et l'expressivité des percussions — de la solennité des timbales à la clarté du xylophone, en passant par les caractéristiques de divers instruments ethniques, chaque instrument possédait une couleur sonore et un potentiel d'expression uniques.
 
-En 1979, il décide de partir étudier à l'Académie de musique de Vienne. Le pari est audacieux : affronter la barrière de la langue, s'adapter à une culture radicalement différente, et trouver sa place au sein d'une tradition musicale qui lui est étrangère. Mais il est convaincu que, pour développer les percussions à Taïwan, il doit d'abord recevoir la formation la plus rigoureuse possible.
+En 1979, Chu Tsung-ching décide de partir étudier à l'Académie de musique de Vienne. Cette décision était audacieuse pour l'époque : il devait non seulement surmonter la barrière de la langue et les différences culturelles, mais aussi trouver sa place au sein d'une tradition musicale totalement étrangère. Il savait pourtant que pour promouvoir la percussion à Taïwan, il devait d'abord recevoir la formation la plus rigoureuse.
 
-Ces trois années à Vienne lui donnent bien plus qu'une technique irréprochable : elles élargissent profondément sa conception artistique des percussions. La tradition musicale européenne lui révèle que ces instruments ne se limitent pas à « frapper et taper » — ils forment un art à part entière, exigeant une musicalité et une maîtrise de haute volée.
+Durant ses trois années d'études à Vienne, Chu Tsung-ching n'a pas seulement acquis une technique de jeu virtuose ; il a surtout élargi sa compréhension de l'aspect artistique de la percussion. La tradition musicale européenne lui a fait comprendre que la percussion n'est pas simplement une affaire de « frapper sur des objets », mais un art exigeant une haute technicité et une grande musicalité.
 
-## 1986 : l'an I des percussions taïwanaises
+## 1986 : L'année inaugurale de la percussion à Taïwan
 
-Rentré à Taïwan en 1982, Chu ne se précipite pas pour créer son ensemble. Il commence par accumuler de l'expérience dans l'enseignement, observe attentivement l'environnement musical local et réfléchit à la manière d'articuler le savoir-faire européen avec le terreau culturel taïwanais.
+Après son retour de Vienne en 1982, Chu Tsung-ching ne s'est pas précipité pour fonder un ensemble. Il a d'abord accumulé de l'expérience dans le milieu éducatif et observé l'environnement musical taïwanais, tout en réfléchissant à la manière de combiner les connaissances professionnelles acquises en Europe avec le terreau culturel de Taïwan.
 
-Le 2 janvier 1986, l'Ensemble de percussions Ju Percussion Group voit officiellement le jour — le premier ensemble professionnel de percussions à Taïwan. À ses débuts, il ne compte que quatre musiciens et dispose de peu de salles pour se produire. Mais la mission est claire : par des concerts de haute qualité, briser les clichés qui collent encore aux percussions.
+Le 2 janvier 1986, l'Ensemble de percussion Chu Tsung-ching est officiellement fondé, devenant ainsi le premier ensemble professionnel de percussion de Taïwan. À ses débuts, l'ensemble ne comptait que quatre membres et les lieux de représentation étaient limités, mais Chu Tsung-ching avait une mission précise : changer les stéréotypes du public sur la percussion grâce à des performances de haute qualité.
 
-Le premier concert officiel se tient au Xinwutai de Taipei. Le programme est soigneusement conçu pour embrasser des styles variés — musique classique, contemporaine, musiques du monde. L'accueil est enthousiaste ; la presse salue unanimement cet « art percussif qui saisit d'étonnement ». Dès lors, le Ju Percussion Group s'impose dans le paysage musical taïwanais.
+Le premier concert officiel de l'ensemble eut lieu au New Stage de Taipei, avec un programme soigneusement conçu couvrant différents styles tels que le classique, le moderne et la musique du monde. Cette performance fut accueillie avec enthousiasme, les médias rapportant cet « art percutant qui laisse stupéfait ». Dès lors, l'Ensemble de percussion Chu Tsung-ching commença à se faire un nom dans le milieu musical taïwanais.
 
-Les premières années, Chu consacre quasiment tout son temps aux concerts et à la promotion. Des grandes salles aux tournées dans les établissements scolaires, des événements d'entreprise aux représentations de quartier — il s'agit de faire connaître les percussions au plus grand nombre. Cette stratégie de proximité porte ses fruits rapidement : les percussions commencent à se constituer un public fidèle à Taïwan.
+Durant les premières années de l'ensemble, Chu Tsung-ching consacra presque tout son temps aux concerts et à la promotion. Des salles de concert officielles aux tournées scolaires, des événements d'entreprise aux représentations communautaires, ils voulaient faire découvrir le charme de la percussion au plus grand nombre. Cette stratégie de proximité porta rapidement ses fruits, permettant à la percussion de bâtir une base solide de spectateurs à Taïwan.
 
-## 1991 : un système d'enseignement, socle d'une révolution durable
+## 1991 : Le système pédagogique, clé de l'enracinement
 
-En 1991, Chu franchit une étape encore plus décisive en créant le Système d'enseignement des percussions Ju. Il est convaincu que les seuls concerts ne suffisent pas à enraciner durablement les percussions : il faut commencer par l'éducation.
+En 1991, Chu Tsung-ching prit une décision encore plus importante : la création du Système d'enseignement de la percussion Chu Tsung-ching. Il savait que pour que la percussion s'enracine véritablement à Taïwan, les concerts professionnels ne suffiraient pas ; il fallait commencer par l'éducation.
 
-La force de ce système réside dans sa progression rigoureuse et son adaptabilité à tous les âges. Des premiers éveil musicaux proposés dès 2 ans jusqu'aux classes professionnelles pour adultes, chaque étape dispose d'un curriculum complet. Chu accorde une attention toute particulière à la petite enfance, persuadé que « frapper et taper est un instinct naturel chez l'enfant » — et qu'avec un guidage adapté, on peut éveiller durablement le goût de la musique et le sens du rythme.
+La particularité de ce système réside dans sa conception systématique et progressive. De l'éveil musical des enfants de 2 ans aux classes professionnelles pour adultes, chaque étape dispose d'un programme complet. Chu Tsung-ching accorde une importance particulière à l'éducation de la petite enfance, car il est convaincu que « frapper sur des objets est un instinct inné chez l'enfant » et qu'avec un accompagnement approprié, on peut cultiver l'intérêt musical et le sens du rythme.
 
-Plus de trente ans après sa fondation, le système compte plus de 60 centres d'enseignement à travers Taïwan et a formé plus de 200 000 élèves. Tous ne deviendront pas musiciens professionnels, mais tous ont trouvé dans cet apprentissage une source de joie et d'épanouissement. Plus important encore, ils constituent aujourd'hui un public fidèle aux percussions, fondement social indispensable à leur développement sur l'île.
+Depuis sa création il y a plus de 30 ans, ce système d'enseignement a établi plus de 60 centres à travers Taïwan et formé plus de 200 000 élèves. Bien que tous ne deviennent pas des musiciens professionnels, ils ont tous trouvé plaisir et croissance dans l'apprentissage de la musique. Plus important encore, ils sont devenus des spectateurs fidèles, posant ainsi les bases sociales profondes du développement de la percussion à Taïwan.
 
 ## Diplomatie culturelle sur la scène internationale
 
-L'Ensemble Ju n'a pas seulement rayonné à Taïwan — il s'est aussi activement développé à l'international. Dès les années 1990, l'ensemble reçoit régulièrement des invitations à participer aux plus grands festivals musicaux mondiaux, notamment des festivals de musique asiatiques et européens. Ses tournées l'ont conduit dans 35 pays et régions, pour plus de 3 000 représentations au total.
+L'Ensemble de percussion Chu Tsung-ching ne s'est pas contenté de briller à Taïwan, il a également activement étendu ses représentations à l'international. Depuis les années 1990, l'ensemble a été invité à plusieurs festivals de musique importants, notamment des festivals de musique asiatiques et européens de musique moderne. L'ensemble a parcouru 35 pays et régions du monde, totalisant plus de 3 000 représentations.
 
-Dans chaque programme à l'étranger, Chu veille à mettre en valeur les éléments de la culture taïwanaise. L'ensemble intègre souvent des mélodies folkloriques taïwanaises, de la musique des peuples autochtones, voire des chansons populaires contemporaines, pour raconter Taïwan au monde à travers le langage des percussions. Cette fusion culturelle a ouvert les yeux de la scène musicale internationale sur la vitalité de la musique taïwanaise.
+Lors de ses tournées internationales, Chu Tsung-ching accorde une importance particulière à la mise en valeur des éléments musicaux taïwanais. L'ensemble intègre fréquemment des folklores taïwanais, de la musique autochtone et même de la musique pop moderne dans ses performances, racontant l'histoire de Taïwan au monde à travers le langage de la percussion. Ce style de fusion culturelle a permis à la scène musicale internationale d'avoir une nouvelle perception de la musique taïwanaise.
 
-En 2008, l'ensemble est invité à se produire lors des activités culturelles précédant la cérémonie d'ouverture des Jeux olympiques de Pékin — une apparition remarquée pour une formation artistique taïwanaise sur une scène internationale majeure. Ces occasions à l'étranger ont non seulement renforcé la notoriété de l'ensemble, mais ont aussi fait du Ju Percussion Group un vecteur de diplomatie culturelle taïwanaise.
+En 2008, l'ensemble fut invité à se produire lors des activités culturelles précédant la cérémonie d'ouverture des Jeux Olympiques de Pékin, marquant une présence importante d'un groupe artistique taïwanais lors d'un événement international majeur. Ces opportunités de représentations internationales ont non seulement accru la notoriété de l'ensemble, mais sont aussi devenues un vecteur important de la diplomatie culturelle de Taïwan.
 
-## Diriger le Centre national des arts de la scène
+## Promotion culturelle au National Theater & Concert Hall
 
-En 2001, Chu prend la tête du Centre national de culture et des arts Chiang Kai-shek (le National Theater & Concert Hall, communément appelé Liangting Yuan). Lorsque l'institution est transformée en personne morale de droit public en 2004, il en devient le premier directeur artistique. Ce poste lui permet d'agir à un niveau encore plus structurant pour les arts de la scène à Taïwan.
+En 2001, Chu Tsung-ching est devenu directeur du Centre culturel national Chung-Cheng (National Theater & Concert Hall), et en 2004, après sa restructuration en entité administrative, il en est devenu le premier directeur artistique. Ce poste lui a permis de promouvoir le développement des arts de la scène à Taïwan à un niveau supérieur.
 
-Durant son mandat, il lance de nombreuses programmations novatrices, dont les « Fêtes du jazz d'été du Liangting Yuan » et le « Laboratoire des nouvelles idées ». Il place la collaboration transdisciplinaire au cœur du projet : rapprocher la musique, la danse et le théâtre pour engendrer des œuvres dont la singularité surprend et émerveille.
+Durant son mandat au National Theater & Concert Hall, Chu Tsung-ching a impulsé de nombreux programmes innovants, tels que le « Summer Jazz Party » ou le « New Idea Experimental Stage ». Il a particulièrement mis l'accent sur les collaborations interdisciplinaires, favorisant la fusion entre la musique, la danse et le théâtre pour créer des œuvres remarquables.
 
-Il déploie aussi une politique ambitieuse d'éducation artistique, proposant concerts familiaux, conférences commentées et stages artistiques de toutes sortes. Pour Chu, un théâtre ne doit pas être une tour d'ivoire réservée à une élite culturelle — il doit être un lieu d'éducation artistique pour tous. Ce principe « artiser le quotidien, vivre l'art » a profondément marqué l'évolution des arts de la scène à Taïwan.
+Il a également activement promu l'éducation artistique en organisant divers concerts pour familles, des séances de médiation culturelle et des camps artistiques. Selon la philosophie de Chu Tsung-ching, un théâtre ne devrait pas être une tour d'ivoire réservée à l'élite, mais doit devenir un lieu essentiel d'éducation artistique pour tous. Cette idée de « l'art dans la vie et la vie par l'art » a profondément influencé la direction du développement des arts de la scène à Taïwan.
 
-## Le Prix national des arts en 2000
+## Reconnaissance par le Prix national des arts en 2000
 
-En 2000, Chu Chung-ching reçoit le Prix national des arts (4e édition), qui récompense sa contribution exceptionnelle au développement de la culture musicale taïwanaise. Cette distinction honore non seulement son parcours personnel, mais reconnaît l'ensemble du mouvement qu'il a contribué à construire autour des percussions à Taïwan.
+En 2000, Chu Tsung-ching a reçu le quatrième Prix national des arts, récompensant ses contributions exceptionnelles au développement de la culture musicale taïwanaise. Ce prix n'était pas seulement une reconnaissance de sa réussite personnelle, mais aussi une validation du développement de l'ensemble de la percussion à Taïwan.
 
-Le jury souligne dans sa déclaration : « Par sa compétence et son engagement, Chu Chung-ching a réussi à bâtir à Taïwan un écosystème complet autour des percussions. Il a formé de nombreux talents musicaux et contribué à l'élévation générale du niveau musical dans la société. » Cette appréciation résume fidèlement l'ampleur de son apport à la culture taïwanaise.
+Le jury du Prix national des arts a déclaré dans son allocution : « Par ses compétences professionnelles et sa passion, Chu Tsung-ching a réussi à établir un système complet de percussion à Taïwan, formant non seulement un grand nombre de talents musicaux, mais élevant également l'ensemble de l'environnement musical. » Cette évaluation résume avec précision la contribution de Chu Tsung-ching à la culture taïwanaise.
 
-Au-delà du Prix national des arts, Chu a été distingué par de nombreuses autres récompenses — le Prix de création artistique du ministère de l'Éducation, le Prix des arts Zhongshan, entre autres. Mais il répète volontiers que sa plus grande fierté reste d'avoir été le témoin de la transformation des percussions à Taïwan : d'une discipline inexistante, à une pratique minoritaire, puis à un art populaire accessible à tous.
+Outre le Prix national des arts, Chu Tsung-ching a reçu de nombreux autres honneurs, dont le Prix de création artistique du ministère de l'Éducation et le Prix Chung-shan des arts. Cependant, il affirme souvent que sa plus grande réussite est d'avoir vu la percussion passer de l'inexistence à une présence établie, et d'un marché de niche à un art populaire à Taïwan.
 
-## Créations transdisciplinaires et décloisonnement artistique
+## Tentatives d'innovation par la collaboration interdisciplinaire
 
-Une autre contribution majeure de Chu est d'avoir fait dialoguer les percussions avec d'autres formes artistiques. Dès la fondation de l'ensemble en 1986, une collaboration avec le Cloud Gate Dance Theatre donne naissance à une version mémorable du ballet _Héritage_ — une référence en matière de mariage entre musique et danse.
+Une autre contribution majeure de Chu Tsung-ching est la promotion du lien entre la percussion et d'autres formes d'art. Dès la création de l'ensemble en 1986, il a collaboré avec la compagnie de danse Cloud Gate pour la pièce classique _Legacy_ (_Xīn chuán_), créant un modèle de fusion entre musique et danse.
 
-Par la suite, l'ensemble collabore régulièrement avec le Cloud Gate, le Lanling Theater, le Performance Workshop et d'autres grandes compagnies, créant une série d'œuvres transdisciplinaires. En 1989, _Lucioles_, réalisé avec le Lanling Theater, s'impose comme une étape marquante de l'histoire du théâtre taïwanais.
+Par la suite, l'ensemble a collaboré successivement avec des groupes artistiques majeurs tels que Cloud Gate, Lanling Theatre Workshop et Performance Workshop pour créer de nombreuses œuvres interdisciplinaires. En 1989, sa collaboration avec Lanling Theatre Workshop pour _Fireflies_ (_Yíng huǒ_) a constitué un jalon important dans l'histoire du théâtre taïwanais.
 
-Chu s'associe aussi régulièrement à des musiciens de la scène pop — Lo Ta-yu, Li Tsung-sheng, Wu Bai, entre autres. Cette façon de faire tomber les frontières entre musique classique et musique populaire a permis à une nouvelle génération de découvrir les percussions, tout en insufflant une énergie nouvelle à une tradition musicale parfois perçue comme austère.
+Chu Tsung-ching a également collaboré activement avec le monde de la musique pop, partageant la scène avec des musiciens tels que Lo Ta-yu, Lee Tsung-sheng et Wu Bai. Cette approche brisant les frontières entre classique et populaire a permis à davantage de jeunes de découvrir la percussion et a insufflé une nouvelle vitalité à la musique traditionnelle.
 
-## À la tête de l'Université nationale des arts de Taipei
+## Période de présidence de l'Université nationale des arts de Taipei
 
-De 2006 à 2013, Chu est président de l'Université nationale des arts de Taipei. Pendant sept ans, il œuvre à élever la qualité de la formation artistique, à renforcer les échanges internationaux et à faire de l'université un pôle d'enseignement artistique de premier plan en Asie.
+De 2006 à 2013, Chu Tsung-ching a occupé le poste de président de l'Université nationale des arts de Taipei (Taipei National University of the Arts). Durant ces sept années, il s'est consacré à l'amélioration de la qualité de l'éducation artistique et à la promotion des échanges internationaux, faisant de l'université un pôle majeur de l'enseignement artistique en Asie.
 
-Durant cette période, il s'attache particulièrement à l'intégration des disciplines. Il encourage les collaborations entre les départements de musique, danse, théâtre et arts visuels, et invite les étudiants à s'ouvrir à toutes les formes artistiques. Cette vision globale de la formation produit une génération d'artistes dotés d'une vraie liberté créatrice.
+En tant que président, il a particulièrement mis l'accent sur l'intégration interdisciplinaire. Il a encouragé la collaboration entre les départements de musique, de danse, de théâtre et d'arts plastiques, incitant les étudiants à explorer diverses formes artistiques. Cette vision d'une éducation artistique globale a formé de nombreux professionnels dotés d'un esprit innovant.
 
-Il développe également les partenariats internationaux, tissant des liens avec des institutions artistiques reconnues en Europe, en Amérique et en Asie. Grâce à ses efforts, l'université attire non seulement les meilleurs étudiants taïwanais en arts, mais aussi des étudiants étrangers en quête d'une formation d'excellence.
+Il a également activement promu la coopération internationale en établissant des relations d'échange avec de nombreuses institutions artistiques renommées en Europe, en Amérique et en Asie. Grâce à ses efforts, l'université est devenue non seulement le premier choix pour les étudiants taïwanais souhaitant approfondir leurs études artistiques, mais a aussi attiré de nombreux étudiants internationaux.
 
-## Innover sans relâche pour la diffusion musicale
+## Promotion musicale et innovation continue
 
-Même à l'approche de la soixante-dixième année, Chu Chung-ching continue d'explorer de nouvelles voies pour la promotion des percussions. Ces dernières années, il a activement intégré les outils numériques à sa démarche : cours en ligne, spectacles en réalité virtuelle — autant de formats qui ouvrent les percussions à des publics jusque-là inaccessibles.
+Même proche de la soixantaine, Chu Tsung-ching continue d'innover dans la promotion de la musique. Ces dernières années, il utilise activement les technologies numériques pour promouvoir la percussion, notamment via des cours en ligne et des performances en réalité virtuelle (VR), permettant à un plus grand nombre de personnes d'y accéder.
 
-Pendant la pandémie de 2020, l'ensemble Ju a proposé plusieurs concerts en ligne, maintenant le lien avec son public tout en explorant de nouvelles modalités d'expression scénique. Cette capacité à se renouveler avec son époque est l'une des clés du succès de Chu depuis quarante ans.
+Pendant la pandémie de 2020, l'Ensemble de percussion Chu Tsung-ching a proposé plusieurs concerts en ligne, maintenant ainsi le lien avec le public tout en ouvrant de nouvelles possibilités pour les performances musicales. Cet esprit d'innovation, en phase avec son temps, est la clé du succès continu de Chu Tsung-ching depuis quarante ans.
 
-Il accorde aussi une grande attention à la formation de la jeune génération. L'ensemble organise régulièrement des « stages d'été de percussions » et anime des ensembles de percussions pour jeunes, offrant aux talents émergents un encadrement professionnel de qualité. Nombre de percussionnistes aujourd'hui actifs sur la scène musicale taïwanaise ont bénéficié de l'enseignement de Chu.
+Chu Tsung-ching accorde également une grande importance à la formation des jeunes générations. L'ensemble organise régulièrement des activités telles que des « camps d'été de percussion » ou un « ensemble de percussion pour adolescents », offrant une direction professionnelle aux jeunes passionnés par ce domaine. De nombreux percussionnistes aujourd'hui actifs dans le milieu musical taïwanais ont été formés sous sa direction.
 
-## Quarante ans d'héritage culturel
+## Influence culturelle sur quarante ans
 
-En regardant en arrière, l'influence de Chu Chung-ching sur la culture taïwanaise est totale. Il a réussi à faire d'une pratique confidentielle un art familier de tous, élargissant l'horizon musical de la société taïwanaise. Son système d'enseignement a formé des centaines de milliers de personnes, élevant le niveau musical général de la société.
+En regardant en arrière les quarante années d'efforts de Chu Tsung-ching, son influence sur la culture taïwanaise est multidimensionnelle. Premièrement, il a réussi à transformer un art marginal en une forme musicale familière du grand public, élargissant ainsi l'horizon musical des Taïwanais. Deuxièmement, le système éducatif qu'il a instauré a formé des centaines de milliers d'apprenants, élevant le niveau de culture musicale de la société dans son ensemble.
 
-Plus profondément encore, Chu a prouvé que la culture et l'art peuvent constituer une entreprise sociale réussie. Son modèle, qui articule idéal artistique et viabilité économique, est devenu une référence pour de nombreuses autres compagnies artistiques taïwanaises. Cette pratique pionnière de ce qu'on appelle aujourd'hui les industries culturelles et créatives a eu un impact durable sur le développement de la culture taïwanaise dans son ensemble.
+Plus important encore, Chu Tsung-ching a prouvé que les arts et la culture peuvent également constituer une entreprise sociale réussie. Son modèle de gestion combine idéaux artistiques et durabilité commerciale, offrant une référence importante pour d'autres groupes artistiques à Taïwan. Cette pratique pionnière des « industries culturelles et créatives » a eu un impact profond sur le développement global du secteur culturel taïwanais.
 
-Chu Chung-ching dit souvent : « La musique n'a pas de frontières, mais le musicien a une patrie. » Son ambition : faire connaître la vitalité culturelle de Taïwan au monde à travers la musique. En quarante ans, non seulement il a réalisé ce rêve, mais il a suscité en Taïwan une passion musicale partagée par des générations entières, posant ainsi les fondements durables du développement culturel de l'île.
+Chu Tsung-ching dit souvent : « La musique n'a pas de frontières, mais les musiciens ont une patrie. » Il espère que par la force de la musique, le monde découvrira la vitalité culturelle de Taïwan. En quarante ans, il a non seulement réalisé ce souhait, mais a aussi formé d'innombrables amateurs de musique, posant des bases solides pour le développement culturel du pays.
 
-L'histoire de ce « père des percussions taïwanaises » nous rappelle que la culture exige des artisans obstinés, capables de cultiver leur champ sur le long terme et de se renouveler sans cesse. Chu Chung-ching a mis quarante ans à transformer le rêve musical d'un homme en patrimoine culturel d'une société tout entière. Sa persévérance et sa vision méritent d'inspirer tous ceux qui travaillent au service de la culture.
+L'histoire de ce « père de la percussion à Taïwan » nous enseigne que la force de la culture nécessite un travail de longue haleine et une innovation constante. Chu Tsung-ching a mis quarante ans pour transformer le rêve musical d'un homme en un patrimoine culturel pour toute une société ; cette persévérance et cette vision méritent d'être exemplaires pour tous les acteurs de la culture.
 
 ## Références
 
-- [Base de données des musiciens taïwanais - Chu Chung-ching](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
-- [Chu Chung-ching - Université nationale des arts de Taipei](https://chai.tnua.edu.tw/en/faculty/pr24/)
-- [Chu Chung-ching - Prix national des arts](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
-- [Système d'enseignement des percussions Ju](https://www.juschool.com.tw/)
-- [Site officiel du Ju Percussion Group](https://www.jpg.org.tw/)
+- [Base de données sur les figures musicales de Taïwan - Chu Tsung-ching](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=59)
+- [Chu Tsung-ching - Université nationale des arts de Taipei](https://chai.tnua.edu.tw/en/faculty/pr24/)
+- [Chu Tsung-ching - Prix national des arts](https://www.ncafroc.org.tw/artsaward/winnerDetail@1216)
+- [Système d'enseignement de la percussion Chu Tsung-ching](https://www.juschool.com.tw/)
+- [Site officiel de l'Ensemble de percussion Chu Tsung-ching](https://www.jpg.org.tw/)

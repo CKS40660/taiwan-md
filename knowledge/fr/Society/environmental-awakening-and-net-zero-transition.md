@@ -1,27 +1,27 @@
 ---
-title: 'Environnement et développement durable à Taïwan'
-description: "De l'île aux cheminées à Taïwan zéro carbone : 40 ans d'éveil écologique"
+title: 'Environnement et développement durable'
+description: "De l'île aux cheminées des années 1980 avec sa politique « polluer d'abord, traiter ensuite », au mouvement anti-DuPont de Lukang en 1986 qui a éveillé la conscience environnementale de Taïwan, à la création de l'Administration de la protection de l'environnement en 1988 marquant l'institutionnalisation, jusqu'à la transition énergétique post-Fukushima en 2011 et l'engagement pour le net-zéro d'ici 2050 en 2022 : Taïwan a mis 40 ans pour se réveiller au prix de la rivière Love noircie et des dépassements de PM2,5, atteignant aujourd'hui un taux de recyclage de 60,1 %, avec plus de 200 entreprises s'engageant sur des objectifs de réduction carbone basés sur la science."
 date: 2026-03-21
+category: 'Society'
 tags:
   [
-    'environnement',
-    'développement durable',
-    'zéro émission nette',
-    'économie circulaire',
-    'changement climatique',
+    'Environnement',
+    'Développement durable',
+    'Émissions nettes nulles',
+    'Économie circulaire',
+    'Changement climatique',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
+readingTime: 8
 translatedFrom: 'Society/環保與永續發展.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: '2026-04-14T12:32:44+08:00'
+translatedAt: '2026-10-15T19:59:40.273863+00:00'
 ---
 
 # Environnement et développement durable : l'éveil vert d'une île

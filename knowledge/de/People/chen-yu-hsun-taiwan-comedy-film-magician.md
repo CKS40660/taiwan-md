@@ -1,16 +1,16 @@
 ---
 title: 'Chen Yu-hsun'
-description: 'Taiwanesischer Komödienfilmregisseur, Schöpfer von „Tropische Fische“, „Der Meisterkoch“ und „Der verschwundene Valentinstag“'
+description: 'Taiwanese Comedy-Regisseur aus einem Militärdorf, der mit fünf Spielfilmen eine eigene Grammatik für lokale Komödien etablierte und durch absurdes Humorvolle tiefgründige Lebensfragen mit menschlicher Wärme beleuchtet.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Chen Yu-hsun',
     'Regisseur',
-    'Komödienfilm',
-    'Tropische Fische',
-    'Der Meisterkoch',
-    'Der verschwundene Valentinstag',
+    'Komödie',
+    'Tropical Fish',
+    'Master Chef',
+    'The Vanished Valentine',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -18,128 +18,128 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'People/陳玉勳.md'
-sourceCommitSha: 'f712b7242'
+sourceCommitSha: 'afc244ca1'
 sourceContentHash: 'sha256:bc132f506d9946e5'
 sourceBodyHash: 'sha256:ae4d7d2f8418495d'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-10-15T12:43:12+08:00'
 ---
 
-# Chen Yu-hsun: Der warmherzige Magier des taiwanesischen Komödienfilms
+# Chen Yu-hsun: Der warme Magier des taiwanesischen Comedy-Kinos
 
-Von 1995 mit „Tropische Fische“ bis 2020 mit „Der verschwundene Valentinstag“ etablierte Chen Yu-hsun mit fünf Spielfilmen eine eigene filmische Grammatik des taiwanesischen Komödienfilms. Seine Filme sind erfüllt von taiwanesischem Humor und humanistischer Wärme; er versteht es, in absurden Situationen tiefgründige Lebensthemen zu verhandeln. „Der verschwundene Valentinstag“ erhielt den Preis für den besten Spielfilm bei den 57. Golden Horse Awards – die stärkste externe Anerkennung für diese Grammatik.
+Von _Tropical Fish_ (1995) bis hin zu _The Vanished Valentine_ (2020) hat Chen Yu-hsun mit fünf Spielfilmen eine eigene schöpferische Grammatik für die lokale Komödie in Taiwan etabliert. Seine Filme sind geprägt von taiwanesischem Humor und menschlicher Wärme; er versteht es, tiefgründige Lebensfragen inmitten absurder Situationen zu untersuchen. Dass _The Vanished Valentine_ als Bester Spielfilm beim 57. Golden Horse Award ausgezeichnet wurde, gilt als die bedeutendste externe Anerkennung für diesen Stil.
 
-## Der Filmträum eines Jungen aus der Militärsiedlung
+## Ein Filmträumer aus dem Militärdorf
 
-Chen Yu-hsun (geboren am 28. Mai 1960) kam in Taipeh zur Welt; sein Vater war Militärangehöriger, und er wuchs in einer Militärsiedlung auf. Die kulturelle Vielfalt der Einwanderer aus verschiedenen Provinzen und die dichte menschliche Wärme dieser Siedlungen lieferten ihm später konkretes Material für sein Schaffen.
+Chen Yu-hsun (geboren am 28. Mai 1960) wurde in Taipeh geboren und wuchs in einem sogenannten „Military Village“ (Juancun) auf, in dem sein Vater als Soldat diente. Der kulturelle Hintergrund dieser Siedlungen, in denen Einwanderer aus verschiedenen Provinzen zusammenlebten, sowie die ausgeprägte zwischenmenschliche Herzlichkeit boten ihm später konkretes Material für seine Werke.
 
-In der Mittelstufe begann er, sich mit Film auseinanderzusetzen, stark beeinflusst von Hollywood-Komödienmeistern wie Billy Wilder und Frank Capra. Er erkannte, dass Film im Lachen tiefe Emotionen vermitteln kann, und beschloss, dies zu seinem Lebensziel zu machen.
+In der Mittelstufe kam er erstmals mit dem Film in Berührung und war stark von Hollywood-Komödiengrößen wie Billy Wilder und Frank Capra beeinflusst. Er erkannte, dass Filme tiefe Emotionen inmitten des Lachens vermitteln können, und entschied sich, dies zu seinem Lebensziel zu machen.
 
-Er absolvierte die Nationale Universität der Künste Taiwan (ursprünglich Nationale Fachhochschule für Kunst) [^1] und erhielt eine vollständige filmische Ausbildung. Während des Studiums drehte er mehrere Kurzfilme, die sein Talent und seine Leidenschaft für das Komödiengenre zeigten.
+Er absolvierte seine Ausbildung an der National Taiwan University of Arts (ehemals National College of Arts) [^1] und erhielt eine fundierte filmische Ausbildung. Während seiner Studienzeit drehte er mehrere Kurzfilme, die bereits sein Talent und seine Leidenschaft für das Genre der Komödie zeigten.
 
-## Kreativtraining in der Werbebranche
+## Kreatives Training in der Werbebranche
 
-Nach dem Abschluss stieg Chen Yu-hsun in die Werbebranche ein. Das schnelle Tempo und die kreativen Anforderungen der Werbung schulten seine Fähigkeit, Rhythmus und visuelle Effekte präzise zu kontrollieren – eine Prägung, die in seinem späteren Filmschaffen deutlich sichtbar blieb.
+Nach seinem Abschluss arbeitete Chen Yu-hsun in der Werbebranche. Das hohe Tempo und die kreativen Anforderungen der Werbung schulten präzise seine Fähigkeit, Rhythmus und visuelle Effekte zu kontrollieren – eine Fertigkeit, die in seinen späteren Filmen deutlich erkennbar bleibt.
 
-In seiner Werbezeit inszenierte Chen Yu-hsun unzählige kreative Spots und gewann diverse Werbepreise. Er lernte, die Aufmerksamkeit des Publikums in kürzester Zeit zu fesseln – eine Fertigkeit, die sich im Filmschaffen als äußerst nützlich erwies.
+Während seiner Zeit in der Werbung inszenierte Chen zahlreiche kreative Werbespots und gewann diverse Branchenpreise. Er lernte, die Aufmerksamkeit des Publikums in kürzester Zeit zu fesseln, was sich als äußerst nützlich für das Filmemachen erwies.
 
-Anfang der 1990er Jahre erlebte Taiwans Werbebranche eine Expansionsphase. Chen Yu-hsun und viele Zeitgenossen wie Tsai Ming-liang und Yi Chih-yen wechselten alle aus der Werbung in den Film und formten so die neue Generation des taiwanesischen Kinos.
+In den frühen 1990er Jahren befand sich die taiwanesische Werbebranche in einer Expansionsphase. Chen Yu-hsun gehörte zusammen mit anderen zeitgenössischen Kreativen wie Tsai Ming-liang und Yi Chih-yen zu jener Generation, die aus der Werbung in das Kino wechselte und so eine neue Ära des taiwanesischen Films einleitete.
 
-## Spielfilmdebüt: „Tropische Fische“
+## Das Filmdebüt: _Tropical Fish_
 
-1995 legte Chen Yu-hsun mit „Tropische Fische“ sein Spielfilmdebüt vor. Diese Low-Budget-Produktion schuf ein kleines Wunder in der taiwanesischen Filmgeschichte. Der Film erzählt in absurdem Humor die Geschichte eines frustrierten Mannes, der unfreiwillig in einen Entführungsfall verwickelt wird.
+1995 veröffentlichte Chen Yu-hsun sein Debüt _Tropical Fish_. Diese Produktion mit geringem Budget wurde zu einem Wunder der taiwanesischen Filmgeschichte. Der Film beschreibt auf absurde und humorvolle Weise die Geschichte eines frustrierten Mannes, der versehentlich in einen Entführungsfall verwickelt wird.
 
-Der Erfolg von „Tropische Fische“ lag in seinem einzigartigen taiwanesischen Humorstil. Chen Yu-hsun nutzte kulturelle Elemente der taiwanesischen Gesellschaft geschickt und schuf damit eine komödiantische Gattung mit lokaler Prägung. Die Figuren stecken zwar in Schwierigkeiten, bewahren aber stets eine optimistische Haltung.
+Der Erfolg von _Tropical Fish_ lag in seinem einzigartigen taiwanesischen Humorstil. Chen Yu-hsun nutzte geschickt kulturelle Elemente der taiwanesischen Gesellschaft, um ein Genre mit lokalem Charakter zu schaffen. Obwohl die Charaktere vor großen Herausforderungen stehen, bewahren sie stets eine optimistische Haltung.
 
-Der Film erhielt den Preis für das beste Originaldrehbuch bei den 32. Golden Horse Awards und war auch an der Kinokasse erfolgreich [^4]. „Tropische Fische“ bewies das Marktpotenzial taiwanesischer Komödienfilme und ebnete den Weg für nachfolgende Schaffende.
+Der Film gewann den Preis für das beste Originaldrehbuch beim 32. Golden Horse Award und war zudem ein kommerzieller Erfolg an den Kinokassen [^4]. _Tropical Fish_ bewies das Marktpotenzial lokaler taiwanesischer Komödien und ebnete den Weg für nachfolgende Filmemacher.
 
-## Erkundung der Liebeskomödie
+## Die Erkundung der Liebeskomödie
 
-Nach „Tropische Fische“ erforschte Chen Yu-hsun weiter verschiedene Formen der Liebeskomödie. 1997 wagte er mit „Die Liebe kommt“ den Versuch einer romantischen Komödie; obwohl die Kinokasse mäßig ausfiel, zeigte der Film sein tiefes Verständnis für weibliche Figuren.
+Nach _Tropical Fish_ setzte Chen Yu-hsun die Erforschung verschiedener Komödienformen fort. Mit _Love Comes_ (1997) experimentierte er mit dem Format der Liebeskomödie; obwohl der kommerzielle Erfolg ausblieb, zeigte der Film sein tiefes Verständnis für weibliche Charaktere.
 
-2000 folgte „Liebe dich, liebe ich“ mit reiferer Erzählweise, der die Liebesnöte moderner Großstädter thematisierte. Chen Yu-hsun begann, mehr Lebensphilosophie in die Komödie einzuflechten und zeigte so sein wachsendes Können als Regisseur.
+Im Jahr 2000 nutzte er mit _Love You, Love Me_ eine reifere Erzählweise, um die Liebesprobleme moderner Stadtbewohner zu thematisieren. Chen begann, mehr philosophische Gedanken in seine Komödien einzubauen, was den Fortschritt seiner Regiearbeit unterstrich.
 
-Die Werke dieser Phase hatten zwar nicht den Sensationseffekt von „Tropische Fische“, doch sie häuften ausreichend Schaffenserfahrung an und vertieften sein Verständnis für das Wesen des Komödienfilms.
+Obwohl die Werke dieser Periode nicht den Sensationseffekt von _Tropical Fish_ erreichten, sammelte Chen Yu-hsun ausreichend Erfahrung und vertiefte sein Verständnis für das Wesen des Comedy-Films.
 
-## Rückkehr zum Ruhm: „Der Meisterkoch“
+## Rückkehr zum Ruhm: _Master Chef_
 
-Nach Jahren des stillen Reifens legte Chen Yu-hsun 2013 „Der Meisterkoch“ vor und bewies erneut seine schöpferische Kraft. Der Film spielt vor dem Hintergrund der traditionellen Bankettkultur („Ban-Doh“) in Tainan und schildert den Wettstreit dreier Küchenchefs um den Titel des „Meisterkochs“.
+Nach Jahren der intensiven Arbeit bewies Chen Yu-hsun 2013 mit _Master Chef_ erneut seine schöpferische Kraft. Der Film nutzt die „Ban-tuo“-Kultur (traditionelle Bankettküche) von Tainan als Hintergrund und erzählt die Geschichte von drei Köchen, die um den Status des „Chefkochs“ konkurrieren.
 
-Der Erfolg von „Der Meisterkoch“ gründet in der tiefen Erschließung taiwanesischer Traditionskultur. Chen Yu-hsun präsentiert in komödiantischer Form den Kern der Bankettkultur und lässt junge Zuschauer den Wert traditioneller Handwerkskunst erkennen.
+Der Erfolg von _Master Chef_ beruht auf der tiefgehenden Auseinandersetzung mit der traditionellen taiwanesischen Kultur. Chen präsentiert die Essenz der Bankettkultur in komödiantischer Form und macht so jungen Zuschauern den Wert traditioneller Handwerkskunst bewusst.
 
-Der Film versammelte Stars wie Yang Yo-ning und [Brigitte Lin](/de/people/brigitte-lin-legendary-actress/) und fand eine gute Balance zwischen Kommerzialität und Kunstanspruch. „Der Meisterkoch“ war nicht nur ein Kassenerfolg, sondern fand auch bei der Kritik Anerkennung.
+Mit einem Star-Ensemble, darunter Yang Yo-ning und [Brigitte Lin](/de/people/brigitte-lin-legendary-actress/), findet der Film eine gute Balance zwischen Kommerzialität und künstlerischem Anspruch. _Master Chef_ war nicht nur ein Kassenschlager, sondern auch bei Kritikern hoch angesehen.
 
-## Magischer Realismus: „Der verschwundene Valentinstag“
+## Magischer Realismus: _The Vanished Valentine_
 
-2020 erschien mit „Der verschwundene Valentinstag“ Chen Yu-hsuns ehrgeizigstes Werk, das Liebesfilm, Komödie, magischen Realismus und weitere Elemente verschmilzt. Der Film erzählt die fantastische Geschichte eines Mannes, der in einem Zeitwirrwarr nach wahrer Liebe sucht.
+Das Jahr 2020 markierte mit _The Vanished Valentine_ das ambitionierteste Werk von Chen Yu-hsun, das Elemente aus Romanze, Komödie und magischem Realismus vereint. Der Film erzählt die fantastische Geschichte eines Protagonisten, der in einer zeitlich und räumlich verschlungenen Welt nach der wahren Liebe sucht.
 
-Der Film kam während der COVID-19-Pandemie in die Kinos; gerade das Thema der Zeitverschränkung verlieh ihm eine besondere zeitgeschichtliche Bedeutung. Chen Yu-hsun verband Science-Fiction-Elemente geschickt mit taiwanesischem Humor und schuf so ein einzigartiges Seherlebnis.
+Dass der Film während der COVID-19-Pandemie erschien, verlieh ihm durch das Konzept der zeitlichen Verschränkung eine besondere Relevanz für die damalige Ära. Chen verknüpfte geschickt Science-Fiction-Elemente mit taiwanesischem Humor und schuf so ein einzigartiges Seherlebnis.
 
-„Der verschwundene Valentinstag“ gewann bei den 57. Golden Horse Awards fünf Preise, darunter den für den besten Spielfilm – der Höhepunkt von Chen Yu-hsuns Karriere [^3]. Das Werk bewies die internationale Wettbewerbsfähigkeit taiwanesischer einheimischer Filme.
+_The Vanished Valentine_ gewann fünf große Auszeichnungen, darunter den Golden Horse Award für den Besten Spielfilm, was den Höhepunkt von Chens Karriere markiert [^3]. Das Werk bewies die Wettbewerbsfähigkeit des lokalen taiwanesischen Kinos auf dem internationalen Markt.
 
-## Konstruktion des „taiwanesischen Humors“
+## Konstruktion des taiwanesischen Humors
 
-Chen Yu-hsuns markantester Beitrag ist die Konstruktion einer filmischen Sprache des „taiwanesischen Humors“. Seine Komödie hat Menschlichkeit als Gewebe, die absurde Situation ist nur die Hülle; im Kern liegt die feine Beobachtung taiwanesischer Gesellschaft und Kultur.
+Chens bedeutendster Beitrag ist die Entwicklung einer Filmsprache für den „taiwanesischen Humor“. Seine Komödien zeichnen sich durch eine zwischenmenschliche Wärme aus; das Absurde dient lediglich als Hülle, während der Kern aus einer feinsinnigen Beobachtung der taiwanesischen Gesellschaft besteht.
 
-Er versteht es, im Alltag absurde Elemente zu entdecken und gesellschaftliche Phänomene durch Überzeichnung darzustellen. Diese Humorart unterhält nicht nur, sondern regt auch zum Nachdenken über die Realität an.
+Er versteht es, absurde Elemente im Alltag zu entdecken und gesellschaftliche Phänomene durch Übersteigerung darzustellen. Diese Form des Humors unterhält das Publikum nicht nur, sondern regt auch zum Nachdenken über die Realität an.
 
-Bei der Figurenzeichnung legt Chen Yu-hsun besonderen Wert auf die grundgütige Natur der Personen. Selbst Antagonisten zeigen die komplexe Seite der Menschlichkeit und vermeiden klischeehafte Schablonen.
+Bei der Charakterentwicklung legt Chen besonderen Wert auf das gute Wesen der Figuren. Selbst Antagonisten werden mit menschlicher Komplexität dargestellt, um Klischees zu vermeiden.
 
-## Aufmerksamkeit für taiwanesische Kultur
+## Fokus auf die taiwanesische Kultur
 
-Chen Yu-hsuns Filme widmen sich durchgängig der Bewahrung und Weitergabe taiwanesischer einheimischer Kultur. Von den Randfiguren der Stadt in „Tropische Fische“ bis zum traditionellen Handwerk in „Der Meisterkoch“ dokumentiert er mit dem Film die vielfältigen Facetten der taiwanesischen Gesellschaft.
+Chens Filme befassen sich stets mit der Bewahrung und Weitergabe der lokalen taiwanesischen Kultur. Von den Außenseitern in der Stadt in _Tropical Fish_ bis hin zum traditionellen Handwerk in _Master Chef_ – er nutzt das Kino, um die vielfältigen Facetten der taiwanesischen Gesellschaft zu dokumentieren.
 
-Er misst der Verwendung von Dialekten besondere Bedeutung bei, da Sprache ein wichtiger Kulturträger ist. In seinen Filmen erhalten Taiyu, Hakka und andere Dialekte den ihnen gebührenden Respekt und Raum.
+Besonders wichtig ist ihm die Verwendung von Dialekten, da Sprache für ihn ein wesentlicher kultureller Träger ist. In seinen Filmen erhalten Dialekte wie Taiwanesisch oder Hakka den gebührenden Respekt und Raum.
 
-Chen Yu-hsun beachtet auch gesellschaftlich benachteiligte Gruppen; seine Protagonisten sind oft „kleine Leute“, die er in ihrer Zähigkeit und Güte zeigt. Diese humanistische Zuwendung ist ein wesentliches Merkmal seines Werks.
+Zudem widmet sich Chen sozialen Randgruppen; seine Filme haben oft kleine, unbedeutende Menschen als Protagonisten, um deren Widerstandsfähigkeit und Güte zu zeigen. Diese humanistische Haltung ist ein prägendes Merkmal seines Werks.
 
 ## Zusammenarbeit mit Schauspielern
 
-Chen Yu-hsun versteht es, Schauspieler zu entdecken und zu fördern; viele Nichtprofis zeigten unter seiner Regie herausragende Leistungen. Er hält echte Emotionen für wichtiger als virtuose Technik.
+Chen Yu-hsun besitzt ein Talent dafür, Schauspieler zu entdecken und zu fördern; viele Laiendarsteller zeigen unter seiner Regie herausragende Leistungen. Er vertritt die Ansicht, dass echte Emotionen wichtiger sind als perfekte Technik.
 
-Mit Komödianten wie Kuo Tzu-chien und Peng Chia-chia pflegte er langjährige Arbeitsbeziehungen und formte einen einzigartigen Darstellungsstil. Diese Schauspieler glänzen in seinen Filmen immer wieder.
+Er pflegt langfristige Kooperationen mit Komikern wie Guo Zi-qian und Peng Chia-chia, wodurch ein einzigartiger Schauspielstil entstanden ist. Diese Darsteller glänzen in seinen Filmen durch ihre Präsenz.
 
-Auch die Förderung von Nachwuchs liegt Chen Yu-hsun am Herzen; er gibt jungen Schauspielern Chancen. Nicht wenige debütierten in seinen Werken und erhielten daraufhin weitere Engagements.
+Auch die Förderung von Nachwuchstalenten ist ihm wichtig. Viele Schauspieler konnten in seinen Werken erste Schritte machen und darauf aufbauend ihre Karrieren entwickeln.
 
 ## Produktionsphilosophie und Branchenreflexion
 
-Als Regisseur kümmert sich Chen Yu-hsun auch um die Entwicklung der taiwanesischen Filmbranche. Er beharrt auf einem einheimischen Weg und meint, taiwanesischer Film solle seine kulturellen Vorteile ausspielen.
+Als Regisseur setzt sich Chen Yu-hsun auch für die Entwicklung der taiwanesischen Filmindustrie ein. Er hält an einem lokal orientierten Kurs fest und ist überzeugt, dass das taiwanesische Kino seine kulturellen Vorteile nutzen sollte.
 
-Er plädiert für die Verfeinerung von Low-Budget-Produktionen und bewies, dass gute Ideen und Ausführungskraft wichtiger sind als riesige Investitionen. Diese Philosophie weist dem taiwanesischen Independentfilm einen gangbaren Weg.
+Er plädiert für eine Verfeinerung von Low-Budget-Produktionen und beweist, dass gute Kreativität und Umsetzung wichtiger sind als riesige Investitionen. Diese Philosophie bietet einen gangbaren Weg für das unabhängige Kino in Taiwan.
 
-Chen Yu-hsun beteiligt sich aktiv an branchenpolitischen Diskussionen und bringt professionelle Expertise in die taiwanesische Filmförderung ein. Er hofft, ein besseres Umfeld zu schaffen, in dem junge Talente sich entfalten können.
+Zudem beteiligt er sich aktiv an Diskussionen über die Filmindustrie und liefert fachliche Beiträge zur Gestaltung der taiwanesischen Filmpolitik. Sein Ziel ist ein Umfeld, in dem junge Kreative ihr Talent entfalten können.
 
-## Internationaler Blick und einheimische Wurzeln
+## Internationale Perspektive und lokale Wurzeln
 
-Obwohl er einheimische Themen vertieft, bewahrt Chen Yu-hsun stets einen internationalen Horizont. Seine Werke fanden auf ausländischen Festivals Beachtung und bewiesen die internationale Strahlkraft taiwanesischer Kultur.
+Obwohl er sich intensiv mit lokalen Themen befasst, bewahrt Chen Yu-hsun stets eine internationale Perspektive. Seine Werke finden auf internationalen Filmfestivals Beachtung, was den globalen Charme der taiwanesischen Kultur unterstreicht.
 
-Er ist der Ansicht: Je einheimischer, desto internationaler. Taiwanesischer Film muss den internationalen Markt nicht bewusst bedienen, sondern seine einzigartige kulturelle Identität zeigen.
+Er vertritt die Meinung, dass das Lokale das Internationale ist: Das taiwanesische Kino müsse sich nicht krampfhaft dem Weltmarkt anpassen, sondern solle seine eigenen kulturellen Besonderheiten zeigen.
 
-Der internationale Erfolg von „Der verschwundene Valentinstag“ bestätigte seine Schaffensphilosophie. Taiwanesischer Film kann internationale Anerkennung gewinnen, während er seine einheimische Prägung bewahrt.
+Der Erfolg von _The Vanished Valentine_ auf dem internationalen Markt bestätigt seine kreative Philosophie. Taiwanisches Kino kann seine lokale Identität bewahren und gleichzeitig internationale Anerkennung finden.
 
 ## Einfluss auf junge Regisseure
 
-Chen Yu-hsuns Erfolg ermutigte viele junge Regisseure, sich dem Komödienfilm zu widmen. Er bewies, dass das taiwanesische Publikum Bedarf an qualitativ hochwertigen einheimischen Komödien hat und diese unterstützt.
+Chens Erfolg ermutigt viele junge Filmemacher, sich der Komödie zuzuwenden. Er hat bewiesen, dass das taiwanesische Publikum ein Bedürfnis nach qualitativ hochwertigen lokalen Komödien hat und diese auch unterstützt.
 
-Er teilt seine Erfahrung gern und nimmt häufig an Filmbildungsveranstaltungen teil. Viele junge Regisseure schöpften Inspiration aus seinen Werken und Ideen.
+Er teilt seine Erfahrungen gerne und nimmt regelmäßig an filmpädagogischen Aktivitäten teil. Viele junge Regisseure lassen sich von seinen Werken und seiner Philosophie inspirieren.
 
-Die von Chen Yu-hsun begründete Tradition des taiwanesischen Komödienfilms bietet dem taiwanesischen Kino einen verifizierbaren Entwicklungsweg – nicht abhängig von Großbudgets, sondern siegend durch kulturelle Verwurzelung und emotionale Authentizität.
+Die von Chen Yu-hsun etablierte Tradition der taiwanesischen Komödie bietet einen validierten Entwicklungspfad für das heimische Kino – weg von großen Budgets, hin zu kulturellen Wurzeln und emotionaler Authentizität.
 
-## Aktuelle Schaffenslage
+## Aktueller Stand der Arbeit
 
-Chen Yu-hsun bleibt in jüngerer Zeit der Komödienlinie und einheimischen Themen treu. Er meint: Je konkreter die taiwanesischen Details, desto größer die Chance auf Resonanz beim internationalen Publikum. Diese These wurde durch die Reaktionen auf „Der verschwundene Valentinstag“ im Ausland bestätigt.
+In den letzten Jahren blieb Chen Yu-hsun primär im Bereich der Komödie mit lokalem Fokus tätig. Er ist überzeugt, dass je spezifischer die taiwanesischen Details sind, desto größer ist die Chance, Resonanz beim internationalen Publikum zu erzeugen – eine These, die durch die Reaktionen auf die Auslandsveröffentlichungen von _The Vanished Valentine_ bestätigt wurde.
 
-Gleichzeitig kümmert er sich um die Talentförderung in der taiwanesischen Filmbranche und hält die Möglichkeit für junge Regisseure, ihre Ideen umzusetzen, für direkter wirksam als jede Förderpolitik. Seine filmische Sprache zeichnet sich durch Konkretheit aus: Sie lässt das Publikum in einem Bankettmenü, in einer Hintergasse Taiwan selbst spüren – nicht durch Parolen.
+Gleichzeitig setzt er sich für die Talentförderung in der Branche ein; er glaubt, dass jungen Regisseuren die Möglichkeit zur praktischen Umsetzung mehr nützt als jede staatliche Subvention. Seine Filmsprache zeichnet sich durch Konkretheit aus: Das Publikum erfährt Taiwan durch ein gemeinsames Bankett oder eine Gasse, ohne dass es durch Slogans vermittelt werden muss.
 
-Nach dreißig Jahren Schaffen besitzen Chen Yu-hsuns Filme weiterhin Wiedererkennungswert, weil er das konkrete taiwanische Leben stets in den Kern der Geschichte stellt.
+Nach dreißig Jahren des Schaffens sind Chens Filme nach wie vor unverwechselbar, da er das konkrete Leben in Taiwan stets in den Kern seiner Geschichten stellt.
 
 ## Referenzen
 
-[^1]: Wikipedia-Eintrag „Chen Yu-hsun“, Alma Mater: Nationale Universität der Künste Taiwan (ursprünglich Nationale Fachhochschule für Kunst), https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%8E%89%E5%8B%B3
+[^1]: Wikipedia-Eintrag „Chen Yu-hsun“, Ausbildung: National Taiwan University of Arts (ehemals National College of Arts), https://zh.wikipedia.org/zh-tw/%E9%99%B3%E7%8E%89%E5%8B%B3
 
-[^2]: Taiwan Cinema, Werkverzeichnis von Regisseur Chen Yu-hsun, https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12518
+[^2]: Taiwan Cinema Network, Liste der Werke von Regisseur Chen Yu-hsun, https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12518
 
-[^3]: Taipei Golden Horse Film Festival, Preisliste der 57. Golden Horse Awards für „Der verschwundene Valentinstag“, https://www.goldenhorse.org.tw/
+[^3]: Taipei Golden Horse Film Festival, Auszeichnungen für _The Vanished Valentine_ beim 57. Golden Horse Award, https://www.goldenhorse.org.tw/
 
-[^4]: Taipei Golden Horse Film Festival, 32. Golden Horse Awards – Bestes Originaldrehbuch für „Tropische Fische“, https://www.goldenhorse.org.tw/
+[^4]: Taipei Golden Horse Film Festival, Bestes Originaldrehbuch für _Tropical Fish_ beim 32. Golden Horse Award, https://www.goldenhorse.org.tw/
 
-[^5]: Nationales Film- und audiovisuelles Kulturzentrum, Entwicklungsgeschichte des taiwanesischen Komödienfilms, https://www.tfai.org.tw/
+[^5]: National Center for Taiwan Film and Audiovisual Culture, Entwicklung der taiwanesischen Komödie, https://www.tfai.org.tw/

@@ -1,6 +1,6 @@
 ---
 title: 'Ver Taiwan — Impressões Históricas de Taiwan'
-description: 'Da Era dos Descobrimentos à atualidade, como cada época e cada povo viram esta ilha'
+description: 'Da Era dos Descobrimentos à contemporaneidade, diferentes grupos observam esta ilha de formas distintas: os Atayal acreditam que os espíritos ancestrais deixaram marcas na terra, onde montanhas e rios são os corpos de seus antepassados, autodenominando-se filhos da terra; já os Amis expressam sua conexão com o solo através de imagens de enraizamento. Esta coletânea de introduções reúne lendas transmitidas por gerações e memórias da ilha, entrelaçando múltiplas perspectivas de observação.'
 date: 2026-03-17
 tags: ['citações', 'história', 'literatura', 'cultura']
 author: 'Taiwan.md Contributors'
@@ -9,10 +9,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'About/看見台灣引言集.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
-translatedAt: '2026-07-30T02:53:09+08:00'
+translatedAt: '2026-10-15T22:00:15.083803+00:00'
 ---
 
 # Ver Taiwan — Impressões Históricas de Taiwan

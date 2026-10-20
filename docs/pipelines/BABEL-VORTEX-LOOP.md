@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.98'
-last_updated: 2026-10-12
+current_version: 'v1.99'
+last_updated: 2026-10-16
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -319,6 +319,7 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.99（2026-10-16 babel 夜班）：**只改了摘要的譯文，一律被整篇重翻**。10-15 一批 SEO description 改寫合進來，十二語累積 356 份 `metadata-stale`；dispatcher 只讓 `stale` 試章節補丁，metadata-stale 直接走整篇（~145 秒／份，沒改的正文還要冒整篇換詞的險）。status.py 的表格不印 metadata_stale 欄，表上每語只剩 1〜6 格 stale，babel-pulse 卻報 gap=410——兩把尺差在這一欄。改成 metadata-stale 也先交 `patch-translate.py`（只重翻 frontmatter，章節 byte-identical；帶債或 sha 不可解析照舊 exit 2 回整篇），en〈手搖飲〉實測 57 秒、verify-batch 0 錯，上線後第一筆 ja〈張懸與安溥〉23.8 秒。注意：輪中補貨（topup）讓第一輪可以跑二十多小時不結束，「輪與輪之間自比程式碼」的自動重生在這種情況下等不到，改 dispatcher 本體仍要 `launchctl kickstart -k` 一次，重啟前先記下工作樹的已驗未提交譯文，重啟後重跑閘門落地（本次 31 份全過）。
 - v1.98（2026-10-12 babel 夜班）：**量級閘門報 16 處的那一篇，逐句對中文錯了五十處以上**。夜班交接帶了兩晚的
   hi〈台灣新冠疫情與疫苗〉lakh 倍率錯，產線閒置（十二語 stale=0）時接手：`numeral-magnitude-check` 報 16 處
   「萬寫成 लाख」，改完它歸零，但對照中文逐句讀，另有三族它看不到——(a) 換算了但換錯一個量級（腳註 11.7萬

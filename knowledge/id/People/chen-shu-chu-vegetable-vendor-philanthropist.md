@@ -1,28 +1,28 @@
 ---
-title: 'Chen Shu-chu: Pedagang Sayur Taitung yang Menyumbangkan Puluhan Juta dari Uang Sayur Selama 50 Tahun'
-description: 'Seorang pedagang sayur dari Taitung yang menyumbangkan puluhan juta dolar Taiwan dari uang hasil berjualan sayur selama lima puluh tahun, namun tetap menyebut dirinya "hanya seorang penjual sayur"'
+title: 'Chen Shu-chu: Seorang Pedagang Sayur di Taitung yang Menghabiskan Lima Puluh Tahun Menyumbangkan Puluhan Juta Dolar Taiwan untuk Amal'
+description: 'Lahir pada tahun 1950, ia adalah seorang pedagang sayur di Pasar Pusat Taitung. Setelah ibunya meninggal dunia akibat komplikasi persalinan saat ia berusia 13 tahun, ia putus sekolah dan mulai berjualan sayur. Selama lebih dari lima puluh tahun berikutnya, ia menyumbangkan hasil penjualan sayurnya sedikit demi sedikit ke sekolah, panti asuhan, dan rumah sakit, dengan total akumulasi mencapai puluhan juta dolar Taiwan. Pada tahun 2010, ia masuk dalam daftar 100 Tokoh Paling Berpengaruh di Dunia versi majalah TIME, yang direkomendasikan langsung melalui tulisan sutradara Ang Lee, dan kemudian menerima Penghargaan MacGyver. Ia mengatakan dirinya "hanyalah seorang pedagang sayur".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tokoh',
-    'Filantropi',
+    'Amal',
     'Taitung',
     'Pedagang Sayur',
     'Majalah TIME',
-    'Penghargaan Ramon Magsaysay',
+    'Penghargaan MacGyver',
     'Donasi Pendidikan',
   ]
-subcategory: '慈善與社會'
+subcategory: '社會與公益'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '2344309a0'
+sourceCommitSha: 'c8d8d3ad4'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-09T10:45:09.151793+00:00'
+translatedAt: '2026-10-15T19:26:50.216262+00:00'
 ---
 
 > **Ringkasan 30 detik:** Chen Shu-chu, lahir tahun 1950, adalah pedagang sayur di Pasar Sentral Taitung. Pada usia 13 tahun ia berhenti sekolah untuk berjualan sayur setelah ibunya meninggal saat melahirkan. Sejak itu, selama lebih dari lima puluh tahun, ia telah menyumbangkan puluhan juta NT dolar kepada sekolah, panti asuhan, dan rumah sakit. Pada tahun 2010 ia masuk dalam daftar 100 Orang Paling Berpengaruh di Dunia versi majalah _TIME_; sutradara Ang Lee sendiri yang menulis profil pencalonannya. Ketika ia pergi ke New York untuk menerima penghargaan, ia berkata: "Saya cuma seorang penjual sayur."[^1]

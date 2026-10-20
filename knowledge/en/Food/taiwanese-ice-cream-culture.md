@@ -1,24 +1,24 @@
 ---
-title: 'Taiwanese Dessert Culture'
-description: "From Yujing Mango Ice to the Snowflake Ice Revolution: Exploring Taiwan's Unique Culture of Eating Ice Even in Winter"
+title: 'Taiwanese Shaved Ice Culture'
+description: "The Taiwanese passion for frozen treats is rare in the world, with shops remaining crowded even in winter. This culture can be traced back to the introduction of ice-making technology during the Japanese colonial period, evolving through the post-war popularity of shaved ice and the emergence of snow ice. From Chen Xi in Taichung developing Honey Bean Ice inspired by Japanese fruit ice, to Yujing's mango ice gaining international fame—even driving the development of ice-making for the fishing industry—it is an evolutionary history with distinct chronological milestones."
 date: 2026-03-19
 category: 'Food'
-tags: ['Dessert', 'Mango Ice', 'Snowflake Ice', 'Shaved Ice', 'ICE MONSTER']
+tags: ['frozen treats', 'mango ice', 'snow ice', 'shaved ice', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Taipei Mango Ice'
+imageAlt: 'Mango ice in Taipei'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '7a2292243'
+sourceCommitSha: '3d90cfd59'
 sourceContentHash: 'sha256:27df03c894312c34'
 sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
-translatedAt: '2026-10-09T14:59:31+08:00'
+translatedAt: '2026-10-15T20:25:17.114015+00:00'
 ---
 
 # Taiwanese Dessert Culture

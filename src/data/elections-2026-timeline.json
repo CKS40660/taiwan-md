@@ -1,0 +1,917 @@
+{
+  "$comment": "2026 九合一選舉完整選務時程。每筆 start/end 是台北日期（ISO），by=true 代表「這天以前」，derived=true 代表依選罷法第 5 條期間算法推算的法定期限。查證紀錄與原文引句在 reports/research/2026-10/elections-2026/timeline-sources.json。",
+  "lastVerified": "2026-10-20",
+  "sources": {
+    "cec-61722": {
+      "url": "https://web.cec.gov.tw/central/article/61722",
+      "zh-TW": "中選會新聞稿 2025/10/31（投票日及工作進行程序表）",
+      "en": "CEC press release, 2025/10/31 (election day and schedule)",
+      "ja": "中央選挙委員会プレスリリース 2025/10/31（投票日と日程表）"
+    },
+    "cec-minutes-622": {
+      "url": "https://web.cec.gov.tw/central/article/62847",
+      "zh-TW": "中選會第 622 次委員會議紀錄",
+      "en": "Minutes of the CEC's 622nd meeting",
+      "ja": "中央選挙委員会第622回委員会議議事録"
+    },
+    "cec-minutes-626": {
+      "url": "https://web.cec.gov.tw/central/article/64778",
+      "zh-TW": "中選會第 626 次委員會議紀錄",
+      "en": "Minutes of the CEC's 626th meeting",
+      "ja": "中央選挙委員会第626回委員会議議事録"
+    },
+    "cec-minutes-627": {
+      "url": "https://web.cec.gov.tw/central/article/65229",
+      "zh-TW": "中選會第 627 次委員會議紀錄",
+      "en": "Minutes of the CEC's 627th meeting",
+      "ja": "中央選挙委員会第627回委員会議議事録"
+    },
+    "cec-63625": {
+      "url": "https://web.cec.gov.tw/central/article/63625",
+      "zh-TW": "中選會選舉公告 2026/08/20",
+      "en": "CEC election notice, 2026/08/20",
+      "ja": "中央選挙委員会 選挙公告 2026/08/20"
+    },
+    "cec-63642": {
+      "url": "https://web.cec.gov.tw/central/article/63642",
+      "zh-TW": "中選會新聞稿 2026/08/20",
+      "en": "CEC press release, 2026/08/20",
+      "ja": "中央選挙委員会プレスリリース 2026/08/20"
+    },
+    "cec-64009": {
+      "url": "https://web.cec.gov.tw/central/article/64009",
+      "zh-TW": "中選會候選人登記公告 2026/08/27",
+      "en": "CEC candidate registration notice, 2026/08/27",
+      "ja": "中央選挙委員会 候補者登録公告 2026/08/27"
+    },
+    "cec-64001": {
+      "url": "https://web.cec.gov.tw/central/article/64001",
+      "zh-TW": "各地選委會候選人登記公告",
+      "en": "Local commissions' registration notices",
+      "ja": "各地選挙委員会の候補者登録公告"
+    },
+    "cec-64318": {
+      "url": "https://web.cec.gov.tw/central/article/64318",
+      "zh-TW": "中選會新聞稿 2026/08/28（公投案決議）",
+      "en": "CEC press release, 2026/08/28 (referendum decision)",
+      "ja": "中央選挙委員会プレスリリース 2026/08/28（公民投票の決議）"
+    },
+    "cec-64320": {
+      "url": "https://web.cec.gov.tw/central/article/64320",
+      "zh-TW": "中選會新聞稿 2026/08/28（公投程序表）",
+      "en": "CEC press release, 2026/08/28 (referendum schedule)",
+      "ja": "中央選挙委員会プレスリリース 2026/08/28（公民投票の日程表）"
+    },
+    "cec-ref-64316": {
+      "url": "https://web.cec.gov.tw/referendum/article/64316",
+      "zh-TW": "公投第 22 案公告",
+      "en": "Official notice of Referendum Case No. 22",
+      "ja": "公民投票第22案の公告"
+    },
+    "cec-64711": {
+      "url": "https://web.cec.gov.tw/central/article/64711",
+      "zh-TW": "中選會新聞稿 2026/09/07（候選人完成登記）",
+      "en": "CEC press release, 2026/09/07 (registration closed)",
+      "ja": "中央選挙委員会プレスリリース 2026/09/07（登録締切）"
+    },
+    "cec-64374": {
+      "url": "https://web.cec.gov.tw/central/article/64374",
+      "zh-TW": "投票所設置地點公告",
+      "en": "Polling station notices",
+      "ja": "投票所設置場所の公告"
+    },
+    "mect-65043": {
+      "url": "https://web.cec.gov.tw/mect/article/65043",
+      "zh-TW": "臺北市選委會更正公告 2026/10/07",
+      "en": "Taipei commission correction notice, 2026/10/07",
+      "ja": "台北市選挙委員会の訂正公告 2026/10/07"
+    },
+    "cec-64775": {
+      "url": "https://web.cec.gov.tw/central/article/64775",
+      "zh-TW": "中選會新聞稿 2026/09/18（公投意見發表會）",
+      "en": "CEC press release, 2026/09/18 (referendum presentations)",
+      "ja": "中央選挙委員会プレスリリース 2026/09/18（意見発表会）"
+    },
+    "cec-65213": {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "zh-TW": "中選會新聞稿 2026/10/16（審定候選人資格）",
+      "en": "CEC press release, 2026/10/16 (candidates certified)",
+      "ja": "中央選挙委員会プレスリリース 2026/10/16（候補者資格の審定）"
+    },
+    "cec-61230": {
+      "url": "https://web.cec.gov.tw/central/article/61230",
+      "zh-TW": "中選會投票前提醒（2025 公投）",
+      "en": "CEC voting reminder (2025 referendum)",
+      "ja": "中央選挙委員会の投票前の呼びかけ（2025年公民投票）"
+    },
+    "cec-idrules": {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=FL044836",
+      "zh-TW": "防範選舉人重複投票或冒領選舉票辦法第 4 條",
+      "en": "CEC rules on preventing double voting, Art. 4",
+      "ja": "重複投票・なりすまし防止規則第4条"
+    },
+    "cec-bulletin": {
+      "url": "https://bulletin.cec.gov.tw/",
+      "zh-TW": "中選會選舉及公民投票公報網站",
+      "en": "CEC election and referendum bulletin site",
+      "ja": "中央選挙委員会 選挙・公民投票公報サイト"
+    },
+    "pts-822745": {
+      "url": "https://news.pts.org.tw/article/822745",
+      "zh-TW": "公視新聞網 2026/08/17（媒體報導）",
+      "en": "PTS News, 2026/08/17 (news report)",
+      "ja": "公視ニュース 2026/08/17（報道）"
+    },
+    "udn-9691477": {
+      "url": "https://udn.com/news/story/6656/9691477",
+      "zh-TW": "聯合報 2026/08/14（媒體報導）",
+      "en": "United Daily News, 2026/08/14 (news report)",
+      "ja": "聯合報 2026/08/14（報道）"
+    },
+    "law-e4": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=4",
+      "zh-TW": "選罷法第 4 條",
+      "en": "Election and Recall Act, Art. 4",
+      "ja": "公職人員選挙罷免法第4条"
+    },
+    "law-e5": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=5",
+      "zh-TW": "選罷法第 5 條（期間算法）",
+      "en": "Election and Recall Act, Art. 5 (how periods are counted)",
+      "ja": "公職人員選挙罷免法第5条（期間の計算）"
+    },
+    "law-e5-1": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=5-1",
+      "zh-TW": "選罷法第 5-1 條",
+      "en": "Election and Recall Act, Art. 5-1",
+      "ja": "公職人員選挙罷免法第5条の1"
+    },
+    "law-e14": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=14",
+      "zh-TW": "選罷法第 14 條",
+      "en": "Election and Recall Act, Art. 14",
+      "ja": "公職人員選挙罷免法第14条"
+    },
+    "law-e15": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=15",
+      "zh-TW": "選罷法第 15 條",
+      "en": "Election and Recall Act, Art. 15",
+      "ja": "公職人員選挙罷免法第15条"
+    },
+    "law-e18": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=18",
+      "zh-TW": "選罷法第 18 條",
+      "en": "Election and Recall Act, Art. 18",
+      "ja": "公職人員選挙罷免法第18条"
+    },
+    "law-e19": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=19",
+      "zh-TW": "選罷法第 19 條",
+      "en": "Election and Recall Act, Art. 19",
+      "ja": "公職人員選挙罷免法第19条"
+    },
+    "law-e20": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=20",
+      "zh-TW": "選罷法第 20 條",
+      "en": "Election and Recall Act, Art. 20",
+      "ja": "公職人員選挙罷免法第20条"
+    },
+    "law-e22": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=22",
+      "zh-TW": "選罷法第 22 條",
+      "en": "Election and Recall Act, Art. 22",
+      "ja": "公職人員選挙罷免法第22条"
+    },
+    "law-e38": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=38",
+      "zh-TW": "選罷法第 38 條",
+      "en": "Election and Recall Act, Art. 38",
+      "ja": "公職人員選挙罷免法第38条"
+    },
+    "law-e40": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=40",
+      "zh-TW": "選罷法第 40 條",
+      "en": "Election and Recall Act, Art. 40",
+      "ja": "公職人員選挙罷免法第40条"
+    },
+    "law-e43": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=43",
+      "zh-TW": "選罷法第 43 條",
+      "en": "Election and Recall Act, Art. 43",
+      "ja": "公職人員選挙罷免法第43条"
+    },
+    "law-e47": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=47",
+      "zh-TW": "選罷法第 47 條",
+      "en": "Election and Recall Act, Art. 47",
+      "ja": "公職人員選挙罷免法第47条"
+    },
+    "law-e57": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=57",
+      "zh-TW": "選罷法第 57 條",
+      "en": "Election and Recall Act, Art. 57",
+      "ja": "公職人員選挙罷免法第57条"
+    },
+    "law-er12": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020011&flno=12",
+      "zh-TW": "選罷法施行細則第 12 條",
+      "en": "Enforcement Rules of the Election and Recall Act, Art. 12",
+      "ja": "公職人員選挙罷免法施行細則第12条"
+    },
+    "law-r7": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=7",
+      "zh-TW": "公投法第 7 條",
+      "en": "Referendum Act, Art. 7",
+      "ja": "公民投票法第7条"
+    },
+    "law-r8": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=8",
+      "zh-TW": "公投法第 8 條",
+      "en": "Referendum Act, Art. 8",
+      "ja": "公民投票法第8条"
+    },
+    "law-r15": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=15",
+      "zh-TW": "公投法第 15 條",
+      "en": "Referendum Act, Art. 15",
+      "ja": "公民投票法第15条"
+    },
+    "law-r17": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=17",
+      "zh-TW": "公投法第 17 條",
+      "en": "Referendum Act, Art. 17",
+      "ja": "公民投票法第17条"
+    },
+    "law-r18": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=18",
+      "zh-TW": "公投法第 18 條",
+      "en": "Referendum Act, Art. 18",
+      "ja": "公民投票法第18条"
+    },
+    "law-r23": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=23",
+      "zh-TW": "公投法第 23 條",
+      "en": "Referendum Act, Art. 23",
+      "ja": "公民投票法第23条"
+    },
+    "law-r24": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=24",
+      "zh-TW": "公投法第 24 條",
+      "en": "Referendum Act, Art. 24",
+      "ja": "公民投票法第24条"
+    },
+    "law-r30": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=30",
+      "zh-TW": "公投法第 30 條",
+      "en": "Referendum Act, Art. 30",
+      "ja": "公民投票法第30条"
+    },
+    "law-r31": {
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=31",
+      "zh-TW": "公投法第 31 條",
+      "en": "Referendum Act, Art. 31",
+      "ja": "公民投票法第31条"
+    },
+    "law-lg": {
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003",
+      "zh-TW": "地方制度法第 33、55、56、57、59 條",
+      "en": "Local Government Act, Arts. 33, 55, 56, 57, 59",
+      "ja": "地方制度法第33・55・56・57・59条"
+    }
+  },
+  "items": [
+    {
+      "id": "schedule-adopted",
+      "start": "2025-10-31",
+      "end": "2025-10-31",
+      "cats": ["admin"],
+      "owner": "cec",
+      "sources": ["cec-61722", "cec-minutes-622"],
+      "zh-TW": {
+        "title": "中選會決定投票日和選務時程",
+        "detail": "第 622 次委員會議決議 2026 年 11 月 28 日（週六）上午 8 點到下午 4 點投票，也通過直轄市長、直轄市議員、縣（市）長、縣（市）議員的選舉工作進行程序表。鄉鎮市長、村里長等另外五種選舉的程序表，由各直轄市、縣（市）選委會照這份時程自己訂。"
+      },
+      "en": {
+        "title": "The CEC sets election day and the official schedule",
+        "detail": "At its 622nd meeting the Central Election Commission set voting for Saturday, November 28, 2026, from 8 a.m. to 4 p.m., and adopted the work schedule for the mayoral, county magistrate and council elections. Local election commissions set their own schedules for the other five offices, in line with these dates."
+      },
+      "ja": {
+        "title": "中央選挙委員会が投票日と選挙日程を決定",
+        "detail": "第622回委員会議で、投票日を2026年11月28日（土）午前8時から午後4時までと決め、直轄市長・直轄市議員・県（市）長・県（市）議員選挙の日程表を可決しました。郷鎮市長や村里長など残る5種類の選挙の日程は、各直轄市・県（市）の選挙委員会がこの日程に合わせて定めます。"
+      }
+    },
+    {
+      "id": "ly-passes-referendum",
+      "start": "2026-08-14",
+      "end": "2026-08-14",
+      "cats": ["referendum"],
+      "owner": "ly",
+      "sources": ["pts-822745", "udn-9691477"],
+      "zh-TW": {
+        "title": "立法院院會表決通過公投提案",
+        "detail": "立法院院會表決通過 3 項公投提案，後來成為第 22 案的那一案也在其中。這個日期查不到立法院自己的議事錄頁面，這裡用公視和聯合報兩家報導對照。"
+      },
+      "en": {
+        "title": "The Legislative Yuan votes to propose referendums",
+        "detail": "The legislature's plenary session passed three referendum proposals, including the one later numbered Case No. 22. We could not find the Legislative Yuan's own record page for this date, so it is cross-checked against reports by PTS and United Daily News."
+      },
+      "ja": {
+        "title": "立法院本会議が公民投票の提案を可決",
+        "detail": "立法院本会議で3件の公民投票提案が可決され、のちに第22案となる案もその1つでした。この日付は立法院自身の議事録ページが見つからなかったため、公視と聯合報の2つの報道で照合しています。"
+      }
+    },
+    {
+      "id": "ly-refers-referendum",
+      "start": "2026-08-18",
+      "end": "2026-08-18",
+      "cats": ["referendum"],
+      "owner": "ly",
+      "sources": ["cec-minutes-626", "law-r15"],
+      "zh-TW": {
+        "title": "立法院把公投提案送交中選會",
+        "detail": "立法院發函把提案交給中選會辦理。公投法規定，立法院院會通過後 10 天內要交給主管機關。"
+      },
+      "en": {
+        "title": "The Legislative Yuan sends the proposal to the CEC",
+        "detail": "The legislature formally referred the proposal to the CEC. The Referendum Act requires this within 10 days of the plenary vote."
+      },
+      "ja": {
+        "title": "立法院が提案を中央選挙委員会に送付",
+        "detail": "立法院が公文書で提案を中央選挙委員会に送りました。公民投票法では、本会議での可決から10日以内に送付すると定めています。"
+      }
+    },
+    {
+      "id": "election-notice",
+      "start": "2026-08-20",
+      "end": "2026-08-20",
+      "cats": ["admin", "voters"],
+      "owner": "commissions",
+      "sources": ["cec-63625", "cec-63642", "law-e15"],
+      "zh-TW": {
+        "title": "發布選舉公告，選舉正式開跑",
+        "detail": "中選會公告直轄市長、縣（市）長和兩類議員的名額、選舉區、投票時間與競選經費上限；另外五種選舉由各直轄市、縣（市）選委會同一天公告。九種選舉一共要選出 11,051 人。",
+        "voterTip": "這天以後才把戶籍遷進選舉區的人，這次在新的選舉區沒有投票權。"
+      },
+      "en": {
+        "title": "Election notices are published and the election formally begins",
+        "detail": "The CEC published the seats, districts, voting hours and campaign spending limits for the mayoral, county magistrate and council races. Local commissions published notices for the other five offices on the same day. In total, 11,051 officials will be elected.",
+        "voterTip": "If you moved your household registration into a district after this date, you cannot vote in that district this time."
+      },
+      "ja": {
+        "title": "選挙公告が出され、選挙が正式にスタート",
+        "detail": "中央選挙委員会が直轄市長・県（市）長と2種類の議員選挙の定数、選挙区、投票時間、選挙費用の上限を公告し、残る5種類は各地の選挙委員会が同じ日に公告しました。9種類の選挙で合計11,051人を選びます。",
+        "voterTip": "この日以降に戸籍を選挙区へ移した人は、今回その選挙区で投票できません。"
+      }
+    },
+    {
+      "id": "registration-notice",
+      "start": "2026-08-27",
+      "end": "2026-08-27",
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-64009", "cec-64001"],
+      "zh-TW": {
+        "title": "公告候選人登記方式",
+        "detail": "公告登記期間、地點、要準備的文件和保證金金額。"
+      },
+      "en": {
+        "title": "Candidate registration rules are announced",
+        "detail": "Notices set out the registration period, locations, required documents and deposits."
+      },
+      "ja": {
+        "title": "候補者登録の方法を公告",
+        "detail": "登録期間、場所、必要書類、供託金の額が公告されました。"
+      }
+    },
+    {
+      "id": "referendum-established",
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "cats": ["referendum"],
+      "owner": "cec",
+      "sources": ["cec-64318", "cec-64320", "cec-ref-64316", "cec-minutes-626"],
+      "zh-TW": {
+        "title": "中選會決議公投成案，編為第 22 案",
+        "detail": "第 626 次委員會議決議這項提案符合公投法「重大政策之創制或複決」的規定，編為全國性公民投票案第 22 案，當天發布公告，和地方選舉同一天投票。主文是：「你是否支持政府使用『核電』振興經濟，以廢除『非核家園』的能源政策？」立法院同一批送來的另外兩項提案，中選會決議不辦理公投。"
+      },
+      "en": {
+        "title": "The CEC establishes the referendum as Case No. 22",
+        "detail": "At its 626th meeting the CEC found the proposal meets the Referendum Act's \"major policy\" requirement, numbered it National Referendum Case No. 22 and published the official notice the same day, setting the vote for the same day as the local elections. The question asks whether voters support the government using nuclear power to revitalize the economy and abolishing the \"nuclear-free homeland\" energy policy (unofficial translation). The CEC decided not to hold referendums on the two other proposals sent in the same batch."
+      },
+      "ja": {
+        "title": "中央選挙委員会が第22案として成立を決定",
+        "detail": "第626回委員会議で、この提案は公民投票法の「重大政策の創制または複決」に当たると判断され、全国公民投票第22案として番号が付き、同じ日に公告されて地方選挙と同日投票になりました。設問は、政府が原子力発電で経済を振興し「非核家園」のエネルギー政策を廃止することを支持するかを問うものです（非公式訳）。同時に送られた残り2件は実施しないと決議されました。"
+      }
+    },
+    {
+      "id": "registration",
+      "start": "2026-08-31",
+      "end": "2026-09-04",
+      "cats": ["candidates"],
+      "owner": "localCommissions",
+      "sources": ["cec-61722", "cec-64711"],
+      "zh-TW": {
+        "title": "受理候選人登記",
+        "detail": "5 天登記期間結束後，中選會 9 月 7 日統計：九種選舉共 19,695 人登記，爭取 11,051 個名額。"
+      },
+      "en": {
+        "title": "Candidate registration",
+        "detail": "After the five-day window closed, the CEC reported on September 7 that 19,695 people had registered across the nine races, for 11,051 seats."
+      },
+      "ja": {
+        "title": "候補者登録の受付",
+        "detail": "5日間の登録期間が終わり、中央選挙委員会は9月7日、9種類の選挙で計19,695人が登録し、11,051の議席を争うと発表しました。"
+      }
+    },
+    {
+      "id": "polling-places",
+      "start": "2026-08-31",
+      "end": "2026-08-31",
+      "cats": ["voters"],
+      "owner": "localCommissions",
+      "sources": ["cec-64374", "mect-65043"],
+      "zh-TW": {
+        "title": "公告投票所地點",
+        "detail": "各直轄市、縣（市）選委會公告投票所設在哪裡。公告後還可能更正，例如臺北市選委會 10 月 7 日更正了北投、信義、中正三區。",
+        "voterTip": "投票前再確認一次自己的投票所，以選委會公告和投票通知單上寫的為準。"
+      },
+      "en": {
+        "title": "Polling stations are announced",
+        "detail": "Each municipal and county commission announced where polling stations will be. Notices can be corrected later; for example, Taipei's commission corrected three districts on October 7.",
+        "voterTip": "Check your polling station again before voting day. The commission's notice and your voting notice card are the reference."
+      },
+      "ja": {
+        "title": "投票所の場所を公告",
+        "detail": "各直轄市・県（市）の選挙委員会が投票所の場所を公告しました。公告後に訂正されることもあり、たとえば台北市選挙委員会は10月7日に北投・信義・中正の3区を訂正しています。",
+        "voterTip": "投票日の前に自分の投票所をもう一度確認しましょう。選挙委員会の公告と投票通知書が基準です。"
+      }
+    },
+    {
+      "id": "party-withdrawal",
+      "start": "2026-09-04",
+      "end": "2026-09-04",
+      "cats": ["candidates"],
+      "owner": "parties",
+      "sources": ["cec-61722"],
+      "zh-TW": {
+        "title": "政黨撤回推薦的最後一天",
+        "detail": "政黨如果要撤回對候選人的推薦，這天是截止日。"
+      },
+      "en": {
+        "title": "Last day for parties to withdraw nominations",
+        "detail": "Parties that wanted to withdraw their endorsement of a candidate had to do so by this date."
+      },
+      "ja": {
+        "title": "政党が推薦を取り下げられる最終日",
+        "detail": "政党が候補者への推薦を取り下げる場合、この日が締め切りでした。"
+      }
+    },
+    {
+      "id": "referendum-sessions-set",
+      "start": "2026-09-18",
+      "end": "2026-09-18",
+      "cats": ["referendum"],
+      "owner": "cec",
+      "sources": ["cec-64775", "cec-minutes-627"],
+      "zh-TW": {
+        "title": "中選會排定 5 場公投意見發表會或辯論會",
+        "detail": "第 627 次委員會議決定在全國性無線電視頻道辦 5 場。正方由立法院代表，反方由行政院或經許可設立辦事處的反對意見者代表。同一次會議也決定公投票用白色紙印製。"
+      },
+      "en": {
+        "title": "The CEC schedules five referendum presentations or debates",
+        "detail": "At its 627th meeting the CEC set five sessions on national free-to-air television. The Legislative Yuan represents the yes side; the Executive Yuan or registered opposing groups represent the no side. The same meeting decided the referendum ballot will be printed on white paper."
+      },
+      "ja": {
+        "title": "意見発表会・討論会5回の日程が決定",
+        "detail": "第627回委員会議で、全国の地上波テレビで5回開くことが決まりました。賛成側は立法院、反対側は行政院または許可を得て事務所を設けた反対意見者が代表します。同じ会議で、公民投票の投票用紙を白い紙で印刷することも決まりました。"
+      }
+    },
+    {
+      "id": "referendum-reps-deadline",
+      "start": "2026-10-15",
+      "end": "2026-10-15",
+      "cats": ["referendum"],
+      "owner": "refSides",
+      "sources": ["cec-64775"],
+      "zh-TW": {
+        "title": "正反雙方送出發表會代表名單的期限",
+        "detail": "支持方由立法院、反對方由反對意見代表人，在這天以前把發表會或辯論會的代表名單送到中選會。"
+      },
+      "en": {
+        "title": "Deadline for both sides to name their speakers",
+        "detail": "The Legislative Yuan (yes side) and the opposing representatives (no side) had to submit their lists of speakers to the CEC by this date."
+      },
+      "ja": {
+        "title": "賛否双方が代表者名簿を出す締め切り",
+        "detail": "賛成側は立法院、反対側は反対意見の代表者が、この日までに発表会・討論会の代表者名簿を中央選挙委員会に提出しました。"
+      }
+    },
+    {
+      "id": "candidates-certified",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "cats": ["candidates", "admin"],
+      "owner": "commissions",
+      "sources": ["cec-65213", "cec-61722"],
+      "zh-TW": {
+        "title": "審定候選人名單",
+        "detail": "完成候選人資格審查並通知抽籤。直轄市長 23 人、縣（市）長 58 人全部符合規定。"
+      },
+      "en": {
+        "title": "Candidate lists are certified",
+        "detail": "Eligibility reviews were completed and candidates notified of the ballot-number draw. All 23 municipal mayoral and 58 county magistrate candidates qualified."
+      },
+      "ja": {
+        "title": "候補者名簿の審定",
+        "detail": "候補者の資格審査が終わり、抽選の通知が出されました。直轄市長候補23人、県（市）長候補58人は全員が要件を満たしました。"
+      }
+    },
+    {
+      "id": "ballot-draw",
+      "start": "2026-10-23",
+      "end": "2026-10-23",
+      "cats": ["candidates"],
+      "owner": "localCommissions",
+      "sources": ["cec-61722", "cec-65213"],
+      "zh-TW": {
+        "title": "抽籤決定候選人號次",
+        "detail": "號次就是印在選票上的候選人編號，由各直轄市、縣（市）選委會辦理抽籤。"
+      },
+      "en": {
+        "title": "Ballot numbers are drawn",
+        "detail": "Each candidate's number on the ballot is decided by lot, run by the municipal and county commissions."
+      },
+      "ja": {
+        "title": "抽選で候補者の番号を決定",
+        "detail": "投票用紙に印刷される候補者番号を、各直轄市・県（市）の選挙委員会が抽選で決めます。"
+      }
+    },
+    {
+      "id": "rolls-compiled",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "cats": ["admin", "voters"],
+      "owner": "household",
+      "sources": ["cec-61722", "cec-64320", "law-e20"],
+      "zh-TW": {
+        "title": "選舉人名冊和公投投票權人名冊編好",
+        "detail": "名冊依投票日前 20 天，也就是 11 月 8 日已登記的戶籍資料編造。",
+        "voterTip": "11 月 8 日以後才把戶籍遷出的人，還是要回原戶籍地的投票所投票。"
+      },
+      "en": {
+        "title": "Voter rolls are compiled",
+        "detail": "Both the election roll and the referendum roll are based on household registration as of November 8, 20 days before voting.",
+        "voterTip": "If you move your household registration out after November 8, you still vote at the polling station of your previous registered address."
+      },
+      "ja": {
+        "title": "選挙人名簿・公民投票の投票権者名簿が完成",
+        "detail": "名簿は投票日の20日前、11月8日時点の戸籍データをもとに作られます。",
+        "voterTip": "11月8日以降に戸籍を移した人は、元の戸籍地の投票所で投票します。"
+      }
+    },
+    {
+      "id": "rolls-inspection",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "by": true,
+      "derived": true,
+      "cats": ["voters"],
+      "owner": "districtOffices",
+      "sources": ["law-e38", "law-e22", "law-e5", "law-r24"],
+      "zh-TW": {
+        "title": "選舉人名冊公告閱覽（最晚開始日）",
+        "detail": "法律規定名冊要在「投票日十五日前」公告，公告至少 3 天。照選罷法第 5 條的期間算法，最晚要在 11 月 12 日開始。實際閱覽日期由各鄉（鎮、市、區）公所公告，這頁還查不到。",
+        "voterTip": "帶國民身分證到戶籍地公所，可以查自己和同戶家人的資料。發現錯誤或漏掉，在閱覽期間內申請更正。"
+      },
+      "en": {
+        "title": "Voter roll inspection (latest start date)",
+        "detail": "The law says the roll must be posted \"15 days before\" voting day, for at least three days. Under the counting rule in Article 5 of the Election and Recall Act, posting must start by November 12. Actual dates are announced by each district office; we have not found them yet.",
+        "voterTip": "Bring your National ID card to your district office to check your own entry and your household's. Report errors or omissions during the inspection period."
+      },
+      "ja": {
+        "title": "選挙人名簿の縦覧（開始の期限）",
+        "detail": "法律は名簿を「投票日の15日前」までに公告し、3日以上掲示するよう定めています。選挙罷免法第5条の期間の数え方では、11月12日までに始める必要があります。実際の日程は各郷鎮市区公所が公告し、本ページではまだ確認できていません。",
+        "voterTip": "国民身分証を持って戸籍地の公所に行けば、本人と同じ世帯の家族の記載を確認できます。誤りや漏れは縦覧期間中に訂正を申請します。"
+      }
+    },
+    {
+      "id": "mayor-list",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "law-e38"],
+      "zh-TW": {
+        "title": "公告直轄市長候選人名單",
+        "detail": "法律規定候選人名單在競選活動開始前一天公告。"
+      },
+      "en": {
+        "title": "Municipal mayoral candidate lists are published",
+        "detail": "By law, candidate lists are published the day before the campaign period begins."
+      },
+      "ja": {
+        "title": "直轄市長候補者名簿を公告",
+        "detail": "法律では、候補者名簿は選挙運動期間が始まる前日に公告します。"
+      }
+    },
+    {
+      "id": "referendum-sessions",
+      "start": "2026-11-12",
+      "end": "2026-11-20",
+      "cats": ["referendum"],
+      "owner": "cec",
+      "sources": ["cec-64775", "cec-minutes-627", "cec-ref-64316", "law-r17"],
+      "zh-TW": {
+        "title": "公投第 22 案意見發表會或辯論會，共 5 場",
+        "detail": "11/12（四）15:00、11/14（六）19:00、11/16（一）15:00、11/18（三）10:00、11/20（五）19:00。在全國性無線電視頻道播出，同步網路直播，錄影會公開在中選會網站。公告訂的辦理期間是 11 月 9 日到 21 日。"
+      },
+      "en": {
+        "title": "Five presentations or debates on Referendum Case No. 22",
+        "detail": "Nov 12 (Thu) 3 p.m., Nov 14 (Sat) 7 p.m., Nov 16 (Mon) 3 p.m., Nov 18 (Wed) 10 a.m., Nov 20 (Fri) 7 p.m. Broadcast on national free-to-air TV and streamed live online, with recordings posted on the CEC website. The official notice set the window as November 9 to 21."
+      },
+      "ja": {
+        "title": "公民投票第22案の意見発表会・討論会（全5回）",
+        "detail": "11/12（木）15時、11/14（土）19時、11/16（月）15時、11/18（水）10時、11/20（金）19時。全国の地上波テレビで放送され、ネットでも同時配信、録画は中央選挙委員会のサイトで公開されます。公告で定めた実施期間は11月9日から21日です。"
+      }
+    },
+    {
+      "id": "mayor-campaign",
+      "start": "2026-11-13",
+      "end": "2026-11-27",
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "law-e40"],
+      "zh-TW": {
+        "title": "直轄市長競選活動期間與公辦政見發表會",
+        "detail": "競選活動 15 天，每天上午 7 點到晚上 10 點。選委會也在這段期間辦直轄市長的公辦政見發表會。"
+      },
+      "en": {
+        "title": "Mayoral campaign period and official policy forums",
+        "detail": "The campaign runs 15 days, from 7 a.m. to 10 p.m. each day. Election commissions hold official policy presentation forums for mayoral candidates during this period."
+      },
+      "ja": {
+        "title": "直轄市長の選挙運動期間と公営の政見発表会",
+        "detail": "選挙運動は15日間、毎日午前7時から午後10時まで。この期間に選挙委員会が直轄市長候補の公営政見発表会を開きます。"
+      }
+    },
+    {
+      "id": "others-list",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722"],
+      "zh-TW": {
+        "title": "公告直轄市議員、縣（市）長、縣（市）議員候選人名單",
+        "detail": "這三種選舉的競選活動隔天開始。"
+      },
+      "en": {
+        "title": "Candidate lists for councils and county magistrates are published",
+        "detail": "Campaigning for these three races starts the next day."
+      },
+      "ja": {
+        "title": "直轄市議員・県（市）長・県（市）議員の候補者名簿を公告",
+        "detail": "この3種類の選挙運動は翌日から始まります。"
+      }
+    },
+    {
+      "id": "others-campaign",
+      "start": "2026-11-18",
+      "end": "2026-11-27",
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "law-e40"],
+      "zh-TW": {
+        "title": "直轄市議員、縣（市）長、縣（市）議員競選活動期間與公辦政見發表會",
+        "detail": "競選活動 10 天，選委會在這段期間辦這三種選舉的公辦政見發表會。鄉（鎮、市）長、原住民區長的競選活動依法也是 10 天。"
+      },
+      "en": {
+        "title": "Campaign period and policy forums for councils and county magistrates",
+        "detail": "The campaign runs 10 days, with official policy forums held for these three races. By law, campaigns for township mayors and indigenous district chiefs also last 10 days."
+      },
+      "ja": {
+        "title": "直轄市議員・県（市）長・県（市）議員の選挙運動期間と政見発表会",
+        "detail": "選挙運動は10日間で、この期間に3種類の選挙の公営政見発表会が開かれます。郷鎮市長と原住民区長の選挙運動も法律上10日間です。"
+      }
+    },
+    {
+      "id": "local-campaign",
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "derived": true,
+      "cats": ["candidates"],
+      "owner": "localCommissions",
+      "sources": ["law-e40"],
+      "zh-TW": {
+        "title": "鄉鎮市民代表、原住民區民代表、村里長競選活動期間",
+        "detail": "法定 5 天，從投票日前一天往前算。各地的實際日程以各直轄市、縣（市）選委會的程序表為準。"
+      },
+      "en": {
+        "title": "Campaign period for township and village-level races",
+        "detail": "By law, five days counted back from the day before voting, for township representatives, indigenous district representatives and village chiefs. Local commissions' schedules give the official dates."
+      },
+      "ja": {
+        "title": "郷鎮市民代表・原住民区民代表・村里長の選挙運動期間",
+        "detail": "法律上5日間で、投票日の前日からさかのぼって数えます。各地の正式な日程は各直轄市・県（市）選挙委員会の日程表によります。"
+      }
+    },
+    {
+      "id": "voter-count",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "by": true,
+      "cats": ["admin"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "cec-64320"],
+      "zh-TW": {
+        "title": "公告選舉人人數和公投投票權人人數",
+        "detail": "名冊閱覽、更正完成後，公告這次一共有多少人可以投票。"
+      },
+      "en": {
+        "title": "Official voter counts are published",
+        "detail": "After inspection and corrections, the number of eligible voters for the elections and the referendum is announced."
+      },
+      "ja": {
+        "title": "選挙人数と公民投票の投票権者数を公告",
+        "detail": "名簿の縦覧と訂正が終わったあと、今回投票できる人数が公告されます。"
+      }
+    },
+    {
+      "id": "bulletins-delivered",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "by": true,
+      "derived": true,
+      "cats": ["voters"],
+      "owner": "delivery",
+      "sources": ["law-e47", "law-r18", "law-er12", "law-e5", "cec-bulletin"],
+      "zh-TW": {
+        "title": "選舉公報、公投公報和投票通知單送到家",
+        "detail": "選罷法和公投法都規定公報要在「投票日二日前」送到每一戶。照選罷法第 5 條的期間算法，最後期限是 11 月 25 日。投票通知單由公所在投票日二日前分送，鄉鎮市以下的選舉可以不寄。公報也會放上中選會的公報網站。",
+        "voterTip": "收到後翻一下公報裡的候選人政見，也確認投票通知單上寫的投票所。"
+      },
+      "en": {
+        "title": "Election and referendum bulletins and voting notices arrive",
+        "detail": "Both the Election and Recall Act and the Referendum Act require bulletins to reach every household \"two days before\" voting day. Under the Article 5 counting rule, the deadline is November 25. District offices deliver voting notice cards two days before voting day; they may be skipped for township-level races. Bulletins are also posted on the CEC bulletin site.",
+        "voterTip": "Read the candidates' platforms in the bulletin, and check the polling station printed on your voting notice."
+      },
+      "ja": {
+        "title": "選挙公報・公民投票公報と投票通知書が届く",
+        "detail": "選挙罷免法と公民投票法はどちらも、公報を「投票日の2日前」までに各世帯へ届けると定めています。選挙罷免法第5条の数え方では期限は11月25日です。投票通知書は公所が投票日の2日前に配り、郷鎮市以下の選挙では省略できます。公報は中央選挙委員会の公報サイトにも掲載されます。",
+        "voterTip": "公報で候補者の政見に目を通し、投票通知書に書かれた投票所も確認しましょう。"
+      }
+    },
+    {
+      "id": "voting-day",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "cats": ["voters", "admin", "referendum"],
+      "owner": "voters",
+      "sources": [
+        "cec-63625",
+        "cec-ref-64316",
+        "law-e5-1",
+        "law-r23",
+        "law-e18",
+        "law-e19"
+      ],
+      "zh-TW": {
+        "title": "投票日：九種地方選舉和公投第 22 案一起投",
+        "detail": "上午 8 點到下午 4 點，到戶籍地的投票所投票。這天依法放假。",
+        "voterTip": "一定要帶國民身分證。領票時簽名、蓋章或按指印選一種，所以印章可以不帶。同一天的選舉和公投要一次投完，離開投票所就不能再進去。"
+      },
+      "en": {
+        "title": "Voting day: nine local races and Referendum Case No. 22",
+        "detail": "Vote from 8 a.m. to 4 p.m. at the polling station for your registered address. It is a legal day off.",
+        "voterTip": "You must bring your National ID card. When collecting ballots you sign, stamp a seal or give a fingerprint, so a seal is optional. Cast all ballots in one visit; once you leave the polling station you cannot go back in."
+      },
+      "ja": {
+        "title": "投票日：9種類の地方選挙と公民投票第22案を同時に",
+        "detail": "午前8時から午後4時まで、戸籍地の投票所で投票します。法律で休日と定められています。",
+        "voterTip": "国民身分証は必ず持参。投票用紙を受け取るときは署名・押印・指印のどれか一つでよいので、印鑑はなくても大丈夫です。選挙と公民投票は一度に済ませ、投票所を出ると再入場できません。"
+      }
+    },
+    {
+      "id": "counting",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "cats": ["admin"],
+      "owner": "localCommissions",
+      "sources": ["law-e57", "cec-61722"],
+      "zh-TW": {
+        "title": "開票",
+        "detail": "下午 4 點投票結束，投票所當場改成開票所，當眾唱名開票，結果貼在開票所門口。"
+      },
+      "en": {
+        "title": "Counting",
+        "detail": "When voting closes at 4 p.m., each polling station becomes a counting station. Ballots are read aloud and counted in public, and results are posted at the door."
+      },
+      "ja": {
+        "title": "開票",
+        "detail": "午後4時に投票が終わると、投票所はその場で開票所になり、公開で読み上げながら開票し、結果を入口に掲示します。"
+      }
+    },
+    {
+      "id": "winners-announced",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "cats": ["admin"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "law-e38"],
+      "zh-TW": {
+        "title": "審定並公告當選人名單",
+        "detail": "法律規定在投票日後 7 天內公告；中選會程序表訂在這天。"
+      },
+      "en": {
+        "title": "Winners are certified and announced",
+        "detail": "The law requires this within seven days of voting; the CEC schedule sets this date."
+      },
+      "ja": {
+        "title": "当選者名簿の審定と公告",
+        "detail": "法律では投票日から7日以内に公告すると定め、中央選挙委員会の日程表はこの日にしています。"
+      }
+    },
+    {
+      "id": "referendum-result",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "cats": ["referendum"],
+      "owner": "cec",
+      "sources": ["cec-64320", "law-r30", "law-r31"],
+      "zh-TW": {
+        "title": "審定並公告公投第 22 案結果",
+        "detail": "公投法規定投票完畢 7 天內公告結果。"
+      },
+      "en": {
+        "title": "Referendum Case No. 22 result is certified and announced",
+        "detail": "The Referendum Act requires the result to be announced within seven days of voting."
+      },
+      "ja": {
+        "title": "公民投票第22案の結果を審定・公告",
+        "detail": "公民投票法では、投票終了から7日以内に結果を公告すると定めています。"
+      }
+    },
+    {
+      "id": "certificates",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "by": true,
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722"],
+      "zh-TW": {
+        "title": "發給當選證書",
+        "detail": "選委會把當選證書發給當選人。"
+      },
+      "en": {
+        "title": "Certificates of election are issued",
+        "detail": "Election commissions issue certificates to the winners."
+      },
+      "ja": {
+        "title": "当選証書の交付",
+        "detail": "選挙委員会が当選者に当選証書を交付します。"
+      }
+    },
+    {
+      "id": "inauguration",
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "cats": ["candidates"],
+      "owner": "newOfficials",
+      "sources": ["law-lg", "cec-minutes-622"],
+      "zh-TW": {
+        "title": "新任地方公職人員就職",
+        "detail": "地方制度法規定，當選人在上一屆任期屆滿那天就職。中選會第 622 次委員會議紀錄寫明，這一屆的任期到 2026 年 12 月 25 日。"
+      },
+      "en": {
+        "title": "Newly elected local officials take office",
+        "detail": "The Local Government Act says winners take office on the day the previous term ends. Minutes of the CEC's 622nd meeting state that the current term ends on December 25, 2026."
+      },
+      "ja": {
+        "title": "新しい地方公職者が就任",
+        "detail": "地方制度法は、当選者が前任期の満了日に就任すると定めています。中央選挙委員会第622回委員会議の議事録には、現在の任期が2026年12月25日までと記されています。"
+      }
+    },
+    {
+      "id": "subsidy-notice",
+      "start": "2027-01-03",
+      "end": "2027-01-03",
+      "by": true,
+      "cats": ["candidates"],
+      "owner": "commissions",
+      "sources": ["cec-61722", "law-e43"],
+      "zh-TW": {
+        "title": "通知候選人領取競選費用補貼",
+        "detail": "得票達到門檻的候選人，每票補貼新臺幣 30 元，上限是該選區的競選經費最高金額。"
+      },
+      "en": {
+        "title": "Candidates are notified to claim campaign subsidies",
+        "detail": "Candidates who pass the vote threshold receive NT$30 per vote, capped at the district's campaign spending limit."
+      },
+      "ja": {
+        "title": "候補者に選挙費用補助の受け取りを通知",
+        "detail": "得票が基準に達した候補者には1票あたり新台湾ドル30元が補助され、上限はその選挙区の選挙費用最高額です。"
+      }
+    }
+  ]
+}

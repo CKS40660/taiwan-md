@@ -1,9 +1,9 @@
 ---
 title: 'Compal Electronics'
-description: 'Pabrik ODM notebook terbesar kedua di dunia, penggerak penting industri ODM Taiwan'
+description: 'Didirikan pada tahun 1984 dan merupakan bagian dari grup Compal Group, ini adalah produsen ODM besar asal Taiwan. Lebih dari 80% laptop di seluruh dunia diproduksi oleh pabrik perakitan Taiwan, dan Compal menempati posisi kedua sebagai pemimpin manufaktur laptop global dengan pangsa pasar sekitar 20-25%. Saat Anda membuka laptop bermerek Dell, Lenovo, atau Acer, kemungkinan besar produk tersebut dirancang dan dibuat oleh Compal. Perusahaan ini telah berevolusi dari OEM menjadi ODM, dan kini merambah ke aplikasi baru seperti AI, 5G, serta kendaraan listrik, memberikan kesaksian lengkap atas transformasi industri manufaktur Taiwan dari sekadar perakitan menjadi desain.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Ekonomi', 'Perusahaan', 'Elektronik Kontrak', 'ODM']
+tags: ['Ekonomi', 'Perusahaan', 'Manufaktur Elektronik', 'ODM']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 12
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0a05f936441dbbcf'
+sourceCommitSha: 'ad792c900'
+sourceContentHash: 'sha256:42e5977dc5bcc26b'
 sourceBodyHash: 'sha256:aead7a66c3b88ec5'
-translatedAt: '2026-09-13T05:56:48+08:00'
+translatedAt: '2026-10-15T22:00:04.774845+00:00'
 ---
 
 # Compal Electronics: Raksasa ODM Global yang Beroperasi di Balik Layar
@@ -209,12 +209,12 @@ Compal dari didirikan 1984 hingga kini, melewati gelombang popularisasi PC, rest
 
 ## Referensi
 
-[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal peringkat 10 global dalam iF World Design Index 2025 untuk daya saing inovasi perusahaan global, menonjol di antara 10.000+ perusahaan peserta
+[^1]: [Compal Electronics — iF World Design Index 2025](https://www.compal.com/) — Compal menempati peringkat ke-10 dalam kompetisi daya saing inovasi perusahaan global pada iF World Design Index 2025, unggul di antara lebih dari 10.000 perusahaan peserta.
 
-[^2]: [Wikipedia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Pendidikan Hsu Sheng-hsiung: Departemen Sastra China Universitas Pendidikan Nasional Taiwan, kemudian menjabat Ketua Dewan Direksi Compal Electronics
+[^2]: [Wikipedia — Hsu Sheng-hsiung](https://zh.wikipedia.org/wiki/許勝雄) — Latar belakang pendidikan Hsu Sheng-hsiung: Departemen Sastra Tionghoa, Universitas Nasional Taiwan Normal, kemudian menjabat sebagai Ketua Dewan Komisaris Compal Electronics.
 
-[^3]: [Economic Daily News — Compal Saham Tabungan Tetap](https://money.udn.com/) — Compal Electronics 33 tahun berturut-turut membagikan dividen, pembagian dividen stabil, dikenal sebagai "saham tabungan tetap"
+[^3]: [Economic Daily — Saham Deposito Ajaib Compal](https://money.udn.com/) — Compal Electronics telah membagikan dividen selama 33 tahun berturut-turut dengan pembayaran yang stabil, sehingga dijuluki sebagai "saham deposito ajaib".
 
-[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics adalah pabrik ODM notebook terbesar kedua global, pangsa pasar sekitar 20-25%
+[^4]: [Wikipedia — Compal Electronics](https://zh.wikipedia.org/wiki/仁寶電腦) — Compal Electronics adalah produsen ODM laptop terbesar kedua di dunia, dengan pangsa pasar sekitar 20-25%.
 
-[^5]: [Situs Resmi Compal Electronics](https://www.compal.com/) — PT Compal Electronics, Inc. didirikan 1984, kode saham 2324, kantor pusat di Kota Taipei
+[^5]: [Situs Resmi Compal Electronics](https://www.compal.com/) — Compal Electronics Industrial Co., Ltd. didirikan pada tahun 1984, kode saham 2324, berkantor pusat di Kota Taipei.

@@ -1,6 +1,6 @@
 ---
-title: 'Die Entwicklung der Audioindustrie in Taiwan'
-description: 'Von OEM-Auftragsfertigung zu Eigenmarken: Technisches Können und globale Marktposition der taiwanesischen Audioindustrie'
+title: 'Entwicklung der taiwanesischen Audioindustrie'
+description: 'Ausgehend von Auftragsfertigung für Japan und die USA in den 1970er Jahren hat die Audioindustrie dieser Insel eine technologische Entwicklung von Radios, Kassettenrekordern bis hin zu digitaler CD-Audio durchlaufen. In jüngster Zeit wandte sie sich Eigenmarken und höherer Wertschöpfung zu; Hi-Fi-Marken erlangten internationale Bekanntheit, und Hersteller von Fahrzeug- und professioneller Audiotechnik nehmen technologisch eine führende Rolle ein. So entstand eine vollständige Wertschöpfungskette, die von kleinen und mittleren Unternehmen dominiert wird, durch vertikale Arbeitsteilung und einen hohen Spezialisierungsgrad gekennzeichnet ist.'
 date: 2026-03-19
 category: 'Technology'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Elektronikfertigung',
     'Akustiktechnologie',
     'Hi-Fi',
-    'Profiaudio',
+    'Professionelle Audiotechnik',
   ]
 subcategory: '音響產業'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣音響產業發展.md'
-sourceCommitSha: 'f712b7242'
+sourceCommitSha: 'afc244ca1'
 sourceContentHash: 'sha256:807f358c49a8e2a5'
 sourceBodyHash: 'sha256:ed41f6caa1b5d8ba'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-10-15T21:42:00.958648+00:00'
 ---
 
 # Entwicklung der Audioindustrie in Taiwan

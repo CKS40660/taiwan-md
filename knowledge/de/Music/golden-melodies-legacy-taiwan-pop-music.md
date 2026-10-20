@@ -1,28 +1,28 @@
 ---
-title: 'Taiwanische Popmusik: Die Insel, die für die Welt produziert hat, bleibt am Ende mit dem, was andere nicht singen können'
-description: '1997 war Taiwan der zweitgrößte Musikmarkt Asiens; achtzig Prozent der gesamten chinesischsprachigen Musik wurden hier produziert. 2005 sank der Wert auf ein Viertel, und der Markt wurde von China überholt, sodass selbst eine Spitzenplatte von Jay Chou nur 300.000 verkaufte. Wenn in anderen Ländern Songs wegen eines Liedtextes, einer Flagge oder eines Tabus stummgeschaltet werden, wird diese Insel, die an Größe verloren hat, zu dem letzten und härtesten Verhandlungsgegenstand dessen, ob man singen kann.'
+title: 'Taiwanesische Popmusik: Die Insel, die für die ganze Welt Brautkleider näht, am Ende nur noch das singen kann, was andere nicht singen dürfen'
+description: '1997 war Taiwan der zweitgrößte Plattenmarkt Asiens, 80 % aller mandarinsprachigen Songs wurden hier produziert. 2005 war der Produktionswert auf ein Viertel geschrumpft, der Markt wurde von China überholt, selbst Jay Chou auf seinem Höhepunkt verkaufte ein Album nur 300.000 Exemplare. Wenn anderswo Lieder wegen einer Textzeile, einer Flagge, eines Tabus stummgeschaltet werden, hat diese Insel, die an Größe verloren hat, die Frage, ob man singen darf, selbst zum letzten und härtesten Trumpf gemacht.'
 date: 2026-06-19
 category: 'Music'
 tags:
   [
-    'Taiwanische Popmusik',
-    'Chinesischsprachige Popmusik',
+    'Taiwanesische Popmusik',
+    'Mandarin-Pop',
     'Mandopop',
-    'Musikindustrie',
+    'Plattenindustrie',
     'Musikzensur',
     'Verbotene Lieder',
-    'Dragon Diaries',
+    'Nachkommen des Drachen',
     'Hou Dejian',
     'Teresa Teng',
     'A-Mei',
     'Jay Chou',
     'Lin Qiang',
     'Li Zhuxin',
-    'Banae',
+    'Panai',
     'Golden Melody Awards',
-    'Taiwanische Dialektsongs',
-    'Folkbewegung',
-    'Westwanderung',
+    'Taiwanesische Lieder',
+    'Folksong-Bewegung',
+    'Expansion nach China',
     'Meinungsfreiheit',
     'Kulturelle Souveränität',
   ]
@@ -33,358 +33,362 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/台灣流行音樂.md'
 image: '/article-images/music/sunflower-movement-crowd-2014.webp'
-imageAlt: 'Die Blumenbewegung im Jahr 2014, auf den Straßen von Taipei sind Protestierende versammelt, und der Feuerlöscher Island Light wird in dieser Szene von einer halben Million Menschen als nationales Gedächtnis gesungen.'
+imageAlt: '2014 bei der Sonnenblumenbewegung füllten Demonstranten die Straßen Taipeis, und Fire EX.s ‚Island’s Sunrise‘ wurde in dieser Szene von einer halben Million Menschen gemeinsam gesungen und zur nationalen Erinnerung.'
 imageCredit: 'tomscy2000'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg'
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: '1e1040928'
-sourceContentHash: 'sha256:4517347444f75a1c'
-sourceBodyHash: 'sha256:eb706bc3431ec070'
-translatedAt: '2026-09-22T00:56:56.631635+00:00'
+sourceCommitSha: 'a266eaa96'
+sourceContentHash: 'sha256:9dd098f7a5a51bd9'
+sourceBodyHash: 'sha256:7e4e331322aaf847'
+translatedAt: '2026-10-18T06:46:23.542874+00:00'
 ---
 
-# Taiwan-Popmusik: Die Insel, die für die ganze Welt produziert hat, und am Ende nur das singen kann, was andere nicht dürfen
+# Taiwans Popmusik: Die Insel, die für die ganze Welt Brautkleider nähte, und am Ende nur noch das singen kann, was andere nicht singen dürfen
 
-> **30-Sekunden-Überblick:** 1997 war Taiwan der zweitgrößte und drittgrößte Musikmarkt Asiens; hier wurden acht Prozent des globalen Mandarin-Pop geschrieben, arrangiert und aufgenommen. Acht Jahre später schrumpfte dieser Markt auf nur noch ein Viertel, die Produktionszentren verlagerten sich nach China und Korea, und selbst eine Platte aus der Blütezeit von Jay Chou verkaufte nur 300.000 Exemplare, also weniger als ein Drittel einer Million im Goldenen Zeitalter. Taiwan hat an Größe verloren, aber wenn ein Lied aufgrund eines „Tiananmen“, einer Flagge oder eines Tabus anderswo zensiert wird, hält diese Insel noch etwas, das niemand wegnehmen kann: Freiheit. Dies ist eine Geschichte darüber, wessen Stimme zählt – von den 898 gesperrten Liedern während der Kriegsrechtszeit bis zum ersten Golden-Melody-Gewinner mit einem Taigi-Album im Jahr 2025.
+> **30-Sekunden-Überblick:** 1997 war Taiwan der zweitgrößte Plattenmarkt Asiens und der dreizehntgrößte der Welt – hier wurden 80 % der weltweit chinesischsprachigen Popsongs geschrieben, arrangiert und aufgenommen. Acht Jahre später war der Markt auf ein Viertel geschrumpft, die Produktionszentren hatten sich nach China und Südkorea verlagert – selbst ein Album von Jay Chou auf dem Höhepunkt seiner Karriere verkaufte nur 300.000 Exemplare, nicht einmal ein Drittel der Millionenauflagen der Blütezeit. Taiwan verlor an Größe, doch wenn ein Lied anderswo gelöscht wird, weil es „Tian’anmen“ erwähnt, eine Nationalflagge zeigt oder ein Tabu berührt, hält die Insel noch das eine, was niemand ihr nehmen kann: Freiheit. Dies ist eine Geschichte darüber, „wessen Stimme zählt“ – von den 898 Liedern, die während des Kriegsrechts verboten waren, bis zum ersten taiwanesischsprachigen Album, das 2025 den Golden Melody Award für das Album des Jahres gewann.
 
 ---
 
-Als Hou Dejian „Long de Zhuren“ schrieb, war es der 16. Dezember 1978.
+Am Tag, an dem Hou Dejian „Die Nachkommen des Drachen“ schrieb, war der 16. Dezember 1978.
 
-In dieser Nacht verkündete Amerika die diplomatische Anerkennung der Volksrepublik China und den Abbruch der Beziehungen zur Republik China. Ein junger Taiwaneser in seinen Zwanzigern setzte sich hin und schrieb diesen Schmerz nieder, den die Chinesen lange Zeit durch westliche Mächte manipuliert hatten[^1]. Der ursprüngliche Refrain lautete „Das Schwert des Sklaven mit vier Seiten“, aber das Plattenlabel fand es zu provokant und verlangte eine Änderung in „Das Schwert der Ausländer“. Er weigerte sich, und schließlich wurde er zu „Das Schwert der Gnade“ festgelegt[^2].
+In jener Nacht kündigten die USA die Aufnahme diplomatischer Beziehungen zur Volksrepublik China und den Abbruch der Beziehungen zur Republik China an. Ein Anfangzwanzigjähriger Taiwanese setzte sich hin und schrieb ein Lied über die tiefe Trauer und Wut, die Chinesen empfanden, weil sie lange von ausländischen Mächten herumgeschubst worden waren[^1]. Ursprünglich lautete der Refrain „Vierseitiges Chu-Lied ist das Schwert der Sklaven“, die Plattenfirma fand das zu scharf und wollte „Schwert der Ausländer“; er weigerte sich, und die endgültige Fassung wurde „Schwert der Nachgiebigkeit“[^2].
 
-Dieses Lied wechselte später drei Besitzer. Zuerst war es ein tragisches Lied, das durch den Abbruch der Beziehungen geboren wurde. Der Nachrichtenchef Song Chu-yu fand die Texte nicht kämpferisch genug und fügte eine Version hinzu, die den nationalen Selbstaufbau und die Geduld preist, um sie für Reden zu verwenden[^3]. 1983 reiste Hou Dejian selbst nach China; das Lied war in Taiwan verboten und wurde erst nach der Aufhebung des Kriegsrechts wieder freigegeben[^4]. Später nutzte China die Zeilen „schwarze Augen, schwarzes Haar, gelbe Haut“ als Symbol für den ethnischen Nationalismus, und es sang eine andere Geschichte[^5].
+Dieses Lied wechselte später drei Mal den „Besitzer“. Zuerst war es ein trauriges Lied, geboren aus dem diplomatischen Bruch. Der Direktor der Regierungsinformationsbehörde (GIO), James Soong (Song Chu-yu), fand den Text nicht kämpferisch genug, verfasste eine eigene Version, die nationale Selbststärkung und „auf Stroh schlafen und Galle lecken“ (Leid ertragen, um sich zu rächen) pries, und nutzte sie bei Reden[^3]. 1983 ging Hou Dejian selbst nach Festlandchina, woraufhin das Lied in Taiwan verboten wurde – erst nach der Aufhebung des Kriegsrechts wurde das Verbot aufgehoben[^4]. Später nahm China die Zeilen „schwarze Augen, schwarzes Haar, gelbe Haut“ und machte sie zum Symbol blutsbasierten Ethnonationalismus – das Lied erzählte nun eine ganz andere Geschichte[^5].
 
-Die Bedeutung einer Melodie wird nie vom Songschreiber bestimmt, sondern von der Person, die zur Zeit die Macht hält. Die gesamte Geschichte der taiwanesischen Popmusik ist im Grunde eine wiederholte Bestätigung dieses Satzes. Sie war einst eine Fabrik, die für die ganze Welt produzierte; später konnte sie nicht einmal ihren eigenen Markt halten und fand am Ende nur noch jene Lieder in ihren Händen, die andere nicht singen durften.
+Die Bedeutung einer Melodie wurde nie vom Komponisten bestimmt, sondern von denen, die gerade die Macht innehatten. Die gesamte Geschichte der taiwanesischen Popmusik ist im Grunde die wiederholte Bestätigung dieses Satzes. Einst war sie die Fabrik, die für die ganze Welt Brautkleider nähte; später konnte sie nicht einmal ihren eigenen Markt halten – und am Ende stellte sie fest, dass das Einzige, was ihr blieb, die Lieder waren, die sonst niemand singen darf.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/pvVqV7thPVM" title="李建復【龍的傳人】Official Lyric Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Originalaufnahme von Li Jianfu „Long de Zhuren“. Rolling Stone Official Channel. Ein Lied, das durch den Abbruch der Beziehungen geschrieben wurde und drei Besitzer hatte – die gesamte Geschichte der taiwanesischen Popmusik ist eine Parabel auf diesen Satz._
+_Lee Chien-fu, Originalinterpret von „Die Nachkommen des Drachen“. Offizieller Kanal von Rock Records. Ein Lied, geschrieben wegen des diplomatischen Bruchs, das später drei Mal den Besitzer wechselte – die gesamte Geschichte der taiwanesischen Popmusik ist das Abbild dieses Satzes._
 
-## Die Insel, die für die ganze Welt arbeitet
+## Die Insel, die für die ganze Welt die Brautkleider nähte
 
-Zuerst muss der Umfang klar dargelegt werden, damit man versteht, warum die Freiheit das „letzte“ Spielbein war.
+Man muss zuerst die Größenordnung klarstellen, erst dann versteht man, warum Freiheit der „letzte“ Trumpf ist.
 
-Ab den 1980er Jahren war die gesamte chinesischsprachige Musikindustrie stark auf Taiwan konzentriert: Texterstellung, Komposition, Arrangement, Produzenten und Tonstudios befanden sich hier. Sänger aus Taiwan, Hongkong, China und Malaysia reisten nach Taipeh, nahmen dort auf und veröffentlichten das fertige Material zurück in ihren Heimatmärkten. Ein Lee Chung-sheng hielt gleichzeitig die Signature-Alben von Jay Chou, Chao Chuan, Lin Yilian und Mo Wenwei in der Hand[^6]. Das war kein Selbstlob der Taiwaner: Die Beobachtungen des britischen _Financial Times_ oder akademische Zeitschriften nannten Taiwan den „Epizentrum“ der chinesischsprachigen Popmusik[^7]. Die eigenen Zahlen des Ministeriums für Wirtschaft, Film und Populärmusikindustrie zeigten, dass taiwanesische Akteure an einem Punkt einen Marktanteil von bis zu achtzig Prozent im chinesischen Markt hatten[^8].
+Ab den 1980er Jahren war die gesamte Wertschöpfungskette der chinesischsprachigen Popmusik hochgradig in Taiwan konzentriert: Texter, Komponisten, Arrangeure, Produzenten, Aufnahmestudios – alles war hier. Sänger aus Taiwan, Hongkong, China, Singapur und Malaysia flogen nach Taipei, um aufzunehmen, und brachten die fertigen Produkte zurück in ihre Heimatmärkte, um sie zu veröffentlichen. Allein Jonathan Lee (李宗盛) hielt gleichzeitig die repräsentativen Werke von Emil Chau (周華健), Chao Chuan (趙傳), Sandy Lam (林憶蓮) und Karen Mok (莫文蔚) in der Hand[^6]. Das ist keine Eigenlobhudelei der Taiwaner: Die „Financial Times“ und akademische Fachzeitschriften bezeichnen Taiwan gleichermaßen als das „Epizentrum“ (epicentre) der chinesischsprachigen Popmusik[^7]. Die eigenen Zahlen des Bureau of Audiovisual and Music Industry Development des Wirtschaftsministeriums zeigen, dass taiwanesische Akteure zeitweise einen Marktanteil von 80 % am chinesischsprachigen Markt erreichten[^8].
 
-> 💡 **Wissen Sie, wie Aaron Kwok berühmt wurde?** Einer der „Vier Könige“ aus Hongkong wurde zuerst durch eine Motorradwerbung in Taiwan bekannt. Taiwanesische Plattenfirmen erkannten den richtigen Zeitpunkt und veröffentlichten ihm Alben, wodurch er später in Hongkong und im gesamten chinesischsprachigen Raum berühmt wurde. In dieser Ära war Taiwan die „Fabrik“ der chinesischsprachigen Stars: Man dachte, es seien Hongkonger, doch hinter ihnen stand oft ein gesamtes Team aus Textern und Produzenten aus Taiwan.
+> 💡 **Wissen Sie, wie Aaron Kwok (郭富城) berühmt wurde?** Dieser einer der „Vier Himmelskönige“ Hongkongs wurde erstmals durch einen Motorroller-Werbespot in Taiwan bekannt; eine taiwanesische Plattenfirma nutzte den Moment und brachte seine Platte heraus – erst danach wurde er in Hongkong und im gesamten chinesischsprachigen Raum zum Star. Taiwan war in jener Ära die „Fabrik“ für chinesischsprachige Stars: Hinter vielen vermeintlichen Hongkong-Stars stand oft ein ganzes taiwanesisches Team aus Textern, Komponisten und Produzenten.
 
-Es war eine Zeit, in der Millionenplatten alltäglich waren. Jay Chou's _Kiss Goodbye_ (吻別) verkaufte 1,36 Millionen Exemplare in Taiwan im Jahr 1993; damals wurde gesagt, dass etwa jeder zwanzigste Taiwaneser diese Platte gekauft hatte[^9]. In dem Jahr 1997 erreichte Ai Weiwei's _Bad Boy_ 1,38 Millionen Verkäufe in Taiwan und ist bis heute das bestverkaufteste Studioalbum in der Geschichte Taiwans[^10].
+Das war eine Ära, in der Millionenverkäufe alltäglich waren. Jacky Cheungs (張學友) „The Goodbye Kiss“ (《吻別》) verkaufte 1993 in Taiwan 1,36 Millionen Exemplare; man sagte damals, durchschnittlich jeder 20. Taiwaner habe dieses Album gekauft[^9]. 1997 verkaufte A-Meis (張惠妹) „Bad Boy“ in Taiwan 1,38 Millionen Exemplare – bis heute das meistverkaufte Studioalbum in Taiwans Geschichte[^10].
 
-![Teresa Teng aus den frühen 1980er Jahren in Amerika, die asiatische Königin der taiwanesischen Musikgoldenen Ära](/article-images/music/teresa-teng-1980s.webp)
+![Teresa Teng (鄧麗君) Anfang der 1980er Jahre in den USA, Asiens Diva der goldenen Ära der taiwanesischen Popmusik](/article-images/music/teresa-teng-1980s.webp)
 
-_Teresa Teng, die selbst von der gegenüberliegenden Küste als „Tag bei Deng, Nacht bei Xiao Deng“ gesungen wurde, war das Aushängeschild, das in dieser Millionenplattenära ganz Asien exportierte. Foto: Unbekannt, frühe 1980er Jahre. Public Domain (kein Urheberrechtshinweis für die Veröffentlichung in den USA von 1978–1989)._
+_Teresa Teng, diese Diva, von der man auf dem Festland sagte: „Tagsüber hört man Lao Deng, abends hört man Xiao Deng“, war das Aushängeschild, das Taiwan in der Ära der Millionenverkäufe nach ganz Asien exportierte. Foto: Unbekannt, Anfang der 1980er Jahre. Public Domain (USA, Veröffentlichung 1978–1989 ohne Copyright-Vermerk)._
 
 ```tw-figure
-123 Milliarden → 3,15 Milliarden / Yuan
-Der Gesamtmarktwert der taiwanesischen Plattenindustrie schrumpfte zwischen 1997 und 2005 um fast ein Viertel.
-Guanghua Magazine „Die große Zukunft der Populärmusik“, Mirror Weekly
+NT$12,3 Milliarden → NT$3,15 Milliarden
+Gesamtmarktwert der taiwanesischen Plattenindustrie, 1997 bis 2005, in acht Jahren auf weniger als ein Viertel geschrumpft
+Guanghua Magazine „Die große Zukunft der Popmusik“, Mirror Weekly
 ```
 
-Und dann brach es zusammen.
+Dann brach es zusammen.
 
-Laut Guanghua Magazine: „Der Gesamtmarktwert der taiwanesischen Plattenindustrie schrumpfte von 12,3 Milliarden Yuan im Jahr 1997 auf 3,15 Milliarden Yuan im Jahr 2005.“[^11] Mirror Weekly ergänzte: „Taiwan war 1997 das zweitgrößte asiatische Musikmarkt (nach Japan) und der 13. größte Weltmusikmarkt.“[^12] Die Kette des Zusammenbruchs ist klar: Die Verbreitung von CD-Raitern im Jahr 1998, die Einführung von Napster und MP3-Piraterie im Jahr 1999, der „Lawinenabgang“ der physischen Plattenverkäufe im Jahr 2001[^13]. Der Piratismus war so schlimm, dass IFPI in Taiwan 1999 einmal die Veröffentlichung der Verkaufslisten aussetzte.
+Laut „Guanghua Magazine“: „Der Gesamtmarktwert der taiwanesischen Plattenindustrie schrumpfte rasant von NT$12,3 Milliarden im Jahr 1997 auf NT$3,15 Milliarden im Jahr 2005.“[^11] „Mirror Weekly“ fügt die Koordinaten hinzu: „Taiwan war 1997 der zweitgrößte Plattenmarkt Asiens (nach Japan) und der 13. größte der Welt.“[^12] Die Kette der Ursachen für den Zusammenbruch ist klar: 1998 verbreiteten sich CD-Brenner, 1999 gingen Napster und piratierte MP3s online, 2001 stürzten die physischen Plattenverkäufe „lawinenartig“ ab[^13]. Die Piraterie war so schlimm, dass die IFPI-Verkaufscharts für Taiwan 1999 zeitweise eingestellt wurden.
 
-Der brutalste Kontrast lag nicht im Moment des Zusammenbruchs, sondern zehn Jahre später. Als der Markt auf ein Viertel geschrumpft war, sanken selbst die Verkaufszahlen von Königen und Königinnen. Während in der Goldenen Ära Millionenplatten üblich waren, erreichten die Spitzenverkäufe einer Generation wie Jay Chou nur noch 300.000 Exemplare.
+Der grausamste Vergleich liegt nicht im Moment des Zusammenbruchs, sondern zehn Jahre später. Als der Markt nur noch ein Viertel betrug, schrumpften auch die Verkaufszahlen der Superstars. Taiwan, wo in der goldenen Ära locker Millionenverkäufe die Norm waren, sah in Jay Chous (周杰倫) Generation selbst auf dem Höhepunkt nur noch 300.000 Exemplare.
 
 ```tw-bars
-Der Höchstwert eines Albums: Goldene Ära vs. Millenniumszenhöhe (in Zehntausend, Verkaufszahlen in Taiwan)
-Ai Weiwei *Bad Boy* 1997 | 138 | Bester Studioalbum aller Zeiten
-Jay Chou *Kiss Goodbye* 1993 | 136 | Ein Exemplar pro 20 Menschen
-*Jay Chou Höhepunkt 2005 | 30 | Millenniums-Topstar, halb und halb reduziert
-Quelle: Wikipedia-Albenartikel, Guanghua Magazine
+Die Obergrenze für ein Album: Goldene Ära vs. Jahrtausendwende-Peak (in 10.000 Stück, Taiwan-Verkäufe)
+A-Mei „Bad Boy“ 1997 | 138 | Meistverkauftes Studioalbum aller Zeiten
+Jacky Cheung „The Goodbye Kiss“ 1993 | 136 | Jeder 20. kaufte es
+*Jay Chou Peak 2005 | 30 | Top-Künstler der Jahrtausendwende, bereits halbiert und nochmals halbiert
+Quelle: Wikipedia-Albumartikel, Guanghua Magazine
 ```
 
-> 📝 **Kuratorische Anmerkung**
-> Die gängige Erzählung stellt dies oft als „Piraterie hat die Musikindustrie getötet“ dar. Piraterie war zwar der Zündfunke, aber sie erklärt nicht eine Sache: Warum entwickelte Taiwan nach dem Zusammenbruch des physischen Plattenmarktes keinen größeren Industriezweig wie Korea?
+> 📝 **Kuratorennotiz**
+> Die gängige Erzählung schreibt oft: „Piraterie hat die Plattenindustrie umgebracht“. Piraterie war zweifellos der Zünder, aber sie erklärt eines nicht: Warum hat Taiwan – anders als Südkorea – nach dem Zusammenbruch der physischen Tonträger keine neue, größere Industrie wachsen lassen?
 >
-> Die wahre Struktur ist diese: Taiwan hielt zu lange an der Position des „Anführers der chinesischsprachigen Musikszene“ fest und setzte alle Wetten auf den wachsenden Markt China, wodurch es den Zug verpasste, die Musik in einen globalen Kulturexport umzuwandeln. Korea erhöhte sein Kulturbudget von 14 Millionen US-Dollar auf 84 Millionen US-Dollar zwischen 1998 und 2001 – ein Fünffachanstieg[^14]; im Jahr 2018 rangierte die koreanische Popmusik weltweit an siebter Stelle, während Taiwan nicht einmal in den Top Zehn landete[^15]. Bei beiden war es ein kleiner Markt; Korea ging nach außen in die Welt, Taiwan wartete nach innen auf China – dieser Gedankensprung entschied über die nächsten zwanzig Jahre.
+> Die eigentliche Struktur sieht so aus: Taiwan klammerte sich zu lange an die Position des „Anführers der chinesischsprachigen Musikszene“, setzte alles auf den wachsenden chinesischen Markt und verpasste den Zug, Musik zu einem globalen Kulturexport zu machen. Südkorea erhöhte seinen Kulturhaushalt von 1998 bis 2001 von 14 Millionen auf 84 Millionen US-Dollar – eine Verfünffachung[^14]; 2018 rangierte koreanische Popmusik weltweit auf Platz sieben, Taiwan schaffte es nicht einmal in die Top Ten[^15]. Beide sind kleine Märkte, aber Südkorea blickte nach außen in die Welt, Taiwan nach innen und wartete auf China – dieser eine Unterschied entschied die folgenden zwanzig Jahre.
 
-## Hauptakteur und Nebendarsteller: Wie das Zentrum abwandert
+## Rollentausch: Wie das Zentrum abwanderte
 
-Das Produktionszentrum verschwindet nicht von selbst; es wird von einem anderen, größeren Gravitationsfeld weggezogen.
+Ein Produktionszentrum verschwindet nicht einfach; es wird von einem anderen, stärkeren Gravitationsfeld angezogen.
 
-Im Jahr 2018 war der chinesische Musikmarkt bereits der weltweit siebte und zweitplatzierte in Asien mit IFPI-Zertifizierung[^16]. Entscheidender als der Rang war jedoch die Verschiebung der Diskursmacht. Der erfahrene Musiker Shao Yide beschrieb, es gäbe „scheinbar zwei chinesische Musikszene. Eine im _Jianghu_ [der Unterwelt/dem öffentlichen Spektakel] … mit Massenproduktion und algorithmischer Verteilung von ‚God-Songs‘, und eine in der Halle … die industriell veredelte hochwertige Musik.“[^17] Die chinesischen Plattformen zogen den Schwerpunkt der gesamten Branche durch riesige Traffic- und Kapitalmengen an sich. Taiwan wandelte sich vom Zentrum des „Alle kommen zu Aufnahmen“-Modells zu einem Zulieferer, der erst auf fremdem Boden Geld verdienen kann.
+Im Jahr 2018 war Chinas Musikmarkt laut IFPI bereits der siebtgrößte weltweit und der zweitgrößte in Asien[^16]. Entscheidender als die Platzierung war jedoch der Machtverlust bei der Deutungshoheit. Der erfahrene Musikexperte Shao Yide beschrieb die Lage so: Es gebe scheinbar „zwei chinesischsprachige Musikszenen. Eine in der Welt der Flüsse und Seen … massenproduzierte, algorithmusverteilte Internet-‚Götterlieder‘, eine in der Halle … industriell veredelte hochwertige Musik.“[^17] Chinesische Plattformen zogen mit ihrem gewaltigen Traffic und Kapital den Schwerpunkt der gesamten Branche an sich. Taiwan wandelte sich von jenem Zentrum, „wo alle herflogen, um aufzunehmen“, zu einem Zulieferer, der nur noch auf fremdem Platz Geld verdienen kann.
 
-Hier muss man vorsichtig sein mit einer Zahlentücke. Das Kulturinhaltentwicklungsinstitut (TAICCA) gab bekannt, dass der Gesamtumsatz der taiwanesischen Popmusik im Jahr 2023 28,8 Milliarden NTD betrug, was höher ist als die 12,3 Milliarden NTD von 1997[^18]. Auf den ersten Blick scheint dies eine „Markterholung und Übertreffung des Höhepunkts“ zu sein, aber diese beiden Zahlen lassen sich nicht direkt vergleichen. Die 12,3 Milliarden von 1997 bezogen sich auf **reine physische Plattenverkäufe**. Die 28,8 Milliarden von 2023 umfassen die **breitere Industrie**, einschließlich Live-Auftritte (nur der Ticketverkauf belief sich auf 6,7 Milliarden NTD), Lizenzgebühren und digitale Streams[^19].
+Hier lauert eine Zahlenfalle. Die Taiwan Creative Content Agency (TAICCA) gab den Gesamtwert der taiwanesischen Popmusik 2023 mit 28,8 Milliarden NT$ an, höher als die 12,3 Milliarden von 1997[^18]. Auf den ersten Blick wirkt das wie „Markterholung, neuer Höchststand“, doch diese beiden Zahlen sind nicht vergleichbar. Die 12,3 Milliarden von 1997 waren **reine physische Tonträgerverkäufe**. Die 28,8 Milliarden von 2023 umfassen die **gesamte Branche im weiteren Sinne**, einschließlich Live-Auftritte (allein der Ticketumsatz betrug 6,7 Milliarden), Urheberrechte und digitales Streaming[^19].
 
 ```tw-versus
-12,3 Mrd. im Jahr 1997 | 28,8 Mrd. im Jahr 2023
-Reine physische Plattenverkäufe | Breite Industrie inklusive Live-Auftritte, Lizenzen und Streaming
-Geld für CD-Käufe in Musikgeschäften | Nur der Konzertkassenerlös betrug 6,7 Milliarden NTD
-Dies ist die Markt„Größe“ | Dies sind die vielfältigeren „Bereiche“ der Industrie
+1997: 12,3 Mrd. | 2023: 28,8 Mrd.
+Reine physische Tonträgerverkäufe | Breitere Branche inkl. Live-Auftritte, Urheberrechte, Streaming
+Geld für CDs im Plattenladen | Allein Konzertkarten: 6,7 Mrd.
+Das ist Markt„größe“ | Das sind mehr Branchen„facetten“
+Quelle: Sinorama Magazine (1997: 12,3 Mrd., 2005: 3,15 Mrd.) + TAICCA-Branchenuntersuchung (2023: 28,836 Mrd., Live-Ticketumsatz: 6,717 Mrd.)[^11][^18][^19]
 ```
 
-Mit anderen Worten hat die taiwanesische Musikindustrie im Streaming-Zeitalter durch Konzerte und Lizenzgebühren etwas wiederbelebt, aber das einstige Lebenselixier – die physische Platte – ist nicht zurückgekehrt. 28,8 Milliarden als „größerer Markt als 1997“ zu bezeichnen, ist ein Apfel mit einer Orange zu vergleichen. Die ehrliche Version ist: Taiwan hat den Markt verloren, der einst ganz Asien angeführt hatte; das hat sich nicht umgedreht.
+Mit anderen Worten: Taiwans Musikbranche hat im Streaming-Zeitalter dank Konzerten und Urheberrechten zwar wieder Boden gutgemacht, doch die physische Tonträgerbranche, einst ihre Lebensader, ist nicht zurückgekehrt. Die 28,8 Milliarden als „größerer Markt als 1997“ darzustellen, ist ein Äpfel-mit-Birnen-Vergleich. Die ehrliche Version lautet: Taiwan hat jenen Markt verloren, den es einst in ganz Asien anführte – und diese Wende gibt es nicht.
 
-Da die Größe nicht zurückgewonnen werden kann, warum hat Taiwan dann noch einen Platz in der chinesischen Musik? Die Antwort liegt in den Liedern, die andere nicht singen oder nicht dürfen.
+Da die frühere Größenordnung nicht zurückkehrt: Worauf stützt Taiwan dann noch seinen Platz in der chinesischsprachigen Musik? Die Antwort liegt in jenen Liedern, die anderswo nicht gewagt oder nicht gesungen werden dürfen.
 
-## Wir waren auch die Zensoren
+## Auch wir waren einst die Zensoren
 
-Um von der „Freiheit“ Taiwans zu sprechen, muss man zuerst eine nicht ganz glanzvolle Tatsache anerkennen: Taiwan selbst war einmal jene Instanz, die Lieder mit einem roten Stift durchgestrichen hat.
+Will man über Taiwans „Freiheit“ sprechen, muss man zuerst eine wenig rühmliche Tatsache anerkennen: Taiwan selbst war einst derjenige, der mit rotem Stift Lieder strich.
 
-Während der Zeit des Kriegsrechts prüften das Generalkommando für innere Sicherheit (National Security Bureau), das Ministerium für Innere Angelegenheiten, das Ministerium für Bildung und das Verteidigungsministerium zusammen Lieder; insgesamt wurden 898 Songs verboten [^20]. Die größte Zensur erlitt der Taigi-Sänger Wen Xia, der allein 99 Songs auf die schwarze Liste setzte [^21]. Die Gründe für das Verbot klingen heute fast lächerlich: „Wie soll ich wiederkommen“ wurde wegen des Wortes „Japan“ verdächtigt, den japanischen Militarismus zu implizieren. „Olivenbaum“ wurde acht Jahre lang verboten, weil es von „Wandern“ und Heimweh sang. „Heute nicht nach Hause“ wurde verboten, da das Zeichen „Heim“ als Anspielung auf das Festland interpretiert wurde und gegen die Anti-Invasionspolitik verstieß [^22]. „Mama, ich bin auch mutig“ von Deng Yu-hsien komponiert, wurde 33 Jahre lang verboten [^23].
+In der Kriegsrechtszeit prüften das Garnisonskommando Taiwan gemeinsam mit dem Innenministerium, dem Bildungsministerium, dem Verteidigungsministerium und anderen Stellen Lieder; insgesamt wurden 898 Songs verboten[^20]. Am meisten betroffen war der „König des Taiyu-Lieds“ Wen Xia, dem allein 99 Lieder auf die Schwarze Liste gesetzt wurden[^21]. Die Verbotsgründe wirken heute fast absurd: „He Ri Jun Zai Lai“ (何日君再來) wurde verboten, weil „Ri Jun“ (日君) als Anspielung auf den japanischen Militarismus verdächtigt wurde. „Olive Tree“ (橄欖樹) wurde acht Jahre lang verboten, weil es vom „Herumirren“ und von Heimweh sang. „Jin Tian Bu Hui Jia“ (今天不回家) wurde verboten, weil das Wort „Jia“ (家, Zuhause) als Anspielung auf das Festland interpretiert wurde, was gegen die „Gegenangriffspolitik“ verstieß[^22]. Deng Yuxians Komposition „Mama, ich bin auch wirklich stark“ (媽媽我也真勇健) war 33 Jahre lang verboten[^23].
 
 ```tw-stat
-898 Songs | Insgesamt verbotene Lieder während des Kriegsrechts | Gemeinsame Prüfung durch das Generalkommando für innere Sicherheit und andere Stellen
-99 Songs | Anzahl der von Wen Xia verbotenen Lieder | Höchste Zahl in ganz Taiwan
-33 Jahre | Dauer des Verbots von „Mama, ich bin auch mutig“ | Komponiert von Deng Yu-hsien
+898 Lieder | Während der Kriegsrechtszeit insgesamt verbotene Lieder | Gemeinsame Prüfung durch Garnisonskommando u. a.
+99 Lieder | Von Wen Xia allein verbotene Lieder | Höchstzahl in ganz Taiwan
+33 Jahre | Verbotsdauer von „Mama, ich bin auch wirklich stark“ | Komposition von Deng Yuxian
+Quelle: CNA „Die schweigende Ära des Kriegsrechts“ (898 Lieder, Wen Xia 99 Lieder) und Verbotslied-Chronik (33 Jahre „Mama, ich bin auch wirklich stark“)[^20][^23]
 ```
 
-Dieses Prüfsystem hatte klare Rechtsgrundlagen und einen klaren Ausstiegszeitpunkt. Das Veröffentlichungsgesetz von 1973 und das Rundfunkfernsehgesetz von 1976 waren seine Grundlage. Lieder mussten vor der Veröffentlichung geprüft werden. Erst ab 1990 endete die Liedzensur praktisch, und sie wurde 1991 offiziell aufgehoben [^24]. Die Klausel im Rundfunkfernsehgesetz, die Dialektprogramme einschränkte, wurde erst am 14. Juli 1993 vom Gesetzgeber gestrichen [^25]. Die Aufhebung des Kriegsrechts selbst fand am 15. Juli 1987 statt [^26].
+Dieses Prüfungssystem hatte eine klare Rechtsgrundlage und auch ein klares Enddatum. Das Publikationsgesetz von 1973 und das Rundfunk- und Fernsehgesetz von 1976 bildeten seine Grundlage. Lieder mussten vor der Veröffentlichung zur Prüfung eingereicht werden. Erst 1990 wurde die Liedprüfung faktisch eingestellt, 1991 erfolgte die offizielle Bekanntgabe[^24]. Die Bestimmung im Rundfunk- und Fernsehgesetz, die Dialektsendungen einschränkte, wurde erst am 14. Juli 1993 vom Legislativ-Yuan gestrichen[^25]. Die Aufhebung des Kriegsrechts selbst erfolgte am 15. Juli 1987[^26].
 
-> ⚠️ **Dies ist die wichtigste Voraussetzung zum Verständnis der taiwanesischen Freiheit**
-> Die Meinungsfreiheit Taiwans wurde schrittweise erkämpft. Von der Aufhebung des Kriegsrechts bis zur Beendigung der Zensur und dem Streichen der Dialektbeschränkung dauerte fast vier Jahrzehnte, in denen Menschen wegen eines Liedes verboten, unterdrückt oder gezwungen waren zu emigrieren.
->
-> Gerade weil Taiwan diesen Preis bezahlt hat, weiß es heute sehr genau, wie es ist, „nicht singen zu dürfen“ – es stand einmal auf der Seite des roten Stiftes. Das bedeutet nicht, die heutige Freiheit abzuwerten; ganz im Gegenteil: Erst wenn man weiß, wie diese Freiheit erkämpft wurde, spürt man ihren Wert und nimmt sie nicht als selbstverständlich hin.
+> ⚠️ **Dieser Punkt ist die wichtigste Voraussetzung, um Taiwans Freiheit zu verstehen**
+> Taiwans Redefreiheit wurde Schritt für Schritt erkämpft.
+> Von der Aufhebung des Kriegsrechts über das Ende der Zensur bis zur Streichung der Dialektbeschränkungen vergingen fast vierzig Jahre; dazwischen wurden Menschen wegen eines einzigen Liedes verboten, geächtet, ins Exil gezwungen.
+> Gerade weil Taiwan diesen Preis gezahlt hat, weiß es heute ganz genau, wie sich „nicht singen dürfen“ anfühlt – es stand einst selbst auf der Seite derer, die den roten Stift hielten.
+> Das soll die heutige Freiheit nicht infrage stellen, im Gegenteil: Wer weiß, wie Freiheit erkämpft wurde, weiß, wie schwer sie wiegt, und nimmt sie nicht als selbstverständlich hin.
 
-## Was man singen kann, was andere nicht können
+## Was andere nicht singen können
 
-Wenn die Vergangenheit (als Zensoren) und die Gegenwart von Taiwan nebeneinandergestellt werden, ergibt sich dieser Kontrast.
+Wenn man Taiwans Vergangenheit (einst Zensor) und die Gegenwart nebeneinanderstellt, wird der Kontrast deutlich.
 
-Heute wird auf der gegenüberliegenden Seite der Straße ein noch dichteres Vorzensurwesen angewandt. Die staatliche chinesische Rundfunkanstalt (NRTA) zensiert Texte, Alben und Auftritte im Voraus; 2021 wurde eine KTV-Schwarze Liste veröffentlicht, die Lieder mit Inhalten wie „Gefährdung der nationalen Einheit“ entfernt hat[^27]. Der unabhängige Musiker Li Zhi sah sein Werk 〈Platz〉, das über den Sechser-Protest schrieb, 2019 auf allen Plattformen gelöscht[^28]; Tsai Ing-wen wurde für ihren Einsatz für die Geschlechtergerechtigkeit mit 〈Rose Boy〉 (Womxnly) in China verboten; selbst Mayday musste angeblich die Zeilen „Tibet“ durch das homophone „Herz“ ändern, um genehmigt zu werden[^29].
+Heute wendet die andere Seite der Taiwanstraße ein anderes, noch engmaschigeres System der Vorzensur an. Die chinesische Nationale Radio- und Fernsehverwaltung (NRTA) unterzieht Texte, Alben und Aufführungen einer Vorprüfung; 2021 veröffentlichte sie eine KTV-Schwarzenliste und nahm Lieder mit Inhalten, die die „nationale Vereinigung gefährden“, vom Netz[^27]. Der unabhängige Musiker Li Zhi wurde 2019 auf allen Plattformen gesperrt, weil er mit „Guangchang“ (Platz) ein Lied über den 4. Juni geschrieben hatte[^28]; Jolin Tsais Lied „Meigui Shaonian“ (Womxnly), mit dem sie sich für Geschlechtergleichheit einsetzte, wurde in China verboten; sogar Mayday wurde verlangt, das Wort „Xizang“ (Tibet) im Text durch das homophone „Xinzang“ (Herz) zu ersetzen, um die Prüfung zu bestehen[^29].
 
-Deshalb wird „Freiheit“ zum letzten und härtesten Trumpf Taiwans: Manche Lieder können nur in Taiwan gesungen werden.
+Deshalb wird „Freiheit“ zu Taiwans letztem und härtestem Trumpf: Manche Lieder kann man nur in Taiwan singen.
 
 ```tw-timeline
-1978 | Geschrieben wegen der diplomatischen Trennung | Hou Dejian schrieb 〈Dragon's Descendants〉, das die Tragödie beschreibt, dass Chinesen von Großmächten manipuliert wurden
-1983 | In Taiwan verboten | Hou Dejian reiste nach Festlandchina; dieses Lied wurde in Taiwan zensiert und erst nach der Lockerung 1987 freigegeben
-Heute | Von China missbraucht | „Schwarze Augen, schwarzes Haar, gelbe Haut“ wird als Symbol des Blutlinien-Nationalismus verwendet
+1978 | Für den Abbruch der diplomatischen Beziehungen geschrieben | Hou Dejian komponiert „Long de Chuanren“, klagt das Leid der Chinesen an, die von den Großmächten manipuliert werden
+1983 | In Taiwan verboten | Hou Dejian reist nach Festlandchina, das Lied wird in Taiwan verboten, 1987 mit Aufhebung des Kriegsrechts wieder erlaubt
+Heute | Von China vereinnahmt | „Schwarze Augen, schwarzes Haar, gelbe Haut“ wird zum Symbol blutsbasierten Ethnonationalismus
+Quelle: Wikipedia (Long de Chuanren, Hou Dejian) + Critical Review Network (Chen Fangyu-Analyse)[^1][^4][^5]
 ```
 
-Und Freiheit hat Gewicht – das Gewicht kommt von denen, die sich entscheiden zu singen und dafür bezahlen.
+Doch Freiheit hat Gewicht, und dieses Gewicht kommt von jenen, die sich entscheiden zu singen und dann den Preis dafür zahlen.
 
-Jolin Tsai sang bei der Amtseinführung des Präsidenten im Jahr 2000, wurde aber danach fast vier Jahre lang in China verboten; Konzerte, Werbung und Sponsoring wurden komplett eingestellt, bis sie 2004 wieder freigegeben wurde[^30]. Chang Xuan (An Pu) erhielt bei einem Konzert in Manchester, Großbritannien, 2013, eine Flagge der Republik China von einem Publikumsteilnehmer, sagte: „Das ist die Flagge meiner Heimat“, woraufhin alle drei geplanten Auftritte in Peking abgesagt wurden[^31]. Lu Guangzhong und Chou Tzu-yu gerieten ebenfalls wegen Meldungen in Schwierigkeiten. Deng Li-jun, diese Sängerin, deren Gesang selbst auf dem Festland als „Deng tagsüber, Xiao Deng abends“ bekannt war, sang 1989 bei der Veranstaltung „Demokratische Stimmen für China“ in Hongkong unter einem Schild mit der Aufschrift „Gegen die Militärherrschaft“ und gab nie ein Konzert auf dem Festland[^32].
+A-Mei sang 2000 bei der Amtseinführung des Präsidenten die Nationalhymne und wurde daraufhin von China für fast vier Jahre gesperrt – Konzerte, Werbung, Werbeverträge, alles gestoppt, bis das Verbot 2004 aufgehoben wurde[^30]. Bei einem Konzert 2013 in Manchester, Großbritannien, nahm Cheer Chen (Anpu) eine Flagge der Republik China entgegen, die ihr ein Fan reichte, und sagte: „Das ist die Flagge meiner Heimat“ – daraufhin wurden ihre drei geplanten Konzerte in Peking abgesagt[^31]. Auch Crowd Lu und Tzuyu Chou gerieten bereits in Kontroversen, nachdem sie angezeigt worden waren. Und Teresa Teng, die Diva, von der man in Festlandchina sagt: „Tagsüber hört man alten Deng, abends kleinen Deng“, sang 1989 auf der Bühne der „Demokratischen Lieder für China“ in Hongkong mit einem Schild „Gegen Militärverwaltung“ – bis zu ihrem Tod gab sie nie ein einziges Konzert in Festlandchina[^32].
 
-![Fernsehaufnahme vom Veranstaltungsort des Golden Melody Awards, Foto von GMA 20210821](/article-images/music/golden-melody-awards-2021.webp)
+![Fernsehkameras vor der 32. Golden Melody Awards, der wichtigste Preis der chinesischsprachigen Musik](/article-images/music/golden-melody-awards-2021.webp)
 
-_Der Golden Melody Award ist die wichtigste Bühne für chinesische Musik; Panai thematisierte Tiananmen hier. Photo: Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
+_Die Golden Melody Awards sind die wichtigste Bühne der chinesischsprachigen Musik, und genau hier sprach Panai über den Tiananmen-Platz. Foto: Solomon203, 2021. [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg)._
 
-> 💡 **Wussten Sie? Ein Abend beim Golden Melody Award im Jahr 2024 verdeutlicht dies am besten.** Die indigene Sängerin Panai erinnerte auf der Bühne des 35. Golden Melody Awards daran, dass genau 35 Jahre seit dem Tiananmen-Ereignis vergangen waren – „lasst es uns nicht vergessen“[^33]. China löschte daraufhin ihre Werke von den Plattformen. Ihre Reaktion danach fasste die ganze Bedeutung zusammen: Sie sagte, das Vorgehen Pekings zeige gerade, wie kostbar diese Freiheit Taiwans ist[^34]. Die Zensur wurde zum besten Beweis dafür, „dass es hier gesungen werden kann“.
+> 💡 **Wussten Sie? Am besten illustriert das ein Abend der Golden Melody Awards 2024.** Die indigene Sängerin Panai erinnerte auf der Bühne der 35. Golden Melody Awards daran, dass sich das Tiananmen-Ereignis genau 35 Jahre jährte – „let's not forget“[^33]. China löschte daraufhin ihre Werke von den Plattformen. Panais Reaktion danach brachte die Sache auf den Punkt: Sie sagte, Pekings Vorgehen hebe erst recht hervor, wie kostbar diese Freiheit in Taiwan ist[^34]. Die Sperre wurde so zum besten Beweis für „hier kann man singen“.
 
-Lai Ching-te sagte bei seiner Rede beim Golden Melody Award, Musik sei Leben und Musik sei auch ungebundene Freiheit („Music is life, and music is also unfettered freedom“)[^35]. Dieser Satz klingt nach Plattitüde, aber im Kontext von Panais Löschung, Jolin Tsais Verbot und Chang Xuans Absage ist er die Abrechnung einer Insel, die den Markt verloren hat, mit dem, was ihr noch geblieben ist.
+Lai Ching-te sagte in seiner Ansprache bei jener Golden Melody Awards: „Music is life, and music is also unfettered freedom“[^35]. Das klingt wie eine Floskel, aber im Kontext von Panais Löschung, A-Meis Sperre und Cheer Chens Absage ist es die Inventur eines Inselstaats, der seinen Markt verloren hat und nur noch sein letztes Gut zählt.
 
-Die andere Seite der Freiheit ist die Bereitschaft, seine Meinung zu äußern. Während des Sunflower-Protests 2014 schrieben Studenten von Fire EX. und der National University of Taiwan 〈Island's Sunrise〉 für die Menschen, die das Gesetzgebungsgebäude besetzten, und 500.000 Menschen sangen am Ende März auf der Keelung Road zusammen[^58]. Die Band gab die Rechte an dieses Lied kostenlos für nicht-kommerzielle Nutzung frei, und im folgenden Jahr gewann es den Golden Melody Award als Song des Jahres. Ein Lied, das voller politischer Forderungen ist und für den Straßenkampf geboren wurde, konnte in der höchsten Musikhalle Taiwans gekrönt werden – etwas Unvorstellbares auf der gegenüberliegenden Seite der Straße.
+Die Kehrseite der Freiheit ist der Mut zur Stimme. Während der Sonnenblumenbewegung 2014 schrieben Fire EX. und Studenten der Taipei National University of the Arts für die Besetzer des Parlaments „Island's Sunrise“, und Ende März sangen 500.000 Menschen auf dem Ketagalan-Boulevard gemeinsam[^58]. Die Band stellte die Rechte für nicht-kommerzielle Nutzung kostenlos zur Verfügung, und im Jahr darauf gewann das Lied den Preis für das beste Lied des Jahres bei den 26. Golden Melody Awards. Ein Lied, voll politischer Forderungen, geboren für den Straßenprotest, das in Taiwans höchstem Musiktempel triumphiert – auf der anderen Seite der Taiwanstraße unvorstellbar.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="滅火器 Fire EX. - 12 島嶼天光 Island's Sunrise" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Fire EX. 〈Island's Sunrise〉 offiziell. Fire EX. Offizieller Kanal. Geschrieben für den Sunflower-Protest, gesungen von 500.000 Menschen in Keelung und gewann den Golden Melody Award als Song des Jahres._
+_Fire EX. „Island's Sunrise“ Official. Offizieller Kanal von Fire EX. Für die Sonnenblumenbewegung geschrieben, 500.000 sangen auf dem Ketagalan-Boulevard, gewann den Golden Melody Song of the Year der 26. Ausgabe._
 
-# Weg nach China, um Geld zu verdienen
+## Nach China gehen, um wirklich Geld zu verdienen
 
-Allerdings ist es unaufrichtig, „Freiheit“ zu romantisieren. Denn Freiheit hat einen Preis, und dieser Preis wird täglich bezahlt.
+Doch wenn man „Freiheit“ zu romantisch beschreibt, wird man unehrlich. Denn Freiheit hat ihren Preis, und dieser Preis wird jeden Tag gezahlt.
 
-Die Anziehungskraft des Marktes ist real. Im Jahr 2023 sind schätzungsweise 120 taiwanesische Bands und Künstler nach China gefahren, was der Höchststand seit 2018 war[^36]. Für viele Musiker ist die Reise nach Westen eine Frage des Lebensunterhalts, keine politische Aussage. Ein Manager sagte gegenüber _Reportage_: „In Taiwan kann man sich nur verhungern, aber erst in China kann man wirklich Geld verdienen und dieses dann nach Taiwan zurückbringen, um Musik zu machen.“[^37]
+Die Anziehungskraft des Marktes ist real. Im Jahr 2023 traten etwa 120 taiwanesische Bands und Sänger in China auf – der Höchststand seit 2018[^36]. Für viele Musiker ist der Gang nach Westen eine Existenzfrage, keine politische Stellungnahme. Ein Manager sagte gegenüber 《The Reporter》 ganz offen: „In Taiwan kann man gerade so überleben, aber in China verdient man wirklich Geld, und dann bringt man das Geld zurück nach Taiwan, um Musik zu machen.“[^37]
 
-Die neue Generation von Musikern versucht, ein Gleichgewicht zu finden. Der Bandleader Li Yangxuan sagte: „Ich definiere den chinesischen Markt als Bonus; wenn wir unsere Haupteinnahmen davon abhängig machen, werden wir gefangen gehalten und können nicht entkommen.“[^38] Aber das Gleichgewicht ist schwer zu halten. Der Schöpfer Zhang Jiaxiang seufzte: „Wir ähneln immer mehr einer Event-PR-Agentur.“[^39] Einige taiwanesische Bands, die in China tourten, entschieden sich, bei sensiblen Themen zu schweigen – ein Manager einer Band, deren Werk wegen Unterstützung für Hongkong entfernt wurde, erklärte gegenüber westlichen Medien, er sehe darin keine Selbstzensur, sondern lediglich „um die Sicherheit von mir und meinen Kollegen zu gewährleisten“[^40].
+Junge Musiker der neuen Generation versuchen, ein Gleichgewicht dazwischen zu finden. Der Bandsänger Li Yang-xuan sagt: „Ich definiere den chinesischen Markt als Bonus; wenn unser Haupteinkommen davon abhängt, werden wir gefesselt und können uns nicht mehr lösen.“[^38] Doch das Gleichgewicht ist schwer zu halten. Der Schöpfer Zhang Jia-xiang seufzt: „Wir werden immer mehr wie eine Event-PR-Firma.“[^39] Bei taiwanesischen Bands, die in China auf Tournee gehen, entscheiden sich einige, zu sensiblen Themen zu schweigen – ein Bandmanager, der Hongkong unterstützt hatte und dessen Werke daraufhin entfernt wurden, sagte gegenüber englischsprachigen Medien, er betrachte dies nicht als Selbstzensur, sondern nur als Maßnahme, um die Sicherheit seiner selbst und seiner Kollegen zu gewährleisten („to ensure the safety of myself and my colleagues“)[^40].
+
+> 📝 **Kuratorennotiz**
+> Das ist das wahre Dilemma der taiwanesischen Musiker, und es gibt keine saubere Antwort. Auf der einen Seite: „In Taiwan verhungert man nicht, verdient aber nichts“, auf der anderen: „In China verdient man etwas, muss aber den Mund halten“. Diejenigen, die nach Westen gehen, als „Kriecher“ zu beschimpfen, und diejenigen, die bleiben, als „Helden“ zu feiern, ist gleichermaßen billig, denn die Urteilsfällenden müssen selbst keine Miete zahlen.
+>
+> Der Satz „Freiheit ist Taiwans letzter Trumpf“ stimmt, aber er war nie ein kostenloser Trumpf. Ihm gegenüber steht immer ein größerer Markt, der die Hand ausstreckt. Taiwans Wert liegt nicht darin, dass jeder Freiheit wählt, sondern darin – dass hier die Wahl selbst noch erlaubt ist.
+
+## „Das eigene Lied singen“ – gesungen wurde eigentlich Mandarin
+
+Nach all dem Gerede über „Freiheit“ muss man hier noch einen durchgehenden Basston einziehen: In Taiwan selbst tobt seit jeher ein anderer Machtkampf darum, _wessen_ Stimme zählt. Ob man nach außen hin singen darf, ist die eine Frage; in _wessen Sprache_ man singt, die andere.
+
+Die Kriegsrechtsära unterdrückte nicht nur Politik, sondern auch Muttersprachen. Zwischen 1951 und 1963 verlangte eine Reihe von Mandarin-Förderpolitiken, dass Schulen Dialekte strikt verboten[^41]; das Rundfunk- und Fernsehgesetz (1976) schrieb in Artikel 20 schwarz auf weiß: „Die von Rundfunkanstalten im Inland verwendete Sendesprache soll hauptsächlich Mandarin sein; Dialekte sind jährlich zu reduzieren“[^42]; 1972 wurde den drei Fernsehsendern auferlegt, „nicht mehr als zwei taiwanesische Lieder pro Tag zu senden“[^43]. Der Wissenschaftler Chen Peifeng beobachtet, dass taiwanesische Lieder lange unter der Geringschätzung von intellektueller Elite und Staatsmacht ums Überleben rangen.
+
+Genau das birgt die berühmte Volkslied-Bewegung der 1970er Jahre einen kaum ausgesprochenen Ironie-Kern.
+
+1975 veranstaltete Yang Xian in der Zhongshan-Halle in Taipeh ein „Konzert moderner Volkslied-Kompositionen“, vertonte neun Gedichte von Yu Guangzhong – allesamt auf Mandarin[^44]. Im Jahr darauf warf Li Shuangze bei einem Western-Folk-Konzert an der Tamkang-Universität jenen legendären Satz in den Saal: „Warum gebt ihr zwanzig Dollar aus, um Chinesen westliche Lieder singen zu hören?“ (Die Cola-Flasche in seiner Hand brachte er, so Tao Xiaoqings Erinnerung, „unversehrt wieder von der Bühne“ – das „Zerschmettern der Flasche“ ist nachträgliche Dramatisierung)[^45].
+
+„Sing dein eigenes Lied“ wurde zur Losung einer ganzen Generation. Doch das, was dieses „Eigene“ hervorbrachte, waren überwiegend Mandarin-Lieder. _Business Weekly_ fasst es direkt zusammen: „Die Volkslied-Bewegung war im Grunde eine Mandarin-Lied-Bewegung; taiwanesische Lieder waren so selten wie Phönixfedern.“[^46] Auf der Jin-Yun-Preis-Bühne, einem wichtigen Schauplatz der Bewegung, war Jian Shangrens „Zheng Yue Diao“ beinahe der einzige taiwanesische Wettbewerbsbeitrag.
 
 > 📝 **Kuratorische Anmerkung**
-> Das ist das Dilemma der taiwanesischen Musiker in der Realität, und es gibt keine saubere Antwort. Auf der einen Seite: „In Taiwan verhungern wir nicht, aber wir verdienen nichts.“ Auf der anderen Seite: „Wir verdienen in China, müssen aber schweigen.“ Diejenigen, die diejenigen, die nach Westen reisen, als „Knechte“ bezeichnen, und diejenigen, die ablehnen, als „Helden“ preisen, ist zu billig, denn diejenige, die dieses Urteil fällt, muss selbst keine Miete bezahlen.
+> Die historische Bedeutung der Volkslied-Bewegung steht außer Frage – sie brachte Taiwans Jugend tatsächlich dazu, eigene Lieder zu schreiben, und löste die Phase des reinen Coverns westlicher und japanischer Songs ab. Verklärt man sie jedoch zum Moment, in dem „Taiwan seine eigene Stimme zurückfand“, blendet man die entscheidende Ebene aus: Die „eigene“ Stimme, die da zurückgefunden wurde, war die _mandarinische_.
 >
-> Der Satz „Freiheit ist das letzte Los Taiwans“ stimmt, aber es war nie ein kostenloses Los. Auf der anderen Seite steht immer ein größerer Markt, der ausstreckt. Das Besondere an Taiwan ist nicht, dass jeder Freiheit wählt, sondern dass hier die Wahl selbst noch erlaubt ist.
+> Die auf diesem Land lebende, zahlenmäßig größte taiwanesischsprachige Gruppe – ihre Lieder blieben in dieser Bewegung Randerscheinung. Dass die Losung „Sing dein eigenes Lied“ zugleich berührend und blind ist, ist ein und dieselbe Sache – sie beweist, dass selbst in der Widerstandshaltung die Mandarin-Hegemonie der unangefochtene Default-Wert blieb.
 
-## „Eigene Lieder singen“ – Dabei wurden Mandarin gesungen
+## Vom drittklassigen Lied zum Album des Jahres
 
-Nach all den Reden über die „Freiheit“ muss hier eine tiefere Note hinzugefügt werden, die von Anfang bis Ende durchzieht: Innerhalb Taiwans gab es immer einen anderen Kampf darum, „wessen Stimme zählt“. Ob man nach außen singen kann, ist eine Sache; welche „Sprache“ man dabei verwendet, ist eine ganz andere.
+Die Erholung der Muttersprache geschieht in wiederholten Anläufen – keine einzige Bewegung bringt sie dauerhaft zum Ziel.
 
-Während der Kriegsrechtszeit wurden nicht nur politische Aspekte unterdrückt, sondern auch die Muttersprachen. Zwischen 1951 und 1963 verlangten zahlreiche Politikmaßnahmen zur Förderung des Mandarin, dass Dialekte in Schulen strengstens untersagt waren [^41]; Artikel 20 des Rundfunkgesetzes (1976) schrieb unmissverständlich: „Die Sprache der nationalen Rundfunksendungen soll primär Mandarin sein; Dialekte sollen jährlich abnehmen“ [^42]; im Jahr 1972 wurden drei Fernsehsender angewiesen, „nicht mehr als zwei Singlieder in Taiyu pro Tag auszustrahlen“ [^43]. Der Wissenschaftler Chen Peifeng beobachtete, dass die Taiyu-Lieder lange Zeit unter der Missachtung durch das intellektuelle Establishment und die staatliche Macht ums Überleben kämpften.
-
-Dies barg einen selten bemerkten Sarkasmus in der berühmten Volksliedbewegung der 1970er Jahre.
-
-Im Jahr 1975 führte Yang Xian in der Zhongshan-Halle in Taipeh ein „Modernes Volkslied-Konzert“ durch, bei dem die neun Gedichte von Yu Guangzhong in Lieder umgesetzt wurden – alle auf Mandarin [^44]. Im darauffolgenden Jahr präsentierte Li Shuangze bei einem westlichen Folk-Konzert an der Tamkang University den berühmten Satz: „Warum gebt ihr zwanzig Dollar aus, um Chinesen zu hören, die westliche Lieder singen?“ (Laut der Erinnerung von Tao Xiaoqing wurde die Colaflasche in seiner Hand „unbeschädigt vom Bühnenboden genommen“, sie zerbrach nicht – das „Flasche zerschlagen“ ist eine spätere Ausschmückung) [^45].
-
-„Eigene Lieder singen“ wurde zum Slogan einer ganzen Generation. Doch die überwiegende Mehrheit der als „eigene“ gesungenen Lieder war Mandarin-Musik. Ein Rückblick von Jin Zhoukan berichtete direkt: „Die Volksliedbewegung war eigentlich eine chinesische Sprachmusikbewegung; Taiyu-Lieder waren selten.“ [^46] Auf der wichtigen Bühne des Jinyun-Preises war Jian Shangren mit seinem Stück 〈正月調〉 fast das einzige eingereichte Taiyu-Stück.
-
-> 📝 **Kuratorische Anmerkung**
-> Der historische Stellenwert der Volksliedbewegung ist unbestreitbar – sie zwang die jungen Menschen in Taiwan tatsächlich dazu, eigene Lieder zu schreiben und die Phase des Coverns westlicher und japanischer Lieder hinter sich zu lassen. Aber wenn man dies romantisiert als den Moment „Taiwans, wie seine eigene Stimme wiederzufinden“, übersieht man die entscheidende Schicht: das „Selbst“, das wiedergefunden wurde, ist das Mandarin-Selbst.
->
-> Die Taiyu-Gemeinschaften, die tatsächlich in diesem Land leben und die Mehrheit der Bevölkerung ausmachen, waren bei dieser Bewegung weiterhin marginalisiert. Der emotionale Reiz und die Blindstelle des Slogans „Eigene Lieder singen“ sind dieselbe Sache – er beweist, dass selbst im Widerstand die Mandarin-Hegemonie das unhinterfragte Standardmaß blieb.
-
-## Vom Mittelmaß zum Jahresfavorit
-
-Die Wiederbelebung der Muttersprache war ein wiederkehrender Prozess, kein einzelnes Ereignis konnte alles lösen.
-
-1989 veröffentlichte das Label Blacklist die „Crazy Song“, die als Beginn der „Taiwanese-Sprach-Songbewegung“ gilt und Mitglieder wie Wang Ming-hui, Chen Ming-zhang, Chen Chu-hui und Lin Wei-zhe umfasste[^47]. Am 7. Dezember 1990 veröffentlichte Lin Qiang 〈Marching Forward〉, das 400.000 Exemplare verkaufte und 1992 den Golden Melody Award für das beste Jahreslied gewann, was bewies, dass Taiwanesisch nicht nur traurige alte Lieder singen konnte, sondern auch Rock, Urban Pop und Jugendkultur repräsentieren konnte[^48]. Im Jahr 1998 gewann Wo Pai mit „Tree Branch Solitary Bird“ den Golden Melody Award für das beste Pop-Albenalbum und wurde als Repräsentant der „zehnjährigen Wiederbelebung der Taiwanese-Sprach-Songbewegung“ beschrieben[^49].
+1989 veröffentlichte das Blacklist Studio das Album 《抓狂歌》 (Crazed Song), das als Ausgangspunkt der „Neuen taiwanesischen Liedbewegung“ gilt. Zu den Mitgliedern gehörten Wang Ming-hui, Chen Ming-chang, Chen Chu-hui und Lin Wei-che[^47]. Am 7. Dezember 1990 veröffentlichte Lin Chiang die Single 〈向前走〉 (Marching Forward), die 400.000 Mal verkauft wurde und 1992 bei den 3. Golden Melody Awards den Preis für das beste Lied des Jahres gewann. Damit bewies sie, dass Taiwanesisch nicht nur traurige alte Lieder singen kann, sondern auch Rock, urban und jung sein kann[^48]. 1998 gewann Wu Bais Album 《樹枝孤鳥》 (Lonely Bird on a Branch) den Golden Melody Award für das beste Pop-Gesangsalbum und wurde als repräsentativ für das „zehnjährige Wiederaufleben der Neuen taiwanesischen Liedbewegung“ beschrieben[^49].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/gD14iiXq7Xw" title="林強 Lin Chung【向前走 Marching forward】Official Music Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Lin Qiangs 〈Marching Forward〉 offizielles MV. Rolling Stone Official Channel. Mit Taiwanesisch im Jahr 1990 wurde die urbane Lebendigkeit und der Vorwärtsdrang bewiesen, was zeigte, dass Taiwanesisch nicht nur traurige Lieder singen kann._
+_Offizielles MV von Lin Chiang 〈向前走〉. Offizieller Kanal von Rock Records. 1990 sang er auf Taiwanesisch die städtische Helligkeit und den Vorwärtsdrang – und bewies, dass Taiwanesisch nicht nur traurig klingen kann._
 
-Auch das System passte sich langsam an. Der Golden Melody Award führte 2005 (16. Ausgabe) den Preis für beste Alben in Taiwanesisch, Hakka und indigenen Sprachen ein[^50]; 2017 (28. Ausgabe) wurde der sprachunabhängige Jahresalbumpreis eingeführt[^51].
+Auch das Institutionengefüge zog langsam nach. Die Golden Melody Awards führten 2005 (16. Verleihung) Preise für die besten Alben in Taiwanesisch, Hakka und indigenen Sprachen ein[^50]; 2017 (28. Verleihung) kam der sprachunabhängige Preis für das Album des Jahres hinzu[^51].
 
-Dann kam das Jahr 2025. Bei der 36. Ausgabe des Golden Melody Awards gewann Li Zhu-xin mit ihrem Taiwanesisch-Album „Suí 水“ drei Preise auf einmal: den Jahresalbumpreis, den besten weiblichen Sängerin in Taiwanesisch und das beste Album in Taiwanesisch[^52]. Besonders wichtig war der Jahresalbumpreis: Dies war das **erste Mal**, dass ein taiwanesisches Album diesen sprachunabhängigen Höchstpreis gewann[^53].
+Dann kam 2025. Bei der 36. Verleihung der Golden Melody Awards gewann Siri Lee (Lee Zhu-xin) mit ihrem taiwanesischen Album 《Suí 水》 gleich drei Preise: Album des Jahres, beste taiwanesische Sängerin und bestes taiwanesisches Album[^52]. Der Preis für das Album des Jahres hat dabei eine besondere Bedeutung: Es ist das **erste Mal**, dass ein taiwanesisches Album diese sprachunabhängige Höchstauszeichnung gewinnt[^53].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/ehl-pc0syCU" title="李竺芯Siri Lee - 水Suí Official Lyrics Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Li Zhu-xins 〈Suí〉 offiziell. Li Zhu-xin Siri Lee Official Channel. Mit diesem taiwanesischen Album im Jahr 2025 gewann Taiwanesisch zum ersten Mal den sprachunabhängigen Höchstpreis._
+_Offizielles Video von Siri Lee 〈水 Suí〉. Offizieller Kanal von Siri Lee. 2025 gewann dieses taiwanesische Album den Golden Melody Award für das Album des Jahres – zum ersten Mal stand ein taiwanesisches Album auf der sprachunabhängigen höchsten Ehrung._
 
-> ⚠️ **Ein Punkt, der präzise genannt werden muss**
-> Li Zhu-xin hat erreicht, dass ein taiwanesisches Album zum ersten Mal den Jahresalbumpreis gewinnt, nicht, dass eine Muttersprache oder eine Nicht-Mandarin-Sprache dies tut. Vor ihr hatten die indigenen Alben von Sambu Yi (2017) und A Bao (A Ren-ren) in Paiwanisch (2020) bereits den Jahresalbumpreis gewonnen[^54]. Die Leistung zu übertreiben, würde die Wege der indigenen Musiker überschatten. Die ehrliche Version ist: Der Aufstieg der Muttersprache auf der höchsten Bühne des Golden Melody Awards war eine Aneinanderreihung – zuerst die indigenen Sprachen, dann Taiwanesisch; jeder Schritt war eine Neuberechnung dessen, „dessen Stimme zählt“.
+> ⚠️ **Ein Punkt, der präzise gesagt werden muss**
+> Was Siri Lee schaffte, ist der „erste Gewinn des Albums des Jahres durch ein taiwanesisches Album“, nicht der „erste Gewinn durch ein Muttersprachen-Album“ oder „erste Gewinn durch ein nicht-mandarinisches Album“. Vor ihr hatten bereits Sangpuys Album in indigener Sprache (2017) und A-Bao (Aljenljeng) mit ihrem Paiwan-Album (2020) den Preis für das Album des Jahres gewonnen[^54]. Wenn man das Verdienst zu groß darstellt, löscht man stattdessen den Weg aus, den indigene Musiker\*innen bereits gegangen sind. Die ehrliche Version lautet: Die Erholung der Muttersprache im höchsten Saal der Golden Melody Awards geschieht Staffelstab für Staffelstab – zuerst die indigenen Sprachen, dann das Taiwanesische, und jede Staffelübergabe ist eine Neuberechnung der Frage: „Wessen Stimme zählt?“.
 
-Von den „zwei Liedern pro Jahr in Taiwanesisch“ im Jahr 1972 bis zum Jahresalbumpreis eines taiwanesischen Albums im Jahr 2025 – dies ist ein halbes Jahrhundert und eine komplette Wende in Bezug auf Sprache, Macht und Würde.
+Von der Regel von 1972, dass „an einem Tag nicht mehr als zwei taiwanesische Lieder gespielt werden dürfen“, bis zum Gewinn des Albums des Jahres durch ein taiwanesisches Album 2025 liegen nicht nur ein halbes Jahrhundert, sondern ein ganzer Wandel in Sachen Sprache, Macht und Würde.
 
-Man muss auch zwei weit verbreitete, aber letztlich unhaltbare Behauptungen entlarven.
+Nebenbei wollen wir zwei weit verbreitete, aber nicht haltbare Behauptungen entlarven.
 
-Die erste ist die „Auftauchen der taiwanesischen Sängerinnen in den 1990er Jahren“. Das ist eine historische Fehlinterpretation. Teresa Teng begann bereits 1967 und gewann 1980 den Golden Bell Award als beste weibliche Sängerin und war eine Popikone für ganz Asien; Feng Fei-fei debütierte 1971, und die beiden Königinnen der Musikszene, Teresa Teng in den 1970er Jahren und Feng Fei-fei zu Beginn der 1980er Jahre[^55], definierten aufeinanderfolgend die Mandarin-Musikszene; Tsai Qin wurde 1979 mit „Just Like Your Gentleness“ berühmt. Sie waren von Anfang an Mainstream-Königinnen, weibliche Sängerinnen sind nicht erst in den 1990er Jahren „aufgestiegen“.
+Die erste ist die Behauptung, „in den 1990er Jahren seien taiwanesische Sängerinnen aufgestiegen“. Das ist ein geschichtlicher Irrtum. Teresa Teng debütierte bereits 1967, gewann 1980 den Golden Bell Award für die beste Sängerin und war die Diva ganz Asiens; Fong Fei-fei debütierte 1971. Teresa Teng in den 1970ern und Fong Fei-fei in den frühen 1980ern waren zwei aufeinanderfolgende Generationen von Diven, die die Mandopop-Szene definierten[^55]; Tsai Chin wurde 1979 mit 〈恰似你的溫柔〉 (The Way You Are) bekannt. Sie waren von Anfang an Mainstream-Diven – Sängerinnen sind also nicht erst in den 1990ern „aufgestiegen“.
 
-Der zweite Mythos über indigene Sänger ist subtiler. Ai-mei (Amis), Zhang Zhenyue (Amis) und Chen Jiannian (Bunun/Atayal) werden oft als erfolgreich angesehen, weil man behauptet, sie seien „indigene Künstler von Natur aus gesungen“. Im Internet gibt es sogar die Behauptung: „Wenn man das Etikett ‚Ich bin indigen‘ anbringt, ist das fast gleichbedeutend mit der Garantie ‚Ich singe spitze‘.“[^56] Doch die Perspektive der Golden Melody Award-Jury ist genau das Gegenteil. Ein Zitat aus Guanghua Magazine über die Auszeichnungen von Chen Jiannian und Ji Xiao-jun: „Es hat nichts mit ihrer indigenen Herkunft zu tun; wir sehen stattdessen die Originalität der Musik.“[^57] Talent auf Blutlinie zu reduzieren, ist eine andere Form des Entmenschlichens – selbst wenn es unter einer Maske des Lobes getragen wird.
+Der zweite Mythos über indigene Sänger*innen ist subtiler. A-Mei (Chang Hui-mei) ist Puyuma, Chang Chen-yue ist Amis, Chen Chien-nien ist Puyuma – ihr Erfolg wird oft auf die angebliche „natürliche Gesangbegabung der Indigenen“ zurückgeführt. Im Internet gibt es sogar die Aussage: „Sobald man das Etikett ‚Ich bin Indigener‘ aufklebt, ist das fast so, als hänge man das Gütesiegel ‚singt hervorragend‘ auf.“[^56] Doch die Perspektive der Golden-Melody-Jurys ist genau entgegengesetzt. Das Magazin *Guanghua\* zitiert Juroren zu den Auszeichnungen von Chen Chien-nien und Chi Hsiao-chun: „Das hat nichts damit zu tun, dass sie Indigene sind; man sah vielmehr die musikalische Originalität.“[^57] Das Talent eines Menschen auf seine Abstammung zu reduzieren, ist eine weitere Form, den Menschen nicht als Menschen zu behandeln – selbst wenn sie die Maske des Lobes trägt.
 
-## Freiheit ist das Einzige, was man nach dem Verlust von allem noch nicht geraubt bekommen hat
+Freiheit ist das Einzige, das einem nach dem Verlust alles anderen nicht genommen wird
 
-Zurück zu der Nacht mit Hou Dejian.
+Zurück zu jener Nacht mit Hou Dejian.
 
-《Der Träger des Drachen》 wechselte drei Besitzer; jeder Wechsel geschah, weil jemand eine Macht in der Hand hielt, die größer war als die des Sängers – das Plattenlabel, die Nachrichtenagentur, die andere Seite der Straße von Taiwan. Die Bedeutung eines Liedes wurde nie durch die Musik bestimmt, sondern immer durch die Macht.
+„Die Nachkommen des Drachen“ wechselte dreimal den Besitzer, und jedes Mal geschah dies, weil jemand eine größere Macht innehatte als der Sänger – die Plattenfirma, das Nachrichtenamt, das andere Ufer der Taiwanstraße. Wer die Bedeutung eines Liedes bestimmt, war schon immer eine Frage der Macht, nicht der Musik.
 
-Die taiwanesische Popmusik hat in vier Jahrzehnten diese Wahrheit auf zwei Seiten gelebt. Einst war sie jene mit dem roten Stift, die 898 Lieder verboten hatte; später legte sie den roten Stift nieder und zahlte vierzig Jahre für „ungeprüft“ ein. Sie war einst eine Fabrik, die für die ganze Welt sang, doch später verlor sie selbst ihren Markt an der anderen Seite; sie konnte nicht wie Korea einen BTS nach außen werfen, sondern sah zu, wie das Zentrum weggezogen wurde.
+Taiwans Popmusik brauchte vierzig Jahre, um beide Seiten dieser Wahrheit zu verkörpern. Einst war sie diejenige mit dem roten Stift, die 898 Lieder verbot; später legte sie den roten Stift nieder und zahlte vierzig Jahre lang den Preis, um die „Nicht-Zensur“ zu erkaufen. Einst war sie die Fabrik, die für die ganze Welt Lieder schrieb, später verlor sie sogar ihren eigenen Markt an das andere Ufer; sie vermochte nicht, wie Südkorea ein BTS hervorzubringen, und musste zusehen, wie das Zentrum abwanderte.
 
-In Bezug auf die Größe ist Taiwan längst kein Markt mehr in der chinesischsprachigen Welt, und diese Situation wird sich nicht umkehren. Aber wenn ein Lied über den Sechsten Mai auf allen Plattformen der anderen Seite verschwindet, wenn ein Satz „Tiananmen, vergiss es nicht“ einen Sänger löscht, oder wenn „Tibet“ zu „Herz“ geändert werden muss, um gehört zu werden – das, was Taiwan in der Hand hat und nicht verlieren kann, zeigt sein Gewicht.
+Was die Marktgröße betrifft, ist Taiwan längst nicht mehr der größte Markt der chinesischsprachigen Welt, und daran wird sich nichts ändern. Doch wenn ein über den 4. Juni geschriebener Song auf allen Plattformen jenseits der Taiwanstraße verschwindet, wenn der Satz „Tiananmen, vergiss nicht“ einen Sänger löschen lässt, wenn „Tibet“ in „Herz“ umgeschrieben werden muss, damit er gehört werden kann – dann zeigt sich das Gewicht jenes Einen, das Taiwan nicht verlieren kann.
 
-Im Jahr 2025 machte Li Zhuxin mit einem Album im Taiwanesischen Dialekt aus „Songs von Drittklassigen“ den Jahresgewinner. Zwischen den 99 verbotenen Liedern von Wen Xia und diesem Jahresalbumpreis geschah die Geschichte einer Insel, wie sie in einer halben Jahrhundert das „Darf man singen oder nicht“-Thema Stück für Stück zurückeroberte.
+Im Jahr 2025 machte Lee Zhu-xin mit einem taiwanesischen Album aus dem „Lied drittklassiger Leute“ das Album des Jahres. Von den 99 verbotenen Liedern von Wen Xia bis zu diesem Album-des-Jahres-Preis – dazwischen liegt das halbe Jahrhundert, in dem eine Insel das „Ob man singen darf“ Wort für Wort aus fremden Händen zurück in die eigenen holte.
 
-Was übrig bleibt, ist nicht die Größe, sondern die Freiheit – jenes Ding, das nach dem Verlust von allem noch nicht geraubt wurde. Und der bewegendste Aspekt der Freiheit liegt nie darin, dass sie zum Gewinnen führt, sondern darin, dass sie es ermöglicht, **zu singen, was andere nicht singen können**.
+Was bleibt, ist nicht die Größe, sondern die Freiheit – das Eine, das einem nach dem Verlust alles anderen nicht genommen wird. Und das Bewegendste an der Freiheit war nie, dass sie einen gewinnen lässt, sondern dass sie einem erlaubt, **zu singen, was andere nicht singen können**.
 
 ---
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Taiwanische Volksliedbewegung: Wem gehört das Lied „Sing deine eigenen Lieder“](/de/music/taiwan-campus-folk-song-movement)
-- [Die Entwicklung der taiwanesischen Dialektsongs: Vom Verbotenen zur Jahresalbumauszeichnung](/de/music/taiwanese-hokkien-song-evolution)
-- [Golden Melody Awards: Wer zählt, wer entscheidet](/de/music/pop-music-and-golden-melody-awards)
-- [Taiwanische Musikindustrie und Streaming-Zeitalter: Wie man nach dem physischen Kollaps wieder Erholung findet](/de/music/taiwan-music-industry-and-the-streaming-era)
-- [Teresa Teng: Die Sängerin, die zwei Küsten und drei Regionen sang, aber nie in China singen durfte](/de/people/teresa-teng)
+- [Taiwans Volksliedbewegung: Wessen Lied singt man, wenn man ‚sein eigenes Lied‘ singt?](/de/music/taiwan-campus-folk-song-movement)
+- [Die Entwicklung taiwanesischer Lieder: Von der verbotenen Muttersprache zum Album des Jahres](/de/music/taiwanese-hokkien-song-evolution)
+- [Golden Melody Awards: Wessen Stimme zählt, und wer entscheidet darüber?](/de/music/pop-music-and-golden-melody-awards)
+- [Taiwans Musikindustrie im Streaming-Zeitalter: Die Erholung nach dem Zusammenbruch des Physischen](/de/music/taiwan-music-industry-and-the-streaming-era)
+- [Teresa Teng: Die Diva, die auf beiden Seiten der Taiwanstraße und in drei Regionen sang, aber bis zu ihrem Tod nie auf dem Festland auftrat](/de/people/teresa-teng)
 
 ## Bildquellen
 
-Dieser Artikel verwendet 3 gemeinfreie / CC-lizensierte Bilder, die alle in `public/article-images/music/` gecacht sind, um Hotlinking von den Quelldientern zu vermeiden; Videos stammen alle aus Standard-Embeds der offiziellen YouTube-Kanäle:
+Dieser Artikel verwendet 3 gemeinfreie / CC-lizenzierte Bilder, alle zwischengespeichert in `public/article-images/music/`, um Hotlinking der Quellserver zu vermeiden; Videos sind allesamt Standard-YouTube-Einbettungen offizieller Kanäle:
 
-- [Demonstration des Sonnenblumenprotests (Hero)](https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg) — Foto: tomscy2000, 2014, CC BY 2.0
-- [Teresa Teng in den 1980er Jahren](https://commons.wikimedia.org/wiki/File:Teresa_Teng_US.jpg) — Foto: Unbekannt, frühe 1980er Jahre, Public domain (kein Urheberrechtshinweis bei Veröffentlichung in den USA zwischen 1978 und 1989)
-- [Kameraübertragung des 32. Golden Melody Awards](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg) — Foto: Solomon203, 2021, CC BY-SA 4.0
-- Videos: Li Jianfu „Dragon Seed“ / Lin Qiang „Forward“ (Rolling Stone Official), Fire EX. „Island Light“ (Fire EX. Official), Siri Lee „Water Suí“ (Siri Lee Official)
+- [Menschenmenge der Sonnenblumenbewegung (Hero)](https://commons.wikimedia.org/wiki/File:Taiwan%27s_Sunflower_Movement_Look_At_All_These_People!.jpg) — Foto: tomscy2000, 2014, CC BY 2.0
+- [Teresa Teng in den 1980er Jahren](https://commons.wikimedia.org/wiki/File:Teresa_Teng_US.jpg) — Foto: Unbekannt, Anfang der 1980er, Public Domain (USA 1978–1989 veröffentlicht ohne Urheberrechtsvermerk)
+- [Kameras der Übertragung der 32. Golden Melody Awards](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg) — Foto: Solomon203, 2021, CC BY-SA 4.0
+- Videos: Lee Chien-fu 〈龍的傳人〉 / Lin Qiang 〈向前走〉 (Rock Records offiziell), Fire EX. 〈島嶼天光〉 (Fire EX. offiziell), Lee Zi-xin 〈水 Suí〉 (Lee Zi-xin Siri Lee offiziell)
 
-## Referenzen
+## Quellenangaben
 
-[^1]: [Wikipedia: Dragon Brigade](https://zh.wikipedia.org/zh-tw/龍的傳人) — Es dokumentiert den Hintergrund und die Motive, mit denen Hou Dejian das Lied 'Dragon Brigade' am Abend des Abbrechens der US-chinesischen diplomatischen Beziehungen am 16. Dezember 1978 schuf, um die Tragödie darzustellen, in der Chinesen von westlichen Großmächten manipuliert wurden.
+[^1]: [Wikipedia: Die Nachkommen des Drachen](https://zh.wikipedia.org/zh-tw/龍的傳人) — Enthält den Hintergrund der Entstehung von ‚Die Nachkommen des Drachen‘ in der Nacht des 16. Dezember 1978, als die USA und China die diplomatischen Beziehungen abbrachen, verfasst von Hou Dejian, motiviert durch die Anklage der langen Leidensgeschichte der Chinesen unter der Manipulation ausländischer Mächte.
 
-[^2]: [Wikipedia: Dragon Brigade](https://zh.wikipedia.org/zh-tw/龍的傳人) — Es wird die Modifikationskette detailliert beschrieben, bei der der Refrain des Liedes von 'Sklavenmesser' zu dem vom Plattenlabel vorgeschlagenen 'Messer der Fremden' (abgelehnt durch Hou Dejian) und schließlich zum endgültigen 'Messer der Gnade' geändert wurde.
+[^2]: [Wikipedia: Die Nachkommen des Drachen](https://zh.wikipedia.org/zh-tw/龍的傳人) — Beschreibt detailliert die Kette der Änderungen im Refrain des Liedtexts: vom ursprünglichen Entwurf ‚Schwert der Sklaven‘ über den Vorschlag der Plattenfirma ‚Schwert der Ausländer‘ (von Hou Dejian abgelehnt) bis zur endgültigen Fassung ‚Schwert der Nachgiebigkeit‘.
 
-[^3]: [Wikipedia: Dragon Brigade](https://zh.wikipedia.org/zh-tw/龍的傳人) — Es wird aufgezeichnet, dass Song Chu-yu, damaliger Leiter des Nachrichtenbüros, eine alternative Version mit den Zeilen „Die Selbststärkungsglocke weckt die nationale Seele... schwinge das Schmachmesser“ für offizielle Reden erstellt hat und diese selbst erstellte Version verbieten ließ.
+[^3]: [Wikipedia: Die Nachkommen des Drachen](https://zh.wikipedia.org/zh-tw/龍的傳人) — Dokumentiert, dass der damalige Informationsminister James Soong (Song Chu-yu) eine eigene Version ‚Die Selbststärkungsglocke weckt die nationale Seele … schwingt jenes Schmach tilgende Schwert‘ für offizielle Reden verfasste und darauf bestand, die Eigenfassung zu verbieten.
 
-[^4]: [Wikipedia: Hou Dejian](https://zh.wikipedia.org/zh-tw/侯德健) — Es wird der vollständige Verlauf dokumentiert, bei dem 'Dragon Brigade' nach Hou Dejans Reise nach China im Juni 1983 in Taiwan verboten wurde und nach der Lockerung der Repression im Jahr 1987 wieder erlaubt wurde.
+[^4]: [Wikipedia: Hou Dejian](https://zh.wikipedia.org/zh-tw/侯德健) — Enthält den vollständigen Ablauf des Verbots von ‚Die Nachkommen des Drachen‘ in Taiwan nach Hou Dejians Reise nach Festlandchina im Juni 1983 und der Aufhebung des Verbots nach Aufhebung des Kriegsrechts 1987.
 
-[^5]: [Key Review Network: Als 'Dragon Brigade' zum Symbol des Blutlinien-Nationalismus wurde](https://www.thenewslens.com/article/126311) — Der politische Wissenschaftler Chen Fangyu analysiert im Jahr 2019 den Prozess, bei dem die Lyrics von 'Dragon Brigade', nämlich „schwarze Augen, schwarzes Haar, gelbe Haut“, von China für diskriminierende ethnische nationalistische Narrative übernommen wurden.
+[^5]: [Critical Review Network: Wenn ‚Die Nachkommen des Drachen‘ zum Symbol blutsbasierten Ethnonationalismus wird](https://www.thenewslens.com/article/126311) — Der Politikwissenschaftler Chen Fang-yu analysiert 2019 den Prozess, bei dem die Textzeile ‚schwarze Augen, schwarzes Haar, gelbe Haut‘ von ‚Die Nachkommen des Drachen‘ von China für einen blutsbasierten ethnonationalistischen Diskurs vereinnahmt wurde.
 
-[^6]: [Wikipedia: Rolling Stone](https://zh.wikipedia.org/wiki/滾石唱片) — Es wird das industrielle Ökosystem Taiwans in den 1980er Jahren als Zentrum der Mandopop-Produktion und die Geschichte der Schaffung repräsentativer Werke für Künstler aus verschiedenen Regionen durch Produzenten wie Li Zongsheng dokumentiert.
+[^6]: [Wikipedia: Rock Records](https://zh.wikipedia.org/wiki/滾石唱片) — Enthält die Industriekologie Taiwans als Produktionszentrum des Mandopop in den 1980er Jahren sowie die Geschichte von Produzenten wie Jonathan Lee (Li Zongsheng), die für grenzüberschreitende Sänger repräsentative Werke schufen.
 
-[^7]: [Taiwan Insight: Taiwan als kreatives Herz der Mandopop](https://taiwaninsight.org/2018/09/24/) — Die akademische Plattform Taiwan Insight (Koh 2018) analysiert die Entstehung Taiwans als Epizentrum der Mandopop und weist darauf hin, dass dies „fest in den Böden des politischen Ungehorsams und eines Sehnsuchts nach freiem Ausdruck“ verwurzelt ist.
+[^7]: [Taiwan Insight: Taiwan als kreatives Herz des Mandopop](https://taiwaninsight.org/2018/09/24/) — Die akademische Plattform Taiwan Insight (Koh 2018) analysiert die Entstehung Taiwans als Epizentrum des Mandopop und verweist darauf, dass dessen Wurzeln ‚fest in den Böden politischen Dissenses und eines Strebens nach freiem Ausdruck‘ liegen.
 
-[^8]: [Pressemitteilung des Ministeriums für Wirtschaft über Film- und Musikindustrie](https://www.bamid.gov.tw/News_Content.aspx?n=3645&s=124890) — Offizielle Daten geben Industrieschätzungen an, wonach taiwanesische Unternehmen einmal 80 % des Mandopop-Marktes ausmachten und der Gesamtmarktwert im Jahr 2011 10,292 Milliarden NTD betrug.
+[^8]: [Pressemitteilung des Amts für Film- und Popmusikindustrie des Wirtschaftsministeriums](https://www.bamid.gov.tw/News_Content.aspx?n=3645&s=124890) — Offizielle Daten zufolge erreichten taiwanesische Akteure zeitweise einen Marktanteil von 80 % am Mandopop-Markt; Gesamtproduktionswert 2011: NT$10,292 million (New Taiwan Dollar).
 
-[^9]: [Wikipedia: Goodbye](https://zh.wikipedia.org/zh-tw/吻別) — Es werden die Verkaufszahlen von Jacky Cheung's Album 'Goodbye' in Taiwan (1,36 Millionen Exemplare), die Marktbeschreibung „ein Kauf pro 20 Personen“ und die Gesamtverkaufsdaten in Asien dokumentiert.
+[^9]: [Wikipedia: Kiss Goodbye](https://zh.wikipedia.org/zh-tw/吻別) — Enthält Verkaufszahlen von Jacky Cheungs 1993er Album ‚Kiss Goodbye‘ in Taiwan: 1,36 Millionen Exemplare, ‚alle 20 Personen kauften ein Exemplar‘, sowie asiatische Gesamtverkaufsdaten.
 
-[^10]: [Wikipedia: Bad Boy (Emei-Album)](<https://zh.wikipedia.org/zh-hant/Bad_Boy_(張惠妹專輯)>) — Es werden die Verkaufszahlen von Emei's Album 'Bad Boy' in Taiwan (1,38 Millionen Exemplare), der Status als bestverkauftes Studioalbum in Taiwans Geschichte und die geschätzten Verkaufszahlen in Asien (ca. 6 Millionen) dokumentiert.
+[^10]: [Wikipedia: Bad Boy (A-Mei-Album)](<https://zh.wikipedia.org/zh-hant/Bad_Boy_(張惠妹專輯)>) — Gibt an, dass A-Meis 1997er Album ‚Bad Boy‘ in Taiwan 1,38 Millionen Exemplare verkaufte, das meistverkaufte Studioalbum in Taiwans Geschichte ist, mit rund 6 Millionen Verkäufen in Asien.
 
-[^11]: [Guanghua Magazine 'Die große Zukunft der Popmusik'](https://www.taiwan-panorama.com/Articles/Details?Guid=bffd9904-4bf3-4c08-ab91-4333ec55cd34) — Eine offizielle Publikation zitiert wörtlich „Der Gesamtmarkt für Platten in Taiwan schrumpfte von 13,2 Milliarden NTD im Jahr 1997 auf 3,15 Milliarden NTD im Jahr 2005“ und erwähnt die Spitzenverkäufe von Jay Chou von etwa 300.000 Exemplaren.
+[^11]: [Sinorama Magazine: ‚Die große Zukunft der Popmusik‘](https://www.taiwan-panorama.com/Articles/Details?Guid=bffd9904-4bf3-4c08-ab91-4333ec55cd34) — Die offizielle Publikation zitiert wörtlich: ‚Taiwans Gesamtmarkt für Tonträger schrumpfte von einem Produktionswert von NT$12.3 billion (1997) rapide auf NT$3.15 billion (2005)‘, sowie Jay Chous Spitzenverkäufe von rund 300.000 Exemplaren.
 
-[^12]: [Mirror Weekly / READr Spezialbericht zum Musikmarkt](https://www.mirrormedia.mg/story/20240207READr001) — Es wird der Marktstand „Taiwan war im Jahr 1997 das zweitgrößte asiatische Plattenmarkt (nach Japan) und Platz 13 des Weltplattenmarktes“ dokumentiert.
+[^12]: [Mirror Weekly / READr: Spezial zum Tonträgermarkt](https://www.mirrormedia.mg/story/20240207READr001) — Enthält die Marktposition: ‚Taiwan war 1997 der zweitgrößte Tonträgermarkt Asiens (nach Japan) und der 13. größte der Welt‘.
 
-[^13]: [Fang Gezi: Der Kollaps der taiwanesischen Musikindustrie](https://vocus.cc/article/64be0ec7fd89780001801889) — Es wird die Kette der Ursachen für den „Lawinenabgang“ von physischen Alben im Jahr 2001 durch die Verbreitung von Brennern im Jahr 1998 und Napster/MP3-Piraterie im Jahr 1999 zusammengestellt.
+[^13]: [Fangkezi: Der lawinenartige Zusammenbruch der taiwanesischen Tonträgerindustrie](https://vocus.cc/article/64be0ec7fd89780001801889) — Zusammenstellung der Kollapskette: 1998 Verbreitung von CD-Brennern, 1999 Napster und piratierte MP3s, 2001 ‚lawinenartiger Absturz‘ der physischen Tonträger.
 
-[^14]: [Atlantic Council: Surfing the Hallyu wave](https://www.atlanticcouncil.org/) — Es werden die koreanischen Kulturbudgets von 14 Millionen USD auf 84 Millionen USD (fünfmal) zwischen 1998 und 2001 sowie der Vergleich des kulturellen Ausgaben pro Kopf für Korea (145 USD) vs. Taiwan (37 USD) dokumentiert.
+[^14]: [Atlantic Council: Auf der Hallyu-Welle reiten](https://www.atlanticcouncil.org/) — Berichtet, dass Südkoreas Kulturbudget 1998–2001 von 14 Millionen auf 84 Millionen US-Dollar (verfünffacht) stieg, und vergleicht die Pro-Kopf-Kulturausgaben (Südkorea 145 US-Dollar vs. Taiwan 37 US-Dollar).
 
-[^15]: [Korean music industry statistics](https://gitnux.org/korean-music-industry-statistics/) — Statistiken zeigen, dass die koreanische Popmusik im Jahr 2018 weltweit den siebten Platz belegte und der globale Wert von K-Pop im Jahr 2023 etwa 7,1 Milliarden USD betrug, was einen Vergleich mit Taiwans Nicht-Top-Zehn-Platzierung darstellt.
+[^15]: [Statistiken der koreanischen Musikindustrie](https://gitnux.org/korean-music-industry-statistics/) — Statistiken zeigen: 2018 rangierte koreanische Popmusik weltweit auf Platz 7, 2023 betrug der globale K-pop-Umsatz rund 7,1 Milliarden US-Dollar, Taiwan schaffte es nicht in die Top Ten.
 
-[^16]: [Linking Vision: Zwei chinesische Musikszene](https://www.linking.vision/archives/17153) — Berichtet über die Analyse des chinesischen Musikmarktes im Jahr 2018, der IFPI weltweit auf Platz sieben und in Asien auf Platz zwei rangierte, sowie über die 'Diskrepanz zwischen Hauptakteur und Kunde' in der chinesischen Industrie, dominiert durch Plattformen.
+[^16]: [Linking Vision: Zwei chinesischsprachige Musikszenen](https://www.linking.vision/archives/17153) — Berichtet, dass der chinesische Plattenmarkt 2018 laut IFPI weltweit den siebten und in Asien den zweiten Platz belegte, sowie eine Analyse der „Rollenumkehr“, bei der chinesische Plattformen die chinesischsprachige Musikindustrie dominieren.
 
-[^17]: [Linking Vision: Interview mit Shao Yide](https://www.linking.vision/archives/17153) — Der erfahrene Musiker Shao Yide spricht detailliert darüber, dass es 'scheinbar zwei chinesische Musikszenen gibt. Eine in der Unterwelt... Netz-‚Hitsongs‘, die massenhaft produziert und algorithmisch verbreitet werden, und eine in der Halle... industrialisierte Produktion hochwertiger Musik'.
+[^17]: [Linking Vision: Interview mit Shao Yide](https://www.linking.vision/archives/17153) — Der erfahrene Musiker Shao Yide sagt wörtlich: „Es scheint zwei chinesischsprachige Musikszenen zu geben. Eine in der Jianghu-Welt … massenproduzierte, algorithmusverteilte Online-‚Götterlieder‘, eine in der Halle … industriell veredelte hochwertige Musik.“
 
-[^18]: [TAICCA Industrierhebung des Kulturinhaltsinstituts](https://research.taicca.tw/article/9810da1d) — Offiziell berichtet über den Gesamtumsatz der taiwanesischen Popmusik im Jahr 2023, nämlich 28,836 Milliarden NTD (ein Anstieg von 19,79 % pro Jahr), wobei die Definition einen breiten Industriesektor einschließt, einschließlich Auftritte, Urheberrechte und digitale Medien.
+[^18]: [TAICCA-Branchenuntersuchung des Instituts für Kulturinhaltsstrategie](https://research.taicca.tw/article/9810da1d) — Offiziell wird der Gesamtwert der taiwanesischen Popmusikindustrie 2023 mit 28.836 Milliarden New Taiwan Dollar (jährlicher Anstieg 19,79 %) angegeben, wobei Aufführungen, Urheberrechte und digitale Inhalte im breiten Branchenbegriff enthalten sind.
 
-[^19]: [TAICCA Industrierhebung des Kulturinhaltsinstituts](https://research.taicca.tw/article/9810da1d) — Berichtet über 7.134 Live-Auftritte (ein Anstieg von 31 % pro Jahr) und einen Kassenerlös von 6,717 Milliarden NTD (ein Anstieg von 131 % pro Jahr) im Jahr 2023, was den Anteil der Live-Aufführungen am breiten Gesamtumsatz von 28 Milliarden zeigt.
+[^19]: [TAICCA-Branchenuntersuchung des Instituts für Kulturinhaltsstrategie](https://research.taicca.tw/article/9810da1d) — Berichtet, dass es 2023 7.134 Live-Aufführungen (jährlicher Anstieg 31 %) und einen Kartenumsatz von 6.717 Milliarden New Taiwan Dollar (jährlicher Anstieg 131 %) gab, was den Anteil der Live-Aufführungen am breiten Branchenwert von 28,8 Milliarden New Taiwan Dollar erläutert.
 
-[^20]: [CNA: Die Ära des Schweigens unter der Ausgangssperre](https://www.cna.com.tw/news/amov/201707150035.aspx) — Berichtet, dass die Sicherheitsbehörden während der Ausgangssperre insgesamt 898 Lieder beschlagnahmt haben, wobei Wen Xia 99 Lieder am meisten verboten wurden und 'Olivenbaum' acht Jahre lang verboten war.
+[^20]: [CNA: Die schweigende Ära des Kriegsrechts](https://www.cna.com.tw/news/amov/201707150035.aspx) — Berichtet, dass während der Kriegsrechtszeit Einheiten wie das Hauptquartier der Warnpolizei insgesamt 898 Lieder verboten haben, wobei Wen Xia mit 99 verbotenen Liedern am stärksten betroffen war, und das Lied ‚Olivenbaum‘ acht Jahre lang verboten war.
 
-[^21]: [CNA: Die Ära des Schweigens unter der Ausgangssperre](https://www.cna.com.tw/news/amov/201707150035.aspx) — Aus derselben Quelle wird aufgezeigt, dass die taiwanesische Königin Wen Xia allein 99 Lieder beschlagnahmt hat und somit die Musikerin mit den meisten Verboten in ganz Taiwan ist.
+[^21]: [CNA: Die schweigende Ära des Kriegsrechts](https://www.cna.com.tw/news/amov/201707150035.aspx) — Derselbe Quelle zufolge wird explizit aufgeführt, dass der ‚König des taiwanesischen Liedes‘ Wen Xia allein 99 verbotene Lieder hatte und damit der am meisten verbotene Sänger in ganz Taiwan war.
 
-[^22]: [Story Studio: Umfassende Rückschau auf die Geschichte der verbotenen Lieder in Taiwan](https://storystudio.tw/article/gushi/完整回顧，臺灣禁歌史) — Beschreibt die Gründe für Verbote, wie die Anspielung auf 'Herr' in 'Wann kommt er wieder', die Sehnsucht nach der Heimat in 'Olivenbaum' und die Anspielung auf den Kontinent bei 'Heute nicht nach Hause', was gegen die Anti-Invasionspolitik verstößt.
+[^22]: [StoryStudio: Vollständiger Rückblick, Geschichte der verbotenen Lieder in Taiwan](https://storystudio.tw/article/gushi/完整回顧，臺灣禁歌史) — Detailliert werden die Verbotsgründe beschrieben: ‚An welchem Tag kehrst du zurück?‘ – ‚Rijun‘ als Anspielung; ‚Olivenbaum‘ – Heimweh und Wandern; ‚Heute nicht nach Hause‘ – ‚Haus‘ als Anspielung auf das Festland, was gegen die Gegenangriffspolitik verstößt.
 
-[^23]: [CNA: Die Ära des Schweigens unter der Ausgangssperre](https://www.cna.com.tw/news/amov/201707150035.aspx) — Berichtet über die 33-jährige Verbotshistorie von Deng Yuxian's Komposition 'Mama, ich bin auch mutig'.
+[^23]: [CNA: Die schweigende Ära des Kriegsrechts](https://www.cna.com.tw/news/amov/201707150035.aspx) — Berichtet, dass das von Deng Yuxian komponierte Lied ‚Mama, ich bin auch wirklich mutig‘ 33 Jahre lang verboten war.
 
-[^24]: [Story Studio: Umfassende Rückschau auf die Geschichte der verbotenen Lieder in Taiwan](https://storystudio.tw/article/gushi/完整回顧，臺灣禁歌史) — Berichtet, dass das Liedprüfungsgesetz auf dem Gesetz von 1973 und dem Rundfunkgesetz von 1976 basiert; es musste vor der Veröffentlichung geprüft werden. Die Prüfung wurde im Jahr 1990 praktisch beendet und 1991 offiziell bekannt gegeben.
+[^24]: [StoryStudio: Vollständiger Rückblick, Geschichte der verbotenen Lieder in Taiwan](https://storystudio.tw/article/gushi/完整回顧，臺灣禁歌史) — Gibt an, dass die rechtliche Grundlage für die Liedprüfung das Publikationsgesetz von 1973 und das Rundfunk- und Fernsehgesetz von 1976 waren, wonach Veröffentlichungen vorab geprüft werden mussten; die Prüfung 1990 faktisch endete und 1991 offiziell bekannt gegeben wurde.
 
-[^25]: [Taiwan Peace Foundation: Abschaffung der Beschränkung auf Dialekte durch das Rundfunkgesetz](https://www.twpeace.org.tw/wordpress/?p=2070) — Berichtet über die Streichung des Artikels im Rundfunkgesetz, der Dialektprogramme einschränkte, am 14. Juli 1993 durch den Gesetzgeber.
+[^25]: [Taiwan-Friedensstiftung: Aufhebung der Dialektbeschränkungen im Rundfunk- und Fernsehgesetz](https://www.twpeace.org.tw/wordpress/?p=2070) — Beschreibt den Prozess, bei dem die Bestimmungen des Rundfunk- und Fernsehgesetzes, die Dialektprogramme beschränkten, am 14. Juli 1993 vom Legislativ-Yuan gestrichen wurden.
 
-[^26]: [CNA: Dreißigstes Jubiläum der Aufhebung der Ausgangssperre](https://www.cna.com.tw/news/amov/201707150035.aspx) — Berichtet über den historischen Zeitpunkt der Aufhebung der Ausgangssperre in Taiwan am 15. Juli 1987.
+[^26]: [CNA: 30. Jahrestag der Aufhebung des Kriegsrechts](https://www.cna.com.tw/news/amov/201707150035.aspx) — Gibt den historischen Zeitpunkt an, an dem Taiwan am 15. Juli 1987 das Kriegsrecht aufhob.
 
-[^27]: [Variety: China Karaoke Songs Ban](https://variety.com/2021/music/news/china-karaoke-songs-ban-1235040772/) — Berichtet über die schwarze Liste von KTV, die vom NRTA Chinas vorab für Texte, Alben und Auftritte geprüft wurde und am 1. Oktober 2021 in Kraft trat, wobei Inhalte wie 'Gefährdung der nationalen Einheit' verboten sind.
+[^27]: [Variety: China verbietet Karaoke-Lieder](https://variety.com/2021/music/news/china-karaoke-songs-ban-1235040772/) — Berichtet, dass die chinesische NRTA Texte, Alben und Aufführungen einer Vorabprüfung unterzieht und am 1. Oktober 2021 eine KTV-Schwarze Liste in Kraft trat, die Inhalte verbietet, die ‚die nationale Einheit gefährden‘ usw.
 
-[^28]: [CNA: Li Zhis Entfernung von Plattformen](https://www.cna.com.tw/news/acn/201904120238.aspx) — Berichtet über den Vorfall, bei dem der unabhängige chinesische Musiker Li Zhi im Jahr 2019 aufgrund seines Werks 'Platz' zum Thema Tiananmen auf allen Plattformen entfernt wurde.
+[^28]: [CNA: Li Zhi von allen Plattformen entfernt](https://www.cna.com.tw/news/acn/201904120238.aspx) — Berichtet über den Vorfall, bei dem der chinesische Independent-Musiker Li Zhi 2019 wegen seines Werkes ‚Platz‘ zum Thema Tiananmen von allen Plattformen entfernt wurde.
 
-[^29]: [Taiwan Insight: Der Angstfaktor](https://taiwaninsight.org/2021/07/01/the-fear-factor-in-cross-strait-pop/) — Analysiert die drei Prüfmechanismen Chinas für taiwanesische Popmusik, einschließlich der Änderung von Mayday's Text 'Tibet' zu dem homophonen Wort 'Herz' und des Verbots von Tsai Ing-wen's 'Rose Boy' wegen LGBTQ-Themen in China.
+[^29]: [Taiwan Insight: Der Angstfaktor](https://taiwaninsight.org/2021/07/01/the-fear-factor-in-cross-strait-pop/) — Analysiert drei Zensurmechanismen Chinas gegenüber taiwanesischer Popmusik, darunter die Änderung des Wortes ‚Tibet‘ in Maydays Text in das homophone ‚Herz‘ für die Einreichung sowie das Verbot des LGBTQ-Themas in Jolin Tsais ‚Rosemädchen‘ in China.
 
-[^30]: [SETN: Der Fall Zhang Humei](https://www.setn.com/News.aspx?NewsID=118793) — Berichtet über die Geschichte, wie Zhang Humei nach dem Gesang der Nationalhymne bei der Präsidentschaftsindienstnahme im Jahr 2000 von China für etwa vier Jahre verboten wurde und erst im Jahr 2004 wieder freigegeben wurde.
+[^30]: [SETN: Der Fall der Ächtung von A-Mei – Anfang bis Ende](https://www.setn.com/News.aspx?NewsID=118793) — Beschreibt, wie A-Mei nach dem Singen der Nationalhymne bei der Amtseinführung des Präsidenten 2000 in China etwa vier Jahre lang geächtet war, bis sie 2004 wieder zugelassen wurde.
 
-[^31]: [CNA Nachrichten: Das Flaggenereignis von Chang Hsien](https://news.pts.org.tw/article/256365) — Berichtet über den Vorfall, bei dem Chang Hsien auf einem Konzert in Manchester, Großbritannien, die Nationalflagge der Republik China entgegennahm und sagte „Die Flagge meines Heimatlandes“, woraufhin drei Auftritte in Peking abgesagt wurden.
+[^31]: [PTS: Cheer-Chen-Flaggenvorfall](https://news.pts.org.tw/article/256365) — Berichtet über den Vorfall, bei dem Cheer Chen 2013 bei einem Konzert in Manchester, Großbritannien, die Flagge der Republik China entgegennahm und sagte: „Das ist die Flagge meiner Heimat“, woraufhin drei Auftritte in Peking abgesagt wurden.
 
-[^32]: [Great Saturday: Teresa Teng singt für Demokratie](https://www.epochtimes.com/b5/9/12/15/n2755023.htm) — Dokumentiert den Vorfall, bei dem Teresa Teng auf einem Konzert namens „Demokratische Lieder für China“ in Hong Kong im Jahr 1989 ein Schild mit der Aufschrift „Anti-Militarisierung“ hielt und sang, und dass sie bis zu ihrem Tod nie auf dem chinesischen Festland auftrat.
+[^32]: [The Epoch Times: Teresa Teng und „Demokratische Lieder für China“](https://www.epochtimes.com/b5/9/12/15/n2755023.htm) — Dokumentiert Teresa Tengs Auftritt beim Konzert „Demokratische Lieder für China“ 1989 auf dem Happy Valley Racecourse in Hongkong, bei dem sie ein Schild mit der Aufschrift „Gegen Militärregierung“ hochhielt, und dass sie bis zu ihrem Tod nie auf dem chinesischen Festland auftrat.
 
-[^33]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet davon, wie die indigene Sängerin Panai beim 35. Golden Melody Award sagte: „Der Tiananmen-Platzvorfall ist auch genau 35 Jahre alt, vergessen wir ihn nicht“, woraufhin ihre Werke von China gelöscht wurden.
+[^33]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet, dass die indigene Sängerin Panai bei der 35. Golden Melody Awards 2024 sagte: „The Tiananmen Square incident is also exactly 35 years old, let's not forget.“, woraufhin ihre Werke in China gelöscht wurden.
 
-[^34]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet der nachträglichen Antwort von Panai: „Die Aktionen Pekings unterstreichen die kostbare Freiheit in Taiwan noch mehr“, was bedeutet, dass die Handlungen Chinas die Wertschätzung der taiwanesischen Freiheit hervorheben.
+[^34]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet über Panais spätere Reaktion: „Beijing's actions further underscore the precious freedom in Taiwan.“, womit sie darauf hinwies, dass Chinas Handeln die kostbare Freiheit Taiwans erst recht hervorhebe.
 
-[^35]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet davon, wie Präsident Lai Ching-te bei den 35. Golden Melody Awards sagte: „Musik ist Leben und Musik ist auch ungebundene Freiheit“.
+[^35]: [Taipei Times: Panai bei den Golden Melody Awards](https://www.taipeitimes.com/News/front/archives/2024/07/01/2003820140) — Berichtet über die Ansprache von Präsident Lai Ching-te bei der 35. Golden Melody Awards: „Music is life, and music is also unfettered freedom.“
 
-[^36]: [Reporter: Das widerhallende rote Chor](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Ein Tiefenbericht über die Reise von etwa 120 taiwanesischen Bands und Sängern nach China im Jahr 2023, was den Höhepunkt seit 2018 darstellt, und Interviews mit Musikern über das Dilemma der Auslandsreisen.
+[^36]: [The Reporter: „Das widerhallende rote Choralsingen“](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Ein Tiefenbericht dokumentiert, dass 2023 rund 120 taiwanische Bands und Sänger in China auftraten – der Höchststand seit 2018 – und interviewt mehrere Musiker über ihr Dilemma beim Schritt nach China.
 
-[^37]: [Reporter: Das widerhallende rote Chor](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält die wörtliche Aussage des Musikmanagers: „In Taiwan kann man nur verhungern, aber man muss nach China gehen, um wirklich Geld zu verdienen und das Geld dann nach Taiwan zurückzubringen, um Musik zu machen“.
+[^37]: [The Reporter: „Das widerhallende rote Choralsingen“](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält das wörtliche Zitat eines Musikmanagers: „In Taiwan kann man nur vermeiden zu verhungern; in China kann man wirklich Geld verdienen und das Geld dann nach Taiwan zurückbringen, um Musik zu machen.“
 
-[^38]: [Reporter: Das widerhallende rote Chor](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält die wörtliche Aussage des Musikers Li Yangxuan: „Ich werde den chinesischen Markt als Bonus definieren; wenn das Haupteinkommen davon abhängt, werden wir gefangen gehalten und nicht entkommen können“.
+[^38]: [The Reporter: „Das widerhallende rote Choralsingen“](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält das wörtliche Zitat des Musikers Li Yang-hsuan: „Ich definiere den chinesischen Markt als Bonus; wenn das Haupteinkommen davon abhängt, werden wir gefesselt und können uns nicht lösen.“
 
-[^39]: [Reporter: Das widerhallende rote Chor](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält die wörtliche Aussage des Schöpfers Zhang Jiaxiang, der seufzte: „Wir ähneln immer mehr einer PR-Agentur für Veranstaltungen“, was die Verdünnung der kreativen Energie durch Touren nach China widerspiegelt.
+[^39]: [The Reporter: „Das widerhallende rote Choralsingen“](https://www.twreporter.org/a/echoing-red-chorus-china-market-taiwan-musicians) — Enthält das wörtliche Zitat des Schöpfers Chang Chia-hsiang: „Wir werden immer mehr wie eine Event-PR-Firma“, was die Verwässerung der kreativen Energie durch Tourneen in China widerspiegelt.
 
-[^40]: [Domino Theory: Die jüngeren Musiker Taiwans und China](https://dominotheory.com/younger-generation-taiwan-musicians-china/) — Enthält die wörtliche Aussage des Plattenmanagers einer Band, deren Werke in Hongkong gelöscht wurden: „Ich glaube nicht, dass dies Zensur ist; es geht darum, meine Kollegen und mich sicher zu halten“.
+[^40]: [Domino-Theorie: Taiwans jüngere Musiker und China](https://dominotheory.com/younger-generation-taiwan-musicians-china/) — Enthält das wörtliche Zitat eines Bandmanagers, dessen Werke zur Unterstützung Hongkongs entfernt wurden: „I don't believe this is self-censoring, this is to ensure the safety of myself and my colleagues.“
 
-[^41]: [Li Xiaofeng: Mandarin-Politik und die Sprache Taiwans](https://www.jimlee.org.tw/article_detail.php?SN=8729) — Der Gelehrte Li Xiaofeng sammelt eine Reihe von Mandarin-Förderungspolitiken, darunter das Verbot der Dialekte im Jahr 1951, die Stärkung des Mandarin im Jahr 1952 und Hinweise zur Sprache im Jahr 1963.
+[^41]: [Li Hsiao-feng: Nationale Sprachpolitik und Taiwans Sprachen](https://www.jimlee.org.tw/article_detail.php?SN=8729) — Der Wissenschaftler Li Hsiao-feng fasst eine Reihe von Maßnahmen zur Förderung der Nationalsprache zusammen: 1951 strenges Verbot von Dialekten, 1952 Verstärkung der Nationalsprache, 1963 Sprachnotizen usw.
 
-[^42]: [Wiki: Rundfunkgesetz (Gesetzgebung in Jahrgang 64, Veröffentlichung in Jahrgang 65)](<https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布)>) — Ein Gesetzestext, in dem Artikel 20 festlegt: „Die Radiosender müssen beim nationalen Rundfunk die Sprache Mandarin als Hauptsprache verwenden und Dialekte sollen jährlich abnehmen“.
+[^42]: [Wikisource: Rundfunk- und Fernsehgesetz (1975 legisliert, 1976 verkündet)](<https://zh.wikisource.org/zh-hant/廣播電視法_(民國64年立法65年公布)>) — Primärer Gesetzestext; Artikel 20 besagt: „Die Sprache der inländischen Rundfunksendungen soll hauptsächlich die Nationalsprache sein; Dialekte sollen jährlich abnehmen.“
 
-[^43]: [Wikipedia: Mandarin-Politik](https://zh.wikipedia.org/wiki/國語政策) — Zitiert die Rundfunkregulierung von 1972, bei der drei Fernsehsender angewiesen wurden, „nicht mehr als zwei Taigi-Lieder pro Tag zu spielen“.
+[^43]: [Wikipedia: Nationale Sprachpolitik](https://zh.wikipedia.org/wiki/國語政策) — Zitiert die Rundfunkaufsicht von 1972, wonach den drei Fernsehsendern vorgeschrieben wurde, „nicht mehr als zwei taiwanesische Lieder pro Tag zu senden“.
 
-[^44]: [Weekly Magazine: Die Min'ge Bewegung ist eigentlich eine chinesische Liedbewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Dokumentiert die historische Tatsache, dass Yang Xian im Juni 1975 beim „Modern Folk Song Concert“ in Zhongshan-Hall neun Gedichte von Yu Guangzhong vertonte, und alle diese Lieder auf Mandarin sang.
+[^44]: [Business Weekly: Die Folk-Bewegung war eigentlich eine Mandarin-Lied-Bewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Dokumentiert die historische Tatsache, dass Yang Hsien im Juni 1975 in der Zhongshan Hall beim „Modern Folk Song Creation Concert“ neun Gedichte von Yu Kwang-chung vertonte und aufführte – allesamt Mandarin-Lieder.
 
-[^45]: [Weekly Magazine: Die Min'ge Bewegung ist eigentlich eine chinesische Liedbewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Dokumentiert das berühmte Zitat von Li Shuangze aus dem Jahr 1976 in Danjiang: „Warum sollen Sie zwanzig Yuan bezahlen, um Chinesen zu hören, die westliche Lieder singen“, und die spätere Darstellung des Scherbschlags der Coca-Cola-Flasche durch Tao Xiaoqing.
+[^45]: [Business Weekly: Die Folk-Bewegung war eigentlich eine Mandarin-Lied-Bewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Dokumentiert Li Shuang-zes berühmtes Zitat von 1976 an der Tamkang-Universität: „Warum gebt ihr zwanzig NT$ aus, um Chinesen dabei zuzuhören, wie sie westliche Lieder singen?“, sowie Tao Hsiao-chings Bestätigung, dass die Cola-Flasche „unversehrt von der Bühne gebracht wurde“ und das „Flaschenzerschlagen“ eine spätere Dramatisierung war.
 
-[^46]: [Wochenblatt: Die Min'ge-Bewegung ist eigentlich eine Mandarin-Gesangsbewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Es wird der Text „Die Min'ge-Bewegung ist eigentlich eine Mandarin-Gesangsbewegung, und Taigi-Lieder sind wie seltene Vögel“ sowie Chen Jianrens 〈正月調〉 als einziger taigisch gesungener Wettbewerbsbeitrag zitiert.
+[^46]: [Business Weekly: Die Folk-Bewegung war eigentlich eine Mandarin-Pop-Bewegung](https://www.businesstoday.com.tw/article/category/183027/post/202503280027/) — Enthält das wörtliche Zitat: „Die Folk-Bewegung war eigentlich eine Mandarin-Pop-Bewegung, taiwanesische Lieder waren so selten wie Phönixfedern und Einhornhörner“, sowie dass Chien Shang-rens „Zheng Yue Diao“ der einzige taiwanesische Wettbewerbsbeitrag bei den Golden Rhyme Awards war.
 
-[^47]: [Fount Media: Die neue Taigi-Gesangsbewegung](https://www.fountmedia.io/article/100382) — Es wird dokumentiert, dass Blacklist Studio mit dem Album „Crazy Song“ von 1989 als Ausgangspunkt der neuen taigischen Gesangsbewegung gilt und Mitglieder wie Wang Minghui, Chen Mingzhang, Chen Zhuhui und Lin Weizhe einschließt.
+[^47]: [Fount Media: Die neue taiwanesische Liedbewegung](https://www.fountmedia.io/article/100382) — Gibt an, dass das Lied „Kuang Kuang Ge“ (1989) des Blacklist Studio der Ausgangspunkt der neuen taiwanesischen Liedbewegung war; Mitglieder waren Wang Ming-hui, Chen Ming-chang, Chen Chu-hui, Lin Wei-che usw.
 
-[^48]: [United News Network: Lin Qiang geht voran](https://time.udn.com/udntime/story/122834/7791726) — Es wird erwähnt, dass Lin Qiangs 〈Vorwärtsgehen〉 am 7. Dezember 1990 veröffentlicht wurde, 400.000 Exemplare verkaufte und beim Golden Melody Award der 3. Ausgabe im Jahr 1992 für den besten Jahresgesang ausgezeichnet wurde, was das Potenzial von Rock und Metropolmusik in taigischen Liedern beweist.
+[^48]: [United Daily News: Lin Qiang „Xiang Qian Zou“ (Vorwärts gehen)](https://time.udn.com/udntime/story/122834/7791726) — Berichtet, dass Lin Qiangs „Xiang Qian Zou“ am 7. Dezember 1990 veröffentlicht wurde, 400.000 Exemplare verkaufte, 1992 bei den 3. Golden Melody Awards als bester Song des Jahres ausgezeichnet wurde und damit die Rock- und Urban-Möglichkeiten taiwanesischer Lieder bewies.
 
-[^49]: [Fount Media: Die neue Taigi-Gesangsbewegung](https://www.fountmedia.io/article/100382) — Es wird dokumentiert, dass Woker mit „Baumzweig-Vogel“ 1998 den Golden Melody Award der 10. Ausgabe für das beste populäre Album gewann und ein repräsentatives Werk der „zehnjährigen Wiederbelebung der taigischen Gesangsbewegung“ ist.
+[^49]: [Fount Media: Die neue taiwanesische Liedbewegung](https://www.fountmedia.io/article/100382) — Gibt an, dass Wu Bais Album „Shu Zhi Gu Niao“ (1998) bei den 10. Golden Melody Awards als bestes Pop-Gesangsalbum ausgezeichnet wurde und als repräsentatives Werk der „zehnjährigen Wiederbelebung der neuen taiwanesischen Liedbewegung“ gilt.
 
-[^50]: [Wikipedia: Preis für das beste Taigi-Album (Golden Melody Award)](<https://zh.wikipedia.org/zh-tw/最佳台語專輯獎_(金曲獎)>) — Es wird die Entwicklung des Systems dokumentiert, bei dem der Golden Melody Award ab 2005 den Preis für das beste Album in taigischer, Hakka und indigener Sprache vergeben hat.
+[^50]: [Wikipedia: Bester taiwanesischer Albumpreis (Golden Melody Awards)](<https://zh.wikipedia.org/zh-tw/最佳台語專輯獎_(金曲獎)>) — Dokumentiert die institutionelle Entwicklung, wonach die Golden Melody Awards 2005 bei der 16. Verleihung die Preise für das beste taiwanesische, hakka- und indigene Album einführten.
 
-[^51]: [Wikipedia: Gewinner des Jahresalbumpreises beim Golden Melody Award](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — Es wird dokumentiert, dass der Jahresalbumpreis ab 2017 eingeführt wurde und die früheren Gewinner wie Sambuy (2017), A Bao (2020) und Li Zhuxin (2025) zusammen mit ihrer Sprache aufgeführt sind.
+[^51]: [Wikipedia: Liste der Gewinner des Album-des-Jahres-Preises der Golden Melody Awards](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — Führt auf, dass der Album-des-Jahres-Preis 2017 bei der 28. Verleihung eingeführt wurde, und nennt die bisherigen Gewinner samt Sprache: Sangpuy (2017), Abao (2020), Li Zhu-xin (2025).
 
-[^52]: [Central News Agency: Li Zhuxin gewinnt den dritten Preis für Suí Wasser](https://www.cna.com.tw/news/amov/202506285004.aspx) — Es wird dokumentiert, dass Li Zhuxins taigisches Album 〈Suí Wasser〉 beim Golden Melody Award der 36. Ausgabe den Jahresalbumpreis, den besten weiblichen Sänger in taigischer Sprache und den besten taigischen Albenpreis gewann.
+[^52]: [Central News Agency: Li Zhu-xin „Suí Wasser“ gewinnt drei Preise](https://www.cna.com.tw/news/amov/202506285004.aspx) — Berichtet, dass Li Zhu-xins taiwanesisches Album „Suí Wasser“ bei den 36. Golden Melody Awards drei Hauptpreise gewann: Album des Jahres, beste taiwanesische Sängerin, bestes taiwanesisches Album.
 
-[^53]: [Bella: Li Zhuxin gewinnt zum ersten Mal einen Jahresalbumpreis für Taigi](https://www.bella.tw/articles/music/52469/) — Es wird der Rekord dokumentiert, dass Li Zhuxins 〈Suí Wasser〉 das erste taigische Album ist, das den Jahresalbumpreis gewonnen hat.
+[^53]: [Bella: Li Zhu-xin: Album des Jahres erstmals an taiwanesisches Album verliehen](https://www.bella.tw/articles/music/52469/) — Vermerkt, dass Li Zhu-xins „Suí Wasser“ den Rekord markiert, erstmals als taiwanesisches Album den Album-des-Jahres-Preis erhalten zu haben.
 
-[^54]: [Wikipedia: Gewinner des Jahresalbumpreises beim Golden Melody Award](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — Die früheren Listen belegen, dass Sambuy mit ihrem indigenen Album (2017) und A Bao mit ihrem Paiwan-Album (2020) bereits vor Li Zhuxin den Jahresalbumpreis gewonnen haben, weshalb Li Zhuxin die „erste“ in taigischer Sprache, aber nicht die „erste überhaupt“ ist.
+[^54]: [Wikipedia: Liste der Gewinner des Album-des-Jahres-Preises der Golden Melody Awards](<https://zh.wikipedia.org/zh-tw/年度專輯獎_(金曲獎)>) — Die historische Gewinnerliste belegt, dass Sangpuy (indigenes Album, 2017) und Abao (Paiwan-Album, 2020) bereits vor Li Zhu-xin den Album-des-Jahres-Preis erhielten; daher ist Li Zhu-xin das „erste Mal für ein taiwanesisches Album“, nicht das „erste Mal für ein Muttersprachen-Album“.
 
-[^55]: [Wikipedia: Feng Feifei](https://zh.wikipedia.org/zh-tw/鳳飛飛) — Es wird dokumentiert, dass Feng Feifeis erstes Lied im September 1971 und ihr erstes Album 1972 aufgenommen wurden; sie war in den 1970er Jahren neben Teresa Teng und in den frühen 1980er Jahren eine Königin der Mandarin-Musikszene, was belegt, dass die Sängerin nicht erst in den 1990er Jahren aufstieg.
+[^55]: [Wikipedia: Feng Fei-fei](https://zh.wikipedia.org/zh-tw/鳳飛飛) — Gibt an, dass Feng Fei-fei im September 1971 ihren ersten Song aufnahm, 1972 ihr erstes Album veröffentlichte, in den 1970er Jahren neben Teresa Teng stand und in den frühen 1980er Jahren als Diva der Mandarin-Pop-Szene galt – was belegt, dass Sängerinnen nicht erst in den 1990er Jahren aufstiegen.
 
-[^56]: [DailyView Online Thermometer: Das Label indigener Sänger](https://dailyview.tw/daily/580) — Es wird das Stereotyp dargestellt, bei dem „das Etikett ‚Ich bin indigen‘ fast gleichbedeutend mit der Garantie ‚Ich singe hervorragend‘ ist“, was Talent auf Abstammung reduziert.
+[^56]: [DailyView Internet-Thermometer: Das Etikett indigener Sänger](https://dailyview.tw/daily/580) — Zitiert das Stereotyp, das Talent auf Abstammung reduziert: „Sobald man das Etikett ‚Ich bin Indigener‘ aufklebt, ist das fast so, als hänge man die Garantie ‚Singt hervorragend‘ um den Hals“.
 
-[^57]: [Guanghua Magazine: Golden Melody Award und indigene Musiker](https://www.taiwan-panorama.com/Articles/Details?Guid=bffd9904-4bf3-4c08-ab91-4333ec55cd34) — Es wird zitiert, wie die Golden Melody Award-Juroren Chen Jiannian und Ji Xiaojun beschrieben haben: „Wir haben nichts mit ihnen als Indigene zu tun; stattdessen sehen wir die Originalität der Musik“.
+[^57]: [Sinorama Magazine: Golden Melody Awards und indigene Musiker](https://www.taiwan-panorama.com/Articles/Details?Guid=bffd9904-4bf3-4c08-ab91-4333ec55cd34) — Zitiert Juroren der Golden Melody Awards zu Chen Chien-nien und Chi Hsiao-chun: „Ihre Auszeichnungen haben nichts damit zu tun, dass sie Indigene sind; vielmehr sah man die Originalität ihrer Musik.“
 
-[^58]: [Wikipedia: Insellicht](https://zh.wikipedia.org/zh-tw/島嶼天光) — Es wird dokumentiert, dass Feuerlöscher und Studenten der Beida-Universität 2014 〈Insellicht〉 für die Sunflower-Bewegung kreierten, 500.000 Menschen auf der Kaidaglan Avenue sangen gemeinsam, die Band gab ihre Rechte unentgeltlich für nicht-kommerzielle Nutzung frei und gewann beim Golden Melody Award der 26. Ausgabe den Preis für den besten Jahresgesang.
+[^58]: [Wikipedia: Insel-Sonnenlicht](https://zh.wikipedia.org/zh-tw/島嶼天光) — Berichtet, dass Fire EX. und Studenten der Taipei National University of the Arts 2014 für die Sonnenblumenbewegung „Insel-Sonnenlicht“ schrieben, dass 500.000 Menschen auf dem Ketagalan-Boulevard mitsangen, die Band die Urheberrechte für nicht-kommerzielle Nutzung freigab und der Song bei den 26. Golden Melody Awards als bester Song des Jahres ausgezeichnet wurde.

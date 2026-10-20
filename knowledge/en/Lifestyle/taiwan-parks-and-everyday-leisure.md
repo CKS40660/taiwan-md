@@ -1,19 +1,19 @@
 ---
-title: 'Taiwan Parks and Daily Leisure'
-description: "A cultural observation of Taiwan's parks as cross-generational social spaces, from early morning Tai Chi to evening strolls."
+title: "Taiwan's Parks and Daily Leisure"
+description: 'In the early morning at Daan Forest Park, seniors practice Tai Chi or external alchemy to the sounds of traditional music; in the afternoon, parents bring their children to play; in the evening, office workers stroll after work; and late at night, the space belongs to dog walkers and souls seeking tranquility. The same park rotates through different users at different times, forming a social arena where generations intersect, reflecting the rhythm and warmth of daily life in Taipei.'
 date: 2026-03-18
 category: 'Lifestyle'
-tags: ['Parks', 'leisure', 'social culture', 'cross-generation', 'daily life']
+tags: ['parks', 'leisure', 'social culture', 'intergenerational', 'daily life']
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '1d2876d0d'
+sourceCommitSha: '271d82d6f'
 sourceContentHash: 'sha256:5711dca50c2efd19'
 sourceBodyHash: 'sha256:62cca1f3ce3fb047'
-translatedAt: '2026-10-02T01:55:32+08:00'
+translatedAt: '2026-10-15T20:46:33.303919+00:00'
 ---
 
 # Taiwan Parks and Daily Leisure

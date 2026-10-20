@@ -1,9 +1,9 @@
 ---
 title: 'Advantech'
-description: 'A global leader in industrial computers and a Taiwan-born pioneer in IoT intelligent systems'
+description: 'Founded in 1983 by three former HP engineers, this industrial computing company has become a global leader in the industry. Focusing on Industrial IoT and edge computing solutions, it operates in 27 countries with nearly 9,000 employees. Having transformed from an original industrial computer manufacturer into a "driver of a smarter planet," Advantech provides core digital transformation technologies for sectors including manufacturing, healthcare, transportation, and retail.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Economy', 'Enterprises', 'Industrial Computers', 'IoT']
+tags: ['Economy', 'Enterprise', 'Industrial Computing', 'IoT']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '7255b3ab1'
+sourceCommitSha: '890c5095e'
 sourceContentHash: 'sha256:8cc6a4958817d23a'
 sourceBodyHash: 'sha256:b2944607fccb365d'
-translatedAt: '2026-09-23T02:58:28.841507+00:00'
+translatedAt: '2026-10-15T20:57:20.709950+00:00'
 ---
 
 > **30-Second Overview**

@@ -1,16 +1,16 @@
 ---
-title: 'Tập đoàn Formosa Plastics: Đế chế hóa dầu của Đài Loan'
-description: 'Vương Vĩnh Khiêm xây dựng vương quốc hóa chất từ máy chế biến PVC, truyền thuyết sản xuất các mặt hàng Formosa'
+title: 'Doanh nghiệp Đài Loan: Tập đoàn Formosa (Thái Tô)'
+description: 'Được thành lập vào năm 1954 bởi "Thần kinh doanh Đài Loan" Vương Vĩnh Khánh, đây là tập đoàn công nghiệp hóa dầu lớn nhất Đài Loan. Khởi đầu từ một nhà máy nhựa PVC quy mô nhỏ, tập đoàn đã phát triển thành một đế chế công nghiệp bao gồm "Tứ bảo Thái Tô" gồm Formosa Plastics, Nan Ya Plastics, Formosa Chemicals & Fibre và Formosa Plastics Corporation. Với đội ngũ nhân viên hơn 100.000 người và tổng doanh thu hàng năm đạt khoảng 3 nghìn tỷ Tân Đài tệ, tập đoàn hoạt động đa lĩnh vực từ hóa dầu, nhựa, sợi cho đến vật liệu điện tử, đóng vai trò là động lực quan trọng trong quá trình công nghiệp hóa của Đài Loan.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
+    'Kinh tế',
     'Doanh nghiệp',
     'Công nghiệp hóa dầu',
     'Tập đoàn Formosa',
-    'Công nghiệp truyền thống',
-    'Tứ bảo Formosa',
+    'Ngành truyền thống',
+    'Tứ bảo Thái Tô',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: 'e80217d19'
+sourceCommitSha: '0fdd33305'
 sourceContentHash: 'sha256:00c7be1d98e156ab'
 sourceBodyHash: 'sha256:55c1707afcbd7a73'
-translatedAt: '2026-09-19T07:48:54.340808+00:00'
+translatedAt: '2026-10-15T17:05:37.090836+00:00'
 ---
 
 > **Tổng quan 30 giây**

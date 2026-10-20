@@ -263,7 +263,7 @@ Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, 
 
 ```tw-iso
 Berapa Banyak Perumahan Nasional yang Dibangun Pemerintah Selama 24 Tahun Ini
-Satuan: ● = 20.000 rumah tangga
+單位：● = 20.000 rumah tangga
 Pembangunan langsung oleh pemerintah | 174.891 rumah tangga | 1976–1999
 Total perumahan nasional dalam arti luas | 390.000 lebih rumah tangga | hingga dicabut tahun 2015
 Sumber: Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional
@@ -275,7 +275,7 @@ Komposisi kursi parlemen memiliki visualisasi khusus: setengah lingkaran titik, 
 
 ```tw-arc
 Kursi Dewan Legislatif 2024: Tiga Partai Tidak Mencapai Mayoritas (113 Kursi)
-Mayoritas: 57
+過半：57
 KMT | 52
 DPP | 51
 Partai Rakyat Taiwan | 8

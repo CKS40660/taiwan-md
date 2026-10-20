@@ -1,17 +1,17 @@
 ---
-title: 'Die Entwicklung der zeitgenössischen Skulptur in Taiwan'
-description: 'Von Yang Ying-feng und Chu Ming bis zur neuen Generation: Eine Erforschung des Wandels und des kreativen Geistes der taiwanesischen Bildhauerei'
+title: 'Die Entwicklung der zeitgenössischen Bildhauerei in Taiwan'
+description: 'Die zeitgenössische Bildhauerei in Taiwan hat sich aus der traditionellen Holzschnitzerei entwickelt und drei Generationen durchlaufen: Huang Tuisui, der das moderne Fundament legte; Yang Ying-feng, der eine zeitgenössische Formensprache etablierte; und Ju Ming, der den östlichen Geist in eine internationale Perspektive integrierte. Seit der modernen Bildhauerkunst haben Künstler immer wieder Durchbrüche bei Materialien, Themen und Räumen erzielt. Das Ju Ming Museum und Skulpturenparks im Freien sind in ganz Taiwan verbreitet, während die neue Generation eine vielfältige Entwicklung vorantreibt und durch internationale Ausstellungen an Sichtbarkeit und Sammleranerkennung gewinnt.'
 date: 2026-03-18
 category: 'Art'
 tags:
   [
-    'Skulptur',
-    'Chu Ming',
+    'Bildhauerei',
+    'Ju Ming',
     'Yang Ying-feng',
     'Lin Shun-lung',
     'Hung Yi',
-    'öffentliche Kunst',
-    'zeitgenössische Kunst',
+    'Öffentliche Kunst',
+    'Zeitgenössische Kunst',
     'Holzschnitzerei',
   ]
 subcategory: '視覺藝術'
@@ -22,10 +22,10 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'b8f50ebb3'
+sourceCommitSha: '22bfcbc53'
 sourceContentHash: 'sha256:9e576e02178fac1e'
 sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
-translatedAt: '2026-09-20T00:52:50+08:00'
+translatedAt: '2026-10-15T19:11:56.106378+00:00'
 ---
 
 # Entwicklung der zeitgenössischen Skulptur in Taiwan

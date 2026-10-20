@@ -1,16 +1,16 @@
 ---
-title: 'Bife e macarrão taiwanês: da saudade dos imigrantes continentais à comida nacional'
-description: 'Da saudade dos imigrantes continentais à comida nacional de Taiwan: a fusão cultural e o aroma global do bife e macarrão'
+title: 'Macarrão com carne bovina'
+description: 'Desde o tabu alimentar da sociedade agrícola de que "o boi é ajudante, não se come boi", até os imigrantes das províncias continentais do pós-guerra fundirem técnicas culinárias de várias províncias criando escolas como o cozido vermelho, o cozido claro e o de tomate, uma tigela de macarrão nacional carrega a fusão de origens provinciais e memórias gustativas. Nos últimos anos, através de festivais gastronômicos dedicados e recomendações em listas internacionais, este macarrão saltou da comida de rua para o palco gastronômico global, tornando-se uma estrela brilhante do espírito de diversidade e inclusão da cultura alimentar de Taiwan.'
 date: 2026-03-17
 category: 'Food'
 tags:
   [
-    'Culinária',
-    'Bife e macarrão taiwanês',
-    'Culinária continental',
+    'Gastronomia',
+    'Macarrão com carne bovina',
+    'Culinária das províncias continentais',
     'Fusão cultural',
-    'Festival Internacional de Bife e Macarrão de Taipé',
-    'Guia Michelin',
+    'Festival de Macarrão com Carne Bovina de Taipei',
+    'Michelin',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md'
@@ -18,13 +18,13 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 image: '/images/wiki/5be514264de6.jpg'
-imageAlt: 'Bife e macarrão taiwanês'
+imageAlt: 'Macarrão com carne bovina de Taiwan'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
-sourceCommitSha: '271c50fbe'
+sourceCommitSha: 'd8b2faceb'
 sourceContentHash: 'sha256:0f8567c72fce22ef'
 sourceBodyHash: 'sha256:31e72a4ea39ea451'
-translatedAt: '2026-09-22T17:40:45+08:00'
+translatedAt: '2026-10-15T19:51:00.970449+00:00'
 ---
 
 # Bife e Macarrão Taiwanesa

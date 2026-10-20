@@ -1,20 +1,20 @@
 ---
-title: '환경 보호와 지속 가능한 발전: 섬의 녹색 각성'
-description: '굴뚝의 섬에서 탄소중립 대만으로: 40년 환경 운동의 각성 여정'
+title: '환경 보호와 지속 가능한 발전'
+description: "1980년대 '선오염 후처리'의 굴뚝 섬에서 1986년 루강 반듀폰 운동이 대만 환경 의식을 일깨우고, 1988년 환경보호서 설립으로 제도화의 길로 들어선 뒤, 2011년 후쿠시마 원전 사고 이후의 에너지 전환, 2022년 2050년 넷제로 배출 선언에 이르기까지: 대만은 40년간 아이허가 검게 변하고 PM2.5 초과라는 대가 속에서 깨어나, 현재 자원 재활용률이 60.1%에 달하고 200여 개 기업이 과학적 감축 목표를 약속하고 있다."
 date: 2026-03-21
-tags: ['환경 보호', '지속 가능한 발전', '탄소중립', '순환 경제', '기후 변화']
-subcategory: '社會運動'
 category: 'Society'
+tags: ['환경 보호', '지속 가능한 발전', '넷제로 배출', '순환 경제', '기후 변화']
+subcategory: '社會運動'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
-translatedFrom: 'Society/環保與永續發展.md'
 lastVerified: 2026-03-21
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: true
+readingTime: 8
+translatedFrom: 'Society/環保與永續發展.md'
+sourceCommitSha: 'e53f17151'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: '2026-04-14T06:03:39+08:00'
-lastHumanReview: true
+translatedAt: '2026-10-15T20:34:02.902153+00:00'
 ---
 
 # 환경 보호와 지속 가능한 발전: 섬의 녹색 각성
