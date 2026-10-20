@@ -1729,6 +1729,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：MANIFESTO §13 立體地愛；REFLEXES #77（spine 依主題類型決定）；EDITORIAL「政治人物要多面觀點」
 - **verification_count**: 1
 
+### 2026-10-21 twmd-babel-nightly — slug-gap-born-at-merge-seen-at-babel：缺 slug 的缺口在合併那刻產生，卻要等隔天翻譯班才被看見
+
+- **pattern**: slug-gap-born-at-merge-seen-at-babel
+- **原則**：純中文檔名的新文章，合併時沒人補 `knowledge/_slug-map.json`，十二語就全部排不進佇列。偵測住在 `babel-preflight.py`（翻譯班的自檢），產生的位置卻在維護班或 GitHub 合併鈕。兩者隔一整天，中間 dispatcher 照常每十分鐘重啟、印「零派工」，看起來像沒事可做。
+- **instances**：
+  - 2026-07-27 — 7 篇卡在 `TBD-NEEDS-SLUG`，`_slug-map.json` 因此誕生
+  - 2026-10-20 twmd-babel-nightly — 八篇 tboydar 新文空等十六小時（`b269c3212`）；handoff 交給 maintainer「合併時同一個 merge 補 slug」
+  - 2026-10-21 twmd-babel-nightly — 隔天又四篇（支語誤判學／中央政府總預算／全社會防衛韌性／台灣媒體總史，10-19～10-20 合併），dispatcher 00:04 起連四輪零派工（`edffe7b02`）。昨晚的交接寫給了對的席位，但合併的人有一部分是投稿者按 GitHub 合併鈕，那條路上沒有任何人讀 handoff
+- **可能層級**：儀器候選。判準機械、零誤判：「zh 新增檔、檔名含非 ASCII、零譯文、不在 slug-map」→ PR 檢查印警告（不擋）。動的是 CI workflow，屬新 workflow 設計，留給 Full mode 席位
+- **附帶**：本班 `slug-suggest.py` 失敗是 OpenRouter 上 `nemotron-3-super-120b:free` 的供應端 404（Nvidia function not found），手寫四個 slug 補上。同一個模型是 `DEFAULT_FREE_MODEL`，若持續故障會影響 diary-translate／i18n-translate 等六處
+- **相關**：REFLEXES #97（交接面完整性：handoff 送到席位不等於送到動手那一層）、#91（建造與登記不同步）；LESSONS `ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one`
+- **verification_count**: 3
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
