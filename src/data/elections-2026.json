@@ -55,32 +55,32 @@
     {
       "key": "townshipChief",
       "type": "鄉（鎮、市）長",
-      "seats": null,
-      "source": "https://web.cec.gov.tw/central/article/63644"
+      "seats": 198,
+      "source": "https://web.cec.gov.tw/central/article/64711"
     },
     {
       "key": "townshipRepresentative",
       "type": "鄉（鎮、市）民代表",
-      "seats": null,
-      "source": "https://web.cec.gov.tw/central/article/63644"
+      "seats": 2076,
+      "source": "https://web.cec.gov.tw/central/article/64711"
     },
     {
       "key": "indigenousDistrictChief",
       "type": "直轄市山地原住民區長",
-      "seats": null,
-      "source": "https://web.cec.gov.tw/central/article/63644"
+      "seats": 6,
+      "source": "https://web.cec.gov.tw/central/article/64711"
     },
     {
       "key": "indigenousDistrictRepresentative",
       "type": "直轄市山地原住民區民代表",
-      "seats": null,
-      "source": "https://web.cec.gov.tw/central/article/63644"
+      "seats": 50,
+      "source": "https://web.cec.gov.tw/central/article/64711"
     },
     {
       "key": "villageChief",
       "type": "村（里）長",
-      "seats": null,
-      "source": "https://web.cec.gov.tw/central/article/63644"
+      "seats": 7780,
+      "source": "https://web.cec.gov.tw/central/article/64711"
     }
   ],
   "totalElected": {
@@ -110,7 +110,8 @@
           "incumbent": false,
           "number": null,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "article": { "zh": "沈伯洋", "slug": "puma-shen" }
         },
         {
           "name": "蕭文乾",
@@ -161,7 +162,8 @@
           "incumbent": false,
           "number": null,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "article": { "zh": "蘇巧慧", "slug": "su-chiao-hui" }
         },
         {
           "name": "李四川",
