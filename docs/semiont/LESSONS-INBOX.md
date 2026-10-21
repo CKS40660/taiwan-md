@@ -1756,6 +1756,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #97（交接面完整性：handoff 送到席位不等於送到動手那一層）、#91（建造與登記不同步）；LESSONS `ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one`
 - **verification_count**: 3
 
+### 2026-10-22 twmd-babel-nightly — paid-lane-credit-out-holds-p0-gaps：付費層沒錢了，卻每輪先搶走缺檔再放手
+
+- **pattern**: paid-lane-credit-out-holds-p0-gaps
+- **原則**：「容量失敗不算文章的帳」防的是把後端沒空記成文章太難；但這筆失敗仍佔掉「本輪已排過」的位子。付費層會先搶 P0 缺檔，一旦它付不出錢，那篇就在本輪對所有人消失，地端與免費 worker 補貨時拿不到，下一輪付費層又先搶。錢用完不是「此刻沒容量」，它不會自己回來，該跟每夜上限同樣處置。
+- **觸發**：2026-10-21 23:24 起的 run，七個 OpenRouter 帳號儲值全數花完（各約 $10.10/$10，default $50.007/$50），三個 Haiku worker 對〈一同走過從前〉ar/ru 兩篇各撞 HTTP 402 兩輪，兩篇零產出；同時算力自檢印「7 把已儲值」綠燈，因為它量的是帳號儲值過（解鎖免費日配額），不是餘額。修法 `de0b38646`／`08b720001`（402 字樣讓該 tier 本 run 停派、付費層容量失敗的那篇從本輪清單放回）＋ `aeaf79227`（自檢多讀餘額）；修後 ru 由地端 gemma 經輪中補貨接走 → [memory/2026-10-22-015543-twmd-babel-nightly.md](memory/2026-10-22-015543-twmd-babel-nightly.md)
+- **instances**：（首例，見觸發）
+- **可能層級**：通用反射延伸（#38 (d) 容量 vs 難度的第三面：容量失敗仍佔排程位子；#82 已儲值是餘額的替身）
+- **相關**：REFLEXES #38 (d)、#82；SQUEEZE §義務鐵律第 4 條「夜間額度用完視為延後不是失敗」
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
