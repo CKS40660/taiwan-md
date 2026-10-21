@@ -107,7 +107,7 @@ Deemo trở thành một trong những bộ phim bom tấn lớn nhất của Ra
 ---
 
 ![Booth Rayark 2018, từ xa có thể thấy bóng của các cosplay Pipimi và Popuko từ POP TEAM EPIC](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Rayark booth 2018, bóng người cosplay. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Ảnh: snapshot cosplay người chơi, CC BY-SA 2.0.\_
+_Rayark booth 2018, bóng người cosplay. Nguồn: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Ảnh: snapshot cosplay người chơi, CC BY-SA 2.0.\_
 
 ## Năm mà Nintendo Switch ra mắt, họ làm năm việc cùng lúc
 
@@ -369,6 +369,8 @@ Bài viết này sử dụng 8 hình ảnh được cấp phép, tất cả đư
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness bình luận](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 bình luận người chơi "Cytus vẫn muốn tung ra arcade, may mắn có trải nghiệm trực tiếp, lúc ấy rất mong chờ máy âm nhạc đại loại từ Đài Loan" — Ghi lại trải nghiệm trực tiếp người chơi Cytus: Omega location testing
 
 [^sdorica-blackpongji]: [Sdorica cắt sự kiện Black Pongji — Sdorica Wonderful World Harrah board + catchtest pixnet điều tra sau chơi](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Black Pongji (Black Pongji) cơ chế zombie + một giới hạn khiêu khích giới hạn; Black Pongji + cầu hình Angelica SP bị hủy; Rayark gọi sửa lỗi không phải nerf không được chấp nhận; rất sớm sau White Pongji skin phát hành
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Tin tức] Sdorica — Cắt mạnh hàng loạt nhân vật mạnh, tranh cãi nổi lên](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Các trả lời trong chuỗi thảo luận PTT C_Chat ngày 2018-06-27; npn1992 “Rồi Bại Băng ra là cắt thẳng, sau đó lại nói trước đó là bug, SP công chúa ra lâu rồi”, “Black Pongji với SP công chúa ra lâu rồi, giờ mới đổi”, “Cái bug nằm đó lâu rồi, Bại Băng mới ra một lát là đổi, hiệu quả thật” — người chơi tự đối chiếu trình tự ra mắt skin và cắt nhân vật cũ
 
 [^pttweb-rayark-thread]: [PTT C_Chat Rayark Games: Đế chế âm nhạc xây dựng bằng thẩm mỹ GTES chuyển bài thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 PTT C_Chat cộng đồng người chơi thảo luận thread; selfet "Đội công hội chơi sdorica sớm nhất một loạt cầu thủ hàng đầu toàn máy chủ vì cắt Black Pongji rút khỏi"; Jamer "ice sau này vẫn tiếp tục ra nhạc, thuần túy là tên rất khó trở thành từ khóa nhận dạng"
 

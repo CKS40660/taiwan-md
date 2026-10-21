@@ -101,7 +101,7 @@ Deemo devient l’un des plus grands succès commerciaux de Rayark. En octobre 2
 ---
 
 ![Stand Rayark en 2018 ; au loin, on aperçoit de dos des cosplayers de Pipimi et Popuko de POP TEAM EPIC](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Stand Rayark en 2018, avec des cosplayers vus de dos. Source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo : instantané de cosplay lors d’un événement, CC BY-SA 2.0.\_
+_Stand Rayark en 2018, avec des cosplayers vus de dos. Source : [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo : instantané de cosplay lors d’un événement, CC BY-SA 2.0.\_
 
 ## L’année du lancement de la Switch, ils font cinq choses à la fois
 
@@ -365,6 +365,8 @@ Cet article utilise 8 images sous licence, toutes mises en cache dans `public/ar
 [^threads-cytus-arcade-comment]: [Commentaire de data_pythoness sur Threads taiwandotmd #DYwMkzBgW8k](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — Commentaire de joueur du 2026-05-26 : « Cytus voulait aussi sortir une borne d’arcade ; j’ai eu la chance de l’essayer sur place. À l’époque, j’étais très impatient de voir une grande borne de jeu musical venue de Taïwan » — témoignage direct de joueur sur les location tests de Cytus: Omega
 
 [^sdorica-blackpongji]: [Affaire du nerf de Black Pongji dans Sdorica — forum Sdorica Bahamut + impression de jeu catchtest pixnet](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Black Pongji, mécanique zombie + provocation limitée à une fois par tour ; composition Black Pongji + Angelia SP invalidée ; bug fix selon Rayark, refusé par les joueurs ; peu après la sortie du skin White Pang
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Info] Sdorica — Nerf collectif des personnages forts, la polémique couve](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Réponses dans le fil de discussion PTT C_Chat du 27/06/2018 ; npn1992 « Et puis Bai Pong est sorti, ils l’ont nerfé direct, et après ils disent que c’était un bug avant, ça fait combien de temps que la SP de la princesse est sortie ? », « Ça fait combien de temps que la Black Pongji et la SP de la princesse sont sorties, et là ils changent tout d’un coup ? », « Un bug qui traînait là depuis longtemps, changé peu après la sortie de Bai Pong, quelle efficacité » — les joueurs ont eux-mêmes comparé l’ordre de sortie du skin et le nerf du vieux personnage
 
 [^pttweb-rayark-thread]: [Thread PTT C_Chat sur Rayark Games : l’empire musical fondé sur l’esthétique, repost GTES](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — Thread de discussion de la communauté des joueurs PTT C_Chat du 2026-05-26 ; selfet : « Au tout début, dans ma guilde Sdorica, il y avait plein de joueurs parmi les meilleurs du serveur qui ont quitté le jeu à cause du nerf de Black Pongji » ; Jamer : « ice a ensuite continué à sortir des chansons ; c’est simplement que son nom est difficile à utiliser comme mot-clé reconnaissable »
 

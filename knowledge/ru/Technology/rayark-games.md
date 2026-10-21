@@ -103,7 +103,7 @@ Deemo стала одним из самых кассовых проектов Ra
 ---
 
 ![Стенд Rayark на мероприятии в 2018 году, на заднем плане видны косплееры Pipimi и Popuko из «POP TEAM EPIC», снятые со спины](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Стенд Rayark в 2018 году, косплееры со спины. Источник: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Фото: снимок косплея на мероприятии, CC BY-SA 2.0.\_
+_Стенд Rayark в 2018 году, косплееры со спины. Источник: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Фото: снимок косплея на мероприятии, CC BY-SA 2.0.\_
 
 ## Год запуска Switch: пять дел одновременно
 
@@ -367,6 +367,8 @@ PENTAVISION выжила через «поглощение крупной ком
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness 留言](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — комментарий игрока от 2026-05-26 «Cytus ещё хотели выпустить как аркадный автомат, мне посчастливилось увидеть его вживую, тогда я очень ждал большой тайваньский музыкальный автомат» — личное свидетельство игрока о локационном тестировании Cytus: Omega
 
 [^sdorica-blackpongji]: [Sdorica 砍黑普吉事件 — Sdorica 萬象物語哈啦板 + catchtest pixnet 玩後感](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — механика «zombie» + ограничение «провокации» Black Pongji одним разом за ход; связка Black Pongji + Angelia SP была выведена из игры; Rayark назвала это исправлением бага, игроки это не приняли; произошло вскоре после выхода скина «Бай Пан»
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Новости] Sdorica — массовый нерф сильных персонажей, скандал разгорается](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Ответы в треде обсуждения PTT C_Chat от 2018-06-27; npn1992 «И тогда вышел Бай Пан — и его сразу нерфнули, а потом говорят, что раньше это был баг, сколько уже вышла SP принцессы», «Сколько уже вышли Black Pongji и SP принцессы, а теперь вдруг меняют», «Баг, который висел очень долго, изменили вскоре после выхода Бай Пана, какая эффективность» — сами игроки сопоставляли порядок выхода скина и нерфа старого персонажа
 
 [^pttweb-rayark-thread]: [PTT C_Chat 雷亞遊戲：以美學立國的音樂帝國 GTES 轉貼 thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — обсуждение в игровом сообществе PTT C_Chat от 2026-05-26; selfet: «Когда я только начинал играть в Sdorica, куча игроков из топовых гильдий на всех серверах ушли из-за нерфа Black Pongji»; Jamer: «Ice до сих пор продолжает выпускать музыку, просто с таким именем сложно стать узнаваемым ключевым словом»
 

@@ -101,7 +101,7 @@ Deemo se convirtió en una de las obras más exitosas de Rayark. Para octubre de
 ---
 
 ![Stand de Rayark en 2018; al fondo se ven de espaldas cosplayers de Pipimi y Popuko, de POP TEAM EPIC](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Stand de Rayark en 2018, con cosplayers vistos de espaldas. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo: jugador cosplay snapshot, CC BY-SA 2.0.\_
+_Stand de Rayark en 2018, con cosplayers vistos de espaldas. Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: jugador cosplay snapshot, CC BY-SA 2.0.\_
 
 ## El año del lanzamiento de Switch hicieron cinco cosas a la vez
 
@@ -365,6 +365,8 @@ Este artículo usa 8 imágenes con licencia, todas cacheadas en `public/article-
 [^threads-cytus-arcade-comment]: [Comentario de data_pythoness en Threads taiwandotmd #DYwMkzBgW8k](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — Comentario de jugador del 2026-05-26: “Cytus también quería sacar arcade; tuve la suerte de probarlo en persona. En ese momento esperaba con ganas una gran máquina de juego musical taiwanesa” — registro de experiencia personal con el location testing de Cytus: Omega
 
 [^sdorica-blackpongji]: [Caso del recorte de Black Pongji en Sdorica — foro de Sdorica -sunset- en Bahamut + impresión de juego de catchtest en pixnet](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Mecánica zombie + provocación limitada a una vez por turno para Black Pongji; composición Black Pongji + Angelia SP inutilizada; Rayark lo llamó bug fix y los jugadores no lo aceptaron; poco después del lanzamiento de la skin de Pang blanco
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Información] Sdorica — Nerf masivo a los personajes fuertes, la polémica hierve](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Respuestas en el hilo de discusión de PTT C_Chat del 2018-06-27; npn1992 «Y entonces salió Pang blanco y lo recortaron de inmediato, y después dicen que antes era un bug, ¿cuánto lleva la SP de la princesa?», «¿Cuánto llevan la Black Pongji y la SP de la princesa, y ahora de repente lo cambian?», «Un bug que llevaba mucho tiempo ahí, lo cambiaron poco después de que saliera Pang blanco, qué eficiencia» — los jugadores compararon por sí mismos el orden del lanzamiento del skin y el recorte del personaje antiguo
 
 [^pttweb-rayark-thread]: [Hilo de PTT C_Chat con repost de GTES: Rayark Games, el imperio musical fundado sobre la estética](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — Hilo de discusión de la comunidad de jugadores de PTT C_Chat del 2026-05-26; selfet: “Cuando empecé a jugar Sdorica, mi gremio tenía un montón de jugadores de los primeros puestos del servidor que abandonaron por el recorte de Black Pongji”; Jamer: “ice después siguió sacando canciones; simplemente su nombre es muy difícil como palabra clave identificable”
 

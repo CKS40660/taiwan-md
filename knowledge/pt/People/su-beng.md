@@ -152,6 +152,8 @@ Seja qual for o lado, poucos negam a sua coerência. Da desilusão em Yenan à l
 
 [^yen]: [Falar do significado especial de Su Beng: Yen Tse-ya: a independência dele nasceu de ter reconhecido o PCC](https://udn.com/news/story/6656/4060121) — United Daily News, 2019, a escritora Yen Tse-ya aponta que a reivindicação independentista de Su Beng se baseia na experiência direta e no reconhecimento do PCC, diferindo do ponto de partida intelectual de outros independentistas.
 
+[^nippon]: [Uma estrela cai — homenagem a Su Beng, o «Revolucionário a Vida Inteira»](https://www.nippon.com/hk/japan-topics/g00763/) — Artigo de luto do Nippon.com, 15 de outubro de 2019, de Kumiko Hirano; descreve o primeiro encontro da autora com Su Beng em seu gabinete em Xinzhuang, em 2003, menciona sua fuga de Taiwan em 1952 e a abertura do restaurante «Shin Chin-mi» em Ikebukuro, e registra suas palavras: «Ainda que seja apenas um pequeno pedaço de terra, não se deve permitir que se perca — isso é o país, isso é a nação».
+
 [^newbloom]: [A glória e a queda dos anos, provar o caminho com o próprio corpo — sobre o revolucionário de esquerda taiwanês Su Beng](https://newbloommag.net/2016/03/02/su-beng-bio-tw/) — Perfil da New Bloom Magazine, complementa o pensamento de esquerda de Su Beng, a desilusão com o PCC e o posicionamento após o regresso.
 
 [^doc]: [Documentário Herói Taiwanês Su Beng — Revolução em Curso](https://www.youtube.com/watch?v=o2Y4z2o6288) — Trailer do documentário "Revolução em Curso" (dir. Chen Li-kuei), regista a vida de Su Beng e a história do movimento independentista taiwanês.

@@ -152,6 +152,8 @@ Dari mana pun berdiri, jarang orang sangkal konsistensinya. Dari kecewa Yenan, k
 
 [^yen]: [Bicarakan Makna Khusus Su Beng Yen Tse-ya: Merdeka Dia Adalah Merdeka Kenali KPK](https://udn.com/news/story/6656/4060121) — United Daily News 2019, penulis Yen Tse-ya tunjukkan pendirian kemerdekaan Su Beng dibangun di atas pengalaman dan pengenalan KPK, beda titik awal pemikiran pro-kemerdekaan lain.
 
+[^nippon]: [Bintang Jatuh — Menghormati Su Beng, “Revolusioner Seumur Hidup”](https://www.nippon.com/hk/japan-topics/g00763/) — Tribute Nippon.com tanggal 15 Oktober 2019 oleh Kumiko Hirano; menceritakan pertemuan pertama penulis dengan Su Beng di kantornya di Xinzhuang pada 2003, menyebut pelariannya dari Taiwan pada 1952 serta pembukaan restoran “Shin Chin-mi” di Ikebukuro, dan dikutip: “Meski hanya sebidang tanah kecil, tanah itu tak boleh hilang — itulah negara, itulah bangsa.”
+
 [^newbloom]: [Musim Semi Gugur, Bukti Diri——Tentang Perevolusi Kiri Taiwan Su Beng](https://newbloommag.net/2016/03/02/su-beng-bio-tw/) — New Bloom Magazine profil tokoh, tambah pemikiran kiri Su Beng, kecewa KPK dan posisi pasca pulang.
 
 [^doc]: [Film Dokumenter Pahlawan Taiwan Su Beng─Revolusi Berlangsung](https://www.youtube.com/watch?v=o2Y4z2o6288) — Trailer film dokumenter "Revolusi Berlangsung" (sutradara Chen Li-gui), catat hidup Su Beng dan sejarah gerakan kemerdekaan Taiwan.

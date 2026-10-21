@@ -101,7 +101,7 @@ _『DEEMO 最終演奏』PS Vita版カバー。白黒のメルヘンチックな
 ---
 
 ![2018年 レイアークブースの様子。遠景に『POP TEAM EPIC』のPipimiとPopukoのコスプレイヤーの後ろ姿が見える](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_2018年 レイアークブースの様子。コスプレイヤーの後ろ姿。Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo: プレイヤーコスプレスナップショット, CC BY-SA 2.0.\_
+_2018年 レイアークブースの様子。コスプレイヤーの後ろ姿。Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: プレイヤーコスプレスナップショット, CC BY-SA 2.0.\_
 
 ## Switchローンチの年、彼らは同時に五つのことをしていた
 
@@ -365,6 +365,8 @@ ICE事件は「ブランドの純度」ロジックが従業員にまで及ん�
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness コメント](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 プレイヤーコメント「Cytusはアーケード版も出そうとしていて、実際に体験したことがあります。台湾発の大型音楽ゲーム筐体に期待していました」— Cytus: Omega ロケーションテストのプレイヤー体験記録
 
 [^sdorica-blackpongji]: [Sdorica 黒プージー弱体化事件 — Sdorica 万象物語掲示板 + catchtest pixnet プレイレビュー](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — 黒プージー(Black Pongji) ゾンビメカニクス + 挑発1ターン1回制限；黒プージー + アンジェリアSPパーティ構成が使用不能に；レイアークはバグ修正と主張しプレイヤーが不接受；白龐スキン販売直後
+
+[^pttweb-rayark]: [PTT C_Chat Re: [情報] Sdorica — 強角一括弱体化、炎上が酝酿中](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — 2018-06-27 の PTT C_Chat 議論スレッドへの返信；npn1992「それから白龐一出って直接削られて、後からバグだったって言うけど、プリンセスSP 出てから何久了？」「黒プージーもプリンセスSP も出てから何久了のに今更変えるの？」「結構長いバグだったのに白龐出てちょっと経ってから変えるの、ほんと効率的」——プレイヤーが自力でスキンの販売と旧キャラの弱体化の順序を比べた
 
 [^pttweb-rayark-thread]: [PTT C_Chat レイアーク：美学で立つ音楽帝国 GTES転載スレッド](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 PTT C_Chat プレイヤーコミュニティ討論スレッド；selfet「最初にsdoricaをプレイしていた頃、ギルドにはサーバー上位のプレイヤーがたくさんいて、黒プージー弱体化でリタイアしました」；Jamer「iceはその後も曲を出し続けているが、ただ名前が識別しやすいキーワードとしては使いにくいだけだ」
 

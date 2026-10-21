@@ -96,7 +96,7 @@ El título de «último de la lista negra» es, a su vez, una pieza de la histor
   <iframe src="https://www.youtube.com/embed/o2Y4z2o6288" title="Su Beng, el revolucionario" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-*El documental *Revolución en marcha* (dir. Chen Li‑gui) registra la vida de Su Beng.*
+_El documental *Revolución en marcha* (dir. Chen Li‑gui) registra la vida de Su Beng._
 
 De regreso a Taiwán, Su Beng no se retiró. A finales de 1996 fundó la _Radio Popular de Taiwán_ en Taipéi, donde presentó el programa «Amo a Taiwán», relatando historia y actualidad. Con el _Camión de propaganda por la independencia_ recorría las calles difundiendo el nacionalismo taiwanés, trasladando la visión de _Shin Chinmi_ a los altavoces de la vía pública. En 2004, por primera vez votó con su cédula de la República de China (Taiwán), eligiendo a Chen Shui‑bian; para un exiliado de cuarenta y un años sin registro de domicilio, ese voto fue, en sí, un acto histórico.[^wiki]
 
@@ -143,6 +143,8 @@ Independientemente de la posición, pocos pueden negar su coherencia. Desde la d
 [^initium]: [La revolución inconclusa: el nacionalismo taiwanés de Su Beng](https://theinitium.com/article/20190921-taiwan-subeng-nationalism) — Análisis de Initium Media (2019) sobre el contenido y la influencia del nacionalismo pro‑independencia de Su Beng.
 
 [^yen]: [El significado especial de Su Beng según Yen Chih‑ya: su “independencia” nace del reconocimiento del Partido Comunista](https://udn.com/news/story/6656/4060121) — Reportaje de United Daily News (2019) que muestra la visión de la escritora sobre la base ideológica de Su Beng.
+
+[^nippon]: [Una estrella cae —农elevado「revolucionario de por vida」Su Beng](https://www.nippon.com/hk/japan-topics/g00763/) — Artículo de duelo de Nippon.com, 15 de octubre de 2019, de Kumiko Hirano; describe el primer encuentro de la autora con Su Beng en su despacho de Xinzhuang en 2003, menciona su huida de Taiwán en 1952 y la apertura del restaurante «Shin Chin-mi» en Ikebukuro, y recoge sus palabras: «Aunque sea solo un trozo de tierra, no se debe permitir que se pierda; eso es el país, eso es la nación».
 
 [^newbloom]: [Su Beng: la revolución de la izquierda taiwanesa](https://newbloommag.net/2016/03/02/su-beng-bio-tw/) — Perfil de New Bloom Magazine que amplía su pensamiento de izquierda, su desencanto con el comunismo y su posterior posicionamiento.
 

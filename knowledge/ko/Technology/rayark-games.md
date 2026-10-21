@@ -101,7 +101,7 @@ _《DEEMO 최종 연주》PS Vita판 표지. 흑백 동화풍은 Deemo 시리즈
 ---
 
 ![2018년 Rayark 부스 현장, 멀리 《POP TEAM EPIC》의 Pipimi와 Popuko 코스플레이어 뒷모습이 보인다](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_2018년 Rayark 부스 현장, 코스플레이어 뒷모습. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo: 플레이어 cosplay snapshot, CC BY-SA 2.0.\_
+_2018년 Rayark 부스 현장, 코스플레이어 뒷모습. Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: 플레이어 cosplay snapshot, CC BY-SA 2.0.\_
 
 ## Switch 출시의 해, 그들은 다섯 가지 일을 동시에 했다
 
@@ -365,6 +365,8 @@ ICE 사건은 “브랜드 순수성” 논리가 직원에게까지 확장되�
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness 댓글](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 플레이어 댓글 “Cytus도 아케이드로 나오려 했고 운 좋게 현장에서 체험한 적이 있었다. 그때는 대만에서 만든 대형 음악 게임 기계를 매우 기대했다” — Cytus: Omega location testing 플레이어 직접 체험 기록
 
 [^sdorica-blackpongji]: [Sdorica 흑푸지 하향 사건 — Sdorica 만상물어 하라판 + catchtest pixnet 플레이 후기](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — 흑푸지(Black Pongji) zombie 메커니즘 + 도발 한 턴 1회 제한; 흑푸지 + 안젤리아 SP 팀 구성이 폐기됨; 레이아는 bug fix라고 했으나 플레이어는 수용하지 않음; 백팡 skin 출시 직후
+
+[^pttweb-rayark]: [PTT C_Chat Re: [정보] Sdorica — 강캐 일괄 하향, 논쟁이 커지는 중](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — 2018-06-27 PTT C_Chat 논쟁 스레드의 답글; npn1992 “그리고 백팡이 나오자마자 바로 깎고, 나중에 그게 버그였다고 말하지, 공주 SP는 언제부터였는데”, “흑푸지도 공주 SP도 얼마나 나왔는데 이제 와서 바꾸는 거야”, “오래도록 있었던 버그인데 백팡 나온 지 얼마 안 돼서 바꾸는 건 진짜 효율적이네” — 플레이어들이 직접 스킨 출시와 구 캐릭터 하향의 순서를 비교함
 
 [^pttweb-rayark-thread]: [PTT C_Chat 레이아 게임즈: 미학으로 세운 음악 제국 GTES 전재 thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 PTT C_Chat 플레이어 커뮤니티 토론; selfet “가장 초기에 sdorica를 할 때 길드에는 전 서버 최상위권 플레이어가 잔뜩 있었는데 흑푸지 하향 때문에 접었다”; Jamer “ice는 이후에도 계속 곡을 냈고, 단지 이름이 식별도 높은 키워드로 쓰기 어렵다는 것뿐이다”
 

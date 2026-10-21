@@ -101,7 +101,7 @@ Deemo became one of Rayark's biggest commercial works. By October 2014, it had a
 ---
 
 ![Rayark booth in 2018, with the backs of Pipimi and Popuko cosplayers from POP TEAM EPIC visible in the distance](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Rayark booth in 2018, seen from behind cosplay attendees. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo: player cosplay snapshot, CC BY-SA 2.0.\_
+_Rayark booth in 2018, seen from behind cosplay attendees. Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: player cosplay snapshot, CC BY-SA 2.0.\_
 
 ## The Year of the Switch Launch, They Did Five Things at Once
 
@@ -365,6 +365,8 @@ This article uses eight licensed images, all cached under `public/article-images
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k comment by data_pythoness](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 player comment: "Cytus also wanted to make an arcade cabinet. I was lucky enough to try it on site. At the time, I was really looking forward to a large rhythm game arcade machine from Taiwan" — first-hand player record of Cytus: Omega location testing
 
 [^sdorica-blackpongji]: [Sdorica Black Pongji Nerf Incident — Sdorica Bahamut Forum + catchtest Pixnet Impressions](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Black Pongji zombie mechanic + taunt limited to once per turn; Black Pongji + Angelia SP team composition invalidated; Rayark called it a bug fix, which players did not accept; shortly after White Pang skin release
+
+[^pttweb-rayark]: [PTT C_Chat Re: [News] Sdorica — Strong characters nerfed en masse, controversy brewing](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Replies in the PTT C_Chat discussion thread of 2018-06-27; npn1992 “Then Bai Pong came out and they nerfed it straight away, and afterwards they say it was a bug before, how long has the Princess SP been out”, “How long have Black Pongji and the Princess SP been out, and now they suddenly change it”, “A bug that had been sitting there a long time, changed shortly after Bai Pong came out, really efficient” — the players compared the order of the skin release and the nerf of the old character themselves
 
 [^pttweb-rayark-thread]: [PTT C_Chat Rayark Games: A Music Empire Built on Aesthetics repost thread by GTES](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 PTT C_Chat player community discussion thread; selfet: "When I first played Sdorica, a bunch of top-ranked players in my guild quit because Black Pongji was nerfed"; Jamer: "Ice kept making songs afterward; it's just that his name is hard to use as an identifiable keyword"
 
