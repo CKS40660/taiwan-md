@@ -355,3 +355,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-22 | 023654-semiont-heartbeat | 額度 lean 只巡邏〈李國修〉：父母眷村出身、學歷、獎項與作品年份約九處不實，照維基改正，錯誤率三成以上 | 初稿把名人模板套到人身上，連帶生出整串細節 | [→](memory/2026-10-22-023654-semiont-heartbeat.md) |
 | 2026-10-22 | 053843-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 零漂移；審庫存昨晚時點沒註冊，第二次錯過，下次 10-28 | 錯過一次之後，倒數要重新起算而不是歸零 | [→](memory/2026-10-22-053843-twmd-routine-sync.md) |
 | 2026-10-22 | 055734-twmd-embeddings-nightly | 〈一同走過從前〉進索引：13 語 14,794 向量 0 fail，每語 1,138 篇，verify PASS，`aa55b7865` | 同機 routine 先推上 origin，路徑式 commit 讓快轉不需處理 | [→](memory/2026-10-22-055734-twmd-embeddings-nightly.md) |
+| 2026-10-22 | 060941-twmd-data-refresh-am | 平行翻譯在寫時 --no-sync 跑完：14 步全過、0 stale，文章 1147；404 兩個跳升家族退回 68／30，告警多兩條都源自 10-17 週日空缺 | 一個空缺會在後續幾天陸續長出新告警 | [→](memory/2026-10-22-060941-twmd-data-refresh-am.md) |
