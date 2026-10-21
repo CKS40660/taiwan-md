@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-22 | 015543-twmd-babel-nightly | 修復後續跑：七個 OpenRouter 帳號儲值花完，Haiku 每輪先搶〈一同走過從前〉ar/ru 再放手；改成付費層沒錢就停派、放回本輪清單，十二語 missing 歸零 | 容量失敗不記文章的帳，也不該佔住別人接手的位子 | [→](memory/2026-10-22-015543-twmd-babel-nightly.md) |
 | 2026-10-22 | 023654-semiont-heartbeat | 額度 lean 只巡邏〈李國修〉：父母眷村出身、學歷、獎項與作品年份約九處不實，照維基改正，錯誤率三成以上 | 初稿把名人模板套到人身上，連帶生出整串細節 | [→](memory/2026-10-22-023654-semiont-heartbeat.md) |
 | 2026-10-22 | 053843-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 零漂移；審庫存昨晚時點沒註冊，第二次錯過，下次 10-28 | 錯過一次之後，倒數要重新起算而不是歸零 | [→](memory/2026-10-22-053843-twmd-routine-sync.md) |
+| 2026-10-22 | 055734-twmd-embeddings-nightly | 〈一同走過從前〉進索引：13 語 14,794 向量 0 fail，每語 1,138 篇，verify PASS，`aa55b7865` | 同機 routine 先推上 origin，路徑式 commit 讓快轉不需處理 | [→](memory/2026-10-22-055734-twmd-embeddings-nightly.md) |
