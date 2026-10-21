@@ -3,8 +3,8 @@ title: 'REWRITE-PIPELINE-SINGLE'
 description: '文章改寫主流程 canonical（單檔型，2026-09-19 起現行）— 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連)，從 v6.7 續行：論點必須是一句對台灣的主張、研究 ~100 次天花板且一隻 lane 找人、開場一個人一個時刻、tw-* ≤ 4、無冷讀站'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.8.1'
-last_updated: 2026-09-27
+current_version: 'v6.8.2'
+last_updated: 2026-10-21
 last_session: '2026-09-26-230240-twmd-maintainer（v6.8.1：補回續行時漏掉的兩條——寫手讀整份研究報告（v7.4）、先判 spine 類型再鎖核心矛盾（v7.6/v7.7）；OBSERVER-QUEUE #81 哲宇拍板 B）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -1327,7 +1327,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 每 300 字 ≥ 1 個 footnote（per [CITATION-GUIDE](../editorial/CITATION-GUIDE.md)）。
 
-`tw-*` 視覺化模組**單篇 ≤ 4**（[graph.md §九](../editorial/graph.md)）：一張圖回答一個資料關係，第五張通常是把腳註畫出來。9/18 三篇各塞 11-13 個被哲宇讀成「過度強調數字」。
+`tw-*` 視覺化模組**單篇 ≤ 4**（[graph.md §九](../editorial/graph.md)）：一張圖回答一個資料關係，第五張通常是把腳註畫出來。9/18 三篇各塞 11-13 個被哲宇讀成「過度強調數字」。**精選文（`featured: true`）上限 8 個，全篇媒體（hero＋圖＋影片＋模組）≤ 20**（2026-10-21 哲宇拍板，[EDITORIAL §四 呼吸鐵律 3](../editorial/EDITORIAL.md)）；`paragraph-rhythm` 對精選文改看這兩個總數。
 
 富文本元素（per EDITORIAL）：
 
@@ -2187,5 +2187,7 @@ _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELIN
 🧬
 
 _v6.8 | 2026-09-19 news-radar — 從 v6.7 快照（`b19194bea2`，〈國宅與居住正義〉ship 當天）續行成現行 canonical。哲宇 2026-09-19：「把 twmd-rewrite 技能先回頭對齊單檔型 rewrite-pipeline，多檔型留校察看，先不使用」。加入五條 9/18-19 三篇實驗的修正：論點是一句對台灣的主張（Step 0.6.5）／研究 ~100 次天花板＋找人 lane（Step 1.1）／開場一個人一個時刻＋數字紀律（Step 2.3）／tw-\* ≤ 4（Step 2.8）／opening-readability（Step 4.1）；無冷讀站。_
+
+_v6.8.2 | 2026-10-21 yitong — Step 2.8 加精選文上限：`featured: true` tw-\* ≤ 8、全篇媒體 ≤ 20（哲宇拍板，EDITORIAL v6.23）。_
 
 _v6.8.1 | 2026-09-27 twmd-maintainer — 補回 9/19 從 v6.7 快照續行時漏掉的兩條修正，都是哲宇先前拍過的：(1) 寫手讀整份研究報告含 §8 raw（v7.4，06-15〈迷音 Miin〉callout），改動多 agent 編排表、鐵律 2、Step 0.2-bis 規則 3、Step 1.7 讀取責任、Stage 2 前言；「舊文為何寫不好」的診斷改寫到 errata 旁檔，避免寫手讀整份報告時一起讀進去。(2) 先判 spine 類型再鎖核心矛盾（v7.6→v7.7，06-28〈金曲獎〉、07-06〈施振榮〉callout；MANIFESTO §13、REFLEXES #77），新增 Step 0.1.5，Step 1.4 立體群像改鎖組織主軸。觸發：Discussion #1757（kwt-klure）指出，維護班對照 v9.9 封存版驗證，OBSERVER-QUEUE #81 哲宇 2026-09-27 拍板 B。開場規則跟 EDITORIAL 五種開場互斥那一件併入 #74，這次不動。_
