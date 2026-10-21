@@ -357,3 +357,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-22 | 055734-twmd-embeddings-nightly | 〈一同走過從前〉進索引：13 語 14,794 向量 0 fail，每語 1,138 篇，verify PASS，`aa55b7865` | 同機 routine 先推上 origin，路徑式 commit 讓快轉不需處理 | [→](memory/2026-10-22-055734-twmd-embeddings-nightly.md) |
 | 2026-10-22 | 060941-twmd-data-refresh-am | 平行翻譯在寫時 --no-sync 跑完：14 步全過、0 stale，文章 1147；404 兩個跳升家族退回 68／30，告警多兩條都源自 10-17 週日空缺 | 一個空缺會在後續幾天陸續長出新告警 | [→](memory/2026-10-22-060941-twmd-data-refresh-am.md) |
 | 2026-10-22 | 064105-twmd-spore-harvest-am | 收割窗口空到第六十天，兩個動態頁掃完沒有新留言；#29 聚合仍 1.7 萬未達重抓條件，astri.iu 那列是對我們 #124 自我回覆按讚，合法空班 | 按讚列跟留言列排版相同，認列要對過去的 batch log | [→](memory/2026-10-22-064105-twmd-spore-harvest-am.md) |
+| 2026-10-22 | 071209-twmd-feedback-triage | 沉默六天後一筆真回報：沈伯洋頁民調數字「要更新了」，讀完全文判可公開轉錄，開 issue #1893；對賬 90/90 與 89/90 | 佇列有東西那輪，空佇列那三段儀器該退回待命 | [→](memory/2026-10-22-071209-twmd-feedback-triage.md) |
