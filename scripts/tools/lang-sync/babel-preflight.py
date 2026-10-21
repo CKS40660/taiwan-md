@@ -51,6 +51,7 @@ def check_openrouter_keys() -> dict:
         return {"available": False, "count": 0,
                 "hint": f"key 池空。放 sk-or-v1-* 單行檔到 {CREDS}/openrouter-keys/*.key"}
     live, dead, credited = [], [], 0
+    with_balance, balance_unknown = 0, 0
     for name, v in keys:
         req = urllib.request.Request(
             "https://openrouter.ai/api/v1/auth/key",
@@ -63,9 +64,26 @@ def check_openrouter_keys() -> dict:
                     credited += 1
         except Exception:
             dead.append(name)
+            continue
+        # 已儲值 ≠ 還有餘額（2026-10-22）：儲值過的帳號解鎖較大的免費日配額，
+        # 但付費模型（Tier 6 Haiku 走 OpenRouter）花的是餘額。七把都「已儲值」
+        # 的那一夜，七把的餘額其實全是負的，付費層整夜撞 HTTP 402。
+        creq = urllib.request.Request(
+            "https://openrouter.ai/api/v1/credits",
+            headers={"Authorization": f"Bearer {v}"})
+        try:
+            with urllib.request.urlopen(creq, timeout=8) as r:
+                c = json.loads(r.read())["data"]
+                left = float(c.get("total_credits") or 0) - float(c.get("total_usage") or 0)
+                if left > 0.5:
+                    with_balance += 1
+        except Exception:
+            balance_unknown += 1
     return {"available": bool(live), "count": len(keys), "live": len(live),
-            "dead": dead, "credited": credited,
-            "note": "credited = 已儲值帳戶（日配額約 20×free tier）"}
+            "dead": dead, "credited": credited, "with_balance": with_balance,
+            "balance_unknown": balance_unknown,
+            "note": "credited = 已儲值帳戶（日配額約 20×free tier）；"
+                    "with_balance = 餘額 > $0.5、付費模型還付得出來的帳號"}
 
 
 def check_ollama() -> dict:
@@ -377,6 +395,12 @@ def main():
         if o.get("available"):
             print(f"   ✅ OpenRouter  {o['live']}/{o['count']} 把 key 通過，"
                   f"其中 {o['credited']} 把已儲值")
+            if o.get("with_balance", 0) == 0 and not o.get("balance_unknown"):
+                print("      ⚠️ 付費餘額：每把都已花完——免費模型照跑，付費層（Tier 6 Haiku）"
+                      "會整夜撞 HTTP 402；儲值是經費決定")
+            else:
+                print(f"      付費餘額：{o.get('with_balance', 0)} 把還有餘額"
+                      + (f"（{o['balance_unknown']} 把查不到）" if o.get("balance_unknown") else ""))
             if o.get("dead"):
                 print(f"      ⚠️ 失效：{', '.join(o['dead'])}")
         else:
