@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-21 twmd-maintainer-daily — rolling-window-labelled-with-the-day-it-opened：404 帳本每一列的日期，命名的是窗口打開那天，而內容九成來自隔天
+
+- **pattern**: rolling-window-labelled-with-the-day-it-opened
+- **原則**：一個滾動 24 小時窗口如果用「窗口起點的日期」當列名，那個列名跟它的內容就指著兩個不同的日子。`monitor-404.py` 的 `fetch_days()` 是 `day_end = now - offset`、`day_start = day_end - 1 day`、`date_str = day_start.date()`——收集器在 22:03 跑，所以標著 `2026-10-19` 的那一列實際涵蓋 10-19T22:03 → 10-20T22:03，**約兩小時屬於 10-19，約二十二小時屬於 10-20**。帳本沒有壞、數字沒有錯、每天的量都是真的；錯的只有那一欄的名字。於是這份帳本可以正確地回答「有沒有在跳」「跳的節律多長」（節律對固定位移免疫），卻會在「哪一天跳的」這個問題上系統性地偏一天——而後者正是任何人拿它去對事件（部署、PR 合併、投稿者回報、事故）時唯一要問的事。
+- **觸發**：本班收 `twmd-feedback-triage` 的交接：「404 的 `bad-encoding` 與 `duplicated-lang-prefix` 兩家族 10-19 同日跳升，Cloudflare 窗口約 10-23 過期，PR #1876 是否相關」。重查 10-16〜10-20 想看 UA 組成，回收率出現 34%／**305%**／87%／35%——其中 305% 不可能是資料降解（降解只會單向變少）。把兩個序列錯開一天對照，四天全部對上：記錄 10-16=6,195 ≈ 重查 10-17=6,336、記錄 10-17=2,078 ≈ 重查 10-18=1,961、記錄 10-18=2,264 ≈ 重查 10-19=2,473、記錄 10-19=6,991 ≈ 重查 10-20=6,740。不是衰減，是位移。
+- **它差點讓我把交接答錯**：照帳本的字面讀，「10-19 跳升」發生在 PR #1876 合併（10-20T04:33）**之前**，所以我本來要寫的結論是「時序上 #1876 不可能是原因」。位移修正之後那一跳其實落在 10-20，**正好是 #1876 合併當天**，時序論證整個失效。結論沒有翻盤只是因為它另外站在兩條跟日期無關的證據上：(一) `category-hub.template.astro` 的網址是用 `${langUrlPrefix}/${category}/${slug}` **逐段組出來**的，不是把前綴接到一個已經帶前綴的路徑上，所以它在結構上產不出 `/koko/` 這種形狀；(二) `dist/`（build 於 10-20 08:59，晚於合併）全站 HTML 的 `href` 裡這種形狀是 **0 筆**。**一個站在日期上的論證跟一個站在程式碼上的論證，在這份帳本面前可信度差一個量級。**
+- **第二層代價（同一次撞出來）**：帳本每族只存 `{count, bot, browser, empty}`，**不存 UA 字串**。所以「那一跳是真人還是爬蟲」這個問題，即使在 Cloudflare 名目保留期內也已經答不出來——`httpRequestsAdaptiveGroups` 重查回來的是另一個抽樣，本班重算 10-19 的 `bad-encoding` 只剩 19 次（帳本記 2,475），拿它算出來的 UA 百分比沒有一個能引用。昨天那條 `scraper-shaped-ua-lands-in-the-bucket-labelled-reader` 提的三類拆分（`bot`／`browser`／`ua-shaped`）是對的方向，但**那個拆分必須在收集那一刻就做**，事後補不回來。
+- **可能層級**：通用反射候選（#38 混維度的時間軸變體——前面的變體都是「一個訊號承載兩種根因」，本條是「一個標籤指著兩個日子」；跟 #82 同族：`date` 欄是「這批流量發生在哪天」的替身，而它實際記的是「我從哪一刻開始往回數 24 小時」）
+- **候選機械化**：(a) `fetch_days()` 的 `date_str` 改用窗口**結束**那天，或直接改成對齊 UTC 日界的查詢（`day_end = 今天 00:00`），兩者都讓標籤跟內容指同一天；動既有時序欄位的語意會回溯改變既有讀數，所以這是決定不是 heal。(b) 每族加 `top_ua`（前 3 個 UA 字串＋次數）落檔，讓「真人還是爬蟲」在收集那一刻就被記下來。(c) 帳本加一欄 `window_start` / `window_end` 明寫實際涵蓋區間——標籤可以簡化，但區間不該只活在程式碼裡。
+- **相關**：#38（混維度）、#82（proxy signal：`date` 是日期的替身）、#67（「已驗過」要帶被驗時刻的時間戳——本條是帳本自己的時間戳在說謊）、#85（重查回來的抽樣算不出 UA 百分比，那是「不知道」不是「沒事」）、昨天的 `scraper-shaped-ua-lands-in-the-bucket-labelled-reader`（同一份帳本的另一個維度，兩條合起來是：這份帳本既不確定那天是誰來的，也不確定是哪一天）、OBSERVER-QUEUE #100（「不在 main 上」被實作成「完全不看」的同型）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-10-20 twmd-maintainer-daily — every-checkers-blind-spot-is-deliberate-so-their-intersection-has-no-owner：三支檢查器對同一件事都不叫，而每一支的不叫都是對的設計決定
 
 - **pattern**: every-checkers-blind-spot-is-deliberate-so-their-intersection-has-no-owner
