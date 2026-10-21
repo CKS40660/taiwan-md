@@ -494,10 +494,10 @@ Este artigo utiliza 7 imagens com licença CC / Domínio Público, cacheadas em 
 
 [^58]: [The Reporter: Desequilíbrio na Distribuição de Pessoal Médico de Taiwan — Vazio nas Cinco Grandes e Explosão no Mercado de Pagamento Próprio](https://www.twreporter.org/a/data-reporter-physician-shortages-by-specialty-and-subspecialty) — Em três anos, cerca de 300 novas clínicas de pagamento próprio foram adicionadas em todo o país, dificuldade em atrair residentes para as cinco grandes especialidades.
 
-[^55]: [Nan Hui Foundation: Distribuição de Recursos Médicos em Áreas Remotas](https://focustaiwan.tw/society/202504270006) — Média nacional de 508 pessoas por médico, algumas cidades e condados remotos superam 10.000; 3 cidades e condados sem médicos (Shitan, Dapu, Wuhu); Plano de Médicos Públicos recrutou 1.250 de 2016-2025.
-
 [^60]: [The Reporter: As Três Grandes Áreas de Alta Mortalidade Infantil de Taiwan — O Custo da Insuficiência de Recursos Médicos](https://www.twreporter.org/a/child-health-care-remote-areas-inequality) — Investigação de 2018 sobre a correlação entre mortalidade de lactentes e crianças e recursos médicos em Taitung, Pingtung e sul de Hualian.
 
 [^61]: [Banco de Dados de Regulamentos Nacionais: Lei de Direitos Autônomos de Pacientes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — Terceira leitura aprovada em 18 de dezembro de 2015, em vigor em 6 de janeiro de 2019, a primeira lei especializada na Ásia a proteger completamente os direitos autônomos dos pacientes.
 
 [^62]: [Comunicado de Imprensa do MOHW: Terceira Leitura das Duas Leis de Medicina Regenerativa Aprovada](https://www.mohw.gov.tw/cp-16-78933-1.html) — A Lei de Medicina Regenerativa e o Regulamento de Preparados de Medicina Regenerativa foram aprovados em terceira leitura em 4 de junho de 2024, promulgados em 19 de junho de 2024.
+
+[^59]: [Fundação Nan-Hui — Distribuição de Recursos Médicos em Zonas Rurais](https://4141.org.tw/news/detail/40) — Média nacional de 508 habitantes por médico, com algumas Townships rurais ultrapassando 10 mil; 3 Townships sem médico (Shitan, Dapu e Wuqiu); o programa de médicos financiados pelo Estado recrutou 1.250 profissionais entre 2016 e 2025.
