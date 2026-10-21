@@ -1,7 +1,7 @@
 # 2026-10-22-071209-twmd-feedback-triage — 七天沉默後第一筆真回報：沈伯洋頁的民調數字要更新，issue #1893
 
 > session twmd-feedback-triage — cron 07:00 轉錄班
-> Session span: 07:08:50 → 07:2x:xx +0800（約 15 分，1 commit）
+> Session span: 07:08:50 → 07:13:46 +0800（約 5 分，1 commit）
 > 資料來源：`git log %ai` + `date`
 
 ✅ BECOME ack: mode=review / 8 organ 最低=🛡️ 免疫 59（最大缺口 review_coverage=18.5）/ Q13=PASS / Q14=PASS
@@ -67,7 +67,7 @@ HG13 的順序照走：dry-run 先看分類（判 `content`、`needs-verificatio
 
 ---
 
-_v1.0 | 2026-10-22 07:2x +0800_
+_v1.0 | 2026-10-22 07:13 +0800_
 _session twmd-feedback-triage — cron 07:00 轉錄班；一筆內容勘誤開成 issue #1893，兩道對賬全綠_
 _誕生原因：每日 07:00 把讀者站上回報轉成 GitHub issue 接 MAINTAINER 飛輪_
 _核心洞察：空佇列那三段儀器的價值綁在「零」這個讀數上，佇列有東西的那輪它們該退回待命，補跑一次只是儀式；而讀者指出哪裡要改卻沒附新值是合法的回報，交接要寫明查核成本落在收割那邊。_
