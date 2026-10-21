@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-21T21:30:32+08:00",
-    "zhCommitHead": "f0e5795ac",
+    "lastUpdated": "2026-10-21T22:02:17+08:00",
+    "zhCommitHead": "6110a6a82",
     "totalZh": 1148,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1148,
-        "fresh": 1145,
-        "stale": 2,
+        "fresh": 1146,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -86134,18 +86134,18 @@
         "hi": {
           "path": "hi/Nature/taiwan-pangolin.md",
           "translatedFrom": "Nature/台灣穿山甲.md",
-          "sourceCommitSha": "890c5095e",
-          "sourceContentHash": "sha256:acaac66b2f5101f5",
-          "sourceBodyHash": "sha256:059668decdeffa13",
-          "translatedAt": "2026-10-16T07:57:03+08:00",
+          "sourceCommitSha": "2b967f4a1",
+          "sourceContentHash": "sha256:ee1a4e69f41642bb",
+          "sourceBodyHash": "sha256:596d8de828c02fc3",
+          "translatedAt": "2026-10-21T21:51:48+08:00",
           "translationLastCommit": "573a0a6c",
           "translationLastModified": "2026-10-16T10:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 27468,
+          "footnoteDefs": 10,
+          "bytes": 30061,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/taiwan-pangolin.md",
@@ -122304,8 +122304,8 @@
           "sourceContentHash": "sha256:d991df46b210ff83",
           "sourceBodyHash": "sha256:1f26407bb0738827",
           "translatedAt": "2026-10-21T13:07:27.796153+00:00",
-          "translationLastCommit": "7994805b",
-          "translationLastModified": "2026-10-10T17:15:42+08:00",
+          "translationLastCommit": "6110a6a8",
+          "translationLastModified": "2026-10-21T21:30:32+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 22935,
@@ -156044,8 +156044,8 @@
           "sourceContentHash": "sha256:2c73351691aac54a",
           "sourceBodyHash": "sha256:4e85011d7634bdc0",
           "translatedAt": "2026-10-21T20:47:19+08:00",
-          "translationLastCommit": "66b619dd",
-          "translationLastModified": "2026-10-10T23:41:36+08:00",
+          "translationLastCommit": "6110a6a8",
+          "translationLastModified": "2026-10-21T21:30:32+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 20567,
