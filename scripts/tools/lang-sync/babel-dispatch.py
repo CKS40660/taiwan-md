@@ -117,6 +117,13 @@ CASCADE_EXHAUSTED_FAIL_COUNT = 8
 # 付費層（Tier 6/7）對「弱適配被撤回 skip」語言的 P0 缺檔優先權：本 run 對同一篇失敗
 # 滿這個次數就還給 normal worker（見 make_task_filter._leave_to_restricted）。
 RESTRICTED_GIVEBACK_FAILS = 3
+# 付費層帳戶餘額用盡的字樣（OpenRouter 對已花完儲值的帳號回 HTTP 402）。命中就把該
+# tier 在本 run 視同額度用完，見 process_task 的 credit-out 段。
+CREDIT_OUT_MARKERS = (
+    "in_flight_budget_exhausted",
+    "exceed your available credits",
+    "Insufficient credits",
+)
 OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -753,6 +760,7 @@ class RunState:
         self.tier7_cap: int = BABEL_TIER7_NIGHTLY_CAP       # 由 main() 依 --tier7-nightly-cap 覆寫
         self.exhausted_this_run: list = []                  # ["lang:zh", ...] 本 run 觸發 cascade_exhausted 的清單
         self.restricted_tiers: frozenset = frozenset()      # 本 run 實際有 worker 的 Tier 6/7（main() 設定）
+        self.tier_credit_out: set = set()                   # 本 run 帳戶餘額用盡（HTTP 402）的 Tier 6/7，見 CREDIT_OUT_MARKERS
         self.restricted_fails: dict = defaultdict(int)      # "lang:zh" -> Tier 6/7 累計失敗次數（跨 run，見 RESTRICTED_FAILS_FILE）
         try:
             if RESTRICTED_FAILS_FILE.exists():
@@ -1834,6 +1842,28 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     if capacity_fail:
         log(f"⏸ 後端容量失敗（{worker.label}）— 不計 {lang}:{zh_path} 的難篇帳")
 
+    # 2026-10-22：付費層的帳戶餘額用盡（OpenRouter HTTP 402 in_flight_budget_exhausted）
+    # 也落在上面的容量失敗裡，但它不是「此刻沒容量、等一下就好」——錢不會自己回來。
+    # 舊行為下三個 Haiku worker 每輪先搶走 P0 缺檔、各撞一次 402，那篇又留在 round_seen，
+    # 地端與免費 worker 的補貨永遠拿不到它（10-21 夜〈一同走過從前〉ar/ru 兩輪零產出）。
+    # 處置：該 tier 本 run 視同額度用完（跟 cap reached 同一種「延後」，不算失敗），
+    # 付費層失敗的那篇從 round_seen 放回，讓 normal worker 本輪就能接。儲值屬經費決定，留給人。
+    if capacity_fail and worker.tier in ("tier6", "tier7"):
+        credit_out = any(m in primary_output for m in CREDIT_OUT_MARKERS)
+        newly_out = False
+        with state.lock:
+            state.round_seen.discard(f"{lang}:{zh_path}")
+            if credit_out and worker.tier not in state.tier_credit_out:
+                state.tier_credit_out.add(worker.tier)
+                newly_out = True
+        if newly_out:
+            report.write({
+                "ts": datetime.now().astimezone().isoformat(timespec="seconds"),
+                "event": f"{worker.tier}_credit_out", "tier": worker.tier, "worker": worker.label,
+            })
+            log(f"💳 {worker.tier} 帳戶餘額用盡（HTTP 402）— 本 run 起不再把缺檔派給 {worker.tier}，"
+                f"交回地端與免費 worker；要恢復需要儲值（經費決定）")
+
     just_exhausted = False
     with state.lock:
         state.last_worker[f"{lang}:{zh_path}"] = worker.label
@@ -1985,6 +2015,8 @@ def make_restricted_task_filter(worker: Worker, state: RunState, report: JsonlWr
         with state.lock:
             if key not in state.restricted_eligible:
                 return False
+            if worker.tier in state.tier_credit_out:
+                return False  # 帳戶餘額用盡，本 run 不再派（見 CREDIT_OUT_MARKERS）
             cap = state.tier6_cap if worker.tier == "tier6" else state.tier7_cap
             if state.tier_success_count[worker.tier] >= cap:
                 if worker.tier not in state.tier_cap_reached_logged:
@@ -2043,7 +2075,8 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
             if state.restricted_fails[key] >= RESTRICTED_GIVEBACK_FAILS:
                 return False
             caps = {"tier6": state.tier6_cap, "tier7": state.tier7_cap}
-            return any(state.tier_success_count[tier] < caps[tier] for tier in state.restricted_tiers)
+            return any(state.tier_success_count[tier] < caps[tier]
+                       for tier in state.restricted_tiers if tier not in state.tier_credit_out)
 
     def _ok(lang: str, zh_path: str) -> bool:
         if skip and lang in skip:
