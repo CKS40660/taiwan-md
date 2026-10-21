@@ -462,6 +462,17 @@
     "city": "新北"
   },
   {
+    "title": "一同走過從前：要往前走，先知道我們是怎麼來的",
+    "lat": 24.449,
+    "lng": 118.377,
+    "category": "culture",
+    "region": "islands",
+    "link": "/culture/%E4%B8%80%E5%90%8C%E8%B5%B0%E9%81%8E%E5%BE%9E%E5%89%8D",
+    "lang": "zh-TW",
+    "desc": "1988 年 7 月，國民黨十三全開幕前夕，殷允芃讓天下雜誌的四集紀錄片在台視連播四天。攝影家張照堂替一份文字稿去找走過那四十年的人：當過養女的紀政、年年被加租的佃農、在山裡炸路的榮民。天下從創刊就在問台灣怎麼走到今天，片子的回答落在這些人身上，後來還有一捲錄影帶被帶進北京。",
+    "city": "金門"
+  },
+  {
     "title": "中元節：從安撫孤魂的恐懼，到一座島嶼的集體和解",
     "lat": 25.128,
     "lng": 121.739,
@@ -1430,6 +1441,17 @@
     "city": "台南"
   },
   {
+    "title": "台灣企業：富邦金控",
+    "lat": 25.027049,
+    "lng": 121.560907,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
+    "lang": "zh-TW",
+    "desc": "1961 年，32 歲的蔡萬才帶著 10 名員工與 600 萬資本，在台北衡陽路一間 10 坪辦公室創立國泰產險，選擇專攻公營保險公司不屑服務的小客戶。1992 年與國泰集團分家、1997 年以 165 億收購台北銀行，富邦從產險跨進銀行、電信、棒球、媒體與育樂，成為總資產 11.9 兆新台幣、市值台灣第一、員工超過 6 萬人的金控。兄弟接班、政經分離的權力平衡、跨海的地理風險，以及數位轉型與永續金融，逐一拆開這 65 年。",
+    "city": "台北"
+  },
+  {
     "title": "台灣企業：巨大機械",
     "lat": 25.031059,
     "lng": 121.561393,
@@ -1739,8 +1761,8 @@
   },
   {
     "title": "新臺幣：四萬換一元之後，直到 2000 年才成為國幣",
-    "lat": 24.449,
-    "lng": 118.377,
+    "lat": 24.451962,
+    "lng": 118.384055,
     "category": "economy",
     "region": "islands",
     "link": "/economy/%E6%96%B0%E5%8F%B0%E5%B9%A3",
@@ -2856,7 +2878,7 @@
     "region": "central",
     "link": "/geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
     "lang": "zh-TW",
-    "desc": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
+    "desc": "3.6 萬平方公里的台灣擠下 5.9 萬種已知生物，密度是全球平均的 100 倍，超過 30% 的物種是全世界獨一無二的特有種。垂直 4,000 公尺的氣候電梯，讓這座島嶼在彈丸之地重現半個地球的氣候帶：世界緯度最低的鮭魚櫻花鉤吻鮭只剩七家灣溪，海拔 1,500 到 2,500 公尺的台灣山椒魚棲地已從 11 個地點縮到 7 個。台灣黑熊全台約 200 到 600 隻，每隻需要 30 到 40 平方公里活動空間；這座生命密度全球最高的舞台，還能替野生動物留多少空間？",
     "city": "南投"
   },
   {
@@ -3670,7 +3692,7 @@
     "region": "south",
     "link": "/history/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95",
     "lang": "zh-TW",
-    "desc": "1987年，一個19歲的鄒族青年在台北刑場被槍決。他的死，點燃了正名運動最初的火。",
+    "desc": "1987 年，19 歲的鄒族青年湯英伸在台北刑場被槍決，他的死點燃了台灣原住民族正名運動最初的火。從 1984 年原權會成立、1988 年吳鳳銅像被推倒與「還我土地」遊行，到 1994 年憲法把「山胞」改為「原住民」、2005 年原住民族基本法補上「族」字，這條路走了 21 年。荷蘭的歸化蕃與野蕃、清朝的熟番生番、日治的蕃人理蕃、戰後的山胞，每個名字都是一把鎖；前三次是別人替你命名，後兩次才是你自己搶回來的。",
     "city": "嘉義"
   },
   {
@@ -5078,7 +5100,7 @@
     "region": "central",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%99%BD%E6%B5%B7%E8%B1%9A",
     "lang": "zh-TW",
-    "desc": "2020 年台灣西岸白海豚終於擁有 763 平方公里的法定重要棲息環境，但漁具、港口、污染與水下噪音仍在同一片淺海裡競逐。",
+    "desc": "2025 年 11 月，一隻編號 OCA023、研究者叫牠「Scissors」的成年雄性白海豚擱淺死在彰化伸港，是 2009 年以來至少第十起。牠所屬的族群從 2002 年估計約 99 隻掉到 2025 年的 45 至 50 隻，一整年只生得出兩、三隻小海豚。2020 年政府把牠們的家畫成 763 平方公里的法定重要棲息環境，2026 年台中港卻在這片範圍裡用廢土填海，環保團體宣布要替白海豚提起訴訟。法定地圖已經畫好，安全的海還沒有。",
     "city": "台中"
   },
   {
@@ -5111,7 +5133,7 @@
     "region": "north",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
     "lang": "zh-TW",
-    "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群穩定甚至回升，成為少見的保育成功案例，讓世界看見物種滅絕並非命定。",
+    "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群狀況趨於穩定，成為少見的保育案例，讓世界看見物種滅絕並非命定。",
     "city": "台北"
   },
   {
@@ -5837,7 +5859,7 @@
     "region": "north",
     "link": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
     "lang": "zh-TW",
-    "desc": "台北市第七選區立法委員。1989 年生於台北早餐店家庭，2013 年 24 歲成國民黨史上最年輕中常委，2024 年 89,727 票擊敗許淑華進入立法院。2025 大罷免 6.2 萬同意票達門檻仍被否決；2026 軍購協商提出 8000 億版本與黨中央 3800 億+N 對撞，季麟連點名「不要做親痛仇快的事」。",
+    "desc": "台北市第七選區立法委員徐巧芯，1989 年 11 月 18 日生於信義區一間全年無休的西式早餐店，原名徐美鳳，因璩美鳳光碟事件改名。2013 年 11 月 13 日，24 歲的她坐進國民黨第十九屆中常委最年輕的那張椅子；2024 年 1 月 13 日以 89,727 票擊敗許淑華當選立委。2025 年 7 月 26 日罷免案同意 62,633 票達門檻仍被否決；2026 年 4 月 27 日軍購協商拋出 8000 億版本，與黨中央的 3800 億加 N 對撞，季麟連點名不要做親痛仇快的事。共諜烏龍、IPEF 與援烏密件三案，逐一拆解這條流量年輕化的路徑。",
     "city": "台北"
   },
   {
@@ -8400,7 +8422,7 @@
     "region": "north",
     "link": "/technology/mini-taiwan-pulse",
     "lang": "zh-TW",
-    "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+    "desc": "2026 年，資料分析師 Migu 把一份 CSV 拖進 Kepler.gl，螢幕上長出第一張台灣地圖。兩年後，最紅的 mini-taiwan-pulse 在 GitHub 累積 375 顆星，把天空、海洋、大地、街道、清運五種即時資料疊成一張會動的地圖。中央五萬筆、二十幾個縣市平台的開放資料，人腦掃不完，他的解法不是多找人，而是交給一套由 AI Agent 編排、會自己長大的系統，人只負責出題與驗收。從都市計畫訓練出的策展眼睛，到 tmux 裡一條自己跑完的火災 pipeline，一個人的 GitHub 怎麼長成一片星系。",
     "city": "桃園"
   },
   {
@@ -9075,6 +9097,17 @@
     "city": "南投"
   },
   {
+    "title": "دولفين تايوان الأبيض: رغم وجود موطن قانوني، لا يزال يفتقر إلى بحر آمن حقًا",
+    "lat": 24.145176,
+    "lng": 120.678452,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "في نوفمبر 2025، نفق دولفين أبيض بالغ يحمل الرقم OCA023 واسم \"سكيسورز\" على شاطئ شينغانغ في تشانغهوا، ليكون الحالة العاشرة على الأقل منذ 2009. انخفضت أعداده من نحو 99 فردًا عام 2002 إلى 45-50 فردًا عام 2025، مع ولادة دولفينين أو ثلاثة فقط سنويًا. عام 2020، حددت الحكومة موطنًا مهمًا قانونيًا بمساحة 763 كم²، لكن ميناء تايتشونغ بدأ عام 2026 ردمًا بحريًا داخل هذا النطاق، فأعلنت جمعيات بيئية نيتها رفع دعوى قضائية. الخريطة القانونية رُسمت، لكن البحر الآمن لم يتحقق بعد.",
+    "city": "台中"
+  },
+  {
     "title": "بومة السمك البنية: ستة كيلومترات من المجرى المائي لرعاية زوج واحد، على شجرة \"وو هسين شي\" (烏心石) بارتفاع 1,800 متر — الجارح الليلي",
     "lat": 24.150409,
     "lng": 121.623696,
@@ -9471,6 +9504,17 @@
     "city": "南投"
   },
   {
+    "title": "Taiwans Weißer Delfin: Trotz gesetzlich geschütztem Lebensraum fehlt ein sicheres Revier",
+    "lat": 24.141946,
+    "lng": 120.671529,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Im November 2025 strandete ein ausgewachsener männlicher Weißer Delfin namens „Scissors“ (OCA023) in Shengang, Changhua – der zehnte Fall seit 2009. Die Population sank von geschätzten 99 Tieren im Jahr 2002 auf nur noch 45 bis 50 im Jahr 2025. Während die Regierung 2020 ein Schutzgebiet von 763 km² festlegte, plant der Hafen von Taichung für 2026 Landgewinnung durch Abfallmaterial in diesem Bereich; Umweltgruppen kündigen Klagen an.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.167595,
     "lng": 121.446838,
@@ -9788,6 +9832,17 @@
     "lang": "en",
     "desc": "During the 2023 Lunar New Year, the 'Tree Hunters' team spent seven days trekking upstream. In a remote canyon at the headwaters of the Da'an River, almost inaccessible to humans, they lowered a measuring tape from the canopy of a Taiwan Red Cypress—84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR predictions had suggested. On an island plagued by annual typhoons, landslides, and floods, such height should not be able to survive; yet, because it grew in a canyon unreachable by humans, it escaped large-scale logging and endured for seven hundred years. This same 'unreachability' allowed it to survive, and it was only after we scanned the entire island with lasers that we finally discovered it this year.",
     "city": "苗栗"
+  },
+  {
+    "title": "Taiwanese White Dolphins: With Legal Habitats Established, They Still Lack Truly Safe Seas",
+    "lat": 24.146573,
+    "lng": 120.674241,
+    "category": "nature",
+    "region": "central",
+    "link": "/en/nature/taiwanese-white-dolphin",
+    "lang": "en",
+    "desc": "In November 2025, an adult male white dolphin (OCA023, named \"Scissors\") stranded and died in Shengang, Changhua—the tenth such case since 2009. Their population has plummeted from an estimated 99 in 2002 to just 45–50 in 2025, with only two or three calves born annually. While the government designated 763 km² as a legal habitat in 2020, Taichung Port plans to use waste soil for land reclamation within this area in 2026, prompting environmental groups to announce litigation on behalf of the dolphins.",
+    "city": "台中"
   },
   {
     "title": "Chiang Wan-an: Taipei Mayor with a Legal Background, Overseeing the Dome, Urban Renewal, Gonguan Roundabout, and Fiscal Allocation Act Disputes",
@@ -10228,6 +10283,17 @@
     "lang": "zh-TW",
     "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
     "city": "苗栗"
+  },
+  {
+    "title": "El delfín blanco de Taiwán: aunque tiene un hábitat legal, aún no tiene un mar verdaderamente seguro",
+    "lat": 24.146423,
+    "lng": 120.676999,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "En noviembre de 2025, un delfín blanco adulto macho identificado como OCA023, al que los investigadores llamaban «Scissors», varó y murió en Shengang, Changhua, el décimo caso desde 2009. Su población pasó de unas 99 estimadas en 2002 a 45-50 en 2025, con solo dos o tres crías al año. En 2020 el gobierno designó 763 km² como hábitat importante legal; en 2026 el puerto de Taichung rellenó con tierra de desecho dentro de esa zona, y grupos ecologistas anunciaron una demanda. El mapa legal está trazado, pero el mar seguro aún no existe.",
+    "city": "台中"
   },
   {
     "title": "Chen Cheng-po",
@@ -10681,6 +10747,17 @@
     "city": "澎湖"
   },
   {
+    "title": "Le dauphin blanc de Taïwan : un habitat légal désigné, mais toujours pas de mer véritablement sûre",
+    "lat": 24.150314,
+    "lng": 120.666943,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "En novembre 2025, un dauphin blanc mâle adulte, identifié OCA023 et surnommé « Scissors » par les chercheurs, s'est échoué et est mort à Chenggong, Changhua — au moins le dixième cas depuis 2009. Sa population est passée d'environ 99 individus en 2002 à 45-50 en 2025, avec seulement deux ou trois naissances par an. En 2020, le gouvernement a désigné 763 km² d'habitat important légal ; en 2026, le port de Taichung y a procédé à des remblais avec des déblais, poussant les ONG à annoncer des poursuites judiciaires. La carte légale est tracée, mais la mer sûre n'existe pas encore.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson laissée par son grand-père maternel un océan",
     "lat": 22.029275,
     "lng": 121.553535,
@@ -11055,6 +11132,17 @@
     "city": "台北"
   },
   {
+    "title": "ताइवान: पारिस्थितिक विविधता का हॉटस्पॉट",
+    "lat": 23.473147,
+    "lng": 120.952048,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/taiwan-biodiversity-hotspots",
+    "lang": "zh-TW",
+    "desc": "36,000 वर्ग किमी के ताइवान में 59,000 ज्ञात प्रजातियाँ समाई हैं, घनत्व वैश्विक औसत का 100 गुना, 30% से अधिक प्रजातियाँ विश्व में अद्वितीय स्थानिक प्रजातियाँ हैं। 4,000 मीटर की ऊर्ध्वाधर \"जलवायु लिफ्ट\" इस द्वीप को छोटी सी जगह में पृथ्वी के आधे जलवायु क्षेत्रों को पुनर्जीवित करने देती है: विश्व में सबसे कम अक्षांश वाला सैल्मन, चेरी हुक्ड सैल्मन (Oncorhynchus masou formosanus) केवल चिआजियावान नदी में बचा है, 1,500 से 2,500 मीटर ऊंचाई पर ताइवान सालमैंडर का आवास 11 स्थानों से सिमटकर 7 रह गया है। पूरे ताइवान में लगभग 200-600 ताइवान काले भालू हैं, प्रत्येक को 30-40 वर्ग किमी गतिविधि क्षेत्र चाहिए; विश्व में सर्वाधिक जीवन घनत्व वाले इस मंच पर वन्यजीवों के लिए कितनी जगह बची है?",
+    "city": "南投"
+  },
+  {
     "title": "ताइवान के गर्म झरनों का भू-दृश्य",
     "lat": 22.696366,
     "lng": 121.024297,
@@ -11196,6 +11284,17 @@
     "lang": "zh-TW",
     "desc": "2023 के चंद्र नव वर्ष में, 'पेड़ खोजने वाले' दल ने सात दिनों तक नाले में ट्रेकिंग की और दाआनक्सी के उद्गम स्थल पर एक ऐसी गहरी घाटी में एक टैईवान देवदार का पेड़ पाया जहाँ शायद ही कोई पहुँच पाता हो—उसकी ऊँचाई 84.1 मीटर थी, जो पूर्व एशिया का सबसे ऊँचा पेड़ है। यह लेजर रेंजिंग की भविष्यवाणी से 4.6 मीटर अधिक था। एक ऐसा द्वीप जो हर साल तूफान और बाढ़ झेलता है, उसे इस तरह की ऊँचाई वाली जीवनरेखा नहीं रखनी चाहिए; लेकिन यह इसलिए बच पाया क्योंकि यह मानव पहुँच से दूर नाले में उगता रहा और सात सौ वर्षों तक टिका रहा। इसी 'दुर्गमता' ने इसे जीवित रखा, और इसने हमें पूरे द्वीप को लेजर स्कैन करने के लिए प्रेरित किया, जिससे हम इस वर्ष पहली बार इसका पता लगा पाए।",
     "city": "苗栗"
+  },
+  {
+    "title": "ताइवान का सफेद डॉल्फिन: कानूनी आवास मिलने के बावजूद, इसे वास्तव में सुरक्षित समुद्री क्षेत्र नहीं मिला",
+    "lat": 24.140398,
+    "lng": 120.677654,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "नवंबर 2025 में, OCA023 नंबर वाला एक वयस्क नर सफेद डॉल्फिन, जिसे शोधकर्ता \"कैंची\" कहते थे, चांगहुआ के शेंगांग में मृत पाया गया — 2009 के बाद से कम से कम दसवीं ऐसी घटना। इसकी आबादी 2002 के अनुमानित 99 से गिरकर 2025 में 45-50 रह गई, साल भर में केवल दो-तीन बछड़े पैदा होते हैं। 2020 में सरकार ने 763 वर्ग किमी का कानूनी महत्वपूर्ण आवास घोषित किया, लेकिन 2026 में ताइचुंग बंदरगाह ने इसी क्षेत्र में मलबे से समुद्र भरना शुरू कर दिया, जिसके बाद पर्यावरण समूहों ने डॉल्फिन की ओर से मुकदमा दायर करने की घोषणा की। कानूनी नक्शा तैयार है, लेकिन सुरक्षित समुद्र अभी नहीं।",
+    "city": "台中"
   },
   {
     "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
@@ -11724,6 +11823,17 @@
     "lang": "zh-TW",
     "desc": "Pada perayaan Tahun Baru Imlek 2023, tim \"Pencari Pohon\" menelusuri sungai selama tujuh hari, di hulu Sungai Daan di sebuah lembah dalam yang hampir tidak bisa dijangkau orang, mereka menurunkan pita ukur dari mahkota seorang pohon cemara Taiwan — 84,1 meter, pohon tertinggi di Asia Timur. Ia lebih tinggi 4,6 meter dari prediksi LiDAR. Sebuah pulau yang setiap tahun dilanda badai taiup, longsor, dan banjir, seharusnya tidak mampu mempertahankan kehidupan setinggi ini; tetapi justru karena tumbuh di lembah yang tidak bisa dijangkau manusia, ia luput dari penebangan massal dan bertahan selama tujuh ratus tahun. Keterjangkauan yang sama yang membuatnya selamat, juga membuat kita harus memindai seluruh pulau dengan laser, baru tahun ini kita melihatnya untuk pertama kalinya.",
     "city": "苗栗"
+  },
+  {
+    "title": "Lumba-lumba Putih Taiwan: Meski Memiliki Habitat Legal, Mereka Masih Belum Memiliki Perairan yang Aman",
+    "lat": 24.141188,
+    "lng": 120.680729,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Pada November 2025, seekor lumba-lumba putih jantan dewasa bernomor OCA023 yang dijuluki \"Scissors\" oleh peneliti terdampar dan mati di Shengang, Changhua, menjadi kasus kesepuluh sejak 2009. Populasinya menyusut dari estimasi 99 ekor pada 2002 menjadi hanya 45 hingga 50 ekor pada 2025, dengan tingkat kelahiran hanya dua atau tiga anak per tahun. Pada 2020, pemerintah menetapkan rumah mereka sebagai habitat penting legal seluas 763 km², namun pada 2026, Pelabuhan Taichung melakukan reklamasi menggunakan tanah limbah di area tersebut, memicu kelompok lingkungan untuk mengajukan gugatan demi lumba-lumba putih. Peta legal telah dibuat, tetapi laut yang aman belum ada.",
+    "city": "台中"
   },
   {
     "title": "Chen Cheng-po",
@@ -12474,14 +12584,14 @@
     "city": "屏東"
   },
   {
-    "title": "ラアルアルア族：「南シュウ」から自分たちの名前へ、聖貝祭が守ったもの",
+    "title": "ラアルア族：「南鄒」から自らの名へ、聖貝祭が守り抜いたもの",
     "lat": 22.620105,
     "lng": 120.307703,
     "category": "culture",
     "region": "south",
     "link": "/ja/culture/hla-alua-people",
     "lang": "ja",
-    "desc": "2014年6月26日、ラアルアルア族が台湾で15番目に正式に認定された原住民族となった。これは鄒族との関係を断つことではなく、桃源の四社、聖貝祭、そして絶滅間近の族語の間で、かつて合併されてしまった名前を再びその名前を使う人々に返すことだった。",
+    "desc": "2014年6月26日、ラアルア族は台湾で15番目に正式に認定された原住民族となりました。これは鄒族との関係を断つことではなく、桃源四社、聖貝祭、そして危機に瀕した言語の間で、かつて統合されていた名前を、それを使う人々の元へと再び取り戻すプロセスなのです。",
     "city": "高雄"
   },
   {
@@ -13101,6 +13211,17 @@
     "city": "嘉義"
   },
   {
+    "title": "ともに歩んできた過去：前に進むには、まず私たちがどうここに来たかを知ることから",
+    "lat": 24.456162,
+    "lng": 118.384834,
+    "category": "culture",
+    "region": "islands",
+    "link": "/ja/culture/walking-through-the-past-together",
+    "lang": "ja",
+    "desc": "1988年7月、国民党第13回全国代表大会（十三全）開幕の前夜、殷允芃氏が『天下雑誌』の4部作ドキュメンタリーを台視で4日間連続放送させた。写真家の張照堂氏が一本の台本のために、あの40年を生き抜いた人々を訪ねた：養女として育てられた紀政、毎年小作料を値上げされる小作農、山中で道路建設のために爆破作業を行った榮民。『天下雑誌』は創刊以来、台湾がいかにして今日に至ったかを問い続けてきたが、その答えはこの作品の中で、これらの人々の姿に委ねられている。後に一本のビデオテープが北京へ持ち込まれた。",
+    "city": "金門"
+  },
+  {
     "title": "塩水蜂炮：砲城が語る、疫病の記憶を街に残す方法",
     "lat": 22.992829,
     "lng": 120.220899,
@@ -13385,6 +13506,17 @@
     "lang": "ja",
     "desc": "1949年台南の小さな工場から世界の化学工業の巨頭へ。「上場せず、借金せず」の隠れたチャンピオンの物語",
     "city": "台南"
+  },
+  {
+    "title": "台湾企業：富邦金控",
+    "lat": 25.037459,
+    "lng": 121.572442,
+    "category": "economy",
+    "region": "north",
+    "link": "/ja/economy/taiwan-enterprise-fubon-financial",
+    "lang": "ja",
+    "desc": "1961年、32歳の蔡萬才は10名の従業員と600万元の資本を携え、台北市の衡陽路にある10坪のオフィスで国泰產險を設立しました。当時、公営保険会社が相手にしない小規模な顧客層に特化することを選択したのです。1992年に国泰グループから分離し、1997年には165億元で台北銀行を買収。富邦は損害保険業から銀行、通信、プロ野球、メディア、娯楽へと事業を拡大し、総資産NT$11.9兆、時価総額台湾第一、従業員数6万人を超える金融ホールディングスへと成長しました。兄弟による事業継承、政経分離による権力の均衡、海を越えた地理的リスク、そしてデジタルトランスフォーメーションとサステナブルファイナンス。この65年の歩みを紐解きます。",
+    "city": "台北"
   },
   {
     "title": "台湾企業：统一企业",
@@ -15011,7 +15143,7 @@
     "region": "central",
     "link": "/ja/geography/taiwan-biodiversity-hotspots",
     "lang": "ja",
-    "desc": "3.6万平方キロメートルの島に5.9万種以上の生物がひしめき、密度は世界平均の100倍に達する",
+    "desc": "3.6万平方キロメートルの台湾には、5.9万種の既知生物が生息しており、その密度は世界平均の100倍に達します。また、種の30%以上が世界で唯一の固有種です。垂直方向に4,000メートルもの変化がある気候の階段により、この小さな島には地球の半分の気候帯が凝縮されています。世界で最も低緯度に生息するサケ科のイトコ（桜花鉤吻鮭）は七家湾渓のみに残され、標高1,500〜2,500メートルの台湾サンショウウオの生息地は11カ所から7カ所へと減少しました。台湾黒熊は全島に約200〜600頭生息していますが、一頭あたり30〜40平方キロメートルの活動空間を必要とします。世界最高レベルの生命密度を誇るこの舞台で、野生動物のためにあとどれほどの空間を残せるでしょうか。",
     "city": "南投"
   },
   {
@@ -15466,14 +15598,14 @@
     "city": "新竹"
   },
   {
-    "title": "台湾原住民族の歴史と正名運動",
+    "title": "台湾先住民族の歴史と名称是正運動",
     "lat": 23.512331,
     "lng": 120.702654,
     "category": "history",
     "region": "south",
     "link": "/ja/history/indigenous-peoples-history-and-naming-movement",
     "lang": "ja",
-    "desc": "1987年、19歳のツォウ族（鄒族）の青年が台北の刑場で銃殺された。彼の死が、正名運動の最初の火を灯した。",
+    "desc": "1987年、19歳の鄒族青年であった湯英伸が台北の刑場で銃殺されました。彼の死は、台湾先住民族の名称是正運動に最初の火を灯しました。1984年の原住民権利会の設立、1988年の呉鳳像の引き倒しと「土地を返せ」デモから、1994年に憲法上の「山胞」が「原住民」へと改められ、2005年に原住民族基本法に「族」の文字が加えられるまで、この道のりは21年間に及びました。オランダ統治時代の帰化番と野番、清朝時代の熟番と生番、日本統治時代の蕃人理蕃政策、戦後の山胞といった、それぞれの名称は一種の枷でした。最初の3回は他人に名付けられたものであり、後の2回こそが自分たちで勝ち取ったものなのです。",
     "city": "嘉義"
   },
   {
@@ -16687,14 +16819,14 @@
     "city": "台南"
   },
   {
-    "title": "台湾の鯨豚",
+    "title": "台湾の鯨類",
     "lat": 23.995395,
     "lng": 121.595508,
     "category": "nature",
     "region": "east",
     "link": "/ja/nature/cetaceans-of-taiwan",
     "lang": "ja",
-    "desc": "世界の鯨豚種の3分の1が生息する海域です——かつての捕鯨から現在のホエールウォッチング（賞鯨）へ、台湾はいかにして海洋生態研究の重要拠点へと転換したのでしょうか？",
+    "desc": "世界の鯨類の約3分の1が生息する場所——かつての捕鯨から今日のホエールウォッチングへ、台湾はいかにして海洋生態研究の拠点へと転身したのか？",
     "city": "花蓮"
   },
   {
@@ -16984,14 +17116,14 @@
     "city": "南投"
   },
   {
-    "title": "台湾のセンザンコウ",
+    "title": "台湾穿山甲（タイワン・センザンコウ）",
     "lat": 25.039285,
     "lng": 121.562721,
     "category": "nature",
     "region": "north",
     "link": "/ja/nature/taiwan-pangolin",
     "lang": "ja",
-    "desc": "世界で最も密輸されている哺乳類動物であるセンザンコウの台湾亜種は、台湾で安全な家を見つけました。アジアの他の地域の仲間が密輸によって絶滅の危機に瀕しているとき、台湾は厳格な法的保護、生息地の維持、科学的研究、さらに人工繁殖によって、個体群を安定させ、さらに増加させることに成功し、珍しい保全成功事例となり、世界に種の絶滅が運命ではないことを示しました。",
+    "desc": "世界で最も密輸される哺乳類である穿山甲の台湾亜種が、台湾で安全な生息地を見つけた。アジアの他地域では密輸により絶滅の危機に瀕する中、台湾は厳格な法的保護、生息地の維持、科学的研究、そして人工繁殖により個体群の状況を安定させ、稀有な保全成功事例となり、種の絶滅が宿命ではないことを世界に示した。",
     "city": "台北"
   },
   {
@@ -17028,14 +17160,14 @@
     "city": "苗栗"
   },
   {
-    "title": "台湾の白イルカ：法定生息地が指定されても、依然として真の安全な海域はない",
+    "title": "台湾の白海豚：法定生息地を得ても、なお真に安全な海域はない",
     "lat": 24.155424,
     "lng": 120.68178,
     "category": "nature",
     "region": "central",
     "link": "/ja/nature/taiwanese-white-dolphin",
     "lang": "ja",
-    "desc": "2020年、台湾西海岸の白イルカがついに763平方キロメートルの法定重要生息環境を持つに至ったが、漁具、港湾、汚染、水中騒音が依然として同じ浅海で競合している。",
+    "desc": "2025年11月、研究者が「Scissors」と呼ぶ成体雄性の白海豚が彰化県伸港で座礁死した。個体数は激減し、繁殖も極めて困難な状況にある中、台中港での埋め立て計画が法定生息地を脅かしており、環境団体は訴訟を準備している。",
     "city": "台中"
   },
   {
@@ -17853,14 +17985,14 @@
     "city": "花蓮"
   },
   {
-    "title": "徐巧芯：朝食店の娘から「8000億円軍事調達」議員へ――流量で若返らせる政治家",
+    "title": "徐巧芯：朝食店の娘から「NT$8000億軍購」立委への流量若年化",
     "lat": 25.027044,
     "lng": 121.57253,
     "category": "people",
     "region": "north",
     "link": "/ja/people/hsu-chiao-hsin",
     "lang": "ja",
-    "desc": "台北市第七選挙区立法委員。1989年、台北市の朝食店家庭に生まれる。2013年、24歳で国民党史上最若の中央常務委員となる。2024年、89,727票で許淑華を破り立法院入り。2025年大罷免では6.2万の同意票が法定基準に達したが否決。2026年軍事調達協議で8000億バージョンを提示し、党中央の3800億+N案と激突。季麟連が「親痛仇快のことはするな」と名指しで警告。",
+    "desc": "台北市第七選挙区選出の立法委員、徐巧芯氏は1989年11月18日、信義区の年中無休の洋風朝食店で生まれました。本名は徐美鳳でしたが、璩美鳳（チュ・メイフォン）のビデオ事件をきっかけに改名しました。2013年11月13日、24歳で中国国民党第19期中央常務委員会の最年少委員となりました。2024年1月13日、89,727票を獲得し許淑華氏を破って立法委員に当選しました。2025年7月26日、罷免案の賛成票が62,633票に達し要件を満たしながらも否決されました。2026年4月27日、軍購協議でNT$8000億版を提示し、党中央のNT$3800億プラスN案と衝突しました。季麟連氏が名指しで「身内を傷つけ敵を喜ばせるようなことはするな」と釘を刺しました。共諜疑惑の誤報、IPEF（インド太平洋経済枠組み）およびウクライナ支援機密文書の3案件について、この流量若年化の道筋を一つずつ解説します。",
     "city": "台北"
   },
   {
@@ -20229,6 +20361,17 @@
     "city": "台北"
   },
   {
+    "title": "Mini Taiwan Pulse：キュレーターの視点で、台湾を「呼吸する地図」へと描き出す",
+    "lat": 25.039524,
+    "lng": 121.560767,
+    "category": "technology",
+    "region": "north",
+    "link": "/ja/technology/mini-taiwan-pulse-civic-tech",
+    "lang": "ja",
+    "desc": "2026年、データアナリストのMigu氏はCSVファイルをKepler.glにドラッグし、画面上に初めての台湾地図を描き出した。2年後、GitHubで375スターを獲得した人気プロジェクト「mini-taiwan-pulse」は、空、海、大地、街路、廃棄物収集という5つのリアルタイムデータを重ね合わせ、動き続ける地図を実現した。中央政府の5万件、20以上の自治体プラットフォームに散らばるオープンデータは、人間の目では追いきれない。彼の解法は、人員を増やすことではなく、AI Agentが編成し自律的に成長するシステムに委ねることだった。都市計画で培ったキュレーションの視点から、tmux内で完結する火災分析パイプラインまで。一人のGitHubがいかにして一つの銀河系へと成長したのか。",
+    "city": "台北"
+  },
+  {
     "title": "台湾におけるNVIDIA：世界で最も高価な企業は、一つのチップも自社で作っていません",
     "lat": 25.028659,
     "lng": 121.56377,
@@ -21142,6 +21285,17 @@
     "city": "台東"
   },
   {
+    "title": "타이완 흰돌고래: 법정 서식지가 생겼는데도, 여전히 진정한 안전 해역은 없다",
+    "lat": 24.142982,
+    "lng": 120.672071,
+    "category": "nature",
+    "region": "central",
+    "link": "/ko/nature/taiwanese-white-dolphin",
+    "lang": "ko",
+    "desc": "2025년 11월, 번호 OCA023, 연구자들이 '시저스(Scissors)'라 부르던 성체 수컷 흰돌고래가 장화(彰化) 신강(伸港)에서 좌초사한 채 발견되어 2009년 이후 최소 10번째 사례가 되었다. 이 개체군이 속한 집단은 2002년 약 99마리로 추정되던 것이 2025년 45~50마리로 줄었고, 1년에 고작 두세 마리 새끼만 태어난다. 2020년 정부가 이들의 터전을 763㎢의 법정 중요서식환경으로 지정했으나, 2026년 타이중항(台中港)이 이 범위 안에서 폐토로 매립을 강행하자 환경단체들이 흰돌고래를 대리해 소송을 제기했다. 법정 지도엔 이미 선이 그어졌지만, 안전한 바다는 아직 없다.",
+    "city": "台中"
+  },
+  {
     "title": "앙드레 치앙: 무언가로 완전히 정의되기 전에, 그는 늘 먼저 돌아섰다",
     "lat": 24.750158,
     "lng": 121.75819,
@@ -21725,6 +21879,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Golfinho-branco de Taiwan: mesmo com habitat legalmente designado, ainda não tem um mar verdadeiramente seguro",
+    "lat": 24.152899,
+    "lng": 120.677614,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Em novembro de 2025, um golfinho-branco macho adulto identificado como OCA023, apelidado de \"Scissors\" pelos pesquisadores, encalhou e morreu no porto de Shengang, em Changhua — pelo menos o décimo caso desde 2009. A população, estimada em cerca de 99 indivíduos em 2002, caiu para 45 a 50 em 2025, com apenas dois ou três filhotes nascendo por ano. Em 2020, o governo delimitou 763 km² como habitat importante legalmente protegido; em 2026, o porto de Taichung realizou aterro com solo dragado dentro dessa área, levando ONGs a anunciarem ação judicial. O mapa legal está desenhado, mas o mar seguro ainda não existe.",
+    "city": "台中"
+  },
+  {
     "title": "Coruja-pescadora-taiwanesa: seis quilómetros de rio para um casal, a rapina noturna no wu-hsin-shih (烏心石) a 1.800 metros",
     "lat": 24.163283,
     "lng": 121.613709,
@@ -22097,6 +22262,17 @@
     "lang": "zh-TW",
     "desc": "На лунный Новый год 2023 года команда «Ищущие деревья» провела семь дней, поднимаясь по ручью, и в глубоком ущелье у истока реки Дааньси, куда почти никто не может попасть, спустила рулет с вершины одной тайваньской сугги — 84,1 метра, самое высокое дерево Восточной Азии. Оно оказалось на 4,6 метра выше прогноза лидарной съемки. Остров, который ежегодно поражают тайфуны, где происходят обвалы и наводнения, по идее не должен сохранять жизнь такой высоты; но именно потому, что оно растет в ущелье, недоступном для людей, ему удалось избежать массовой вырубки и пережить семьсот лет. Та же самая «недоступность» и спасла его, и заставила нас сканировать лидаром весь остров, чтобы только в этом году впервые увидеть его.",
     "city": "苗栗"
+  },
+  {
+    "title": "Тайваньский белый дельфин: законная среда обитания есть, а настоящей безопасной акватории — нет",
+    "lat": 24.143412,
+    "lng": 120.669672,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "В ноябре 2025 года взрослый самец белого дельфина под номером OCA023, которого исследователи называли «Scissors», бросился на берег и погиб в Чэньган (Чжаньцзяо) в округе Чжаньхуа — уже как минимум десятый случай с 2009 года. Популяция, которой он принадлежал, сократилась с оцененных 99 особей в 2002 году до 45–50 в 2025 году, при этом за целый год рождается всего две-три детеныша. В 2020 году правительство обозначило их дом как 763 км² законной важной среды обитания, но в 2026 году порт Тайчжун начал засыпать эту территорию отвалами, и экологические организации объявили о намерении подать в суд за белых дельфинов. Законная карта нарисована, но безопасного моря всё ещё нет.",
+    "city": "台中"
   },
   {
     "title": "Чжэнь Чжонь: трех раз избран в Совет города Каосинга, два срока заканчиваются в законодательных актах",
@@ -22537,6 +22713,17 @@
     "lang": "zh-TW",
     "desc": "Vào dịp Tết Nguyên Đán năm 2023, đội ngũ Tìm Cây đã thực hiện chuyến ngược dòng suối kéo dài bảy ngày. Tại một thung lũng sâu gần như không dấu chân người ở thượng nguồn sông Đại An Khê, họ đã thả thước dây từ ngọn của một cây Thần mộc Đài Loan xuống — đạt tới 84,1 mét, trở thành cây cao nhất Đông Á. Con số này cao hơn 4,6 mét so với dự đoán của công nghệ LiDAR. Trên một hòn đảo vốn thường xuyên chịu bão lũ và sạt lở, lẽ ra không thể duy trì được sự sống ở độ cao như vậy; nhưng chính nhờ sinh trưởng tại thung lũng nơi con người không thể tiếp cận, nó mới tránh được nạn khai thác gỗ quy mô lớn và trụ vững suốt 700 năm qua. Chính sự \"không thể chạm tới\" ấy vừa giúp nó tồn tại, vừa khiến chúng ta phải dùng tia laser quét qua toàn bộ hòn đảo mới có thể lần đầu tiên nhìn thấy nó trong năm nay.",
     "city": "苗栗"
+  },
+  {
+    "title": "Cá heo trắng Đài Loan: Dù đã có môi trường sống được luật pháp công nhận, chúng vẫn chưa có một vùng biển thực sự an toàn",
+    "lat": 24.152609,
+    "lng": 120.676214,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Tháng 11 năm 2025, một con cá heo trắng đực trưởng thành mang số hiệu OCA023, được các nhà nghiên cứu gọi là \"Scissors\", đã mắc cạn và chết tại Thân Cảng (Shengang), Chương Hóa; đây là trường hợp ít nhất thứ mười kể từ năm 2009. Quần thể của nó đã giảm từ ước tính khoảng 99 con vào năm 2002 xuống còn 45 đến 50 con vào năm 2025, với tỉ lệ sinh chỉ đạt hai đến ba con non mỗi năm. Năm 2020, chính phủ đã khoanh vùng ngôi nhà của chúng thành môi trường sống quan trọng được luật pháp công nhận rộng 763 km², nhưng đến năm 2026, cảng Đài Trung lại tiến hành lấn biển bằng đất thải ngay trong phạm vi này, khiến các nhóm bảo vệ môi trường tuyên bố sẽ khởi kiện thay cho loài cá heo trắng. Bản đồ pháp lý đã vẽ xong, nhưng vùng biển an toàn thì vẫn chưa.",
+    "city": "台中"
   },
   {
     "title": "Tưởng Vạn An: Thị trưởng Đài Bắc xuất thân luật sư, những tranh chấp về Đại Cự Đản, chỉnh trang đô thị, vòng xoay Công quán và Luật Quy hoạch Tài chính trong nhiệm kỳ",

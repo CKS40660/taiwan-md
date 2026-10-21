@@ -951,3 +951,10 @@
 {"ts": "2026-10-20T22:06:14Z", "slug": "中央政府總預算", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-20T22:06:14Z", "slug": "支語誤判學", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-10-20T22:06:14Z", "slug": "台灣媒體總史", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "room_chief", "status": "revise", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "一同走過從前", "stage": "ship", "status": "done", "source": "observed", "sha": "3dc827519f3d"}
+{"ts": "2026-10-21T22:06:19Z", "slug": "台灣穿山甲", "stage": "inbox", "status": "pending", "source": "observed"}

@@ -1,8 +1,125 @@
 {
-  "_generated": "2026-10-20T22:06:26.913Z",
+  "_generated": "2026-10-21T22:06:32.077Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "李國修",
+        "desc": "屏風表演班創辦人，台灣喜劇之王，因大腸癌於2013年7月2日病逝，享年57歲",
+        "category": "people",
+        "href": "/people/%E6%9D%8E%E5%9C%8B%E4%BF%AE",
+        "date": "2026-10-22T02:38:49+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "一同走過從前：要往前走，先知道我們是怎麼來的",
+        "desc": "1988 年 7 月，國民黨十三全開幕前夕，殷允芃讓天下雜誌的四集紀錄片在台視連播四天。攝影家張照堂替一份文字稿去找走過那四十年的人：當過養女的紀政、年年被加租的佃農、在山裡炸路的榮民。天下從創刊就在問台灣怎麼走到今天，片子的回答落在這些人身上，後來還有一捲錄影帶被帶進北京。",
+        "category": "culture",
+        "href": "/culture/%E4%B8%80%E5%90%8C%E8%B5%B0%E9%81%8E%E5%BE%9E%E5%89%8D",
+        "date": "2026-10-21T23:14:05+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/yitong-ep1-title-card-1988.jpg"
+      },
+      {
+        "title": "席慕蓉",
+        "desc": "《七里香》《無怨的青春》作者，華語詩壇最暢銷詩人，蒙古族",
+        "category": "people",
+        "href": "/people/%E5%B8%AD%E6%85%95%E8%93%89",
+        "date": "2026-10-21T20:39:13+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "蕭青陽",
+        "desc": "葛萊美獎最佳專輯包裝設計得主，七度入圍終以父女合作封王，台灣設計登上世界舞台的代表人物",
+        "category": "people",
+        "href": "/people/%E8%95%AD%E9%9D%92%E9%99%BD",
+        "date": "2026-10-21T20:39:13+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣穿山甲",
+        "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群狀況趨於穩定，成為少見的保育案例，讓世界看見物種滅絕並非命定。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
+        "date": "2026-10-21T11:21:06+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "臺灣的鯨豚",
+        "desc": "全球三分之一鯨豚物種的棲息地——從昔日捕鯨到今日賞鯨，臺灣如何轉身成為海洋生態研究重鎮？",
+        "category": "nature",
+        "href": "/nature/%E8%87%BA%E7%81%A3%E7%9A%84%E9%AF%A8%E8%B1%9A",
+        "date": "2026-10-21T11:20:10+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣白海豚：有了法定棲地，牠仍沒有真正的安全海域",
+        "desc": "2025 年 11 月，一隻編號 OCA023、研究者叫牠「Scissors」的成年雄性白海豚擱淺死在彰化伸港，是 2009 年以來至少第十起。牠所屬的族群從 2002 年估計約 99 隻掉到 2025 年的 45 至 50 隻，一整年只生得出兩、三隻小海豚。2020 年政府把牠們的家畫成 763 平方公里的法定重要棲息環境，2026 年台中港卻在這片範圍裡用廢土填海，環保團體宣布要替白海豚提起訴訟。法定地圖已經畫好，安全的海還沒有。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E7%99%BD%E6%B5%B7%E8%B1%9A",
+        "date": "2026-10-21T08:56:22+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "拉阿魯哇族：從「南鄒」到自己的名字，聖貝祭守住了什麼",
+        "desc": "2014 年 6 月 26 日，拉阿魯哇族成為臺灣第 15 個獲正式認定的原住民族。這不是與鄒族切斷關係，而是在桃源四社、聖貝祭與瀕危族語之間，把一個曾被合併的名字重新交還給使用它的人。",
+        "category": "culture",
+        "href": "/culture/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F",
+        "date": "2026-10-21T08:49:55+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣原住民族歷史與正名運動",
+        "desc": "1987 年，19 歲的鄒族青年湯英伸在台北刑場被槍決，他的死點燃了台灣原住民族正名運動最初的火。從 1984 年原權會成立、1988 年吳鳳銅像被推倒與「還我土地」遊行，到 1994 年憲法把「山胞」改為「原住民」、2005 年原住民族基本法補上「族」字，這條路走了 21 年。荷蘭的歸化蕃與野蕃、清朝的熟番生番、日治的蕃人理蕃、戰後的山胞，每個名字都是一把鎖；前三次是別人替你命名，後兩次才是你自己搶回來的。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95",
+        "date": "2026-10-20T16:18:22+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣生態多樣性熱點",
+        "desc": "3.6 萬平方公里的台灣擠下 5.9 萬種已知生物，密度是全球平均的 100 倍，超過 30% 的物種是全世界獨一無二的特有種。垂直 4,000 公尺的氣候電梯，讓這座島嶼在彈丸之地重現半個地球的氣候帶：世界緯度最低的鮭魚櫻花鉤吻鮭只剩七家灣溪，海拔 1,500 到 2,500 公尺的台灣山椒魚棲地已從 11 個地點縮到 7 個。台灣黑熊全台約 200 到 600 隻，每隻需要 30 到 40 平方公里活動空間；這座生命密度全球最高的舞台，還能替野生動物留多少空間？",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
+        "date": "2026-10-20T16:18:22+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
+        "desc": "2026 年，資料分析師 Migu 把一份 CSV 拖進 Kepler.gl，螢幕上長出第一張台灣地圖。兩年後，最紅的 mini-taiwan-pulse 在 GitHub 累積 375 顆星，把天空、海洋、大地、街道、清運五種即時資料疊成一張會動的地圖。中央五萬筆、二十幾個縣市平台的開放資料，人腦掃不完，他的解法不是多找人，而是交給一套由 AI Agent 編排、會自己長大的系統，人只負責出題與驗收。從都市計畫訓練出的策展眼睛，到 tmux 裡一條自己跑完的火災 pipeline，一個人的 GitHub 怎麼長成一片星系。",
+        "category": "technology",
+        "href": "/technology/mini-taiwan-pulse",
+        "date": "2026-10-20T16:18:22+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
+      },
+      {
+        "title": "徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化",
+        "desc": "台北市第七選區立法委員徐巧芯，1989 年 11 月 18 日生於信義區一間全年無休的西式早餐店，原名徐美鳳，因璩美鳳光碟事件改名。2013 年 11 月 13 日，24 歲的她坐進國民黨第十九屆中常委最年輕的那張椅子；2024 年 1 月 13 日以 89,727 票擊敗許淑華當選立委。2025 年 7 月 26 日罷免案同意 62,633 票達門檻仍被否決；2026 年 4 月 27 日軍購協商拋出 8000 億版本，與黨中央的 3800 億加 N 對撞，季麟連點名不要做親痛仇快的事。共諜烏龍、IPEF 與援烏密件三案，逐一拆解這條流量年輕化的路徑。",
+        "category": "people",
+        "href": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
+        "date": "2026-10-20T16:18:22+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：富邦金控",
+        "desc": "1961 年，32 歲的蔡萬才帶著 10 名員工與 600 萬資本，在台北衡陽路一間 10 坪辦公室創立國泰產險，選擇專攻公營保險公司不屑服務的小客戶。1992 年與國泰集團分家、1997 年以 165 億收購台北銀行，富邦從產險跨進銀行、電信、棒球、媒體與育樂，成為總資產 11.9 兆新台幣、市值台灣第一、員工超過 6 萬人的金控。兄弟接班、政經分離的權力平衡、跨海的地理風險，以及數位轉型與永續金融，逐一拆開這 65 年。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
+        "date": "2026-10-20T16:18:22+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
       {
         "title": "台灣感性：我們是不是要韓國人先按讚，才敢說自己的老房子很美？",
         "desc": "2008 年，台南一群人就發起「老屋欣力」，開始重新看自己的老房子，比韓國人用「대만감성」瘋台灣街景整整早了十一年。可是當這股風潮在 2024 年被 K-pop 鏡頭引爆，我們卻沿用觀光署、文化部的「文化輸出」框架去講它，彷彿那份最早的凝視，得先被韓國人按過讚，才算數。",
@@ -155,126 +272,18 @@
         "date": "2026-10-15T08:30:56+08:00",
         "readingTime": 9,
         "image": ""
-      },
-      {
-        "title": "台灣音響產業發展",
-        "desc": "從1970年代承接日美代工起步，這座島嶼的音響產業歷經收音機、卡帶播放器到CD數位音訊的技術累積，近年轉向自有品牌與高值化，Hi-Fi品牌在國際市場建立知名度，車用與專業音響廠商技術領先，形成由中小企業主導、垂直分工且專精化程度高的完整產業鏈。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-        "date": "2026-10-15T06:58:04+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "朱宗慶",
-        "desc": "從維也納音樂院歸來的打擊樂家，用四十年把冷門藝術帶入台灣主流樂壇；他創立台灣第一支專業打擊樂團並建立完整教學體系，從專業演出到幼兒音樂啟蒙、從音樂廳到校園遍地扎根，讓節奏與活力深植社會，獲國家文藝獎肯定，被譽為台灣打擊樂之父。",
-        "category": "people",
-        "href": "/people/%E6%9C%B1%E5%AE%97%E6%85%B6",
-        "date": "2026-10-15T06:58:04+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "陳玉勳",
-        "desc": "出身眷村的台灣喜劇導演，用五部長片建立了本土喜劇的創作語法，擅長在荒誕情境中以台式幽默與人文溫暖探討深刻人生議題；深受好萊塢喜劇大師啟發的他，以《消失的情人節》奪下金馬獎最佳劇情片，為這套語法贏得最具分量的外部認可。",
-        "category": "people",
-        "href": "/people/%E9%99%B3%E7%8E%89%E5%8B%B3",
-        "date": "2026-10-15T06:58:04+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "周杰倫",
-        "desc": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕製作助理，如今已是真正顛覆樂壇的音樂革命者。",
-        "category": "people",
-        "href": "/people/%E5%91%A8%E6%9D%B0%E5%80%AB",
-        "date": "2026-10-15T06:39:19+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "林懷民",
-        "desc": "一位沒有專業舞蹈背景的小說家在美國攻讀創作時走進舞蹈教室，回台創辦華語世界第一個職業現代舞團雲門舞集，從成立至今活躍國際舞台超過半世紀，被紐約時報譽為亞洲最重要的當代舞團，完成了從文學到肢體的表演藝術冒險旅程。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E6%87%B7%E6%B0%91",
-        "date": "2026-10-15T06:39:19+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "社會運動與公民參與",
-        "desc": "從解嚴運動、野百合學運到太陽花運動與同性婚姻合法化，台灣社會以和平理性、世代傳承的方式持續推動民主化；這些行動跨越政治、環保、勞工與性別等多元領域，多數以和平進行，也有如農民運動那般的激烈衝突，在民主進程留下具體制度痕跡。",
-        "category": "society",
-        "href": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
-        "date": "2026-10-15T06:39:19+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣企業：瑞昱半導體",
-        "desc": "七位在外商工作的工程師以萬元在科學園區創業，用螃蟹當商標，推出台灣第一顆自主研發的網路晶片；如今這家設計公司名列台灣第三大，產品涵蓋網路控制器、音效與顯示控制晶片，廣布於全球主機板、路由器與電視等設備，讓這隻小螃蟹爬進世界各地的電腦裡。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣企業：聯發科技",
-        "desc": "創辦人帶著從母公司分割的小團隊從晶片做起，交出鑰匙方案餵養了深圳的山寨機生態系，一度被譏為便宜貨製造商；這家公司後來手機晶片市占率領先老對手，營收突破百億美元，躍居全球第五大設計公司，印證一代拳王理論不斷進化才能不被挑戰者取代。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "台灣外貿與全球供應鏈",
-        "desc": "從年代的成衣玩具到今日半導體晶片，台北港的貨櫃日夜裝卸著台灣經濟奇蹟；這座島嶼以出口值名列全球前幾大經濟體，在半導體與資通訊產品掌握關鍵地位，對美出口首破千億美元、對中出口佔比高，深刻凸顯它在美中三角關係中的微妙位置。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣森林生態系",
-        "desc": "在極短水平距離內，這座島嶼從海平面攀升至玉山之巔，濃縮出從熱帶到亞北極的完整林相，木麻黃、千年檜木與玉山圓柏各據一方；高覆蓋率是全球平均值的兩倍，卻幾乎全擠在垂直山壁上，年年承受颱風、地震與暴雨的考驗，是全球密度最高也最脆弱的森林之一。",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
-        "date": "2026-10-15T06:09:48+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
-        "desc": "台灣網紅廣告市場規模不到美國的百分之一，單一中型創作者卻同時經營近雙倍數量的平台，變現靠聯盟行銷而非訂閱制；從科技業產品經理轉職的頻道主翁雋明以開箱、評測紅遍網路，演繹市場極小、平台極碎下，創作者如何用另一套規則存活下來。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
-        "date": "2026-10-15T06:09:48+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台灣公園與日常休閒",
-        "desc": "清晨的大安森林公園裡，長者跟著國樂打太極、練外丹功，午後家長帶孩子嬉戲，傍晚上班族下班散步，深夜屬於遛狗的人與需要安靜的靈魂；同一座公園在不同時段輪替登場，構成跨世代交錯使用的社交場域，也映照出台北都會日常的節奏與溫度。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
-        "date": "2026-10-15T06:09:48+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣文化創意園區發展",
-        "desc": "台灣的文創園區起源於年代的舊建築活化，以華山、松山文創園區與駁二藝術特區為代表，將廢棄酒廠、菸廠等工業設施轉型為創意產業聚落；政府推動文創產業發展計畫並立法，提供法制支持，從廢棄廠房蛻變為國際知名文化地標，兼具城市再生與產業升級的雙重意義。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
-        "date": "2026-10-15T06:01:11+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "The Little Tigers: Bought Melodies, Filled with Our Own Youth",
+        "desc": "In 1988, a Chinese Television Agency (CTV) talent show sought three boys to accompany the girl group Little Cats; the result was an idol group covering Japanese songs and imitating Japan's Shonentai. From selling 200,000 copies in five days to being chased by fans from Taipei to Kaohsiung, and finally crossing the Strait in 1991: almost all parts were imported, yet Taiwan remembered it as the most solid generation of youth. The three most popular bodies later crossed the Strait as well.",
+        "category": "music",
+        "href": "/en/music/little-tigers-taiwan-boy-band",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": "/article-images/music/little-tigers-xiaoyaoyou-album.webp"
+      },
       {
         "title": "Moriyama Matsunosuke: Drawing Taiwan's Official Face with Three Prefectural Halls and a Courthouse",
         "desc": "In 1906, a Tokyo Imperial University graduate from an Osaka merchant family arrived in Taiwan as a consultant and designed the first fully reinforced-concrete building in the entire Japanese Empire. Over the next fifteen years, Moriyama Matsunosuke completed the Taipei Prefectural Hall, Taichung Prefectural Hall, Tainan Prefectural Hall, Tainan Courthouse, the Monopoly Bureau, the Railway Ministry, and the Taiwan Governor-General's Office. His handling of asymmetrical sites, composite columns, and dual circulation patterns gave concrete form to colonial government authority, leaving behind three red-brick halls that today house the Control Yuan, Taichung City Government offices, and the National Taiwan Literature Museum.",
@@ -535,15 +544,6 @@
         "date": "2026-10-10T23:33:38+08:00",
         "readingTime": null,
         "image": "/article-images/history/formosa-dutch-map-1640.webp"
-      },
-      {
-        "title": "Taiwan and North Korea: From Fourth Largest Export Destination to a Gray Zone Confrontation",
-        "desc": "Taiwan was once North Korea's fourth-largest export destination, with Acer computers and HCG sanitary ware visible in Pyongyang offices. This history—from robust trade to comprehensive embargoes—is interwoven with secret agricultural aid, maritime smuggling, and deep geopolitical intelligence struggles.",
-        "category": "history",
-        "href": "/en/history/taiwan-north-korea-relations",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "ja": [
@@ -820,6 +820,15 @@
     ],
     "ko": [
       {
+        "title": "시랑: 정씨 부장에서 청군 주장으로, 타이완의 존폐를 혼자 결정할 수 없다",
+        "desc": "1683년澎湖 해전, 시랑이 청군을 인솔해 정씨 수사를 격파했으나, 정성공 휘하에서 청廷으로 향한 이 장수의 진정한 쟁점은 전장뿐만 아니라 타이완을 남겨야 할지, 이 역사를 누가 기록할 것인가에 있었다.",
+        "category": "people",
+        "href": "/ko/people/shi-lang-admiral",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
         "title": "모리야마 마쓰노스케: 세 개의 주청과 하나의 법원으로 타이완의 공식적인 얼굴을 그리다",
         "desc": "1906년, 오사카 명문가 출신의 도쿄제국대학 졸업생이 타이완에서 촉탁으로 근무하며 일본 제국 최초의 전 철근 콘크리트 건축물을 설계했다. 이후 15년 동안 모리야마 마쓰노스케는 타이베이 주청, 타이중 주청, 타이난 주청, 타이난 법원, 전매국, 철도부 및 타이완 총독부를 차례로 완공했다. 비대칭 대지, 복합 기둥 양식, 이중 동선을 처리하는 그의 수법은 식민 정부의 권력에 구체적인 형상을 부여했으며, 오늘날 감찰원, 타이중 주청, 국립 타이완 문학관이 위치한 세 채의 붉은 벽돌 청사를 남겼다.",
         "category": "history",
@@ -1036,12 +1045,12 @@
         "image": ""
       },
       {
-        "title": "타이완 백돌고래: 법정 서식지가 생겼어도, 진정한 안전 해역은 여전히 없다",
-        "desc": "2020년 타이완 서안 백돌고래가 비로소 763제곱킬로미터의 법정 중요 서식지를 확보했으나, 어구, 항만, 오염 및 수중 소음은 여전히 같은 얕은 바다에서 경쟁하고 있다.",
+        "title": "타이완 흰돌고래: 법정 서식지가 생겼는데도, 여전히 진정한 안전 해역은 없다",
+        "desc": "2025년 11월, 번호 OCA023, 연구자들이 '시저스(Scissors)'라 부르던 성체 수컷 흰돌고래가 장화(彰化) 신강(伸港)에서 좌초사한 채 발견되어 2009년 이후 최소 10번째 사례가 되었다. 이 개체군이 속한 집단은 2002년 약 99마리로 추정되던 것이 2025년 45~50마리로 줄었고, 1년에 고작 두세 마리 새끼만 태어난다. 2020년 정부가 이들의 터전을 763㎢의 법정 중요서식환경으로 지정했으나, 2026년 타이중항(台中港)이 이 범위 안에서 폐토로 매립을 강행하자 환경단체들이 흰돌고래를 대리해 소송을 제기했다. 법정 지도엔 이미 선이 그어졌지만, 안전한 바다는 아직 없다.",
         "category": "nature",
         "href": "/ko/nature/taiwanese-white-dolphin",
         "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
+        "readingTime": 14,
         "image": ""
       },
       {
@@ -1078,15 +1087,6 @@
         "href": "/ko/people/kuedumeng",
         "date": "2026-10-10T23:46:19+08:00",
         "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "루제: 회피되었던 2·28 사건 질문에서 28개의 타이완 역사 강의로",
-        "desc": "해산물 가게 면담에서 보충수업 강단으로, 루제는 이야기로 정교 과정을 추진하지만 학생들에게 사료와 역사적 사실, 역사관을 되돌아가게 요구한다.",
-        "category": "people",
-        "href": "/ko/people/lu-chieh-history-teacher",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
         "image": ""
       }
     ],
@@ -1382,12 +1382,12 @@
         "image": "/article-images/art/national-taichung-theater-2017.webp"
       },
       {
-        "title": "Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms",
-        "desc": "En 1987, un jeune Tsou de dix-neuf ans est exécuté dans une prison de Taipei. Sa mort allume la première flamme du mouvement pour la reconnaissance des noms.",
+        "title": "Histoire des peuples autochtones de Taïwan et mouvement pour la rectification de leur appellation",
+        "desc": "En 1987, le jeune Tsou de 19 ans, Tang Ying-shen, a été fusillé au champ de tir de Taipei ; sa mort a allumé la première étincelle du mouvement pour la rectification de l'appellation des peuples autochtones de Taïwan. De la création de l'Alliance pour les droits des autochtones en 1984, au renversement de la statue de Wu Feng et à la marche « Rendez-nous notre terre » en 1988, jusqu'à la modification constitutionnelle de 1994 remplaçant « compatriotes des montagnes » par « autochtones », et l'ajout du caractère « ethnie » dans la Loi fondamentale sur les peuples autochtones en 2005, ce chemin a pris 21 ans. Les « barbares civilisés » et « barbares sauvages » des Néerlandais, les « barbares familiers » et « barbares sauvages » des Qing, la « politique de gestion des barbares » des Japonais, les « compatriotes des montagnes » de l'après-guerre : chaque nom était un verrou ; les trois premiers ont été imposés par d'autres, les deux derniers ont été arrachés par eux-mêmes.",
         "category": "history",
         "href": "/fr/history/indigenous-peoples-history-and-naming-movement",
         "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
+        "readingTime": null,
         "image": ""
       },
       {
@@ -1427,8 +1427,8 @@
         "image": ""
       },
       {
-        "title": "Taïwan, haut lieu de la biodiversité",
-        "desc": "36 000 km² d'île abritant 59 000 espèces connues — une densité 100 fois supérieure à la moyenne mondiale",
+        "title": "Points chauds de la biodiversité à Taïwan",
+        "desc": "Sur ses 36 000 km², Taïwan abrite 59 000 espèces connues, soit une densité 100 fois supérieure à la moyenne mondiale, avec plus de 30 % d'espèces endémiques uniques au monde. Grâce à un « ascenseur climatique » vertical de 4 000 mètres, cette île reproduit la moitié des zones climatiques de la planète sur un territoire minuscule : le saumon de Taiwan (Coregonus taiwanensis), situé à la latitude la plus basse au monde, ne survit plus que dans la rivière Qichawan, tandis que l'habitat de la salamandre de Taïwan, entre 1 500 et 2 500 mètres d'altitude, est passé de 11 à 7 sites. On estime qu'il reste environ 200 à 600 ours noirs de Taïwan sur l'île, chacun nécessitant un espace vital de 30 à 40 km² ; quelle place peut-il rester pour la faune sauvage sur cette scène présentant la plus haute densité de vie au monde ?",
         "category": "geography",
         "href": "/fr/geography/taiwan-biodiversity-hotspots",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1635,6 +1635,15 @@
       }
     ],
     "vi": [
+      {
+        "title": "Bò đàn họa: Từ chiến thiệt tại chùa chiến đến vũ trụ giữa bàn tay của《Đường Lê Kiếm Du Ký》",
+        "desc": "Vào ngày 2 tháng 3 năm 1970, truyền hình công ty Huang Jun-hsiu của Shih Yen-wen khiến các nhà máy ở Đài Loan ngừng hoạt động, học sinh vắng lớp, đạt tỷ lệ xem trên toàn quốc lên tới 97%; sau bốn năm, chính phủ cấm phát vì lý do 'hạn chế người nông dân và công nhân làm việc bình thường'. Kiến trúc nghệ thuật này trên Đài Loan qua qua áp lực hoàng quốc, chiến tranh, và cuộc cách mạng thẻ VCD, cuối cùng mở ra thị trường hoạt hình toàn cầu thông qua《Đường Lê Kiếm Du Ký》.",
+        "category": "culture",
+        "href": "/vi/culture/taiwanese-glove-puppetry-budaixi",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Moriyama Matsunosuke: Dùng ba tòa nhà châu và một tòa Tòa án để vẽ nên khuôn mặt chính thức của Đài Loan",
         "desc": "Năm 1906, một cử nhân Đại học Đế quốc Tokyo xuất thân từ gia tộc Osaka đến Đài Loan làm cố vấn và thiết kế tòa nhà bê tông cốt thép đầu tiên toàn bộ Đế quốc Nhật Bản. Trong mười lăm năm tiếp theo, Moriyama Matsunosuke hoàn thành liên tiếp Tòa nhà châu Đài Bắc, Tòa nhà châu Đài Trung, Tòa nhà châu Đài Nam, Tòa án Đài Nam, Cục Chuyên bán, Bộ Đường sắt và Tổng Toàn quyền Đài Loan. Cách xử lý của ông đối với các nền móng không đối xứng, các cột phức hợp và hai dòng chuyển động đã cho phép quyền lực của chính quyền thuộc địa có hình dáng cụ thể, đồng thời để lại ba tòa nhà gạch đỏ ngày nay là nơi đặt Viện Kiểm sát, Tòa nhà châu Đài Trung và Thư viện Văn học Quốc gia Đài Loan.",
@@ -1895,18 +1904,36 @@
         "date": "2026-10-10T23:43:08+08:00",
         "readingTime": 17,
         "image": "/article-images/geography/hsinchu-county-hero.webp"
-      },
-      {
-        "title": "Hoa Liên: 129 năm che giấu, tái tên dân tộc Sakizaya, 0403 lại đẩy xa",
-        "desc": "Năm 1878, quân đội nhà Thanh tra tấn Komod Pazik (cử chỉ bộ lạc Dagokuhan của dân tộc Sakizaya) buộc vào cây trôm (cassia tree), dân tộc Sakizaya trốn lẫn trong dân tộc Amis trong 129 năm; năm 2004 dân tộc Taroko tách khỏi Atayal trở thành dân tộc thứ 12, năm 2007 chính phủ Trần Thủy Biển công nhận Sakizaya thành dân tộc thứ 13; sáng ngày 3 tháng 4 năm 2024, lúc 7 giờ 58 phút 9 giây, 98 giây động đất có độ lớn 7.1 phá hủy Khe Tân Chữ, Cửu Khúc Động, bước đường Đá Cát Khó trong Công viên Quốc gia Taroko, năm 2024 chỉ còn 210.000 du khách, năm bình thường có 6,6 triệu. Trên dải đất mỏng nhất giữa núi và biển chỉ 5 km, 6 dân tộc bản địa có số phận luôn rung lắc cùng mảng kiến tạo.",
-        "category": "geography",
-        "href": "/vi/geography/hualien-county",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 18,
-        "image": "/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp"
       }
     ],
     "id": [
+      {
+        "title": "Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesizer tentang Hal-Hal yang Tidak Bisa Dikatakan di Kantor",
+        "desc": "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial.",
+        "category": "people",
+        "href": "/id/people/ao-and-mountain-band",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Pertahanan dan Modernisasi Militer Taiwan",
+        "desc": "Pada Oktober 2025, Lai Ching-te memimpin pembentukan batalion tank M1A2T di Hukou. Bulan yang sama, mantan Kepala Staf Gabungan Li Xi-ming tersenyum kecut sambil berkata: \"Jika tank saja bisa menjadi senjata asimetris, apa lagi yang bukan senjata asimetris?\" Ini adalah kisah sebuah pulau yang tertarik di antara dua logika pertahanan.",
+        "category": "society",
+        "href": "/id/society/taiwan-defense-modernization",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Pahlawan Cangkul dan Simultanitas Kepulauan: Bagaimana Budaya Relawan Bencana Taiwan Mempengaruhi Identitas Nasional",
+        "desc": "Memulai dari \"Pahlawan Cangkul\" dalam banjir Matas-an 2025, meninjau kembali budaya relawan bencana yang terakumulasi sejak gempa 921 tahun 1999, mitos penciptaan banjir dan ketahanan komunitas suku Matas-an, serta dinamika \"serba ada\" antara model Tzu Chi dan tiga pos komando di radius 500 meter lokasi Guangfu, sambil mengeksplorasi momen ketika lagu Chen Chien-nian \"Kita Adalah Saudara\" berubah menjadi aksi konkret dalam banjir ini.",
+        "category": "society",
+        "href": "/id/society/taiwan-disaster-volunteer-culture",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 14,
+        "image": "/article-images/society/guangfu-921-memorial-2003.webp"
+      },
       {
         "title": "Moriayama Matsunosuke: Melukis Wajah Resmi Taiwan dengan Tiga Gedung Negara Bagian dan Satu Pengadilan",
         "desc": "Pada 1906, seorang lulusan Universitas Kekaisaran Tokyo dari keluarga terkemuka Osaka datang ke Taiwan sebagai konsultan dan merancang bangunan beton bertulang penuh pertama di seluruh Kekaisaran Jepang. Dalam lima belas tahun berikutnya, Moriayama Matsunosuke menyelesaikan Gedung Negara Bagian Taipei, Gedung Negara Bagian Taichung, Gedung Negara Bagian Tainan, Pengadilan Tainan, Biro Monopoli, Departemen Kereta Api, dan Kantor Gubernur Jenderal Taiwan. Cara beliau menangani lahan asimetris, kolom komposit, dan alur sirkulasi ganda memberikan bentuk konkret pada kekuasaan pemerintah kolonial, dan meninggalkan tiga gedung bata merah yang masih berdiri hari ini: Komisi Pengawas, Gedung Negara Bagian Taichung, dan Museum Sastra Taiwan Nasional.",
@@ -2146,33 +2173,6 @@
         "desc": "Pada tahun 1999, Chang Rong-gui bersama Chun Shui Tang menciptakan A-gui dengan wajah bulat dan suara khas menggunakan Flash. Dari video pendek yang diteruskan, A-gui melangkah ke album, film, situs web Jepang, dan kampanye SARS. Pertanyaan yang ditinggalkan A-gui adalah: ketika situs web berhenti diperbarui, apa yang harus diandalkan seorang karakter internet untuk terus hidup di kenangan orang Taiwan?",
         "category": "culture",
         "href": "/id/culture/a-kuei-flash-animation",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Nama Pasar Tradisional",
-        "desc": "Di jalanan Taiwan, jika seseorang berteriak \"Shu-fen\" atau \"Chia-hao\", berapa orang yang akan menoleh? Nama-nama ini adalah cerminan masyarakat Taiwan, mencatat imajinasi kolektif generasi berbeda tentang \"kehidupan yang indah\".",
-        "category": "culture",
-        "href": "/id/culture/common-taiwanese-names",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": "6",
-        "image": ""
-      },
-      {
-        "title": "Eslite Bookstore: Landmark Membaca 24 Jam Tanpa Tutup dan Evolusi Subjek Budaya Taiwan",
-        "desc": "Eslite Bookstore bukan hanya toko buku rantai paling representatif Taiwan, melainkan juga simbol penting estetika kehidupan dan subjek budaya Taiwan kontemporer. Sejak didirikan oleh Bapak Wu Qing-you pada 1989 sebagai toko buku seni dan humaniora pertama, Eslite melalui model operasional \"buka 24 jam\" berhasil mengubah toko buku fisik dari sekadar tempat jual-beli menjadi landmark urban yang menenangkan jiwa. Artikel ini mendalami falsafah pendirian Eslite, dampak sosial budaya membaca 24 jam, model bisnis komposit, serta bagaimana landmark budaya ini di tengah gelombang digital dan tantangan penutupan toko, mendefinisikan ulang masa depan membaca melalui transformasi omnichannel. Mencatat secara rinci pergantian era dari toko Dunhua, Xinyi, hingga Songyan, serta menganalisis posisinya yang unik dalam diplomasi budaya dan industri kreatif.",
-        "category": "culture",
-        "href": "/id/culture/eslite-bookstore",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 750,
-        "image": ""
-      },
-      {
-        "title": "Festival Zhongyuan: Dari Ketakutan Menenangkan Arwah Kesepian hingga Rekonsiliasi Kolektif Sebuah Pulau",
-        "desc": "Festival Zhongyuan di Taiwan bukan sekadar bentuk penghormatan terhadap hantu, melainkan catatan sejarah tentang pembukaan lahan, konflik, dan asimilasi kelompok. Dari rekonsiliasi penuh air mata di Keelung hingga kompetisi ekstrem 'Pencarian Arwah' (Qianggu) di Toucheng, upacara ini mengungkap bagaimana orang Taiwan mengubah ketakutan menjadi perjanjian perdamaian sosial.",
-        "category": "culture",
-        "href": "/id/culture/ghost-festival-zhongyuan",
         "date": "2026-10-10T23:41:59+08:00",
         "readingTime": 8,
         "image": ""
@@ -2452,6 +2452,51 @@
     ],
     "hi": [
       {
+        "title": "ड्रैगन बोट फेस्टिवल: प्राचीन लोगों की मृत्यु से लड़ने का टूलकिट, ताइवान के लोगों ने इसे वार्षिक पुनर्मिलन में बदल दिया",
+        "desc": "2025 के राष्ट्रीय माध्यमिक परीक्षा में एक प्रश्न आया था जिसमें पंद्रह वर्षीय छात्रों से 'ड्रैगन बोट फेस्टिवल पर अंडा खड़ा करने' के अंधविश्वास का खंडन करने के लिए प्रयोग डिजाइन करने को कहा गया था। यह दृश्य पूरे त्योहार का रहस्य दर्शाता है: आर्टेमिसिया, सिनेबार शराब, दोपहर का पानी, और वह खड़ा किया गया अंडा—ये सब मूलतः प्राचीन लोगों की महामारी और मृत्यु से लड़ने के उपकरण थे। विज्ञान ने एक-एक करके इनकी औषधीय प्रभावशीलता को चुनौती दी है, लेकिन ड्रैगन बोट फेस्टिवल ताइवान में किसी से भी अधिक जीवंत है—औषधीय प्रभाव समाप्त हो गया है, फिर भी ताइवान के लोग हर साल इसका पालन करते हैं।",
+        "category": "culture",
+        "href": "/hi/culture/dragon-boat-festival",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/duanwu-two-zongzi-styles.webp"
+      },
+      {
+        "title": "ताइवान का धार्मिक विश्वास: भय में जन्मा आस्था साम्राज्य",
+        "desc": "यह द्वीप दुनिया में सबसे अधिक मंदिर घनत्व और एशिया में दूसरे स्थान पर धार्मिक स्वतंत्रता रखता है। दो प्रमुख धर्म - वान्ये (देवता) और माज़ू - दोनों की ऐतिहासिक उत्पत्ति प्लेग और मृत्यु से जुड़ी है। 17वीं शताब्दी के सैन्य प्रवासियों द्वारा देवताओं को हेइशुईको (Blackwater Gully) पार कराने से लेकर, 2025 की स्वतंत्रता रिपोर्ट में 94 अंक प्राप्त करने तक; 1953 में एकवानदाओ पर प्रतिबंध लगने और 1987 में डी-सीक्रेटाइजेशन के बाद कानूनी मान्यता मिलने तक; और चार प्रमुख बौद्ध संप्रदायों तथा एल्डर चर्च द्वारा राजनीतिक और धार्मिक संबंधों में अलग-अलग रास्ते अपनाने तक - ताइवान का विश्वास धर्मग्रंथों में नहीं, बल्कि कोनों पर जलती धूप में है।",
+        "category": "culture",
+        "href": "/hi/culture/taiwan-religion-and-temple-culture",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 22,
+        "image": ""
+      },
+      {
+        "title": "आ-मेई (चांग हुई-मेई)：पिनुयुमायन (卑南族) गायिका, 1996《जीजी (姊妹)》 से 2024 ताइपे डोम (大巨蛋) पांच शो तक",
+        "desc": "9 अगस्त 1972 को ताइतुंग (台東) काउंटी के पिनुयुमायन (卑南) टाउनशिप में जन्मीं, आ-मेई ताइवान की पिनुयुमायन गायिका हैं, जो मंदारिन पॉप संगीत इतिहास की सबसे सफल महिला गायिकाओं में से एक हैं। 1996 में पहली एल्बम《जीजी》ने ताइवान में 12.1 लाख और एशिया में 40 लाख प्रतियां बेचीं। 2015 में「यूटोपिया (烏托邦)」ताइपे एरिना (台北小巨蛋) में लगातार 10 शो। दिसंबर 2024 में ताइपे डोम (大巨蛋) ASMeiR MAXXX 5 शो, निर्माण लागत 20 करोड़ NTD, स्थल पर हॉट-एयर बैलून छोड़े गए। करियर संचयी बिक्री 5 करोड़ से अधिक।",
+        "category": "people",
+        "href": "/hi/people/a-mei",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "ताइवान की उच्च शिक्षा का विस्तार और बंदी: 58 विश्वविद्यालयों से 148 तक, फिर बंद होने लगे",
+        "desc": "1994 के 410 प्रदर्शन में व्यापक विश्वविद्यालय स्थापना की मांग उठी, बीस साल से भी कम समय में विश्वविद्यालय संस्थानों की संख्या 58 से फूलकर 148 हो गई, शुद्ध नामांकन दर 70 प्रतिशत से ऊपर चली गई। फिर जनसंख्या में गिरावट की दीवार आई: छात्र संख्या 2012 में शीर्ष पर पहुंची, लेकिन निकास कानून 2022 तक विधायी रूप से पारित नहीं हुआ। गाओफेंग, योंगडा और डाओजियांग क्रमिक रूप से बंद हुए, योंगडा में स्थानांतरित छात्रों का लगभग एक तिहाई स्नातक तक नहीं पहुंचा, निकास के समय शिक्षकों का कैरियर परिवर्तन सफलता दर 14 प्रतिशत रहा। यह एक ऐसा प्रयोग था जिसमें केवल दरवाजे खोलने की योजना बनाई गई थी—दरवाजे बंद करने के नियम दस साल देर से आए, लाभ वास्तविक और बिखरा हुआ था, बिल सबसे कम विकल्प वाले लोगों पर गिरा।",
+        "category": "society",
+        "href": "/hi/society/taiwan-higher-education-expansion-and-decline",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 20,
+        "image": "/article-images/society/yungta-gate-2013.webp"
+      },
+      {
+        "title": "लाआलुआ (Hla'alua) जनजाति: \"दक्षिण ज़ू\" से अपने स्वयं के नाम तक, पवित्र शंख उत्सव ने क्या बचाए रखा है",
+        "desc": "26 जून 2014 को, लाआलुआ जनजाति ताइवान की 15वीं आधिकारिक रूप से मान्यता प्राप्त स्वदेशी जनजाति बनी। यह ज़ू (Zhu) जनजाति से संबंध तोड़ना नहीं है, बल्कि ताओयुआन के चार समुदायों, पवित्र शंख उत्सव और लुप्तप्राय मातृभाषा के बीच, एक ऐसे नाम को वापस उसके लोगों को सौंपना है जिसे कभी अन्य श्रेणियों में मिला दिया गया था।",
+        "category": "culture",
+        "href": "/hi/culture/hla-alua-people",
+        "date": "2026-10-21T08:49:55+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
         "title": "मोरियामा मात्सुनोसुके: तीन प्रांतीय कार्यालयों और एक न्यायालय से ताइवान का आधिकारिक चेहरा बनाना",
         "desc": "1906 में, ओसाका के एक प्रतिष्ठित परिवार से आए टोक्यो इंपीरियल विश्वविद्यालय के स्नातक ताइवान आए और संपूर्ण जापानी साम्राज्य का पहला पूर्ण प्रबलित कंक्रीट भवन डिजाइन किया। अगले पंद्रह वर्षों में, मोरियामा मात्सुनोसुके ने ताइपे प्रांतीय कार्यालय, ताइचुंग प्रांतीय कार्यालय, ताइनान प्रांतीय कार्यालय, ताइनान न्यायालय, एकाधिकार ब्यूरो, रेलवे विभाग और ताइवान गवर्नर-जनरल कार्यालय को क्रमिक रूप से पूरा किया। असमान भूखंडों, मिश्रित स्तंभ शैलियों और दोहरे परिसंचरण पथों को संभालने की उनकी तकनीक ने औपनिवेशिक सरकार की शक्ति को मूर्त रूप दिया, और आज की निरीक्षण अदालत, ताइचुंग प्रांतीय कार्यालय और राष्ट्रीय ताइवान साहित्य संग्रहालय में स्थित तीन ईंट कार्यालय भवन छोड़ गए।",
         "category": "history",
@@ -2659,15 +2704,6 @@
         "image": ""
       },
       {
-        "title": "ला'आलुआ जनजाति: 'दक्षिणी त्सोउ' से अपने नाम तक, मियातुंगुसु ने क्या बचाए रखा",
-        "desc": "26 जून 2014 को, ला'आलुआ जनजाति ताइवान की 15वीं आधिकारिक रूप से मान्यता प्राप्त मूलनिवासी जाति बनी। यह त्सोउ जनजाति से नाता तोड़ना नहीं, बल्कि ताओयुआन के चार गांवों, मियातुंगुसु और लुप्तप्राय जातीय भाषा के बीच, एक बार विलीन किए गए नाम को उसके उपयोगकर्ताओं को वापस सौंपना है।",
-        "category": "culture",
-        "href": "/hi/culture/hla-alua-people",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
         "title": "नौ स्वर्गों की श्वानन्यू: हुआंग दी की सेनापति से ताइवान के जेनतौ किशोरों की संरक्षक देवी तक",
         "desc": "एक हाई स्कूल स्नातक मंदिर मेला दल प्रमुख, जिसे सांस्कृतिक निर्माण समिति के समीक्षकों ने दस साल से अधिक समय तक अपमानित किया, 11 साल में डॉक्टरेट हासिल की, केवल यह साबित करने के लिए कि ड्रॉपआउट छात्रों को ढोल सिखाना भी कला है। उसके पीछे खड़ी है, एक देवी जिसने चार हजार साल पहले हुआंग दी को युद्ध करना सिखाया।",
         "category": "culture",
@@ -2684,42 +2720,6 @@
         "date": "2026-10-10T23:41:36+08:00",
         "readingTime": 18,
         "image": "/article-images/culture/pingxi-lantern-festival-2014.webp"
-      },
-      {
-        "title": "ताइवान चर्च न्यूज़: एक सौ चालीस साल तक जीवित एक अखबार, और वह दिन जब इसे जब्त किया गया",
-        "desc": "1885 में, ब्रिटिश मिशनरी बार्कले ने ताइनान में पेह-ओए-जि (Pe̍h-ōe-jī) में ताइवान का पहला अखबार छापा। इस अखबार को जापानी सरकार ने बंद किया, कुओमिंतांग ने मातृभाषा के उपयोग पर प्रतिबंध लगाया, 1987 में 228 घटना की रिपोर्टिंग के कारण गैरीसन कमांड ने पूरे संस्करण को जब्त कर लिया। हर बार दबाए जाने पर यह फिर से जीवित हो गया। 2025 में यह 140 साल का हो गया, इसके सप्लीमेंट में जेनरेटिव AI पर चर्चा हो रही है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-church-news",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "ताइवानी मंदारिन का क्रमिक विकास——चार सौ वर्षों का भाषाई स्तरीकरण",
-        "desc": "एक बेंटो बॉक्स में इतिहास के कितने टुकड़े छिपे हैं? इस शब्द की यात्रा का अनुसरण करते हुए, उस भाषा का अन्वेषण करें जो चार सौ वर्षों में इस द्वीप पर स्वाभाविक रूप से विकसित हुई।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-mandarin-evolution",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "ताइवानी मीम: पीटीटी उपयोगकर्ताओं से सामाजिक सुरक्षा वाल्व तक तीस वर्षों की सांस्कृतिक विकास",
-        "desc": "ताइवानी मीम केवल इंटरनेट चुटकुले नहीं हैं, बल्कि ये तीस वर्षों तक फैला एक सामूहिक रचनात्मक प्रयोग है। पीटीटी के गुमनाम मंच की भाषाई कीमिया से, «जिए को ना» के सामूहिक सामाजिक उपचार तक, फिर «शांग बा», «चुआन शान जिया» जैसे क्लासिक मामलों तक, ताइवानी मीम ने एक अद्वितीय «सामाजिक सुरक्षा वाल्व» तंत्र विकसित किया है, जो असहजता, आघात और राजनीतिक चिंता को सामूहिक रूप से साझा करने योग्य सांस्कृतिक प्रतीकों में बदल देता है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-meme-culture",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "ताइवान के बच्चों के अंग्रेजी नाम: Mary, Kevin और पढ़ाई पढ़ाने वाली शिक्षकों का नामकरण अधिकार",
-        "desc": "पढ़ाई पढ़ाने वाले शिक्षकों की किताबों की झलक से लेकर पासपॉर्ट के पिंजी नाम तक और स्टारबक्स काउंटर तक, वह नाम कभी आपका चुना नहीं गया। 1983 के हे ज़िआन, 1987 के ज़ीमी सड़ी मेंगलीश के 'नो चाइनीज़, इंग्लिश प्लीज़' से लेकर 2024 के विधानसभा द्वारा एकांक वंशज नाम की अनुमति देने के कानूनी संशोधन तक, इस नामकरण के इतिहास को उन 30 सेकंड के विचलन के साथ वापस लाता है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwanese-childhood-english-names",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "ar": [

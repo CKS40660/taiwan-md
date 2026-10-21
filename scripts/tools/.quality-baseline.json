@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-20T22:06:03Z",
-  "total": 1148,
+  "timestamp": "2026-10-21T22:06:07Z",
+  "total": 1149,
   "flagged": 724,
   "files": [
     {
@@ -1411,13 +1411,8 @@
     },
     {
       "file": "nature/台灣穿山甲.md",
-      "score": 4,
-      "reasons": "未人工審核; 分號7個; 稀薄段落×7"
-    },
-    {
-      "file": "nature/台灣白海豚.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句5個"
+      "score": 5,
+      "reasons": "未人工審核; 分號9個; 稀薄段落×7"
     },
     {
       "file": "nature/台灣環境運動史.md",
@@ -1893,6 +1888,11 @@
       "file": "people/李登輝.md",
       "score": 4,
       "reasons": "未人工審核; 連續bullet4行; 塑膠句2個; 稀薄段落×1"
+    },
+    {
+      "file": "people/李國修.md",
+      "score": 5,
+      "reasons": "未人工審核; 教科書開場; 稀薄段落×2"
     },
     {
       "file": "people/徐巧芯.md",

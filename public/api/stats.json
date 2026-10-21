@@ -1,44 +1,44 @@
 {
-  "totalArticles": 14924,
+  "totalArticles": 14937,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 8982,
+  "totalTags": 8967,
   "categories": [
     {
       "name": "vi",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "es",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "ko",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "hi",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "fr",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "en",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "ja",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "de",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "ru",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "Technology",
@@ -50,15 +50,15 @@
     },
     {
       "name": "id",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "ar",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "pt",
-      "count": 1148
+      "count": 1149
     },
     {
       "name": "Politics",
@@ -77,16 +77,16 @@
       "count": 46
     },
     {
+      "name": "Culture",
+      "count": 117
+    },
+    {
       "name": "About",
       "count": 9
     },
     {
       "name": "People",
       "count": 296
-    },
-    {
-      "name": "Culture",
-      "count": 116
     },
     {
       "name": "Geography",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 60
+      "count": 59
     },
     {
       "name": "企業",
@@ -144,7 +144,7 @@
     },
     {
       "name": "原住民族",
-      "count": 31
+      "count": 30
     },
     {
       "name": "政治",
@@ -183,11 +183,11 @@
       "count": 24
     },
     {
-      "name": "기업",
-      "count": 24
+      "name": "音樂",
+      "count": 23
     },
     {
-      "name": "音樂",
+      "name": "기업",
       "count": 23
     },
     {
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14924,
+    "zh-TW": 14937,
     "en": 0
   },
-  "lastUpdated": "2026-10-20T22:05:51.211Z",
-  "stars": 1219,
-  "forks": 186,
-  "zhPages": 1146,
+  "lastUpdated": "2026-10-21T22:05:55.658Z",
+  "stars": 1221,
+  "forks": 187,
+  "zhPages": 1147,
   "languagePages": {
-    "zh-TW": 1146,
-    "en": 1148,
-    "ja": 1148,
-    "ko": 1148,
-    "es": 1148,
-    "fr": 1148,
-    "vi": 1148,
-    "id": 1148,
-    "pt": 1148,
-    "hi": 1148,
-    "ar": 1148,
-    "ru": 1148,
-    "de": 1148
+    "zh-TW": 1147,
+    "en": 1149,
+    "ja": 1149,
+    "ko": 1149,
+    "es": 1149,
+    "fr": 1149,
+    "vi": 1149,
+    "id": 1149,
+    "pt": 1149,
+    "hi": 1149,
+    "ar": 1149,
+    "ru": 1149,
+    "de": 1149
   },
-  "enPages": 1148,
-  "totalPages": 1146
+  "enPages": 1149,
+  "totalPages": 1147
 }

@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1146 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,898 article-versions
+- 📖 **1147 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,911 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,28 +95,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1146  |
-| 🇹🇼 Chinese (zh-TW)             | 1146  |
-| 🇺🇸 English (en)                | 1148  |
-| 🇯🇵 日本語 (ja)                 | 1148  |
-| 🇰🇷 한국어 (ko)                 | 1148  |
-| 🇪🇸 Español (es)                | 1148  |
-| 🇫🇷 Français (fr)               | 1148  |
-| 🇻🇳 Tiếng Việt (vi)             | 1148  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1148  |
-| 🇵🇹 Português (pt)              | 1148  |
-| 🇮🇳 हिन्दी (hi)                 | 1148  |
-| 🇸🇦 العربية (ar)                | 1148  |
-| 🇷🇺 Русский (ru)                | 1148  |
-| 🌐 Deutsch (de)                | 1148  |
+| 📄 Total articles (zh-TW SSOT) | 1147  |
+| 🇹🇼 Chinese (zh-TW)             | 1147  |
+| 🇺🇸 English (en)                | 1149  |
+| 🇯🇵 日本語 (ja)                 | 1149  |
+| 🇰🇷 한국어 (ko)                 | 1149  |
+| 🇪🇸 Español (es)                | 1149  |
+| 🇫🇷 Français (fr)               | 1149  |
+| 🇻🇳 Tiếng Việt (vi)             | 1149  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1149  |
+| 🇵🇹 Português (pt)              | 1149  |
+| 🇮🇳 हिन्दी (hi)                 | 1149  |
+| 🇸🇦 العربية (ar)                | 1149  |
+| 🇷🇺 Русский (ru)                | 1149  |
+| 🌐 Deutsch (de)                | 1149  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 78    |
-| ⭐ GitHub Stars                | 1219  |
-| 🍴 Forks                       | 186   |
-| 📅 Articles last 7 days        | 98    |
-| 📅 Articles last 30 days       | 181   |
+| ⭐ GitHub Stars                | 1221  |
+| 🍴 Forks                       | 187   |
+| 📅 Articles last 7 days        | 88    |
+| 📅 Articles last 30 days       | 183   |
 
 <!-- STATS:END -->
 
@@ -592,10 +592,10 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4" width="100px;" alt=""/><br /><sub><b>Fred Chu</b></sub></a><br />💻 🖋️ 🤔 🌍 👀 🐛 🔧 📖</td>
     <td align="center"><a href="https://github.com/ellenlee"><img src="https://avatars.githubusercontent.com/u/13810570?v=4" width="100px;" alt=""/><br /><sub><b>Ellen Lee</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
+    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
     <td align="center"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4" width="100px;" alt=""/><br /><sub><b>EryetChen</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/AgendaLu"><img src="https://avatars.githubusercontent.com/u/43836432?v=4" width="100px;" alt=""/><br /><sub><b>YiChengLu</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4" width="100px;" alt=""/><br /><sub><b>Brian Huang</b></sub></a><br />💻 🤔 🌍</td>
-    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>

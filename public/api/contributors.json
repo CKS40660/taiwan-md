@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:05:52.140Z",
+  "lastUpdated": "2026-10-21T22:05:56.345Z",
   "totals": {
     "contributors": 78,
     "activeWindow": "last 30d"
@@ -7,15 +7,15 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10206,
+      "commits": 10227,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-20 16:41:56 +0800",
+      "lastCommitAt": "2026-10-22 02:38:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1763,
-        "system": 5185,
+        "content": 1774,
+        "system": 5194,
         "translation": 2456
       }
     },
@@ -35,15 +35,15 @@
     },
     {
       "login": "tboydar",
-      "commits": 144,
+      "commits": 146,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-20 09:40:50 +0800",
+      "lastCommitAt": "2026-10-20 17:27:47 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 61,
-        "system": 9,
+        "content": 62,
+        "system": 10,
         "translation": 88
       }
     },
@@ -174,6 +174,20 @@
       }
     },
     {
+      "login": "bugnimusic",
+      "commits": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profileUrl": "https://github.com/bugnimusic",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "eryet",
       "commits": 12,
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -213,20 +227,6 @@
         "content": 0,
         "system": 11,
         "translation": 1
-      }
-    },
-    {
-      "login": "bugnimusic",
-      "commits": 11,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
-      "profileUrl": "https://github.com/bugnimusic",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     },
     {
@@ -372,6 +372,13 @@
       "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
     },
     {
+      "login": "bugnimusic",
+      "name": "Bugni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profileUrl": "https://github.com/bugnimusic",
+      "types": ["💻", "🖋️", "🌍", "🐛"]
+    },
+    {
       "login": "eryet",
       "name": "EryetChen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -391,13 +398,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
       "profileUrl": "https://github.com/BrianHuang813",
       "types": ["💻", "🤔", "🌍"]
-    },
-    {
-      "login": "bugnimusic",
-      "name": "Bugni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
-      "profileUrl": "https://github.com/bugnimusic",
-      "types": ["💻", "🖋️", "🌍", "🐛"]
     },
     {
       "login": "iigmir",
@@ -909,15 +909,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10206,
+      "commits": 10227,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-20 16:41:56 +0800",
+      "lastCommitAt": "2026-10-22 02:38:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1763,
-        "system": 5185,
+        "content": 1774,
+        "system": 5194,
         "translation": 2456
       }
     },
@@ -981,15 +981,15 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 144,
+      "commits": 146,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-20 09:40:50 +0800",
+      "lastCommitAt": "2026-10-20 17:27:47 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 61,
-        "system": 9,
+        "content": 62,
+        "system": 10,
         "translation": 88
       }
     },
@@ -1050,7 +1050,7 @@
       }
     }
   ],
-  "weeklyActive": 3,
+  "weeklyActive": 2,
   "monthlyActive": 3,
   "recentlyJoined": []
 }

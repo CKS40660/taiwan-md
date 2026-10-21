@@ -2,7 +2,7 @@
   "categories": {
     "About": 108,
     "Art": 612,
-    "Culture": 1392,
+    "Culture": 1404,
     "Economy": 960,
     "Food": 1068,
     "Geography": 984,
@@ -783,8 +783,12 @@
     },
     {
       "date": "2026-10-21",
-      "count": 16
+      "count": 17
+    },
+    {
+      "date": "2026-10-22",
+      "count": 12
     }
   ],
-  "updated": "2026-10-20"
+  "updated": "2026-10-21"
 }
