@@ -76,6 +76,78 @@ def _strip_inline_comment(value: str) -> str:
     return "".join(out).strip()
 
 
+def _unquote_scalar(value: str) -> str:
+    """脫掉成對的引號，並還原 YAML 單引號裡的 `''` 轉義。
+
+    YAML 的單引號字串用 `''` 表示一個 `'`，所以 `'Hla''alua'` 的值是
+    `Hla'alua`。先前這裡只做 `[1:-1]` 或 `.strip("'\\"")`，於是
+    `title: 'Hla''alua: From "Southern Tsou"…'` 在沒有 PyYAML 的機器上
+    會留下 `Hla''alua`——同一個檔，裝了 PyYAML 讀到一種標題、沒裝讀到另一種。
+
+    `.strip("'\\"")` 另有一個問題：它剝除**兩端所有**引號字元，
+    值本身以引號開頭或結尾時會被吃掉一層。改成只脫一對成對的引號。
+    """
+    v = value.strip()
+    if len(v) >= 2 and v[0] == v[-1] and v[0] in ("'", '"'):
+        body = v[1:-1]
+        if v[0] == "'":
+            body = body.replace("''", "'")
+        return body
+    return v
+
+
+def _split_flow_items(inner: str) -> list[str]:
+    """切 YAML flow sequence 的頂層逗號，不切在引號或巢狀括號裡面。
+
+    舊寫法是 `re.split(r",(?![^\\[\\]]*\\])", inner)` 再逐項 strip 引號，
+    它看不見引號，所以 `tags: ['拉阿魯哇族', 'Hla''alua, 聖貝祭, 原住民族, 族語復振']`
+    被切成五項，而 PyYAML 讀到的是兩項（第二項是一個含逗號的字串）。
+    這個分歧不會讓任何閘門變紅，但它讓「這台機器有沒有 PyYAML」
+    變成 tags 內容的隱性變數——而這支 fallback 存在的理由，
+    正是要讓兩條路徑讀出同一件事（REFLEXES #83 兩把尺）。
+    """
+    items: list[str] = []
+    buf: list[str] = []
+    quote: str | None = None
+    depth = 0
+    k = 0
+    while k < len(inner):
+        ch = inner[k]
+        if quote:
+            # 單引號裡的 `''` 是轉義的 `'`，不是字串結束。
+            # 原樣留著，交給 _unquote_scalar 還原。
+            if ch == quote == "'" and inner[k + 1 : k + 2] == "'":
+                buf.append("''")
+                k += 2
+                continue
+            buf.append(ch)
+            if ch == quote:
+                quote = None
+            k += 1
+            continue
+        # 引號只有出現在「項目開頭」時才開啟 quoted scalar。
+        # YAML 的 plain scalar 裡，詞中間的 `'` 是字面值：
+        # `[jeux d'enfance, wang-a-piau]` 是兩項，不是一項未閉合的字串。
+        # （跟 _strip_inline_comment 判 `#` 是同一條規則：看前面是不是空白。）
+        if ch in ("'", '"') and not "".join(buf).strip():
+            quote = ch
+            buf.append(ch)
+        elif ch in "[{":
+            depth += 1
+            buf.append(ch)
+        elif ch in "]}":
+            depth -= 1
+            buf.append(ch)
+        elif ch == "," and depth <= 0:
+            items.append("".join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+        k += 1
+    items.append("".join(buf))
+    return [s for s in (_unquote_scalar(x) for x in items) if s]
+
+
 def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
     """Lightweight YAML frontmatter parser — handles the subset Taiwan.md uses.
 
@@ -153,11 +225,7 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
             if closed:
                 joined = " ".join(buf)
                 inner = joined[joined.index("[") + 1 : joined.rindex("]")]
-                items = [
-                    s.strip().strip("'\"")
-                    for s in re.split(r",(?![^\[\]]*\])", inner)
-                ]
-                out[key] = [s for s in items if s]
+                out[key] = _split_flow_items(inner)
                 i = j + 1
                 continue
 
@@ -209,11 +277,7 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
                 if closed:
                     joined = " ".join(buf2)
                     inner = joined[joined.index("[") + 1 : joined.rindex("]")]
-                    items = [
-                        s.strip().strip("'\"")
-                        for s in re.split(r",(?![^\[\]]*\])", inner)
-                    ]
-                    out[key] = [s for s in items if s]
+                    out[key] = _split_flow_items(inner)
                     i = j + 1
                     continue
 
@@ -229,13 +293,7 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
                     item_m = re.match(r"^\s+-\s+(.*)$", item_line)
                     if not item_m:
                         break
-                    item_val = item_m.group(1).strip()
-                    if (
-                        item_val.startswith("'") and item_val.endswith("'")
-                    ) or (item_val.startswith('"') and item_val.endswith('"')):
-                        seq.append(item_val[1:-1])
-                    else:
-                        seq.append(item_val)
+                    seq.append(_unquote_scalar(item_m.group(1).strip()))
                     j += 1
                 out[key] = seq
                 i = j
@@ -285,11 +343,7 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
                     key != "rationale" or ckey not in _RATIONALE_CHILDREN
                 ):
                     break
-                if (cval.startswith("'") and cval.endswith("'")) or (
-                    cval.startswith('"') and cval.endswith('"')
-                ):
-                    cval = cval[1:-1]
-                nested[ckey] = cval
+                nested[ckey] = _unquote_scalar(cval)
                 i += 1
                 # nested key 的值可能是 block sequence：
                 #     rationale:
@@ -305,11 +359,7 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
                     seq_m = re.match(r"^\s+-\s+(.*)$", seq_line.rstrip())
                     if not seq_m:
                         break
-                    sval = seq_m.group(1).strip()
-                    if (
-                        sval.startswith("'") and sval.endswith("'")
-                    ) or (sval.startswith('"') and sval.endswith('"')):
-                        sval = sval[1:-1]
+                    sval = _unquote_scalar(seq_m.group(1).strip())
                     if not isinstance(nested[ckey], list):
                         nested[ckey] = []
                     nested[ckey].append(sval)
@@ -318,21 +368,13 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
             continue
         # List: [a, b, c] or ['a', 'b']（單行、完整閉合；跨行版本在上面處理）
         if val.startswith("[") and val.endswith("]"):
-            inner = val[1:-1].strip()
-            if not inner:
-                out[key] = []
-            else:
-                items = [
-                    s.strip().strip("'\"")
-                    for s in re.split(r",(?![^\[\]]*\])", inner)
-                ]
-                out[key] = [s for s in items if s]
+            out[key] = _split_flow_items(val[1:-1].strip())
             continue
         # Quoted string
         if (val.startswith("'") and val.endswith("'")) or (
             val.startswith('"') and val.endswith('"')
         ):
-            out[key] = val[1:-1]
+            out[key] = _unquote_scalar(val)
             continue
         # Bool
         if val == "true":

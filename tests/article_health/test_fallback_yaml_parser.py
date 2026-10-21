@@ -254,3 +254,87 @@ def test_pyyaml_and_fallback_agree_on_tags_array():
     got = _parse_without_pyyaml(fm)
     assert got["tags"] == ref["tags"]
     assert isinstance(got["tags"], list)
+
+
+# ── 引號語意：以下五個 case 是 2026-10-21 twmd-maintainer-daily 補的 ──────
+#
+# 上面那組 case 把「跨行 flow array 認不認得」修好了（tags 型別不再判錯），
+# 但同一支 fallback 對**引號**還有三個跟 PyYAML 不一致的地方。
+# 這些不一致不會讓任何閘門變紅，所以不會有人來報——它們讓
+# 「這台機器有沒有裝 PyYAML」變成 tags 與 title **內容**的隱性變數。
+# 一道只關了一半的閘門，讀起來跟關好的一模一樣（REFLEXES #82／#83）。
+#
+# 落檔時全庫實測：tags 54 檔不一致、title 37 檔不一致 → 補完後兩者都是 0。
+
+
+def test_single_quote_escape_is_unescaped_in_title():
+    """`''` 在 YAML 單引號字串裡是一個 `'`，不是兩個。
+
+    修之前：`title: 'Hla''alua: …'` 在沒有 PyYAML 的機器上留下
+    `Hla''alua`，裝了 PyYAML 的機器讀到 `Hla'alua`——同一個檔兩種標題。
+    真實檔案：knowledge/en/Culture/hla-alua-people.md（全庫 37 檔同型）。
+    """
+    yaml = pytest.importorskip("yaml")
+    fm = "title: 'Hla''alua: From \"Southern Tsou\" to Their Own Name'\n"
+    ref = yaml.safe_load(fm)
+    got = _parse_without_pyyaml(fm)
+    assert got["title"] == ref["title"]
+    assert got["title"].startswith("Hla'alua")
+    assert "''" not in got["title"]
+
+
+def test_flow_array_does_not_split_inside_quoted_scalar():
+    """逗號在引號裡面不是分隔符。
+
+    修之前：切逗號的正則看不見引號，
+    `['拉阿魯哇族', 'Hla''alua, 聖貝祭, 原住民族, 族語復振']`
+    被切成五項，PyYAML 讀到的是兩項（第二項是一個含逗號的字串）。
+    真實檔案：knowledge/Culture/拉阿魯哇族.md。
+    """
+    yaml = pytest.importorskip("yaml")
+    fm = "tags: ['拉阿魯哇族', 'Hla''alua, 聖貝祭, 原住民族, 族語復振']\n"
+    ref = yaml.safe_load(fm)
+    got = _parse_without_pyyaml(fm)
+    assert got["tags"] == ref["tags"]
+    assert len(got["tags"]) == 2
+
+
+def test_apostrophe_inside_plain_scalar_is_literal():
+    """plain scalar 詞中間的 `'` 是字面值，不開啟 quoted scalar。
+
+    修之前：把 `jeux d'enfance` 的那個撇號當成字串開頭，
+    於是整行剩下的內容被吞成一項（六項變一項）。
+    真實檔案：knowledge/fr/Lifestyle/wang-a-piau-pog-cards.md（fr 共 9 檔同型）。
+    """
+    yaml = pytest.importorskip("yaml")
+    fm = "tags:\n  [jeux d'enfance, wang-a-piau, culture taïwanaise, jeux]\n"
+    ref = yaml.safe_load(fm)
+    got = _parse_without_pyyaml(fm)
+    assert got["tags"] == ref["tags"]
+    assert len(got["tags"]) == 4
+
+
+def test_double_quoted_item_keeps_apostrophe_and_comma():
+    """雙引號項目裡的撇號與逗號都該原樣留著。
+
+    真實檔案：knowledge/fr/Geography/beida-special-district-sanxia.md
+    的 `"Boulevard de l'Art"` 跟它後面那一項。
+    """
+    yaml = pytest.importorskip("yaml")
+    fm = "tags: ['Sanxia', \"Boulevard de l'Art\", 'Ligne Sanying']\n"
+    ref = yaml.safe_load(fm)
+    got = _parse_without_pyyaml(fm)
+    assert got["tags"] == ref["tags"]
+    assert "Boulevard de l'Art" in got["tags"]
+
+
+def test_value_wrapped_in_quotes_only_loses_one_pair():
+    """只脫一對成對的引號，不是剝掉兩端所有引號字元。
+
+    修之前用 `.strip("'\\"")`，值本身以引號收尾時會被多吃一層。
+    """
+    yaml = pytest.importorskip("yaml")
+    fm = "tags: ['他說「這不是終點」', '引號結尾\"']\n"
+    ref = yaml.safe_load(fm)
+    got = _parse_without_pyyaml(fm)
+    assert got["tags"] == ref["tags"]
