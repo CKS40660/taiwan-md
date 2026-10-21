@@ -442,7 +442,7 @@ const encodedTitle = encodeURIComponent(title);
                 src={frontmatter.image}
                 alt={frontmatter.imageAlt || title}
                 loading="eager"
-                class="aspect-[16/9] w-full rounded-2xl object-cover"
+                class="article-media-img"
               />
               {(frontmatter.imageCredit ||
                 frontmatter.imageLicense ||
@@ -1562,13 +1562,27 @@ const encodedTitle = encodeURIComponent(title);
     margin: 2.5rem 0;
     text-align: center;
   }
-  .prose :global(img) {
-    width: 100%;
-    max-height: 480px;
-    object-fit: cover;
+  /* 圖依原比例呈現、不裁切（2026-10-21 哲宇：「就是要能適用不同大小的比例怎麼呈現在
+     文章中，不是強制裁切圖」）。舊規則 width:100% + max-height:480px + object-fit:cover
+     在桌機欄寬 726px 下裁掉 733 張內文圖中的 597 張，直式圖切到頭（〈一同走過從前〉張照堂）。
+     現在：寬度不超過欄寬、高度不超過 min(75vh, 640px)，兩者都按原比例縮，直式圖置中。
+     比原圖窄的圖照原寸，不放大。hero 同一套（.article-media-img）。 */
+  .prose :global(img),
+  .article-media-img {
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: min(75vh, 640px);
+    object-fit: contain;
     border-radius: 12px;
     margin: 0;
     box-shadow: 0 4px 24px rgba(26, 60, 52, 0.1);
+    vertical-align: middle;
+  }
+  .article-media-img {
+    display: block;
+    margin: 0 auto;
   }
   /* Hide the <br> between img and em */
   .prose :global(p:has(img) br) {

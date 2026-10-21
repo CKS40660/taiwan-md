@@ -639,10 +639,10 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **哲學**：→ [MANIFESTO §11 書寫節制](MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)
 - **操作**：→ prose-health plugin（已 instrument）+ pre-commit hook + REWRITE Stage 4 + SPORE-VERIFY 3c.7 五層 gate
 
-**#30 媒體插入時 aspect ratio 護欄：portrait 圖會被切到頭** — Astro 渲染框為 ~16:9 landscape，hero 圖（frontmatter `image:`）必須 0.9 ≤ aspect ratio ≤ 2.0，否則上下會被切。inline 圖（markdown `![]()`）寬鬆些 0.75 ≤ ratio ≤ 2.5。**絕對禁止 hero 用 9:16 portrait（高 > 寬 1.5x 以上）**。
+**#30 圖切到頭，修的是框不是圖** — 2026-10-21 起文章模板依原比例呈現每張圖（寬 ≤ 欄寬、高 ≤ `min(75vh, 640px)`，等比縮、置中，hero 與內文同一套），不再用 `object-fit: cover` 塞進固定框。比例只決定圖在頁面上長什麼樣，不決定它能不能用：直式照片就直著放，不為了框去裁圖、補邊或換掉更好的畫面；只有 < 0.4 或 > 3.5 的極端比例才會變成看不清的窄柱／細帶。
 
-- **觸發**：2026-04-28 ι 林琪兒 EVOLVE 第一張 SpaceX Crew-4 commander portrait 1041×1561（aspect 0.67）放 frontmatter 後切到只剩鼻子下，觀察者截圖回報 → 換 landscape 1041×694（aspect 1.5）解決
-- **操作**：→ [REWRITE-PIPELINE Step 1.9.2 圖片素材](../pipelines/REWRITE-PIPELINE.md)（v6.0 編號，v5 為 Step 1.14.2，v2.20 為 §1.7b）授權矩陣 + Step 4.3.3 aspect ratio 護欄 + `bash scripts/tools/check-aspect.sh {filename}`
+- **觸發**：2026-04-28 ι 林琪兒 SpaceX Crew-4 portrait hero（0.67）切到只剩鼻子下，當時的解法是「換 landscape 圖」並立 hero 0.9–2.0／inline 0.75–2.5 護欄；2026-10-21〈一同走過從前〉張照堂 644×859 直式照（0.75，在護欄內）上線後仍切到頭，量測全站 733 張內文圖有 597 張在桌機被裁——護欄擋不住，因為病在框。哲宇：「就是要能適用不同大小的比例怎麼呈現在文章中，不是強制裁切圖」
+- **操作**：→ [REWRITE-PIPELINE-SINGLE Step 1.9.2 呈現比例表 + Step 4.3.3](../pipelines/REWRITE-PIPELINE-SINGLE.md) + `bash scripts/tools/check-aspect.sh {filename}`（印桌機呈現尺寸）+ `image-health` §1c（極端比例 WARN）
 - **設計理由**：→ [reports/rewrite-pipeline-media-stage-design-2026-04-28-ι.md](../../reports/rewrite-pipeline-media-stage-design-2026-04-28-ι.md)
 
 ---
