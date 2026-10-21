@@ -123,6 +123,8 @@ CREDIT_OUT_MARKERS = (
     "in_flight_budget_exhausted",
     "exceed your available credits",
     "Insufficient credits",
+    "requires more credits",      # 同一個 402 的另一種措辭：餘額只夠更小的 max_tokens
+    "add more credits",
 )
 OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 

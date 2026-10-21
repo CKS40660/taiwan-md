@@ -59,5 +59,8 @@ def test_markers_match_openrouter_402_body():
             'available credits given your current in-flight requests.","code":402,'
             '"metadata":{"reason":"in_flight_budget_exhausted"}}}')
     assert any(m in body for m in MODULE.CREDIT_OUT_MARKERS)
+    other = ('HTTP 402 on key=default: {"error":{"message":"This request requires more credits, '
+             'or fewer max_tokens. You requested up to 8000 tokens, but can only afford 7701."}}')
+    assert any(m in other for m in MODULE.CREDIT_OUT_MARKERS)
     # 429 限流不是餘額用盡，不能讓付費層被誤停
     assert not any(m in "HTTP 429 on key=acc2: rate limited" for m in MODULE.CREDIT_OUT_MARKERS)
