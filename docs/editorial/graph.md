@@ -3,9 +3,9 @@ title: 'graph.md — Taiwan.md 視覺化編輯指南'
 description: '文章內視覺化的 DNA 層 canonical：何時用哪種圖、怎麼做才好、模組語法、AI 可讀性、多語、視覺化檢查清單。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v3.1'
-last_updated: 2026-09-19
-last_session: '2026-09-19-news-radar（v3.1：單篇 tw-* 上限 4；採用率算文章佔比不算單篇模組數）'
+current_version: 'v3.2'
+last_updated: 2026-10-21
+last_session: '2026-10-21-yitong（v3.2：精選文 tw-* 上限 8、全篇媒體 ≤ 20；一般文章仍 ≤ 4）'
 sister_docs:
   - 'EDITORIAL.md'
   - 'RESEARCH.md'
@@ -454,6 +454,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 
 - **不是每篇都要有圖**。沒有適合的資料就誠實不加（避免 chartjunk）。REWRITE-PIPELINE Stage 2 只要求**評估過**視覺化候選，不要求硬塞。
 - **單篇上限 4 個模組**（2026-09-19）。2026-09-18 三篇各塞 11-13 個，哲宇讀後「過度強調數字」；隔天砍到 2-4 個重做，文章反而看得見人。一張圖回答一個資料關係，第五張通常是把腳註畫出來。採用率的指標算「有模組的文章佔比」，不算「單篇模組數」——後者只會獎勵堆砌。〈國宅與居住正義〉5 個、〈黃魚鴞〉0 個，兩篇都是哲宇點名喜歡的。
+- **精選文（`featured: true`）上限 8 個模組**（2026-10-21 哲宇拍板，〈一同走過從前〉）：精選文篇幅長、橫跨多個年代或面向，可以到 8 個；全篇媒體（hero＋圖＋影片＋模組）合計 ≤ 20（[EDITORIAL §四 呼吸鐵律 3](EDITORIAL.md)）。「一張圖回答一個資料關係」不因此放寬：第五到第八張也要各自回答一個段落裡的問題，不是把腳註畫出來。
 - **Hub 頁 / 短修正 / 純人物抒情文**：可不用。
 - **markdown 資料表 vs 模組的分界**（2026-07-16 審計，161 篇用表格是用模組的 3.2 倍）：**數值矩陣／趨勢／現況-目標類轉模組**（讀者要看形狀）；**質性對照／規格型錄留表格**（機型表、制度手法表——表格本身是一等視覺化，不是退路，Datawrapper 2025 使用數據第一名就是 table）。
 - **模組外的複雜需求**：退回 prose + 資料表，不硬幹重 JS。HARD 類型都有 EASY 替代：
@@ -475,6 +476,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 ---
 
 _v3.1 | 2026-08-19 — 模組 19→20（+`tw-article` 文內嵌入卡）。哲宇 directive：「在文章中外嵌 taiwan.md 文章的模組（使用共用元件，屬於 graph.md 的一種元件）」，觸發是〈比國家還大的演算藝術〉提到鎢供應鏈／黃魚鴞／紀懷新那幾段。實作三層：renderer（`article-render.ts` 吐帶 data-attr 的 placeholder + fallback 純連結）→ `utils/article-embeds.ts`（切 HTML、用譯文 `translatedFrom` 反查十二語）→ `components/ArticleProse.astro`（在 `.prose` 內逐段 set:html／逐卡 `<ArticleCard density="embed">`）。ArticleCard 新增 `embed` 密度（detailed 的精實版：小縮圖左置、手機不堆疊、全 tokens 不進 dark-polish、logical properties）。§二 型錄 +「站內延伸」一列。_
+_v3.2 | 2026-10-21 yitong — §九 加精選文上限：`featured: true` tw-\* ≤ 8、全篇媒體 ≤ 20，一般文章仍 ≤ 4。哲宇原話「圖表模組也是可以到8個」。_
 _v3.0 | 2026-07-16 viz-evolution — 模組 17→19（+arc 席次弧/+multiples 小倍數）＋ renderer 六語 i18n（VIZ_STRINGS 修「翻譯頁中文毛邊」與簡體「脚注」）＋ tw-dot 三值列（民調點估＋區間）＋ scroll-reveal 漸進增強（§三.14 雙護欄）＋ tiles 縣市名 EN/JA 正規化＋ viz-health 結構檢查與 timeline/versus/stat 來源 gate（審計：被 gate 0% 缺源 vs 未 gate 41-46%）＋ §八 +4 反例 ＋ §九 v4 候選。研究與審計：reports/viz-module-evolution-2026-07-16.md。_
 _v2.0 | 2026-06-12 viz-evolution — 模組 10→17（+slope/dot/stack/pyramid/tiles/iso/note）；共通約定（標題列/來源列全模組/`*` 強調/`基準：` 線）；§三 +4 原則（visible-by-default / 灰色脈絡 / 【說明】公約 / 多語標籤）；§八 +6 反例（雙色相泥中段 / 磚圖放數量 / legend-hunting / 多序列面積 / SVG 字級膨脹 / 群組條比總量）；修 v1.0 三個 cascade leak（quote 灰框 / heatmap 字色 / 來源列三模組漏接）。視覺驗證 51 截圖 + 外部研究：reports/viz-system-evolution-2026-06-12.md。_
 _v1.0 | 2026-06-06 — 10 模組 + 型錄 + 設計原則 + AI 可讀 + 多語 + 檢查清單。設計研究：reports/article-visualization-design-2026-06-06.md（參考 The Pudding，長出自己的器官）。_
