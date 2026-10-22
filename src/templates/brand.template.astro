@@ -9,7 +9,8 @@
  */
 import Layout from '../layouts/Layout.astro';
 import identity from '../data/brand/identity.json';
-import { icons, iconGroups } from '../icons/taiwan-icons.mjs';
+import { emojiIcons, icons, iconGroups } from '../icons/taiwan-icons.mjs';
+const emojiCount = Object.keys(emojiIcons).length;
 
 type Rect = { x: number; y: number; w: number; h: number; t: number };
 const I = identity as any;
@@ -140,7 +141,7 @@ const sprite = `<svg width="0" height="0" style="position:absolute" aria-hidden=
   .join('')}</symbol>
 </defs></svg>`;
 const iconSvgInline = (name: string, size = 24, extra = '') =>
-  `<svg viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" aria-hidden="true" ${extra}><path d="${(icons as Record<string, string>)[name]}"/></svg>`;
+  `<svg viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="miter" aria-hidden="true" ${extra}><path d="${(icons as Record<string, string>)[name]}"/></svg>`;
 
 // ── 章節 ──────────────────────────────────────────────────────────────
 const chapters = [
@@ -348,7 +349,7 @@ const geoSvg = (() => {
                 <text x="${islandW + p + 60}" y="${f(islandH * 0.2 + 48)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">行粗 × ${I.spec.weight}</text>
               </svg>`;
 })();
-const gridDemoSvg = `<svg viewBox="0 0 24 24" role="img" aria-label="圖示格線示意"><defs><pattern id="b-g1" width="1" height="1" patternUnits="userSpaceOnUse"><path d="M1 0H0V1" fill="none" stroke="var(--b-line)" stroke-width=".04"/></pattern></defs><rect width="24" height="24" fill="url(#b-g1)"/><rect x="2" y="2" width="20" height="20" fill="none" stroke="var(--b-signal)" stroke-width=".08" stroke-dasharray=".4 .3"/><path d="${(icons as Record<string, string>).archive}" fill="none" stroke="var(--b-ink-1)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter"/><path d="M8.5 11h7 M8.5 14h7 M8.5 17h4" fill="none" stroke="var(--b-brand)" stroke-width="1.5"/></svg>`;
+const gridDemoSvg = `<svg viewBox="0 0 24 24" role="img" aria-label="圖示格線示意"><defs><pattern id="b-g1" width="1" height="1" patternUnits="userSpaceOnUse"><path d="M1 0H0V1" fill="none" stroke="var(--b-line)" stroke-width=".04"/></pattern></defs><rect width="24" height="24" fill="url(#b-g1)"/><rect x="2" y="2" width="20" height="20" fill="none" stroke="var(--b-signal)" stroke-width=".08" stroke-dasharray=".4 .3"/><path d="${(icons as Record<string, string>).archive}" fill="none" stroke="var(--b-ink-1)" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="miter"/><path d="M8.5 12h7 M8.5 16h5" fill="none" stroke="var(--b-brand)" stroke-width="1.75"/></svg>`;
 
 const dlGroups = [
   {
@@ -1188,14 +1189,17 @@ const dlGroups = [
                   時才對得上像素。
                 </dd>
                 <dt>線</dt><dd>
-                  線寬 1.5，平頭線端、尖角接合，跟標誌平切的行是同一個語彙。
+                  線寬 1.75，平頭線端、尖角接合，跟標誌平切的行是同一個語彙。
                 </dd>
                 <dt>行線</dt><dd>
-                  有面積的地方不填滿，畫二到三條水平行線，行距
-                  3。搜尋框、文件、晶片、燈籠、麥克風、愛心裡都有，這是整套的簽名。
+                  有面積的地方不填滿，最多畫兩條水平行線，行距至少 4
+                  格；平行筆畫至少隔 3
+                  格。文件、晶片、燈籠、麥克風裡都有，這是整套的簽名。站上的圖示多半以
+                  16–20 px
+                  出現在文字旁，這些間距讓它們在小尺寸不糊成一塊（v2.1）。
                 </dd>
                 <dt>台灣</dt><dd>
-                  island 不手畫，路徑由 mark.mjs 從海岸線算出：8 行，第 5
+                  island 不手畫，路徑由 mark.mjs 從海岸線算出：6 行，第 4
                   行是北迴歸線。
                 </dd>
                 <dt>顏色</dt><dd>
@@ -1270,9 +1274,11 @@ const dlGroups = [
           <p class="b-note">
             站上的 emoji 在建站時會自動換成這套圖示（像 <code>🔍</code> → search、<code
               >🛵</code
-            > → scooter），共 201 個對照。國旗與 <code>🧬</code>（Taiwan.md
-            的簽名）、<code>🫧</code>（Muse
-            的簽名）保留原樣；文章內文、引言、程式碼也不換。
+            > → scooter），共 {emojiCount} 個對照。國旗、<code>🫧</code>（Muse
+            的簽名）與讀者留言裡的 emoji 保留原樣；<code>🧬</code>
+            在介面上畫成生命體線圖，文章內文、引言、程式碼裡照舊是文字。瀏覽器端事後寫進去的圖示用
+            <code>window.twmdIcon(name)</code>；全站殘留用
+            <code>node scripts/tools/icon-audit.mjs</code> 盤點。
           </p>
         </section>
 
