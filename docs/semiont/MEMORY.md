@@ -277,52 +277,6 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07 | 月度彙整 | 29 篇，完整列已 verbatim 歸檔 | — | [→](memory/index-archive/2026-07.md) |
 | 2026-08 | 月度彙整 | 5 篇，完整列已 verbatim 歸檔 | — | [→](memory/index-archive/2026-08.md) |
 | 2026-09 | 月度彙整 | 21 篇，完整列已 verbatim 歸檔 | — | [→](memory/index-archive/2026-09.md) |
-| 2026-10-12 | 011557-twmd-supporters-weekly | 贊助信週檢 0 候選：正控制照常命中、隱私 gate 兩條過、累積 NT$8,400 不變；上週那班沉默死亡，本班窗口已涵蓋；定額續扣缺席仍待 #75 | 輸入可重查的 routine 漏跑一班不漏資料，只延後看見 | [→](memory/2026-10-12-011557-twmd-supporters-weekly.md) |
-| 2026-10-12 | 053942-twmd-routine-sync | 第 71 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程再試一次仍被核准閘門擋下，待哲宇在 app 註冊，週三 22:00 前沒註冊就空一週 | 權限缺口不會被重試解掉，交接要寫第一個會錯過的時點 | [→](memory/2026-10-12-053942-twmd-routine-sync.md) |
-| 2026-10-12 | 055706-twmd-embeddings-nightly | 例行重建：13 語 14,495 向量 0 fail，十二語補進〈來來來，怎麼樣、怎麼樣〉後鍵數一致，verify PASS，`29941c03b`；排程器檔裡沒有註 ²⁸ 的模型釘選，本班跑 Opus | 宣稱的設定要在被執行的那份檔裡找得到 | [→](memory/2026-10-12-055706-twmd-embeddings-nightly.md) |
-| 2026-10-12 | 060831-twmd-data-refresh-am | 14 步全過、0 stale；告警檔在排程器 dump 之前生成，兩條已收官的週班被印成沉默死亡並跟著 commit，改成 dump 落檔後自動重生（4→2 條） | 產出與輸入都是今天的 mtime，不代表產出用今天的輸入算 | [→](memory/2026-10-12-060831-twmd-data-refresh-am.md) |
-| 2026-10-12 | 064133-twmd-spore-harvest-am | 窗口連兩天空場：兩個動態頁只有 10-02 已回那列與按讚追蹤，#29 聚合停在 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 收割空場天數量的是發布端停了多久（末孢子 08-23） | [→](memory/2026-10-12-064133-twmd-spore-harvest-am.md) |
-| 2026-10-12 | 071221-twmd-feedback-triage | 零回報第十七輪，沉默 12.3 天距歷史最長 12.6 天只差 0.3；兩道對賬 88/88 與 87/88 全綠；昨天上線的寫入端健檢自己過正控制，四條告警分支確認會叫 | 全綠同時是「沒事」與「這支尺不會叫」的長相 | [→](memory/2026-10-12-071221-twmd-feedback-triage.md) |
-| 2026-10-12 | 085058-twmd-maintainer-daily | 停轉告警的判讀句漏掉昨天新增的狀態，唯一 WARN 是沒註冊的排程時它叫人去合併不存在的分岔，修補七分鐘後它自己印出正確處置；另修 404 雙重編碼、首頁 4.1MB 進佇列 #102 | 第三種狀態進了資料面與測試，沒進那句給人讀的結論 | [→](memory/2026-10-12-085058-twmd-maintainer-daily.md) |
-| 2026-10-13 | 004538-twmd-babel-nightly | 續命班：十二語缺口連第二夜為零、四問巡檢全過；收掉傳兩班的 run 目錄清理，當班上線清 360 個零紀錄目錄，181 個有紀錄的一個不少 | 佇列空的夜晚是收小債的夜晚 | [→](memory/2026-10-13-004538-twmd-babel-nightly.md) |
-| 2026-10-13 | 053927-twmd-routine-sync | 第 72 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程照前班決定不重試核准閘門，週三 22:00 首次錯過前待哲宇在 app 註冊 | 寫進交接的「不重試」，下一班照做就好 | [→](memory/2026-10-13-053927-twmd-routine-sync.md) |
-| 2026-10-13 | 055748-twmd-embeddings-nightly | 例行重建：13 語 14,495 向量 0 fail，verify PASS；knowledge/ 自上一版零改動，索引逐位元組不變，照規則不 commit；本班仍跑 Opus，模型釘選未生效 | 零 diff 也要查原因：輸入沒變才合理 | [→](memory/2026-10-13-055748-twmd-embeddings-nightly.md) |
-| 2026-10-13 | 060950-twmd-data-refresh-am | 14 步全過、0 stale，告警改到 dump 後重生首日兩邊一致；範圍驗證 31 對 32 追到地圖標記產生器少結尾換行，檔案每天假修改又掉出 commit，當班補上 | 差一的讀數先問那個檔為什麼不在 commit 裡 | [→](memory/2026-10-13-060950-twmd-data-refresh-am.md) |
-| 2026-10-13 | 064223-twmd-spore-harvest-am | 窗口連三天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 修正住在可編輯處，流量住在不可編輯的孢子正文 | [→](memory/2026-10-13-064223-twmd-spore-harvest-am.md) |
-| 2026-10-13 | 071548-twmd-feedback-triage | 零回報第十八輪，沉默 13.3 天首次超過史上最長 12.6 天；兩道對賬 88/88 與 87/88 全綠、寫入端驗得到的兩層全綠；OAuth 那半用唯讀 GET 問掉，閾值送佇列 #103 | 十八輪都在手動扮演一個沒人設過的閾值 | [→](memory/2026-10-13-071548-twmd-feedback-triage.md) |
-| 2026-10-13 | 091950-twmd-maintainer-daily | 投稿佇列一夜 0→14，探測器登記三四週沒人派的五條 P1 被一個站外投稿者交齊；逐篇對原文抓到兩處只在門面那行的錯；交接那條 404 的規則式修法被自己推翻（這台主機不讀 `_redirects`），改在 404 頁認形狀 | 交接給的選項是線索不是題目 | [→](memory/2026-10-13-091950-twmd-maintainer-daily.md) |
-| 2026-10-14 | 053926-twmd-routine-sync | 第 73 輪：十九份 prompt 全一致、cron 零漂移；前班交接寫「10-15 週三」實為週四，審庫存首次錯過是今晚 22:00，已更正，仍待哲宇在 app 註冊 | 日期與星期對不起來時以 cron 為準 | [→](memory/2026-10-14-053926-twmd-routine-sync.md) |
-| 2026-10-14 | 060847-twmd-embeddings-nightly | 例行重建：13 語 14,558 向量 0 fail，verify PASS，`8c1cba1cc`；10-13 合併的五篇新文進索引（zh 1,115→1,120），外語版來自 babel 未推譯文，站上解析不到會略過 | 輸入有變，輸出就該變，而且變在對的鍵上 | [→](memory/2026-10-14-060847-twmd-embeddings-nightly.md) |
-| 2026-10-14 | 061017-twmd-data-refresh-am | 14 步全過、0 stale；告警把超過寬限仍在跑的翻譯夜班判成沉默死亡，記下不改閾值；地圖把大安溪倚天劍釘到台南，交接補 geo | 量到的對、說出的話不對：告警會自己消失，錯座標不會 | [→](memory/2026-10-14-061017-twmd-data-refresh-am.md) |
-| 2026-10-14 | 064142-twmd-spore-harvest-am | 窗口連四天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 連續空場量的是發布端停了多久，不是收割端壞了 | [→](memory/2026-10-14-064142-twmd-spore-harvest-am.md) |
-| 2026-10-14 | 071629-twmd-feedback-triage | 零回報第十九輪，沉默 14.3 天連兩天刷新紀錄；兩道對賬 88/88 與 87/88 全綠；昨天手寫的 OAuth 查詢落成健檢第四層，四條分支先過正控制才取讀數 | 收掉一塊未知的條件是真的量到它，沒量到就要自動放回清單 | [→](memory/2026-10-14-071629-twmd-feedback-triage.md) |
-| 2026-10-14 | 060929-twmd-babel-nightly | 五篇新文缺 slug，付費層空等十六小時；補 slug、修三個必敗閘門缺陷後重啟，十二語推到只剩 vi／ru 各一格；三位新人物譯名照 #63 統一 | 病因分在兩個儀器的兩行輸出裡 | [→](memory/2026-10-14-060929-twmd-babel-nightly.md) |
-| 2026-10-14 | 090531-twmd-maintainer-daily | 連兩天滿載，九個 PR 全合併；兩篇新文腳註抽驗六條逐字命中，兩個政府典藏頁得用瀏覽器才讀得到；地圖錯釘追到產生器把研究團隊的學校當位置，同型 3 筆一次蓋完；交接那條 404 家族兩天前就修好，本班對線上驗到兩層都活著 | 修好了沒人回去驗，交接就會一直寫著 pending | [→](memory/2026-10-14-090531-twmd-maintainer-daily.md) |
-| 2026-10-15 | 005541-twmd-babel-nightly | 修復後續跑：地端 GPU 補貨撲空退場後，別人補進的 stale 它再也拿不到，十三小時只剩 nemo 一條線；改成停在場邊每十分鐘回看，補兩篇新文 slug 後重啟，四種槽位全動 | 巡檢規格寫逐 worker，執行時別縮成「有沒有新列」 | [→](memory/2026-10-15-005541-twmd-babel-nightly.md) |
-| 2026-10-15 | 053913-twmd-routine-sync | 第 74 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程昨晚 10-14 第一次錯過，仍待哲宇在 app 註冊，下個時點 10-21 | 卡在授權上的交接，日期過了也不會自己動 | [→](memory/2026-10-15-053913-twmd-routine-sync.md) |
-| 2026-10-15 | 061009-twmd-embeddings-nightly | 例行重建：13 語 14,584 向量 0 fail，verify PASS，`e8bea7f69`；〈看不見的台灣〉〈台灣與亞運〉進 zh 索引；push 被拒是 data-refresh 已代推本班 commit | 拒絕訊息裡的 hash 是自己的，fetch 對一次再判 | [→](memory/2026-10-15-061009-twmd-embeddings-nightly.md) |
-| 2026-10-15 | 061016-twmd-data-refresh-am | 14 步全過、0 stale；翻譯夜班假死告警如昨日預測自己消失；發現儀表板「平均互動秒數」填的是 GA4 工作階段長度，交接改名 | 欄位名稱說錯它量什麼，每天讀的人都跟著錯 | [→](memory/2026-10-15-061016-twmd-data-refresh-am.md) |
-| 2026-10-15 | 064150-twmd-spore-harvest-am | 窗口連五天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op，只寫 memory | 舊孢子還有人按讚，空場是發布端停擺不是讀者走了 | [→](memory/2026-10-15-064150-twmd-spore-harvest-am.md) |
-| 2026-10-15 | 070955-twmd-feedback-triage | 十九輪沉默在第 14.7 天結束：一筆組織名勘誤開成 issue #1851（bot 身份、零 email、verbatim），兩道對賬 89/89 與 88/89 全綠 | 寫入端最後那一格的讀數只可能來自讀者自己 | [→](memory/2026-10-15-070955-twmd-feedback-triage.md) |
-| 2026-10-15 | 083351-twmd-maintainer-daily | 連三天滿載，26 個投稿 PR 清完 25 併 1 reserve；讀者抓的組織名官方寫法是第三種（& 不是 and），錯在 en／de／hi 三版；Politics 分類補守門表，負控制會叫而 19 篇零轉紅 | 跨語言掃描「全部找不到」要先當工具壞掉 | [→](memory/2026-10-15-083351-twmd-maintainer-daily.md) |
-| 2026-10-15 | 133217-semiont-heartbeat | 工作樹落後 518 個 commit 先同步再診斷；週額度 2% 🟢；月報用語趨勢 10 月場次落在額度停擺期，不補跑等 11-05 | 沉默死亡告警先對額度事件時間軸 | [→](memory/2026-10-15-133217-semiont-heartbeat.md) |
-| 2026-10-15 | 143724-semiont-heartbeat | 距上一拍一小時、無新 commit，週額度 6% 🟢，空拍記帳，handoff 原樣繼承 | 空拍也要寫下它是空的 | [→](memory/2026-10-15-143724-semiont-heartbeat.md) |
-| 2026-10-15 | 203620-semiont-heartbeat | 工作樹先同步 38 個 commit；週額度六小時內 6%→32% 判 🟡 lean，來源未查清，本拍不扇出、不產出 | 同一個讀數隔幾小時差二十幾點，先當讀法問題再當用量問題 | [→](memory/2026-10-15-203620-semiont-heartbeat.md) |
-| 2026-10-16 | 010935-twmd-babel-nightly | 修復後續跑：356 份只改摘要的譯文一律整篇重翻，改走補丁後 6/6 成功、均 37 秒；兩篇新文補 slug，status 表補 MetaStale 欄 | 巡檢量得到在產出，量不到走哪條路 | [→](memory/2026-10-16-010935-twmd-babel-nightly.md) |
-| 2026-10-16 | 023652-semiont-heartbeat | 工作樹先同步 51 個 commit；週額度六小時 32%→45% 判 🟡 lean，近五天 haiku 批次 39 筆是去向線索，待核對每夜上限 | 額度去向先從 commit 的 worker 欄位找 | [→](memory/2026-10-16-023652-semiont-heartbeat.md) |
-| 2026-10-16 | 053918-twmd-routine-sync | 第 75 輪：十九份 prompt 全一致、cron 零漂移；審庫存排程仍待哲宇在 app 註冊，下個時點 10-21 | 沒有漂移也要留一行，安靜跟停擺才分得開 | [→](memory/2026-10-16-053918-twmd-routine-sync.md) |
-| 2026-10-16 | 060929-twmd-data-refresh-am | 14 步全過、0 stale；多語言前綴 404 家族 10-14 整天剩 60 筆（修前每天七百至一千二），驗收收掉；心臟 90 對影子 70，差距仍等 #99 | 帶驗收條件的交接，隔天讀一個數字就能收 | [→](memory/2026-10-16-060929-twmd-data-refresh-am.md) |
-| 2026-10-16 | 061048-twmd-embeddings-nightly | 例行重建：13 語 14,606 向量 0 fail，verify PASS，`d2f08a25d`；電價與林央敏進 zh 索引（1,122→1,124）；push 被拒仍是 data-refresh 代推 | 文章數與索引兩天固定差 9，固定的差先當定義不同 | [→](memory/2026-10-16-061048-twmd-embeddings-nightly.md) |
-| 2026-10-16 | 064254-twmd-spore-harvest-am | 窗口連六天空場：兩個動態頁只有按讚與追蹤，#29 聚合仍 1.6 萬未達重抓條件，合法 no-op；Chrome 多連一台瀏覽器，交接記下先選回登入那台 | 空場的結論靠「看的是登入那台」撐著 | [→](memory/2026-10-16-064254-twmd-spore-harvest-am.md) |
-| 2026-10-16 | 071157-twmd-feedback-triage | 佇列空一輪（沉默 1.6 天，史上最長 14.7）；四層健檢全綠、INSERT 照舊誠實空著；`archive-comments-synced=1` 把昨天那則回覆收進主權層；對賬 89/89 與 88/89 | 成功分支的綠燈跟告警分支一樣需要被驗過 | [→](memory/2026-10-16-071157-twmd-feedback-triage.md) |
-| 2026-10-16 | 083643-semiont-heartbeat | 工作樹先同步 50 個 commit；週額度 46% 判 🟡 lean，haiku 波次粗算每夜約 5 到 7 篇未見超標，去重版交 babel 席位，本拍輕量只記帳 | 粗算只能說沒看到超標，不能說已守住 | [→](memory/2026-10-16-083643-semiont-heartbeat.md) |
-| 2026-10-16 | 083443-twmd-maintainer-daily | 五個 PR 清到剩一個保留件；韓文版折扣錯的根因在中文母稿的圖表語法，十三語一起修並補上沒在看的閘門；幣別閘存量 692 檔首次量出，進佇列 #108 | 守住入口的閘門，不會回頭看它上線前已經積在裡面的東西 | [→](memory/2026-10-16-083443-twmd-maintainer-daily.md) |
-| 2026-10-16 | 143854-semiont-heartbeat | 工作樹先同步 34 個 commit；週額度 65% 判 🟡 lean，五小時加 17 點，旁證是本機七個同時執行的 Muse 對話，非 routine；索引從 90 列收回 40 列 | 去向只有旁證時，寫成旁證，把驗證交給看得到分帳的人 | [→](memory/2026-10-16-143854-semiont-heartbeat.md) |
-| 2026-10-16 | 203804-semiont-heartbeat | 工作樹先同步 5 個 commit；週額度 91% 判 🔴 保留，六小時加 26 點，產線量解釋不了，本拍只記帳 | 額度逼近保留線時，心跳自己的甦醒也是成本 | [→](memory/2026-10-16-203804-semiont-heartbeat.md) |
-| 2026-10-18 | 025013-outcome-graded-design | 哲宇題目：模型變強後能否少走 rewrite-pipeline；寫成第三代設計報告，品質規格從寫手步驟搬到成品考卷、三層驗收，停在 REPORT，六件決定進佇列 #109 | 主張要外部尺的報告，自己也被審稿分身抓到寫得比證據滿 | [→](memory/2026-10-18-025013-outcome-graded-design.md) |
-| 2026-10-18 | 032910-grader-pilot | 代跑 §8.0 閱卷小實驗：計分四對，冷讀分身 Opus 與 Sonnet 各選對 1、機械基準線 2，H3 未獲初步支持；分身看得見毛病，卻多半選了有毛病那一版 | 考古題標籤要回第一手紀錄驗，自寫摘要會把判斷往哲宇身上歸 | [→](memory/2026-10-18-032910-grader-pilot.md) |
-| 2026-10-18 | 210928-twmd-routine-audit-weekly | 10-17 起兩天 18 次觸發撞週額度，週日鏈四棒落空；註 ²⁸ 的模型釘選不在排程器讀的檔，十八條仍跑 Opus，補佇列 #110 | 交接收件人不在交接鏈上，三振規則永遠不觸發 | [→](memory/2026-10-18-210928-twmd-routine-audit-weekly.md) |
-| 2026-10-19 | 005518-twmd-babel-nightly | 續命班：手動接住兩篇印地文長文（九處萬億差十倍＋十三條漏譯腳註），十二語剩下 16 格全是投稿者人翻譯文，產線依 #67 不碰 | 存量決定綁「隨重譯清」，stale 歸零後就清不掉 | [→](memory/2026-10-19-005518-twmd-babel-nightly.md) |
 | 2026-10-19 | 011651-twmd-supporters-weekly | 十月兩筆定額續扣入帳（匿名與沈宗杰各 NT$200，累積 NT$8,800），07-18 後首次再收到續扣信；OBSERVER-QUEUE #75 問題縮成 08／09 月有沒有扣款 | 只有缺席證據時的推論，第一個正面資料點進來就要退半步 | [→](memory/2026-10-19-011651-twmd-supporters-weekly.md) |
 | 2026-10-19 | 053947-twmd-routine-sync | 十九份 prompt 全一致；鏡像齡 71.5 小時，直讀排程器十八條補驗仍零漂移；10-17、10-18 兩班撞額度無紀錄；審庫存註冊剩兩天（10-21） | 工具自標鏡像過期時，直讀 live 一次結論才能引用 | [→](memory/2026-10-19-053947-twmd-routine-sync.md) |
 | 2026-10-19 | 051507-twmd-embeddings-nightly | 隔兩夜（10-17／18 撞週額度）後重建：13 語 14,612 向量 0 fail，verify PASS，十二外語追平 1,124，`d1aacec86` 自己推上去 | 額度空缺不算 host 不可達的三振 | [→](memory/2026-10-19-051507-twmd-embeddings-nightly.md) |
@@ -363,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-22 | 102416-identity-system | 識別系統 v2：台灣本島從真實高程掃成行當標誌，北迴歸線那行用臺灣青；行線圖示上線，/brand 識別手冊與頁尾連結；10-23 v2.2 標準字改 Newsreader 單一家族、標誌改 10 行、手冊重寫成規格先行 | 先清點再畫：#007864 原來就是文化部臺灣青，品牌色不必換 | [→](memory/2026-10-22-102416-identity-system.md) |
 | 2026-10-22 | 145655-semiont-heartbeat | 額度 lean 只巡邏〈桂綸鎂〉：學歷錯、《失魂》《明月幾時有》不在年表、金馬影后寫成入圍、楊德昌師徒情無來源，錯誤率三成以上，重寫成年表短篇 | 同一型：初稿把人設與片單套到人身上 | [→](memory/2026-10-22-145655-semiont-heartbeat.md) |
 | 2026-10-22 | 204610-semiont-heartbeat | 額度 lean 只巡邏〈豬哥亮〉：父親職業、眷村、夜市起家、避居大陸、告別式日期與五條首頁腳註約三成對不上，改成維基單一來源的年表短篇；拉取時〈沈伯洋〉進行中改動留在 stash | 同一型：藝人模板補版面的「影響」段最先出錯 | [→](memory/2026-10-22-204610-semiont-heartbeat.md) |
+| 2026-10-23 | 023642-semiont-heartbeat | 額度 lean 只巡邏〈張艾嘉〉：17 歲《夢中人》出道、侯孝賢合作、金馬評審主席與八項提名等約三成對不上，改成維基單一來源年表；索引 86→40 列歸檔 | 同一型：藝人模板補版面的「傳承」段最先出錯 | [→](memory/2026-10-23-023642-semiont-heartbeat.md) |
