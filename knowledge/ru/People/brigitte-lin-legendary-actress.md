@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: '5a694157b'
-sourceContentHash: 'sha256:d7565a0caf0e78ad'
-sourceBodyHash: 'sha256:c4c5c6f387033995'
-translatedAt: '2026-10-22T05:59:54.341025+00:00'
+sourceCommitSha: 'e53f17151'
+sourceContentHash: 'sha256:7e12cc4002fc2007'
+sourceBodyHash: 'sha256:12badc0094297f08'
+translatedAt: '2026-10-16T07:57:06+08:00'
 ---
 
 # Лин Цинся: от богини веньи к легенде ушу

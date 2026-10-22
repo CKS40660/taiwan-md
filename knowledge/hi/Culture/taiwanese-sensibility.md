@@ -34,10 +34,10 @@ sporeLinks:
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
 relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: 'fd14e36db'
-sourceContentHash: 'sha256:568c29d1e1668c32'
-sourceBodyHash: 'sha256:ad0f6df167e4338c'
-translatedAt: '2026-10-20T08:59:57.030230+00:00'
+sourceCommitSha: '54ed6c788'
+sourceContentHash: 'sha256:01da220d6681931b'
+sourceBodyHash: 'sha256:71edee5e89546764'
+translatedAt: '2026-07-18T19:14:57+08:00'
 ---
 
 # ताइवान की भावना: क्या हमें अपने पुराने घरों की सुंदरता का दावा करने से पहले कोरियनों से लाइक मिलने का इंतज़ार करना चाहिए?
