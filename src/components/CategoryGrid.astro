@@ -64,20 +64,21 @@ const heights: Record<string, number> = {
   lifestyle: 155,
   politics: 140,
 };
+// 識別系統 v2（/brand#icons）：十四個分類各一支專屬圖示，不再兩兩共用。
 const glyphs = {
-  history: 'archive',
-  geography: 'map',
-  culture: 'community',
+  history: 'scroll',
+  geography: 'contour',
+  culture: 'temple',
   food: 'bowl',
-  art: 'art',
+  art: 'brush',
   music: 'music',
   technology: 'chip',
   nature: 'leaf',
   people: 'person',
-  society: 'city',
-  economy: 'chart',
-  lifestyle: 'home',
-  politics: 'civic',
+  society: 'community',
+  economy: 'coins',
+  lifestyle: 'scooter',
+  politics: 'ballot',
 } as const;
 const categories = Object.entries(glyphs).map(([slug, icon]) => ({
   ...categoryConfigs[slug],
