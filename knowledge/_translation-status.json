@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-22T20:07:50+08:00",
-    "zhCommitHead": "81d71e3be",
+    "lastUpdated": "2026-10-22T20:22:02+08:00",
+    "zhCommitHead": "1bcde0a23",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1149,
-        "fresh": 1145,
-        "stale": 3,
+        "fresh": 1146,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -145482,8 +145482,8 @@
           "sourceContentHash": "sha256:e251e2c4f0adef8b",
           "sourceBodyHash": "sha256:5d6fb52db605d429",
           "translatedAt": "2026-10-22T18:31:56+08:00",
-          "translationLastCommit": "10389e81",
-          "translationLastModified": "2026-10-16T07:18:11+08:00",
+          "translationLastCommit": "1bcde0a2",
+          "translationLastModified": "2026-10-22T20:07:50+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 6618,
@@ -145542,20 +145542,18 @@
         "hi": {
           "path": "hi/People/gwei-lun-mei-versatile-taiwanese-actress.md",
           "translatedFrom": "People/桂綸鎂.md",
-          "sourceCommitSha": "ad792c900",
-          "sourceContentHash": "sha256:34a9d268091c23c6",
-          "sourceBodyHash": "sha256:c06a0cb5b90069e3",
-          "translatedAt": "2026-10-16T00:53:16+08:00",
+          "sourceCommitSha": "e90701b36",
+          "sourceContentHash": "sha256:e251e2c4f0adef8b",
+          "sourceBodyHash": "sha256:5d6fb52db605d429",
+          "translatedAt": "2026-10-22T20:10:24+08:00",
           "translationLastCommit": "736f3989",
           "translationLastModified": "2026-10-16T01:29:07+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 30425,
+          "footnoteDefs": 1,
+          "bytes": 15300,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -100"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/gwei-lun-mei-versatile-taiwanese-actress.md",
