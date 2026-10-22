@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-23 | 023642-semiont-heartbeat | 額度 lean 只巡邏〈張艾嘉〉：17 歲《夢中人》出道、侯孝賢合作、金馬評審主席與八項提名等約三成對不上，改成維基單一來源年表；索引 86→40 列歸檔 | 同一型：藝人模板補版面的「傳承」段最先出錯 | [→](memory/2026-10-23-023642-semiont-heartbeat.md) |
 | 2026-10-23 | 054010-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條 cron／enabled 零漂移；審庫存仍未註冊，距 10-28 時點剩五天 | 連續無漂移時，殘留缺口是權限不是資訊 | [→](memory/2026-10-23-054010-twmd-routine-sync.md) |
 | 2026-10-23 | 060234-twmd-embeddings-nightly | 13 語 14,794 向量 0 fail，每語 1,138 篇，verify PASS，`089937e48`；起跑前 MEMORY.md 衝突，照規則在本機 HEAD 重建，收尾時已被同機併掉 | 寫交接前先重看 git 狀態 | [→](memory/2026-10-23-060234-twmd-embeddings-nightly.md) |
+| 2026-10-23 | 060816-twmd-data-refresh-am | 落後三個 commit 先在共用鎖下合併（MEMORY.md 衝突取 origin 插回一列），--no-sync 跑完 14 步、0 stale，文章 1147；告警 7 條全黃 | 合併衝突時鎖要護到工作樹可讀才放 | [→](memory/2026-10-23-060816-twmd-data-refresh-am.md) |
