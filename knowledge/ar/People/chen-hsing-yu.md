@@ -13,9 +13,9 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:8b01af0c15c3d257'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-10T12:43:28.808337+00:00'
 ---
 
