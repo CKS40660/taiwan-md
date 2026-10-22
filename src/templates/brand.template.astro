@@ -1,0 +1,2821 @@
+---
+/**
+ * /brand — Taiwan.md 識別手冊 v2（2026-10-22）。
+ *
+ * 這一頁不手寫任何幾何與色值：標誌、地形行、標準字外框、色彩 tokens 全部來自
+ * src/data/brand/identity.json（由 docs/brand/source/build-identity.mjs 產生），
+ * 圖示來自 src/icons/taiwan-icons.mjs。規範改了，改上游再重建，這頁跟著變。
+ * 設計報告：reports/design-identity-system-2026-10-22.md
+ */
+import Layout from '../layouts/Layout.astro';
+import identity from '../data/brand/identity.json';
+import { emojiIcons, icons, iconGroups } from '../icons/taiwan-icons.mjs';
+const emojiCount = Object.keys(emojiIcons).length;
+
+type Rect = { x: number; y: number; w: number; h: number; t: number };
+const I = identity as any;
+const LT = I.tokens.modes.light.tokens as Record<string, string>;
+const DT = I.tokens.modes.dark.tokens as Record<string, string>;
+const islandW: number = I.island.width;
+const islandH: number = I.island.height;
+
+// ── 色彩換算：WCAG 對比與 OKLCH（只為了把數字印在色票上）────────────
+const hexRgb = (h: string) => {
+  const n = parseInt(h.slice(1), 16);
+  return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+};
+const lin = (c: number) => {
+  c /= 255;
+  return c <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+};
+const lum = (h: string) => {
+  const [r, g, b] = hexRgb(h).map(lin);
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+};
+const contrast = (a: string, b: string) => {
+  const [x, y] = [lum(a), lum(b)].sort((p, q) => q - p);
+  return (x + 0.05) / (y + 0.05);
+};
+const oklch = (h: string) => {
+  const [r, g, b] = hexRgb(h).map(lin);
+  const l = Math.cbrt(0.4122214708 * r + 0.5363325363 * g + 0.0514459929 * b);
+  const m = Math.cbrt(0.2119034982 * r + 0.6806995451 * g + 0.1073969566 * b);
+  const s = Math.cbrt(0.0883024619 * r + 0.2817188376 * g + 0.6299787005 * b);
+  const L = 0.2104542553 * l + 0.793617785 * m - 0.0040720468 * s;
+  const A = 1.9779984951 * l - 2.428592205 * m + 0.4505937099 * s;
+  const B = 0.0259040371 * l + 0.7827717662 * m - 0.808675766 * s;
+  const C = Math.hypot(A, B);
+  const H = ((Math.atan2(B, A) * 180) / Math.PI + 360) % 360;
+  return `oklch(${L.toFixed(3)} ${C.toFixed(3)} ${H.toFixed(0)})`;
+};
+
+// ── SVG 小工具 ────────────────────────────────────────────────────────
+const f = (n: number) => +n.toFixed(2);
+const markSvg = (
+  rects: Rect[],
+  {
+    ink = 'var(--b-ink-1)',
+    acc = 'var(--b-brand)',
+    pad = 0.12,
+    title = 'Taiwan.md 標誌：行島',
+  } = {},
+) => {
+  const p = islandW * pad;
+  return `<svg viewBox="${-p} ${-p} ${f(islandW + 2 * p)} ${f(islandH + 2 * p)}" width="${f((islandW + 2 * p) / 10)}" height="${f((islandH + 2 * p) / 10)}" role="img" aria-label="${title}">${rects
+    .map(
+      (r) =>
+        `<rect x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}" fill="${r.t ? acc : ink}"/>`,
+    )
+    .join('')}</svg>`;
+};
+const pixelSvg = (rects: Rect[], size: number) =>
+  `<svg viewBox="0 0 ${size} ${size}" shape-rendering="crispEdges" role="img" aria-label="${size} 像素版">${rects
+    .map(
+      (r) =>
+        `<rect x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}" fill="${r.t ? 'var(--b-brand)' : 'var(--b-ink-1)'}"/>`,
+    )
+    .join('')}</svg>`;
+const LK = I.lockup;
+const lockupSvg = ({
+  zh = false,
+  ink = 'var(--b-ink-1)',
+  acc = 'var(--b-brand)',
+  sub = 'var(--b-ink-2)',
+  guides = false,
+} = {}) => {
+  const c = LK.clear;
+  const top = Math.min(LK.markTop, -LK.capHeight) - c;
+  const bottom =
+    Math.max(
+      LK.markTop + LK.markHeight,
+      zh ? LK.zhBaseline + LK.capHeight * 0.12 : 0,
+    ) + c;
+  const width = LK.textX + Math.max(LK.wordWidth, zh ? LK.zhWidth : 0) + c * 2;
+  const s = LK.markHeight / islandH;
+  const mark = (I.master as Rect[])
+    .map(
+      (r) =>
+        `<rect x="${f(r.x * s)}" y="${f(LK.markTop + r.y * s)}" width="${f(r.w * s)}" height="${f(r.h * s)}" fill="${r.t ? acc : ink}"/>`,
+    )
+    .join('');
+  // 標準字外框只在頁首的 sprite 寫一次，這裡用 <use> 引用，顏色經 CSS 變數傳進去
+  const words = `<use href="#b-word" style="--wi:${ink};--wa:${acc}"/>`;
+  const zhp = zh ? `<use href="#b-zh" style="--ws:${sub}"/>` : '';
+  const g = guides
+    ? `<g fill="none" stroke="var(--b-signal)" stroke-width="14" stroke-dasharray="40 26" opacity=".9">
+        <rect x="${f(-c)}" y="${f(top)}" width="${f(width)}" height="${f(bottom - top)}"/>
+        <line x1="${f(-c)}" x2="${f(width - c)}" y1="0" y2="0"/>
+        <line x1="${f(-c)}" x2="${f(width - c)}" y1="${f(-LK.capHeight)}" y2="${f(-LK.capHeight)}"/>
+        <line x1="${LK.markWidth}" x2="${LK.markWidth}" y1="${f(top)}" y2="${f(bottom)}"/>
+        <line x1="${LK.textX}" x2="${LK.textX}" y1="${f(top)}" y2="${f(bottom)}"/>
+      </g>`
+    : '';
+  return `<svg viewBox="${f(-c)} ${f(top)} ${f(width)} ${f(bottom - top)}" width="${f(width / 10)}" height="${f((bottom - top) / 10)}" role="img" aria-label="Taiwan.md 標誌與標準字組合">${mark}<g transform="translate(${LK.textX} 0)">${words}${zhp}</g>${g}</svg>`;
+};
+const ridgeSvg = ({
+  stroke = 'var(--b-ink-1)',
+  bg = 'var(--b-paper)',
+  sw = 4.2,
+} = {}) => {
+  const pad = islandW * 0.08;
+  const lift = islandH * 0.1;
+  return `<svg viewBox="${-pad} ${f(-pad - lift)} ${f(islandW + 2 * pad)} ${f(islandH + 2 * pad + lift)}" role="img" aria-label="地形行：台灣本島 26 行依真實高程抬升"><use href="#b-ridge" style="--rs:${stroke};--rb:${bg};--rw:${sw}"/></svg>`;
+};
+// 地形行與標準字外框各寫一次，頁面其他地方用 <use> 引用（同一份路徑出現十幾次，省下約 400 KB）
+const sprite = `<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="b-ridge" overflow="visible">${(I.ridge as any[])
+  .map((r) => {
+    const last = r.d.match(/([\d.]+) [\d.]+$/)[1];
+    const first = r.d.match(/^M([\d.]+)/)[1];
+    return `<path d="${r.d}L${last} ${r.base}L${first} ${r.base}Z" style="fill:var(--rb)"/><path d="${r.d}" fill="none" style="stroke:${r.t ? 'var(--b-brand)' : 'var(--rs)'};stroke-width:var(--rw)" stroke-linejoin="round"/>`;
+  })
+  .join('')}</symbol>
+<symbol id="b-word" overflow="visible">${(I.wordmark.paths as any[])
+  .map(
+    (p) =>
+      `<path d="${p.d}" style="fill:var(${p.role === 'md' ? '--wa' : '--wi'})"/>`,
+  )
+  .join('')}</symbol>
+<symbol id="b-zh" overflow="visible">${(I.wordmark.zh.paths as string[])
+  .map((d) => `<path d="${d}" style="fill:var(--ws)"/>`)
+  .join('')}</symbol>
+</defs></svg>`;
+const iconSvgInline = (name: string, size = 24, extra = '') =>
+  `<svg viewBox="0 0 24 24" width="${size}" height="${size}" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="miter" aria-hidden="true" ${extra}><path d="${(icons as Record<string, string>)[name]}"/></svg>`;
+
+// ── 章節 ──────────────────────────────────────────────────────────────
+const chapters = [
+  ['concept', '一句話'],
+  ['use', '誰可以怎麼用'],
+  ['mark', '標誌'],
+  ['misuse', '不要這樣用'],
+  ['color', '色彩'],
+  ['type', '字體'],
+  ['icons', '圖示'],
+  ['layers', '四層圖形'],
+  ['layout', '版型與聲音'],
+  ['apps', '應用範例'],
+  ['downloads', '下載'],
+  ['log', '版本紀錄'],
+];
+
+// ── 色彩角色表 ────────────────────────────────────────────────────────
+const roles = [
+  {
+    key: 'paper',
+    name: '紙',
+    use: '版面底色，佔畫面七成以上',
+    never: '米黃紙色、漸層底',
+  },
+  {
+    key: 'paper-2',
+    name: '紙・次',
+    use: '卡片、區塊交替、程式碼底',
+    never: '跟 paper 相鄰時再加框線',
+  },
+  {
+    key: 'ink-1',
+    name: '墨（黑潮）',
+    use: '標題、內文、標誌的行',
+    never: '純黑 #000 鋪大面積',
+  },
+  {
+    key: 'ink-2',
+    name: '墨・次',
+    use: '次要文字、說明、中文副標',
+    never: '小於 13 px 的正文',
+  },
+  {
+    key: 'ink-3',
+    name: '墨・提示',
+    use: '提示、圖說、時間戳',
+    never: '可點擊的文字',
+  },
+  {
+    key: 'brand',
+    name: '臺灣青',
+    use: '北迴歸線那一行、.md、連結、焦點框',
+    never: '大面積底色、漸層、超過版面 10%',
+  },
+  {
+    key: 'signal',
+    name: '九重葛',
+    use: '一頁一處：勘誤、最重要的那個數字',
+    never: '錯誤狀態（用 bad）、裝飾',
+  },
+  {
+    key: 'ok',
+    name: '狀態・好',
+    use: '通過、上線、已驗證（一定配圖示與文字）',
+    never: '當第四個類別色',
+  },
+  {
+    key: 'warn',
+    name: '狀態・注意',
+    use: '待確認、過期、低信心',
+    never: '標題強調',
+  },
+  {
+    key: 'bad',
+    name: '狀態・嚴重',
+    use: '失敗、錯誤、斷鏈',
+    never: '品牌強調',
+  },
+];
+const pairs = [
+  ['ink-1', 'paper'],
+  ['ink-2', 'paper'],
+  ['ink-3', 'paper'],
+  ['ink-1', 'paper-2'],
+  ['ink-3', 'paper-2'],
+  ['brand', 'paper'],
+  ['brand', 'paper-2'],
+  ['on-brand', 'brand'],
+  ['signal', 'paper'],
+  ['brand-strong', 'brand-soft'],
+].map(([fg, bg]) => ({
+  fg,
+  bg,
+  light: contrast(LT[fg], LT[bg]),
+  dark: contrast(DT[fg], DT[bg]),
+}));
+const catNames: string[] = I.tokens.categorical_names;
+const catLight: string[] = I.tokens.categorical.light;
+const catDark: string[] = I.tokens.categorical.dark;
+const seqLight: string[] = I.tokens.sequential.light;
+const seqDark: string[] = I.tokens.sequential.dark;
+
+// ── 圖示分組 ──────────────────────────────────────────────────────────
+const groupMeta: Record<string, { title: string; note: string }> = {
+  category: {
+    title: '分類',
+    note: '十四個分類各一支，不再兩兩共用。文化用燕尾脊廟頂、生活用機車、政治用選票箱。',
+  },
+  interface: {
+    title: '介面',
+    note: '導覽、按鈕、狀態。尺寸以 16 與 20 為主。',
+  },
+  content: {
+    title: '內容',
+    note: '文章與資料裡的物件。有面積的地方一律畫行線，不填滿。',
+  },
+};
+const groups = Object.entries(
+  iconGroups as Record<string, Record<string, string>>,
+);
+const iconCount = Object.keys(icons).length;
+
+// ── 基因條示範（D 層）：真實文章的封面圖 ───────────────────────────────
+const genes = [
+  {
+    title: '黃魚鴞',
+    href: '/nature/黃魚鴞',
+    img: '/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp',
+  },
+  {
+    title: '大安溪倚天劍',
+    href: '/nature/大安溪倚天劍',
+    img: '/article-images/nature/taiwania-nantou-shihchuan.webp',
+  },
+  {
+    title: '颱風',
+    href: '/nature/颱風',
+    img: '/article-images/nature/morakot-modis-satellite-2009.webp',
+  },
+  {
+    title: '夜市文化',
+    href: '/food/夜市文化',
+    img: '/article-images/food/shilin-night-market-crowd-2015.webp',
+  },
+  {
+    title: '台灣醬油',
+    href: '/food/醬油',
+    img: '/article-images/food/wanjashan-soy-sauce-2006.webp',
+  },
+  {
+    title: '台灣早餐文化',
+    href: '/food/台灣早餐文化',
+    img: '/article-images/food/taiwan-breakfast-hero-set.webp',
+  },
+];
+
+const downloads: string[] = I.downloads;
+const dlNote: Record<string, string> = {
+  'taiwanmd-lockup.svg': '組合・淺底（預設交付）',
+  'taiwanmd-lockup-dark.svg': '組合・深底（自帶底色）',
+  'taiwanmd-lockup-zh.svg': '組合＋中文副標・淺底',
+  'taiwanmd-lockup-zh-dark.svg': '組合＋中文副標・深底',
+  'taiwanmd-mark.svg': '標誌・淺底',
+  'taiwanmd-mark-dark.svg': '標誌・深底',
+  'taiwanmd-mark-mono.svg': '標誌・單色（currentColor）',
+  'taiwanmd-wordmark.svg': '標準字（無標誌）',
+  'taiwanmd-favicon-16.svg': '16 px 逐像素版',
+  'taiwanmd-favicon-32.svg': '32 px 逐像素版',
+  'taiwanmd-app-icon.svg': 'App 圖示（墨色方塊）',
+  'taiwanmd-app-icon-180.png': 'App 圖示 180（apple-touch）',
+  'taiwanmd-app-icon-192.png': 'App 圖示 192',
+  'taiwanmd-app-icon-512.png': 'App 圖示 512',
+  'taiwanmd-lockup-256.png': '組合・淺底點陣（高 256）',
+  'taiwanmd-lockup-dark-256.png': '組合・深底點陣（高 256）',
+  'taiwanmd-ridge.svg': '地形行・淺底',
+  'taiwanmd-ridge-dark.svg': '地形行・深底',
+  'taiwanmd-tokens.json': '色彩 tokens（兩模式）',
+};
+const peakLat = 23.47;
+const geneReadingSvg = markSvg(
+  (I.master as (Rect & { p: number })[]).map((r) => {
+    const k = 0.35 + 0.95 * (r.p / 3952);
+    return { ...r, y: f(r.y + r.h / 2 - (r.h * k) / 2), h: f(r.h * k) };
+  }),
+  { title: '基因讀法：每一行的粗細依它經過的最高點' },
+);
+const centeredSvg = markSvg(
+  (I.master as Rect[]).map((r) => ({ ...r, x: islandW / 2 - r.w / 2 })),
+);
+const geoSvg = (() => {
+  const p = islandW * 0.12;
+  const rows = I.master as Rect[];
+  const tr = rows.find((r) => r.t)!;
+  const cy = tr.y + tr.h / 2;
+  return `<svg viewBox="${-p} ${-p} ${f(islandW + 2 * p + 520)} ${f(islandH + 2 * p)}" role="img" aria-label="標誌幾何圖">
+                ${rows.map((r) => `<line x1="${-p}" x2="${islandW + p}" y1="${f(r.y + r.h / 2)}" y2="${f(r.y + r.h / 2)}" stroke="var(--b-line)" stroke-width="2"/>`).join('')}
+                ${rows.map((r) => `<rect x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}" fill="${r.t ? 'var(--b-brand)' : 'var(--b-ink-1)'}"/>`).join('')}
+                <line x1="${-p}" x2="${islandW + p + 40}" y1="${f(cy)}" y2="${f(cy)}" stroke="var(--b-brand)" stroke-width="3" stroke-dasharray="14 10"/>
+                <text x="${islandW + p + 60}" y="${f(cy + 14)}" font-size="56" fill="var(--b-brand)" font-family="IBM Plex Mono, monospace">23.4365°N</text>
+                <text x="${islandW + p + 60}" y="${f(cy + 66)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">北迴歸線</text>
+                <text x="${islandW + p + 60}" y="${f(rows[0].y + 30)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">${I.island.bounds.north.toFixed(2)}°N</text>
+                <text x="${islandW + p + 60}" y="${f(islandH)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">${I.island.bounds.south.toFixed(2)}°N</text>
+                <text x="${islandW + p + 60}" y="${f(islandH * 0.2)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">行距 ${f(islandH / I.spec.lines)} 列</text>
+                <text x="${islandW + p + 60}" y="${f(islandH * 0.2 + 48)}" font-size="46" fill="var(--b-ink-3)" font-family="IBM Plex Mono, monospace">行粗 × ${I.spec.weight}</text>
+              </svg>`;
+})();
+const gridDemoSvg = `<svg viewBox="0 0 24 24" role="img" aria-label="圖示格線示意"><defs><pattern id="b-g1" width="1" height="1" patternUnits="userSpaceOnUse"><path d="M1 0H0V1" fill="none" stroke="var(--b-line)" stroke-width=".04"/></pattern></defs><rect width="24" height="24" fill="url(#b-g1)"/><rect x="2" y="2" width="20" height="20" fill="none" stroke="var(--b-signal)" stroke-width=".08" stroke-dasharray=".4 .3"/><path d="${(icons as Record<string, string>).archive}" fill="none" stroke="var(--b-ink-1)" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="miter"/><path d="M8.5 12h7 M8.5 16h5" fill="none" stroke="var(--b-brand)" stroke-width="1.75"/></svg>`;
+
+const dlGroups = [
+  {
+    title: '組合（標誌＋標準字）',
+    files: [
+      'taiwanmd-lockup.svg',
+      'taiwanmd-lockup-dark.svg',
+      'taiwanmd-lockup-zh.svg',
+      'taiwanmd-lockup-zh-dark.svg',
+      'taiwanmd-lockup-256.png',
+      'taiwanmd-lockup-dark-256.png',
+    ],
+  },
+  {
+    title: '標誌與標準字',
+    files: [
+      'taiwanmd-mark.svg',
+      'taiwanmd-mark-dark.svg',
+      'taiwanmd-mark-mono.svg',
+      'taiwanmd-wordmark.svg',
+    ],
+  },
+  {
+    title: '小尺寸與 App 圖示',
+    files: [
+      'taiwanmd-favicon-16.svg',
+      'taiwanmd-favicon-32.svg',
+      'taiwanmd-app-icon.svg',
+      'taiwanmd-app-icon-512.png',
+      'taiwanmd-app-icon-192.png',
+      'taiwanmd-app-icon-180.png',
+    ],
+  },
+  {
+    title: '地形行與色彩',
+    files: [
+      'taiwanmd-ridge.svg',
+      'taiwanmd-ridge-dark.svg',
+      'taiwanmd-tokens.json',
+    ],
+  },
+].map((g) => ({ ...g, files: g.files.filter((d) => downloads.includes(d)) }));
+---
+
+<Layout
+  lang="zh-TW"
+  title="識別手冊"
+  description="Taiwan.md 識別系統 v2：台灣本島從真實高程一行一行掃描成標誌，北迴歸線那一行用文化部臺灣青。標誌、標準字、色彩、字體、77 支圖示與四層圖形的完整規範與下載。"
+  readerSettings={true}
+  pageType="brand"
+>
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap"
+  />
+  <div class="brand-page">
+    <Fragment set:html={sprite} />
+    <!-- ═══ 封面 ═══ -->
+    <header class="b-cover">
+      <div class="b-cover-text">
+        <p class="b-meta">
+          識別手冊 v{I.version} · {I.date} · <span class="b-dot"></span> 手冊定稿，站體套用分兩階段
+        </p>
+        <div class="b-cover-lockup" set:html={lockupSvg({ zh: true })} />
+        <h1 class="b-cover-title">
+          台灣本島，<br />一行一行寫下來
+        </h1>
+        <p class="b-lede">
+          標誌是把台灣本島從真實的高程資料掃描成 12
+          行。每一行的兩端是海岸線，其中一行落在北迴歸線上，離玉山主峰只差四公里，整個標誌只有那一行用臺灣青。這一頁是它的完整規範：怎麼畫、怎麼用、誰可以用、哪些地方不要碰。
+        </p>
+      </div>
+      <div
+        class="b-cover-ridge"
+        set:html={ridgeSvg({
+          stroke: 'var(--b-cover-ink)',
+          bg: 'var(--b-cover-bg)',
+          sw: 3.6,
+        })}
+      />
+    </header>
+
+    <div class="b-body">
+      <nav class="b-toc" aria-label="手冊章節">
+        <ol>
+          {
+            chapters.map(([id, name], i) => (
+              <li>
+                <a href={`#${id}`}>
+                  <span class="b-num">{String(i + 1).padStart(2, '0')}</span>
+                  {name}
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+        <a
+          class="b-toc-report"
+          href="https://github.com/frank890417/taiwan-md/blob/main/reports/design-identity-system-2026-10-22.md"
+          target="_blank"
+          rel="noopener"
+        >
+          設計研究報告
+        </a>
+      </nav>
+
+      <div class="b-content">
+        <!-- 01 一句話 -->
+        <section id="concept" class="b-sec">
+          <p class="b-kicker"><span class="b-num">01</span> 一句話</p>
+          <h2>同一組行，三種讀法</h2>
+          <p class="b-p">
+            一行是 Markdown
+            檔案裡的一行字，也是染色體上的一條帶，也是一道山稜。Taiwan.md
+            是一個以文化語意為 DNA 的數位生命體，它的知識全部寫成
+            Markdown；所以標誌把島寫成檔案，把檔案寫成基因，再讓它依著真實的地形站起來。
+          </p>
+          <div class="b-triptych">
+            <figure>
+              <div class="b-fig-box b-doc">
+                <div class="b-doc-lines" set:html={markSvg(I.master)} />
+                <code class="b-doc-code" aria-hidden="true"
+                  ># 台灣<br />- 23.4365°N<br />- 3,952 m</code
+                >
+              </div>
+              <figcaption>
+                <b>文件</b
+                >：每一行都是一行字。行島的行高與行距跟文字一樣規律，平頭的兩端像一行寫到海岸就停下的句子。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-fig-box" set:html={geneReadingSvg} />
+              <figcaption>
+                <b>基因</b
+                >：染色體顯帶也是一條一條的橫帶。把每一行的粗細換成它經過的最高點，中央山脈就成了最粗的那幾條帶。簽名
+                🧬、knowledge/ 被稱為 DNA，這個說法在標誌上第一次有了形狀。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-fig-box" set:html={ridgeSvg({ sw: 5 })} />
+              <figcaption>
+                <b>山稜</b
+                >：同一組行依高程抬起，中央山脈就出現了。抬起來的版本是第二層圖形，用在大面與封面。
+              </figcaption>
+            </figure>
+          </div>
+          <div class="b-lineage">
+            <div>
+              <p class="b-kicker-sm">血緣一</p>
+              <p>
+                <b>成大 ICID 知識庫</b
+                >的識別教的是方法：標誌由真實資料長出來，四層圖形各管一件事，每個顏色只做一件事，規範頁從程式產生。這一頁也是。
+              </p>
+            </div>
+            <div>
+              <p class="b-kicker-sm">血緣二</p>
+              <p>
+                <b>CHEYUWU</b>（2023
+                規範手冊）的理念是熵，標誌是染色體，次要色是「藝術作品即品牌基因」的基因條。Taiwan.md
+                自稱逆熵獸，第四層圖形直接繼承基因條：每一篇文章都是台灣的一段基因。
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 02 誰可以怎麼用 -->
+        <section id="use" class="b-sec">
+          <p class="b-kicker"><span class="b-num">02</span> 誰可以怎麼用</p>
+          <h2>素材是開放的，名字是 Taiwan.md 的</h2>
+          <p class="b-p">
+            Taiwan.md 的內容採 CC BY-SA 4.0、程式碼採 MIT，任何人都可以 fork 成
+            Japan.md 或任何 .md。識別素材也一樣開放；分開的是「能不能叫自己
+            Taiwan.md」。
+          </p>
+          <div class="b-three">
+            <div class="b-card">
+              <p class="b-card-h">
+                {/* */}<span set:html={iconSvgInline('check', 20)} /> 不用問
+              </p>
+              <ul>
+                <li>報導、評論、教學、研究裡提到 Taiwan.md 時使用標誌與組合</li>
+                <li>連結到 taiwan.md 的按鈕、徽章、簡報頁</li>
+                <li>原樣使用下載區的檔案（不改形狀、不改顏色）</li>
+                <li>使用行線圖示（隨程式碼 MIT 授權）</li>
+              </ul>
+            </div>
+            <div class="b-card">
+              <p class="b-card-h">
+                <span set:html={iconSvgInline('pen', 20)} /> 註明出處即可
+              </p>
+              <ul>
+                <li>Fork 的站沿用版型、行線圖示、地形行的產生方式</li>
+                <li>
+                  用 docs/brand/source/ 的程式替自己的國家或城市生一個行島
+                </li>
+                <li>在頁尾或 README 寫一行「Built on Taiwan.md」並連回來</li>
+              </ul>
+            </div>
+            <div class="b-card">
+              <p class="b-card-h">
+                <span set:html={iconSvgInline('ban', 20)} /> 要先問
+              </p>
+              <ul>
+                <li>用 Taiwan.md 的名字或標誌暗示官方、背書或合作</li>
+                <li>商品、募款、選舉或任何政治宣傳</li>
+                <li>修改後仍叫 Taiwan.md（改了就換名字）</li>
+              </ul>
+              <p class="b-note">
+                寫信到 <a href="mailto:taiwanmd@monoame.com"
+                  >taiwanmd@monoame.com</a
+                >。
+              </p>
+            </div>
+          </div>
+          <div class="b-forkbar-demo">
+            <p class="b-kicker-sm">
+              分支品牌列（給 fork 的站放在最上方或頁尾）
+            </p>
+            <div class="b-forkbar">
+              <span
+                class="b-forkbar-mark"
+                set:html={markSvg(I.small, { pad: 0.02 })}
+              />
+              <span
+                >Japan.md 是基於 <a href="https://taiwan.md">Taiwan.md</a> 的開源知識庫架構</span
+              >
+              <span class="b-forkbar-tail">fork lineage ↗</span>
+            </div>
+            <p class="b-note">
+              分支可以有自己的顏色與標誌，品牌列只負責讓譜系看得見。用自己的行島時，把行數、北迴歸線換成那塊土地自己的緯線（例如赤道、某條真實的經緯線），不要沿用台灣的。
+            </p>
+          </div>
+        </section>
+
+        <!-- 03 標誌 -->
+        <section id="mark" class="b-sec">
+          <p class="b-kicker"><span class="b-num">03</span> 標誌</p>
+          <h2>行島：12 行真實的海岸線</h2>
+          <div class="b-split">
+            <div class="b-geo" set:html={geoSvg} />
+            <div class="b-rules">
+              <dl>
+                <dt>資料</dt>
+                <dd>
+                  Tilezen Terrain Tiles（AWS Open Data，z9，約每像素 280
+                  公尺，來源含 SRTM）。抽出最大的連通陸地當本島：{islandH} 列 × {
+                    islandW
+                  } 欄，高寬比 {I.island.aspect}。
+                </dd>
+                <dt>掃描</dt>
+                <dd>
+                  本島高度分成 {I.spec.lines} 份，其中一行的中心釘在北緯 23.4365°。每一行的東西兩端取那一段海岸線的中位數，海岸的小凹凸不會讓行抖動。
+                </dd>
+                <dt>北迴歸線</dt>
+                <dd>
+                  經過嘉義與花蓮瑞穗，玉山主峰在北緯約 {
+                    peakLat
+                  }°。整個標誌只有這一行用臺灣青，它是可以用經緯度驗證的位置。
+                </dd>
+                <dt>行</dt>
+                <dd>
+                  行粗是行距的 {I.spec.weight} 倍，兩端平切。圓頭會吃掉北端的富貴角與南端的鵝鑾鼻。
+                </dd>
+                <dt>不在標誌裡</dt>
+                <dd>
+                  澎湖、金門、馬祖、綠島、蘭嶼。標誌是符號不是地圖；完整的領土與行政區資料在
+                  <a href="/taiwan-shape">台灣形狀</a>。
+                </dd>
+                <dt>原始碼</dt>
+                <dd>
+                  <code>docs/brand/source/</code>：extract-terrain.py → mark.mjs
+                  → build-identity.mjs。改規格就改這裡，再重建。
+                </dd>
+              </dl>
+            </div>
+          </div>
+
+          <h3 class="b-h3">三種尺寸，三種畫法</h3>
+          <div class="b-sizes">
+            <figure>
+              <div class="b-size-box b-size-lg" set:html={markSvg(I.master)} />
+              <figcaption><b>主版 12 行</b> · 48 px 以上</figcaption>
+            </figure>
+            <figure>
+              <div class="b-size-box b-size-md" set:html={markSvg(I.small)} />
+              <figcaption><b>8 行</b> · 20–47 px，也是 island 圖示</figcaption>
+            </figure>
+            <figure>
+              <div
+                class="b-size-box b-size-px"
+                set:html={pixelSvg(I.px16, 16)}
+              />
+              <figcaption>
+                <b>16 px 逐像素</b> · 7 行，第 4 行是北迴歸線
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-size-actual">
+                <span
+                  set:html={pixelSvg(I.px16, 16)}
+                  style="width:16px;height:16px"
+                />
+                <span
+                  set:html={markSvg(I.small)}
+                  style="width:24px;height:38px"
+                />
+                <span
+                  set:html={markSvg(I.master)}
+                  style="width:32px;height:54px"
+                />
+                <span
+                  set:html={markSvg(I.master)}
+                  style="width:48px;height:80px"
+                />
+              </div>
+              <figcaption><b>實際大小</b> · 16 / 24 / 32 / 48</figcaption>
+            </figure>
+          </div>
+
+          <h3 class="b-h3">組合：標誌＋標準字</h3>
+          <div class="b-lockups">
+            <div
+              class="b-lk b-lk-light"
+              set:html={lockupSvg({
+                ink: LT['ink-1'],
+                acc: LT.brand,
+                sub: LT['ink-2'],
+              })}
+            />
+            <div
+              class="b-lk b-lk-dark"
+              set:html={lockupSvg({
+                ink: DT['ink-1'],
+                acc: DT.brand,
+                sub: DT['ink-2'],
+              })}
+            />
+            <div
+              class="b-lk b-lk-light"
+              set:html={lockupSvg({
+                zh: true,
+                ink: LT['ink-1'],
+                acc: LT.brand,
+                sub: LT['ink-2'],
+              })}
+            />
+            <div
+              class="b-lk b-lk-dark"
+              set:html={lockupSvg({
+                zh: true,
+                ink: DT['ink-1'],
+                acc: DT.brand,
+                sub: DT['ink-2'],
+              })}
+            />
+          </div>
+          <div class="b-split b-split-tight">
+            <div
+              class="b-lk b-lk-guides"
+              set:html={lockupSvg({ guides: true })}
+            />
+            <div class="b-rules">
+              <p class="b-p">
+                所有比例都用標準字的<b>大寫高 X</b>（T
+                的高度）當單位，放大縮小都不會走樣。
+              </p>
+              <table class="b-table">
+                <tbody>
+                  <tr
+                    ><th>標誌高</th><td
+                      >{I.spec.markToCap} X，垂直置中於大寫高</td
+                    ></tr
+                  >
+                  <tr><th>標誌與字的距離</th><td>{I.spec.gapToCap} X</td></tr>
+                  <tr
+                    ><th>四周淨空</th><td
+                      >{I.spec.clearToCap} X，裡面不放任何東西</td
+                    ></tr
+                  >
+                  <tr
+                    ><th>中文副標</th><td
+                      >字級 0.30 em，左緣對齊 T 的墨邊，字距 0.24 em</td
+                    ></tr
+                  >
+                  <tr
+                    ><th>最小尺寸</th><td
+                      >組合的大寫高 ≥ 10 px（整組約 20 px 高）；更小就只用標誌</td
+                    ></tr
+                  >
+                  <tr><th>標誌最小</th><td>16 px，用逐像素版</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <h3 class="b-h3">單色與反白</h3>
+          <div class="b-monos">
+            <div
+              style={`background:${LT.paper}`}
+              set:html={markSvg(I.master, { ink: LT['ink-1'], acc: LT.brand })}
+            />
+            <div
+              style={`background:${DT.paper}`}
+              set:html={markSvg(I.master, { ink: DT['ink-1'], acc: DT.brand })}
+            />
+            <div
+              style={`background:${LT.paper}`}
+              set:html={markSvg(I.master, {
+                ink: LT['ink-1'],
+                acc: LT['ink-1'],
+              })}
+            />
+            <div
+              style={`background:${LT['ink-1']}`}
+              set:html={markSvg(I.master, { ink: '#ffffff', acc: '#ffffff' })}
+            />
+            <div
+              style={`background:${LT.brand}`}
+              set:html={markSvg(I.master, { ink: '#ffffff', acc: '#ffffff' })}
+            />
+          </div>
+          <p class="b-note">
+            單色場合（印章、雷射雕刻、單色印刷、刺繡）北迴歸線那一行跟著變同一色，不另外挖空或加框。臺灣青底只用在品牌自己的場合（貼紙、旗幟），網頁上不鋪。
+          </p>
+        </section>
+
+        <!-- 04 不要這樣用 -->
+        <section id="misuse" class="b-sec">
+          <p class="b-kicker"><span class="b-num">04</span> 不要這樣用</p>
+          <h2>每一條都有理由</h2>
+          <div class="b-misuse">
+            <figure>
+              <div
+                class="b-mis-box"
+                set:html={markSvg(I.master)
+                  .replace(
+                    /<rect([^>]*)fill="var\(--b-ink-1\)"/,
+                    '<rect$1fill="var(--b-signal)"',
+                  )
+                  .replace(
+                    /<rect([^>]*)fill="var\(--b-ink-1\)"/,
+                    '<rect$1fill="#c98a1b"',
+                  )}
+              />
+              <figcaption>
+                <b>多畫一行顏色</b
+                >：只有北迴歸線是真實存在的緯線。多一行有色的行就變成裝飾，資料的意義就沒了。
+              </figcaption>
+            </figure>
+            <figure>
+              <div
+                class="b-mis-box b-mis-stretch"
+                set:html={markSvg(I.master)}
+              />
+              <figcaption>
+                <b>拉寬或壓扁</b>：高寬比 1.89
+                是本島真實的比例。被拉寬的台灣就是 AI 畫錯台灣的那顆馬鈴薯。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-mis-box b-mis-round" set:html={markSvg(I.master)} />
+              <figcaption>
+                <b>把行改成圓頭</b
+                >：圓頭會吃掉島的兩個尖端，也讓它看起來像「載入中」的骨架畫面。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-mis-box" set:html={centeredSvg} />
+              <figcaption>
+                <b>把行置中排齊</b
+                >：每一行的位置來自海岸線。對齊之後就只剩一疊長條，不再是台灣。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-mis-box b-mis-rot" set:html={markSvg(I.master)} />
+              <figcaption>
+                <b>旋轉</b
+                >：行是緯線，永遠水平。轉了之後北迴歸線就不在北迴歸線上。
+              </figcaption>
+            </figure>
+            <figure>
+              <div class="b-mis-box b-mis-flag">
+                <span data-preserve-emoji>🇹🇼</span><span class="b-mis-word"
+                  >Taiwan.md</span
+                >
+              </div>
+              <figcaption>
+                <b>用國旗 emoji 代替標誌</b>：Taiwan.md
+                不是政府也不是政黨。國旗在不同裝置上長得不一樣，也會把每一篇文章框進國旗的語境。
+              </figcaption>
+            </figure>
+            <figure>
+              <div
+                class="b-mis-box b-mis-busy"
+                set:html={markSvg(I.master, { ink: '#ffffff', acc: '#ffffff' })}
+              />
+              <figcaption>
+                <b>放在花俏的照片上</b
+                >：行很細，照片的細節會跟行打架。照片上一律加墨色遮罩到對比
+                4.5:1 以上，或換用組合深底版。
+              </figcaption>
+            </figure>
+            <figure>
+              <div
+                class="b-mis-box b-mis-grad"
+                set:html={markSvg(I.master, {
+                  ink: 'url(#b-grad)',
+                  acc: 'url(#b-grad)',
+                }).replace(
+                  '<rect',
+                  '<defs><linearGradient id="b-grad" x1="0" x2="1"><stop offset="0" stop-color="#22c55e"/><stop offset="1" stop-color="#3b82f6"/></linearGradient></defs><rect',
+                )}
+              />
+              <figcaption>
+                <b>漸層或綠藍配色</b
+                >：大面積的綠或藍在台灣會被讀成政黨色。臺灣青只畫一行。
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <!-- 05 色彩 -->
+        <section id="color" class="b-sec">
+          <p class="b-kicker"><span class="b-num">05</span> 色彩</p>
+          <h2>墨與紙為主，臺灣青只畫一行</h2>
+          <p class="b-p">
+            品牌色 <code>{LT.brand}</code> 是 Pantone 3295 C 的螢幕近似值，也就是文化部「臺灣三顏色」裡的臺灣青（Formosan
+            Green，2007 年國家文化總會宣布，意象是台灣山水、海岸線、台灣藍鵲、廟宇雕樑）。它也是
+            Taiwan.md 用了七個月的 .md 顏色。訊號色取同一組三色裡臺灣紅那一系的九重葛洋紅，是我們查過的政黨用色裡沒有人用的色相。
+          </p>
+          <p class="b-p">
+            青綠在台灣會被讀成政黨色，原因是<b>面積</b
+            >：深綠頁尾、綠色漸層、綠色低地的地形圖。所以新系統控制面積，主體是黑潮墨與紙白，臺灣青不超過版面的
+            10%。
+          </p>
+
+          <h3 class="b-h3">色票</h3>
+          <div class="b-swatches">
+            {
+              roles.map((r) => (
+                <div class="b-sw">
+                  <div class="b-sw-chips">
+                    <div class="b-sw-chip" style={`background:${LT[r.key]}`}>
+                      <span
+                        style={`color:${contrast(LT[r.key], '#ffffff') > 4.5 ? '#fff' : LT['ink-1']}`}
+                      >
+                        {LT[r.key]}
+                      </span>
+                    </div>
+                    <div class="b-sw-chip" style={`background:${DT[r.key]}`}>
+                      <span
+                        style={`color:${contrast(DT[r.key], '#ffffff') > 4.5 ? '#fff' : DT.paper}`}
+                      >
+                        {DT[r.key]}
+                      </span>
+                    </div>
+                  </div>
+                  <p class="b-sw-name">
+                    {r.name} <code>{r.key}</code>
+                  </p>
+                  <p class="b-sw-meta">
+                    {oklch(LT[r.key])}
+                    <br />
+                    RGB {hexRgb(LT[r.key]).join(' ')}
+                  </p>
+                  <p class="b-sw-use">用：{r.use}</p>
+                  <p class="b-sw-never">不要：{r.never}</p>
+                </div>
+              ))
+            }
+          </div>
+
+          <h3 class="b-h3">可以搭的組合與對比值</h3>
+          <table class="b-table b-table-contrast">
+            <thead>
+              <tr
+                ><th>文字</th><th>底</th><th>淺色模式</th><th>深色模式</th><th
+                  >樣張</th
+                ></tr
+              >
+            </thead>
+            <tbody>
+              {
+                pairs.map((p) => (
+                  <tr>
+                    <td>
+                      <code>{p.fg}</code>
+                    </td>
+                    <td>
+                      <code>{p.bg}</code>
+                    </td>
+                    <td class={p.light >= 4.5 ? 'b-pass' : 'b-warn'}>
+                      {p.light.toFixed(2)}:1
+                    </td>
+                    <td class={p.dark >= 4.5 ? 'b-pass' : 'b-warn'}>
+                      {p.dark.toFixed(2)}:1
+                    </td>
+                    <td class="b-samples">
+                      <span
+                        class="b-sample"
+                        style={`color:${LT[p.fg]};background:${LT[p.bg]}`}
+                      >
+                        欸你知道嗎
+                      </span>
+                      <span
+                        class="b-sample"
+                        style={`color:${DT[p.fg]};background:${DT[p.bg]}`}
+                      >
+                        欸你知道嗎
+                      </span>
+                    </td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+          <p class="b-note">
+            門檻是 WCAG 正文
+            4.5:1。完整驗證（兩個模式的文字對比、圖表類別色的色盲模擬、序列色明度）用
+            <code
+              >node tools/brand-color/tokens-audit.mjs docs/brand/tokens.json</code
+            >，兩個模式全部通過。
+          </p>
+
+          <h3 class="b-h3">資料用色</h3>
+          <div class="b-split b-split-even">
+            <div>
+              <p class="b-kicker-sm">圖表類別 6 色（固定順序，不循環）</p>
+              <div class="b-cats">
+                {
+                  catNames.map((n, i) => (
+                    <div class="b-cat">
+                      <span
+                        class="b-cat-chip"
+                        style={`background:${catLight[i]}`}
+                      />
+                      <span
+                        class="b-cat-chip"
+                        style={`background:${catDark[i]}`}
+                      />
+                      <span>{n}</span>
+                      <code>{catLight[i]}</code>
+                    </div>
+                  ))
+                }
+              </div>
+              <p class="b-note">
+                長條、折線、堆疊（相鄰比較）兩個模式都通過色盲模擬。散佈圖與地圖裡任兩色都可能相鄰，藍鵲藍與苦楝紫在紅綠色盲下分不清，所以點狀圖一律加直接標籤，不能只靠顏色。
+              </p>
+            </div>
+            <div>
+              <p class="b-kicker-sm">序列 5 階（數量、熱度；臺灣青單一色相）</p>
+              <div class="b-seq">
+                {seqLight.map((c) => <span style={`background:${c}`} />)}
+              </div>
+              <div class="b-seq">
+                {seqDark.map((c) => <span style={`background:${c}`} />)}
+              </div>
+              <p class="b-kicker-sm" style="margin-top:1.5rem">分類不靠顏色</p>
+              <p class="b-note">
+                十四個分類以前各有一個顏色，加起來是一道沒有意義的彩虹，十四色在數學上也不可能兩兩分得清。v2
+                起分類靠圖示、名稱與封面照片辨識；站上現有的分類色在第二階段遷移前保持原樣。
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 06 字體 -->
+        <section id="type" class="b-sec">
+          <p class="b-kicker"><span class="b-num">06</span> 字體</p>
+          <h2>骨架用開源字，增色用台灣的字</h2>
+          <p class="b-p">
+            字體分兩層。<b>骨架層</b>全部是 SIL
+            開源授權（OFL），依教育部標準字形，任何 fork 的站零設定就有。<b
+              >增色層</b
+            >是 justfont 的五支字，justfont 是 Taiwan.md
+            的字體贊助商，網頁授權只在 taiwan.md
+            網域生效；增色層全部有骨架層備援，字沒載到時版面不會走樣。標準字只用骨架層，因為標誌要轉成向量外框、要讓
+            fork 的人合法重製。
+          </p>
+
+          <h3 class="b-h3">標準字的構造</h3>
+          <div class="b-wordbuild">
+            <div
+              class="b-lk b-lk-light b-lk-wide"
+              set:html={lockupSvg({ zh: true, guides: false })}
+            />
+            <table class="b-table">
+              <tbody>
+                <tr
+                  ><th>Taiwan</th><td
+                    >Source Serif 4 Bold，光學尺寸
+                    60。思源宋體的拉丁字源自它，中英文的灰度一致；襯線是被認真書寫的東西。</td
+                  ></tr
+                >
+                <tr
+                  ><th>.md</th><td
+                    >IBM Plex Mono SemiBold，縮到跟 Taiwan 同一個 x
+                    字高。副檔名是程式碼的聲音，人文與程式碼並排，就是語意共生體。</td
+                  ></tr
+                >
+                <tr
+                  ><th>開源台灣知識庫</th><td
+                    >思源宋體 TC（Noto Serif
+                    TC）600，教育部標準字形，跟站上的標題同一套字形。</td
+                  ></tr
+                >
+                <tr
+                  ><th>手調</th><td
+                    >n 到點留 {I.wordmark.kern['n.']}／1000 em，點到 m 留 {
+                      I.wordmark.kern['.m']
+                    }／1000 em；點不用等寬格的左半。字偶表寫在 <code
+                      >docs/brand/source/wordmark.py</code
+                    >。</td
+                  ></tr
+                >
+                <tr><th>交付</th><td>全部轉成向量外框，不依賴對方裝字。</td></tr
+                >
+              </tbody>
+            </table>
+          </div>
+
+          <h3 class="b-h3">骨架層</h3>
+          <div class="b-specimens">
+            <div class="b-spec">
+              <p class="b-spec-role">標題</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'Noto Serif TC',serif;font-weight:700"
+              >
+                策展島嶼的深度敘事
+              </p>
+              <p class="b-spec-name">
+                Noto Serif TC／思源宋體 TC · 600–900 · OFL
+              </p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">介面與內文</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'Noto Sans TC',sans-serif;font-weight:500;font-size:1.6rem"
+              >
+                一九八八年，攝影師扛著機器走進雲林的鹽田。
+              </p>
+              <p class="b-spec-name">
+                Noto Sans TC／思源黑體 TC · 400–700 · OFL
+              </p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">拉丁標題</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'Source Serif 4',serif;font-weight:600"
+              >
+                Curated stories of an island
+              </p>
+              <p class="b-spec-name">Source Serif 4 · 400–700 · OFL</p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">讀數、腳註、資料</p>
+              <p class="b-spec-sample b-mono" style="font-size:1.5rem">
+                [^12] 1,147 篇 · 13 語 · 0/O 1/l
+              </p>
+              <p class="b-spec-name">
+                IBM Plex Mono · 400–600 · OFL · 有斜線零
+              </p>
+            </div>
+          </div>
+
+          <h3 class="b-h3">增色層（justfont，只在 taiwan.md）</h3>
+          <div class="b-specimens">
+            <div class="b-spec">
+              <p class="b-spec-role">內文 · 金萱那提</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'jf-jinxuanlatte','Noto Sans TC';font-size:1.6rem"
+              >
+                金萱 2015 年由七千多人群眾募資。
+              </p>
+              <p class="b-spec-name">jf-jinxuanlatte → 骨架 Noto Sans TC</p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">小標 · 蘭陽黑體</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'jf-lanyanghei','Noto Sans TC'"
+              >
+                黑體也能寫出詩意
+              </p>
+              <p class="b-spec-name">jf-lanyanghei → 骨架 Noto Sans TC</p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">引言 · 蘭陽明體</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'jf-lanyangming','Noto Serif TC'"
+              >
+                從宜蘭的水看見字的可能
+              </p>
+              <p class="b-spec-name">jf-lanyangming → 骨架 Noto Serif TC</p>
+            </div>
+            <div class="b-spec">
+              <p class="b-spec-role">文章大標 · 日星宋體貳號</p>
+              <p
+                class="b-spec-sample"
+                style="font-family:'rixingsong-semibold','Noto Serif TC'"
+              >
+                台北太原路的鉛字
+              </p>
+              <p class="b-spec-name">
+                rixingsong-semibold → 骨架 Noto Serif TC
+              </p>
+            </div>
+          </div>
+          <p class="b-note">
+            選字的第一道篩是台灣字形。只有思源／Noto
+            TC、芫荽明確以教育部《國字標準字體》為目標；不少自稱「台灣版」的開源字其實是通俗寫法。完整的字體研究（17
+            支中文、18 支拉丁、justfont 授權條款）在設計報告的底稿裡。
+          </p>
+        </section>
+
+        <!-- 07 圖示 -->
+        <section id="icons" class="b-sec">
+          <p class="b-kicker"><span class="b-num">07</span> 圖示</p>
+          <h2>行線圖示：{iconCount} 支，同一個文法</h2>
+          <div class="b-split">
+            <div class="b-grid-demo">
+              <div class="b-grid-demo-box" set:html={gridDemoSvg} />
+              <p class="b-note">
+                灰格 24 × 24；虛線框是圖形範圍 20 × 20；青色是行線。
+              </p>
+            </div>
+            <div class="b-rules">
+              <dl>
+                <dt>格線</dt><dd>
+                  24 格，圖形留在中間 20 格。座標用整數與 .5，16 px
+                  時才對得上像素。
+                </dd>
+                <dt>線</dt><dd>
+                  線寬 1.75，平頭線端、尖角接合，跟標誌平切的行是同一個語彙。
+                </dd>
+                <dt>行線</dt><dd>
+                  有面積的地方不填滿，最多畫兩條水平行線，行距至少 4
+                  格；平行筆畫至少隔 3
+                  格。文件、晶片、燈籠、麥克風裡都有，這是整套的簽名。站上的圖示多半以
+                  16–20 px
+                  出現在文字旁，這些間距讓它們在小尺寸不糊成一塊（v2.1）。
+                </dd>
+                <dt>台灣</dt><dd>
+                  island 不手畫，路徑由 mark.mjs 從海岸線算出：6 行，第 4
+                  行是北迴歸線。
+                </dd>
+                <dt>顏色</dt><dd>
+                  一律 currentColor，跟著文字走。要上色就改外層的
+                  color，不改圖示本身。
+                </dd>
+                <dt>無障礙</dt><dd>
+                  裝飾用的加 aria-hidden；單獨承載意義（只有圖示的按鈕）才加
+                  aria-label；按鈕裡的圖示由按鈕帶標籤。
+                </dd>
+                <dt>名字</dt><dd>
+                  英文小寫一個字；上線後不改名，舊頁面靠名字找。
+                </dd>
+              </dl>
+            </div>
+          </div>
+
+          {
+            groups.map(([key, set]) => (
+              <div class="b-icon-group">
+                <h3 class="b-h3">
+                  {groupMeta[key].title}
+                  <span class="b-count">{Object.keys(set).length}</span>
+                </h3>
+                <p class="b-note">{groupMeta[key].note}</p>
+                <div class="b-icons">
+                  {Object.entries(set).map(([name, label]) => (
+                    <div class="b-icon" title={name}>
+                      <span set:html={iconSvgInline(name, 32)} />
+                      <span class="b-icon-zh">{label}</span>
+                      <code>{name}</code>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))
+          }
+
+          <h3 class="b-h3">尺寸</h3>
+          <div class="b-icon-sizes">
+            {
+              [16, 20, 24, 32, 48].map((s) => (
+                <div>
+                  <div class="b-icon-row">
+                    {[
+                      'island',
+                      'temple',
+                      'search',
+                      'book',
+                      'scooter',
+                      'lantern',
+                    ].map((n) => (
+                      <span set:html={iconSvgInline(n, s)} />
+                    ))}
+                  </div>
+                  <p class="b-note">
+                    <b>{s} px</b>{' '}
+                    {
+                      {
+                        16: '導覽列、表格、標籤',
+                        20: '內文行內、按鈕',
+                        24: '卡片、步驟',
+                        32: '分類格、標題旁',
+                        48: '大標、空狀態',
+                      }[s]
+                    }
+                  </p>
+                </div>
+              ))
+            }
+          </div>
+          <p class="b-note">
+            站上的 emoji 在建站時會自動換成這套圖示（像 <code>🔍</code> → search、<code
+              >🛵</code
+            > → scooter），共 {emojiCount} 個對照。國旗、<code>🫧</code>（Muse
+            的簽名）與讀者留言裡的 emoji 保留原樣；<code>🧬</code>
+            在介面上畫成生命體線圖，文章內文、引言、程式碼裡照舊是文字。瀏覽器端事後寫進去的圖示用
+            <code>window.twmdIcon(name)</code>；全站殘留用
+            <code>node scripts/tools/icon-audit.mjs</code> 盤點。
+          </p>
+        </section>
+
+        <!-- 08 四層圖形 -->
+        <section id="layers" class="b-sec">
+          <p class="b-kicker"><span class="b-num">08</span> 四層圖形</p>
+          <h2>每一層管一件事，也有一件絕對不做的事</h2>
+          <p class="b-p">一個畫面不需要四層都出現，多數頁面只用兩層。</p>
+          <div class="b-layers">
+            <div class="b-layer">
+              <p class="b-layer-letter">A</p>
+              <p class="b-layer-name">行島</p>
+              <div class="b-layer-fig" set:html={markSvg(I.master)} />
+              <p class="b-layer-k">管什麼</p>
+              <p>標誌、favicon、浮水印、簽名。</p>
+              <p class="b-layer-k">絕不做</p>
+              <p>改行數以外的形狀；當底紋鋪滿整面。</p>
+            </div>
+            <div class="b-layer">
+              <p class="b-layer-letter">B</p>
+              <p class="b-layer-name">地形行</p>
+              <div class="b-layer-fig" set:html={ridgeSvg({ sw: 9 })} />
+              <p class="b-layer-k">管什麼</p>
+              <p>首頁與分類的大面、OG 分享圖、孢子方圖、簡報封面。</p>
+              <p class="b-layer-k">絕不做</p>
+              <p>進入文章內文；抬升超過版面高度的 15%。</p>
+            </div>
+            <div class="b-layer">
+              <p class="b-layer-letter">C</p>
+              <p class="b-layer-name">腳註讀數</p>
+              <div class="b-layer-fig b-layer-readout">
+                <span class="b-mono b-big">1,147</span>
+                <span class="b-mono">篇 · 13 語</span>
+                <span class="b-mono b-fn">[^12]</span>
+              </div>
+              <p class="b-layer-k">管什麼</p>
+              <p>
+                腳註編號、來源、文章數、語言數，所有數字都用 IBM Plex Mono。
+              </p>
+              <p class="b-layer-k">絕不做</p>
+              <p>寫一個查不到來源的數字。</p>
+            </div>
+            <div class="b-layer">
+              <p class="b-layer-letter">D</p>
+              <p class="b-layer-name">基因條</p>
+              <div class="b-layer-fig b-layer-genes">
+                {
+                  genes.slice(0, 4).map((g) => (
+                    <span class="b-gene">
+                      <img src={g.img} alt="" loading="lazy" />
+                    </span>
+                  ))
+                }
+              </div>
+              <p class="b-layer-k">管什麼</p>
+              <p>文章卡與列表：封面圖橫切一列像素拉成一條色帶。</p>
+              <p class="b-layer-k">絕不做</p>
+              <p>沒有封面圖的文章亂生顏色；拿來當分隔線。</p>
+            </div>
+          </div>
+
+          <h3 class="b-h3">D 層：每一篇文章都是台灣的一段基因</h3>
+          <p class="b-p">
+            基因條來自哲宇 2023
+            年的個人品牌：「藝術作品即品牌基因」，作品縮圖被垂直拉長五百倍，框裡只剩一列像素。它在
+            2026
+            年官網改版時跟著整頁被轉址帶走。這裡把它接回來：條上的顏色全部借自文章自己的封面，滑鼠移上去，取樣的那一列會往下移。
+          </p>
+          <div class="b-gene-list">
+            {
+              genes.map((g) => (
+                <a class="b-gene-item" href={g.href}>
+                  <span class="b-gene b-gene-lg">
+                    <img src={g.img} alt="" loading="lazy" />
+                  </span>
+                  <span class="b-gene-title">{g.title}</span>
+                </a>
+              ))
+            }
+          </div>
+        </section>
+
+        <!-- 09 版型與聲音 -->
+        <section id="layout" class="b-sec">
+          <p class="b-kicker"><span class="b-num">09</span> 版型與聲音</p>
+          <h2>寬度、間距，和怎麼說話</h2>
+          <div class="b-split b-split-even">
+            <div>
+              <h3 class="b-h3">版心三檔</h3>
+              <div class="b-widths">
+                <div style="width:57.7%"><span>prose 900</span></div>
+                <div style="width:92.3%"><span>article 1440</span></div>
+                <div style="width:100%"><span>wide 1560</span></div>
+              </div>
+              <p class="b-note">
+                敘事頁（首頁、關於、生命體、日記）用 prose；文章雙欄用
+                article；列表、資料、時間軸用 wide。兩側留白 clamp(1rem, 2vw,
+                2rem)。數值住 <code>src/styles/tokens.css</code>。
+              </p>
+              <h3 class="b-h3">間距與圓角</h3>
+              <table class="b-table">
+                <tbody>
+                  <tr
+                    ><th>間距</th><td
+                      >1.5 / 2 / 2.5 / 3 / 4 rem
+                      五階；段落與區塊用不同階，不用中間值</td
+                    ></tr
+                  >
+                  <tr
+                    ><th>圓角</th><td
+                      >標誌與行一律直角；卡片 8 px；標籤 16 px；照片不加圓角</td
+                    ></tr
+                  >
+                  <tr
+                    ><th>陰影</th><td
+                      >只給浮在內容上的東西（選單、彈出）；卡片用 1 px 線</td
+                    ></tr
+                  >
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h3 class="b-h3">聲音</h3>
+              <p class="b-p">
+                像在跟朋友介紹台灣：「欸你知道嗎⋯⋯」。可以有立場，但要有證據。
+              </p>
+              <table class="b-table b-voice">
+                <tbody>
+                  <tr
+                    ><th class="b-yes">這樣說</th><td
+                      >一九八八年，攝影師扛著機器走進雲林的鹽田。</td
+                    ></tr
+                  >
+                  <tr
+                    ><th class="b-no">不這樣說</th><td
+                      >歡迎來到美麗的寶島台灣，讓我們一起探索⋯⋯</td
+                    ></tr
+                  >
+                  <tr
+                    ><th class="b-yes">這樣說</th><td
+                      >文章 1,147 篇，十三種語言。</td
+                    ></tr
+                  >
+                  <tr
+                    ><th class="b-no">不這樣說</th><td
+                      >為打造更美好的知識生態，持續精進中。</td
+                    ></tr
+                  >
+                </tbody>
+              </table>
+              <p class="b-note">
+                書寫節制寫在 MANIFESTO §11：不寫「不是 X，是
+                Y」的對位句、少用破折號、不夾英文單字、commit
+                也寫人話。大方自稱「台灣」，不用「這座島」迴避。
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 10 應用範例 -->
+        <section id="apps" class="b-sec">
+          <p class="b-kicker"><span class="b-num">10</span> 應用範例</p>
+          <h2>放進真的會用到的地方</h2>
+          <div class="b-apps">
+            <figure class="b-app b-app-wide">
+              <div class="b-app-header">
+                <span
+                  class="b-app-lk"
+                  set:html={lockupSvg({ ink: LT['ink-1'], acc: LT.brand })}
+                />
+                <span class="b-app-nav"
+                  ><span>探索</span><span>地圖</span><span>資料室</span><span
+                    >生命體</span
+                  ><span
+                    class="b-app-search"
+                    set:html={iconSvgInline('search', 18)}
+                  /></span
+                >
+              </div>
+              <figcaption>網站頁首 · 組合大寫高 13 px</figcaption>
+            </figure>
+            <figure class="b-app">
+              <div class="b-app-og">
+                <div class="b-app-og-text">
+                  <span class="b-app-og-cat"
+                    ><span set:html={iconSvgInline('leaf', 16)} /> 自然</span
+                  >
+                  <span class="b-app-og-title">黃魚鴞：六公里溪流養一對</span>
+                  <span
+                    class="b-app-og-lk"
+                    set:html={lockupSvg({ ink: DT['ink-1'], acc: DT.brand })}
+                  />
+                </div>
+                <div
+                  class="b-app-og-ridge"
+                  set:html={ridgeSvg({
+                    stroke: DT['ink-2'],
+                    bg: DT.paper,
+                    sw: 5,
+                  })}
+                />
+              </div>
+              <figcaption>OG 分享圖 1200 × 630 · 地形行（B）＋組合</figcaption>
+            </figure>
+            <figure class="b-app">
+              <div class="b-app-card">
+                <img src={genes[0].img} alt="" loading="lazy" />
+                <span class="b-gene"
+                  ><img src={genes[0].img} alt="" loading="lazy" /></span
+                >
+                <span class="b-app-card-cat"
+                  ><span set:html={iconSvgInline('leaf', 14)} /> 自然</span
+                >
+                <span class="b-app-card-title"
+                  >黃魚鴞：六公里溪流養一對，1,800 公尺烏心石上的夜行猛禽</span
+                >
+                <span class="b-mono b-app-card-meta">[^24] · 13 語</span>
+              </div>
+              <figcaption>文章卡 · 基因條（D）＋腳註讀數（C）</figcaption>
+            </figure>
+            <figure class="b-app">
+              <div class="b-app-square">
+                <div
+                  class="b-app-square-ridge"
+                  set:html={ridgeSvg({
+                    stroke: LT['ink-1'],
+                    bg: LT.paper,
+                    sw: 5,
+                  })}
+                />
+                <span class="b-app-square-title">兩萬家店賣著同一份早餐</span>
+                <span
+                  class="b-app-square-lk"
+                  set:html={lockupSvg({ ink: LT['ink-1'], acc: LT.brand })}
+                />
+              </div>
+              <figcaption>孢子方圖 1080 × 1080</figcaption>
+            </figure>
+            <figure class="b-app">
+              <div class="b-app-icons">
+                <img
+                  src="/brand/taiwanmd-app-icon-192.png"
+                  alt="App 圖示"
+                  width="96"
+                  height="96"
+                />
+                <span class="b-app-tab"
+                  ><span
+                    set:html={pixelSvg(I.px16, 16)}
+                    style="width:16px;height:16px;display:inline-block"
+                  /> 識別手冊｜Taiwan.md</span
+                >
+              </div>
+              <figcaption>App 圖示與瀏覽器分頁</figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <!-- 11 下載 -->
+        <section id="downloads" class="b-sec">
+          <p class="b-kicker"><span class="b-num">11</span> 下載</p>
+          <h2>{downloads.length} 個檔案</h2>
+          <p class="b-p">
+            對外給人時，預設給「組合・淺底」加「組合・深底」兩張（深底版自帶底色，白底預覽不會隱形）。所有
+            SVG 的字都已轉外框。
+          </p>
+          <div class="b-dl">
+            {
+              dlGroups.map((g) => (
+                <div class="b-dl-group">
+                  <p class="b-kicker-sm">{g.title}</p>
+                  <div class="b-dl-grid">
+                    {g.files.map((d) => (
+                      <a class="b-dl-card" href={`/brand/${d}`} download>
+                        <span
+                          class={`b-dl-thumb ${/dark|app-icon/.test(d) ? 'is-dark' : ''}`}
+                        >
+                          {d.endsWith('.json') ? (
+                            <span class="b-mono">{'{ }'}</span>
+                          ) : (
+                            <img src={`/brand/${d}`} alt="" loading="lazy" />
+                          )}
+                        </span>
+                        <span class="b-dl-name">{dlNote[d] ?? d}</span>
+                        <code>{d}</code>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              ))
+            }
+          </div>
+          <p class="b-note">
+            原始碼與重建方式：<a
+              href="https://github.com/frank890417/taiwan-md/tree/main/docs/brand"
+              target="_blank"
+              rel="noopener">docs/brand/</a
+            >（字體檔與 OFL 授權檔都在裡面）。
+          </p>
+        </section>
+
+        <!-- 12 版本紀錄 -->
+        <section id="log" class="b-sec">
+          <p class="b-kicker"><span class="b-num">12</span> 版本紀錄</p>
+          <h2>改了什麼，還有什麼沒做</h2>
+          <table class="b-table">
+            <tbody>
+              <tr
+                ><th>v2.0 · 2026-10-22</th><td
+                  >行島標誌（真實高程、北迴歸線）、Source Serif 4＋IBM Plex Mono
+                  標準字、色彩 tokens 兩模式驗證、行線圖示 77
+                  支、四層圖形、本手冊。研究報告：<a
+                    href="https://github.com/frank890417/taiwan-md/blob/main/reports/design-identity-system-2026-10-22.md"
+                    target="_blank"
+                    rel="noopener">design-identity-system-2026-10-22</a
+                  >。</td
+                ></tr
+              >
+              <tr
+                ><th>v1.0 · 2026-08-25</th><td
+                  >第一次把 navbar 的 logo 抽成可交付資產：256 px 地形 favicon
+                  ＋ Noto Serif／Sans TC。</td
+                ></tr
+              >
+            </tbody>
+          </table>
+          <h3 class="b-h3">第二階段（等哲宇看過這一頁再做）</h3>
+          <ul class="b-todo">
+            <li>
+              頁首 BrandMark、favicon、apple-touch-icon、OG
+              圖浮水印、頁尾品牌區換成行島。
+            </li>
+            <li>
+              全站色彩遷移：連結色 #3b82f6 → 臺灣青、墨 #1a1a2e →
+              #13222a、深綠頁尾 → 黑潮墨、分類彩虹退場。
+            </li>
+            <li>把頁面裡抄來的 Font Awesome、Feather 內嵌圖示換成行線圖示。</li>
+            <li>加 webmanifest；JSON-LD 的 Organization logo 改用方形標誌。</li>
+            <li>文章卡加上基因條（D 層）。</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .brand-page {
+    --b-paper: #ffffff;
+    --b-paper-2: #f3f6f5;
+    --b-paper-3: #e8eeec;
+    --b-line: #dce3e1;
+    --b-line-strong: #7f8d8c;
+    --b-ink-1: #13222a;
+    --b-ink-2: #435258;
+    --b-ink-3: #5d6c71;
+    --b-brand: #007864;
+    --b-brand-soft: #e0f0eb;
+    --b-signal: #b0125f;
+    --b-cover-bg: #0f1b1f;
+    --b-cover-ink: #b9c6c5;
+    --b-mono: 'IBM Plex Mono', ui-monospace, monospace;
+    background: var(--b-paper);
+    color: var(--b-ink-1);
+    font-family: 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  }
+  :global(html[data-theme='dark']) .brand-page {
+    --b-paper: #0f1b1f;
+    --b-paper-2: #152429;
+    --b-paper-3: #1c2e34;
+    --b-line: #26383e;
+    --b-line-strong: #5f7479;
+    --b-ink-1: #e9f0ee;
+    --b-ink-2: #b9c6c5;
+    --b-ink-3: #8d9d9e;
+    --b-brand: #45c2ab;
+    --b-brand-soft: #173a36;
+    --b-signal: #f27cb4;
+    --b-cover-bg: #091316;
+  }
+  .brand-page :global(svg) {
+    display: block;
+  }
+  .brand-page code,
+  .b-mono {
+    font-family: var(--b-mono);
+    font-size: 0.86em;
+  }
+  .brand-page a {
+    color: var(--b-brand);
+  }
+
+  /* 封面 */
+  .b-cover {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+    background: var(--b-cover-bg);
+    color: #e9f0ee;
+    min-height: min(88vh, 860px);
+    --b-ink-1: #e9f0ee;
+    --b-ink-2: #b9c6c5;
+    --b-brand: #45c2ab;
+  }
+  .b-cover-text {
+    padding: clamp(6rem, 12vh, 9rem) clamp(1.25rem, 5vw, 5rem) 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 1.6rem;
+  }
+  .b-meta {
+    font-family: var(--b-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    color: #8d9d9e;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .b-dot {
+    width: 0.55rem;
+    height: 0.55rem;
+    background: #45c2ab;
+    display: inline-block;
+  }
+  .b-cover-lockup {
+    width: min(100%, 560px);
+  }
+  .b-cover-lockup :global(svg) {
+    width: 100%;
+    height: auto;
+  }
+  .b-cover-text {
+    min-width: 0;
+  }
+  .b-cover-title {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: clamp(2rem, 4.4vw, 3.6rem);
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+  }
+  .b-lede {
+    font-size: clamp(1rem, 1.3vw, 1.18rem);
+    line-height: 1.85;
+    color: #b9c6c5;
+    max-width: 38em;
+    margin: 0;
+  }
+  .b-cover-ridge {
+    padding: 4rem clamp(1rem, 4vw, 4rem) 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .b-cover-ridge :global(svg) {
+    width: 100%;
+    max-height: 80vh;
+  }
+
+  /* 主體 */
+  .b-body {
+    max-width: var(--container-wide);
+    margin: 0 auto;
+    padding: 0 var(--space-page-x);
+    display: grid;
+    grid-template-columns: 200px minmax(0, 1fr);
+    gap: clamp(2rem, 4vw, 4.5rem);
+  }
+  .b-toc {
+    position: sticky;
+    top: 5.5rem;
+    align-self: start;
+    padding-top: 4.5rem;
+  }
+  .b-toc ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid var(--b-line);
+  }
+  .b-toc a {
+    display: flex;
+    gap: 0.7rem;
+    padding: 0.32rem 0 0.32rem 0.9rem;
+    color: var(--b-ink-2);
+    text-decoration: none;
+    font-size: 0.92rem;
+    margin-left: -1px;
+    border-left: 2px solid transparent;
+  }
+  .b-toc a:hover {
+    color: var(--b-ink-1);
+    border-left-color: var(--b-brand);
+  }
+  .b-toc-report {
+    display: block;
+    margin-top: 1.4rem;
+    font-size: 0.85rem;
+  }
+  .b-num {
+    font-family: var(--b-mono);
+    color: var(--b-ink-3);
+    font-size: 0.82em;
+  }
+  .b-content {
+    min-width: 0;
+    padding-bottom: 6rem;
+  }
+  .b-sec {
+    padding: 4.5rem 0 1rem;
+    border-bottom: 1px solid var(--b-line);
+    scroll-margin-top: 4.5rem;
+  }
+  .b-sec:last-child {
+    border-bottom: 0;
+  }
+  .b-kicker {
+    font-family: var(--b-mono);
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    color: var(--b-brand);
+    margin: 0 0 0.6rem;
+  }
+  .b-kicker .b-num {
+    color: var(--b-brand);
+  }
+  .b-kicker-sm {
+    font-family: var(--b-mono);
+    font-size: 0.76rem;
+    letter-spacing: 0.05em;
+    color: var(--b-ink-3);
+    margin: 0 0 0.6rem;
+  }
+  .b-sec h2 {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: clamp(1.7rem, 3vw, 2.5rem);
+    line-height: 1.25;
+    margin: 0 0 1.4rem;
+    color: var(--b-ink-1);
+  }
+  .b-h3 {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin: 3rem 0 1rem;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    color: var(--b-ink-1);
+  }
+  .b-count {
+    font-family: var(--b-mono);
+    font-size: 0.85rem;
+    color: var(--b-ink-3);
+    font-weight: 400;
+  }
+  .b-p {
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: var(--b-ink-2);
+    max-width: 46em;
+    margin: 0 0 1.2rem;
+  }
+  .b-p b {
+    color: var(--b-ink-1);
+  }
+  .b-note {
+    font-size: 0.9rem;
+    line-height: 1.75;
+    color: var(--b-ink-3);
+    max-width: 52em;
+    margin: 0.8rem 0 0;
+  }
+
+  /* 01 */
+  .b-triptych {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.25rem;
+    margin: 2rem 0;
+  }
+  .b-triptych figure,
+  .b-sizes figure,
+  .b-misuse figure,
+  .b-apps figure {
+    margin: 0;
+  }
+  .b-fig-box {
+    background: var(--b-paper-2);
+    aspect-ratio: 4 / 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    position: relative;
+  }
+  .b-fig-box :global(svg) {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+  }
+  .b-doc {
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  .b-doc-lines {
+    height: 100%;
+    min-width: 0;
+  }
+  .b-doc-lines :global(svg) {
+    height: 100%;
+    width: auto;
+  }
+  .b-doc-code {
+    flex: none;
+    white-space: nowrap;
+    font-size: 0.72rem;
+    line-height: 1.9;
+    color: var(--b-ink-3);
+    align-self: flex-end;
+  }
+  figcaption {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--b-ink-2);
+    margin-top: 0.8rem;
+  }
+  figcaption b {
+    color: var(--b-ink-1);
+  }
+  .b-lineage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin-top: 1rem;
+  }
+  .b-lineage > div {
+    border-top: 2px solid var(--b-ink-1);
+    padding-top: 1rem;
+  }
+  .b-lineage p {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--b-ink-2);
+    margin: 0;
+  }
+
+  /* 02 */
+  .b-three {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.25rem;
+    margin: 1.6rem 0;
+  }
+  .b-card {
+    border: 1px solid var(--b-line);
+    padding: 1.4rem;
+  }
+  .b-card-h {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+  }
+  .b-card ul {
+    margin: 0;
+    padding-left: 1.1rem;
+    color: var(--b-ink-2);
+    font-size: 0.93rem;
+    line-height: 1.8;
+  }
+  .b-forkbar-demo {
+    margin-top: 2rem;
+  }
+  .b-forkbar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--b-paper-2);
+    border-top: 1px solid var(--b-line);
+    border-bottom: 1px solid var(--b-line);
+    padding: 0.55rem 1rem;
+    font-size: 0.88rem;
+    color: var(--b-ink-2);
+  }
+  .b-forkbar-mark {
+    width: 12px;
+    height: 22px;
+    flex: none;
+  }
+  .b-forkbar-mark :global(svg) {
+    width: 100%;
+    height: 100%;
+  }
+  .b-forkbar-tail {
+    margin-left: auto;
+    font-family: var(--b-mono);
+    font-size: 0.78rem;
+    color: var(--b-ink-3);
+  }
+
+  /* 03 */
+  .b-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
+    gap: clamp(1.5rem, 3vw, 3rem);
+    align-items: start;
+    margin: 1rem 0;
+  }
+  .b-split-even {
+    grid-template-columns: 1fr 1fr;
+  }
+  .b-split-tight {
+    align-items: center;
+  }
+  .b-geo {
+    background: var(--b-paper-2);
+    padding: 2rem;
+  }
+  .b-geo :global(svg) {
+    width: 100%;
+    height: auto;
+    max-height: 640px;
+  }
+  .b-rules dl {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 6.5rem 1fr;
+    gap: 0.9rem 1.2rem;
+  }
+  .b-rules dt {
+    font-family: var(--b-mono);
+    font-size: 0.82rem;
+    color: var(--b-brand);
+    padding-top: 0.15rem;
+  }
+  .b-rules dd {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--b-ink-2);
+  }
+  .b-sizes {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+  .b-size-box {
+    background: var(--b-paper-2);
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.2rem;
+  }
+  .b-size-box :global(svg) {
+    height: 100%;
+    width: auto;
+  }
+  .b-size-px :global(svg) {
+    image-rendering: pixelated;
+    height: 100%;
+  }
+  .b-size-actual {
+    background: var(--b-paper-2);
+    aspect-ratio: 1;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 1.1rem;
+    padding: 1.2rem;
+  }
+  .b-size-actual > :global(span) {
+    display: block;
+    flex: none;
+  }
+  .b-size-actual :global(svg) {
+    width: 100%;
+    height: 100%;
+  }
+  .b-lockups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+  }
+  .b-lk {
+    padding: clamp(1.25rem, 3vw, 2.5rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .b-lk :global(svg) {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+  }
+  .b-lk-light {
+    background: #ffffff;
+    border: 1px solid var(--b-line);
+  }
+  .b-lk-dark {
+    background: #0f1b1f;
+  }
+  .b-lk-guides {
+    background: var(--b-paper-2);
+  }
+  .b-lk-wide :global(svg) {
+    max-width: 560px;
+  }
+  .b-monos {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+  .b-monos > div {
+    aspect-ratio: 3 / 4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    border: 1px solid var(--b-line);
+  }
+  .b-monos :global(svg) {
+    height: 82%;
+    width: auto;
+  }
+  .b-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.93rem;
+  }
+  .b-table th,
+  .b-table td {
+    text-align: left;
+    padding: 0.65rem 0.8rem 0.65rem 0;
+    border-bottom: 1px solid var(--b-line);
+    vertical-align: top;
+    line-height: 1.7;
+    color: var(--b-ink-2);
+  }
+  .b-table th {
+    color: var(--b-ink-1);
+    font-weight: 600;
+    white-space: nowrap;
+    width: 1%;
+    padding-right: 1.4rem;
+  }
+  .b-table thead th {
+    font-family: var(--b-mono);
+    font-weight: 500;
+    font-size: 0.78rem;
+    color: var(--b-ink-3);
+  }
+
+  /* 04 */
+  .b-misuse {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+  .b-mis-box {
+    aspect-ratio: 1;
+    background: var(--b-paper-2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .b-mis-box::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top right,
+      transparent calc(50% - 1px),
+      var(--b-signal) calc(50% - 1px),
+      var(--b-signal) calc(50% + 1px),
+      transparent calc(50% + 1px)
+    );
+    opacity: 0.75;
+  }
+  .b-mis-box :global(svg) {
+    height: 100%;
+    width: auto;
+  }
+  .b-mis-stretch :global(svg) {
+    transform: scaleX(1.7);
+  }
+  .b-mis-rot :global(svg) {
+    transform: rotate(-24deg);
+  }
+  .b-mis-round :global(rect) {
+    rx: 999px;
+  }
+  .b-mis-flag {
+    gap: 0.4rem;
+    font-size: 1.6rem;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+  }
+  .b-mis-word {
+    font-size: 1.2rem;
+  }
+  .b-mis-busy {
+    background:
+      radial-gradient(circle at 30% 30%, #e6a23c 0 18%, transparent 19%),
+      radial-gradient(circle at 70% 60%, #6fae5d 0 22%, transparent 23%),
+      repeating-linear-gradient(45deg, #c9d8e0 0 8px, #f2e2c4 8px 16px);
+  }
+
+  /* 05 */
+  .b-swatches {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.25rem;
+  }
+  .b-sw-chips {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid var(--b-line);
+  }
+  .b-sw-chip {
+    height: 84px;
+    display: flex;
+    align-items: flex-end;
+    padding: 0.45rem;
+  }
+  .b-sw-chip span {
+    font-family: var(--b-mono);
+    font-size: 0.72rem;
+  }
+  .b-sw-name {
+    font-weight: 700;
+    margin: 0.7rem 0 0.2rem;
+    font-size: 0.95rem;
+  }
+  .b-sw-name code {
+    font-weight: 400;
+    color: var(--b-ink-3);
+    margin-left: 0.3rem;
+  }
+  .b-sw-meta {
+    font-family: var(--b-mono);
+    font-size: 0.72rem;
+    color: var(--b-ink-3);
+    margin: 0 0 0.5rem;
+    line-height: 1.6;
+  }
+  .b-sw-use,
+  .b-sw-never {
+    font-size: 0.84rem;
+    line-height: 1.6;
+    margin: 0;
+    color: var(--b-ink-2);
+  }
+  .b-sw-never {
+    color: var(--b-ink-3);
+  }
+  .b-table-contrast td {
+    font-family: var(--b-mono);
+    font-size: 0.84rem;
+  }
+  .b-pass {
+    color: var(--b-ink-1) !important;
+  }
+  .b-warn {
+    color: var(--b-signal) !important;
+  }
+  .b-samples {
+    white-space: nowrap;
+  }
+  .b-sample {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    margin-right: 0.3rem;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 0.85rem;
+    border: 1px solid var(--b-line);
+  }
+  .b-cats {
+    display: grid;
+    gap: 0.45rem;
+  }
+  .b-cat {
+    display: grid;
+    grid-template-columns: 22px 22px 1fr auto;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.92rem;
+  }
+  .b-cat code {
+    color: var(--b-ink-3);
+  }
+  .b-cat-chip {
+    width: 22px;
+    height: 22px;
+    display: block;
+  }
+  .b-seq {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    height: 36px;
+    margin-bottom: 0.4rem;
+  }
+
+  /* 06 */
+  .b-wordbuild {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+    gap: 2rem;
+    align-items: center;
+  }
+  .b-specimens {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+  .b-spec {
+    border-top: 1px solid var(--b-line-strong);
+    padding-top: 0.9rem;
+  }
+  .b-spec-role {
+    font-family: var(--b-mono);
+    font-size: 0.76rem;
+    color: var(--b-brand);
+    margin: 0;
+  }
+  .b-spec-sample {
+    font-size: 2rem;
+    line-height: 1.4;
+    margin: 0.5rem 0;
+    color: var(--b-ink-1);
+  }
+  .b-spec-name {
+    font-size: 0.82rem;
+    color: var(--b-ink-3);
+    margin: 0;
+  }
+
+  /* 07 */
+  .b-grid-demo-box {
+    background: var(--b-paper-2);
+    padding: 1.5rem;
+  }
+  .b-grid-demo-box :global(svg) {
+    width: 100%;
+    max-width: 380px;
+    margin: 0 auto;
+    height: auto;
+  }
+  .b-icons {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+    border-top: 1px solid var(--b-line);
+    border-left: 1px solid var(--b-line);
+    margin-top: 1rem;
+  }
+  .b-icon {
+    border-right: 1px solid var(--b-line);
+    border-bottom: 1px solid var(--b-line);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 1.1rem 0.4rem 0.8rem;
+    color: var(--b-ink-1);
+  }
+  .b-icon:hover {
+    color: var(--b-brand);
+  }
+  .b-icon-zh {
+    font-size: 0.82rem;
+    color: var(--b-ink-2);
+  }
+  .b-icon code {
+    font-size: 0.7rem;
+    color: var(--b-ink-3);
+  }
+  .b-icon-sizes {
+    display: grid;
+    gap: 1rem;
+  }
+  .b-icon-sizes > div {
+    min-width: 0;
+  }
+  .b-icon-row {
+    flex-wrap: wrap;
+    display: flex;
+    gap: 1.2rem;
+    align-items: flex-end;
+    color: var(--b-ink-1);
+  }
+
+  /* 08 */
+  .b-layers {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+  .b-layer {
+    border: 1px solid var(--b-line);
+    padding: 1.3rem;
+  }
+  .b-layer p {
+    margin: 0 0 0.6rem;
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--b-ink-2);
+  }
+  .b-layer-letter {
+    font-family: var(--b-mono);
+    font-size: 1.6rem !important;
+    color: var(--b-brand) !important;
+    margin: 0 !important;
+  }
+  .b-layer-name {
+    font-weight: 700;
+    color: var(--b-ink-1) !important;
+    font-size: 1.05rem !important;
+  }
+  .b-layer-k {
+    font-family: var(--b-mono);
+    font-size: 0.72rem !important;
+    color: var(--b-ink-3) !important;
+    margin: 0.9rem 0 0.2rem !important;
+  }
+  .b-layer-fig {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--b-paper-2);
+    margin: 0.6rem 0 0.4rem;
+  }
+  .b-layer-fig :global(svg) {
+    height: 86%;
+    width: auto;
+  }
+  .b-layer-readout {
+    flex-direction: column;
+    gap: 0.2rem;
+    color: var(--b-ink-1);
+  }
+  .b-big {
+    font-size: 2.2rem;
+    font-weight: 500;
+  }
+  .b-fn {
+    color: var(--b-brand);
+  }
+  .b-layer-genes {
+    flex-direction: column;
+    gap: 6px;
+    padding: 0 1rem;
+  }
+  .b-gene {
+    display: block;
+    width: 100%;
+    height: 12px;
+    overflow: hidden;
+    position: relative;
+  }
+  .b-gene img {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: auto;
+    transform: translateY(-50%) scaleY(400);
+    transform-origin: 50% 50%;
+    transition: transform 1s;
+  }
+  .b-gene-item:hover .b-gene img,
+  .b-gene:hover img {
+    transform: translateY(-38%) scaleY(400);
+  }
+  .b-gene-lg {
+    height: 22px;
+  }
+  .b-gene-list {
+    display: grid;
+    gap: 0.9rem;
+    margin-top: 1.4rem;
+  }
+  .b-gene-item {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 11rem;
+    gap: 1rem;
+    align-items: center;
+    text-decoration: none;
+    color: var(--b-ink-1) !important;
+  }
+  .b-gene-title {
+    font-size: 0.95rem;
+  }
+
+  /* 09 */
+  .b-widths div {
+    background: var(--b-paper-3);
+    height: 34px;
+    margin-bottom: 0.4rem;
+    display: flex;
+    align-items: center;
+    padding: 0 0.7rem;
+    font-family: var(--b-mono);
+    font-size: 0.78rem;
+    color: var(--b-ink-2);
+  }
+  .b-yes {
+    color: var(--b-brand) !important;
+  }
+  .b-no {
+    color: var(--b-signal) !important;
+  }
+
+  /* 10 */
+  .b-apps {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+  .b-app-wide {
+    grid-column: 1 / -1;
+  }
+  .b-app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #ffffff;
+    border: 1px solid var(--b-line);
+    padding: 0.9rem 1.4rem;
+    color: #13222a;
+  }
+  .b-app-lk :global(svg) {
+    height: 30px;
+    width: auto;
+  }
+  .b-app-nav {
+    display: flex;
+    gap: 1.4rem;
+    font-size: 0.9rem;
+    align-items: center;
+  }
+  .b-app-og {
+    aspect-ratio: 1200 / 630;
+    background: #0f1b1f;
+    display: grid;
+    grid-template-columns: 1.25fr 1fr;
+    grid-template-rows: minmax(0, 1fr);
+    overflow: hidden;
+  }
+  .b-app-og > * {
+    min-height: 0;
+  }
+  .b-app-og-text {
+    padding: 8% 6%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #e9f0ee;
+  }
+  .b-app-og-cat {
+    font-family: var(--b-mono);
+    font-size: 0.75rem;
+    color: #45c2ab;
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+  }
+  .b-app-og-title {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: clamp(1.1rem, 2.2vw, 1.7rem);
+    line-height: 1.3;
+  }
+  .b-app-og-lk :global(svg) {
+    height: 26px;
+    width: auto;
+  }
+  .b-app-og-ridge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6% 6% 0 0;
+  }
+  .b-app-og-ridge :global(svg) {
+    height: 100%;
+    width: auto;
+  }
+  .b-app-card {
+    border: 1px solid var(--b-line);
+    background: var(--b-paper);
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    padding-bottom: 1.1rem;
+  }
+  .b-app-card > img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+  .b-app-card > .b-gene {
+    margin-top: -0.6rem;
+    height: 8px;
+  }
+  .b-app-card-cat,
+  .b-app-card-title,
+  .b-app-card-meta {
+    padding: 0 1.1rem;
+  }
+  .b-app-card-cat {
+    font-size: 0.8rem;
+    color: var(--b-ink-3);
+    display: flex;
+    gap: 0.35rem;
+    align-items: center;
+  }
+  .b-app-card-title {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1.45;
+  }
+  .b-app-card-meta {
+    color: var(--b-brand);
+    font-size: 0.8rem;
+  }
+  .b-app-square {
+    aspect-ratio: 1;
+    background: #ffffff;
+    border: 1px solid var(--b-line);
+    position: relative;
+    overflow: hidden;
+    color: #13222a;
+  }
+  .b-app-square-ridge {
+    position: absolute;
+    right: -4%;
+    top: 4%;
+    height: 92%;
+  }
+  .b-app-square-ridge :global(svg) {
+    height: 100%;
+    width: auto;
+  }
+  .b-app-square-title {
+    position: absolute;
+    left: 7%;
+    top: 8%;
+    width: 48%;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 900;
+    font-size: clamp(1.2rem, 2.4vw, 2rem);
+    line-height: 1.3;
+  }
+  .b-app-square-lk {
+    position: absolute;
+    left: 7%;
+    bottom: 7%;
+  }
+  .b-app-square-lk :global(svg) {
+    height: 22px;
+    width: auto;
+  }
+  .b-app-icons {
+    background: var(--b-paper-2);
+    aspect-ratio: 16 / 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.6rem;
+  }
+  .b-app-icons img {
+    border-radius: 22px;
+  }
+  .b-app-tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    background: var(--b-paper);
+    border: 1px solid var(--b-line);
+    border-radius: 8px 8px 0 0;
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  /* 11 12 */
+  .b-dl-group {
+    margin-top: 1.6rem;
+  }
+  .b-dl-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 1rem;
+  }
+  .b-dl-card {
+    border-bottom: 0 !important;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    text-decoration: none;
+    color: var(--b-ink-1) !important;
+  }
+  .b-dl-thumb {
+    height: 140px;
+    overflow: hidden;
+    background: #ffffff;
+    border: 1px solid var(--b-line);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    transition: border-color 0.2s;
+  }
+  .b-dl-thumb.is-dark {
+    background: #0f1b1f;
+  }
+  .b-dl-thumb img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .b-dl-card:hover .b-dl-thumb {
+    border-color: var(--b-brand);
+  }
+  .b-dl-name {
+    font-size: 0.88rem;
+    font-weight: 600;
+  }
+  .b-dl-card code {
+    font-size: 0.72rem;
+    color: var(--b-ink-3);
+    word-break: break-all;
+  }
+  .b-todo {
+    color: var(--b-ink-2);
+    line-height: 1.9;
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 1100px) {
+    .b-layers,
+    .b-misuse,
+    .b-sizes {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (max-width: 900px) {
+    .b-cover {
+      grid-template-columns: 1fr;
+    }
+    .b-cover-ridge {
+      padding: 0 1.25rem 2rem;
+      max-height: 420px;
+    }
+    .b-cover-ridge :global(svg) {
+      max-height: 380px;
+    }
+    .b-body {
+      grid-template-columns: 1fr;
+    }
+    .b-toc {
+      display: none;
+    }
+    .b-split,
+    .b-split-even,
+    .b-wordbuild,
+    .b-lineage,
+    .b-three,
+    .b-lockups,
+    .b-apps,
+    .b-specimens {
+      grid-template-columns: 1fr;
+    }
+    .b-triptych {
+      grid-template-columns: 1fr;
+    }
+    .b-fig-box {
+      aspect-ratio: 5 / 4;
+    }
+    .b-monos {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .b-app-nav span:not(.b-app-search) {
+      display: none;
+    }
+    .b-rules dl {
+      grid-template-columns: 1fr;
+      gap: 0.2rem;
+    }
+    .b-rules dd {
+      margin-bottom: 0.8rem;
+    }
+    .b-gene-item {
+      grid-template-columns: 1fr;
+      gap: 0.3rem;
+    }
+    .b-table th {
+      white-space: normal;
+      width: 6.5em;
+      min-width: 6.5em;
+    }
+    .b-sizes,
+    .b-misuse,
+    .b-layers {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .b-table-contrast .b-samples {
+      white-space: normal;
+    }
+  }
+  @media (max-width: 520px) {
+    .b-layers {
+      grid-template-columns: 1fr;
+    }
+    .b-table-contrast thead {
+      display: none;
+    }
+    .b-table-contrast tr {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 1px solid var(--b-line);
+    }
+    .b-table-contrast td {
+      border: 0;
+    }
+    .b-table-contrast td.b-samples {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

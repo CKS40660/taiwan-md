@@ -996,10 +996,14 @@ const budgetGrowth =
         const text = await res.text();
         await navigator.clipboard.writeText(text);
         const orig = btn.textContent;
-        btn.textContent = currentLang === 'zh-TW' ? '✅ 已複製' : '✅ Copied';
+        btn.innerHTML =
+          window.twmdIcon('check') +
+          (currentLang === 'zh-TW' ? ' 已複製' : ' Copied');
         setTimeout(() => (btn.textContent = orig), 2000);
       } catch (e) {
-        btn.textContent = currentLang === 'zh-TW' ? '❌ 複製失敗' : '❌ Failed';
+        btn.innerHTML =
+          window.twmdIcon('close') +
+          (currentLang === 'zh-TW' ? ' 複製失敗' : ' Failed');
         setTimeout(
           () =>
             (btn.textContent =

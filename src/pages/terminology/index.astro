@@ -756,7 +756,8 @@ const termsJSON = JSON.stringify(terms);
       eTwPath = escHtml(twPath),
       eCnPath = escHtml(cnPath);
 
-    popupTitle.textContent = `🌿 ${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`;
+    popupTitle.innerHTML = window.twmdIcon('leaf') + ' ';
+    popupTitle.append(`${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`);
 
     // Draw mini fork tree with SVG (no D3 needed for single term)
     const W = 500,
