@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-22T22:17:52+08:00",
-    "zhCommitHead": "489d8e419",
+    "lastUpdated": "2026-10-23T02:32:59+08:00",
+    "zhCommitHead": "14c3ac1b7",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1149,
-        "fresh": 1149,
-        "stale": 0,
+        "fresh": 1146,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 0,
+        "fresh": 1147,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1149,
-        "fresh": 1149,
-        "stale": 0,
+        "fresh": 1146,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1149,
-        "fresh": 1149,
-        "stale": 0,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -109,8 +109,8 @@
       "de": {
         "total_zh": 1149,
         "fresh": 1137,
-        "stale": 6,
-        "metadata_stale": 6,
+        "stale": 7,
+        "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
       }
@@ -22396,15 +22396,15 @@
         "ko": {
           "path": "ko/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "6ffd92f9",
+          "sourceCommitSha": "6ffd92f94",
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-06-16T16:55:29Z",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "translatedAt": "2026-10-22T17:12:47.218964+00:00",
+          "translationLastCommit": "cc99aece",
+          "translationLastModified": "2026-10-23T00:55:01+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 34627,
+          "bytes": 45499,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -31066,15 +31066,15 @@
         "ja": {
           "path": "ja/Technology/ai-hardware-supply-chain.md",
           "translatedFrom": "Technology/AI硬體供應鏈.md",
-          "sourceCommitSha": "8f5e81ee",
+          "sourceCommitSha": "8f5e81ee5",
           "sourceContentHash": "sha256:96b285db19941653",
           "sourceBodyHash": "sha256:96ecb5a6142f55f7",
-          "translatedAt": "2026-08-11T08:45:00+08:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translatedAt": "2026-10-23T01:08:14+08:00",
+          "translationLastCommit": "cc99aece",
+          "translationLastModified": "2026-10-23T00:55:01+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 40751,
+          "bytes": 38928,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37036,20 +37036,18 @@
         "hi": {
           "path": "hi/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:efb74dfc78d9c93c",
-          "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-10-02T05:38:36.359666+00:00",
-          "translationLastCommit": "eddd0fe3",
-          "translationLastModified": "2026-10-21T19:44:30+08:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:e5ed571c162c298d",
+          "sourceBodyHash": "sha256:11e8f9bacb021dde",
+          "translatedAt": "2026-10-23T00:50:01+08:00",
+          "translationLastCommit": "adbcbae5",
+          "translationLastModified": "2026-10-23T00:56:59+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 112647,
+          "bytes": 105612,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/rayark-games.md",
@@ -101553,10 +101551,10 @@
     },
     "People/豬哥亮.md": {
       "zh": {
-        "lastCommit": "9be0c531",
-        "lastModified": "2026-10-14T18:08:49+08:00",
-        "contentHash": "sha256:d55c93f02208554f",
-        "bodyHash": "sha256:267addb8edcb3bef"
+        "lastCommit": "b1300225",
+        "lastModified": "2026-10-22T20:47:39+08:00",
+        "contentHash": "sha256:207c26e5b764aafa",
+        "bodyHash": "sha256:e8b115a1f996f620"
       },
       "translations": {
         "en": {
@@ -101572,21 +101570,23 @@
           "footnoteDefs": 5,
           "bytes": 11771,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "ja": {
           "path": "ja/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T23:33:54.497985+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-23T02:24:43+08:00",
           "translationLastCommit": "caf892d3",
           "translationLastModified": "2026-10-16T07:35:31+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 13306,
+          "footnoteDefs": 1,
+          "bytes": 13700,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -101594,15 +101594,15 @@
         "ko": {
           "path": "ko/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T23:34:43.268762+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-23T02:24:44+08:00",
           "translationLastCommit": "98461606",
           "translationLastModified": "2026-10-16T07:35:13+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 12339,
+          "footnoteDefs": 1,
+          "bytes": 13330,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -101610,15 +101610,15 @@
         "es": {
           "path": "es/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T23:35:41.736001+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-23T02:24:44+08:00",
           "translationLastCommit": "61b44cae",
           "translationLastModified": "2026-10-16T07:56:00+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 13805,
+          "footnoteDefs": 1,
+          "bytes": 13945,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -101626,15 +101626,15 @@
         "fr": {
           "path": "fr/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T23:00:09.184658+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-23T02:24:45+08:00",
           "translationLastCommit": "10389e81",
           "translationLastModified": "2026-10-16T07:18:11+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 14462,
+          "footnoteDefs": 1,
+          "bytes": 14112,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -101652,8 +101652,10 @@
           "footnoteDefs": 5,
           "bytes": 16491,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "id": {
           "path": "id/People/zhuge-liang-showman.md",
@@ -101668,8 +101670,10 @@
           "footnoteDefs": 5,
           "bytes": 12828,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "pt": {
           "path": "pt/People/zhuge-liang-showman.md",
@@ -101684,8 +101688,10 @@
           "footnoteDefs": 5,
           "bytes": 12848,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "hi": {
           "path": "hi/People/zhuge-liang-showman.md",
@@ -101700,8 +101706,10 @@
           "footnoteDefs": 5,
           "bytes": 26326,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "ar": {
           "path": "ar/People/zhuge-liang-showman.md",
@@ -101716,8 +101724,10 @@
           "footnoteDefs": 5,
           "bytes": 17291,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "ru": {
           "path": "ru/People/zhuge-liang-showman.md",
@@ -101732,8 +101742,10 @@
           "footnoteDefs": 5,
           "bytes": 18930,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+47 -90"
         },
         "de": {
           "path": "de/People/zhuge-liang-showman.md",
@@ -101748,10 +101760,10 @@
           "footnoteDefs": 5,
           "bytes": 10858,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+47 -86"
         }
       }
     },
@@ -110958,18 +110970,18 @@
         "id": {
           "path": "id/People/puma-shen.md",
           "translatedFrom": "People/沈伯洋.md",
-          "sourceCommitSha": "e1b5668ad",
-          "sourceContentHash": "sha256:b525186aeb276e8e",
-          "sourceBodyHash": "sha256:ec031917f07c2762",
-          "translatedAt": "2026-09-26T11:41:50.907677+00:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "sourceCommitSha": "9af7a12e4",
+          "sourceContentHash": "sha256:e87e033f31d5dc71",
+          "sourceBodyHash": "sha256:240cf090fab51e1a",
+          "translatedAt": "2026-10-23T00:50:00+08:00",
+          "translationLastCommit": "8393567a",
+          "translationLastModified": "2026-10-23T01:55:12+08:00",
           "inferred": false,
-          "footnoteDefs": 68,
-          "bytes": 95846,
+          "footnoteDefs": 70,
+          "bytes": 102657,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (70→68)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/puma-shen.md",
@@ -111266,18 +111278,18 @@
         "en": {
           "path": "en/People/yang-yung-wei-judo-olympic-silver.md",
           "translatedFrom": "People/楊勇緯.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:66a5e0aae1a572b7",
-          "sourceBodyHash": "sha256:162f09653edec7c3",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:requeue-section-loss",
+          "sourceBodyHash": "sha256:requeue-section-loss",
           "translatedAt": "2026-05-01T14:11:02+08:00",
-          "translationLastCommit": "5e1dd19d",
-          "translationLastModified": "2026-10-10T23:40:25+08:00",
+          "translationLastCommit": "bcd1ce4f",
+          "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12384,
+          "bytes": 12395,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "pre-toolkit"
         },
         "ja": {
           "path": "ja/People/yang-yung-wei-judo-olympic-silver.md",
@@ -111298,15 +111310,15 @@
         "ko": {
           "path": "ko/People/yang-yung-wei-judo-olympic-silver.md",
           "translatedFrom": "People/楊勇緯.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:66a5e0aae1a572b7",
           "sourceBodyHash": "sha256:162f09653edec7c3",
-          "translatedAt": "2026-04-14T19:24:47+08:00",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "translatedAt": "2026-10-23T01:08:15+08:00",
+          "translationLastCommit": "cc99aece",
+          "translationLastModified": "2026-10-23T00:55:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10987,
+          "bytes": 15456,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -122782,18 +122794,20 @@
         "en": {
           "path": "en/People/brigitte-lin-legendary-actress.md",
           "translatedFrom": "People/林青霞.md",
-          "sourceCommitSha": "5a694157b",
-          "sourceContentHash": "sha256:d7565a0caf0e78ad",
-          "sourceBodyHash": "sha256:c4c5c6f387033995",
-          "translatedAt": "2026-10-22T05:38:00.835648+00:00",
-          "translationLastCommit": "3b194e09",
-          "translationLastModified": "2026-10-22T13:41:25+08:00",
+          "sourceCommitSha": "e53f17151",
+          "sourceContentHash": "sha256:7e12cc4002fc2007",
+          "sourceBodyHash": "sha256:12badc0094297f08",
+          "translatedAt": "2026-10-16T00:52:38+08:00",
+          "translationLastCommit": "def555db",
+          "translationLastModified": "2026-10-23T00:48:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13507,
+          "bytes": 13500,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -17"
         },
         "ja": {
           "path": "ja/People/brigitte-lin-legendary-actress.md",
@@ -122849,12 +122863,12 @@
           "sourceCommitSha": "5a694157b",
           "sourceContentHash": "sha256:d7565a0caf0e78ad",
           "sourceBodyHash": "sha256:c4c5c6f387033995",
-          "translatedAt": "2026-10-22T04:59:13.472645+00:00",
-          "translationLastCommit": "7702dad2",
-          "translationLastModified": "2026-10-22T12:59:37+08:00",
+          "translatedAt": "2026-10-23T01:00:48+08:00",
+          "translationLastCommit": "def555db",
+          "translationLastModified": "2026-10-23T00:48:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14934,
+          "bytes": 15199,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -122942,18 +122956,20 @@
         "ru": {
           "path": "ru/People/brigitte-lin-legendary-actress.md",
           "translatedFrom": "People/林青霞.md",
-          "sourceCommitSha": "5a694157b",
-          "sourceContentHash": "sha256:d7565a0caf0e78ad",
-          "sourceBodyHash": "sha256:c4c5c6f387033995",
-          "translatedAt": "2026-10-22T05:59:54.341025+00:00",
-          "translationLastCommit": "d0df18a9",
-          "translationLastModified": "2026-10-22T14:00:08+08:00",
+          "sourceCommitSha": "e53f17151",
+          "sourceContentHash": "sha256:7e12cc4002fc2007",
+          "sourceBodyHash": "sha256:12badc0094297f08",
+          "translatedAt": "2026-10-16T07:57:06+08:00",
+          "translationLastCommit": "def555db",
+          "translationLastModified": "2026-10-23T00:48:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 21733,
+          "bytes": 21726,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -17"
         },
         "de": {
           "path": "de/People/brigitte-lin-legendary-actress.md",
@@ -141002,8 +141018,8 @@
           "sourceContentHash": "sha256:5f03c9523f81df75",
           "sourceBodyHash": "sha256:9475c22b31e09d67",
           "translatedAt": "2026-09-12T18:24:51+08:00",
-          "translationLastCommit": "c17ab5fb",
-          "translationLastModified": "2026-10-22T13:45:28+08:00",
+          "translationLastCommit": "cc99aece",
+          "translationLastModified": "2026-10-23T00:55:01+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 21494,
@@ -141112,18 +141128,18 @@
         "ar": {
           "path": "ar/People/chen-hsing-yu.md",
           "translatedFrom": "People/陳幸妤.md",
-          "sourceCommitSha": "eddd0fe3",
-          "sourceContentHash": "sha256:5f03c9523f81df75",
-          "sourceBodyHash": "sha256:9475c22b31e09d67",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:requeue-section-loss",
+          "sourceBodyHash": "sha256:requeue-section-loss",
           "translatedAt": "2026-09-10T12:43:28.808337+00:00",
-          "translationLastCommit": "8a0f95b7",
-          "translationLastModified": "2026-10-22T14:00:32+08:00",
+          "translationLastCommit": "bcd1ce4f",
+          "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 28173,
+          "bytes": 28184,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "pre-toolkit"
         },
         "ru": {
           "path": "ru/People/chen-hsing-yu.md",
@@ -143801,12 +143817,12 @@
           "sourceCommitSha": "dbfc0cd3c",
           "sourceContentHash": "sha256:f45251e967dc33da",
           "sourceBodyHash": "sha256:cc68e7641279a1e9",
-          "translatedAt": "2026-07-07T00:38:21+08:00",
-          "translationLastCommit": "ca70572d",
-          "translationLastModified": "2026-09-28T06:40:58+08:00",
+          "translatedAt": "2026-10-23T02:24:41+08:00",
+          "translationLastCommit": "cc99aece",
+          "translationLastModified": "2026-10-23T00:55:01+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 20251,
+          "bytes": 24695,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -145546,8 +145562,8 @@
           "sourceContentHash": "sha256:e251e2c4f0adef8b",
           "sourceBodyHash": "sha256:5d6fb52db605d429",
           "translatedAt": "2026-10-22T20:10:24+08:00",
-          "translationLastCommit": "736f3989",
-          "translationLastModified": "2026-10-16T01:29:07+08:00",
+          "translationLastCommit": "d91c16a3",
+          "translationLastModified": "2026-10-22T22:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 15300,
@@ -226568,18 +226584,18 @@
         "ar": {
           "path": "ar/Culture/walking-through-the-past-together.md",
           "translatedFrom": "Culture/一同走過從前.md",
-          "sourceCommitSha": "05dfbb9bf",
-          "sourceContentHash": "sha256:e2526bd87e184905",
-          "sourceBodyHash": "sha256:83df57bb11f8b9d4",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:requeue-section-loss",
+          "sourceBodyHash": "sha256:requeue-section-loss",
           "translatedAt": "2026-10-21T17:11:25.134496+00:00",
-          "translationLastCommit": "0b9365ad",
-          "translationLastModified": "2026-10-22T01:54:31+08:00",
+          "translationLastCommit": "bcd1ce4f",
+          "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 70,
-          "bytes": 120214,
+          "bytes": 120224,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "pre-toolkit"
         },
         "ru": {
           "path": "ru/Culture/walking-through-the-past-together.md",
@@ -229989,12 +230005,12 @@
           "sourceCommitSha": "fd14e36db",
           "sourceContentHash": "sha256:568c29d1e1668c32",
           "sourceBodyHash": "sha256:ad0f6df167e4338c",
-          "translatedAt": "2026-10-20T08:59:57.030230+00:00",
-          "translationLastCommit": "db5050fc",
-          "translationLastModified": "2026-10-20T18:34:45+08:00",
+          "translatedAt": "2026-10-22T17:02:04.678710+00:00",
+          "translationLastCommit": "def555db",
+          "translationLastModified": "2026-10-23T00:48:55+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 111118,
+          "bytes": 113356,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
