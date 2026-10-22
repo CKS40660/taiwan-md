@@ -1779,6 +1779,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #38 (d)、#82；SQUEEZE §義務鐵律第 4 條「夜間額度用完視為延後不是失敗」
 - **verification_count**: 1
 
+### 2026-10-23 twmd-babel-nightly — 寫上新版本號的路徑，要先證明內容對齊
+
+- **pattern**: stamp-before-content-verified
+- **原則**：任何會把譯文的 sourceCommitSha 改成最新的路徑，在無法證明內容跟中文對齊時，應落到整篇重翻，不落到蓋章；蓋了章的局部 stale 對 status.py 是 fresh，此後沒有路徑會回頭看。
+- **觸發**：同一夜三條產線路徑都這樣做——`patch-translate.py` 失敗章保留舊譯卻整篇寫新版本號（fr〈林青霞〉留著已刪除的虛構客串，`def555db4` 修）；verify 第 10 項少一節只給 WARN，整篇重翻略掉一章照樣 fresh（全庫 326 份，OBSERVER-QUEUE #113）；semantic-noop-bump 看「只差標點」就蓋章，ko〈陳幸妤〉缺章被重新判 fresh（`bcd1ce4f7` 用 pre-toolkit 繞開）。→ memory/2026-10-23-015703-twmd-babel-nightly.md
+- **instances**：
+- **可能層級**：通用反射
+- **相關**：REFLEXES #85（「不知道」借用「沒事」的符號）的寫入端版本：#85 講讀數，這條講會改寫 provenance 的寫入路徑；也接 #38 (d) 第四種形狀（patch 繼承舊錯）
+- **verification_count**: 3
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
