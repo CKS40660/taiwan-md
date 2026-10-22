@@ -18,8 +18,8 @@ provenance 對得上，內容卻缺一塊。但這支**不**直接進 status.cla
 所以這支分兩段：
   預設：只報告。每份「譯文比中文少」的譯文印一列（語言、路徑、中文節數、譯文節數、
         作者是機器還是人），最後印分佈。
-  --requeue：把指定或篩出的譯文標成 stale（來源版本號退回中文上一個 commit、兩個
-        hash 換成 `sha256:requeue-section-loss`），讓產線整篇重翻（章數不等時
+  --requeue：把指定或篩出的譯文標成 stale（來源版本號改 pre-toolkit、兩個
+        hash 換成 `sha256:requeue-section-loss`；版本號用 pre-toolkit，見 requeue() 註解），讓產線整篇重翻（章數不等時
         patch-translate 回 2，dispatcher 走整篇）。人寫的譯文一律跳過（OBSERVER-QUEUE
         #67，判斷借 contributor_guard，不另寫一份）。
 
@@ -83,21 +83,19 @@ def scan(langs: list[str], min_loss: int):
             }
 
 
-def zh_previous_sha(zh_rel: str) -> str:
-    out = subprocess.run(["git", "log", "-2", "--format=%h", "--", zh_rel],
-                         cwd=REPO, capture_output=True, text=True).stdout.split()
-    # 只有一個 commit 的中文檔沒有「上一版」，用 status.py 認得的 pre-toolkit 標記
-    return out[1] if len(out) > 1 else "pre-toolkit"
-
-
-def requeue(rel: str, zh_rel: str) -> bool:
+def requeue(rel: str) -> bool:
     p = REPO / rel
     text = p.read_text(encoding="utf-8")
     fm = FM_RE.match(text)
     if not fm:
         return False
     block = fm.group(1)
-    new = re.sub(r"^sourceCommitSha:.*$", f"sourceCommitSha: '{zh_previous_sha(zh_rel)}'", block, count=1, flags=re.M)
+    # 用 pre-toolkit 而不是中文的上一個 commit：退到上一版時，若那一版到現在只差
+    # 標點，dispatcher 的 semantic-noop-bump 會直接蓋新版本號、不呼叫模型
+    # （2026-10-23 ko〈陳幸妤〉實撞：送回佇列幾分鐘後就以「只差標點」被判 fresh，
+    # 缺的那章還是缺）。pre-toolkit 沒有可比的舊版，noop 判不了、patch 回 2，
+    # 只剩整篇重翻一條路。
+    new = re.sub(r"^sourceCommitSha:.*$", "sourceCommitSha: 'pre-toolkit'", block, count=1, flags=re.M)
     new = re.sub(r"^sourceContentHash:.*$", f"sourceContentHash: '{REQUEUE_HASH}'", new, count=1, flags=re.M)
     new = re.sub(r"^sourceBodyHash:.*$", f"sourceBodyHash: '{REQUEUE_HASH}'", new, count=1, flags=re.M)
     if new == block:
@@ -141,7 +139,7 @@ def main() -> int:
                 skipped += 1
                 print(f"🙇 skip {r['path']}：人寫的譯文不覆蓋（#67）", file=sys.stderr)
                 continue
-            if requeue(r["path"], r["zh"]):
+            if requeue(r["path"]):
                 done += 1
         print(f"♻️ 標成 stale {done} 份，人寫跳過 {skipped} 份", file=sys.stderr)
         return 0

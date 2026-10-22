@@ -13,7 +13,7 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
+sourceCommitSha: 'pre-toolkit'
 sourceContentHash: 'sha256:requeue-section-loss'
 sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-09-10T12:43:28.808337+00:00'
