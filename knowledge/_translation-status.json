@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-22T16:28:39+08:00",
-    "zhCommitHead": "e44d2806b",
+    "lastUpdated": "2026-10-22T17:23:26+08:00",
+    "zhCommitHead": "5ce1cdd14",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -20,29 +20,13 @@
     "summary": {
       "en": {
         "total_zh": 1149,
-        "fresh": 1149,
-        "stale": 0,
+        "fresh": 1148,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "es": {
         "total_zh": 1149,
         "fresh": 1147,
         "stale": 2,
@@ -50,55 +34,63 @@
         "missing": 0,
         "orphan": 0
       },
+      "ko": {
+        "total_zh": 1149,
+        "fresh": 1147,
+        "stale": 2,
+        "metadata_stale": 0,
+        "missing": 0,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1149,
+        "fresh": 1146,
+        "stale": 3,
+        "metadata_stale": 0,
+        "missing": 0,
+        "orphan": 0
+      },
       "fr": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1149,
-        "fresh": 1144,
-        "stale": 2,
+        "fresh": 1143,
+        "stale": 3,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 0,
+        "fresh": 1147,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1149,
-        "fresh": 1146,
-        "stale": 2,
+        "fresh": 1145,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1149,
-        "fresh": 1149,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
-        "orphan": 0
-      },
-      "ru": {
         "total_zh": 1149,
         "fresh": 1148,
         "stale": 1,
@@ -106,10 +98,18 @@
         "missing": 0,
         "orphan": 0
       },
+      "ru": {
+        "total_zh": 1149,
+        "fresh": 1147,
+        "stale": 2,
+        "metadata_stale": 0,
+        "missing": 0,
+        "orphan": 0
+      },
       "de": {
         "total_zh": 1149,
-        "fresh": 1137,
-        "stale": 6,
+        "fresh": 1136,
+        "stale": 7,
         "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
@@ -111030,8 +111030,8 @@
           "sourceContentHash": "sha256:e87e033f31d5dc71",
           "sourceBodyHash": "sha256:240cf090fab51e1a",
           "translatedAt": "2026-10-22T06:15:53.566305+00:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "6fb177bb",
+          "translationLastModified": "2026-10-22T16:28:39+08:00",
           "inferred": false,
           "footnoteDefs": 70,
           "bytes": 150115,
@@ -145409,10 +145409,10 @@
     },
     "People/桂綸鎂.md": {
       "zh": {
-        "lastCommit": "ad792c90",
-        "lastModified": "2026-10-15T00:12:59+08:00",
-        "contentHash": "sha256:34a9d268091c23c6",
-        "bodyHash": "sha256:c06a0cb5b90069e3"
+        "lastCommit": "e90701b3",
+        "lastModified": "2026-10-22T14:58:37+08:00",
+        "contentHash": "sha256:e251e2c4f0adef8b",
+        "bodyHash": "sha256:5d6fb52db605d429"
       },
       "translations": {
         "en": {
@@ -145428,8 +145428,10 @@
           "footnoteDefs": 5,
           "bytes": 12668,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "ja": {
           "path": "ja/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145444,8 +145446,10 @@
           "footnoteDefs": 5,
           "bytes": 13859,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "ko": {
           "path": "ko/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145460,8 +145464,10 @@
           "footnoteDefs": 5,
           "bytes": 13423,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "es": {
           "path": "es/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145476,8 +145482,10 @@
           "footnoteDefs": 5,
           "bytes": 12709,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "fr": {
           "path": "fr/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145492,8 +145500,10 @@
           "footnoteDefs": 5,
           "bytes": 13595,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "vi": {
           "path": "vi/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145508,8 +145518,10 @@
           "footnoteDefs": 5,
           "bytes": 17622,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "id": {
           "path": "id/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145524,8 +145536,10 @@
           "footnoteDefs": 5,
           "bytes": 13057,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "pt": {
           "path": "pt/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145540,8 +145554,10 @@
           "footnoteDefs": 5,
           "bytes": 13255,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "hi": {
           "path": "hi/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145556,8 +145572,10 @@
           "footnoteDefs": 5,
           "bytes": 30425,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "ar": {
           "path": "ar/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145572,8 +145590,10 @@
           "footnoteDefs": 5,
           "bytes": 17379,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "ru": {
           "path": "ru/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145588,8 +145608,10 @@
           "footnoteDefs": 5,
           "bytes": 21956,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         },
         "de": {
           "path": "de/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -145604,8 +145626,10 @@
           "footnoteDefs": 5,
           "bytes": 13940,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+21 -100"
         }
       }
     },
