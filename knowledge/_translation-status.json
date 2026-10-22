@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-22T11:14:51+08:00",
-    "zhCommitHead": "5f400225b",
+    "lastUpdated": "2026-10-22T11:28:00+08:00",
+    "zhCommitHead": "b179e3dcb",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1149,
-        "fresh": 1144,
-        "stale": 4,
+        "fresh": 1145,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -36974,20 +36974,18 @@
         "fr": {
           "path": "fr/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:efb74dfc78d9c93c",
-          "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:e5ed571c162c298d",
+          "sourceBodyHash": "sha256:11e8f9bacb021dde",
+          "translatedAt": "2026-10-22T03:04:10.649817+00:00",
           "translationLastCommit": "eddd0fe3",
           "translationLastModified": "2026-10-21T19:44:30+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 63950,
+          "bytes": 62235,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/rayark-games.md",
@@ -110944,8 +110942,8 @@
           "sourceContentHash": "sha256:e87e033f31d5dc71",
           "sourceBodyHash": "sha256:240cf090fab51e1a",
           "translatedAt": "2026-10-22T01:25:03.970152+00:00",
-          "translationLastCommit": "e494a125",
-          "translationLastModified": "2026-10-10T23:05:56+08:00",
+          "translationLastCommit": "b179e3dc",
+          "translationLastModified": "2026-10-22T11:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 70,
           "bytes": 107697,
