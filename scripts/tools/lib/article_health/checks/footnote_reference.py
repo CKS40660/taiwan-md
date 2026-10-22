@@ -1,4 +1,4 @@
-"""footnote-reference — 抓「正文引用了 `[^N]`，但站上渲染不出對應腳註」的斷腳註。
+r"""footnote-reference — 抓「正文引用了 `[^N]`，但站上渲染不出對應腳註」的斷腳註。
 
 ## 為什麼要有這一支
 
@@ -15,7 +15,7 @@
 `[${raw}]`;`）。讀者看到的是一串沒有上下文的方括號數字，點不下去，也沒有
 文末條目——它不像壞掉的連結那樣會被讀者回報，因為它看起來「像文章的一部分」。
 
-## 判準必須跟 renderer 一致（2026-10-24 改寫的關鍵）
+## 判準必須跟 renderer 一致（2026-10-21 改寫的關鍵）
 
 這一支的每一條規則都是從 `processFootnotes()` 的**真實程式碼**抄下來的，
 不是「腳註語法看起來應該怎樣」。理由很硬：2026-08-28「徹底處理那一輪」用
@@ -31,7 +31,7 @@ Python 重寫 renderer 的規則去估算影響範圍，得到「零風險」的
 
 1. **全庫逐檔比對**：拿真實 renderer 跑全庫 15,045 檔，抽出「讀者看得到
    的殘留 label」跟「文末腳註條目」當 ground truth，再跟這支 check 的輸出
-   逐檔比。2026-10-24 結果：renderer 端 131 檔 / 764 個殘留 label，
+   逐檔比。2026-10-21 結果：renderer 端 131 檔 / 764 個殘留 label，
    check 端 119 檔 / 752 個——差額 12 檔**全部**是 `[^N]` 這個刻意的
    字面說明例外（見下），其餘每一個 label、每一個檔都對得上，
    共同檔案的 label 差集 = 0。
@@ -50,7 +50,7 @@ Python 重寫 renderer 的規則去估算影響範圍，得到「零風險」的
    空白內容的 `[^N]:` 在 renderer 眼裡是**未定義**。
 2. **引用**：renderer 掃的是**移除定義區塊之後**的 body，
    正則 `/\[(\^[^\]]+)\]/g`——**不看後面有沒有冒號**。
-   （舊版這裡有 `(?!:)`，那是 907 檔斷腳註的根因，已於 2026-10-24 修掉。）
+   （舊版這裡有 `(?!:)`，那是 907 檔斷腳註的根因，已於 2026-10-21 修掉。）
 3. **label 集合**：renderer 認得 `[^台灣]`、`[^剩食-新聞市場]` 這種非 ASCII
    label。舊版這裡用 `[0-9a-zA-Z_-]+`，比 renderer 窄 → 漏報 143 處。
 4. **code fence**：renderer **不跳** code fence（fence 裡的 `[^N]` 若有定義
@@ -127,7 +127,7 @@ _LITERAL_LABEL = "N"
 
 
 def _iter_dangling(body: str) -> Iterator[tuple[str, int]]:
-    """Yield (label, line_number) for every reference the site cannot render.
+    r"""Yield (label, line_number) for every reference the site cannot render.
 
     Mirrors `processFootnotes()`: collect definitions, strip the definition
     blocks from the body, then scan what is left for references whose label

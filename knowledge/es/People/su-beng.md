@@ -144,7 +144,7 @@ Independientemente de la posición, pocos pueden negar su coherencia. Desde la d
 
 [^yen]: [El significado especial de Su Beng según Yen Chih‑ya: su “independencia” nace del reconocimiento del Partido Comunista](https://udn.com/news/story/6656/4060121) — Reportaje de United Daily News (2019) que muestra la visión de la escritora sobre la base ideológica de Su Beng.
 
-[^nippon]: [Una estrella cae —农elevado「revolucionario de por vida」Su Beng](https://www.nippon.com/hk/japan-topics/g00763/) — Artículo de duelo de Nippon.com, 15 de octubre de 2019, de Kumiko Hirano; describe el primer encuentro de la autora con Su Beng en su despacho de Xinzhuang en 2003, menciona su huida de Taiwán en 1952 y la apertura del restaurante «Shin Chin-mi» en Ikebukuro, y recoge sus palabras: «Aunque sea solo un trozo de tierra, no se debe permitir que se pierda; eso es el país, eso es la nación».
+[^nippon]: [Una estrella cae — en memoria de Su Beng, el «revolucionario de por vida»](https://www.nippon.com/hk/japan-topics/g00763/) — Artículo de duelo de Nippon.com, 15 de octubre de 2019, de Kumiko Hirano; describe el primer encuentro de la autora con Su Beng en su despacho de Xinzhuang en 2003, menciona su huida de Taiwán en 1952 y la apertura del restaurante «Shin Chin-mi» en Ikebukuro, y recoge sus palabras: «Aunque sea solo un trozo de tierra, no se debe permitir que se pierda; eso es el país, eso es la nación».
 
 [^newbloom]: [Su Beng: la revolución de la izquierda taiwanesa](https://newbloommag.net/2016/03/02/su-beng-bio-tw/) — Perfil de New Bloom Magazine que amplía su pensamiento de izquierda, su desencanto con el comunismo y su posterior posicionamiento.
 
