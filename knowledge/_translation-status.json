@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-22T10:40:20+08:00",
-    "zhCommitHead": "439e385f5",
+    "lastUpdated": "2026-10-22T11:02:44+08:00",
+    "zhCommitHead": "3e94f78bc",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1149,
-        "fresh": 1143,
-        "stale": 5,
+        "fresh": 1144,
+        "stale": 4,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1149,
-        "fresh": 1144,
-        "stale": 4,
+        "fresh": 1145,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1149,
-        "fresh": 1134,
-        "stale": 9,
+        "fresh": 1135,
+        "stale": 8,
         "metadata_stale": 6,
         "missing": 0,
         "orphan": 0
@@ -36912,11 +36912,11 @@
           "sourceContentHash": "sha256:e5ed571c162c298d",
           "sourceBodyHash": "sha256:11e8f9bacb021dde",
           "translatedAt": "2026-10-22T02:30:37.107628+00:00",
-          "translationLastCommit": "eddd0fe3",
-          "translationLastModified": "2026-10-21T19:44:30+08:00",
+          "translationLastCommit": "3e94f78b",
+          "translationLastModified": "2026-10-22T10:40:21+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 58732,
+          "bytes": 58734,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -36924,38 +36924,34 @@
         "ja": {
           "path": "ja/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:efb74dfc78d9c93c",
-          "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:e5ed571c162c298d",
+          "sourceBodyHash": "sha256:11e8f9bacb021dde",
+          "translatedAt": "2026-10-22T02:40:42.581211+00:00",
           "translationLastCommit": "eddd0fe3",
           "translationLastModified": "2026-10-21T19:44:30+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 64042,
+          "bytes": 70207,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:efb74dfc78d9c93c",
-          "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:e5ed571c162c298d",
+          "sourceBodyHash": "sha256:11e8f9bacb021dde",
+          "translatedAt": "2026-10-22T02:45:05.838513+00:00",
           "translationLastCommit": "eddd0fe3",
           "translationLastModified": "2026-10-21T19:44:30+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 59808,
+          "bytes": 58799,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/rayark-games.md",
@@ -37104,20 +37100,18 @@
         "de": {
           "path": "de/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:76756fb2dd575588",
-          "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-09-24T23:52:21.973138+00:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:e5ed571c162c298d",
+          "sourceBodyHash": "sha256:11e8f9bacb021dde",
+          "translatedAt": "2026-10-22T02:20:58.488003+00:00",
           "translationLastCommit": "eddd0fe3",
           "translationLastModified": "2026-10-21T19:44:30+08:00",
           "inferred": false,
           "footnoteDefs": 54,
-          "bytes": 61818,
+          "bytes": 60265,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -110886,8 +110880,8 @@
           "sourceContentHash": "sha256:c4fdbe1ec3131fcf",
           "sourceBodyHash": "sha256:e137f6aaf4901ed7",
           "translatedAt": "2026-10-22T00:56:01.754323+00:00",
-          "translationLastCommit": "0ca64d66",
-          "translationLastModified": "2026-10-10T23:05:49+08:00",
+          "translationLastCommit": "3e94f78b",
+          "translationLastModified": "2026-10-22T10:40:21+08:00",
           "inferred": false,
           "footnoteDefs": 70,
           "bytes": 96696,
