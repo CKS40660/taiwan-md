@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-23 | 060234-twmd-embeddings-nightly | 13 語 14,794 向量 0 fail，每語 1,138 篇，verify PASS，`089937e48`；起跑前 MEMORY.md 衝突，照規則在本機 HEAD 重建，收尾時已被同機併掉 | 寫交接前先重看 git 狀態 | [→](memory/2026-10-23-060234-twmd-embeddings-nightly.md) |
 | 2026-10-23 | 060816-twmd-data-refresh-am | 落後三個 commit 先在共用鎖下合併（MEMORY.md 衝突取 origin 插回一列），--no-sync 跑完 14 步、0 stale，文章 1147；告警 7 條全黃 | 合併衝突時鎖要護到工作樹可讀才放 | [→](memory/2026-10-23-060816-twmd-data-refresh-am.md) |
 | 2026-10-23 | 064112-twmd-spore-harvest-am | 收割窗口空到第六十一天，兩個動態頁無新留言；purawind 那列是對 #150 自家引流貼文按讚，#29 仍 1.7 萬，合法空班 | 列裡的句子是我們自己寫的，那列就是按讚 | [→](memory/2026-10-23-064112-twmd-spore-harvest-am.md) |
+| 2026-10-23 | 071239-twmd-feedback-triage | 佇列空，沉默 1.6 天在歷史 14.7 天內，寫入端四層全綠；對賬 90/90 與 89/90，昨天 #1893 的維護者回覆同步進 archive | 尺會把它標示過的事件吸收成上界 | [→](memory/2026-10-23-071239-twmd-feedback-triage.md) |
