@@ -32,9 +32,9 @@ rationale:
   where_it_hedges: '播出日期與頻道採迷走、何懷碩、《紀錄台灣》等多方一致的記載；片長同時寫出天下 86 期的「四小時」與目前上傳四集合計約三小時十四分。〈美麗島〉第一次在電視上播出的說法只來自張照堂的回憶與天下的導讀說明。受訪者人數是四集字卡的約數。播出時段查不到，正文只寫連播四天。說話者需要推定、或字幕待回聽的片段不加引號；第四集桃園農民那一段只轉述。'
   whos_pushing_back: '認為這部片整體是以國民黨來台為中心的宣傳片的讀者（當年的評論者迷走即持此看法）；認為片中的普通人聲音仍由旁白框架挑選、不能代表當時社會的讀者；以及主張台灣經濟成長另有勞工壓制、農村汲取與冷戰地緣等解釋的研究者。'
 translatedFrom: 'Culture/一同走過從前.md'
-sourceCommitSha: '05dfbb9bf'
-sourceContentHash: 'sha256:e2526bd87e184905'
-sourceBodyHash: 'sha256:83df57bb11f8b9d4'
+sourceCommitSha: '85a1b526f'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-10-21T17:11:25.134496+00:00'
 ---
 

@@ -1,8 +1,8 @@
 ---
 translatedFrom: 'Technology/AI硬體供應鏈.md'
-sourceCommitSha: '8f5e81ee'
-sourceContentHash: 'sha256:96b285db19941653'
-sourceBodyHash: 'sha256:96ecb5a6142f55f7'
+sourceCommitSha: '2d46f0882'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-08-11T08:45:00+08:00'
 lang: 'ja'
 title: 'AIハードウェアサプライチェーン：台湾がクラウドをマシンに変える場所'

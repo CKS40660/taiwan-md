@@ -34,9 +34,9 @@ sporeLinks:
     date: '2026-05-09'
     url: 'https://x.com/taiwandotmd/status/2053100425730269544'
 translatedFrom: Economy/台灣企業：台積電.md
-sourceCommitSha: '6ffd92f9'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
-sourceBodyHash: 'sha256:6bdb1c40d1477a30'
+sourceCommitSha: 'bb3e6a0b7'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-06-16T16:55:29Z'
 ---
 

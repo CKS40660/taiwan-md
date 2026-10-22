@@ -18,9 +18,9 @@ subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/楊勇緯.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:66a5e0aae1a572b7'
-sourceBodyHash: 'sha256:162f09653edec7c3'
+sourceCommitSha: 'f99a9959c'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-04-14T19:24:47+08:00'
 featured: false
 lastVerified: 2026-03-21

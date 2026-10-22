@@ -18,9 +18,9 @@ lastVerified: 2026-09-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
-sourceContentHash: 'sha256:f45251e967dc33da'
-sourceBodyHash: 'sha256:cc68e7641279a1e9'
+sourceCommitSha: 'pre-toolkit'
+sourceContentHash: 'sha256:requeue-section-loss'
+sourceBodyHash: 'sha256:requeue-section-loss'
 translatedAt: '2026-07-07T00:38:21+08:00'
 ---
 
