@@ -1,15 +1,15 @@
 ---
 title: 'Brigitte Lin'
-description: "Born in a Taipei military dependents' village in 1954, she was discovered by director Sung Chun-shou in Ximending in 1972 to star in *Window* (based on a Qiong Yao novel). She became the goddess of the Qiong Yao film era with her pure image, forming classic screen pairings with Qin Han and Chin Siang-lin that captivated the Chinese-speaking world. In 1992, she redefined wuxia cinema with her subversive portrayal of Dongfang Bubai, spanning two distinct eras of film."
+description: "Born in 1954 and raised in a military dependents' village, she was discovered by talent scout Yang Qi in Ximending in 1972. After being cast through an introduction, she starred in the adaptation of Pai Hsien-yung's novel 'Outside the Window.' With her pure and innocent image, she became the goddess of the Qiong Yao film era, forming classic on-screen pairings with Qin Han and Chin Siang-lin that captivated the entire Chinese-speaking world, setting fashion trends through her hairstyles and clothing. In 1992, she redefined martial arts cinema classics with her portrayal of the iconic Dongfang Bubai, spanning both the literary romance and wuxia eras."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Brigitte Lin',
-    'Actress',
-    'Qiong Yao films',
+    'Actor',
+    'Qiong Yao Films',
     'Dongfang Bubai',
-    'Chinese-language cinema',
+    'Chinese-language Cinema',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'e53f17151'
-sourceContentHash: 'sha256:7e12cc4002fc2007'
-sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-16T00:52:38+08:00'
+sourceCommitSha: '5a694157b'
+sourceContentHash: 'sha256:d7565a0caf0e78ad'
+sourceBodyHash: 'sha256:c4c5c6f387033995'
+translatedAt: '2026-10-22T05:38:00.835648+00:00'
 ---
 
 # Brigitte Lin: From Literary Goddess to Wuxia Legend
@@ -35,29 +35,27 @@ While attending Jinling Girls' High School, Lin was an excellent student with a 
 
 With her mother's support, Lin decided to try film acting. Her debut film, _Window_ (1973), was adapted from a Qiong Yao novel and featured co-star Qin Han, establishing her status in literary cinema. [^2]
 
-## The Literary Goddess of the Qiong Yao Era
+## The Literary Goddess of the Qiong Yao Film Era
 
-The success of _Window_ in 1972 launched Brigitte Lin's era of Qiong Yao films. Over the following decade, she starred in numerous works by Qiong Yao, including _Clouds of Color_, _A Thousand Knots in My Heart_, and _Moonlight and Birds_.
+The success of _Window_ (1973) launched Brigitte Lin's era of Qiong Yao films. Over the following decade, she starred in numerous works by Qiong Yao, including _Flying Colors_, _A Thousand Knots in My Heart_, and _Moonlight and Misty Birds_.
 
-Lin's pure image perfectly interpreted the female characters written by Qiong Yao: innocent, kind, and sentimental. Her collaborations with Qin Han and Chin Siang-lin formed classic onscreen pairings that became a sensation throughout the Chinese-speaking world.
+Lin's pure image perfectly interpreted the female characters written by Qiong Yao: innocent, kind-hearted, and sentimental. Her collaborations with Qin Han and Qin Xianglin formed classic on-screen pairings that became a sensation throughout the Chinese-speaking world.
 
-During this period, Lin became an idol for countless young women; her hairstyles and clothing became fashion benchmarks. Qiong Yao's films also gained greater influence and commercial success due to her performances.
+During this period, Brigitte Lin became an idol for countless young women, with her hairstyles and clothing becoming fashion benchmarks. Qiong Yao's films also achieved greater influence and commercial success due to her performances.
 
-## Diverse Attempts in Literary Film
+## Diverse Artistic Explorations
 
-Beyond Qiong Yao films, Lin also explored other genres of literary cinema. In 1979, she collaborated with director Li Hang on _A Boat in the Ocean_, demonstrating a more mature acting style.
+In addition to Qiong Yao's films, Brigitte Lin continuously took on various art films. Works from this period include _I Am a Cloud_ (directed by Chen Hung-lieh) in 1977 and _Moonlight and Misty Birds_ (directed by Chen Yao-chi) in 1978. In 1976, she won Best Actress at the Asia-Pacific Film Festival for her role in _The Eighty Heroes_, marking the beginning of critical recognition for her acting skills.
 
-The 1981 film _I Am a Cloud_ remains one of her representative Qiong Yao works, featuring deeply moving scenes with Qin Han. This work showcased Lin's profound skill in emotional drama.
-
-In the early 1980s, Lin began to consider a transition in her career. Realizing that a singular "literary goddess" image might limit her growth, she began seeking opportunities for a breakthrough.
+In the early 1980s, Lin began to consider a transformation in her entertainment career. Realizing that a singular "artistic goddess" image might limit her professional growth, she started seeking opportunities for a breakthrough.
 
 ## Moving to Hong Kong and Collaborating with the New Wave
 
-In the mid-1980s, Lin moved into the Hong Kong film market, a decision that completely transformed her career. The diverse and commercialized environment of Hong Kong cinema provided her with greater room for development.
+In the 1980s, Brigitte Lin moved into the Hong Kong film market, a decision that completely transformed her entertainment career. The diverse and commercialized environment of Hong Kong cinema provided her with greater room for professional growth.
 
-She established collaborative relationships with Hong Kong New Wave directors, experimenting with different types of roles. These experiences matured her acting skills, preparing her for her later roles in Tsui Hark's wuxia films.
+She established collaborative relationships with directors of the Hong Kong New Wave, experimenting with various types of roles. These experiences allowed her acting skills to mature, preparing her for her later roles in Tsui Hark's _wuxia_ films.
 
-During her time in Hong Kong, Lin maintained her career in both Taiwan and Hong Kong, becoming one of the few superstars capable of crossing both markets. Her success provided a template for subsequent Taiwanese actors entering the Hong Kong industry.
+During her time in Hong Kong, Brigitte Lin maintained her career development in both Taiwan and Hong Kong, becoming one of the few superstars capable of spanning both markets. Her success provided a model for Taiwanese actors who would later enter the Hong Kong film industry.
 
 ## Wuxia Classic: The Subversive Performance in _Dongfang Bubai_
 
@@ -75,37 +73,35 @@ In addition to _Swordsman II_, the two collaborated on works such as _New Dragon
 
 These collaborative works were successful in both box office and critical acclaim, proving the wisdom of Lin's career shift. She was no longer just a representative of Qiong Yao films, but a true character actress and superstar.
 
-## Diverse Expressions in the 1990s
+## Diverse Performances in the 1990s
 
-The 1990s was Brigitte Lin's most active period, during which she attempted various types of roles. From period wuxia to modern dramas, her performances were consistently brilliant.
+The early 1990s marked the final peak of Brigitte Lin's career before her retirement. She experimented with a wide variety of roles, winning the Golden Horse Award for Best Actress in 1990 for 《滾滾紅塵》 (_Red Dust in the Wind_). Her performances were brilliant across all genres, from period wuxia to modern dramas.
 
-From Jin Xiangyu in _New Dragon Gate Inn_ and the blonde assassin in _Chungking Express_ to Murong Yan in _Ashes of Time_, every character possessed a unique charm. Lin demonstrated an astonishing acting range.
+Whether playing Jin Xiangyu in 《新龍門客棧》 (_New Dragon Gate Inn_), the blonde female assassin in 《重慶森林》 (_Chungking Express_), or Murong Yan in 《東邪西毒》 (_Ashes of Time_), each character possessed a unique charm. Brigitte Lin demonstrated an astonishing range of acting ability.
 
-Wong Kar-wai's _Chungking Express_ and _Ashes of Time_ connected Lin with art cinema, proving she could handle not only commercial films but also works of high artistic merit.
+Wong Kar-wai's 《重慶森林》 and 《東邪西毒》 established Brigitte Lin's connection to art cinema, proving that she was not only capable of carrying commercial blockbusters but could also master works with higher artistic merit.
 
-## Retirement and a New Stage of Life
+## Retirement from Acting and a New Stage of Life
 
-In 1994, Brigitte Lin announced her retirement from the screen to focus on family life. While this decision was a source of regret for many fans, they understood her choice regarding her personal life.
+On June 29, 1994, Brigitte Lin married Hong Kong businessman Xing Li-yuan in San Francisco, after which she faded from the film industry to focus on her family life. While this decision was a source of regret for countless fans, they also understood her personal choices regarding her life.
 
-After retiring, Lin married businessman Xing Li-yuan and had two daughters. She shifted her focus to her family and rarely made public appearances, which added to her aura of mystery.
+After marriage, she gave birth to two daughters, born in 1996 and 2001, respectively. She shifted her focus toward her family and rarely made public appearances, which only added to her aura of mystery.
 
-Despite her retirement, Lin's influence has not waned. Her classic works continue to be rebroadcast on television, allowing new generations of viewers to discover her charm through these films.
+Despite her retirement from acting, Brigitte Lin's influence has not diminished. Her classic works continue to be rebroadcast on television, allowing new generations of viewers to discover her charm through these films.
 
 ## New Attempts at Literary Creation
 
-After retiring from acting, Lin began exploring literary creation, publishing prose collections such as _Inside and Outside the Window_. She used her delicate writing style to record life reflections and personal experiences.
+After retiring from the screen, Brigitte Lin began to experiment with literary creation, successively publishing prose collections such as 《Inside and Outside the Window》 (2011) and 《Clouds Come and Go》 (2014). She uses a delicate writing style to record her life reflections and personal experiences.
 
-Lin's literary work received recognition from the literary community, proving she was not only an excellent actress but also a talented writer. This multifaceted talent earned her even greater respect.
+Lin's literary works have gained recognition from the literary community, proving that she is not only an excellent actress but also a talented writer. This multifaceted talent has earned her even greater respect.
 
-She also shared her acting experiences and life reflections through her writing, allowing fans to gain a deeper understanding of her inner world. These works have become precious historical materials for cinema studies.
+Through her writing, she also shares her entertainment industry experiences and reflections on life, allowing fans to gain a deeper understanding of her inner world. These works have become precious historical materials regarding cinema history.
 
-## The Special Significance of Occasional Returns
+## The Special Significance of Her Occasional Returns
 
-Although officially retired, Lin occasionally returns for special projects. In 2013, her cameo in _Love for a Thousand Years_ drew intense attention from fans.
+Despite her retirement from the screen, Brigitte Lin still makes occasional public appearances. In January 2013, she was invited to serve as the first cultural ambassador for the Ministry of Culture's "Reading New Wave" program; in November of the same year, she appeared as a guest presenter at the 50th Golden Horse Awards. In 2023, she was honored with the Golden Horse Lifetime Achievement Award.
 
-Though these appearances involve limited screen time, they always become focal points of discussion. This speaks to Lin's immense star power and influence.
-
-She also participates in film festivals and award ceremonies, where every appearance causes a sensation. The passage of time has only made her more elegant and captivating.
+Every time she appears at film festivals or award ceremonies, she causes a sensation. The passage of time has only made her more elegant and captivating.
 
 ## Influence Across Eras
 
