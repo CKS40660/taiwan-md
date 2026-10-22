@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-23T03:30:39+08:00",
-    "zhCommitHead": "b1ad61fb0",
+    "lastUpdated": "2026-10-23T05:58:03+08:00",
+    "zhCommitHead": "39ed41f54",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1149,
-        "fresh": 1148,
-        "stale": 1,
+        "fresh": 1149,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -101708,8 +101708,8 @@
           "sourceContentHash": "sha256:207c26e5b764aafa",
           "sourceBodyHash": "sha256:e8b115a1f996f620",
           "translatedAt": "2026-10-23T02:24:50+08:00",
-          "translationLastCommit": "8616faa8",
-          "translationLastModified": "2026-10-16T04:13:48+08:00",
+          "translationLastCommit": "39ed41f5",
+          "translationLastModified": "2026-10-23T03:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 18126,
@@ -141114,8 +141114,8 @@
           "sourceContentHash": "sha256:5f03c9523f81df75",
           "sourceBodyHash": "sha256:9475c22b31e09d67",
           "translatedAt": "2026-10-23T02:24:50+08:00",
-          "translationLastCommit": "bcd1ce4f",
-          "translationLastModified": "2026-10-23T01:56:52+08:00",
+          "translationLastCommit": "39ed41f5",
+          "translationLastModified": "2026-10-23T03:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 28402,
@@ -226566,18 +226566,18 @@
         "ar": {
           "path": "ar/Culture/walking-through-the-past-together.md",
           "translatedFrom": "Culture/一同走過從前.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:requeue-section-loss",
-          "sourceBodyHash": "sha256:requeue-section-loss",
-          "translatedAt": "2026-10-21T17:11:25.134496+00:00",
+          "sourceCommitSha": "05dfbb9bf",
+          "sourceContentHash": "sha256:e2526bd87e184905",
+          "sourceBodyHash": "sha256:83df57bb11f8b9d4",
+          "translatedAt": "2026-10-22T21:37:37.182041+00:00",
           "translationLastCommit": "bcd1ce4f",
           "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 70,
-          "bytes": 120224,
+          "bytes": 126578,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/walking-through-the-past-together.md",
