@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-10-21T22:05:56.345Z",
+  "lastUpdated": "2026-10-22T22:05:56.118Z",
   "totals": {
-    "contributors": 78,
+    "contributors": 79,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10227,
+      "commits": 10245,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-22 02:38:49 +0800",
+      "lastCommitAt": "2026-10-23 02:40:35 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1774,
-        "system": 5194,
+        "content": 1778,
+        "system": 5207,
         "translation": 2456
       }
     },
@@ -35,16 +35,16 @@
     },
     {
       "login": "tboydar",
-      "commits": 146,
+      "commits": 149,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-20 17:27:47 +0800",
+      "lastCommitAt": "2026-10-21 22:29:28 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 62,
-        "system": 10,
-        "translation": 88
+        "system": 12,
+        "translation": 90
       }
     },
     {
@@ -547,13 +547,6 @@
       "types": ["💻"]
     },
     {
-      "login": "ycku",
-      "name": "ycku",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
-      "profileUrl": "https://github.com/ycku",
-      "types": ["🖋️"]
-    },
-    {
       "login": "expectingshadowland-maker",
       "name": "expectingshadowland-maker",
       "avatarUrl": "https://avatars.githubusercontent.com/u/276374199?v=4",
@@ -624,6 +617,13 @@
       "types": ["💻"]
     },
     {
+      "login": "weiso",
+      "name": "weiso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19347412?v=4",
+      "profileUrl": "https://github.com/weiso",
+      "types": ["🌍"]
+    },
+    {
       "login": "ytchen175",
       "name": "ytchen175",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58975450?v=4",
@@ -650,6 +650,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6036508?v=4",
       "profileUrl": "https://github.com/x1001000",
       "types": ["💻", "🖋️"]
+    },
+    {
+      "login": "ycku",
+      "name": "ycku",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
+      "profileUrl": "https://github.com/ycku",
+      "types": ["🖋️"]
     },
     {
       "login": "bblawyer918",
@@ -909,15 +916,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10227,
+      "commits": 10245,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-22 02:38:49 +0800",
+      "lastCommitAt": "2026-10-23 02:40:35 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1774,
-        "system": 5194,
+        "content": 1778,
+        "system": 5207,
         "translation": 2456
       }
     },
@@ -981,16 +988,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 146,
+      "commits": 149,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-10-20 17:27:47 +0800",
+      "lastCommitAt": "2026-10-21 22:29:28 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 62,
-        "system": 10,
-        "translation": 88
+        "system": 12,
+        "translation": 90
       }
     },
     {
@@ -1050,7 +1057,22 @@
       }
     }
   ],
-  "weeklyActive": 2,
-  "monthlyActive": 3,
-  "recentlyJoined": []
+  "weeklyActive": 3,
+  "monthlyActive": 4,
+  "recentlyJoined": [
+    {
+      "login": "weiso",
+      "commits": 1,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19347412?v=4",
+      "profileUrl": "https://github.com/weiso",
+      "firstCommitAt": "2026-10-21 08:02:47 +0000",
+      "lastCommitAt": "2026-10-21 08:02:47 +0000",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 1
+      }
+    }
+  ]
 }

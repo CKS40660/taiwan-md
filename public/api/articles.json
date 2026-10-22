@@ -14853,17 +14853,6 @@
     "path": "Culture/台灣YouTuber產業與文化.md"
   },
   {
-    "title": "史明：一つの餃子店で四十年の台湾革命を支えた",
-    "description": "史明（本名施朝暉）は中国で中共の地下情報員を務めたが、土改の大量殺戮を目の当たりにして幻滅し、台湾に戻って蔣介石暗殺を密謀した。計画が失敗し日本へ密航した後、東京・池袋に「新珍味」という麺店を開き、昼は餃子を販売し、夜は台湾史を書き続けた。この店の収入で四十年にわたる台湾独立運動を支え、また台湾民族意識を喚起する『台湾人四百年史』を執筆した。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/su-beng",
-    "readingTime": 32,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "ja/People/su-beng.md"
-  },
-  {
     "title": "史明：用一間餃子店，養了四十年的台灣革命",
     "description": "史明本名施朝暉，曾在中國替中共做地下情報，卻在親眼見過土改屠殺後幻滅，回台密謀刺殺蔣介石，事敗後偷渡日本。他在東京池袋開了一間叫「新珍味」的麵店，白天賣餃子、夜晚寫台灣史，用這間店的收入養了四十年的台獨運動，也寫出喚起台灣民族意識的《台灣人四百年史》。",
     "category": "People",
@@ -14873,6 +14862,17 @@
     "featured": false,
     "date": "2026-07-10",
     "path": "People/史明.md"
+  },
+  {
+    "title": "史明（スー・ミン）：餃子店一軒で40年間、台湾の革命を支え続けた男",
+    "description": "史明の本名は施朝暉。かつて中国で共産党の地下工作員を務めたが、土地改革による虐殺を目の当たりにして幻滅し、帰台後に蔣介石暗殺を計画、失敗後に日本へ密航した。東京池袋の麺料理店「新珍味」を営みながら、昼は餃子を売り、夜は台湾史を執筆。その収益で40年間にわたり台湾独立運動を支え、『台湾人四百年史』を著して民族意識を呼び起こした。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/su-beng",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/People/su-beng.md"
   },
   {
     "title": "史前時代與原住民：長濱2-3萬年到南島語族擴散起點",
@@ -17941,26 +17941,26 @@
     "path": "ja/People/shen-wencheng.md"
   },
   {
+    "title": "沈伯洋：中国の認知戦を研究した結果、衛星写真に自宅が特定される",
+    "description": "2021年、沈伯洋は戦略学者の何澄輝と共に黒熊学院を共同設立しました。曹興誠からNT$6億の寄付を受け、3年間で300万人の民防志士を訓練することを目標としています。2024年2月には民進党の比例代表として国会に入りました。2025年10月28日、彼は中国によって「国家分裂罪」で立案捜査を受けた初の台湾選出政治家となり、CCTV（中国中央テレビ）は「正体を暴く」特集を組み、「次はあなただ」と警告しました。2026年の元旦には、中国のWeiboアカウントが商用衛星を用いて台北にある彼の自宅と勤務地の座標を公開しました。バレンタインデー、彼はフランスへ向かう機内で過ごしました。5月13日、民進党は彼を台北市長選への出馬に正式に召集しましたが、その選挙対象こそが、衛星写真によって座標を特定されたあの都市でした。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/puma-shen",
+    "readingTime": 110,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "ja/People/puma-shen.md"
+  },
+  {
     "title": "沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上",
     "description": "二〇二一年沈伯洋與戰略學者何澄輝共同創辦黑熊學院，曹興誠捐六億支持，目標三年訓練三百萬民防志士。二〇二四年二月以民進黨不分區立委身份入國會。二〇二五年十月二十八日，他成為首位被中國以「分裂國家罪」立案偵查的台灣民選政治人物，央視配上「起底」專題警告「下一個就是你」。二〇二六年元旦中國微博帳號用商用衛星公布他在台北的住家與工作地座標；情人節他在飛往法國的飛機上度過。五月十三日民進黨正式徵召他參選台北市長，要選的正是那座被衛星圖標出座標的城市。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E6%B2%88%E4%BC%AF%E6%B4%8B",
-    "readingTime": 73,
+    "readingTime": 76,
     "featured": false,
     "date": "2026-04-28",
     "path": "People/沈伯洋.md"
-  },
-  {
-    "title": "沈伯洋：彼は中国の認知戦を研究し、やがて中国は彼を衛星画像上に描き込みました",
-    "description": "二〇二一年、沈伯洋は戦略研究者の何澄輝とともに黒熊学院を共同創設し、曹興誠が六億元を寄付して支援しました。目標は三年で三百万人の民防志士を訓練することでした。二〇二四年二月、民進党の比例代表立法委員として国会に入りました。二〇二五年十月二十八日、彼は中国から「国家分裂罪」で立件捜査された初の台湾の民選政治家となり、CCTVは「素性暴き」特集を添えて「次はあなたです」と警告しました。二〇二六年元日、中国の微博アカウントが商用衛星を使って、彼の台北の自宅と職場の座標を公開しました。バレンタインデーを、彼はフランスへ向かう機内で過ごしました。五月十三日、民進党は彼を台北市長選の候補として正式に擁立しました。彼が選挙に挑むのは、まさに衛星画像で座標を示されたその都市です。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/puma-shen",
-    "readingTime": 99,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "ja/People/puma-shen.md"
   },
   {
     "title": "沈聖博",
@@ -19364,7 +19364,7 @@
   },
   {
     "title": "林青霞",
-    "description": "1954年出生於台北眷村的她，1972年在西門町被導演宋存壽相中主演瓊瑤原著《窗外》，以清純面貌成為瓊瑤電影時代的女神，與秦漢、秦祥林組成風靡整個華人世界的經典螢幕情侶，髮型與服裝都成為時尚指標；1992年再以紅衣飛舞的東方不敗一角寫下武俠銀幕經典，橫跨文藝與武俠兩個時代。",
+    "description": "1954年出生、成長於眷村的她，1972年在西門町被星探楊琦遇見，經介紹試鏡後獲選主演瓊瑤原著《窗外》，以清純面貌成為瓊瑤電影時代的女神，與秦漢、秦祥林組成風靡整個華人世界的經典螢幕情侶，髮型與服裝都成為時尚指標；1992年再以紅衣飛舞的東方不敗一角寫下武俠銀幕經典，橫跨文藝與武俠兩個時代。",
     "category": "People",
     "tags": [
       "林青霞",
@@ -19374,24 +19374,24 @@
       "華語電影"
     ],
     "url": "https://taiwan.md/people/%E6%9E%97%E9%9D%92%E9%9C%9E",
-    "readingTime": 13,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/林青霞.md"
   },
   {
-    "title": "林青霞：從文藝女神到武俠傳奇",
-    "description": "1954年、台北の眷村に生まれた彼女は、1972年に西門町で宋存壽監督の目に留まり、瓊瑤原作の『窓外』で主演デビュー。清純な佇まいで瓊瑤映画時代の女神となり、秦漢・秦祥林と共に華語圏を席巻した古典的スクリーン・カップルを形成し、髪型や衣装はファッションの指標となった。1992年には紅衣を翻す東方不敗役で武俠映画の金字塔を打ち立て、文藝と武俠という二つの時代を跨ぐ存在となった。",
+    "title": "林青霞",
+    "description": "1954年生まれ、眷村で育った彼女は、1972年に西門町でスカウトの楊琦に見出され、紹介でオーディションを受け、瓊瑤原作の『窗外』の主演に抜擢されました。清純なルックスで瓊瑤映画時代の女神となり、秦漢、秦祥林とともに華人世界を席巻した伝説のスクリーンカップルを形成し、髪型や衣装がファッションの指標となりました。1992年には赤い衣装で舞う東方不敗役で武侠映画の金字塔を打ち立て、文芸と武侠の二つの時代を跨ぎました。",
     "category": "ja",
     "tags": [
       "林青霞",
-      "女優",
+      "俳優",
       "瓊瑤映画",
       "東方不敗",
       "華語映画"
     ],
     "url": "https://taiwan.md/ja/people/brigitte-lin-legendary-actress",
-    "readingTime": 18,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/brigitte-lin-legendary-actress.md"
@@ -22329,7 +22329,7 @@
   },
   {
     "title": "桂綸鎂",
-    "description": "1983年生於台北眷村的她，2002年在校園被易智言的副導演挖掘、以《藍色大門》的孟克柔出道，用最自然純淨的演出開啟演員之路；從《不能說的秘密》到國際影展常客，即使低調神隱，仍憑扎實演技與文藝氣質，成為台灣影壇最具代表性的文藝片女演員之一。",
+    "description": "1983年生，淡江大學法國語文學系畢業，2002年以易智言的《藍色大門》出道；2007年《不能說的秘密》讓她被大眾熟知，2012年以《女朋友·男朋友》拿下金馬獎與亞太影展最佳女主角，並以《白日焰火》等片走進國際影展，是台灣影壇代表性的文藝片女演員。",
     "category": "People",
     "tags": [
       "桂綸鎂",
@@ -22339,24 +22339,24 @@
       "演技派"
     ],
     "url": "https://taiwan.md/people/%E6%A1%82%E7%B6%B8%E9%8E%82",
-    "readingTime": 13,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/桂綸鎂.md"
   },
   {
-    "title": "桂綸鎂（けい・りんび／クェイ・ルンメイ）",
-    "description": "1983年、台北の眷村に生まれた彼女は、2002年にキャンパスで易智言（イー・チーイェン）の助監督に見出され、『藍色大門（ブルー・ゲート）』の孟克柔（モン・クーロウ）役でデビュー。最も自然で純粋な演技で俳優の道を切り開き、『不能說的秘密（言えない秘密）』から国際映画祭の常連となり、低調に活動しながらも確かな演技力と文芸的な気質で、台湾映画界を代表する文芸派女優の一人となった。",
+    "title": "桂綸鎂（けい・りんまい／クワイ・ルンメイ）",
+    "description": "1983年生まれ、淡江大学フランス語文文学科卒業。2002年、易智言監督の『藍色大門』でデビュー。2007年『不能說的秘密』で広く知られるようになり、2012年『女朋友·男朋友』で第49回金馬奨および第55回アジア太平洋映画祭最優秀主演女優賞を受賞。『白日焰火』などで国際映画祭にも進出し、台湾映画界を代表する文芸派女優の一人。",
     "category": "ja",
     "tags": [
       "桂綸鎂",
-      "俳優",
+      "女優",
       "不能說的秘密",
       "国際映画祭",
       "演技派"
     ],
     "url": "https://taiwan.md/ja/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 18,
+    "readingTime": 8,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -23565,8 +23565,8 @@
     "path": "ja/People/constant-and-change-band.md"
   },
   {
-    "title": "張艾嘉：嘉義出發，《童年》原唱到《相愛相親》導演",
-    "description": "1953年生於嘉義市，張艾嘉17歲因《夢中人》踏入演藝圈。《童年》（羅大佑1981作曲）是她的歌，《愛的代價》（李宗盛1992作曲）是她最廣為人知的代表作。1986年《最愛》拿金馬最佳女主角；2017年《相愛相親》入圍金馬最佳導演與最佳原著劇本。跨越演員、導演、歌手三個身份，超過五十年。",
+    "title": "張艾嘉",
+    "description": "張艾嘉（Sylvia Chang，1953 年生），16 歲做電台 DJ、17 歲唱歌主持，1972 年拍第一部電影，1976 年以《碧雲天》得金馬最佳女配角，1981 年以《我的爺爺》、1986 年以《最愛》、2022 年以《燈火闌珊》三度拿下金馬最佳女主角。1981 年導演《某年某月某一天》，此後執導十六部作品，歌手、演員、導演三條線並行五十多年。",
     "category": "People",
     "tags": [
       "電影",
@@ -23576,7 +23576,7 @@
       "編劇"
     ],
     "url": "https://taiwan.md/people/%E5%BC%B5%E8%89%BE%E5%98%89",
-    "readingTime": 12,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/張艾嘉.md"
@@ -24145,23 +24145,6 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "History/清法戰爭.md"
-  },
-  {
-    "title": "猪哥亮（チュー・ゴーリャン）",
-    "description": "本名は謝新達。1946年に高雄市左営区で生まれました。父は鍛冶屋、母は野菜売りでした。小学校卒業後に退学し、15歳で歌仔戯（台湾の伝統演劇）の師匠に弟子入りしました。1960年代には夜市で歌手の真似をすることから頭角を現し、1970年代に台湾の経済が急成長して夜間の娯楽需要が増えると、ショービジネス文化が誕生しました。彼は伝統的な戯曲や民俗芸能の語り、そして流行の要素を融合させた「猪式ユーモア」を生み出し、台湾語による即興の韻踏みを通じて、庶民の言葉をテレビのバラエティ番組へと押し上げました。2017年5月、大腸がんのため逝去しました。",
-    "category": "ja",
-    "tags": [
-      "猪哥亮",
-      "ショービジネス",
-      "コメディ",
-      "バラエティ",
-      "台湾語"
-    ],
-    "url": "https://taiwan.md/ja/people/zhuge-liang-showman",
-    "readingTime": 18,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ja/People/zhuge-liang-showman.md"
   },
   {
     "title": "現代先住民シンガーソングライター",
@@ -28584,7 +28567,7 @@
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/technology/%E9%9B%B7%E4%BA%9E%E9%81%8A%E6%88%B2",
-    "readingTime": 86,
+    "readingTime": 88,
     "featured": false,
     "date": "2026-05-25",
     "path": "Technology/雷亞遊戲.md"
@@ -30645,7 +30628,7 @@
   },
   {
     "title": "豬哥亮",
-    "description": "本名謝新達，1946 年生於高雄左營，父親打鐵、母親賣菜，小學畢業後輟學，15 歲拜師學歌仔戲。1960 年代他在夜市模仿歌星起家，1970 年代台灣經濟起飛、夜間娛樂需求增加，秀場文化應運而生，他把傳統戲曲、民間說唱與流行元素揉成「豬式幽默」，用台語即興押韻把庶民語言帶上電視綜藝。2017 年 5 月，他因大腸癌逝世。",
+    "description": "豬哥亮（1946–2017，原名謝新達）生於高雄左營，14 歲離家加入新劇團，31 歲在藍寶石大歌廳站上主持台，1980 年代以《豬哥亮歌廳秀》錄影帶紅遍全台。1993 年因賭債跑路、沉潛十年，2009 年以「出國深造」一句台詞復出，隔年拿下金鐘獎綜藝節目主持人獎，晚年每逢春節推出賀歲片。",
     "category": "People",
     "tags": [
       "豬哥亮",
@@ -30655,10 +30638,27 @@
       "台語"
     ],
     "url": "https://taiwan.md/people/%E8%B1%AC%E5%93%A5%E4%BA%AE",
-    "readingTime": 12,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/豬哥亮.md"
+  },
+  {
+    "title": "豬哥亮（チュ・コリャン）",
+    "description": "豬哥亮（1946–2017、本名：謝新達）は高雄左営に生まれ、14歳で家を出て新劇団に入り、31歳で藍寶石大歌廳の司会者となり、1980年代に『豬哥亮歌廳秀』のビデオテープで台湾全土に知られるようになりました。1993年に賭け事の借金で姿をくらまし、10年間沈黙した後、2009年に「出國深造（留学していた）」という一言で復帰し、翌年金鐘奨綜藝節目主持人獎を受賞、晩年は毎年春節に賀歳映画を公開しました。",
+    "category": "ja",
+    "tags": [
+      "豬哥亮",
+      "歌廳ショー",
+      "喜劇",
+      "綜藝",
+      "台湾語"
+    ],
+    "url": "https://taiwan.md/ja/people/zhuge-liang-showman",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/People/zhuge-liang-showman.md"
   },
   {
     "title": "輪轉全球的高端心臟：台灣自行車產業從代工王國到創新樞紐的轉型史",
@@ -35427,12 +35427,12 @@
     "path": "en/Society/air-raid-shelters-taiwan.md"
   },
   {
-    "title": "AIハードウェアサプライチェーン：台湾がクラウドをマシンに変える場所",
-    "description": "生成AIはクラウドサービスのように見えますが、実際には一連の物理的な道筋を必要とします：ある人はチップを設計し、ある人はウェーハを製造し、ある人はパッケージングを行い、さらにメモリ、電力、冷却、マザーボード、サーバーラックを処理する人々がいます。台湾の重要性はTSMC（台湾積体電路製造）の存在だけでなく、この道筋にある多くの重要な関門がここに集中していることにあります。この共通の利益は実在するものであり、水力・電力、炭素排出、所得分配、海外工場建設、地政学的リスクを伴いつつ、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えているのです。",
+    "title": "AIハードウェア・サプライチェーン：台湾がクラウドを「実体のある機械」に変える場所",
+    "description": "生成AIはクラウドサービスのように見えますが、実際には物理的な経路を必要とします。チップ設計、ウェハー製造、封止、メモリ、電力、冷却、マザーボード、ラックに至るまで。台湾の重要性はTSMCだけでなく、この経路の重要な関門が集結している点にあります。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/technology/ai-hardware-supply-chain",
-    "readingTime": 55,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-07-11",
     "path": "ja/Technology/ai-hardware-supply-chain.md"
@@ -39895,58 +39895,69 @@
   },
   {
     "title": "Brigitte Lin",
-    "description": "Born in a Taipei military dependents' village in 1954, she was discovered by director Sung Chun-shou in Ximending in 1972 to star in *Window* (based on a Qiong Yao novel). She became the goddess of the Qiong Yao film era with her pure image, forming classic screen pairings with Qin Han and Chin Siang-lin that captivated the Chinese-speaking world. In 1992, she redefined wuxia cinema with her subversive portrayal of Dongfang Bubai, spanning two distinct eras of film.",
+    "description": "Geboren 1954 und in einem Militärdorf aufgewachsen, wurde sie 1972 in Ximending vom Talent scout Yang Qi entdeckt. Nach einem Casting erhielt sie die Hauptrolle im Film „Fenster hinaus“, basierend auf dem Original von Chiung Yao. Mit ihrem unschuldigen Aussehen wurde sie zur Göttin der Ära der Chiung-Yao-Filme und bildete zusammen mit Qin Han und Qin Xianglin klassische Leinwandpaare, die die gesamte chinesischsprachige Welt eroberten; ihre Frisuren und Outfits wurden zu Modeikonen. 1992 schrieb sie mit ihrer Rolle als die in rotes Gewand gehüllte Dongfang Bubai ein Klassiker des Wuxia-Genres und überbrückte damit zwei Ären: die der Arthouse-Filme und die des Martial-Arts-Kinos.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/brigitte-lin-legendary-actress",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/brigitte-lin-legendary-actress.md"
+  },
+  {
+    "title": "Brigitte Lin",
+    "description": "Born in 1954 and raised in a military dependents' village, she was discovered by talent scout Yang Chi in Ximending in 1972; after being cast in the adaptation of Qiong Yao's *Window*, she became the goddess of the Qiong Yao film era with her pure image, forming classic on-screen pairings with Qin Han and Qin Xianglin that captivated the Chinese-speaking world. In 1992, she redefined martial arts cinema with her subversive portrayal of Dongfang Bubai, spanning two distinct eras of film.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/brigitte-lin-legendary-actress",
-    "readingTime": 46,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/brigitte-lin-legendary-actress.md"
   },
   {
     "title": "Brigitte Lin",
-    "description": "Née en 1954 dans un village militaire de Taipei, elle fut la muse de l'ère des films de Qiong Yao grâce à sa pureté, avant de devenir une légende du cinéma de *wuxia* avec son rôle iconique d'Orient Invincible.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/brigitte-lin-legendary-actress",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/brigitte-lin-legendary-actress.md"
-  },
-  {
-    "title": "Brigitte Lin",
-    "description": "Lahir pada 1954 di kampung veteran Taipei, ia ditemukan oleh sutradara Song Cunshou di Ximending pada 1972 untuk membintangi 'Di Luar Jendela' karya asli Qiong Yao, menjadi dewi era film Qiong Yao dengan penampilannya yang murni, membentuk pasangan layar klasik yang melanda dunia berbahasa China bersama Qin Han dan Qin Xianglin; gaya rambut dan pakaiannya menjadi ikon mode. Pada 1992, ia kembali menulis klasik layar film bela diri dengan peran Dongfang Bubai yang menari dalam merah, melintasi era seni sastra dan bela diri.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/brigitte-lin-legendary-actress",
-    "readingTime": 43,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "id/People/brigitte-lin-legendary-actress.md"
-  },
-  {
-    "title": "Brigitte Lin (Lin Ching-hsia)",
-    "description": "Nacida en 1954 en un complejo de viviendas militares de Taipéi, fue descubierta por el director Sung Tsun-shou en Ximending en 1972 para protagonizar \"Window\" (Chuāngwài), convirtiéndose en la musa de la era cinematográfica de Qiong Yao gracias a su imagen pura. Formó parejas icónicas en pantalla con Chin Han y Chin Hsiang-lin, marcando tendencia en moda y peinados; en 1992, redefinió el género de artes marciales con su legendaria interpretación de Dongfang Bubai.",
+    "description": "Nacida en 1954 y criada en un pueblo de militares, fue descubierta por el cazatalentos Yang Qi en Ximending en 1972. Tras una audición, fue seleccionada para protagonizar la adaptación de la obra de Chiung Yao, \"Fuera de la ventana\", convirtiéndose en la diosa de la era cinematográfica de Chiung Yao gracias a su apariencia pura. Junto a Qin Han y Qin Xianglin, formó parejas icónicas que cautivaron al mundo de habla china, influyendo en la moda con sus peinados y vestuario. En 1992, escribió un clásico del cine de artes marciales con su papel de la Danza Oriental (Dongfang Bubai) con su vestido rojo ondeante, abarcando dos eras: la del cine artístico y la del género wuxia.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/brigitte-lin-legendary-actress",
-    "readingTime": 47,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/brigitte-lin-legendary-actress.md"
   },
   {
-    "title": "Brigitte Lin: Von der Filmgöttin der Qiongyao-Ära zur Wuxia-Legende",
-    "description": "Die 1954 in einem Taipeher Militärdorf Geborene wurde 1972 im Ximending vom Regisseur Sung Tsun-shou für die Hauptrolle in Qiongyaos «Fenster nach draussen» entdeckt und wurde mit ihrem reinen Image zur Göttin der Qiongyao-Filme; an der Seite von Chin Han und Chin Hsiang-lin bildete sie das klassische Leinwandpaar, das die gesamte chinesischsprachige Welt begeisterte, wobei Frisur und Kleidung zu Modeikonen wurden; 1992 schuf sie mit der in Rot tanzenden Figur der Dongfang Bubai einen Wuxia-Klassiker, der die literarische und die Kampfkunst-Ära überspannte.",
-    "category": "de",
+    "title": "Brigitte Lin",
+    "description": "Lahir pada tahun 1954 dan tumbuh di desa militer, ia ditemukan oleh pencari bakat Yang Qi di Ximending pada tahun 1972. Setelah melalui audisi melalui perkenalan tersebut, ia terpilih sebagai pemeran utama dalam film adaptasi karya Qiong Yao, \"Chuāng Wài\" (Di Luar Jendela). Dengan parasnya yang murni, ia menjadi dewi di era film-film Qiong Yao dan membentuk pasangan layar lebar klasik bersama Qin Han dan Qin Xianglin yang sangat populer di seluruh dunia berbahasa Mandarin; gaya rambut dan pakaiannya pun menjadi ikon mode. Pada tahun 1992, ia mengukir sejarah klasik dalam genre wuxia melalui peran Dongfang Bubai yang mengenakan gaun merah terbang, melintasi dua era seni sastra dan bela diri.",
+    "category": "id",
     "tags": [],
-    "url": "https://taiwan.md/de/people/brigitte-lin-legendary-actress",
-    "readingTime": 49,
+    "url": "https://taiwan.md/id/people/brigitte-lin-legendary-actress",
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-19",
-    "path": "de/People/brigitte-lin-legendary-actress.md"
+    "path": "id/People/brigitte-lin-legendary-actress.md"
+  },
+  {
+    "title": "Brigitte Lin",
+    "description": "Nascida em 1954 e criada em uma vila de militares, ela foi descoberta pelo caça-talentos Yang Qi em Ximending, em 1972. Após passar por um teste, foi selecionada para protagonizar \"Fora da Janela\", baseado na obra de Qiong Yao. Com sua aparência pura, tornou-se a deusa da era dos filmes de Qiong Yao, formando com Qin Han e Qin Xianglin casais icônicos que encantaram todo o mundo de língua chinesa, tornando seus penteados e figurinos referências de moda. Em 1992, escreveu um clássico do cinema de artes marciais ao interpretar a personagem Dongfang Bubai, com suas vestes vermelhas esvoaçantes, abrangendo as eras do cinema artístico e do wuxia.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/brigitte-lin-legendary-actress",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "pt/People/brigitte-lin-legendary-actress.md"
+  },
+  {
+    "title": "Brigitte Lin (Lin Ching-hsia)",
+    "description": "Née en 1954 et ayant grandi dans un village de militaires, elle fut découverte par le chasseur de têtes Yang Qi à Ximending en 1972. Choisie pour le rôle principal de *Fenêtre sur l'extérieur* adapté de l'œuvre de Qiong Yao, elle devint la déesse de l'ère des films de Qiong Yao grâce à sa pureté. Elle forma avec Qin Han et Qin Xianglin un couple d'écran légendaire qui passionna le monde chinois, ses coiffures et ses vêtements devenant des références de mode. En 1992, elle marqua l'histoire du cinéma de *wuxia* avec son rôle iconique de Dongfang Bubai vêtue de rouge, traversant ainsi deux époques : celle du film d'auteur et celle du film d'arts martiaux.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/brigitte-lin-legendary-actress",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/brigitte-lin-legendary-actress.md"
   },
   {
     "title": "Brot und Backkunst aus Taiwan",
@@ -45983,12 +45994,12 @@
     "path": "pt/People/chou-tien-chen-badminton.md"
   },
   {
-    "title": "Chou Tien-chen: Taiwan’s Badminton Pioneer and World No. 2 Veteran",
-    "description": "Overcoming a 10-match losing streak, appendicitis, and cancer, Chou Tien-chen reached world No. 2, elevating Taiwanese badminton through unmatched rally discipline.",
+    "title": "Chou Tien-chen: Taiwan's Badminton Ace, Reaching the Heights of World No. 2",
+    "description": "The first Taiwanese men''s singles player to reach world number two and the first to defeat Lin Dan. From a low point of ten consecutive losses after joining the national team and becoming a Christian following an appendicitis perforation, to being diagnosed with early-stage colon cancer at age 34 in 2023—returning to international competition just days after surgery and enduring a year-long slump before reaching the Olympic quarterfinals the following year. Chou Tien-chen does not rely on overwhelming talent, but uses a \"grinding\" style of defensive rallies to steadily raise the ceiling for Taiwanese badminton.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/chou-tien-chen-badminton",
-    "readingTime": 65,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-06-29",
     "path": "en/People/chou-tien-chen-badminton.md"
@@ -46144,6 +46155,23 @@
     "path": "vi/Culture/zhuyin-phonetic-symbols.md"
   },
   {
+    "title": "Chu Ca Lượng: Từ sân khấu ca nhạc đến \"ông hoàng\" phim Tết tiếng Đài",
+    "description": "Chu Ca Lượng (1946–2017, tên thật là Tạ Tân Đạt) sinh ra tại Tả Doanh, Cao Hùng, 14 tuổi rời nhà gia nhập đoàn hát, 31 tuổi đứng trên sân khấu phòng trà Sapphire, những năm 1980 nổi tiếng khắp Đài Loan qua các băng video \"Chu Ca Lượng ca sảnh tú\". Năm 1993 ông bỏ trốn vì nợ cờ bạc và ẩn mình mười năm, đến năm 2009 tái xuất với câu thoại \"đi nước ngoài tu nghiệp\", năm sau giành giải Người dẫn chương trình giải trí tại Giải Kim Chung, những năm cuối đời luôn ra mắt phim Tết mỗi dịp Xuân tiết.",
+    "category": "vi",
+    "tags": [
+      "Chu Ca Lượng",
+      "sân khấu ca nhạc",
+      "hài kịch",
+      "giải trí",
+      "tiếng Đài"
+    ],
+    "url": "https://taiwan.md/vi/people/zhuge-liang-showman",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/zhuge-liang-showman.md"
+  },
+  {
     "title": "Chu Ching-wu : co-découvreur en 1987 de la supraconductivité à haute température critique Tc = 93 K, franchissant le seuil de l'azote liquide",
     "description": "Né en 1941 au Hunan, physicien taïwanais naturalisé américain. En janvier 1987, avec Wu Maw-kun, il découvre l'oxyde de yttrium, baryum et cuivre (YBCO) à Tc = 93 K, franchissant le seuil de la température de l'azote liquide et ouvrant l'ère de la supraconductivité à haute température. Président de l'Université des sciences et technologies de Hong Kong (HKUST) de 2001 à 2009. En mars 2026, publication dans PNAS d'une nouvelle percée à Tc = 151 K, toujours actif en recherche à 85 ans.",
     "category": "fr",
@@ -46210,6 +46238,23 @@
     "path": "pt/People/chu-yi-kuei-qing-rebel.md"
   },
   {
+    "title": "Chu Ke-liang",
+    "description": "Chu Ke-liang (1946–2017, nombre original Xie Xin-da) nació en Zuoying, Kaohsiung. A los 14 años se unió a una compañía de teatro; a los 31, comenzó su carrera como presentador en el Sapphire Grand Show Hall. En la década de 1980, se hizo famoso en todo Taiwán con sus cintas de video \"Chu Ke-liang Show Hall\". Tras desaparecer diez años por deudas de juego, regresó en 2009 con la excusa de haber \"ido al extranjero a perfeccionarse\", ganando el año siguiente el premio Golden Bell como mejor presentador de programas de variedades.",
+    "category": "es",
+    "tags": [
+      "Chu Ke-liang",
+      "espectáculos",
+      "comedia",
+      "variedades",
+      "taiwanés"
+    ],
+    "url": "https://taiwan.md/es/people/zhuge-liang-showman",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/zhuge-liang-showman.md"
+  },
+  {
     "title": "Chu Kiệt Luân",
     "description": "Chàng trai nhút nhát ngồi chơi piano trên sân khấu chương trình tuyển chọn, album đầu tay đã viết lại lịch sử nhạc pop tiếng Hoa; anh dùng phong cách sáng tác độc đáo khiến làng nhạc tin rằng sáng tác có thể bán được tiền, qua nhiều album chứng minh nhạc tiếng Hoa có thể giữ đặc sắc phương Đông đồng thời chinh phục sân khấu thế giới, từ một trợ lý sản xuất trẻ tuổi liên tục bị từ chối bài demo, nay đã trở thành một nhà cách mạng âm nhạc thực sự lật đổ làng nhạc.",
     "category": "vi",
@@ -46222,31 +46267,54 @@
   },
   {
     "title": "Chu Ko-liang",
-    "description": "Su nombre real era Hsieh Hsin-ta, nació en 1946 en Zuoying, Kaohsiung. Su padre era herrero y su madre vendía verduras. Tras terminar la escuela primaria, abandonó los estudios y a los 15 años se convirtió en aprendiz de ópera taiwanesa. En la década de 1960 comenzó su carrera imitando a cantantes en mercados nocturnos. En la década de 1970, con el despegue económico de Taiwán y el aumento de la demanda de entretenimiento nocturno, surgió la cultura de los shows. Él fusionó la ópera tradicional, el canto narrativo popular y elementos modernos creando el «humor estilo Chu», llevando el lenguaje llano del pueblo a la televisión de variedades mediante rimas improvisadas en taiwanés. Falleció en mayo de 2017 a causa de un cáncer de colon.",
-    "category": "es",
+    "description": "Chu Ko-liang (1946–2017, birth name Hsieh Hsin-ta) was born in Kaohsiung''s Zuoying District, left home at 14 to join a theater troupe, took the hosting stage at the Blue Diamond Grand Cabaret at 31, and became a household name across Taiwan in the 1980s with his \"Chu Ko-liang Cabaret Show\" videotapes.",
+    "category": "en",
     "tags": [
       "Chu Ko-liang",
-      "shows",
-      "comedia",
-      "variedades",
-      "taiwanés"
+      "cabaret",
+      "comedy",
+      "variety show",
+      "Taiwanese"
     ],
-    "url": "https://taiwan.md/es/people/zhuge-liang-showman",
-    "readingTime": 49,
+    "url": "https://taiwan.md/en/people/zhuge-liang-showman",
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-19",
-    "path": "es/People/zhuge-liang-showman.md"
+    "path": "en/People/zhuge-liang-showman.md"
   },
   {
     "title": "Chu Ko-liang",
-    "description": "Seu nome verdadeiro era Hsieh Hsin-ta, nascido em 1946 em Zuoying, Kaohsiung; seu pai era ferreiro e sua mãe vendia verduras. Após concluir o ensino primário, abandonou os estudos e, aos 15 anos, tornou-se aprendiz de ópera taiwanesa. Na década de 1960, começou a carreira imitando cantores em mercados noturnos. Na década de 1970, com a decolagem econômica de Taiwan e o aumento da demanda por entretenimento noturno, surgiu a cultura dos shows de variedades; ele fundiu ópera tradicional, rap popular e elementos contemporâneos no seu \"humor à la Chu\", usando o taiwanês para rimar improvisadamente e levar a linguagem do povo à televisão de variedades. Em maio de 2017, faleceu vítima de câncer colorretal.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/zhuge-liang-showman",
+    "description": "Chu Ko-liang (1946–2017, né Hsieh Hsin-ta), né à Zuoying, Kaohsiung, a quitté la maison à 14 ans pour rejoindre la New Drama Troupe, est monté sur scène comme animateur au Blue Sapphire Grand Cabaret à 31 ans, et est devenu célèbre dans tout Taïwan dans les années 1980 grâce aux cassettes vidéo du « Chu Ko-liang Cabaret Show ». En 1993, il a fui ses dettes de jeu et s'est éclipsé pendant dix ans ; en 2009, il a fait son retour avec la réplique « partir étudier à l'étranger », a remporté l'année suivante le Golden Bell Award du meilleur animateur d'émission de variétés, et a sorti un film pour le Nouvel An lunaire chaque année durant ses dernières années.",
+    "category": "fr",
+    "tags": [
+      "Chu Ko-liang",
+      "cabaret",
+      "comédie",
+      "variétés",
+      "taïwanais"
+    ],
+    "url": "https://taiwan.md/fr/people/zhuge-liang-showman",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/zhuge-liang-showman.md"
+  },
+  {
+    "title": "Chu Ko-liang",
+    "description": "Chu Ko-liang (1946–2017, nama asli Hsieh Hsin-ta) lahir di Zuoying, Kaohsiung. Pada usia 14 tahun ia meninggalkan rumah untuk bergabung dengan New Drama Troupe, dan pada usia 31 tahun ia debut sebagai presenter di Blue Sapphire Grand Dance Hall. Pada 1980-an, ia menjadi terkenal di seluruh Taiwan lewat kaset video 'Chu Ko-liang Cabaret Show'. Tahun 1993 ia melarikan diri karena hutang judi dan menghilang selama sepuluh tahun; 2009 ia kembali lewat replik 'pergi ke luar negeri untuk belajar', dan tahun berikutnya memenangkan Golden Bell Award untuk Pembawa Acara Variety Show Terbaik. Di akhir hayat, ia setiap tahun merilis film Imlek.",
+    "category": "id",
+    "tags": [
+      "Chu Ko-liang",
+      "kabaret",
+      "komedi",
+      "variety show",
+      "Bahasa Taiwan"
+    ],
+    "url": "https://taiwan.md/id/people/zhuge-liang-showman",
     "readingTime": 45,
     "featured": false,
     "date": "2026-03-19",
-    "path": "pt/People/zhuge-liang-showman.md"
+    "path": "id/People/zhuge-liang-showman.md"
   },
   {
     "title": "Chú râu: Cặp vợ dưới ngôi làng Long Đu, người đã xếp sếp sáu mươi năm rêu tre vào một chiếc mũ",
@@ -51063,7 +51131,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/technology/taiwan-bicycle-industry",
-    "readingTime": 57,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-08-12",
     "path": "de/Technology/taiwan-bicycle-industry.md"
@@ -55043,7 +55111,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/culture/bamboo-hat-craft",
-    "readingTime": 126,
+    "readingTime": 127,
     "featured": false,
     "date": "2026-05-04",
     "path": "id/Culture/bamboo-hat-craft.md"
@@ -58134,7 +58202,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/economy/tsmc",
-    "readingTime": 141,
+    "readingTime": 142,
     "featured": true,
     "date": "2026-05-09",
     "path": "es/Economy/tsmc.md"
@@ -58574,7 +58642,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/economy/tsmc",
-    "readingTime": 136,
+    "readingTime": 138,
     "featured": true,
     "date": "2026-05-09",
     "path": "fr/Economy/tsmc.md"
@@ -61010,7 +61078,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/history/animal-protection-in-taiwan",
-    "readingTime": 34,
+    "readingTime": 37,
     "featured": false,
     "date": "2026-07-28",
     "path": "en/History/animal-protection-in-taiwan.md"
@@ -62899,6 +62967,17 @@
     "path": "es/Society/taiwan-tv-content-rating-system.md"
   },
   {
+    "title": "Guei Lun-mei",
+    "description": "Née en 1983, diplômée en études françaises de l'Université Tamkang, elle débute en 2002 avec *Blue Gate Crossing*. Elle se fait connaître du grand public en 2007 avec *Secret*, remporte l'actrice du meilleur film aux Golden Horse Awards et au Asia Pacific Film Festival en 2012 pour *Girlfriend Boyfriend*, et s'illustre dans les festivals internationaux avec des films tels que *Black Coal, Thin Ice*. Elle est une actrice emblématique du cinéma d'auteur à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/gwei-lun-mei-versatile-taiwanese-actress",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/gwei-lun-mei-versatile-taiwanese-actress.md"
+  },
+  {
     "title": "Gueishan Island: The Direction of Home That Yilan People See Every Day, and the Home Island Residents Cannot Return To",
     "description": "Grandmother Huang Chen-yu moved from Gueishan Island to Toucheng more than thirty years ago, yet every night she still dreams of life on the island. For Yilan people on shore, Gueishan Island is the foremost of the Eight Views of Lanyang and the landmark at the Snow Mountain Tunnel exit that says, \"almost home.\" For the Gueishan Islanders who actually lived there, it is an ancestral home exchanged in the 1970s through a relocation without compensation. Visible but unreachable; reachable but unlivable. In 1975, writer Wu Min-hsien called it \"an island soon to be forgotten.\" Half a century later, it has not been forgotten; what is remembered is the scenery and legend, while those who lived there have been forgotten.",
     "category": "en",
@@ -63113,44 +63192,55 @@
   },
   {
     "title": "Gwei Lun-mei",
-    "description": "Die 1983 in einem Militärdorf in Taipeh geborene Schauspielerin wurde 2002 von einem Co-Regisseur entdeckt und debütierte als Meng Ke-rou in „Blue Gate Crossing“. Mit ihrem natürlichen und reinen Spiel hat sie ihren Weg als eine der profiliertesten Charakterdarstellerinnen des taiwanesischen Arthouse-Kinos eingeschlagen.",
+    "description": "Geboren 1983, Absolventin der Romanistik an der Tamkang Universität; ihr Debüt gab sie 2002 mit „Blue Gate Crossing“. Durch „Secret“ (2007) erlangte sie Bekanntheit und gewann 2012 für „Girlfriend, Boyfriend“ den Golden Horse Award sowie den Asia Pacific Film Awards als beste Hauptdarstellerin.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 51,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-19",
     "path": "de/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "Gwei Lun-mei",
-    "description": "Born in a Taipei military dependents' village in 1983, she debuted as Meng Ke-rou in *Blue Gate Crossing* after being discovered by an assistant director on campus. From *Secret* to becoming a regular at international film festivals, her natural and pure performances have made her one of Taiwan's most iconic arthouse actresses.",
+    "description": "Born in 1983, a graduate of Tamkang University's Department of French, she debuted in 2002 with *Blue Gate Crossing*; gained widespread fame in 2007 with *Secret*, and won Best Actress at both the Golden Horse Awards and the Asia Pacific Film Festival in 2012 for *Girlfriend, Boyfriend*, later gaining international recognition through films like *Black Coal, Thin Ice*.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 46,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "Gwei Lun-mei",
-    "description": "Lahir di desa militer Taipei pada tahun 1983, ia memulai karier aktingnya melalui peran Meng Ke-rou dalam \"Blue Gate Crossing\" setelah ditemukan oleh asisten sutradara Yi Chih-yen di kampus pada tahun 2002. Dari \"Secret\" hingga menjadi langganan festival film internasional, meskipun tampil rendah hati, ia tetap menjadi salah satu aktris film seni paling representatif di industri film Taiwan berkat kemampuan akting yang solid dan aura artistiknya.",
+    "description": "Nacida en 1983 y graduada en Filología Francesa por la Universidad Tamkang, debutó en 2002 con \"Blue Gate Crossing\". En 2007, \"Secret\" la dio a conocer al gran público. En 2012, ganó el premio a la Mejor Actriz en los Golden Horse Awards y en el Asia Pacific Film Festival por \"Girlfriend, Boyfriend\", y consolidó su presencia en festivales internacionales con filmes como \"Black Coal, Thin Ice\". Es una actriz representativa del cine de autor en Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/gwei-lun-mei-versatile-taiwanese-actress",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/gwei-lun-mei-versatile-taiwanese-actress.md"
+  },
+  {
+    "title": "Gwei Lun-mei",
+    "description": "Lahir tahun 1983, lulusan Departemen Sastra Prancis Universitas Tamkang; memulai debut melalui \"Blue Gate Crossing\" karya Yi Chih-yen pada 2002; dikenal luas lewat \"Secret\" pada 2007; memenangkan Penghargaan Aktris Terbaik Golden Horse dan Asia Pacific Film Festival melalui \"Girlfriend, Boyfriend\" pada 2012, serta merambah festival film internasional melalui film seperti \"Black Coal, Thin Ice\".",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 48,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-19",
     "path": "id/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "Gwei Lun-mei",
-    "description": "Nascida em 1983 em uma vila militar de Taipé, ela estreou como Meng Ke-rou em \"Blue Gate Crossing\" após ser descoberta pelo assistente de direção de Yi Chih-yen. De \"Secret\" aos festivais internacionais, sua atuação natural e autêntica a tornou uma das atrizes mais emblemáticas do cinema de arte em Taiwan.",
+    "description": "Nascida em 1983, graduada em Letras Francesas pela Universidade Tamkang, estreou em 2002 com \"Blue Gate Crossing\"; tornou-se amplamente conhecida em 2007 com \"Secret\" e, em 2012, venceu o prêmio de Melhor Atriz no Golden Horse Awards e no Asia Pacific Film Festival por \"Girlfriend, Boyfriend\", consolidando-se como uma atriz de filmes de arte representativa de Taiwan.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 48,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -73465,17 +73555,6 @@
     "path": "id/Food/daxi-dried-tofu.md"
   },
   {
-    "title": "Kuei Lun-mei",
-    "description": "Née en 1983 dans un village de militaires à Taipei, elle est repérée en 2002 sur son campus par l'assistant-réalisateur de Yee Chih-yen et fait ses débuts dans le rôle de Meng Kerou dans *Blue Gate Crossing*, ouvrant sa carrière d'actrice par une interprétation d'une naturel et d'une pureté remarquables ; de *Secret* aux festivals internationaux où elle est devenue une habituée, elle s'est imposée, malgré sa discrétion, comme l'une des actrices les plus représentatives du cinéma d'auteur taïwanais grâce à son jeu solide et sa sensibilité littéraire.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/gwei-lun-mei-versatile-taiwanese-actress.md"
-  },
-  {
     "title": "Kuliner Masyarakat Adat Taiwan",
     "description": "Dari api AKAME hingga alam semesta sayuran Amis — bagaimana kuliner masyarakat adat Taiwan menyalakan kembali perhatian dunia setelah tiga ribu tahun",
     "category": "id",
@@ -73779,17 +73858,6 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "id/Art/taiwanese-curators-and-artistic-cultural-construction.md"
-  },
-  {
-    "title": "Kwai Lun-mei (桂綸鎂)",
-    "description": "Nacida en 1983 en un pueblo militar de Taipéi, fue descubierta en 2002 en el campus por el asistente del director Doze Niu, debutando como Meng Kerou en \"Blue Gate Crossing\" con una actuación de una naturalidad pura; desde \"Secret\" hasta convertirse en habitual de festivales internacionales, incluso manteniendo un perfil bajo, se ha consolidado como una de las actrices más representativas del cine de autor taiwanés gracias a su sólida interpretación y aura literaria.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "Kỳ tích huy động máu tại Đài Loan: Tỷ lệ huy động máu cao nhất thế giới và mạng lưới hỗ trợ lẫn nhau của công dân",
@@ -77482,8 +77550,8 @@
     "path": "vi/People/ruby-lin.md"
   },
   {
-    "title": "Lâm Thanh Hà",
-    "description": "Sinh năm 1954 tại một khu quân đội (quyển thôn) ở Đài Bắc, năm 1972 bà được đạo diễn Tống Tồn Thọ phát hiện tại Tây Môn Đinh để đóng chính tác phẩm \"Ngoài cửa sổ\" dựa trên nguyên tác của Quỳnh Dao. Với vẻ đẹp thuần khiết, bà đã trở thành nữ thần của kỷ nguyên điện ảnh Quỳnh Dao, cùng với Tần Hán và Tần Tường Lâm tạo nên những cặp đôi màn ảnh kinh điển làm mưa làm gió khắp thế giới Hoa ngữ; phong cách tóc và trang phục của bà cũng trở thành biểu tượng thời trang. Năm 1992, bà tiếp tục viết nên một huyền thoại võ hiệp trên màn ảnh với vai Đông Phương Bất Bại trong tà áo đỏ bay bổng, trải dài qua hai kỷ nguyên: văn nghệ và võ hiệp.",
+    "title": "Lâm Thanh Hạ",
+    "description": "Sinh năm 1954, lớn lên tại khu định cư quân nhân, bà được sao kê Dương Kỳ phát hiện tại Ximending năm 1972. Sau khi được giới thiệu thử vai, bà được chọn đóng vai chính trong tác phẩm 'Ngoài cửa sổ' theo nguyên tác của Cương Dao, trở thành 'nữ thần' thời đại điện ảnh Cương Dao nhờ vẻ ngoài thanh khiết. Bà cùng Tần Hán và Tần Tường Lâm hình thành cặp đôi màn ảnh kinh điển cuốn hút toàn thế giới người Hoa; kiểu tóc và trang phục của bà trở thành tiêu chuẩn thời trang. Năm 1992, bà lại một lần nữa ghi dấu ấn kinh điển trên màn ảnh võ hiệp với vai Đông Phương Bất Bại trong trang phục đỏ bay lượn, kéo dài qua hai thời đại văn nghệ và võ hiệp.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/brigitte-lin-legendary-actress",
@@ -82153,17 +82221,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/lin-bai-li.md"
-  },
-  {
-    "title": "Lin Ch'ing-hsia (Brigitte Lin)",
-    "description": "Nascida em 1954 numa aldeia militar de Taipé, foi descoberta em 1972 no distrito de Ximending pelo realizador Sung Tsun-shou para protagonizar \"Outside the Window\", baseado no romance de Chiung Yao. Com a sua imagem pura, tornou-se a musa da era dos filmes de Chiung Yao, formando com Chin Han e Chin Hsiang-lin o clássico casal de ecrã que conquistou todo o mundo sinófono; o seu penteado e vestuário tornaram-se referências de moda. Em 1992, criou novo clássico do cinema de artes marciais com a sua interpretação de Invincible East, dançando em vestes vermelhas, atravessando assim as eras do cinema literário e de artes marciais.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/brigitte-lin-legendary-actress",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "pt/People/brigitte-lin-legendary-actress.md"
   },
   {
     "title": "Lin Chi-er: From Taipei to Low Earth Orbit, the Taiwan-Born Physician Who Played Bagpipes in Space",
@@ -97064,7 +97121,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/about/why-taiwan-needs-its-own-knowledge-base",
-    "readingTime": 159,
+    "readingTime": 160,
     "featured": false,
     "date": "2026-07-17",
     "path": "fr/About/why-taiwan-needs-its-own-knowledge-base.md"
@@ -97361,7 +97418,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/culture/taiwan-prime-time-drama",
-    "readingTime": 40,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-07-25",
     "path": "fr/Culture/taiwan-prime-time-drama.md"
@@ -97904,26 +97961,15 @@
     "path": "es/Society/taiwan-tug-of-war.md"
   },
   {
-    "title": "Puma Shen : il étudiait la guerre cognitive chinoise, puis la Chine l'a placé sur une image satellite",
-    "description": "En 2021, Puma Shen et le spécialiste de stratégie Ho Cheng-hui ont cofondé la Kuma Academy ; Robert Tsao a donné 600 millions de dollars taïwanais pour la soutenir, avec l'objectif de former trois millions de volontaires de défense civile en trois ans. En février 2024, il est entré au Parlement comme député sans circonscription du Parti démocrate progressiste. Le 28 octobre 2025, il est devenu le premier responsable politique élu taïwanais visé par une enquête ouverte par la Chine pour « crime de sécession » ; CCTV a accompagné l'affaire d'un reportage spécial de « dévoilement » avertissant : « le prochain, ce sera vous ». Le jour du Nouvel An 2026, un compte Weibo chinois a utilisé un satellite commercial pour publier les coordonnées de son domicile et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion à destination de la France. Le 13 mai, le Parti démocrate progressiste l'a officiellement investi comme candidat à la mairie de Taipei : la ville qu'il brigue est précisément celle dont les coordonnées avaient été marquées sur une image satellite.",
-    "category": "fr",
+    "title": "Puma Shen: Dia Meneliti Perang Kognitif Tiongkok, Lalu Tiongkok Menandainya di Citra Satelit",
+    "description": "Pada 2021 Puma Shen bersama pakar strategi Ho Cheng-hui mendirikan Kuma Academy; Robert Tsao menyumbang NT$600 juta dengan target melatih tiga juta pembela sipil dalam tiga tahun. Pada Februari 2024 ia masuk parlemen sebagai anggota Yuan Legislatif dari daftar partai Partai Progresif Demokratik (DPP). Pada 28 Oktober 2025 ia menjadi politikus terpilih Taiwan pertama yang diselidiki Tiongkok atas dakwaan \"memecah belah negara\", dan CCTV menayangkan liputan \"pembongkaran identitas\" dengan peringatan \"berikutnya adalah kamu\". Pada 1 Januari 2026 sebuah akun Weibo Tiongkok memublikasikan koordinat rumah dan tempat kerjanya di Taipei lewat satelit komersial; pada Hari Valentine ia berada di pesawat menuju Prancis. Pada 13 Mei DPP resmi menugaskannya maju sebagai calon wali kota Taipei, kota yang koordinatnya ditandai di citra satelit itu.",
+    "category": "id",
     "tags": [],
-    "url": "https://taiwan.md/fr/people/puma-shen",
-    "readingTime": 252,
+    "url": "https://taiwan.md/id/people/puma-shen",
+    "readingTime": 230,
     "featured": false,
     "date": "2026-04-28",
-    "path": "fr/People/puma-shen.md"
-  },
-  {
-    "title": "Puma Shen: Ele pesquisou guerra cognitiva chinesa até que a China o desenhou em um mapa de satélite",
-    "description": "Em 2021, Puma Shen e o estrategista Ho Cheng-hui cofundaram a Academia Kuma; Tsao Hsing-cheng doou 600 milhões de yuans para apoiar com objetivo de treinar 3 milhões de «guerreiros Kuma» em três anos. Em fevereiro de 2024, tornou-se deputado não-filiado pelo Partido Democrático Progressista. Em 28 de outubro de 2025, tornou-se a primeira pessoa eleita por voto em Taiwan investigada pela China sob a acusação de «separatismo»; a CCTV emitiu um aviso «você será o próximo». Em 1º de janeiro de 2026, contas de Weibo chinesas publicaram imagens de satélite comerciais localizando sua casa e escritório em Taipé; ele passou o Dia dos Namorados em um avião para a França. Em 13 de maio, o Partido Democrático Progressista o convocou formalmente para concorrer à prefeitura de Taipé, exatamente na cidade marcada pelas coordenadas de satélite.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/puma-shen",
-    "readingTime": 227,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "pt/People/puma-shen.md"
+    "path": "id/People/puma-shen.md"
   },
   {
     "title": "Puma Shen: Er erforschte Chinas kognitiven Krieg. Dann markierte China ihn auf einer Satellitenkarte",
@@ -97935,28 +97981,6 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "de/People/puma-shen.md"
-  },
-  {
-    "title": "Puma Shen: estudió la guerra cognitiva de China, y luego China lo dibujó en un mapa satelital",
-    "description": "En 2021, Puma Shen cofundó la Academia Kuma junto con el estratega Ho Cheng-hui; Robert Tsao donó 600 millones para apoyarla, con la meta de capacitar en tres años a tres millones de voluntarios de defensa civil. En febrero de 2024 ingresó al Yuan Legislativo como legislador por representación proporcional del Partido Democrático Progresista. El 28 de octubre de 2025 se convirtió en el primer político taiwanés elegido democráticamente investigado por China por el delito de “secesión”; CCTV acompañó el caso con un especial de “exposición” que advertía: “el próximo eres tú”. El día de Año Nuevo de 2026, una cuenta china de Weibo publicó, usando imágenes satelitales comerciales, las coordenadas de su domicilio y de su lugar de trabajo en Taipéi; pasó el Día de San Valentín en un avión rumbo a Francia. El 13 de mayo, el Partido Democrático Progresista lo reclutó formalmente para postularse a la alcaldía de Taipéi: la ciudad por la que competiría era precisamente aquella cuyas coordenadas habían sido marcadas en el mapa satelital.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/puma-shen",
-    "readingTime": 238,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "es/People/puma-shen.md"
-  },
-  {
-    "title": "Puma Shen: He Studied China’s Cognitive Warfare. Then China Marked Him on a Satellite Map",
-    "description": "In 2021, Puma Shen and strategic studies scholar Ho Cheng-hui co-founded Kuma Academy. Robert Tsao donated NT$600 million in support, with the goal of training three million civil defense volunteers in three years. In February 2024, Shen entered the legislature as a Democratic Progressive Party legislator-at-large. On October 28, 2025, he became the first elected Taiwanese politician placed under investigation by China for “splitting the state,” while CCTV paired the case with an “exposé” warning: “You could be next.” On New Year’s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; on Valentine’s Day, he was on a plane to France. On May 13, the DPP formally drafted him to run for mayor of Taipei, the very city whose coordinates had been marked on a satellite map.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/puma-shen",
-    "readingTime": 215,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "en/People/puma-shen.md"
   },
   {
     "title": "Puncak Pegunungan dan Lautan Pulau: Ekosistem dan Landskap Taman Nasional Taiwan",
@@ -98393,12 +98417,12 @@
     "path": "pt/Geography/44-south-village.md"
   },
   {
-    "title": "Quế Luân Mỹ (Guei Lun-mei)",
-    "description": "Sinh năm 1983 tại một khu quân đội ở Đài Bắc, cô được phó đạo diễn của Dịch Trí Ngôn phát hiện khi còn đang đi học vào năm 2002. Với vai diễn Mạnh Khắc Nhu trong \"Door Slam\" (Lam sắc đại môn), cô đã bắt đầu con đường diễn xuất bằng lối diễn tự nhiên và thuần khiết nhất; từ \"Secret\" (Bất năng thuyết đích bí mật) cho đến việc trở thành gương mặt quen thuộc tại các liên hoan phim quốc tế, dù luôn giữ lối sống kín tiếng, cô vẫn là một trong những nữ diễn viên dòng phim nghệ thuật tiêu biểu nhất của điện ảnh Đài Loan nhờ kỹ năng diễn xuất vững vàng và khí chất văn chương.",
+    "title": "Quế Luân Mễ",
+    "description": "Sinh năm 1983, tốt nghiệp hệ Pháp văn Đại học Tam Giang; năm 2002 ra mắt với phim \"Cánh Cửa Xanh\" của Đỗ Trí Ngôn; năm 2007 được công chúng biết đến rộng rãi nhờ \"Bí Mật Không Thể Nói\", năm 2012 giành giải Nữ diễn viên chính xuất sắc nhất tại Giải Mã Ngựa Vàng và Liên hoan phim Châu Á - Thái Bình Dương với \"Nữ Bạn - Nam Bạn\", và bước vào các liên hoan phim quốc tế nhờ các tác phẩm như \"Pháo Hoa Ban Ngày\", là nữ diễn viên đại diện cho dòng phim nghệ thuật của làng điện ảnh Đài Loan.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 49,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-19",
     "path": "vi/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -98910,103 +98934,92 @@
     "path": "ja/People/ray-youtuber.md"
   },
   {
-    "title": "Rayark Games : l'empire musical fondé sur l'esthétique, et ses fissures de quatorze ans",
-    "description": "En 2012, six jeunes issus du Collège d'électrotechnique et d'informatique de l'Université nationale de Taïwan réunissent trente millions de dollars taïwanais pour créer Cytus ; en un mois, le jeu atteint la première place des classements dans 14 pays. Quatorze ans plus tard, ils ont produit l'animation Deemo, laissé l'animation Implosion non livrée depuis onze ans, placé Sdorica en mode maintenance en février 2026, et choisi, après l'affaire du code Morse d'ICE en 2020, de couper les liens avec un employé pour préserver le marché chinois. L'esthétique a rendu Rayark visible dans le monde entier ; elle l'a aussi fait trébucher dans chaque domaine qui n'était pas musical.",
+    "title": "Rayark : un empire musical bâti sur l'esthétique, et ses quatorze ans de failles",
+    "description": "En 2012, six jeunes diplômés de la Faculté d'ingénierie électrique et informatique de l'Université nationale de Taïwan ont réuni NT$30 millions pour créer «Cytus», qui a atteint la première place des classements dans 14 pays en un mois. Quatorze ans plus tard, ils ont produit l'animation Deemo, l'animation Implosion non livrée après onze ans, Sdorica entrant en mode maintenance en février 2026, et le choix de 2020 après l'incident du code Morse ICE de sacrifier des employés pour préserver le marché chinois. L'esthétique a fait connaître Rayark au monde, mais l'a aussi fait trébucher dans chaque domaine non musical.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/technology/rayark-games",
-    "readingTime": 216,
+    "readingTime": 213,
     "featured": false,
     "date": "2026-05-25",
     "path": "fr/Technology/rayark-games.md"
   },
   {
-    "title": "Rayark Games: A Music Empire Built on Aesthetics, and Its Fourteen Years of Cracks",
-    "description": "In 2012, six young people from National Taiwan University's College of Electrical Engineering and Computer Science pooled NT$30 million to make Cytus; within a month, it topped the charts in 14 countries. Fourteen years later, they had a Deemo anime film, an Implosion anime undelivered after eleven years, Sdorica entering maintenance mode in February 2026, and the choice after the 2020 ICE Morse code incident to cut ties with an employee in order to preserve the Chinese market. Aesthetics made Rayark visible to the world, and also made it stumble in every non-musical arena.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/technology/rayark-games",
-    "readingTime": 198,
-    "featured": false,
-    "date": "2026-05-25",
-    "path": "en/Technology/rayark-games.md"
-  },
-  {
-    "title": "Rayark Games: Das Musikimperium, das mit Ästhetik ein Land erschuf, und sein vierzehnjähriger Riss",
-    "description": "Im Jahr 2012 schufen sechs junge Menschen der Taiwan University College of Electronic Information Technology mit dreißig Millionen T$ Cytus, das innerhalb eines Monats an der Spitze in 14 Ländern landete. Vierzehn Jahre später haben sie Deemo Animation, die seit elf Jahren nicht geliefert wurde, Sdorica, die im Februar 2026 in den Wartungsmodus geht, und die Entscheidung nach dem ICE Morsecode-Vorfall von 2020 getroffen, Mitarbeiter zu entlassen, um den chinesischen Markt zu halten. Die Ästhetik ließ Rayark weltweit gesehen werden, aber sie führte auch dazu, dass es in jedem nicht-musikalischen Bereich scheiterte.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/technology/rayark-games",
-    "readingTime": 211,
-    "featured": false,
-    "date": "2026-05-25",
-    "path": "de/Technology/rayark-games.md"
-  },
-  {
-    "title": "Rayark Games: el imperio musical fundado sobre la estética y sus catorce años de fisuras",
-    "description": "En 2012, seis jóvenes de la Facultad de Ingeniería Eléctrica e Informática de la Universidad Nacional de Taiwán reunieron 30 millones para crear Cytus, que en un mes alcanzó el primer lugar en los rankings de 14 países. Catorce años después, tenían una película animada de Deemo, una animación de Implosion sin entregar tras once años, Sdorica entrando en modo mantenimiento en febrero de 2026 y la decisión de cortar lazos con un empleado para conservar el mercado chino tras el incidente del código Morse de ICE en 2020. La estética hizo que el mundo viera a Rayark, y también la hizo tropezar en cada terreno que no era musical.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/technology/rayark-games",
-    "readingTime": 211,
-    "featured": false,
-    "date": "2026-05-25",
-    "path": "es/Technology/rayark-games.md"
-  },
-  {
-    "title": "Rayark Games: Kekaisaran Musik yang Membangun Negara dengan Estetika, dan Retaknya Selama Empat Belas Tahun",
-    "description": "Pada tahun 2012, enam pemuda dari Departemen Elektronik Universitas Nasional Taiwan membuat Cytus dengan modal tiga puluh juta dolar, dan dalam sebulan menduduki peringkat pertama di 14 negara. Setelah empat belas tahun, mereka memiliki Deemo animasi, JuBao animasi yang belum diserahkan selama sebelas tahun, Sdorica memasuki mode pemeliharaan pada Februari 2026, dan pilihan untuk memecat karyawan demi mempertahankan pasar Tiongkok setelah insiden ICE Morse Code pada tahun 2020. Estetika membuat Rayark terlihat di dunia, tetapi juga membuatnya jatuh di setiap ranah non-musik.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/technology/rayark-games",
-    "readingTime": 204,
-    "featured": false,
-    "date": "2026-04-25",
-    "path": "id/Technology/rayark-games.md"
-  },
-  {
-    "title": "Rayark Games: Một đế chế âm nhạc xây dựng bằng thẩm mỹ, và những vết nứt mười bốn năm của nó",
-    "description": "Năm 2012 sáu thanh niên từ Viện Điện tử và Máy tính Đài Loan tài trợ ba mươi triệu đồng tạo ra Cytus, chỉ một tháng đứng đầu bảng xếp hạng ứng dụng ở 14 quốc gia. Mười bốn năm sau họ có bộ phim hoạt hình Deemo, hoạt hình Implosion chưa được giao sau mười một năm, Sdorica vào chế độ bảo trì vào tháng 2 năm 2026, sau sự kiện mật mã Morse ICE năm 2020 họ chọn cắt đứt nhân viên để bảo tồn thị trường Trung Quốc. Thẩm mỹ giúp Rayark được thế giới nhận thấy, nhưng cũng khiến họ gặp bất lợi trong mọi lĩnh vực không phải âm nhạc.",
+    "title": "Rayark Games: Đế chế âm nhạc xây dựng trên nền tảng thẩm mỹ và những rạn nứt sau 14 năm",
+    "description": "Năm 2012, sáu thanh niên từ khoa Điện tử và Công nghệ thông tin Đại học Quốc gia Đài Loan đã góp vốn 30 triệu Đài tệ để thực hiện Cytus, vươn lên vị trí số một trên bảng xếp hạng tại 14 quốc gia chỉ trong vòng một tháng. Mười bốn năm sau, họ có phim hoạt hình Deemo, dự án Polyphonic Sprawl trì trệ suốt 11 năm chưa bàn giao, Sdorica sẽ bước vào chế độ bảo trì vào tháng 2 năm 2026, và quyết định cắt giảm nhân viên sau sự cố mã Morse ICE năm 2020 để bảo vệ thị trường Trung Quốc. Chính thẩm mỹ đã giúp Rayark được thế giới biết đến, nhưng cũng khiến họ vấp ngã trong mọi lĩnh vực không liên quan đến âm nhạc.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/technology/rayark-games",
-    "readingTime": 192,
+    "readingTime": 224,
     "featured": false,
     "date": "2026-05-25",
     "path": "vi/Technology/rayark-games.md"
   },
   {
-    "title": "Rayark Games: O império musical fundado na estética e suas rachaduras de catorze anos",
-    "description": "Em 2012, seis jovens da Faculdade de Engenharia Elétrica e Ciência da Computação da NTU reuniram 30 milhões para criar \"Cytus\", alcançando o primeiro lugar nas paradas de 14 países em um mês. Catorze anos depois, eles têm a animação de Deemo, a animação de Implosion não entregue após onze anos, Sdorica entrando em modo de manutenção em fevereiro de 2026, e a escolha de 2020 de cortar laços com o funcionário após o incidente do código Morse da ICE para preservar o mercado chinês. A estética fez o mundo notar a Rayark, mas também a fez tropeçar em todo domínio não musical.",
+    "title": "Rayark Games: Kekaisaran Musik yang Berdiri di Atas Estetika, dan Keretakan Selama Empat Belas Tahun",
+    "description": "Pada tahun 2012, enam pemuda dari Fakultas Teknik Elektro dan Ilmu Komputer NTU mengumpulkan NT$30 juta untuk membuat \"Cytus\", yang dalam satu bulan berhasil menduduki peringkat pertama di 14 negara. Empat belas tahun kemudian, mereka memiliki animasi Deemo, animasi Project Sekai yang belum diserahkan selama sebelas tahun, Sdorica yang memasuki mode pemeliharaan pada Februari 2026, serta keputusan untuk memangkas karyawan demi mempertahankan pasar Tiongkok setelah insiden kode Morse ICE pada tahun 2020. Estetika membuat Rayark dikenal dunia, namun juga membuatnya terjatuh di setiap bidang non-musik.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/rayark-games",
+    "readingTime": 220,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "id/Technology/rayark-games.md"
+  },
+  {
+    "title": "Rayark Games: Um império musical fundado na estética e suas fissuras ao longo de quatorze anos",
+    "description": "Em 2012, seis jovens da Faculdade de Informática e Engenharia da Universidade Nacional de Taiwan reuniram 30 milhões para criar o \"Cytus\", que alcançou o primeiro lugar nas paradas de 14 países em apenas um mês. Quatorze anos depois, eles têm a animação de Deemo, uma animação de partículas não entregue há onze anos, Sdorica entrando em modo de manutenção em fevereiro de 2026 e a decisão de demitir funcionários após o incidente do código Morse de ICE em 2020 para proteger o mercado chinês. A estética fez com que a Rayark fosse vista pelo mundo, mas também fez com que ela tropeçasse em todas as áreas que não fossem a música.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/technology/rayark-games",
-    "readingTime": 190,
+    "readingTime": 220,
     "featured": false,
-    "date": "2026-04-25",
+    "date": "2026-05-25",
     "path": "pt/Technology/rayark-games.md"
   },
   {
-    "title": "Rayark Games: музыкальная империя, построенная на эстетике, и её четырнадцатилетняя трещина",
-    "description": "В 2012 году шестеро молодых людей из Колледжа электротехники и информатики Тайваньского университета собрали NT$30 млн и сделали Cytus — за месяц игра поднялась на первое место в чартах 14 стран. Четырнадцать лет спустя у них есть анимация по Deemo, анимация по Implosion, не сданная за одиннадцать лет, Sdorica, перешедшая в феврале 2026 года в режим поддержки, и решение после инцидента ICE с азбукой Морзе в 2020 году отсечь сотрудника ради сохранения китайского рынка. Эстетика сделала Rayark видимой всему миру — и она же заставляла компанию спотыкаться в каждой немузыкальной области.",
-    "category": "ru",
+    "title": "Rayark Games: Un imperio musical fundado en la estética y sus grietas tras catorce años",
+    "description": "En 2012, seis jóvenes de la Facultad de Informática de la Universidad Nacional de Taiwán reunieron 30 millones para crear Cytus, que alcanzó el primer puesto en las listas de 14 países en un mes. Catorce años después, cuentan con la animación de Deemo, una promesa de animación de Project Sekai incumplida durante once años, Sdorica entrando en modo de mantenimiento en febrero de 2026, y la decisión tras el incidente del código Morse de ICE en 2020 de recortar personal para proteger el mercado chino. La estética hizo que Rayark fuera vista por el mundo, pero también causó sus tropiezos en cada ámbito ajeno a la música.",
+    "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/ru/technology/rayark-games",
-    "readingTime": 195,
+    "url": "https://taiwan.md/es/technology/rayark-games",
+    "readingTime": 230,
     "featured": false,
     "date": "2026-05-25",
-    "path": "ru/Technology/rayark-games.md"
+    "path": "es/Technology/rayark-games.md"
   },
   {
-    "title": "Rayark: إمبراطورية موسيقية أسّستها الجماليات، وشروخها على مدى أربعة عشر عامًا",
-    "description": "في 2012 جمع ستة شبان من جامعة تايوان الوطنية 30 مليون دولار تايواني وصنعوا Cytus، فتصدّر قوائم 14 دولة خلال شهر. بعد 14 عامًا: أنيمي Deemo، وImplosion الذي لم يُسلَّم بعد 11 عامًا، ودخول Sdorica وضع الصيانة فبراير 2026، وتخلٍّ عن موظف بعد واقعة شفرة مورس لـ ICE عام 2020 حفاظًا على السوق الصينية. الجماليات جعلت Rayark مرئية للعالم، وهي نفسها ما جعلها تتعثر في كل ميدان لا صلة له بالموسيقى.",
-    "category": "ar",
+    "title": "Rayark Games：美学を掲げる音楽帝国と、その14年間の亀裂",
+    "description": "2012年、台湾大学の電気情報工学科に所属する6人の若者が3,000万元を集めて『Cytus』を制作し、わずか1ヶ月で14カ国のチャートで1位を獲得しました。それから14年、彼らはDeemoのアニメ化、11年間未完のプロジェクト、2026年2月にメンテナンスモードへ移行するSdorica、そして2020年のICEモールス信号事件を経て中国市場を守るために従業員を切り離すという選択を経験してきました。美学はRayarkを世界に知らしめましたが、同時に音楽以外の領域において彼らを挫折させてきました。",
+    "category": "ja",
     "tags": [],
-    "url": "https://taiwan.md/ar/technology/rayark-games",
-    "readingTime": 173,
+    "url": "https://taiwan.md/ja/technology/rayark-games",
+    "readingTime": 117,
     "featured": false,
     "date": "2026-05-25",
-    "path": "ar/Technology/rayark-games.md"
+    "path": "ja/Technology/rayark-games.md"
+  },
+  {
+    "title": "Rayark: A Musical Empire Built on Aesthetics, and Its Fourteen Years of Cracks",
+    "description": "In 2012, six young graduates from NTU's College of Electrical Engineering and Computer Science pooled NT$30 million to create Cytus, which hit number one on charts in 14 countries within a month. Fourteen years later, they have the Deemo animation, eleven years of undelivered Project Polyphony animations, Sdorica entering maintenance mode in February 2026, and the decision to cut staff following the 2020 ICE Morse code incident to protect their Chinese market. Aesthetics allowed Rayark to be seen by the world, but also caused it to stumble in every field outside of music.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/technology/rayark-games",
+    "readingTime": 207,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "en/Technology/rayark-games.md"
+  },
+  {
+    "title": "Rayark: Das auf Ästhetik gegründete Musikimperium und seine Risse nach vierzehn Jahren",
+    "description": "2012 schlossen sich sechs junge Absolventen der Fakultät für Elektrotechnik und Informatik der Nationalen Universität Taiwan zusammen, legten 30 Millionen New Taiwan Dollar zusammen und entwickelten „Cytus“, das innerhalb eines Monats in 14 Ländern die Spitzenplätze der Charts erreichte. Vierzehn Jahre später haben sie einen Deemo-Anime, der Implosion-Anime wurde nach elf Jahren noch nicht geliefert, Sdorica geht im Februar 2026 in den Wartungsmodus, und nach dem ICE-Morsecode-Vorfall 2020 entschieden sie sich, Mitarbeiter zu opfern, um den chinesischen Markt zu halten. Die Ästhetik ließ Rayark von der Welt wahrnehmen, brachte es aber in jedem nicht-musikalischen Bereich zu Fall.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/technology/rayark-games",
+    "readingTime": 207,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "de/Technology/rayark-games.md"
   },
   {
     "title": "Recueil des sites officiels de Taïwan 🏛️",
@@ -101616,15 +101629,48 @@
     "path": "pt/People/shen-pao-chen.md"
   },
   {
-    "title": "Shen Bo-yang: Dia Meneliti Perang Kognitif Tiongkok, Kemudian Tiongkok Memplotnya di Peta Satelit",
-    "description": "Pada tahun 2021, Shen Bo-yang dan pakar strategi Ho Cheng-hui bersama-sama mendirikan Black Bear Academy, didukung oleh donasi enam ratus juta dari Tsao Hsin-cheng, dengan target melatih tiga juta relawan pertahanan sipil dalam tiga tahun. Pada Februari 2024, dia memasuki parlemen sebagai anggota legislatif non-distrik dari Partai Demokratik Progresif. Pada 28 Oktober 2025, dia menjadi politisi terpilih Taiwan pertama yang diselidiki Tiongkok atas tuduhan \"memecah belah negara\", dengan CCTV menyertai topik \"mengungkap\" yang memperingatkan \"kamu bisa jadi yang berikutnya\". Pada Hari Tahun Baru 2026, akun Weibo Tiongkok mempublikasikan koordinat rumah dan tempat kerja Shen di Taipei menggunakan satelit komersial; dia menghabiskan Hari Valentine di pesawat menuju Perancis. Pada 13 Mei, Partai Demokratik Progresif secara resmi menominasikannya sebagai calon walikota Taipei, kota yang sama yang koordinatnya telah ditandai di peta satelit.",
-    "category": "id",
+    "title": "Shen Bo-yang : il étudiait la guerre cognitive chinoise, puis la Chine l'a localisé sur des images satellites",
+    "description": "En 2021, Shen Bo-yang et le chercheur en stratégie He Cheng-hui ont cofondé le Black Bear Academy, avec un don de 600 millions de NT$ de Cao Xing-cheng pour former trois millions de volontaires de la défense civile en trois ans. En février 2024, il est entré au Parlement en tant que député non circonscription du DPP. Le 28 octobre 2025, il est devenu le premier homme politique élu à Taïwan à faire l'objet d'une enquête criminelle par la Chine pour « crime de sécession », la CCTV diffusant un reportage spécial intitulé « Démasquer » avec l'avertissement « le prochain sera vous ». Le 1er janvier 2026, un compte Weibo chinois a utilisé des images satellites commerciales pour publier les coordonnées de sa résidence et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion en direction de la France. Le 13 mai, le DPP l'a officiellement appelé à se présenter aux élections municipales de Taipei, précisément dans la ville dont les coordonnées avaient été marquées sur les images satellites.",
+    "category": "fr",
     "tags": [],
-    "url": "https://taiwan.md/id/people/puma-shen",
-    "readingTime": 243,
+    "url": "https://taiwan.md/fr/people/puma-shen",
+    "readingTime": 274,
     "featured": false,
     "date": "2026-04-28",
-    "path": "id/People/puma-shen.md"
+    "path": "fr/People/puma-shen.md"
+  },
+  {
+    "title": "Shen Bo-yang: Ele estudava a guerra cognitiva da China e, depois, a China o marcou em imagens de satélite",
+    "description": "Em 2021, Shen Bo-yang cofundou o Black Bear Academy junto com o estudioso estratégico He Cheng-hui, contando com uma doação de NT$600 milhões de Cao Xing-cheng, com o objetivo de treinar três milhões de voluntários de defesa civil em três anos. Em fevereiro de 2024, ele ingressou no Parlamento como legislador do Partido Progressista Democrático (DPP) por lista de representação proporcional. Em 28 de outubro de 2025, tornou-se o primeiro político eleito em Taiwan a ser investigado pela China sob a acusação de \"crime de separatismo\", com a CCTV exibindo um especial de \"exposição\" que alertava: \"o próximo será você\". No dia 1º de janeiro de 2026, uma conta no Weibo da China utilizou imagens de satélite comercial para revelar as coordenadas de sua residência e local de trabalho em Taipei; ele passou o Dia dos Namorados em um voo rumo à França. Em 13 de maio, o DPP convocou oficialmente sua candidatura à prefeitura de Taipei, justamente a cidade cujas coordenadas foram marcadas pelo satélite.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/puma-shen",
+    "readingTime": 257,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "pt/People/puma-shen.md"
+  },
+  {
+    "title": "Shen Bo-yang: He researched Chinese cognitive warfare, then China put him on a satellite map",
+    "description": "In 2021, Shen Bo-yang co-founded the Black Bear Academy with strategic scholar Ho Cheng-hui, with a NT$600 million donation from Robert Tsao supporting the goal of training three million civil defense volunteers in three years. In February 2024, he entered the legislature as a DPP at-large legislator. On October 28, 2025, he became the first Taiwanese elected politician to be investigated by China on charges of \"secession,\" with CCTV airing an \"exposé\" special warning \"the next one is you.\" On New Year''s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; he spent Valentine''s Day on a flight to France. On May 13, the DPP officially nominated him to run for Taipei mayor, seeking to lead the very city whose coordinates had been marked on a satellite map.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/puma-shen",
+    "readingTime": 226,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "en/People/puma-shen.md"
+  },
+  {
+    "title": "Shen Bo-yang: investigó la guerra cognitiva de China; luego China lo marcó en imágenes satelitales",
+    "description": "En 2021, Shen Bo-yang y el académico estratégico He Cheng-hui cofundaron la Academia Black Bear; Cao Xingcheng donó NT$600 millones en apoyo, con el objetivo de entrenar a tres millones de voluntarios de defensa civil en tres años. En febrero de 2024, entró en el Parlamento como legislador at-large del Partido Democrático Progresista (PDP). El 28 de octubre de 2025, se convirtió en el primer político electo de Taiwán en ser investigado formalmente por China bajo el cargo de «secesión»; CCTV emitió un reportaje de «investigación exhaustiva» advirtiendo: «El próximo eres tú». El 1 de enero de 2026, una cuenta de Weibo china publicó las coordenadas de su residencia y lugar de trabajo en Taipéi usando imágenes satelitales comerciales; pasó el Día de San Valentín en un avión rumbo a Francia. El 13 de mayo, el PDP lo nominó oficialmente como candidato a la alcaldía de Taipéi, la misma ciudad que había sido señalada en el mapa satelital.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/puma-shen",
+    "readingTime": 135,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "es/People/puma-shen.md"
   },
   {
     "title": "Shen Pao-chen: Sebuah Benteng, Sebuah Jalan Gunung, dan Taiwan yang Terpaksa Dilihat Kerajaan Qing",
@@ -104064,56 +104110,45 @@
     "path": "fr/History/shihmen-reservoir.md"
   },
   {
-    "title": "Su Beng : comment un restaurant de raviolis a nourri quarante ans de révolution à Taïwan",
-    "description": "Su Beng, de son vrai nom Shi Chao-hui, a travaillé comme agent secret pour le Parti communiste chinois en Chine, mais, après avoir été témoin des massacres liés à la réforme agraire, il s’est désillusionné, est retourné à Taïwan pour préparer l’assassinat de Chiang Kai-shek, a échoué et a fui au Japon. À Ikebukuro, Tokyo, il a ouvert un restaurant de nouilles appelé « Shin Chinmi », vendant des raviolis le jour et écrivant l’histoire de Taïwan la nuit ; les revenus de ce commerce ont financé quarante ans de mouvement pour l’indépendance de Taïwan et ont donné naissance à l’ouvrage qui a éveillé la conscience nationale taïwanaise, « Histoire de Taïwan en quatre cents ans ».",
+    "title": "Su Beng : comment un restaurant de raviolis a financé quarante ans de révolution taïwanaise",
+    "description": "Su Beng, de son vrai nom Shi Chao-hui, a travaillé pour le PCC en Chine avant de se désillusionner face aux massacres de la réforme agraire, a tenté d'assassiner Chiang Kai-shek à son retour à Taïwan, puis s'est enfui au Japon où il a ouvert le restaurant « Shin-Chen-Wei » à Tokyo, utilisant ses revenus pour financer le mouvement indépendantiste pendant quarante ans et écrire « L'Histoire de Taïwan sur quatre cents ans ».",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/su-beng",
-    "readingTime": 84,
+    "readingTime": 97,
     "featured": false,
     "date": "2026-07-10",
     "path": "fr/People/su-beng.md"
   },
   {
-    "title": "Su Beng: com uma loja de gyoza, sustentou quarenta anos de revolução taiwanesa",
-    "description": "Su Beng, de nome verdadeiro Shih Ch''ao-hui, trabalhou como agente de inteligência subterrânea para o PCC na China, mas desiludiu-se ao testemunhar os massacres da reforma agrária; regressou a Taiwan para conspirar o assassinato de Chiang Kai-shek, e após o fracasso fugiu para o Japão. Em Tóquio, no bairro de Ikebukuro, abriu uma casa de macarrão chamada \"Shin Chinmi\", onde vendia gyoza de dia e escrevia a história de Taiwan à noite, usando a renda do estabelecimento para financiar o movimento independentista taiwanês durante quarenta anos, e escreveu a obra que despertou a consciência nacional taiwanesa, \"A História de Quatrocentos Anos do Povo Taiwanês\".",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/su-beng",
-    "readingTime": 89,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "pt/People/su-beng.md"
-  },
-  {
-    "title": "Su Beng: Con una tienda de dumplings, alimentó la revolución de Taiwán durante cuarenta años",
-    "description": "Su Beng, cuyo nombre real es Shi Zhaohui, trabajó como agente clandestino para el Partido Comunista en China, pero quedó desilusionado tras presenciar masacres durante la reforma agraria. Regresó a Taiwán y conspiró para asesinar a Chiang Kai-shek; tras el fracaso, se escapó a Japón. En Ikebukuro, Tokio, abrió un restaurante llamado «Shin Chinmi», donde vendía dumplings de día y escribía historia de Taiwán de noche. Con los ingresos de ese local financió el movimiento independentista de Taiwán durante cuarenta años y escribió la obra que despertó la conciencia nacionalista, «Historia de los taiwaneses en cuatrocientos años».",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/su-beng",
-    "readingTime": 86,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "es/People/su-beng.md"
-  },
-  {
-    "title": "Su Beng: How a Dumpling Shop Sustained Four Decades of Taiwan's Revolution",
-    "description": "Su Beng, whose birth name was Shih Chao-hui, once worked as an underground intelligence agent for the Chinese Communist Party in China. After witnessing the massacres of land‑reform campaigns, he became disillusioned, returned to Taiwan to plot the assassination of Chiang Kai-shek, and fled to Japan when the plot failed. In Tokyo’s Ikebukuro he opened a noodle shop called “Shin Chinmi,” selling dumplings by day and writing Taiwanese history by night. The shop’s income funded the Taiwan independence movement for forty years and produced the nation‑awakening work *Four Hundred Years of Taiwan History*.",
+    "title": "Su Beng: A Dumpling Shop That Funded Forty Years of Taiwan's Revolution",
+    "description": "Su Beng, born Shi Chao-hui, once did underground intelligence work for the CCP in China but became disillusioned after witnessing land reform massacres; he returned to Taiwan to plot Chiang Kai-shek''s assassination, failed, and smuggled himself to Japan. In Tokyo''s Ikebukuro he opened a noodle shop called \"Shin-Chin-Mi,\" selling dumplings by day and writing Taiwanese history by night, using the shop''s income to fund forty years of the independence movement and producing the seminal *Taiwan''s 400-Year History* that awakened Taiwanese national consciousness.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/su-beng",
-    "readingTime": 83,
+    "readingTime": 90,
     "featured": false,
     "date": "2026-07-10",
     "path": "en/People/su-beng.md"
   },
   {
-    "title": "Su Beng: Menggunakan Satu Toko Jiaozi, Membiayai Revolusi Taiwan Selama Empat Puluh Tahun",
-    "description": "Su Beng, nama aslinya Shi Chao-hui, pernah bekerja sebagai agen rahasia untuk Partai Komunis Tiongkok di Tiongkok, namun kecewa setelah menyaksikan pembantaian selama reformasi agraria, kembali ke Taiwan merencanakan pengkhianatan Chiang Kai-shek, gagal lalu melarikan diri ke Jepang. Di Ikebukuro, Tokyo, ia membuka toko mie bernama \"Shin Chinmi\", menjual jiaozi siang hari dan menulis sejarah Taiwan malam hari, menggunakan pendapatan toko itu untuk mendanai gerakan kemerdekaan Taiwan selama empat puluh tahun, serta menulis \"Sejarah 400 Tahun Bangsa Taiwan\" yang membangkitkan kesadaran etnis Taiwan.",
+    "title": "Su Beng: con una tienda de dumplings, sostuvo cuarenta años de revolución taiwanesa",
+    "description": "Su Beng, nombre real Shi Chao-hui, trabajó en China para la inteligencia clandestina del PCCh, pero se desilusionó tras presenciar las masacres de la reforma agraria; de vuelta en Taiwán conspiró para asesinar a Chiang Kai-shek, fracasó y huyó a Japón. En Tokio, en Ikebukuro, abrió un restaurante de fideos llamado \"Shin Chinmi\", vendía dumplings de día y escribía la historia de Taiwán de noche; con sus ganancias financió cuarenta años de movimiento independentista y escribió la obra que despertó la conciencia nacional taiwanesa: \"Historia de cuatrocientos años del pueblo taiwanés\".",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/su-beng",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/People/su-beng.md"
+  },
+  {
+    "title": "Su Beng: Menggunakan Sebuah Kedai Pangsit untuk Menghidupi Revolusi Taiwan Selama Empat Puluh Tahun",
+    "description": "Su Beng, nama asli Shi Chao-hui, pernah menjadi agen intelijen bawah tanah bagi Partai Komunis Tiongkok, namun ia merasa kecewa setelah menyaksikan pembantaian reformasi agraria. Ia kembali ke Taiwan untuk merencanakan pembunuhan Chiang Kai-shek dan melarikan diri ke Jepang setelah rencananya gagal. Di Ikebukuro, Tokyo, ia membuka kedai mi bernama \"Shin Chinmi\", menjual pangsit di siang hari dan menulis sejarah Taiwan di malam hari; pendapatan dari kedai ini menghidupi gerakan kemerdekaan Taiwan selama empat puluh tahun serta menghasilkan karya \"Sejarah Empat Ratus Tahun Orang Taiwan\" yang membangkitkan kesadaran nasional Taiwan.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/su-beng",
-    "readingTime": 78,
+    "readingTime": 105,
     "featured": false,
     "date": "2026-07-10",
     "path": "id/People/su-beng.md"
@@ -104124,10 +104159,21 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/su-beng",
-    "readingTime": 105,
+    "readingTime": 107,
     "featured": false,
     "date": "2026-07-10",
     "path": "de/People/su-beng.md"
+  },
+  {
+    "title": "Su Beng: Uma loja de guioza que financiou quarenta anos de revolução em Taiwan",
+    "description": "Nascido Shi Chao-hui, Su Beng atuou como informante para o PCC na China, mas desiludiu-se após presenciar massacres na reforma agrária. Após conspirar contra Chiang Kai-shek e exilar-se no Japão, fundou o restaurante Shin Chin Wei em Tóquio, usando os lucros para sustentar o movimento de independência de Taiwan e escrever a obra \"História de 400 Anos do Povo Taiwanês\".",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/su-beng",
+    "readingTime": 94,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "pt/People/su-beng.md"
   },
   {
     "title": "Su Chiao-hui : dans l'ombre du « Chong Chong Chong », la commissaire qui suture New Taipei par le droit et les détails",
@@ -104315,6 +104361,17 @@
     "featured": false,
     "date": "2026-04-24",
     "path": "vi/Society/taiwan-youth-career-confusion.md"
+  },
+  {
+    "title": "Sử Minh: Dùng một tiệm sủi cảo nuôi dưỡng cuộc cách mạng Đài Loan suốt bốn mươi năm",
+    "description": "Sử Minh tên thật là Thi Triều Huy, từng làm tình báo cho Đảng Cộng sản Trung Quốc nhưng đã vỡ mộng sau khi chứng kiến các cuộc thảm sát cải cách ruộng đất, sau đó âm mưu ám sát Tưởng Giới Thạch và lưu vong sang Nhật Bản.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/su-beng",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "vi/People/su-beng.md"
   },
   {
     "title": "Sự mở rộng và suy thoái của giáo dục đại học Đài Loan: từ 58 trường đến 148 trường, rồi bắt đầu đóng cửa",
@@ -106972,7 +107029,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/economy/tsmc",
-    "readingTime": 134,
+    "readingTime": 135,
     "featured": true,
     "date": "2026-05-09",
     "path": "en/Economy/tsmc.md"
@@ -114666,17 +114723,6 @@
     "path": "vi/People/tsai-ming-liang.md"
   },
   {
-    "title": "Thái Minh: Dùng một quán đơn giản để nuôi dưỡng cuộc cách mạng Đài Loan trong bốn mươi năm",
-    "description": "Thái Minh (tên thật là Thải Cháo Huy, 1918–2019) là nhân vật tiêu biểu của phong trào độc lập Đài Loan, tác giả của \"Bốn trăm năm lịch sử người Đài Loan\". Ngày nay, anh sinh tại Sơn Lân, học tập tại Đại học Sao Trương, từng tham gia hoạt động đấu tranh chống phong độc của Đảng Cộng sản Trung Quốc, nhưng sau khi chứng kiến bạo lực trong cuộc cách mạng đất đai, anh rơi lỗi niềm tin. Khi trở về Đài Loan, anh hối hả lên kế hoạch giết chết Tổng thống Jiàng Jièshí, nhưng thất bại nên tị nạn đến Nhật Bản. Tại Tokyo, anh mở quán \"Xīn Zhēn Měi\" bán bánh dumplings, dùng thu nhập từ quán để nuôi dưỡng hoạt động độc lập Đài Loan và viết sách lịch sử.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/su-beng",
-    "readingTime": 87,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "vi/People/su-beng.md"
-  },
-  {
     "title": "Thái Nam: Thủ phủ 261 năm, di tích 400 năm và vi mạch thế kỷ 21 cùng tồn tại trên một mảnh đất",
     "description": "Năm 1624, người Hà Lan bắt đầu xây dựng Thành Lạp Lan Xa trên cồn cát Đại Oan; ngày 1 tháng 2 năm 1662, Kê Nhất ký Hiệp ước Trịnh-Hà và rời bãi biển cùng 2.000 người Hà Lan vào ngày 9 tháng 2. Năm 1665, Trần Vĩnh Hoa xây dựng Khổng Miếu, trở thành \"trường học đầu tiên của toàn Đài\". Năm 1885, địa vị thủ phủ 261 năm kết thúc khi tỉnh chuyển đến Đài Bắc. Ngày 13 tháng 3 năm 1947, Luật sư Thang Đức Chương bị trói và đưa đi diễu hành trước khi bị bắn ba phát tại Công viên Mẫn Sinh. Ngày 25 tháng 12 năm 2010, thành phố hợp nhất thành 37 quận với khoảng 1,86 triệu dân. Năm 2023, doanh thu của Nam Kho đạt 1 nghìn 5 trăm 855 tỷ Đài tệ, vượt qua Chu Kho 165,5 tỷ Đài tệ; nhà máy wafer 3 nanomet của TSMC trị giá 700 tỷ Đài tệ được xây dựng trên đồng bằng này mà người Hà Lan đã cắm cờ cách đây 400 năm.",
     "category": "vi",
@@ -114721,12 +114767,12 @@
     "path": "vi/People/jolin-tsai.md"
   },
   {
-    "title": "Thẩm Bá Dương: Ông nghiên cứu chiến tranh nhận thức của Trung Quốc, rồi Trung Quốc vẽ ông lên bản đồ vệ tinh",
-    "description": "Năm 2021, Thẩm Bá Dương cùng học giả chiến lược Hà Trừng Huy đồng sáng lập Học viện Kuma, được Robert Tsao (Tào Hưng Thành) tài trợ 600 triệu Đài tệ, đặt mục tiêu đào tạo ba triệu chiến binh dân phòng trong ba năm. Tháng 2 năm 2024, ông bước vào Quốc hội với tư cách nghị sĩ theo danh sách đảng của Đảng Dân chủ Tiến bộ. Ngày 28 tháng 10 năm 2025, ông trở thành chính trị gia dân cử đầu tiên của Đài Loan bị Trung Quốc lập án điều tra với tội danh \"chia rẽ quốc gia\"; CCTV còn làm chuyên đề \"lật tẩy\" kèm lời cảnh cáo \"người tiếp theo chính là anh\". Ngày đầu năm 2026, một tài khoản Weibo của Trung Quốc dùng ảnh vệ tinh thương mại công bố tọa độ nhà riêng và nơi làm việc của ông tại Đài Bắc; đến Lễ Tình nhân, ông ở trên máy bay sang Pháp. Ngày 13 tháng 5, Đảng Dân chủ Tiến bộ chính thức mời ông ra tranh cử thị trưởng Đài Bắc — đúng là thành phố mà tọa độ đã bị vệ tinh Trung Quốc đánh dấu.",
+    "title": "Thẩm Bá Dương: Nghiên cứu về chiến tranh nhận thức của Trung Quốc, sau đó bị phía Trung Quốc đánh dấu tọa độ trên ảnh vệ tinh",
+    "description": "Năm 2021, Thẩm Bá Dương cùng học giả chiến lược Hà Trừng Huy đồng sáng lập Học viện Gấu Đen (Black Bear Academy), được Tào Hưng Thành quyên góp NT$600 triệu để hỗ trợ với mục tiêu đào tạo 3 triệu tình nguyện viên dân phòng trong vòng ba năm. Tháng 2 năm 2024, ông gia nhập Quốc hội với tư cách là lập pháp viên không phân khu của Đảng Dân tiến. Ngày 28 tháng 10 năm 2025, ông trở thành chính trị gia dân cử đầu tiên của Đài Loan bị Trung Quốc lập án điều tra với tội danh \"chia cắt đất nước\", trong khi đài CCTV thực hiện chuyên đề \"bóc trần\" kèm lời cảnh báo \"người tiếp theo sẽ là bạn\". Vào ngày 1 tháng 1 năm 2026, một tài khoản Weibo của Trung Quốc đã sử dụng ảnh vệ tinh thương mại để công bố tọa độ nhà riêng và nơi làm việc của ông tại Đài Bắc; ông đã trải qua ngày Lễ Tình nhân trên chuyến bay đến Pháp. Ngày 13 tháng 5, Đảng Dân tiến chính thức triệu tập ông tranh cử Thị trưởng Đài Bắc, chính là thành phố đã bị đánh dấu tọa độ trên ảnh vệ tinh.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/puma-shen",
-    "readingTime": 226,
+    "readingTime": 254,
     "featured": false,
     "date": "2026-04-28",
     "path": "vi/People/puma-shen.md"
@@ -118451,23 +118497,6 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "fr/History/three-foreigners-witness-1895-taiwan.md"
-  },
-  {
-    "title": "Trư Ca Lương",
-    "description": "Tên thật là Tạ Tân Đạt, sinh năm 1946 tại Tả Vinh, Cao Hùng. Cha làm thợ rèn, mẹ bán rau. Sau khi tốt nghiệp tiểu học thì bỏ học, 15 tuổi làm đệ tử học kịch Ca Tử. Thập niên 1960, anh khởi nghiệp bằng cách bắt chước các ca sĩ ở chợ đêm. Thập niên 1970, kinh tế Taiwan cất cánh, nhu cầu giải trí ban đêm tăng lên, văn hóa sưu tràng ứng vận mà sinh. Anh dung hợp kịch truyền thống, thuyết ca dân gian và yếu tố phổ biến thành «hài hước kiểu Trư», dùng tiếng Đài Loan viết thơ tức thì để đưa ngôn ngữ bình dân lên các chương trình tổng nghệ truyền hình. Tháng 5 năm 2017, anh qua đời vì ung thư đại tràng.",
-    "category": "vi",
-    "tags": [
-      "Trư Ca Lương",
-      "Sưu tràng",
-      "Kịch hài",
-      "Tổng nghệ",
-      "Tiếng Đài Loan"
-    ],
-    "url": "https://taiwan.md/vi/people/zhuge-liang-showman",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "vi/People/zhuge-liang-showman.md"
   },
   {
     "title": "Truku-Volk: Nach der Namensrückgewinnung im Jahr 2004 müssen noch dreihundert alte Siedlungen zurücklaufen",
@@ -125542,6 +125571,17 @@
   },
   {
     "title": "Yang Yung-wei",
+    "description": "2021 Tokyo Olympics judo 60kg silver medalist, the first Olympic judo medalist in Taiwan's history, and world number one in November of the same year.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/yang-yung-wei-judo-olympic-silver",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/People/yang-yung-wei-judo-olympic-silver.md"
+  },
+  {
+    "title": "Yang Yung-wei",
     "description": "Medalla de plata en judo de 60 kg en los Juegos Olímpicos de Tokio 2021, primer medallista olímpico de judo en la historia de Taiwán, y número uno del mundo en noviembre del mismo año",
     "category": "es",
     "tags": [
@@ -125593,17 +125633,6 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "pt/People/yang-yung-wei-judo-olympic-silver.md"
-  },
-  {
-    "title": "Yang Yung-Wei",
-    "description": "Taiwan judoka who won silver medal in men's 60kg at 2021 Tokyo Olympics, Taiwan's first Olympic judo medal",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/yang-yung-wei-judo-olympic-silver",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-21",
-    "path": "en/People/yang-yung-wei-judo-olympic-silver.md"
   },
   {
     "title": "Yani Tseng",
@@ -127104,36 +127133,20 @@
   },
   {
     "title": "Zhu Ge Liang",
-    "description": "Born Xie Xinda in 1946 in Zuoying, Kaohsiung, he was the son of a blacksmith and a vegetable vendor. After dropping out of elementary school, he began apprenticing in Taiwanese Opera at age 15. He rose to fame in the 1960s by imitating pop stars at night markets. During the 1970s, as Taiwan''s economy boomed and demand for nighttime entertainment grew, the show stage culture emerged. He blended traditional opera, folk storytelling, and popular elements into his signature \"Zhu-style humor,\" using improvised rhyming in Taiwanese to bring grassroots language to television variety shows. He passed away from colon cancer in May 2017.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/zhuge-liang-showman",
-    "readingTime": 43,
+    "description": "Zhu Ge Liang (1946–2017, nome de nascimento Xie Xin-da) nasceu em Zuoying, Kaohsiung; aos 14 anos juntou-se a uma companhia de teatro, aos 31 tornou-se apresentador no Sapphire Grand Cabaret e nos anos 1980 tornou-se uma estrela de Taiwan com as suas fitas de vídeo \"Zhu Ge Liang Cabaret Show\". Após dez anos de hiato devido a dívidas de jogo, regressou em 2009 com a frase \"fui estudar no estrangeiro\", vencendo o Golden Bell Award no ano seguinte.",
+    "category": "pt",
+    "tags": [
+      "Zhu Ge Liang",
+      "cabaré",
+      "comédia",
+      "entretenimento",
+      "taiwanês"
+    ],
+    "url": "https://taiwan.md/pt/people/zhuge-liang-showman",
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-19",
-    "path": "en/People/zhuge-liang-showman.md"
-  },
-  {
-    "title": "Zhu Ge Liang",
-    "description": "De son vrai nom Hsieh Hsin-ta, né en 1946 à Zuoying, Kaohsiung. Son père était forgeron et sa mère marchande de légumes. Il a quitté l'école après le primaire pour devenir apprenti de l'opéra gézaï à l'âge de 15 ans. Dans les années 1960, il s'est fait connaître en imitant des stars dans les marchés de nuit. Avec l'essor économique de Taïwan dans les années 1970 et la demande croissante de divertissements nocturnes, la culture des spectacles de variétés a émergé. Il a fusionné l'opéra traditionnel, le conte populaire et des éléments pop pour créer son « humour style Zhu », utilisant l'improvisation et les rimes en taïwanais pour porter le langage populaire sur les plateaux de télévision. Il est décédé en mai 2017 d'un cancer du côlon.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/zhuge-liang-showman",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/zhuge-liang-showman.md"
-  },
-  {
-    "title": "Zhu Ge Liang",
-    "description": "Nama aslinya adalah Xie Xin-da, lahir pada tahun 1946 di Zuoying, Kaohsiung. Ayahnya bekerja sebagai pandai besi dan ibunya berjualan sayuran. Ia putus sekolah setelah lulus SD dan mulai belajar opera tradisional Gezaixi pada usia 15 tahun. Pada tahun 1960-an, ia memulai kariernya dengan meniru penyanyi di pasar malam. Pada tahun 1970-an, seiring dengan pertumbuhan ekonomi Taiwan dan meningkatnya kebutuhan hiburan malam, budaya pertunjukan panggung pun muncul. Ia memadukan opera tradisional, dongeng rakyat, dan elemen populer menjadi \"humor gaya Zhu\", menggunakan rima improvisasi dalam bahasa Hokkien untuk membawa bahasa rakyat ke acara varietas televisi. Ia wafat pada Mei 2017 karena kanker usus besar.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/zhuge-liang-showman",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "id/People/zhuge-liang-showman.md"
+    "path": "pt/People/zhuge-liang-showman.md"
   },
   {
     "title": "Zhu Geliang",
@@ -128804,11 +128817,11 @@
   },
   {
     "title": "Гуй Луньмэй",
-    "description": "Родившаяся в 1983 году в Тайбэе, она была открыта помощником режиссера И Чжияня в студенческие годы и дебютировала в роли Мэн Кэжоу в фильме «Голубые ворота», начав свой путь актрисы с самой естественной и чистой игры. От «Таинства» до частых гостьей международных кинофестивалей, даже придерживаясь скромного образа жизни, она остается одной из самых знаковых актрис артхаусного кино на Тайване благодаря своему мастерству и утонченности.",
+    "description": "Родилась в 1983 году, выпускница факультета французской филологии Университета Даньцзян. Дебютировала в 2002 году в фильме «Голубые ворота»; широкую известность получила в 2007 году благодаря фильму «Тайна» (Secret). В 2012 году за роль в фильме «Подруга бойфренда» завоевала награды «Лучшая актриса» на премии Золотая конь (Golden Horse Awards) и Азиатском кинофестивале. Является одной из ведущих актрис артхаусного кино Тайваня, известной по таким работам, как «Вспышка» (Black Coal, Thin Ice).",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -131294,11 +131307,11 @@
   },
   {
     "title": "Лин Цинся",
-    "description": "Рождённая в 1954 году в тайбэйском поселке военных, в 1972 году её заметил в Симендин режисёр Сун Цуньшоу и предложил главную роль в «За окном» по роману Цунь Яо; чистый образ сделал её богиней эпохи кино Цунь Яо, а с Цинь Хань и Цинь Сянлинь они стали классической экранной парой, а причёски и одежда — модными эталонами; 1992 год: образ Дунфан Байбай в красной одежде создал классику ушу-кино, объединив две эпохи — веньи и ушу.",
+    "description": "Рождённая в 1954 году и выросшая в поселке военных семей, в 1972 году в Симендине была замечена звездоохотчиком Яном Цы. После прослушивания по рекомендации её выбрали для главной роли в экранизации романа Цунь Яо «За окном»: благодаря чистому и невинному образу она стала богиней эпохи фильмов Цунь Яо. Вместе с Цинь Хань и Цинь Сянлинь составила классическую экранную пару, покорившую весь китайскоязычный мир, — её причёсы и одежда стали эталонами моды. В 1992 году снова вошла в историю уся-кино ролью Дунфан Байбай в красном платье, парящем в танце, таким образом объединив две эры: венэ и уся.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/brigitte-lin-legendary-actress",
-    "readingTime": 38,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/brigitte-lin-legendary-actress.md"
@@ -133810,6 +133823,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ru/Society/taiwan-higher-education-expansion-and-decline.md"
+  },
+  {
+    "title": "Раярк: музыкальная империя, основанная на эстетике, и её четырнадцатилетние трещины",
+    "description": "В 2012 году шестеро молодых людей из Колледжа электротехники и информатики Тайваньского университета собрали NT$30 million и создали «Сайтус», который за месяц возглавил чарты в 14 странах. Четырнадцать лет спустя у них появился мультфильм по «Димо», мультфильм по «Цзюйбао» не был выпущен одиннадцать лет, «Сдорика» в феврале 2026 года перешла в режим обслуживания, после инцидента с азбукой Морзе «АЙС» в 2020 году они выбрали уволить сотрудников, чтобы сохранить китайский рынок. Эстетика сделала «Раярк» известной во всём мире, но также заставила её падать в каждой сфере, не связанной с музыкой.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/technology/rayark-games",
+    "readingTime": 199,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "ru/Technology/rayark-games.md"
   },
   {
     "title": "Религиозные верования Тайваня: Империя веры, выросшая из страха",
@@ -138299,17 +138323,6 @@
     "path": "ru/Music/loh-tsui-kang-commune.md"
   },
   {
-    "title": "Чжу Гэлян",
-    "description": "Его настоящее имя — Се Синьда, родился в 1946 году в Цзоин, Гаосюн. Его отец работал кузнецом, а мать торговала овощами. Бросив школу после начального образования, в 15 лет он стал учеником в театре гецзайси. В 1960-х годах он начал свою карьеру, подражая певцам на ночных рынках. В 1970-е годы, на фоне экономического подъема Тайваня и роста спроса на ночные развлечения, возникла культура шоу-программ (сючан), в которой он объединил традиционную оперу, народное сказительство и популярные элементы в свой фирменный «юмор Чжу». Используя импровизированные рифмы на тайваньском диалекте, он вывел язык простого народа на телевидение в развлекательных шоу. В мае 2017 года он скончался от рака толстой кишки.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/zhuge-liang-showman",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ru/People/zhuge-liang-showman.md"
-  },
-  {
     "title": "Чжу Тяньвэнь: 1956 год, Тайбэй, от «Саньцзань цзикань» до «Бэй цин чэн ши» — Золотой лев Венеции",
     "description": "Рождена в 1956 году в Тайбэе, отец — Чжу Синин. В 1977 году совместно с Ху Ланьчэнь и др. основала «Саньцзань цзикань». Долгое время была сценаристом фильмов Хоу Сяосяня, главная работа — «Бэй цин чэн ши», получивший Золотого льва Венецианского кинофестиваля 1989 года. В 1994 году роман «Хуан жэнь шу цзи» получил первый приз Тайбэй вэньсэ цзянь. Сценаристские работы включают «Хао нань хао нюй» и «Нань го цзай цзянь нань го».",
     "category": "ru",
@@ -138363,6 +138376,17 @@
     "featured": false,
     "date": "2026-08-17",
     "path": "ru/People/zhuge-si-lang-comic.md"
+  },
+  {
+    "title": "Чжугэлян: от сцены эстрадных залов до короля новогоднего кино",
+    "description": "Чжугэлян (1946–2017, настоящее имя Се Синьда) — легендарный тайваньский ведущий, прославившийся в 1980-х благодаря видеозаписям шоу «Zhu Ge Liang K厅 Show» и ставший мастером праздничного кино.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/zhuge-liang-showman",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ru/People/zhuge-liang-showman.md"
   },
   {
     "title": "Чжун Ли хэ: 1915 год в Мэннуне, писатель, павший в луже крови",
@@ -138926,17 +138950,6 @@
     "path": "ru/Culture/taiwan-pinball-night-market.md"
   },
   {
-    "title": "Шен Боян: он изучал информационную войну Китая, а потом Китай нанес его на спутниковый снимок",
-    "description": "В 2021 году Шен Боян совместно с ученым-стратегом Хэ Чэнхуем основал Академию Черный Медведь, получив поддержку в размере шести сотен миллионов от Ца Синчжэня. Цель заключалась в подготовке трех миллионов добровольцев по гражданской обороне за три года. В феврале 2024 года он вступил в законодательный орган как непартийный депутат от Демократической партии. 28 октября 2025 года он стал первым политиком из Тайваня, избранным на выборах, который был расследован Китаем по обвинению в «сепаратизме», когда CCTV выпустило специальный репортаж с предупреждением: «Следующий — ты». В новогоднюю ночь 2026 года китайский аккаунт Weibo опубликовал его домашний адрес и координаты работы в Тайбэе с помощью коммерческого спутникового снимка; на День святого Валентина он летал в самолете во Францию. 13 мая Демократическая партия официально выдвинула его кандидатом на пост мэра Тайбэя, города, чьи координаты были отмечены на спутниковой карте.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/puma-shen",
-    "readingTime": 212,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "ru/People/puma-shen.md"
-  },
-  {
     "title": "Шесть пальцев бездны: как полностью англоязычный интерфейс After Effects стал входной точкой для тайваньских создателей",
     "description": "В 2011 году Лу Цзюань начал самообучение с полностью англоязычного интерфейса After Effects, а позже с помощью видео со спецэффектами, обучающего сайта и академии «Безграничный дизайн» привнес в тайваньский YouTube технику, обычно остававшуюся за кулисами. От 100 тысяч подписчиков в 2019 году до миллиона в 2024 году он разместил творчество, обучение, фриланс, команду и предпринимательство за одним столом, показав, как тайваньский цифровой создатель превращает программный порог в общедоступный вход.",
     "category": "ru",
@@ -138948,12 +138961,12 @@
     "path": "ru/People/sixvfx-lu-tzu-yuan.md"
   },
   {
-    "title": "Ши Мин: как одна лапша с пельменями прокормила сорок лет тайваньской революции",
-    "description": "Ши Мин (настоящее имя Шь Чаохуэй) когда-то работал на подполье КПК в Китае, но разочаровался после того, как стал свидетелем убийств при земельной реформе, вернулся на Тайвань, замышлял убийство Чан Кайши, после неудачи бежал в Японию. В Токио в Икебукуро он открыл лапшу «Синьчжэньвэй», днём продавал пельмени, ночью писал историю Тайваня, а доходы от ресторана в течение сорока лет финансировали движение за независимость Тайваня, а также создание фундаментального труда «История тайваньского народа за четыреста лет».",
+    "title": "Ши Мин: как одна пельменная прокормила тайваньскую революцию сорок лет",
+    "description": "Ши Мин (настоящее имя Шь Чаохуэй) когда-то работал на китайских коммунистов в Китае, но разочаровался после того, как стал свидетелем убийств при аграрной реформе, вернулся на Тайвань, замышлял убийство Чан Кайши, после неудачи бежал в Японию. В Токио в Икебукро он открыл лапшу «Синьчжэньвэй», днём продавал пельмени, ночью писал историю Тайваня, и доходы этого заведения сорок лет финансировали движение за независимость Тайваня, а также создание книги «История тайваньского народа за четыреста лет», пробудившей национальное самосознание.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/su-beng",
-    "readingTime": 85,
+    "readingTime": 87,
     "featured": false,
     "date": "2026-07-10",
     "path": "ru/People/su-beng.md"
@@ -139060,6 +139073,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "ru/People/shen-pao-chen.md"
+  },
+  {
+    "title": "Шэнь Боян: он изучал китайскую когнитивную войну, а затем Китай нанес его координаты на спутниковые снимки",
+    "description": "В 2021 году Шэнь Боян совместно со стратегом Хэ Чэнху основал Академию «Черного медведя» (Black Bear Academy); Цао Синчэн пожертвовал NT$600 миллионов на ее поддержку с целью обучить 3 миллиона добровольцев гражданской обороны в течение трех лет. В феврале 2024 года он вошел в состав парламента как депутат от Демократической прогрессивной партии (ДПП) по партийному списку. 28 октября 2025 года он стал первым избранным политиком Тайваня, в отношении которого Китай возбудил уголовное дело по обвинению в «преступлении, направленном на отделение государства»; при этом центральное телевидение Китая (CCTV) выпустило спецрепортаж под названием «Разоблачение», предупредив: «Следующим будете вы». В первый день 2026 года китайский аккаунт в Weibo опубликовал коммерческие спутниковые снимки с координатами его дома и места работы в Тайбэе; День святого Валентина он провел в самолете, летящем во Францию. 13 мая ДПП официально выдвинула его кандидатом на пост мэра Тайбэя — того самого города, координаты которого были отмечены на спутниковых картах.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/puma-shen",
+    "readingTime": 254,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "ru/People/puma-shen.md"
   },
   {
     "title": "Шэнь Вэньчэн: от механика в Цинцюаньган до «двойного золотого короля песни»",
@@ -141454,6 +141478,17 @@
     "path": "ar/Food/tainan-central-west-district-street-food-culture.md"
   },
   {
+    "title": "السير معاً عبر الماضي: لكي نمضي قدماً، يجب أن نعرف من أين أتينا",
+    "description": "في يوليو 1988، قبيل افتتاح المؤتمر الوطني الثالث عشر للحزب الكومنتانغ، عرضت إن يون-بونغ أربع حلقات وثائقية من مجلة \"تيان شيا\" (天下) بشكل متواصل لمدة أربعة أيام على تلفزيون تايوان. بحث المصور تشانغ تشاو-تانغ عن الأشخاص الذين عاشوا تلك الأربعين عاماً من أجل مسودة نصية: جي تشنغ التي كانت ابنة بالتبني، والمزارعين المستأجرين الذين تعرضوا لزيادات سنوية في الإيجار، والجنود المتطوعين الذين فجروا الطرق في الجبال. منذ تأسيسها، تتساءل مجلة \"تيان شيا\" عن كيفية وصول تايوان إلى ما هي عليه اليوم، وتكمن إجابة الفيلم في هؤلاء الأشخاص، ولاحقاً تم نقل شريط فيديو إلى بكين.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/culture/walking-through-the-past-together",
+    "readingTime": 258,
+    "featured": true,
+    "date": "2026-10-21",
+    "path": "ar/Culture/walking-through-the-past-together.md"
+  },
+  {
     "title": "الشباب المسلحون الريفيون",
     "description": "جيانغ يو-دا وأغانيه الشعبية، غنّى في ساحات النضال لعشر سنوات، ثم عاد إلى مسقط رأسه في تشانغهوا، وفقد قدرته على الإبداع لعامين — يقول إن تلك كانت اللحظة الأكثر ثورية في حياته.",
     "category": "ar",
@@ -143791,6 +143826,17 @@
     "path": "ar/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
+    "title": "تشن شينغ يو: من ابنة رئيس تتعرض للملاحقة، إلى الدكتورة تشن في عيادة بتايوان",
+    "description": "من ملاحقة وسائل الإعلام لها في نيويورك عام 2009، إلى افتتاح عيادة لطب الأسنان في تاينان عام 2016؛ كيف استعادت تشن شينغ يو حياتها المهنية كطبيبة أسنان تحت أنظار عائلتها السياسية؟",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chen-hsing-yu",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ar/People/chen-hsing-yu.md"
+  },
+  {
     "title": "تشن ون-يو: كيف أصبحت بذرة واحدة دبلوماسية للزراعة التايوانية",
     "description": "من محطة فنغشان للتجارب، وبطيخ فنغشان رقم 1 بلا بذور، إلى شركة نونغ-يو للبذور، جعل تشن ون-يو من تربية الأصناف قوة ناعمة تايوانية تتيح للمزارعين الحصول على حياة أفضل أولاً.",
     "category": "ar",
@@ -143945,12 +143991,12 @@
     "path": "ar/People/zhuge-si-lang-comic.md"
   },
   {
-    "title": "تشو كو ليانغ",
-    "description": "اسمه الحقيقي هو شيه شين-دا، وُلد عام 1946 في زويينغ بكاوهسيونغ، كان والده حدادًا ووالدته بائعة خضروات، ترك المدرسة بعد إتمام المرحلة الابتدائية، وفي سن 15 عامًا أصبح تلميذًا لتعلم أوبرا \"كو-أ-هي\". في ستينيات القرن العشرين، بدأ مسيرته بتقليد المغنين في الأسواق الليلية، وفي سبعينيات القرن العشرين، مع انطلاق الاقتصاد التايواني وزيادة الطلب على الترفيه الليلي، نشأت ثقافة \"قاعات العروض\"، حيث مزج الأوبرا التقليدية، وفن القول الشعبي، والعناصر العصرية ليصنع \"فكاهة تشو\"، مستخدمًا اللغة التايوانية في ارتجال القوافي ليجلب لغة العامة إلى برامج الترفيه التلفزيونية. في مايو 2017، توفي بسبب سرطان القولون.",
+    "title": "تشو كو ليانغ (Zhu Ge Liang)",
+    "description": "تشو كو ليانغ (1946–2017، اسمه الأصلي شييه شين دا) ولد في زوينغ، كاوهسيونغ؛ انضم إلى فرقة مسرحية في سن الـ14، واعتلى منصة التقديم في قاعة لابتستون الكبرى في سن الـ31. اشتهر في الثمانينيات عبر أشرطة فيديو \"عرض تشو كو ليانغ في القاعة\"، وعاد للساحة عام 2009 بعد غياب عقد من الزمان، وحصد جائزة \"جين جونغ\" لأفضل مقدم برامج ترفيهية في العام التالي.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/zhuge-liang-showman",
-    "readingTime": 35,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/zhuge-liang-showman.md"
@@ -144065,17 +144111,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ar/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md"
-  },
-  {
-    "title": "تشي مينغ: كيف مول متجر صغير للمأكولات ثورة تايوانية استمرت أربعين عامًا",
-    "description": "تشي مينغ (الاسم الأصلي: شي تشاو هوي) عمل سابقًا في الاستخبارات السرية للحزب الشيوعي الصيني في الصين، لكنه أصيب بخيبة أمل بعد مشاهدته لعمليات القتل خلال إصلاح الأراضي، وعاد إلى تايوان للتخطيط لاغتيال تشيانغ كاي شيك، وفشل وفر إلى اليابان حيث افتتح مطعم \"شين تشن وي\" في إيكيبوكورو بطوكيو، مول من أرباحه حركة استقلال تايوان لأربعين عامًا وألف كتاب \"تاريخ تايوان أربعمائة عام\" الذي أيقظ الوعي القومي التايواني.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/su-beng",
-    "readingTime": 69,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "ar/People/su-beng.md"
   },
   {
     "title": "تشي يو وو (Che-Yu Wu): من لعبة الرخام إلى الجدران البيضاء في البندقية، حارس الوقت الذي يقترب من الروح بالأصفار والواحدات",
@@ -144280,17 +144315,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/bobby-chen-indie-music-pioneer.md"
-  },
-  {
-    "title": "تشين هسينغ-يو: من ابنة الرئيس التي كانت تُلاحق بالأسئلة، إلى الطبيبة تشين في عيادة تاينان",
-    "description": "من مطاردتها من قبل وسائل الإعلام في نيويورك عام 2009، إلى افتتاحها عيادة أسنان في تاينان عام 2016، كيف أعادت تشين هسينغ-يو حياتها إلى مهنة طب الأسنان تحت أنظار عائلة سياسية؟",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/chen-hsing-yu",
-    "readingTime": 57,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ar/People/chen-hsing-yu.md"
   },
   {
     "title": "تشينغ تشاو تون: الرمية الأخيرة في ألعاب الجامعة العالمية 2017 بلغت 91.36 متراً، تغيرت رمي الرمح الآسيوي للأبد",
@@ -146575,6 +146599,17 @@
     "path": "ar/People/ray-youtuber.md"
   },
   {
+    "title": "رايارك للألعاب: إمبراطورية موسيقية تأسست على الجماليات، وشقوقها خلال أربعة عشر عاماً",
+    "description": "في عام 2012، جمع ستة شبان من كلية الهندسة الكهربائية وعلوم الحاسوب في جامعة تايوان الوطنية ثلاثين مليون دولار تايواني جديد وصنعوا \"سايتوس\" (Cytus)، وفي شهر واحد وصلوا للمركز الأول في قوائم 14 دولة. بعد أربعة عشر عاماً، لديهم أنمي \"ديمو\" (Deemo)، وأنمي \"جويباو\" (VOEZ) لم يتم تسليمه خلال إحدى عشرة سنة، ودخلت \"سدوريكا\" (Sdorica) في وضع الصيانة في فبراير 2026، وبعد حدث شفرة مورس لـ \"آيس\" (ICE) في عام 2020، جاء خيار فصل الموظفين للحفاظ على السوق الصينية. الجماليات جعلت رايارك تُرى من قبل العالم، وأوقعتها في كل مجال غير موسيقي.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/technology/rayark-games",
+    "readingTime": 180,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "ar/Technology/rayark-games.md"
+  },
+  {
     "title": "رد كاندل غيمز: قصة تايوانية لا تستطيع تعويذة واحدة إيقافها",
     "description": "في عام 2017، صنع ستة تايوانيين لعبة رعب عن \"الرعب الأبيض\" احتلت صدارة قائمة \"ستيم\" العالمية للمبيعات في أسبوعها الأول. وفي 2019، سُحبت اللعبة الثانية \"الوفاء\" بالكامل من السوق الصينية واختفَت من \"ستيم\" حتى اليوم بسبب تعويذة واحدة. وفي 2024، باع الفريق 800 ألف نسخة من لعبة الأكشن \"الأيام التسعة\" ذات طابع \"التاويست بانك\"، ونالوا جائزة سوني للألعاب المستقلة. قصة رد كاندل هي: فريق مُحظَر، يعود بأعماله.",
     "category": "ar",
@@ -146922,6 +146957,17 @@
     "path": "ar/Nature/formosan-landlocked-salmon.md"
   },
   {
+    "title": "سو بينغ: مطعم زلابية غذّى ثورة تايوان لأربعين عاماً",
+    "description": "سو بينغ، واسمه الأصلي شي تشاو-هوي، عمل كجاسوس للحزب الشيوعي الصيني قبل أن يصاب بخيبة أمل بعد رؤية مجازر الإصلاح الزراعي؛ فخطط لاغتيال تشيانغ كاي شيك ثم هرب إلى اليابان. افتتح مطعماً في إيكيبوكورو بطوكيو، يبيع الزلابية نهاراً ويكتب تاريخ تايوان ليلاً، ممولاً حركة الاستقلال لعقود.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/su-beng",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ar/People/su-beng.md"
+  },
+  {
     "title": "سو تسنغ تشانغ: من محامي الدفاع في قضية فورموزا الجميلة إلى رئيس الوزراء «كرة النار الكهربائية» ذو شعار «انطلق، انطلق، انطلق»",
     "description": "في عام 1979، دافع عن السجناء السياسيين في ظل الأحكام العرفية؛ وفي عام 1997، قلب نتيجة الانتخابات بفضل «الركعة المذهلة» التي قام بها لو شيويي. بقدرة تنفيذية تحمل شعار «انطلق، انطلق، انطلق»، عبر سو تسنغ تشانغ بين بينغتونغ ومقاطعة تايبيه ومجلس الوزراء، فمنع دخول حمى الخنازير الأفريقية إلى البلاد، ونفذ سياسة «تكييف في كل فصل دراسي»، مظهراً قيادة قوية وسط الجدل، ليصبح «كرة النار الكهربائية» الأكثر تمثيلاً في التحول الديمقراطي لتايوان.",
     "category": "ar",
@@ -147019,17 +147065,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ar/People/li-ke-tai-tai.md"
-  },
-  {
-    "title": "سيرنا معاً في الماضي: للمضي قدماً، يجب أن نعرف أولاً كيف وصلنا إلى هنا",
-    "description": "في يوليو 1988، في عشية افتتاح المؤتمر الوطني الثالث عشر للحزب الوطني الصيني (الكومينتانغ)، سمحت إن يون-بينغ ببث وثائقي \"تيان شيا\" المكون من أربع حلقات على تلفزيون تايوان (TTV) لأربعة أيام متتالية. ذهب المصور تشانغ تشاو-تانغ، بناءً على نص مكتوب، للبحث عن أشخاص عاشوا تلك الأربعين عاماً: جي تشنغ التي كانت ابنة بالتبني، والمزارعين المستأجرين الذين كانت تزداد إيجاراتهم سنوياً، وقدامى المحاربين الذين فجروا الطرق في الجبال. منذ تأسيسها، كانت \"تيان شيا\" تسأل كيف وصلت تايوان إلى ما هي عليه اليوم، وكانت إجابة الفيلم تكمن في هؤلاء الأشخاص، ولاحقاً تم إدخال شريط فيديو إلى بكين.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/culture/walking-through-the-past-together",
-    "readingTime": 239,
-    "featured": true,
-    "date": "2026-10-21",
-    "path": "ar/Culture/walking-through-the-past-together.md"
   },
   {
     "title": "سيف السماء في منبع نهر دا آن: أعلى شجرة في شرق آسيا، مختبئة في مكان لم نصل إليه منذ سبعمائة عام",
@@ -147792,12 +147827,12 @@
     "path": "ar/Geography/shilin.md"
   },
   {
-    "title": "شين بو يانغ: درس الحرب المعرفية الصينية، فأظهرته الصين على خريطة الأقمار الصناعية",
-    "description": "في عام 2021، أسس شين بو يانغ مع الاستراتيجي هو تشنغ هوي أكاديمية الدب الأسود، ودعمها تساو شينغ تشنغ بـ 600 مليون، بهدف تدريب ثلاثة ملايين متطوع دفاع مدني في ثلاث سنوات. في فبراير 2024، دخل البرلمان كعضو غير مقسم من الحزب الديمقراطي التقدمي. في 28 أكتوبر 2025، أصبح أول سياسي منتخب تايواني تحقق معه الصين بتهمة \"تقسيم الدولة\"، وبثت محطة سي سي تي في موضوعاً استقصائياً حذر \"أنت التالي\". في يوم رأس السنة 2026، نشرت حسابات صينية على ويبو إحداثيات منزله ومقر عمله في تايبيه باستخدام صور أقمار صناعية تجارية؛ قضى عيد الحب على متن طائرة متجهة إلى فرنسا. في 13 مايو، رشحه الحزب الديمقراطي التقدمي رسمياً لخوض انتخابات عمدة تايبيه، المدينة نفسها التي حددت الخريطة الفضائية إحداثياتها.",
+    "title": "شين بو يانغ: باحث في الحرب المعرفية الصينية، لاحقًا كشفت الصين إحداثيات منزله ومكتبه عبر صور أقمار صناعية تجارية",
+    "description": "في عام 2021، أسس شين بو يانغ مع الخبير الاستراتيجي هي تشينغ-هوي \"أكاديمية الدب الأسود\"، بدعم تبرع قدره 600 مليون دولار تايواني جديد من تساو شينغ-تشنغ، بهدف تدريب ثلاثة ملايين متطوع في الدفاع المدني خلال ثلاث سنوات. في فبراير 2024، دخل البرلمان كنائب عن القائمة الوطنية للحزب الديمقراطي التقدمي. في 28 أكتوبر 2025، أصبح أول شخصية سياسية منتخبة في تايوان تُفتح ضدها تحقيق رسمي من قبل الصين بتهمة \"تقسيم الدولة\"، حيث بث التلفزيون المركزي الصيني (سي سي تي في) تقريرًا \"يكشف هويته\" محذرًا \"الدور القادم عليك\". في أول يناير 2026، نشرت حسابات على ويبو الصينية إحداثيات منزله ومكتبه في تايبيه باستخدام صور أقمار صناعية تجارية؛ وقضى عيد الحب على متن طائرة متجهة إلى فرنسا. في 13 مايو، رشح الحزب الديمقراطي التقدمي رسميًا شين بو يانغ لخوض انتخابات عمدة تايبيه، المدينة نفسها التي حددت إحداثياتها على صور الأقمار الصناعية.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/puma-shen",
-    "readingTime": 200,
+    "readingTime": 207,
     "featured": false,
     "date": "2026-04-28",
     "path": "ar/People/puma-shen.md"
@@ -148434,11 +148469,11 @@
   },
   {
     "title": "غوي لون مي (Gui Lun-mei)",
-    "description": "ولدت عام 1983 في قرية عسكرية بتايبيه، اكتشفها مساعد مخرج إي تشي يان في الحرم الجامعي عام 2002، وبدأت مسيرتها الفنية بدور \"منغ كرو رُو\" في فيلم \"البوابة الزرقاء\"، لتفتح طريقها كممثلة بأداء طبيعي ونقي؛ ومن \"السر الذي لا يمكن قوله\" إلى ضيفة دائمة في المهرجانات الدولية، تظل رغم ابتعادها عن الأضواء واحدة من أكثر الممثلات تمثيلاً للأفلام الفنية في المشهد السينمائي التايواني بفضل أدائها الراسخ وطابعها الثقافي.",
+    "description": "ولدت عام 1983، تخرجت من قسم الأدب الفرنسي بجامعة تانغ جيانغ، بدأت مسيرتها عام 2002 بفيلم \"The Blue Gate Crossing\"؛ نالت شهرة واسعة عام 2007 بفيلم \"Secret\"، وفازت بجائزة أفضل ممثلة في جوائز غولدن هورس (Golden Horse Awards) ومهرجان آسيا والمحيط الهادئ السينمائي عام 2012 عن فيلم \"Girlfriend, Boyfriend\"، كما شاركت في مهرجانات دولية عبر أفلام مثل \"Black Coal, Thin Ice\"، وتُعد ممثلة بارزة للأفلام الفنية في تايوان.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 36,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -149812,12 +149847,12 @@
     "path": "ar/Art/lin-ching-yao-artist.md"
   },
   {
-    "title": "لين تشينغ-شيا (Lin Ching-hsia)",
-    "description": "ولدت عام 1954 في قرية عسكرية بتايبيه، اكتشفها المخرج سونغ تسيون-شو في شيميندينج عام 1972 لتلعب دور البطولة في فيلم \"خارج النافذة\" المقتبس عن رواية تشيونغ ياو، لتصبح بجمالها النقي أيقونة أفلام تشيونغ ياو. شكلت مع تشين هان وتشين شيانغ-لين ثنائيات سينمائية كلاسيكية اجتاحت العالم الناطق بالصينية، وأصبحت تسريحات شعرها وأزياؤها رموزًا للموضة؛ وفي عام 1992، أعادت كتابة تاريخ أفلام \"الووشيا\" (Wuxia) بشخصية \"دونغ فانغ بو باي\" المتطايرة بالثوب الأحمر، لتجمع بين عصر السينما الأدبية وعصر أفلام الفنون القتالية.",
+    "title": "لين تشينغ-شيا",
+    "description": "ولدت في عام 1954 ونشأت في قرية عسكرية، اكتشفها كشاف المواهب يانغ تشي في سيميندينغ عام 1972. وبعد تجربة أداء بناءً على توصية، تم اختيارها لتلعب دور البطولة في فيلم \"خارج النافذة\" المقتبس عن رواية تشونغ ياو، لتصبح بملامحها النقية أيقونة عصر أفلام تشونغ ياو. شكلت مع تشين هان وتشين شيانغ لين ثنائيات سينمائية كلاسيكية اجتاحت العالم الناطق بالصينية، وأصبحت تسريحات شعرها وملابسها مؤشرات للموضة. وفي عام 1992، كتبت فصلاً جديداً في تاريخ أفلام الفنون القتالية بدور \"دونغ فانغ بو باي\" المتطاير بالثوب الأحمر، لتجمع بذلك بين عصر السينما الأدبية وعصر أفلام الفنون القتالية.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/brigitte-lin-legendary-actress",
-    "readingTime": 40,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/brigitte-lin-legendary-actress.md"
@@ -153764,6 +153799,17 @@
     "path": "hi/Geography/keelung-city.md"
   },
   {
+    "title": "कुई लुन-मेई (Gui Lunmei)",
+    "description": "1983 में जन्मी, ताइपे के दानजियांग विश्वविद्यालय से फ्रेंच साहित्य में स्नातक; 2002 में 'ब्लू डोर' (Blue Gate Crossing) से डेब्यू; 2007 की फिल्म 'सीक्रेट' (Secret) ने उन्हें प्रसिद्ध बनाया; 2012 में 'गर्लफ्रेंड/बॉयफ्रेंड' के लिए गोल्डन हॉर्स और एशिया-पैसिफिक फिल्म फेस्टिवल में सर्वश्रेष्ठ अभिनेत्री का पुरस्कार जीता।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/gwei-lun-mei-versatile-taiwanese-actress",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/gwei-lun-mei-versatile-taiwanese-actress.md"
+  },
+  {
     "title": "कुओ चेंग-कुआंग",
     "description": "वह नासा के ह्यूस्टन जॉनसन स्पेस सेंटर के वरिष्ठ वैज्ञानिक हैं, जो अंतरिक्ष यात्रियों के खान-पान पर शोध करते हैं; लेकिन गृहनगर ताइवान की फाइलों में उन्हें कभी \"आतंकवादी\" काली सूची में डाला गया था।",
     "category": "hi",
@@ -153957,17 +154003,6 @@
     "featured": false,
     "date": "2026-03-30",
     "path": "hi/Art/qseries-drama-platform.md"
-  },
-  {
-    "title": "क्वेई लुन-मेई",
-    "description": "1983 में ताइपे के सैन्य आश्रित गांव में जन्मी, 2002 में परिसर में निर्देशक यी चिह-येन के सहायक निर्देशक द्वारा खोजी गई, 《ब्लू गेट》 की मेंग के-रोउ के रूप में डेब्यू किया, सबसे स्वाभाविक और शुद्ध अभिनय से अभिनेता की राह खोली; 《सीक्रेट》 से अंतरराष्ट्रीय फिल्म समारोहों की नियमित अतिथि बनीं, भले ही लो-प्रोफाइल रहीं, फिर भी ठोस अभिनय और साहित्यिक गुणवत्ता के बल पर ताइवान फिल्म जगत की सबसे प्रतिनिधि साहित्यिक फिल्म अभिनेत्रियों में से एक बनीं।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "hi/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "ख़ज़ाना पहाड़ी: 30 साल तक तोड़ी जाती रही अवैध बस्ती, आख़िर में बनी ताइपे का सबसे कूल आर्ट विलेज",
@@ -155551,18 +155586,18 @@
     "path": "hi/Culture/zhuyin-phonetic-symbols.md"
   },
   {
-    "title": "झू गे लियांग",
-    "description": "उनका असली नाम झिए शिन-दा था, जिनका जन्म 1946 में काऊशुंग के ज़ुओयिंग में हुआ था। उनके पिता लोहार थे और माँ सब्ज़ियाँ बेचती थीं। प्राथमिक विद्यालय के बाद उन्होंने पढ़ाई छोड़ दी और 15 वर्ष की आयु में गेज़ी ओपेरा सीखने के लिए गुरु के पास चले गए। 1960 के दशक में उन्होंने नाइट मार्केट में गायकों की नकल करके प्रसिद्धि प्राप्त की। 1970 के दशक में जब ताइवान की अर्थव्यवस्था तेजी से बढ़ी और रात के मनोरंजन की मांग बढ़ी, तब शो कल्चर का उदय हुआ। उन्होंने पारंपरिक ओपेरा, लोक कथाओं और लोकप्रिय तत्वों को मिलाकर \"झू-शैली का हास्य\" विकसित किया, और ताइवानी भाषा में तात्कालिक तुकबंदी के माध्यम से आम बोलचाल की भाषा को टेलीविजन वैराइटी शो तक पहुँचाया। मई 2017 में, कोलोरेक्टल कैंसर के कारण उनका निधन हो गया।",
+    "title": "झू गे लियांग (Zhu Ge Liang)",
+    "description": "झू गे लियांग (1946–2017, मूल नाम झिए शिन-दा) काउशुंग के ज़ुओयिंग में जन्म हुआ; 14 वर्ष की आयु में एक नए थिएटर ग्रुप में शामिल हुए, 31 वर्ष की आयु में लैपिस लाज़ुली (Sapphire) ग्रैंड कॉन्सर्ट हॉल के मंच पर पहुंचे, और 1980 के दशक में \"झू गे लियांग कॉन्सर्ट शो\" वीडियो टेप के माध्यम से पूरे ताइवान में प्रसिद्ध हुए। 1993 में जुए के कर्ज के कारण वे गायब हो गए और दस साल तक गुमनाम रहे, फिर 2009 में \"विदेश में उच्च शिक्षा लेने\" के एक संवाद के साथ वापसी की, अगले वर्ष गोल्डन बेल अवार्ड्स में सर्वश्रेष्ठ वैरायटी शो होस्ट का पुरस्कार जीता, और अपने अंतिम वर्षों में हर चंद्र नव वर्ष (स्प्रिंग फेस्टिवल) पर नए साल की फिल्में पेश कीं।",
     "category": "hi",
     "tags": [
       "झू गे लियांग",
-      "शो कल्चर",
+      "शो थिएटर",
       "कॉमेडी",
-      "वैराइटी शो",
+      "वैरायटी शो",
       "ताइवानी भाषा"
     ],
     "url": "https://taiwan.md/hi/people/zhuge-liang-showman",
-    "readingTime": 38,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/zhuge-liang-showman.md"
@@ -157684,7 +157719,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/culture/taiwanese-sensibility",
-    "readingTime": 162,
+    "readingTime": 165,
     "featured": true,
     "date": "2026-04-08",
     "path": "hi/Culture/taiwanese-sensibility.md"
@@ -160834,7 +160869,7 @@
       "संस्कृति"
     ],
     "url": "https://taiwan.md/hi/lifestyle/tour-bus",
-    "readingTime": 76,
+    "readingTime": 77,
     "featured": false,
     "date": "2026-05-02",
     "path": "hi/Lifestyle/tour-bus.md"
@@ -162901,12 +162936,12 @@
     "path": "hi/Technology/red-candle-games.md"
   },
   {
-    "title": "रेया गेम्स: सौंदर्यशास्त्र पर खड़ा संगीत साम्राज्य और उसका चौदह साल का विभाजन",
-    "description": "2012 में, ताइवान नेशनल यूनिवर्सिटी के इलेक्ट्रॉनिक्स विभाग के छह युवाओं ने तीस मिलियन युआन खर्च करके 'साइटस' बनाया, जिसने एक महीने में 14 देशों की रैंकिंग में पहला स्थान हासिल किया। चौदह साल बाद, उनके पास डीमो एनिमेशन, अपूर्ण जूबाओ एनिमेशन (ग्यारह साल से), एसडीोरिका जो फरवरी 2026 में रखरखाव मोड में प्रवेश कर रहा है, और 2020 के आईसीई मॉर्स कोड घटना के बाद चीनी बाजार को बनाए रखने के लिए कर्मचारियों को अलग करने का विकल्प था। सौंदर्यशास्त्र ने रेया को दुनिया के सामने ला दिया, लेकिन इसे संगीत के अलावा हर क्षेत्र में विफल भी कर दिया।",
+    "title": "रेयार्क गेम्स: सौंदर्यबोध पर खड़ा संगीत-साम्राज्य और उसकी चौदह साल की दरारें",
+    "description": "2012 में ताइवान विश्वविद्यालय के विद्युत-इंजीनियरिंग और कंप्यूटर विज्ञान कॉलेज के छह युवाओं ने तीन करोड़ ताइवान डॉलर जुटाकर Cytus बनाया, जो एक महीने में 14 देशों की रैंकिंग में पहले स्थान पर पहुँचा। चौदह साल बाद उनके खाते में Deemo की एनिमेशन फ़िल्म है, ग्यारह साल से अधूरी Implosion एनिमेशन है, फ़रवरी 2026 में रखरखाव मोड में गया Sdorica है, और 2020 की ICE मोर्स कोड घटना के बाद कर्मचारी से नाता तोड़कर चीनी बाज़ार बचाने का फ़ैसला है। सौंदर्यबोध ने रेयार्क को दुनिया की नज़र में लाया, और वही संगीत से बाहर के हर मैदान में उसके लड़खड़ाने की वजह भी बना।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/technology/rayark-games",
-    "readingTime": 184,
+    "readingTime": 181,
     "featured": false,
     "date": "2026-05-25",
     "path": "hi/Technology/rayark-games.md"
@@ -163066,6 +163101,17 @@
     "path": "hi/Geography/lin-an-tai-historical-house.md"
   },
   {
+    "title": "लिन किंग-शिया",
+    "description": "1954 में जन्मी और सैन्य समुदायों (जुआनकुन) में पली-बढ़ी लिन किंग-शिया से 1972 में सिएमेनडिंग में स्काउट यांग क्यूई मिले। सिफारिश के बाद ऑडिशन देने पर उन्हें चोंग याओ के मूल उपन्यास पर आधारित फिल्म 'विंडो' में मुख्य भूमिका के लिए चुना गया। अपनी मासूम छवि के साथ, वह चोंग याओ के सिनेमाई युग की देवी बनीं और किन हान तथा किन शियांग-लिन के साथ मिलकर पूरे चीनी भाषी जगत में प्रसिद्ध क्लासिक ऑन-स्क्रीन जोड़ी बनीं, जिनके हेयरस्टाइल और पहनावे फैशन के मानक बन गए। 1992 में, उन्होंने लाल कपड़ों में उड़ते हुए 'डोंगफैंग बुबाई' की भूमिका निभाकर मार्शल आर्ट्स सिनेमा में एक कालजयी प्रदर्शन दिया, जिससे उन्होंने कलात्मक और मार्शल आर्ट्स दोनों युगों पर अपना प्रभाव छोड़ा।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/brigitte-lin-legendary-actress",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/brigitte-lin-legendary-actress.md"
+  },
+  {
     "title": "लिन क्यांग: \"शियांग कियान ज़ोउ\" के प्लेटफॉर्म से \"सि के नी यिन न्यांग\" के कान्स तक, ताइवानी रॉक विद्रोही के तीस साल",
     "description": "7 दिसंबर 1990 को, 26 वर्षीय चांगहुआ निवासी लिन झीफेंग ने \"शियांग कियान ज़ोउ\" के साथ ताइवानी गीत को शोकपूर्ण धुन से रॉक में बदल दिया; तीन साल बाद उन्होंने लगभग गाना बंद कर दिया। \"नान गुओ ज़ाई जियान, नान गुओ\" से \"सि के नी यिन न्यांग\" तक, चार गोल्डन हॉर्स पुरस्कार, कान्स फिल्म फेस्टिवल बेस्ट साउंडट्रैक अवार्ड, 2018 राष्ट्रीय कला पुरस्कार — उन्होंने तीस वर्षों में अपनी सुपरस्टार पहचान को मोड़कर, होउ श्याओशेन और जिया झांगके के पीछे सिंथेसाइज़र बजाने वाले व्यक्ति बन गए।",
     "category": "hi",
@@ -163092,17 +163138,6 @@
     "featured": false,
     "date": "2026-07-10",
     "path": "hi/People/freddy-lim.md"
-  },
-  {
-    "title": "लिन चिंग-श्या (Lin Ching-hsia)",
-    "description": "1954 में ताइपे के एक सैन्य बस्ती (juancun) में जन्मीं, उन्होंने 1972 में निर्देशक सोंग सुन-शौ (Song Cun-shou) द्वारा 'चुआंग वै' (Chuang Wai) में मुख्य भूमिका के लिए चुने जाने के बाद पहचान बनाई। अपनी मासूम छवि के साथ वे च्योंग याओ (Qiong Yao) की फिल्मों के युग की देवी बनीं और किन हान (Chin Han) तथा किन श्यांग-लिन (Chin Hsiang-lin) के साथ मिलकर पूरे चीनी भाषी जगत में प्रसिद्ध क्लासिक ऑन-स्क्रीन जोड़ी बनीं। उनके हेयरस्टाइल और पहनावे फैशन के मानक बन गए; 1992 में उन्होंने 'डोंग फांग बु बाई' (Dongfang Bubai) की भूमिका निभाकर मार्शल आर्ट्स सिनेमा में एक नया मील का पत्थर स्थापित किया, जो कलात्मक और मार्शल आर्ट्स दोनों युगों को जोड़ता है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/brigitte-lin-legendary-actress",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "hi/People/brigitte-lin-legendary-actress.md"
   },
   {
     "title": "लिन ची-वेई: अंतरराष्ट्रीय पुरस्कार विजेता भौतिक बोर्ड गेम ब्रांड से 2 लाख रचनाकारों के सॉफ्टवेयर प्लेटफॉर्म तक",
@@ -164325,6 +164360,17 @@
     "path": "hi/People/shih-ming-te.md"
   },
   {
+    "title": "शी मिंग: एक डंपलिंग दुकान, जिसने चालीस वर्षों तक ताइवान की क्रांति को जीवित रखा",
+    "description": "शी मिंग का असली नाम शी चाओ-हुई था; उन्होंने कभी चीन में कम्युनिस्ट पार्टी के लिए गुप्तचर के रूप में काम किया, लेकिन भूमि सुधार के दौरान हुए नरसंहार को देखकर उनका मोहभंग हो गया। वे ताइवान लौटकर चियांग काई-शेक की हत्या की साजिश रचने और पकड़े जाने पर जापान भागने के लिए जाने जाते हैं। उन्होंने टोक्यो के इकेबुकुरो में \"शिन झेनवेई\" नामक एक नूडल शॉप खोली, जहाँ दिन में डंपलिंग बेचकर और रात में ताइवान का इतिहास लिखकर उन्होंने चालीस वर्षों तक स्वतंत्रता आंदोलन को वित्तपोषित किया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/su-beng",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "hi/People/su-beng.md"
+  },
+  {
     "title": "शी मुरोंग",
     "description": "《सात मील की सुगंध》《बिना पछतावे की जवानी》 के लेखक, चीनी कविता जगत के सबसे ज्यादा बिकने वाले कवि, मंगोलियाई",
     "category": "hi",
@@ -164435,12 +164481,12 @@
     "path": "hi/People/shen-pao-chen.md"
   },
   {
-    "title": "शेन बोयांग: उन्होंने चीन के संज्ञानात्मक युद्ध का अध्ययन किया, फिर चीन ने उन्हें उपग्रह मानचित्र पर खींचा",
-    "description": "2021 में शेन बोयांग ने रणनीति विद्वान हे चेंगहुई के साथ मिलकर ब्लैक बियर अकादमी की स्थापना की, जिसे त्साओ शिंगचेंग ने 600 मिलियन से समर्थित किया, लक्ष्य तीन वर्षों में 3 मिलियन नागरिक रक्षा कार्यकर्ताओं को प्रशिक्षित करना था। फरवरी 2024 में वे डेमोक्रेटिक प्रोग्रेसिव पार्टी के गैर-क्षेत्रीय सांसद के रूप में संसद में प्रवेश किए। 28 अक्टूबर 2025 को वे पहले ताइवानी निर्वाचित राजनेता बने जिन पर चीन ने 'राष्ट्र विभाजन के अपराध' के तहत जांच दर्ज की, और सीसीटीवी ने 'पर्दाफाश' विशेष कार्यक्रम के साथ चेतावनी दी 'अगला तुम हो'। 1 जनवरी 2026 को चीन के माइक्रोब्लॉग खाते ने वाणिज्यिक उपग्रह का उपयोग करके ताइपे में उनके आवास और कार्य स्थान के निर्देशांक प्रकाशित किए; वेलेंटाइन डे पर वे फ्रांस की ओर जाने वाले विमान में थे। 13 मई को डेमोक्रेटिक प्रोग्रेसिव पार्टी ने औपचारिक रूप से उन्हें ताइपे के मेयर के चुनाव के लिए नामांकित किया, जो उसी शहर के लिए था जिसके निर्देशांक उपग्रह मानचित्र पर चिह्नित किए गए थे।",
+    "title": "शेन बो-यांग: उन्होंने चीन के संज्ञानात्मक युद्ध पर शोध किया, जिसके बाद चीन ने उन्हें उपग्रह मानचित्र पर चिह्नित कर दिया",
+    "description": "2021 में, शेन बो-यांग ने रणनीतिक विद्वान हे चेंग-हुई के साथ मिलकर ब्लैक बेयर अकादमी (Black Bear Academy) की सह-स्थापना की, जिसे त्साओ हिंग-चेंग द्वारा NT$600 मिलियन का समर्थन प्राप्त हुआ, जिसका लक्ष्य तीन वर्षों में 3 मिलियन नागरिक रक्षा स्वयंसेवकों को प्रशिक्षित करना था। फरवरी 2024 में, वे डेमोक्रेटिक प्रोग्रेसिव पार्टी (DPP) के गैर-निर्वाचित विधायक के रूप में संसद में शामिल हुए। 28 अक्टूबर 2025 को, वह \"राज्य विभाजन के अपराध\" के तहत चीन द्वारा जांच के घेरे में आने वाले पहले ताइवानी निर्वाचित राजनेता बने, जहाँ CCTV ने \"अगला नंबर आपका है\" की चेतावनी देते हुए एक विशेष \"पर्दाफाश\" कार्यक्रम प्रसारित किया। 1 जनवरी 2026 को, एक चीनी वीबो खाते ने वाणिज्यिक उपग्रहों का उपयोग करके ताइपे में उनके घर और कार्यस्थल के निर्देशांक सार्वजनिक कर दिए; उन्होंने वेलेंटाइन डे फ्रांस जाने वाली उड़ान में बिताया। 13 मई को, DPP ने आधिकारिक तौर पर उन्हें ताइपे मेयर के चुनाव के लिए नामांकित किया, और वे उसी शहर का चुनाव करने जा रहे हैं जिसे उपग्रह मानचित्र पर चिह्नित किया गया था।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/puma-shen",
-    "readingTime": 221,
+    "readingTime": 231,
     "featured": false,
     "date": "2026-04-28",
     "path": "hi/People/puma-shen.md"
@@ -164955,17 +165001,6 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "hi/History/xiluo-bridge.md"
-  },
-  {
-    "title": "सु बेंग: एक पकौड़े की दुकान से, चालीस साल तक ताइवान की क्रांति को पाला",
-    "description": "सु बेंग का मूल नाम शिह चाओ-हुई था, उन्होंने चीन में चीनी कम्युनिस्ट पार्टी के लिए गुप्त सूचना का काम किया, लेकिन भूमि सुधार के नरसंहार को अपनी आँखों से देखने के बाद मोहभंग हुआ, ताइवान लौटकर चियांग काई-शेक की हत्या की साजिश रची, असफल होने पर जापान भाग गए। उन्होंने टोक्यो के इकेबुकुरो में \"शिन चुन वेई\" नामक एक नूडल की दुकान खोली, दिन में पकौड़े बेचते और रात में ताइवान का इतिहास लिखते, इस दुकान की आय से चालीस साल तक ताइवान स्वतंत्रता आंदोलन को चलाया, और ताइवान की जातीय चेतना जगाने वाली 《ताइवान का चार सौ साल का इतिहास》 लिखी।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/su-beng",
-    "readingTime": 80,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "hi/People/su-beng.md"
   },
   {
     "title": "सुओ ठंडा झरना",
@@ -165886,23 +165921,6 @@
     "path": "ko/Economy/economic-miracle.md"
   },
   {
-    "title": "계륜매(桂綸鎂)",
-    "description": "1983년 타이베이 권촌에서 태어난 그녀는 2002년 이지언 감독의 부감독에 의해 발굴되어 《블루 도어》의 멍커러우 역으로 데뷔하며 가장 자연스럽고 순수한 연기로 배우의 길을 열었다. 《비밀》부터 국제 영화제의 단골 손님에 이르기까지, 저조한 활동 중에도 탄탄한 연기력과 문예적 기질로 타이완 영화계에서 가장 대표적인 예술 영화 여배우 중 한 명으로 자리매김했다.",
-    "category": "ko",
-    "tags": [
-      "계륜매",
-      "배우",
-      "비밀",
-      "국제 영화제",
-      "연기파"
-    ],
-    "url": "https://taiwan.md/ko/people/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/gwei-lun-mei-versatile-taiwanese-actress.md"
-  },
-  {
     "title": "계린롄: 천수만 계열 상장에서 한국옥 제명을 요구한 부주석까지",
     "description": "2026년 4월 29일 오후, 국민당 중상회. 78세의 부주석 계린롄은 매체 렌즈 앞에서 이렇게 말했다: \"죽어도 국옥 형이 당을 팔아 영예를 구하는 일을 할 거라고는 믿지 않겠습니다. 만약 그런 일이 있다면 황푸흥이 반드시 분연히 일어나 대의멸친을 행하고, 국옥 형의 당적을 제명할 것을 건의합니다.\" 이 말에 천수만이 나와서 \"그가 이렇게 변한 줄 몰랐다\"고 한탄했다. 20년 전 그를 승진시켜 이급 상장으로 올려준 사람이 바로 아扁(천수만)이었기 때문이다.",
     "category": "ko",
@@ -166204,6 +166222,23 @@
     "featured": false,
     "date": "2026-08-17",
     "path": "ko/People/froggy-chiu.md"
+  },
+  {
+    "title": "구이룬메이(桂綸鎂)",
+    "description": "1983년생, 단장대학교 프랑스어문학과 졸업. 2002년 이즈옌 감독의 《블루 게이트》로 데뷔하였으며, 2007년 《청설》을 통해 대중에게 이름을 알렸다. 2012년 《여자친구·남자친구》로 금마장과 아시아 태평양 영화제 여우주연상을 수상했으며, 《백일염화》 등의 작품으로 국제 영화제에 진출한 타이완 영화계의 대표적인 예술 영화 배우이다.",
+    "category": "ko",
+    "tags": [
+      "구이룬메이",
+      "배우",
+      "청설",
+      "국제 영화제",
+      "연기파"
+    ],
+    "url": "https://taiwan.md/ko/people/gwei-lun-mei-versatile-taiwanese-actress",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
     "title": "구이산다오: 이란 사람들이 날마다 바라보는 집의 방향, 섬사람들은 돌아갈 수 없는 집",
@@ -167250,12 +167285,12 @@
     "path": "ko/Art/taiwanese-theater-and-performing-arts.md"
   },
   {
-    "title": "대만 기업: TSMC (대만 반도체 제조사)",
-    "description": "54세에 텍사스인스트루먼츠를 떠나 56세에 TSMC를 창업한 모리스 창은 지난 18년간 세 번의 피란을 겪고 여섯 도시를 전전했다. 38년 후인 2025년 3월 3일, 미국 대통령 트럼프는 백악관에서 모리스 창의 후계자 웨이저자를 가리키며 말했다: \"그는 이 방에서 가장 중요한 사람입니다.\" 2026년 1분기 TSMC의 단분기 매출은 359억 달러. 태풍이 잦고 물과 전기가 부족한 섬에 세워진, 전 인류 디지털 문명의 심장――그러나 이 심장이 커질수록 이 섬이 그 대가를 감당할 수 있을지는 점점 더 불분명해진다.",
+    "title": "대만 기업: TSMC",
+    "description": "54세에 텍사스 인스트루먼트를 떠나 56세에 TSMC를 설립한 장중머우는 초기 18년 동안 세 번의 위기를 넘기고 여섯 개의 도시를 거쳤다. 38년 후인 2025년 3월 3일, 미국 대통령 트럼프는 백악관에서 장중머우의 후계자인 웨이저자(魏哲家)를 가리키며 \"그가 이 방에서 가장 중요한 사람입니다\"라고 말했다. 2026년 1분기 TSMC의 분기 매출은 359억 달러에 달한다. 태풍이 빈번하고 물과 전기가 부족한 섬에서 인류 디지털 문명의 심장을 만들어냈지만, 이 심장이 커질수록 이 섬이 그 대가를 감당할 수 있을지는 오히려 더욱 불투명해지고 있다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/economy/tsmc",
-    "readingTime": 63,
+    "readingTime": 79,
     "featured": true,
     "date": "2026-05-09",
     "path": "ko/Economy/tsmc.md"
@@ -169458,12 +169493,12 @@
     "path": "ko/People/ray-youtuber.md"
   },
   {
-    "title": "레이아 게임즈: 미학으로 세운 음악 제국과 그 14년의 균열",
-    "description": "2012년 타이완대 전기정보학원 출신 젊은이 여섯 명은 3,000만 대만달러를 모아 《Cytus》를 만들었고, 한 달 만에 14개국 순위 1위에 올랐다. 14년 뒤 그들에게는 Deemo 애니메이션, 11년째 미인도 상태인 Implosion 애니메이션, 2026년 2월 유지보수 모드에 들어간 Sdorica, 2020년 ICE 모스 부호 사건 이후 중국 시장을 지키기 위해 직원을 절연한 선택이 남았다. 미학은 레이아를 세계에 보이게 했지만, 또한 그들이 음악이 아닌 모든 장에서 넘어지게 했다.",
+    "title": "레이아크 게임즈: 미학으로 나라를 세운 음악 제국, 그리고 그 14년의 균열",
+    "description": "2012년 대만대 전기정보학원 출신 여섯 젊은이가 NT$3,000만을 모아 《사이터스》를 만들었고, 한 달 만에 14개국 차트 1위에 올랐다. 14년 후 그들은 《디모》 애니메이션, 《임플로전》 애니메이션 11년 미완성, 《스도리카》 2026년 2월 유지보수 모드 진입, 2020년 아이스 모스부호 사건 이후 직원을 해고하고 중국 시장을 지키는 선택을 했다. 미학은 레이아크를 세계에 알렸지만, 동시에 음악이 아닌 모든 영역에서 넘어지게 만들었다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/technology/rayark-games",
-    "readingTime": 114,
+    "readingTime": 108,
     "featured": false,
     "date": "2026-05-25",
     "path": "ko/Technology/rayark-games.md"
@@ -170082,23 +170117,6 @@
     "featured": false,
     "date": "2026-06-17",
     "path": "ko/People/lin-chi-wei-social-innovator.md"
-  },
-  {
-    "title": "린칭샤(林青霞)",
-    "description": "1954년 타이베이(台北) 군인 마을(眷村)에서 태어난 그녀는 1972년 시먼딩(西門町)에서 감독 쑨춘서우(宋存壽)에게 발탁돼 충야오(瓊瑤) 원작 《창밖(窗外)》의 주연을 맡아 청순한 외모로 충야오 영화 시대의 여신이 됐고, 친한(秦漢)·친샹린(秦祥林)과 함께 중화권 전체를 휩쓴 고전적 스크린 커플을 이뤘으며, 헤어스타일과 의상이 패션 지표가 됐다. 1992년에는 붉은 옷을 휘날리는 동방불패(東方不敗) 역으로 무협 스크린의 고전을 새로 썼으며, 문예와 무협 두 시대를 아우른다.",
-    "category": "ko",
-    "tags": [
-      "린칭샤",
-      "배우",
-      "충야오 영화",
-      "동방불패",
-      "중화권 영화"
-    ],
-    "url": "https://taiwan.md/ko/people/brigitte-lin-legendary-actress",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/brigitte-lin-legendary-actress.md"
   },
   {
     "title": "린커우 신진(林口新市鎮): 「유령 도시」에서 타이북부 신흥 도시로의 변신과 도전",
@@ -171435,12 +171453,12 @@
     "path": "ko/Politics/election-bulletin-system.md"
   },
   {
-    "title": "선보양: 그는 중국의 인지전을 연구했고, 나중에 중국은 그를 위성 지도 위에 그려 넣었다",
-    "description": "2021년 선보양은 전략학자 허청후이와 함께 흑곰학원을 공동 창립했고, 차오싱청은 6억 신타이완달러를 기부해 지원했으며, 목표는 3년 안에 민방위 지원자 300만 명을 훈련하는 것이었다. 2024년 2월 민주진보당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일, 그는 중국이 「국가분열죄」로 입건 수사한 최초의 타이완 민선 정치인이 되었고, CCTV는 「신상 털기」 특집을 붙여 「다음은 바로 너다」라고 경고했다. 2026년 새해 첫날 중국 웨이보 계정은 상업용 위성으로 타이베이에 있는 그의 자택과 근무지 좌표를 공개했다; 그는 밸런타인데이를 프랑스로 향하는 비행기 안에서 보냈다. 5월 13일 민주진보당은 그를 타이베이 시장 후보로 공식 공천했는데, 그가 출마하려는 곳은 바로 위성 지도에 좌표가 표시된 그 도시였다.",
+    "title": "선보양: 중국의 인지전을 연구하던 그를, 이후 중국이 위성 지도에 표시했다",
+    "description": "2021년 선보양은 전략 학자 허청후이와 함께 블랙베어 아카데미(Black Bear Academy)를 공동 설립했으며, 차오싱청으로부터 NT$6억을 지원받아 3년 내 300만 명의 민방위 자원봉사자를 양성하는 것을 목표로 삼았다. 2024년 2월에는 민진당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일, 그는 중국에 의해 '국가 분열죄'로 수사 대상이 된 최초의 대만 민선 정치인이 되었으며, CCTV는 '정체 폭로' 특집을 통해 '다음은 당신 차례'라며 경고했다. 2026년元旦(원단), 중국 웨이보 계정은 상업용 위성을 이용해 타이베이에 있는 그의 자택과 직장 좌표를 공개했고, 그는 발렌타인데이를 프랑스로 향하는 비행기 안에서 보냈다. 5월 13일 민진당은 그를 타이베이 시장 선거 후보로 공식 공천했으며, 그가 출마하려는 곳은 바로 위성 지도에 좌표가 표시되었던 그 도시였다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/puma-shen",
-    "readingTime": 109,
+    "readingTime": 120,
     "featured": false,
     "date": "2026-04-28",
     "path": "ko/People/puma-shen.md"
@@ -171730,17 +171748,6 @@
     "path": "ko/Food/shulin-red-yeast-rice.md"
   },
   {
-    "title": "수벙: 한 개의 만두 가게로 40년간 타이완 혁명을 양육하다",
-    "description": "수벙(본명 시초회)은 중국에서 중공을 위한 지하 정보원을 했으나 토지 개혁 살육을 직접 목격하고 환멸을 느껴 타이완으로 돌아와 장제스를 암살하려다 실패하고 일본으로 밀입국했다. 그는 도쿄 이케부쿠로에 '신진미'라는 면가게를 열어 낮에는 만두를 팔고 밤에는 타이완 역사를 기록했으며, 이 가게 수입으로 40년간 타이완 독립운동을 지원하고 타이완인 400년사라는 타이완 민족 의식을 일깨우는 저서를 집필했다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/people/su-beng",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "ko/People/su-beng.md"
-  },
-  {
     "title": "수정창: 미리섬 변호사에서 「총총총」의 전구체 거까지",
     "description": "1979년, 그는 계엄의 그림자 아래에서 정치범을 변호했다. 1997년, 그는 루슈이(盧修一)의 「경천일퇴(驚天一跪)」에 힘입어 역전 승리를 거두었다. 수정창은 「총총총」의 실행력으로 핑둥(屏東), 타이베이현(台北縣)과 행정원을 종횡하며, 아프리카 돼지열병 차반에서 「반반유냉기(班班有冷氣)」까지, 논란 속에서 강경한 리더십을 보여주며 타이완 민주 전환기에 가장 대표적인 「전화구(電火球)」가 되었다.",
     "category": "ko",
@@ -171789,6 +171796,17 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "ko/Geography/shilin.md"
+  },
+  {
+    "title": "스밍: 한 개의 만두 가게로 40년간 타이완 혁명을 부양하다",
+    "description": "스밍(본명 스차오후이, 施朝暉)은 중국에서 중공 지하 정보원으로 활동했으나 토지개혁 학살을 목격한 후 환멸을 느껴 귀국해 장제스 암살을 모의했다가 실패하고 일본으로 밀항했다. 도쿄 이케부쿠로에서 '신진미(新珍味)'라는 면 가게를 열어 낮에는 만두를 팔고 밤에는 타이완사를 집필하며, 이 가게 수익으로 40년간 타이완 독립운동을 뒷받침했고 타이완 민족의식을 일깨운 《타이완인 400년사》를 저술했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/su-beng",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/People/su-beng.md"
   },
   {
     "title": "스밍더: 25년의 옥고, 끝내 자신의 정당을 향해 깃발을 들다",
@@ -172563,12 +172581,12 @@
     "path": "ko/People/yang-wei-cher.md"
   },
   {
-    "title": "양융웨이 — 유도계의 예술가",
-    "description": "2021 도쿄 올림픽 유도 60kg급 은메달, 대만 최초 올림픽 유도 메달리스트, 동년 세계 랭킹 1위 달성",
+    "title": "양융웨이(楊勇緯)",
+    "description": "2021 도쿄 올림픽 유도 60kg급 은메달리스트이자 타이완 역사상 첫 유도 올림픽 메달리스트, 같은 해 11월 세계 랭킹 1위에 등극하다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/yang-yung-wei-judo-olympic-silver",
-    "readingTime": 17,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-21",
     "path": "ko/People/yang-yung-wei-judo-olympic-silver.md"
@@ -173898,6 +173916,23 @@
     "path": "ko/History/lin-shuang-wen-rebellion.md"
   },
   {
+    "title": "임청하",
+    "description": "1954년 태어난 그녀는 군인 마을에서 자랐으며, 1972년 시먼딩에서 스타 스카우트 양치에게 발탁되어 소개로 오디션을 본 후 경요 원작 《창외》의 주연으로 발탁되었다. 청순한 외모로 경요 영화 시대의 여신이 되었고, 진한, 진상림과 함께 중화권 전체를 휩쓴 고전적인 스크린 커플을 이루었으며, 헤어스타일과 의상이 모두 패션의 지표가 되었다. 1992년 다시 붉은 옷을 휘날리는 동방불패 역으로 무협 영화의 고전을 써내려가며 문예와 무협 두 시대를 아우르는 배우가 되었다.",
+    "category": "ko",
+    "tags": [
+      "임청하",
+      "배우",
+      "경요 영화",
+      "동방불패",
+      "화어 영화"
+    ],
+    "url": "https://taiwan.md/ko/people/brigitte-lin-legendary-actress",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/brigitte-lin-legendary-actress.md"
+  },
+  {
     "title": "잉가 도자기 올드스트리트: 굴뚝에서 궤도철도로, 200년 도예의 전환과 재생",
     "description": "한때 수많은 굴뚝으로 유명했던 '타이완의 경덕진', 잉가는 산업 전환과 관광화의 물결을 거쳐 신베이시 미술관 개관과 궤도철도 삼잉선의 개통을 맞이했다. 차세대 도예가들은 '산지 오픈 데이' 등의 활동을 통해 전통과 혁신, 관광과 산업 사이에서 지속 가능한 발전의 새로운 경로를 모색하고 있다.",
     "category": "ko",
@@ -174760,18 +174795,18 @@
     "path": "ko/People/chuang-chih-yuan-table-tennis-legend.md"
   },
   {
-    "title": "주거량 (Zhu Ge Liang)",
-    "description": "본명은 사신달(謝新達)로, 1946년 가오슝 좌잉에서 태어났다. 아버지는 대장장이였고 어머니는 채소를 팔았으며, 초등학교 졸업 후 학업을 중단하고 15세에 가자희(歌仔戲)를 배우기 시작했다. 1960년대에는 야시장에서 가수들을 흉내 내며 이름을 알렸고, 1970년대 대만 경제가 급성장하며 야간 엔터테인먼트 수요가 늘어남에 따라 쇼 문화가 등장하자 이를 적극 활용했다. 그는 전통 희곡, 민간 구비 문학, 그리고 대중적인 요소를 결합한 이른바 '주식 유머(豬式幽默)'를 선보였으며, 대만어(타이완어)로 즉흥적인 운율을 맞추며 서민의 언어를 TV 버라이어티 프로그램으로 끌어올렸다. 2017년 5월, 대장암으로 별세했다.",
+    "title": "주거량(豬哥亮)",
+    "description": "주거량(1946–2017, 본명 사신다)은 가오슝 좌잉 출생으로, 14세에 극단에 입단하여 31세에 블루사파이어 대가청의 진행자로 데뷔했다. 1980년대에는 《주거량 가청 쇼》 비디오로 타이완 전역에서 큰 인기를 끌었다. 1993년 도박 빚으로 잠적했으나, 2009년 \"해외 연수 중\"이라는 유행어와 함께 복귀하여 이듬해 금종장 예능 프로그램 진행상(綜藝節目主持人獎)을 수상했으며, 말년에는 매 설날마다 축제 영화를 선보였다.",
     "category": "ko",
     "tags": [
       "주거량",
-      "쇼 문화",
+      "쇼장",
       "코미디",
-      "버라이어티",
-      "대만어"
+      "예능",
+      "타이완어"
     ],
     "url": "https://taiwan.md/ko/people/zhuge-liang-showman",
-    "readingTime": 19,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/zhuge-liang-showman.md"
@@ -181538,17 +181573,6 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "ja/Culture/rukai-lily.md"
-  },
-  {
-    "title": "レイアーク：美学で立つ音楽帝国と、十四年の亀裂",
-    "description": "2012年、台大電資院出身の若者6人が3千万円を集めて『Cytus』を開発し、リリース1か月で14カ国のランキング1位に輝いた。十四年後、Deemoアニメ化、『インプロージョン』アニメは十一年経っても未納品、『Sdorica 万象物語』は2026年2月にメンテナンスモードに移行、2020年のICEモールス信号事件では従業員を切り離して中国市場を守る選択をした。美学がレイアークを世界に見せてくれた一方で、音楽以外の領域では何度も躓かせている。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/technology/rayark-games",
-    "readingTime": 104,
-    "featured": false,
-    "date": "2026-05-25",
-    "path": "ja/Technology/rayark-games.md"
   },
   {
     "title": "レイチャ：一杯の甘茶が、どう戦後移民の食文化を北埔の名物に変えたか",

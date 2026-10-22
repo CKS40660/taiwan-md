@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-21T22:06:07Z",
+  "timestamp": "2026-10-22T22:06:07Z",
   "total": 1149,
-  "flagged": 724,
+  "flagged": 726,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -547,7 +547,7 @@
     {
       "file": "technology/雷亞遊戲.md",
       "score": 4,
-      "reasons": "空洞詞16個; 未人工審核"
+      "reasons": "空洞詞17個; 未人工審核"
     },
     {
       "file": "technology/台灣資安產業發展.md",
@@ -1650,6 +1650,11 @@
       "reasons": "空洞詞5個; 未人工審核; 塑膠句4個; 英式短句開場4處"
     },
     {
+      "file": "people/豬哥亮.md",
+      "score": 4,
+      "reasons": "僅1個URL; 未人工審核; 稀薄段落×4"
+    },
+    {
       "file": "people/阿翰.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句1個; 破折號11個; 稀薄段落×1"
@@ -1781,8 +1786,8 @@
     },
     {
       "file": "people/沈伯洋.md",
-      "score": 4,
-      "reasons": "破折號11個; 分號7個; 英式短句開場4處"
+      "score": 6,
+      "reasons": "空洞詞6個; 破折號11個; 分號9個; 英式短句開場4處"
     },
     {
       "file": "people/楊勇緯.md",
@@ -1928,6 +1933,11 @@
       "file": "people/林昶佐.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 英式短句開場9處; 後段清單堆砌48%"
+    },
+    {
+      "file": "people/林青霞.md",
+      "score": 4,
+      "reasons": "空洞詞5個; 未人工審核; 稀薄段落×3"
     },
     {
       "file": "people/朴旻曙.md",
@@ -2195,11 +2205,6 @@
       "reasons": "空洞詞6個; 未人工審核; 塑膠句3個; 英式短句開場4處"
     },
     {
-      "file": "people/陳幸妤.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 分號6個; 稀薄段落×1"
-    },
-    {
       "file": "people/葉國一.md",
       "score": 4,
       "reasons": "空洞詞5個; 塑膠句1個; 分號7個; 英式短句開場3處"
@@ -2263,6 +2268,11 @@
       "file": "people/戴資穎.md",
       "score": 7,
       "reasons": "空洞詞12個; 塑膠句2個; 英式短句開場3處; 套路結尾; 無腳註"
+    },
+    {
+      "file": "people/桂綸鎂.md",
+      "score": 6,
+      "reasons": "年份3個; 未人工審核; 教科書開場; 稀薄段落×6"
     },
     {
       "file": "people/呂捷.md",

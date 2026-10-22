@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-10-22 06:06
+last_generated: 2026-10-23 06:06
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-10-22 06:06** · 頂層 \*.md 共 **304** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-10-23 06:06** · 頂層 \*.md 共 **305** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   688 | 36.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   694 | 36.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `evaluation/`                    |   173 | 4.9 MB   | —                                                    |
 | `editorial-room/`                |   104 | 818.6 KB | —                                                    |
@@ -43,11 +43,11 @@ type: auto-index
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 204.9 KB | —                                                    |
+| `404-monitor/`                   |     2 | 206.8 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 124.8 KB | —                                                    |
+| `newsroom/`                      |     2 | 125.2 KB | —                                                    |
 | `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
 | `audit/`                         |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
@@ -255,8 +255,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (133)
+### ops (134)
 
+- `2026-10-22` [design-identity-system-2026-10-22](design-identity-system-2026-10-22.md) — Taiwan.md 識別系統 v2：研究、發散、定案
 - `2026-10-18` [design-outcome-graded-generation-2026-10-18](design-outcome-graded-generation-2026-10-18.md) — 從流程規格到成果驗收：文章生產與維運的第三代
 - `2026-10-18` [evaluation-grader-pilot-2026-10-18](evaluation-grader-pilot-2026-10-18.md) — 閱卷小實驗：冷讀分身選不出哲宇選的那一版
 - `2026-10-18` [evaluation-grader-v2-2026-10-18](evaluation-grader-v2-2026-10-18.md) — 第二版閱卷：偵測抓得到，當閘門不行，當預審意見單有用
@@ -399,9 +400,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-10 (7 files)
+### 2026-10 (8 files)
 
-- Type breakdown: ops: 4 / audit-routine: 2 / evaluation: 1
+- Type breakdown: ops: 5 / audit-routine: 2 / evaluation: 1
+  - `2026-10-22` [design-identity-system-2026-10-22](design-identity-system-2026-10-22.md)
   - `2026-10-18` [design-outcome-graded-generation-2026-10-18](design-outcome-graded-generation-2026-10-18.md)
   - `2026-10-18` [evaluation-grader-pilot-2026-10-18](evaluation-grader-pilot-2026-10-18.md)
   - `2026-10-18` [evaluation-grader-v2-2026-10-18](evaluation-grader-v2-2026-10-18.md)
