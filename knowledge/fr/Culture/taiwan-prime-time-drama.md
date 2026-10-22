@@ -72,30 +72,30 @@ Placer les séries télévisées taïwanaises en prime time sur la scène intern
 
 ## Footnotes
 
-1. [La réplique classique du méchant Liu Wen-cong : « Je t'enverrai un bidon d'essence et une allumette »](https://time.udn.com/udntime/story/122834/7311370) - Bao Shiguang (2023) [↩](#user-content-fnref-1)
+[^1]: [La réplique classique du méchant Liu Wen-cong : « Je t'enverrai un bidon d'essence et une allumette …](https://time.udn.com/udntime/story/122834/7311370) — Chronique UDN sur la réplique du mauvais Liu Wen-cong dans les feuilletons de 20h
 
-1. [État des lieux et défis des dramas taïwanais : les chiffres vous disent la vérité](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Association professionnelle de la production audiovisuelle de la République de Chine [↩](#user-content-fnref-2)
+[^2]: [État des lieux et défis des dramas taïwanais : les chiffres vous disent la vérité](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Étude de l'Association professionnelle de la production audiovisuelle sur l'état des lieux et les défis des dramas taïwanais
 
-1. [Ba-diǎn-dàng - Wikipédia, l'encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) - Wikipedia [↩](#user-content-fnref-3)
+[^3]: [Ba-diǎn-dàng - Wikipédia, l'encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) — Entrée de Wikipédia sur Ba-diǎn-dàng, le feuilleton de 20h
 
-1. [Mutation génétique du drama rural : au-delà des mèmes, comment les jeunes spectateurs influencent l'écosystème des feuilletons en taïwanais ?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-4)
+[^4]: [Mutation génétique du drama rural : au-delà des mèmes, comment les jeunes spectateurs influencent l'…](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Article du The Reporter sur la mutation génétique du drama rural et l'influence des jeunes spectateurs
 
-1. [L'acteur Chang Chia-wei révèle son salaire pour les feuilletons de 20h : recevoir le script à l'aube est la norme](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) - ETtoday (2022) [↩](#user-content-fnref-5)
+[^5]: [L'acteur Chang Chia-wei révèle son salaire pour les feuilletons de 20h : recevoir le script à l'aube…](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) — Publication Facebook d'ETtoday STAR où Chang Chia-wei révèle son salaire et ses conditions de travail
 
-1. [Les secrets des scénaristes de feuilletons de 20h ! Des changements en temps réel selon l'audience et l'actualité](https://www.youtube.com/watch?v=y6F2W97rwsY) - SET Entertainment (2023) [↩](#user-content-fnref-6)
+[^6]: [Les secrets des scénaristes de feuilletons de 20h ! Des changements en temps réel selon l'audience e…](https://www.youtube.com/watch?v=y6F2W97rwsY) — Vidéo YouTube détaillant les secrets des scénaristes de feuilletons de 20h et l'adaptation à l'audience en temps réel
 
-1. [Redorer le blason des feuilletons de 20h — Les séries télévisées taïwanaises renaissent](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) - Taiwan Guanghua Magazine (2002) [↩](#user-content-fnref-7)
+[^7]: [Redorer le blason des feuilletons de 20h — Les séries télévisées taïwanaises renaissent](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) — Taiwan Panorama sur le renouveau des feuilletons de 20h taïwanais
 
-1. [20 ans d'évolution des dramas taïwanais : En 2004, Yi Nan Wang détient le record du plus grand nombre d'épisodes pour un feuilleton de 20h](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) - Xin Huoshui [↩](#user-content-fnref-8)
+[^8]: [20 ans d'évolution des dramas taïwanais : En 2004, Yi Nan Wang détient le record du plus grand nombr…](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) — Twenty Years of Taiwan TV Series de la Fondation de Culture : 20 ans d'évolution des dramas taïwanais
 
-1. [Mèmes, mélodrame et compagnie : la trinité qui attire les jeunes spectateurs vers les feuilletons en taïwanais](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-9)
+[^9]: [Mèmes, mélodrame et compagnie : la trinité qui attire les jeunes spectateurs vers les feuilletons en…](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Article du The Reporter sur les mèmes, le mélodrame et l'attirance des jeunes spectateurs pour les feuilletons
 
-1. [Un mème classique par jour jusqu'en 2027 Jour 102 : Édition spéciale Feuilleton de 20h « Cha-cha »](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) - Threads [↩](#user-content-fnref-10)
+[^10]: [Un mème classique par jour jusqu'en 2027 Jour 102 : Édition spéciale Feuilleton de 20h « Cha-cha »](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) — Publication Threads du compte de mèmes classiques, édition spéciale feuilleton de 20h « Cha-cha »
 
-1. [« Shì zài hā lō » devient taïwanais ! Le succès explosif de « Shì liē hā lō »](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-11)
+[^11]: [« Shì zài hā lō » devient taïwanais ! Le succès explosif de « Shì liē hā lō »](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Article du The Reporter sur la rewatchabilité de « Shì zài hā lō » et son succès taïwanais
 
-1. [État des lieux et défis des dramas taïwanais : les chiffres vous disent la vérité : le budget moyen d'un drama coréen est environ huit fois supérieur à celui d'un drama taïwanais](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Association professionnelle de la production audiovisuelle de la République de Chine [↩](#user-content-fnref-12)
+[^12]: [État des lieux et défis des dramas taïwanais : les chiffres vous disent la vérité : le budget moyen …](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Étude de l'Association professionnelle de la production audiovisuelle sur le budget moyen des dramas taïwanais
 
-1. [À propos du placement de produit dans les feuilletons de 20h : le placement est une source de revenus cruciale pour les chaînes](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) - Threads (2024) [↩](#user-content-fnref-13)
+[^13]: [À propos du placement de produit dans les feuilletons de 20h : le placement est une source de revenu…](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) — Publication Threads sur le placement de produit dans les feuilletons de 20h comme source de revenus
 
-1. [Yi Nan Wang (Série de 2004) - Le souvenir d'un premier amour inoubliable au Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) - Wikipedia [↩](#user-content-fnref-14)
+[^14]: [Yi Nan Wang (Série de 2004) - Le souvenir d'un premier amour inoubliable au Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87) — Entrée de Wikipédia sur Yi Nan Wang, série de 2004 et souvenir d'un premier amour à Hanoï

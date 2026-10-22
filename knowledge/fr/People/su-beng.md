@@ -110,7 +110,7 @@ En 2016, après l’élection de Tsai Ing‑wen, Su Beng a été nommé consei
 
 En 2017, des groupes locaux ont organisé à la promenade de Ketagalan une célébration anticipée de son centenaire, à laquelle la présidente Tsai Ing‑wen a personnellement assisté.[^wiki]
 
-Le 20 septembre 2019, aux alentours de 23 h, Su Beng est décédé à l’hôpital universitaire de Taipei pour cause de défaillance multiviscérale, à l’âge de 103 ans (âge nominal, 100 ans réels). De 1918 à ce soir, sa vie a traversé tout le XXᵉ siècle de Taïwan : l’ère japonaise, le 28 février, la loi martiale, l’exil et la démocratisation, chaque période étant vécue personnellement. Tsai Ing‑wen, dans son hommage, a déclaré que Su Beng partageait chaque Nouvel An avec elle et l’encourageait à tenir bon ; elle a ajouté : « L’an prochain, je garderai toujours une chaise pour lui à la table du réveillon, en souvenir de son dévouement à Taïwan. ”[^ltn]
+Le 20 septembre 2019, aux alentours de 23 h, Su Beng est décédé à l’hôpital universitaire de Taipei pour cause de défaillance multiviscérale, à l’âge de 103 ans (âge nominal, 100 ans réels). De 1918 à ce soir, sa vie a traversé tout le XXᵉ siècle de Taïwan : l’ère japonaise, le 28 février, la loi martiale, l’exil et la démocratisation, chaque période étant vécue personnellement.[^ltn][^udn] Tsai Ing‑wen, dans son hommage, a déclaré que Su Beng partageait chaque Nouvel An avec elle et l’encourageait à tenir bon ; elle a ajouté : « L’an prochain, je garderai toujours une chaise pour lui à la table du réveillon, en souvenir de son dévouement à Taïwan. ”[^ltn]
 
 Après l’annonce de son décès, la société taïwanaise a exprimé de nombreux hommages spontanés. Pour les indépendantistes, il représente un « O‑ri‑san » de toute une génération ; pour le grand public, c’est la légende d’un centenaire qui n’a jamais cessé de lutter pour la même cause. Le documentaire de Chen Li‑kui, _Révolution en marche_, avait déjà, de son vivant, transformé son parcours en une image cinématographique que l’on peut revisiter à volonté.[^doc]
 
@@ -145,6 +145,8 @@ Quel que soit le camp, il est rare de contester sa constance. De la désillusion
 [^initium]: [Le nationalisme taïwanais inachevé de Su Beng](https://theinitium.com/article/20190921-taiwan-subeng-nationalism) — Analyse de _Initium_ (2019) sur le contenu et l’impact du nationalisme taïwanais de Su Beng.
 
 [^yen]: [Entretien avec Yan Zeya : « Son indépendance vient de la prise de conscience du communisme »](https://udn.com/news/story/6656/4060121) — Article d’United Daily News (2019) où l’écrivain Yan Zeya explique la spécificité de la « indépendance » de Su Beng.
+
+[^nippon]: [Une étoile tombe — hommage à Su Beng, le « révolutionnaire à vie »](https://www.nippon.com/hk/japan-topics/g00763/) — Article de deuil Nippon.com du 15 octobre 2019 par Kumiko Hirano; relate la première rencontre de l’autrice avec Su Beng dans son bureau de Xinzhuang en 2003, évoque sa fuite de Taïwan en 1952 et l’ouverture du restaurant « Shin Chin-mi » à Ikebukuro, et cite ses mots : « Même s’il ne s’agit que d’un petit bout de terre, on ne doit pas le laisser perdre; c’est cela le pays, c’est cela la nation. »
 
 [^newbloom]: [Su Beng – portrait d’un révolutionnaire taïwanais de gauche](https://newbloommag.net/2016/03/02/su-beng-bio-tw/) — Portrait de _New Bloom Magazine_ (2016) détaillant la désillusion vis‑à‑vis du Parti communiste et la trajectoire idéologique.
 

@@ -99,7 +99,7 @@ _《डीईमो अंतिम प्रदर्शन》PS Vita संस
 ---
 
 ![2018 Rayark स्टॉल दृश्य, दूर से POP TEAM EPIC Pipimi और Popuko cosplayer खिलाड़ियों की पीठ दिखाई दे रही है](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_2018 रेयार्क स्टॉल का दृश्य; कॉस्प्ले खिलाड़ियों की पीठ। स्रोत: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg)। फोटो: खिलाड़ी कॉस्प्ले स्नैपशॉट, CC BY-SA 2.0।\_
+_2018 रेयार्क स्टॉल का दृश्य; कॉस्प्ले खिलाड़ियों की पीठ। स्रोत: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>)। फोटो: खिलाड़ी कॉस्प्ले स्नैपशॉट, CC BY-SA 2.0।\_
 
 ## स्विच के पहले रिलीज होने वाले वर्ष में, उन्होंने पांच काम एक साथ किए
 
@@ -351,6 +351,8 @@ ICE घटना ने "ब्रांड शुद्धता" तर्क 
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness टिप्पणी](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 खिलाड़ी टिप्पणी 'Cytus ने भी आर्केड बनाया, सौभाग्य से मैंने इसे लाइव अनुभव किया था, उस समय मैं ताइवान के बड़े संगीत गेम मशीन की उम्मीद कर रहा था' - Cytus: ओमेगा स्थान परीक्षण खिलाड़ी का व्यक्तिगत अनुभव
 
 [^sdorica-blackpongji]: [Sdorica ब्लैक पोंजी घटना - Sdorica वैनशिया कहानी बोर्ड + catchtest pixnet समीक्षा](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — ब्लैक पोंजी (Black Pongji) ज़ोंबी मैकेनिज्म + एक दौर में मज़ाक उड़ाना; ब्लैक पोंजी + एंजेलिया SP टीम की संरचना को हटा दिया गया; रेया ने कहा कि बग फिक्स खिलाड़ियों द्वारा स्वीकार नहीं किया गया था; व्हाइट पोंजी स्किन के लॉन्च के तुरंत बाद
+
+[^pttweb-rayark]: [PTT C_Chat Re: [सूचना] Sdorica — ताकतवर पात्रों का सामूहिक nerf, विवाद पकड़ रहा है](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — 2018-06-27 की PTT C_Chat चर्चा थ्रेड में जवाब; npn1992 «फिर व्हाइट पोंग निकला और सीधे उसे कमज़ोर कर दिया, बाद में बताया कि पहले यह बग था, प्रिंसेस SP कब से निकली», «ब्लैक पोंगजी और प्रिंसेस SP कब से निकली हैं, और अब अचानक बदल रहे हैं», «बहुत दिनों से चल रहा बग, व्हाइट पोंग निकलने के थोड़ी देर बाद ही बदला, कितनी कारगरता» — खिलाड़ियों ने खुद स्किन लॉन्च और पुराने पात्र के nerf के क्रम की तुलना की
 
 [^pttweb-rayark-thread]: [PTT C_Chat रेया गेम्स: सौंदर्यशास्त्र पर राष्ट्र का निर्माण संगीत साम्राज्य GTES रीपोस्ट थ्रेड](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 PTT C_Chat खिलाड़ी समुदाय चर्चा थ्रेड; selfet 'sdorica में पहले खेलने वाले गिल्ड के कुछ सर्व-टॉप खिलाड़ी ब्लैक पोंजी के कारण छोड़ गए'; Jamer 'ice के बाद भी गाने जारी रहे, यह सिर्फ एक पहचानने योग्य कीवर्ड होने के कारण है'
 

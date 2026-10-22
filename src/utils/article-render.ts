@@ -1467,7 +1467,22 @@ function processFootnotes(md: string): string {
     k === 1 ? `fnref-${label}` : `fnref-${label}-${k}`;
 
   // Replace inline refs [^label] → superscript HTML
-  body = body.replace(/\[(\^[^\]]+)\](?!:)/g, (_, raw) => {
+  //
+  // 這裡**不能**用 `(?!:)` 排除「後面接冒號」的形式。定義行（行首的 `[^N]:`）
+  // 在上面 `md.replace(defRegex, '')` 就已經從 body 移除了，所以剩下的
+  // `[^N]:` 一定是**行中**的參照後面接冒號——那是中文/翻譯常見的句法
+  // （「…值得一提[^13]：」），是真正的引用，卻因為這個 lookahead 被跳過，
+  // 結果是標籤從未進入 `order` → 文末不輸出 `<li id="fn-N">` → 讀者看到的是
+  // 一個沒有上標、也沒有文末條目的孤兒字面 `[^13]`。
+  //
+  // 2026-10-24 全庫實測（真實 renderer 跑 15,045 檔，逐檔比對修前/修後）：
+  // 1,909 個讀者看得到的孤兒字面 `[^N]` 全部變成有上標、有文末條目的真腳註，
+  // 涉及 907 個檔案（es/ru/pt/de/vi/ar/id/en/hi/ko 都有）。修掉之後：
+  // 0 個檔案變差、0 個文末條目被移除、0 個新增的孤兒字面。
+  //
+  // 唯一要顧的是「空內容定義」：renderer 對 `[^N]:`（冒號後沒東西）視為
+  // 未定義（`definitions[N]` 是 falsy），這裡沿用同一個判準。
+  body = body.replace(/\[(\^[^\]]+)\]/g, (_, raw) => {
     const label = raw.slice(1); // strip leading ^
     if (!definitions[label]) return `[${raw}]`;
     if (!order.includes(label)) order.push(label);

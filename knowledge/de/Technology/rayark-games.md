@@ -101,7 +101,7 @@ _Das Cover von 《DEEMO Last Recital》 für PS Vita; der Schwarz-Weiß-Märchen
 ---
 
 ![Szene vom Stand von Rayark im Jahr 2018, mit den Rückenansichten der Cosplayer Pipimi und Popuko aus 《POP TEAM EPIC》 in der Ferne](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Szene am Stand von Rayark im Jahr 2018, Rückenansicht der Cosplayer. Quelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Foto: Spieler-Cosplay-Schnappschuss, CC BY-SA 2.0.\_
+_Szene am Stand von Rayark im Jahr 2018, Rückenansicht der Cosplayer. Quelle: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Foto: Spieler-Cosplay-Schnappschuss, CC BY-SA 2.0.\_
 
 ## Fünf Dinge, die sie im Jahr des Switch-Debüts gleichzeitig machten
 
@@ -351,6 +351,8 @@ Dieser Artikel verwendet 8 lizenzierte Bilder, die alle in `public/article-image
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k Kommentare von data_pythoness](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — Kommentar eines Spielers am 26.05.2026: „Cytus hat auch Arcade-Automaten entwickelt, ich hatte das Glück, es live zu erleben; damals habe ich mich sehr auf große Musikspiele aus Taiwan gefreut“ – Erfahrungsbericht von Besuchern des Omega-Standortes von Cytus
 
 [^sdorica-blackpongji]: [Sdorica Black Pongji Vorfall – Sdorica Wanshang Story Board + Catchtest Pixnet Spielbericht](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Zombie-Mechanik Black Pongji + Spott für nur eine Runde; Das Team Black Pongji + Angelica SP wurde abgeschafft; Rayark behauptet, dass die Spieler die Bugfixes nicht akzeptiert haben; kurz nach der Veröffentlichung des White Pong Skin
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Info] Sdorica — Massen-Nerf starker Figuren, die Stimmung kippt](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Antworten im PTT C_Chat-Diskussionsstrang vom 27.06.2018; npn1992 «Und dann kam Bai Pong raus und wurde direkt abgeschwächt, und hinterher heißt es, es sei vorher ein Bug gewesen, wie lange ist die Prinzessin-SP schon drauf», «Wie lange sind Black Pongji und die Prinzessin-SP schon drauf, und jetzt ändert ihr plötzlich?», «Ein Bug, der ewig herumlag, kurz nachdem Bai Pong rauskam geändert, echt effizient» — die Spieler verglichen selbst die Reihenfolge von Skin-Veröffentlichung und Nerf der alten Figur
 
 [^pttweb-rayark-thread]: [PTT C_Chat Rayark Spiele: Musikimperium, das durch Ästhetik gegründet wurde – GTES Weiterleitungs-Thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — Diskussionsfaden in der PTT C_Chat Spielercommunity am 26.05.2026; selfet „Die ersten Spieler von Sdorica-Gilden, die wegen Black Pongji aufgegeben haben“; Jamer „Ice hat danach weiter Musik veröffentlicht, es ist nur ein Name, der keine Wiedererkennungswert hat“
 

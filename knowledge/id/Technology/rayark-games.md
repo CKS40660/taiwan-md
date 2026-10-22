@@ -95,7 +95,7 @@ _Sampul 《DEEMO Last Recital》 untuk PS Vita; gaya dongeng hitam putih adalah 
 ---
 
 ![Panggung stan Rayark pada tahun 2018, terlihat siluet pemain cosplay Pipimi dan Popuko di kejauhan](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Pemandangan stan Rayark pada tahun 2018, menampilkan siluet para pemain cosplay. Sumber: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Foto: tangkapan cosplay pemain, CC BY-SA 2.0.\_
+_Pemandangan stan Rayark pada tahun 2018, menampilkan siluet para pemain cosplay. Sumber: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Foto: tangkapan cosplay pemain, CC BY-SA 2.0.\_
 
 ## Limaan Awal di Switch, Mereka Melakukan Lima Hal Sekaligus
 
@@ -189,7 +189,7 @@ Pada tahun 2019, [Red Candle Games](/id/technology/red-candle-games) dengan 《�
 ## Implosion: Hari Nol
 
 ![Poster game Implosion Never Lose Hope, adegan aksi mecha dengan informasi App Store / Google Play](/article-images/technology/implosion-cover.webp)
-_Poster promosi 《Implosion: Never Lose Hope》 — game aksi mecha 3D, memenangkan Game of the Year Asia iOS tahun 2015. Sumber: [English Wikipedia File:Implosion-\_Never_Lose_Hope_-_cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png). Komentar editorial penggunaan wajar._
+_Poster promosi 《Implosion: Never Lose Hope》 — game aksi mecha 3D, memenangkan Game of the Year Asia iOS tahun 2015. Sumber: [English Wikipedia File:Implosion-\_Never_Lose_Hope\_-_cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png). Komentar editorial penggunaan wajar._
 
 Beberapa janji lebih buruk daripada keheningan.
 
@@ -347,6 +347,8 @@ Artikel ini menggunakan 8 gambar berlisensi, semuanya di-cache di `public/articl
 [^threads-cytus-arcade-comment]: [Komentar Threads taiwandotmd #DYwMkzBgW8k data_pythoness](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — Komentar pengguna pada 26 Mei 2026: 'Cytus juga membuat mesin arcade, saya beruntung pernah mengalaminya secara langsung. Saat itu sangat menantikan mesin game musik besar dari Taiwan' — Catatan pengalaman pribadi penguji lokasi Cytus: Omega
 
 [^sdorica-blackpongji]: [Insiden Pemotongan Black Pongji di Sdorica — Forum Cerita Sdorica + Ulasan Catchtest Pixnet](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Mekanisme zombie Black Pongji + ejekan batasan satu ronde; konfigurasi tim Black Pongji + Angelica SP dibatalkan; Rayark mengklaim perbaikan bug tidak diterima oleh pemain; tak lama setelah perilisan skin White Pong
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Berita] Sdorica — Karakter kuat di-bulk nerf, kontroversi memanas](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Balasan dalam thread diskusi PTT C_Chat tanggal 2018-06-27; npn1992 «Lalu Bai Pong keluar dan langsung dipotong, setelah itu bilang itu bug sebelumnya, sudah berapa lama SP Putri keluar», «Sudah berapa lama Black Pongji dan SP Putri keluar, sekarang baru diubah», «Bug yang sudah lama ada di sana, diubah tidak lama setelah Bai Pong keluar, efisien sekali» — para pemain membandingkan sendiri urutan peluncuran skin dan pemotongan karakter lama
 
 [^pttweb-rayark-thread]: [Thread PTT C_Chat Game Rayark: Kekaisaran Musik yang Membangun Negara dengan Estetika GTES](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — Diskusi komunitas pengguna PTT C_Chat pada 26 Mei 2026; selfet 'anggota guild sdorica pertama bermain di server utama karena pemotongan Black Pongji keluar'; Jamer 'setelah ice, masih ada lagu yang dirilis, itu murni kata kunci yang sulit dikenali'
 

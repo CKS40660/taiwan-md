@@ -99,7 +99,7 @@ _Capa de "DEEMO Final Recital" versão PS Vita, estilo conto de fadas preto e br
 ---
 
 ![Estande da Rayark em 2018, ao fundo silhuetas de cosplayers de Pipimi e Popuko de POP TEAM EPIC](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Estande da Rayark em 2018, silhuetas de cosplayers. Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Foto: snapshot de cosplay de jogador, CC BY-SA 2.0.\_
+_Estande da Rayark em 2018, silhuetas de cosplayers. Fonte: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Foto: snapshot de cosplay de jogador, CC BY-SA 2.0.\_
 
 ## No ano do lançamento do Switch, eles fizeram cinco coisas ao mesmo tempo
 
@@ -363,6 +363,8 @@ Este artigo usa 8 imagens autorizadas, todas em cache em `public/article-images/
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness comentário](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 comentário jogador "Cytus ainda queria sair no fliperama, tive a sorte de experimentar ao vivo, na época esperava muito ter máquina de jogo musical grande vinda de Taiwan, pena que depois sumiu sem ruído" — registro experiência jogador Cytus: Omega location testing
 
 [^sdorica-blackpongji]: [Evento nerf Black Pongji Sdorica — fórum Sdorica + catchtest pixnet impressões](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Black Pongji zombie mecânica + provocação limitada a uma rodada; time Black Pongji + Angela SP inviabilizado; Rayark alegou bug fix não aceito por jogadores; pouco após lançamento skin White Pongji
+
+[^pttweb-rayark]: [PTT C_Chat Re: [Informação] Sdorica — Nerf em massa dos personagens fortes, controvérsia fervendo](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — Respostas no fio de discussão de PTT C_Chat de 2018-06-27; npn1992 «E então o Bai Pong saiu e nerfaram na hora, depois dizem que antes era bug, há quanto tempo está a SP da princesa», «Há quanto tempo estão a Black Pongji e a SP da princesa, e agora mudam assim do nada», «Um bug que ficou lá muito tempo, mudaram logo depois de o Bai Pong sair, que eficiência» — os próprios jogadores compararam a ordem do lançamento do skin e do nerf do personagem antigo
 
 [^pttweb-rayark-thread]: [PTT C_Chat Rayark Games: império musical fundado na estética GTES repost thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 thread discussão comunidade jogadores PTT C_Chat; selfet "mais cedo jogava sdorica guilda cheia de jogadores top do servidor pararam por causa do nerf do Black Pongji"; Jamer "ice depois continuou lançando música, puramente o nome é difícil de ser palavra-chave com reconhecimento"
 

@@ -133,4 +133,4 @@ BBC의 2009년 보도 역시 그녀의 미국 방문 시험 일정을 천수이�
 
 [^10]: [자유시보: 진싱위 등장! 이혼이 상당 기간 지났다고 웃으며 말함: 미디어가 뉴스가 없어서](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — 2026년 공개 등장 보도 및 사진 출처, 그녀가 클리닉 외부에서 미디어 질의에 응답하는 장면을 기록한다.
 
-## [^11]: [Wikimedia Commons: 20161224 진싱위 치과 클리닉 개업.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — 황샹청이 2016년 12월 24일 업로드한 자체 작품, 파일 페이지는 CC BY-SA 4.0 라이선스 및 이름 표시 요구 사항을 명시한다.
+[^11]: [Wikimedia Commons: 20161224 진싱위 치과 클리닉 개업.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — 황샹청이 2016년 12월 24일 업로드한 자체 작품, 파일 페이지는 CC BY-SA 4.0 라이선스 및 이름 표시 요구 사항을 명시한다.

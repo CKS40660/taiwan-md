@@ -103,7 +103,7 @@ _غلاف نسخة PS Vita من «DEEMO ~العزف الأخير~»، والطا
 ---
 
 ![موقف Rayark في معرض عام 2018، وفي الخلفية يظهر من الخلف لاعبان يرتديان زي Pipimi وPopuko من «POP TEAM EPIC»](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_موقف Rayark في معرض عام 2018، من الخلف يظهر لاعبان بزي تنكري. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Photo: لقطة عفوية لأحد اللاعبين بزي تنكري, CC BY-SA 2.0.\_
+_موقف Rayark في معرض عام 2018، من الخلف يظهر لاعبان بزي تنكري. Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: لقطة عفوية لأحد اللاعبين بزي تنكري, CC BY-SA 2.0.\_
 
 ## في عام إطلاق Switch الأول، فعلوا خمسة أشياء في آنٍ واحد
 
@@ -367,6 +367,8 @@ _ملصق «Implosion: Never Lose Hope» الترويجي — لعبة أكشن 
 [^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness 留言](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — تعليق لاعب بتاريخ 2026-05-26: "Cytus كان يريد إصدار نسخة أركيد أيضًا، وحظيت بفرصة تجربتها ميدانيًا، وكنت متحمسًا حينها لآلة ألعاب موسيقية كبيرة قادمة من تايوان" — تجربة شخصية للاعب مع اختبار موقع Cytus: Omega
 
 [^sdorica-blackpongji]: [Sdorica 砍黑普吉事件 — Sdorica 萬象物語哈啦板 + catchtest pixnet 玩後感](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — آلية "zombie" الخاصة بـ Black Pongji (黑普吉) + تقييد مهارة "السخرية" لمرة واحدة في الجولة؛ إلغاء تشكيلة Black Pongji + أنجيليا SP؛ وصفت Rayark ذلك بإصلاح خلل فلم يتقبله اللاعبون؛ بُعيد إطلاق مظهر "باي بانغ"
+
+[^pttweb-rayark]: [PTT C_Chat Re: [خبر] Sdorica — تصفية جماعية لشخصيات قوية والأمر يتفاقم](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — ردود في نقاش PTT C_Chat بتاريخ 2018-06-27؛ npn1992 «ثم لما خرج الباي بانغ تم nerf مباشرة، وبعدها قالوا إن الموضوع كان bug، منذ متى خرجت SP الأميرة»، «منذ متى خرج البلاك بونج و SP الأميرة، والآن فجأة يغيّرون»، «bug موجود من مدة، غيّروه بعد ما خرج الباي بانغ بوقت قصير، كفاءة فعلاً» — اللاعبون قارنوا بأنفسهم بين تاريخ إطلاق المظهر وتاريخ nerf الشخصية القديمة
 
 [^pttweb-rayark-thread]: [PTT C_Chat 雷亞遊戲：以美學立國的音樂帝國 GTES 轉貼 thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — نقاش مجتمع اللاعبين على منتدى PTT C_Chat بتاريخ 2026-05-26؛ selfet: "كثير من أفضل لاعبي النقابات في الخادم انسحبوا من اللعبة بُعيد إلغاء Black Pongji، وكانوا من أوائل من لعبوا Sdorica"؛ Jamer: "ICE استمر في إصدار أغانٍ بعد ذلك، فقط اسمه صعب أن يكون كلمة مفتاحية يسهل تمييزها"
 
