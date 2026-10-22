@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-22 twmd-maintainer-daily — the-same-commit-that-removed-the-duplicate-list-silently-narrowed-the-match：拿掉第二份清單的那個 commit，同時把比對範圍縮到只剩第一行
+
+- **pattern**: the-same-commit-that-removed-the-duplicate-list-silently-narrowed-the-match
+- **原則**：一次重構同時改了兩件事——「資料從哪裡來」跟「怎麼比對」——而只有前者是它宣稱要做的。`viz_health` 規則 A（資料視覺化模組必標來源）2026-10-16 把來源標籤從寫死的 `資料來源|來源|source` 改成從 renderer 的 `VIZ_STRINGS.srcPrefix` 解析，commit 訊息與程式註解都在講這件事（而且做對了：那份寫死清單正是 renderer 註解明文拒絕維護的第二份清單）。同一個 diff 裡正則多了一個 `^` 錨點，卻沒有補 `re.MULTILINE`；而呼叫端是 `_SRC_RE.search(block_content)`、來源列永遠排在標題列**後面**，於是沒有任何一個區塊能命中。規則 A 從那天起變成「每個資料模組都缺來源」的全假陽性：全庫 110 篇、**332 個區塊全報缺來源，逐檔比對實際 332/332 都有來源列**。
+- **觸發**：本班為 issue #1893（讀者回報沈伯洋頁民調過期）照 graph.md §三.13 把單一快照的 `tw-bars` 換成帶誤差區間的 `tw-dot`，寫完跑檢查，它說這個新區塊缺來源——而來源列就在我自己剛寫的那四行下面。**假陽性被自己撞到才現形，不是被任何對賬撈出來的。**
+- **為什麼六天沒人發現（三件事疊起來，缺一個就會早點被抓到）**：(一) 規則 A 是 WARN 級，不讓任何閘門轉紅、不影響 `--profile=ci-deploy` 的 `hard=0`；(二) 它的訊息「缺來源標註」長得跟既有的格式債一模一樣，當班讀到會當成存量；(三) **`viz_health` 當時零測試覆蓋**——`tests/article_health/` 下二十幾個檔案沒有一個碰它。三者的共同點是「沒有人會因為它而停下來」。
+- **跟既有教訓的差異**：#83（檢查器兩把尺）講的是同一支工具對內對外不同調；#99（尺先驗再用）講的是新尺的讀數在抽驗前不可引用。本條是第三種形狀：**一把用了三個月的舊尺，在一次方向正確的重構裡被換掉了量程，而換的人跟後來讀它的人都以為它還是原來那把**。「先驗再用」的紀律預設新尺才需要驗，而這把尺的誕生日不是 10-16，只有它的行為是。
+- **可能層級**：通用反射候選（REFLEXES #99 的子規則：**重構改了實作的尺，要當新尺重驗一次，不能因為規則名稱沒變就沿用舊的信任**）。跟 #65（awareness instrument 自身要 cross-verify ground-truth grep count）是同一條：本條的 ground truth 就是一個十行的 python——「有幾個區塊含來源列」，跑一次就知道 332/332，而那次重構沒有人跑它
+- **已落地（本班）**：補回 `re.MULTILINE`（`9af7a12e4`），假陽性 332→0、負控制（真的缺來源、以及「備註：」這類非來源冒號列）照樣會叫；新增 `tests/article_health/test_viz_health.py` 六案例，其中一個直接斷言那個 flag、一個鎖住「標籤要從 renderer 解析」不准為修這個而退回寫死清單
+- **候選機械化**：(a) 任何檢查器的「存量歸零」本身就是訊號——規則 A 上線期間存量從未歸零也從未被對賬，可考慮在 `article-health --all` 加一行「本規則命中率 100% 或 0%」的自我體檢（兩端都可疑）；(b) `tests/article_health/` 的覆蓋率缺口該被量出來：目前 25 支 check 有多少支零測試？本班只補了一支
+- **相關**：#99（尺先驗再用）、#65 (f)（same-DNA 自製量尺）、#83（兩把尺 divergence）、#15（反覆浮現要儀器化——「規則有了但沒有測試」是這條的第 N 次）、issue #1890（同一天同一個家族：視覺化模組這一層的檢查問的都是形狀，沒有一道看過渲染後的實際字串）
+- **verification_count**: 1
+
 ### 2026-10-21 twmd-maintainer-daily — rolling-window-labelled-with-the-day-it-opened：404 帳本每一列的日期，命名的是窗口打開那天，而內容九成來自隔天
 
 - **pattern**: rolling-window-labelled-with-the-day-it-opened

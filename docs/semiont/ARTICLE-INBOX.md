@@ -177,6 +177,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 林郁婷 EVOLVE — 43 個引用指向從未存在的腳註，投稿工具把定義整段截掉，十三語一起顯示點不到的方括號數字
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-22 by twmd-maintainer-daily（來源 [issue #1891](https://github.com/frank890417/taiwan-md/issues/1891) by tboydar）
+- **Notes**:
+  - **規模**：zh 母稿 43 個引用（`[^12]`–`[^58]`）沒有定義，十二語譯本各 43 處＝516 處，合計 559 處，佔全庫斷腳註存量（752）的 **74%**。修母稿一次，譯本隨重翻一起解決
+  - **根因（git 考古，2026-10-22 查）**：不是「譯本漏搬」也不是「heal 漏補」。最初投稿 `206c8c817` 就把 `[^11]` 與 `[^12]` 黏在同一行，而 `[^12]` 的網址在 `https://tw.sports.yahoo.com/n` 處被投稿工具的 `(Content truncated due to size limit…)` 切斷，`[^13]`–`[^58]` 從未寫進檔案。`c0f587606`（08-14 heal）清掉的是那行截斷訊息，不是定義。**歷史裡也撈不回來**，連 `[^12]` 只剩半個網址
+  - **所以工作量是查證不是搬運**：47 個來源要重新找。既有 11 條都還在且可用（轉角國際、維基、BBC 中文、報導者、麗台、運動筆記、VERVE、聯合、天下文化），正文的主張多半繞著同一批報導，但「哪一句對應哪一篇」要逐條驗，不能用推論填（MANIFESTO §10）
+  - **讀者現在看到什麼**：站上十三語都印出一串點不到的 `[^12]`…`[^58]`，文末沒有對應條目。#1889 修掉 renderer 的 lookahead 之後，這一篇是少數**真的**缺定義（不是渲染問題）的檔案之一
+  - 切角不必改：這篇的敘事（曾自強背在背上那一背、性別爭議）不是問題所在，只有引用層要重建。建議走 REWRITE Stage 3 的查證段，不動 spine
+  - **順帶**：扣掉本篇家族後剩 193 處／106 檔，大半是翻譯產線的標籤幻覺（`[^1rightarrow]`／`[^2 6]`／`[^한]`），那一族的正解是在 babel 收件閘門加「譯文引用標籤 ⊆ 母稿定義標籤」，屬新增品質閘門需哲宇拍板，不在本條範圍
+- **Reference**: [issue #1891](https://github.com/frank890417/taiwan-md/issues/1891) / `scripts/tools/lib/article_health/checks/footnote_reference.py`（#1889 新增的 `footnote-reference` 檢查）
+
 ### 台灣電價機制與台電 NEW — 電價凍漲的帳單：台電、電價審議會與 711 億撥補
 
 - **Type**: `NEW`
