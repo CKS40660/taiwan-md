@@ -1,14 +1,14 @@
 ---
 title: 'Brigitte Lin'
-description: "Née en 1954 dans un village militaire de Taipei, elle fut la muse de l'ère des films de Qiong Yao grâce à sa pureté, avant de devenir une légende du cinéma de *wuxia* avec son rôle iconique d'Orient Invincible."
+description: "Née en 1954 et ayant grandi dans un village de militaires, elle a été découverte par le chasseur de têtes Yang Qi à Ximending en 1972. Après avoir passé des auditions sur recommandation, elle fut choisie pour le rôle principal de l'adaptation de l'œuvre de Chiung Yao, « Au-delà de la fenêtre ». Grâce à son visage d'une grande pureté, elle est devenue la déesse de l'ère des films de Chiung Yao, formant avec Qin Han et Qin Xianglin des couples iconiques qui ont passionné le monde chinois, ses coiffures et ses tenues devenant des références de mode. En 1992, elle a marqué l'histoire du cinéma de wuxia avec son rôle inoubliable de l'invincible Dongfang Bubai vêtue d'une robe rouge, traversant ainsi deux époques : celle du cinéma d'auteur et celle des films d'arts martiaux."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Brigitte Lin',
     'Actrice',
-    'Cinéma de Qiong Yao',
-    'Orient Invincible',
+    'Cinéma de Chiung Yao',
+    'Dongfang Bubai',
     'Cinéma sinophone',
   ]
 subcategory: '電影與戲劇'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'e53f17151'
-sourceContentHash: 'sha256:7e12cc4002fc2007'
-sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-16T00:52:57+08:00'
+sourceCommitSha: '5a694157b'
+sourceContentHash: 'sha256:d7565a0caf0e78ad'
+sourceBodyHash: 'sha256:c4c5c6f387033995'
+translatedAt: '2026-10-22T04:59:13.472645+00:00'
 ---
 
 # Brigitte Lin : de la muse romantique à la légende du wuxia
@@ -37,27 +37,25 @@ Avec le soutien de sa mère, elle décida de tenter l'aventure cinématographiqu
 
 ## La muse de l'ère des films de Qiong Yao
 
-Le succès de _Fenêtre sur l'extérieur_ en 1972 marqua le début de l'ère Brigitte Lin au sein des productions de Qiong Yao. Durant la décennie suivante, elle主演a de nombreuses œuvres de l'autrice, telles que _Les Nuages colorés_ ou _Le cœur aux mille nœuds_.
+Le succès de 《窗外》 (1973) a marqué le début de l'ère des films de Qiong Yao pour Brigitte Lin. Au cours de la décennie suivante, elle a joué les rôles principaux dans de nombreuses œuvres de Qiong Yao, telles que 《彩雲飛》, 《心有千千結》 et 《月朦朧鳥朦朧》.
 
-L'image de pureté de Brigitte Lin incarnait parfaitement les personnages féminins de Qiong Yao : innocents, bienveillants et mélancoliques. Ses collaborations avec Qin Han et Qin Xiang-lin formèrent des duos à l'écran devenus légendaires dans tout le monde sinophone.
+L'image pure de Brigitte Lin interprétait parfaitement les personnages féminins de l'écriture de Qiong Yao : innocents, bienveillants et mélancoliques. Ses collaborations avec Qin Han et Qin Xianglin ont formé des duos classiques à l'écran, devenant extrêmement populaires dans tout le monde chinois.
 
-Durant cette période, elle devint l'idole d'innombrables jeunes filles ; sa coiffure et son style vestimentaire dictaient les tendances de la mode. Les films de Qiong Yao connurent un succès commercial et une influence décuplés grâce à sa présence à l'écran.
+Durant cette période, Brigitte Lin est devenue l'idole d'innombrables jeunes filles, ses coiffures et ses vêtements devenant des références de mode. Les films de Qiong Yao ont également acquis une influence et un succès commercial accrus grâce à ses performances.
 
-## Diversification dans le cinéma romantique
+## Diversité des tentatives dans le cinéma d'auteur
 
-Au-delà des œuvres de Qiong Yao, Brigitte Lin explora d'autres genres dramatiques. En 1979, elle collabora avec le réalisateur Li Xing dans _Un bateau dans l'océan_, démontrant une maturité d'actrice accrue.
+Au-delà des films de Qiong Yao, Brigitte Lin n'a cessé d'accepter divers rôles dans des films d'auteur. 《我是一片雲》 (réalisé par Chen Hung-lie, 1977) et 《月朦朧鳥朦朧》 (réalisé par Chen Yao-chi, 1978) font partie de ses œuvres de cette période. En 1976, elle remporta le prix de la meilleure actrice aux Asia Pacific Film Festival pour son rôle dans 《八百壯士》, marquant ainsi le début de la reconnaissance de son talent d'actrice par les festivals.
 
-_Je suis un nuage_ (1981), l'un de ses chefs-d'œuvre de l'époque Qiong Yao, offrit des scènes poignantes avec Qin Han, illustrant sa profonde maîtrise du jeu émotionnel.
+Au début des années 1980, Brigitte Lin commença à réfléchir à une transition dans sa carrière artistique. Consciente que l'image unique de « déesse du cinéma d'auteur » pourrait limiter ses perspectives d'évolution, elle entreprit de chercher des opportunités pour se renouveler.
 
-Au début des années 1980, elle commença à réfléchir à une transition de carrière, consciente que son image unique de « muse romantique » pourrait limiter son évolution artistique.
+## Transition vers Hong Kong et collaboration avec la Nouvelle Vague
 
-## Transition vers Hong Kong et la Nouvelle Vague
+Dans les années 1980, Brigitte Lin se tourna vers le marché du cinéma hongkongais, une décision qui transforma radicalement sa carrière d'actrice. L'environnement diversifié et commercialisé du cinéma de Hong Kong lui offrit un espace de développement bien plus vaste.
 
-Au milieu des années 1980, Brigitte Lin se tourna vers le marché cinématographique de Hong Kong, une décision qui changea radicalement sa carrière. L'environnement diversifié et commercial de Hong Kong lui offrit un espace de développement bien plus vaste.
+Elle établit des collaborations avec les réalisateurs de la Nouvelle Vague hongkongaise, s'essayant à différents types de rôles. Ces expériences lui permirent de gagner en maturité d'interprétation, la préparant ainsi à accepter ultérieurement les rôles dans les films de _wuxia_ de Tsui Hark.
 
-Elle établit des collaborations avec les réalisateurs de la Nouvelle Vague de Hong Kong, expérimentant des rôles variés. Ces expériences affinèrent son jeu, la préparant à incarner les personnages épiques des films de _wuxia_ de Tsui Hark.
-
-Durant cette période de transition, elle maintint une présence active tant à Taïwan qu'à Hong Kong, devenant l'une des rares superstars capables de conquérir ces deux marchés. Son succès servit de modèle aux acteurs taïwanais souhaitant s'imposer à Hong Kong.
+Durant sa période à Hong Kong, Brigitte Lin maintint une présence active tant à Taïwan qu'à Hong Kong, devenant l'une des rares superstars capables de conquérir les deux marchés. Son succès servit de modèle aux acteurs taïwanais qui cherchèrent par la suite à s'imposer à Hong Kong.
 
 ## Un classique du wuxia : la performance subversive d'Orient Invincible
 
@@ -75,29 +73,29 @@ Outre _Swordsman II_, le duo collabora sur d'autres œuvres comme _New Dragon Ga
 
 Ces collaborations furent des succès tant critiques que commerciaux, prouvant la pertinence de sa transition. Elle n'était plus seulement l'égérie de Qiong Yao, mais une véritable actrice de talent.
 
-## Une expression plurielle dans les années 1990
+## La diversité de ses performances dans les années 1990
 
-Les années 1990 furent sa période la plus prolifique, où elle explora une vaste gamme de rôles, des films historiques aux drames modernes.
+Le début des années 1990 marqua l'ultime apogée de la carrière de Brigitte Lin avant son retrait. Elle explora une grande variété de rôles et remporta le prix de la meilleure actrice aux Golden Horse Awards en 1990 pour son rôle dans 《滾滾紅塵》. Des films de _wuxia_ (arts martiaux historiques) aux drames contemporains, ses performances furent remarquables.
 
-Qu'il s'agisse de Jin Xiangyu dans _New Dragon Gate Inn_, de l'assassin blonde dans _Chungking Express_ ou de Murong Yan dans _Ashes of Time_, chaque personnage possédait un charme unique, témoignant d'une amplitude de jeu impressionnante.
+Qu'il s'agisse de Jin Xiangyu dans 《新龍門客棧》, de la tueuse blonde dans 《重慶森林》 ou de Murong Yan dans 《東邪西毒》, chaque personnage possédait un charme unique. Brigitte Lin fit preuve d'une étendue de jeu impressionnante.
 
-Ses rôles dans les films de Wong Kar-wai (_Chungking Express_, _Ashes of Time_) l'associèrent au cinéma d'auteur, prouvant qu'elle pouvait exceller aussi bien dans le cinéma commercial que dans des œuvres hautement artistiques.
+Les films de Wong Kar-wai, tels que 《重慶森林》 et 《東邪西毒》, scellèrent le lien entre Brigitte Lin et le cinéma d'auteur, prouvant qu'elle était capable non seulement de porter des succès commerciaux, mais aussi de maîtriser des œuvres à forte dimension artistique.
 
-## Retrait de la scène et nouvelle étape de vie
+## Retraite du cinéma et nouvelle étape de vie
 
-En 1994, Brigitte Lin annonça son retrait du cinéma pour se consacrer à sa vie familiale. Si cette décision fut regrettable pour de nombreux fans, elle fut comprise comme un choix de vie personnel.
+Le 29 juin 1994, Brigitte Lin s'est mariée avec l'homme d'affaires hongkongais Sing Lee-yuan à San Francisco, avant de se retirer progressivement de la scène cinématographique pour se consacrer à sa vie de famille. Cette décision a suscité beaucoup de regret chez ses innombrables fans, qui ont néanmoins respecté son choix de vie.
 
-Après avoir quitté les plateaux, elle épousa l'homme d'affaires Sing Lee-yuan et eut deux filles. Se concentrant sur son foyer, elle s'éloigna des médias, ce qui renforça son aura de mystère.
+Après son mariage, elle a eu deux filles, nées respectivement en 1996 et en 2001. Elle a déplacé le centre de gravité de sa vie vers son foyer, apparaissant rarement en public, ce qui a renforcé son aura de mystère.
 
-Malgré son retrait, son influence ne faiblit pas. Ses œuvres classiques continuent d'être diffusées à la télévision, permettant aux nouvelles générations de découvrir son charisme.
+Bien qu'elle ait quitté le cinéma, l'influence de Brigitte Lin ne s'est pas démentie. Ses œuvres classiques continuent d'être rediffusées à la télévision, permettant aux nouvelles générations de spectateurs de découvrir son charme à travers ces films.
 
-## Tentatives de création littéraire
+## Une nouvelle tentative de création littéraire
 
-Après sa retraite, elle se tourna vers l'écriture, publiant notamment le recueil d'essais _Fenêtres intérieures et extérieures_ (_Chuang li chuang wai_). Elle y utilise une plume délicate pour consigner ses réflexions sur la vie.
+Après s'être retirée du monde du spectacle, Brigitte Lin a commencé à s'essayer à l'écriture, publiant successivement des recueils d'essais tels que 《窗裏窗外》 (2011) et 《雲去雲來》 (2014). Elle utilise une plume délicate pour consigner ses réflexions sur la vie et ses expériences personnelles.
 
-Ses écrits ont été salués par le monde littéraire, confirmant qu'elle était non seulement une actrice d'exception, mais aussi une écrivaine talentueuse. Cette polyvalence force l'admiration.
+Les écrits de Brigitte Lin ont reçu la reconnaissance du milieu littéraire, prouvant qu'elle est non seulement une excellente actrice, mais aussi une écrivaine talentueuse. Cette polyvalence suscite un respect encore plus grand à son égard.
 
-À travers ses textes, elle partage son expérience du métier et ses pensées, offrant aux fans un aperçu plus profond de son univers intérieur. Ces ouvrages constituent également des documents précieux sur l'histoire du cinéma.
+Elle partage également, à travers ses textes, son expérience du métier d'actrice et ses réflexions sur l'existence, permettant ainsi aux fans de mieux comprendre son monde intérieur. Ces œuvres constituent désormais de précieux documents historiques sur le cinéma.
 
 ## La signification particulière de ses apparitions occasionnelles
 
