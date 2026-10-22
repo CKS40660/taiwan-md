@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-23T02:44:28+08:00",
-    "zhCommitHead": "c96544dc3",
+    "lastUpdated": "2026-10-23T02:52:33+08:00",
+    "zhCommitHead": "f6733f20f",
     "totalZh": 1149,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1149,
-        "fresh": 1146,
-        "stale": 3,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1149,
-        "fresh": 1144,
-        "stale": 2,
+        "fresh": 1145,
+        "stale": 1,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1149,
-        "fresh": 1146,
-        "stale": 3,
+        "fresh": 1147,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1149,
-        "fresh": 1147,
-        "stale": 2,
+        "fresh": 1148,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -31070,8 +31070,8 @@
           "sourceContentHash": "sha256:96b285db19941653",
           "sourceBodyHash": "sha256:96ecb5a6142f55f7",
           "translatedAt": "2026-10-23T01:08:14+08:00",
-          "translationLastCommit": "cc99aece",
-          "translationLastModified": "2026-10-23T00:55:01+08:00",
+          "translationLastCommit": "f6733f20",
+          "translationLastModified": "2026-10-23T02:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 38928,
@@ -101582,8 +101582,8 @@
           "sourceContentHash": "sha256:207c26e5b764aafa",
           "sourceBodyHash": "sha256:e8b115a1f996f620",
           "translatedAt": "2026-10-23T02:24:43+08:00",
-          "translationLastCommit": "caf892d3",
-          "translationLastModified": "2026-10-16T07:35:31+08:00",
+          "translationLastCommit": "f6733f20",
+          "translationLastModified": "2026-10-23T02:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 13700,
@@ -101658,20 +101658,18 @@
         "id": {
           "path": "id/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T19:13:53.416331+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-22T18:43:06.243746+00:00",
           "translationLastCommit": "54906994",
           "translationLastModified": "2026-10-16T04:06:45+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 12828,
+          "footnoteDefs": 1,
+          "bytes": 12571,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+47 -90"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/zhuge-liang-showman.md",
@@ -101726,20 +101724,18 @@
         "ru": {
           "path": "ru/People/zhuge-liang-showman.md",
           "translatedFrom": "People/豬哥亮.md",
-          "sourceCommitSha": "9be0c5314",
-          "sourceContentHash": "sha256:d55c93f02208554f",
-          "sourceBodyHash": "sha256:267addb8edcb3bef",
-          "translatedAt": "2026-10-15T18:55:02.853954+00:00",
+          "sourceCommitSha": "b13002258",
+          "sourceContentHash": "sha256:207c26e5b764aafa",
+          "sourceBodyHash": "sha256:e8b115a1f996f620",
+          "translatedAt": "2026-10-23T02:24:51+08:00",
           "translationLastCommit": "26baf855",
           "translationLastModified": "2026-10-16T04:17:13+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 18930,
+          "footnoteDefs": 1,
+          "bytes": 20094,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+47 -90"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/zhuge-liang-showman.md",
@@ -111272,18 +111268,18 @@
         "en": {
           "path": "en/People/yang-yung-wei-judo-olympic-silver.md",
           "translatedFrom": "People/楊勇緯.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:requeue-section-loss",
-          "sourceBodyHash": "sha256:requeue-section-loss",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:66a5e0aae1a572b7",
+          "sourceBodyHash": "sha256:162f09653edec7c3",
+          "translatedAt": "2026-10-23T02:24:41+08:00",
           "translationLastCommit": "bcd1ce4f",
           "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12395,
+          "bytes": 13599,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/yang-yung-wei-judo-olympic-silver.md",
@@ -141122,18 +141118,18 @@
         "ar": {
           "path": "ar/People/chen-hsing-yu.md",
           "translatedFrom": "People/陳幸妤.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:requeue-section-loss",
-          "sourceBodyHash": "sha256:requeue-section-loss",
-          "translatedAt": "2026-09-10T12:43:28.808337+00:00",
+          "sourceCommitSha": "eddd0fe3f",
+          "sourceContentHash": "sha256:5f03c9523f81df75",
+          "sourceBodyHash": "sha256:9475c22b31e09d67",
+          "translatedAt": "2026-10-23T02:24:50+08:00",
           "translationLastCommit": "bcd1ce4f",
           "translationLastModified": "2026-10-23T01:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 28184,
+          "bytes": 28402,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-hsing-yu.md",
