@@ -25,8 +25,8 @@ const f = (n) => +n.toFixed(2);
 
 // ── 標誌規格（數字住這裡，手冊頁照印）────────────────────────────────
 export const SPEC = {
-  lines: 13, // 掃 13 行，本島範圍內落下 12 行
-  weight: 0.56, // 行粗＝行距 × 0.56
+  lines: 10, // 掃 10 行（v2.2：12 行在頁首尺寸太細，10 行在 20 px 以上都站得住）
+  weight: 0.6, // 行粗＝行距 × 0.6
   smallLines: 8, // 24 px 以下（island 圖示）
   markToCap: 1.9, // 組合時標誌高＝大寫高 × 1.9
   gapToCap: 0.42, // 標誌與字的間距＝大寫高 × 0.42
@@ -237,8 +237,8 @@ mkdirSync(DATA, { recursive: true });
 writeFileSync(
   join(DATA, 'identity.json'),
   JSON.stringify({
-    version: '2.0',
-    date: T.date,
+    version: '2.2',
+    date: '2026-10-23',
     spec: SPEC,
     island: {
       width: island.width,
@@ -262,6 +262,8 @@ writeFileSync(
       fonts: W.fonts,
       inkLeft: W.inkLeft,
       width: W.width,
+      capHeight: W.capHeight,
+      xHeight: W.xHeight,
     },
     tokens: T,
     downloads: Object.keys(files)
