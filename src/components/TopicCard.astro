@@ -58,6 +58,9 @@ const anim = animMap[slug] ?? 'floatDrift';
 
 const cardId = `tc-${slug}`;
 import { categoryIcons, iconSvg } from '../icons/taiwan-icons.mjs';
+
+// categoryIcons 來自 .mjs，推不出索引簽章；slug 是任意字串，查不到就退 island
+const iconMap: Record<string, string> = categoryIcons;
 ---
 
 <!--
@@ -111,7 +114,7 @@ import { categoryIcons, iconSvg } from '../icons/taiwan-icons.mjs';
     class="pointer-events-none absolute right-5 top-5 z-[2] h-12 w-12 translate-y-[6px] scale-[0.85] text-[var(--accent)] opacity-0 transition-[opacity,transform] duration-300 [transition-timing-function:cubic-bezier(0.34,1.56,0.64,1)] group-hover:translate-y-0 group-hover:scale-100 group-hover:opacity-[0.85] group-hover:[animation:var(--anim)_2.5s_ease-in-out_infinite] [&_svg]:h-full [&_svg]:w-full motion-reduce:transform-none motion-reduce:group-hover:animate-none motion-reduce:group-hover:transform-none"
     aria-hidden="true"
   >
-    <Fragment set:html={iconSvg(categoryIcons[slug] ?? 'island')} />
+    <Fragment set:html={iconSvg(iconMap[slug] ?? 'island')} />
   </div>
 
   <div
