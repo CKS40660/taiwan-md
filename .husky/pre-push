@@ -178,6 +178,34 @@ if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" != "1" ] &&
   fi
 fi
 
+# 2b-3. correctness gate — TypeScript / Astro 型別。HARD fail → block。只在這次 push 動到 src/ 時跑（~20s）。
+#     `check:types` 從來只活在 CI 的 Engineering contracts job 裡，本機一道都沒有。
+#     而 routine 是 main-direct push（不開 PR），所以型別錯誤從 push 到有人看 CI 之間完全沒有閘門：
+#     2026-10-22 識別系統 v2 把 `categoryIcons[slug]` 寫進 TopicCard.astro（.mjs 推不出索引簽章），
+#     main 連紅六輪、20 小時，隔天早班才看到。更貴的是它排在那條 job 的第一步，
+#     後面四道 npm audit 全部 skipped —— 一個型別錯誤把整排安全閘門一起關掉。
+#     只在動到 src/ 時跑，babel 那種每天幾十次的譯文 push 完全不受影響。
+#     逃生：TWMD_SKIP_TYPES=1。
+if [ "${TWMD_SKIP_TYPES:-0}" = "1" ]; then
+  echo "🧬 pre-push: TWMD_SKIP_TYPES=1，跳過型別閘門（CI 仍會擋）"
+elif command -v npm >/dev/null 2>&1 && git rev-parse --verify -q origin/main >/dev/null 2>&1; then
+  # || true：origin/main 剛被別人推走時 diff 仍可能失敗，不讓賦值失敗在 sh -e 下靜默炸掉整個 hook
+  _src_touched="$(git diff --name-only origin/main...HEAD 2>/dev/null | grep -cE '^(src/|astro\.config\.mjs|tsconfig\.json)' || true)"
+  case "$_src_touched" in ''|*[!0-9]*) _src_touched=0 ;; esac
+  if [ "$_src_touched" -gt 0 ]; then
+    if ! npm run check:types >/tmp/twmd-check-types.log 2>&1; then
+      echo ""
+      echo "🧬 pre-push: ⛔ 型別閘門紅了（本次 push 動到 $_src_touched 個 src/ 檔）— CI 的 contracts job 第一步就會死在這裡，後面四道 npm audit 連跑都不會跑。"
+      # astro check 的輸出帶 ANSI 色碼，先剝掉再抓，否則錨在行首的 pattern 一條都對不上
+      sed -E 's/\x1b\[[0-9;]*m//g' /tmp/twmd-check-types.log | grep -E '^src/|error ts\(' | head -10
+      echo "   明細：npm run check:types"
+      echo "   逃生：TWMD_SKIP_TYPES=1 git push …（reflog 留痕，CI 仍會擋）"
+      exit 1
+    fi
+    echo "🧬 pre-push: ✅ 型別閘門全綠（$_src_touched 個 src/ 檔）"
+  fi
+fi
+
 # 3. in-flight deploy 近完成 → 等它，避免白白取消（哲宇選 cancel-in-progress=true latest-wins）
 if [ "${TWMD_SKIP_PREPUSH_WAIT:-0}" = "1" ]; then
   echo "🧬 pre-push: TWMD_SKIP_PREPUSH_WAIT=1，跳過 in-flight CI 等待"
