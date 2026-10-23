@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-23 twmd-maintainer-daily — type-gate-lived-only-in-ci-while-routines-push-straight-to-main：一支從不出錯的檢查器連響六輪沒人聽見，因為它只活在 CI，而 routine 不開 PR
+
+- **pattern**: type-gate-lived-only-in-ci-while-routines-push-straight-to-main
+- **原則**：一道閘門的有效性不等於它的正確性，而等於「它響的那個房間裡有沒有人」。`npm run check:types` 從來沒有誤判過；它只是**只被 CI 的 Engineering contracts job 呼叫**，本機 `.husky/pre-commit` 與 `pre-push` 一道都沒接。而這個 repo 的 routine 全是 main-direct push、不開 PR——於是從 push 到有人去看 Actions 頁之間，型別這一層結構性地沒有任何閘門。10-22 識別系統 v2 把 `categoryIcons[slug]` 寫進 `TopicCard.astro`（那份表住在 `.mjs`，推不出索引簽章），**main 連紅六輪、二十小時**，六次都正確地叫了，六次都沒有人在聽。
+- **觸發**：本班 Stage 1 `ci-main-health.sh` 報 contracts RED。照 §Step 1.5c 先跑 `npm-audit-sweep.sh`，**五道 audit 全綠**——紅的不是 audit。進那條 job 才看到紅在第一步 `check:types`。
+- **第二層，比第一層貴**：那條 job 是 `check:types && audit1 && audit2 && audit3 && audit4` 串起來的。第一步紅掉，**後面四道 `npm audit` 全部 `skipped`**。一個型別錯誤把整排安全閘門關了二十小時，而 `skipped` 在任何摘要裡都不長得像壞消息。這是 §Step 1.5c 那段「`&&` 第一道紅了後面不跑」的形狀，只是這次卡在鏈的最前面——連 audit 是綠是紅都無從知道。
+- **兩個都誠實、合起來會騙人的讀數**：本班 `npm-audit-sweep.sh` 報五道全綠，那是**本機**跑出來的；CI 那次 run 裡那四道**一次都沒執行**。差一點就把那個綠讀成「audit 那一層沒事」收工。
+- **跟既有教訓的差異**：#82（proxy signal）講的是「量了替身」；本條更前面一層——**訊號是真的、量得也對，只是沒有人在接收端**。#52（immune system 沒在 fail loud 比缺 immune system 更危險）講工具不叫；本條是工具叫了，但叫在一個 main-direct 流程不會經過的地方。
+- **已落地（本班）**：(1) 型別錯誤修掉（`37dcc7044`，照同檔既有的 `accentMap: Record<string, string>` 寫法宣告區域別名）(2) `.husky/pre-push` 補型別閘門（`2b3557697`），**只在這次 push 動到 `src/`／`astro.config.mjs`／`tsconfig.json` 時才跑**，babel 每天幾十次譯文 push 碰不到它；逃生口 `TWMD_SKIP_TYPES=1`。上線前過正負控制，同班 push 時實跑並印出「✅ 型別閘門全綠（1 個 src/ 檔）」
+- **正控制撈到了自己的 bug**（值得單獨記）：那道新閘門的攔截邏輯第一次就對，但**印給人看的診斷行錯了**——grep 錨在行首，而 `astro check` 的輸出帶 ANSI 色碼、行首是 ESC 字元，一條都對不上。只跑「乾淨樹會不會放行」永遠看不到這個 bug。**負控制不只是確認它會擋，是確認它擋下來的時候講得出人話。**
+- **候選機械化**：(a) **本班只補了型別這一支**。真正該量的是 `package.json` 裡十幾個 `check:*` 還有哪幾支同樣只活在 CI、本機零閘門——對 main-direct 的 routine 來說那幾支全是裸奔。那是一個十分鐘的對賬：workflow 每一步的指令 vs `.husky/*` 實際呼叫的指令，沒有人做過 (b) `ci-main-health.sh` 對 RED 的 job 多印一行「這條 job 有 N 步、紅在第幾步、後面幾步是 skipped」，讓連鎖關閉看得見
+- **相關**：#82（proxy signal）、#52（fail loud）、#99（尺先驗再用——本條是它在「診斷訊息」那一層的延伸）、#15（反覆浮現要儀器化）、§Step 1.5c（`&&` 鏈）
+- **verification_count**: 1
+
 ### 2026-10-22 twmd-maintainer-daily — the-same-commit-that-removed-the-duplicate-list-silently-narrowed-the-match：拿掉第二份清單的那個 commit，同時把比對範圍縮到只剩第一行
 
 - **pattern**: the-same-commit-that-removed-the-duplicate-list-silently-narrowed-the-match
